@@ -1,20 +1,13 @@
 [
   {
+    "loop_count": 4,
     "jp_string": "ウィングブロウ",
     "en_string": "Wing Blower"
   },
   {
-    "jp_string": "装備時こうげき力+5",
-    "en_string": "Attack Power +5"
-  },
-  {
     "loop_count": 4,
     "jp_string": "裂鋼拳",
-    "en_string": "Rikkoken"
-  },
-  {
-    "jp_string": "装備時かいしん率+2%",
-    "en_string": "Rate of Advancement +2%"
+    "en_string": "S. Fist"
   },
   {
     "loop_count": 4,
@@ -22,21 +15,19 @@
     "en_string": "Sure Shot"
   },
   {
-    "jp_string": "装備時こうげき力+5",
-    "en_string": "Attack Power +5"
-  },
-  {
     "loop_count": 4,
     "jp_string": "タイガークロー",
     "en_string": "Tiger Claw"
   },
   {
+    "loop_count": 4,
     "jp_string": "装備時かいしん率+2%",
     "en_string": "Rate of Advancement +2%"
   },
   {
+    "loop_count": 4,
     "jp_string": "装備時こうげき力+5",
-    "en_string": "Attack Power +5"
+    "en_string": "AP +5 When Worn"
   },
   {
     "loop_count": 4,
@@ -46,7 +37,7 @@
   {
     "loop_count": 2,
     "jp_string": "装備時こうげき力+20",
-    "en_string": "Attack Power +20"
+    "en_string": "AP +20 When Worn"
   },
   {
     "loop_count": 4,
@@ -59,23 +50,19 @@
     "en_string": "Rate of Advancement +5%"
   },
   {
-    "loop_count": 2,
-    "jp_string": "装備時こうげき力+20",
-    "en_string": "Attack Power +20"
-  },
-  {
     "loop_count": 4,
     "jp_string": "雷鳴突き",
     "en_string": "E. Thrust"
   },
   {
+    "loop_count": 4,
     "jp_string": "装備時武器ガード率+8%",
-    "en_string": "Weapon Guard +8%"
+    "en_string": "Weapon Guard +8% When Worn"
   },
   {
     "loop_count": 2,
     "jp_string": "装備時こうげき力+25",
-    "en_string": "Attack Power +25"
+    "en_string": "AP +25 When Worn"
   },
   {
     "loop_count": 4,
@@ -85,11 +72,186 @@
   {
     "loop_count": 2,
     "jp_string": "装備時こうげき力+30",
-    "en_string": "Attack Power +30"
+    "en_string": "AP +30 When Worn"
   },
   {
     "loop_count": 3,
     "jp_string": "一閃突き・改",
     "en_string": "F. Thrust Kai"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "装備時こうげき力+10",
+    "en_string": "AP +10 When Worn"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "足ばらい",
+    "en_string": "Leg Purify"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "装備時武器ガード率+4%",
+    "en_string": "Weapon Guard +4% When Worn"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "黄泉送り",
+    "en_string": "Deliverance"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "装備時こうげき力+15",
+    "en_string": "AP +15 When Worn"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "なぎはらい",
+    "en_string": "Party Pooper"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "装備時身かわし率+4%",
+    "en_string": "Dodge Rate +4% When Worn"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "氷結らんげき",
+    "en_string": "Crushed Ice"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "天地のかまえ",
+    "en_string": "Counter Wait"
+  },
+  {
+    "loop_count": 5,
+    "jp_string": "花ふぶき",
+    "en_string": "Flower Power"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "明鏡止水",
+    "en_string": "Still Water"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "波紋演舞",
+    "en_string": "Water Slay"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "装備時みとれる+5%",
+    "en_string": "Surprise 5% When Worn"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "おうぎのまい",
+    "en_string": "Fan Dango"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "アゲハ乱舞",
+    "en_string": "Akeha Dance"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "素手時こうげき力+10",
+    "en_string": "Offense +10 When Worn"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "石つぶて",
+    "en_string": "Stone Throw"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "素手時かいしん率+2%",
+    "en_string": "Bare Hand Advancement +2%"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "かまいたち",
+    "en_string": "Wind Sickles"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "素手時こうげき力+20",
+    "en_string": "Offense +20 When Worn"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "せいけん突き",
+    "en_string": "Knuckle Sandwich"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "素手時身かわし率+2%",
+    "en_string": "Surprise +2% When Worn"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "ムーンサルト",
+    "en_string": "Harvest Moon"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "素手時こうげき力+40",
+    "en_string": "Offense +40"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "ばくれつけん",
+    "en_string": "Multifists"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "ためる（専）",
+    "en_string": "Accrue"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "全職業できようさ+20",
+    "en_string": "+20 Dex To All Classes"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "心頭滅却",
+    "en_string": "Clear Mind"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "全職業ですばやさ+30",
+    "en_string": "+30 Agility To All Classes"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "不撓不屈（専）",
+    "en_string": "Indomitability"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "全職業でちから+10",
+    "en_string": "+10 Power To All Classes"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "おたけび",
+    "en_string": "Warcry"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "全職業でさいだいＨＰ+40",
+    "en_string": "+40 HP To All Classes"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "めいそう（専）",
+    "en_string": "Meditation"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "ためる弐（専）",
+    "en_string": "Accrue 2"
   }
 ]

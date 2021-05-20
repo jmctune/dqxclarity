@@ -24,7 +24,7 @@ You'll probably see `problem.txt`, `address.txt` and `times.txt` pop up in that 
 
 ## How it works
 
-In the `json` folder is a structure of Japanese and English translated text. The Japanese text is convered from a utf-8 string to hex, then searched for in the active process's memory. When found, it replaces the hex values with it's English equivalent.
+In the `json` folder is a structure of Japanese and English translated text. The Japanese text is convered from a utf-8 string to hex, then searched for in the active process's memory. When found, it replaces the hex values with its English equivalent.
 
 As an example, with a structure like the following:
 
@@ -52,7 +52,7 @@ All of the above flags are optional, but `jp_string` and `en_string` are mandato
 
 ## How to contribute
 
-Thanks for considering to contribute. If you choose to, there are several menu items and descriptions, spells and skills that still need to be translated. Additionally, if you can read Japanese, accurate translations are better. No "coding" is required -- just need to be able to understand how the json format works.
+Thanks for considering to contribute. If you choose to, there are several menu items, menu descriptions, spells and skills that still need to be translated. Additionally, if you can read Japanese, accurate translations are better. No "coding" is required -- just need to be able to understand how the json format works.
 
 With the way this script works, exact translations sometimes won't work -- and here's why:
 
@@ -75,3 +75,12 @@ In-game, "フレンドや", "チームメンバーに", and "かきおきを書�
 The format should match what the rest of the files look like. Pay attention to spaces (no tabs) and keep everything indented the same (two spaces per indent).
 
 Preferably, you would fork this repo and submit a pull request, but if you're unfamiliar with git, you can provide your json changes to the #clarity-discussion channel and get them merged.
+
+These are the things that are known to work and need translating:
+
+- All class talent trees (just the actual skill/spell name). Categories and skill/spell descriptions will not currently work with dqxclarity
+- Command menu items (Mostly things in Misc and Beastiary)
+- Command menu descriptions
+- Any untranslated items in the battle menus
+
+If it's not on this list, don't worry about it as dqxclarity probably can't consistently change it.

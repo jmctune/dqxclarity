@@ -41,6 +41,7 @@ startTime := A_TickCount
 
 ;; Loop through all files in json directory
 Loop, Files, json\*.json, F
+;Loop, Files, json\skill_tree_martial_artist.json, F
 {
   FileRead, jsonData, %A_ScriptDir%\%A_LoopFileFullPath%
   data := JSON.Load(jsonData)
@@ -75,22 +76,18 @@ Loop, Files, json\*.json, F
 
     GuiControl,, Notes, Reading %A_ScriptDir%\%A_LoopFileFullPath%`n`nOn this text:`n`nJP: %jp_raw%`nEN:%en_raw%
 
-    ;; If the string length doesn't match, we add blank text until it does.
-    ;; We still want room to add 00 at the end of our string.
+    ;; If the string length doesn't match, add null terms until it does.
     if (jp_len != en_len)
     {
-      ;; Remove the 00 we added earlier as we aren't ready
-      ;; to terminate the string yet. 
+      ;; Remove the last 00 we added earlier as we aren't ready
+      ;; to 'terminate' the string yet. 
       en := SubStr(en, 1, (en_len - 2))
       Loop
       {
-        en .= 02
+        en .= 00
         new_len := StrLen(en)
       }
-      Until ((jp_len - new_len) == 2)
-
-      ;; Finally, add the terminator to complete the string.
-      en .= 00
+      Until ((jp_len - new_len) == 0)
 
       ;; Some strings in memory don't have a clear cut null terminator
       ;; at the beginning and end of each string, so we need to account
@@ -120,12 +117,10 @@ Loop, Files, json\*.json, F
     }
     memWrite(jp, en, jp_raw, en_raw, loop_count)
   }
-
-  
-  GuiControl,, Notes, Done.`n`nElapsed time: %elapsedTime%ms
 }
 
 elapsedTime := A_TickCount - startTime
+GuiControl,, Notes, Done.`n`nElapsed time: %elapsedTime%ms
 FileAppend, Last run time: %elapsedTime%ms`n, times.txt
 Sleep 3000
 ExitApp
