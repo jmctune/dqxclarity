@@ -1,0 +1,87 @@
+[
+  {
+    "jp_string": "ふくびきをする",
+    "en_string": "Play Lucky Draw"
+  },
+  {
+    "jp_string": "元気チャージ交換",
+    "en_string": "Charge Time Exchange"
+  },
+  {
+    "jp_string": "特訓元気玉,
+    "en_string": "Stamp Orb"
+  },
+  {
+    "jp_string": "元気玉",
+    "en_string": "Bonus Orb"
+  },
+  {
+    "jp_string": "小元気玉",
+    "en_string": "Bonus Orb S"
+  },
+  {
+    "jp_string": "超元気玉",
+    "en_string": "Bonus Orb L"
+  },
+  {
+    "jp_string": "メタル迷宮招待券",
+    "en_string": "Metal Lab Invite"
+  },
+  {
+    "jp_string": "ゼルメアの聖紋",
+    "en_string": "Zelmea Crest"
+  },
+  {
+    "jp_string": "クエスト案内を見る",
+    "en_string": "Quest Suggestion"
+  },
+  {
+    "jp_string": "本日のガイドを見る",
+    "en_string": "Daily Tips"
+  },
+  {
+    "jp_string": "ダブルすれちがい報告",
+    "en_string": "Double Passing Report"
+  },
+  {
+    "jp_string": "サーバー移動する",
+    "en_string": "Move Server"
+  },
+  {
+    "jp_string": "おくりもの受け取り",
+    "en_string": "Receive a Gift"
+  },
+  {
+    "jp_string": "サポートゴールド",
+    "en_string": "Support Gold"
+  },
+  {
+    "jp_string": "カジノコインチケット",
+    "en_string": "Casino Coin Ticket"
+  },
+  {
+    "jp_string": "ビンゴ券",
+    "en_string": "BingoTicket"
+  },
+  {
+    "jp_string": "カジノプレイチケット",
+    "en_string": "Casino Play Ticket"
+  },
+  {
+    "jp_string": "ストーリー報酬",
+    "en_string": "Story Reward"
+  },
+  {
+    "jp_string": "お預かり経験値",
+    "en_string": "Saved XP"
+  },
+  {
+    "jp_string": "経験値お預かり設定",
+    "en_string": "Saved XP Settings"
+  },
+  {
+    "loop_count": 3,
+    "jp_string": "説明を聞く",
+    "en_string": "Explanation"
+  }
+]
