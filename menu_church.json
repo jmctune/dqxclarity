@@ -1,0 +1,43 @@
+[
+  {
+    "jp_string": "おいのりをする",
+    "en_string": "Pray"
+  },
+  {
+    "line_break": true,
+    "jp_string": "チカラ尽きた時に 復活する場所を この教会にします",
+    "en_string": "Register this|church for|resurrection"
+  },
+  {
+    "line_break": true,
+    "jp_string": "この場所を ルーラストーンに 記憶させます",
+    "en_string": "Register this|place in|the Zoomstone"
+  },
+  {
+    "jp_string": "いきかえらせる",
+    "en_string": "Revive"
+  },
+  {
+    "line_break": true,
+    "jp_string": "仲間をひとり いきかえらせます",
+    "en_string": "Revive a|party member"
+  },
+  {
+    "jp_string": "どくのちりょう",
+    "en_string": "Cure Poison"
+  },
+  {
+    "line_break": true,
+    "jp_string": "仲間ひとりの 毒をなおします",
+    "en_string": "Removes poison|from a|party member"
+  },
+  {
+    "jp_string": "のろいをとく",
+    "en_string": "Remove Curse"
+  },
+  {
+    "line_break": true,
+    "jp_string": "仲間ひとりの 呪いを解きます",
+    "en_string": "Removes curse|from a|party member"
+  }
+]
