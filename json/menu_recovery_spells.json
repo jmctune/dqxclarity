@@ -1,0 +1,66 @@
+[
+  {
+    "jp_string": "ホイミ",
+    "en_string": "Heal"
+  },
+  {
+    "jp_string": "ベホイミ",
+    "en_string": "Midheal"
+  },
+  {
+    "jp_string": "べホイム",
+    "en_string": "Moreheal"
+  },
+  {
+    "jp_string": "ベホマ",
+    "en_string": "Fullheal"
+  },
+  {
+    "jp_string": "ベホマラー",
+    "en_string": "Multiheal"
+  },
+  {
+    "jp_string": "リホイミ",
+    "en_string": "Reheal"
+  },
+  {
+    "jp_string": "リベホイミ",
+    "en_string": "Remidheal"
+  },
+  {
+    "jp_string": "リベホイム",
+    "en_string": "Remoreheal"
+  },
+  {
+    "jp_string": "キアリー",
+    "en_string": "Squelch"
+  },
+  {
+    "jp_string": "キアリク",
+    "en_string": "Tingle"
+  },
+  {
+    "jp_string": "ザメハ",
+    "en_string": "Wake Up"
+  },
+  {
+    "jp_string": "マヌーハ",
+    "en_string": "Dedazzle"
+  },
+  {
+    "jp_string": "マホリー",
+    "en_string": "Defizzle"
+  },
+  {
+    "jp_string": "ザオ",
+    "en_string": "Zin"
+  },
+  {
+    "jp_string": "ザオラル",
+    "en_string": "Zing"
+  },
+  {
+    "jp_string": "ザオリク",
+    "en_string": "Kazing"
+  }
+]
