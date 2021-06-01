@@ -7057,13 +7057,11 @@
         "jp_string": "仲間ひとりの マヒを治す 使ったらなくなる",
         "en_string": ""
       },
-      [
-        {
+      {
         "line_break": true,
         "jp_string": "仲間ひとりの 毒を治す 使ったらなくなる",
         "en_string": "Cures one|companion|of poison."
-        }
-      ],
+      },
       {
         "jp_string": "仲間ひとりの 混乱を治す 使ったらなくなる",
         "en_string": ""
