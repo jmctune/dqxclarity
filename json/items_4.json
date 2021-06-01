@@ -7057,10 +7057,13 @@
         "jp_string": "仲間ひとりの マヒを治す 使ったらなくなる",
         "en_string": ""
       },
-      {
+      [
+        {
+        "line_break": true,
         "jp_string": "仲間ひとりの 毒を治す 使ったらなくなる",
         "en_string": "Cures one|companion|of poison."
-      },
+        }
+      ],
       {
         "jp_string": "仲間ひとりの 混乱を治す 使ったらなくなる",
         "en_string": ""
@@ -7085,14 +7088,19 @@
         "jp_string": "仲間ひとりの毒と ＨＰ６０～回復 使ったらなくなる",
         "en_string": ""
       },
-      {
+      [
+        {
+        "line_break": true,
         "jp_string": "仲間ひとりをＨＰ 半分で生き返す 使ったらなくなる",
-        "en_string": "Revives party member|with half HP.|"
-      },
-      {
+        "en_string": "Revives party member|with half HP|and MP."
+        }
+      ],
+      [
+        {"line_break": true,
         "jp_string": "仲間モンスターの スキルポイントを 振り直せる魔草",
         "en_string": ""
-      },
+        }
+      ],
       {
         "jp_string": "仲間モンスターの 外見を変えられる 不思議な券",
         "en_string": ""
