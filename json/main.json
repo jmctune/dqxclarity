@@ -596,7 +596,7 @@
       },
       {
         "jp_string": "<%sM_item><%sM_rurastone><%sM_dot><%sM_sub>の石",
-        "en_string": "<%sM_item><%sM_rurastone><%sM_dot><%sM_sub>stones"
+        "en_string": ""
       },
       {
         "jp_string": "<%sM_item>のとくちょう",
@@ -2816,7 +2816,7 @@
       },
       {
         "jp_string": "いまの自分の姿を映す",
-        "en_string": "Add Current Look"
+        "en_string": "Reset Look"
       },
       {
         "jp_string": "いままでのきろく",
@@ -2860,7 +2860,7 @@
       },
       {
         "jp_string": "いろいろ操作",
-        "en_string": ""
+        "en_string": "Miscellaneous"
       },
       {
         "jp_string": "いろいろ設定",
@@ -2956,7 +2956,7 @@
       },
       {
         "jp_string": "おしゃレシピ",
-        "en_string": ""
+        "en_string": "Fashion"
       },
       {
         "jp_string": "おすすめ",
@@ -4080,7 +4080,7 @@
       },
       {
         "jp_string": "さい",
-        "en_string": ""
+        "en_string": "SEW"
       },
       {
         "jp_string": "さいしょから",
@@ -4252,7 +4252,7 @@
       },
       {
         "jp_string": "しぐさ書",
-        "en_string": ""
+        "en_string": "Gesture"
       },
       {
         "jp_string": "しぐさ書・ポーズ書",
@@ -4636,7 +4636,7 @@
       },
       {
         "jp_string": "そうびシャッフル",
-        "en_string": ""
+        "en_string": "Equip Shuffle"
       },
       {
         "jp_string": "そうび中",
@@ -4664,7 +4664,7 @@
       },
       {
         "jp_string": "そうび外し",
-        "en_string": ""
+        "en_string": "Reset"
       },
       {
         "jp_string": "そうび対象",
@@ -8848,7 +8848,7 @@
       },
       {
         "jp_string": "スライム",
-        "en_string": ""
+        "en_string": "Slime"
       },
       {
         "jp_string": "スライムと別れる",
@@ -8884,7 +8884,7 @@
       },
       {
         "jp_string": "スライムベス",
-        "en_string": ""
+        "en_string": "Slime Bess"
       },
       {
         "jp_string": "スライムレース",
@@ -9112,11 +9112,11 @@
       },
       {
         "jp_string": "タイプ",
-        "en_string": ""
+        "en_string": "Type"
       },
       {
         "jp_string": "タイプ<%sM_type_num>",
-        "en_string": ""
+        "en_string": "Type <%sM_type_num>"
       },
       {
         "jp_string": "タイプせつめい",
@@ -9124,15 +9124,15 @@
       },
       {
         "jp_string": "タイプ１",
-        "en_string": ""
+        "en_string": "Type 1"
       },
       {
         "jp_string": "タイプ２",
-        "en_string": ""
+        "en_string": "Type 2"
       },
       {
         "jp_string": "タイプ３",
-        "en_string": ""
+        "en_string": "Type 3"
       },
       {
         "jp_string": "タウンストーン",
@@ -9512,7 +9512,7 @@
       },
       {
         "jp_string": "チームドルボード",
-        "en_string": "Team Dollar Board"
+        "en_string": "Team Dolworm Board"
       },
       {
         "jp_string": "チームドルボードについて",
@@ -9616,7 +9616,7 @@
       },
       {
         "jp_string": "ツボ",
-        "en_string": ""
+        "en_string": "POT"
       },
       {
         "jp_string": "ツボ錬金",
@@ -9644,7 +9644,7 @@
       },
       {
         "jp_string": "ツヤ戻し",
-        "en_string": ""
+        "en_string": "Rest. Gloss"
       },
       {
         "jp_string": "ツヤ：<%sM_gloss00>",
@@ -9888,7 +9888,7 @@
       },
       {
         "jp_string": "ドルボードの姿見",
-        "en_string": ""
+        "en_string": "Dolworm Board"
       },
       {
         "jp_string": "ドルボードの姿見の記録",
@@ -9916,7 +9916,7 @@
       },
       {
         "jp_string": "ドルボード表示切り替え",
-        "en_string": ""
+        "en_string": "Switch Dolworm"
       },
       {
         "jp_string": "ドルボード視点設定",
@@ -9924,7 +9924,7 @@
       },
       {
         "jp_string": "ドルボード設定",
-        "en_string": "Dollar Board"
+        "en_string": "Dolworm"
       },
       {
         "jp_string": "ドルボードＢＧＭ設定",
@@ -11260,7 +11260,7 @@
       },
       {
         "jp_string": "ポーズ切り替え",
-        "en_string": ""
+        "en_string": "Switch Pose"
       },
       {
         "jp_string": "ポーズ書",
@@ -11888,7 +11888,7 @@
       },
       {
         "jp_string": "ラン",
-        "en_string": ""
+        "en_string": "LMP"
       },
       {
         "jp_string": "ランキング",
@@ -12216,7 +12216,7 @@
       },
       {
         "jp_string": "レシピに記録する",
-        "en_string": ""
+        "en_string": "Record State"
       },
       {
         "jp_string": "レシピをみる",
@@ -12224,7 +12224,7 @@
       },
       {
         "jp_string": "レシピ帳",
-        "en_string": ""
+        "en_string": "Recipe"
       },
       {
         "jp_string": "レジェンド",
@@ -12812,7 +12812,7 @@
       },
       {
         "jp_string": "両方シャッフル",
-        "en_string": ""
+        "en_string": "Shuffle All"
       },
       {
         "jp_string": "両杖",
@@ -13132,7 +13132,7 @@
       },
       {
         "jp_string": "他",
-        "en_string": ""
+        "en_string": "OTH"
       },
       {
         "jp_string": "他の<%sM_PTMember>がそろうのを 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>",
@@ -13952,7 +13952,7 @@
       },
       {
         "jp_string": "入手場所",
-        "en_string": ""
+        "en_string": "Locations"
       },
       {
         "jp_string": "入手場所を見る",
@@ -15088,7 +15088,7 @@
       },
       {
         "jp_string": "右手にそうび",
-        "en_string": ""
+        "en_string": "Equip Right"
       },
       {
         "jp_string": "右手にわたす",
@@ -15612,7 +15612,7 @@
       },
       {
         "jp_string": "売り値",
-        "en_string": ""
+        "en_string": "Sell"
       },
       {
         "jp_string": "売り物",
@@ -15848,7 +15848,7 @@
       },
       {
         "jp_string": "妖精の姿見",
-        "en_string": ""
+        "en_string": "Mirror"
       },
       {
         "jp_string": "妖精の姿見のカラーをセットする",
@@ -16128,7 +16128,7 @@
       },
       {
         "jp_string": "家",
-        "en_string": ""
+        "en_string": "HSG"
       },
       {
         "jp_string": "家じょうほう",
@@ -16496,7 +16496,7 @@
       },
       {
         "jp_string": "左手にそうび",
-        "en_string": ""
+        "en_string": "Equip Left"
       },
       {
         "jp_string": "左手にわたす",
@@ -18090,7 +18090,7 @@
       },
       {
         "jp_string": "木工",
-        "en_string": ""
+        "en_string": "WOD"
       },
       {
         "jp_string": "木工中心",
@@ -18498,11 +18498,11 @@
       },
       {
         "jp_string": "武器",
-        "en_string": ""
+        "en_string": "WPN"
       },
       {
         "jp_string": "武器と盾に色を付ける",
-        "en_string": ""
+        "en_string": "DEF"
       },
       {
         "jp_string": "武器なし",
@@ -20770,7 +20770,7 @@
       },
       {
         "jp_string": "美容院の姿見",
-        "en_string": ""
+        "en_string": "Beauty Parlor View"
       },
       {
         "jp_string": "美容院の姿見の記録",
@@ -21246,11 +21246,11 @@
       },
       {
         "jp_string": "色ツヤシャッフル",
-        "en_string": ""
+        "en_string": "Color Shuffle"
       },
       {
         "jp_string": "色ツヤ戻し",
-        "en_string": ""
+        "en_string": "Rest. Color"
       },
       {
         "jp_string": "色戻し",
@@ -21286,7 +21286,7 @@
       },
       {
         "jp_string": "落とすモンスター",
-        "en_string": ""
+        "en_string": "Monsters"
       },
       {
         "jp_string": "落とす素材：",
@@ -21474,7 +21474,7 @@
       },
       {
         "jp_string": "装備の姿見",
-        "en_string": ""
+        "en_string": "Equipment View"
       },
       {
         "jp_string": "装備の登録について",
@@ -21550,7 +21550,7 @@
       },
       {
         "jp_string": "装備中の装備品を映す",
-        "en_string": ""
+        "en_string": "Reset Equipment"
       },
       {
         "jp_string": "装備中武器を表示",
@@ -21598,7 +21598,7 @@
       },
       {
         "jp_string": "装備表示切り替え",
-        "en_string": ""
+        "en_string": "Switch Display"
       },
       {
         "jp_string": "装備表示設定",
@@ -21694,7 +21694,7 @@
       },
       {
         "jp_string": "見た目を記録する",
-        "en_string": ""
+        "en_string": "Record Look"
       },
       {
         "jp_string": "見た目変更の効果",
@@ -22050,7 +22050,7 @@
       },
       {
         "jp_string": "調理",
-        "en_string": ""
+        "en_string": "CKG"
       },
       {
         "jp_string": "謎に関する助言を見る",
@@ -22102,7 +22102,7 @@
       },
       {
         "jp_string": "買い値",
-        "en_string": ""
+        "en_string": "Buy"
       },
       {
         "jp_string": "買える土地",
@@ -22699,7 +22699,7 @@
       },
       {
         "jp_string": "道具",
-        "en_string": ""
+        "en_string": "ITM"
       },
       {
         "jp_string": "道具の種類",
