@@ -7058,7 +7058,6 @@
         "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "仲間ひとりの 毒を治す 使ったらなくなる",
         "en_string": "Cures one|companion|of poison."
       },
@@ -7087,12 +7086,10 @@
         "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "仲間ひとりをＨＰ 半分で生き返す 使ったらなくなる",
-        "en_string": "Revives party member|with half HP|and MP."
+        "en_string": "Revives party member|with half HP.|"
       },
       {
-        "line_break": true,
         "jp_string": "仲間モンスターの スキルポイントを 振り直せる魔草",
         "en_string": ""
       },

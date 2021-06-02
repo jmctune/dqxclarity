@@ -1,0 +1,407 @@
+[
+  {
+    "hex_start": "54 45 58 54 10 00 00 00 20 06 00 00 00 00 00 00 00 00",
+    "strings": [
+      {
+        "jp_string": "あおりんご",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あさぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あずき",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うすざくら",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うめねず",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こがねいろ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さくら",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さんご",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しっこく",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しゅいろ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しらあい",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しらふじいろ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しろはなだ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "だいだい",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふかみどり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふじいろ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まっちゃ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アイスブルー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アクアマリン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アッシュ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アメジスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンバー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "イエロー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エメラルド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オニキス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オリーブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オレンジ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーロラ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カスタード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カナリヤ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カフェラテ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カラー１",
+        "en_string": "Color 1"
+      },
+      {
+        "jp_string": "カラー１０",
+        "en_string": "Color 10"
+      },
+      {
+        "jp_string": "カラー１１",
+        "en_string": "Color 11"
+      },
+      {
+        "jp_string": "カラー１２",
+        "en_string": "Color 12"
+      },
+      {
+        "jp_string": "カラー２",
+        "en_string": "Color 2"
+      },
+      {
+        "jp_string": "カラー３",
+        "en_string": "Color 3"
+      },
+      {
+        "jp_string": "カラー４",
+        "en_string": "Color 4"
+      },
+      {
+        "jp_string": "カラー５",
+        "en_string": "Color 5"
+      },
+      {
+        "jp_string": "カラー６",
+        "en_string": "Color 6"
+      },
+      {
+        "jp_string": "カラー７",
+        "en_string": "Color 7"
+      },
+      {
+        "jp_string": "カラー８",
+        "en_string": "Color 8"
+      },
+      {
+        "jp_string": "カラー９",
+        "en_string": "Color 9"
+      },
+      {
+        "jp_string": "ガーネット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キャラメル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリーム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クレイ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレーブルー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コアブラック",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コルク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴールド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サンゴールド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サンセット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シルバー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シーグリーン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジャングル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スカイブルー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチール",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ストロベリー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ダークグレー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ダークブルー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ダークプラム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "チョコレート",
+        "en_string": ""
+      },
+      {
+        "jp_string": "デビルワイン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ネイビー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "バイオレット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "バニラ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "パープル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "パール",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ビリジアン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ピュアスノー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ピュアブルー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ピンク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "フォレスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ブラウン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ブラッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ブルー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ベビーピンク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ベージュ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ポイズン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "マスカット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "マゼンタ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "マネキン用",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ミストグレー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ミッドナイト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ミモザ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ミント",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ライトグレー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ラベンダー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ルビー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "レタス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "レッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "レモン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "レンタル衣装用",
+        "en_string": ""
+      },
+      {
+        "jp_string": "レンタル衣装用２",
+        "en_string": ""
+      },
+      {
+        "jp_string": "レンタル衣装用３",
+        "en_string": ""
+      },
+      {
+        "jp_string": "レンタル衣装用４",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ローズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ローズグレー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "施設用カラー",
+        "en_string": ""
+      }
+    ]
+  }
+]

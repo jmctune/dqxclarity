@@ -1,0 +1,207 @@
+[
+  {
+    "hex_start": "54 45 58 54 10 00 00 00 F0 05 00 00 00 00 00 00 00 00",
+    "strings": [
+      {
+        "jp_string": "<%sW_REP_MAX_2ND_F>アラハギーロエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "<%sW_REP_MAX_2ND_F>エテーネエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "<%sW_REP_MAX_2ND_F>グランゼドーラエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "<%sW_REP_MAX_2ND_F>ココラタエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "<%sW_REP_MAX_2ND_F>セレドエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "<%sW_REP_MAX_2ND_F>メルサンディエリア",
+        "en_string": "<%sW_REP_MAX_2ND_F>Melsandy Area"
+      },
+      {
+        "jp_string": "<%sW_REP_MAX_2ND_R>アラハギーロエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "<%sW_REP_MAX_2ND_R>エテーネエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "<%sW_REP_MAX_2ND_R>グランゼドーラエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "<%sW_REP_MAX_2ND_R>ココラタエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "<%sW_REP_MAX_2ND_R>セレドエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "<%sW_REP_MAX_2ND_R>メルサンディエリア",
+        "en_string": "<%sW_REP_MAX_2ND_R>Melsandy Area"
+      },
+      {
+        "jp_string": "その他のエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アグラニエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アズランエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アルウェーンエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウルベア帝国エリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エテーネ王国エリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オルセコ王国エリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オルフェアエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カミハルムイエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガタラエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガートラントエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレンエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴーラエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジュレットエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゼクレスエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ツスクルエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "デスディオエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ドルワームエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ネクロデアエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "バルディスタエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ファラザードエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "プクレットエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "マイタウンエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "メギストリスエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ラッカランエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ランガーオエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "レンドアエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "レーンエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ヴェリナードエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "古グランゼドーラエリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "大エテーネ島エリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "嵐の領界エリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "水の領界エリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "氷の領界エリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "炎の領界エリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "狭間の世界エリア過去世界エリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "闇の領界エリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "魔界辺境エリア",
+        "en_string": ""
+      }
+    ]
+  }
+]
