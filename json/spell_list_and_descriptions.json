@@ -164,7 +164,7 @@
       },
       {
         "jp_string": "げんま解放",
-        "en_string": ""
+        "en_string": "Genma Release"
       },
       {
         "jp_string": "こうげきに 光のチカラを宿す 魔法戦士専用特技",
@@ -360,15 +360,15 @@
       },
       {
         "jp_string": "たまに２回攻撃",
-        "en_string": "Sometimes Atk Twice"
+        "en_string": "Rarely Atk Twice"
       },
       {
         "jp_string": "たまにＨＰ１生き残り",
-        "en_string": "Sometimes Survive at 1 HP"
+        "en_string": "Rarely Survive at 1 HP"
       },
       {
         "jp_string": "たまにＭＰ消費しない",
-        "en_string": "Sometimes Consume No MP"
+        "en_string": "Rarely Consume No MP"
       },
       {
         "jp_string": "ためる",
@@ -3512,7 +3512,7 @@
       },
       {
         "jp_string": "水神のたつまき",
-        "en_string": ""
+        "en_string": "Water Gods Tornado"
       },
       {
         "jp_string": "水系の敵に 威力を発揮する 軽やかな扇の技",
