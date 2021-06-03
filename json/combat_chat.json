@@ -15575,8 +15575,9 @@
         "en_string": "Pyre o Fire"
       },
       {
+		"line_break": true,
         "jp_string": "ひばしらを立て 敵１体を攻撃 天地雷鳴士専用",
-        "en_string": "Summon Fire|Attacks 1 Enemy|Druid Exclusive"
+        "en_string": "Create a pillar|of flames that|singes a enemy."
       },
       {
         "jp_string": "ひゃくれつなめ",
@@ -20779,8 +20780,9 @@
         "en_string": ""
       },
       {
+		"line_break": true,
         "jp_string": "周囲に土ダメージ 風耐性も下げる 天地雷鳴士専用",
-        "en_string": "Earth AoE|Lowers Wind Res.|Druid Exclusive"
+        "en_string": "Earth attack that|hits in an area|Wind Res.↓"
       },
       {
         "jp_string": "周囲に闇ダメージ 様々な状態異常を 引き起こす",
@@ -21195,8 +21197,9 @@
         "en_string": ""
       },
       {
+		"line_break": true,
         "jp_string": "周囲を落雷で攻撃 たまにマヒさせる 天地雷鳴士専用",
-        "en_string": "Lightning AoE|Rarely Paralyzes|Druid Exclusive"
+        "en_string": "Lightning attack|that hits an area|Rarely Paralyzes"
       },
       {
         "jp_string": "呪いがとけた",
@@ -22587,8 +22590,9 @@
         "en_string": ""
       },
       {
+		"line_break": true,
         "jp_string": "宝箱に魔物が 潜んでいないか じっと見きわめる",
-        "en_string": ""
+        "en_string": "Keep an eye out|for any demons|lurking in chests."
       },
       {
         "jp_string": "宝箱をじっと見つめた",
@@ -26789,8 +26793,9 @@
         "en_string": ""
       },
       {
+		"line_break": true,
         "jp_string": "直線上に土攻撃 雷耐性も下げる 天地雷鳴士専用",
-        "en_string": "Linear Earth Atk|Lowers Lightning Res.|Druid Exclusive"
+        "en_string": "Summon earth|spikes in a line.|Lightning Res.↓"
       },
       {
         "jp_string": "相手のダメージを 下げる一撃を放ち 武器ガードも上昇",

@@ -507,8 +507,9 @@
         "en_string": ""
       },
       {
+		"line_break": true,
         "jp_string": "ひばしらを立て 敵１体を攻撃 天地雷鳴士専用",
-        "en_string": "Summon Fire|Attacks 1 Enemy|Druid Exclusive"
+        "en_string": "Create a pillar|of flames that|singes a enemy."
       },
       {
         "jp_string": "ひゃくれつなめ",
@@ -2523,8 +2524,9 @@
         "en_string": ""
       },
       {
+		"line_break": true,
         "jp_string": "周囲に土ダメージ 風耐性も下げる 天地雷鳴士専用",
-        "en_string": "Earth AoE|Lowers Wind Res.|Druid Exclusive"
+        "en_string": "Earth attack that|hits in an area|Wind Res.↓"
       },
       {
         "jp_string": "周囲に闇の攻撃 闇耐性も下げる 魔剣士専用特技",
@@ -2659,8 +2661,9 @@
         "en_string": ""
       },
       {
+		"line_break": true,
         "jp_string": "周囲を落雷で攻撃 たまにマヒさせる 天地雷鳴士専用",
-        "en_string": "Lightning AoE|Rarely Paralyzes|Druid Exclusive"
+        "en_string": "Lightning attack|that hits an area|Rarely Paralyzes"
       },
       {
         "jp_string": "呪文がかなり 暴走しやすくなる 魔法陣を作る",
@@ -3696,8 +3699,9 @@
         "en_string": ""
       },
       {
+		"line_break": true,
         "jp_string": "直線上に土攻撃 雷耐性も下げる 天地雷鳴士専用",
-        "en_string": "Linear Earth Atk|Lowers Lightning Res.|Druid Exclusive"
+        "en_string": "Summon earth|spikes in a line.|Lightning Res.↓"
       },
       {
         "jp_string": "相手の攻撃を 受けながしつつ なぐりかかる大技",
