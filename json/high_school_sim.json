@@ -3288,8 +3288,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "ドラゴン系の敵に 威力を発揮する 竜殺しの剣技 ",
-        "en_string": ""
+        "en_string": "Deal an attack|that does 1.2x|dmg to dragons."
       },
       {
         "jp_string": "ドラゴン系への ダメージが １２５％増える",
@@ -3876,8 +3877,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "はやぶさのごとき 高速の２回攻撃",
-        "en_string": ""
+        "en_string": "Deal 2 atks|for 0.75x dmg.|Low crit. chance"
       },
       {
         "jp_string": "はやぶさをこえる 神速の４回攻撃",
@@ -4165,11 +4167,11 @@
       },
       {
         "jp_string": "ピンクタイフーン",
-        "en_string": ""
+        "en_string": "Pink Typhoon"
       },
       {
         "jp_string": "ピンクタイフーンの特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Pink Typhoon!"
       },
       {
         "jp_string": "ブーメラン",
@@ -6353,8 +6355,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "光の刃を剣にかえ 周囲をなぎはらう 剣の奥義",
-        "en_string": ""
+        "en_string": "Deal a light|attack to all|nearby enemies."
       },
       {
         "jp_string": "光の甲矢",
@@ -8818,8 +8821,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "敵を斬りつけ 自らのキズも いやす秘剣",
-        "en_string": ""
+        "en_string": "Deal a normal atk|that heals a amt|of damage dealt."
       },
       {
         "jp_string": "敵を選ばず するどい光の矢が ふりそそぐ",
@@ -9335,7 +9339,7 @@
       },
       {
         "jp_string": "片手剣の極意",
-        "en_string": "1HSwordSkill"
+        "en_string": "1H Sword Skill"
       },
       {
         "jp_string": "片手剣装備で　ドラゴン系モンスターを 攻撃時の威力が　あがった！",

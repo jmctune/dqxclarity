@@ -7527,8 +7527,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "ＭＰが 少しずつ回復！",
-        "en_string": ""
+        "en_string": "Recover an|allies MP|by 100."
       },
       {
         "jp_string": "ＭＰがへっていく 呪いにかかった！",
@@ -7556,7 +7557,7 @@
       },
       {
         "jp_string": "ＭＰパサー",
-        "en_string": ""
+        "en_string": "M-Pathy"
       },
       {
         "jp_string": "MPパサー２",
@@ -7724,7 +7725,7 @@
       },
       {
         "jp_string": "アイスフォース",
-        "en_string": ""
+        "en_string": "Frost Fource"
       },
       {
         "jp_string": "アイスフォースが とけた",
@@ -10201,15 +10202,15 @@
       },
       {
         "jp_string": "クロックチャージⅠ",
-        "en_string": ""
+        "en_string": "Time Acceleration Ⅰ"
       },
       {
         "jp_string": "クロックチャージⅡ",
-        "en_string": ""
+        "en_string": "Time Acceleration ⅠⅠ"
       },
       {
         "jp_string": "クロックチャージⅢ",
-        "en_string": ""
+        "en_string": "Time Acceleration ⅠⅠⅠ"
       },
       {
         "jp_string": "クロニクルガード",
@@ -10528,28 +10529,33 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "こうげきに 光のチカラを宿す 魔法戦士専用特技",
-        "en_string": ""
+        "en_string": "Add Light ele.|to your attacks|for 2 minutes."
       },
       {
         "jp_string": "こうげきに 氷のチカラを宿し 氷耐性アップ",
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "こうげきに 氷のチカラを宿す 魔法戦士専用特技",
-        "en_string": ""
+        "en_string": "Add Ice ele.|to your attacks|for 2 minutes."
       },
       {
+        "line_break": true,
         "jp_string": "こうげきに 炎のチカラを宿す 魔法戦士専用特技",
-        "en_string": ""
+        "en_string": "Add Fire ele.|to your attacks|for 2 minutes."
       },
       {
+        "line_break": true,
         "jp_string": "こうげきに土と 闇のチカラを宿す 魔法戦士専用特技",
-        "en_string": ""
+        "en_string": "Add Dark and|Earth to attacks|for 2 minutes."
       },
       {
+        "line_break": true,
         "jp_string": "こうげきに風と 雷のチカラを宿す 魔法戦士専用特技",
-        "en_string": ""
+        "en_string": "Add Wind and|Lightning to atks|for 2 minutes."
       },
       {
         "jp_string": "こうげきフラグ",
@@ -12345,7 +12351,7 @@
       },
       {
         "jp_string": "ストームフォース",
-        "en_string": ""
+        "en_string": "Gale Fource"
       },
       {
         "jp_string": "ストームフォースが とけた",
@@ -12765,7 +12771,7 @@
       },
       {
         "jp_string": "ダークフォース",
-        "en_string": ""
+        "en_string": "Funereal Fource"
       },
       {
         "jp_string": "ダークフォースが とけた",
@@ -14184,8 +14190,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "ドラゴン系の敵に 威力を発揮する 竜殺しの剣技 ",
-        "en_string": ""
+        "en_string": "Deal an attack|that does 1.2x|dmg to dragons."
       },
       {
         "jp_string": "ドラゴン花火オレンジ",
@@ -15120,8 +15127,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "はやぶさのごとき 高速の２回攻撃",
-        "en_string": ""
+        "en_string": "Deal 2 atks|for 0.75x dmg.|Low crit. chance"
       },
       {
         "jp_string": "はやぶさをこえる 神速の４回攻撃",
@@ -15670,7 +15678,7 @@
       },
       {
         "jp_string": "ピンクタイフーン",
-        "en_string": ""
+        "en_string": "Pink Typoon"
       },
       {
         "jp_string": "ピンチかもしれないモグ！ 作戦変更モグ！",
@@ -15706,7 +15714,7 @@
       },
       {
         "jp_string": "ファイアフォース",
-        "en_string": ""
+        "en_string": "Fire Fource"
       },
       {
         "jp_string": "ファイアフォースが とけた",
@@ -15854,7 +15862,7 @@
       },
       {
         "jp_string": "フォースブレイク",
-        "en_string": ""
+        "en_string": "Fource Break"
       },
       {
         "jp_string": "フォースブレイク砲",
@@ -18450,7 +18458,7 @@
       },
       {
         "jp_string": "ライトフォース",
-        "en_string": ""
+        "en_string": "Life Fource"
       },
       {
         "jp_string": "ライトフォースが とけた",
@@ -19995,8 +20003,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "光の刃を剣にかえ 周囲をなぎはらう 剣の奥義",
-        "en_string": ""
+        "en_string": "Deal a light|attack to all|surrounding enemies."
       },
       {
         "jp_string": "光の属性をまとい 直線上の敵を全て 叩き斬る大技",
@@ -24411,8 +24420,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "敵を斬りつけ 自らのキズも いやす秘剣",
-        "en_string": ""
+        "en_string": "Deal a normal atk|that heals a amt|of damage dealt."
       },
       {
         "jp_string": "敵を眠りに誘う 魔法陣が 少しの間出現",
@@ -26032,8 +26042,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "炎のチカラを 剣に宿して 敵を斬りつける",
-        "en_string": ""
+        "en_string": "Deal fire dmg|to a target|for 1.2x damage."
       },
       {
         "jp_string": "炎のチカラを 身にまとった！",

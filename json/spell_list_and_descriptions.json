@@ -168,24 +168,29 @@
         "en_string": "Spirit Release"
       },
       {
+        "line_break": true,
         "jp_string": "こうげきに 光のチカラを宿す 魔法戦士専用特技",
-        "en_string": ""
+        "en_string": "Add Light ele.|to your attacks|for 2 minutes."
       },
       {
+        "line_break": true,
         "jp_string": "こうげきに 氷のチカラを宿す 魔法戦士専用特技",
-        "en_string": ""
+        "en_string": "Add Ice ele.|to your attacks|for 2 minutes."
       },
       {
+        "line_break": true,
         "jp_string": "こうげきに 炎のチカラを宿す 魔法戦士専用特技",
-        "en_string": ""
+        "en_string": "Add Fire ele.|to your attacks|for 2 minutes."
       },
       {
+        "line_break": true,
         "jp_string": "こうげきに土と 闇のチカラを宿す 魔法戦士専用特技",
-        "en_string": ""
+        "en_string": "Add Dark and|Earth to attacks|for 2 minutes."
       },
       {
+        "line_break": true,
         "jp_string": "こうげきに風と 雷のチカラを宿す 魔法戦士専用特技",
-        "en_string": ""
+        "en_string": "Add Wind and|Lightning to atks|for 2 minutes."
       },
       {
         "jp_string": "こうげき力+10",
@@ -480,8 +485,9 @@
         "en_string": "Dance of Sleep"
       },
       {
+        "line_break": true,
         "jp_string": "はやぶさのごとき 高速の２回攻撃",
-        "en_string": ""
+        "en_string": "Deal 2 atks|for 0.75x dmg.|Low crit. chance"
       },
       {
         "jp_string": "はやぶさをこえる 神速の４回攻撃",
@@ -1321,8 +1327,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "ドラゴン系の敵に 威力を発揮する 竜殺しの剣技",
-        "en_string": ""
+        "en_string": "Deal an attack|that does 1.2x|dmg to dragons."
       },
       {
         "jp_string": "ドラムクラッシュ",
@@ -1546,7 +1553,7 @@
       },
       {
         "jp_string": "ファイアフォース",
-        "en_string": "Flame Fource"
+        "en_string": "Fire Fource"
       },
       {
         "jp_string": "ファイアブレイク",
@@ -2287,8 +2294,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "光の刃を剣にかえ 周囲をなぎはらう 剣の奥義",
-        "en_string": ""
+        "en_string": "Deal a light|attack to all|nearby enemies."
       },
       {
         "jp_string": "全力で投げつけ 範囲内の敵に 等しくダメージ",
@@ -3158,8 +3166,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "敵を斬りつけ 自らのキズも いやす秘剣",
-        "en_string": ""
+        "en_string": "Deal a normal atk|that heals a amt|of damage dealt."
       },
       {
         "jp_string": "敵を選ばず するどい光の矢が ふりそそぐ",
@@ -3574,8 +3583,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "炎のチカラを 剣に宿して 敵を斬りつける",
-        "en_string": ""
+        "en_string": "Deal fire dmg|to a target|for 1.2x damage."
       },
       {
         "jp_string": "炎耐性をさげる 魔力を解き放つ",
@@ -3614,24 +3624,29 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "片手剣装備時の こうげき力が １０増える",
-        "en_string": ""
+        "en_string": "Increase atk by|10 when wearing|a sword."
       },
       {
+        "line_break": true,
         "jp_string": "片手剣装備時の こうげき力が １５増える",
-        "en_string": ""
+        "en_string": "Increase atk by|15 when wearing|a sword."
       },
       {
+        "line_break": true,
         "jp_string": "片手剣装備時の こうげき力が ２０増える",
-        "en_string": ""
+        "en_string": "Increase atk by|20 when wearing|a sword."
       },
       {
+        "line_break": true,
         "jp_string": "片手剣装備時の こうげき力が ３０増える",
-        "en_string": ""
+        "en_string": "Increase atk by|30 when wearing|a sword."
       },
       {
+        "line_break": true,
         "jp_string": "片手剣装備時の こうげき力が ５増える",
-        "en_string": ""
+        "en_string": "Increase atk by|5 when wearing|a sword."
       },
       {
         "jp_string": "片手剣装備時の 武器ガード率が ２％増える",
@@ -4398,7 +4413,7 @@
       },
       {
         "jp_string": "ＭＰパサー",
-        "en_string": ""
+        "en_string": "M-Pathy"
       },
       {
         "jp_string": "ＭＰブレイク",
@@ -4425,8 +4440,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "ＭＰ１００を 仲間に分け与える 魔法戦士専用特技",
-        "en_string": ""
+        "en_string": "Recover an|allies MP|by 100."
       }
     ]
   }
