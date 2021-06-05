@@ -1,9 +1,5 @@
-[
-  {
-    "strings": [
-      {
-        "これは英語です。": "this is in english"
-      }
-    ]
+{
+  "weblate": {
+    "これは英語です。": "this is in english"
   }
-]
+}
