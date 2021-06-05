@@ -8,31 +8,31 @@
       },
       {
         "jp_string": "<%sW_AD_LOCA>の丘陵<%sW_AUTODUNG_CF>",
-        "en_string": ""
+        "en_string": "<%sW_AD_LOCA>Hills Of<%sW_AUTODUNG_CF>"
       },
       {
         "jp_string": "<%sW_AD_LOCA>の砂漠<%sW_AUTODUNG_CF>",
-        "en_string": ""
+        "en_string": "<%sW_AD_LOCA>Desert Of<%sW_AUTODUNG_CF>"
       },
       {
         "jp_string": "<%sW_AD_LOCA>の神殿<%sW_AUTODUNG_CF>",
-        "en_string": ""
+        "en_string": "<%sW_AD_LOCA>Temple Of<%sW_AUTODUNG_CF>"
       },
       {
         "jp_string": "<%sW_AD_LOCA>の空園<%sW_AUTODUNG_CF>",
-        "en_string": ""
+        "en_string": "<%sW_AD_LOCA>Garden Of<%sW_AUTODUNG_CF>"
       },
       {
         "jp_string": "<%sW_AD_LOCA>の聖域<%sW_AUTODUNG_CF>",
-        "en_string": ""
+        "en_string": "<%sW_AD_LOCA>Sanctuary<%sW_AUTODUNG_CF>"
       },
       {
         "jp_string": "<%sW_AD_LOCA>の聖林<%sW_AUTODUNG_CF>",
-        "en_string": ""
+        "en_string": "<%sW_AD_LOCA>Forest Of<%sW_AUTODUNG_CF>"
       },
       {
         "jp_string": "<%sW_AD_LOCA>の間<%sW_AUTODUNG_CF>",
-        "en_string": ""
+        "en_string": "<%sW_AD_LOCA>Room<%sW_AUTODUNG_CF>"
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_F>こもれびの広場",
@@ -156,7 +156,7 @@
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_F>日除けのほら穴",
-        "en_string": ""
+        "en_string": "<%sW_REP_MAX_2ND_F>Awning Cave"
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_F>海風の洞くつ",
@@ -584,15 +584,15 @@
       },
       {
         "jp_string": "<pc_original>城",
-        "en_string": ""
+        "en_string": "<pc_original>Cst"
       },
       {
         "jp_string": "BGMテストボス部屋",
-        "en_string": ""
+        "en_string": "BGM boss test room"
       },
       {
         "jp_string": "BGMテスト同期部屋",
-        "en_string": ""
+        "en_string": "BGM sync test room"
       },
       {
         "jp_string": "いざないの間",
@@ -1400,11 +1400,11 @@
       },
       {
         "jp_string": "ツール検証用（StagePlan,LayoutToolなど）",
-        "en_string": ""
+        "en_string": "Tool Check (StagePlan, LayoutTool, etc.)"
       },
       {
         "jp_string": "テスト",
-        "en_string": ""
+        "en_string": "Test"
       },
       {
         "jp_string": "テテリ渓谷",
@@ -1512,19 +1512,19 @@
       },
       {
         "jp_string": "バトル班用テストマップ(ツスクル）",
-        "en_string": ""
+        "en_string": "Team Battle Map Test (Tsusukuru)"
       },
       {
         "jp_string": "バトル班用テストマップ（いにしえのゼルメア）",
-        "en_string": ""
+        "en_string": "Team Battle Map Test (Ancient Zelmea)"
       },
       {
         "jp_string": "バトル班用テストマップ（ムスト廃墟）",
-        "en_string": ""
+        "en_string": "Team Battle Map Test (Musuto Ruins)"
       },
       {
         "jp_string": "バトル班用テストマップ（獅子門）",
-        "en_string": ""
+        "en_string": "Team Battle Map Test (Lion Gate)"
       },
       {
         "jp_string": "バドリアル石室",
@@ -1664,51 +1664,51 @@
       },
       {
         "jp_string": "プログラマー検証ステージ1",
-        "en_string": ""
+        "en_string": "Programmer Verification Stage 1"
       },
       {
         "jp_string": "プログラマー検証ステージ2",
-        "en_string": ""
+        "en_string": "Programmer Verification Stage 2"
       },
       {
         "jp_string": "プログラマー検証ステージ3",
-        "en_string": ""
+        "en_string": "Programmer Verification Stage 3"
       },
       {
         "jp_string": "プログラマー検証ステージ4",
-        "en_string": ""
+        "en_string": "Programmer Verification Stage 4"
       },
       {
         "jp_string": "プログラマー検証ステージ5",
-        "en_string": ""
+        "en_string": "Programmer Verification Stage 5"
       },
       {
         "jp_string": "プログラマー検証ステージ6",
-        "en_string": ""
+        "en_string": "Programmer Verification Stage 6"
       },
       {
         "jp_string": "プログラマー検証ステージ8",
-        "en_string": ""
+        "en_string": "Programmer Verification Stage 8"
       },
       {
         "jp_string": "プログラマー用負荷検証ステージ1",
-        "en_string": ""
+        "en_string": "Loading Programmer Verification Stage 1"
       },
       {
         "jp_string": "プログラマー用負荷検証ステージ2",
-        "en_string": ""
+        "en_string": "Loading Programmer Verification Stage 2"
       },
       {
         "jp_string": "プログラマー用負荷検証ステージ3",
-        "en_string": ""
+        "en_string": "Loading Programmer Verification Stage 3"
       },
       {
         "jp_string": "プログラマー用負荷検証ステージ4",
-        "en_string": ""
+        "en_string": "Loading Programmer Verification Stage 4"
       },
       {
         "jp_string": "プログラマー用負荷検証ステージ5",
-        "en_string": ""
+        "en_string": "Loading Programmer Verification Stage 5"
       },
       {
         "jp_string": "プーラのほら穴",
@@ -1788,11 +1788,11 @@
       },
       {
         "jp_string": "マッチングテストステージ（同期テスト用）",
-        "en_string": ""
+        "en_string": "Match test stage (for sync testing)"
       },
       {
         "jp_string": "マッチングテストステージ（同期後移動用）",
-        "en_string": ""
+        "en_string": "Match test stage (for moving beat testing)"
       },
       {
         "jp_string": "マデ島",
@@ -1800,7 +1800,7 @@
       },
       {
         "jp_string": "マデ島＆エテーネ王宮（4.5CS専用）",
-        "en_string": ""
+        "en_string": "Made Isle & Ethene Royal Manor (4.5CS only)"
       },
       {
         "jp_string": "マデ神殿",
@@ -1984,7 +1984,7 @@
       },
       {
         "jp_string": "ルファ神殿エントランス（オープン）",
-        "en_string": ""
+        "en_string": "Rufa Temple - Entrance (Open)"
       },
       {
         "jp_string": "ルファ神殿・中央塔",
@@ -2060,7 +2060,7 @@
       },
       {
         "jp_string": "七夕の里",
-        "en_string": ""
+        "en_string": "TanabataTown"
       },
       {
         "jp_string": "万年雪の砦",
@@ -2152,7 +2152,7 @@
       },
       {
         "jp_string": "個人テスト（TOSHIMIT）",
-        "en_string": ""
+        "en_string": "Personal Test TOSHIMIT）"
       },
       {
         "jp_string": "偽",
@@ -2204,11 +2204,11 @@
       },
       {
         "jp_string": "剣闘の間",
-        "en_string": ""
+        "en_string": "Battle Hall"
       },
       {
         "jp_string": "剣魔の霊域",
-        "en_string": ""
+        "en_string": "Realm of Kenma"
       },
       {
         "jp_string": "創世の樹の根元",
@@ -2244,11 +2244,11 @@
       },
       {
         "jp_string": "参照テストステージEnv",
-        "en_string": ""
+        "en_string": "Reference Test Stage Env"
       },
       {
         "jp_string": "参照テストステージWld",
-        "en_string": ""
+        "en_string": "Reference Test Stage Wld"
       },
       {
         "jp_string": "古",
@@ -2412,75 +2412,75 @@
       },
       {
         "jp_string": "天声の間",
-        "en_string": ""
+        "en_string": "Heaven Voice"
       },
       {
         "jp_string": "天水の聖塔",
-        "en_string": ""
+        "en_string": "Rain Holy Tower"
       },
       {
         "jp_string": "天願の座",
-        "en_string": ""
+        "en_string": "Heaven Seat"
       },
       {
         "jp_string": "太古の地底回廊",
-        "en_string": ""
+        "en_string": "Ancient Corridor"
       },
       {
         "jp_string": "太古の氷穴",
-        "en_string": ""
+        "en_string": "Ancient Icecave"
       },
       {
         "jp_string": "太古の泉",
-        "en_string": ""
+        "en_string": "Old Fountain"
       },
       {
         "jp_string": "太陽の塔・屋上",
-        "en_string": ""
+        "en_string": "Sun Tower - Rooftop"
       },
       {
         "jp_string": "太陽の石室",
-        "en_string": ""
+        "en_string": "Sun Stone Room"
       },
       {
         "jp_string": "奈落の門",
-        "en_string": ""
+        "en_string": "Abyss Gate"
       },
       {
         "jp_string": "女神の祠・土",
-        "en_string": ""
+        "en_string": "Goddess Shrine EAR"
       },
       {
         "jp_string": "女神の祠・水",
-        "en_string": ""
+        "en_string": "Goddess Shrine WAT"
       },
       {
         "jp_string": "女神の祠・花",
-        "en_string": ""
+        "en_string": "Goddess Shrine FLO"
       },
       {
         "jp_string": "女神の祠・風",
-        "en_string": ""
+        "en_string": "Goddess Shrine WIN"
       },
       {
         "jp_string": "女神の魂の在りか",
-        "en_string": ""
+        "en_string": "Goddess's Soul"
       },
       {
         "jp_string": "妖剣士の塚",
-        "en_string": ""
+        "en_string": "Youkai Mound"
       },
       {
         "jp_string": "妖精の国",
-        "en_string": ""
+        "en_string": "Fairy Land"
       },
       {
         "jp_string": "妖精図書館",
-        "en_string": ""
+        "en_string": "Fairy Library"
       },
       {
         "jp_string": "始まりの塔",
-        "en_string": ""
+        "en_string": "BeginningTower"
       },
       {
         "jp_string": "娯楽島ラッカラン",
@@ -2492,99 +2492,99 @@
       },
       {
         "jp_string": "孤島の修道院",
-        "en_string": ""
+        "en_string": "Island Monastery"
       },
       {
         "jp_string": "宇宙船・立入禁止区画",
-        "en_string": ""
+        "en_string": "Spacecraft - Exclusion Zone"
       },
       {
         "jp_string": "宇宙船内部",
-        "en_string": ""
+        "en_string": "In Spacecraft"
       },
       {
         "jp_string": "守りの部屋",
-        "en_string": ""
+        "en_string": "Depensive Room"
       },
       {
         "jp_string": "守護竜のねぐら",
-        "en_string": ""
+        "en_string": "Dragon Lair Guardian"
       },
       {
         "jp_string": "守護者の間",
-        "en_string": ""
+        "en_string": "Room Guardian"
       },
       {
         "jp_string": "守護鬼の間",
-        "en_string": ""
+        "en_string": "Demon Guardian"
       },
       {
         "jp_string": "審判の展望台",
-        "en_string": ""
+        "en_string": "Trial Observatory"
       },
       {
         "jp_string": "審判の闘技場",
-        "en_string": ""
+        "en_string": "Trial Arena"
       },
       {
         "jp_string": "封じられた洞くつ",
-        "en_string": ""
+        "en_string": "Sealed Cave"
       },
       {
         "jp_string": "封剣の門・一獄",
-        "en_string": ""
+        "en_string": "S.Sword Gate Prison1"
       },
       {
         "jp_string": "封剣の門・三獄",
-        "en_string": ""
+        "en_string": "S.Sword Gate Prison3"
       },
       {
         "jp_string": "封剣の門・二獄",
-        "en_string": ""
+        "en_string": "S.Sword Gate Prison2"
       },
       {
         "jp_string": "封剣の門・四獄",
-        "en_string": ""
+        "en_string": "S.Sword Gate Prison4"
       },
       {
         "jp_string": "封剣の門・天獄",
-        "en_string": ""
+        "en_string": "S.Sword Gate Heaven"
       },
       {
         "jp_string": "封印の異界",
-        "en_string": ""
+        "en_string": "Diff.World Seal"
       },
       {
         "jp_string": "封印の間",
-        "en_string": ""
+        "en_string": "Center Seal"
       },
       {
         "jp_string": "封神の参道",
-        "en_string": ""
+        "en_string": "Road To The God"
       },
       {
         "jp_string": "封鎖された研究室",
-        "en_string": ""
+        "en_string": "The Sealed Lab"
       },
       {
         "jp_string": "小さなほら穴",
-        "en_string": ""
+        "en_string": "Small Cave"
       },
       {
         "jp_string": "小型艇発着場",
-        "en_string": ""
+        "en_string": "Small Landing Area"
       },
       {
         "jp_string": "屋上",
-        "en_string": ""
+        "en_string": "Roof"
       },
       {
         "jp_string": "岩峰の広間",
-        "en_string": ""
+        "en_string": "Rock Peaks Hall"
       },
       {
         "jp_string": "岩穴の牢獄",
-        "en_string": ""
+        "en_string": "Rock Pit Prison"
       },
       {
         "jp_string": "岳都ガタラ",
@@ -2596,35 +2596,35 @@
       },
       {
         "jp_string": "崩れゆく虚室",
-        "en_string": ""
+        "en_string": "Crumling Fake Room"
       },
       {
         "jp_string": "工匠神の間",
-        "en_string": ""
+        "en_string": "Craft-God Room"
       },
       {
         "jp_string": "巨猫の巣",
-        "en_string": ""
+        "en_string": "Big Cat Nest"
       },
       {
         "jp_string": "市松256",
-        "en_string": ""
+        "en_string": "Check 256"
       },
       {
         "jp_string": "市松６４",
-        "en_string": ""
+        "en_string": "Check 6 4"
       },
       {
         "jp_string": "帝国技術庁・第一庁舎",
-        "en_string": ""
+        "en_string": "Imperial Tech Agency Building1"
       },
       {
         "jp_string": "帝国技術庁・第二庁舎",
-        "en_string": ""
+        "en_string": "Imperial Tech Agency Building2"
       },
       {
         "jp_string": "帝王の玉座",
-        "en_string": ""
+        "en_string": "Emperor Throne"
       },
       {
         "jp_string": "幻の海トラシュカ",
@@ -2632,119 +2632,119 @@
       },
       {
         "jp_string": "幻影のドミネウス邸",
-        "en_string": ""
+        "en_string": "Domineus Illusion Mansion"
       },
       {
         "jp_string": "幽遠の牢獄",
-        "en_string": ""
+        "en_string": "Ghost Prison"
       },
       {
         "jp_string": "廃墟のドミネウス邸",
-        "en_string": ""
+        "en_string": "Abandoned Dominus Mansion"
       },
       {
         "jp_string": "弔いの間",
-        "en_string": ""
+        "en_string": "Burial Room"
       },
       {
         "jp_string": "強戦士の聖域・前室",
-        "en_string": ""
+        "en_string": "Warrior's Sanctuary - Front"
       },
       {
         "jp_string": "強戦士の聖域・闘場",
-        "en_string": ""
+        "en_string": "Warrior's Sanctuary - Arena"
       },
       {
         "jp_string": "影の谷",
-        "en_string": ""
+        "en_string": "D.Valley"
       },
       {
         "jp_string": "待ち合わせの場",
-        "en_string": ""
+        "en_string": "Meeting Place"
       },
       {
         "jp_string": "御前広場",
-        "en_string": ""
+        "en_string": "Imp. Plaza"
       },
       {
         "jp_string": "心ふるえる場所",
-        "en_string": ""
+        "en_string": "Heart Shaking Place"
       },
       {
         "jp_string": "心層の迷宮",
-        "en_string": ""
+        "en_string": "Mind Labyrinth"
       },
       {
         "jp_string": "心層伽藍",
-        "en_string": ""
+        "en_string": "Mind Temple"
       },
       {
         "jp_string": "心層拝堂",
-        "en_string": ""
+        "en_string": "Mind Chapel"
       },
       {
         "jp_string": "心層楼閣",
-        "en_string": ""
+        "en_string": "Mind Tower"
       },
       {
         "jp_string": "忘れられし王の間",
-        "en_string": ""
+        "en_string": "Forgotten King's Room"
       },
       {
         "jp_string": "忘れられた書庫",
-        "en_string": ""
+        "en_string": "Forgotten Library"
       },
       {
         "jp_string": "忘却のほら穴",
-        "en_string": ""
+        "en_string": "Forgetten Cave"
       },
       {
         "jp_string": "怨邪のツボ",
-        "en_string": ""
+        "en_string": "Grudge Points"
       },
       {
         "jp_string": "怪鳥の巣",
-        "en_string": ""
+        "en_string": "Ghost B Nest"
       },
       {
         "jp_string": "恵みの園",
-        "en_string": ""
+        "en_string": "Grace Yard"
       },
       {
         "jp_string": "恵みの木",
-        "en_string": ""
+        "en_string": "Grace Tree"
       },
       {
         "jp_string": "悔恨の園",
-        "en_string": ""
+        "en_string": "Regret Yard"
       },
       {
         "jp_string": "悠久の回廊",
-        "en_string": ""
+        "en_string": "Eternity Hall"
       },
       {
         "jp_string": "悪夢の世界",
-        "en_string": ""
+        "en_string": "Nightmare World"
       },
       {
         "jp_string": "悪夢団のアジト・中枢",
-        "en_string": ""
+        "en_string": "Nightmare Hideout Center"
       },
       {
         "jp_string": "悪鬼の棲みか",
-        "en_string": ""
+        "en_string": "Home Of Demon"
       },
       {
         "jp_string": "慰霊の浜",
-        "en_string": ""
+        "en_string": "Memo Beach"
       },
       {
         "jp_string": "戒めの地",
-        "en_string": ""
+        "en_string": "Promise Land"
       },
       {
         "jp_string": "戦神の宮殿",
-        "en_string": ""
+        "en_string": "War God Palace"
       },
       {
         "jp_string": "捨てられた城",
@@ -2752,55 +2752,55 @@
       },
       {
         "jp_string": "排他検証ステージ",
-        "en_string": ""
+        "en_string": "Exclusive Survey Stage"
       },
       {
         "jp_string": "採石場・最深部",
-        "en_string": ""
+        "en_string": "Quarry Deepest Level"
       },
       {
         "jp_string": "揺籃の祭壇",
-        "en_string": ""
+        "en_string": "Cradle Altar"
       },
       {
         "jp_string": "摩天の聖廟",
-        "en_string": ""
+        "en_string": "Sky Mausoleum"
       },
       {
         "jp_string": "断罪の森",
-        "en_string": ""
+        "en_string": "Judge. Wood"
       },
       {
         "jp_string": "断罪の記憶",
-        "en_string": ""
+        "en_string": "Absolute Memo"
       },
       {
         "jp_string": "新エテーネの村",
-        "en_string": ""
+        "en_string": "New Ethene Village"
       },
       {
         "jp_string": "旧ネクロデア領",
-        "en_string": ""
+        "en_string": "Old Necrodean Realm"
       },
       {
         "jp_string": "旧校舎",
-        "en_string": ""
+        "en_string": "OldSchool"
       },
       {
         "jp_string": "星の塔・屋上",
-        "en_string": ""
+        "en_string": "Star Tower Rooftop"
       },
       {
         "jp_string": "星の大樹広場",
-        "en_string": ""
+        "en_string": "Star Tree Plaza"
       },
       {
         "jp_string": "星明の宮",
-        "en_string": ""
+        "en_string": "Stars Shrine"
       },
       {
         "jp_string": "時の刻みし海溝",
-        "en_string": ""
+        "en_string": "Trench Of Time"
       },
       {
         "jp_string": "時獄の迷宮",
@@ -2808,115 +2808,115 @@
       },
       {
         "jp_string": "時空の狭間",
-        "en_string": ""
+        "en_string": "Space-Time Gap"
       },
       {
         "jp_string": "時見の泉",
-        "en_string": ""
+        "en_string": "Life Spring"
       },
       {
         "jp_string": "時見の神殿",
-        "en_string": ""
+        "en_string": "Temple of Time"
       },
       {
         "jp_string": "時見の祭壇",
-        "en_string": ""
+        "en_string": "Altar of Time"
       },
       {
         "jp_string": "暗闇のボロ屋",
-        "en_string": ""
+        "en_string": "Rags Of Darkness"
       },
       {
         "jp_string": "暗黒大樹のふもと",
-        "en_string": ""
+        "en_string": "Bottom Of The Dark Tree"
       },
       {
         "jp_string": "暗黒球",
-        "en_string": ""
+        "en_string": "D. Ball"
       },
       {
         "jp_string": "暗黒球界面",
-        "en_string": ""
+        "en_string": "D. Ball Surface"
       },
       {
         "jp_string": "暗黒空間Ｚ",
-        "en_string": ""
+        "en_string": "Dark Space Z"
       },
       {
         "jp_string": "最果ての地",
-        "en_string": ""
+        "en_string": "Last Land"
       },
       {
         "jp_string": "最果ての地下遺跡",
-        "en_string": ""
+        "en_string": "Last Underground Ruins"
       },
       {
         "jp_string": "最終処分場",
-        "en_string": ""
+        "en_string": "Landfill Site"
       },
       {
         "jp_string": "月の塔・屋上",
-        "en_string": ""
+        "en_string": "Moon Tower Rooftop"
       },
       {
         "jp_string": "月世界",
-        "en_string": ""
+        "en_string": "The Moon"
       },
       {
         "jp_string": "月世界の都",
-        "en_string": ""
+        "en_string": "Moon's Capital"
       },
       {
         "jp_string": "月世界・王宮",
-        "en_string": ""
+        "en_string": "Moon Royal Palace"
       },
       {
         "jp_string": "月明かりの家",
-        "en_string": ""
+        "en_string": "Moonlit House"
       },
       {
         "jp_string": "月明かりの谷",
-        "en_string": ""
+        "en_string": "Moonlit Valley"
       },
       {
         "jp_string": "未完のご神体の間",
-        "en_string": ""
+        "en_string": "Mikan God Room"
       },
       {
         "jp_string": "未完のドラクロン山地",
-        "en_string": ""
+        "en_string": "Mikan Dragon Mountain"
       },
       {
         "jp_string": "未完のモンセロ温泉峡",
-        "en_string": ""
+        "en_string": "Mikan M. Hot Spring"
       },
       {
         "jp_string": "未完のラゼアの風穴",
-        "en_string": ""
+        "en_string": "Mikan Lazea Wind Cave"
       },
       {
         "jp_string": "未完の風穴の研究室",
-        "en_string": ""
+        "en_string": "Mikan Wind Cave Lab"
       },
       {
         "jp_string": "未完の飛竜の峰",
-        "en_string": ""
+        "en_string": "Mikan Wyvern Peaks"
       },
       {
         "jp_string": "未知なる工房",
-        "en_string": ""
+        "en_string": "Unknown Workshop"
       },
       {
         "jp_string": "未踏の地",
-        "en_string": ""
+        "en_string": "Unknown Land"
       },
       {
         "jp_string": "未踏の海底",
-        "en_string": ""
+        "en_string": "Unknown Sea"
       },
       {
         "jp_string": "朽ちた霊廟",
-        "en_string": ""
+        "en_string": "Decayed Shrine"
       },
       {
         "jp_string": "村の武闘場",
@@ -2924,135 +2924,135 @@
       },
       {
         "jp_string": "東の荒野",
-        "en_string": ""
+        "en_string": "East Desert"
       },
       {
         "jp_string": "枯れ井戸の地下洞",
-        "en_string": ""
+        "en_string": "Cave Of Dead Well"
       },
       {
         "jp_string": "校庭",
-        "en_string": ""
+        "en_string": "Campus"
       },
       {
         "jp_string": "森の井戸",
-        "en_string": ""
+        "en_string": "Forest Well"
       },
       {
         "jp_string": "森の井戸の地下洞",
-        "en_string": ""
+        "en_string": "Cave Of Forest Well"
       },
       {
         "jp_string": "森の洞くつ",
-        "en_string": ""
+        "en_string": "Forest Cave"
       },
       {
         "jp_string": "森外れのほら穴",
-        "en_string": ""
+        "en_string": "Cave Outside Forest"
       },
       {
         "jp_string": "業炎の聖塔",
-        "en_string": ""
+        "en_string": "Tower Of Karma"
       },
       {
         "jp_string": "楽園",
-        "en_string": ""
+        "en_string": "Rakuen"
       },
       {
         "jp_string": "楽園へ至る間",
-        "en_string": ""
+        "en_string": "Road To Rakuen"
       },
       {
         "jp_string": "樹天の里",
-        "en_string": ""
+        "en_string": "Juten Town"
       },
       {
         "jp_string": "欲望の大浴場",
-        "en_string": ""
+        "en_string": "Bath Of Desire"
       },
       {
         "jp_string": "武道場",
-        "en_string": ""
+        "en_string": "Dojo"
       },
       {
         "jp_string": "毒牙の間",
-        "en_string": ""
+        "en_string": "P. Fang Room"
       },
       {
         "jp_string": "水環の間",
-        "en_string": ""
+        "en_string": "W.Ring Room"
       },
       {
         "jp_string": "水神の湖",
-        "en_string": ""
+        "en_string": "Lake Of God"
       },
       {
         "jp_string": "氷晶の聖塔",
-        "en_string": ""
+        "en_string": "Tower Of Ice"
       },
       {
         "jp_string": "氷雪の牙城",
-        "en_string": ""
+        "en_string": "Snow Strongold"
       },
       {
         "jp_string": "永遠の地下迷宮",
-        "en_string": ""
+        "en_string": "Eternal Labyrinth"
       },
       {
         "jp_string": "永遠の牢獄",
-        "en_string": ""
+        "en_string": "Eternal Prison"
       },
       {
         "jp_string": "泉源郷",
-        "en_string": ""
+        "en_string": "Spring V."
       },
       {
         "jp_string": "洞くつ最深部",
-        "en_string": ""
+        "en_string": "Deepest Cave"
       },
       {
         "jp_string": "流砂の遺跡",
-        "en_string": ""
+        "en_string": "Quicksand Ruins"
       },
       {
         "jp_string": "流砂の隠れ家",
-        "en_string": ""
+        "en_string": "Quicksand Lair"
       },
       {
         "jp_string": "浄月の間",
-        "en_string": ""
+        "en_string": "FullmoonHall"
       },
       {
         "jp_string": "浜辺の洞くつ",
-        "en_string": ""
+        "en_string": "Beach Cave"
       },
       {
         "jp_string": "海のとける洞くつ",
-        "en_string": ""
+        "en_string": "Melting Cave Of The Sea"
       },
       {
         "jp_string": "海冥の彼岸",
-        "en_string": ""
+        "en_string": "Sea Shore"
       },
       {
         "jp_string": "海底の牢獄",
-        "en_string": ""
+        "en_string": "Undersea Prison"
       },
       {
         "jp_string": "海底都市ルシュカ",
-        "en_string": ""
+        "en_string": "Underwater City of Ruska"
       },
       {
         "jp_string": "海淵の間",
-        "en_string": ""
+        "en_string": "Abyss Room"
       },
       {
         "jp_string": "海獣の巣",
-        "en_string": ""
+        "en_string": "S.Beast Nest"
       },
       {
         "jp_string": "海神の大霊洞",
-        "en_string": ""
+        "en_string": "Cave Of The SeaGod"
       },
       {
         "jp_string": "海賊のアジト跡・地下",
@@ -3328,11 +3328,11 @@
       },
       {
         "jp_string": "神代の間",
-        "en_string": ""
+        "en_string": "God's Hall"
       },
       {
         "jp_string": "神儀の護堂",
-        "en_string": ""
+        "en_string": "God's Ritual"
       },
       {
         "jp_string": "神墟ナドラグラム",
@@ -3432,7 +3432,7 @@
       },
       {
         "jp_string": "終末の風景（CS用）",
-        "en_string": ""
+        "en_string": "Doomsday's View (CS only)"
       },
       {
         "jp_string": "終着の星域",
@@ -3512,47 +3512,47 @@
       },
       {
         "jp_string": "職人練習場",
-        "en_string": ""
+        "en_string": "Crafting Train"
       },
       {
         "jp_string": "育みの大地",
-        "en_string": ""
+        "en_string": "Nurturing Land"
       },
       {
         "jp_string": "自動生成ダンジョン",
-        "en_string": ""
+        "en_string": "Auto-Generated Dungeons"
       },
       {
         "jp_string": "自然遺産保護区",
-        "en_string": ""
+        "en_string": "Heritage Reserve"
       },
       {
         "jp_string": "芸術の墓場",
-        "en_string": ""
+        "en_string": "Grave Of Art"
       },
       {
         "jp_string": "荒城の宝物殿",
-        "en_string": ""
+        "en_string": "A's Treasure Hall"
       },
       {
         "jp_string": "荒城の隠し御殿",
-        "en_string": ""
+        "en_string": "A's Hidden Palace"
       },
       {
         "jp_string": "荒廃したレンダーヒルズ",
-        "en_string": ""
+        "en_string": "Rendered Hills in Ruins"
       },
       {
         "jp_string": "荒野の枯れ井戸",
-        "en_string": ""
+        "en_string": "Dry Well In Desert"
       },
       {
         "jp_string": "菜園",
-        "en_string": ""
+        "en_string": "Garden"
       },
       {
         "jp_string": "落日",
-        "en_string": ""
+        "en_string": "Sunset"
       },
       {
         "jp_string": "落陽の草原",
@@ -3560,99 +3560,99 @@
       },
       {
         "jp_string": "薄明",
-        "en_string": ""
+        "en_string": "Twilig"
       },
       {
         "jp_string": "虚無の楼閣",
-        "en_string": ""
+        "en_string": "Void Tower"
       },
       {
         "jp_string": "血潮の浜辺",
-        "en_string": ""
+        "en_string": "Bld Tide Beach"
       },
       {
         "jp_string": "裏通りのアジト",
-        "en_string": ""
+        "en_string": "Backstreet Hideout"
       },
       {
         "jp_string": "解放の間",
-        "en_string": ""
+        "en_string": "Liberation R"
       },
       {
         "jp_string": "記憶のナルビアの町",
-        "en_string": ""
+        "en_string": "Memory of Nalbia Town"
       },
       {
         "jp_string": "記憶のパドレア邸",
-        "en_string": ""
+        "en_string": "Memory of Padrea Mansion"
       },
       {
         "jp_string": "記憶のマデ島",
-        "en_string": ""
+        "en_string": "Memory of MadeIsle"
       },
       {
         "jp_string": "記憶のムストの町",
-        "en_string": ""
+        "en_string": "Memory of Must Town"
       },
       {
         "jp_string": "記憶の帝国技術庁",
-        "en_string": ""
+        "en_string": "Imperial Tech Agency"
       },
       {
         "jp_string": "記憶の風穴の研究室",
-        "en_string": ""
+        "en_string": "Memory of Wind Tunnel Lab"
       },
       {
         "jp_string": "試練の間",
-        "en_string": ""
+        "en_string": "Trial Room"
       },
       {
         "jp_string": "詩人の舞台・控室",
-        "en_string": ""
+        "en_string": "Min's Stage Waiting Room"
       },
       {
         "jp_string": "詩吟のほこら",
-        "en_string": ""
+        "en_string": "Poetry Shrine"
       },
       {
         "jp_string": "詩歌の遺跡",
-        "en_string": ""
+        "en_string": "Poetry Ruins"
       },
       {
         "jp_string": "詩歌の間",
-        "en_string": ""
+        "en_string": "Poetry Room"
       },
       {
         "jp_string": "謎の地下水路",
-        "en_string": ""
+        "en_string": "Undergrd Waterway"
       },
       {
         "jp_string": "謎の地下迷宮",
-        "en_string": ""
+        "en_string": "Undergrd Labyrinth"
       },
       {
         "jp_string": "謎の地底湖",
-        "en_string": ""
+        "en_string": "Undergrd Lake"
       },
       {
         "jp_string": "謎の孤島",
-        "en_string": ""
+        "en_string": "IsolatedIsle"
       },
       {
         "jp_string": "謎の島",
-        "en_string": ""
+        "en_string": "Island"
       },
       {
         "jp_string": "謎の遺跡島",
-        "en_string": ""
+        "en_string": "Ruins Island"
       },
       {
         "jp_string": "講堂",
-        "en_string": ""
+        "en_string": "Audito"
       },
       {
         "jp_string": "谷間の広場",
-        "en_string": ""
+        "en_string": "Valley Plaza"
       },
       {
         "jp_string": "賢者の隠れ家",
@@ -3660,71 +3660,71 @@
       },
       {
         "jp_string": "購買部・食堂",
-        "en_string": ""
+        "en_string": "Housing Cafe"
       },
       {
         "jp_string": "赤のほこらの洞くつ",
-        "en_string": ""
+        "en_string": "Red Cairn Cave"
       },
       {
         "jp_string": "赤柱の間・一獄",
-        "en_string": ""
+        "en_string": "Red Pillar Prison 1"
       },
       {
         "jp_string": "赤柱の間・三獄",
-        "en_string": ""
+        "en_string": "Red Pillar Prison 3"
       },
       {
         "jp_string": "赤柱の間・二獄",
-        "en_string": ""
+        "en_string": "Red Pillar Prison 2"
       },
       {
         "jp_string": "赤柱の間・四獄",
-        "en_string": ""
+        "en_string": "Red Pillar Prison 4"
       },
       {
         "jp_string": "赤柱の間・天獄",
-        "en_string": ""
+        "en_string": "Red Pillar Sky Prison"
       },
       {
         "jp_string": "赤熱の荒野",
-        "en_string": ""
+        "en_string": "Red Hot Desert"
       },
       {
         "jp_string": "輪廻",
-        "en_string": ""
+        "en_string": "Reborn"
       },
       {
         "jp_string": "辺境の雪山",
-        "en_string": ""
+        "en_string": "Snowy Mountain"
       },
       {
         "jp_string": "迅雷の丘",
-        "en_string": ""
+        "en_string": "Thunder Hill"
       },
       {
         "jp_string": "迎春の間",
-        "en_string": ""
+        "en_string": "New Year R"
       },
       {
         "jp_string": "追憶の世界-アルウェ王妃の別荘跡",
-        "en_string": ""
+        "en_string": "World Of Remembrance-The Ruins of Queen Aruu~e"
       },
       {
         "jp_string": "追憶の世界-キラキラ大風車塔",
-        "en_string": ""
+        "en_string": "World Of Remembrance-Windmill Tower"
       },
       {
         "jp_string": "追憶の世界-ヴェリナード",
-        "en_string": ""
+        "en_string": "World Of Remembrance-Verinard"
       },
       {
         "jp_string": "追憶の世界-王妃の生家",
-        "en_string": ""
+        "en_string": "World Of Remembrance-Qun's Home"
       },
       {
         "jp_string": "通学路",
-        "en_string": ""
+        "en_string": "Schl Road"
       },
       {
         "jp_string": "遊びハウス",
@@ -3732,35 +3732,35 @@
       },
       {
         "jp_string": "選王の儀礼場",
-        "en_string": ""
+        "en_string": "King's Ceremony"
       },
       {
         "jp_string": "邪神のほこら（ウェディ）",
-        "en_string": ""
+        "en_string": "Evil God's Lair (Weddy)"
       },
       {
         "jp_string": "邪神のほこら（エルフ）",
-        "en_string": ""
+        "en_string": "Evil God's Lair (Elven)"
       },
       {
         "jp_string": "邪神のほこら（オーガ）",
-        "en_string": ""
+        "en_string": "Evil God's Lair (Orge)"
       },
       {
         "jp_string": "邪神のほこら（ドワーフ）",
-        "en_string": ""
+        "en_string": "Evil God's Lair (Dwaft)"
       },
       {
         "jp_string": "邪神のほこら（プクリポ）",
-        "en_string": ""
+        "en_string": "Evil God's Lair (Puklipo)"
       },
       {
         "jp_string": "邪神の宮殿",
-        "en_string": ""
+        "en_string": "Evil God Palace"
       },
       {
         "jp_string": "野獣の巣",
-        "en_string": ""
+        "en_string": "Beast's Nest"
       },
       {
         "jp_string": "銀の丘",
@@ -3772,7 +3772,7 @@
       },
       {
         "jp_string": "鍛竜の洞",
-        "en_string": ""
+        "en_string": "Forge D Cave"
       },
       {
         "jp_string": "閃光の神殿",
@@ -3780,15 +3780,15 @@
       },
       {
         "jp_string": "閉ざされた水路闇の溢る世界",
-        "en_string": ""
+        "en_string": "Close Waterway World Full Of Darkness"
       },
       {
         "jp_string": "闇の辺獄",
-        "en_string": ""
+        "en_string": "Dark Edge"
       },
       {
         "jp_string": "闇夜",
-        "en_string": ""
+        "en_string": "DNight"
       },
       {
         "jp_string": "闘士の間",
@@ -3796,23 +3796,23 @@
       },
       {
         "jp_string": "闘技場・舞台",
-        "en_string": ""
+        "en_string": "Arena Stage"
       },
       {
         "jp_string": "防砂ダム・展望台",
-        "en_string": ""
+        "en_string": "Sand Dam Observatory"
       },
       {
         "jp_string": "陽光",
-        "en_string": ""
+        "en_string": "Sunray"
       },
       {
         "jp_string": "陽衆の隠れ家",
-        "en_string": ""
+        "en_string": "Yangshuo's Hideout"
       },
       {
         "jp_string": "隠しオフィス",
-        "en_string": ""
+        "en_string": "Hidden Office"
       },
       {
         "jp_string": "雄峰ランドン",
@@ -3820,11 +3820,11 @@
       },
       {
         "jp_string": "集会所",
-        "en_string": ""
+        "en_string": "Clubhouse"
       },
       {
         "jp_string": "雪の女王の洞くつ",
-        "en_string": ""
+        "en_string": "Snow Queen's Cave"
       },
       {
         "jp_string": "雪原の廃墟",
@@ -3832,43 +3832,43 @@
       },
       {
         "jp_string": "雪夜のエントランス",
-        "en_string": ""
+        "en_string": "Snowy Night Entrance"
       },
       {
         "jp_string": "雪夜の大広間",
-        "en_string": ""
+        "en_string": "Snowy Night Hall"
       },
       {
         "jp_string": "雪虫の洞くつ",
-        "en_string": ""
+        "en_string": "Cave of Snow Worm"
       },
       {
         "jp_string": "雲上湖",
-        "en_string": ""
+        "en_string": "CloudLake"
       },
       {
         "jp_string": "雷食い鳥の玉座",
-        "en_string": ""
+        "en_string": "Thunder Bird's Throne"
       },
       {
         "jp_string": "霊獣の古戦場",
-        "en_string": ""
+        "en_string": "Beast Battlefield"
       },
       {
         "jp_string": "青のほこらの洞くつ",
-        "en_string": ""
+        "en_string": "Blue Shrine Cave"
       },
       {
         "jp_string": "静寂のほこら",
-        "en_string": ""
+        "en_string": "Hollow of Silence"
       },
       {
         "jp_string": "静寂の泉",
-        "en_string": ""
+        "en_string": "SilentSpring"
       },
       {
         "jp_string": "願いの想域",
-        "en_string": ""
+        "en_string": "Wishing Realm"
       },
       {
         "jp_string": "風の町アズラン",
@@ -3880,7 +3880,7 @@
       },
       {
         "jp_string": "風穴の研究室",
-        "en_string": ""
+        "en_string": "Wind Tunnel Lab"
       },
       {
         "jp_string": "風車の丘",
@@ -3888,35 +3888,35 @@
       },
       {
         "jp_string": "飛竜の峰",
-        "en_string": ""
+        "en_string": "Dragon Peak"
       },
       {
         "jp_string": "飼育小屋",
-        "en_string": ""
+        "en_string": "Stable"
       },
       {
         "jp_string": "高台の戦場",
-        "en_string": ""
+        "en_string": "HighBattlefield"
       },
       {
         "jp_string": "高台の教会",
-        "en_string": ""
+        "en_string": "High Church"
       },
       {
         "jp_string": "鬼岩城",
-        "en_string": ""
+        "en_string": "StonyRock"
       },
       {
         "jp_string": "魂のありか",
-        "en_string": ""
+        "en_string": "Soul's Place"
       },
       {
         "jp_string": "魑魅魍魎の洞",
-        "en_string": ""
+        "en_string": "Chimimoryo Cave"
       },
       {
         "jp_string": "魔ルクスガルン大空洞",
-        "en_string": ""
+        "en_string": "Demon Luxgarn Hollow"
       },
       {
         "jp_string": "魔幻園マデッサンス",
@@ -3924,27 +3924,27 @@
       },
       {
         "jp_string": "魔幻宮殿",
-        "en_string": ""
+        "en_string": "Demon Palace"
       },
       {
         "jp_string": "魔幻都市ゴーラ跡",
-        "en_string": ""
+        "en_string": "Phantom City Gora"
       },
       {
         "jp_string": "魔法の迷宮",
-        "en_string": ""
+        "en_string": "Magic Labyrinth"
       },
       {
         "jp_string": "魔炎鳥の巣",
-        "en_string": ""
+        "en_string": "Flamebird Nest"
       },
       {
         "jp_string": "魔獣のナワ張り",
-        "en_string": ""
+        "en_string": "Hexenbiest Nest"
       },
       {
         "jp_string": "魔獣の菜園",
-        "en_string": ""
+        "en_string": "Hexenbiest Yard"
       },
       {
         "jp_string": "魔瘴調査区画",
@@ -3952,19 +3952,19 @@
       },
       {
         "jp_string": "魔空の調練場",
-        "en_string": ""
+        "en_string": "Sky TrainingGround"
       },
       {
         "jp_string": "黄昏の園",
-        "en_string": ""
+        "en_string": "TwilightYard"
       },
       {
         "jp_string": "黄昏の詩人の舞台",
-        "en_string": ""
+        "en_string": "Twilight Poet's Stage"
       },
       {
         "jp_string": "黄昏岬",
-        "en_string": ""
+        "en_string": "Cape Dusk"
       },
       {
         "jp_string": "黒のほこら",
