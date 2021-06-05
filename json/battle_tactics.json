@@ -1,107 +1,25 @@
-[
-  {
-    "hex_start": "54 45 58 54 10 00 00 00 F0 03 00 00 00 00 00 00 00 00",
-    "strings": [
-      {
-        "jp_string": "いのちだいじに",
-        "en_string": "Focus Healing"
-      },
-      {
-        "jp_string": "いろいろやってね",
-        "en_string": "Mix It Up"
-      },
-      {
-        "jp_string": "いろいろやろうぜ",
-        "en_string": "Mix It Up"
-      },
-      {
-        "jp_string": "おれにまかせろ",
-        "en_string": "Watch Your Back"
-      },
-      {
-        "jp_string": "きょうかおねがい",
-        "en_string": "Church Favors"
-      },
-      {
-        "jp_string": "きょうかよろしく",
-        "en_string": "Best Regards"
-      },
-      {
-        "jp_string": "じゃくたいさせろ",
-        "en_string": "Let Me Be Weak"
-      },
-      {
-        "jp_string": "じゃくたいしてね",
-        "en_string": "Little by Little"
-      },
-      {
-        "jp_string": "ちかくにあつまれ",
-        "en_string": "Gather Close By"
-      },
-      {
-        "special_line_break": true,
-        "jp_string": "なにがあっても|ＭＰを使わない|超節約モード",
-        "en_string": "Don't use any MP."
-      },
-      {
-        "special_line_break": true,
-        "jp_string": "なるべくいろんな|呪文や特技を使い|華やかに戦う",
-        "en_string": "Use as many|spells and skills|as possible."
-      },
-      {
-        "special_line_break": true,
-        "jp_string": "わき目もふらずに|あなたの攻撃を|全力でサポート",
-        "en_string": "I'll support your|attacks with all|my might!"
-      },
-      {
-        "jp_string": "わたしにまかせて",
-        "en_string": "Leave It To Me"
-      },
-      {
-        "jp_string": "ガンガンいくわよ",
-        "en_string": "Show No Mercy"
-      },
-      {
-        "jp_string": "ガンガンいこうぜ",
-        "en_string": "Show No Mercy"
-      },
-      {
-        "jp_string": "バッチリがんばれ",
-        "en_string": "Fight Wisely"
-      },
-      {
-        "special_line_break": true,
-        "jp_string": "味方を強化する|呪文や特技を|優先に使って戦う敵を弱体化させる|呪文や特技を|優先に使って戦う",
-        "en_string": "Strengthen allies|Spells and feats|Prioritize fighting enemies|Spells and feats|Prioritize fighting enemies"
-      },
-      {
-        "special_line_break": true,
-        "jp_string": "死なないことを|最優先にして|回復重視で戦う",
-        "en_string": "Focus strictly|on healing and|not dying."
-      },
-      {
-        "special_line_break": true,
-        "jp_string": "行動をせずに|あなたの近くに|さっと集まります",
-        "en_string": "We'll gather near|you without|making a move."
-      },
-      {
-        "jp_string": "ＭＰつかうな",
-        "en_string": "Don't use MP"
-      },
-      {
-        "jp_string": "ＭＰつかわないで",
-        "en_string": "Conserve MP"
-      },
-      {
-        "special_line_break": true,
-        "jp_string": "ＭＰも温存しつつ|こうげきと守備を|バランスよく戦う",
-        "en_string": "Balance fighting|and defense while|conserving MP."
-      },
-      {
-        "special_line_break": true,
-        "jp_string": "ＭＰを気にせず|全力を尽くして|ガンガンこうげき",
-        "en_string": "Don't worry about|MP. Go for it!"
-      }
-    ]
-  }
-]
+{
+  "いのちだいじに": "Focus Healing",
+  "いろいろやってね": "Use Your Skills",
+  "いろいろやろうぜ": "Let's do some stuff",
+  "おれにまかせろ": "I'll take care of it",
+  "きょうかおねがい": "Church Favors",
+  "きょうかよろしく": "Best Regards",
+  "じゃくたいさせろ": "Let Me Be Weak",
+  "じゃくたいしてね": "Little by Little",
+  "ちかくにあつまれ": "Gather Close By",
+  "なにがあっても|ＭＰを使わない|超節約モード": "Don't use any MP.",
+  "なるべくいろんな|呪文や特技を使い|華やかに戦う": "Use as many|spells and skills|as possible.",
+  "わき目もふらずに|あなたの攻撃を|全力でサポート": "I'll support your|attacks with all|my might!",
+  "わたしにまかせて": "Leave It To Me",
+  "ガンガンいくわよ": "Go All Out",
+  "ガンガンいこうぜ": "Let's get on with it",
+  "バッチリがんばれ": "Fight Wisely",
+  "味方を強化する|呪文や特技を|優先に使って戦う敵を弱体化させる|呪文や特技を|優先に使って戦う": "Strengthen allies|Spells and feats|Prioritize fighting enemies|Spells and feats|Prioritize fighting enemies",
+  "死なないことを|最優先にして|回復重視で戦う": "Focus strictly|on healing and|not dying.",
+  "行動をせずに|あなたの近くに|さっと集まります": "We'll gather near|you without|making a move.",
+  "ＭＰつかうな": "Don't use MP",
+  "ＭＰつかわないで": "Converve MP",
+  "ＭＰも温存しつつ|こうげきと守備を|バランスよく戦う": "Balance fighting|and defense while|conserving MP.",
+  "ＭＰを気にせず|全力を尽くして|ガンガンこうげき": "Don't worry about|MP. Go for it!"
+}
