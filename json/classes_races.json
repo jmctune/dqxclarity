@@ -1,179 +1,45 @@
-[
-  {
-    "hex_start": "54 45 58 54 10 00 00 00 F0 01 00",
-    "strings": [
-      {
-        "jp_string": "戦士",
-        "en_string": "WAR"
-      },
-      {
-        "jp_string": "僧侶",
-        "en_string": "PRI"
-      },
-      {
-        "jp_string": "魔使",
-        "en_string": "MGE"
-      },
-      {
-        "jp_string": "武闘",
-        "en_string": "MRT"
-      },
-      {
-        "jp_string": "盗賊",
-        "en_string": "THF"
-      },
-      {
-        "jp_string": "旅芸",
-        "en_string": "MIN"
-      },
-      {
-        "jp_string": "バト",
-        "en_string": "BTL"
-      },
-      {
-        "jp_string": "パラ",
-        "en_string": "PLD"
-      },
-      {
-        "jp_string": "魔戦",
-        "en_string": "ARM"
-      },
-      {
-        "jp_string": "レン",
-        "en_string": "RNG"
-      },
-      {
-        "jp_string": "賢者",
-        "en_string": "SGE"
-      },
-      {
-        "jp_string": "スパ",
-        "en_string": "STA"
-      },
-      {
-        "jp_string": "まも",
-        "en_string": "MON"
-      },
-      {
-        "jp_string": "どう",
-        "en_string": "ITM"
-      },
-      {
-        "jp_string": "踊り",
-        "en_string": "DCR"
-      },
-      {
-        "jp_string": "占い",
-        "en_string": "FOR"
-      },
-      {
-        "jp_string": "天地",
-        "en_string": "DRU"
-      },
-      {
-        "jp_string": "遊び",
-        "en_string": "GAD"
-      },
-      {
-        "jp_string": "デス",
-        "en_string": "DTH"
-      },
-      {
-        "jp_string": "魔剣",
-        "en_string": "DMN"
-      },
-      {
-        "jp_string": "エルフ",
-        "en_string": "Elf"
-      },
-      {
-        "jp_string": "ウェディ",
-        "en_string": "Weddie"
-      },
-      {
-        "jp_string": "オーガ",
-        "en_string": "Ogre"
-      },
-      {
-        "jp_string": "プクリポ",
-        "en_string": "Pukulipo"
-      },
-      {
-        "jp_string": "ドワーフ",
-        "en_string": "Dwarf"
-      },
-      {
-        "jp_string": "人間",
-        "en_string": "Human"
-      },
-      {
-        "jp_string": "魔法使い",
-        "en_string": "MGE"
-      },
-      {
-        "jp_string": "武闘家",
-        "en_string": "MRT"
-      },
-      {
-        "jp_string": "旅芸人",
-        "en_string": "MIN"
-      },
-      {
-        "jp_string": "バトルマスター",
-        "en_string": "BTL"
-      },
-      {
-        "jp_string": "パラディン",
-        "en_string": "PLD"
-      },
-      {
-        "jp_string": "魔法戦士",
-        "en_string": "ARM"
-      },
-      {
-        "jp_string": "レンジャー",
-        "en_string": "RNG"
-      },
-      {
-        "jp_string": "スーパースター",
-        "en_string": "STA"
-      },
-      {
-        "jp_string": "まもの使い",
-        "en_string": "MON"
-      },
-      {
-        "jp_string": "どうぐ使い",
-        "en_string": "ITM"
-      },
-      {
-        "jp_string": "踊り子",
-        "en_string": "DNC"
-      },
-      {
-        "jp_string": "占い師",
-        "en_string": "FOR"
-      },
-      {
-        "jp_string": "スライム",
-        "en_string": "Slime"
-      },
-      {
-        "jp_string": "天地雷鳴士",
-        "en_string": "DRU"
-      },
-      {
-        "jp_string": "遊び人",
-        "en_string": "GAD"
-      },
-      {
-        "jp_string": "デスマスター",
-        "en_string": "DTH"
-      },
-      {
-        "jp_string": "魔剣士",
-        "en_string": "DMN"
-      }
-    ]
-  }
-]
+{   
+  "戦士": "WAR",
+  "僧侶": "PRI",
+  "魔使": "MGE",
+  "武闘": "MRT",
+  "盗賊": "THF",
+  "旅芸": "MIN",
+  "バト": "BTL",
+  "パラ": "PLD",
+  "魔戦": "ARM",
+  "レン": "RNG",
+  "賢者": "SGE",
+  "スパ": "STA",
+  "まも": "MON",
+  "どう": "ITM",
+  "踊り": "DCR",
+  "占い": "FOR",
+  "天地": "DRU",
+  "遊び": "GAD",
+  "デス": "DTH",
+  "魔剣": "DMN",
+  "エルフ": "Elf",
+  "ウェディ": "Weddie",
+  "オーガ": "Ogre",
+  "プクリポ": "Pukulipo",
+  "ドワーフ": "Dwarf",
+  "人間": "Human",
+  "魔法使い": "MGE",
+  "武闘家": "MRT",
+  "旅芸人": "MIN",
+  "バトルマスター": "BTL",
+  "パラディン": "PLD",
+  "魔法戦士": "ARM",
+  "レンジャー": "RNG",
+  "スーパースター": "STA",
+  "まもの使い": "MON",
+  "どうぐ使い": "ITM",
+  "踊り子": "DNC",
+  "占い師": "FOR",
+  "スライム": "Slime",
+  "天地雷鳴士": "DRU",
+  "遊び人": "GAD",
+  "デスマスター": "DTH",
+  "魔剣士": "DMN"
+}
