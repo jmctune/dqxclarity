@@ -12,7 +12,7 @@
       },
       {
         "jp_string": "ほうしゅう（大成功限定）",
-        "en_string": "Houhou (limited to great success)"
+        "en_string": "Reward (limited to great success)"
       },
       {
         "jp_string": "（６つまで）",
@@ -60,7 +60,7 @@
       },
       {
         "jp_string": "(はずす)",
-        "en_string": "(Unfasten)"
+        "en_string": "(Remove)"
       },
       {
         "jp_string": "(まいてもらった回数：<%dM_num>回)",
@@ -240,7 +240,7 @@
       },
       {
         "jp_string": "1位の報酬",
-        "en_string": ""
+        "en_string": "1st Prize"
       },
       {
         "jp_string": "1分未満",
@@ -284,7 +284,7 @@
       },
       {
         "jp_string": "2位の報酬",
-        "en_string": ""
+        "en_string": "2nd Prize"
       },
       {
         "jp_string": "2週間以内",
@@ -312,7 +312,7 @@
       },
       {
         "jp_string": "3秒後撮影",
-        "en_string": ""
+        "en_string": "Take after 3s"
       },
       {
         "jp_string": "3週間以内",
@@ -328,7 +328,7 @@
       },
       {
         "jp_string": "50音きりかえ",
-        "en_string": ""
+        "en_string": "A-Z Switch"
       },
       {
         "jp_string": "50音順",
@@ -336,7 +336,7 @@
       },
       {
         "jp_string": "50音順(宝珠名)",
-        "en_string": "A-Z (name of pearl)"
+        "en_string": "A-Z (Jewel Name)"
       },
       {
         "jp_string": "50音順に",
@@ -384,7 +384,7 @@
       },
       {
         "jp_string": "錬金効果を自分で付けた",
-        "en_string": "I added the alchemy effect myself"
+        "en_string": "I added the alchemy effect myself."
       },
       {
         "jp_string": "新品の<%sL_EQUIP_TYPE>を１個",
@@ -392,7 +392,7 @@
       },
       {
         "jp_string": "<%sL_KOUKA1>の",
-        "en_string": "<%sL_KOUKA1>"
+        "en_string": "<%sL_KOUKA1>'s"
       },
       {
         "jp_string": "錬金効果を自分で付けた",
@@ -444,7 +444,7 @@
       },
       {
         "jp_string": "<%sM_Arcanum>の<%sM_Monster>",
-        "en_string": "<%sM_Monster>in<%sM_Arcanum>"
+        "en_string": "<%sM_Monster> <%sM_Arcanum>"
       },
       {
         "jp_string": "<%sM_Arcanum>のタロット",
@@ -460,7 +460,7 @@
       },
       {
         "jp_string": "<%sM_Item>全部",
-        "en_string": "<%sM_Item>All"
+        "en_string": "All <%sM_Item>"
       },
       {
         "jp_string": "<%sM_Monster1> ＋ ランク<%sM_Rare>のタロット",
@@ -512,11 +512,11 @@
       },
       {
         "jp_string": "<%sM_World> 旅人バザー",
-        "en_string": "<%sM_World> Trav's Bazaar"
+        "en_string": "<%sM_World> Trav. Bazaar"
       },
       {
         "jp_string": "<%sM_area>でつかまえたネコの種類",
-        "en_string": "Type of cat caught in <%sM_area>"
+        "en_string": "Types of cats caught in <%sM_area>"
       },
       {
         "jp_string": "<%sM_bui>のみ表示",
@@ -556,15 +556,15 @@
       },
       {
         "jp_string": "<%sM_element>のちから",
-        "en_string": "from <%sM_element>"
+        "en_string": "<%sM_element>'s Strength"
       },
       {
         "jp_string": "<%sM_element>の宝珠",
-        "en_string": "<%sM_element>'s jewel"
+        "en_string": "<%sM_element>'s Jewel"
       },
       {
         "jp_string": "<%sM_element>の石版",
-        "en_string": "<%sM_element>stone tab"
+        "en_string": "<%sM_element> Tablet"
       },
       {
         "jp_string": "<%sM_element>の飾り石",
@@ -572,7 +572,7 @@
       },
       {
         "jp_string": "<%sM_gprank>ランク",
-        "en_string": "<%sM_gprank>rank"
+        "en_string": "<%sM_gprank> Rank"
       },
       {
         "jp_string": "<%sM_ikisaki2>に行く",
@@ -588,11 +588,11 @@
       },
       {
         "jp_string": "<%sM_item><%sM_plusnum>の強化後の錬金効果",
-        "en_string": "Alch eff of <%sM_item><%sM_plusnum> after enhance"
+        "en_string": "<%sM_item><%sM_plusnum> alch. eff. after enhance"
       },
       {
         "jp_string": "<%sM_item><%sM_plusnum>を<%2dM_nn>こ　お買い上げ！",
-        "en_string": "<%sM_item><%sM_plusnum> for <%2dM_nn>!"
+        "en_string": "<%sM_plusnum> <%sM_item> for <%2dM_nn>!"
       },
       {
         "jp_string": "<%sM_item><%sM_rurastone><%sM_dot><%sM_sub>の石",
@@ -628,7 +628,7 @@
       },
       {
         "jp_string": "<%sM_job> スキルふり直し",
-        "en_string": "<%sM_job> reassign skills"
+        "en_string": "<%sM_job> skill reassign"
       },
       {
         "jp_string": "<%sM_job>だけ",
@@ -636,7 +636,7 @@
       },
       {
         "jp_string": "<%sM_job>に",
-        "en_string": "<%sM_job>two"
+        "en_string": "<%sM_job> to"
       },
       {
         "jp_string": "<%sM_job>になる",
@@ -664,7 +664,7 @@
       },
       {
         "jp_string": "<%sM_job>の特訓ポイント",
-        "en_string": "<%sM_job>special train points"
+        "en_string": "<%sM_job>Sp. Training points"
       },
       {
         "jp_string": "<%sM_job>：ランク<%sM_jobrank>",
@@ -680,7 +680,7 @@
       },
       {
         "jp_string": "<%sM_katagaki1><%sM_katagaki2><%sM_Hankaku><%sM_pc> の 戦いのきろく",
-        "en_string": "Records for <%sM_katagaki1><%sM_katagaki2><%sM_Hankaku><%sM_pc>"
+        "en_string": "Records for <%sM_katagaki1><%sM_katagaki2><%sM_Hankaku> <%sM_pc>"
       },
       {
         "jp_string": "<%sM_landaddress1>へ行く",
@@ -692,19 +692,19 @@
       },
       {
         "jp_string": "<%sM_landaddress1>住宅村",
-        "en_string": "<%sM_landaddress1>House Vil"
+        "en_string": "<%sM_landaddress1>Res. Vlg."
       },
       {
         "jp_string": "<%sM_landaddress1>住宅村　<%sM_landaddress4>丁目",
-        "en_string": "<%sM_landaddress1>House Vil <%sM_landaddress4>Street"
+        "en_string": "<%sM_landaddress1>Res. Vlg. Ward <%sM_landaddress4>"
       },
       {
         "jp_string": "<%sM_landaddress2><%sM_landaddress4>丁目",
-        "en_string": "<%sM_landaddress2><%sM_landaddress4>street"
+        "en_string": "<%sM_landaddress2><%sM_landaddress4> St."
       },
       {
         "jp_string": "<%sM_landaddress2>　<%nM_landaddress3>番地",
-        "en_string": "number"
+        "en_string": "<%sM_landaddress2>　<%nM_landaddress3> Addr."
       },
       {
         "jp_string": "<%sM_landaddress3>区　<%sM_landaddress4>エリア",
@@ -728,15 +728,15 @@
       },
       {
         "jp_string": "<%sM_monster>の　パラメータ と そうび",
-        "en_string": "Parameters and equip for <%sM_monster>"
+        "en_string": "Stats and equipment for <%sM_monster>"
       },
       {
         "jp_string": "<%sM_monster>の生息地",
-        "en_string": "<%sM_monster> habitat"
+        "en_string": "<%sM_monster>'s Habitat"
       },
       {
         "jp_string": "<%sM_monster>種の特徴",
-        "en_string": "<%sM_monster>species feat"
+        "en_string": "<%sM_monster>-type feat."
       },
       {
         "jp_string": "<%sM_myset><%sM_kabuse>",
@@ -772,7 +772,7 @@
       },
       {
         "jp_string": "<%sM_num>時間！",
-        "en_string": "<%sM_num> time!"
+        "en_string": "<%sM_num> hours!"
       },
       {
         "jp_string": "<%sM_pc> からの問題",
@@ -792,7 +792,7 @@
       },
       {
         "jp_string": "<%sM_pc>たち",
-        "en_string": "<%sM_pc>they"
+        "en_string": "<%sM_pc>'s"
       },
       {
         "jp_string": "<%sM_pc>に　取り引きを申し込みました。",
@@ -812,15 +812,15 @@
       },
       {
         "jp_string": "<%sM_pc>のお宝の写真",
-        "en_string": "Pics of <%sM_pc> treasures"
+        "en_string": "<%sM_pc> Treasure Pics."
       },
       {
         "jp_string": "<%sM_pc>のきろく",
-        "en_string": "<%sM_pc>'s record"
+        "en_string": "<%sM_pc>'s Record"
       },
       {
         "jp_string": "<%sM_pc>のさくせん",
-        "en_string": "<%sM_pc>'s strategy"
+        "en_string": "<%sM_pc>'s Strategy"
       },
       {
         "jp_string": "<%sM_pc>のふっかつポイント",
@@ -848,7 +848,7 @@
       },
       {
         "jp_string": "<%sM_pc>のプレイヤーイベント",
-        "en_string": "<%sM_pc> player events"
+        "en_string": "<%sM_pc>'s player events"
       },
       {
         "jp_string": "<%sM_pc>のプレイヤーイベントを通報する",
@@ -876,19 +876,19 @@
       },
       {
         "jp_string": "<%sM_pc>の家",
-        "en_string": "<%sM_pc> home"
+        "en_string": "<%sM_pc> Home"
       },
       {
         "jp_string": "<%sM_pc>の心",
-        "en_string": "<%sM_pc> mind"
+        "en_string": "<%sM_pc> Soul"
       },
       {
         "jp_string": "<%sM_pc>の手紙",
-        "en_string": "<%sM_pc> letter"
+        "en_string": "<%sM_pc>'s Letter"
       },
       {
         "jp_string": "<%sM_pc>の最高記録",
-        "en_string": "<%sM_pc>'s best record"
+        "en_string": "<%sM_pc>'s Best Record"
       },
       {
         "jp_string": "<%sM_pc>の最高記録：<%.1fM_fishsize>cm",
@@ -896,7 +896,7 @@
       },
       {
         "jp_string": "<%sM_pc>の最高記録：<%dM_coin>枚",
-        "en_string": "Highscore <%sM_pc>: <%dM_coin> sheets"
+        "en_string": "Highscore <%sM_pc>: <%dM_coin>"
       },
       {
         "jp_string": "<%sM_item>を　読んだ。<bw_break>",
@@ -908,11 +908,11 @@
       },
       {
         "jp_string": "<%sM_pc>パーティ",
-        "en_string": "<%sM_pc> party"
+        "en_string": "<%sM_pc> Party"
       },
       {
         "jp_string": "<%sM_pc>ルール",
-        "en_string": "<%sM_pc> rule"
+        "en_string": "<%sM_pc> Rule"
       },
       {
         "jp_string": "<%sM_pcname>の　個人記録",
@@ -948,19 +948,19 @@
       },
       {
         "jp_string": "<%sM_rank>ランクまで <%dM_num>P",
-        "en_string": "<%sM_rank>up to rank <%dM_num>P"
+        "en_string": "<%dM_num>P until Rank <%sM_rank>"
       },
       {
         "jp_string": "<%sM_rank>ランク試験まで",
-        "en_string": "<%sM_rank> up to rank test"
+        "en_string": "<%sM_rank> rank until test"
       },
       {
         "jp_string": "<%sM_renkinkouka>の強化段階",
-        "en_string": "Enhance steps 4<%sM_renkinkouka>"
+        "en_string": "<%sM_renkinkouka> Enhance Stage"
       },
       {
         "jp_string": "<%sM_skill1>スキル",
-        "en_string": "<%sM_skill1> skill"
+        "en_string": "<%sM_skill1> Skill"
       },
       {
         "jp_string": "<%sM_skill1>スキル をリセットした！",
@@ -972,7 +972,7 @@
       },
       {
         "jp_string": "<%sM_subfish>報酬",
-        "en_string": "<%sM_subfish>Reward"
+        "en_string": "<%sM_subfish> Prize"
       },
       {
         "jp_string": "<%sM_syokugyou> Lv<%dM_lv>",
@@ -1000,7 +1000,7 @@
       },
       {
         "jp_string": "<%sM_timei> の おはなし",
-        "en_string": "The story of <%sM_timei>"
+        "en_string": "The Story of <%sM_timei>"
       },
       {
         "jp_string": "<%sM_timei>で　<%sM_monster>を",
@@ -4768,7 +4768,7 @@
       },
       {
         "jp_string": "だれの？",
-        "en_string": "Whose it it?"
+        "en_string": "Whose?"
       },
       {
         "jp_string": "だれを？",
@@ -4804,7 +4804,7 @@
       },
       {
         "jp_string": "ちゃん",
-        "en_string": ""
+        "en_string": "-chan"
       },
       {
         "jp_string": "ちょい押しで 「見つけた！」",
@@ -4816,7 +4816,7 @@
       },
       {
         "jp_string": "ついていくのをやめる",
-        "en_string": "I'll stop following you"
+        "en_string": "Stop Following"
       },
       {
         "jp_string": "ついていく許可設定",
@@ -4824,11 +4824,11 @@
       },
       {
         "jp_string": "ついてクン",
-        "en_string": "Nevermind"
+        "en_string": "Pet"
       },
       {
         "jp_string": "ついてクンを選ぶ",
-        "en_string": "Follow Pet"
+        "en_string": "Choose Pet"
       },
       {
         "jp_string": "ついてクンカプセルについて",
@@ -4864,7 +4864,7 @@
       },
       {
         "jp_string": "つかえるじゅもん",
-        "en_string": ""
+        "en_string": "Usable Spells"
       },
       {
         "jp_string": "つかったとくぎ",
@@ -5028,11 +5028,11 @@
       },
       {
         "jp_string": "とくぎの説明",
-        "en_string": ""
+        "en_string": "Skill Explanation"
       },
       {
         "jp_string": "とくぎは　覚えていません",
-        "en_string": "I don't remember the trick"
+        "en_string": "I don't remember the skill."
       },
       {
         "jp_string": "とくぎめい８もじ",
@@ -5040,19 +5040,19 @@
       },
       {
         "jp_string": "とくぎを見る",
-        "en_string": "See tricks"
+        "en_string": "See Skills"
       },
       {
         "jp_string": "とくぎを覚えていない",
-        "en_string": "I can't remember any tricks"
+        "en_string": "I can't remember any skills."
       },
       {
         "jp_string": "とくぎアイコン",
-        "en_string": "Special Icon"
+        "en_string": "Skill Icon"
       },
       {
         "jp_string": "とくぎ確認",
-        "en_string": "Special feature"
+        "en_string": "Special Skill"
       },
       {
         "jp_string": "とくぎ選択",
@@ -5072,7 +5072,7 @@
       },
       {
         "jp_string": "とは",
-        "en_string": ""
+        "en_string": "About"
       },
       {
         "jp_string": "とまる",
@@ -5112,35 +5112,35 @@
       },
       {
         "jp_string": "どうぐかばん",
-        "en_string": "Toolbox"
+        "en_string": "Item Bag"
       },
       {
         "jp_string": "どうぐかばんの素材のみ使用",
-        "en_string": "Only use materials from tool bag"
+        "en_string": "Only use materials from item bag"
       },
       {
         "jp_string": "どうぐつかい",
-        "en_string": "Toolmaker"
+        "en_string": "Item User"
       },
       {
         "jp_string": "どうぐについて",
-        "en_string": "About tools"
+        "en_string": "About Items"
       },
       {
         "jp_string": "どうぐをつかう",
-        "en_string": "Use tool"
+        "en_string": "Use Item"
       },
       {
         "jp_string": "どうぐを錬金する",
-        "en_string": "Smelting tools"
+        "en_string": "Alchemize Items"
       },
       {
         "jp_string": "どうぐ使いのモンスターを見る",
-        "en_string": "See tool-using monsters"
+        "en_string": "view Item Master Monsters"
       },
       {
         "jp_string": "どうぐ消しゴム",
-        "en_string": "Tool eraser"
+        "en_string": "Item Eraser"
       },
       {
         "jp_string": "どうする？",
@@ -5172,87 +5172,87 @@
       },
       {
         "jp_string": "どこに？",
-        "en_string": ""
+        "en_string": "Where to?"
       },
       {
         "jp_string": "どこの？",
-        "en_string": ""
+        "en_string": "Where?"
       },
       {
         "jp_string": "どこへ？",
-        "en_string": ""
+        "en_string": "Where to?"
       },
       {
         "jp_string": "どこを染める？",
-        "en_string": ""
+        "en_string": "Dye where?"
       },
       {
         "jp_string": "どちらか",
-        "en_string": ""
+        "en_string": "Which one?"
       },
       {
         "jp_string": "どちらをそうび？",
-        "en_string": ""
+        "en_string": "Which equipment?"
       },
       {
         "jp_string": "どっちに？",
-        "en_string": ""
+        "en_string": "To which?"
       },
       {
         "jp_string": "どのカードを交換する？（のこり<%nM_00>枚）",
-        "en_string": ""
+        "en_string": "Exchange which card? (<%nM_00> left)"
       },
       {
         "jp_string": "どのカードを捨てる？（のこり<%nM_00>枚）",
-        "en_string": ""
+        "en_string": "Toss which card? (<%nM_00> left)"
       },
       {
         "jp_string": "どのカードを渡す？（のこり<%nM_00>枚）",
-        "en_string": ""
+        "en_string": "Give which card? (<%nM_00> left)"
       },
       {
         "jp_string": "どのキャラ？",
-        "en_string": ""
+        "en_string": "Which character?"
       },
       {
         "jp_string": "どの世界？",
-        "en_string": ""
+        "en_string": "Which world?"
       },
       {
         "jp_string": "どの地域？",
-        "en_string": ""
+        "en_string": "Which region?"
       },
       {
         "jp_string": "どの大陸？",
-        "en_string": ""
+        "en_string": "What continent?"
       },
       {
         "jp_string": "どの宝珠？",
-        "en_string": ""
+        "en_string": "Which jewel?"
       },
       {
         "jp_string": "どの数字を消す？（のこり<%nM_00>こ）",
-        "en_string": ""
+        "en_string": "Erase which number? (<%nM_00> left)"
       },
       {
         "jp_string": "どの時代？",
-        "en_string": ""
+        "en_string": "Which era?"
       },
       {
         "jp_string": "どの石版？",
-        "en_string": ""
+        "en_string": "Which tablet?"
       },
       {
         "jp_string": "どの職業に？",
-        "en_string": ""
+        "en_string": "To which class?"
       },
       {
         "jp_string": "どの職業？",
-        "en_string": ""
+        "en_string": "Which class?"
       },
       {
         "jp_string": "どの色にする？",
-        "en_string": ""
+        "en_string": "Which color?"
       },
       {
         "jp_string": "どの見た目を　戻しますか？",
@@ -5272,7 +5272,7 @@
       },
       {
         "jp_string": "どれで？",
-        "en_string": ""
+        "en_string": "Which?"
       },
       {
         "jp_string": "どれと？",
@@ -5284,11 +5284,11 @@
       },
       {
         "jp_string": "どれをつかう？",
-        "en_string": ""
+        "en_string": "Use which?"
       },
       {
         "jp_string": "どれをつける？",
-        "en_string": ""
+        "en_string": "Wear which?"
       },
       {
         "jp_string": "どれをわすれる？",
@@ -5312,19 +5312,19 @@
       },
       {
         "jp_string": "なかまいれかえ",
-        "en_string": ""
+        "en_string": "Swap Members"
       },
       {
         "jp_string": "なかまからはずす",
-        "en_string": ""
+        "en_string": "Remove Member"
       },
       {
         "jp_string": "なかまじょうほう",
-        "en_string": ""
+        "en_string": "Member Information"
       },
       {
         "jp_string": "なかまとチャット",
-        "en_string": ""
+        "en_string": "Party Chat"
       },
       {
         "jp_string": "なかまと別れる",
@@ -5332,15 +5332,15 @@
       },
       {
         "jp_string": "なかまに",
-        "en_string": ""
+        "en_string": "To Party"
       },
       {
         "jp_string": "なかまにいれる",
-        "en_string": ""
+        "en_string": "Join Party"
       },
       {
         "jp_string": "なかまにくわえる",
-        "en_string": ""
+        "en_string": "Add Member"
       },
       {
         "jp_string": "なかまにさそう",
@@ -5348,27 +5348,27 @@
       },
       {
         "jp_string": "なかまにするか考えているようだ。",
-        "en_string": ""
+        "en_string": "Seems they're thinking about a party."
       },
       {
         "jp_string": "なかまになった人数",
-        "en_string": ""
+        "en_string": "Number of Members"
       },
       {
         "jp_string": "なかまになる",
-        "en_string": ""
+        "en_string": "Join Party"
       },
       {
         "jp_string": "なかまにはいる",
-        "en_string": ""
+        "en_string": "Enter Party"
       },
       {
         "jp_string": "なかまに見せる",
-        "en_string": ""
+        "en_string": "Display Party"
       },
       {
         "jp_string": "なかまの入れ替え",
-        "en_string": ""
+        "en_string": "Swap Members"
       },
       {
         "jp_string": "なかまをさがす",
@@ -5376,15 +5376,15 @@
       },
       {
         "jp_string": "なかまをぬける",
-        "en_string": ""
+        "en_string": "Leave Party"
       },
       {
         "jp_string": "なかまを募集する",
-        "en_string": ""
+        "en_string": "Recruit Members"
       },
       {
         "jp_string": "なかまカード",
-        "en_string": ""
+        "en_string": "Party Card"
       },
       {
         "jp_string": "なかまモンスター",
@@ -5392,31 +5392,31 @@
       },
       {
         "jp_string": "なかまリスト",
-        "en_string": ""
+        "en_string": "Party List"
       },
       {
         "jp_string": "なかま募集中",
-        "en_string": ""
+        "en_string": "Looking for Party"
       },
       {
         "jp_string": "なかま募集設定",
-        "en_string": ""
+        "en_string": "Party Recruit Setting"
       },
       {
         "jp_string": "なかま対戦",
-        "en_string": ""
+        "en_string": "Party Matching"
       },
       {
         "jp_string": "なかま１",
-        "en_string": ""
+        "en_string": "Party 1"
       },
       {
         "jp_string": "なかま２",
-        "en_string": ""
+        "en_string": "Party 1"
       },
       {
         "jp_string": "なかみを見る",
-        "en_string": ""
+        "en_string": "See Party"
       },
       {
         "jp_string": "なし",
@@ -5424,39 +5424,39 @@
       },
       {
         "jp_string": "なつき度",
-        "en_string": ""
+        "en_string": "Attachment"
       },
       {
         "jp_string": "なつき度100になったモンスターの種類",
-        "en_string": ""
+        "en_string": "Monsters with 100 attachment points"
       },
       {
         "jp_string": "なつき度について",
-        "en_string": ""
+        "en_string": "About Attachment"
       },
       {
         "jp_string": "なつき度スキルポイント：",
-        "en_string": ""
+        "en_string": "Attachment Skill Points:"
       },
       {
         "jp_string": "なつき度順に",
-        "en_string": ""
+        "en_string": "By Attachment Lv."
       },
       {
         "jp_string": "なつき度：",
-        "en_string": ""
+        "en_string": "Attachment:"
       },
       {
         "jp_string": "なでる",
-        "en_string": ""
+        "en_string": "Stroke"
       },
       {
         "jp_string": "など",
-        "en_string": ""
+        "en_string": "etc."
       },
       {
         "jp_string": "なにについて？",
-        "en_string": ""
+        "en_string": "About what?"
       },
       {
         "jp_string": "なにもわたさない",
@@ -5468,35 +5468,35 @@
       },
       {
         "jp_string": "なにを？",
-        "en_string": ""
+        "en_string": "What?"
       },
       {
         "jp_string": "なまえ",
-        "en_string": ""
+        "en_string": "Name"
       },
       {
         "jp_string": "なまえでさがす",
-        "en_string": ""
+        "en_string": "Search by Name"
       },
       {
         "jp_string": "なまえを変える",
-        "en_string": ""
+        "en_string": "Change Name"
       },
       {
         "jp_string": "なまえを表示",
-        "en_string": ""
+        "en_string": "Show Name"
       },
       {
         "jp_string": "なまえ表示",
-        "en_string": ""
+        "en_string": "Name Display"
       },
       {
         "jp_string": "ならびかえ",
-        "en_string": ""
+        "en_string": "Sorting"
       },
       {
         "jp_string": "ならべかえ",
-        "en_string": ""
+        "en_string": "Sort By"
       },
       {
         "jp_string": "なんでも",
@@ -5508,15 +5508,15 @@
       },
       {
         "jp_string": "なんでもＯＫ",
-        "en_string": ""
+        "en_string": "Any OK"
       },
       {
         "jp_string": "なんと　",
-        "en_string": ""
+        "en_string": "Suddenly, "
       },
       {
         "jp_string": "にがす",
-        "en_string": ""
+        "en_string": "Set Free"
       },
       {
         "jp_string": "ぬいぐるみ飾り台",
@@ -5540,23 +5540,23 @@
       },
       {
         "jp_string": "のこり/合計：",
-        "en_string": ""
+        "en_string": "Left/Total:"
       },
       {
         "jp_string": "のこり元気タイム",
-        "en_string": ""
+        "en_string": "Bonus Time Left"
       },
       {
         "jp_string": "のこり山札",
-        "en_string": ""
+        "en_string": "Cards Left"
       },
       {
         "jp_string": "のみ",
-        "en_string": ""
+        "en_string": "Only"
       },
       {
         "jp_string": "のろい",
-        "en_string": ""
+        "en_string": "Curse"
       },
       {
         "jp_string": "のろいをとく",
@@ -5564,35 +5564,35 @@
       },
       {
         "jp_string": "のんきもの",
-        "en_string": ""
+        "en_string": "Carefree"
       },
       {
         "jp_string": "のんびりマイペース型",
-        "en_string": ""
+        "en_string": "Relaxed Self-Paced Type"
       },
       {
         "jp_string": "のレシピを　おぼえた！ <se_nots System 7>",
-        "en_string": ""
+        "en_string": " recipe learned! <se_nots System 7>"
       },
       {
         "jp_string": "の家",
-        "en_string": ""
+        "en_string": " House"
       },
       {
         "jp_string": "の書",
-        "en_string": ""
+        "en_string": " Book"
       },
       {
         "jp_string": "の目を出す",
-        "en_string": ""
+        "en_string": " Lookout"
       },
       {
         "jp_string": "の目標",
-        "en_string": ""
+        "en_string": " Target"
       },
       {
         "jp_string": "の達成報酬",
-        "en_string": ""
+        "en_string": " Achvmt. Reward"
       },
       {
         "jp_string": "は",
@@ -5612,11 +5612,11 @@
       },
       {
         "jp_string": "はいち",
-        "en_string": ""
+        "en_string": "Placement"
       },
       {
         "jp_string": "はいる",
-        "en_string": ""
+        "en_string": "Enter"
       },
       {
         "jp_string": "はざまの扉に　入ると",
@@ -5636,7 +5636,7 @@
       },
       {
         "jp_string": "はじめ",
-        "en_string": ""
+        "en_string": "Begin"
       },
       {
         "jp_string": "はずす",
@@ -5656,11 +5656,11 @@
       },
       {
         "jp_string": "ひきだす",
-        "en_string": ""
+        "en_string": "Draw Out"
       },
       {
         "jp_string": "ひくい",
-        "en_string": ""
+        "en_string": "Low"
       },
       {
         "jp_string": "ひたむきスピード型",
@@ -5668,7 +5668,7 @@
       },
       {
         "jp_string": "ひだりて",
-        "en_string": ""
+        "en_string": "Left Hand"
       },
       {
         "jp_string": "ひっさつ",
@@ -5676,31 +5676,31 @@
       },
       {
         "jp_string": "ひっさつについて",
-        "en_string": ""
+        "en_string": "About Specials"
       },
       {
         "jp_string": "ひっさつ使用",
-        "en_string": ""
+        "en_string": "Use Special"
       },
       {
         "jp_string": "ひとことコメント",
-        "en_string": ""
+        "en_string": "Single Comment"
       },
       {
         "jp_string": "ひとこと１",
-        "en_string": ""
+        "en_string": "Single 1"
       },
       {
         "jp_string": "ひとこと２",
-        "en_string": ""
+        "en_string": "Single 2"
       },
       {
         "jp_string": "ひとこと３",
-        "en_string": ""
+        "en_string": "Single 3"
       },
       {
         "jp_string": "ひとつあたり",
-        "en_string": ""
+        "en_string": "Per one"
       },
       {
         "jp_string": "ひとつ前の返信をみる",
@@ -5728,7 +5728,7 @@
       },
       {
         "jp_string": "ひらがな",
-        "en_string": ""
+        "en_string": "Hiragana"
       },
       {
         "jp_string": "ふうせん三姉妹からのお知らせ",
@@ -5736,7 +5736,7 @@
       },
       {
         "jp_string": "ふくそう",
-        "en_string": ""
+        "en_string": "Congested"
       },
       {
         "jp_string": "ふくびきをする",
@@ -5888,11 +5888,11 @@
       },
       {
         "jp_string": "ふつうの郵便",
-        "en_string": ""
+        "en_string": "Normal Mail"
       },
       {
         "jp_string": "ふつうバトルクリア",
-        "en_string": ""
+        "en_string": "Normal Battle Clear"
       },
       {
         "jp_string": "ふりわけ完了",
@@ -5904,7 +5904,7 @@
       },
       {
         "jp_string": "ふる",
-        "en_string": ""
+        "en_string": "Fall"
       },
       {
         "jp_string": "ふるまい方を変える",
@@ -5912,11 +5912,11 @@
       },
       {
         "jp_string": "ふわふわ",
-        "en_string": ""
+        "en_string": "Fluffy"
       },
       {
         "jp_string": "ぶき",
-        "en_string": ""
+        "en_string": "Weapon"
       },
       {
         "jp_string": "ぶっとび草",
@@ -5936,27 +5936,27 @@
       },
       {
         "jp_string": "へんこう",
-        "en_string": ""
+        "en_string": "Change"
       },
       {
         "jp_string": "へんじをする",
-        "en_string": "Friend Request"
+        "en_string": "Request"
       },
       {
         "jp_string": "べんり",
-        "en_string": ""
+        "en_string": "Useful"
       },
       {
         "jp_string": "べんりな機能",
-        "en_string": ""
+        "en_string": "Useful Function"
       },
       {
         "jp_string": "ほうしゅう",
-        "en_string": ""
+        "en_string": "Reward"
       },
       {
         "jp_string": "ほうしゅう：",
-        "en_string": ""
+        "en_string": "Reward:"
       },
       {
         "jp_string": "ほか<%dM_pcNum>名",
@@ -5964,11 +5964,11 @@
       },
       {
         "jp_string": "ぼうぎょ",
-        "en_string": ""
+        "en_string": "Defend"
       },
       {
         "jp_string": "ぼうぐ",
-        "en_string": ""
+        "en_string": "Armor"
       },
       {
         "jp_string": "ぼかしの強さ",
@@ -6016,7 +6016,7 @@
       },
       {
         "jp_string": "まで",
-        "en_string": ""
+        "en_string": "Until"
       },
       {
         "jp_string": "まで解放",
@@ -6036,11 +6036,11 @@
       },
       {
         "jp_string": "まとめアイテム",
-        "en_string": ""
+        "en_string": "Summary Item"
       },
       {
         "jp_string": "まほうのカギ",
-        "en_string": ""
+        "en_string": "Magic Key"
       },
       {
         "jp_string": "まめちしき",
@@ -6052,15 +6052,15 @@
       },
       {
         "jp_string": "まも",
-        "en_string": ""
+        "en_string": "MON"
       },
       {
         "jp_string": "まもの使い",
-        "en_string": ""
+        "en_string": "MON"
       },
       {
         "jp_string": "まもの使いのモンスターを見る",
-        "en_string": ""
+        "en_string": "View Monster Master Monsters"
       },
       {
         "jp_string": "まるごとロック",
@@ -6076,7 +6076,7 @@
       },
       {
         "jp_string": "まわりに",
-        "en_string": ""
+        "en_string": "Nearby"
       },
       {
         "jp_string": "まんたん",
@@ -6088,7 +6088,7 @@
       },
       {
         "jp_string": "みせる",
-        "en_string": ""
+        "en_string": "View"
       },
       {
         "jp_string": "みためそうび",
@@ -6120,7 +6120,7 @@
       },
       {
         "jp_string": "みんな",
-        "en_string": ""
+        "en_string": "Everyone"
       },
       {
         "jp_string": "みんなと一緒に",
@@ -6204,11 +6204,11 @@
       },
       {
         "jp_string": "もとの色",
-        "en_string": ""
+        "en_string": "Original Color"
       },
       {
         "jp_string": "もどったスキルポイント",
-        "en_string": ""
+        "en_string": "Returned Skill Points"
       },
       {
         "jp_string": "もどる",
@@ -6216,19 +6216,19 @@
       },
       {
         "jp_string": "もどるスキルポイント",
-        "en_string": ""
+        "en_string": "Return Skill Points"
       },
       {
         "jp_string": "もらうもの",
-        "en_string": ""
+        "en_string": "Received Items"
       },
       {
         "jp_string": "もらうもの：",
-        "en_string": ""
+        "en_string": "Received Items:"
       },
       {
         "jp_string": "もらうゴールド",
-        "en_string": ""
+        "en_string": "Received Gold"
       },
       {
         "jp_string": "もらう物",
@@ -6260,7 +6260,7 @@
       },
       {
         "jp_string": "やくわり",
-        "en_string": ""
+        "en_string": "Role"
       },
       {
         "jp_string": "やくわりを変える",
@@ -6280,15 +6280,15 @@
       },
       {
         "jp_string": "やすむ",
-        "en_string": ""
+        "en_string": "Rest"
       },
       {
         "jp_string": "やとう",
-        "en_string": ""
+        "en_string": "Opponent"
       },
       {
         "jp_string": "やめる",
-        "en_string": ""
+        "en_string": "Stop"
       },
       {
         "jp_string": "やりたいことで絞り込む",
@@ -6348,11 +6348,11 @@
       },
       {
         "jp_string": "よく使うセリフ",
-        "en_string": ""
+        "en_string": "Frequent Phrases"
       },
       {
         "jp_string": "よく使うセリフ設定",
-        "en_string": "Frequent Phrases"
+        "en_string": "Frequent Phrase Settings"
       },
       {
         "jp_string": "よこ移動",
@@ -6360,15 +6360,15 @@
       },
       {
         "jp_string": "よみ",
-        "en_string": ""
+        "en_string": "Read"
       },
       {
         "jp_string": "よむ",
-        "en_string": ""
+        "en_string": "Read"
       },
       {
         "jp_string": "よろい",
-        "en_string": ""
+        "en_string": "Armor"
       },
       {
         "jp_string": "よろしくね！",
@@ -6384,7 +6384,7 @@
       },
       {
         "jp_string": "れんきんがま",
-        "en_string": ""
+        "en_string": "Alchemy Pot"
       },
       {
         "jp_string": "わかれる",
@@ -6396,7 +6396,7 @@
       },
       {
         "jp_string": "わたす",
-        "en_string": ""
+        "en_string": "Hand Off"
       },
       {
         "jp_string": "わたす(表示)",
@@ -6484,11 +6484,11 @@
       },
       {
         "jp_string": "アイコン表示へ",
-        "en_string": ""
+        "en_string": "To Icon Display"
       },
       {
         "jp_string": "アイコン説明",
-        "en_string": ""
+        "en_string": "Icon Description"
       },
       {
         "jp_string": "アイコン非表示へ",
@@ -6500,7 +6500,7 @@
       },
       {
         "jp_string": "アイテム",
-        "en_string": ""
+        "en_string": "Item"
       },
       {
         "jp_string": "アイテム、ゴールドの不正取得",
@@ -6508,7 +6508,7 @@
       },
       {
         "jp_string": "アイテムについて",
-        "en_string": ""
+        "en_string": "About Items"
       },
       {
         "jp_string": "アイテムの歴史",
@@ -6524,7 +6524,7 @@
       },
       {
         "jp_string": "アイテムを使う",
-        "en_string": ""
+        "en_string": "Use Item"
       },
       {
         "jp_string": "アイテムコレクションを開きます",
@@ -6532,11 +6532,11 @@
       },
       {
         "jp_string": "アイテムコード",
-        "en_string": ""
+        "en_string": "Item Code"
       },
       {
         "jp_string": "アイテムコードを入力する",
-        "en_string": ""
+        "en_string": "Enter Item Code"
       },
       {
         "jp_string": "アイテムチケットの購入履歴",
@@ -6544,7 +6544,7 @@
       },
       {
         "jp_string": "アイテムチケットを買う",
-        "en_string": ""
+        "en_string": "Buy Item Ticket"
       },
       {
         "jp_string": "アイテム交換屋",
@@ -6556,7 +6556,7 @@
       },
       {
         "jp_string": "アイテム名",
-        "en_string": ""
+        "en_string": "Item Name"
       },
       {
         "jp_string": "アイテム名１１もじぶん",
@@ -6576,7 +6576,7 @@
       },
       {
         "jp_string": "アカウント",
-        "en_string": ""
+        "en_string": "Account"
       },
       {
         "jp_string": "アカウント/ID",
@@ -6604,7 +6604,7 @@
       },
       {
         "jp_string": "アカウントペナルティー",
-        "en_string": ""
+        "en_string": "Account Penalty"
       },
       {
         "jp_string": "アカウント新規登録",
@@ -6616,7 +6616,7 @@
       },
       {
         "jp_string": "アカウント設定",
-        "en_string": ""
+        "en_string": "Account Settings"
       },
       {
         "jp_string": "アカウント／課金",
@@ -6632,15 +6632,15 @@
       },
       {
         "jp_string": "アクセサリについて",
-        "en_string": ""
+        "en_string": "About Accessories"
       },
       {
         "jp_string": "アクセサリー",
-        "en_string": ""
+        "en_string": "Accessory"
       },
       {
         "jp_string": "アストルティアから",
-        "en_string": ""
+        "en_string": "From Astoltia"
       },
       {
         "jp_string": "アストルティアの世界",
@@ -6648,15 +6648,15 @@
       },
       {
         "jp_string": "アストルティアカップ",
-        "en_string": ""
+        "en_string": "Astoltia Cup"
       },
       {
         "jp_string": "アストルティアカップについて",
-        "en_string": ""
+        "en_string": "About Astoltia Cup"
       },
       {
         "jp_string": "アスフェルド学園",
-        "en_string": ""
+        "en_string": "Asfeld Academy"
       },
       {
         "jp_string": "で指定されている",
@@ -6672,7 +6672,7 @@
       },
       {
         "jp_string": "アズラン駅",
-        "en_string": ""
+        "en_string": "Azlan Stop"
       },
       {
         "jp_string": "アズラン駅前",
@@ -6684,35 +6684,35 @@
       },
       {
         "jp_string": "アタマからだ上",
-        "en_string": ""
+        "en_string": "On the Head"
       },
       {
         "jp_string": "アタマの防具",
-        "en_string": ""
+        "en_string": "Head Armor"
       },
       {
         "jp_string": "アナザーモード",
-        "en_string": ""
+        "en_string": "Another Mode"
       },
       {
         "jp_string": "アビスジュエル",
-        "en_string": ""
+        "en_string": "Abyss Jewel"
       },
       {
         "jp_string": "アピール",
-        "en_string": ""
+        "en_string": "Appeal"
       },
       {
         "jp_string": "アルウェーン",
-        "en_string": ""
+        "en_string": "Alwane"
       },
       {
         "jp_string": "アルカナ",
-        "en_string": ""
+        "en_string": "Arcana"
       },
       {
         "jp_string": "アルカナを見る",
-        "en_string": ""
+        "en_string": "View Aracana"
       },
       {
         "jp_string": "アルカナ占いの効果",
@@ -6728,11 +6728,11 @@
       },
       {
         "jp_string": "アンガーシェル",
-        "en_string": ""
+        "en_string": "Anger Seal"
       },
       {
         "jp_string": "アンルシア",
-        "en_string": ""
+        "en_string": "Anlucia"
       },
       {
         "jp_string": "アンルシアの服",
@@ -6752,11 +6752,11 @@
       },
       {
         "jp_string": "イス",
-        "en_string": ""
+        "en_string": "Chair"
       },
       {
         "jp_string": "イベント",
-        "en_string": ""
+        "en_string": "Event"
       },
       {
         "jp_string": "イベントのお知らせ",
@@ -6764,7 +6764,7 @@
       },
       {
         "jp_string": "イベントスキップ",
-        "en_string": ""
+        "en_string": "Event Skip"
       },
       {
         "jp_string": "イベント会場",
@@ -6812,11 +6812,11 @@
       },
       {
         "jp_string": "インスタント",
-        "en_string": ""
+        "en_string": "Instant"
       },
       {
         "jp_string": "インストール",
-        "en_string": ""
+        "en_string": "Install"
       },
       {
         "jp_string": "インテリアじまん",
@@ -6824,15 +6824,15 @@
       },
       {
         "jp_string": "インパクト",
-        "en_string": ""
+        "en_string": "Impact"
       },
       {
         "jp_string": "ウィンタージュエル",
-        "en_string": ""
+        "en_string": "Winter Jewel"
       },
       {
         "jp_string": "ウェディ",
-        "en_string": ""
+        "en_string": "Weddie"
       },
       {
         "jp_string": "ウェナ諸島",
@@ -6844,11 +6844,11 @@
       },
       {
         "jp_string": "ウェルカムハウスについて",
-        "en_string": ""
+        "en_string": "About Welcome House"
       },
       {
         "jp_string": "ウェルカムハウスに行く",
-        "en_string": ""
+        "en_string": "Go to Welcome House"
       },
       {
         "jp_string": "ウェルカム中のマイタウンへ",
@@ -6856,7 +6856,7 @@
       },
       {
         "jp_string": "ウェルカム設定",
-        "en_string": ""
+        "en_string": "Welcome Settings"
       },
       {
         "jp_string": "ウデ",
@@ -6864,7 +6864,7 @@
       },
       {
         "jp_string": "ウデの防具",
-        "en_string": ""
+        "en_string": "Glove Armor"
       },
       {
         "jp_string": "エサの残り",
@@ -6872,7 +6872,7 @@
       },
       {
         "jp_string": "エテーネルキューブ",
-        "en_string": ""
+        "en_string": "Ethenel Cube"
       },
       {
         "jp_string": "エナジーについて",
@@ -6892,7 +6892,7 @@
       },
       {
         "jp_string": "エリア：",
-        "en_string": ""
+        "en_string": "Area"
       },
       {
         "jp_string": "エルトナ大陸",
@@ -6900,15 +6900,15 @@
       },
       {
         "jp_string": "エルフ",
-        "en_string": ""
+        "en_string": "Elf"
       },
       {
         "jp_string": "エレメント系",
-        "en_string": ""
+        "en_string": "Element-type"
       },
       {
         "jp_string": "エンゼルスライム",
-        "en_string": ""
+        "en_string": "Angel Slime"
       },
       {
         "jp_string": "エントランスに戻る",
@@ -6916,7 +6916,7 @@
       },
       {
         "jp_string": "エンブレム",
-        "en_string": ""
+        "en_string": "Emblem"
       },
       {
         "jp_string": "オノ",
@@ -6924,7 +6924,7 @@
       },
       {
         "jp_string": "オフ",
-        "en_string": ""
+        "en_string": "Off"
       },
       {
         "jp_string": "オフライン用のキャラメイク",
@@ -6944,7 +6944,7 @@
       },
       {
         "jp_string": "オプションメニュー",
-        "en_string": ""
+        "en_string": "Option Menu"
       },
       {
         "jp_string": "オプション変更の最終確認",
@@ -6956,7 +6956,7 @@
       },
       {
         "jp_string": "オルフェアの町",
-        "en_string": ""
+        "en_string": "Orphea Village"
       },
       {
         "jp_string": "オルフェアリーズ",
@@ -6968,23 +6968,23 @@
       },
       {
         "jp_string": "オルフェア駅",
-        "en_string": ""
+        "en_string": "Orphea Stop"
       },
       {
         "jp_string": "オルフェア駅前",
-        "en_string": ""
+        "en_string": "Orphea Stop"
       },
       {
         "jp_string": "オン",
-        "en_string": ""
+        "en_string": "On"
       },
       {
         "jp_string": "オンラインID",
-        "en_string": ""
+        "en_string": "Online ID"
       },
       {
         "jp_string": "オンラインIDを表示",
-        "en_string": ""
+        "en_string": "Display Online ID"
       },
       {
         "jp_string": "オンラインID・スタンプ情報を表示",
@@ -6992,7 +6992,7 @@
       },
       {
         "jp_string": "オンラインID：",
-        "en_string": ""
+        "en_string": "Online ID:"
       },
       {
         "jp_string": "オンラインモード",
@@ -7004,7 +7004,7 @@
       },
       {
         "jp_string": "オーガ",
-        "en_string": ""
+        "en_string": "Ogre"
       },
       {
         "jp_string": "オーグリード大陸",
@@ -7012,11 +7012,11 @@
       },
       {
         "jp_string": "オータムジュエル",
-        "en_string": ""
+        "en_string": "Autumn Jewel"
       },
       {
         "jp_string": "オートチャージ期間を変える",
-        "en_string": ""
+        "en_string": "Change Auto Charge Period"
       },
       {
         "jp_string": "オート移動",
@@ -7032,15 +7032,15 @@
       },
       {
         "jp_string": "オーブレベル",
-        "en_string": ""
+        "en_string": "Orb Level"
       },
       {
         "jp_string": "オーブレベル：",
-        "en_string": ""
+        "en_string": "Orb Level:"
       },
       {
         "jp_string": "オーブン",
-        "en_string": ""
+        "en_string": "Oven"
       },
       {
         "jp_string": "オープンハウス告知",
@@ -7072,7 +7072,7 @@
       },
       {
         "jp_string": "カウンター",
-        "en_string": ""
+        "en_string": "Counter"
       },
       {
         "jp_string": "カギの情報",
@@ -7080,7 +7080,7 @@
       },
       {
         "jp_string": "カジノのコイン",
-        "en_string": ""
+        "en_string": "Casino's Coin"
       },
       {
         "jp_string": "カジノイベント受付",
@@ -7096,11 +7096,11 @@
       },
       {
         "jp_string": "カジノフロア<%nM_hall_no>",
-        "en_string": ""
+        "en_string": "Casino Floor <%nM_hall_no>"
       },
       {
         "jp_string": "カジノフロア選択",
-        "en_string": ""
+        "en_string": "Casino Floor Option"
       },
       {
         "jp_string": "カジノプレイチケット",
@@ -7108,7 +7108,7 @@
       },
       {
         "jp_string": "カスタムルール",
-        "en_string": ""
+        "en_string": "Custom Rule"
       },
       {
         "jp_string": "カスタムルールで遊ぶ",
@@ -7136,15 +7136,15 @@
       },
       {
         "jp_string": "カタカナ",
-        "en_string": ""
+        "en_string": "Katakana"
       },
       {
         "jp_string": "カタログをみる",
-        "en_string": ""
+        "en_string": "View Catalog"
       },
       {
         "jp_string": "カテゴリ",
-        "en_string": ""
+        "en_string": "Category"
       },
       {
         "jp_string": "カテゴリでさがす",
@@ -7204,23 +7204,23 @@
       },
       {
         "jp_string": "カプセルと交換する",
-        "en_string": ""
+        "en_string": "Replace Capsule"
       },
       {
         "jp_string": "カプセルを引き取ってもらう",
-        "en_string": ""
+        "en_string": "Pick Up Capsule"
       },
       {
         "jp_string": "カミハルムイ",
-        "en_string": ""
+        "en_string": "Kamiharmui"
       },
       {
         "jp_string": "カミハルムイ駅",
-        "en_string": ""
+        "en_string": "Kamiharmui Stop"
       },
       {
         "jp_string": "カメラ",
-        "en_string": ""
+        "en_string": "Camera"
       },
       {
         "jp_string": "カメラの方向に",
@@ -7228,7 +7228,7 @@
       },
       {
         "jp_string": "カラフルチケットでカラーリングする",
-        "en_string": ""
+        "en_string": "Coloring with Colorful Ticket"
       },
       {
         "jp_string": "カラフルチケット使用中",
@@ -7236,7 +7236,7 @@
       },
       {
         "jp_string": "カラフルブーケ",
-        "en_string": ""
+        "en_string": "Colorful Bouquet"
       },
       {
         "jp_string": "カラフルブーケを割り当てる",
@@ -7260,19 +7260,19 @@
       },
       {
         "jp_string": "カラーシャッフル",
-        "en_string": ""
+        "en_string": "Color Shuffle"
       },
       {
         "jp_string": "カラーリング",
-        "en_string": ""
+        "en_string": "Coloring"
       },
       {
         "jp_string": "カラーリングする",
-        "en_string": ""
+        "en_string": "Coloring"
       },
       {
         "jp_string": "カラーリングできません",
-        "en_string": ""
+        "en_string": "You can't do coloring."
       },
       {
         "jp_string": "カラーリングできる所",
@@ -7280,7 +7280,7 @@
       },
       {
         "jp_string": "カラーリングなし",
-        "en_string": ""
+        "en_string": "No Coloring"
       },
       {
         "jp_string": "カラーリングに進む",
@@ -7296,11 +7296,11 @@
       },
       {
         "jp_string": "カードの出し方",
-        "en_string": ""
+        "en_string": "How to Put Out Card"
       },
       {
         "jp_string": "カードの強さ",
-        "en_string": ""
+        "en_string": "Card Strength"
       },
       {
         "jp_string": "カードは　うれしそうに",
@@ -7324,55 +7324,55 @@
       },
       {
         "jp_string": "ガタラアームズ",
-        "en_string": ""
+        "en_string": "Gatara Arms"
       },
       {
         "jp_string": "ガタラ住宅村前",
-        "en_string": ""
+        "en_string": "Gatara Housing Vlg."
       },
       {
         "jp_string": "ガタラ駅",
-        "en_string": ""
+        "en_string": "Gatara Stop"
       },
       {
         "jp_string": "ガニャポンについて",
-        "en_string": ""
+        "en_string": "About Ganyapon"
       },
       {
         "jp_string": "ガニャポンを回す",
-        "en_string": ""
+        "en_string": "Turn Ganyapon"
       },
       {
         "jp_string": "ガニャポン屋",
-        "en_string": ""
+        "en_string": "Ganyapon Shop"
       },
       {
         "jp_string": "ガルハート",
-        "en_string": ""
+        "en_string": "Galhart"
       },
       {
         "jp_string": "ガンガンいくわよ",
-        "en_string": "Go all out"
+        "en_string": "Go All Out"
       },
       {
         "jp_string": "ガンガンいこうぜ",
-        "en_string": ""
+        "en_string": "Go All Out"
       },
       {
         "jp_string": "ガーディアン",
-        "en_string": ""
+        "en_string": "Guardian"
       },
       {
         "jp_string": "ガートラント",
-        "en_string": ""
+        "en_string": "Gartlant"
       },
       {
         "jp_string": "ガートラント駅",
-        "en_string": ""
+        "en_string": "Gartlant Stop"
       },
       {
         "jp_string": "ガード率アップ",
-        "en_string": ""
+        "en_string": "Guard Rate Up"
       },
       {
         "jp_string": "キザなふるまい",
@@ -7380,7 +7380,7 @@
       },
       {
         "jp_string": "キッチン",
-        "en_string": ""
+        "en_string": "Kitchen"
       },
       {
         "jp_string": "キット配送先変更",
@@ -7388,7 +7388,7 @@
       },
       {
         "jp_string": "キメラのつばさ",
-        "en_string": ""
+        "en_string": "Chimera Wing"
       },
       {
         "jp_string": "キャラID",
@@ -7424,7 +7424,7 @@
       },
       {
         "jp_string": "キャラクター",
-        "en_string": ""
+        "en_string": "Character"
       },
       {
         "jp_string": "キャラクターが動かない",
@@ -7432,7 +7432,7 @@
       },
       {
         "jp_string": "キャラクターの削除",
-        "en_string": ""
+        "en_string": "Delete Character"
       },
       {
         "jp_string": "キャラクターの設定",
@@ -7448,7 +7448,7 @@
       },
       {
         "jp_string": "キャラクター移動サービス",
-        "en_string": ""
+        "en_string": "Character Move Service"
       },
       {
         "jp_string": "キャラ公開設定",
@@ -7456,7 +7456,7 @@
       },
       {
         "jp_string": "キャラ名",
-        "en_string": ""
+        "en_string": "Char. Name"
       },
       {
         "jp_string": "キャラ移動上下：",
@@ -7464,31 +7464,31 @@
       },
       {
         "jp_string": "キャラ設定",
-        "en_string": ""
+        "en_string": "Char. Setting"
       },
       {
         "jp_string": "キャレットの移動",
-        "en_string": ""
+        "en_string": "Caret Movement"
       },
       {
         "jp_string": "キャンセル",
-        "en_string": ""
+        "en_string": "Cancel"
       },
       {
         "jp_string": "キャンペーン・イベント",
-        "en_string": ""
+        "en_string": "Campaign Event"
       },
       {
         "jp_string": "キュウサイポイント",
-        "en_string": ""
+        "en_string": "Relief Points"
       },
       {
         "jp_string": "キュルルと行く世界",
-        "en_string": ""
+        "en_string": "Journey with Kyururu"
       },
       {
         "jp_string": "キラキラ",
-        "en_string": ""
+        "en_string": "Glitter"
       },
       {
         "jp_string": "キラキラの魔法",
@@ -7496,7 +7496,7 @@
       },
       {
         "jp_string": "キラバトエン",
-        "en_string": ""
+        "en_string": "Killer Batoen"
       },
       {
         "jp_string": "キラバトエンとは",
@@ -7504,7 +7504,7 @@
       },
       {
         "jp_string": "キング",
-        "en_string": ""
+        "en_string": "King"
       },
       {
         "jp_string": "キングの褒美",
@@ -7512,15 +7512,15 @@
       },
       {
         "jp_string": "キングサイズ",
-        "en_string": ""
+        "en_string": "King Size"
       },
       {
         "jp_string": "キングスライム",
-        "en_string": ""
+        "en_string": "King Slime"
       },
       {
         "jp_string": "キープ",
-        "en_string": ""
+        "en_string": "Keep"
       },
       {
         "jp_string": "キーボードなし",
@@ -7536,7 +7536,7 @@
       },
       {
         "jp_string": "キーワード",
-        "en_string": ""
+        "en_string": "Keyword"
       },
       {
         "jp_string": "キーワード検索",
@@ -7544,7 +7544,7 @@
       },
       {
         "jp_string": "ギフト",
-        "en_string": ""
+        "en_string": "Gift"
       },
       {
         "jp_string": "ギラムソウル",
@@ -7564,11 +7564,11 @@
       },
       {
         "jp_string": "クイーンスライム",
-        "en_string": ""
+        "en_string": "Queen Slime"
       },
       {
         "jp_string": "クエスト",
-        "en_string": ""
+        "en_string": "Quest"
       },
       {
         "jp_string": "クエストの報酬",
@@ -7576,15 +7576,15 @@
       },
       {
         "jp_string": "クエストをキャンセルする",
-        "en_string": ""
+        "en_string": "Cancel Quest"
       },
       {
         "jp_string": "クエストをクリアに戻す",
-        "en_string": ""
+        "en_string": "Return to Clear Quest"
       },
       {
         "jp_string": "クエストをリプレイする",
-        "en_string": ""
+        "en_string": "Replay Quest"
       },
       {
         "jp_string": "クエストを受けた日",
@@ -7596,7 +7596,7 @@
       },
       {
         "jp_string": "クエストボス",
-        "en_string": ""
+        "en_string": "Quest Boss"
       },
       {
         "jp_string": "クエストリスト",
@@ -7632,7 +7632,7 @@
       },
       {
         "jp_string": "クライマックスバトルとは",
-        "en_string": ""
+        "en_string": "About Climax Battle"
       },
       {
         "jp_string": "クラウド版",
@@ -7648,7 +7648,7 @@
       },
       {
         "jp_string": "クラスメイト",
-        "en_string": ""
+        "en_string": "Classmate"
       },
       {
         "jp_string": "クラスメイト設定",
@@ -7676,15 +7676,15 @@
       },
       {
         "jp_string": "クラブ",
-        "en_string": ""
+        "en_string": "Club"
       },
       {
         "jp_string": "クラブボーナス",
-        "en_string": ""
+        "en_string": "Club Bonus"
       },
       {
         "jp_string": "クラブボーナスとは",
-        "en_string": ""
+        "en_string": "About Club Bonus"
       },
       {
         "jp_string": "クラブボーナス一覧",
@@ -7700,7 +7700,7 @@
       },
       {
         "jp_string": "クリア",
-        "en_string": ""
+        "en_string": "Clear"
       },
       {
         "jp_string": "クリアしたクエスト",
@@ -7744,15 +7744,15 @@
       },
       {
         "jp_string": "クリア！",
-        "en_string": ""
+        "en_string": "Clear!"
       },
       {
         "jp_string": "クリスマス",
-        "en_string": ""
+        "en_string": "Christmas"
       },
       {
         "jp_string": "クレジットカード",
-        "en_string": ""
+        "en_string": "Credit Card"
       },
       {
         "jp_string": "クレジットカードで支払う",
@@ -7784,15 +7784,15 @@
       },
       {
         "jp_string": "クローバーバッグ",
-        "en_string": ""
+        "en_string": "Clover Bag"
       },
       {
         "jp_string": "クーちゃん",
-        "en_string": ""
+        "en_string": "Kuu-chan"
       },
       {
         "jp_string": "クール系",
-        "en_string": ""
+        "en_string": "Cool-type"
       },
       {
         "jp_string": "グッズ説明をみる",
@@ -7800,7 +7800,7 @@
       },
       {
         "jp_string": "グラフィック",
-        "en_string": ""
+        "en_string": "Graphics"
       },
       {
         "jp_string": "グラブゾン",
@@ -7812,7 +7812,7 @@
       },
       {
         "jp_string": "グランプリポイント",
-        "en_string": ""
+        "en_string": "Grand Prix Point"
       },
       {
         "jp_string": "グランプリポイントランキング",
@@ -7820,15 +7820,15 @@
       },
       {
         "jp_string": "グランプリポイント：",
-        "en_string": ""
+        "en_string": "Grand Prix Point:"
       },
       {
         "jp_string": "グランプリランク",
-        "en_string": ""
+        "en_string": "Grand Prix Rank"
       },
       {
         "jp_string": "グランプリランク：",
-        "en_string": ""
+        "en_string": "Grand Prix Rank:"
       },
       {
         "jp_string": "グランプリ報酬は　ありません",
@@ -8728,27 +8728,27 @@
       },
       {
         "jp_string": "スタンバイがえ",
-        "en_string": ""
+        "en_string": "Standby"
       },
       {
         "jp_string": "スタンプ",
-        "en_string": ""
+        "en_string": "Stamp"
       },
       {
         "jp_string": "スタンプをチャット入力",
-        "en_string": ""
+        "en_string": "Input Chat Stamp"
       },
       {
         "jp_string": "スタンプカード",
-        "en_string": ""
+        "en_string": "Stamp Card"
       },
       {
         "jp_string": "スタンプリスト選択",
-        "en_string": ""
+        "en_string": "Stamp List Choice"
       },
       {
         "jp_string": "スタート",
-        "en_string": ""
+        "en_string": "Start"
       },
       {
         "jp_string": "ステ",
@@ -8760,7 +8760,7 @@
       },
       {
         "jp_string": "ステータス",
-        "en_string": ""
+        "en_string": "Status"
       },
       {
         "jp_string": "ステータスきりかえ",
@@ -8768,11 +8768,11 @@
       },
       {
         "jp_string": "ストーリー",
-        "en_string": ""
+        "en_string": "Story"
       },
       {
         "jp_string": "ストーリークエスト",
-        "en_string": ""
+        "en_string": "Story Quest"
       },
       {
         "jp_string": "ストーリーリーダーを変更",
@@ -8792,15 +8792,15 @@
       },
       {
         "jp_string": "スピード",
-        "en_string": ""
+        "en_string": "Speed"
       },
       {
         "jp_string": "スプリングジュエル",
-        "en_string": ""
+        "en_string": "Spring Jewel"
       },
       {
         "jp_string": "スペシャル",
-        "en_string": ""
+        "en_string": "Special"
       },
       {
         "jp_string": "スペシャルふくびき券",

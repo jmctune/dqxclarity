@@ -3,32 +3,34 @@
     "hex_start": "CD AB 00 00 00 00 00 00 00 00 00 00 00 00 46 4F 4F 54 10 00 00 00 00 00 00 00 00 00 00 00 54 45 58 54 10 00 00 00 60 04 00 00 00 00 00 00",
     "strings": [
       {
+        "line_break": true,
         "jp_string": "ここまでのおこないを 冒険の書に　記録しますか？ <yesno><break>",
-        "en_string": ""
+        "en_string": "Record what you've done so far|in your adventure log? <yesno><break>"
       },
       {
         "jp_string": "記録しました！",
-        "en_string": ""
+        "en_string": "Adventure log saved!"
       },
       {
+        "line_break": true,
         "jp_string": "冒険の書に　記録しています……。 電源ボタンや　リセットボタンに さわらないでください。 <break>",
-        "en_string": ""
+        "en_string": "Saving adventure log...|Do not turn the power off|or reset the game<break>"
       },
       {
         "jp_string": "ドラゴンクエストⅩ　オンライン",
-        "en_string": ""
+        "en_string": "Dragon Quest X Online"
       },
       {
         "jp_string": "ドラゴンクエストⅩ オンラインのセーブデータ",
-        "en_string": ""
+        "en_string": "Dragon Quest X Online Save Data"
       },
       {
         "jp_string": "皆をつないで 世界がつながる",
-        "en_string": ""
+        "en_string": "Connect everyone in the world"
       },
       {
         "jp_string": "ドラゴンクエストⅩ オンライン",
-        "en_string": ""
+        "en_string": "Dragon Quest X Online"
       }
     ]
   }
