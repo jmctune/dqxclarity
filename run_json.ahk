@@ -73,7 +73,10 @@ for i, obj in data.1.strings
   line_break := obj.line_break
 
   ;; Whether we have 'special line breaks' we need to account for
-  special_line_break := obj.special_line_break
+  if InStr(jp_raw, "|")
+    special_line_break := true
+  else
+    special_line_break := ""
 
   ;; If the string length doesn't match, add null terms until it does.
   if (jp_len != en_len)

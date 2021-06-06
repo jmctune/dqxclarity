@@ -6175,7 +6175,7 @@
       {
         "line_break": true,
         "jp_string": "<speed=0>仲間を探している人に向けたコメントと 紹介してもいい人を　設定してください。<break>",
-        "en_string": ""
+        "en_string": "<speed=0>Set a comment to a person who is|looking for a companion and add a list of|people you are willing to refer.<break>"
       },
       {
         "line_break": true,
@@ -6225,7 +6225,7 @@
       {
         "line_break": true,
         "jp_string": "<speed=0>冒険を中断して　ゲームを終了します。 <color_yellow>※敵がいる場所では　10秒ほど　かかります。<color_white> サポート仲間となるように　酒場登録をしますか？<select> 登録して終了する そのまま終了する <select_end><close>",
-        "en_string": ""
+        "en_string": "<speed=0>Interrupt the adventure and end the game?|<color_yellow>*It takes 10 seconds in an area with monsters.|<color_white>Register as a support companion?<select>|Register and Exit|End Now|<select_end><close>"
       },
       {
         "line_break": true,
