@@ -44,9 +44,9 @@
   "「今回の稼ぎは　経験値<%nL_EXP>Ｐ|　達人経験値<%nL_TATUJIN_EXP>Ｐと|　<%nL_GOLD>ゴールドになるぜ。|<bw_break>": "",
   "「今回の稼ぎは　経験値<%nL_EXP>Ｐ|　達人経験値<%nL_TATUJIN_EXP>Ｐと|　<%nL_GOLD>ゴールドになるわよ。": "",
   "「今回の稼ぎは　経験値<%nL_EXP>Ｐ|　達人経験値<%nL_TATUJIN_EXP>Ｐと|　<%nL_GOLD>ゴールドになるわよ。|<bw_break>": "",
-  "このなかまは　すでに解散していた！": "",
-  "だれかが戦闘中なので|今はなかまに　はいれない！": "",
+  "このなかまは　すでに解散していた！": "This group was already disbanded!",
+  "だれかが戦闘中なので|今はなかまに　はいれない！": "They are in battle, so I can't join them now!",
   "なかまに　はいることができない！": "",
-  "ウィンドウを閉じても　よろしいですか？<yesno><close>": "",
-  "相手のなかまが　いっぱいなので|なかまに　はいることができない！": ""
+  "ウィンドウを閉じても　よろしいですか？<yesno><close>": "Are you sure you want to close the window? <yesno><close>",
+  "相手のなかまが　いっぱいなので|なかまに　はいることができない！": "I can't join them|because they're full!"
 }
