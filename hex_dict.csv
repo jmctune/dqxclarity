@@ -1,0 +1,129 @@
+json\_lang\ja\battle_tactics.json,54 45 58 54 10 00 00 00 F0 03 00 00 00 00 00 00 00 00,1
+json\_lang\ja\classes.json,54 45 58 54 10 00 00 00 F0 01 00,2
+json\_lang\ja\combat_chat.json,54 45 58 54 10 00 00 00 40 32 05 00,1
+json\_lang\ja\dialog.json,54 45 58 54 10 00 00 00 30 A3 03 00 00 00 00 00,1
+json\_lang\ja\error_codes.json,54 45 58 54 10 00 00 00 A0 33 00 00 00 00 00 00,2
+json\_lang\ja\fishing.json,54 45 58 54 10 00 00 00 70 1C 00 00 00 00 00 00 00 00,1
+json\_lang\ja\gestures_poses_icons.json,54 45 58 54 10 00 00 00 30 BD 01 00 00 00 00 00 00 00,1
+json\_lang\ja\grand_prix.json,54 45 58 54 10 00 00 00 00 05 00 00 00 00 00 00 00 00,1
+json\_lang\ja\high_school_sim.json,54 45 58 54 10 00 00 00 B0 B1 01 00 00 00 00 00 00 00,1
+json\_lang\ja\idk_1.json,54 45 58 54 10 00 00 00 D0 83 00 00 00 00 00 00 00 00,1
+json\_lang\ja\items_1.json,54 45 58 54 10 00 00 00 B0 10 0C 00 00 00 00 00 00 00,1
+json\_lang\ja\items_2.json,54 45 58 54 10 00 00 00 B0 10 0C 00 00 00 00 00 00 00,1
+json\_lang\ja\items_3.json,54 45 58 54 10 00 00 00 B0 10 0C 00 00 00 00 00 00 00,1
+json\_lang\ja\items_4.json,54 45 58 54 10 00 00 00 B0 10 0C 00 00 00 00 00 00 00,1
+json\_lang\ja\items_5.json,54 45 58 54 10 00 00 00 B0 10 0C 00 00 00 00 00 00 00,1
+json\_lang\ja\items_6.json,54 45 58 54 10 00 00 00 B0 10 0C 00 00 00 00 00 00 00,1
+json\_lang\ja\items_7.json,54 45 58 54 10 00 00 00 B0 10 0C 00 00 00 00 00 00 00,1
+json\_lang\ja\items_8.json,54 45 58 54 10 00 00 00 B0 10 0C 00 00 00 00 00 00 00,1
+json\_lang\ja\locations_continents.json,54 45 58 54 10 00 00 00 20 02 00 00 00 00 00 00,1
+json\_lang\ja\locations_misc.json,54 45 58 54 10 00 00 00 F0 05 00 00 00 00 00 00 00 00,1
+json\_lang\ja\locations_short_names.json,54 45 58 54 10 00 00 00 30 81 01 00 00 00 00 00,1
+json\_lang\ja\locations.json,54 45 58 54 10 00 00 00 60 5D 00 00 00 00 00 00,1
+json\_lang\ja\login_messages,54 45 58 54 10 00 00 00 F0 55 00 00 00 00 00 00,1
+json\_lang\ja\login_screen.json,54 45 58 54 10 00 00 00 C0 06 00 00 00 00 00 00,1
+json\_lang\ja\main_1.json,00 00 54 45 58 54 10 00 00 00 10 99 02 00 00 00 00 00 E3 81 BE,1
+json\_lang\ja\main_2.json,00 00 54 45 58 54 10 00 00 00 10 99 02 00 00 00 00 00 E3 81 BE,1
+json\_lang\ja\main_3.json,00 00 54 45 58 54 10 00 00 00 10 99 02 00 00 00 00 00 E3 81 BE,1
+json\_lang\ja\monster_descriptions_1.json,54 45 58 54 10 00 00 00 B0 20 06 00 00 00 00 00 00 00,1
+json\_lang\ja\monster_descriptions_2.json,54 45 58 54 10 00 00 00 B0 20 06 00 00 00 00 00 00 00,1
+json\_lang\ja\monster_descriptions_3.json,54 45 58 54 10 00 00 00 B0 20 06 00 00 00 00 00 00 00,1
+json\_lang\ja\monster_descriptions_4.json,54 45 58 54 10 00 00 00 B0 20 06 00 00 00 00 00 00 00,1
+json\_lang\ja\monster_descriptions_5.json,54 45 58 54 10 00 00 00 B0 20 06 00 00 00 00 00 00 00,1
+json\_lang\ja\monster_descriptions_6.json,54 45 58 54 10 00 00 00 B0 20 06 00 00 00 00 00 00 00,1
+json\_lang\ja\monster_descriptions_7.json,54 45 58 54 10 00 00 00 B0 20 06 00 00 00 00 00 00 00,1
+json\_lang\ja\monsters.json,54 45 58 54 10 00 00 00 90 B2 00 00 00 00 00 00 00 00,1
+json\_lang\ja\more_descriptions.json,54 45 58 54 10 00 00 00 20 1F,1
+json\_lang\ja\more_error_codes.json,54 45 58 54 10 00 00 00 00 0D 00 00 00 00 00 00 00 00 E7,1
+json\_lang\ja\more_login_menus.json,54 45 58 54 10 00 00 00 40 4E 00 00 00 00 00 00,1
+json\_lang\ja\more_more_more_error_codes.json,54 45 58 54 10 00 00 00 80 56 00 00 00 00 00 00,1
+json\_lang\ja\profession_messages.json,54 45 58 54 10 00 00 00 90 06 00 00 00 00 00 00 00 00,1
+json\_lang\ja\random.json,54 45 58 54 10 00 00 00 F0 26 00 00 00 00 00 00 00 00,1
+json\_lang\ja\save_dialog.json,54 45 58 54 10 00 00 00 C0 01 00 00 00 00 00 00 E3 81 93,1
+json\_lang\ja\skill_tree_1.json,54 45 58 54 10 00 00 00 60 99 03 00,1
+json\_lang\ja\skill_tree_2.json,54 45 58 54 10 00 00 00 60 99 03 00,1
+json\_lang\ja\skill_tree_3.json,54 45 58 54 10 00 00 00 60 99 03 00,1
+json\_lang\ja\story_quest_names.json,54 45 58 54 10 00 00 00 00 0C 00 00 00 00 00 00 00 00 E7 9B AE,1
+json\_lang\ja\system_messages.json,54 45 58 54 10 00 00 00 C0 71 01 00 00 00 00 00,1
+json\_lang\ja\tbd_1.json,54 45 58 54 10 00 00 00 80 26 00 00 00 00 00 00 00 00,2
+json\_lang\ja\wii_error_codes.json,54 45 58 54 10 00 00 00 30 0D 00 00 00 00 00 00,2
+json\_lang\ja\windows_beta_test_errors.json,54 45 58 54 10 00 00 00 00 0D 00 00 00 00 00 00 E3 82 A8,2
+json\_lang\ja\flowers.json,54 45 58 54 10 00 00 00 20 06 00 00 00 00 00 00 00 00,1
+json\_lang\ja\tbd_2.json,54 45 58 54 10 00 00 00 E0 3B 02 00 00 00 00 00 00 00,1
+json\_lang\ja\tbd_3.json,54 45 58 54 10 00 00 00 90 05 00 00 00 00 00 00 00 00,1
+json\_lang\ja\tbd_4.json,54 45 58 54 10 00 00 00 E0 05 00 00 00 00 00 00 00 00 E3 81 9F,1
+json\_lang\ja\tbd_5.json,54 45 58 54 10 00 00 00 90 01 01 00 00 00 00 00,1
+json\_lang\ja\tbd_6.json,54 45 58 54 10 00 00 00 50 02 00 00 00 00 00 00,1
+json\_lang\ja\tbd_7.json,54 45 58 54 10 00 00 00 60 09 00 00 00 00 00 00 E3 83 84,1
+json\_lang\ja\tbd_8.json,54 45 58 54 10 00 00 00 30 07 00 00 00 00 00 00,1
+json\_lang\ja\tbd_9.json,54 45 58 54 10 00 00 00 90 1C 00 00 00 00 00 00,1
+json\_lang\ja\tbd_10.json,54 45 58 54 10 00 00 00 D0 1E 00 00 00 00 00 00,1
+json\_lang\ja\tbd_11.json,54 45 58 54 10 00 00 00 C0 23 00 00 00 00 00 00,1
+json\_lang\ja\tbd_12.json,54 45 58 54 10 00 00 00 60 00 00 00 00 00 00 00,1
+json\_lang\ja\tbd_13.json,54 45 58 54 10 00 00 00 60 09 00 00 00 00 00 00 E4 BE 9D,1
+json\_lang\ja\tbd_14.json,54 45 58 54 10 00 00 00 80 0B 00 00 00 00 00 00 00 00,2
+json\_lang\ja\tbd_15.json,54 45 58 54 10 00 00 00 C0 00 00 00 00 00 00 00 00 00 28 E8 A8,1
+json\_lang\ja\tbd_16.json,54 45 58 54 10 00 00 00 50 49 00 00 00 00 00 00 00 00,1
+json\_lang\ja\tbd_17.json,54 45 58 54 10 00 00 00 E0 3E 00 00 00 00 00 00 00 00,1
+json\_lang\ja\tbd_18.json,54 45 58 54 10 00 00 00 E0 01 00 00 00 00 00 00 00 00,1
+json\_lang\ja\tbd_19.json,54 45 58 54 10 00 00 00 00 1A 00 00 00 00 00 00,1
+json\_lang\ja\tbd_20.json,54 45 58 54 10 00 00 00 A0 06 00 00 00 00 00 00,1
+json\_lang\ja\tbd_21.json,54 45 58 54 10 00 00 00 F0 2C 00 00 00 00 00 00 00 00,1
+json\_lang\ja\tbd_22.json,54 45 58 54 10 00 00 00 80 0B 00 00 00 00 00 00 E3 81 97,1
+json\_lang\ja\use_1.json,54 45 58 54 10 00 00 00 D0 F5 06 00 00 00 00 00 00 00,1
+json\_lang\ja\use_2.json,54 45 58 54 10 00 00 00 D0 F5 06 00 00 00 00 00 00 00,1
+json\_lang\ja\use_3.json,54 45 58 54 10 00 00 00 D0 F5 06 00 00 00 00 00 00 00,1
+json\_lang\ja\use_4.json,54 45 58 54 10 00 00 00 D0 F5 06 00 00 00 00 00 00 00,1
+json\_lang\ja\use_5.json,54 45 58 54 10 00 00 00 D0 F5 06 00 00 00 00 00 00 00,1
+json\_lang\ja\use_6.json,54 45 58 54 10 00 00 00 D0 F5 06 00 00 00 00 00 00 00,1
+json\_lang\ja\spell_list_and_descriptions.json,54 45 58 54 10 00 00 00 80 AF 00 00 00 00 00 00 00 00,1
+json\_lang\ja\tbd_23.json,54 45 58 54 10 00 00 00 20 6E 00 00 00 00 00 00,1
+json\_lang\ja\tbd_24.json,54 45 58 54 10 00 00 00 C0 01 00 00 00 00 00 00,1
+json\_lang\ja\tbd_25.json,54 45 58 54 10 00 00 00 10 0B 00 00 00 00 00 00,1
+json\_lang\ja\39.json,54 45 58 54 10 00 00 00 60 04 00 00 00 00 00 00 E3 82 AD,1
+json\_lang\ja\41.json,54 45 58 54 10 00 00 00 30 00 00 00 00 00 00 00,1
+json\_lang\ja\42.json,54 45 58 54 10 00 00 00 20 1F 00 00 00 00 00 00,1
+json\_lang\ja\43.json,54 45 58 54 10 00 00 00 80 0D 00 00 00 00 00 00,1
+json\_lang\ja\44.json,54 45 58 54 10 00 00 00 50 13 00 00 00 00 00 00,1
+json\_lang\ja\45_1.json,54 45 58 54 10 00 00 00 D0 EB 01 00 00 00 00 00,1
+json\_lang\ja\45_2.json,54 45 58 54 10 00 00 00 D0 EB 01 00 00 00 00 00,1
+json\_lang\ja\45_3.json,54 45 58 54 10 00 00 00 D0 EB 01 00 00 00 00 00,1
+json\_lang\ja\45_4.json,54 45 58 54 10 00 00 00 D0 EB 01 00 00 00 00 00,1
+json\_lang\ja\46.json,54 45 58 54 10 00 00 00 B0 EF 00 00 00 00 00 00 00 00,1
+json\_lang\ja\48.json,54 45 58 54 10 00 00 00 A0 5D 00 00 00 00 00 00 00 00,1
+json\_lang\ja\49.json,54 45 58 54 10 00 00 00 60 0A 00 00 00 00 00 00 00 00,1
+json\_lang\ja\50.json,54 45 58 54 10 00 00 00 90 0C 00 00 00 00 00 00 00 00,1
+json\_lang\ja\51.json,54 45 58 54 10 00 00 00 D0 3D 00 00 00 00 00 00 00 00,1
+json\_lang\ja\52.json,54 45 58 54 10 00 00 00 60 0E 00 00 00 00 00 00 00 00,1
+json\_lang\ja\53.json,54 45 58 54 10 00 00 00 D0 00 00 00 00 00 00 00 00 00,1
+json\_lang\ja\54_1.json,54 45 58 54 10 00 00 00 50 FB 03 00 00 00 00 00 00 00,1
+json\_lang\ja\54_2.json,54 45 58 54 10 00 00 00 50 FB 03 00 00 00 00 00 00 00,1
+json\_lang\ja\55.json,54 45 58 54 10 00 00 00 E0 06 00 00 00 00 00 00 00 00,1
+json\_lang\ja\56.json,54 45 58 54 10 00 00 00 90 07 00 00 00 00 00 00 00 00,1
+json\_lang\ja\57.json,54 45 58 54 10 00 00 00 20 07 00 00 00 00 00 00 00 00,1
+json\_lang\ja\58.json,54 45 58 54 10 00 00 00 90 10 00 00 00 00 00 00 00 00,1
+json\_lang\ja\59.json,54 45 58 54 10 00 00 00 C0 00 00 00 00 00 00 00 00 00 E3 82 A8,1
+json\_lang\ja\60.json,54 45 58 54 10 00 00 00 40 04 00 00 00 00 00 00 00 00,1
+json\_lang\ja\61.json,54 45 58 54 10 00 00 00 60 04 00 00 00 00 00 00 00 00 E3 82 BF,1
+json\_lang\ja\62.json,54 45 58 54 10 00 00 00 80 8A 00 00 00 00 00 00 00 00,1
+json\_lang\ja\63.json,54 45 58 54 10 00 00 00 40 32 00 00 00 00 00 00 00 00,1
+json\_lang\ja\64.json,54 45 58 54 10 00 00 00 B0 5F 00 00 00 00 00 00 00 00,1
+json\_lang\ja\65.json,54 45 58 54 10 00 00 00 B0 02 00 00 00 00 00 00 00 00,1
+json\_lang\ja\66.json,54 45 58 54 10 00 00 00 00 0D 00 00 00 00 00 00 00 00,1
+json\_lang\ja\67.json,54 45 58 54 10 00 00 00 E0 05 00 00 00 00 00 00 00 00 E3 82 A2,1
+json\_lang\ja\68.json,54 45 58 54 10 00 00 00 30 22 00 00 00 00 00 00 00 00,1
+json\_lang\ja\69.json,54 45 58 54 10 00 00 00 10 04 00 00 00 00 00 00 00 00,1
+json\_lang\ja\70_1.json,54 45 58 54 10 00 00 00 E0 93 02 00 00 00 00 00 00 00,1
+json\_lang\ja\70_2.json,54 45 58 54 10 00 00 00 E0 93 02 00 00 00 00 00 00 00,1
+json\_lang\ja\70_3.json,54 45 58 54 10 00 00 00 E0 93 02 00 00 00 00 00 00 00,1
+json\_lang\ja\71.json,54 45 58 54 10 00 00 00 B0 00 00 00 00 00 00 00 00 00,1
+json\_lang\ja\72.json,54 45 58 54 10 00 00 00 D0 0B 00 00 00 00 00 00 00 00,1
+json\_lang\ja\73.json,54 45 58 54 10 00 00 00 C0 0F 00 00 00 00 00 00 00 00,1
+json\_lang\ja\74.json,54 45 58 54 10 00 00 00 60 05 00 00 00 00 00 00 00 00,1
+json\_lang\ja\75.json,54 45 58 54 10 00 00 00 40 5E 00 00 00 00 00 00 00 00,1
+json\_lang\ja\76.json,54 45 58 54 10 00 00 00 60 04 00 00 00 00 00 00 00 00 E3 82 AB,1
+json\_lang\ja\77.json,54 45 58 54 10 00 00 00 60 0D 00 00 00 00 00 00 00 00,1
+json\_lang\ja\78.json,54 45 58 54 10 00 00 00 20 3F 00 00 00 00 00 00 00 00,1
+json\_lang\ja\79.json,54 45 58 54 10 00 00 00 F0 04 00 00 00 00 00 00 00 00,1
+json\_lang\ja\80.json,54 45 58 54 10 00 00 00 40 74 00 00 00 00 00 00 00 00,1
+json\_lang\ja\81.json,54 45 58 54 10 00 00 00 90 02 00 00 00 00 00 00 00 0,1
