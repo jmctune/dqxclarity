@@ -19,7 +19,7 @@
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが 水流を呼び寄せた！": "\n      \n      \\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e calls forth water currents!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが 魔撃の修練石を 召喚！": "\n      \n      \\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e summons the Stone of Magic Training!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが 魔撃の修練石を 召喚した！": "      \n      \\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e summons a Stone of Magic Training!",
-  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eから \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに いいね！": "      \n      \\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e gives  \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e a Like!",
+  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eから \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに いいね！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e gives \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e a Like!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eから \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに エール！": "\n      \n      \\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e gives \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e a cheer!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの <%sB_ACTION>": "\n      \n      \\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's <%sB_ACTION>",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの <%sB_ACTION>！": "\n      \n      \\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's <%sB_ACTION>!",
