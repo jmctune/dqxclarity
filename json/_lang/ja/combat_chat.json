@@ -7,7 +7,7 @@
   "（未使用）疲れて眠る": "(Unused) Falling asleep",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを 捕まえた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e captured \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが お気に入りのステッキを とりだした！自分の周りで 大爆発！": " \\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e pulled out their favourite stick! Casting explosion in vicinity!",
-  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが お気に入りの傘を とりだした！近くの誰かに 電撃攻撃！": "",
+  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが お気に入りの傘を とりだした！近くの誰かに 電撃攻撃！": "      \\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e took out their favorite umbrella! Ambushing someone nearby!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが ダークネスを 生み出した！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが とりだしたのは おたまだった！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが ばくはつした！": "",
