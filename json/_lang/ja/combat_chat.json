@@ -13,7 +13,7 @@
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが ばくはつした！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e explodes!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが ムズムズし始めた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e starts to itch!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが 噴き出した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e bursts out laughing!",
-  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが 斬撃の修練石を 召喚！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e calls forth a Stone of Slashing Training!",
+  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが 斬撃の修練石を 召喚！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e calls Stone of Slashing Training!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが 斬撃の修練石を 召喚した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e summons a Stone of Slashing Training!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが 時元の使徒を つくりだした！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\ calls forth a Dimensional Apostle!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが 水流を呼び寄せた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e calls forth water currents!",
