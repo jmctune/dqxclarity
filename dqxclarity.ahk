@@ -27,15 +27,15 @@ Gui, Add, Button, gRun, Run
 
 ;; Update tab
 Gui, Tab, Update
-Gui, Add, Text,, WARNING: Updating via any methods`nbelow will remove and re-add your`njson folder. If you are actively`ntranslating, do not update until`nyou are finished checking in your changes.
 Gui, Add, Button, gUpdateApp, Update Clarity
-Gui, Add, Button, gUpdateJSON, Get latest JSON
+Gui, Add, Button, gUpdateJSON, Get Weblate Files
+Gui, Add, Link,, Get the latest translations from the`nweblate branch. This can cause Clarity`nto fail to process files if bad`ntranslations were checked in, but`ngives you the most up to date translations.`n`nIf you find a broken translation, please`n<a href="https://weblate.ethene.wiki/">volunteer to fix it!</a>
 
 ;; About tab
 Gui, Tab, About
-Gui, Add, Link,, Join the unofficial Dragon Quest X <a href="https://discord.gg/UFaUHBxKMY">Discord</a>!
+Gui, Add, Link,, <a href="https://discord.gg/UFaUHBxKMY">Discord</a>
 Gui, Add, Link,, <a href="https://github.com/jmctune/dqxclarity">Get the Source</a>
-Gui, Add, Link,, Like what I'm doing? <a href="https://www.paypal.com/paypalme/supportjmct">Donate :P</a>
+Gui, Add, Link,, Like what I'm doing? <a href="https://ko-fi.com/serany">Donate :P</a>
 Gui, Add, Text,, Catch me on Discord: mebo#1337
 Gui, Add, Link,, Core app made by Serany <3 `n`nTranslations done by several members`nof the DQX community.`n<a href="https://github.com/jmctune/dqxclarity/graphs/contributors">Check them out!</a> 
 
@@ -67,27 +67,68 @@ startTime := A_TickCount
 
 ;; Get number of files we're going to process
 numberOfFiles := 0
-Loop, json\*.json
-  numberOfFiles++
+Loop, json\_lang\ja\*.json
+  if InStr(A_LoopFileFullPath, ".dummy.json")
+    continue
+  else
+    numberOfFiles++
+
+;; Open a process to check if the user has already run
+;; Clarity during their DQX session. If so, don't let them run it again.
+if (_ClassMemory.__Class != "_ClassMemory") {
+  msgbox class memory not correctly installed. Or the (global class) variable "_ClassMemory" has been overwritten
+  ExitApp
+}
+
+dqx := new _ClassMemory("ahk_exe DQXGame.exe", "", hProcessCopy)
+Global dqx
+
+if !isObject(dqx)
+{
+  msgbox Please open Dragon Quest X before running dqxclarity.
+  ExitApp
+  if (hProcessCopy = 0)
+  {
+    msgbox The program isn't running (not found) or you passed an incorrect program identifier parameter.
+    ExitApp
+  }
+  else if (hProcessCopy = "")
+  {
+    msgbox OpenProcess failed. If the target process has admin rights, then the script also needs to be ran as admin. Consult A_LastError for more information.
+    ExitApp
+  }
+}
+
+GuiControl,, Notes, Checking if Clarity can run...
+textHex := dqx.hexStringToPattern("54 45 58 54 10 00 00 00 F0 01 00 00 00 00 00 00 00 00 E3 82 A8") ;; classes_races.json
+if (dqx.processPatternScan(,,textHex*) == 0)
+{
+  GuiControl,, Notes, You've already run Clarity during this Dragon Quest X session. Please close and re-open Dragon Quest X rerun Clarity.
+  Sleep 4000
+  ExitApp
+}
 
 ;; Loop through all files in json directory
 numberOfRunningProcesses := 0
-Loop, Files, json\*.json, F
+Loop, json\_lang\ja\*.json, F
 {
-  Loop
-  {
-    numberOfRunningProcesses := 0
-    for process in ComObjGet("winmgmts:").ExecQuery("Select * from Win32_Process")
+  if InStr(A_LoopFileFullPath, ".dummy.json")
+    continue
+  else
+    Loop
     {
-      if process.Name = "run_json.exe"
-        numberOfRunningProcesses++
+      numberOfRunningProcesses := 0
+      for process in ComObjGet("winmgmts:").ExecQuery("Select * from Win32_Process")
+      {
+        if process.Name = "run_json.exe"
+          numberOfRunningProcesses++
+      }
     }
-  }
-  Until (numberOfRunningProcesses < ParallelProcessing)   ;; Limit throughput processing based on user input.
+    Until (numberOfRunningProcesses < ParallelProcessing)   ;; Limit throughput processing based on user input.
 
-  Run, %A_ScriptDir%\run_json.exe %A_LoopFileFullPath%
-  numberOfFiles := (numberOfFiles - 1)
-  GuiControl,, Notes, Queued files waiting to process: %numberOfFiles%
+    Run, %A_ScriptDir%\run_json.exe %A_LoopFileFullPath%
+    numberOfFiles := (numberOfFiles - 1)
+    GuiControl,, Notes, Queued files waiting to process: %numberOfFiles%`n`nCurrent files processing: %numberOfRunningProcesses%
 }
 
 ;; Let user know how many files are left to process

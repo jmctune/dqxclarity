@@ -19,36 +19,36 @@ Gui, Show, Autosize
 ;; Remove old JSON files and create tmp dir
 FileRemoveDir, %A_ScriptDir%\json, 1
 Sleep 100
-FileCreateDir, %A_ScriptDir%\json
+FileCreateDir, %A_ScriptDir%\json\_lang\ja
 Sleep 100
 FileRemoveDir, %A_ScriptDir%\tmp
 Sleep 100
 FileCreateDir, %A_ScriptDir%\tmp
 
 ;; Download latest version
-url := "https://github.com/jmctune/dqxclarity/archive/refs/heads/main.zip"
+url := "https://github.com/jmctune/dqxclarity/archive/refs/heads/weblate.zip"
 downloadFile(url)
 GuiControl,, Progress, 25
 
 ;; Move file and unzip
-unzipName := A_ScriptDir "\main.zip"
+unzipName := A_ScriptDir "\weblate.zip"
 unzipLoc := A_ScriptDir
 Unz(unzipName, unzipLoc)
 GuiControl,, Progress, 50
 
 ;; Move files from extracted json folder into main directory
-FileMove, %A_ScriptDir%\dqxclarity-main\json\*.json, %A_ScriptDir%\json
+FileMove, %A_ScriptDir%\dqxclarity-weblate\json\_lang\ja\*.json, %A_ScriptDir%\json\_lang\ja
 GuiControl,, Progress, 75
 Sleep 100
 
 ;; Delete tmp dirs
-FileRemoveDir, %A_ScriptDir%\dqxclarity-main, 1
+FileRemoveDir, %A_ScriptDir%\dqxclarity-weblate, 1
 FileDelete, %A_ScriptDir%\main.zip
-FileDelete, %A_ScriptDir%\dqxclarity.zip
+FileDelete, %A_ScriptDir%\weblate.zip
 GuiControl,, Progress, 100
 
 ;; Finish up
-if FileExist("json\*.json")
+if FileExist("json\_lang\ja\*.json")
 {
   GuiControl,, Notes, JSON files updated.
   Sleep 2000
@@ -63,7 +63,7 @@ else
 }
 
 ;=== Functions ==========================================================
-downloadFile(url, dir := "", fileName := "main.zip") 
+downloadFile(url, dir := "", fileName := "weblate.zip") 
 {
   whr := ComObjCreate("WinHttp.WinHttpRequest.5.1")
   whr.Open("GET", url, true)
