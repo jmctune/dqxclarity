@@ -25,7 +25,7 @@
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの <%sB_ACTION>！": "\n      \n      \\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's <%sB_ACTION>!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの <%sB_ACTION>！ <%sB_ACTOR>に 灼熱のエネルギーが 集まっていく！ ダメージを与えることで 止められそうだ……。": "\n      \n      \\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's <%sB_ACTION>! Red hot energy gathers within <%sB_ACTOR>! Maybe you can interrupt it by dealing damage...",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの <%sB_ACTION>！！": "      \n      \\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's <%sB_ACTION>！！",
-  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの <%sB_ITEM>！": "",
+  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの <%sB_ITEM>！": "\n      \n      \\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's <%sB_ITEM>！",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの ＭＰが <%dB_VALUE>回復した！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの ウデが 再生した！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの エナジーがたまるようになった！": "",
