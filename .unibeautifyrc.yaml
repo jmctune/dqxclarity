@@ -1,8 +1,0 @@
-JSON:
-  beautifiers:
-    - Prettier
-    - Pretty Diff
-    - JS-Beautify
-  indent_size: 2
-  indent_style: space
-  max_preserve_newlines: 0
