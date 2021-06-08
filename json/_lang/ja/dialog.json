@@ -304,7 +304,7 @@
   "<speed=0><%sM_owner>の　仲間モンスター|<%sM_monster>を　なでなでしますか？|<yesno 1><close>": "",
   "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems quite strong…",
   "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。|討伐数 <%dM_kill_num>匹。": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems quite strong…|Kills: <%dM_kill_num>.",
-  "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems very strong...|Kills: <%dM_kill_num>. <%sM_saw>",
+  "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems quite strong…|Kills: <%dM_kill_num>. <%sM_saw>",
   "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。|討伐数|<%dM_kill_num>匹。": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems very strong...|Kills: <%dM_kill_num>",
   "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。|討伐数|<%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems very strong...|Kills: <%dM_kill_num> <%sM_saw>",
   "<speed=0><%sM_pc>（<%sM_type>）だ。|ほぼ同格の相手だ。": "",
