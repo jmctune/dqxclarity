@@ -30,7 +30,7 @@
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの ウデが 再生した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's arm regenerates!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの エナジーがたまるようになった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e starts storing energy!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの おきがえタイム！": "For \\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e it’s Outfit-Changing Time!",
-  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの かいしんの <%sB_ACTION>！": "",
+  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの かいしんの <%sB_ACTION>！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e scores a critical <%sB_ACTION>!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの かいしんの いちげき！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの こうげき！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの しもべ召喚！": "",
