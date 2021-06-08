@@ -101,7 +101,7 @@
   "<%sM_monster>が　仲間に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "",
   "<%sM_monster>が　仲間に加わった！|あと<%dM_bar>匹まで　仲間にできます。<me 61>": "",
   "<%sM_monster>に　ここで　名前をつけますか？|<color_yellow>※モンスター酒場で　いつでも変更できます。<color_white><yesno><close>": "",
-  "<%sM_monster>は　かなしそうだ......。": "<%sM_monster> looks sad...",
+  "<%sM_monster>は　かなしそうだ......。": "<%sM_monster> looks sad…",
   "<%sM_monster>を　仲間にしますか？<se_nots System 0><break>": "",
   "<%sM_monster>を 仲間にするのを|一度　あきらめますか？<yesno2><close>": "",
   "<%sM_monster>を　酒場に送った！": "",
