@@ -42,7 +42,7 @@
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの ロープハンマー！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e uses Rope Hammer!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの 仲間呼び！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e calls for help!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの 召喚！": "",
-  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの 執事呼び！": "",
+  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの 執事呼び！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e calls a butler!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの 必殺技！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの 暗黒時間！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの 流星が ふりそそぐ！": "",
