@@ -33,7 +33,7 @@
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの かいしんの <%sB_ACTION>！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e scores a critical <%sB_ACTION>!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの かいしんの いちげき！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e scores a critical hit!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの こうげき！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e attacks!",
-  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの しもべ召喚！": "",
+  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの しもべ召喚！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e summons servants!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの チカラがみなぎっている！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの つうこんの いちげき！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの なかま呼び！": "",
