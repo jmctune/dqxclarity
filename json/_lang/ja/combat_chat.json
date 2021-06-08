@@ -37,7 +37,7 @@
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの チカラがみなぎっている！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e is bursting with energy!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの つうこんの いちげき！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e scores a terrific blow!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの なかま呼び！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e calls for help!",
-  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの プレゼントボックスが 開封される！": "",
+  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの プレゼントボックスが 開封される！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e’s gift box is opened!",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの ペット呼び！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの ロープハンマー！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの 仲間呼び！": "",
