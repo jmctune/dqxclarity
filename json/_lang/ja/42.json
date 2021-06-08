@@ -1,9 +1,9 @@
 {
   "(ぜんぶ)": "(All)",
-  "（仮MES）|エントランスへジャンプします": "",
-  "（仮MES）|連戦モードへ突入します": "",
-  "「<%sL_SYOKUNIN>であれば　|　仕事の依頼が受けられます。<bw_break>": "",
-  "「たしかに　移動しましたであります。": "",
+  "（仮MES）|エントランスへジャンプします": "（仮MES）|Jump to Entrance",
+  "（仮MES）|連戦モードへ突入します": "（仮MES）|Enter Battle Mode",
+  "「<%sL_SYOKUNIN>であれば　|　仕事の依頼が受けられます。<bw_break>": "As a <%sL_SYOKUNIN>, you can receive work orders.<bw_break>",
+  "「たしかに　移動しましたであります。": "Surely, it has moved.",
   "「どれを移動するでありますか？": "Which do you want to move to?",
   "<%nL_TOU>等": "<%nL_TOU>etc",
   "<%sL_DOKU_PCNAME>は 生き返った！": "<%sL_DOKU_PCNAME> was revived!",
