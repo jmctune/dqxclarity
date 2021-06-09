@@ -1190,7 +1190,7 @@
   "<%sW_MAP_NAME><%sW_DELIMITER>開かずの間・前室": "",
   "<%sW_MAP_NAME><%sW_DELIMITER>開花の層": "",
   "<%sW_MAP_NAME><%sW_DELIMITER>闘士の鐘楼": "",
-  "<%sW_MAP_NAME><%sW_DELIMITER>防具屋": "",
+  "<%sW_MAP_NAME><%sW_DELIMITER>防具屋": "<%sW_MAP_NAME><%sW_DELIMITER>Armory",
   "<%sW_MAP_NAME><%sW_DELIMITER>防具屋・武器屋": "",
   "<%sW_MAP_NAME><%sW_DELIMITER>防具鍛冶ギルド": "",
   "<%sW_MAP_NAME><%sW_DELIMITER>防砂ダム": "",
