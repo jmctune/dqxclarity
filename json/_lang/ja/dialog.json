@@ -1324,7 +1324,7 @@
   "<speed=0>集会所が　設定されていません。": "",
   "<speed=0>霊廟の達成した条件や　個人の報酬に|秘密の宝物庫で　手にはいる財宝について|確認できそうだ。|<break>": "",
   "<speed=0>霊廟の達成した条件や　謎を解明すると|将校ソールから受け取れる　個人の報酬が|確認できそうだ。|<break>": "",
-  "<speed=0>顔アイコンの表情を　変更できます。|顔を隠すような　装備をしている場合は|表情が見えませんので　ご注意ください。<break>": "<speed=0>You can change the facial expression of your face icon.<break>",
+  "<speed=0>顔アイコンの表情を　変更できます。|顔を隠すような　装備をしている場合は|表情が見えませんので　ご注意ください。<break>": "<speed=0>You can change the facial expression of your|face icon. If you are wearing equipment that|hides your face, you won't be able to see it.<break>",
   "<speed=0>顔アイコンの表情を|『<%sM_Facial>』に　変更しました。": "<speed=0>Changed facial expression to '<%sM_Facial>'",
   "<speed=0>願い事は　この内容で　よろしいですか？<yesno><close>": "",
   "<speed=0>願い事を書いた短冊を　かざりつけました！": "",
