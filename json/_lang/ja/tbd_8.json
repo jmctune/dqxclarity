@@ -3,7 +3,7 @@
   "<pc>は　とうぞくのカギを使った。<se_nots Joutyu_SE 57>": "",
   "<pc>は　とうぞくのカギを使った。|カギが　合わない！": "",
   "<pc>は　大とうぞくのカギを使った。<se_nots Joutyu_SE 57>": "",
-  "<pc>は　大とうぞくのカギを使った。|カギが　合わない！": "",
+  "<pc>は　大とうぞくのカギを使った。|カギが　合わない！": "<pc> used the Black Chest Key.|The key doesn't fit!",
   "<pc>は　泉の水を飲んだ。|<br>|<pc>の身体に|チカラが　わいてきた！": "",
   "キラキラ大風車塔の下層へ行く|エレベーターがある。|スイッチを押して　移動しますか？<yesno><close>": "Do you want to use the elevator|to go to the lower level|of the Glitter Windmill Tower?<yesno><close>",
   "キラキラ大風車塔の最上層へ行く|エレベーターがある。|スイッチを押して　移動しますか？<yesno><close>": "Do you want to use the elevator|to go to the top level|of the Glitter Windmill Tower?<yesno><close>",
