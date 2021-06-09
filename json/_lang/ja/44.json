@@ -1,6 +1,6 @@
 {
   "？？？？": "",
-  "<pc>は|大陸間鉄道パスを　駅員に見せた。<end>": " <pc>showed the railroad pass to the station staff.<end>",
+  "<pc>は|大陸間鉄道パスを　駅員に見せた。<end>": "<pc>showed the railroad pass to the station staff.<end>",
   "<pipipi_mid>「？？？？行きでございますね。|　わかりました。では　こちらへ。<auto_bw=2000><close>": "",
   "<pipipi_mid>「<%sW_ARRIVAL>に　とうちゃく～。<auto_bw=3000><close>": "",
   "<pipipi_mid>「<%sW_IKISAKI>ですね。|　<%nW_TICKET_PRICE>ゴールド　いただきます。|　よろしいですか？|<yesno><close>": "",
