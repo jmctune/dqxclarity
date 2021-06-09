@@ -14,7 +14,7 @@
   "<pipipi_mid>「大陸間鉄道公社へ　ようこそ！<br>|「おや？　<pc>さまは　我が国での|　列車利用の許可が　降りていないようです。|　残念ながら　当駅では　ご乗車になれません。<end>": "",
   "<pipipi_mid>「大陸間鉄道公社へ　ようこそ！<br>|「おや？　大陸間鉄道パスを|　お持ちでないようですね。|　残念ながら　お客様は　ご乗車になれません。<end>": "",
   "<pipipi_mid>「大陸間鉄道公社へ　ようこそ！|　おお　はじめての　お客様ですね？|　では　大陸間鉄道パスを拝見いたします。<end>": "",
-  "<pipipi_mid>「大陸間鉄道公社へ　ようこそ！|　どちらの駅まで　行きますか？<break>": "<pipipi_mid>「Welcome to the Intercontinental Railway Corp!| Which station are you headed to?<break>",
+  "<pipipi_mid>「大陸間鉄道公社へ　ようこそ！|　どちらの駅まで　行きますか？<break>": "<pipipi_mid>Welcome to the Intercontinental Railway Corp!| Which station are you headed to?<break>",
   "<pipipi_mid>「申し訳ありませんが|　お金が足りないようです。<bw>|　どちらの駅まで　行きますか？<break>": "",
   "<pipipi_mid>「申し訳ありませんが|　お金が足りないようです。<bw>|「ですが　<pc>さまは　大事なお客さま。|　特別に　無料にてご案内いたします。|　ご乗車なさいますか？|<yesno><close>": "",
   "<pipipi_mid><shake_big>「………！？<bw>|<feel_sad_lv3>「お急ぎのところ　申し訳ありません。|　停車駅が混雑のため　運行が乱れているようです。|　時間をおいて　ご利用ください。": "",
