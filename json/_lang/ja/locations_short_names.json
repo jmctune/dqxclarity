@@ -1151,7 +1151,7 @@
   "<%sW_MAP_NAME><%sW_DELIMITER>迷える盟友の間": "",
   "<%sW_MAP_NAME><%sW_DELIMITER>途上の意志": "",
   "<%sW_MAP_NAME><%sW_DELIMITER>通路": "",
-  "<%sW_MAP_NAME><%sW_DELIMITER>道具屋": "",
+  "<%sW_MAP_NAME><%sW_DELIMITER>道具屋": "<%sW_MAP_NAME><%sW_DELIMITER>Tool Shop",
   "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・レシピ屋": "",
   "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・素材屋": "",
   "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・郵便局": "",
