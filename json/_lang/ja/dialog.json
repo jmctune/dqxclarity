@@ -312,7 +312,7 @@
   "<speed=0><%sM_pc>（<%sM_type>）だ。|ほぼ同格の相手だ。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "",
   "<speed=0><%sM_pc>（<%sM_type>）だ。|ほぼ同格の相手だ。|討伐数|<%dM_kill_num>匹。": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Seems like an even opponent.|Kills: <%dM_kill_num>",
   "<speed=0><%sM_pc>（<%sM_type>）だ。|ほぼ同格の相手だ。|討伐数|<%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Seems like an even opponent.|Kills: <%dM_kill_num> <%sM_saw>",
-  "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。": "",
+  "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。": "<speed=0><%sM_pc>(<%sM_type>).|It's probably best not to mess with it right now.",
   "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。|討伐数 <%dM_kill_num>匹。": "",
   "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "",
   "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。|討伐数|<%dM_kill_num>匹。": "<speed=0>It's a<%sM_pc> (<%sM_type>).|I think it's best not to mess with it.|Kills: <%dM_kill_num>.",
