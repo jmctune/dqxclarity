@@ -1218,7 +1218,7 @@
   "<%sW_MAP_NAME><%sW_DELIMITER>音叉の間": "",
   "<%sW_MAP_NAME><%sW_DELIMITER>音叉の間 入口": "",
   "<%sW_MAP_NAME><%sW_DELIMITER>頂上への道": "",
-  "<%sW_MAP_NAME><%sW_DELIMITER>預かり所": "",
+  "<%sW_MAP_NAME><%sW_DELIMITER>預かり所": "<%sW_MAP_NAME><%sW_DELIMITER>Bank",
   "<%sW_MAP_NAME><%sW_DELIMITER>預かり所・よろず屋": "",
   "<%sW_MAP_NAME><%sW_DELIMITER>預かり所・旅人バザー": "",
   "<%sW_MAP_NAME><%sW_DELIMITER>預かり所・郵便局": "",
