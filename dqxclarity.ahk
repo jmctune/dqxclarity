@@ -103,7 +103,7 @@ GuiControl,, Notes, Checking if Clarity can run...
 textHex := dqx.hexStringToPattern("54 45 58 54 10 00 00 00 F0 01 00 00 00 00 00 00 00 00 E3 82 A8") ;; classes_races.json
 if (dqx.processPatternScan(,,textHex*) == 0)
 {
-  GuiControl,, Notes, You've already run Clarity during this Dragon Quest X session. Please close and re-open Dragon Quest X rerun Clarity.
+  GuiControl,, Notes, You've already run Clarity during this Dragon Quest X session. Please close and re-open Dragon Quest X to rerun Clarity.
   Sleep 4000
   ExitApp
 }
