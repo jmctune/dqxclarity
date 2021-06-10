@@ -29,7 +29,7 @@
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eから 何かを盗みとっていた！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> G かくとく！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの名声値を かくとく！": "",
-  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの経験値 <%dB_VALUE2> G かくとく！": "",
+  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの経験値 <%dB_VALUE2> G かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Exp points <%dB_VALUE2> Gold received.",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの経験値 <%dB_VALUE2> フェルド かくとく！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの経験値 <%dB_VALUE3> G かくとく！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの経験値を かくとく！": "",
