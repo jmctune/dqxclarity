@@ -75,7 +75,7 @@
   "<%sM_delete>は|モンスター牧場に　送っているため|お別れできません。": "",
   "<%sM_dokokara>|フレンド登録を　申し込まれました。": "",
   "<%sM_item>": "<%sM_item>",
-  "<%sM_item><%sM_plusnum>の|登録を　解除しますか？": "Do you want to cancel registering|<%sM_item> <%sM_plusnum>?",
+  "<%sM_item><%sM_plusnum>の|登録を　解除しますか？": "Do you want to cancel registering|<%sM_plusnum> <%sM_item>?",
   "<%sM_item><%sM_plusnum>の登録を　更新した。": "Registration of <%sM_item> <%sM_plusnum> has been updated.",
   "<%sM_item><%sM_plusnum>を　はずした。": "You removed the <%sM_item> <%sM_plusnum>.",
   "<%sM_item><%sM_plusnum>を 手に入れた！": "You found <%sM_item> <%sM_plusnum>!",
