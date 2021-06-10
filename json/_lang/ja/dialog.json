@@ -1088,7 +1088,7 @@
   "<speed=0>仲間モンスターが　待機中のため|確認することができません。|参加中にしてから　ご確認ください。　": "",
   "<speed=0>仲間を　待っています……。<break>": "",
   "<speed=0>仲間を　探しています……。<break>": "",
-  "<speed=0>仲間を探している人に向けたコメントと|紹介してもいい人を　設定してください。<break>": "<speed=0>Set a comment to a person who is|looking for a companion and add a list of|people you are willing to refer.<break>",
+  "<speed=0>仲間を探している人に向けたコメントと|紹介してもいい人を　設定してください。<break>": "<speed=0>Please set a comment for people looking|for companions and set who you want|to be able to search for you.<break>",
   "<speed=0>仲間募集中にすると　他のプレイヤーから|「なかまをさがす」コマンドで　検索されるようになります。|目的を　設定しなおしますか？<yesno><close>": "",
   "<speed=0>何も　選択されていません。": "",
   "<speed=0>便せんがないため　手紙を書けません。": "",
