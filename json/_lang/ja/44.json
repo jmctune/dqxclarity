@@ -16,7 +16,7 @@
   "<pipipi_mid>「大陸間鉄道公社へ　ようこそ！|　おお　はじめての　お客様ですね？|　では　大陸間鉄道パスを拝見いたします。<end>": "<pipipi_mid>Welcome to the Intercontinental Railway Corporation!|Oh, is it your first time here? Then, please show|me your intercontinental rail pass.<end>",
   "<pipipi_mid>「大陸間鉄道公社へ　ようこそ！|　どちらの駅まで　行きますか？<break>": "<pipipi_mid>Welcome to the Intercontinental Railway Corp!| Which station are you headed to?<break>",
   "<pipipi_mid>「申し訳ありませんが|　お金が足りないようです。<bw>|　どちらの駅まで　行きますか？<break>": "<pipipi_mid>I'm sorry, but you don't seem to have enough money.<bw>|Which station do you want to go to?<break>",
-  "<pipipi_mid>「申し訳ありませんが|　お金が足りないようです。<bw>|「ですが　<pc>さまは　大事なお客さま。|　特別に　無料にてご案内いたします。|　ご乗車なさいますか？|<yesno><close>": "",
+  "<pipipi_mid>「申し訳ありませんが|　お金が足りないようです。<bw>|「ですが　<pc>さまは　大事なお客さま。|　特別に　無料にてご案内いたします。|　ご乗車なさいますか？|<yesno><close>": "<pipipi_mid>I'm sorry, but you don't seem to have enough money.<bw>|However, you're an important customer, <pc>.|We will let you board free of charge. Do you want|to board?|<yesno><close>",
   "<pipipi_mid><shake_big>「………！？<bw>|<feel_sad_lv3>「お急ぎのところ　申し訳ありません。|　停車駅が混雑のため　運行が乱れているようです。|　時間をおいて　ご利用ください。": "",
   "アストルティアラリー参加中は|この施設を　ご利用になれません。<br>|どうしても　ご利用になられる場合は|アストルティア★ラリーのクエストを|キャンセルしてください。<end>": "You cannot use this facility while|participating in the Astoltia Rally.<br>|Please cancel the Astoltia Rally quest if you|wish to use it.<end>",
   "アズラン駅": "Azlan Stop",
