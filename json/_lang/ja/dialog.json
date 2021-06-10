@@ -36,7 +36,7 @@
   "※削除予定": "",
   "<%2sCLASS>ランク": "<%2sCLASS> Rank",
   "<%dM_gold>ゴールド　失った……。": "Lost <%dM_gold> gold...",
-  "<%dM_gold>ゴールドを 手に入れた！": "",
+  "<%dM_gold>ゴールドを 手に入れた！": "You found <%dM_gold> gold.",
   "<%dM_gold>ゴールドを|手に入れた！": "Received <%dM_gold> gold!",
   "<%nEV_NUM>番目の文字": "<%nEV_NUM> Character",
   "<%nEv_Vote>票を　すべて割り振らないと|投票を「けってい」することは　できません。": "",
