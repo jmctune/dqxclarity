@@ -1,6 +1,6 @@
 {
   "(なし)": "(None)",
-  "<%sM_space>１～<%sM_space>５": "1-5",
+  "<%sM_space>１～<%sM_space>５": "<%sM_space>1-<%sM_space>5",
   "<%sM_space>６～１０": "<%sM_space>6-10",
   "♀キャラ中心": "♀ Character Cntr",
   "♂キャラ中心": "♂ Character Cntr",
@@ -24,7 +24,7 @@
   "６６～７０": "66-70",
   "アクセハンター": "Access Hunter",
   "いつでも": "Anytime",
-  "イベント大好き": "Love Events",
+  "イベント大好き": "I Love Events",
   "ウェディ中心": "",
   "エルフ中心": "",
   "オーガ中心": "",

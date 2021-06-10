@@ -11,7 +11,7 @@
   "<%sL_SENDER_NAME>からの届け物": "Delivery from <%sL_SENDER_NAME>",
   "<%sL_SERVER>に　移動しました。": "Moved to <%sL_SERVER>.",
   "<%sM_pc>からの手紙": "Letter from <%sM_pc>",
-  "<%sM_space>１～<%sM_space>５": "1-5",
+  "<%sM_space>１～<%sM_space>５": "<%sM_space>1-<%sM_space>5",
   "<%sM_space>６～１０": "<%sM_space>6-10",
   "♀キャラ": "Male",
   "♂キャラ": "Female",
