@@ -1,7 +1,7 @@
 #Persistent
 #NoEnv
 #SingleInstance force
-#Include <JSON>
+#Include <JSON_coco>
 
 /*
 ****************************************************
@@ -20,9 +20,11 @@ Gui, Show, Autosize
 
 ;; Make sure /tmp is clean by deleting + re-creating, then move updater into /tmp.
 FileRemoveDir, %A_ScriptDir%\tmp
-sleep 100
+Sleep 100
 FileCreateDir, %A_ScriptDir%\tmp
-sleep 100
+Sleep 100
+FileDelete, %A_ScriptDir%\dqxclarity.zip  ;; Delete the old file if it exists
+Sleep 100
 FileMove, %A_ScriptDir%\updater.exe, %A_ScriptDir%\tmp\updater.exe
 
 ;; Download latest version
@@ -36,7 +38,7 @@ url := "https://api.github.com/repos/jmctune/dqxclarity/releases/latest"
 oWhr.Open("GET", url, 0)
 oWhr.Send()
 oWhr.WaitForResponse()
-jsonResponse := JSON.Load(oWhr.ResponseText)
+jsonResponse := JSON_coco.Load(oWhr.ResponseText)
 releaseVersion := (jsonResponse.tag_name)
 releaseVersion := SubStr(releaseVersion, 2)
 releaseNotes := (jsonResponse.body)
@@ -72,7 +74,7 @@ else
 {
   GuiControl,, Progress, 100
   FileMove, %A_ScriptDir%\tmp\updater.exe, %A_ScriptDir%\updater.exe  ;; If failed, put updater back
-  sleep 100
+  Sleep 100
   FileRemoveDir, %A_ScriptDir%\tmp  ;; Remove /tmp folder
   message := "UPDATE FAILED! Version mismatch. Please update dqxclarity manually."
   GuiControl,, Notes, % message
