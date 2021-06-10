@@ -317,7 +317,7 @@
   "<%sM_monster>と 別れた。": "",
   "<%sM_monster>の なつき度が あがって <%dL_NATUKI>になった！": "",
   "<%sM_monster>の名前を <%sM_monster_name>に 変更した！": "",
-  "<%sM_monster>は <%dL_EXP> Pの経験値を かくとく！": "",
+  "<%sM_monster>は <%dL_EXP> Pの経験値を かくとく！": "<%sM_monster> gains <%dL_EXP>P experience!",
   "<%sM_monster>は <%dM_point_num1>Pの なつき度スキルポイントを かくとく！": "",
   "<%sM_monster>は レベル<%dL_LEVEL_OLD>から <%dL_LEVEL_NOW>に あがった！": "",
   "<%sM_monster>を レベル転生した！": "",
