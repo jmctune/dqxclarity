@@ -78,7 +78,7 @@
   "<%sM_item><%sM_plusnum>の|登録を　解除しますか？": "",
   "<%sM_item><%sM_plusnum>の登録を　更新した。": "",
   "<%sM_item><%sM_plusnum>を　はずした。": "Tossed <%sM_plusnum> <%sM_item>.",
-  "<%sM_item><%sM_plusnum>を 手に入れた！": "You find <%sM_plusnum><%sM_item>",
+  "<%sM_item><%sM_plusnum>を 手に入れた！": "You find <%sM_item> <%sM_plusnum>",
   "<%sM_item><%sM_plusnum>を　登録した。": "Registered <%sM_plusnum> <%sM_item>.",
   "<%sM_item><%sM_plusnum>を　装備した！": "Equipped <%sM_plusnum> <%sM_item>!",
   "<%sM_item><%sM_plusnum>を　装備した。": "Equipped <%sM_plusnum> <%sM_item>.",
