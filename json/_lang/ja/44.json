@@ -4,7 +4,7 @@
   "<pipipi_mid>「？？？？行きでございますね。|　わかりました。では　こちらへ。<auto_bw=2000><close>": "<pipipi_mid>Will you be going????|Understood. Well then, follow me.<auto_bw=2000><close>",
   "<pipipi_mid>「<%sW_ARRIVAL>に　とうちゃく～。<auto_bw=3000><close>": "",
   "<pipipi_mid>「<%sW_IKISAKI>ですね。|　<%nW_TICKET_PRICE>ゴールド　いただきます。|　よろしいですか？|<yesno><close>": "<pipipi_mid><%sW_IKISAKI>it is.|I’ll have to charge you<%nW_TICKET_PRICE> gold.|Is that ok?|<yesno><close>",
-  "<pipipi_mid>「おやめに　なるのですね。|　またのご利用を　お待ちしています。": "",
+  "<pipipi_mid>「おやめに　なるのですね。|　またのご利用を　お待ちしています。": "<pipipi_mid>We have arrived.|We look forward to your next visit.",
   "<pipipi_mid>「では　お気をつけて。|　よい旅路を！<auto_bw=2000><close>": "",
   "<pipipi_mid>「どちらの駅まで　行きますか？<break>": "",
   "<pipipi_mid>「なんと……　？？？？行きでございますか？<br>|<pipipi_mid>「わかりました。くわしいことは存じませんが |　大地の箱舟に　お乗りいただくよう|　おおせつかっております。さあ　こちらへ。<auto_bw=2000><close>": "",
