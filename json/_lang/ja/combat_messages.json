@@ -14,7 +14,7 @@
   "　総獲得達人経験値  <%sB_VALUE> P (内 元気ボーナス <%sB_VALUE2> P)": "",
   "　総獲得釣り経験値<%sB_VALUE> P (内 元気ボーナス <%sB_VALUE2> P)": "",
   "？？？": "",
-  "？？？？": "",
+  "？？？？": "????",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが <%sB_TARGET>たちと 戦闘開始！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが <%sB_TARGET>と 戦闘開始！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが まもののむれと 戦闘開始！": "",
