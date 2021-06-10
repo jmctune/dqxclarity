@@ -84,7 +84,7 @@
   "<%sM_item><%sM_plusnum>を　装備した。": "You equipped the <%sM_item> <%sM_plusnum>.",
   "<%sM_item><%sM_plusnum>を　解除した。": "",
   "<%sM_item><%sM_plusnum>を|手に入れた！": "Received <%sM_plusnum> <%sM_item>!",
-  "<%sM_item>|<break>": "",
+  "<%sM_item>|<break>": "<%sM_item>|<break>",
   "<%sM_item>バッジを　はずした。": "You removed the <%sM_item> badge.",
   "<%sM_item>バッジを　装備した。": "",
   "<%sM_item>を 手に入れた！": "",
