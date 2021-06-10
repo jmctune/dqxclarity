@@ -305,7 +305,7 @@
   "<%sM_item>を <%nM_item_num>個消費し <%sM_otomo>のスキルを リセットした！": "",
   "<%sM_item>を <%nM_item_num>個消費し <%sM_otomo>のスキルを 選びなおした！": "",
   "<%sM_item>を おまとめぶくろに まとめた！": "",
-  "<%sM_item>を 手に入れた！": "You got the <%sM_item>!",
+  "<%sM_item>を 手に入れた！": "You received the <%sM_item>!",
   "<%sM_item>を 消費した。": "",
   "<%sM_item>を 錬金釜で作成した！": "",
   "<%sM_item>を 錬金釜に入れた！": "",
