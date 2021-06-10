@@ -907,7 +907,7 @@
   "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは \\s<%sB_TARGET2>\\m<%sB_TARGET2_ID>\\eに 怒った！": "",
   "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは \\s<%sB_TARGET2>\\m<%sB_TARGET2_ID>\\eに 恐れおののいている！": "",
   "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは \\s<%sB_TARGET2>\\m<%sB_TARGET2_ID>\\eに 激怒した！": "",
-  "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE> Pの経験値を かくとく！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e acquires <%dB_VALUE> P experience!",
+  "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE> Pの経験値を かくとく！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e acquires <%dB_VALUE> Exp Points",
   "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE> 個の願いのかけらを かくとく！": "",
   "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE>のダメージを うけた！": "",
   "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE>のダメージを うけた！ <%sB_TARGET>は 死霊兵ガテリアンに 狙われやすくなった！": "",
