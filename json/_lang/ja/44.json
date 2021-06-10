@@ -18,7 +18,7 @@
   "<pipipi_mid>「申し訳ありませんが|　お金が足りないようです。<bw>|　どちらの駅まで　行きますか？<break>": "",
   "<pipipi_mid>「申し訳ありませんが|　お金が足りないようです。<bw>|「ですが　<pc>さまは　大事なお客さま。|　特別に　無料にてご案内いたします。|　ご乗車なさいますか？|<yesno><close>": "",
   "<pipipi_mid><shake_big>「………！？<bw>|<feel_sad_lv3>「お急ぎのところ　申し訳ありません。|　停車駅が混雑のため　運行が乱れているようです。|　時間をおいて　ご利用ください。": "",
-  "アストルティアラリー参加中は|この施設を　ご利用になれません。<br>|どうしても　ご利用になられる場合は|アストルティア★ラリーのクエストを|キャンセルしてください。<end>": "",
+  "アストルティアラリー参加中は|この施設を　ご利用になれません。<br>|どうしても　ご利用になられる場合は|アストルティア★ラリーのクエストを|キャンセルしてください。<end>": "You cannot use this facility while|participating in the Astoltia Rally.<br>|Please cancel the Astoltia Rally quest if you|wish to use it.<end>",
   "アズラン駅": "Azlan Stop",
   "ヴェリナード城駅": "Verinard Castle Stop",
   "オアシスの隊商宿（ゴブル砂漠東）": "Oasis Caravan (Gobble Desert East)",
