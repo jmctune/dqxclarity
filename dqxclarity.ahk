@@ -3,6 +3,7 @@
 #Include <convertHex>
 #Include <memWrite>
 #Include <JSON>
+#Include <JSON_coco>
 
 SetBatchLines, -1
 
@@ -20,7 +21,7 @@ url := "https://api.github.com/repos/jmctune/dqxclarity/releases/latest"
 oWhr.Open("GET", url, 0)
 oWhr.Send()
 oWhr.WaitForResponse()
-jsonResponse := JSON.Load(oWhr.ResponseText)
+jsonResponse := JSON_coco.Load(oWhr.ResponseText)
 latestVersion := (jsonResponse.tag_name)
 latestVersion := SubStr(latestVersion, 2)
 
