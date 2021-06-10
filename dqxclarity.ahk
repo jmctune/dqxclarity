@@ -13,8 +13,40 @@ if !ErrorLevel
   ExitApp
 }
 
-;; Delete tmp dir from updater if exists
-FileRemoveDir, %A_ScriptDir%\tmp
+;=== Auto update ============================================================
+;; Get latest version number from Github
+oWhr := ComObjCreate("WinHttp.WinHttpRequest.5.1")
+url := "https://api.github.com/repos/jmctune/dqxclarity/releases/latest"
+oWhr.Open("GET", url, 0)
+oWhr.Send()
+oWhr.WaitForResponse()
+jsonResponse := JSON.Load(oWhr.ResponseText)
+latestVersion := (jsonResponse.tag_name)
+latestVersion := SubStr(latestVersion, 2)
+
+;; Get current version locally from version file
+FileRead, currentVersion, version
+
+;; If the versions differ, run updater
+if (latestVersion != currentVersion)
+{
+  if (latestVersion = "" || currentVersion = "")
+  {
+    MsgBox Unable to determine latest version. Continuing without updating.
+  }
+  else
+  {
+    Run updater.exe
+    ExitApp
+  }
+}
+else
+{
+tmpLoc := A_ScriptDir "\tmp"
+if FileExist(tmpLoc)
+  FileRemoveDir, %A_ScriptDir%\tmp, 1
+  sleep 50
+}
 
 ;; Create GUI
 Gui, 1:Default
@@ -22,12 +54,11 @@ Gui, Add, Tab3,, General|Update|About
 Gui, Font, s10, Segoe UI
 Gui, Add, Text,, Number of files to process at once`n(Higher number uses more CPU)
 Gui, Add, Edit
-Gui, Add, UpDown, vParallelProcessing Range10-50, 15
+Gui, Add, UpDown, vParallelProcessing Range1-50, 15
 Gui, Add, Button, gRun, Run
 
 ;; Update tab
 Gui, Tab, Update
-Gui, Add, Button, gUpdateApp, Update Clarity
 Gui, Add, Button, gUpdateJSON, Get Weblate Files
 Gui, Add, Link,, Get the latest translations from the`nweblate branch. This can cause Clarity`nto fail to process files if bad`ntranslations were checked in, but`ngives you the most up to date translations.`n`nIf you find a broken translation, please`n<a href="https://weblate.ethene.wiki/">volunteer to fix it!</a>
 
