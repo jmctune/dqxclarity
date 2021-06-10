@@ -6,7 +6,7 @@
   "<pipipi_mid>「<%sW_IKISAKI>ですね。|　<%nW_TICKET_PRICE>ゴールド　いただきます。|　よろしいですか？|<yesno><close>": "<pipipi_mid><%sW_IKISAKI>it is.|I’ll have to charge you<%nW_TICKET_PRICE> gold.|Is that ok?|<yesno><close>",
   "<pipipi_mid>「おやめに　なるのですね。|　またのご利用を　お待ちしています。": "<pipipi_mid>We have arrived.|We look forward to your next visit.",
   "<pipipi_mid>「では　お気をつけて。|　よい旅路を！<auto_bw=2000><close>": "",
-  "<pipipi_mid>「どちらの駅まで　行きますか？<break>": "<pipipi_mid>Which station are you going to?<break>",
+  "<pipipi_mid>「どちらの駅まで　行きますか？<break>": "<pipipi_mid>Which station are you headed to?<break>",
   "<pipipi_mid>「なんと……　？？？？行きでございますか？<br>|<pipipi_mid>「わかりました。くわしいことは存じませんが |　大地の箱舟に　お乗りいただくよう|　おおせつかっております。さあ　こちらへ。<auto_bw=2000><close>": "",
   "<pipipi_mid>「なんと……　？？？？行きでございますか？|<br>|<pipipi_mid>「くわしいことは存じませんが　その行き先へ|　ご案内できるのは　エテーネの民の方のみと|　聞いております。|<br>|<pipipi_mid>「サポート仲間は　どの種族でも　かまいませんが|　お客様自身は人間でないと　ご案内できません。|　他の行き先を　お選びください。": "",
   "<pipipi_mid>「はい。確かに　拝見いたしました。|　これより　お客様は　当大陸間鉄道公社の|　列車……大地の箱舟を　ご利用いただけます！<br>|<pipipi_mid>「大地の箱舟に乗れば　目的地まで|　あっという間に　行くことができます。|　しかも　どこまで行っても　料金は同じです。<br>|<pipipi_mid>「ただし　大きな国の駅は　特別な一部の方のみが|　ご利用いただけるものですので|　そちらは　ご了承願います。さて……": "",
