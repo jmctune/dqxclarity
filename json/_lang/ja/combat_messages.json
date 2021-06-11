@@ -210,7 +210,7 @@
   "<%sB_ACTOR>は レベル<%dB_VALUE>に あがった！": "",
   "<%sB_ACTOR>は　レベル<%dB_VALUE>に　あがった！": "",
   "<%sB_ACTOR>は 不意をついた！": "You took the enemy by surprise!",
-  "<%sB_ACTOR>は 不意をつかれた！": "",
+  "<%sB_ACTOR>は 不意をつかれた！": "The enemy caught you off guard!",
   "<%sB_ACTOR>は 名声レベル<%dB_VALUE>に あがった！": "",
   "<%sB_ACTOR>は　名声レベル<%dB_VALUE>に　あがった！": "",
   "<%sB_ACTOR>は 戦いを やめた。": "",
