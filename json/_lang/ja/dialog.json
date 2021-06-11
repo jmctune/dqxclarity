@@ -181,7 +181,7 @@
   "<se_nots Joutyu_SE 37><speed=0><%sM_SNPC>と　かなり仲良くなった！": "",
   "<se_nots Joutyu_SE 37><speed=0><%sM_SNPC>と　仲良くなった！": "",
   "<se_nots Joutyu_SE 37><speed=0><%sM_SNPC>と　少し仲良くなった！": "",
-  "<select_nc_se_off>|メインメニューへ|ログアウトしてタイトルへ|<select_end><close>": "",
+  "<select_nc_se_off>|メインメニューへ|ログアウトしてタイトルへ|<select_end><close>": "<select_nc_se_off>|Go to Main Menu|Logout and Go to Title|<select_end><close>",
   "<select_nc_se_off>|メインメニューへ|ログアウトしてタイトルへ|ログアウトしてWii Uメニューへ|<select_end><close>": "",
   "<select_nc_se_off>|メインメニューへ|ログアウトしてタイトルへ|ログアウトして電源を切る|<select_end><close>": "",
   "<select_nc_se_off>|メインメニューへ|ログアウトして終了する|<select_end><close>": "",
