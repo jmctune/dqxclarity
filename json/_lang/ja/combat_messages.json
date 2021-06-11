@@ -88,7 +88,7 @@
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 名声レベル<%dB_VALUE>に あがった！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 呪文が ふうじこめられている！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 戦いを やめた。": "",
-  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 戦いをやめた。": "",
+  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 戦いをやめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e runs away.",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 戦うのをやめた。": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "",
