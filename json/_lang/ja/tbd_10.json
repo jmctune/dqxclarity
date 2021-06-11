@@ -2,7 +2,7 @@
   "<%sL_KOUKA> の|効果が付いた。": "Effect of <%sL_KOUKA> was added.",
   "<%sL_KOUKA>に　強化した。": "Strengthened <%sL_KOUKA> effect.",
   "<%sL_PC>が <%sL_ITEM>を使って|手に入れた。": "",
-  "<%sL_PC>が <%sL_NPC>から|もらった。": "",
+  "<%sL_PC>が <%sL_NPC>から|もらった。": "<%sL_PC> received from <%sL_NPC>.",
   "<%sL_PC>が <%sL_PLACE>で|手に入れた。": "",
   "<%sL_PC>が <%sL_PLACE>で|釣り上げた。": "",
   "<%sL_PC>が <%sL_PLACE>での|クエストで手に入れた。": "",
