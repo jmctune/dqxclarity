@@ -82,7 +82,7 @@
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ブレスが ふうじこめられている！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは へろへろタイムなので なにも かくとくできなかった。": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは まものたちから 何かを盗みとっていた！": "",
-  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは まもののむれを やっつけた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e You killed a monster swarm!",
+  "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは まもののむれを やっつけた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e The group of enemies are defeated.",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは レベル<%dB_VALUE>から <%dB_VALUE2>に あがった！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは レベル<%dB_VALUE>に あがった！": "",
   "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 名声レベル<%dB_VALUE>に あがった！": "",
