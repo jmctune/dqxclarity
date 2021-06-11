@@ -35,7 +35,7 @@
   "<pc>は　落盤をひきおこした！": "",
   "<pc>は　鉱脈をさがした！|<%sL_FIND_KOUMYAKU>を　<%nL_KOUMYAKU_NUM>こ見つけた！": "",
   "<pc>は|<%dL_EXP> Pの職人経験値を　かくとく！<se_nots System 7>|<bw_break>": "<pc>|gained <%dL_EXP> Craftsman EXP!<se_nots System 7>|<bw_break>",
-  "<pc>は|<%dL_EXP> Pの職人経験値を　かくとく！|<bw_break>": "",
+  "<pc>は|<%dL_EXP> Pの職人経験値を　かくとく！|<bw_break>": "<pc>|gained <%dL_EXP> Craftsman EXP!|<bw_break>",
   "<pc>は|<%dL_EXP>+<%dL_EXP_OUEN>(おうえんボーナス) Pの|職人経験値を　かくとく！|<bw_break>": "",
   "<pc>は|<%sL_KOUKA>を　はじめて付けたので|さらに　<%dL_EXP> Pの職人経験値を　かくとく！|<bw_break>": "",
   "<pc>は|<%sL_RECIPE>を　はじめて作ったので|さらに　<%dL_EXP> Pの職人経験値を　かくとく！|<bw_break>": "",
