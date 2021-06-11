@@ -194,7 +194,7 @@
   "<%sB_ACTOR>は <%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの経験値を かくとく！": "",
   "<%sB_ACTOR>は <%sB_ITEM>を 手に入れた！": "",
   "<%sB_ACTOR>は <%sB_TARGET>から 何かを盗みとっていた！": "",
-  "<%sB_ACTOR>は <%sB_TARGET>を たおした！": "",
+  "<%sB_ACTOR>は <%sB_TARGET>を たおした！": "<%sB_ACTOR> knocked out an enemy!",
   "<%sB_ACTOR>は <%sB_TARGET>を 占領した！": "",
   "<%sB_ACTOR>は ＭＰが 足りなかった。": "",
   "<%sB_ACTOR>は キャッチハンドを 1つ消した！": "",
