@@ -209,7 +209,7 @@
   "<%sB_ACTOR>は　レベル<%dB_VALUE>から　<%dB_VALUE2>に　あがった！": "",
   "<%sB_ACTOR>は レベル<%dB_VALUE>に あがった！": "",
   "<%sB_ACTOR>は　レベル<%dB_VALUE>に　あがった！": "",
-  "<%sB_ACTOR>は 不意をついた！": "",
+  "<%sB_ACTOR>は 不意をついた！": "You took the enemy by surprise!",
   "<%sB_ACTOR>は 不意をつかれた！": "",
   "<%sB_ACTOR>は 名声レベル<%dB_VALUE>に あがった！": "",
   "<%sB_ACTOR>は　名声レベル<%dB_VALUE>に　あがった！": "",
