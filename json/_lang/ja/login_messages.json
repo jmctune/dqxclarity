@@ -70,7 +70,7 @@
   "ログインしています……。<break>": "",
   "ログインに必要な処理をしています。|この処理には　数分かかる場合もあります。|少々お待ちください……。<break>": "",
   "ログアウトします。|よろしいですか？<yesno><break>": "Are you sure you want to log out?<yesno><break>",
-  "ログアウトしたあと　ゲームを終了して|起動ランチャーに戻りますか？<yesno><break>": "",
+  "ログアウトしたあと　ゲームを終了して|起動ランチャーに戻りますか？<yesno><break>": "After logging out, do you want|to exit the game and go back|to the launcher?<yesno><break>",
   "ログアウトしています……。<break>": "",
   "　　 キャラクター未作成": "Character Not Created",
   "冒険の書<%nNO>に　<%sPCNAME>を登録しました！<end>": "",
