@@ -7,7 +7,7 @@
   "<%sL_PC>が <%sL_PLACE>で|釣り上げた。": "<%sL_PC> reeled in at <%sL_PLACE>.",
   "<%sL_PC>が <%sL_PLACE>での|クエストで手に入れた。": "<%sL_PC> received a quest from <%sL_PLACE>.",
   "<%sL_PC>が <%sL_PLACE>で釣り上げた|金の宝箱から　手に入れた。": "<%sL_PC> reeled in at <%sL_PLACE>.|Obtained a gold treasure chest.",
-  "<%sL_PC>が <%sL_PLACE>の|<%sL_COLOR>宝箱から手に入れた。": "",
+  "<%sL_PC>が <%sL_PLACE>の|<%sL_COLOR>宝箱から手に入れた。": "<%sL_PC> obtained a <%sL_PLACE> <%sL_COLOR>|treasure chest.",
   "<%sL_PC>が <%sL_PLACE>の|<%sL_MONSTER>を倒して 手に入れた。": "",
   "<%sL_PC>が <%sL_PLACE>の|お店で買った。": "",
   "<%sL_PC>が <%sL_PLACE>の|タンスから手に入れた。": "",
