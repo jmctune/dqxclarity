@@ -4,7 +4,7 @@
   "<pipipi_mid>「？？？？行きでございますね。|　わかりました。では　こちらへ。<auto_bw=2000><close>": "<pipipi_mid>So, you'll be going to ????.|Understood. Well then, follow me.<auto_bw=2000><close>",
   "<pipipi_mid>「<%sW_ARRIVAL>に　とうちゃく～。<auto_bw=3000><close>": "<pipipi_mid>We've arrived at <%sW_ARRIVAL>!<auto_bw=3000><close>",
   "<pipipi_mid>「<%sW_IKISAKI>ですね。|　<%nW_TICKET_PRICE>ゴールド　いただきます。|　よろしいですか？|<yesno><close>": "<pipipi_mid><%sW_IKISAKI>, eh?|I’ll have to charge you <%nW_TICKET_PRICE> gold.|Is that okay?|<yesno><close>",
-  "<pipipi_mid>「おやめに　なるのですね。|　またのご利用を　お待ちしています。": "<pipipi_mid>We have arrived.|We look forward to your next visit.",
+  "<pipipi_mid>「おやめに　なるのですね。|　またのご利用を　お待ちしています。": "<pipipi_mid>I'm sorry to hear that.|We look forward to your next visit.",
   "<pipipi_mid>「では　お気をつけて。|　よい旅路を！<auto_bw=2000><close>": "<pipipi_mid>Then, be careful. Safe travels!<auto_bw=2000><close>",
   "<pipipi_mid>「どちらの駅まで　行きますか？<break>": "<pipipi_mid>Which station are you headed to?<break>",
   "<pipipi_mid>「なんと……　？？？？行きでございますか？<br>|<pipipi_mid>「わかりました。くわしいことは存じませんが |　大地の箱舟に　お乗りいただくよう|　おおせつかっております。さあ　こちらへ。<auto_bw=2000><close>": "<pipipi_mid>Huh..? You're going to ????<br>|<pipipi_mid>Understood. I don't really know the details,|but please board the Ark of Earth. Follow me.<auto_bw=2000><close>",
