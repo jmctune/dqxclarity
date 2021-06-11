@@ -158,7 +158,7 @@
   "<%sno1><%snum1><%sunit1><%sno2><%snum2><%sunit2>": "",
   "<%sno1><%snum1><%sunit1><%sno2><%snum2><%sunit2><%sno3><%snum3><%sunit3>": "",
   "<center><color_yellow>※酒場登録に　失敗しました。<color_white>|おつかれさまでした。|このあとは　どこに戻りますか？<break>": "",
-  "<center>おつかれさまでした。|『だれでもＯＫ』で酒場登録しました。|このあとは　どこに戻りますか？<break>": "<center>Good night.|\"Anyone Is Welcome\" registered.|Where do you want to go after this?<break>",
+  "<center>おつかれさまでした。|『だれでもＯＫ』で酒場登録しました。|このあとは　どこに戻りますか？<break>": "Good night.|\"Anyone Is Welcome\" registered at the tavern.|Where do you want to go after this?<break>",
   "<center>おつかれさまでした。|<color_yellow>『チームのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": "",
   "<center>おつかれさまでした。|<color_yellow>『フレンドとチームのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": "",
   "<center>おつかれさまでした。|<color_yellow>『フレンドのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": "",
