@@ -1193,7 +1193,7 @@
   "<speed=0>新しい<%sM_action>をつくると　いちばん|古いものが消えますが　よろしいですか？|<yesno><close>": "<speed=0>Creating a new <%sM_action> causes the old one to disappear. Is this okay?<yesno><close>",
   "<speed=0>新しいバクダンをつくると　いちばん|古いものが消えますが　よろしいですか？|<yesno><close>": "<speed=0>Is it okay to replace your current bomb with a new one?<yesno><close>",
   "<speed=0>新しいボディガードを呼ぶと|今のボディガードが消えますが　よろしいですか？|<yesno><close>": "<speed=0>Is it okay to replace your current bodyguard with a new one?<yesno><close>",
-  "<speed=0>新しいリレミトゲートをつくると　いちばん|古いものが消えますが　よろしいですか？|<yesno><close>": "<speed=0>Is it okay to overwrite your previous Evac gate?<yesno><close>",
+  "<speed=0>新しいリレミトゲートをつくると　いちばん|古いものが消えますが　よろしいですか？|<yesno><close>": "<speed=0>If you create a new Evac gate, your|oldest one will disappear. Is that okay?<yesno><close>",
   "<speed=0>新しく覚える|ひとつ目のスキルを　選んでください。<break>": "",
   "<speed=0>新しく覚える|ふたつ目のスキルを　選んでください。<break>": "",
   "<speed=0>新しく覚えるスキルは|<%sM_SKILL1><%sM_01>と <%sM_SKILL2><%sM_01>で|よろしいですか？<yesno><break>": "",
