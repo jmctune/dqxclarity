@@ -1733,7 +1733,7 @@
     "<%sB_TARGET>の みずのころもを 打ち消した！！": "",
     "<%sB_TARGET>の 動きが とまった！": "",
     "<%sB_TARGET>の 呪文が こだまする！": "",
-    "<%sB_TARGET>の 息の根をとめた！": "",
+    "<%sB_TARGET>の 息の根をとめた！": "You have taken the life of <%sB_TARGET>!",
     "<%sB_TARGET>の 月の加護を やぶった！！": "",
     "<%sB_TARGET>の 秘めたちからを 解放した！": "",
     "<%sB_TARGET>の 罪業のころもを 打ち消した！！": "",
