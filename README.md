@@ -1,5 +1,5 @@
 # dqxclarity <a href="http://weblate.ethene.wiki/engage/dragon-quest-x/">
-<img src="http://weblate.ethene.wiki/widgets/dragon-quest-x/-/svg-badge.svg" alt="Translation status" />
+<img src="http://weblate.ethene.wiki/widgets/dragon-quest-x/en/svg-badge.svg" alt="Translation status" />
 </a>
 
 [Discord](https://discord.gg/bVpNqVjEG5)
