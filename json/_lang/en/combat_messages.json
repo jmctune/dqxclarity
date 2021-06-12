@@ -467,13 +467,13 @@
     "討伐報酬(赤色の宝箱)が 出現した！": "A red treasure chest has appeared!",
     "討伐報酬（赤色の宝箱）が　出現した！": "A red treasure chest has appeared!",
     "討伐報酬（赤色の宝箱）が　出現した！|討伐報酬（四葉の宝箱）が　出現した！": "A red treasure chest has appeared!|A four-leaf clover treasure chest has appeared!",
-    "討伐報酬（赤色の宝箱）が　出現した！|討伐報酬（紫色の宝箱）が　出現した！": "",
-    "討伐報酬（赤色の宝箱）が　出現した！|討伐報酬（紫色の宝箱）が　出現した！|討伐報酬（四葉の宝箱）が　出現した！": "",
+    "討伐報酬（赤色の宝箱）が　出現した！|討伐報酬（紫色の宝箱）が　出現した！": "A red treasure chest has appeared!|A purple treasure chest has appeared!",
+    "討伐報酬（赤色の宝箱）が　出現した！|討伐報酬（紫色の宝箱）が　出現した！|討伐報酬（四葉の宝箱）が　出現した！": "A red treasure chest has appeared!|A purple treasure chest has appeared!|A four-leaf clover treasure chest has appeared!",
     "討伐対象 <%sB_TARGET>！": "",
     "追跡チームの|お助けボックスを消した": "",
     "逃走チームの|お助けボックスを消した": "",
     "達人のオーブ|レベルアップ！": "Master Orb|level up!",
-    "達人のオーブの レベルがあがった！": "",
-    "達人のオーブの　レベルがあがった！": "",
-    "達人のオーブのレベルが <%dB_VALUE>に あがった！": ""
+    "達人のオーブの レベルがあがった！": "The Master Orb's level has increased!",
+    "達人のオーブの　レベルがあがった！": "The Master Orb's level has increased!",
+    "達人のオーブのレベルが <%dB_VALUE>に あがった！": "The level of the Master's Orb has increased to <%dB_VALUE>!"
 }
