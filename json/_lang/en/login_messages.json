@@ -127,7 +127,7 @@
     "パスワードの再設定を　やめますか？<yesno><break>": "",
     "新しいパスワードの設定を行います。<end>": "",
     "処理中です……。<break>": "",
-    "<speed=0>ゲームを開始しています……。<break>": "",
+    "<speed=0>ゲームを開始しています……。<break>": "<speed=0>The game is starting...<break>",
     "情報を確認しています……。<break>": "",
     "利用券の有効期間を　確認しています……。<break>": "",
     "サーバー情報を　確認しています……。<break>": "Checking server information...<break>",
