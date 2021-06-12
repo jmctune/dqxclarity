@@ -266,7 +266,7 @@
     "上書きされますが　よろしいですか？": " will be overwritten. Are you sure?",
     "<speed=0><%sL_PC_NICK>とは　すでに": "<speed=0><%sL_PC_NICK> is already",
     "フレンドになっています。": " a friend.",
-    "<speed=0><%sL_PC_NICK>への　さそいを　取り消した！": "I canceled my invitation to <speed=0><%sL_PC_NICK>!",
+    "<speed=0><%sL_PC_NICK>への　さそいを　取り消した！": "I cancelled my invitation to <speed=0><%sL_PC_NICK>!",
     "<speed=0><%sL_PC_NICK>への　フレンドのさそいを": "<speed=0>Friend request to <%sL_PC_NICK>",
     "取り消して　いいですか？<yesno><close>": " will be cancelled. Are you sure? <yesno><close>",
     "<speed=0><%sL_PC_NICK>を　フレンドに　さそいました。": "I invited <speed=0><%sL_PC_NICK> to be my friend.",
