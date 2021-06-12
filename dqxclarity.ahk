@@ -99,7 +99,7 @@ startTime := A_TickCount
 
 ;; Get number of files we're going to process
 numberOfFiles := 0
-Loop, json\_lang\ja\*.json
+Loop, json\_lang\en\*.json
   if InStr(A_LoopFileFullPath, ".dummy.json")
     continue
   else
@@ -142,7 +142,7 @@ if (dqx.processPatternScan(,,textHex*) == 0)
 
 ;; Loop through all files in json directory
 numberOfRunningProcesses := 0
-Loop, json\_lang\ja\*.json, F
+Loop, json\_lang\en\*.json, F
 {
   if InStr(A_LoopFileFullPath, ".dummy.json")
     continue

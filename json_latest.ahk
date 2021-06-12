@@ -19,7 +19,7 @@ Gui, Show, Autosize
 ;; Remove old JSON files and create tmp dir
 FileRemoveDir, %A_ScriptDir%\json, 1
 Sleep 100
-FileCreateDir, %A_ScriptDir%\json\_lang\ja
+FileCreateDir, %A_ScriptDir%\json\_lang\en
 Sleep 100
 FileRemoveDir, %A_ScriptDir%\tmp
 Sleep 100
@@ -37,7 +37,7 @@ Unz(unzipName, unzipLoc)
 GuiControl,, Progress, 50
 
 ;; Move files from extracted json folder into main directory
-FileMove, %A_ScriptDir%\dqxclarity-weblate\json\_lang\ja\*.json, %A_ScriptDir%\json\_lang\ja
+FileMove, %A_ScriptDir%\dqxclarity-weblate\json\_lang\en\*.json, %A_ScriptDir%\json\_lang\en
 GuiControl,, Progress, 75
 Sleep 100
 
@@ -48,7 +48,7 @@ FileDelete, %A_ScriptDir%\weblate.zip
 GuiControl,, Progress, 100
 
 ;; Finish up
-if FileExist("json\_lang\ja\*.json")
+if FileExist("json\_lang\en\*.json")
 {
   GuiControl,, Notes, JSON files updated.
   Sleep 2000

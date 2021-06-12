@@ -21,7 +21,7 @@ Download the latest version of `dqxclarity` from the [releases](https://github.c
 
 ## How it works
 
-In the `json\_lang\ja` folder is a structure of Japanese and English text. The Japanese text is converted from a utf-8 string to hex, then searched for in the active process's memory. When found, it replaces the hex values with its English equivalent.
+In the `json\_lang\en` folder is a structure of Japanese and English text. The Japanese text is converted from a utf-8 string to hex, then searched for in the active process's memory. When found, it replaces the hex values with its English equivalent.
 
 As an example, with a structure like the following:
 
