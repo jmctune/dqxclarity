@@ -1,26 +1,26 @@
 json\_lang\en\39.json,54 45 58 54 10 00 00 00 60 04 00 00 00 00 00 00 E3 82 AD,1
 json\_lang\en\41.json,54 45 58 54 10 00 00 00 30 00 00 00 00 00 00 00,1
 json\_lang\en\42.json,54 45 58 54 10 00 00 00 20 1F 00 00 00 00 00 00,1
-json\_lang\en\43.json,54 45 58 54 10 00 00 00 80 0D 00 00 00 00 00 00,1
-json\_lang\en\44.json,54 45 58 54 10 00 00 00 50 13 00 00 00 00 00 00,1
+json\_lang\en\places.json,54 45 58 54 10 00 00 00 80 0D 00 00 00 00 00 00,1
+json\_lang\en\train.json,54 45 58 54 10 00 00 00 50 13 00 00 00 00 00 00,1
 json\_lang\en\45_1.json,54 45 58 54 10 00 00 00 D0 EB 01 00 00 00 00 00,1
 json\_lang\en\45_2.json,54 45 58 54 10 00 00 00 D0 EB 01 00 00 00 00 00,1
 json\_lang\en\45_3.json,54 45 58 54 10 00 00 00 D0 EB 01 00 00 00 00 00,1
 json\_lang\en\45_4.json,54 45 58 54 10 00 00 00 D0 EB 01 00 00 00 00 00,1
-json\_lang\en\46.json,54 45 58 54 10 00 00 00 B0 EF 00 00 00 00 00 00 00 00,1
+json\_lang\en\dracky_announcements.json,54 45 58 54 10 00 00 00 B0 EF 00 00 00 00 00 00 00 00,1
 json\_lang\en\48.json,54 45 58 54 10 00 00 00 A0 5D 00 00 00 00 00 00 00 00,1
-json\_lang\en\49.json,54 45 58 54 10 00 00 00 60 0A 00 00 00 00 00 00 00 00,1
-json\_lang\en\50.json,54 45 58 54 10 00 00 00 90 0C 00 00 00 00 00 00 00 00,1
+json\_lang\en\level_up_and_resists.json,54 45 58 54 10 00 00 00 60 0A 00 00 00 00 00 00 00 00,1
+json\_lang\en\concierge.json,54 45 58 54 10 00 00 00 90 0C 00 00 00 00 00 00 00 00,1
 json\_lang\en\51.json,54 45 58 54 10 00 00 00 D0 3D 00 00 00 00 00 00 00 00,1
 json\_lang\en\52.json,54 45 58 54 10 00 00 00 60 0E 00 00 00 00 00 00 00 00,1
-json\_lang\en\53.json,54 45 58 54 10 00 00 00 D0 00 00 00 00 00 00 00 00 00,1
-json\_lang\en\54_1.json,54 45 58 54 10 00 00 00 50 FB 03 00 00 00 00 00 00 00,1
-json\_lang\en\54_2.json,54 45 58 54 10 00 00 00 50 FB 03 00 00 00 00 00 00 00,1
+json\_lang\en\craft_ranks.json,54 45 58 54 10 00 00 00 D0 00 00 00 00 00 00 00 00 00,1
+json\_lang\en\key_items_1.json,54 45 58 54 10 00 00 00 50 FB 03 00 00 00 00 00 00 00,1
+json\_lang\en\key_items_2.json,54 45 58 54 10 00 00 00 50 FB 03 00 00 00 00 00 00 00,1
 json\_lang\en\55.json,54 45 58 54 10 00 00 00 E0 06 00 00 00 00 00 00 00 00,1
 json\_lang\en\56.json,54 45 58 54 10 00 00 00 90 07 00 00 00 00 00 00 00 00,1
 json\_lang\en\57.json,54 45 58 54 10 00 00 00 20 07 00 00 00 00 00 00 00 00,1
 json\_lang\en\58.json,54 45 58 54 10 00 00 00 90 10 00 00 00 00 00 00 00 00,1
-json\_lang\en\59.json,54 45 58 54 10 00 00 00 C0 00 00 00 00 00 00 00 00 00 E3 82 A8,1
+json\_lang\en\crafting.json,54 45 58 54 10 00 00 00 C0 00 00 00 00 00 00 00 00 00 E3 82 A8,1
 json\_lang\en\60.json,54 45 58 54 10 00 00 00 40 04 00 00 00 00 00 00 00 00,1
 json\_lang\en\61.json,54 45 58 54 10 00 00 00 60 04 00 00 00 00 00 00 00 00 E3 82 BF,1
 json\_lang\en\62.json,54 45 58 54 10 00 00 00 80 8A 00 00 00 00 00 00 00 00,1
@@ -42,13 +42,16 @@ json\_lang\en\75.json,54 45 58 54 10 00 00 00 40 5E 00 00 00 00 00 00 00 00,1
 json\_lang\en\76.json,54 45 58 54 10 00 00 00 60 04 00 00 00 00 00 00 00 00 E3 82 AB,1
 json\_lang\en\77.json,54 45 58 54 10 00 00 00 60 0D 00 00 00 00 00 00 00 00,1
 json\_lang\en\78.json,54 45 58 54 10 00 00 00 20 3F 00 00 00 00 00 00 00 00,1
-json\_lang\en\79.json,54 45 58 54 10 00 00 00 F0 04 00 00 00 00 00 00 00 00,1
+json\_lang\en\team_friend_status.json,54 45 58 54 10 00 00 00 F0 04 00 00 00 00 00 00 00 00,1
 json\_lang\en\80.json,54 45 58 54 10 00 00 00 40 74 00 00 00 00 00 00 00 00,1
-json\_lang\en\81.json,54 45 58 54 10 00 00 00 90 02 00 00 00 00 00 00 00 0,1
+json\_lang\en\casino_navigation.json,54 45 58 54 10 00 00 00 90 02 00 00 00 00 00 00 00 0,1
 json\_lang\en\battle_tactics.json,54 45 58 54 10 00 00 00 F0 03 00 00 00 00 00 00 00 00,1
 json\_lang\en\classes_races.json,54 45 58 54 10 00 00 00 F0 01 00 00 00 00 00 00 00 00 E3 82 A8,2
 json\_lang\en\combat_messages.json,54 45 58 54 10 00 00 00 D0 83 00 00 00 00 00 00 00 00,1
-json\_lang\en\combat_chat.json,54 45 58 54 10 00 00 00 40 32 05 00,1
+json\_lang\en\combat_chat_1.json,54 45 58 54 10 00 00 00 40 32 05 00,1
+json\_lang\en\combat_chat_2.json,54 45 58 54 10 00 00 00 40 32 05 00,1
+json\_lang\en\combat_chat_3.json,54 45 58 54 10 00 00 00 40 32 05 00,1
+json\_lang\en\combat_chat_4.json,54 45 58 54 10 00 00 00 40 32 05 00,1
 json\_lang\en\dialog.json,54 45 58 54 10 00 00 00 30 A3 03 00 00 00 00 00,1
 json\_lang\en\error_codes.json,54 45 58 54 10 00 00 00 A0 33 00 00 00 00 00 00,2
 json\_lang\en\fishing.json,54 45 58 54 10 00 00 00 70 1C 00 00 00 00 00 00 00 00,1
@@ -117,7 +120,7 @@ json\_lang\en\tbd_3.json,54 45 58 54 10 00 00 00 90 05 00 00 00 00 00 00 00 00,1
 json\_lang\en\tbd_4.json,54 45 58 54 10 00 00 00 E0 05 00 00 00 00 00 00 00 00 E3 81 9F,1
 json\_lang\en\tbd_5.json,54 45 58 54 10 00 00 00 90 01 01 00 00 00 00 00,1
 json\_lang\en\tbd_6.json,54 45 58 54 10 00 00 00 50 02 00 00 00 00 00 00,1
-json\_lang\en\tbd_7.json,54 45 58 54 10 00 00 00 60 09 00 00 00 00 00 00 E3 83 84,1
+json\_lang\en\locations_places.json,54 45 58 54 10 00 00 00 60 09 00 00 00 00 00 00 E3 83 84,1
 json\_lang\en\tbd_8.json,54 45 58 54 10 00 00 00 30 07 00 00 00 00 00 00,1
 json\_lang\en\tbd_9.json,54 45 58 54 10 00 00 00 90 1C 00 00 00 00 00 00,1
 json\_lang\en\use_1.json,54 45 58 54 10 00 00 00 D0 F5 06 00 00 00 00 00 00 00,1

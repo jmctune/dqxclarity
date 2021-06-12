@@ -1,0 +1,22 @@
+{
+  "おしゃれさ <%+3dM_foodparam>": "おしゃれさ <%+3dM_foodparam>",
+  "おもさ <%+2dM_foodparam>": "おもさ <%+2dM_foodparam>",
+  "かいしん率 <%+.1fM_foodparam>%": "かいしん率 <%+.1fM_foodparam>%",
+  "かいふく魔 <%+2dM_foodparam>": "かいふく魔 <%+2dM_foodparam>",
+  "きようさ <%+3dM_foodparam>": "きようさ <%+3dM_foodparam>",
+  "こうげき力 <%+2dM_foodparam>": "こうげき力 <%+2dM_foodparam>",
+  "こうげき魔 <%+2dM_foodparam>": "こうげき魔 <%+2dM_foodparam>",
+  "しゅび力 <%+3dM_foodparam>": "しゅび力 <%+3dM_foodparam>",
+  "すばやさ <%+3dM_foodparam>": "すばやさ <%+3dM_foodparam>",
+  "光ダメージ <%.1fM_foodparam>%": "光ダメージ <%.1fM_foodparam>%",
+  "土ダメージ <%.1fM_foodparam>%": "土ダメージ <%.1fM_foodparam>%",
+  "最大ＨＰ <%+2dM_foodparam>": "最大ＨＰ <%+2dM_foodparam>",
+  "最大ＭＰ <%+2dM_foodparam>": "最大ＭＰ <%+2dM_foodparam>",
+  "氷ダメージ <%.1fM_foodparam>%": "氷ダメージ <%.1fM_foodparam>%",
+  "炎ダメージ <%.1fM_foodparam>%": "炎ダメージ <%.1fM_foodparam>%",
+  "経験値 <%+.1fM_foodparam>%": "経験値 <%+.1fM_foodparam>%",
+  "身かわし率 <%+.1fM_foodparam>%": "身かわし率 <%+.1fM_foodparam>%",
+  "闇ダメージ <%.1fM_foodparam>%": "闇ダメージ <%.1fM_foodparam>%",
+  "雷ダメージ <%.1fM_foodparam>%": "雷ダメージ <%.1fM_foodparam>%",
+  "風ダメージ <%.1fM_foodparam>%": "風ダメージ <%.1fM_foodparam>%"
+}
