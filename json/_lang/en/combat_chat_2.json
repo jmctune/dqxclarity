@@ -1563,7 +1563,7 @@
     "<%sB_ACTOR>の 必殺技！": "",
     "<%sB_ACTOR>の 行動が変化！": "",
     "<%sB_ACTOR>の行動が　変化した！": "",
-    "<%sB_ACTOR>は <%dB_VALUE> Pの経験値を かくとく！": "<%sB_ACTOR> acquires <%dB_VALUE> Exp Points received.",
+    "<%sB_ACTOR>は <%dB_VALUE> Pの経験値を かくとく！": "<%sB_ACTOR> received <%dB_VALUE> EXP!",
     "<%sB_ACTOR>は <%dB_VALUE> 個の願いのかけらを かくとく！": "",
     "<%sB_ACTOR>は <%sB_ACTION>の効果で 活性化！": "",
     "<%sB_ACTOR>は <%sB_ACTION>を おいた！": "",
