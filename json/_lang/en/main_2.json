@@ -115,7 +115,7 @@
     "<%sM_Monster>の合成方法": "How to synth <%sM_Monster>",
     "<%sM_MonsterName>から　<%sM_item>を　もらった！": "I got <%sM_item> from <%sM_MonsterName>!",
     "<%sM_MonsterName>をなでなでした！": "He patted <%sM_MonsterName>!",
-    "<%sM_PTMember>の返事を 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "I'm waiting for response from <%sM_PTMember> <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>",
+    "<%sM_PTMember>の返事を 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Waiting for party member response...",
     "<%sM_PTMember>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "I'm looking for <%sM_PTMember> <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>",
     "<%sM_Syougou><%sM_Hankaku><%sM_pc> の 戦いのきろく": "<%sM_Syougou><%sM_Hankaku><%sM_pc>'s battle record",
     "<%sM_Tairiku> スタンプカード": "<%sM_Tairiku> Stamp card",
