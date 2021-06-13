@@ -7,7 +7,7 @@
   "<%sL_DIVISION><%nL_AREA>丁目 <%nL_BANTI>番地": "",
   "<%sL_GREET_MESSAGE>": "",
   "<%sL_OWNER>の家|<%sM_houseComment>": "",
-  "<%sL_PC>が 帰宅しました。": "",
+  "<%sL_PC>が 帰宅しました。": "<%sL_PC> came home.",
   "<%sL_PC>が 遊びにきました。": "",
   "<%sL_PC>の家": "",
   "<%sL_REGION>住宅村": "",
