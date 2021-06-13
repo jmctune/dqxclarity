@@ -122,7 +122,7 @@
     "<%sM_pc>は　エテーネの村で　ともに過ごした|<kyodai_rel3>の名前と姿を　思いだした！ ": "",
     "<%sM_pc>は カジノコインを見つけたが|これ以上持てないので 元に戻した。": "",
     "<%sM_pc>は　ヒスイのカギを使って|宝箱を開けた。|ヒスイのカギは　光と共に砕け散った！<se Joutyu_SE 121>": "",
-    "<%sM_pc>は　ルーラストーンを使った！": "<%sM_pc> used a zoomstone!",
+    "<%sM_pc>は　ルーラストーンを使った！": "<%sM_pc> used a Zoomstone!",
     "<%sM_pc>は　仲間にしたモンスターを|<%sM_monster_name>と　名付けた。": "",
     "<%sM_pc>は　別チームのため　誘えません。": "<%sM_pc> I can't invite you. You're on a different team.",
     "<%sM_pc>は　同じチームのメンバーです。": "",
