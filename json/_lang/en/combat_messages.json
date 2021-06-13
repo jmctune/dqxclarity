@@ -459,7 +459,7 @@
     "解放アタック！|ロックを１つ解除した！": "",
     "解放アタック！|仲間を解放した！": "",
     "解放アタック！|誰も　捕まっていない！": "",
-    "討伐タイム　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>": "",
+    "討伐タイム　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>": "Defeat Time: <%dB_VALUE>min. <%sB_VALUE2>sec. <%sB_VALUE3>",
     "討伐報酬(紫色の宝箱)が 出現した！": "A purple treasure chest has appeared!",
     "討伐報酬（紫色の宝箱）が　出現した！": "A purple treasure chest has appeared!",
     "討伐報酬(紫色の宝箱)を かくとく！": "Take the purple treasure chest as a reward!",
