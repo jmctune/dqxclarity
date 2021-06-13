@@ -948,7 +948,7 @@
     "<speed=0>デスパワーが　溜まっていません！": "",
     "<speed=0>デスパワーが足りないので　使用できない！": "",
     "<speed=0>デスパワー解放が終わるまで　強化できません！": "",
-    "<speed=0>では　魔法の迷宮から出て　元の場所に|戻っても　よろしいですか？<yesno><close>": "",
+    "<speed=0>では　魔法の迷宮から出て　元の場所に|戻っても　よろしいですか？<yesno><close>": "<speed=0>Then, would you like to leave the Magic|Labyrinth?<yesno><close>",
     "<speed=0>どちらのキャラクターを　作り直しますか？<select_se_off>|あなたのキャラクター|兄弟キャラクター|<select_end>|<close>": "",
     "<speed=0>どちらのさそいを　取り消しますか？|<select_se_off>|なかまのさそい|フレンドのさそい|<select_end>|<break>": "",
     "<speed=0>どの　チームのさそいを　取り消しますか？<break>": "",

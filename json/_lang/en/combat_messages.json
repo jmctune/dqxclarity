@@ -271,7 +271,7 @@
     "<%sB_TARGET>は 宝箱を 落としていった！": "The enemy dropped a treasure chest!",
     "<%sB_TARGET>は 死の呪いで ちからつきた。": "<%sB_TARGET> has died from the curse.",
     "<%sB_TARGET>は|宝箱を　落としていった！": "The enemy|dropped a treasure chest!",
-    "<%sB_TARGET>を　たおした！": "You hit the <%sB_TARGET>!",
+    "<%sB_TARGET>を　たおした！": "<%sB_TARGET> defeated!",
     "<%sB_TARGET>を やっつけた！": "The enemy is defeated!",
     "<%sB_TARGET>を　やっつけた！": "The enemy is defeated!",
     "<%sB_TARGET>を捕まえた|のこり<%dB_VALUE>人！": "",
