@@ -19,7 +19,7 @@ Gui, Show, Autosize
 ;===============================================================================
 
 ;; Make sure /tmp is clean by deleting + re-creating, then move updater into /tmp.
-FileRemoveDir, %A_ScriptDir%\tmp
+FileRemoveDir, %A_ScriptDir%\tmp, 1
 Sleep 100
 FileCreateDir, %A_ScriptDir%\tmp
 Sleep 100
@@ -75,7 +75,7 @@ else
   GuiControl,, Progress, 100
   FileMove, %A_ScriptDir%\tmp\updater.exe, %A_ScriptDir%\updater.exe  ;; If failed, put updater back
   Sleep 100
-  FileRemoveDir, %A_ScriptDir%\tmp  ;; Remove /tmp folder
+  FileRemoveDir, %A_ScriptDir%\tmp, 1  ;; Remove /tmp folder
   message := "UPDATE FAILED! Version mismatch. Please update dqxclarity manually."
   GuiControl,, Notes, % message
   FileDelete, %A_ScriptDir%\dqxclarity.zip  ;; Delete the old file if it exists
