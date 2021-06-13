@@ -593,7 +593,7 @@
   "ダイヤ": "",
   "ダブリィコイン <%dL_USE_KPOINT>枚を キラバトエン <%dL_KIRA_NUM>本と 交換した。": "",
   "タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 合成に使った！": "",
-  "タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 投げ捨てた！": "",
+  "タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 投げ捨てた！": "\"<%sB_TAROT_ARCA> <%sB_TAROT_MONS>\" Tarot was thrown away!",
   "チームからはずす": "",
   "チームチャット不可": "",
   "チームに 入っていません": "",

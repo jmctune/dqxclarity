@@ -63,7 +63,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに 活をいれた！": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに 鉄球をとばした！": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eのチカラを吸収した！": "",
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを おうえんした！": "",
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを おうえんした！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e cheered on \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e!",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを かわいがった！": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを じっと見つめた。": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを なでた！": "",
