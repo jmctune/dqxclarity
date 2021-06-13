@@ -292,7 +292,7 @@
   "<%sM_item><%sM_plusnum>の 冥海の光玉を 冒険者ジグロウから受け取った！": "",
   "<%sM_item><%sM_plusnum>の 冥海の光玉を 冒険者ジグロウに渡した！": "",
   "<%sM_item><%sM_plusnum>を <%dM_item_num>個 取り出した。": "",
-  "<%sM_item><%sM_plusnum>を <%dM_item_num>個 手に入れた！": "",
+  "<%sM_item><%sM_plusnum>を <%dM_item_num>個 手に入れた！": "<%dM_item_num> <%sM_item>s <%sM_plusnum> received!",
   "<%sM_item><%sM_plusnum>を <%dM_item_num>個 預けた。": "",
   "<%sM_item><%sM_plusnum>を <%sM_item2><%sM_plusnum2>に 進化させた！": "",
   "<%sM_item><%sM_plusnum>を 取り出した。": "",
