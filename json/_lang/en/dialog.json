@@ -282,7 +282,7 @@
     "<speed=0><%sM_item>を　持っていないので|<%sM_item>による　復活はできません。|<break>": "",
     "<speed=0><%sM_item>を　捧げますか？<yesno><close>": "",
     "<speed=0><%sM_item>を　捨てますか？<yesno2><close>": "<speed=0>Throw away <%sM_item>?<yesno2><close>",
-    "<speed=0><%sM_item>を　捨てますか？|この手紙は　『郵便局のおもいで私書箱』で|いつでも　見ることができます。<yesno2><close>": "",
+    "<speed=0><%sM_item>を　捨てますか？|この手紙は　『郵便局のおもいで私書箱』で|いつでも　見ることができます。<yesno2><close>": "<speed=0>Throw away <%sM_item>? This letter can be viewed at any|time at the Post Office.<yesno2><close>",
     "<speed=0><%sM_item>を　捨てますか？|この手紙は　おもいで私書箱から見られません。|ご注意ください。<yesno2><close>": "",
     "<speed=0><%sM_item>を　泣く泣く投げ捨てた……。": "",
     "<speed=0><%sM_item>を　渡しますか？<yesno 2><close>": "",
