@@ -436,7 +436,7 @@
     "特技が|ふうじこめられている！": "Your skills|are locked in!",
     "特訓スタンプを <%dB_VALUE> 個 かくとく！": "You received <%dB_VALUE> special training stamps!",
     "特訓スタンプを　<%dB_VALUE> 個　かくとく！": "You received <%dB_VALUE> special training stamps!",
-    "相手が いなくなった": "The other party is gone",
+    "相手が いなくなった": "The enemy is gone.",
     "相手に たどりつけなかった": "You couldn't reach the other party",
     "相手を 見失った": "You lost the others",
     "経験値 <%dB_VALUE> Pが　旅のコンシェルジュに送られた！": "<%dB_VALUE> EXP has been sent to the travel concierge!",
