@@ -94,8 +94,15 @@ Loop, %iterations%
         ; infinite loop until we OOM, so check this here.
         if (en_len > jp_len)
         {
-          MsgBox String too long. Please fix and try again.`nFile: %1%`nJP string: %jp_raw%`nEN string: %en_raw%`n
-          ExitApp
+          component := A_ScriptDir . "\" . jsonToTranslate
+          SplitPath, component,,,,bareFileName,
+          MsgBox, 4,,String too long. Please fix and try again.`nFile: %1%`nJP string: %jp_raw%`nEN string: %en_raw%`n`nDo you want to automatically search for the translation in weblate?
+          IfMsgBox Yes
+          {
+            webpage := "https://weblate.ethene.wiki/translate/dragon-quest-x/" . bareFileName . "/en/?offset=1&q=" . jp_raw . "&sort_by=-priority%2Cposition&checksum="
+            Run, %webpage%
+          }
+          continue
         }
 
         ;; A lot of dialog text has spaces and line breaks in them, so we need to handle
