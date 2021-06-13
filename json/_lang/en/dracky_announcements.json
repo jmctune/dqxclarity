@@ -17,7 +17,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが <%dC_H>時間<%dC_M>分 仲間に加わった！": "\\s<%sC_PC>\\m<%sC_ID>\\e joined the party for <%dC_H>h<%dC_M>m!",
     "\\s<%sC_PC>\\m<%sC_ID>\\eが <%dC_M>分 仲間に加わった！": "\\s<%sC_PC>\\m<%sC_ID>\\e joined the party for <%dC_M> minutes!",
     "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sC_ITEM>を 捧げた": "",
-    "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sC_JOB>で　仲間に加わった!": "\\s<%sC_PC>\\m<%sC_ID>\\e has joined the party for <%sC_JOB>!",
+    "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sC_JOB>で　仲間に加わった!": "\\s<%sC_PC>\\m<%sC_ID>\\e joined the party for <%sC_JOB>!",
     "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sC_JOB>で<%dC_M>分 仲間に加わった!": "",
     "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sC_MAP>へ降りました。": "",
     "\\s<%sC_PC>\\m<%sC_ID>\\eが あなたと ふしぎなすれちがいを達成！": "",
