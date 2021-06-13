@@ -955,7 +955,7 @@
     "部活強化週間にて <%sC_STR>部の課題が達成されました": "",
     "郵便箱がいっぱいです 郵便を受けとってください！": "",
     "郵便箱に \\s<%sC_PC>\\m<%sC_ID>\\eから 何か届きました！": "",
-    "郵便箱に <%dC_NUM>件の 新しいお届け物があります": "You have <%dC_NUM> letters in your mailbox.",
+    "郵便箱に <%dC_NUM>件の 新しいお届け物があります": "You have <%dC_NUM> letter(s) in your mailbox.",
     "郵便箱に 何か届いています。": "Something arrived in the mail!",
     "郵便箱に 何か届きました。": "Something arrived in the mail!",
     "酒場前の中央広場に 物資を届けましたよ！": "",
