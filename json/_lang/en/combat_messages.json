@@ -338,7 +338,7 @@
     "スキルポイントの　かくとく　なし。": "No skill points received.",
     "スキルポイントは　さくせんコマンドの|スキルふりわけで　できます！": "Skill points can be reallocated|in the Operation command!",
     "スコアが <%dB_VALUE>P 減った。": "Score decreased by <%dB_VALUE>.",
-    "ターン消費しなかった！": "You didn't consume a turn!",
+    "ターン消費しなかった！": "Turn was not used!",
     "タロットが|ふうじこめられている！": "The Tarot|is full!",
     "タロットを|消費しなかった！": "You did not|consume a Tarot!",
     "ちいさなメダルを <%dB_VALUE>枚 かくとく！": "You received <%dB_VALUE> mini medals!",
