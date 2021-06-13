@@ -148,7 +148,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eへの さそいが 取り消されました": "",
     "\\s<%sC_PC>\\m<%sC_ID>\\eへの返事を しませんでした": "",
     "\\s<%sC_TARGET>\\m<%sC_TARGET_ID>\\eが 捕まったニャー！ のこり<%dC_NUM>人ニャー！": "",
-    "※サポート仲間は自動的に待機中になります。|※なかまコマンドでリーダーのサーバーに移動できます。": "*Support party members will be put on standby.|Use the \"Party\" menu command to move to the party leader's server.",
+    "※サポート仲間は自動的に待機中になります。|※なかまコマンドでリーダーのサーバーに移動できます。": "*Support party members will be put on standby.|*Use the \"Party\" menu to move to leader's server.",
     "※参加人数が集まったら自動でパーティが組まれます。|※３分以内に集まらなければパーティは組まれません。": "",
     "<%dC_DAY>日後 期限が切れる お宝の写真があります": "",
     "<%dC_MONTH>月<%dC_DAY>日<%dC_H>時<%dC_M>分頃から メンテナンスです": "",
