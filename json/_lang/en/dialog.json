@@ -350,7 +350,7 @@
     "<speed=0><%sM_pc>は　あと　<%dW_ADWAIT>分|さそいを　受けられません。": "",
     "<speed=0><%sM_pc>は　いまは|パーティリーダーに　なれない！": "",
     "<speed=0><%sM_pc>は　すでに　仲間に入っています。": "",
-    "<speed=0><%sM_pc>は　ひとりプレイ中のため|仲間に　さそえません！": "",
+    "<speed=0><%sM_pc>は　ひとりプレイ中のため|仲間に　さそえません！": "<speed=0><%sM_pc>is currently playing alone!|They can't be invited to a party！",
     "<speed=0><%sM_pc>は　他のパーティに入っています。|<%sM_pc>のパーティリーダー　<%sM_pc2>に|仲間にならないか　提案しますか？<yesno><close>": "",
     "<speed=0><%sM_pc>は　仲間から抜けた！": "",
     "<speed=0><%sM_pc>は　戦っているため|いまは　仲間から　はずせません。": "",
