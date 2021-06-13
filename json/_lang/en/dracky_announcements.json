@@ -102,7 +102,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 魔法の迷宮に さそわれました！": "Magic Labyrinth invite from \\s<%sC_PC>\\m<%sC_ID>\\e !",
     "\\s<%sC_PC>\\m<%sC_ID>\\eから<%sC_JOB>で仲間に誘われた!": "",
     "\\s<%sC_PC>\\m<%sC_ID>\\eから<%sC_JOB>で仲間参加希望がきた!": "",
-    "\\s<%sC_PC>\\m<%sC_ID>\\eから|依頼書クエストに　誘われました！|この依頼書クエストを　受けますか？|<select>|うける|やめる|<select_end><break>": "",
+    "\\s<%sC_PC>\\m<%sC_ID>\\eから|依頼書クエストに　誘われました！|この依頼書クエストを　受けますか？|<select>|うける|やめる|<select_end><break>": "From \\s<%sC_PC>\\m<%sC_ID>\\e|You've been invited to do a request quest!|Do you want to accept this request?|<select>|Accept|Decline|<select_end><break>",
     "\\s<%sC_PC>\\m<%sC_ID>\\eからチームのリーダー交代を頼まれました": "",
     "\\s<%sC_PC>\\m<%sC_ID>\\eからの コロシアムのさそいを 断りました": "",
     "\\s<%sC_PC>\\m<%sC_ID>\\eからの チームのさそいが取り消されました": "",
