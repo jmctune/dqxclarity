@@ -213,7 +213,7 @@
   "<%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>の こうげき！": "",
   "<%sL_PLAYER_NAME>は <%sL_BATOEN_NAME>のバトエンを 取り出した！": "",
   "<%sL_PLAYER_NAME>は <%sL_ERASER_NAME>を 使用した！": "",
-  "<%sL_PLAYER_NAME>は バトエンを <%sL_BATOEN_NAME>に チェンジした！": "",
+  "<%sL_PLAYER_NAME>は バトエンを <%sL_BATOEN_NAME>に チェンジした！": "<%sL_PLAYER_NAME> changed to <%sL_BATOEN_NAME>!",
   "<%sL_PRISM>の <%sL_SLOT>を 元の色に戻した！": "",
   "<%sL_PRISM>の <%sL_SLOT>を|<%sL_C_COLOR>に カラーリングした！": "",
   "<%sL_PRISM>の <%sL_SLOT>を|<%sL_C_COLOR>に カラーリングした！|<%dL_GOLD> G支払った。": "",
