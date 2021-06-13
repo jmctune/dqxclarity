@@ -64,7 +64,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_TARGET>を やっつけた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e The enemy is defeated!",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_TARGET>を 占領した！": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ＭＰが 足りなかった。": "",
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ＭＰを消費しなかった！": "",
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ＭＰを消費しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't use any MP!",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは キャッチハンドを 1つ消した！": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ゴールドが 足りなかった。": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは スカウトに失敗した。": "",
