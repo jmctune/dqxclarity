@@ -297,7 +297,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eが命令した 死霊の守りの効果がおわった！": "",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eが命令した 死霊の導きの効果がおわった！": "",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eたちは 生き返った！": "",
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに <%dB_VALUE>のダメージ！": "",
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに <%dB_VALUE>のダメージ！": "<%dB_VALUE> damage to \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e!",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに ＨＰがへっていく 呪いを かけた！": "",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに ＨＰとＭＰがへっていく 呪いを かけた！": "",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに ＭＰがへっていく 呪いを かけた！": "",
