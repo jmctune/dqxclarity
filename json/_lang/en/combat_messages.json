@@ -58,7 +58,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>を 中断した。": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を <%dB_VALUE>個 使った！": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を 使うのをやめた。": "",
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を 手に入れた！": "",
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を 手に入れた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%sB_ITEM>!",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_JACK_NAME>の心を 使うのをやめた。": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_TARGET>たちを やっつけた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e The enemies are defeated!",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_TARGET>を やっつけた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e The enemy is defeated!",
