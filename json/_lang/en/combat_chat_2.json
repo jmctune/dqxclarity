@@ -495,7 +495,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションが 20あがった！": "",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションが 50あがった！": "",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションが 5あがった！": "",
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションが もとにもどった。": "",
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションが もとにもどった。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e Tension returned to normal.",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションの消費が もとにもどった！": "",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションは あがらなかった！": "",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションバーンの効果が きえた！": "",
