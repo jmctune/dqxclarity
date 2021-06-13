@@ -84,7 +84,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 仲間に 招待されました！": "\\s<%sC_PC>\\m<%sC_ID>\\e sent a party invite!",
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 仲間になれる時間の確認が来ました": "",
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 依頼書クエストに さそわれました！": "",
-    "\\s<%sC_PC>\\m<%sC_ID>\\eから 取り引きを 申し込まれました": "",
+    "\\s<%sC_PC>\\m<%sC_ID>\\eから 取り引きを 申し込まれました": "Trade request from \\s<%sC_PC>\\m<%sC_ID>\\e!",
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 同盟相手に さそわれました！": "",
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 四の災壇の挑戦に誘われました！": "",
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 大富豪に 誘われました!": "",
