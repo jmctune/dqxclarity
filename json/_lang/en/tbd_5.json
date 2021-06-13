@@ -135,7 +135,7 @@
   "<%sC_PC>は <%sM_item>を 泣く泣く投げ捨てた……。": "",
   "<%sC_PC>は <%sM_item>を手にとった。<br>|<%sM_item> <%dM_item_num>個は<%sC_PC>の手に　のったとたんに|おともなく　くずれさった。": "",
   "<%sC_PC>は <%sM_item>を手にとった。<br>|<%sM_item>は<%sC_PC>の手に　のったとたんに|おともなく　くずれさった。": "",
-  "<%sC_PC>は ちいさなメダルを <%dM_item_num>枚 手に入れた！": "",
+  "<%sC_PC>は ちいさなメダルを <%dM_item_num>枚 手に入れた！": "<%sC_PC> received <%dM_item_num> Mini Medals!",
   "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>と <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>を合成した！": "",
   "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>と <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>を合成して|<%sL_ACCE_ITEM><%sL_PLUSNUM_3>になった！": "",
   "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>を 合成した！": "",
