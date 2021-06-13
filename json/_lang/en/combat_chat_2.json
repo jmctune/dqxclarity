@@ -261,7 +261,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 超暴走魔方陣を つくりだした！": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 身を守った！": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 軽快な ステップをした！": "",
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 逃げだした。": "",
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 逃げだした。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e Ran away.",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 逃げだせなかった・・・": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 通常戦もーどに 移行した！": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 野菜に 姿を変えた！": "",
