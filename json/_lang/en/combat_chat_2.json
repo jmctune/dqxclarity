@@ -1863,7 +1863,7 @@
     "ＨＰリンク": "HP Link",
     "ＨＰリンクがきれた": "",
     "ＨＰリンクした！": "",
-    "ＨＰリンクで \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE>のダメージをかわりにうけた！": "",
+    "ＨＰリンクで \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE>のダメージをかわりにうけた！": "From HP Link, \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e took <%dB_VALUE> damage instead!",
     "ＨＰを回復しつつ 盾ガード時ＨＰが 回復する効果付与": "",
     "ＨＰ回復がおわった": "",
     "ＨＰ回復する 魔法陣を作る": "",
