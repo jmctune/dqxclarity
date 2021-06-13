@@ -11,7 +11,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\e とのダブルすれちがいを 達成しました！": "",
     "\\s<%sC_PC>\\m<%sC_ID>\\eが  \\s<%sC_PC2>\\m<%sC_ID2>\\eの入隊を断りました": "",
     "\\s<%sC_PC>\\m<%sC_ID>\\eが  \\s<%sC_PC2>\\m<%sC_ID2>\\eの入隊を許可しました": "",
-    "\\s<%sC_PC>\\m<%sC_ID>\\eが \\s<%sC_PC2>\\m<%sC_ID2>\\eのルームから抜けました": "\\s<%sC_PC>\\m<%sC_ID>\\e has been kicked from \\s<%sC_PC>\\m<%sC_ID>\\e's room.",
+    "\\s<%sC_PC>\\m<%sC_ID>\\eが \\s<%sC_PC2>\\m<%sC_ID2>\\eのルームから抜けました": "\\s<%sC_PC>\\m<%sC_ID>\\e has left \\s<%sC_PC>\\m<%sC_ID>\\e's room.",
     "\\s<%sC_PC>\\m<%sC_ID>\\eが \\s<%sC_PC2>\\m<%sC_ID2>\\eのルームに参加しました！": "\\s<%sC_PC>\\m<%sC_ID>\\e has joined \\s<%sC_PC2>\\m<%sC_ID2>\\e's room!",
     "\\s<%sC_PC>\\m<%sC_ID>\\eが <%dC_H>時間 仲間に加わった！": "",
     "\\s<%sC_PC>\\m<%sC_ID>\\eが <%dC_H>時間<%dC_M>分 仲間に加わった！": "",
