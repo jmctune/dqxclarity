@@ -298,7 +298,7 @@
   "<%sM_item><%sM_plusnum>を 取り出した。": "",
   "<%sM_item><%sM_plusnum>を 手に入れた！": "You found <%sM_item> <%sM_plusnum>!",
   "<%sM_item><%sM_plusnum>を 預けた。": "",
-  "<%sM_item>を <%dM_item_num>個 手に入れた！": "",
+  "<%sM_item>を <%dM_item_num>個 手に入れた！": "<%dM_item_num> <%sM_item>s received!",
   "<%sM_item>を <%dM_item_num>個 消費した。": "",
   "<%sM_item>を <%dM_item_num>個 錬金釜から取り出した！": "",
   "<%sM_item>を <%dM_item_num>個 錬金釜に入れた！": "",
