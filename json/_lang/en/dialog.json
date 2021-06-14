@@ -1043,7 +1043,7 @@
     "<speed=0>七夕の短冊に　なにも書かれていません。|なにかを書いてから　かざりつけをしてください。": "",
     "<speed=0>七夕の短冊を１枚使って　願い事を書きます。|よろしいですか？<yesno><close>": "",
     "<speed=0>上記の内容で送信してもよろしいですか？|<color_yellow>※システム情報も一緒に送られます。<color_white><yesno><close>": "",
-    "<speed=0>下のあなたの目的を　相手の目的と合わせますか？|　大目的：<%sM_Purpose>|　小目的：<%sM_Purpose2>|<yesno><close>": "",
+    "<speed=0>下のあなたの目的を　相手の目的と合わせますか？|　大目的：<%sM_Purpose>|　小目的：<%sM_Purpose2>|<yesno><close>": "<speed=0>Match your goal with the other party's?|　Main Goal: <%sM_Purpose>|　Sm. Goal: <%sM_Purpose2>|<yesno><close>",
     "<speed=0>不思議な　チカラを　感じる石がある。|<select_se_off>|転職する|閃手を見る|やめる|<select_end>|<close>": "",
     "<speed=0>不思議の魔塔　休息の間にいないため|さそいを　受けられません。": "",
     "<speed=0>不思議の魔塔　休息の間にいない仲間と|一緒に　冒険することはできません。|<br>|一緒に行かない人は　ここで|仲間から　はずれますが　よろしいですか？<yesno 2><close>": "",
