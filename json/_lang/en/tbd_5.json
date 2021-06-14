@@ -677,7 +677,7 @@
   "まわりにチャット不可：<%sM_speaker>「<%sM_chat>」": "",
   "まわりにチャット不可：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": "",
   "みぎて": "",
-  "モーモンバザーから 売り上げ金 <%dL_GOLD> Gを 受け取った！": "",
+  "モーモンバザーから 売り上げ金 <%dL_GOLD> Gを 受け取った！": "Received sales of <%dL_GOLD> G from the Sanguini Bazaar!",
   "モーモンバザーで <%sL_ITEM><%sL_PLUSNUM>を <%dL_NEDAN> Gで販売！": "",
   "モーモンバザーで販売していた <%sL_ITEM><%sL_PLUSNUM>を 取りやめた。": "",
   "モンスター酒場で <%sM_item>を <%nM_item_num>個 手に入れた！": "",
