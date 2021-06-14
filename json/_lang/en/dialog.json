@@ -1187,7 +1187,7 @@
     "<speed=0>指定の条件で　同じマップのキャラを検索中です。|しばらく　お待ちください……。|（最大30秒ほどかかります。）<break>": "",
     "<speed=0>捧げているアイテムは　捨てられません！": "",
     "<speed=0>探索済みのため　黄金の秘宝を獲得できませんが|<%sEV_LUA_STRING1>の前まで　移動しますか？|あと<%nEV_LUA_NUM_1>日で　獲得できるようになります。|<yesno><break>": "",
-    "<speed=0>操作を選んでください。|<select_se_off>|コメントを変更する|絵葉書を書く|ロックする|削除する|<select_end>|<close>": "",
+    "<speed=0>操作を選んでください。|<select_se_off>|コメントを変更する|絵葉書を書く|ロックする|削除する|<select_end>|<close>": "<speed=0>Please select an option.|<select_se_off>|Add a Comment|Write Postcard|Lock|Delete|<select_end>|<close>",
     "<speed=0>操作を選んでください。|<select_se_off>|コメントを変更する|絵葉書を書く|ロックを解除する|<select_end>|<close>": "",
     "<speed=0>救護室に　戻りますか？|フェルドは　失いません。<yesno2><close>": "Return to the first aid room? You won't lose Feld.<yesno2><close>",
     "<speed=0>新しい<%sM_action>をつくると　いちばん|古いものが消えますが　よろしいですか？|<yesno><close>": "<speed=0>Creating a new <%sM_action> causes the old one to disappear. Is this okay?<yesno><close>",
