@@ -1,7 +1,7 @@
 {
     "<%nC_NUMBER1>分だけ|仲間に加わった！": "Joined the party for <%nC_NUMBER1> minutes!",
-    "<%nC_NUMBER1>時間<%nC_NUMBER2>分だけ|仲間に加わった！": "",
-    "<%nC_NUMBER1>時間だけ|仲間に加わった！": "",
+    "<%nC_NUMBER1>時間<%nC_NUMBER2>分だけ|仲間に加わった！": "Joined the party for <%nC_NUMBER1>hr. <%nC_NUMBER2>min.!",
+    "<%nC_NUMBER1>時間だけ|仲間に加わった！": "Joined the party for <%nC_NUMBER1> hours!",
     "<%sC_STR1>！": "",
     "<%sC_STR1>|<%sC_STR2>ができた！": "",
     "<%sC_STR1>|の錬金が大成功した！": "",
@@ -78,7 +78,7 @@
     "レンジャーになった！": "",
     "上級を選んだ！": "",
     "中級を選んだ！": "",
-    "仲間に加わった！": "",
+    "仲間に加わった！": "Joined the party!",
     "僧侶になった！": "",
     "初級を選んだ！": "",
     "回答済み！": "",
