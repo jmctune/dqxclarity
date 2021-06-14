@@ -1,8 +1,8 @@
 {
-    "　→ 強敵ボーナス +<%dB_VALUE> P": "",
-    "　→ベストスマイルボーナス +<%dB_VALUE> P": "",
-    "　さいだいＨＰ +<%sB_VALUE> (<%sB_VALUE2>→<%sB_VALUE3>)　すばやさ     +<%sB_VALUE4> (<%sB_VALUE5>→<%sB_VALUE6>)": "",
-    "　さいだいＭＰ +<%sB_VALUE> (<%sB_VALUE2>→<%sB_VALUE3>)　きようさ     +<%sB_VALUE4> (<%sB_VALUE5>→<%sB_VALUE6>)": "",
+    "　→ 強敵ボーナス +<%dB_VALUE> P": "　→ Strong Enemy Bonus +<%dB_VALUE> EXP",
+    "　→ベストスマイルボーナス +<%dB_VALUE> P": "　→Best Smile Bonus +<%dB_VALUE> EXP",
+    "　さいだいＨＰ +<%sB_VALUE> (<%sB_VALUE2>→<%sB_VALUE3>)　すばやさ     +<%sB_VALUE4> (<%sB_VALUE5>→<%sB_VALUE6>)": "　Max HP +<%sB_VALUE> (<%sB_VALUE2>→<%sB_VALUE3>)　Agility +<%sB_VALUE4> (<%sB_VALUE5>→<%sB_VALUE6>)",
+    "　さいだいＭＰ +<%sB_VALUE> (<%sB_VALUE2>→<%sB_VALUE3>)　きようさ     +<%sB_VALUE4> (<%sB_VALUE5>→<%sB_VALUE6>)": "　Max MP +<%sB_VALUE> (<%sB_VALUE2>→<%sB_VALUE3>)　Deftness +<%sB_VALUE4> (<%sB_VALUE5>→<%sB_VALUE6>)",
     "　ちから       +<%sB_VALUE> (<%sB_VALUE2>→<%sB_VALUE3>)　こうげき魔力 +<%sB_VALUE4> (<%sB_VALUE5>→<%sB_VALUE6>)": "",
     "　なにも かくとく しなかった。": "",
     "　みのまもり   +<%sB_VALUE> (<%sB_VALUE2>→<%sB_VALUE3>)　かいふく魔力 +<%sB_VALUE4> (<%sB_VALUE5>→<%sB_VALUE6>)": "",
