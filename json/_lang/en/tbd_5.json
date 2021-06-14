@@ -765,7 +765,7 @@
   "必要な素材            必要/  所持": "",
   "思い出アルバムに 写真を保存しました。": "The photo has been saved in your memory album.",
   "思い出アルバムへの保存に 失敗しました。": "",
-  "所持G <%dM_BEFORE_GOLD> G → <%dM_AFTER_GOLD> G": "",
+  "所持G <%dM_BEFORE_GOLD> G → <%dM_AFTER_GOLD> G": "Owned G <%dM_BEFORE_GOLD> G → <%dM_AFTER_GOLD> G",
   "手数料として <%dM_gold> Gを 支払った。": "Paid <%dM_gold> G as a fee.",
   "授業を受けて <%sL_TICKET_NAME>を <%nM_NUM>枚 消費した！": "",
   "撃破玉のスタックが　<%dM_STACK>になった！": "",
