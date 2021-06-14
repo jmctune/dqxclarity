@@ -203,7 +203,7 @@
   "<%sL_OWNER>の畑から ふたつの<%sL_ITEM>を 摘んだ！": "",
   "<%sL_OWNER>の畑に <%sL_ITEM>を まいた！": "",
   "<%sL_OWNER>の畑に <%sL_ITEM>を 使った！": "",
-  "<%sL_OWNER>の畑に 水を　あげた！": "",
+  "<%sL_OWNER>の畑に 水を　あげた！": "Watered <%sL_OWNER>'s garden!",
   "<%sL_OWNER>の畑の　作物をぬいて　やりなおした！": "",
   "<%sL_OWNER>の畑の　花をぬいて　やりなおした！": "",
   "<%sL_OWNER>は <%sL_NAME>を なでた！": "",
