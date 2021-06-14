@@ -63,7 +63,7 @@
   "<speed=0>|<%sM_stamp>が　使えるようになった！": "",
   "<speed=0>|<%sM_stamp>は　すでに使えるようだ。": "",
   "<speed=0>|<pc>は|<%sM_item>を|スタンプリストに入れた。": "",
-  "<speed=0>すでに　元気タイム中です！|<%sM_item>を使うと　時間と効果が|上書きされますが　本当に使いますか？<yesno 2><close>": "",
+  "<speed=0>すでに　元気タイム中です！|<%sM_item>を使うと　時間と効果が|上書きされますが　本当に使いますか？<yesno 2><close>": "<speed=0>You're already in Bonus Time!|If you use <%sM_item>, your remaining time|will be overwritten. Is this okay?<yesno 2><close>",
   "アクセサリー合成屋で 伝承して|<%sL_KOUKA>の効果を付けた。": "",
   "アクセサリー合成屋で 合成して|<%sL_KOUKA>の効果を付けた。": "",
   "カジノ祭りのスロット": "",
