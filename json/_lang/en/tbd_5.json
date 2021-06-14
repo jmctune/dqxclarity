@@ -81,7 +81,7 @@
   "\\s<%sC_PC>\\m<%sC_ID>\\eを チームにさそいました。": "",
   "\\s<%sC_PC>\\m<%sC_ID>\\eを ブラックリストからはずした。": "",
   "\\s<%sC_PC>\\m<%sC_ID>\\eを ブラックリストに追加した。": "",
-  "\\s<%sC_PC>\\m<%sC_ID>\\eを フレンドにさそいました。": "",
+  "\\s<%sC_PC>\\m<%sC_ID>\\eを フレンドにさそいました。": "Sent a friend request to \\s<%sC_PC>\\m<%sC_ID>\\e.",
   "\\s<%sC_PC>\\m<%sC_ID>\\eを 仲間にさそいました。": "",
   "→<%sM_slime_name_1>は　スタミナが<%dM_Damage>回復した！": "",
   "→<%sM_slime_name_1>は　スタミナが切れてしまった！": "",
