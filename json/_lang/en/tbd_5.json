@@ -1,5 +1,5 @@
 {
-  " → 『<%sL_ACTION_NAME>』": "",
+  " → 『<%sL_ACTION_NAME>』": " → \"<%sL_ACTION_NAME>\"",
   "　→ <%sL_num>を選択": "",
   " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>が 復活した！": "",
   " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>に <%dM_Damage_1>のダメージ！": " →<%dM_Damage_1> to <%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME>!",
