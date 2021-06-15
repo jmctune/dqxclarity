@@ -1190,7 +1190,7 @@
     "<speed=0>操作を選んでください。|<select_se_off>|コメントを変更する|絵葉書を書く|ロックする|削除する|<select_end>|<close>": "<speed=0>Please select an option.|<select_se_off>|Add a Comment|Write Postcard|Lock|Delete|<select_end>|<close>",
     "<speed=0>操作を選んでください。|<select_se_off>|コメントを変更する|絵葉書を書く|ロックを解除する|<select_end>|<close>": "<speed=0>Please select an option.|<select_se_off>|Add a Comment|Write Postcard|Unlock|<select_end>|<close>",
     "<speed=0>救護室に　戻りますか？|フェルドは　失いません。<yesno2><close>": "Return to the first aid room? You won't lose Feld.<yesno2><close>",
-    "<speed=0>新しい<%sM_action>をつくると　いちばん|古いものが消えますが　よろしいですか？|<yesno><close>": "<speed=0>Creating a new <%sM_action> causes the old one to disappear. Is this okay?<yesno><close>",
+    "<speed=0>新しい<%sM_action>をつくると　いちばん|古いものが消えますが　よろしいですか？|<yesno><close>": "<speed=0>Creating a new <%sM_action> causes the old one to|disappear. Is this okay?<yesno><close>",
     "<speed=0>新しいバクダンをつくると　いちばん|古いものが消えますが　よろしいですか？|<yesno><close>": "<speed=0>Is it okay to replace your current bomb with a new one?<yesno><close>",
     "<speed=0>新しいボディガードを呼ぶと|今のボディガードが消えますが　よろしいですか？|<yesno><close>": "<speed=0>Is it okay to replace your current bodyguard with a new one?<yesno><close>",
     "<speed=0>新しいリレミトゲートをつくると　いちばん|古いものが消えますが　よろしいですか？|<yesno><close>": "<speed=0>If you create a new Evac gate, your|oldest one will disappear. Is that okay?<yesno><close>",
