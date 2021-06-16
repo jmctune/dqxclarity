@@ -105,7 +105,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を ふりかざした！": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を ふりまいた！": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を 使った！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e used <%sB_ITEM>!",
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_JACK_NAME>の心を 使った！": "",
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_JACK_NAME>の心を 使った！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e used <%sB_JACK_NAME>'s heart!",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは Ｐ８９０に姿を変えた！": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは Ｓグレネーどりを 召喚した！": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは アイテムを置いた！": "",
