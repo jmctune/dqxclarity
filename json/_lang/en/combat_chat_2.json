@@ -1550,7 +1550,7 @@
     "<%sB_ACTOR>が 何かを盗みとった！ 勝利時ボーナス確定！": "",
     "<%sB_ACTOR>が 敵の注意をひきつけた！": "",
     "<%sB_ACTOR>が 盟友の盾を発動！": "",
-    "<%sB_ACTOR>から <%sB_TARGET>に いいね！": "",
+    "<%sB_ACTOR>から <%sB_TARGET>に いいね！": "<%sB_ACTOR> gave a like to <%sB_TARGET>!",
     "<%sB_ACTOR>から <%sB_TARGET>に エール！": "",
     "<%sB_ACTOR>から <%sB_TARGET>に ハロイーネ！": "",
     "<%sB_ACTOR>に 灼熱のエネルギーが 集まっていく！ ダメージを与えることで 止められそうだ……。": "",
