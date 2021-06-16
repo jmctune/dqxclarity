@@ -1574,7 +1574,7 @@
     "<%sB_ACTOR>は <%sB_ACTION>を 解き放つ！": "",
     "<%sB_ACTOR>は <%sB_ACTION>を使った": "<%sB_ACTOR> used <%sB_ACTION>.",
     "<%sB_ACTOR>は <%sB_EXTRA>を 盗みとった！": "<%sB_ACTOR> stole <%sB_EXTRA>!",
-    "<%sB_ACTOR>は <%sB_EXTRA>を 自分のものにした！": "",
+    "<%sB_ACTOR>は <%sB_EXTRA>を 自分のものにした！": "<%sB_ACTOR> made their own <%sB_EXTRA>!",
     "<%sB_ACTOR>は <%sB_ITEM>をふりまいた！": "",
     "<%sB_ACTOR>は <%sB_TARGET_RPL>に <%sB_ACTION>を となえた！": "<%sB_ACTOR> casts <%sB_ACTION> on <%sB_TARGET_RPL>!",
     "<%sB_ACTOR>は <%sB_TARGET_RPL>に <%sB_ACTION>を ふりかざした！": "",
