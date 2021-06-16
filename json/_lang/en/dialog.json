@@ -169,7 +169,7 @@
     "<color_yellow>不正なプレイに　該当する行為をおこなったため|現在　開催されている　バトルグランプリへの|参加が　制限されております。": "",
     "<pc>は　<%sM_item><%sM_plusnum>が|封印された　冥海の光玉を手に入れた！<se_nots System 7>": "",
     "<pc>は　<%sM_useitem>を使って|宝箱の封印を　解いた！|<%sM_useitem>を　消費した。": "",
-    "<pc>は　強戦士の書を使った。|どの章を　開きますか？|<select>|強モードボスの章|試練の門のボスの章|同盟バトルの章|<select_end><close>": "",
+    "<pc>は　強戦士の書を使った。|どの章を　開きますか？|<select>|強モードボスの章|試練の門のボスの章|同盟バトルの章|<select_end><close>": "<pc> used the Book of Strong Warriors.|Open which chapter?|<select>|Strong Boss|Trial Gate|Alliance Battle|<select_end><close>",
     "<pipipi_high><%sM_FreeText><break>": "",
     "<pipipi_low><%sM_FreeText><break>": "",
     "<pipipi_mid><%sM_FreeText><break>": "",
