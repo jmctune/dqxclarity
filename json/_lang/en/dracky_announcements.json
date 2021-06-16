@@ -207,7 +207,7 @@
     "<%sC_PC>から フレンド登録を申し込まれました！": "",
     "<%sC_PC>さんと 同じ場所に降りますか？": "",
     "<%sC_PC>との すてきなめぐりあいを達成！": "",
-    "<%sC_PC>の復帰を <%dC_NUM>分 待ちます": "",
+    "<%sC_PC>の復帰を <%dC_NUM>分 待ちます": "Wait <%dC_NUM>min. for <%sC_PC>'s return.",
     "<%sC_QUEST>クエストの 報告完了です!": "<%sC_QUEST> Quest Report completed!",
     "<%sC_QUEST>クエストを キャンセルしました": "",
     "<%sC_STR>": "",
