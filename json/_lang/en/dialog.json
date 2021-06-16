@@ -286,7 +286,7 @@
     "<speed=0><%sM_item>を　捨てますか？|この手紙は　おもいで私書箱から見られません。|ご注意ください。<yesno2><close>": "<speed=0>Throw away <%sM_item>? This special letter can't be viewed|again in the Post Office, so please be sure.<yesno2><close>",
     "<speed=0><%sM_item>を　泣く泣く投げ捨てた……。": "",
     "<speed=0><%sM_item>を　渡しますか？<yesno 2><close>": "",
-    "<speed=0><%sM_item>を　読もうとした！|しかし　今の職業では　読めなかった。": "",
+    "<speed=0><%sM_item>を　読もうとした！|しかし　今の職業では　読めなかった。": "<speed=0>Tried reading <%sM_item>!|But your current class can't read it!",
     "<speed=0><%sM_item>を　読んだ。": "",
     "<speed=0><%sM_item>を　読んだ。|<br>|しかし　<%sM_cantamejob>でないため|読めなかった。": "",
     "<speed=0><%sM_item>を　逃がした！": "",
