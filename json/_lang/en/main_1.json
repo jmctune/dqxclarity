@@ -1533,7 +1533,7 @@
   "Lv<%2dM_CW_nn>": "",
   "Lv<%3dM_CW_nn>": "",
   "Lv<%3dM_nn>": "",
-  "Lv<%dM_lv>": "Lv <%dM_lv>",
+  "Lv<%dM_lv>": "Lv<%dM_lv>",
   "Lv<%dM_lv>の装備": "",
   "Lv<%dM_lv>まで": "Until Lv<%dM_lv>",
   "Lv<%dM_lv>以上装備可": "",
