@@ -10,7 +10,7 @@
     "<%sM_space>１～<%sM_space>５": "<%sM_space>1-<%sM_space>5",
     "<%sM_space>６～１０": "<%sM_space>6-10",
     "Lv <%dM_lv>": "Lv <%dM_lv>",
-    "Lv<%dM_lv>": "Lv<%dM_lv>",
+    "Lv<%dM_lv>": "Lv <%dM_lv>",
     "♀キャラ": "Male",
     "♂キャラ": "Female",
     "「<%sL_SYOKUNIN>であれば　 　仕事の依頼が受けられます。<bw_break>": "As a <%sL_SYOKUNIN>, you can receive work orders.<bw_break>",
