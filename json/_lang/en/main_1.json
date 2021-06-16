@@ -1225,7 +1225,7 @@
   "<speed=0>コンテンツの　近くの場所まで　移動しますか？|<yesno><close>": "",
   "<speed=0>サーバーとの通信に失敗し|思い出アルバムへの保存が　できませんでした。|エラーコード：<%sERRID>": "",
   "<speed=0>すでに無効な　さそいに　なっています。": "<speed=0>The invitation is invalid.",
-  "<speed=0>すでに相手から　フレンドのさそいが　あります。|『へんじをする』から　相手を選び|さそいに対して　返事をしましょう。": "",
+  "<speed=0>すでに相手から　フレンドのさそいが　あります。|『へんじをする』から　相手を選び|さそいに対して　返事をしましょう。": "<speed=0>Already have a friend request from someone else.|Accept the current one under \"Requests\".",
   "<speed=0>ゼルメアの聖紋を　<%nM_NUM>個使って|装備レベル<%nM_LV>の防具が　手に入る|地下<%nM_FLOOR>階に　行きますか？<yesno><close>": "",
   "<speed=0>そのスロットには　キャラクターが|登録されていません。": "",
   "<speed=0>どの　フレンドのさそいを　取り消しますか？<break>": "<speed=0>Cancel which friend request?<break>",
