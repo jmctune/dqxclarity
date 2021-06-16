@@ -369,7 +369,7 @@
     "<speed=0><%sM_pc>を　チームに　誘いますか？<yesno><close>": "",
     "<speed=0><%sM_pc>を　チームに　誘えません。|すでに　誘ってあるか　いずれかのチームに|参加済みのようです。": "",
     "<speed=0><%sM_pc>を　チームに加入させて|よろしいですか？|<yesno2><close>": "",
-    "<speed=0><%sM_pc>を　パーティリーダーにしますか？<yesno><close>": "",
+    "<speed=0><%sM_pc>を　パーティリーダーにしますか？<yesno><close>": "<speed=0>Make <%sM_pc> the party leader?<yesno><close>",
     "<speed=0><%sM_pc>を　仲間から　はずして|よろしいですか？<yesno><close>": "",
     "<speed=0><%sM_pc>を　仲間から　はずしました。": "",
     "<speed=0><%sM_pc>を　仲間に　さそいました。|相手の　返事を待ちましょう。": "<speed=0>Party invite sent to <%sM_pc>.|Please wait for their response.",
