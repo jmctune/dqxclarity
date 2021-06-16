@@ -126,7 +126,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ふっとばされた！": "",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 呪いで ちからつきた。": "",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死の呪いで ちからつきた。": "",
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを たおした！": "",
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを たおした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e defeated!",
     "<%dB_VALUE> G かくとく！": "<%dB_VALUE> Gold received!",
     "<%dB_VALUE> G　かくとく！": "<%dB_VALUE> Gold received!",
     "<%dB_VALUE> G 盗みとっていた！": "",
