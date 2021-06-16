@@ -1560,7 +1560,7 @@
     "<%sB_ACTOR>の ようすが　おかしい……": "",
     "<%sB_ACTOR>の ようすが おかしい……。": "",
     "<%sB_ACTOR>の 地母神の祈願！": "",
-    "<%sB_ACTOR>の 必殺技！": "",
+    "<%sB_ACTOR>の 必殺技！": "<%sB_ACTOR>'s Special!",
     "<%sB_ACTOR>の 行動が変化！": "",
     "<%sB_ACTOR>の行動が　変化した！": "",
     "<%sB_ACTOR>は <%dB_VALUE> Pの経験値を かくとく！": "<%sB_ACTOR> received <%dB_VALUE> EXP!",
