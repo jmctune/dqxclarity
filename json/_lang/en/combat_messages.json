@@ -25,7 +25,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eたちが 仲間にくわわった！": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eたちは ぜんめつした。": "The party was wiped out...",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの <%sB_ACTION>のチャージ時間が <%dB_VALUE>秒たまった！": "",
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの先制攻撃！": "",
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの先制攻撃！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e strikes first!",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eから 何かを盗みとっていた！": "",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> G かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> Gold.",
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの名声値を かくとく！": "",
