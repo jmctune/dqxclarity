@@ -604,13 +604,13 @@
     "鳥系ダメージ３５％アップ": "Damage to Bird-types +35%",
     "鳥系ダメージ７０％アップ": "Damage to Bird-types +70%",
     "鳥系ダメージ８％アップ": "Damage to Bird-types +8%",
-    "黄泉送りのゾンビ系への|ダメージが３５％増える（棍専用）": "",
-    "黄泉送りの威力+105%": "",
-    "黄泉送りの威力+140%": "",
-    "黄泉送りの威力+175%": "",
-    "黄泉送りの威力+210%": "",
-    "黄泉送りの威力+35%": "",
-    "黄泉送りの威力+70%": "",
-    "黄泉送りの威力+8%": "",
-    "黄泉送りの極意": ""
+    "黄泉送りのゾンビ系への|ダメージが３５％増える（棍専用）": "Deliverance damage to Zombie-types|increased by 35%. (Staff Only)",
+    "黄泉送りの威力+105%": "Deliverance Power +105%",
+    "黄泉送りの威力+140%": "Deliverance Power +140%",
+    "黄泉送りの威力+175%": "Deliverance Power +175%",
+    "黄泉送りの威力+210%": "Deliverance Power +210%",
+    "黄泉送りの威力+35%": "Deliverance Power +35%",
+    "黄泉送りの威力+70%": "Deliverance Power +70%",
+    "黄泉送りの威力+8%": "Deliverance Power +8%",
+    "黄泉送りの極意": "Secret of Deliverance"
 }
