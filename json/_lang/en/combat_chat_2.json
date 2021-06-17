@@ -672,7 +672,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 天地のかまえが とけた！": "",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 太陽のカードの効果が きえた！": "",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 女神の祝福が きえた。": "",
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 妖精たちのポルカの回復が おわった！": "",
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 妖精たちのポルカの回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Brownie Boost recovery finished!",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 姿が もとにもどった！": "",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 姿が もとにもどった。": "",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 守り星の祈りが きえた。": "",
