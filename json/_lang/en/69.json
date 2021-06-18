@@ -20,6 +20,6 @@
     "解答時間残り<%dW_T_SECOND>秒": "Answer Time <%dW_T_SECOND> sec.",
     "赤い火が消えるまで残り<%dW_T_SECOND>": "Red Fire Time Left <%dW_T_SECOND>",
     "開催まで残り<%dW_T_MINUTE>分": "Event Starts In <%dW_T_MINUTE> min.",
-    "青い火が消えるまで残り<%dW_T_SECOND>": "",
-    "願いのかけら <%dW_T_SECOND>こ": ""
+    "青い火が消えるまで残り<%dW_T_SECOND>": "Blue Fire Time Left <%dW_T_SECOND>",
+    "願いのかけら <%dW_T_SECOND>こ": "Wish Fragments: <%dW_T_SECOND>"
 }
