@@ -1,9 +1,9 @@
 {
     "<%sC_ITMR_STITLE>": "<%sC_ITMR_STITLE>",
     "<%sW_MONSNAME>を倒せ！ 残り<%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "<%sW_MONSNAME> defeated! <%dW_T_M_MINUTE>m. <%dW_T_M_SECOND>s. left.",
-    "アストルティアラリー開始まで残り<%dW_T_MINUTE>分": "",
-    "グランプリ開始まで残り<%dW_T_MINUTE>分": "",
-    "タイムアップまで <%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "",
+    "アストルティアラリー開始まで残り<%dW_T_MINUTE>分": "Astoltia Rally Starts In <%dW_T_MINUTE> min.",
+    "グランプリ開始まで残り<%dW_T_MINUTE>分": "Grand Prix Starts In <%dW_T_MINUTE> min.",
+    "タイムアップまで <%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "Time Up In <%dW_T_M_MINUTE> min. <%dW_T_M_SECOND> sec.",
     "フィーバーまで <%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "",
     "制限時間残り<%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "",
     "制限時間残り<%dW_T_MINUTE>分": "",
