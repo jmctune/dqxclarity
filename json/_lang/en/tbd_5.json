@@ -436,7 +436,7 @@
   "<speed=0><%sM_pc>は　サブリーダーに　なっています。": "",
   "<speed=0><%sM_pc>は　すでに　そのルームから|招待を受けています。": "",
   "<speed=0><%sM_pc>は　すでに　そのルームに|参加しています。": "",
-  "<speed=0><%sM_pc>は　別のサーバーにいます。|なかまコマンドの『サーバー移動』などで|同じサーバーに集まって　遊んでください。|<br>|<speed=0>仲間にさそい　相手の返事を待ちます。|<%sM_pc>を　仲間に　さそいますか？|<yesno 1><close>": "<speed=0><%sM_pc> is on another server. Use the \"Party\" command|to move servers and you can play together.|<br>|<speed=0>Would you like to send a party invite|to <%sM_pc>?|<yesno 1><close>",
+  "<speed=0><%sM_pc>は　別のサーバーにいます。|なかまコマンドの『サーバー移動』などで|同じサーバーに集まって　遊んでください。|<br>|<speed=0>仲間にさそい　相手の返事を待ちます。|<%sM_pc>を　仲間に　さそいますか？|<yesno 1><close>": "<speed=0><%sM_pc> is on another server. Use the \"Party\"|command to move servers to play together.|<br>|<speed=0>Would you like to send a party invite|to <%sM_pc>?|<yesno 1><close>",
   "<speed=0><%sM_pc>を　<%sM_room>に　招待した！": "",
   "<speed=0><%sM_pc>を　<%sM_room>に　招待しますか？|<yesno 1><close>": "",
   "<speed=0><%sM_pc>を　サブリーダーから|はずしますか？|<yesno 1><close>": "",
