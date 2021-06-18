@@ -327,7 +327,7 @@
     "<speed=0><%sM_pc>（<%sM_type>）だ。|格下の相手のようだ。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "",
     "<speed=0><%sM_pc>（<%sM_type>）だ。|格下の相手のようだ。|討伐数|<%dM_kill_num>匹。": "<speed=0>It's a <%sM_pc>.（<%sM_type>).|Seems pretty weak.|Kills: <%dM_kill_num>",
     "<speed=0><%sM_pc>（<%sM_type>）だ。|格下の相手のようだ。|討伐数|<%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc>.（<%sM_type>).|Seems pretty weak.|Kills: <%dM_kill_num> <%sM_saw>",
-    "<speed=0><%sM_pc>が　パーティリーダーになった！": "",
+    "<speed=0><%sM_pc>が　パーティリーダーになった！": "<speed=0><%sM_pc> became the party leader!",
     "<speed=0><%sM_pc>が|パーティリーダーと|パーティリーダーになった！": "",
     "<speed=0><%sM_pc>からの入隊希望を　断りました。": "",
     "<speed=0><%sM_pc>との<%sM_action>を解除しますか？|<yesno 2><close>": "",
