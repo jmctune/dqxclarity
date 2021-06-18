@@ -1,5 +1,5 @@
 {
-    "・": ".",
+    "・": " - ",
     "？？？？": "????",
     "<%sW_REP_MAX_2ND_F>ピラミッド": "F. Pyramid",
     "<%sW_REP_MAX_2ND_F>格闘場": "F. Arena",
@@ -176,7 +176,7 @@
     "軍区画": "Military",
     "農村地区": "Rural Area",
     "通用口前": "Entrance",
-    "過去の": "Past",
+    "過去の": "Past ",
     "道具鍛冶ギルド": "Item Maker Guild",
     "遺跡前": "Ruins",
     "酒場前": "Tavern",
