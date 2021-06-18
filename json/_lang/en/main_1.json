@@ -867,7 +867,7 @@
   "<%sM_issuefish>": "",
   "<%sM_isyou>": "",
   "<%sM_item>　<%dM_num><%sM_Tani>": "",
-  "<%sM_item>": "",
+  "<%sM_item>": "<%sM_item>",
   "<%sM_item>/<%nM_num><%sM_Tani>": "",
   "<%sM_item>＋？": "",
   "<%sM_item><%sM_plusnum>　で": "<%sM_item><%sM_plusnum> in",

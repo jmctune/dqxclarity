@@ -283,7 +283,7 @@
   "<%sM_hihou>を鑑定して <%sM_item>を <%dM_ItemNum>個 手に入れた！": "",
   "<%sM_hihou>を鑑定して <%sM_item>を 手に入れた！": "",
   "<%sM_item_ticket>を使って　<%sM_item_doll>にした！": "",
-  "<%sM_item>": "",
+  "<%sM_item>": "<%sM_item>",
   "<%sM_item>　<%dM_item_num>個": "",
   "<%sM_item><%sM_00><%sM_01>こ/<%sM_02><%sM_03>こ": "",
   "<%sM_item><%sM_00><%sM_01>こ/<%sM_02><%sM_03>こ  (<%sM_04>こたりない)": "",
