@@ -1348,7 +1348,7 @@
     "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV>（<%sW_OMOIDE>）": "",
     "<%sW_MAP_NAME>（<%sW_OMOIDE>）": "",
     "<%sW_MYTOWN_NAME>(<%sW_MYTOWN_TOWN_ID>)": "",
-    "<%sW_REP_MIN_4TH_P>エテーネ王国": "",
+    "<%sW_REP_MIN_4TH_P>エテーネ王国": "<%sW_REP_MIN_4TH_P>Ethene Kingdom",
     "<l_triangle>": "",
     "<pc>城 入口": "",
     "<pc>城 出口": "",
