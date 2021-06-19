@@ -579,7 +579,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みりょくを かなり さげた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Charm decreased by a lot!",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みりょくを 少し さげた！": "",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの メタルトラップが とけた！": "",
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの メタルな香水の効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e The effects of the Metal Perfume has worn off.",
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの メタルな香水の効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e The effects of the Metal Perfume has worn off!",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの モンスターゾーンが とけた！": "",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの やまびこ効果がきえた。": "",
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ライトフォースが とけた！": "",
