@@ -287,7 +287,7 @@
   "<%sM_item>　<%dM_item_num>個": "",
   "<%sM_item><%sM_00><%sM_01>こ/<%sM_02><%sM_03>こ": "",
   "<%sM_item><%sM_00><%sM_01>こ/<%sM_02><%sM_03>こ  (<%sM_04>こたりない)": "",
-  "<%sM_item><%sM_plusnum>が封じられた 冥海の光玉を手に入れた！": "",
+  "<%sM_item><%sM_plusnum>が封じられた 冥海の光玉を手に入れた！": "The <%sM_item><%sM_plusnum> was sealed and you received a Dark Sea Orb!",
   "<%sM_item><%sM_plusnum>に|<%sL_KOUKA>が 付いた！": "",
   "<%sM_item><%sM_plusnum>の 冥海の光玉を 冒険者ジグロウから受け取った！": "",
   "<%sM_item><%sM_plusnum>の 冥海の光玉を 冒険者ジグロウに渡した！": "",
