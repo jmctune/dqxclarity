@@ -206,7 +206,7 @@
   "<%sL_OWNER>の畑に 水を　あげた！": "Watered <%sL_OWNER>'s garden!",
   "<%sL_OWNER>の畑の　作物をぬいて　やりなおした！": "",
   "<%sL_OWNER>の畑の　花をぬいて　やりなおした！": "",
-  "<%sL_OWNER>は <%sL_NAME>を なでた！": "",
+  "<%sL_OWNER>は <%sL_NAME>を なでた！": "<%sL_OWNER> stroked <%sL_NAME>!",
   "<%sL_PENCIL_NAME1>と|<%sL_PENCIL_NAME2>と|<%sL_PENCIL_NAME3>を 選んだ！": "",
   "<%sL_PLAYER_NAME>に バトエンで勝利した！": "",
   "<%sL_PLAYER_NAME>に バトエンで敗北した。": "",

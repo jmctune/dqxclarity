@@ -1585,7 +1585,7 @@
     "<%sB_ACTOR>は <%sB_TARGET_RPL>に せかいじゅの葉を 使った！": "<%sB_ACTOR> used an Yggdrasil Leaf on <%sB_TARGET_RPL>!",
     "<%sB_ACTOR>は <%sB_TARGET>に おいのりした……。": "",
     "<%sB_ACTOR>は <%sB_TARGET>を おうえんした！": "<%sB_ACTOR> cheered on <%sB_TARGET>!",
-    "<%sB_ACTOR>は <%sB_TARGET>を なでた！": "",
+    "<%sB_ACTOR>は <%sB_TARGET>を なでた！": "<%sB_ACTOR> stroked <%sB_TARGET>!",
     "<%sB_ACTOR>は アクロバットスターに なった！": "",
     "<%sB_ACTOR>は あそびはじめた！": "",
     "<%sB_ACTOR>は イチゴ爆弾を ほうりなげた！": "",
