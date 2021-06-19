@@ -127,7 +127,7 @@
   "<%dL_SKILL_POINT> Pのスキルポイントを かくとく！": "",
   "<%dM_gold> G": "",
   "<%dM_gold> G 支払った。": "Paid <%dM_gold> G.",
-  "<%dM_gold> Gを 手に入れた！": "",
+  "<%dM_gold> Gを 手に入れた！": "Received <%dM_gold> G!",
   "<%dM_gold> Gを 支払った。": "Paid <%dM_gold> G.",
   "<%sB_item>の <%sL_RENKIN_TEXT_1>が|<%sL_RENKIN_TEXT>に パワーアップした！": "",
   "<%sC_PC>は <%sM_item><%sM_plusnum>を <%dM_item_num>個 投げ捨てた！": "<%sC_PC>threw away <%dM_item_num> <%sM_item><%sM_plusnum>!",
