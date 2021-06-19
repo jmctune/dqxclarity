@@ -30,7 +30,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが サブリーダーに なりました！": "",
     "\\s<%sC_PC>\\m<%sC_ID>\\eが スッパ党との戦いの誘いを取り消した": "",
     "\\s<%sC_PC>\\m<%sC_ID>\\eが スボバへの誘いを 取り消した": "",
-    "\\s<%sC_PC>\\m<%sC_ID>\\eが チームに加わりました！": "",
+    "\\s<%sC_PC>\\m<%sC_ID>\\eが チームに加わりました！": "\\s<%sC_PC>\\m<%sC_ID>\\e joined the Team!",
     "\\s<%sC_PC>\\m<%sC_ID>\\eが チャットルームを 解散しました": "",
     "\\s<%sC_PC>\\m<%sC_ID>\\eが パーティリーダーに なりました": "\\s<%sC_PC>\\m<%sC_ID>\\e has been made the party leader.",
     "\\s<%sC_PC>\\m<%sC_ID>\\eが パーティを 解散しました": "",
