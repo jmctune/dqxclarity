@@ -171,7 +171,7 @@
     "<%sC_JOB>で <%dC_M>分\\s<%sC_PC>\\m<%sC_ID>\\eの 仲間になった!": "Joined \\s<%sC_PC>\\m<%sC_ID>\\e's party as <%sC_JOB> for <%dC_M>m!",
     "<%sC_leader>からの　さそいは|すでに　取り消されています。": "Invitation from <%sC_leader>|has already been cancelled.",
     "<%sC_leader>の　さそいを　断りました。": "Declined <%sC_leader>'s invitation.",
-    "<%sC_MERCENARY>との 契約が終了しました": "",
+    "<%sC_MERCENARY>との 契約が終了しました": "<%sC_MERCENARY>'s contract expired.",
     "<%sC_MERCENARY>との 契約終了まで あと<%dC_H>時間です": "",
     "<%sC_MERCENARY>との 契約終了まで あと<%dC_M>分です": "",
     "<%sC_MONSTER> <%dC_N1>匹討伐 達成しました！": "",
