@@ -343,7 +343,7 @@
     "<speed=0><%sM_pc>のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。": "",
     "<speed=0><%sM_pc>の持ち物が　いっぱいだった！|かばんを　整理しますか？<yesno>": "",
     "<speed=0><%sM_pc>は <%dM_gold>ゴールドを手に入れた！": "<speed=0><%sM_pc> received <%dM_gold> gold!",
-    "<speed=0><%sM_pc>は　<%dM_gold>ゴールドを払い|<%sM_item>を　手に入れた！|<se_nots System 7>": "",
+    "<speed=0><%sM_pc>は　<%dM_gold>ゴールドを払い|<%sM_item>を　手に入れた！|<se_nots System 7>": "<speed=0><%sM_pc> paid <%dM_gold> Gold|and received <%sM_item>!|<se_nots System 7>",
     "<speed=0><%sM_pc>は　<%sM_item>を|手にとった。|<br>|<%sM_item>　<%dM_hiki_item_num>個は|<%sM_pc>の手に　のったとたんに|おともなく　くずれさった。": "",
     "<speed=0><%sM_pc>は　<%sM_item>を|手にとった。|<br>|<%sM_item>は|<%sM_pc>の手に　のったとたんに|おともなく　くずれさった。": "",
     "<speed=0><%sM_pc>は <%sM_item>を見つけた！": "",
