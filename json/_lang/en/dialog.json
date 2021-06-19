@@ -873,7 +873,7 @@
     "<speed=0>サポート仲間が　死んでいるので|復活の呪文が　使えない！": "",
     "<speed=0>サポート仲間の　HPを0にします。|本当に　よろしいですか？<yesno 2><close>": "",
     "<speed=0>サポート仲間を　全滅させますか？<yesno><close>": "",
-    "<speed=0>しかし　<%sM_Badge>バッジを|これ以上持てなかったため|<%sM_Badge>は　コインに変化した！|<br>|バトルロードコインを　<%dM_CoinNum>枚　手に入れた！|<se_nots System 7>": "",
+    "<speed=0>しかし　<%sM_Badge>バッジを|これ以上持てなかったため|<%sM_Badge>は　コインに変化した！|<br>|バトルロードコインを　<%dM_CoinNum>枚　手に入れた！|<se_nots System 7>": "<speed=0>However, you can't hold any more|<%sM_Badge>, so it changed into coins instead!|<br>|You received <%dM_CoinNum> Battle Road Coins!|<se_nots System 7>",
     "<speed=0>しかし　<pc>の返事は|不思議なチカラで　かき消された。": "",
     "<speed=0>しかし　いまは　相手がいなかった。": "",
     "<speed=0>しかし　うまく　装備できなかった。|港町レンドア南の　釣り老師ハルモスに|釣りのやり方を　教えてもらおう！": "",
