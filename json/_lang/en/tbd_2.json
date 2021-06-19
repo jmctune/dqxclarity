@@ -1271,7 +1271,7 @@
   "物質系を攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で魅了": "",
   "物質系を攻撃時 ？%で魅了": "",
   "物質系ＭＰ吸収率 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "",
-  "特技のダメージ +<%sB_renkin1>(試合無効)": "",
+  "特技のダメージ +<%sB_renkin1>(試合無効)": "Skill Damage +<%sB_renkin1> (No PvP)",
   "特技の効果範囲 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>ｍ": "",
   "特技の回復量 +<%sB_renkin1>(試合無効)": "",
   "状態異常系の成功率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "",
