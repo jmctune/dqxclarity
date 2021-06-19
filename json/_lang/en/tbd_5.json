@@ -56,7 +56,7 @@
   "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sB_item>の <%sL_RENKIN_TEXT_1>を|<%sL_RENKIN_TEXT>に パワーアップしてくれた！": "",
   "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sL_SYOKUNIN_KIND>で <%sB_item>に|<%sL_RENKIN_TEXT>を うめつくしてくれた！": "",
   "\\s<%sC_PC>\\m<%sC_ID>\\eが 帰宅しました。": "\\s<%sC_PC>\\m<%sC_ID>\\e came home.",
-  "\\s<%sC_PC>\\m<%sC_ID>\\eが 遊びにきました。": "",
+  "\\s<%sC_PC>\\m<%sC_ID>\\eが 遊びにきました。": "\\s<%sC_PC>\\m<%sC_ID>\\e came to play.",
   "\\s<%sC_PC>\\m<%sC_ID>\\eから <%dM_GOLD> G 受け取った！": "",
   "\\s<%sC_PC>\\m<%sC_ID>\\eから <%sM_ITEM><%sM_PLUSNUM>を 受け取った！": "",
   "\\s<%sC_PC>\\m<%sC_ID>\\eから <%sM_ITEM>を <%dM_NUM>個 受け取った！": "",
