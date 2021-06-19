@@ -1,8 +1,8 @@
 {
   "「Ｖロンのヒミツ」|アストルティアの冒険者たちに　絶大な人気を誇る|書物・Ｖジャンプのシンボル的ドラゴン。|<br>|伝説の絵師・トリヤーマがデザインしたと言われ|その姿を模したＴシャツや盾を身にまとう|冒険者の姿が　多数目撃されている。": "",
-  "<%nL_AREA>丁目": "",
-  "<%nL_TYOUME_LEFT>丁目": "",
-  "<%nL_TYOUME_RIGHT>丁目": "",
+  "<%nL_AREA>丁目": "<%nL_AREA>Block",
+  "<%nL_TYOUME_LEFT>丁目": "<%nL_TYOUME_LEFT>Block",
+  "<%nL_TYOUME_RIGHT>丁目": "<%nL_TYOUME_RIGHT>Block",
   "<%sL_DIVISION>　<%nL_TOTI_BANGOU>番地": "",
   "<%sL_DIVISION><%nL_AREA>丁目 <%nL_BANTI>番地": "",
   "<%sL_GREET_MESSAGE>": "",
