@@ -387,7 +387,7 @@
     "<speed=0><%sM_SKILL><%sM_01>は　すでに覚えています。|別のスキルを　選択してください。": "",
     "<speed=0><%sM_SNPC_NAME>は|<%sM_SKILL1><%sM_01>と <%sM_SKILL2><%sM_01>を|覚えた！": "",
     "<speed=0><%sM_SNPC>との　絆が強まった！": "",
-    "<speed=0><%sM_stage>に|降りますか？|<yesno><close>": "",
+    "<speed=0><%sM_stage>に|降りますか？|<yesno><close>": "<speed=0>Descend to <%sM_stage>?|<yesno><close>",
     "<speed=0><%sM_syokugyou>の　バトル時の呪文は|覚えていない！": "",
     "<speed=0><%sM_syokugyou>の　バトル時の特技は|覚えていない！": "",
     "<speed=0><%sM_syokugyou>の　通常時の呪文は|覚えていない！": "",
