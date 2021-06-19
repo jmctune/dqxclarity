@@ -260,7 +260,7 @@
     "<speed=0><%sM_item><%sM_plusnum>は|ドレスアップされていますが|本当に　捨ててもいいですか？<yesno2><close>": "",
     "<speed=0><%sM_item><%sM_plusnum>は|ロックされているため　すてられません。": "",
     "<speed=0><%sM_item><%sM_plusnum>は|今　装備しているものですが|本当に　捨ててもよいですか？<yesno 2><close>": "",
-    "<speed=0><%sM_item><%sM_plusnum>を　投げ捨てた！": "",
+    "<speed=0><%sM_item><%sM_plusnum>を　投げ捨てた！": "<speed=0><%sM_item><%sM_plusnum> was thrown away!",
     "<speed=0><%sM_item><%sM_plusnum>を　捨てますか？<yesno 2><close>": "<speed=0>Throw away <%sM_item><%sM_plusnum>? <yesno 2><close>",
     "<speed=0><%sM_item>|<%sM_size>ｃｍ|おさかな交換員のところへ　持っていこう！": "",
     "<speed=0><%sM_item>|<color_yellow><%sM_size>ｃｍ　<%sM_rank><color_white>|おさかな交換員のところへ　持っていこう！": "",
