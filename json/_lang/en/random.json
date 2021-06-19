@@ -50,7 +50,7 @@
     "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは チョキを出した。": "",
     "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは パーを出した。\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　カードを引いた。　→　<%sL_STRING>": "",
     "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　コインをなげた。　→　<%sL_STRING>": "",
-    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　ダイスをふった。　→　<%dL_VALUE>": "",
+    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　ダイスをふった。　→　<%dL_VALUE>": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\e rolled a die. 　→ <%dL_VALUE>",
     "×を描く": "Draw an X",
     "○を描く": "Draw an O",
     "あっはっは！": "Ahaha!",
