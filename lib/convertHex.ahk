@@ -20,3 +20,10 @@ convertHexToStr(string)
         throw Exception("CryptStringToBinary failed", -1)
     return StrGet(&buf, size, "UTF-8")
 }
+
+bufferToHex(byRef buffer, sizeBytes)
+{
+    loop % sizeBytes
+        s .= Format("{:02X} ", NumGet(&buffer + 0, A_Index - 1, "UChar"))
+    return rtrim(s, A_space)
+}

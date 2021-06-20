@@ -1,151 +1,662 @@
 {
-    "(設定なし)": "(None)",
-    "(設定なし）": "(Not Set)",
-    "１等": "1st",
-    "２等": "2nd",
-    "３等": "3 etc.",
-    "5000年の旅路 遥かなる故郷へ オンライン": "5000 Year Journey to a Faraway Hometown Online",
-    "５周年準備会": "5th Anniv. Meeting",
-    "アルウェーン": "Alwane",
-    "いにしえの竜の伝承 オンライン": "Lore of the Ancient Dragon Online",
-    "いばらの巫女と滅びの神": "Thorny Maiden & Destruction God",
-    "インテリアじまん・おしゃれ系": "Interior Proud - Fashionable",
-    "インテリアじまん・おもしろ系": "Interioir Proud - Interesting",
-    "インテリアじまん・かわいい系": "Interior Proud - Cute",
-    "インテリアじまん・クール系": "Interior Proud - Cool",
-    "インテリアじまん・コレクター系": "Interior Proud - Collector",
-    "インテリアじまん・その他": "Interior Proud - Other",
-    "インテリアじまん・庭にこだわり系": "Interior Proud - Gardening",
-    "ウェナ諸島": "Wena Islands",
-    "ヴェリナード城下町": "Verinard Castle Town",
-    "えがお": "Smile",
-    "エテーネ王国": "Ethene Kingdom",
-    "エルトナ大陸": "Eltona Continent",
-    "オーグリード大陸": "Ogreed Continent",
-    "おこる": "Occur",
-    "オノ": "Axe",
-    "オルフェアの町": "Orphea Village",
-    "オルフェアリーズ": "Orphea Reez",
-    "おわり": "End",
-    "お役立ち機能": "Useful Function",
-    "ガートラント城下町": "Gartlant Castle Town",
-    "ガタラアームズ": "Gatara Arms",
-    "かなしい": "Sad",
-    "キャリーオーバー！": "Carry Over!",
-    "キラキラ": "Glitter",
-    "グレンドラゴニア": "Glen Dragonia",
-    "グレン城下町": "Glen Castle Town",
-    "ゴールドマンMAX": "Goldman MAX",
-    "サクラの妖精": "Sakura Fairy",
-    "サブストーリー": "Sub-Story",
-    "ジュレットの町": "Julet Town",
-    "スティック": "1H Wand",
-    "スノーベル": "Snow Bell",
-    "その他の大陸": "Other Regions",
-    "ツメ": "Claws",
-    "ツヤツヤ": "Shiny",
-    "ドルワーム王国": "Dolworm Kingdom",
-    "ドワチャッカ大陸": "Dwachakka Continent",
-    "トンブレロ": "Tombrero",
-    "はじめ": "Begin",
-    "ハンマー": "Hammer",
-    "ビビリン": "Vivirin",
-    "ブーメラン": "Boomerang",
-    "プクランド大陸": "Pukuland Continent",
-    "ブルートライデント": "Blue Trident",
-    "マット": "Mat",
-    "ムチ": "Whip",
-    "メインストーリー": "Main Story",
-    "メギストリスの都": "City of Megistris",
-    "モーモンバザー・いろいろ": "Sanguini Bazaar - Various",
-    "モーモンバザー・さいほう中心": "Sanguini Bazaar - Sewing Center",
-    "モーモンバザー・ツボ錬金中心": "Sanguini Bazaar - Pot Alchemy Center",
-    "モーモンバザー・ランプ錬金中心": "Sanguini Bazaar - Lamp Alchemy Center",
-    "モーモンバザー・依頼書中心": "Sanguini Bazaar - Request Form Center",
-    "モーモンバザー・料理中心": "Sanguini Bazaar - Cooking Center",
-    "モーモンバザー・木工中心": "Sanguini Bazaar - Woodworking Center",
-    "モーモンバザー・武器鍛冶中心": "Sanguini Bazaar - Weaponsmith Center",
-    "モーモンバザー・素材中心": "Sanguini Bazaar - Material Center",
-    "モーモンバザー・道具鍛冶中心": "Sanguini Bazaar - Item Maker Center",
-    "モーモンバザー・防具鍛冶中心": "Sanguini Bazaar - Armorsmith Center",
-    "ヤリ": "Spear",
-    "ラクレット": "Raklette",
-    "ランダム": "Random",
-    "レインボウズ": "Rainbows",
-    "レンダーシア": "Lendersia",
-    "ログイン表示しない": "Don't Show Login",
-    "ログイン表示する": "Show Login",
-    "一の災壇": "1st Disaster",
-    "三の災壇": "3rd Disaster",
-    "両手剣": "2H Sword",
-    "両手杖": "H. Wand",
-    "中断中": "Suspended",
-    "二の災壇": "2nd Disaster",
-    "交換中": "Exchange",
-    "元のツヤ": "Orig. Gloss",
-    "匹": " ",
-    "参加賞": "Prize",
-    "古オーグリード": "Old Ogreed",
-    "古グランゼドーラ": "Old Gran Zedora",
-    "古ドワチャッカ": "Old Dwachakka",
-    "四の災壇": "4th Disaster",
-    "回": " ",
-    "夢現篇クエスト": "Dream World Quest",
-    "天狐アマツカゼ": "Sky Fox Amatsukaze",
-    "娯楽島ラッカラン": "Entmt. Island Luckland",
-    "学園サブクエスト": "Campus Sub Quest",
-    "学園メインクエスト": "Campus Main Quest",
-    "岳都ガタラ": "Gatara Capital",
-    "嵐の領界": "Storm Realm",
-    "常にログアウト表示": "Always Show Logout",
-    "弓": "Bow",
-    "扇": "Fan",
-    "最終幕": "Finale",
-    "期間限定": "Limited Time",
-    "格闘": "Fist",
-    "棍": "Stf",
-    "水の領界": "Water Realm",
-    "氷の領界": "Ice Realm",
-    "港町レンドア": "Port Town Lendor",
-    "炎の領界": "Fire Realm",
-    "無所属": "Alone",
-    "無表情": "Deadpan",
-    "片手剣": "1H Sword",
-    "特等": "etc.",
-    "特等町違い": "Town Difference",
-    "王都カミハルムイ": "Royal Capital Kamiharmui",
-    "目覚めし五つの種族 オンライン": "Awakening of the 5 Tribes Online",
-    "盾": "Shd",
-    "眠れる勇者と導きの盟友 オンライン": "Sleeping Hero and Guided Ally Online",
-    "短剣": "Dagger",
-    "破界篇クエスト": "Breaking World Quest",
-    "神話篇クエスト": "Myth Story Quest",
-    "秘密の宝物庫": "Secret Treasure H.",
-    "第１幕": "Act 1",
-    "第２幕": "Act 2",
-    "第３幕": "Act 3",
-    "第４幕": "Act 4",
-    "第一の霊廟": "1st Mausoleum",
-    "第七の霊廟": "7th Mausoleum",
-    "第三の霊廟": "3rd Mausoleum",
-    "第九の霊廟": "9th Mausoleum",
-    "第二の霊廟": "2nd Mausoleum",
-    "第五の霊廟": "5th Mausoleum",
-    "第八の霊廟": "8th Mausoleum",
-    "第六の霊廟": "6th Mausoleum",
-    "第四の霊廟": "4th Mausoleum",
-    "素手": "Bare",
-    "職人クエスト": "Craftsman Quest",
-    "職業クエスト": "Vocation Quest",
-    "表情リスト選択": "Face Expressions",
-    "販売不可中": "Not for sale",
-    "販売中": "For sale",
-    "超お役立ち機能": "Enhancement",
-    "超キラキラ": "Super Glitter",
-    "途中": "Going",
-    "鎌": "Sic",
-    "開催前": "Before",
-    "闇の領界": "Dark Realm",
-    "風の町アズラン": "Wind Town Azlan",
+  "1": {
+    "目覚めし五つの種族 オンライン": "Awakening of the 5 Tribes Online"
+  },
+  "2": {
+    "眠れる勇者と導きの盟友 オンライン": "Sleeping Hero and Guided Ally Online"
+  },
+  "3": {
+    "いにしえの竜の伝承 オンライン": "Lore of the Ancient Dragon Online"
+  },
+  "4": {
+    "5000年の旅路 遥かなる故郷へ オンライン": "5000 Year Journey to a Faraway Hometown Online"
+  },
+  "5": {
+    "clarity_nt_char_1": "clarity_nt_char_1"
+  },
+  "6": {
+    "いばらの巫女と滅びの神": "Thorny Maiden & Destruction God"
+  },
+  "7": {
+    "素手": "Bare"
+  },
+  "8": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "9": {
+    "格闘": "Fist"
+  },
+  "10": {
+    "clarity_nt_char_3": "clarity_nt_char_3"
+  },
+  "11": {
+    "盾": "Shd"
+  },
+  "12": {
+    "片手剣": "1H Sword"
+  },
+  "13": {
+    "両手剣": "2H Sword"
+  },
+  "14": {
+    "短剣": "Dagger"
+  },
+  "15": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "16": {
+    "スティック": "1H Wand"
+  },
+  "17": {
+    "両手杖": "H. Wand"
+  },
+  "18": {
+    "ヤリ": "Spear"
+  },
+  "19": {
+    "clarity_nt_char_5": "clarity_nt_char_5"
+  },
+  "20": {
+    "オノ": "Axe"
+  },
+  "21": {
+    "clarity_nt_char_6": "clarity_nt_char_6"
+  },
+  "22": {
+    "ハンマー": "Hammer"
+  },
+  "23": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "24": {
+    "棍": "Stf"
+  },
+  "25": {
+    "ツメ": "Claws"
+  },
+  "26": {
+    "clarity_nt_char_8": "clarity_nt_char_8"
+  },
+  "27": {
+    "扇": "Fan"
+  },
+  "28": {
+    "ムチ": "Whip"
+  },
+  "29": {
+    "clarity_nt_char_9": "clarity_nt_char_9"
+  },
+  "30": {
+    "ブーメラン": "Boomerang"
+  },
+  "31": {
+    "弓": "Bow"
+  },
+  "32": {
+    "インテリアじまん・かわいい系": "Interior Proud - Cute"
+  },
+  "33": {
+    "clarity_nt_char_10": "clarity_nt_char_10"
+  },
+  "34": {
+    "インテリアじまん・おもしろ系": "Interioir Proud - Interesting"
+  },
+  "35": {
+    "clarity_nt_char_11": "clarity_nt_char_11"
+  },
+  "36": {
+    "インテリアじまん・おしゃれ系": "Interior Proud - Fashionable"
+  },
+  "37": {
+    "clarity_nt_char_12": "clarity_nt_char_12"
+  },
+  "38": {
+    "インテリアじまん・クール系": "Interior Proud - Cool"
+  },
+  "39": {
+    "インテリアじまん・コレクター系": "Interior Proud - Collector"
+  },
+  "40": {
+    "インテリアじまん・庭にこだわり系": "Interior Proud - Gardening"
+  },
+  "41": {
+    "clarity_nt_char_13": "clarity_nt_char_13"
+  },
+  "42": {
+    "インテリアじまん・その他": "Interior Proud - Other"
+  },
+  "43": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "44": {
+    "モーモンバザー・素材中心": "Sanguini Bazaar - Material Center"
+  },
+  "45": {
+    "clarity_nt_char_15": "clarity_nt_char_15"
+  },
+  "46": {
+    "モーモンバザー・武器鍛冶中心": "Sanguini Bazaar - Weaponsmith Center"
+  },
+  "47": {
+    "clarity_nt_char_16": "clarity_nt_char_16"
+  },
+  "48": {
+    "モーモンバザー・防具鍛冶中心": "Sanguini Bazaar - Armorsmith Center"
+  },
+  "49": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "50": {
+    "モーモンバザー・道具鍛冶中心": "Sanguini Bazaar - Item Maker Center"
+  },
+  "51": {
+    "clarity_nt_char_18": "clarity_nt_char_18"
+  },
+  "52": {
+    "モーモンバザー・木工中心": "Sanguini Bazaar - Woodworking Center"
+  },
+  "53": {
+    "clarity_nt_char_19": "clarity_nt_char_19"
+  },
+  "54": {
+    "モーモンバザー・さいほう中心": "Sanguini Bazaar - Sewing Center"
+  },
+  "55": {
+    "clarity_nt_char_20": "clarity_nt_char_20"
+  },
+  "56": {
+    "モーモンバザー・ランプ錬金中心": "Sanguini Bazaar - Lamp Alchemy Center"
+  },
+  "57": {
+    "モーモンバザー・ツボ錬金中心": "Sanguini Bazaar - Pot Alchemy Center"
+  },
+  "58": {
+    "clarity_nt_char_21": "clarity_nt_char_21"
+  },
+  "59": {
+    "モーモンバザー・いろいろ": "Sanguini Bazaar - Various"
+  },
+  "60": {
+    "clarity_nt_char_22": "clarity_nt_char_22"
+  },
+  "61": {
+    "モーモンバザー・依頼書中心": "Sanguini Bazaar - Request Form Center"
+  },
+  "62": {
+    "モーモンバザー・料理中心": "Sanguini Bazaar - Cooking Center"
+  },
+  "63": {
+    "clarity_nt_char_23": "clarity_nt_char_23"
+  },
+  "64": {
+    "岳都ガタラ": "Gatara Capital"
+  },
+  "65": {
+    "ドルワーム王国": "Dolworm Kingdom"
+  },
+  "66": {
+    "風の町アズラン": "Wind Town Azlan"
+  },
+  "67": {
+    "王都カミハルムイ": "Royal Capital Kamiharmui"
+  },
+  "68": {
+    "clarity_nt_char_24": "clarity_nt_char_24"
+  },
+  "69": {
+    "グレン城下町": "Glen Castle Town"
+  },
+  "70": {
+    "clarity_nt_char_25": "clarity_nt_char_25"
+  },
+  "71": {
+    "ガートラント城下町": "Gartlant Castle Town"
+  },
+  "72": {
+    "オルフェアの町": "Orphea Village"
+  },
+  "73": {
+    "メギストリスの都": "City of Megistris"
+  },
+  "74": {
+    "clarity_nt_char_26": "clarity_nt_char_26"
+  },
+  "75": {
+    "ジュレットの町": "Julet Town"
+  },
+  "76": {
+    "ヴェリナード城下町": "Verinard Castle Town"
+  },
+  "77": {
+    "キャリーオーバー！": "Carry Over!"
+  },
+  "78": {
+    "(設定なし)": "(None)"
+  },
+  "79": {
+    "clarity_nt_char_27": "clarity_nt_char_27"
+  },
+  "80": {
+    "無表情": "Deadpan"
+  },
+  "81": {
+    "えがお": "Smile"
+  },
+  "82": {
+    "おこる": "Occur"
+  },
+  "83": {
+    "かなしい": "Sad"
+  },
+  "84": {
+    "clarity_nt_char_28": "clarity_nt_char_28"
+  },
+  "85": {
+    "表情リスト選択": "Face Expressions"
+  },
+  "86": {
+    "参加賞": "Prize"
+  },
+  "87": {
+    "特等": "etc."
+  },
+  "88": {
+    "clarity_nt_char_29": "clarity_nt_char_29"
+  },
+  "89": {
+    "特等町違い": "Town Difference"
+  },
+  "90": {
+    "１等": "1st"
+  },
+  "91": {
+    "clarity_nt_char_30": "clarity_nt_char_30"
+  },
+  "92": {
+    "２等": "2nd"
+  },
+  "93": {
+    "clarity_nt_char_31": "clarity_nt_char_31"
+  },
+  "94": {
+    "３等": "3 etc."
+  },
+  "95": {
+    "clarity_nt_char_32": "clarity_nt_char_32"
+  },
+  "96": {
+    "開催前": "Before"
+  },
+  "97": {
+    "販売中": "For sale"
+  },
+  "98": {
+    "販売不可中": "Not for sale"
+  },
+  "99": {
+    "交換中": "Exchange"
+  },
+  "100": {
+    "中断中": "Suspended"
+  },
+  "101": {
+    "その他の大陸": "Other Regions"
+  },
+  "102": {
+    "clarity_nt_char_33": "clarity_nt_char_33"
+  },
+  "103": {
+    "エルトナ大陸": "Eltona Continent"
+  },
+  "104": {
+    "clarity_nt_char_34": "clarity_nt_char_34"
+  },
+  "105": {
+    "ウェナ諸島": "Wena Islands"
+  },
+  "106": {
+    "オーグリード大陸": "Ogreed Continent"
+  },
+  "107": {
+    "clarity_nt_char_35": "clarity_nt_char_35"
+  },
+  "108": {
+    "プクランド大陸": "Pukuland Continent"
+  },
+  "109": {
+    "ドワチャッカ大陸": "Dwachakka Continent"
+  },
+  "110": {
+    "clarity_nt_char_36": "clarity_nt_char_36"
+  },
+  "111": {
+    "レンダーシア": "Lendersia"
+  },
+  "112": {
+    "clarity_nt_char_37": "clarity_nt_char_37"
+  },
+  "113": {
+    "娯楽島ラッカラン": "Entmt. Island Luckland"
+  },
+  "114": {
+    "clarity_nt_char_38": "clarity_nt_char_38"
+  },
+  "115": {
+    "港町レンドア": "Port Town Lendor"
+  },
+  "116": {
+    "clarity_nt_char_39": "clarity_nt_char_39"
+  },
+  "117": {
+    "炎の領界": "Fire Realm"
+  },
+  "118": {
+    "clarity_nt_char_40": "clarity_nt_char_40"
+  },
+  "119": {
+    "氷の領界": "Ice Realm"
+  },
+  "120": {
+    "clarity_nt_char_41": "clarity_nt_char_41"
+  },
+  "121": {
+    "闇の領界": "Dark Realm"
+  },
+  "122": {
+    "clarity_nt_char_42": "clarity_nt_char_42"
+  },
+  "123": {
+    "水の領界": "Water Realm"
+  },
+  "124": {
+    "clarity_nt_char_43": "clarity_nt_char_43"
+  },
+  "125": {
+    "嵐の領界": "Storm Realm"
+  },
+  "126": {
+    "clarity_nt_char_44": "clarity_nt_char_44"
+  },
+  "127": {
+    "エテーネ王国": "Ethene Kingdom"
+  },
+  "128": {
+    "clarity_nt_char_45": "clarity_nt_char_45"
+  },
+  "129": {
+    "古グランゼドーラ": "Old Gran Zedora"
+  },
+  "130": {
+    "clarity_nt_char_46": "clarity_nt_char_46"
+  },
+  "131": {
+    "古オーグリード": "Old Ogreed"
+  },
+  "132": {
+    "古ドワチャッカ": "Old Dwachakka"
+  },
+  "133": {
+    "アルウェーン": "Alwane"
+  },
+  "134": {
+    "clarity_nt_char_47": "clarity_nt_char_47"
+  },
+  "135": {
+    "サブストーリー": "Sub-Story"
+  },
+  "136": {
+    "ランダム": "Random"
+  },
+  "137": {
+    "clarity_nt_char_48": "clarity_nt_char_48"
+  },
+  "138": {
+    "期間限定": "Limited Time"
+  },
+  "139": {
+    "clarity_nt_char_49": "clarity_nt_char_49"
+  },
+  "140": {
+    "メインストーリー": "Main Story"
+  },
+  "141": {
+    "clarity_nt_char_50": "clarity_nt_char_50"
+  },
+  "142": {
+    "お役立ち機能": "Useful Function"
+  },
+  "143": {
+    "clarity_nt_char_51": "clarity_nt_char_51"
+  },
+  "144": {
+    "神話篇クエスト": "Myth Story Quest"
+  },
+  "145": {
+    "夢現篇クエスト": "Dream World Quest"
+  },
+  "146": {
+    "職業クエスト": "Vocation Quest"
+  },
+  "147": {
+    "clarity_nt_char_52": "clarity_nt_char_52"
+  },
+  "148": {
+    "職人クエスト": "Craftsman Quest"
+  },
+  "149": {
+    "clarity_nt_char_53": "clarity_nt_char_53"
+  },
+  "150": {
+    "超お役立ち機能": "Enhancement"
+  },
+  "151": {
+    "学園メインクエスト": "Campus Main Quest"
+  },
+  "152": {
+    "学園サブクエスト": "Campus Sub Quest"
+  },
+  "153": {
+    "clarity_nt_char_54": "clarity_nt_char_54"
+  },
+  "154": {
+    "ラクレット": "Raklette"
+  },
+  "155": {
+    "ビビリン": "Vivirin"
+  },
+  "156": {
+    "clarity_nt_char_55": "clarity_nt_char_55"
+  },
+  "157": {
+    "ゴールドマンMAX": "Goldman MAX"
+  },
+  "158": {
+    "トンブレロ": "Tombrero"
+  },
+  "159": {
+    "レインボウズ": "Rainbows"
+  },
+  "160": {
+    "clarity_nt_char_56": "clarity_nt_char_56"
+  },
+  "161": {
+    "スノーベル": "Snow Bell"
+  },
+  "162": {
+    "５周年準備会": "5th Anniv. Meeting"
+  },
+  "163": {
+    "clarity_nt_char_57": "clarity_nt_char_57"
+  },
+  "164": {
+    "サクラの妖精": "Sakura Fairy"
+  },
+  "165": {
+    "clarity_nt_char_58": "clarity_nt_char_58"
+  },
+  "166": {
+    "(設定なし）": "(Not Set)"
+  },
+  "167": {
+    "clarity_nt_char_59": "clarity_nt_char_59"
+  },
+  "168": {
+    "はじめ": "Begin"
+  },
+  "169": {
+    "途中": "Going"
+  },
+  "170": {
+    "clarity_nt_char_60": "clarity_nt_char_60"
+  },
+  "171": {
+    "おわり": "End"
+  },
+  "172": {
+    "無所属": "Alone"
+  },
+  "173": {
+    "グレンドラゴニア": "Glen Dragonia"
+  },
+  "174": {
+    "clarity_nt_char_61": "clarity_nt_char_61"
+  },
+  "175": {
+    "ブルートライデント": "Blue Trident"
+  },
+  "176": {
+    "ガタラアームズ": "Gatara Arms"
+  },
+  "177": {
+    "天狐アマツカゼ": "Sky Fox Amatsukaze"
+  },
+  "178": {
+    "オルフェアリーズ": "Orphea Reez"
+  },
+  "179": {
+    "clarity_nt_char_62": "clarity_nt_char_62"
+  },
+  "180": {
+    "ログイン表示しない": "Don't Show Login"
+  },
+  "181": {
+    "常にログアウト表示": "Always Show Logout"
+  },
+  "182": {
+    "ログイン表示する": "Show Login"
+  },
+  "183": {
+    "clarity_nt_char_63": "clarity_nt_char_63"
+  },
+  "184": {
+    "第一の霊廟": "1st Mausoleum"
+  },
+  "185": {
+    "第二の霊廟": "2nd Mausoleum"
+  },
+  "186": {
+    "第三の霊廟": "3rd Mausoleum"
+  },
+  "187": {
+    "第四の霊廟": "4th Mausoleum"
+  },
+  "188": {
+    "第五の霊廟": "5th Mausoleum"
+  },
+  "189": {
+    "第六の霊廟": "6th Mausoleum"
+  },
+  "190": {
+    "第七の霊廟": "7th Mausoleum"
+  },
+  "191": {
+    "第八の霊廟": "8th Mausoleum"
+  },
+  "192": {
+    "第九の霊廟": "9th Mausoleum"
+  },
+  "193": {
+    "秘密の宝物庫": "Secret Treasure H."
+  },
+  "194": {
+    "clarity_nt_char_64": "clarity_nt_char_64"
+  },
+  "195": {
+    "一の災壇": "1st Disaster"
+  },
+  "196": {
+    "clarity_nt_char_65": "clarity_nt_char_65"
+  },
+  "197": {
+    "二の災壇": "2nd Disaster"
+  },
+  "198": {
+    "clarity_nt_char_66": "clarity_nt_char_66"
+  },
+  "199": {
+    "三の災壇": "3rd Disaster"
+  },
+  "200": {
+    "clarity_nt_char_67": "clarity_nt_char_67"
+  },
+  "201": {
     "魔界": "Makai"
+  },
+  "202": {
+    "clarity_nt_char_68": "clarity_nt_char_68"
+  },
+  "203": {
+    "第１幕": "Act 1"
+  },
+  "204": {
+    "第２幕": "Act 2"
+  },
+  "205": {
+    "第３幕": "Act 3"
+  },
+  "206": {
+    "第４幕": "Act 4"
+  },
+  "207": {
+    "最終幕": "Finale"
+  },
+  "208": {
+    "元のツヤ": "Orig. Gloss"
+  },
+  "209": {
+    "clarity_nt_char_69": "clarity_nt_char_69"
+  },
+  "210": {
+    "マット": "Mat"
+  },
+  "211": {
+    "ツヤツヤ": "Shiny"
+  },
+  "212": {
+    "clarity_nt_char_70": "clarity_nt_char_70"
+  },
+  "213": {
+    "キラキラ": "Glitter"
+  },
+  "214": {
+    "clarity_nt_char_71": "clarity_nt_char_71"
+  },
+  "215": {
+    "超キラキラ": "Super Glitter"
+  },
+  "216": {
+    "破界篇クエスト": "Breaking World Quest"
+  },
+  "217": {
+    "鎌": "Sic"
+  },
+  "218": {
+    "匹": " "
+  },
+  "219": {
+    "回": " "
+  },
+  "220": {
+    "四の災壇": "4th Disaster"
+  }
 }

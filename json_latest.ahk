@@ -1,6 +1,6 @@
 #Persistent
 #NoEnv
-#SingleInstance force
+#SingleInstance, Force
 
 /*
 *************************************************
