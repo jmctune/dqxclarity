@@ -515,7 +515,7 @@
   "いまの宝珠ポイント　<%dM_HOUJUP_NUM>P|いまの石版ポイント　<%dM_SEKIBANP_NUM>P|達人に預けている全属性の石版| 6穴の石版 <%dM_HOUJUP5>P ×<%dM_SEKIBAN_6>枚 <%dM_HOUJUP_NUM6>P| 5穴の石版 <%dM_HOUJUP5>P ×<%dM_SEKIBAN_5>枚 <%dM_HOUJUP_NUM5>P| 4穴の石版 <%dM_HOUJUP1>P ×<%dM_SEKIBAN_4>枚 <%dM_HOUJUP_NUM4>P|変換後の宝珠ポイント合計　<%dM_HOUJUP_SUM>P": "",
   "いまの見た目を　コーデ名「<%sM_myset2>」で|マイセットに　登録した！": "",
   "ウデ": "Glove",
-  "エール回復 /<%dM_cou_yell>/：<%dM_total_sco_yell>P": "",
+  "エール回復 /<%dM_cou_yell>/：<%dM_total_sco_yell>P": "Times Yelled/<%dM_cou_yell>/:%dM_total_sco_yell>P",
   "おさかなコイン <%dM_POINT>枚と|<%sM_item> <%dM_GET_NUM>個を 交換した！": "",
   "おさかなコイン <%dM_POINT>枚と|<%sM_item>を 交換した！": "",
   "おひねり特典として <%sM_ITEM>を <%d_NUM>こ 手に入れた！": "",
