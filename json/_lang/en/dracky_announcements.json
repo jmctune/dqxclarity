@@ -75,7 +75,7 @@
         "clarity_nt_char_7": "clarity_nt_char_7"
     },
     "26": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが パーティを 解散しました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが パーティを 解散しました": "\\s<%sC_PC>\\m<%sC_ID>\\e dissolved the party."
     },
     "27": {
         "clarity_nt_char_8": "clarity_nt_char_8"
@@ -84,7 +84,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eが チームに加わりました！": "\\s<%sC_PC>\\m<%sC_ID>\\e joined the Team!"
     },
     "29": {
-        "チーム『<%sC_TEAM>』が 解散しました": ""
+        "チーム『<%sC_TEAM>』が 解散しました": "The Team \"<%sC_TEAM>\" was disbanded."
     },
     "30": {
         "パーティリーダーに なりました": "You became party leader."
@@ -1497,7 +1497,7 @@
         "捧げた <%sC_ITEM>は 無事でした": "The offered <%sC_ITEM> was retained."
     },
     "500": {
-        "捧げた アイテムは キャンセルされました": ""
+        "捧げた アイテムは キャンセルされました": "Offered item has been cancelled."
     },
     "501": {
         "clarity_nt_char_163": "clarity_nt_char_163"
@@ -1875,7 +1875,7 @@
         "報酬が 旅のコンシェルジュに送られました！": "Your reward has been sent to the travel concierge!"
     },
     "626": {
-        "捧げたアイテムが無効のため 迷宮の外に出ます": ""
+        "捧げたアイテムが無効のため 迷宮の外に出ます": "Leave the labyrinth due to an invalid offering."
     },
     "627": {
         "clarity_nt_char_202": "clarity_nt_char_202"
