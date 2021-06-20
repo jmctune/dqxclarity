@@ -86,7 +86,7 @@
     "Crysta": "",
     "<%n_YYYY>年<%n_MM>月<%n_DD>日 まで": "",
     "<%d_YYYY>年<%2d_MM>月<%2d_DD>日 まで": "",
-    "<%d_YYYY>年<%2d_MM>月<%2d_DD>日まで（残り<%3d_DAY>日）": "",
+    "<%d_YYYY>年<%2d_MM>月<%2d_DD>日まで（残り<%3d_DAY>日）": "Until <%d_YYYY>/<%2d_MM>/<%2d_DD>日まで（<%3d_DAY> days left）",
     "（キッズタイム中）": "",
     "<%nGENKICHARGE>時間": "",
     "バージョン <%s_MVER1>.<%s_MVER2>.<%s_MVER3>": "Version <%s_MVER1>.<%s_MVER2>.<%s_MVER3>",
