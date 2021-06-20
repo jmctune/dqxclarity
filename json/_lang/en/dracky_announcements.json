@@ -621,7 +621,7 @@
         "clarity_nt_char_66": "clarity_nt_char_66"
     },
     "208": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが チャットルームを 解散しました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが チャットルームを 解散しました": "\\s<%sC_PC>\\m<%sC_ID>\\e dissolved the chat room."
     },
     "209": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eのルームから はずれました": ""
