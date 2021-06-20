@@ -485,7 +485,7 @@
     "<speed=0>|<%sM_pc>は　イベント視聴中のため|申し込めません。": "",
     "<speed=0>|<%sM_pc>は|<%sM_item><%s_plusnum>を　装備した。|<end>": "",
     "<speed=0>|<%sM_pc>への　返事を　選んでください。|<select>|チームに入れる|ごめんなさい|コメントを全てみる|<select_end><break>": "",
-    "<speed=0>|<%sM_pc2>は　『いまどんな？設定』が|『仲間募集中』に　なっていない相手です。|さそう時は　事前に相手の確認をとりましょう。<br>|<%sM_pc2>を　仲間に　さそいますか？|<yesno><close>": "",
+    "<speed=0>|<%sM_pc2>は　『いまどんな？設定』が|『仲間募集中』に　なっていない相手です。|さそう時は　事前に相手の確認をとりましょう。<br>|<%sM_pc2>を　仲間に　さそいますか？|<yesno><close>": "<speed=0>|<%sM_pc2> doesn't have the|\"Seeking Party\" status icon set. Make sure|it's okay with the other person first.<br>|Invite <%sM_pc2> to a party?<yesno><close>",
     "<speed=0>|<%sM_TO_DO_BIG>『<%sM_TO_DO>』の|お知らせ機能を　「オフ」にしました。": "",
     "<speed=0>|<%sM_TO_DO_BIG>『<%sM_TO_DO>』の|お知らせ機能を　「オン」にしました。|メンバーが　<%nM_member>人そろうと　お知らせが届きます。": "",
     "<speed=0>|<%sM_TO_DO_BIG>『<%sM_TO_DO>』の|参加を取りやめた。": "",
