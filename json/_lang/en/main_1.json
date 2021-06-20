@@ -1233,7 +1233,7 @@
   "<speed=0>ブラックリストには　誰も登録されていません。": "<speed=0>No one is registered on the blacklist.",
   "<speed=0>フレンドに　さそうことができる|相手が　いませんでした。": "",
   "<speed=0>フレンドに　さそう相手を　選んでください。<break>": "",
-  "<speed=0>フレンドにさそい　相手がＯＫしたら|お互いのフレンドリストに　登録されます。|<%sL_PC_NICK>を　フレンドに　さそいますか？<yesno><close>": "",
+  "<speed=0>フレンドにさそい　相手がＯＫしたら|お互いのフレンドリストに　登録されます。|<%sL_PC_NICK>を　フレンドに　さそいますか？<yesno><close>": "<speed=0>If this player accepts, you will be added|to each other's friends list. Send a|friend request to <%sL_PC_NICK>?<yesno><close>",
   "<speed=0>フレンドリストが　いっぱいです！|これ以上は　登録できません。": "",
   "<speed=0>フレンドリストが　取得できませんでした。|時間をおいて　もう一度お試しください。": "",
   "<speed=0>フレンド情報を　取得中です。|しばらくお待ちください。<break>": "",
