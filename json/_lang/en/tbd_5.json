@@ -382,7 +382,7 @@
   "<pc>が バトエン開始！": "",
   "<pc>の 名声レベルが <%dL_MEISEI_LEVEL>に あがった！": "",
   "<pc>の　性別が　変わった！": "",
-  "<pc>の 旅人バザーに出品できる数が <%dL_SYUPPIN>個になった！": "",
+  "<pc>の 旅人バザーに出品できる数が <%dL_SYUPPIN>個になった！": "You can now list <%dL_SYUPPIN> items at the Traveler's Bazaar!",
   "<pc>の 日替わり討伐クエストの選択肢が <%dL_TOUBATU>つになった！": "",
   "<pc>の 週替わり討伐クエストの選択肢が <%dL_TOUBATU>つになった！": "",
   "<pc>は <%sB_ITEM>を <%nB_OPEN_NUM>個 開けた！": "",
