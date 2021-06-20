@@ -1,7 +1,7 @@
 #Persistent
 #NoEnv
 #SingleInstance force
-#Include <JSON_coco>
+#Include <JSON>
 
 /*
 ****************************************************
@@ -38,7 +38,7 @@ url := "https://api.github.com/repos/jmctune/dqxclarity/releases/latest"
 oWhr.Open("GET", url, 0)
 oWhr.Send()
 oWhr.WaitForResponse()
-jsonResponse := JSON_coco.Load(oWhr.ResponseText)
+jsonResponse := JSON.Load(oWhr.ResponseText)
 releaseVersion := (jsonResponse.tag_name)
 releaseVersion := SubStr(releaseVersion, 2)
 releaseNotes := (jsonResponse.body)
