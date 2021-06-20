@@ -15,13 +15,11 @@ https://user-images.githubusercontent.com/17505625/120054067-5e995f80-bff3-11eb-
 
 ## How to use
 
-Download the latest version of `dqxclarity` from the [releases](https://github.com/jmctune/dqxclarity/releases) section. Open a fresh instance of Dragon Quest X and run `dqxclarity.exe` (don't run any other `.exe` files directly). You will be asked how many files you want to simultaenously translate. This option exists for people with slower computers. 15 is the default and is fine. Faster numbers will translate faster, but will (very) likely spike your CPU to 100%. On most machines, it seems to take anywhere between 30-90 seconds to run. In its current state, this number will only increase as more text is added, but tuning this number down is being investigated.
-
-**You can only run Clarity once per gaming session. Several of the strings that Clarity is searching for no longer exist once they've been overwritten during its run through, so if you need to run it again for some reason, you need to relaunch DQX.**
+Download the latest version of `dqxclarity` from the [releases](https://github.com/jmctune/dqxclarity/releases) section. Open a fresh instance of Dragon Quest X and run `dqxclarity.exe` (don't run any other `.exe` files directly). Wait for things to finish translating and you're done. 
 
 ## How it works
 
-In the `json\_lang\en` folder is a structure of Japanese and English text. The Japanese text is converted from a utf-8 string to hex, then searched for in the active process's memory. When found, it replaces the hex values with its English equivalent.
+In the `json\_lang\en` folder are several files with a structure of Japanese and English text. The Japanese and English text are converted from a utf-8 string to hex. The Japanese and English text are compared against to ensure that the English text is not longer than the Japanese text. If everything looks good, it's added to a master hex variable. Once a file has been fully processed, it writes that entire hex string to memory.
 
 As an example, with a structure like the following:
 
@@ -33,7 +31,7 @@ As an example, with a structure like the following:
 
 `冒険をする` is converted to a utf-8 hex string with the `convertStrToHex()` function, as well as the `Open Adventure` value.
 
-Strings are prepended and appended with `00` (null terminators) as this begins and completes the string.
+Strings are prepended with `00` (null terminators) as this begins the string.
 
 ## How to contribute
 
@@ -55,7 +53,7 @@ In-game, "フレンドや", "チームメンバーに", and "かきおきを書�
 
 **Make sure you don't exceed the character limit using the system above (usually, you can take the number of Japanese characters and multiply it by 3. Don't exceed this many characters when typing it into English, but you can match it).** Failure to ignore this will cause errors in Clarity and the file won't translate.
 
-If you wouild like to contribute, please jump on our Discord (link seen at the top) and let's talk in #clarity-discussion.
+If you would like to contribute, please jump on our Discord (link seen at the top) and let's talk in #clarity-discussion.
 
 ## Clarity is seen as a virus by Windows. What gives?
 
