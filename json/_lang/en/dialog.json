@@ -1276,7 +1276,7 @@
     "<speed=0>近くに　誰もいないため|指定できません。": "",
     "<speed=0>返事ができる　さそいが　ありませんでした。": "",
     "<speed=0>返事がない仲間がいたため|同盟相手探しは　中止されました。": "",
-    "<speed=0>返事がない仲間がいます。|返事があった仲間だけで　この先に行きますか？<yesno><close>": "",
+    "<speed=0>返事がない仲間がいます。|返事があった仲間だけで　この先に行きますか？<yesno><close>": "<speed=0>Some part members haven't replied.|Proceed only with those who have replied?<yesno><close>",
     "<speed=0>返事がない仲間がいます。|返事があった仲間だけで　行きますか？<yesno><close>": "",
     "<speed=0>返事のない　仲間がいます。|返事があった仲間だけで　行きますか？<yesno 2><close>": "",
     "<speed=0>迷宮から|グランゼドーラ城　西の塔に　戻りますか？|ゴールドは　失いません。<yesno2><close>": "",
