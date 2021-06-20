@@ -1,25 +1,86 @@
-{
-  "<%sC_ITMR_STITLE>": "<%sC_ITMR_STITLE>",
-  "<%sW_MONSNAME>を倒せ！ 残り<%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "<%sW_MONSNAME>を倒せ！ 残り<%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒",
-  "アストルティアラリー開始まで残り<%dW_T_MINUTE>分": "アストルティアラリー開始まで残り<%dW_T_MINUTE>分",
-  "グランプリ開始まで残り<%dW_T_MINUTE>分": "グランプリ開始まで残り<%dW_T_MINUTE>分",
-  "タイムアップまで <%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "タイムアップまで <%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒",
-  "フィーバーまで <%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "フィーバーまで <%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒",
-  "制限時間残り<%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "制限時間残り<%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒",
-  "制限時間残り<%dW_T_MINUTE>分": "制限時間残り<%dW_T_MINUTE>分",
-  "制限時間残り<%dW_T_SECOND>秒": "制限時間残り<%dW_T_SECOND>秒",
-  "勇気の輝き残り<%dW_T_SECOND>": "勇気の輝き残り<%dW_T_SECOND>",
-  "回答時間残り<%dW_T_SECOND>秒": "回答時間残り<%dW_T_SECOND>秒",
-  "心の輝き残り<%dW_T_SECOND>": "心の輝き残り<%dW_T_SECOND>",
-  "提灯の油　残量<%dW_T_SECOND>": "提灯の油　残量<%dW_T_SECOND>",
-  "残り<%dW_T_MINUTE>分 <%sC_ITMR_STITLE>": "残り<%dW_T_MINUTE>分 <%sC_ITMR_STITLE>",
-  "白い火が消えるまで残り<%dW_T_SECOND>": "白い火が消えるまで残り<%dW_T_SECOND>",
-  "紫の火が消えるまで残り<%dW_T_SECOND>": "紫の火が消えるまで残り<%dW_T_SECOND>",
-  "練習開始まで残り<%dW_T_MINUTE>分": "練習開始まで残り<%dW_T_MINUTE>分",
-  "解答時間残り<%dW_T_SECOND>": "解答時間残り<%dW_T_SECOND>",
-  "解答時間残り<%dW_T_SECOND>秒": "解答時間残り<%dW_T_SECOND>秒",
-  "赤い火が消えるまで残り<%dW_T_SECOND>": "赤い火が消えるまで残り<%dW_T_SECOND>",
-  "開催まで残り<%dW_T_MINUTE>分": "開催まで残り<%dW_T_MINUTE>分",
-  "青い火が消えるまで残り<%dW_T_SECOND>": "青い火が消えるまで残り<%dW_T_SECOND>",
-  "願いのかけら <%dW_T_SECOND>こ": "願いのかけら <%dW_T_SECOND>こ"
+﻿{
+  "1": {
+    "勇気の輝き残り<%dW_T_SECOND>": "勇気の輝き残り<%dW_T_SECOND>"
+  },
+  "2": {
+    "制限時間残り<%dW_T_MINUTE>分": "制限時間残り<%dW_T_MINUTE>分"
+  },
+  "3": {
+    "解答時間残り<%dW_T_SECOND>": "解答時間残り<%dW_T_SECOND>"
+  },
+  "4": {
+    "clarity_nt_char_1": "clarity_nt_char_1"
+  },
+  "5": {
+    "解答時間残り<%dW_T_SECOND>秒": "解答時間残り<%dW_T_SECOND>秒"
+  },
+  "6": {
+    "開催まで残り<%dW_T_MINUTE>分": "開催まで残り<%dW_T_MINUTE>分"
+  },
+  "7": {
+    "<%sW_MONSNAME>を倒せ！ 残り<%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "<%sW_MONSNAME>を倒せ！ 残り<%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒"
+  },
+  "8": {
+    "制限時間残り<%dW_T_SECOND>秒": "制限時間残り<%dW_T_SECOND>秒"
+  },
+  "9": {
+    "制限時間残り<%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "制限時間残り<%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒"
+  },
+  "10": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "11": {
+    "願いのかけら <%dW_T_SECOND>こ": "願いのかけら <%dW_T_SECOND>こ"
+  },
+  "12": {
+    "clarity_nt_char_3": "clarity_nt_char_3"
+  },
+  "13": {
+    "青い火が消えるまで残り<%dW_T_SECOND>": "青い火が消えるまで残り<%dW_T_SECOND>"
+  },
+  "14": {
+    "残り<%dW_T_MINUTE>分 <%sC_ITMR_STITLE>": "残り<%dW_T_MINUTE>分 <%sC_ITMR_STITLE>"
+  },
+  "15": {
+    "赤い火が消えるまで残り<%dW_T_SECOND>": "赤い火が消えるまで残り<%dW_T_SECOND>"
+  },
+  "16": {
+    "紫の火が消えるまで残り<%dW_T_SECOND>": "紫の火が消えるまで残り<%dW_T_SECOND>"
+  },
+  "17": {
+    "白い火が消えるまで残り<%dW_T_SECOND>": "白い火が消えるまで残り<%dW_T_SECOND>"
+  },
+  "18": {
+    "アストルティアラリー開始まで残り<%dW_T_MINUTE>分": "アストルティアラリー開始まで残り<%dW_T_MINUTE>分"
+  },
+  "19": {
+    "回答時間残り<%dW_T_SECOND>秒": "回答時間残り<%dW_T_SECOND>秒"
+  },
+  "20": {
+    "グランプリ開始まで残り<%dW_T_MINUTE>分": "グランプリ開始まで残り<%dW_T_MINUTE>分"
+  },
+  "21": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "22": {
+    "練習開始まで残り<%dW_T_MINUTE>分": "練習開始まで残り<%dW_T_MINUTE>分"
+  },
+  "23": {
+    "<%sC_ITMR_STITLE>": "<%sC_ITMR_STITLE>"
+  },
+  "24": {
+    "フィーバーまで <%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "フィーバーまで <%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒"
+  },
+  "25": {
+    "clarity_nt_char_5": "clarity_nt_char_5"
+  },
+  "26": {
+    "タイムアップまで <%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "タイムアップまで <%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒"
+  },
+  "27": {
+    "提灯の油　残量<%dW_T_SECOND>": "提灯の油　残量<%dW_T_SECOND>"
+  },
+  "28": {
+    "心の輝き残り<%dW_T_SECOND>": "心の輝き残り<%dW_T_SECOND>"
+  }
 }

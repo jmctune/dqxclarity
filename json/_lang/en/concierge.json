@@ -1,87 +1,383 @@
 {
-  "１０こ集めると|装備に復元できる|アクセサリの破片": "Collect 10 of|these to restore|an accessory.",
-  "１枚で抽せん１回|コンシェルジュに|持っていこう": "Does 1 lottery|draw at the|concierge.",
-  "３０こ集めると|装備に復元できる|アクセサリの破片": "Collect 30 of|these to restore|an accessory.",
-  "５枚で抽せん１回|コンシェルジュに|持っていこう": "Five of these|equal 1 ticket|at the concierge.",
-  "アクセルギアの破片": "Accel Gear Shard",
-  "あつめると|マイタウン権利証|封書と交換できる": "Can be redeemed|for a My Town|Certificate.",
-  "いっぱいあつめて|月の交換屋に|持っていこう！": "Take these to|the Moon Exchange|shop!",
-  "お月見だんご": "Moon View Dumpling",
-  "ガナン帝国の勲章の破片": "Ganan Empire Order Fragment",
-  "こ": " ",
-  "スペシャルふくびき券": "Special Lottery Ticket",
-  "ソーサリーリングの破片": "Sorcery Ring Shard",
-  "ダークゼリー": "Dark Jelly",
-  "ダークに香る|プルプルゼリー|さわるとひんやり": "A dark jelly|that's bouncy|and feels cold.",
-  "たくさん集めると|装備に復元できる|アクセサリの破片": "Collect a lot|to restore an|accessory.",
-  "なし": "None",
-  "ハイドラベルトの破片": "Hydra Belt Shard",
-  "バトルチョーカーの破片": "Battle Choker Shard",
-  "ハロウィンの|パワーが宿った|特別なお菓子": "Powerful,|special Halloween|sweets.",
-  "ふくびきインク": "Lottery Ink",
-  "ふくびき券": "Lottery Ticket",
-  "ふくびき券を|印刷する時に使う|魔法のインク": "Magic ink used|when printing|lottery tickets.",
-  "ふくびき補助券": "Lottery Coupon",
-  "ホロウキャンディ": "Hallow Candy",
-  "マイタウンメダル": "My Town Medal",
-  "レグナライト": "Legnalite",
-  "わだつみのしずく": "Sea God's Droplet",
-  "万魔の大紋章の破片": "Great Manma Crest Shard",
-  "万魔の紋章の破片": "Manma Crest Shard",
-  "剛勇のベルトの破片": "Brave Belt Shard",
-  "夢幻魔王の勲章の破片": "Dream Demon King Seal Shard",
-  "大地の大竜玉の破片": "Great Dragon Orb Shard",
-  "大地の竜玉の破片": "Dragon Orb Shard",
-  "将軍のゆびわの破片": "General's Ring Shard",
-  "常闇の砂": "Endless Sand",
-  "幻界のゆびわの破片": "Phantom World Ring Shard",
-  "忠義の勲章の破片": "Loyalty Medal Shard",
-  "忠誠のチョーカーの破片": "Loyalty Choker Shard",
-  "悪霊の仮面の破片": "Fiend's Mask Shard",
-  "智謀の首かざりの破片": "Wisdom Necklace Shard",
-  "枚": " ",
-  "機神の眼甲の破片": "Mech God's Foot Shard",
-  "死神のピアスの破片": "Reaper's Earrings Shard",
-  "氷闇の月飾りの破片": "Dark Ice Moon Shard",
-  "浅い青に透き通る|ガラスのような|羽根型の結晶": "Pale blue,|glasslike feather|shaped crystals.",
-  "海の祝福を受けて|キラキラと輝く|きよらかなしずく": "A sea blessing|of glittering|droplets.",
-  "海魔の眼甲の破片": "Sea Demon Foot Shard",
-  "淡い紫に透き通る|ガラスのような|羽根型の結晶": "Purple, see|through feather|shaped crystals.",
-  "深い紅に透き通る|ガラスのような|羽根型の結晶": "Crimson, see|through feather|shaped crystals.",
-  "深い黒に透き通る|ガラスのような|羽根型の結晶": "Deep black, see|through feather|shaped crystals.",
-  "炎光の勾玉の破片": "Firelight Jewel Shard",
-  "竜のうろこの破片": "Dragon Scale Shard",
-  "紅水晶の羽根": "Red Quartz Feather",
-  "紫の光をたたえる|つややかな石|錬金強化に使おう": "A shiny,|purple stone used|for alchemy.",
-  "紫の錬金石": "Purple A. Stone",
-  "紫水晶の羽根": "Amethyst Feather",
-  "緑の光をたたえる|つややかな石|錬金強化に使おう": "A shiny,|green stone used|for alchemy.",
-  "緑の錬金石": "Green A. Stone",
-  "翠水晶の羽根": "Emerald Feather",
-  "蒼水晶の羽根": "Celestite Feather",
-  "赤の光をたたえる|つややかな石|錬金強化に使おう": "A shiny,|red stone used|for alchemy.",
-  "赤の錬金石": "Red A. Stone",
-  "輝く翠に透き通る|ガラスのような|羽根型の結晶": "Shiny green, see|through feather|shaped crystals.",
-  "金のロザリオの破片": "Gold Rosary Shard",
-  "金の光をたたえる|つややかな石|錬金強化に使おう": "A shiny,|gold stone used|for alchemy.",
-  "金の錬金石": "Gold A. Stone",
-  "銀のロザリオの破片": "Silver Rosary Shard",
-  "銀の光をたたえる|つややかな石|錬金強化に使おう": "A shiny,|silver stone used|for alchemy.",
-  "銀の錬金石": "Silver A. Stone",
-  "青の光をたたえる|つややかな石|錬金強化に使おう": "A shiny,|blue stone used|for alchemy.",
-  "青の錬金石": "Blue A. Stone",
-  "風雷のいんろうの破片": "Stormy Inro Shard",
-  "魔人の勲章の破片": "Demon's Medal Shard",
-  "魔犬の仮面の破片": "Demon Dog Mask Shard",
-  "魔王のネックレスの破片": "Demon's Necklace Shard",
-  "黄の光をたたえる|つややかな石|錬金強化に使おう": "A shiny,|yellow stone used|for alchemy.",
-  "黄の錬金石": "Yellow A. Stone",
-  "黄水晶の羽根": "Citrine Feather",
-  "黄金のブローチの破片": "Golden Brooch Shard",
-  "黄金色に透き通る|ガラスのような|羽根型の結晶": "Shiny golden, see|through feather|shaped crystals.",
-  "黒の光をたたえる|つややかな石|錬金強化に使おう": "A shiny,|black stone used|for alchemy.",
-  "黒の錬金石": "Black A. Stone",
-  "黒曜石のような|光沢をもつ|うろこ型の鉱石": "Shiny obsidian|ore shaped like|a scale.",
-  "黒曜石のような|光沢をもつ|ひとにぎりの砂": "A bit of sand|that's shiny and|obsidian like.",
-  "黒水晶の羽根": "Onyx Feather"
+  "1": {
+    "ふくびき券": "Lottery Ticket"
+  },
+  "2": {
+    "スペシャルふくびき券": "Special Lottery Ticket"
+  },
+  "3": {
+    "clarity_nt_char_1": "clarity_nt_char_1"
+  },
+  "4": {
+    "ふくびき補助券": "Lottery Coupon"
+  },
+  "5": {
+    "枚": " "
+  },
+  "6": {
+    "１枚で抽せん１回|コンシェルジュに|持っていこう": "Does 1 lottery|draw at the|concierge."
+  },
+  "7": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "8": {
+    "５枚で抽せん１回|コンシェルジュに|持っていこう": "Five of these|equal 1 ticket|at the concierge."
+  },
+  "9": {
+    "clarity_nt_char_3": "clarity_nt_char_3"
+  },
+  "10": {
+    "ふくびきインク": "Discount Ink"
+  },
+  "11": {
+    "こ": " "
+  },
+  "12": {
+    "ふくびき券を|印刷する時に使う|魔法のインク": "Magic ink used|when printing|lottery tickets."
+  },
+  "13": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "14": {
+    "赤の錬金石": "Red A. Stone"
+  },
+  "15": {
+    "赤の光をたたえる|つややかな石|錬金強化に使おう": "A shiny,|red stone used|for alchemy."
+  },
+  "16": {
+    "clarity_nt_char_5": "clarity_nt_char_5"
+  },
+  "17": {
+    "お月見だんご": "Moon View Dumpling"
+  },
+  "18": {
+    "clarity_nt_char_6": "clarity_nt_char_6"
+  },
+  "19": {
+    "いっぱいあつめて|月の交換屋に|持っていこう！": "Take these to|the Moon Exchange|shop!"
+  },
+  "20": {
+    "緑の錬金石": "Green A. Stone"
+  },
+  "21": {
+    "黄の錬金石": "Yellow A. Stone"
+  },
+  "22": {
+    "青の錬金石": "Blue A. Stone"
+  },
+  "23": {
+    "緑の光をたたえる|つややかな石|錬金強化に使おう": "A shiny,|green stone used|for alchemy."
+  },
+  "24": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "25": {
+    "黄の光をたたえる|つややかな石|錬金強化に使おう": "A shiny,|yellow stone used|for alchemy."
+  },
+  "26": {
+    "clarity_nt_char_8": "clarity_nt_char_8"
+  },
+  "27": {
+    "青の光をたたえる|つややかな石|錬金強化に使おう": "A shiny,|blue stone used|for alchemy."
+  },
+  "28": {
+    "clarity_nt_char_9": "clarity_nt_char_9"
+  },
+  "29": {
+    "ホロウキャンディ": "Hallow Candy"
+  },
+  "30": {
+    "clarity_nt_char_10": "clarity_nt_char_10"
+  },
+  "31": {
+    "ハロウィンの|パワーが宿った|特別なお菓子": "Powerful,|special Halloween|sweets."
+  },
+  "32": {
+    "なし": "None"
+  },
+  "33": {
+    "clarity_nt_char_11": "clarity_nt_char_11"
+  },
+  "34": {
+    "紫の錬金石": "Purple A. Stone"
+  },
+  "35": {
+    "紫の光をたたえる|つややかな石|錬金強化に使おう": "A shiny,|purple stone used|for alchemy."
+  },
+  "36": {
+    "clarity_nt_char_12": "clarity_nt_char_12"
+  },
+  "37": {
+    "マイタウンメダル": "My Town Medal"
+  },
+  "38": {
+    "clarity_nt_char_13": "clarity_nt_char_13"
+  },
+  "39": {
+    "あつめると|マイタウン権利証|封書と交換できる": "Can be redeemed|for a My Town|Certificate."
+  },
+  "40": {
+    "黒の錬金石": "Black A. Stone"
+  },
+  "41": {
+    "黒の光をたたえる|つややかな石|錬金強化に使おう": "A shiny,|black stone used|for alchemy."
+  },
+  "42": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "43": {
+    "バトルチョーカーの破片": "Battle Choker Shard"
+  },
+  "44": {
+    "ソーサリーリングの破片": "Sorcery Ring Shard"
+  },
+  "45": {
+    "銀のロザリオの破片": "Silver Rosary Shard"
+  },
+  "46": {
+    "悪霊の仮面の破片": "Fiend's Mask Shard"
+  },
+  "47": {
+    "clarity_nt_char_15": "clarity_nt_char_15"
+  },
+  "48": {
+    "大地の竜玉の破片": "Dragon Orb Shard"
+  },
+  "49": {
+    "clarity_nt_char_16": "clarity_nt_char_16"
+  },
+  "50": {
+    "魔王のネックレスの破片": "Demon's Necklace Shard"
+  },
+  "51": {
+    "ハイドラベルトの破片": "Hydra Belt Shard"
+  },
+  "52": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "53": {
+    "黄金のブローチの破片": "Golden Brooch Shard"
+  },
+  "54": {
+    "clarity_nt_char_18": "clarity_nt_char_18"
+  },
+  "55": {
+    "海魔の眼甲の破片": "Sea Demon Foot Shard"
+  },
+  "56": {
+    "clarity_nt_char_19": "clarity_nt_char_19"
+  },
+  "57": {
+    "忠誠のチョーカーの破片": "Loyalty Choker Shard"
+  },
+  "58": {
+    "アクセルギアの破片": "Accelerator Gear Shard"
+  },
+  "59": {
+    "幻界のゆびわの破片": "Phantom World Ring Shard"
+  },
+  "60": {
+    "大地の大竜玉の破片": "Great Dragon Orb Shard"
+  },
+  "61": {
+    "金のロザリオの破片": "Gold Rosary Shard"
+  },
+  "62": {
+    "魔人の勲章の破片": "Demon's Medal Shard"
+  },
+  "63": {
+    "clarity_nt_char_20": "clarity_nt_char_20"
+  },
+  "64": {
+    "風雷のいんろうの破片": "Stormy Inro Shard"
+  },
+  "65": {
+    "clarity_nt_char_21": "clarity_nt_char_21"
+  },
+  "66": {
+    "機神の眼甲の破片": "Mech God's Foot Shard"
+  },
+  "67": {
+    "clarity_nt_char_22": "clarity_nt_char_22"
+  },
+  "68": {
+    "氷闇の月飾りの破片": "Dark Ice Moon Shard"
+  },
+  "69": {
+    "将軍のゆびわの破片": "General's Ring Shard"
+  },
+  "70": {
+    "炎光の勾玉の破片": "Firelight Jewel Shard"
+  },
+  "71": {
+    "clarity_nt_char_23": "clarity_nt_char_23"
+  },
+  "72": {
+    "死神のピアスの破片": "Reaper's Earrings Shard"
+  },
+  "73": {
+    "忠義の勲章の破片": "Loyalty Medal Shard"
+  },
+  "74": {
+    "clarity_nt_char_24": "clarity_nt_char_24"
+  },
+  "75": {
+    "智謀の首かざりの破片": "Wisdom Necklace Shard"
+  },
+  "76": {
+    "clarity_nt_char_25": "clarity_nt_char_25"
+  },
+  "77": {
+    "剛勇のベルトの破片": "Brave Belt Shard"
+  },
+  "78": {
+    "ガナン帝国の勲章の破片": "Ganan Emp. Order Shard"
+  },
+  "79": {
+    "竜のうろこの破片": "Dragon Scale Shard"
+  },
+  "80": {
+    "clarity_nt_char_26": "clarity_nt_char_26"
+  },
+  "81": {
+    "万魔の紋章の破片": "Manma Crest Shard"
+  },
+  "82": {
+    "clarity_nt_char_27": "clarity_nt_char_27"
+  },
+  "83": {
+    "１０こ集めると|装備に復元できる|アクセサリの破片": "Collect 10 of|these to restore|an accessory."
+  },
+  "84": {
+    "たくさん集めると|装備に復元できる|アクセサリの破片": "Collect a lot|to restore an|accessory."
+  },
+  "85": {
+    "clarity_nt_char_28": "clarity_nt_char_28"
+  },
+  "86": {
+    "３０こ集めると|装備に復元できる|アクセサリの破片": "Collect 30 of|these to restore|an accessory."
+  },
+  "87": {
+    "銀の錬金石": "Silver A. Stone"
+  },
+  "88": {
+    "魔犬の仮面の破片": "Demon Dog Mask Shard"
+  },
+  "89": {
+    "clarity_nt_char_29": "clarity_nt_char_29"
+  },
+  "90": {
+    "銀の光をたたえる|つややかな石|錬金強化に使おう": "A shiny,|silver stone used|for alchemy."
+  },
+  "91": {
+    "clarity_nt_char_30": "clarity_nt_char_30"
+  },
+  "92": {
+    "金の錬金石": "Gold A. Stone"
+  },
+  "93": {
+    "金の光をたたえる|つややかな石|錬金強化に使おう": "A shiny,|gold stone used|for alchemy."
+  },
+  "94": {
+    "clarity_nt_char_31": "clarity_nt_char_31"
+  },
+  "95": {
+    "夢幻魔王の勲章の破片": "Dream Demon Medal Shard"
+  },
+  "96": {
+    "clarity_nt_char_32": "clarity_nt_char_32"
+  },
+  "97": {
+    "常闇の砂": "Endless Sand"
+  },
+  "98": {
+    "clarity_nt_char_33": "clarity_nt_char_33"
+  },
+  "99": {
+    "ダークゼリー": "Dark Slimedrop"
+  },
+  "100": {
+    "clarity_nt_char_34": "clarity_nt_char_34"
+  },
+  "101": {
+    "わだつみのしずく": "Sea God's Droplet"
+  },
+  "102": {
+    "clarity_nt_char_35": "clarity_nt_char_35"
+  },
+  "103": {
+    "レグナライト": "Legnalite"
+  },
+  "104": {
+    "clarity_nt_char_36": "clarity_nt_char_36"
+  },
+  "105": {
+    "紫水晶の羽根": "Amethyst Feather"
+  },
+  "106": {
+    "clarity_nt_char_37": "clarity_nt_char_37"
+  },
+  "107": {
+    "紅水晶の羽根": "Red Quartz Feather"
+  },
+  "108": {
+    "clarity_nt_char_38": "clarity_nt_char_38"
+  },
+  "109": {
+    "翠水晶の羽根": "Emerald Feather"
+  },
+  "110": {
+    "clarity_nt_char_39": "clarity_nt_char_39"
+  },
+  "111": {
+    "黄水晶の羽根": "Citrine Feather"
+  },
+  "112": {
+    "clarity_nt_char_40": "clarity_nt_char_40"
+  },
+  "113": {
+    "蒼水晶の羽根": "Celestite Feather"
+  },
+  "114": {
+    "clarity_nt_char_41": "clarity_nt_char_41"
+  },
+  "115": {
+    "黒水晶の羽根": "Onyx Feather"
+  },
+  "116": {
+    "clarity_nt_char_42": "clarity_nt_char_42"
+  },
+  "117": {
+    "黒曜石のような|光沢をもつ|ひとにぎりの砂": "A bit of sand|that's shiny and|obsidian like."
+  },
+  "118": {
+    "ダークに香る|プルプルゼリー|さわるとひんやり": "Dark, scented|jelly is cool|to the touch."
+  },
+  "119": {
+    "海の祝福を受けて|キラキラと輝く|きよらかなしずく": "A sea blessing|of glittering|droplets."
+  },
+  "120": {
+    "黒曜石のような|光沢をもつ|うろこ型の鉱石": "Shiny obsidian|ore shaped like|a scale."
+  },
+  "121": {
+    "淡い紫に透き通る|ガラスのような|羽根型の結晶": "Purple, see|through feather|shaped crystals."
+  },
+  "122": {
+    "深い紅に透き通る|ガラスのような|羽根型の結晶": "Crimson, see|through feather|shaped crystals."
+  },
+  "123": {
+    "輝く翠に透き通る|ガラスのような|羽根型の結晶": "Shiny green, see|through feather|shaped crystals."
+  },
+  "124": {
+    "黄金色に透き通る|ガラスのような|羽根型の結晶": "Shiny golden, see|through feather|shaped crystals."
+  },
+  "125": {
+    "浅い青に透き通る|ガラスのような|羽根型の結晶": "Pale blue,|glasslike feather|shaped crystals."
+  },
+  "126": {
+    "深い黒に透き通る|ガラスのような|羽根型の結晶": "Deep black, see|through feather|shaped crystals."
+  },
+  "127": {
+    "万魔の大紋章の破片": "Great Manma Crest Shard"
+  }
 }

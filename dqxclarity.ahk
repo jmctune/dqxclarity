@@ -1,16 +1,15 @@
-﻿#SingleInstance, Off
+﻿#SingleInstance, Force
 #Include <classMemory>
 #Include <convertHex>
-#Include <memWrite>
 #Include <JSON>
-#Include <JSON_coco>
 
 SetBatchLines, -1
+FileEncoding UTF-8
 
 Process, Exist, DQXGame.exe
 if !ErrorLevel
 {
-  MsgBox Dragon Quest X must be running for dqxclarity to work.
+  MsgBox Dragon Quest X must be running for dqxclarity to run.
   ExitApp
 }
 
@@ -21,7 +20,7 @@ url := "https://api.github.com/repos/jmctune/dqxclarity/releases/latest"
 oWhr.Open("GET", url, 0)
 oWhr.Send()
 oWhr.WaitForResponse()
-jsonResponse := JSON_coco.Load(oWhr.ResponseText)
+jsonResponse := JSON.Load(oWhr.ResponseText)
 latestVersion := (jsonResponse.tag_name)
 latestVersion := SubStr(latestVersion, 2)
 
@@ -49,14 +48,15 @@ if FileExist(tmpLoc)
   sleep 50
 }
 
+;; === UI ========================================================================
 ;; Create GUI
 Gui, 1:Default
 Gui, Add, Tab3,, General|Update|About
 Gui, Font, s10, Segoe UI
-Gui, Add, Text,, Number of files to process at once`n(Higher number uses more CPU)
-Gui, Add, Edit
-Gui, Add, UpDown, vParallelProcessing Range1-50, 15
-Gui, Add, Button, gRun, Run
+Gui, Add, Text,, dqxclarity
+Gui, Add, Text, y+1, Finally, a somewhat localized DQX. 
+Gui, Add, Picture, vImage w107 h-1 +Center, imgs/rosie.ico
+Gui, Add, Button, gRun +Default w100, Go
 
 ;; Update tab
 Gui, Tab, Update
@@ -74,11 +74,6 @@ Gui, Add, Link,, Core app made by Serany <3 `n`nTranslations done by several mem
 Gui, Show, Autosize
 Return
 
-UpdateApp:
-  Run, %A_ScriptDir%\updater.exe
-  ExitApp
-  Return
-
 UpdateJSON:
   Run, %A_ScriptDir%\json_latest.exe
   ExitApp
@@ -91,26 +86,9 @@ Run:
 Gui, 2:Default
 Gui, Font, s12
 Gui, +AlwaysOnTop +E0x08000000
-Gui, Add, Edit, vNotes w500 r10 +ReadOnly -WantCtrlA -WantReturn,
+Gui, Add, Edit, vProgress w500 r10 +ReadOnly -WantCtrlA -WantReturn,
 Gui, Show, Autosize
-
-;; Start timer
-startTime := A_TickCount
-
-;; Get number of files we're going to process
-numberOfFiles := 0
-Loop, json\_lang\en\*.json
-  if InStr(A_LoopFileFullPath, ".dummy.json")
-    continue
-  else
-    numberOfFiles++
-
-;; Open a process to check if the user has already run
-;; Clarity during their DQX session. If so, don't let them run it again.
-if (_ClassMemory.__Class != "_ClassMemory") {
-  msgbox class memory not correctly installed. Or the (global class) variable "_ClassMemory" has been overwritten
-  ExitApp
-}
+;; === UI ========================================================================
 
 dqx := new _ClassMemory("ahk_exe DQXGame.exe", "", hProcessCopy)
 Global dqx
@@ -131,38 +109,70 @@ if !isObject(dqx)
   }
 }
 
-GuiControl,, Notes, Checking if Clarity can run...
-textHex := dqx.hexStringToPattern("54 45 58 54 10 00 00 00 F0 01 00 00 00 00 00 00 00 00 E3 82 A8") ;; classes_races.json
-if (dqx.processPatternScan(,,textHex*) == 0)
-{
-  GuiControl,, Notes, You've already run Clarity during this Dragon Quest X session. Please close and re-open Dragon Quest X to rerun Clarity.
-  Sleep 4000
-  ExitApp
-}
+;; === SCRIPT START ==============================================================
+;; get AOBs for start/end
+startAOB := dqx.hexStringToPattern("49 4E 44 58 10 00 00") ;; INDX block start
+textAOB := dqx.hexStringToPattern("54 45 58 54 10 00 00") ;; TEXT block start
+start_addr := 0
 
-;; Loop through all files in json directory
-numberOfRunningProcesses := 0
-Loop, json\_lang\en\*.json, F
+;; Start timer
+GuiControl,, Progress, CPU usage will spike while this is running.`n`nProcesses firing up.
+startTime := A_TickCount
+
+Loop
 {
-  if InStr(A_LoopFileFullPath, ".dummy.json")
-    continue
-  else
-    Loop
+  ;; iterate through each file loaded into mem
+  start_addr := dqx.processPatternScan(start_addr,, startAOB*)  ;; find each unique block
+
+  ;; if we can't find any more matches, we're done
+  if start_addr = 0
+    break
+
+  ;; we found a match, so keep going
+  hex_start := dqx.readRaw(start_addr, hexbuf, 64)
+  hex_start := bufferToHex(hexbuf, 64)  ;; get hex of buffer, which we use for the lookup against the hex_dict
+  start_addr := dqx.processPatternScan(start_addr,, textAOB*)  ;; jump to the start of the block
+
+  ;; remove beginning TEXT[] garbage and get towards end
+  start_addr := start_addr + 14
+
+  ;; loop from where we ended up until we stop getting null terms.
+  ;; this is the true beginning of the address we want to write to.
+  loop
+  { 
+    start_addr := start_addr + 1
+    result := dqx.readRaw(start_addr, buffer, 1)
+    result := bufferToHex(buffer, 1)
+  } until (result != 00)
+
+  ;; for our first write, we want to be one address behind because we will
+  ;; be including a null term at the beginning of the string, so go back one.
+  start_addr := start_addr - 1
+
+  ;; parse master csv to figure out what the file is
+  fileName := ""
+  Loop, Read, hex_dict.csv
+  {
+    Loop, Parse, A_LoopReadLine, CSV
     {
-      numberOfRunningProcesses := 0
-      for process in ComObjGet("winmgmts:").ExecQuery("Select * from Win32_Process")
+      if (A_LoopField = hex_start)
       {
-        if process.Name = "run_json.exe"
-          numberOfRunningProcesses++
+        split := StrSplit(A_LoopReadLine, ",")
+        fileName := split[1]
+        break
       }
     }
-    Until (numberOfRunningProcesses < ParallelProcessing)   ;; Limit throughput processing based on user input.
+  }
 
-    Run, %A_ScriptDir%\run_json.exe %A_LoopFileFullPath%
-    numberOfFiles := (numberOfFiles - 1)
-    GuiControl,, Notes, Queued files waiting to process: %numberOfFiles%`n`nCurrent files processing: %numberOfRunningProcesses%
+  ;; if the entry doesn't exist in the hex_dict, skip to the
+  ;; next address as we don't know what to write
+  if (fileName = "")
+    continue
+
+  Run, run_json.exe %fileName% %start_addr%
 }
 
+numberOfRunningProcesses := 1
 ;; Let user know how many files are left to process
 while (numberOfRunningProcesses != 0)
 {
@@ -172,12 +182,12 @@ while (numberOfRunningProcesses != 0)
     if process.Name = "run_json.exe"
       numberOfRunningProcesses++
   }
-  GuiControl,, Notes, Number of files left to translate: %numberOfRunningProcesses%
+  GuiControl,, Progress, Files remaining: %numberOfRunningProcesses%
   sleep 500
 }
 
 elapsedTime := A_TickCount - startTime
-GuiControl,, Notes, Done.`n`nElapsed time: %elapsedTime%ms
+GuiControl,, Progress, Done.`n`nElapsed time: %elapsedTime%ms
 Sleep 750
 
 ExitApp
