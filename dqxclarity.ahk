@@ -15,38 +15,38 @@ if !ErrorLevel
 
 ;=== Auto update ============================================================
 ;; Get latest version number from Github
-; oWhr := ComObjCreate("WinHttp.WinHttpRequest.5.1")
-; url := "https://api.github.com/repos/jmctune/dqxclarity/releases/latest"
-; oWhr.Open("GET", url, 0)
-; oWhr.Send()
-; oWhr.WaitForResponse()
-; jsonResponse := JSON.Load(oWhr.ResponseText)
-; latestVersion := (jsonResponse.tag_name)
-; latestVersion := SubStr(latestVersion, 2)
+oWhr := ComObjCreate("WinHttp.WinHttpRequest.5.1")
+url := "https://api.github.com/repos/jmctune/dqxclarity/releases/latest"
+oWhr.Open("GET", url, 0)
+oWhr.Send()
+oWhr.WaitForResponse()
+jsonResponse := JSON.Load(oWhr.ResponseText)
+latestVersion := (jsonResponse.tag_name)
+latestVersion := SubStr(latestVersion, 2)
 
-; ;; Get current version locally from version file
-; FileRead, currentVersion, version
+;; Get current version locally from version file
+FileRead, currentVersion, version
 
-; ;; If the versions differ, run updater
-; if (latestVersion != currentVersion)
-; {
-;   if (latestVersion = "" || currentVersion = "")
-;   {
-;     MsgBox Unable to determine latest version. Continuing without updating.
-;   }
-;   else
-;   {
-;     Run updater.exe
-;     ExitApp
-;   }
-; }
-; else
-; {
-; tmpLoc := A_ScriptDir "\tmp"
-; if FileExist(tmpLoc)
-;   FileRemoveDir, %A_ScriptDir%\tmp, 1
-;   sleep 50
-; }
+;; If the versions differ, run updater
+if (latestVersion != currentVersion)
+{
+  if (latestVersion = "" || currentVersion = "")
+  {
+    MsgBox Unable to determine latest version. Continuing without updating.
+  }
+  else
+  {
+    Run updater.exe
+    ExitApp
+  }
+}
+else
+{
+tmpLoc := A_ScriptDir "\tmp"
+if FileExist(tmpLoc)
+  FileRemoveDir, %A_ScriptDir%\tmp, 1
+  sleep 50
+}
 
 ;; === UI ========================================================================
 ;; Create GUI
@@ -150,6 +150,7 @@ Loop
   start_addr := start_addr - 1
 
   ;; parse master csv to figure out what the file is
+  fileName := ""
   Loop, Read, hex_dict.csv
   {
     Loop, Parse, A_LoopReadLine, CSV
