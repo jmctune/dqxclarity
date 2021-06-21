@@ -4452,7 +4452,7 @@
         "<%sB_ACTOR>は 生き返りができない空間を作り 帯電した！": ""
     },
     "1485": {
-        "<%sB_EXTRA>たちが あらわれた！": "<%sB_EXTRA>something stirs..."
+        "<%sB_EXTRA>たちが あらわれた！": "<%sB_EXTRA> summoned!"
     },
     "1486": {
         "<%sB_ACTOR>は すべての魔力を 解き放った！": ""
@@ -5871,7 +5871,7 @@
         "clarity_nt_char_684": "clarity_nt_char_684"
     },
     "1958": {
-        "なんと <%sB_EXTRA>が あらわれた！": "what? <%sB_EXTRA>showed up!"
+        "なんと <%sB_EXTRA>が あらわれた！": "what? <%sB_EXTRA> showed up!"
     },
     "1959": {
         "<%sB_EXTRA>が もどってきた！": ""
@@ -6492,7 +6492,7 @@
         "ミス！ <%sB_TARGET>に ダジャレは 通じなかった！": ""
     },
     "2165": {
-        "なんと <%sB_EXTRA>たちが あらわれた！": "What? <%sB_EXTRA>Something Stirs..."
+        "なんと <%sB_EXTRA>たちが あらわれた！": "What? <%sB_EXTRA> has been summoned!"
     },
     "2166": {
         "<%sB_EXTRA>たちが もどってきた！": ""
@@ -24279,7 +24279,7 @@
         "clarity_nt_char_2705": "clarity_nt_char_2705"
     },
     "8094": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの前に 光のカベが あらわれた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eBarrier of light has appeared ahead!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの前に 光のカベが あらわれた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e Barrier of light has appeared ahead!"
     },
     "8095": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは おいかぜを まとった！": ""
@@ -24333,7 +24333,7 @@
         "clarity_nt_char_2709": "clarity_nt_char_2709"
     },
     "8112": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに ボディーガードが あらわれた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eA bodyguard has rolled up!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに ボディーガードが あらわれた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e A bodyguard has rolled up!"
     },
     "8113": {
         "clarity_nt_char_2710": "clarity_nt_char_2710"
