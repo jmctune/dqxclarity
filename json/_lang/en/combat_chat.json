@@ -21909,7 +21909,7 @@
         "仲間ひとりの|チャージ時間を|５秒短縮": ""
     },
     "7304": {
-        "範囲内にいる|仲間のＨＰを|２５～回復する": "Restore|25 HP|to nearby allies"
+        "範囲内にいる|仲間のＨＰを|２５～回復する": "Restore 25 HP|to nearby allies"
     },
     "7305": {
         "仲間ひとりの|悪い効果を消し|ＨＰを２５～回復": ""
@@ -22431,7 +22431,7 @@
         "仲間ひとりの|悪い効果を消し|ＨＰ１６４～回復": ""
     },
     "7478": {
-        "範囲内にいる|仲間のＨＰを|１６４～回復する": "Restore|164 HP|to nearby allies"
+        "範囲内にいる|仲間のＨＰを|１６４～回復する": "Restore 164 HP|to nearby allies"
     },
     "7479": {
         "clarity_nt_char_2495": "clarity_nt_char_2495"
@@ -34854,7 +34854,7 @@
         "clarity_nt_char_3864": "clarity_nt_char_3864"
     },
     "11619": {
-        "範囲内にいる|仲間のＨＰを|少し回復する": "Restore|small HP|to nearby allies"
+        "範囲内にいる|仲間のＨＰを|少し回復する": "Restore small HP|to nearby allies"
     },
     "11620": {
         "clarity_nt_char_3865": "clarity_nt_char_3865"
