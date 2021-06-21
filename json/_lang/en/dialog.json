@@ -1644,7 +1644,7 @@
         "<speed=0><%sM_syokugyou>の　通常時の呪文は|覚えていない！": ""
     },
     "549": {
-        "<speed=0><%sM_syokugyou>の　バトル時の呪文は|覚えていない！": ""
+        "<speed=0><%sM_syokugyou>の　バトル時の呪文は|覚えていない！": "<speed=0><%sM_syokugyou> doesn't know any|spells to use in battle!"
     },
     "550": {
         "clarity_nt_char_188": "clarity_nt_char_188"
