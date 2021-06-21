@@ -1017,7 +1017,7 @@
         "はいる": "Enter"
     },
     "340": {
-        "家をたたむ": "Deconstruct"
+        "家をたたむ": "Demolish House"
     },
     "341": {
         "土地のじょうほう": ""
@@ -9030,7 +9030,7 @@
         "家具の配置について": ""
     },
     "3011": {
-        "家をたたむについて": "About Deconstructing House"
+        "家をたたむについて": "About Demolishing House"
     },
     "3012": {
         "権限の設定について": "About Permissions"
@@ -13860,7 +13860,7 @@
         "clarity_nt_char_1580": "clarity_nt_char_1580"
     },
     "4621": {
-        "コンシェルジュ設定": ""
+        "コンシェルジュ設定": "Concierge Settings"
     },
     "4622": {
         "勇気の輝きで復活する": ""
