@@ -606,7 +606,7 @@
         "clarity_nt_char_71": "clarity_nt_char_71"
     },
     "203": {
-        "格闘の時の|こうげき力が|１０増える": "Attack +10|when Club|equipped."
+        "格闘の時の|こうげき力が|１０増える": "Attack +10|when Fist|equipped."
     },
     "204": {
         "clarity_nt_char_72": "clarity_nt_char_72"
@@ -2268,7 +2268,7 @@
         "エレメント系に|威力を発揮する|風切りのやいば": ""
     },
     "757": {
-        "格闘の時の|こうげき力が|２０増える": "Attack +20|when Club|equipped."
+        "格闘の時の|こうげき力が|２０増える": "Attack +20|when Fist|equipped."
     },
     "758": {
         "clarity_nt_char_247": "clarity_nt_char_247"
@@ -2286,7 +2286,7 @@
         "clarity_nt_char_248": "clarity_nt_char_248"
     },
     "763": {
-        "格闘の時の|こうげき力が|４０増える": "Attack +40|when Club|equipped."
+        "格闘の時の|こうげき力が|４０増える": "Attack +40|when Fist|equipped."
     },
     "764": {
         "clarity_nt_char_249": "clarity_nt_char_249"
@@ -2313,7 +2313,7 @@
         "clarity_nt_char_252": "clarity_nt_char_252"
     },
     "772": {
-        "格闘の時の|こうげき力が|５０増える": "Attack +50|when Club|equipped."
+        "格闘の時の|こうげき力が|５０増える": "Attack +50|when Fist|equipped."
     },
     "773": {
         "clarity_nt_char_253": "clarity_nt_char_253"

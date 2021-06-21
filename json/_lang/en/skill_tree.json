@@ -2505,7 +2505,7 @@
         "かまいたちの特技を　おぼえた！": ""
     },
     "836": {
-        "格闘の時の　こうげき力が　２０　増えた！": ""
+        "格闘の時の　こうげき力が　２０　増えた！": "Attack +20 when Fist equipped!"
     },
     "837": {
         "clarity_nt_char_280": "clarity_nt_char_280"
@@ -2526,7 +2526,7 @@
         "clarity_nt_char_282": "clarity_nt_char_282"
     },
     "843": {
-        "格闘の時の　こうげき力が　４０　増えた！": ""
+        "格闘の時の　こうげき力が　４０　増えた！": "Attack +40 when Fist equipped!"
     },
     "844": {
         "clarity_nt_char_283": "clarity_nt_char_283"
@@ -2553,7 +2553,7 @@
         "clarity_nt_char_285": "clarity_nt_char_285"
     },
     "852": {
-        "格闘の時の　こうげき力が　５０　増えた！": ""
+        "格闘の時の　こうげき力が　５０　増えた！": "Attack +50 when Fist equipped!"
     },
     "853": {
         "clarity_nt_char_286": "clarity_nt_char_286"
@@ -12687,13 +12687,13 @@
         "clarity_nt_char_1436": "clarity_nt_char_1436"
     },
     "4230": {
-        "格闘の時の　こうげき力が　１０　増えた！": ""
+        "格闘の時の　こうげき力が　１０　増えた！": "Attack +10 when Fist equipped!"
     },
     "4231": {
         "clarity_nt_char_1437": "clarity_nt_char_1437"
     },
     "4232": {
-        "格闘の時の　こうげき力が　３０　増えた！": ""
+        "格闘の時の　こうげき力が　３０　増えた！": "Attack +30 when Fist equipped!"
     },
     "4233": {
         "clarity_nt_char_1438": "clarity_nt_char_1438"
@@ -16104,19 +16104,19 @@
         "前方の敵集団を|真空のやいばで|斬りつける": ""
     },
     "5369": {
-        "格闘の時の|こうげき力が|１０増える": ""
+        "格闘の時の|こうげき力が|１０増える": "Attack +10|when Fist|equipped."
     },
     "5370": {
         "clarity_nt_char_1832": "clarity_nt_char_1832"
     },
     "5371": {
-        "格闘の時の|こうげき力が|２０増える": ""
+        "格闘の時の|こうげき力が|２０増える": "Attack +20|when Fist|equipped."
     },
     "5372": {
         "clarity_nt_char_1833": "clarity_nt_char_1833"
     },
     "5373": {
-        "格闘の時の|こうげき力が|３０増える": ""
+        "格闘の時の|こうげき力が|３０増える": "Attack +30|when Fist|equipped."
     },
     "5374": {
         "clarity_nt_char_1834": "clarity_nt_char_1834"
