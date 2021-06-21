@@ -30,10 +30,10 @@
         "/": ""
     },
     "11": {
-        "ページ": ""
+        "ページ": "Page"
     },
     "12": {
-        "何も持ってないヨ！": ""
+        "何も持ってないヨ！": "I've got nothing!"
     },
     "13": {
         "clarity_nt_char_5": "clarity_nt_char_5"
@@ -42,13 +42,13 @@
         "clarity_nt_char_6": "clarity_nt_char_6"
     },
     "15": {
-        "せいべつを　えらんでください": ""
+        "せいべつを　えらんでください": "Please choose your gender."
     },
     "16": {
         "clarity_nt_char_7": "clarity_nt_char_7"
     },
     "17": {
-        "しゅぞくを　えらんでください": ""
+        "しゅぞくを　えらんでください": "Please choose a race"
     },
     "18": {
         "clarity_nt_char_8": "clarity_nt_char_8"
@@ -57,7 +57,7 @@
         "おんな": "Female"
     },
     "20": {
-        "おとこ": ""
+        "おとこ": "Male"
     },
     "21": {
         "ウェディ": "Weddie"
