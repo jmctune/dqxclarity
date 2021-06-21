@@ -4887,7 +4887,7 @@
         "clarity_nt_char_551": "clarity_nt_char_551"
     },
     "1630": {
-        "<speed=0>編集中の見た目を|すべて　記録して終了しますか？<select>|記録して終了|記録しないで終了|<select_end><close>": ""
+        "<speed=0>編集中の見た目を|すべて　記録して終了しますか？<select>|記録して終了|記録しないで終了|<select_end><close>": "<speed=0>Exit and save changed appearance?<select>|Save and Exit|Exit without Saving|<select_end><close>"
     },
     "1631": {
         "この見た目に必要な材料を|コミュニケーションウィンドウの　システムログに書き込みました。": ""
