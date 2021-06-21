@@ -96,7 +96,7 @@
         "戦場の魂をあやつり|死霊を召喚して　共に戦う。|鎌・棍・弓・オノを装備可。": ""
     },
     "33": {
-        "装備時こうげき力+5": "Attack +5 When Worn"
+        "装備時こうげき力+5": "Attack +5"
     },
     "34": {
         "clarity_nt_char_7": "clarity_nt_char_7"
@@ -105,7 +105,7 @@
         "たいぼく斬": "Poplar Toppler"
     },
     "36": {
-        "装備時こうげき力+10": "Attack +10 When Worn"
+        "装備時こうげき力+10": "Attack +10"
     },
     "37": {
         "蒼天魔斬": "Parallax"
@@ -114,19 +114,19 @@
         "clarity_nt_char_8": "clarity_nt_char_8"
     },
     "39": {
-        "装備時こうげき力+15": "Attack +15 When Worn"
+        "装備時こうげき力+15": "Attack +15"
     },
     "40": {
         "かぶと割り": "Helm Splitter"
     },
     "41": {
-        "装備時かいしん率+2%": "Crit Rate +2% When Worn"
+        "装備時かいしん率+2%": "Crit Rate +2%"
     },
     "42": {
         "まじん斬り": "Hatchet Man"
     },
     "43": {
-        "装備時こうげき力+20": "Attack +20 When Worn"
+        "装備時こうげき力+20": "Attack +20"
     },
     "44": {
         "オノむそう": "Axes of Evil"
@@ -135,7 +135,7 @@
         "鉄甲斬": "Scrap Axe"
     },
     "46": {
-        "装備時かいしん率+3%": "Crit Rate +3% When Worn"
+        "装備時かいしん率+3%": "Crit Rate +3%"
     },
     "47": {
         "真・オノむそう": "True Axes of Evil"
@@ -156,7 +156,7 @@
         "パワフルスロー": "Power Throw"
     },
     "53": {
-        "装備時命中+20%": "Acc. +20% When Worn"
+        "装備時命中+20%": "Acc. +20%"
     },
     "54": {
         "シャインスコール": "Starburst Throw"
@@ -195,7 +195,7 @@
         "マジックアロー": "Conjury Conductor"
     },
     "66": {
-        "装備時射程距離+3m": "Range +3m When Worn"
+        "装備時射程距離+3m": "Range +3m"
     },
     "67": {
         "clarity_nt_char_15": "clarity_nt_char_15"
