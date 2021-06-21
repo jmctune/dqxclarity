@@ -9936,7 +9936,7 @@
         "clarity_nt_char_1143": "clarity_nt_char_1143"
     },
     "3313": {
-        "討伐地域": ""
+        "討伐地域": "Location"
     },
     "3314": {
         "clarity_nt_char_1144": "clarity_nt_char_1144"
@@ -9954,7 +9954,7 @@
         "討伐数": "No. Kills"
     },
     "3319": {
-        "討伐ポイント": ""
+        "討伐ポイント": "Reward Points"
     },
     "3320": {
         "clarity_nt_char_1146": "clarity_nt_char_1146"
@@ -13302,7 +13302,7 @@
         "特訓スタンプを見る": ""
     },
     "4435": {
-        "討伐ポイントを見る": ""
+        "討伐ポイントを見る": "View Reward Points"
     },
     "4436": {
         "ドルボードカスタム": "Dolboard Customize"
@@ -19785,7 +19785,7 @@
         "<%sM_Monster1> ＋ ランク<%sM_Rare>のタロット": "<%sM_Monster1> + Tarot of rank <%sM_Rare>"
     },
     "6596": {
-        "討伐地域の変更": ""
+        "討伐地域の変更": "Change to location "
     },
     "6597": {
         "スタミ菜": ""
