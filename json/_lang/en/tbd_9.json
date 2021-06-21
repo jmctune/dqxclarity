@@ -279,7 +279,7 @@
         "clarity_nt_char_33": "clarity_nt_char_33"
     },
     "94": {
-        "配置中の家具": "Move Garden Items"
+        "配置中の家具": "Move Garden Tools"
     },
     "95": {
         "clarity_nt_char_34": "clarity_nt_char_34"
@@ -711,7 +711,7 @@
         "立て札からのルーラ登録": ""
     },
     "238": {
-        "庭具のロック": ""
+        "庭具のロック": "Lock Garden Tools"
     },
     "239": {
         "clarity_nt_char_84": "clarity_nt_char_84"
@@ -1212,7 +1212,7 @@
         "釣り堀にさかなを入れる": ""
     },
     "405": {
-        "つかうものを置く": "Place Garden Items"
+        "つかうものを置く": "Place Garden Tools"
     },
     "406": {
         "clarity_nt_char_134": "clarity_nt_char_134"
