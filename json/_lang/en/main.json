@@ -12,13 +12,13 @@
         "clarity_nt_char_2": "clarity_nt_char_2"
     },
     "5": {
-        "Lv": ""
+        "Lv": "Lv"
     },
     "6": {
         "clarity_nt_char_3": "clarity_nt_char_3"
     },
     "7": {
-        " A": ""
+        " A": " A"
     },
     "8": {
         "clarity_nt_char_4": "clarity_nt_char_4"
@@ -10740,7 +10740,7 @@
         "clarity_nt_char_1230": "clarity_nt_char_1230"
     },
     "3581": {
-        "設定:": ""
+        "設定:": "Pref:"
     },
     "3582": {
         "チーム経験値": "Team EXP"
