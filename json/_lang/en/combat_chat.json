@@ -4452,7 +4452,7 @@
         "<%sB_ACTOR>は 生き返りができない空間を作り 帯電した！": ""
     },
     "1485": {
-        "<%sB_EXTRA>たちが あらわれた！": "<%sB_EXTRA>something stirs！"
+        "<%sB_EXTRA>たちが あらわれた！": "<%sB_EXTRA>something stirs..."
     },
     "1486": {
         "<%sB_ACTOR>は すべての魔力を 解き放った！": ""
@@ -6492,7 +6492,7 @@
         "ミス！ <%sB_TARGET>に ダジャレは 通じなかった！": ""
     },
     "2165": {
-        "なんと <%sB_EXTRA>たちが あらわれた！": ""
+        "なんと <%sB_EXTRA>たちが あらわれた！": "What? <%sB_EXTRA>Something Stirs..."
     },
     "2166": {
         "<%sB_EXTRA>たちが もどってきた！": ""
