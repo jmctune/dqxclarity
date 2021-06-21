@@ -3705,49 +3705,49 @@
         "6.0%ターン消費なし": ""
     },
     "1236": {
-        "装備時こうげき力+10": "Attack +10 When Worn"
+        "装備時こうげき力+10": "Attack +10"
     },
     "1237": {
-        "装備時こうげき力+15": "Attack +15 When Worn"
+        "装備時こうげき力+15": "Attack +15"
     },
     "1238": {
-        "装備時かいしん率+5%": "Crit Rate +5% When Worn"
+        "装備時かいしん率+5%": "Crit Rate +5%"
     },
     "1239": {
-        "装備時こうげき力+25": "Attack +25 When Worn"
+        "装備時こうげき力+25": "Attack +25"
     },
     "1240": {
-        "装備時命中+20%": "Acc. +20% When Worn"
+        "装備時命中+20%": "Acc. +20%"
     },
     "1241": {
-        "装備時射程距離+3m": "Range +3m When Worn"
+        "装備時射程距離+3m": "Range +3m"
     },
     "1242": {
         "clarity_nt_char_403": "clarity_nt_char_403"
     },
     "1243": {
-        "装備時みとれる+5%": "Surprise 5% When Worn"
+        "装備時みとれる+5%": "Surprise 5%"
     },
     "1244": {
         "clarity_nt_char_404": "clarity_nt_char_404"
     },
     "1245": {
-        "装備時武器ガード率+5%": "Weapon Guard +5% When Worn"
+        "装備時武器ガード率+5%": "Weapon Guard +5%"
     },
     "1246": {
         "clarity_nt_char_405": "clarity_nt_char_405"
     },
     "1247": {
-        "装備時ＭＰ吸収率+5%": "MP abs rate+2% when worn"
+        "装備時ＭＰ吸収率+5%": "MP abs rate+2%"
     },
     "1248": {
-        "装備時こうげき魔力+60": "Mag. Might +60 When Worn"
+        "装備時こうげき魔力+60": "Mag. Might +60"
     },
     "1249": {
         "clarity_nt_char_406": "clarity_nt_char_406"
     },
     "1250": {
-        "装備時さいだいＭＰ+100": "MP +100 When Worn"
+        "装備時さいだいＭＰ+100": "MP +100"
     },
     "1251": {
         "装備時かいふく魔力+60": "If Worn +60 Magical Might"
@@ -3765,7 +3765,7 @@
         "clarity_nt_char_408": "clarity_nt_char_408"
     },
     "1256": {
-        "装備時効果範囲+2m": "Range +2m When Worn"
+        "装備時効果範囲+2m": "Range +2m"
     },
     "1257": {
         "clarity_nt_char_409": "clarity_nt_char_409"
@@ -3783,13 +3783,13 @@
         "clarity_nt_char_411": "clarity_nt_char_411"
     },
     "1262": {
-        "装備時こうげき力+30": "Attack +30 When Worn"
+        "装備時こうげき力+30": "Attack +30"
     },
     "1263": {
         "装備時身かわし率+2%": ""
     },
     "1264": {
-        "装備時かいしん率+3%": "Crit Rate +3% When Worn"
+        "装備時かいしん率+3%": "Crit Rate +3%"
     },
     "1265": {
         "雷鳴一閃": ""
@@ -11331,16 +11331,16 @@
         "clarity_nt_char_1253": "clarity_nt_char_1253"
     },
     "3778": {
-        "装備時こうげき力+20": "Attack +20 When Worn"
+        "装備時こうげき力+20": "Attack +20"
     },
     "3779": {
-        "装備時こうげき力+50": "Attack +50 When Worn"
+        "装備時こうげき力+50": "Attack +50"
     },
     "3780": {
         "装備時こうげき魔力+100": ""
     },
     "3781": {
-        "装備時さいだいＭＰ+150": "Max MP+150 when worn"
+        "装備時さいだいＭＰ+150": "Max MP+150"
     },
     "3782": {
         "装備時かいふく魔力+100": "If Worn +100 Magical Might"

@@ -9225,19 +9225,19 @@
         "【200P】サマーソルトクロー+10%": ""
     },
     "3076": {
-        "装備時こうげき力+8": "Attack +8 When Worn"
+        "装備時こうげき力+8": "Attack +8"
     },
     "3077": {
         "clarity_nt_char_1034": "clarity_nt_char_1034"
     },
     "3078": {
-        "装備時かいしん率+1%": "Crit Rate +1% When Worn"
+        "装備時かいしん率+1%": "Crit Rate +1%"
     },
     "3079": {
-        "装備時かいしん率+1.2%": "Crit Rate +1.2% When Worn"
+        "装備時かいしん率+1.2%": "Crit Rate +1.2%"
     },
     "3080": {
-        "装備時かいしん率+1.5%": "Crit Rate +1.5% When Worn"
+        "装備時かいしん率+1.5%": "Crit Rate +1.5%"
     },
     "3081": {
         "装備時武器ガード率+1%": ""
@@ -9495,13 +9495,13 @@
         "clarity_nt_char_1065": "clarity_nt_char_1065"
     },
     "3166": {
-        "装備時さいだいＭＰ+20": "MP +20 When Worn"
+        "装備時さいだいＭＰ+20": "MP +20"
     },
     "3167": {
         "clarity_nt_char_1066": "clarity_nt_char_1066"
     },
     "3168": {
-        "装備時さいだいＭＰ+45": "MP +45 When Worn"
+        "装備時さいだいＭＰ+45": "MP +45"
     },
     "3169": {
         "clarity_nt_char_1067": "clarity_nt_char_1067"
@@ -10596,7 +10596,7 @@
         "アースクラッシュ+3%": "Earth Crash +3%"
     },
     "3533": {
-        "素手時こうげき力+30": "Attack +30 When Worn"
+        "素手時こうげき力+30": "Attack +30"
     },
     "3534": {
         "素手時かいしん率+1%": "Crit Rate +1% Bare-Handed"
@@ -10731,13 +10731,13 @@
         "clarity_nt_char_1198": "clarity_nt_char_1198"
     },
     "3578": {
-        "装備時こうげき魔力+20": "Mag. Might +20 When Worn"
+        "装備時こうげき魔力+20": "Mag. Might +20"
     },
     "3579": {
         "clarity_nt_char_1199": "clarity_nt_char_1199"
     },
     "3580": {
-        "装備時かいふく魔力+20": "Magical Mending+20 When Worn"
+        "装備時かいふく魔力+20": "Magical Mending+20"
     },
     "3581": {
         "clarity_nt_char_1200": "clarity_nt_char_1200"
@@ -10923,13 +10923,13 @@
         "clarity_nt_char_1220": "clarity_nt_char_1220"
     },
     "3642": {
-        "装備時しゅび力+15": "Defense +15 When Worn"
+        "装備時しゅび力+15": "Defense +15"
     },
     "3643": {
         "clarity_nt_char_1221": "clarity_nt_char_1221"
     },
     "3644": {
-        "装備時しゅび力+20": "Defense +20 When Worn"
+        "装備時しゅび力+20": "Defense +20"
     },
     "3645": {
         "clarity_nt_char_1222": "clarity_nt_char_1222"
@@ -21105,7 +21105,7 @@
         "1.0%ターン消費なし": "1% Don't Use Turn"
     },
     "7036": {
-        "装備時さいだいＭＰ+60": "MP +60 When Worn"
+        "装備時さいだいＭＰ+60": "MP +60"
     },
     "7037": {
         "clarity_nt_char_2423": "clarity_nt_char_2423"
@@ -21126,10 +21126,10 @@
         "装備時チャージ時間-10秒": ""
     },
     "7043": {
-        "装備時かいしん率+6%": "Crit Rate +5% When Worn"
+        "装備時かいしん率+6%": "Crit Rate +5%"
     },
     "7044": {
-        "装備時特技の射程距離+2m": "Range +2m When Worn"
+        "装備時特技の射程距離+2m": "Range +2m"
     },
     "7045": {
         "装備時特技ダメージ+150": ""
@@ -22245,7 +22245,7 @@
         "clarity_nt_char_2532": "clarity_nt_char_2532"
     },
     "7416": {
-        "装備時さいだいＭＰ+50": "MP +50 When Worn"
+        "装備時さいだいＭＰ+50": "MP +50"
     },
     "7417": {
         "clarity_nt_char_2533": "clarity_nt_char_2533"
