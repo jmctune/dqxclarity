@@ -372,7 +372,7 @@
         "clarity_nt_char_34": "clarity_nt_char_34"
     },
     "125": {
-        "素手時かいしん率+2%": "Crit Rate +2% Bare-Handed"
+        "素手時かいしん率+2%": "Crit Rate +2%"
     },
     "126": {
         "かまいたち": "Wind Sickles"
@@ -387,7 +387,7 @@
         "clarity_nt_char_35": "clarity_nt_char_35"
     },
     "130": {
-        "素手時身かわし率+2%": "Dodge Rate +2% Bare-Handed"
+        "素手時身かわし率+2%": "Dodge Rate +2%"
     },
     "131": {
         "ムーンサルト": "Harvest Moon"
@@ -10599,19 +10599,19 @@
         "素手時こうげき力+30": "Attack +30"
     },
     "3534": {
-        "素手時かいしん率+1%": "Crit Rate +1% Bare-Handed"
+        "素手時かいしん率+1%": "Crit Rate +1%"
     },
     "3535": {
-        "素手時かいしん率+1.2%": "Crit Rate +1.2% Bare-Handed"
+        "素手時かいしん率+1.2%": "Crit Rate +1.2%"
     },
     "3536": {
-        "素手時かいしん率+1.5%": "Crit Rate +1.5% Bare-Handed"
+        "素手時かいしん率+1.5%": "Crit Rate +1.5%"
     },
     "3537": {
-        "素手時身かわし率+1%": "Dodge Rate +1% Bare-Handed"
+        "素手時身かわし率+1%": "Dodge Rate +1%"
     },
     "3538": {
-        "素手時身かわし率+1.5%": "Dodge Rate +1.5% Bare-Handed"
+        "素手時身かわし率+1.5%": "Dodge Rate +1.5%"
     },
     "3539": {
         "石つぶて+50%": ""
