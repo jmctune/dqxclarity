@@ -7803,7 +7803,7 @@
         "第<%nNUM>回バトエン大会・後半戦": ""
     },
     "2602": {
-        "<speed=0>『ログイン表示する』以外の　設定にすると|ログイン状態を隠すために　一部メニューの|顔アイコンの反映と更新が　行われなくなります。<break>": "<speed=0>If set to anything other than \"Show Login\",| the face icon in some menus will not be|reflected or updated in order to hide the login status. <break>"
+        "<speed=0>『ログイン表示する』以外の　設定にすると|ログイン状態を隠すために　一部メニューの|顔アイコンの反映と更新が　行われなくなります。<break>": "<speed=0>If set to anything other than \"Show Login\",|the face icon in some menus will not be|shown or updated in order to hide login status. <break>"
     },
     "2603": {
         "パーティの仲間を|自分の部屋に|誘うことができる": "Invite party|members to|your room."
