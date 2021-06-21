@@ -207,7 +207,7 @@
         "サンダーボルト": "Thunderbolt"
     },
     "70": {
-        "装備時射程距離+4m": "Range +4m When Worn"
+        "装備時射程距離+4m": "Range +4m"
     },
     "71": {
         "clarity_nt_char_16": "clarity_nt_char_16"
@@ -333,7 +333,7 @@
         "clarity_nt_char_29": "clarity_nt_char_29"
     },
     "112": {
-        "装備時みとれる+5%": "Surprise 5% When Worn"
+        "装備時みとれる+5%": "Surprise 5%"
     },
     "113": {
         "clarity_nt_char_30": "clarity_nt_char_30"
@@ -363,7 +363,7 @@
         "蒼月の守り": "Blue Moon Guard"
     },
     "122": {
-        "素手時こうげき力+10": "Attack +10 When Worn"
+        "素手時こうげき力+10": "Attack +10"
     },
     "123": {
         "石つぶて": "Stone Throw"
@@ -378,7 +378,7 @@
         "かまいたち": "Wind Sickles"
     },
     "127": {
-        "素手時こうげき力+20": "Attack +20 When Worn"
+        "素手時こうげき力+20": "Attack +20"
     },
     "128": {
         "せいけん突き": "Knuckle Sandwich"
@@ -396,7 +396,7 @@
         "clarity_nt_char_36": "clarity_nt_char_36"
     },
     "133": {
-        "素手時こうげき力+40": "Attack +40 When Worn"
+        "素手時こうげき力+40": "Attack +40"
     },
     "134": {
         "ばくれつけん": "Multifists"
@@ -417,7 +417,7 @@
         "clarity_nt_char_38": "clarity_nt_char_38"
     },
     "140": {
-        "素手時こうげき力+50": "Attack +50 When Worn"
+        "素手時こうげき力+50": "Attack +50"
     },
     "141": {
         "ウェイトブレイク": "Weight Break"
@@ -459,7 +459,7 @@
         "プレートインパクト": "Plate Impact"
     },
     "154": {
-        "装備時さいだいＨＰ+10": "HP +10 When Worn"
+        "装備時さいだいＨＰ+10": "HP +10"
     },
     "155": {
         "clarity_nt_char_44": "clarity_nt_char_44"
@@ -477,7 +477,7 @@
         "clarity_nt_char_46": "clarity_nt_char_46"
     },
     "160": {
-        "装備時武器ガード率+4%": "Weapon Guard +4% When Worn"
+        "装備時武器ガード率+4%": "Weapon Guard +4%"
     },
     "161": {
         "clarity_nt_char_47": "clarity_nt_char_47"
@@ -492,7 +492,7 @@
         "なぎはらい": "Party Pooper"
     },
     "165": {
-        "装備時身かわし率+4%": "Dodge Rate +4% When Worn"
+        "装備時身かわし率+4%": "Dodge Rate +4%"
     },
     "166": {
         "氷結らんげき": "Crushed Ice"
@@ -537,7 +537,7 @@
         "早詠みの杖": "Fast Cast Speed"
     },
     "180": {
-        "装備時こうげき魔力+30": "Mag. Might +30 When Worn"
+        "装備時こうげき魔力+30": "Mag. Might +30"
     },
     "181": {
         "clarity_nt_char_54": "clarity_nt_char_54"
@@ -549,7 +549,7 @@
         "暴走魔法陣": "Ring of Ruin"
     },
     "184": {
-        "装備時さいだいＭＰ+100": "MP +100 When Worn"
+        "装備時さいだいＭＰ+100": "MP +100"
     },
     "185": {
         "戦闘勝利時ＭＰ中回復": "Recover MP After Battle"
@@ -567,7 +567,7 @@
         "clarity_nt_char_56": "clarity_nt_char_56"
     },
     "190": {
-        "装備時こうげき魔力+10": "Mag. Might +10 When Worn"
+        "装備時こうげき魔力+10": "Mag. Might +10"
     },
     "191": {
         "clarity_nt_char_57": "clarity_nt_char_57"
@@ -579,13 +579,13 @@
         "clarity_nt_char_58": "clarity_nt_char_58"
     },
     "194": {
-        "装備時さいだいＭＰ+30": "MP +30 When Worn"
+        "装備時さいだいＭＰ+30": "MP +30"
     },
     "195": {
         "clarity_nt_char_59": "clarity_nt_char_59"
     },
     "196": {
-        "装備時盾ガード率+1%": "Shield Guard +1% When Worn"
+        "装備時盾ガード率+1%": "Shield Guard +1%"
     },
     "197": {
         "ぼうぎょ": "Defend"
@@ -609,7 +609,7 @@
         "clarity_nt_char_62": "clarity_nt_char_62"
     },
     "204": {
-        "装備時しゅび力+30": "Defense +30 When Worn"
+        "装備時しゅび力+30": "Defense +30"
     },
     "205": {
         "clarity_nt_char_63": "clarity_nt_char_63"
@@ -618,7 +618,7 @@
         "会心ガード": "Critical Guard"
     },
     "207": {
-        "装備時しゅび力+10": "Defense +10 When Worn"
+        "装備時しゅび力+10": "Defense +10"
     },
     "208": {
         "clarity_nt_char_64": "clarity_nt_char_64"
@@ -645,7 +645,7 @@
         "clarity_nt_char_67": "clarity_nt_char_67"
     },
     "216": {
-        "装備時武器ガード率+5%": "Weapon Guard +5% When Worn"
+        "装備時武器ガード率+5%": "Weapon Guard +5%"
     },
     "217": {
         "clarity_nt_char_68": "clarity_nt_char_68"
@@ -690,7 +690,7 @@
         "clarity_nt_char_74": "clarity_nt_char_74"
     },
     "231": {
-        "装備時かいふく魔力+30": "Magical Mending+30 When Worn"
+        "装備時かいふく魔力+30": "Magical Mending+30"
     },
     "232": {
         "clarity_nt_char_75": "clarity_nt_char_75"
@@ -750,7 +750,7 @@
         "超はやぶさ斬り": "Gyrfalcon Slash"
     },
     "251": {
-        "装備時武器ガード率+2%": "Weapon Guard +2% When Worn"
+        "装備時武器ガード率+2%": "Weapon Guard +2%"
     },
     "252": {
         "clarity_nt_char_82": "clarity_nt_char_82"
@@ -822,7 +822,7 @@
         "clarity_nt_char_90": "clarity_nt_char_90"
     },
     "275": {
-        "装備時効果範囲+2m": "Range +2m When Worn"
+        "装備時効果範囲+2m": "Range +2m"
     },
     "276": {
         "clarity_nt_char_91": "clarity_nt_char_91"
@@ -840,7 +840,7 @@
         "clarity_nt_char_93": "clarity_nt_char_93"
     },
     "281": {
-        "装備時かいしん率+4%": "Crit Rate +4% When Worn"
+        "装備時かいしん率+4%": "Crit Rate +4%"
     },
     "282": {
         "極竜打ち": "Wyrm Whip"
@@ -1962,13 +1962,13 @@
         "早詠みの陣": "Quick Cast Ring"
     },
     "655": {
-        "装備時こうげき力+25": "Attack +25 When Worn"
+        "装備時こうげき力+25": "Attack +25"
     },
     "656": {
         "災いの斬撃": "Calamity Slash"
     },
     "657": {
-        "装備時こうげき魔力+35": "Mag. Might +35 When Worn"
+        "装備時こうげき魔力+35": "Mag. Might +35"
     },
     "658": {
         "clarity_nt_char_220": "clarity_nt_char_220"
@@ -1980,7 +1980,7 @@
         "clarity_nt_char_221": "clarity_nt_char_221"
     },
     "661": {
-        "装備時かいふく魔力+40": "Magical Mending+40 When Worn"
+        "装備時かいふく魔力+40": "Magical Mending+40"
     },
     "662": {
         "clarity_nt_char_222": "clarity_nt_char_222"
@@ -1995,16 +1995,16 @@
         "clarity_nt_char_223": "clarity_nt_char_223"
     },
     "666": {
-        "装備時かいしん率+5%": "Crit Rate +5% When Worn"
+        "装備時かいしん率+5%": "Crit Rate +5%"
     },
     "667": {
-        "装備時武器ガード率+8%": "Weapon Guard +8% When Worn"
+        "装備時武器ガード率+8%": "Weapon Guard +8%"
     },
     "668": {
         "clarity_nt_char_224": "clarity_nt_char_224"
     },
     "669": {
-        "装備時こうげき力+30": "Attack +30 When Worn"
+        "装備時こうげき力+30": "Attack +30"
     },
     "670": {
         "一閃突き・改": "T. Thrust Kai"
@@ -2031,7 +2031,7 @@
         "【160P】復活時5%で天使の守り": ""
     },
     "678": {
-        "装備時こうげき力+50": "Attack +50 When Worn"
+        "装備時こうげき力+50": "Attack +50"
     },
     "679": {
         "装備時きようさ+100": ""
@@ -2073,7 +2073,7 @@
         "clarity_nt_char_232": "clarity_nt_char_232"
     },
     "692": {
-        "装備時こうげき魔力+60": "Mag. Might +60 When Worn"
+        "装備時こうげき魔力+60": "Mag. Might +60"
     },
     "693": {
         "clarity_nt_char_233": "clarity_nt_char_233"
@@ -2112,7 +2112,7 @@
         "サマーソルトクロー": "Somersault Claw"
     },
     "705": {
-        "装備時こうげき力+40": "Attack +40 When Worn"
+        "装備時こうげき力+40": "Attack +40"
     },
     "706": {
         "攻撃時25%でヘナトス": ""
@@ -2361,7 +2361,7 @@
         "ライガークラッシュの特技を　おぼえた！": ""
     },
     "788": {
-        "装備時こうげき魔力+40": "Mag. Might +40 When Worn"
+        "装備時こうげき魔力+40": "Mag. Might +40"
     },
     "789": {
         "clarity_nt_char_262": "clarity_nt_char_262"
