@@ -19830,10 +19830,10 @@
         "clarity_nt_char_2208": "clarity_nt_char_2208"
     },
     "6611": {
-        "範囲内にいる|仲間のＨＰを|８０～回復する": "Restore|80 HP|to nearby allies"
+        "範囲内にいる|仲間のＨＰを|８０～回復する": "Restore 80 HP|to nearby allies"
     },
     "6612": {
-        "範囲内にいる|仲間のＨＰを|完全に回復する": "Restore|full HP|to nearby allies"
+        "範囲内にいる|仲間のＨＰを|完全に回復する": "Restore full HP|to nearby allies"
     },
     "6613": {
         "自分のＨＰを|３０～回復する": ""
