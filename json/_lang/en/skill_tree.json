@@ -15870,13 +15870,13 @@
         "clarity_nt_char_1805": "clarity_nt_char_1805"
     },
     "5291": {
-        "弓装備時の|こうげき力が|５増える": ""
+        "弓装備時の|こうげき力が|５増える": "Attack +5|when Bow|equipped."
     },
     "5292": {
-        "弓装備時の|こうげき力が|８増える": ""
+        "弓装備時の|こうげき力が|８増える": "Attack +8|when Bow|equipped."
     },
     "5293": {
-        "弓装備時の|こうげき力が|１０増える": ""
+        "弓装備時の|こうげき力が|１０増える": "Attack +10|when Bow|equipped."
     },
     "5294": {
         "clarity_nt_char_1806": "clarity_nt_char_1806"
@@ -16047,19 +16047,19 @@
         "clarity_nt_char_1826": "clarity_nt_char_1826"
     },
     "5350": {
-        "ハンマー装備時の|こうげき力が|５増える": ""
+        "ハンマー装備時の|こうげき力が|５増える": "Attack +5|when Hammer|equipped."
     },
     "5351": {
         "clarity_nt_char_1827": "clarity_nt_char_1827"
     },
     "5352": {
-        "ハンマー装備時の|こうげき力が|８増える": ""
+        "ハンマー装備時の|こうげき力が|８増える": "Attack +8|when Hammer|equipped."
     },
     "5353": {
         "clarity_nt_char_1828": "clarity_nt_char_1828"
     },
     "5354": {
-        "ハンマー装備時の|こうげき力が|１０増える": ""
+        "ハンマー装備時の|こうげき力が|１０増える": "Attack +10|when Hammer|equipped."
     },
     "5355": {
         "ハンマー装備時の|かいしん率が|１％増える": ""
