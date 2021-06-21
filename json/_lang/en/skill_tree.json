@@ -15267,13 +15267,13 @@
         "clarity_nt_char_1743": "clarity_nt_char_1743"
     },
     "5090": {
-        "両手剣装備時の|こうげき力が|５増える": ""
+        "両手剣装備時の|こうげき力が|５増える": "Attack +5|when 2H Sword|equipped."
     },
     "5091": {
-        "両手剣装備時の|こうげき力が|８増える": ""
+        "両手剣装備時の|こうげき力が|８増える": "Attack +8|when 2H Sword|equipped."
     },
     "5092": {
-        "両手剣装備時の|こうげき力が|１０増える": ""
+        "両手剣装備時の|こうげき力が|１０増える": "Attack +10|when 2H Sword|equipped."
     },
     "5093": {
         "clarity_nt_char_1744": "clarity_nt_char_1744"
@@ -15420,19 +15420,19 @@
         "clarity_nt_char_1762": "clarity_nt_char_1762"
     },
     "5141": {
-        "ヤリ装備時の|こうげき力が|５増える": ""
+        "ヤリ装備時の|こうげき力が|５増える": "Attack +5|when Spear|equipped."
     },
     "5142": {
         "clarity_nt_char_1763": "clarity_nt_char_1763"
     },
     "5143": {
-        "ヤリ装備時の|こうげき力が|８増える": ""
+        "ヤリ装備時の|こうげき力が|８増える": "Attack +8|when Spear|equipped."
     },
     "5144": {
         "clarity_nt_char_1764": "clarity_nt_char_1764"
     },
     "5145": {
-        "ヤリ装備時の|こうげき力が|１０増える": ""
+        "ヤリ装備時の|こうげき力が|１０増える": "Attack +10|when Spear|equipped."
     },
     "5146": {
         "ヤリ装備時の|かいしん率が|１％増える": ""
@@ -15486,13 +15486,13 @@
         "clarity_nt_char_1769": "clarity_nt_char_1769"
     },
     "5163": {
-        "棍装備時の|こうげき力が|５増える": ""
+        "棍装備時の|こうげき力が|５増える": "Attack +5|when Club|equipped."
     },
     "5164": {
-        "棍装備時の|こうげき力が|８増える": ""
+        "棍装備時の|こうげき力が|８増える": "Attack +8|when Club|equipped."
     },
     "5165": {
-        "棍装備時の|こうげき力が|１０増える": ""
+        "棍装備時の|こうげき力が|１０増える": "Attack +10|when Club|equipped."
     },
     "5166": {
         "clarity_nt_char_1770": "clarity_nt_char_1770"
@@ -15546,13 +15546,13 @@
         "clarity_nt_char_1774": "clarity_nt_char_1774"
     },
     "5183": {
-        "ムチ装備時の|こうげき力が|８増える": ""
+        "ムチ装備時の|こうげき力が|８増える": "Attack +8|when Whip|equipped."
     },
     "5184": {
         "clarity_nt_char_1775": "clarity_nt_char_1775"
     },
     "5185": {
-        "ムチ装備時の|こうげき力が|１０増える": ""
+        "ムチ装備時の|こうげき力が|１０増える": "Attack +10|when Whip|equipped."
     },
     "5186": {
         "ムチ装備時の|かいしん率が|１％増える": ""
