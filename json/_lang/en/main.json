@@ -6912,7 +6912,7 @@
         "clarity_nt_char_798": "clarity_nt_char_798"
     },
     "2305": {
-        "<%2dM_mm>分": ""
+        "<%2dM_mm>分": "<%2dM_mm>m"
     },
     "2306": {
         "clarity_nt_char_799": "clarity_nt_char_799"
@@ -21258,7 +21258,7 @@
         "clarity_nt_char_2401": "clarity_nt_char_2401"
     },
     "7087": {
-        "<%2dM_hh>時間 <%2dM_mm>分": ""
+        "<%2dM_hh>時間 <%2dM_mm>分": "<%2dM_hh>h<%2dM_mm>m"
     },
     "7088": {
         "clarity_nt_char_2402": "clarity_nt_char_2402"
@@ -28554,7 +28554,7 @@
         "Lv<%3dM_nn>": ""
     },
     "9519": {
-        "残<%3dM_hh>時<%2dM_mm>分": ""
+        "残<%3dM_hh>時<%2dM_mm>分": "<%3dM_hh>h<%2dM_mm>m more"
     },
     "9520": {
         "選んだ職業に反映する": ""
