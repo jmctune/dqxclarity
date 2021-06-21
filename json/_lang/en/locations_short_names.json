@@ -198,7 +198,7 @@
         "clarity_nt_char_16": "clarity_nt_char_16"
     },
     "67": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>民家": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>民家": "<%sW_MAP_NAME><%sW_DELIMITER>House"
     },
     "68": {
         "<%sW_MAP_NAME><%sW_DELIMITER>住宅村への道": "<%sW_MAP_NAME><%sW_DELIMITER>Road to Residences"
@@ -3150,7 +3150,7 @@
         "clarity_nt_char_337": "clarity_nt_char_337"
     },
     "1051": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>民家２階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>民家２階": "<%sW_MAP_NAME><%sW_DELIMITER>House 2F"
     },
     "1052": {
         "<%sW_MAP_NAME><%sW_DELIMITER>トロッコ洞くつ": "<%sW_MAP_NAME><%sW_DELIMITER>Minecart Cave"
@@ -6357,7 +6357,7 @@
         "clarity_nt_char_665": "clarity_nt_char_665"
     },
     "2120": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>マティルの村-民家": "<%sW_MAP_NAME><%sW_DELIMITER>Matil Vlg. Private Home"
+        "<%sW_MAP_NAME><%sW_DELIMITER>マティルの村-民家": "<%sW_MAP_NAME><%sW_DELIMITER>Matil Village - House"
     },
     "2121": {
         "clarity_nt_char_666": "clarity_nt_char_666"
@@ -11556,7 +11556,7 @@
         "つるぎの酒場 出口": ""
     },
     "3853": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>民家 出口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>民家 出口": "<%sW_MAP_NAME><%sW_DELIMITER>House Exit"
     },
     "3854": {
         "clarity_nt_char_1236": "clarity_nt_char_1236"
