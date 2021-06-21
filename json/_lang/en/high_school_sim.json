@@ -9006,7 +9006,7 @@
         "敵１体を斬りつけ|守備力２段階下げ|ダメージも増加": ""
     },
     "3003": {
-        "ツッコんで|仲間ひとりを|われに返す": ""
+        "ツッコんで|仲間ひとりを|われに返す": "Remove ally's|paralysis, dazzled,|sleep, confusion"
     },
     "3004": {
         "clarity_nt_char_986": "clarity_nt_char_986"
