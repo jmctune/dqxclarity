@@ -4437,7 +4437,7 @@
         "clarity_nt_char_502": "clarity_nt_char_502"
     },
     "1480": {
-        "鎌装備時の　こうげき力が　３０　増えた！": ""
+        "鎌装備時の　こうげき力が　３０　増えた！": "Attack +30 when Sickle equipped!"
     },
     "1481": {
         "clarity_nt_char_503": "clarity_nt_char_503"
@@ -4449,7 +4449,7 @@
         "clarity_nt_char_504": "clarity_nt_char_504"
     },
     "1484": {
-        "鎌装備時の　こうげき力が　４０　増えた！": ""
+        "鎌装備時の　こうげき力が　４０　増えた！": "Attack +40 when Sickle equipped!"
     },
     "1485": {
         "clarity_nt_char_505": "clarity_nt_char_505"
@@ -15066,16 +15066,16 @@
         "clarity_nt_char_1725": "clarity_nt_char_1725"
     },
     "5023": {
-        "鎌装備時の　こうげき力が　８　増えた！": ""
+        "鎌装備時の　こうげき力が　８　増えた！": "Attack +8 when Sickle equipped!"
     },
     "5024": {
-        "鎌装備時の　こうげき力が　１０　増えた！": ""
+        "鎌装備時の　こうげき力が　１０　増えた！": "Attack +10 when Sickle equipped!"
     },
     "5025": {
         "clarity_nt_char_1726": "clarity_nt_char_1726"
     },
     "5026": {
-        "鎌装備時の　こうげき力が　１５　増えた！": ""
+        "鎌装備時の　こうげき力が　１５　増えた！": "Attack +15 when Sickle equipped!"
     },
     "5027": {
         "clarity_nt_char_1727": "clarity_nt_char_1727"
@@ -15090,13 +15090,13 @@
         "鎌装備時　さらに武器ガードを|しやすくなった！": ""
     },
     "5031": {
-        "鎌装備時の|こうげき魔力が　２０　増えた！": ""
+        "鎌装備時の|こうげき魔力が　２０　増えた！": "Attack +20|when Sickle equipped!"
     },
     "5032": {
-        "鎌装備時の|こうげき魔力が　３０　増えた！": ""
+        "鎌装備時の|こうげき魔力が　３０　増えた！": "Attack +30|when Sickle equipped!"
     },
     "5033": {
-        "鎌装備時の|こうげき魔力が　４０　増えた！": ""
+        "鎌装備時の|こうげき魔力が　４０　増えた！": "Attack +40|when Sickle equipped!"
     },
     "5034": {
         "鎌で　呪文を唱えた時|魔力が　暴走しやすくなった！": ""
