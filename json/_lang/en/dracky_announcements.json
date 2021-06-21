@@ -351,7 +351,7 @@
         "clarity_nt_char_35": "clarity_nt_char_35"
     },
     "118": {
-        "<%sC_MERCENARY>との 契約終了まで あと<%dC_M>分です": ""
+        "<%sC_MERCENARY>との 契約終了まで あと<%dC_M>分です": "Your contract with <%sC_MERCENARY> expires in <%dC_M>m."
     },
     "119": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eが ログインしました": "\\s<%sC_PC>\\m<%sC_ID>\\e logged in!"
@@ -369,7 +369,7 @@
         "clarity_nt_char_37": "clarity_nt_char_37"
     },
     "124": {
-        "<%sC_MERCENARY>との 契約終了まで あと<%dC_H>時間です": ""
+        "<%sC_MERCENARY>との 契約終了まで あと<%dC_H>時間です": "Your contract with <%sC_MERCENARY> expires in <%dC_H>h."
     },
     "125": {
         "clarity_nt_char_38": "clarity_nt_char_38"
