@@ -2,6 +2,7 @@
 #Include <classMemory>
 #Include <convertHex>
 #Include <JSON>
+#Include <hashCheck>
 
 SetBatchLines, -1
 FileEncoding UTF-8
@@ -116,7 +117,7 @@ textAOB := dqx.hexStringToPattern("54 45 58 54 10 00 00") ;; TEXT block start
 start_addr := 0
 
 ;; Start timer
-GuiControl,, Progress, CPU usage will spike while this is running.`n`nProcesses firing up.
+GuiControl,, Progress, CPU usage will spike while this is running.`n`nIf new translations were pulled from weblate, this will take longer.
 startTime := A_TickCount
 
 Loop
@@ -151,7 +152,7 @@ Loop
 
   ;; parse master csv to figure out what the file is
   fileName := ""
-  Loop, Read, hex_dict.csv
+  Loop, Read, hex/hex_dict.csv
   {
     Loop, Parse, A_LoopReadLine, CSV
     {
@@ -169,7 +170,18 @@ Loop
   if (fileName = "")
     continue
 
-  Run, run_json.exe %fileName% %start_addr%
+  ;; compare checksum of json file with saved checksum. if different,
+  ;; tell run_json to rebuild it
+  checksum := ""
+  jsonChecksum := hashCheck(fileName)
+  SplitPath, fileName,,,, name_no_ext
+  FileRead, checksum, hex/checksums/%name_no_ext%.md5
+  if (checksum = jsonChecksum)
+    rebuild := "false"
+  else
+    rebuild := "true"
+
+  Run, run_json.exe %fileName% %start_addr% %rebuild%
 }
 
 numberOfRunningProcesses := 1
