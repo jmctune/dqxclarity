@@ -327,7 +327,7 @@
         "やすむ": "Rest"
     },
     "110": {
-        "かたづける": ""
+        "かたづける": "Clean Up"
     },
     "111": {
         "メッセージをかく": "Write Message"
@@ -342,7 +342,7 @@
         "clarity_nt_char_40": "clarity_nt_char_40"
     },
     "115": {
-        "うごかす": ""
+        "うごかす": "Move"
     },
     "116": {
         "clarity_nt_char_41": "clarity_nt_char_41"
@@ -1095,7 +1095,7 @@
         "うごきをとめる": ""
     },
     "366": {
-        "曲なしでうごかす": ""
+        "曲なしでうごかす": "Move without Song"
     },
     "367": {
         "clarity_nt_char_122": "clarity_nt_char_122"
