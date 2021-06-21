@@ -1,659 +1,659 @@
 {
-  "1": {
-    "魔法の迷宮": "Magic Labyrinth"
-  },
-  "2": {
-    "強戦士の書": "S. Warrior Book"
-  },
-  "3": {
-    "バトルチャレンジ": ""
-  },
-  "4": {
-    "clarity_nt_char_1": "clarity_nt_char_1"
-  },
-  "5": {
-    "カジノ攻略": ""
-  },
-  "6": {
-    "チームクエスト": "Team Quests"
-  },
-  "7": {
-    "その他": "Other"
-  },
-  "8": {
-    "<%sM_TQUEST>（なんでも）": ""
-  },
-  "9": {
-    "clarity_nt_char_2": "clarity_nt_char_2"
-  },
-  "10": {
-    "ルーレット": "Roulette"
-  },
-  "11": {
-    "ポーカー": ""
-  },
-  "12": {
-    "clarity_nt_char_3": "clarity_nt_char_3"
-  },
-  "13": {
-    "スロット": ""
-  },
-  "14": {
-    "clarity_nt_char_4": "clarity_nt_char_4"
-  },
-  "15": {
-    "ビンゴ": ""
-  },
-  "16": {
-    "すごろく": ""
-  },
-  "17": {
-    "clarity_nt_char_5": "clarity_nt_char_5"
-  },
-  "18": {
-    "強モードボス": "Hardmode Boss"
-  },
-  "19": {
-    "clarity_nt_char_6": "clarity_nt_char_6"
-  },
-  "20": {
-    "試練の門": ""
-  },
-  "21": {
-    "clarity_nt_char_7": "clarity_nt_char_7"
-  },
-  "22": {
-    "同盟バトル": ""
-  },
-  "23": {
-    "達人の宝珠集め": ""
-  },
-  "24": {
-    "お宝の写真": ""
-  },
-  "25": {
-    "呼び寄せの筆集め": ""
-  },
-  "26": {
-    "clarity_nt_char_8": "clarity_nt_char_8"
-  },
-  "27": {
-    "神聖秘文": ""
-  },
-  "28": {
-    "clarity_nt_char_9": "clarity_nt_char_9"
-  },
-  "29": {
-    "装備品集め": ""
-  },
-  "30": {
-    "ドルボードレース": ""
-  },
-  "31": {
-    "clarity_nt_char_10": "clarity_nt_char_10"
-  },
-  "32": {
-    "未討伐のフィールド強敵": ""
-  },
-  "33": {
-    "ピラミッド": ""
-  },
-  "34": {
-    "不思議の魔塔": "Odd Demon Tower"
-  },
-  "35": {
-    "clarity_nt_char_11": "clarity_nt_char_11"
-  },
-  "36": {
-    "達人クエスト": "Master Quest"
-  },
-  "37": {
-    "clarity_nt_char_12": "clarity_nt_char_12"
-  },
-  "38": {
-    "常闇の竜レグナード": ""
-  },
-  "39": {
-    "ダークキング": ""
-  },
-  "40": {
-    "clarity_nt_char_13": "clarity_nt_char_13"
-  },
-  "41": {
-    "邪神の宮殿": "Evil God Palace"
-  },
-  "42": {
-    "竜王城の決戦": ""
-  },
-  "43": {
-    "clarity_nt_char_14": "clarity_nt_char_14"
-  },
-  "44": {
-    "黄昏の奏戦記": ""
-  },
-  "45": {
-    "clarity_nt_char_15": "clarity_nt_char_15"
-  },
-  "46": {
-    "海冥主メイヴ": ""
-  },
-  "47": {
-    "clarity_nt_char_16": "clarity_nt_char_16"
-  },
-  "48": {
-    "バトル・ルネッサンス": ""
-  },
-  "49": {
-    "clarity_nt_char_17": "clarity_nt_char_17"
-  },
-  "50": {
-    "大魔王ゾーマへの挑戦": ""
-  },
-  "51": {
-    "clarity_nt_char_18": "clarity_nt_char_18"
-  },
-  "52": {
-    "アストルティア防衛軍": ""
-  },
-  "53": {
-    "clarity_nt_char_19": "clarity_nt_char_19"
-  },
-  "54": {
-    "いにしえのゼルメア": "Ancient Zelmea"
-  },
-  "55": {
-    "冥骸魔レギルラッゾたち": ""
-  },
-  "56": {
-    "紅殻魔スコルパイド": ""
-  },
-  "57": {
-    "翠将鬼ジェルザーク": ""
-  },
-  "58": {
-    "<%sM_MEIKYU>（捧げ物なし）": ""
-  },
-  "59": {
-    "メタスラ": ""
-  },
-  "60": {
-    "clarity_nt_char_20": "clarity_nt_char_20"
-  },
-  "61": {
-    "メダル王": ""
-  },
-  "62": {
-    "clarity_nt_char_21": "clarity_nt_char_21"
-  },
-  "63": {
-    "はぐメタ": ""
-  },
-  "64": {
-    "clarity_nt_char_22": "clarity_nt_char_22"
-  },
-  "65": {
-    "メタキン": ""
-  },
-  "66": {
-    "clarity_nt_char_23": "clarity_nt_char_23"
-  },
-  "67": {
-    "ゴルスラ": ""
-  },
-  "68": {
-    "clarity_nt_char_24": "clarity_nt_char_24"
-  },
-  "69": {
-    "レアボス": ""
-  },
-  "70": {
-    "clarity_nt_char_25": "clarity_nt_char_25"
-  },
-  "71": {
-    "福の神": ""
-  },
-  "72": {
-    "メタスラボス": ""
-  },
-  "73": {
-    "clarity_nt_char_26": "clarity_nt_char_26"
-  },
-  "74": {
-    "プチアトラス": ""
-  },
-  "75": {
-    "clarity_nt_char_27": "clarity_nt_char_27"
-  },
-  "76": {
-    "アトラス": "Atlas"
-  },
-  "77": {
-    "clarity_nt_char_28": "clarity_nt_char_28"
-  },
-  "78": {
-    "アトラス強": ""
-  },
-  "79": {
-    "プチバズズ": ""
-  },
-  "80": {
-    "バズズ": ""
-  },
-  "81": {
-    "バズズ強": ""
-  },
-  "82": {
-    "clarity_nt_char_29": "clarity_nt_char_29"
-  },
-  "83": {
-    "プチベリアル": ""
-  },
-  "84": {
-    "clarity_nt_char_30": "clarity_nt_char_30"
-  },
-  "85": {
-    "ベリアル": ""
-  },
-  "86": {
-    "clarity_nt_char_31": "clarity_nt_char_31"
-  },
-  "87": {
-    "ベリアル強": ""
-  },
-  "88": {
-    "プチ悪霊の神々": ""
-  },
-  "89": {
-    "悪霊の神々": ""
-  },
-  "90": {
-    "悪霊の神々強": ""
-  },
-  "91": {
-    "clarity_nt_char_32": "clarity_nt_char_32"
-  },
-  "92": {
-    "プチガイア": ""
-  },
-  "93": {
-    "ドラゴンガイア": ""
-  },
-  "94": {
-    "ドラゴンガイア強": ""
-  },
-  "95": {
-    "clarity_nt_char_33": "clarity_nt_char_33"
-  },
-  "96": {
-    "プチバラモス": ""
-  },
-  "97": {
-    "clarity_nt_char_34": "clarity_nt_char_34"
-  },
-  "98": {
-    "バラモス": ""
-  },
-  "99": {
-    "clarity_nt_char_35": "clarity_nt_char_35"
-  },
-  "100": {
-    "バラモス強": ""
-  },
-  "101": {
-    "プチヒドラ": ""
-  },
-  "102": {
-    "キングヒドラ": ""
-  },
-  "103": {
-    "clarity_nt_char_36": "clarity_nt_char_36"
-  },
-  "104": {
-    "キングヒドラ強": ""
-  },
-  "105": {
-    "プチグラコス": ""
-  },
-  "106": {
-    "clarity_nt_char_37": "clarity_nt_char_37"
-  },
-  "107": {
-    "グラコス": ""
-  },
-  "108": {
-    "clarity_nt_char_38": "clarity_nt_char_38"
-  },
-  "109": {
-    "グラコス強": ""
-  },
-  "110": {
-    "伝説の三悪魔": ""
-  },
-  "111": {
-    "clarity_nt_char_39": "clarity_nt_char_39"
-  },
-  "112": {
-    "伝説の三悪魔闘": ""
-  },
-  "113": {
-    "キラーマジンガ": ""
-  },
-  "114": {
-    "幻界の四諸侯": ""
-  },
-  "115": {
-    "clarity_nt_char_40": "clarity_nt_char_40"
-  },
-  "116": {
-    "幻界の四諸侯練習札": ""
-  },
-  "117": {
-    "ドン・モグーラ": ""
-  },
-  "118": {
-    "ドン・モグーラ練習札": ""
-  },
-  "119": {
-    "clarity_nt_char_41": "clarity_nt_char_41"
-  },
-  "120": {
-    "暗黒の魔人": ""
-  },
-  "121": {
-    "暗黒の魔人練習札": "Dk. Fiend Practice Card"
-  },
-  "122": {
-    "clarity_nt_char_42": "clarity_nt_char_42"
-  },
-  "123": {
-    "Ｓキラーマシン": ""
-  },
-  "124": {
-    "Ｓキラーマシン練習札": ""
-  },
-  "125": {
-    "clarity_nt_char_43": "clarity_nt_char_43"
-  },
-  "126": {
-    "タロット魔人": ""
-  },
-  "127": {
-    "clarity_nt_char_44": "clarity_nt_char_44"
-  },
-  "128": {
-    "ザ・キャッツ": ""
-  },
-  "129": {
-    "clarity_nt_char_45": "clarity_nt_char_45"
-  },
-  "130": {
-    "強・キャッツ": ""
-  },
-  "131": {
-    "clarity_nt_char_46": "clarity_nt_char_46"
-  },
-  "132": {
-    "ザ・ボーンズ": ""
-  },
-  "133": {
-    "clarity_nt_char_47": "clarity_nt_char_47"
-  },
-  "134": {
-    "強・ボーンズ": ""
-  },
-  "135": {
-    "clarity_nt_char_48": "clarity_nt_char_48"
-  },
-  "136": {
-    "Ｖロン": ""
-  },
-  "137": {
-    "Ｖロン強": ""
-  },
-  "138": {
-    "clarity_nt_char_49": "clarity_nt_char_49"
-  },
-  "139": {
-    "サイキョーＶロン": ""
-  },
-  "140": {
-    "clarity_nt_char_50": "clarity_nt_char_50"
-  },
-  "141": {
-    "究極Ｖロン": ""
-  },
-  "142": {
-    "マンドラゴラ": ""
-  },
-  "143": {
-    "clarity_nt_char_51": "clarity_nt_char_51"
-  },
-  "144": {
-    "強・マンドラゴラ": ""
-  },
-  "145": {
-    "clarity_nt_char_52": "clarity_nt_char_52"
-  },
-  "146": {
-    "サボテンダー": "Cactuar"
-  },
-  "147": {
-    "clarity_nt_char_53": "clarity_nt_char_53"
-  },
-  "148": {
-    "強・サボテンダー": "Strong Cactuar"
-  },
-  "149": {
-    "clarity_nt_char_54": "clarity_nt_char_54"
-  },
-  "150": {
-    "みちくさ": ""
-  },
-  "151": {
-    "clarity_nt_char_55": "clarity_nt_char_55"
-  },
-  "152": {
-    "ヤングガイア": ""
-  },
-  "153": {
-    "clarity_nt_char_56": "clarity_nt_char_56"
-  },
-  "154": {
-    "牙王ゴースネル": ""
-  },
-  "155": {
-    "牙王ゴースネル練習札": ""
-  },
-  "156": {
-    "clarity_nt_char_57": "clarity_nt_char_57"
-  },
-  "157": {
-    "輪王ザルトラ": ""
-  },
-  "158": {
-    "clarity_nt_char_58": "clarity_nt_char_58"
-  },
-  "159": {
-    "輪王ザルトラ練習札": ""
-  },
-  "160": {
-    "剣王ガルドリオン": ""
-  },
-  "161": {
-    "clarity_nt_char_59": "clarity_nt_char_59"
-  },
-  "162": {
-    "剣王ガルドリオン練習札": ""
-  },
-  "163": {
-    "Ｓジェネラル": ""
-  },
-  "164": {
-    "clarity_nt_char_60": "clarity_nt_char_60"
-  },
-  "165": {
-    "Ｓジェネラル練習札": ""
-  },
-  "166": {
-    "メタル迷宮ペア招待券": "Metal Lab. Pair Ticket"
-  },
-  "167": {
-    "clarity_nt_char_61": "clarity_nt_char_61"
-  },
-  "168": {
-    "震王ジュノーガ": ""
-  },
-  "169": {
-    "震王ジュノーガ練習札": ""
-  },
-  "170": {
-    "clarity_nt_char_62": "clarity_nt_char_62"
-  },
-  "171": {
-    "幻界の四諸侯強": ""
-  },
-  "172": {
-    "タロット魔人強": ""
-  },
-  "173": {
-    "プチキラーマジンガ": ""
-  },
-  "174": {
-    "キラーマジンガ強": ""
-  },
-  "175": {
-    "clarity_nt_char_63": "clarity_nt_char_63"
-  },
-  "176": {
-    "死神スライダーク": ""
-  },
-  "177": {
-    "clarity_nt_char_64": "clarity_nt_char_64"
-  },
-  "178": {
-    "死神スライダーク練習札": ""
-  },
-  "179": {
-    "ギュメイ将軍": ""
-  },
-  "180": {
-    "clarity_nt_char_65": "clarity_nt_char_65"
-  },
-  "181": {
-    "ギュメイ将軍練習札": "G. Gumei Practice Card"
-  },
-  "182": {
-    "ゲルニック将軍": ""
-  },
-  "183": {
-    "ゲルニック将軍練習札": "G. Gernick Practice Tag"
-  },
-  "184": {
-    "clarity_nt_char_66": "clarity_nt_char_66"
-  },
-  "185": {
-    "プチゴースネル": ""
-  },
-  "186": {
-    "プチ伝説の三悪魔": ""
-  },
-  "187": {
-    "clarity_nt_char_67": "clarity_nt_char_67"
-  },
-  "188": {
-    "プチ幻界の四諸侯": ""
-  },
-  "189": {
-    "clarity_nt_char_68": "clarity_nt_char_68"
-  },
-  "190": {
-    "プチ・モグーラ": ""
-  },
-  "191": {
-    "プチＳキラマシン": ""
-  },
-  "192": {
-    "clarity_nt_char_69": "clarity_nt_char_69"
-  },
-  "193": {
-    "ゴレオン将軍": ""
-  },
-  "194": {
-    "clarity_nt_char_70": "clarity_nt_char_70"
-  },
-  "195": {
-    "ゴレオン将軍練習札": "General Goleon P. Card"
-  },
-  "196": {
-    "帝国三将軍": ""
-  },
-  "197": {
-    "帝国三将軍練習札": ""
-  },
-  "198": {
-    "clarity_nt_char_71": "clarity_nt_char_71"
-  },
-  "199": {
-    "万魔の塔": "Manma Tower"
-  },
-  "200": {
-    "clarity_nt_char_72": "clarity_nt_char_72"
-  },
-  "201": {
-    "ドラゴン": ""
-  },
-  "202": {
-    "clarity_nt_char_73": "clarity_nt_char_73"
-  },
-  "203": {
-    "ドラゴン練習札": ""
-  },
-  "204": {
-    "剛獣鬼ガルドドン": ""
-  },
-  "205": {
-    "clarity_nt_char_74": "clarity_nt_char_74"
-  },
-  "206": {
-    "輝晶獣": ""
-  },
-  "207": {
-    "魔犬レオパルド": ""
-  },
-  "208": {
-    "魔犬レオパルド練習札": "Demon Dog's Tag"
-  },
-  "209": {
-    "clarity_nt_char_75": "clarity_nt_char_75"
-  },
-  "210": {
-    "バトエン": ""
-  },
-  "211": {
-    "clarity_nt_char_76": "clarity_nt_char_76"
-  },
-  "212": {
-    "大富豪": ""
-  },
-  "213": {
-    "邪蒼鎧デルメゼ": ""
-  },
-  "214": {
-    "魔軍": ""
-  },
-  "215": {
-    "clarity_nt_char_77": "clarity_nt_char_77"
-  },
-  "216": {
-    "強・魔軍": ""
-  },
-  "217": {
-    "clarity_nt_char_78": "clarity_nt_char_78"
-  },
-  "218": {
-    "ムドー": ""
-  },
-  "219": {
-    "ムドー練習札": ""
-  }
+    "1": {
+        "魔法の迷宮": "Magic Labyrinth"
+    },
+    "2": {
+        "強戦士の書": "S. Warrior Book"
+    },
+    "3": {
+        "バトルチャレンジ": ""
+    },
+    "4": {
+        "clarity_nt_char_1": "clarity_nt_char_1"
+    },
+    "5": {
+        "カジノ攻略": ""
+    },
+    "6": {
+        "チームクエスト": "Team Quests"
+    },
+    "7": {
+        "その他": "Other"
+    },
+    "8": {
+        "<%sM_TQUEST>（なんでも）": ""
+    },
+    "9": {
+        "clarity_nt_char_2": "clarity_nt_char_2"
+    },
+    "10": {
+        "ルーレット": "Roulette"
+    },
+    "11": {
+        "ポーカー": "Poker"
+    },
+    "12": {
+        "clarity_nt_char_3": "clarity_nt_char_3"
+    },
+    "13": {
+        "スロット": ""
+    },
+    "14": {
+        "clarity_nt_char_4": "clarity_nt_char_4"
+    },
+    "15": {
+        "ビンゴ": ""
+    },
+    "16": {
+        "すごろく": ""
+    },
+    "17": {
+        "clarity_nt_char_5": "clarity_nt_char_5"
+    },
+    "18": {
+        "強モードボス": "Hardmode Boss"
+    },
+    "19": {
+        "clarity_nt_char_6": "clarity_nt_char_6"
+    },
+    "20": {
+        "試練の門": ""
+    },
+    "21": {
+        "clarity_nt_char_7": "clarity_nt_char_7"
+    },
+    "22": {
+        "同盟バトル": ""
+    },
+    "23": {
+        "達人の宝珠集め": ""
+    },
+    "24": {
+        "お宝の写真": ""
+    },
+    "25": {
+        "呼び寄せの筆集め": ""
+    },
+    "26": {
+        "clarity_nt_char_8": "clarity_nt_char_8"
+    },
+    "27": {
+        "神聖秘文": ""
+    },
+    "28": {
+        "clarity_nt_char_9": "clarity_nt_char_9"
+    },
+    "29": {
+        "装備品集め": ""
+    },
+    "30": {
+        "ドルボードレース": ""
+    },
+    "31": {
+        "clarity_nt_char_10": "clarity_nt_char_10"
+    },
+    "32": {
+        "未討伐のフィールド強敵": ""
+    },
+    "33": {
+        "ピラミッド": ""
+    },
+    "34": {
+        "不思議の魔塔": "Odd Demon Tower"
+    },
+    "35": {
+        "clarity_nt_char_11": "clarity_nt_char_11"
+    },
+    "36": {
+        "達人クエスト": "Master Quest"
+    },
+    "37": {
+        "clarity_nt_char_12": "clarity_nt_char_12"
+    },
+    "38": {
+        "常闇の竜レグナード": ""
+    },
+    "39": {
+        "ダークキング": ""
+    },
+    "40": {
+        "clarity_nt_char_13": "clarity_nt_char_13"
+    },
+    "41": {
+        "邪神の宮殿": "Evil God Palace"
+    },
+    "42": {
+        "竜王城の決戦": ""
+    },
+    "43": {
+        "clarity_nt_char_14": "clarity_nt_char_14"
+    },
+    "44": {
+        "黄昏の奏戦記": ""
+    },
+    "45": {
+        "clarity_nt_char_15": "clarity_nt_char_15"
+    },
+    "46": {
+        "海冥主メイヴ": ""
+    },
+    "47": {
+        "clarity_nt_char_16": "clarity_nt_char_16"
+    },
+    "48": {
+        "バトル・ルネッサンス": ""
+    },
+    "49": {
+        "clarity_nt_char_17": "clarity_nt_char_17"
+    },
+    "50": {
+        "大魔王ゾーマへの挑戦": ""
+    },
+    "51": {
+        "clarity_nt_char_18": "clarity_nt_char_18"
+    },
+    "52": {
+        "アストルティア防衛軍": ""
+    },
+    "53": {
+        "clarity_nt_char_19": "clarity_nt_char_19"
+    },
+    "54": {
+        "いにしえのゼルメア": "Ancient Zelmea"
+    },
+    "55": {
+        "冥骸魔レギルラッゾたち": ""
+    },
+    "56": {
+        "紅殻魔スコルパイド": ""
+    },
+    "57": {
+        "翠将鬼ジェルザーク": ""
+    },
+    "58": {
+        "<%sM_MEIKYU>（捧げ物なし）": ""
+    },
+    "59": {
+        "メタスラ": ""
+    },
+    "60": {
+        "clarity_nt_char_20": "clarity_nt_char_20"
+    },
+    "61": {
+        "メダル王": ""
+    },
+    "62": {
+        "clarity_nt_char_21": "clarity_nt_char_21"
+    },
+    "63": {
+        "はぐメタ": ""
+    },
+    "64": {
+        "clarity_nt_char_22": "clarity_nt_char_22"
+    },
+    "65": {
+        "メタキン": ""
+    },
+    "66": {
+        "clarity_nt_char_23": "clarity_nt_char_23"
+    },
+    "67": {
+        "ゴルスラ": ""
+    },
+    "68": {
+        "clarity_nt_char_24": "clarity_nt_char_24"
+    },
+    "69": {
+        "レアボス": ""
+    },
+    "70": {
+        "clarity_nt_char_25": "clarity_nt_char_25"
+    },
+    "71": {
+        "福の神": ""
+    },
+    "72": {
+        "メタスラボス": ""
+    },
+    "73": {
+        "clarity_nt_char_26": "clarity_nt_char_26"
+    },
+    "74": {
+        "プチアトラス": ""
+    },
+    "75": {
+        "clarity_nt_char_27": "clarity_nt_char_27"
+    },
+    "76": {
+        "アトラス": "Atlas"
+    },
+    "77": {
+        "clarity_nt_char_28": "clarity_nt_char_28"
+    },
+    "78": {
+        "アトラス強": ""
+    },
+    "79": {
+        "プチバズズ": ""
+    },
+    "80": {
+        "バズズ": ""
+    },
+    "81": {
+        "バズズ強": ""
+    },
+    "82": {
+        "clarity_nt_char_29": "clarity_nt_char_29"
+    },
+    "83": {
+        "プチベリアル": ""
+    },
+    "84": {
+        "clarity_nt_char_30": "clarity_nt_char_30"
+    },
+    "85": {
+        "ベリアル": ""
+    },
+    "86": {
+        "clarity_nt_char_31": "clarity_nt_char_31"
+    },
+    "87": {
+        "ベリアル強": ""
+    },
+    "88": {
+        "プチ悪霊の神々": ""
+    },
+    "89": {
+        "悪霊の神々": ""
+    },
+    "90": {
+        "悪霊の神々強": ""
+    },
+    "91": {
+        "clarity_nt_char_32": "clarity_nt_char_32"
+    },
+    "92": {
+        "プチガイア": ""
+    },
+    "93": {
+        "ドラゴンガイア": ""
+    },
+    "94": {
+        "ドラゴンガイア強": ""
+    },
+    "95": {
+        "clarity_nt_char_33": "clarity_nt_char_33"
+    },
+    "96": {
+        "プチバラモス": ""
+    },
+    "97": {
+        "clarity_nt_char_34": "clarity_nt_char_34"
+    },
+    "98": {
+        "バラモス": ""
+    },
+    "99": {
+        "clarity_nt_char_35": "clarity_nt_char_35"
+    },
+    "100": {
+        "バラモス強": ""
+    },
+    "101": {
+        "プチヒドラ": ""
+    },
+    "102": {
+        "キングヒドラ": ""
+    },
+    "103": {
+        "clarity_nt_char_36": "clarity_nt_char_36"
+    },
+    "104": {
+        "キングヒドラ強": ""
+    },
+    "105": {
+        "プチグラコス": ""
+    },
+    "106": {
+        "clarity_nt_char_37": "clarity_nt_char_37"
+    },
+    "107": {
+        "グラコス": ""
+    },
+    "108": {
+        "clarity_nt_char_38": "clarity_nt_char_38"
+    },
+    "109": {
+        "グラコス強": ""
+    },
+    "110": {
+        "伝説の三悪魔": ""
+    },
+    "111": {
+        "clarity_nt_char_39": "clarity_nt_char_39"
+    },
+    "112": {
+        "伝説の三悪魔闘": ""
+    },
+    "113": {
+        "キラーマジンガ": ""
+    },
+    "114": {
+        "幻界の四諸侯": ""
+    },
+    "115": {
+        "clarity_nt_char_40": "clarity_nt_char_40"
+    },
+    "116": {
+        "幻界の四諸侯練習札": ""
+    },
+    "117": {
+        "ドン・モグーラ": ""
+    },
+    "118": {
+        "ドン・モグーラ練習札": ""
+    },
+    "119": {
+        "clarity_nt_char_41": "clarity_nt_char_41"
+    },
+    "120": {
+        "暗黒の魔人": ""
+    },
+    "121": {
+        "暗黒の魔人練習札": "Dk. Fiend Practice Card"
+    },
+    "122": {
+        "clarity_nt_char_42": "clarity_nt_char_42"
+    },
+    "123": {
+        "Ｓキラーマシン": ""
+    },
+    "124": {
+        "Ｓキラーマシン練習札": ""
+    },
+    "125": {
+        "clarity_nt_char_43": "clarity_nt_char_43"
+    },
+    "126": {
+        "タロット魔人": ""
+    },
+    "127": {
+        "clarity_nt_char_44": "clarity_nt_char_44"
+    },
+    "128": {
+        "ザ・キャッツ": ""
+    },
+    "129": {
+        "clarity_nt_char_45": "clarity_nt_char_45"
+    },
+    "130": {
+        "強・キャッツ": ""
+    },
+    "131": {
+        "clarity_nt_char_46": "clarity_nt_char_46"
+    },
+    "132": {
+        "ザ・ボーンズ": ""
+    },
+    "133": {
+        "clarity_nt_char_47": "clarity_nt_char_47"
+    },
+    "134": {
+        "強・ボーンズ": ""
+    },
+    "135": {
+        "clarity_nt_char_48": "clarity_nt_char_48"
+    },
+    "136": {
+        "Ｖロン": ""
+    },
+    "137": {
+        "Ｖロン強": ""
+    },
+    "138": {
+        "clarity_nt_char_49": "clarity_nt_char_49"
+    },
+    "139": {
+        "サイキョーＶロン": ""
+    },
+    "140": {
+        "clarity_nt_char_50": "clarity_nt_char_50"
+    },
+    "141": {
+        "究極Ｖロン": ""
+    },
+    "142": {
+        "マンドラゴラ": ""
+    },
+    "143": {
+        "clarity_nt_char_51": "clarity_nt_char_51"
+    },
+    "144": {
+        "強・マンドラゴラ": ""
+    },
+    "145": {
+        "clarity_nt_char_52": "clarity_nt_char_52"
+    },
+    "146": {
+        "サボテンダー": "Cactuar"
+    },
+    "147": {
+        "clarity_nt_char_53": "clarity_nt_char_53"
+    },
+    "148": {
+        "強・サボテンダー": "Strong Cactuar"
+    },
+    "149": {
+        "clarity_nt_char_54": "clarity_nt_char_54"
+    },
+    "150": {
+        "みちくさ": ""
+    },
+    "151": {
+        "clarity_nt_char_55": "clarity_nt_char_55"
+    },
+    "152": {
+        "ヤングガイア": ""
+    },
+    "153": {
+        "clarity_nt_char_56": "clarity_nt_char_56"
+    },
+    "154": {
+        "牙王ゴースネル": ""
+    },
+    "155": {
+        "牙王ゴースネル練習札": ""
+    },
+    "156": {
+        "clarity_nt_char_57": "clarity_nt_char_57"
+    },
+    "157": {
+        "輪王ザルトラ": ""
+    },
+    "158": {
+        "clarity_nt_char_58": "clarity_nt_char_58"
+    },
+    "159": {
+        "輪王ザルトラ練習札": ""
+    },
+    "160": {
+        "剣王ガルドリオン": ""
+    },
+    "161": {
+        "clarity_nt_char_59": "clarity_nt_char_59"
+    },
+    "162": {
+        "剣王ガルドリオン練習札": ""
+    },
+    "163": {
+        "Ｓジェネラル": ""
+    },
+    "164": {
+        "clarity_nt_char_60": "clarity_nt_char_60"
+    },
+    "165": {
+        "Ｓジェネラル練習札": ""
+    },
+    "166": {
+        "メタル迷宮ペア招待券": "Metal Lab. Pair Ticket"
+    },
+    "167": {
+        "clarity_nt_char_61": "clarity_nt_char_61"
+    },
+    "168": {
+        "震王ジュノーガ": ""
+    },
+    "169": {
+        "震王ジュノーガ練習札": ""
+    },
+    "170": {
+        "clarity_nt_char_62": "clarity_nt_char_62"
+    },
+    "171": {
+        "幻界の四諸侯強": ""
+    },
+    "172": {
+        "タロット魔人強": ""
+    },
+    "173": {
+        "プチキラーマジンガ": ""
+    },
+    "174": {
+        "キラーマジンガ強": ""
+    },
+    "175": {
+        "clarity_nt_char_63": "clarity_nt_char_63"
+    },
+    "176": {
+        "死神スライダーク": ""
+    },
+    "177": {
+        "clarity_nt_char_64": "clarity_nt_char_64"
+    },
+    "178": {
+        "死神スライダーク練習札": ""
+    },
+    "179": {
+        "ギュメイ将軍": ""
+    },
+    "180": {
+        "clarity_nt_char_65": "clarity_nt_char_65"
+    },
+    "181": {
+        "ギュメイ将軍練習札": "G. Gumei Practice Card"
+    },
+    "182": {
+        "ゲルニック将軍": ""
+    },
+    "183": {
+        "ゲルニック将軍練習札": "G. Gernick Practice Tag"
+    },
+    "184": {
+        "clarity_nt_char_66": "clarity_nt_char_66"
+    },
+    "185": {
+        "プチゴースネル": ""
+    },
+    "186": {
+        "プチ伝説の三悪魔": ""
+    },
+    "187": {
+        "clarity_nt_char_67": "clarity_nt_char_67"
+    },
+    "188": {
+        "プチ幻界の四諸侯": ""
+    },
+    "189": {
+        "clarity_nt_char_68": "clarity_nt_char_68"
+    },
+    "190": {
+        "プチ・モグーラ": ""
+    },
+    "191": {
+        "プチＳキラマシン": ""
+    },
+    "192": {
+        "clarity_nt_char_69": "clarity_nt_char_69"
+    },
+    "193": {
+        "ゴレオン将軍": ""
+    },
+    "194": {
+        "clarity_nt_char_70": "clarity_nt_char_70"
+    },
+    "195": {
+        "ゴレオン将軍練習札": "General Goleon P. Card"
+    },
+    "196": {
+        "帝国三将軍": ""
+    },
+    "197": {
+        "帝国三将軍練習札": ""
+    },
+    "198": {
+        "clarity_nt_char_71": "clarity_nt_char_71"
+    },
+    "199": {
+        "万魔の塔": "Manma Tower"
+    },
+    "200": {
+        "clarity_nt_char_72": "clarity_nt_char_72"
+    },
+    "201": {
+        "ドラゴン": ""
+    },
+    "202": {
+        "clarity_nt_char_73": "clarity_nt_char_73"
+    },
+    "203": {
+        "ドラゴン練習札": ""
+    },
+    "204": {
+        "剛獣鬼ガルドドン": ""
+    },
+    "205": {
+        "clarity_nt_char_74": "clarity_nt_char_74"
+    },
+    "206": {
+        "輝晶獣": ""
+    },
+    "207": {
+        "魔犬レオパルド": ""
+    },
+    "208": {
+        "魔犬レオパルド練習札": "Demon Dog's Tag"
+    },
+    "209": {
+        "clarity_nt_char_75": "clarity_nt_char_75"
+    },
+    "210": {
+        "バトエン": ""
+    },
+    "211": {
+        "clarity_nt_char_76": "clarity_nt_char_76"
+    },
+    "212": {
+        "大富豪": ""
+    },
+    "213": {
+        "邪蒼鎧デルメゼ": ""
+    },
+    "214": {
+        "魔軍": ""
+    },
+    "215": {
+        "clarity_nt_char_77": "clarity_nt_char_77"
+    },
+    "216": {
+        "強・魔軍": ""
+    },
+    "217": {
+        "clarity_nt_char_78": "clarity_nt_char_78"
+    },
+    "218": {
+        "ムドー": ""
+    },
+    "219": {
+        "ムドー練習札": ""
+    }
 }
