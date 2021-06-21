@@ -9813,13 +9813,13 @@
         "メタルチケット": "Metal Ticket"
     },
     "3272": {
-        "経験値の古文書・小": "Small Document of EXP"
+        "経験値の古文書・小": "Small Experience Scroll"
     },
     "3273": {
-        "経験値の古文書・中": "Medium Document of EXP"
+        "経験値の古文書・中": "Medium Experience Scroll"
     },
     "3274": {
-        "経験値の古文書・大": "Large Document of EXP"
+        "経験値の古文書・大": "Large Experience Scroll"
     },
     "3275": {
         "超元気玉": "Bonus Orb L"
@@ -15150,25 +15150,25 @@
         "clarity_nt_char_1509": "clarity_nt_char_1509"
     },
     "5051": {
-        "経験値の古文書・どう": ""
+        "経験値の古文書・どう": "Experience Scroll - ITM"
     },
     "5052": {
         "clarity_nt_char_1510": "clarity_nt_char_1510"
     },
     "5053": {
-        "経験値の古文書・踊り": ""
+        "経験値の古文書・踊り": "Experience Scroll - DNC"
     },
     "5054": {
         "clarity_nt_char_1511": "clarity_nt_char_1511"
     },
     "5055": {
-        "経験値の古文書・占い": ""
+        "経験値の古文書・占い": "Experience Scroll - FOR"
     },
     "5056": {
         "clarity_nt_char_1512": "clarity_nt_char_1512"
     },
     "5057": {
-        "経験値の古文書・天地": ""
+        "経験値の古文書・天地": "Experience Scroll - DRU"
     },
     "5058": {
         "clarity_nt_char_1513": "clarity_nt_char_1513"
@@ -42555,7 +42555,7 @@
         "かがやく星の贈り物": ""
     },
     "14186": {
-        "経験値の古文書・デス": ""
+        "経験値の古文書・デス": "Experience Scroll - DTH"
     },
     "14187": {
         "clarity_nt_char_4360": "clarity_nt_char_4360"
@@ -80589,7 +80589,7 @@
         "いかにも怪しい|ランプ錬金道具": ""
     },
     "26864": {
-        "経験値の古文書・魔剣": ""
+        "経験値の古文書・魔剣": "Experience Scroll - DMN"
     },
     "26865": {
         "clarity_nt_char_8619": "clarity_nt_char_8619"
