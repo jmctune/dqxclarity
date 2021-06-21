@@ -6972,7 +6972,7 @@
         "職人経験値": "Craftsman EXP"
     },
     "2325": {
-        "元気タイム残り<%2dM_mm>分": ""
+        "元気タイム残り<%2dM_mm>分": "Bonus Time Left <%2dM_mm>m"
     },
     "2326": {
         "×": ""
@@ -19851,7 +19851,7 @@
         "序章モード": "Intro Mode"
     },
     "6618": {
-        "<%2dM_mm>分未満": ""
+        "<%2dM_mm>分未満": "<%2dM_mm>m or less"
     },
     "6619": {
         "clarity_nt_char_2255": "clarity_nt_char_2255"
