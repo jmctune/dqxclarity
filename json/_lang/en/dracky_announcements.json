@@ -345,7 +345,7 @@
         "郵便箱に <%dC_NUM>件の 新しいお届け物があります": "You have <%dC_NUM> letter(s) in your mailbox."
     },
     "116": {
-        "郵便箱に \\s<%sC_PC>\\m<%sC_ID>\\eから 何か届きました！": ""
+        "郵便箱に \\s<%sC_PC>\\m<%sC_ID>\\eから 何か届きました！": "You have something in your mailbox from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "117": {
         "clarity_nt_char_35": "clarity_nt_char_35"
