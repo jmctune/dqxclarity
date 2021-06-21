@@ -15180,7 +15180,7 @@
         "片手剣装備時の|武器ガード率が|１％増える": "Weapon guard +1%|when Sword|equipped."
     },
     "5061": {
-        "片手剣装備時の|武器ガード率が|１．５％増える": ""
+        "片手剣装備時の|武器ガード率が|１．５％増える": "Weapon guard +1.5%|when Sword|equipped."
     },
     "5062": {
         "片手剣装備時の|武器ガード率が|２％増える": "Weapon guard +2%|when Sword|equipped."
@@ -15450,13 +15450,13 @@
         "clarity_nt_char_1765": "clarity_nt_char_1765"
     },
     "5151": {
-        "ヤリ装備時の|武器ガード率が|１．２％増える": ""
+        "ヤリ装備時の|武器ガード率が|１．２％増える": "Weapon guard +1.2%|when Spear|equipped."
     },
     "5152": {
         "clarity_nt_char_1766": "clarity_nt_char_1766"
     },
     "5153": {
-        "ヤリ装備時の|武器ガード率が|１．５％増える": ""
+        "ヤリ装備時の|武器ガード率が|１．５％増える": "Weapon guard +1.5%|when Spear|equipped."
     },
     "5154": {
         "clarity_nt_char_1767": "clarity_nt_char_1767"
