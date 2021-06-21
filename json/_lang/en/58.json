@@ -1,18 +1,18 @@
 {
     "1": {
-        "メインカラー": "Main Colour"
+        "メインカラー": "Main Color"
     },
     "2": {
         "clarity_nt_char_1": "clarity_nt_char_1"
     },
     "3": {
-        "サイドカラー": "Side Colour"
+        "サイドカラー": "Side Color"
     },
     "4": {
         "clarity_nt_char_2": "clarity_nt_char_2"
     },
     "5": {
-        "ベースカラー": "Base Colour"
+        "ベースカラー": "Base Color"
     },
     "6": {
         "clarity_nt_char_3": "clarity_nt_char_3"
@@ -84,7 +84,7 @@
         "ズボン": ""
     },
     "29": {
-        "ラインカラー": ""
+        "ラインカラー": "Line Color"
     },
     "30": {
         "clarity_nt_char_10": "clarity_nt_char_10"
@@ -231,7 +231,7 @@
         "clarity_nt_char_26": "clarity_nt_char_26"
     },
     "78": {
-        "ジュエルカラー": ""
+        "ジュエルカラー": "Jewel Color"
     },
     "79": {
         "マント": ""
@@ -423,7 +423,7 @@
         "clarity_nt_char_51": "clarity_nt_char_51"
     },
     "142": {
-        "サブカラー": ""
+        "サブカラー": "Sub Color"
     },
     "143": {
         "プリント": ""
@@ -828,19 +828,19 @@
         "clarity_nt_char_99": "clarity_nt_char_99"
     },
     "277": {
-        "ラインカラー１": ""
+        "ラインカラー１": "Line Color 1"
     },
     "278": {
-        "ラインカラー２": ""
+        "ラインカラー２": "Line Color 2"
     },
     "279": {
-        "サブカラー１": ""
+        "サブカラー１": "Sub Color 1"
     },
     "280": {
         "clarity_nt_char_100": "clarity_nt_char_100"
     },
     "281": {
-        "サブカラー２": ""
+        "サブカラー２": "Sub Color 2"
     },
     "282": {
         "clarity_nt_char_101": "clarity_nt_char_101"
