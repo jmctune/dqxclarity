@@ -2175,7 +2175,7 @@
         "敵１体を|斬りつけて|たまに猛毒にする": ""
     },
     "726": {
-        "短剣装備時の|かいしん率が|２％増える": ""
+        "短剣装備時の|かいしん率が|２％増える": "Critical Rate +2%|when Dagger|equipped."
     },
     "727": {
         "短剣装備時の|こうげき力が|１５増える": "Attack +15|when Dagger|equipped."
@@ -4878,7 +4878,7 @@
         "鎌装備時の|こうげき魔力が|４０増える": ""
     },
     "1627": {
-        "短剣装備時の|こうげき魔力が|３０増える": ""
+        "短剣装備時の|こうげき魔力が|３０増える": "Attack +30|when Dagger|equipped."
     },
     "1628": {
         "clarity_nt_char_546": "clarity_nt_char_546"
@@ -4905,7 +4905,7 @@
         "clarity_nt_char_548": "clarity_nt_char_548"
     },
     "1636": {
-        "短剣装備時の|こうげき魔力が|６０増える": ""
+        "短剣装備時の|こうげき魔力が|６０増える": "Attack +60|when Dagger|equipped."
     },
     "1637": {
         "clarity_nt_char_549": "clarity_nt_char_549"
