@@ -942,7 +942,7 @@
         "clarity_nt_char_102": "clarity_nt_char_102"
     },
     "315": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが あなたと ふしぎなすれちがいを達成！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが あなたと ふしぎなすれちがいを達成！": "Achieved a mysterious passing with \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "316": {
         "clarity_nt_char_103": "clarity_nt_char_103"
@@ -1044,7 +1044,7 @@
         "とある冒険者と ふしぎなすれちがいを達成！": ""
     },
     "349": {
-        "とある冒険者が あなたと ふしぎなすれちがいを達成！": ""
+        "とある冒険者が あなたと ふしぎなすれちがいを達成！": "An adventurer achieved a mysterious passing with you!"
     },
     "350": {
         "clarity_nt_char_114": "clarity_nt_char_114"
