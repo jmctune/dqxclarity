@@ -12891,7 +12891,7 @@
         "clarity_nt_char_1465": "clarity_nt_char_1465"
     },
     "4298": {
-        "<%dM_nn>こ": ""
+        "<%dM_nn>こ": "<%dM_nn>"
     },
     "4299": {
         "宝珠所持数": ""
@@ -14712,7 +14712,7 @@
         "clarity_nt_char_1665": "clarity_nt_char_1665"
     },
     "4905": {
-        "<%dM_Syozisuu>こ": ""
+        "<%dM_Syozisuu>こ": "<%dM_Syozisuu>"
     },
     "4906": {
         "バッジ効果": ""
@@ -17265,7 +17265,7 @@
         "ヒント": ""
     },
     "5756": {
-        "<%dM_Houshuu>こ": ""
+        "<%dM_Houshuu>こ": "<%dM_Houshuu>"
     },
     "5757": {
         "clarity_nt_char_1966": "clarity_nt_char_1966"
@@ -19920,7 +19920,7 @@
         "<%dM_ryou>Ｐ": ""
     },
     "6641": {
-        "<%dM_ryou>こ": ""
+        "<%dM_ryou>こ": "<%dM_ryou>"
     },
     "6642": {
         "<%sM_ryoukai>-<%sM_zone>": ""
@@ -20301,7 +20301,7 @@
         "clarity_nt_char_2302": "clarity_nt_char_2302"
     },
     "6768": {
-        "<%dM_num>こ": ""
+        "<%dM_num>こ": "<%dM_num>"
     },
     "6769": {
         "clarity_nt_char_2303": "clarity_nt_char_2303"
@@ -21534,7 +21534,7 @@
         "clarity_nt_char_2434": "clarity_nt_char_2434"
     },
     "7179": {
-        "<%dM_bunsi>/<%dM_bunbo>こ": ""
+        "<%dM_bunsi>/<%dM_bunbo>こ": "<%dM_bunsi>/<%dM_bunbo>"
     },
     "7180": {
         "clarity_nt_char_2435": "clarity_nt_char_2435"
@@ -21657,7 +21657,7 @@
         "レジェンドバッジを見る": ""
     },
     "7220": {
-        "<%dM_reward>こ": ""
+        "<%dM_reward>こ": "<%dM_reward>"
     },
     "7221": {
         "<%dM_reward>P": ""
@@ -24324,7 +24324,7 @@
         "clarity_nt_char_2741": "clarity_nt_char_2741"
     },
     "8109": {
-        "<%3dM_point>こ": ""
+        "<%3dM_point>こ": "<%3dM_point>"
     },
     "8110": {
         "以降<%7dM_point>Pごと": ""
@@ -26103,7 +26103,7 @@
         "空き数": ""
     },
     "8702": {
-        "格納数<%nM_num>こ": ""
+        "格納数<%nM_num>こ": "No. Stores: <%nM_num>"
     },
     "8703": {
         "配置中": ""
