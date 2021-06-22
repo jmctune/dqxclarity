@@ -1251,7 +1251,7 @@
         "戦闘勝利時に ＨＰが<%sB_renkin1>回復": ""
     },
     "418": {
-        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でピオラ2段階": ""
+        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でピオラ2段階": "Battle Start Accel 2 Stages <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "419": {
         "clarity_nt_char_135": "clarity_nt_char_135"
