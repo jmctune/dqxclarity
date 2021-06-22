@@ -453,7 +453,7 @@
         "clarity_nt_char_47": "clarity_nt_char_47"
     },
     "152": {
-        "<%sC_MONSTER> <%dC_N1>匹討伐 達成しました！": ""
+        "<%sC_MONSTER> <%dC_N1>匹討伐 達成しました！": "You defeated <%dC_N1> <%sC_MONSTER>!"
     },
     "153": {
         "フレンドの お誘いが あります！": "You have a friend request!"
@@ -474,7 +474,7 @@
         "clarity_nt_char_50": "clarity_nt_char_50"
     },
     "159": {
-        "<%sC_MONSTER> <%dC_N1>匹討伐 達成しました……": ""
+        "<%sC_MONSTER> <%dC_N1>匹討伐 達成しました……": "You've defeated <%dC_N1> <%sC_MONSTER>…"
     },
     "160": {
         "clarity_nt_char_51": "clarity_nt_char_51"
@@ -723,7 +723,7 @@
         "clarity_nt_char_78": "clarity_nt_char_78"
     },
     "242": {
-        "<%sC_MONSTER> <%dC_N1>匹討伐 達成しました………": ""
+        "<%sC_MONSTER> <%dC_N1>匹討伐 達成しました………": "You've defeated <%dC_N1> <%sC_MONSTER>…"
     },
     "243": {
         "<%sC_QUEST>クエストを キャンセルしました": ""
