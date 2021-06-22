@@ -1170,7 +1170,7 @@
         "メタル系モンスター出現率 1.1倍(試合無効)": ""
     },
     "391": {
-        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%マホトラのころも": "Battle Start Magic Outfit <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%マホトラのころも": "Battle Start Magic Cloak <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "392": {
         "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%天使の守り(試合無効)": "Battle Start Goddess's Grace <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>% (No PvP)"
@@ -2115,7 +2115,7 @@
         "clarity_nt_char_237": "clarity_nt_char_237"
     },
     "706": {
-        "開戦時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%マホトラのころも": "Battle Start Magic Outfit <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "開戦時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%マホトラのころも": "Battle Start Magic Cloak <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "707": {
         "開戦時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でキラキラポーン": "Battle Start Snap Crackle Poof <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
@@ -2523,7 +2523,7 @@
         "clarity_nt_char_289": "clarity_nt_char_289"
     },
     "842": {
-        "盾装備で　開戦時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%マホトラのころも": "Battle Start With Shield Magic Outfit <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "盾装備で　開戦時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%マホトラのころも": "Battle Start With Shield Magic Cloak <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "843": {
         "clarity_nt_char_290": "clarity_nt_char_290"
@@ -5361,7 +5361,7 @@
         "clarity_nt_char_607": "clarity_nt_char_607"
     },
     "1788": {
-        "開戦時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%マホトラのころも": "Battle Start Magic Outfit <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
+        "開戦時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%マホトラのころも": "Battle Start Magic Cloak <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1789": {
         "開戦時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%天使の守り": "Battle Start Goddess' Grace <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
@@ -5952,7 +5952,7 @@
         "開戦時 ？%でメイクアップ": "Battle Start Extreme Makeover ?%"
     },
     "1985": {
-        "開戦時 ？%マホトラのころも": "Battle Start Magic Outfit ?%"
+        "開戦時 ？%マホトラのころも": "Battle Start Magic Cloak ?%"
     },
     "1986": {
         "clarity_nt_char_661": "clarity_nt_char_661"
@@ -6207,7 +6207,7 @@
         "clarity_nt_char_685": "clarity_nt_char_685"
     },
     "2070": {
-        "盾装備で　開戦時  ？%でマホトラのころも": "Battle Start With Shield Magic Outfit ?%"
+        "盾装備で　開戦時  ？%でマホトラのころも": "Battle Start With Shield Magic Cloak ?%"
     },
     "2071": {
         "盾装備で　開戦時  ？%天使の守り": "Battle Start With Shield Goddess' Grace ?%"
