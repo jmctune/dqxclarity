@@ -1260,7 +1260,7 @@
         "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で早詠みの杖": "Battle Start Faster Caster <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "421": {
-        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でチャージ時間-10秒": ""
+        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でチャージ時間-10秒": "Battle Start Charge Time -10 sec. <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "422": {
         "clarity_nt_char_136": "clarity_nt_char_136"
