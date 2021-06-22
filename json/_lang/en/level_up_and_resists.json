@@ -492,7 +492,7 @@
         "ブレス系ダメージ ??%減": ""
     },
     "165": {
-        "攻撃呪文ダメージ ??%減": "Attack Spell Damage +??%"
+        "攻撃呪文ダメージ ??%減": "Attack Spell Damage Taken -??%"
     },
     "166": {
         "眠りガード": "Sleep Guard"
