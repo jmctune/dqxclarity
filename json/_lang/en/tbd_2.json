@@ -5535,37 +5535,37 @@
         "clarity_nt_char_619": "clarity_nt_char_619"
     },
     "1846": {
-        "攻撃呪文ダメージ ？%減": "Spell Damage +?%"
+        "攻撃呪文ダメージ ？%減": "Spell Damage Taken -?%"
     },
     "1847": {
         "clarity_nt_char_620": "clarity_nt_char_620"
     },
     "1848": {
-        "眠りガード +？%": "Sleep Guard +？%"
+        "眠りガード +？%": "Sleep Guard +?%"
     },
     "1849": {
-        "マヒガード +？%": "Paraly. Guard +？%"
+        "マヒガード +？%": "Paralyze Guard +?%"
     },
     "1850": {
-        "混乱ガード +？%": "Confusion Guard +？%"
+        "混乱ガード +？%": "Confusion Guard +?%"
     },
     "1851": {
-        "封印ガード +？%": "Seal Guard +？%"
+        "封印ガード +？%": "Seal Guard +?%"
     },
     "1852": {
-        "幻惑ガード +？%": "Blind Guard +？%"
+        "幻惑ガード +？%": "Blind Guard +?%"
     },
     "1853": {
-        "呪いガード +？%": ""
+        "呪いガード +？%": "Curse Guard +?%"
     },
     "1854": {
-        "即死ガード +？%": "Death Guard +？%"
+        "即死ガード +？%": "Death Guard +?%"
     },
     "1855": {
-        "どくガード +？%": ""
+        "どくガード +？%": "Poison Guard +?%"
     },
     "1856": {
-        "魅了ガード +？%": ""
+        "魅了ガード +？%": "Charm Guard +?%"
     },
     "1857": {
         "炎ダメージ ？%減": ""
