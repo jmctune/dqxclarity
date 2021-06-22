@@ -7371,43 +7371,43 @@
         "闇ダメージ ３％減": "Dark Damage -3%"
     },
     "2458": {
-        "闇ダメージ ４％減": "Dark Resist 4%"
+        "闇ダメージ ４％減": "Dark Damage -4%"
     },
     "2459": {
-        "闇ダメージ ５％減": "Dark Resist 5%"
+        "闇ダメージ ５％減": "Dark Damage -5%"
     },
     "2460": {
-        "土ダメージ １％減": "Earth Resist +1%"
+        "土ダメージ １％減": "Earth Damage -1%"
     },
     "2461": {
-        "土ダメージ ２％減": "Earth Resist +2%"
+        "土ダメージ ２％減": "Earth Damage -2%"
     },
     "2462": {
-        "土ダメージ ３％減": "Earth Resist +3%"
+        "土ダメージ ３％減": "Earth Damage -3%"
     },
     "2463": {
-        "土ダメージ ４％減": "Earth Resist +4%"
+        "土ダメージ ４％減": "Earth Damage -4%"
     },
     "2464": {
-        "土ダメージ ５％減": "Earth Resist +5%"
+        "土ダメージ ５％減": "Earth Damage -5%"
     },
     "2465": {
-        "光ダメージ １％減": "Light Resist +1%"
+        "光ダメージ １％減": "Light Damage -1%"
     },
     "2466": {
-        "光ダメージ ２％減": "Light Resist +2%"
+        "光ダメージ ２％減": "Light Damage -2%"
     },
     "2467": {
-        "光ダメージ ３％減": "Light Resist +3%"
+        "光ダメージ ３％減": "Light Damage -3%"
     },
     "2468": {
-        "光ダメージ ４％減": "Light Resist +4%"
+        "光ダメージ ４％減": "Light Damage -4%"
     },
     "2469": {
-        "光ダメージ ５％減": "Light Resist +5%"
+        "光ダメージ ５％減": "Light Damage -5%"
     },
     "2470": {
-        "呪文ダメージ １％減": "Spell Resist +1%"
+        "呪文ダメージ １％減": "Spell Damage -1%"
     },
     "2471": {
         "clarity_nt_char_856": "clarity_nt_char_856"
@@ -7419,7 +7419,7 @@
         "clarity_nt_char_857": "clarity_nt_char_857"
     },
     "2474": {
-        "呪文ダメージ ３％減": "Spell Resist +4%"
+        "呪文ダメージ ３％減": "Spell Damage -3%"
     },
     "2475": {
         "clarity_nt_char_858": "clarity_nt_char_858"
