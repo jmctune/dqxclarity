@@ -399,7 +399,7 @@
         "clarity_nt_char_42": "clarity_nt_char_42"
     },
     "134": {
-        " ": ""
+        " ": " "
     },
     "135": {
         "clarity_ms_space_1": "clarity_ms_space_1"
@@ -411,13 +411,13 @@
         "clarity_nt_char_43": "clarity_nt_char_43"
     },
     "138": {
-        "掘る": ""
+        "掘る": "Dig"
     },
     "139": {
         "clarity_nt_char_44": "clarity_nt_char_44"
     },
     "140": {
-        "切る": ""
+        "切る": "Cut"
     },
     "141": {
         "clarity_nt_char_45": "clarity_nt_char_45"
@@ -432,25 +432,25 @@
         "clarity_nt_char_46": "clarity_nt_char_46"
     },
     "145": {
-        "花を摘む": ""
+        "花を摘む": "Pick Flowers"
     },
     "146": {
         "clarity_nt_char_47": "clarity_nt_char_47"
     },
     "147": {
-        "一発仕上げ": ""
+        "一発仕上げ": "One-Shot Finish"
     },
     "148": {
-        "たたく": ""
+        "たたく": "Strike"
     },
     "149": {
-        "なにをつくる？": ""
+        "なにをつくる？": "What to make?"
     },
     "150": {
         "ダミーメッセージです１６字で表示|ダミーメッセージです１６字で表示": ""
     },
     "151": {
-        "失敗": ""
+        "失敗": "Error"
     },
     "152": {
         "clarity_nt_char_48": "clarity_nt_char_48"
