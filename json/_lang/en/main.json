@@ -1395,7 +1395,7 @@
         "しょじきん": "Gold"
     },
     "466": {
-        "<%sL_COL_OLD_IRO>に|染められている": ""
+        "<%sL_COL_OLD_IRO>に|染められている": "Dyed to|<%sL_COL_OLD_IRO>"
     },
     "467": {
         "clarity_nt_char_156": "clarity_nt_char_156"
@@ -1407,31 +1407,31 @@
         "clarity_nt_char_157": "clarity_nt_char_157"
     },
     "470": {
-        "★": ""
+        "★": "★"
     },
     "471": {
-        "☆": ""
+        "☆": "☆"
     },
     "472": {
-        "顔アクセサリー": ""
+        "顔アクセサリー": "Face Accessories"
     },
     "473": {
-        "首アクセサリー": ""
+        "首アクセサリー": "Neck Accessories"
     },
     "474": {
-        "指アクセサリー": "Ring"
+        "指アクセサリー": "Ring Accessories"
     },
     "475": {
         "ルーラストーン": "Zoomstone"
     },
     "476": {
-        "クエストアイテム": ""
+        "クエストアイテム": "Quest Items"
     },
     "477": {
         "clarity_nt_char_158": "clarity_nt_char_158"
     },
     "478": {
-        "シナリオアイテム": ""
+        "シナリオアイテム": "Scenario Items"
     },
     "479": {
         "clarity_nt_char_159": "clarity_nt_char_159"
@@ -1443,7 +1443,7 @@
         "clarity_nt_char_160": "clarity_nt_char_160"
     },
     "482": {
-        "Ｌ": ""
+        "Ｌ": "L"
     },
     "483": {
         "ぬう": ""
@@ -1452,7 +1452,7 @@
         "clarity_nt_char_161": "clarity_nt_char_161"
     },
     "485": {
-        "ランキング掲示板": ""
+        "ランキング掲示板": "Ranking Board"
     },
     "486": {
         "clarity_nt_char_162": "clarity_nt_char_162"
