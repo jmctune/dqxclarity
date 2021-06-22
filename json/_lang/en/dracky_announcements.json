@@ -156,7 +156,7 @@
         "clarity_nt_char_15": "clarity_nt_char_15"
     },
     "53": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eに フレンド登録を断られました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eに フレンド登録を断られました": "\\s<%sC_PC>\\m<%sC_ID>\\e rejected your friend request."
     },
     "54": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eに フレンド申し込みが届きませんでした": ""
