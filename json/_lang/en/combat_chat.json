@@ -2310,7 +2310,7 @@
         "clarity_nt_char_277": "clarity_nt_char_277"
     },
     "771": {
-        "<%sB_ACTOR>は <%sB_ITEM>をふりまいた！": ""
+        "<%sB_ACTOR>は <%sB_ITEM>をふりまいた！": "<%sB_ACTOR> sprinkled <%sB_ITEM>!"
     },
     "772": {
         "clarity_nt_char_278": "clarity_nt_char_278"
@@ -4548,7 +4548,7 @@
         "clarity_nt_char_532": "clarity_nt_char_532"
     },
     "1517": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を ふりまいた！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を ふりまいた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e sprinkled <%sB_ITEM>!"
     },
     "1518": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM><%sB_RANK>を 使った！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e used <%sB_ITEM><%sB_RANK>!"

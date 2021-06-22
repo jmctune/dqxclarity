@@ -684,7 +684,7 @@
         "<%sL_OWNER>の畑に <%sL_ITEM>を 使った！": ""
     },
     "229": {
-        "<%sL_OWNER>の畑に <%sL_ITEM>を まいた！": ""
+        "<%sL_OWNER>の畑に <%sL_ITEM>を まいた！": "<%sL_ITEM> planted in <%sL_OWNER>'s garden!"
     },
     "230": {
         "<%sL_OWNER>の畑から <%sL_ITEM>を 摘んだ！|所持数 <%nL_BEFORE_NUM>こ → <%nL_AFTER_NUM>こ になった！": ""
