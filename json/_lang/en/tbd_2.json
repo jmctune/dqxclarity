@@ -3138,7 +3138,7 @@
         "ＭＰ消費しない率 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint>%": ""
     },
     "1047": {
-        "さいだいＨＰとしゅび力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
+        "さいだいＨＰとしゅび力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Max HP & Defense +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "1048": {
         "ＭＰ消費しない率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
@@ -4803,7 +4803,7 @@
         "かいふく魔力 <%sB_renkin1>(<%+dB_renkindiff>)": ""
     },
     "1602": {
-        "さいだいＨＰ <%sB_renkin1>(<%+dB_renkindiff>)": ""
+        "さいだいＨＰ <%sB_renkin1>(<%+dB_renkindiff>)": "Max HP <%sB_renkin1> (<%+dB_renkindiff>)"
     },
     "1603": {
         "さいだいＭＰ <%sB_renkin1>(<%+dB_renkindiff>)": ""
@@ -5055,7 +5055,7 @@
         "かいふく魔力 <%+dB_renkin>（<%+dB_renkindiff>）": ""
     },
     "1686": {
-        "さいだいＨＰ <%+dB_renkin>（<%+dB_renkindiff>）": ""
+        "さいだいＨＰ <%+dB_renkin>（<%+dB_renkindiff>）": "Max HP <%+dB_renkin> (<%+dB_renkindiff>)"
     },
     "1687": {
         "さいだいＭＰ <%+dB_renkin>（<%+dB_renkindiff>）": ""
@@ -5496,7 +5496,7 @@
         "かいふく魔力 +？": ""
     },
     "1833": {
-        "さいだいＨＰ +？": ""
+        "さいだいＨＰ +？": "Max HP +?"
     },
     "1834": {
         "さいだいＭＰ +？": ""
