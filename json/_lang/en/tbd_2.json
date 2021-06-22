@@ -4839,7 +4839,7 @@
         "ブレス系ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": ""
     },
     "1614": {
-        "攻撃呪文ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": "Spell damage <%sB_renkin1>(<%+dB_renkindiff>) -%"
+        "攻撃呪文ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": "Spell Damage <%sB_renkin1>(<%+dB_renkindiff>) -%"
     },
     "1615": {
         "眠りガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Sleep Guard <%sB_renkin1>(<%+dB_renkindiff>)%"
