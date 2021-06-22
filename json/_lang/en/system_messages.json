@@ -648,7 +648,7 @@
         "前回　ゲームを中断した場所が|サーバー変更が　できない場所だったため|前回と同じサーバーから　ゲームを再開します。<end>": "Your character was not logged out|properly, so the game will be restarted on|the same server as before.<end>"
     },
     "217": {
-        "前回　住宅村で中断したので|住宅村専用サーバーから再開します。<end>": ""
+        "前回　住宅村で中断したので|住宅村専用サーバーから再開します。<end>": "Since you logged off in a housing area,|you'll reconnect on the housing server.<end>"
     },
     "218": {
         "新規登録": ""
