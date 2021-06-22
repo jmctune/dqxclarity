@@ -5370,10 +5370,10 @@
         "clarity_nt_char_608": "clarity_nt_char_608"
     },
     "1791": {
-        "開戦時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%でキラキラポーン": ""
+        "開戦時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%でキラキラポーン": "Battle Start Snap Crackle Poof <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1792": {
-        "開戦時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%で聖女の守り": ""
+        "開戦時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%で聖女の守り": "Battle Start Alma Mater <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1793": {
         "炎の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
@@ -5418,7 +5418,7 @@
         "光の呪文の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
     },
     "1807": {
-        "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%で必殺チャージ": ""
+        "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%で必殺チャージ": "Battle Start Special Charge <%dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1808": {
         "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%でバイシオン": ""
