@@ -159,7 +159,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eに フレンド登録を断られました": "\\s<%sC_PC>\\m<%sC_ID>\\e rejected your friend request."
     },
     "54": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eに フレンド申し込みが届きませんでした": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eに フレンド申し込みが届きませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\e didn't receive your friend request."
     },
     "55": {
         "あと<%dC_M>分間 操作しないと 強制終了されます": ""
@@ -273,7 +273,7 @@
         "clarity_nt_char_27": "clarity_nt_char_27"
     },
     "92": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eのフレンドリストが いっぱいでした": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eのフレンドリストが いっぱいでした": "\\s<%sC_PC>\\m<%sC_ID>\\e's friends list was full."
     },
     "93": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eに 仲間への参加を 断られました": ""
