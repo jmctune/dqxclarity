@@ -5340,13 +5340,13 @@
         "clarity_nt_char_605": "clarity_nt_char_605"
     },
     "1781": {
-        "開戦時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%で盾ガード率上昇": ""
+        "開戦時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%で盾ガード率上昇": "Battle Start Guard Rate Up <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1782": {
-        "開戦時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%でかいしん率上昇": ""
+        "開戦時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%でかいしん率上昇": "Battle Start Crit. Rate Up <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1783": {
-        "開戦時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%でピオラ": ""
+        "開戦時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%でピオラ": "Battle Start Accel <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1784": {
         "開戦時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%でマホキテ": ""
