@@ -1410,7 +1410,7 @@
         "clarity_nt_char_152": "clarity_nt_char_152"
     },
     "471": {
-        "ヤリ装備時　こうげき魔力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
+        "ヤリ装備時　こうげき魔力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "With Spear M. Might +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "472": {
         "clarity_nt_char_153": "clarity_nt_char_153"
@@ -2268,7 +2268,7 @@
         "絆時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で主人に２回スカラ": ""
     },
     "757": {
-        "こうげき魔力とかいふく魔力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
+        "こうげき魔力とかいふく魔力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "M. Might/Mending +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "758": {
         "会心率と呪文暴走率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
@@ -4797,7 +4797,7 @@
         "clarity_nt_char_553": "clarity_nt_char_553"
     },
     "1600": {
-        "こうげき魔力 <%sB_renkin1>(<%+dB_renkindiff>)": ""
+        "こうげき魔力 <%sB_renkin1>(<%+dB_renkindiff>)": "Magical Might <%sB_renkin1>(<%+dB_renkindiff>)"
     },
     "1601": {
         "かいふく魔力 <%sB_renkin1>(<%+dB_renkindiff>)": ""
@@ -5049,7 +5049,7 @@
         "clarity_nt_char_578": "clarity_nt_char_578"
     },
     "1684": {
-        "こうげき魔力 <%+dB_renkin>（<%+dB_renkindiff>）": ""
+        "こうげき魔力 <%+dB_renkin>（<%+dB_renkindiff>）": "Magical Might <%+dB_renkin> (<%+dB_renkindiff>)"
     },
     "1685": {
         "かいふく魔力 <%+dB_renkin>（<%+dB_renkindiff>）": ""
@@ -5490,7 +5490,7 @@
         "clarity_nt_char_616": "clarity_nt_char_616"
     },
     "1831": {
-        "こうげき魔力 +？": ""
+        "こうげき魔力 +？": "Magical Might +?"
     },
     "1832": {
         "かいふく魔力 +？": ""
