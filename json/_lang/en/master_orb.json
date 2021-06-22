@@ -7302,22 +7302,22 @@
         "clarity_nt_char_855": "clarity_nt_char_855"
     },
     "2435": {
-        "炎ダメージ １％減": "Fire Resist +1%"
+        "炎ダメージ １％減": "Fire Damage -1%"
     },
     "2436": {
-        "炎ダメージ ２％減": "Fire Resist +2%"
+        "炎ダメージ ２％減": "Fire Damage -2%"
     },
     "2437": {
-        "炎ダメージ ３％減": "Fire Resist +3%"
+        "炎ダメージ ３％減": "Fire Damage -3%"
     },
     "2438": {
-        "炎ダメージ ４％減": "Fire Resist +4%"
+        "炎ダメージ ４％減": "Fire Damage -4%"
     },
     "2439": {
-        "炎ダメージ ５％減": "Fire Resist +5%"
+        "炎ダメージ ５％減": "Fire Damage -5%"
     },
     "2440": {
-        "氷ダメージ １％減": "Ice Resist +1%"
+        "氷ダメージ １％減": "Ice Damage -1%"
     },
     "2441": {
         "氷ダメージ ２％減": "Ice Resist +2%"
@@ -7413,7 +7413,7 @@
         "clarity_nt_char_856": "clarity_nt_char_856"
     },
     "2472": {
-        "呪文ダメージ ２％減": "Spell Resist +2%"
+        "呪文ダメージ ２％減": "Spell Damage -2%"
     },
     "2473": {
         "clarity_nt_char_857": "clarity_nt_char_857"
