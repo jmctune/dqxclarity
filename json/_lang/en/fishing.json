@@ -726,13 +726,13 @@
         "さおゆるめ回復量アップは|覚えているだけで　さおをゆるめた時の|回復量が　少し　上がるようになります。": "\"Line Loosen Recovery Up\" increases the amount|that your line recovers by when loosening it."
     },
     "243": {
-        "ビッグサイズ確率アップは|覚えているだけで　ビッグサイズの魚が|かかりやすく　なります。": ""
+        "ビッグサイズ確率アップは|覚えているだけで　ビッグサイズの魚が|かかりやすく　なります。": "\"Big Size Rate Up\" increases the chance that|the fish you catch will be of \"Big\" size."
     },
     "244": {
         "clarity_nt_char_79": "clarity_nt_char_79"
     },
     "245": {
-        "キングサイズ確率アップは|覚えているだけで　キングサイズの魚が|かかりやすく　なります。": ""
+        "キングサイズ確率アップは|覚えているだけで　キングサイズの魚が|かかりやすく　なります。": "\"King Size Rate Up\" increases the chance that|the fish you catch will be of \"King\" size."
     },
     "246": {
         "clarity_nt_char_80": "clarity_nt_char_80"
@@ -774,7 +774,7 @@
         "clarity_nt_char_85": "clarity_nt_char_85"
     },
     "259": {
-        "釣りざおの冷気で|さかなを凍らせる": ""
+        "釣りざおの冷気で|さかなを凍らせる": "Uses the cold air from your rod|to freeze the fish."
     },
     "260": {
         "ナツリ特製の旬の|秘められた力で|釣りさおを引く": "A rod made by|Natsuri with a|hidden power."
@@ -792,7 +792,7 @@
         "clarity_nt_char_87": "clarity_nt_char_87"
     },
     "265": {
-        "釣りをあきらめて|さかなを逃がす": ""
+        "釣りをあきらめて|さかなを逃がす": "Give up on fishing and|let the fish escape."
     },
     "266": {
         "clarity_nt_char_88": "clarity_nt_char_88"
@@ -834,6 +834,6 @@
         "堀": "Mo."
     },
     "279": {
-        "貯水槽": ""
+        "貯水槽": "Aqua Tank"
     }
 }
