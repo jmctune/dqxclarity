@@ -285,7 +285,7 @@
         "clarity_nt_char_30": "clarity_nt_char_30"
     },
     "96": {
-        "マヒガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Paraly. Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "マヒガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Paralyze Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "97": {
         "clarity_nt_char_31": "clarity_nt_char_31"
@@ -582,7 +582,7 @@
         "眠りガード +100%": "Sleep Guard +100%"
     },
     "195": {
-        "マヒガード +100%": "Paraly. Guard +100%"
+        "マヒガード +100%": "Paralyze Guard +100%"
     },
     "196": {
         "混乱ガード +100%": "Confusion Guard +100%"
@@ -594,7 +594,7 @@
         "幻惑ガード +100%": "Blind Guard +100%"
     },
     "199": {
-        "呪いガード +100%": ""
+        "呪いガード +100%": "Curse Guard +100%"
     },
     "200": {
         "即死ガード +100%": "Death Guard +100%"
@@ -1683,7 +1683,7 @@
         "clarity_nt_char_183": "clarity_nt_char_183"
     },
     "562": {
-        "マヒガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Paraly. Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "マヒガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Paralyze Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "563": {
         "clarity_nt_char_184": "clarity_nt_char_184"
@@ -1707,7 +1707,7 @@
         "clarity_nt_char_187": "clarity_nt_char_187"
     },
     "570": {
-        "呪いガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "呪いガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Curse Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "571": {
         "clarity_nt_char_188": "clarity_nt_char_188"
@@ -4845,7 +4845,7 @@
         "眠りガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Sleep Guard <%sB_renkin1>(<%+dB_renkindiff>)%"
     },
     "1616": {
-        "マヒガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Paraly. Guard <%sB_renkin1>(<%+dB_renkindiff>)%"
+        "マヒガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Paralyze Guard <%sB_renkin1>(<%+dB_renkindiff>)%"
     },
     "1617": {
         "混乱ガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Confusion Guard <%sB_renkin1>(<%+dB_renkindiff>)%"
@@ -4857,7 +4857,7 @@
         "幻惑ガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Blind Guard <%sB_renkin1>(<%+dB_renkindiff>)%"
     },
     "1620": {
-        "呪いガード <%sB_renkin1>(<%+dB_renkindiff>)%": ""
+        "呪いガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Curse Guard <%sB_renkin1>(<%+dB_renkindiff>)%"
     },
     "1621": {
         "即死ガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Death Guard <%sB_renkin1>(<%+dB_renkindiff>)%"
@@ -5097,7 +5097,7 @@
         "眠りガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Sleep Guard <%+dB_renkin>（<%+dB_renkindiff>）%"
     },
     "1700": {
-        "マヒガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Paraly. Guard <%+dB_renkin>（<%+dB_renkindiff>）%"
+        "マヒガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Paralyze Guard <%+dB_renkin>（<%+dB_renkindiff>）%"
     },
     "1701": {
         "混乱ガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Confusion Guard <%+dB_renkin>（<%+dB_renkindiff>）%"
@@ -5109,7 +5109,7 @@
         "幻惑ガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Blind Guard <%+dB_renkin>（<%+dB_renkindiff>）%"
     },
     "1704": {
-        "呪いガード <%+dB_renkin>（<%+dB_renkindiff>）%": ""
+        "呪いガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Curse Guard <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1705": {
         "即死ガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Death Guard <%+dB_renkin>（<%+dB_renkindiff>）%"
