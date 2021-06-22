@@ -1719,7 +1719,7 @@
         "clarity_nt_char_189": "clarity_nt_char_189"
     },
     "574": {
-        "どくガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "どくガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Poison Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "575": {
         "clarity_nt_char_190": "clarity_nt_char_190"
@@ -4863,7 +4863,7 @@
         "即死ガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Death Guard <%sB_renkin1>(<%+dB_renkindiff>)%"
     },
     "1622": {
-        "どくガード <%sB_renkin1>(<%+dB_renkindiff>)%": ""
+        "どくガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Poison Guard <%sB_renkin1>(<%+dB_renkindiff>)%"
     },
     "1623": {
         "休みガード <%sB_renkin1>(<%+dB_renkindiff>)%": ""
@@ -5115,7 +5115,7 @@
         "即死ガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Death Guard <%+dB_renkin>（<%+dB_renkindiff>）%"
     },
     "1706": {
-        "どくガード <%+dB_renkin>（<%+dB_renkindiff>）%": ""
+        "どくガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Poison Guard <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1707": {
         "炎ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": ""
