@@ -1023,7 +1023,7 @@
         "<center><color_yellow>ＳＴＥＰ３|ドラゴンクエストⅩの利用登録<end>": ""
     },
     "342": {
-        "<center><color_yellow>ＳＴＥＰ４|キャラクター名の確認<end>": ""
+        "<center><color_yellow>ＳＴＥＰ４|キャラクター名の確認<end>": "<center><color_yellow>STEP 4|Confirm character name<end>"
     },
     "343": {
         "<center><color_yellow>ＳＴＥＰ４|利用期間の確認<end>": ""
@@ -1575,7 +1575,7 @@
         "レジストレーションコードを登録する": "Activate registration code"
     },
     "526": {
-        "登録したレジストレーションコードの確認": ""
+        "登録したレジストレーションコードの確認": "Check registered codes"
     },
     "527": {
         "ベータテスト": ""
