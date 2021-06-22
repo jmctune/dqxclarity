@@ -5439,10 +5439,10 @@
         "clarity_nt_char_610": "clarity_nt_char_610"
     },
     "1814": {
-        "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%で心頭滅却": ""
+        "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%で心頭滅却": "Battle Start Clear Mind <%dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1815": {
-        "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%でためる": ""
+        "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%でためる": "Battle Start Tension Up <%dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1816": {
         "clarity_nt_char_611": "clarity_nt_char_611"
@@ -5460,10 +5460,10 @@
         "clarity_nt_char_613": "clarity_nt_char_613"
     },
     "1821": {
-        "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%で魔力かくせい": ""
+        "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%で魔力かくせい": "Battle Start Channel Anger <%dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1822": {
-        "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%で聖なる祈り": ""
+        "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%で聖なる祈り": "Battle Start Care Prayer <%dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1823": {
         "clarity_nt_char_614": "clarity_nt_char_614"
@@ -6108,16 +6108,16 @@
         "攻撃時 ？%で急所突き": ""
     },
     "2037": {
-        "開戦時 ？%でタップダンス": ""
+        "開戦時 ？%でタップダンス": "Battle Start Tap Dance ?%"
     },
     "2038": {
-        "開戦時 ？%でバイキルト": ""
+        "開戦時 ？%でバイキルト": "Battle Start Oomphle ?%"
     },
     "2039": {
         "clarity_nt_char_675": "clarity_nt_char_675"
     },
     "2040": {
-        "開戦時 ？%で心頭滅却": ""
+        "開戦時 ？%で心頭滅却": "Battle Start Clear Mind ?%"
     },
     "2041": {
         "敵を倒すと ？%でためる": ""
