@@ -1299,7 +1299,7 @@
         "錬金開始時　たまに必殺チャージ": ""
     },
     "434": {
-        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でヘヴィチャージ": ""
+        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でヘヴィチャージ": "Battle Start Heavy Charge <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "435": {
         "全ての攻撃時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でためる": ""
@@ -1428,7 +1428,7 @@
         "両手杖装備時　たまに　呪文を２回唱える": ""
     },
     "477": {
-        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で魔力かくせい": ""
+        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で魔力かくせい": "Battle Start Channel Anger <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "478": {
         "clarity_nt_char_155": "clarity_nt_char_155"
@@ -1599,7 +1599,7 @@
         "行動時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でスカラとヘヴィチャージ": ""
     },
     "534": {
-        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でスカラ２段階": ""
+        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でスカラ２段階": "Battle Start Buff 2 Stages <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "535": {
         "clarity_nt_char_175": "clarity_nt_char_175"
