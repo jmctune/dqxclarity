@@ -18,7 +18,7 @@
         "<%sB_ACTION>！": "<%sB_ACTION>!"
     },
     "7": {
-        "<%sB_TARGET_RPL>に|<%sB_ACTION>": "<%sB_ACTION> on <%sB_TARGET_RPL>"
+        "<%sB_TARGET_RPL>に|<%sB_ACTION>": "<%sB_ACTION> on|<%sB_TARGET_RPL>"
     },
     "8": {
         "clarity_nt_char_3": "clarity_nt_char_3"
@@ -36,10 +36,10 @@
         "<%sB_ITEM>を使った！": "Used <%sB_ITEM>!"
     },
     "13": {
-        "<%sB_TARGET_RPL>に|<%sB_ITEM>をなげた！": "Throws <%sB_ITEM> at <%sB_TARGET_RPL>!"
+        "<%sB_TARGET_RPL>に|<%sB_ITEM>をなげた！": "Throws <%sB_ITEM>|at <%sB_TARGET_RPL>!"
     },
     "14": {
-        "<%sB_TARGET_RPL>に|<%sB_ITEM>！": "<%sB_ITEM> on <%sB_TARGET_RPL>!"
+        "<%sB_TARGET_RPL>に|<%sB_ITEM>！": "<%sB_ITEM> on|<%sB_TARGET_RPL>!"
     },
     "15": {
         "<%sB_ITEM>を|使った！": "Uses <%sB_ITEM>!"
