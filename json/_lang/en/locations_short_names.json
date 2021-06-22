@@ -2691,7 +2691,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>職人の家": ""
     },
     "898": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>未開のジャングル地区": "Block <%nW_INSTANCE_NO><%sW_DELIMITER>Savage Jungle"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>未開のジャングル地区": "Block <%nW_INSTANCE_NO><%sW_DELIMITER>Tropical District"
     },
     "899": {
         "clarity_nt_char_284": "clarity_nt_char_284"
@@ -2853,7 +2853,7 @@
         "うるわしの浜辺地区": "Beach District"
     },
     "952": {
-        "未開のジャングル地区": ""
+        "未開のジャングル地区": "Tropical District"
     },
     "953": {
         "clarity_nt_char_304": "clarity_nt_char_304"
@@ -3027,7 +3027,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>最上層５": ""
     },
     "1010": {
-        "未開のジャングル地区への道": ""
+        "未開のジャングル地区への道": "Road to Tropical District"
     },
     "1011": {
         "うるわしの浜辺地区への道": "Road to Beach District"
