@@ -540,7 +540,7 @@
         "闘技場・舞台 出口": ""
     },
     "181": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>預かり所・郵便局": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>預かり所・郵便局": "<%sW_MAP_NAME><%sW_DELIMITER>Depository - P. Office"
     },
     "182": {
         "グレン城下町 入口": ""
@@ -3249,7 +3249,7 @@
         "clarity_nt_char_348": "clarity_nt_char_348"
     },
     "1084": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>宿屋・郵便局": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>宿屋・郵便局": "<%sW_MAP_NAME><%sW_DELIMITER>Inn - P. Office"
     },
     "1085": {
         "１番地": "House No1"
@@ -10671,7 +10671,7 @@
         "clarity_nt_char_1137": "clarity_nt_char_1137"
     },
     "3558": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・郵便局": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・郵便局": "<%sW_MAP_NAME><%sW_DELIMITER>Item Shop - P. Office"
     },
     "3559": {
         "clarity_nt_char_1138": "clarity_nt_char_1138"
