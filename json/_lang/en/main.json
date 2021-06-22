@@ -1350,43 +1350,43 @@
         "clarity_nt_char_150": "clarity_nt_char_150"
     },
     "451": {
-        "もらう物": ""
+        "もらう物": "Receive Gift"
     },
     "452": {
         "clarity_nt_char_151": "clarity_nt_char_151"
     },
     "453": {
-        "わたす物": ""
+        "わたす物": "Hand-Me-Down"
     },
     "454": {
         "clarity_nt_char_152": "clarity_nt_char_152"
     },
     "455": {
-        "しまう": ""
+        "しまう": "Finish"
     },
     "456": {
-        "サイズ": ""
+        "サイズ": "Size"
     },
     "457": {
-        "<%sM_syokugyou>": ""
+        "<%sM_syokugyou>": "<%sM_syokugyou>"
     },
     "458": {
-        "<%sM_syokunin>": ""
+        "<%sM_syokunin>": "<%sM_syokunin>"
     },
     "459": {
         "clarity_nt_char_153": "clarity_nt_char_153"
     },
     "460": {
-        "このそうびは　染められません。": ""
+        "このそうびは　染められません。": "You can't dye this yarn."
     },
     "461": {
-        "<%sL_COL_ITEM>の<%sL_COL_BUI>|を　<%sL_COL_IRO>に変更しました。": ""
+        "<%sL_COL_ITEM>の<%sL_COL_BUI>|を　<%sL_COL_IRO>に変更しました。": "Changed <%sL_COL_BUI>|in <%sL_COL_ITEM> to <%sL_COL_IRO>."
     },
     "462": {
         "clarity_nt_char_154": "clarity_nt_char_154"
     },
     "463": {
-        "<%sL_COL_ITEM>の<%sL_COL_BUI>|を　<%sL_COL_IRO>に変更します。|よろしいですか？": ""
+        "<%sL_COL_ITEM>の<%sL_COL_BUI>|を　<%sL_COL_IRO>に変更します。|よろしいですか？": "Change <%sL_COL_BUI>|in <%sL_COL_ITEM> to <%sL_COL_IRO>.|Are you sure?"
     },
     "464": {
         "clarity_nt_char_155": "clarity_nt_char_155"
