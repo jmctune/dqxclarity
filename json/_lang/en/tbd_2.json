@@ -5421,19 +5421,19 @@
         "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%で必殺チャージ": "Battle Start Special Charge <%dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1808": {
-        "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%でバイシオン": ""
+        "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%でバイシオン": "Battle Start Oomph <%dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1809": {
         "clarity_nt_char_609": "clarity_nt_char_609"
     },
     "1810": {
-        "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%でリホイミ": ""
+        "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%でリホイミ": "Battle Start Reheal <%dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1811": {
-        "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%でタップダンス": ""
+        "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%でタップダンス": "Battle Start Tap Dance <%dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1812": {
-        "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%でバイキルト": ""
+        "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%でバイキルト": "Battle Start Oomphle <%dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1813": {
         "clarity_nt_char_610": "clarity_nt_char_610"
