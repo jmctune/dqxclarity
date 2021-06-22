@@ -3180,7 +3180,7 @@
         "clarity_nt_char_358": "clarity_nt_char_358"
     },
     "1061": {
-        "<%dM_nnnn>種": ""
+        "<%dM_nnnn>種": "<%dM_nnnn>"
     },
     "1062": {
         "プレイ時間": "Play Time"
@@ -10869,7 +10869,7 @@
         "clarity_nt_char_1245": "clarity_nt_char_1245"
     },
     "3624": {
-        "<%sM_race>種": ""
+        "<%sM_race>種": "<%sM_race>"
     },
     "3625": {
         "<%sM_seikaku>": ""
@@ -10935,7 +10935,7 @@
         "clarity_nt_char_1249": "clarity_nt_char_1249"
     },
     "3646": {
-        "(<%sM_race>種)": ""
+        "(<%sM_race>種)": "(<%sM_race>)"
     },
     "3647": {
         "覚えていません": ""
@@ -11442,7 +11442,7 @@
         "clarity_nt_char_1305": "clarity_nt_char_1305"
     },
     "3815": {
-        "ボスの種類": ""
+        "ボスの種類": "Boss Type"
     },
     "3816": {
         "コインボス": "Coin Boss"
@@ -11952,7 +11952,7 @@
         "収集おさかなリスト": "Fish List"
     },
     "3985": {
-        "釣り上げたさかなの種類": ""
+        "釣り上げたさかなの種類": "Fish Types Caught"
     },
     "3986": {
         "釣れる場所": ""
