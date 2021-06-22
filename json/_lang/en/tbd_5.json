@@ -21,7 +21,7 @@
         "全員の同期が　完了しました。|ボスマップに　移動します。　": ""
     },
     "8": {
-        "<speed=0><%sM_pc>を　フレンドから　はずして|よろしいですか？|<yesno 2><close>": ""
+        "<speed=0><%sM_pc>を　フレンドから　はずして|よろしいですか？|<yesno 2><close>": "<speed=0>Are you sure you want to remove <%sM_pc> from your friends?|<yesno 2><close>"
     },
     "9": {
         "clarity_nt_char_2": "clarity_nt_char_2"
