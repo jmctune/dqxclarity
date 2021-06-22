@@ -9117,7 +9117,7 @@
         "clarity_nt_char_1025": "clarity_nt_char_1025"
     },
     "3040": {
-        "<speed=0>|コミュニケーションウインドウに|落とすモンスター情報を　メモしました。": ""
+        "<speed=0>|コミュニケーションウインドウに|落とすモンスター情報を　メモしました。": "<speed=0>Monster drop information was|copied to the communication window."
     },
     "3041": {
         "他の人が選択中です。|他の人の選択が終わると　すわることができます。|<bw_break>": ""
