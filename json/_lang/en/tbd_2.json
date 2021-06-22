@@ -321,7 +321,7 @@
         "clarity_nt_char_36": "clarity_nt_char_36"
     },
     "108": {
-        "どくガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "どくガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Poison Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "109": {
         "clarity_nt_char_37": "clarity_nt_char_37"
@@ -600,7 +600,7 @@
         "即死ガード +100%": "Death Guard +100%"
     },
     "201": {
-        "どくガード +100%": ""
+        "どくガード +100%": "Poison Guard +100%"
     },
     "202": {
         "休みガード +100%": ""
