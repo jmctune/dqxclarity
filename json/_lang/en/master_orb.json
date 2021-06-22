@@ -4041,34 +4041,34 @@
         "いてつくはどうガード+2%": "Disruption Wave Guard +2%"
     },
     "1348": {
-        "炎ダメージ 1%減": "Fire Resist +1%"
+        "炎ダメージ 1%減": "Fire Damage -1%"
     },
     "1349": {
-        "氷ダメージ 1%減": "Ice Resist +1%"
+        "氷ダメージ 1%減": "Ice Damage -1%"
     },
     "1350": {
-        "風ダメージ 1%減": "Wind Resist 1%"
+        "風ダメージ 1%減": "Wind Damage -1%"
     },
     "1351": {
-        "雷ダメージ 1%減": "Lightning Resist 1%"
+        "雷ダメージ 1%減": "Lightning Damage -1%"
     },
     "1352": {
-        "闇ダメージ 1%減": "Dark Resist 1%"
+        "闇ダメージ 1%減": "Dark Damage -1%"
     },
     "1353": {
-        "土ダメージ 1%減": "Earth Resist +1%"
+        "土ダメージ 1%減": "Earth Damage -1%"
     },
     "1354": {
-        "光ダメージ 1%減": "Light Resist +1%"
+        "光ダメージ 1%減": "Light Damage -1%"
     },
     "1355": {
-        "呪文ダメージ 1%減": "Spell Resist +1%"
+        "呪文ダメージ 1%減": "Spell Damage -1%"
     },
     "1356": {
         "clarity_nt_char_496": "clarity_nt_char_496"
     },
     "1357": {
-        "ブレスダメージ 1%減": "Breath Resist 1%"
+        "ブレスダメージ 1%減": "Breath Damage -1%"
     },
     "1358": {
         "会心率と呪文暴走率+0.2%": "Crit./Spell Crit. Rate +0.2%"
