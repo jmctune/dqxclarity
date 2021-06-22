@@ -1119,13 +1119,13 @@
         "clarity_nt_char_122": "clarity_nt_char_122"
     },
     "374": {
-        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で攻撃呪文威力上昇": ""
+        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で攻撃呪文威力上昇": "Battle Start Attack Spells Up <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "375": {
         "clarity_nt_char_123": "clarity_nt_char_123"
     },
     "376": {
-        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で回復呪文威力上昇": ""
+        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で回復呪文威力上昇": "Battle Start Recovery Spells Up <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "377": {
         "clarity_nt_char_124": "clarity_nt_char_124"
@@ -1146,7 +1146,7 @@
         "戦闘勝利時に ＭＰが<%sB_renkin1>回復": ""
     },
     "383": {
-        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でバイキルト": ""
+        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でバイキルト": "Battle Start Oomphle <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "384": {
         "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で心頭滅却": ""
