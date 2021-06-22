@@ -1,6 +1,6 @@
 {
     "1": {
-        "<%sB_TARGET_RPL>に|<%sB_ITEM>": ""
+        "<%sB_TARGET_RPL>に|<%sB_ITEM>": "<%sB_ITEM> on|<%sB_TARGET_RPL>"
     },
     "2": {
         "clarity_nt_char_1": "clarity_nt_char_1"
