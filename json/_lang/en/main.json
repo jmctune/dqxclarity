@@ -963,7 +963,7 @@
         "どこを染める？": "Dye where?"
     },
     "322": {
-        "どれを染める？": ""
+        "どれを染める？": "Which one to dye?"
     },
     "323": {
         "つりあげる": "Pull In"
@@ -975,7 +975,7 @@
         "clarity_nt_char_106": "clarity_nt_char_106"
     },
     "326": {
-        "回転": ""
+        "回転": "Rotate"
     },
     "327": {
         "clarity_nt_char_107": "clarity_nt_char_107"
@@ -987,7 +987,7 @@
         "clarity_nt_char_108": "clarity_nt_char_108"
     },
     "330": {
-        "けずる": ""
+        "けずる": "Cut Down"
     },
     "331": {
         "やめる": "Stop"
@@ -996,16 +996,16 @@
         "こうかんリスト": "Exchange List"
     },
     "333": {
-        "ああ": ""
+        "ああ": "Yeah"
     },
     "334": {
         "clarity_nt_char_109": "clarity_nt_char_109"
     },
     "335": {
-        "あああ": ""
+        "あああ": "Ahhh"
     },
     "336": {
-        "▼": ""
+        "▼": "▼"
     },
     "337": {
         "家を建てる": "Build House"
@@ -1020,7 +1020,7 @@
         "家をたたむ": "Demolish House"
     },
     "341": {
-        "土地のじょうほう": ""
+        "土地のじょうほう": "Land Information"
     },
     "342": {
         "clarity_nt_char_110": "clarity_nt_char_110"
@@ -1038,10 +1038,10 @@
         "庭をいじる": ""
     },
     "347": {
-        "パーツを変える": ""
+        "パーツを変える": "Change Parts"
     },
     "348": {
-        "色を変える": ""
+        "色を変える": "Change Color"
     },
     "349": {
         "もとの色": "Orig. Color"
