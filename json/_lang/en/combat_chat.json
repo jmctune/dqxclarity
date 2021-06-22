@@ -6,19 +6,19 @@
         "clarity_nt_char_1": "clarity_nt_char_1"
     },
     "3": {
-        "<%sB_ITEM>": ""
+        "<%sB_ITEM>": "<%sB_ITEM>"
     },
     "4": {
         "clarity_nt_char_2": "clarity_nt_char_2"
     },
     "5": {
-        "<%sB_TARGET_RPL>に|<%sB_ACTION>！": ""
+        "<%sB_TARGET_RPL>に|<%sB_ACTION>！": "<%sB_ACTION> on <%sB_TARGET_RPL> !"
     },
     "6": {
-        "<%sB_ACTION>！": ""
+        "<%sB_ACTION>！": "<%sB_ACTION>!"
     },
     "7": {
-        "<%sB_TARGET_RPL>に|<%sB_ACTION>": ""
+        "<%sB_TARGET_RPL>に|<%sB_ACTION>": "<%sB_ACTION> on <%sB_TARGET_RPL>"
     },
     "8": {
         "clarity_nt_char_3": "clarity_nt_char_3"
