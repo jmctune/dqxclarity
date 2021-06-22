@@ -4788,7 +4788,7 @@
         "きようさ <%sB_renkin1>(<%+dB_renkindiff>)": ""
     },
     "1597": {
-        "すばやさ <%sB_renkin1>(<%+dB_renkindiff>)": "Agility <%sB_renkin1>(<%+dB_renkindiff>)"
+        "すばやさ <%sB_renkin1>(<%+dB_renkindiff>)": "Agility <%sB_renkin1> (<%+dB_renkindiff>)"
     },
     "1598": {
         "おしゃれさ <%sB_renkin1>(<%+dB_renkindiff>)": ""
@@ -5040,7 +5040,7 @@
         "きようさ <%+dB_renkin>（<%+dB_renkindiff>）": ""
     },
     "1681": {
-        "すばやさ <%+dB_renkin>（<%+dB_renkindiff>）": "Agility <%+dB_renkin>（<%+dB_renkindiff>）"
+        "すばやさ <%+dB_renkin>（<%+dB_renkindiff>）": "Agility <%+dB_renkin> (<%+dB_renkindiff>)"
     },
     "1682": {
         "おしゃれさ <%+dB_renkin>（<%+dB_renkindiff>）": ""
@@ -5481,7 +5481,7 @@
         "きようさ +？": ""
     },
     "1828": {
-        "すばやさ +？": ""
+        "すばやさ +？": "Agility +?"
     },
     "1829": {
         "おしゃれさ +？": ""
@@ -6705,7 +6705,7 @@
         "clarity_nt_char_737": "clarity_nt_char_737"
     },
     "2236": {
-        "こうげき力とすばやさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
+        "こうげき力とすばやさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Attack & Agility +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "2237": {
         "clarity_nt_char_738": "clarity_nt_char_738"
@@ -6723,7 +6723,7 @@
         "clarity_nt_char_740": "clarity_nt_char_740"
     },
     "2242": {
-        "こうげき魔力とすばやさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
+        "こうげき魔力とすばやさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "M. Might & Agility +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "2243": {
         "こうげき魔力ときようさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
@@ -6732,7 +6732,7 @@
         "こうげき魔力としゅび力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
     },
     "2245": {
-        "かいふく魔力とすばやさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
+        "かいふく魔力とすばやさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "M. Mending & Agility +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "2246": {
         "かいふく魔力ときようさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
