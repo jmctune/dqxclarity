@@ -4071,7 +4071,7 @@
         "ブレスダメージ 1%減": "Breath Damage -1%"
     },
     "1358": {
-        "会心率と呪文暴走率+0.2%": "Crit./Spell Crit. Rate +0.2%"
+        "会心率と呪文暴走率+0.2%": "All Critical Rate +0.2%"
     },
     "1359": {
         "clarity_nt_char_497": "clarity_nt_char_497"
@@ -7452,31 +7452,31 @@
         "ブレスダメージ ５％減": "Breath Resist 5%"
     },
     "2485": {
-        "会心率と呪文暴走率＋０．２％": "Crit./Spell Crit. Rate +0.2%"
+        "会心率と呪文暴走率＋０．２％": "All Critical Rate +0.2%"
     },
     "2486": {
         "clarity_nt_char_861": "clarity_nt_char_861"
     },
     "2487": {
-        "会心率と呪文暴走率＋０．４％": "Crit./Spell Crit. Rate +0.4%"
+        "会心率と呪文暴走率＋０．４％": "All Critical Rate +0.4%"
     },
     "2488": {
         "clarity_nt_char_862": "clarity_nt_char_862"
     },
     "2489": {
-        "会心率と呪文暴走率＋０．６％": "Crit./Spell Crit. Rate +0.6%"
+        "会心率と呪文暴走率＋０．６％": "All Critical Rate +0.6%"
     },
     "2490": {
         "clarity_nt_char_863": "clarity_nt_char_863"
     },
     "2491": {
-        "会心率と呪文暴走率＋０．８％": "Crit./Spell Crit. Rate +0.8%"
+        "会心率と呪文暴走率＋０．８％": "All Critical Rate +0.8%"
     },
     "2492": {
         "clarity_nt_char_864": "clarity_nt_char_864"
     },
     "2493": {
-        "会心率と呪文暴走率＋１％": "Crit./Spell Crit. Rate +1%"
+        "会心率と呪文暴走率＋１％": "All Critical Rate +1%"
     },
     "2494": {
         "clarity_nt_char_865": "clarity_nt_char_865"
@@ -10674,7 +10674,7 @@
         "ブレスダメージ ６％減": "Breath Resist 6%"
     },
     "3559": {
-        "会心率と呪文暴走率＋１．２％": "Crit./Spell Crit. Rate +1.2%"
+        "会心率と呪文暴走率＋１．２％": "All Critical Rate +1.2%"
     },
     "3560": {
         "clarity_nt_char_1224": "clarity_nt_char_1224"
@@ -18180,31 +18180,31 @@
         "ブレスダメージ 6%減": "Breath Resist 6%"
     },
     "6061": {
-        "会心率と呪文暴走率+0.4%": "Crit./Spell Crit. Rate +0.4%"
+        "会心率と呪文暴走率+0.4%": "All Critical Rate +0.4%"
     },
     "6062": {
         "clarity_nt_char_1971": "clarity_nt_char_1971"
     },
     "6063": {
-        "会心率と呪文暴走率+0.6%": "Crit./Spell Crit. Rate +0.6%"
+        "会心率と呪文暴走率+0.6%": "All Critical Rate +0.6%"
     },
     "6064": {
         "clarity_nt_char_1972": "clarity_nt_char_1972"
     },
     "6065": {
-        "会心率と呪文暴走率+0.8%": "Crit./Spell Crit. Rate +0.8%"
+        "会心率と呪文暴走率+0.8%": "All Critical Rate +0.8%"
     },
     "6066": {
         "clarity_nt_char_1973": "clarity_nt_char_1973"
     },
     "6067": {
-        "会心率と呪文暴走率+1%": "Crit./Spell Crit. Rate +1%"
+        "会心率と呪文暴走率+1%": "All Critical Rate +1%"
     },
     "6068": {
         "clarity_nt_char_1974": "clarity_nt_char_1974"
     },
     "6069": {
-        "会心率と呪文暴走率+1.2%": "Crit./Spell Crit. Rate +1.2%"
+        "会心率と呪文暴走率+1.2%": "All Critical Rate +1.2%"
     },
     "6070": {
         "clarity_nt_char_1975": "clarity_nt_char_1975"
