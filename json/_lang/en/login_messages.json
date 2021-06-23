@@ -264,7 +264,7 @@
         "Crysta": ""
     },
     "89": {
-        "<%n_YYYY>年<%n_MM>月<%n_DD>日 まで": ""
+        "<%n_YYYY>年<%n_MM>月<%n_DD>日 まで": "Until <%n_MM>/<%n_DD>/<%n_YYYY>"
     },
     "90": {
         "<%d_YYYY>年<%2d_MM>月<%2d_DD>日 まで": ""
