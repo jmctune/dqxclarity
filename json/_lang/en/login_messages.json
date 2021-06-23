@@ -267,7 +267,7 @@
         "<%n_YYYY>年<%n_MM>月<%n_DD>日 まで": "Until <%n_MM>/<%n_DD>/<%n_YYYY>"
     },
     "90": {
-        "<%d_YYYY>年<%2d_MM>月<%2d_DD>日 まで": ""
+        "<%d_YYYY>年<%2d_MM>月<%2d_DD>日 まで": "Until <%2d_MM>/<%2d_DD>/<%d_YYYY>"
     },
     "91": {
         "<%d_YYYY>年<%2d_MM>月<%2d_DD>日まで（残り<%3d_DAY>日）": "Until <%2d_MM>/<%2d_DD>/<%d_YYYY> (<%3d_DAY> days left)"
