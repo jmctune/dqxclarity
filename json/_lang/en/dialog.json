@@ -3450,10 +3450,10 @@
         "追加パッケージ「眠れる勇者と導きの盟友」が|インストールされていないため|対象マップへの移動に　失敗しました。": ""
     },
     "1151": {
-        "<speed=0>|立ちかたを　かえられる称号を|まだ　手にいれていない！": ""
+        "<speed=0>|立ちかたを　かえられる称号を|まだ　手にいれていない！": "<speed=0>|You don't have any special|poses to switch to!"
     },
     "1152": {
-        "特別な称号から|立ちかたを|変更します": "Change your|stance from your|special title."
+        "特別な称号から|立ちかたを|変更します": "Changes your|idle standing|pose."
     },
     "1153": {
         "<speed=0>パーティ同盟を組んで　この先に進みますか？<yesno><close>": ""
@@ -5385,7 +5385,7 @@
         "clarity_nt_char_608": "clarity_nt_char_608"
     },
     "1796": {
-        "立ちかたを　変更しました！": ""
+        "立ちかたを　変更しました！": "Changed your idle pose!"
     },
     "1797": {
         "かたがきを　変更しました！": ""
