@@ -192,7 +192,7 @@
         "スリープダガー": "Sleeper Hit"
     },
     "65": {
-        "攻撃時たまにＭＰ回復": "Recover MP When Attacking"
+        "攻撃時たまにＭＰ回復": "Rarely Recover MP On Attack"
     },
     "66": {
         "clarity_nt_char_20": "clarity_nt_char_20"
@@ -1824,7 +1824,7 @@
         "行動時10%バイシオン": ""
     },
     "609": {
-        "攻撃時5%でためる": ""
+        "攻撃時5%でためる": "On Attack Tension 5%"
     },
     "610": {
         "テンション時ダメ+300": "+300 Damage During Tension"
