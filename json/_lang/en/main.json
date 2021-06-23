@@ -4626,7 +4626,7 @@
         "<speed=0>リクエストを送って　相手がＯＫしたら|お互いのフレンドリストに　登録されます。|よろしいですか？<yesno><close>": ""
     },
     "1543": {
-        "<speed=0><%sL_PC_NICK>を　フレンドに　さそいました。|相手の　返事を待ちましょう。": ""
+        "<speed=0><%sL_PC_NICK>を　フレンドに　さそいました。|相手の　返事を待ちましょう。": "<speed=0>Sent a friend request to <%sL_PC_NICK>.|Please wait for their response."
     },
     "1544": {
         "clarity_nt_char_526": "clarity_nt_char_526"
