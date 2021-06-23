@@ -1908,7 +1908,7 @@
         "攻撃時25%でヘナトス": "On Attack Blunt 25%"
     },
     "637": {
-        "両手杖での攻撃時|吸収できる|ＭＰが増える": "More MP absorbed|when using a|Staff."
+        "両手杖での攻撃時|吸収できる|ＭＰが増える": "More MP absorbed|when attacking|with a Staff."
     },
     "638": {
         "ターン消費しない+5%": "Don't Consume Turn +5%"
@@ -2163,7 +2163,7 @@
         "clarity_nt_char_235": "clarity_nt_char_235"
     },
     "722": {
-        "短剣での攻撃時|たまにＭＰを|回復する": ""
+        "短剣での攻撃時|たまにＭＰを|回復する": "Rarely absorb MP|when attacking|with a dagger."
     },
     "723": {
         "眠りや混乱の敵に|威力を発揮する|追い打ちの技": ""
@@ -2259,7 +2259,7 @@
         "敵１体に|石をぶつけて|土ダメージ": ""
     },
     "754": {
-        "格闘での攻撃時|かいしん率が|２％増える": ""
+        "格闘での攻撃時|かいしん率が|２％増える": "Increases your|critical hit|rate by 2%."
     },
     "755": {
         "clarity_nt_char_246": "clarity_nt_char_246"
