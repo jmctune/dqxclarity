@@ -1803,7 +1803,7 @@
         "<speed=0>指定の条件で　同じマップのキャラを検索中です。|しばらく　お待ちください……。|（最大30秒ほどかかります。）<break>": ""
     },
     "602": {
-        "<speed=0>コマンドの配置を　初期状態に　戻しますか？|<yesno 2><close>": ""
+        "<speed=0>コマンドの配置を　初期状態に　戻しますか？|<yesno 2><close>": "<speed=0>Set command order back to the default?|<yesno 2><close>"
     },
     "603": {
         "<%sM_pc>は <%sM_item>を使った。": "<%sM_pc> used <%sM_item>."
