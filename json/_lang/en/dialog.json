@@ -396,7 +396,7 @@
         "<%sM_item><%sM_plusnum>を 手に入れた！": "You received <%sM_item> <%sM_plusnum>!"
     },
     "133": {
-        "<%dM_gold>ゴールドを 手に入れた！": "You received <%dM_gold> gold"
+        "<%dM_gold>ゴールドを 手に入れた！": "You received <%dM_gold> Gold!"
     },
     "134": {
         "clarity_nt_char_43": "clarity_nt_char_43"
@@ -414,7 +414,7 @@
         "<speed=0>本当に　<%sM_item>を捨てますか？<yesno>": "<speed=0>Really throw away <%sM_item>?<yesno>"
     },
     "139": {
-        "<speed=0><%sM_pc>は <%dM_gold>ゴールドを手に入れた！": "<speed=0><%sM_pc> received <%dM_gold> gold!"
+        "<speed=0><%sM_pc>は <%dM_gold>ゴールドを手に入れた！": "<speed=0><%sM_pc> received <%dM_gold> Gold!"
     },
     "140": {
         "clarity_nt_char_45": "clarity_nt_char_45"
