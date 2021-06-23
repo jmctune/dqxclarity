@@ -663,7 +663,7 @@
         "<%d_YYYY>年<%d_MM>月<%d_DD>日 まで": "Until <%d_MM>/<%d_DD>/<%d_YYYY>"
     },
     "222": {
-        "<%d_YYYY>年<%2d_MM>月<%2d_DD>日 まで": "Until <%d_MM>/<%2d_DD>/<%2d_YYYY>"
+        "<%d_YYYY>年<%2d_MM>月<%2d_DD>日 まで": "Until <%2d_MM>/<%2d_DD>/<%d_YYYY>"
     },
     "223": {
         "（キッズタイム中）": ""
