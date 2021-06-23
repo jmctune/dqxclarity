@@ -23955,7 +23955,7 @@
         "clarity_nt_char_2701": "clarity_nt_char_2701"
     },
     "7986": {
-        "<%2dM_close_m>月<%2dM_close_d>日まで": ""
+        "<%2dM_close_m>月<%2dM_close_d>日まで": "Until <%2dM_close_m>/<%2dM_close_d>"
     },
     "7987": {
         "clarity_nt_char_2702": "clarity_nt_char_2702"
@@ -30690,7 +30690,7 @@
         "clarity_nt_char_3448": "clarity_nt_char_3448"
     },
     "10231": {
-        "<ty%dM_TIME>年<tm%2dM_TIME>月<td%2dM_TIME>日まで": ""
+        "<ty%dM_TIME>年<tm%2dM_TIME>月<td%2dM_TIME>日まで": "Until <tm%2dM_TIME>/<td%2dM_TIME>/<ty%dM_TIME>"
     },
     "10232": {
         "受け取り期限なし": "Not Reached"
