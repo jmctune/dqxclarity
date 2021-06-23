@@ -23418,7 +23418,7 @@
         "clarity_nt_char_2637": "clarity_nt_char_2637"
     },
     "7807": {
-        "<%2dM_get_m>月<%2dM_get_d>日まで": ""
+        "<%2dM_get_m>月<%2dM_get_d>日まで": "Until <%2dM_get_m>/<%2dM_get_d>"
     },
     "7808": {
         "clarity_nt_char_2638": "clarity_nt_char_2638"
@@ -23949,7 +23949,7 @@
         "clarity_nt_char_2700": "clarity_nt_char_2700"
     },
     "7984": {
-        "<%2dM_exchange_m>月<%2dM_exchange_d>日まで": ""
+        "<%2dM_exchange_m>月<%2dM_exchange_d>日まで": "Until <%2dM_exchange_m>/<%2dM_exchange_d>"
     },
     "7985": {
         "clarity_nt_char_2701": "clarity_nt_char_2701"
