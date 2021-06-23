@@ -462,7 +462,7 @@
         "ログアウトします。|よろしいですか？<yesno><break>": "Are you sure you want to log out?<yesno><break>"
     },
     "155": {
-        "ご使用のアカウントには 追加パッケージ|「<%sAPPEND>」の|レジストレーションコードが 登録されていません。|　|このままプレイする場合は|一部のコンテンツを お楽しみいただけませんので|ご注意ください。|　|　|＜ボタンを押すと ゲームを続けます＞": ""
+        "ご使用のアカウントには 追加パッケージ|「<%sAPPEND>」の|レジストレーションコードが 登録されていません。|　|このままプレイする場合は|一部のコンテンツを お楽しみいただけませんので|ご注意ください。|　|　|＜ボタンを押すと ゲームを続けます＞": "Your account does not have the registration code for|the add-on package \"<%sAPPEND>\".| |If you do not have the registration code, you will not be able|to enjoy some of the content.| |Press any button to continue."
     },
     "156": {
         "追加パッケージ「<%sAPPEND>」|『プレイ登録証』に書かれた　20文字の|レジストレーションコードを入力してください。<break>": ""
