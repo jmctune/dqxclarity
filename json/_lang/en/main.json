@@ -9279,7 +9279,7 @@
         "clarity_nt_char_1071": "clarity_nt_char_1071"
     },
     "3094": {
-        "<speed=0><%sL_PC_NICK>を　フレンドに　さそいました。|ログアウト中の相手には　ログイン時に|フレンドのさそいが　届きます。": ""
+        "<speed=0><%sL_PC_NICK>を　フレンドに　さそいました。|ログアウト中の相手には　ログイン時に|フレンドのさそいが　届きます。": "<speed=0>Sent a friend request to <%sL_PC_NICK>.|If they're logged out, they'll see the|request when they log in."
     },
     "3095": {
         "clarity_nt_char_1072": "clarity_nt_char_1072"
