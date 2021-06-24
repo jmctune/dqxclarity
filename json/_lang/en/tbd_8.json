@@ -3,10 +3,10 @@
         "下層へ行きますか？<yesno><close>": "Do you want to go down?<yesno><close>"
     },
     "2": {
-        "上層へ行きますか？<yesno><close>": ""
+        "上層へ行きますか？<yesno><close>": "Do you want to go up?<yesno><close>"
     },
     "3": {
-        "トロッコに乗りますか？<yesno><close>": ""
+        "トロッコに乗りますか？<yesno><close>": "Ride the minecart?<yesno><close>"
     },
     "4": {
         "キラキラ大風車塔の最上層へ行く|エレベーターがある。|スイッチを押して　移動しますか？<yesno><close>": "Do you want to use the elevator|to go to the top level|of the Glitter Windmill Tower?<yesno><close>"
