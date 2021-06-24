@@ -7968,7 +7968,7 @@
         "仲間ひとりの|ＨＰを|１６４～回復する": "Restores 164 HP|to a single ally."
     },
     "2657": {
-        "死んでしまっても|確実に生き返る": "Chance to resurrect|if user dies."
+        "死んでしまっても|確実に生き返る": "Chance to revive|if user dies."
     },
     "2658": {
         "clarity_nt_char_874": "clarity_nt_char_874"
@@ -10008,7 +10008,7 @@
         "clarity_nt_char_1102": "clarity_nt_char_1102"
     },
     "3337": {
-        "ホイミン流回復術": ""
+        "ホイミン流回復術": "Healer"
     },
     "3338": {
         "clarity_nt_char_1103": "clarity_nt_char_1103"
@@ -10881,7 +10881,7 @@
         "ホイミン流格闘術Ⅱ": "Jiu Slipsu II"
     },
     "3628": {
-        "ホイミン流回復術Ⅱ": ""
+        "ホイミン流回復術Ⅱ": "Healer II"
     },
     "3629": {
         "ソードライダーⅡ": "Sword Knight II"
