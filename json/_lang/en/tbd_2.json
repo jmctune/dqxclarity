@@ -240,7 +240,7 @@
         "おもさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Weight +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "81": {
-        "不意をつく確率 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "不意をつく確率 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Surprise Enemy Rate +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "82": {
         "clarity_nt_char_25": "clarity_nt_char_25"
@@ -519,7 +519,7 @@
         "clarity_nt_char_60": "clarity_nt_char_60"
     },
     "174": {
-        "不意をつく確率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%(試合無効)": ""
+        "不意をつく確率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%(試合無効)": "Surprise Enemy Rate +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>% (No PvP)"
     },
     "175": {
         "clarity_nt_char_61": "clarity_nt_char_61"
@@ -954,7 +954,7 @@
         "たまに　攻撃時ＭＰ回復量アップ(試合無効)": "Recovered MP On Attack Up (No PvP)"
     },
     "319": {
-        "不意をつく確率アップ(試合無効)": ""
+        "不意をつく確率アップ(試合無効)": "Surprise Enemy Rate Up (No PvP)"
     },
     "320": {
         "clarity_nt_char_103": "clarity_nt_char_103"
@@ -4815,7 +4815,7 @@
         "clarity_nt_char_554": "clarity_nt_char_554"
     },
     "1606": {
-        "不意をつく確率 <%sB_renkin1>(<%+dB_renkindiff>)%": ""
+        "不意をつく確率 <%sB_renkin1>(<%+dB_renkindiff>)%": "Surprise Enemy Rate <%sB_renkin1> (<%+dB_renkindiff>)%"
     },
     "1607": {
         "身かわし率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": "Dodge Rate <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
@@ -5067,7 +5067,7 @@
         "clarity_nt_char_579": "clarity_nt_char_579"
     },
     "1690": {
-        "不意をつく確率 <%+dB_renkin>（<%+dB_renkindiff>）%": ""
+        "不意をつく確率 <%+dB_renkin>（<%+dB_renkindiff>）%": "Surprise Enemy Rate <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1691": {
         "身かわし率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Dodge Rate <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
