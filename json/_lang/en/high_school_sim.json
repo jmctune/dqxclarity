@@ -1536,16 +1536,16 @@
         "はげしいほのお": "Inferno"
     },
     "513": {
-        "ブレス系効果+10%": ""
+        "ブレス系効果+10%": "Breath Effects+10%"
     },
     "514": {
         "clarity_nt_char_169": "clarity_nt_char_169"
     },
     "515": {
-        "しゃくねつのほのお": ""
+        "しゃくねつのほのお": "Scorch"
     },
     "516": {
-        "ブレス系効果+20%": ""
+        "ブレス系効果+20%": "Breath Effects+20%"
     },
     "517": {
         "clarity_nt_char_170": "clarity_nt_char_170"
@@ -1560,7 +1560,7 @@
         "clarity_nt_char_171": "clarity_nt_char_171"
     },
     "521": {
-        "ブレス系効果+50%": ""
+        "ブレス系効果+50%": "Breath Effects+50%"
     },
     "522": {
         "clarity_nt_char_172": "clarity_nt_char_172"
@@ -4941,7 +4941,7 @@
         "clarity_nt_char_540": "clarity_nt_char_540"
     },
     "1648": {
-        "しゃくねつのほのおの特技を　おぼえた！": ""
+        "しゃくねつのほのおの特技を　おぼえた！": "You learned Scorch!"
     },
     "1649": {
         "ブレス系特技の威力が　あがった！": ""
