@@ -468,7 +468,7 @@
         "おびえガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Fear Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "157": {
-        "転びガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "転びガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Fall Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "158": {
         "clarity_nt_char_57": "clarity_nt_char_57"
@@ -1029,7 +1029,7 @@
         "clarity_nt_char_112": "clarity_nt_char_112"
     },
     "344": {
-        "転びガード +100%": "Trip Guard+100%"
+        "転びガード +100%": "Fall Guard+100%"
     },
     "345": {
         "しばりガード +100%": ""
@@ -1836,7 +1836,7 @@
         "おびえガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Fear Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "613": {
-        "転びガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "転びガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Fall Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "614": {
         "clarity_nt_char_207": "clarity_nt_char_207"
@@ -5010,7 +5010,7 @@
         "clarity_nt_char_575": "clarity_nt_char_575"
     },
     "1671": {
-        "転びガード <%sB_renkin1>(<%+dB_renkindiff>)%": ""
+        "転びガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Fall Guard <%sB_renkin1> (<%+dB_renkindiff>)%"
     },
     "1672": {
         "しばりガード <%sB_renkin1>(<%+dB_renkindiff>)%": ""
@@ -5241,7 +5241,7 @@
         "clarity_nt_char_595": "clarity_nt_char_595"
     },
     "1748": {
-        "転びガード <%+dB_renkin>（<%+dB_renkindiff>）%": ""
+        "転びガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Fall Guard <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1749": {
         "しばりガード <%+dB_renkin>（<%+dB_renkindiff>）%": ""
@@ -5508,7 +5508,7 @@
         "clarity_nt_char_617": "clarity_nt_char_617"
     },
     "1837": {
-        "不意をつく確率 +？%": ""
+        "不意をつく確率 +？%": "Surprise Enemy Rate +?%"
     },
     "1838": {
         "身かわし率 +？%": "Dodge Rate +?%"
