@@ -546,7 +546,7 @@
         "clarity_nt_char_62": "clarity_nt_char_62"
     },
     "183": {
-        "戦闘勝利時に ＨＰが13～21回復": ""
+        "戦闘勝利時に ＨＰが13～21回復": "Recover 13-21 HP After Battle"
     },
     "184": {
         "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で呪い": "Curse Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -1143,7 +1143,7 @@
         "Ｌｖ89以下で装備時　パーティの経験値3倍": "Party EXP x3 at Level 89 or below"
     },
     "382": {
-        "戦闘勝利時に ＭＰが<%sB_renkin1>回復": ""
+        "戦闘勝利時に ＭＰが<%sB_renkin1>回復": "Recover <%sB_renkin1> MP After Battle"
     },
     "383": {
         "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でバイキルト": "Battle Start Oomphle <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -1248,7 +1248,7 @@
         "呪文威力アップの時間が<%sB_renkin1>秒増加": ""
     },
     "417": {
-        "戦闘勝利時に ＨＰが<%sB_renkin1>回復": ""
+        "戦闘勝利時に ＨＰが<%sB_renkin1>回復": "Recover <%sB_renkin1> HP After Battle"
     },
     "418": {
         "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でピオラ2段階": "Battle Start Accel 2 Stages <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -1857,13 +1857,13 @@
         "clarity_nt_char_209": "clarity_nt_char_209"
     },
     "620": {
-        "戦闘勝利時ＭＰ回復に +1": ""
+        "戦闘勝利時ＭＰ回復に +1": "Recovered MP After Battle +1"
     },
     "621": {
-        "戦闘勝利時に ＨＰが10～20回復": ""
+        "戦闘勝利時に ＨＰが10～20回復": "Recover 10-20 HP After Battle"
     },
     "622": {
-        "戦闘勝利時ＨＰ回復に +2": ""
+        "戦闘勝利時ＨＰ回復に +2": "Recovered HP After Battle +2"
     },
     "623": {
         "各弱体系耐性 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
@@ -2475,7 +2475,7 @@
         "clarity_nt_char_284": "clarity_nt_char_284"
     },
     "826": {
-        "戦闘勝利時に ＭＰ2～3回復": ""
+        "戦闘勝利時に ＭＰ2～3回復": "Recover 2-3 MP After Battle"
     },
     "827": {
         "clarity_nt_char_285": "clarity_nt_char_285"
@@ -5679,7 +5679,7 @@
         "踊らされガード +？%": "Dance Guard +?%"
     },
     "1894": {
-        "戦闘勝利時ＭＰ回復に +？": "MP After Battle +?"
+        "戦闘勝利時ＭＰ回復に +？": "MP Recovered After Battle +?"
     },
     "1895": {
         "戦闘勝利時に ＭＰが？回復": "Recover ? MP After Battle"
