@@ -1311,7 +1311,7 @@
         "瀕死時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で身かわし率+30%": ""
     },
     "438": {
-        "コマンド間隔 -0.5秒": ""
+        "コマンド間隔 -0.5秒": "Command Interval -0.5s"
     },
     "439": {
         "clarity_nt_char_141": "clarity_nt_char_141"
@@ -1389,7 +1389,7 @@
         "clarity_nt_char_150": "clarity_nt_char_150"
     },
     "464": {
-        "右手に片手剣装備時　コマンド間隔 -<%sB_renkin1>秒": ""
+        "右手に片手剣装備時　コマンド間隔 -<%sB_renkin1>秒": "R-Hand 1H Sword Command Interval -<%sB_renkin1>s"
     },
     "465": {
         "clarity_nt_char_151": "clarity_nt_char_151"
