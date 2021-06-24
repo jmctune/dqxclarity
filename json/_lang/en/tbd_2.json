@@ -441,7 +441,7 @@
         "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でルカニ": "Sap Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "148": {
-        "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でリホ系解除": "Re-type Cancel Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でリホ系解除": "Re-type Dispel Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "149": {
         "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でマホ系解除": "Magic-type Cancel Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -1827,7 +1827,7 @@
         "攻撃時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でルカニ": "Sap Attack <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "610": {
-        "攻撃時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でリホ系解除": ""
+        "攻撃時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でリホ系解除": "Re-type Dispel Attack <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "611": {
         "攻撃時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でマホ系解除": ""
@@ -4977,7 +4977,7 @@
         "攻撃時 <%sB_renkin1>(<%+dB_renkindiff>)%でルカニ": ""
     },
     "1660": {
-        "攻撃時 <%sB_renkin1>(<%+dB_renkindiff>)%でリホ系解除": ""
+        "攻撃時 <%sB_renkin1>(<%+dB_renkindiff>)%でリホ系解除": "Re-type Dispel Attack <%sB_renkin1> (<%+dB_renkindiff>)%"
     },
     "1661": {
         "攻撃時 <%sB_renkin1>(<%+dB_renkindiff>)%でマホ系解除": ""
@@ -5235,7 +5235,7 @@
         "呪文ぼうそう率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
     },
     "1746": {
-        "おびえガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Fear Guard <%+dB_renkin>（<%+dB_renkindiff>）%"
+        "おびえガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Fear Guard <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1747": {
         "clarity_nt_char_595": "clarity_nt_char_595"
