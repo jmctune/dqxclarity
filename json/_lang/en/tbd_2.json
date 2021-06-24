@@ -4800,7 +4800,7 @@
         "こうげき魔力 <%sB_renkin1>(<%+dB_renkindiff>)": "Magical Might <%sB_renkin1>(<%+dB_renkindiff>)"
     },
     "1601": {
-        "かいふく魔力 <%sB_renkin1>(<%+dB_renkindiff>)": ""
+        "かいふく魔力 <%sB_renkin1>(<%+dB_renkindiff>)": "Magical Mending <%sB_renkin1>(<%+dB_renkindiff>)"
     },
     "1602": {
         "さいだいＨＰ <%sB_renkin1>(<%+dB_renkindiff>)": "Max HP <%sB_renkin1> (<%+dB_renkindiff>)"
@@ -5052,7 +5052,7 @@
         "こうげき魔力 <%+dB_renkin>（<%+dB_renkindiff>）": "Magical Might <%+dB_renkin> (<%+dB_renkindiff>)"
     },
     "1685": {
-        "かいふく魔力 <%+dB_renkin>（<%+dB_renkindiff>）": ""
+        "かいふく魔力 <%+dB_renkin>（<%+dB_renkindiff>）": "Magical Mending <%+dB_renkin> (<%+dB_renkindiff>)"
     },
     "1686": {
         "さいだいＨＰ <%+dB_renkin>（<%+dB_renkindiff>）": "Max HP <%+dB_renkin> (<%+dB_renkindiff>)"
@@ -5493,7 +5493,7 @@
         "こうげき魔力 +？": "Magical Might +?"
     },
     "1832": {
-        "かいふく魔力 +？": ""
+        "かいふく魔力 +？": "Magical Mending +?"
     },
     "1833": {
         "さいだいＨＰ +？": "Max HP +?"
@@ -6732,13 +6732,13 @@
         "こうげき魔力としゅび力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Mag. Might & Defense +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "2245": {
-        "かいふく魔力とすばやさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "M. Mending & Agility +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
+        "かいふく魔力とすばやさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Mag. Mending & Agility +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "2246": {
-        "かいふく魔力ときようさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
+        "かいふく魔力ときようさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Mag. Mending & Deftness +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "2247": {
-        "かいふく魔力としゅび力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
+        "かいふく魔力としゅび力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Mag. Mending & Defense +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "2248": {
         "おもさとすばやさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Weight & Agility +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
