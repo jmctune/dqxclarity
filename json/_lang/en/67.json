@@ -579,13 +579,13 @@
         "ヴァレリア": "Valeria"
     },
     "194": {
-        "全て": ""
+        "全て": "All"
     },
     "195": {
         "clarity_nt_char_80": "clarity_nt_char_80"
     },
     "196": {
-        "巫女": ""
+        "巫女": "Maiden"
     },
     "197": {
         "clarity_nt_char_81": "clarity_nt_char_81"
@@ -597,31 +597,31 @@
         "clarity_nt_char_82": "clarity_nt_char_82"
     },
     "200": {
-        "魔族": ""
+        "魔族": "Demon"
     },
     "201": {
         "clarity_nt_char_83": "clarity_nt_char_83"
     },
     "202": {
-        "竜族": ""
+        "竜族": "Dragon"
     },
     "203": {
         "clarity_nt_char_84": "clarity_nt_char_84"
     },
     "204": {
-        "ねじ": ""
+        "ねじ": "Screw"
     },
     "205": {
         "clarity_nt_char_85": "clarity_nt_char_85"
     },
     "206": {
-        "歯車": ""
+        "歯車": "Gear"
     },
     "207": {
         "clarity_nt_char_86": "clarity_nt_char_86"
     },
     "208": {
-        "電池": ""
+        "電池": "Cell"
     },
     "209": {
         "clarity_nt_char_87": "clarity_nt_char_87"
@@ -630,6 +630,6 @@
         "魔剣士": "DMN"
     },
     "211": {
-        "救護": ""
+        "救護": "Relief"
     }
 }
