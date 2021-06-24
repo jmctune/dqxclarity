@@ -21,16 +21,16 @@
         "　　 キャラクター未作成": "Character Not Created"
     },
     "8": {
-        "<%sPCNAME>は　現在の環境からでは行けない|場所で中断しているため　再開できませんでした。|元の環境から　冒険の続きをしてください。<end>": ""
+        "<%sPCNAME>は　現在の環境からでは行けない|場所で中断しているため　再開できませんでした。|元の環境から　冒険の続きをしてください。<end>": "<%sPCNAME> cannot be played because they|are located in an inaccessible area using|this platform. Please log in on your original platform."
     },
     "9": {
-        "Lv": ""
+        "Lv": "Lv"
     },
     "10": {
-        "<%nLV>": ""
+        "<%nLV>": "<%nLV>"
     },
     "11": {
-        "<%sPC>": ""
+        "<%sPC>": "<%sPC>"
     },
     "12": {
         "<%n_YYYY>年<%n_MM>月<%n_DD>日まで": "Until <%n_MM>/<%n_DD>/<%n_YYYY>"
