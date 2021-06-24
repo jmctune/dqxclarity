@@ -453,7 +453,7 @@
         "clarity_nt_char_55": "clarity_nt_char_55"
     },
     "152": {
-        "移動速度 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "移動速度 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Move Speed +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "153": {
         "武器ガード率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
@@ -5070,7 +5070,7 @@
         "不意をつく確率 <%+dB_renkin>（<%+dB_renkindiff>）%": ""
     },
     "1691": {
-        "身かわし率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "身かわし率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Dodge Rate <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1692": {
         "盾ガード率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
@@ -5511,7 +5511,7 @@
         "不意をつく確率 +？%": ""
     },
     "1838": {
-        "身かわし率 +？%": ""
+        "身かわし率 +？%": "Dodge Rate +?%"
     },
     "1839": {
         "盾ガード率 +？%": ""
@@ -6669,7 +6669,7 @@
         "clarity_nt_char_732": "clarity_nt_char_732"
     },
     "2224": {
-        "瀕死時 ？%で身かわし率+30%": ""
+        "瀕死時 ？%で身かわし率+30%": "On Death Dodge Rate +30% ?%"
     },
     "2225": {
         "clarity_nt_char_733": "clarity_nt_char_733"
