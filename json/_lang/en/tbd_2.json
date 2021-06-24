@@ -210,7 +210,7 @@
         "clarity_nt_char_20": "clarity_nt_char_20"
     },
     "71": {
-        "おしゃれさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
+        "おしゃれさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Style +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "72": {
         "こうげき魔力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Magical Might +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
@@ -4791,7 +4791,7 @@
         "すばやさ <%sB_renkin1>(<%+dB_renkindiff>)": "Agility <%sB_renkin1> (<%+dB_renkindiff>)"
     },
     "1598": {
-        "おしゃれさ <%sB_renkin1>(<%+dB_renkindiff>)": ""
+        "おしゃれさ <%sB_renkin1>(<%+dB_renkindiff>)": "Style <%sB_renkin1> (<%+dB_renkindiff>)"
     },
     "1599": {
         "clarity_nt_char_553": "clarity_nt_char_553"
@@ -5043,7 +5043,7 @@
         "すばやさ <%+dB_renkin>（<%+dB_renkindiff>）": "Agility <%+dB_renkin> (<%+dB_renkindiff>)"
     },
     "1682": {
-        "おしゃれさ <%+dB_renkin>（<%+dB_renkindiff>）": ""
+        "おしゃれさ <%+dB_renkin>（<%+dB_renkindiff>）": "Style <%+dB_renkin> (<%+dB_renkindiff>)"
     },
     "1683": {
         "clarity_nt_char_578": "clarity_nt_char_578"
@@ -5484,7 +5484,7 @@
         "すばやさ +？": "Agility +?"
     },
     "1829": {
-        "おしゃれさ +？": ""
+        "おしゃれさ +？": "Style +?"
     },
     "1830": {
         "clarity_nt_char_616": "clarity_nt_char_616"
@@ -6759,19 +6759,19 @@
         "clarity_nt_char_743": "clarity_nt_char_743"
     },
     "2254": {
-        "おしゃれさとすばやさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Charm & Agility +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
+        "おしゃれさとすばやさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Style & Agility +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "2255": {
         "clarity_nt_char_744": "clarity_nt_char_744"
     },
     "2256": {
-        "おしゃれさときようさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Charm & Deftness +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
+        "おしゃれさときようさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Style & Deftness +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "2257": {
         "clarity_nt_char_745": "clarity_nt_char_745"
     },
     "2258": {
-        "おしゃれさとしゅび力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
+        "おしゃれさとしゅび力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Style & Defense +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "2259": {
         "clarity_nt_char_746": "clarity_nt_char_746"
