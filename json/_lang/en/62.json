@@ -30,7 +30,7 @@
         "clarity_nt_char_4": "clarity_nt_char_4"
     },
     "11": {
-        "ドロップ率変化(宝珠": ""
+        "ドロップ率変化(宝珠": "Drop Rate Change (Jewel"
     },
     "12": {
         "clarity_nt_char_5": "clarity_nt_char_5"
@@ -48,7 +48,7 @@
         "clarity_nt_char_7": "clarity_nt_char_7"
     },
     "17": {
-        "敵を倒すとMP回復（回復量）": ""
+        "敵を倒すとMP回復（回復量）": "MP Recovery On Enemy Kill (Amount)"
     },
     "18": {
         "clarity_nt_char_8": "clarity_nt_char_8"
@@ -78,13 +78,13 @@
         "おしゃれさ": "Style"
     },
     "27": {
-        "HP吸収割合（ダメージ用）": ""
+        "HP吸収割合（ダメージ用）": "HP Absorb Rate (From Damage)"
     },
     "28": {
         "おもさ": "Weight"
     },
     "29": {
-        "移動速度": ""
+        "移動速度": "Move Speed"
     },
     "30": {
         "clarity_nt_char_12": "clarity_nt_char_12"
