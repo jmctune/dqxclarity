@@ -4914,7 +4914,7 @@
         "clarity_nt_char_562": "clarity_nt_char_562"
     },
     "1639": {
-        "ＭＰ吸収ガード <%sB_renkin1>(<%+dB_renkindiff>)%": ""
+        "ＭＰ吸収ガード <%sB_renkin1>(<%+dB_renkindiff>)%": "MP Absorb Guard <%sB_renkin1>(<%+dB_renkindiff>)%"
     },
     "1640": {
         "ＭＰ消費しない率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": ""
@@ -5160,7 +5160,7 @@
         "clarity_nt_char_587": "clarity_nt_char_587"
     },
     "1721": {
-        "ＭＰ吸収ガード <%+dB_renkin>（<%+dB_renkindiff>）%": ""
+        "ＭＰ吸収ガード <%+dB_renkin>（<%+dB_renkindiff>）%": "MP Absorb Guard <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1722": {
         "ＭＰ消費しない率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
