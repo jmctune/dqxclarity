@@ -246,7 +246,7 @@
         "clarity_nt_char_25": "clarity_nt_char_25"
     },
     "83": {
-        "身かわし率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "身かわし率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Dodge Rate +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "84": {
         "clarity_nt_char_26": "clarity_nt_char_26"
@@ -1308,7 +1308,7 @@
         "clarity_nt_char_140": "clarity_nt_char_140"
     },
     "437": {
-        "瀕死時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で身かわし率+30%": ""
+        "瀕死時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で身かわし率+30%": "On Death Dodge Rate +30% <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "438": {
         "コマンド間隔 -0.5秒": "Command Interval -0.5s"
@@ -3051,7 +3051,7 @@
         "呪文威力アップの時間が <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>秒増加": ""
     },
     "1018": {
-        "瀕死時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で身かわし率+30%": ""
+        "瀕死時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で身かわし率+30%": "On Death Dodge Rate +30% <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "1019": {
         "開戦時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で魔力かくせい": "Battle Start Channel Anger <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
@@ -4818,7 +4818,7 @@
         "不意をつく確率 <%sB_renkin1>(<%+dB_renkindiff>)%": ""
     },
     "1607": {
-        "身かわし率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": ""
+        "身かわし率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": "Dodge Rate <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1608": {
         "盾ガード率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": ""
