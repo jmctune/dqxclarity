@@ -4152,13 +4152,13 @@
         "ツメ装備時の|こうげき力が|３０増える": "Attack +30|when Claws|equipped."
     },
     "1385": {
-        "攻撃時たまに|相手が攻撃呪文に|弱くなる": ""
+        "攻撃時たまに|相手が攻撃呪文に|弱くなる": "Rarely lowers|spell resistance|on an attack."
     },
     "1386": {
         "clarity_nt_char_464": "clarity_nt_char_464"
     },
     "1387": {
-        "攻撃時たまに|相手のしゅび力を|下げる": ""
+        "攻撃時たまに|相手のしゅび力を|下げる": "Rarely lowers|defense on|an attack."
     },
     "1388": {
         "敵１体を切り裂き|与えるダメージも|増加させる": ""
