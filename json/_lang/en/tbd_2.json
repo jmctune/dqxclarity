@@ -213,7 +213,7 @@
         "おしゃれさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
     },
     "72": {
-        "こうげき魔力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
+        "こうげき魔力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Mag. Might +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "73": {
         "clarity_nt_char_21": "clarity_nt_char_21"
@@ -1158,7 +1158,7 @@
         "転生モンスター出現率 1.1倍(試合無効)": ""
     },
     "387": {
-        "ごくまれに　魔物がエンゼルハーツを落とす": ""
+        "ごくまれに　魔物がエンゼルハーツを落とす": "Monsters will drop Angel Hearts very rarely"
     },
     "388": {
         "clarity_nt_char_126": "clarity_nt_char_126"
@@ -2268,7 +2268,7 @@
         "絆時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で主人に２回スカラ": ""
     },
     "757": {
-        "こうげき魔力とかいふく魔力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "M. Might/Mending +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
+        "こうげき魔力とかいふく魔力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Mag. Might/Mending +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "758": {
         "会心率と呪文暴走率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
