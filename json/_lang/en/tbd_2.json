@@ -1239,7 +1239,7 @@
         "clarity_nt_char_133": "clarity_nt_char_133"
     },
     "414": {
-        "攻撃力アップの時間が<%sB_renkin1>秒増加": ""
+        "攻撃力アップの時間が<%sB_renkin1>秒増加": "Attack Power Up Effect Time +<%sB_renkin1>s"
     },
     "415": {
         "clarity_nt_char_134": "clarity_nt_char_134"
@@ -6057,7 +6057,7 @@
         "clarity_nt_char_668": "clarity_nt_char_668"
     },
     "2020": {
-        "攻撃力アップの時間が？秒増加": ""
+        "攻撃力アップの時間が？秒増加": "Attack Power Up Effect Time +?s"
     },
     "2021": {
         "clarity_nt_char_669": "clarity_nt_char_669"
