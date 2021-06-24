@@ -15,7 +15,7 @@
         "ログイン画面に　戻りますか？<yesno 2><break>": "Return to the login screen?<yesno 2><break>"
     },
     "6": {
-        "（現在のコースでは使えません）": ""
+        "（現在のコースでは使えません）": "(Cannot be used in current course)"
     },
     "7": {
         "　　 キャラクター未作成": "Character Not Created"
