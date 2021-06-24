@@ -564,7 +564,7 @@
         "clarity_nt_char_64": "clarity_nt_char_64"
     },
     "189": {
-        "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で急所を突く": ""
+        "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で急所を突く": "Weak Spot Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "190": {
         "盾ガード時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で眠り": ""
@@ -663,7 +663,7 @@
         "clarity_nt_char_70": "clarity_nt_char_70"
     },
     "222": {
-        "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で経験値アップ": ""
+        "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で経験値アップ": "EXP Up Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "223": {
         "clarity_nt_char_71": "clarity_nt_char_71"
@@ -735,13 +735,13 @@
         "水系に ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
     },
     "246": {
-        "ドラゴン系を攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で魅了": ""
+        "ドラゴン系を攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で魅了": "Dragon Charm Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "247": {
         "clarity_nt_char_80": "clarity_nt_char_80"
     },
     "248": {
-        "虫系を攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で魅了": ""
+        "虫系を攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で魅了": "Insect Charm Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "249": {
         "獣系を攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で魅了": ""
