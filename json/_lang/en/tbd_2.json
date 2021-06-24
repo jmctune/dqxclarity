@@ -264,7 +264,7 @@
         "clarity_nt_char_28": "clarity_nt_char_28"
     },
     "89": {
-        "呪文発動速度 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "呪文発動速度 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Spell Cast Speed +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "90": {
         "ＭＰ吸収率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
@@ -1416,7 +1416,7 @@
         "clarity_nt_char_153": "clarity_nt_char_153"
     },
     "473": {
-        "ヤリ装備時　呪文発動速度 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "ヤリ装備時　呪文発動速度 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Spear Spell Cast Speed +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "474": {
         "両手杖装備時　呪文ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
@@ -1668,7 +1668,7 @@
         "銀河の加護 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
     },
     "557": {
-        "呪文発動速度 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "呪文発動速度 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Spell Cast Speed +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "558": {
         "ブレス系ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": "Breath Damage Reduction <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
@@ -4827,7 +4827,7 @@
         "かいしん率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": "Critical Rate <%+.1fB_renkin>(<%+.1fB_renkindiff>)%"
     },
     "1610": {
-        "呪文発動速度 <%sB_renkin1>(<%+dB_renkindiff>)%": ""
+        "呪文発動速度 <%sB_renkin1>(<%+dB_renkindiff>)%": "Spell Cast Speed <%sB_renkin1> (<%+dB_renkindiff>)%"
     },
     "1611": {
         "clarity_nt_char_555": "clarity_nt_char_555"
@@ -5079,7 +5079,7 @@
         "かいしん率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Critical Rate <%+.1fB_renkin>（<%+.1fB_renkindiff>）%"
     },
     "1694": {
-        "呪文発動速度 <%+dB_renkin>（<%+dB_renkindiff>）%": ""
+        "呪文発動速度 <%+dB_renkin>（<%+dB_renkindiff>）%": "Spell Cast Speed <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1695": {
         "clarity_nt_char_580": "clarity_nt_char_580"
@@ -5520,7 +5520,7 @@
         "かいしん率 +？%": "Critical Rate+?%"
     },
     "1841": {
-        "呪文発動速度 +？%": ""
+        "呪文発動速度 +？%": "Spell Cast Speed +?%"
     },
     "1842": {
         "clarity_nt_char_618": "clarity_nt_char_618"
