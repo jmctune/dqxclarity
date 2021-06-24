@@ -90,25 +90,25 @@
         "clarity_nt_char_12": "clarity_nt_char_12"
     },
     "31": {
-        "蘇生時HP回復量変化": ""
+        "蘇生時HP回復量変化": "Revive HP Recover Change"
     },
     "32": {
         "clarity_nt_char_13": "clarity_nt_char_13"
     },
     "33": {
-        "HP": ""
+        "HP": "HP"
     },
     "34": {
         "clarity_nt_char_14": "clarity_nt_char_14"
     },
     "35": {
-        "MP": ""
+        "MP": "MP"
     },
     "36": {
         "clarity_nt_char_15": "clarity_nt_char_15"
     },
     "37": {
-        "与ダメージ値％変更": ""
+        "与ダメージ値％変更": "Taken Damage Change %"
     },
     "38": {
         "与ダメージ固定値変更": ""
