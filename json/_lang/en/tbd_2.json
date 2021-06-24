@@ -483,7 +483,7 @@
         "clarity_nt_char_58": "clarity_nt_char_58"
     },
     "162": {
-        "踊らされガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "踊らされガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Dance Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "163": {
         "clarity_nt_char_59": "clarity_nt_char_59"
@@ -1851,7 +1851,7 @@
         "clarity_nt_char_208": "clarity_nt_char_208"
     },
     "618": {
-        "踊らされガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "踊らされガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Dance Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "619": {
         "clarity_nt_char_209": "clarity_nt_char_209"
@@ -2424,7 +2424,7 @@
         "会心率と呪文暴走率 +1.0%": ""
     },
     "809": {
-        "踊らされガード +100%": ""
+        "踊らされガード +100%": "Dance Guard +100%"
     },
     "810": {
         "チャージタイム <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>秒": ""
@@ -5022,7 +5022,7 @@
         "笑いガード <%sB_renkin1>(<%+dB_renkindiff>)%": ""
     },
     "1675": {
-        "踊らされガード <%sB_renkin1>(<%+dB_renkindiff>)%": ""
+        "踊らされガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Dance Guard <%sB_renkin1> (<%+dB_renkindiff>)%"
     },
     "1676": {
         "レアドロップ率 <%sB_renkin1>.<%sB_renkin2>(<%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2>)倍": ""
@@ -5253,7 +5253,7 @@
         "笑いガード <%+dB_renkin>（<%+dB_renkindiff>）%": ""
     },
     "1752": {
-        "踊らされガード <%+dB_renkin>（<%+dB_renkindiff>）%": ""
+        "踊らされガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Dance Guard <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1753": {
         "レアドロップ率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）倍": ""
