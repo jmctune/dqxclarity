@@ -24,13 +24,13 @@
         "clarity_nt_char_2": "clarity_nt_char_2"
     },
     "9": {
-        "<pc>は　とうぞくのカギを使った。|カギが　合わない！": ""
+        "<pc>は　とうぞくのカギを使った。|カギが　合わない！": "<pc> used the Thief's Key.|But the key doesn't fit!"
     },
     "10": {
         "clarity_nt_char_3": "clarity_nt_char_3"
     },
     "11": {
-        "この扉を開くには　特別なカギが|必要なようだ。": ""
+        "この扉を開くには　特別なカギが|必要なようだ。": "It seems like you'll need a special|key to open this door."
     },
     "12": {
         "ブレイブストーンを使って　空間を移動しますか？<yesno><close>": ""
