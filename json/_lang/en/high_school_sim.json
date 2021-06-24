@@ -1092,7 +1092,7 @@
         "タマげたニャー": ""
     },
     "365": {
-        "常時ちから+25": ""
+        "常時ちから+25": "Nat Strength+25"
     },
     "366": {
         "clarity_nt_char_125": "clarity_nt_char_125"
@@ -1308,7 +1308,7 @@
         "超はやぶさ斬り": "Gyrfalcon Slash"
     },
     "437": {
-        "常時ちから+15": ""
+        "常時ちから+15": "Nat Strength+15"
     },
     "438": {
         "clarity_nt_char_146": "clarity_nt_char_146"
@@ -1527,7 +1527,7 @@
         "clarity_nt_char_167": "clarity_nt_char_167"
     },
     "510": {
-        "常時ちから+20": ""
+        "常時ちから+20": "Nat Strength+20"
     },
     "511": {
         "clarity_nt_char_168": "clarity_nt_char_168"
@@ -1554,7 +1554,7 @@
         "炎属性特技威力+20%": ""
     },
     "519": {
-        "常時ちから+50": ""
+        "常時ちから+50": "Nat Strength+50"
     },
     "520": {
         "clarity_nt_char_171": "clarity_nt_char_171"
@@ -2802,7 +2802,7 @@
         "clarity_nt_char_307": "clarity_nt_char_307"
     },
     "935": {
-        "常時ちから+5": ""
+        "常時ちから+5": "Nat Strength+5"
     },
     "936": {
         "開戦時10%バイシオン": ""
@@ -7935,7 +7935,7 @@
         "clarity_nt_char_869": "clarity_nt_char_869"
     },
     "2646": {
-        "敵１体に|しっぷうどとうの|４回攻撃": ""
+        "敵１体に|しっぷうどとうの|４回攻撃": "Attack an|enemy with|4 fist attacks."
     },
     "2647": {
         "clarity_nt_char_870": "clarity_nt_char_870"
