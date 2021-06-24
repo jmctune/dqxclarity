@@ -5088,7 +5088,7 @@
         "ＭＰ吸収率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
     },
     "1697": {
-        "ブレス系ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": ""
+        "ブレス系ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": "Breath Damage Reduction <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1698": {
         "攻撃呪文ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": "Spell Damage <%+dB_renkin>（<%+dB_renkindiff>) -%"
@@ -5529,7 +5529,7 @@
         "ＭＰ吸収率 +？%": ""
     },
     "1844": {
-        "ブレス系ダメージ ？%減": ""
+        "ブレス系ダメージ ？%減": "Breath Damage Reduction ?%"
     },
     "1845": {
         "clarity_nt_char_619": "clarity_nt_char_619"
@@ -6906,7 +6906,7 @@
         "clarity_nt_char_756": "clarity_nt_char_756"
     },
     "2303": {
-        "受けた呪文を<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%の確率で反射(試合無効)": ""
+        "受けた呪文を<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%の確率で反射(試合無効)": "Spell Reflection Rate <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>% (No PvP)"
     },
     "2304": {
         "トラシュカで　常に移動速度が少しアップ": ""
