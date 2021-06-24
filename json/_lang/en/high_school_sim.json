@@ -1176,7 +1176,7 @@
         "clarity_nt_char_133": "clarity_nt_char_133"
     },
     "393": {
-        "スピンアタック": "Spin to Win"
+        "スピンアタック": "Spin Attack"
     },
     "394": {
         "常時身かわし率+10%": "Natural dodge chance +10%"
@@ -1194,7 +1194,7 @@
         "常時さいだいＨＰ+50": "Natural HP+50"
     },
     "399": {
-        "ミラクルスピン": ""
+        "ミラクルスピン": "Miracle Spin"
     },
     "400": {
         "ばくれつけん+30%": ""
@@ -1203,7 +1203,7 @@
         "clarity_nt_char_135": "clarity_nt_char_135"
     },
     "402": {
-        "ミラクルスピン+15": ""
+        "ミラクルスピン+15": "Miracle Spin+15"
     },
     "403": {
         "clarity_nt_char_136": "clarity_nt_char_136"
@@ -4557,7 +4557,7 @@
         "clarity_nt_char_497": "clarity_nt_char_497"
     },
     "1520": {
-        "スピンアタックの特技を　おぼえた！": "You learned Spin to Win!"
+        "スピンアタックの特技を　おぼえた！": "You learned Spin Attack!"
     },
     "1521": {
         "すばやさが　６０　増えた！": ""
@@ -4572,7 +4572,7 @@
         "さいだいＨＰが　５０　増えた！": ""
     },
     "1525": {
-        "ミラクルスピンの特技を　おぼえた！": ""
+        "ミラクルスピンの特技を　おぼえた！": "You learned Miracle Spin!"
     },
     "1526": {
         "ばくれつけんの威力が　あがった！": ""
@@ -4581,7 +4581,7 @@
         "clarity_nt_char_499": "clarity_nt_char_499"
     },
     "1528": {
-        "ミラクルスピンの威力が　あがった！": ""
+        "ミラクルスピンの威力が　あがった！": "Miracle Spin power increased!"
     },
     "1529": {
         "ホイミの呪文を　おぼえた！": "You learned Heal!"
