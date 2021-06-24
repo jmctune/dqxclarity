@@ -528,19 +528,19 @@
         "ＭＰ吸収率 +<%sB_renkin1>.<%sB_renkin2>%<%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_percent><%sB_kokka>": ""
     },
     "177": {
-        "戦闘勝利時に ＭＰが1～3回復": ""
+        "戦闘勝利時に ＭＰが1～3回復": "Recover 1-3 MP After Battle"
     },
     "178": {
-        "戦闘勝利時に ＭＰが3～5回復": ""
+        "戦闘勝利時に ＭＰが3～5回復": "Recover 3-5 MP After Battle"
     },
     "179": {
-        "戦闘勝利時に ＭＰが5～9回復": ""
+        "戦闘勝利時に ＭＰが5～9回復": "Recover 5-9 MP After Battle"
     },
     "180": {
-        "戦闘勝利時に ＨＰが3～7回復": ""
+        "戦闘勝利時に ＨＰが3～7回復": "Recover 3-7 HP After Battle"
     },
     "181": {
-        "戦闘勝利時に ＨＰが7～13回復": ""
+        "戦闘勝利時に ＨＰが7～13回復": "Recover 7-13 HP After Battle"
     },
     "182": {
         "clarity_nt_char_62": "clarity_nt_char_62"
