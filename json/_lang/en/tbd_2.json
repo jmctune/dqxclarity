@@ -276,7 +276,7 @@
         "ブレス系ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": "Breath Damage Reduction <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "93": {
-        "攻撃呪文ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": ""
+        "攻撃呪文ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": "Spell Damage Reduction <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "94": {
         "眠りガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Sleep Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -1674,7 +1674,7 @@
         "ブレス系ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": "Breath Damage Reduction <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "559": {
-        "攻撃呪文ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": ""
+        "攻撃呪文ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": "Spell Damage Reduction <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "560": {
         "眠りガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Sleep Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
@@ -4839,7 +4839,7 @@
         "ブレス系ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": "Breath Damage Reduction <%sB_renkin1>(<%+dB_renkindiff>)%"
     },
     "1614": {
-        "攻撃呪文ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": "Spell Damage <%sB_renkin1>(<%+dB_renkindiff>) -%"
+        "攻撃呪文ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": "Spell Damage Reduction <%sB_renkin1>(<%+dB_renkindiff>)%"
     },
     "1615": {
         "眠りガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Sleep Guard <%sB_renkin1>(<%+dB_renkindiff>)%"
@@ -5091,7 +5091,7 @@
         "ブレス系ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": "Breath Damage Reduction <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1698": {
-        "攻撃呪文ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": "Spell Damage <%+dB_renkin>（<%+dB_renkindiff>) -%"
+        "攻撃呪文ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": "Spell Damage Reduction <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1699": {
         "眠りガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Sleep Guard <%+dB_renkin>（<%+dB_renkindiff>）%"
