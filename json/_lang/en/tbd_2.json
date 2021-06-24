@@ -231,7 +231,7 @@
         "clarity_nt_char_23": "clarity_nt_char_23"
     },
     "78": {
-        "さいだいＭＰ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
+        "さいだいＭＰ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Max MP +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "79": {
         "clarity_nt_char_24": "clarity_nt_char_24"
@@ -4806,7 +4806,7 @@
         "さいだいＨＰ <%sB_renkin1>(<%+dB_renkindiff>)": "Max HP <%sB_renkin1> (<%+dB_renkindiff>)"
     },
     "1603": {
-        "さいだいＭＰ <%sB_renkin1>(<%+dB_renkindiff>)": ""
+        "さいだいＭＰ <%sB_renkin1>(<%+dB_renkindiff>)": "Max MP <%sB_renkin1>(<%+dB_renkindiff>)"
     },
     "1604": {
         "おもさ <%sB_renkin1>(<%+dB_renkindiff>)": ""
@@ -5058,7 +5058,7 @@
         "さいだいＨＰ <%+dB_renkin>（<%+dB_renkindiff>）": "Max HP <%+dB_renkin> (<%+dB_renkindiff>)"
     },
     "1687": {
-        "さいだいＭＰ <%+dB_renkin>（<%+dB_renkindiff>）": ""
+        "さいだいＭＰ <%+dB_renkin>（<%+dB_renkindiff>）": "Max MP <%+dB_renkin> (<%+dB_renkindiff>)"
     },
     "1688": {
         "おもさ <%+dB_renkin>（<%+dB_renkindiff>）": ""
@@ -5499,7 +5499,7 @@
         "さいだいＨＰ +？": "Max HP +?"
     },
     "1834": {
-        "さいだいＭＰ +？": ""
+        "さいだいＭＰ +？": "Max MP +?"
     },
     "1835": {
         "おもさ +？": ""
