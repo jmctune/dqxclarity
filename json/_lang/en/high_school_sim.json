@@ -1338,7 +1338,7 @@
         "キメラのつばさ": "Chimera Wing"
     },
     "447": {
-        "おいかぜ": ""
+        "おいかぜ": "Backdraft"
     },
     "448": {
         "clarity_nt_char_149": "clarity_nt_char_149"
@@ -1965,7 +1965,7 @@
         "clarity_nt_char_216": "clarity_nt_char_216"
     },
     "656": {
-        "おいかぜ+10秒": ""
+        "おいかぜ+10秒": "Backdraft+10 secs"
     },
     "657": {
         "clarity_nt_char_217": "clarity_nt_char_217"
@@ -4713,7 +4713,7 @@
         "clarity_nt_char_511": "clarity_nt_char_511"
     },
     "1572": {
-        "おいかぜの特技を　おぼえた！": ""
+        "おいかぜの特技を　おぼえた！": "You learned Backdraft!"
     },
     "1573": {
         "clarity_nt_char_512": "clarity_nt_char_512"
@@ -5385,7 +5385,7 @@
         "clarity_nt_char_590": "clarity_nt_char_590"
     },
     "1796": {
-        "おいかぜの効果時間が　１０秒　増えた！": ""
+        "おいかぜの効果時間が　１０秒　増えた！": "Blowback's duration increased by 10 seconds!"
     },
     "1797": {
         "クイックリペアの特技を　おぼえた！": ""
