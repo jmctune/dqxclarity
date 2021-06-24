@@ -1314,7 +1314,7 @@
         "clarity_nt_char_128": "clarity_nt_char_128"
     },
     "439": {
-        "大とうぞくのカギ": "Large Thief's Key"
+        "大とうぞくのカギ": "Great Thief's Key"
     },
     "440": {
         "clarity_nt_char_129": "clarity_nt_char_129"
@@ -8367,7 +8367,7 @@
         "<pc>は　プクベリーを|指先で　つついてみた。<br>|グジュッ！<br>|プクベリーに　指の跡が　ついてしまった！": ""
     },
     "2790": {
-        "<pc>は　とうぞくのカギを|かかげてみた。<br>|とうぞくのカギは　キラリと　かがやいた。": ""
+        "<pc>は　とうぞくのカギを|かかげてみた。<br>|とうぞくのカギは　キラリと　かがやいた。": "<pc> held the Thief's Key in their hand.<br>|The key has a nice shine to it."
     },
     "2791": {
         "<pc>は　風音のユリを|そっと　耳に当ててみた。<br>|そよそよと　心地よい|風の吹く音が　聞こえた。": ""
@@ -9204,7 +9204,7 @@
         "clarity_nt_char_1001": "clarity_nt_char_1001"
     },
     "3069": {
-        "<pc>は　大とうぞくのカギを|かかげてみた。|<br>|大とうぞくのカギは　キラリと　かがやいた。": ""
+        "<pc>は　大とうぞくのカギを|かかげてみた。|<br>|大とうぞくのカギは　キラリと　かがやいた。": "<pc> held the Great Thief's Key in their|hand.|<br>|The key has a nice shine to it."
     },
     "3070": {
         "clarity_nt_char_1002": "clarity_nt_char_1002"
