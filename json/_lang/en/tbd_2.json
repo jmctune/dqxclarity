@@ -1458,7 +1458,7 @@
         "トラシュカで　ふっとび距離軽減": ""
     },
     "487": {
-        "トラシュカで　魚を取ると移動速度アップ": ""
+        "トラシュカで　魚を取ると移動速度アップ": "Move speed up when catching a fish in Trushka"
     },
     "488": {
         "会心と暴走ダメージ +<%sB_renkin1>(試合無効)": ""
@@ -4989,7 +4989,7 @@
         "clarity_nt_char_572": "clarity_nt_char_572"
     },
     "1664": {
-        "移動速度 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": ""
+        "移動速度 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": "Move Speed <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1665": {
         "clarity_nt_char_573": "clarity_nt_char_573"
@@ -5220,7 +5220,7 @@
         "攻撃時 <%dB_renkin>（<%+dB_renkindiff>）%でミスする": ""
     },
     "1741": {
-        "移動速度 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "移動速度 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Move Speed <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1742": {
         "clarity_nt_char_593": "clarity_nt_char_593"
@@ -5643,7 +5643,7 @@
         "clarity_nt_char_625": "clarity_nt_char_625"
     },
     "1882": {
-        "移動速度 +？%": "Movement Speed +?%"
+        "移動速度 +？%": "Move Speed +?%"
     },
     "1883": {
         "clarity_nt_char_626": "clarity_nt_char_626"
@@ -6909,7 +6909,7 @@
         "受けた呪文を<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%の確率で反射(試合無効)": "Spell Reflection Rate <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>% (No PvP)"
     },
     "2304": {
-        "トラシュカで　常に移動速度が少しアップ": ""
+        "トラシュカで　常に移動速度が少しアップ": "Move speed up slightly during Trushka"
     },
     "2305": {
         "攻撃時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で雷と光耐性ダウン": ""
