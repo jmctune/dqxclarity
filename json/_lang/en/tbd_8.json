@@ -42,13 +42,13 @@
         "clarity_nt_char_4": "clarity_nt_char_4"
     },
     "15": {
-        "<pc>たちは　泉の水を飲んだ。|<br>|<pc>たちの身体に|チカラが　わいてきた！": ""
+        "<pc>たちは　泉の水を飲んだ。|<br>|<pc>たちの身体に|チカラが　わいてきた！": "<pc> and co. drank from the spring.|<br>|Strength has returned to their bodies!"
     },
     "16": {
         "clarity_nt_char_5": "clarity_nt_char_5"
     },
     "17": {
-        "<pc>は　泉の水を飲んだ。|<br>|<pc>の身体に|チカラが　わいてきた！": ""
+        "<pc>は　泉の水を飲んだ。|<br>|<pc>の身体に|チカラが　わいてきた！": "<pc> drank from the spring.|<br>|Strength returns to <pc>'s body!"
     },
     "18": {
         "clarity_nt_char_6": "clarity_nt_char_6"
@@ -60,7 +60,7 @@
         "<pc>は　大とうぞくのカギを使った。<se_nots Joutyu_SE 57>": "<pc> used the Black Chest Key.<se_nots Joutyu_SE 57>"
     },
     "21": {
-        "ゴンドラに乗りますか？<yesno><close>": ""
+        "ゴンドラに乗りますか？<yesno><close>": "Ride the gondola? <yesno><close>"
     },
     "22": {
         "ブレイブストーンをかざして|真のレンダーシアへ　飛びますか？<yesno><close>": ""
