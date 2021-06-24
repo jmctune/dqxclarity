@@ -615,7 +615,7 @@
         "魅了ガード +100%": ""
     },
     "206": {
-        "致死ダメージ時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で生存": ""
+        "致死ダメージ時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で生存": "Survive Lethal Damage <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "207": {
         "clarity_nt_char_67": "clarity_nt_char_67"
@@ -1869,7 +1869,7 @@
         "各弱体系耐性 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
     },
     "624": {
-        "致死ダメージ時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で生存": ""
+        "致死ダメージ時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で生存": "Survive Lethal Damage <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "625": {
         "clarity_nt_char_210": "clarity_nt_char_210"
@@ -5454,7 +5454,7 @@
         "clarity_nt_char_612": "clarity_nt_char_612"
     },
     "1819": {
-        "<%dB_renkin>（<%+dB_renkindiff>）%でターン消費なし(試合無効)": ""
+        "<%dB_renkin>（<%+dB_renkindiff>）%でターン消費なし(試合無効)": "Don't Use Turn <%dB_renkin> (<%+dB_renkindiff>)% (No PvP)"
     },
     "1820": {
         "clarity_nt_char_613": "clarity_nt_char_613"
@@ -6051,7 +6051,7 @@
         "絆時 ？%で主人のＭＰ20回復": ""
     },
     "2018": {
-        "？%でターン消費なし(試合無効)": ""
+        "？%でターン消費なし(試合無効)": "Don't Use Turn ?% (No PvP)"
     },
     "2019": {
         "clarity_nt_char_668": "clarity_nt_char_668"
