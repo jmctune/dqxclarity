@@ -3111,7 +3111,7 @@
         "呪文ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
     },
     "1038": {
-        "コマンド間隔 -<%sB_renkin1>秒": ""
+        "コマンド間隔 -<%sB_renkin1>秒": "Command Interval -<%sB_renkin1>s"
     },
     "1039": {
         "clarity_nt_char_362": "clarity_nt_char_362"
