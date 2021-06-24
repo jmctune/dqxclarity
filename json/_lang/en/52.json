@@ -174,7 +174,7 @@
         "clarity_nt_char_22": "clarity_nt_char_22"
     },
     "59": {
-        "宝箱を釣り上げた！": ""
+        "宝箱を釣り上げた！": "Caught a chest!"
     },
     "60": {
         "竜笛": "Flute"
@@ -183,25 +183,25 @@
         "clarity_nt_char_23": "clarity_nt_char_23"
     },
     "62": {
-        "<%sC_STR1>！": ""
+        "<%sC_STR1>！": "<%sC_STR1>!"
     },
     "63": {
-        "タイムアップ！": ""
+        "タイムアップ！": "Time Up!"
     },
     "64": {
-        "アタリ！": ""
+        "アタリ！": "Hit!"
     },
     "65": {
         "clarity_nt_char_24": "clarity_nt_char_24"
     },
     "66": {
-        "ハズレ！": ""
+        "ハズレ！": "Miss!"
     },
     "67": {
         "clarity_nt_char_25": "clarity_nt_char_25"
     },
     "68": {
-        "初級を選んだ！": ""
+        "初級を選んだ！": "Beginner chosen!"
     },
     "69": {
         "中級を選んだ！": ""
