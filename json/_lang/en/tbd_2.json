@@ -273,7 +273,7 @@
         "clarity_nt_char_29": "clarity_nt_char_29"
     },
     "92": {
-        "ブレス系ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": ""
+        "ブレス系ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": "Breath Damage Reduction <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "93": {
         "攻撃呪文ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": ""
@@ -1671,7 +1671,7 @@
         "呪文発動速度 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
     },
     "558": {
-        "ブレス系ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": ""
+        "ブレス系ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": "Breath Damage Reduction <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "559": {
         "攻撃呪文ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": ""
@@ -4836,7 +4836,7 @@
         "ＭＰ吸収率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": ""
     },
     "1613": {
-        "ブレス系ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": ""
+        "ブレス系ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": "Breath Damage Reduction <%sB_renkin1>(<%+dB_renkindiff>)%"
     },
     "1614": {
         "攻撃呪文ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": "Spell Damage <%sB_renkin1>(<%+dB_renkindiff>) -%"
