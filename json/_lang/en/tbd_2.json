@@ -393,13 +393,13 @@
         "通常ドロップ率 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>倍": ""
     },
     "132": {
-        "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でどく": ""
+        "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でどく": "Poison Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "133": {
         "clarity_nt_char_48": "clarity_nt_char_48"
     },
     "134": {
-        "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で眠り": ""
+        "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で眠り": "Sleep Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "135": {
         "clarity_nt_char_49": "clarity_nt_char_49"
@@ -4995,7 +4995,7 @@
         "clarity_nt_char_573": "clarity_nt_char_573"
     },
     "1666": {
-        "武器ガード率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": ""
+        "武器ガード率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": "Weapon Guard Rate <%+.1fB_renkin>(<%+.1fB_renkindiff>)%"
     },
     "1667": {
         "clarity_nt_char_574": "clarity_nt_char_574"
@@ -5226,7 +5226,7 @@
         "clarity_nt_char_593": "clarity_nt_char_593"
     },
     "1743": {
-        "武器ガード率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "武器ガード率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Weapon Guard Rate <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1744": {
         "clarity_nt_char_594": "clarity_nt_char_594"
