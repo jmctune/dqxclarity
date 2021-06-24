@@ -2619,7 +2619,7 @@
         "clarity_nt_char_289": "clarity_nt_char_289"
     },
     "874": {
-        "スティック装備時|さいだいＭＰが|３０増える": ""
+        "スティック装備時|さいだいＭＰが|３０増える": "+30 Maximum MP|when wand worn.|"
     },
     "875": {
         "clarity_nt_char_290": "clarity_nt_char_290"
@@ -4632,7 +4632,7 @@
         "clarity_nt_char_517": "clarity_nt_char_517"
     },
     "1545": {
-        "スティック装備時|たまにＭＰを|消費しない": ""
+        "スティック装備時|たまにＭＰを|消費しない": "Sometimes consume|no MP when|wand worn."
     },
     "1546": {
         "仲間ひとりの|悪い効果を|解除させる": ""
@@ -4647,7 +4647,7 @@
         "clarity_nt_char_519": "clarity_nt_char_519"
     },
     "1550": {
-        "スティック装備時|さいだいＭＰが|６０増える": ""
+        "スティック装備時|さいだいＭＰが|６０増える": "+60 Maximum MP|when wand worn.|"
     },
     "1551": {
         "clarity_nt_char_520": "clarity_nt_char_520"
