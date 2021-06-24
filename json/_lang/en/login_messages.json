@@ -36,13 +36,13 @@
         "<%n_YYYY>年<%n_MM>月<%n_DD>日まで": "Until <%n_MM>/<%n_DD>/<%n_YYYY>"
     },
     "13": {
-        "（※削除予定）": ""
+        "（※削除予定）": "(*Planned Deletion)"
     },
     "14": {
-        "<%sRACE>": ""
+        "<%sRACE>": "<%sRACE>"
     },
     "15": {
-        "<%sPCNAME>は　オンラインモードでは|まだ選べません！　いったんログアウトして|オフラインモードで　始めてください。<end>": ""
+        "<%sPCNAME>は　オンラインモードでは|まだ選べません！　いったんログアウトして|オフラインモードで　始めてください。<end>": "<%sPCNAME> cannot be selected for online mode|yet! Please log out and start in offline|mode."
     },
     "16": {
         "利用券の有効期間が　切れています。|プレイするには　利用券を購入してください。<end>": ""
