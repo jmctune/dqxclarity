@@ -7494,7 +7494,7 @@
         "スティック装備時|さいだいＭＰが|１００増える": ""
     },
     "2499": {
-        "スティック装備で|戦闘に勝つと|ＭＰが中回復する": ""
+        "スティック装備で|戦闘に勝つと|ＭＰが中回復する": "Restore medium amount|of MP when battle|won & wand equipped"
     },
     "2500": {
         "clarity_nt_char_820": "clarity_nt_char_820"
@@ -11778,7 +11778,7 @@
         "スティック装備時|さいだいＭＰが|１５０増える": ""
     },
     "3927": {
-        "スティック装備で|戦闘に勝つと|ＭＰが大回復する": ""
+        "スティック装備で|戦闘に勝つと|ＭＰが大回復する": "Restore large amount|of MP when battle|won & wand equipped"
     },
     "3928": {
         "clarity_nt_char_1307": "clarity_nt_char_1307"
