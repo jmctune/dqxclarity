@@ -204,13 +204,13 @@
         "初級を選んだ！": "Beginner chosen!"
     },
     "69": {
-        "中級を選んだ！": ""
+        "中級を選んだ！": "Intermediate chosen!"
     },
     "70": {
-        "上級を選んだ！": ""
+        "上級を選んだ！": "Advanced chosen!"
     },
     "71": {
-        "<%sC_STR1>|の錬金が超大成功！": ""
+        "<%sC_STR1>|の錬金が超大成功！": "<%sC_STR1>|alchemy perfection!"
     },
     "72": {
         "clarity_nt_char_26": "clarity_nt_char_26"
@@ -222,7 +222,7 @@
         "clarity_nt_char_27": "clarity_nt_char_27"
     },
     "75": {
-        "プレイ済み！": ""
+        "プレイ済み！": "Play Over!"
     },
     "76": {
         "clarity_nt_char_28": "clarity_nt_char_28"
