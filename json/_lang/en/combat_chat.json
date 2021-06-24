@@ -20604,7 +20604,7 @@
         "clarity_nt_char_2298": "clarity_nt_char_2298"
     },
     "6869": {
-        "死んでしまっても|確実に生き返る|僧侶専用特技": "Chance to resurrect|at half HP|if user dies."
+        "死んでしまっても|確実に生き返る|僧侶専用特技": "Resurrect|at half HP|if user dies. "
     },
     "6870": {
         "回復呪文の効果を|かなり高める|僧侶専用特技": ""
@@ -21639,7 +21639,7 @@
         "宝石魔術・夜明準備": ""
     },
     "7214": {
-        "死んでしまっても|確実に生き返る": ""
+        "死んでしまっても|確実に生き返る": "Chance to resurrect|if user dies."
     },
     "7215": {
         "clarity_nt_char_2413": "clarity_nt_char_2413"
