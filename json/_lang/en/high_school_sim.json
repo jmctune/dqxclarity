@@ -2181,7 +2181,7 @@
         "メガトンパンチ": "Megaton Punch"
     },
     "728": {
-        "ファイナルブロー": ""
+        "ファイナルブロー": "Lights Out"
     },
     "729": {
         "clarity_nt_char_241": "clarity_nt_char_241"
@@ -2190,7 +2190,7 @@
         "メガトンパンチ+100": "Megaton Punch+100"
     },
     "731": {
-        "ファイナルブロー+200": ""
+        "ファイナルブロー+200": "Lights Out+200"
     },
     "732": {
         "clarity_nt_char_242": "clarity_nt_char_242"
@@ -5625,7 +5625,7 @@
         "メガトンパンチの特技を　おぼえた！": "You learned Megaton Punch!"
     },
     "1876": {
-        "ファイナルブローの特技を　おぼえた！": ""
+        "ファイナルブローの特技を　おぼえた！": "You learned Lights Out!"
     },
     "1877": {
         "clarity_nt_char_619": "clarity_nt_char_619"
@@ -5634,7 +5634,7 @@
         "メガトンパンチの威力が　あがった！": "Megaton Punch power increased!"
     },
     "1879": {
-        "ファイナルブローの威力が　あがった！": ""
+        "ファイナルブローの威力が　あがった！": "Lights Out power increased!"
     },
     "1880": {
         "clarity_nt_char_620": "clarity_nt_char_620"
