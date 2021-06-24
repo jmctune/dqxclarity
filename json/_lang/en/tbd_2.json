@@ -1164,7 +1164,7 @@
         "clarity_nt_char_126": "clarity_nt_char_126"
     },
     "389": {
-        "敵を倒すと <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でためる(試合無効)": ""
+        "敵を倒すと <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でためる(試合無効)": "Tension On Enemy Kill <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>% (No PvP)"
     },
     "390": {
         "メタル系モンスター出現率 1.1倍(試合無効)": ""
@@ -3039,7 +3039,7 @@
         "clarity_nt_char_353": "clarity_nt_char_353"
     },
     "1014": {
-        "敵を倒すとＭＰを <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>回復": ""
+        "敵を倒すとＭＰを <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>回復": "Restore <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka> MP On Enemy Kill"
     },
     "1015": {
         "うけるダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": ""
@@ -3150,7 +3150,7 @@
         "clarity_nt_char_365": "clarity_nt_char_365"
     },
     "1051": {
-        "敵を倒すと <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でためる": ""
+        "敵を倒すと <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でためる": "Tension On Enemy Kill <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "1052": {
         "<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でターン消費なし": "Don't Use Turn <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
@@ -5448,7 +5448,7 @@
         "clarity_nt_char_611": "clarity_nt_char_611"
     },
     "1817": {
-        "敵を倒すと <%dB_renkin>（<%+dB_renkindiff>）%でためる(試合無効)": ""
+        "敵を倒すと <%dB_renkin>（<%+dB_renkindiff>）%でためる(試合無効)": "Tension On Enemy Kill <%dB_renkin> (<%+dB_renkindiff>)% (No PvP)"
     },
     "1818": {
         "clarity_nt_char_612": "clarity_nt_char_612"
