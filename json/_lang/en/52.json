@@ -111,25 +111,25 @@
         "clarity_nt_char_14": "clarity_nt_char_14"
     },
     "38": {
-        "ダミー４": ""
+        "ダミー４": "Dummy 4"
     },
     "39": {
         "clarity_nt_char_15": "clarity_nt_char_15"
     },
     "40": {
-        "続ける！": ""
+        "続ける！": "Continue!"
     },
     "41": {
         "clarity_nt_char_16": "clarity_nt_char_16"
     },
     "42": {
-        "クエストのさそいを|受けなかった": ""
+        "クエストのさそいを|受けなかった": "Didn't receive|the quest."
     },
     "43": {
         "clarity_nt_char_17": "clarity_nt_char_17"
     },
     "44": {
-        "クエストのさそいを|受けた！": ""
+        "クエストのさそいを|受けた！": "Accepted the|quest!"
     },
     "45": {
         "clarity_nt_char_18": "clarity_nt_char_18"
@@ -141,7 +141,7 @@
         "clarity_nt_char_19": "clarity_nt_char_19"
     },
     "48": {
-        "ドルボードの燃料が|切れた": ""
+        "ドルボードの燃料が|切れた": "Dolboard tank|is empty."
     },
     "49": {
         "ドルセリンを|使った！": "Dolserin used!"
@@ -150,7 +150,7 @@
         "<%sC_STR1>行": "To <%sC_STR1>"
     },
     "51": {
-        "<%sC_STR1>の|キングサイズを釣った！": ""
+        "<%sC_STR1>の|キングサイズを釣った！": "Caught a King size|<%sC_STR1>!"
     },
     "52": {
         "探索前の霊廟！": ""
