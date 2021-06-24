@@ -1491,7 +1491,7 @@
         "clarity_nt_char_161": "clarity_nt_char_161"
     },
     "498": {
-        "味方死亡時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でためる(試合無効)": ""
+        "味方死亡時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でためる(試合無効)": "Tension On Ally Death <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>% (No PvP)"
     },
     "499": {
         "やいばのぼうぎょ時のダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": ""
@@ -2292,7 +2292,7 @@
         "clarity_nt_char_259": "clarity_nt_char_259"
     },
     "765": {
-        "味方死亡時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で聖女の守り": ""
+        "味方死亡時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で聖女の守り": "Alma Mater On Ally Death <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "766": {
         "特技の回復量 +<%sB_renkin1>(試合無効)": ""
