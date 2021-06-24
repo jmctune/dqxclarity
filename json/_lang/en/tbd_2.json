@@ -1137,7 +1137,7 @@
         "まれに　魔物がフワフワわたアメを落とす": ""
     },
     "380": {
-        "通常時　フワっとジャンプできる": ""
+        "通常時　フワっとジャンプできる": "You can jump higher outside of battle"
     },
     "381": {
         "Ｌｖ89以下で装備時　パーティの経験値3倍": "Party EXP x3 at Level 89 or below"
@@ -5535,7 +5535,7 @@
         "clarity_nt_char_619": "clarity_nt_char_619"
     },
     "1846": {
-        "攻撃呪文ダメージ ？%減": "Spell Damage Taken -?%"
+        "攻撃呪文ダメージ ？%減": "Spell Damage Reduction ?%"
     },
     "1847": {
         "clarity_nt_char_620": "clarity_nt_char_620"
