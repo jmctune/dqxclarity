@@ -237,7 +237,7 @@
         "clarity_nt_char_24": "clarity_nt_char_24"
     },
     "80": {
-        "おもさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
+        "おもさ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Weight +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "81": {
         "不意をつく確率 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
@@ -1896,19 +1896,19 @@
         "夜 開戦時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でためる": "Eve Battle Start Tension <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "633": {
-        "おもさ +6": ""
+        "おもさ +6": "Weight +6"
     },
     "634": {
         "clarity_nt_char_213": "clarity_nt_char_213"
     },
     "635": {
-        "おもさ +7": ""
+        "おもさ +7": "Weight +7"
     },
     "636": {
         "clarity_nt_char_214": "clarity_nt_char_214"
     },
     "637": {
-        "おもさ +8": ""
+        "おもさ +8": "Weight +8"
     },
     "638": {
         "clarity_nt_char_215": "clarity_nt_char_215"
@@ -4809,7 +4809,7 @@
         "さいだいＭＰ <%sB_renkin1>(<%+dB_renkindiff>)": "Max MP <%sB_renkin1>(<%+dB_renkindiff>)"
     },
     "1604": {
-        "おもさ <%sB_renkin1>(<%+dB_renkindiff>)": ""
+        "おもさ <%sB_renkin1>(<%+dB_renkindiff>)": "Weight <%sB_renkin1>(<%+dB_renkindiff>)"
     },
     "1605": {
         "clarity_nt_char_554": "clarity_nt_char_554"
@@ -5061,7 +5061,7 @@
         "さいだいＭＰ <%+dB_renkin>（<%+dB_renkindiff>）": "Max MP <%+dB_renkin> (<%+dB_renkindiff>)"
     },
     "1688": {
-        "おもさ <%+dB_renkin>（<%+dB_renkindiff>）": ""
+        "おもさ <%+dB_renkin>（<%+dB_renkindiff>）": "Weight <%+dB_renkin> (<%+dB_renkindiff>)"
     },
     "1689": {
         "clarity_nt_char_579": "clarity_nt_char_579"
@@ -5502,7 +5502,7 @@
         "さいだいＭＰ +？": "Max MP +?"
     },
     "1835": {
-        "おもさ +？": ""
+        "おもさ +？": "Weight +?"
     },
     "1836": {
         "clarity_nt_char_617": "clarity_nt_char_617"
@@ -6681,7 +6681,7 @@
         "clarity_nt_char_734": "clarity_nt_char_734"
     },
     "2228": {
-        "ＨＰとおもさ +？": ""
+        "ＨＰとおもさ +？": "HP & Weight +?"
     },
     "2229": {
         "かいしん率と呪文ぼうそう率 + ？%": "Attack Critical and Spell Critical Rate+?%"
