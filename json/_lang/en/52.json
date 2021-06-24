@@ -330,19 +330,19 @@
         "clarity_nt_char_40": "clarity_nt_char_40"
     },
     "111": {
-        "ダンスパワーが|<%nC_NUMBER1>上がった！": ""
+        "ダンスパワーが|<%nC_NUMBER1>上がった！": "Dance Power|increased by <%nC_NUMBER1>!"
     },
     "112": {
         "clarity_nt_char_41": "clarity_nt_char_41"
     },
     "113": {
-        "リーダーが|神聖秘文を選んだ！": ""
+        "リーダーが|神聖秘文を選んだ！": "Leader chose|sacred password!"
     },
     "114": {
-        "回答済み！": ""
+        "回答済み！": "Answered!"
     },
     "115": {
-        "スライムを見つけた！": ""
+        "スライムを見つけた！": "Slime appeared!"
     },
     "116": {
         "clarity_nt_char_42": "clarity_nt_char_42"
