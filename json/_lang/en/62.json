@@ -108,16 +108,16 @@
         "clarity_nt_char_15": "clarity_nt_char_15"
     },
     "37": {
-        "与ダメージ値％変更": "Taken Damage Change %"
+        "与ダメージ値％変更": "Dealt Damage Change %"
     },
     "38": {
-        "与ダメージ固定値変更": ""
+        "与ダメージ固定値変更": "Fixed Dealt Damage Change"
     },
     "39": {
         "clarity_nt_char_16": "clarity_nt_char_16"
     },
     "40": {
-        "被ダメージ値％変更": ""
+        "被ダメージ値％変更": "Taken Damage % Change"
     },
     "41": {
         "被ダメージ固定値変更": ""
