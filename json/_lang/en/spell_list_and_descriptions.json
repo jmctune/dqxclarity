@@ -1833,7 +1833,7 @@
         "clarity_nt_char_200": "clarity_nt_char_200"
     },
     "612": {
-        "スティック装備で|戦闘に勝つと|ＭＰが大回復する": ""
+        "スティック装備で|戦闘に勝つと|ＭＰが大回復する": "Restore large amount|of MP when battle|won & wand equipped"
     },
     "613": {
         "clarity_nt_char_201": "clarity_nt_char_201"
@@ -2601,7 +2601,7 @@
         "マジでステキに|みりょくアップ": ""
     },
     "868": {
-        "スティック装備で|戦闘に勝つと|ＭＰが小回復する": ""
+        "スティック装備で|戦闘に勝つと|ＭＰが小回復する": "Restore small amount|of MP when battle|won & wand equipped"
     },
     "869": {
         "clarity_nt_char_287": "clarity_nt_char_287"
@@ -2640,7 +2640,7 @@
         "キラキラパワーで|悪い効果から|仲間の身を守る": ""
     },
     "881": {
-        "スティック装備で|戦闘に勝つと|ＭＰが中回復する": ""
+        "スティック装備で|戦闘に勝つと|ＭＰが中回復する": "Restore medium amount|of MP when battle|won & wand equipped"
     },
     "882": {
         "clarity_nt_char_293": "clarity_nt_char_293"
