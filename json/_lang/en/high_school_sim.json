@@ -1320,7 +1320,7 @@
         "常時さいだいＨＰ+40": "Natural HP+40"
     },
     "441": {
-        "常時みのまもり+60": ""
+        "常時みのまもり+60": "Natural Resilience+60"
     },
     "442": {
         "clarity_nt_char_147": "clarity_nt_char_147"
@@ -1704,7 +1704,7 @@
         "clarity_nt_char_186": "clarity_nt_char_186"
     },
     "569": {
-        "常時みのまもり+30": ""
+        "常時みのまもり+30": "Natural Resilience+30"
     },
     "570": {
         "clarity_nt_char_187": "clarity_nt_char_187"
@@ -1803,7 +1803,7 @@
         "ウルトラパワー": ""
     },
     "602": {
-        "常時みのまもり+45": ""
+        "常時みのまもり+45": "Natural Resilience+45"
     },
     "603": {
         "clarity_nt_char_198": "clarity_nt_char_198"
@@ -1959,7 +1959,7 @@
         "魔道砲+200": ""
     },
     "654": {
-        "常時みのまもり+80": ""
+        "常時みのまもり+80": "Natural Resilience+80"
     },
     "655": {
         "clarity_nt_char_216": "clarity_nt_char_216"
@@ -2814,7 +2814,7 @@
         "clarity_nt_char_308": "clarity_nt_char_308"
     },
     "939": {
-        "常時みのまもり+15": ""
+        "常時みのまもり+15": "Natural Resilience+15"
     },
     "940": {
         "clarity_nt_char_309": "clarity_nt_char_309"
@@ -3165,7 +3165,7 @@
         "clarity_nt_char_351": "clarity_nt_char_351"
     },
     "1056": {
-        "常時みのまもり+10": ""
+        "常時みのまもり+10": "Natural Resilience+10"
     },
     "1057": {
         "clarity_nt_char_352": "clarity_nt_char_352"
@@ -3435,7 +3435,7 @@
         "呪文ダメージ5%減": "Spell Damage +5%"
     },
     "1146": {
-        "常時みのまもり+20": ""
+        "常時みのまもり+20": "Natural Resilience+20"
     },
     "1147": {
         "clarity_nt_char_379": "clarity_nt_char_379"
