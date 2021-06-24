@@ -4551,7 +4551,7 @@
         "攻撃時魔力低下+15%": "Attack Spell Res. D. +15%"
     },
     "1518": {
-        "攻撃時与ダメ低下+5%": "On Attack Dmg. Rcv. ↓+5%"
+        "攻撃時与ダメ低下+5%": "On Attack Dmg. Done ↓+5%"
     },
     "1519": {
         "戦闘勝利時ＭＰ大回復": ""
@@ -4626,7 +4626,7 @@
         "攻撃時たまに|相手の魔力|を下げる": "Rarely lowers|spell power on|an attack."
     },
     "1543": {
-        "攻撃時たまに|相手の与ダメージ|を下げる": ""
+        "攻撃時たまに|相手の与ダメージ|を下げる": "Rarely reduces|damage dealt on|an attack."
     },
     "1544": {
         "clarity_nt_char_517": "clarity_nt_char_517"
@@ -4728,7 +4728,7 @@
         "clarity_nt_char_527": "clarity_nt_char_527"
     },
     "1577": {
-        "攻撃時10%でためる": ""
+        "攻撃時10%でためる": "On Attack Tension 10%"
     },
     "1578": {
         "clarity_nt_char_528": "clarity_nt_char_528"
