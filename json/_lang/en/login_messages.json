@@ -6,13 +6,13 @@
         "このバージョンでは　利用券メニューを|使用できません。<end>": "Ticket Menu cannot be used with this version.<end>"
     },
     "3": {
-        "接続環境が変化した　もしくは|不審なアクセスを検知した恐れがあるため|ログインが　制限されています。|生年月日を入力すると　解除できます。<break>": ""
+        "接続環境が変化した　もしくは|不審なアクセスを検知した恐れがあるため|ログインが　制限されています。|生年月日を入力すると　解除できます。<break>": "Login is restricted due to a connection|change or suspicious activity. You can|regain access by entering your date|of birth."
     },
     "4": {
-        "生年月日が　正しく入力されていません。|正しい日付を　ご確認ください。<break>": ""
+        "生年月日が　正しく入力されていません。|正しい日付を　ご確認ください。<break>": "Date of birth is incorrect. Please enter|the correct date.<break>"
     },
     "5": {
-        "ログイン画面に　戻りますか？<yesno 2><break>": ""
+        "ログイン画面に　戻りますか？<yesno 2><break>": "Return to the login screen?<yesno 2><break>"
     },
     "6": {
         "（現在のコースでは使えません）": ""
