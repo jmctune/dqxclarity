@@ -39,13 +39,13 @@
         "clarity_nt_char_4": "clarity_nt_char_4"
     },
     "14": {
-        "<%sC_STR1>|<%sC_STR2>ができた！": ""
+        "<%sC_STR1>|<%sC_STR2>ができた！": "<%sC_STR1>|<%sC_STR2> ready!"
     },
     "15": {
         "clarity_nt_char_5": "clarity_nt_char_5"
     },
     "16": {
-        "<%sC_STR1>|の錬金が大成功した！": ""
+        "<%sC_STR1>|の錬金が大成功した！": "<%sC_STR1>|was a great success!"
     },
     "17": {
         "<%nC_NUMBER1>時間だけ|仲間に加わった！": "Joined the party for <%nC_NUMBER1> hours!"
