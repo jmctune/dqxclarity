@@ -792,7 +792,7 @@
         "マシン系を攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で魅了": "Machine Charm Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "265": {
-        "水系を攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で魅了": ""
+        "水系を攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で魅了": "Water Charm Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "266": {
         "ドラゴン系ＭＰ吸収率 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
@@ -951,7 +951,7 @@
         "戦闘で獲得するゴールドが増える(試合無効)": ""
     },
     "318": {
-        "たまに　攻撃時ＭＰ回復量アップ(試合無効)": ""
+        "たまに　攻撃時ＭＰ回復量アップ(試合無効)": "Recovered MP On Attack Up (No PvP)"
     },
     "319": {
         "不意をつく確率アップ(試合無効)": ""
@@ -975,7 +975,7 @@
         "clarity_nt_char_105": "clarity_nt_char_105"
     },
     "326": {
-        "たまに　攻撃時ＭＰ回復(試合無効)": ""
+        "たまに　攻撃時ＭＰ回復(試合無効)": "Rarely Recover MP On Attack (No PvP)"
     },
     "327": {
         "左手の攻撃力アップ": ""
@@ -1131,7 +1131,7 @@
         "clarity_nt_char_124": "clarity_nt_char_124"
     },
     "378": {
-        "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でいてつくはどう": ""
+        "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でいてつくはどう": "Disruption Wave Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "379": {
         "まれに　魔物がフワフワわたアメを落とす": ""
