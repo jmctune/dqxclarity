@@ -4821,7 +4821,7 @@
         "身かわし率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": "Dodge Rate <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1608": {
-        "盾ガード率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": ""
+        "盾ガード率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": "Shd. Guard Rate <%+.1fB_renkin>(<%+.1fB_renkindiff>)%"
     },
     "1609": {
         "かいしん率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": "Critical Rate <%+.1fB_renkin>(<%+.1fB_renkindiff>)%"
@@ -5073,7 +5073,7 @@
         "身かわし率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Dodge Rate <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1692": {
-        "盾ガード率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "盾ガード率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Shd. Guard Rate <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1693": {
         "かいしん率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Critical Rate <%+.1fB_renkin>（<%+.1fB_renkindiff>）%"
@@ -5514,7 +5514,7 @@
         "身かわし率 +？%": "Dodge Rate +?%"
     },
     "1839": {
-        "盾ガード率 +？%": ""
+        "盾ガード率 +？%": "Shd. Guard Rate +?%"
     },
     "1840": {
         "かいしん率 +？%": "Critical Rate+?%"
