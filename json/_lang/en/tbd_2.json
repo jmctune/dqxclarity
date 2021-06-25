@@ -63,7 +63,7 @@
         "攻撃した時に ＭＰを吸収する確率が|<%dB_renkin1>.<%dB_renkin2> %上がる 錬金レシピ。": "A recipe that increases the rate of absorbing|MP when attacking by <%dB_renkin1>.<%dB_renkin2>."
     },
     "22": {
-        "ブレス系の攻撃で受けるダメージを |<%dB_renkin1> %軽減する 錬金レシピ。": ""
+        "ブレス系の攻撃で受けるダメージを |<%dB_renkin1> %軽減する 錬金レシピ。": "A recipe that reduces breath damage|taken by <%dB_renkin1> %."
     },
     "23": {
         "clarity_nt_char_7": "clarity_nt_char_7"
