@@ -960,7 +960,7 @@
         "clarity_nt_char_103": "clarity_nt_char_103"
     },
     "321": {
-        "行動時 たまに消費ＭＰが 25%に": ""
+        "行動時 たまに消費ＭＰが 25%に": "On Action Rarely Don't Use MP 25%"
     },
     "322": {
         "ダメージ時　たまにためる(試合無効)": ""
@@ -1332,7 +1332,7 @@
         "clarity_nt_char_143": "clarity_nt_char_143"
     },
     "445": {
-        "行動時 <%sB_renkin1>%でテンション消費なし": ""
+        "行動時 <%sB_renkin1>%でテンション消費なし": "On Action Don't Use Tension <%sB_renkin1>%"
     },
     "446": {
         "clarity_nt_char_144": "clarity_nt_char_144"
@@ -1365,10 +1365,10 @@
         "タロットでたまにテンション維持(試合無効)": ""
     },
     "456": {
-        "行動時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でバイシオン": ""
+        "行動時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でバイシオン": "Oomph After Action <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "457": {
-        "行動時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で早詠みの杖": ""
+        "行動時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で早詠みの杖": "Faster Caster After Action <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "458": {
         "両手剣装備時　こうげき力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
