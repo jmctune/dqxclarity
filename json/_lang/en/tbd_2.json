@@ -459,7 +459,7 @@
         "武器ガード率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
     },
     "154": {
-        "呪文ぼうそう率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "呪文ぼうそう率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Haywire Rate +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "155": {
         "clarity_nt_char_56": "clarity_nt_char_56"
@@ -5001,7 +5001,7 @@
         "clarity_nt_char_574": "clarity_nt_char_574"
     },
     "1668": {
-        "呪文ぼうそう率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": ""
+        "呪文ぼうそう率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": "Haywire Rate <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1669": {
         "おびえガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Fear Guard <%sB_renkin1>(<%+dB_renkindiff>)%"
@@ -5232,7 +5232,7 @@
         "clarity_nt_char_594": "clarity_nt_char_594"
     },
     "1745": {
-        "呪文ぼうそう率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "呪文ぼうそう率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Haywire Rate <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1746": {
         "おびえガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Fear Guard <%+dB_renkin> (<%+dB_renkindiff>)%"
@@ -5655,7 +5655,7 @@
         "clarity_nt_char_627": "clarity_nt_char_627"
     },
     "1886": {
-        "呪文ぼうそう率 +？%": "Spell Critical Rate +?%"
+        "呪文ぼうそう率 +？%": "Haywire Rate +?%"
     },
     "1887": {
         "おびえガード +？%": "Fear Guard +?%"
@@ -6684,7 +6684,7 @@
         "ＨＰとおもさ +？": "HP & Weight +?"
     },
     "2229": {
-        "かいしん率と呪文ぼうそう率 + ？%": "Attack Critical and Spell Critical Rate+?%"
+        "かいしん率と呪文ぼうそう率 + ？%": "Critical and Haywire Rate+?%"
     },
     "2230": {
         "clarity_nt_char_735": "clarity_nt_char_735"
