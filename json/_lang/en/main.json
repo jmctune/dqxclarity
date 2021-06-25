@@ -6495,7 +6495,7 @@
         "clarity_nt_char_745": "clarity_nt_char_745"
     },
     "2166": {
-        "右手": ""
+        "右手": "R Hand"
     },
     "2167": {
         "clarity_nt_char_746": "clarity_nt_char_746"
@@ -8712,7 +8712,7 @@
         "てがみ": "Letter"
     },
     "2905": {
-        "右手にそうび": "Equip Right"
+        "右手にそうび": "Right Hand Equip"
     },
     "2906": {
         "clarity_nt_char_1002": "clarity_nt_char_1002"
@@ -9612,7 +9612,7 @@
         "clarity_nt_char_1106": "clarity_nt_char_1106"
     },
     "3205": {
-        "こうげき力右": "Attack"
+        "こうげき力右": "R. Attack"
     },
     "3206": {
         "clarity_nt_char_1107": "clarity_nt_char_1107"
@@ -9963,7 +9963,7 @@
         "こうげき力・左": "Atk Power・Left"
     },
     "3322": {
-        "こうげき力・右": "Atk Power・Right"
+        "こうげき力・右": "Attack - Right"
     },
     "3323": {
         "ランダムクエスト": ""
@@ -10053,7 +10053,7 @@
         "攻撃力・左": ""
     },
     "3352": {
-        "攻撃力・右": ""
+        "攻撃力・右": "Attack - Right"
     },
     "3353": {
         "<%dM_tboxcnt>": ""
@@ -16446,7 +16446,7 @@
         "clarity_nt_char_1869": "clarity_nt_char_1869"
     },
     "5483": {
-        "ＭＰ吸収率右": ""
+        "ＭＰ吸収率右": "MP Absorb Rate R."
     },
     "5484": {
         "clarity_nt_char_1870": "clarity_nt_char_1870"
@@ -17007,7 +17007,7 @@
         "clarity_nt_char_1933": "clarity_nt_char_1933"
     },
     "5670": {
-        "右の台": ""
+        "右の台": "R. Stand"
     },
     "5671": {
         "ぬいぐるみ飾り台": ""
@@ -18828,7 +18828,7 @@
         "clarity_nt_char_2137": "clarity_nt_char_2137"
     },
     "6277": {
-        "右手にわたす": ""
+        "右手にわたす": "Hand to Right"
     },
     "6278": {
         "clarity_nt_char_2138": "clarity_nt_char_2138"
