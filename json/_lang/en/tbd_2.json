@@ -645,7 +645,7 @@
         "攻撃ダメージの <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>% ＨＰが回復": ""
     },
     "216": {
-        "２回攻撃できる": ""
+        "２回攻撃できる": "Attacks Twice"
     },
     "217": {
         "必殺チャージ率 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
@@ -921,7 +921,7 @@
         "clarity_nt_char_99": "clarity_nt_char_99"
     },
     "308": {
-        "たまに　2回攻撃できる(試合無効)": ""
+        "たまに　2回攻撃できる(試合無効)": "Rarely Attack Twice (No PvP)"
     },
     "309": {
         "たまに　ＨＰ1で生き残る(試合無効)": ""
