@@ -1611,7 +1611,7 @@
         "clarity_nt_char_176": "clarity_nt_char_176"
     },
     "538": {
-        "トラシュカで　光る物入手で一定時間無敵": ""
+        "トラシュカで　光る物入手で一定時間無敵": "Get invincibility from shinies in Trashka"
     },
     "539": {
         "攻撃時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で急所突き": "Weak Point Attack <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
@@ -6909,7 +6909,7 @@
         "受けた呪文を<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%の確率で反射(試合無効)": "Spell Reflection Rate <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>% (No PvP)"
     },
     "2304": {
-        "トラシュカで　常に移動速度が少しアップ": "Move speed up slightly during Trushka"
+        "トラシュカで　常に移動速度が少しアップ": "Move speed up slightly during Trashka"
     },
     "2305": {
         "攻撃時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で雷と光耐性ダウン": ""
