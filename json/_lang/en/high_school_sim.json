@@ -1125,7 +1125,7 @@
         "常時こうげき魔力+60": "Natural Magical Might + 60"
     },
     "376": {
-        "常時呪文暴走率+3%": "Critical Spell Rate+3%"
+        "常時呪文暴走率+3%": "Haywire Rate +3%"
     },
     "377": {
         "clarity_nt_char_128": "clarity_nt_char_128"
@@ -1413,7 +1413,7 @@
         "メラ系効果+20%": "Frizz damage+20%"
     },
     "472": {
-        "常時呪文暴走率+1%": "Critical Spell Rate+1%"
+        "常時呪文暴走率+1%": "Haywire Rate +1%"
     },
     "473": {
         "clarity_nt_char_156": "clarity_nt_char_156"
@@ -2349,7 +2349,7 @@
         "イオ系効果+20%": ""
     },
     "784": {
-        "常時呪文暴走率+5%": "Critical Spell Rate+5%"
+        "常時呪文暴走率+5%": "Haywire Rate +5%"
     },
     "785": {
         "clarity_nt_char_263": "clarity_nt_char_263"
@@ -2976,7 +2976,7 @@
         "ギガデイン": ""
     },
     "993": {
-        "常時呪文暴走率+10%": "Critical Spell Rate+10%"
+        "常時呪文暴走率+10%": "Haywire Rate +10%"
     },
     "994": {
         "デインの心得+50%": ""

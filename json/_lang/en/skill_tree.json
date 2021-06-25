@@ -1209,7 +1209,7 @@
         "ぶきみなひかり": "Spooky Aura"
     },
     "404": {
-        "常時呪文暴走率+2%": "Critical Spell Rate+2%"
+        "常時呪文暴走率+2%": "Haywire Rate +2%"
     },
     "405": {
         "clarity_nt_char_133": "clarity_nt_char_133"
@@ -1224,7 +1224,7 @@
         "魔力かくせい（専）": "Channel Anger"
     },
     "409": {
-        "常時呪文暴走率+2%（専）": "Critical Spell Rate+2%"
+        "常時呪文暴走率+2%（専）": "Haywire Rate +2% (EX)"
     },
     "410": {
         "こうげき魔力+20（専）": "Magical Might +20 (EX)"
@@ -8136,19 +8136,19 @@
         "活命の杖Ⅲ": "Life Staff III"
     },
     "2713": {
-        "【160P】呪文ぼうそう率+1%": "【160P】Spell Critical Rate+1%"
+        "【160P】呪文ぼうそう率+1%": "【160P】Haywire Rate +1%"
     },
     "2714": {
         "clarity_nt_char_918": "clarity_nt_char_918"
     },
     "2715": {
-        "【170P】呪文ぼうそう率+1.2%": "【170P】Spell Critical Rate+1.2%"
+        "【170P】呪文ぼうそう率+1.2%": "【170P】Haywire Rate +1.2%"
     },
     "2716": {
         "clarity_nt_char_919": "clarity_nt_char_919"
     },
     "2717": {
-        "【180P】呪文ぼうそう率+1.5%": "【180P】Spell Critical Rate+1.5%"
+        "【180P】呪文ぼうそう率+1.5%": "【180P】Haywire Rate +1.5%"
     },
     "2718": {
         "clarity_nt_char_920": "clarity_nt_char_920"
@@ -8262,7 +8262,7 @@
         "【200P】霊脈魔法陣の射程強化+2m": ""
     },
     "2755": {
-        "【190P】呪文ぼうそう率+1.5%": "【190P】Spell Critical Rate+1.5%"
+        "【190P】呪文ぼうそう率+1.5%": "【190P】Haywire Rate +1.5%"
     },
     "2756": {
         "clarity_nt_char_932": "clarity_nt_char_932"
