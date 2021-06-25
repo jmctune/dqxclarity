@@ -55005,13 +55005,13 @@
         "ふくのかみ達が|出現するカード|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
     },
     "18336": {
-        "エステラが|求めるココア|ＨＰが回復する": ""
+        "エステラが|求めるココア|ＨＰが回復する": "Cocoa you give|to Estella|restores her HP."
     },
     "18337": {
         "clarity_nt_char_5775": "clarity_nt_char_5775"
     },
     "18338": {
-        "ヒストリカが|求めるココア|ＨＰが回復する": ""
+        "ヒストリカが|求めるココア|ＨＰが回復する": "Cocoa you give|to Historica|restores her HP."
     },
     "18339": {
         "グレイツェルが|求めるココア|ＨＰが回復する": "Cocoa you give|to Greitzel|restores her HP."
@@ -55032,7 +55032,7 @@
         "clarity_nt_char_5778": "clarity_nt_char_5778"
     },
     "18345": {
-        "リィンが|求めるココア|ＨＰが回復する": ""
+        "リィンが|求めるココア|ＨＰが回復する": "Cocoa you give|to Lin restores|her HP."
     },
     "18346": {
         "魔勇者が|求めるココア|ＨＰが回復する": "Cocoa you give|to Demon Hero|restores his HP."
