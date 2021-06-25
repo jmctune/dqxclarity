@@ -1065,7 +1065,7 @@
         "ゴールドを使う特技の威力アップ(試合無効)": ""
     },
     "356": {
-        "たまに　同じ特技を2回行う(試合無効)": ""
+        "たまに　同じ特技を2回行う(試合無効)": "Rarely Use Skill Twice (No PvP)"
     },
     "357": {
         "地中にいる　魔物の姿が見える": ""
@@ -6717,7 +6717,7 @@
         "clarity_nt_char_739": "clarity_nt_char_739"
     },
     "2240": {
-        "こうげき力としゅび力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
+        "こうげき力としゅび力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Attack & Defense +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "2241": {
         "clarity_nt_char_740": "clarity_nt_char_740"
