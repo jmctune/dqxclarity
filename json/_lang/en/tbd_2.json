@@ -1479,7 +1479,7 @@
         "雷の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Lightning Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "494": {
-        "氷の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Water Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "氷の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Ice Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "495": {
         "瀕死時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でリベホイム": ""
@@ -2130,7 +2130,7 @@
         "clarity_nt_char_238": "clarity_nt_char_238"
     },
     "711": {
-        "氷の特技の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Water Skill Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "氷の特技の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Ice Skill Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "712": {
         "clarity_nt_char_239": "clarity_nt_char_239"
@@ -2178,31 +2178,31 @@
         "clarity_nt_char_246": "clarity_nt_char_246"
     },
     "727": {
-        "風の呪文の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "風の呪文の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Wind Spell Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "728": {
         "clarity_nt_char_247": "clarity_nt_char_247"
     },
     "729": {
-        "雷の呪文の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "雷の呪文の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Lightning Spell Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "730": {
         "clarity_nt_char_248": "clarity_nt_char_248"
     },
     "731": {
-        "土の呪文の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "土の呪文の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Earth Spell Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "732": {
         "clarity_nt_char_249": "clarity_nt_char_249"
     },
     "733": {
-        "闇の呪文の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "闇の呪文の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Dark Spell Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "734": {
         "clarity_nt_char_250": "clarity_nt_char_250"
     },
     "735": {
-        "光の呪文の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "光の呪文の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Light Speed Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "736": {
         "clarity_nt_char_251": "clarity_nt_char_251"
@@ -2307,37 +2307,37 @@
         "呪文の回復量 +<%sB_renkin1>(試合無効)": ""
     },
     "770": {
-        "炎の攻撃ダメージ +0.5%": ""
+        "炎の攻撃ダメージ +0.5%": "Fire Attack Damage +0.5%"
     },
     "771": {
         "clarity_nt_char_261": "clarity_nt_char_261"
     },
     "772": {
-        "氷の攻撃ダメージ +0.5%": ""
+        "氷の攻撃ダメージ +0.5%": "Ice Attack Damage +0.5%"
     },
     "773": {
         "clarity_nt_char_262": "clarity_nt_char_262"
     },
     "774": {
-        "風の攻撃ダメージ +0.5%": ""
+        "風の攻撃ダメージ +0.5%": "Wind Attack Damage +0.5%"
     },
     "775": {
         "clarity_nt_char_263": "clarity_nt_char_263"
     },
     "776": {
-        "雷の攻撃ダメージ +0.5%": ""
+        "雷の攻撃ダメージ +0.5%": "Lightning Attack Damage +0.5%"
     },
     "777": {
         "clarity_nt_char_264": "clarity_nt_char_264"
     },
     "778": {
-        "土の攻撃ダメージ +0.5%": ""
+        "土の攻撃ダメージ +0.5%": "Earth Attack Damage +0.5%"
     },
     "779": {
         "clarity_nt_char_265": "clarity_nt_char_265"
     },
     "780": {
-        "闇の攻撃ダメージ +0.5%": ""
+        "闇の攻撃ダメージ +0.5%": "Dark Attack Damage +0.5%"
     },
     "781": {
         "clarity_nt_char_266": "clarity_nt_char_266"
