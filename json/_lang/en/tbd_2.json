@@ -513,7 +513,7 @@
         "光属性攻撃": ""
     },
     "172": {
-        "試合時のみダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "試合時のみダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "PvP Only Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "173": {
         "clarity_nt_char_60": "clarity_nt_char_60"
@@ -1929,7 +1929,7 @@
         "光の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Light Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "644": {
-        "試合時のみダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "試合時のみダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "PvP Only Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "645": {
         "clarity_nt_char_216": "clarity_nt_char_216"
@@ -5775,7 +5775,7 @@
         "clarity_nt_char_642": "clarity_nt_char_642"
     },
     "1926": {
-        "試合時のみダメージ +？%": "PvP Damage +?%"
+        "試合時のみダメージ +？%": "PvP Only Damage +?%"
     },
     "1927": {
         "攻撃時 ？%でテンション下げ": "Tension Up On Attack ?%"
