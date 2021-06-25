@@ -363,7 +363,7 @@
         "clarity_nt_char_43": "clarity_nt_char_43"
     },
     "122": {
-        "土ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": ""
+        "土ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": "Earth Damage Down <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "123": {
         "clarity_nt_char_44": "clarity_nt_char_44"
@@ -1755,7 +1755,7 @@
         "clarity_nt_char_195": "clarity_nt_char_195"
     },
     "586": {
-        "土ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": ""
+        "土ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": "Earth Damage Down <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "587": {
         "clarity_nt_char_196": "clarity_nt_char_196"
@@ -4896,7 +4896,7 @@
         "clarity_nt_char_559": "clarity_nt_char_559"
     },
     "1633": {
-        "土ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": ""
+        "土ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": "Earth Damage Down <%sB_renkin1> (<%+dB_renkindiff>)%"
     },
     "1634": {
         "clarity_nt_char_560": "clarity_nt_char_560"
