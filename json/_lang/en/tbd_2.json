@@ -1158,7 +1158,7 @@
         "転生モンスター出現率 1.1倍(試合無効)": ""
     },
     "387": {
-        "ごくまれに　魔物がエンゼルハーツを落とす": "Monsters will drop Angel Hearts very rarely"
+        "ごくまれに　魔物がエンゼルハーツを落とす": "Monsters rarely drop Angel Hearts"
     },
     "388": {
         "clarity_nt_char_126": "clarity_nt_char_126"
@@ -5013,7 +5013,7 @@
         "転びガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Fall Guard <%sB_renkin1> (<%+dB_renkindiff>)%"
     },
     "1672": {
-        "しばりガード <%sB_renkin1>(<%+dB_renkindiff>)%": ""
+        "しばりガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Restraint Guard <%sB_renkin1> (<%+dB_renkindiff>)%"
     },
     "1673": {
         "clarity_nt_char_576": "clarity_nt_char_576"
@@ -5244,7 +5244,7 @@
         "転びガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Fall Guard <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1749": {
-        "しばりガード <%+dB_renkin>（<%+dB_renkindiff>）%": ""
+        "しばりガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Restraint Guard <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1750": {
         "clarity_nt_char_596": "clarity_nt_char_596"
