@@ -1458,7 +1458,7 @@
         "トラシュカで　ふっとび距離軽減": "Knockback reduced during Trashka"
     },
     "487": {
-        "トラシュカで　魚を取ると移動速度アップ": "Move speed up from fish in Trashka"
+        "トラシュカで　魚を取ると移動速度アップ": "Move speed up from fish during Trashka"
     },
     "488": {
         "会心と暴走ダメージ +<%sB_renkin1>(試合無効)": "Critical/Haywire Damage +<%sB_renkin1> (No PvP)"
@@ -1566,7 +1566,7 @@
         "clarity_nt_char_171": "clarity_nt_char_171"
     },
     "523": {
-        "トラシュカで　鳥をとると一定時間無敵": "Get invincibility from birds in Trashka"
+        "トラシュカで　鳥をとると一定時間無敵": "Get invuln. from birds during Trashka"
     },
     "524": {
         "clarity_nt_char_172": "clarity_nt_char_172"
@@ -1611,7 +1611,7 @@
         "clarity_nt_char_176": "clarity_nt_char_176"
     },
     "538": {
-        "トラシュカで　光る物入手で一定時間無敵": "Get invincibility from shinies in Trashka"
+        "トラシュカで　光る物入手で一定時間無敵": "Get invuln. from shinies during Trashka"
     },
     "539": {
         "攻撃時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で急所突き": "Weak Point Attack <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
