@@ -1,21 +1,21 @@
 {
     "1": {
-        "こうげき力を <%dB_renkin1>上げる 錬金レシピ。": ""
+        "こうげき力を <%dB_renkin1>上げる 錬金レシピ。": "An alchemy recipe that increases Attack by <%dB_renkin1>."
     },
     "2": {
         "clarity_nt_char_1": "clarity_nt_char_1"
     },
     "3": {
-        "しゅび力を <%dB_renkin1>上げる 錬金レシピ。": ""
+        "しゅび力を <%dB_renkin1>上げる 錬金レシピ。": "An alchemy recipe that increases Defense by <%dB_renkin1>."
     },
     "4": {
-        "きようさを <%dB_renkin1>上げる 錬金レシピ。": ""
+        "きようさを <%dB_renkin1>上げる 錬金レシピ。": "An alchemy recipe that increases Deftness by <%dB_renkin1>."
     },
     "5": {
-        "すばやさを <%dB_renkin1>上げる 錬金レシピ。": ""
+        "すばやさを <%dB_renkin1>上げる 錬金レシピ。": "An alchemy recipe that increases Agility by <%dB_renkin1>."
     },
     "6": {
-        "おしゃれさを <%dB_renkin1>上げる 錬金レシピ。": ""
+        "おしゃれさを <%dB_renkin1>上げる 錬金レシピ。": "An alchemy recipe that increases Style by <%dB_renkin1>."
     },
     "7": {
         "clarity_nt_char_2": "clarity_nt_char_2"
