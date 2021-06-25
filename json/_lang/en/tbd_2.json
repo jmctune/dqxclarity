@@ -84,10 +84,10 @@
         "混乱をガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": "An alchemy recipe that increases|confusion resistance by <%dB_renkin1>%."
     },
     "29": {
-        "封印をガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": "A recipe that increases seal|resistance by <%dB_renkin1>%."
+        "封印をガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": "An alchemy recipe that increases|seal resistance by <%dB_renkin1>%."
     },
     "30": {
-        "幻惑をガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": ""
+        "幻惑をガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": "An alchemy recipe that increases|blind resistance by <%dB_renkin1>%."
     },
     "31": {
         "呪いをガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": ""
