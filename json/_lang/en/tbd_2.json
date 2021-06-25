@@ -60,7 +60,7 @@
         "clarity_nt_char_6": "clarity_nt_char_6"
     },
     "21": {
-        "攻撃した時に ＭＰを吸収する確率が|<%dB_renkin1>.<%dB_renkin2> %上がる 錬金レシピ。": "A recipe that increases the rate of absorbing|MP when attacking by <%dB_renkin1>.<%dB_renkin2>%."
+        "攻撃した時に ＭＰを吸収する確率が|<%dB_renkin1>.<%dB_renkin2> %上がる 錬金レシピ。": "An alchemy recipe that increases the rate of|absorbing MP when attacking by <%dB_renkin1>.<%dB_renkin2>%."
     },
     "22": {
         "ブレス系の攻撃で受けるダメージを |<%dB_renkin1> %軽減する 錬金レシピ。": "A recipe that reduces breath damage|taken by <%dB_renkin1>%."
@@ -84,7 +84,7 @@
         "混乱をガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": "A recipe that increases confusion|resistance by <%dB_renkin1>%."
     },
     "29": {
-        "封印をガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": ""
+        "封印をガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": "A recipe that increases seal|resistance by <%dB_renkin1>%."
     },
     "30": {
         "幻惑をガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": ""
