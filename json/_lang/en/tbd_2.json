@@ -351,7 +351,7 @@
         "clarity_nt_char_41": "clarity_nt_char_41"
     },
     "118": {
-        "風ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": ""
+        "風ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": "Wind Damage Down <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "119": {
         "clarity_nt_char_42": "clarity_nt_char_42"
@@ -369,7 +369,7 @@
         "clarity_nt_char_44": "clarity_nt_char_44"
     },
     "124": {
-        "闇ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": ""
+        "闇ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": "Dark Damage Down <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "125": {
         "clarity_nt_char_45": "clarity_nt_char_45"
@@ -1761,7 +1761,7 @@
         "clarity_nt_char_196": "clarity_nt_char_196"
     },
     "588": {
-        "闇ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": ""
+        "闇ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": "Dark Damage Down <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "589": {
         "clarity_nt_char_197": "clarity_nt_char_197"
@@ -4902,7 +4902,7 @@
         "clarity_nt_char_560": "clarity_nt_char_560"
     },
     "1635": {
-        "闇ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": ""
+        "闇ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": "Dark Damage Down <%sB_renkin1> (<%+dB_renkindiff>)%"
     },
     "1636": {
         "clarity_nt_char_561": "clarity_nt_char_561"
@@ -5148,7 +5148,7 @@
         "clarity_nt_char_585": "clarity_nt_char_585"
     },
     "1717": {
-        "闇ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": ""
+        "闇ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": "Dark Damage Down <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1718": {
         "clarity_nt_char_586": "clarity_nt_char_586"
@@ -5583,7 +5583,7 @@
         "土ダメージ ？%減": "Earth Damage Down -?%"
     },
     "1862": {
-        "闇ダメージ ？%減": "Dark Damage -?%"
+        "闇ダメージ ？%減": "Dark Damage Down ?%"
     },
     "1863": {
         "光ダメージ ？%減": "Light Damage -?%"
