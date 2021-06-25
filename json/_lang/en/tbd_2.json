@@ -474,7 +474,7 @@
         "clarity_nt_char_57": "clarity_nt_char_57"
     },
     "159": {
-        "しばりガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "しばりガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Restraint Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "160": {
         "笑いガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
@@ -1032,7 +1032,7 @@
         "転びガード +100%": "Fall Guard+100%"
     },
     "345": {
-        "しばりガード +100%": ""
+        "しばりガード +100%": "Restraint Guard +100%"
     },
     "346": {
         "clarity_nt_char_113": "clarity_nt_char_113"
@@ -1743,7 +1743,7 @@
         "clarity_nt_char_193": "clarity_nt_char_193"
     },
     "582": {
-        "風ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": ""
+        "風ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": "Wind Damage Down <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "583": {
         "clarity_nt_char_194": "clarity_nt_char_194"
@@ -1842,7 +1842,7 @@
         "clarity_nt_char_207": "clarity_nt_char_207"
     },
     "615": {
-        "しばりガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "しばりガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Restraint Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "616": {
         "笑いガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
@@ -4884,7 +4884,7 @@
         "clarity_nt_char_557": "clarity_nt_char_557"
     },
     "1629": {
-        "風ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": ""
+        "風ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": "Wind Damage Down <%sB_renkin1> (<%+dB_renkindiff>)%"
     },
     "1630": {
         "clarity_nt_char_558": "clarity_nt_char_558"
@@ -5130,7 +5130,7 @@
         "clarity_nt_char_582": "clarity_nt_char_582"
     },
     "1711": {
-        "風ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": ""
+        "風ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": "Wind Damage Down <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1712": {
         "clarity_nt_char_583": "clarity_nt_char_583"
@@ -5574,7 +5574,7 @@
         "氷ダメージ ？%減": "Ice Damage Down ?%"
     },
     "1859": {
-        "風ダメージ ？%減": "Wind Damage -?%"
+        "風ダメージ ？%減": "Wind Damage Down ?%"
     },
     "1860": {
         "雷ダメージ ？%減": "Lightning Dmg. Down ?%"
