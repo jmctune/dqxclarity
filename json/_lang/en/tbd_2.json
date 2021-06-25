@@ -690,7 +690,7 @@
         "ゾンビ系に ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
     },
     "231": {
-        "植物系に ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "植物系に ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Damage to Plant-types +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "232": {
         "clarity_nt_char_74": "clarity_nt_char_74"
@@ -1968,7 +1968,7 @@
         "ゾンビ系に ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
     },
     "657": {
-        "植物系に ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "植物系に ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Damage to Plant-types +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "658": {
         "clarity_nt_char_220": "clarity_nt_char_220"
@@ -2271,7 +2271,7 @@
         "こうげき魔力とかいふく魔力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Mag. Might/Mending +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "758": {
-        "会心率と呪文暴走率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "会心率と呪文暴走率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "All Critical Rate +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "759": {
         "clarity_nt_char_258": "clarity_nt_char_258"
@@ -2421,7 +2421,7 @@
         "clarity_nt_char_277": "clarity_nt_char_277"
     },
     "808": {
-        "会心率と呪文暴走率 +1.0%": ""
+        "会心率と呪文暴走率 +1.0%": "All Critical Rate +1.0%"
     },
     "809": {
         "踊らされガード +100%": "Dance Guard +100%"
@@ -6198,7 +6198,7 @@
         "clarity_nt_char_684": "clarity_nt_char_684"
     },
     "2067": {
-        "会心率と呪文暴走率 +？%": ""
+        "会心率と呪文暴走率 +？%": "All Critical Rate +?%"
     },
     "2068": {
         "盾装備で　開戦時  ？%で盾ガ率上昇": "Battle Start With Shield Shield Guard Rate Up ?%"
