@@ -14538,7 +14538,7 @@
         "clarity_nt_char_1645": "clarity_nt_char_1645"
     },
     "4847": {
-        "（伝承効果をつけよう）": ""
+        "（伝承効果をつけよう）": "(No Traditional Effect)"
     },
     "4848": {
         "伝承効果": "Bonus"
@@ -17115,7 +17115,7 @@
         "clarity_nt_char_1947": "clarity_nt_char_1947"
     },
     "5706": {
-        "（追加効果をつけよう）": ""
+        "（追加効果をつけよう）": "(No Additional Effect)"
     },
     "5707": {
         "<%sM_status> <%+.1fM_dcpt1><%sM_percent>": ""
