@@ -1752,7 +1752,7 @@
         "<%sL_ACCE_ITEM><%sL_PLUSNUM_3>に <%sL_KOUKA>が 付いた！": ""
     },
     "585": {
-        "合成レベルが <%dL_RANK>に あがった！": ""
+        "合成レベルが <%dL_RANK>に あがった！": "Synthesis Level raised to <%dL_RANK>!"
     },
     "586": {
         "clarity_nt_char_189": "clarity_nt_char_189"
@@ -1761,7 +1761,7 @@
         "ラッキー合成！ 合成素材が なくならなかった！": ""
     },
     "588": {
-        "<%dL_EXP> Pの合成経験値を かくとく！": ""
+        "<%dL_EXP> Pの合成経験値を かくとく！": "Received <%dL_EXP> Synthesis EXP!"
     },
     "589": {
         "clarity_nt_char_190": "clarity_nt_char_190"
