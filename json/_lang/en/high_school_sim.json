@@ -3759,7 +3759,7 @@
         "常時|ちからが|１０増える": "Always|+10 strength|"
     },
     "1254": {
-        "常時|こうげき魔力が|１０増える": ""
+        "常時|こうげき魔力が|１０増える": "Always|+10 Magical Might|"
     },
     "1255": {
         "clarity_nt_char_408": "clarity_nt_char_408"
@@ -3771,13 +3771,13 @@
         "clarity_nt_char_409": "clarity_nt_char_409"
     },
     "1258": {
-        "常時|こうげき魔力が|２０増える": ""
+        "常時|こうげき魔力が|２０増える": "Always|+20 Magical Might|"
     },
     "1259": {
         "clarity_nt_char_410": "clarity_nt_char_410"
     },
     "1260": {
-        "常時|こうげき魔力が|３０増える": ""
+        "常時|こうげき魔力が|３０増える": "Always|+30 Magical Might|"
     },
     "1261": {
         "clarity_nt_char_411": "clarity_nt_char_411"
@@ -7782,7 +7782,7 @@
         "clarity_nt_char_852": "clarity_nt_char_852"
     },
     "2595": {
-        "常時|こうげき魔力が|１００増える": ""
+        "常時|こうげき魔力が|１００増える": "Always|+100 Magical Might|"
     },
     "2596": {
         "悪魔のカオで|周りの敵を攻撃し|ショックを与える": ""
@@ -7854,7 +7854,7 @@
         "氷のやいばで|敵１体を攻撃": ""
     },
     "2619": {
-        "常時|こうげき魔力が|４０増える": ""
+        "常時|こうげき魔力が|４０増える": "Always|+40 Magical Might|"
     },
     "2620": {
         "clarity_nt_char_860": "clarity_nt_char_860"
