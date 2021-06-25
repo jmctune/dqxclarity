@@ -102,10 +102,10 @@
         "敵に見とれる確率が <%dB_renkin1> %下がる 錬金レシピ。": "An alchemy recipe that decreases the|rate in which enemies surprise you by <%dB_renkin1>%."
     },
     "35": {
-        "ＭＰ吸収をガードする確率が|<%dB_renkin1> %上がる 錬金レシピ。": ""
+        "ＭＰ吸収をガードする確率が|<%dB_renkin1> %上がる 錬金レシピ。": "An alchemy recipe that increases MP|Absorb resistance by <%dB_renkin1>%."
     },
     "36": {
-        "じゅもんや とくぎの使用時|ＭＰを消費しない確率が|<%dB_renkin1> %上がる 錬金レシピ。": ""
+        "じゅもんや とくぎの使用時|ＭＰを消費しない確率が|<%dB_renkin1> %上がる 錬金レシピ。": "An alchemy recipe that increases the|rate at which your spells and skills will|not consume MP by <%dB_renkin1>%."
     },
     "37": {
         "攻撃した時 <%dB_renkin1> %の確率で|相手を眠らせるようになる 錬金レシピ。": ""
