@@ -21,25 +21,25 @@
         "clarity_nt_char_2": "clarity_nt_char_2"
     },
     "8": {
-        "こうげき魔力を <%dB_renkin1>上げる 錬金レシピ。": ""
+        "こうげき魔力を <%dB_renkin1>上げる 錬金レシピ。": "An alchemy recipe that increases Mag. Might by <%dB_renkin1>."
     },
     "9": {
-        "かいふく魔力を <%dB_renkin1>上げる 錬金レシピ。": ""
+        "かいふく魔力を <%dB_renkin1>上げる 錬金レシピ。": "An alchemy recipe that increases Mag. Mending by <%dB_renkin1>."
     },
     "10": {
-        "さいだいＨＰが <%dB_renkin1>ふえる 錬金レシピ。": ""
+        "さいだいＨＰが <%dB_renkin1>ふえる 錬金レシピ。": "An alchemy recipe that increases Max HP by <%dB_renkin1>."
     },
     "11": {
-        "さいだいＭＰが <%dB_renkin1>ふえる 錬金レシピ。": ""
+        "さいだいＭＰが <%dB_renkin1>ふえる 錬金レシピ。": "An alchemy recipe that increases Max MP by <%dB_renkin1>."
     },
     "12": {
-        "おもさが <%dB_renkin1>ふえる 錬金レシピ。": ""
+        "おもさが <%dB_renkin1>ふえる 錬金レシピ。": "An alchemy recipe that increases Weight by <%dB_renkin1>."
     },
     "13": {
         "clarity_nt_char_3": "clarity_nt_char_3"
     },
     "14": {
-        "身かわし率を <%dB_renkin1>.<%dB_renkin2> %上げる 錬金レシピ。": ""
+        "身かわし率を <%dB_renkin1>.<%dB_renkin2> %上げる 錬金レシピ。": "An alchemy recipe that increases Dodge Rate by <%dB_renkin1>."
     },
     "15": {
         "clarity_nt_char_4": "clarity_nt_char_4"
