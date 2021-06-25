@@ -381,7 +381,7 @@
         "clarity_nt_char_46": "clarity_nt_char_46"
     },
     "128": {
-        "ＭＰ吸収ガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "ＭＰ吸収ガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "MP Absorb Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "129": {
         "clarity_nt_char_47": "clarity_nt_char_47"
@@ -609,7 +609,7 @@
         "見とれるガード +100%": ""
     },
     "204": {
-        "ＭＰ吸収ガード +100%": ""
+        "ＭＰ吸収ガード +100%": "MP Absorb Guard +100%"
     },
     "205": {
         "魅了ガード +100%": ""
@@ -1773,7 +1773,7 @@
         "clarity_nt_char_198": "clarity_nt_char_198"
     },
     "592": {
-        "ＭＰ吸収ガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "ＭＰ吸収ガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "MP Absorb Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "593": {
         "clarity_nt_char_199": "clarity_nt_char_199"
