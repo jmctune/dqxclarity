@@ -357,7 +357,7 @@
         "clarity_nt_char_42": "clarity_nt_char_42"
     },
     "120": {
-        "雷ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": ""
+        "雷ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": "Lightning Dmg Down <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "121": {
         "clarity_nt_char_43": "clarity_nt_char_43"
@@ -1749,7 +1749,7 @@
         "clarity_nt_char_194": "clarity_nt_char_194"
     },
     "584": {
-        "雷ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": ""
+        "雷ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": "Lightning Dmg Down <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "585": {
         "clarity_nt_char_195": "clarity_nt_char_195"
@@ -4890,7 +4890,7 @@
         "clarity_nt_char_558": "clarity_nt_char_558"
     },
     "1631": {
-        "雷ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": ""
+        "雷ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": "Lightning Dmg Down <%sB_renkin1>(<%+dB_renkindiff>)%"
     },
     "1632": {
         "clarity_nt_char_559": "clarity_nt_char_559"
@@ -5136,7 +5136,7 @@
         "clarity_nt_char_583": "clarity_nt_char_583"
     },
     "1713": {
-        "雷ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": ""
+        "雷ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": "Lightning Dmg Down <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1714": {
         "clarity_nt_char_584": "clarity_nt_char_584"
@@ -5577,7 +5577,7 @@
         "風ダメージ ？%減": "Wind Damage -?%"
     },
     "1860": {
-        "雷ダメージ ？%減": "Lightning Damage -?%"
+        "雷ダメージ ？%減": "Lightning Dmg. Down ?%"
     },
     "1861": {
         "土ダメージ ？%減": "Earth Damage Down -?%"
