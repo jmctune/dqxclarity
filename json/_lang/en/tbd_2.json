@@ -5391,31 +5391,31 @@
         "土の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Earth Skill Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1798": {
-        "闇の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "闇の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Dark Skill Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1799": {
-        "光の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "光の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Light Skill Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1800": {
-        "炎の呪文の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "炎の呪文の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Fire Spell Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1801": {
-        "氷の呪文の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "氷の呪文の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Ice Spell Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1802": {
-        "風の呪文の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "風の呪文の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Wind Spell Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1803": {
-        "雷の呪文の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "雷の呪文の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Lightning Spell Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1804": {
-        "土の呪文の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "土の呪文の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Earth Spell Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1805": {
-        "闇の呪文の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "闇の呪文の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Dark Spell Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1806": {
-        "光の呪文の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "光の呪文の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Light Spell Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1807": {
         "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%で必殺チャージ": "Battle Start Special Charge <%dB_renkin> (<%+dB_renkindiff>)%"
