@@ -99,7 +99,7 @@
         "１回休みをガードする確率が|<%dB_renkin1> %上がる 錬金レシピ。": "An alchemy recipe that increases the|chance to guard one incapacitation effect by <%dB_renkin1>%."
     },
     "34": {
-        "敵に見とれる確率が <%dB_renkin1> %下がる 錬金レシピ。": ""
+        "敵に見とれる確率が <%dB_renkin1> %下がる 錬金レシピ。": "An alchemy recipe that decreases the|rate in which enemies surprise you by <%dB_renkin1>%."
     },
     "35": {
         "ＭＰ吸収をガードする確率が|<%dB_renkin1> %上がる 錬金レシピ。": ""
