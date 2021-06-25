@@ -8805,7 +8805,7 @@
         "ロックする": ""
     },
     "2936": {
-        "ロックを解除する": ""
+        "ロックを解除する": "Unlock"
     },
     "2937": {
         "clarity_nt_char_1015": "clarity_nt_char_1015"
@@ -8814,7 +8814,7 @@
         "手紙を書き写す": ""
     },
     "2939": {
-        "削除する": ""
+        "削除する": "Delete"
     },
     "2940": {
         "clarity_nt_char_1016": "clarity_nt_char_1016"
@@ -8991,13 +8991,13 @@
         "もどったスキルポイント": "Returned Skill Points"
     },
     "2998": {
-        "ロックをする": ""
+        "ロックをする": "Lock"
     },
     "2999": {
         "clarity_nt_char_1039": "clarity_nt_char_1039"
     },
     "3000": {
-        "ロックを解除": ""
+        "ロックを解除": "Unlock"
     },
     "3001": {
         "clarity_nt_char_1040": "clarity_nt_char_1040"
@@ -17808,7 +17808,7 @@
         "clarity_nt_char_2024": "clarity_nt_char_2024"
     },
     "5937": {
-        "マイコーデを削除する": ""
+        "マイコーデを削除する": "Delete Glamour"
     },
     "5938": {
         "clarity_nt_char_2025": "clarity_nt_char_2025"
