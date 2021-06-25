@@ -2343,49 +2343,49 @@
         "clarity_nt_char_266": "clarity_nt_char_266"
     },
     "782": {
-        "光の攻撃ダメージ +0.5%": ""
+        "光の攻撃ダメージ +0.5%": "Light Attack Damage +0.5%"
     },
     "783": {
         "clarity_nt_char_267": "clarity_nt_char_267"
     },
     "784": {
-        "炎の攻撃ダメージ +1%": ""
+        "炎の攻撃ダメージ +1%": "Fire Attack Damage +1%"
     },
     "785": {
         "clarity_nt_char_268": "clarity_nt_char_268"
     },
     "786": {
-        "氷の攻撃ダメージ +1%": ""
+        "氷の攻撃ダメージ +1%": "Ice Attack Damage +1%"
     },
     "787": {
         "clarity_nt_char_269": "clarity_nt_char_269"
     },
     "788": {
-        "風の攻撃ダメージ +1%": ""
+        "風の攻撃ダメージ +1%": "Wind Attack Damage +1%"
     },
     "789": {
         "clarity_nt_char_270": "clarity_nt_char_270"
     },
     "790": {
-        "雷の攻撃ダメージ +1%": ""
+        "雷の攻撃ダメージ +1%": "Lightning Attack Damage +1%"
     },
     "791": {
         "clarity_nt_char_271": "clarity_nt_char_271"
     },
     "792": {
-        "土の攻撃ダメージ +1%": ""
+        "土の攻撃ダメージ +1%": "Earth Attack Damage +1%"
     },
     "793": {
         "clarity_nt_char_272": "clarity_nt_char_272"
     },
     "794": {
-        "闇の攻撃ダメージ +1%": ""
+        "闇の攻撃ダメージ +1%": "Dark Attack Damage +1%"
     },
     "795": {
         "clarity_nt_char_273": "clarity_nt_char_273"
     },
     "796": {
-        "光の攻撃ダメージ +1%": ""
+        "光の攻撃ダメージ +1%": "Light Attack Damage +1%"
     },
     "797": {
         "clarity_nt_char_274": "clarity_nt_char_274"
@@ -5376,19 +5376,19 @@
         "開戦時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%で聖女の守り": "Battle Start Alma Mater <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1793": {
-        "炎の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "炎の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Fire Skill Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1794": {
-        "氷の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "氷の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Ice Skill Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1795": {
-        "風の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "風の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Wind Skill Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1796": {
-        "雷の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "雷の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Lightning Skill Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1797": {
-        "土の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "土の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Earth Skill Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1798": {
         "闇の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
