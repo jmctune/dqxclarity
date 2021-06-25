@@ -90,10 +90,10 @@
         "幻惑をガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": "An alchemy recipe that increases|blind resistance by <%dB_renkin1>%."
     },
     "31": {
-        "呪いをガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": ""
+        "呪いをガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": "An alchemy recipe that increases|curse resistance by <%dB_renkin1>%."
     },
     "32": {
-        "即死をガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": ""
+        "即死をガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": "An alchemy recipe that increases|death resistance by <%dB_renkin1>%."
     },
     "33": {
         "１回休みをガードする確率が|<%dB_renkin1> %上がる 錬金レシピ。": ""
