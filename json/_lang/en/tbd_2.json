@@ -1485,7 +1485,7 @@
         "瀕死時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でリベホイム": ""
     },
     "496": {
-        "全ての属性攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "全ての属性攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "All Attribute Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "497": {
         "clarity_nt_char_161": "clarity_nt_char_161"
@@ -1581,7 +1581,7 @@
         "死亡時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で攻撃力アップが消えない": "On Death Keep Attack Up Effect <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "528": {
-        "全ての風攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "全ての風攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "All Wind Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "529": {
         "ザオラルの射程距離 +1.5ｍ": ""
@@ -2481,19 +2481,19 @@
         "clarity_nt_char_285": "clarity_nt_char_285"
     },
     "828": {
-        "全ての炎攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "全ての炎攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "All Fire Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "829": {
-        "全ての氷攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "全ての氷攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "All Ice Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "830": {
-        "全ての雷攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "全ての雷攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "All Lightning Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "831": {
-        "全ての土攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "全ての土攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "All Earth Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "832": {
-        "全ての闇攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "全ての闇攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "All Dark Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "833": {
         "全ての光攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
