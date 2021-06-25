@@ -75,10 +75,10 @@
         "clarity_nt_char_8": "clarity_nt_char_8"
     },
     "26": {
-        "眠りをガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": "A recipe that increases sleep resistance|by <%dB_renkin1>%."
+        "眠りをガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": "An alchemy recipe that increases|sleep resistance by <%dB_renkin1>%."
     },
     "27": {
-        "マヒをガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": "A recipe that increases paralysis|resistance by <%dB_renkin1>%."
+        "マヒをガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": "An alchemy recipe that increases|paralysis resistance by <%dB_renkin1>%."
     },
     "28": {
         "混乱をガードする確率が <%dB_renkin1> %上がる 錬金レシピ。": "A recipe that increases confusion|resistance by <%dB_renkin1>%."
