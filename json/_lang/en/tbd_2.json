@@ -345,7 +345,7 @@
         "clarity_nt_char_40": "clarity_nt_char_40"
     },
     "116": {
-        "氷ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": ""
+        "氷ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": "Ice Damage Down <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "117": {
         "clarity_nt_char_41": "clarity_nt_char_41"
@@ -1737,7 +1737,7 @@
         "clarity_nt_char_192": "clarity_nt_char_192"
     },
     "580": {
-        "氷ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": ""
+        "氷ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": "Ice Damage <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "581": {
         "clarity_nt_char_193": "clarity_nt_char_193"
@@ -4878,7 +4878,7 @@
         "clarity_nt_char_556": "clarity_nt_char_556"
     },
     "1627": {
-        "氷ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": ""
+        "氷ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": "Ice Damage Down <%sB_renkin1> (<%+dB_renkindiff>)%"
     },
     "1628": {
         "clarity_nt_char_557": "clarity_nt_char_557"
@@ -5124,7 +5124,7 @@
         "clarity_nt_char_581": "clarity_nt_char_581"
     },
     "1709": {
-        "氷ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": ""
+        "氷ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": "Ice Damage Down <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1710": {
         "clarity_nt_char_582": "clarity_nt_char_582"
@@ -5142,7 +5142,7 @@
         "clarity_nt_char_584": "clarity_nt_char_584"
     },
     "1715": {
-        "土ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": ""
+        "土ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": "Earth Damage Down <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1716": {
         "clarity_nt_char_585": "clarity_nt_char_585"
@@ -5571,7 +5571,7 @@
         "炎ダメージ ？%減": "Fire Damage Down ?%"
     },
     "1858": {
-        "氷ダメージ ？%減": "Ice Damage -?%"
+        "氷ダメージ ？%減": "Ice Damage Down ?%"
     },
     "1859": {
         "風ダメージ ？%減": "Wind Damage -?%"
@@ -5580,7 +5580,7 @@
         "雷ダメージ ？%減": "Lightning Damage -?%"
     },
     "1861": {
-        "土ダメージ ？%減": "Earth Damage -?%"
+        "土ダメージ ？%減": "Earth Damage Down -?%"
     },
     "1862": {
         "闇ダメージ ？%減": "Dark Damage -?%"
