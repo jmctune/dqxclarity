@@ -1455,7 +1455,7 @@
         "トラシュカで　海に落ちても一度だけ復活": ""
     },
     "486": {
-        "トラシュカで　ふっとび距離軽減": ""
+        "トラシュカで　ふっとび距離軽減": "Knockback reduced during Trashka"
     },
     "487": {
         "トラシュカで　魚を取ると移動速度アップ": "Move speed up from fish in Trashka"
@@ -1566,7 +1566,7 @@
         "clarity_nt_char_171": "clarity_nt_char_171"
     },
     "523": {
-        "トラシュカで　鳥をとると一定時間無敵": ""
+        "トラシュカで　鳥をとると一定時間無敵": "Get invincibility from birds in Trashka"
     },
     "524": {
         "clarity_nt_char_172": "clarity_nt_char_172"
