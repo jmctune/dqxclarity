@@ -3759,7 +3759,7 @@
         "常時|ちからが|１０増える": "Always|+10 strength|"
     },
     "1254": {
-        "常時|こうげき魔力が|１０増える": "Always|+10 Magical Might|"
+        "常時|こうげき魔力が|１０増える": "Always|+10 Magical|Might"
     },
     "1255": {
         "clarity_nt_char_408": "clarity_nt_char_408"
@@ -3771,13 +3771,13 @@
         "clarity_nt_char_409": "clarity_nt_char_409"
     },
     "1258": {
-        "常時|こうげき魔力が|２０増える": "Always|+20 Magical Might|"
+        "常時|こうげき魔力が|２０増える": "Always|+20 Magical|Might"
     },
     "1259": {
         "clarity_nt_char_410": "clarity_nt_char_410"
     },
     "1260": {
-        "常時|こうげき魔力が|３０増える": "Always|+30 Magical Might|"
+        "常時|こうげき魔力が|３０増える": "Always|+30 Magical|Might"
     },
     "1261": {
         "clarity_nt_char_411": "clarity_nt_char_411"
@@ -7653,7 +7653,7 @@
         "clarity_nt_char_837": "clarity_nt_char_837"
     },
     "2552": {
-        "常時|かいふく魔力が|１００増える": "Always|+100 magical|mending."
+        "常時|かいふく魔力が|１００増える": "Always|+100 Magical|Mending."
     },
     "2553": {
         "仲間ひとりの|攻撃力を|かなり上げる": "Significantly|raise attack|of an ally."
@@ -7701,7 +7701,7 @@
         "状態異常の耐性を|下げる２回連続の|ブーメラン攻撃": ""
     },
     "2568": {
-        "常時|かいふく魔力が|８０増える": "Always|+80 magical|mending."
+        "常時|かいふく魔力が|８０増える": "Always|+80 Magical|Mending."
     },
     "2569": {
         "clarity_nt_char_844": "clarity_nt_char_844"
