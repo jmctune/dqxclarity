@@ -189,7 +189,7 @@
         "銀河の加護を得る 錬金レシピ。": ""
     },
     "64": {
-        "こうげき力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
+        "こうげき力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Attack +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "65": {
         "しゅび力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Defense +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
@@ -1371,7 +1371,7 @@
         "行動時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で早詠みの杖": "Faster Caster On Action <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "458": {
-        "両手剣装備時　こうげき力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
+        "両手剣装備時　こうげき力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "With 2H Sword Attack +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "459": {
         "clarity_nt_char_148": "clarity_nt_char_148"
@@ -1401,7 +1401,7 @@
         "弓装備時　呪文と特技の回復量 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
     },
     "468": {
-        "オノ装備時　こうげき力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
+        "オノ装備時　こうげき力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "With Axe Attack +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "469": {
         "オノ装備時　全ての攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "With Axe All Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
@@ -4776,7 +4776,7 @@
         "clarity_nt_char_551": "clarity_nt_char_551"
     },
     "1593": {
-        "こうげき力 <%sB_renkin1>(<%+dB_renkindiff>)": ""
+        "こうげき力 <%sB_renkin1>(<%+dB_renkindiff>)": "Attack <%sB_renkin1> (<%+dB_renkindiff>)"
     },
     "1594": {
         "clarity_nt_char_552": "clarity_nt_char_552"
@@ -5028,7 +5028,7 @@
         "レアドロップ率 <%sB_renkin1>.<%sB_renkin2>(<%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2>)倍": ""
     },
     "1677": {
-        "こうげき力 <%+dB_renkin>（<%+dB_renkindiff>）": ""
+        "こうげき力 <%+dB_renkin>（<%+dB_renkindiff>）": "Attack <%+dB_renkin> (<%+dB_renkindiff>)"
     },
     "1678": {
         "clarity_nt_char_577": "clarity_nt_char_577"
@@ -5469,7 +5469,7 @@
         "clarity_nt_char_614": "clarity_nt_char_614"
     },
     "1824": {
-        "こうげき力 +？": ""
+        "こうげき力 +？": "Attack +?"
     },
     "1825": {
         "clarity_nt_char_615": "clarity_nt_char_615"
