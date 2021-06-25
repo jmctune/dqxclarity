@@ -27669,7 +27669,7 @@
         "<%sM_renkinkouka> <%sM_renkin_atai>": ""
     },
     "9224": {
-        "錬金効果数：<%sM_num>": "Alch. Effects: <%nM_num>"
+        "錬金効果数：<%sM_num>": "Alch. Effects: <%sM_num>"
     },
     "9225": {
         "難易度：<%sM_iraisyo_min>～<%sM_iraisyo_max>": "Diff.:<%sM_iraisyo_min>～<%sM_iraisyo_max>"
