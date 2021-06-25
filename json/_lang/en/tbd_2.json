@@ -633,7 +633,7 @@
         "敵にあたえるダメージが<%sB_renkin1>になる": ""
     },
     "212": {
-        "メタル系に +<%sB_renkin1>ダメージ": ""
+        "メタル系に +<%sB_renkin1>ダメージ": "Metal-type Damage +<%sB_renkin1>"
     },
     "213": {
         "clarity_nt_char_68": "clarity_nt_char_68"
@@ -1167,7 +1167,7 @@
         "敵を倒すと <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でためる(試合無効)": "Tension On Enemy Defeat <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>% (No PvP)"
     },
     "390": {
-        "メタル系モンスター出現率 1.1倍(試合無効)": ""
+        "メタル系モンスター出現率 1.1倍(試合無効)": "Metal-type Monster Appearance Rate 1.1x (No PvP)"
     },
     "391": {
         "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%マホトラのころも": "Battle Start Magic Cloak <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -6828,7 +6828,7 @@
         "clarity_nt_char_747": "clarity_nt_char_747"
     },
     "2277": {
-        "メタル系モンスター出現率 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>倍": ""
+        "メタル系モンスター出現率 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>倍": "Metal-type Monster Appearance Rate <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>x"
     },
     "2278": {
         "clarity_nt_char_748": "clarity_nt_char_748"
