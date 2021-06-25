@@ -108,16 +108,16 @@
         "じゅもんや とくぎの使用時|ＭＰを消費しない確率が|<%dB_renkin1> %上がる 錬金レシピ。": "An alchemy recipe that increases the|rate at which your spells and skills will|not consume MP by <%dB_renkin1>%."
     },
     "37": {
-        "攻撃した時 <%dB_renkin1> %の確率で|相手を眠らせるようになる 錬金レシピ。": ""
+        "攻撃した時 <%dB_renkin1> %の確率で|相手を眠らせるようになる 錬金レシピ。": "An alchemy recipe that gives your|attacks a <%dB_renkin1>% chance to apply sleep."
     },
     "38": {
-        "攻撃した時 <%dB_renkin1> %の確率で|相手の こうげき力を下げる 錬金レシピ。": ""
+        "攻撃した時 <%dB_renkin1> %の確率で|相手の こうげき力を下げる 錬金レシピ。": "An alchemy recipe that gives your|attacks a <%dB_renkin1>% chance to reduce attack."
     },
     "39": {
         "clarity_nt_char_9": "clarity_nt_char_9"
     },
     "40": {
-        "攻撃した時 <%dB_renkin1> %の確率で|相手の しゅび力を下げる 錬金レシピ。": ""
+        "攻撃した時 <%dB_renkin1> %の確率で|相手の しゅび力を下げる 錬金レシピ。": "An alchemy recipe that gives your|attacks a <%dB_renkin1>% chance to reduce defense."
     },
     "41": {
         "移動するスピードが <%dB_renkin1>.<%dB_renkin2> %速くなる 錬金レシピ。": ""
