@@ -8796,7 +8796,7 @@
         "clarity_nt_char_1014": "clarity_nt_char_1014"
     },
     "2933": {
-        "会心の一撃のダメージと|呪文暴走のダメージが５増える": "Critical/spell critical damage increased|by 5."
+        "会心の一撃のダメージと|呪文暴走のダメージが５増える": "Critical/haywire damage increased|by 5."
     },
     "2934": {
         "clarity_nt_char_1015": "clarity_nt_char_1015"
@@ -8850,7 +8850,7 @@
         "仲間のテンションアップ時１％の確率で|自分のテンションもアップする": "Chance for your tension to increase when|a party member's does increased by 1%."
     },
     "2951": {
-        "２％の確率で|会心の一撃と呪文暴走を無効化する": "2% chance to nullify a|critical and spell critical."
+        "２％の確率で|会心の一撃と呪文暴走を無効化する": "2% chance to nullify a|critical and haywire."
     },
     "2952": {
         "ふっとびガードが２％増える": "Knockback resist increased by 2%."
