@@ -339,7 +339,7 @@
         "clarity_nt_char_39": "clarity_nt_char_39"
     },
     "114": {
-        "炎ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": ""
+        "炎ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": "Fire Damage Down <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "115": {
         "clarity_nt_char_40": "clarity_nt_char_40"
@@ -1731,7 +1731,7 @@
         "clarity_nt_char_191": "clarity_nt_char_191"
     },
     "578": {
-        "炎ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": ""
+        "炎ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": "Fire Damage Down <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "579": {
         "clarity_nt_char_192": "clarity_nt_char_192"
@@ -4872,7 +4872,7 @@
         "見とれるガード <%sB_renkin1>(<%+dB_renkindiff>)%": ""
     },
     "1625": {
-        "炎ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": ""
+        "炎ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": "Fire Damage Down <%sB_renkin1>(<%+dB_renkindiff>)%"
     },
     "1626": {
         "clarity_nt_char_556": "clarity_nt_char_556"
@@ -5118,7 +5118,7 @@
         "どくガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Poison Guard <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1707": {
-        "炎ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": ""
+        "炎ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": "Fire Damage Down <%+dB_renkin> (<%+dB_renkindiff>)"
     },
     "1708": {
         "clarity_nt_char_581": "clarity_nt_char_581"
@@ -5568,7 +5568,7 @@
         "魅了ガード +？%": "Charm Guard +?%"
     },
     "1857": {
-        "炎ダメージ ？%減": "Fire Damage -?%"
+        "炎ダメージ ？%減": "Fire Damage Down ?%"
     },
     "1858": {
         "氷ダメージ ？%減": "Ice Damage -?%"
