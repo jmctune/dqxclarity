@@ -5304,7 +5304,7 @@
         "clarity_nt_char_602": "clarity_nt_char_602"
     },
     "1769": {
-        "植物系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "植物系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Damage to Plant-types <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1770": {
         "怪人系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
