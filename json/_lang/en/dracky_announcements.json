@@ -1371,13 +1371,13 @@
         "clarity_nt_char_149": "clarity_nt_char_149"
     },
     "458": {
-        "旅のコンシェルジュに ストーリー報酬が送られています": "Story rewards have been sent to your travel concierge"
+        "旅のコンシェルジュに ストーリー報酬が送られています": "Story reward has been sent to the concierge."
     },
     "459": {
         "clarity_nt_char_150": "clarity_nt_char_150"
     },
     "460": {
-        "旅のコンシェルジュに ストーリー報酬が送られました": "The story reward has been sent to your travel concierge"
+        "旅のコンシェルジュに ストーリー報酬が送られました": "Story reward has been sent to the concierge."
     },
     "461": {
         "すごろくに さそわれました！": ""
@@ -1503,7 +1503,7 @@
         "clarity_nt_char_163": "clarity_nt_char_163"
     },
     "502": {
-        "旅のコンシェルジュに イベント報酬が送られています": "The event rewards have been sent to your travel concierge."
+        "旅のコンシェルジュに イベント報酬が送られています": "Event reward has been sent to the concierge."
     },
     "503": {
         "旅のコンシェルジュに イベント報酬が送られました": "Event rewards have been sent to the travel concierge"
@@ -1548,13 +1548,13 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eが<%sC_JOB>で<%dC_H>時間 仲間に加わった!": "\\s<%sC_PC>\\m<%sC_ID>\\e joined the party as <%sC_JOB> for <%dC_H> hr.!"
     },
     "517": {
-        "旅のコンシェルジュに 経験値が預けられました": "Your EXP has been entrusted to our travel concierge"
+        "旅のコンシェルジュに 経験値が預けられました": "EXP has been entrusted to the concierge."
     },
     "518": {
         "clarity_nt_char_169": "clarity_nt_char_169"
     },
     "519": {
-        "旅のコンシェルジュに 経験値が預けられています": "Your EXP has been entrusted to the travel concierge"
+        "旅のコンシェルジュに 経験値が預けられています": "EXP has been entrusted to the concierge."
     },
     "520": {
         "毛皮に包まれた氷が 熱で 解けはじめました！": ""
@@ -1872,7 +1872,7 @@
         "clarity_nt_char_201": "clarity_nt_char_201"
     },
     "625": {
-        "報酬が 旅のコンシェルジュに送られました！": "Your reward has been sent to the travel concierge!"
+        "報酬が 旅のコンシェルジュに送られました！": "Reward has been sent to the concierge!"
     },
     "626": {
         "捧げたアイテムが無効のため 迷宮の外に出ます": "Leave the maze due to an invalid offering."
