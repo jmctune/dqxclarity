@@ -1899,7 +1899,7 @@
         "clarity_nt_char_214": "clarity_nt_char_214"
     },
     "634": {
-        "<speed=0>処理しています…。|しばらく　お待ちください。<break>": ""
+        "<speed=0>処理しています…。|しばらく　お待ちください。<break>": "<speed=0>Processing... Please wait.<break>"
     },
     "635": {
         "<speed=0>手紙を　削除しました。": ""
