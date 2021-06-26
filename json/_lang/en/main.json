@@ -5697,7 +5697,7 @@
         "clarity_nt_char_649": "clarity_nt_char_649"
     },
     "1900": {
-        "送り先を追加": ""
+        "送り先を追加": "Add Recipient"
     },
     "1901": {
         "clarity_nt_char_650": "clarity_nt_char_650"
@@ -11181,7 +11181,7 @@
         "[日付順]": ""
     },
     "3728": {
-        "[送り先順]": ""
+        "[送り先順]": "[By Recipient]"
     },
     "3729": {
         "clarity_nt_char_1279": "clarity_nt_char_1279"
