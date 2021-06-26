@@ -8667,7 +8667,7 @@
         "<speed=0><pc>は　あと　<%dW_ADWAIT>分|このマッチングに　参加できません。": ""
     },
     "2890": {
-        "おもいで私書箱で　みれる手紙を|すべて選択した状態にしますが|よろしいですか？<yesno 2><break>": ""
+        "おもいで私書箱で　みれる手紙を|すべて選択した状態にしますが|よろしいですか？<yesno 2><break>": "This will select all letters viewable in|your PO Box. Is this okay?<yesno 2><break>"
     },
     "2891": {
         "この手紙には　荷物も一緒に　届いているため|削除することができません。": ""
