@@ -2928,7 +2928,7 @@
         "<speed=0>|七夕の短冊がないため|願い事を書くことが　できません。|七夕の短冊は　道具屋で買うことができます。": ""
     },
     "977": {
-        "<speed=0>願い事は　この内容で　よろしいですか？<yesno><close>": ""
+        "<speed=0>願い事は　この内容で　よろしいですか？<yesno><close>": "<speed=0>Are you satisfied with this wish?<yesno><close>"
     },
     "978": {
         "clarity_nt_char_330": "clarity_nt_char_330"
@@ -2937,7 +2937,7 @@
         "<speed=0>願い事を書いた短冊を　かざりつけました！": ""
     },
     "980": {
-        "<speed=0>書くのをやめると　書いた願い事は|元に戻りますが　よろしいですか？<yesno><close>": ""
+        "<speed=0>書くのをやめると　書いた願い事は|元に戻りますが　よろしいですか？<yesno><close>": "<speed=0>If you stop now, whatever you|wrote won't be saved. Is this okay?<yesno><close>"
     },
     "981": {
         "clarity_nt_char_331": "clarity_nt_char_331"
