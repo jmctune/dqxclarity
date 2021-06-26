@@ -288,7 +288,7 @@
         "clarity_nt_char_29": "clarity_nt_char_29"
     },
     "97": {
-        "<speed=0><%sM_pc>は|すでに　仲間から　はずれています。": ""
+        "<speed=0><%sM_pc>は|すでに　仲間から　はずれています。": "<speed=0><%sM_pc> has already been removed."
     },
     "98": {
         "clarity_nt_char_30": "clarity_nt_char_30"
@@ -990,7 +990,7 @@
         "<speed=0>戦っている仲間がいるため|いまは　パーティを解散できません。": ""
     },
     "331": {
-        "<speed=0>いまは　<%sM_pc>を|仲間から　はずせません。": ""
+        "<speed=0>いまは　<%sM_pc>を|仲間から　はずせません。": "<speed=0><%sM_pc> can't be removed from the party|right now."
     },
     "332": {
         "<speed=0><%sM_pc>は　すでに　仲間に入っています。": ""
