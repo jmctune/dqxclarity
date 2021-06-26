@@ -1110,7 +1110,7 @@
         "<speed=0>サポート仲間の　HPを0にします。|本当に　よろしいですか？<yesno 2><close>": ""
     },
     "371": {
-        "強制的に戦闘終了|逃げても仲間から|はずれません": ""
+        "強制的に戦闘終了|逃げても仲間から|はずれません": "Even if you end the|battle and escape, you|won't leave your party."
     },
     "372": {
         "clarity_nt_char_128": "clarity_nt_char_128"
