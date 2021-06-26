@@ -3585,7 +3585,7 @@
         "<%sM_World> 旅人バザー": "<%sM_World> Trav. Bazaar"
     },
     "1196": {
-        "残<%nM_Time>時間": "<%nM_Time> Hr. Left"
+        "残<%nM_Time>時間": "<%nM_Time> hr. Left"
     },
     "1197": {
         "自作（前節）": ""
@@ -10368,7 +10368,7 @@
         "１日につき": "1 per day"
     },
     "3457": {
-        "あと<%3dM_hhh>時間": "<%3dM_hhh> Hrs. Left"
+        "あと<%3dM_hhh>時間": "<%3dM_hhh> hr. Left"
     },
     "3458": {
         "clarity_nt_char_1192": "clarity_nt_char_1192"
@@ -15588,7 +15588,7 @@
         "clarity_nt_char_1765": "clarity_nt_char_1765"
     },
     "5197": {
-        "<%nM_hhh>時間": "<%nM_hhh> Hr."
+        "<%nM_hhh>時間": "<%nM_hhh> hr."
     },
     "5198": {
         "シャッフル": ""
@@ -21252,7 +21252,7 @@
         "clarity_nt_char_2400": "clarity_nt_char_2400"
     },
     "7085": {
-        "あと <%dM_00>時間<%02dM_mm>分": "<%dM_00> hr.<%02dM_mm> m. Left"
+        "あと <%dM_00>時間<%02dM_mm>分": "<%dM_00> hr. <%02dM_mm> m. Left"
     },
     "7086": {
         "clarity_nt_char_2401": "clarity_nt_char_2401"
