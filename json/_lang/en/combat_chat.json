@@ -6438,7 +6438,7 @@
         "clarity_nt_char_745": "clarity_nt_char_745"
     },
     "2147": {
-        "<%sB_TARGET>の ヒミツをみやぶった。": ""
+        "<%sB_TARGET>の ヒミツをみやぶった。": "<%sB_TARGET>'s secret was revealed!"
     },
     "2148": {
         "clarity_nt_char_746": "clarity_nt_char_746"
@@ -6516,7 +6516,7 @@
         "clarity_nt_char_753": "clarity_nt_char_753"
     },
     "2173": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ヒミツをみやぶった。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ヒミツをみやぶった。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's secret was revealed!"
     },
     "2174": {
         "しかし \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eには つうじなかった！": ""
