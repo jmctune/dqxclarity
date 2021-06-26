@@ -222,7 +222,7 @@
         "職人せつび": "Craftsman"
     },
     "75": {
-        "武器鍛冶": ""
+        "武器鍛冶": "Weaponsmith"
     },
     "76": {
         "clarity_nt_char_25": "clarity_nt_char_25"
@@ -762,6 +762,6 @@
         "clarity_nt_char_86": "clarity_nt_char_86"
     },
     "255": {
-        "武器鍛冶２": ""
+        "武器鍛冶２": "Weaponsmith 2"
     }
 }
