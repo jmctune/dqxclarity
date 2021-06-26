@@ -27177,7 +27177,7 @@
         "チーム・フレンドランキング": ""
     },
     "9060": {
-        "<%2dM_ddd>日 <%2dM_hhh>時間 <%2dM_mm>分": "<%2dM_ddd>j<%2dM_hhh>h<%2dM_mm>m"
+        "<%2dM_ddd>日 <%2dM_hhh>時間 <%2dM_mm>分": "<%2dM_ddd> d. <%2dM_hhh> hr. <%2dM_mm> m."
     },
     "9061": {
         "職業<%sM_job>": "Class<%sM_job>"
@@ -28377,13 +28377,13 @@
         "clarity_nt_char_3183": "clarity_nt_char_3183"
     },
     "9460": {
-        "<%2dM_dd>　日<%2dM_hh>時間": ""
+        "<%2dM_dd>　日<%2dM_hh>時間": "<%2dM_dd> d. <%2dM_hh> hr."
     },
     "9461": {
         "clarity_nt_char_3184": "clarity_nt_char_3184"
     },
     "9462": {
-        "<%2dM_hh>時間<%2dM_mm>　分": ""
+        "<%2dM_hh>時間<%2dM_mm>　分": "<%2dM_hh> hr. <%2dM_mm> m."
     },
     "9463": {
         "clarity_nt_char_3185": "clarity_nt_char_3185"
@@ -28398,7 +28398,7 @@
         "４.床下水そうか別宅の水そうにさかながいる": "4.Fish in the water under floor/in the water in other house"
     },
     "9467": {
-        "<%2dM_dd>日 <%2dM_hh>時間": ""
+        "<%2dM_dd>日 <%2dM_hh>時間": "<%2dM_dd> d. <%2dM_hh> hr."
     },
     "9468": {
         "clarity_nt_char_3187": "clarity_nt_char_3187"
@@ -28608,7 +28608,7 @@
         "clarity_nt_char_3212": "clarity_nt_char_3212"
     },
     "9537": {
-        "制限時間": ""
+        "制限時間": "Time Limit"
     },
     "9538": {
         "clarity_nt_char_3213": "clarity_nt_char_3213"
@@ -29205,7 +29205,7 @@
         "clarity_nt_char_3279": "clarity_nt_char_3279"
     },
     "9736": {
-        "時間制限なし": ""
+        "時間制限なし": "No Time Limit"
     },
     "9737": {
         "clarity_nt_char_3280": "clarity_nt_char_3280"
@@ -30252,7 +30252,7 @@
         "キラキラの魔法": ""
     },
     "10085": {
-        "残りプレイ時間": "Playtime Left"
+        "残りプレイ時間": "Play Time Left"
     },
     "10086": {
         "バトル操作設定": "Battle Control"
