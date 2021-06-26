@@ -1152,7 +1152,7 @@
         "clarity_nt_char_122": "clarity_nt_char_122"
     },
     "385": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>玉座の間": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>玉座の間": "<%sW_MAP_NAME><%sW_DELIMITER>Throne Room"
     },
     "386": {
         "<%sW_MAP_NAME><%sW_DELIMITER>エントランス": "<%sW_MAP_NAME><%sW_DELIMITER>Entrance"
@@ -5364,10 +5364,10 @@
         "魔幻宮殿 入口": ""
     },
     "1789": {
-        "玉座の間 入口": ""
+        "玉座の間 入口": "Throne Room Ent."
     },
     "1790": {
-        "玉座の間 出口": ""
+        "玉座の間 出口": "Throne Room Exit"
     },
     "1791": {
         "<%sW_MAP_NAME><%sW_DELIMITER>ログハウス": "<%sW_MAP_NAME><%sW_DELIMITER>Log Cabin"
