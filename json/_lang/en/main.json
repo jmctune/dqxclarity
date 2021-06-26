@@ -19509,7 +19509,7 @@
         "clarity_nt_char_2216": "clarity_nt_char_2216"
     },
     "6504": {
-        "チャット開催時間を確認": ""
+        "チャット開催時間を確認": "Check Chat Held Time"
     },
     "6505": {
         "誘われ中": ""
@@ -21216,7 +21216,7 @@
         "仮装メイク術の効果": ""
     },
     "7073": {
-        "<%3dM_ddd>日 <%3dM_hhh>時間": ""
+        "<%3dM_ddd>日 <%3dM_hhh>時間": "<%3dM_ddd> d. <%3dM_hhh> hr."
     },
     "7074": {
         "clarity_nt_char_2396": "clarity_nt_char_2396"
@@ -21252,13 +21252,13 @@
         "clarity_nt_char_2400": "clarity_nt_char_2400"
     },
     "7085": {
-        "あと <%dM_00>時間<%02dM_mm>分": ""
+        "あと <%dM_00>時間<%02dM_mm>分": "<%dM_00> hr.<%02dM_mm> m. Left"
     },
     "7086": {
         "clarity_nt_char_2401": "clarity_nt_char_2401"
     },
     "7087": {
-        "<%2dM_hh>時間 <%2dM_mm>分": "<%2dM_hh>h<%2dM_mm>m"
+        "<%2dM_hh>時間 <%2dM_mm>分": "<%2dM_hh> hr. <%2dM_mm> m."
     },
     "7088": {
         "clarity_nt_char_2402": "clarity_nt_char_2402"
@@ -21465,7 +21465,7 @@
         "ちゃん": "-chan"
     },
     "7156": {
-        "<%dM_ddd>日 <%dM_hhh>時間": ""
+        "<%dM_ddd>日 <%dM_hhh>時間": "<%dM_ddd> d. <%dM_hhh> hr."
     },
     "7157": {
         "clarity_nt_char_2426": "clarity_nt_char_2426"
@@ -21711,7 +21711,7 @@
         "レジェンド": ""
     },
     "7238": {
-        "<%3dM_ddd>日 <%3dM_hhh>時間 <%2dM_mm>分": "<%3dM_ddd>j<%3dM_hhh>h<%2dM_mm>m"
+        "<%3dM_ddd>日 <%3dM_hhh>時間 <%2dM_mm>分": "<%3dM_ddd> d. <%3dM_hhh> hr. <%2dM_mm> m."
     },
     "7239": {
         "？？？？？？？？？": "?????????"
