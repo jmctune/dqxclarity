@@ -36,19 +36,19 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>５階": "<%sW_MAP_NAME><%sW_DELIMITER>5F"
     },
     "13": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>６階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>６階": "<%sW_MAP_NAME><%sW_DELIMITER>6F"
     },
     "14": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>７階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>７階": "<%sW_MAP_NAME><%sW_DELIMITER>7F"
     },
     "15": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下１階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下１階": "<%sW_MAP_NAME><%sW_DELIMITER>B1F"
     },
     "16": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下２階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下２階": "<%sW_MAP_NAME><%sW_DELIMITER>B2F"
     },
     "17": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下３階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下３階": "<%sW_MAP_NAME><%sW_DELIMITER>B3F"
     },
     "18": {
         "<%sW_MAP_NAME><%sW_DELIMITER>中層": "<%sW_MAP_NAME><%sW_DELIMITER>Middle"
@@ -429,7 +429,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>町人長屋": ""
     },
     "144": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>木工ギルド ２階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>木工ギルド ２階": "<%sW_MAP_NAME><%sW_DELIMITER>Woodworking Guild 2F"
     },
     "145": {
         "獅子門への道": ""
