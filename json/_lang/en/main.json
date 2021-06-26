@@ -2646,7 +2646,7 @@
         "撮った枚数": ""
     },
     "883": {
-        "<%nM_maisuu>枚": ""
+        "<%nM_maisuu>枚": "<%nM_maisuu>"
     },
     "884": {
         "送られた日": ""
@@ -4038,7 +4038,7 @@
         "clarity_nt_char_455": "clarity_nt_char_455"
     },
     "1347": {
-        "<%dM_coin> 枚": ""
+        "<%dM_coin> 枚": "<%dM_coin>"
     },
     "1348": {
         "clarity_nt_char_456": "clarity_nt_char_456"
@@ -8553,7 +8553,7 @@
         "件": ""
     },
     "2852": {
-        "写真の完成までに　少し時間がかかります。|『思い出アルバム』に　写真がない時は|時間を置いてから　もう一度　ご確認ください。": ""
+        "写真の完成までに　少し時間がかかります。|『思い出アルバム』に　写真がない時は|時間を置いてから　もう一度　ご確認ください。": "It will take some time for the photo|to register. If you don't see it yet, check your|Album again after a while."
     },
     "2853": {
         "clarity_nt_char_987": "clarity_nt_char_987"
