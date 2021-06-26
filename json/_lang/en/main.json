@@ -21717,7 +21717,7 @@
         "？？？？？？？？？": "?????????"
     },
     "7240": {
-        "<%dM_ddd>日 <%dM_hhh>時間 <%dM_mm>分": ""
+        "<%dM_ddd>日 <%dM_hhh>時間 <%dM_mm>分": "<%dM_ddd> d. <%dM_hhh> hr. <%dM_mm> m."
     },
     "7241": {
         "clarity_nt_char_2455": "clarity_nt_char_2455"
@@ -21738,7 +21738,7 @@
         "歌姫の回廊": "Diva's Gallery"
     },
     "7247": {
-        "<%dM_hhh>時間<%dM_mm>分": ""
+        "<%dM_hhh>時間<%dM_mm>分": "<%dM_hhh> hr. <%dM_mm> m."
     },
     "7248": {
         "clarity_nt_char_2457": "clarity_nt_char_2457"
@@ -23565,13 +23565,13 @@
         "clarity_nt_char_2656": "clarity_nt_char_2656"
     },
     "7856": {
-        "次の助言まで　あと<%2dM_h>時間<%2dM_m>分": ""
+        "次の助言まで　あと<%2dM_h>時間<%2dM_m>分": "Next Advice In <%2dM_h> hr. <%2dM_m> m."
     },
     "7857": {
         "clarity_nt_char_2657": "clarity_nt_char_2657"
     },
     "7858": {
-        "次の助言まで　あと<%2dM_d>日<%2dM_h>時間": ""
+        "次の助言まで　あと<%2dM_d>日<%2dM_h>時間": "Next Advice In <%2dM_d> d. <%2dM_h> hr."
     },
     "7859": {
         "clarity_nt_char_2658": "clarity_nt_char_2658"
@@ -24933,7 +24933,7 @@
         "飾り石": ""
     },
     "8312": {
-        "※日付と時間を書いてください。": ""
+        "※日付と時間を書いてください。": "*Please write the date and time."
     },
     "8313": {
         "変換後の宝珠ポイント合計": ""
@@ -25566,7 +25566,7 @@
         "未満！": ""
     },
     "8523": {
-        "時間！": ""
+        "時間！": "Hours!"
     },
     "8524": {
         "扉が閉じるまで": ""
@@ -26373,7 +26373,7 @@
         "clarity_nt_char_2976": "clarity_nt_char_2976"
     },
     "8792": {
-        "空・時間": ""
+        "空・時間": "Sky - Time"
     },
     "8793": {
         "clarity_nt_char_2977": "clarity_nt_char_2977"
@@ -26436,7 +26436,7 @@
         "clarity_nt_char_2983": "clarity_nt_char_2983"
     },
     "8813": {
-        "時間の流れ": ""
+        "時間の流れ": "Flow of Time"
     },
     "8814": {
         "稼働中": ""
