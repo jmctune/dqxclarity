@@ -96,7 +96,7 @@
         "仲間から　抜けますか？<yesno><close>": ""
     },
     "33": {
-        "<speed=0><%sM_pc>を　仲間から　はずして|よろしいですか？<yesno><close>": ""
+        "<speed=0><%sM_pc>を　仲間から　はずして|よろしいですか？<yesno><close>": "<speed=0>Remove <%sM_pc> from the party?<yesno><close>"
     },
     "34": {
         "<speed=0>いまは　<%sM_pc>は|パーティリーダーに　なれません。": ""
@@ -114,7 +114,7 @@
         "clarity_nt_char_11": "clarity_nt_char_11"
     },
     "39": {
-        "<speed=0><%sM_pc>を　仲間から　はずしました。": ""
+        "<speed=0><%sM_pc>を　仲間から　はずしました。": "<speed=0><%sM_pc> was removed from the party."
     },
     "40": {
         "<speed=0><%sM_pc>を　パーティリーダーにしますか？<yesno><close>": "<speed=0>Make <%sM_pc> the party leader?<yesno><close>"
