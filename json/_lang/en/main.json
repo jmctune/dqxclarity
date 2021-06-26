@@ -4383,7 +4383,7 @@
         "clarity_nt_char_493": "clarity_nt_char_493"
     },
     "1462": {
-        "職人どうぐ": ""
+        "職人どうぐ": "Materials"
     },
     "1463": {
         "行き先選択": "Destination"
@@ -4440,25 +4440,25 @@
         "他の丁目に行く": "Off to another block"
     },
     "1481": {
-        "首アクセ": "Neck Acc."
+        "首アクセ": "Neck"
     },
     "1482": {
         "clarity_nt_char_500": "clarity_nt_char_500"
     },
     "1483": {
-        "他アクセ": "Other Acc."
+        "他アクセ": "Other"
     },
     "1484": {
         "clarity_nt_char_501": "clarity_nt_char_501"
     },
     "1485": {
-        "顔アクセ": "Face Acc."
+        "顔アクセ": "Face"
     },
     "1486": {
         "clarity_nt_char_502": "clarity_nt_char_502"
     },
     "1487": {
-        "指アクセ": "Ring Acc."
+        "指アクセ": "Ring"
     },
     "1488": {
         "clarity_nt_char_503": "clarity_nt_char_503"
@@ -10581,7 +10581,7 @@
         "，": ""
     },
     "3528": {
-        "職業の証": "Class Proof"
+        "職業の証": "Proof"
     },
     "3529": {
         "clarity_nt_char_1217": "clarity_nt_char_1217"
@@ -12324,19 +12324,19 @@
         " ほうしゅう（大成功限定）": ""
     },
     "4109": {
-        "腰アクセ": "Wrist Acc."
+        "腰アクセ": "Wrist"
     },
     "4110": {
         "clarity_nt_char_1406": "clarity_nt_char_1406"
     },
     "4111": {
-        "胸アクセ": "Chest Acc."
+        "胸アクセ": "Chest"
     },
     "4112": {
         "clarity_nt_char_1407": "clarity_nt_char_1407"
     },
     "4113": {
-        "札アクセ": "Tag Acc."
+        "札アクセ": "Card"
     },
     "4114": {
         "clarity_nt_char_1408": "clarity_nt_char_1408"
