@@ -4305,7 +4305,7 @@
         "生きている仲間の|呪文で復活します": ""
     },
     "1436": {
-        "<speed=0>|撮影枚数が　いっぱいです。|写真を保存すると　一番古い写真が|上書きされますが　よろしいですか？|<yesno><close>": ""
+        "<speed=0>|撮影枚数が　いっぱいです。|写真を保存すると　一番古い写真が|上書きされますが　よろしいですか？|<yesno><close>": "<speed=0>|Your Photo Album is full. If you save this photo, the|oldest photo will be overwritten. Is this okay?|<yesno><close>"
     },
     "1437": {
         "<speed=0>|写真の保存を　中断しますか？|<color_yellow>※保存を中断すると　写真が保存されない|可能性があります。<yesno2><close>": ""

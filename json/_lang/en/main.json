@@ -5817,7 +5817,7 @@
         "カテゴリ７_1": ""
     },
     "1940": {
-        "保存枚数 <%dM_albumRest>/<%dM_albumAll>枚": ""
+        "保存枚数 <%dM_albumRest>/<%dM_albumAll>枚": "No. Saved <%dM_albumRest>/<%dM_albumAll>"
     },
     "1941": {
         "clarity_nt_char_663": "clarity_nt_char_663"
@@ -7725,7 +7725,7 @@
         "単位：": ""
     },
     "2576": {
-        "<speed=0>|撮影枚数が　いっぱいです。|写真を保存すると　一番古い写真が|上書きされますが　よろしいですか？|<yesno><close>": ""
+        "<speed=0>|撮影枚数が　いっぱいです。|写真を保存すると　一番古い写真が|上書きされますが　よろしいですか？|<yesno><close>": "<speed=0>|Your Photo Album is full. If you save this photo, the|oldest photo will be overwritten. Is this okay?|<yesno><close>"
     },
     "2577": {
         "チャット非表示": "Hide Chat"
