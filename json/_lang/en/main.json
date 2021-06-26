@@ -2850,13 +2850,13 @@
         "１時間": "1 h."
     },
     "951": {
-        "１時間３０分": "1h and 30min"
+        "１時間３０分": "1h 30min"
     },
     "952": {
         "clarity_nt_char_317": "clarity_nt_char_317"
     },
     "953": {
-        "２時間": "2 hrs"
+        "２時間": "2 hr."
     },
     "954": {
         "ノーマル": "Normal"
@@ -2895,7 +2895,7 @@
         "プロフィールをみる": ""
     },
     "966": {
-        "時間をつたえる": ""
+        "時間をつたえる": "Tell Time"
     },
     "967": {
         "なかまにはいる": "Enter Party"
@@ -3168,7 +3168,7 @@
         "<%sM_Syougou><%sM_Hankaku><%sM_pc> の 戦いのきろく": "<%sM_Syougou><%sM_Hankaku><%sM_pc>'s battle record"
     },
     "1057": {
-        "<%dM_hhhhh>時間<%02dM_mm>分": ""
+        "<%dM_hhhhh>時間<%02dM_mm>分": "<%dM_hhhhh>h. <%02dM_mm>m."
     },
     "1058": {
         "clarity_nt_char_357": "clarity_nt_char_357"
@@ -3237,7 +3237,7 @@
         "clarity_nt_char_366": "clarity_nt_char_366"
     },
     "1080": {
-        "<%dM_hhh>時間": "<%dM_hhh>h"
+        "<%dM_hhh>時間": "<%dM_hhh>h."
     },
     "1081": {
         "職業名６字分 Lv９９": ""
@@ -3585,7 +3585,7 @@
         "<%sM_World> 旅人バザー": "<%sM_World> Trav. Bazaar"
     },
     "1196": {
-        "残<%nM_Time>時間": "<%nM_Time> Hrs Left"
+        "残<%nM_Time>時間": "<%nM_Time> Hr. Left"
     },
     "1197": {
         "自作（前節）": ""
@@ -5019,7 +5019,7 @@
         "カ": ""
     },
     "1674": {
-        "１時間以内": "<1h"
+        "１時間以内": "Within 1h"
     },
     "1675": {
         "よく使うセリフ": "Frequent Phrases"
@@ -6132,7 +6132,7 @@
         "clarity_nt_char_699": "clarity_nt_char_699"
     },
     "2045": {
-        "１時間だけなら": "For 1 hr."
+        "１時間だけなら": "1 hr. Only"
     },
     "2046": {
         "<speed=0><%sM_pc>を|フレンドリストから　はずせませんでした。|時間を置いて　もう一度お試しください。": ""
@@ -6348,7 +6348,7 @@
         "パラメータ": "Stats"
     },
     "2117": {
-        "２時間だけなら": "For 2 hr."
+        "２時間だけなら": "2 hr. Only"
     },
     "2118": {
         "売ったり捨てたり できません": "Can't Be Sold/Discarded"
