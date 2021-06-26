@@ -1674,10 +1674,10 @@
         "<%sM_pc>の記事に <%dM_GOLD>ゴールド おひねりした！": ""
     },
     "559": {
-        "１０連ふくびきで <%sM_item>を <%dM_item_num>個 手に入れた！": ""
+        "１０連ふくびきで <%sM_item>を <%dM_item_num>個 手に入れた！": "Received <%dM_item_num> <%sM_item> from the 10 draw!"
     },
     "560": {
-        "１０連ふくびきで <%sM_item>を 手に入れた！": ""
+        "１０連ふくびきで <%sM_item>を 手に入れた！": "Received <%sM_item> from the 10 draw!"
     },
     "561": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eが 遊びにきました。": "\\s<%sC_PC>\\m<%sC_ID>\\e came to play."
@@ -2598,13 +2598,13 @@
         "clarity_nt_char_287": "clarity_nt_char_287"
     },
     "867": {
-        "『<%sL_BATOEN_NAME>』のバトエンを 手に入れた！": ""
+        "『<%sL_BATOEN_NAME>』のバトエンを 手に入れた！": "Received the \"<%sL_BATOEN_NAME>\" Batoen!"
     },
     "868": {
         "clarity_nt_char_288": "clarity_nt_char_288"
     },
     "869": {
-        "『<%sL_BATOEN_NAME>』のキラバトエンを 手に入れた！": ""
+        "『<%sL_BATOEN_NAME>』のキラバトエンを 手に入れた！": "Received the \"<%sL_BATOEN_NAME>\" Shiny Batoen!"
     },
     "870": {
         "clarity_nt_char_289": "clarity_nt_char_289"
