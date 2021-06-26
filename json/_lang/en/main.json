@@ -6984,7 +6984,7 @@
         "<%sM_serif>": ""
     },
     "2329": {
-        "一緒に冒険した時間": ""
+        "一緒に冒険した時間": "Time Adventured Together"
     },
     "2330": {
         "（ ": ""
@@ -8115,7 +8115,7 @@
         "clarity_nt_char_939": "clarity_nt_char_939"
     },
     "2706": {
-        "あと <%02dM_hh>時間<%02dM_mm>分": ""
+        "あと <%02dM_hh>時間<%02dM_mm>分": "<%02dM_hh>h. <%02dM_mm>m. Left"
     },
     "2707": {
         "clarity_nt_char_940": "clarity_nt_char_940"
@@ -9408,7 +9408,7 @@
         "他の<%sM_PTMember>を 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": ""
     },
     "3137": {
-        "12時間につき": "12 per hour"
+        "12時間につき": "Per 12 Hrs."
     },
     "3138": {
         "他の<%sM_PTMember>がそろうのを 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Searching for other members..."
@@ -9489,19 +9489,19 @@
         "clarity_nt_char_1094": "clarity_nt_char_1094"
     },
     "3164": {
-        "１２時間": "12hrs"
+        "１２時間": "12 Hrs."
     },
     "3165": {
         "clarity_nt_char_1095": "clarity_nt_char_1095"
     },
     "3166": {
-        "２４時間": "24 hrs"
+        "２４時間": "24 Hrs."
     },
     "3167": {
         "clarity_nt_char_1096": "clarity_nt_char_1096"
     },
     "3168": {
-        "４８時間": "48 hrs."
+        "４８時間": "48 Hrs."
     },
     "3169": {
         "clarity_nt_char_1097": "clarity_nt_char_1097"
