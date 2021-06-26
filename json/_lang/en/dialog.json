@@ -8685,10 +8685,10 @@
         "clarity_nt_char_975": "clarity_nt_char_975"
     },
     "2896": {
-        "ほかに　削除したい|手紙を選択してください。<break>": ""
+        "ほかに　削除したい|手紙を選択してください。<break>": "Please select another letter you want|to delete.<break>"
     },
     "2897": {
-        "<speed=0>削除したい　手紙を選択してください。<break>": ""
+        "<speed=0>削除したい　手紙を選択してください。<break>": "<speed=0>Select the letters you want to delete.<break>"
     },
     "2898": {
         "clarity_nt_char_976": "clarity_nt_char_976"
