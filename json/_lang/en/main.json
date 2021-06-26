@@ -10092,7 +10092,7 @@
         "<%sM_tukuttahito>（<%sM_id><%sM_idno>-<%sM_idno2>）": ""
     },
     "3365": {
-        "<%sM_purasu><%sM_atai><%sM_tani>以上": ""
+        "<%sM_purasu><%sM_atai><%sM_tani>以上": "<%sM_purasu><%sM_atai><%sM_tani> Min."
     },
     "3366": {
         "clarity_nt_char_1162": "clarity_nt_char_1162"
