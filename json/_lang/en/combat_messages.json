@@ -825,7 +825,7 @@
         "clarity_nt_char_94": "clarity_nt_char_94"
     },
     "276": {
-        "討伐タイム　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>": "Defeat Time: <%dB_VALUE>min. <%sB_VALUE2>sec. <%sB_VALUE3>"
+        "討伐タイム　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>": "Defeat Time: <%dB_VALUE>min. <%sB_VALUE2>.<%sB_VALUE3>sec."
     },
     "277": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 特訓スタンプを <%dB_VALUE> 個 かくとく！": ""
