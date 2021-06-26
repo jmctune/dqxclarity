@@ -2151,13 +2151,13 @@
         "<%dM_cal_YYYY>／<%sM_cal_MM>／<%sM_cal_DD>　<%sM_Hankaku><%dM_hh>：<%sM_mm>": ""
     },
     "718": {
-        "<%3dM_hhh>時間<%02dM_mm>分": ""
+        "<%3dM_hhh>時間<%02dM_mm>分": "<%3dM_hhh>h. <%02dM_mm>m."
     },
     "719": {
         "<%dM_ninzuu>人": ""
     },
     "720": {
-        "<%dM_hhh>時間<%sM_mm>分<%sM_ss>秒": ""
+        "<%dM_hhh>時間<%sM_mm>分<%sM_ss>秒": "<%dM_hhh>h. <%sM_mm>m. <%sM_ss>s."
     },
     "721": {
         "契約履歴": ""
@@ -2847,7 +2847,7 @@
         "３０分": "30min"
     },
     "950": {
-        "１時間": "1h"
+        "１時間": "1 h."
     },
     "951": {
         "１時間３０分": "1h and 30min"
