@@ -5028,7 +5028,7 @@
         "clarity_nt_char_567": "clarity_nt_char_567"
     },
     "1677": {
-        "<speed=0>今は　錬金釜を使えないようだ。|ドルボードを降りてから　使ってみよう。": ""
+        "<speed=0>今は　錬金釜を使えないようだ。|ドルボードを降りてから　使ってみよう。": "<speed=0>You can't use the alchemy pot now.|Try getting off of your dolboard first."
     },
     "1678": {
         "clarity_nt_char_568": "clarity_nt_char_568"
@@ -5226,7 +5226,7 @@
         "封印の砂で|輝石のベルトの|効果を封じます": ""
     },
     "1743": {
-        "<speed=0>今は　錬金釜を使えないようだ。": ""
+        "<speed=0>今は　錬金釜を使えないようだ。": "<speed=0>You can't use the alchemy pot now."
     },
     "1744": {
         "clarity_nt_char_590": "clarity_nt_char_590"
