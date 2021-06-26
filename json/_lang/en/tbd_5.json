@@ -555,25 +555,25 @@
         "clarity_nt_char_60": "clarity_nt_char_60"
     },
     "186": {
-        "ふくびきで 特等が当たって <%sM_item>を <%dM_item_num>個 手に入れた！": ""
+        "ふくびきで 特等が当たって <%sM_item>を <%dM_item_num>個 手に入れた！": "Received the special prize of <%dM_item_num> <%sM_item>!"
     },
     "187": {
         "clarity_nt_char_61": "clarity_nt_char_61"
     },
     "188": {
-        "ふくびきで 特等が当たって <%sM_item>を 手に入れた！": ""
+        "ふくびきで 特等が当たって <%sM_item>を 手に入れた！": "Received the special prize of <%sM_item>!"
     },
     "189": {
         "clarity_nt_char_62": "clarity_nt_char_62"
     },
     "190": {
-        "ふくびきで <%dM_num>等が当たって <%sM_item>を <%dM_item_num>個 手に入れた！": ""
+        "ふくびきで <%dM_num>等が当たって <%sM_item>を <%dM_item_num>個 手に入れた！": "Received <%dM_num> special prize(s) of <%dM_item_num> <%sM_item>!"
     },
     "191": {
         "clarity_nt_char_63": "clarity_nt_char_63"
     },
     "192": {
-        "ふくびきで <%dM_num>等が当たって <%sM_item>を 手に入れた！": ""
+        "ふくびきで <%dM_num>等が当たって <%sM_item>を 手に入れた！": "Received <%dM_num> special prize(s) of <%sM_item>!"
     },
     "193": {
         "clarity_nt_char_64": "clarity_nt_char_64"
