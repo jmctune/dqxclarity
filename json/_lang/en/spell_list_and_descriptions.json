@@ -834,7 +834,7 @@
         "clarity_nt_char_95": "clarity_nt_char_95"
     },
     "279": {
-        "全職ちから+10": "All Strength +10"
+        "全職ちから+10": "Strength +10"
     },
     "280": {
         "clarity_nt_char_96": "clarity_nt_char_96"
@@ -960,7 +960,7 @@
         "ためる": "Psyche Up"
     },
     "321": {
-        "全職きようさ+20": "All Deftness +20"
+        "全職きようさ+20": "Deftness +20"
     },
     "322": {
         "心頭滅却": "Clear Mind"
@@ -1263,7 +1263,7 @@
         "clarity_nt_char_141": "clarity_nt_char_141"
     },
     "422": {
-        "全職かいふく魔力+20": "Natural Mag. Mending +20"
+        "全職かいふく魔力+20": "Mag. Mending +20"
     },
     "423": {
         "オオカミアタック": "Wolf Whistle"
@@ -1299,7 +1299,7 @@
         "clarity_nt_char_145": "clarity_nt_char_145"
     },
     "434": {
-        "全職ちから+5": "All Strength +5"
+        "全職ちから+5": "Strength +5"
     },
     "435": {
         "すてみ": "Double Up"
@@ -1407,7 +1407,7 @@
         "ＨＰリンク": "HP Link"
     },
     "470": {
-        "全職さいだいＨＰ+10": "Natural HP +10"
+        "全職さいだいＨＰ+10": "Max HP +10"
     },
     "471": {
         "ＭＰリンク": "MP Link"
@@ -1458,7 +1458,7 @@
         "clarity_nt_char_163": "clarity_nt_char_163"
     },
     "487": {
-        "全職すばやさ+10": "Natural Agility +10"
+        "全職すばやさ+10": "Agility +10"
     },
     "488": {
         "どうぐ倍化術": "Item Doubling Tech"
@@ -1467,7 +1467,7 @@
         "clarity_nt_char_164": "clarity_nt_char_164"
     },
     "490": {
-        "全職きようさ+10": "All Deftness +10"
+        "全職きようさ+10": "Deftness +10"
     },
     "491": {
         "磁界シールド": "Magnetic Shield"
@@ -1503,7 +1503,7 @@
         "会心まいしんラップ": "Confidence Rap"
     },
     "502": {
-        "全職こうげき魔力+5": "Natural Mag. Might +5"
+        "全職こうげき魔力+5": "Mag. Might +5"
     },
     "503": {
         "clarity_nt_char_167": "clarity_nt_char_167"
@@ -1518,7 +1518,7 @@
         "clarity_nt_char_168": "clarity_nt_char_168"
     },
     "507": {
-        "全職みりょく+10": "All Charm +10"
+        "全職みりょく+10": "Charm +10"
     },
     "508": {
         "よみがえり節": "Revival Clause"
@@ -2904,7 +2904,7 @@
         "範囲内の敵に|風の刃で２回攻撃|雷耐性も下げる": ""
     },
     "969": {
-        "範囲内にいる|仲間のＨＰを|大幅に回復する": "Restore|Large HP|to nearby allies"
+        "範囲内にいる|仲間のＨＰを|大幅に回復する": "Restore|large HP|to nearby allies."
     },
     "970": {
         "すばやく呪文を|唱えられ|必ず呪文が暴走！": ""
@@ -2943,7 +2943,7 @@
         "こうげきに土と|闇のチカラを宿す|魔法戦士専用特技": "Add Dark and|Earth to attacks|for 2 minutes."
     },
     "982": {
-        "ＭＰ１００を|仲間に分け与える|魔法戦士専用特技": "Recover an|allies MP|by 100."
+        "ＭＰ１００を|仲間に分け与える|魔法戦士専用特技": "Recover an|ally's MP|by 100."
     },
     "983": {
         "clarity_nt_char_327": "clarity_nt_char_327"
@@ -3273,7 +3273,7 @@
         "戦いのあとの|お宝ゲット|確率アップ！": ""
     },
     "1092": {
-        "仲間をいやす|めぐみの雨が降る|賢者専用特技": "Restore all|allies HP|over time"
+        "仲間をいやす|めぐみの雨が降る|賢者専用特技": "Restore all|allies' HP|over time."
     },
     "1093": {
         "clarity_nt_char_364": "clarity_nt_char_364"
