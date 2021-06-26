@@ -1005,10 +1005,10 @@
         "<speed=0>パーティリーダーにできる人が　いません！": ""
     },
     "336": {
-        "<speed=0><%sM_pc>は　戦っているため|いまは　仲間から　はずせません。": ""
+        "<speed=0><%sM_pc>は　戦っているため|いまは　仲間から　はずせません。": "<speed=0>You can't remove <%sM_pc> because|they're in the middle of a battle."
     },
     "337": {
-        "<speed=0>ここでは　仲間から抜けられません！": ""
+        "<speed=0>ここでは　仲間から抜けられません！": "<speed=0>You can't leave the party here!"
     },
     "338": {
         "clarity_nt_char_116": "clarity_nt_char_116"
