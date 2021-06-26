@@ -10368,7 +10368,7 @@
         "１日につき": "1 per day"
     },
     "3457": {
-        "あと<%3dM_hhh>時間": ""
+        "あと<%3dM_hhh>時間": "<%3dM_hhh> Hrs. Left"
     },
     "3458": {
         "clarity_nt_char_1192": "clarity_nt_char_1192"
@@ -10992,7 +10992,7 @@
         "メンバーの特徴": ""
     },
     "3665": {
-        "活動時間": ""
+        "活動時間": "Active Time"
     },
     "3666": {
         "clarity_nt_char_1256": "clarity_nt_char_1256"
@@ -11784,7 +11784,7 @@
         "clarity_nt_char_1345": "clarity_nt_char_1345"
     },
     "3929": {
-        "(主な活動時間)": "(Main activity time)"
+        "(主な活動時間)": "(Main Activity Time)"
     },
     "3930": {
         "clarity_nt_char_1346": "clarity_nt_char_1346"
@@ -13926,7 +13926,7 @@
         "clarity_nt_char_1587": "clarity_nt_char_1587"
     },
     "4643": {
-        "最終更新時間 <%dM_cal_MM>月<%dM_cal_DD>日<%2dM_hh>:<%02dM_mm>": ""
+        "最終更新時間 <%dM_cal_MM>月<%dM_cal_DD>日<%2dM_hh>:<%02dM_mm>": "Last Updated <%dM_cal_MM>/<%dM_cal_DD> <%2dM_hh>:<%02dM_mm>"
     },
     "4644": {
         "<%dM_Num><%sM_Tani>": ""
@@ -15588,7 +15588,7 @@
         "clarity_nt_char_1765": "clarity_nt_char_1765"
     },
     "5197": {
-        "<%nM_hhh>時間": "<%nM_hhh>h"
+        "<%nM_hhh>時間": "<%nM_hhh> Hr."
     },
     "5198": {
         "シャッフル": ""
@@ -15729,7 +15729,7 @@
         "討伐モンスター": ""
     },
     "5244": {
-        "かかる時間": ""
+        "かかる時間": "Required Time"
     },
     "5245": {
         "すごろく": ""
@@ -19011,7 +19011,7 @@
         "clarity_nt_char_2159": "clarity_nt_char_2159"
     },
     "6338": {
-        "開催時間": ""
+        "開催時間": "Held Time"
     },
     "6339": {
         "clarity_nt_char_2160": "clarity_nt_char_2160"
