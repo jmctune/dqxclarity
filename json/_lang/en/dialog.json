@@ -2709,7 +2709,7 @@
         "<speed=0><%sM_action>は　この戦闘では|もう使えない！": ""
     },
     "904": {
-        "<speed=0>スカウトできる　モンスターが　いない！": ""
+        "<speed=0>スカウトできる　モンスターが　いない！": "<speed=0>There are no monsters that can be scouted!"
     },
     "905": {
         "clarity_nt_char_308": "clarity_nt_char_308"
