@@ -936,7 +936,7 @@
         "パーティリーダー不在のため 戦闘を中断しました": "Battle interrupted due to no party leader."
     },
     "313": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eとの ふしぎなすれちがいを達成！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eとの ふしぎなすれちがいを達成！": "Had a mysterious passing with \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "314": {
         "clarity_nt_char_102": "clarity_nt_char_102"
