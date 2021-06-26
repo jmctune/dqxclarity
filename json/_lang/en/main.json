@@ -16068,7 +16068,7 @@
         "宝珠レベル": ""
     },
     "5357": {
-        "<%dM_00>段階": ""
+        "<%dM_00>段階": "Stage <%dM_00>"
     },
     "5358": {
         "clarity_nt_char_1824": "clarity_nt_char_1824"
@@ -24633,7 +24633,7 @@
         "clarity_nt_char_2776": "clarity_nt_char_2776"
     },
     "8212": {
-        "地下<%nM_FLOOR>階": ""
+        "地下<%nM_FLOOR>階": "B<%nM_FLOOR>F"
     },
     "8213": {
         "clarity_nt_char_2777": "clarity_nt_char_2777"
@@ -24678,7 +24678,7 @@
         "Lv<%dM_lv>の装備": ""
     },
     "8227": {
-        "地下<%dM_FLOOR>階": ""
+        "地下<%dM_FLOOR>階": "B<%dM_FLOOR>F"
     },
     "8228": {
         "clarity_nt_char_2783": "clarity_nt_char_2783"
