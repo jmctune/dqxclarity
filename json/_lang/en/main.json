@@ -3168,7 +3168,7 @@
         "<%sM_Syougou><%sM_Hankaku><%sM_pc> の 戦いのきろく": "<%sM_Syougou><%sM_Hankaku><%sM_pc>'s battle record"
     },
     "1057": {
-        "<%dM_hhhhh>時間<%02dM_mm>分": "<%dM_hhhhh>h. <%02dM_mm>m."
+        "<%dM_hhhhh>時間<%02dM_mm>分": "<%dM_hhhhh> hr. <%02dM_mm> m."
     },
     "1058": {
         "clarity_nt_char_357": "clarity_nt_char_357"
@@ -3237,7 +3237,7 @@
         "clarity_nt_char_366": "clarity_nt_char_366"
     },
     "1080": {
-        "<%dM_hhh>時間": "<%dM_hhh>h."
+        "<%dM_hhh>時間": "<%dM_hhh> hr."
     },
     "1081": {
         "職業名６字分 Lv９９": ""
