@@ -753,7 +753,7 @@
         "clarity_nt_char_87": "clarity_nt_char_87"
     },
     "252": {
-        "全職こうげき魔力+10": "Magical Might +10"
+        "全職こうげき魔力+10": "Mag. Might +10"
     },
     "253": {
         "ボディーガード呼び": "Call Bodyguard"
@@ -891,7 +891,7 @@
         "clarity_nt_char_100": "clarity_nt_char_100"
     },
     "298": {
-        "全職みのまもり+10": "Natural Resilience +10"
+        "全職みのまもり+10": "Resilience +10"
     },
     "299": {
         "clarity_nt_char_101": "clarity_nt_char_101"
@@ -900,7 +900,7 @@
         "ＨＰパサー": "H-Pathy"
     },
     "301": {
-        "全職かいふく魔力+10": "Natural Mag. Mending +10"
+        "全職かいふく魔力+10": "Mag. Mending +10"
     },
     "302": {
         "におうだち": "Forbearance"
@@ -909,13 +909,13 @@
         "ヘヴィチャージ": "Heavy Charge"
     },
     "304": {
-        "全職みのまもり+20": "Natural Resilience +20"
+        "全職みのまもり+20": "Resilience +20"
     },
     "305": {
         "clarity_nt_char_102": "clarity_nt_char_102"
     },
     "306": {
-        "全職さいだいＨＰ+30": "Natural HP +30"
+        "全職さいだいＨＰ+30": "Max HP +30"
     },
     "307": {
         "大ぼうぎょ": "Defending Champ"
@@ -981,7 +981,7 @@
         "clarity_nt_char_110": "clarity_nt_char_110"
     },
     "328": {
-        "全職さいだいＨＰ+40": "Natural HP +40"
+        "全職さいだいＨＰ+40": "Max HP +40"
     },
     "329": {
         "めいそう": "Meditation"
@@ -1176,7 +1176,7 @@
         "しんぴのさとり": "Caster Sugar"
     },
     "393": {
-        "全職さいだいＭＰ+20": "Natural MP +20"
+        "全職さいだいＭＰ+20": "Max MP +20"
     },
     "394": {
         "零の洗礼": "Null Baptism"
