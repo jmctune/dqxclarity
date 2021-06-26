@@ -2913,7 +2913,7 @@
         "clarity_nt_char_328": "clarity_nt_char_328"
     },
     "972": {
-        "<speed=0>七夕の短冊を１枚使って　願い事を書きます。|よろしいですか？<yesno><close>": ""
+        "<speed=0>七夕の短冊を１枚使って　願い事を書きます。|よろしいですか？<yesno><close>": "<speed=0>Do you want to use a Tanabata strip to|write your wish?<yesno><close>"
     },
     "973": {
         "<speed=0>現在　見られる短冊は　ありません。": ""

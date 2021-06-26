@@ -1,6 +1,6 @@
 {
     "1": {
-        "<select_se_off>|買いたい|売りに出したい|出品したものを見る|やめる|<select_end><break>": ""
+        "<select_se_off>|買いたい|売りに出したい|出品したものを見る|やめる|<select_end><break>": "<select_se_off>|Want to Buy|Want to Sell|View Listings|Cancel|<select_end><break>"
     },
     "2": {
         "clarity_nt_char_1": "clarity_nt_char_1"
