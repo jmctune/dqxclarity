@@ -10281,7 +10281,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>謁見の間への通路": ""
     },
     "3428": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>謁見の間": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>謁見の間": "<%sW_MAP_NAME><%sW_DELIMITER>Audience Rm."
     },
     "3429": {
         "月明かりの谷への道": ""
@@ -10812,10 +10812,10 @@
         "大審判の絶壁 入口": ""
     },
     "3605": {
-        "謁見の間 入口": ""
+        "謁見の間 入口": "Audience Rm. Ent."
     },
     "3606": {
-        "謁見の間 出口": ""
+        "謁見の間 出口": "Audience Rm. Exit"
     },
     "3607": {
         "<%sW_MAP_NAME><%sW_DELIMITER>ザードの尖塔・６階": "<%sW_MAP_NAME><%sW_DELIMITER>Zard Spire 6F"
