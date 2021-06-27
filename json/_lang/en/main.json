@@ -5478,7 +5478,7 @@
         "何丁目へ？": "Which block?"
     },
     "1827": {
-        "<%dM_Tyoume>丁目": ""
+        "<%dM_Tyoume>丁目": "Block <%dM_Tyoume>"
     },
     "1828": {
         "clarity_nt_char_623": "clarity_nt_char_623"
@@ -6603,7 +6603,7 @@
         "clarity_nt_char_758": "clarity_nt_char_758"
     },
     "2202": {
-        "<%sM_landaddress1>住宅村　<%sM_landaddress4>丁目": "<%sM_landaddress1>Res. Vlg. Ward <%sM_landaddress4>"
+        "<%sM_landaddress1>住宅村　<%sM_landaddress4>丁目": "<%sM_landaddress1> Residence  Block <%sM_landaddress4>"
     },
     "2203": {
         "clarity_nt_char_759": "clarity_nt_char_759"
@@ -6966,7 +6966,7 @@
         "ＭＰ吸収率": "MP Absorb Rate"
     },
     "2323": {
-        "<%sM_rurastone><%dM_tyoume>丁目の石": ""
+        "<%sM_rurastone><%dM_tyoume>丁目の石": "<%sM_rurastone> Block <%dM_tyoume>"
     },
     "2324": {
         "職人経験値": "Craftsman EXP"
@@ -7215,7 +7215,7 @@
         "clarity_nt_char_830": "clarity_nt_char_830"
     },
     "2406": {
-        "<%sM_landaddress2><%sM_landaddress4>丁目": "<%sM_landaddress2><%sM_landaddress4> St."
+        "<%sM_landaddress2><%sM_landaddress4>丁目": "<%sM_landaddress2> Block<%sM_landaddress4>"
     },
     "2407": {
         "clarity_nt_char_831": "clarity_nt_char_831"
@@ -15870,7 +15870,7 @@
         "clarity_nt_char_1799": "clarity_nt_char_1799"
     },
     "5291": {
-        "すべての丁目からさがす": "Search by all streets"
+        "すべての丁目からさがす": "Search By All Blocks"
     },
     "5292": {
         "達人のオーブ": "Master Orb"
