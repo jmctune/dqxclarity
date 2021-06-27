@@ -5046,7 +5046,7 @@
         "clarity_nt_char_571": "clarity_nt_char_571"
     },
     "1683": {
-        "<%sM_landaddress2>　<%nM_landaddress3>番地": "<%sM_landaddress2>　<%nM_landaddress3> Addr."
+        "<%sM_landaddress2>　<%nM_landaddress3>番地": "<%sM_landaddress2> <%nM_landaddress3>"
     },
     "1684": {
         "<%nM_landaddress4>丁目": ""
@@ -6546,7 +6546,7 @@
         "クレジットカードを変更する": ""
     },
     "2183": {
-        "<%nM_landaddress2>　<%nM_landaddress3>番地": ""
+        "<%nM_landaddress2>　<%nM_landaddress3>番地": "<%nM_landaddress2> <%nM_landaddress3>"
     },
     "2184": {
         "<%nM_Slot>キャラコース": "<%nM_Slot> char. course"
