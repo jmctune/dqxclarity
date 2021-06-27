@@ -15402,7 +15402,7 @@
         "clarity_nt_char_1743": "clarity_nt_char_1743"
     },
     "5135": {
-        "他の冒険者": ""
+        "他の冒険者": "Other Players"
     },
     "5136": {
         "スキルポイント": "Skill Points"
@@ -26175,13 +26175,13 @@
         "捧げる": ""
     },
     "8726": {
-        "冒険者を指定する": ""
+        "冒険者を指定する": "Specify Player"
     },
     "8727": {
         "clarity_nt_char_2951": "clarity_nt_char_2951"
     },
     "8728": {
-        "指定した冒険者を確認": ""
+        "指定した冒険者を確認": "Confirm Player"
     },
     "8729": {
         "clarity_nt_char_2952": "clarity_nt_char_2952"
@@ -26274,7 +26274,7 @@
         "チカラのかけら": ""
     },
     "8759": {
-        "（だれもいない）": ""
+        "（だれもいない）": "(No Players)"
     },
     "8760": {
         "clarity_nt_char_2963": "clarity_nt_char_2963"
@@ -26286,7 +26286,7 @@
         "clarity_nt_char_2964": "clarity_nt_char_2964"
     },
     "8763": {
-        "指定した冒険者を確認する": ""
+        "指定した冒険者を確認する": "Confirm Player"
     },
     "8764": {
         "clarity_nt_char_2965": "clarity_nt_char_2965"
@@ -26397,7 +26397,7 @@
         "自分の": ""
     },
     "8800": {
-        "他の冒険者の": ""
+        "他の冒険者の": "Other Players'"
     },
     "8801": {
         "clarity_nt_char_2980": "clarity_nt_char_2980"
