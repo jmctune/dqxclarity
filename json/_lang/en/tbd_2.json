@@ -1395,10 +1395,10 @@
         "clarity_nt_char_151": "clarity_nt_char_151"
     },
     "466": {
-        "弓装備時　射程距離 +<%sB_renkin1>ｍ": ""
+        "弓装備時　射程距離 +<%sB_renkin1>ｍ": "With Bow Range +<%sB_renkin1>m"
     },
     "467": {
-        "弓装備時　呪文と特技の回復量 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "弓装備時　呪文と特技の回復量 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Bow Spell/Skill Recovery +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "468": {
         "オノ装備時　こうげき力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "With Axe Attack +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
