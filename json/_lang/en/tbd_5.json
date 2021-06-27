@@ -441,7 +441,7 @@
         "<%sB_item>の <%sL_RENKIN_TEXT_1>が|<%sL_RENKIN_TEXT>に パワーアップした！": ""
     },
     "148": {
-        "自宅の屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。": "You took out <%sL_ITEM_NAME><%sL_PLUSNUM> from the roof storage of my house."
+        "自宅の屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。": "You took out <%sL_ITEM_NAME><%sL_PLUSNUM> from the attic storage of my house."
     },
     "149": {
         "clarity_nt_char_51": "clarity_nt_char_51"
@@ -585,7 +585,7 @@
         "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>と <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>を合成して|<%sL_ACCE_ITEM><%sL_PLUSNUM_3>になった！": ""
     },
     "196": {
-        "自宅の屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "You took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> from the roof storage of my house."
+        "自宅の屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "You took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> from the attic storage of my house."
     },
     "197": {
         "<%sL_OWNER>の収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "<%sL_OWNER> took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> from storage furniture."
