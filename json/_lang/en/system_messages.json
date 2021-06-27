@@ -2037,7 +2037,7 @@
         "ポイント": "Point"
     },
     "680": {
-        "マイコーデ枠＋<%nADDPLAN>": "Glamour +<%nADDPLAN>"
+        "マイコーデ枠＋<%nADDPLAN>": "Glamour Slots +<%nADDPLAN>"
     },
     "681": {
         "マイコーデ枠＋<%nADDPLAN>（<%dSLOT>枠）": "Glamour Slots +<%nADDPLAN> (Slot <%dSLOT>)"
@@ -2049,7 +2049,7 @@
         "マイコーデの拡張 利用しない": "Do Not Use Glamour Expansion"
     },
     "684": {
-        "マイコーデ枠＋<%nADDPLAN>　に変更されて|マイコーデに　登録できる装備セットが|<%dSLOT>枠　増えました。<me_60>": "The number of glamours that can be registered|has been increased because of"
+        "マイコーデ枠＋<%nADDPLAN>　に変更されて|マイコーデに　登録できる装備セットが|<%dSLOT>枠　増えました。<me_60>": "The number of glamours that can be registered|has been increased because of Glamour|Slots +<%nADDPLAN>.<me_60>"
     },
     "685": {
         "マイコーデ枠＋<%nADDPLAN>（<%dSLOT>枠）から|マイコーデ枠＋<%nADDPLAN2>（<%dSLOT2>枠）に変更しました。<br>|次回の更新から|変更したマイコーデ枠の　装備セットが|操作できなくなります。<br>|有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは|現在のプランが有効です。": ""
