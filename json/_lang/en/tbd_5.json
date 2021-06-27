@@ -1035,10 +1035,10 @@
         "<%sM_item><%sM_plusnum>を 取り出した。": ""
     },
     "346": {
-        "<%sM_item><%sM_plusnum>を <%dM_item_num>個 預けた。": ""
+        "<%sM_item><%sM_plusnum>を <%dM_item_num>個 預けた。": "You deposited <%dM_item_num> <%sM_item><%sM_plusnum>."
     },
     "347": {
-        "<%sM_item><%sM_plusnum>を 預けた。": ""
+        "<%sM_item><%sM_plusnum>を 預けた。": "You deposited <%sM_item><%sM_plusnum>."
     },
     "348": {
         "お招きのつばさを <%dL_GOLD> Gで買った！": ""
