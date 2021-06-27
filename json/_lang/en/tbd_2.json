@@ -3033,7 +3033,7 @@
         "clarity_nt_char_352": "clarity_nt_char_352"
     },
     "1012": {
-        "勝利時に ＭＰ23～25回復": ""
+        "勝利時に ＭＰ23～25回復": "Recover 23-25 MP After Battle"
     },
     "1013": {
         "clarity_nt_char_353": "clarity_nt_char_353"
@@ -3042,7 +3042,7 @@
         "敵を倒すとＭＰを <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>回復": "Restore <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka> MP On Enemy Defeat"
     },
     "1015": {
-        "うけるダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": ""
+        "うけるダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": "Damage Taken Reduction <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "1016": {
         "clarity_nt_char_354": "clarity_nt_char_354"
