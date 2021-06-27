@@ -18,7 +18,7 @@
         "clarity_nt_char_2": "clarity_nt_char_2"
     },
     "7": {
-        "<%sL_PC>が <%sL_PLACE>での|クエストで手に入れた。": "<%sL_PC> received a quest from <%sL_PLACE>."
+        "<%sL_PC>が <%sL_PLACE>での|クエストで手に入れた。": "<%sL_PC> got it as a quest reward in|<%sL_PLACE>."
     },
     "8": {
         "<%sL_PC>が <%sL_PLACE>の|<%sL_MONSTER>を倒して 手に入れた。": "<%sL_PC> got it in <%sL_PLACE>|by defeating a <%sL_MONSTER>."
