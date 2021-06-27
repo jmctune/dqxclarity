@@ -1002,7 +1002,7 @@
         "なでる": "Stroke"
     },
     "335": {
-        "<%sL_DIVISION><%nL_AREA>丁目 <%nL_BANTI>番地": "<%sL_DIVISION><%nL_AREA>Block <%nL_BANTI>"
+        "<%sL_DIVISION><%nL_AREA>丁目 <%nL_BANTI>番地": "<%sL_DIVISION> Block<%nL_AREA> House<%nL_BANTI>"
     },
     "336": {
         "clarity_nt_char_117": "clarity_nt_char_117"
