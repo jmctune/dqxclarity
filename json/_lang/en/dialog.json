@@ -2841,10 +2841,10 @@
         "clarity_nt_char_320": "clarity_nt_char_320"
     },
     "948": {
-        "<speed=0><%sM_pc>（<%sM_type>）だ。|強そうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc>（<%sM_type>).|Seems strong...|Kills: <%dM_kill_num>. <%sM_saw>"
+        "<speed=0><%sM_pc>（<%sM_type>）だ。|強そうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Seems strong...|Number of kills: <%dM_kill_num> <%sM_saw>"
     },
     "949": {
-        "<speed=0><%sM_pc>（<%sM_type>）だ。|ほぼ同格の相手だ。|討伐数 <%dM_kill_num>匹。<%sM_saw>": ""
+        "<speed=0><%sM_pc>（<%sM_type>）だ。|ほぼ同格の相手だ。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc> (<%sM_type>).|It looks to be about even.|Number of kills: <%dM_kill_num> <%sM_saw>"
     },
     "950": {
         "<speed=0>仲間の中に　ブラックリストに加えた人がいます。|このまま　続けると　一緒にプレイすることになる|可能性がありますが　続けてよろしいですか？<yesno><close>": ""
@@ -6540,7 +6540,7 @@
         "clarity_nt_char_740": "clarity_nt_char_740"
     },
     "2181": {
-        "<speed=0><%sM_pc>（<%sM_type>）だ。|格下の相手のようだ。": ""
+        "<speed=0><%sM_pc>（<%sM_type>）だ。|格下の相手のようだ。": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Seems to be pretty weak."
     },
     "2182": {
         "clarity_nt_char_741": "clarity_nt_char_741"
