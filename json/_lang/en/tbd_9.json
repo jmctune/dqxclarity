@@ -6,7 +6,7 @@
         "clarity_nt_char_1": "clarity_nt_char_1"
     },
     "3": {
-        "<%nL_AREA>丁目": "<%nL_AREA>Block"
+        "<%nL_AREA>丁目": "Block <%nL_AREA>"
     },
     "4": {
         "clarity_nt_char_2": "clarity_nt_char_2"
@@ -162,13 +162,13 @@
         "<%sL_GREET_MESSAGE>": ""
     },
     "55": {
-        "<%nL_TYOUME_RIGHT>丁目": "<%nL_TYOUME_RIGHT>Block"
+        "<%nL_TYOUME_RIGHT>丁目": "Block <%nL_TYOUME_RIGHT>"
     },
     "56": {
         "clarity_nt_char_23": "clarity_nt_char_23"
     },
     "57": {
-        "<%nL_TYOUME_LEFT>丁目": "<%nL_TYOUME_LEFT>Block"
+        "<%nL_TYOUME_LEFT>丁目": "Block <%nL_TYOUME_LEFT>"
     },
     "58": {
         "<%sL_OWNER>の家|<%sM_houseComment>": "<%sL_OWNER> Home|<%sM_houseComment>"
@@ -1002,7 +1002,7 @@
         "なでる": "Stroke"
     },
     "335": {
-        "<%sL_DIVISION><%nL_AREA>丁目 <%nL_BANTI>番地": "<%sL_DIVISION> Block<%nL_AREA> House<%nL_BANTI>"
+        "<%sL_DIVISION><%nL_AREA>丁目 <%nL_BANTI>番地": "Block <%sL_DIVISION> <%nL_AREA> House<%nL_BANTI>"
     },
     "336": {
         "clarity_nt_char_117": "clarity_nt_char_117"
