@@ -441,7 +441,7 @@
         "<%sB_item>の <%sL_RENKIN_TEXT_1>が|<%sL_RENKIN_TEXT>に パワーアップした！": ""
     },
     "148": {
-        "自宅の屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。": ""
+        "自宅の屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。": "You took out <%sL_ITEM_NAME><%sL_PLUSNUM> from the roof storage of my house."
     },
     "149": {
         "clarity_nt_char_51": "clarity_nt_char_51"
