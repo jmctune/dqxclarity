@@ -9237,7 +9237,7 @@
         "降魔紅蓮斬のダメージが５％増える|（オノ専用）": "Lotus Slash damage increased by 5%.|(Axe Only)"
     },
     "3080": {
-        "断空なぎはらいのダメージが４％増える|（棍専用）": "Sky Breaker damage increased by 4%.|(Staff Only)"
+        "断空なぎはらいのダメージが４％増える|（棍専用）": "Sky Breaker damage increased by 4%.|(Rod Only)"
     },
     "3081": {
         "clarity_nt_char_1061": "clarity_nt_char_1061"
@@ -9396,7 +9396,7 @@
         "clarity_nt_char_1079": "clarity_nt_char_1079"
     },
     "3133": {
-        "豪雪氷結乱撃のダメージが２％増える|（棍専用）": "Heavy Ice Storm damage increased by 2%.|(Staff Only)"
+        "豪雪氷結乱撃のダメージが２％増える|（棍専用）": "Heavy Ice Storm damage increased by 2%.|(Rod Only)"
     },
     "3134": {
         "ゴッドスマッシュのダメージが２％増える|（ツメ専用）": "Hand of God damage increased by 2%.|(Claw Only)"
@@ -11409,10 +11409,10 @@
         "clarity_nt_char_1307": "clarity_nt_char_1307"
     },
     "3804": {
-        "テンション時のなぎはらいのダメージが|２０増える（棍専用）": "Damage of Party Pooper during tension|increased by 20. (Staff Only)"
+        "テンション時のなぎはらいのダメージが|２０増える（棍専用）": "Damage of Party Pooper during tension|increased by 20. (Rod Only)"
     },
     "3805": {
-        "テンション時の奥義・棍閃殺のダメージが|５０増える（棍専用）": "Damage of Flash Kill during tension|increased by 20. (Staff Only)"
+        "テンション時の奥義・棍閃殺のダメージが|５０増える（棍専用）": "Damage of Flash Kill during tension|increased by 20. (Rod Only)"
     },
     "3806": {
         "clarity_nt_char_1308": "clarity_nt_char_1308"
@@ -12792,19 +12792,19 @@
         "clarity_nt_char_1449": "clarity_nt_char_1449"
     },
     "4265": {
-        "しゅくふくの杖の回復量+20%": "Staff of Salvation Recovery +20%"
+        "しゅくふくの杖の回復量+20%": "Staff of Salvation Heal +20%"
     },
     "4266": {
-        "しゅくふくの杖の回復量+30%": "Staff of Salvation Recovery +30%"
+        "しゅくふくの杖の回復量+30%": "Staff of Salvation Heal +30%"
     },
     "4267": {
-        "しゅくふくの杖の回復量+40%": "Staff of Salvation Recovery +40%"
+        "しゅくふくの杖の回復量+40%": "Staff of Salvation Heal +40%"
     },
     "4268": {
-        "しゅくふくの杖の回復量+50%": "Staff of Salvation Recovery +50%"
+        "しゅくふくの杖の回復量+50%": "Staff of Salvation Heal +50%"
     },
     "4269": {
-        "しゅくふくの杖の回復量+60%": "Staff of Salvation Recovery +60%"
+        "しゅくふくの杖の回復量+60%": "Staff of Salvation Heal +60%"
     },
     "4270": {
         "らせん打ちの威力+16%": "Hypnowhip Power +16%"
@@ -20214,7 +20214,7 @@
         "根絶やしの重撃の威力+5%": "Eradication Blow Power +5%"
     },
     "6739": {
-        "根絶やしの重撃のダメージが５％増える|（鎌専用）": "Eradication Blow damage increased by|5%. (Staff Only)"
+        "根絶やしの重撃のダメージが５％増える|（鎌専用）": "Eradication Blow damage increased by|5%. (Sickle Only)"
     },
     "6740": {
         "clarity_nt_char_2213": "clarity_nt_char_2213"
