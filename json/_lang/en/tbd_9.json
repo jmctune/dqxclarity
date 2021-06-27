@@ -171,7 +171,7 @@
         "<%nL_TYOUME_LEFT>丁目": "<%nL_TYOUME_LEFT>Block"
     },
     "58": {
-        "<%sL_OWNER>の家|<%sM_houseComment>": ""
+        "<%sL_OWNER>の家|<%sM_houseComment>": "<%sL_OWNER> Home|<%sM_houseComment>"
     },
     "59": {
         "clarity_nt_char_24": "clarity_nt_char_24"
@@ -750,7 +750,7 @@
         "clarity_nt_char_88": "clarity_nt_char_88"
     },
     "251": {
-        "<%sL_PC>の家": ""
+        "<%sL_PC>の家": "<%sL_PC> Home"
     },
     "252": {
         "clarity_nt_char_89": "clarity_nt_char_89"
