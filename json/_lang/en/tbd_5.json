@@ -3615,7 +3615,7 @@
         "ベルト倉庫から <%sM_item><%sM_plusnum>を 取り出した。": "You took out <%sM_item><%sM_plusnum> from the belt warehouse."
     },
     "1206": {
-        "ベルト倉庫に <%sM_item><%sM_plusnum>を 預けた。": ""
+        "ベルト倉庫に <%sM_item><%sM_plusnum>を 預けた。": "You deposited <%sM_item><%sM_plusnum> in the belt warehouse."
     },
     "1207": {
         "clarity_nt_char_407": "clarity_nt_char_407"
