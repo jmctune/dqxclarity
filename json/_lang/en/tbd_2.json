@@ -1383,7 +1383,7 @@
         "clarity_nt_char_149": "clarity_nt_char_149"
     },
     "462": {
-        "右手に片手剣装備時　かいしん率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "右手に片手剣装備時　かいしん率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "R. Hand 1H Sword Critical Rate +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "463": {
         "clarity_nt_char_150": "clarity_nt_char_150"
