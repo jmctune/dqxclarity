@@ -6546,10 +6546,10 @@
         "clarity_nt_char_741": "clarity_nt_char_741"
     },
     "2183": {
-        "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。": "<speed=0>It's a <%sM_pc>（<%sM_type>).|Seems quite strong…"
+        "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Seems pretty strong…"
     },
     "2184": {
-        "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。": "<speed=0><%sM_pc>(<%sM_type>).|It's probably best not to mess with it right now."
+        "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Probably best not to mess with it..."
     },
     "2185": {
         "clarity_nt_char_742": "clarity_nt_char_742"
@@ -6558,7 +6558,7 @@
         "<speed=0><%sM_pc>（<%sM_type>）だ。|強そうだ……。": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Seems strong..."
     },
     "2187": {
-        "<speed=0><%sM_pc>（<%sM_type>）だ。|ほぼ同格の相手だ。": ""
+        "<speed=0><%sM_pc>（<%sM_type>）だ。|ほぼ同格の相手だ。": "<speed=0>It's a <%sM_pc> (<%sM_type>).|It looks to be about even."
     },
     "2188": {
         "自室へ行きます|自室では野菜を|栽培できます": "Go to your room|where you can|grow vegetables."
