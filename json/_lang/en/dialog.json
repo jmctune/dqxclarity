@@ -6843,7 +6843,7 @@
         "<speed=0>今のパーティ構成で　マッチングを行い|<%sM_monster>との　戦いに行きますが|よろしいですか？<yesno><close>": ""
     },
     "2282": {
-        "<speed=0>違う時代へ　移動することは　できません！": ""
+        "<speed=0>違う時代へ　移動することは　できません！": "<speed=0>You can't travel to a different time!"
     },
     "2283": {
         "<speed=0>ここでは　<%sB_MY_JACK_NAME>の心は|使えない！": ""
