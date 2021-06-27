@@ -162,19 +162,19 @@
         "・": "・"
     },
     "55": {
-        "<%sW_REP_MAX_2ND_F>黄葉商店": "False Yellow Leaf Shop"
+        "<%sW_REP_MAX_2ND_F>黄葉商店": "F. Yellow Leaf Shop"
     },
     "56": {
-        "<%sW_REP_MAX_2ND_F>湖上の休息所": "False Lake Retreat"
+        "<%sW_REP_MAX_2ND_F>湖上の休息所": "F. Lake Retreat"
     },
     "57": {
-        "<%sW_REP_MAX_2ND_F>滝を臨む集落": "False Waterfall Village"
+        "<%sW_REP_MAX_2ND_F>滝を臨む集落": "F. Waterfall Village"
     },
     "58": {
         "勇者姫": "Hero Rm."
     },
     "59": {
-        "<%sW_REP_MAX_2ND_F>ピラミッド": "False Pyramid"
+        "<%sW_REP_MAX_2ND_F>ピラミッド": "F. Pyramid"
     },
     "60": {
         "clarity_nt_char_22": "clarity_nt_char_22"
@@ -186,13 +186,13 @@
         "clarity_nt_char_23": "clarity_nt_char_23"
     },
     "63": {
-        "<%sW_REP_MAX_2ND_R>滝を臨む集落": "True Waterfall Village"
+        "<%sW_REP_MAX_2ND_R>滝を臨む集落": "T. Waterfall Village"
     },
     "64": {
-        "<%sW_REP_MAX_2ND_R>湖上の休息所": "True Lake Retreat"
+        "<%sW_REP_MAX_2ND_R>湖上の休息所": "T. Lake Retreat"
     },
     "65": {
-        "<%sW_REP_MAX_2ND_R>黄葉商店": "True Yellow Leaf Shop"
+        "<%sW_REP_MAX_2ND_R>黄葉商店": "T. Yellow Leaf Shop"
     },
     "66": {
         "チーム集会所": "Team House"
@@ -381,13 +381,13 @@
         "clarity_nt_char_41": "clarity_nt_char_41"
     },
     "128": {
-        "<%sW_REP_MIN_2ND_R>グランゼドーラ": "True Gran Zedora"
+        "<%sW_REP_MIN_2ND_R>グランゼドーラ": "T. Gran Zedora"
     },
     "129": {
         "clarity_nt_char_42": "clarity_nt_char_42"
     },
     "130": {
-        "<%sW_REP_MIN_2ND_F>グランゼドーラ": "False Gran Zedora"
+        "<%sW_REP_MIN_2ND_F>グランゼドーラ": "F. Gran Zedora"
     },
     "131": {
         "clarity_nt_char_43": "clarity_nt_char_43"
@@ -534,13 +534,13 @@
         "clarity_nt_char_57": "clarity_nt_char_57"
     },
     "179": {
-        "<%sW_REP_MIN_2ND_F>夜宴館": "False Night Banquet"
+        "<%sW_REP_MIN_2ND_F>夜宴館": "F. Night Banquet"
     },
     "180": {
         "clarity_nt_char_58": "clarity_nt_char_58"
     },
     "181": {
-        "<%sW_REP_MIN_2ND_R>夜宴館": "True Night Banquet"
+        "<%sW_REP_MIN_2ND_R>夜宴館": "T. Night Banquet"
     },
     "182": {
         "clarity_nt_char_59": "clarity_nt_char_59"
@@ -564,13 +564,13 @@
         "密林前": "Jungle"
     },
     "189": {
-        "<%sW_REP_MAX_2ND_R>格闘場": "True Arena"
+        "<%sW_REP_MAX_2ND_R>格闘場": "T. Arena"
     },
     "190": {
         "clarity_nt_char_61": "clarity_nt_char_61"
     },
     "191": {
-        "<%sW_REP_MAX_2ND_F>格闘場": "False Arena"
+        "<%sW_REP_MAX_2ND_F>格闘場": "F. Arena"
     },
     "192": {
         "clarity_nt_char_62": "clarity_nt_char_62"
@@ -582,7 +582,7 @@
         "高台の教会": "High Church"
     },
     "195": {
-        "<%sW_REP_MIN_2ND_F>セレドの町": "False Town of Celed"
+        "<%sW_REP_MIN_2ND_F>セレドの町": "F. Town of Celed"
     },
     "196": {
         "clarity_nt_char_63": "clarity_nt_char_63"
@@ -855,7 +855,7 @@
         "clarity_nt_char_93": "clarity_nt_char_93"
     },
     "286": {
-        "<%sW_REP_MIN_2ND_F>コニウェア": "False Coniware"
+        "<%sW_REP_MIN_2ND_F>コニウェア": "F. Coniware"
     },
     "287": {
         "clarity_nt_char_94": "clarity_nt_char_94"
@@ -876,7 +876,7 @@
         "clarity_nt_char_96": "clarity_nt_char_96"
     },
     "293": {
-        "<%sW_REP_MIN_2ND_F>ロヴォス高地": "False Rovos Highlands"
+        "<%sW_REP_MIN_2ND_F>ロヴォス高地": "F. Rovos Highlands"
     },
     "294": {
         "最上階": "Top Floor"
