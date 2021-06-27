@@ -2211,10 +2211,10 @@
         "clarity_nt_char_249": "clarity_nt_char_249"
     },
     "738": {
-        "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。|討伐数 <%dM_kill_num>匹。": "<speed=0><%sM_pc> (<%sM_type>)|I think it's best not to mess with it.|Number of kills: <%dM_kill_num>"
+        "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。|討伐数 <%dM_kill_num>匹。": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Probably best not to mess with it...|Number of kills: <%dM_kill_num>"
     },
     "739": {
-        "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。|討伐数 <%dM_kill_num>匹。": "<speed=0>It's a <%sM_pc>（<%sM_type>).|Seems quite strong…|Kills: <%dM_kill_num>."
+        "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。|討伐数 <%dM_kill_num>匹。": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Seems pretty strong…|Number of kills: <%dM_kill_num>."
     },
     "740": {
         "clarity_nt_char_250": "clarity_nt_char_250"
@@ -2223,7 +2223,7 @@
         "<speed=0><%sM_pc>（<%sM_type>）だ。|格下の相手のようだ。|討伐数 <%dM_kill_num>匹。": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Seems to be pretty weak.|Number of kills: <%dM_kill_num>"
     },
     "742": {
-        "<speed=0><%sM_pc>（<%sM_type>）だ。|強そうだ……。|討伐数 <%dM_kill_num>匹。": "<speed=0>It's a <%sM_pc>（<%sM_type>).|Seems strong...|Kills: <%dM_kill_num>"
+        "<speed=0><%sM_pc>（<%sM_type>）だ。|強そうだ……。|討伐数 <%dM_kill_num>匹。": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Seems strong...|Number of kills: <%dM_kill_num>"
     },
     "743": {
         "clarity_nt_char_251": "clarity_nt_char_251"
