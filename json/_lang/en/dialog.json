@@ -2205,7 +2205,7 @@
         "clarity_nt_char_248": "clarity_nt_char_248"
     },
     "736": {
-        "<speed=0><%sM_pc>（<%sM_type>）だ。|ほぼ同格の相手だ。|討伐数 <%dM_kill_num>匹。": ""
+        "<speed=0><%sM_pc>（<%sM_type>）だ。|ほぼ同格の相手だ。|討伐数 <%dM_kill_num>匹。": "<speed=0>It's a <%sM_pc> (<%sM_type>).|It looks to be about even.|Number of kills: <%dM_kill_num>"
     },
     "737": {
         "clarity_nt_char_249": "clarity_nt_char_249"
