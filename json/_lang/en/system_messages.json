@@ -1854,7 +1854,7 @@
         "<color_yellow>|モンスター酒場拡張を変更すると　次回の更新から|変更した追加枠内の　仲間モンスターを|連れて行くことが　できなくなります。<br>| ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは|　今の設定が有効です。": ""
     },
     "619": {
-        "<color_yellow>|マイコーデの拡張を変更すると　次回の更新から|拡張したマイコーデ枠の　装備セットを|着ることが　できなくなります。<br>| ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは|　今の設定が有効です。": ""
+        "<color_yellow>|マイコーデの拡張を変更すると　次回の更新から|拡張したマイコーデ枠の　装備セットを|着ることが　できなくなります。<br>| ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは|　今の設定が有効です。": "<color_yellow>|If you change the option plan for expanded glamour|slots, you won't be able to use them|once the current plan expires.<br>|*The current plan is valid until: <%d_YYYY>/<%d_MM>/<%d_DD>"
     },
     "620": {
         " ※ＤＱＸポイント自動更新（<%dDAY>日間利用券）": ""
