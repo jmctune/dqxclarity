@@ -624,7 +624,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eが チャットルームを 解散しました": "\\s<%sC_PC>\\m<%sC_ID>\\e dissolved the chat room."
     },
     "209": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eのルームから はずれました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eのルームから はずれました": "You were removed from \\s<%sC_PC>\\m<%sC_ID>\\e's Room."
     },
     "210": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eが \\s<%sC_PC2>\\m<%sC_ID2>\\eのルームから抜けました": "\\s<%sC_PC>\\m<%sC_ID>\\e left \\s<%sC_PC>\\m<%sC_ID>\\e's room."
