@@ -1620,7 +1620,7 @@
         "clarity_nt_char_177": "clarity_nt_char_177"
     },
     "541": {
-        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で盾ガード率上昇": "Battle Start Shield Guard Rate Up <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で盾ガード率上昇": "Battle Start Block Rate Up <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "542": {
         "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で会心率上昇": "Battle Start Crit. Rate Up <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -2094,7 +2094,7 @@
         "clarity_nt_char_235": "clarity_nt_char_235"
     },
     "699": {
-        "開戦時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で盾ガード率上昇": "Battle Start Shield Guard Rate Up <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "開戦時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で盾ガード率上昇": "Battle Start Block Rate Up <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "700": {
         "開戦時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でかいしん率上昇": "Battle Start Crit. Rate Up <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
@@ -2517,7 +2517,7 @@
         "clarity_nt_char_288": "clarity_nt_char_288"
     },
     "840": {
-        "盾装備で　開戦時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で盾ガード率上昇": "Battle Start With Shield Shield Guard Rate Up <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "盾装備で　開戦時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で盾ガード率上昇": "Battle Start With Shield Block Rate Up <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "841": {
         "clarity_nt_char_289": "clarity_nt_char_289"
@@ -6201,7 +6201,7 @@
         "会心率と呪文暴走率 +？%": "All Critical Rate +?%"
     },
     "2068": {
-        "盾装備で　開戦時  ？%で盾ガ率上昇": "Battle Start With Shield Shield Guard Rate Up ?%"
+        "盾装備で　開戦時  ？%で盾ガ率上昇": "Battle Start With Shield Block Rate Up ?%"
     },
     "2069": {
         "clarity_nt_char_685": "clarity_nt_char_685"
