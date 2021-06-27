@@ -327,7 +327,7 @@
         "clarity_nt_char_36": "clarity_nt_char_36"
     },
     "110": {
-        "預かり所に <%dM_gold> Gを 預けた。": ""
+        "預かり所に <%dM_gold> Gを 預けた。": "You deposited <%dM_gold> Gold in storage."
     },
     "111": {
         "clarity_nt_char_37": "clarity_nt_char_37"
@@ -357,7 +357,7 @@
         "clarity_nt_char_40": "clarity_nt_char_40"
     },
     "120": {
-        "預かり所に <%sM_item><%sM_plusnum>を <%dM_item_num>個 預けた。": ""
+        "預かり所に <%sM_item><%sM_plusnum>を <%dM_item_num>個 預けた。": "You deposited <%dM_item_num> <%sM_item><%sM_plusnum> in storage."
     },
     "121": {
         "旅人バザーで <%sM_item><%sM_plusnum>を <%dM_item_num>個 <%dM_gold> Gで買った！": ""
