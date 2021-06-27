@@ -4317,7 +4317,7 @@
         "消費集中力": ""
     },
     "1440": {
-        "預金額": "Deposited"
+        "預金額": "Stored"
     },
     "1441": {
         "あずけたお金": "Gold in Bank"
@@ -8853,7 +8853,7 @@
         "ログイン表示しない": "Don't Show Login"
     },
     "2952": {
-        "預け数<%nM_syozisuu>こ": "In Deposit: <%nM_syozisuu>"
+        "預け数<%nM_syozisuu>こ": "Stored: <%nM_syozisuu>"
     },
     "2953": {
         "clarity_nt_char_1021": "clarity_nt_char_1021"
