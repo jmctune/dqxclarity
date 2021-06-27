@@ -21,7 +21,7 @@
         "<%sL_PC>が <%sL_PLACE>での|クエストで手に入れた。": "<%sL_PC> received a quest from <%sL_PLACE>."
     },
     "8": {
-        "<%sL_PC>が <%sL_PLACE>の|<%sL_MONSTER>を倒して 手に入れた。": ""
+        "<%sL_PC>が <%sL_PLACE>の|<%sL_MONSTER>を倒して 手に入れた。": "<%sL_PC> got it in <%sL_PLACE>|by defeating a <%sL_MONSTER>."
     },
     "9": {
         "<%sL_PC>が ちいさなメダルと交換して|手に入れた。": ""
