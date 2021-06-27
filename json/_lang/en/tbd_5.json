@@ -585,10 +585,10 @@
         "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>と <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>を合成して|<%sL_ACCE_ITEM><%sL_PLUSNUM_3>になった！": ""
     },
     "196": {
-        "自宅の屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": ""
+        "自宅の屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "You took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> from the roof storage of my house."
     },
     "197": {
-        "<%sL_OWNER>の収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": ""
+        "<%sL_OWNER>の収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "<%sL_OWNER> took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> from storage furniture."
     },
     "198": {
         "clarity_nt_char_65": "clarity_nt_char_65"
@@ -1032,7 +1032,7 @@
         "<%sM_item><%sM_plusnum>を <%dM_item_num>個 取り出した。": "You took out <%dM_item_num> <%sM_item><%sM_plusnum>."
     },
     "345": {
-        "<%sM_item><%sM_plusnum>を 取り出した。": ""
+        "<%sM_item><%sM_plusnum>を 取り出した。": "You took out <%sM_item><%sM_plusnum>."
     },
     "346": {
         "<%sM_item><%sM_plusnum>を <%dM_item_num>個 預けた。": "You deposited <%dM_item_num> <%sM_item><%sM_plusnum>."
