@@ -3297,10 +3297,10 @@
         "clarity_nt_char_369": "clarity_nt_char_369"
     },
     "1100": {
-        "一時預かりぶくろから <%sL_ITEM>を 取り出した。": ""
+        "一時預かりぶくろから <%sL_ITEM>を 取り出した。": "You took out <%sL_ITEM> from temporary storage."
     },
     "1101": {
-        "一時預かりぶくろから <%sL_ITEM>を <%dL_QUANTITY>個取り出した。": ""
+        "一時預かりぶくろから <%sL_ITEM>を <%dL_QUANTITY>個取り出した。": "You took out <%dL_QUANTITY> <%sL_ITEM> from temporary storage."
     },
     "1102": {
         "clarity_nt_char_370": "clarity_nt_char_370"
