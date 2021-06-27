@@ -11925,7 +11925,7 @@
         "経験値": "EXP"
     },
     "3976": {
-        "最小サイズ": ""
+        "最小サイズ": "Small Size"
     },
     "3977": {
         "最大サイズ": ""
@@ -23460,7 +23460,7 @@
         "clarity_nt_char_2643": "clarity_nt_char_2643"
     },
     "7821": {
-        "標準": ""
+        "標準": "Normal"
     },
     "7822": {
         "clarity_nt_char_2644": "clarity_nt_char_2644"
@@ -23517,7 +23517,7 @@
         "clarity_nt_char_2651": "clarity_nt_char_2651"
     },
     "7840": {
-        "最小": ""
+        "最小": "Small"
     },
     "7841": {
         "clarity_nt_char_2652": "clarity_nt_char_2652"
