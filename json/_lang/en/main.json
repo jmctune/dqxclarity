@@ -30564,13 +30564,13 @@
         "妖精の姿見の見た目をセットする": ""
     },
     "10189": {
-        "イベント会場": ""
+        "イベント会場": "Event Area"
     },
     "10190": {
         "clarity_nt_char_3434": "clarity_nt_char_3434"
     },
     "10191": {
-        "イベント会場選択": ""
+        "イベント会場選択": "Choose Event Area"
     },
     "10192": {
         "clarity_nt_char_3435": "clarity_nt_char_3435"
@@ -30579,7 +30579,7 @@
         "現在地": "Current"
     },
     "10194": {
-        "イベント会場<%nM_00>": ""
+        "イベント会場<%nM_00>": "Event Area <%nM_00>"
     },
     "10195": {
         "clarity_nt_char_3436": "clarity_nt_char_3436"
@@ -30876,6 +30876,6 @@
         "clarity_nt_char_3472": "clarity_nt_char_3472"
     },
     "10293": {
-        "他のイベント会場に行く": ""
+        "他のイベント会場に行く": "Go to Other Event Area"
     }
 }
