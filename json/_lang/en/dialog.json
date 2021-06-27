@@ -2826,16 +2826,16 @@
         "clarity_nt_char_318": "clarity_nt_char_318"
     },
     "943": {
-        "<speed=0><%sM_pc>（<%sM_type>）だ。|格下の相手のようだ。|討伐数 <%dM_kill_num>匹。<%sM_saw>": ""
+        "<speed=0><%sM_pc>（<%sM_type>）だ。|格下の相手のようだ。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Seems to be pretty weak.|Number of kills: <%dM_kill_num> <%sM_saw>"
     },
     "944": {
         "clarity_nt_char_319": "clarity_nt_char_319"
     },
     "945": {
-        "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc>（<%sM_type>).|Seems quite strong…|Kills: <%dM_kill_num>. <%sM_saw>"
+        "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Seems pretty strong…|Number of kills: <%dM_kill_num> <%sM_saw>"
     },
     "946": {
-        "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "<speed=0><%sM_pc> (<%sM_type>)|I think it's best not to mess with it.|Number of kills: <%dM_kill_num>. <%sM_saw>"
+        "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Probably best not to mess with it...|Number of kills: <%dM_kill_num> <%sM_saw>"
     },
     "947": {
         "clarity_nt_char_320": "clarity_nt_char_320"
