@@ -246,7 +246,7 @@
         "clarity_nt_char_27": "clarity_nt_char_27"
     },
     "83": {
-        "預かり所に <%sM_item><%sM_plusnum>を 預けた。": ""
+        "預かり所に <%sM_item><%sM_plusnum>を 預けた。": "You deposited <%sM_item><%sM_plusnum> in storage."
     },
     "84": {
         "お店に <%sL_URITAI_ITEM><%sL_PLUSNUM>を <%dL_SELL_PRICE> Gで売った！": ""
