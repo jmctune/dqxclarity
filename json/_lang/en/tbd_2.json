@@ -702,7 +702,7 @@
         "clarity_nt_char_75": "clarity_nt_char_75"
     },
     "235": {
-        "悪魔系に ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "悪魔系に ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Damage to Demon-types +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "236": {
         "clarity_nt_char_76": "clarity_nt_char_76"
@@ -1980,7 +1980,7 @@
         "clarity_nt_char_221": "clarity_nt_char_221"
     },
     "661": {
-        "悪魔系に ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "悪魔系に ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Damage to Demon-types +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "662": {
         "clarity_nt_char_222": "clarity_nt_char_222"
