@@ -2220,7 +2220,7 @@
         "clarity_nt_char_250": "clarity_nt_char_250"
     },
     "741": {
-        "<speed=0><%sM_pc>（<%sM_type>）だ。|格下の相手のようだ。|討伐数 <%dM_kill_num>匹。": ""
+        "<speed=0><%sM_pc>（<%sM_type>）だ。|格下の相手のようだ。|討伐数 <%dM_kill_num>匹。": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Seems to be pretty weak.|Number of kills: <%dM_kill_num>"
     },
     "742": {
         "<speed=0><%sM_pc>（<%sM_type>）だ。|強そうだ……。|討伐数 <%dM_kill_num>匹。": "<speed=0>It's a <%sM_pc>（<%sM_type>).|Seems strong...|Kills: <%dM_kill_num>"
