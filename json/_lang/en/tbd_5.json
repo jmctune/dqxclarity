@@ -1029,7 +1029,7 @@
         "clarity_nt_char_109": "clarity_nt_char_109"
     },
     "344": {
-        "<%sM_item><%sM_plusnum>を <%dM_item_num>個 取り出した。": ""
+        "<%sM_item><%sM_plusnum>を <%dM_item_num>個 取り出した。": "You took out <%dM_item_num> <%sM_item><%sM_plusnum>."
     },
     "345": {
         "<%sM_item><%sM_plusnum>を 取り出した。": ""
