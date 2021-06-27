@@ -7962,25 +7962,25 @@
         "ライガークラッシュのダメージが１％増える|（ツメ専用）": "Wild Animaul damage increased by 1%.|(Claw Only)"
     },
     "2655": {
-        "足ばらいの成功率が５％増える（棍専用）": "Leg Sweep success rate increased by 5%.|(Staff Only)"
+        "足ばらいの成功率が５％増える（棍専用）": "Leg Sweep success rate increased by 5%.|(Rod Only)"
     },
     "2656": {
-        "黄泉送りのゾンビ系への|ダメージが３５％増える（棍専用）": "Deliverance damage to Zombie-types|increased by 35%. (Staff Only)"
+        "黄泉送りのゾンビ系への|ダメージが３５％増える（棍専用）": "Deliverance damage to Zombie-types|increased by 35%. (Rod Only)"
     },
     "2657": {
         "clarity_nt_char_921": "clarity_nt_char_921"
     },
     "2658": {
-        "なぎはらいのダメージが４％増える|（棍専用）": "Increases Party Pooper damage by 4%.|(Staff Only)"
+        "なぎはらいのダメージが４％増える|（棍専用）": "Increases Party Pooper damage by 4%.|(Rod Only)"
     },
     "2659": {
         "clarity_nt_char_922": "clarity_nt_char_922"
     },
     "2660": {
-        "氷結らんげきのダメージが５％増える|（棍専用）": "Crushed Ice damage increased by 5%.|(Staff Only)"
+        "氷結らんげきのダメージが５％増える|（棍専用）": "Crushed Ice damage increased by 5%.|(Rod Only)"
     },
     "2661": {
-        "奥義・棍閃殺のダメージが４％増える|（棍専用）": "Flash Kill damage increased by 4%.|(Staff Only)"
+        "奥義・棍閃殺のダメージが４％増える|（棍専用）": "Flash Kill damage increased by 4%.|(Rod Only)"
     },
     "2662": {
         "悪魔ばらいの悪魔系へのダメージが２０％|マヒ成功率が２％増える（両手杖専用）": "Beelzefreeze Demon-type damage increased|20%/paralyze rate 2%. (Staff Only)"
@@ -7995,7 +7995,7 @@
         "clarity_nt_char_924": "clarity_nt_char_924"
     },
     "2666": {
-        "しゅくふくの杖の回復量が１０％増える|（両手杖専用）": "Increases the recovery of Staff of Salvation by 10%.|(Heavy Wand Only)"
+        "しゅくふくの杖の回復量が１０％増える|（両手杖専用）": "Staff of Salvation recovery up by 10%.|(Staff Only)"
     },
     "2667": {
         "clarity_nt_char_925": "clarity_nt_char_925"
@@ -9279,7 +9279,7 @@
         "clarity_nt_char_1066": "clarity_nt_char_1066"
     },
     "3094": {
-        "活命の杖の効果時間が３秒増える|（両手杖専用）": "Life Staff duration increased by|3 seconds. (Heavy Wand Only)"
+        "活命の杖の効果時間が３秒増える|（両手杖専用）": "Life Staff duration increased by|3 seconds. (Staff Only)"
     },
     "3095": {
         "魅惑の水晶球の|効果時間が３秒増える（占い師専用）": "Magic Crystal Ball effect duration|increased by 3 seconds. (FOR Only)"
@@ -9375,7 +9375,7 @@
         "スピリットゾーンの効果範囲が|０．３ｍ増える（スティック専用）": "Spirit Zone range is increased by 0.3m.|(Wand Only)"
     },
     "3126": {
-        "霊脈魔法陣の射程距離が０．３ｍ増える|（両手杖専用）": "Ring of Spirit range increased by 0.3m.|(Heavy Wand Only)"
+        "霊脈魔法陣の射程距離が０．３ｍ増える|（両手杖専用）": "Ring of Spirit range increased by 0.3m.|(Staff Only)"
     },
     "3127": {
         "clarity_nt_char_1077": "clarity_nt_char_1077"
