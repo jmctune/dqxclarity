@@ -1098,10 +1098,10 @@
         "clarity_nt_char_115": "clarity_nt_char_115"
     },
     "367": {
-        "屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。": ""
+        "屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。": "You took out <%sL_ITEM_NAME><%sL_PLUSNUM> from the attic storage."
     },
     "368": {
-        "屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": ""
+        "屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "You took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> from the attic storage."
     },
     "369": {
         "clarity_nt_char_116": "clarity_nt_char_116"
