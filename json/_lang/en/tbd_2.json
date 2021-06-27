@@ -2769,19 +2769,19 @@
         "clarity_nt_char_319": "clarity_nt_char_319"
     },
     "924": {
-        "オノ装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "オノ装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Axe Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "925": {
         "clarity_nt_char_320": "clarity_nt_char_320"
     },
     "926": {
-        "オノ装備時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "オノ装備時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Axe Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "927": {
         "clarity_nt_char_321": "clarity_nt_char_321"
     },
     "928": {
-        "オノ装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "オノ装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Axe Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "929": {
         "clarity_nt_char_322": "clarity_nt_char_322"
@@ -2808,46 +2808,46 @@
         "右手にハンマー時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Hammer Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "937": {
-        "棍装備時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "棍装備時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Rod Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "938": {
-        "棍装備時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "棍装備時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Rod Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "939": {
-        "棍装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "棍装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Rod Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "940": {
-        "棍装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "棍装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Rod Lightning Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "941": {
-        "棍装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "棍装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Rod Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "942": {
-        "棍装備時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "棍装備時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Rod Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "943": {
-        "棍装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "棍装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Rod Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "944": {
-        "ツメ装備時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "ツメ装備時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Claw Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "945": {
         "clarity_nt_char_323": "clarity_nt_char_323"
     },
     "946": {
-        "ツメ装備時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "ツメ装備時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Claw Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "947": {
         "clarity_nt_char_324": "clarity_nt_char_324"
     },
     "948": {
-        "ツメ装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "ツメ装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Claw Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "949": {
         "clarity_nt_char_325": "clarity_nt_char_325"
     },
     "950": {
-        "ツメ装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "ツメ装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Claw Lightning Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "951": {
         "clarity_nt_char_326": "clarity_nt_char_326"
