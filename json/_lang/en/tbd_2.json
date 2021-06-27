@@ -252,7 +252,7 @@
         "clarity_nt_char_26": "clarity_nt_char_26"
     },
     "85": {
-        "盾ガード率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Shd. Guard Rate +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "盾ガード率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Block Rate +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "86": {
         "clarity_nt_char_27": "clarity_nt_char_27"
@@ -4821,7 +4821,7 @@
         "身かわし率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": "Dodge Rate <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1608": {
-        "盾ガード率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": "Shd. Guard Rate <%+.1fB_renkin>(<%+.1fB_renkindiff>)%"
+        "盾ガード率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": "Block Rate <%+.1fB_renkin>(<%+.1fB_renkindiff>)%"
     },
     "1609": {
         "かいしん率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": "Critical Rate <%+.1fB_renkin>(<%+.1fB_renkindiff>)%"
@@ -5073,7 +5073,7 @@
         "身かわし率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Dodge Rate <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1692": {
-        "盾ガード率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Shd. Guard Rate <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
+        "盾ガード率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Block Rate <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1693": {
         "かいしん率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Critical Rate <%+.1fB_renkin>（<%+.1fB_renkindiff>）%"
@@ -5514,7 +5514,7 @@
         "身かわし率 +？%": "Dodge Rate +?%"
     },
     "1839": {
-        "盾ガード率 +？%": "Shd. Guard Rate +?%"
+        "盾ガード率 +？%": "Block Rate +?%"
     },
     "1840": {
         "かいしん率 +？%": "Critical Rate+?%"
@@ -5928,7 +5928,7 @@
         "clarity_nt_char_657": "clarity_nt_char_657"
     },
     "1977": {
-        "開戦時 ？%で盾ガード率上昇": "Battle Start Shield Guard Rate Up ?%"
+        "開戦時 ？%で盾ガード率上昇": "Battle Start Block Rate Up ?%"
     },
     "1978": {
         "clarity_nt_char_658": "clarity_nt_char_658"
