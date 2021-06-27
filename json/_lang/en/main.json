@@ -4173,7 +4173,7 @@
         "clarity_nt_char_473": "clarity_nt_char_473"
     },
     "1392": {
-        "Lv<%dM_lv>以上装備可": "Lv<%dM_lv> Requirement"
+        "Lv<%dM_lv>以上装備可": "Lv<%dM_lv> Required"
     },
     "1393": {
         "受取": ""
@@ -6333,7 +6333,7 @@
         "<%sM_timei>公認": ""
     },
     "2112": {
-        "以上装備可": "Requirement"
+        "以上装備可": "Required"
     },
     "2113": {
         "(<%sM_race>のみ)": ""
