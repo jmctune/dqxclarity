@@ -12,7 +12,7 @@
         "<%sL_PC>が <%sL_SYOKUNIN>で|<%sL_KOUKA>の効果を付けた。": ""
     },
     "5": {
-        "<%sL_PC>が <%sL_PLACE>の|お店で買った。": ""
+        "<%sL_PC>が <%sL_PLACE>の|お店で買った。": "<%sL_PC> bought it at a shop in|<%sL_PLACE>"
     },
     "6": {
         "clarity_nt_char_2": "clarity_nt_char_2"
