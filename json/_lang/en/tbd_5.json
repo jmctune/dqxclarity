@@ -240,7 +240,7 @@
         "<%sM_recipe>のレシピを おぼえた！": ""
     },
     "81": {
-        "預かり所から <%sM_item><%sM_plusnum>を 取り出した。": ""
+        "預かり所から <%sM_item><%sM_plusnum>を 取り出した。": "You took out <%sM_item><%sM_plusnum> from storage."
     },
     "82": {
         "clarity_nt_char_27": "clarity_nt_char_27"
