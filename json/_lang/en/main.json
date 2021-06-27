@@ -16296,7 +16296,7 @@
         "[<%sM_next_prev><%dM_next_prev_num><%sM_next_prev_unit>をみる]": ""
     },
     "5433": {
-        "[次の<%dM_next_prev_num><%sM_next_prev_unit>をみる]": ""
+        "[次の<%dM_next_prev_num><%sM_next_prev_unit>をみる]": "[Next <%dM_next_prev_num>]"
     },
     "5434": {
         "clarity_nt_char_1851": "clarity_nt_char_1851"
