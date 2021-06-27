@@ -2067,7 +2067,7 @@
         "<speed=0><%sM_owner>の　仲間モンスター|<%sM_monster>を　なでなでしますか？|<yesno 1><close>": "<speed=0>Do you want to stroke <%sM_owner>'s|fellow monster <%sM_monster>?|<yesno 1><close>"
     },
     "690": {
-        "<speed=0>この場所では　マイコーデは使えません！": ""
+        "<speed=0>この場所では　マイコーデは使えません！": "<speed=0>You can't apply a glamour here!"
     },
     "691": {
         "clarity_nt_char_233": "clarity_nt_char_233"
@@ -5466,7 +5466,7 @@
         "clarity_nt_char_616": "clarity_nt_char_616"
     },
     "1823": {
-        "<speed=0>|この見た目は　マイコーデに登録できません！": ""
+        "<speed=0>|この見た目は　マイコーデに登録できません！": "<speed=0>You can't register this appearance as glamour!"
     },
     "1824": {
         "<speed=0>このマイコーデには　空の部位があります。|空の部位を　どのように表示して着ますか？|<select_se_off>|空の部位は空のままで着る|空の部位に装備中の装備を表示して着る|<select_end>|<close>": ""
