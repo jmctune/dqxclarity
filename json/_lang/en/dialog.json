@@ -6294,7 +6294,7 @@
         "clarity_nt_char_709": "clarity_nt_char_709"
     },
     "2099": {
-        "<speed=0>水の中では　傘装備・釣り具が|非表示・使用不能になります。": ""
+        "<speed=0>水の中では　傘装備・釣り具が|非表示・使用不能になります。": "<speed=0>Umbrella and fishing gear will be hidden|and unusable while swimming."
     },
     "2100": {
         "clarity_nt_char_710": "clarity_nt_char_710"
