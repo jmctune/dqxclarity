@@ -633,10 +633,10 @@
         "clarity_nt_char_71": "clarity_nt_char_71"
     },
     "212": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e <%dB_VALUE> Gold received!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> Gold!"
     },
     "213": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは なにも かくとくできなかった。": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは なにも かくとくできなかった。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e couldn't receive anything."
     },
     "214": {
         "clarity_nt_char_72": "clarity_nt_char_72"
@@ -651,10 +651,10 @@
         "clarity_nt_char_73": "clarity_nt_char_73"
     },
     "218": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 戦いを やめた。": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 戦いを やめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e left the battle."
     },
     "219": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ＭＰが 足りなかった。": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ＭＰが 足りなかった。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e doesn't have enough MP."
     },
     "220": {
         "clarity_nt_char_74": "clarity_nt_char_74"
