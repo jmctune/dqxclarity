@@ -741,19 +741,19 @@
         "clarity_nt_char_84": "clarity_nt_char_84"
     },
     "248": {
-        "<speed=0>種族が合わないため　装備できない！": ""
+        "<speed=0>種族が合わないため　装備できない！": "<speed=0>I can't equip it because it doesn't match my race!"
     },
     "249": {
         "clarity_nt_char_85": "clarity_nt_char_85"
     },
     "250": {
-        "<speed=0>性別が合わないため　装備できない！": ""
+        "<speed=0>性別が合わないため　装備できない！": "<speed=0>Cannot equip due to gender mismatch!"
     },
     "251": {
         "clarity_nt_char_86": "clarity_nt_char_86"
     },
     "252": {
-        "<speed=0>職業が合わないため　装備できない！": ""
+        "<speed=0>職業が合わないため　装備できない！": "<speed=0>Can't equip it because it doesn't match my profession!"
     },
     "253": {
         "clarity_nt_char_87": "clarity_nt_char_87"
