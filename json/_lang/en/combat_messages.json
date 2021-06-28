@@ -969,7 +969,7 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>位に 匿名で ワールドレコードに登録した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e anonymously recorded their Rank <%dB_VALUE> World Record!"
     },
     "324": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代の自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e has a new overall personal best!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代の自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e has a new personal best!"
     },
     "325": {
         "clarity_nt_char_112": "clarity_nt_char_112"
@@ -1083,13 +1083,13 @@
         "clarity_nt_char_125": "clarity_nt_char_125"
     },
     "362": {
-        "無制限部門の 歴代の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "New overall personal best of <%sB_VALUE>.<%sB_VALUE2> sec. in the unlimited category!"
+        "無制限部門の 歴代の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "New personal best of <%sB_VALUE>.<%sB_VALUE2> sec. in the unlimited category!"
     },
     "363": {
         "無制限部門の 月間の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "New monthly best of <%sB_VALUE>.<%sB_VALUE2> sec. in the unlimited category!"
     },
     "364": {
-        "職業重複なし部門の 歴代の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "New overall personal best of <%sB_VALUE>.<%sB_VALUE2> sec. in the unlimited category!"
+        "職業重複なし部門の 歴代の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "New personal best of <%sB_VALUE>.<%sB_VALUE2> sec. in the unlimited category!"
     },
     "365": {
         "clarity_nt_char_126": "clarity_nt_char_126"
@@ -1773,7 +1773,7 @@
         "clarity_nt_char_204": "clarity_nt_char_204"
     },
     "592": {
-        "歴代の自己ベストを　更新した！<se_nots System 17>": "Set a new overall personal best!<se_nots System 17>"
+        "歴代の自己ベストを　更新した！<se_nots System 17>": "Set a new personal best!<se_nots System 17>"
     },
     "593": {
         "clarity_nt_char_205": "clarity_nt_char_205"
@@ -1812,13 +1812,13 @@
         "他のプレイヤーから　名前が見えない状態で|月間ランキングに　記録が登録されました。": "Monthly records have been registered|with name not visible to others."
     },
     "605": {
-        "歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": "Set a new overall personal best of <%sB_VALUE>.<%sB_VALUE2> sec.!<se_nots System 17>"
+        "歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": "Set a new personal best of <%sB_VALUE>.<%sB_VALUE2> sec.!<se_nots System 17>"
     },
     "606": {
         "月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": "Set a new monthly best of <%sB_VALUE>.<%sB_VALUE2> sec.!<se_nots System 17>"
     },
     "607": {
-        "歴代の自己ベストを　 <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 　更新した！<se_nots System 17>": "Set a new overall personal best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.! <se_nots System 17>"
+        "歴代の自己ベストを　 <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 　更新した！<se_nots System 17>": "Set a new personal best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.! <se_nots System 17>"
     },
     "608": {
         "clarity_nt_char_209": "clarity_nt_char_209"
@@ -1872,19 +1872,19 @@
         "無制限部門の|月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new monthly best of|<%sB_VALUE>.<%sB_VALUE2> seconds in the unlimited category!<se_nots System 17>"
     },
     "625": {
-        "職業重複なし部門の|歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new overall personal best of|<%sB_VALUE>.<%sB_VALUE2> seconds in the unique category!<se_nots System 17>"
+        "職業重複なし部門の|歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of|<%sB_VALUE>.<%sB_VALUE2> seconds in the unique category!<se_nots System 17>"
     },
     "626": {
         "clarity_nt_char_216": "clarity_nt_char_216"
     },
     "627": {
-        "職業重複なし部門の|月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new overall personal best of|<%sB_VALUE>.<%sB_VALUE2> seconds in the unique category!<se_nots System 17>"
+        "職業重複なし部門の|月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of|<%sB_VALUE>.<%sB_VALUE2> seconds in the unique category!<se_nots System 17>"
     },
     "628": {
         "clarity_nt_char_217": "clarity_nt_char_217"
     },
     "629": {
-        "サポと１人で部門の|歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new overall personal best of|<%sB_VALUE>.<%sB_VALUE2> seconds in the support category!<se_nots System 17>"
+        "サポと１人で部門の|歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of|<%sB_VALUE>.<%sB_VALUE2> seconds in the support category!<se_nots System 17>"
     },
     "630": {
         "clarity_nt_char_218": "clarity_nt_char_218"
@@ -1896,7 +1896,7 @@
         "clarity_nt_char_219": "clarity_nt_char_219"
     },
     "633": {
-        "無制限部門の|歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new overall personal best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unlimited category!<se_nots System 17>"
+        "無制限部門の|歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new personal best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unlimited category!<se_nots System 17>"
     },
     "634": {
         "clarity_nt_char_220": "clarity_nt_char_220"
@@ -1908,13 +1908,13 @@
         "clarity_nt_char_221": "clarity_nt_char_221"
     },
     "637": {
-        "職業重複なし部門の|歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new overall personal best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!<se_nots System 17>"
+        "職業重複なし部門の|歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new personal best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!<se_nots System 17>"
     },
     "638": {
         "職業重複なし部門の|月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!<se_nots System 17>"
     },
     "639": {
-        "サポと１人で部門の|歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new overall personal best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the support category!<se_nots System 17>"
+        "サポと１人で部門の|歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new personal best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the support category!<se_nots System 17>"
     },
     "640": {
         "サポと１人で部門の|月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the support category!<se_nots System 17>"
