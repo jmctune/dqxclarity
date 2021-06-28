@@ -2607,25 +2607,25 @@
         "<speed=0>|絵葉書にした写真を　誰かに渡すと|あなたが渡した人から　いろいろな人の手に|渡る可能性がありますので　ご注意ください。": "<speed=0>Please note that by giving someone a|postcard, they will be able to show it to others,|so be careful."
     },
     "870": {
-        "<select_nc_se_off>|メインメニューへ|ログアウトして起動ランチャーへ|ログアウトしてソフトを終了する|<select_end><close>": "<select_nc_se_off>|Go to main menu|Logout to launcher|Logout and exit software|<select_end><close>"
+        "<select_nc_se_off>|メインメニューへ|ログアウトして起動ランチャーへ|ログアウトしてソフトを終了する|<select_end><close>": "<select_nc_se_off>|Go to Main Menu|Logout to Launcher|Logout and Exit Software|<select_end><close>"
     },
     "871": {
-        "<select_nc_se_off>|メインメニューへ|ログアウトしてタイトルへ|ログアウトして電源を切る|<select_end><close>": "<select_nc_se_off>|Go to main menu|Logout and go to title|Logout and exit|<select_end><close>"
+        "<select_nc_se_off>|メインメニューへ|ログアウトしてタイトルへ|ログアウトして電源を切る|<select_end><close>": "<select_nc_se_off>|Go to Main Menu|Logout and Go to Title|Logout and Exit|<select_end><close>"
     },
     "872": {
-        "<select_nc_se_off>|メインメニューへ|ログアウトしてタイトルへ|ログアウトしてWii Uメニューへ|<select_end><close>": ""
+        "<select_nc_se_off>|メインメニューへ|ログアウトしてタイトルへ|ログアウトしてWii Uメニューへ|<select_end><close>": "Blah blah Wii U stuff"
     },
     "873": {
         "clarity_nt_char_298": "clarity_nt_char_298"
     },
     "874": {
-        "<center>おつかれさまでした。|『だれでもＯＫ』で酒場登録しました。|このあとは　どこに戻りますか？<break>": "Thank you for playing!|\"Anyone Is Welcome\" registered at the tavern.|Where do you want to go after this?<break>"
+        "<center>おつかれさまでした。|『だれでもＯＫ』で酒場登録しました。|このあとは　どこに戻りますか？<break>": "Thank you for playing!|\"Anyone Is OK\" registered at the tavern.|Where would like to go?<break>"
     },
     "875": {
         "clarity_nt_char_299": "clarity_nt_char_299"
     },
     "876": {
-        "<center><color_yellow>※酒場登録に　失敗しました。<color_white>|おつかれさまでした。|このあとは　どこに戻りますか？<break>": ""
+        "<center><color_yellow>※酒場登録に　失敗しました。<color_white>|おつかれさまでした。|このあとは　どこに戻りますか？<break>": "<center><color_yellow>*Failed to register at the tavern.<color_white>|Thank you for playing!|Where would you like to go?<break>"
     },
     "877": {
         "この絵葉書の　写真を|思い出アルバムに　コピーしますか？|<yesno><close>": ""
