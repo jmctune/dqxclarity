@@ -1704,10 +1704,10 @@
         "<%dB_VALUE> G　かくとく！": "Received <%dB_VALUE> Gold!"
     },
     "569": {
-        "<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの経験値|<%dB_VALUE3> G　かくとく！": "<%dB_VALUE>+<%dB_VALUE2>(Strong Enemy Bonus) EXP and|<%dB_VALUE3> Gold received!"
+        "<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの経験値|<%dB_VALUE3> G　かくとく！": "Received <%dB_VALUE> +<%dB_VALUE2> (Strong Enemy Bonus) EXP|and <%dB_VALUE3> Gold!"
     },
     "570": {
-        "<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの|経験値を　かくとく！": "<%dB_VALUE>+<%dB_VALUE2> (Strong Enemy Bonus) EXP received!"
+        "<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの|経験値を　かくとく！": "Received <%dB_VALUE> +<%dB_VALUE2> (Strong Enemy Bonus) EXP!"
     },
     "571": {
         "clarity_nt_char_196": "clarity_nt_char_196"
