@@ -2763,7 +2763,7 @@
         "clarity_nt_char_313": "clarity_nt_char_313"
     },
     "922": {
-        "<speed=0>さそいを受けられない　仲間がいます。|一緒に行かない人は　ここで|仲間からはずれますが　よろしいですか？<yesno 2><close>": ""
+        "<speed=0>さそいを受けられない　仲間がいます。|一緒に行かない人は　ここで|仲間からはずれますが　よろしいですか？<yesno 2><close>": "<speed=0>There is a party member who hasn't|accepted an invitation. If you go on, they won't|be included. Is this okay?<yesno 2><close>"
     },
     "923": {
         "<speed=0>この先に進むのを　やめますか？<yesno><close>": ""
