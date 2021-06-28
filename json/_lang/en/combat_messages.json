@@ -1761,25 +1761,25 @@
         "ランキングに　名前を登録しても　よろしいですか？<yesno>": "May I add your name to the ranking?<yesno>"
     },
     "588": {
-        "<%dB_VALUE>位で　ワールドレコードに登録した！": ""
+        "<%dB_VALUE>位で　ワールドレコードに登録した！": "Registered the World Record at Rank <%dB_VALUE>!"
     },
     "589": {
         "clarity_nt_char_203": "clarity_nt_char_203"
     },
     "590": {
-        "<%dB_VALUE>位に　匿名で　ワールドレコードに登録した！": ""
+        "<%dB_VALUE>位に　匿名で　ワールドレコードに登録した！": "Anonymously registered in the World Ranking at Rank <%dB_VALUE>!"
     },
     "591": {
         "clarity_nt_char_204": "clarity_nt_char_204"
     },
     "592": {
-        "歴代の自己ベストを　更新した！<se_nots System 17>": ""
+        "歴代の自己ベストを　更新した！<se_nots System 17>": "Set a new overall personal best!<se_nots System 17>"
     },
     "593": {
         "clarity_nt_char_205": "clarity_nt_char_205"
     },
     "594": {
-        "月間の自己ベストを　更新した！<se_nots System 17>": ""
+        "月間の自己ベストを　更新した！<se_nots System 17>": "Set a new monthly personal best!<se_nots System 17>"
     },
     "595": {
         "clarity_nt_char_206": "clarity_nt_char_206"
