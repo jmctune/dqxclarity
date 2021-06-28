@@ -468,10 +468,10 @@
         "おもさ": "Weight"
     },
     "157": {
-        "不意をつく確率": ""
+        "不意をつく確率": "Surprise Rate"
     },
     "158": {
-        "身かわし率": ""
+        "身かわし率": "Dodge Rate"
     },
     "159": {
         "盾ガード率": "Block Rate"
@@ -480,7 +480,7 @@
         "かいしん率": "Critical Rate"
     },
     "161": {
-        "呪文発動速度": ""
+        "呪文発動速度": "Spell Cast Speed"
     },
     "162": {
         "clarity_nt_char_57": "clarity_nt_char_57"
@@ -489,7 +489,7 @@
         "ＭＰ吸収率": "MP Absorb Rate"
     },
     "164": {
-        "ブレス系ダメージ ??%減": ""
+        "ブレス系ダメージ ??%減": "Breath Damage Reduction ??%"
     },
     "165": {
         "攻撃呪文ダメージ ??%減": "Attack Spell Damage Taken -??%"
@@ -519,7 +519,7 @@
         "どくガード": "Poison Guard"
     },
     "174": {
-        "見とれるガード": ""
+        "見とれるガード": "Surprise Guard"
     },
     "175": {
         "炎ダメージ ??%減": ""
