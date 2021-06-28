@@ -498,10 +498,10 @@
         "<speed=0>しかし　なにも　おこらなかった！": "<speed=0>But nothing happened!"
     },
     "167": {
-        "<speed=0>新品の装備品です！|一度　装備すると　他の人に|渡せなくなりますが　よろしいですか？<yesno 2><close>": ""
+        "<speed=0>新品の装備品です！|一度　装備すると　他の人に|渡せなくなりますが　よろしいですか？<yesno 2><close>": "<speed=0>This is brand new equipment!|Once you equip it, you can't give it|to anyone else, is that okay?<yesno 2><close>"
     },
     "168": {
-        "ＢＧＭや効果音の|ボリュームを|設定します": ""
+        "ＢＧＭや効果音の|ボリュームを|設定します": "Set the volume|of background music|and sound effects"
     },
     "169": {
         "画面の視点の|操作方法を|設定します": "Change screen|camera|settings."
@@ -528,7 +528,7 @@
         "clarity_nt_char_59": "clarity_nt_char_59"
     },
     "177": {
-        "<speed=0><%sM_pc>は　いまは|パーティリーダーに　なれない！": ""
+        "<speed=0><%sM_pc>は　いまは|パーティリーダーに　なれない！": "<speed=0><%sM_pc> can't be a party leader right now!"
     },
     "178": {
         "clarity_nt_char_60": "clarity_nt_char_60"
@@ -537,19 +537,19 @@
         "<speed=0><%sM_pc>を|パーティリーダーにしますか？<yesno><close>": "<speed=0>Make <%sM_pc> the party leader?<yesno><close>"
     },
     "180": {
-        "<speed=0>クエストがありません。": ""
+        "<speed=0>クエストがありません。": "<speed=0>There are no quests."
     },
     "181": {
         "clarity_nt_char_61": "clarity_nt_char_61"
     },
     "182": {
-        "<speed=0>現在　見られるクエストは　ありません。": ""
+        "<speed=0>現在　見られるクエストは　ありません。": "<speed=0>There are currently no quests to view."
     },
     "183": {
         "clarity_nt_char_62": "clarity_nt_char_62"
     },
     "184": {
-        "<speed=0>このクエストは　すでにクリアしています。|リプレイしますか？<yesno 2><close>": ""
+        "<speed=0>このクエストは　すでにクリアしています。|リプレイしますか？<yesno 2><close>": "<speed=0>You've already completed this quest.|Do you want to replay it?<yesno 2><close>"
     },
     "185": {
         "<speed=0>このクエストは　まだ受注していません。|リストから削除しますか？<yesno><close>": ""
