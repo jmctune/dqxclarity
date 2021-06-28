@@ -1803,19 +1803,19 @@
         "月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>|記録を　登録します。": "Won monthly ranking (Rank <%dB_VALUE>)!|Records have been registered."
     },
     "602": {
-        "他のプレイヤーから　名前が見える状態で|月間ランキングに　記録が登録されました。": ""
+        "他のプレイヤーから　名前が見える状態で|月間ランキングに　記録が登録されました。": "Monthly records have been registered|with name visible to others."
     },
     "603": {
         "clarity_nt_char_208": "clarity_nt_char_208"
     },
     "604": {
-        "他のプレイヤーから　名前が見えない状態で|月間ランキングに　記録が登録されました。": ""
+        "他のプレイヤーから　名前が見えない状態で|月間ランキングに　記録が登録されました。": "Monthly records have been registered|with name not visible to others."
     },
     "605": {
-        "歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": ""
+        "歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": "Set a new overall personal best of <%sB_VALUE>.<%sB_VALUE2> sec.!<se_nots System 17>"
     },
     "606": {
-        "月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": ""
+        "月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": "Set a new monthly personal best of <%sB_VALUE>.<%sB_VALUE2> sec.!<se_nots System 17>"
     },
     "607": {
         "歴代の自己ベストを　 <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 　更新した！<se_nots System 17>": ""
