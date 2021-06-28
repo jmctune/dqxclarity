@@ -420,7 +420,7 @@
         "clarity_nt_char_45": "clarity_nt_char_45"
     },
     "141": {
-        "<speed=0><%sM_pc>は <%sM_item>を見つけた！": ""
+        "<speed=0><%sM_pc>は <%sM_item>を見つけた！": "<speed=0><%sM_pc> has found <%sM_item>!"
     },
     "142": {
         "<speed=0><%sM_pc>は　本の間に|<%sM_item>を見つけたが|これ以上持てないので　元に戻した。": ""
@@ -429,7 +429,7 @@
         "clarity_nt_char_46": "clarity_nt_char_46"
     },
     "144": {
-        "<speed=0><%sM_pc>は　本の間に|<%sM_item>を見つけた！": ""
+        "<speed=0><%sM_pc>は　本の間に|<%sM_item>を見つけた！": "<speed=0><%sM_pc> found|<%sM_item> between the books!"
     },
     "145": {
         "clarity_nt_char_47": "clarity_nt_char_47"
@@ -438,7 +438,7 @@
         "<speed=0>レベルが足りないため　装備できない！": "<speed=0>I can't equip it because I'm not high enough!"
     },
     "147": {
-        "<speed=0><%sM_item>は　手に入りづらい|貴重な物ですが　本当に　捨ててもいいですか？<yesno2><close>": ""
+        "<speed=0><%sM_item>は　手に入りづらい|貴重な物ですが　本当に　捨ててもいいですか？<yesno2><close>": "<speed=0><%sM_item> is valuable, are|you sure you want to throw it away?<yesno2><close>"
     },
     "148": {
         "clarity_nt_char_48": "clarity_nt_char_48"
@@ -462,7 +462,7 @@
         "clarity_nt_char_51": "clarity_nt_char_51"
     },
     "155": {
-        "しかし ふしぎなチカラで かきけされた！": ""
+        "しかし ふしぎなチカラで かきけされた！": "But a mysterious power has made it possible!"
     },
     "156": {
         "clarity_nt_char_52": "clarity_nt_char_52"
@@ -480,13 +480,13 @@
         "clarity_nt_char_54": "clarity_nt_char_54"
     },
     "161": {
-        "<speed=0>戦闘中に　<%sM_item>は　使えない！": ""
+        "<speed=0>戦闘中に　<%sM_item>は　使えない！": "<speed=0>You can't use <%sM_item> in combat!"
     },
     "162": {
-        "<speed=0>名前が　入力されていません！": ""
+        "<speed=0>名前が　入力されていません！": "<speed=0>No name entered!"
     },
     "163": {
-        "あなたの職業を選びます": ""
+        "あなたの職業を選びます": "Choose your profession."
     },
     "164": {
         "あなたのキャラを　作ります。": "Create your character."
