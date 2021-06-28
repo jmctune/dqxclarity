@@ -2532,7 +2532,7 @@
         "clarity_nt_char_287": "clarity_nt_char_287"
     },
     "845": {
-        "<speed=0>このサーバーでは|「サーバー移動」は　使えません。": "<speed=0>You can't use server move on this server."
+        "<speed=0>このサーバーでは|「サーバー移動」は　使えません。": "<speed=0>You can't use \"Move Server\" on this server."
     },
     "846": {
         "clarity_nt_char_288": "clarity_nt_char_288"
