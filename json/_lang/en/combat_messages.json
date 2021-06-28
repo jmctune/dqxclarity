@@ -303,10 +303,10 @@
         "clarity_nt_char_36": "clarity_nt_char_36"
     },
     "102": {
-        "<%sB_TARGET>は 呪いで ちからつきた。": "<%sB_TARGET> has been curesed."
+        "<%sB_TARGET>は 呪いで ちからつきた。": "<%sB_TARGET> has been cursed."
     },
     "103": {
-        "<%sB_TARGET>は どくで ちからつきた。": ""
+        "<%sB_TARGET>は どくで ちからつきた。": "<%sB_TARGET> has been poisoned."
     },
     "104": {
         "スキルポイントの かくとく なし。": "No skill points received."
@@ -321,13 +321,13 @@
         "特訓スタンプを <%dB_VALUE> 個 かくとく！": "You received <%dB_VALUE> special training stamps!"
     },
     "108": {
-        "今の戦いは 特訓には ならなかった。": ""
+        "今の戦いは 特訓には ならなかった。": "This battle is not special training."
     },
     "109": {
         "clarity_nt_char_38": "clarity_nt_char_38"
     },
     "110": {
-        "ここでは 呼びだせない！": "Can't call it in here!"
+        "ここでは 呼びだせない！": "Can't call here!"
     },
     "111": {
         "clarity_nt_char_39": "clarity_nt_char_39"
