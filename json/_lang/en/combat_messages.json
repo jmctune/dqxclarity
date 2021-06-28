@@ -807,19 +807,19 @@
         "clarity_nt_char_91": "clarity_nt_char_91"
     },
     "270": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは まものたちから 何かを盗みとっていた！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは まものたちから 何かを盗みとっていた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stole something from the group of enemies!"
     },
     "271": {
         "clarity_nt_char_92": "clarity_nt_char_92"
     },
     "272": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 呪いで ちからつきた。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 呪いで ちからつきた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was exhausted from the curse."
     },
     "273": {
         "clarity_nt_char_93": "clarity_nt_char_93"
     },
     "274": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは どくで ちからつきた。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは どくで ちからつきた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was exhausted from the poison."
     },
     "275": {
         "clarity_nt_char_94": "clarity_nt_char_94"
