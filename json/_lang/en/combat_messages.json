@@ -1149,10 +1149,10 @@
         "\\s<%sB_BASE_TARGET>\\m<%sB_BASE_TARGET_ID>\\eの \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは いなくなった。": "\\s<%sB_BASE_TARGET>\\m<%sB_BASE_TARGET_ID>\\e's \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is gone."
     },
     "384": {
-        "　総獲得スタンプ<%sB_VALUE> 個 (内 元気ボーナス <%sB_VALUE2> 個)": ""
+        "　総獲得スタンプ<%sB_VALUE> 個 (内 元気ボーナス <%sB_VALUE2> 個)": "　Total Training Stamps: <%sB_VALUE> (Inner Bonus +<%sB_VALUE2> )"
     },
     "385": {
-        "思い出アルバムへの保存に 失敗しました。": ""
+        "思い出アルバムへの保存に 失敗しました。": "Failed to save to Photo Album."
     },
     "386": {
         "clarity_nt_char_133": "clarity_nt_char_133"
