@@ -615,34 +615,34 @@
         "攻撃時 ??%でマホトーン": "Fizzle Attack ??%"
     },
     "206": {
-        "攻撃時 ??%でヘナトス": ""
+        "攻撃時 ??%でヘナトス": "Blunt Attack ??%"
     },
     "207": {
         "clarity_nt_char_72": "clarity_nt_char_72"
     },
     "208": {
-        "攻撃時 ??%でルカニ": ""
+        "攻撃時 ??%でルカニ": "Sap Attack ??%"
     },
     "209": {
-        "攻撃時 ??%でリホ系解除": ""
+        "攻撃時 ??%でリホ系解除": "Re-type Dispel Attack ??%"
     },
     "210": {
-        "攻撃時 ??%でマホ系解除": ""
+        "攻撃時 ??%でマホ系解除": "Magic-type Dispel Attack ??%"
     },
     "211": {
-        "攻撃時 ??%でミスする": ""
+        "攻撃時 ??%でミスする": "Miss Attack ??%"
     },
     "212": {
         "clarity_nt_char_73": "clarity_nt_char_73"
     },
     "213": {
-        "移動速度": ""
+        "移動速度": "Move Speed"
     },
     "214": {
         "clarity_nt_char_74": "clarity_nt_char_74"
     },
     "215": {
-        "武器ガード率": ""
+        "武器ガード率": "Weapon Guard Rate"
     },
     "216": {
         "clarity_nt_char_75": "clarity_nt_char_75"
@@ -666,7 +666,7 @@
         "clarity_nt_char_77": "clarity_nt_char_77"
     },
     "223": {
-        "笑いガード": ""
+        "笑いガード": "Laugh Guard"
     },
     "224": {
         "踊らされガード": "Dance Guard"
