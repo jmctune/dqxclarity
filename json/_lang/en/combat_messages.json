@@ -582,13 +582,13 @@
         "clarity_nt_char_64": "clarity_nt_char_64"
     },
     "195": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは レベル<%dB_VALUE>に あがった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e reached level <%dB_VALUE>!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは レベル<%dB_VALUE>に あがった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e has reached level <%dB_VALUE>!"
     },
     "196": {
         "clarity_nt_char_65": "clarity_nt_char_65"
     },
     "197": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 死んでいるため レベルが あがらなかった。": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 死んでいるため レベルが あがらなかった。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e couldn't level up since they're dead."
     },
     "198": {
         "clarity_nt_char_66": "clarity_nt_char_66"
@@ -597,7 +597,7 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの先制攻撃！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e strikes first!"
     },
     "200": {
-        "<%sB_TARGET>の先制攻撃！": "<%sB_TARGET> strike first!"
+        "<%sB_TARGET>の先制攻撃！": "<%sB_TARGET> strikes first!"
     },
     "201": {
         "clarity_nt_char_67": "clarity_nt_char_67"
