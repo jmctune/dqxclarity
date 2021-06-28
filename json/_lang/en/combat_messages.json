@@ -18,16 +18,16 @@
         "clarity_nt_char_3": "clarity_nt_char_3"
     },
     "7": {
-        "<%sB_ACTOR>が 戦いに参加した！": "<%sB_ACTOR> joined the party!"
+        "<%sB_ACTOR>が 戦いに参加した！": "<%sB_ACTOR> joined the battle!"
     },
     "8": {
-        "<%sB_ACTOR>は 戦いをやめた。": "<%sB_ACTOR> runs away."
+        "<%sB_ACTOR>は 戦いをやめた。": "<%sB_ACTOR> stopped fighting."
     },
     "9": {
         "clarity_nt_char_4": "clarity_nt_char_4"
     },
     "10": {
-        "<%sB_ACTOR>は 戦うのをやめた。": ""
+        "<%sB_ACTOR>は 戦うのをやめた。": "<%sB_ACTOR> has stopped fighting."
     },
     "11": {
         "<%sB_TARGET>を やっつけた！": "The enemy is defeated!"
@@ -81,7 +81,7 @@
         "clarity_nt_char_11": "clarity_nt_char_11"
     },
     "28": {
-        "<%sB_ACTOR>は ちからつきた。": ""
+        "<%sB_ACTOR>は ちからつきた。": "<%sB_ACTOR> is exhausted."
     },
     "29": {
         "clarity_nt_char_12": "clarity_nt_char_12"
