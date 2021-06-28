@@ -99,16 +99,16 @@
         "clarity_nt_char_12": "clarity_nt_char_12"
     },
     "34": {
-        "具材を動かさずに|このまま焼く": ""
+        "具材を動かさずに|このまま焼く": "Don't move the|ingredients"
     },
     "35": {
-        "上下左右のマスに|具材を移動する": ""
+        "上下左右のマスに|具材を移動する": "Move ingredients|to outside squares"
     },
     "36": {
         "clarity_nt_char_13": "clarity_nt_char_13"
     },
     "37": {
-        "ななめのマスに|具材を移動する": ""
+        "ななめのマスに|具材を移動する": "Move ingredients|diagonally"
     },
     "38": {
         "縦２マスにある|上下の具材を|入れ替える": ""
