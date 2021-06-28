@@ -1191,7 +1191,7 @@
         "clarity_nt_char_137": "clarity_nt_char_137"
     },
     "398": {
-        "　総獲得達人経験値  <%sB_VALUE> P (内 元気ボーナス <%sB_VALUE2> P)": ""
+        "　総獲得達人経験値  <%sB_VALUE> P (内 元気ボーナス <%sB_VALUE2> P)": "　Total Master Orb EXP: <%sB_VALUE> (Inner Bonus +<%sB_VALUE2>)"
     },
     "399": {
         "clarity_nt_char_138": "clarity_nt_char_138"
@@ -1203,7 +1203,7 @@
         "clarity_nt_char_139": "clarity_nt_char_139"
     },
     "402": {
-        "討伐対象 <%sB_TARGET>！": ""
+        "討伐対象 <%sB_TARGET>！": "Target <%sB_TARGET>!"
     },
     "403": {
         "clarity_nt_char_140": "clarity_nt_char_140"
