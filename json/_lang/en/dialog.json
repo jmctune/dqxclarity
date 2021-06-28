@@ -2745,10 +2745,10 @@
         "clarity_nt_char_311": "clarity_nt_char_311"
     },
     "916": {
-        "<speed=0>この先に　進めませんでした。": ""
+        "<speed=0>この先に　進めませんでした。": "<speed=0>Couldn't go any further."
     },
     "917": {
-        "<speed=0>同盟に指定したパーティの中に|この先に　進めない人がいます。|それでも　同盟を組みますか？<yesno><close>": ""
+        "<speed=0>同盟に指定したパーティの中に|この先に　進めない人がいます。|それでも　同盟を組みますか？<yesno><close>": "<speed=0>Some of the parties in this alliance are|unable to proceed further. Do you still wish to|proceed with your alliance?<yesno><close>"
     },
     "918": {
         "clarity_nt_char_312": "clarity_nt_char_312"
@@ -2757,7 +2757,7 @@
         "<speed=0>仲間が　そろいました。<break>": "<speed=0>Your party has gathered.<break>"
     },
     "920": {
-        "<speed=0>返事がない仲間がいます。|返事があった仲間だけで　行きますか？<yesno><close>": "<speed=0>Some part members haven't replied.|Proceed only with those who have replied?<yesno><close>"
+        "<speed=0>返事がない仲間がいます。|返事があった仲間だけで　行きますか？<yesno><close>": "<speed=0>Some party members haven't replied.|Proceed only with those who have replied?<yesno><close>"
     },
     "921": {
         "clarity_nt_char_313": "clarity_nt_char_313"
