@@ -6,13 +6,13 @@
         "clarity_nt_char_1": "clarity_nt_char_1"
     },
     "3": {
-        "<%sB_ACTOR>が 仲間にくわわった！": "<%sB_ACTOR> is added to friends!"
+        "<%sB_ACTOR>が 仲間にくわわった！": "<%sB_ACTOR> joined the party!"
     },
     "4": {
         "clarity_nt_char_2": "clarity_nt_char_2"
     },
     "5": {
-        "<%sB_ACTOR>たちが 仲間にくわわった！": ""
+        "<%sB_ACTOR>たちが 仲間にくわわった！": "<%sB_ACTOR> and co. joined the party!"
     },
     "6": {
         "clarity_nt_char_3": "clarity_nt_char_3"
