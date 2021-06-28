@@ -1440,7 +1440,7 @@
         "clarity_nt_char_165": "clarity_nt_char_165"
     },
     "481": {
-        "光の霊玉を|<%nB_VALUE>個かくとく！": "Retrieve <%nB_VALUE>|Spirit Balls of Light!"
+        "光の霊玉を|<%nB_VALUE>個かくとく！": "Received <%nB_VALUE>|Spirit Balls of Light!"
     },
     "482": {
         "ターン消費しなかった！": "Turn was not used!"
@@ -1452,7 +1452,7 @@
         "clarity_nt_char_166": "clarity_nt_char_166"
     },
     "485": {
-        "タロットが|ふうじこめられている！": "The Tarot|is full!"
+        "タロットが|ふうじこめられている！": "Tarots|are sealed!"
     },
     "486": {
         "タロットを|消費しなかった！": "Tarot was|not consumed!"
@@ -1461,19 +1461,19 @@
         "clarity_nt_char_167": "clarity_nt_char_167"
     },
     "488": {
-        "ゴールドが足りない！": "Don't have enough gold!"
+        "ゴールドが足りない！": "Not enough Gold!"
     },
     "489": {
         "clarity_nt_char_168": "clarity_nt_char_168"
     },
     "490": {
-        "<%sB_JACK_NAME>の心を|使うのをやめた": ""
+        "<%sB_JACK_NAME>の心を|使うのをやめた": "Stopped using|<%sB_JACK_NAME>'s Heart."
     },
     "491": {
         "clarity_nt_char_169": "clarity_nt_char_169"
     },
     "492": {
-        "解放アタック！|誰も　捕まっていない！": ""
+        "解放アタック！|誰も　捕まっていない！": "Liberation Attack!|No one was caught!"
     },
     "493": {
         "解放アタック！|ロックを１つ解除した！": ""
