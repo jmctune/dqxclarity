@@ -2706,7 +2706,7 @@
         "<speed=0>ここでは　<%sM_action>は　使えない！": "<speed=0>You can't use <%sM_action> here!"
     },
     "903": {
-        "<speed=0><%sM_action>は　この戦闘では|もう使えない！": ""
+        "<speed=0><%sM_action>は　この戦闘では|もう使えない！": "<%sM_action> can no longer be used|in this battle!"
     },
     "904": {
         "<speed=0>スカウトできる　モンスターが　いない！": "<speed=0>There are no monsters that can be scouted!"
