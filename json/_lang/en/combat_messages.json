@@ -429,19 +429,19 @@
         "ちいさなメダルを <%dB_VALUE>枚 かくとく！": "You received <%dB_VALUE> mini medals!"
     },
     "144": {
-        "<%sB_ITEM>を　旅のコンシェルジュに送った！": ""
+        "<%sB_ITEM>を　旅のコンシェルジュに送った！": "<%sB_ITEM> was sent to the concierge!"
     },
     "145": {
         "clarity_nt_char_49": "clarity_nt_char_49"
     },
     "146": {
-        "<%sB_ITEM>を <%dB_VALUE>個　旅のコンシェルジュに送った！": ""
+        "<%sB_ITEM>を <%dB_VALUE>個　旅のコンシェルジュに送った！": "<%dB_VALUE> <%sB_ITEM> sent to the concierge!"
     },
     "147": {
-        "<%sB_ITEM>（だいじなもの）を かくとく！": "<%sB_ITEM> (Important Item) received!"
+        "<%sB_ITEM>（だいじなもの）を かくとく！": "<%sB_ITEM> (Key Item) received!"
     },
     "148": {
-        "経験値 <%dB_VALUE> Pが　旅のコンシェルジュに送られた！": "<%dB_VALUE> EXP has been sent to the travel concierge!"
+        "経験値 <%dB_VALUE> Pが　旅のコンシェルジュに送られた！": "<%dB_VALUE> EXP has been sent to the concierge!"
     },
     "149": {
         "clarity_nt_char_50": "clarity_nt_char_50"
