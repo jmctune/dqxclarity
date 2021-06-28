@@ -1641,7 +1641,7 @@
         "<%dB_VALUE>(<%dB_VALUE2>)Ｐの経験値を　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) EXP!"
     },
     "548": {
-        "<%dB_VALUE>(<%dB_VALUE2>)Ｇ　かくとく！": "<%dB_VALUE>(<%dB_VALUE2>) Gold received!"
+        "<%dB_VALUE>(<%dB_VALUE2>)Ｇ　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) Gold!"
     },
     "549": {
         "clarity_nt_char_189": "clarity_nt_char_189"
@@ -1650,10 +1650,10 @@
         "<%sB_ACTOR>は|<%sB_TARGET>から　何かを盗みとっていた！": "<%sB_ACTOR>|steals something from <%sB_TARGET>!"
     },
     "551": {
-        "<%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値|<%dB_VALUE5>(+<%dB_VALUE6>)Ｇ　かくとく！": "<%dB_VALUE3>(+<%dB_VALUE4>) EXP and|<%dB_VALUE5>(+<%dB_VALUE6>) Gold received!"
+        "<%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値|<%dB_VALUE5>(+<%dB_VALUE6>)Ｇ　かくとく！": "Received <%dB_VALUE3> (+<%dB_VALUE4>) EXP|and <%dB_VALUE5> (+<%dB_VALUE6>) Gold!"
     },
     "552": {
-        "<%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値|<%dB_VALUE2>Ｇ　かくとく！": "<%dB_VALUE3>(+<%dB_VALUE4>)EXP and|<%dB_VALUE2> Gold received!"
+        "<%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値|<%dB_VALUE2>Ｇ　かくとく！": "Received <%dB_VALUE3> (+<%dB_VALUE4>) EXP|and <%dB_VALUE2> Gold!"
     },
     "553": {
         "clarity_nt_char_190": "clarity_nt_char_190"
