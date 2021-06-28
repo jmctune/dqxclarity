@@ -2676,10 +2676,10 @@
         "clarity_nt_char_304": "clarity_nt_char_304"
     },
     "893": {
-        "<speed=0><%sM_pc>への　チームのさそいを|取り消しますか？<yesno><close>": ""
+        "<speed=0><%sM_pc>への　チームのさそいを|取り消しますか？<yesno><close>": "<speed=0>Do you want to cancel <%sM_pc>'s Team|invitation?<yesno><close?"
     },
     "894": {
-        "<speed=0><%sM_pc>への　チームのさそいが|取り消されました。": ""
+        "<speed=0><%sM_pc>への　チームのさそいが|取り消されました。": "<speed=0><%sM_pc>'s Team invitation was cancelled."
     },
     "895": {
         "clarity_nt_char_305": "clarity_nt_char_305"
