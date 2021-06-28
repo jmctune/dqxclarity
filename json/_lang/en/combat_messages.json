@@ -1920,10 +1920,10 @@
         "サポと１人で部門の|月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly personal best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the support category!<se_nots System 17>"
     },
     "641": {
-        "ランキングに　登録します。|他のプレイヤーから　名前が見える状態で|記録の登録をしても　よろしいですか？<yesno>": ""
+        "ランキングに　登録します。|他のプレイヤーから　名前が見える状態で|記録の登録をしても　よろしいですか？<yesno>": "You will register your ranking with|your name visible to others. Is this|okay?<yesno>"
     },
     "642": {
-        "他のプレイヤーから　名前が見える状態で|ランキングに　登録されました。": ""
+        "他のプレイヤーから　名前が見える状態で|ランキングに　登録されました。": "Registered in the ranking with name|visible to other players."
     },
     "643": {
         "他のプレイヤーから　名前が見えない状態で|ランキングに　登録されました。": ""
