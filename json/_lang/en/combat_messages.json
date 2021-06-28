@@ -1287,16 +1287,16 @@
         "clarity_nt_char_149": "clarity_nt_char_149"
     },
     "430": {
-        "<%sB_ITEM>を <%dB_VALUE>P　旅のコンシェルジュに送った！": ""
+        "<%sB_ITEM>を <%dB_VALUE>P　旅のコンシェルジュに送った！": "<%sB_ITEM> sent <%dB_VALUE>P to the concierge!"
     },
     "431": {
         "しかし 誰も 捕まっていなかった！": "But no one was caught!"
     },
     "432": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが 仲間を解放した！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが 仲間を解放した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e released the party!"
     },
     "433": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 追跡チームの お助けボックスを消した！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 追跡チームの お助けボックスを消した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e erased the Tracking Team's help box!"
     },
     "434": {
         "clarity_nt_char_150": "clarity_nt_char_150"
