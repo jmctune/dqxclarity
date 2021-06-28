@@ -762,19 +762,19 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を 使うのをやめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stopped using <%sB_ITEM>."
     },
     "255": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eから 何かを盗みとっていた！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eから 何かを盗みとっていた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stole something from \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e!"
     },
     "256": {
         "clarity_nt_char_86": "clarity_nt_char_86"
     },
     "257": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値を かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE3>(+<%dB_VALUE4>) EXP！"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値を かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE3> (+<%dB_VALUE4>) EXP！"
     },
     "258": {
         "clarity_nt_char_87": "clarity_nt_char_87"
     },
     "259": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE5>(+<%dB_VALUE6>)Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE5>(+<%dB_VALUE6>) Gold!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE5>(+<%dB_VALUE6>)Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE5> (+<%dB_VALUE6>) Gold!"
     },
     "260": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE2>Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE2> Gold!"
@@ -783,16 +783,16 @@
         "clarity_nt_char_88": "clarity_nt_char_88"
     },
     "262": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE2>(＋<%dB_VALUE3>)Ｐの経験値を かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE2>(＋<%dB_VALUE3>) EXP！"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE2>(＋<%dB_VALUE3>)Ｐの経験値を かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE2> (+<%dB_VALUE3>) EXP！"
     },
     "263": {
         "clarity_nt_char_89": "clarity_nt_char_89"
     },
     "264": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE2>(＋<%dB_VALUE3>)Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE2>(＋<%dB_VALUE3>) Gold!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE2>(＋<%dB_VALUE3>)Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE2> (+<%dB_VALUE3>) Gold!"
     },
     "265": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死の呪いで ちからつきた。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死の呪いで ちからつきた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was exhausted from the death curse."
     },
     "266": {
         "clarity_nt_char_90": "clarity_nt_char_90"
