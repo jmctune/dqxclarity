@@ -957,7 +957,7 @@
         "clarity_nt_char_111": "clarity_nt_char_111"
     },
     "320": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new personal best!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new overall personal best!"
     },
     "321": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>位の ワールドレコードを記録した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e recorded a World Record value of Rank <%dB_VALUE>!"
@@ -969,7 +969,7 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>位に 匿名で ワールドレコードに登録した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e anonymously recorded their Rank <%dB_VALUE> World Record!"
     },
     "324": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代の自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e has a new personal best!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代の自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e has a new overall personal best!"
     },
     "325": {
         "clarity_nt_char_112": "clarity_nt_char_112"
@@ -1011,19 +1011,19 @@
         "clarity_nt_char_117": "clarity_nt_char_117"
     },
     "338": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new personal best of <%sB_VALUE>.<%sB_VALUE2> seconds!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new overall personal best of <%sB_VALUE>.<%sB_VALUE2> seconds!"
     },
     "339": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new personal monthly best of <%sB_VALUE>.<%sB_VALUE2> seconds!"
     },
     "340": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new personal best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new overall personal best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.!"
     },
     "341": {
         "clarity_nt_char_118": "clarity_nt_char_118"
     },
     "342": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new personal monthly best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.!"
     },
     "343": {
         "clarity_nt_char_119": "clarity_nt_char_119"
