@@ -1596,7 +1596,7 @@
         "clarity_nt_char_183": "clarity_nt_char_183"
     },
     "533": {
-        "<%dB_VALUE> Pの名声値を　かくとく！　　　": "<%dB_VALUE> reputation points received!　　　"
+        "<%dB_VALUE> Pの名声値を　かくとく！　　　": "Received <%dB_VALUE> reputation points!　　"
     },
     "534": {
         "<%sB_ACTOR>は　名声レベル<%dB_VALUE>に　あがった！": "<%sB_ACTOR> reached fame level <%dB_VALUE>!"
@@ -1614,7 +1614,7 @@
         "<%sB_TARGET>を　たおした！": "<%sB_TARGET> defeated!"
     },
     "539": {
-        "<%dB_VALUE> Pの　スキルポイントを　かくとく！": "<%dB_VALUE> skill points received!"
+        "<%dB_VALUE> Pの　スキルポイントを　かくとく！": "Received <%dB_VALUE> skill points!"
     },
     "540": {
         "スキルポイントは　さくせんコマンドの|スキルふりわけで　できます！": "Skill points can be reallocated|in the Skill Points menu!"
@@ -1626,19 +1626,19 @@
         "clarity_nt_char_186": "clarity_nt_char_186"
     },
     "543": {
-        "<%dB_VALUE>(<%dB_VALUE2>)Ｐの経験値　<%dB_VALUE3>Ｇ　かくとく！": "<%dB_VALUE>(<%dB_VALUE2>) EXP and <%dB_VALUE3> Gold received!"
+        "<%dB_VALUE>(<%dB_VALUE2>)Ｐの経験値　<%dB_VALUE3>Ｇ　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) EXP and <%dB_VALUE3> Gold!"
     },
     "544": {
         "clarity_nt_char_187": "clarity_nt_char_187"
     },
     "545": {
-        "<%dB_VALUE>(<%dB_VALUE2>)Ｐの経験値　<%dB_VALUE3>(<%dB_VALUE4>)Ｇ　かくとく！": "<%dB_VALUE>(<%dB_VALUE2>) EXP and <%dB_VALUE3>(<%dB_VALUE4>) Gold received!"
+        "<%dB_VALUE>(<%dB_VALUE2>)Ｐの経験値　<%dB_VALUE3>(<%dB_VALUE4>)Ｇ　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) EXP and <%dB_VALUE3> (<%dB_VALUE4>) Gold!"
     },
     "546": {
         "clarity_nt_char_188": "clarity_nt_char_188"
     },
     "547": {
-        "<%dB_VALUE>(<%dB_VALUE2>)Ｐの経験値を　かくとく！": "<%dB_VALUE> (<%dB_VALUE2>) EXP received!"
+        "<%dB_VALUE>(<%dB_VALUE2>)Ｐの経験値を　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) EXP!"
     },
     "548": {
         "<%dB_VALUE>(<%dB_VALUE2>)Ｇ　かくとく！": "<%dB_VALUE>(<%dB_VALUE2>) Gold received!"
