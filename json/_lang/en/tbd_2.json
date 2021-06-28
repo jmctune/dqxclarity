@@ -5283,7 +5283,7 @@
         "clarity_nt_char_599": "clarity_nt_char_599"
     },
     "1762": {
-        "ドラゴン系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "ドラゴン系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Damage to Dragon-types <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1763": {
         "虫系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
