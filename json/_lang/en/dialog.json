@@ -2646,10 +2646,10 @@
         "clarity_nt_char_301": "clarity_nt_char_301"
     },
     "883": {
-        "<speed=0>|絵葉書を書いた人の　思い出アルバムから|写真が削除されたため　コピーできませんでした。": ""
+        "<speed=0>|絵葉書を書いた人の　思い出アルバムから|写真が削除されたため　コピーできませんでした。": "<speed=0>|Could not copy photo to the Photo Album|because its original author deleted the photo."
     },
     "884": {
-        "<speed=0>|この写真は　すでに　思い出アルバムに|保存されているため　コピーできませんでした。": ""
+        "<speed=0>|この写真は　すでに　思い出アルバムに|保存されているため　コピーできませんでした。": "<speed=0>|Photo could not be copied because it|already exists in your Photo Album."
     },
     "885": {
         "<speed=0>|絵葉書を書いた人の　思い出アルバムから|写真が削除されたため　表示できませんでした。": ""
