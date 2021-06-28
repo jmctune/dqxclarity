@@ -2619,19 +2619,19 @@
         "clarity_nt_char_298": "clarity_nt_char_298"
     },
     "874": {
-        "<center>おつかれさまでした。|『だれでもＯＫ』で酒場登録しました。|このあとは　どこに戻りますか？<break>": "Thank you for playing!|\"Anyone Is OK\" registered at the tavern.|Where would like to go?<break>"
+        "<center>おつかれさまでした。|『だれでもＯＫ』で酒場登録しました。|このあとは　どこに戻りますか？<break>": "Thank you for playing!|Registered at the tavern as \"Anyone Is OK\".|Where would like to go now?<break>"
     },
     "875": {
         "clarity_nt_char_299": "clarity_nt_char_299"
     },
     "876": {
-        "<center><color_yellow>※酒場登録に　失敗しました。<color_white>|おつかれさまでした。|このあとは　どこに戻りますか？<break>": "<center><color_yellow>*Failed to register at the tavern.<color_white>|Thank you for playing!|Where would you like to go?<break>"
+        "<center><color_yellow>※酒場登録に　失敗しました。<color_white>|おつかれさまでした。|このあとは　どこに戻りますか？<break>": "<center><color_yellow>*Failed to register at the tavern.<color_white>|Thank you for playing!|Where would you like to go now?<break>"
     },
     "877": {
-        "この絵葉書の　写真を|思い出アルバムに　コピーしますか？|<yesno><close>": ""
+        "この絵葉書の　写真を|思い出アルバムに　コピーしますか？|<yesno><close>": "Copy the photo on this postcard to|your Photo Album?|<yesno><close>"
     },
     "878": {
-        "<speed=0>思い出アルバムに　写真を保存しています。|しばらく　お待ちください。<break>": ""
+        "<speed=0>思い出アルバムに　写真を保存しています。|しばらく　お待ちください。<break>": "<speed=0>Saving photo to the Photo Album.|Please wait a moment.<break>"
     },
     "879": {
         "clarity_nt_char_300": "clarity_nt_char_300"
