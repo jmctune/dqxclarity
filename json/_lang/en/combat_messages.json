@@ -1569,7 +1569,7 @@
         "死んでいるため　レベルが　あがらなかった。": "You couldn't level up because you are dead."
     },
     "524": {
-        "<%sB_TARGET>たちは|宝箱を　落としていった！": "The enemy|dropped a treasure chest!"
+        "<%sB_TARGET>たちは|宝箱を　落としていった！": "The enemy dropped|a treasure chest!"
     },
     "525": {
         "clarity_nt_char_181": "clarity_nt_char_181"
@@ -1578,19 +1578,19 @@
         "<%sB_ACTOR>は　レベル<%dB_VALUE>から　<%dB_VALUE2>に　あがった！": "<%sB_ACTOR>'s level increased from <%dB_VALUE> to <%dB_VALUE2>!"
     },
     "527": {
-        "<%dB_VALUE>ゴールドを　手に入れた！": "You received <%dB_VALUE> Gold!"
+        "<%dB_VALUE>ゴールドを　手に入れた！": "Received <%dB_VALUE> Gold!"
     },
     "528": {
-        "<%dB_VALUE>Ｐの経験値　<%dB_VALUE2>Ｇ　かくとく！": "<%dB_VALUE> EXP and <%dB_VALUE2> Gold received!"
+        "<%dB_VALUE>Ｐの経験値　<%dB_VALUE2>Ｇ　かくとく！": "Received <%dB_VALUE> EXP and <%dB_VALUE2> Gold!"
     },
     "529": {
         "clarity_nt_char_182": "clarity_nt_char_182"
     },
     "530": {
-        "<%dB_VALUE>Ｐの経験値を　かくとく！": "<%dB_VALUE> EXP received!"
+        "<%dB_VALUE>Ｐの経験値を　かくとく！": "Received <%dB_VALUE> EXP!"
     },
     "531": {
-        "<%dB_VALUE>Ｇ　かくとく！": "<%dB_VALUE> Gold received!"
+        "<%dB_VALUE>Ｇ　かくとく！": "Received <%dB_VALUE> Gold!"
     },
     "532": {
         "clarity_nt_char_183": "clarity_nt_char_183"
@@ -1617,7 +1617,7 @@
         "<%dB_VALUE> Pの　スキルポイントを　かくとく！": "<%dB_VALUE> skill points received!"
     },
     "540": {
-        "スキルポイントは　さくせんコマンドの|スキルふりわけで　できます！": "Skill points can be reallocated|in the Operation command!"
+        "スキルポイントは　さくせんコマンドの|スキルふりわけで　できます！": "Skill points can be reallocated|in the Skill Points menu!"
     },
     "541": {
         "へろへろタイムなので|なにも かくとくできなかった。": "You were too exhausted|to do anything."
