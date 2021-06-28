@@ -828,7 +828,7 @@
         "討伐タイム　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>": "Defeat Time: <%dB_VALUE>min. <%sB_VALUE2>.<%sB_VALUE3>sec."
     },
     "277": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 特訓スタンプを <%dB_VALUE> 個 かくとく！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 特訓スタンプを <%dB_VALUE> 個 かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> special training stamps!"
     },
     "278": {
         "clarity_nt_char_95": "clarity_nt_char_95"
@@ -840,7 +840,7 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの経験値を かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> EXP！"
     },
     "281": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> G かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> Gold."
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> G かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> Gold!"
     },
     "282": {
         "clarity_nt_char_96": "clarity_nt_char_96"
@@ -849,16 +849,16 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの経験値 <%dB_VALUE3> G かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> EXP and <%dB_VALUE3> Gold!"
     },
     "284": {
-        "　→ 強敵ボーナス +<%dB_VALUE> P": "　→Strong Enemy Bonus+<%dB_VALUE> EXP"
+        "　→ 強敵ボーナス +<%dB_VALUE> P": "　→Strong Enemy Bonus +<%dB_VALUE> EXP"
     },
     "285": {
         "clarity_nt_char_97": "clarity_nt_char_97"
     },
     "286": {
-        "元気タイム結果": ""
+        "元気タイム結果": "Bonus Time Result"
     },
     "287": {
-        "　総獲得経験値  <%sB_VALUE> P (内 元気ボーナス <%sB_VALUE2> P)": ""
+        "　総獲得経験値  <%sB_VALUE> P (内 元気ボーナス <%sB_VALUE2> P)": "　Total EXP: <%sB_VALUE> (Inner Bonus +<%sB_VALUE2>)"
     },
     "288": {
         "clarity_nt_char_98": "clarity_nt_char_98"
