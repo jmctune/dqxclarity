@@ -1029,22 +1029,22 @@
         "clarity_nt_char_119": "clarity_nt_char_119"
     },
     "344": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは スカウトに失敗した。": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは スカウトに失敗した。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e failed to scout."
     },
     "345": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは たおされた。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは たおされた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e has been defeated."
     },
     "346": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%sB_ACTION>が 使えるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e can now use <%sB_ACTION>!"
     },
     "347": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは テンションが さがらなかった！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは テンションが さがらなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't lose tension!"
     },
     "348": {
         "clarity_nt_char_120": "clarity_nt_char_120"
     },
     "349": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%sB_ITEM>から <%sB_EXTRA>を ゲット！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%sB_ITEM>から <%sB_EXTRA>を ゲット！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e received <%sB_EXTRA> from <%sB_ITEM>!"
     },
     "350": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>が 使えるようになった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e can now use <%sB_ACTION>!"
