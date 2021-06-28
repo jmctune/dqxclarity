@@ -1224,7 +1224,7 @@
         "戒めの地 出口": ""
     },
     "409": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>厨房": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>厨房": "Kitchen"
     },
     "410": {
         "<%sW_MAP_NAME><%sW_DELIMITER>訓練場": ""
@@ -3357,7 +3357,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>２階-武器庫": ""
     },
     "1120": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２階-厨房": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>２階-厨房": "2F Kitchen"
     },
     "1121": {
         "clarity_nt_char_356": "clarity_nt_char_356"
@@ -5223,7 +5223,7 @@
         "clarity_nt_char_549": "clarity_nt_char_549"
     },
     "1742": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>浴室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>浴室": "Bathroom"
     },
     "1743": {
         "<%sW_MAP_NAME><%sW_DELIMITER>大広間": "Great Hall"
@@ -5250,7 +5250,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>開かずの間・前室": ""
     },
     "1751": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下倉庫": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下倉庫": "Basement Storage"
     },
     "1752": {
         "<%sW_MAP_NAME><%sW_DELIMITER>開かずの間": ""
