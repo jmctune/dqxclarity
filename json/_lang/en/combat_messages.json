@@ -1785,13 +1785,13 @@
         "clarity_nt_char_206": "clarity_nt_char_206"
     },
     "596": {
-        "歴代ランキング　<%dB_VALUE>位|月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>|記録を　登録します。": ""
+        "歴代ランキング　<%dB_VALUE>位|月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>|記録を　登録します。": "Won overall ranking (Rank <%dB_VALUE>) and monthly|ranking (Rank <%dB_VALUE2>)!<se_nots System 17>|The records were registered."
     },
     "597": {
-        "他のプレイヤーから　名前が見える状態で|記録の登録をしても　よろしいですか？<yesno>": ""
+        "他のプレイヤーから　名前が見える状態で|記録の登録をしても　よろしいですか？<yesno>": "You will register your record with your|name visible to others. Is this okay?<yesno>"
     },
     "598": {
-        "他のプレイヤーから　名前が見える状態で|歴代ランキングと　月間ランキングに|記録が　登録されました。": ""
+        "他のプレイヤーから　名前が見える状態で|歴代ランキングと　月間ランキングに|記録が　登録されました。": "Overall and monthly records have been|registered with name visible to others."
     },
     "599": {
         "clarity_nt_char_207": "clarity_nt_char_207"
