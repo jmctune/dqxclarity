@@ -1302,7 +1302,7 @@
         "clarity_nt_char_150": "clarity_nt_char_150"
     },
     "435": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 逃走チームの お助けボックスを消した！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 逃走チームの お助けボックスを消した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e erased the Escape Team's help box!"
     },
     "436": {
         "clarity_nt_char_151": "clarity_nt_char_151"
@@ -1311,16 +1311,16 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を 手に入れた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%sB_ITEM>!"
     },
     "438": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは プリズンキーを １つ消した！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは プリズンキーを １つ消した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e erased one Prison Key!"
     },
     "439": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは キャッチハンドを 1つ消した！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは キャッチハンドを 1つ消した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e erased one Catch Hand!"
     },
     "440": {
         "clarity_nt_char_152": "clarity_nt_char_152"
     },
     "441": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_TARGET>を 占領した！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_TARGET>を 占領した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e has occupied <%sB_TARGET>!"
     },
     "442": {
         "clarity_nt_char_153": "clarity_nt_char_153"
