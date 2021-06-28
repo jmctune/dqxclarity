@@ -2685,7 +2685,7 @@
         "clarity_nt_char_305": "clarity_nt_char_305"
     },
     "896": {
-        "<speed=0>送信済みの　チームのさそいの　|取得に失敗しました。|時間を置いて　もう一度お試しください": ""
+        "<speed=0>送信済みの　チームのさそいの　|取得に失敗しました。|時間を置いて　もう一度お試しください": "<speed=0>Failed to retrieve sent Team invite.|Please wait a while and try again."
     },
     "897": {
         "clarity_nt_char_306": "clarity_nt_char_306"
