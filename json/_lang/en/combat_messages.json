@@ -957,7 +957,7 @@
         "clarity_nt_char_111": "clarity_nt_char_111"
     },
     "320": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new overall personal best!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new personal best!"
     },
     "321": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>位の ワールドレコードを記録した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e recorded a World Record value of Rank <%dB_VALUE>!"
