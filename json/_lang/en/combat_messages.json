@@ -981,7 +981,7 @@
         "clarity_nt_char_113": "clarity_nt_char_113"
     },
     "328": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代ランキング <%dB_VALUE>位 月間ランキング <%dB_VALUE2>位に 入賞しました！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e won the successive ranking with Rank <%dB_VALUE> and monthly ranking with Rank <%dB_VALUE2>!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代ランキング <%dB_VALUE>位 月間ランキング <%dB_VALUE2>位に 入賞しました！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e won the overall ranking with Rank <%dB_VALUE> and monthly ranking with Rank <%dB_VALUE2>!"
     },
     "329": {
         "clarity_nt_char_114": "clarity_nt_char_114"
@@ -1014,7 +1014,7 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new overall personal best of <%sB_VALUE>.<%sB_VALUE2> seconds!"
     },
     "339": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new personal monthly best of <%sB_VALUE>.<%sB_VALUE2> seconds!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new monthly personal best of <%sB_VALUE>.<%sB_VALUE2> seconds!"
     },
     "340": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new overall personal best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.!"
@@ -1023,7 +1023,7 @@
         "clarity_nt_char_118": "clarity_nt_char_118"
     },
     "342": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new personal monthly best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new monthly personal best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.!"
     },
     "343": {
         "clarity_nt_char_119": "clarity_nt_char_119"
