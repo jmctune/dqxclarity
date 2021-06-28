@@ -1506,16 +1506,16 @@
         "最後のひとり|<%sB_TARGET>を捕まえた！": "You caught the|last<%sB_TARGET>!"
     },
     "503": {
-        "プリズンキーを入手！|ロックを１つ　解除した！": ""
+        "プリズンキーを入手！|ロックを１つ　解除した！": "Got Prison Key!|Released one lock!"
     },
     "504": {
-        "プリズンキーを|１つ消した！": ""
+        "プリズンキーを|１つ消した！": "Removed one|Prison Key!"
     },
     "505": {
         "clarity_nt_char_174": "clarity_nt_char_174"
     },
     "506": {
-        "キャッチハンドを|１つ消した！": ""
+        "キャッチハンドを|１つ消した！": "Removed one|Catch Hand!"
     },
     "507": {
         "チャージタイムが|発生しなかった！": "No charge time|was generated!"
