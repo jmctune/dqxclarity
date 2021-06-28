@@ -4089,7 +4089,7 @@
         "clarity_nt_char_462": "clarity_nt_char_462"
     },
     "1364": {
-        "倒した<%sM_keitoumei>モンスターの種類": "Type of <%sM_keitoumei> monster you killed"
+        "倒した<%sM_keitoumei>モンスターの種類": "Type of <%sM_keitoumei> Monsters Defeated"
     },
     "1365": {
         "clarity_nt_char_463": "clarity_nt_char_463"
@@ -4263,7 +4263,7 @@
         "手に入れた　<%sM_category>の種類": "Type of <%sM_category> Owned"
     },
     "1422": {
-        "倒したモンスターの種類": "Killed Monsters"
+        "倒したモンスターの種類": "Defeated Monsters"
     },
     "1423": {
         "手に入れたアイテムの種類": "Types of Items Received"
@@ -9696,7 +9696,7 @@
         "日替わり討伐クリア回数": "Dailies Completed"
     },
     "3233": {
-        "討伐隊メダルもらった枚数": "Types of Monsters Killed"
+        "討伐隊メダルもらった枚数": "Types of Monsters Defeated"
     },
     "3234": {
         "clarity_nt_char_1116": "clarity_nt_char_1116"
