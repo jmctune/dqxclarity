@@ -606,16 +606,16 @@
         "<speed=0>クエスト『<%sM_Quest1>』の|リプレイを　取りやめました。": ""
     },
     "203": {
-        "<speed=0>年齢は　ナイショにしますか？<yesno><close>": ""
+        "<speed=0>年齢は　ナイショにしますか？<yesno><close>": "<speed=0>Would you like to keep your age a secret?<yesno><close>"
     },
     "204": {
-        "<speed=0><%sM_pc>を　チームに　誘いますか？<yesno><close>": ""
+        "<speed=0><%sM_pc>を　チームに　誘いますか？<yesno><close>": "<speed=0>Would you like to invite <%sM_pc> to join your team?<yesno><close>"
     },
     "205": {
         "clarity_nt_char_68": "clarity_nt_char_68"
     },
     "206": {
-        "<speed=0>スローガンを変更しました。": ""
+        "<speed=0>スローガンを変更しました。": "<speed=0>The slogan has been changed."
     },
     "207": {
         "clarity_nt_char_69": "clarity_nt_char_69"
@@ -627,7 +627,7 @@
         "clarity_nt_char_70": "clarity_nt_char_70"
     },
     "210": {
-        "<speed=0>チームメンバーが　いっぱいです！|これ以上は　誘えません。": ""
+        "<speed=0>チームメンバーが　いっぱいです！|これ以上は　誘えません。": "<speed=0>We have too many team members!|You can't invite any more."
     },
     "211": {
         "clarity_nt_char_71": "clarity_nt_char_71"
@@ -642,13 +642,13 @@
         "clarity_nt_char_72": "clarity_nt_char_72"
     },
     "215": {
-        "<speed=0>スローガンを　このように変更しますか？<yesno><close>": ""
+        "<speed=0>スローガンを　このように変更しますか？<yesno><close>": "<speed=0>Would you like to change the slogan to this?<yesno><close>"
     },
     "216": {
         "clarity_nt_char_73": "clarity_nt_char_73"
     },
     "217": {
-        "<speed=0>いまは　パーティリーダーを　変えられません！": ""
+        "<speed=0>いまは　パーティリーダーを　変えられません！": "<speed=0>I can't change the party leader right now!"
     },
     "218": {
         "生きている|サポート仲間の|呪文で復活します": "Use your support|crew's spell to|revive yourself"
