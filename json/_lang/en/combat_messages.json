@@ -1230,16 +1230,16 @@
         "clarity_nt_char_143": "clarity_nt_char_143"
     },
     "411": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが ログアウトしたため 戦いから抜けた。": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが ログアウトしたため 戦いから抜けた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e left the fight because they logged out."
     },
     "412": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ゴールドが 足りなかった。": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ゴールドが 足りなかった。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't have enough Gold."
     },
     "413": {
         "clarity_nt_char_144": "clarity_nt_char_144"
     },
     "414": {
-        "<%sB_MONSTER>をひろった！ スコアを <%dB_VALUE>P かくとく！": ""
+        "<%sB_MONSTER>をひろった！ スコアを <%dB_VALUE>P かくとく！": "Pikced up <%sB_MONSTER>! Score of <%dB_VALUE>!"
     },
     "415": {
         "スコアが <%dB_VALUE>P 減った。": "Score decreased by <%dB_VALUE>."
