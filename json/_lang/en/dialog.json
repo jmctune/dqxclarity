@@ -3855,7 +3855,7 @@
         "<speed=0>情報が取得できませんでした。|しばらく待ってから　もう一度　お試しください。": "<speed=0>Unable to retrieve information.|Please wait a moment and try again."
     },
     "1286": {
-        "<speed=0>その場所は　まだ行ったことがないため|移動できません。": ""
+        "<speed=0>その場所は　まだ行ったことがないため|移動できません。": "<speed=0>I can't move to that location because|I haven't been there yet."
     },
     "1287": {
         "clarity_nt_char_428": "clarity_nt_char_428"
@@ -3867,7 +3867,7 @@
         "clarity_nt_char_429": "clarity_nt_char_429"
     },
     "1290": {
-        "<speed=0>このクエストは　ここでは|リプレイすることは　できません。": ""
+        "<speed=0>このクエストは　ここでは|リプレイすることは　できません。": "<speed=0>This quest cannot be replayed here."
     },
     "1291": {
         "clarity_nt_char_430": "clarity_nt_char_430"
@@ -3876,7 +3876,7 @@
         "仲間モンスターの|追加スキルを|変更します": "Change additional|skills of fellow|monsters."
     },
     "1293": {
-        "<speed=0><%sM_category>の称号を|まだ　もっていない！": ""
+        "<speed=0><%sM_category>の称号を|まだ　もっていない！": "<speed=0>I don't have the|<%sM_category> title yet!"
     },
     "1294": {
         "clarity_nt_char_431": "clarity_nt_char_431"
