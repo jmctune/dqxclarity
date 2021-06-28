@@ -1,36 +1,36 @@
 {
     "1": {
-        "<speed=0>いまは　できない！": ""
+        "<speed=0>いまは　できない！": "<speed=0>I can't do this right now!"
     },
     "2": {
         "clarity_nt_char_1": "clarity_nt_char_1"
     },
     "3": {
-        "<speed=0><%sM_item>を　使う相手が　いない！": ""
+        "<speed=0><%sM_item>を　使う相手が　いない！": "<speed=0>I have no one to use <%sM_item> on!"
     },
     "4": {
-        "<speed=0>ＭＰが　足りない！": ""
+        "<speed=0>ＭＰが　足りない！": "<speed=0>We're out of MP!"
     },
     "5": {
         "clarity_nt_char_2": "clarity_nt_char_2"
     },
     "6": {
-        "<speed=0><%sM_target>は　遠くにいるので|<%sM_action>が　できない！": ""
+        "<speed=0><%sM_target>は　遠くにいるので|<%sM_action>が　できない！": "<speed=0><%sM_target> is too far away|<%sM_action> can't do it!"
     },
     "7": {
         "clarity_nt_char_3": "clarity_nt_char_3"
     },
     "8": {
-        "<speed=0>しかし　いまは　相手がいなかった。": ""
+        "<speed=0>しかし　いまは　相手がいなかった。": "<speed=0>But right now, there was no partner."
     },
     "9": {
         "clarity_nt_char_4": "clarity_nt_char_4"
     },
     "10": {
-        "<speed=0>戦う相手が　いない！": ""
+        "<speed=0>戦う相手が　いない！": "<speed=0>I have no one to fight!"
     },
     "11": {
-        "<speed=0><%sM_target>は　遠くにいるので|攻撃できない！": ""
+        "<speed=0><%sM_target>は　遠くにいるので|攻撃できない！": "<speed=0><%sM_target> is too far|away to attack!"
     },
     "12": {
         "clarity_nt_char_5": "clarity_nt_char_5"
@@ -54,7 +54,7 @@
         "<speed=0><%sM_item>を　投げ捨てた！": "<speed=0><%sM_item> was thrown away!"
     },
     "19": {
-        "<speed=0>しかし　ここからでは　読めなかった。": ""
+        "<speed=0>しかし　ここからでは　読めなかった。": "<speed=0>But I couldn't read it from here."
     },
     "20": {
         "<speed=0>仲間に　さそえる相手が　近くにいません。": "<speed=0>There's nobody nearby to invite."
