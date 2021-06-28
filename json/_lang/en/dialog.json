@@ -852,7 +852,7 @@
         "<speed=0>書くのをやめると　書いた内容が|元に戻りますが　よろしいですか？<yesno 2><close>": ""
     },
     "285": {
-        "<speed=0>この場所では　手紙は書けません。|町や　ハウジングエリアなど|安全な場所で　書いてください。": ""
+        "<speed=0>この場所では　手紙は書けません。|町や　ハウジングエリアなど|安全な場所で　書いてください。": "<speed=0>You cannot write a letter here. Try|again in a safe place, such as a town."
     },
     "286": {
         "サポート仲間の|バトル参加状況と|作戦を変更します": "Change the|battle strategies|of your party."
