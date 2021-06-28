@@ -900,13 +900,13 @@
         "clarity_nt_char_103": "clarity_nt_char_103"
     },
     "301": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 特技が ふうじこめられている！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 特技が ふうじこめられている！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's skills are sealed!"
     },
     "302": {
         "clarity_nt_char_104": "clarity_nt_char_104"
     },
     "303": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eが 仲間になりたそうに こちらを見ている……！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eが 仲間になりたそうに こちらを見ている……！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e looks to have become friends...!"
     },
     "304": {
         "clarity_nt_char_105": "clarity_nt_char_105"
