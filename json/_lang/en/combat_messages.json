@@ -798,7 +798,7 @@
         "clarity_nt_char_90": "clarity_nt_char_90"
     },
     "267": {
-        "\\s<%sB_BASE_TARGET>\\m<%sB_BASE_TARGET_ID>\\eの ボディーガードは いなくなった。": ""
+        "\\s<%sB_BASE_TARGET>\\m<%sB_BASE_TARGET_ID>\\eの ボディーガードは いなくなった。": "\\s<%sB_BASE_TARGET>\\m<%sB_BASE_TARGET_ID>\\e's Body Guard is gone."
     },
     "268": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eと 戦闘開始！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e entered battle!"
