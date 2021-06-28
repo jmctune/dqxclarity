@@ -468,19 +468,19 @@
         "<%sB_ITEM>を <%dB_VALUE>個　下駄箱に送った！": "<%dB_VALUE> <%sB_ITEM> sent to the Geta Box!"
     },
     "157": {
-        "<%sB_ACTOR>は ゴールドが 足りなかった。": "<%sB_ACTOR> doesn't have enough gold."
+        "<%sB_ACTOR>は ゴールドが 足りなかった。": "<%sB_ACTOR> doesn't have enough Gold."
     },
     "158": {
         "clarity_nt_char_53": "clarity_nt_char_53"
     },
     "159": {
-        "しかし ハートの浮き輪の効果で 助かった！": ""
+        "しかし ハートの浮き輪の効果で 助かった！": "But the Heart Float's effect saved you!"
     },
     "160": {
-        "<%sB_ACTOR>は 海に落ちてしまった！": ""
+        "<%sB_ACTOR>は 海に落ちてしまった！": "<%sB_ACTOR> fell into the ocean!"
     },
     "161": {
-        "<%sB_ITEM>を <%dB_VALUE> P かくとく！": ""
+        "<%sB_ITEM>を <%dB_VALUE> P かくとく！": "<%sB_ITEM> received <%dB_VALUE>P!"
     },
     "162": {
         "<%sB_ITEM>を <%dB_VALUE> P　旅のコンシェルジュに送った！": ""
