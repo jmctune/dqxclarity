@@ -1404,37 +1404,37 @@
         "なつき度が|<%dB_VALUE>にあがった！": "Attachment has|increased to <%dB_VALUE>!"
     },
     "469": {
-        "なつき度MAX！": "MAX friendliness!"
+        "なつき度MAX！": "Max attachment!"
     },
     "470": {
         "clarity_nt_char_162": "clarity_nt_char_162"
     },
     "471": {
-        "ブレスが|ふうじこめられている！": ""
+        "ブレスが|ふうじこめられている！": "Breath skills|are sealed!"
     },
     "472": {
         "clarity_nt_char_163": "clarity_nt_char_163"
     },
     "473": {
-        "<%dB_VALUE>ポイントアップ！": "<%dB_VALUE> points increased!"
+        "<%dB_VALUE>ポイントアップ！": "Got <%dB_VALUE> points!"
     },
     "474": {
-        "<%dB_VALUE>ポイントダウン！": "<%dB_VALUE> points increased!"
+        "<%dB_VALUE>ポイントダウン！": "Lost <%dB_VALUE> points!"
     },
     "475": {
-        "<%sB_TARGET>が|レベル<%dB_VALUE>になった！": "<%sB_TARGET> is now at level <%dB_VALUE>!"
+        "<%sB_TARGET>が|レベル<%dB_VALUE>になった！": "<%sB_TARGET> is|now at level <%dB_VALUE>!"
     },
     "476": {
-        "<%sB_ACTION>が|使えるようになった！": "<%sB_ACTION> is now usable!"
+        "<%sB_ACTION>が|使えるようになった！": "<%sB_ACTION> is|now usable!"
     },
     "477": {
         "clarity_nt_char_164": "clarity_nt_char_164"
     },
     "478": {
-        "テンションが|さがらなかった！": "Tension did not decrease!"
+        "テンションが|さがらなかった！": "Tension did|not decrease!"
     },
     "479": {
-        "<%sB_TARGET>が|いなくなった": "<%sB_TARGET>|runs away"
+        "<%sB_TARGET>が|いなくなった": "<%sB_TARGET>|runs away."
     },
     "480": {
         "clarity_nt_char_165": "clarity_nt_char_165"
