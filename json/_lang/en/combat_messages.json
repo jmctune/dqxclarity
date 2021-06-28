@@ -1209,22 +1209,22 @@
         "clarity_nt_char_140": "clarity_nt_char_140"
     },
     "404": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの経験値 <%dB_VALUE2> フェルド かくとく！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの経験値 <%dB_VALUE2> フェルド かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> EXP and <%dB_VALUE2> Feld!"
     },
     "405": {
         "clarity_nt_char_141": "clarity_nt_char_141"
     },
     "406": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> フェルド かくとく！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> フェルド かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> Feld!"
     },
     "407": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは タロットが ふうじこめられている！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは タロットが ふうじこめられている！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's Tarots are sealed!"
     },
     "408": {
         "clarity_nt_char_142": "clarity_nt_char_142"
     },
     "409": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは タロットを消費しなかった！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは タロットを消費しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't use a Tarot!"
     },
     "410": {
         "clarity_nt_char_143": "clarity_nt_char_143"
