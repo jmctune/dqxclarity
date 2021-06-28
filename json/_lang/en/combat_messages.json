@@ -507,19 +507,19 @@
         "どうぐかばんが いっぱいで 入手できない！": "You can't take it because your bag is full!"
     },
     "170": {
-        "<%sB_ACTOR>は プリズンキーを入手！ ロックを１つ解除した！": ""
+        "<%sB_ACTOR>は プリズンキーを入手！ ロックを１つ解除した！": "<%sB_ACTOR> got a Prison Key! 1 lock was released!"
     },
     "171": {
-        "<%sB_ACTOR>は プリズンキーを １つ消した！": ""
+        "<%sB_ACTOR>は プリズンキーを １つ消した！": "<%sB_ACTOR> erased one Prison Key!"
     },
     "172": {
-        "<%sB_ACTOR>は キャッチハンドを 1つ消した！": ""
+        "<%sB_ACTOR>は キャッチハンドを 1つ消した！": "<%sB_ACTOR> erased one Catch Hand!"
     },
     "173": {
         "clarity_nt_char_57": "clarity_nt_char_57"
     },
     "174": {
-        "<%sB_ACTOR>は <%sB_TARGET>を 占領した！": ""
+        "<%sB_ACTOR>は <%sB_TARGET>を 占領した！": "<%sB_ACTOR> has occupied <%sB_TARGET>!"
     },
     "175": {
         "clarity_nt_char_58": "clarity_nt_char_58"
