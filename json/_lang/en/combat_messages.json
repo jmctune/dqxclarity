@@ -669,25 +669,25 @@
         "clarity_nt_char_75": "clarity_nt_char_75"
     },
     "224": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 呪文が ふうじこめられている！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 呪文が ふうじこめられている！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's spells are sealed!"
     },
     "225": {
         "clarity_nt_char_76": "clarity_nt_char_76"
     },
     "226": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 息の根をとめた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 息の根をとめた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e stopped breathing!"
     },
     "227": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは くだけちった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは くだけちった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was shattered!"
     },
     "228": {
         "clarity_nt_char_77": "clarity_nt_char_77"
     },
     "229": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ちからつき いきたえた。": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ちからつき いきたえた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e is exhausted and out of breath."
     },
     "230": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションを 1段さげた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションを 1段さげた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension lowered by 1 stage!"
     },
     "231": {
         "clarity_nt_char_78": "clarity_nt_char_78"
