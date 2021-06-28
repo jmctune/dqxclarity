@@ -5187,7 +5187,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>黒き濁流の塔": ""
     },
     "1730": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>玄関ホール": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>玄関ホール": "<%sW_MAP_NAME><%sW_DELIMITER>Entrance Hall"
     },
     "1731": {
         "clarity_nt_char_545": "clarity_nt_char_545"
@@ -5235,7 +5235,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>空き部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Vacant Room"
     },
     "1746": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>書斎": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>書斎": "Study"
     },
     "1747": {
         "<%sW_MAP_NAME><%sW_DELIMITER>デゼルの部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Dezel's Room"
