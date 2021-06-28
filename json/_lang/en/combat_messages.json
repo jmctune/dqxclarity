@@ -390,10 +390,10 @@
         "clarity_nt_char_45": "clarity_nt_char_45"
     },
     "131": {
-        "勇気の輝きが <%dB_VALUE> 増えた！": "Your spirit has increased by <%dB_VALUE>!"
+        "勇気の輝きが <%dB_VALUE> 増えた！": "Your courage has increased by <%dB_VALUE>!"
     },
     "132": {
-        "勇気の輝きを <%dB_VALUE> 使った。": "I used <%dB_VALUE> spirit."
+        "勇気の輝きを <%dB_VALUE> 使った。": "Used <%dB_VALUE> courage."
     },
     "133": {
         "全ての職業で <%sB_NAME>が 1あがった！": "All classes increased by 1 for <%sB_NAME>!"
@@ -420,7 +420,7 @@
         "<%sB_ITEM>を かくとく！": "<%sB_ITEM> received!"
     },
     "141": {
-        "<%sB_ITEM>を <%dB_VALUE>個 かくとく！": ""
+        "<%sB_ITEM>を <%dB_VALUE>個 かくとく！": "<%dB_VALUE> <%sB_ITEM> received!"
     },
     "142": {
         "clarity_nt_char_48": "clarity_nt_char_48"

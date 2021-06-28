@@ -5259,7 +5259,7 @@
         "レアドロップ率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）倍": ""
     },
     "1754": {
-        "攻撃時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%で急所突き": ""
+        "攻撃時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%で急所突き": "Weak Point Attack <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1755": {
         "clarity_nt_char_597": "clarity_nt_char_597"
@@ -6105,7 +6105,7 @@
         "攻撃時 ？%でミスする": ""
     },
     "2036": {
-        "攻撃時 ？%で急所突き": ""
+        "攻撃時 ？%で急所突き": "Weak Point Attack ?%"
     },
     "2037": {
         "開戦時 ？%でタップダンス": "Battle Start Tap Dance ?%"
