@@ -1797,10 +1797,10 @@
         "clarity_nt_char_207": "clarity_nt_char_207"
     },
     "600": {
-        "他のプレイヤーから　名前が見えない状態で|歴代ランキングと　月間ランキングに|記録が　登録されました。": ""
+        "他のプレイヤーから　名前が見えない状態で|歴代ランキングと　月間ランキングに|記録が　登録されました。": "Overall and monthly records have been|registered with name not visible to|others."
     },
     "601": {
-        "月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>|記録を　登録します。": ""
+        "月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>|記録を　登録します。": "Won monthly ranking (Rank <%dB_VALUE>)!|Records have been registered."
     },
     "602": {
         "他のプレイヤーから　名前が見える状態で|月間ランキングに　記録が登録されました。": ""
