@@ -1722,7 +1722,7 @@
         "clarity_nt_char_197": "clarity_nt_char_197"
     },
     "575": {
-        "<%sB_TARGET>の|なつき度が　最大値になった！": "<%sB_TARGET>'s|friendliness has reached its maximum!"
+        "<%sB_TARGET>の|なつき度が　最大値になった！": "<%sB_TARGET>'s|attachment has reached its maximum!"
     },
     "576": {
         "clarity_nt_char_198": "clarity_nt_char_198"
@@ -1743,7 +1743,7 @@
         "<%sB_ACTOR>は|<%dB_VALUE> Pの経験値を　かくとく！": "<%sB_ACTOR> received <%dB_VALUE> EXP!"
     },
     "582": {
-        "<%sB_ACTOR>は|<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの|経験値を　かくとく！": "<%sB_ACTOR> received <%dB_VALUE>+<%dB_VALUE2> (Strong Enemy Bonus) EXP!"
+        "<%sB_ACTOR>は|<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの|経験値を　かくとく！": "<%sB_ACTOR> received <%dB_VALUE> +<%dB_VALUE2> (Strong Enemy Bonus) EXP!"
     },
     "583": {
         "自己ベストを　更新した！": "You set a new personal best!"
@@ -1752,7 +1752,7 @@
         "clarity_nt_char_201": "clarity_nt_char_201"
     },
     "585": {
-        "<%dB_VALUE>位の　ワールドレコードを記録した！": ""
+        "<%dB_VALUE>位の　ワールドレコードを記録した！": "Recorded a World Record of Rank <%dB_VALUE>!"
     },
     "586": {
         "clarity_nt_char_202": "clarity_nt_char_202"
