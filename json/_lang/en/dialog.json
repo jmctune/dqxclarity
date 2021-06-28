@@ -435,7 +435,7 @@
         "clarity_nt_char_47": "clarity_nt_char_47"
     },
     "146": {
-        "<speed=0>レベルが足りないため　装備できない！": ""
+        "<speed=0>レベルが足りないため　装備できない！": "<speed=0>I can't equip it because I'm not high enough!"
     },
     "147": {
         "<speed=0><%sM_item>は　手に入りづらい|貴重な物ですが　本当に　捨ててもいいですか？<yesno2><close>": ""
@@ -3834,7 +3834,7 @@
         "clarity_nt_char_425": "clarity_nt_char_425"
     },
     "1279": {
-        "<speed=0>釣りレベルが足りないため　つけられない！": ""
+        "<speed=0>釣りレベルが足りないため　つけられない！": "<speed=0>Can't attach because fishing level is not enough!"
     },
     "1280": {
         "<speed=0>先に　装備する釣りざおを　選んでください。": ""
@@ -3852,7 +3852,7 @@
         "clarity_nt_char_427": "clarity_nt_char_427"
     },
     "1285": {
-        "<speed=0>情報が取得できませんでした。|しばらく待ってから　もう一度　お試しください。": ""
+        "<speed=0>情報が取得できませんでした。|しばらく待ってから　もう一度　お試しください。": "<speed=0>Unable to retrieve information.|Please wait a moment and try again."
     },
     "1286": {
         "<speed=0>その場所は　まだ行ったことがないため|移動できません。": ""
