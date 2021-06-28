@@ -162,19 +162,19 @@
         "・": "・"
     },
     "55": {
-        "<%sW_REP_MAX_2ND_F>黄葉商店": "F. Yellow Leaf Shop"
+        "<%sW_REP_MAX_2ND_F>黄葉商店": "<%sW_REP_MAX_2ND_F>Yellow Leaf Shop"
     },
     "56": {
-        "<%sW_REP_MAX_2ND_F>湖上の休息所": "F. Lake Retreat"
+        "<%sW_REP_MAX_2ND_F>湖上の休息所": "<%sW_REP_MAX_2ND_F>Lake Retreat"
     },
     "57": {
-        "<%sW_REP_MAX_2ND_F>滝を臨む集落": "F. Waterfall Village"
+        "<%sW_REP_MAX_2ND_F>滝を臨む集落": "<%sW_REP_MAX_2ND_F>Waterfall Village"
     },
     "58": {
         "勇者姫": "Hero Rm."
     },
     "59": {
-        "<%sW_REP_MAX_2ND_F>ピラミッド": "F. Pyramid"
+        "<%sW_REP_MAX_2ND_F>ピラミッド": "<%sW_REP_MAX_2ND_F>Pyramid"
     },
     "60": {
         "clarity_nt_char_22": "clarity_nt_char_22"
@@ -387,7 +387,7 @@
         "clarity_nt_char_42": "clarity_nt_char_42"
     },
     "130": {
-        "<%sW_REP_MIN_2ND_F>グランゼドーラ": "F. Gran Zedora"
+        "<%sW_REP_MIN_2ND_F>グランゼドーラ": "<%sW_REP_MAX_2ND_F>Gran Zedora"
     },
     "131": {
         "clarity_nt_char_43": "clarity_nt_char_43"
@@ -534,7 +534,7 @@
         "clarity_nt_char_57": "clarity_nt_char_57"
     },
     "179": {
-        "<%sW_REP_MIN_2ND_F>夜宴館": "F. Night Banquet"
+        "<%sW_REP_MIN_2ND_F>夜宴館": "<%sW_REP_MAX_2ND_F>Night Banquet"
     },
     "180": {
         "clarity_nt_char_58": "clarity_nt_char_58"
@@ -570,7 +570,7 @@
         "clarity_nt_char_61": "clarity_nt_char_61"
     },
     "191": {
-        "<%sW_REP_MAX_2ND_F>格闘場": "F. Arena"
+        "<%sW_REP_MAX_2ND_F>格闘場": "<%sW_REP_MAX_2ND_F>Arena"
     },
     "192": {
         "clarity_nt_char_62": "clarity_nt_char_62"
@@ -582,7 +582,7 @@
         "高台の教会": "High Church"
     },
     "195": {
-        "<%sW_REP_MIN_2ND_F>セレドの町": "F. Town of Celed"
+        "<%sW_REP_MIN_2ND_F>セレドの町": "<%sW_REP_MAX_2ND_F>Town of Celed"
     },
     "196": {
         "clarity_nt_char_63": "clarity_nt_char_63"
@@ -855,7 +855,7 @@
         "clarity_nt_char_93": "clarity_nt_char_93"
     },
     "286": {
-        "<%sW_REP_MIN_2ND_F>コニウェア": "F. Coniware"
+        "<%sW_REP_MIN_2ND_F>コニウェア": "<%sW_REP_MAX_2ND_F>Coniware"
     },
     "287": {
         "clarity_nt_char_94": "clarity_nt_char_94"
@@ -876,7 +876,7 @@
         "clarity_nt_char_96": "clarity_nt_char_96"
     },
     "293": {
-        "<%sW_REP_MIN_2ND_F>ロヴォス高地": "F. Rovos Highlands"
+        "<%sW_REP_MIN_2ND_F>ロヴォス高地": "<%sW_REP_MAX_2ND_F>Rovos Highlands"
     },
     "294": {
         "最上階": "Top Floor"
