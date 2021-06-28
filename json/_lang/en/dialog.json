@@ -681,13 +681,13 @@
         "clarity_nt_char_77": "clarity_nt_char_77"
     },
     "228": {
-        "<speed=0>復活場所の　<%sM_add><%sM_point>へ戻ると|<%dM_gold> G　失います。|<%sM_add><%sM_point>に　戻りますか？<yesno2><close>": ""
+        "<speed=0>復活場所の　<%sM_add><%sM_point>へ戻ると|<%dM_gold> G　失います。|<%sM_add><%sM_point>に　戻りますか？<yesno2><close>": "<speed=0>If I go back to <%sM_add><%sM_point>,|I will lose <%dM_gold>G. Do you want to return|to <%sM_add><%sM_point>? <yesno2><close>"
     },
     "229": {
         "clarity_nt_char_78": "clarity_nt_char_78"
     },
     "230": {
-        "<speed=0><%sM_point>に　戻ります。": ""
+        "<speed=0><%sM_point>に　戻ります。": "<speed=0>Returns to <%sM_point>."
     },
     "231": {
         "<speed=0>スタート地点に戻ると|うばわれたポイントは　復活されません。|スタート地点に　戻りますか？<yesno><close>": ""
@@ -702,7 +702,7 @@
         "clarity_nt_char_80": "clarity_nt_char_80"
     },
     "235": {
-        "<speed=0>サポート仲間を　全滅させますか？<yesno><close>": ""
+        "<speed=0>サポート仲間を　全滅させますか？<yesno><close>": "<speed=0>Would you like to leave your support crew? <yesno><close>"
     },
     "236": {
         "ポイントを|うしなったまま|ふっかつします": ""
@@ -711,7 +711,7 @@
         "なにも みつからなかった。": "Nothing was found."
     },
     "238": {
-        "<speed=0>チームを抜けられませんでした。|しばらく待ってから　もう一度|やり直してください。": ""
+        "<speed=0>チームを抜けられませんでした。|しばらく待ってから　もう一度|やり直してください。": "<speed=0>Could not leave the team.|Please wait a while and try again."
     },
     "239": {
         "clarity_nt_char_81": "clarity_nt_char_81"
@@ -726,7 +726,7 @@
         "clarity_nt_char_82": "clarity_nt_char_82"
     },
     "243": {
-        "<speed=0>自分を　誘うことは　できません。": ""
+        "<speed=0>自分を　誘うことは　できません。": "<speed=0>You can't invite yourself."
     },
     "244": {
         "<speed=0>入力した　名前と　キャラＩＤに|当てはまる人が　いませんでした。|名前と　キャラＩＤを　確認してください。": ""
@@ -735,7 +735,7 @@
         "clarity_nt_char_83": "clarity_nt_char_83"
     },
     "246": {
-        "<speed=0>その人は　オンラインにいないので|誘えません。": ""
+        "<speed=0>その人は　オンラインにいないので|誘えません。": "<speed=0>The person is not online|and cannot be invited."
     },
     "247": {
         "clarity_nt_char_84": "clarity_nt_char_84"
