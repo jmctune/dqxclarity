@@ -693,16 +693,16 @@
         "clarity_nt_char_78": "clarity_nt_char_78"
     },
     "232": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションが 1段さがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションが 1段さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension lowered by 1 stage!"
     },
     "233": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>を 中断した。": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>を 中断した。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e interrupted <%sB_ACTION>."
     },
     "234": {
         "clarity_nt_char_79": "clarity_nt_char_79"
     },
     "235": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%sB_EXTRA>を 中断された。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%sB_EXTRA>を 中断された。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e interrupted <%sB_EXTRA>."
     },
     "236": {
         "clarity_nt_char_80": "clarity_nt_char_80"
