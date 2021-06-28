@@ -1557,7 +1557,7 @@
         "clarity_nt_char_153": "clarity_nt_char_153"
     },
     "520": {
-        "開かずの間のカギ": "Closed Off Room Key"
+        "開かずの間のカギ": "Unseen Room Key"
     },
     "521": {
         "clarity_nt_char_154": "clarity_nt_char_154"
@@ -9405,7 +9405,7 @@
         "<pc>は　フェルナーのメモを|確認してみた。|<br>|デゼル・マクフォール　１８さい　男|死亡推定時刻：発見前日の深夜～翌早朝にかけて|死因：頭部を強打したキズによるもの|<br>|備考：頭部に　２ヶ所のキズが確認できる。": "<pc> checked Felner's Notes.|<br>|Dezel McFaul. 18 years old. Male.|Time of Death: Between midnight and early next morning.|Cause of Death: Struck in the head.|<br>|Note: Two wounds can be seen on his head."
     },
     "3136": {
-        "<pc>は　デゼルの手紙を　読んでみた。|<br>|深夜　皆が眠りについた頃 |開かずの間の前室で待つ。|妖魔のまなざしの件で　話がしたい。": ""
+        "<pc>は　デゼルの手紙を　読んでみた。|<br>|深夜　皆が眠りについた頃 |開かずの間の前室で待つ。|妖魔のまなざしの件で　話がしたい。": "<pc> started reading Dezel's Letter.|<br>|\"Late at night, when everyone's asleep...|I wait in front of the Unseen Room. I want to|talk about the demon's gaze.\""
     },
     "3137": {
         "clarity_nt_char_1026": "clarity_nt_char_1026"
@@ -9429,7 +9429,7 @@
         "clarity_nt_char_1029": "clarity_nt_char_1029"
     },
     "3144": {
-        "<pc>は　赤い花びんを|じっくり　ながめてみた。|<br>|開かずの間の前室に　飾ってあったらしい|とても高級そうな　赤い花びんだ。|わずかながら　血が付着している！": "<pc> looked carefully at the Red Vase.|<br>|It's an expensive looking red vase that|was displayed in front of the closed off room.|There's a small amount of blood on it!"
+        "<pc>は　赤い花びんを|じっくり　ながめてみた。|<br>|開かずの間の前室に　飾ってあったらしい|とても高級そうな　赤い花びんだ。|わずかながら　血が付着している！": "<pc> looked carefully at the Red Vase.|<br>|It's an expensive looking red vase that|was displayed in front of the Unseen Room.|There's a small amount of blood on it!"
     },
     "3145": {
         "clarity_nt_char_1030": "clarity_nt_char_1030"
