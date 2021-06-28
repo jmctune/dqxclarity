@@ -144,31 +144,31 @@
         "元気な敵に攻撃": ""
     },
     "49": {
-        "<speed=0><%sM_target>は　遠くにいるので|はなしかけられない！": ""
+        "<speed=0><%sM_target>は　遠くにいるので|はなしかけられない！": "<speed=0><%sM_target> is too far away to talk to!"
     },
     "50": {
-        "<speed=0><%sM_action>を　となえる相手が|近くにいない！": ""
+        "<speed=0><%sM_action>を　となえる相手が|近くにいない！": "<speed=0>There is no one nearby to perform <%sM_action>!"
     },
     "51": {
         "clarity_nt_char_14": "clarity_nt_char_14"
     },
     "52": {
-        "<speed=0><%sM_target>は　遠くにあるので|調べられない！": ""
+        "<speed=0><%sM_target>は　遠くにあるので|調べられない！": "<speed=0><%sM_target> is too far away to check!"
     },
     "53": {
         "clarity_nt_char_15": "clarity_nt_char_15"
     },
     "54": {
-        "<speed=0><%sM_item>は　呪われていて|はずせない！": ""
+        "<speed=0><%sM_item>は　呪われていて|はずせない！": "<speed=0><%sM_item> is cursed and cannot be removed!"
     },
     "55": {
         "clarity_nt_char_16": "clarity_nt_char_16"
     },
     "56": {
-        "<speed=0><%sM_target>が　遠くにいるので|<%sM_item>を使えない！": ""
+        "<speed=0><%sM_target>が　遠くにいるので|<%sM_item>を使えない！": "<speed=0><%sM_target> is too far away to use|<%sM_item>!"
     },
     "57": {
-        "<speed=0><%sM_target>は　遠くにいるので　|ついていけない！": ""
+        "<speed=0><%sM_target>は　遠くにいるので　|ついていけない！": "<speed=0><%sM_target> is too far away to follow!"
     },
     "58": {
         "clarity_nt_char_17": "clarity_nt_char_17"
@@ -180,19 +180,19 @@
         "clarity_nt_char_18": "clarity_nt_char_18"
     },
     "61": {
-        "<speed=0><%sM_target>が　遠くにいるので|<%sM_action>を　となえられない！": ""
+        "<speed=0><%sM_target>が　遠くにいるので|<%sM_action>を　となえられない！": "<speed=0><%sM_target> is too far away to say|<%sM_action>!"
     },
     "62": {
         "<speed=0>ついていける相手が　近くにいません。": "<speed=0>There's nobody nearby to follow."
     },
     "63": {
-        "<speed=0><%sM_action>を　使う相手が|近くにいない！": ""
+        "<speed=0><%sM_action>を　使う相手が|近くにいない！": "<speed=0>There's no one nearby to use <%sM_action>!"
     },
     "64": {
         "clarity_nt_char_19": "clarity_nt_char_19"
     },
     "65": {
-        "<speed=0>調べるものが　近くにありません。": ""
+        "<speed=0>調べるものが　近くにありません。": "<speed=0>There's nothing nearby to check."
     },
     "66": {
         "<speed=0>話せる相手が　近くにいません。": "<speed=0>There's no one nearby to talk to."
@@ -204,10 +204,10 @@
         "<speed=0>ルーラストーンを　持っていない！": "<speed=0>Couldn't use the Zoomstone!"
     },
     "69": {
-        "<speed=0>そうびひんを　持っていない！": ""
+        "<speed=0>そうびひんを　持っていない！": "<speed=0>I don't have any armor!"
     },
     "70": {
-        "<speed=0>だいじなものを　持っていない！": ""
+        "<speed=0>だいじなものを　持っていない！": "<speed=0>You don't have anything important!"
     },
     "71": {
         "clarity_nt_char_21": "clarity_nt_char_21"
