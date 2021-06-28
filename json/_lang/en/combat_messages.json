@@ -849,7 +849,7 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの経験値 <%dB_VALUE3> G かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> EXP and <%dB_VALUE3> Gold!"
     },
     "284": {
-        "　→ 強敵ボーナス +<%dB_VALUE> P": "　→Strong Enemy Bonus +<%dB_VALUE> EXP"
+        "　→ 強敵ボーナス +<%dB_VALUE> P": "　→Strong Enemy Bonus +<%dB_VALUE>P"
     },
     "285": {
         "clarity_nt_char_97": "clarity_nt_char_97"
