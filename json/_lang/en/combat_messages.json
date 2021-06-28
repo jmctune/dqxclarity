@@ -231,28 +231,28 @@
         "clarity_nt_char_29": "clarity_nt_char_29"
     },
     "78": {
-        "<%dB_VALUE>(＋<%dB_VALUE2>)Ｇ かくとく！": "<%dB_VALUE>(＋<%dB_VALUE2>) Gold received!"
+        "<%dB_VALUE>(＋<%dB_VALUE2>)Ｇ かくとく！": "<%dB_VALUE> (＋<%dB_VALUE2>) Gold received!"
     },
     "79": {
         "<%sB_ACTOR>は <%sB_TARGET>から 何かを盗みとっていた！": "<%sB_ACTOR> steals something from <%sB_TARGET>!"
     },
     "80": {
-        "<%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値 <%dB_VALUE5>(+<%dB_VALUE6>)Ｇ かくとく！": "<%dB_VALUE3>(+<%dB_VALUE4>) EXP and <%dB_VALUE5>(+<%dB_VALUE6>) Gold received!"
+        "<%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値 <%dB_VALUE5>(+<%dB_VALUE6>)Ｇ かくとく！": "<%dB_VALUE3> (+<%dB_VALUE4>) EXP and <%dB_VALUE5> (+<%dB_VALUE6>) Gold received!"
     },
     "81": {
-        "<%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値 <%dB_VALUE2>Ｇ かくとく！": "<%dB_VALUE3>(+<%dB_VALUE4>) EXP and <%dB_VALUE2> Gold received!"
+        "<%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値 <%dB_VALUE2>Ｇ かくとく！": "<%dB_VALUE3> (+<%dB_VALUE4>) EXP and <%dB_VALUE2> Gold received!"
     },
     "82": {
         "clarity_nt_char_30": "clarity_nt_char_30"
     },
     "83": {
-        "<%dB_VALUE>Ｐの経験値 <%dB_VALUE5>(+<%dB_VALUE6>)Ｇ かくとく！": "<%dB_VALUE> EXP and <%dB_VALUE5>(+<%dB_VALUE6>) Gold received!"
+        "<%dB_VALUE>Ｐの経験値 <%dB_VALUE5>(+<%dB_VALUE6>)Ｇ かくとく！": "<%dB_VALUE> EXP and <%dB_VALUE5> (+<%dB_VALUE6>) Gold received!"
     },
     "84": {
         "<%dB_VALUE2>(＋<%dB_VALUE3>)Ｐの経験値を かくとく！": "<%dB_VALUE2> (+<%dB_VALUE3>) EXP received!"
     },
     "85": {
-        "<%dB_VALUE2>(＋<%dB_VALUE3>)Ｇ かくとく！": "<%dB_VALUE2>(＋<%dB_VALUE3>) Gold received!"
+        "<%dB_VALUE2>(＋<%dB_VALUE3>)Ｇ かくとく！": "<%dB_VALUE2> (＋<%dB_VALUE3>) Gold received!"
     },
     "86": {
         "clarity_nt_char_31": "clarity_nt_char_31"
@@ -267,13 +267,13 @@
         "？？？": "???"
     },
     "90": {
-        "<%dB_VALUE> G 盗みとっていた！": ""
+        "<%dB_VALUE> G 盗みとっていた！": "Stole <%dB_VALUE> G!"
     },
     "91": {
         "clarity_nt_char_32": "clarity_nt_char_32"
     },
     "92": {
-        "このモンスターとは 戦えなかった": "You can't fight this monster"
+        "このモンスターとは 戦えなかった": "You can't fight this monster."
     },
     "93": {
         "clarity_nt_char_33": "clarity_nt_char_33"
@@ -285,13 +285,13 @@
         "clarity_nt_char_34": "clarity_nt_char_34"
     },
     "96": {
-        "相手を 見失った": "You lost the others"
+        "相手を 見失った": "The enemy was lost."
     },
     "97": {
         "clarity_nt_char_35": "clarity_nt_char_35"
     },
     "98": {
-        "相手に たどりつけなかった": "You couldn't reach the other party"
+        "相手に たどりつけなかった": "You couldn't reach the enemy."
     },
     "99": {
         "しかし 宝箱は 手に入らなかった。": "But you couldn't get the treasure chest."
