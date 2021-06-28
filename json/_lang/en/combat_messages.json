@@ -267,7 +267,7 @@
         "？？？": "???"
     },
     "90": {
-        "<%dB_VALUE> G 盗みとっていた！": "Stole <%dB_VALUE> G!"
+        "<%dB_VALUE> G 盗みとっていた！": "Stole <%dB_VALUE> Gold!"
     },
     "91": {
         "clarity_nt_char_32": "clarity_nt_char_32"
@@ -348,7 +348,7 @@
         "<%dB_VALUE> G かくとく！": "<%dB_VALUE> Gold received!"
     },
     "117": {
-        "<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの経験値 <%dB_VALUE3> G かくとく！": "<%dB_VALUE>+<%dB_VALUE2>(Strong Enemy Bonus) EXP and <%dB_VALUE3> Gold received!"
+        "<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの経験値 <%dB_VALUE3> G かくとく！": "<%dB_VALUE>+<%dB_VALUE2> (Strong Enemy Bonus) EXP and <%dB_VALUE3> Gold received!"
     },
     "118": {
         "<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの経験値を かくとく！": "<%dB_VALUE>+<%dB_VALUE2> (Strong Enemy Bonus) EXP received!"
@@ -375,10 +375,10 @@
         "clarity_nt_char_43": "clarity_nt_char_43"
     },
     "126": {
-        "<%sB_ACTOR>は スカウトに失敗した。": ""
+        "<%sB_ACTOR>は スカウトに失敗した。": "<%sB_ACTOR> failed to scout."
     },
     "127": {
-        "<%sB_TARGET>は たおされた。": "<%sB_TARGET> has been killed."
+        "<%sB_TARGET>は たおされた。": "<%sB_TARGET> has been defeated."
     },
     "128": {
         "clarity_nt_char_44": "clarity_nt_char_44"
