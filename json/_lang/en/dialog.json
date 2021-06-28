@@ -2652,7 +2652,7 @@
         "<speed=0>|この写真は　すでに　思い出アルバムに|保存されているため　コピーできませんでした。": "<speed=0>|Photo could not be copied because it|already exists in your Photo Album."
     },
     "885": {
-        "<speed=0>|絵葉書を書いた人の　思い出アルバムから|写真が削除されたため　表示できませんでした。": ""
+        "<speed=0>|絵葉書を書いた人の　思い出アルバムから|写真が削除されたため　表示できませんでした。": "<speed=0>|Photo could not be displayed since its|original author has deleted it."
     },
     "886": {
         "clarity_nt_char_302": "clarity_nt_char_302"
