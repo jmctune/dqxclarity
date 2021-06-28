@@ -2589,13 +2589,13 @@
         "clarity_nt_char_295": "clarity_nt_char_295"
     },
     "864": {
-        "<speed=0>写真が削除されると　絵葉書の絵が|表示されなくなってしまいます。|写真を　ロックしますか？<yesno><close>": ""
+        "<speed=0>写真が削除されると　絵葉書の絵が|表示されなくなってしまいます。|写真を　ロックしますか？<yesno><close>": "<speed=0>If this photo is deleted, it won't be displayed|in the postcard. Lock the photo?<yesno><close>"
     },
     "865": {
         "clarity_nt_char_296": "clarity_nt_char_296"
     },
     "866": {
-        "<speed=0><%sM_item>が　できました！|絵葉書は　『書いた手紙』に入ります。": ""
+        "<speed=0><%sM_item>が　できました！|絵葉書は　『書いた手紙』に入ります。": "<speed=0><%sM_item> is ready!|Postcards are viewable in \"Written Letters\"."
     },
     "867": {
         "clarity_nt_char_297": "clarity_nt_char_297"
