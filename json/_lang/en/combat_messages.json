@@ -864,16 +864,16 @@
         "clarity_nt_char_98": "clarity_nt_char_98"
     },
     "289": {
-        "　総獲得職人経験値<%sB_VALUE> P (内 元気ボーナス <%sB_VALUE2> P)": ""
+        "　総獲得職人経験値<%sB_VALUE> P (内 元気ボーナス <%sB_VALUE2> P)": "　Total Craftsman EXP: <%sB_VALUE> (Inner Bonus +<%sB_VALUE2> P)"
     },
     "290": {
         "clarity_nt_char_99": "clarity_nt_char_99"
     },
     "291": {
-        "　総獲得ゴールド<%sB_VALUE> G (内 元気ボーナス <%sB_VALUE2> G)": ""
+        "　総獲得ゴールド<%sB_VALUE> G (内 元気ボーナス <%sB_VALUE2> G)": "　Total Gold: <%sB_VALUE> G (Inner Bonus +<%sB_VALUE2> G)"
     },
     "292": {
-        "　なにも かくとく しなかった。": ""
+        "　なにも かくとく しなかった。": "　Didn't receive anything."
     },
     "293": {
         "clarity_nt_char_100": "clarity_nt_char_100"
