@@ -480,22 +480,22 @@
         "<%sB_ACTOR>は 海に落ちてしまった！": "<%sB_ACTOR> fell into the ocean!"
     },
     "161": {
-        "<%sB_ITEM>を <%dB_VALUE> P かくとく！": "<%sB_ITEM> received <%dB_VALUE>P!"
+        "<%sB_ITEM>を <%dB_VALUE> P かくとく！": "<%sB_ITEM> received <%dB_VALUE> P!"
     },
     "162": {
-        "<%sB_ITEM>を <%dB_VALUE> P　旅のコンシェルジュに送った！": ""
+        "<%sB_ITEM>を <%dB_VALUE> P　旅のコンシェルジュに送った！": "<%sB_ITEM> sent <%dB_VALUE>P to the concierge!"
     },
     "163": {
         "clarity_nt_char_54": "clarity_nt_char_54"
     },
     "164": {
-        "<%sB_ACTOR>は 追跡チームの お助けボックスを消した！": ""
+        "<%sB_ACTOR>は 追跡チームの お助けボックスを消した！": "<%sB_ACTOR> cleared Tracking Team's help box!"
     },
     "165": {
         "clarity_nt_char_55": "clarity_nt_char_55"
     },
     "166": {
-        "<%sB_ACTOR>は 逃走チームの お助けボックスを消した！": ""
+        "<%sB_ACTOR>は 逃走チームの お助けボックスを消した！": "<%sB_ACTOR> erased the help box for the Escape Team!"
     },
     "167": {
         "clarity_nt_char_56": "clarity_nt_char_56"
