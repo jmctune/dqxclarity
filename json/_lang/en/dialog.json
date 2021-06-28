@@ -2565,13 +2565,13 @@
         "clarity_nt_char_291": "clarity_nt_char_291"
     },
     "856": {
-        "ドルボードの燃料が　切れました。": ""
+        "ドルボードの燃料が　切れました。": "Your dolboard is out of fuel."
     },
     "857": {
         "clarity_nt_char_292": "clarity_nt_char_292"
     },
     "858": {
-        "<speed=0>ロックできる枚数が限界のため|ロックできませんでした。|ロックせずに　絵葉書を書きますか？<yesno><close>": ""
+        "<speed=0>ロックできる枚数が限界のため|ロックできませんでした。|ロックせずに　絵葉書を書きますか？<yesno><close>": "<speed=0>Couldn't lock due to limited number|of lockable sheets. Would you like to write|a postcard without locking it?<yesno><close>"
     },
     "859": {
         "clarity_nt_char_293": "clarity_nt_char_293"
