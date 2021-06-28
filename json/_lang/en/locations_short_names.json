@@ -5226,7 +5226,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>浴室": ""
     },
     "1743": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>大広間": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>大広間": "Great Hall"
     },
     "1744": {
         "clarity_nt_char_550": "clarity_nt_char_550"
@@ -5883,13 +5883,13 @@
         "clarity_nt_char_615": "clarity_nt_char_615"
     },
     "1962": {
-        "大広間 出口": ""
+        "大広間 出口": "Great Hall Exit"
     },
     "1963": {
         "clarity_nt_char_616": "clarity_nt_char_616"
     },
     "1964": {
-        "大広間 入口": ""
+        "大広間 入口": "Great Hall Ent."
     },
     "1965": {
         "clarity_nt_char_617": "clarity_nt_char_617"
@@ -6150,7 +6150,7 @@
         "clarity_nt_char_641": "clarity_nt_char_641"
     },
     "2051": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>大広間 出口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>大広間 出口": "Great Hall Exit"
     },
     "2052": {
         "<%sW_MAP_NAME><%sW_DELIMITER>壁画": ""
