@@ -1167,19 +1167,19 @@
         "クリア報酬(うつしよの金箱)が 出現した！": "A golden box has appeared!"
     },
     "390": {
-        "クリア報酬(うつしよの天箱)が ふたつ出現した！||クリア報酬(うつしよの闇箱)が 出現した！": ""
+        "クリア報酬(うつしよの天箱)が ふたつ出現した！||クリア報酬(うつしよの闇箱)が 出現した！": "A heavenly box has appeared!||A box of darkness has appeared!"
     },
     "391": {
-        "思い出アルバムに 写真を保存しました。": "The photo has been saved in your memory album."
+        "思い出アルバムに 写真を保存しました。": "The photo has been saved in your Photo Album."
     },
     "392": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ターン消費しなかった！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ターン消費しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't use a turn!"
     },
     "393": {
         "clarity_nt_char_135": "clarity_nt_char_135"
     },
     "394": {
-        "<%dB_VALUE> Pの 達人ポイントを かくとく！": ""
+        "<%dB_VALUE> Pの 達人ポイントを かくとく！": "Received <%dB_VALUE> Master Points!"
     },
     "395": {
         "clarity_nt_char_136": "clarity_nt_char_136"
