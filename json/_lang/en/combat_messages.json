@@ -735,31 +735,31 @@
         "<%dB_VALUE> Pの スキルポイントを かくとくした！": "<%dB_VALUE> skill points received!"
     },
     "246": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ふっとばされた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ふっとばされた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was blown back!"
     },
     "247": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは へろへろタイムなので なにも かくとくできなかった。": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは へろへろタイムなので なにも かくとくできなかった。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e was feeling sloppy and couldn't do anything."
     },
     "248": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>(＋<%dB_VALUE2>)Ｐの経験値 <%dB_VALUE3>Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE>(＋<%dB_VALUE2>) EXP and <%dB_VALUE3> Gold!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>(＋<%dB_VALUE2>)Ｐの経験値 <%dB_VALUE3>Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> (+<%dB_VALUE2>) EXP and <%dB_VALUE3> Gold!"
     },
     "249": {
         "clarity_nt_char_84": "clarity_nt_char_84"
     },
     "250": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>(＋<%dB_VALUE2>)Ｐの経験値 <%dB_VALUE3>(＋<%dB_VALUE4>)Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE>(+<%dB_VALUE2>) EXP and <%dB_VALUE3>(+<%dB_VALUE4>) Gold!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>(＋<%dB_VALUE2>)Ｐの経験値 <%dB_VALUE3>(＋<%dB_VALUE4>)Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> (+<%dB_VALUE2>) EXP and <%dB_VALUE3> (+<%dB_VALUE4>) Gold!"
     },
     "251": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>(＋<%dB_VALUE2>)Ｐの経験値を かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE>(＋<%dB_VALUE2>) EXP！"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>(＋<%dB_VALUE2>)Ｐの経験値を かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> (+<%dB_VALUE2>) EXP！"
     },
     "252": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>(＋<%dB_VALUE2>)Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE>(+<%dB_VALUE2>) Gold."
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>(＋<%dB_VALUE2>)Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> (+<%dB_VALUE2>) Gold."
     },
     "253": {
         "clarity_nt_char_85": "clarity_nt_char_85"
     },
     "254": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を 使うのをやめた。": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を 使うのをやめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stopped using <%sB_ITEM>."
     },
     "255": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eから 何かを盗みとっていた！": ""
