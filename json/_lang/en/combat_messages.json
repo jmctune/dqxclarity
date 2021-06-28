@@ -618,7 +618,7 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは レベル<%dB_VALUE>から <%dB_VALUE2>に あがった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's level increased from <%dB_VALUE> to <%dB_VALUE2>!"
     },
     "207": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>ゴールドを 手に入れた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> gold!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>ゴールドを 手に入れた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> Gold!"
     },
     "208": {
         "clarity_nt_char_70": "clarity_nt_char_70"
