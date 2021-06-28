@@ -48,13 +48,13 @@
         "clarity_nt_char_5": "clarity_nt_char_5"
     },
     "17": {
-        "<%sB_ITEM><%sB_RANK>|を使った！": ""
+        "<%sB_ITEM><%sB_RANK>|を使った！": "Used|<%sB_ITEM><%sB_RANK>!"
     },
     "18": {
         "clarity_nt_char_6": "clarity_nt_char_6"
     },
     "19": {
-        "<%sB_JACK_NAME>の心を|使った！": ""
+        "<%sB_JACK_NAME>の心を|使った！": "Used|<%sB_JACK_NAME>'s Heart!"
     },
     "20": {
         "<%sB_ACTION>！！": ""
