@@ -5232,7 +5232,7 @@
         "clarity_nt_char_550": "clarity_nt_char_550"
     },
     "1745": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>空き部屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>空き部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Vacant Room"
     },
     "1746": {
         "<%sW_MAP_NAME><%sW_DELIMITER>書斎": ""
