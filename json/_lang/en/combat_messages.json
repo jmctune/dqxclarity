@@ -1818,19 +1818,19 @@
         "月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": "Set a new monthly personal best of <%sB_VALUE>.<%sB_VALUE2> sec.!<se_nots System 17>"
     },
     "607": {
-        "歴代の自己ベストを　 <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 　更新した！<se_nots System 17>": ""
+        "歴代の自己ベストを　 <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 　更新した！<se_nots System 17>": "Set a new overall personal best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.! <se_nots System 17>"
     },
     "608": {
         "clarity_nt_char_209": "clarity_nt_char_209"
     },
     "609": {
-        "月間の自己ベストを　 <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 　更新した！<se_nots System 17>": ""
+        "月間の自己ベストを　 <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 　更新した！<se_nots System 17>": "Set a new monthly personal best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.! <se_nots System 17>"
     },
     "610": {
         "clarity_nt_char_210": "clarity_nt_char_210"
     },
     "611": {
-        "<%sB_TARGET>は　たおされた。": "<%sB_TARGET> has been killed."
+        "<%sB_TARGET>は　たおされた。": "<%sB_TARGET> was defeated."
     },
     "612": {
         "clarity_nt_char_211": "clarity_nt_char_211"
