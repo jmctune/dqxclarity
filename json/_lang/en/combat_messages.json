@@ -1257,10 +1257,10 @@
         "clarity_nt_char_146": "clarity_nt_char_146"
     },
     "420": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ハイスコアが <%dB_VALUE> P になった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ハイスコアが <%dB_VALUE> P になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's high score is now <%dB_VALUE>!"
     },
     "421": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの トータルスコアが <%dB_VALUE> P になった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの トータルスコアが <%dB_VALUE> P になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's total score is now <%dB_VALUE>!"
     },
     "422": {
         "航海に 成功した！": "Voyage was successful!"
@@ -1269,7 +1269,7 @@
         "ボーナス達成なし！": "No bonus achieved!"
     },
     "424": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_JACK_NAME>の心を 使うのをやめた。": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_JACK_NAME>の心を 使うのをやめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stopped using <%sB_JACK_NAME>'s Heart."
     },
     "425": {
         "clarity_nt_char_147": "clarity_nt_char_147"
@@ -1281,7 +1281,7 @@
         "clarity_nt_char_148": "clarity_nt_char_148"
     },
     "428": {
-        "<%sB_ITEM>を <%dB_VALUE>P かくとく！": ""
+        "<%sB_ITEM>を <%dB_VALUE>P かくとく！": "<%sB_ITEM> received <%dB_VALUE>!"
     },
     "429": {
         "clarity_nt_char_149": "clarity_nt_char_149"
