@@ -2604,7 +2604,7 @@
         "<speed=0>冒険を中断して　ゲームを終了します。|<color_yellow>※敵がいる場所では　10秒ほど　かかります。<color_white>|サポート仲間となるように　酒場登録をしますか？<select>|登録して終了する|そのまま終了する|<select_end><close>": "<speed=0>Interrupt the adventure and end the game?|<color_yellow>*It takes 10 seconds in an area with monsters.|<color_white>Register as a support companion?<select>|Register and Exit|End Now|<select_end><close>"
     },
     "869": {
-        "<speed=0>|絵葉書にした写真を　誰かに渡すと|あなたが渡した人から　いろいろな人の手に|渡る可能性がありますので　ご注意ください。": ""
+        "<speed=0>|絵葉書にした写真を　誰かに渡すと|あなたが渡した人から　いろいろな人の手に|渡る可能性がありますので　ご注意ください。": "<speed=0>Please note that by giving someone a|postcard, they will be able to show it to others,|so be careful."
     },
     "870": {
         "<select_nc_se_off>|メインメニューへ|ログアウトして起動ランチャーへ|ログアウトしてソフトを終了する|<select_end><close>": "<select_nc_se_off>|Go to main menu|Logout to launcher|Logout and exit software|<select_end><close>"
