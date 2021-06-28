@@ -531,31 +531,31 @@
         "clarity_nt_char_59": "clarity_nt_char_59"
     },
     "178": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが 仲間にくわわった！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが 仲間にくわわった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e joined the party!"
     },
     "179": {
         "clarity_nt_char_60": "clarity_nt_char_60"
     },
     "180": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eたちが 仲間にくわわった！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eたちが 仲間にくわわった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e and co. joined the party!"
     },
     "181": {
         "clarity_nt_char_61": "clarity_nt_char_61"
     },
     "182": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが 戦闘に参加した！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが 戦闘に参加した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e joined the battle!"
     },
     "183": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 戦いをやめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e runs away."
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 戦いをやめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stopped fighting."
     },
     "184": {
         "clarity_nt_char_62": "clarity_nt_char_62"
     },
     "185": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 戦うのをやめた。": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 戦うのをやめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stopped fighting."
     },
     "186": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_TARGET>を やっつけた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e defeated the enemy!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_TARGET>を やっつけた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e defeated an enemy!"
     },
     "187": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_TARGET>たちを やっつけた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e defeated the enemies!"
@@ -576,7 +576,7 @@
         "clarity_nt_char_63": "clarity_nt_char_63"
     },
     "193": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ちからつきた。": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ちからつきた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e is exhausted."
     },
     "194": {
         "clarity_nt_char_64": "clarity_nt_char_64"
