@@ -1326,28 +1326,28 @@
         "clarity_nt_char_153": "clarity_nt_char_153"
     },
     "443": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは チャージが発生しなかった！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは チャージが発生しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's charge did not occur!"
     },
     "444": {
         "clarity_nt_char_154": "clarity_nt_char_154"
     },
     "445": {
-        "バトル開始！": "Battle begins!"
+        "バトル開始！": "Battle Start!"
     },
     "446": {
         "clarity_nt_char_155": "clarity_nt_char_155"
     },
     "447": {
-        "レベルアップ！": "Level up!"
+        "レベルアップ！": "Level Up!"
     },
     "448": {
-        "ＭＰが足りない！": "Need more MP!"
+        "ＭＰが足りない！": "Not enough MP!"
     },
     "449": {
         "clarity_nt_char_156": "clarity_nt_char_156"
     },
     "450": {
-        "呪文が|ふうじこめられている！": "The spell|was sealed!"
+        "呪文が|ふうじこめられている！": "Spells|were sealed!"
     },
     "451": {
         "テンションが|１段さがった！": "Tension decreased!"
@@ -1356,7 +1356,7 @@
         "clarity_nt_char_157": "clarity_nt_char_157"
     },
     "453": {
-        "<%sB_ACTION>を|中断した": ""
+        "<%sB_ACTION>を|中断した": "<%sB_ACTION>|interrupted!"
     },
     "454": {
         "clarity_nt_char_158": "clarity_nt_char_158"
