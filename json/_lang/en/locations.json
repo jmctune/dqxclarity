@@ -1434,7 +1434,7 @@
         "<%sW_REP_MIN_2ND_F>グランゼドーラ城": "<%sW_REP_MAX_2ND_F>Gran Zedora Castle"
     },
     "479": {
-        "<%sW_REP_MAX_2ND_R>グランゼドーラ城": "T. Gran Zedora Castle"
+        "<%sW_REP_MAX_2ND_R>グランゼドーラ城": "<%sW_REP_MAX_2ND_R>Gran Zedora Castle"
     },
     "480": {
         "<%sW_REP_MIN_2ND_F>グランゼドーラ港": "<%sW_REP_MAX_2ND_F>Gran Zedora Harbor"
@@ -1449,25 +1449,25 @@
         "モンセロ温泉峡": "Moncello Spring Gorge"
     },
     "484": {
-        "<%sW_REP_MAX_2ND_R>三門の関所": "T. Sanmon Barrier"
+        "<%sW_REP_MAX_2ND_R>三門の関所": "<%sW_REP_MAX_2ND_R>Sanmon Barrier"
     },
     "485": {
         "clarity_nt_char_173": "clarity_nt_char_173"
     },
     "486": {
-        "<%sW_REP_MAX_2ND_R>ココラタの浜辺": "T. Cocoratha Beach"
+        "<%sW_REP_MAX_2ND_R>ココラタの浜辺": "<%sW_REP_MAX_2ND_R>Cocoratha Beach"
     },
     "487": {
         "clarity_nt_char_174": "clarity_nt_char_174"
     },
     "488": {
-        "<%sW_REP_MAX_2ND_R>コニウェア平原": "T. Coniware Plain"
+        "<%sW_REP_MAX_2ND_R>コニウェア平原": "<%sW_REP_MAX_2ND_R>Coniware Plain"
     },
     "489": {
         "clarity_nt_char_175": "clarity_nt_char_175"
     },
     "490": {
-        "<%sW_REP_MAX_2ND_R>グランゼドーラ港": "T. Gran Zedora Harbor"
+        "<%sW_REP_MAX_2ND_R>グランゼドーラ港": "<%sW_REP_MAX_2ND_R>Gran Zedora Harbor"
     },
     "491": {
         "<%sW_REP_MAX_2ND_F>三門の関所": "<%sW_REP_MAX_2ND_F>Sanmon Barrier"
@@ -1479,19 +1479,19 @@
         "<%sW_REP_MAX_2ND_F>ゼドラ洞": "<%sW_REP_MAX_2ND_F>Zedora Cave"
     },
     "494": {
-        "<%sW_REP_MAX_2ND_R>ゼドラ洞": "T. Zedora Cave"
+        "<%sW_REP_MAX_2ND_R>ゼドラ洞": "<%sW_REP_MAX_2ND_R>Zedora Cave"
     },
     "495": {
         "<%sW_REP_MAX_2ND_F>巨竜の巣": "<%sW_REP_MAX_2ND_F>Dragon Nest"
     },
     "496": {
-        "<%sW_REP_MAX_2ND_R>巨竜の巣": "T. Dragon Nest"
+        "<%sW_REP_MAX_2ND_R>巨竜の巣": "<%sW_REP_MAX_2ND_R>Dragon Nest"
     },
     "497": {
         "ご神体の間": "Hall of Worship"
     },
     "498": {
-        "<%sW_REP_MIN_2ND_R>グランゼドーラ王国": "T. Gran Zedora Kingdom"
+        "<%sW_REP_MIN_2ND_R>グランゼドーラ王国": "<%sW_REP_MAX_2ND_R>Gran Zedora Kingdom"
     },
     "499": {
         "clarity_nt_char_177": "clarity_nt_char_177"
@@ -1503,7 +1503,7 @@
         "clarity_nt_char_178": "clarity_nt_char_178"
     },
     "502": {
-        "<%sW_REP_MAX_2ND_R>メルサンディ村": "T. Melsandy Village"
+        "<%sW_REP_MAX_2ND_R>メルサンディ村": "<%sW_REP_MAX_2ND_R>Melsandy Village"
     },
     "503": {
         "clarity_nt_char_179": "clarity_nt_char_179"
@@ -1515,13 +1515,13 @@
         "clarity_nt_char_180": "clarity_nt_char_180"
     },
     "506": {
-        "<%sW_REP_MIN_2ND_R>メルサンディ穀倉帯": "T. Melsandy Granary Belt"
+        "<%sW_REP_MIN_2ND_R>メルサンディ穀倉帯": "<%sW_REP_MAX_2ND_R>Melsandy Granary Belt"
     },
     "507": {
         "clarity_nt_char_181": "clarity_nt_char_181"
     },
     "508": {
-        "<%sW_REP_MAX_2ND_R>さびれたほこら": "T. Deserted Shrine"
+        "<%sW_REP_MAX_2ND_R>さびれたほこら": "<%sW_REP_MAX_2ND_R>Deserted Shrine"
     },
     "509": {
         "clarity_nt_char_182": "clarity_nt_char_182"
@@ -1536,7 +1536,7 @@
         "<%sW_REP_MAX_2ND_F>メルン水車郷": "<%sW_REP_MAX_2ND_F>Melun Waterwheel"
     },
     "513": {
-        "<%sW_REP_MAX_2ND_R>メルン水車郷": "T. Melun Waterwheel"
+        "<%sW_REP_MAX_2ND_R>メルン水車郷": "<%sW_REP_MAX_2ND_R>Melun Waterwheel"
     },
     "514": {
         "謎の地下水路": "Undergrd Waterway"
@@ -1554,7 +1554,7 @@
         "clarity_nt_char_185": "clarity_nt_char_185"
     },
     "519": {
-        "<%sW_REP_MAX_2ND_R>ワルド水源": "T. Wald Water Source"
+        "<%sW_REP_MAX_2ND_R>ワルド水源": "<%sW_REP_MAX_2ND_R>Wald Outfall"
     },
     "520": {
         "clarity_nt_char_186": "clarity_nt_char_186"
@@ -1566,7 +1566,7 @@
         "clarity_nt_char_187": "clarity_nt_char_187"
     },
     "523": {
-        "<%sW_REP_MAX_2ND_R>夜宴館": "T. Banquet"
+        "<%sW_REP_MAX_2ND_R>夜宴館": "<%sW_REP_MAX_2ND_R>Banquet"
     },
     "524": {
         "clarity_nt_char_188": "clarity_nt_char_188"
@@ -1578,7 +1578,7 @@
         "clarity_nt_char_189": "clarity_nt_char_189"
     },
     "527": {
-        "<%sW_REP_MAX_2ND_R>セレドの町": "T. Town of Celed"
+        "<%sW_REP_MAX_2ND_R>セレドの町": "<%sW_REP_MAX_2ND_R>Town of Celed"
     },
     "528": {
         "clarity_nt_char_190": "clarity_nt_char_190"
@@ -1593,7 +1593,7 @@
         "clarity_nt_char_191": "clarity_nt_char_191"
     },
     "532": {
-        "<%sW_REP_MAX_2ND_R>セレドット山道": "T. Celed Mtn Pass"
+        "<%sW_REP_MAX_2ND_R>セレドット山道": "<%sW_REP_MAX_2ND_R>Celed Mtn Pass"
     },
     "533": {
         "clarity_nt_char_192": "clarity_nt_char_192"
@@ -1611,7 +1611,7 @@
         "clarity_nt_char_194": "clarity_nt_char_194"
     },
     "538": {
-        "<%sW_REP_MAX_2ND_R>ダーマ神殿": "T. Dharma Temple"
+        "<%sW_REP_MAX_2ND_R>ダーマ神殿": "<%sW_REP_MAX_2ND_R>Dharma Temple"
     },
     "539": {
         "clarity_nt_char_195": "clarity_nt_char_195"
@@ -1644,7 +1644,7 @@
         "<%sW_REP_MIN_2ND_F>アラハギーロ地方": "<%sW_REP_MAX_2ND_F>Arahagiro Region"
     },
     "549": {
-        "<%sW_REP_MAX_2ND_R>アラハギーロ地方": "T. Arahagiro Region"
+        "<%sW_REP_MAX_2ND_R>アラハギーロ地方": "<%sW_REP_MAX_2ND_R>Arahagiro Region"
     },
     "550": {
         "<%sW_REP_MIN_2ND_F>アラハギーロ王国": "<%sW_REP_MAX_2ND_F>Kingdom of Arahagiro"
@@ -1653,10 +1653,10 @@
         "<%sW_REP_MIN_2ND_F>アラハギーロ城内": "<%sW_REP_MAX_2ND_F>Arahagiro Castle"
     },
     "552": {
-        "<%sW_REP_MAX_2ND_R>アラハギーロ王国": "T. Kingdom of Arahagiro"
+        "<%sW_REP_MAX_2ND_R>アラハギーロ王国": "<%sW_REP_MAX_2ND_R>Kingdom of Arahagiro"
     },
     "553": {
-        "<%sW_REP_MAX_2ND_R>アラハギーロ城内": "T. Arahagiro Castle"
+        "<%sW_REP_MAX_2ND_R>アラハギーロ城内": "<%sW_REP_MAX_2ND_R>Arahagiro Castle"
     },
     "554": {
         "シガール町長の執務室": "Mayor Sigal's Office"
@@ -1683,7 +1683,7 @@
         "<%sW_REP_MAX_2ND_F>エテーネの村": "<%sW_REP_MAX_2ND_F>Ethene Village"
     },
     "562": {
-        "<%sW_REP_MAX_2ND_R>エテーネの村": "T. Ethene Village"
+        "<%sW_REP_MAX_2ND_R>エテーネの村": "<%sW_REP_MAX_2ND_R>Ethene Village"
     },
     "563": {
         "<%sW_REP_MAX_2ND_F>育みの大地": "<%sW_REP_MAX_2ND_F>Nutured Land"
@@ -1692,7 +1692,7 @@
         "clarity_nt_char_203": "clarity_nt_char_203"
     },
     "565": {
-        "<%sW_REP_MAX_2ND_R>育みの大地": "T. Nutured Land"
+        "<%sW_REP_MAX_2ND_R>育みの大地": "<%sW_REP_MAX_2ND_R>Nutured Land"
     },
     "566": {
         "clarity_nt_char_204": "clarity_nt_char_204"
@@ -1701,7 +1701,7 @@
         "<%sW_REP_MAX_2ND_F>名もなき草原": "<%sW_REP_MAX_2ND_F>Nameless Field"
     },
     "568": {
-        "<%sW_REP_MAX_2ND_R>名もなき草原": "T. Nameless Field"
+        "<%sW_REP_MAX_2ND_R>名もなき草原": "<%sW_REP_MAX_2ND_R>Nameless Field"
     },
     "569": {
         "<%sW_REP_MAX_2ND_F>谷間の広場": "<%sW_REP_MAX_2ND_F>Valley Square"
@@ -1719,7 +1719,7 @@
         "clarity_nt_char_206": "clarity_nt_char_206"
     },
     "574": {
-        "<%sW_REP_MAX_2ND_R>悪鬼のねぐら": "T. Devil's Roost"
+        "<%sW_REP_MAX_2ND_R>悪鬼のねぐら": "<%sW_REP_MAX_2ND_R>Devil's Roost"
     },
     "575": {
         "<%sW_REP_MAX_2ND_F>悪鬼のねぐら": "<%sW_REP_MAX_2ND_F>Devil's Roost"
@@ -1728,10 +1728,10 @@
         "<%sW_REP_MIN_2ND_F>ナシームの洞くつ": "<%sW_REP_MAX_2ND_F>Nassim Cave"
     },
     "577": {
-        "<%sW_REP_MAX_2ND_R>ナシームの洞くつ": "T. Nassim Cave"
+        "<%sW_REP_MAX_2ND_R>ナシームの洞くつ": "<%sW_REP_MAX_2ND_R>Nassim Cave"
     },
     "578": {
-        "<%sW_REP_MAX_2ND_R>ピラミッド": "T. Pyramid"
+        "<%sW_REP_MAX_2ND_R>ピラミッド": "<%sW_REP_MAX_2ND_R>Pyramid"
     },
     "579": {
         "clarity_nt_char_207": "clarity_nt_char_207"
@@ -1746,7 +1746,7 @@
         "太陽の石室": "Sun Stone Room"
     },
     "583": {
-        "<%sW_REP_MAX_2ND_R>ジャイラ密林": "T. Jyra Jungle"
+        "<%sW_REP_MAX_2ND_R>ジャイラ密林": "<%sW_REP_MAX_2ND_R>Jyra Jungle"
     },
     "584": {
         "<%sW_REP_MAX_2ND_F>ジャイラ密林": "<%sW_REP_MAX_2ND_F>Jyra Jungle"
@@ -1755,10 +1755,10 @@
         "<%sW_REP_MAX_2ND_F>デフェル荒野": "<%sW_REP_MAX_2ND_F>Defel Wilderness"
     },
     "586": {
-        "<%sW_REP_MAX_2ND_R>デフェル荒野": "T. Defel Wilderness"
+        "<%sW_REP_MAX_2ND_R>デフェル荒野": "<%sW_REP_MAX_2ND_R>Defel Wilderness"
     },
     "587": {
-        "<%sW_REP_MAX_2ND_R>日除けのほら穴": "T. Awning Cave"
+        "<%sW_REP_MAX_2ND_R>日除けのほら穴": "<%sW_REP_MAX_2ND_R>Awning Cave"
     },
     "588": {
         "clarity_nt_char_209": "clarity_nt_char_209"
@@ -1770,7 +1770,7 @@
         "clarity_nt_char_210": "clarity_nt_char_210"
     },
     "591": {
-        "<%sW_REP_MAX_2ND_R>ムルードの岩山": "T. Muldo Mountain"
+        "<%sW_REP_MAX_2ND_R>ムルードの岩山": "<%sW_REP_MAX_2ND_R>Muldo Mountain"
     },
     "592": {
         "clarity_nt_char_211": "clarity_nt_char_211"
@@ -1788,7 +1788,7 @@
         "clarity_nt_char_213": "clarity_nt_char_213"
     },
     "597": {
-        "<%sW_REP_MIN_2ND_R>格闘場・闘いの広間": "T. Arena - Fighting Hall"
+        "<%sW_REP_MIN_2ND_R>格闘場・闘いの広間": "<%sW_REP_MAX_2ND_R>Arena - Fighting Hall"
     },
     "598": {
         "clarity_nt_char_214": "clarity_nt_char_214"
@@ -1797,7 +1797,7 @@
         "<%sW_REP_MIN_2ND_F>モンスター格闘場": "<%sW_REP_MAX_2ND_F>Monster Arena"
     },
     "600": {
-        "<%sW_REP_MAX_2ND_R>モンスター格闘場": "T. Monster Arena"
+        "<%sW_REP_MAX_2ND_R>モンスター格闘場": "<%sW_REP_MAX_2ND_R>Monster Arena"
     },
     "601": {
         "ソーラリア峡谷": "Solaria Canyon"
@@ -1809,13 +1809,13 @@
         "clarity_nt_char_215": "clarity_nt_char_215"
     },
     "604": {
-        "<%sW_REP_MAX_2ND_R>禁呪の祭壇": "T. Forbidden Altar"
+        "<%sW_REP_MAX_2ND_R>禁呪の祭壇": "<%sW_REP_MAX_2ND_R>Forbidden Altar"
     },
     "605": {
         "clarity_nt_char_216": "clarity_nt_char_216"
     },
     "606": {
-        "<%sW_REP_MAX_2ND_R>リンジャの塔": "T. Linja Tower"
+        "<%sW_REP_MAX_2ND_R>リンジャの塔": "<%sW_REP_MAX_2ND_R>Linja Tower"
     },
     "607": {
         "<%sW_REP_MAX_2ND_F>リンジャの塔": "<%sW_REP_MAX_2ND_F>Linja Tower"
@@ -1827,13 +1827,13 @@
         "clarity_nt_char_217": "clarity_nt_char_217"
     },
     "610": {
-        "<%sW_REP_MAX_2ND_R>リャナ荒涼地帯": "T. Lyana Desolate Area"
+        "<%sW_REP_MAX_2ND_R>リャナ荒涼地帯": "<%sW_REP_MAX_2ND_R>Lyana Desolate Area"
     },
     "611": {
         "clarity_nt_char_218": "clarity_nt_char_218"
     },
     "612": {
-        "<%sW_REP_MAX_2ND_R>リンジャハル海岸": "T. Linjahar Coast"
+        "<%sW_REP_MAX_2ND_R>リンジャハル海岸": "<%sW_REP_MAX_2ND_R>Linjahar Coast"
     },
     "613": {
         "<%sW_REP_MIN_2ND_F>リンジャハル海岸": "<%sW_REP_MAX_2ND_F>Linjahar Coast"
@@ -1845,7 +1845,7 @@
         "clarity_nt_char_219": "clarity_nt_char_219"
     },
     "616": {
-        "<%sW_REP_MAX_2ND_R>こもれびの広場": "T. Sunbeam Square"
+        "<%sW_REP_MAX_2ND_R>こもれびの広場": "<%sW_REP_MAX_2ND_R>Sunbeam Square"
     },
     "617": {
         "clarity_nt_char_220": "clarity_nt_char_220"
@@ -1854,7 +1854,7 @@
         "魔獣の菜園": "Hexenbiest Yard"
     },
     "619": {
-        "<%sW_REP_MAX_2ND_R>ローヌ樹林帯": "T. Rhone Forest Belt"
+        "<%sW_REP_MAX_2ND_R>ローヌ樹林帯": "<%sW_REP_MAX_2ND_R>Rhone Forest Belt"
     },
     "620": {
         "<%sW_REP_MAX_2ND_F>ローヌ樹林帯": "<%sW_REP_MAX_2ND_F>Rhone Forest Belt"
@@ -1863,16 +1863,16 @@
         "<%sW_REP_MAX_2ND_F>海風の洞くつ": "<%sW_REP_MAX_2ND_F>Seabreeze Cave"
     },
     "622": {
-        "<%sW_REP_MAX_2ND_R>海風の洞くつ": "T. Seabreeze Cave"
+        "<%sW_REP_MAX_2ND_R>海風の洞くつ": "<%sW_REP_MAX_2ND_R>Seabreeze Cave"
     },
     "623": {
-        "<%sW_REP_MAX_2ND_R>ロヴォス高地": "T. Rovos Highlands"
+        "<%sW_REP_MAX_2ND_R>ロヴォス高地": "<%sW_REP_MAX_2ND_R>Rovos Highlands"
     },
     "624": {
         "<%sW_REP_MAX_2ND_F>ロヴォス高地": "<%sW_REP_MAX_2ND_F>Rovos Highlands"
     },
     "625": {
-        "<%sW_REP_MAX_2ND_R>レビュール街道南": "T. Reviewle Highway South"
+        "<%sW_REP_MAX_2ND_R>レビュール街道南": "<%sW_REP_MAX_2ND_R>Reviewle Highway South"
     },
     "626": {
         "<%sW_REP_MIN_2ND_F>レビュール街道南": "<%sW_REP_MAX_2ND_F>Reviewle Highway South"
@@ -1881,7 +1881,7 @@
         "<%sW_REP_MIN_2ND_F>レビュール街道北": "<%sW_REP_MAX_2ND_F>Reviewle Highway North"
     },
     "628": {
-        "<%sW_REP_MAX_2ND_R>レビュール街道北": "T. Reviewle Highway North"
+        "<%sW_REP_MAX_2ND_R>レビュール街道北": "<%sW_REP_MAX_2ND_R>Reviewle Highway North"
     },
     "629": {
         "大樹の根元": "Big Tree Root"
@@ -1899,7 +1899,7 @@
         "clarity_nt_char_222": "clarity_nt_char_222"
     },
     "634": {
-        "<%sW_REP_MAX_2ND_R>忘れられた広間": "T. Forgotten Hall"
+        "<%sW_REP_MAX_2ND_R>忘れられた広間": "<%sW_REP_MAX_2ND_R>Forgotten Hall"
     },
     "635": {
         "clarity_nt_char_223": "clarity_nt_char_223"
@@ -1917,7 +1917,7 @@
         "<%sW_REP_MAX_2ND_F>魔女の森": "<%sW_REP_MAX_2ND_F>Witch Forest"
     },
     "640": {
-        "<%sW_REP_MAX_2ND_R>魔女の森": "T. Witch Forest"
+        "<%sW_REP_MAX_2ND_R>魔女の森": "<%sW_REP_MAX_2ND_R>Witch Forest"
     },
     "641": {
         "三闘の神殿": "Santo Temple"
@@ -1989,7 +1989,7 @@
         "<%sW_REP_MIN_2ND_F>グランゼドーラ領": "<%sW_REP_MAX_2ND_F>Gran Zedora Territory"
     },
     "664": {
-        "<%sW_REP_MAX_2ND_R>グランゼドーラ領": "T. Gran Zedora Territory"
+        "<%sW_REP_MAX_2ND_R>グランゼドーラ領": "<%sW_REP_MAX_2ND_R>Gran Zedora Territory"
     },
     "665": {
         "カジノフロア": "Casino Floor"
@@ -2136,7 +2136,7 @@
         "clarity_nt_char_249": "clarity_nt_char_249"
     },
     "713": {
-        "<%sW_REP_MAX_2ND_R>五行の塔": "T. Five Towers"
+        "<%sW_REP_MAX_2ND_R>五行の塔": "<%sW_REP_MAX_2ND_R>Five Towers"
     },
     "714": {
         "ラゼアの風穴": "Lazea Wind Cave"
@@ -2148,7 +2148,7 @@
         "紅玉館": "Mansion"
     },
     "717": {
-        "<%sW_REP_MAX_2ND_R>レンダーシア上空": "T. Lendersia Skies"
+        "<%sW_REP_MAX_2ND_R>レンダーシア上空": "<%sW_REP_MAX_2ND_R>Lendersia Skies"
     },
     "718": {
         "真": "T. "
@@ -2514,7 +2514,7 @@
         "clarity_nt_char_291": "clarity_nt_char_291"
     },
     "839": {
-        "<%sW_REP_MAX_2ND_R>安住の地": "T. Quaint Area"
+        "<%sW_REP_MAX_2ND_R>安住の地": "<%sW_REP_MAX_2ND_R>Quaint Area"
     },
     "840": {
         "不思議の魔塔": "Odd Demon Tower"
@@ -2727,7 +2727,7 @@
         "封剣の門・一獄": "Sword Gate 1st Prison"
     },
     "910": {
-        "<%sW_REP_MAX_2ND_R>玉座の間": "T. Throne Hall"
+        "<%sW_REP_MAX_2ND_R>玉座の間": "<%sW_REP_MAX_2ND_R>Throne Hall"
     },
     "911": {
         "秘密の宝物庫": "Secret Treasure H."
@@ -3219,7 +3219,7 @@
         "新エテーネの村": "New Ethene Village"
     },
     "1074": {
-        "<%sW_REP_MAX_2ND_R>資料室": "T. Data Room"
+        "<%sW_REP_MAX_2ND_R>資料室": "<%sW_REP_MAX_2ND_R>Data Room"
     },
     "1075": {
         "clarity_nt_char_372": "clarity_nt_char_372"
@@ -4317,7 +4317,7 @@
         "clarity_nt_char_486": "clarity_nt_char_486"
     },
     "1440": {
-        "<%sW_REP_MAX_2ND_R>ガリアル洞": "T. Garial Cave"
+        "<%sW_REP_MAX_2ND_R>ガリアル洞": "<%sW_REP_MAX_2ND_R>Garial Cave"
     },
     "1441": {
         "clarity_nt_char_487": "clarity_nt_char_487"
