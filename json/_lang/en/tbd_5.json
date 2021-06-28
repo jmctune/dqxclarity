@@ -2412,7 +2412,7 @@
         "仮装メイクの有効期間が <%dL_DAY>日 <%dL_HOUR>時間 <%dL_MIN>分に延長された。": ""
     },
     "805": {
-        "<pc>は <%sL_ITEM>を <%dL_ITEM_NUM>個 使った！": ""
+        "<pc>は <%sL_ITEM>を <%dL_ITEM_NUM>個 使った！": "<pc> used <%dL_ITEM_NUM> <%sL_ITEM>!"
     },
     "806": {
         "clarity_nt_char_264": "clarity_nt_char_264"
