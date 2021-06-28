@@ -2151,9 +2151,9 @@
         "clarity_nt_char_242": "clarity_nt_char_242"
     },
     "718": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは どうぐが ふうじこめられている！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは どうぐが ふうじこめられている！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's items are sealed!"
     },
     "719": {
-        "どうぐが|ふうじこめられている！": "Your gear|is locked up!"
+        "どうぐが|ふうじこめられている！": "Items|are sealed!"
     }
 }
