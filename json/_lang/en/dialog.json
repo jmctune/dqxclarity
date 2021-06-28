@@ -261,10 +261,10 @@
         "<speed=0>戦闘中の　じゅもんを　覚えていない！": "<speed=0>I don't remember any battle spells!"
     },
     "88": {
-        "<speed=0><%sM_action>は　<%sM_item_syurui>を|右手に装備していないと　使えない！": ""
+        "<speed=0><%sM_action>は　<%sM_item_syurui>を|右手に装備していないと　使えない！": "<speed=0><%sM_action> won't work unless you have|<%sM_item_syurui> in your right hand!"
     },
     "89": {
-        "<speed=0><%sM_action>は　素手でないと　使えない！": ""
+        "<speed=0><%sM_action>は　素手でないと　使えない！": "<speed=0><%sM_action> will only work with bare hands!"
     },
     "90": {
         "冒険を中断して|ゲームを|終了します": "Abort the|adventure and|exit the game."
@@ -282,7 +282,7 @@
         "仲間に関する|コマンドを|選べます": "Select commands|related to your|companions."
     },
     "95": {
-        "<speed=0>いまは　パーティを解散できません。": ""
+        "<speed=0>いまは　パーティを解散できません。": "<speed=0>Can't break up the party now."
     },
     "96": {
         "clarity_nt_char_29": "clarity_nt_char_29"
@@ -297,22 +297,22 @@
         "※削除予定": "Plan to Delete"
     },
     "100": {
-        "<speed=0><%sM_pc>を|チームから　はずしました。": ""
+        "<speed=0><%sM_pc>を|チームから　はずしました。": "<speed=0><%sM_pc> has been removed from the team."
     },
     "101": {
         "clarity_nt_char_31": "clarity_nt_char_31"
     },
     "102": {
-        "<speed=0><%sM_target>は|他のチームに入っているので　誘えません。": ""
+        "<speed=0><%sM_target>は|他のチームに入っているので　誘えません。": "<speed=0>I can't invite <%sM_target>|because they are on another team."
     },
     "103": {
-        "テストマクロ": ""
+        "テストマクロ": "Test Macro"
     },
     "104": {
         "clarity_nt_char_32": "clarity_nt_char_32"
     },
     "105": {
-        "ゲーム上での|いろいろな設定を|おこないます": ""
+        "ゲーム上での|いろいろな設定を|おこないます": "Configure various|settings in the|game."
     },
     "106": {
         "clarity_nt_char_33": "clarity_nt_char_33"
@@ -348,7 +348,7 @@
         "そうびなし": "Nothing"
     },
     "117": {
-        "<speed=0>チーム『<%sM_team>』から　抜けた！": ""
+        "<speed=0>チーム『<%sM_team>』から　抜けた！": "<speed=0>I'm off the team '<%sM_team>'!"
     },
     "118": {
         "<%sM_pc>を　チームに誘った！|<%sM_pc>からの　返事を待とう。": ""
