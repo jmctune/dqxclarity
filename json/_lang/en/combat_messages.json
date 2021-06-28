@@ -1926,25 +1926,25 @@
         "他のプレイヤーから　名前が見える状態で|ランキングに　登録されました。": "Registered in the ranking with name|visible to other players."
     },
     "643": {
-        "他のプレイヤーから　名前が見えない状態で|ランキングに　登録されました。": ""
+        "他のプレイヤーから　名前が見えない状態で|ランキングに　登録されました。": "Registered in the ranking with name|not visible to other players."
     },
     "644": {
         "clarity_nt_char_222": "clarity_nt_char_222"
     },
     "645": {
-        "勇気の輝きが　<%dB_VALUE>回復した！": "Your spirit has been restored to <%dB_VALUE>!"
+        "勇気の輝きが　<%dB_VALUE>回復した！": "Your courage has been restored to <%dB_VALUE>!"
     },
     "646": {
-        "勇気の輝きを　<%dB_VALUE>消費した。": "You consumed <%dB_VALUE> spirit."
+        "勇気の輝きを　<%dB_VALUE>消費した。": "You consumed <%dB_VALUE> courage."
     },
     "647": {
-        "思い出アルバムに　写真を保存しています。|しばらく　お待ちください。": "Saving the photo to your memory album|Please wait a moment."
+        "思い出アルバムに　写真を保存しています。|しばらく　お待ちください。": "Saving the photo to your Photo Album.|Please wait a moment."
     },
     "648": {
         "clarity_nt_char_223": "clarity_nt_char_223"
     },
     "649": {
-        "思い出アルバムへの保存に　失敗しました。|エラーコード：<%sERRID>": "Failed to save the photo to your memory album.|Error code: <%sERRID>."
+        "思い出アルバムへの保存に　失敗しました。|エラーコード：<%sERRID>": "Failed to save photo to your Photo Album.|Error code: <%sERRID>."
     },
     "650": {
         "光の霊玉を  <%dB_VALUE>個　かくとく！": "Retrieve <%dB_VALUE> Spirit Balls of Light!"
