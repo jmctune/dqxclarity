@@ -1902,22 +1902,22 @@
         "clarity_nt_char_220": "clarity_nt_char_220"
     },
     "635": {
-        "無制限部門の|月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly personal best of|<%dB_VALUE> min. <%sB_VALUE>.<%sB_VALUE3> sec. in the unlimited category!<se_nots System 17>"
+        "無制限部門の|月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly personal best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unlimited category!<se_nots System 17>"
     },
     "636": {
         "clarity_nt_char_221": "clarity_nt_char_221"
     },
     "637": {
-        "職業重複なし部門の|歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly personal best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unlimited category!<se_nots System 17>"
+        "職業重複なし部門の|歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new overall personal best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!<se_nots System 17>"
     },
     "638": {
-        "職業重複なし部門の|月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": ""
+        "職業重複なし部門の|月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly personal best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!<se_nots System 17>"
     },
     "639": {
-        "サポと１人で部門の|歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": ""
+        "サポと１人で部門の|歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new overall personal best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the support category!<se_nots System 17>"
     },
     "640": {
-        "サポと１人で部門の|月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": ""
+        "サポと１人で部門の|月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly personal best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the support category!<se_nots System 17>"
     },
     "641": {
         "ランキングに　登録します。|他のプレイヤーから　名前が見える状態で|記録の登録をしても　よろしいですか？<yesno>": ""
