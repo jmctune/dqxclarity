@@ -2721,16 +2721,16 @@
         "しかし　何も起こらなかった……。|ドルセリンを使うには　岳都ガタラで受けられる|クエストを　クリアする必要があります。": "But, nothing happened... To use Dolserin, complete a quest in Gatara."
     },
     "908": {
-        "チャット入力ウィンドウが開いているので|単語登録を閉じられません。": ""
+        "チャット入力ウィンドウが開いているので|単語登録を閉じられません。": "Can't close word registration because|the chat input window is open."
     },
     "909": {
-        "<speed=0>絵葉書にする写真を　選択してください。": ""
+        "<speed=0>絵葉書にする写真を　選択してください。": "<speed=0>Please select the photo to use as a postcard."
     },
     "910": {
         "clarity_nt_char_309": "clarity_nt_char_309"
     },
     "911": {
-        "<speed=0>絵葉書にする写真を　選んでください。": ""
+        "<speed=0>絵葉書にする写真を　選んでください。": "<speed=0>Please select the photo to use as a postcard."
     },
     "912": {
         "<speed=0>|絵葉書用便せんがないため|絵葉書を書くことが　できません。|便せんは　便せん屋で買うことができます。": ""
