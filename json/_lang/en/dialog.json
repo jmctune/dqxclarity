@@ -213,52 +213,52 @@
         "clarity_nt_char_21": "clarity_nt_char_21"
     },
     "72": {
-        "<speed=0>仲間に参加しているので|ひとりプレイ中に　変更できません！": ""
+        "<speed=0>仲間に参加しているので|ひとりプレイ中に　変更できません！": "<speed=0>Cannot be changed while playing alone!"
     },
     "73": {
         "clarity_nt_char_22": "clarity_nt_char_22"
     },
     "74": {
-        "<speed=0>ここで使える呪文を　覚えていない！": ""
+        "<speed=0>ここで使える呪文を　覚えていない！": "<speed=0>I don't remember any spells we can use here!"
     },
     "75": {
         "clarity_nt_char_23": "clarity_nt_char_23"
     },
     "76": {
-        "<speed=0>つかうものを　持っていない！": ""
+        "<speed=0>つかうものを　持っていない！": "<speed=0>I don't have anything to grab!"
     },
     "77": {
-        "<speed=0>それを　捨てるなんて　とんでもない！": ""
+        "<speed=0>それを　捨てるなんて　とんでもない！": "<speed=0>You can't just throw that away!"
     },
     "78": {
-        "<speed=0>同じ戦いに　参加していないので|<%sM_target>に　<%sM_item>を|使えない！": ""
+        "<speed=0>同じ戦いに　参加していないので|<%sM_target>に　<%sM_item>を|使えない！": "<speed=0>I can't use <%sM_item> for|<%sM_target> because we're not|in the same fight!"
     },
     "79": {
         "clarity_nt_char_24": "clarity_nt_char_24"
     },
     "80": {
-        "<speed=0><%sM_target>は　戦いに　参加していない！": ""
+        "<speed=0><%sM_target>は　戦いに　参加していない！": "<speed=0><%sM_target> is not in the fight!"
     },
     "81": {
-        "<speed=0>同じ戦いに　参加していないので|<%sM_target>に　<%sM_action>は　できない！": ""
+        "<speed=0>同じ戦いに　参加していないので|<%sM_target>に　<%sM_action>は　できない！": "<speed=0>I can't <%sM_action> on <%sM_target>|because we're not in the same fight!"
     },
     "82": {
         "clarity_nt_char_25": "clarity_nt_char_25"
     },
     "83": {
-        "<speed=0>同じ戦いに　参加していないので|<%sM_target>に　<%sM_action>を|かけられない！": ""
+        "<speed=0>同じ戦いに　参加していないので|<%sM_target>に　<%sM_action>を|かけられない！": "<speed=0>I'm not in the same fight, so|I can't put <%sM_action>|on <%sM_target>!"
     },
     "84": {
         "clarity_nt_char_26": "clarity_nt_char_26"
     },
     "85": {
-        "<speed=0>戦闘中の　とくぎを　覚えていない！": ""
+        "<speed=0>戦闘中の　とくぎを　覚えていない！": "<speed=0>I can't remember any tricks in battle!"
     },
     "86": {
         "clarity_nt_char_27": "clarity_nt_char_27"
     },
     "87": {
-        "<speed=0>戦闘中の　じゅもんを　覚えていない！": ""
+        "<speed=0>戦闘中の　じゅもんを　覚えていない！": "<speed=0>I don't remember any battle spells!"
     },
     "88": {
         "<speed=0><%sM_action>は　<%sM_item_syurui>を|右手に装備していないと　使えない！": ""
