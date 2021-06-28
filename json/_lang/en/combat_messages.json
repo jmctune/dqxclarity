@@ -195,7 +195,7 @@
         "<%sB_TARGET>は くだけちった！": "<%sB_TARGET> was smashed!"
     },
     "66": {
-        "<%sB_ACTOR>は ちからつき いきたえた。": ""
+        "<%sB_ACTOR>は ちからつき いきたえた。": "<%sB_ACTOR> is exhausted and out of breath."
     },
     "67": {
         "<%sB_TARGET>は <%sB_EXTRA>を 中断された。": "<%sB_TARGET> was interrupted by <%sB_EXTRA>."
@@ -207,7 +207,7 @@
         "この戦いからは にげられない！": "Can't run from this fight!"
     },
     "70": {
-        "スキルふりわけは さくせんコマンドから できます！": "Skill points can be allocated in the Operation command!"
+        "スキルふりわけは さくせんコマンドから できます！": "Skill points can be allocated in the Misc. menu!"
     },
     "71": {
         "へろへろタイムなので なにも かくとくできなかった。": "You were too exhausted to do anything."
@@ -216,10 +216,10 @@
         "clarity_nt_char_27": "clarity_nt_char_27"
     },
     "73": {
-        "<%dB_VALUE>(＋<%dB_VALUE2>)Ｐの経験値 <%dB_VALUE3>Ｇ かくとく！": "<%dB_VALUE>(＋<%dB_VALUE2>) EXP and <%dB_VALUE3> Gold received!"
+        "<%dB_VALUE>(＋<%dB_VALUE2>)Ｐの経験値 <%dB_VALUE3>Ｇ かくとく！": "<%dB_VALUE> (＋<%dB_VALUE2>) EXP and <%dB_VALUE3> Gold received!"
     },
     "74": {
-        "<%dB_VALUE>(＋<%dB_VALUE2>)Ｐの経験値 <%dB_VALUE3>(＋<%dB_VALUE4>)Ｇ かくとく！": "<%dB_VALUE>(＋<%dB_VALUE2>) EXP and <%dB_VALUE3>(＋<%dB_VALUE4>) Gold received!"
+        "<%dB_VALUE>(＋<%dB_VALUE2>)Ｐの経験値 <%dB_VALUE3>(＋<%dB_VALUE4>)Ｇ かくとく！": "<%dB_VALUE> (＋<%dB_VALUE2>) EXP and <%dB_VALUE3> (＋<%dB_VALUE4>) Gold received!"
     },
     "75": {
         "clarity_nt_char_28": "clarity_nt_char_28"
