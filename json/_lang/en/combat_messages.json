@@ -1959,10 +1959,10 @@
         "clarity_nt_char_224": "clarity_nt_char_224"
     },
     "654": {
-        "写真の保存を　中断しますか？|<color_yellow>※保存を中断すると|写真が　保存されない可能性があります。<color_white><yesno 2><close>": "Do you want to interrupt the saving of the photos?|<color_yellow>If you say yes, the photos will not be saved.<color_white><yesno 2><close>"
+        "写真の保存を　中断しますか？|<color_yellow>※保存を中断すると|写真が　保存されない可能性があります。<color_white><yesno 2><close>": "Do you want to interrupt saving the photos?|<color_yellow>If you say yes, the photos will not be saved.<color_white><yesno 2><close>"
     },
     "655": {
-        "写真の保存を　中断しました。": "Saving of the photo has been interrupted."
+        "写真の保存を　中断しました。": "Photo saving has been interrupted."
     },
     "656": {
         "clarity_nt_char_225": "clarity_nt_char_225"
@@ -1977,10 +1977,10 @@
         "clarity_nt_char_226": "clarity_nt_char_226"
     },
     "660": {
-        "<%dB_VALUE> Pの経験値　<%dB_VALUE2> フェルド　かくとく！": ""
+        "<%dB_VALUE> Pの経験値　<%dB_VALUE2> フェルド　かくとく！": "Received <%dB_VALUE> EXP and <%dB_VALUE2> Feld!"
     },
     "661": {
-        "<%dB_VALUE> フェルド　かくとく！": ""
+        "<%dB_VALUE> フェルド　かくとく！": "Received <%dB_VALUE> Feld!"
     },
     "662": {
         "clarity_nt_char_227": "clarity_nt_char_227"
@@ -1995,10 +1995,10 @@
         "clarity_nt_char_228": "clarity_nt_char_228"
     },
     "666": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは デスパワーを消費しなかった！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは デスパワーを消費しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't use any death power!"
     },
     "667": {
-        "デスパワーを|消費しなかった！": "You did not consume|any death powers!"
+        "デスパワーを|消費しなかった！": "Did not consume|any death power!"
     },
     "668": {
         "制限時間まで 生き残った！": "You survived until the time limit!"
