@@ -351,7 +351,7 @@
         "<speed=0>チーム『<%sM_team>』から　抜けた！": "<speed=0>I'm off the team '<%sM_team>'!"
     },
     "118": {
-        "<%sM_pc>を　チームに誘った！|<%sM_pc>からの　返事を待とう。": ""
+        "<%sM_pc>を　チームに誘った！|<%sM_pc>からの　返事を待とう。": "I've invited <%sM_pc> to join my team! |Let's wait for a reply from <%sM_pc>."
     },
     "119": {
         "clarity_nt_char_38": "clarity_nt_char_38"
@@ -360,13 +360,13 @@
         "<speed=0>しかし　なにも　おこらなかった。": "<speed=0>But nothing happened."
     },
     "121": {
-        "<speed=0>いまは　サポート仲間を　仲間にしていません。": ""
+        "<speed=0>いまは　サポート仲間を　仲間にしていません。": "<speed=0>I don't have any support|people on my team right now."
     },
     "122": {
-        "<speed=0><%sM_pc>に　仲間に誘われました。|<%sM_pc>の仲間に　入りますか？": ""
+        "<speed=0><%sM_pc>に　仲間に誘われました。|<%sM_pc>の仲間に　入りますか？": "<speed=0>I've been invited to join <%sM_pc>. |Do you want to join <%sM_pc>'s group?"
     },
     "123": {
-        "<speed=0>いまは　はずせる仲間が　いません。": ""
+        "<speed=0>いまは　はずせる仲間が　いません。": "<speed=0>I don't have any friends to remove right now."
     },
     "124": {
         "clarity_nt_char_39": "clarity_nt_char_39"
@@ -378,13 +378,13 @@
         "clarity_nt_char_40": "clarity_nt_char_40"
     },
     "127": {
-        "<speed=0>チャージが　溜まっていないので|<%sM_action>は　まだ使えない！": ""
+        "<speed=0>チャージが　溜まっていないので|<%sM_action>は　まだ使えない！": "<speed=0>Since the charge hasn't accumulated,|<%sM_action> can't be used yet!"
     },
     "128": {
         "clarity_nt_char_41": "clarity_nt_char_41"
     },
     "129": {
-        "持ち物が いっぱいだった。": ""
+        "持ち物が いっぱいだった。": "I had a lot of stuff with me."
     },
     "130": {
         "<%sM_pc>は <%dM_gold>ゴールドを見つけたが|これ以上持てないので 元に戻した。": ""
@@ -402,13 +402,13 @@
         "clarity_nt_char_43": "clarity_nt_char_43"
     },
     "135": {
-        "<speed=0>手に入れるのを　あきらめますか？<yesno>": ""
+        "<speed=0>手に入れるのを　あきらめますか？<yesno>": "<speed=0>Would you give up trying to get it? <yesno>"
     },
     "136": {
         "clarity_nt_char_44": "clarity_nt_char_44"
     },
     "137": {
-        "<speed=0><%sM_pc>の持ち物が　いっぱいだった！|かばんを　整理しますか？<yesno>": ""
+        "<speed=0><%sM_pc>の持ち物が　いっぱいだった！|かばんを　整理しますか？<yesno>": "<speed=0><%sM_pc>'s belongings are all over the place!|Do you want to organize your bag?<yesno>"
     },
     "138": {
         "<speed=0>本当に　<%sM_item>を捨てますか？<yesno>": "<speed=0>Really throw away <%sM_item>?<yesno>"
