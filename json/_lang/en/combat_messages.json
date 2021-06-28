@@ -996,16 +996,16 @@
         "clarity_nt_char_115": "clarity_nt_char_115"
     },
     "333": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間ランキング <%dB_VALUE>位に 入賞しました！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間ランキング <%dB_VALUE>位に 入賞しました！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e won the monthly ranking with Rank <%dB_VALUE>!"
     },
     "334": {
         "clarity_nt_char_116": "clarity_nt_char_116"
     },
     "335": {
-        "他のプレイヤーから名前が見える状態で　月間ランキングに登録されました。": ""
+        "他のプレイヤーから名前が見える状態で　月間ランキングに登録されました。": "Registered in monthly ranking with name visible to others."
     },
     "336": {
-        "他のプレイヤーから名前が見えない状態で　月間ランキングに登録されました。": ""
+        "他のプレイヤーから名前が見えない状態で　月間ランキングに登録されました。": "Registered in monthly ranking with name not visible to others."
     },
     "337": {
         "clarity_nt_char_117": "clarity_nt_char_117"
