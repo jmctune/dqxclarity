@@ -1947,7 +1947,7 @@
         "思い出アルバムへの保存に　失敗しました。|エラーコード：<%sERRID>": "Failed to save photo to your Photo Album.|Error code: <%sERRID>."
     },
     "650": {
-        "光の霊玉を  <%dB_VALUE>個　かくとく！": "Retrieve <%dB_VALUE> Spirit Balls of Light!"
+        "光の霊玉を  <%dB_VALUE>個　かくとく！": "Received <%dB_VALUE> Spirit Balls of Light!"
     },
     "651": {
         "クリア報酬(うつしよの金箱)が　出現した！": ""
