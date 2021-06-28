@@ -912,13 +912,13 @@
         "clarity_nt_char_105": "clarity_nt_char_105"
     },
     "305": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの なつき度が あがって <%dB_VALUE>になった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの なつき度が あがって <%dB_VALUE>になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's affection value increased to <%dB_VALUE>!"
     },
     "306": {
         "clarity_nt_char_106": "clarity_nt_char_106"
     },
     "307": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの なつき度が 最大値になった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの なつき度が 最大値になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's affection has reached the maximum!"
     },
     "308": {
         "討伐報酬(紫色の宝箱)が 出現した！": "A purple treasure chest has appeared!"
@@ -942,7 +942,7 @@
         "clarity_nt_char_109": "clarity_nt_char_109"
     },
     "315": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ブレスが ふうじこめられている！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ブレスが ふうじこめられている！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's breath attacks are sealed!"
     },
     "316": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>ポイントアップ！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got <%dB_VALUE> points!"
@@ -957,7 +957,7 @@
         "clarity_nt_char_111": "clarity_nt_char_111"
     },
     "320": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 自己ベストを 更新した！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new personal best!"
     },
     "321": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>位の ワールドレコードを記録した！": ""
