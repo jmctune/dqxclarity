@@ -1137,16 +1137,16 @@
         "サポと１人で部門の 月間の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "Got a new monthly personal best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!"
     },
     "380": {
-        "他のプレイヤーから名前が見える状態で ランキングに登録されました。": ""
+        "他のプレイヤーから名前が見える状態で ランキングに登録されました。": "Registered in the ranking with name visible to others."
     },
     "381": {
-        "他のプレイヤーから名前が見えない状態で ランキングに登録されました。": ""
+        "他のプレイヤーから名前が見えない状態で ランキングに登録されました。": "Registered in the ranking with name not visible to others."
     },
     "382": {
         "clarity_nt_char_132": "clarity_nt_char_132"
     },
     "383": {
-        "\\s<%sB_BASE_TARGET>\\m<%sB_BASE_TARGET_ID>\\eの \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは いなくなった。": ""
+        "\\s<%sB_BASE_TARGET>\\m<%sB_BASE_TARGET_ID>\\eの \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは いなくなった。": "\\s<%sB_BASE_TARGET>\\m<%sB_BASE_TARGET_ID>\\e's \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is gone."
     },
     "384": {
         "　総獲得スタンプ<%sB_VALUE> 個 (内 元気ボーナス <%sB_VALUE2> 個)": ""
