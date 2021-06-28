@@ -2691,19 +2691,19 @@
         "clarity_nt_char_306": "clarity_nt_char_306"
     },
     "898": {
-        "<speed=0>既に　無効な　さそいに　なっています。": ""
+        "<speed=0>既に　無効な　さそいに　なっています。": "<speed=0>Invitation is invalid."
     },
     "899": {
         "clarity_nt_char_307": "clarity_nt_char_307"
     },
     "900": {
-        "<speed=0>既に　相手が　返事をしているため|取り消しに　失敗しました。": ""
+        "<speed=0>既に　相手が　返事をしているため|取り消しに　失敗しました。": "<speed=0>Cancellation failed due to other|person already responding."
     },
     "901": {
-        "<speed=0>取り消しに失敗しました。|時間を置いて　もう一度お試しください。": ""
+        "<speed=0>取り消しに失敗しました。|時間を置いて　もう一度お試しください。": "<speed=0>Cancellation failed.|Please wait a while and try again."
     },
     "902": {
-        "<speed=0>ここでは　<%sM_action>は　使えない！": ""
+        "<speed=0>ここでは　<%sM_action>は　使えない！": "<speed=0>You can't use <%sM_action> here!"
     },
     "903": {
         "<speed=0><%sM_action>は　この戦闘では|もう使えない！": ""
