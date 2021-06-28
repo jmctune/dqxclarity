@@ -2766,13 +2766,13 @@
         "<speed=0>さそいを受けられない　仲間がいます。|一緒に行かない人は　ここで|仲間からはずれますが　よろしいですか？<yesno 2><close>": "<speed=0>There is a party member who hasn't|accepted an invitation. If you go on, they won't|be included. Is this okay?<yesno 2><close>"
     },
     "923": {
-        "<speed=0>この先に進むのを　やめますか？<yesno><close>": ""
+        "<speed=0>この先に進むのを　やめますか？<yesno><close>": "<speed=0>Do you want to stop going further?<yesno><close>"
     },
     "924": {
         "clarity_nt_char_314": "clarity_nt_char_314"
     },
     "925": {
-        "<speed=0>いまは　パーティ同盟相手を探せないようだ。|しばらく時間をおいて|もう一度　お試しください。": ""
+        "<speed=0>いまは　パーティ同盟相手を探せないようだ。|しばらく時間をおいて|もう一度　お試しください。": "<speed=0>It seems like there aren't any other|parties to form an alliance with now.|Please try again in a while."
     },
     "926": {
         "<speed=0>返事がない仲間がいたため|同盟相手探しは　中止されました。": ""
