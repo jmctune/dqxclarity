@@ -2733,7 +2733,7 @@
         "<speed=0>絵葉書にする写真を　選んでください。": "<speed=0>Please select the photo to use as a postcard."
     },
     "912": {
-        "<speed=0>|絵葉書用便せんがないため|絵葉書を書くことが　できません。|便せんは　便せん屋で買うことができます。": ""
+        "<speed=0>|絵葉書用便せんがないため|絵葉書を書くことが　できません。|便せんは　便せん屋で買うことができます。": "<speed=0>|You don't have any stationery to write a postcard|with. You can purchase some at a stationery|shop."
     },
     "913": {
         "clarity_nt_char_310": "clarity_nt_char_310"
