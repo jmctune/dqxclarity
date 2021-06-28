@@ -609,7 +609,7 @@
         "<speed=0>年齢は　ナイショにしますか？<yesno><close>": "<speed=0>Would you like to keep your age a secret?<yesno><close>"
     },
     "204": {
-        "<speed=0><%sM_pc>を　チームに　誘いますか？<yesno><close>": "<speed=0>Would you like to invite <%sM_pc> to join your team?<yesno><close>"
+        "<speed=0><%sM_pc>を　チームに　誘いますか？<yesno><close>": "<speed=0>Invite <%sM_pc> to join your team?<yesno><close>"
     },
     "205": {
         "clarity_nt_char_68": "clarity_nt_char_68"
