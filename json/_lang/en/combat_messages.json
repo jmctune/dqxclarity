@@ -2016,31 +2016,31 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの <%sB_ACTION>のチャージ時間が <%dB_VALUE>秒たまった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's <%sB_ACTION> charge time accumulated <%dB_VALUE> sec.!"
     },
     "673": {
-        "<%sB_ACTION>のチャージ時間|<%dB_VALUE>秒たまった！": ""
+        "<%sB_ACTION>のチャージ時間|<%dB_VALUE>秒たまった！": "<%sB_ACTION>'s charge time|accumulated <%dB_VALUE> sec.!"
     },
     "674": {
-        "心の輝きが <%dB_VALUE> 増えた！": ""
+        "心の輝きが <%dB_VALUE> 増えた！": "Got <%dB_VALUE> heart energy!"
     },
     "675": {
         "clarity_nt_char_230": "clarity_nt_char_230"
     },
     "676": {
-        "心の輝きを <%dB_VALUE> 使った。": ""
+        "心の輝きを <%dB_VALUE> 使った。": "Used <%dB_VALUE> heart energy."
     },
     "677": {
         "clarity_nt_char_231": "clarity_nt_char_231"
     },
     "678": {
-        "クリア報酬(うつしよの極箱)が 出現した！": ""
+        "クリア報酬(うつしよの極箱)が 出現した！": "A Gold Box appeared!"
     },
     "679": {
-        "クリア報酬(うつしよの極箱)が ふたつ出現した！": ""
+        "クリア報酬(うつしよの極箱)が ふたつ出現した！": "2 Gold Boxes have appeared!"
     },
     "680": {
         "clarity_nt_char_232": "clarity_nt_char_232"
     },
     "681": {
-        "心の輝きが　<%dB_VALUE>回復した！": ""
+        "心の輝きが　<%dB_VALUE>回復した！": "Recovered <%dB_VALUE> heart energy!"
     },
     "682": {
         "clarity_nt_char_233": "clarity_nt_char_233"
