@@ -87,19 +87,19 @@
         "<speed=0><%sM_pc>は　仲間から抜けた！": "<speed=0><%sM_pc> is out of the fold!"
     },
     "30": {
-        "<speed=0>パーティを　解散しますか？<yesno><close>": ""
+        "<speed=0>パーティを　解散しますか？<yesno><close>": "<speed=0>Would you like to abandon the party? <yesno><close>"
     },
     "31": {
         "clarity_nt_char_9": "clarity_nt_char_9"
     },
     "32": {
-        "仲間から　抜けますか？<yesno><close>": ""
+        "仲間から　抜けますか？<yesno><close>": "Do you want to leave the group? <yesno><close>"
     },
     "33": {
         "<speed=0><%sM_pc>を　仲間から　はずして|よろしいですか？<yesno><close>": "<speed=0>Remove <%sM_pc> from the party?<yesno><close>"
     },
     "34": {
-        "<speed=0>いまは　<%sM_pc>は|パーティリーダーに　なれません。": ""
+        "<speed=0>いまは　<%sM_pc>は|パーティリーダーに　なれません。": "<speed=0><%sM_pc> cannot be a party leader."
     },
     "35": {
         "<speed=0><%sM_pc>が　パーティリーダーになった！": "<speed=0><%sM_pc> became the party leader!"
@@ -108,7 +108,7 @@
         "clarity_nt_char_10": "clarity_nt_char_10"
     },
     "37": {
-        "<speed=0>パーティを　解散した！": ""
+        "<speed=0>パーティを　解散した！": "<speed=0>The party's over!"
     },
     "38": {
         "clarity_nt_char_11": "clarity_nt_char_11"
@@ -126,13 +126,13 @@
         "clarity_nt_char_12": "clarity_nt_char_12"
     },
     "43": {
-        "自分にホイミ": ""
+        "自分にホイミ": "Whomever you are"
     },
     "44": {
         "clarity_nt_char_13": "clarity_nt_char_13"
     },
     "45": {
-        "近くの敵に攻撃": ""
+        "近くの敵に攻撃": "Attack nearby enemies"
     },
     "46": {
         "弱った味方にホイミ": ""
