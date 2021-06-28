@@ -1362,7 +1362,7 @@
         "clarity_nt_char_158": "clarity_nt_char_158"
     },
     "455": {
-        "<%sB_EXTRA>を|中断された": "<%sB_EXTRA>|is interrupted"
+        "<%sB_EXTRA>を|中断された": "<%sB_EXTRA>|interrupted!"
     },
     "456": {
         "clarity_nt_char_159": "clarity_nt_char_159"
@@ -1371,22 +1371,22 @@
         "オートラン開始": "Autorun On"
     },
     "458": {
-        "<%sB_ITEM>を|使うのをやめた": "Stopped using|<%sB_ITEM>"
+        "<%sB_ITEM>を|使うのをやめた": "Stopped using|<%sB_ITEM>."
     },
     "459": {
-        "ボディーガードが|いなくなった": "Bodyguards|are gone"
+        "ボディーガードが|いなくなった": "Bodyguard has|disappeared."
     },
     "460": {
-        "<%sB_TARGET>に|ついていく": "Follow|<%sB_TARGET>"
+        "<%sB_TARGET>に|ついていく": "Following|<%sB_TARGET>"
     },
     "461": {
-        "ついていく相手を|みうしなった！": "You have run out|of people to follow!"
+        "ついていく相手を|みうしなった！": "Stopped|following!"
     },
     "462": {
         "clarity_nt_char_160": "clarity_nt_char_160"
     },
     "463": {
-        "<%sB_VALUE>着": ""
+        "<%sB_VALUE>着": "<%sB_VALUE>"
     },
     "464": {
         "clarity_nt_char_161": "clarity_nt_char_161"
@@ -1395,10 +1395,10 @@
         "ＭＰを消費しなかった！": "No MP used!"
     },
     "466": {
-        "特技が|ふうじこめられている！": "Your skills|are locked in!"
+        "特技が|ふうじこめられている！": "Skills|are sealed!"
     },
     "467": {
-        "スカウト成功！": ""
+        "スカウト成功！": "Scout success!"
     },
     "468": {
         "なつき度が|<%dB_VALUE>にあがった！": "Attachment has|increased to <%dB_VALUE>!"
