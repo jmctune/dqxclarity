@@ -2538,7 +2538,7 @@
         "clarity_nt_char_288": "clarity_nt_char_288"
     },
     "847": {
-        "<speed=0>『<%sM_cstitle>』を|再生しますか？<yesno><close>": ""
+        "<speed=0>『<%sM_cstitle>』を|再生しますか？<yesno><close>": "<speed=0>Do you want to play|\"<%sM_cstitle>\"?<yesno><close>"
     },
     "848": {
         "ドルセリンチャージ！": "Dolserin Charge!"
@@ -2547,10 +2547,10 @@
         "clarity_nt_char_289": "clarity_nt_char_289"
     },
     "850": {
-        "今　ドルセリンをチャージすると|満タンを超えた分が　ムダになりますが|よろしいですか？<yesno 2><close>": ""
+        "今　ドルセリンをチャージすると|満タンを超えた分が　ムダになりますが|よろしいですか？<yesno 2><close>": "If you use Dolserin now, any remaining|fuel you had left over will be wasted.|Is this okay?<yesno 2><close>"
     },
     "851": {
-        "ドルボードから　降りますか？<yesno><close>": "Get off of your Dolboard? <yesno> <close>"
+        "ドルボードから　降りますか？<yesno><close>": "Get off of your dolboard? <yesno> <close>"
     },
     "852": {
         "clarity_nt_char_290": "clarity_nt_char_290"
