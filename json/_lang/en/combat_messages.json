@@ -2007,13 +2007,13 @@
         "安息の領域に 駆け込んだ！": "You rushed into the realm of repose!"
     },
     "670": {
-        "まもののむれを 倒しきった！": "You have defeated all the monsters!"
+        "まもののむれを 倒しきった！": "Defeated all of the monsters!"
     },
     "671": {
         "clarity_nt_char_229": "clarity_nt_char_229"
     },
     "672": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの <%sB_ACTION>のチャージ時間が <%dB_VALUE>秒たまった！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの <%sB_ACTION>のチャージ時間が <%dB_VALUE>秒たまった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's <%sB_ACTION> charge time accumulated <%dB_VALUE> sec.!"
     },
     "673": {
         "<%sB_ACTION>のチャージ時間|<%dB_VALUE>秒たまった！": ""
