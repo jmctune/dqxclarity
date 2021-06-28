@@ -546,7 +546,7 @@
         "clarity_nt_char_67": "clarity_nt_char_67"
     },
     "183": {
-        "いれる": ""
+        "いれる": "Put In"
     },
     "184": {
         "きせかえする": ""
@@ -627,7 +627,7 @@
         "clarity_nt_char_75": "clarity_nt_char_75"
     },
     "210": {
-        "さかなをいれる": ""
+        "さかなをいれる": "Put In Fish"
     },
     "211": {
         "部屋の明るさ": "Room Brightness"
@@ -1236,7 +1236,7 @@
         "どうぐかばんが　いっぱいのため|<%sL_ITEM>は　取りだせなかった。": ""
     },
     "413": {
-        "庭具倉庫にいれる": ""
+        "庭具倉庫にいれる": "Put in Warehouse"
     },
     "414": {
         "clarity_nt_char_137": "clarity_nt_char_137"
