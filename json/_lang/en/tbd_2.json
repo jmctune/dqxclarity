@@ -45,7 +45,7 @@
         "clarity_nt_char_4": "clarity_nt_char_4"
     },
     "16": {
-        "盾ガード率を <%dB_renkin1>.<%dB_renkin2> %上げる 錬金レシピ。": "An alchemy recipe that boosts Shield Guard by <%dB_renkin1>.<%dB_renkin2>%."
+        "盾ガード率を <%dB_renkin1>.<%dB_renkin2> %上げる 錬金レシピ。": "An alchemy recipe that boosts Block Rate by <%dB_renkin1>.<%dB_renkin2>%."
     },
     "17": {
         "clarity_nt_char_5": "clarity_nt_char_5"
@@ -5784,7 +5784,7 @@
         "clarity_nt_char_643": "clarity_nt_char_643"
     },
     "1929": {
-        "盾ガード時 ？%で眠り": "Sleep On Shield Guard +?%"
+        "盾ガード時 ？%で眠り": "Sleep On Shield Block +?%"
     },
     "1930": {
         "？%の確率でダメージ10%反射": "10% Damage Reflect ?%"
