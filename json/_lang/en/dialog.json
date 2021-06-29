@@ -2802,7 +2802,7 @@
         "<speed=0>同盟となるパーティの　仲間が変更されました。<br>|この先に進むことが　できませんでした。": "<speed=0>The members of the alliance have changed.<br>|Could not proceed."
     },
     "935": {
-        "<speed=0>パーティ同盟の　さそいを受けましたが|条件を　満たしていませんでした。<br>|条件を満たすには　落陽の草原で受けられる|クエスト『闇に眠りし王』を|受ける必要があります。": ""
+        "<speed=0>パーティ同盟の　さそいを受けましたが|条件を　満たしていませんでした。<br>|条件を満たすには　落陽の草原で受けられる|クエスト『闇に眠りし王』を|受ける必要があります。": "<speed=0>Received an alliance invite but you do|not meet the conditions to accept.<br>|To accept, please undertake the quest \"Sleeping King|in the Darkness\" in the Sunset Meadow."
     },
     "936": {
         "<speed=0>変更内容の保存に　失敗しました。|しばらく時間を空けてから|もう一度　やり直してください。": ""
