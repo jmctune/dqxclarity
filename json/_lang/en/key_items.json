@@ -9450,7 +9450,7 @@
         "<pc>は　白い封筒を開けてみた。|<br>|封筒の中には　カードが入っており|きれいな文字で　たった２行のメッセージが|つづられている。|<br>|星の数だけ　涙を流す夜があっても。 |星の数だけ　きみをそっと抱きしめよう。": "<pc> opened the White Envelope.|<br>|Inside of it, there is a card with a two-line|message in beautiful handwriting.|<br>|\"Even if there are nights that shed as many|tears as there are stars... I'll hold you as many|times as there are stars.\""
     },
     "3151": {
-        "<pc>は　開かずの間のカギを|つかってみた。|<br>|しかし　ここでは　何も起こらなかった！": ""
+        "<pc>は　開かずの間のカギを|つかってみた。|<br>|しかし　ここでは　何も起こらなかった！": "<pc> used the Unseen Room Key.|<br>|But, nothing happened here!"
     },
     "3152": {
         "clarity_nt_char_1031": "clarity_nt_char_1031"
