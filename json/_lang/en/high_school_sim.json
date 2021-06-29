@@ -7515,7 +7515,7 @@
         "敵を斬りつけ|自らのキズも|いやす秘剣": "Deal a normal atk|that heals a amt|of damage dealt."
     },
     "2506": {
-        "片手剣装備時に|武器ガードが|できるようになる": "Chance to parry|when 1H sword|worn."
+        "片手剣装備時に|武器ガードが|できるようになる": "Chance to parry|when Sword|worn."
     },
     "2507": {
         "片手剣装備時の|こうげき力が|２５増える": "Attack +25|when Sword|equipped."
@@ -9912,7 +9912,7 @@
         "６．０％の確率で|ターン消費しない": ""
     },
     "3305": {
-        "片手剣": "1H Sword"
+        "片手剣": "Sword"
     },
     "3306": {
         "両手剣": "2H Sword"
@@ -10317,7 +10317,7 @@
         "ツメの極意": ""
     },
     "3440": {
-        "片手剣の極意": "1H Sword Skill"
+        "片手剣の極意": "Sword Skill"
     },
     "3441": {
         "clarity_nt_char_1133": "clarity_nt_char_1133"
@@ -11823,7 +11823,7 @@
         "ダメージが２５％|会心率が5％|増える": ""
     },
     "3942": {
-        "片手剣Ⅱ": "1H Sword II"
+        "片手剣Ⅱ": "Sword II"
     },
     "3943": {
         "clarity_nt_char_1312": "clarity_nt_char_1312"
