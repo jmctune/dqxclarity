@@ -21,7 +21,7 @@
         "郵便箱に 何か届きました。": "Something arrived in the mail!"
     },
     "8": {
-        "あと<%dC_M>分で 仲間との集合時間です！": ""
+        "あと<%dC_M>分で 仲間との集合時間です！": "In <%dC_M> minutes, it's time to meet the others!"
     },
     "9": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eの家に 入れるようになりました！": ""
