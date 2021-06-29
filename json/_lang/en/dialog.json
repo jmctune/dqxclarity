@@ -8265,7 +8265,7 @@
         "clarity_nt_char_926": "clarity_nt_char_926"
     },
     "2756": {
-        "<speed=0><color_yellow>|「許可しない」に　設定すると|相手からの　フレンド登録の申し込みを|受け付けなくなります。|<break>": ""
+        "<speed=0><color_yellow>|「許可しない」に　設定すると|相手からの　フレンド登録の申し込みを|受け付けなくなります。|<break>": "<speed=0><color_yellow>|If set to \"Not Allow\", you will not be able to|accept friend requests from other players.|<break>"
     },
     "2757": {
         "<speed=0>現在のプレイ環境では|コメントが　入力されているため|登録することが　できません。": ""
