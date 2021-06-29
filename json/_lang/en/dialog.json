@@ -1095,7 +1095,7 @@
         "<speed=0>全てのサポート仲間を　逃がすことで|戦闘を終わらせることができます。|あなたのサポート仲間を　逃がしますか？<yesno 2><close>": ""
     },
     "366": {
-        "<speed=0>他の仲間の判断を　待っています。<break>": ""
+        "<speed=0>他の仲間の判断を　待っています。<break>": "<speed=0>Waiting for decision of other members.<break>"
     },
     "367": {
         "clarity_nt_char_126": "clarity_nt_char_126"
