@@ -177,7 +177,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>鍛冶設備": "<%sW_MAP_NAME><%sW_DELIMITER>Blacksmith"
     },
     "60": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>木工設備": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>木工設備": "<%sW_MAP_NAME><%sW_DELIMITER>Woodworking"
     },
     "61": {
         "<%sW_MAP_NAME><%sW_DELIMITER>ツボ錬金設備": "<%sW_MAP_NAME><%sW_DELIMITER>Pot Alchemy Device"
