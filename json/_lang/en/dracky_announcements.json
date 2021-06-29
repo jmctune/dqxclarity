@@ -45,7 +45,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eが ログアウトしました": "\\s<%sC_PC>\\m<%sC_ID>\\e logged out."
     },
     "16": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eはログアウトしたので 届きませんでした": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eはログアウトしたので 届きませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\e did not receive it because they logged out."
     },
     "17": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eに 取り引きを 断られました": "Trade request was declined by \\s<%sC_PC>\\m<%sC_ID>\\e."
