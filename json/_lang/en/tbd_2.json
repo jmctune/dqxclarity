@@ -1377,7 +1377,7 @@
         "clarity_nt_char_148": "clarity_nt_char_148"
     },
     "460": {
-        "両手剣装備時　武器ガード率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Claymore Weapon Guard Rate +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "両手剣装備時　武器ガード率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Claymore Parry Rate +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "461": {
         "clarity_nt_char_149": "clarity_nt_char_149"
@@ -4995,7 +4995,7 @@
         "clarity_nt_char_573": "clarity_nt_char_573"
     },
     "1666": {
-        "武器ガード率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": "Weapon Guard Rate <%+.1fB_renkin>(<%+.1fB_renkindiff>)%"
+        "武器ガード率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": "Parry Rate <%+.1fB_renkin>(<%+.1fB_renkindiff>)%"
     },
     "1667": {
         "clarity_nt_char_574": "clarity_nt_char_574"
@@ -5226,7 +5226,7 @@
         "clarity_nt_char_593": "clarity_nt_char_593"
     },
     "1743": {
-        "武器ガード率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Weapon Guard Rate <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
+        "武器ガード率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Parry Rate <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1744": {
         "clarity_nt_char_594": "clarity_nt_char_594"
@@ -5649,7 +5649,7 @@
         "clarity_nt_char_626": "clarity_nt_char_626"
     },
     "1884": {
-        "武器ガード率 +？%": "Weapon Guard Rate +?%"
+        "武器ガード率 +？%": "Parry Rate +?%"
     },
     "1885": {
         "clarity_nt_char_627": "clarity_nt_char_627"
