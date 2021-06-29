@@ -1689,7 +1689,7 @@
         "clarity_nt_char_185": "clarity_nt_char_185"
     },
     "564": {
-        "1.0%ターン消費なし（専）": "1% Don't Use Turn (Ex.)"
+        "1.0%ターン消費なし（専）": "1% Don't Use Turn (EX)"
     },
     "565": {
         "clarity_nt_char_186": "clarity_nt_char_186"
@@ -1932,7 +1932,7 @@
         "clarity_nt_char_215": "clarity_nt_char_215"
     },
     "645": {
-        "2%デスパワー消費なし（専）": "2% Don't Use Death Power (Ex.)"
+        "2%デスパワー消費なし（専）": "2% Don't Use Death Power (EX)"
     },
     "646": {
         "clarity_nt_char_216": "clarity_nt_char_216"
@@ -11103,31 +11103,31 @@
         "身かわし率+1.2%（専）": ""
     },
     "3702": {
-        "1.5%ターン消費なし（専）": "1.5% Don't Use Turn (Ex.)"
+        "1.5%ターン消費なし（専）": "1.5% Don't Use Turn (EX)"
     },
     "3703": {
         "clarity_nt_char_1241": "clarity_nt_char_1241"
     },
     "3704": {
-        "2.0%ターン消費なし（専）": "2% Don't Use Turn (Ex.)"
+        "2.0%ターン消費なし（専）": "2% Don't Use Turn (EX)"
     },
     "3705": {
         "clarity_nt_char_1242": "clarity_nt_char_1242"
     },
     "3706": {
-        "1%テンション維持（専）": "1% Preserve Tension (Ex.)"
+        "1%テンション維持（専）": "1% Preserve Tension (EX)"
     },
     "3707": {
         "clarity_nt_char_1243": "clarity_nt_char_1243"
     },
     "3708": {
-        "2%テンション維持（専）": "2% Preserve Tension (Ex.)"
+        "2%テンション維持（専）": "2% Preserve Tension (EX)"
     },
     "3709": {
         "clarity_nt_char_1244": "clarity_nt_char_1244"
     },
     "3710": {
-        "3%テンション維持（専）": "3% Preserve Tension (Ex.)"
+        "3%テンション維持（専）": "3% Preserve Tension (EX)"
     },
     "3711": {
         "clarity_nt_char_1245": "clarity_nt_char_1245"
@@ -19728,7 +19728,7 @@
         "clarity_nt_char_2259": "clarity_nt_char_2259"
     },
     "6577": {
-        "敵の弱点属性がわかる": ""
+        "敵の弱点属性がわかる": "View Enemy Weaknesses"
     },
     "6578": {
         "clarity_nt_char_2260": "clarity_nt_char_2260"
@@ -23496,19 +23496,19 @@
         "clarity_nt_char_2676": "clarity_nt_char_2676"
     },
     "7833": {
-        "1%で２回行動（専）": "1% Double Action (Ex.)"
+        "1%で２回行動（専）": "1% Double Action (EX)"
     },
     "7834": {
         "clarity_nt_char_2677": "clarity_nt_char_2677"
     },
     "7835": {
-        "2%で２回行動（専）": "2% Double Action (Ex.)"
+        "2%で２回行動（専）": "2% Double Action (EX)"
     },
     "7836": {
         "clarity_nt_char_2678": "clarity_nt_char_2678"
     },
     "7837": {
-        "3%で２回行動（専）": "3% Double Action (Ex.)"
+        "3%で２回行動（専）": "3% Double Action (EX)"
     },
     "7838": {
         "clarity_nt_char_2679": "clarity_nt_char_2679"
