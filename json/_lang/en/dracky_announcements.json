@@ -93,7 +93,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eが パーティリーダーに なりました": "\\s<%sC_PC>\\m<%sC_ID>\\e has been made the party leader."
     },
     "32": {
-        "<%dC_MONTH>月<%dC_DAY>日<%dC_H>時<%dC_M>分頃から メンテナンスです": ""
+        "<%dC_MONTH>月<%dC_DAY>日<%dC_H>時<%dC_M>分頃から メンテナンスです": "Maintenance will begin on <%dC_MONTH> <%dC_DAY> at <%dC_H>:<%dC_M>."
     },
     "33": {
         "clarity_nt_char_9": "clarity_nt_char_9"
