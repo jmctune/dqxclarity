@@ -2388,7 +2388,7 @@
         "clarity_nt_char_262": "clarity_nt_char_262"
     },
     "797": {
-        "棍装備時の|こうげき力が|１５増える": "Attack +15|when Club|equipped."
+        "棍装備時の|こうげき力が|１５増える": "Attack +15|when Rod|equipped."
     },
     "798": {
         "clarity_nt_char_263": "clarity_nt_char_263"
@@ -2403,7 +2403,7 @@
         "氷をまとった棍で|敵１体を|４回打ちつける": ""
     },
     "802": {
-        "棍装備時の|こうげき力が|２０増える": "Attack +20|when Club|equipped."
+        "棍装備時の|こうげき力が|２０増える": "Attack +20|when Rod|equipped."
     },
     "803": {
         "clarity_nt_char_264": "clarity_nt_char_264"
@@ -2412,7 +2412,7 @@
         "相手の攻撃を|受けながしつつ|なぐりかかる大技": ""
     },
     "805": {
-        "棍装備時の|かいしん率が|２％増える": "Critical Rate +2%|when Club|equipped."
+        "棍装備時の|かいしん率が|２％増える": "Critical Rate +2%|when Rod|equipped."
     },
     "806": {
         "clarity_nt_char_265": "clarity_nt_char_265"
@@ -2424,13 +2424,13 @@
         "clarity_nt_char_266": "clarity_nt_char_266"
     },
     "809": {
-        "棍装備時の|武器ガード率が|４％増える": "Parry Rate +4%|when Club|equipped."
+        "棍装備時の|武器ガード率が|４％増える": "Parry Rate +4%|when Rod|equipped."
     },
     "810": {
         "敵１体に強烈な|ダメージを与える|棍の奥義": ""
     },
     "811": {
-        "棍装備時の|こうげき力が|１０増える": "Attack +10|when Club|equipped."
+        "棍装備時の|こうげき力が|１０増える": "Attack +10|when Rod|equipped."
     },
     "812": {
         "clarity_nt_char_267": "clarity_nt_char_267"
@@ -4821,13 +4821,13 @@
         "棍装備時に|呪文の発動速度が|３％早くなる": ""
     },
     "1608": {
-        "棍装備時の|こうげき力が|３０増える": "Attack +30|when Club|equipped."
+        "棍装備時の|こうげき力が|３０増える": "Attack +30|when Rod|equipped."
     },
     "1609": {
         "clarity_nt_char_539": "clarity_nt_char_539"
     },
     "1610": {
-        "棍装備時の|こうげき力が|４０増える": "Attack +40|when Club|equipped."
+        "棍装備時の|こうげき力が|４０増える": "Attack +40|when Rod|equipped."
     },
     "1611": {
         "clarity_nt_char_540": "clarity_nt_char_540"
