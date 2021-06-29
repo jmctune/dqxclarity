@@ -99,7 +99,7 @@
         "clarity_nt_char_9": "clarity_nt_char_9"
     },
     "34": {
-        "<%nC_MONTH>月<%nC_DAY>日<%nC_H>時<%nC_M>分で プレイ期間が切れます！": ""
+        "<%nC_MONTH>月<%nC_DAY>日<%nC_H>時<%nC_M>分で プレイ期間が切れます！": "Your play period expires on <%nC_MONTH> <%nC_DAY> at <%nC_H>:<%nC_M>."
     },
     "35": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eが <%dC_M>分 仲間に加わった！": "\\s<%sC_PC>\\m<%sC_ID>\\e joined the party for <%dC_M> minutes!"
