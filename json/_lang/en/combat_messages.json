@@ -396,7 +396,7 @@
         "勇気の輝きを <%dB_VALUE> 使った。": "Used <%dB_VALUE> courage."
     },
     "133": {
-        "全ての職業で <%sB_NAME>が 1あがった！": "All classes increased by 1 for <%sB_NAME>!"
+        "全ての職業で <%sB_NAME>が 1あがった！": "<%sB_NAME> increased by 1 for all vocations!"
     },
     "134": {
         "光の霊玉を <%dB_VALUE> 個かくとく！ 合計 <%dB_VALUE2> 個集めた！": "You have collected <%dB_VALUE> Spirit Balls of Light! Total of <%dB_VALUE2>!"
