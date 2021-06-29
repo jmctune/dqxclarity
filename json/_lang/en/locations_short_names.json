@@ -3135,7 +3135,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>階段": ""
     },
     "1046": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地上": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地上": "<%sW_MAP_NAME><%sW_DELIMITER>World"
     },
     "1047": {
         "<%sW_MAP_NAME><%sW_DELIMITER>全体図": "<%sW_MAP_NAME><%sW_DELIMITER>Overview"
