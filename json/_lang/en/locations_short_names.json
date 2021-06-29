@@ -1356,7 +1356,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>塩湖": ""
     },
     "453": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>家具屋・旅人バザー": "<%sW_MAP_NAME><%sW_DELIMITER>Furn. Store/Traveler Bazaar"
+        "<%sW_MAP_NAME><%sW_DELIMITER>家具屋・旅人バザー": "<%sW_MAP_NAME><%sW_DELIMITER>Furn. Shop/Traveler Bazaar"
     },
     "454": {
         "clarity_nt_char_146": "clarity_nt_char_146"
@@ -7491,7 +7491,7 @@
         "clarity_nt_char_784": "clarity_nt_char_784"
     },
     "2498": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>建物家具屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>建物家具屋": "<%sW_MAP_NAME><%sW_DELIMITER>Bldg. Frn. Shop"
     },
     "2499": {
         "clarity_nt_char_785": "clarity_nt_char_785"
