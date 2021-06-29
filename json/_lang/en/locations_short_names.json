@@ -1548,7 +1548,7 @@
         "clarity_nt_char_169": "clarity_nt_char_169"
     },
     "517": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>王の部屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>王の部屋": "<%sW_MAP_NAME><%sW_DELIMITER>King's Room"
     },
     "518": {
         "<%sW_MAP_NAME><%sW_DELIMITER>地下牢": ""
@@ -2997,7 +2997,7 @@
         "clarity_nt_char_321": "clarity_nt_char_321"
     },
     "1000": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>女王の部屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>女王の部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Queen's Room"
     },
     "1001": {
         "clarity_nt_char_322": "clarity_nt_char_322"
