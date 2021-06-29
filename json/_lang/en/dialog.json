@@ -2790,13 +2790,13 @@
         "<speed=0><%sM_pc>に　パーティ同盟の|さそいを　断られました。": "<speed=0><%sM_pc> declined the alliance invite."
     },
     "931": {
-        "<speed=0>入り口の近くにいないため|さそいを　受けられません。|入り口の近くに　移動してください。": ""
+        "<speed=0>入り口の近くにいないため|さそいを　受けられません。|入り口の近くに　移動してください。": "<speed=0>Couldn't accept the invite because|you aren't close to the entrance. Please|move closer to it and try again."
     },
     "932": {
-        "<speed=0><pc>は　あと　<%dW_ADWAIT>分|さそいを　受けられません。": ""
+        "<speed=0><pc>は　あと　<%dW_ADWAIT>分|さそいを　受けられません。": "<speed=0><pc> can't receive invites for another|<%dW_ADWAIT> minutes."
     },
     "933": {
-        "<speed=0>パーティ同盟を　組みますか？<yesno><close>": ""
+        "<speed=0>パーティ同盟を　組みますか？<yesno><close>": "<speed=0>Do you want to form an alliance?<yesno><close>"
     },
     "934": {
         "<speed=0>同盟となるパーティの　仲間が変更されました。<br>|この先に進むことが　できませんでした。": ""
