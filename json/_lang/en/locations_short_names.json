@@ -1227,7 +1227,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>厨房": "Kitchen"
     },
     "410": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>訓練場": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>訓練場": "<%sW_MAP_NAME><%sW_DELIMITER>Training"
     },
     "411": {
         "clarity_nt_char_132": "clarity_nt_char_132"
@@ -3354,7 +3354,7 @@
         "clarity_nt_char_355": "clarity_nt_char_355"
     },
     "1119": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２階-武器庫": "Armory 2F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>２階-武器庫": "<%sW_MAP_NAME><%sW_DELIMITER>Armory 2F"
     },
     "1120": {
         "<%sW_MAP_NAME><%sW_DELIMITER>２階-厨房": "2F Kitchen"
