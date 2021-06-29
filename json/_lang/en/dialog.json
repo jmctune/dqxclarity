@@ -2781,13 +2781,13 @@
         "clarity_nt_char_315": "clarity_nt_char_315"
     },
     "928": {
-        "<speed=0>さそいを受けられない仲間がいたため|同盟相手探しは　中止されました。": ""
+        "<speed=0>さそいを受けられない仲間がいたため|同盟相手探しは　中止されました。": "<speed=0>Search for an alliance cancelled because|the other party could not accept invite."
     },
     "929": {
-        "<speed=0>今の仲間たちと共に　パーティ同盟を組んで|この先に　進みますか？<yesno><close>": ""
+        "<speed=0>今の仲間たちと共に　パーティ同盟を組んで|この先に　進みますか？<yesno><close>": "<speed=0>Form an alliance with your current|party and proceed?<yesno><close>"
     },
     "930": {
-        "<speed=0><%sM_pc>に　パーティ同盟の|さそいを　断られました。": ""
+        "<speed=0><%sM_pc>に　パーティ同盟の|さそいを　断られました。": "<speed=0><%sM_pc> declined the alliance invite."
     },
     "931": {
         "<speed=0>入り口の近くにいないため|さそいを　受けられません。|入り口の近くに　移動してください。": ""
