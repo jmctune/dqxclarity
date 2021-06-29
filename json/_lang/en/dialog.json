@@ -2043,7 +2043,7 @@
         "<speed=0>ここでは　冒険を中断できません！": ""
     },
     "682": {
-        "<speed=0>ここでは　なかまコマンドを使用できません！": ""
+        "<speed=0>ここでは　なかまコマンドを使用できません！": "<speed=0>You can't use the Party command here!"
     },
     "683": {
         "clarity_nt_char_231": "clarity_nt_char_231"
