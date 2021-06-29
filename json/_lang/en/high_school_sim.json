@@ -4143,7 +4143,7 @@
         "両手剣装備時に　武器ガードが|できるようになった！": ""
     },
     "1382": {
-        "両手剣装備時の　こうげき力が　２５　増えた！": "Attack increased by 25 when 2H Sword equipped!"
+        "両手剣装備時の　こうげき力が　２５　増えた！": "Attack increased by 25 when Claymore equipped!"
     },
     "1383": {
         "clarity_nt_char_451": "clarity_nt_char_451"
@@ -5688,7 +5688,7 @@
         "clarity_nt_char_626": "clarity_nt_char_626"
     },
     "1897": {
-        "両手剣装備時の　こうげき力が　３０　増えた！": "Attack increased by 30 when 2H Sword equipped!"
+        "両手剣装備時の　こうげき力が　３０　増えた！": "Attack increased by 30 when Claymore equipped!"
     },
     "1898": {
         "clarity_nt_char_627": "clarity_nt_char_627"
@@ -7533,7 +7533,7 @@
         "ドラゴン系の敵に|威力を発揮する|竜殺しのひと振り": "Deal an attack|that does 1.5x|dmg to dragons."
     },
     "2512": {
-        "両手剣装備時の|こうげき力が|１５増える": "Attack +15|when 2H Sword|equipped."
+        "両手剣装備時の|こうげき力が|１５増える": "Attack +15|when Claymore|equipped."
     },
     "2513": {
         "clarity_nt_char_825": "clarity_nt_char_825"
@@ -7545,10 +7545,10 @@
         "clarity_nt_char_826": "clarity_nt_char_826"
     },
     "2516": {
-        "両手剣装備時に|武器ガードが|できるようになる": "Increased guard|rate if 2H sword|worn."
+        "両手剣装備時に|武器ガードが|できるようになる": "Increased guard|rate if Claymore|worn."
     },
     "2517": {
-        "両手剣装備時の|こうげき力が|２５増える": "Attack +25|when 2H Sword|equipped."
+        "両手剣装備時の|こうげき力が|２５増える": "Attack +25|when Claymore|equipped."
     },
     "2518": {
         "clarity_nt_char_827": "clarity_nt_char_827"
@@ -8841,7 +8841,7 @@
         "clarity_nt_char_964": "clarity_nt_char_964"
     },
     "2948": {
-        "両手剣装備時の|こうげき力が|３０増える": "Attack +30|when 2H Sword|equipped."
+        "両手剣装備時の|こうげき力が|３０増える": "Attack +30|when Claymore|equipped."
     },
     "2949": {
         "clarity_nt_char_965": "clarity_nt_char_965"
@@ -11586,7 +11586,7 @@
         "ミラクルソードの威力と回復量が　あがった！": "You learned Miracle Slash!"
     },
     "3863": {
-        "両手剣装備時の　こうげき力が　５０　増えた！": "Attack increased by 50 when 2H Sword equipped!"
+        "両手剣装備時の　こうげき力が　５０　増えた！": "Attack increased by 50 when Claymore equipped!"
     },
     "3864": {
         "clarity_nt_char_1283": "clarity_nt_char_1283"
@@ -11805,7 +11805,7 @@
         "ダメージと|回復量が|２５％増える": ""
     },
     "3936": {
-        "両手剣装備時の|こうげき力が|５０増える": "Attack +50|when 2H Sword|equipped."
+        "両手剣装備時の|こうげき力が|５０増える": "Attack +50|when Claymore|equipped."
     },
     "3937": {
         "clarity_nt_char_1310": "clarity_nt_char_1310"
@@ -11829,7 +11829,7 @@
         "clarity_nt_char_1312": "clarity_nt_char_1312"
     },
     "3944": {
-        "両手剣Ⅱ": "2H Sword Ⅱ"
+        "両手剣Ⅱ": "Claymore Ⅱ"
     },
     "3945": {
         "clarity_nt_char_1313": "clarity_nt_char_1313"
@@ -12192,7 +12192,7 @@
         "clarity_nt_char_1351": "clarity_nt_char_1351"
     },
     "4065": {
-        "両手剣装備時の|こうげき力が|２０増える": "Attack +20|when 2H Sword|equipped."
+        "両手剣装備時の|こうげき力が|２０増える": "Attack +20|when Claymore|equipped."
     },
     "4066": {
         "clarity_nt_char_1352": "clarity_nt_char_1352"

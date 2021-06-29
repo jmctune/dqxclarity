@@ -7671,37 +7671,37 @@
         "ギガブレイクのダメージが５％増える|（片手剣専用）": "Gigagash damage increased by 5%.|(Sword Only)"
     },
     "2558": {
-        "ブレードガードの効果時間が５秒増える|（両手剣専用）": "Greatsword Guard duration increased by|5 seconds. (2H Sword Only)"
+        "ブレードガードの効果時間が５秒増える|（両手剣専用）": "Greatsword Guard duration increased by|5 seconds. (Claymore Only)"
     },
     "2559": {
         "clarity_nt_char_886": "clarity_nt_char_886"
     },
     "2560": {
-        "ドラゴンスラッシュのドラゴン系への|ダメージが３５％増える（両手剣専用）": "Dragon Smash damage to Dragon-types|increased by 35%. (2H Sword Only)"
+        "ドラゴンスラッシュのドラゴン系への|ダメージが３５％増える（両手剣専用）": "Dragon Smash damage to Dragon-types|increased by 35%. (Claymore Only)"
     },
     "2561": {
         "clarity_nt_char_887": "clarity_nt_char_887"
     },
     "2562": {
-        "ぶんまわしのダメージが５％増える|（両手剣専用）": "Helichopter damage increased by 5%.|(2H Sword Only)"
+        "ぶんまわしのダメージが５％増える|（両手剣専用）": "Helichopter damage increased by 5%.|(Claymore Only)"
     },
     "2563": {
         "clarity_nt_char_888": "clarity_nt_char_888"
     },
     "2564": {
-        "渾身斬りのダメージが５％増える|（両手剣専用）": "Cutting Edge damage increased by 5%.|(2H Sword Only)"
+        "渾身斬りのダメージが５％増える|（両手剣専用）": "Cutting Edge damage increased by 5%.|(Claymore Only)"
     },
     "2565": {
-        "フリーズブレードのダメージが８％増える|（両手剣専用）": "Frost Fangs damage increased by 8%.|(2H Sword Only)"
+        "フリーズブレードのダメージが８％増える|（両手剣専用）": "Frost Fangs damage increased by 8%.|(Claymore Only)"
     },
     "2566": {
-        "ビッグバンのダメージが５％増える|（両手剣専用）": "Big Banga damage increased by 5%.|(2H Sword Only)"
+        "ビッグバンのダメージが５％増える|（両手剣専用）": "Big Banga damage increased by 5%.|(Claymore Only)"
     },
     "2567": {
         "clarity_nt_char_889": "clarity_nt_char_889"
     },
     "2568": {
-        "全身全霊斬りのダメージが３％増える|（両手剣専用）": "Unbridled Blade damage increased by 3%.|(2H Sword Only)"
+        "全身全霊斬りのダメージが３％増える|（両手剣専用）": "Unbridled Blade damage increased by 3%.|(Claymore Only)"
     },
     "2569": {
         "たいぼく斬の植物系への|ダメージが３５％増える（オノ専用）": "Poplar Toppler damage to Plant-types|increased by 35%. (Axe Only)"
@@ -9213,7 +9213,7 @@
         "clarity_nt_char_1058": "clarity_nt_char_1058"
     },
     "3072": {
-        "プラズマブレードのダメージが４％増える|（両手剣専用）": "Plasma Blade damage increased by 4%.|(2H Sword Only)"
+        "プラズマブレードのダメージが４％増える|（両手剣専用）": "Plasma Blade damage increased by 4%.|(Claymore Only)"
     },
     "3073": {
         "オネロスハントの休み中のモンスターへの|ダメージが５％増える（短剣専用）": "Oneros Hunt damage on sleeping enemies|increased by 5%. (Daggers Only)"
@@ -9363,7 +9363,7 @@
         "clarity_nt_char_1075": "clarity_nt_char_1075"
     },
     "3122": {
-        "大旋風斬りのダメージが２％増える|（両手剣専用）": "Swirlwind damage increased by 2%.|(2H Sword Only)"
+        "大旋風斬りのダメージが２％増える|（両手剣専用）": "Swirlwind damage increased by 2%.|(Claymore Only)"
     },
     "3123": {
         "clarity_nt_char_1076": "clarity_nt_char_1076"
@@ -20304,10 +20304,10 @@
         "clarity_nt_char_2222": "clarity_nt_char_2222"
     },
     "6769": {
-        "テンション時のぶんまわしのダメージが|２０増える（両手剣専用）": "Damage of Helichopter during tension|increased by 20. (2H Sword Only)"
+        "テンション時のぶんまわしのダメージが|２０増える（両手剣専用）": "Damage of Helichopter during tension|increased by 20. (Claymore Only)"
     },
     "6770": {
-        "テンション時の全身全霊斬りのダメージが|５０増える（両手剣専用）": "Damage of Unbridled Blade during tension|increased by 20. (2H Sword Only)"
+        "テンション時の全身全霊斬りのダメージが|５０増える（両手剣専用）": "Damage of Unbridled Blade during tension|increased by 20. (Claymore Only)"
     },
     "6771": {
         "clarity_nt_char_2223": "clarity_nt_char_2223"
