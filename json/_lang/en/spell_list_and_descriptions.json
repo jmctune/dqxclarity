@@ -378,7 +378,7 @@
         "clarity_nt_char_42": "clarity_nt_char_42"
     },
     "127": {
-        "武器ガード率+4%": "Weapon Guard +4%"
+        "武器ガード率+4%": "Parry Rate +4%"
     },
     "128": {
         "黄泉送り": "Deliverance"
@@ -480,7 +480,7 @@
         "さいだいＭＰ+30": "Max MP +30"
     },
     "161": {
-        "武器ガード率+5%": "Weapon Guard +5%"
+        "武器ガード率+5%": "Parry Rate +5%"
     },
     "162": {
         "盾ガード率+1%": "Block Rate +1%"
@@ -558,7 +558,7 @@
         "clarity_nt_char_65": "clarity_nt_char_65"
     },
     "187": {
-        "武器ガード率+3%": "Weapon Guard +3%"
+        "武器ガード率+3%": "Parry Rate +3%"
     },
     "188": {
         "ジゴスパーク": "Lightning Storm"
@@ -636,7 +636,7 @@
         "超はやぶさ斬り": "Gyrfalcon Slash"
     },
     "213": {
-        "武器ガード率+2%": "Weapon Guard +2%"
+        "武器ガード率+2%": "Parry Rate +2%"
     },
     "214": {
         "ギガブレイク": "Gigagash"
@@ -2424,7 +2424,7 @@
         "clarity_nt_char_266": "clarity_nt_char_266"
     },
     "809": {
-        "棍装備時の|武器ガード率が|４％増える": "Weapon guard +4%|when Club|equipped."
+        "棍装備時の|武器ガード率が|４％増える": "Parry Rate +4%|when Club|equipped."
     },
     "810": {
         "敵１体に強烈な|ダメージを与える|棍の奥義": ""
@@ -2565,7 +2565,7 @@
         "clarity_nt_char_283": "clarity_nt_char_283"
     },
     "856": {
-        "ヤリ装備時の|武器ガード率が|５％増える": "Weapon guard +5%|when Spear|equipped."
+        "ヤリ装備時の|武器ガード率が|５％増える": "Parry Rate +5%|when Spear|equipped."
     },
     "857": {
         "clarity_nt_char_284": "clarity_nt_char_284"
@@ -2589,7 +2589,7 @@
         "clarity_nt_char_285": "clarity_nt_char_285"
     },
     "864": {
-        "ヤリ装備時の|武器ガード率が|３％増える": "Weapon guard +3%|when Spear|equipped."
+        "ヤリ装備時の|武器ガード率が|３％増える": "Parry Rate +3%|when Spear|equipped."
     },
     "865": {
         "clarity_nt_char_286": "clarity_nt_char_286"
@@ -2700,7 +2700,7 @@
         "clarity_nt_char_300": "clarity_nt_char_300"
     },
     "901": {
-        "片手剣装備時の|武器ガード率が|２％増える": "Weapon guard +2%|when Sword|equipped."
+        "片手剣装備時の|武器ガード率が|２％増える": "Parry Rate +2%|when Sword|equipped."
     },
     "902": {
         "光の刃で周囲の|敵を撃ち滅ぼす|究極の剣技": ""
@@ -2727,7 +2727,7 @@
         "clarity_nt_char_303": "clarity_nt_char_303"
     },
     "910": {
-        "両手剣装備時に|４％で武器ガード|できるようになる": "Weapon guard +4%|when Claymore|equipped."
+        "両手剣装備時に|４％で武器ガード|できるようになる": "Parry Rate +4%|when Claymore|equipped."
     },
     "911": {
         "両手剣装備時の|こうげき力が|１５増える": "Attack +15|when Claymore|equipped."
@@ -2754,7 +2754,7 @@
         "clarity_nt_char_306": "clarity_nt_char_306"
     },
     "919": {
-        "両手剣装備時の|武器ガード率が|４％増える": "Weapon guard +4%|when Claymore|equipped."
+        "両手剣装備時の|武器ガード率が|４％増える": "Parry Rate +4%|when Claymore|equipped."
     },
     "920": {
         "フルパワーで|敵１体を斬りつけ|大ダメージ": "Slash an enemy|at full power|for big damage."
@@ -4050,7 +4050,7 @@
         "ヤリ装備時の|かいしん率が|５％増える": "Critical Rate +2%|when Spear|equipped."
     },
     "1351": {
-        "ヤリ装備時の|武器ガード率が|８％増える": "Weapon guard +8%|when Spear|equipped."
+        "ヤリ装備時の|武器ガード率が|８％増える": "Parry Rate +8%|when Spear|equipped."
     },
     "1352": {
         "clarity_nt_char_454": "clarity_nt_char_454"
