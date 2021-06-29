@@ -2715,7 +2715,7 @@
         "ドラゴン系の敵に|威力を発揮する|竜殺しのひと振り": "Deal an attack|that does 1.5x|dmg to dragons."
     },
     "906": {
-        "両手剣装備時の|かいしん率が|２％増える": "Critical Rate +2%|when 2H Sword|equipped."
+        "両手剣装備時の|かいしん率が|２％増える": "Critical Rate +2%|when Claymore|equipped."
     },
     "907": {
         "clarity_nt_char_302": "clarity_nt_char_302"
@@ -2727,10 +2727,10 @@
         "clarity_nt_char_303": "clarity_nt_char_303"
     },
     "910": {
-        "両手剣装備時に|４％で武器ガード|できるようになる": "Weapon guard +4%|when 2H Sword|equipped."
+        "両手剣装備時に|４％で武器ガード|できるようになる": "Weapon guard +4%|when Claymore|equipped."
     },
     "911": {
-        "両手剣装備時の|こうげき力が|１５増える": "Attack +15|when 2H Sword|equipped."
+        "両手剣装備時の|こうげき力が|１５増える": "Attack +15|when Claymore|equipped."
     },
     "912": {
         "clarity_nt_char_304": "clarity_nt_char_304"
@@ -2739,7 +2739,7 @@
         "周囲の敵を|凍てつく氷で|こごえさせる": "Ice damage|enemies with|freezing ice."
     },
     "914": {
-        "両手剣装備時の|こうげき力が|２０増える": "Attack +20|when 2H Sword|equipped."
+        "両手剣装備時の|こうげき力が|２０増える": "Attack +20|when Claymore|equipped."
     },
     "915": {
         "clarity_nt_char_305": "clarity_nt_char_305"
@@ -2754,7 +2754,7 @@
         "clarity_nt_char_306": "clarity_nt_char_306"
     },
     "919": {
-        "両手剣装備時の|武器ガード率が|４％増える": "Weapon guard +4%|when 2H Sword|equipped."
+        "両手剣装備時の|武器ガード率が|４％増える": "Weapon guard +4%|when Claymore|equipped."
     },
     "920": {
         "フルパワーで|敵１体を斬りつけ|大ダメージ": "Slash an enemy|at full power|for big damage."
