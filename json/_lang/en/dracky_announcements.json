@@ -57,7 +57,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eに　チームの参加を断られました": "\\s<%sC_PC>\\m<%sC_ID>\\e was denied entry to the team."
     },
     "20": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eに 仲間のさそいを 断られました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eに 仲間のさそいを 断られました": "\\s<%sC_PC>\\m<%sC_ID>\\e has refused my invitation to join the team."
     },
     "21": {
         "clarity_nt_char_5": "clarity_nt_char_5"
