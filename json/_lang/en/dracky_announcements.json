@@ -42,7 +42,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eから フレンドの返事がありませんでした": "There was no friend reply from \\s<%sC_PC>\\m<%sC_ID>\\e."
     },
     "15": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが ログアウトしました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが ログアウトしました": "\\s<%sC_PC>\\m<%sC_ID>\\e logged out."
     },
     "16": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eはログアウトしたので 届きませんでした": ""
