@@ -2775,7 +2775,7 @@
         "<speed=0>いまは　パーティ同盟相手を探せないようだ。|しばらく時間をおいて|もう一度　お試しください。": "<speed=0>It seems like there aren't any other|parties to form an alliance with now.|Please try again in a while."
     },
     "926": {
-        "<speed=0>返事がない仲間がいたため|同盟相手探しは　中止されました。": ""
+        "<speed=0>返事がない仲間がいたため|同盟相手探しは　中止されました。": "<speed=0>Search for an alliance cancelled because|the other party did not reply."
     },
     "927": {
         "clarity_nt_char_315": "clarity_nt_char_315"
