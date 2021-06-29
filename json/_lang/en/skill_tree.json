@@ -477,7 +477,7 @@
         "clarity_nt_char_46": "clarity_nt_char_46"
     },
     "160": {
-        "装備時武器ガード率+4%": "Weapon Guard +4%"
+        "装備時武器ガード率+4%": "Parry Rate +4%"
     },
     "161": {
         "clarity_nt_char_47": "clarity_nt_char_47"
@@ -645,7 +645,7 @@
         "clarity_nt_char_67": "clarity_nt_char_67"
     },
     "216": {
-        "装備時武器ガード率+5%": "Weapon Guard +5%"
+        "装備時武器ガード率+5%": "Parry Rate +5%"
     },
     "217": {
         "clarity_nt_char_68": "clarity_nt_char_68"
@@ -750,7 +750,7 @@
         "超はやぶさ斬り": "Gyrfalcon Slash"
     },
     "251": {
-        "装備時武器ガード率+2%": "Weapon Guard +2%"
+        "装備時武器ガード率+2%": "Parry Rate +2%"
     },
     "252": {
         "clarity_nt_char_82": "clarity_nt_char_82"
@@ -1998,7 +1998,7 @@
         "装備時かいしん率+5%": "Crit Rate +5%"
     },
     "667": {
-        "装備時武器ガード率+8%": "Weapon Guard +8%"
+        "装備時武器ガード率+8%": "Parry Rate +8%"
     },
     "668": {
         "clarity_nt_char_224": "clarity_nt_char_224"
@@ -15177,13 +15177,13 @@
         "clarity_nt_char_1733": "clarity_nt_char_1733"
     },
     "5060": {
-        "片手剣装備時の|武器ガード率が|１％増える": "Weapon guard +1%|when Sword|equipped."
+        "片手剣装備時の|武器ガード率が|１％増える": "Parry Rate +1%|when Sword|equipped."
     },
     "5061": {
-        "片手剣装備時の|武器ガード率が|１．５％増える": "Weapon guard +1.5%|when Sword|equipped."
+        "片手剣装備時の|武器ガード率が|１．５％増える": "Parry Rate +1.5%|when Sword|equipped."
     },
     "5062": {
-        "片手剣装備時の|武器ガード率が|２％増える": "Weapon guard +2%|when Sword|equipped."
+        "片手剣装備時の|武器ガード率が|２％増える": "Parry Rate +2%|when Sword|equipped."
     },
     "5063": {
         "ダメージが|１０％増える": ""
@@ -15297,13 +15297,13 @@
         "clarity_nt_char_1747": "clarity_nt_char_1747"
     },
     "5100": {
-        "両手剣装備時の|武器ガード率が|２％増える": "Weapon Guard +2%|when Claymore|equipped."
+        "両手剣装備時の|武器ガード率が|２％増える": "Parry Rate +2%|when Claymore|equipped."
     },
     "5101": {
-        "両手剣装備時の|武器ガード率が|３％増える": "Weapon Guard +3%|when Claymore|equipped."
+        "両手剣装備時の|武器ガード率が|３％増える": "Parry Rate +3%|when Claymore|equipped."
     },
     "5102": {
-        "両手剣装備時の|武器ガード率が|４％増える": "Weapon Guard +4%|when 2H Claymore|equipped."
+        "両手剣装備時の|武器ガード率が|４％増える": "Parry Rate +4%|when Claymore|equipped."
     },
     "5103": {
         "両手剣装備時|効果時間が|２秒増える": ""
@@ -15444,19 +15444,19 @@
         "ヤリ装備時の|かいしん率が|１．５％増える": "Critical Rate +1.5%|when Spear|equipped."
     },
     "5149": {
-        "ヤリ装備時の|武器ガード率が|１％増える": "Weapon guard +1%|when Spear|equipped."
+        "ヤリ装備時の|武器ガード率が|１％増える": "Parry Rate +1%|when Spear|equipped."
     },
     "5150": {
         "clarity_nt_char_1765": "clarity_nt_char_1765"
     },
     "5151": {
-        "ヤリ装備時の|武器ガード率が|１．２％増える": "Weapon guard +1.2%|when Spear|equipped."
+        "ヤリ装備時の|武器ガード率が|１．２％増える": "Parry Rate +1.2%|when Spear|equipped."
     },
     "5152": {
         "clarity_nt_char_1766": "clarity_nt_char_1766"
     },
     "5153": {
-        "ヤリ装備時の|武器ガード率が|１．５％増える": "Weapon guard +1.5%|when Spear|equipped."
+        "ヤリ装備時の|武器ガード率が|１．５％増える": "Parry Rate +1.5%|when Spear|equipped."
     },
     "5154": {
         "clarity_nt_char_1767": "clarity_nt_char_1767"
@@ -18354,13 +18354,13 @@
         "clarity_nt_char_2096": "clarity_nt_char_2096"
     },
     "6119": {
-        "鎌装備時の|武器ガード率が|２％増える": "Weapon guard +2%|when Sickle|equipped."
+        "鎌装備時の|武器ガード率が|２％増える": "Parry Rate +2%|when Sickle|equipped."
     },
     "6120": {
-        "鎌装備時の|武器ガード率が|３％増える": "Weapon guard +3%|when Sickle|equipped."
+        "鎌装備時の|武器ガード率が|３％増える": "Parry Rate +3%|when Sickle|equipped."
     },
     "6121": {
-        "鎌装備時の|武器ガード率が|４％増える": "Weapon guard +4%|when Sickle|equipped."
+        "鎌装備時の|武器ガード率が|４％増える": "Parry Rate +4%|when Sickle|equipped."
     },
     "6122": {
         "鎌装備時の|こうげき魔力が|２０増える": "Magical might +20|when Sickle|equipped."
@@ -18459,7 +18459,7 @@
         "かいしん率": "Critical Rate"
     },
     "6154": {
-        "武器ガード率": "Weapon Guard Rate"
+        "武器ガード率": "Parry Rate Rate"
     },
     "6155": {
         "clarity_nt_char_2108": "clarity_nt_char_2108"
