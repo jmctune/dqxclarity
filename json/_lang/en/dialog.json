@@ -2040,7 +2040,7 @@
         "<speed=0>仲間を　待っています……。<break>": ""
     },
     "681": {
-        "<speed=0>ここでは　冒険を中断できません！": ""
+        "<speed=0>ここでは　冒険を中断できません！": "<speed=0>You can't log out here!"
     },
     "682": {
         "<speed=0>ここでは　なかまコマンドを使用できません！": "<speed=0>You can't use the Party command here!"
