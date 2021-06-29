@@ -3597,7 +3597,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>１階-道具屋": ""
     },
     "1200": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>後部デッキ": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>後部デッキ": "<%sW_MAP_NAME><%sW_DELIMITER>Rear Deck"
     },
     "1201": {
         "clarity_nt_char_380": "clarity_nt_char_380"
