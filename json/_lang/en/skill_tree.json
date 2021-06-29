@@ -33,7 +33,7 @@
         "clarity_nt_char_1": "clarity_nt_char_1"
     },
     "12": {
-        "チカラと　すばやさに優れた|最強の　テンションの使い手。|ツメ・棍・扇・ヤリを装備可。": "Strong, quick and the best|at using tension. Uses claws,|clubs, fans and spears."
+        "チカラと　すばやさに優れた|最強の　テンションの使い手。|ツメ・棍・扇・ヤリを装備可。": "Strong, quick and the best|at using tension. Uses claws,|rods, fans and spears."
     },
     "13": {
         "チカラが強く　回復もこなす|お宝探しのプロ。短剣・ムチ|ツメ・ハンマーを装備可。": "A strong treasure hunter who|can heal. Can equip daggers, whips,|claws and hammers."
@@ -42,7 +42,7 @@
         "clarity_nt_char_2": "clarity_nt_char_2"
     },
     "15": {
-        "さまざまな芸で盛り上げる|ムードメーカー。短剣・棍|扇・ブーメランを装備可。": "A mood maker with a variety|of tricks. Can equip daggers,|clubs, fans and boomerangs."
+        "さまざまな芸で盛り上げる|ムードメーカー。短剣・棍|扇・ブーメランを装備可。": "A mood maker with a variety|of tricks. Can equip daggers,|rods, fans and boomerangs."
     },
     "16": {
         "clarity_nt_char_3": "clarity_nt_char_3"
@@ -2637,7 +2637,7 @@
         "clarity_nt_char_295": "clarity_nt_char_295"
     },
     "880": {
-        "棍装備時の　こうげき力が　１５　増えた！": "Attack +15 when Club equipped!"
+        "棍装備時の　こうげき力が　１５　増えた！": "Attack +15 when Rod equipped!"
     },
     "881": {
         "clarity_nt_char_296": "clarity_nt_char_296"
@@ -2655,7 +2655,7 @@
         "clarity_nt_char_297": "clarity_nt_char_297"
     },
     "886": {
-        "棍装備時の　こうげき力が　２０　増えた！": "Attack +20 when Club equipped!"
+        "棍装備時の　こうげき力が　２０　増えた！": "Attack +20 when Rod equipped!"
     },
     "887": {
         "clarity_nt_char_298": "clarity_nt_char_298"
@@ -2688,7 +2688,7 @@
         "clarity_nt_char_302": "clarity_nt_char_302"
     },
     "897": {
-        "棍装備時の　こうげき力が　１０　増えた！": "Attack +10 when Club equipped!"
+        "棍装備時の　こうげき力が　１０　増えた！": "Attack +10 when Rod equipped!"
     },
     "898": {
         "clarity_nt_char_303": "clarity_nt_char_303"
@@ -12030,10 +12030,10 @@
         "clarity_nt_char_1363": "clarity_nt_char_1363"
     },
     "4011": {
-        "棍装備時の　こうげき力が　５　増えた！": "Attack +5 when Club equipped!"
+        "棍装備時の　こうげき力が　５　増えた！": "Attack +5 when Rod equipped!"
     },
     "4012": {
-        "棍装備時の　こうげき力が　８　増えた！": "Attack +8 when Club equipped!"
+        "棍装備時の　こうげき力が　８　増えた！": "Attack +8 when Rod equipped!"
     },
     "4013": {
         "棍での攻撃時　会心のいちげきが|さらに　出やすくなった！": ""
@@ -15486,31 +15486,31 @@
         "clarity_nt_char_1769": "clarity_nt_char_1769"
     },
     "5163": {
-        "棍装備時の|こうげき力が|５増える": "Attack +5|when Club|equipped."
+        "棍装備時の|こうげき力が|５増える": "Attack +5|when Rod|equipped."
     },
     "5164": {
-        "棍装備時の|こうげき力が|８増える": "Attack +8|when Club|equipped."
+        "棍装備時の|こうげき力が|８増える": "Attack +8|when Rod|equipped."
     },
     "5165": {
-        "棍装備時の|こうげき力が|１０増える": "Attack +10|when Club|equipped."
+        "棍装備時の|こうげき力が|１０増える": "Attack +10|when Rod|equipped."
     },
     "5166": {
         "clarity_nt_char_1770": "clarity_nt_char_1770"
     },
     "5167": {
-        "棍装備時の|かいしん率が|１％増える": "Critical Rate +1%|when Club|equipped."
+        "棍装備時の|かいしん率が|１％増える": "Critical Rate +1%|when Rod|equipped."
     },
     "5168": {
         "clarity_nt_char_1771": "clarity_nt_char_1771"
     },
     "5169": {
-        "棍装備時の|かいしん率が|１．２％増える": "Critical Rate +1.2%|when Club|equipped."
+        "棍装備時の|かいしん率が|１．２％増える": "Critical Rate +1.2%|when Rod|equipped."
     },
     "5170": {
         "clarity_nt_char_1772": "clarity_nt_char_1772"
     },
     "5171": {
-        "棍装備時の|かいしん率が|１．５％増える": "Critical Rate +1.5%|when Club|equipped."
+        "棍装備時の|かいしん率が|１．５％増える": "Critical Rate +1.5%|when Rod|equipped."
     },
     "5172": {
         "clarity_nt_char_1773": "clarity_nt_char_1773"
@@ -22521,13 +22521,13 @@
         "clarity_nt_char_2563": "clarity_nt_char_2563"
     },
     "7508": {
-        "棍装備時の　こうげき力が　３０　増えた！": "Attack +30 when Club equipped!"
+        "棍装備時の　こうげき力が　３０　増えた！": "Attack +30 when Rod equipped!"
     },
     "7509": {
         "clarity_nt_char_2564": "clarity_nt_char_2564"
     },
     "7510": {
-        "棍装備時の　こうげき力が　４０　増えた！": "Attack +40 when Club equipped!"
+        "棍装備時の　こうげき力が　４０　増えた！": "Attack +40 when Rod equipped!"
     },
     "7511": {
         "clarity_nt_char_2565": "clarity_nt_char_2565"

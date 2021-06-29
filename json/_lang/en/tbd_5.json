@@ -3408,7 +3408,7 @@
         "全職業合計Lv<%dM_clg_tlv>以上　（現在：<%dM_now_tlv>）": ""
     },
     "1137": {
-        "装備：<%sL_clg_wpn>　（現在：<%sL_now_wpn>）": ""
+        "装備：<%sL_clg_wpn>　（現在：<%sL_now_wpn>）": "Equipment: <%sL_clg_wpn> (Current: <%sL_now_wpn>)"
     },
     "1138": {
         "<%sM_metal>(元のツヤ)": ""
