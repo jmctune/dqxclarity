@@ -30,10 +30,10 @@
         "clarity_nt_char_2": "clarity_nt_char_2"
     },
     "11": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eの 取り引きへの返事がありませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\e didn't reply to the transaction."
+        "\\s<%sC_PC>\\m<%sC_ID>\\eの 取り引きへの返事がありませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\e didn't respond to the transaction."
     },
     "12": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから さそいの返事がありませんでした": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから さそいの返事がありませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\e didn't respond to my invitation."
     },
     "13": {
         "clarity_nt_char_3": "clarity_nt_char_3"
