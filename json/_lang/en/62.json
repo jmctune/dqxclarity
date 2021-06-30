@@ -1419,7 +1419,7 @@
         "きようさ +5": ""
     },
     "474": {
-        "こうげき力アップ": ""
+        "こうげき力アップ": "Attack Up"
     },
     "475": {
         "clarity_nt_char_161": "clarity_nt_char_161"
@@ -1440,7 +1440,7 @@
         "clarity_nt_char_162": "clarity_nt_char_162"
     },
     "481": {
-        "こうげき魔力アップ": ""
+        "こうげき魔力アップ": "Magical Might Up"
     },
     "482": {
         "かいふく魔力アップ": "Magical Mending Increased"
@@ -1683,28 +1683,28 @@
         "おしゃれさ +25": "Style +25"
     },
     "562": {
-        "こうげき魔力 +5": ""
+        "こうげき魔力 +5": "Magical Might +5"
     },
     "563": {
-        "こうげき魔力 +10": ""
+        "こうげき魔力 +10": "Magical Might +10"
     },
     "564": {
         "clarity_nt_char_195": "clarity_nt_char_195"
     },
     "565": {
-        "こうげき魔力 +15": ""
+        "こうげき魔力 +15": "Magical Might +15"
     },
     "566": {
         "clarity_nt_char_196": "clarity_nt_char_196"
     },
     "567": {
-        "こうげき魔力 +20": ""
+        "こうげき魔力 +20": "Magical Might +20"
     },
     "568": {
         "clarity_nt_char_197": "clarity_nt_char_197"
     },
     "569": {
-        "こうげき魔力 +25": ""
+        "こうげき魔力 +25": "Magical Might +25"
     },
     "570": {
         "clarity_nt_char_198": "clarity_nt_char_198"
@@ -2952,19 +2952,19 @@
         "clarity_nt_char_338": "clarity_nt_char_338"
     },
     "985": {
-        "こうげき力 +1": ""
+        "こうげき力 +1": "Attack +1"
     },
     "986": {
         "clarity_nt_char_339": "clarity_nt_char_339"
     },
     "987": {
-        "こうげき力 +3": ""
+        "こうげき力 +3": "Attack +3"
     },
     "988": {
         "clarity_nt_char_340": "clarity_nt_char_340"
     },
     "989": {
-        "こうげき力 +5": ""
+        "こうげき力 +5": "Attack +5"
     },
     "990": {
         "clarity_nt_char_341": "clarity_nt_char_341"
@@ -3027,16 +3027,16 @@
         "clarity_nt_char_345": "clarity_nt_char_345"
     },
     "1010": {
-        "こうげき魔力 +1": ""
+        "こうげき魔力 +1": "Magical Might +1"
     },
     "1011": {
-        "こうげき魔力 +2": ""
+        "こうげき魔力 +2": "Magical Might +2"
     },
     "1012": {
-        "こうげき魔力 +3": ""
+        "こうげき魔力 +3": "Magical Might +3"
     },
     "1013": {
-        "こうげき魔力 +4": ""
+        "こうげき魔力 +4": "Magical Might +4"
     },
     "1014": {
         "かいふく魔力 +1": "Magical Mending+1"
@@ -3843,7 +3843,7 @@
         "clarity_nt_char_437": "clarity_nt_char_437"
     },
     "1282": {
-        "こうげき魔力＋かいふく魔力": ""
+        "こうげき魔力＋かいふく魔力": "Mag. Might + Mag. Mending"
     },
     "1283": {
         "かいしん率＋暴走率": ""
