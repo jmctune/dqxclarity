@@ -27147,7 +27147,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは とじこめられて うごけない！": ""
     },
     "9050": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは すべてのこうげきに そなえ 身がまえている！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは すべてのこうげきに そなえ 身がまえている！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is prepared for all attacks!"
     },
     "9051": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは やいばのぼうぎょで 身を 守っている！": ""
@@ -27702,7 +27702,7 @@
         "clarity_nt_char_3079": "clarity_nt_char_3079"
     },
     "9235": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげきが もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげきが もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack returned to normal!"
     },
     "9236": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ブレスドガナッシュの効果が きえた。": ""
