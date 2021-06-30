@@ -32844,7 +32844,7 @@
         "clarity_nt_char_3644": "clarity_nt_char_3644"
     },
     "10949": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力アップの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack Up effect time extended!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力アップの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack Up effect extended!"
     },
     "10950": {
         "clarity_nt_char_3645": "clarity_nt_char_3645"
@@ -33075,7 +33075,7 @@
         "clarity_nt_char_3669": "clarity_nt_char_3669"
     },
     "11026": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力プラスの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack Plus effect time extended!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力プラスの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack Plus effect extended!"
     },
     "11027": {
         "clarity_nt_char_3670": "clarity_nt_char_3670"
@@ -33189,7 +33189,7 @@
         "clarity_nt_char_3681": "clarity_nt_char_3681"
     },
     "11064": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力ダウンの 効果延長！": "s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack Down effect time extended!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力ダウンの 効果延長！": "s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack Down effect extended!"
     },
     "11065": {
         "clarity_nt_char_3682": "clarity_nt_char_3682"
@@ -33327,7 +33327,7 @@
         "clarity_nt_char_3697": "clarity_nt_char_3697"
     },
     "11110": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力マイナスの 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力マイナスの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack Minus effect extended!"
     },
     "11111": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを さらに いい気持ちになった！": ""
@@ -33375,7 +33375,7 @@
         "clarity_nt_char_3701": "clarity_nt_char_3701"
     },
     "11126": {
-        "こうげき力アップ|効果時間延長！": ""
+        "こうげき力アップ|効果時間延長！": "Attack Up effect|time extended!"
     },
     "11127": {
         "clarity_nt_char_3702": "clarity_nt_char_3702"
@@ -33585,7 +33585,7 @@
         "clarity_nt_char_3726": "clarity_nt_char_3726"
     },
     "11196": {
-        "こうげき力プラスの|効果時間延長！": ""
+        "こうげき力プラスの|効果時間延長！": "Attack Plus effect|time extended!"
     },
     "11197": {
         "物理テンションバーンの|効果時間延長！": ""
@@ -33684,7 +33684,7 @@
         "回復プラスが|アップした！": ""
     },
     "11229": {
-        "こうげき力ダウン|効果時間延長！": ""
+        "こうげき力ダウン|効果時間延長！": "Attack Down effect|time extended!"
     },
     "11230": {
         "clarity_nt_char_3737": "clarity_nt_char_3737"
@@ -33771,7 +33771,7 @@
         "clarity_nt_char_3745": "clarity_nt_char_3745"
     },
     "11258": {
-        "こうげき力マイナスの|効果時間延長！": ""
+        "こうげき力マイナスの|効果時間延長！": "Attack Minus effect|time extended!"
     },
     "11259": {
         "clarity_nt_char_3746": "clarity_nt_char_3746"
