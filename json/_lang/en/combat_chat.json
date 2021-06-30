@@ -25578,7 +25578,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 行動が変化した！": ""
     },
     "8527": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文ぼうそう率が あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文ぼうそう率が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell haywire rate up!"
     },
     "8528": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは みずのころもを 身にまとった！！": ""
