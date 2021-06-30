@@ -1854,7 +1854,7 @@
         "特技の回復量+100%": "Recovery Skill +100%"
     },
     "619": {
-        "爪牙の陣": "Sap Circle"
+        "爪牙の陣": "Fang Circle"
     },
     "620": {
         "clarity_nt_char_204": "clarity_nt_char_204"
@@ -1863,7 +1863,7 @@
         "行動時10%でヘビチャ": "On Action Heavy Charge 10%"
     },
     "622": {
-        "ガード時20%ダメ軽減": "20% Damage Down When Guard"
+        "ガード時20%ダメ軽減": "20% Damage Down When Block"
     },
     "623": {
         "棍装備時に|４％で武器ガード|できるようになる": "Parry Rate +4%|when a Rod|is equipped."
@@ -1959,7 +1959,7 @@
         "頭上から|敵１体を斬りつけ|守備力も下げる": "A head smash|that may reduce|Defense."
     },
     "654": {
-        "オノ装備時の|かいしん率が|２％増える": "Critical Rate +2%|when Axe|equipped."
+        "オノ装備時の|かいしん率が|２％増える": "Critical Rate +2%|when an Axe|is equipped."
     },
     "655": {
         "失敗しやすいが|うまく当たれば|会心のいちげき": "An inaccurate|strike that deals|a critical hit."
