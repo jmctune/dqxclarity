@@ -20160,10 +20160,10 @@
         "地獄のいかずちで|ダメージを与え|たまにマヒさせる": ""
     },
     "6721": {
-        "身を守りつつ|敵１体を攻撃する": ""
+        "身を守りつつ|敵１体を攻撃する": "Attack an enemy|while defending."
     },
     "6722": {
-        "守りを固めて|ダメージを|すこし減らす": ""
+        "守りを固めて|ダメージを|すこし減らす": "Defend yourself|and slightly|reduce damage."
     },
     "6723": {
         "ダメージを|大幅に減らす|パラディン専用": ""
@@ -20172,7 +20172,7 @@
         "clarity_nt_char_2245": "clarity_nt_char_2245"
     },
     "6725": {
-        "盾ガード率が|大幅に上がる|守りのかまえ": ""
+        "盾ガード率が|大幅に上がる|守りのかまえ": "A stance that|greatly increases|Block Rate."
     },
     "6726": {
         "clarity_nt_char_2246": "clarity_nt_char_2246"
@@ -20199,7 +20199,7 @@
         "clarity_nt_char_2249": "clarity_nt_char_2249"
     },
     "6734": {
-        "自分に１回だけ|呪文をかき消す|バリアを張る": ""
+        "自分に１回だけ|呪文をかき消す|バリアを張る": "Nullify a spell|against you|one time."
     },
     "6735": {
         "clarity_nt_char_2250": "clarity_nt_char_2250"
