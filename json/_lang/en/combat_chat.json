@@ -28263,7 +28263,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＨＰとＭＰ回復が おわった！": ""
     },
     "9422": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文ぼうそう率が もとにもどった。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文ぼうそう率が もとにもどった。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell haywire rate back to normal."
     },
     "9423": {
         "clarity_nt_char_3137": "clarity_nt_char_3137"
