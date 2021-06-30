@@ -3705,7 +3705,7 @@
         "踊り子時会心や|呪文の暴走が|出やすくなる": ""
     },
     "1236": {
-        "踊り子時|身かわし率が|２％増える": "Dodge Rate +2%|when a|Dancer."
+        "踊り子時|身かわし率が|２％増える": "Dodge Rate +2%|when you are a|Dancer."
     },
     "1237": {
         "周囲の味方に|攻撃時ＭＰ回復|踊り子専用": "Grants allies an|MP recovery on|attack effect."
@@ -3792,7 +3792,7 @@
         "全手札をひき直し|身かわし率アップ|占い師専用特技": ""
     },
     "1265": {
-        "占い師時|さいだいＭＰが|２０増える": "Max MP +20|when a|Fortune Teller."
+        "占い師時|さいだいＭＰが|２０増える": "Max MP +20|when you are a|Fortune Teller."
     },
     "1266": {
         "clarity_nt_char_424": "clarity_nt_char_424"
@@ -3840,7 +3840,7 @@
         "clarity_nt_char_428": "clarity_nt_char_428"
     },
     "1281": {
-        "天地雷鳴士時|こうげき魔力が|３０増える": "Mag. Might +30|when a|Druid."
+        "天地雷鳴士時|こうげき魔力が|３０増える": "Mag. Might +30|when you are a|Druid."
     },
     "1282": {
         "clarity_nt_char_429": "clarity_nt_char_429"
@@ -3849,7 +3849,7 @@
         "周囲を炎で焼き|土耐性も下げる|天地雷鳴士専用": ""
     },
     "1284": {
-        "天地雷鳴士時|さいだいＨＰが|２０増える": ""
+        "天地雷鳴士時|さいだいＨＰが|２０増える": "Max HP +20|when you are a|Druid."
     },
     "1285": {
         "clarity_nt_char_430": "clarity_nt_char_430"
@@ -3891,7 +3891,7 @@
         "clarity_nt_char_434": "clarity_nt_char_434"
     },
     "1298": {
-        "遊び人時|みりょくが|３０増える": ""
+        "遊び人時|みりょくが|３０増える": "Charm +30|when you are a|Gadabout."
     },
     "1299": {
         "clarity_nt_char_435": "clarity_nt_char_435"
@@ -3903,7 +3903,7 @@
         "clarity_nt_char_436": "clarity_nt_char_436"
     },
     "1302": {
-        "遊び人時|さいだいＨＰが|２０増える": ""
+        "遊び人時|さいだいＨＰが|２０増える": "Max HP +20|when you are a|Gadabout."
     },
     "1303": {
         "clarity_nt_char_437": "clarity_nt_char_437"
