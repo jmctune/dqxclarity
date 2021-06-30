@@ -1953,7 +1953,7 @@
         "clarity_nt_char_212": "clarity_nt_char_212"
     },
     "652": {
-        "オノ装備時の|こうげき力が|１５増える": "Attack +15|when Axe|equipped."
+        "オノ装備時の|こうげき力が|１５増える": "Attack +15|when an Axe|is equipped."
     },
     "653": {
         "頭上から|敵１体を斬りつけ|守備力も下げる": "A head smash|that may reduce|Defense."
@@ -1965,7 +1965,7 @@
         "失敗しやすいが|うまく当たれば|会心のいちげき": "An inaccurate|strike that deals|a critical hit."
     },
     "656": {
-        "オノ装備時の|こうげき力が|２０増える": "Attack +20|when Axe|equipped."
+        "オノ装備時の|こうげき力が|２０増える": "Attack +20|when an Axe|is equipped."
     },
     "657": {
         "周囲の敵を|粉砕する|こんしんの大技": "An attack that|crushes enemies|around you."
@@ -1977,7 +1977,7 @@
         "敵１体を斬りつけ|守備力を下げて|行動間隔ものばす": "Lowers Defense|and slows|action interval."
     },
     "660": {
-        "オノ装備時の|かいしん率が|３％増える": "Critical Rate +3%|when Axe|equipped."
+        "オノ装備時の|かいしん率が|３％増える": "Critical Rate +3%|when an Axe|is equipped."
     },
     "661": {
         "周囲の敵を|２回ずつ攻撃する|真のオノむそう": "Strikes enemies|twice in a|wide area."
@@ -2001,7 +2001,7 @@
         "clarity_nt_char_216": "clarity_nt_char_216"
     },
     "668": {
-        "全力で投げつけ|範囲内の敵に|等しくダメージ": "Powerful throw|which does 1.2x|extra damage."
+        "全力で投げつけ|範囲内の敵に|等しくダメージ": "A powerful throw|that damages all|nearby enemies."
     },
     "669": {
         "clarity_nt_char_217": "clarity_nt_char_217"
