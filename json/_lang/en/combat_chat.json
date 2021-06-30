@@ -5310,10 +5310,10 @@
         "clarity_nt_char_620": "clarity_nt_char_620"
     },
     "1771": {
-        "<%sB_ACTION>が|ぼうそう！": ""
+        "<%sB_ACTION>が|ぼうそう！": "<%sB_ACTION> goes|haywire!"
     },
     "1772": {
-        "<%sB_ACTION>がぼうそう！": "Haywire <%sB_ACTION>!"
+        "<%sB_ACTION>がぼうそう！": "<%sB_ACTION> goes haywire!"
     },
     "1773": {
         "clarity_nt_char_621": "clarity_nt_char_621"
@@ -5904,7 +5904,7 @@
         "ミス！ \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに ダメージを あたえられない！": "Miss! \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e takes no damage!"
     },
     "1969": {
-        "じゅもんが ぼうそう！": ""
+        "じゅもんが ぼうそう！": "Spell goes haywire!"
     },
     "1970": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは くだけちった！": ""
@@ -6678,7 +6678,7 @@
         "だれかに いかずちが ふりそそぐ！": ""
     },
     "2227": {
-        "ステッキの魔力が ぼうそうする！": ""
+        "ステッキの魔力が ぼうそうする！": "Magical Stick goes haywire!"
     },
     "2228": {
         "clarity_nt_char_772": "clarity_nt_char_772"
@@ -24507,7 +24507,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ふしぎな光に 守られた！": ""
     },
     "8170": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 会心と呪文ぼうそう率が あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 会心と呪文ぼうそう率が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's critical/haywire rate up!"
     },
     "8171": {
         "clarity_nt_char_2723": "clarity_nt_char_2723"
