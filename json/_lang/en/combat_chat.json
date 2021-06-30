@@ -29844,7 +29844,7 @@
         "clarity_nt_char_3308": "clarity_nt_char_3308"
     },
     "9949": {
-        "呪文が|必ずぼうそうする！": ""
+        "呪文が|必ずぼうそうする！": "Always haywire|spells!"
     },
     "9950": {
         "ＭＰがへっていく|呪いにかかった！": ""
@@ -30087,7 +30087,7 @@
         "行動パターンが|入れ替わった！": ""
     },
     "10030": {
-        "呪文ぼうそう率が|あがった！": ""
+        "呪文ぼうそう率が|あがった！": "Spell haywire|rate increased!"
     },
     "10031": {
         "clarity_nt_char_3335": "clarity_nt_char_3335"
@@ -31602,7 +31602,7 @@
         "竜眼の効果がきえた": ""
     },
     "10535": {
-        "会心と呪文ぼうそう率が|もとにもどった": ""
+        "会心と呪文ぼうそう率が|もとにもどった": "Critical/haywire rate|back to normal."
     },
     "10536": {
         "悪い効果がかきけされた": ""
@@ -32127,7 +32127,7 @@
         "clarity_nt_char_3562": "clarity_nt_char_3562"
     },
     "10710": {
-        "会心と呪文ぼうそう率と|ダメージがもとにもどった": ""
+        "会心と呪文ぼうそう率と|ダメージがもとにもどった": "Critical/haywire damage|back to normal."
     },
     "10711": {
         "clarity_nt_char_3563": "clarity_nt_char_3563"
@@ -32322,7 +32322,7 @@
         "clarity_nt_char_3585": "clarity_nt_char_3585"
     },
     "10775": {
-        "呪文が必ず|ぼうそうする効果がきえた": ""
+        "呪文が必ず|ぼうそうする効果がきえた": "Always haywire spells|effect faded."
     },
     "10776": {
         "clarity_nt_char_3586": "clarity_nt_char_3586"
@@ -32484,7 +32484,7 @@
         "ＨＰとＭＰ回復が|おわった": ""
     },
     "10829": {
-        "呪文ぼうそう率が|もとにもどった": ""
+        "呪文ぼうそう率が|もとにもどった": "Spell haywire rate|back to normal."
     },
     "10830": {
         "clarity_nt_char_3605": "clarity_nt_char_3605"
