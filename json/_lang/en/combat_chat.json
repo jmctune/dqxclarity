@@ -24060,7 +24060,7 @@
         "clarity_nt_char_2683": "clarity_nt_char_2683"
     },
     "8021": {
-        "<%sB_TARGET>は こうげきに そなえ 身がまえている！": ""
+        "<%sB_TARGET>は こうげきに そなえ 身がまえている！": "<%sB_TARGET> is ready to attack!"
     },
     "8022": {
         "clarity_nt_char_2684": "clarity_nt_char_2684"
@@ -24291,7 +24291,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 身を守っている。": ""
     },
     "8098": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは こうげきにそなえ 身を守った。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは こうげきにそなえ 身を守った。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e braced themselves for an attack."
     },
     "8099": {
         "clarity_nt_char_2707": "clarity_nt_char_2707"
@@ -24396,7 +24396,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 身をかわしやすくなった！": ""
     },
     "8133": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは こうげきを かわしやすくなった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは こうげきを かわしやすくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e can dodge attacks easier!"
     },
     "8134": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 美しさに みがきがかかった！": ""
@@ -24657,7 +24657,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 最大ＭＰが ふえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Max MP increased!"
     },
     "8220": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が ふえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が ふえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack increased!"
     },
     "8221": {
         "clarity_nt_char_2739": "clarity_nt_char_2739"
