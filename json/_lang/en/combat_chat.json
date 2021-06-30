@@ -1299,7 +1299,7 @@
         "clarity_nt_char_155": "clarity_nt_char_155"
     },
     "434": {
-        "<%sB_TARGET_RPL>に|こうげき！": ""
+        "<%sB_TARGET_RPL>に|こうげき！": "Attacked|<%sB_TARGET_RPL>!"
     },
     "435": {
         "没収してやるニャン！": ""
@@ -6378,7 +6378,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに これ以上は デスパワーを 注げなかった！": ""
     },
     "2127": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力アップと魔力かくせいが入れ替わった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力アップと魔力かくせいが入れ替わった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's attack/spell power up was swapped!"
     },
     "2128": {
         "clarity_nt_char_738": "clarity_nt_char_738"
