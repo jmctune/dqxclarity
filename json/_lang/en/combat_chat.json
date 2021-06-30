@@ -32991,7 +32991,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さらに 死の呪いにかかった！": ""
     },
     "10998": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 会心と呪文ぼうそう率アップの 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 会心と呪文ぼうそう率アップの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's critical/haywire rate up effects extended!"
     },
     "10999": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さらに 最大ＨＰ大ダウンの 呪いにかかった！": ""
