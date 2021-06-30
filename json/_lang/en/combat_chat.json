@@ -26223,7 +26223,7 @@
         "clarity_nt_char_2914": "clarity_nt_char_2914"
     },
     "8742": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が 少し さがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が 少し さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack decreased slightly!"
     },
     "8743": {
         "clarity_nt_char_2915": "clarity_nt_char_2915"
@@ -26349,7 +26349,7 @@
         "clarity_nt_char_2929": "clarity_nt_char_2929"
     },
     "8784": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは こうげきにそなえ 守った。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは こうげきにそなえ 守った。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e braced for an attack."
     },
     "8785": {
         "clarity_nt_char_2930": "clarity_nt_char_2930"
@@ -26421,7 +26421,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを 服で からめとった！": ""
     },
     "8808": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が 少し へらした！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が 少し へらした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack decreased slightly!"
     },
     "8809": {
         "clarity_nt_char_2935": "clarity_nt_char_2935"
@@ -26490,7 +26490,7 @@
         "８方向カプセル": ""
     },
     "8831": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack returned to normal!"
     },
     "8832": {
         "clarity_nt_char_2943": "clarity_nt_char_2943"
