@@ -33075,7 +33075,7 @@
         "clarity_nt_char_3669": "clarity_nt_char_3669"
     },
     "11026": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力プラスの 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力プラスの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack Plus effect time extended!"
     },
     "11027": {
         "clarity_nt_char_3670": "clarity_nt_char_3670"
@@ -33189,7 +33189,7 @@
         "clarity_nt_char_3681": "clarity_nt_char_3681"
     },
     "11064": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力ダウンの 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力ダウンの 効果延長！": "s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack Down effect time extended!"
     },
     "11065": {
         "clarity_nt_char_3682": "clarity_nt_char_3682"
