@@ -4215,7 +4215,7 @@
         "行動時に１５％で|一定時間の間|呪文が暴走する": ""
     },
     "1406": {
-        "会心＆暴走時の|ダメージが|２００増える": ""
+        "会心＆暴走時の|ダメージが|２００増える": "Critical and|haywire damage|increased 200."
     },
     "1407": {
         "clarity_nt_char_470": "clarity_nt_char_470"
@@ -4527,7 +4527,7 @@
         "風のやいばを|巻きおこし|敵１体を攻撃": "Create a wind|spell to attack|an enemy."
     },
     "1510": {
-        "扇装備時の|こうげき力が|５増える": "Attack +5|when Fan|equipped."
+        "扇装備時の|こうげき力が|５増える": "Attack +5|when a Fan|is equipped."
     },
     "1511": {
         "虫系の敵に|威力を発揮する|すばやい剣技": ""
@@ -4611,10 +4611,10 @@
         "スティック攻撃時|吸収できる|ＭＰが増える": "Increases MP|absorbed when|using a Wand."
     },
     "1538": {
-        "弓装備時の|こうげき力が|５増える": "Attack +5|when Bow|equipped."
+        "弓装備時の|こうげき力が|５増える": "Attack +5|when a Bow|is equipped."
     },
     "1539": {
-        "オノ装備時の|こうげき力が|３０増える": "Attack +30|when Axe|equipped."
+        "オノ装備時の|こうげき力が|３０増える": "Attack +30|when an Axe|is equipped."
     },
     "1540": {
         "敵１体を斬りつけ|攻撃と守備を下げ|行動間隔ものばす": ""
