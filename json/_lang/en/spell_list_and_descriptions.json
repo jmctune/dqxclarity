@@ -3981,7 +3981,7 @@
         "clarity_nt_char_445": "clarity_nt_char_445"
     },
     "1328": {
-        "鎌装備時の|こうげき力が|２０増える": "Attack +20|when Sickle|equipped."
+        "鎌装備時の|こうげき力が|２０増える": "Attack +20|when a Sickle|is equipped."
     },
     "1329": {
         "clarity_nt_char_446": "clarity_nt_char_446"
@@ -3990,7 +3990,7 @@
         "闇属性の斬撃で|前方をなぎはらい|転び効果も与える": ""
     },
     "1331": {
-        "鎌装備時の|こうげき魔力が|３０増える": "Magical might +30|when Sickle|equipped."
+        "鎌装備時の|こうげき魔力が|３０増える": "Mag. Might +30|when a Sickle|is equipped."
     },
     "1332": {
         "ダウン中の敵には|必ず当たる|会心の斬撃": ""
@@ -3999,7 +3999,7 @@
         "clarity_nt_char_447": "clarity_nt_char_447"
     },
     "1334": {
-        "鎌装備時の|かいしん率が|２％増える": "Critical Rate +2%|when Sickle|equipped."
+        "鎌装備時の|かいしん率が|２％増える": "Critical Rate +2%|when a Sickle|is equipped."
     },
     "1335": {
         "clarity_nt_char_448": "clarity_nt_char_448"
@@ -4014,7 +4014,7 @@
         "clarity_nt_char_449": "clarity_nt_char_449"
     },
     "1339": {
-        "鎌装備時の|こうげき力が|２５増える": "Attack +25|when Sickle|equipped."
+        "鎌装備時の|こうげき力が|２５増える": "Attack +25|when a Sickle|is equipped."
     },
     "1340": {
         "clarity_nt_char_450": "clarity_nt_char_450"
@@ -4023,7 +4023,7 @@
         "相手をマヒさせ|悪い効果に対して|威力が上がる斬撃": ""
     },
     "1342": {
-        "鎌装備時の|こうげき魔力が|３５増える": "Magical might +35|when Sickle|equipped."
+        "鎌装備時の|こうげき魔力が|３５増える": "Mag. Might +35|when a Sickle|is equipped."
     },
     "1343": {
         "攻撃力と魔力の|強化を入れ替え|自分を再強化": ""
@@ -4032,7 +4032,7 @@
         "clarity_nt_char_451": "clarity_nt_char_451"
     },
     "1345": {
-        "鎌装備時の|かいふく魔力が|４０増える": ""
+        "鎌装備時の|かいふく魔力が|４０増える": "Mag. Mending +40|when a Sickle|is equipped."
     },
     "1346": {
         "周囲に闇ダメージ|鎌を強化し攻撃時|味方のＨＰも回復": "Recovers HP to|allies when|dealing damage."
@@ -4047,10 +4047,10 @@
         "clarity_nt_char_453": "clarity_nt_char_453"
     },
     "1350": {
-        "ヤリ装備時の|かいしん率が|５％増える": "Critical Rate +2%|when Spear|equipped."
+        "ヤリ装備時の|かいしん率が|５％増える": "Critical Rate +2%|when a Spear|is equipped."
     },
     "1351": {
-        "ヤリ装備時の|武器ガード率が|８％増える": "Parry Rate +8%|when Spear|equipped."
+        "ヤリ装備時の|武器ガード率が|８％増える": "Parry Rate +8%|when a Spear|is equipped."
     },
     "1352": {
         "clarity_nt_char_454": "clarity_nt_char_454"
