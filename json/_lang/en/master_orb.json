@@ -2769,13 +2769,13 @@
         "めいそうの回復量+1%": "Meditation Recovery +1%"
     },
     "924": {
-        "ためる弐で追加テンション1%": "Psyche 3 Extra Tension 1%"
+        "ためる弐で追加テンション1%": "Psyche 2 Extra Tension 1%"
     },
     "925": {
         "clarity_nt_char_320": "clarity_nt_char_320"
     },
     "926": {
-        "ためる参で追加テンション1%": "Psyche 2 Extra Tension 1%"
+        "ためる参で追加テンション1%": "Psyche 3 Extra Tension 1%"
     },
     "927": {
         "clarity_nt_char_321": "clarity_nt_char_321"
@@ -8226,10 +8226,10 @@
         "clarity_nt_char_952": "clarity_nt_char_952"
     },
     "2743": {
-        "ためる弐でさらに１％の確率で|１段階テンションアップする（武闘家専用）": "When using Psyche 3, there is a 1%|chance your tension goes up. (MRT Only)"
+        "ためる弐でさらに１％の確率で|１段階テンションアップする（武闘家専用）": "When using Psyche 2, there is a 1%|chance your tension goes up. (MRT Only)"
     },
     "2744": {
-        "ためる参でさらに１％の確率で|１段階テンションアップする（武闘家専用）": "When using Psyche 2, there is a 1%|chance your tension goes up. (MRT Only)"
+        "ためる参でさらに１％の確率で|１段階テンションアップする（武闘家専用）": "When using Psyche 3, there is a 1%|chance your tension goes up. (MRT Only)"
     },
     "2745": {
         "アクロバットスターの必殺チャージ率が|０．５％増える（旅芸人専用）": "Acrobat Star charge rate increased|by 0.5%. (MIN Only)"
