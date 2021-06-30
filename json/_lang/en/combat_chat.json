@@ -26631,7 +26631,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 覚醒した！！": ""
     },
     "8878": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が 少し あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が 少し あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack increased slightly!"
     },
     "8879": {
         "clarity_nt_char_2957": "clarity_nt_char_2957"
@@ -26676,7 +26676,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と氷の耐性が 少し あがった！": ""
     },
     "8893": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が 少し ふえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が 少し ふえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack increased slightly!"
     },
     "8894": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が かなり あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e’s Attack increased by a lot!"
@@ -26721,13 +26721,13 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ひらりと 身をかわした！": ""
     },
     "8908": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 盾で こうげきを はじきかえした！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 盾で こうげきを はじきかえした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e blocked the attack with a shield!"
     },
     "8909": {
         "clarity_nt_char_2966": "clarity_nt_char_2966"
     },
     "8910": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 武器で こうげきを はじきかえした！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 武器で こうげきを はじきかえした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e parried the attack!"
     },
     "8911": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに さわって しびれた！": ""
@@ -27087,7 +27087,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 息の根をとめた！": ""
     },
     "9030": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは こうげきに そなえている！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは こうげきに そなえている！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is preparing for an attack!"
     },
     "9031": {
         "clarity_nt_char_3007": "clarity_nt_char_3007"
