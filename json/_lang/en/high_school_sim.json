@@ -7494,7 +7494,7 @@
         "スティック装備時|さいだいＭＰが|１００増える": "+100 Maximum MP|when wand worn.|"
     },
     "2499": {
-        "スティック装備で|戦闘に勝つと|ＭＰが中回復する": "Restore medium amount|of MP when battle|won & wand equipped"
+        "スティック装備で|戦闘に勝つと|ＭＰが中回復する": "Restore medium MP|after a battle|with a Wand."
     },
     "2500": {
         "clarity_nt_char_820": "clarity_nt_char_820"
@@ -7818,7 +7818,7 @@
         "clarity_nt_char_856": "clarity_nt_char_856"
     },
     "2607": {
-        "キラキラパワーで|悪い効果から|仲間の身を守る": ""
+        "キラキラパワーで|悪い効果から|仲間の身を守る": "Use glitter power|to protect allies|from bad effects."
     },
     "2608": {
         "破滅的な|闇のチカラが|敵１体をおそう": ""
