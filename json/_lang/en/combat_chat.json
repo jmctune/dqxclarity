@@ -33834,7 +33834,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力を かなり へらした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack decreased by a lot!"
     },
     "11279": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力を 少し さげた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力を 少し さげた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack decreased slightly!"
     },
     "11280": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力を 少し さげた！": ""
@@ -33879,13 +33879,13 @@
         "clarity_nt_char_3757": "clarity_nt_char_3757"
     },
     "11294": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力を 少し へらした！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力を 少し へらした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack decreased slightly!"
     },
     "11295": {
         "clarity_nt_char_3758": "clarity_nt_char_3758"
     },
     "11296": {
-        "こうげき力をさげた！": ""
+        "こうげき力をさげた！": "Attack decreased!"
     },
     "11297": {
         "clarity_nt_char_3759": "clarity_nt_char_3759"
@@ -33930,7 +33930,7 @@
         "炎と氷の耐性をさげた！": ""
     },
     "11311": {
-        "こうげき力をへらした！": ""
+        "こうげき力をへらした！": "Attack decreased!"
     },
     "11312": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ふっとび距離が 60%あがった！": ""
