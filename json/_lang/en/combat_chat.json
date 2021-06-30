@@ -27747,7 +27747,7 @@
         "clarity_nt_char_3084": "clarity_nt_char_3084"
     },
     "9250": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力と こうげき魔力が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力と こうげき魔力が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack/M. Might back to normal!"
     },
     "9251": {
         "clarity_nt_char_3085": "clarity_nt_char_3085"
@@ -28602,7 +28602,7 @@
         "clarity_nt_char_3169": "clarity_nt_char_3169"
     },
     "9535": {
-        "こうげき力がさがった！": ""
+        "こうげき力がさがった！": "Attack decreased!"
     },
     "9536": {
         "しゅび力がさがった！": ""
@@ -28881,7 +28881,7 @@
         "clarity_nt_char_3200": "clarity_nt_char_3200"
     },
     "9628": {
-        "こうげきを|かわしやすくなった！": ""
+        "こうげきを|かわしやすくなった！": "Easier to|dodge attacks!"
     },
     "9629": {
         "clarity_nt_char_3201": "clarity_nt_char_3201"
