@@ -1989,7 +1989,7 @@
         "敵１体を|毒にさせる|短剣専用呪文": "A Dagger spell|that poisons|an enemy."
     },
     "664": {
-        "ブーメラン装備時|こうげき力が|５増える": "Attack +5|when Boomerang|equipped."
+        "ブーメラン装備時|こうげき力が|５増える": "Attack +5|when a Boomerang|is equipped."
     },
     "665": {
         "clarity_nt_char_215": "clarity_nt_char_215"
@@ -2052,13 +2052,13 @@
         "clarity_nt_char_220": "clarity_nt_char_220"
     },
     "685": {
-        "弓装備時の|こうげき力が|１０増える": "Attack +10|when Bow|equipped."
+        "弓装備時の|こうげき力が|１０増える": "Attack +10|when a Bow|is equipped."
     },
     "686": {
         "clarity_nt_char_221": "clarity_nt_char_221"
     },
     "687": {
-        "雷のチカラを|弓矢に宿して|敵１体を射る": "Fire a lightning|arrow for 1.2x|dmg to 1 target."
+        "雷のチカラを|弓矢に宿して|敵１体を射る": "Fires an arrow|with the power|of lightning."
     },
     "688": {
         "clarity_nt_char_222": "clarity_nt_char_222"
