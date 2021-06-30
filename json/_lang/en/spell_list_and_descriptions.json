@@ -4647,7 +4647,7 @@
         "clarity_nt_char_519": "clarity_nt_char_519"
     },
     "1550": {
-        "スティック装備時|さいだいＭＰが|６０増える": "+60 Maximum MP|when wand worn.|"
+        "スティック装備時|さいだいＭＰが|６０増える": "Max MP +60|when a Wand|is equipped."
     },
     "1551": {
         "clarity_nt_char_520": "clarity_nt_char_520"
@@ -4665,13 +4665,13 @@
         "clarity_nt_char_521": "clarity_nt_char_521"
     },
     "1556": {
-        "ムチ装備時の|こうげき力が|２０増える": "Attack +20|when Whip|equipped."
+        "ムチ装備時の|こうげき力が|２０増える": "Attack +20|when a Whip|is equipped."
     },
     "1557": {
-        "ムチ装備時の|かいしん率が|６％増える": "Critical Rate +6%|when Whip|equipped."
+        "ムチ装備時の|かいしん率が|６％増える": "Critical Rate +6%|when a Whip|is equipped."
     },
     "1558": {
-        "ムチ装備時の|こうげき力が|３０増える": "Attack +30|when Whip|equipped."
+        "ムチ装備時の|こうげき力が|３０増える": "Attack +30|when a Whip|is equipped."
     },
     "1559": {
         "ムチ装備時特技が|少し遠くから|当たるようになる": ""
@@ -4686,10 +4686,10 @@
         "ムチ装備時|戦闘中のチャージ|時間を１０秒短縮": ""
     },
     "1563": {
-        "ムチ装備時の|特技ダメージが|１５０増える": ""
+        "ムチ装備時の|特技ダメージが|１５０増える": "Skill Damage +150|when a Whip|is equipped."
     },
     "1564": {
-        "オノ装備時の|こうげき力が|５増える": "Attack +5|when Axe|equipped."
+        "オノ装備時の|こうげき力が|５増える": "Attack +5|when an Axe|is equipped."
     },
     "1565": {
         "clarity_nt_char_523": "clarity_nt_char_523"
@@ -4821,13 +4821,13 @@
         "棍装備時に|呪文の発動速度が|３％早くなる": ""
     },
     "1608": {
-        "棍装備時の|こうげき力が|３０増える": "Attack +30|when Rod|equipped."
+        "棍装備時の|こうげき力が|３０増える": "Attack +30|when a Rod|is equipped."
     },
     "1609": {
         "clarity_nt_char_539": "clarity_nt_char_539"
     },
     "1610": {
-        "棍装備時の|こうげき力が|４０増える": "Attack +40|when Rod|equipped."
+        "棍装備時の|こうげき力が|４０増える": "Attack +40|when a Rod|is equipped."
     },
     "1611": {
         "clarity_nt_char_540": "clarity_nt_char_540"
@@ -4848,7 +4848,7 @@
         "clarity_nt_char_542": "clarity_nt_char_542"
     },
     "1617": {
-        "両手杖装備時の|こうげき魔力が|６０増える": ""
+        "両手杖装備時の|こうげき魔力が|６０増える": "Mag. Might +60|when a Staff|is equipped."
     },
     "1618": {
         "呪文がかなり|暴走しやすくなる|魔法陣を作る": ""
@@ -4857,7 +4857,7 @@
         "clarity_nt_char_543": "clarity_nt_char_543"
     },
     "1620": {
-        "両手杖装備時|さいだいＭＰが|５０増える": ""
+        "両手杖装備時|さいだいＭＰが|５０増える": "Max MP +50|when a Staff|is equipped."
     },
     "1621": {
         "clarity_nt_char_544": "clarity_nt_char_544"
