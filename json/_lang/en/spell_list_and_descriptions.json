@@ -2085,7 +2085,7 @@
         "敵１体を|攻撃しつつ|自分のＭＰも回復": "Fires an arrow|that recovers MP|from damage."
     },
     "696": {
-        "敵を選ばず|するどい光の矢が|ふりそそぐ": ""
+        "敵を選ばず|するどい光の矢が|ふりそそぐ": "Arrows of light|that randomly|strike enemies."
     },
     "697": {
         "clarity_nt_char_226": "clarity_nt_char_226"
@@ -2124,7 +2124,7 @@
         "clarity_nt_char_231": "clarity_nt_char_231"
     },
     "709": {
-        "ツメ装備時の|かいしん率が|２％増える": "Critical Rate +2%|when Claws|equipped."
+        "ツメ装備時の|かいしん率が|２％増える": "Critical Rate +2%|when Claws|are equipped."
     },
     "710": {
         "身かわしや|ガードをされずに|攻撃が必ずヒット": "A precise claw|attack which|always hits."
