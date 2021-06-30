@@ -28122,7 +28122,7 @@
         "clarity_nt_char_3121": "clarity_nt_char_3121"
     },
     "9375": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文が 必ずぼうそうする効果がきえた。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文が 必ずぼうそうする効果がきえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's always haywire effect faded."
     },
     "9376": {
         "clarity_nt_char_3122": "clarity_nt_char_3122"
