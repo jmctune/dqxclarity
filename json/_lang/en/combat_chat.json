@@ -33120,7 +33120,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 最大ＭＰアップの 効果時間延長！": ""
     },
     "11041": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文ぼうそう率アップの 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文ぼうそう率アップの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's haywire rate up effect extended!"
     },
     "11042": {
         "clarity_nt_char_3675": "clarity_nt_char_3675"
