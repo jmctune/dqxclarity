@@ -31281,7 +31281,7 @@
         "clarity_nt_char_3467": "clarity_nt_char_3467"
     },
     "10428": {
-        "こうげきするなんて|とんでもない！": ""
+        "こうげきするなんて|とんでもない！": "It's ridiculous|to attack!"
     },
     "10429": {
         "防魔の法に|守られている！": ""
@@ -31335,7 +31335,7 @@
         "ターンを|消費しなかった！": ""
     },
     "10446": {
-        "<%sB_TARGET>は こうげきに そなえている！": ""
+        "<%sB_TARGET>は こうげきに そなえている！": "<%sB_TARGET> is preparing for an attack!"
     },
     "10447": {
         "カウンター率が|もとにもどった": ""
@@ -31713,7 +31713,7 @@
         "clarity_nt_char_3515": "clarity_nt_char_3515"
     },
     "10572": {
-        "こうげき力が|もとにもどった": ""
+        "こうげき力が|もとにもどった": "Attack returned|to normal."
     },
     "10573": {
         "clarity_nt_char_3516": "clarity_nt_char_3516"
@@ -32844,7 +32844,7 @@
         "clarity_nt_char_3644": "clarity_nt_char_3644"
     },
     "10949": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力アップの 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力アップの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack Up effect time extended!"
     },
     "10950": {
         "clarity_nt_char_3645": "clarity_nt_char_3645"
