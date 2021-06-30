@@ -25092,7 +25092,7 @@
         "clarity_nt_char_2778": "clarity_nt_char_2778"
     },
     "8365": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 会心と呪文ぼうそう率と ダメージがあがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 会心と呪文ぼうそう率と ダメージがあがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's critical/haywire damage up!"
     },
     "8366": {
         "ゆめみの竜箱が 必ず出現するようになった！": ""
