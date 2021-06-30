@@ -25335,7 +25335,7 @@
         "clarity_nt_char_2808": "clarity_nt_char_2808"
     },
     "8446": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文が 必ずぼうそうするようになった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文が 必ずぼうそうするようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spells are now all haywire!"
     },
     "8447": {
         "clarity_nt_char_2809": "clarity_nt_char_2809"
