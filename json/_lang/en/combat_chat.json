@@ -24801,7 +24801,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 炎耐性が さがった！": ""
     },
     "8268": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eはこうげき時に マヒしなくなった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eはこうげき時に マヒしなくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is no longer paralyzed when attacking!"
     },
     "8269": {
         "clarity_nt_char_2749": "clarity_nt_char_2749"
@@ -25434,7 +25434,7 @@
         "clarity_nt_char_2820": "clarity_nt_char_2820"
     },
     "8479": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力と 会心と呪文暴走率が あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力と 会心と呪文暴走率が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack and critical/haywire rate increased!"
     },
     "8480": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 守備力が さがっている！": ""
