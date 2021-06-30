@@ -29307,7 +29307,7 @@
         "炎耐性がさがった！": ""
     },
     "9770": {
-        "こうげき時に|マヒしなくなった！": ""
+        "こうげき時に|マヒしなくなった！": "No longer paralyzed|when attacking!"
     },
     "9771": {
         "clarity_nt_char_3250": "clarity_nt_char_3250"
@@ -29658,7 +29658,7 @@
         "clarity_nt_char_3288": "clarity_nt_char_3288"
     },
     "9887": {
-        "こうげき力がへった！": ""
+        "こうげき力がへった！": "Attack decreased!"
     },
     "9888": {
         "clarity_nt_char_3289": "clarity_nt_char_3289"
@@ -29940,7 +29940,7 @@
         "clarity_nt_char_3318": "clarity_nt_char_3318"
     },
     "9981": {
-        "こうげき力と会心率が|強化された！": ""
+        "こうげき力と会心率が|強化された！": "Attack/critical rate|powered up!"
     },
     "9982": {
         "守備力が|さがっている！": ""
@@ -30696,7 +30696,7 @@
         "clarity_nt_char_3404": "clarity_nt_char_3404"
     },
     "10233": {
-        "こうげき力がアップした！": ""
+        "こうげき力がアップした！": "Attack increased!"
     },
     "10234": {
         "clarity_nt_char_3405": "clarity_nt_char_3405"
