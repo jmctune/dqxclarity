@@ -25986,7 +25986,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 攻撃時に 呪いをかけるようになった！": ""
     },
     "8663": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eへの こうげきを命令した！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eへの こうげきを命令した！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e ordered an attack!"
     },
     "8664": {
         "clarity_nt_char_2889": "clarity_nt_char_2889"
