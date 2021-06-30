@@ -4056,10 +4056,10 @@
         "clarity_nt_char_454": "clarity_nt_char_454"
     },
     "1353": {
-        "ヤリ装備時の|こうげき力が|２５増える": "Attack +25|when Spear|equipped."
+        "ヤリ装備時の|こうげき力が|２５増える": "Attack +25|when a Spear|is equipped."
     },
     "1354": {
-        "ヤリ装備時の|こうげき力が|３０増える": "Attack +30|when Spear|equipped."
+        "ヤリ装備時の|こうげき力が|３０増える": "Attack +30|when a Spear|is equipped."
     },
     "1355": {
         "強力な突きで|うまく当たれば|会心のいちげき": ""
@@ -4074,16 +4074,16 @@
         "攻撃時に５％で|テンションが|あがるようになる": "5% chance to|gain tension on|an attack."
     },
     "1359": {
-        "テンション時の|ダメージが|３００増える": ""
+        "テンション時の|ダメージが|３００増える": "Damage during|tension increased|by 300."
     },
     "1360": {
         "clarity_nt_char_456": "clarity_nt_char_456"
     },
     "1361": {
-        "ブーメラン装備時|こうげき力が|５０増える": "Attack +50|when Boomerang|equipped."
+        "ブーメラン装備時|こうげき力が|５０増える": "Attack +50|when a Boomerang|is equipped."
     },
     "1362": {
-        "ブーメラン装備時|きようさが|１００増える": ""
+        "ブーメラン装備時|きようさが|１００増える": "Deftness +100|when a Boomerang|is equipped."
     },
     "1363": {
         "ブーメラン装備時|状態異常成功率が|あがる": ""
