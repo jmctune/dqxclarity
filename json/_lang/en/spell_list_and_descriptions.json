@@ -4116,7 +4116,7 @@
         "clarity_nt_char_460": "clarity_nt_char_460"
     },
     "1373": {
-        "片手剣装備時の|こうげき力が|３０増える": "Attack +30|when Sword|equipped."
+        "片手剣装備時の|こうげき力が|３０増える": "Attack +30|when a Sword|is equipped."
     },
     "1374": {
         "clarity_nt_char_461": "clarity_nt_char_461"
@@ -4134,7 +4134,7 @@
         "ドルマ系の呪文の|威力があがる": "Zam-type spell damage increased"
     },
     "1379": {
-        "扇装備時の|こうげき魔力が|６０増える": "Magical might +60|when Fan|equipped."
+        "扇装備時の|こうげき魔力が|６０増える": "Mag. Might +60|when a Fan|is equipped."
     },
     "1380": {
         "行動時に５％で|聖なる祈りが|かかる": ""
@@ -4149,7 +4149,7 @@
         "攻撃時に２５％で|一定時間の間|呪文が暴走する": "25% chance on|attack to boost|haywire rate."
     },
     "1384": {
-        "ツメ装備時の|こうげき力が|３０増える": "Attack +30|when Claws|equipped."
+        "ツメ装備時の|こうげき力が|３０増える": "Attack +30|when Claws|are equipped."
     },
     "1385": {
         "攻撃時たまに|相手が攻撃呪文に|弱くなる": "Rarely lowers|spell resistance|on an attack."
@@ -4164,7 +4164,7 @@
         "敵１体を切り裂き|与えるダメージも|増加させる": ""
     },
     "1389": {
-        "ツメ装備時の|こうげき力が|４０増える": "Attack +40|when Claws|equipped."
+        "ツメ装備時の|こうげき力が|４０増える": "Attack +40|when Claws|are equipped."
     },
     "1390": {
         "攻撃時たまに|相手のこうげき力|を下げる": "Rarely lowers|attack on|an attack."
@@ -4173,10 +4173,10 @@
         "clarity_nt_char_465": "clarity_nt_char_465"
     },
     "1392": {
-        "ハンマー装備時の|こうげき力が|２０増える": "Attack +20|when Hammer|equipped."
+        "ハンマー装備時の|こうげき力が|２０増える": "Attack +20|when a Hammer|is equipped."
     },
     "1393": {
-        "ハンマー装備時の|かいしん率が|４％増える": "Critical Rate +4%|when Hammer|equipped."
+        "ハンマー装備時の|かいしん率が|４％増える": "Critical Rate +4%|when a Hammer|is equipped."
     },
     "1394": {
         "ハンマー装備時の|５．０％の確率で|ターン消費しない": ""
@@ -4191,7 +4191,7 @@
         "ハンマー装備時の|状態異常成功率が|あがる": ""
     },
     "1398": {
-        "鎌装備時の|こうげき力が|３０増える": "Attack +30|when Sickle|equipped."
+        "鎌装備時の|こうげき力が|３０増える": "Attack +30|when a Sickle|is equipped."
     },
     "1399": {
         "clarity_nt_char_467": "clarity_nt_char_467"
