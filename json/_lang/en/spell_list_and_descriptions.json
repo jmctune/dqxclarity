@@ -1851,7 +1851,7 @@
         "clarity_nt_char_203": "clarity_nt_char_203"
     },
     "618": {
-        "特技の回復量+100%": ""
+        "特技の回復量+100%": "Recovery Skill +100%"
     },
     "619": {
         "爪牙の陣": "Sap Circle"
@@ -1860,16 +1860,16 @@
         "clarity_nt_char_204": "clarity_nt_char_204"
     },
     "621": {
-        "行動時10%でヘビチャ": ""
+        "行動時10%でヘビチャ": "On Action Heavy Charge 10%"
     },
     "622": {
         "ガード時20%ダメ軽減": "20% Damage Down When Guard"
     },
     "623": {
-        "棍装備時に|４％で武器ガード|できるようになる": ""
+        "棍装備時に|４％で武器ガード|できるようになる": "Parry Rate +4%|when a Rod|is equipped."
     },
     "624": {
-        "呪文発動速度+8%": ""
+        "呪文発動速度+8%": "Spell Cast Speed +8%"
     },
     "625": {
         "ドルマ系呪文+5%": "Zam damage +5%"
