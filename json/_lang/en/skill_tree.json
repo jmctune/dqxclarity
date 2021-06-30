@@ -15366,7 +15366,7 @@
         "clarity_nt_char_1757": "clarity_nt_char_1757"
     },
     "5123": {
-        "オノ装備時の|こうげき力が|１０増える": "Attack +10|when Axe|equipped."
+        "オノ装備時の|こうげき力が|１０増える": "Attack +10|when an Axe|is equipped."
     },
     "5124": {
         "オノ装備時の|かいしん率が|１％増える": "Critical Rate +1%|when Axe|equipped."
@@ -15432,31 +15432,31 @@
         "clarity_nt_char_1764": "clarity_nt_char_1764"
     },
     "5145": {
-        "ヤリ装備時の|こうげき力が|１０増える": "Attack +10|when Spear|equipped."
+        "ヤリ装備時の|こうげき力が|１０増える": "Attack +10|when a Spear|is equipped."
     },
     "5146": {
-        "ヤリ装備時の|かいしん率が|１％増える": "Critical Rate +1%|when Spear|equipped."
+        "ヤリ装備時の|かいしん率が|１％増える": "Critical Rate +1%|when a Spear|is equipped."
     },
     "5147": {
-        "ヤリ装備時の|かいしん率が|１．２％増える": "Critical Rate +1.2%|when Spear|equipped."
+        "ヤリ装備時の|かいしん率が|１．２％増える": "Critical Rate +1.2%|when a Spear|is equipped."
     },
     "5148": {
-        "ヤリ装備時の|かいしん率が|１．５％増える": "Critical Rate +1.5%|when Spear|equipped."
+        "ヤリ装備時の|かいしん率が|１．５％増える": "Critical Rate +1.5%|when a Spear|is equipped."
     },
     "5149": {
-        "ヤリ装備時の|武器ガード率が|１％増える": "Parry Rate +1%|when Spear|equipped."
+        "ヤリ装備時の|武器ガード率が|１％増える": "Parry Rate +1%|when a Spear|is equipped."
     },
     "5150": {
         "clarity_nt_char_1765": "clarity_nt_char_1765"
     },
     "5151": {
-        "ヤリ装備時の|武器ガード率が|１．２％増える": "Parry Rate +1.2%|when Spear|equipped."
+        "ヤリ装備時の|武器ガード率が|１．２％増える": "Parry Rate +1.2%|when a Spear|is equipped."
     },
     "5152": {
         "clarity_nt_char_1766": "clarity_nt_char_1766"
     },
     "5153": {
-        "ヤリ装備時の|武器ガード率が|１．５％増える": "Parry Rate +1.5%|when Spear|equipped."
+        "ヤリ装備時の|武器ガード率が|１．５％増える": "Parry Rate +1.5%|when a Spear|is equipped."
     },
     "5154": {
         "clarity_nt_char_1767": "clarity_nt_char_1767"
@@ -16104,7 +16104,7 @@
         "前方の敵集団を|真空のやいばで|斬りつける": ""
     },
     "5369": {
-        "格闘の時の|こうげき力が|１０増える": "Attack +10|when Fist|equipped."
+        "格闘の時の|こうげき力が|１０増える": "Attack +10|when fighting|bare-handed."
     },
     "5370": {
         "clarity_nt_char_1832": "clarity_nt_char_1832"

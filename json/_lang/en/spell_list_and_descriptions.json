@@ -369,7 +369,7 @@
         "さいだいＨＰ+10": "Max HP +10"
     },
     "124": {
-        "オノ装備時の|こうげき力が|１０増える": "Attack +10|when Axe|equipped."
+        "オノ装備時の|こうげき力が|１０増える": "Attack +10|when an Axe|is equipped."
     },
     "125": {
         "足ばらい": "Leg Sweep"
@@ -606,7 +606,7 @@
         "clarity_nt_char_71": "clarity_nt_char_71"
     },
     "203": {
-        "格闘の時の|こうげき力が|１０増える": "Attack +10|when Fist|equipped."
+        "格闘の時の|こうげき力が|１０増える": "Attack +10|when fighting|bare-handed."
     },
     "204": {
         "clarity_nt_char_72": "clarity_nt_char_72"
@@ -645,7 +645,7 @@
         "clarity_nt_char_75": "clarity_nt_char_75"
     },
     "216": {
-        "ヤリ装備時の|こうげき力が|１０増える": "Attack +10|when Spear|equipped."
+        "ヤリ装備時の|こうげき力が|１０増える": "Attack +10|when a Spear|is equipped."
     },
     "217": {
         "ブレードガード": "Greatsword Guard"
