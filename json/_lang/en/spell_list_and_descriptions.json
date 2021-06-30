@@ -1833,7 +1833,7 @@
         "clarity_nt_char_200": "clarity_nt_char_200"
     },
     "612": {
-        "スティック装備で|戦闘に勝つと|ＭＰが大回復する": "Restore large amount|of MP when battle|won & wand equipped"
+        "スティック装備で|戦闘に勝つと|ＭＰが大回復する": "Restores big|MP after battle|with a Wand."
     },
     "613": {
         "clarity_nt_char_201": "clarity_nt_char_201"
@@ -1872,7 +1872,7 @@
         "呪文発動速度+8%": "Spell Cast Speed +8%"
     },
     "625": {
-        "ドルマ系呪文+5%": "Zam damage +5%"
+        "ドルマ系呪文+5%": "Zam Spells +5%"
     },
     "626": {
         "こうげき魔力+60": "Magical Might +60"
@@ -1923,7 +1923,7 @@
         "clarity_nt_char_208": "clarity_nt_char_208"
     },
     "642": {
-        "バギ系呪文+100%": "Swoosh damage +100%"
+        "バギ系呪文+100%": "Swoosh Spells +100%"
     },
     "643": {
         "clarity_nt_char_209": "clarity_nt_char_209"
