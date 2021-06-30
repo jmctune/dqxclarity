@@ -3459,13 +3459,13 @@
         "天下無双の|６回攻撃|バトマス専用特技": ""
     },
     "1154": {
-        "バトマス時|ちからが|１０増える": "Strength +10 As Battlemaster"
+        "バトマス時|ちからが|１０増える": "Strength +10|when a|Battlemaster."
     },
     "1155": {
         "clarity_nt_char_386": "clarity_nt_char_386"
     },
     "1156": {
-        "バトマス時|きようさが|３０増える": "Deftness +30 As Battlemaster"
+        "バトマス時|きようさが|３０増える": "Deftness +30|when a|Battlemaster."
     },
     "1157": {
         "なぐられると|テンションアップ|バトマス専用特技": ""
@@ -3516,7 +3516,7 @@
         "clarity_nt_char_393": "clarity_nt_char_393"
     },
     "1173": {
-        "戦士時|ちからが|１０増える": ""
+        "戦士時|ちからが|１０増える": "Strength +10|when a|Warrior."
     },
     "1174": {
         "clarity_nt_char_394": "clarity_nt_char_394"
@@ -3558,7 +3558,7 @@
         "仲間ひとりと|ＨＰを分かち合う|まもの使い専用": ""
     },
     "1187": {
-        "全職業で|さいだいＨＰが|１０増える": ""
+        "全職業で|さいだいＨＰが|１０増える": "Max HP +10|when equipped."
     },
     "1188": {
         "clarity_nt_char_398": "clarity_nt_char_398"
