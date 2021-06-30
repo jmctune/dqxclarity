@@ -21057,7 +21057,7 @@
         "clarity_nt_char_2346": "clarity_nt_char_2346"
     },
     "7020": {
-        "範囲内にいる|仲間のＨＰを|大幅に回復する": "Restore|Med. HP|to nearby allies"
+        "範囲内にいる|仲間のＨＰを|大幅に回復する": "Restore|large HP|to nearby allies."
     },
     "7021": {
         "会心攻撃が|必ず出る|夢の大技！": ""
@@ -21165,7 +21165,7 @@
         "敵１体に雷の竜で|大ダメージを与え|風耐性も下げる": "A thunder attack|that lowers|wind resistance."
     },
     "7056": {
-        "範囲内の敵に|風の刃で２回攻撃|雷耐性も下げる": ""
+        "範囲内の敵に|風の刃で２回攻撃|雷耐性も下げる": "Area of wind hits|twice. Lowers|lightning resist."
     },
     "7057": {
         "すばやく呪文を|唱えられ|必ず呪文が暴走！": ""
