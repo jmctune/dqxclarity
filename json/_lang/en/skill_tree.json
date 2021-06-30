@@ -15291,7 +15291,7 @@
         "clarity_nt_char_1746": "clarity_nt_char_1746"
     },
     "5098": {
-        "両手剣装備時の|かいしん率が|１．５％増える": "Critical Rate +1.5%|when Claymore|equipped."
+        "両手剣装備時の|かいしん率が|１．５％増える": "Crit. Rate +1.5%|when a Claymore|is equipped."
     },
     "5099": {
         "clarity_nt_char_1747": "clarity_nt_char_1747"
@@ -15372,10 +15372,10 @@
         "オノ装備時の|かいしん率が|１％増える": "Critical Rate +1%|when Axe|equipped."
     },
     "5125": {
-        "オノ装備時の|かいしん率が|１．２％増える": "Critical Rate +1.2%|when Axe|equipped."
+        "オノ装備時の|かいしん率が|１．２％増える": "Crit. Rate +1.2%|when an Axe|is equipped."
     },
     "5126": {
-        "オノ装備時の|かいしん率が|１．５％増える": "Critical Rate +1.5%|when Axe|equipped."
+        "オノ装備時の|かいしん率が|１．５％増える": "Crit. Rate +1.5%|when an Axe|is equipped."
     },
     "5127": {
         "オノ装備時|さいだいＭＰが|２０増える": ""
@@ -15438,10 +15438,10 @@
         "ヤリ装備時の|かいしん率が|１％増える": "Critical Rate +1%|when a Spear|is equipped."
     },
     "5147": {
-        "ヤリ装備時の|かいしん率が|１．２％増える": "Critical Rate +1.2%|when a Spear|is equipped."
+        "ヤリ装備時の|かいしん率が|１．２％増える": "Crit. Rate +1.2%|when a Spear|is equipped."
     },
     "5148": {
-        "ヤリ装備時の|かいしん率が|１．５％増える": "Critical Rate +1.5%|when a Spear|is equipped."
+        "ヤリ装備時の|かいしん率が|１．５％増える": "Crit. Rate +1.5%|when a Spear|is equipped."
     },
     "5149": {
         "ヤリ装備時の|武器ガード率が|１％増える": "Parry Rate +1%|when a Spear|is equipped."
@@ -15504,13 +15504,13 @@
         "clarity_nt_char_1771": "clarity_nt_char_1771"
     },
     "5169": {
-        "棍装備時の|かいしん率が|１．２％増える": "Critical Rate +1.2%|when Rod|equipped."
+        "棍装備時の|かいしん率が|１．２％増える": "Crit. Rate +1.2%|when a Rod|is equipped."
     },
     "5170": {
         "clarity_nt_char_1772": "clarity_nt_char_1772"
     },
     "5171": {
-        "棍装備時の|かいしん率が|１．５％増える": "Critical Rate +1.5%|when Rod|equipped."
+        "棍装備時の|かいしん率が|１．５％増える": "Crit. Rate +1.5%|when a Rod|is equipped."
     },
     "5172": {
         "clarity_nt_char_1773": "clarity_nt_char_1773"
@@ -15558,7 +15558,7 @@
         "ムチ装備時の|かいしん率が|１％増える": "Critical Rate +1%|when Whip|equipped."
     },
     "5187": {
-        "ムチ装備時の|かいしん率が|１．２％増える": "Critical Rate +1.2%|when Whip|equipped."
+        "ムチ装備時の|かいしん率が|１．２％増える": "Crit. Rate +1.2%|when a Whip|is equipped."
     },
     "5188": {
         "ムチ装備時の|かいしん率が|１．５％増える": "Critical Rate +1.5%|when Whip|equipped."
