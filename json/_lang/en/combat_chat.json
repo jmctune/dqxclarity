@@ -21006,7 +21006,7 @@
         "ＨＰ回復する|魔法陣を作る|どうぐ使い専用": "A magic circle|that gradually|restores HP."
     },
     "7003": {
-        "悪い効果を|すべて解除する|どうぐ使い専用": ""
+        "悪い効果を|すべて解除する|どうぐ使い専用": "Removes all bad|statuses from|nearby allies."
     },
     "7004": {
         "周囲の仲間を|われに返す|旅芸人専用特技": "Removes most bad|statuses from|all allies."
@@ -21114,7 +21114,7 @@
         "clarity_nt_char_2351": "clarity_nt_char_2351"
     },
     "7039": {
-        "会心率アップと|ダメージアップの|魔法陣を作る！": ""
+        "会心率アップと|ダメージアップの|魔法陣を作る！": "A magic circle|that boosts|haywire/damage."
     },
     "7040": {
         "clarity_nt_char_2352": "clarity_nt_char_2352"
