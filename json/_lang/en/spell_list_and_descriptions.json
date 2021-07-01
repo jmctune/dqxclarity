@@ -4554,13 +4554,13 @@
         "攻撃時与ダメ低下+5%": "On Attack Dmg. Done ↓+5%"
     },
     "1519": {
-        "戦闘勝利時ＭＰ大回復": ""
+        "戦闘勝利時ＭＰ大回復": "Large MP Recovery After Battle"
     },
     "1520": {
         "clarity_nt_char_508": "clarity_nt_char_508"
     },
     "1521": {
-        "呪文暴走率+1%": ""
+        "呪文暴走率+1%": "Haywire Rate +1%"
     },
     "1522": {
         "clarity_nt_char_509": "clarity_nt_char_509"
@@ -4575,7 +4575,7 @@
         "さいだいＭＰ+60": "Max MP +60"
     },
     "1526": {
-        "呪文発動速度+3%": ""
+        "呪文発動速度+3%": "Spell Cast Speed +3%"
     },
     "1527": {
         "行動時5%移動アップ": ""
