@@ -23262,25 +23262,25 @@
         "clarity_nt_char_2653": "clarity_nt_char_2653"
     },
     "7755": {
-        "短剣装備時の|こうげき魔力が|２０増える": "Attack +20|when Dagger|equipped."
+        "短剣装備時の|こうげき魔力が|２０増える": "Mag. Might +20|when a Dagger|is equipped."
     },
     "7756": {
         "clarity_nt_char_2654": "clarity_nt_char_2654"
     },
     "7757": {
-        "短剣装備時の|こうげき魔力が|３０増える": "Attack +30|when Dagger|equipped."
+        "短剣装備時の|こうげき魔力が|３０増える": "Mag. Might +30|when a Dagger|is equipped."
     },
     "7758": {
         "clarity_nt_char_2655": "clarity_nt_char_2655"
     },
     "7759": {
-        "短剣装備時の|こうげき魔力が|４０増える": "Attack +40|when Dagger|equipped."
+        "短剣装備時の|こうげき魔力が|４０増える": "Mag. Might +40|when a Dagger|is equipped."
     },
     "7760": {
         "clarity_nt_char_2656": "clarity_nt_char_2656"
     },
     "7761": {
-        "短剣装備時の|呪文ぼうそう率が|１％増える": ""
+        "短剣装備時の|呪文ぼうそう率が|１％増える": "Haywire Rate +1%|when a Dagger|is equipped."
     },
     "7762": {
         "短剣装備時の|呪文ぼうそう率が|１．２％増える": ""
@@ -23295,10 +23295,10 @@
         "clarity_nt_char_2657": "clarity_nt_char_2657"
     },
     "7766": {
-        "短剣装備時の|ダメージが|１００増える": ""
+        "短剣装備時の|ダメージが|１００増える": "Damage +100|when a Dagger|is equipped."
     },
     "7767": {
-        "短剣装備時の|ダメージが|１５０増える": ""
+        "短剣装備時の|ダメージが|１５０増える": "Damage +150|when a Dagger|is equipped."
     },
     "7768": {
         "短剣装備時|毒や眠り相手に|暴走率＋１０％": ""
