@@ -963,7 +963,7 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>位の ワールドレコードを記録した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e recorded a World Record value of Rank <%dB_VALUE>!"
     },
     "322": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>位で ワールドレコードに登録した！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>位で ワールドレコードに登録した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e registered in the World Record at Rank <%dB_VALUE>!"
     },
     "323": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>位に 匿名で ワールドレコードに登録した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e anonymously recorded their Rank <%dB_VALUE> World Record!"
