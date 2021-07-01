@@ -123,10 +123,10 @@
         "clarity_nt_char_15": "clarity_nt_char_15"
     },
     "42": {
-        "縦横２マスにある|上下の具材を|入れ替える": ""
+        "縦横２マスにある|上下の具材を|入れ替える": "Swap upper and|lower ingredients|diagonally."
     },
     "43": {
-        "縦横２マスにある|左右の具材を|入れ替える": ""
+        "縦横２マスにある|左右の具材を|入れ替える": "Swap right and|left ingredients|diagonally."
     },
     "44": {
         "フライパンを振り|上の列の具材を|下の列まで飛ばす": ""
