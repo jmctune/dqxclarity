@@ -108,7 +108,7 @@
         "<%sB_TARGET_RPL>を|なだめた！": "Soothes|<%sB_TARGET_RPL>!"
     },
     "37": {
-        "まもりのきりを|よびよせた": "Calls forth|a protective|mist!"
+        "まもりのきりを|よびよせた": "Called forth a|protective mist!"
     },
     "38": {
         "ボディーガードを|呼んだ！": "Calls a|bodyguard!"
@@ -18057,7 +18057,7 @@
         "死霊の導き": ""
     },
     "6020": {
-        "死霊の守り": ""
+        "死霊の守り": "Spirit Defense"
     },
     "6021": {
         "崩落する大岩": ""
