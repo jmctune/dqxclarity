@@ -1,6 +1,6 @@
 {
     "1": {
-        "このまま焼く": "Bake as is"
+        "このまま焼く": "Bake As Is"
     },
     "2": {
         "clarity_nt_char_1": "clarity_nt_char_1"
@@ -9,7 +9,7 @@
         "具材ムーブ": "Ingredient Move"
     },
     "4": {
-        "ななめムーブ": "Oblique Move"
+        "ななめムーブ": "Diagonal Move"
     },
     "5": {
         "clarity_nt_char_2": "clarity_nt_char_2"
@@ -111,13 +111,13 @@
         "ななめのマスに|具材を移動する": "Move ingredients|diagonally"
     },
     "38": {
-        "縦２マスにある|上下の具材を|入れ替える": ""
+        "縦２マスにある|上下の具材を|入れ替える": "Swap upper and|lower in two|squares."
     },
     "39": {
         "clarity_nt_char_14": "clarity_nt_char_14"
     },
     "40": {
-        "横２マスにある|左右の具材を|入れ替える": ""
+        "横２マスにある|左右の具材を|入れ替える": "Swap the left|and right in|two squares."
     },
     "41": {
         "clarity_nt_char_15": "clarity_nt_char_15"
