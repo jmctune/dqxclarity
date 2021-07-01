@@ -435,7 +435,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eへの返事を しませんでした": ""
     },
     "146": {
-        "この階から 魔物が いなくなりました": ""
+        "この階から 魔物が いなくなりました": "There are no monsters left on this floor."
     },
     "147": {
         "clarity_nt_char_46": "clarity_nt_char_46"
