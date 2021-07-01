@@ -4089,7 +4089,7 @@
         "ブーメラン装備時|状態異常成功率が|あがる": "Bad effect|success up with|a Boomerang."
     },
     "1364": {
-        "ブーメラン装備時|戦闘中のチャージ|時間を２０秒短縮": ""
+        "ブーメラン装備時|戦闘中のチャージ|時間を２０秒短縮": "CT Skill -20s|when a Boomerang|is equipped."
     },
     "1365": {
         "clarity_nt_char_457": "clarity_nt_char_457"
@@ -4101,7 +4101,7 @@
         "clarity_nt_char_458": "clarity_nt_char_458"
     },
     "1368": {
-        "片手剣装備時に|２％で武器ガード|できるようになる": ""
+        "片手剣装備時に|２％で武器ガード|できるようになる": "Parry Rate +2%|when a Sword|is equipped."
     },
     "1369": {
         "片手剣装備時の|かいしん率が|４％増える": "Critical Rate +4%|when a Sword|is equipped."
@@ -4122,10 +4122,10 @@
         "clarity_nt_char_461": "clarity_nt_char_461"
     },
     "1375": {
-        "行動時に１０％で|ヘヴィチャージが|かかる": ""
+        "行動時に１０％で|ヘヴィチャージが|かかる": "10% chance to|gain Heavy Charge|on action."
     },
     "1376": {
-        "ガード時２０％で|被ダメを軽減する|効果がかかる": ""
+        "ガード時２０％で|被ダメを軽減する|効果がかかる": "20% chance on|guard to reduce|damage taken."
     },
     "1377": {
         "clarity_nt_char_462": "clarity_nt_char_462"
