@@ -9,7 +9,7 @@
         "<speed=0><%sM_item>を　使う相手が　いない！": "<speed=0>I have no one to use <%sM_item> on!"
     },
     "4": {
-        "<speed=0>ＭＰが　足りない！": "<speed=0>We're out of MP!"
+        "<speed=0>ＭＰが　足りない！": "<speed=0>Not enough MP!"
     },
     "5": {
         "clarity_nt_char_2": "clarity_nt_char_2"
