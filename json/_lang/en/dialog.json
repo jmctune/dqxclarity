@@ -4293,7 +4293,7 @@
         "<speed=0>このマップから出るのを　やめますか？<yesno 2><close>": ""
     },
     "1432": {
-        "<speed=0>このマップから出て　元の場所に|戻って　よいですか？<yesno><close>": ""
+        "<speed=0>このマップから出て　元の場所に|戻って　よいですか？<yesno><close>": "<speed=0>Do you want to leave this place?<yesno><close>"
     },
     "1433": {
         "アンルシアの|スキルや作戦を|設定します": "Set Anlucia's|skills and|battle strategy."
