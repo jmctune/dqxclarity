@@ -1212,7 +1212,7 @@
         "clarity_nt_char_131": "clarity_nt_char_131"
     },
     "405": {
-        "呪文と特技の回復量 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "呪文と特技の回復量 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Spell & Skill Recovery +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "406": {
         "clarity_nt_char_132": "clarity_nt_char_132"
@@ -6183,7 +6183,7 @@
         "clarity_nt_char_682": "clarity_nt_char_682"
     },
     "2062": {
-        "呪文と特技の回復量？倍": ""
+        "呪文と特技の回復量？倍": "Spell & Skill Recovery ?x"
     },
     "2063": {
         "たまに　ダメージを受けてテンションアップ": ""
