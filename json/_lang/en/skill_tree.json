@@ -16047,13 +16047,13 @@
         "clarity_nt_char_1826": "clarity_nt_char_1826"
     },
     "5350": {
-        "ハンマー装備時の|こうげき力が|５増える": "Attack +5|when Hammer|equipped."
+        "ハンマー装備時の|こうげき力が|５増える": "Attack +5|when a Hammer|is equipped."
     },
     "5351": {
         "clarity_nt_char_1827": "clarity_nt_char_1827"
     },
     "5352": {
-        "ハンマー装備時の|こうげき力が|８増える": "Attack +8|when Hammer|equipped."
+        "ハンマー装備時の|こうげき力が|８増える": "Attack +8|when a Hammer|is equipped."
     },
     "5353": {
         "clarity_nt_char_1828": "clarity_nt_char_1828"
@@ -16182,7 +16182,7 @@
         "飛んでいる敵への|ダメージが|１５％増える": "Damage to flying|enemies increased|by 15%."
     },
     "5395": {
-        "ダメージが８％|かいしん率が１％|増える": ""
+        "ダメージが８％|かいしん率が１％|増える": "Damage increased|by 8%/critical|rate by 1%."
     },
     "5396": {
         "clarity_nt_char_1840": "clarity_nt_char_1840"
@@ -16260,19 +16260,19 @@
         "clarity_nt_char_1850": "clarity_nt_char_1850"
     },
     "5421": {
-        "スティック装備時|ダメージが|１％増える": ""
+        "スティック装備時|ダメージが|１％増える": "Damage +1%|when a Wand|is equipped."
     },
     "5422": {
         "clarity_nt_char_1851": "clarity_nt_char_1851"
     },
     "5423": {
-        "スティック装備時|ダメージが|２％増える": ""
+        "スティック装備時|ダメージが|２％増える": "Damage +2%|when a Wand|is equipped."
     },
     "5424": {
         "clarity_nt_char_1852": "clarity_nt_char_1852"
     },
     "5425": {
-        "スティック装備時|ダメージが|３％増える": ""
+        "スティック装備時|ダメージが|３％増える": "Damage +3%|when a Wand|is equipped."
     },
     "5426": {
         "clarity_nt_char_1853": "clarity_nt_char_1853"
