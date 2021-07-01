@@ -3789,7 +3789,7 @@
         "手札の左側２枚の|タロットを投げる|占い師専用特技": "Throw the 2|left cards in|your hand."
     },
     "1264": {
-        "全手札をひき直し|身かわし率アップ|占い師専用特技": ""
+        "全手札をひき直し|身かわし率アップ|占い師専用特技": "Redraw your hand|and increases|dodge rate."
     },
     "1265": {
         "占い師時|さいだいＭＰが|２０増える": "Max MP +20|when you are a|Fortune Teller."
@@ -3798,7 +3798,7 @@
         "clarity_nt_char_424": "clarity_nt_char_424"
     },
     "1267": {
-        "エンゼルスライム|を手札に移動する|占い師専用特技": ""
+        "エンゼルスライム|を手札に移動する|占い師専用特技": "Places an Angel|Slime card into|your hand."
     },
     "1268": {
         "タロット使用時|テンションを|たまに維持する": ""
