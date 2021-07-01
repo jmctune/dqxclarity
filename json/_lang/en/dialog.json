@@ -8697,7 +8697,7 @@
         "手紙が　ひとつも　選択されていません。": ""
     },
     "2900": {
-        "<%sM_JOB>の<%sM_SKILL_LINE>に|ポイントを　振った！": ""
+        "<%sM_JOB>の<%sM_SKILL_LINE>に|ポイントを　振った！": "Allocated points into <%sM_JOB>|<%sM_SKILL_LINE>!"
     },
     "2901": {
         "clarity_nt_char_977": "clarity_nt_char_977"
