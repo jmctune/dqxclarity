@@ -129,16 +129,16 @@
         "<%sB_TARGET_RPL>にいいね！": "Liked <%sB_TARGET_RPL>!"
     },
     "44": {
-        "<%sB_TARGET_RPL>の|仲間を呼んだ！": ""
+        "<%sB_TARGET_RPL>の|仲間を呼んだ！": "<%sB_TARGET_RPL> called|for backup!"
     },
     "45": {
         "<%sB_TARGET_RPL>をなでた！": "<%sB_TARGET_RPL> was stroked!"
     },
     "46": {
-        "<%sB_TARGET_RPL>を|かわいがった！": ""
+        "<%sB_TARGET_RPL>を|かわいがった！": "Loved|<%sB_TARGET_RPL>!"
     },
     "47": {
-        "ぼーっとしている": ""
+        "ぼーっとしている": "Spacing out..."
     },
     "48": {
         "clarity_nt_char_13": "clarity_nt_char_13"
