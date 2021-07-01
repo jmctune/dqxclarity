@@ -20616,7 +20616,7 @@
         "聖なる光で|ダメージを与える|僧侶専用特技": "Damages an enemy|with holy light."
     },
     "6873": {
-        "ＨＰが２以上で|即死をまぬがれる|僧侶専用特技": ""
+        "ＨＰが２以上で|即死をまぬがれる|僧侶専用特技": "Avoid fatal|damage if HP is|2 or more."
     },
     "6874": {
         "魔法の結界で|攻撃呪文から|自分の身を守る": "Raise your spell|resistance with|a magic ward."
@@ -21096,7 +21096,7 @@
         "神の息吹で|呪文の詠唱時間が|大幅短縮される！": "Greatly increases|spell casting|speed!"
     },
     "7033": {
-        "みんなのＨＰと|悪い効果を|一気に回復！": ""
+        "みんなのＨＰと|悪い効果を|一気に回復！": "Recover allies'|HP and bad|status effects!"
     },
     "7034": {
         "clarity_nt_char_2350": "clarity_nt_char_2350"
