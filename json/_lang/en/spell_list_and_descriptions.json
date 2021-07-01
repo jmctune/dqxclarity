@@ -4680,10 +4680,10 @@
         "clarity_nt_char_522": "clarity_nt_char_522"
     },
     "1561": {
-        "ムチ装備時の|行動間隔が|少し短くなる": ""
+        "ムチ装備時の|行動間隔が|少し短くなる": "Action interval|down slightly|with a Whip."
     },
     "1562": {
-        "ムチ装備時|戦闘中のチャージ|時間を１０秒短縮": ""
+        "ムチ装備時|戦闘中のチャージ|時間を１０秒短縮": "CT Skill -10s|when a Whip|is equipped."
     },
     "1563": {
         "ムチ装備時の|特技ダメージが|１５０増える": "Skill Damage +150|when a Whip|is equipped."
@@ -4695,19 +4695,19 @@
         "clarity_nt_char_523": "clarity_nt_char_523"
     },
     "1566": {
-        "呪文発動速度+4%": ""
+        "呪文発動速度+4%": "Spell Cast Speed +4%"
     },
     "1567": {
         "ガード時50%で早詠み": "When Guard 50% Cast Spd Up"
     },
     "1568": {
-        "ＭＰ吸収率+6%": ""
+        "ＭＰ吸収率+6%": "MP Absorb Rate +6%"
     },
     "1569": {
         "clarity_nt_char_524": "clarity_nt_char_524"
     },
     "1570": {
-        "呪文暴走率+2%": ""
+        "呪文暴走率+2%": "Haywire Rate +2%"
     },
     "1571": {
         "clarity_nt_char_525": "clarity_nt_char_525"
