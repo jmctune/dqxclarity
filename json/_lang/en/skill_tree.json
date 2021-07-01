@@ -2919,7 +2919,7 @@
         "ビーストファングⅡ": ""
     },
     "974": {
-        "片手剣装備時の　こうげき力が　５　増えた！": "Attack +5 when Sword equipped!"
+        "片手剣装備時の　こうげき力が　５　増えた！": "Attack +5 when a Sword is equipped!"
     },
     "975": {
         "ドラゴン斬りの特技を　おぼえた！": "You learned Dragon Slash!"
@@ -2937,7 +2937,7 @@
         "ミラクルソードの特技を　おぼえた！": "You learned Miracle Slash!"
     },
     "980": {
-        "片手剣装備時の　こうげき力が　１０　増えた！": "Attack +10 when Sword equipped!"
+        "片手剣装備時の　こうげき力が　１０　増えた！": "Attack +10 when a Sword is equipped!"
     },
     "981": {
         "clarity_nt_char_331": "clarity_nt_char_331"
@@ -2952,7 +2952,7 @@
         "片手剣装備時に　武器ガードが|できるようになった！": ""
     },
     "985": {
-        "片手剣装備時の　こうげき力が　１５　増えた！": "Attack +15 when Sword equipped!"
+        "片手剣装備時の　こうげき力が　１５　増えた！": "Attack +15 when a Sword is equipped!"
     },
     "986": {
         "clarity_nt_char_333": "clarity_nt_char_333"
@@ -4344,13 +4344,13 @@
         "clarity_nt_char_493": "clarity_nt_char_493"
     },
     "1449": {
-        "片手剣装備時の　こうげき力が　２０　増えた！": "Attack +20 when Sword equipped!"
+        "片手剣装備時の　こうげき力が　２０　増えた！": "Attack +20 when a Sword is equipped!"
     },
     "1450": {
         "clarity_nt_char_494": "clarity_nt_char_494"
     },
     "1451": {
-        "片手剣装備時の　こうげき力が　３０　増えた！": "Attack +30 when Sword equipped!"
+        "片手剣装備時の　こうげき力が　３０　増えた！": "Attack +30 when a Sword is equipped!"
     },
     "1452": {
         "clarity_nt_char_495": "clarity_nt_char_495"
@@ -11730,7 +11730,7 @@
         "clarity_nt_char_1327": "clarity_nt_char_1327"
     },
     "3911": {
-        "片手剣装備時の　こうげき力が　８　増えた！": "Attack +8 when Sword equipped!"
+        "片手剣装備時の　こうげき力が　８　増えた！": "Attack +8 when a Sword is equipped!"
     },
     "3912": {
         "かえん斬りの威力が　あがった！": ""
@@ -15159,7 +15159,7 @@
         "clarity_nt_char_1730": "clarity_nt_char_1730"
     },
     "5054": {
-        "片手剣装備時の|かいしん率が|１％増える": "Critical Rate +1%|when Sword|equipped."
+        "片手剣装備時の|かいしん率が|１％増える": "Critical Rate +1%|when a Sword|is equipped."
     },
     "5055": {
         "clarity_nt_char_1731": "clarity_nt_char_1731"
@@ -15177,7 +15177,7 @@
         "clarity_nt_char_1733": "clarity_nt_char_1733"
     },
     "5060": {
-        "片手剣装備時の|武器ガード率が|１％増える": "Parry Rate +1%|when Sword|equipped."
+        "片手剣装備時の|武器ガード率が|１％増える": "Parry Rate +1%|when a Sword|is equipped."
     },
     "5061": {
         "片手剣装備時の|武器ガード率が|１．５％増える": "Parry Rate +1.5%|when Sword|equipped."
