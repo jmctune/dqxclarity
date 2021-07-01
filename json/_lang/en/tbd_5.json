@@ -237,7 +237,7 @@
         "旅人バザーで <%sM_item><%sM_plusnum>を <%dM_gold> Gで買った！": ""
     },
     "80": {
-        "<%sM_recipe>のレシピを おぼえた！": ""
+        "<%sM_recipe>のレシピを おぼえた！": "<%sM_recipe> recipe was memorized!"
     },
     "81": {
         "預かり所から <%sM_item><%sM_plusnum>を 取り出した。": "You took out <%sM_item><%sM_plusnum> from storage."
