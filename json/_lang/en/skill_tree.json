@@ -22569,7 +22569,7 @@
         "攻撃時　１０％の確率で|テンションが　あがるようになった！": ""
     },
     "7524": {
-        "両手杖装備時　呪文暴走の際の　ダメージが||増えるようになった！": ""
+        "両手杖装備時　呪文暴走の際の　ダメージが||増えるようになった！": "Haywire damage when you have|a Staff equipped is increased!"
     },
     "7525": {
         "clarity_nt_char_2570": "clarity_nt_char_2570"
@@ -22611,10 +22611,10 @@
         "clarity_nt_char_2574": "clarity_nt_char_2574"
     },
     "7538": {
-        "短剣装備時　眠っている相手に|呪文ダメージが　増えるようになった！": ""
+        "短剣装備時　眠っている相手に|呪文ダメージが　増えるようになった！": "Spell damage dealt to sleeping enemies|with a Dagger equipped is increased!"
     },
     "7539": {
-        "短剣装備時　毒の相手に|呪文ダメージが　増えるようになった！": ""
+        "短剣装備時　毒の相手に|呪文ダメージが　増えるようになった！": "Spell damage dealt to poisoned enemies|with a Dagger equipped is increased!"
     },
     "7540": {
         "clarity_nt_char_2575": "clarity_nt_char_2575"
@@ -23289,7 +23289,7 @@
         "短剣装備時の|呪文ぼうそう率が|１．５％増える": ""
     },
     "7764": {
-        "短剣装備時の|ダメージが|５０増える": ""
+        "短剣装備時の|ダメージが|５０増える": "Damage +50|when a Dagger|is equipped."
     },
     "7765": {
         "clarity_nt_char_2657": "clarity_nt_char_2657"
