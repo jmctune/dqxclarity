@@ -4287,7 +4287,7 @@
         "clarity_nt_char_480": "clarity_nt_char_480"
     },
     "1430": {
-        "<speed=0>今の仲間と続けて　今戦った|ボスとの戦いに　行きますか？|<select>|やめる|続ける|<select_end>|<close>": ""
+        "<speed=0>今の仲間と続けて　今戦った|ボスとの戦いに　行きますか？|<select>|やめる|続ける|<select_end>|<close>": "<speed=0>Do you want to stay and fight|the current boss?|<select>|Leave|Stay|<select_end>|<close>"
     },
     "1431": {
         "<speed=0>このマップから出るのを　やめますか？<yesno 2><close>": ""
