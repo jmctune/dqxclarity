@@ -2364,7 +2364,7 @@
         "コントローラーが|自動で切られる|時間を設定します": "Set time when|controller auto|turns off."
     },
     "789": {
-        "<speed=0>同じように　続けていく仲間は|仲間の状態が　維持されます。|続けて　魔法の迷宮に行きますか？<yesno><close>": ""
+        "<speed=0>同じように　続けていく仲間は|仲間の状態が　維持されます。|続けて　魔法の迷宮に行きますか？<yesno><close>": "<speed=0>You will stay with your current party.|Do you want to go the Magic|Maze?<yesno><close>"
     },
     "790": {
         "<speed=0>魔法の迷宮から出るのを　やめますか？<yesno><close>": ""
