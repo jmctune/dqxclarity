@@ -4761,13 +4761,13 @@
         "clarity_nt_char_531": "clarity_nt_char_531"
     },
     "1588": {
-        "眠りに呪文ダメアップ": ""
+        "眠りに呪文ダメアップ": "Spell Damage To Asleep Up"
     },
     "1589": {
         "clarity_nt_char_532": "clarity_nt_char_532"
     },
     "1590": {
-        "毒に呪文ダメアップ": ""
+        "毒に呪文ダメアップ": "Spell Damage To Poisoned Up"
     },
     "1591": {
         "闇のヴェール": "Dark Veil"
@@ -4782,7 +4782,7 @@
         "いてつくはどう": "Disruption Wave"
     },
     "1595": {
-        "扇装備時の|呪文発動速度が|早くなる": ""
+        "扇装備時の|呪文発動速度が|早くなる": "Spell cast speed|up when a Fan|is equipped."
     },
     "1596": {
         "clarity_nt_char_534": "clarity_nt_char_534"
@@ -4800,7 +4800,7 @@
         "clarity_nt_char_536": "clarity_nt_char_536"
     },
     "1601": {
-        "行動時5%でテンション": ""
+        "行動時5%でテンション": "Tension On Action 5%"
     },
     "1602": {
         "ダークマター": "Dark Matter"
