@@ -3993,7 +3993,7 @@
         "鎌装備時の|こうげき魔力が|３０増える": "Mag. Might +30|when a Sickle|is equipped."
     },
     "1332": {
-        "ダウン中の敵には|必ず当たる|会心の斬撃": ""
+        "ダウン中の敵には|必ず当たる|会心の斬撃": "Deals a critical|hit if the enemy|is knocked down."
     },
     "1333": {
         "clarity_nt_char_447": "clarity_nt_char_447"
@@ -4005,10 +4005,10 @@
         "clarity_nt_char_448": "clarity_nt_char_448"
     },
     "1336": {
-        "鎌装備時に|５％で武器ガード|できるようになる": ""
+        "鎌装備時に|５％で武器ガード|できるようになる": "Parry Rate +5%|when a Sickle|is equipped."
     },
     "1337": {
-        "中にいると呪文を|素早く唱えられる|魔法陣を作る": ""
+        "中にいると呪文を|素早く唱えられる|魔法陣を作る": "A magic circle|that quickens|spellcasting."
     },
     "1338": {
         "clarity_nt_char_449": "clarity_nt_char_449"
