@@ -4143,7 +4143,7 @@
         "clarity_nt_char_463": "clarity_nt_char_463"
     },
     "1382": {
-        "行動時に５％で|魔力かくせいが|かかる": ""
+        "行動時に５％で|魔力かくせいが|かかる": "5% chance to|increase spell|power on action."
     },
     "1383": {
         "攻撃時に２５％で|一定時間の間|呪文が暴走する": "25% chance on|attack to boost|haywire rate."
@@ -4161,7 +4161,7 @@
         "攻撃時たまに|相手のしゅび力を|下げる": "Rarely lowers|defense on|an attack."
     },
     "1388": {
-        "敵１体を切り裂き|与えるダメージも|増加させる": ""
+        "敵１体を切り裂き|与えるダメージも|増加させる": "Cut an enemy and|increase their|damage taken."
     },
     "1389": {
         "ツメ装備時の|こうげき力が|４０増える": "Attack +40|when Claws|are equipped."
