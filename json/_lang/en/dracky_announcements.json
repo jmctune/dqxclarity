@@ -1656,22 +1656,22 @@
         "達人クエストに失敗しました": "Master Quest was failed."
     },
     "553": {
-        "制限時間をすぎたので 達人クエストに失敗しました": ""
+        "制限時間をすぎたので 達人クエストに失敗しました": "Master Quest failed due to time running out."
     },
     "554": {
         "clarity_nt_char_179": "clarity_nt_char_179"
     },
     "555": {
-        "指定の職業がいないので 達人クエストに失敗しました": ""
+        "指定の職業がいないので 達人クエストに失敗しました": "Master Quest failed due to incorrect vocation."
     },
     "556": {
-        "誰か 死んでしまったので 達人クエストに失敗しました": ""
+        "誰か 死んでしまったので 達人クエストに失敗しました": "Master Quest failed due to someone dying."
     },
     "557": {
         "clarity_nt_char_180": "clarity_nt_char_180"
     },
     "558": {
-        "誰か どうぐを使用したので達人クエストに失敗しました": ""
+        "誰か どうぐを使用したので達人クエストに失敗しました": "Master Quest failed due to an item being used."
     },
     "559": {
         "clarity_nt_char_181": "clarity_nt_char_181"
