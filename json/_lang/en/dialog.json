@@ -2364,7 +2364,7 @@
         "コントローラーが|自動で切られる|時間を設定します": "Set time when|controller auto|turns off."
     },
     "789": {
-        "<speed=0>同じように　続けていく仲間は|仲間の状態が　維持されます。|続けて　魔法の迷宮に行きますか？<yesno><close>": "<speed=0>You will stay with your current party.|Do you want to go the Magic|Maze?<yesno><close>"
+        "<speed=0>同じように　続けていく仲間は|仲間の状態が　維持されます。|続けて　魔法の迷宮に行きますか？<yesno><close>": "<speed=0>You will stay with your current party.|Do you want to go back through the|Magic Maze?<yesno><close>"
     },
     "790": {
         "<speed=0>魔法の迷宮から出るのを　やめますか？<yesno><close>": ""
@@ -4278,7 +4278,7 @@
         "clarity_nt_char_479": "clarity_nt_char_479"
     },
     "1427": {
-        "<speed=0>同じように　続けていく仲間は|仲間の状態が　維持されます。|このまま　今戦ったボスとの戦いに行きますか？<yesno><close>": ""
+        "<speed=0>同じように　続けていく仲間は|仲間の状態が　維持されます。|このまま　今戦ったボスとの戦いに行きますか？<yesno><close>": "<speed=0>You will stay with your current party.|Do you want to fight the same boss|again?<yesno><close>"
     },
     "1428": {
         "<speed=0>ボスモンスターとの戦いに行くのを|やめますか？<yesno><close>": ""
@@ -4287,7 +4287,7 @@
         "clarity_nt_char_480": "clarity_nt_char_480"
     },
     "1430": {
-        "<speed=0>今の仲間と続けて　今戦った|ボスとの戦いに　行きますか？|<select>|やめる|続ける|<select_end>|<close>": "<speed=0>Do you want to stay and fight|the current boss?|<select>|Leave|Stay|<select_end>|<close>"
+        "<speed=0>今の仲間と続けて　今戦った|ボスとの戦いに　行きますか？|<select>|やめる|続ける|<select_end>|<close>": "<speed=0>Do you want to stay and fight|the same boss again?|<select>|Leave|Stay|<select_end>|<close>"
     },
     "1431": {
         "<speed=0>このマップから出るのを　やめますか？<yesno 2><close>": ""
