@@ -24,13 +24,13 @@
         "clarity_nt_char_3": "clarity_nt_char_3"
     },
     "9": {
-        "<%sB_ACTION>": ""
+        "<%sB_ACTION>": "<%sB_ACTION>"
     },
     "10": {
         "clarity_nt_char_4": "clarity_nt_char_4"
     },
     "11": {
-        "<%sB_ITEM>！": ""
+        "<%sB_ITEM>！": "<%sB_ITEM>!"
     },
     "12": {
         "<%sB_ITEM>を使った！": "Used <%sB_ITEM>!"
@@ -57,7 +57,7 @@
         "<%sB_JACK_NAME>の心を|使った！": "Used|<%sB_JACK_NAME>'s Heart!"
     },
     "20": {
-        "<%sB_ACTION>！！": ""
+        "<%sB_ACTION>！！": "<%sB_ACTION>!!"
     },
     "21": {
         "clarity_nt_char_7": "clarity_nt_char_7"
@@ -102,7 +102,7 @@
         "あっそ～れ♪|ハッスルハッスル～！": "Come on, everybody!|Hustle, hustle!"
     },
     "35": {
-        "<%sB_TARGET_RPL>に|かたりかけた！": ""
+        "<%sB_TARGET_RPL>に|かたりかけた！": "Spoke to|<%sB_TARGET_RPL>!"
     },
     "36": {
         "<%sB_TARGET_RPL>を|なだめた！": "Soothes|<%sB_TARGET_RPL>!"
@@ -123,7 +123,7 @@
         "<%sB_TARGET_RPL>に|おうえん！": "Cheers on|<%sB_TARGET_RPL>!"
     },
     "42": {
-        "<%sB_TARGET_RPL>に|おいのりした。": ""
+        "<%sB_TARGET_RPL>に|おいのりした。": "Prayed to|<%sB_TARGET_RPL>."
     },
     "43": {
         "<%sB_TARGET_RPL>にいいね！": "Liked <%sB_TARGET_RPL>!"
