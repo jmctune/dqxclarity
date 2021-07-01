@@ -84,7 +84,7 @@
         "<speed=0>いまは　仲間を抜けられない！": "<speed=0>I can't leave my people now!"
     },
     "29": {
-        "<speed=0><%sM_pc>は　仲間から抜けた！": "<speed=0><%sM_pc> is out of the fold!"
+        "<speed=0><%sM_pc>は　仲間から抜けた！": "<speed=0>You left the party!"
     },
     "30": {
         "<speed=0>パーティを　解散しますか？<yesno><close>": "<speed=0>Would you like to abandon the party? <yesno><close>"
