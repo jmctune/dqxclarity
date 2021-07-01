@@ -4212,7 +4212,7 @@
         "clarity_nt_char_469": "clarity_nt_char_469"
     },
     "1405": {
-        "行動時に１５％で|一定時間の間|呪文が暴走する": ""
+        "行動時に１５％で|一定時間の間|呪文が暴走する": "15% chance to|gain a haywire|effect on action."
     },
     "1406": {
         "会心＆暴走時の|ダメージが|２００増える": "Critical and|haywire damage|+200."
@@ -4530,7 +4530,7 @@
         "扇装備時の|こうげき力が|５増える": "Attack +5|when a Fan|is equipped."
     },
     "1511": {
-        "虫系の敵に|威力を発揮する|すばやい剣技": ""
+        "虫系の敵に|威力を発揮する|すばやい剣技": "A strike|effective against|Insect-types."
     },
     "1512": {
         "clarity_nt_char_506": "clarity_nt_char_506"
