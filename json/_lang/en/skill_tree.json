@@ -15840,16 +15840,16 @@
         "マシン系への|ダメージが|３０％増える": "Damage to Machine|-types increased|by 30%."
     },
     "5281": {
-        "ダメージが５％|かいしん率が１％|増える": ""
+        "ダメージが５％|かいしん率が１％|増える": "Damage increased|by 5%/critical|rate by 1%."
     },
     "5282": {
         "clarity_nt_char_1804": "clarity_nt_char_1804"
     },
     "5283": {
-        "ダメージが１０％|かいしん率が１％|増える": ""
+        "ダメージが１０％|かいしん率が１％|増える": "Damage increased|by 10%/critical|rate by 1%."
     },
     "5284": {
-        "ダメージが１５％|かいしん率が１％|増える": ""
+        "ダメージが１５％|かいしん率が１％|増える": "Damage increased|by 15%/critical|rate by 1%."
     },
     "5285": {
         "ツメ装備時|効果時間が|３秒増える": ""
@@ -15918,25 +15918,25 @@
         "clarity_nt_char_1812": "clarity_nt_char_1812"
     },
     "5307": {
-        "鳥系への|ダメージが|１０％増える": ""
+        "鳥系への|ダメージが|１０％増える": "Damage to Bird|-types increased|by 10%."
     },
     "5308": {
-        "鳥系への|ダメージが|１５％増える": ""
+        "鳥系への|ダメージが|１５％増える": "Damage to Bird|-types increased|by 15%."
     },
     "5309": {
-        "鳥系への|ダメージが|３０％増える": ""
+        "鳥系への|ダメージが|３０％増える": "Damage to Bird|-types increased|by 30%."
     },
     "5310": {
-        "ダメージが８％|回復量が２％|増える": ""
+        "ダメージが８％|回復量が２％|増える": "Damage increased|by 8%/recovery|by 2%."
     },
     "5311": {
         "clarity_nt_char_1813": "clarity_nt_char_1813"
     },
     "5312": {
-        "ダメージが１２％|回復量が２％|増える": ""
+        "ダメージが１２％|回復量が２％|増える": "Damage increased|by 12%/recovery|by 2%."
     },
     "5313": {
-        "ダメージが１６％|回復量が２％|増える": ""
+        "ダメージが１６％|回復量が２％|増える": "Damage increased|by 16%/recovery|by 2%."
     },
     "5314": {
         "効果範囲が|０．２ｍ増える": ""
@@ -15996,19 +15996,19 @@
         "clarity_nt_char_1818": "clarity_nt_char_1818"
     },
     "5333": {
-        "スライム系への|ダメージが|１０％増える": ""
+        "スライム系への|ダメージが|１０％増える": "Damage to Slime|-types increased|by 10%."
     },
     "5334": {
         "clarity_nt_char_1819": "clarity_nt_char_1819"
     },
     "5335": {
-        "スライム系への|ダメージが|１５％増える": ""
+        "スライム系への|ダメージが|１５％増える": "Damage to Slime|-types increased|by 15%."
     },
     "5336": {
         "clarity_nt_char_1820": "clarity_nt_char_1820"
     },
     "5337": {
-        "スライム系への|ダメージが|３０％増える": ""
+        "スライム系への|ダメージが|３０％増える": "Damage to Slime|-types increased|by 30%."
     },
     "5338": {
         "clarity_nt_char_1821": "clarity_nt_char_1821"
