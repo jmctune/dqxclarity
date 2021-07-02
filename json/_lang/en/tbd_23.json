@@ -54,7 +54,7 @@
         "職業のレベルは 職業別に持っています。|転職しても 元の職業に戻れば|レベルも 元に戻ります。": "Each vocation has its own LVL. If you|change vocations, you can return to your|original vocation with your LVL restored."
     },
     "19": {
-        "レベルアップで覚えた呪文は|その職業の時だけ使えます。|転職すると 使えなくなります。": "The spells you learn at level up can only|be used in that vocation. If you change|jobs, you can't use them anymore."
+        "レベルアップで覚えた呪文は|その職業の時だけ使えます。|転職すると 使えなくなります。": "The spells you learn at level up can only|be used in that vocation. If you change|vocations, you can't use them anymore."
     },
     "20": {
         "レベルアップで手に入れた|スキルポイントは「さくせん」コマンドの|「スキルふりわけ」から振り分けられます。": "Skill points gained from leveling up|can be used with \"Skill Points\" under|the \"Misc.\" command."
