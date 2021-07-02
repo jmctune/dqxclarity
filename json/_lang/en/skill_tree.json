@@ -2157,7 +2157,7 @@
         "たいぼく斬の特技を　おぼえた！": "You learned Poplar Toppler!"
     },
     "720": {
-        "オノ装備時の　こうげき力が　１０　増えた！": "Attack increased by 10 when Axe equipped!"
+        "オノ装備時の　こうげき力が　１０　増えた！": "Attack increased by 10 when|equipped with an Axe!"
     },
     "721": {
         "蒼天魔斬の特技を　おぼえた！": "You learned Parallax!"
@@ -2166,7 +2166,7 @@
         "clarity_nt_char_242": "clarity_nt_char_242"
     },
     "723": {
-        "オノ装備時の　こうげき力が　１５　増えた！": "Attack increased by 15 when Axe equipped!"
+        "オノ装備時の　こうげき力が　１５　増えた！": "Attack increased by 15 when|equipped with an Axe!"
     },
     "724": {
         "かぶと割りの特技を　おぼえた！": "You learned Helm Splitter!"
@@ -2178,7 +2178,7 @@
         "まじん斬りの特技を　おぼえた！": "You learned Hatchet Man!"
     },
     "727": {
-        "オノ装備時の　こうげき力が　２０　増えた！": "Attack increased by 20 when Axe equipped!"
+        "オノ装備時の　こうげき力が　２０　増えた！": "Attack increased by 20 when|equipped with an Axe!"
     },
     "728": {
         "オノむそうの特技を　おぼえた！": "You learned Axes of Evil!"
@@ -11877,13 +11877,13 @@
         "clarity_nt_char_1344": "clarity_nt_char_1344"
     },
     "3960": {
-        "オノ装備時の　こうげき力が　５　増えた！": "Attack increased by 5 when Axe equipped!"
+        "オノ装備時の　こうげき力が　５　増えた！": "Attack increased by 5 when|equipped with an Axe!"
     },
     "3961": {
         "clarity_nt_char_1345": "clarity_nt_char_1345"
     },
     "3962": {
-        "オノ装備時の　こうげき力が　８　増えた！": "Attack increased by 8 when Axe equipped!"
+        "オノ装備時の　こうげき力が　８　増えた！": "Attack increased by 8 when|equipped with an Axe!"
     },
     "3963": {
         "clarity_nt_char_1346": "clarity_nt_char_1346"
@@ -21138,7 +21138,7 @@
         "根絶やしの重撃の威力が　あがった！": ""
     },
     "7047": {
-        "オノ装備時の　こうげき力が　３０　増えた！": "Attack increased by 30 when Axe equipped!"
+        "オノ装備時の　こうげき力が　３０　増えた！": "Attack increased by 30 when|equipped with an Axe!"
     },
     "7048": {
         "鉄甲斬・改の特技を　おぼえた！": ""
