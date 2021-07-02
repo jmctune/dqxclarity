@@ -1077,7 +1077,7 @@
         "ガード時しびれさせる（専）": "Numbing Guard"
     },
     "360": {
-        "聖騎士の堅陣（専）": "Strong Team"
+        "聖騎士の堅陣（専）": "Paladin's Bulwark"
     },
     "361": {
         "さいだいＨＰ+20（専）": "Max HP +20 (EX)"
@@ -3300,7 +3300,7 @@
         "ガード時　たまに相手が|しびれるようになった！": "You will now sometimes numb an enemy|when blocking an attack!"
     },
     "1101": {
-        "聖騎士の堅陣（専）の特技を　おぼえた！": ""
+        "聖騎士の堅陣（専）の特技を　おぼえた！": "You learned Paladin's Bulwark!"
     },
     "1102": {
         "パラディン時　さいだいＨＰが　２０　増えた！": "Max HP increased by 20 as a Paladin!"
@@ -3309,7 +3309,7 @@
         "clarity_nt_char_374": "clarity_nt_char_374"
     },
     "1104": {
-        "パラディンガードの特技を　おぼえた！": ""
+        "パラディンガードの特技を　おぼえた！": "You learned Knight's Watch!"
     },
     "1105": {
         "clarity_nt_char_375": "clarity_nt_char_375"
