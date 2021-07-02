@@ -3,7 +3,7 @@
         "今は入れません。|別のサーバーを　選んでください。<break>": "You cannot enter now.|Please select a different server.<break>"
     },
     "2": {
-        "<%nSERVER>にいる知りあい": "<%nSERVER>Friends"
+        "<%nSERVER>にいる知りあい": "<%nSERVER> Friends"
     },
     "3": {
         "<%sSERVER>には　入れませんでした。|別のサーバーを　選んでください。<break>": "Could not connect to <%sSERVER>.|Please choose a different server.<break>"
@@ -12,7 +12,7 @@
         "<%sNAME>": "<%sNAME>"
     },
     "5": {
-        "他<%nPEOPLE>名": "Other<%nPEOPLE>"
+        "他<%nPEOPLE>名": "Other <%nPEOPLE>"
     },
     "6": {
         "どのサーバーに　戻りますか？<break>": "Which server should I return to?<break>"
