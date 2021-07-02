@@ -276,7 +276,7 @@
         "clarity_nt_char_26": "clarity_nt_char_26"
     },
     "93": {
-        "ジュレー島下層 入口": ""
+        "ジュレー島下層 入口": "Jure Lower Island Ent."
     },
     "94": {
         "clarity_nt_char_27": "clarity_nt_char_27"
@@ -1491,7 +1491,7 @@
         "clarity_nt_char_161": "clarity_nt_char_161"
     },
     "498": {
-        "ジュレー島下層 出口": ""
+        "ジュレー島下層 出口": "Jure Lower Island Exit"
     },
     "499": {
         "clarity_nt_char_162": "clarity_nt_char_162"
@@ -6093,7 +6093,7 @@
         "未知なる工房 入口": ""
     },
     "2032": {
-        "ジュレー島下層への出口": ""
+        "ジュレー島下層への出口": "Exit to Jure Lower Island"
     },
     "2033": {
         "ジュレイダ連塔遺跡 入口": ""
@@ -6102,7 +6102,7 @@
         "clarity_nt_char_639": "clarity_nt_char_639"
     },
     "2035": {
-        "スイの塔への出口": ""
+        "スイの塔への出口": "Exit to Sui Tower"
     },
     "2036": {
         "clarity_nt_char_640": "clarity_nt_char_640"
@@ -6144,7 +6144,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>長老の家": ""
     },
     "2049": {
-        "煙霧の谷への出口": ""
+        "煙霧の谷への出口": "Exit to Haze Valley"
     },
     "2050": {
         "clarity_nt_char_641": "clarity_nt_char_641"
@@ -6210,10 +6210,10 @@
         "clarity_nt_char_647": "clarity_nt_char_647"
     },
     "2071": {
-        "烈火の渓谷への出口": ""
+        "烈火の渓谷への出口": "Exit to Valley of Fire"
     },
     "2072": {
-        "赤熱の荒野への出口": ""
+        "赤熱の荒野への出口": "Exit to Red Hot Desert"
     },
     "2073": {
         "魔炎鳥の巣 出口": ""
@@ -6309,7 +6309,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階・休息の間": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>F Rest Hall"
     },
     "2104": {
-        "デフェル荒野への出口": ""
+        "デフェル荒野への出口": "Exit to Defel Wilderness"
     },
     "2105": {
         "clarity_nt_char_660": "clarity_nt_char_660"
