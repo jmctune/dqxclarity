@@ -1209,7 +1209,7 @@
         "clarity_nt_char_129": "clarity_nt_char_129"
     },
     "404": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>宿屋・預かり所": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>宿屋・預かり所": "<%sW_MAP_NAME><%sW_DELIMITER>Inn - Depository"
     },
     "405": {
         "clarity_nt_char_130": "clarity_nt_char_130"
@@ -1380,7 +1380,7 @@
         "clarity_nt_char_149": "clarity_nt_char_149"
     },
     "461": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>預かり所・旅人バザー": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>預かり所・旅人バザー": "Depository - Bazaar"
     },
     "462": {
         "キリカ草原への道": ""
