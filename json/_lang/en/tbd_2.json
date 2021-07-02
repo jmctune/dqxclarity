@@ -501,16 +501,16 @@
         "風属性攻撃": "Wind Element"
     },
     "168": {
-        "雷属性攻撃": ""
+        "雷属性攻撃": "Litng. Element"
     },
     "169": {
-        "土属性攻撃": ""
+        "土属性攻撃": "Earth Element"
     },
     "170": {
-        "闇属性攻撃": ""
+        "闇属性攻撃": "Dark Element"
     },
     "171": {
-        "光属性攻撃": ""
+        "光属性攻撃": "Light Element"
     },
     "172": {
         "試合時のみダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "PvP Only Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
