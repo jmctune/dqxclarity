@@ -15132,7 +15132,7 @@
         "扇装備時の|こうげき魔力が　３０　増えた！": "Magical Might increased by 30 when|equipped with a Fan!"
     },
     "5045": {
-        "扇装備時の|こうげき魔力が　４０　増えた！": "Magical might +40 when|equipped with a Fan!"
+        "扇装備時の|こうげき魔力が　４０　増えた！": "Magical Might increased by 40 when|equipped with a Fan!"
     },
     "5046": {
         "扇で　呪文を唱えた時|魔力が　暴走しやすくなった！": ""
@@ -18363,13 +18363,13 @@
         "鎌装備時の|武器ガード率が|４％増える": "Parry Rate +4%|when a Sickle|is equipped."
     },
     "6122": {
-        "鎌装備時の|こうげき魔力が|２０増える": "Magical might +20|when a Sickle|is equipped."
+        "鎌装備時の|こうげき魔力が|２０増える": "Mag. Might +20|when a Sickle|is equipped."
     },
     "6123": {
-        "鎌装備時の|こうげき魔力が|３０増える": "Magical might +30|when a Sickle|is equipped."
+        "鎌装備時の|こうげき魔力が|３０増える": "Mag. Might +30|when a Sickle|is equipped."
     },
     "6124": {
-        "鎌装備時の|こうげき魔力が|４０増える": "Magical might +40|when a Sickle|is equipped."
+        "鎌装備時の|こうげき魔力が|４０増える": "Mag. Might +40|when a Sickle|is equipped."
     },
     "6125": {
         "鎌装備時の|呪文ぼうそう率が|１％増える": ""
@@ -18423,13 +18423,13 @@
         "鎌装備時|効果時間が|１０秒増える": ""
     },
     "6142": {
-        "扇装備時の|こうげき魔力が|２０増える": "Magical might +20|when a Fan|is equipped."
+        "扇装備時の|こうげき魔力が|２０増える": "Mag. Might +20|when a Fan|is equipped."
     },
     "6143": {
-        "扇装備時の|こうげき魔力が|３０増える": "Magical might +30|when a Fan|is equipped."
+        "扇装備時の|こうげき魔力が|３０増える": "Mag. Might +30|when a Fan|is equipped."
     },
     "6144": {
-        "扇装備時の|こうげき魔力が|４０増える": "Magical might +40|when a Fan|is equipped."
+        "扇装備時の|こうげき魔力が|４０増える": "Mag. Might +40|when a Fan|is equipped."
     },
     "6145": {
         "扇装備時の|呪文ぼうそう率が|１％増える": ""
@@ -21348,7 +21348,7 @@
         "clarity_nt_char_2444": "clarity_nt_char_2444"
     },
     "7117": {
-        "鎌装備時の　こうげき魔力が　４０　増えた！": "Magical might +40 when Sickle equipped!"
+        "鎌装備時の　こうげき魔力が　４０　増えた！": "Magical Might increased by 40 when|equipped with a Sickle!"
     },
     "7118": {
         "鎌装備時に　闇攻撃ダメージが　５％増えた！": "Dark attack damage with a Sickle|equipped increased by 5%!"
