@@ -735,7 +735,7 @@
         "ZRボタン": "ZR button"
     },
     "246": {
-        "ZLボタン": ""
+        "ZLボタン": "ZL button"
     },
     "247": {
         "SELECT": ""
@@ -744,13 +744,13 @@
         "clarity_nt_char_80": "clarity_nt_char_80"
     },
     "249": {
-        "Rボタン": ""
+        "Rボタン": "R button"
     },
     "250": {
         "clarity_nt_char_81": "clarity_nt_char_81"
     },
     "251": {
-        "Lボタン": ""
+        "Lボタン": "L button"
     },
     "252": {
         "clarity_nt_char_82": "clarity_nt_char_82"
@@ -774,7 +774,7 @@
         "clarity_nt_char_84": "clarity_nt_char_84"
     },
     "259": {
-        "Ｌボタン": ""
+        "Ｌボタン": "L button"
     },
     "260": {
         "clarity_nt_char_85": "clarity_nt_char_85"
@@ -813,7 +813,7 @@
         "clarity_nt_char_89": "clarity_nt_char_89"
     },
     "272": {
-        "Ｒ１ボタン": ""
+        "Ｒ１ボタン": "R1 button"
     },
     "273": {
         "○ボタン": "O button"
@@ -822,10 +822,10 @@
         "clarity_nt_char_90": "clarity_nt_char_90"
     },
     "275": {
-        "Ｌ２ボタン": ""
+        "Ｌ２ボタン": "L2 button"
     },
     "276": {
-        "△ボタン": ""
+        "△ボタン": "△ button"
     },
     "277": {
         "clarity_nt_char_91": "clarity_nt_char_91"
