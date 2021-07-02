@@ -4305,7 +4305,7 @@
         "clarity_nt_char_444": "clarity_nt_char_444"
     },
     "1436": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>外観": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>外観": "<%sW_MAP_NAME><%sW_DELIMITER>Front"
     },
     "1437": {
         "<%sW_MAP_NAME><%sW_DELIMITER>中庭": "<%sW_MAP_NAME><%sW_DELIMITER>Crtyd."
@@ -5037,7 +5037,7 @@
         "clarity_nt_char_531": "clarity_nt_char_531"
     },
     "1680": {
-        "外観への出口": ""
+        "外観への出口": "Exit to Front"
     },
     "1681": {
         "clarity_nt_char_532": "clarity_nt_char_532"
@@ -5055,7 +5055,7 @@
         "clarity_nt_char_534": "clarity_nt_char_534"
     },
     "1686": {
-        "アラハギーロ地方への出口": "Arahagiro Region Exit"
+        "アラハギーロ地方への出口": "Exit to Arahagiro Region"
     },
     "1687": {
         "clarity_nt_char_535": "clarity_nt_char_535"
