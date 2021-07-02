@@ -3399,7 +3399,7 @@
         "clarity_nt_char_384": "clarity_nt_char_384"
     },
     "1134": {
-        "旅芸人時　きようさが　３０　増えた！": ""
+        "旅芸人時　きようさが　３０　増えた！": "Deftness increased by 30 as a Minstrel!"
     },
     "1135": {
         "clarity_nt_char_385": "clarity_nt_char_385"
@@ -3450,13 +3450,13 @@
         "魔法使いで　呪文を唱えた時|さらに魔力が　暴走しやすくなった！": ""
     },
     "1151": {
-        "魔法使い時　こうげき魔力が　２０　増えた！": ""
+        "魔法使い時　こうげき魔力が　２０　増えた！": "Magical Might increased by 20 as a Mage!"
     },
     "1152": {
         "マヒャデドス（専）の呪文を　おぼえた！": "You learned Kacrackle!"
     },
     "1153": {
-        "魔法使い時　たまにＭＰ消費しない率が　増えた！": ""
+        "魔法使い時　たまにＭＰ消費しない率が　増えた！": "Sometimes you won't consume MP as a Mage!"
     },
     "1154": {
         "メラガイアー（専）の呪文を　おぼえた！": "You learned Kafrizzle!"
@@ -3495,16 +3495,16 @@
         "しんだふりの特技を　おぼえた！": "You learned Play Dead!"
     },
     "1166": {
-        "盗賊時　すばやさが　３０　増えた！": "Agility increased by 30 as a THF!"
+        "盗賊時　すばやさが　３０　増えた！": "Agility increased by 30 as a Thief!"
     },
     "1167": {
-        "盗賊時　きようさが　３０　増えた！": ""
+        "盗賊時　きようさが　３０　増えた！": "Deftness increased by 30 as a Thief!"
     },
     "1168": {
         "ギガボンバー（専）の特技を　おぼえた！": ""
     },
     "1169": {
-        "ぬすむでの成功率が　増えた！": ""
+        "ぬすむでの成功率が　増えた！": "Half-Inch success rate has increased!"
     },
     "1170": {
         "clarity_nt_char_394": "clarity_nt_char_394"
@@ -3546,7 +3546,7 @@
         "賢者時　かいふく魔力が　３０　増えた！": "Magical Mending increased by 30 as a Sage!"
     },
     "1183": {
-        "賢者時　こうげき魔力が　３０　増えた！": ""
+        "賢者時　こうげき魔力が　３０　増えた！": "Magical Might increased by 30 as a Sage!"
     },
     "1184": {
         "イオグランデ（専）の呪文を　おぼえた！": "You learned Kaboomle!"
