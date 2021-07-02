@@ -15267,10 +15267,10 @@
         "clarity_nt_char_1743": "clarity_nt_char_1743"
     },
     "5090": {
-        "両手剣装備時の|こうげき力が|５増える": "Attack +5|when Claymore|equipped."
+        "両手剣装備時の|こうげき力が|５増える": "Attack +5|when a Claymore|is equipped."
     },
     "5091": {
-        "両手剣装備時の|こうげき力が|８増える": "Attack +8|when Claymore|equipped."
+        "両手剣装備時の|こうげき力が|８増える": "Attack +8|when a Claymore|is equipped."
     },
     "5092": {
         "両手剣装備時の|こうげき力が|１０増える": "Attack +10|when a Claymore|is equipped."
@@ -15279,7 +15279,7 @@
         "clarity_nt_char_1744": "clarity_nt_char_1744"
     },
     "5094": {
-        "両手剣装備時の|かいしん率が|１％増える": "Critical Rate +1%|when Claymore|equipped."
+        "両手剣装備時の|かいしん率が|１％増える": "Critical Rate +1%|when a Claymore|is equipped."
     },
     "5095": {
         "clarity_nt_char_1745": "clarity_nt_char_1745"
@@ -15297,10 +15297,10 @@
         "clarity_nt_char_1747": "clarity_nt_char_1747"
     },
     "5100": {
-        "両手剣装備時の|武器ガード率が|２％増える": "Parry Rate +2%|when Claymore|equipped."
+        "両手剣装備時の|武器ガード率が|２％増える": "Parry Rate +2%|when a Claymore|is equipped."
     },
     "5101": {
-        "両手剣装備時の|武器ガード率が|３％増える": "Parry Rate +3%|when Claymore|equipped."
+        "両手剣装備時の|武器ガード率が|３％増える": "Parry Rate +3%|when a Claymore|is equipped."
     },
     "5102": {
         "両手剣装備時の|武器ガード率が|４％増える": "Parry Rate +4%|when a Claymore|is equipped."
@@ -15606,22 +15606,22 @@
         "clarity_nt_char_1781": "clarity_nt_char_1781"
     },
     "5203": {
-        "短剣装備時の|こうげき力が|５増える": "Attack +5|when Dagger|equipped."
+        "短剣装備時の|こうげき力が|５増える": "Attack +5|when a Dagger|is equipped."
     },
     "5204": {
         "clarity_nt_char_1782": "clarity_nt_char_1782"
     },
     "5205": {
-        "短剣装備時の|こうげき力が|８増える": "Attack +8|when Dagger|equipped."
+        "短剣装備時の|こうげき力が|８増える": "Attack +8|when a Dagger|is equipped."
     },
     "5206": {
         "clarity_nt_char_1783": "clarity_nt_char_1783"
     },
     "5207": {
-        "短剣装備時の|こうげき力が|１０増える": "Attack +10|when Dagger|equipped."
+        "短剣装備時の|こうげき力が|１０増える": "Attack +10|when a Dagger|is equipped."
     },
     "5208": {
-        "短剣装備時の|かいしん率が|１％増える": "Critical Rate +1%|when Dagger|equipped."
+        "短剣装備時の|かいしん率が|１％増える": "Critical Rate +1%|when a Dagger|is equipped."
     },
     "5209": {
         "短剣装備時の|かいしん率が|１．２％増える": "Crit. Rate +1.2%|when a Dagger|is equipped."
@@ -18423,13 +18423,13 @@
         "鎌装備時|効果時間が|１０秒増える": ""
     },
     "6142": {
-        "扇装備時の|こうげき魔力が|２０増える": "Magical might +20|when Fan|equipped."
+        "扇装備時の|こうげき魔力が|２０増える": "Magical might +20|when a Fan|is equipped."
     },
     "6143": {
-        "扇装備時の|こうげき魔力が|３０増える": "Magical might +30|when Fan|equipped."
+        "扇装備時の|こうげき魔力が|３０増える": "Magical might +30|when a Fan|is equipped."
     },
     "6144": {
-        "扇装備時の|こうげき魔力が|４０増える": "Magical might +40|when Fan|equipped."
+        "扇装備時の|こうげき魔力が|４０増える": "Magical might +40|when a Fan|is equipped."
     },
     "6145": {
         "扇装備時の|呪文ぼうそう率が|１％増える": ""
