@@ -2124,25 +2124,25 @@
         "5.0%ターン消費なし": "5% Don't Use Turn"
     },
     "709": {
-        "行動間隔短縮": ""
+        "行動間隔短縮": "Action Wait Down"
     },
     "710": {
         "clarity_nt_char_238": "clarity_nt_char_238"
     },
     "711": {
-        "装備時バギ系射程距離+5m": ""
+        "装備時バギ系射程距離+5m": "Woosh Spell Range +5m"
     },
     "712": {
-        "装備時バギ系呪文+100%": ""
+        "装備時バギ系呪文+100%": "Woosh Spells +100%"
     },
     "713": {
-        "行動時15%で暴走アップ": ""
+        "行動時15%で暴走アップ": "On Action Haywire Up 15%"
     },
     "714": {
         "clarity_nt_char_239": "clarity_nt_char_239"
     },
     "715": {
-        "会心＆暴走時ダメージ+200": ""
+        "会心＆暴走時ダメージ+200": "Critical & Haywire Damage +200"
     },
     "716": {
         "clarity_nt_char_240": "clarity_nt_char_240"
@@ -2154,13 +2154,13 @@
         "clarity_nt_char_241": "clarity_nt_char_241"
     },
     "719": {
-        "たいぼく斬の特技を　おぼえた！": ""
+        "たいぼく斬の特技を　おぼえた！": "You learned Poplar Toppler!"
     },
     "720": {
         "オノ装備時の　こうげき力が　１０　増えた！": "Attack increased by 10 when Axe equipped!"
     },
     "721": {
-        "蒼天魔斬の特技を　おぼえた！": ""
+        "蒼天魔斬の特技を　おぼえた！": "You learned Parallax!"
     },
     "722": {
         "clarity_nt_char_242": "clarity_nt_char_242"
@@ -2169,7 +2169,7 @@
         "オノ装備時の　こうげき力が　１５　増えた！": "Attack increased by 15 when Axe equipped!"
     },
     "724": {
-        "かぶと割りの特技を　おぼえた！": ""
+        "かぶと割りの特技を　おぼえた！": "You learned Helm Splitter!"
     },
     "725": {
         "オノでの攻撃時　会心のいちげきが|出やすくなった！": ""
