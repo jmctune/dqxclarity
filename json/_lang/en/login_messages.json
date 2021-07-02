@@ -174,7 +174,7 @@
         "オンラインの世界では　多くの人が|あなたのキャラや　兄弟（姉妹）キャラの名前を|目にすることになります。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　変更を　お願いします。<color_white><br>|ドラゴンクエストⅩの　オンラインの世界に|『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。<br>|『<%sPCNAME>』という名前で|冒険を　始めますか？<yesno><break>": ""
     },
     "59": {
-        "『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。|この名前で始めて　よろしいですか？<yesno><break>": ""
+        "『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。|この名前で始めて　よろしいですか？<yesno><break>": "There seems to be <%nNUM> other players|using the name \"<%sPCNAME>\". Are you|sure you want to start with this name?<yesno><break>"
     },
     "60": {
         "『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。|この名前で始めて　よろしいですか？<yesno><break>": ""
@@ -231,7 +231,7 @@
         "　　 キャラクター未作成": "Character Not Created"
     },
     "78": {
-        "冒険の書<%nNO>に　<%sPCNAME>を登録しました！<end>": ""
+        "冒険の書<%nNO>に　<%sPCNAME>を登録しました！<end>": "<%sPCNAME> has been registered in Adventure Book <%dNO>!"
     },
     "79": {
         "これ以上　冒険の書を作れません！|新しく作りたい場合は　先に|いずれかの　冒険の書を消してください。<end>": ""
@@ -243,13 +243,13 @@
         "何番の冒険の書に　キャラを作りますか？": ""
     },
     "82": {
-        "<%nDAY>日分": ""
+        "<%nDAY>日分": "<%dDAY> Days"
     },
     "83": {
-        "冒険の書<%nNUM>": ""
+        "冒険の書<%nNUM>": "Adv. Book <%dNUM>"
     },
     "84": {
-        "<%nCOURSE>キャラコース": "<%dCOURSE> character course"
+        "<%nCOURSE>キャラコース": "<%dCOURSE> Character Course"
     },
     "85": {
         "コース変更チケット": ""
@@ -297,7 +297,7 @@
         "自動継続の決済中です…": ""
     },
     "100": {
-        "<%nVAL>": ""
+        "<%nVAL>": "<%dVAL>"
     },
     "101": {
         "<%nWIIP>Ｗiiポイント": ""
