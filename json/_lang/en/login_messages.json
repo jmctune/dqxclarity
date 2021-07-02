@@ -462,10 +462,10 @@
         "<%sConsole>本体に保存されている|冒険の書<%nNO>のキャラは　オンラインの世界に|移動させられないデータでした。<br>|オフラインモードから　冒険の書<%nNO>を消して|キャラを　作りなおしてください。<end>": ""
     },
     "155": {
-        "『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。|冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": ""
+        "『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。|冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": "There seems to be about <%dNUM> players|with the name \"<%sPCNAME>\".|Use this name for Adventure Book <%dNO>?<yesno><break>"
     },
     "156": {
-        "『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。|冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": ""
+        "『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。|冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": "There seems to be no other players|with the name \"<%sPCNAME>\".|Use this name for Adventure Book <%dNO>?<yesno><break>"
     },
     "157": {
         "冒険の書<%nNO>のキャラの名前は|『<%sPCNAME>』で　よろしいですか？<yesno><break>": ""
