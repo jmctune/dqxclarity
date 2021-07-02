@@ -1974,7 +1974,7 @@
         "clarity_nt_char_213": "clarity_nt_char_213"
     },
     "659": {
-        "敵１体を斬りつけ|守備力を下げて|行動間隔ものばす": "Lowers Defense|and slows|action interval."
+        "敵１体を斬りつけ|守備力を下げて|行動間隔ものばす": "Lowers Defense|and slows|action wait."
     },
     "660": {
         "オノ装備時の|かいしん率が|３％増える": "Critical Rate +3%|when an Axe|is equipped."
@@ -3585,7 +3585,7 @@
         "clarity_nt_char_400": "clarity_nt_char_400"
     },
     "1196": {
-        "まもの使い時|行動間隔が|少し短くなる": "Action interval|is shortened as|a Monster Master."
+        "まもの使い時|行動間隔が|少し短くなる": "Action wait|is shortened as|a Monster Master."
     },
     "1197": {
         "与えるダメージを|アップする|まもの使い専用": "Increases all|damage you|deal."
@@ -4185,7 +4185,7 @@
         "clarity_nt_char_466": "clarity_nt_char_466"
     },
     "1396": {
-        "ハンマー装備時の|行動間隔が|少し短くなる": "Action interval|slightly shorter|with a Hammer."
+        "ハンマー装備時の|行動間隔が|少し短くなる": "Action wait is|slightly shorter|with a Hammer."
     },
     "1397": {
         "ハンマー装備時の|状態異常成功率が|あがる": "Bad effect|success up with a|Hammer equipped."
@@ -4680,7 +4680,7 @@
         "clarity_nt_char_522": "clarity_nt_char_522"
     },
     "1561": {
-        "ムチ装備時の|行動間隔が|少し短くなる": "Action interval|down slightly|with a Whip."
+        "ムチ装備時の|行動間隔が|少し短くなる": "Action wait is|down slightly|with a Whip."
     },
     "1562": {
         "ムチ装備時|戦闘中のチャージ|時間を１０秒短縮": "CT Skill -10s|when a Whip|is equipped."
