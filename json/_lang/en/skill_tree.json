@@ -2823,7 +2823,7 @@
         "ヤリ装備時　武器ガードを　しやすくなった！": ""
     },
     "942": {
-        "ヤリ装備時の　こうげき力が　１５　増えた！": "Attack increased by 15 when Spear equipped!"
+        "ヤリ装備時の　こうげき力が　１５　増えた！": "Attack increased by 15 when|equipped with a Spear!"
     },
     "943": {
         "一閃突きの特技を　おぼえた！": "You learned T. Thrust!"
@@ -2832,7 +2832,7 @@
         "clarity_nt_char_318": "clarity_nt_char_318"
     },
     "945": {
-        "ヤリ装備時の　こうげき力が　２０　増えた！": "Attack increased by 20 when Spear equipped!"
+        "ヤリ装備時の　こうげき力が　２０　増えた！": "Attack increased by 20 when|equipped with a Spear!"
     },
     "946": {
         "狼牙突きの特技を　おぼえた！": ""
@@ -2862,7 +2862,7 @@
         "clarity_nt_char_322": "clarity_nt_char_322"
     },
     "955": {
-        "ヤリ装備時の　こうげき力が　１０　増えた！": "Attack increased by 10 when Spear equipped!"
+        "ヤリ装備時の　こうげき力が　１０　増えた！": "Attack increased by 10 when|equipped with a Spear!"
     },
     "956": {
         "マジステッキの特技を　おぼえた！": ""
@@ -2919,7 +2919,7 @@
         "ビーストファングⅡ": ""
     },
     "974": {
-        "片手剣装備時の　こうげき力が　５　増えた！": "Attack increased by 5 when a Sword is equipped!"
+        "片手剣装備時の　こうげき力が　５　増えた！": "Attack increased by 5 when|equipped with a Sword!"
     },
     "975": {
         "ドラゴン斬りの特技を　おぼえた！": "You learned Dragon Slash!"
@@ -2937,7 +2937,7 @@
         "ミラクルソードの特技を　おぼえた！": "You learned Miracle Slash!"
     },
     "980": {
-        "片手剣装備時の　こうげき力が　１０　増えた！": "Attack increased by 10 when a Sword is equipped!"
+        "片手剣装備時の　こうげき力が　１０　増えた！": "Attack increased by 10 when|equipped with a Sword!"
     },
     "981": {
         "clarity_nt_char_331": "clarity_nt_char_331"
@@ -2952,7 +2952,7 @@
         "片手剣装備時に　武器ガードが|できるようになった！": ""
     },
     "985": {
-        "片手剣装備時の　こうげき力が　１５　増えた！": "Attack increased by 15 when a Sword is equipped!"
+        "片手剣装備時の　こうげき力が　１５　増えた！": "Attack increased by 15 when|equipped with a Sword!"
     },
     "986": {
         "clarity_nt_char_333": "clarity_nt_char_333"
@@ -4284,10 +4284,10 @@
         "clarity_nt_char_485": "clarity_nt_char_485"
     },
     "1429": {
-        "ヤリ装備時の　こうげき力が　２５　増えた！": "Attack increased by 25 when Spear equipped!"
+        "ヤリ装備時の　こうげき力が　２５　増えた！": "Attack increased by 25 when|equipped with a Spear!"
     },
     "1430": {
-        "ヤリ装備時の　こうげき力が　３０　増えた！": "Attack increased by 30 when Spear equipped!"
+        "ヤリ装備時の　こうげき力が　３０　増えた！": "Attack increased by 30 when|equipped with a Spear!"
     },
     "1431": {
         "一閃突き・改の特技を　おぼえた！": ""
@@ -4344,13 +4344,13 @@
         "clarity_nt_char_493": "clarity_nt_char_493"
     },
     "1449": {
-        "片手剣装備時の　こうげき力が　２０　増えた！": "Attack increased by 20 when a Sword is equipped!"
+        "片手剣装備時の　こうげき力が　２０　増えた！": "Attack increased by 20 when|equipped with a Sword!"
     },
     "1450": {
         "clarity_nt_char_494": "clarity_nt_char_494"
     },
     "1451": {
-        "片手剣装備時の　こうげき力が　３０　増えた！": "Attack increased by 30 when a Sword is equipped!"
+        "片手剣装備時の　こうげき力が　３０　増えた！": "Attack increased by 30 when|equipped with a Sword!"
     },
     "1452": {
         "clarity_nt_char_495": "clarity_nt_char_495"
@@ -11730,7 +11730,7 @@
         "clarity_nt_char_1327": "clarity_nt_char_1327"
     },
     "3911": {
-        "片手剣装備時の　こうげき力が　８　増えた！": "Attack increased by 8 when a Sword is equipped!"
+        "片手剣装備時の　こうげき力が　８　増えた！": "Attack increased by 8 when|equipped with a Sword!"
     },
     "3912": {
         "かえん斬りの威力が　あがった！": ""
@@ -11952,13 +11952,13 @@
         "clarity_nt_char_1351": "clarity_nt_char_1351"
     },
     "3985": {
-        "ヤリ装備時の　こうげき力が　５　増えた！": "Attack increased by 5 when Spear equipped!"
+        "ヤリ装備時の　こうげき力が　５　増えた！": "Attack increased by 5 when|equipped with a Spear!"
     },
     "3986": {
         "clarity_nt_char_1352": "clarity_nt_char_1352"
     },
     "3987": {
-        "ヤリ装備時の　こうげき力が　８　増えた！": "Attack increased by 8 when Spear equipped!"
+        "ヤリ装備時の　こうげき力が　８　増えた！": "Attack increased by 8 when|equipped with a Spear!"
     },
     "3988": {
         "clarity_nt_char_1353": "clarity_nt_char_1353"
