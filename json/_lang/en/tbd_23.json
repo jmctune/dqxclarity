@@ -63,7 +63,7 @@
         "スキルで覚えた特技には どの職業でも|使える特技と その職業のときだけ使える|特別な（専）特技があります。": "There are two types of skills: those that|can be used in any vocation and those|that can only be used in that vocation."
     },
     "22": {
-        "他の職業で覚えた武器の特技は|現在の職業で スキルポイントを振り分けて|いないと 使うことはできません。": ""
+        "他の職業で覚えた武器の特技は|現在の職業で スキルポイントを振り分けて|いないと 使うことはできません。": "Weapon skills learned in other vocations|cannot be used unless they are assigned|skill points in your current vocation."
     },
     "23": {
         "clarity_nt_char_9": "clarity_nt_char_9"
