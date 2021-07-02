@@ -2199,7 +2199,7 @@
         "clarity_nt_char_243": "clarity_nt_char_243"
     },
     "734": {
-        "ブーメラン装備時の　こうげき力が　５　増えた！": "Attack increased by 5 when Boomerang equipped!"
+        "ブーメラン装備時の　こうげき力が　５　増えた！": "Attack increased by 5 when|equipped with a Boomerang!"
     },
     "735": {
         "メタルウィングの特技を　おぼえた！": "You learned Metalicker!"
@@ -2265,7 +2265,7 @@
         "バードシュートの特技を　おぼえた！": ""
     },
     "756": {
-        "弓装備時の　こうげき力が　１０　増えた！": "Attack +10 when Bow equipped!"
+        "弓装備時の　こうげき力が　１０　増えた！": "Attack +10 when|equipped with a Bow!"
     },
     "757": {
         "clarity_nt_char_251": "clarity_nt_char_251"
@@ -2283,7 +2283,7 @@
         "clarity_nt_char_252": "clarity_nt_char_252"
     },
     "762": {
-        "弓装備時の　こうげき力が　１５　増えた！": "Attack +15 when Bow equipped!"
+        "弓装備時の　こうげき力が　１５　増えた！": "Attack +15 when|equipped with a Bow!"
     },
     "763": {
         "clarity_nt_char_253": "clarity_nt_char_253"
@@ -4317,7 +4317,7 @@
         "clarity_nt_char_489": "clarity_nt_char_489"
     },
     "1440": {
-        "ブーメラン装備時の　こうげき力が　５０　増えた！": "Attack increased by 50 when Boomerang equipped!"
+        "ブーメラン装備時の　こうげき力が　５０　増えた！": "Attack increased by 50 when|equipped with a Boomerang!"
     },
     "1441": {
         "clarity_nt_char_490": "clarity_nt_char_490"
@@ -12426,10 +12426,10 @@
         "clarity_nt_char_1406": "clarity_nt_char_1406"
     },
     "4143": {
-        "弓装備時の　こうげき力が　５　増えた！": "Attack +5 when Bow equipped!"
+        "弓装備時の　こうげき力が　５　増えた！": "Attack +5 when|equipped with a Bow!"
     },
     "4144": {
-        "弓装備時の　こうげき力が　８　増えた！": "Attack +8 when Bow equipped!"
+        "弓装備時の　こうげき力が　８　増えた！": "Attack +8 when|equipped with a Bow!"
     },
     "4145": {
         "弓での攻撃時　会心のいちげきが|さらに　出やすくなった！": ""
