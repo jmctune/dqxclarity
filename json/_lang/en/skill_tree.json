@@ -2244,7 +2244,7 @@
         "デュアルブレイカーの特技を　おぼえた！": "You learned Double Down!"
     },
     "749": {
-        "ブーメラン装備時の|こうげき力が　１０　増えた！": ""
+        "ブーメラン装備時の|こうげき力が　１０　増えた！": "Attack increased by 10 when|equipped with a Boomerang!"
     },
     "750": {
         "clarity_nt_char_249": "clarity_nt_char_249"
@@ -2442,7 +2442,7 @@
         "clarity_nt_char_271": "clarity_nt_char_271"
     },
     "815": {
-        "扇装備時の　こうげき力が　１０　増えた！": "Attack increased by 10 when Fan equipped!"
+        "扇装備時の　こうげき力が　１０　増えた！": "Attack increased by 10 when|equipped with a Fan!"
     },
     "816": {
         "clarity_nt_char_272": "clarity_nt_char_272"
@@ -2466,7 +2466,7 @@
         "clarity_nt_char_275": "clarity_nt_char_275"
     },
     "823": {
-        "扇装備時の　こうげき力が　１５　増えた！": "Attack increased by 15 when Fan equipped!"
+        "扇装備時の　こうげき力が　１５　増えた！": "Attack increased by 15 when|equipped with a Fan!"
     },
     "824": {
         "clarity_nt_char_276": "clarity_nt_char_276"
@@ -4377,7 +4377,7 @@
         "clarity_nt_char_498": "clarity_nt_char_498"
     },
     "1460": {
-        "扇装備時の|こうげき魔力が　６０　増えた！": "Magical might +60 when Fan equipped!"
+        "扇装備時の|こうげき魔力が　６０　増えた！": "Magical might +60 when|equipped with a Fan!"
     },
     "1461": {
         "行動時　５％の確率で|聖なる祈りが　かかるようになった！": ""
@@ -12261,10 +12261,10 @@
         "clarity_nt_char_1388": "clarity_nt_char_1388"
     },
     "4088": {
-        "扇装備時の　こうげき力が　５　増えた！": "Attack increased by 5 when Fan equipped!"
+        "扇装備時の　こうげき力が　５　増えた！": "Attack increased by 5 when|equipped with a Fan!"
     },
     "4089": {
-        "扇装備時の　こうげき力が　８　増えた！": "Attack increased by 8 when Fan equipped!"
+        "扇装備時の　こうげき力が　８　増えた！": "Attack increased by 8 when|equipped with a Fan!"
     },
     "4090": {
         "扇での攻撃時　会心のいちげきが|さらに　出やすくなった！": ""
@@ -15126,13 +15126,13 @@
         "血吸いの守りの効果時間が　長くなった！": ""
     },
     "5043": {
-        "扇装備時の|こうげき魔力が　２０　増えた！": "Magical might +20 when Fan equipped!"
+        "扇装備時の|こうげき魔力が　２０　増えた！": "Magical might +20 when|equipped with a Fan!"
     },
     "5044": {
-        "扇装備時の|こうげき魔力が　３０　増えた！": "Magical might +30 when Fan equipped!"
+        "扇装備時の|こうげき魔力が　３０　増えた！": "Magical might +30 when|equipped with a Fan!"
     },
     "5045": {
-        "扇装備時の|こうげき魔力が　４０　増えた！": "Magical might +40 when Fan equipped!"
+        "扇装備時の|こうげき魔力が　４０　増えた！": "Magical might +40 when|equipped with a Fan!"
     },
     "5046": {
         "扇で　呪文を唱えた時|魔力が　暴走しやすくなった！": ""
