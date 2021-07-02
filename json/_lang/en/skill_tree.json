@@ -2553,7 +2553,7 @@
         "clarity_nt_char_285": "clarity_nt_char_285"
     },
     "852": {
-        "格闘の時の　こうげき力が　５０　増えた！": "Attack +50 when Fist equipped!"
+        "格闘の時の　こうげき力が　５０　増えた！": "Attack increased by 50 when|fighting bare-handed!"
     },
     "853": {
         "clarity_nt_char_286": "clarity_nt_char_286"
@@ -2565,7 +2565,7 @@
         "clarity_nt_char_287": "clarity_nt_char_287"
     },
     "856": {
-        "ハンマー装備時の　こうげき力が　５　増えた！": "Attack increased by 5 when wearing a Hammer!"
+        "ハンマー装備時の　こうげき力が　５　増えた！": "Attack increased by 5 when|equipped with a Hammer!"
     },
     "857": {
         "clarity_nt_char_288": "clarity_nt_char_288"
@@ -2586,13 +2586,13 @@
         "clarity_nt_char_290": "clarity_nt_char_290"
     },
     "863": {
-        "ハンマー装備時の　こうげき力が　１０　増えた！": "Attack increased by 10 when Hammer equipped!"
+        "ハンマー装備時の　こうげき力が　１０　増えた！": "Attack increased by 10 when|equipped with a Hammer!"
     },
     "864": {
         "キャンセルショットの特技を　おぼえた！": ""
     },
     "865": {
-        "ハンマー装備時の　こうげき力が　１５　増えた！": "Attack increased by 15 when Hammer equipped!"
+        "ハンマー装備時の　こうげき力が　１５　増えた！": "Attack increased by 15 when|equipped with a Hammer!"
     },
     "866": {
         "ランドインパクトの特技を　おぼえた！": ""
@@ -4422,7 +4422,7 @@
         "野獣のごとく|敵１体に４回攻撃|まもの使い専用": ""
     },
     "1475": {
-        "ハンマー装備時の　こうげき力が　２０　増えた！": "Attack increased by 20 when Hammer equipped!"
+        "ハンマー装備時の　こうげき力が　２０　増えた！": "Attack increased by 20 when|equipped with a Hammer!"
     },
     "1476": {
         "ハンマー装備時　５．０％の確率で|行動ターンを　消費しなくなった！": ""
