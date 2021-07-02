@@ -669,7 +669,7 @@
         "clarity_nt_char_71": "clarity_nt_char_71"
     },
     "224": {
-        "装備時武器ガード率+3%": ""
+        "装備時武器ガード率+3%": "Parry Rate +3%"
     },
     "225": {
         "clarity_nt_char_72": "clarity_nt_char_72"
@@ -720,7 +720,7 @@
         "clarity_nt_char_78": "clarity_nt_char_78"
     },
     "241": {
-        "【190P】復活時50%で早詠みの杖": ""
+        "【190P】復活時50%で早詠みの杖": "[190P] Faster Caster On Revive 50%"
     },
     "242": {
         "clarity_nt_char_79": "clarity_nt_char_79"
@@ -762,7 +762,7 @@
         "clarity_nt_char_83": "clarity_nt_char_83"
     },
     "255": {
-        "【200P】復活時75%で早詠みの杖": ""
+        "【200P】復活時75%で早詠みの杖": "[200P] Faster Caster On Revive 75%"
     },
     "256": {
         "clarity_nt_char_84": "clarity_nt_char_84"
@@ -864,13 +864,13 @@
         "全職業ですばやさ+30": "Natural Agility +30"
     },
     "289": {
-        "メイクアップ（専）": ""
+        "メイクアップ（専）": "Extreme Makeover (EX)"
     },
     "290": {
         "全職業でこうげき魔力+10": "Natural Mag. Might +10"
     },
     "291": {
-        "ボディーガード呼び（専）": ""
+        "ボディーガード呼び（専）": "Call Bodyguard (EX)"
     },
     "292": {
         "clarity_nt_char_96": "clarity_nt_char_96"
@@ -879,16 +879,16 @@
         "全職業でみりょく+60": "Natural Charm +60"
     },
     "294": {
-        "ベストスマイル（専）": ""
+        "ベストスマイル（専）": "Best Smile (EX)"
     },
     "295": {
         "clarity_nt_char_97": "clarity_nt_char_97"
     },
     "296": {
-        "ゴールドシャワー（専）": ""
+        "ゴールドシャワー（専）": "Gold Rush (EX)"
     },
     "297": {
-        "みりょく+30（専）": ""
+        "みりょく+30（専）": "Charm +30 (EX)"
     },
     "298": {
         "clarity_nt_char_98": "clarity_nt_char_98"
