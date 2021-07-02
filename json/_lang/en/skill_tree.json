@@ -2505,7 +2505,7 @@
         "かまいたちの特技を　おぼえた！": ""
     },
     "836": {
-        "格闘の時の　こうげき力が　２０　増えた！": "Attack +20 when Fist equipped!"
+        "格闘の時の　こうげき力が　２０　増えた！": "Attack increased by 20 when|fighting bare-handed!"
     },
     "837": {
         "clarity_nt_char_280": "clarity_nt_char_280"
@@ -2526,7 +2526,7 @@
         "clarity_nt_char_282": "clarity_nt_char_282"
     },
     "843": {
-        "格闘の時の　こうげき力が　４０　増えた！": "Attack +40 when Fist equipped!"
+        "格闘の時の　こうげき力が　４０　増えた！": "Attack increased by 40 when|fighting bare-handed!"
     },
     "844": {
         "clarity_nt_char_283": "clarity_nt_char_283"
@@ -2637,7 +2637,7 @@
         "clarity_nt_char_295": "clarity_nt_char_295"
     },
     "880": {
-        "棍装備時の　こうげき力が　１５　増えた！": "Attack +15 when Rod equipped!"
+        "棍装備時の　こうげき力が　１５　増えた！": "Attack +15 when equipped|with a Rod!"
     },
     "881": {
         "clarity_nt_char_296": "clarity_nt_char_296"
@@ -2655,7 +2655,7 @@
         "clarity_nt_char_297": "clarity_nt_char_297"
     },
     "886": {
-        "棍装備時の　こうげき力が　２０　増えた！": "Attack +20 when Rod equipped!"
+        "棍装備時の　こうげき力が　２０　増えた！": "Attack +20 when equipped|with a Rod!"
     },
     "887": {
         "clarity_nt_char_298": "clarity_nt_char_298"
@@ -2688,7 +2688,7 @@
         "clarity_nt_char_302": "clarity_nt_char_302"
     },
     "897": {
-        "棍装備時の　こうげき力が　１０　増えた！": "Attack +10 when Rod equipped!"
+        "棍装備時の　こうげき力が　１０　増えた！": "Attack +10 when equipped|with a Rod!"
     },
     "898": {
         "clarity_nt_char_303": "clarity_nt_char_303"
@@ -12030,10 +12030,10 @@
         "clarity_nt_char_1363": "clarity_nt_char_1363"
     },
     "4011": {
-        "棍装備時の　こうげき力が　５　増えた！": "Attack +5 when Rod equipped!"
+        "棍装備時の　こうげき力が　５　増えた！": "Attack +5 when equipped|with a Rod!"
     },
     "4012": {
-        "棍装備時の　こうげき力が　８　増えた！": "Attack +8 when Rod equipped!"
+        "棍装備時の　こうげき力が　８　増えた！": "Attack +8 when equipped|with a Rod!"
     },
     "4013": {
         "棍での攻撃時　会心のいちげきが|さらに　出やすくなった！": ""
@@ -12687,13 +12687,13 @@
         "clarity_nt_char_1436": "clarity_nt_char_1436"
     },
     "4230": {
-        "格闘の時の　こうげき力が　１０　増えた！": "Attack +10 when Fist equipped!"
+        "格闘の時の　こうげき力が　１０　増えた！": "Attack increased by 10 when|fighting bare-handed!"
     },
     "4231": {
         "clarity_nt_char_1437": "clarity_nt_char_1437"
     },
     "4232": {
-        "格闘の時の　こうげき力が　３０　増えた！": "Attack +30 when Fist equipped!"
+        "格闘の時の　こうげき力が　３０　増えた！": "Attack increased by 30 when|fighting bare-handed!"
     },
     "4233": {
         "clarity_nt_char_1438": "clarity_nt_char_1438"
@@ -16110,13 +16110,13 @@
         "clarity_nt_char_1832": "clarity_nt_char_1832"
     },
     "5371": {
-        "格闘の時の|こうげき力が|２０増える": "Attack +20|when Fist|equipped."
+        "格闘の時の|こうげき力が|２０増える": "Attack +20|when fighting|bare-handed."
     },
     "5372": {
         "clarity_nt_char_1833": "clarity_nt_char_1833"
     },
     "5373": {
-        "格闘の時の|こうげき力が|３０増える": "Attack +30|when Fist|equipped."
+        "格闘の時の|こうげき力が|３０増える": "Attack +30|when fighting|bare-handed."
     },
     "5374": {
         "clarity_nt_char_1834": "clarity_nt_char_1834"
@@ -22521,13 +22521,13 @@
         "clarity_nt_char_2563": "clarity_nt_char_2563"
     },
     "7508": {
-        "棍装備時の　こうげき力が　３０　増えた！": "Attack +30 when Rod equipped!"
+        "棍装備時の　こうげき力が　３０　増えた！": "Attack +30 when equipped|with a Rod!"
     },
     "7509": {
         "clarity_nt_char_2564": "clarity_nt_char_2564"
     },
     "7510": {
-        "棍装備時の　こうげき力が　４０　増えた！": "Attack +40 when Rod equipped!"
+        "棍装備時の　こうげき力が　４０　増えた！": "Attack +40 when equipped|with a Rod!"
     },
     "7511": {
         "clarity_nt_char_2565": "clarity_nt_char_2565"
