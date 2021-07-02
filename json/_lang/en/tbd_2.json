@@ -492,13 +492,13 @@
         "レアドロップ率 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>倍": ""
     },
     "165": {
-        "炎属性攻撃": ""
+        "炎属性攻撃": "Fire Element"
     },
     "166": {
-        "氷属性攻撃": ""
+        "氷属性攻撃": "Ice Element"
     },
     "167": {
-        "風属性攻撃": ""
+        "風属性攻撃": "Wind Element"
     },
     "168": {
         "雷属性攻撃": ""
@@ -675,7 +675,7 @@
         "clarity_nt_char_72": "clarity_nt_char_72"
     },
     "226": {
-        "ドラゴン系に ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "ドラゴン系に ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Damage to Dragon-types +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "227": {
         "clarity_nt_char_73": "clarity_nt_char_73"
