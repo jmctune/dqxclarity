@@ -168,7 +168,7 @@
         "では　オフラインモードで　冒険の続きを|遊びますか？<yesno_nc><break>": ""
     },
     "57": {
-        "オンラインの世界では　多くの人が|あなたのキャラや　兄弟（姉妹）キャラの名前を|目にすることになります。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　変更を　お願いします。<color_white><br>|ドラゴンクエストⅩの　オンラインの世界に|『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。<br>|『<%sPCNAME>』という名前で|冒険を　始めますか？<yesno><break>": ""
+        "オンラインの世界では　多くの人が|あなたのキャラや　兄弟（姉妹）キャラの名前を|目にすることになります。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　変更を　お願いします。<color_white><br>|ドラゴンクエストⅩの　オンラインの世界に|『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。<br>|『<%sPCNAME>』という名前で|冒険を　始めますか？<yesno><break>": "In this online world, people will be able|to see the name of your character and|your sibling.<br>|<color_yellow>*Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable.<color_white><br>|It seems there are <%dNUM> other players also|using the name \"<%sPCNAME>\" in Dragon Quest X.<br>|Would you like to start your adventure|with the name \"<%sPCNAME>\"?<yesno><break>"
     },
     "58": {
         "オンラインの世界では　多くの人が|あなたのキャラや　兄弟（姉妹）キャラの名前を|目にすることになります。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　変更を　お願いします。<color_white><br>|ドラゴンクエストⅩの　オンラインの世界に|『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。<br>|『<%sPCNAME>』という名前で|冒険を　始めますか？<yesno><break>": ""
