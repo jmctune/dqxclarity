@@ -36,7 +36,7 @@
         "エラーコード：<%sERRID>|システムエラーが発生しました。|インストールした環境に　問題がある|可能性があります。ドラゴンクエストⅩを|インストールしなおしてください。|問題が解決しないようであれば|「ドラゴンクエストⅩ」サポートセンターのページも|ご確認ください。|https://sqex.to/eh6|＜ボタンを押すと　ゲームを終了します＞": "Error code: <%sERRID> | |A system error has occurred|There is a problem running the game on your PC|Please try to reinstall Dragon Quest X|If the problem persists|Check the Dragon Quest X Support Center|https://sqex.to/eh6|<Press the button to close the game>"
     },
     "13": {
-        "エラーコード：<%sERRID>|　|サーバーへの接続が　できませんでした。|　|正しくインターネットに接続できる状態か|接続先の設定を　ご確認の上|もう一度　お試しください。": ""
+        "エラーコード：<%sERRID>|　|サーバーへの接続が　できませんでした。|　|正しくインターネットに接続できる状態か|接続先の設定を　ご確認の上|もう一度　お試しください。": "Error code: <%sERRID> | |Unable to connect to server|Check your internet connection and try again"
     },
     "14": {
         "エラーコード：<%sERRID>|システムエラーが発生しました。|『スクウェア・エニックスからのお知らせ』の|障害情報を　ご確認の上|少し時間を置いてから　もう一度　お試しください。|現在のプレイ環境で　公開されていないマップへは|移動できません。|くわしくは「目覚めし冒険者の広場」の|トピックスをご確認ください。": ""
