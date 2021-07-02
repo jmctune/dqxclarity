@@ -468,10 +468,10 @@
         "『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。|冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": "There seems to be no other players|with the name \"<%sPCNAME>\".|Use this name for Adventure Book <%dNO>?<yesno><break>"
     },
     "157": {
-        "冒険の書<%nNO>のキャラの名前は|『<%sPCNAME>』で　よろしいですか？<yesno><break>": ""
+        "冒険の書<%nNO>のキャラの名前は|『<%sPCNAME>』で　よろしいですか？<yesno><break>": "Use the name \"<%sPCNAME>\" for Adventure|Book <%dNO>?<yesno><break>"
     },
     "158": {
-        "冒険の書<%nNO>に　保存されている|『<%sPCNAME>』のデータを|オンライン世界に　反映させます。<end>": ""
+        "冒険の書<%nNO>に　保存されている|『<%sPCNAME>』のデータを|オンライン世界に　反映させます。<end>": "The data of \"<%sPCNAME>\" in Adventure|Book <%dNO> will be copied to the online|world.<end>"
     },
     "159": {
         "ログイン画面に　戻りますか？<yesno 2><break>": ""
