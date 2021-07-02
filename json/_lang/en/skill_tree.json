@@ -2265,7 +2265,7 @@
         "バードシュートの特技を　おぼえた！": ""
     },
     "756": {
-        "弓装備時の　こうげき力が　１０　増えた！": "Attack +10 when|equipped with a Bow!"
+        "弓装備時の　こうげき力が　１０　増えた！": "Attack increased by 10 when|equipped with a Bow!"
     },
     "757": {
         "clarity_nt_char_251": "clarity_nt_char_251"
@@ -2283,7 +2283,7 @@
         "clarity_nt_char_252": "clarity_nt_char_252"
     },
     "762": {
-        "弓装備時の　こうげき力が　１５　増えた！": "Attack +15 when|equipped with a Bow!"
+        "弓装備時の　こうげき力が　１５　増えた！": "Attack increased by 15 when|equipped with a Bow!"
     },
     "763": {
         "clarity_nt_char_253": "clarity_nt_char_253"
@@ -2442,7 +2442,7 @@
         "clarity_nt_char_271": "clarity_nt_char_271"
     },
     "815": {
-        "扇装備時の　こうげき力が　１０　増えた！": "Attack +10 when Fan equipped!"
+        "扇装備時の　こうげき力が　１０　増えた！": "Attack increased by 10 when Fan equipped!"
     },
     "816": {
         "clarity_nt_char_272": "clarity_nt_char_272"
@@ -2466,7 +2466,7 @@
         "clarity_nt_char_275": "clarity_nt_char_275"
     },
     "823": {
-        "扇装備時の　こうげき力が　１５　増えた！": "Attack +15 when Fan equipped!"
+        "扇装備時の　こうげき力が　１５　増えた！": "Attack increased by 15 when Fan equipped!"
     },
     "824": {
         "clarity_nt_char_276": "clarity_nt_char_276"
@@ -2637,7 +2637,7 @@
         "clarity_nt_char_295": "clarity_nt_char_295"
     },
     "880": {
-        "棍装備時の　こうげき力が　１５　増えた！": "Attack +15 when equipped|with a Rod!"
+        "棍装備時の　こうげき力が　１５　増えた！": "Attack increased by 15 when equipped|with a Rod!"
     },
     "881": {
         "clarity_nt_char_296": "clarity_nt_char_296"
@@ -2655,7 +2655,7 @@
         "clarity_nt_char_297": "clarity_nt_char_297"
     },
     "886": {
-        "棍装備時の　こうげき力が　２０　増えた！": "Attack +20 when equipped|with a Rod!"
+        "棍装備時の　こうげき力が　２０　増えた！": "Attack increased by 20 when equipped|with a Rod!"
     },
     "887": {
         "clarity_nt_char_298": "clarity_nt_char_298"
@@ -2688,7 +2688,7 @@
         "clarity_nt_char_302": "clarity_nt_char_302"
     },
     "897": {
-        "棍装備時の　こうげき力が　１０　増えた！": "Attack +10 when equipped|with a Rod!"
+        "棍装備時の　こうげき力が　１０　増えた！": "Attack increased by 10 when equipped|with a Rod!"
     },
     "898": {
         "clarity_nt_char_303": "clarity_nt_char_303"
@@ -2823,7 +2823,7 @@
         "ヤリ装備時　武器ガードを　しやすくなった！": ""
     },
     "942": {
-        "ヤリ装備時の　こうげき力が　１５　増えた！": "Attack +15 when Spear equipped!"
+        "ヤリ装備時の　こうげき力が　１５　増えた！": "Attack increased by 15 when Spear equipped!"
     },
     "943": {
         "一閃突きの特技を　おぼえた！": "You learned T. Thrust!"
@@ -2832,7 +2832,7 @@
         "clarity_nt_char_318": "clarity_nt_char_318"
     },
     "945": {
-        "ヤリ装備時の　こうげき力が　２０　増えた！": "Attack +20 when Spear equipped!"
+        "ヤリ装備時の　こうげき力が　２０　増えた！": "Attack increased by 20 when Spear equipped!"
     },
     "946": {
         "狼牙突きの特技を　おぼえた！": ""
@@ -2862,7 +2862,7 @@
         "clarity_nt_char_322": "clarity_nt_char_322"
     },
     "955": {
-        "ヤリ装備時の　こうげき力が　１０　増えた！": "Attack +10 when Spear equipped!"
+        "ヤリ装備時の　こうげき力が　１０　増えた！": "Attack increased by 10 when Spear equipped!"
     },
     "956": {
         "マジステッキの特技を　おぼえた！": ""
@@ -2919,7 +2919,7 @@
         "ビーストファングⅡ": ""
     },
     "974": {
-        "片手剣装備時の　こうげき力が　５　増えた！": "Attack +5 when a Sword is equipped!"
+        "片手剣装備時の　こうげき力が　５　増えた！": "Attack increased by 5 when a Sword is equipped!"
     },
     "975": {
         "ドラゴン斬りの特技を　おぼえた！": "You learned Dragon Slash!"
@@ -2937,7 +2937,7 @@
         "ミラクルソードの特技を　おぼえた！": "You learned Miracle Slash!"
     },
     "980": {
-        "片手剣装備時の　こうげき力が　１０　増えた！": "Attack +10 when a Sword is equipped!"
+        "片手剣装備時の　こうげき力が　１０　増えた！": "Attack increased by 10 when a Sword is equipped!"
     },
     "981": {
         "clarity_nt_char_331": "clarity_nt_char_331"
@@ -2952,7 +2952,7 @@
         "片手剣装備時に　武器ガードが|できるようになった！": ""
     },
     "985": {
-        "片手剣装備時の　こうげき力が　１５　増えた！": "Attack +15 when a Sword is equipped!"
+        "片手剣装備時の　こうげき力が　１５　増えた！": "Attack increased by 15 when a Sword is equipped!"
     },
     "986": {
         "clarity_nt_char_333": "clarity_nt_char_333"
@@ -3042,7 +3042,7 @@
         "clarity_nt_char_343": "clarity_nt_char_343"
     },
     "1015": {
-        "ムチ装備時の　こうげき力が　５　増えた！": "Attack +5 when Whip equipped!"
+        "ムチ装備時の　こうげき力が　５　増えた！": "Attack increased by 5 when Whip equipped!"
     },
     "1016": {
         "clarity_nt_char_344": "clarity_nt_char_344"
@@ -3081,7 +3081,7 @@
         "clarity_nt_char_349": "clarity_nt_char_349"
     },
     "1028": {
-        "ムチ装備時の　こうげき力が　１０　増えた！": "Attack +10 when Whip equipped!"
+        "ムチ装備時の　こうげき力が　１０　増えた！": "Attack increased by 10 when Whip equipped!"
     },
     "1029": {
         "疾風迅雷の特技を　おぼえた！": ""
@@ -4227,7 +4227,7 @@
         "デスパワーブーストの特技を　おぼえた！": ""
     },
     "1410": {
-        "鎌装備時の　こうげき力が　２０　増えた！": "Attack +20 when Sickle equipped!"
+        "鎌装備時の　こうげき力が　２０　増えた！": "Attack increased by 20 when Sickle equipped!"
     },
     "1411": {
         "clarity_nt_char_481": "clarity_nt_char_481"
@@ -4254,7 +4254,7 @@
         "早詠みの陣の特技を　おぼえた！": ""
     },
     "1419": {
-        "鎌装備時の　こうげき力が　２５　増えた！": "Attack +25 when Sickle equipped!"
+        "鎌装備時の　こうげき力が　２５　増えた！": "Attack increased by 25 when Sickle equipped!"
     },
     "1420": {
         "clarity_nt_char_483": "clarity_nt_char_483"
@@ -4284,10 +4284,10 @@
         "clarity_nt_char_485": "clarity_nt_char_485"
     },
     "1429": {
-        "ヤリ装備時の　こうげき力が　２５　増えた！": "Attack +25 when Spear equipped!"
+        "ヤリ装備時の　こうげき力が　２５　増えた！": "Attack increased by 25 when Spear equipped!"
     },
     "1430": {
-        "ヤリ装備時の　こうげき力が　３０　増えた！": "Attack +30 when Spear equipped!"
+        "ヤリ装備時の　こうげき力が　３０　増えた！": "Attack increased by 30 when Spear equipped!"
     },
     "1431": {
         "一閃突き・改の特技を　おぼえた！": ""
@@ -4344,13 +4344,13 @@
         "clarity_nt_char_493": "clarity_nt_char_493"
     },
     "1449": {
-        "片手剣装備時の　こうげき力が　２０　増えた！": "Attack +20 when a Sword is equipped!"
+        "片手剣装備時の　こうげき力が　２０　増えた！": "Attack increased by 20 when a Sword is equipped!"
     },
     "1450": {
         "clarity_nt_char_494": "clarity_nt_char_494"
     },
     "1451": {
-        "片手剣装備時の　こうげき力が　３０　増えた！": "Attack +30 when a Sword is equipped!"
+        "片手剣装備時の　こうげき力が　３０　増えた！": "Attack increased by 30 when a Sword is equipped!"
     },
     "1452": {
         "clarity_nt_char_495": "clarity_nt_char_495"
@@ -4437,7 +4437,7 @@
         "clarity_nt_char_502": "clarity_nt_char_502"
     },
     "1480": {
-        "鎌装備時の　こうげき力が　３０　増えた！": "Attack +30 when Sickle equipped!"
+        "鎌装備時の　こうげき力が　３０　増えた！": "Attack increased by 30 when Sickle equipped!"
     },
     "1481": {
         "clarity_nt_char_503": "clarity_nt_char_503"
@@ -4449,7 +4449,7 @@
         "clarity_nt_char_504": "clarity_nt_char_504"
     },
     "1484": {
-        "鎌装備時の　こうげき力が　４０　増えた！": "Attack +40 when Sickle equipped!"
+        "鎌装備時の　こうげき力が　４０　増えた！": "Attack increased by 40 when Sickle equipped!"
     },
     "1485": {
         "clarity_nt_char_505": "clarity_nt_char_505"
@@ -11730,7 +11730,7 @@
         "clarity_nt_char_1327": "clarity_nt_char_1327"
     },
     "3911": {
-        "片手剣装備時の　こうげき力が　８　増えた！": "Attack +8 when a Sword is equipped!"
+        "片手剣装備時の　こうげき力が　８　増えた！": "Attack increased by 8 when a Sword is equipped!"
     },
     "3912": {
         "かえん斬りの威力が　あがった！": ""
@@ -11952,13 +11952,13 @@
         "clarity_nt_char_1351": "clarity_nt_char_1351"
     },
     "3985": {
-        "ヤリ装備時の　こうげき力が　５　増えた！": "Attack +5 when Spear equipped!"
+        "ヤリ装備時の　こうげき力が　５　増えた！": "Attack increased by 5 when Spear equipped!"
     },
     "3986": {
         "clarity_nt_char_1352": "clarity_nt_char_1352"
     },
     "3987": {
-        "ヤリ装備時の　こうげき力が　８　増えた！": "Attack +8 when Spear equipped!"
+        "ヤリ装備時の　こうげき力が　８　増えた！": "Attack increased by 8 when Spear equipped!"
     },
     "3988": {
         "clarity_nt_char_1353": "clarity_nt_char_1353"
@@ -12030,10 +12030,10 @@
         "clarity_nt_char_1363": "clarity_nt_char_1363"
     },
     "4011": {
-        "棍装備時の　こうげき力が　５　増えた！": "Attack +5 when equipped|with a Rod!"
+        "棍装備時の　こうげき力が　５　増えた！": "Attack increased by 5 when equipped|with a Rod!"
     },
     "4012": {
-        "棍装備時の　こうげき力が　８　増えた！": "Attack +8 when equipped|with a Rod!"
+        "棍装備時の　こうげき力が　８　増えた！": "Attack increased by 8 when equipped|with a Rod!"
     },
     "4013": {
         "棍での攻撃時　会心のいちげきが|さらに　出やすくなった！": ""
@@ -12087,7 +12087,7 @@
         "バイキルショットⅢの特技を　おぼえた！": ""
     },
     "4030": {
-        "ムチ装備時の　こうげき力が　８　増えた！": "Attack +8 when Whip equipped!"
+        "ムチ装備時の　こうげき力が　８　増えた！": "Attack increased by 8 when Whip equipped!"
     },
     "4031": {
         "clarity_nt_char_1368": "clarity_nt_char_1368"
@@ -12261,10 +12261,10 @@
         "clarity_nt_char_1388": "clarity_nt_char_1388"
     },
     "4088": {
-        "扇装備時の　こうげき力が　５　増えた！": "Attack +5 when Fan equipped!"
+        "扇装備時の　こうげき力が　５　増えた！": "Attack increased by 5 when Fan equipped!"
     },
     "4089": {
-        "扇装備時の　こうげき力が　８　増えた！": "Attack +8 when Fan equipped!"
+        "扇装備時の　こうげき力が　８　増えた！": "Attack increased by 8 when Fan equipped!"
     },
     "4090": {
         "扇での攻撃時　会心のいちげきが|さらに　出やすくなった！": ""
@@ -12426,10 +12426,10 @@
         "clarity_nt_char_1406": "clarity_nt_char_1406"
     },
     "4143": {
-        "弓装備時の　こうげき力が　５　増えた！": "Attack +5 when|equipped with a Bow!"
+        "弓装備時の　こうげき力が　５　増えた！": "Attack increased by 5 when|equipped with a Bow!"
     },
     "4144": {
-        "弓装備時の　こうげき力が　８　増えた！": "Attack +8 when|equipped with a Bow!"
+        "弓装備時の　こうげき力が　８　増えた！": "Attack increased by 8 when|equipped with a Bow!"
     },
     "4145": {
         "弓での攻撃時　会心のいちげきが|さらに　出やすくなった！": ""
@@ -15066,16 +15066,16 @@
         "clarity_nt_char_1725": "clarity_nt_char_1725"
     },
     "5023": {
-        "鎌装備時の　こうげき力が　８　増えた！": "Attack +8 when Sickle equipped!"
+        "鎌装備時の　こうげき力が　８　増えた！": "Attack increased by 8 when Sickle equipped!"
     },
     "5024": {
-        "鎌装備時の　こうげき力が　１０　増えた！": "Attack +10 when Sickle equipped!"
+        "鎌装備時の　こうげき力が　１０　増えた！": "Attack increased by 10 when Sickle equipped!"
     },
     "5025": {
         "clarity_nt_char_1726": "clarity_nt_char_1726"
     },
     "5026": {
-        "鎌装備時の　こうげき力が　１５　増えた！": "Attack +15 when Sickle equipped!"
+        "鎌装備時の　こうげき力が　１５　増えた！": "Attack increased by 15 when Sickle equipped!"
     },
     "5027": {
         "clarity_nt_char_1727": "clarity_nt_char_1727"
@@ -15354,13 +15354,13 @@
         "clarity_nt_char_1755": "clarity_nt_char_1755"
     },
     "5119": {
-        "オノ装備時の|こうげき力が|５増える": "Attack +5|when Axe|equipped."
+        "オノ装備時の|こうげき力が|５増える": "Attack +5|when an Axe|is equipped."
     },
     "5120": {
         "clarity_nt_char_1756": "clarity_nt_char_1756"
     },
     "5121": {
-        "オノ装備時の|こうげき力が|８増える": "Attack +8|when Axe|equipped."
+        "オノ装備時の|こうげき力が|８増える": "Attack +8|when an Axe|is equipped."
     },
     "5122": {
         "clarity_nt_char_1757": "clarity_nt_char_1757"
@@ -15369,7 +15369,7 @@
         "オノ装備時の|こうげき力が|１０増える": "Attack +10|when an Axe|is equipped."
     },
     "5124": {
-        "オノ装備時の|かいしん率が|１％増える": "Critical Rate +1%|when Axe|equipped."
+        "オノ装備時の|かいしん率が|１％増える": "Critical Rate +1%|when an Axe|is equipped."
     },
     "5125": {
         "オノ装備時の|かいしん率が|１．２％増える": "Crit. Rate +1.2%|when an Axe|is equipped."
@@ -15486,19 +15486,19 @@
         "clarity_nt_char_1769": "clarity_nt_char_1769"
     },
     "5163": {
-        "棍装備時の|こうげき力が|５増える": "Attack +5|when Rod|equipped."
+        "棍装備時の|こうげき力が|５増える": "Attack +5|when a Rod|is equipped."
     },
     "5164": {
-        "棍装備時の|こうげき力が|８増える": "Attack +8|when Rod|equipped."
+        "棍装備時の|こうげき力が|８増える": "Attack +8|when a Rod|is equipped."
     },
     "5165": {
-        "棍装備時の|こうげき力が|１０増える": "Attack +10|when Rod|equipped."
+        "棍装備時の|こうげき力が|１０増える": "Attack +10|when a Rod|is equipped."
     },
     "5166": {
         "clarity_nt_char_1770": "clarity_nt_char_1770"
     },
     "5167": {
-        "棍装備時の|かいしん率が|１％増える": "Critical Rate +1%|when Rod|equipped."
+        "棍装備時の|かいしん率が|１％増える": "Critical Rate +1%|when a Rod|is equipped."
     },
     "5168": {
         "clarity_nt_char_1771": "clarity_nt_char_1771"
@@ -15870,19 +15870,19 @@
         "clarity_nt_char_1805": "clarity_nt_char_1805"
     },
     "5291": {
-        "弓装備時の|こうげき力が|５増える": "Attack +5|when Bow|equipped."
+        "弓装備時の|こうげき力が|５増える": "Attack +5|when a Bow|is equipped."
     },
     "5292": {
-        "弓装備時の|こうげき力が|８増える": "Attack +8|when Bow|equipped."
+        "弓装備時の|こうげき力が|８増える": "Attack +8|when a Bow|is equipped."
     },
     "5293": {
-        "弓装備時の|こうげき力が|１０増える": "Attack +10|when Bow|equipped."
+        "弓装備時の|こうげき力が|１０増える": "Attack +10|when a Bow|is equipped."
     },
     "5294": {
         "clarity_nt_char_1806": "clarity_nt_char_1806"
     },
     "5295": {
-        "弓装備時の|かいしん率が|１％増える": "Critical Rate +1%|when Bow|equipped."
+        "弓装備時の|かいしん率が|１％増える": "Critical Rate +1%|when a Bow|is equipped."
     },
     "5296": {
         "clarity_nt_char_1807": "clarity_nt_char_1807"
@@ -18321,22 +18321,22 @@
         "clarity_nt_char_2091": "clarity_nt_char_2091"
     },
     "6108": {
-        "鎌装備時の|こうげき力が|８増える": "Attack +8|when Sickle|equipped."
+        "鎌装備時の|こうげき力が|８増える": "Attack +8|when a Sickle|is equipped."
     },
     "6109": {
-        "鎌装備時の|こうげき力が|１０増える": "Attack +10|when Sickle|equipped."
+        "鎌装備時の|こうげき力が|１０増える": "Attack +10|when a Sickle|is equipped."
     },
     "6110": {
         "clarity_nt_char_2092": "clarity_nt_char_2092"
     },
     "6111": {
-        "鎌装備時の|こうげき力が|１５増える": "Attack +15|when Sickle|equipped."
+        "鎌装備時の|こうげき力が|１５増える": "Attack +15|when a Sickle|is equipped."
     },
     "6112": {
         "clarity_nt_char_2093": "clarity_nt_char_2093"
     },
     "6113": {
-        "鎌装備時の|かいしん率が|１％増える": "Critical Rate +1%|when Sickle|equipped."
+        "鎌装備時の|かいしん率が|１％増える": "Critical Rate +1%|when a Sickle|is equipped."
     },
     "6114": {
         "clarity_nt_char_2094": "clarity_nt_char_2094"
@@ -18354,22 +18354,22 @@
         "clarity_nt_char_2096": "clarity_nt_char_2096"
     },
     "6119": {
-        "鎌装備時の|武器ガード率が|２％増える": "Parry Rate +2%|when Sickle|equipped."
+        "鎌装備時の|武器ガード率が|２％増える": "Parry Rate +2%|when a Sickle|is equipped."
     },
     "6120": {
-        "鎌装備時の|武器ガード率が|３％増える": "Parry Rate +3%|when Sickle|equipped."
+        "鎌装備時の|武器ガード率が|３％増える": "Parry Rate +3%|when a Sickle|is equipped."
     },
     "6121": {
-        "鎌装備時の|武器ガード率が|４％増える": "Parry Rate +4%|when Sickle|equipped."
+        "鎌装備時の|武器ガード率が|４％増える": "Parry Rate +4%|when a Sickle|is equipped."
     },
     "6122": {
-        "鎌装備時の|こうげき魔力が|２０増える": "Magical might +20|when Sickle|equipped."
+        "鎌装備時の|こうげき魔力が|２０増える": "Magical might +20|when a Sickle|is equipped."
     },
     "6123": {
-        "鎌装備時の|こうげき魔力が|３０増える": "Magical might +30|when Sickle|equipped."
+        "鎌装備時の|こうげき魔力が|３０増える": "Magical might +30|when a Sickle|is equipped."
     },
     "6124": {
-        "鎌装備時の|こうげき魔力が|４０増える": "Magical might +40|when Sickle|equipped."
+        "鎌装備時の|こうげき魔力が|４０増える": "Magical might +40|when a Sickle|is equipped."
     },
     "6125": {
         "鎌装備時の|呪文ぼうそう率が|１％増える": ""
@@ -21186,10 +21186,10 @@
         "clarity_nt_char_2430": "clarity_nt_char_2430"
     },
     "7063": {
-        "ムチ装備時の　こうげき力が　２０　増えた！": "Attack +20 when Whip equipped!"
+        "ムチ装備時の　こうげき力が　２０　増えた！": "Attack increased by 20 when Whip equipped!"
     },
     "7064": {
-        "ムチ装備時の　こうげき力が　３０　増えた！": "Attack +30 when Whip equipped!"
+        "ムチ装備時の　こうげき力が　３０　増えた！": "Attack increased by 30 when Whip equipped!"
     },
     "7065": {
         "ムチ装備時の　特技が少し遠くから|当たるようになった！": ""
@@ -22521,13 +22521,13 @@
         "clarity_nt_char_2563": "clarity_nt_char_2563"
     },
     "7508": {
-        "棍装備時の　こうげき力が　３０　増えた！": "Attack +30 when equipped|with a Rod!"
+        "棍装備時の　こうげき力が　３０　増えた！": "Attack increased by 30 when equipped|with a Rod!"
     },
     "7509": {
         "clarity_nt_char_2564": "clarity_nt_char_2564"
     },
     "7510": {
-        "棍装備時の　こうげき力が　４０　増えた！": "Attack +40 when equipped|with a Rod!"
+        "棍装備時の　こうげき力が　４０　増えた！": "Attack increased by 40 when equipped|with a Rod!"
     },
     "7511": {
         "clarity_nt_char_2565": "clarity_nt_char_2565"
