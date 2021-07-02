@@ -246,7 +246,7 @@
         "clarity_nt_char_28": "clarity_nt_char_28"
     },
     "83": {
-        "鉄甲斬系の極意": "Scrap Mettle Secret"
+        "鉄甲斬系の極意": "Scrap Axe Secret"
     },
     "84": {
         "真・オノむそうの極意": "Secret of True Axes of Evil"
@@ -1971,13 +1971,13 @@
         "オノむそうの威力+1%": "Axes of Evil Power +1%"
     },
     "658": {
-        "鉄甲斬系の威力+8%": "Scrap Mettle-type +8%"
+        "鉄甲斬系の威力+8%": "Scrap Axe-type +8%"
     },
     "659": {
         "clarity_nt_char_221": "clarity_nt_char_221"
     },
     "660": {
-        "鉄甲斬系の威力+3%": "Scrap Mettle-type +3%"
+        "鉄甲斬系の威力+3%": "Scrap Axe-type +3%"
     },
     "661": {
         "clarity_nt_char_222": "clarity_nt_char_222"
@@ -7725,7 +7725,7 @@
         "オノむそうのダメージが４％増える|（オノ専用）": "Axes of Evil damage increased by 4%.|(Axe Only)"
     },
     "2576": {
-        "鉄甲斬系のダメージが８％増える|（オノ専用）": "Scrap Mettle-type damage increased|by 8%. (Axe Only)"
+        "鉄甲斬系のダメージが８％増える|（オノ専用）": "Scrap Axe-type damage increased|by 8%. (Axe Only)"
     },
     "2577": {
         "clarity_nt_char_892": "clarity_nt_char_892"
@@ -11523,10 +11523,10 @@
         "clarity_nt_char_1321": "clarity_nt_char_1321"
     },
     "3842": {
-        "鉄甲斬系の威力+16%": "Scrap Mettle-type +16%"
+        "鉄甲斬系の威力+16%": "Scrap Axe-type +16%"
     },
     "3843": {
-        "鉄甲斬系の威力+24%": "Scrap Mettle-type +24%"
+        "鉄甲斬系の威力+24%": "Scrap Axe-type +24%"
     },
     "3844": {
         "鉄甲斬系の威力+32%": "Scrap Mettle-type +32%"
