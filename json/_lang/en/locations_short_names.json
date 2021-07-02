@@ -3108,7 +3108,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>旅人の宿": ""
     },
     "1037": {
-        "アグラニの町への出口": "Town of Agrani Exit"
+        "アグラニの町への出口": "Exit to Town of Agrani"
     },
     "1038": {
         "clarity_nt_char_332": "clarity_nt_char_332"
@@ -3444,13 +3444,13 @@
         "clarity_nt_char_365": "clarity_nt_char_365"
     },
     "1149": {
-        "ミューズ海岸への出口": ""
+        "ミューズ海岸への出口": "Exit to Muse Coast"
     },
     "1150": {
         "clarity_nt_char_366": "clarity_nt_char_366"
     },
     "1151": {
-        "ジュレットの町への出口": ""
+        "ジュレットの町への出口": "Exit to Julet Town"
     },
     "1152": {
         "枯れ井戸の地下洞 入口": "Underground Well Cave Entrance"
@@ -3648,7 +3648,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>入口": "<%sW_MAP_NAME><%sW_DELIMITER>Ent."
     },
     "1217": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地上への出口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地上への出口": "<%sW_MAP_NAME><%sW_DELIMITER>Exit to Above"
     },
     "1218": {
         "<%sW_MAP_NAME><%sW_DELIMITER>地下５階": ""
@@ -3984,7 +3984,7 @@
         "P": ""
     },
     "1329": {
-        "こもれびの広場への出口": ""
+        "こもれびの広場への出口": "Exit to Sunbeam Square"
     },
     "1330": {
         "<%sW_MAP_NAME><%sW_DELIMITER>海神の神殿跡": ""
