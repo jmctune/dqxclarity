@@ -2601,7 +2601,7 @@
         "モリナラ地下洞・深淵 出口": ""
     },
     "868": {
-        "キュララナ海岸への出口": ""
+        "キュララナ海岸への出口": "Exit to Curalana Coast"
     },
     "869": {
         "グレン城 入口": "Glen Castle Ent."
@@ -2958,16 +2958,16 @@
         "clarity_nt_char_316": "clarity_nt_char_316"
     },
     "987": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>岳都ガタラへの出口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>岳都ガタラへの出口": "<%sW_MAP_NAME><%sW_DELIMITER>Exit to Gatara"
     },
     "988": {
         "clarity_nt_char_317": "clarity_nt_char_317"
     },
     "989": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>ドルワーム水晶宮への出口": "<%sW_MAP_NAME><%sW_DELIMITER>Dolworm Crystal Palace Exit"
+        "<%sW_MAP_NAME><%sW_DELIMITER>ドルワーム水晶宮への出口": "<%sW_MAP_NAME><%sW_DELIMITER>Exit to Dolworm Crystal Palace"
     },
     "990": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>城下町への出口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>城下町への出口": "<%sW_MAP_NAME><%sW_DELIMITER>Exit to Castle Town"
     },
     "991": {
         "clarity_nt_char_318": "clarity_nt_char_318"
@@ -2979,19 +2979,19 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>メギストリスの都への出口": "<%sW_MAP_NAME><%sW_DELIMITER>Exit to Megistris City"
     },
     "994": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>ジュレットの町への出口": "<%sW_MAP_NAME><%sW_DELIMITER>Julet Village Exit"
+        "<%sW_MAP_NAME><%sW_DELIMITER>ジュレットの町への出口": "<%sW_MAP_NAME><%sW_DELIMITER>Exit to Julet Village"
     },
     "995": {
         "clarity_nt_char_319": "clarity_nt_char_319"
     },
     "996": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>ドルワーム王国への出口": "<%sW_MAP_NAME><%sW_DELIMITER>Dolworm Kingdom Exit"
+        "<%sW_MAP_NAME><%sW_DELIMITER>ドルワーム王国への出口": "<%sW_MAP_NAME><%sW_DELIMITER>Exit to Dolworm Kingdom"
     },
     "997": {
         "clarity_nt_char_320": "clarity_nt_char_320"
     },
     "998": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>カミハルムイ南への出口": "<%sW_MAP_NAME><%sW_DELIMITER>Kamiharmui S. Exit"
+        "<%sW_MAP_NAME><%sW_DELIMITER>カミハルムイ南への出口": "<%sW_MAP_NAME><%sW_DELIMITER>Exit to Kamiharmui South"
     },
     "999": {
         "clarity_nt_char_321": "clarity_nt_char_321"
@@ -3093,7 +3093,7 @@
         "clarity_nt_char_329": "clarity_nt_char_329"
     },
     "1032": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>オルフェアの町への出口": "<%sW_MAP_NAME><%sW_DELIMITER>Orphea Village Exit"
+        "<%sW_MAP_NAME><%sW_DELIMITER>オルフェアの町への出口": "<%sW_MAP_NAME><%sW_DELIMITER>Exit to Orphea Village"
     },
     "1033": {
         "clarity_nt_char_330": "clarity_nt_char_330"
