@@ -60,7 +60,7 @@
         "clarity_nt_char_7": "clarity_nt_char_7"
     },
     "21": {
-        "マイナスボタン": ""
+        "マイナスボタン": "minus button"
     },
     "22": {
         "コントロールスティック": ""
@@ -81,7 +81,7 @@
         "ヌンチャク振り": ""
     },
     "28": {
-        "プラスボタン": ""
+        "プラスボタン": "plus button"
     },
     "29": {
         "clarity_nt_char_10": "clarity_nt_char_10"
@@ -93,13 +93,13 @@
         "clarity_nt_char_11": "clarity_nt_char_11"
     },
     "32": {
-        "Ａボタン": ""
+        "Ａボタン": "A button"
     },
     "33": {
         "clarity_nt_char_12": "clarity_nt_char_12"
     },
     "34": {
-        "Ｚボタン": ""
+        "Ｚボタン": "Z button"
     },
     "35": {
         "clarity_nt_char_13": "clarity_nt_char_13"
@@ -117,7 +117,7 @@
         "Ｗiiリモコン振り": ""
     },
     "40": {
-        "Ｒボタン": ""
+        "Ｒボタン": "R button"
     },
     "41": {
         "clarity_nt_char_15": "clarity_nt_char_15"
@@ -132,13 +132,13 @@
         "２ボタン長押し": ""
     },
     "45": {
-        "Ｘボタン": ""
+        "Ｘボタン": "X button"
     },
     "46": {
         "clarity_nt_char_17": "clarity_nt_char_17"
     },
     "47": {
-        "Ｙボタン": ""
+        "Ｙボタン": "Y button"
     },
     "48": {
         "clarity_nt_char_18": "clarity_nt_char_18"
