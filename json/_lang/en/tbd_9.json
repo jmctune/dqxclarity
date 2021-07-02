@@ -162,13 +162,13 @@
         "<%sL_GREET_MESSAGE>": ""
     },
     "55": {
-        "<%nL_TYOUME_RIGHT>丁目": "Block <%nL_TYOUME_RIGHT>"
+        "<%nL_TYOUME_RIGHT>丁目": "Block <%dL_TYOUME_RIGHT>"
     },
     "56": {
         "clarity_nt_char_23": "clarity_nt_char_23"
     },
     "57": {
-        "<%nL_TYOUME_LEFT>丁目": "Block <%nL_TYOUME_LEFT>"
+        "<%nL_TYOUME_LEFT>丁目": "Block <%dL_TYOUME_LEFT>"
     },
     "58": {
         "<%sL_OWNER>の家|<%sM_houseComment>": "<%sL_OWNER> Home|<%sM_houseComment>"
