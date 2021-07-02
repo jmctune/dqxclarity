@@ -99,10 +99,10 @@
         "冒険の書<%nNO>のデータを　消しました。<end>": ""
     },
     "34": {
-        "冒険の書<%nNO>に保存されている|<%sPCNAME>と　<%sPCNAME2>の|すべての冒険の記録を消します。<br>|冒険の記録を消すと|<%sPCNAME>で　冒険ができなくなりますが|冒険の書<%nNO>を消しても　よろしいですか？<yesno 2><break>": ""
+        "冒険の書<%nNO>に保存されている|<%sPCNAME>と　<%sPCNAME2>の|すべての冒険の記録を消します。<br>|冒険の記録を消すと|<%sPCNAME>で　冒険ができなくなりますが|冒険の書<%nNO>を消しても　よろしいですか？<yesno 2><break>": "You are about to delete Adventure Book <%dNO>|of <%sPCNAME> and <%sPCNAME2>.<br>|If you do this, this data will be unrecoverable.|Are you sure?<yesno 2><break>"
     },
     "35": {
-        "冒険の書<%nNO>に保存されている|<%sPCNAME>の　冒険の記録を消します。|よろしいですか？<yesno 2><break>": ""
+        "冒険の書<%nNO>に保存されている|<%sPCNAME>の　冒険の記録を消します。|よろしいですか？<yesno 2><break>": "This will delete the records of <%sPCNAME>|saved in Adventure Book <%dNO>.|Are you sure?<yesno 2><break>"
     },
     "36": {
         "あやまって消すのを防ぐため|以下の　確認番号を入れてください。|確認番号：<%sNUM><break>": ""

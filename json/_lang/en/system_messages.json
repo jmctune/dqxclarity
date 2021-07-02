@@ -237,7 +237,7 @@
         "利用券の有効期間が　残り<%d_DAY>日です！|先に　利用券を購入したい場合は|利用券メニューへ　移動してください。|<select_nc>|利用券メニューへ|今は購入しない|<select_end><close>": ""
     },
     "80": {
-        "冒険の書<%nNO>に保存されている|<%sPCNAME>の　冒険の記録を消します。|よろしいですか？<yesno 2><break>": ""
+        "冒険の書<%nNO>に保存されている|<%sPCNAME>の　冒険の記録を消します。|よろしいですか？<yesno 2><break>": "This will delete the records of <%sPCNAME>|saved in Adventure Book <%dNO>.|Are you sure?<yesno 2><break>"
     },
     "81": {
         "（※削除予定）<bw_break>": ""
