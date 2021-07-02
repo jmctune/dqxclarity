@@ -33,7 +33,7 @@
         "clarity_nt_char_5": "clarity_nt_char_5"
     },
     "12": {
-        "テンキーのNumLockがOFFのとき カメラが|<camera_zoom_in>で近づき<camera_zoom_out>で離れます！": "When the numeric keypad's NumLock is off,|the camera moves closer with <camera_zoom_in> and|farther with <camera_zoom_out>!"
+        "テンキーのNumLockがOFFのとき カメラが|<camera_zoom_in>で近づき<camera_zoom_out>で離れます！": "When the NumLock key is off, the camera|moves closer with <camera_zoom_in> and farther|with <camera_zoom_out>!"
     },
     "13": {
         "clarity_nt_char_6": "clarity_nt_char_6"
