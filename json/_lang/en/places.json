@@ -267,7 +267,7 @@
         "clarity_nt_char_30": "clarity_nt_char_30"
     },
     "90": {
-        "入口": "Ent."
+        "入口": "Entry"
     },
     "91": {
         "clarity_nt_char_31": "clarity_nt_char_31"
@@ -504,13 +504,13 @@
         "clarity_nt_char_53": "clarity_nt_char_53"
     },
     "169": {
-        "南・入口": "S. Ent."
+        "南・入口": "South Entry"
     },
     "170": {
         "clarity_nt_char_54": "clarity_nt_char_54"
     },
     "171": {
-        "北・入口": "N. Ent."
+        "北・入口": "North Entry"
     },
     "172": {
         "clarity_nt_char_55": "clarity_nt_char_55"
@@ -705,7 +705,7 @@
         "動力室": "Power Rm."
     },
     "236": {
-        "町入口": "Town Ent."
+        "町入口": "Town Gate"
     },
     "237": {
         "宇宙船・立入禁止区画１階": "Spacecraft Exclusion Zone 1F"
