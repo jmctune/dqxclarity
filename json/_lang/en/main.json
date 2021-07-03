@@ -6510,7 +6510,7 @@
         "初心者です": "Beginner"
     },
     "2171": {
-        "<%dM_cal_YYYY>/<%dM_cal_MM>/<%dM_cal_DD>": ""
+        "<%dM_cal_YYYY>/<%dM_cal_MM>/<%dM_cal_DD>": "<%dM_cal_YYYY>/<%dM_cal_MM>/<%dM_cal_DD>"
     },
     "2172": {
         "clarity_nt_char_747": "clarity_nt_char_747"
@@ -7068,7 +7068,7 @@
         "日付逆順に": ""
     },
     "2357": {
-        "<%dM_cal_YYYY>/<%2dM_cal_MM>/<%2dM_cal_DD>　<%2dM_hh>：<%02dM_mm>": ""
+        "<%dM_cal_YYYY>/<%2dM_cal_MM>/<%2dM_cal_DD>　<%2dM_hh>：<%02dM_mm>": "<%dM_cal_YYYY>/<%2dM_cal_MM>/<%2dM_cal_DD>　<%2dM_hh>:<%02dM_mm>"
     },
     "2358": {
         "現在のプレイコース": ""
@@ -8001,7 +8001,7 @@
         "お問い合わせ履歴は　一件もありません。": ""
     },
     "2668": {
-        "<%3dM_CW_now>/<%dM_CW_max>人": ""
+        "<%3dM_CW_now>/<%dM_CW_max>人": "<%3dM_CW_now>/<%dM_CW_max>"
     },
     "2669": {
         "このレシピは　おぼえていない": ""
