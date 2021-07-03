@@ -405,7 +405,7 @@
         "バトル中に怒ったモンスターは|怒った相手を集中攻撃します。": "Monsters that become angry during battle|will focus their attacks on angry|opponents."
     },
     "136": {
-        "<camera_reset>で|画面の視点位置が すぐに|キャラの後ろに移動します。": ""
+        "<camera_reset>で|画面の視点位置が すぐに|キャラの後ろに移動します。": "Pressing the <camera_reset> will move the|screen's viewpoint to behind the|character."
     },
     "137": {
         "clarity_nt_char_47": "clarity_nt_char_47"
