@@ -129,7 +129,7 @@
         "clarity_nt_char_16": "clarity_nt_char_16"
     },
     "44": {
-        "２ボタン長押し": "2 button long press"
+        "２ボタン長押し": "2 button long tap"
     },
     "45": {
         "Ｘボタン": "X button"
@@ -609,10 +609,10 @@
         "[Alt]": ""
     },
     "204": {
-        "Ｚボタン長押し": "Z button long press"
+        "Ｚボタン長押し": "Z button long tap"
     },
     "205": {
-        "ＺＬボタン長押し": "ZL button long press"
+        "ＺＬボタン長押し": "ZL button long tap"
     },
     "206": {
         "clarity_nt_char_62": "clarity_nt_char_62"
@@ -690,7 +690,7 @@
         "clarity_nt_char_74": "clarity_nt_char_74"
     },
     "231": {
-        "長押し": "LongPress"
+        "長押し": " Long Tap"
     },
     "232": {
         "方向キーの上下": ""
@@ -834,7 +834,7 @@
         "タッチパッドボタン": ""
     },
     "279": {
-        "Ｒ２ボタン長押し": "R2 button long press"
+        "Ｒ２ボタン長押し": "R2 button long tap"
     },
     "280": {
         "clarity_nt_char_92": "clarity_nt_char_92"
@@ -843,7 +843,7 @@
         "Ｌ１ボタン、Ｒ１ボタン": "L1 button, R1 button"
     },
     "282": {
-        "Ｌ２ボタン長押し": "L2 button long press"
+        "Ｌ２ボタン長押し": "L2 button long tap"
     },
     "283": {
         "clarity_nt_char_93": "clarity_nt_char_93"
