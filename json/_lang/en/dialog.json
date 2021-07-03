@@ -1326,7 +1326,7 @@
         "clarity_nt_char_152": "clarity_nt_char_152"
     },
     "443": {
-        "<speed=0>|ブラックリストの　説明です。|<br>|自分以外のプレイヤーのキャラを|ブラックリストに加えると　そのキャラの発言が|自分の画面には　表示されなくなります。|<br>|ブラックリストに加えたり　はずしたりしたことは|相手のキャラには　伝わりません。|ブラックリストには　100人まで登録できます。": ""
+        "<speed=0>|ブラックリストの　説明です。|<br>|自分以外のプレイヤーのキャラを|ブラックリストに加えると　そのキャラの発言が|自分の画面には　表示されなくなります。|<br>|ブラックリストに加えたり　はずしたりしたことは|相手のキャラには　伝わりません。|ブラックリストには　100人まで登録できます。": "<speed=0>|This will explain the \"Blacklist\".|<br>|When you add someone to the blacklist, you|will no longer see any messages that they send.|<br>|If you add or remove someone from the blacklist,|they won't receive any notification, so there's no need|to worry. You can have up to 100 people blacklisted."
     },
     "444": {
         "clarity_nt_char_153": "clarity_nt_char_153"
