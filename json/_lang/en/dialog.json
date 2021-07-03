@@ -8529,7 +8529,7 @@
         "clarity_nt_char_956": "clarity_nt_char_956"
     },
     "2844": {
-        "<%sL_SERVER>　<%sL_ZONE>|<%sL_AREA>|この場所に　移動しますか？<yesno 2><close>": ""
+        "<%sL_SERVER>　<%sL_ZONE>|<%sL_AREA>|この場所に　移動しますか？<yesno 2><close>": "<%sL_SERVER>　<%sL_ZONE>|<%sL_AREA>|Move to this location?<yesno 2><close>"
     },
     "2845": {
         "clarity_nt_char_957": "clarity_nt_char_957"
@@ -8574,7 +8574,7 @@
         "こんにちはキャンペーン": ""
     },
     "2859": {
-        "<%sL_SERVER>　<%sL_AREA>|この場所に　移動しますか？<yesno 2><close>": ""
+        "<%sL_SERVER>　<%sL_AREA>|この場所に　移動しますか？<yesno 2><close>": "<%sL_SERVER>　<%sL_AREA>|Move to this location?<yesno 2><close>"
     },
     "2860": {
         "<speed=0>この場所からは|移動できません。|天井の無い場所で　再度お試しください。": ""
