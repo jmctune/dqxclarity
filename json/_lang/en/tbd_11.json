@@ -663,7 +663,7 @@
         "次のひとぬい 威力が半減！": ""
     },
     "222": {
-        "<pc>は　職人レベルに限界を感じた！|これ以上　職人レベルを上げたいならば|ギルドマスターに　相談してみよう。": ""
+        "<pc>は　職人レベルに限界を感じた！|これ以上　職人レベルを上げたいならば|ギルドマスターに　相談してみよう。": "<pc> reached the Craftsman level limit!|Go talk to your Guild Master to raise|your level limit."
     },
     "223": {
         "clarity_nt_char_82": "clarity_nt_char_82"
@@ -723,7 +723,7 @@
         "clarity_nt_char_87": "clarity_nt_char_87"
     },
     "242": {
-        "<pc>は|<%dL_EXP>+<%dL_EXP_OUEN>(おうえんボーナス) Pの|職人経験値を　かくとく！|<bw_break>": "<pc>|gained <%dL_EXP>+<%dL_EXP_OUEN>(Cheer Bonus) |Craftsman EXP!|<bw_break>"
+        "<pc>は|<%dL_EXP>+<%dL_EXP_OUEN>(おうえんボーナス) Pの|職人経験値を　かくとく！|<bw_break>": "<pc>|gained <%dL_EXP> +<%dL_EXP_OUEN> (Cheer Bonus)|Craftsman EXP!|<bw_break>"
     },
     "243": {
         "<speed=0>新品の装備品です！|一度　装備すると　他の人に|渡せなくなりますが　よろしいですか？<yesno 2><break>": ""
