@@ -744,10 +744,10 @@
         "clarity_nt_char_89": "clarity_nt_char_89"
     },
     "249": {
-        "<%sL_PC>が　職人仕事をしています。|職人仕事が終わるまで　お待ちください。|<convenience>で　おうえんができます。": ""
+        "<%sL_PC>が　職人仕事をしています。|職人仕事が終わるまで　お待ちください。|<convenience>で　おうえんができます。": "<%sL_PC> is currently busy crafting. Please wait|for them to finish. You can support them with|<convenience>."
     },
     "250": {
-        "<speed=0>新品の職人道具です！　錬金の依頼で使用すると|『とりひき』や　『旅人バザーへの出品』が|できなくなりますが　よろしいですか？|<yesno 2><break>": ""
+        "<speed=0>新品の職人道具です！　錬金の依頼で使用すると|『とりひき』や　『旅人バザーへの出品』が|できなくなりますが　よろしいですか？|<yesno 2><break>": "<speed=0>This is a new craftsman tool! If you use it,|you won't be able to trade it or sell it on the|Traveler's Bazaar. Is this okay?|<yesno 2><break>"
     },
     "251": {
         "clarity_nt_char_90": "clarity_nt_char_90"
