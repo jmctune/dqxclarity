@@ -6,7 +6,7 @@
         "clarity_nt_char_1": "clarity_nt_char_1"
     },
     "3": {
-        "<%nL_AREA>丁目": "Block <%nL_AREA>"
+        "<%nL_AREA>丁目": "Block <%dL_AREA>"
     },
     "4": {
         "clarity_nt_char_2": "clarity_nt_char_2"
@@ -231,13 +231,13 @@
         "外装の変更": ""
     },
     "78": {
-        "何丁目から？": "Which block?"
+        "何丁目から？": "What block?"
     },
     "79": {
         "clarity_nt_char_31": "clarity_nt_char_31"
     },
     "80": {
-        "何丁目へ？": "Which block?"
+        "何丁目へ？": "What block?"
     },
     "81": {
         "販売済": "Sold"
