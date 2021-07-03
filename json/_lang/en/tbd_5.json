@@ -729,7 +729,7 @@
         "<speed=0>ルームを　解散しました。": ""
     },
     "244": {
-        "<speed=0>ルームを解散すると　自分以外のプレイヤーが　|ルームから　はずされますが　よろしいですか？<yesno 2><close>": ""
+        "<speed=0>ルームを解散すると　自分以外のプレイヤーが　|ルームから　はずされますが　よろしいですか？<yesno 2><close>": "<speed=0>Other players in this room will be removed|when it is disbanded. Are you sure?<yesno 2><close>"
     },
     "245": {
         "clarity_nt_char_80": "clarity_nt_char_80"
@@ -1443,7 +1443,7 @@
         "美容院で りんかくを <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": ""
     },
     "482": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_POINT> Pの釣りポイントを かくとく！|自分：<%dL_MYPOINT> P　全員：<%dL_ALLPOINT> P": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_POINT> Pの釣りポイントを かくとく！|自分：<%dL_MYPOINT> P　全員：<%dL_ALLPOINT> P": "\\s<%sC_PC>\\m<%sC_ID>\\e received <%dL_POINT> Fishing Points!|My Points: <%dL_MYPOINT> 　Total: <%dL_ALLPOINT>"
     },
     "483": {
         "clarity_nt_char_155": "clarity_nt_char_155"
@@ -2997,7 +2997,7 @@
         "<pc>は スライムレース勝利ポイントを　<%sM_points>P 消費した。|<%dM_points2>Pから <%dM_points3>Pになった。": ""
     },
     "1000": {
-        "<speed=0><speed=0>|自分のパーティと　相手パーティが|全員　おなじ場所にいないと　誘えません！": ""
+        "<speed=0><speed=0>|自分のパーティと　相手パーティが|全員　おなじ場所にいないと　誘えません！": "<speed=0><speed=0>|You can't join parties together unless|you're in the same place!"
     },
     "1001": {
         "clarity_nt_char_333": "clarity_nt_char_333"
