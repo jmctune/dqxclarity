@@ -5184,7 +5184,7 @@
         "clarity_nt_char_585": "clarity_nt_char_585"
     },
     "1729": {
-        "<speed=0>|クエストを達成しました。|達人に　報告しましょう！": ""
+        "<speed=0>|クエストを達成しました。|達人に　報告しましょう！": "<speed=0>|The quest is completed. Go see a Master!"
     },
     "1730": {
         "<speed=0>|現在　受けている　達人クエストの状況です。|クエストを変更するときは|達人のところへ　行きましょう。": "<speed=0>|The status of your current Master Quest.|If you want to change your current quest,|go see a Master."
