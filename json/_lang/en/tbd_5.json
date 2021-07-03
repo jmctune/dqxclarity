@@ -3507,19 +3507,19 @@
         "回収品/全体：ポイント": ""
     },
     "1170": {
-        "ねじ/<%dM_total_cou_neji>こ：<%dM_total_sco_neji>P": ""
+        "ねじ/<%dM_total_cou_neji>こ：<%dM_total_sco_neji>P": "Screws/<%dM_total_cou_neji>: <%dM_total_sco_neji>P"
     },
     "1171": {
         "clarity_nt_char_392": "clarity_nt_char_392"
     },
     "1172": {
-        "歯車/<%dM_total_cou_hagu>こ：<%dM_total_sco_hagu>P": ""
+        "歯車/<%dM_total_cou_hagu>こ：<%dM_total_sco_hagu>P": "Gears/<%dM_total_cou_hagu>: <%dM_total_sco_hagu>P"
     },
     "1173": {
         "clarity_nt_char_393": "clarity_nt_char_393"
     },
     "1174": {
-        "お宝/<%dM_total_cou_taka>こ：<%dM_total_sco_taka>P": ""
+        "お宝/<%dM_total_cou_taka>こ：<%dM_total_sco_taka>P": "Treasure/<%dM_total_cou_taka>: <%dM_total_sco_taka>P"
     },
     "1175": {
         "clarity_nt_char_394": "clarity_nt_char_394"
