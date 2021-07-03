@@ -2649,7 +2649,7 @@
         "<%sL_PLAYER_NAME>は バトエンを <%sL_BATOEN_NAME>に チェンジした！": "<%sL_PLAYER_NAME> changed to <%sL_BATOEN_NAME>!"
     },
     "884": {
-        "<%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>の こうげき！": ""
+        "<%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>の こうげき！": "<%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME> attacks!"
     },
     "885": {
         " → 『<%sL_ACTION_NAME>』": " → \"<%sL_ACTION_NAME>\""
