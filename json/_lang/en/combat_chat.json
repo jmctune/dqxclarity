@@ -3828,13 +3828,13 @@
         "魔蝕の沼の 効果発動！": ""
     },
     "1277": {
-        "かいしんの<%sB_ACTION>！": ""
+        "かいしんの<%sB_ACTION>！": "Critical <%sB_ACTION>!"
     },
     "1278": {
         "clarity_nt_char_447": "clarity_nt_char_447"
     },
     "1279": {
-        "かいしんの|<%sB_ACTION>！": ""
+        "かいしんの|<%sB_ACTION>！": "Critical|<%sB_ACTION>!"
     },
     "1280": {
         "逃げだせなかった・・・": ""
@@ -4584,7 +4584,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eのＭＰに <%dB_VALUE>のダメージ！": ""
     },
     "1529": {
-        "かいしんの <%sB_ACTION>！": ""
+        "かいしんの <%sB_ACTION>！": "Critical <%sB_ACTION>!"
     },
     "1530": {
         "しかし \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eには 何も おこらなかった！": ""
