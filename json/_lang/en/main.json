@@ -12798,7 +12798,7 @@
         "<%dM_bunsi>/<%dM_bunbo>": ""
     },
     "4267": {
-        "バトル": ""
+        "バトル": "Battle"
     },
     "4268": {
         "武器スキル": ""
@@ -14097,7 +14097,7 @@
         "<%sM_gprank>ランク": "<%sM_gprank> Rank"
     },
     "4700": {
-        "（バトルグランプリ）": ""
+        "（バトルグランプリ）": "(Battle Grand Prix)"
     },
     "4701": {
         "clarity_nt_char_1605": "clarity_nt_char_1605"
@@ -14148,7 +14148,7 @@
         "clarity_nt_char_1609": "clarity_nt_char_1609"
     },
     "4717": {
-        "モンスターバトルロード": ""
+        "モンスターバトルロード": "Monster Battle Road"
     },
     "4718": {
         "サポートモンスター": ""
@@ -14157,7 +14157,7 @@
         "パーティの準備": ""
     },
     "4720": {
-        "バトルエントリー": ""
+        "バトルエントリー": "Battle Entry"
     },
     "4721": {
         "clarity_nt_char_1610": "clarity_nt_char_1610"
@@ -14214,16 +14214,16 @@
         "モンスター情報": ""
     },
     "4739": {
-        "バトルロードポイント：": ""
+        "バトルロードポイント：": "Battle Road Points:"
     },
     "4740": {
-        "バトルロードコイン：": "Battle Road Coin："
+        "バトルロードコイン：": "Battle Road Coins:"
     },
     "4741": {
         "clarity_nt_char_1618": "clarity_nt_char_1618"
     },
     "4742": {
-        "バトルロードランク：": ""
+        "バトルロードランク：": "Battle Road Rank:"
     },
     "4743": {
         "clarity_nt_char_1619": "clarity_nt_char_1619"
@@ -14793,7 +14793,7 @@
         "clarity_nt_char_1674": "clarity_nt_char_1674"
     },
     "4932": {
-        "バトルについて": ""
+        "バトルについて": "About Battle"
     },
     "4933": {
         "バッジの装備について": ""
@@ -14832,7 +14832,7 @@
         "clarity_nt_char_1678": "clarity_nt_char_1678"
     },
     "4945": {
-        "バトルロードコインについて": "Battle Road Coin Info."
+        "バトルロードコインについて": "About Battle Road Coins"
     },
     "4946": {
         "ランクアップについて": ""
@@ -14841,13 +14841,13 @@
         "clarity_nt_char_1679": "clarity_nt_char_1679"
     },
     "4948": {
-        "バトルロードポイントについて": ""
+        "バトルロードポイントについて": "About Battle Road Points"
     },
     "4949": {
         "clarity_nt_char_1680": "clarity_nt_char_1680"
     },
     "4950": {
-        "バトル中の操作について": ""
+        "バトル中の操作について": "Operating During Battle"
     },
     "4951": {
         "バトルの始め方について\t": ""
