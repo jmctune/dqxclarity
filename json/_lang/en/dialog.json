@@ -1062,13 +1062,13 @@
         "このルーラストーンは　場所の記憶がありません。|教会で　ルーラストーンに|場所を記憶させることができます。": "This zoomstone has no location set. Set a location at a church or waypoint."
     },
     "355": {
-        "<speed=0>入力した内容を取り消して　元に戻しますか？<yesno><close>": ""
+        "<speed=0>入力した内容を取り消して　元に戻しますか？<yesno><close>": "<speed=0>Cancel any changes you've made?<yesno><close>"
     },
     "356": {
         "clarity_nt_char_121": "clarity_nt_char_121"
     },
     "357": {
-        "<speed=0>入力した内容を　反映して　よろしいですか？<yesno><close>": ""
+        "<speed=0>入力した内容を　反映して　よろしいですか？<yesno><close>": "<speed=0>Do you want to save your changes?<yesno><close>"
     },
     "358": {
         "clarity_nt_char_122": "clarity_nt_char_122"
