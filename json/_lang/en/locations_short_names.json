@@ -543,7 +543,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>預かり所・郵便局": "<%sW_MAP_NAME><%sW_DELIMITER>Depository - P. Office"
     },
     "182": {
-        "グレン城下町 入口": "Glen Castle Town Ent."
+        "グレン城下町 入口": "Glen Castle Town Entry"
     },
     "183": {
         "ゲルト海峡への道": ""
@@ -972,7 +972,7 @@
         "clarity_nt_char_100": "clarity_nt_char_100"
     },
     "325": {
-        "アグラニの町 入口": "Town of Agrani Ent."
+        "アグラニの町 入口": "Town of Agrani Entry"
     },
     "326": {
         "<%sW_MAP_NAME><%sW_DELIMITER>ハンマーの祭壇": "<%sW_MAP_NAME><%sW_DELIMITER>Hammer Altar"
@@ -2067,7 +2067,7 @@
         "clarity_nt_char_224": "clarity_nt_char_224"
     },
     "690": {
-        "プクレットの村 入口": "Pukulet Village Ent."
+        "プクレットの村 入口": "Pukulet Village Entry"
     },
     "691": {
         "clarity_nt_char_225": "clarity_nt_char_225"
@@ -2604,7 +2604,7 @@
         "キュララナ海岸への出口": "Exit to Curalana Coast"
     },
     "869": {
-        "グレン城 入口": "Glen Castle Ent."
+        "グレン城 入口": "Glen Castle Entry"
     },
     "870": {
         "アルウェ王妃の別荘跡": ""
@@ -3642,10 +3642,10 @@
         "clarity_nt_char_385": "clarity_nt_char_385"
     },
     "1215": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>帝王の玉座 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Emperor's Throne Ent."
+        "<%sW_MAP_NAME><%sW_DELIMITER>帝王の玉座 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Emperor's Throne Entry"
     },
     "1216": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>入口": "<%sW_MAP_NAME><%sW_DELIMITER>Ent."
+        "<%sW_MAP_NAME><%sW_DELIMITER>入口": "<%sW_MAP_NAME><%sW_DELIMITER>Entry"
     },
     "1217": {
         "<%sW_MAP_NAME><%sW_DELIMITER>地上への出口": "<%sW_MAP_NAME><%sW_DELIMITER>Exit to Above"
@@ -3684,7 +3684,7 @@
         "ローヌ樹林帯への道": ""
     },
     "1229": {
-        "さびれたほこら 入口": "Deserted Shrine Ent."
+        "さびれたほこら 入口": "Deserted Shrine Entry"
     },
     "1230": {
         "clarity_nt_char_389": "clarity_nt_char_389"
@@ -3699,7 +3699,7 @@
         "魔女の森への道": ""
     },
     "1234": {
-        "メルン水車郷 入口": "Melun Waterwheel Ent."
+        "メルン水車郷 入口": "Melun Waterwheel Entry"
     },
     "1235": {
         "魔獣の菜園 入口": ""
@@ -3726,7 +3726,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>風車": ""
     },
     "1243": {
-        "メルサンディ村 入口": "Melsandy Village Ent."
+        "メルサンディ村 入口": "Melsandy Village Entry"
     },
     "1244": {
         "clarity_nt_char_394": "clarity_nt_char_394"
@@ -3762,7 +3762,7 @@
         "clarity_nt_char_397": "clarity_nt_char_397"
     },
     "1255": {
-        "ココラタの浜辺 入口": "Cocoratha Beach Ent."
+        "ココラタの浜辺 入口": "Cocoratha Beach Entry"
     },
     "1256": {
         "clarity_nt_char_398": "clarity_nt_char_398"
@@ -4203,7 +4203,7 @@
         "clarity_nt_char_432": "clarity_nt_char_432"
     },
     "1402": {
-        "グランゼドーラ王国 入口": "Gran Zedora Kingdom Ent."
+        "グランゼドーラ王国 入口": "Gran Zedora Kingdom Entry"
     },
     "1403": {
         "clarity_nt_char_433": "clarity_nt_char_433"
@@ -4377,7 +4377,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>下層への通路": "<%sW_MAP_NAME><%sW_DELIMITER>To Lower Passage"
     },
     "1460": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>滅びの間 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Destruction Ent."
+        "<%sW_MAP_NAME><%sW_DELIMITER>滅びの間 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Destruction Entry"
     },
     "1461": {
         "clarity_nt_char_452": "clarity_nt_char_452"
@@ -4443,7 +4443,7 @@
         "clarity_nt_char_460": "clarity_nt_char_460"
     },
     "1482": {
-        "日除けのほら穴 入口": "Awning Cave Ent."
+        "日除けのほら穴 入口": "Awning Cave Entry"
     },
     "1483": {
         "clarity_nt_char_461": "clarity_nt_char_461"
@@ -4458,7 +4458,7 @@
         "clarity_nt_char_462": "clarity_nt_char_462"
     },
     "1487": {
-        "アラハギーロ王国 入口": "Kingdom of Arahagiro Ent."
+        "アラハギーロ王国 入口": "Kingdom of Arahagiro Entry"
     },
     "1488": {
         "ムルードの岩山 出口": "Muldo Mountain Exit"
@@ -4467,7 +4467,7 @@
         "clarity_nt_char_463": "clarity_nt_char_463"
     },
     "1490": {
-        "ムルードの岩山 入口": "Muldo Mountain Ent."
+        "ムルードの岩山 入口": "Muldo Mountain Entry"
     },
     "1491": {
         "clarity_nt_char_464": "clarity_nt_char_464"
@@ -4590,7 +4590,7 @@
         "clarity_nt_char_478": "clarity_nt_char_478"
     },
     "1531": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２階 入口": "<%sW_MAP_NAME><%sW_DELIMITER>2F Ent."
+        "<%sW_MAP_NAME><%sW_DELIMITER>２階 入口": "<%sW_MAP_NAME><%sW_DELIMITER>2F Entry"
     },
     "1532": {
         "clarity_nt_char_479": "clarity_nt_char_479"
@@ -4635,7 +4635,7 @@
         "clarity_nt_char_483": "clarity_nt_char_483"
     },
     "1546": {
-        "天願の座 入口": "Heaven Seat Ent."
+        "天願の座 入口": "Heaven Seat Entry"
     },
     "1547": {
         "天願の座 出口": "Heaven Seat Exit"
@@ -5031,7 +5031,7 @@
         "clarity_nt_char_530": "clarity_nt_char_530"
     },
     "1678": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>１階 入口": "<%sW_MAP_NAME><%sW_DELIMITER>1F Ent."
+        "<%sW_MAP_NAME><%sW_DELIMITER>１階 入口": "<%sW_MAP_NAME><%sW_DELIMITER>1F Entry"
     },
     "1679": {
         "clarity_nt_char_531": "clarity_nt_char_531"
@@ -5364,7 +5364,7 @@
         "魔幻宮殿 入口": ""
     },
     "1789": {
-        "玉座の間 入口": "Throne Room Ent."
+        "玉座の間 入口": "Throne Room Entry"
     },
     "1790": {
         "玉座の間 出口": "Throne Room Exit"
@@ -5685,7 +5685,7 @@
         "clarity_nt_char_594": "clarity_nt_char_594"
     },
     "1896": {
-        "強戦士の聖域・闘場 入口": "Warrior's Sanctuary - Arena Ent."
+        "強戦士の聖域・闘場 入口": "Warrior's Sanctuary - Arena Entry"
     },
     "1897": {
         "clarity_nt_char_595": "clarity_nt_char_595"
@@ -5889,7 +5889,7 @@
         "clarity_nt_char_616": "clarity_nt_char_616"
     },
     "1964": {
-        "大広間 入口": "Great Hall Ent."
+        "大広間 入口": "Great Hall Entry"
     },
     "1965": {
         "clarity_nt_char_617": "clarity_nt_char_617"
@@ -6603,7 +6603,7 @@
         "clarity_nt_char_688": "clarity_nt_char_688"
     },
     "2202": {
-        "グランゼドーラ領-グランゼドーラ王国 入口": "Gran Zedora Territory - Gran Zedora Kingdom Ent."
+        "グランゼドーラ領-グランゼドーラ王国 入口": "Gran Zedora Territory - Gran Zedora Kingdom Entry"
     },
     "2203": {
         "グランゼドーラ王国": "Gran Zedora Kingdom"
@@ -6663,7 +6663,7 @@
         "ムルードの岩山": "Muldo Mountain"
     },
     "2222": {
-        "メルサンディ穀倉帯-メルン水車郷 入口": "Melsandy Granary Belt - Melun Waterwheel Ent."
+        "メルサンディ穀倉帯-メルン水車郷 入口": "Melsandy Granary Belt - Melun Waterwheel Entry"
     },
     "2223": {
         "魔女の森": ""
@@ -6702,7 +6702,7 @@
         "clarity_nt_char_699": "clarity_nt_char_699"
     },
     "2235": {
-        "ロヴォス高地": ""
+        "ロヴォス高地": "Rovos Highlands"
     },
     "2236": {
         "clarity_nt_char_700": "clarity_nt_char_700"
@@ -6786,7 +6786,7 @@
         "ローヌ樹林帯-希望の丘": ""
     },
     "2263": {
-        "デフェル荒野-不思議の魔塔 入口": "Defel Wilderness - Magical Tower Ent."
+        "デフェル荒野-不思議の魔塔 入口": "Defel Wilderness - Magical Tower Entry"
     },
     "2264": {
         "clarity_nt_char_707": "clarity_nt_char_707"
@@ -6822,7 +6822,7 @@
         "アラハギーロ地方-井戸 前": "Arahagiro Region - Well"
     },
     "2275": {
-        "コニウェア平原-ココラタの浜辺 入口": "Coniware Plain - Cocoratha Beach Ent."
+        "コニウェア平原-ココラタの浜辺 入口": "Coniware Plain - Cocoratha Beach Entry"
     },
     "2276": {
         "clarity_nt_char_712": "clarity_nt_char_712"
@@ -6834,13 +6834,13 @@
         "clarity_nt_char_713": "clarity_nt_char_713"
     },
     "2279": {
-        "メルサンディ穀倉帯-メルサンディ村 入口": "Melsandy Granary Belt - Melsandy Village Ent."
+        "メルサンディ穀倉帯-メルサンディ村 入口": "Melsandy Granary Belt - Melsandy Village Entry"
     },
     "2280": {
         "clarity_nt_char_714": "clarity_nt_char_714"
     },
     "2281": {
-        "メルサンディ穀倉帯-さびれたほこら 入口": "Melsandy Granary Belt - Deserted Shrine Ent."
+        "メルサンディ穀倉帯-さびれたほこら 入口": "Melsandy Granary Belt - Deserted Shrine Entry"
     },
     "2282": {
         "clarity_nt_char_715": "clarity_nt_char_715"
@@ -6861,16 +6861,16 @@
         "セレドット山道-ベリルのほら穴 前": ""
     },
     "2288": {
-        "アラハギーロ地方-アラハギーロ王国 入口": "Arahagiro Region - Kingdom of Arahagiro Ent."
+        "アラハギーロ地方-アラハギーロ王国 入口": "Arahagiro Region - Kingdom of Arahagiro Entry"
     },
     "2289": {
         "clarity_nt_char_718": "clarity_nt_char_718"
     },
     "2290": {
-        "アラハギーロ地方-ムルードの岩山 入口": "Arahagiro Region - Muldo Mountain Ent."
+        "アラハギーロ地方-ムルードの岩山 入口": "Arahagiro Region - Muldo Mountain Entry"
     },
     "2291": {
-        "アラハギーロ地方-日除けのほら穴 入口": "Arahagiro Region - Awning Cave Ent."
+        "アラハギーロ地方-日除けのほら穴 入口": "Arahagiro Region - Awning Cave Entry"
     },
     "2292": {
         "ジャイラ密林-クドゥスの泉 入口": ""
@@ -6906,7 +6906,7 @@
         "clarity_nt_char_722": "clarity_nt_char_722"
     },
     "2303": {
-        "アラハギーロ地方-モンスター格闘場 入口": "Arahagiro Region - Monster Arena Ent."
+        "アラハギーロ地方-モンスター格闘場 入口": "Arahagiro Region - Monster Arena Entry"
     },
     "2304": {
         "clarity_nt_char_723": "clarity_nt_char_723"
@@ -7419,7 +7419,7 @@
         "clarity_nt_char_775": "clarity_nt_char_775"
     },
     "2474": {
-        "集会所 入口": "Meet Pt. Ent."
+        "集会所 入口": "Meet Pt. Entry"
     },
     "2475": {
         "clarity_nt_char_776": "clarity_nt_char_776"
@@ -8937,7 +8937,7 @@
         "clarity_nt_char_947": "clarity_nt_char_947"
     },
     "2980": {
-        "古グランゼドーラ王国 入口": "Old Gran Zedora Kingdom Ent."
+        "古グランゼドーラ王国 入口": "Old Gran Zedora Kingdom Entry"
     },
     "2981": {
         "古グランゼドーラ領への出口": "Exit to Old Gran Zedora Territory"
@@ -9435,13 +9435,13 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>動力室 出口": ""
     },
     "3146": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>動力室 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Power Room Ent."
+        "<%sW_MAP_NAME><%sW_DELIMITER>動力室 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Power Room Entry"
     },
     "3147": {
         "<%sW_MAP_NAME><%sW_DELIMITER>冷眠室 出口": ""
     },
     "3148": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>冷眠室 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Cold Room Ent."
+        "<%sW_MAP_NAME><%sW_DELIMITER>冷眠室 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Cold Room Entry"
     },
     "3149": {
         "<%sW_MAP_NAME><%sW_DELIMITER>研究室 入口": ""
@@ -9636,7 +9636,7 @@
         "clarity_nt_char_1025": "clarity_nt_char_1025"
     },
     "3213": {
-        "ウルベア帝国城　入口": "Urbea Empire Castle Ent."
+        "ウルベア帝国城　入口": "Urbea Empire Castle Entry"
     },
     "3214": {
         "clarity_nt_char_1026": "clarity_nt_char_1026"
@@ -10299,7 +10299,7 @@
         "バルディスタ要塞 出口": ""
     },
     "3434": {
-        "バルディスタ城 入口": "Valdista Castle Ent."
+        "バルディスタ城 入口": "Valdista Castle Entry"
     },
     "3435": {
         "clarity_nt_char_1094": "clarity_nt_char_1094"
@@ -10347,7 +10347,7 @@
         "clarity_nt_char_1098": "clarity_nt_char_1098"
     },
     "3450": {
-        "ゼクレス城 入口": "Zechres Castle Ent."
+        "ゼクレス城 入口": "Zechres Castle Entry"
     },
     "3451": {
         "clarity_nt_char_1099": "clarity_nt_char_1099"
@@ -10365,7 +10365,7 @@
         "ならず者のねぐら 入口": ""
     },
     "3456": {
-        "旧ネクロデア領 入口": "Old Necrodea Area Ent."
+        "旧ネクロデア領 入口": "Old Necrodea Area Entry"
     },
     "3457": {
         "clarity_nt_char_1101": "clarity_nt_char_1101"
@@ -10470,7 +10470,7 @@
         "clarity_nt_char_1113": "clarity_nt_char_1113"
     },
     "3491": {
-        "王都ネクロデア跡 入口": "Necrodea Capital Ruins Ent."
+        "王都ネクロデア跡 入口": "Necrodea Capital Ruins Entry"
     },
     "3492": {
         "血潮の浜辺への道": ""
@@ -10479,7 +10479,7 @@
         "clarity_nt_char_1114": "clarity_nt_char_1114"
     },
     "3494": {
-        "ネクロデア廃城 入口": "Necrodea Castle Ent."
+        "ネクロデア廃城 入口": "Necrodea Castle Entry"
     },
     "3495": {
         "clarity_nt_char_1115": "clarity_nt_char_1115"
@@ -10812,7 +10812,7 @@
         "大審判の絶壁 入口": ""
     },
     "3605": {
-        "謁見の間 入口": "Audience Rm. Ent."
+        "謁見の間 入口": "Audience Rm. Entry"
     },
     "3606": {
         "謁見の間 出口": "Audience Rm. Exit"
@@ -11187,13 +11187,13 @@
         "clarity_nt_char_1192": "clarity_nt_char_1192"
     },
     "3730": {
-        "<pc>城 入口": "My Castle Ent."
+        "<pc>城 入口": "My Castle Entry"
     },
     "3731": {
         "clarity_nt_char_1193": "clarity_nt_char_1193"
     },
     "3732": {
-        "？？？？ 入口": "???? Ent."
+        "？？？？ 入口": "???? Entry"
     },
     "3733": {
         "<%sW_MAP_NAME><%sW_DELIMITER>兵士詰め所階": "<%sW_MAP_NAME><%sW_DELIMITER>Station Floor"
@@ -11787,7 +11787,7 @@
         "clarity_nt_char_1266": "clarity_nt_char_1266"
     },
     "3930": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>盾島 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Shd. I. Ent."
+        "<%sW_MAP_NAME><%sW_DELIMITER>盾島 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Shd. I. Entry"
     },
     "3931": {
         "clarity_nt_char_1267": "clarity_nt_char_1267"
