@@ -333,7 +333,7 @@
         "clarity_nt_char_40": "clarity_nt_char_40"
     },
     "112": {
-        "木こり職人": "Woodworking"
+        "木こり職人": "Lumberjack"
     },
     "113": {
         "花摘み職人": "Flower Picking"
@@ -357,7 +357,7 @@
         "clarity_nt_char_43": "clarity_nt_char_43"
     },
     "120": {
-        "木工職人": ""
+        "木工職人": "Woodworking"
     },
     "121": {
         "clarity_nt_char_44": "clarity_nt_char_44"
@@ -366,31 +366,31 @@
         "ランプ錬金職人": "Lamp Alchemist"
     },
     "123": {
-        "さいほう職人": ""
+        "さいほう職人": "Sewing"
     },
     "124": {
         "clarity_nt_char_45": "clarity_nt_char_45"
     },
     "125": {
-        "陶芸職人": ""
+        "陶芸職人": "Potter"
     },
     "126": {
         "clarity_nt_char_46": "clarity_nt_char_46"
     },
     "127": {
-        "ツボ錬金職人": ""
+        "ツボ錬金職人": "Pot Alchemist"
     },
     "128": {
         "clarity_nt_char_47": "clarity_nt_char_47"
     },
     "129": {
-        "調理職人": ""
+        "調理職人": "Cook"
     },
     "130": {
         "clarity_nt_char_48": "clarity_nt_char_48"
     },
     "131": {
-        "薬剤職人": ""
+        "薬剤職人": "Pharmacist"
     },
     "132": {
         "clarity_nt_char_49": "clarity_nt_char_49"
@@ -444,7 +444,7 @@
         "clarity_nt_char_56": "clarity_nt_char_56"
     },
     "149": {
-        "鍛冶職人": ""
+        "鍛冶職人": "Blacksmith"
     },
     "150": {
         "clarity_nt_char_57": "clarity_nt_char_57"
