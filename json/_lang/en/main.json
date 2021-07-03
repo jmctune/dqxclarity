@@ -4611,7 +4611,7 @@
         "clarity_nt_char_524": "clarity_nt_char_524"
     },
     "1538": {
-        "<speed=0>自分をフレンドリストに|登録することは　できません。": ""
+        "<speed=0>自分をフレンドリストに|登録することは　できません。": "<speed=0>You can't add yourself to your friends list."
     },
     "1539": {
         "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は|ブラックリストに登録されているので|フレンドには　さそえません。": ""
@@ -4776,7 +4776,7 @@
         "clarity_nt_char_544": "clarity_nt_char_544"
     },
     "1593": {
-        "<speed=0>自分を　ブラックリストに|加えることは　できません！": ""
+        "<speed=0>自分を　ブラックリストに|加えることは　できません！": "<speed=0>You can't add yourself to the blacklist!"
     },
     "1594": {
         "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は|すでに　ブラックリストに登録されています。": ""
