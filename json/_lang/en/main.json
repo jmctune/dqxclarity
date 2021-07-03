@@ -11646,7 +11646,7 @@
         "clarity_nt_char_1328": "clarity_nt_char_1328"
     },
     "3883": {
-        "カジノフロア<%nM_hall_no>": "Casino Floor <%nM_hall_no>"
+        "カジノフロア<%nM_hall_no>": "Casino Floor <%dM_hall_no>"
     },
     "3884": {
         "すいてる": "Calm"
@@ -19410,7 +19410,7 @@
         "手に入れたモンスターの種類": "Types of Monsters Received"
     },
     "6471": {
-        "スライムレース": ""
+        "スライムレース": "Slime Races"
     },
     "6472": {
         "（遊びたいこと４）": ""
