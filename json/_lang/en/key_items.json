@@ -10218,7 +10218,7 @@
         "<pc>は　しゃくねつのカケラを|ながめてみた。|<br>|カケラの中に　ほのおのゆらめきが　見えた！": ""
     },
     "3407": {
-        "<pc>は　鉄の金庫のカギを|かかげてみた。|<br>|鉄の金庫のカギは　キラリと　かがやいた。": ""
+        "<pc>は　鉄の金庫のカギを|かかげてみた。|<br>|鉄の金庫のカギは　キラリと　かがやいた。": "<pc> held the Iron Safe Key.|<br>|It has a brilliant shine to it."
     },
     "3408": {
         "clarity_nt_char_1112": "clarity_nt_char_1112"
@@ -12123,7 +12123,7 @@
         "clarity_nt_char_1323": "clarity_nt_char_1323"
     },
     "4042": {
-        "クリスタルゲージ": ""
+        "クリスタルゲージ": "Crystal Gauge"
     },
     "4043": {
         "clarity_nt_char_1324": "clarity_nt_char_1324"
