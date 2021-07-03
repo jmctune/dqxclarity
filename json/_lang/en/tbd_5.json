@@ -3414,7 +3414,7 @@
         "<%sM_metal>(元のツヤ)": ""
     },
     "1139": {
-        "-----【万魔の塔 <%sM_floor> スコア】-----": ""
+        "-----【万魔の塔 <%sM_floor> スコア】-----": "-----(Manma Tower <%sM_floor> Score)-----"
     },
     "1140": {
         "clarity_nt_char_382": "clarity_nt_char_382"
@@ -3909,7 +3909,7 @@
         "ギラムソウル合計：<%dM_sum_giramcoin>こ": ""
     },
     "1304": {
-        "万魔の塔で ギラムソウルを <%dM_giram_coin>こ 手に入れた！": ""
+        "万魔の塔で ギラムソウルを <%dM_giram_coin>こ 手に入れた！": "Received <%dM_giram_coin> Gilam Souls!"
     },
     "1305": {
         "clarity_nt_char_432": "clarity_nt_char_432"
