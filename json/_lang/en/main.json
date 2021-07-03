@@ -8478,7 +8478,7 @@
         "clarity_nt_char_982": "clarity_nt_char_982"
     },
     "2827": {
-        "<%3dM_pager_1>-<%3dM_pager_2>/<%3dM_pager_3>件": ""
+        "<%3dM_pager_1>-<%3dM_pager_2>/<%3dM_pager_3>件": "<%3dM_pager_1>-<%3dM_pager_2>/<%3dM_pager_3>"
     },
     "2828": {
         "小目的": "Sub Goal"
@@ -10554,7 +10554,7 @@
         "チャットルーム情報": ""
     },
     "3519": {
-        "<%dM_Rest>/<%dM_All>人": ""
+        "<%dM_Rest>/<%dM_All>人": "<%dM_Rest>/<%dM_All>"
     },
     "3520": {
         "パーティ同盟の誘いに 返事しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": ""
@@ -10770,7 +10770,7 @@
         "clarity_nt_char_1233": "clarity_nt_char_1233"
     },
     "3591": {
-        "<%dM_pager_1>-<%dM_pager_2>/<%dM_pager_3>件": ""
+        "<%dM_pager_1>-<%dM_pager_2>/<%dM_pager_3>件": "<%dM_pager_1>-<%dM_pager_2>/<%dM_pager_3>"
     },
     "3592": {
         "clarity_nt_char_1234": "clarity_nt_char_1234"
@@ -10851,7 +10851,7 @@
         "あと<%dM_nn>回": ""
     },
     "3618": {
-        "<%dM_Num>匹/<%dM_Max>匹": ""
+        "<%dM_Num>匹/<%dM_Max>匹": "<%dM_Num>/<%dM_Max>"
     },
     "3619": {
         "次のレベルまで": "To Next Lv"
@@ -11070,7 +11070,7 @@
         "clarity_nt_char_1263": "clarity_nt_char_1263"
     },
     "3691": {
-        "Ｌ・Ｒボタン操作設定": "L/R button op settings"
+        "Ｌ・Ｒボタン操作設定": "L/R Button Settings"
     },
     "3692": {
         "clarity_nt_char_1264": "clarity_nt_char_1264"
@@ -15186,7 +15186,7 @@
         "clarity_nt_char_1717": "clarity_nt_char_1717"
     },
     "5063": {
-        "　　－/　　－": ""
+        "　　－/　　－": "-/-"
     },
     "5064": {
         "？？？/？？？": "???/???"
