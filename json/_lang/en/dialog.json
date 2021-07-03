@@ -498,7 +498,7 @@
         "<speed=0>しかし　なにも　おこらなかった！": "<speed=0>But nothing happened!"
     },
     "167": {
-        "<speed=0>新品の装備品です！|一度　装備すると　他の人に|渡せなくなりますが　よろしいですか？<yesno 2><close>": "<speed=0>This is brand new equipment!|Once you equip it, you can't give it|to anyone else, is that okay?<yesno 2><close>"
+        "<speed=0>新品の装備品です！|一度　装備すると　他の人に|渡せなくなりますが　よろしいですか？<yesno 2><close>": "<speed=0>This is brand new equipment!|Once you equip it, you can't give it|to anyone else. Is this okay?<yesno 2><close>"
     },
     "168": {
         "ＢＧＭや効果音の|ボリュームを|設定します": "Set the volume|of background music|and sound effects"
