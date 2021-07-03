@@ -47217,7 +47217,7 @@
         "さいだいＭＰ +2": "Max MP +2"
     },
     "15740": {
-        "攻撃呪文ダメージ 5%減": "Spell Damage Taken -5%"
+        "攻撃呪文ダメージ 5%減": "Spell Resist +5%"
     },
     "15741": {
         "clarity_nt_char_5182": "clarity_nt_char_5182"
@@ -47310,13 +47310,13 @@
         "clarity_nt_char_5195": "clarity_nt_char_5195"
     },
     "15771": {
-        "30%の確率で受けたダメージ10%反射": ""
+        "30%の確率で受けたダメージ10%反射": "30% Chance to Reflect 10% Damage"
     },
     "15772": {
         "開戦時 8%で攻撃呪文威力上昇": ""
     },
     "15773": {
-        "闇ダメージ 20%減": ""
+        "闇ダメージ 20%減": "Dark Resist +20%"
     },
     "15774": {
         "clarity_nt_char_5196": "clarity_nt_char_5196"
@@ -47349,7 +47349,7 @@
         "開戦時 5%で攻撃呪文威力上昇": ""
     },
     "15784": {
-        "闇ダメージ 5%減": "Dark Resist 5%"
+        "闇ダメージ 5%減": "Dark Resist +5%"
     },
     "15785": {
         "即死ガード +10%": "Death Guard +10%"
@@ -47373,7 +47373,7 @@
         "clarity_nt_char_5201": "clarity_nt_char_5201"
     },
     "15792": {
-        "光ダメージ 20%減": ""
+        "光ダメージ 20%減": "Light Resist +20%"
     },
     "15793": {
         "clarity_nt_char_5202": "clarity_nt_char_5202"
@@ -47400,7 +47400,7 @@
         "clarity_nt_char_5205": "clarity_nt_char_5205"
     },
     "15801": {
-        "攻撃呪文ダメージ 7%減": "Spell Damage Taken -7%"
+        "攻撃呪文ダメージ 7%減": "Spell Resist +7%"
     },
     "15802": {
         "clarity_nt_char_5206": "clarity_nt_char_5206"
@@ -47409,7 +47409,7 @@
         "開戦時 50%でこうげき力 +60": ""
     },
     "15804": {
-        "炎の攻撃ダメージ +5%": ""
+        "炎の攻撃ダメージ +5%": "Fire Attack Damage +5%"
     },
     "15805": {
         "clarity_nt_char_5207": "clarity_nt_char_5207"
