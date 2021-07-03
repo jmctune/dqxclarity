@@ -19611,7 +19611,7 @@
         "clarity_nt_char_2230": "clarity_nt_char_2230"
     },
     "6538": {
-        "<%2dM_bunsi>/<%2dM_bunbo>匹": ""
+        "<%2dM_bunsi>/<%2dM_bunbo>匹": "<%2dM_bunsi>/<%2dM_bunbo>"
     },
     "6539": {
         "clarity_nt_char_2231": "clarity_nt_char_2231"
@@ -21018,7 +21018,7 @@
         "何人乗り？": "Which?"
     },
     "7007": {
-        "<%3dM_pager_1>-<%3dM_pager_2>/<%3dM_pager_3>位": ""
+        "<%3dM_pager_1>-<%3dM_pager_2>/<%3dM_pager_3>位": "<%3dM_pager_1>-<%3dM_pager_2>/<%3dM_pager_3>"
     },
     "7008": {
         "強化週間終了": "Upgrade Week end"
@@ -21279,7 +21279,7 @@
         "clarity_nt_char_2404": "clarity_nt_char_2404"
     },
     "7094": {
-        "あつめたシール <%3dM_Num>/<%3dM_Max>種": ""
+        "あつめたシール <%3dM_Num>/<%3dM_Max>種": "Collected Stickers <%3dM_Num>/<%3dM_Max>"
     },
     "7095": {
         "clarity_nt_char_2405": "clarity_nt_char_2405"
@@ -28512,7 +28512,7 @@
         "雷": "L."
     },
     "9505": {
-        "<%2dM_Num>/<%2dM_Max>種": ""
+        "<%2dM_Num>/<%2dM_Max>種": "<%2dM_Num>/<%2dM_Max>"
     },
     "9506": {
         "clarity_nt_char_3201": "clarity_nt_char_3201"
