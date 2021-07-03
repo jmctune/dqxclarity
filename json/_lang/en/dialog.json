@@ -1314,7 +1314,7 @@
         "<speed=0>サポート仲間が　死んでいるので|復活の呪文が　使えない！": ""
     },
     "439": {
-        "<speed=0>入力した内容を取り消して　元に戻しますか？<yesno 2><close>": ""
+        "<speed=0>入力した内容を取り消して　元に戻しますか？<yesno 2><close>": "<speed=0>Cancel any changes you've made?<yesno><close>"
     },
     "440": {
         "clarity_nt_char_151": "clarity_nt_char_151"
@@ -1716,7 +1716,7 @@
         "clarity_nt_char_194": "clarity_nt_char_194"
     },
     "573": {
-        "<speed=0>入力した内容を取り消して　元にもどしますか？<yesno><close>": ""
+        "<speed=0>入力した内容を取り消して　元にもどしますか？<yesno><close>": "<speed=0>Cancel any changes you've made?<yesno><close>"
     },
     "574": {
         "<speed=0>ひとことコメントを　変更しました。": ""
