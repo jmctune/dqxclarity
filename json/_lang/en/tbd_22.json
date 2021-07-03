@@ -690,7 +690,7 @@
         "clarity_nt_char_74": "clarity_nt_char_74"
     },
     "231": {
-        "長押し": ""
+        "長押し": "LongPress"
     },
     "232": {
         "方向キーの上下": ""
@@ -834,7 +834,7 @@
         "タッチパッドボタン": ""
     },
     "279": {
-        "Ｒ２ボタン長押し": ""
+        "Ｒ２ボタン長押し": "R2 button long press"
     },
     "280": {
         "clarity_nt_char_92": "clarity_nt_char_92"
@@ -843,7 +843,7 @@
         "Ｌ１ボタン、Ｒ１ボタン": "L1 button, R1 button"
     },
     "282": {
-        "Ｌ２ボタン長押し": ""
+        "Ｌ２ボタン長押し": "L2 button long press"
     },
     "283": {
         "clarity_nt_char_93": "clarity_nt_char_93"
