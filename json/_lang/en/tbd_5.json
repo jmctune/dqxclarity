@@ -1509,7 +1509,7 @@
         "アイテム交換屋で <%sM_item><%sM_plusnum>を 交換した！": ""
     },
     "504": {
-        "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>と <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>を合成した！": ""
+        "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>と <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>を合成した！": "<%sL_ACCE_ITEM><%sL_PLUSNUM_1> and <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2> were fused!"
     },
     "505": {
         "clarity_nt_char_161": "clarity_nt_char_161"
