@@ -1239,13 +1239,13 @@
         "clarity_nt_char_133": "clarity_nt_char_133"
     },
     "414": {
-        "攻撃力アップの時間が<%sB_renkin1>秒増加": "Attack Power Up Effect Time +<%sB_renkin1>s"
+        "攻撃力アップの時間が<%sB_renkin1>秒増加": "Attack Up Effect Time +<%sB_renkin1>s"
     },
     "415": {
         "clarity_nt_char_134": "clarity_nt_char_134"
     },
     "416": {
-        "呪文威力アップの時間が<%sB_renkin1>秒増加": "Spell Power Up Effect Time +<%sB_renkin1>s"
+        "呪文威力アップの時間が<%sB_renkin1>秒増加": "Spell Up Effect Time +<%sB_renkin1>s"
     },
     "417": {
         "戦闘勝利時に ＨＰが<%sB_renkin1>回復": "Recover <%sB_renkin1> HP After Battle"
@@ -3048,7 +3048,7 @@
         "clarity_nt_char_354": "clarity_nt_char_354"
     },
     "1017": {
-        "呪文威力アップの時間が <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>秒増加": "Spell Power Up Effect Time +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>s"
+        "呪文威力アップの時間が <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>秒増加": "Spell Up Effect Time +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>s"
     },
     "1018": {
         "瀕死時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で身かわし率+30%": "On Death Dodge Rate +30% <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
@@ -6057,13 +6057,13 @@
         "clarity_nt_char_668": "clarity_nt_char_668"
     },
     "2020": {
-        "攻撃力アップの時間が？秒増加": "Attack Power Up Effect Time +?s"
+        "攻撃力アップの時間が？秒増加": "Attack Up Effect Time +?s"
     },
     "2021": {
         "clarity_nt_char_669": "clarity_nt_char_669"
     },
     "2022": {
-        "呪文威力アップの時間が？秒増加": "Spell Power Up Effect Time +?s"
+        "呪文威力アップの時間が？秒増加": "Spell Up Effect Time +?s"
     },
     "2023": {
         "絆時 ？%で主人に魔力かくせい": ""
@@ -6663,7 +6663,7 @@
         "うけるダメージ ？%減": ""
     },
     "2222": {
-        "呪文威力アップの時間が ？秒増加": "Spell Power Up Effect Time +?s"
+        "呪文威力アップの時間が ？秒増加": "Spell Up Effect Time +?s"
     },
     "2223": {
         "clarity_nt_char_732": "clarity_nt_char_732"
