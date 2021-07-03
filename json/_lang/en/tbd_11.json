@@ -294,7 +294,7 @@
         "clarity_nt_char_34": "clarity_nt_char_34"
     },
     "99": {
-        "かばんがいっぱいです。|代わりにすてるアイテムを　えらんでください。": "You're in the middle of battle.|Please choose one to remove from your bag."
+        "かばんがいっぱいです。|代わりにすてるアイテムを　えらんでください。": "Your bag is full. Please choose an item to|replace."
     },
     "100": {
         "clarity_nt_char_35": "clarity_nt_char_35"
