@@ -1488,7 +1488,7 @@
         "<speed=0>新しいボディガードを呼ぶと|今のボディガードが消えますが　よろしいですか？|<yesno><close>": "<speed=0>Is it okay to replace your current bodyguard with a new one?<yesno><close>"
     },
     "497": {
-        "<speed=0>新品の装備品です！|一度　装備すると　新品ではなくなりますが|よろしいですか？<yesno 2><close>": ""
+        "<speed=0>新品の装備品です！|一度　装備すると　新品ではなくなりますが|よろしいですか？<yesno 2><close>": "<speed=0>This is brand new equipment!|Once you equip it, it will no longer be|new. Is this okay?<yesno 2><close>"
     },
     "498": {
         "clarity_nt_char_171": "clarity_nt_char_171"
@@ -4668,7 +4668,7 @@
         "clarity_nt_char_526": "clarity_nt_char_526"
     },
     "1557": {
-        "新品の装備品です！登録すると|新品ではなくなりますが　よろしいですか？": ""
+        "新品の装備品です！登録すると|新品ではなくなりますが　よろしいですか？": "<speed=0>This is brand new equipment!|Once registered, it will no longer be new.|Is this okay?"
     },
     "1558": {
         "<speed=0>星の大樹広場の教会に　戻りますか？|ゴールドは　失いません。<yesno2><close>": ""
