@@ -33141,10 +33141,10 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さらに 生き返りが できなくなった！": ""
     },
     "11048": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 風と雷の耐性ダウンの 効果時間延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 風と雷の耐性ダウンの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's wind/lightning resistance down effect extended!"
     },
     "11049": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と風と闇の耐性ダウンの 効果時間延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と風と闇の耐性ダウンの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's fire/wind/dark resistance down effect extended!"
     },
     "11050": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 一定時間 ダメージの一部を反射！": ""
@@ -33207,13 +33207,13 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みりょくダウンの 効果延長！": ""
     },
     "11070": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ブレス耐性ダウンの 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ブレス耐性ダウンの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's breath resistance down effect extended!"
     },
     "11071": {
         "clarity_nt_char_3684": "clarity_nt_char_3684"
     },
     "11072": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文耐性ダウンの 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文耐性ダウンの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell resistance down effect extended!"
     },
     "11073": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の威力ダウンの 効果延長！": ""
@@ -33318,7 +33318,7 @@
         "さらに \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ブレスを ふうじこめた！": ""
     },
     "11107": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と氷の耐性ダウンの 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と氷の耐性ダウンの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's fire/ice resistance down effect extended!"
     },
     "11108": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは うけるダメージと 与えるダメージが 少なくなった。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's taken and dealt damage reduced slightly."
@@ -33558,7 +33558,7 @@
         "さらに怒らなくなった！": ""
     },
     "11187": {
-        "炎と氷の耐性アップの|効果時間延長！": ""
+        "炎と氷の耐性アップの|効果時間延長！": "Fire/ice resist up|effect extended!"
     },
     "11188": {
         "clarity_nt_char_3723": "clarity_nt_char_3723"
