@@ -9702,7 +9702,7 @@
         "clarity_nt_char_1116": "clarity_nt_char_1116"
     },
     "3235": {
-        "<%dM_rank>位": ""
+        "<%dM_rank>位": "<%dM_rank>Pl."
     },
     "3236": {
         "時間未満": ""
@@ -13683,13 +13683,13 @@
         "しぐさ書・ポーズ書": "Gesture Pose Book"
     },
     "4562": {
-        "<%d_rank>位～<%d_rank2>位": ""
+        "<%d_rank>位～<%d_rank2>位": "<%d_rank>Pl. - <%d_rank2>Pl."
     },
     "4563": {
         "clarity_nt_char_1556": "clarity_nt_char_1556"
     },
     "4564": {
-        "<%d_rank>位": ""
+        "<%d_rank>位": "<%d_rank>Pl."
     },
     "4565": {
         "clarity_nt_char_1557": "clarity_nt_char_1557"
