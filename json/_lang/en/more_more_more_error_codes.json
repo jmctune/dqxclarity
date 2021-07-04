@@ -102,7 +102,7 @@
         "一定時間　操作が行われなかったため|インターネットから切断しました。": "You were disconnected from the game|due to inactivity."
     },
     "35": {
-        "エラーコード：<%sERRID>|同じアカウントで|別の場所から　ログインされたため|ログアウトしました。お心当たりがない場合は|不正アクセスされている可能性があります。|　|ご不明な点がある場合は|「ドラゴンクエストⅩ」サポートセンターのページも|ご確認ください。|https://sqex.to/eh6": ""
+        "エラーコード：<%sERRID>|同じアカウントで|別の場所から　ログインされたため|ログアウトしました。お心当たりがない場合は|不正アクセスされている可能性があります。|　|ご不明な点がある場合は|「ドラゴンクエストⅩ」サポートセンターのページも|ご確認ください。|https://sqex.to/eh6": "Error Code: <%sERRID>|You were logged out because your account has|just logged in from a different location. If you|don't recognize this login, it may be unauthorized access.| |If you have any questions, please visit the|Dragon Quest X Support Page.|https://sqex.to/eh6"
     },
     "36": {
         "エラーコード：<%sERRID>|通信が切断されました。|　|①もう一度　お試しください。|②「ドラゴンクエストⅩ　目覚めし冒険者の広場」から|　メンテナンス・障害情報をご確認ください。|　https://hiroba.dqx.jp|③「ドラゴンクエストⅩ　サポートセンター」から|　フリーワード検索にエラーコードをご入力ください。|　https://sqex.to/eh6": ""
