@@ -24009,7 +24009,7 @@
         "clarity_nt_char_2678": "clarity_nt_char_2678"
     },
     "8004": {
-        "<%sB_TARGET>は ねむっている！": ""
+        "<%sB_TARGET>は ねむっている！": "<%sB_TARGET> is sleeping!"
     },
     "8005": {
         "<%sB_TARGET>は こんらんしている！": ""
@@ -24171,7 +24171,7 @@
         "clarity_nt_char_2695": "clarity_nt_char_2695"
     },
     "8058": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ねむってしまった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ねむってしまった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e fell asleep!"
     },
     "8059": {
         "clarity_nt_char_2696": "clarity_nt_char_2696"
