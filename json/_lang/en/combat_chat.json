@@ -10995,7 +10995,7 @@
         "clarity_nt_char_1236": "clarity_nt_char_1236"
     },
     "3666": {
-        "耐性ダウン攻撃": ""
+        "耐性ダウン攻撃": "Resist Down Attack"
     },
     "3667": {
         "創世の力": ""
@@ -24717,7 +24717,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 闇のころもを 打ち消した！！": ""
     },
     "8240": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 氷耐性が さがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 氷耐性が さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's ice resist down!"
     },
     "8241": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔が とても 短くなった！": ""
@@ -24798,7 +24798,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 光耐性が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's light resistance up!"
     },
     "8267": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 炎耐性が さがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 炎耐性が さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's fire resist down!"
     },
     "8268": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eはこうげき時に マヒしなくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is no longer paralyzed when attacking!"
@@ -24981,16 +24981,16 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 恐怖の縛鎖を みにまとった！": ""
     },
     "8328": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 風耐性が さがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 風耐性が さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's wind resist down!"
     },
     "8329": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 土耐性が さがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 土耐性が さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's earth resist down!"
     },
     "8330": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 雷耐性が さがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 雷耐性が さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's lightning resist down!"
     },
     "8331": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 闇耐性が さがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 闇耐性が さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's dark resist down!"
     },
     "8332": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 光耐性が さがった！": ""
