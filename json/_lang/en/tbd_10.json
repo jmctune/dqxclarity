@@ -39,7 +39,7 @@
         "clarity_nt_char_4": "clarity_nt_char_4"
     },
     "14": {
-        "<speed=0><%sM_pc>は|<%sM_item>を使った。<br>|しかし　何も　おこらなかった！": ""
+        "<speed=0><%sM_pc>は|<%sM_item>を使った。<br>|しかし　何も　おこらなかった！": "<speed=0><%sM_pc> used <%sM_item>.<br>|But nothing happened!"
     },
     "15": {
         "clarity_nt_char_5": "clarity_nt_char_5"
