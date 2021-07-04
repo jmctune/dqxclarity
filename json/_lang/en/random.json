@@ -1392,7 +1392,7 @@
         "clarity_nt_char_148": "clarity_nt_char_148"
     },
     "465": {
-        "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　カードを引いた。　→　<%sL_STRING>": ""
+        "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　カードを引いた。　→　<%sL_STRING>": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\ drew a card.　→　<%sL_STRING>"
     },
     "466": {
         "clarity_nt_char_149": "clarity_nt_char_149"
