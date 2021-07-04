@@ -33873,7 +33873,7 @@
         "clarity_nt_char_3756": "clarity_nt_char_3756"
     },
     "11292": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と氷の耐性を 少し さげた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と氷の耐性を 少し さげた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's fire/ice resistance decreased slightly!"
     },
     "11293": {
         "clarity_nt_char_3757": "clarity_nt_char_3757"
@@ -33906,13 +33906,13 @@
         "clarity_nt_char_3760": "clarity_nt_char_3760"
     },
     "11303": {
-        "ブレス耐性をさげた！": ""
+        "ブレス耐性をさげた！": "Breath resistance decreased!"
     },
     "11304": {
         "clarity_nt_char_3761": "clarity_nt_char_3761"
     },
     "11305": {
-        "呪文耐性をさげた！": ""
+        "呪文耐性をさげた！": "Spell resistance decreased!"
     },
     "11306": {
         "呪文の威力をさげた！": ""
