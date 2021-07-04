@@ -3870,7 +3870,7 @@
         "clarity_nt_char_427": "clarity_nt_char_427"
     },
     "1291": {
-        "段位戦ポイントを　<%dL_rank_point>P 獲得した": ""
+        "段位戦ポイントを　<%dL_rank_point>P 獲得した": "Gained <%dL_rank_point> Dan Battle Rank Points"
     },
     "1292": {
         "トランプポイントを　<%dL_rank_point>P 獲得した": "You earned <%dL_rank_point> Trump Points"
@@ -3894,7 +3894,7 @@
         "ジョーカーが出されて　あつまったスライムがすべて消えた": ""
     },
     "1299": {
-        "段位戦ポイントを　<%dL_rank_point>P 失った": ""
+        "段位戦ポイントを　<%dL_rank_point>P 失った": "Lost <%dL_rank_point> Dan Battle Rank Points"
     },
     "1300": {
         "clarity_nt_char_431": "clarity_nt_char_431"
