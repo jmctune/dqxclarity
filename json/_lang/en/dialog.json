@@ -42,7 +42,7 @@
         "clarity_nt_char_6": "clarity_nt_char_6"
     },
     "15": {
-        "<center>おつかれさまでした。|このあとは　どこに戻りますか？<break>": "<center>Thanks for playing!|Where do you want to|go after this?<break>"
+        "<center>おつかれさまでした。|このあとは　どこに戻りますか？<break>": "<center>Thanks for playing!|Where do you want|to go after this?<break>"
     },
     "16": {
         "<speed=0><%sM_item>を　捨てますか？<yesno2><close>": "<speed=0>Throw away <%sM_item>?<yesno2><close>"
