@@ -24993,7 +24993,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 闇耐性が さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's dark resist down!"
     },
     "8332": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 光耐性が さがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 光耐性が さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's light resist down!"
     },
     "8333": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 移動速度が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's movement speed increased!"
@@ -25299,19 +25299,19 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 動きをふうじられた！": ""
     },
     "8434": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 炎と光の耐性が さがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 炎と光の耐性が さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's fire and light resistance down!"
     },
     "8435": {
         "clarity_nt_char_2804": "clarity_nt_char_2804"
     },
     "8436": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 氷と風と光の耐性が さがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 氷と風と光の耐性が さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's ice and wind resistance down!"
     },
     "8437": {
         "clarity_nt_char_2805": "clarity_nt_char_2805"
     },
     "8438": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 炎の耐性が さがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 炎の耐性が さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's fire resist down!"
     },
     "8439": {
         "clarity_nt_char_2806": "clarity_nt_char_2806"
@@ -25476,7 +25476,7 @@
         "clarity_nt_char_2824": "clarity_nt_char_2824"
     },
     "8493": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの すべての属性耐性が あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの すべての属性耐性が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's all attribute resistance down!"
     },
     "8494": {
         "clarity_nt_char_2825": "clarity_nt_char_2825"
