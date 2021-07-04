@@ -6450,7 +6450,7 @@
         "<%sB_TARGET>に コロシアム専用ダメージ！！": ""
     },
     "2151": {
-        "しかし なにも おこらなかった。": ""
+        "しかし なにも おこらなかった。": "But nothing happened."
     },
     "2152": {
         "clarity_nt_char_747": "clarity_nt_char_747"
@@ -13197,7 +13197,7 @@
         "ホライゾンレーザー": "Horizon Laser"
     },
     "4400": {
-        "ダークテンペスト": ""
+        "ダークテンペスト": "Dark Tempest"
     },
     "4401": {
         "clarity_nt_char_1475": "clarity_nt_char_1475"
@@ -24483,16 +24483,16 @@
         "clarity_nt_char_2720": "clarity_nt_char_2720"
     },
     "8162": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションが 5あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension increased by 5!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションが 5あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension increased to 5!"
     },
     "8163": {
         "clarity_nt_char_2721": "clarity_nt_char_2721"
     },
     "8164": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションが 20あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションが 20あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension increased to 20!"
     },
     "8165": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションが 50あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension increased by 50!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションが 50あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension increased to 50!"
     },
     "8166": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションが 100あがった！|スーパーハイテンションに なった！": ""
