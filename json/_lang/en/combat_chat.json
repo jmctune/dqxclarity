@@ -25689,7 +25689,7 @@
         "clarity_nt_char_2851": "clarity_nt_char_2851"
     },
     "8564": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 全属性の耐性が 少しさがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 全属性の耐性が 少しさがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e has all their attributes reduced slightly!"
     },
     "8565": {
         "clarity_nt_char_2852": "clarity_nt_char_2852"
