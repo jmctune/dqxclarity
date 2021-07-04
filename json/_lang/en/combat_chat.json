@@ -29796,7 +29796,7 @@
         "氷と風と光の耐性が|さがった！": "Ice/wind/light resistance|decreased!"
     },
     "9933": {
-        "炎の耐性が|さがった！": ""
+        "炎の耐性が|さがった！": "Fire resistance|decreased!"
     },
     "9934": {
         "チャンス！": "Chance!"
@@ -30195,7 +30195,7 @@
         "clarity_nt_char_3346": "clarity_nt_char_3346"
     },
     "10066": {
-        "全属性の耐性が|少しさがった！": ""
+        "全属性の耐性が|少しさがった！": "All resistances|decreased slightly!"
     },
     "10067": {
         "ＭＰが回復！": ""
@@ -30357,7 +30357,7 @@
         "炎属性完全ガードが|はられた！": ""
     },
     "10120": {
-        "炎耐性があがった": ""
+        "炎耐性があがった": "Fire resistance up"
     },
     "10121": {
         "clarity_nt_char_3365": "clarity_nt_char_3365"
