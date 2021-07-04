@@ -6699,7 +6699,7 @@
         "clarity_nt_char_771": "clarity_nt_char_771"
     },
     "2234": {
-        "とくぎは　覚えていません": "I haven't learned any skills"
+        "とくぎは　覚えていません": "You haven't learned any skills"
     },
     "2235": {
         "clarity_nt_char_772": "clarity_nt_char_772"
@@ -24075,7 +24075,7 @@
         "耐性しょうさい": "Resistances"
     },
     "8026": {
-        "付与されている耐性は　ありません": ""
+        "付与されている耐性は　ありません": "You don't have any resistances"
     },
     "8027": {
         "clarity_nt_char_2715": "clarity_nt_char_2715"
