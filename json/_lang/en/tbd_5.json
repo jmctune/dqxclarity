@@ -3651,7 +3651,7 @@
         "<%dM_gold> Gを 支払った。": "Paid <%dM_gold> G."
     },
     "1218": {
-        "トランプポイント <%dM_POINT> Pを使って <%sM_DAIFUGOU_FLAG>の絵柄を　手にいれた！": "You used <%dM_POINT> Trump Points to get the <%sM_DAIFUGOU_FLAG> pattern!"
+        "トランプポイント <%dM_POINT> Pを使って <%sM_DAIFUGOU_FLAG>の絵柄を　手にいれた！": "You used <%dM_POINT> Card Points to get the <%sM_DAIFUGOU_FLAG> pattern!"
     },
     "1219": {
         "大富豪スタート！": ""
@@ -3873,7 +3873,7 @@
         "段位戦ポイントを　<%dL_rank_point>P 獲得した": "Gained <%dL_rank_point> Dan Battle Rank Points"
     },
     "1292": {
-        "トランプポイントを　<%dL_rank_point>P 獲得した": "You earned <%dL_rank_point> Trump Points"
+        "トランプポイントを　<%dL_rank_point>P 獲得した": "You earned <%dL_rank_point> Card Points"
     },
     "1293": {
         "clarity_nt_char_428": "clarity_nt_char_428"
@@ -3900,7 +3900,7 @@
         "clarity_nt_char_431": "clarity_nt_char_431"
     },
     "1301": {
-        "トランプポイント <%dL_POINT> Pを使って|<%sL_DAIHUGOU_FLAG>の絵柄を　手にいれた！": "You used <%dM_POINT> Trump Points to|get the <%sM_DAIFUGOU_FLAG> pattern!"
+        "トランプポイント <%dL_POINT> Pを使って|<%sL_DAIHUGOU_FLAG>の絵柄を　手にいれた！": "You used <%dM_POINT> Card Points to|get the <%sM_DAIFUGOU_FLAG> pattern!"
     },
     "1302": {
         "ギラムソウルとギラムマジックがリセットされた！": ""
@@ -3948,7 +3948,7 @@
         "激しば": ""
     },
     "1317": {
-        "トランプポイント <%dL_POINT> Pを使って|<%sL_ITEM>を　<%dL_NUM>個　手にいれた！": "You spent <%dL_POINT> Trump Points to get <%dL_NUM> <%sL_ITEM>!"
+        "トランプポイント <%dL_POINT> Pを使って|<%sL_ITEM>を　<%dL_NUM>個　手にいれた！": "You spent <%dL_POINT> Card Points to get <%dL_NUM> <%sL_ITEM>!"
     },
     "1318": {
         "clarity_nt_char_437": "clarity_nt_char_437"
@@ -4086,7 +4086,7 @@
         "clarity_nt_char_452": "clarity_nt_char_452"
     },
     "1363": {
-        "トランプポイント <%dL_POINT> Pを使って|<%sL_ITEM>を　手にいれた！": "You spent <%dL_POINT> Trump Points to get <%sL_ITEM>!"
+        "トランプポイント <%dL_POINT> Pを使って|<%sL_ITEM>を　手にいれた！": "You spent <%dL_POINT> Card Points to get <%sL_ITEM>!"
     },
     "1364": {
         "対戦相手      ランク             使うトランプ": ""
