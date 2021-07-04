@@ -3651,7 +3651,7 @@
         "<%dM_gold> Gを 支払った。": "Paid <%dM_gold> G."
     },
     "1218": {
-        "トランプポイント <%dM_POINT> Pを使って <%sM_DAIFUGOU_FLAG>の絵柄を　手にいれた！": ""
+        "トランプポイント <%dM_POINT> Pを使って <%sM_DAIFUGOU_FLAG>の絵柄を　手にいれた！": "You used <%dM_POINT> Trump Points to get the <%sM_DAIFUGOU_FLAG> pattern!"
     },
     "1219": {
         "大富豪スタート！": ""
