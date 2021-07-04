@@ -108,7 +108,7 @@
         "clarity_nt_char_10": "clarity_nt_char_10"
     },
     "37": {
-        "<speed=0>パーティを　解散した！": "<speed=0>The party's over!"
+        "<speed=0>パーティを　解散した！": "<speed=0>Party's over! Go home!"
     },
     "38": {
         "clarity_nt_char_11": "clarity_nt_char_11"
@@ -1626,7 +1626,7 @@
         "<speed=0>あなたと<%sM_pc>は　別の目的を設定中です。|あなたの目的を「なし」に設定しなおしてから|再度　<%sM_pc>を仲間にさそいますか？<yesno><close>": ""
     },
     "543": {
-        "<speed=0>下のあなたの目的を　相手の目的と合わせますか？|　大目的：<%sM_Purpose>|　小目的：<%sM_Purpose2>|<yesno><close>": "<speed=0>Match your goal with the other party's?|　Main Goal: <%sM_Purpose>|　Sm. Goal: <%sM_Purpose2>|<yesno><close>"
+        "<speed=0>下のあなたの目的を　相手の目的と合わせますか？|　大目的：<%sM_Purpose>|　小目的：<%sM_Purpose2>|<yesno><close>": "<speed=0>Match your goal with the other party's?|　Main Goal: <%sM_Purpose>|　Sub Goal: <%sM_Purpose2>|<yesno><close>"
     },
     "544": {
         "clarity_nt_char_186": "clarity_nt_char_186"
