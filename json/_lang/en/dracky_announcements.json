@@ -4239,7 +4239,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eから 大富豪に 誘われました!": ""
     },
     "1414": {
-        "大富豪の誘いが 時間切れになりました": "Millionaire invitation timed out."
+        "大富豪の誘いが 時間切れになりました": "Daifugo invitation timed out."
     },
     "1415": {
         "clarity_nt_char_476": "clarity_nt_char_476"
@@ -4278,7 +4278,7 @@
         "アワウキ貝が　浮き上がってきたようだ。": ""
     },
     "1427": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが 大富豪から抜けました": "\\s<%sC_PC>\\m<%sC_ID>\\e left the Millionaire game."
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが 大富豪から抜けました": "\\s<%sC_PC>\\m<%sC_ID>\\e left the Daifugo game."
     },
     "1428": {
         "clarity_nt_char_481": "clarity_nt_char_481"
