@@ -29145,7 +29145,7 @@
         "clarity_nt_char_3232": "clarity_nt_char_3232"
     },
     "9716": {
-        "しゅび力がふえた！": ""
+        "しゅび力がふえた！": "Defense increased!"
     },
     "9717": {
         "きようさがふえた！": "Deftness increased!"
@@ -30948,7 +30948,7 @@
         "こうげき力が|もとにもどった！": "Attack returned|to normal!"
     },
     "10317": {
-        "しゅび力が|もとにもどった！": ""
+        "しゅび力が|もとにもどった！": "Defense has|returned to normal!"
     },
     "10318": {
         "clarity_nt_char_3433": "clarity_nt_char_3433"
@@ -31020,7 +31020,7 @@
         "こうげき力があがった！": "Attack increased!"
     },
     "10341": {
-        "しゅび力があがった！": ""
+        "しゅび力があがった！": "Defense increased!"
     },
     "10342": {
         "clarity_nt_char_3442": "clarity_nt_char_3442"
@@ -31719,7 +31719,7 @@
         "clarity_nt_char_3516": "clarity_nt_char_3516"
     },
     "10574": {
-        "しゅび力がもとにもどった": ""
+        "しゅび力がもとにもどった": "Defense returned to normal."
     },
     "10575": {
         "clarity_nt_char_3517": "clarity_nt_char_3517"
@@ -32850,7 +32850,7 @@
         "clarity_nt_char_3645": "clarity_nt_char_3645"
     },
     "10951": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力アップの 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力アップの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Defense up effect extended!"
     },
     "10952": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔短縮の 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's command interval shorten effect extended!"
@@ -33195,7 +33195,7 @@
         "clarity_nt_char_3682": "clarity_nt_char_3682"
     },
     "11066": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力ダウンの 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力ダウンの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Defense down effect extended!"
     },
     "11067": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔延長の 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's command interval lengthen effect extended!"
@@ -33837,7 +33837,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力を 少し さげた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack decreased slightly!"
     },
     "11280": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力を 少し さげた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力を 少し さげた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Defense decreased slightly!"
     },
     "11281": {
         "clarity_nt_char_3753": "clarity_nt_char_3753"
@@ -33891,7 +33891,7 @@
         "clarity_nt_char_3759": "clarity_nt_char_3759"
     },
     "11298": {
-        "しゅび力をさげた！": ""
+        "しゅび力をさげた！": "Defense decreased!"
     },
     "11299": {
         "コマンド間隔を|長くした！": "Command interval|increased!"
