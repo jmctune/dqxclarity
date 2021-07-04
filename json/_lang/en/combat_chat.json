@@ -33045,7 +33045,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 状態異常耐性ダウンの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's status effect resistance down effect extended!"
     },
     "11016": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 風耐性ダウンの 効果時間延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 風耐性ダウンの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's wind resistance down effect extended!"
     },
     "11017": {
         "clarity_nt_char_3665": "clarity_nt_char_3665"
