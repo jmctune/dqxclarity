@@ -31926,7 +31926,7 @@
         "ファランクスが|きえた": ""
     },
     "10643": {
-        "ふたたびダメージを|与えられるようになった！": ""
+        "ふたたびダメージを|与えられるようになった！": "You can now deal|damage again!"
     },
     "10644": {
         "clarity_nt_char_3539": "clarity_nt_char_3539"
@@ -33321,7 +33321,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と氷の耐性ダウンの 効果延長！": ""
     },
     "11108": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは うけるダメージと 与えるダメージが 少なくなった。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは うけるダメージと 与えるダメージが 少なくなった。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's taken and dealt damage reduced slightly."
     },
     "11109": {
         "clarity_nt_char_3697": "clarity_nt_char_3697"
