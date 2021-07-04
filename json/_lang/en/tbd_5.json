@@ -3873,7 +3873,7 @@
         "段位戦ポイントを　<%dL_rank_point>P 獲得した": ""
     },
     "1292": {
-        "トランプポイントを　<%dL_rank_point>P 獲得した": ""
+        "トランプポイントを　<%dL_rank_point>P 獲得した": "You earned <%dL_rank_point> Trump Points"
     },
     "1293": {
         "clarity_nt_char_428": "clarity_nt_char_428"
