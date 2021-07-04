@@ -16614,7 +16614,7 @@
         "clarity_nt_char_1889": "clarity_nt_char_1889"
     },
     "5539": {
-        "第<%dM_num>回": "No. <%dM_num>"
+        "第<%dM_num>回": "#<%dM_num>"
     },
     "5540": {
         "<%sM_title>": ""
@@ -19017,7 +19017,7 @@
         "clarity_nt_char_2160": "clarity_nt_char_2160"
     },
     "6340": {
-        "第<%nM_nn>回": "No. <%nM_nn>"
+        "第<%nM_nn>回": "#<%nM_nn>"
     },
     "6341": {
         "clarity_nt_char_2161": "clarity_nt_char_2161"
