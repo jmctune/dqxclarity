@@ -32652,7 +32652,7 @@
         "風と雷の耐性が|もとにもどった": "Wind/lightning resist|returned to normal."
     },
     "10885": {
-        "炎と風と闇の耐性が|もとにもどった": ""
+        "炎と風と闇の耐性が|もとにもどった": "Fire/wind/dark resist|returned to normal."
     },
     "10886": {
         "宝玉のころもがきえた": ""
@@ -32865,7 +32865,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 重さアップの 効果延長！": ""
     },
     "10956": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ブレス耐性アップの 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ブレス耐性アップの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's breath resistance up effect extended!"
     },
     "10957": {
         "clarity_nt_char_3647": "clarity_nt_char_3647"
