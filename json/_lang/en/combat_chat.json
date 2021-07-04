@@ -27093,7 +27093,7 @@
         "clarity_nt_char_3007": "clarity_nt_char_3007"
     },
     "9032": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ねむっている！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ねむっている！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is sleeping!"
     },
     "9033": {
         "clarity_nt_char_3008": "clarity_nt_char_3008"
@@ -28650,7 +28650,7 @@
         "<%sB_TARGET2>に怒り！": "Angry at <%sB_TARGET2>!"
     },
     "9551": {
-        "ねむってしまった！": ""
+        "ねむってしまった！": "Fell asleep!"
     },
     "9552": {
         "こんらんした！": ""
@@ -32895,7 +32895,7 @@
         "clarity_nt_char_3650": "clarity_nt_char_3650"
     },
     "10966": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さらに 深く ねむってしまった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さらに 深く ねむってしまった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e fell into a deep sleep!"
     },
     "10967": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さらに こんらんした！": ""
