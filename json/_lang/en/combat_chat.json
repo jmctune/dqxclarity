@@ -33855,10 +33855,10 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 重さを 少し 軽くした！": ""
     },
     "11286": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ブレス耐性を 少し さげた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ブレス耐性を 少し さげた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's breath resistance decreased slightly!"
     },
     "11287": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文耐性を 少し さげた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文耐性を 少し さげた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell resistance decreased slightly!"
     },
     "11288": {
         "clarity_nt_char_3755": "clarity_nt_char_3755"
