@@ -28629,7 +28629,7 @@
         "ブレス耐性がさがった！": "Breath resistance|decreased!"
     },
     "9544": {
-        "呪文耐性がさがった！": ""
+        "呪文耐性がさがった！": "Spell resistance|decreased!"
     },
     "9545": {
         "clarity_nt_char_3173": "clarity_nt_char_3173"
@@ -29121,7 +29121,7 @@
         "興味をひかれたようだ！": ""
     },
     "9708": {
-        "全属性の耐性がさがった！": ""
+        "全属性の耐性がさがった！": "All resistances|decreased!"
     },
     "9709": {
         "clarity_nt_char_3230": "clarity_nt_char_3230"
@@ -29196,7 +29196,7 @@
         "clarity_nt_char_3237": "clarity_nt_char_3237"
     },
     "9733": {
-        "氷耐性がさがった！": ""
+        "氷耐性がさがった！": "Ice resistance decreased!"
     },
     "9734": {
         "コマンド間隔が|0になった！": "Command interval|became 0!"
