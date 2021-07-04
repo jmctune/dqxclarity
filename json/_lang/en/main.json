@@ -20820,7 +20820,7 @@
         "旬のさかな　自己ベスト": ""
     },
     "6941": {
-        "<%d_rank>位～<%d_rank2>位の報酬": ""
+        "<%d_rank>位～<%d_rank2>位の報酬": "<%d_rank>Pl. - <%d_rank2>Pl. Reward"
     },
     "6942": {
         "さかなのなまえ": "Fish Name"
@@ -22494,7 +22494,7 @@
         "大討伐について": ""
     },
     "7499": {
-        "<%dM_rank>位の報酬": ""
+        "<%dM_rank>位の報酬": "<%dM_rank>Pl. Reward"
     },
     "7500": {
         "clarity_nt_char_2543": "clarity_nt_char_2543"
