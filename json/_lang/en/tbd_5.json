@@ -4053,7 +4053,7 @@
         "clarity_nt_char_450": "clarity_nt_char_450"
     },
     "1352": {
-        "<%sL_rank>では　降段しないため　これ以上|段位戦ポイントが　減らなかった": ""
+        "<%sL_rank>では　降段しないため　これ以上|段位戦ポイントが　減らなかった": "You can't be demoted from <%sL_rank> so you didn't lose any more points"
     },
     "1353": {
         "　→手札がいっぱいで 受け取れなかったカードが 捨てられた": ""
