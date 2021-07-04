@@ -672,7 +672,7 @@
         "clarity_nt_char_70": "clarity_nt_char_70"
     },
     "225": {
-        "オルフェア地方西への道": "Orphea Village Road"
+        "オルフェア地方西への道": "Orphea Region West Road"
     },
     "226": {
         "メギストリス領への道": ""
@@ -708,7 +708,7 @@
         "フォステイル広場 入口": ""
     },
     "237": {
-        "オルフェア地方西への出口": ""
+        "オルフェア地方西への出口": "Exit to Orphea Region West"
     },
     "238": {
         "clarity_nt_char_74": "clarity_nt_char_74"
@@ -777,7 +777,7 @@
         "clarity_nt_char_81": "clarity_nt_char_81"
     },
     "260": {
-        "オルフェア地方東への道": ""
+        "オルフェア地方東への道": "Orphea Region East Road"
     },
     "261": {
         "ポポラパの洞くつ 入口": ""
@@ -2238,7 +2238,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>ピィピのお宿": "<%sW_MAP_NAME><%sW_DELIMITER>Pipi's Inn"
     },
     "747": {
-        "オルフェア地方東への出口": ""
+        "オルフェア地方東への出口": "Exit to Orphea Region East"
     },
     "748": {
         "clarity_nt_char_243": "clarity_nt_char_243"
@@ -3087,7 +3087,7 @@
         "採掘現場地区への道": "Road to Dig Site"
     },
     "1030": {
-        "オルフェアの町 入口": ""
+        "オルフェアの町 入口": "Orphea Village Entry"
     },
     "1031": {
         "clarity_nt_char_329": "clarity_nt_char_329"
