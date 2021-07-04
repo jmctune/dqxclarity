@@ -3900,7 +3900,7 @@
         "clarity_nt_char_431": "clarity_nt_char_431"
     },
     "1301": {
-        "トランプポイント <%dL_POINT> Pを使って|<%sL_DAIHUGOU_FLAG>の絵柄を　手にいれた！": ""
+        "トランプポイント <%dL_POINT> Pを使って|<%sL_DAIHUGOU_FLAG>の絵柄を　手にいれた！": "You used <%dM_POINT> Trump Points to|get the <%sM_DAIFUGOU_FLAG> pattern!"
     },
     "1302": {
         "ギラムソウルとギラムマジックがリセットされた！": ""
