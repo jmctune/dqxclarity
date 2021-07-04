@@ -33693,7 +33693,7 @@
         "しゅび力ダウン|効果時間延長！": "Defense down|effect extended!"
     },
     "11232": {
-        "コマンド間隔延長の|効果時間延長！": ""
+        "コマンド間隔延長の|効果時間延長！": "Command interval lengthen|effect extended!"
     },
     "11233": {
         "ブレス耐性ダウンの|効果時間延長！": ""
@@ -33843,7 +33843,7 @@
         "clarity_nt_char_3753": "clarity_nt_char_3753"
     },
     "11282": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔を 少し 長くした！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔を 少し 長くした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\'s command interval lengthened slightly!"
     },
     "11283": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みりょくを 少し さげた！": ""
@@ -33894,7 +33894,7 @@
         "しゅび力をさげた！": ""
     },
     "11299": {
-        "コマンド間隔を|長くした！": ""
+        "コマンド間隔を|長くした！": "Command interval|increased!"
     },
     "11300": {
         "みりょくをさげた！": ""
