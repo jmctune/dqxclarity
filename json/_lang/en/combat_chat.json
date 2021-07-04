@@ -210,7 +210,7 @@
         "clarity_nt_char_21": "clarity_nt_char_21"
     },
     "71": {
-        "グラグラしている": ""
+        "グラグラしている": "Wobbling around..."
     },
     "72": {
         "clarity_nt_char_22": "clarity_nt_char_22"
@@ -2799,7 +2799,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 武器を なめている。": ""
     },
     "934": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは グラグラしている。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは グラグラしている。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is wobbling around."
     },
     "935": {
         "clarity_nt_char_336": "clarity_nt_char_336"
