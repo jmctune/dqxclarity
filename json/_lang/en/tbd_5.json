@@ -3948,7 +3948,7 @@
         "激しば": ""
     },
     "1317": {
-        "トランプポイント <%dL_POINT> Pを使って|<%sL_ITEM>を　<%dL_NUM>個　手にいれた！": ""
+        "トランプポイント <%dL_POINT> Pを使って|<%sL_ITEM>を　<%dL_NUM>個　手にいれた！": "You spent <%dL_POINT> Trump Points to get <%dL_NUM> <%sL_ITEM>!"
     },
     "1318": {
         "clarity_nt_char_437": "clarity_nt_char_437"
@@ -4086,7 +4086,7 @@
         "clarity_nt_char_452": "clarity_nt_char_452"
     },
     "1363": {
-        "トランプポイント <%dL_POINT> Pを使って|<%sL_ITEM>を　手にいれた！": ""
+        "トランプポイント <%dL_POINT> Pを使って|<%sL_ITEM>を　手にいれた！": "You spent <%dL_POINT> Trump Points to get <%sL_ITEM>!"
     },
     "1364": {
         "対戦相手      ランク             使うトランプ": ""
