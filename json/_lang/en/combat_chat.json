@@ -31770,7 +31770,7 @@
         "氷耐性がもとにもどった": ""
     },
     "10591": {
-        "コマンド間隔が|もとに戻った！": ""
+        "コマンド間隔が|もとに戻った！": "Command interval|is back to normal!"
     },
     "10592": {
         "力のカードの効果が|きえた！": ""
@@ -32799,7 +32799,7 @@
         "clarity_nt_char_3638": "clarity_nt_char_3638"
     },
     "10934": {
-        "コマンド間隔が|短くなる効果がきえた": ""
+        "コマンド間隔が|短くなる効果がきえた": "Command interval shorten|effect has expired"
     },
     "10935": {
         "clarity_nt_char_3639": "clarity_nt_char_3639"
@@ -32853,7 +32853,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力アップの 効果延長！": ""
     },
     "10952": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔短縮の 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔短縮の 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's command interval shorten effect extended!"
     },
     "10953": {
         "clarity_nt_char_3646": "clarity_nt_char_3646"
@@ -33198,7 +33198,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力ダウンの 効果延長！": ""
     },
     "11067": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔延長の 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔延長の 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's command interval lengthen effect extended!"
     },
     "11068": {
         "clarity_nt_char_3683": "clarity_nt_char_3683"
@@ -33384,7 +33384,7 @@
         "しゅび力アップ|効果時間延長！": "Defense up|effect extended!"
     },
     "11129": {
-        "コマンド間隔短縮の|効果時間延長！": ""
+        "コマンド間隔短縮の|効果時間延長！": "Command interval shorten|effect extended!"
     },
     "11130": {
         "みりょくアップ|効果時間延長！": ""
@@ -33675,7 +33675,7 @@
         "ダメージプラスが|アップした！": ""
     },
     "11226": {
-        "コマンド間隔が|速くなった！": ""
+        "コマンド間隔が|速くなった！": "Command interval|now faster!"
     },
     "11227": {
         "clarity_nt_char_3736": "clarity_nt_char_3736"
