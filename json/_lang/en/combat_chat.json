@@ -24495,7 +24495,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションが 50あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension increased to 50!"
     },
     "8166": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションが 100あがった！|スーパーハイテンションに なった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションが 100あがった！|スーパーハイテンションに なった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension increased to 100!|Super High Tension!!"
     },
     "8167": {
         "clarity_nt_char_2722": "clarity_nt_char_2722"
@@ -24534,7 +24534,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 打撃完全ガードが はられた！": ""
     },
     "8179": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みりょくが あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みりょくが あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Charm increased!"
     },
     "8180": {
         "clarity_nt_char_2726": "clarity_nt_char_2726"
@@ -24702,10 +24702,10 @@
         "clarity_nt_char_2743": "clarity_nt_char_2743"
     },
     "8235": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎耐性が あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎耐性が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's fire resistance up!"
     },
     "8236": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 氷耐性が あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 氷耐性が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's ice resistance up!"
     },
     "8237": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 闇のころもを 身にまとった！！": ""
@@ -24783,19 +24783,19 @@
         "clarity_nt_char_2748": "clarity_nt_char_2748"
     },
     "8262": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 風耐性が あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 風耐性が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's wind resistance up!"
     },
     "8263": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 雷耐性が あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 雷耐性が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's lightning resistance up!"
     },
     "8264": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 土耐性が あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 土耐性が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's earth resistance up!"
     },
     "8265": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 闇耐性が あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 闇耐性が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's dark resistance up!"
     },
     "8266": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 光耐性が あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 光耐性が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's light resistance up!"
     },
     "8267": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 炎耐性が さがった！": ""
