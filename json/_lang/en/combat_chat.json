@@ -33063,13 +33063,13 @@
         "clarity_nt_char_3667": "clarity_nt_char_3667"
     },
     "11022": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 闇耐性ダウンの 効果時間延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 闇耐性ダウンの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's dark resistance down effect extended!"
     },
     "11023": {
         "clarity_nt_char_3668": "clarity_nt_char_3668"
     },
     "11024": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 光耐性ダウンの 効果時間延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 光耐性ダウンの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's light resistance down effect extended!"
     },
     "11025": {
         "clarity_nt_char_3669": "clarity_nt_char_3669"
@@ -33084,13 +33084,13 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eが さらに いい気持ちになった！": ""
     },
     "11029": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と光の耐性ダウンの 効果時間延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と光の耐性ダウンの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's fire/light resistance down effect extended!"
     },
     "11030": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 氷と風と光の耐性ダウンの 効果時間延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 氷と風と光の耐性ダウンの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's ice/wind/light resistance down effect extended!"
     },
     "11031": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎の耐性ダウンの 効果時間延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎の耐性ダウンの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's fire resistance down effect extended!"
     },
     "11032": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さらに ＭＰが減っていく 呪いにかかった！": ""
