@@ -162,7 +162,7 @@
         "clarity_nt_char_19": "clarity_nt_char_19"
     },
     "55": {
-        "ショックをうける": ""
+        "ショックをうける": "Received a shock!"
     },
     "56": {
         "clarity_nt_char_20": "clarity_nt_char_20"
@@ -1320,7 +1320,7 @@
         "clarity_nt_char_141": "clarity_nt_char_141"
     },
     "441": {
-        "<%sL_ACTOR>は　<%sL_TARGET>に　ショックをうけた！": ""
+        "<%sL_ACTOR>は　<%sL_TARGET>に　ショックをうけた！": "<%sL_ACTOR> gave <%sL_TARGET> a shock!"
     },
     "442": {
         "clarity_nt_char_142": "clarity_nt_char_142"
