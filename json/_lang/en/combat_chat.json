@@ -24996,7 +24996,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 光耐性が さがった！": ""
     },
     "8333": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 移動速度が あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 移動速度が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's movement speed increased!"
     },
     "8334": {
         "clarity_nt_char_2768": "clarity_nt_char_2768"
@@ -25215,7 +25215,7 @@
         "clarity_nt_char_2791": "clarity_nt_char_2791"
     },
     "8406": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ふるえあがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ふるえあがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e trembled!"
     },
     "8407": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは いい気持ちになった！": ""
