@@ -5982,7 +5982,7 @@
         "<%sB_ACTOR>は プスゴンの着ぐるみを 着た！": ""
     },
     "1995": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eには 何も おこらなかった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eには 何も おこらなかった！": "Nothing happened to \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e!"
     },
     "1996": {
         "しかし 生き返らなかった！": ""
@@ -28008,7 +28008,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 攻撃時 ＭＰ回復が きえた！": ""
     },
     "9337": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージダウンの効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージダウンの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's damage down effect expired!"
     },
     "9338": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージでＨＰ回復効果が きえた！": ""
