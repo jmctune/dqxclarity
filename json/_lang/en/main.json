@@ -21699,7 +21699,7 @@
         "clarity_nt_char_2453": "clarity_nt_char_2453"
     },
     "7234": {
-        "第<%dM_nn>回": "#<%dM_nn>"
+        "第<%dM_nn>回": " #<%dM_nn>"
     },
     "7235": {
         "clarity_nt_char_2454": "clarity_nt_char_2454"
@@ -28902,7 +28902,7 @@
         "C": ""
     },
     "9635": {
-        "第<%nM_00>回　<%sM_tournament>": "<%sM_tournament>#<%nM_00>"
+        "第<%nM_00>回　<%sM_tournament>": "<%sM_tournament> #<%nM_00>"
     },
     "9636": {
         "段位": "Dan # "
