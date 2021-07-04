@@ -32871,7 +32871,7 @@
         "clarity_nt_char_3647": "clarity_nt_char_3647"
     },
     "10958": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文耐性アップの 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文耐性アップの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell resistance up effect extended!"
     },
     "10959": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の威力アップの 効果延長！": ""
@@ -33024,10 +33024,10 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さらに 怒らなくなった！": ""
     },
     "11009": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 耐性ダウンの 効果時間延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 耐性ダウンの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's resistance down effect extended!"
     },
     "11010": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 氷耐性ダウンの 効果時間延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 氷耐性ダウンの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's ice resistance down effect extended!"
     },
     "11011": {
         "clarity_nt_char_3663": "clarity_nt_char_3663"
