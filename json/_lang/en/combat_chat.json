@@ -4956,7 +4956,7 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 守護の結晶を 召喚した！": ""
     },
     "1653": {
-        "しかし 誰にも 効果はなかった。": ""
+        "しかし 誰にも 効果はなかった。": "But there was no one to affect."
     },
     "1654": {
         "clarity_nt_char_578": "clarity_nt_char_578"
@@ -6408,7 +6408,7 @@
         "clarity_nt_char_741": "clarity_nt_char_741"
     },
     "2137": {
-        "しかし 効果はなかった。": ""
+        "しかし 効果はなかった。": "But there was no effect."
     },
     "2138": {
         "clarity_nt_char_742": "clarity_nt_char_742"
@@ -24186,7 +24186,7 @@
         "clarity_nt_char_2697": "clarity_nt_char_2697"
     },
     "8063": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ショックを うけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ショックを うけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was shocked!"
     },
     "8064": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 大ウケした！": ""
@@ -26280,7 +26280,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを すっころばせた！": ""
     },
     "8761": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに ショックを あたえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに ショックを あたえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was shocked!"
     },
     "8762": {
         "clarity_nt_char_2921": "clarity_nt_char_2921"
