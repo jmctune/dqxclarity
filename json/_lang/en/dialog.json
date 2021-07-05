@@ -4215,7 +4215,7 @@
         "<speed=0>あなたは今　仲間がいます。|今の仲間と一緒に　<%sM_monster>との戦いに|行きますが　よろしいですか？<yesno><close>": ""
     },
     "1406": {
-        "<speed=0>ボスモンスターとの戦いへのさそいが|キャンセルされました。": ""
+        "<speed=0>ボスモンスターとの戦いへのさそいが|キャンセルされました。": "<speed=0>Boss monster fight invite was cancelled."
     },
     "1407": {
         "clarity_nt_char_471": "clarity_nt_char_471"
