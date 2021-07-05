@@ -8925,7 +8925,7 @@
         "clarity_nt_char_1030": "clarity_nt_char_1030"
     },
     "2976": {
-        "[ID順]": "[By ID]"
+        "[ID順]": "[ID]"
     },
     "2977": {
         "[状態別]": ""
@@ -20367,10 +20367,10 @@
         "clarity_nt_char_2313": "clarity_nt_char_2313"
     },
     "6790": {
-        "カテゴリー順に": ""
+        "カテゴリー順に": "By Category"
     },
     "6791": {
-        "[カテゴリー順]": ""
+        "[カテゴリー順]": "[Category]"
     },
     "6792": {
         "clarity_nt_char_2314": "clarity_nt_char_2314"
