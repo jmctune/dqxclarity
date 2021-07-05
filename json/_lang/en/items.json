@@ -80283,7 +80283,7 @@
         "clarity_nt_char_8585": "clarity_nt_char_8585"
     },
     "26762": {
-        "コインＬｖ１１６|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 116 Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
+        "コインＬｖ１１６|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 116 Boss.|Expires: <%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "26763": {
         "ムドー|練習用のお札|魔法の迷宮で使用": "Use to train on|Mudo in the|Magic Maze."
