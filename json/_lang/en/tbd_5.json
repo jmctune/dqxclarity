@@ -1212,7 +1212,7 @@
         "clarity_nt_char_126": "clarity_nt_char_126"
     },
     "405": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの釣り経験値を かくとく！| → おうえんボーナス +<%dL_EXP_OUEN> P": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの釣り経験値を かくとく！| → おうえんボーナス +<%dL_EXP_OUEN> P": "\\s<%sC_PC>\\m<%sC_ID>\\e received <%dL_EXP> Fishing EXP!|→ Cheer Bonus +<%dL_EXP_OUEN>"
     },
     "406": {
         "clarity_nt_char_127": "clarity_nt_char_127"

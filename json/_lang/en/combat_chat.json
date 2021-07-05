@@ -24645,7 +24645,7 @@
         "clarity_nt_char_2737": "clarity_nt_char_2737"
     },
     "8216": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは よろこんでいる！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは よろこんでいる！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is feeling happy!"
     },
     "8217": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ジャンプの時間が 長くなった！": ""
