@@ -11853,7 +11853,7 @@
         "ランキングデータの反映まで　お待ちください": ""
     },
     "3952": {
-        "<%dM_cal_YYYY>年<%dM_cal_MM>月<%dM_cal_DD>日 <%2dM_hh>:<%02dM_mm>時点": ""
+        "<%dM_cal_YYYY>年<%dM_cal_MM>月<%dM_cal_DD>日 <%2dM_hh>:<%02dM_mm>時点": "<%dM_cal_MM>/<%dM_cal_DD>/<%dM_cal_YYYY> at <%2dM_hh>:<%02dM_mm>"
     },
     "3953": {
         "clarity_nt_char_1353": "clarity_nt_char_1353"
