@@ -53616,7 +53616,7 @@
         "clarity_nt_char_5612": "clarity_nt_char_5612"
     },
     "17873": {
-        "コインＬｖ７０|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 70 S. Boss.|Expires: <%sM_time><%sM_time_unit>"
+        "コインＬｖ７０|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 70 S. Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "17874": {
         "討伐隊の緊急依頼|受けたらなくなる|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
@@ -53688,16 +53688,16 @@
         "clarity_nt_char_5622": "clarity_nt_char_5622"
     },
     "17897": {
-        "コインＬｖ１０８|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 108 Boss.|Expires: <%sM_time><%sM_time_unit>"
+        "コインＬｖ１０８|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 108 Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "17898": {
-        "コインＬｖ９３|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 93 Mini Boss.|Expires: <%sM_time><%sM_time_unit>"
+        "コインＬｖ９３|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 93 Mini Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "17899": {
         "clarity_nt_char_5623": "clarity_nt_char_5623"
     },
     "17900": {
-        "コインＬｖ１０５|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 105 Boss.|Expires: <%sM_time><%sM_time_unit>"
+        "コインＬｖ１０５|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 105 Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "17901": {
         "伝説の三悪魔|練習用のお札|魔法の迷宮で使用": "Use to train on|3 Legend Demons|in Magic Maze."
@@ -53763,7 +53763,7 @@
         "コインＬｖ８５|のボスが登場する|魔法の迷宮で使用": "Use to fight a|Lv 85 Boss in|the Magic Maze."
     },
     "17922": {
-        "コインＬｖ８５|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ８５|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 85 Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "17923": {
         "clarity_nt_char_5632": "clarity_nt_char_5632"
@@ -54330,7 +54330,7 @@
         "コインＬｖ９３|のボスが登場する|魔法の迷宮で使用": "Use to fight a|Lv 93 Boss in|the Magic Maze."
     },
     "18111": {
-        "コインＬｖ９３|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ９３|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 93 Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "18112": {
         "clarity_nt_char_5699": "clarity_nt_char_5699"
@@ -54486,13 +54486,13 @@
         "使い道はないが|売ればお金になる|金でできた花びら": "Petal made of|gold can be|sold for money."
     },
     "18163": {
-        "コインＬｖ８０|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ８０|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 80 Mini Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "18164": {
         "clarity_nt_char_5718": "clarity_nt_char_5718"
     },
     "18165": {
-        "コインＬｖ７５|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ７５|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 75 Mini Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "18166": {
         "clarity_nt_char_5719": "clarity_nt_char_5719"
@@ -54612,19 +54612,19 @@
         "clarity_nt_char_5736": "clarity_nt_char_5736"
     },
     "18205": {
-        "コインＬｖ８５|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ８５|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 85 Mini Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "18206": {
         "clarity_nt_char_5737": "clarity_nt_char_5737"
     },
     "18207": {
-        "コインＬｖ８５|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ８５|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 85 S. Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "18208": {
-        "コインＬｖ８０|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ８０|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 80 S. Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "18209": {
-        "コインＬｖ７５|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ７５|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 75 S. Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "18210": {
         "コインＬｖ？？？|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
