@@ -288,16 +288,16 @@
         "clarity_nt_char_31": "clarity_nt_char_31"
     },
     "97": {
-        "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eからの手紙を受け取った！": ""
+        "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eからの手紙を受け取った！": "\\s<%sC_PC>\\m<%sC_ID>\\e received a letter from <%sL_shisetu>!"
     },
     "98": {
-        "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eからの <%sM_item><%sM_plusnum>を 受け取った！": ""
+        "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eからの <%sM_item><%sM_plusnum>を 受け取った！": "\\s<%sC_PC>\\m<%sC_ID>\\e received <%sM_item><%sM_plusnum> from <%sL_shisetu>!"
     },
     "99": {
         "clarity_nt_char_32": "clarity_nt_char_32"
     },
     "100": {
-        "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eからの <%dM_gold> Gを 受け取った！": ""
+        "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eからの <%dM_gold> Gを 受け取った！": "\\s<%sC_PC>\\m<%sC_ID>\\e received <%dM_gold> G from <%sL_shisetu>!"
     },
     "101": {
         "美容院で 髪の色を <%sM_color>に変えた！": ""
