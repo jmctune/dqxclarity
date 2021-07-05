@@ -2133,7 +2133,7 @@
         "clarity_nt_char_233": "clarity_nt_char_233"
     },
     "712": {
-        "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_KAUKAZU>個 <%dL_BUY_PRICE> フェルドで買った！": ""
+        "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_KAUKAZU>個 <%dL_BUY_PRICE> フェルドで買った！": "Bought <%dL_KAUKAZU> <%sL_KAITAI_ITEM><%sL_PLUSNUM> from the shop for <%dL_BUY_PRICE> Feld!"
     },
     "713": {
         "clarity_nt_char_234": "clarity_nt_char_234"
@@ -2574,7 +2574,7 @@
         "お祭りコイン <%dc_CoinEvNum>枚を カジノコイン <%dc_CoinSpNum>枚に 交換した！": ""
     },
     "859": {
-        "お祭りコイン <%dL_casinocoin>枚を <%dL_BUY_PRICE> Gで買った！": ""
+        "お祭りコイン <%dL_casinocoin>枚を <%dL_BUY_PRICE> Gで買った！": "Bought <%dL_casinocoin> Festive Coins for <%dL_BUY_PRICE> G!"
     },
     "860": {
         "clarity_nt_char_285": "clarity_nt_char_285"
@@ -3267,7 +3267,7 @@
         "clarity_nt_char_365": "clarity_nt_char_365"
     },
     "1090": {
-        "土地管理人から　マイタウンを　<%dL_HSGTOWN_PRICE> Gで買った！": ""
+        "土地管理人から　マイタウンを　<%dL_HSGTOWN_PRICE> Gで買った！": "Bought a My Town from the land manager for <%dL_HSGTOWN_PRICE> G!"
     },
     "1091": {
         "土地管理人から　マイタウンを　<%sM_item>　で手に入れた！": ""
