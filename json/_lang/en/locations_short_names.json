@@ -2760,7 +2760,7 @@
         "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>トゥーンタウン地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Toontown District"
     },
     "921": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>白亜の臨海都市地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Chalky Seaside City"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>白亜の臨海都市地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Chalky Waterfront"
     },
     "922": {
         "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>うるわしの浜辺地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Beautiful Beach"
@@ -2847,7 +2847,7 @@
         "トゥーンタウン地区": "Toontown District"
     },
     "950": {
-        "白亜の臨海都市地区": "Chalk Waterfront"
+        "白亜の臨海都市地区": "Chalky Waterfront"
     },
     "951": {
         "うるわしの浜辺地区": "Beautiful Beach"
@@ -3036,7 +3036,7 @@
         "clarity_nt_char_324": "clarity_nt_char_324"
     },
     "1013": {
-        "白亜の臨海都市地区への道": "Road to Chalk Waterfront"
+        "白亜の臨海都市地区への道": "Road to Chalky Waterfront"
     },
     "1014": {
         "clarity_nt_char_325": "clarity_nt_char_325"
