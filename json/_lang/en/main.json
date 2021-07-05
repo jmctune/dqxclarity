@@ -13827,7 +13827,7 @@
         "clarity_nt_char_1575": "clarity_nt_char_1575"
     },
     "4610": {
-        "<%nM_befYY>年<%2nM_befMM>月<%2nM_befDD>日 ～ <%nM_aftYY>年<%2nM_aftMM>月<%2nM_aftDD>日": ""
+        "<%nM_befYY>年<%2nM_befMM>月<%2nM_befDD>日 ～ <%nM_aftYY>年<%2nM_aftMM>月<%2nM_aftDD>日": "<%2nM_befMM>/<%2nM_befDD>/<%nM_befYY> - <%2nM_aftMM>/<%2nM_aftDD>/<%nM_aftYY>"
     },
     "4611": {
         "勝利回数": ""
@@ -19023,7 +19023,7 @@
         "clarity_nt_char_2161": "clarity_nt_char_2161"
     },
     "6342": {
-        "<%nM_YYYY1>年<%2nM_MM1>月<%2nM_DD1>日～<%nM_YYYY2>年<%2nM_MM2>月<%2nM_DD2>日": ""
+        "<%nM_YYYY1>年<%2nM_MM1>月<%2nM_DD1>日～<%nM_YYYY2>年<%2nM_MM2>月<%2nM_DD2>日": "<%2nM_MM1>/<%2nM_DD1>/<%nM_YYYY1> - <%2nM_MM2>/<%2nM_DD2>/<%nM_YYYY2>"
     },
     "6343": {
         "<%2nM_MM1>月<%2nM_DD1>日（<%sM_WW>）<%2nM_hh1>：<%02nM_mm1>～<%2nM_hh2>：<%02nM_mm2>": ""
