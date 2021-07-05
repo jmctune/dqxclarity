@@ -29856,7 +29856,7 @@
         "clarity_nt_char_3347": "clarity_nt_char_3347"
     },
     "9953": {
-        "～<%dM_cal_YYYY>年<%2dM_cal_MM>月<%2dM_cal_DD>日": ""
+        "～<%dM_cal_YYYY>年<%2dM_cal_MM>月<%2dM_cal_DD>日": " - <%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY>"
     },
     "9954": {
         "clarity_nt_char_3348": "clarity_nt_char_3348"
