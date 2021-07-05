@@ -885,7 +885,7 @@
         "郵便ポスト": ""
     },
     "296": {
-        "自宅の管理人から お招きのつばさを <%dL_GOLD> Gで買った！": ""
+        "自宅の管理人から お招きのつばさを <%dL_GOLD> Gで買った！": "Bought an Invitation Wing from the caretaker|for <%dL_GOLD> G!"
     },
     "297": {
         "<speed=0>本当に　<%sM_pc>を　チームから|はずして　よろしいですか？|<yesno 2><close>": ""
@@ -1005,7 +1005,7 @@
         "カジノコイン <%dL_casinocoin>枚と <%sM_item>を 交換した！": ""
     },
     "336": {
-        "カジノコイン <%dL_casinocoin>枚を <%dL_BUY_PRICE> Gで買った！": ""
+        "カジノコイン <%dL_casinocoin>枚を <%dL_BUY_PRICE> Gで買った！": "Bought <%dL_casinocoin> Casino Coins for <%dL_BUY_PRICE> G!"
     },
     "337": {
         "clarity_nt_char_107": "clarity_nt_char_107"
@@ -1041,7 +1041,7 @@
         "<%sM_item><%sM_plusnum>を 預けた。": "You deposited <%sM_item><%sM_plusnum>."
     },
     "348": {
-        "お招きのつばさを <%dL_GOLD> Gで買った！": ""
+        "お招きのつばさを <%dL_GOLD> Gで買った！": "Bought an Invitation Wing for <%dL_GOLD> G!"
     },
     "349": {
         "clarity_nt_char_110": "clarity_nt_char_110"
