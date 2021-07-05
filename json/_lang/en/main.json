@@ -12027,7 +12027,7 @@
         "clarity_nt_char_1368": "clarity_nt_char_1368"
     },
     "4010": {
-        "この釣りバトル中|あと<%dM_nn>回使える": ""
+        "この釣りバトル中|あと<%dM_nn>回使える": "Can be used <%dM_nn>|more times!"
     },
     "4011": {
         "セット装備": "Set Equip"
@@ -12741,7 +12741,7 @@
         "<%sM_Tairiku> スタンプカード": "<%sM_Tairiku> Stamp Card"
     },
     "4248": {
-        "釣りバトル": ""
+        "釣りバトル": "Fish Battle!"
     },
     "4249": {
         "きりかえ": ""
