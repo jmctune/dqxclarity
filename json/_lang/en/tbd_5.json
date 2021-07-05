@@ -375,7 +375,7 @@
         "clarity_nt_char_42": "clarity_nt_char_42"
     },
     "126": {
-        "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_KAUKAZU>個 <%dL_BUY_PRICE> Gで買った！": ""
+        "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_KAUKAZU>個 <%dL_BUY_PRICE> Gで買った！": "Bought <%dL_KAUKAZU> <%sL_KAITAI_ITEM><%sL_PLUSNUM> from the shop for <%dL_BUY_PRICE> G!"
     },
     "127": {
         "お店に <%sL_URITAI_ITEM><%sL_PLUSNUM>を <%dL_URUKAZU>個 <%dL_SELL_PRICE> Gで売った！": ""
@@ -627,10 +627,10 @@
         "clarity_nt_char_69": "clarity_nt_char_69"
     },
     "210": {
-        "<%sL_OWNER>のモーモンバザーで |<%sL_ITEM><%sL_PLUSNUM>を <%dM_item_num>個 <%dL_NEDAN> Gで買った！": ""
+        "<%sL_OWNER>のモーモンバザーで |<%sL_ITEM><%sL_PLUSNUM>を <%dM_item_num>個 <%dL_NEDAN> Gで買った！": "Bought <%dM_item_num> <%sL_ITEM><%sL_PLUSNUM> from <%sL_OWNER>'s|Sanguini Bazaar for <%dL_NEDAN> G!"
     },
     "211": {
-        "<%sL_OWNER>のモーモンバザーで|<%sL_ITEM><%sL_PLUSNUM>を <%dL_NEDAN> Gで買った！": ""
+        "<%sL_OWNER>のモーモンバザーで|<%sL_ITEM><%sL_PLUSNUM>を <%dL_NEDAN> Gで買った！": "Bought <%sL_ITEM><%sL_PLUSNUM> from <%sL_OWNER>'s|Sanguini Bazaar for <%dL_NEDAN> G!"
     },
     "212": {
         "clarity_nt_char_70": "clarity_nt_char_70"
