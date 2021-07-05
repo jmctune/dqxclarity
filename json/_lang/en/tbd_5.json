@@ -1887,7 +1887,7 @@
         "<%sL_OWNER>の畑の　作物をぬいて　やりなおした！": ""
     },
     "630": {
-        "<%sL_TOWN>のくじ屋で|くじを　1枚 <%dL_DEF_GOLD> Gで買った！": ""
+        "<%sL_TOWN>のくじ屋で|くじを　1枚 <%dL_DEF_GOLD> Gで買った！": "Bought one lottery at the <%sL_TOWN> Lottery|for <%dL_DEF_GOLD> G!"
     },
     "631": {
         "clarity_nt_char_205": "clarity_nt_char_205"
@@ -2115,7 +2115,7 @@
         "一部の売上金を 正常に受け取れませんでした": ""
     },
     "706": {
-        "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_BUY_PRICE> フェルドで買った！": ""
+        "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_BUY_PRICE> フェルドで買った！": "Bought a <%sL_KAITAI_ITEM><%sL_PLUSNUM> from the shop for <%dL_BUY_PRICE> Feld!"
     },
     "707": {
         "宝珠ポイントを <%dM_NUM> P つかって <%sM_ELEMENT>の飾り石を 手に入れた！": ""
