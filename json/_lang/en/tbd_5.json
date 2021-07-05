@@ -360,7 +360,7 @@
         "預かり所に <%sM_item><%sM_plusnum>を <%dM_item_num>個 預けた。": "You deposited <%dM_item_num> <%sM_item><%sM_plusnum> in storage."
     },
     "121": {
-        "旅人バザーで <%sM_item><%sM_plusnum>を <%dM_item_num>個 <%dM_gold> Gで買った！": ""
+        "旅人バザーで <%sM_item><%sM_plusnum>を <%dM_item_num>個 <%dM_gold> Gで買った！": "Bought <%dM_item_num> <%sM_item><%sM_plusnum> from the Bazaar for <%dM_gold> G!"
     },
     "122": {
         "旅人バザーに出品していた <%sM_item><%sM_plusnum> <%dM_item_num>個を 取りやめた。": "Cancelled putting up the <%dM_item_num> <%sM_item><%sM_plusnum> for sale."
