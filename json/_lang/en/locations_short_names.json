@@ -237,7 +237,7 @@
         "clarity_nt_char_20": "clarity_nt_char_20"
     },
     "80": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER><%sW_MAP_NAME>": "Block <%nW_INSTANCE_NO><%sW_DELIMITER><%sW_MAP_NAME>"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER><%sW_MAP_NAME>": "Block <%dW_INSTANCE_NO><%sW_DELIMITER><%sW_MAP_NAME>"
     },
     "81": {
         "clarity_nt_char_21": "clarity_nt_char_21"
@@ -2691,79 +2691,79 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>職人の家": ""
     },
     "898": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>未開のジャングル地区": "Block <%nW_INSTANCE_NO><%sW_DELIMITER>Tropical District"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>未開のジャングル地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Tropical District"
     },
     "899": {
         "clarity_nt_char_284": "clarity_nt_char_284"
     },
     "900": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>採掘現場地区": "Block <%nW_INSTANCE_NO><%sW_DELIMITER>Mining Site"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>採掘現場地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Mining Site"
     },
     "901": {
         "clarity_nt_char_285": "clarity_nt_char_285"
     },
     "902": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>古代都市地区": "Block <%nW_INSTANCE_NO><%sW_DELIMITER>Ancient City"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>古代都市地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Ancient City"
     },
     "903": {
         "clarity_nt_char_286": "clarity_nt_char_286"
     },
     "904": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>水没遺跡地区": "Block <%nW_INSTANCE_NO><%sW_DELIMITER>Submerged Ruins"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>水没遺跡地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Submerged Ruins"
     },
     "905": {
         "clarity_nt_char_287": "clarity_nt_char_287"
     },
     "906": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>おごそかな林道地区": "Block <%nW_INSTANCE_NO><%sW_DELIMITER>Solemn Forest Road"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>おごそかな林道地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Solemn Forest Road"
     },
     "907": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>のどかな農村地区": "Block <%nW_INSTANCE_NO><%sW_DELIMITER>Idyllic Village"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>のどかな農村地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Idyllic Village"
     },
     "908": {
         "clarity_nt_char_288": "clarity_nt_char_288"
     },
     "909": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>静かなる湿原地区": "Block <%nW_INSTANCE_NO><%sW_DELIMITER>Quiet Marshlands"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>静かなる湿原地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Quiet Marshlands"
     },
     "910": {
         "clarity_nt_char_289": "clarity_nt_char_289"
     },
     "911": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>雲上地区": "Block <%nW_INSTANCE_NO><%sW_DELIMITER>Above Clouds"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>雲上地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Above Clouds"
     },
     "912": {
         "clarity_nt_char_290": "clarity_nt_char_290"
     },
     "913": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>草原地区": "Block <%nW_INSTANCE_NO><%sW_DELIMITER>Meadow"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>草原地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Meadow"
     },
     "914": {
         "clarity_nt_char_291": "clarity_nt_char_291"
     },
     "915": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>雪原地区": "Block <%nW_INSTANCE_NO><%sW_DELIMITER>Snowfield"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>雪原地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Snowfield"
     },
     "916": {
         "clarity_nt_char_292": "clarity_nt_char_292"
     },
     "917": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>フラワーガーデン地区": "Block <%nW_INSTANCE_NO><%sW_DELIMITER>Flower Garden District"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>フラワーガーデン地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Flower Garden District"
     },
     "918": {
         "clarity_nt_char_293": "clarity_nt_char_293"
     },
     "919": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>マッシュルーム地区": "Block <%nW_INSTANCE_NO><%sW_DELIMITER>Mushroom District"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>マッシュルーム地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Mushroom District"
     },
     "920": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>トゥーンタウン地区": "Block <%nW_INSTANCE_NO><%sW_DELIMITER>Toontown District"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>トゥーンタウン地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Toontown District"
     },
     "921": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>白亜の臨海都市地区": "Block <%nW_INSTANCE_NO><%sW_DELIMITER>Chalky Seaside City"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>白亜の臨海都市地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Chalky Seaside City"
     },
     "922": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>うるわしの浜辺地区": "Block <%nW_INSTANCE_NO><%sW_DELIMITER>Beautiful Beach"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>うるわしの浜辺地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Beautiful Beach"
     },
     "923": {
         "<%sW_MAP_NAME><%sW_DELIMITER>二の島 上層": "<%sW_MAP_NAME><%sW_DELIMITER>Two Isle Upper"
@@ -3525,7 +3525,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>店内": ""
     },
     "1176": {
-        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>迷宮の主の間への道<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>Maze Lord Way<%sW_AUTODUNG_CF>"
+        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>迷宮の主の間への道<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%dW_AUTODUNG_LV><%sW_DELIMITER>Maze Lord Way<%sW_AUTODUNG_CF>"
     },
     "1177": {
         "clarity_nt_char_373": "clarity_nt_char_373"
@@ -3798,31 +3798,31 @@
         "clarity_nt_char_402": "clarity_nt_char_402"
     },
     "1267": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ＶＩＰルーム 出口": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>VIP Room Exit"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ＶＩＰルーム 出口": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>VIP Room Exit"
     },
     "1268": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ＶＩＰルーム": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>VIP Room"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ＶＩＰルーム": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>VIP Room"
     },
     "1269": {
         "clarity_nt_char_403": "clarity_nt_char_403"
     },
     "1270": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ＶＩＰルーム 入口": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>VIP Room Entrance"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ＶＩＰルーム 入口": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>VIP Room Entrance"
     },
     "1271": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>センターホール 出口": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Center Hall Exit"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>センターホール 出口": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Center Hall Exit"
     },
     "1272": {
         "clarity_nt_char_404": "clarity_nt_char_404"
     },
     "1273": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>センターホール 入口": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Center Hall Entrance"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>センターホール 入口": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Center Hall Entrance"
     },
     "1274": {
         "clarity_nt_char_405": "clarity_nt_char_405"
     },
     "1275": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>センターホール": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Center Hall"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>センターホール": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Center Hall"
     },
     "1276": {
         "カジノ 出口": ""
@@ -4134,52 +4134,52 @@
         "グランゼドーラ城 出口": "Gran Zedora Castle Exit"
     },
     "1379": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>シーサイドルーム": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Seaside Room"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>シーサイドルーム": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Seaside Room"
     },
     "1380": {
         "clarity_nt_char_424": "clarity_nt_char_424"
     },
     "1381": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ノースルーム": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>North Room"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ノースルーム": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>North Room"
     },
     "1382": {
         "clarity_nt_char_425": "clarity_nt_char_425"
     },
     "1383": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>サウスルーム": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>South Room"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>サウスルーム": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>South Room"
     },
     "1384": {
         "clarity_nt_char_426": "clarity_nt_char_426"
     },
     "1385": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-シーサイドルーム": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Seaside Room 2F"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-シーサイドルーム": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Seaside Room 2F"
     },
     "1386": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-ノースルーム": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>North Room 2F"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-ノースルーム": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>North Room 2F"
     },
     "1387": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-ノースルーム": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>North Room 1F"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-ノースルーム": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>North Room 1F"
     },
     "1388": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-サウスルーム": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>South Room 2F"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-サウスルーム": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>South Room 2F"
     },
     "1389": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-サウスルーム": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>South Room 1F"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-サウスルーム": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>South Room 1F"
     },
     "1390": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>３階-センターホール": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Center Hall 3F"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>３階-センターホール": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Center Hall 3F"
     },
     "1391": {
         "clarity_nt_char_427": "clarity_nt_char_427"
     },
     "1392": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-センターホール": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Center Hall 2F"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-センターホール": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Center Hall 2F"
     },
     "1393": {
         "clarity_nt_char_428": "clarity_nt_char_428"
     },
     "1394": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-センターホール": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Center Hall 1F"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-センターホール": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Center Hall 1F"
     },
     "1395": {
         "clarity_nt_char_429": "clarity_nt_char_429"
@@ -4332,16 +4332,16 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>城側 港内部": ""
     },
     "1445": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>３階-ＶＩＰルーム": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>VIP Room 3F"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>３階-ＶＩＰルーム": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>VIP Room 3F"
     },
     "1446": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-カジノテラス": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Casino Terrace 2F"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-カジノテラス": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Casino Terrace 2F"
     },
     "1447": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-カジノテラス": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Casino Terrace 1F"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-カジノテラス": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Casino Terrace 1F"
     },
     "1448": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>カジノテラス": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Casino Terrace"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>カジノテラス": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Casino Terrace"
     },
     "1449": {
         "clarity_nt_char_447": "clarity_nt_char_447"
@@ -4935,10 +4935,10 @@
         "隠し扉": ""
     },
     "1646": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>景品交換所": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Prize Exchange"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>景品交換所": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Prize Exchange"
     },
     "1647": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>コイン販売所": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Coin Counter"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>コイン販売所": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Coin Counter"
     },
     "1648": {
         "clarity_nt_char_517": "clarity_nt_char_517"
@@ -5004,19 +5004,19 @@
         "clarity_nt_char_526": "clarity_nt_char_526"
     },
     "1669": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>預かり所": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Depository"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>預かり所": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Depository"
     },
     "1670": {
         "clarity_nt_char_527": "clarity_nt_char_527"
     },
     "1671": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>エントランス": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Entrance"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>エントランス": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Entrance"
     },
     "1672": {
         "clarity_nt_char_528": "clarity_nt_char_528"
     },
     "1673": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-シーサイドルーム": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Seaside Room 1F"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-シーサイドルーム": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Seaside Room 1F"
     },
     "1674": {
         "アラハギーロ王国への出口": "Exit to Kingdom of Arahagiro"
@@ -5061,7 +5061,7 @@
         "clarity_nt_char_535": "clarity_nt_char_535"
     },
     "1688": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>３階-カジノテラス": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Casino Terrace 3F"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>３階-カジノテラス": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Casino Terrace 3F"
     },
     "1689": {
         "王家の宝物庫 入口": ""
@@ -5766,7 +5766,7 @@
         "風穴の研究室 入口": ""
     },
     "1923": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ビンゴすごろくホール": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Bingo/Sugoroku Hall"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ビンゴすごろくホール": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Bingo/Sugoroku Hall"
     },
     "1924": {
         "clarity_nt_char_605": "clarity_nt_char_605"
@@ -5853,13 +5853,13 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>中辛の間": "<%sW_MAP_NAME><%sW_DELIMITER>Med. Spicy"
     },
     "1952": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ビンゴすごろくホール 出口": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Bingo/Sugoroku Hall Exit"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ビンゴすごろくホール 出口": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Bingo/Sugoroku Hall Exit"
     },
     "1953": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ビンゴすごろくホール 入口": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Bingo/Sugoroku Hall Entrance"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ビンゴすごろくホール 入口": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Bingo/Sugoroku Hall Entrance"
     },
     "1954": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO>": "<%sW_MAP_NAME><%nW_INSTANCE_NO>"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO>": "<%sW_MAP_NAME><%dW_INSTANCE_NO>"
     },
     "1955": {
         "魔獣の寝床 入口": ""
@@ -6282,7 +6282,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>族長の家": ""
     },
     "2095": {
-        "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>F<%sW_AUTODUNG_CF>"
+        "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_DELIMITER><%dW_AUTODUNG_FLOOR>F<%sW_AUTODUNG_CF>"
     },
     "2096": {
         "<%sW_MAP_NAME><%sW_DELIMITER>預かり所・よろず屋": "Depository - Item S."
@@ -6297,16 +6297,16 @@
         "clarity_nt_char_658": "clarity_nt_char_658"
     },
     "2100": {
-        "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>F"
+        "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階": "<%sW_MAP_NAME><%sW_DELIMITER><%dW_AUTODUNG_FLOOR>F"
     },
     "2101": {
         "clarity_nt_char_659": "clarity_nt_char_659"
     },
     "2102": {
-        "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階・争覇の間": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>F Battle Hall"
+        "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階・争覇の間": "<%sW_MAP_NAME><%sW_DELIMITER><%dW_AUTODUNG_FLOOR>F Battle Hall"
     },
     "2103": {
-        "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階・休息の間": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>F Rest Hall"
+        "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階・休息の間": "<%sW_MAP_NAME><%sW_DELIMITER><%dW_AUTODUNG_FLOOR>F Rest Hall"
     },
     "2104": {
         "デフェル荒野への出口": "Exit to Defel Wilderness"
@@ -6333,13 +6333,13 @@
         "clarity_nt_char_663": "clarity_nt_char_663"
     },
     "2112": {
-        "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階・よろず屋": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>F Item Shop"
+        "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階・よろず屋": "<%sW_MAP_NAME><%sW_DELIMITER><%dW_AUTODUNG_FLOOR>F Item Shop"
     },
     "2113": {
-        "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階・宿屋": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>F Inn"
+        "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階・宿屋": "<%sW_MAP_NAME><%sW_DELIMITER><%dW_AUTODUNG_FLOOR>F Inn"
     },
     "2114": {
-        "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階・酒場": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>F Tavern"
+        "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階・酒場": "<%sW_MAP_NAME><%sW_DELIMITER><%dW_AUTODUNG_FLOOR>F Tavern"
     },
     "2115": {
         "<%sW_MAP_NAME><%sW_DELIMITER>エステラの部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Estella's Room"
@@ -6408,10 +6408,10 @@
         "clarity_nt_char_672": "clarity_nt_char_672"
     },
     "2137": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>すごろくルーム": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Sugoroku Room"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>すごろくルーム": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Sugoroku Room"
     },
     "2138": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>すごろくルーム 出口": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Sugoroku Room Exit"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>すごろくルーム 出口": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Sugoroku Room Exit"
     },
     "2139": {
         "clarity_nt_char_673": "clarity_nt_char_673"
@@ -6558,7 +6558,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>第２層・上層": ""
     },
     "2187": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>レンダーヒルズ地区": "Block <%nW_INSTANCE_NO><%sW_DELIMITER>Lender Hills District"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>レンダーヒルズ地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Lender Hills District"
     },
     "2188": {
         "レンダーヒルズ地区": ""
@@ -7017,7 +7017,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER><%sW_AD_LOCA><%sW_DELIMITER>心願の間": "<%sW_MAP_NAME><%sW_DELIMITER><%sW_AD_LOCA><%sW_DELIMITER>Wish Hall"
     },
     "2340": {
-        "<%sW_MAP_NAME><%sW_DELIMITER><%sW_AD_LOCA><%sW_DELIMITER>第<%nW_AUTODUNG_FLOOR>の教室": "<%sW_MAP_NAME><%sW_DELIMITER><%sW_AD_LOCA><%sW_DELIMITER>No.<%nW_AUTODUNG_FLOOR> Class"
+        "<%sW_MAP_NAME><%sW_DELIMITER><%sW_AD_LOCA><%sW_DELIMITER>第<%nW_AUTODUNG_FLOOR>の教室": "<%sW_MAP_NAME><%sW_DELIMITER><%sW_AD_LOCA><%sW_DELIMITER>No.<%dW_AUTODUNG_FLOOR> Class"
     },
     "2341": {
         "このマップは モンスターから逃げられません。": ""
@@ -7461,10 +7461,10 @@
         "clarity_nt_char_781": "clarity_nt_char_781"
     },
     "2488": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>スライムレースホール 出口": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Slime Race Hall Exit"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>スライムレースホール 出口": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Slime Race Hall Exit"
     },
     "2489": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>スライムレースホール": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Slime Race Hall"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>スライムレースホール": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Slime Race Hall"
     },
     "2490": {
         "clarity_nt_char_782": "clarity_nt_char_782"
@@ -7503,7 +7503,7 @@
         "clarity_nt_char_786": "clarity_nt_char_786"
     },
     "2502": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>スライムレースホール 入口": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Slime Race Hall Entrance"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>スライムレースホール 入口": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Slime Race Hall Entrance"
     },
     "2503": {
         "天水の聖塔 出口": ""
@@ -7605,7 +7605,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>奇跡の間": ""
     },
     "2536": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>受付": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Desk"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>受付": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Desk"
     },
     "2537": {
         "clarity_nt_char_795": "clarity_nt_char_795"
