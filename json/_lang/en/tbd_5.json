@@ -264,7 +264,7 @@
         "clarity_nt_char_28": "clarity_nt_char_28"
     },
     "89": {
-        "ちいさなメダル <%dL_medal>枚と <%sM_item>を 交換した！": "You traded <%dL_medal> small medals for <%sM_item>!"
+        "ちいさなメダル <%dL_medal>枚と <%sM_item>を 交換した！": "You traded <%dL_medal> Mini Medals for <%sM_item>!"
     },
     "90": {
         "<%sL_shisetu>で <%sC_PC>たちに 手紙を送った。": ""
@@ -1329,7 +1329,7 @@
         "clarity_nt_char_141": "clarity_nt_char_141"
     },
     "444": {
-        "ちいさなメダル <%dL_medal>枚と <%sM_item> <%dL_NUM>個を 交換した！": "You traded <%dL_medal> small medals for <%dL_NUM> <%sM_item>!"
+        "ちいさなメダル <%dL_medal>枚と <%sM_item> <%dL_NUM>個を 交換した！": "You traded <%dL_medal> Mini Medals for <%dL_NUM> <%sM_item>!"
     },
     "445": {
         "clarity_nt_char_142": "clarity_nt_char_142"
@@ -1773,7 +1773,7 @@
         "clarity_nt_char_191": "clarity_nt_char_191"
     },
     "592": {
-        "ちいさなメダル <%dL_medal>枚と|<%sM_item>（だいじなもの）を 交換した！": "You traded <%dL_medal> small medals for|<%sM_item> (Key Item)!"
+        "ちいさなメダル <%dL_medal>枚と|<%sM_item>（だいじなもの）を 交換した！": "You traded <%dL_medal> Mini Medals for|<%sM_item> (Key Item)!"
     },
     "593": {
         "カジノコイン <%dL_casinocoin>枚と|<%sM_item>（だいじなもの）を 交換した！": ""
