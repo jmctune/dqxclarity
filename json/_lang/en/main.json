@@ -19026,7 +19026,7 @@
         "<%nM_YYYY1>年<%2nM_MM1>月<%2nM_DD1>日～<%nM_YYYY2>年<%2nM_MM2>月<%2nM_DD2>日": "<%2nM_MM1>/<%2nM_DD1>/<%nM_YYYY1> - <%2nM_MM2>/<%2nM_DD2>/<%nM_YYYY2>"
     },
     "6343": {
-        "<%2nM_MM1>月<%2nM_DD1>日（<%sM_WW>）<%2nM_hh1>：<%02nM_mm1>～<%2nM_hh2>：<%02nM_mm2>": "<%2nM_MM1>/<%2nM_DD1> (<%sM_WW>) <%2nM_hh1>:<%02nM_mm1> - <%2nM_hh2>: <%02nM_mm2>"
+        "<%2nM_MM1>月<%2nM_DD1>日（<%sM_WW>）<%2nM_hh1>：<%02nM_mm1>～<%2nM_hh2>：<%02nM_mm2>": "<%2nM_MM1>/<%2nM_DD1> (<%sM_WW>) <%2nM_hh1>:<%02nM_mm1> - <%2nM_hh2>:<%02nM_mm2>"
     },
     "6344": {
         "釣り上げたビッグサイズの種類": ""
@@ -20928,7 +20928,7 @@
         "<%4dM_Num>/<%4dM_Max>": ""
     },
     "6977": {
-        "<%2nM_MM1>月<%2nM_DD1>日 <%2nM_hh1>：<%02nM_mm1>～<%2nM_MM2>月<%2nM_DD2>日 <%2nM_hh2>：<%02nM_mm2>": ""
+        "<%2nM_MM1>月<%2nM_DD1>日 <%2nM_hh1>：<%02nM_mm1>～<%2nM_MM2>月<%2nM_DD2>日 <%2nM_hh2>：<%02nM_mm2>": "<%2nM_MM1>/<%2nM_DD1> <%2nM_hh1>:<%02nM_mm1> - <%2nM_MM2>/<%2nM_DD2> <%2nM_hh2>:<%02nM_mm2>"
     },
     "6978": {
         "部活チケット": ""
@@ -21576,7 +21576,7 @@
         "clarity_nt_char_2440": "clarity_nt_char_2440"
     },
     "7193": {
-        "<%2dM_cal_MM>月<%2dM_cal_DD>日　<%2dM_hh>：<%02dM_mm>まで": ""
+        "<%2dM_cal_MM>月<%2dM_cal_DD>日　<%2dM_hh>：<%02dM_mm>まで": "Until <%2dM_cal_MM>/<%2dM_cal_DD> at <%2dM_hh>:<%02dM_mm>"
     },
     "7194": {
         "<%sM_pc>へ": ""
