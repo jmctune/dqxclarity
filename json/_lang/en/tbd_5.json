@@ -1773,7 +1773,7 @@
         "clarity_nt_char_191": "clarity_nt_char_191"
     },
     "592": {
-        "ちいさなメダル <%dL_medal>枚と|<%sM_item>（だいじなもの）を 交換した！": ""
+        "ちいさなメダル <%dL_medal>枚と|<%sM_item>（だいじなもの）を 交換した！": "You traded <%dL_medal> small medals for|<%sM_item> (Key Item)!"
     },
     "593": {
         "カジノコイン <%dL_casinocoin>枚と|<%sM_item>（だいじなもの）を 交換した！": ""
