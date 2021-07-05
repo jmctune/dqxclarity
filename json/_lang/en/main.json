@@ -3837,7 +3837,7 @@
         "受注前": ""
     },
     "1280": {
-        "受注": "Taken"
+        "受注": "Active"
     },
     "1281": {
         "clarity_nt_char_435": "clarity_nt_char_435"
@@ -12351,7 +12351,7 @@
         "clarity_nt_char_1409": "clarity_nt_char_1409"
     },
     "4118": {
-        "紹介中": "Found"
+        "紹介中": "Available"
     },
     "4119": {
         "<%sM_MonsterName>をなでなでした！": "He patted <%sM_MonsterName>!"
