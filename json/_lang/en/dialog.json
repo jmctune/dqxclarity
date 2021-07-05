@@ -3768,7 +3768,7 @@
         "<speed=0><%sM_item>を　逃がしますか？<yesno2><close>": ""
     },
     "1257": {
-        "<speed=0><%sM_item>を　逃がした！": ""
+        "<speed=0><%sM_item>を　逃がした！": "<speed=0><%sM_item> was let go!"
     },
     "1258": {
         "clarity_nt_char_418": "clarity_nt_char_418"
