@@ -1206,7 +1206,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eは 釣りレベルが <%dL_LEVEL>にアップ！": ""
     },
     "403": {
-        "<%.1fM_CM>ｃｍの <%sM_item>を 釣り上げた！": ""
+        "<%.1fM_CM>ｃｍの <%sM_item>を 釣り上げた！": "Caught a <%.1fM_CM>cm <%sM_item>!"
     },
     "404": {
         "clarity_nt_char_126": "clarity_nt_char_126"
@@ -1218,7 +1218,7 @@
         "clarity_nt_char_127": "clarity_nt_char_127"
     },
     "407": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの釣り経験値を かくとく！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの釣り経験値を かくとく！": "\\s<%sC_PC>\\m<%sC_ID>\\e received <%dL_EXP> Fishing EXP!"
     },
     "408": {
         "clarity_nt_char_128": "clarity_nt_char_128"
@@ -1278,7 +1278,7 @@
         "clarity_nt_char_135": "clarity_nt_char_135"
     },
     "427": {
-        "<%.1fM_CM>ｃｍの <%sM_item>を 釣り上げた！ <%sM_SIZE>！": ""
+        "<%.1fM_CM>ｃｍの <%sM_item>を 釣り上げた！ <%sM_SIZE>！": "Caught a <%.1fM_CM>cm <%sM_item>! It's a <%sM_SIZE>!"
     },
     "428": {
         "clarity_nt_char_136": "clarity_nt_char_136"
