@@ -309,7 +309,7 @@
         "クエスト報酬で <%sM_item><%sM_plusnum>を 手に入れた！": "You received <%sM_item> <%sM_plusnum> as a quest reward!"
     },
     "104": {
-        "旅のコンシェルジュで サポートゴールド <%dM_gold> Gを 受け取った！": ""
+        "旅のコンシェルジュで サポートゴールド <%dM_gold> Gを 受け取った！": "Received <%dM_gold> Support Gold from the concierge!"
     },
     "105": {
         "clarity_nt_char_34": "clarity_nt_char_34"
@@ -321,7 +321,7 @@
         "clarity_nt_char_35": "clarity_nt_char_35"
     },
     "108": {
-        "旅のコンシェルジュで <%sM_item><%sM_plusnum>を 受け取った！": ""
+        "旅のコンシェルジュで <%sM_item><%sM_plusnum>を 受け取った！": "Received <%sM_item><%sM_plusnum> from the concierge!"
     },
     "109": {
         "clarity_nt_char_36": "clarity_nt_char_36"
@@ -393,10 +393,10 @@
         "clarity_nt_char_44": "clarity_nt_char_44"
     },
     "132": {
-        "<%sL_shisetu>で <%sC_system>からの手紙を受け取った！": ""
+        "<%sL_shisetu>で <%sC_system>からの手紙を受け取った！": "<%sC_system> received a letter from <%sL_shisetu>!"
     },
     "133": {
-        "<%sL_shisetu>で <%sC_system>からの <%sM_item><%sM_plusnum>を <%dM_item_num>個 受け取った！": ""
+        "<%sL_shisetu>で <%sC_system>からの <%sM_item><%sM_plusnum>を <%dM_item_num>個 受け取った！": "<%sC_system> received <%dM_item_num> <%sM_item><%sM_plusnum> from <%sL_shisetu>!"
     },
     "134": {
         "clarity_nt_char_45": "clarity_nt_char_45"
