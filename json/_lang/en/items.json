@@ -52971,19 +52971,19 @@
         "clarity_nt_char_5540": "clarity_nt_char_5540"
     },
     "17658": {
-        "コインＬｖ６０|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight|a Lv 60 Boss.|Expires: <%sM_time><%sM_time_unit>"
+        "コインＬｖ６０|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight|a Lv 60 Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "17659": {
         "clarity_nt_char_5541": "clarity_nt_char_5541"
     },
     "17660": {
-        "コインＬｖ６５|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight|a Lv 65 Boss.|Expires: <%sM_time><%sM_time_unit>"
+        "コインＬｖ６５|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight|a Lv 65 Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "17661": {
         "clarity_nt_char_5542": "clarity_nt_char_5542"
     },
     "17662": {
-        "コインＬｖ７０|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight|a Lv 70 Boss.|Expires: <%sM_time><%sM_time_unit>"
+        "コインＬｖ７０|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight|a Lv 70 Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "17663": {
         "clarity_nt_char_5543": "clarity_nt_char_5543"
@@ -53079,7 +53079,7 @@
         "アンルシアに|渡すことができる|すてきなギフト": "A nice gift|you can give|to Anlucia."
     },
     "17694": {
-        "コインＬｖ８０|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight|a Lv 80 Boss.|Expires: <%sM_time><%sM_time_unit>"
+        "コインＬｖ８０|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight|a Lv 80 Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "17695": {
         "clarity_nt_char_5553": "clarity_nt_char_5553"
@@ -53187,22 +53187,22 @@
         "clarity_nt_char_5564": "clarity_nt_char_5564"
     },
     "17730": {
-        "コインＬｖ６０|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 60 Mini Boss.|Expires: <%sM_time><%sM_time_unit>"
+        "コインＬｖ６０|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 60 Mini Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "17731": {
         "clarity_nt_char_5565": "clarity_nt_char_5565"
     },
     "17732": {
-        "コインＬｖ６５|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 60 Mini Boss.|Expires: <%sM_time><%sM_time_unit>"
+        "コインＬｖ６５|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 60 Mini Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "17733": {
         "clarity_nt_char_5566": "clarity_nt_char_5566"
     },
     "17734": {
-        "コインＬｖ６０|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 60 S. Boss.|Expires: <%sM_time><%sM_time_unit>"
+        "コインＬｖ６０|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 60 S. Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "17735": {
-        "コインＬｖ６５|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 60 S. Boss.|Expires: <%sM_time><%sM_time_unit>"
+        "コインＬｖ６５|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 60 S. Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "17736": {
         "まちかど掲示板の|お知らせ広場で|使える優待券": ""
@@ -53610,7 +53610,7 @@
         "使うと１００枚|ちいさなメダルが|手に入るチケット": "Use to get|100 Mini|Medals."
     },
     "17871": {
-        "コインＬｖ７０|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 65 Mini Boss.|Expires: <%sM_time><%sM_time_unit>"
+        "コインＬｖ７０|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 65 Mini Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "17872": {
         "clarity_nt_char_5612": "clarity_nt_char_5612"
