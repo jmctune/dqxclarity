@@ -53187,7 +53187,7 @@
         "clarity_nt_char_5564": "clarity_nt_char_5564"
     },
     "17730": {
-        "コインＬｖ６０|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ６０|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 60 Mini Boss.|Expires: <%sM_time><%sM_time_unit>"
     },
     "17731": {
         "clarity_nt_char_5565": "clarity_nt_char_5565"
@@ -53610,13 +53610,13 @@
         "使うと１００枚|ちいさなメダルが|手に入るチケット": "Use to get|100 mini|medals."
     },
     "17871": {
-        "コインＬｖ７０|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ７０|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 65 Mini Boss.|Expires: <%sM_time><%sM_time_unit>"
     },
     "17872": {
         "clarity_nt_char_5612": "clarity_nt_char_5612"
     },
     "17873": {
-        "コインＬｖ７０|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ７０|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 70 S. Boss.|Expires: <%sM_time><%sM_time_unit>"
     },
     "17874": {
         "討伐隊の緊急依頼|受けたらなくなる|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
