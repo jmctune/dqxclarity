@@ -3846,13 +3846,13 @@
         "<%sL_rank>から <%sL_card>を受け取った": "Received <%sL_card> from <%sL_rank>."
     },
     "1283": {
-        "<%sL_rank>から <%sL_card>と <%sL_card2>を受け取った": ""
+        "<%sL_rank>から <%sL_card>と <%sL_card2>を受け取った": "Received <%sL_card> and <%sL_card2> from <%sL_rank>."
     },
     "1284": {
         "clarity_nt_char_426": "clarity_nt_char_426"
     },
     "1285": {
-        "　→<%sL_name>から <%sL_card>を受け取った": ""
+        "　→<%sL_name>から <%sL_card>を受け取った": "　→Received <%sL_card> from <%sL_name>."
     },
     "1286": {
         "クラブ": "Club"
