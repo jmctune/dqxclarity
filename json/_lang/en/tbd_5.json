@@ -258,7 +258,7 @@
         "チーム大使で <%sM_item><%sM_plusnum>に 盾カバーを取り付けた！": ""
     },
     "87": {
-        "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_BUY_PRICE> Gで買った！": ""
+        "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_BUY_PRICE> Gで買った！": "Bought <%sL_KAITAI_ITEM><%sL_PLUSNUM> from the shop for <%dL_BUY_PRICE> G!"
     },
     "88": {
         "clarity_nt_char_28": "clarity_nt_char_28"
