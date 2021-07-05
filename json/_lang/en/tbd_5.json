@@ -2220,10 +2220,10 @@
         "<%sM_slime_name>は スライムレース勝利ポイントを <%sM_points>P かくとく！|<%dM_points2>Pから <%dM_points3>Pになった。": ""
     },
     "741": {
-        "スライムレースの賞金 <%dM_gold> Gを 受け取った！": ""
+        "スライムレースの賞金 <%dM_gold> Gを 受け取った！": "Received <%dM_gold> G from the Slime Race prize!"
     },
     "742": {
-        "<%sM_slime_name>は <%nM_tickets>回分のレース参加権を 受け取った！": ""
+        "<%sM_slime_name>は <%nM_tickets>回分のレース参加権を 受け取った！": "<%sM_slime_name> received <%nM_tickets> race participation tickets!"
     },
     "743": {
         "clarity_nt_char_242": "clarity_nt_char_242"
@@ -2565,7 +2565,7 @@
         "clarity_nt_char_284": "clarity_nt_char_284"
     },
     "856": {
-        "スライムレースの報酬 <%sM_item> を <%nM_num>個 受け取った！": ""
+        "スライムレースの報酬 <%sM_item> を <%nM_num>個 受け取った！": "Received <%nM_num> <%sM_item> as a Slime Race reward!"
     },
     "857": {
         "余ったカジノコイン <%dc_LeaveCoin>枚を ゴルスラ会長が 回収した。": ""
@@ -2913,7 +2913,7 @@
         "お月見だんご <%dM_POINT> 個と <%sM_item>を 交換した！": ""
     },
     "972": {
-        "<pc>は <%sL_CLASS>ランクの報酬を受け取った！": ""
+        "<pc>は <%sL_CLASS>ランクの報酬を受け取った！": "<pc> received a Rank <%sL_CLASS> reward!"
     },
     "973": {
         "clarity_nt_char_324": "clarity_nt_char_324"
