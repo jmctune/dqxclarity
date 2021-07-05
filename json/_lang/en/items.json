@@ -53199,10 +53199,10 @@
         "clarity_nt_char_5566": "clarity_nt_char_5566"
     },
     "17734": {
-        "コインＬｖ６０|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ６０|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 60 S. Boss.|Expires: <%sM_time><%sM_time_unit>"
     },
     "17735": {
-        "コインＬｖ６５|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ６５|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 60 S. Boss.|Expires: <%sM_time><%sM_time_unit>"
     },
     "17736": {
         "まちかど掲示板の|お知らせ広場で|使える優待券": ""
@@ -53688,7 +53688,7 @@
         "clarity_nt_char_5622": "clarity_nt_char_5622"
     },
     "17897": {
-        "コインＬｖ１０８|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ１０８|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 108 Boss.|Expires: <%sM_time><%sM_time_unit>"
     },
     "17898": {
         "コインＬｖ９３|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
