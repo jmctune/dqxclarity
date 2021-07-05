@@ -3465,7 +3465,7 @@
         "クラブ順位<br>|<%sL_CLUB_1> <%dM_CLUB_RANKNG_1>位<br>|<%sL_CLUB_2> <%dM_CLUB_RANKNG_2>位<br>|<%sL_CLUB_3> <%dM_CLUB_RANKNG_3>位<br>|<%dM_YEAR>年<%dM_MONTH>月<%dM_DAY>日<%dM_TIME>時<%dM_MIN>分 現在": ""
     },
     "1156": {
-        "<%sM_item><%sM_plusnum>の 冥海の光玉を 冒険者ジグロウから受け取った！": ""
+        "<%sM_item><%sM_plusnum>の 冥海の光玉を 冒険者ジグロウから受け取った！": "Received a <%sM_item><%sM_plusnum> Dark Sea Orb from Adventurer Jigrow!"
     },
     "1157": {
         "<%sM_item><%sM_plusnum>の 冥海の光玉を 冒険者ジグロウに渡した！": ""
