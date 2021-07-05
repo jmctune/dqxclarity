@@ -1137,13 +1137,13 @@
         "<%sL_ACCE_KKR_ITEM> <%dL_ACCE_KKR_NUM>個で <%sL_ACCE_RST_ITEM>を 復元した！": ""
     },
     "380": {
-        "<%sL_MONSTERNAME> からのおくりもの|<%sL_ITEM>を <%dL_NUM>個 受け取った！": ""
+        "<%sL_MONSTERNAME> からのおくりもの|<%sL_ITEM>を <%dL_NUM>個 受け取った！": "Received <%dL_NUM> <%sL_ITEM> as a gift from|<%sL_MONSTERNAME>!"
     },
     "381": {
         "clarity_nt_char_120": "clarity_nt_char_120"
     },
     "382": {
-        "<%sL_MONSTERNAME> からのおくりもの|<%sL_ITEM>を 受け取った！": ""
+        "<%sL_MONSTERNAME> からのおくりもの|<%sL_ITEM>を 受け取った！": "Received <%sL_ITEM> as a gift from|<%sL_MONSTERNAME>!"
     },
     "383": {
         "旅のコンシェルジュで <%sL_ITEM>を <%dL_ITEMNUM>枚 手に入れた！": ""
