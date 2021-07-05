@@ -1257,13 +1257,13 @@
         "clarity_nt_char_132": "clarity_nt_char_132"
     },
     "420": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから <%sM_ITEM>を <%dM_NUM>個 受け取った！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから <%sM_ITEM>を <%dM_NUM>個 受け取った！": "Received <%dM_NUM> \\s<%sC_PC>\\m<%sC_ID>\\e from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "421": {
         "clarity_nt_char_133": "clarity_nt_char_133"
     },
     "422": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから <%sM_ITEM>を 受け取った！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから <%sM_ITEM>を 受け取った！": "Received <%sM_ITEM> from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "423": {
         "<%.1fM_CM>ｃｍの <%sM_item>を 逃した。": ""
@@ -1449,7 +1449,7 @@
         "clarity_nt_char_155": "clarity_nt_char_155"
     },
     "484": {
-        "プライベートコンシェルジュで サポートゴールド <%dM_gold> Gを 受け取った！": ""
+        "プライベートコンシェルジュで サポートゴールド <%dM_gold> Gを 受け取った！": "Received <%dM_gold> Support Gold from the Private Concierge!"
     },
     "485": {
         "clarity_nt_char_156": "clarity_nt_char_156"
