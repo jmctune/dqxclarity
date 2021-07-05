@@ -13719,7 +13719,7 @@
         "clarity_nt_char_1561": "clarity_nt_char_1561"
     },
     "4574": {
-        "<%dM_cal_YYYY>年<%2dM_cal_MM>月<%2dM_cal_DD>日": ""
+        "<%dM_cal_YYYY>年<%2dM_cal_MM>月<%2dM_cal_DD>日": "<%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY>"
     },
     "4575": {
         "<%dM_Num10>": ""
@@ -13812,7 +13812,7 @@
         "期間：": ""
     },
     "4605": {
-        "<%2dM_cal_MM>月<%2dM_cal_DD>日 ～ <%2dM_cal_MM2>月<%2dM_cal_DD2>日": ""
+        "<%2dM_cal_MM>月<%2dM_cal_DD>日 ～ <%2dM_cal_MM2>月<%2dM_cal_DD2>日": "<%2dM_cal_MM>/<%2dM_cal_DD> - <%2dM_cal_MM2>/<%2dM_cal_DD2>"
     },
     "4606": {
         "ランクアップ報酬": ""
@@ -16620,7 +16620,7 @@
         "<%sM_title>": ""
     },
     "5541": {
-        "販売終了日<%dM_cal_YYYY>年<%2dM_cal_MM>月<%2dM_cal_DD>日": ""
+        "販売終了日<%dM_cal_YYYY>年<%2dM_cal_MM>月<%2dM_cal_DD>日": "End of Sale <%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY>"
     },
     "5542": {
         "clarity_nt_char_1890": "clarity_nt_char_1890"
