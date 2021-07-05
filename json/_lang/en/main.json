@@ -12342,10 +12342,10 @@
         "clarity_nt_char_1408": "clarity_nt_char_1408"
     },
     "4115": {
-        "[状態順]": "[By Status]"
+        "[状態順]": "[Status]"
     },
     "4116": {
-        "状態順に": ""
+        "状態順に": "By Status"
     },
     "4117": {
         "clarity_nt_char_1409": "clarity_nt_char_1409"
@@ -17316,7 +17316,7 @@
         "clarity_nt_char_1970": "clarity_nt_char_1970"
     },
     "5773": {
-        "状態順": ""
+        "状態順": "Status"
     },
     "5774": {
         "地域別": "Region"
