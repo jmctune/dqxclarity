@@ -234,7 +234,7 @@
         "clarity_nt_char_26": "clarity_nt_char_26"
     },
     "79": {
-        "旅人バザーで <%sM_item><%sM_plusnum>を <%dM_gold> Gで買った！": ""
+        "旅人バザーで <%sM_item><%sM_plusnum>を <%dM_gold> Gで買った！": "Bought <%sM_plusnum> <%sM_item> from the Bazaar for <%dM_gold> G!"
     },
     "80": {
         "<%sM_recipe>のレシピを おぼえた！": "<%sM_recipe> recipe was memorized!"
