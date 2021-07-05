@@ -1251,7 +1251,7 @@
         "clarity_nt_char_131": "clarity_nt_char_131"
     },
     "418": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから <%dM_GOLD> G 受け取った！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから <%dM_GOLD> G 受け取った！": "Received <%dM_GOLD> G from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "419": {
         "clarity_nt_char_132": "clarity_nt_char_132"
