@@ -16626,7 +16626,7 @@
         "clarity_nt_char_1890": "clarity_nt_char_1890"
     },
     "5543": {
-        "抽選日<%dM_cal_YYYY>年<%2dM_cal_MM>月<%2dM_cal_DD>日": ""
+        "抽選日<%dM_cal_YYYY>年<%2dM_cal_MM>月<%2dM_cal_DD>日": "Draw Date <%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY>"
     },
     "5544": {
         "clarity_nt_char_1891": "clarity_nt_char_1891"
@@ -17214,7 +17214,7 @@
         "clarity_nt_char_1959": "clarity_nt_char_1959"
     },
     "5739": {
-        "<%dM_cal_YYYY2>年<%2dM_cal_MM2>月<%2dM_cal_DD2>日 <%2dM_hh2>：<%02dM_mm2>": ""
+        "<%dM_cal_YYYY2>年<%2dM_cal_MM2>月<%2dM_cal_DD2>日 <%2dM_hh2>：<%02dM_mm2>": "<%2dM_cal_MM2>/<%2dM_cal_DD2>/<%dM_cal_YYYY2> at <%2dM_hh2>:<%02dM_mm2>"
     },
     "5740": {
         "<%dM_cal_YYYY>年<%2dM_cal_MM>月<%2dM_cal_DD>日 <%2dM_hh>：<%02dM_mm>": ""
