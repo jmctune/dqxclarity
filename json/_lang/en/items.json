@@ -54627,7 +54627,7 @@
         "コインＬｖ７５|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 75 S. Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "18210": {
-        "コインＬｖ？？？|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ？？？|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv ??? Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "18211": {
         "使うと|輝石のベルトが|手に入る箱": "Use to get a|Bright Stone|Belt."
@@ -54987,19 +54987,19 @@
         "７０～１００枚の|ちいさなメダルが|手に入る花": ""
     },
     "18330": {
-        "コインＬｖ９０|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ９０|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 90 Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "18331": {
         "clarity_nt_char_5773": "clarity_nt_char_5773"
     },
     "18332": {
-        "コインＬｖ９０|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ９０|のプチボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 90 Mini Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "18333": {
         "clarity_nt_char_5774": "clarity_nt_char_5774"
     },
     "18334": {
-        "コインＬｖ９０|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ９０|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 90 S. Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "18335": {
         "ふくのかみ達が|出現するカード|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
@@ -55326,13 +55326,13 @@
         "消費することで|再度ラリーに|参加できる券": ""
     },
     "18443": {
-        "コインＬｖ９６|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ９６|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 96 Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "18444": {
         "clarity_nt_char_5813": "clarity_nt_char_5813"
     },
     "18445": {
-        "コインＬｖ９６|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ９６|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 96 S. Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "18446": {
         "Ｓジェネラル|練習用のお札|魔法の迷宮で使用": "Use to train on|S Slime General|in Magic Maze."
@@ -56094,7 +56094,7 @@
         "clarity_nt_char_5903": "clarity_nt_char_5903"
     },
     "18699": {
-        "コインＬｖ１００|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ１００|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 100 Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "18700": {
         "ギュメイ将軍|練習用のお札|魔法の迷宮で使用": "Use to train on|General Gumei|in Magic Maze."
@@ -74019,7 +74019,7 @@
         "clarity_nt_char_7894": "clarity_nt_char_7894"
     },
     "24674": {
-        "コインＬｖ１１０|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ１１０|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 110 Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "24675": {
         "帝国三将軍|練習用のお札|魔法の迷宮で使用": "Use to train on|3 Imp. Generals|in Magic Maze."
@@ -77274,7 +77274,7 @@
         "clarity_nt_char_8256": "clarity_nt_char_8256"
     },
     "25759": {
-        "コインＬｖ１１４|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "コインＬｖ１１４|のボスが登場する|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 114 Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "25760": {
         "魔犬レオパルド|練習用のお札|魔法の迷宮で使用": ""
@@ -80235,7 +80235,7 @@
         "clarity_nt_char_8578": "clarity_nt_char_8578"
     },
     "26746": {
-        "ムドーコイン": "Mudo Coin"
+        "ムドーコイン": "Murdaw Coin"
     },
     "26747": {
         "clarity_nt_char_8579": "clarity_nt_char_8579"
