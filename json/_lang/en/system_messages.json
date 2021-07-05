@@ -1761,7 +1761,7 @@
         "<%d_YYYY>年<%d_MM>月<%d_DD>日 まで有効": "Valid until <%d_MM>/<%d_DD>/<%d_YYYY>"
     },
     "588": {
-        "<%d_YYYY>年<%2d_MM>月<%2d_DD>日 まで有効": ""
+        "<%d_YYYY>年<%2d_MM>月<%2d_DD>日 まで有効": "Valid until <%2d_MM>/<%2d_DD>/<%d_YYYY>"
     },
     "589": {
         "利用しない": ""
