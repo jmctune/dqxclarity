@@ -1125,7 +1125,7 @@
         "レジストレーションコード入力": ""
     },
     "376": {
-        "名前を変更しなければ|ゲームを再開できません。|キャンセルしても　よろしいですか？<yesno><break>": ""
+        "名前を変更しなければ|ゲームを再開できません。|キャンセルしても　よろしいですか？<yesno><break>": "You can't start the game without renaming first.|Are you sure you want to cancel?<yesno><break>"
     },
     "377": {
         "名前を変更しました。<end>": ""
