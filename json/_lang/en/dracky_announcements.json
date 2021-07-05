@@ -1233,7 +1233,7 @@
         "clarity_nt_char_135": "clarity_nt_char_135"
     },
     "412": {
-        "<%sC_STR1>御一行様 <%sC_STR2>獲得で～す！": ""
+        "<%sC_STR1>御一行様 <%sC_STR2>獲得で～す！": "<%sC_STR1>'s party got a <%sC_STR2>! Wow!"
     },
     "413": {
         "おめでとうございます！": "Congratulations!"
