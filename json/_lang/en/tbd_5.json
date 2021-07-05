@@ -1992,7 +1992,7 @@
         "<pc>はエステラに <%sL_ITEM>を プレゼントした！": ""
     },
     "665": {
-        "<pc>はエステラに <%sL_ITEM>を プレゼントし|<%sL_RETURN_ITEM>を　受け取った。": ""
+        "<pc>はエステラに <%sL_ITEM>を プレゼントし|<%sL_RETURN_ITEM>を　受け取った。": "<pc> gave Estella <%sL_ITEM> as a present in|exhange for the <%sL_RETURN_ITEM>."
     },
     "666": {
         "手数料として <%dM_gold> Gを 支払った。": "Paid <%dM_gold> G as a fee."
