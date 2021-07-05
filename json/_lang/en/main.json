@@ -7824,10 +7824,10 @@
         "clarity_nt_char_902": "clarity_nt_char_902"
     },
     "2609": {
-        "店売り不可": "Can't sell"
+        "店売り不可": "Unsellable"
     },
     "2610": {
-        "売れない": "Can't Sell"
+        "売れない": "Unsellable"
     },
     "2611": {
         "clarity_nt_char_903": "clarity_nt_char_903"
@@ -22833,7 +22833,7 @@
         "clarity_nt_char_2579": "clarity_nt_char_2579"
     },
     "7612": {
-        "使い込み・店売り不可": "Can't sell to stores"
+        "使い込み・店売り不可": "Can't Sell to Stores"
     },
     "7613": {
         "clarity_nt_char_2580": "clarity_nt_char_2580"
