@@ -2154,7 +2154,7 @@
         "<%3dM_hhh>時間<%02dM_mm>分": "<%3dM_hhh>h. <%02dM_mm>m."
     },
     "719": {
-        "<%dM_ninzuu>人": ""
+        "<%dM_ninzuu>人": "<%dM_ninzuu>"
     },
     "720": {
         "<%dM_hhh>時間<%sM_mm>分<%sM_ss>秒": "<%dM_hhh>h. <%sM_mm>m. <%sM_ss>s."
@@ -3081,7 +3081,7 @@
         "<%sM_soubi_syubetu>": ""
     },
     "1028": {
-        "<%sM_kougeki_syubi>力": ""
+        "<%sM_kougeki_syubi>力": "<%sM_kougeki_syubi>"
     },
     "1029": {
         "clarity_nt_char_344": "clarity_nt_char_344"
@@ -3165,7 +3165,7 @@
         "利用券の購入履歴を見る": ""
     },
     "1056": {
-        "<%sM_Syougou><%sM_Hankaku><%sM_pc> の 戦いのきろく": "<%sM_Syougou><%sM_Hankaku><%sM_pc>'s battle record"
+        "<%sM_Syougou><%sM_Hankaku><%sM_pc> の 戦いのきろく": "<%sM_Syougou><%sM_Hankaku><%sM_pc>'s Battle Record"
     },
     "1057": {
         "<%dM_hhhhh>時間<%02dM_mm>分": "<%dM_hhhhh> hr. <%02dM_mm> m."
