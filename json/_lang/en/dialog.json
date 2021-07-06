@@ -555,7 +555,7 @@
         "<speed=0>このクエストは　まだ受注していません。|リストから削除しますか？<yesno><close>": "<speed=0>You have not received this quest yet.|Do you want to remove it from the list?<yesno><close>"
     },
     "186": {
-        "<speed=0>このクエストは　リプレイの途中です。|キャンセルすると　クリア済に戻りますが|よろしいですか？<yesno><close>": ""
+        "<speed=0>このクエストは　リプレイの途中です。|キャンセルすると　クリア済に戻りますが|よろしいですか？<yesno><close>": "<speed=0>Quest replay is in progress. If you cancel now,|your progress will reset. Is this okay?<yesno><close>"
     },
     "187": {
         "clarity_nt_char_63": "clarity_nt_char_63"
