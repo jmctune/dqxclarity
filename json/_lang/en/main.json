@@ -11961,7 +11961,7 @@
         "釣り上げた<%sM_world>のさかなの種類": "Types of Fish Caught At <%sM_world>"
     },
     "3988": {
-        "釣り上げた<%sM_type>の種類": ""
+        "釣り上げた<%sM_type>の種類": "Type of <%sM_type> Caught"
     },
     "3989": {
         "clarity_nt_char_1362": "clarity_nt_char_1362"
@@ -24036,7 +24036,7 @@
         "<%sM_area>でつかまえたネコの種類": "Types of cats caught in <%sM_area>"
     },
     "8013": {
-        "つかまえた<%sM_cat_type>の種類": "Type of <%sM_cat_type> grabbed"
+        "つかまえた<%sM_cat_type>の種類": "Type of <%sM_cat_type> Caught"
     },
     "8014": {
         "clarity_nt_char_2710": "clarity_nt_char_2710"
