@@ -18603,7 +18603,7 @@
         "<%sM_num>：<%sM_skill>": "<%sM_num>: <%sM_skill>"
     },
     "6202": {
-        "<%sM_npcname>の絆効果": "<%sM_npcname> bond effect"
+        "<%sM_npcname>の絆効果": "<%sM_npcname> Bond Effect"
     },
     "6203": {
         "<%nM_mon>月の記録": ""
@@ -26742,13 +26742,13 @@
         "clarity_nt_char_3014": "clarity_nt_char_3014"
     },
     "8915": {
-        "マイタウン・<%sL_HOUSNGTOWNNAME>": ""
+        "マイタウン・<%sL_HOUSNGTOWNNAME>": "My Town - <%sL_HOUSNGTOWNNAME>"
     },
     "8916": {
         "clarity_nt_char_3015": "clarity_nt_char_3015"
     },
     "8917": {
-        "マイタウン名：<%sM_Mytownname>": ""
+        "マイタウン名：<%sM_Mytownname>": "My Town Name: <%sM_Mytownname>"
     },
     "8918": {
         "マイタウンＩＤ：<%sM_FirstID>－<%sM_SecondID>": "My Town ID: <%sM_FirstID>-<%sM_SecondID>"
