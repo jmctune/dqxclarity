@@ -879,7 +879,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>食堂": ""
     },
     "294": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>図書室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>図書室": "<%sW_MAP_NAME><%sW_DELIMITER>Library"
     },
     "295": {
         "clarity_nt_char_94": "clarity_nt_char_94"
@@ -4275,13 +4275,13 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>従者部屋": ""
     },
     "1426": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>執務室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>執務室": "<%sW_MAP_NAME><%sW_DELIMITER>Office"
     },
     "1427": {
         "clarity_nt_char_441": "clarity_nt_char_441"
     },
     "1428": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>賢者の執務室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>賢者の執務室": "<%sW_MAP_NAME><%sW_DELIMITER>Sage's Office"
     },
     "1429": {
         "<%sW_MAP_NAME><%sW_DELIMITER>王族の私室": ""
@@ -11250,7 +11250,7 @@
         "clarity_nt_char_1200": "clarity_nt_char_1200"
     },
     "3751": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>医務室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>医務室": "<%sW_MAP_NAME><%sW_DELIMITER>Medical"
     },
     "3752": {
         "clarity_nt_char_1201": "clarity_nt_char_1201"
