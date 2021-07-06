@@ -8769,7 +8769,7 @@
         "【170P】呪文の威力と回復+10": "[170P] Spell Power/Recovery +10"
     },
     "2924": {
-        "【180P】呪文の威力と回復+20": ""
+        "【180P】呪文の威力と回復+20": "[180P] Spell Power/Recovery +20"
     },
     "2925": {
         "灼熱とうこん討ちⅠ": "Scorched Earth Ⅰ"
@@ -8799,13 +8799,13 @@
         "クロックチャージⅢ": "Clock Charge Ⅲ"
     },
     "2934": {
-        "ケルベロスロンドⅠ": ""
+        "ケルベロスロンドⅠ": "Cerberus Rondo I"
     },
     "2935": {
-        "ケルベロスロンドⅡ": ""
+        "ケルベロスロンドⅡ": "Cerberus Rondo II"
     },
     "2936": {
-        "ケルベロスロンドⅢ": ""
+        "ケルベロスロンドⅢ": "Cerberus Rondo Ⅲ"
     },
     "2937": {
         "きせきの雨Ⅰ": ""
@@ -11334,19 +11334,19 @@
         "clarity_nt_char_1273": "clarity_nt_char_1273"
     },
     "3779": {
-        "ケルベロスロンドⅠ（専）": ""
+        "ケルベロスロンドⅠ（専）": "Cerberus Rondo I (EX)"
     },
     "3780": {
         "clarity_nt_char_1274": "clarity_nt_char_1274"
     },
     "3781": {
-        "ケルベロスロンドⅡ（専）": ""
+        "ケルベロスロンドⅡ（専）": "Cerberus Rondo II (EX)"
     },
     "3782": {
         "clarity_nt_char_1275": "clarity_nt_char_1275"
     },
     "3783": {
-        "ケルベロスロンドⅢ（専）": ""
+        "ケルベロスロンドⅢ（専）": "Cerberus Rondo Ⅲ (EX)"
     },
     "3784": {
         "clarity_nt_char_1276": "clarity_nt_char_1276"
@@ -13878,13 +13878,13 @@
         "魔法戦士時　３％の確率で|テンションを　消費しなくなった！": ""
     },
     "4627": {
-        "ケルベロスロンドⅠ（専）の特技を　おぼえた！": ""
+        "ケルベロスロンドⅠ（専）の特技を　おぼえた！": "You learned Cerberus Rondo I!"
     },
     "4628": {
         "clarity_nt_char_1571": "clarity_nt_char_1571"
     },
     "4629": {
-        "ケルベロスロンドⅡ（専）の特技を　おぼえた！": ""
+        "ケルベロスロンドⅡ（専）の特技を　おぼえた！": "You learned Cerberus Rondo II!"
     },
     "4630": {
         "clarity_nt_char_1572": "clarity_nt_char_1572"
