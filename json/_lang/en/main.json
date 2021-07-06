@@ -5049,7 +5049,7 @@
         "<%sM_landaddress2>　<%nM_landaddress3>番地": "<%sM_landaddress2> <%nM_landaddress3>"
     },
     "1684": {
-        "<%nM_landaddress4>丁目": ""
+        "<%nM_landaddress4>丁目": "<%dM_landaddress4>"
     },
     "1685": {
         "clarity_nt_char_572": "clarity_nt_char_572"
@@ -5385,7 +5385,7 @@
         "clarity_nt_char_613": "clarity_nt_char_613"
     },
     "1796": {
-        "<speed=0><%sM_pc>を|フレンドリストから　はずしました。": ""
+        "<speed=0><%sM_pc>を|フレンドリストから　はずしました。": "<speed=0><%sM_pc> was removed from your friends list."
     },
     "1797": {
         "clarity_nt_char_614": "clarity_nt_char_614"
@@ -6336,13 +6336,13 @@
         "以上装備可": "Required"
     },
     "2113": {
-        "(<%sM_race>のみ)": ""
+        "(<%sM_race>のみ)": "(<%sM_race> Only)"
     },
     "2114": {
         "clarity_nt_char_727": "clarity_nt_char_727"
     },
     "2115": {
-        "(<%sM_race><%sM_sex>のみ)": ""
+        "(<%sM_race><%sM_sex>のみ)": "(<%sM_race> <%sM_sex> Only)"
     },
     "2116": {
         "パラメータ": "Stats"
