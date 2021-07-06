@@ -5040,7 +5040,7 @@
         "clarity_nt_char_570": "clarity_nt_char_570"
     },
     "1681": {
-        "<%nL_MONTH>月<%nL_DAY>日<%nL_H>時<%nL_M>分": ""
+        "<%nL_MONTH>月<%nL_DAY>日<%nL_H>時<%nL_M>分": "<%nL_MONTH>/<%nL_DAY> <%nL_H>:<%nL_M>"
     },
     "1682": {
         "clarity_nt_char_571": "clarity_nt_char_571"
