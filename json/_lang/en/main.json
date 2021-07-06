@@ -4614,10 +4614,10 @@
         "<speed=0>自分をフレンドリストに|登録することは　できません。": "<speed=0>You can't add yourself to your friends list."
     },
     "1539": {
-        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は|ブラックリストに登録されているので|フレンドには　さそえません。": ""
+        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は|ブラックリストに登録されているので|フレンドには　さそえません。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) is blacklisted, so you can't add|them as a friend."
     },
     "1540": {
-        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は|すでに　リクエストを送っているか|フレンド登録済みのようです。": ""
+        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は|すでに　リクエストを送っているか|フレンド登録済みのようです。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) already sent a request or is|already a friend."
     },
     "1541": {
         "clarity_nt_char_525": "clarity_nt_char_525"
