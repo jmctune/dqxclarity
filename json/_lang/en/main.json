@@ -18561,7 +18561,7 @@
         "系統：": ""
     },
     "6188": {
-        "<%sM_skill>": ""
+        "<%sM_skill>": "?"
     },
     "6189": {
         "<%sM_npcname06>": ""
@@ -18600,7 +18600,7 @@
         "clarity_nt_char_2106": "clarity_nt_char_2106"
     },
     "6201": {
-        "<%sM_num>：<%sM_skill>": ""
+        "<%sM_num>：<%sM_skill>": "<%sM_num>: <%sM_skill>"
     },
     "6202": {
         "<%sM_npcname>の絆効果": "<%sM_npcname> bond effect"
