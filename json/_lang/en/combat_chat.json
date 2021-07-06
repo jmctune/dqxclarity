@@ -7842,7 +7842,7 @@
         "clarity_nt_char_894": "clarity_nt_char_894"
     },
     "2615": {
-        "明鏡止水": "Calm Mind"
+        "明鏡止水": "Clarion Mind"
     },
     "2616": {
         "clarity_nt_char_895": "clarity_nt_char_895"
@@ -27294,7 +27294,7 @@
         "clarity_nt_char_3029": "clarity_nt_char_3029"
     },
     "9099": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 明鏡止水のＨＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 明鏡止水のＨＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Clarion Mind HP recovery ended!"
     },
     "9100": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ファイアフォースが とけた！": ""
@@ -31473,7 +31473,7 @@
         "clarity_nt_char_3490": "clarity_nt_char_3490"
     },
     "10492": {
-        "明鏡止水の|ＨＰ回復がおわった": ""
+        "明鏡止水の|ＨＰ回復がおわった": "Clarion Mind's HP|recovery ended."
     },
     "10493": {
         "ファイアフォースが|とけた": ""
