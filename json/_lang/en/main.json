@@ -4758,19 +4758,19 @@
         "clarity_nt_char_541": "clarity_nt_char_541"
     },
     "1587": {
-        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|ブラックリストから　はずしますか？<yesno><close>": ""
+        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|ブラックリストから　はずしますか？<yesno><close>": "speed=0>Remove <%sL_PC_NICK> (<%sUNIQUE_ID>) from the blacklist?"
     },
     "1588": {
         "clarity_nt_char_542": "clarity_nt_char_542"
     },
     "1589": {
-        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|ブラックリストから　はずしました。": ""
+        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|ブラックリストから　はずしました。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) was removed from the blacklist."
     },
     "1590": {
         "clarity_nt_char_543": "clarity_nt_char_543"
     },
     "1591": {
-        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|ブラックリストに　加えますか？<yesno><close>": ""
+        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|ブラックリストに　加えますか？<yesno><close>": "<speed=0>Add <%sL_PC_NICK> (<%sUNIQUE_ID>) to the blacklist?"
     },
     "1592": {
         "clarity_nt_char_544": "clarity_nt_char_544"
@@ -4779,7 +4779,7 @@
         "<speed=0>自分を　ブラックリストに|加えることは　できません！": "<speed=0>You can't add yourself to the blacklist!"
     },
     "1594": {
-        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は|すでに　ブラックリストに登録されています。": ""
+        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は|すでに　ブラックリストに登録されています。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) is already on the blacklist."
     },
     "1595": {
         "clarity_nt_char_545": "clarity_nt_char_545"
