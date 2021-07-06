@@ -24900,7 +24900,7 @@
         "clarity_nt_char_2808": "clarity_nt_char_2808"
     },
     "8301": {
-        "<%2dM_cal_MM>月<%2dM_cal_DD>日　<%2dM_hh>時": ""
+        "<%2dM_cal_MM>月<%2dM_cal_DD>日　<%2dM_hh>時": "Time <%2dM_cal_MM>/<%2dM_cal_DD> <%2dM_hh>:00"
     },
     "8302": {
         "大会ランク": ""
