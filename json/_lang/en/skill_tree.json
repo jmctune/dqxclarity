@@ -276,7 +276,7 @@
         "スリープダガー": "Sleeper Hit"
     },
     "93": {
-        "攻撃時たまにＭＰ回復": "Recover MP When Attacking"
+        "攻撃時たまにＭＰ回復": "Recover MP On Attack"
     },
     "94": {
         "clarity_nt_char_22": "clarity_nt_char_22"
@@ -1008,7 +1008,7 @@
         "フォースブレイク（専）": "Fource Break (EX)"
     },
     "337": {
-        "攻撃時たまにＭＰ回復（専）": "Recover MP When Attacking"
+        "攻撃時たまにＭＰ回復（専）": "Recover MP On Attack (EX)"
     },
     "338": {
         "マダンテ（専）": "Magic Burst (EX)"
