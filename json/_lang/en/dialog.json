@@ -3285,7 +3285,7 @@
         "clarity_nt_char_366": "clarity_nt_char_366"
     },
     "1096": {
-        "コロシアムに　行けないメンバーがいるため|エントリーが　キャンセルされました。": ""
+        "コロシアムに　行けないメンバーがいるため|エントリーが　キャンセルされました。": "Entry was cancelled due to some members|not being able to enter the Colosseum."
     },
     "1097": {
         "コロシアムバトルの準備に　失敗しました。|お手数ですが　しばらく時間をあけてから|もう一度　やり直してください。": ""
@@ -3810,7 +3810,7 @@
         "clarity_nt_char_422": "clarity_nt_char_422"
     },
     "1271": {
-        "<speed=0>このクエストは　ここでは|キャンセルすることは　できません。": ""
+        "<speed=0>このクエストは　ここでは|キャンセルすることは　できません。": "<speed=0>This quest cannot be cancelled here."
     },
     "1272": {
         "<speed=0>つけるルアーを　選んでください。": "<speed=0>Select a lure to attach."
@@ -4749,7 +4749,7 @@
         "フレンド全員を|非表示にします": "Hide all|friends."
     },
     "1584": {
-        "<speed=0>週替わりクエスト『<%sM_Quest1>』を|キャンセルしました。": ""
+        "<speed=0>週替わりクエスト『<%sM_Quest1>』を|キャンセルしました。": "<speed=0>Weekly quest \"<%sM_Quest1>\" was cancelled."
     },
     "1585": {
         "<speed=0><%sM_color>は|まだ作成していない！": ""
