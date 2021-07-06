@@ -8217,19 +8217,19 @@
         "【180P】マダンテ+3%": "[180P] Magic Burst +3%"
     },
     "2740": {
-        "【160P】活命の杖の効果時間+3秒": ""
+        "【160P】活命の杖の効果時間+3秒": "[160P] Life Staff Effect Time +3s"
     },
     "2741": {
         "clarity_nt_char_927": "clarity_nt_char_927"
     },
     "2742": {
-        "【170P】活命の杖の効果時間+6秒": ""
+        "【170P】活命の杖の効果時間+6秒": "[170P] Life Staff Effect Time +6s"
     },
     "2743": {
         "clarity_nt_char_928": "clarity_nt_char_928"
     },
     "2744": {
-        "【180P】活命の杖の効果時間+9秒": ""
+        "【180P】活命の杖の効果時間+9秒": "[180P] Life Staff Effect Time +9s"
     },
     "2745": {
         "clarity_nt_char_929": "clarity_nt_char_929"
@@ -8247,19 +8247,19 @@
         "clarity_nt_char_931": "clarity_nt_char_931"
     },
     "2750": {
-        "【160P】霊脈魔法陣の射程強化+1m": ""
+        "【160P】霊脈魔法陣の射程強化+1m": "[160P] Ring of Spirit Range +1m"
     },
     "2751": {
-        "【170P】霊脈魔法陣の射程強化+1m": ""
+        "【170P】霊脈魔法陣の射程強化+1m": "[170P] Ring of Spirit Range +1m"
     },
     "2752": {
-        "【180P】霊脈魔法陣の射程強化+1m": ""
+        "【180P】霊脈魔法陣の射程強化+1m": "[180P] Ring of Spirit Range +1m"
     },
     "2753": {
-        "【190P】霊脈魔法陣の射程強化+1m": ""
+        "【190P】霊脈魔法陣の射程強化+1m": "[190P] Ring of Spirit Range +1m"
     },
     "2754": {
-        "【200P】霊脈魔法陣の射程強化+2m": ""
+        "【200P】霊脈魔法陣の射程強化+2m": "[200P] Ring of Spirit Range +2m"
     },
     "2755": {
         "【190P】呪文ぼうそう率+1.5%": "【190P】Haywire Rate +1.5%"
@@ -8274,25 +8274,25 @@
         "clarity_nt_char_933": "clarity_nt_char_933"
     },
     "2759": {
-        "【190P】メラ系呪文+3%": ""
+        "【190P】メラ系呪文+3%": "[190P] Frizz-type Spells +3%"
     },
     "2760": {
         "clarity_nt_char_934": "clarity_nt_char_934"
     },
     "2761": {
-        "【200P】メラ系呪文+3%": ""
+        "【200P】メラ系呪文+3%": "[200P] Frizz-type Spells +3%"
     },
     "2762": {
         "clarity_nt_char_935": "clarity_nt_char_935"
     },
     "2763": {
-        "【190P】ヒャド系呪文+3%": ""
+        "【190P】ヒャド系呪文+3%": "[190P] Crack-type Spells +3%"
     },
     "2764": {
-        "【200P】ヒャド系呪文+3%": ""
+        "【200P】ヒャド系呪文+3%": "[200P] Crack-type Spells +3%"
     },
     "2765": {
-        "【190P】イオ系呪文+3%": ""
+        "【190P】イオ系呪文+3%": "[190P] Bang-type Spells +3%"
     },
     "2766": {
         "clarity_nt_char_936": "clarity_nt_char_936"
