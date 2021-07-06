@@ -1635,7 +1635,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>町長の家": "Mayor's Home"
     },
     "546": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>裏通り": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>裏通り": "<%sW_MAP_NAME><%sW_DELIMITER>Alleyway"
     },
     "547": {
         "clarity_nt_char_181": "clarity_nt_char_181"
