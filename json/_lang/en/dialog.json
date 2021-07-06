@@ -2466,7 +2466,7 @@
         "clarity_nt_char_278": "clarity_nt_char_278"
     },
     "823": {
-        "<speed=0>このクエストを　キャンセルすると|再開はできませんが　よろしいですか？<yesno 2><close>": ""
+        "<speed=0>このクエストを　キャンセルすると|再開はできませんが　よろしいですか？<yesno 2><close>": "<speed=0>If you cancel this quest, you will not be able|to reaccept it. Is this okay?<yesno 2><close>"
     },
     "824": {
         "clarity_nt_char_279": "clarity_nt_char_279"
@@ -3252,7 +3252,7 @@
         "<%sC_PC2>が　コロシアムの誘いを|キャンセルしました。": "<%sC_PC2>'s Coliseum invitation has|been cancelled."
     },
     "1085": {
-        "返事がない仲間がいたため|コロシアムのさそいが　キャンセルされました。": "The Coliseum invitation was cancelled due to a member not accepting."
+        "返事がない仲間がいたため|コロシアムのさそいが　キャンセルされました。": "The Coliseum invitation was cancelled due to|a member not accepting."
     },
     "1086": {
         "<%sC_PC2>から　対戦相手指定への|返事がありませんでした。": ""
@@ -3261,7 +3261,7 @@
         "<%sC_PC2>への　対戦相手指定が|断られました。": ""
     },
     "1088": {
-        "対戦相手指定を　キャンセルしますか？|<yesno2><close>": ""
+        "対戦相手指定を　キャンセルしますか？|<yesno2><close>": "Do you want to cancel matching?|<yesno2><close>"
     },
     "1089": {
         "clarity_nt_char_364": "clarity_nt_char_364"
