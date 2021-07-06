@@ -7995,13 +7995,13 @@
         "【180P】ホイミの回復量+10%": "[180P] Heal Recovery +10%"
     },
     "2666": {
-        "【160P】ベホイミの回復量+6%": ""
+        "【160P】ベホイミの回復量+6%": "[160P] Midheal Recovery +6%"
     },
     "2667": {
-        "【170P】ベホイミの回復量+8%": ""
+        "【170P】ベホイミの回復量+8%": "[170P] Midheal Recovery +8%"
     },
     "2668": {
-        "【180P】ベホイミの回復量+10%": ""
+        "【180P】ベホイミの回復量+10%": "[180P] Midheal Recovery +10%"
     },
     "2669": {
         "clarity_nt_char_901": "clarity_nt_char_901"
@@ -8013,13 +8013,13 @@
         "clarity_nt_char_902": "clarity_nt_char_902"
     },
     "2672": {
-        "【170P】ホップスティックの範囲+2m": ""
+        "【170P】ホップスティックの範囲+2m": "[170P] Hop Stick Range +2m"
     },
     "2673": {
         "clarity_nt_char_903": "clarity_nt_char_903"
     },
     "2674": {
-        "【180P】ホップスティックの範囲+3m": ""
+        "【180P】ホップスティックの範囲+3m": "[180P] Hop Stick Range +3m"
     },
     "2675": {
         "clarity_nt_char_904": "clarity_nt_char_904"
@@ -8037,49 +8037,49 @@
         "clarity_nt_char_905": "clarity_nt_char_905"
     },
     "2680": {
-        "【170P】スピリットゾーンの範囲+1m": ""
+        "【170P】スピリットゾーンの範囲+1m": "[170P] Spirit Zone Range +1m"
     },
     "2681": {
         "clarity_nt_char_906": "clarity_nt_char_906"
     },
     "2682": {
-        "【180P】スピリットゾーンの範囲+1m": ""
+        "【180P】スピリットゾーンの範囲+1m": "[180P] Spirit Zone Range +1m"
     },
     "2683": {
         "clarity_nt_char_907": "clarity_nt_char_907"
     },
     "2684": {
-        "【190P】スピリットゾーンの範囲+1m": ""
+        "【190P】スピリットゾーンの範囲+1m": "[190P] Spirit Zone Range +1m"
     },
     "2685": {
         "clarity_nt_char_908": "clarity_nt_char_908"
     },
     "2686": {
-        "【200P】スピリットゾーンの範囲+2m": ""
+        "【200P】スピリットゾーンの範囲+2m": "[200P] Spirit Zone Range +2m"
     },
     "2687": {
         "clarity_nt_char_909": "clarity_nt_char_909"
     },
     "2688": {
-        "【190P】こうげき魔力+40": ""
+        "【190P】こうげき魔力+40": "[190P] Mag. Might +40"
     },
     "2689": {
-        "【200P】こうげき魔力+40": ""
+        "【200P】こうげき魔力+40": "[200P] Mag. Might +40"
     },
     "2690": {
-        "【190P】かいふく魔力+40": ""
+        "【190P】かいふく魔力+40": "[190P] Mag. Mending +40"
     },
     "2691": {
-        "【200P】かいふく魔力+40": ""
+        "【200P】かいふく魔力+40": "[200P] Mag. Mending +40"
     },
     "2692": {
-        "【190P】メラ系とギラ系呪文+3%": ""
+        "【190P】メラ系とギラ系呪文+3%": "[190P] Frizz/Sizz-type Spells +3%"
     },
     "2693": {
         "clarity_nt_char_910": "clarity_nt_char_910"
     },
     "2694": {
-        "【200P】メラ系とギラ系呪文+3%": ""
+        "【200P】メラ系とギラ系呪文+3%": "[200P] Frizz/Sizz-type Spells +3%"
     },
     "2695": {
         "clarity_nt_char_911": "clarity_nt_char_911"
