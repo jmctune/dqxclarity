@@ -8601,22 +8601,22 @@
         "clarity_nt_char_969": "clarity_nt_char_969"
     },
     "2868": {
-        "【180P】被ダメージ10軽減": "[160P] Damage Taken -10"
+        "【180P】被ダメージ10軽減": "[180P] Damage Taken -10"
     },
     "2869": {
-        "【160P】身かわし率+0.5%": ""
+        "【160P】身かわし率+0.5%": "[160P] Dodge Rate +0.5%"
     },
     "2870": {
         "clarity_nt_char_970": "clarity_nt_char_970"
     },
     "2871": {
-        "【170P】身かわし率+0.8%": ""
+        "【170P】身かわし率+0.8%": "[170P] Dodge Rate +0.8%"
     },
     "2872": {
         "clarity_nt_char_971": "clarity_nt_char_971"
     },
     "2873": {
-        "【180P】身かわし率+1.2%": ""
+        "【180P】身かわし率+1.2%": "[180P] Dodge Rate +1.2%"
     },
     "2874": {
         "clarity_nt_char_972": "clarity_nt_char_972"
@@ -8628,13 +8628,13 @@
         "clarity_nt_char_973": "clarity_nt_char_973"
     },
     "2877": {
-        "【170P】1.5%でターンを消費しない": ""
+        "【170P】1.5%でターンを消費しない": "[170P] Don't Use Turn 1.5%"
     },
     "2878": {
         "clarity_nt_char_974": "clarity_nt_char_974"
     },
     "2879": {
-        "【180P】2.0%でターンを消費しない": ""
+        "【180P】2.0%でターンを消費しない": "[180P] Don't Use Turn 2%"
     },
     "2880": {
         "clarity_nt_char_975": "clarity_nt_char_975"
@@ -8643,25 +8643,25 @@
         "【160P】1%テンション維持": "[160P] 1% Preserve Tension"
     },
     "2882": {
-        "【170P】2%テンション維持": ""
+        "【170P】2%テンション維持": "[170P] Maintain Tension 2%"
     },
     "2883": {
-        "【180P】3%テンション維持": ""
+        "【180P】3%テンション維持": "[180P] Maintain Tension 3%"
     },
     "2884": {
-        "ベホマⅠ": ""
+        "ベホマⅠ": "Fullheal I"
     },
     "2885": {
         "clarity_nt_char_976": "clarity_nt_char_976"
     },
     "2886": {
-        "ベホマⅡ": ""
+        "ベホマⅡ": "Fullheal II"
     },
     "2887": {
         "clarity_nt_char_977": "clarity_nt_char_977"
     },
     "2888": {
-        "ベホマⅢ": ""
+        "ベホマⅢ": "Fullheal Ⅲ"
     },
     "2889": {
         "clarity_nt_char_978": "clarity_nt_char_978"
