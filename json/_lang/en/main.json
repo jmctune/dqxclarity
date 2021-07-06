@@ -24918,7 +24918,7 @@
         "clarity_nt_char_2810": "clarity_nt_char_2810"
     },
     "8307": {
-        "<%2dM_cal_MM>月<%2dM_cal_DD>日 <%2dM_hh2>：<%02dM_mm2>": ""
+        "<%2dM_cal_MM>月<%2dM_cal_DD>日 <%2dM_hh2>：<%02dM_mm2>": "<%2dM_cal_MM>/<%2dM_cal_DD> <%2dM_hh2>:<%02dM_mm2>"
     },
     "8308": {
         "所持している": ""
@@ -26718,7 +26718,7 @@
         "<%.2fM>": ""
     },
     "8907": {
-        "<tm%2dM_TIME>月<td%2dM_TIME>日　<th%2dM_TIME>：<ti%02dM_TIME>まで": ""
+        "<tm%2dM_TIME>月<td%2dM_TIME>日　<th%2dM_TIME>：<ti%02dM_TIME>まで": "Until <tm%2dM_TIME>/<td%2dM_TIME> at <th%2dM_TIME>:<ti%02dM_TIME>"
     },
     "8908": {
         "<tm%2dM_TIME>/<td%2dM_TIME> <th%2dM_TIME>：<ti%02dM_TIME>～": ""
