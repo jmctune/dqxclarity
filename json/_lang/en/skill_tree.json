@@ -8424,19 +8424,19 @@
         "【170P】会心ガードの効果時間+7秒": "[170P] Critical Guard Effect Time +7s"
     },
     "2809": {
-        "【180P】会心ガードの効果時間+10秒": ""
+        "【180P】会心ガードの効果時間+10秒": "[180P] Critical Guard Effect Time +10s"
     },
     "2810": {
         "clarity_nt_char_949": "clarity_nt_char_949"
     },
     "2811": {
-        "【160P】瀕死時2%で身かわし率+30%": ""
+        "【160P】瀕死時2%で身かわし率+30%": "[160P] Dodge Rate +30% On Death 2%"
     },
     "2812": {
-        "【170P】瀕死時4%で身かわし率+30%": ""
+        "【170P】瀕死時4%で身かわし率+30%": "[170P] Dodge Rate +30% On Death 4%"
     },
     "2813": {
-        "【180P】瀕死時6%で身かわし率+30%": ""
+        "【180P】瀕死時6%で身かわし率+30%": "[180P] Dodge Rate +30% On Death 6%"
     },
     "2814": {
         "ちからの盾Ⅰ": "Strength Shield I"
@@ -8457,25 +8457,25 @@
         "clarity_nt_char_952": "clarity_nt_char_952"
     },
     "2820": {
-        "【170P】ちからの盾の回復量+1%": ""
+        "【170P】ちからの盾の回復量+1%": "[170P] Strength Shield Recovery +1%"
     },
     "2821": {
         "clarity_nt_char_953": "clarity_nt_char_953"
     },
     "2822": {
-        "【180P】ちからの盾の回復量+1%": ""
+        "【180P】ちからの盾の回復量+1%": "[180P] Strength Shield Recovery +1%"
     },
     "2823": {
         "clarity_nt_char_954": "clarity_nt_char_954"
     },
     "2824": {
-        "【190P】ちからの盾の回復量+1%": ""
+        "【190P】ちからの盾の回復量+1%": "[190P] Strength Shield Recovery +1%"
     },
     "2825": {
         "clarity_nt_char_955": "clarity_nt_char_955"
     },
     "2826": {
-        "【200P】ちからの盾の回復量+3%": ""
+        "【200P】ちからの盾の回復量+3%": "[200P] Strength Shield Recovery +3%"
     },
     "2827": {
         "clarity_nt_char_956": "clarity_nt_char_956"
@@ -8487,19 +8487,19 @@
         "【200P】しゅび力+20": "[200P] Defense +20"
     },
     "2830": {
-        "【190P】会心完全ガード率+2%": ""
+        "【190P】会心完全ガード率+2%": "[190P] Critical Hit Guard +2%"
     },
     "2831": {
-        "【200P】会心完全ガード率+2%": ""
+        "【200P】会心完全ガード率+2%": "[200P] Critical Hit Guard +2%"
     },
     "2832": {
-        "【190P】ガード時ルカニ+5%": ""
+        "【190P】ガード時ルカニ+5%": "[190P] Sap On Guard +5%"
     },
     "2833": {
         "clarity_nt_char_957": "clarity_nt_char_957"
     },
     "2834": {
-        "【200P】ガード時ルカニ+5%": ""
+        "【200P】ガード時ルカニ+5%": "[200P] Sap On Guard +5%"
     },
     "2835": {
         "clarity_nt_char_958": "clarity_nt_char_958"
