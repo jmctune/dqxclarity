@@ -4677,7 +4677,7 @@
         "clarity_nt_char_527": "clarity_nt_char_527"
     },
     "1560": {
-        "<speed=0><%sM_name>でよろしいですか？<yesno><close>": ""
+        "<speed=0><%sM_name>でよろしいですか？<yesno><close>": "<speed=0>Is <%sM_name> okay?<yesno><close>"
     },
     "1561": {
         "clarity_nt_char_528": "clarity_nt_char_528"
