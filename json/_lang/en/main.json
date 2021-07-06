@@ -8523,10 +8523,10 @@
         "すれちがいポイント": ""
     },
     "2842": {
-        "<%sM_skill><se_nots System 7>": ""
+        "<%sM_skill><se_nots System 7>": "<%sM_skill>"
     },
     "2843": {
-        "<%sM_skill><se_nots System 7><bw_break>": ""
+        "<%sM_skill><se_nots System 7><bw_break>": "<%sM_skill>"
     },
     "2844": {
         "チーム機能切替": "Hide Team Chat"
@@ -18561,7 +18561,7 @@
         "系統：": ""
     },
     "6188": {
-        "<%sM_skill>": "?"
+        "<%sM_skill>": "<%sM_skill>"
     },
     "6189": {
         "<%sM_npcname06>": ""
