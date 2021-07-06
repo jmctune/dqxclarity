@@ -3048,7 +3048,7 @@
         "clarity_nt_char_339": "clarity_nt_char_339"
     },
     "1017": {
-        "<%dM_cal_YYYY>年<%dM_cal_MM>月<%dM_cal_DD>日<%dM_hh>：<%dM_mm>まで": ""
+        "<%dM_cal_YYYY>年<%dM_cal_MM>月<%dM_cal_DD>日<%dM_hh>：<%dM_mm>まで": "Until <%dM_cal_MM>/<%dM_cal_DD>/<%dM_cal_YYYY> at <%dM_hh>:<%dM_mm>"
     },
     "1018": {
         "clarity_nt_char_340": "clarity_nt_char_340"
@@ -30174,7 +30174,7 @@
         "clarity_nt_char_3385": "clarity_nt_char_3385"
     },
     "10059": {
-        "<tm%2dM_TIME>月<td%2dM_TIME>日 <th%2dM_TIME>：<ti%02dM_TIME>": ""
+        "<tm%2dM_TIME>月<td%2dM_TIME>日 <th%2dM_TIME>：<ti%02dM_TIME>": "<tm%2dM_TIME>/<td%2dM_TIME> <th%2dM_TIME>:<ti%02dM_TIME>"
     },
     "10060": {
         "カスタム衣装を表示": ""
