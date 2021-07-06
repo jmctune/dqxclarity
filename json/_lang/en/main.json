@@ -1629,10 +1629,10 @@
         "clarity_nt_char_182": "clarity_nt_char_182"
     },
     "544": {
-        "<%sM_colkaikyuu> 級 に エ ン ト リー 中": "Entering the <%sM_colkaikyuu> class"
+        "<%sM_colkaikyuu> 級 に エ ン ト リー 中": "Entering <%sM_colkaikyuu>"
     },
     "545": {
-        "<%sM_colkaikyuu> 級": "<%sM_colkaikyuu> cl"
+        "<%sM_colkaikyuu> 級": "<%sM_colkaikyuu>"
     },
     "546": {
         "clarity_nt_char_183": "clarity_nt_char_183"
@@ -1773,7 +1773,7 @@
         "clarity_nt_char_195": "clarity_nt_char_195"
     },
     "592": {
-        "<%sM_race>：<%sM_sex>": ""
+        "<%sM_race>：<%sM_sex>": "<%sM_race>: <%sM_sex>"
     },
     "593": {
         "clarity_nt_char_196": "clarity_nt_char_196"
@@ -1863,25 +1863,25 @@
         "clarity_nt_char_207": "clarity_nt_char_207"
     },
     "622": {
-        "<%dM_taositagoukei>回": ""
+        "<%dM_taositagoukei>回": "<%dM_taositagoukei>"
     },
     "623": {
         "clarity_nt_char_208": "clarity_nt_char_208"
     },
     "624": {
-        "<%dM_taosita>回": ""
+        "<%dM_taosita>回": "<%dM_taosita>"
     },
     "625": {
         "clarity_nt_char_209": "clarity_nt_char_209"
     },
     "626": {
-        "<%dM_taosaretagoukei>回": ""
+        "<%dM_taosaretagoukei>回": "<%dM_taosaretagoukei>"
     },
     "627": {
         "clarity_nt_char_210": "clarity_nt_char_210"
     },
     "628": {
-        "<%dM_taosareta>回": ""
+        "<%dM_taosareta>回": "<%dM_taosareta>"
     },
     "629": {
         "clarity_nt_char_211": "clarity_nt_char_211"
@@ -1968,7 +1968,7 @@
         "clarity_nt_char_218": "clarity_nt_char_218"
     },
     "657": {
-        "<%dM_lvsita> ～ <%dM_lvue>": ""
+        "<%dM_lvsita> ～ <%dM_lvue>": "<%dM_lvsita> - <%dM_lvue>"
     },
     "658": {
         "<%sM_item>": "<%sM_item>"
