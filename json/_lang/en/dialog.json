@@ -588,7 +588,7 @@
         "clarity_nt_char_66": "clarity_nt_char_66"
     },
     "197": {
-        "<speed=0>キャンセルすると　最初から|やりなおしになりますが　よろしいですか？<yesno 2><close>": ""
+        "<speed=0>キャンセルすると　最初から|やりなおしになりますが　よろしいですか？<yesno 2><close>": "<speed=0>If you cancel now, you'll have to start over|from the beginning. Is this okay?<yesno 2><close>"
     },
     "198": {
         "<speed=0>『<%sM_Quest2>』をクリア済みにして|クエスト『<%sM_Quest1>』が|リプレイできるように　なりました！": ""
@@ -597,10 +597,10 @@
         "clarity_nt_char_67": "clarity_nt_char_67"
     },
     "200": {
-        "<speed=0>『<%sM_Quest2>』をキャンセルして|クエスト『<%sM_Quest1>』が|リプレイできるように　なりました！": ""
+        "<speed=0>『<%sM_Quest2>』をキャンセルして|クエスト『<%sM_Quest1>』が|リプレイできるように　なりました！": "<speed=0>You can now cancel the quest \"<%sM_Quest2>\"|and replay the quest \"<%sM_Quest1>\"!"
     },
     "201": {
-        "<speed=0>クエスト『<%sM_Quest1>』を|キャンセルしました。": ""
+        "<speed=0>クエスト『<%sM_Quest1>』を|キャンセルしました。": "<speed=0>The quest \"<%sM_Quest1>\" was cancelled."
     },
     "202": {
         "<speed=0>クエスト『<%sM_Quest1>』の|リプレイを　取りやめました。": ""
@@ -1347,7 +1347,7 @@
         "<speed=0>仲間のＭＰが　足りない！": ""
     },
     "450": {
-        "<speed=0>このクエストは　キャンセルすることが|できません。": ""
+        "<speed=0>このクエストは　キャンセルすることが|できません。": "<speed=0>This quest cannot be cancelled."
     },
     "451": {
         "clarity_nt_char_155": "clarity_nt_char_155"
