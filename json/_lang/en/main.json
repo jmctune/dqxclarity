@@ -3456,7 +3456,7 @@
         "clarity_nt_char_390": "clarity_nt_char_390"
     },
     "1153": {
-        "次のレベルまで：": "To Next Level:"
+        "次のレベルまで：": "Next Level:"
     },
     "1154": {
         "clarity_nt_char_391": "clarity_nt_char_391"
@@ -9138,7 +9138,7 @@
         "とりひきで": "Business"
     },
     "3047": {
-        "次レベルまで": "To Next Level"
+        "次レベルまで": "Next Level"
     },
     "3048": {
         "clarity_nt_char_1056": "clarity_nt_char_1056"
@@ -18489,7 +18489,7 @@
         "ここにいるおさかな": "Catchable Fish"
     },
     "6164": {
-        "<%sM_skill>の書": ""
+        "<%sM_skill>の書": "<%sM_skill> Book"
     },
     "6165": {
         "キングの褒美": ""
@@ -29016,7 +29016,7 @@
         "[<%sM_caption>だけ]": ""
     },
     "9673": {
-        "<%sM_skill><%sM_state>": ""
+        "<%sM_skill><%sM_state>": "<%sM_skill>"
     },
     "9674": {
         "clarity_nt_char_3258": "clarity_nt_char_3258"
