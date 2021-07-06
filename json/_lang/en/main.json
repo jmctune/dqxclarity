@@ -10338,13 +10338,13 @@
         "<%sM_ikisaki2>に行く": "Go to <%sM_ikisaki2>"
     },
     "3447": {
-        "<%sM_skill>（<%sM_syokugyou>）<%dM_point>P": ""
+        "<%sM_skill>（<%sM_syokugyou>）<%dM_point>P": "<%sM_skill> (<%sM_syokugyou>) <%dM_point>P"
     },
     "3448": {
         "clarity_nt_char_1188": "clarity_nt_char_1188"
     },
     "3449": {
-        "<%sM_skill>　<%dM_point>P": ""
+        "<%sM_skill>　<%dM_point>P": "<%sM_skill> <%dM_point>P"
     },
     "3450": {
         "clarity_nt_char_1189": "clarity_nt_char_1189"
@@ -13203,7 +13203,7 @@
         "勝利チーム情報": ""
     },
     "4402": {
-        "<%sM_skill><%sM_page>": "<%sM_skill>"
+        "<%sM_skill><%sM_page>": "<%sM_skill>?"
     },
     "4403": {
         "（<%sM_pager_1>/<%sM_pager_2>）": ""
