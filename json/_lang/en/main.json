@@ -3768,7 +3768,7 @@
         "<%sM_renkinkouka>": ""
     },
     "1257": {
-        "全<%nM_sagasugoukei>品": ""
+        "全<%nM_sagasugoukei>品": "Total <%nM_sagasugoukei>"
     },
     "1258": {
         "clarity_nt_char_428": "clarity_nt_char_428"
@@ -3849,7 +3849,7 @@
         "【<%sM_QuestDaiTitle>】": ""
     },
     "1284": {
-        "<%sM_landaddress1>住宅地　<%sM_landaddress2>": "<%sM_landaddress1>House area<%sM_landaddress2>"
+        "<%sM_landaddress1>住宅地　<%sM_landaddress2>": "<%sM_landaddress1>Husing <%sM_landaddress2>"
     },
     "1285": {
         "clarity_nt_char_436": "clarity_nt_char_436"
@@ -3915,7 +3915,7 @@
         "そうびがえ": "Swap Equip"
     },
     "1306": {
-        "<%sM_Min>：<%sM_Sec>": ""
+        "<%sM_Min>：<%sM_Sec>": "<%sM_Min>:<%sM_Sec>"
     },
     "1307": {
         "<%sM_recipe1><%sM_recipeText1>|<%sM_recipe2><%sM_recipeText2>|<%sM_recipe3><%sM_recipeText3><bw_break>": ""
@@ -4173,7 +4173,7 @@
         "clarity_nt_char_473": "clarity_nt_char_473"
     },
     "1392": {
-        "Lv<%dM_lv>以上装備可": "Lv<%dM_lv>  Required"
+        "Lv<%dM_lv>以上装備可": "Lv<%dM_lv> Required"
     },
     "1393": {
         "受取": ""
@@ -4242,7 +4242,7 @@
         "Ｍ": ""
     },
     "1415": {
-        "<%sM_race><%sM_space><%sM_sex>専用": ""
+        "<%sM_race><%sM_space><%sM_sex>専用": "<%sM_race><%sM_space><%sM_sex> Only"
     },
     "1416": {
         "clarity_nt_char_479": "clarity_nt_char_479"
@@ -4284,7 +4284,7 @@
         "獲得称号数": ""
     },
     "1429": {
-        "<%dM_nnnn>個": ""
+        "<%dM_nnnn>個": "<%dM_nnnn>"
     },
     "1430": {
         "・": " - "
@@ -4395,7 +4395,7 @@
         "clarity_nt_char_494": "clarity_nt_char_494"
     },
     "1466": {
-        "<%sM_landaddress1>住宅村": "<%sM_landaddress1>Res. Vlg."
+        "<%sM_landaddress1>住宅村": "<%sM_landaddress1>Residence"
     },
     "1467": {
         "丁目": "Block"
