@@ -7236,7 +7236,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>２階-美術室": ""
     },
     "2413": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２階-図書室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>２階-図書室": "<%sW_MAP_NAME><%sW_DELIMITER>2F Library"
     },
     "2414": {
         "<%sW_MAP_NAME><%sW_DELIMITER>１階-学園長室": ""
@@ -11022,7 +11022,7 @@
         "clarity_nt_char_1175": "clarity_nt_char_1175"
     },
     "3675": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>大魔王の私室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>大魔王の私室": "<%sW_MAP_NAME><%sW_DELIMITER>Demon King's Room"
     },
     "3676": {
         "<%sW_MAP_NAME><%sW_DELIMITER>クラムベリル広場": "<%sW_MAP_NAME><%sW_DELIMITER>Clamberyl Square"
