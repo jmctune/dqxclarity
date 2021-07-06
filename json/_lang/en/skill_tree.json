@@ -8388,16 +8388,16 @@
         "【170P】ガード時ヘナトス+3%": "[170P] Blunt On Guard +3%"
     },
     "2797": {
-        "【180P】ガード時ヘナトス+5%": ""
+        "【180P】ガード時ヘナトス+5%": "[180P] Blunt On Guard +5%"
     },
     "2798": {
         "【160P】ビッグシールドの効果時間+5秒": "[160P] Immense Defence duration +5 sec."
     },
     "2799": {
-        "【170P】ビッグシールドの効果時間+7秒": ""
+        "【170P】ビッグシールドの効果時間+7秒": "[170P] Immense Defence Effect Time +7s"
     },
     "2800": {
-        "【180P】ビッグシールドの効果時間+10秒": ""
+        "【180P】ビッグシールドの効果時間+10秒": "[180P] Immense Defence Effect Time +10s"
     },
     "2801": {
         "clarity_nt_char_946": "clarity_nt_char_946"
@@ -8409,19 +8409,19 @@
         "clarity_nt_char_947": "clarity_nt_char_947"
     },
     "2804": {
-        "【170P】まもりのたての効果時間+7秒": ""
+        "【170P】まもりのたての効果時間+7秒": "[170P] Holy Impregnable Effect Time +7s"
     },
     "2805": {
         "clarity_nt_char_948": "clarity_nt_char_948"
     },
     "2806": {
-        "【180P】まもりのたての効果時間+10秒": ""
+        "【180P】まもりのたての効果時間+10秒": "[180P] Holy Impregnable Effect Time +10s"
     },
     "2807": {
-        "【160P】会心ガードの効果時間+5秒": ""
+        "【160P】会心ガードの効果時間+5秒": "[160P] Critical Guard Effect Time +5s"
     },
     "2808": {
-        "【170P】会心ガードの効果時間+7秒": ""
+        "【170P】会心ガードの効果時間+7秒": "[170P] Critical Guard Effect Time +7s"
     },
     "2809": {
         "【180P】会心ガードの効果時間+10秒": ""
