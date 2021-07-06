@@ -7233,7 +7233,7 @@
         "clarity_nt_char_811": "clarity_nt_char_811"
     },
     "2412": {
-        "<speed=0><%sM_InviteTarget>の指定が キャンセルされました。": ""
+        "<speed=0><%sM_InviteTarget>の指定が キャンセルされました。": "<speed=0><%sM_InviteTarget>'s matching was cancelled."
     },
     "2413": {
         "<speed=0><%sM_InviteTarget>の|指定を　断られました。": ""
@@ -7881,7 +7881,7 @@
         "clarity_nt_char_882": "clarity_nt_char_882"
     },
     "2628": {
-        "<speed=0>このさそいを受けるには|受注中の緊急依頼書を　達成するか|キャンセルする必要が　あります。": ""
+        "<speed=0>このさそいを受けるには|受注中の緊急依頼書を　達成するか|キャンセルする必要が　あります。": "<speed=0>In order to accept this request, you must first|cancel the request you currently have accepted."
     },
     "2629": {
         "clarity_nt_char_883": "clarity_nt_char_883"
