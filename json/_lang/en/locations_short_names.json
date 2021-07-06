@@ -168,7 +168,7 @@
         "clarity_nt_char_13": "clarity_nt_char_13"
     },
     "57": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>料理屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>料理屋": "<%sW_MAP_NAME><%sW_DELIMITER>Eatery"
     },
     "58": {
         "clarity_nt_char_14": "clarity_nt_char_14"
@@ -5136,7 +5136,7 @@
         "天願の座への扉": "Door to Heaven Seat"
     },
     "1713": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>宿屋・料理屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>宿屋・料理屋": "<%sW_MAP_NAME><%sW_DELIMITER>Inn - Eatery"
     },
     "1714": {
         "五行の塔 出口": ""
