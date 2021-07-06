@@ -4371,7 +4371,7 @@
         "clarity_nt_char_491": "clarity_nt_char_491"
     },
     "1458": {
-        "<%sM_pc>に　取り引きを申し込みました。|取り引き中は　移動できません。|<cancel>で　キャンセルできます。": ""
+        "<%sM_pc>に　取り引きを申し込みました。|取り引き中は　移動できません。|<cancel>で　キャンセルできます。": "Requested to trade <pc>. You cannot move|while trading. Press <cancel> to cancel."
     },
     "1459": {
         "clarity_nt_char_492": "clarity_nt_char_492"
@@ -4569,7 +4569,7 @@
         "近くの地図": "Nearby Areas"
     },
     "1524": {
-        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|フレンドに　さそいますか？<yesno><close>": ""
+        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|フレンドに　さそいますか？<yesno><close>": "<speed=0>Add <%sL_PC_NICK> (<%sUNIQUE_ID>) as a friend? <yesno><close>"
     },
     "1525": {
         "clarity_nt_char_519": "clarity_nt_char_519"
@@ -4596,7 +4596,7 @@
         "へろへろタイムまで": ""
     },
     "1533": {
-        "あと<%02dM_hh>：<%02dM_mm>": ""
+        "あと<%02dM_hh>：<%02dM_mm>": "<%02dM_hh>:<%02dM_mm> Left"
     },
     "1534": {
         "<speed=0>フレンドリストが　いっぱいです！|これ以上は　登録できません。": ""
