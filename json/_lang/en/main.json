@@ -11313,7 +11313,7 @@
         "clarity_nt_char_1290": "clarity_nt_char_1290"
     },
     "3772": {
-        "<%dM_cal_YYYY>年<%2dM_cal_MM>月": ""
+        "<%dM_cal_YYYY>年<%2dM_cal_MM>月": "<%2dM_cal_MM>/<%dM_cal_YYYY>"
     },
     "3773": {
         "偽りのレンダーシア": "False Lendersia"
@@ -11484,7 +11484,7 @@
         "<%sM_mon>": ""
     },
     "3829": {
-        "<%nM_cal_YYYY>年　<%nM_cal_MM>月": ""
+        "<%nM_cal_YYYY>年　<%nM_cal_MM>月": "<%nM_cal_MM> <%nM_cal_YYYY>"
     },
     "3830": {
         "コロシアム最多得票プレイヤー": ""
