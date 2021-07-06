@@ -18963,7 +18963,7 @@
         "clarity_nt_char_2153": "clarity_nt_char_2153"
     },
     "6322": {
-        "<%sM_npcname>との絆": "Bond with<%sM_npcname>"
+        "<%sM_npcname>との絆": "Bond <%sM_npcname>"
     },
     "6323": {
         "clarity_nt_char_2154": "clarity_nt_char_2154"
@@ -19722,7 +19722,7 @@
         "clarity_nt_char_2240": "clarity_nt_char_2240"
     },
     "6575": {
-        "<%sM_colorname>色": ""
+        "<%sM_colorname>色": "<%sM_colorname>"
     },
     "6576": {
         "clarity_nt_char_2241": "clarity_nt_char_2241"
