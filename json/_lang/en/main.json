@@ -13203,7 +13203,7 @@
         "勝利チーム情報": ""
     },
     "4402": {
-        "<%sM_skill><%sM_page>": ""
+        "<%sM_skill><%sM_page>": "<%sM_skill>"
     },
     "4403": {
         "（<%sM_pager_1>/<%sM_pager_2>）": ""
@@ -29016,7 +29016,7 @@
         "[<%sM_caption>だけ]": ""
     },
     "9673": {
-        "<%sM_skill><%sM_state>": "<%sM_skill>"
+        "<%sM_skill><%sM_state>": "<%sM_skill><%sM_state>"
     },
     "9674": {
         "clarity_nt_char_3258": "clarity_nt_char_3258"
