@@ -8409,7 +8409,7 @@
         "clarity_nt_char_974": "clarity_nt_char_974"
     },
     "2804": {
-        "残<%3dM_CW_hh>時<%2dM_CW_mm>分": ""
+        "残<%3dM_CW_hh>時<%2dM_CW_mm>分": "<%3dM_CW_hh>h <%2dM_CW_mm>m Left"
     },
     "2805": {
         "バトルコマンド設定": "Battle Command"
@@ -8613,7 +8613,7 @@
         "送る物": "Sending"
     },
     "2872": {
-        "<%sM_pc>の手紙": "<%sM_pc> Letters"
+        "<%sM_pc>の手紙": "<%sM_pc>'s Letter"
     },
     "2873": {
         "<%sM_teammei>": ""
