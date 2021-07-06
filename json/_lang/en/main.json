@@ -9468,7 +9468,7 @@
         "買ってくれた人": ""
     },
     "3157": {
-        "<%sM_item><%sM_plusnum>を<%2dM_nn>こ　お買い上げ！": "<%sM_plusnum> <%sM_item> for <%2dM_nn>!"
+        "<%sM_item><%sM_plusnum>を<%2dM_nn>こ　お買い上げ！": "Bought <%sM_item><%sM_plusnum> for <%2dM_nn>!"
     },
     "3158": {
         "送信先の切替": ""
