@@ -23673,7 +23673,7 @@
         "秘密の宝物庫は解放されませんでした": ""
     },
     "7892": {
-        "ファラオの隠し財宝　解明期間<%2dM_open_m>月<%2dM_open_d>日～<%2dM_close_m>月<%2dM_close_d>日": ""
+        "ファラオの隠し財宝　解明期間<%2dM_open_m>月<%2dM_open_d>日～<%2dM_close_m>月<%2dM_close_d>日": "Pharaoh's Treasure Reveal Period <%2dM_open_m>/<%2dM_open_d> - <%2dM_close_m>/<%2dM_close_d>"
     },
     "7893": {
         "ファラオの隠し財宝": ""
@@ -24849,7 +24849,7 @@
         "clarity_nt_char_2801": "clarity_nt_char_2801"
     },
     "8284": {
-        "受け取り期限： <%dM_cal_MM>月<%dM_cal_DD>日 <%dM_hh>時<%dM_mm>分": ""
+        "受け取り期限： <%dM_cal_MM>月<%dM_cal_DD>日 <%dM_hh>時<%dM_mm>分": "Due date: <%dM_cal_MM>/<%dM_cal_DD> at <%dM_hh>:<%dM_mm>"
     },
     "8285": {
         "メニュー全般": ""
@@ -24861,7 +24861,7 @@
         "自分の順位": "Your Rank"
     },
     "8288": {
-        "<%2dM_cal_MM>月<%2dM_cal_DD>日～<%2dM_cal_MM2>月<%2dM_cal_DD2>日": ""
+        "<%2dM_cal_MM>月<%2dM_cal_DD>日～<%2dM_cal_MM2>月<%2dM_cal_DD2>日": "<%2dM_cal_MM>/<%2dM_cal_DD> - <%2dM_cal_MM2>/<%2dM_cal_DD2>"
     },
     "8289": {
         "No.逆順に": ""
