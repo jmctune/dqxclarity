@@ -69,7 +69,7 @@
         "ドラムクラッシュの極意": "Secret of Monster Masher"
     },
     "24": {
-        "シールドブレイクの極意": "Secret of Shield Break"
+        "シールドブレイクの極意": "Secret of Shattershield"
     },
     "25": {
         "花ふぶきの技巧": "Flower Power Finesse"
@@ -420,7 +420,7 @@
         "ウェイトブレイクの技巧": "Weight Break Technique"
     },
     "141": {
-        "シールドブレイクの技巧": "Shield Break Technique"
+        "シールドブレイクの技巧": "Shattershield Technique"
     },
     "142": {
         "弓聖の守り星の戦域": "Theater of Guardian Star"
@@ -2064,16 +2064,16 @@
         "clarity_nt_char_233": "clarity_nt_char_233"
     },
     "689": {
-        "シールドブレイク成功率+10%": "Shield Break Success Rate +10%"
+        "シールドブレイク成功率+10%": "Shattershield Success Rate +10%"
     },
     "690": {
-        "シールドブレイクの威力+5%": "Shield Break Power +5%"
+        "シールドブレイクの威力+5%": "Shattershield Power +5%"
     },
     "691": {
         "clarity_nt_char_234": "clarity_nt_char_234"
     },
     "692": {
-        "シールドブレイクの威力+2%": "Shield Break Power +2%"
+        "シールドブレイクの威力+2%": "Shattershield Power +2%"
     },
     "693": {
         "clarity_nt_char_235": "clarity_nt_char_235"
@@ -7785,13 +7785,13 @@
         "clarity_nt_char_900": "clarity_nt_char_900"
     },
     "2596": {
-        "シールドブレイクの成功率が１０％増える|（ハンマー専用）": "Shield Break success rate increased|by 10%. (Hammer Only)"
+        "シールドブレイクの成功率が１０％増える|（ハンマー専用）": "Shattershield success rate increased|by 10%. (Hammer Only)"
     },
     "2597": {
         "clarity_nt_char_901": "clarity_nt_char_901"
     },
     "2598": {
-        "シールドブレイクのダメージが５％増える|（ハンマー専用）": "Shield Break damage increased by 5%.|(Hammer Only)"
+        "シールドブレイクのダメージが５％増える|（ハンマー専用）": "Shattershield damage increased by 5%.|(Hammer Only)"
     },
     "2599": {
         "clarity_nt_char_902": "clarity_nt_char_902"
@@ -9609,7 +9609,7 @@
         "clarity_nt_char_1107": "clarity_nt_char_1107"
     },
     "3204": {
-        "シールドブレイク成功率+2%": "Shield Break Success Rate +2%"
+        "シールドブレイク成功率+2%": "Shattershield Success +2%"
     },
     "3205": {
         "clarity_nt_char_1108": "clarity_nt_char_1108"
@@ -11787,16 +11787,16 @@
         "clarity_nt_char_1339": "clarity_nt_char_1339"
     },
     "3930": {
-        "シールドブレイク成功率+20%": "Shield Break Success Rate +20%"
+        "シールドブレイク成功率+20%": "Shattershield Success +20%"
     },
     "3931": {
-        "シールドブレイク成功率+30%": "Shield Break Success Rate +30%"
+        "シールドブレイク成功率+30%": "Shattershield Success +30%"
     },
     "3932": {
-        "シールドブレイク成功率+40%": "Shield Break Success Rate +40%"
+        "シールドブレイク成功率+40%": "Shattershield Success +40%"
     },
     "3933": {
-        "シールドブレイク成功率+50%": "Shield Break Success Rate +50%"
+        "シールドブレイク成功率+50%": "Shattershield Success +50%"
     },
     "3934": {
         "シールドブレイク成功率+60%": "Shield Break Success Rate +60%"
