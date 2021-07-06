@@ -567,7 +567,7 @@
         "clarity_nt_char_63": "clarity_nt_char_63"
     },
     "190": {
-        "スキル": "Skill"
+        "スキル": "Skills"
     },
     "191": {
         "のこり": "Points"
@@ -6807,13 +6807,13 @@
         "<%sM_mpmax>": ""
     },
     "2270": {
-        "<%sM_skill5><%sM_05>": ""
+        "<%sM_skill5><%sM_05>": "<%sM_skill5>"
     },
     "2271": {
         "clarity_nt_char_785": "clarity_nt_char_785"
     },
     "2272": {
-        "<%sM_skill4><%sM_04>": ""
+        "<%sM_skill4><%sM_04>": "<%sM_skill4>"
     },
     "2273": {
         "clarity_nt_char_786": "clarity_nt_char_786"
