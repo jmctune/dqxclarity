@@ -7512,16 +7512,16 @@
         "clarity_nt_char_844": "clarity_nt_char_844"
     },
     "2505": {
-        "【160P】シールドブレイク+5%": "[160P] Shield Break +5%"
+        "【160P】シールドブレイク+5%": "[160P] Shattershield +5%"
     },
     "2506": {
-        "【170P】シールドブレイク+10%": "[170P] Shield Break +10%"
+        "【170P】シールドブレイク+10%": "[170P] Shattershield +10%"
     },
     "2507": {
         "clarity_nt_char_845": "clarity_nt_char_845"
     },
     "2508": {
-        "【180P】シールドブレイク+15%": "[180P] Shield Break +15%"
+        "【180P】シールドブレイク+15%": "[180P] Shattershield +15%"
     },
     "2509": {
         "clarity_nt_char_846": "clarity_nt_char_846"
@@ -7608,13 +7608,13 @@
         "clarity_nt_char_853": "clarity_nt_char_853"
     },
     "2537": {
-        "【190P】シールドブレイク+15%": "[190P] Shield Break +15%"
+        "【190P】シールドブレイク+15%": "[190P] Shattershield +15%"
     },
     "2538": {
         "clarity_nt_char_854": "clarity_nt_char_854"
     },
     "2539": {
-        "【200P】シールドブレイク+15%": "[200P] Shield Break +15%"
+        "【200P】シールドブレイク+15%": "[200P] Shattershield +15%"
     },
     "2540": {
         "clarity_nt_char_855": "clarity_nt_char_855"
@@ -7623,7 +7623,7 @@
         "【190P】ランドインパクト+8%": "[190P] Crackerwhack +8%"
     },
     "2542": {
-        "【200P】ランドインパクト+8%": ""
+        "【200P】ランドインパクト+8%": "[200P] Crackerwhack +8%"
     },
     "2543": {
         "【190P】プレートインパクト+10%": ""
@@ -10539,16 +10539,16 @@
         "clarity_nt_char_1180": "clarity_nt_char_1180"
     },
     "3514": {
-        "シールドブレイク+5%": "Shield Break +5%"
+        "シールドブレイク+5%": "Shattershield +5%"
     },
     "3515": {
-        "シールドブレイク+10%": "Shield Break +10%"
+        "シールドブレイク+10%": "Shattershield +10%"
     },
     "3516": {
         "clarity_nt_char_1181": "clarity_nt_char_1181"
     },
     "3517": {
-        "シールドブレイク+15%": "Shield Break +15%"
+        "シールドブレイク+15%": "Shattershield +15%"
     },
     "3518": {
         "clarity_nt_char_1182": "clarity_nt_char_1182"
@@ -12636,7 +12636,7 @@
         "clarity_nt_char_1429": "clarity_nt_char_1429"
     },
     "4213": {
-        "シールドブレイクの威力が　あがった！": "Shield Break's power increased!"
+        "シールドブレイクの威力が　あがった！": "Shattershield's power increased!"
     },
     "4214": {
         "clarity_nt_char_1430": "clarity_nt_char_1430"
@@ -19011,7 +19011,7 @@
         "ドラムクラッシュの強化": ""
     },
     "6338": {
-        "シールドブレイクの強化": "Shield Break Strengthen"
+        "シールドブレイクの強化": "Shattershield Strengthen"
     },
     "6339": {
         "ランドインパクトの強化": ""
