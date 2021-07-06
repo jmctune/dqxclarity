@@ -21648,7 +21648,7 @@
         "報酬その２　トータルスコア報酬": ""
     },
     "7217": {
-        "<%dM_cal_MM>月<%dM_cal_DD>日<%2dM_hh>:<%02dM_mm>時点": ""
+        "<%dM_cal_MM>月<%dM_cal_DD>日<%2dM_hh>:<%02dM_mm>時点": "<%dM_cal_MM>/<%dM_cal_DD> at <%2dM_hh>:<%02dM_mm>"
     },
     "7218": {
         "clarity_nt_char_2448": "clarity_nt_char_2448"
@@ -23346,7 +23346,7 @@
         "青の錬金石": "Blue A. Stone"
     },
     "7783": {
-        "<%2dM_open_m>月<%2dM_open_d>日～<%2dM_close_m>月<%2dM_close_d>日": ""
+        "<%2dM_open_m>月<%2dM_open_d>日～<%2dM_close_m>月<%2dM_close_d>日": "<%2dM_open_m>/<%2dM_open_d> - <%2dM_close_m>/<%2dM_close_d>"
     },
     "7784": {
         "じょうほう": ""
