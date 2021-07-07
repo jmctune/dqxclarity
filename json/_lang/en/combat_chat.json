@@ -26028,7 +26028,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに 一定時間 やいばのぼうぎょ効果がついた！": ""
     },
     "8677": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 状態異常成功率が あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 状態異常成功率が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's status effect success rate increased!"
     },
     "8678": {
         "一定時間 \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eにさわると シビれる！": ""
@@ -29934,7 +29934,7 @@
         "clarity_nt_char_3317": "clarity_nt_char_3317"
     },
     "9979": {
-        "状態異常成功率が|あがった！": ""
+        "状態異常成功率が|あがった！": "Status effect success|rate increased!"
     },
     "9980": {
         "clarity_nt_char_3318": "clarity_nt_char_3318"
