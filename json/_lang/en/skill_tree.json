@@ -13107,7 +13107,7 @@
         "戦士時　２％の確率で|テンションを　消費しなくなった！": "You now have a 2% chance to not use tension|as a Warrior!"
     },
     "4370": {
-        "戦士時　３％の確率で|テンションを　消費しなくなった！": ""
+        "戦士時　３％の確率で|テンションを　消費しなくなった！": "You now have a 3% chance to not use tension|as a Warrior!"
     },
     "4371": {
         "ベホマⅠ（専）の呪文を　おぼえた！": "You learned Fullheal I!"
@@ -13119,25 +13119,25 @@
         "ベホマⅢ（専）の呪文を　おぼえた！": "You learned Fullheal Ⅲ!"
     },
     "4374": {
-        "僧侶時　回復呪文の回復量が　５　増えた！": ""
+        "僧侶時　回復呪文の回復量が　５　増えた！": "Recovery spell power is increased by 5|as a Priest!"
     },
     "4375": {
         "clarity_nt_char_1483": "clarity_nt_char_1483"
     },
     "4376": {
-        "僧侶時　回復呪文の回復量が　１０　増えた！": ""
+        "僧侶時　回復呪文の回復量が　１０　増えた！": "Recovery spell power is increased by 10|as a Priest!"
     },
     "4377": {
-        "僧侶時　回復呪文の回復量が　２０　増えた！": ""
+        "僧侶時　回復呪文の回復量が　２０　増えた！": "Recovery spell power is increased by 20|as a Priest!"
     },
     "4378": {
-        "僧侶で　呪文を唱えた時|魔力が　０．５％　暴走しやすくなった！": ""
+        "僧侶で　呪文を唱えた時|魔力が　０．５％　暴走しやすくなった！": "Your spell haywire chance is increased by 0.5%|as a Priest!"
     },
     "4379": {
-        "僧侶で　呪文を唱えた時|魔力が　０．８％　暴走しやすくなった！": ""
+        "僧侶で　呪文を唱えた時|魔力が　０．８％　暴走しやすくなった！": "Your spell haywire chance is increased by 0.8%|as a Priest!"
     },
     "4380": {
-        "僧侶で　呪文を唱えた時|魔力が　１．２％　暴走しやすくなった！": ""
+        "僧侶で　呪文を唱えた時|魔力が　１．２％　暴走しやすくなった！": "Your spell haywire chance is increased by 1.2%|as a Priest!"
     },
     "4381": {
         "僧侶時|受けるダメージを　３　減らすようになった！": ""
