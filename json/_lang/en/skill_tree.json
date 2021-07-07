@@ -16071,13 +16071,13 @@
         "ハンマー装備時の|かいしん率が|１．５％増える": "Crit. Rate +1.5%|when a Hammer|is equipped."
     },
     "5358": {
-        "ハンマー装備時|さいだいＭＰが|２０増える": ""
+        "ハンマー装備時|さいだいＭＰが|２０増える": "Max MP +20|when a Hammer|is equipped."
     },
     "5359": {
-        "ハンマー装備時|さいだいＭＰが|３０増える": ""
+        "ハンマー装備時|さいだいＭＰが|３０増える": "Max MP +30|when a Hammer|is equipped."
     },
     "5360": {
-        "ハンマー装備時|さいだいＭＰが|４５増える": ""
+        "ハンマー装備時|さいだいＭＰが|４５増える": "Max MP +45|when a Hammer|is equipped."
     },
     "5361": {
         "物質系への|ダメージが|１０％増える": "Damage to|Material-types|increased by 10%."
@@ -16098,10 +16098,10 @@
         "clarity_nt_char_1831": "clarity_nt_char_1831"
     },
     "5367": {
-        "大地さえ破壊する|土の一撃を敵の|周囲に叩きつける": ""
+        "大地さえ破壊する|土の一撃を敵の|周囲に叩きつける": "A destructive|earth attack to|nearby enemies."
     },
     "5368": {
-        "前方の敵集団を|真空のやいばで|斬りつける": ""
+        "前方の敵集団を|真空のやいばで|斬りつける": "Slash frontal|enemies with|empty power."
     },
     "5369": {
         "格闘の時の|こうげき力が|１０増える": "Attack +10|when fighting|bare-handed."
