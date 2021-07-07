@@ -19245,7 +19245,7 @@
         "clarity_nt_char_2195": "clarity_nt_char_2195"
     },
     "6416": {
-        "被ダメージ軽減": ""
+        "被ダメージ軽減": "Damage Reduction"
     },
     "6417": {
         "ターン消費しない": "Don't Consume Turn"
@@ -19254,7 +19254,7 @@
         "clarity_nt_char_2196": "clarity_nt_char_2196"
     },
     "6419": {
-        "テンション消費しない": ""
+        "テンション消費しない": "Don't Use Tension"
     },
     "6420": {
         "clarity_nt_char_2197": "clarity_nt_char_2197"
@@ -19263,13 +19263,13 @@
         "ベホマ": "Fullheal"
     },
     "6422": {
-        "呪文の回復量強化": ""
+        "呪文の回復量強化": "Spell Recovery Boost"
     },
     "6423": {
         "clarity_nt_char_2198": "clarity_nt_char_2198"
     },
     "6424": {
-        "呪文のぼうそう率": ""
+        "呪文のぼうそう率": "Spell Haywire Rate"
     },
     "6425": {
         "clarity_nt_char_2199": "clarity_nt_char_2199"
@@ -19281,7 +19281,7 @@
         "clarity_nt_char_2200": "clarity_nt_char_2200"
     },
     "6428": {
-        "呪文のダメージ強化": ""
+        "呪文のダメージ強化": "Spell Damage Boost"
     },
     "6429": {
         "行雲流水": "Tidal Flow"
@@ -19302,7 +19302,7 @@
         "clarity_nt_char_2203": "clarity_nt_char_2203"
     },
     "6435": {
-        "特技の回復量強化": ""
+        "特技の回復量強化": "Skill Recovery Boost"
     },
     "6436": {
         "clarity_nt_char_2204": "clarity_nt_char_2204"
@@ -19341,7 +19341,7 @@
         "きせきの雨": "Miracle Rain"
     },
     "6448": {
-        "ラグジュアルリム": ""
+        "ラグジュアルリム": "Luxury Rim"
     },
     "6449": {
         "clarity_nt_char_2210": "clarity_nt_char_2210"
@@ -19359,7 +19359,7 @@
         "clarity_nt_char_2212": "clarity_nt_char_2212"
     },
     "6454": {
-        "神速シャンソン": ""
+        "神速シャンソン": "Godspeed Chanson"
     },
     "6455": {
         "ギラグレイド": "Kasizzle"
@@ -19377,7 +19377,7 @@
         "clarity_nt_char_2214": "clarity_nt_char_2214"
     },
     "6460": {
-        "まねまね": ""
+        "まねまね": "Follow Suit"
     },
     "6461": {
         "clarity_nt_char_2215": "clarity_nt_char_2215"
@@ -19395,13 +19395,13 @@
         "みのまもり": "Resilience"
     },
     "6466": {
-        "蘇生時バイキルト": ""
+        "蘇生時バイキルト": "Oomphle On Revive"
     },
     "6467": {
         "clarity_nt_char_2217": "clarity_nt_char_2217"
     },
     "6468": {
-        "蘇生時魔力かくせい": ""
+        "蘇生時魔力かくせい": "Channel Anger On Revive"
     },
     "6469": {
         "蘇生時聖なる祈り": ""
