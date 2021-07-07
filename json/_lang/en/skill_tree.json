@@ -13200,7 +13200,7 @@
         "魔法使い時　攻撃呪文の威力が　５　増えた！": "Spell power is increased by 5|as a Mage!"
     },
     "4401": {
-        "魔法使い時　攻撃呪文の威力が　１０　増えた！": ""
+        "魔法使い時　攻撃呪文の威力が　１０　増えた！": "Spell power is increased by 10|as a Mage!"
     },
     "4402": {
         "clarity_nt_char_1488": "clarity_nt_char_1488"
@@ -13824,16 +13824,16 @@
         "clarity_nt_char_1567": "clarity_nt_char_1567"
     },
     "4609": {
-        "魔法戦士時　攻撃呪文の威力が　５　増えた！": "While ARM, spell power increased by 5!"
+        "魔法戦士時　攻撃呪文の威力が　５　増えた！": "Spell power increased by 5|as an Armamentalist!"
     },
     "4610": {
-        "魔法戦士時　攻撃呪文の威力が　１０　増えた！": "While ARM, spell power increased by 10!"
+        "魔法戦士時　攻撃呪文の威力が　１０　増えた！": "Spell power increased by 10|as an Armamentalist!"
     },
     "4611": {
         "clarity_nt_char_1568": "clarity_nt_char_1568"
     },
     "4612": {
-        "魔法戦士時　攻撃呪文の威力が　２０　増えた！": "While ARM, spell power increased by 20"
+        "魔法戦士時　攻撃呪文の威力が　２０　増えた！": "Spell power increased by 20|as an Armamentalist!"
     },
     "4613": {
         "clarity_nt_char_1569": "clarity_nt_char_1569"
@@ -14427,7 +14427,7 @@
         "踊り子時　特技の威力が　２０　増えた！": ""
     },
     "4810": {
-        "踊り子時　攻撃呪文の威力が　５　増えた！": ""
+        "踊り子時　攻撃呪文の威力が　５　増えた！": "Spell power increased by 5|as a Dancer!"
     },
     "4811": {
         "clarity_nt_char_1643": "clarity_nt_char_1643"
