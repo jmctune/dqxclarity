@@ -16854,19 +16854,19 @@
         "clarity_nt_char_1918": "clarity_nt_char_1918"
     },
     "5619": {
-        "武闘家時|テンションを|１％の確率で維持": ""
+        "武闘家時|テンションを|１％の確率で維持": "1% chance to not|use tension as a|Martial Artist."
     },
     "5620": {
         "clarity_nt_char_1919": "clarity_nt_char_1919"
     },
     "5621": {
-        "武闘家時|テンションを|２％の確率で維持": ""
+        "武闘家時|テンションを|２％の確率で維持": "2% chance to not|use tension as a|Martial Artist."
     },
     "5622": {
         "clarity_nt_char_1920": "clarity_nt_char_1920"
     },
     "5623": {
-        "武闘家時|テンションを|３％の確率で維持": ""
+        "武闘家時|テンションを|３％の確率で維持": "3% chance to not|use tension as a|Martial Artist."
     },
     "5624": {
         "clarity_nt_char_1921": "clarity_nt_char_1921"
@@ -16938,13 +16938,13 @@
         "盗賊時|２．０％の確率で|ターン消費しない": "2% chance to|not use turn as a|Thief."
     },
     "5647": {
-        "盗賊時|テンションを|１％の確率で維持": ""
+        "盗賊時|テンションを|１％の確率で維持": "1% chance to not|use tension as a|Thief."
     },
     "5648": {
-        "盗賊時|テンションを|２％の確率で維持": ""
+        "盗賊時|テンションを|２％の確率で維持": "2% chance to not|use tension as a|Thief."
     },
     "5649": {
-        "盗賊時|テンションを|３％の確率で維持": ""
+        "盗賊時|テンションを|３％の確率で維持": "3% chance to not|use tension as a|Thief."
     },
     "5650": {
         "周囲のＨＰを|２００～回復する|旅芸人専用特技": ""
@@ -17025,19 +17025,19 @@
         "clarity_nt_char_1937": "clarity_nt_char_1937"
     },
     "5676": {
-        "旅芸人時|テンションを|１％の確率で維持": ""
+        "旅芸人時|テンションを|１％の確率で維持": "1% chance to not|use tension as a|Minstrel."
     },
     "5677": {
         "clarity_nt_char_1938": "clarity_nt_char_1938"
     },
     "5678": {
-        "旅芸人時|テンションを|２％の確率で維持": ""
+        "旅芸人時|テンションを|２％の確率で維持": "2% chance to not|use tension as a|Minstrel."
     },
     "5679": {
         "clarity_nt_char_1939": "clarity_nt_char_1939"
     },
     "5680": {
-        "旅芸人時|テンションを|３％の確率で維持": ""
+        "旅芸人時|テンションを|３％の確率で維持": "3% chance to not|use tension as a|Minstrel."
     },
     "5681": {
         "clarity_nt_char_1940": "clarity_nt_char_1940"
@@ -17112,13 +17112,13 @@
         "バトマス時|２．０％の確率で|ターン消費しない": "2% chance to|not use turn as a|Battlemaster."
     },
     "5705": {
-        "バトマス時|テンションを|１％の確率で維持": ""
+        "バトマス時|テンションを|１％の確率で維持": "1% chance to not|use tension as a|Battlemaster."
     },
     "5706": {
-        "バトマス時|テンションを|２％の確率で維持": ""
+        "バトマス時|テンションを|２％の確率で維持": "2% chance to not|use tension as a|Battlemaster."
     },
     "5707": {
-        "バトマス時|テンションを|３％の確率で維持": ""
+        "バトマス時|テンションを|３％の確率で維持": "3% chance to not|use tension as a|Battlemaster."
     },
     "5708": {
         "自分を強化して|ふっとびに耐える|パラディン専用": ""
@@ -17205,19 +17205,19 @@
         "clarity_nt_char_1959": "clarity_nt_char_1959"
     },
     "5736": {
-        "パラディン時|テンションを|１％の確率で維持": ""
+        "パラディン時|テンションを|１％の確率で維持": "1% chance to not|use tension as a|Paladin."
     },
     "5737": {
         "clarity_nt_char_1960": "clarity_nt_char_1960"
     },
     "5738": {
-        "パラディン時|テンションを|２％の確率で維持": ""
+        "パラディン時|テンションを|２％の確率で維持": "2% chance to not|use tension as a|Paladin."
     },
     "5739": {
         "clarity_nt_char_1961": "clarity_nt_char_1961"
     },
     "5740": {
-        "パラディン時|テンションを|３％の確率で維持": ""
+        "パラディン時|テンションを|３％の確率で維持": "3% chance to not|use tension as a|Paladin."
     },
     "5741": {
         "clarity_nt_char_1962": "clarity_nt_char_1962"
@@ -17295,10 +17295,10 @@
         "魔法戦士時|２．０％の確率で|ターン消費しない": "2% chance to|not use turn as|an Armamentalist."
     },
     "5766": {
-        "魔法戦士時|テンションを|１％の確率で維持": ""
+        "魔法戦士時|テンションを|１％の確率で維持": "1% chance to not|use tension as an|Armamentalist."
     },
     "5767": {
-        "魔法戦士時|テンションを|２％の確率で維持": ""
+        "魔法戦士時|テンションを|２％の確率で維持": "2% chance to not|use tension as an|Armamentalist."
     },
     "5768": {
         "魔法戦士時|テンションを|３％の確率で維持": ""
