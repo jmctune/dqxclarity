@@ -18996,13 +18996,13 @@
         "後<%dM_test1>個": "<%dM_test1> Left"
     },
     "6333": {
-        "後<%'dM_test2>個": ""
+        "後<%'dM_test2>個": "<%'dM_test2> Left"
     },
     "6334": {
         "clarity_nt_char_2158": "clarity_nt_char_2158"
     },
     "6335": {
-        "後<%nM_test5>個": ""
+        "後<%nM_test5>個": "<%nM_test5> Left"
     },
     "6336": {
         "幸せのおすそわけ": ""
@@ -19017,7 +19017,7 @@
         "clarity_nt_char_2160": "clarity_nt_char_2160"
     },
     "6340": {
-        "第<%nM_nn>回": "#<%nM_nn>"
+        "第<%nM_nn>回": "<%nM_nn>"
     },
     "6341": {
         "clarity_nt_char_2161": "clarity_nt_char_2161"
@@ -19080,7 +19080,7 @@
         "強化素材：": "Upgrade mats:"
     },
     "6361": {
-        "<%sM_item><%sM_plusnum>の強化後の錬金効果": "<%sM_item><%sM_plusnum> alch. eff. after enhance"
+        "<%sM_item><%sM_plusnum>の強化後の錬金効果": "<%sM_item><%sM_plusnum> Effect after Enhancement"
     },
     "6362": {
         "clarity_nt_char_2167": "clarity_nt_char_2167"
@@ -19152,7 +19152,7 @@
         "clarity_nt_char_2176": "clarity_nt_char_2176"
     },
     "6385": {
-        "<%dM_num> こ": ""
+        "<%dM_num> こ": "<%dM_num>"
     },
     "6386": {
         "追加効果にもどる": "Show Effects"
@@ -19221,7 +19221,7 @@
         "月の像": ""
     },
     "6408": {
-        "<%sM_Arcana>のカード": "<%sM_Arcana> cards"
+        "<%sM_Arcana>のカード": "<%sM_Arcana> Card"
     },
     "6409": {
         "clarity_nt_char_2184": "clarity_nt_char_2184"
