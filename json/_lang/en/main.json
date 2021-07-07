@@ -15048,7 +15048,7 @@
         "さくせん：": "Misc.:"
     },
     "5017": {
-        "<%sM_rank>ランク試験まで": "<%sM_rank> rank until test"
+        "<%sM_rank>ランク試験まで": "<%sM_rank> Rank until test"
     },
     "5018": {
         "報酬：": ""
@@ -15165,7 +15165,7 @@
         "clarity_nt_char_1714": "clarity_nt_char_1714"
     },
     "5056": {
-        "次のランクアップ試験まで　あと<%dM_point>ポイント": "<%dM_point> Points Left Until Next Rank"
+        "次のランクアップ試験まで　あと<%dM_point>ポイント": "<%dM_point> Points Left Until Next Rank Exam"
     },
     "5057": {
         "clarity_nt_char_1715": "clarity_nt_char_1715"
@@ -15546,7 +15546,7 @@
         "clarity_nt_char_1760": "clarity_nt_char_1760"
     },
     "5183": {
-        "投稿者：<%sM_pc>": ""
+        "投稿者：<%sM_pc>": "Supporter: <%sM_pc>"
     },
     "5184": {
         "clarity_nt_char_1761": "clarity_nt_char_1761"
