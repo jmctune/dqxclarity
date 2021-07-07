@@ -11541,13 +11541,13 @@
         "仲間の返事が そろうのを待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Waiting for requests to be accepted...."
     },
     "3848": {
-        "対戦相手からの返事を 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": ""
+        "対戦相手からの返事を 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Waiting for opponent's reply..."
     },
     "3849": {
         "clarity_nt_char_1317": "clarity_nt_char_1317"
     },
     "3850": {
-        "コロシアムバトルの 準備をしています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": ""
+        "コロシアムバトルの 準備をしています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Preparing for Colosseum Battle..."
     },
     "3851": {
         "コロシアム経験値": ""
@@ -11595,13 +11595,13 @@
         "clarity_nt_char_1324": "clarity_nt_char_1324"
     },
     "3866": {
-        "<%sM_rank>ランク": "<%sM_rank>rank"
+        "<%sM_rank>ランク": "Rank <%sM_rank>"
     },
     "3867": {
-        "ゲット<%4dM_getp>P": ""
+        "ゲット<%4dM_getp>P": "Got <%4dM_getp>P"
     },
     "3868": {
-        "ロスト<%4dM_lostp>P": ""
+        "ロスト<%4dM_lostp>P": "Lost <%4dM_lostp>P"
     },
     "3869": {
         "clarity_nt_char_1325": "clarity_nt_char_1325"
