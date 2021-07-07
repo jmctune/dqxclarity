@@ -16992,19 +16992,19 @@
         "clarity_nt_char_1932": "clarity_nt_char_1932"
     },
     "5665": {
-        "旅芸人時|受けるダメージを|３減らす": ""
+        "旅芸人時|受けるダメージを|３減らす": "Damage Taken -3|when you're a|Minstrel."
     },
     "5666": {
         "clarity_nt_char_1933": "clarity_nt_char_1933"
     },
     "5667": {
-        "旅芸人時|受けるダメージを|５減らす": ""
+        "旅芸人時|受けるダメージを|５減らす": "Damage Taken -5|when you're a|Minstrel."
     },
     "5668": {
         "clarity_nt_char_1934": "clarity_nt_char_1934"
     },
     "5669": {
-        "旅芸人時|受けるダメージを|１０減らす": ""
+        "旅芸人時|受けるダメージを|１０減らす": "Damage Taken -10|when you're a|Minstrel."
     },
     "5670": {
         "旅芸人時|１．０％の確率で|ターン消費しない": "1% chance to|not use turn as a|Minstrel."
@@ -17073,13 +17073,13 @@
         "バトマス時|特技の会心率が|１．２％増える": "Skill Crit. Rate|+1.2% when you're|a Battlemaster."
     },
     "5692": {
-        "バトマス時|受けるダメージを|３減らす": ""
+        "バトマス時|受けるダメージを|３減らす": "Damage Taken -3|when you're a|Battlemaster."
     },
     "5693": {
-        "バトマス時|受けるダメージを|５減らす": ""
+        "バトマス時|受けるダメージを|５減らす": "Damage Taken -5|when you're a|Battlemaster."
     },
     "5694": {
-        "バトマス時|受けるダメージを|１０減らす": ""
+        "バトマス時|受けるダメージを|１０減らす": "Damage Taken -10|when you're a|Battlemaster."
     },
     "5695": {
         "clarity_nt_char_1944": "clarity_nt_char_1944"
@@ -17172,19 +17172,19 @@
         "clarity_nt_char_1954": "clarity_nt_char_1954"
     },
     "5725": {
-        "パラディン時|受けるダメージを|３減らす": ""
+        "パラディン時|受けるダメージを|３減らす": "Damage Taken -3|when you're a|Paladin."
     },
     "5726": {
         "clarity_nt_char_1955": "clarity_nt_char_1955"
     },
     "5727": {
-        "パラディン時|受けるダメージを|５減らす": ""
+        "パラディン時|受けるダメージを|５減らす": "Damage Taken -5|when you're a|Paladin."
     },
     "5728": {
         "clarity_nt_char_1956": "clarity_nt_char_1956"
     },
     "5729": {
-        "パラディン時|受けるダメージを|１０減らす": ""
+        "パラディン時|受けるダメージを|１０減らす": "Damage Taken -10|when you're a|Paladin."
     },
     "5730": {
         "パラディン時|１．０％の確率で|ターン消費しない": "1% chance to|not use turn as a|Paladin."
@@ -17256,13 +17256,13 @@
         "clarity_nt_char_1966": "clarity_nt_char_1966"
     },
     "5753": {
-        "魔法戦士時|受けるダメージを|３減らす": ""
+        "魔法戦士時|受けるダメージを|３減らす": "Damage Taken -3|when you're an|Armamentalist."
     },
     "5754": {
-        "魔法戦士時|受けるダメージを|５減らす": ""
+        "魔法戦士時|受けるダメージを|５減らす": "Damage Taken -5|when you're an|Armamentalist."
     },
     "5755": {
-        "魔法戦士時|受けるダメージを|１０減らす": ""
+        "魔法戦士時|受けるダメージを|１０減らす": "Damage Taken -10|when you're an|Armamentalist."
     },
     "5756": {
         "clarity_nt_char_1967": "clarity_nt_char_1967"
@@ -17355,19 +17355,19 @@
         "clarity_nt_char_1977": "clarity_nt_char_1977"
     },
     "5786": {
-        "レンジャー時|受けるダメージを|３減らす": ""
+        "レンジャー時|受けるダメージを|３減らす": "Damage Taken -3|when you're a|Ranger."
     },
     "5787": {
         "clarity_nt_char_1978": "clarity_nt_char_1978"
     },
     "5788": {
-        "レンジャー時|受けるダメージを|５減らす": ""
+        "レンジャー時|受けるダメージを|５減らす": "Damage Taken -5|when you're a|Ranger."
     },
     "5789": {
         "clarity_nt_char_1979": "clarity_nt_char_1979"
     },
     "5790": {
-        "レンジャー時|受けるダメージを|１０減らす": ""
+        "レンジャー時|受けるダメージを|１０減らす": "Damage Taken -10|when you're a|Ranger."
     },
     "5791": {
         "レンジャー時|１．０％の確率で|ターン消費しない": "1% chance to|not use turn as a|Ranger."
@@ -17439,7 +17439,7 @@
         "clarity_nt_char_1989": "clarity_nt_char_1989"
     },
     "5814": {
-        "賢者時|受けるダメージを|３減らす": ""
+        "賢者時|受けるダメージを|３減らす": "Damage Taken -3|when you're a|Sage."
     },
     "5815": {
         "賢者時|受けるダメージを|５減らす": ""
