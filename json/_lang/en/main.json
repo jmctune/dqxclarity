@@ -21480,7 +21480,7 @@
         "clarity_nt_char_2427": "clarity_nt_char_2427"
     },
     "7161": {
-        "至高の食材 Lv<%dM_syokuzaiLevel>": "Supreme Ingredient Lv <%dM_syokuzaiLevel>"
+        "至高の食材 Lv<%dM_syokuzaiLevel>": "S. Ingredient Lv <%dM_syokuzaiLevel>"
     },
     "7162": {
         "この食材で作れる料理": ""
@@ -21765,7 +21765,7 @@
         "５.つかうものに家キットをしまう空きがない": "5. I don't have room to put away my house kit"
     },
     "7256": {
-        "<%sM_syokugyou>のスキル": "<%sM_syokugyou>'s skills"
+        "<%sM_syokugyou>のスキル": "<%sM_syokugyou>'s Skills"
     },
     "7257": {
         "あいうえおかきく９": ""
@@ -21933,7 +21933,7 @@
         "めぐみのしずくが　まかれています！": ""
     },
     "7312": {
-        "(まいてもらった回数：<%dM_num>回)": "(Number of times spread: <%dM_num> times)"
+        "(まいてもらった回数：<%dM_num>回)": "(Times Received: <%dM_num> times)"
     },
     "7313": {
         "clarity_nt_char_2478": "clarity_nt_char_2478"
@@ -22008,7 +22008,7 @@
         "はじめ": "Begin"
     },
     "7337": {
-        "<%sM_pc>の心": "<%sM_pc> Soul"
+        "<%sM_pc>の心": "<%sM_pc> Heart"
     },
     "7338": {
         "clarity_nt_char_2486": "clarity_nt_char_2486"
@@ -22515,7 +22515,7 @@
         "clarity_nt_char_2545": "clarity_nt_char_2545"
     },
     "7506": {
-        "<%nM_Num>/<%nM_Max>種": ""
+        "<%nM_Num>/<%nM_Max>種": "<%nM_Num>/<%nM_Max>"
     },
     "7507": {
         "clarity_nt_char_2546": "clarity_nt_char_2546"
