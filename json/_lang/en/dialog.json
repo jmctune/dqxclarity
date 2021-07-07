@@ -7338,7 +7338,7 @@
         "最高30fps": ""
     },
     "2447": {
-        "<speed=0>|このマッチングに参加するには　規定のつよさに|達している必要があります。|さいだいＨＰが　規定値に足りていませんでした。": ""
+        "<speed=0>|このマッチングに参加するには　規定のつよさに|達している必要があります。|さいだいＨＰが　規定値に足りていませんでした。": "<speed=0>|To participate, you must have reached a certain|level of strength. Your current Maximum HP is not|high enough."
     },
     "2448": {
         "clarity_nt_char_823": "clarity_nt_char_823"
