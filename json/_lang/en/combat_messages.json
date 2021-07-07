@@ -393,7 +393,7 @@
         "勇気の輝きが <%dB_VALUE> 増えた！": "Spark of Courage increased by <%dB_VALUE>!"
     },
     "132": {
-        "勇気の輝きを <%dB_VALUE> 使った。": "Used <%dB_VALUE> for Spark of Courage."
+        "勇気の輝きを <%dB_VALUE> 使った。": "Used <%dB_VALUE> Spark of Courage."
     },
     "133": {
         "全ての職業で <%sB_NAME>が 1あがった！": "<%sB_NAME> increased by 1 for all vocations!"
@@ -1932,10 +1932,10 @@
         "clarity_nt_char_222": "clarity_nt_char_222"
     },
     "645": {
-        "勇気の輝きが　<%dB_VALUE>回復した！": "Your courage has been restored to <%dB_VALUE>!"
+        "勇気の輝きが　<%dB_VALUE>回復した！": "Spark of Courage restored to <%dB_VALUE>!"
     },
     "646": {
-        "勇気の輝きを　<%dB_VALUE>消費した。": "You consumed <%dB_VALUE> courage."
+        "勇気の輝きを　<%dB_VALUE>消費した。": "Consumed <%dB_VALUE> Spark of Courage."
     },
     "647": {
         "思い出アルバムに　写真を保存しています。|しばらく　お待ちください。": "Saving the photo to your Photo Album.|Please wait a moment."
