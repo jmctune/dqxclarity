@@ -19404,13 +19404,13 @@
         "蘇生時魔力かくせい": "Channel Anger On Revive"
     },
     "6469": {
-        "蘇生時聖なる祈り": ""
+        "蘇生時聖なる祈り": "Care Prayer On Revive"
     },
     "6470": {
         "clarity_nt_char_2218": "clarity_nt_char_2218"
     },
     "6471": {
-        "蘇生時早詠みの杖": ""
+        "蘇生時早詠みの杖": "Faster Caster On Revive"
     },
     "6472": {
         "clarity_nt_char_2219": "clarity_nt_char_2219"
@@ -19443,7 +19443,7 @@
         "clarity_nt_char_2223": "clarity_nt_char_2223"
     },
     "6482": {
-        "血吸いの守りの効果時間": ""
+        "血吸いの守りの効果時間": "Siphon Guard Duration"
     },
     "6483": {
         "サマーソルトクローの強化": "Somersault Claw Boost"
@@ -19458,34 +19458,34 @@
         "clarity_nt_char_2225": "clarity_nt_char_2225"
     },
     "6487": {
-        "【170P】おどり170Pにする": ""
+        "【170P】おどり170Pにする": "[170P] 170P Dance skill."
     },
     "6488": {
         "clarity_nt_char_2226": "clarity_nt_char_2226"
     },
     "6489": {
-        "【180P】おどり180Pにする": ""
+        "【180P】おどり180Pにする": "[180P] 180P Dance skill."
     },
     "6490": {
         "clarity_nt_char_2227": "clarity_nt_char_2227"
     },
     "6491": {
-        "【190P】おどり190Pにする": ""
+        "【190P】おどり190Pにする": "[190P] 190P Dance skill."
     },
     "6492": {
         "clarity_nt_char_2228": "clarity_nt_char_2228"
     },
     "6493": {
-        "【200P】おどり200Pにする": ""
+        "【200P】おどり200Pにする": "[200P] 200P Dance skill."
     },
     "6494": {
         "clarity_nt_char_2229": "clarity_nt_char_2229"
     },
     "6495": {
-        "おどり160Pにする（専）": ""
+        "おどり160Pにする（専）": "160P Dance skill. (EX)"
     },
     "6496": {
-        "おどり170Pにする（専）": ""
+        "おどり170Pにする（専）": "170P Dance skill. (EX)"
     },
     "6497": {
         "おどり180Pにする（専）": ""
