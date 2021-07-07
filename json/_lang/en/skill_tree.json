@@ -16731,13 +16731,13 @@
         "clarity_nt_char_1905": "clarity_nt_char_1905"
     },
     "5578": {
-        "魔法使い時|受けるダメージを|３減らす": ""
+        "魔法使い時|受けるダメージを|３減らす": "Damage Taken -3|when you're a|Mage."
     },
     "5579": {
-        "魔法使い時|受けるダメージを|５減らす": ""
+        "魔法使い時|受けるダメージを|５減らす": "Damage Taken -5|when you're a|Mage."
     },
     "5580": {
-        "魔法使い時|受けるダメージを|１０減らす": ""
+        "魔法使い時|受けるダメージを|１０減らす": "Damage Taken -10|when you're a|Mage."
     },
     "5581": {
         "clarity_nt_char_1906": "clarity_nt_char_1906"
@@ -16812,19 +16812,19 @@
         "clarity_nt_char_1913": "clarity_nt_char_1913"
     },
     "5605": {
-        "武闘家時|受けるダメージを|３減らす": ""
+        "武闘家時|受けるダメージを|３減らす": "Damage Taken -3|when you're a|Martial Artist."
     },
     "5606": {
         "clarity_nt_char_1914": "clarity_nt_char_1914"
     },
     "5607": {
-        "武闘家時|受けるダメージを|５減らす": ""
+        "武闘家時|受けるダメージを|５減らす": "Damage Taken -5|when you're a|Martial Artist."
     },
     "5608": {
         "clarity_nt_char_1915": "clarity_nt_char_1915"
     },
     "5609": {
-        "武闘家時|受けるダメージを|１０減らす": ""
+        "武闘家時|受けるダメージを|１０減らす": "Damage Taken -10|when you're a|Martial Artist."
     },
     "5610": {
         "武闘家時|身かわし率が|０．５％増える": "Dodge Rate +0.5%|when you're a|Martial Artist."
@@ -16899,13 +16899,13 @@
         "盗賊時|特技の会心率が|１．２％増える": "Skill Crit. Rate|+1.2% when you're|a Thief."
     },
     "5634": {
-        "盗賊時|受けるダメージを|３減らす": ""
+        "盗賊時|受けるダメージを|３減らす": "Damage Taken -3|when you're a|Thief."
     },
     "5635": {
-        "盗賊時|受けるダメージを|５減らす": ""
+        "盗賊時|受けるダメージを|５減らす": "Damage Taken -5|when you're a|Thief."
     },
     "5636": {
-        "盗賊時|受けるダメージを|１０減らす": ""
+        "盗賊時|受けるダメージを|１０減らす": "Damage Taken -10|when you're a|Thief."
     },
     "5637": {
         "clarity_nt_char_1924": "clarity_nt_char_1924"
