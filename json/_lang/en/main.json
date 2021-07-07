@@ -27297,7 +27297,7 @@
         "clarity_nt_char_3075": "clarity_nt_char_3075"
     },
     "9100": {
-        "入手したプリズランポイント <%dM_point>P": ""
+        "入手したプリズランポイント <%dM_point>P": "Obtained Prislan Points <%dM_point>P"
     },
     "9101": {
         "clarity_nt_char_3076": "clarity_nt_char_3076"
@@ -27336,7 +27336,7 @@
         "カラーリングに進む": "Confirm Coloring"
     },
     "9113": {
-        "<%dM_mvp>回": ""
+        "<%dM_mvp>回": "<%dM_mvp>"
     },
     "9114": {
         "clarity_nt_char_3081": "clarity_nt_char_3081"
@@ -27357,7 +27357,7 @@
         "clarity_nt_char_3083": "clarity_nt_char_3083"
     },
     "9120": {
-        "<%sM_syokunin>レシピの成功回数": "<%sM_syokunin># of successful recipes"
+        "<%sM_syokunin>レシピの成功回数": "<%sM_syokunin> Successful Recipes"
     },
     "9121": {
         "clarity_nt_char_3084": "clarity_nt_char_3084"
@@ -27378,7 +27378,7 @@
         "clarity_nt_char_3086": "clarity_nt_char_3086"
     },
     "9127": {
-        "<%sM_job>のスキル をリセットした！": "Resetting <%sM_job>'s skills!"
+        "<%sM_job>のスキル をリセットした！": "<%sM_job>'s skills were reset!"
     },
     "9128": {
         "clarity_nt_char_3087": "clarity_nt_char_3087"
