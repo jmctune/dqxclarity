@@ -24033,7 +24033,7 @@
         "clarity_nt_char_2709": "clarity_nt_char_2709"
     },
     "8012": {
-        "<%sM_area>でつかまえたネコの種類": "Types of cats caught in <%sM_area>"
+        "<%sM_area>でつかまえたネコの種類": "Types of Cats Caught in <%sM_area>"
     },
     "8013": {
         "つかまえた<%sM_cat_type>の種類": "Type of <%sM_cat_type> Caught"
@@ -24153,7 +24153,7 @@
         "clarity_nt_char_2725": "clarity_nt_char_2725"
     },
     "8052": {
-        "<%sM_pc>のプレイヤーイベント": "<%sM_pc>'s player events"
+        "<%sM_pc>のプレイヤーイベント": "<%sM_pc>'s Player Events"
     },
     "8053": {
         "clarity_nt_char_2726": "clarity_nt_char_2726"
@@ -24504,13 +24504,13 @@
         "clarity_nt_char_2759": "clarity_nt_char_2759"
     },
     "8169": {
-        "(<%nM_score_1>回)": ""
+        "(<%nM_score_1>回)": "(<%nM_score_1>)"
     },
     "8170": {
         "clarity_nt_char_2760": "clarity_nt_char_2760"
     },
     "8171": {
-        "(<%nM_score_2>人)": ""
+        "(<%nM_score_2>人)": "(<%nM_score_2>)"
     },
     "8172": {
         "clarity_nt_char_2761": "clarity_nt_char_2761"
