@@ -30012,7 +30012,7 @@
         "現在のストーリー預かり": ""
     },
     "10005": {
-        "前回の受け取り<%sM_exp>": ""
+        "前回の受け取り<%sM_exp>": "Last Received <%sM_exp>"
     },
     "10006": {
         "clarity_nt_char_3368": "clarity_nt_char_3368"
@@ -30699,7 +30699,7 @@
         "clarity_nt_char_3449": "clarity_nt_char_3449"
     },
     "10234": {
-        "<%sM_bui>のみ表示": "Show only <%sM_bui>"
+        "<%sM_bui>のみ表示": "Show Only <%sM_bui>"
     },
     "10235": {
         "全装備を表示": ""
@@ -30708,7 +30708,7 @@
         "clarity_nt_char_3450": "clarity_nt_char_3450"
     },
     "10237": {
-        "[クリア数　<%dM_clear>/<%dM_all>]": ""
+        "[クリア数　<%dM_clear>/<%dM_all>]": "[No. Clears <%dM_clear>/<%dM_all>]"
     },
     "10238": {
         "clarity_nt_char_3451": "clarity_nt_char_3451"
@@ -30828,7 +30828,7 @@
         "clarity_nt_char_3465": "clarity_nt_char_3465"
     },
     "10277": {
-        "レベル<%3dM_nn>": ""
+        "レベル<%3dM_nn>": "Level <%3dM_nn>"
     },
     "10278": {
         "clarity_nt_char_3466": "clarity_nt_char_3466"
