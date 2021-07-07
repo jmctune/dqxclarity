@@ -14022,13 +14022,13 @@
         "賢者で　呪文を唱えた時|魔力が　１．２％　暴走しやすくなった！": ""
     },
     "4675": {
-        "賢者時|受けるダメージを　３　減らすようになった！": ""
+        "賢者時|受けるダメージを　３　減らすようになった！": "Damage taken is now reduced by 3 as a Sage!"
     },
     "4676": {
-        "賢者時|受けるダメージを　５　減らすようになった！": ""
+        "賢者時|受けるダメージを　５　減らすようになった！": "Damage taken is now reduced by 5 as a Sage!"
     },
     "4677": {
-        "賢者時|受けるダメージを　１０　減らすようになった！": ""
+        "賢者時|受けるダメージを　１０　減らすようになった！": "Damage taken is now reduced by 10 as a Sage!"
     },
     "4678": {
         "clarity_nt_char_1589": "clarity_nt_char_1589"
@@ -14121,19 +14121,19 @@
         "スーパースター時　攻撃呪文の威力と|回復呪文の回復量が　２０　増えた！": ""
     },
     "4708": {
-        "スーパースター時|受けるダメージを　３　減らすようになった！": ""
+        "スーパースター時|受けるダメージを　３　減らすようになった！": "Damage taken is now reduced by 3 as a Superstar!"
     },
     "4709": {
         "clarity_nt_char_1598": "clarity_nt_char_1598"
     },
     "4710": {
-        "スーパースター時|受けるダメージを　５　減らすようになった！": ""
+        "スーパースター時|受けるダメージを　５　減らすようになった！": "Damage taken is now reduced by 5 as a Superstar!"
     },
     "4711": {
         "clarity_nt_char_1599": "clarity_nt_char_1599"
     },
     "4712": {
-        "スーパースター時|受けるダメージを　１０　減らすようになった！": ""
+        "スーパースター時|受けるダメージを　１０　減らすようになった！": "Damage taken is now reduced by 10 as a Superstar!"
     },
     "4713": {
         "スーパースター時　１．０％の確率で|行動ターンを　消費しなくなった！": ""
@@ -14220,19 +14220,19 @@
         "clarity_nt_char_1612": "clarity_nt_char_1612"
     },
     "4741": {
-        "まもの使い時|受けるダメージを　３　減らすようになった！": ""
+        "まもの使い時|受けるダメージを　３　減らすようになった！": "Damage taken is now reduced by 3 as a|Monster Master!"
     },
     "4742": {
         "clarity_nt_char_1613": "clarity_nt_char_1613"
     },
     "4743": {
-        "まもの使い時|受けるダメージを　５　減らすようになった！": ""
+        "まもの使い時|受けるダメージを　５　減らすようになった！": "Damage taken is now reduced by 5 as a|Monster Master!"
     },
     "4744": {
         "clarity_nt_char_1614": "clarity_nt_char_1614"
     },
     "4745": {
-        "まもの使い時|受けるダメージを　１０　減らすようになった！": ""
+        "まもの使い時|受けるダメージを　１０　減らすようになった！": "Damage taken is now reduced by 10 as a|Monster Master!"
     },
     "4746": {
         "まもの使い時　敵の攻撃を|０．５％　かわしやすくなった！": ""
@@ -14337,19 +14337,19 @@
         "clarity_nt_char_1630": "clarity_nt_char_1630"
     },
     "4780": {
-        "どうぐ使い時|受けるダメージを　３　減らすようになった！": ""
+        "どうぐ使い時|受けるダメージを　３　減らすようになった！": "Damage taken is now reduced by 3 as an|Item Master!"
     },
     "4781": {
         "clarity_nt_char_1631": "clarity_nt_char_1631"
     },
     "4782": {
-        "どうぐ使い時|受けるダメージを　５　減らすようになった！": ""
+        "どうぐ使い時|受けるダメージを　５　減らすようになった！": "Damage taken is now reduced by 5 as an|Item Master!"
     },
     "4783": {
         "clarity_nt_char_1632": "clarity_nt_char_1632"
     },
     "4784": {
-        "どうぐ使い時|受けるダメージを　１０　減らすようになった！": ""
+        "どうぐ使い時|受けるダメージを　１０　減らすようになった！": "Damage taken is now reduced by 10 as an|Item Master!"
     },
     "4785": {
         "どうぐ使い時　敵の攻撃を|０．５％　かわしやすくなった！": ""
@@ -14439,19 +14439,19 @@
         "踊り子時　攻撃呪文の威力が　２０　増えた！": "Spell power increased by 20|as a Dancer!"
     },
     "4814": {
-        "踊り子時|受けるダメージを　３　減らすようになった！": ""
+        "踊り子時|受けるダメージを　３　減らすようになった！": "Damage taken is now reduced by 3 as a Dancer!"
     },
     "4815": {
         "clarity_nt_char_1644": "clarity_nt_char_1644"
     },
     "4816": {
-        "踊り子時|受けるダメージを　５　減らすようになった！": ""
+        "踊り子時|受けるダメージを　５　減らすようになった！": "Damage taken is now reduced by 5 as a Dancer!"
     },
     "4817": {
         "clarity_nt_char_1645": "clarity_nt_char_1645"
     },
     "4818": {
-        "踊り子時|受けるダメージを　１０　減らすようになった！": ""
+        "踊り子時|受けるダメージを　１０　減らすようになった！": "Damage taken is now reduced by 10 as a Dancer!"
     },
     "4819": {
         "踊り子時　敵の攻撃を|０．５％　かわしやすくなった！": ""
@@ -14553,7 +14553,7 @@
         "占い師時|タロットと回復特技の回復量が　２０　増えた！": ""
     },
     "4852": {
-        "占い師時|受けるダメージを　３　減らすようになった！": ""
+        "占い師時|受けるダメージを　３　減らすようになった！": "Damage taken is now reduced by 3 as a|Fortune Teller!"
     },
     "4853": {
         "clarity_nt_char_1658": "clarity_nt_char_1658"
