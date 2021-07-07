@@ -12354,10 +12354,10 @@
         "紹介中": "Available"
     },
     "4119": {
-        "<%sM_MonsterName>をなでなでした！": "He patted <%sM_MonsterName>!"
+        "<%sM_MonsterName>をなでなでした！": "<%sM_MonsterName> was stroked!"
     },
     "4120": {
-        "<%sM_MonsterName>から　<%sM_item>を　もらった！": "I got <%sM_item> from <%sM_MonsterName>!"
+        "<%sM_MonsterName>から　<%sM_item>を　もらった！": "Received <%sM_item> from <%sM_MonsterName>!"
     },
     "4121": {
         "キメラのつばさ": "Chimaera Wing"
@@ -12492,7 +12492,7 @@
         "clarity_nt_char_1423": "clarity_nt_char_1423"
     },
     "4165": {
-        "あと<%nM_nnn>個": ""
+        "あと<%nM_nnn>個": "<%nM_nnn> Left"
     },
     "4166": {
         "clarity_nt_char_1424": "clarity_nt_char_1424"
@@ -12735,7 +12735,7 @@
         "<%+.1fM_dcpt1><%sM_percent>": ""
     },
     "4246": {
-        "釣りLv<%dM_lv>以上可": ""
+        "釣りLv<%dM_lv>以上可": "Fishing Lv <%dM_lv> Required"
     },
     "4247": {
         "<%sM_Tairiku> スタンプカード": "<%sM_Tairiku> Stamp Card"
