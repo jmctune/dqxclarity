@@ -3132,7 +3132,7 @@
         "clarity_nt_char_364": "clarity_nt_char_364"
     },
     "1045": {
-        "受けるダメージを <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>軽減": ""
+        "受けるダメージを <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>軽減": "Reduced Damage Taken +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "1046": {
         "ＭＰ消費しない率 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint>%": "Don't Use MP Rate +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint>%"
@@ -6693,7 +6693,7 @@
         "攻撃ダメージの○%回復": ""
     },
     "2232": {
-        "受けるダメージを ？軽減": ""
+        "受けるダメージを ？軽減": "Reduced Damage Taken +?"
     },
     "2233": {
         "clarity_nt_char_736": "clarity_nt_char_736"
@@ -6819,7 +6819,7 @@
         "鎌装備時　光の攻撃ダメージ +？%": "With Sickle Light Attack Damage +?%"
     },
     "2274": {
-        "受けるダメージを<%sB_renkin1>軽減する": ""
+        "受けるダメージを<%sB_renkin1>軽減する": "Reduced Damage Taken +<%sB_renkin1>"
     },
     "2275": {
         "転生モンスター出現率 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>倍": ""
