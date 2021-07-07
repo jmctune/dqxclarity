@@ -15630,13 +15630,13 @@
         "短剣装備時の|かいしん率が|１．５％増える": "Crit. Rate +1.5%|when a Dagger|is equipped."
     },
     "5211": {
-        "短剣装備時|さいだいＭＰが|２０増える": ""
+        "短剣装備時|さいだいＭＰが|２０増える": "Max MP +20|when a Dagger|is equipped."
     },
     "5212": {
-        "短剣装備時|さいだいＭＰが|３０増える": ""
+        "短剣装備時|さいだいＭＰが|３０増える": "Max MP +30|when a Dagger|is equipped."
     },
     "5213": {
-        "短剣装備時|さいだいＭＰが|４５増える": ""
+        "短剣装備時|さいだいＭＰが|４５増える": "Max MP +45|when a Dagger|is equipped."
     },
     "5214": {
         "虫系への|ダメージが|１０％増える": "Damage to Insect|-types increased|by 10%."
@@ -15684,13 +15684,13 @@
         "休み中の|敵へのダメージが|８％増える": "Damage to shocked|enemies increased|by 8%."
     },
     "5229": {
-        "周囲を切り裂く|鋭いやいばが|敵を襲う": ""
+        "周囲を切り裂く|鋭いやいばが|敵を襲う": "A sharp blade|cuts through|nearby enemies."
     },
     "5230": {
         "ダメージが|１％増える": "Damage increased|by 1%."
     },
     "5231": {
-        "周囲の味方の|呪文ダメージと|攻撃力を上げる": ""
+        "周囲の味方の|呪文ダメージと|攻撃力を上げる": "Boosts spell and|attack power|of nearby allies."
     },
     "5232": {
         "clarity_nt_char_1787": "clarity_nt_char_1787"
