@@ -20796,16 +20796,16 @@
         "clarity_nt_char_2382": "clarity_nt_char_2382"
     },
     "6933": {
-        "行動時|どうぐ範囲化術が|５％でかかる": ""
+        "行動時|どうぐ範囲化術が|５％でかかる": "5% chance to get|Item Range Tech|on action."
     },
     "6934": {
-        "行動時|どうぐ範囲化術が|１０％でかかる": ""
+        "行動時|どうぐ範囲化術が|１０％でかかる": "10% chance to get|Item Range Tech|on action."
     },
     "6935": {
         "clarity_nt_char_2383": "clarity_nt_char_2383"
     },
     "6936": {
-        "行動時|どうぐ範囲化術が|１５％でかかる": ""
+        "行動時|どうぐ範囲化術が|１５％でかかる": "15% chance to get|Item Range Tech|on action."
     },
     "6937": {
         "clarity_nt_char_2384": "clarity_nt_char_2384"
@@ -22221,7 +22221,7 @@
         "きまぐれな行動の発動率": ""
     },
     "7408": {
-        "行動時|どうぐ倍化術が|１５％でかかる": ""
+        "行動時|どうぐ倍化術が|１５％でかかる": "15% chance to get|Item Doubling|Tech on action."
     },
     "7409": {
         "装備時呪文発動速度+4%": ""
