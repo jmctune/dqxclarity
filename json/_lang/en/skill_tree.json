@@ -15378,13 +15378,13 @@
         "オノ装備時の|かいしん率が|１．５％増える": "Crit. Rate +1.5%|when an Axe|is equipped."
     },
     "5127": {
-        "オノ装備時|さいだいＭＰが|２０増える": ""
+        "オノ装備時|さいだいＭＰが|２０増える": "Max MP +20|when an Axe|is equipped."
     },
     "5128": {
-        "オノ装備時|さいだいＭＰが|３０増える": ""
+        "オノ装備時|さいだいＭＰが|３０増える": "Max MP +30|when an Axe|is equipped."
     },
     "5129": {
-        "オノ装備時|さいだいＭＰが|４５増える": ""
+        "オノ装備時|さいだいＭＰが|４５増える": "Max MP +45|when an Axe|is equipped."
     },
     "5130": {
         "植物系への|ダメージが|１０％増える": "Damage to Plant|-types increased|by 10%."
@@ -15408,7 +15408,7 @@
         "ダメージが|３％増える": "Damage increased|by 3%."
     },
     "5137": {
-        "直線上にいる敵を|土のチカラで|切り裂く大技": ""
+        "直線上にいる敵を|土のチカラで|切り裂く大技": "Hits enemies in a|line with great|earth power."
     },
     "5138": {
         "clarity_nt_char_1761": "clarity_nt_char_1761"
