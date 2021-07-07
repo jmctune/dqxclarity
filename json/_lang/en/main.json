@@ -18504,10 +18504,10 @@
         "clarity_nt_char_2097": "clarity_nt_char_2097"
     },
     "6169": {
-        "釣った種類ごとの褒美(<%sM_Fishsize>サイズ)": ""
+        "釣った種類ごとの褒美(<%sM_Fishsize>サイズ)": "Reward for Types Caught (<%sM_Fishsize> Size)"
     },
     "6170": {
-        "<%dM_shurui>種類": ""
+        "<%dM_shurui>種類": "<%dM_shurui>"
     },
     "6171": {
         "clarity_nt_char_2098": "clarity_nt_char_2098"
@@ -18606,7 +18606,7 @@
         "<%sM_npcname>の絆効果": "<%sM_npcname> Bond Effect"
     },
     "6203": {
-        "<%nM_mon>月の記録": ""
+        "<%nM_mon>月の記録": "<%nM_mon> Moon Record"
     },
     "6204": {
         "ゴロー": ""
@@ -18969,7 +18969,7 @@
         "clarity_nt_char_2154": "clarity_nt_char_2154"
     },
     "6324": {
-        "「<%sM_comment>": ""
+        "「<%sM_comment>": "<%sM_comment>"
     },
     "6325": {
         "clarity_nt_char_2155": "clarity_nt_char_2155"
@@ -18978,22 +18978,22 @@
         "いない": ""
     },
     "6327": {
-        "後<%'nM_test6>個": ""
+        "後<%'nM_test6>個": "<%'nM_test6> Left"
     },
     "6328": {
         "clarity_nt_char_2156": "clarity_nt_char_2156"
     },
     "6329": {
-        "後<%fM_test3>個": ""
+        "後<%fM_test3>個": "<%fM_test3> Left"
     },
     "6330": {
-        "後<%'fM_test4>個": ""
+        "後<%'fM_test4>個": "<%'fM_test4> Left"
     },
     "6331": {
         "clarity_nt_char_2157": "clarity_nt_char_2157"
     },
     "6332": {
-        "後<%dM_test1>個": ""
+        "後<%dM_test1>個": "<%dM_test1> Left"
     },
     "6333": {
         "後<%'dM_test2>個": ""
