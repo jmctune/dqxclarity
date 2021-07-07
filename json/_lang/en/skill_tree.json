@@ -13404,16 +13404,16 @@
         "clarity_nt_char_1514": "clarity_nt_char_1514"
     },
     "4469": {
-        "盗賊時　特技の威力が　５　増えた！": ""
+        "盗賊時　特技の威力が　５　増えた！": "Skill power increased by 5 as a Thief!"
     },
     "4470": {
-        "盗賊時　特技の威力が　１０　増えた！": ""
+        "盗賊時　特技の威力が　１０　増えた！": "Skill power increased by 10 as a Thief!"
     },
     "4471": {
         "clarity_nt_char_1515": "clarity_nt_char_1515"
     },
     "4472": {
-        "盗賊時　特技の威力が　２０　増えた！": ""
+        "盗賊時　特技の威力が　２０　増えた！": "Skill power increased by 20 as a Thief!"
     },
     "4473": {
         "clarity_nt_char_1516": "clarity_nt_char_1516"
@@ -13485,16 +13485,16 @@
         "clarity_nt_char_1520": "clarity_nt_char_1520"
     },
     "4496": {
-        "旅芸人時　特技の威力が　５　増えた！": ""
+        "旅芸人時　特技の威力が　５　増えた！": "Skill power increased by 5 as a Minstrel!"
     },
     "4497": {
         "clarity_nt_char_1521": "clarity_nt_char_1521"
     },
     "4498": {
-        "旅芸人時　特技の威力が　１０　増えた！": ""
+        "旅芸人時　特技の威力が　１０　増えた！": "Skill power increased by 10 as a Minstrel!"
     },
     "4499": {
-        "旅芸人時　特技の威力が　２０　増えた！": ""
+        "旅芸人時　特技の威力が　２０　増えた！": "Skill power increased by 20 as a Minstrel!"
     },
     "4500": {
         "旅芸人時　回復特技の回復量が　５増えた！": ""
@@ -13590,16 +13590,16 @@
         "clarity_nt_char_1534": "clarity_nt_char_1534"
     },
     "4531": {
-        "バトルマスター時　特技の威力が　５　増えた！": ""
+        "バトルマスター時　特技の威力が　５　増えた！": "Skill power increased by 5 as a Battlemaster!"
     },
     "4532": {
         "clarity_nt_char_1535": "clarity_nt_char_1535"
     },
     "4533": {
-        "バトルマスター時　特技の威力が　１０　増えた！": ""
+        "バトルマスター時　特技の威力が　１０　増えた！": "Skill power increased by 10 as a Battlemaster!"
     },
     "4534": {
-        "バトルマスター時　特技の威力が　２０　増えた！": ""
+        "バトルマスター時　特技の威力が　２０　増えた！": "Skill power increased by 20 as a Battlemaster!"
     },
     "4535": {
         "バトルマスター時　特技を使ったとき|会心のいちげきが　０．５％　出やすくなった！": ""
@@ -13698,16 +13698,16 @@
         "clarity_nt_char_1549": "clarity_nt_char_1549"
     },
     "4567": {
-        "パラディン時　特技の威力が　５　増えた！": ""
+        "パラディン時　特技の威力が　５　増えた！": "Skill power increased by 5 as a Paladin!"
     },
     "4568": {
         "clarity_nt_char_1550": "clarity_nt_char_1550"
     },
     "4569": {
-        "パラディン時　特技の威力が　１０　増えた！": ""
+        "パラディン時　特技の威力が　１０　増えた！": "Skill power increased by 10 as a Paladin!"
     },
     "4570": {
-        "パラディン時　特技の威力が　２０　増えた！": ""
+        "パラディン時　特技の威力が　２０　増えた！": "Skill power increased by 20 as a Paladin!"
     },
     "4571": {
         "パラディン時　特技を使ったとき|会心のいちげきが　０．５％　出やすくなった！": ""
@@ -13809,16 +13809,16 @@
         "clarity_nt_char_1565": "clarity_nt_char_1565"
     },
     "4604": {
-        "魔法戦士時　特技の威力が　５　増えた！": "Skill power increased by 5 while ARM!"
+        "魔法戦士時　特技の威力が　５　増えた！": "Skill power increased by 5 as an|Armamentalist!"
     },
     "4605": {
-        "魔法戦士時　特技の威力が　１０　増えた！": "Skill power increased by 10 while ARM!"
+        "魔法戦士時　特技の威力が　１０　増えた！": "Skill power increased by 10 as an|Armamentalist!"
     },
     "4606": {
         "clarity_nt_char_1566": "clarity_nt_char_1566"
     },
     "4607": {
-        "魔法戦士時　特技の威力が　２０　増えた！": "Skill power increased by 20 while ARM!"
+        "魔法戦士時　特技の威力が　２０　増えた！": "Skill power increased by 20 as an|Armamentalist!"
     },
     "4608": {
         "clarity_nt_char_1567": "clarity_nt_char_1567"
@@ -13896,13 +13896,13 @@
         "clarity_nt_char_1573": "clarity_nt_char_1573"
     },
     "4633": {
-        "レンジャー時　特技の威力が　５　増えた！": ""
+        "レンジャー時　特技の威力が　５　増えた！": "Skill power increased by 5 as a Ranger!"
     },
     "4634": {
         "clarity_nt_char_1574": "clarity_nt_char_1574"
     },
     "4635": {
-        "レンジャー時　特技の威力が　１０　増えた！": ""
+        "レンジャー時　特技の威力が　１０　増えた！": "Skill power increased by 10 as a Ranger!"
     },
     "4636": {
         "レンジャー時　特技の威力が　２０　増えた！": ""
