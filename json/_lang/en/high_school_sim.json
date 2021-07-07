@@ -4347,7 +4347,7 @@
         "フワフワダンスの特技を　おぼえた！": "You learned Fluffle Dance!"
     },
     "1450": {
-        "みのまもりが　５０　増えた！": ""
+        "みのまもりが　５０　増えた！": "Resilience increased by 50!"
     },
     "1451": {
         "clarity_nt_char_476": "clarity_nt_char_476"
@@ -4692,7 +4692,7 @@
         "さいだいＨＰが　４０　増えた！": "Max HP increased by 40!"
     },
     "1565": {
-        "みのまもりが　６０　増えた！": ""
+        "みのまもりが　６０　増えた！": "Resilience increased by 60!"
     },
     "1566": {
         "clarity_nt_char_509": "clarity_nt_char_509"
@@ -5127,7 +5127,7 @@
         "clarity_nt_char_560": "clarity_nt_char_560"
     },
     "1710": {
-        "みのまもりが　３０　増えた！": ""
+        "みのまもりが　３０　増えた！": "Resilience increased by 30!"
     },
     "1711": {
         "clarity_nt_char_561": "clarity_nt_char_561"
@@ -5214,7 +5214,7 @@
         "ウルトラパワーの特技を　おぼえた！": ""
     },
     "1739": {
-        "みのまもりが　４５　増えた！": ""
+        "みのまもりが　４５　増えた！": "Resilience increased by 45!"
     },
     "1740": {
         "clarity_nt_char_568": "clarity_nt_char_568"
@@ -5379,7 +5379,7 @@
         "魔道砲の威力が　あがった！": ""
     },
     "1794": {
-        "みのまもりが　８０　増えた！": ""
+        "みのまもりが　８０　増えた！": "Resilience increased by 80!"
     },
     "1795": {
         "clarity_nt_char_590": "clarity_nt_char_590"
@@ -6282,7 +6282,7 @@
         "clarity_nt_char_691": "clarity_nt_char_691"
     },
     "2095": {
-        "みのまもりが　１５　増えた！": ""
+        "みのまもりが　１５　増えた！": "Resilience increased by 15!"
     },
     "2096": {
         "clarity_nt_char_692": "clarity_nt_char_692"
@@ -7740,7 +7740,7 @@
         "clarity_nt_char_848": "clarity_nt_char_848"
     },
     "2581": {
-        "常時|みのまもりが|５０増える": "Always|+50 resilience|"
+        "常時|みのまもりが|５０増える": "Resilience|increased by 50."
     },
     "2582": {
         "敵が減ると安心し|ＭＰが少し回復|するようになる": ""
@@ -8070,7 +8070,7 @@
         "clarity_nt_char_884": "clarity_nt_char_884"
     },
     "2691": {
-        "常時|みのまもりが|６０増える": "Always|+60 resilience|"
+        "常時|みのまもりが|６０増える": "Resilience|increased by 60."
     },
     "2692": {
         "光のチカラを|その身に宿して|敵を攻撃する": ""
@@ -8406,7 +8406,7 @@
         "やみくもに突撃し|敵１体に攻撃する": "Blindly attack|an enemy."
     },
     "2803": {
-        "常時|みのまもりが|３０増える": "Always|+30 resilience|"
+        "常時|みのまもりが|３０増える": "Resilience|increased by 30."
     },
     "2804": {
         "敵を倒すと|テンションアップ|するときがある": "Defeating enemy|has a chance to|increase tension."
@@ -8493,7 +8493,7 @@
         "clarity_nt_char_927": "clarity_nt_char_927"
     },
     "2832": {
-        "常時|みのまもりが|４５増える": "Always|+45 resilience|"
+        "常時|みのまもりが|４５増える": "Resilience|increased by 45."
     },
     "2833": {
         "敵１体を叩き付け|大ダメージを与え|ひるませる": ""
@@ -8601,7 +8601,7 @@
         "自家発電で|自分のＭＰが|少しずつ回復する": ""
     },
     "2868": {
-        "常時|みのまもりが|８０増える": "Always|+80 resilience|"
+        "常時|みのまもりが|８０増える": "Resilience|increased by 80."
     },
     "2869": {
         "おいかぜの|効果時間が|１０秒増える": "Blowback's|time increased|by 10 seconds."
@@ -9321,7 +9321,7 @@
         "clarity_nt_char_1025": "clarity_nt_char_1025"
     },
     "3108": {
-        "常時|みのまもりが|１５増える": "Always|+15 resilience|"
+        "常時|みのまもりが|１５増える": "Resilience|increased by 15."
     },
     "3109": {
         "戦闘開始時|たまにスカラ|が発動する": ""
@@ -9546,7 +9546,7 @@
         "clarity_nt_char_1050": "clarity_nt_char_1050"
     },
     "3183": {
-        "みのまもりが|５０増える": ""
+        "みのまもりが|５０増える": "Resilience|increased by 50."
     },
     "3184": {
         "clarity_nt_char_1051": "clarity_nt_char_1051"
@@ -9597,7 +9597,7 @@
         "clarity_nt_char_1055": "clarity_nt_char_1055"
     },
     "3200": {
-        "常時|みのまもりが|１０増える": "Always|+10 resilience|"
+        "常時|みのまもりが|１０増える": "Resilience|increased by 10."
     },
     "3201": {
         "周囲の敵を|凍てつく氷で|こごえさせる": "Freeze nearby|enemies with|ice power."
