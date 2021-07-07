@@ -23241,22 +23241,22 @@
         "clarity_nt_char_2622": "clarity_nt_char_2622"
     },
     "7748": {
-        "<%sM_TargetParty>の状態を 確認しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Checking the status of <%sM_TargetParty> <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
+        "<%sM_TargetParty>の状態を 確認しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Checking the status of <%sM_TargetParty>... <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "7749": {
         "clarity_nt_char_2623": "clarity_nt_char_2623"
     },
     "7750": {
-        "３人目の<%sM_PTMember>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Looking for a third <%sM_PTMember> <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
+        "３人目の<%sM_PTMember>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Looking for third member...<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "7751": {
-        "パーティ状態を 確認しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": ""
+        "パーティ状態を 確認しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Checking party status...<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "7752": {
         "clarity_nt_char_2624": "clarity_nt_char_2624"
     },
     "7753": {
-        "４人目の<%sM_PTMember>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Looking for a fourth <%sM_PTMember> <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
+        "４人目の<%sM_PTMember>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Looking for a fourth member... <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "7754": {
         "<%sM_TargetParty>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Looking for members..."
@@ -23538,7 +23538,7 @@
         "clarity_nt_char_2654": "clarity_nt_char_2654"
     },
     "7847": {
-        "<%sL_PRIZE_ITEM_S>　<%nL_NUM>個": "<%sL_PRIZE_ITEM_S> <%nL_NUM>pcs"
+        "<%sL_PRIZE_ITEM_S>　<%nL_NUM>個": "<%nL_NUM> <%sL_PRIZE_ITEM_S>"
     },
     "7848": {
         "妖精の姿見のカラーをセットする": ""
@@ -23634,7 +23634,7 @@
         "(<%sM_job>)": ""
     },
     "7879": {
-        "<%sM_job>のスキル": "<%sM_job> skills"
+        "<%sM_job>のスキル": "<%sM_job> Skills"
     },
     "7880": {
         "<%sM_page>": ""
@@ -23658,7 +23658,7 @@
         "clarity_nt_char_2668": "clarity_nt_char_2668"
     },
     "7887": {
-        "<%dM_total>回": ""
+        "<%dM_total>回": "<%dM_total>"
     },
     "7888": {
         "clarity_nt_char_2669": "clarity_nt_char_2669"
