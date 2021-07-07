@@ -24546,7 +24546,7 @@
         "clarity_nt_char_2764": "clarity_nt_char_2764"
     },
     "8183": {
-        "<%sM_pc>のプレイヤーイベント（概要）": "Player Events for <%sM_pc> (summary)"
+        "<%sM_pc>のプレイヤーイベント（概要）": "Player Events for <%sM_pc> (Summary)"
     },
     "8184": {
         "clarity_nt_char_2765": "clarity_nt_char_2765"
@@ -24717,16 +24717,16 @@
         "<%dM_min>:<%dM_sec>:<%dM_mirisec>": ""
     },
     "8240": {
-        "６人目の<%sM_PTMember>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Looking for the sixth <%sM_PTMember> <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
+        "６人目の<%sM_PTMember>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Looking for sixth <%sM_PTMember>... <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "8241": {
-        "５人目の<%sM_PTMember>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Looking for a fifth <%sM_PTMember> <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
+        "５人目の<%sM_PTMember>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Looking for fifth <%sM_PTMember>... <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "8242": {
-        "ふたつ目の<%sM_TargetParty>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": ""
+        "ふたつ目の<%sM_TargetParty>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Looking for second <%sM_TargetParty>...<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "8243": {
-        "<color_yellow>地下<%nM_OPEN_FLOOR>階が　選べるようになりました！": "<color_yellow>You can now choose basement floor <%nM_OPEN_FLOOR>!"
+        "<color_yellow>地下<%nM_OPEN_FLOOR>階が　選べるようになりました！": "<color_yellow>You can now choose B<%dM_OPEN_FLOOR>F!"
     },
     "8244": {
         "モンスターへ": ""
@@ -24993,7 +24993,7 @@
         "clarity_nt_char_2818": "clarity_nt_char_2818"
     },
     "8332": {
-        "<%1dM_min>分<%02dM_sec>秒": ""
+        "<%1dM_min>分<%02dM_sec>秒": "<%1dM_min>m. <%02dM_sec>s."
     },
     "8333": {
         "レースを棄権する": ""
