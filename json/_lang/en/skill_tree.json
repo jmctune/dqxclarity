@@ -16593,10 +16593,10 @@
         "戦士時|１．０％の確率で|ターン消費しない": "1% chance to|not use a turn as|a Warrior."
     },
     "5532": {
-        "戦士時|１．５％の確率で|ターン消費しない": "1.5% chance to|not use a turn as|a Warrior."
+        "戦士時|１．５％の確率で|ターン消費しない": "1.5% chance to|not use turn as a|Warrior."
     },
     "5533": {
-        "戦士時|２．０％の確率で|ターン消費しない": "2% chance to|not use a turn as|a Warrior."
+        "戦士時|２．０％の確率で|ターン消費しない": "2% chance to|not use turn as a|Warrior."
     },
     "5534": {
         "戦士時|テンションを|１％の確率で維持": "1% chance to not|use tension as a|Warrior."
@@ -16674,10 +16674,10 @@
         "clarity_nt_char_1899": "clarity_nt_char_1899"
     },
     "5559": {
-        "僧侶時|１．０％の確率で|ターン消費しない": ""
+        "僧侶時|１．０％の確率で|ターン消費しない": "1% chance to|not use a turn as|a Priest."
     },
     "5560": {
-        "僧侶時|１．５％の確率で|ターン消費しない": ""
+        "僧侶時|１．５％の確率で|ターン消費しない": "1.5% chance to|not use turn as a|a Priest."
     },
     "5561": {
         "僧侶時|２．０％の確率で|ターン消費しない": ""
