@@ -19938,7 +19938,7 @@
         "タロットを見る": "View Tarot"
     },
     "6647": {
-        "<%sM_Arcanum>のタロットの使用効果": "Effects of using the <%sM_Arcanum> tarot"
+        "<%sM_Arcanum>のタロットの使用効果": "<%sM_Arcanum> Tarot Effects"
     },
     "6648": {
         "通常効果": ""
@@ -20835,7 +20835,7 @@
         "とじる": "Close"
     },
     "6946": {
-        "　　あと <%2dM_time>秒": ""
+        "　　あと <%2dM_time>秒": "<%2dM_time>s. Left"
     },
     "6947": {
         "の目標": " Target"
@@ -21081,7 +21081,7 @@
         "未登録": ""
     },
     "7028": {
-        "<%sM_pc>の最高記録：<%.1fM_fishsize>cm": "Highscore <%sM_pc>: <%.1fM_fishsize>cm"
+        "<%sM_pc>の最高記録：<%.1fM_fishsize>cm": "High Score <%sM_pc>: <%.1fM_fishsize>cm"
     },
     "7029": {
         "clarity_nt_char_2383": "clarity_nt_char_2383"
@@ -21480,7 +21480,7 @@
         "clarity_nt_char_2427": "clarity_nt_char_2427"
     },
     "7161": {
-        "至高の食材 Lv<%dM_syokuzaiLevel>": ""
+        "至高の食材 Lv<%dM_syokuzaiLevel>": "Supreme Ingredient Lv <%dM_syokuzaiLevel>"
     },
     "7162": {
         "この食材で作れる料理": ""
