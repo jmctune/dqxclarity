@@ -13071,13 +13071,13 @@
         "戦士時　特技を使ったとき|会心のいちげきが　１．２％　出やすくなった！": "Critical hit chance of skills increased by 1.2%|as a Warrior!"
     },
     "4358": {
-        "戦士時|受けるダメージを　３　減らすようになった！": "Damage taken reduced by 3 as a Warrior!"
+        "戦士時|受けるダメージを　３　減らすようになった！": "Damage taken is now reduced by 3 as a Warrior!"
     },
     "4359": {
-        "戦士時|受けるダメージを　５　減らすようになった！": "Damage taken reduced by 5 as a Warrior!"
+        "戦士時|受けるダメージを　５　減らすようになった！": "Damage taken is now reduced by 5 as a Warrior!"
     },
     "4360": {
-        "戦士時|受けるダメージを　１０　減らすようになった！": "Damage taken reduced by 10 as a Warrior!"
+        "戦士時|受けるダメージを　１０　減らすようになった！": "Damage taken is now reduced by 10 as a Warrior!"
     },
     "4361": {
         "clarity_nt_char_1482": "clarity_nt_char_1482"
@@ -13140,7 +13140,7 @@
         "僧侶で　呪文を唱えた時|魔力が　１．２％　暴走しやすくなった！": "Your spell haywire chance is increased by 1.2%|as a Priest!"
     },
     "4381": {
-        "僧侶時|受けるダメージを　３　減らすようになった！": "Damage taken reduced by 3 as a Priest!"
+        "僧侶時|受けるダメージを　３　減らすようになった！": "Damage taken is now reduced by 3 as a Priest!"
     },
     "4382": {
         "僧侶時|受けるダメージを　５　減らすようになった！": "Damage taken reduced by 5 as a Priest!"
@@ -13212,31 +13212,31 @@
         "clarity_nt_char_1489": "clarity_nt_char_1489"
     },
     "4405": {
-        "魔法使いで　呪文を唱えた時|さらに魔力が　０．５％　暴走しやすくなった！": ""
+        "魔法使いで　呪文を唱えた時|さらに魔力が　０．５％　暴走しやすくなった！": "Your haywire chance is further increased by 0.5%|as a Mage!"
     },
     "4406": {
         "clarity_nt_char_1490": "clarity_nt_char_1490"
     },
     "4407": {
-        "魔法使いで　呪文を唱えた時|さらに魔力が　０．８％　暴走しやすくなった！": ""
+        "魔法使いで　呪文を唱えた時|さらに魔力が　０．８％　暴走しやすくなった！": "Your haywire chance is further increased by 0.8%|as a Mage!"
     },
     "4408": {
         "clarity_nt_char_1491": "clarity_nt_char_1491"
     },
     "4409": {
-        "魔法使いで　呪文を唱えた時|さらに魔力が　１．２％　暴走しやすくなった！": ""
+        "魔法使いで　呪文を唱えた時|さらに魔力が　１．２％　暴走しやすくなった！": "Your haywire chance is further increased by 1.2%|as a Mage!"
     },
     "4410": {
         "clarity_nt_char_1492": "clarity_nt_char_1492"
     },
     "4411": {
-        "魔法使い時|受けるダメージを　３　減らすようになった！": ""
+        "魔法使い時|受けるダメージを　３　減らすようになった！": "Damage taken reduced by 3 as a Mage!"
     },
     "4412": {
-        "魔法使い時|受けるダメージを　５　減らすようになった！": ""
+        "魔法使い時|受けるダメージを　５　減らすようになった！": "Damage taken reduced by 5 as a Mage!"
     },
     "4413": {
-        "魔法使い時|受けるダメージを　１０　減らすようになった！": ""
+        "魔法使い時|受けるダメージを　１０　減らすようになった！": "Damage taken reduced by 10 as a Mage!"
     },
     "4414": {
         "clarity_nt_char_1493": "clarity_nt_char_1493"
