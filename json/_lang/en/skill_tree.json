@@ -17442,10 +17442,10 @@
         "賢者時|受けるダメージを|３減らす": "Damage Taken -3|when you're a|Sage."
     },
     "5815": {
-        "賢者時|受けるダメージを|５減らす": ""
+        "賢者時|受けるダメージを|５減らす": "Damage Taken -5|when you're a|Sage."
     },
     "5816": {
-        "賢者時|受けるダメージを|１０減らす": ""
+        "賢者時|受けるダメージを|１０減らす": "Damage Taken -10|when you're a|Sage."
     },
     "5817": {
         "clarity_nt_char_1990": "clarity_nt_char_1990"
@@ -17526,13 +17526,13 @@
         "スパスタ時|呪文の威力と|回復が２０増える": ""
     },
     "5843": {
-        "スパスタ時|受けるダメージを|３減らす": ""
+        "スパスタ時|受けるダメージを|３減らす": "Damage Taken -3|when you're a|Superstar."
     },
     "5844": {
-        "スパスタ時|受けるダメージを|５減らす": ""
+        "スパスタ時|受けるダメージを|５減らす": "Damage Taken -5|when you're a|Superstar."
     },
     "5845": {
-        "スパスタ時|受けるダメージを|１０減らす": ""
+        "スパスタ時|受けるダメージを|１０減らす": "Damage Taken -10|when you're a|Superstar."
     },
     "5846": {
         "clarity_nt_char_1997": "clarity_nt_char_1997"
@@ -17589,19 +17589,19 @@
         "clarity_nt_char_2001": "clarity_nt_char_2001"
     },
     "5864": {
-        "まもの使い時|受けるダメージを|３減らす": ""
+        "まもの使い時|受けるダメージを|３減らす": "Damage Taken -3|when you're a|Monster Master."
     },
     "5865": {
         "clarity_nt_char_2002": "clarity_nt_char_2002"
     },
     "5866": {
-        "まもの使い時|受けるダメージを|５減らす": ""
+        "まもの使い時|受けるダメージを|５減らす": "Damage Taken -5|when you're a|Monster Master."
     },
     "5867": {
         "clarity_nt_char_2003": "clarity_nt_char_2003"
     },
     "5868": {
-        "まもの使い時|受けるダメージを|１０減らす": ""
+        "まもの使い時|受けるダメージを|１０減らす": "Damage Taken -10|when you're a|Monster Master."
     },
     "5869": {
         "まもの使い時|身かわし率が|０．５％増える": "Dodge Rate +0.5%|when you're a|Monster Master."
@@ -17685,19 +17685,19 @@
         "clarity_nt_char_2014": "clarity_nt_char_2014"
     },
     "5896": {
-        "どうぐ使い時|受けるダメージを|３減らす": ""
+        "どうぐ使い時|受けるダメージを|３減らす": "Damage Taken -3|when you're an|Item Master."
     },
     "5897": {
         "clarity_nt_char_2015": "clarity_nt_char_2015"
     },
     "5898": {
-        "どうぐ使い時|受けるダメージを|５減らす": ""
+        "どうぐ使い時|受けるダメージを|５減らす": "Damage Taken -5|when you're an|Item Master."
     },
     "5899": {
         "clarity_nt_char_2016": "clarity_nt_char_2016"
     },
     "5900": {
-        "どうぐ使い時|受けるダメージを|１０減らす": ""
+        "どうぐ使い時|受けるダメージを|１０減らす": "Damage Taken -10|when you're an|Item Master."
     },
     "5901": {
         "どうぐ使い時|身かわし率が|０．５％増える": "Dodge Rate +0.5%|when you're an|Item Master."
