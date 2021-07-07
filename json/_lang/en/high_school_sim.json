@@ -819,7 +819,7 @@
         "こうげき魔力が　３０　増えた！": "Magical might increased by 30!"
     },
     "274": {
-        "常時|ちからが|５増える": "Always|+5 strength|"
+        "常時|ちからが|５増える": "Increases|Strength by 5."
     },
     "275": {
         "clarity_nt_char_97": "clarity_nt_char_97"
@@ -3756,10 +3756,10 @@
         "clarity_nt_char_407": "clarity_nt_char_407"
     },
     "1253": {
-        "常時|ちからが|１０増える": "Always|+10 strength|"
+        "常時|ちからが|１０増える": "Increases|Strength by 10."
     },
     "1254": {
-        "常時|こうげき魔力が|１０増える": "Always|+10 Magical|Might"
+        "常時|こうげき魔力が|１０増える": "Increases|Magical Might|by 10."
     },
     "1255": {
         "clarity_nt_char_408": "clarity_nt_char_408"
@@ -3771,13 +3771,13 @@
         "clarity_nt_char_409": "clarity_nt_char_409"
     },
     "1258": {
-        "常時|こうげき魔力が|２０増える": "Always|+20 Magical|Might"
+        "常時|こうげき魔力が|２０増える": "Increases|Magical Might|by 20."
     },
     "1259": {
         "clarity_nt_char_410": "clarity_nt_char_410"
     },
     "1260": {
-        "常時|こうげき魔力が|３０増える": "Always|+30 Magical|Might"
+        "常時|こうげき魔力が|３０増える": "Increases|Magical Might|by 30."
     },
     "1261": {
         "clarity_nt_char_411": "clarity_nt_char_411"
