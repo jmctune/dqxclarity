@@ -18153,7 +18153,7 @@
         "遊び人時|ちからが|３０増える": "Strength +30|when you're|a Gadabout."
     },
     "6052": {
-        "遊び人時|ちからが|５０増える": ""
+        "遊び人時|ちからが|５０増える": "Strength +50|when you're|a Gadabout."
     },
     "6053": {
         "遊び人時|みのまもりが|３０増える": "Resilience +30|when you're|a Gadabout."
@@ -18165,13 +18165,13 @@
         "遊び人時|みのまもりが|６０増える": "Resilience +60|when you're|a Gadabout."
     },
     "6056": {
-        "遊び人時の|状態異常成功率が|１０％増える": ""
+        "遊び人時の|状態異常成功率が|１０％増える": "Status Effect|Success +10% as|a Gadabout."
     },
     "6057": {
-        "遊び人時の|状態異常成功率が|２５％増える": ""
+        "遊び人時の|状態異常成功率が|２５％増える": "Status Effect|Success +25% as|a Gadabout."
     },
     "6058": {
-        "遊び人時の|状態異常成功率が|５０％増える": ""
+        "遊び人時の|状態異常成功率が|５０％増える": "Status Effect|Success +50% as|a Gadabout."
     },
     "6059": {
         "蘇生時対象に|バイキルトの|発動が５０％増加": ""

@@ -25428,7 +25428,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 詠唱速度が 速くなった！": ""
     },
     "8477": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 状態異常成功率が あがった！！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 状態異常成功率が あがった！！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's status effect success rate increased!!"
     },
     "8478": {
         "clarity_nt_char_2820": "clarity_nt_char_2820"
