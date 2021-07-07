@@ -28572,13 +28572,13 @@
         "獲得できる特訓スタンプ": ""
     },
     "9525": {
-        "一匹あたり<%dM_Exp>": ""
+        "一匹あたり<%dM_Exp>": "<%dM_Exp> Per Enemy"
     },
     "9526": {
         "clarity_nt_char_3208": "clarity_nt_char_3208"
     },
     "9527": {
-        "一匹あたり<%dM_Stamp>": ""
+        "一匹あたり<%dM_Stamp>": "<%dM_Stamp> Per Enemy"
     },
     "9528": {
         "clarity_nt_char_3209": "clarity_nt_char_3209"
@@ -28644,7 +28644,7 @@
         "トランプケース": "Daifugo Card Case"
     },
     "9549": {
-        "使うトランプ：<%sM_00>": "Game Cards to use : <%sM_00>"
+        "使うトランプ：<%sM_00>": "Usable Cards: <%sM_00>"
     },
     "9550": {
         "大富豪決定戦": "Daifugo Last Match"
@@ -28902,7 +28902,7 @@
         "C": ""
     },
     "9635": {
-        "第<%nM_00>回　<%sM_tournament>": "<%sM_tournament> #<%nM_00>"
+        "第<%nM_00>回　<%sM_tournament>": "<%sM_tournament> <%nM_00>"
     },
     "9636": {
         "段位": "Dan # "
@@ -29010,10 +29010,10 @@
         "宝珠レベルふりわけ": ""
     },
     "9671": {
-        "[<%sM_job>だけ]": ""
+        "[<%sM_job>だけ]": "[<%sM_job> Only]"
     },
     "9672": {
-        "[<%sM_caption>だけ]": ""
+        "[<%sM_caption>だけ]": "[<%sM_caption> Only]"
     },
     "9673": {
         "<%sM_skill><%sM_state>": "<%sM_skill><%sM_state>"
@@ -29172,19 +29172,19 @@
         "clarity_nt_char_3275": "clarity_nt_char_3275"
     },
     "9725": {
-        "<%nM_num>回": ""
+        "<%nM_num>回": "<%nM_num>"
     },
     "9726": {
         "clarity_nt_char_3276": "clarity_nt_char_3276"
     },
     "9727": {
-        "<%dM_num>回": ""
+        "<%dM_num>回": "<%dM_num>"
     },
     "9728": {
         "clarity_nt_char_3277": "clarity_nt_char_3277"
     },
     "9729": {
-        "ゲーム回数　<%nM_00>回": ""
+        "ゲーム回数　<%nM_00>回": "No. of Games <%nM_00>"
     },
     "9730": {
         "報酬受け取り：娯楽島ラッカラン　大富豪協会員プゴルまで": "Claim Reward: See Daifugo Club Memb. Pugol in Luckland"
@@ -29349,7 +29349,7 @@
         "コンテンツの場所へ移動する": ""
     },
     "9784": {
-        "<%sM_00>とは": "What's<%sM_00>"
+        "<%sM_00>とは": "About <%sM_00>"
     },
     "9785": {
         "clarity_nt_char_3297": "clarity_nt_char_3297"
