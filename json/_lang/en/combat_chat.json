@@ -26169,7 +26169,7 @@
         "clarity_nt_char_2907": "clarity_nt_char_2907"
     },
     "8724": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 特技と呪文の回復量が 20増えた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 特技と呪文の回復量が 20増えた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's skill and spell recovery increased by 20!"
     },
     "8725": {
         "clarity_nt_char_2908": "clarity_nt_char_2908"
@@ -28569,7 +28569,7 @@
         "clarity_nt_char_3166": "clarity_nt_char_3166"
     },
     "9524": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 特技と呪文の回復量が 20増える効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 特技と呪文の回復量が 20増える効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Skill and Spell Recovery +20 effect faded!"
     },
     "9525": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの あそぶと テンションアップの効果が きえた！": ""
@@ -32814,7 +32814,7 @@
         "敵を倒すと10％で|ためる効果がきえた": ""
     },
     "10939": {
-        "特技と呪文の回復量が|20増える効果がきえた": ""
+        "特技と呪文の回復量が|20増える効果がきえた": "Skill/Spell Recovery|+20 effect faded."
     },
     "10940": {
         "clarity_nt_char_3641": "clarity_nt_char_3641"
