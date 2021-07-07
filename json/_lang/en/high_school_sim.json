@@ -7596,7 +7596,7 @@
         "まぶしい光を放ち|周りの敵を攻撃し|目をくらませる": "Damage and blind|nearby enemies|with goo."
     },
     "2533": {
-        "常時|さいだいＨＰが|３０増える": "Always|+30 HP|"
+        "常時|さいだいＨＰが|３０増える": "Maximum HP|increased by 30."
     },
     "2534": {
         "clarity_nt_char_831": "clarity_nt_char_831"
@@ -7707,7 +7707,7 @@
         "clarity_nt_char_844": "clarity_nt_char_844"
     },
     "2570": {
-        "常時|さいだいＨＰが|２０増える": "Always|+20 HP|"
+        "常時|さいだいＨＰが|２０増える": "Maximum HP|increased by 20."
     },
     "2571": {
         "clarity_nt_char_845": "clarity_nt_char_845"
@@ -7941,7 +7941,7 @@
         "clarity_nt_char_870": "clarity_nt_char_870"
     },
     "2648": {
-        "常時|さいだいＨＰが|５０増える": "Always|+50 HP|"
+        "常時|さいだいＨＰが|５０増える": "Maximum HP|increased by 50."
     },
     "2649": {
         "clarity_nt_char_871": "clarity_nt_char_871"
@@ -8064,7 +8064,7 @@
         "強烈な光の|大爆発を起こし|周囲の敵を攻撃": ""
     },
     "2689": {
-        "常時|さいだいＨＰが|４０増える": "Always|+40 HP|"
+        "常時|さいだいＨＰが|４０増える": "Maximum HP|increased by 40."
     },
     "2690": {
         "clarity_nt_char_884": "clarity_nt_char_884"
@@ -8826,7 +8826,7 @@
         "常時|おもさが|１０増える": ""
     },
     "2943": {
-        "常時|さいだいＨＰが|１００増える": "Always|+100 HP|"
+        "常時|さいだいＨＰが|１００増える": "Maximum HP|increased by 100."
     },
     "2944": {
         "両手剣装備で|ドラゴン系攻撃時|威力があがる": ""
@@ -9285,7 +9285,7 @@
         "周囲のＨＰを|２００～回復する": ""
     },
     "3096": {
-        "常時|さいだいＨＰが|１０増える": "Always|+10 HP|"
+        "常時|さいだいＨＰが|１０増える": "Maximum HP|increased by 10."
     },
     "3097": {
         "clarity_nt_char_1021": "clarity_nt_char_1021"
@@ -9552,19 +9552,19 @@
         "clarity_nt_char_1051": "clarity_nt_char_1051"
     },
     "3185": {
-        "さいだいＨＰが|２０増える": ""
+        "さいだいＨＰが|２０増える": "Maximum HP|increased by 20."
     },
     "3186": {
         "ＨＰ１で生き残る|確率が増える": ""
     },
     "3187": {
-        "さいだいＨＰが|３０増える": ""
+        "さいだいＨＰが|３０増える": "Maximum HP|increased by 30."
     },
     "3188": {
         "戦闘開始時|必ずスカラ|が発動する": ""
     },
     "3189": {
-        "さいだいＨＰが|１００増える": ""
+        "さいだいＨＰが|１００増える": "Maximum HP|increased by 100."
     },
     "3190": {
         "clarity_nt_char_1052": "clarity_nt_char_1052"
