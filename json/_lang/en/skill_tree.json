@@ -15972,19 +15972,19 @@
         "ブーメラン装備時|かいしん率が|１％増える": "Crit. Rate +1%|when a Boomerang|is equipped."
     },
     "5325": {
-        "ブーメラン装備時|かいしん率が|１．２％増える": ""
+        "ブーメラン装備時|かいしん率が|１．２％増える": "Crit. Rate +1.2%|when a Boomerang|is equipped."
     },
     "5326": {
-        "ブーメラン装備時|かいしん率が|１．５％増える": ""
+        "ブーメラン装備時|かいしん率が|１．５％増える": "Crit. Rate +1.5%|when a Boomerang|is equipped."
     },
     "5327": {
-        "ブーメラン装備時|さいだいＭＰが|２０増える": ""
+        "ブーメラン装備時|さいだいＭＰが|２０増える": "Max MP +20|when a Boomerang|is equipped."
     },
     "5328": {
         "clarity_nt_char_1816": "clarity_nt_char_1816"
     },
     "5329": {
-        "ブーメラン装備時|さいだいＭＰが|３０増える": ""
+        "ブーメラン装備時|さいだいＭＰが|３０増える": "Max MP +30|when a Boomerang|is equipped."
     },
     "5330": {
         "clarity_nt_char_1817": "clarity_nt_char_1817"
@@ -16536,16 +16536,16 @@
         "敵１体の激怒を|解除する|戦士専用特技": ""
     },
     "5513": {
-        "戦士時|特技の威力が|５増える": "Skill Power +5|when you are|a Warrior."
+        "戦士時|特技の威力が|５増える": "Skill Power +5|when you're|a Warrior."
     },
     "5514": {
-        "戦士時|特技の威力が|１０増える": "Skill Power +10|when you are|a Warrior."
+        "戦士時|特技の威力が|１０増える": "Skill Power +10|when you're|a Warrior."
     },
     "5515": {
         "clarity_nt_char_1885": "clarity_nt_char_1885"
     },
     "5516": {
-        "戦士時|特技の威力が|２０増える": "Skill Power +20|when you are|a Warrior."
+        "戦士時|特技の威力が|２０増える": "Skill Power +20|when you're|a Warrior."
     },
     "5517": {
         "clarity_nt_char_1886": "clarity_nt_char_1886"
@@ -16698,16 +16698,16 @@
         "clarity_nt_char_1900": "clarity_nt_char_1900"
     },
     "5567": {
-        "魔法使い時|攻撃呪文の威力が|５増える": "Spell Power +5|when you are|a Mage."
+        "魔法使い時|攻撃呪文の威力が|５増える": "Spell Power +5|when you're|a Mage."
     },
     "5568": {
-        "魔法使い時|攻撃呪文の威力が|１０増える": "Spell Power +10|when you are|a Mage."
+        "魔法使い時|攻撃呪文の威力が|１０増える": "Spell Power +10|when you're|a Mage."
     },
     "5569": {
         "clarity_nt_char_1901": "clarity_nt_char_1901"
     },
     "5570": {
-        "魔法使い時|攻撃呪文の威力が|２０増える": "Spell Power +20|when you are|a Mage."
+        "魔法使い時|攻撃呪文の威力が|２０増える": "Spell Power +20|when you're|a Mage."
     },
     "5571": {
         "clarity_nt_char_1902": "clarity_nt_char_1902"
@@ -16788,10 +16788,10 @@
         "clarity_nt_char_1910": "clarity_nt_char_1910"
     },
     "5597": {
-        "武闘家時|特技の威力が|１０増える": "Skill Power +10|when you are|a Martial Artist."
+        "武闘家時|特技の威力が|１０増える": "Skill Power +10|when you're|a Martial Artist."
     },
     "5598": {
-        "武闘家時|特技の威力が|２０増える": "Skill Power +20|when you are|a Martial Artist."
+        "武闘家時|特技の威力が|２０増える": "Skill Power +20|when you're|a Martial Artist."
     },
     "5599": {
         "武闘家時|特技の会心率が|０．５％増える": ""
@@ -16875,16 +16875,16 @@
         "テンションを|敵１体から奪う|盗賊専用特技": ""
     },
     "5626": {
-        "盗賊時|特技の威力が|５増える": "Skill Power +5|when you are|a Thief."
+        "盗賊時|特技の威力が|５増える": "Skill Power +5|when you're|a Thief."
     },
     "5627": {
-        "盗賊時|特技の威力が|１０増える": "Skill Power +10|when you are|a Thief."
+        "盗賊時|特技の威力が|１０増える": "Skill Power +10|when you're|a Thief."
     },
     "5628": {
         "clarity_nt_char_1922": "clarity_nt_char_1922"
     },
     "5629": {
-        "盗賊時|特技の威力が|２０増える": "Skill Power +20|when you are|a Thief."
+        "盗賊時|特技の威力が|２０増える": "Skill Power +20|when you're|a Thief."
     },
     "5630": {
         "clarity_nt_char_1923": "clarity_nt_char_1923"
@@ -16950,16 +16950,16 @@
         "周囲のＨＰを|２００～回復する|旅芸人専用特技": ""
     },
     "5651": {
-        "旅芸人時|特技の威力が|５増える": "Skill Power +5|when you are|a Minstrel."
+        "旅芸人時|特技の威力が|５増える": "Skill Power +5|when you're|a Minstrel."
     },
     "5652": {
         "clarity_nt_char_1928": "clarity_nt_char_1928"
     },
     "5653": {
-        "旅芸人時|特技の威力が|１０増える": "Skill Power +10|when you are|a Minstrel."
+        "旅芸人時|特技の威力が|１０増える": "Skill Power +10|when you're|a Minstrel."
     },
     "5654": {
-        "旅芸人時|特技の威力が|２０増える": "Skill Power +20|when you are|a Minstrel."
+        "旅芸人時|特技の威力が|２０増える": "Skill Power +20|when you're|a Minstrel."
     },
     "5655": {
         "旅芸人時|特技の回復量が|５増える": ""
@@ -17049,16 +17049,16 @@
         "clarity_nt_char_1941": "clarity_nt_char_1941"
     },
     "5684": {
-        "バトマス時|特技の威力が|５増える": "Skill Power +5|when you are|a Battlemaster."
+        "バトマス時|特技の威力が|５増える": "Skill Power +5|when you're|a Battlemaster."
     },
     "5685": {
-        "バトマス時|特技の威力が|１０増える": "Skill Power +10|when you are|a Battlemaster."
+        "バトマス時|特技の威力が|１０増える": "Skill Power +10|when you're|a Battlemaster."
     },
     "5686": {
         "clarity_nt_char_1942": "clarity_nt_char_1942"
     },
     "5687": {
-        "バトマス時|特技の威力が|２０増える": "Skill Power +20|when you are|a Battlemaster."
+        "バトマス時|特技の威力が|２０増える": "Skill Power +20|when you're|a Battlemaster."
     },
     "5688": {
         "clarity_nt_char_1943": "clarity_nt_char_1943"
@@ -17127,16 +17127,16 @@
         "clarity_nt_char_1948": "clarity_nt_char_1948"
     },
     "5710": {
-        "パラディン時|特技の威力が|５増える": "Skill Power +5|when you are|a Paladin."
+        "パラディン時|特技の威力が|５増える": "Skill Power +5|when you're|a Paladin."
     },
     "5711": {
         "clarity_nt_char_1949": "clarity_nt_char_1949"
     },
     "5712": {
-        "パラディン時|特技の威力が|１０増える": "Skill Power +10|when you are|a Paladin."
+        "パラディン時|特技の威力が|１０増える": "Skill Power +10|when you're|a Paladin."
     },
     "5713": {
-        "パラディン時|特技の威力が|２０増える": "Skill Power +20|when you are|a Paladin."
+        "パラディン時|特技の威力が|２０増える": "Skill Power +20|when you're|a Paladin."
     },
     "5714": {
         "パラディン時|特技の会心率が|０．５％増える": ""
@@ -17226,31 +17226,31 @@
         "周囲にピオラと|チャージ１０秒短|魔法戦士専用特技": "Reduces party's|action wait and|CT skills by 10s."
     },
     "5743": {
-        "魔法戦士時|特技の威力が|５増える": "Skill Power +5|when you are an|Armamentalist."
+        "魔法戦士時|特技の威力が|５増える": "Skill Power +5|when you're an|Armamentalist."
     },
     "5744": {
-        "魔法戦士時|特技の威力が|１０増える": "Skill Power +10|when you are an|Armamentalist."
+        "魔法戦士時|特技の威力が|１０増える": "Skill Power +10|when you're an|Armamentalist."
     },
     "5745": {
         "clarity_nt_char_1963": "clarity_nt_char_1963"
     },
     "5746": {
-        "魔法戦士時|特技の威力が|２０増える": "Skill Power +20|when you are an|Armamentalist."
+        "魔法戦士時|特技の威力が|２０増える": "Skill Power +20|when you're an|Armamentalist."
     },
     "5747": {
         "clarity_nt_char_1964": "clarity_nt_char_1964"
     },
     "5748": {
-        "魔法戦士時|攻撃呪文の威力が|５増える": "Spell Power +5|when you are an|Armamentalist."
+        "魔法戦士時|攻撃呪文の威力が|５増える": "Spell Power +5|when you're an|Armamentalist."
     },
     "5749": {
-        "魔法戦士時|攻撃呪文の威力が|１０増える": "Spell Power +10|when you are an|Armamentalist."
+        "魔法戦士時|攻撃呪文の威力が|１０増える": "Spell Power +10|when you're an|Armamentalist."
     },
     "5750": {
         "clarity_nt_char_1965": "clarity_nt_char_1965"
     },
     "5751": {
-        "魔法戦士時|攻撃呪文の威力が|２０増える": "Spell Power +20|when you are an|Armamentalist."
+        "魔法戦士時|攻撃呪文の威力が|２０増える": "Spell Power +20|when you're an|Armamentalist."
     },
     "5752": {
         "clarity_nt_char_1966": "clarity_nt_char_1966"
@@ -17310,16 +17310,16 @@
         "clarity_nt_char_1971": "clarity_nt_char_1971"
     },
     "5771": {
-        "レンジャー時|特技の威力が|５増える": "Skill Power +5|when you are|a Ranger."
+        "レンジャー時|特技の威力が|５増える": "Skill Power +5|when you're|a Ranger."
     },
     "5772": {
         "clarity_nt_char_1972": "clarity_nt_char_1972"
     },
     "5773": {
-        "レンジャー時|特技の威力が|１０増える": "Skill Power +10|when you are|a Ranger."
+        "レンジャー時|特技の威力が|１０増える": "Skill Power +10|when you're|a Ranger."
     },
     "5774": {
-        "レンジャー時|特技の威力が|２０増える": "Skill Power +20|when you are|a Ranger."
+        "レンジャー時|特技の威力が|２０増える": "Skill Power +20|when you're|a Ranger."
     },
     "5775": {
         "レンジャー時|特技の会心率が|０．５％増える": ""
@@ -17490,16 +17490,16 @@
         "敵周囲を攻撃し|消費Ｇを０にする|スパスタ専用特技": ""
     },
     "5831": {
-        "スパスタ時|特技の威力が|５増える": "Skill Power +5|when you are|a Superstar."
+        "スパスタ時|特技の威力が|５増える": "Skill Power +5|when you're|a Superstar."
     },
     "5832": {
-        "スパスタ時|特技の威力が|１０増える": "Skill Power +10|when you are|a Superstar."
+        "スパスタ時|特技の威力が|１０増える": "Skill Power +10|when you're|a Superstar."
     },
     "5833": {
         "clarity_nt_char_1994": "clarity_nt_char_1994"
     },
     "5834": {
-        "スパスタ時|特技の威力が|２０増える": "Skill Power +20|when you are|a Superstar."
+        "スパスタ時|特技の威力が|２０増える": "Skill Power +20|when you're|a Superstar."
     },
     "5835": {
         "clarity_nt_char_1995": "clarity_nt_char_1995"
@@ -17559,16 +17559,16 @@
         "敵モンスターを|２体呼び寄せる|まもの使い専用": ""
     },
     "5854": {
-        "まもの使い時|特技の威力が|５増える": "Skill Power +5|when you are|a Monster Master."
+        "まもの使い時|特技の威力が|５増える": "Skill Power +5|when you're|a Monster Master."
     },
     "5855": {
         "clarity_nt_char_1998": "clarity_nt_char_1998"
     },
     "5856": {
-        "まもの使い時|特技の威力が|１０増える": "Skill Power +10|when you are|a Monster Master."
+        "まもの使い時|特技の威力が|１０増える": "Skill Power +10|when you're|a Monster Master."
     },
     "5857": {
-        "まもの使い時|特技の威力が|２０増える": "Skill Power +20|when you are|a Monster Master."
+        "まもの使い時|特技の威力が|２０増える": "Skill Power +20|when you're|a Monster Master."
     },
     "5858": {
         "まもの使い時|特技の会心率が|０．５％増える": ""
@@ -17655,16 +17655,16 @@
         "clarity_nt_char_2010": "clarity_nt_char_2010"
     },
     "5886": {
-        "どうぐ使い時|特技の威力が|５増える": "Skill Power +5|when you are|an Item Master."
+        "どうぐ使い時|特技の威力が|５増える": "Skill Power +5|when you're|an Item Master."
     },
     "5887": {
         "clarity_nt_char_2011": "clarity_nt_char_2011"
     },
     "5888": {
-        "どうぐ使い時|特技の威力が|１０増える": "Skill Power +10|when you are|an Item Master."
+        "どうぐ使い時|特技の威力が|１０増える": "Skill Power +10|when you're|an Item Master."
     },
     "5889": {
-        "どうぐ使い時|特技の威力が|２０増える": "Skill Power +20|when you are|an Item Master."
+        "どうぐ使い時|特技の威力が|２０増える": "Skill Power +20|when you're|an Item Master."
     },
     "5890": {
         "どうぐ使い時|特技の会心率が|０．５％増える": ""
@@ -17751,28 +17751,28 @@
         "clarity_nt_char_2023": "clarity_nt_char_2023"
     },
     "5918": {
-        "踊り子時|特技の威力が|５増える": "Skill Power +5|when you are|a Dancer."
+        "踊り子時|特技の威力が|５増える": "Skill Power +5|when you're|a Dancer."
     },
     "5919": {
         "clarity_nt_char_2024": "clarity_nt_char_2024"
     },
     "5920": {
-        "踊り子時|特技の威力が|１０増える": "Skill Power +10|when you are|a Dancer."
+        "踊り子時|特技の威力が|１０増える": "Skill Power +10|when you're|a Dancer."
     },
     "5921": {
-        "踊り子時|特技の威力が|２０増える": "Skill Power +20|when you are|a Dancer."
+        "踊り子時|特技の威力が|２０増える": "Skill Power +20|when you're|a Dancer."
     },
     "5922": {
-        "踊り子時|攻撃呪文の威力が|５増える": "Spell Power +5|when you are|a Dancer."
+        "踊り子時|攻撃呪文の威力が|５増える": "Spell Power +5|when you're|a Dancer."
     },
     "5923": {
         "clarity_nt_char_2025": "clarity_nt_char_2025"
     },
     "5924": {
-        "踊り子時|攻撃呪文の威力が|１０増える": "Spell Power +10|when you are|a Dancer."
+        "踊り子時|攻撃呪文の威力が|１０増える": "Spell Power +10|when you're|a Dancer."
     },
     "5925": {
-        "踊り子時|攻撃呪文の威力が|２０増える": "Spell Power +20|when you are|a Dancer."
+        "踊り子時|攻撃呪文の威力が|２０増える": "Spell Power +20|when you're|a Dancer."
     },
     "5926": {
         "踊り子時|受けるダメージを|３減らす": ""
@@ -17934,16 +17934,16 @@
         "周囲を巻き込む|地獄の炎で攻撃|天地雷鳴士専用": ""
     },
     "5979": {
-        "天地雷鳴士時|特技の威力が|５増える": "Skill Power +5|when you are|a Druid."
+        "天地雷鳴士時|特技の威力が|５増える": "Skill Power +5|when you're|a Druid."
     },
     "5980": {
         "clarity_nt_char_2046": "clarity_nt_char_2046"
     },
     "5981": {
-        "天地雷鳴士時|特技の威力が|１０増える": "Skill Power +10|when you are|a Druid."
+        "天地雷鳴士時|特技の威力が|１０増える": "Skill Power +10|when you're|a Druid."
     },
     "5982": {
-        "天地雷鳴士時|特技の威力が|２０増える": "Skill Power +20|when you are|a Druid."
+        "天地雷鳴士時|特技の威力が|２０増える": "Skill Power +20|when you're|a Druid."
     },
     "5983": {
         "天地雷鳴士時|特技の会心率が|０．５％増える": ""
@@ -18027,16 +18027,16 @@
         "受けたダメージを|跳ね返す|遊び人専用特技": "Reduces and|reflects damage|taken."
     },
     "6010": {
-        "遊び人時|特技の威力が|５増える": "Skill Power +5|when you are|a Gadabout."
+        "遊び人時|特技の威力が|５増える": "Skill Power +5|when you're|a Gadabout."
     },
     "6011": {
         "clarity_nt_char_2058": "clarity_nt_char_2058"
     },
     "6012": {
-        "遊び人時|特技の威力が|１０増える": "Skill Power +10|when you are|a Gadabout."
+        "遊び人時|特技の威力が|１０増える": "Skill Power +10|when you're|a Gadabout."
     },
     "6013": {
-        "遊び人時|特技の威力が|２０増える": "Skill Power +20|when you are|a Gadabout."
+        "遊び人時|特技の威力が|２０増える": "Skill Power +20|when you're|a Gadabout."
     },
     "6014": {
         "遊び人時|特技の会心率が|０．５％増える": ""
@@ -18117,16 +18117,16 @@
         "clarity_nt_char_2069": "clarity_nt_char_2069"
     },
     "6040": {
-        "遊び人時|さいだいＨＰが|５増える": "Max HP +5|when you are|a Gadabout."
+        "遊び人時|さいだいＨＰが|５増える": "Max HP +5|when you're|a Gadabout."
     },
     "6041": {
-        "遊び人時|さいだいＨＰが|１５増える": "Max HP +15|when you are|a Gadabout."
+        "遊び人時|さいだいＨＰが|１５増える": "Max HP +15|when you're|a Gadabout."
     },
     "6042": {
         "clarity_nt_char_2070": "clarity_nt_char_2070"
     },
     "6043": {
-        "遊び人時|さいだいＨＰが|３０増える": "Max HP +30|when you are|a Gadabout."
+        "遊び人時|さいだいＨＰが|３０増える": "Max HP +30|when you're|a Gadabout."
     },
     "6044": {
         "clarity_nt_char_2071": "clarity_nt_char_2071"
@@ -18156,13 +18156,13 @@
         "遊び人時|ちからが|５０増える": ""
     },
     "6053": {
-        "遊び人時|みのまもりが|３０増える": "Resilience +30|when you are|a Gadabout."
+        "遊び人時|みのまもりが|３０増える": "Resilience +30|when you're|a Gadabout."
     },
     "6054": {
-        "遊び人時|みのまもりが|４５増える": "Resilience +45|when you are|a Gadabout."
+        "遊び人時|みのまもりが|４５増える": "Resilience +45|when you're|a Gadabout."
     },
     "6055": {
-        "遊び人時|みのまもりが|６０増える": "Resilience +60|when you are|a Gadabout."
+        "遊び人時|みのまもりが|６０増える": "Resilience +60|when you're|a Gadabout."
     },
     "6056": {
         "遊び人時の|状態異常成功率が|１０％増える": ""
@@ -18237,31 +18237,31 @@
         "clarity_nt_char_2082": "clarity_nt_char_2082"
     },
     "6080": {
-        "デスマスター時|特技の威力が|５増える": "Skill Power +5|when you are|a Death Master."
+        "デスマスター時|特技の威力が|５増える": "Skill Power +5|when you're|a Death Master."
     },
     "6081": {
-        "デスマスター時|特技の威力が|１０増える": "Skill Power +10|when you are|a Death Master."
+        "デスマスター時|特技の威力が|１０増える": "Skill Power +10|when you're|a Death Master."
     },
     "6082": {
         "clarity_nt_char_2083": "clarity_nt_char_2083"
     },
     "6083": {
-        "デスマスター時|特技の威力が|２０増える": "Skill Power +20|when you are|a Death Master."
+        "デスマスター時|特技の威力が|２０増える": "Skill Power +20|when you're|a Death Master."
     },
     "6084": {
         "clarity_nt_char_2084": "clarity_nt_char_2084"
     },
     "6085": {
-        "デスマスター時|攻撃呪文の威力が|５増える": "Spell Power +5|when you are|a Death Master."
+        "デスマスター時|攻撃呪文の威力が|５増える": "Spell Power +5|when you're|a Death Master."
     },
     "6086": {
-        "デスマスター時|攻撃呪文の威力が|１０増える": "Spell Power +10|when you are|a Death Master."
+        "デスマスター時|攻撃呪文の威力が|１０増える": "Spell Power +10|when you're|a Death Master."
     },
     "6087": {
         "clarity_nt_char_2085": "clarity_nt_char_2085"
     },
     "6088": {
-        "デスマスター時|攻撃呪文の威力が|２０増える": "Spell Power +20|when you are|a Death Master."
+        "デスマスター時|攻撃呪文の威力が|２０増える": "Spell Power +20|when you're|a Death Master."
     },
     "6089": {
         "clarity_nt_char_2086": "clarity_nt_char_2086"
@@ -20943,10 +20943,10 @@
         "clarity_nt_char_2401": "clarity_nt_char_2401"
     },
     "6982": {
-        "魔法使い時|ダメージが|３％増える": "Damage +3%|when you are a|Mage."
+        "魔法使い時|ダメージが|３％増える": "Damage +3%|when you're a|Mage."
     },
     "6983": {
-        "魔法使い時|ダメージが|５％増える": "Damage +5%|when you are a|Mage."
+        "魔法使い時|ダメージが|５％増える": "Damage +5%|when you're a|Mage."
     },
     "6984": {
         "パラディン時　おもさが　５　増えた！": ""
@@ -21999,19 +21999,19 @@
         "デスマスター時|かいふく魔力が　４０　増えた！": ""
     },
     "7334": {
-        "戦士時|みのまもりが|１０増える": "Resilience +10|when you are|a Warrior."
+        "戦士時|みのまもりが|１０増える": "Resilience +10|when you're|a Warrior."
     },
     "7335": {
         "clarity_nt_char_2509": "clarity_nt_char_2509"
     },
     "7336": {
-        "戦士時|みのまもりが|２０増える": "Resilience +20|when you are|a Warrior."
+        "戦士時|みのまもりが|２０増える": "Resilience +20|when you're|a Warrior."
     },
     "7337": {
         "clarity_nt_char_2510": "clarity_nt_char_2510"
     },
     "7338": {
-        "戦士時|みのまもりが|３０増える": "Resilience +30|when you are|a Warrior."
+        "戦士時|みのまもりが|３０増える": "Resilience +30|when you're|a Warrior."
     },
     "7339": {
         "clarity_nt_char_2511": "clarity_nt_char_2511"
@@ -22044,19 +22044,19 @@
         "旅芸人時|カウンター発動率|５％アップ": ""
     },
     "7349": {
-        "パラディン時|みのまもりが|１０増える": "Resilience +10|when you are|a Paladin."
+        "パラディン時|みのまもりが|１０増える": "Resilience +10|when you're|a Paladin."
     },
     "7350": {
-        "パラディン時|みのまもりが|２０増える": "Resilience +20|when you are|a Paladin."
+        "パラディン時|みのまもりが|２０増える": "Resilience +20|when you're|a Paladin."
     },
     "7351": {
-        "パラディン時|みのまもりが|３０増える": "Resilience +30|when you are|a Paladin."
+        "パラディン時|みのまもりが|３０増える": "Resilience +30|when you're|a Paladin."
     },
     "7352": {
-        "賢者時|ダメージが|１％増える": "Damage +1%|when you are a|Sage."
+        "賢者時|ダメージが|１％増える": "Damage +1%|when you're a|Sage."
     },
     "7353": {
-        "賢者時|ダメージが|２％増える": "Damage +2%|when you are a|Sage."
+        "賢者時|ダメージが|２％増える": "Damage +2%|when you're a|Sage."
     },
     "7354": {
         "死亡時|どうぐ倍化術が|５０％で残る": ""
@@ -22929,28 +22929,28 @@
         "敵１体に強力な|闇の３連撃|魔剣士専用特技": ""
     },
     "7644": {
-        "魔剣士時|特技の威力が|５増える": "Skill Power +5|when you are a|Demon Swordsman."
+        "魔剣士時|特技の威力が|５増える": "Skill Power +5|when you're a|Demon Swordsman."
     },
     "7645": {
         "clarity_nt_char_2613": "clarity_nt_char_2613"
     },
     "7646": {
-        "魔剣士時|特技の威力が|１０増える": "Skill Power +10|when you are a|Demon Swordsman."
+        "魔剣士時|特技の威力が|１０増える": "Skill Power +10|when you're a|Demon Swordsman."
     },
     "7647": {
-        "魔剣士時|特技の威力が|２０増える": "Skill Power +20|when you are a|Demon Swordsman."
+        "魔剣士時|特技の威力が|２０増える": "Skill Power +20|when you're a|Demon Swordsman."
     },
     "7648": {
-        "魔剣士時|攻撃呪文の威力が|５増える": "Spell Power +5|when you are a|Demon Swordsman."
+        "魔剣士時|攻撃呪文の威力が|５増える": "Spell Power +5|when you're a|Demon Swordsman."
     },
     "7649": {
         "clarity_nt_char_2614": "clarity_nt_char_2614"
     },
     "7650": {
-        "魔剣士時|攻撃呪文の威力が|１０増える": "Spell Power +10|when you are a|Demon Swordsman."
+        "魔剣士時|攻撃呪文の威力が|１０増える": "Spell Power +10|when you're a|Demon Swordsman."
     },
     "7651": {
-        "魔剣士時|攻撃呪文の威力が|２０増える": "Spell Power +20|when you are a|Demon Swordsman."
+        "魔剣士時|攻撃呪文の威力が|２０増える": "Spell Power +20|when you're a|Demon Swordsman."
     },
     "7652": {
         "魔剣士時|受けるダメージを|３減らす": ""
