@@ -12735,7 +12735,7 @@
         "<%+.1fM_dcpt1><%sM_percent>": ""
     },
     "4246": {
-        "釣りLv<%dM_lv>以上可": "Fishing Lv <%dM_lv> Required"
+        "釣りLv<%dM_lv>以上可": "Fish Lv <%dM_lv> Required"
     },
     "4247": {
         "<%sM_Tairiku> スタンプカード": "<%sM_Tairiku> Stamp Card"
@@ -13224,7 +13224,7 @@
         "clarity_nt_char_1503": "clarity_nt_char_1503"
     },
     "4409": {
-        "<%sM_pc>の記事": ""
+        "<%sM_pc>の記事": "<%sM_pc> Article"
     },
     "4410": {
         "<%2nM_mm>月<%2nM_dd>日": "<%2nM_mm>/<%2nM_dd>"
@@ -13821,7 +13821,7 @@
         "clarity_nt_char_1574": "clarity_nt_char_1574"
     },
     "4608": {
-        "<%sM_pcname>の　個人記録": "Records for <%sM_pcname>"
+        "<%sM_pcname>の　個人記録": "<%sM_pcname>'s Personal Record"
     },
     "4609": {
         "clarity_nt_char_1575": "clarity_nt_char_1575"
