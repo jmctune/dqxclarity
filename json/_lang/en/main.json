@@ -15021,7 +15021,7 @@
         "clarity_nt_char_1700": "clarity_nt_char_1700"
     },
     "5008": {
-        "特訓スキルポイント（最大 <%dM_tokkun_sp_max> P）": ""
+        "特訓スキルポイント（最大 <%dM_tokkun_sp_max> P）": "Special Training Skill Points (Max <%dM_tokkun_sp_max> P)"
     },
     "5009": {
         "ランキングの集計が終わるまで　お待ちください": ""
@@ -15165,7 +15165,7 @@
         "clarity_nt_char_1714": "clarity_nt_char_1714"
     },
     "5056": {
-        "次のランクアップ試験まで　あと<%dM_point>ポイント": ""
+        "次のランクアップ試験まで　あと<%dM_point>ポイント": "<%dM_point> Points Left Until Next Rank"
     },
     "5057": {
         "clarity_nt_char_1715": "clarity_nt_char_1715"
