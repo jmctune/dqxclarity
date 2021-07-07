@@ -17301,7 +17301,7 @@
         "魔法戦士時|テンションを|２％の確率で維持": "2% chance to not|use tension as an|Armamentalist."
     },
     "5768": {
-        "魔法戦士時|テンションを|３％の確率で維持": ""
+        "魔法戦士時|テンションを|３％の確率で維持": "3% chance to not|use tension as an|Armamentalist."
     },
     "5769": {
         "黒い魔獣が攻撃し|ダメージも増加|レンジャー専用": ""
@@ -17388,19 +17388,19 @@
         "clarity_nt_char_1982": "clarity_nt_char_1982"
     },
     "5797": {
-        "レンジャー時|テンションを|１％の確率で維持": ""
+        "レンジャー時|テンションを|１％の確率で維持": "1% chance to not|use tension as a|Ranger."
     },
     "5798": {
         "clarity_nt_char_1983": "clarity_nt_char_1983"
     },
     "5799": {
-        "レンジャー時|テンションを|２％の確率で維持": ""
+        "レンジャー時|テンションを|２％の確率で維持": "2% chance to not|use tension as a|Ranger."
     },
     "5800": {
         "clarity_nt_char_1984": "clarity_nt_char_1984"
     },
     "5801": {
-        "レンジャー時|テンションを|３％の確率で維持": ""
+        "レンジャー時|テンションを|３％の確率で維持": "3% chance to not|use tension as a|Ranger."
     },
     "5802": {
         "clarity_nt_char_1985": "clarity_nt_char_1985"
@@ -17478,13 +17478,13 @@
         "賢者時|２．０％の確率で|ターン消費しない": "2% chance to|not use turn as a|Sage."
     },
     "5827": {
-        "賢者時|テンションを|１％の確率で維持": ""
+        "賢者時|テンションを|１％の確率で維持": "1% chance to not|use tension as a|Sage."
     },
     "5828": {
-        "賢者時|テンションを|２％の確率で維持": ""
+        "賢者時|テンションを|２％の確率で維持": "2% chance to not|use tension as a|Sage."
     },
     "5829": {
-        "賢者時|テンションを|３％の確率で維持": ""
+        "賢者時|テンションを|３％の確率で維持": "3% chance to not|use tension as a|Sage."
     },
     "5830": {
         "敵周囲を攻撃し|消費Ｇを０にする|スパスタ専用特技": ""
@@ -17547,13 +17547,13 @@
         "スパスタ時|２．０％の確率で|ターン消費しない": "2% chance to|not use turn as a|Superstar."
     },
     "5850": {
-        "スパスタ時|テンションを|１％の確率で維持": ""
+        "スパスタ時|テンションを|１％の確率で維持": "1% chance to not|use tension as a|Superstar."
     },
     "5851": {
-        "スパスタ時|テンションを|２％の確率で維持": ""
+        "スパスタ時|テンションを|２％の確率で維持": "2% chance to not|use tension as a|Superstar."
     },
     "5852": {
-        "スパスタ時|テンションを|３％の確率で維持": ""
+        "スパスタ時|テンションを|３％の確率で維持": "3% chance to not|use tension as a|Superstar."
     },
     "5853": {
         "敵モンスターを|２体呼び寄せる|まもの使い専用": ""
@@ -17631,19 +17631,19 @@
         "clarity_nt_char_2006": "clarity_nt_char_2006"
     },
     "5878": {
-        "まもの使い時|テンションを|１％の確率で維持": ""
+        "まもの使い時|テンションを|１％の確率で維持": "1% chance to not|use tension as a|Monster Master."
     },
     "5879": {
         "clarity_nt_char_2007": "clarity_nt_char_2007"
     },
     "5880": {
-        "まもの使い時|テンションを|２％の確率で維持": ""
+        "まもの使い時|テンションを|２％の確率で維持": "2% chance to not|use tension as a|Monster Master."
     },
     "5881": {
         "clarity_nt_char_2008": "clarity_nt_char_2008"
     },
     "5882": {
-        "まもの使い時|テンションを|３％の確率で維持": ""
+        "まもの使い時|テンションを|３％の確率で維持": "3% chance to not|use tension as a|Monster Master."
     },
     "5883": {
         "clarity_nt_char_2009": "clarity_nt_char_2009"
@@ -17727,19 +17727,19 @@
         "clarity_nt_char_2019": "clarity_nt_char_2019"
     },
     "5910": {
-        "どうぐ使い時|テンションを|１％の確率で維持": ""
+        "どうぐ使い時|テンションを|１％の確率で維持": "1% chance to not|use tension as an|Item Master."
     },
     "5911": {
         "clarity_nt_char_2020": "clarity_nt_char_2020"
     },
     "5912": {
-        "どうぐ使い時|テンションを|２％の確率で維持": ""
+        "どうぐ使い時|テンションを|２％の確率で維持": "2% chance to not|use tension as an|Item Master."
     },
     "5913": {
         "clarity_nt_char_2021": "clarity_nt_char_2021"
     },
     "5914": {
-        "どうぐ使い時|テンションを|３％の確率で維持": ""
+        "どうぐ使い時|テンションを|３％の確率で維持": "3% chance to not|use tension as an|Item Master."
     },
     "5915": {
         "clarity_nt_char_2022": "clarity_nt_char_2022"
@@ -17817,19 +17817,19 @@
         "clarity_nt_char_2030": "clarity_nt_char_2030"
     },
     "5940": {
-        "踊り子時|テンションを|１％の確率で維持": ""
+        "踊り子時|テンションを|１％の確率で維持": "1% chance to not|use tension as a|Dancer"
     },
     "5941": {
         "clarity_nt_char_2031": "clarity_nt_char_2031"
     },
     "5942": {
-        "踊り子時|テンションを|２％の確率で維持": ""
+        "踊り子時|テンションを|２％の確率で維持": "2% chance to not|use tension as a|Dancer"
     },
     "5943": {
         "clarity_nt_char_2032": "clarity_nt_char_2032"
     },
     "5944": {
-        "踊り子時|テンションを|３％の確率で維持": ""
+        "踊り子時|テンションを|３％の確率で維持": "3% chance to not|use tension as a|Dancer"
     },
     "5945": {
         "clarity_nt_char_2033": "clarity_nt_char_2033"
@@ -17913,13 +17913,13 @@
         "clarity_nt_char_2042": "clarity_nt_char_2042"
     },
     "5972": {
-        "占い師時|テンションを|１％の確率で維持": ""
+        "占い師時|テンションを|１％の確率で維持": "1% chance to not|use tension as a|Fortune Teller."
     },
     "5973": {
         "clarity_nt_char_2043": "clarity_nt_char_2043"
     },
     "5974": {
-        "占い師時|テンションを|２％の確率で維持": ""
+        "占い師時|テンションを|２％の確率で維持": "2% chance to not|use tension as a|Fortune Teller."
     },
     "5975": {
         "clarity_nt_char_2044": "clarity_nt_char_2044"
