@@ -16644,25 +16644,25 @@
         "clarity_nt_char_1895": "clarity_nt_char_1895"
     },
     "5549": {
-        "僧侶時|受けるダメージを|３減らす": ""
+        "僧侶時|受けるダメージを|３減らす": "Damage Taken -3|when you're a|Priest."
     },
     "5550": {
-        "僧侶時|受けるダメージを|５減らす": ""
+        "僧侶時|受けるダメージを|５減らす": "Damage Taken -5|when you're a|Priest."
     },
     "5551": {
-        "僧侶時|受けるダメージを|１０減らす": ""
+        "僧侶時|受けるダメージを|１０減らす": "Damage Taken -10|when you're a|Priest."
     },
     "5552": {
         "clarity_nt_char_1896": "clarity_nt_char_1896"
     },
     "5553": {
-        "僧侶時|身かわし率が|０．５％増える": ""
+        "僧侶時|身かわし率が|０．５％増える": "Dodge Rate +0.5%|when you're a|Priest."
     },
     "5554": {
         "clarity_nt_char_1897": "clarity_nt_char_1897"
     },
     "5555": {
-        "僧侶時|身かわし率が|０．８％増える": ""
+        "僧侶時|身かわし率が|０．８％増える": "Dodge Rate +0.8%|when you're a|Priest."
     },
     "5556": {
         "clarity_nt_char_1898": "clarity_nt_char_1898"
@@ -18378,13 +18378,13 @@
         "clarity_nt_char_2097": "clarity_nt_char_2097"
     },
     "6127": {
-        "鎌装備時の|呪文ぼうそう率が|１．２％増える": "Haywire Rate+1.2%|when a Sickle|is equipped."
+        "鎌装備時の|呪文ぼうそう率が|１．２％増える": "Haywire Rate|+1.2% when Sickle|is equipped."
     },
     "6128": {
         "clarity_nt_char_2098": "clarity_nt_char_2098"
     },
     "6129": {
-        "鎌装備時の|呪文ぼうそう率が|１．５％増える": "Haywire Rate+1.5%|when a Sickle|is equipped."
+        "鎌装備時の|呪文ぼうそう率が|１．５％増える": "Haywire Rate|+1.5% when Sickle|is equipped."
     },
     "6130": {
         "clarity_nt_char_2099": "clarity_nt_char_2099"
