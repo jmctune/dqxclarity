@@ -19374,7 +19374,7 @@
         "clarity_nt_char_2202": "clarity_nt_char_2202"
     },
     "6459": {
-        "<%sM_monster>種の特徴": "<%sM_monster>Type Ft."
+        "<%sM_monster>種の特徴": "<%sM_monster> Features"
     },
     "6460": {
         "<%sM_00>型": "<%sM_00>Typ"
@@ -19599,13 +19599,13 @@
         "討伐済": ""
     },
     "6534": {
-        "<%dM_toubatu>個": ""
+        "<%dM_toubatu>個": "<%dM_toubatu>"
     },
     "6535": {
         "clarity_nt_char_2229": "clarity_nt_char_2229"
     },
     "6536": {
-        "<%dM_toubatu>匹": ""
+        "<%dM_toubatu>匹": "<%dM_toubatu>"
     },
     "6537": {
         "clarity_nt_char_2230": "clarity_nt_char_2230"
@@ -19782,7 +19782,7 @@
         "clarity_nt_char_2248": "clarity_nt_char_2248"
     },
     "6595": {
-        "<%sM_Monster1> ＋ ランク<%sM_Rare>のタロット": "<%sM_Monster1> + Tarot of rank <%sM_Rare>"
+        "<%sM_Monster1> ＋ ランク<%sM_Rare>のタロット": "<%sM_Monster1> + Tarot of Rank <%sM_Rare>"
     },
     "6596": {
         "討伐地域の変更": "Change to location "
@@ -19812,7 +19812,7 @@
         "clarity_nt_char_2251": "clarity_nt_char_2251"
     },
     "6605": {
-        "<%sM_rank>グレード": "<%sM_rank>Grade"
+        "<%sM_rank>グレード": "<%sM_rank> Grade"
     },
     "6606": {
         "clarity_nt_char_2252": "clarity_nt_char_2252"
@@ -19839,7 +19839,7 @@
         "機兵の回廊": ""
     },
     "6614": {
-        "<%dM_00>着": ""
+        "<%dM_00>着": "<%dM_00>"
     },
     "6615": {
         "マイコーデの拡張": "Glamour Expansion"
@@ -19887,7 +19887,7 @@
         "clarity_nt_char_2259": "clarity_nt_char_2259"
     },
     "6630": {
-        "相手を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": ""
+        "相手を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Looking for others...<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "6631": {
         "（<%sM_race>種 <%sM_colorname>色）": "(<%sM_race> <%sM_colorname>)"
