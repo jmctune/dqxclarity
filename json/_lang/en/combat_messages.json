@@ -393,7 +393,7 @@
         "勇気の輝きが <%dB_VALUE> 増えた！": "Spark of Courage increased by <%dB_VALUE>!"
     },
     "132": {
-        "勇気の輝きを <%dB_VALUE> 使った。": "Used <%dB_VALUE> courage."
+        "勇気の輝きを <%dB_VALUE> 使った。": "Used <%dB_VALUE> for Spark of Courage."
     },
     "133": {
         "全ての職業で <%sB_NAME>が 1あがった！": "<%sB_NAME> increased by 1 for all vocations!"
