@@ -29394,10 +29394,10 @@
         "clarity_nt_char_3303": "clarity_nt_char_3303"
     },
     "9799": {
-        "同盟相手からの返事を　待っています　（残り<%dM_Num>パーティ）": ""
+        "同盟相手からの返事を　待っています　（残り<%dM_Num>パーティ）": "Waiting for alliance party reply... (<%dM_Num> Left)"
     },
     "9800": {
-        "仲間の返事を　待っています　（残り<%dM_Num>人）": ""
+        "仲間の返事を　待っています　（残り<%dM_Num>人）": "Waiting for member's reply... (<%dM_Num> Left）"
     },
     "9801": {
         "clarity_nt_char_3304": "clarity_nt_char_3304"
@@ -29655,7 +29655,7 @@
         "納品数": ""
     },
     "9886": {
-        "<%dM_nouhin>匹": ""
+        "<%dM_nouhin>匹": "<%dM_nouhin>"
     },
     "9887": {
         "セリフ": "Text"
@@ -30024,7 +30024,7 @@
         "clarity_nt_char_3369": "clarity_nt_char_3369"
     },
     "10009": {
-        "経験値 <%dM_exp>P": ""
+        "経験値 <%dM_exp>P": "<%dM_exp> EXP"
     },
     "10010": {
         "clarity_nt_char_3370": "clarity_nt_char_3370"
