@@ -17943,7 +17943,7 @@
         "天地雷鳴士時|特技の威力が|１０増える": "Skill Power +10|when you are|a Druid."
     },
     "5982": {
-        "天地雷鳴士時|特技の威力が|２０増える": ""
+        "天地雷鳴士時|特技の威力が|２０増える": "Skill Power +20|when you are|a Druid."
     },
     "5983": {
         "天地雷鳴士時|特技の会心率が|０．５％増える": ""
@@ -18027,16 +18027,16 @@
         "受けたダメージを|跳ね返す|遊び人専用特技": "Reduces and|reflects damage|taken."
     },
     "6010": {
-        "遊び人時|特技の威力が|５増える": ""
+        "遊び人時|特技の威力が|５増える": "Skill Power +5|when you are|a Gadabout."
     },
     "6011": {
         "clarity_nt_char_2058": "clarity_nt_char_2058"
     },
     "6012": {
-        "遊び人時|特技の威力が|１０増える": ""
+        "遊び人時|特技の威力が|１０増える": "Skill Power +10|when you are|a Gadabout."
     },
     "6013": {
-        "遊び人時|特技の威力が|２０増える": ""
+        "遊び人時|特技の威力が|２０増える": "Skill Power +20|when you are|a Gadabout."
     },
     "6014": {
         "遊び人時|特技の会心率が|０．５％増える": ""
@@ -18237,16 +18237,16 @@
         "clarity_nt_char_2082": "clarity_nt_char_2082"
     },
     "6080": {
-        "デスマスター時|特技の威力が|５増える": ""
+        "デスマスター時|特技の威力が|５増える": "Skill Power +5|when you are|a Death Master."
     },
     "6081": {
-        "デスマスター時|特技の威力が|１０増える": ""
+        "デスマスター時|特技の威力が|１０増える": "Skill Power +10|when you are|a Death Master."
     },
     "6082": {
         "clarity_nt_char_2083": "clarity_nt_char_2083"
     },
     "6083": {
-        "デスマスター時|特技の威力が|２０増える": ""
+        "デスマスター時|特技の威力が|２０増える": "Skill Power +20|when you are|a Death Master."
     },
     "6084": {
         "clarity_nt_char_2084": "clarity_nt_char_2084"
@@ -22833,16 +22833,16 @@
         "clarity_nt_char_2599": "clarity_nt_char_2599"
     },
     "7612": {
-        "魔剣士時　特技の威力が　５　増えた！": ""
+        "魔剣士時　特技の威力が　５　増えた！": "Skill power increased by 5 as a|Demon Swordsman!"
     },
     "7613": {
         "clarity_nt_char_2600": "clarity_nt_char_2600"
     },
     "7614": {
-        "魔剣士時　特技の威力が　１０　増えた！": ""
+        "魔剣士時　特技の威力が　１０　増えた！": "Skill power increased by 10 as a|Demon Swordsman!"
     },
     "7615": {
-        "魔剣士時　特技の威力が　２０　増えた！": ""
+        "魔剣士時　特技の威力が　２０　増えた！": "Skill power increased by 20 as a|Demon Swordsman!"
     },
     "7616": {
         "魔剣士時　攻撃呪文の威力が　５　増えた！": "Spell power is increased by 5|as a Demon Swordsman!"
