@@ -9726,7 +9726,7 @@
         "<%03dM_01> - <%03dM_02>": ""
     },
     "3243": {
-        "思い出アルバム　<%03dM_01> - <%03dM_02>": "Photo Album "
+        "思い出アルバム　<%03dM_01> - <%03dM_02>": "Photo Album <%03dM_01> - <%03dM_02>"
     },
     "3244": {
         "コロシアム": "Colosseum"
@@ -10092,7 +10092,7 @@
         "<%sM_tukuttahito>（<%sM_id><%sM_idno>-<%sM_idno2>）": ""
     },
     "3365": {
-        "<%sM_purasu><%sM_atai><%sM_tani>以上": "<%sM_purasu><%sM_atai><%sM_tani> Min."
+        "<%sM_purasu><%sM_atai><%sM_tani>以上": "<%sM_purasu><%sM_atai><%sM_tani>+"
     },
     "3366": {
         "clarity_nt_char_1162": "clarity_nt_char_1162"
@@ -10848,7 +10848,7 @@
         "釣りをする": "Fish Here"
     },
     "3617": {
-        "あと<%dM_nn>回": ""
+        "あと<%dM_nn>回": "<%dM_nn> Left"
     },
     "3618": {
         "<%dM_Num>匹/<%dM_Max>匹": "<%dM_Num>/<%dM_Max>"
@@ -10953,10 +10953,10 @@
         "clarity_nt_char_1251": "clarity_nt_char_1251"
     },
     "3652": {
-        "思い出アルバム<%dM_nn>": ""
+        "思い出アルバム<%dM_nn>": "Photo Album <%dM_nn>"
     },
     "3653": {
-        "アルバム<%dM_nn>": ""
+        "アルバム<%dM_nn>": "Album <%dM_nn>"
     },
     "3654": {
         "clarity_nt_char_1252": "clarity_nt_char_1252"
@@ -11121,7 +11121,7 @@
         "閉じる": "Close"
     },
     "3708": {
-        "<%sM_pc>の依頼リスト": "<%sM_pc>'s request list"
+        "<%sM_pc>の依頼リスト": "<%sM_pc>'s Request List"
     },
     "3709": {
         "clarity_nt_char_1271": "clarity_nt_char_1271"
@@ -11205,7 +11205,7 @@
         "clarity_nt_char_1282": "clarity_nt_char_1282"
     },
     "3736": {
-        "<%sM_mon>　討伐タイムランキング": "<%sM_mon> Defeat time ranking"
+        "<%sM_mon>　討伐タイムランキング": "<%sM_mon> Defeat Time Ranking"
     },
     "3737": {
         "clarity_nt_char_1283": "clarity_nt_char_1283"
