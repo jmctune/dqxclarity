@@ -234,7 +234,7 @@
         "clarity_nt_char_24": "clarity_nt_char_24"
     },
     "79": {
-        "<%sL_PC>が 防衛戦で 手に入れた。": ""
+        "<%sL_PC>が 防衛戦で 手に入れた。": "<%sL_PC> received from Defense Force."
     },
     "80": {
         "<%sL_PC>が <%sL_PLACE>で釣り上げた|金の宝箱から　手に入れた。": "<%sL_PC> reeled in at <%sL_PLACE>.|Obtained a gold treasure chest."

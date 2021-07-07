@@ -27639,16 +27639,16 @@
         "装備レベル：<%nM_equip_level_min>～<%nM_equip_level_max>": "Equipment Lvl: <%nM_equip_level_min>～<%nM_equip_level_max>"
     },
     "9214": {
-        "作った人の名前：<%sM_tukuttahito>": "Crafter's name: <%sM_tukuttahito>"
+        "作った人の名前：<%sM_tukuttahito>": "Crafter's Name: <%sM_tukuttahito>"
     },
     "9215": {
-        "<%dM_win>回": ""
+        "<%dM_win>回": "<%dM_win>"
     },
     "9216": {
         "clarity_nt_char_3110": "clarity_nt_char_3110"
     },
     "9217": {
-        "<%dM_play>回": ""
+        "<%dM_play>回": "<%dM_play>"
     },
     "9218": {
         "<%dM_bairitsu_01>％": ""
@@ -28347,7 +28347,7 @@
         "カード確認": ""
     },
     "9450": {
-        "どの数字を消す？（のこり<%nM_00>こ）": "Erase which number? (<%nM_00> left)"
+        "どの数字を消す？（のこり<%nM_00>こ）": "Erase which number? (<%nM_00> Left)"
     },
     "9451": {
         "clarity_nt_char_3180": "clarity_nt_char_3180"
@@ -28476,10 +28476,10 @@
         "他の職業へ貼り付け": "Copy to Other Class"
     },
     "9493": {
-        "<%sM_job>だけ": "<%sM_job> only"
+        "<%sM_job>だけ": "<%sM_job> Only"
     },
     "9494": {
-        "<%sM_job>に": "<%sM_job> to"
+        "<%sM_job>に": "<%sM_job> To"
     },
     "9495": {
         "clarity_nt_char_3196": "clarity_nt_char_3196"
