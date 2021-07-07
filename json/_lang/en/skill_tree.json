@@ -13260,13 +13260,13 @@
         "魔法使い時　２．０％の確率で|行動ターンを　消費しなくなった！": "You now have a 2% chance to not use a turn|as a Mage!"
     },
     "4421": {
-        "魔法使い時　１％の確率で|テンションを　消費しなくなった！": ""
+        "魔法使い時　１％の確率で|テンションを　消費しなくなった！": "You now have a 1% chance to not use tension|as a Mage!"
     },
     "4422": {
-        "魔法使い時　２％の確率で|テンションを　消費しなくなった！": ""
+        "魔法使い時　２％の確率で|テンションを　消費しなくなった！": "You now have a 2% chance to not use tension|as a Mage!"
     },
     "4423": {
-        "魔法使い時　３％の確率で|テンションを　消費しなくなった！": ""
+        "魔法使い時　３％の確率で|テンションを　消費しなくなった！": "You now have a 3% chance to not use tension|as a Mage!"
     },
     "4424": {
         "行雲流水Ⅰ（専）の特技を　おぼえた！": "You learned Tidal Flow I!"
@@ -13350,37 +13350,37 @@
         "clarity_nt_char_1505": "clarity_nt_char_1505"
     },
     "4451": {
-        "武闘家時　１．０％の確率で|行動ターンを　消費しなくなった！": ""
+        "武闘家時　１．０％の確率で|行動ターンを　消費しなくなった！": "You now have a 1% chance to not use a turn|as a Martial Artist!"
     },
     "4452": {
         "clarity_nt_char_1506": "clarity_nt_char_1506"
     },
     "4453": {
-        "武闘家時　１．５％の確率で|行動ターンを　消費しなくなった！": ""
+        "武闘家時　１．５％の確率で|行動ターンを　消費しなくなった！": "You now have a 1.5% chance to not use a turn|as a Martial Artist!"
     },
     "4454": {
         "clarity_nt_char_1507": "clarity_nt_char_1507"
     },
     "4455": {
-        "武闘家時　２．０％の確率で|行動ターンを　消費しなくなった！": ""
+        "武闘家時　２．０％の確率で|行動ターンを　消費しなくなった！": "You now have a 2% chance to not use a turn|as a Martial Artist!"
     },
     "4456": {
         "clarity_nt_char_1508": "clarity_nt_char_1508"
     },
     "4457": {
-        "武闘家時　１％の確率で|テンションを　消費しなくなった！": ""
+        "武闘家時　１％の確率で|テンションを　消費しなくなった！": "You now have a 1% chance to not use tension|as a Martial Artist!"
     },
     "4458": {
         "clarity_nt_char_1509": "clarity_nt_char_1509"
     },
     "4459": {
-        "武闘家時　２％の確率で|テンションを　消費しなくなった！": ""
+        "武闘家時　２％の確率で|テンションを　消費しなくなった！": "You now have a 2% chance to not use tension|as a Martial Artist!"
     },
     "4460": {
         "clarity_nt_char_1510": "clarity_nt_char_1510"
     },
     "4461": {
-        "武闘家時　３％の確率で|テンションを　消費しなくなった！": ""
+        "武闘家時　３％の確率で|テンションを　消費しなくなった！": "You now have a 3% chance to not use tension|as a Martial Artist!"
     },
     "4462": {
         "clarity_nt_char_1511": "clarity_nt_char_1511"
@@ -13449,22 +13449,22 @@
         "盗賊時　敵の攻撃を|１．２％　かわしやすくなった！": "Chance to dodge attacks increased by 1.2%|as a Thief!"
     },
     "4484": {
-        "盗賊時　１．０％の確率で|行動ターンを　消費しなくなった！": ""
+        "盗賊時　１．０％の確率で|行動ターンを　消費しなくなった！": "You now have a 1% chance to not use a turn|as a Thief!"
     },
     "4485": {
-        "盗賊時　１．５％の確率で|行動ターンを　消費しなくなった！": ""
+        "盗賊時　１．５％の確率で|行動ターンを　消費しなくなった！": "You now have a 1.5% chance to not use a turn|as a Thief!"
     },
     "4486": {
-        "盗賊時　２．０％の確率で|行動ターンを　消費しなくなった！": ""
+        "盗賊時　２．０％の確率で|行動ターンを　消費しなくなった！": "You now have a 2% chance to not use a turn|as a Thief!"
     },
     "4487": {
-        "盗賊時　１％の確率で|テンションを　消費しなくなった！": ""
+        "盗賊時　１％の確率で|テンションを　消費しなくなった！": "You now have a 1% chance to not use tension|as a Thief!"
     },
     "4488": {
-        "盗賊時　２％の確率で|テンションを　消費しなくなった！": ""
+        "盗賊時　２％の確率で|テンションを　消費しなくなった！": "You now have a 2% chance to not use tension|as a Thief!"
     },
     "4489": {
-        "盗賊時　３％の確率で|テンションを　消費しなくなった！": ""
+        "盗賊時　３％の確率で|テンションを　消費しなくなった！": "You now have a 3% chance to not use tension|as a Thief!"
     },
     "4490": {
         "超ハッスルダンスⅠ（専）の特技を　おぼえた！": "You learned Super Hustle Dance I!"
@@ -13536,13 +13536,13 @@
         "旅芸人時|受けるダメージを　１０　減らすようになった！": "Damage taken is now reduced by 10 as a Minstrel!"
     },
     "4513": {
-        "旅芸人時　１．０％の確率で|行動ターンを　消費しなくなった！": ""
+        "旅芸人時　１．０％の確率で|行動ターンを　消費しなくなった！": "You now have a 1% chance to not use a turn|as a Minstrel!"
     },
     "4514": {
         "clarity_nt_char_1526": "clarity_nt_char_1526"
     },
     "4515": {
-        "旅芸人時　１．５％の確率で|行動ターンを　消費しなくなった！": ""
+        "旅芸人時　１．５％の確率で|行動ターンを　消費しなくなった！": "You now have a 1.5% chance to not use a turn|as a Minstrel!"
     },
     "4516": {
         "clarity_nt_char_1527": "clarity_nt_char_1527"
