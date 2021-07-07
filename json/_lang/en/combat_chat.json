@@ -33357,7 +33357,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 特技と呪文のダメージが　50増えた！": ""
     },
     "11120": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 特技と呪文の回復量が　20増えた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 特技と呪文の回復量が　20増えた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's skill and spell recovery increased by 20!"
     },
     "11121": {
         "clarity_nt_char_3700": "clarity_nt_char_3700"
