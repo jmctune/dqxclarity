@@ -17661,7 +17661,7 @@
         "clarity_nt_char_2007": "clarity_nt_char_2007"
     },
     "5888": {
-        "<%sM_monster>の　パラメータ と そうび": "Stats and equipment for <%sM_monster>"
+        "<%sM_monster>の　パラメータ と そうび": "Stats and Equipment for <%sM_monster>"
     },
     "5889": {
         "clarity_nt_char_2008": "clarity_nt_char_2008"
@@ -17676,7 +17676,7 @@
         "タロットデッキ": "Tarot Deck"
     },
     "5893": {
-        "デッキ<%sM_deck>のタロット数": ""
+        "デッキ<%sM_deck>のタロット数": "Deck <%sM_deck> Tarot No."
     },
     "5894": {
         "所持タロットカード": ""
@@ -17961,7 +17961,7 @@
         "ここを掘る": ""
     },
     "5988": {
-        "<%sM_Arcanum>の<%sM_Monster>": "<%sM_Monster> <%sM_Arcanum>"
+        "<%sM_Arcanum>の<%sM_Monster>": "<%sM_Monster>'s <%sM_Arcanum>"
     },
     "5989": {
         "<%sM_Arcanum>のタロット": "Tarot of <%sM_Arcanum>"
@@ -18420,7 +18420,7 @@
         "clarity_nt_char_2091": "clarity_nt_char_2091"
     },
     "6141": {
-        "<%sBT_STORY_NAME>の|『<%sBT_AREA_NAME>』へ進みます。|よろしいですか？|<yesno><close>": ""
+        "<%sBT_STORY_NAME>の|『<%sBT_AREA_NAME>』へ進みます。|よろしいですか？|<yesno><close>": "Go to <%sBT_STORY_NAME>'s|\"<%sBT_AREA_NAME>\". Are you sure?|<yesno><close>"
     },
     "6142": {
         "手に入れたスキルノート": "Received Skill Notes"
