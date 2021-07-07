@@ -14895,13 +14895,13 @@
         "遊び人時　ちからが　５０　増えた！": "Strength increased by 50 as a Gadabout!"
     },
     "4966": {
-        "遊び人時　みのまもりが　３０　増えた！": ""
+        "遊び人時　みのまもりが　３０　増えた！": "Resilience increased by 30 as a Gadabout!"
     },
     "4967": {
-        "遊び人時　みのまもりが　４５　増えた！": ""
+        "遊び人時　みのまもりが　４５　増えた！": "Resilience increased by 45 as a Gadabout!"
     },
     "4968": {
-        "遊び人時　みのまもりが　６０　増えた！": ""
+        "遊び人時　みのまもりが　６０　増えた！": "Resilience increased by 60 as a Gadabout!"
     },
     "4969": {
         "遊び人時　状態異常の成功率が　上がった！": ""
@@ -18156,13 +18156,13 @@
         "遊び人時|ちからが|５０増える": ""
     },
     "6053": {
-        "遊び人時|みのまもりが|３０増える": ""
+        "遊び人時|みのまもりが|３０増える": "Resilience +30|when you are|a Gadabout."
     },
     "6054": {
-        "遊び人時|みのまもりが|４５増える": ""
+        "遊び人時|みのまもりが|４５増える": "Resilience +45|when you are|a Gadabout."
     },
     "6055": {
-        "遊び人時|みのまもりが|６０増える": ""
+        "遊び人時|みのまもりが|６０増える": "Resilience +60|when you are|a Gadabout."
     },
     "6056": {
         "遊び人時の|状態異常成功率が|１０％増える": ""
@@ -21861,19 +21861,19 @@
         "clarity_nt_char_2495": "clarity_nt_char_2495"
     },
     "7288": {
-        "戦士時　みのまもりが　１０　増えた！": ""
+        "戦士時　みのまもりが　１０　増えた！": "Resilience increased by 10 as a Warrior!"
     },
     "7289": {
         "clarity_nt_char_2496": "clarity_nt_char_2496"
     },
     "7290": {
-        "戦士時　みのまもりが　２０　増えた！": ""
+        "戦士時　みのまもりが　２０　増えた！": "Resilience increased by 20 as a Warrior!"
     },
     "7291": {
         "clarity_nt_char_2497": "clarity_nt_char_2497"
     },
     "7292": {
-        "戦士時　みのまもりが　３０　増えた！": ""
+        "戦士時　みのまもりが　３０　増えた！": "Resilience increased by 30 as a Warrior!"
     },
     "7293": {
         "clarity_nt_char_2498": "clarity_nt_char_2498"
@@ -21906,13 +21906,13 @@
         "clarity_nt_char_2501": "clarity_nt_char_2501"
     },
     "7303": {
-        "パラディン時　みのまもりが　１０　増えた！": ""
+        "パラディン時　みのまもりが　１０　増えた！": "Resilience increased by 10 as a Paladin!"
     },
     "7304": {
-        "パラディン時　みのまもりが　２０　増えた！": ""
+        "パラディン時　みのまもりが　２０　増えた！": "Resilience increased by 20 as a Paladin!"
     },
     "7305": {
-        "パラディン時　みのまもりが　３０　増えた！": ""
+        "パラディン時　みのまもりが　３０　増えた！": "Resilience increased by 30 as a Paladin!"
     },
     "7306": {
         "紅蓮蝶のきりの効果範囲が　広くなった！": "Crimson Fog's range increased!"
