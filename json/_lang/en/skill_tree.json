@@ -13143,10 +13143,10 @@
         "僧侶時|受けるダメージを　３　減らすようになった！": "Damage taken is now reduced by 3 as a Priest!"
     },
     "4382": {
-        "僧侶時|受けるダメージを　５　減らすようになった！": "Damage taken reduced by 5 as a Priest!"
+        "僧侶時|受けるダメージを　５　減らすようになった！": "Damage taken is now reduced by 5 as a Priest!"
     },
     "4383": {
-        "僧侶時|受けるダメージを　１０　減らすようになった！": "Damage taken reduced by 10 as a Priest!"
+        "僧侶時|受けるダメージを　１０　減らすようになった！": "Damage taken is now reduced by 10 as a Priest!"
     },
     "4384": {
         "clarity_nt_char_1484": "clarity_nt_char_1484"
@@ -13230,13 +13230,13 @@
         "clarity_nt_char_1492": "clarity_nt_char_1492"
     },
     "4411": {
-        "魔法使い時|受けるダメージを　３　減らすようになった！": "Damage taken reduced by 3 as a Mage!"
+        "魔法使い時|受けるダメージを　３　減らすようになった！": "Damage taken is now reduced by 3 as a Mage!"
     },
     "4412": {
-        "魔法使い時|受けるダメージを　５　減らすようになった！": "Damage taken reduced by 5 as a Mage!"
+        "魔法使い時|受けるダメージを　５　減らすようになった！": "Damage taken is now reduced by 5 as a Mage!"
     },
     "4413": {
-        "魔法使い時|受けるダメージを　１０　減らすようになった！": "Damage taken reduced by 10 as a Mage!"
+        "魔法使い時|受けるダメージを　１０　減らすようになった！": "Damage taken is now reduced by 10 as a Mage!"
     },
     "4414": {
         "clarity_nt_char_1493": "clarity_nt_char_1493"
@@ -13317,19 +13317,19 @@
         "clarity_nt_char_1500": "clarity_nt_char_1500"
     },
     "4440": {
-        "武闘家時|受けるダメージを　３　減らすようになった！": ""
+        "武闘家時|受けるダメージを　３　減らすようになった！": "Damage taken is now reduced by 3 as a|Martial Artist!"
     },
     "4441": {
         "clarity_nt_char_1501": "clarity_nt_char_1501"
     },
     "4442": {
-        "武闘家時|受けるダメージを　５　減らすようになった！": ""
+        "武闘家時|受けるダメージを　５　減らすようになった！": "Damage taken is now reduced by 5 as a|Martial Artist!"
     },
     "4443": {
         "clarity_nt_char_1502": "clarity_nt_char_1502"
     },
     "4444": {
-        "武闘家時|受けるダメージを　１０　減らすようになった！": ""
+        "武闘家時|受けるダメージを　１０　減らすようになった！": "Damage taken is now reduced by 10 as a|Martial Artist!"
     },
     "4445": {
         "武闘家時　敵の攻撃を|０．５％　かわしやすくなった！": ""
@@ -13428,13 +13428,13 @@
         "盗賊時　特技を使ったとき|会心のいちげきが　１．２％　出やすくなった！": ""
     },
     "4477": {
-        "盗賊時|受けるダメージを　３　減らすようになった！": ""
+        "盗賊時|受けるダメージを　３　減らすようになった！": "Damage taken is now reduced by 3 as a Thief!"
     },
     "4478": {
-        "盗賊時|受けるダメージを　５　減らすようになった！": ""
+        "盗賊時|受けるダメージを　５　減らすようになった！": "Damage taken is now reduced by 5 as a Thief!"
     },
     "4479": {
-        "盗賊時|受けるダメージを　１０　減らすようになった！": ""
+        "盗賊時|受けるダメージを　１０　減らすようになった！": "Damage taken is now reduced by 10 as a Thief!"
     },
     "4480": {
         "clarity_nt_char_1517": "clarity_nt_char_1517"
@@ -13521,19 +13521,19 @@
         "旅芸人時　攻撃呪文の威力と|回復呪文の回復量が　２０　増えた！": ""
     },
     "4508": {
-        "旅芸人時|受けるダメージを　３　減らすようになった！": ""
+        "旅芸人時|受けるダメージを　３　減らすようになった！": "Damage taken is now reduced by 3 as a Minstrel!"
     },
     "4509": {
         "clarity_nt_char_1524": "clarity_nt_char_1524"
     },
     "4510": {
-        "旅芸人時|受けるダメージを　５　減らすようになった！": ""
+        "旅芸人時|受けるダメージを　５　減らすようになった！": "Damage taken is now reduced by 5 as a Minstrel!"
     },
     "4511": {
         "clarity_nt_char_1525": "clarity_nt_char_1525"
     },
     "4512": {
-        "旅芸人時|受けるダメージを　１０　減らすようになった！": ""
+        "旅芸人時|受けるダメージを　１０　減らすようになった！": "Damage taken is now reduced by 10 as a Minstrel!"
     },
     "4513": {
         "旅芸人時　１．０％の確率で|行動ターンを　消費しなくなった！": ""
