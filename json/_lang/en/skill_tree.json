@@ -18519,7 +18519,7 @@
         "clarity_nt_char_2115": "clarity_nt_char_2115"
     },
     "6174": {
-        "ブレードガードの効果時間": "Greatsword Guard Effect Duration"
+        "ブレードガードの効果時間": "Greatsword Guard Duration"
     },
     "6175": {
         "clarity_nt_char_2116": "clarity_nt_char_2116"
@@ -18798,7 +18798,7 @@
         "風斬りの舞": "Gale Dance"
     },
     "6267": {
-        "花ふぶきの成功率": ""
+        "花ふぶきの成功率": "Flowerstorm Success"
     },
     "6268": {
         "clarity_nt_char_2145": "clarity_nt_char_2145"
@@ -18885,7 +18885,7 @@
         "clarity_nt_char_2156": "clarity_nt_char_2156"
     },
     "6296": {
-        "牙神昇誕の効果時間": ""
+        "牙神昇誕の効果時間": "Fang of God Duration"
     },
     "6297": {
         "ゴッドスマッシュ": "Hand of God"
@@ -18927,7 +18927,7 @@
         "シャイニングボウの強化": "Shining Shot Boost"
     },
     "6310": {
-        "弓聖の守り星の効果範囲": ""
+        "弓聖の守り星の効果範囲": "Guardian Star Range"
     },
     "6311": {
         "ダークネスショットの強化": "Darkness Shot Boost"
@@ -19110,16 +19110,16 @@
         "clarity_nt_char_2180": "clarity_nt_char_2180"
     },
     "6371": {
-        "ホイミの回復量": ""
+        "ホイミの回復量": "Heal Recovery"
     },
     "6372": {
-        "ベホイミの回復量": ""
+        "ベホイミの回復量": "Midheal Recovery"
     },
     "6373": {
         "clarity_nt_char_2181": "clarity_nt_char_2181"
     },
     "6374": {
-        "ホップスティック効果範囲": ""
+        "ホップスティック効果範囲": "Hop Stick Range"
     },
     "6375": {
         "clarity_nt_char_2182": "clarity_nt_char_2182"
@@ -19131,7 +19131,7 @@
         "clarity_nt_char_2183": "clarity_nt_char_2183"
     },
     "6378": {
-        "スピリットゾーン効果範囲": ""
+        "スピリットゾーン効果範囲": "Spirit Zone Range"
     },
     "6379": {
         "clarity_nt_char_2184": "clarity_nt_char_2184"
@@ -19173,7 +19173,7 @@
         "霊脈魔法陣": "Ring of Spirit"
     },
     "6392": {
-        "霊脈魔法陣の射程強化": ""
+        "霊脈魔法陣の射程強化": "Ring of Spirit Range"
     },
     "6393": {
         "clarity_nt_char_2188": "clarity_nt_char_2188"
@@ -19194,7 +19194,7 @@
         "clarity_nt_char_2190": "clarity_nt_char_2190"
     },
     "6399": {
-        "会心完全ガード率": ""
+        "会心完全ガード率": "Critical Hit Guard Rate"
     },
     "6400": {
         "clarity_nt_char_2191": "clarity_nt_char_2191"
