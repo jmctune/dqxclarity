@@ -25191,7 +25191,7 @@
         "clarity_nt_char_2842": "clarity_nt_char_2842"
     },
     "8398": {
-        "次のランクまで<%dM_nextpoint>P": ""
+        "次のランクまで<%dM_nextpoint>P": "Next Rank in <%dM_nextpoint>P"
     },
     "8399": {
         "次の勲章獲得まで <%dM_jisseki>/<%dM_jissekiAll>": ""
@@ -25425,7 +25425,7 @@
         "熟練ポイント：": ""
     },
     "8476": {
-        "<%sM_pc>の勝ち点": "<%sM_pc> win points"
+        "<%sM_pc>の勝ち点": "<%sM_pc> Win Points"
     },
     "8477": {
         "clarity_nt_char_2867": "clarity_nt_char_2867"
@@ -25542,7 +25542,7 @@
         "相手のとくぎを見る": "See Opponent Skill"
     },
     "8515": {
-        "第<%nM_00>回　アストルティアカップ": "Astoltia Cup #<%nM_00>"
+        "第<%nM_00>回　アストルティアカップ": "Astoltia Cup <%nM_00>"
     },
     "8516": {
         "再エントリー権": ""
@@ -26337,7 +26337,7 @@
         "clarity_nt_char_2971": "clarity_nt_char_2971"
     },
     "8780": {
-        "<%sM_pc>の町": ""
+        "<%sM_pc>の町": "<%sM_pc> Town"
     },
     "8781": {
         "clarity_nt_char_2972": "clarity_nt_char_2972"
@@ -26460,7 +26460,7 @@
         "住まい設定": "House Type"
     },
     "8821": {
-        "<%sM_pc>の街": ""
+        "<%sM_pc>の街": "<%sM_pc> City"
     },
     "8822": {
         "clarity_nt_char_2986": "clarity_nt_char_2986"
@@ -26958,13 +26958,13 @@
         "ボイス自動送り": ""
     },
     "8987": {
-        "<%sM_job>の特訓ポイント": "<%sM_job>Sp. Training points"
+        "<%sM_job>の特訓ポイント": "<%sM_job>Sp. Training Points"
     },
     "8988": {
         "clarity_nt_char_3039": "clarity_nt_char_3039"
     },
     "8989": {
-        "<%sM_job>のレベル": "<%sM_job>'s level"
+        "<%sM_job>のレベル": "<%sM_job>'s Level"
     },
     "8990": {
         "クリアしたクエスト": ""
