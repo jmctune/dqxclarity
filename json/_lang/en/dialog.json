@@ -3975,7 +3975,7 @@
         "しかし 勇気の輝きが足りなかった。": "But the Spark of Courage was not enough."
     },
     "1326": {
-        "勇気の輝きを <%dC_KAGAYAKI_NUM>使って　闇を祓った！": ""
+        "勇気の輝きを <%dC_KAGAYAKI_NUM>使って　闇を祓った！": "Used <%dC_KAGAYAKI_NUM> Spark of Courage to exorcise the darkness!"
     },
     "1327": {
         "<select_se_off>|クローバーズチケット|ドレスアップ無料券|<select_end><break>": "<select_se_off>|Clover's Ticket|Free Dress Up Ticket<select_end><break>"
@@ -3996,7 +3996,7 @@
         "clarity_nt_char_443": "clarity_nt_char_443"
     },
     "1333": {
-        "<speed=0>勇気の輝きが　足りません！": ""
+        "<speed=0>勇気の輝きが　足りません！": "<speed=0>The Spark of Courage was not enough!"
     },
     "1334": {
         "clarity_nt_char_444": "clarity_nt_char_444"
