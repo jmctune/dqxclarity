@@ -17406,19 +17406,19 @@
         "clarity_nt_char_1985": "clarity_nt_char_1985"
     },
     "5803": {
-        "仲間のダメージを|大きくいやす雨|賢者専用特技": ""
+        "仲間のダメージを|大きくいやす雨|賢者専用特技": "Rain that greatly|heals damage|allies take."
     },
     "5804": {
-        "賢者時|呪文の威力と|回復が５増える": ""
+        "賢者時|呪文の威力と|回復が５増える": "Spell/Skill|Recovery +5 as a|Sage."
     },
     "5805": {
         "clarity_nt_char_1986": "clarity_nt_char_1986"
     },
     "5806": {
-        "賢者時|呪文の威力と|回復が１０増える": ""
+        "賢者時|呪文の威力と|回復が１０増える": "Spell/Skill|Recovery +10 as a|Sage."
     },
     "5807": {
-        "賢者時|呪文の威力と|回復が２０増える": ""
+        "賢者時|呪文の威力と|回復が２０増える": "Spell/Skill|Recovery +20 as a|Sage."
     },
     "5808": {
         "賢者時|呪文ぼうそう率が|０．５％増える": "Haywire Rate|+0.5% when you're|a Sage."
@@ -17514,16 +17514,16 @@
         "スパスタ時|特技の会心率が|１．２％増える": "Skill Crit. Rate|+1.2% when you're|a Superstar."
     },
     "5839": {
-        "スパスタ時|呪文の威力と|回復が５増える": ""
+        "スパスタ時|呪文の威力と|回復が５増える": "Spell/Skill|Recovery +5 as a|Superstar."
     },
     "5840": {
         "clarity_nt_char_1996": "clarity_nt_char_1996"
     },
     "5841": {
-        "スパスタ時|呪文の威力と|回復が１０増える": ""
+        "スパスタ時|呪文の威力と|回復が１０増える": "Spell/Skill|Recovery +10 as a|Superstar."
     },
     "5842": {
-        "スパスタ時|呪文の威力と|回復が２０増える": ""
+        "スパスタ時|呪文の威力と|回復が２０増える": "Spell/Skill|Recovery +20 as a|Superstar."
     },
     "5843": {
         "スパスタ時|受けるダメージを|３減らす": "Damage Taken -3|when you're a|Superstar."
@@ -19308,7 +19308,7 @@
         "clarity_nt_char_2204": "clarity_nt_char_2204"
     },
     "6437": {
-        "呪文の威力と回復強化": ""
+        "呪文の威力と回復強化": "Spell/Skill Recovery Boost"
     },
     "6438": {
         "clarity_nt_char_2205": "clarity_nt_char_2205"
