@@ -16236,13 +16236,13 @@
         "clarity_nt_char_1846": "clarity_nt_char_1846"
     },
     "5413": {
-        "スティック装備時|かいふく魔力が|４０増える": "+40 Magical Mending|when wand|equipped."
+        "スティック装備時|かいふく魔力が|４０増える": "Mag. Mending +40|when a Wand|is equipped."
     },
     "5414": {
         "clarity_nt_char_1847": "clarity_nt_char_1847"
     },
     "5415": {
-        "スティック装備時|さいだいＭＰが|２０増える": "+20 Maximum MP|when wand worn.|"
+        "スティック装備時|さいだいＭＰが|２０増える": "Max MP +20|when a Wand|is equipped."
     },
     "5416": {
         "clarity_nt_char_1848": "clarity_nt_char_1848"
@@ -16254,7 +16254,7 @@
         "clarity_nt_char_1849": "clarity_nt_char_1849"
     },
     "5419": {
-        "スティック装備時|さいだいＭＰが|４５増える": "+45 Maximum MP|when wand worn.|"
+        "スティック装備時|さいだいＭＰが|４５増える": "Max MP +45|when a Wand|is equipped."
     },
     "5420": {
         "clarity_nt_char_1850": "clarity_nt_char_1850"
@@ -16278,19 +16278,19 @@
         "clarity_nt_char_1853": "clarity_nt_char_1853"
     },
     "5427": {
-        "スティック装備時|回復量が|６％増える": ""
+        "スティック装備時|回復量が|６％増える": "Recovery +6%|when a Wand|is equipped."
     },
     "5428": {
-        "スティック装備時|回復量が|８％増える": ""
+        "スティック装備時|回復量が|８％増える": "Recovery +8%|when a Wand|is equipped."
     },
     "5429": {
-        "スティック装備時|回復量が|１０％増える": ""
+        "スティック装備時|回復量が|１０％増える": "Recovery +10%|when a Wand|is equipped."
     },
     "5430": {
         "clarity_nt_char_1854": "clarity_nt_char_1854"
     },
     "5431": {
-        "周囲の味方に|ＭＰを最大２４０|少しずつ回復": ""
+        "周囲の味方に|ＭＰを最大２４０|少しずつ回復": "Nearby allies|recover 240 MP|over a duration."
     },
     "5432": {
         "clarity_nt_char_1855": "clarity_nt_char_1855"
