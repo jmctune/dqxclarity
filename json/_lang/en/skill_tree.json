@@ -3459,7 +3459,7 @@
         "マヒャデドス（専）の呪文を　おぼえた！": "You learned Kacrackle!"
     },
     "1154": {
-        "魔法使い時|２％の確率で　ＭＰを消費しなくなった！": "You now have a 2% chance to not consume|MP as a Mage!"
+        "魔法使い時|２％の確率で　ＭＰを消費しなくなった！": "You now have a 2% chance to not use|MP as a Mage!"
     },
     "1155": {
         "メラガイアー（専）の呪文を　おぼえた！": "You learned Kafrizzle!"
@@ -4050,7 +4050,7 @@
         "clarity_nt_char_456": "clarity_nt_char_456"
     },
     "1351": {
-        "天地雷鳴士時|２％の確率で　ＭＰを消費しなくなった！": "You now have a 2% chance to not consume|MP as a Druid!"
+        "天地雷鳴士時|２％の確率で　ＭＰを消費しなくなった！": "You now have a 2% chance to not use|MP as a Druid!"
     },
     "1352": {
         "clarity_nt_char_457": "clarity_nt_char_457"
@@ -21276,31 +21276,31 @@
         "【200P】鉄甲斬・改+10%": "[200P] Scrap Mettle +10%"
     },
     "7093": {
-        "扇装備時　呪文発動速度が　早くなった！": ""
+        "扇装備時　呪文発動速度が　早くなった！": "Spellcasting speed increased when|equipped with a Fan!"
     },
     "7094": {
-        "血吸いの守りの特技を　おぼえた！": ""
+        "血吸いの守りの特技を　おぼえた！": "You learned Siphon Guard!"
     },
     "7095": {
         "clarity_nt_char_2437": "clarity_nt_char_2437"
     },
     "7096": {
-        "スティック装備時に|４％の確率で　ＭＰを消費しなくなった！": ""
+        "スティック装備時に|４％の確率で　ＭＰを消費しなくなった！": "You now have a 4% chance to not use MP|when equipped with a Wand!"
     },
     "7097": {
-        "鉄甲斬・改+6%": ""
+        "鉄甲斬・改+6%": "Scrap Mettle +6%"
     },
     "7098": {
         "clarity_nt_char_2438": "clarity_nt_char_2438"
     },
     "7099": {
-        "鉄甲斬・改+8%": ""
+        "鉄甲斬・改+8%": "Scrap Mettle +8%"
     },
     "7100": {
         "clarity_nt_char_2439": "clarity_nt_char_2439"
     },
     "7101": {
-        "鉄甲斬・改+10%": ""
+        "鉄甲斬・改+10%": "Scrap Mettle +10%"
     },
     "7102": {
         "鉄甲斬・改の威力が　あがった！": ""
@@ -23916,13 +23916,13 @@
         "clarity_nt_char_2720": "clarity_nt_char_2720"
     },
     "7973": {
-        "スティック装備時に|１％の確率で　ＭＰを消費しなくなった！": ""
+        "スティック装備時に|１％の確率で　ＭＰを消費しなくなった！": "You now have a 1% chance to not use MP|when equipped with a Wand!"
     },
     "7974": {
-        "スティック装備時に|３％の確率で　ＭＰを消費しなくなった！": ""
+        "スティック装備時に|３％の確率で　ＭＰを消費しなくなった！": "You now have a 3% chance to not use MP|when equipped with a Wand!"
     },
     "7975": {
-        "スティック装備時に|５％の確率で　ＭＰを消費しなくなった！": ""
+        "スティック装備時に|５％の確率で　ＭＰを消費しなくなった！": "You now have a 5% chance to not use MP|when equipped with a Wand!"
     },
     "7976": {
         "両手杖での攻撃時　会心のいちげきが|出やすくなった！": ""
