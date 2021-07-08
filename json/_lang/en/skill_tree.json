@@ -23436,19 +23436,19 @@
         "clarity_nt_char_2671": "clarity_nt_char_2671"
     },
     "7813": {
-        "死亡時|魔力かくせいが|３０％で残る": "30% chance to|keep Faster|Caster on death."
+        "死亡時|魔力かくせいが|３０％で残る": "30% chance to|keep Channel|Anger on death."
     },
     "7814": {
         "clarity_nt_char_2672": "clarity_nt_char_2672"
     },
     "7815": {
-        "死亡時|魔力かくせいが|５０％で残る": "50% chance to|keep Faster|Caster on death."
+        "死亡時|魔力かくせいが|５０％で残る": "50% chance to|keep Channel|Anger on death."
     },
     "7816": {
         "clarity_nt_char_2673": "clarity_nt_char_2673"
     },
     "7817": {
-        "死亡時|魔力かくせいが|７０％で残る": "70% chance to|keep Faster|Caster on death."
+        "死亡時|魔力かくせいが|７０％で残る": "70% chance to|keep Channel|Anger on death."
     },
     "7818": {
         "clarity_nt_char_2674": "clarity_nt_char_2674"
@@ -23631,19 +23631,19 @@
         "たまに２回行動": "Double Action"
     },
     "7878": {
-        "行動時に特技発動を短縮": ""
+        "行動時に特技発動を短縮": "Skill Speed Up On Action"
     },
     "7879": {
-        "攻撃時に１５％で|早詠みの杖が|かかる": ""
+        "攻撃時に１５％で|早詠みの杖が|かかる": "15% chance to get|Faster Caster|on an attack."
     },
     "7880": {
-        "死亡時|早詠みの杖が|３０％で残る": ""
+        "死亡時|早詠みの杖が|３０％で残る": "30% chance to|keep Faster|Caster on death."
     },
     "7881": {
-        "死亡時|早詠みの杖が|５０％で残る": ""
+        "死亡時|早詠みの杖が|５０％で残る": "50% chance to|keep Faster|Caster on death."
     },
     "7882": {
-        "死亡時|早詠みの杖が|７０％で残る": ""
+        "死亡時|早詠みの杖が|７０％で残る": "70% chance to|keep Faster|Caster on death."
     },
     "7883": {
         "毒や眠り相手の呪文暴走率": ""
