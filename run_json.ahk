@@ -88,10 +88,10 @@ if (rebuild = "true")
         ;; A lot of dialog text has spaces and line breaks in them, so we need to handle
         ;; these differently as using spaces as line breaks won't work here. This replaces
         ;; the pipe ('|') with a line break and the \t (tab) char with the appropriate value.
-        jp := StrReplace(jp, "7c", "0a")
-        jp := StrReplace(jp, "5C 74", "09")
-        en := StrReplace(en, "7c", "0a")
-        en := StrReplace(en, "5C 74", "09")
+        jp := StrReplace(jp, "7c", "0a")  ;; pipe replace with line break
+        jp := StrReplace(jp, "5C 74", "09")  ;; \t replace with tab
+        en := StrReplace(en, "7c", "0a")  ;; pipe replace with line break
+        en := StrReplace(en, "5C 74", "09")  ;; \t replace with tab
 
         ;; Add null terms until the length of the en string matches the jp string.
         if (jp_len != en_len)

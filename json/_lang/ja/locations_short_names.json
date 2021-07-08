@@ -11835,36 +11835,210 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>東の広場": "<%sW_MAP_NAME><%sW_DELIMITER>東の広場"
   },
   "3946": {
-    "ザードの祭壇 入口": "ザードの祭壇 入口"
+    "第一の領域 出口": "第一の領域 出口"
   },
   "3947": {
-    "閉ざされた水路 出口": "閉ざされた水路 出口"
-  },
-  "3948": {
     "clarity_nt_char_1273": "clarity_nt_char_1273"
   },
+  "3948": {
+    "第一の領域 入口": "第一の領域 入口"
+  },
   "3949": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>孤島の修道院": "<%sW_MAP_NAME><%sW_DELIMITER>孤島の修道院"
-  },
-  "3950": {
-    "ザードの祭壇 出口": "ザードの祭壇 出口"
-  },
-  "3951": {
-    "閉ざされた水路 入口": "閉ざされた水路 入口"
-  },
-  "3952": {
     "clarity_nt_char_1274": "clarity_nt_char_1274"
   },
+  "3950": {
+    "制御室 入口": "制御室 入口"
+  },
+  "3951": {
+    "clarity_nt_char_1275": "clarity_nt_char_1275"
+  },
+  "3952": {
+    "第三の領域 入口": "第三の領域 入口"
+  },
   "3953": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>釣り小屋": "<%sW_MAP_NAME><%sW_DELIMITER>釣り小屋"
+    "clarity_nt_char_1276": "clarity_nt_char_1276"
   },
   "3954": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>？？？階": "<%sW_MAP_NAME><%sW_DELIMITER>？？？階"
+    "第二の領域 入口": "第二の領域 入口"
   },
   "3955": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>第３層・内部": "<%sW_MAP_NAME><%sW_DELIMITER>第３層・内部"
+    "clarity_nt_char_1277": "clarity_nt_char_1277"
   },
   "3956": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>第２層・内部": "<%sW_MAP_NAME><%sW_DELIMITER>第２層・内部"
+    "ザードの祭壇 入口": "ザードの祭壇 入口"
+  },
+  "3957": {
+    "閉ざされた水路 出口": "閉ざされた水路 出口"
+  },
+  "3958": {
+    "clarity_nt_char_1278": "clarity_nt_char_1278"
+  },
+  "3959": {
+    "<%sW_MAP_NAME><%sW_DELIMITER>中心部": "<%sW_MAP_NAME><%sW_DELIMITER>中心部"
+  },
+  "3960": {
+    "clarity_nt_char_1279": "clarity_nt_char_1279"
+  },
+  "3961": {
+    "滅星の邪園 入口": "滅星の邪園 入口"
+  },
+  "3962": {
+    "clarity_nt_char_1280": "clarity_nt_char_1280"
+  },
+  "3963": {
+    "滅星の邪園 出口": "滅星の邪園 出口"
+  },
+  "3964": {
+    "clarity_nt_char_1281": "clarity_nt_char_1281"
+  },
+  "3965": {
+    "第二の領域 出口": "第二の領域 出口"
+  },
+  "3966": {
+    "clarity_nt_char_1282": "clarity_nt_char_1282"
+  },
+  "3967": {
+    "第三の領域 出口": "第三の領域 出口"
+  },
+  "3968": {
+    "clarity_nt_char_1283": "clarity_nt_char_1283"
+  },
+  "3969": {
+    "制御室 出口": "制御室 出口"
+  },
+  "3970": {
+    "clarity_nt_char_1284": "clarity_nt_char_1284"
+  },
+  "3971": {
+    "<%sW_MAP_NAME><%sW_DELIMITER>孤島の修道院": "<%sW_MAP_NAME><%sW_DELIMITER>孤島の修道院"
+  },
+  "3972": {
+    "ザードの祭壇 出口": "ザードの祭壇 出口"
+  },
+  "3973": {
+    "閉ざされた水路 入口": "閉ざされた水路 入口"
+  },
+  "3974": {
+    "clarity_nt_char_1285": "clarity_nt_char_1285"
+  },
+  "3975": {
+    "<%sW_MAP_NAME><%sW_DELIMITER>釣り小屋": "<%sW_MAP_NAME><%sW_DELIMITER>釣り小屋"
+  },
+  "3976": {
+    "滅星の邪園 中心部": "滅星の邪園 中心部"
+  },
+  "3977": {
+    "滅星の邪園": "滅星の邪園"
+  },
+  "3978": {
+    "<%sW_MAP_NAME><%sW_DELIMITER>昇降機": "<%sW_MAP_NAME><%sW_DELIMITER>昇降機"
+  },
+  "3979": {
+    "clarity_nt_char_1286": "clarity_nt_char_1286"
+  },
+  "3980": {
+    "<%sW_MAP_NAME><%sW_DELIMITER>？？？階": "<%sW_MAP_NAME><%sW_DELIMITER>？？？階"
+  },
+  "3981": {
+    "記憶の魔結晶": "記憶の魔結晶"
+  },
+  "3982": {
+    "clarity_nt_char_1287": "clarity_nt_char_1287"
+  },
+  "3983": {
+    "<%sW_MAP_NAME><%sW_DELIMITER>上層・内部": "<%sW_MAP_NAME><%sW_DELIMITER>上層・内部"
+  },
+  "3984": {
+    "clarity_nt_char_1288": "clarity_nt_char_1288"
+  },
+  "3985": {
+    "<%sW_MAP_NAME><%sW_DELIMITER>中層・内部": "<%sW_MAP_NAME><%sW_DELIMITER>中層・内部"
+  },
+  "3986": {
+    "clarity_nt_char_1289": "clarity_nt_char_1289"
+  },
+  "3987": {
+    "<%sW_MAP_NAME><%sW_DELIMITER>崖２": "<%sW_MAP_NAME><%sW_DELIMITER>崖２"
+  },
+  "3988": {
+    "<%sW_MAP_NAME><%sW_DELIMITER>崖１": "<%sW_MAP_NAME><%sW_DELIMITER>崖１"
+  },
+  "3989": {
+    "練習スタジオ 入口": "練習スタジオ 入口"
+  },
+  "3990": {
+    "練習スタジオ 出口": "練習スタジオ 出口"
+  },
+  "3991": {
+    "第一の領域方面": "第一の領域方面"
+  },
+  "3992": {
+    "第二の領域方面": "第二の領域方面"
+  },
+  "3993": {
+    "第三の領域方面": "第三の領域方面"
+  },
+  "3994": {
+    "制御室方面": "制御室方面"
+  },
+  "3995": {
+    "<%sW_MAP_NAME><%sW_DELIMITER>ブルラトスの発着場": "<%sW_MAP_NAME><%sW_DELIMITER>ブルラトスの発着場"
+  },
+  "3996": {
+    "clarity_nt_char_1290": "clarity_nt_char_1290"
+  },
+  "3997": {
+    "<%sW_MAP_NAME><%sW_DELIMITER>終末の径": "<%sW_MAP_NAME><%sW_DELIMITER>終末の径"
+  },
+  "3998": {
+    "<%sW_MAP_NAME><%sW_DELIMITER>炎獄の門": "<%sW_MAP_NAME><%sW_DELIMITER>炎獄の門"
+  },
+  "3999": {
+    "<%sW_MAP_NAME><%sW_DELIMITER>寂滅の道": "<%sW_MAP_NAME><%sW_DELIMITER>寂滅の道"
+  },
+  "4000": {
+    "<%sW_MAP_NAME><%sW_DELIMITER>災異の途": "<%sW_MAP_NAME><%sW_DELIMITER>災異の途"
+  },
+  "4001": {
+    "<%sW_MAP_NAME><%sW_DELIMITER>喪亡の路": "<%sW_MAP_NAME><%sW_DELIMITER>喪亡の路"
+  },
+  "4002": {
+    "亡国の礼拝堂 出口": "亡国の礼拝堂 出口"
+  },
+  "4003": {
+    "亡国の礼拝堂 入口": "亡国の礼拝堂 入口"
+  },
+  "4004": {
+    "真グランゼドーラ王国": "真グランゼドーラ王国"
+  },
+  "4005": {
+    "clarity_nt_char_1291": "clarity_nt_char_1291"
+  },
+  "4006": {
+    "炎獄王の座 入口": "炎獄王の座 入口"
+  },
+  "4007": {
+    "clarity_nt_char_1292": "clarity_nt_char_1292"
+  },
+  "4008": {
+    "炎獄王の座 出口": "炎獄王の座 出口"
+  },
+  "4009": {
+    "clarity_nt_char_1293": "clarity_nt_char_1293"
+  },
+  "4010": {
+    "滅星の深淵 出口": "滅星の深淵 出口"
+  },
+  "4011": {
+    "clarity_nt_char_1294": "clarity_nt_char_1294"
+  },
+  "4012": {
+    "秘密の小部屋 入口": "秘密の小部屋 入口"
+  },
+  "4013": {
+    "秘密の小部屋 出口": "秘密の小部屋 出口"
+  },
+  "4014": {
+    "<%sW_MAP_NAME><%sW_DELIMITER>ブルラトス 発着点": "<%sW_MAP_NAME><%sW_DELIMITER>ブルラトス 発着点"
   }
 }

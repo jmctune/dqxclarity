@@ -318,117 +318,117 @@
     "<speed=0><pc>は|<%sM_item>を　使った。": "<speed=0><pc>は|<%sM_item>を　使った。"
   },
   "107": {
-    "第<%nL_TITLE_NUM>回　<%sL_TITLE>の|<%nL_RANKING_NUM>位になった。": "第<%nL_TITLE_NUM>回　<%sL_TITLE>の|<%nL_RANKING_NUM>位になった。"
+    "第<%nL_TITLE_NUM>回　<%sL_TITLE>の|<%nL_RANKING_NUM>位を得た。": "第<%nL_TITLE_NUM>回　<%sL_TITLE>の|<%nL_RANKING_NUM>位を得た。"
   },
   "108": {
-    "clarity_nt_char_34": "clarity_nt_char_34"
-  },
-  "109": {
     "第<%nL_TITLE_NUM>回　<%sL_TITLE>で|<%nL_RANKING_NUM>位の　釣果を得た。": "第<%nL_TITLE_NUM>回　<%sL_TITLE>で|<%nL_RANKING_NUM>位の　釣果を得た。"
   },
-  "110": {
+  "109": {
     "第<%nL_TITLE_NUM>回　<%sL_TITLE>で|最小<%nL_RANKING_NUM>位の　釣果を得た。": "第<%nL_TITLE_NUM>回　<%sL_TITLE>で|最小<%nL_RANKING_NUM>位の　釣果を得た。"
   },
+  "110": {
+    "バトルグランプリ": "バトルグランプリ"
+  },
   "111": {
-    "コロシアムグランプリ": "コロシアムグランプリ"
+    "clarity_nt_char_34": "clarity_nt_char_34"
   },
   "112": {
-    "clarity_nt_char_35": "clarity_nt_char_35"
-  },
-  "113": {
     "フィッシングコンテスト": "フィッシングコンテスト"
   },
-  "114": {
+  "113": {
     "バトルトリニティ": "バトルトリニティ"
   },
+  "114": {
+    "clarity_nt_char_35": "clarity_nt_char_35"
+  },
   "115": {
-    "clarity_nt_char_36": "clarity_nt_char_36"
-  },
-  "116": {
-    "スライムレース": "スライムレース"
-  },
-  "117": {
     "大富豪決定戦": "大富豪決定戦"
   },
-  "118": {
-    "clarity_nt_char_37": "clarity_nt_char_37"
+  "116": {
+    "clarity_nt_char_36": "clarity_nt_char_36"
   },
-  "119": {
+  "117": {
     "<speed=0><pc>は|<%sM_item>を|写真機に取り付けた。": "<speed=0><pc>は|<%sM_item>を|写真機に取り付けた。"
   },
-  "120": {
+  "118": {
     "しかし　<%sM_item>は|すでに　写真機に　取り付けられていた。": "しかし　<%sM_item>は|すでに　写真機に　取り付けられていた。"
   },
-  "121": {
+  "119": {
     "トロフィー屋で　再入手した　第<%nL_TITLE_NUM>回|<%sL_TITLE>　最小<%nL_RANKING_NUM>位の　証。": "トロフィー屋で　再入手した　第<%nL_TITLE_NUM>回|<%sL_TITLE>　最小<%nL_RANKING_NUM>位の　証。"
+  },
+  "120": {
+    "clarity_nt_char_37": "clarity_nt_char_37"
+  },
+  "121": {
+    "トロフィー屋で　再入手した　第<%nL_TITLE_NUM>回|<%sL_TITLE>　<%nL_RANKING_NUM>位の　証。": "トロフィー屋で　再入手した　第<%nL_TITLE_NUM>回|<%sL_TITLE>　<%nL_RANKING_NUM>位の　証。"
   },
   "122": {
     "clarity_nt_char_38": "clarity_nt_char_38"
   },
   "123": {
-    "トロフィー屋で　再入手した　第<%nL_TITLE_NUM>回|<%sL_TITLE>　<%nL_RANKING_NUM>位の　証。": "トロフィー屋で　再入手した　第<%nL_TITLE_NUM>回|<%sL_TITLE>　<%nL_RANKING_NUM>位の　証。"
+    "<speed=0>『撮影設定』の　『フレーム設定』で|<%sM_frame>を　使えるようになった！<se_nots System 7>": "<speed=0>『撮影設定』の　『フレーム設定』で|<%sM_frame>を　使えるようになった！<se_nots System 7>"
   },
   "124": {
     "clarity_nt_char_39": "clarity_nt_char_39"
   },
   "125": {
-    "<speed=0>『撮影設定』の　『フレーム設定』で|<%sM_frame>を　使えるようになった！<se_nots System 7>": "<speed=0>『撮影設定』の　『フレーム設定』で|<%sM_frame>を　使えるようになった！<se_nots System 7>"
+    "<speed=0>|<pc>は|<%sM_item>を|スタンプリストに入れた。": "<speed=0>|<pc>は|<%sM_item>を|スタンプリストに入れた。"
   },
   "126": {
     "clarity_nt_char_40": "clarity_nt_char_40"
   },
   "127": {
-    "<speed=0>|<pc>は|<%sM_item>を|スタンプリストに入れた。": "<speed=0>|<pc>は|<%sM_item>を|スタンプリストに入れた。"
-  },
-  "128": {
-    "clarity_nt_char_41": "clarity_nt_char_41"
-  },
-  "129": {
     "しかし　<%sM_item>は|すでに　スタンプリストに　入っていた。": "しかし　<%sM_item>は|すでに　スタンプリストに　入っていた。"
   },
-  "130": {
+  "128": {
     "<speed=0>|<%sM_pack>　<%sM_packid>のスタンプを|使えるようになった！ <se_nots System 7>": "<speed=0>|<%sM_pack>　<%sM_packid>のスタンプを|使えるようになった！ <se_nots System 7>"
   },
-  "131": {
+  "129": {
     "<speed=0>|<%sM_stamp>は　すでに使えるようだ。": "<speed=0>|<%sM_stamp>は　すでに使えるようだ。"
   },
-  "132": {
+  "130": {
     "<speed=0>|<%sM_stamp>が　使えるようになった！": "<speed=0>|<%sM_stamp>が　使えるようになった！"
   },
-  "133": {
+  "131": {
     "第<%nL_TITLE_NUM>回　<%sL_TITLE>で|<%nL_RANKING_NUM>位の　成績を修めた。": "第<%nL_TITLE_NUM>回　<%sL_TITLE>で|<%nL_RANKING_NUM>位の　成績を修めた。"
+  },
+  "132": {
+    "clarity_nt_char_41": "clarity_nt_char_41"
+  },
+  "133": {
+    "トロフィー屋で　再入手した　第<%nL_TITLE_NUM>回|<%sL_TITLE>で　<%nL_RANKING_NUM>位となった。": "トロフィー屋で　再入手した　第<%nL_TITLE_NUM>回|<%sL_TITLE>で　<%nL_RANKING_NUM>位となった。"
   },
   "134": {
     "clarity_nt_char_42": "clarity_nt_char_42"
   },
   "135": {
-    "トロフィー屋で　再入手した　第<%nL_TITLE_NUM>回|<%sL_TITLE>で　<%nL_RANKING_NUM>位となった。": "トロフィー屋で　再入手した　第<%nL_TITLE_NUM>回|<%sL_TITLE>で　<%nL_RANKING_NUM>位となった。"
+    "第<%nL_TITLE_NUM>回　<%sL_TITLE>で|<%nL_RANKING_NUM>位の座を　獲得した。": "第<%nL_TITLE_NUM>回　<%sL_TITLE>で|<%nL_RANKING_NUM>位の座を　獲得した。"
   },
   "136": {
     "clarity_nt_char_43": "clarity_nt_char_43"
   },
   "137": {
-    "第<%nL_TITLE_NUM>回　<%sL_TITLE>で|<%nL_RANKING_NUM>位の座を　獲得した。": "第<%nL_TITLE_NUM>回　<%sL_TITLE>で|<%nL_RANKING_NUM>位の座を　獲得した。"
+    "カジノ祭りのポーカー": "カジノ祭りのポーカー"
   },
   "138": {
     "clarity_nt_char_44": "clarity_nt_char_44"
   },
   "139": {
-    "カジノ祭りのポーカー": "カジノ祭りのポーカー"
+    "カジノ祭りのスロット": "カジノ祭りのスロット"
   },
   "140": {
     "clarity_nt_char_45": "clarity_nt_char_45"
   },
   "141": {
-    "カジノ祭りのスロット": "カジノ祭りのスロット"
-  },
-  "142": {
-    "clarity_nt_char_46": "clarity_nt_char_46"
-  },
-  "143": {
     "カジノ祭りのルーレット": "カジノ祭りのルーレット"
   },
-  "144": {
+  "142": {
     "カジノ祭りのビンゴ": "カジノ祭りのビンゴ"
+  },
+  "143": {
+    "スライムレース": "スライムレース"
+  },
+  "144": {
+    "<%sL_PC>が 継続特典係から|手に入れた。": "<%sL_PC>が 継続特典係から|手に入れた。"
   }
 }
