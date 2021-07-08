@@ -26439,7 +26439,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは \\s<%sB_TARGET2>\\m<%sB_TARGET2_ID>\\eに 激怒した！": ""
     },
     "8814": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 開戦時時 たまにテンションがあがるようになった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 開戦時時 たまにテンションがあがるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension rose at the start of battle!"
     },
     "8815": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを 服で からめとった！": ""
