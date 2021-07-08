@@ -7488,7 +7488,7 @@
         "clarity_nt_char_819": "clarity_nt_char_819"
     },
     "2497": {
-        "スティック装備時|さいだいＭＰが|１００増える": "+100 Maximum MP|when wand worn.|"
+        "スティック装備時|さいだいＭＰが|１００増える": "Max MP +100|when a Wand|is equipped."
     },
     "2498": {
         "スティック装備で|戦闘に勝つと|ＭＰが中回復する": "Restore medium MP|after a battle|with a Wand."
@@ -7638,7 +7638,7 @@
         "仲間ひとりを|たまにＨＰ１で|生き返らせる": "Chance to|revive an ally|with 1 HP"
     },
     "2547": {
-        "常時|さいだいＭＰが|５０増える": "Always|+50 MP|"
+        "常時|さいだいＭＰが|５０増える": "Max MP|increased by 50."
     },
     "2548": {
         "clarity_nt_char_836": "clarity_nt_char_836"
