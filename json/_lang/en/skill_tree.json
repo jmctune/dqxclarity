@@ -24009,39 +24009,39 @@
         "両手杖装備時|風特技ダメージが|３％増える": "Wind Skill +3%|when a Staff|is equipped."
     },
     "8004": {
-        "両手杖装備時|土特技ダメージが|１％増える": ""
+        "両手杖装備時|土特技ダメージが|１％増える": "Earth Skill +1%|when a Staff|is equipped."
     },
     "8005": {
-        "両手杖装備時|土特技ダメージが|２％増える": ""
+        "両手杖装備時|土特技ダメージが|２％増える": "Earth Skill +2%|when a Staff|is equipped."
     },
     "8006": {
-        "両手杖装備時|土特技ダメージが|３％増える": ""
+        "両手杖装備時|土特技ダメージが|３％増える": "Earth Skill +3%|when a Staff|is equipped."
     },
     "8007": {
-        "ＭＰ消費しない率": ""
+        "ＭＰ消費しない率": "Don't Use MP Rate"
     },
     "8008": {
         "clarity_nt_char_2725": "clarity_nt_char_2725"
     },
     "8009": {
-        "炎特技のダメージ強化": ""
+        "炎特技のダメージ強化": "Fire Skill Damage Boost"
     },
     "8010": {
         "clarity_nt_char_2726": "clarity_nt_char_2726"
     },
     "8011": {
-        "雷特技のダメージ強化": ""
+        "雷特技のダメージ強化": "Lightning Skill Damage Boost"
     },
     "8012": {
         "clarity_nt_char_2727": "clarity_nt_char_2727"
     },
     "8013": {
-        "風特技のダメージ強化": ""
+        "風特技のダメージ強化": "Wind Skill Damage Boost"
     },
     "8014": {
         "clarity_nt_char_2728": "clarity_nt_char_2728"
     },
     "8015": {
-        "土特技のダメージ強化": ""
+        "土特技のダメージ強化": "Earth Skill Damage Boost"
     }
 }
