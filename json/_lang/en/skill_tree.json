@@ -23499,19 +23499,19 @@
         "【200P】3%で２回行動": "[200P] Double Action 3%"
     },
     "7834": {
-        "【160P】行動時1%で特技発動を短縮": "[160P] Action Speed Up On Action 1%"
+        "【160P】行動時1%で特技発動を短縮": "[160P] Skill Speed Up On Action 1%"
     },
     "7835": {
-        "【170P】行動時2%で特技発動を短縮": "[170P] Action Speed Up On Action 2%"
+        "【170P】行動時2%で特技発動を短縮": "[170P] Skill Speed Up On Action 2%"
     },
     "7836": {
-        "【180P】行動時3%で特技発動を短縮": "[180P] Action Speed Up On Action 3%"
+        "【180P】行動時3%で特技発動を短縮": "[180P] Skill Speed Up On Action 3%"
     },
     "7837": {
-        "【190P】行動時3%で特技発動を短縮": "[190P] Action Speed Up On Action 3%"
+        "【190P】行動時3%で特技発動を短縮": "[190P] Skill Speed Up On Action 3%"
     },
     "7838": {
-        "【200P】行動時3%で特技発動を短縮": "[200P] Action Speed Up On Action 3%"
+        "【200P】行動時3%で特技発動を短縮": "[200P] Skill Speed Up On Action 3%"
     },
     "7839": {
         "50%不滅の波動解放（専）": "Keep Wave Release 50% (EX)"
@@ -23544,19 +23544,19 @@
         "clarity_nt_char_2681": "clarity_nt_char_2681"
     },
     "7849": {
-        "行動時1%特技発動短縮（専）": "Action Speed Up On Action 1% (EX)"
+        "行動時1%特技発動短縮（専）": "Skill Speed Up On Action 1% (EX)"
     },
     "7850": {
         "clarity_nt_char_2682": "clarity_nt_char_2682"
     },
     "7851": {
-        "行動時2%特技発動短縮（専）": "Action Speed Up On Action 2% (EX)"
+        "行動時2%特技発動短縮（専）": "Skill Speed Up On Action 2% (EX)"
     },
     "7852": {
         "clarity_nt_char_2683": "clarity_nt_char_2683"
     },
     "7853": {
-        "行動時3%特技発動短縮（専）": "Action Speed Up On Action 3% (EX)"
+        "行動時3%特技発動短縮（専）": "Skill Speed Up On Action 3% (EX)"
     },
     "7854": {
         "clarity_nt_char_2684": "clarity_nt_char_2684"
@@ -23583,19 +23583,19 @@
         "魔剣士時　行動したとき|たまに特技発動が　短縮されるようになった！": "You now have a chance to quicken skill activation|when using an action as a Demon Swordsman!"
     },
     "7862": {
-        "死亡時|波動解放が|５０％で残る": ""
+        "死亡時|波動解放が|５０％で残る": "50% chance to|keep Wave Release|on death."
     },
     "7863": {
         "clarity_nt_char_2686": "clarity_nt_char_2686"
     },
     "7864": {
-        "死亡時|波動解放が|７５％で残る": ""
+        "死亡時|波動解放が|７５％で残る": "75% chance to|keep Wave Release|on death."
     },
     "7865": {
         "clarity_nt_char_2687": "clarity_nt_char_2687"
     },
     "7866": {
-        "死亡時|波動解放が|確実に残る": ""
+        "死亡時|波動解放が|確実に残る": "100% chance to|keep Wave Release|on death."
     },
     "7867": {
         "魔剣士時|１％の確率で|２回行動": ""
