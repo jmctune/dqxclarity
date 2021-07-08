@@ -879,7 +879,7 @@
         "「さくせん」コマンドの「アンルシア」から|アンルシアの作戦を変えたり|スキルを振ることができます。": "You can change her strategy and assign|her skills by selecting \"Anlucia\" under|the \"Misc.\" command."
     },
     "294": {
-        "「うつしよのカギ」を 使っている間は|勇気の輝きの減少が ストップします。": "Your Spark of Courage will stop decreasing while you are using the \"World Key\""
+        "「うつしよのカギ」を 使っている間は|勇気の輝きの減少が ストップします。": "Your Spark of Courage will stop|decreasing while you are using the|World Key."
     },
     "295": {
         "勇気の輝きの 残り数が少なくなると|たまに 勇気の輝きが回復する|金色のキラキラが 地面に現れます。": "Sometimes, when your Spark of Courage is|low, a golden glitter will appear on the|ground and restore your Spark of Courage."
@@ -888,7 +888,7 @@
         "clarity_nt_char_103": "clarity_nt_char_103"
     },
     "297": {
-        "光を纏っている モンスターは|同種のふつうのモンスターより 手強く|光の霊玉も 多めに 入手できます。": "Monsters that glow with light are tougher|than normal monsters of the same kind,|and you can get more light spirit balls."
+        "光を纏っている モンスターは|同種のふつうのモンスターより 手強く|光の霊玉も 多めに 入手できます。": "Monsters that glow with light are tougher|than normal monsters of the same kind,|and you can get more Light Spirit Balls."
     },
     "298": {
         "「バージョン3.0後期」から しぐさに|「表情」を設定できるようになりました！": "Starting from the second half of |\"Version 3.0\", you can set|\"Facial Expressions\" for gestures!"
