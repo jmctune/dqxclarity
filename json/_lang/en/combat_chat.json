@@ -19842,19 +19842,19 @@
         "clarity_nt_char_2209": "clarity_nt_char_2209"
     },
     "6615": {
-        "仲間ひとりの|ＨＰを最大１２０|少しずつ回復": ""
+        "仲間ひとりの|ＨＰを最大１２０|少しずつ回復": "One ally|recovers 120 HP|over a duration."
     },
     "6616": {
         "clarity_nt_char_2210": "clarity_nt_char_2210"
     },
     "6617": {
-        "仲間ひとりの|ＨＰを最大３００|少しずつ回復": ""
+        "仲間ひとりの|ＨＰを最大３００|少しずつ回復": "One ally|recovers 300 HP|over a duration."
     },
     "6618": {
         "clarity_nt_char_2211": "clarity_nt_char_2211"
     },
     "6619": {
-        "仲間ひとりの|ＨＰを最大５００|少しずつ回復": ""
+        "仲間ひとりの|ＨＰを最大５００|少しずつ回復": "One ally|recovers 500 HP|over a duration."
     },
     "6620": {
         "clarity_nt_char_2212": "clarity_nt_char_2212"
@@ -19875,7 +19875,7 @@
         "仲間ひとりの|毒を消しさる": "Cures a single|ally of|poison."
     },
     "6626": {
-        "仲間ひとりの|マヒをなおす": ""
+        "仲間ひとりの|マヒをなおす": "Cures a single|ally of|paralysis."
     },
     "6627": {
         "仲間ひとりの|眠りをなおす": "Wakes one ally|up from sleep."
@@ -20382,7 +20382,7 @@
         "clarity_nt_char_2269": "clarity_nt_char_2269"
     },
     "6795": {
-        "心をしずめ自分の|ＨＰを最大３００|少しずつ回復": ""
+        "心をしずめ自分の|ＨＰを最大３００|少しずつ回復": "Calm your mind|and recover 300|HP over time."
     },
     "6796": {
         "clarity_nt_char_2270": "clarity_nt_char_2270"
