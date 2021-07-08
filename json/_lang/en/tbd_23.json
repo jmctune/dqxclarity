@@ -57,7 +57,7 @@
         "レベルアップで覚えた呪文は|その職業の時だけ使えます。|転職すると 使えなくなります。": "The spells you learn at level up can only|be used in that vocation. If you change|vocations, you can't use them anymore."
     },
     "20": {
-        "レベルアップで手に入れた|スキルポイントは「さくせん」コマンドの|「スキルふりわけ」から振り分けられます。": "Skill points gained from leveling up|can be used with \"Skill Points\" under|the \"Misc.\" command."
+        "レベルアップで手に入れた|スキルポイントは「さくせん」コマンドの|「スキルふりわけ」から振り分けられます。": "Skill points gained from leveling up can|be used in \"Skill Points\" under the|\"Misc.\" command."
     },
     "21": {
         "スキルで覚えた特技には どの職業でも|使える特技と その職業のときだけ使える|特別な（専）特技があります。": "There are two types of skills: those that|can be used in any vocation and those|that can only be used in that vocation."
