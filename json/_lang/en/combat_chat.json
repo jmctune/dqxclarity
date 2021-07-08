@@ -19899,7 +19899,7 @@
         "仲間ひとりの|守備力を|少し上げる": "Slightly raises|the defense of|one ally."
     },
     "6634": {
-        "仲間ひとりの|行動間隔を|少し短くする": ""
+        "仲間ひとりの|行動間隔を|少し短くする": "Shortens action|wait of|one ally."
     },
     "6635": {
         "周囲の仲間の|行動間隔を|少し短くする": "Shortens action|wait of|nearby allies."
@@ -19995,7 +19995,7 @@
         "敵１体から|ＭＰを吸いとる": "Steal MP from|a single enemy."
     },
     "6666": {
-        "エリアに入ると|動作不能になる|魔法陣を描く": ""
+        "エリアに入ると|動作不能になる|魔法陣を描く": "A circle trap|that will|disable enemies."
     },
     "6667": {
         "clarity_nt_char_2225": "clarity_nt_char_2225"
@@ -22530,7 +22530,7 @@
         "敵モンスターを|２体呼び寄せる|まもの使い専用": ""
     },
     "7511": {
-        "呪文特技の発動と|行動間隔を短縮|踊り子専用": ""
+        "呪文特技の発動と|行動間隔を短縮|踊り子専用": "Quickens action|execution and|action wait time."
     },
     "7512": {
         "clarity_nt_char_2506": "clarity_nt_char_2506"
