@@ -19686,7 +19686,7 @@
         "周囲を巻き込む|巨大な氷の柱が|敵に突きささる": "A huge ice pillar|engulfs nearby|enemies."
     },
     "6563": {
-        "小さな光の爆発で|自分の周りの|敵を攻撃": "Attack enemies|nearby with|small explosion"
+        "小さな光の爆発で|自分の周りの|敵を攻撃": "Attack enemies|nearby with a|small explosion."
     },
     "6564": {
         "clarity_nt_char_2191": "clarity_nt_char_2191"
@@ -19881,7 +19881,7 @@
         "仲間ひとりの|眠りをなおす": "Wakes one ally|up from sleep."
     },
     "6628": {
-        "仲間ひとりの|幻惑をなおす": "Remove|dazzle|status effect"
+        "仲間ひとりの|幻惑をなおす": "Cures the blind|status from|an ally."
     },
     "6629": {
         "仲間ひとりの|呪文封じをなおす": "Cures the|fizzle status|of one ally."
