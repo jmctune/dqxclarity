@@ -19878,7 +19878,7 @@
         "仲間ひとりの|マヒをなおす": ""
     },
     "6627": {
-        "仲間ひとりの|眠りをなおす": ""
+        "仲間ひとりの|眠りをなおす": "Wakes one ally|up from sleep."
     },
     "6628": {
         "仲間ひとりの|幻惑をなおす": "Remove|dazzle|status effect"
@@ -19941,13 +19941,13 @@
         "範囲内にいる|敵の行動間隔を|長くする": ""
     },
     "6648": {
-        "１回だけ|呪文をはねかえす|魔法のバリア": ""
+        "１回だけ|呪文をはねかえす|魔法のバリア": "A barrier that|reflects a spell|one time."
     },
     "6649": {
         "clarity_nt_char_2218": "clarity_nt_char_2218"
     },
     "6650": {
-        "一定時間|呪文をはねかえす|魔法のバリア": ""
+        "一定時間|呪文をはねかえす|魔法のバリア": "A barrier that|continually|reflects spells."
     },
     "6651": {
         "clarity_nt_char_2219": "clarity_nt_char_2219"
