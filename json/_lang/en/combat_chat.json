@@ -19764,10 +19764,10 @@
         "clarity_nt_char_2200": "clarity_nt_char_2200"
     },
     "6589": {
-        "一定時間が経つと|大地が爆発する|結界を地面に描く": "Earth blasts|from the ground|after a time."
+        "一定時間が経つと|大地が爆発する|結界を地面に描く": "Earth rises|from the ground|after a time."
     },
     "6590": {
-        "一定時間が経つと|大地が大爆発する|結界を地面に描く": "Earth rises|from the ground|after a time."
+        "一定時間が経つと|大地が大爆発する|結界を地面に描く": "Earth blasts|from the ground|after a time."
     },
     "6591": {
         "clarity_nt_char_2201": "clarity_nt_char_2201"
@@ -19983,7 +19983,7 @@
         "clarity_nt_char_2224": "clarity_nt_char_2224"
     },
     "6662": {
-        "敵１体を|眠りにさそう": ""
+        "敵１体を|眠りにさそう": "Puts one enemy|to sleep."
     },
     "6663": {
         "範囲内の敵を|深い眠りにさそう": "Attempts to put|nearby enemies|to sleep."
