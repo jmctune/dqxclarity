@@ -1236,7 +1236,7 @@
         "マヒャデドス（専）": "Kacrackle (EX)"
     },
     "413": {
-        "ＭＰ消費しない率+2%（専）": ""
+        "ＭＰ消費しない率+2%（専）": "Don't Use MP Rate +2% (EX)"
     },
     "414": {
         "clarity_nt_char_136": "clarity_nt_char_136"
@@ -3459,7 +3459,7 @@
         "マヒャデドス（専）の呪文を　おぼえた！": "You learned Kacrackle!"
     },
     "1154": {
-        "魔法使い時|２％の確率で　ＭＰを消費しなくなった！": ""
+        "魔法使い時|２％の確率で　ＭＰを消費しなくなった！": "You now have a 2% chance to not consume|MP as a Mage!"
     },
     "1155": {
         "メラガイアー（専）の呪文を　おぼえた！": "You learned Kafrizzle!"
@@ -4050,7 +4050,7 @@
         "clarity_nt_char_456": "clarity_nt_char_456"
     },
     "1351": {
-        "天地雷鳴士時|２％の確率で　ＭＰを消費しなくなった！": ""
+        "天地雷鳴士時|２％の確率で　ＭＰを消費しなくなった！": "You now have a 2% chance to not consume|MP as a Druid!"
     },
     "1352": {
         "clarity_nt_char_457": "clarity_nt_char_457"
