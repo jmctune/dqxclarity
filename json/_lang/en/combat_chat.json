@@ -24981,7 +24981,7 @@
         "clarity_nt_char_2767": "clarity_nt_char_2767"
     },
     "8328": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 開戦時 たまにテンションがあがるようになった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 開戦時 たまにテンションがあがるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension rose at the start of battle!"
     },
     "8329": {
         "clarity_nt_char_2768": "clarity_nt_char_2768"
@@ -25494,7 +25494,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔が 短くなった！": ""
     },
     "8499": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 攻撃時 たまにテンションが上がるようになった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 攻撃時 たまにテンションが上がるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension rose after making an attack!"
     },
     "8500": {
         "clarity_nt_char_2826": "clarity_nt_char_2826"
@@ -25674,7 +25674,7 @@
         "clarity_nt_char_2848": "clarity_nt_char_2848"
     },
     "8559": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 攻撃時に たまにテンションがあがるようになった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 攻撃時に たまにテンションがあがるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension rose after making an attack!"
     },
     "8560": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは テンションを 維持するようになった！": ""
@@ -25929,7 +25929,7 @@
         "clarity_nt_char_2881": "clarity_nt_char_2881"
     },
     "8644": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 行動時に たまにテンションがあがるようになった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 行動時に たまにテンションがあがるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension rose after using an action!"
     },
     "8645": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは コトブキーノと戦闘時 陽の試練壱・陽炎が出現！": ""
