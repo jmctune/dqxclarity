@@ -7635,7 +7635,7 @@
         "clarity_nt_char_835": "clarity_nt_char_835"
     },
     "2546": {
-        "仲間ひとりを|たまにＨＰ１で|生き返らせる": "Chance to|revive an ally|with 1 HP"
+        "仲間ひとりを|たまにＨＰ１で|生き返らせる": "Chance to|revive an ally|with 1 HP."
     },
     "2547": {
         "常時|さいだいＭＰが|５０増える": "Increases|Max MP by 50."
@@ -7710,10 +7710,10 @@
         "clarity_nt_char_845": "clarity_nt_char_845"
     },
     "2571": {
-        "仲間ひとりを|生き返らせるが|失敗する時もある": "Chance to|revive an|ally"
+        "仲間ひとりを|生き返らせるが|失敗する時もある": "Chance to|revive an|ally."
     },
     "2572": {
-        "ＨＰが０になる|攻撃を受けても|たまに生き残る": ""
+        "ＨＰが０になる|攻撃を受けても|たまに生き残る": "Sometimes survive|attacks that|are fatal."
     },
     "2573": {
         "常時|さいだいＭＰが|４５増える": "Increases|Max MP by 45."
