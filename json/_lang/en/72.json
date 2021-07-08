@@ -33,10 +33,10 @@
     "盾": "Shd"
   },
   "12": {
-    "片手剣": "1H Sword"
+    "片手剣": "Sword"
   },
   "13": {
-    "両手剣": "2H Sword"
+    "両手剣": "Claymore"
   },
   "14": {
     "短剣": "Dagger"
@@ -45,10 +45,10 @@
     "clarity_nt_char_4": "clarity_nt_char_4"
   },
   "16": {
-    "スティック": "1H Wand"
+    "スティック": "Wand"
   },
   "17": {
-    "両手杖": "H. Wand"
+    "両手杖": "Staff"
   },
   "18": {
     "ヤリ": "Spear"
@@ -69,7 +69,7 @@
     "clarity_nt_char_7": "clarity_nt_char_7"
   },
   "24": {
-    "棍": "Stf"
+    "棍": "Rod"
   },
   "25": {
     "ツメ": "Claws"
@@ -93,37 +93,37 @@
     "弓": "Bow"
   },
   "32": {
-    "インテリアじまん・かわいい系": "Interior Proud - Cute"
+    "インテリアじまん・かわいい系": "Interior Type - Cute"
   },
   "33": {
     "clarity_nt_char_10": "clarity_nt_char_10"
   },
   "34": {
-    "インテリアじまん・おもしろ系": "Interioir Proud - Interesting"
+    "インテリアじまん・おもしろ系": "Interior Type - Interesting"
   },
   "35": {
     "clarity_nt_char_11": "clarity_nt_char_11"
   },
   "36": {
-    "インテリアじまん・おしゃれ系": "Interior Proud - Fashionable"
+    "インテリアじまん・おしゃれ系": "Interior Type - Fashionable"
   },
   "37": {
     "clarity_nt_char_12": "clarity_nt_char_12"
   },
   "38": {
-    "インテリアじまん・クール系": "Interior Proud - Cool"
+    "インテリアじまん・クール系": "Interior Type - Cool"
   },
   "39": {
-    "インテリアじまん・コレクター系": "Interior Proud - Collector"
+    "インテリアじまん・コレクター系": "Interior Type - Collector"
   },
   "40": {
-    "インテリアじまん・庭にこだわり系": "Interior Proud - Gardening"
+    "インテリアじまん・庭にこだわり系": "Interior Type - Gardening"
   },
   "41": {
     "clarity_nt_char_13": "clarity_nt_char_13"
   },
   "42": {
-    "インテリアじまん・その他": "Interior Proud - Other"
+    "インテリアじまん・その他": "Interior Type - Other"
   },
   "43": {
     "clarity_nt_char_14": "clarity_nt_char_14"
@@ -147,7 +147,7 @@
     "clarity_nt_char_17": "clarity_nt_char_17"
   },
   "50": {
-    "モーモンバザー・道具鍛冶中心": "Sanguini Bazaar - Item Maker Center"
+    "モーモンバザー・道具鍛冶中心": "Sanguini Bazaar - Toolsmith Center"
   },
   "51": {
     "clarity_nt_char_18": "clarity_nt_char_18"
@@ -468,10 +468,10 @@
     "clarity_nt_char_55": "clarity_nt_char_55"
   },
   "157": {
-    "ゴールドマンMAX": "Goldman MAX"
+    "ゴールドマンMAX": "Gold Golem MAX"
   },
   "158": {
-    "トンブレロ": "Tombrero"
+    "トンブレロ": "Ham Shamwitch"
   },
   "159": {
     "レインボウズ": "Rainbows"
@@ -658,5 +658,20 @@
   },
   "220": {
     "四の災壇": "4th Disaster"
+  },
+  "221": {
+    "clarity_nt_char_72": "clarity_nt_char_72"
+  },
+  "222": {
+    "合成手数料": ""
+  },
+  "223": {
+    "ラッキー合成": ""
+  },
+  "224": {
+    "clarity_nt_char_73": "clarity_nt_char_73"
+  },
+  "225": {
+    "会心の合成": ""
   }
 }

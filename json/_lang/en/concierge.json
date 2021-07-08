@@ -135,7 +135,7 @@
     "銀のロザリオの破片": "Silver Rosary Shard"
   },
   "46": {
-    "悪霊の仮面の破片": "Fiend's Mask Shard"
+    "悪霊の仮面の破片": "Demon Gods Mask Shard"
   },
   "47": {
     "clarity_nt_char_15": "clarity_nt_char_15"
@@ -162,7 +162,7 @@
     "clarity_nt_char_18": "clarity_nt_char_18"
   },
   "55": {
-    "海魔の眼甲の破片": "Sea Demon Foot Shard"
+    "海魔の眼甲の破片": "Sea Devil's Eye Shard"
   },
   "56": {
     "clarity_nt_char_19": "clarity_nt_char_19"
@@ -171,7 +171,7 @@
     "忠誠のチョーカーの破片": "Loyalty Choker Shard"
   },
   "58": {
-    "アクセルギアの破片": "Accelerator Gear Shard"
+    "アクセルギアの破片": "Accelerator Mask Shard"
   },
   "59": {
     "幻界のゆびわの破片": "Phantom World Ring Shard"
@@ -183,7 +183,7 @@
     "金のロザリオの破片": "Gold Rosary Shard"
   },
   "62": {
-    "魔人の勲章の破片": "Demon's Medal Shard"
+    "魔人の勲章の破片": "Ruin's Medal Shard"
   },
   "63": {
     "clarity_nt_char_20": "clarity_nt_char_20"
@@ -195,13 +195,13 @@
     "clarity_nt_char_21": "clarity_nt_char_21"
   },
   "66": {
-    "機神の眼甲の破片": "Mech God's Foot Shard"
+    "機神の眼甲の破片": "Mech God's Eye Shard"
   },
   "67": {
     "clarity_nt_char_22": "clarity_nt_char_22"
   },
   "68": {
-    "氷闇の月飾りの破片": "Dark Ice Moon Shard"
+    "氷闇の月飾りの破片": "Dark and Ice Moon Shard"
   },
   "69": {
     "将軍のゆびわの破片": "General's Ring Shard"
@@ -231,7 +231,7 @@
     "剛勇のベルトの破片": "Brave Belt Shard"
   },
   "78": {
-    "ガナン帝国の勲章の破片": "Ganan Emp. Order Shard"
+    "ガナン帝国の勲章の破片": "Ganan Empire Medal Shard"
   },
   "79": {
     "竜のうろこの破片": "Dragon Scale Shard"
@@ -379,5 +379,17 @@
   },
   "127": {
     "万魔の大紋章の破片": "Great Manma Crest Shard"
+  },
+  "128": {
+    "ハッピーハート": ""
+  },
+  "129": {
+    "モンスターの|幸せな気持ちが|形になった宝石": ""
+  },
+  "130": {
+    "clarity_nt_char_43": "clarity_nt_char_43"
+  },
+  "131": {
+    "幻界王の首かざりの破片": ""
   }
 }

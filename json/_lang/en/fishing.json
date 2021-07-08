@@ -132,7 +132,7 @@
     "clarity_nt_char_15": "clarity_nt_char_15"
   },
   "45": {
-    "道しるべの川": ""
+    "道しるべの川": "Road's River"
   },
   "46": {
     "clarity_nt_char_16": "clarity_nt_char_16"
@@ -438,7 +438,7 @@
     "clarity_nt_char_46": "clarity_nt_char_46"
   },
   "147": {
-    "さかなは　大きくクチを　開けた！|次の行動は　やばそうだ！": ""
+    "さかなは　大きくクチを　開けた！|次の行動は　やばそうだ！": "The fish opened its mouth wide!|Watch out for its next move!"
   },
   "148": {
     "さかなの　つうこんのかみつき！": "The fish bit with grief!"
@@ -681,7 +681,7 @@
     "しかし　なにもおこらなかった。": "But...nothing happened."
   },
   "228": {
-    "トゲトゲルアーのチカラで|くいつき度が　減らなかった！": ""
+    "トゲトゲルアーのチカラで|くいつき度が　減らなかった！": "With the thorny lure's power,|the biting rate didn't decrease!"
   },
   "229": {
     "天使のルアーのチカラで　くいつき度が増えた！": "The angel lure's power has increased biting chance!"
@@ -690,7 +690,7 @@
     "clarity_nt_char_73": "clarity_nt_char_73"
   },
   "231": {
-    "さかなの行動に反応して　ルアーが輝きだした！|やいばのルアーのチカラで　さかなを引き寄せた！": ""
+    "さかなの行動に反応して　ルアーが輝きだした！|やいばのルアーのチカラで　さかなを引き寄せた！": "The lure began shining in response to the fish's action!|The power of the spiky lure attracted the fish!"
   },
   "232": {
     "clarity_nt_char_74": "clarity_nt_char_74"
@@ -708,31 +708,31 @@
     "clarity_nt_char_76": "clarity_nt_char_76"
   },
   "237": {
-    "さらに引き寄せる力アップは|覚えているだけで　常に　引き寄せる力が|より　上がるようになります。": ""
+    "さらに引き寄せる力アップは|覚えているだけで　常に　引き寄せる力が|より　上がるようになります。": "\"Increased Reel Power\" increases|the strength of reeling in fish."
   },
   "238": {
     "clarity_nt_char_77": "clarity_nt_char_77"
   },
   "239": {
-    "釣り会心率0.5％アップは|覚えているだけで　常に釣り会心率が|0.5％分　上がるようになります。": ""
+    "釣り会心率0.5％アップは|覚えているだけで　常に釣り会心率が|0.5％分　上がるようになります。": "\"Critical Reel Rate 0.5%\" increases the chance|you'll get a critical reel in by 0.5%."
   },
   "240": {
-    "くいつき度アップは|覚えているだけで　常にくいつき度が|少し　上がるようになります。": ""
+    "くいつき度アップは|覚えているだけで　常にくいつき度が|少し　上がるようになります。": "\"Increased Bite Rate\" will increase the bite rate|of fish that are normally more difficult."
   },
   "241": {
     "clarity_nt_char_78": "clarity_nt_char_78"
   },
   "242": {
-    "さおゆるめ回復量アップは|覚えているだけで　さおをゆるめた時の|回復量が　少し　上がるようになります。": ""
+    "さおゆるめ回復量アップは|覚えているだけで　さおをゆるめた時の|回復量が　少し　上がるようになります。": "\"Line Loosen Recovery Up\" increases the amount|that your line recovers by when loosening it."
   },
   "243": {
-    "ビッグサイズ確率アップは|覚えているだけで　ビッグサイズの魚が|かかりやすく　なります。": ""
+    "ビッグサイズ確率アップは|覚えているだけで　ビッグサイズの魚が|かかりやすく　なります。": "\"Big Size Rate Up\" increases the chance that|the fish you catch will be of \"Big\" size."
   },
   "244": {
     "clarity_nt_char_79": "clarity_nt_char_79"
   },
   "245": {
-    "キングサイズ確率アップは|覚えているだけで　キングサイズの魚が|かかりやすく　なります。": ""
+    "キングサイズ確率アップは|覚えているだけで　キングサイズの魚が|かかりやすく　なります。": "\"King Size Rate Up\" increases the chance that|the fish you catch will be of \"King\" size."
   },
   "246": {
     "clarity_nt_char_80": "clarity_nt_char_80"
@@ -774,7 +774,7 @@
     "clarity_nt_char_85": "clarity_nt_char_85"
   },
   "259": {
-    "釣りざおの冷気で|さかなを凍らせる": ""
+    "釣りざおの冷気で|さかなを凍らせる": "Uses your rod's cold air|to freeze the fish."
   },
   "260": {
     "ナツリ特製の旬の|秘められた力で|釣りさおを引く": "A rod made by|Natsuri with a|hidden power."
@@ -792,7 +792,7 @@
     "clarity_nt_char_87": "clarity_nt_char_87"
   },
   "265": {
-    "釣りをあきらめて|さかなを逃がす": ""
+    "釣りをあきらめて|さかなを逃がす": "Give up on|fishing and let|the fish escape."
   },
   "266": {
     "clarity_nt_char_88": "clarity_nt_char_88"
@@ -834,6 +834,6 @@
     "堀": "Mo."
   },
   "279": {
-    "貯水槽": ""
+    "貯水槽": "Aqua Tank"
   }
 }

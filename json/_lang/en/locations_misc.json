@@ -81,64 +81,64 @@
     "その他のエリア": "Other Area"
   },
   "28": {
-    "過去世界エリア": ""
+    "過去世界エリア": "Past Era Area"
   },
   "29": {
-    "<%sW_REP_MAX_2ND_F>ココラタエリア": "F. Cocoratha Area"
+    "<%sW_REP_MAX_2ND_F>ココラタエリア": "False Cocoratha Area"
   },
   "30": {
     "clarity_nt_char_10": "clarity_nt_char_10"
   },
   "31": {
-    "<%sW_REP_MAX_2ND_F>グランゼドーラエリア": "F. Gran Zedora Area"
+    "<%sW_REP_MAX_2ND_F>グランゼドーラエリア": "False Gran Zedora Area"
   },
   "32": {
-    "<%sW_REP_MAX_2ND_F>メルサンディエリア": "F. Melsandy Area"
+    "<%sW_REP_MAX_2ND_F>メルサンディエリア": "False Melsandy Area"
   },
   "33": {
     "clarity_nt_char_11": "clarity_nt_char_11"
   },
   "34": {
-    "<%sW_REP_MAX_2ND_F>セレドエリア": "F. Celed Area"
+    "<%sW_REP_MAX_2ND_F>セレドエリア": "False Celed Area"
   },
   "35": {
-    "<%sW_REP_MAX_2ND_F>アラハギーロエリア": "F. Arahagiro Area"
+    "<%sW_REP_MAX_2ND_F>アラハギーロエリア": "False Arahagiro Area"
   },
   "36": {
     "clarity_nt_char_12": "clarity_nt_char_12"
   },
   "37": {
-    "<%sW_REP_MAX_2ND_F>エテーネエリア": "F. Ethene Area"
+    "<%sW_REP_MAX_2ND_F>エテーネエリア": "False Ethene Area"
   },
   "38": {
     "clarity_nt_char_13": "clarity_nt_char_13"
   },
   "39": {
-    "<%sW_REP_MAX_2ND_R>ココラタエリア": "T. Cocoratha Area"
+    "<%sW_REP_MAX_2ND_R>ココラタエリア": "True Cocoratha Area"
   },
   "40": {
     "clarity_nt_char_14": "clarity_nt_char_14"
   },
   "41": {
-    "<%sW_REP_MAX_2ND_R>グランゼドーラエリア": "T. Gran Zedora Area"
+    "<%sW_REP_MAX_2ND_R>グランゼドーラエリア": "True Gran Zedora Area"
   },
   "42": {
-    "<%sW_REP_MAX_2ND_R>メルサンディエリア": "T. Melsandy Area"
+    "<%sW_REP_MAX_2ND_R>メルサンディエリア": "True Melsandy Area"
   },
   "43": {
     "clarity_nt_char_15": "clarity_nt_char_15"
   },
   "44": {
-    "<%sW_REP_MAX_2ND_R>セレドエリア": "T. Celed Area"
+    "<%sW_REP_MAX_2ND_R>セレドエリア": "True Celed Area"
   },
   "45": {
-    "<%sW_REP_MAX_2ND_R>アラハギーロエリア": "T. Arahagiro Area"
+    "<%sW_REP_MAX_2ND_R>アラハギーロエリア": "True Arahagiro Area"
   },
   "46": {
     "clarity_nt_char_16": "clarity_nt_char_16"
   },
   "47": {
-    "<%sW_REP_MAX_2ND_R>エテーネエリア": "T. Ethene Area"
+    "<%sW_REP_MAX_2ND_R>エテーネエリア": "True Ethene Area"
   },
   "48": {
     "clarity_nt_char_17": "clarity_nt_char_17"
@@ -195,7 +195,7 @@
     "ファラザードエリア": "Farazard Area"
   },
   "66": {
-    "ネクロデアエリア": "Necrodia Area"
+    "ネクロデアエリア": "Necrodea Area"
   },
   "67": {
     "clarity_nt_char_19": "clarity_nt_char_19"
@@ -213,6 +213,6 @@
     "clarity_nt_char_21": "clarity_nt_char_21"
   },
   "72": {
-    "狭間の世界エリア": ""
+    "狭間の世界エリア": "Between World Area"
   }
 }

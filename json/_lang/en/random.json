@@ -87,7 +87,7 @@
     "おじぎ": "Bow"
   },
   "30": {
-    "ベリーダンス": ""
+    "ベリーダンス": "Belly Dance"
   },
   "31": {
     "clarity_nt_char_11": "clarity_nt_char_11"
@@ -123,7 +123,7 @@
     "clarity_nt_char_14": "clarity_nt_char_14"
   },
   "42": {
-    "ツッコミ": "Sober Slap"
+    "ツッコミ": "Fan Slap"
   },
   "43": {
     "clarity_nt_char_15": "clarity_nt_char_15"
@@ -162,7 +162,7 @@
     "clarity_nt_char_19": "clarity_nt_char_19"
   },
   "55": {
-    "ショックをうける": ""
+    "ショックをうける": "Received a shock!"
   },
   "56": {
     "clarity_nt_char_20": "clarity_nt_char_20"
@@ -180,13 +180,13 @@
     "決めポーズ中央後列": ""
   },
   "61": {
-    "決めポーズ右": ""
+    "決めポーズ右": "Decisive Pose R"
   },
   "62": {
     "clarity_nt_char_22": "clarity_nt_char_22"
   },
   "63": {
-    "決めポーズ左": ""
+    "決めポーズ左": "Decisive Pose R"
   },
   "64": {
     "clarity_nt_char_23": "clarity_nt_char_23"
@@ -288,13 +288,13 @@
     "clarity_nt_char_35": "clarity_nt_char_35"
   },
   "97": {
-    "決めポーズ右前列": ""
+    "決めポーズ右前列": "Decisive Pose R Front"
   },
   "98": {
     "clarity_nt_char_36": "clarity_nt_char_36"
   },
   "99": {
-    "決めポーズ左前列": ""
+    "決めポーズ左前列": "Decisive Pose L Front"
   },
   "100": {
     "clarity_nt_char_37": "clarity_nt_char_37"
@@ -459,7 +459,7 @@
     "clarity_nt_char_54": "clarity_nt_char_54"
   },
   "154": {
-    "リュートを奏でる": ""
+    "リュートを奏でる": "Play Lute"
   },
   "155": {
     "clarity_nt_char_55": "clarity_nt_char_55"
@@ -804,7 +804,7 @@
     "ダンシングライト紫": ""
   },
   "269": {
-    "○を描く": "Draw an O"
+    "○を描く": "Draw an X"
   },
   "270": {
     "clarity_nt_char_91": "clarity_nt_char_91"
@@ -876,7 +876,7 @@
     "まえならえ・後": ""
   },
   "293": {
-    "トランプ": ""
+    "トランプ": "Game Card"
   },
   "294": {
     "clarity_nt_char_100": "clarity_nt_char_100"
@@ -918,7 +918,7 @@
     "clarity_nt_char_104": "clarity_nt_char_104"
   },
   "307": {
-    "バトルトリニティ": ""
+    "バトルトリニティ": "Battle Trinity"
   },
   "308": {
     "clarity_nt_char_105": "clarity_nt_char_105"
@@ -1164,7 +1164,7 @@
     "clarity_nt_char_127": "clarity_nt_char_127"
   },
   "389": {
-    "王者の居住まい": ""
+    "王者の居住まい": "King's Residence"
   },
   "390": {
     "ヨーヨー風船": "Balloon Yoyo"
@@ -1320,7 +1320,7 @@
     "clarity_nt_char_141": "clarity_nt_char_141"
   },
   "441": {
-    "<%sL_ACTOR>は　<%sL_TARGET>に　ショックをうけた！": ""
+    "<%sL_ACTOR>は　<%sL_TARGET>に　ショックをうけた！": "<%sL_ACTOR> gave <%sL_TARGET> a shock!"
   },
   "442": {
     "clarity_nt_char_142": "clarity_nt_char_142"
@@ -1392,345 +1392,357 @@
     "clarity_nt_char_148": "clarity_nt_char_148"
   },
   "465": {
-    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　カードを引いた。　→　<%sL_STRING>": ""
+    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　カードを引いた。　→　<%sL_STRING>": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\ drew a card.　→　<%sL_STRING>"
   },
   "466": {
     "clarity_nt_char_149": "clarity_nt_char_149"
   },
   "467": {
-    "ありがとう！": "Thank You!"
+    "スケッチ": ""
   },
   "468": {
     "clarity_nt_char_150": "clarity_nt_char_150"
   },
   "469": {
-    "こんにちは！": "Hello!"
+    "超ハッスルダンス": ""
   },
   "470": {
     "clarity_nt_char_151": "clarity_nt_char_151"
   },
   "471": {
-    "がんばって！": "Good Luck!"
+    "ありがとう！": "Thank You!"
   },
   "472": {
     "clarity_nt_char_152": "clarity_nt_char_152"
   },
   "473": {
-    "おめでとう！": "Congratulations!"
+    "こんにちは！": "Hello!"
   },
   "474": {
     "clarity_nt_char_153": "clarity_nt_char_153"
   },
   "475": {
-    "どういたしまして": ""
+    "がんばって！": "Good Luck!"
   },
   "476": {
     "clarity_nt_char_154": "clarity_nt_char_154"
   },
   "477": {
-    "よろしくお願いします": "Nice to meet you!"
+    "おめでとう！": "Congratulations!"
   },
   "478": {
     "clarity_nt_char_155": "clarity_nt_char_155"
   },
   "479": {
-    "おつかれさまでした": "Thanks for your hard work."
+    "どういたしまして": ""
   },
   "480": {
-    "ごめんなさい": "Decline"
-  },
-  "481": {
     "clarity_nt_char_156": "clarity_nt_char_156"
   },
+  "481": {
+    "よろしくお願いします": "Nice to meet you!"
+  },
   "482": {
-    "準備ＯＫ？": ""
-  },
-  "483": {
-    "ＯＫ！": ""
-  },
-  "484": {
-    "ちょっと待って": "Wait a moment!"
-  },
-  "485": {
-    "こっちこっち！": ""
-  },
-  "486": {
-    "パーティ組みませんか": ""
-  },
-  "487": {
     "clarity_nt_char_157": "clarity_nt_char_157"
   },
-  "488": {
-    "今日はもう終わります": ""
+  "483": {
+    "おつかれさまでした": "Thanks for your hard work."
   },
-  "489": {
+  "484": {
+    "ごめんなさい": "Decline"
+  },
+  "485": {
     "clarity_nt_char_158": "clarity_nt_char_158"
   },
+  "486": {
+    "準備ＯＫ？": ""
+  },
+  "487": {
+    "ＯＫ！": ""
+  },
+  "488": {
+    "ちょっと待って": "Wait a moment!"
+  },
+  "489": {
+    "こっちこっち！": ""
+  },
   "490": {
-    "道に迷いました……": ""
+    "パーティ組みませんか": ""
   },
   "491": {
-    "ドンマイ": ""
-  },
-  "492": {
     "clarity_nt_char_159": "clarity_nt_char_159"
   },
+  "492": {
+    "今日はもう終わります": ""
+  },
   "493": {
-    "離席します": ""
-  },
-  "494": {
-    "お待たせしました": "Thanks for waiting!"
-  },
-  "495": {
     "clarity_nt_char_160": "clarity_nt_char_160"
   },
+  "494": {
+    "道に迷いました……": ""
+  },
+  "495": {
+    "ドンマイ": ""
+  },
   "496": {
-    "おかえり！": "Welcome Home!"
-  },
-  "497": {
-    "いいね！": "Nice!"
-  },
-  "498": {
     "clarity_nt_char_161": "clarity_nt_char_161"
   },
+  "497": {
+    "離席します": ""
+  },
+  "498": {
+    "お待たせしました": "Thanks for waiting!"
+  },
   "499": {
-    "やったー！": "Yay!"
-  },
-  "500": {
-    "まちがえました": ""
-  },
-  "501": {
-    "あっはっは！": "Ahaha!"
-  },
-  "502": {
     "clarity_nt_char_162": "clarity_nt_char_162"
   },
-  "503": {
-    "！": ""
+  "500": {
+    "おかえり！": "Welcome Home!"
   },
-  "504": {
-    "？": ""
+  "501": {
+    "いいね！": "Nice!"
   },
-  "505": {
-    "てれるなあ": ""
-  },
-  "506": {
-    "おいのり": "Prayer"
-  },
-  "507": {
+  "502": {
     "clarity_nt_char_163": "clarity_nt_char_163"
   },
-  "508": {
-    "座って休もう": ""
+  "503": {
+    "やったー！": "Yay!"
   },
-  "509": {
+  "504": {
+    "まちがえました": ""
+  },
+  "505": {
+    "あっはっは！": "Ahaha!"
+  },
+  "506": {
     "clarity_nt_char_164": "clarity_nt_char_164"
   },
+  "507": {
+    "！": ""
+  },
+  "508": {
+    "？": ""
+  },
+  "509": {
+    "てれるなあ": ""
+  },
   "510": {
-    "ダイス！": "Dice!"
+    "おいのり": "Prayer"
   },
   "511": {
     "clarity_nt_char_165": "clarity_nt_char_165"
   },
   "512": {
-    "逃げよう！": ""
+    "座って休もう": ""
   },
   "513": {
-    "集中攻撃で！": ""
-  },
-  "514": {
     "clarity_nt_char_166": "clarity_nt_char_166"
   },
+  "514": {
+    "ダイス！": "Dice!"
+  },
   "515": {
-    "応援お願いします！": ""
-  },
-  "516": {
-    "ピンチです！": ""
-  },
-  "517": {
     "clarity_nt_char_167": "clarity_nt_char_167"
   },
+  "516": {
+    "逃げよう！": ""
+  },
+  "517": {
+    "集中攻撃で！": ""
+  },
   "518": {
-    "ＭＰなくなりそう！": ""
-  },
-  "519": {
-    "強化お願いします！": ""
-  },
-  "520": {
-    "弱体お願いします！": ""
-  },
-  "521": {
-    "敵の動きを止めて！": ""
-  },
-  "522": {
-    "敵から離れて！": ""
-  },
-  "523": {
-    "集まって！": ""
-  },
-  "524": {
-    "<%nL_VALUE>！": ""
-  },
-  "525": {
     "clarity_nt_char_168": "clarity_nt_char_168"
   },
-  "526": {
-    "おもて": "Heads"
+  "519": {
+    "応援お願いします！": ""
   },
-  "527": {
-    "うら": "Tails"
+  "520": {
+    "ピンチです！": ""
   },
-  "528": {
+  "521": {
     "clarity_nt_char_169": "clarity_nt_char_169"
   },
+  "522": {
+    "ＭＰなくなりそう！": ""
+  },
+  "523": {
+    "強化お願いします！": ""
+  },
+  "524": {
+    "弱体お願いします！": ""
+  },
+  "525": {
+    "敵の動きを止めて！": ""
+  },
+  "526": {
+    "敵から離れて！": ""
+  },
+  "527": {
+    "集まって！": ""
+  },
+  "528": {
+    "<%nL_VALUE>！": ""
+  },
   "529": {
-    "スペードの<%sL_STRING>": "<%sL_STRING> of Spades"
-  },
-  "530": {
-    "ハートの<%sL_STRING>": "<%sL_STRING> of Hearts"
-  },
-  "531": {
     "clarity_nt_char_170": "clarity_nt_char_170"
   },
-  "532": {
-    "ダイヤの<%sL_STRING>": "<%sL_STRING> of Diamonds"
+  "530": {
+    "おもて": "Heads"
   },
-  "533": {
+  "531": {
+    "うら": "Tails"
+  },
+  "532": {
     "clarity_nt_char_171": "clarity_nt_char_171"
   },
+  "533": {
+    "スペードの<%sL_STRING>": "<%sL_STRING> of Spades"
+  },
   "534": {
-    "クローバーの<%sL_STRING>": "<%sL_STRING> of Clubs"
+    "ハートの<%sL_STRING>": "<%sL_STRING> of Hearts"
   },
   "535": {
     "clarity_nt_char_172": "clarity_nt_char_172"
   },
   "536": {
-    "スペードの<%nL_VALUE>": "<%nL_VALUE> of Spades"
+    "ダイヤの<%sL_STRING>": "<%sL_STRING> of Diamonds"
   },
   "537": {
     "clarity_nt_char_173": "clarity_nt_char_173"
   },
   "538": {
-    "ハートの<%nL_VALUE>": "<%nL_VALUE> of Hearts"
+    "クローバーの<%sL_STRING>": "<%sL_STRING> of Clubs"
   },
   "539": {
-    "ダイヤの<%nL_VALUE>": "<%nL_VALUE> of Diamonds"
-  },
-  "540": {
-    "クローバーの<%nL_VALUE>": "<%nL_VALUE> of Clubs"
-  },
-  "541": {
-    "Ａ": ""
-  },
-  "542": {
-    "Ｊ": ""
-  },
-  "543": {
-    "Ｑ": ""
-  },
-  "544": {
-    "Ｋ": ""
-  },
-  "545": {
-    "ジョーカー": "Joker"
-  },
-  "546": {
-    "グー": ""
-  },
-  "547": {
     "clarity_nt_char_174": "clarity_nt_char_174"
   },
-  "548": {
-    "チョキ": ""
+  "540": {
+    "スペードの<%nL_VALUE>": "<%nL_VALUE> of Spades"
   },
-  "549": {
-    "パー": ""
-  },
-  "550": {
+  "541": {
     "clarity_nt_char_175": "clarity_nt_char_175"
   },
+  "542": {
+    "ハートの<%nL_VALUE>": "<%nL_VALUE> of Hearts"
+  },
+  "543": {
+    "ダイヤの<%nL_VALUE>": "<%nL_VALUE> of Diamonds"
+  },
+  "544": {
+    "クローバーの<%nL_VALUE>": "<%nL_VALUE> of Clubs"
+  },
+  "545": {
+    "Ａ": ""
+  },
+  "546": {
+    "Ｊ": ""
+  },
+  "547": {
+    "Ｑ": ""
+  },
+  "548": {
+    "Ｋ": ""
+  },
+  "549": {
+    "ジョーカー": "Joker"
+  },
+  "550": {
+    "グー": ""
+  },
   "551": {
-    "ヨッ！": "Yo!"
-  },
-  "552": {
-    "演奏オカリナ": "Play Ocarina"
-  },
-  "553": {
     "clarity_nt_char_176": "clarity_nt_char_176"
   },
+  "552": {
+    "チョキ": ""
+  },
+  "553": {
+    "パー": ""
+  },
   "554": {
-    "カンパイ！": ""
-  },
-  "555": {
-    "ゴールデンライト緑": ""
-  },
-  "556": {
-    "いねむり": ""
-  },
-  "557": {
     "clarity_nt_char_177": "clarity_nt_char_177"
   },
-  "558": {
-    "おそうじ": "Cleaning"
+  "555": {
+    "ヨッ！": "Yo!"
   },
-  "559": {
+  "556": {
+    "演奏オカリナ": "Play Ocarina"
+  },
+  "557": {
     "clarity_nt_char_178": "clarity_nt_char_178"
   },
+  "558": {
+    "カンパイ！": ""
+  },
+  "559": {
+    "ゴールデンライト緑": ""
+  },
   "560": {
-    "イスに座る": ""
+    "いねむり": ""
   },
   "561": {
-    "ネタ「そうめん」": "Noodles Trick"
-  },
-  "562": {
     "clarity_nt_char_179": "clarity_nt_char_179"
   },
+  "562": {
+    "おそうじ": "Cleaning"
+  },
   "563": {
-    "リベリオダンス": ""
-  },
-  "564": {
-    "チアダンス": "Cheer Dance"
-  },
-  "565": {
-    "ネオンライト緑": ""
-  },
-  "566": {
-    "大テレ": ""
-  },
-  "567": {
-    "ネタ「Ｖロン」": "V-Lon Trick"
-  },
-  "568": {
-    "ジュエルシャワー": ""
-  },
-  "569": {
     "clarity_nt_char_180": "clarity_nt_char_180"
   },
-  "570": {
-    "×を描く": "Draw an X"
+  "564": {
+    "イスに座る": ""
   },
-  "571": {
-    "ピーヒャラ笛": ""
+  "565": {
+    "ネタ「そうめん」": "Noodles Trick"
   },
-  "572": {
+  "566": {
     "clarity_nt_char_181": "clarity_nt_char_181"
   },
+  "567": {
+    "リベリオダンス": ""
+  },
+  "568": {
+    "チアダンス": "Cheer Dance"
+  },
+  "569": {
+    "ネオンライト緑": ""
+  },
+  "570": {
+    "大テレ": ""
+  },
+  "571": {
+    "ネタ「Ｖロン」": "V-Lon Trick"
+  },
+  "572": {
+    "ジュエルシャワー": ""
+  },
   "573": {
-    "ネオンスピカ黄": ""
-  },
-  "574": {
-    "ネタ「きのこ」": "Mushroom Trick"
-  },
-  "575": {
-    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは グーを出した。": ""
-  },
-  "576": {
     "clarity_nt_char_182": "clarity_nt_char_182"
   },
+  "574": {
+    "×を描く": "Draw an X"
+  },
+  "575": {
+    "ピーヒャラ笛": ""
+  },
+  "576": {
+    "clarity_nt_char_183": "clarity_nt_char_183"
+  },
   "577": {
-    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは チョキを出した。": ""
+    "ネオンスピカ黄": ""
   },
   "578": {
+    "ネタ「きのこ」": "Mushroom Trick"
+  },
+  "579": {
+    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは グーを出した。": ""
+  },
+  "580": {
+    "clarity_nt_char_184": "clarity_nt_char_184"
+  },
+  "581": {
+    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは チョキを出した。": ""
+  },
+  "582": {
     "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは パーを出した。": ""
   }
 }

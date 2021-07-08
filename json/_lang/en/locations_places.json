@@ -39,7 +39,7 @@
     "clarity_nt_char_5": "clarity_nt_char_5"
   },
   "14": {
-    "ベッド": ""
+    "ベッド": "Bed"
   },
   "15": {
     "旅の扉": ""
@@ -48,13 +48,13 @@
     "立て札": ""
   },
   "17": {
-    "よろず屋": "General Shop"
+    "よろず屋": "Item Shop"
   },
   "18": {
     "clarity_nt_char_6": "clarity_nt_char_6"
   },
   "19": {
-    "道具屋": "Item Shop"
+    "道具屋": "Tool Shop"
   },
   "20": {
     "防具屋": "Gear Shop"
@@ -69,7 +69,7 @@
     "clarity_nt_char_7": "clarity_nt_char_7"
   },
   "24": {
-    "調理設備": "Cooking"
+    "調理設備": "Cooking Spot"
   },
   "25": {
     "clarity_nt_char_8": "clarity_nt_char_8"
@@ -123,7 +123,7 @@
     "clarity_nt_char_15": "clarity_nt_char_15"
   },
   "42": {
-    "スイッチ": ""
+    "スイッチ": "Switch"
   },
   "43": {
     "clarity_nt_char_16": "clarity_nt_char_16"
@@ -162,7 +162,7 @@
     "郵便局": "P. Office"
   },
   "55": {
-    "預かり所": "Cloakroom"
+    "預かり所": "Depository"
   },
   "56": {
     "clarity_nt_char_22": "clarity_nt_char_22"
@@ -180,10 +180,10 @@
     "料理屋": "Eatery"
   },
   "61": {
-    "駅": ""
+    "駅": "Stn"
   },
   "62": {
-    "酒場": ""
+    "酒場": "Tavern"
   },
   "63": {
     "clarity_nt_char_24": "clarity_nt_char_24"
@@ -195,7 +195,7 @@
     "clarity_nt_char_25": "clarity_nt_char_25"
   },
   "66": {
-    "美容院": "Parlor"
+    "美容院": "Salon"
   },
   "67": {
     "神像": ""
@@ -204,7 +204,7 @@
     "clarity_nt_char_26": "clarity_nt_char_26"
   },
   "69": {
-    "掲示板": ""
+    "掲示板": "Msg Board"
   },
   "70": {
     "絵": ""
@@ -273,7 +273,7 @@
     "clarity_nt_char_32": "clarity_nt_char_32"
   },
   "92": {
-    "まちかど掲示板": "Bulletin Board"
+    "まちかど掲示板": "Town Bulletin Board"
   },
   "93": {
     "石塔": ""
@@ -366,7 +366,7 @@
     "clarity_nt_char_45": "clarity_nt_char_45"
   },
   "123": {
-    "棚": ""
+    "棚": "Shf"
   },
   "124": {
     "ダーツ": ""
@@ -459,7 +459,7 @@
     "雪中花": ""
   },
   "154": {
-    "氷": ""
+    "氷": "Ice"
   },
   "155": {
     "木": ""
@@ -492,7 +492,7 @@
     "円盤の台座": ""
   },
   "165": {
-    "氷の領界への道": ""
+    "氷の領界への道": "Ice Realm Way"
   },
   "166": {
     "昇降機": ""
@@ -744,7 +744,7 @@
     "clarity_nt_char_87": "clarity_nt_char_87"
   },
   "249": {
-    "シャンデリア": ""
+    "シャンデリア": "Chandelier"
   },
   "250": {
     "clarity_nt_char_88": "clarity_nt_char_88"
@@ -930,7 +930,7 @@
     "clarity_nt_char_106": "clarity_nt_char_106"
   },
   "311": {
-    "魔瘴塚": ""
+    "魔瘴塚": "Dark Hill"
   },
   "312": {
     "溶鉱炉": ""

@@ -6,49 +6,49 @@
     "このバージョンでは　利用券メニューを|使用できません。<end>": "Ticket Menu cannot be used with this version.<end>"
   },
   "3": {
-    "接続環境が変化した　もしくは|不審なアクセスを検知した恐れがあるため|ログインが　制限されています。|生年月日を入力すると　解除できます。<break>": ""
+    "接続環境が変化した　もしくは|不審なアクセスを検知した恐れがあるため|ログインが　制限されています。|生年月日を入力すると　解除できます。<break>": "Login is restricted due to a connection|change or suspicious activity. You can|regain access by entering your date|of birth."
   },
   "4": {
-    "生年月日が　正しく入力されていません。|正しい日付を　ご確認ください。<break>": ""
+    "生年月日が　正しく入力されていません。|正しい日付を　ご確認ください。<break>": "Date of birth is incorrect. Please enter|the correct date.<break>"
   },
   "5": {
     "ログイン画面に　戻りますか？<yesno 2><break>": ""
   },
   "6": {
-    "（現在のコースでは使えません）": ""
+    "（現在のコースでは使えません）": "(Cannot be used in current course)"
   },
   "7": {
     "　　 キャラクター未作成": "Character Not Created"
   },
   "8": {
-    "<%sPCNAME>は　現在の環境からでは行けない|場所で中断しているため　再開できませんでした。|元の環境から　冒険の続きをしてください。<end>": ""
+    "<%sPCNAME>は　現在の環境からでは行けない|場所で中断しているため　再開できませんでした。|元の環境から　冒険の続きをしてください。<end>": "<%sPCNAME> cannot be played because they|are located in an inaccessible area using|this platform. Please log in on your original platform."
   },
   "9": {
-    "Lv": ""
+    "Lv": "Lv"
   },
   "10": {
-    "<%nLV>": ""
+    "<%nLV>": "<%nLV>"
   },
   "11": {
-    "<%sPC>": ""
+    "<%sPC>": "<%sPC>"
   },
   "12": {
     "<%n_YYYY>年<%n_MM>月<%n_DD>日まで": "Until <%n_MM>/<%n_DD>/<%n_YYYY>"
   },
   "13": {
-    "（※削除予定）": ""
+    "（※削除予定）": "(*Planned Deletion)"
   },
   "14": {
-    "<%sRACE>": ""
+    "<%sRACE>": "<%sRACE>"
   },
   "15": {
-    "<%sPCNAME>は　オンラインモードでは|まだ選べません！　いったんログアウトして|オフラインモードで　始めてください。<end>": ""
+    "<%sPCNAME>は　オンラインモードでは|まだ選べません！　いったんログアウトして|オフラインモードで　始めてください。<end>": "<%sPCNAME> cannot be selected for online mode|yet! Please log out and start in offline|mode."
   },
   "16": {
-    "利用券の有効期間が　切れています。|プレイするには　利用券を購入してください。<end>": ""
+    "利用券の有効期間が　切れています。|プレイするには　利用券を購入してください。<end>": "Your play ticket period has expired. Please|purchase a play ticket to continue playing.<end>"
   },
   "17": {
-    "ベータテストの利用期間が　ありません。|ゲームをプレイするには　先に|利用券を　購入していただく必要があります。<br>|現在　ベータテスト中ですので|無料で　ベータテストの利用券を購入できます。|チケット購入メニューに　移動します。<end>": ""
+    "ベータテストの利用期間が　ありません。|ゲームをプレイするには　先に|利用券を　購入していただく必要があります。<br>|現在　ベータテスト中ですので|無料で　ベータテストの利用券を購入できます。|チケット購入メニューに　移動します。<end>": "Something something beta test"
   },
   "18": {
     "利用券の有効期間が　残り<%n_DAY>日です！|先に　利用券を購入するために　ログアウトして|アストルティア入国管理局を開きますか？|<select_nc>|アストルティア入国管理局へ|今は購入しない|<select_end><close>": ""
@@ -99,10 +99,10 @@
     "冒険の書<%nNO>のデータを　消しました。<end>": ""
   },
   "34": {
-    "冒険の書<%nNO>に保存されている|<%sPCNAME>と　<%sPCNAME2>の|すべての冒険の記録を消します。<br>|冒険の記録を消すと|<%sPCNAME>で　冒険ができなくなりますが|冒険の書<%nNO>を消しても　よろしいですか？<yesno 2><break>": ""
+    "冒険の書<%nNO>に保存されている|<%sPCNAME>と　<%sPCNAME2>の|すべての冒険の記録を消します。<br>|冒険の記録を消すと|<%sPCNAME>で　冒険ができなくなりますが|冒険の書<%nNO>を消しても　よろしいですか？<yesno 2><break>": "You are about to delete Adventure Book <%dNO>|of <%sPCNAME> and <%sPCNAME2>.<br>|If you do this, this data will be unrecoverable.|Are you sure?<yesno 2><break>"
   },
   "35": {
-    "冒険の書<%nNO>に保存されている|<%sPCNAME>の　冒険の記録を消します。|よろしいですか？<yesno 2><break>": ""
+    "冒険の書<%nNO>に保存されている|<%sPCNAME>の　冒険の記録を消します。|よろしいですか？<yesno 2><break>": "This will delete the records of <%sPCNAME>|saved in Adventure Book <%dNO>.|Are you sure?<yesno 2><break>"
   },
   "36": {
     "あやまって消すのを防ぐため|以下の　確認番号を入れてください。|確認番号：<%sNUM><break>": ""
@@ -120,7 +120,7 @@
     "冒険の書を削除できる回数が　残り０回のため|削除できません。<br>|この回数は　毎月１日午前０時以降に|ログインしなおすと　一定量　回復します。<end>": "You cannot delete this Adventure Book as|there are 0 attempts remaining.<br>|This amount will reset by logging in|again after midnight on the first|day of the month.<end>"
   },
   "41": {
-    "冒険の書を削除できる回数は　残り<%nCHAR_DEL_NUM>回です。|この回数は　毎月１日午前０時以降に|ログインしなおすと　一定量　回復します。<end>": "You only have <%dCHAR_DEL_NUM> adventure book left to delete. |This amount will reset by logging in|again after midnight on the first|day of the month.<end>"
+    "冒険の書を削除できる回数は　残り<%nCHAR_DEL_NUM>回です。|この回数は　毎月１日午前０時以降に|ログインしなおすと　一定量　回復します。<end>": "You only have <%dCHAR_DEL_NUM> Adventure Book(s) left to delete. |This amount will reset by logging in|again after midnight on the first|day of the month.<end>"
   },
   "42": {
     "冒険の書を削除できる　残り回数を|取得できませんでした。<br>|障害情報を　ご確認の上|少し時間を置いてから　もう一度|お試しください。<end>": ""
@@ -129,7 +129,7 @@
     "データを消す　冒険の書を　選んでください。<break>": "Please select an adventure book to erase.<break>"
   },
   "44": {
-    "冒険の書<%nNO>を消しています……。<break>": ""
+    "冒険の書<%nNO>を消しています……。<break>": "Adventure Book <%dNO> was deleted...<break>"
   },
   "45": {
     "緊急用０００": ""
@@ -168,13 +168,13 @@
     "では　オフラインモードで　冒険の続きを|遊びますか？<yesno_nc><break>": ""
   },
   "57": {
-    "オンラインの世界では　多くの人が|あなたのキャラや　兄弟（姉妹）キャラの名前を|目にすることになります。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　変更を　お願いします。<color_white><br>|ドラゴンクエストⅩの　オンラインの世界に|『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。<br>|『<%sPCNAME>』という名前で|冒険を　始めますか？<yesno><break>": ""
+    "オンラインの世界では　多くの人が|あなたのキャラや　兄弟（姉妹）キャラの名前を|目にすることになります。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　変更を　お願いします。<color_white><br>|ドラゴンクエストⅩの　オンラインの世界に|『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。<br>|『<%sPCNAME>』という名前で|冒険を　始めますか？<yesno><break>": "In this online world, people will be able|to see the name of your character and|your sibling.<br>|<color_yellow>*Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable.<color_white><br>|It seems there are <%dNUM> other players also|using the name \"<%sPCNAME>\" in Dragon Quest X.<br>|Would you like to start your adventure|with the name \"<%sPCNAME>\"?<yesno><break>"
   },
   "58": {
     "オンラインの世界では　多くの人が|あなたのキャラや　兄弟（姉妹）キャラの名前を|目にすることになります。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　変更を　お願いします。<color_white><br>|ドラゴンクエストⅩの　オンラインの世界に|『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。<br>|『<%sPCNAME>』という名前で|冒険を　始めますか？<yesno><break>": ""
   },
   "59": {
-    "『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。|この名前で始めて　よろしいですか？<yesno><break>": ""
+    "『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。|この名前で始めて　よろしいですか？<yesno><break>": "There seems to be <%nNUM> other players|using the name \"<%sPCNAME>\". Are you|sure you want to start with this name?<yesno><break>"
   },
   "60": {
     "『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。|この名前で始めて　よろしいですか？<yesno><break>": ""
@@ -207,7 +207,7 @@
     "「プレゼント受け取りメニュー」のページを|開きます。ログアウトして　よろしいですか？|http://www.jp.square-enix.com/<yesno><close>": ""
   },
   "70": {
-    "追加パッケージ「<%sAPPEND>」|レジストレーションコードが登録されていません。<br>|レジストレーションコードを登録するために|ログアウトして「アストルティア入国管理局」を|開きますか？　http://sqex.to/aio<yesno><close>": ""
+    "ご使用のアカウントには 追加パッケージ|<%sVERAPPEND>の|レジストレーションコードが登録されていません。<br>|レジストレーションコードを登録するために|ログアウトして「アストルティア入国管理局」を|開きますか？　http://sqex.to/aio<yesno><close>": ""
   },
   "71": {
     "利用券を購入するため|ログアウトして「アストルティア入国管理局」を|開きますか？　http://sqex.to/aio<yesno><close>": ""
@@ -231,7 +231,7 @@
     "　　 キャラクター未作成": "Character Not Created"
   },
   "78": {
-    "冒険の書<%nNO>に　<%sPCNAME>を登録しました！<end>": ""
+    "冒険の書<%nNO>に　<%sPCNAME>を登録しました！<end>": "<%sPCNAME> has been registered in Adventure Book <%dNO>!"
   },
   "79": {
     "これ以上　冒険の書を作れません！|新しく作りたい場合は　先に|いずれかの　冒険の書を消してください。<end>": ""
@@ -243,13 +243,13 @@
     "何番の冒険の書に　キャラを作りますか？": ""
   },
   "82": {
-    "<%nDAY>日分": ""
+    "<%nDAY>日分": "<%dDAY> Days"
   },
   "83": {
-    "冒険の書<%nNUM>": ""
+    "冒険の書<%nNUM>": "Adv. Book <%dNUM>"
   },
   "84": {
-    "<%nCOURSE>キャラコース": "<%nCOURSE>Character Course"
+    "<%nCOURSE>キャラコース": "<%dCOURSE> Character Course"
   },
   "85": {
     "コース変更チケット": ""
@@ -264,19 +264,19 @@
     "Crysta": ""
   },
   "89": {
-    "<%n_YYYY>年<%n_MM>月<%n_DD>日 まで": ""
+    "<%n_YYYY>年<%n_MM>月<%n_DD>日 まで": "Until <%n_MM>/<%n_DD>/<%n_YYYY>"
   },
   "90": {
-    "<%d_YYYY>年<%2d_MM>月<%2d_DD>日 まで": ""
+    "<%d_YYYY>年<%2d_MM>月<%2d_DD>日 まで": "Until <%2d_MM>/<%2d_DD>/<%d_YYYY>"
   },
   "91": {
-    "<%d_YYYY>年<%2d_MM>月<%2d_DD>日まで（残り<%3d_DAY>日）": "Until <%d_YYYY>/<%2d_MM>/<%2d_DD>（<%3d_DAY> days left）"
+    "<%d_YYYY>年<%2d_MM>月<%2d_DD>日まで（残り<%3d_DAY>日）": "Until <%2d_MM>/<%2d_DD>/<%d_YYYY> (<%3d_DAY> days left)"
   },
   "92": {
     "（キッズタイム中）": ""
   },
   "93": {
-    "<%nGENKICHARGE>時間": ""
+    "<%nGENKICHARGE>時間": "<%nGENKICHARGE>h"
   },
   "94": {
     "バージョン <%s_MVER1>.<%s_MVER2>.<%s_MVER3>": "Version <%s_MVER1>.<%s_MVER2>.<%s_MVER3>"
@@ -297,7 +297,7 @@
     "自動継続の決済中です…": ""
   },
   "100": {
-    "<%nVAL>": ""
+    "<%nVAL>": "<%dVAL>"
   },
   "101": {
     "<%nWIIP>Ｗiiポイント": ""
@@ -309,7 +309,7 @@
     "円": "Yen"
   },
   "104": {
-    "名前を変更しなければ|ゲームを再開できません。|キャンセルしても　よろしいですか？<yesno><break>": ""
+    "名前を変更しなければ|ゲームを再開できません。|キャンセルしても　よろしいですか？<yesno><break>": "You can't start the game without renaming first.|Are you sure you want to cancel?<yesno><break>"
   },
   "105": {
     "名前を変更しました。<end>": ""
@@ -357,7 +357,7 @@
     "アカウント情報を保存しています……。|ソフトを終了しないでください。<break>": ""
   },
   "120": {
-    "プレイヤー<%nPLAYER_NO>に|<%sID>を　登録しました！<end>": ""
+    "プレイヤー<%nPLAYER_NO>に|<%sID>を　登録しました！<end>": "<%sID> has been registered for|Player <%dPLAYER_NO>!"
   },
   "121": {
     "冒険の書に記録しています……。|ソフトを終了しないでください。<break>": ""
@@ -435,7 +435,7 @@
     "前回　ゲームを中断した場所が|サーバー変更が　できない場所だったため|前回と同じサーバーから　ゲームを再開します。<end>": "Your character was not logged out|properly, so the game will be restarted on|the same server as before.<end>"
   },
   "146": {
-    "前回　住宅村で中断したので|ハウジング専用サーバーから再開します。<end>": ""
+    "前回　住宅村で中断したので|ハウジング専用サーバーから再開します。<end>": "Since you logged off in a housing area,|you'll reconnect on the housing server.<end>"
   },
   "147": {
     "（※削除予定）<end>": ""
@@ -444,7 +444,7 @@
     "オンラインモードの　冒険の書<%nNO>でプレイ中の|『<%sPCNAME>』と『<%sPCNAME2>』のデータを|この<%sConsole>の　冒険の書<%nNO>に　保存しました。<br>|オフラインモードのセーブデータは|引きつがれないため|『<%sPCNAME2>』の冒険は　最初からになります。<end>": ""
   },
   "149": {
-    "プレイコースが　変更されているため|冒険の書<%nNO>は　使えなくなりました。<end>": ""
+    "プレイコースが　変更されているため|冒険の書<%nNO>は　使えなくなりました。<end>": "Since the play course has changed,|Adventure Book <%dNO> cannot be used."
   },
   "150": {
     "オンラインモードの　冒険の書<%nNO>でプレイ中の|『<%sPCNAME>』と『<%sPCNAME2>』のデータを|この<%sConsole>の　冒険の書<%nNO>に　保存しました。<br>|オフラインモードの　冒険の書<%nNO>の名前や容姿が|『<%sPCNAME2>』のものに　書き替わりました。|（ゲームの進行状況は　そのまま残っています）<end>": ""
@@ -462,16 +462,16 @@
     "<%sConsole>本体に保存されている|冒険の書<%nNO>のキャラは　オンラインの世界に|移動させられないデータでした。<br>|オフラインモードから　冒険の書<%nNO>を消して|キャラを　作りなおしてください。<end>": ""
   },
   "155": {
-    "『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。|冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": ""
+    "『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。|冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": "There seems to be about <%dNUM> players|with the name \"<%sPCNAME>\".|Use this name for Adventure Book <%dNO>?<yesno><break>"
   },
   "156": {
-    "『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。|冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": ""
+    "『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。|冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": "There seems to be no other players|with the name \"<%sPCNAME>\".|Use this name for Adventure Book <%dNO>?<yesno><break>"
   },
   "157": {
-    "冒険の書<%nNO>のキャラの名前は|『<%sPCNAME>』で　よろしいですか？<yesno><break>": ""
+    "冒険の書<%nNO>のキャラの名前は|『<%sPCNAME>』で　よろしいですか？<yesno><break>": "Use the name \"<%sPCNAME>\" for Adventure|Book <%dNO>?<yesno><break>"
   },
   "158": {
-    "冒険の書<%nNO>に　保存されている|『<%sPCNAME>』のデータを|オンライン世界に　反映させます。<end>": ""
+    "冒険の書<%nNO>に　保存されている|『<%sPCNAME>』のデータを|オンライン世界に　反映させます。<end>": "The data of \"<%sPCNAME>\" in Adventure|Book <%dNO> will be copied to the online|world.<end>"
   },
   "159": {
     "ログイン画面に　戻りますか？<yesno 2><break>": ""

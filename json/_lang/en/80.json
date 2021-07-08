@@ -1,33 +1,33 @@
 {
   "1": {
-    "ハイビスカス": ""
+    "ハイビスカス": "Hibiscus"
   },
   "2": {
     "clarity_nt_char_1": "clarity_nt_char_1"
   },
   "3": {
-    "きつねの紙おめん": ""
+    "きつねの紙おめん": "Fox Paper Mask"
   },
   "4": {
     "clarity_nt_char_2": "clarity_nt_char_2"
   },
   "5": {
-    "麦わら帽子": ""
+    "麦わら帽子": "Straw Hat"
   },
   "6": {
-    "ブラックカウボーイ": ""
+    "ブラックカウボーイ": "Black Cowboy"
   },
   "7": {
-    "貴婦人の帽子": ""
+    "貴婦人の帽子": "Lady's Hat"
   },
   "8": {
     "clarity_nt_char_3": "clarity_nt_char_3"
   },
   "9": {
-    "ソンブレロ": ""
+    "ソンブレロ": "Sombrero"
   },
   "10": {
-    "フラワーハット": ""
+    "フラワーハット": "Flower Hat"
   },
   "11": {
     "キャンピングハット": ""
@@ -306,7 +306,7 @@
     "スライムベス色": ""
   },
   "103": {
-    "メタルスライム色": ""
+    "メタルスライム色": "Metal Slime Skin"
   },
   "104": {
     "clarity_nt_char_30": "clarity_nt_char_30"
@@ -327,13 +327,13 @@
     "ベホイミスライム色": ""
   },
   "110": {
-    "メタルホイミン色": ""
+    "メタルホイミン色": "Metal Healslime Skin"
   },
   "111": {
     "clarity_nt_char_32": "clarity_nt_char_32"
   },
   "112": {
-    "メタルライダー色": ""
+    "メタルライダー色": "Metal Slime Knight Skin"
   },
   "113": {
     "clarity_nt_char_33": "clarity_nt_char_33"
@@ -360,7 +360,7 @@
     "clarity_nt_char_36": "clarity_nt_char_36"
   },
   "121": {
-    "キラースコップ色": ""
+    "キラースコップ色": "Mad Mole Skin"
   },
   "122": {
     "clarity_nt_char_37": "clarity_nt_char_37"
@@ -387,7 +387,7 @@
     "clarity_nt_char_40": "clarity_nt_char_40"
   },
   "130": {
-    "ピンクモーモン色": ""
+    "ピンクモーモン色": "Pink Sanguini Skin"
   },
   "131": {
     "clarity_nt_char_41": "clarity_nt_char_41"
@@ -405,13 +405,13 @@
     "clarity_nt_char_43": "clarity_nt_char_43"
   },
   "136": {
-    "クイーンモーモン色": ""
+    "クイーンモーモン色": "Queenie Sanguini Skin"
   },
   "137": {
     "しましまキャット色": ""
   },
   "138": {
-    "ベロニャーゴ色": ""
+    "ベロニャーゴ色": "Terror Tabby Skin"
   },
   "139": {
     "マーブルン色": ""
@@ -420,7 +420,7 @@
     "clarity_nt_char_44": "clarity_nt_char_44"
   },
   "141": {
-    "メイジキメラ色": ""
+    "メイジキメラ色": "Hocus Chimaera Skin"
   },
   "142": {
     "スターキメラ色": ""
@@ -450,7 +450,7 @@
     "アックスドラゴン色": ""
   },
   "151": {
-    "ドラゴンソルジャー色": ""
+    "ドラゴンソルジャー色": "Tyrantosaurus Skin"
   },
   "152": {
     "clarity_nt_char_48": "clarity_nt_char_48"
@@ -462,7 +462,7 @@
     "つかいま色": ""
   },
   "155": {
-    "メラリザード色": ""
+    "メラリザード色": "Frizzard Skin"
   },
   "156": {
     "ベビーニュート色": ""
@@ -495,7 +495,7 @@
     "clarity_nt_char_51": "clarity_nt_char_51"
   },
   "166": {
-    "メイジドラキー色": ""
+    "メイジドラキー色": "Drackolyte Skin"
   },
   "167": {
     "clarity_nt_char_52": "clarity_nt_char_52"
@@ -624,7 +624,7 @@
     "マジックアーマー色": ""
   },
   "209": {
-    "サタンメイル色": ""
+    "サタンメイル色": "Alarmour Skin"
   },
   "210": {
     "てっこうまじん色": ""
@@ -648,7 +648,7 @@
     "clarity_nt_char_70": "clarity_nt_char_70"
   },
   "217": {
-    "メタルハンター色": ""
+    "メタルハンター色": "Hunter Mech Skin"
   },
   "218": {
     "clarity_nt_char_71": "clarity_nt_char_71"
@@ -687,7 +687,7 @@
     "clarity_nt_char_73": "clarity_nt_char_73"
   },
   "230": {
-    "モッツァレーラ色": ""
+    "モッツァレーラ色": "Fromage Flay Skin"
   },
   "231": {
     "clarity_nt_char_74": "clarity_nt_char_74"
@@ -696,7 +696,7 @@
     "デュランダル色": ""
   },
   "233": {
-    "メギドロイド色": ""
+    "メギドロイド色": "Mechidroid Skin"
   },
   "234": {
     "ハナ色": ""
@@ -1545,7 +1545,7 @@
     "べびんごさたんいろ": ""
   },
   "516": {
-    "パンプキャビネット": ""
+    "パンプキャビネット": "Pumpkabinet"
   },
   "517": {
     "こすもすらいむ": ""
@@ -2103,7 +2103,7 @@
     "プリズニャン種の見た目を|しましまキャット色に|変身させる": ""
   },
   "702": {
-    "プリズニャン種の見た目を|ベロニャーゴ色に|変身させる": ""
+    "プリズニャン種の見た目を|ベロニャーゴ色に|変身させる": "Change appearance to|Terror Tabby.|"
   },
   "703": {
     "プリズニャン種の見た目を|マーブルン色に|変身させる": ""
@@ -2112,7 +2112,7 @@
     "clarity_nt_char_228": "clarity_nt_char_228"
   },
   "705": {
-    "キメラ種の見た目を|メイジキメラ色に|変身させる": ""
+    "キメラ種の見た目を|メイジキメラ色に|変身させる": "Change appearance|to Hocus|Chimaera."
   },
   "706": {
     "clarity_nt_char_229": "clarity_nt_char_229"
@@ -2556,22 +2556,22 @@
     "そうびなし": "Nothing"
   },
   "853": {
-    "メタルライダーの剣": ""
+    "メタルライダーの剣": "Metal Slime Kn. Sword"
   },
   "854": {
-    "ハートナイトの剣": ""
+    "ハートナイトの剣": "Snooty Slime Kn. Sword"
   },
   "855": {
     "clarity_nt_char_281": "clarity_nt_char_281"
   },
   "856": {
-    "ジャガーメイジの杖": ""
+    "ジャガーメイジの杖": "Clawcerer Cane"
   },
   "857": {
-    "ベンガルクーンの杖": ""
+    "ベンガルクーンの杖": "Purrestidigitator Cane"
   },
   "858": {
-    "ダークペルシャの杖": ""
+    "ダークペルシャの杖": "Whiskamancer Cane"
   },
   "859": {
     "てつのスコップ": ""
@@ -2586,7 +2586,7 @@
     "clarity_nt_char_282": "clarity_nt_char_282"
   },
   "863": {
-    "りゅうき兵の剣": ""
+    "りゅうき兵の剣": "Mandrake Merc. Sword"
   },
   "864": {
     "シュプリンソード": ""
@@ -2769,16 +2769,16 @@
     "clarity_nt_char_303": "clarity_nt_char_303"
   },
   "924": {
-    "メタルライダーの盾": ""
+    "メタルライダーの盾": "Metal Slime Kn. Shield"
   },
   "925": {
-    "ハートナイトの盾": ""
+    "ハートナイトの盾": "Snooty Slime Kn. Shield"
   },
   "926": {
     "clarity_nt_char_304": "clarity_nt_char_304"
   },
   "927": {
-    "りゅうき兵の盾": ""
+    "りゅうき兵の盾": "Mandrake Merc. Shield"
   },
   "928": {
     "シュプリンシールド": ""
@@ -3156,7 +3156,7 @@
     "clarity_nt_char_346": "clarity_nt_char_346"
   },
   "1053": {
-    "バイオキラー": ""
+    "バイオキラー": "Biokiller"
   },
   "1054": {
     "clarity_nt_char_347": "clarity_nt_char_347"

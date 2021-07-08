@@ -69,7 +69,7 @@
     "clarity_nt_char_11": "clarity_nt_char_11"
   },
   "24": {
-    "必殺率　小アップ": ""
+    "必殺率　小アップ": "Small Special Rate Up"
   },
   "25": {
     "clarity_nt_char_12": "clarity_nt_char_12"
@@ -162,7 +162,7 @@
     "clarity_nt_char_24": "clarity_nt_char_24"
   },
   "55": {
-    "おぼえてるだけで|必殺の出る確率が|少しだけアップ": ""
+    "おぼえてるだけで|必殺の出る確率が|少しだけアップ": "Special chance|is slightly|increased."
   },
   "56": {
     "大成功エリアを|超大成功エリアに|一部変化させる": ""
@@ -174,12 +174,12 @@
     "パルプンテを|シャッフルして|別の位置に変える": ""
   },
   "59": {
-    "まれに集中力回復": ""
+    "まれに集中力回復": "Rarely Recover Focus"
   },
   "60": {
     "clarity_nt_char_26": "clarity_nt_char_26"
   },
   "61": {
-    "おぼえてるだけで|まれに集中力が|回復する": ""
+    "おぼえてるだけで|まれに集中力が|回復する": "Rarely recovers|your focus."
   }
 }

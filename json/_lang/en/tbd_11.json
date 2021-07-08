@@ -237,19 +237,19 @@
     "<%sL_RECIPE>|<%sL_QUALITY>ができた！": ""
   },
   "80": {
-    "さいほう": ""
+    "さいほう": "Sewing"
   },
   "81": {
     "clarity_nt_char_29": "clarity_nt_char_29"
   },
   "82": {
-    "さいほう針": ""
+    "さいほう針": "Sewing Needle"
   },
   "83": {
     "ぬい作業をおえて|しあげをする": ""
   },
   "84": {
-    "フライパン": ""
+    "フライパン": "Frying Pan"
   },
   "85": {
     "具材を焼きおえて|料理をしあげる": ""
@@ -294,7 +294,7 @@
     "clarity_nt_char_34": "clarity_nt_char_34"
   },
   "99": {
-    "かばんがいっぱいです。|代わりにすてるアイテムを　えらんでください。": "You're in the middle of battle.|Please choose one to remove from your bag."
+    "かばんがいっぱいです。|代わりにすてるアイテムを　えらんでください。": "Your bag is full. Please choose an item to|replace."
   },
   "100": {
     "clarity_nt_char_35": "clarity_nt_char_35"
@@ -303,7 +303,7 @@
     "<%sL_LOST_ITEM>をすてて|<%sL_GET_ITEM>を　かばんにしまった。": ""
   },
   "102": {
-    "道具": "ITM"
+    "道具": "TLM"
   },
   "103": {
     "clarity_nt_char_36": "clarity_nt_char_36"
@@ -327,70 +327,70 @@
     "clarity_nt_char_39": "clarity_nt_char_39"
   },
   "110": {
-    "武器鍛冶職人": ""
+    "武器鍛冶職人": "Weaponsmith"
   },
   "111": {
     "clarity_nt_char_40": "clarity_nt_char_40"
   },
   "112": {
-    "木こり職人": ""
+    "木こり職人": "Lumberjack"
   },
   "113": {
-    "花摘み職人": ""
+    "花摘み職人": "Flower Picking"
   },
   "114": {
-    "採掘職人": ""
+    "採掘職人": "Miner"
   },
   "115": {
     "clarity_nt_char_41": "clarity_nt_char_41"
   },
   "116": {
-    "防具鍛冶職人": ""
+    "防具鍛冶職人": "Armorsmith"
   },
   "117": {
     "clarity_nt_char_42": "clarity_nt_char_42"
   },
   "118": {
-    "道具鍛冶職人": ""
+    "道具鍛冶職人": "Toolsmith"
   },
   "119": {
     "clarity_nt_char_43": "clarity_nt_char_43"
   },
   "120": {
-    "木工職人": ""
+    "木工職人": "Woodworking"
   },
   "121": {
     "clarity_nt_char_44": "clarity_nt_char_44"
   },
   "122": {
-    "ランプ錬金職人": ""
+    "ランプ錬金職人": "Lamp Alchemist"
   },
   "123": {
-    "さいほう職人": ""
+    "さいほう職人": "Sewing"
   },
   "124": {
     "clarity_nt_char_45": "clarity_nt_char_45"
   },
   "125": {
-    "陶芸職人": ""
+    "陶芸職人": "Potter"
   },
   "126": {
     "clarity_nt_char_46": "clarity_nt_char_46"
   },
   "127": {
-    "ツボ錬金職人": ""
+    "ツボ錬金職人": "Pot Alchemist"
   },
   "128": {
     "clarity_nt_char_47": "clarity_nt_char_47"
   },
   "129": {
-    "調理職人": ""
+    "調理職人": "Cooking"
   },
   "130": {
     "clarity_nt_char_48": "clarity_nt_char_48"
   },
   "131": {
-    "薬剤職人": ""
+    "薬剤職人": "Pharmacist"
   },
   "132": {
     "clarity_nt_char_49": "clarity_nt_char_49"
@@ -405,22 +405,22 @@
     "<%sL_SYOKUNIN_TOOL>を装備していないので|<%sL_SKILL_NAME>ができません。": ""
   },
   "136": {
-    "鍛冶ハンマー": ""
+    "鍛冶ハンマー": "Bsmith Hammer"
   },
   "137": {
     "clarity_nt_char_52": "clarity_nt_char_52"
   },
   "138": {
-    "錬金ツボ": ""
+    "錬金ツボ": "Alchemy Pot"
   },
   "139": {
     "clarity_nt_char_53": "clarity_nt_char_53"
   },
   "140": {
-    "錬金ランプ": ""
+    "錬金ランプ": "Alchemy Lamp"
   },
   "141": {
-    "木工刀": ""
+    "木工刀": "Wdw Knife"
   },
   "142": {
     "木工": "WDW"
@@ -429,13 +429,13 @@
     "clarity_nt_char_54": "clarity_nt_char_54"
   },
   "144": {
-    "ツボ錬金": ""
+    "ツボ錬金": "Pot Alchemy"
   },
   "145": {
     "clarity_nt_char_55": "clarity_nt_char_55"
   },
   "146": {
-    "ランプ錬金": ""
+    "ランプ錬金": "Lamp Alchemy"
   },
   "147": {
     "<%sL_SYOKUNIN_TOOL>は|使いこまれ　こわれてしまった。": ""
@@ -444,7 +444,7 @@
     "clarity_nt_char_56": "clarity_nt_char_56"
   },
   "149": {
-    "鍛冶職人": ""
+    "鍛冶職人": "Blacksmith"
   },
   "150": {
     "clarity_nt_char_57": "clarity_nt_char_57"
@@ -474,13 +474,13 @@
     "ろくろ": ""
   },
   "159": {
-    "<%sL_ACTION_NAME>のとくぎを　おぼえた！<bw_break>": ""
+    "<%sL_ACTION_NAME>のとくぎを　おぼえた！<bw_break>": "You learned the skill <%sL_ACTION_NAME>!"
   },
   "160": {
     "clarity_nt_char_60": "clarity_nt_char_60"
   },
   "161": {
-    "ベッド": ""
+    "ベッド": "Bed"
   },
   "162": {
     "テーブル": ""
@@ -534,19 +534,19 @@
     "<%sL_KIND_GROUP>の途中で キャンセルはできません！": ""
   },
   "179": {
-    "道具鍛冶": ""
+    "道具鍛冶": "Toolsmith"
   },
   "180": {
     "clarity_nt_char_68": "clarity_nt_char_68"
   },
   "181": {
-    "防具鍛冶": ""
+    "防具鍛冶": "Armorsmith"
   },
   "182": {
     "clarity_nt_char_69": "clarity_nt_char_69"
   },
   "183": {
-    "武器鍛冶": ""
+    "武器鍛冶": "Weaponsmith"
   },
   "184": {
     "clarity_nt_char_70": "clarity_nt_char_70"
@@ -615,7 +615,7 @@
     "錬金効果は付けられない": ""
   },
   "206": {
-    "（錬金効果をつけよう）": ""
+    "（錬金効果をつけよう）": "(No Alchemy Effect)"
   },
   "207": {
     "なんと 地金の鍛え度が すこし戻った！": ""
@@ -663,7 +663,7 @@
     "次のひとぬい 威力が半減！": ""
   },
   "222": {
-    "<pc>は　職人レベルに限界を感じた！|これ以上　職人レベルを上げたいならば|ギルドマスターに　相談してみよう。": ""
+    "<pc>は　職人レベルに限界を感じた！|これ以上　職人レベルを上げたいならば|ギルドマスターに　相談してみよう。": "<pc> reached the Craftsman level limit!|Go talk to your Guild Master to raise|your level limit."
   },
   "223": {
     "clarity_nt_char_82": "clarity_nt_char_82"
@@ -687,10 +687,10 @@
     "clarity_nt_char_83": "clarity_nt_char_83"
   },
   "230": {
-    "合成効果は付けられない": ""
+    "合成効果は付けられない": "Cannot Add Effects"
   },
   "231": {
-    "（合成効果をつけよう）": ""
+    "（合成効果をつけよう）": "(No Synthesis Effect)"
   },
   "232": {
     "なんと ぬいパワーが <%sL_NUI_POWER>になった！": ""
@@ -723,10 +723,10 @@
     "clarity_nt_char_87": "clarity_nt_char_87"
   },
   "242": {
-    "<pc>は|<%dL_EXP>+<%dL_EXP_OUEN>(おうえんボーナス) Pの|職人経験値を　かくとく！|<bw_break>": "<pc>|gained <%dL_EXP>+<%dL_EXP_OUEN>(Cheer Bonus) |Craftsman EXP!|<bw_break>"
+    "<pc>は|<%dL_EXP>+<%dL_EXP_OUEN>(おうえんボーナス) Pの|職人経験値を　かくとく！|<bw_break>": "<pc>|gained <%dL_EXP> +<%dL_EXP_OUEN> (Cheer Bonus)|Craftsman EXP!|<bw_break>"
   },
   "243": {
-    "<speed=0>新品の装備品です！|一度　装備すると　他の人に|渡せなくなりますが　よろしいですか？<yesno 2><break>": ""
+    "<speed=0>新品の装備品です！|一度　装備すると　他の人に|渡せなくなりますが　よろしいですか？<yesno 2><break>": "<speed=0>This is brand new equipment!|Once you equip it, you can't give it|to anyone else. Is this okay?<yesno 2><close>"
   },
   "244": {
     "<speed=0>|装備品は　最初に装備した人が|その装備の使用者となります！<br>|一度　使用者が決まった装備品は|他の人に　渡すことができなくなりますが|この装備品を　装備しても　よろしいですか？|<yesno><break>": ""
@@ -744,10 +744,10 @@
     "clarity_nt_char_89": "clarity_nt_char_89"
   },
   "249": {
-    "<%sL_PC>が　職人仕事をしています。|職人仕事が終わるまで　お待ちください。|<convenience>で　おうえんができます。": ""
+    "<%sL_PC>が　職人仕事をしています。|職人仕事が終わるまで　お待ちください。|<convenience>で　おうえんができます。": "<%sL_PC> is currently busy crafting. Please wait|for them to finish. You can support them with|<convenience>."
   },
   "250": {
-    "<speed=0>新品の職人道具です！　錬金の依頼で使用すると|『とりひき』や　『旅人バザーへの出品』が|できなくなりますが　よろしいですか？|<yesno 2><break>": ""
+    "<speed=0>新品の職人道具です！　錬金の依頼で使用すると|『とりひき』や　『旅人バザーへの出品』が|できなくなりますが　よろしいですか？|<yesno 2><break>": "<speed=0>This is a new craftsman tool! If you use it,|you won't be able to trade it or sell it on the|Traveler's Bazaar. Is this okay?|<yesno 2><break>"
   },
   "251": {
     "clarity_nt_char_90": "clarity_nt_char_90"
@@ -786,7 +786,7 @@
     "clarity_nt_char_95": "clarity_nt_char_95"
   },
   "263": {
-    "棚": ""
+    "棚": "Shf"
   },
   "264": {
     "カウンター": "Counter"
@@ -834,7 +834,7 @@
     "clarity_nt_char_100": "clarity_nt_char_100"
   },
   "279": {
-    "説明を見る": ""
+    "説明を見る": "See Description"
   },
   "280": {
     "錬金をする": ""
@@ -942,13 +942,13 @@
     "clarity_nt_char_114": "clarity_nt_char_114"
   },
   "315": {
-    "弱火焼き": ""
+    "弱火焼き": "Simmer"
   },
   "316": {
     "clarity_nt_char_115": "clarity_nt_char_115"
   },
   "317": {
-    "強火焼き": ""
+    "強火焼き": "High Heat"
   },
   "318": {
     "clarity_nt_char_116": "clarity_nt_char_116"
@@ -1033,5 +1033,35 @@
   },
   "345": {
     "ふしぎなチカラが　集まってくる……！": ""
+  },
+  "346": {
+    "clarity_nt_char_126": "clarity_nt_char_126"
+  },
+  "347": {
+    "Ｉ": ""
+  },
+  "348": {
+    "Ａ": ""
+  },
+  "349": {
+    "Ｂ": ""
+  },
+  "350": {
+    "Ｃ": ""
+  },
+  "351": {
+    "Ｄ": ""
+  },
+  "352": {
+    "Ｅ": ""
+  },
+  "353": {
+    "Ｆ": ""
+  },
+  "354": {
+    "Ｇ": ""
+  },
+  "355": {
+    "Ｈ": ""
   }
 }

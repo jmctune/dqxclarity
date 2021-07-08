@@ -222,13 +222,13 @@
     "<%sL_PC_NICK>は　<%sL_KAITAI_ITEM>を|装備した！": ""
   },
   "75": {
-    "よろず屋": "General Shop"
+    "よろず屋": "Item Shop"
   },
   "76": {
     "clarity_nt_char_27": "clarity_nt_char_27"
   },
   "77": {
-    "建物屋": "Blg. Shop"
+    "建物屋": "Bld. Shop"
   },
   "78": {
     "素材屋": "Mat. Shop"
@@ -237,10 +237,10 @@
     "料理屋": "Eatery"
   },
   "80": {
-    "家具屋": "Fur. Shop"
+    "家具屋": "Frn. Shop"
   },
   "81": {
-    "道具屋": "Item Shop"
+    "道具屋": "Tool Shop"
   },
   "82": {
     "武器と盾の店": "Wep. & Shield Shop"
@@ -324,7 +324,7 @@
     "「<%sL_SYOKUNIN>であれば　|　仕事の依頼が受けられます。<bw_break>": ""
   },
   "109": {
-    "売れない": "Can't Sell"
+    "売れない": "Unsellable"
   },
   "110": {
     "clarity_nt_char_35": "clarity_nt_char_35"
@@ -483,7 +483,7 @@
     "初心者歓迎": "Beginners"
   },
   "162": {
-    "職人メイン": "Craftsman Main"
+    "職人メイン": "Main Crafter"
   },
   "163": {
     "サブキャラOK": "Alt Character OK"
@@ -585,7 +585,7 @@
     "clarity_nt_char_58": "clarity_nt_char_58"
   },
   "196": {
-    "職業の証": "Class Proof"
+    "職業の証": "Proof"
   },
   "197": {
     "clarity_nt_char_59": "clarity_nt_char_59"
@@ -846,7 +846,7 @@
     "clarity_nt_char_91": "clarity_nt_char_91"
   },
   "283": {
-    "預かり所": "Cloakroom"
+    "預かり所": "Depository"
   },
   "284": {
     "clarity_nt_char_92": "clarity_nt_char_92"
@@ -895,5 +895,14 @@
   },
   "299": {
     "預かり所の衣装": ""
+  },
+  "300": {
+    "コラボや運営コンテンツ": ""
+  },
+  "301": {
+    "その他のコンテンツ": ""
+  },
+  "302": {
+    "バトルコンテンツ": ""
   }
 }
