@@ -7638,7 +7638,7 @@
         "仲間ひとりを|たまにＨＰ１で|生き返らせる": "Chance to|revive an ally|with 1 HP"
     },
     "2547": {
-        "常時|さいだいＭＰが|５０増える": "Max MP|increased by 50."
+        "常時|さいだいＭＰが|５０増える": "Increases|Max MP by 50."
     },
     "2548": {
         "clarity_nt_char_836": "clarity_nt_char_836"
@@ -7716,7 +7716,7 @@
         "ＨＰが０になる|攻撃を受けても|たまに生き残る": ""
     },
     "2573": {
-        "常時|さいだいＭＰが|４５増える": "Always|+45 MP|"
+        "常時|さいだいＭＰが|４５増える": "Increases|Max MP by 45."
     },
     "2574": {
         "clarity_nt_char_846": "clarity_nt_char_846"
@@ -7761,7 +7761,7 @@
         "闇のチカラで|敵１体を攻撃": "Attack an enemy|with dark power."
     },
     "2588": {
-        "常時|さいだいＭＰが|３０増える": "Always|+30 MP|"
+        "常時|さいだいＭＰが|３０増える": "Increases|Max MP by 30."
     },
     "2589": {
         "clarity_nt_char_851": "clarity_nt_char_851"
@@ -8082,7 +8082,7 @@
         "１回だけ|ブレス系の攻撃を|はねかえす": "Aura which|repels a single |breath attack."
     },
     "2695": {
-        "常時|さいだいＭＰが|８０増える": "Always|+80 MP|"
+        "常時|さいだいＭＰが|８０増える": "Increases|Max MP by 80."
     },
     "2696": {
         "clarity_nt_char_885": "clarity_nt_char_885"
@@ -8211,7 +8211,7 @@
         "clarity_nt_char_899": "clarity_nt_char_899"
     },
     "2738": {
-        "常時|さいだいＭＰが|６０増える": "Always|+60 MP|"
+        "常時|さいだいＭＰが|６０増える": "Increases|Max MP by 60."
     },
     "2739": {
         "clarity_nt_char_900": "clarity_nt_char_900"
@@ -8550,7 +8550,7 @@
         "clarity_nt_char_934": "clarity_nt_char_934"
     },
     "2851": {
-        "常時|さいだいＭＰが|２０増える": "Always|+20 MP|"
+        "常時|さいだいＭＰが|２０増える": "Increases|Max MP by 20."
     },
     "2852": {
         "clarity_nt_char_935": "clarity_nt_char_935"
@@ -9297,7 +9297,7 @@
         "clarity_nt_char_1023": "clarity_nt_char_1023"
     },
     "3100": {
-        "常時|さいだいＭＰが|１５増える": "Always|+15 MP|"
+        "常時|さいだいＭＰが|１５増える": "Increases|Max MP by 15."
     },
     "3101": {
         "clarity_nt_char_1024": "clarity_nt_char_1024"
@@ -9453,7 +9453,7 @@
         "こうげき魔力が|６０増える": ""
     },
     "3152": {
-        "さいだいＭＰが|５０増える": ""
+        "さいだいＭＰが|５０増える": "Increases|Max MP by 50."
     },
     "3153": {
         "周囲を巻き込む|すさまじい雷が|敵に降りそそぐ": ""
@@ -9726,7 +9726,7 @@
         "常時|みのまもりが|２０増える": "Resilience|increased by 20."
     },
     "3243": {
-        "常時|さいだいＭＰが|１０増える": "Always|+10 MP|"
+        "常時|さいだいＭＰが|１０増える": "Increases|Max MP by 10."
     },
     "3244": {
         "clarity_nt_char_1070": "clarity_nt_char_1070"
@@ -11736,7 +11736,7 @@
         "clarity_nt_char_1302": "clarity_nt_char_1302"
     },
     "3913": {
-        "両手杖装備時|さいだいＭＰが|１５０増える": ""
+        "両手杖装備時|さいだいＭＰが|１５０増える": "Max MP +150|when a Staff|is equipped."
     },
     "3914": {
         "両手杖装備で|戦闘に勝つと|ＭＰが大回復する": "Gain big MP when|you win a battle|with a Staff."
@@ -11778,7 +11778,7 @@
         "スティック装備時|かいふく魔力が|１００増える": "+100 Magical Mending|when wand|equipped."
     },
     "3927": {
-        "スティック装備時|さいだいＭＰが|１５０増える": "+150 Maximum MP|when wand worn.|"
+        "スティック装備時|さいだいＭＰが|１５０増える": "Max MP +150|when a Wand|is equipped."
     },
     "3928": {
         "スティック装備で|戦闘に勝つと|ＭＰが大回復する": "Restore large amount|of MP when battle|won & wand equipped"
