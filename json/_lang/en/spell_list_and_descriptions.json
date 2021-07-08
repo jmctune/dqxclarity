@@ -3210,7 +3210,7 @@
         "周囲を巻き込む|巨大な氷の柱が|敵に突きささる": "A huge ice pillar|engulfs nearby|enemies."
     },
     "1071": {
-        "魔法使い時|２％の確率で|ＭＰを消費しない": ""
+        "魔法使い時|２％の確率で|ＭＰを消費しない": "2% chance to not|use MP as a|Mage."
     },
     "1072": {
         "巨大な火柱で|敵１体を|焼きつくす": "Burns an enemy in|a huge pillar|of fire."
@@ -3813,7 +3813,7 @@
         "clarity_nt_char_424": "clarity_nt_char_424"
     },
     "1272": {
-        "天地雷鳴士時|２％の確率で|ＭＰを消費しない": ""
+        "天地雷鳴士時|２％の確率で|ＭＰを消費しない": "2% chance to not|use MP as a|Druid."
     },
     "1273": {
         "clarity_nt_char_425": "clarity_nt_char_425"
@@ -4629,7 +4629,7 @@
         "clarity_nt_char_516": "clarity_nt_char_516"
     },
     "1544": {
-        "スティック装備時|２％の確率で|ＭＰを消費しない": ""
+        "スティック装備時|２％の確率で|ＭＰを消費しない": "2% chance to not|use MP when using|a Wand."
     },
     "1545": {
         "clarity_nt_char_517": "clarity_nt_char_517"
@@ -4818,10 +4818,10 @@
         "錬魔の秘法": "Demonic Method"
     },
     "1607": {
-        "ＭＰ消費しない率+4%": ""
+        "ＭＰ消費しない率+4%": "Don't Use MP +4%"
     },
     "1608": {
-        "ターン消費しない+2%": ""
+        "ターン消費しない+2%": "Don't Consume Turn +2%"
     },
     "1609": {
         "棍装備時に|呪文の発動速度が|３％早くなる": "Spell cast speed|increased by 3%|with a Rod."
@@ -4935,7 +4935,7 @@
         "鎌装備時|闇攻撃ダメージが|５％増える": "Dark Damage +5%|when a Sickle|is equipped."
     },
     "1646": {
-        "スティック装備時|さいだいＭＰが|５０増える": ""
+        "スティック装備時|さいだいＭＰが|５０増える": "Max MP +50|when a Wand|is equipped."
     },
     "1647": {
         "clarity_nt_char_552": "clarity_nt_char_552"
