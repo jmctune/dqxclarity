@@ -21150,10 +21150,10 @@
         "clarity_nt_char_2426": "clarity_nt_char_2426"
     },
     "7051": {
-        "攻撃時　たまに相手の|与ダメージを下げられるようになった！": ""
+        "攻撃時　たまに相手の|与ダメージを下げられるようになった！": "You will now sometimes lower the enemy's|damage dealt when attacking!"
     },
     "7052": {
-        "スティック装備時に|２％の確率で　ＭＰを消費しなくなった！": ""
+        "スティック装備時に|２％の確率で　ＭＰを消費しなくなった！": "You now have a 2% chance to not use MP|when equipped with a Wand!"
     },
     "7053": {
         "シャインステッキの特技を　おぼえた！": "You learned Shine Stick!"
@@ -21171,7 +21171,7 @@
         "スティック装備時の|さいだいＭＰが　６０　増えた！": "Max MP increased by 60 when|equipped with a Wand!"
     },
     "7058": {
-        "スティック装備時　呪文発動速度が　早くなった！": ""
+        "スティック装備時　呪文発動速度が　早くなった！": "Spellcasting speed increased when equipped|with a Wand!"
     },
     "7059": {
         "行動時　５％の確率で|移動速度が　あがるようになった！": ""
