@@ -19959,7 +19959,7 @@
         "clarity_nt_char_2220": "clarity_nt_char_2220"
     },
     "6654": {
-        "自分自身に|呪文をかきけす|バリアを張る": "Create barrier|on self to|block spells"
+        "自分自身に|呪文をかきけす|バリアを張る": "Creates a self|barrier that|nullifies spells."
     },
     "6655": {
         "clarity_nt_char_2221": "clarity_nt_char_2221"
@@ -19986,7 +19986,7 @@
         "敵１体を|眠りにさそう": ""
     },
     "6663": {
-        "範囲内の敵を|深い眠りにさそう": ""
+        "範囲内の敵を|深い眠りにさそう": "Attempts to put|nearby enemies|to sleep."
     },
     "6664": {
         "敵１体の|呪文を封じる": ""
