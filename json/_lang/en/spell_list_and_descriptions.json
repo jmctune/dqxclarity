@@ -4941,13 +4941,13 @@
         "clarity_nt_char_552": "clarity_nt_char_552"
     },
     "1648": {
-        "スティック装備時|４％の確率で|ＭＰを消費しない": ""
+        "スティック装備時|４％の確率で|ＭＰを消費しない": "4% chance to not|use MP when using|a Wand."
     },
     "1649": {
         "clarity_nt_char_553": "clarity_nt_char_553"
     },
     "1650": {
-        "スティック装備時|２．０％の確率で|ターン消費しない": ""
+        "スティック装備時|２．０％の確率で|ターン消費しない": "2% chance to not|use a turn when|using a Wand."
     },
     "1651": {
         "clarity_nt_char_554": "clarity_nt_char_554"
@@ -4962,7 +4962,7 @@
         "clarity_nt_char_555": "clarity_nt_char_555"
     },
     "1655": {
-        "攻撃時ＨＰ回復と|武器ガード率上昇|効果がつく": "HP recovery and|wep. guard rate|up on an attack."
+        "攻撃時ＨＰ回復と|武器ガード率上昇|効果がつく": "Increased parry|rate and attacks|recover HP."
     },
     "1656": {
         "魔の波動を消費し|自己強化|魔剣士専用特技": "Consume Wave|gauge to power|yourself up."
