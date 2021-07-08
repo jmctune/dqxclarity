@@ -1692,7 +1692,7 @@
         "clarity_nt_char_186": "clarity_nt_char_186"
     },
     "565": {
-        "1.0%ターン消費なし（専）": "1% Don't Use Turn (EX)"
+        "1.0%ターン消費なし（専）": "Don't Use Turn 1% (EX)"
     },
     "566": {
         "clarity_nt_char_187": "clarity_nt_char_187"
@@ -2124,7 +2124,7 @@
         "【190P】復活時5%で天使の守り": "[190P] Goddess' Grace On Revival 5%"
     },
     "709": {
-        "5.0%ターン消費なし": "5% Don't Use Turn"
+        "5.0%ターン消費なし": "Don't Use Turn 5%"
     },
     "710": {
         "行動間隔短縮": "Action Wait Down"
@@ -11106,13 +11106,13 @@
         "身かわし率+1.2%（専）": "Dodge Rate +1.2% (EX)"
     },
     "3703": {
-        "1.5%ターン消費なし（専）": "1.5% Don't Use Turn (EX)"
+        "1.5%ターン消費なし（専）": "Don't Use Turn 1.5% (EX)"
     },
     "3704": {
         "clarity_nt_char_1242": "clarity_nt_char_1242"
     },
     "3705": {
-        "2.0%ターン消費なし（専）": "2% Don't Use Turn (EX)"
+        "2.0%ターン消費なし（専）": "Don't Use Turn 2% (EX)"
     },
     "3706": {
         "clarity_nt_char_1243": "clarity_nt_char_1243"
@@ -21102,7 +21102,7 @@
         "clarity_nt_char_2422": "clarity_nt_char_2422"
     },
     "7035": {
-        "1.0%ターン消費なし": "1% Don't Use Turn"
+        "1.0%ターン消費なし": "Don't Use Turn 1%"
     },
     "7036": {
         "装備時さいだいＭＰ+60": "MP +60"
@@ -22443,10 +22443,10 @@
         "ＭＰ消費しない率+4%": "Don't Use MP Rate +4%"
     },
     "7482": {
-        "2.0%ターン消費なし": ""
+        "2.0%ターン消費なし": "Don't Use Turn 2%"
     },
     "7483": {
-        "ザオリク": ""
+        "ザオリク": "Kazing"
     },
     "7484": {
         "clarity_nt_char_2553": "clarity_nt_char_2553"
