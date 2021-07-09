@@ -429,7 +429,7 @@
         "フィールドで中断していましたが|<%sSERVER>には　入れませんでした。|別のサーバーに移動します。<end>": "You were interrupted in the field and|couldn't move to <%sSERVER>.|Please choose another server.<end>"
     },
     "144": {
-        "住宅村で中断していましたが|ハウジング専用サーバーに　入れませんでした。|住宅村入口のある町に　移動します。<end>": ""
+        "住宅村で中断していましたが|ハウジング専用サーバーに　入れませんでした。|住宅村入口のある町に　移動します。<end>": "You were interrupted in a housing area, and|couldn't connect to the housing server.|Moving to the entrance of the housing area.<end>"
     },
     "145": {
         "前回　ゲームを中断した場所が|サーバー変更が　できない場所だったため|前回と同じサーバーから　ゲームを再開します。<end>": "Your character was not logged out|properly, so the game will be restarted on|the same server as before.<end>"
