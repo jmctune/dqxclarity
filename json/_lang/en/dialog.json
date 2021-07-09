@@ -4737,7 +4737,7 @@
         "いま組んでいる|パーティを|非表示にします": ""
     },
     "1580": {
-        "他の冒険者を|非表示にします": ""
+        "他の冒険者を|非表示にします": "Hides other|players."
     },
     "1581": {
         "clarity_nt_char_536": "clarity_nt_char_536"
@@ -9564,7 +9564,7 @@
         "clarity_nt_char_1077": "clarity_nt_char_1077"
     },
     "3189": {
-        "自分のいる|サーバー名を|非表示にします": ""
+        "自分のいる|サーバー名を|非表示にします": "Hides your|server|information."
     },
     "3190": {
         "clarity_nt_char_1078": "clarity_nt_char_1078"
@@ -9630,7 +9630,7 @@
         "<speed=0>|マイコーデの編集を　キャンセルしますか？|<yesno><close>": "<speed=0>|Cancel editing your glamour?|<yesno><close>"
     },
     "3211": {
-        "自分のいる|サーバー名を|表示します": ""
+        "自分のいる|サーバー名を|表示します": "Shows your|server|information."
     },
     "3212": {
         "clarity_nt_char_1084": "clarity_nt_char_1084"
