@@ -5460,7 +5460,7 @@
         "職業「<%sM_job>」で|<%sM_pc>を　なかまに　さそった！": ""
     },
     "1821": {
-        "<speed=0>|コーデ名「<%sM_myset2>」で　登録した！": ""
+        "<speed=0>|コーデ名「<%sM_myset2>」で　登録した！": "<speed=0>|Registered with the name \"<%sM_myset2>\"!"
     },
     "1822": {
         "<speed=0>|この見た目は　マイコーデに登録できません！": "<speed=0>You can't register this appearance as glamour!"
