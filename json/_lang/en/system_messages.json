@@ -1128,7 +1128,7 @@
         "名前を変更しなければ|ゲームを再開できません。|キャンセルしても　よろしいですか？<yesno><break>": "You can't start the game without renaming first.|Are you sure you want to cancel?<yesno><break>"
     },
     "377": {
-        "名前を変更しました。<end>": ""
+        "名前を変更しました。<end>": "Character was renamed.<end>"
     },
     "378": {
         "あなたの持つ　家の名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※多くの人が　目にする名前のため|　個人情報や　他の人が不快に感じる名前は|　つけないように　ご注意ください！<color_white><end>": ""
