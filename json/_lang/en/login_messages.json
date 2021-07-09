@@ -108,10 +108,10 @@
         "あやまって消すのを防ぐため|以下の　確認番号を入れてください。|確認番号：<%sNUM><break>": "Please enter the following confirmation|number to prevent accidental deletion.|Confirmation Number: <%sNUM><break>"
     },
     "37": {
-        "確認番号が　ちがいます。<end>": ""
+        "確認番号が　ちがいます。<end>": "Incorrect confirmation number.<end>"
     },
     "38": {
-        "確認番号の入力": ""
+        "確認番号の入力": "Enter Number"
     },
     "39": {
         "（※削除予定）<bw_break>": "(*Plan to Delete)<bw_break>"
