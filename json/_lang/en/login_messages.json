@@ -123,7 +123,7 @@
         "冒険の書を削除できる回数は　残り<%nCHAR_DEL_NUM>回です。|この回数は　毎月１日午前０時以降に|ログインしなおすと　一定量　回復します。<end>": "You only have <%dCHAR_DEL_NUM> Adventure Book(s) left to delete. |This amount will reset by logging in|again after midnight on the first|day of the month.<end>"
     },
     "42": {
-        "冒険の書を削除できる　残り回数を|取得できませんでした。<br>|障害情報を　ご確認の上|少し時間を置いてから　もう一度|お試しください。<end>": ""
+        "冒険の書を削除できる　残り回数を|取得できませんでした。<br>|障害情報を　ご確認の上|少し時間を置いてから　もう一度|お試しください。<end>": "Couldn't retrieve number of Adventure Book|deletions remaining.<br>|Please wait a while and try again."
     },
     "43": {
         "データを消す　冒険の書を　選んでください。<break>": "Please select an adventure book to erase.<break>"
