@@ -327,10 +327,10 @@
         "ご使用中の　キャラクターの名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　つけないでください！<color_white><end>": "The name of this character can no longer|be used. Please choose a new name. <br>|*Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable!<color_white><end>"
     },
     "110": {
-        "あなたの持つ　チームの名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　つけないでください！<color_white><end>": ""
+        "あなたの持つ　チームの名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　つけないでください！<color_white><end>": "Your Team name is no longer available.|Please choose a new name.<br>|<color_yellow>*Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable!<color_white><end>"
     },
     "111": {
-        "新しい　チーム名は|『<%sNEWNAME>』で|よろしいですか？<yesno><break>": ""
+        "新しい　チーム名は|『<%sNEWNAME>』で|よろしいですか？<yesno><break>": "Use the new Team name \"<%sNEWNAME>\"?<yesno><break>"
     },
     "112": {
         "インストール環境で　エラーが発生し|書き込み／読み出しが　できませんでした。|ディスクドライブなどが　正常に使用できるか|ご確認ください。": ""
