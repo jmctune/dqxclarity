@@ -207,13 +207,13 @@
         "「プレゼント受け取りメニュー」のページを|開きます。ログアウトして　よろしいですか？|http://www.jp.square-enix.com/<yesno><close>": ""
     },
     "70": {
-        "ご使用のアカウントには 追加パッケージ|<%sVERAPPEND>の|レジストレーションコードが登録されていません。<br>|レジストレーションコードを登録するために|ログアウトして「アストルティア入国管理局」を|開きますか？　http://sqex.to/aio<yesno><close>": ""
+        "ご使用のアカウントには 追加パッケージ|<%sVERAPPEND>の|レジストレーションコードが登録されていません。<br>|レジストレーションコードを登録するために|ログアウトして「アストルティア入国管理局」を|開きますか？　http://sqex.to/aio<yesno><close>": "Your account does not have the|<%sVERAPPEND>|registration code registered.|<br>|Would you like to log out and visit the|Astoltia Immigration Bureau to register your|code? http://sqex.to/aio<yesno><close>"
     },
     "71": {
-        "利用券を購入するため|ログアウトして「アストルティア入国管理局」を|開きますか？　http://sqex.to/aio<yesno><close>": ""
+        "利用券を購入するため|ログアウトして「アストルティア入国管理局」を|開きますか？　http://sqex.to/aio<yesno><close>": "Log out and visit the \"Astoltia Immigration Bureau\"|to purchase a voucher? (http://sqex.to/aio)<yesno><close>"
     },
     "72": {
-        "ログインしています……。<break>": ""
+        "ログインしています……。<break>": "Logging in...<break>"
     },
     "73": {
         "ログインに必要な処理をしています。|この処理には　数分かかる場合もあります。|少々お待ちください……。<break>": ""
