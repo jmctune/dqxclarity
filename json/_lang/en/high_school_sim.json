@@ -7791,7 +7791,7 @@
         "呪文や特技の|威力があがる": ""
     },
     "2598": {
-        "常時|足元の攻撃を|かわすようになる": ""
+        "常時|足元の攻撃を|かわすようになる": "Dodge attacks|that can|trip you."
     },
     "2599": {
         "clarity_nt_char_854": "clarity_nt_char_854"
@@ -7809,7 +7809,7 @@
         "スティック攻撃時|吸収できる|ＭＰが増える": "Increases MP|absorbed when|using a Wand. "
     },
     "2604": {
-        "常時|かいふく魔力が|６０増える": "Always|+60 Magical|Mending."
+        "常時|かいふく魔力が|６０増える": "Increases|Magical Mending|by 60."
     },
     "2605": {
         "clarity_nt_char_856": "clarity_nt_char_856"
@@ -7845,13 +7845,13 @@
         "clarity_nt_char_859": "clarity_nt_char_859"
     },
     "2616": {
-        "常時|ちからが|２５増える": "Always|+25 strength|"
+        "常時|ちからが|２５増える": "Increases|Strength by 25."
     },
     "2617": {
         "氷のやいばで|敵１体を攻撃": "Attacks an enemy|with sharp ice."
     },
     "2618": {
-        "常時|こうげき魔力が|４０増える": "Always|+40 Magical|Might."
+        "常時|こうげき魔力が|４０増える": "Increases|Magical Might|by 40."
     },
     "2619": {
         "clarity_nt_char_860": "clarity_nt_char_860"
@@ -7869,7 +7869,7 @@
         "ヒャド系の呪文の|威力があがる": ""
     },
     "2624": {
-        "常時|こうげき魔力が|６０増える": "Always|+60 Magical|Might."
+        "常時|こうげき魔力が|６０増える": "Increases|Magical Might|by 60."
     },
     "2625": {
         "clarity_nt_char_862": "clarity_nt_char_862"
@@ -7908,13 +7908,13 @@
         "clarity_nt_char_866": "clarity_nt_char_866"
     },
     "2637": {
-        "常時|こうげき魔力が|８０増える": "Always|+80 Magical|Might."
+        "常時|こうげき魔力が|８０増える": "Increases|Magical Might|by 80."
     },
     "2638": {
         "clarity_nt_char_867": "clarity_nt_char_867"
     },
     "2639": {
-        "常時|呪文の発動速度が|早くなる": ""
+        "常時|呪文の発動速度が|早くなる": "Your spells will|cast faster."
     },
     "2640": {
         "clarity_nt_char_868": "clarity_nt_char_868"
@@ -7926,7 +7926,7 @@
         "身体を回転させ|周りの敵に攻撃": "Let it rip and|attack nearby enemies"
     },
     "2643": {
-        "常時|すばやさが|６０増える": "Always|+60 agility|"
+        "常時|すばやさが|６０増える": "Increases|Agility by 60."
     },
     "2644": {
         "clarity_nt_char_869": "clarity_nt_char_869"
@@ -7938,7 +7938,7 @@
         "clarity_nt_char_870": "clarity_nt_char_870"
     },
     "2647": {
-        "常時|さいだいＨＰが|５０増える": "Maximum HP|increased by 50."
+        "常時|さいだいＨＰが|５０増える": "Increases|Maximum HP|by 50."
     },
     "2648": {
         "clarity_nt_char_871": "clarity_nt_char_871"
@@ -7998,7 +7998,7 @@
         "敵１体に|スライムとの|華麗な連携攻撃": "Slootacular|wombo combo|on an enemy."
     },
     "2667": {
-        "常時|ちからが|３０増える": "Always|+30 strength|"
+        "常時|ちからが|３０増える": "Increases|Strength by 30."
     },
     "2668": {
         "ダメージが|１００増える": ""
