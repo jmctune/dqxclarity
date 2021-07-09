@@ -936,10 +936,10 @@
         "デュアルブレイカー": "Double Down"
     },
     "313": {
-        "常時かいふく魔力+80": "Natural Magical Mending+80"
+        "常時かいふく魔力+80": "Natural Magical Mending +80"
     },
     "314": {
-        "常時さいだいＨＰ+20": "Natural HP+20"
+        "常時さいだいＨＰ+20": "Natural HP +20"
     },
     "315": {
         "ザオラル": "Zing"
@@ -954,7 +954,7 @@
         "clarity_nt_char_110": "clarity_nt_char_110"
     },
     "319": {
-        "常時さいだいＭＰ+45": "Natural Maximum MP+45"
+        "常時さいだいＭＰ+45": "Natural MP +45"
     },
     "320": {
         "ホイミ系効果+50%": ""
@@ -1002,7 +1002,7 @@
         "ドルマ": "Zam"
     },
     "335": {
-        "常時さいだいＭＰ+30": "Natural Maximum MP+30"
+        "常時さいだいＭＰ+30": "Natural MP +30"
     },
     "336": {
         "吸血": "Nibble"
@@ -1011,7 +1011,7 @@
         "clarity_nt_char_116": "clarity_nt_char_116"
     },
     "338": {
-        "常時身かわし率+5%": "Natural dodge chance +5%"
+        "常時身かわし率+5%": "Natural Dodge Rate +5%"
     },
     "339": {
         "clarity_nt_char_117": "clarity_nt_char_117"
@@ -1023,7 +1023,7 @@
         "clarity_nt_char_118": "clarity_nt_char_118"
     },
     "342": {
-        "常時こうげき魔力+100": "Natural Magical Might+100"
+        "常時こうげき魔力+100": "Natural Magical Might +100"
     },
     "343": {
         "clarity_nt_char_119": "clarity_nt_char_119"
@@ -1056,7 +1056,7 @@
         "clarity_nt_char_122": "clarity_nt_char_122"
     },
     "353": {
-        "常時かいふく魔力+60": "Natural Magical Mending+60"
+        "常時かいふく魔力+60": "Natural Magical Mending +60"
     },
     "354": {
         "キラキラポーン": "Snap Crackle Poof"
@@ -1080,7 +1080,7 @@
         "ぽかぽかニャー": ""
     },
     "361": {
-        "常時ちから+10": "Nat Strength+10"
+        "常時ちから+10": "Strength +10"
     },
     "362": {
         "clarity_nt_char_124": "clarity_nt_char_124"
@@ -1092,7 +1092,7 @@
         "タマげたニャー": ""
     },
     "365": {
-        "常時ちから+25": "Nat Strength+25"
+        "常時ちから+25": "Strength +25"
     },
     "366": {
         "clarity_nt_char_125": "clarity_nt_char_125"
@@ -1104,7 +1104,7 @@
         "ヒャド": "Crack"
     },
     "369": {
-        "常時こうげき魔力+40": "Natural Magical Might+40"
+        "常時こうげき魔力+40": "Natural Magical Might +40"
     },
     "370": {
         "ヒャダルコ": "Crackle"
@@ -1122,7 +1122,7 @@
         "clarity_nt_char_127": "clarity_nt_char_127"
     },
     "375": {
-        "常時こうげき魔力+60": "Natural Magical Might + 60"
+        "常時こうげき魔力+60": "Natural Magical Might +60"
     },
     "376": {
         "常時呪文暴走率+3%": "Haywire Rate +3%"
@@ -1161,7 +1161,7 @@
         "ヒャド系効果+5%": ""
     },
     "388": {
-        "常時こうげき魔力+80": ""
+        "常時こうげき魔力+80": "Magical Might +80"
     },
     "389": {
         "呪文発動速度+10%": ""
@@ -1179,10 +1179,10 @@
         "スピンアタック": "Spin Attack"
     },
     "394": {
-        "常時身かわし率+10%": "Natural dodge chance +10%"
+        "常時身かわし率+10%": "Natural Dodge Rate +10%"
     },
     "395": {
-        "常時すばやさ+60": "Natural Agility+60"
+        "常時すばやさ+60": "Natural Agility +60"
     },
     "396": {
         "ばくれつけん": "Multifists"
@@ -1191,7 +1191,7 @@
         "clarity_nt_char_134": "clarity_nt_char_134"
     },
     "398": {
-        "常時さいだいＨＰ+50": "Natural HP+50"
+        "常時さいだいＨＰ+50": "Natural HP +50"
     },
     "399": {
         "ミラクルスピン": "Miracle Spin"
@@ -1260,7 +1260,7 @@
         "clarity_nt_char_142": "clarity_nt_char_142"
     },
     "421": {
-        "常時かいしん率+5%": "Crit. Rate+5%"
+        "常時かいしん率+5%": "Critical Rate +5%"
     },
     "422": {
         "clarity_nt_char_143": "clarity_nt_char_143"
