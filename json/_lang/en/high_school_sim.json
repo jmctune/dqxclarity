@@ -9591,13 +9591,13 @@
         "clarity_nt_char_1055": "clarity_nt_char_1055"
     },
     "3198": {
-        "常時|武器ガードが|できるようになる": ""
+        "常時|武器ガードが|できるようになる": "You can now parry|enemy attacks."
     },
     "3199": {
         "clarity_nt_char_1056": "clarity_nt_char_1056"
     },
     "3200": {
-        "常時|みのまもりが|１０増える": "Resilience|increased by 10."
+        "常時|みのまもりが|１０増える": "Increases|Resilience by 10."
     },
     "3201": {
         "周囲の敵を|凍てつく氷で|こごえさせる": "Freeze nearby|enemies with|ice power."
@@ -9675,7 +9675,7 @@
         "ダメージを与えて|テンションアップ": ""
     },
     "3226": {
-        "常時|さらに武器ガード|しやすくなる": ""
+        "常時|さらに武器ガード|しやすくなる": "It's even easier|to parry enemy|attacks."
     },
     "3227": {
         "clarity_nt_char_1065": "clarity_nt_char_1065"
@@ -9690,7 +9690,7 @@
         "内なるちからを|開放して攻撃力と|すばやさを上げる": ""
     },
     "3231": {
-        "常時|かいふく魔力が|３０増える": "Always|+30 Magical|Mending."
+        "常時|かいふく魔力が|３０増える": "Increases|Magical Mending|by 30."
     },
     "3232": {
         "clarity_nt_char_1066": "clarity_nt_char_1066"
@@ -9723,10 +9723,10 @@
         "攻撃呪文により|受けるダメージが|減少する": ""
     },
     "3242": {
-        "常時|みのまもりが|２０増える": "Resilience|increased by 20."
+        "常時|みのまもりが|２０増える": "Increases|Resilience by 20."
     },
     "3243": {
-        "常時|さいだいＭＰが|１０増える": "Increases|Max MP by 10."
+        "常時|さいだいＭＰが|１０増える": "Increases|Maximum MP|by 10."
     },
     "3244": {
         "clarity_nt_char_1070": "clarity_nt_char_1070"
@@ -9786,7 +9786,7 @@
         "周囲を巻き込む|巨大な竜巻が|敵を切り刻む": "A huge tornado|that chops up|nearby enemies."
     },
     "3263": {
-        "常時|きようさが|１０増える": ""
+        "常時|きようさが|１０増える": "Increases|Deftness by 10."
     },
     "3264": {
         "clarity_nt_char_1078": "clarity_nt_char_1078"
@@ -9795,7 +9795,7 @@
         "仲間ひとりの|行動間隔を|少し短くする": "Shortens action|wait of|one ally."
     },
     "3266": {
-        "常時|すばやさが|１０増える": "Always|+10 agility|"
+        "常時|すばやさが|１０増える": "Increases|Agility by 10."
     },
     "3267": {
         "clarity_nt_char_1079": "clarity_nt_char_1079"
