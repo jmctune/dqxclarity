@@ -51,13 +51,13 @@
         "ベータテストの利用期間が　ありません。|ゲームをプレイするには　先に|利用券を　購入していただく必要があります。<br>|現在　ベータテスト中ですので|無料で　ベータテストの利用券を購入できます。|チケット購入メニューに　移動します。<end>": "Something something beta test"
     },
     "18": {
-        "利用券の有効期間が　残り<%n_DAY>日です！|先に　利用券を購入するために　ログアウトして|アストルティア入国管理局を開きますか？|<select_nc>|アストルティア入国管理局へ|今は購入しない|<select_end><close>": ""
+        "利用券の有効期間が　残り<%n_DAY>日です！|先に　利用券を購入するために　ログアウトして|アストルティア入国管理局を開きますか？|<select_nc>|アストルティア入国管理局へ|今は購入しない|<select_end><close>": "Your current play voucher has <%d_DAY> days remaning!|Would you like to log out and visit the|Astoltia Immigration Bureau to renew?|<select_nc>|Renew Voucher|Don't Renew|<select_end><close>"
     },
     "19": {
-        "利用券の有効期間が　今日の２４時で切れます！|先に　利用券を購入するために　ログアウトして|アストルティア入国管理局を開きますか？|<select_nc>|アストルティア入国管理局へ|今は購入しない|<select_end><close>": ""
+        "利用券の有効期間が　今日の２４時で切れます！|先に　利用券を購入するために　ログアウトして|アストルティア入国管理局を開きますか？|<select_nc>|アストルティア入国管理局へ|今は購入しない|<select_end><close>": "Your current play voucher has 24 hours remaning!|Would you like to log out and visit the|Astoltia Immigration Bureau to renew?|<select_nc>|Renew Voucher|Don't Renew|<select_end><close>"
     },
     "20": {
-        "（※削除予定）<bw_break>": ""
+        "（※削除予定）<bw_break>": "(*Plan to Delete)<bw_break>"
     },
     "21": {
         "冒険の書を　選んでください。<break>": "Choose an adventure book.<break>"
@@ -114,7 +114,7 @@
         "確認番号の入力": ""
     },
     "39": {
-        "（※削除予定）<bw_break>": ""
+        "（※削除予定）<bw_break>": "(*Plan to Delete)<bw_break>"
     },
     "40": {
         "冒険の書を削除できる回数が　残り０回のため|削除できません。<br>|この回数は　毎月１日午前０時以降に|ログインしなおすと　一定量　回復します。<end>": "You cannot delete this Adventure Book as|there are 0 attempts remaining.<br>|This amount will reset by logging in|again after midnight on the first|day of the month.<end>"

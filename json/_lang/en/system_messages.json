@@ -240,7 +240,7 @@
         "冒険の書<%nNO>に保存されている|<%sPCNAME>の　冒険の記録を消します。|よろしいですか？<yesno 2><break>": "This will delete the records of <%sPCNAME>|saved in Adventure Book <%dNO>.|Are you sure?<yesno 2><break>"
     },
     "81": {
-        "（※削除予定）<bw_break>": ""
+        "（※削除予定）<bw_break>": "(*Plan to Delete)<bw_break>"
     },
     "82": {
         "同意がなければ　手続きはできません。|規約に同意いただける場合は|チェックを入れてから　次へ進んでください。<end>": ""
@@ -555,7 +555,7 @@
         "住所の検索ができませんでした。|郵便番号が　正しく入力されていないか|登録されていない郵便番号です。<end>": ""
     },
     "186": {
-        "（※削除予定）<bw_break>": ""
+        "（※削除予定）<bw_break>": "(*Plan to Delete)<bw_break>"
     },
     "187": {
         "（※削除予定）<break>": ""
@@ -564,7 +564,7 @@
         "（※削除予定）<yesno><break>": ""
     },
     "189": {
-        "（※削除予定）<bw_break>": ""
+        "（※削除予定）<bw_break>": "(*Plan to Delete)<bw_break>"
     },
     "190": {
         "（※削除予定）<break>": ""
@@ -576,7 +576,7 @@
         "（※削除予定）<break>": ""
     },
     "193": {
-        "（※削除予定）<bw_break>": ""
+        "（※削除予定）<bw_break>": "(*Plan to Delete)<bw_break>"
     },
     "194": {
         "（※削除予定）<break>": ""
@@ -711,7 +711,7 @@
         "ログインに必要な処理をしています。|この処理には　数分かかる場合もあります。|少々お待ちください……。<break>": ""
     },
     "238": {
-        "（※削除予定）<bw_break>": ""
+        "（※削除予定）<bw_break>": "(*Plan to Delete)<bw_break>"
     },
     "239": {
         "入力したアカウントは　すでに|プレイヤー<%nPLAYER_NO>に　登録されています。<end>": ""
