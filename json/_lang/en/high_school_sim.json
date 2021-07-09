@@ -2784,7 +2784,7 @@
         "clarity_nt_char_306": "clarity_nt_char_306"
     },
     "929": {
-        "常時さいだいＨＰ+10": "Natural HP+10"
+        "常時さいだいＨＰ+10": "Maximum HP +10"
     },
     "930": {
         "開戦時20%リべホイミ": ""
@@ -2796,7 +2796,7 @@
         "clarity_nt_char_307": "clarity_nt_char_307"
     },
     "933": {
-        "常時さいだいＭＰ+15": "Natural Maximum MP+15"
+        "常時さいだいＭＰ+15": "Maximum MP +15"
     },
     "934": {
         "開戦時20%マホキテ": ""
@@ -2805,7 +2805,7 @@
         "clarity_nt_char_308": "clarity_nt_char_308"
     },
     "936": {
-        "常時ちから+5": "Nat Strength+5"
+        "常時ちから+5": "Strength +5"
     },
     "937": {
         "開戦時10%バイシオン": ""
@@ -2817,7 +2817,7 @@
         "clarity_nt_char_309": "clarity_nt_char_309"
     },
     "940": {
-        "常時みのまもり+15": "Natural Resilience+15"
+        "常時みのまもり+15": "Resilience +15"
     },
     "941": {
         "clarity_nt_char_310": "clarity_nt_char_310"
@@ -2826,7 +2826,7 @@
         "開戦時20%スカラ": ""
     },
     "943": {
-        "常時すばやさ+20": "Natural Speed+20"
+        "常時すばやさ+20": "Agility +20"
     },
     "944": {
         "開戦時20%ピオラ": ""
@@ -2835,7 +2835,7 @@
         "たまに２回行動": ""
     },
     "946": {
-        "常時かいふく魔力+20": "Natural Magical Mending+20"
+        "常時かいふく魔力+20": "Magical Mending +20"
     },
     "947": {
         "開戦時10%魔力アップ": ""
@@ -3135,7 +3135,7 @@
         "双刃の守り": ""
     },
     "1046": {
-        "常時武器ガード率+2%": ""
+        "常時武器ガード率+2%": "Parry Rate +2%"
     },
     "1047": {
         "バーストラッシュ": ""
@@ -3168,7 +3168,7 @@
         "clarity_nt_char_352": "clarity_nt_char_352"
     },
     "1057": {
-        "常時みのまもり+10": "Natural Resilience+10"
+        "常時みのまもり+10": "Resilience +10"
     },
     "1058": {
         "clarity_nt_char_353": "clarity_nt_char_353"
@@ -3231,7 +3231,7 @@
         "シェルブレイク": ""
     },
     "1078": {
-        "常時かいしん率+2%": "Crit. Rate+2%"
+        "常時かいしん率+2%": "Critical Rate +2%"
     },
     "1079": {
         "clarity_nt_char_360": "clarity_nt_char_360"
@@ -3315,7 +3315,7 @@
         "clarity_nt_char_367": "clarity_nt_char_367"
     },
     "1106": {
-        "常時身かわし率+2%": "Natural dodge chance +2%"
+        "常時身かわし率+2%": "Dodge Rate +2%"
     },
     "1107": {
         "clarity_nt_char_368": "clarity_nt_char_368"
@@ -3327,7 +3327,7 @@
         "clarity_nt_char_369": "clarity_nt_char_369"
     },
     "1110": {
-        "常時身かわし率+3%": "Natural dodge chance +3%"
+        "常時身かわし率+3%": "Dodge Rate +3%"
     },
     "1111": {
         "clarity_nt_char_370": "clarity_nt_char_370"
@@ -3387,7 +3387,7 @@
         "会長スピリット": ""
     },
     "1130": {
-        "常時かいふく魔力+30": "Natural Magical Mending+30"
+        "常時かいふく魔力+30": "Magical Mending +30"
     },
     "1131": {
         "地母神の祈願": ""
@@ -3438,7 +3438,7 @@
         "呪文ダメージ5%減": "Spell Damage +5%"
     },
     "1147": {
-        "常時みのまもり+20": "Natural Resilience+20"
+        "常時みのまもり+20": "Resilience +20"
     },
     "1148": {
         "clarity_nt_char_380": "clarity_nt_char_380"
@@ -3450,13 +3450,13 @@
         "clarity_nt_char_381": "clarity_nt_char_381"
     },
     "1151": {
-        "常時さいだいＭＰ+10": "Natural Maximum MP+10"
+        "常時さいだいＭＰ+10": "Maximum MP +10"
     },
     "1152": {
         "春風のほほえみ": ""
     },
     "1153": {
-        "常時呪文発動速度+5%": ""
+        "常時呪文発動速度+5%": "Spell Cast Speed +5%"
     },
     "1154": {
         "こもれびの守り": ""
@@ -3543,7 +3543,7 @@
         "妖精姫の謝肉祭": ""
     },
     "1182": {
-        "常時こうげき魔力+10": ""
+        "常時こうげき魔力+10": "Magical Might +10"
     },
     "1183": {
         "キャンディブースト": ""
@@ -3555,7 +3555,7 @@
         "メラ系効果+10%": ""
     },
     "1186": {
-        "常時呪文発動速度+10%": ""
+        "常時呪文発動速度+10%": "Spell Cast Speed +10%"
     },
     "1187": {
         "clarity_nt_char_390": "clarity_nt_char_390"
@@ -3567,13 +3567,13 @@
         "clarity_nt_char_391": "clarity_nt_char_391"
     },
     "1190": {
-        "常時きようさ+10": ""
+        "常時きようさ+10": "Deftness +10"
     },
     "1191": {
         "ピオラ": "Accel"
     },
     "1192": {
-        "常時すばやさ+10": "Natural Speed+10"
+        "常時すばやさ+10": "Agility +10"
     },
     "1193": {
         "おはらい": "Benediction"
@@ -3582,7 +3582,7 @@
         "clarity_nt_char_392": "clarity_nt_char_392"
     },
     "1195": {
-        "常時被ダメージ10軽減": ""
+        "常時被ダメージ10軽減": "Damage Taken -10"
     },
     "1196": {
         "開戦時30%天使の守り": ""
