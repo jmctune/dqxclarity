@@ -186,10 +186,10 @@
         "新しい名前を入れてください。<break>": "Please enter a new name.<break>"
     },
     "63": {
-        "オンラインの世界で使う　キャラの名前は|『<%sPCNAME>』で　よろしいですか？<yesno><break>": ""
+        "オンラインの世界で使う　キャラの名前は|『<%sPCNAME>』で　よろしいですか？<yesno><break>": "The name of your online character will|be \"<%sPCNAME>, is this okay?<yesno><break>"
     },
     "64": {
-        "あなたが付けた　キャラの名前は|オンラインの世界では　使うことができません。|別の名前に変えてください。<bw_break>": ""
+        "あなたが付けた　キャラの名前は|オンラインの世界では　使うことができません。|別の名前に変えてください。<bw_break>": "The character name you chose cannot|be used online. Please choose a different|name.<bw_break>"
     },
     "65": {
         "ご使用のアカウントには|オンラインで遊べるキャラクターが　いないため|ゲストモードで　プレイできません。<br>|最初に遊んでいた環境から　キャラを作るか|この<%sConsole>で　プレイヤー登録をしてください。|ログアウトして　起動ランチャーに戻ります。<end>": "You cannot play in Guest Mode because there are|no characters registered to this account.<br>Create a character on the platform you are currently|playing on first, or register your account on the launcher with the|\"Add New Player\" button, and then log in."

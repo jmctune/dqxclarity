@@ -390,10 +390,10 @@
         "新しい名前を入れてください。<break>": "Please enter a new name.<break>"
     },
     "131": {
-        "オンラインの世界で使う　キャラの名前は|『<%sPCNAME>』で　よろしいですか？<yesno><break>": ""
+        "オンラインの世界で使う　キャラの名前は|『<%sPCNAME>』で　よろしいですか？<yesno><break>": "The name of your online character will|be \"<%sPCNAME>, is this okay?<yesno><break>"
     },
     "132": {
-        "あなたが付けた　キャラの名前は|オンラインの世界では　使うことができません。|別の名前に変えてください。<bw_break>": ""
+        "あなたが付けた　キャラの名前は|オンラインの世界では　使うことができません。|別の名前に変えてください。<bw_break>": "The character name you chose cannot|be used online. Please choose a different|name.<bw_break>"
     },
     "133": {
         "そのパスワードは　使えません。|次のいずれかに　該当していると思われます。|・最少文字数（6文字）未満<br>|・ＩＤと同じ文字列で始まっている|・同じ文字が3文字以上続いている|・英字／数字／記号の　いずれかのみの文字列<end>": ""
