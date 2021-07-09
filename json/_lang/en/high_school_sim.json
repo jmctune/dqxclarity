@@ -1389,7 +1389,7 @@
         "攻撃呪文耐性+5%": "Spell Resist +5%"
     },
     "464": {
-        "行動時10%呪文アップ": ""
+        "行動時10%呪文アップ": "Spell Up On Action 10%"
     },
     "465": {
         "状態異常成功率アップ": "Increased Status Afflict Rate"
@@ -1419,13 +1419,13 @@
         "clarity_nt_char_156": "clarity_nt_char_156"
     },
     "474": {
-        "炎耐性+5%": ""
+        "炎耐性+5%": "Fire R. +5%"
     },
     "475": {
         "clarity_nt_char_157": "clarity_nt_char_157"
     },
     "476": {
-        "メラ系効果+5%": ""
+        "メラ系効果+5%": "Frizz Effect +5%"
     },
     "477": {
         "clarity_nt_char_158": "clarity_nt_char_158"
@@ -1446,7 +1446,7 @@
         "常時こうげき魔力+20": "Magical Might +20"
     },
     "483": {
-        "ＭＰ消費しない率+10%": ""
+        "ＭＰ消費しない率+10%": "Don't Use MP Rate +10%"
     },
     "484": {
         "clarity_nt_char_160": "clarity_nt_char_160"
@@ -1476,7 +1476,7 @@
         "clarity_nt_char_164": "clarity_nt_char_164"
     },
     "493": {
-        "風属性特技威力+20%": ""
+        "風属性特技威力+20%": "Wind Skill Damage +20%"
     },
     "494": {
         "雷属性特技威力+20%": ""
