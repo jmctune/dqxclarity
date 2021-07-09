@@ -1560,7 +1560,7 @@
         "clarity_nt_char_170": "clarity_nt_char_170"
     },
     "521": {
-        "会心完全ガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "会心完全ガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Critical Hit Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "522": {
         "clarity_nt_char_171": "clarity_nt_char_171"
@@ -7848,7 +7848,7 @@
         "clarity_nt_char_854": "clarity_nt_char_854"
     },
     "2617": {
-        "会心完全ガード +<%sB_renkin1>%": ""
+        "会心完全ガード +<%sB_renkin1>%": "Critical Hit Guard +<%sB_renkin1>%"
     },
     "2618": {
         "瀕死時○%でファランクス": ""
