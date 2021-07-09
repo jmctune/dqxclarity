@@ -3591,7 +3591,7 @@
         "開戦時20%キラキラポーン": ""
     },
     "1198": {
-        "常時かいふく魔力+10": "Natural Magical Mending+10"
+        "常時かいふく魔力+10": "Magical Mending +10"
     },
     "1199": {
         "悟りの印": ""
@@ -3648,19 +3648,19 @@
         "clarity_nt_char_398": "clarity_nt_char_398"
     },
     "1217": {
-        "常時きようさ+20": ""
+        "常時きようさ+20": "Deftness +20"
     },
     "1218": {
         "開戦時50%ピオラ": ""
     },
     "1219": {
-        "常時きようさ+30": ""
+        "常時きようさ+30": "Deftness +30"
     },
     "1220": {
-        "常時すばやさ+30": "Natural Speed+30"
+        "常時すばやさ+30": "Agility +30"
     },
     "1221": {
-        "常時被ダメージ15軽減": ""
+        "常時被ダメージ15軽減": "Damage Taken -15"
     },
     "1222": {
         "ホイミ系効果+30%": ""
@@ -7584,7 +7584,7 @@
         "ジャンプして|プルプルボディで|たいあたり": "Blops 'em with|a boingin' bash.|"
     },
     "2529": {
-        "常時|会心のいちげきが|出やすくなる": "Always|increased crit|rate."
+        "常時|会心のいちげきが|出やすくなる": "Increases|critical hit|rate."
     },
     "2530": {
         "clarity_nt_char_830": "clarity_nt_char_830"
@@ -7605,7 +7605,7 @@
         "clarity_nt_char_832": "clarity_nt_char_832"
     },
     "2536": {
-        "常時|すばやさが|１００増える": "Always|+100 agility|"
+        "常時|すばやさが|１００増える": "Increases|Agility by 100."
     },
     "2537": {
         "王冠をかぶり|キングの気分で|周りの敵を攻撃": "Wear a crown|and become the|gooreatest king."
@@ -7629,7 +7629,7 @@
         "周囲の仲間の|行動間隔を|少し短くする": "Shortens action|wait of|nearby allies."
     },
     "2544": {
-        "常時|すばやさが|４０増える": "Always|+40 agility|"
+        "常時|すばやさが|４０増える": "Increases|Agility by 40."
     },
     "2545": {
         "clarity_nt_char_835": "clarity_nt_char_835"
@@ -7650,7 +7650,7 @@
         "clarity_nt_char_837": "clarity_nt_char_837"
     },
     "2551": {
-        "常時|かいふく魔力が|１００増える": "Always|+100 Magical|Mending."
+        "常時|かいふく魔力が|１００増える": "Increases|Magical Mending|by 100."
     },
     "2552": {
         "仲間ひとりの|攻撃力を|かなり上げる": "Significantly|raise attack|of an ally."
@@ -7674,7 +7674,7 @@
         "clarity_nt_char_840": "clarity_nt_char_840"
     },
     "2559": {
-        "常時|すばやさが|８０増える": "Always|+80 agility|"
+        "常時|すばやさが|８０増える": "Increases|Agility by 80."
     },
     "2560": {
         "clarity_nt_char_841": "clarity_nt_char_841"
