@@ -5634,7 +5634,7 @@
         "clarity_nt_char_633": "clarity_nt_char_633"
     },
     "1879": {
-        "<speed=0>|この見た目を　マイコーデに　登録します。|コーデ名称を　設定してください。": ""
+        "<speed=0>|この見た目を　マイコーデに　登録します。|コーデ名称を　設定してください。": "<speed=0>|Your new look has been registered.|Please give the glamour set a name."
     },
     "1880": {
         "<speed=0>|マイコーデ機能の説明です！|<br>|マイコーデとは　気に入った装備の組み合わせを|ひとつの衣装として　登録できる機能です。|<br>|マイコーデを着ると　今のつよさを変えずに|マイコーデに登録された　装備の見た目に|外見を　変えることができます。|<br>|マイコーデに使った装備品が　なくなっても|マイコーデに登録された　見た目は|そのまま　ご利用できますので　ご安心ください。|<br>|マイコーデには　「アタマ」「からだ上」|「からだ下」「ウデ」「足」「顔アクセ」の|装備品が　登録できます。|<br>|それでは　今後の|アストルティアでの　おしゃれ生活に|ぜひとも　マイコーデを　ご活用ください！": ""
@@ -9663,7 +9663,7 @@
         "clarity_nt_char_1088": "clarity_nt_char_1088"
     },
     "3222": {
-        "<speed=0>|新品の装備品が　含まれています。|一度　マイコーデに登録すると　他の人に|渡せなくなりますが　よろしいですか？|<yesno2><close>": ""
+        "<speed=0>|新品の装備品が　含まれています。|一度　マイコーデに登録すると　他の人に|渡せなくなりますが　よろしいですか？|<yesno2><close>": "<speed=0>|This glamour set includes new equipment.|If you register it, it will no longer be new and you|can't give it to other players. Is this okay?|<yesno2><close>"
     },
     "3223": {
         "<speed=0>|この装備品は　性別が合わないため|装備できません。": ""
