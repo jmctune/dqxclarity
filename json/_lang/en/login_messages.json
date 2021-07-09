@@ -318,13 +318,13 @@
         "あなたの持つ　家の名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　つけないでください！<color_white><end>": "The name of your house is no longer|available. Please choose a new name.<br>|*Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable!<color_white><end>"
     },
     "107": {
-        "新しい　家の名前は|『<%sNEWNAME>』で|よろしいですか？<yesno><break>": ""
+        "新しい　家の名前は|『<%sNEWNAME>』で|よろしいですか？<yesno><break>": "Give your house the new name of|\"<%sNEWNAME>\"?<yesno><break>"
     },
     "108": {
-        "その名前は使えません。|ちがう名前を　入れてください。<end>": ""
+        "その名前は使えません。|ちがう名前を　入れてください。<end>": "You cannot use that name. Please enter|a different name.<end>"
     },
     "109": {
-        "ご使用中の　キャラクターの名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　つけないでください！<color_white><end>": ""
+        "ご使用中の　キャラクターの名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　つけないでください！<color_white><end>": "The name of this character can no longer|be used. Please choose a new name. <br>|*Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable!<color_white><end>"
     },
     "110": {
         "あなたの持つ　チームの名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　つけないでください！<color_white><end>": ""
