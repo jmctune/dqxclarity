@@ -87,7 +87,7 @@
         "アイテムチケットを買い足す|冒険の書を　選んでください。<break>": ""
     },
     "30": {
-        "これ以上　冒険の書を作れません！|新しく作りたい場合は　先に|いずれかの　冒険の書を消してください。<end>": ""
+        "これ以上　冒険の書を作れません！|新しく作りたい場合は　先に|いずれかの　冒険の書を消してください。<end>": "You can't create any more Adventure Books!|Please delete one of your existing Adventure|Books first."
     },
     "31": {
         "何番の冒険の書に　キャラを作りますか？": ""
