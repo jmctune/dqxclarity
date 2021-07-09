@@ -8124,7 +8124,7 @@
         "行動時たまに|攻撃呪文の|威力がアップ": ""
     },
     "2709": {
-        "常時|状態異常成功率が|あがる": ""
+        "常時|状態異常成功率が|あがる": "Increases success|of status|effects."
     },
     "2710": {
         "小さな火の玉で|敵１体を攻撃": "Attack an enemy|with a small|fireball."
@@ -8211,7 +8211,7 @@
         "clarity_nt_char_899": "clarity_nt_char_899"
     },
     "2738": {
-        "常時|さいだいＭＰが|６０増える": "Increases|Max MP by 60."
+        "常時|さいだいＭＰが|６０増える": "Increases|Maximum MP|by 60."
     },
     "2739": {
         "clarity_nt_char_900": "clarity_nt_char_900"
@@ -8229,7 +8229,7 @@
         "はげしい咆哮で|周りの敵を攻撃し|はじきとばす": ""
     },
     "2744": {
-        "常時|ちからが|２０増える": "Always|+20 strength|"
+        "常時|ちからが|２０増える": "Increases|Strength by 20."
     },
     "2745": {
         "もえさかる|高熱の火炎で|周りの敵に攻撃": "Belches red-hot|flames at all|nearby enemies. "
@@ -8250,7 +8250,7 @@
         "炎属性系の特技の|威力があがる": ""
     },
     "2751": {
-        "常時|ちからが|５０増える": "Always|+50 strength|"
+        "常時|ちからが|５０増える": "Increases|Strength by 50."
     },
     "2752": {
         "オノ装備で|植物系攻撃時|威力があがる": ""
@@ -8406,7 +8406,7 @@
         "やみくもに突撃し|敵１体に攻撃する": "Blindly attack|an enemy."
     },
     "2803": {
-        "常時|みのまもりが|３０増える": "Resilience|increased by 30."
+        "常時|みのまもりが|３０増える": "Increases|Resilience by 30."
     },
     "2804": {
         "敵を倒すと|テンションアップ|するときがある": "Defeating enemy|has a chance to|increase tension."
@@ -8439,7 +8439,7 @@
         "clarity_nt_char_923": "clarity_nt_char_923"
     },
     "2814": {
-        "常時|きようさが|６０増える": ""
+        "常時|きようさが|６０増える": "Increases|Deftness by 60."
     },
     "2815": {
         "clarity_nt_char_924": "clarity_nt_char_924"
@@ -8448,7 +8448,7 @@
         "全力の一撃で|敵１体を叩き付け|大ダメージ": ""
     },
     "2817": {
-        "常時|きようさが|１００増える": ""
+        "常時|きようさが|１００増える": "Increases|Deftness by 100."
     },
     "2818": {
         "守りをかためて|痛恨のいちげきを|受けつけない": ""
@@ -8481,7 +8481,7 @@
         "clarity_nt_char_926": "clarity_nt_char_926"
     },
     "2828": {
-        "常時|きようさが|８０増える": ""
+        "常時|きようさが|８０増える": "Increases|Deftness by 80."
     },
     "2829": {
         "clarity_nt_char_927": "clarity_nt_char_927"
@@ -8493,7 +8493,7 @@
         "clarity_nt_char_928": "clarity_nt_char_928"
     },
     "2832": {
-        "常時|みのまもりが|４５増える": "Resilience|increased by 45."
+        "常時|みのまもりが|４５増える": "Increases|Resilience by 45."
     },
     "2833": {
         "敵１体を叩き付け|大ダメージを与え|ひるませる": ""
