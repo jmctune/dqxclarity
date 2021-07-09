@@ -273,7 +273,7 @@
         "<%d_YYYY>年<%2d_MM>月<%2d_DD>日まで（残り<%3d_DAY>日）": "Until <%2d_MM>/<%2d_DD>/<%d_YYYY> (<%3d_DAY> days left)"
     },
     "92": {
-        "（キッズタイム中）": ""
+        "（キッズタイム中）": "(Kids Time Active)"
     },
     "93": {
         "<%nGENKICHARGE>時間": "<%nGENKICHARGE>h"
@@ -282,7 +282,7 @@
         "バージョン <%s_MVER1>.<%s_MVER2>.<%s_MVER3>": "Version <%s_MVER1>.<%s_MVER2>.<%s_MVER3>"
     },
     "95": {
-        "無料": ""
+        "無料": "Free"
     },
     "96": {
         "利用券の有効期間": "Validity Period"
@@ -291,10 +291,10 @@
         "（ベータテスト中）": ""
     },
     "98": {
-        "ありません": ""
+        "ありません": "None"
     },
     "99": {
-        "自動継続の決済中です…": ""
+        "自動継続の決済中です…": "Automatic renewal in progress…"
     },
     "100": {
         "<%nVAL>": "<%dVAL>"
