@@ -837,7 +837,7 @@
         "clarity_nt_char_99": "clarity_nt_char_99"
     },
     "280": {
-        "常時かいしん率+10%": "Critical Rate +10%"
+        "常時かいしん率+10%": "Natural Crit. Rate +10%"
     },
     "281": {
         "スラ・フラッシュ": "Schlazzle"
@@ -846,13 +846,13 @@
         "clarity_nt_char_100": "clarity_nt_char_100"
     },
     "283": {
-        "常時さいだいＨＰ+30": "Natural HP+30"
+        "常時さいだいＨＰ+30": "Natural HP +30"
     },
     "284": {
         "ミラクルストライク": "Slop 'n Sap"
     },
     "285": {
-        "常時すばやさ+100": "Natural Speed+100"
+        "常時すばやさ+100": "Natural Agility +100"
     },
     "286": {
         "clarity_nt_char_101": "clarity_nt_char_101"
@@ -876,7 +876,7 @@
         "clarity_nt_char_102": "clarity_nt_char_102"
     },
     "293": {
-        "常時すばやさ+40": "Natural Speed+40"
+        "常時すばやさ+40": "Natural Agility +40"
     },
     "294": {
         "ザオ": "Zin"
@@ -885,7 +885,7 @@
         "clarity_nt_char_103": "clarity_nt_char_103"
     },
     "296": {
-        "常時さいだいＭＰ+50": "Natural Maximum MP+50"
+        "常時さいだいＭＰ+50": "Natural MP +50"
     },
     "297": {
         "ベホイミ": "Midheal"
@@ -894,7 +894,7 @@
         "clarity_nt_char_104": "clarity_nt_char_104"
     },
     "299": {
-        "常時かいふく魔力+100": "Natural Magical Mending+100"
+        "常時かいふく魔力+100": "Natural Magical Mending +100"
     },
     "300": {
         "clarity_nt_char_105": "clarity_nt_char_105"
@@ -912,7 +912,7 @@
         "行動時10%バイシオン": ""
     },
     "305": {
-        "常時すばやさ+80": "Natural Speed+80"
+        "常時すばやさ+80": "Natural Agility +80"
     },
     "306": {
         "スライム系威力+5%": ""
