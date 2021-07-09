@@ -7086,10 +7086,10 @@
         "ついてクンの|各種設定をします": "Configure settings|for your pets.|"
     },
     "2363": {
-        "まわりの冒険者が|目を開けっぱなし|になります": ""
+        "まわりの冒険者が|目を開けっぱなし|になります": "Nearby players|will keep|their eyes open."
     },
     "2364": {
-        "まわりの冒険者が|目を閉じっぱなし|になります": ""
+        "まわりの冒険者が|目を閉じっぱなし|になります": "Nearby players|will keep their|eyes closed."
     },
     "2365": {
         "撮影開始<%nM_Count>秒前！": ""
@@ -9558,7 +9558,7 @@
         "clarity_nt_char_1076": "clarity_nt_char_1076"
     },
     "3187": {
-        "自分のまわりの|他の冒険者を|非表示にします": ""
+        "自分のまわりの|他の冒険者を|非表示にします": "Hide other|nearby players."
     },
     "3188": {
         "clarity_nt_char_1077": "clarity_nt_char_1077"
@@ -9714,7 +9714,7 @@
         "clarity_nt_char_1094": "clarity_nt_char_1094"
     },
     "3239": {
-        "自分のまわりの|他の冒険者を|表示します": ""
+        "自分のまわりの|他の冒険者を|表示します": "Show other|nearby players."
     },
     "3240": {
         "clarity_nt_char_1095": "clarity_nt_char_1095"
