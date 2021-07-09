@@ -237,7 +237,7 @@
         "これ以上　冒険の書を作れません！|新しく作りたい場合は　先に|いずれかの　冒険の書を消してください。<end>": "You can't create any more Adventure Books!|Please delete one of your existing Adventure|Books first."
     },
     "80": {
-        "新しい冒険の書を作るには　オフラインモードから|スタートする必要があります。<br>|<color_yellow>※オフラインモードの　「はじまりの冒険」は|　登録したプレイヤーで　一度　クリアしていれば|　スキップできます。<color_white><br>|オフラインモードを　スタートするために|今すぐ　ログアウトしますか？<yesno><break>": ""
+        "新しい冒険の書を作るには　オフラインモードから|スタートする必要があります。<br>|<color_yellow>※オフラインモードの　「はじまりの冒険」は|　登録したプレイヤーで　一度　クリアしていれば|　スキップできます。<color_white><br>|オフラインモードを　スタートするために|今すぐ　ログアウトしますか？<yesno><break>": "To create a new Adventure Book, you must|first start from the offline mode.<br>|<color_yellow>*The offline mode Prologue can be skipped|after being cleared one time.<color_white><br>|Log out and start offline mode?<yesno><break>"
     },
     "81": {
         "何番の冒険の書に　キャラを作りますか？": ""
@@ -252,13 +252,13 @@
         "<%nCOURSE>キャラコース": "<%dCOURSE> Character Course"
     },
     "85": {
-        "コース変更チケット": ""
+        "コース変更チケット": "Course Change Ticket"
     },
     "86": {
         " ※クレジットカード自動更新（<%dDAY>日間利用券）": "※Automatic CC Renewal (<%dDAY> days)"
     },
     "87": {
-        "（決済中でも プレイできます）": ""
+        "（決済中でも プレイできます）": "(Playable During Payment)"
     },
     "88": {
         "Crysta": ""
