@@ -1476,10 +1476,10 @@
         "clarity_nt_char_164": "clarity_nt_char_164"
     },
     "493": {
-        "風属性特技威力+20%": "Wind Skill Damage +20%"
+        "風属性特技威力+20%": "Wind Skill Power +20%"
     },
     "494": {
-        "雷属性特技威力+20%": ""
+        "雷属性特技威力+20%": "Lightning Skill Power+20%"
     },
     "495": {
         "バイシオン": "Oomph"
@@ -1515,7 +1515,7 @@
         "clarity_nt_char_166": "clarity_nt_char_166"
     },
     "506": {
-        "はやぶさ斬り+30％": "Falcon Slash+30％"
+        "はやぶさ斬り+30％": "Falcon Slash +30％"
     },
     "507": {
         "clarity_nt_char_167": "clarity_nt_char_167"
@@ -1563,13 +1563,13 @@
         "clarity_nt_char_172": "clarity_nt_char_172"
     },
     "522": {
-        "ブレス系効果+50%": "Breath Effects+50%"
+        "ブレス系効果+50%": "Breath Effect +50%"
     },
     "523": {
         "clarity_nt_char_173": "clarity_nt_char_173"
     },
     "524": {
-        "植物系威力+5%": ""
+        "植物系威力+5%": "Plant Power +5%"
     },
     "525": {
         "clarity_nt_char_174": "clarity_nt_char_174"
