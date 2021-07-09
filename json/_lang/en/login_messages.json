@@ -177,13 +177,13 @@
         "『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。|この名前で始めて　よろしいですか？<yesno><break>": "There seems to be <%nNUM> other players|using the name \"<%sPCNAME>\". Are you|sure you want to start with this name?<yesno><break>"
     },
     "60": {
-        "『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。|この名前で始めて　よろしいですか？<yesno><break>": ""
+        "『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。|この名前で始めて　よろしいですか？<yesno><break>": "There seems to be no other players with the|name \"<%sPCNAME>\". Proceed with this name?<yesno><break>"
     },
     "61": {
         "『<%sPCNAME>』のキャラデータを|オンラインの世界に　反映させました！|これで　ＳＴＥＰ４は　完了です！<me_58><end>": ""
     },
     "62": {
-        "新しい名前を入れてください。<break>": ""
+        "新しい名前を入れてください。<break>": "Please enter a new name.<break>"
     },
     "63": {
         "オンラインの世界で使う　キャラの名前は|『<%sPCNAME>』で　よろしいですか？<yesno><break>": ""
