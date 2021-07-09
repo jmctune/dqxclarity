@@ -9657,7 +9657,7 @@
         "clarity_nt_char_1087": "clarity_nt_char_1087"
     },
     "3220": {
-        "<speed=0>|この見た目を　マイコーデに　登録しますか？|<yesno><close>": ""
+        "<speed=0>|この見た目を　マイコーデに　登録しますか？|<yesno><close>": "<speed=0>|Add this look to your glamours?|<yesno><close>"
     },
     "3221": {
         "clarity_nt_char_1088": "clarity_nt_char_1088"
@@ -9726,7 +9726,7 @@
         "clarity_nt_char_1096": "clarity_nt_char_1096"
     },
     "3243": {
-        "<speed=0>|元々登録していた装備に　変更があります。|編集した内容で　上書き登録されますが|本当に　よろしいですか？|<yesno2><close>": ""
+        "<speed=0>|元々登録していた装備に　変更があります。|編集した内容で　上書き登録されますが|本当に　よろしいですか？|<yesno2><close>": "<speed=0>|You've made changes to this glamour|set. Do you want to overwrite the|previous set?|<yesno2><close>"
     },
     "3244": {
         "clarity_nt_char_1097": "clarity_nt_char_1097"
