@@ -8550,7 +8550,7 @@
         "clarity_nt_char_934": "clarity_nt_char_934"
     },
     "2851": {
-        "常時|さいだいＭＰが|２０増える": "Increases|Max MP by 20."
+        "常時|さいだいＭＰが|２０増える": "Increases|Maximum MP|by 20."
     },
     "2852": {
         "clarity_nt_char_935": "clarity_nt_char_935"
@@ -8601,7 +8601,7 @@
         "自家発電で|自分のＭＰが|少しずつ回復する": ""
     },
     "2868": {
-        "常時|みのまもりが|８０増える": "Resilience|increased by 80."
+        "常時|みのまもりが|８０増える": "Increases|Resilience by 80."
     },
     "2869": {
         "おいかぜの|効果時間が|１０秒増える": "Blowback's|time increased|by 10 seconds."
@@ -8823,10 +8823,10 @@
         "真のチカラを|引き出して|最大ＨＰが増える": "Draw out the true|power of Golems|increase Max HP."
     },
     "2942": {
-        "常時|おもさが|１０増える": ""
+        "常時|おもさが|１０増える": "Increases|Weight by 10."
     },
     "2943": {
-        "常時|さいだいＨＰが|１００増える": "Maximum HP|increased by 100."
+        "常時|さいだいＨＰが|１００増える": "Increases|Maximum HP|by 100."
     },
     "2944": {
         "両手剣装備で|ドラゴン系攻撃時|威力があがる": ""
@@ -9285,7 +9285,7 @@
         "周囲のＨＰを|２００～回復する": ""
     },
     "3096": {
-        "常時|さいだいＨＰが|１０増える": "Maximum HP|increased by 10."
+        "常時|さいだいＨＰが|１０増える": "Increases|Maximum HP|by 10."
     },
     "3097": {
         "clarity_nt_char_1022": "clarity_nt_char_1022"
@@ -9297,7 +9297,7 @@
         "clarity_nt_char_1023": "clarity_nt_char_1023"
     },
     "3100": {
-        "常時|さいだいＭＰが|１５増える": "Increases|Max MP by 15."
+        "常時|さいだいＭＰが|１５増える": "Increases|Maximum MP|by 15."
     },
     "3101": {
         "clarity_nt_char_1024": "clarity_nt_char_1024"
@@ -9321,7 +9321,7 @@
         "clarity_nt_char_1026": "clarity_nt_char_1026"
     },
     "3108": {
-        "常時|みのまもりが|１５増える": "Resilience|increased by 15."
+        "常時|みのまもりが|１５増える": "Increases|Resilience by 15."
     },
     "3109": {
         "戦闘開始時|たまにスカラ|が発動する": ""
@@ -9330,7 +9330,7 @@
         "clarity_nt_char_1027": "clarity_nt_char_1027"
     },
     "3111": {
-        "常時|すばやさが|２０増える": "Always|+20 agility|"
+        "常時|すばやさが|２０増える": "Increases|Agility by 20."
     },
     "3112": {
         "clarity_nt_char_1028": "clarity_nt_char_1028"
@@ -9345,7 +9345,7 @@
         "たまに|２回連続で|行動をする": ""
     },
     "3116": {
-        "常時|かいふく魔力が|２０増える": "Always|+20 Magical|Mending."
+        "常時|かいふく魔力が|２０増える": "Increases|Magical Mending|by 20."
     },
     "3117": {
         "clarity_nt_char_1030": "clarity_nt_char_1030"
