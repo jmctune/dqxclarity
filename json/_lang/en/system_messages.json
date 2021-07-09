@@ -639,7 +639,7 @@
         "利用券購入の　準備をしています……。<break>": ""
     },
     "214": {
-        "フィールドで中断していましたが|<%sSERVER>には　入れませんでした。|別のサーバーに移動します。<end>": ""
+        "フィールドで中断していましたが|<%sSERVER>には　入れませんでした。|別のサーバーに移動します。<end>": "You were interrupted in the field and|couldn't move to <%sSERVER>.|Please choose another server.<end>"
     },
     "215": {
         "住宅村で中断していましたが|住宅村専用サーバーには　入れませんでした。|住宅村入口のある町に　移動します。<end>": ""
