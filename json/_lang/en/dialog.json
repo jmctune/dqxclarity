@@ -5664,7 +5664,7 @@
         "<speed=0>|レンタル衣装を着ていると　登録ができません！|一度　レンタル衣装を脱いでから|登録を選択してください。": ""
     },
     "1889": {
-        "<speed=0>|「<%sM_myset>」を　上書きして|「<%sM_myset2>」というコーデ名で|登録しますか？|<yesno><close>": ""
+        "<speed=0>|「<%sM_myset>」を　上書きして|「<%sM_myset2>」というコーデ名で|登録しますか？|<yesno><close>": "<speed=0>|Would you like to overwrite the set \"<%sM_myset>\"|and register it as \"<%sM_myset2>\"?|<yesno><close>"
     },
     "1890": {
         "clarity_nt_char_635": "clarity_nt_char_635"
