@@ -1269,7 +1269,7 @@
         "スラ・ブレイク": "Slouble Trouble"
     },
     "424": {
-        "常時ちから+30": "Strength+30"
+        "常時ちから+30": "Strength +30"
     },
     "425": {
         "clarity_nt_char_144": "clarity_nt_char_144"
@@ -1278,7 +1278,7 @@
         "スラ・ブレイク+100": "Slouble Trouble+100"
     },
     "427": {
-        "常時かいふく魔力+40": "Natural Magical Mending+40"
+        "常時かいふく魔力+40": "Natural Magical Mending +40"
     },
     "428": {
         "イオラ": "Boom"
@@ -1308,7 +1308,7 @@
         "超はやぶさ斬り": "Gyrfalcon Slash"
     },
     "437": {
-        "常時ちから+15": "Strength+15"
+        "常時ちから+15": "Strength +15"
     },
     "438": {
         "clarity_nt_char_146": "clarity_nt_char_146"
@@ -1317,10 +1317,10 @@
         "スラ・シャイニング": ""
     },
     "440": {
-        "常時さいだいＨＰ+40": "Natural HP+40"
+        "常時さいだいＨＰ+40": "Natural HP +40"
     },
     "441": {
-        "常時みのまもり+60": "Natural Resilience+60"
+        "常時みのまもり+60": "Natural Resilience +60"
     },
     "442": {
         "clarity_nt_char_147": "clarity_nt_char_147"
@@ -1344,7 +1344,7 @@
         "clarity_nt_char_149": "clarity_nt_char_149"
     },
     "449": {
-        "常時さいだいＭＰ+80": "Natural Maximum MP+80"
+        "常時さいだいＭＰ+80": "Maximum MP +80"
     },
     "450": {
         "フェザーストーム": ""
@@ -1431,7 +1431,7 @@
         "clarity_nt_char_158": "clarity_nt_char_158"
     },
     "478": {
-        "常時こうげき魔力+30": ""
+        "常時こうげき魔力+30": "Magical Might +30"
     },
     "479": {
         "早詠みの杖": "Fast Cast Speed"
@@ -1443,7 +1443,7 @@
         "clarity_nt_char_159": "clarity_nt_char_159"
     },
     "482": {
-        "常時こうげき魔力+20": ""
+        "常時こうげき魔力+20": "Magical Might +20"
     },
     "483": {
         "ＭＰ消費しない率+10%": ""
@@ -1494,7 +1494,7 @@
         "竜のウロコ": ""
     },
     "499": {
-        "常時さいだいＭＰ+60": "Natural Maximum MP+60"
+        "常時さいだいＭＰ+60": "Maximum MP +60"
     },
     "500": {
         "裂空斬": ""
@@ -1530,7 +1530,7 @@
         "clarity_nt_char_168": "clarity_nt_char_168"
     },
     "511": {
-        "常時ちから+20": "Nat Strength+20"
+        "常時ちから+20": "Strength +20"
     },
     "512": {
         "clarity_nt_char_169": "clarity_nt_char_169"
@@ -1557,7 +1557,7 @@
         "炎属性特技威力+20%": ""
     },
     "520": {
-        "常時ちから+50": "Nat Strength+50"
+        "常時ちから+50": "Strength +50"
     },
     "521": {
         "clarity_nt_char_172": "clarity_nt_char_172"
@@ -1707,7 +1707,7 @@
         "clarity_nt_char_187": "clarity_nt_char_187"
     },
     "570": {
-        "常時みのまもり+30": "Natural Resilience+30"
+        "常時みのまもり+30": "Resilience +30"
     },
     "571": {
         "clarity_nt_char_188": "clarity_nt_char_188"
@@ -1719,7 +1719,7 @@
         "clarity_nt_char_189": "clarity_nt_char_189"
     },
     "574": {
-        "常時かいしん率+3%": "Crit. Rate+3%"
+        "常時かいしん率+3%": "Critical Rate +3%"
     },
     "575": {
         "clarity_nt_char_190": "clarity_nt_char_190"
@@ -1752,13 +1752,13 @@
         "回転たたき": ""
     },
     "585": {
-        "常時きようさ+60": ""
+        "常時きようさ+60": "Deftness +60"
     },
     "586": {
         "パワースタンプ": ""
     },
     "587": {
-        "常時きようさ+100": ""
+        "常時きようさ+100": "Deftness +100"
     },
     "588": {
         "clarity_nt_char_195": "clarity_nt_char_195"
@@ -1800,13 +1800,13 @@
         "プレートインパクト": "Plate Impact"
     },
     "601": {
-        "常時きようさ+80": ""
+        "常時きようさ+80": "Deftness +80"
     },
     "602": {
         "ウルトラパワー": ""
     },
     "603": {
-        "常時みのまもり+45": "Natural Resilience+45"
+        "常時みのまもり+45": "Resilience +45"
     },
     "604": {
         "clarity_nt_char_199": "clarity_nt_char_199"
@@ -1896,7 +1896,7 @@
         "clarity_nt_char_209": "clarity_nt_char_209"
     },
     "633": {
-        "常時さいだいＭＰ+20": "Natural Maximum MP+20"
+        "常時さいだいＭＰ+20": "Maximum MP +20"
     },
     "634": {
         "零の洗礼": "Null Baptism"
@@ -1962,7 +1962,7 @@
         "魔道砲+200": ""
     },
     "655": {
-        "常時みのまもり+80": "Natural Resilience+80"
+        "常時みのまもり+80": "Resilience +80"
     },
     "656": {
         "clarity_nt_char_217": "clarity_nt_char_217"
@@ -2217,7 +2217,7 @@
         "メルキドの秘法": "Cantlin's Secret"
     },
     "740": {
-        "常時おもさ+10": ""
+        "常時おもさ+10": "Weight +10"
     },
     "741": {
         "clarity_nt_char_246": "clarity_nt_char_246"
@@ -2229,7 +2229,7 @@
         "clarity_nt_char_247": "clarity_nt_char_247"
     },
     "744": {
-        "常時さいだいＨＰ+100": "Natural HP+100"
+        "常時さいだいＨＰ+100": "Maximum HP +100"
     },
     "745": {
         "clarity_nt_char_248": "clarity_nt_char_248"
