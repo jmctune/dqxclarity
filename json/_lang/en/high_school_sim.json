@@ -909,13 +909,13 @@
         "スライムハート": ""
     },
     "304": {
-        "行動時10%バイシオン": ""
+        "行動時10%バイシオン": "Oomph On Action 10%"
     },
     "305": {
         "常時すばやさ+80": "Agility +80"
     },
     "306": {
-        "スライム系威力+5%": ""
+        "スライム系威力+5%": "Slime-type Power +5%"
     },
     "307": {
         "clarity_nt_char_106": "clarity_nt_char_106"
@@ -948,7 +948,7 @@
         "clarity_nt_char_109": "clarity_nt_char_109"
     },
     "317": {
-        "致死時たまに生き残る": ""
+        "致死時たまに生き残る": "Rarely Survive Fatal Damage"
     },
     "318": {
         "clarity_nt_char_110": "clarity_nt_char_110"
@@ -957,7 +957,7 @@
         "常時さいだいＭＰ+45": "Maximum MP +45"
     },
     "320": {
-        "ホイミ系効果+50%": ""
+        "ホイミ系効果+50%": "Heal-type Effect +50%"
     },
     "321": {
         "clarity_nt_char_111": "clarity_nt_char_111"
@@ -1032,7 +1032,7 @@
         "ホラーフェイス": "Scare Stare"
     },
     "345": {
-        "呪文と特技の攻撃強化": ""
+        "呪文と特技の攻撃強化": "Spell/Skill Attack Boost"
     },
     "346": {
         "clarity_nt_char_120": "clarity_nt_char_120"
@@ -1041,7 +1041,7 @@
         "ふわふわボディ": ""
     },
     "348": {
-        "ホラーフェイス+200": "Scare Stare+100"
+        "ホラーフェイス+200": "Scare Stare +100"
     },
     "349": {
         "悪魔系威力+5%": ""
