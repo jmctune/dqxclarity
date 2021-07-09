@@ -342,7 +342,7 @@
         "システムファイルが　壊れてしまいました。|<color_yellow>（オンラインのキャラデータは失われません）<color_white><br>|オフラインモードのプレイ内容は　消去されます。|起動ランチャーで　プレイヤーを登録しなおして|ください。<end>": "The system file has been corrupted.|<color_yellow>(Online character data is not affected.)<color_white><br>|Offline mode play data has been deleted.|Please re-register the player in the launcher.<end>"
     },
     "115": {
-        "お気の毒ですが|セーブファイルが壊れてしまいました。<br>|キャラクターのデータは|サーバー上に保存されていますので|消えることは　ありません。<br>|ボタンを押すと　壊れたファイルを|作り直して　ゲームをリセットします。<end>": ""
+        "お気の毒ですが|セーブファイルが壊れてしまいました。<br>|キャラクターのデータは|サーバー上に保存されていますので|消えることは　ありません。<br>|ボタンを押すと　壊れたファイルを|作り直して　ゲームをリセットします。<end>": "The save file has been corrupted.<br>|Character data is stored on the server, so|nothing will be deleted.<br>|Press any button to recreate the corrupted|data and reset the game."
     },
     "116": {
         "本体に　セーブファイルを作成します……。|ソフトを終了しないでください。<break>": ""
@@ -363,7 +363,7 @@
         "冒険の書に記録しています……。|ソフトを終了しないでください。<break>": ""
     },
     "122": {
-        "冒険の書に記録しました！<end>": ""
+        "冒険の書に記録しました！<end>": "Recorded in the Adventure Book!<end>"
     },
     "123": {
         "システムデータを保存しています……。|ソフトを終了しないでください。<break>": ""
