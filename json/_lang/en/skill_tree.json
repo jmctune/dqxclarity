@@ -6111,7 +6111,7 @@
         "バイキルショットⅡ": "Oomphlash II"
     },
     "2038": {
-        "バイキルショットⅢ": "Bikill Shot Ⅲ"
+        "バイキルショットⅢ": "Oomphlash Ⅲ"
     },
     "2039": {
         "【160P】状態異常成功率+25%": "[160P] Status Effect Success +25%"
@@ -6222,13 +6222,13 @@
         "【180P】極竜打ち+8%": "[180P] Wyrm Whip +8%"
     },
     "2075": {
-        "【160P】バイキルショット+3%": "[160P] Bikill Shot +3%"
+        "【160P】バイキルショット+3%": "[160P] Oomphlash +3%"
     },
     "2076": {
-        "【170P】バイキルショット+5%": "[170P] Bikill Shot +5%"
+        "【170P】バイキルショット+5%": "[170P] Oomphlash +5%"
     },
     "2077": {
-        "【180P】バイキルショット+8%": "[180P] Bikill Shot +8%"
+        "【180P】バイキルショット+8%": "[180P] Oomphlash +8%"
     },
     "2078": {
         "悶絶全方打ちⅠ": "All Out Aggression I"
@@ -6330,10 +6330,10 @@
         "【200P】極竜打ち+8%": "[200P] Wyrm Whip +8%"
     },
     "2111": {
-        "【190P】バイキルショット+8%": "[190P] Bikill Shot +8%"
+        "【190P】バイキルショット+8%": "[190P] Oomphlash +8%"
     },
     "2112": {
-        "【200P】バイキルショット+8%": "[200P] Bikill Shot +8%"
+        "【200P】バイキルショット+8%": "[200P] Oomphlash +8%"
     },
     "2113": {
         "オネロスハントⅠ": "Oneros Hunt I"
@@ -9912,13 +9912,13 @@
         "極竜打ち+8%": "Wyrm Whip +8%"
     },
     "3305": {
-        "バイキルショット+3%": "Bikill Shot +3%"
+        "バイキルショット+3%": "Oomphlash +3%"
     },
     "3306": {
-        "バイキルショット+5%": "Bikill Shot +5%"
+        "バイキルショット+5%": "Oomphlash +5%"
     },
     "3307": {
-        "バイキルショット+8%": "Bikill Shot +8%"
+        "バイキルショット+8%": "Oomphlash +8%"
     },
     "3308": {
         "悶絶全方打ち+2%": "All Out Aggression+2%"
@@ -12081,13 +12081,13 @@
         "clarity_nt_char_1368": "clarity_nt_char_1368"
     },
     "4028": {
-        "バイキルショットⅠの特技を　おぼえた！": "You learned Bikill Shot I!"
+        "バイキルショットⅠの特技を　おぼえた！": "You learned Oomphlash I!"
     },
     "4029": {
-        "バイキルショットⅡの特技を　おぼえた！": "You learned Bikill Shot II!"
+        "バイキルショットⅡの特技を　おぼえた！": "You learned Oomphlash II!"
     },
     "4030": {
-        "バイキルショットⅢの特技を　おぼえた！": "You learned Bikill Shot Ⅲ!"
+        "バイキルショットⅢの特技を　おぼえた！": "You learned Oomphlash Ⅲ!"
     },
     "4031": {
         "ムチ装備時の　こうげき力が　８　増えた！": "Attack increased by 8 when|equipped with a Whip!"
@@ -12147,7 +12147,7 @@
         "clarity_nt_char_1376": "clarity_nt_char_1376"
     },
     "4050": {
-        "バイキルショットの威力が　あがった！": "Bikill Shot's power increased!"
+        "バイキルショットの威力が　あがった！": "Oomphlash's power increased!"
     },
     "4051": {
         "clarity_nt_char_1377": "clarity_nt_char_1377"
@@ -18696,7 +18696,7 @@
         "豪雪氷結乱撃の強化": "Heavy Ice Storm Boost"
     },
     "6233": {
-        "バイキルショット": "Bikill Shot"
+        "バイキルショット": "Oomphlash"
     },
     "6234": {
         "clarity_nt_char_2136": "clarity_nt_char_2136"
@@ -18735,7 +18735,7 @@
         "極竜打ちの強化": "Wyrm Whip Boost"
     },
     "6246": {
-        "バイキルショットの強化": "Bikill Shot Boost"
+        "バイキルショットの強化": "Oomphlash Boost"
     },
     "6247": {
         "悶絶全方打ち": "All Out Aggression"
