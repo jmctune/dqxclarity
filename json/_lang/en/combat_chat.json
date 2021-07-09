@@ -26814,7 +26814,7 @@
         "clarity_nt_char_2976": "clarity_nt_char_2976"
     },
     "8939": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 会心完全ガード！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 会心完全ガード！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Complete Guard!"
     },
     "8940": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは パラディンガードに 守られた！": ""
@@ -31134,7 +31134,7 @@
         "clarity_nt_char_3454": "clarity_nt_char_3454"
     },
     "10379": {
-        "会心完全ガード！": ""
+        "会心完全ガード！": "Complete Guard!"
     },
     "10380": {
         "clarity_nt_char_3455": "clarity_nt_char_3455"
