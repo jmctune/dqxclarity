@@ -9540,7 +9540,7 @@
         "どのイベント会場に　行きますか？<break>": ""
     },
     "3181": {
-        "自分の住所を|非表示にします": ""
+        "自分の住所を|非表示にします": "Hides your|house|address."
     },
     "3182": {
         "clarity_nt_char_1074": "clarity_nt_char_1074"
@@ -9651,7 +9651,7 @@
         "clarity_nt_char_1086": "clarity_nt_char_1086"
     },
     "3218": {
-        "自分の住所を|表示します": ""
+        "自分の住所を|表示します": "Shows your|house|address."
     },
     "3219": {
         "clarity_nt_char_1087": "clarity_nt_char_1087"
@@ -9720,7 +9720,7 @@
         "clarity_nt_char_1095": "clarity_nt_char_1095"
     },
     "3241": {
-        "他の冒険者を|非表示にする|範囲を設定します": ""
+        "他の冒険者を|非表示にする|範囲を設定します": "Set the range|to hide other|players."
     },
     "3242": {
         "clarity_nt_char_1096": "clarity_nt_char_1096"
