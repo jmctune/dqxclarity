@@ -408,7 +408,7 @@
         "サーバー情報を　確認しています……。<break>": "Checking server information...<break>"
     },
     "137": {
-        "レジストレーションコードの登録をしないと|冒険の続きを　遊ぶことができません。|登録をやめて　起動ランチャーに戻りますか？<yesno><break>": ""
+        "レジストレーションコードの登録をしないと|冒険の続きを　遊ぶことができません。|登録をやめて　起動ランチャーに戻りますか？<yesno><break>": "If you don't register your registration code,|you will not be able to continue your adventure.|Cancel registration and exit to the launcher?<yesno><break>"
     },
     "138": {
         "お使いのアカウントには　リリース<%nNO>の|レジストレーションコードが　ありません！|リリース<%nNO>の機能は　使えません。<bw_break>": ""
