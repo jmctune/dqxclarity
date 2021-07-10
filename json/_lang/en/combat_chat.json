@@ -26868,7 +26868,7 @@
         "聖女の守りで \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死なずに ふみとどまった！": ""
     },
     "8957": {
-        "ロザリオが光り \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死なずに ふみとどまった！": ""
+        "ロザリオが光り \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死なずに ふみとどまった！": "The Rosary's light prevented \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e from dying!"
     },
     "8958": {
         "clarity_nt_char_2981": "clarity_nt_char_2981"
@@ -31161,7 +31161,7 @@
         "聖女の守りが|死のふちから守った！": ""
     },
     "10388": {
-        "ロザリオが光り|死のふちから守った！": ""
+        "ロザリオが光り|死のふちから守った！": "Rosary's glow|prevented death!"
     },
     "10389": {
         "clarity_nt_char_3458": "clarity_nt_char_3458"
