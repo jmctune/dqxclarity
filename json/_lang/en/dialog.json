@@ -8829,7 +8829,7 @@
         "clarity_nt_char_992": "clarity_nt_char_992"
     },
     "2944": {
-        "<speed=0><speed=0>万魔の塔は　全滅しなければ|戦闘は終了できません。|サポート仲間の　HPを0にしますか？|<yesno 2><close>": ""
+        "<speed=0><speed=0>万魔の塔は　全滅しなければ|戦闘は終了できません。|サポート仲間の　HPを0にしますか？|<yesno 2><close>": "<speed=0><speed=0>The battle will not end unless the Manma|Tower is completely destroyed. Reduce|your support party's HP to 0?|<yesno 2><close>"
     },
     "2945": {
         "あきらめて|始覚の間に|もどります": ""
