@@ -972,13 +972,13 @@
         "ふたつの言葉から|自由にかたがきを|自作します": "Create your own|title from two|words."
     },
     "325": {
-        "<speed=0><%sM_pc>への　仲間のさそいを　取り消した！": ""
+        "<speed=0><%sM_pc>への　仲間のさそいを　取り消した！": "<speed=0>Party invite to <%sM_pc> was cancelled!"
     },
     "326": {
         "clarity_nt_char_113": "clarity_nt_char_113"
     },
     "327": {
-        "<speed=0><%sM_pc>への　仲間のさそいを|取り消して　いいですか？<yesno><close>": ""
+        "<speed=0><%sM_pc>への　仲間のさそいを|取り消して　いいですか？<yesno><close>": "<speed=0>Cancel party invitation to <%sM_pc>?<yesno><close>"
     },
     "328": {
         "clarity_nt_char_114": "clarity_nt_char_114"
