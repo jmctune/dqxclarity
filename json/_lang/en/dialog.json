@@ -1806,7 +1806,7 @@
         "<speed=0>コマンドの配置を　初期状態に　戻しますか？|<yesno 2><close>": "<speed=0>Set command order back to the default?|<yesno 2><close>"
     },
     "603": {
-        "<%sM_pc>は　<%sM_item>を使った。": ""
+        "<%sM_pc>は　<%sM_item>を使った。": "<%sM_pc> used the <%sM_item>."
     },
     "604": {
         "<speed=0>いまは　<%sM_pc>を|くわしくみれませんでした。": ""
