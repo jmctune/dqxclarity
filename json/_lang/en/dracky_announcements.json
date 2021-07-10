@@ -765,10 +765,10 @@
         "clarity_nt_char_84": "clarity_nt_char_84"
     },
     "256": {
-        "あと<%dC_N1>時間で 期限が切れる 運命のカードがあります！": ""
+        "あと<%dC_N1>時間で 期限が切れる 運命のカードがあります！": "<%dC_N1> hours until one of your boss cards expire!"
     },
     "257": {
-        "あと<%dC_N1>分で 期限が切れる 運命のカードがあります！": ""
+        "あと<%dC_N1>分で 期限が切れる 運命のカードがあります！": "<%dC_N1> mins. until one of your boss cards expire!"
     },
     "258": {
         "clarity_nt_char_85": "clarity_nt_char_85"
