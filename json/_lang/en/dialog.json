@@ -9186,7 +9186,7 @@
         "clarity_nt_char_1032": "clarity_nt_char_1032"
     },
     "3063": {
-        "<speed=0>|現在　あなたの万魔の塔の情報は|ランキングで　<%sM_CURRENT_STATE>の状態になっています。|<%sM_INVERSE_STATE>の状態に　設定を変更しますか？|<yesno2><close>": ""
+        "<speed=0>|現在　あなたの万魔の塔の情報は|ランキングで　<%sM_CURRENT_STATE>の状態になっています。|<%sM_INVERSE_STATE>の状態に　設定を変更しますか？|<yesno2><close>": "<speed=0>|Your Manma Tower ranking info is currently|set to <%sM_CURRENT_STATE>. Do you want to|set it to <%sM_INVERSE_STATE> instead?|<yesno2><close>"
     },
     "3064": {
         "clarity_nt_char_1033": "clarity_nt_char_1033"
