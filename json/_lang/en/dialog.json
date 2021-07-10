@@ -8841,10 +8841,10 @@
         "clarity_nt_char_993": "clarity_nt_char_993"
     },
     "2948": {
-        "<speed=0>このマッチングに参加するには万魔の塔にいる|ギラムに話しかける必要が　あります。": ""
+        "<speed=0>このマッチングに参加するには万魔の塔にいる|ギラムに話しかける必要が　あります。": "<speed=0>To use the matching function, first talk to|Gilam in the Manma Tower."
     },
     "2949": {
-        "<speed=0>このマッチングの誘いを受けるには|万魔の塔に　行く必要があります。": ""
+        "<speed=0>このマッチングの誘いを受けるには|万魔の塔に　行く必要があります。": "<speed=0>To accept this invitation, you must first be|inside the Manma Tower."
     },
     "2950": {
         "clarity_nt_char_994": "clarity_nt_char_994"
