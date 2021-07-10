@@ -1335,7 +1335,7 @@
         "clarity_nt_char_142": "clarity_nt_char_142"
     },
     "446": {
-        "おさかなコイン <%dM_POINT>枚と|<%sM_item> <%dM_GET_NUM>個を 交換した！": ""
+        "おさかなコイン <%dM_POINT>枚と|<%sM_item> <%dM_GET_NUM>個を 交換した！": "Exchanged <%dM_POINT> Fish Coins for <%dM_GET_NUM> <%sM_item>!"
     },
     "447": {
         "clarity_nt_char_143": "clarity_nt_char_143"
