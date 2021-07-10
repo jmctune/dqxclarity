@@ -1317,13 +1317,13 @@
         "おさかなコイン <%dM_POINT>枚と|<%sM_item>を 交換した！": "Exchanged <%dM_POINT> Fish Coins for <%sM_item>!"
     },
     "440": {
-        "<%.1fM_CM>ｃｍの <%sM_item>（<%sM_SIZE>）と|おさかなコイン <%dL_COIN>枚を 交換した！": ""
+        "<%.1fM_CM>ｃｍの <%sM_item>（<%sM_SIZE>）と|おさかなコイン <%dL_COIN>枚を 交換した！": "Exchanged <%.1fM_CM> cm <%sM_item> (<%sM_SIZE>) for <%dL_COIN> Fish Coins!"
     },
     "441": {
         "clarity_nt_char_140": "clarity_nt_char_140"
     },
     "442": {
-        "<%.1fM_CM>ｃｍの <%sM_item>と|おさかなコイン <%dL_COIN>枚を 交換した！": ""
+        "<%.1fM_CM>ｃｍの <%sM_item>と|おさかなコイン <%dL_COIN>枚を 交換した！": "Exchanged <%.1fM_CM> cm <%sM_item> for <%dL_COIN> Fish Coins!"
     },
     "443": {
         "clarity_nt_char_141": "clarity_nt_char_141"
