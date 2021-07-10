@@ -24720,7 +24720,7 @@
         "clarity_nt_char_2744": "clarity_nt_char_2744"
     },
     "8241": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 身かわし率が ふえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Dodge Rate increased!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 身かわし率が ふえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's dodge rate increased!"
     },
     "8242": {
         "clarity_nt_char_2745": "clarity_nt_char_2745"
@@ -27366,7 +27366,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの モンスターゾーンが とけた！": ""
     },
     "9123": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 身かわし率が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 身かわし率が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's dodge rate returned to normal!"
     },
     "9124": {
         "clarity_nt_char_3037": "clarity_nt_char_3037"
@@ -29202,7 +29202,7 @@
         "clarity_nt_char_3237": "clarity_nt_char_3237"
     },
     "9735": {
-        "身かわし率がふえた！": "Dodge Rate increased!"
+        "身かわし率がふえた！": "Dodge rate increased!"
     },
     "9736": {
         "clarity_nt_char_3238": "clarity_nt_char_3238"
@@ -31545,7 +31545,7 @@
         "モンスターゾーンが|とけた": ""
     },
     "10516": {
-        "身かわし率が|もとにもどった": ""
+        "身かわし率が|もとにもどった": "Dodge rate returned|to normal."
     },
     "10517": {
         "clarity_nt_char_3498": "clarity_nt_char_3498"
@@ -32976,7 +32976,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ライトフォースの 効果時間延長！": ""
     },
     "10993": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 身かわし率アップの 効果時間延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 身かわし率アップの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's dodge rate up effect time extended!"
     },
     "10994": {
         "clarity_nt_char_3658": "clarity_nt_char_3658"
@@ -33516,7 +33516,7 @@
         "clarity_nt_char_3716": "clarity_nt_char_3716"
     },
     "11173": {
-        "身かわし率アップの|効果時間延長！": ""
+        "身かわし率アップの|効果時間延長！": "Dodge rate up effect|time extended!"
     },
     "11174": {
         "ヘヴィチャージの|効果時間延長！": ""
