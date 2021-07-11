@@ -1,6 +1,6 @@
 {
     "1": {
-        "<%sL_PC>が <%sL_PLACE>の|<%sL_COLOR>宝箱から手に入れた。": "<%sL_PC> obtained from a <%sL_COLOR> Treasure Chest in|<%sL_PLACE>."
+        "<%sL_PC>が <%sL_PLACE>の|<%sL_COLOR>宝箱から手に入れた。": "<%sL_PC> obtained from a <%sL_COLOR> Treasure|Chest in <%sL_PLACE>."
     },
     "2": {
         "clarity_nt_char_1": "clarity_nt_char_1"
