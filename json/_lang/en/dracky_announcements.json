@@ -162,7 +162,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eに フレンド申し込みが届きませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\e didn't receive your friend request."
     },
     "55": {
-        "あと<%dC_M>分間 操作しないと 強制終了されます": ""
+        "あと<%dC_M>分間 操作しないと 強制終了されます": "You will be kicked for inactivity in <%dC_M> minutes."
     },
     "56": {
         "対応する拡張コントローラが 接続されていません": ""
