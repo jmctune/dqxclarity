@@ -147,7 +147,7 @@
         "clarity_nt_char_17": "clarity_nt_char_17"
     },
     "50": {
-        "苦笑い": ""
+        "苦笑い": "Bitter"
     },
     "51": {
         "ひやかす": "Whistle"
@@ -1308,7 +1308,7 @@
         "<%sL_ACTOR>は　<%sL_TARGET>に　ほほえんだ。": ""
     },
     "437": {
-        "<%sL_ACTOR>は　<%sL_TARGET>に　苦笑いした。": ""
+        "<%sL_ACTOR>は　<%sL_TARGET>に　苦笑いした。": "<%sL_ACTOR> gave <%sL_TARGET> a bitter smile."
     },
     "438": {
         "<%sL_ACTOR>は　<%sL_TARGET>を　ひやかした。": ""
