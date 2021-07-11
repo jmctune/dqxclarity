@@ -7437,13 +7437,13 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>占いの館": ""
     },
     "2480": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>祭壇 出口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>祭壇 出口": "<%sW_MAP_NAME><%sW_DELIMITER>Altar Exit"
     },
     "2481": {
         "clarity_nt_char_778": "clarity_nt_char_778"
     },
     "2482": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>祭壇 入口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>祭壇 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Altar Entry"
     },
     "2483": {
         "clarity_nt_char_779": "clarity_nt_char_779"
@@ -7821,7 +7821,7 @@
         "clarity_nt_char_818": "clarity_nt_char_818"
     },
     "2608": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>祭壇": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>祭壇": "<%sW_MAP_NAME><%sW_DELIMITER>Altar"
     },
     "2609": {
         "<%sW_MAP_NAME><%sW_DELIMITER>第１の部屋": ""
