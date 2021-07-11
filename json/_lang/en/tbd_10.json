@@ -93,7 +93,7 @@
         "clarity_nt_char_12": "clarity_nt_char_12"
     },
     "32": {
-        "アクセサリー合成屋で 合成して|<%sL_KOUKA>の効果を付けた。": "The effect of <%sL_KOUKA> was added|by synthesizing another accessory."
+        "アクセサリー合成屋で 合成して|<%sL_KOUKA>の効果を付けた。": "Effect of <%sL_KOUKA>|was added by synthesizing another accessory."
     },
     "33": {
         "<speed=0><%sM_pc>は|<%sM_item>使った。<br>|しかし　何も　おこらなかった。|栽培に　使ってみよう！": "<speed=0><%sM_pc>|used the <%sM_item>.<br>|But nothing happened.|Try using it for cultivating!"
