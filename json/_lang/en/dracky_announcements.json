@@ -363,7 +363,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eが フレンド申し込みを 取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\e has canceled his friend request."
     },
     "122": {
-        "異常な入力を検知しました。１分後に強制終了します": ""
+        "異常な入力を検知しました。１分後に強制終了します": "Abnormal input detected. You will be kicked in 1 minute."
     },
     "123": {
         "clarity_nt_char_37": "clarity_nt_char_37"
@@ -3162,7 +3162,7 @@
         "clarity_nt_char_355": "clarity_nt_char_355"
     },
     "1055": {
-        "強制終了を　解除しますか？": ""
+        "強制終了を　解除しますか？": "Cancel auto kick?"
     },
     "1056": {
         "魔法の迷宮に 行きますか？": "Go to the Magic Maze?"
