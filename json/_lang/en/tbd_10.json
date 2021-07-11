@@ -141,7 +141,7 @@
         "<%sL_PC>が <%sL_PLACE>で|釣り上げた。": "<%sL_PC> reeled in at <%sL_PLACE>."
     },
     "48": {
-        "<%sL_PC>が <%sL_ITEM>を使って|手に入れた。": ""
+        "<%sL_PC>が <%sL_ITEM>を使って|手に入れた。": "<%sL_PC> used a <%sL_ITEM> to|obtain this."
     },
     "49": {
         "<%sM_pc>は <%sM_action>「<%sM_item2>」を おぼえた！": ""
