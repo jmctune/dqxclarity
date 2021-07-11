@@ -3774,7 +3774,7 @@
         "clarity_nt_char_399": "clarity_nt_char_399"
     },
     "1259": {
-        "レビュール街道南 入口": ""
+        "レビュール街道南 入口": "Reviewle Highway South Entry"
     },
     "1260": {
         "コニウェア平原 入口": "Coniware Plain Entry"
@@ -4101,7 +4101,7 @@
         "ロヴォス高地への道": ""
     },
     "1368": {
-        "レビュール街道南への道": ""
+        "レビュール街道南への道": "Road to Reviewle Highway South"
     },
     "1369": {
         "レビュール街道北への道": ""
@@ -6621,7 +6621,7 @@
         "リャナ荒涼地帯-ねじれたる異形の大地 入口": "Lyana Desolate Area - Twisted Deformed Earth Entry"
     },
     "2208": {
-        "レビュール街道南": ""
+        "レビュール街道南": "Reviewle Highway South"
     },
     "2209": {
         "clarity_nt_char_690": "clarity_nt_char_690"
@@ -6732,7 +6732,7 @@
         "リンジャハル海岸-海岸遺跡": ""
     },
     "2245": {
-        "レビュール街道南-三門の関所 前": ""
+        "レビュール街道南-三門の関所 前": "Reviewle Highway South - 3 Way Gate"
     },
     "2246": {
         "clarity_nt_char_703": "clarity_nt_char_703"
@@ -6759,7 +6759,7 @@
         "グランゼドーラ領-見張り塔 前": "Gran Zedora Territory - Watchtower Front"
     },
     "2254": {
-        "コニウェア平原-三門の関所 前": ""
+        "コニウェア平原-三門の関所 前": "Coniware Plain - 3 Way Gate"
     },
     "2255": {
         "コニウェア平原-難破船": ""
@@ -9060,10 +9060,10 @@
         "clarity_nt_char_961": "clarity_nt_char_961"
     },
     "3021": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>古三門の関所": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>古三門の関所": "<%sW_MAP_NAME><%sW_DELIMITER>Old 3 Way Gate"
     },
     "3022": {
-        "古三門の関所": ""
+        "古三門の関所": "Old 3 Way Gate"
     },
     "3023": {
         "clarity_nt_char_962": "clarity_nt_char_962"
