@@ -6111,7 +6111,7 @@
         "スイのやしろ 入口": ""
     },
     "2038": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下祭壇": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下祭壇": "<%sW_MAP_NAME><%sW_DELIMITER>Altar"
     },
     "2039": {
         "月世界・王宮 出口": ""
@@ -7815,7 +7815,7 @@
         "Ⅰ　Ⅰ": ""
     },
     "2606": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>土地神のやしろ": "<%sW_MAP_NAME><%sW_DELIMITER>Shrine"
+        "<%sW_MAP_NAME><%sW_DELIMITER>土地神のやしろ": "<%sW_MAP_NAME><%sW_DELIMITER>Land Shrine"
     },
     "2607": {
         "clarity_nt_char_818": "clarity_nt_char_818"
