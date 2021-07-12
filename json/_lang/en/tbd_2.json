@@ -723,7 +723,7 @@
         "clarity_nt_char_78": "clarity_nt_char_78"
     },
     "242": {
-        "スライム系に ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "スライム系に ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Damage to Slime-types +%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "243": {
         "clarity_nt_char_79": "clarity_nt_char_79"
@@ -2001,7 +2001,7 @@
         "clarity_nt_char_224": "clarity_nt_char_224"
     },
     "668": {
-        "スライム系に ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "スライム系に ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Damage to Slime-types +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "669": {
         "clarity_nt_char_225": "clarity_nt_char_225"
@@ -5325,7 +5325,7 @@
         "物質系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
     },
     "1776": {
-        "スライム系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "スライム系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Damage to Slime-types <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1777": {
         "マシン系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
