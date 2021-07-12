@@ -26436,7 +26436,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と氷の耐性が 少し さがった！": ""
     },
     "8813": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは \\s<%sB_TARGET2>\\m<%sB_TARGET2_ID>\\eに 激怒した！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは \\s<%sB_TARGET2>\\m<%sB_TARGET2_ID>\\eに 激怒した！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is enraged at \\s<%sB_TARGET2>\\m<%sB_TARGET2_ID>\\e!"
     },
     "8814": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 開戦時時 たまにテンションがあがるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension rose at the start of battle!"
@@ -29352,7 +29352,7 @@
         "ムッチーノに|かえられてしまった！": ""
     },
     "9785": {
-        "<%sB_TARGET2>に激怒！": ""
+        "<%sB_TARGET2>に激怒！": "Enraged at <%sB_TARGET2>!"
     },
     "9786": {
         "スーパーアーマーに|まもられた！": ""
