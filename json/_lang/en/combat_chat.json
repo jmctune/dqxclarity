@@ -26382,7 +26382,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは やいばのぼうぎょで 守った。": ""
     },
     "8795": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに もうどくを かけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに もうどくを かけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was poisoned again!"
     },
     "8796": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに どくを かけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was poisoned!"
@@ -33303,10 +33303,10 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは うけるダメージが 少なくなった。": ""
     },
     "11102": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに さらに もうどくを かけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに さらに もうどくを かけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was poisoned even more!"
     },
     "11103": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに さらに どくを かけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに さらに どくを かけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was further poisoned!"
     },
     "11104": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを さらに 魅了した！": ""
@@ -33774,10 +33774,10 @@
         "clarity_nt_char_3745": "clarity_nt_char_3745"
     },
     "11259": {
-        "さらに|もうどくをかけた！": ""
+        "さらに|もうどくをかけた！": "Further poisoned|even more!"
     },
     "11260": {
-        "さらに|どくをかけた！": ""
+        "さらに|どくをかけた！": "Further poisoned!"
     },
     "11261": {
         "さらに魅了した！": ""
