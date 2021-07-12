@@ -26385,7 +26385,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに もうどくを かけた！": ""
     },
     "8796": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに どくを かけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに どくを かけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was poisoned!"
     },
     "8797": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 周囲の味方のダメージを かわりにうける！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e will receive all incoming damage instead!"
@@ -30867,10 +30867,10 @@
         "呪文を|ふうじこめた！": ""
     },
     "10290": {
-        "もうどくをかけた！": ""
+        "もうどくをかけた！": "Poisoned again!"
     },
     "10291": {
-        "どくをかけた！": ""
+        "どくをかけた！": "Poisoned!"
     },
     "10292": {
         "魅了した！": ""
