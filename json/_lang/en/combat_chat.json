@@ -366,7 +366,7 @@
         "機能テイシ…|シュビリョク低下": ""
     },
     "123": {
-        "<%sB_TARGET_RPL>に|<%sB_ACTION>をはいた！": ""
+        "<%sB_TARGET_RPL>に|<%sB_ACTION>をはいた！": "Put <%sB_ACTION>|on <%sB_TARGET_RPL>!"
     },
     "124": {
         "かおをあらった！": ""
@@ -384,13 +384,13 @@
         "右ウデが|打撃完全ガードをはった！": ""
     },
     "129": {
-        "みんなで楽しく|<%sB_ACTION>！": ""
+        "みんなで楽しく|<%sB_ACTION>！": "Everybody have fun|with <%sB_ACTION>!"
     },
     "130": {
         "逃げだそうとしている！": ""
     },
     "131": {
-        "<%sB_ACTION>をした！": ""
+        "<%sB_ACTION>をした！": "Used <%sB_ACTION>!"
     },
     "132": {
         "clarity_nt_char_42": "clarity_nt_char_42"
@@ -1035,7 +1035,7 @@
         "☆☆☆": ""
     },
     "346": {
-        "<%sB_TARGET_RPL>よ！|<%sB_ACTION>！": ""
+        "<%sB_TARGET_RPL>よ！|<%sB_ACTION>！": "Hey, <%sB_ACTION>!|<%sB_ACTION>!"
     },
     "347": {
         "clarity_nt_char_123": "clarity_nt_char_123"
@@ -1083,7 +1083,7 @@
         "clarity_nt_char_128": "clarity_nt_char_128"
     },
     "362": {
-        "<%sB_ACTOR>は|<%sB_ACTION>を使った": ""
+        "<%sB_ACTOR>は|<%sB_ACTION>を使った": "<%sB_ACTION> used|<%sB_ACTION>."
     },
     "363": {
         "不気味に微笑み|詠唱をはじめた……": ""
@@ -1140,7 +1140,7 @@
         "clarity_nt_char_136": "clarity_nt_char_136"
     },
     "381": {
-        "<%sB_ACTION>を作ります！": ""
+        "<%sB_ACTION>を作ります！": "Make <%sB_ACTION>!"
     },
     "382": {
         "clarity_nt_char_137": "clarity_nt_char_137"
