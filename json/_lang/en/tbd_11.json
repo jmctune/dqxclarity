@@ -402,7 +402,7 @@
         "clarity_nt_char_51": "clarity_nt_char_51"
     },
     "135": {
-        "<%sL_SYOKUNIN_TOOL>を装備していないので|<%sL_SKILL_NAME>ができません。": ""
+        "<%sL_SYOKUNIN_TOOL>を装備していないので|<%sL_SKILL_NAME>ができません。": "You can't use <%sL_SKILL_NAME> because|you don't have a <%sL_SYOKUNIN_TOOL>."
     },
     "136": {
         "鍛冶ハンマー": "Smith Hammer"

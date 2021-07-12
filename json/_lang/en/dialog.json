@@ -2487,7 +2487,7 @@
         "clarity_nt_char_281": "clarity_nt_char_281"
     },
     "830": {
-        "<speed=0><%sM_action>は　<%sM_item_syurui>を|装備していないと　使えない！": ""
+        "<speed=0><%sM_action>は　<%sM_item_syurui>を|装備していないと　使えない！": "<speed=0>You can't use <%sM_action> without|a <%sM_item_syurui> equipped!"
     },
     "831": {
         "clarity_nt_char_282": "clarity_nt_char_282"
