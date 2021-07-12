@@ -489,7 +489,7 @@
         "clarity_nt_char_59": "clarity_nt_char_59"
     },
     "164": {
-        "レアドロップ率 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>倍": ""
+        "レアドロップ率 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>倍": "Rare Drop Rate <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>x"
     },
     "165": {
         "炎属性攻撃": "Fire Element"
@@ -5025,7 +5025,7 @@
         "踊らされガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Dance Guard <%sB_renkin1> (<%+dB_renkindiff>)%"
     },
     "1676": {
-        "レアドロップ率 <%sB_renkin1>.<%sB_renkin2>(<%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2>)倍": ""
+        "レアドロップ率 <%sB_renkin1>.<%sB_renkin2>(<%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2>)倍": "Rare Drop Rate <%sB_renkin1>.<%sB_renkin2>(<%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2>)x"
     },
     "1677": {
         "こうげき力 <%+dB_renkin>（<%+dB_renkindiff>）": "Attack <%+dB_renkin> (<%+dB_renkindiff>)"
@@ -5256,7 +5256,7 @@
         "踊らされガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Dance Guard <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1753": {
-        "レアドロップ率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）倍": ""
+        "レアドロップ率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）倍": "Rare Drop Rate <%+.1fB_renkin> (<%+.1fB_renkindiff>)x"
     },
     "1754": {
         "攻撃時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%で急所突き": "Weak Point Attack <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
