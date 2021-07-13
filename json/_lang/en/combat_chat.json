@@ -24588,7 +24588,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 攻撃の対象に 選ばれなくなった！": ""
     },
     "8197": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 温泉の効能で ＨＰが 少しずつ回復する！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 温泉の効能で ＨＰが 少しずつ回復する！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e will recover HP over time thanks to the hot springs!"
     },
     "8198": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eから お宝ゲット確定！！": ""
