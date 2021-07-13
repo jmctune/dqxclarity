@@ -5817,7 +5817,7 @@
         "clarity_nt_char_656": "clarity_nt_char_656"
     },
     "1940": {
-        "<speed=0><%sM_SNPC_NAME>は|<%sM_SKILL1><%sM_01>と <%sM_SKILL2><%sM_01>を|覚えた！": ""
+        "<speed=0><%sM_SNPC_NAME>は|<%sM_SKILL1><%sM_01>と <%sM_SKILL2><%sM_01>を|覚えた！": "<speed=0><%sM_SNPC_NAME> learned|<%sM_SKILL1><%sM_01> and <%sM_SKILL2><%sM_01>!"
     },
     "1941": {
         "clarity_nt_char_657": "clarity_nt_char_657"
