@@ -186,7 +186,7 @@
         "<pipipi_high>|「ここは　○○○○○イベント限定の|　カジノコインとひきかえに|　景品をおわたしする　交換所です。|<br>|「申し訳ありませんが　ゴルスラ会長から|　参加登録後に　ご利用になれますわ。": ""
     },
     "63": {
-        "チャージが完了すると|元気いっぱいになります": ""
+        "チャージが完了すると|元気いっぱいになります": "Energy will be full when|charge is completed."
     },
     "64": {
         "clarity_nt_char_18": "clarity_nt_char_18"
@@ -213,7 +213,7 @@
         "clarity_nt_char_21": "clarity_nt_char_21"
     },
     "72": {
-        "素材": "Mats"
+        "素材": "Mats."
     },
     "73": {
         "clarity_nt_char_22": "clarity_nt_char_22"
