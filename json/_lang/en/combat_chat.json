@@ -20187,7 +20187,7 @@
         "clarity_nt_char_2247": "clarity_nt_char_2247"
     },
     "6730": {
-        "与えるダメージと|ひきかえに受ける|ダメージを減らす": ""
+        "与えるダメージと|ひきかえに受ける|ダメージを減らす": "Reduces your|damage dealt|and damage taken."
     },
     "6731": {
         "clarity_nt_char_2248": "clarity_nt_char_2248"
@@ -22506,7 +22506,7 @@
         "clarity_nt_char_2504": "clarity_nt_char_2504"
     },
     "7503": {
-        "敵１体の激怒を|解除する|戦士専用特技": ""
+        "敵１体の激怒を|解除する|戦士専用特技": "Attacks and calms|the rage of|one enemy."
     },
     "7504": {
         "テンションを|一定時間維持する|武闘家専用特技": ""
@@ -23508,7 +23508,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは からだが シビれた！": ""
     },
     "7837": {
-        "一定時間チャージ|を２０秒短縮する|戦士専用特技": ""
+        "一定時間チャージ|を２０秒短縮する|戦士専用特技": "Reduces charge|time by 20 sec.|for a duration."
     },
     "7838": {
         "clarity_nt_char_2614": "clarity_nt_char_2614"
@@ -35445,7 +35445,7 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eから \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに エール！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e gives \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e a cheer!"
     },
     "11816": {
-        "一定時間チャージ|を１０秒短縮する|戦士専用特技": ""
+        "一定時間チャージ|を１０秒短縮する|戦士専用特技": "Reduces charge|time by 10 sec.|for a duration."
     },
     "11817": {
         "clarity_nt_char_3934": "clarity_nt_char_3934"
