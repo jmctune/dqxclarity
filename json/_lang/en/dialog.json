@@ -6867,7 +6867,7 @@
         "現代に戻る": "To the Present"
     },
     "2290": {
-        "<speed=0>|バトルコマンド設定の　説明です！|<br>|覚えた呪文や特技のコマンドを|並べ替えたり　表示／非表示を選択し|職業ごとに　整理できる機能です。|<br>|『並び替え設定』では|呪文や特技の　コマンドを|お好みの順番に　並び替えできます。|<br>|『表示設定』では|バトル時に使用できる　呪文や特技のコマンドの|表示／非表示を　変更できます。|<br>|ぜひ　コマンドリストを|自分好みに　設定してみてください！|": ""
+        "<speed=0>|バトルコマンド設定の　説明です！|<br>|覚えた呪文や特技のコマンドを|並べ替えたり　表示／非表示を選択し|職業ごとに　整理できる機能です。|<br>|『並び替え設定』では|呪文や特技の　コマンドを|お好みの順番に　並び替えできます。|<br>|『表示設定』では|バトル時に使用できる　呪文や特技のコマンドの|表示／非表示を　変更できます。|<br>|ぜひ　コマンドリストを|自分好みに　設定してみてください！|": "<speed=0>|This will explain \"Battle Command\" settings!|<br>|You can sort the positions and toggle visibility|of spells and skills for each vocation.|<br>|\"Sort Settings\" allows you arrange your abilites|in any order that you so choose.|<br>|\"Display\" allows you to choose which spells|and skills will appear in the command menu during|battle.|<br>|Set your commands however you like!"
     },
     "2291": {
         "バトル中に|表示する特技を|選択できます": "Choose which|skills to show|during battle."
