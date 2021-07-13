@@ -3591,7 +3591,7 @@
         "<speed=0>このモンスターは　これ以上呼べない！": ""
     },
     "1198": {
-        "<%sM_pc>は <%sM_monster>を 仲間にする方法を 覚えた！": ""
+        "<%sM_pc>は <%sM_monster>を 仲間にする方法を 覚えた！": "<%sM_pc> learned how to recruit <%sM_monster>!"
     },
     "1199": {
         "clarity_nt_char_400": "clarity_nt_char_400"
