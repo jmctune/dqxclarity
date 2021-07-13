@@ -81,22 +81,22 @@
         "clarity_nt_char_5": "clarity_nt_char_5"
     },
     "28": {
-        "<pc>の釣りレベルが　<%dL_LEVEL>にあがった！": ""
+        "<pc>の釣りレベルが　<%dL_LEVEL>にあがった！": "<pc>'s fishing level is now <%dL_LEVEL>!"
     },
     "29": {
-        "釣りレベルが<%nL_LEVEL>にアップ！": ""
+        "釣りレベルが<%nL_LEVEL>にアップ！": "Fishing level <%nL_LEVEL>!"
     },
     "30": {
         "clarity_nt_char_6": "clarity_nt_char_6"
     },
     "31": {
-        "<%sL_FISH>の|キングサイズ釣った！": ""
+        "<%sL_FISH>の|キングサイズ釣った！": "Caught a King Size|<%sL_FISH>!"
     },
     "32": {
         "clarity_nt_char_7": "clarity_nt_char_7"
     },
     "33": {
-        "さかなを引き寄せる力が　増えた！": ""
+        "さかなを引き寄せる力が　増えた！": "Reel in power increased!"
     },
     "34": {
         "clarity_nt_char_8": "clarity_nt_char_8"
