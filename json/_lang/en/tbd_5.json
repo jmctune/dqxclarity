@@ -2613,7 +2613,7 @@
         "clarity_nt_char_290": "clarity_nt_char_290"
     },
     "872": {
-        "既に持っているので 代わりに <%dL_GET_KPOINT>枚のダブリィコインを 手に入れた！": ""
+        "既に持っているので 代わりに <%dL_GET_KPOINT>枚のダブリィコインを 手に入れた！": "You already have this, so you received|<%dL_GET_KPOINT> Doubly Coins instead!"
     },
     "873": {
         "clarity_nt_char_291": "clarity_nt_char_291"
@@ -3264,7 +3264,7 @@
         "clarity_nt_char_365": "clarity_nt_char_365"
     },
     "1089": {
-        "<%sM_CAPSULE_NAME>を　ヤクウに渡して|ダブリィポイントを　<%dM_CHANGE_POINT>P　もらった！（ <%dM_BEFORE_POINT>P→ <%dM_AFTER_POINT>P） ": ""
+        "<%sM_CAPSULE_NAME>を　ヤクウに渡して|ダブリィポイントを　<%dM_CHANGE_POINT>P　もらった！（ <%dM_BEFORE_POINT>P→ <%dM_AFTER_POINT>P） ": "Handed <%sM_CAPSULE_NAME> to Yakuu and|got <%dM_CHANGE_POINT> Doubly Points! (<%dM_BEFORE_POINT>P→ <%dM_AFTER_POINT>P)"
     },
     "1090": {
         "clarity_nt_char_366": "clarity_nt_char_366"
