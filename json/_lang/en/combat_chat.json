@@ -18939,7 +18939,7 @@
         "氷結断": ""
     },
     "6314": {
-        "サメガードダッシュ": ""
+        "サメガードダッシュ": "Shark Guard Dash"
     },
     "6315": {
         "地走り": ""
@@ -26148,7 +26148,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 移動速度と詠唱速度と行動間隔が 速くなった！": ""
     },
     "8717": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに サメガードダッシュの魔法がかかった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに サメガードダッシュの魔法がかかった！": "Shark Guard Dash's magic effect applied to \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e!"
     },
     "8718": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ネバネバな糸に からめとられた！": ""
