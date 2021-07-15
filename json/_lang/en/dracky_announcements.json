@@ -246,13 +246,13 @@
         "clarity_nt_char_24": "clarity_nt_char_24"
     },
     "83": {
-        "チームリーダーの交代が できませんでした": ""
+        "チームリーダーの交代が できませんでした": "You could not replace the team leader."
     },
     "84": {
         "clarity_nt_char_25": "clarity_nt_char_25"
     },
     "85": {
-        "チームのスローガンが 更新されました": ""
+        "チームのスローガンが 更新されました": "The team's slogan was updated."
     },
     "86": {
         "clarity_nt_char_26": "clarity_nt_char_26"
@@ -261,10 +261,10 @@
         "受け取れなかった チームのさそいがあります": ""
     },
     "88": {
-        "チームのメンバーがいっぱいで 入れませんでした": ""
+        "チームのメンバーがいっぱいで 入れませんでした": "You could not join because the team was full."
     },
     "89": {
-        "チームが解散していたので 入れませんでした": ""
+        "チームが解散していたので 入れませんでした": "You could not join because the team was disbanded."
     },
     "90": {
         "返事がいっぱいで 受け取れなかったナビがあります": ""
@@ -300,7 +300,7 @@
         "このマップは <%dC_M>分後に 消滅します": "This map will disappear in <%dC_M> minutes."
     },
     "101": {
-        "チーム『<%sC_TEAM>』に 入りました！": ""
+        "チーム『<%sC_TEAM>』に 入りました！": "Team  『<%sC_TEAM>』 has been joined!"
     },
     "102": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eから 仲間になれる時間の確認が来ました": ""
