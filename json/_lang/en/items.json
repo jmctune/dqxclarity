@@ -681,7 +681,7 @@
         "ケイオスソード": "Chaos Sword"
     },
     "228": {
-        "聖王のつるぎ": "Holy King Sabre"
+        "聖王のつるぎ": "Dryspell Sabre"
     },
     "229": {
         "clarity_nt_char_75": "clarity_nt_char_75"
@@ -822,7 +822,7 @@
         "スレイプニール": "Sleipnir"
     },
     "275": {
-        "聖王の大剣": "Holy King Blade"
+        "聖王の大剣": "Dryspell Blade"
     },
     "276": {
         "星々の大剣": "Starry Claymore"
@@ -972,7 +972,7 @@
         "clarity_nt_char_103": "clarity_nt_char_103"
     },
     "325": {
-        "聖王のナイフ": "Holy King Knife"
+        "聖王のナイフ": "Dryspell Knife"
     },
     "326": {
         "clarity_nt_char_104": "clarity_nt_char_104"
@@ -1134,7 +1134,7 @@
         "はけスティック": "Paint Brush"
     },
     "379": {
-        "聖王のスティック": "Holy King Wand"
+        "聖王のスティック": "Dryspell Wand"
     },
     "380": {
         "clarity_nt_char_119": "clarity_nt_char_119"
@@ -1308,7 +1308,7 @@
         "clarity_nt_char_141": "clarity_nt_char_141"
     },
     "437": {
-        "聖王の杖": "Holy King S."
+        "聖王の杖": "Dryspell Stf"
     },
     "438": {
         "clarity_nt_char_142": "clarity_nt_char_142"
@@ -1440,7 +1440,7 @@
         "clarity_nt_char_154": "clarity_nt_char_154"
     },
     "481": {
-        "聖王のやり": "Holy King Spear"
+        "聖王のやり": "Dryspell Spear"
     },
     "482": {
         "ブラッドスピアー": ""
@@ -1593,7 +1593,7 @@
         "ヴァランガアックス": ""
     },
     "532": {
-        "聖王のオノ": "Holy King Axe"
+        "聖王のオノ": "Dryspell Axe"
     },
     "533": {
         "冥王の大鎌・オノ": ""
@@ -1758,7 +1758,7 @@
         "天使の鉄槌": ""
     },
     "587": {
-        "聖王のハンマー": "Holy King Hammer"
+        "聖王のハンマー": "Dryspell Hammer"
     },
     "588": {
         "魔炎のおおづち": ""
@@ -1920,7 +1920,7 @@
         "ポップンロッド": ""
     },
     "641": {
-        "聖王のこん": "Holy King Rod"
+        "聖王のこん": "Dryspell Rod"
     },
     "642": {
         "LV120・こん_B": ""
@@ -2088,7 +2088,7 @@
         "蒼炎のツメ": ""
     },
     "697": {
-        "聖王のツメ": "Holy King Claw"
+        "聖王のツメ": "Dryspell Claw"
     },
     "698": {
         "シュパルトクロー": "Rift Claws"
@@ -2289,7 +2289,7 @@
         "clarity_nt_char_241": "clarity_nt_char_241"
     },
     "764": {
-        "聖王のおうぎ": "Holy King Fan"
+        "聖王のおうぎ": "Dryspell Fan"
     },
     "765": {
         "clarity_nt_char_242": "clarity_nt_char_242"
@@ -2463,7 +2463,7 @@
         "クロスペンデュラム": "Cross Pendulum"
     },
     "822": {
-        "聖王のムチ": "Holy King Whip"
+        "聖王のムチ": "Dryspell Whip"
     },
     "823": {
         "LV120・ムチ_B": ""
@@ -2652,7 +2652,7 @@
         "ビーナスエッジ": ""
     },
     "885": {
-        "聖王のブーメラン": "Holy King Boomerang"
+        "聖王のブーメラン": "Dryspell Boomerang"
     },
     "886": {
         "clarity_nt_char_283": "clarity_nt_char_283"
@@ -2832,7 +2832,7 @@
         "あやかしの魔弓": "Akayashi's Magic Bow"
     },
     "945": {
-        "聖王の弓": "HolyKing Bow"
+        "聖王の弓": "Dryspell Bow"
     },
     "946": {
         "clarity_nt_char_305": "clarity_nt_char_305"
@@ -2892,7 +2892,7 @@
         "clarity_nt_char_313": "clarity_nt_char_313"
     },
     "965": {
-        "聖王の盾": "HolyKing Shd"
+        "聖王の盾": "Dryspell Shd"
     },
     "966": {
         "clarity_nt_char_314": "clarity_nt_char_314"
@@ -2910,7 +2910,7 @@
         "風雲の大盾": ""
     },
     "971": {
-        "聖王の大盾": "Holy King Grshd"
+        "聖王の大盾": "Dryspell Grshd"
     },
     "972": {
         "ニューＶロンの盾": ""
@@ -26841,43 +26841,43 @@
         "ハッピーハート": "Happy Heart"
     },
     "8948": {
-        "聖王のつるぎの壁画": "Holy King Sabre Recipe"
+        "聖王のつるぎの壁画": "Dryspell Sabre Recipe"
     },
     "8949": {
-        "聖王の大剣の壁画": "Holy King Blade Recipe"
+        "聖王の大剣の壁画": "Dryspell Blade Recipe"
     },
     "8950": {
         "clarity_nt_char_2732": "clarity_nt_char_2732"
     },
     "8951": {
-        "聖王のナイフの壁画": "Holy King Knife Recipe"
+        "聖王のナイフの壁画": "Dryspell Knife Recipe"
     },
     "8952": {
-        "聖王のやりの壁画": "Holy King Spear Recipe"
+        "聖王のやりの壁画": "Dryspell Spear Recipe"
     },
     "8953": {
         "clarity_nt_char_2733": "clarity_nt_char_2733"
     },
     "8954": {
-        "聖王のオノの壁画": "Holy King Axe Recipe"
+        "聖王のオノの壁画": "Dryspell Axe Recipe"
     },
     "8955": {
         "clarity_nt_char_2734": "clarity_nt_char_2734"
     },
     "8956": {
-        "聖王のハンマーの壁画": "Holy King Hammer Recipe"
+        "聖王のハンマーの壁画": "Dryspell Hammer Recipe"
     },
     "8957": {
         "clarity_nt_char_2735": "clarity_nt_char_2735"
     },
     "8958": {
-        "聖王のツメの壁画": "Holy King Claw Recipe"
+        "聖王のツメの壁画": "Dryspell Claw Recipe"
     },
     "8959": {
         "clarity_nt_char_2736": "clarity_nt_char_2736"
     },
     "8960": {
-        "聖王のムチの壁画": "Holy King Whip Recipe"
+        "聖王のムチの壁画": "Dryspell Whip Recipe"
     },
     "8961": {
         "clarity_nt_char_2737": "clarity_nt_char_2737"
