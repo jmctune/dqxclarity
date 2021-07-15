@@ -60,7 +60,7 @@
         "防具屋": "Gear Shop"
     },
     "21": {
-        "武器屋": ""
+        "武器屋": "Wep. Shop"
     },
     "22": {
         "薬剤設備": "Medicinal"
@@ -108,7 +108,7 @@
         "clarity_nt_char_13": "clarity_nt_char_13"
     },
     "37": {
-        "釜錬金設備": ""
+        "釜錬金設備": "Pot Alch. Equip"
     },
     "38": {
         "？？？？": "????"
@@ -117,7 +117,7 @@
         "clarity_nt_char_14": "clarity_nt_char_14"
     },
     "40": {
-        "トロッコ": ""
+        "トロッコ": "Cart"
     },
     "41": {
         "clarity_nt_char_15": "clarity_nt_char_15"
@@ -129,31 +129,31 @@
         "clarity_nt_char_16": "clarity_nt_char_16"
     },
     "44": {
-        "石碑": ""
+        "石碑": "Statue"
     },
     "45": {
         "clarity_nt_char_17": "clarity_nt_char_17"
     },
     "46": {
-        "結界": ""
+        "結界": "Ward"
     },
     "47": {
         "clarity_nt_char_18": "clarity_nt_char_18"
     },
     "48": {
-        "エレベーター": ""
+        "エレベーター": "Elevator"
     },
     "49": {
         "clarity_nt_char_19": "clarity_nt_char_19"
     },
     "50": {
-        "墓石": ""
+        "墓石": "Grave"
     },
     "51": {
         "clarity_nt_char_20": "clarity_nt_char_20"
     },
     "52": {
-        "看板": ""
+        "看板": "Sign"
     },
     "53": {
         "clarity_nt_char_21": "clarity_nt_char_21"
@@ -189,7 +189,7 @@
         "clarity_nt_char_24": "clarity_nt_char_24"
     },
     "64": {
-        "宿屋": ""
+        "宿屋": "Inn"
     },
     "65": {
         "clarity_nt_char_25": "clarity_nt_char_25"
