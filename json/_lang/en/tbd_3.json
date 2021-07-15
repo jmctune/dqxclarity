@@ -201,7 +201,7 @@
         "使用したマスを|次にぬうとき|２倍の威力になる": "Sew a square|next action on that square|Is 2x power"
     },
     "68": {
-        "隣接したマスを|巻きこんでぬう|強力なひとぬい": ""
+        "隣接したマスを|巻きこんでぬう|強力なひとぬい": "Sew a square|and all adjacent squares"
     },
     "69": {
         "まれに集中力回復": "Rarely Recover Focus"
