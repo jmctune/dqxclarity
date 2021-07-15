@@ -924,7 +924,7 @@
         "clarity_nt_char_102": "clarity_nt_char_102"
     },
     "309": {
-        "虫かごにいれる": ""
+        "虫かごにいれる": "Put into cage"
     },
     "310": {
         "にがす": "Set Free"
@@ -1029,13 +1029,13 @@
         "権限の設定": "Permissions"
     },
     "344": {
-        "家のしゅうり": ""
+        "家のしゅうり": "Shogun Admin"
     },
     "345": {
         "clarity_nt_char_111": "clarity_nt_char_111"
     },
     "346": {
-        "庭をいじる": ""
+        "庭をいじる": "Touch up garden"
     },
     "347": {
         "パーツを変える": "Change Parts"
@@ -1089,7 +1089,7 @@
         "clarity_nt_char_117": "clarity_nt_char_117"
     },
     "364": {
-        "染められない|そうびのようだ": ""
+        "染められない|そうびのようだ": "I can't dye it,|it's sublime."
     },
     "365": {
         "clarity_nt_char_118": "clarity_nt_char_118"
@@ -1179,7 +1179,7 @@
         "clarity_nt_char_128": "clarity_nt_char_128"
     },
     "394": {
-        "倉庫": ""
+        "倉庫": "Shed"
     },
     "395": {
         "clarity_nt_char_129": "clarity_nt_char_129"
@@ -1272,7 +1272,7 @@
         "装備可能レベル": "Equip Level"
     },
     "425": {
-        "庭具の配置": ""
+        "庭具の配置": "Tool Layout"
     },
     "426": {
         "庭パーツをつくる": ""
