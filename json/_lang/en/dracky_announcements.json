@@ -132,13 +132,13 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_H>時間<%dC_M>分のびました": ""
     },
     "45": {
-        "仲間の約束の時間が 終わりました": ""
+        "仲間の約束の時間が 終わりました": "The party's arranged time has ended."
     },
     "46": {
         "clarity_nt_char_13": "clarity_nt_char_13"
     },
     "47": {
-        "クエスト「<%sC_QUEST>」は 期限切れです": ""
+        "クエスト「<%sC_QUEST>」は 期限切れです": "Quest 「<%sC_QUEST>」has expired."
     },
     "48": {
         "仲間から はずれました": "You were kicked from the party."
