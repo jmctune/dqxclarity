@@ -468,13 +468,13 @@
         "clarity_nt_char_50": "clarity_nt_char_50"
     },
     "157": {
-        "錬金が成功した時": ""
+        "錬金が成功した時": "Alchemy is Successful"
     },
     "158": {
         "clarity_nt_char_51": "clarity_nt_char_51"
     },
     "159": {
-        "錬金を開始した時": ""
+        "錬金を開始した時": "Start alchemizing"
     },
     "160": {
         "clarity_nt_char_52": "clarity_nt_char_52"
@@ -492,7 +492,7 @@
         "売り物": "Goods"
     },
     "165": {
-        "計": ""
+        "計": "All"
     },
     "166": {
         "あずける": "Deposit"
@@ -519,7 +519,7 @@
         "clarity_nt_char_56": "clarity_nt_char_56"
     },
     "174": {
-        "自分でならべかえ": ""
+        "自分でならべかえ": "Sort yourself"
     },
     "175": {
         "clarity_nt_char_57": "clarity_nt_char_57"
@@ -714,7 +714,7 @@
         "色をえらぶ": "Choose a Color"
     },
     "239": {
-        "美容師におまかせ": ""
+        "美容師におまかせ": "Leave it to the Salon"
     },
     "240": {
         "clarity_nt_char_77": "clarity_nt_char_77"
