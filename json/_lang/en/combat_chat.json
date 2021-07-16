@@ -24672,7 +24672,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは よろこんでいる！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is feeling happy!"
     },
     "8225": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ジャンプの時間が 長くなった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ジャンプの時間が 長くなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's jump time increased!"
     },
     "8226": {
         "clarity_nt_char_2740": "clarity_nt_char_2740"
@@ -27558,7 +27558,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 耐性が もとにもどった！": ""
     },
     "9187": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ジャンプの時間が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ジャンプの時間が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's jump time returned to normal!"
     },
     "9188": {
         "clarity_nt_char_3059": "clarity_nt_char_3059"
