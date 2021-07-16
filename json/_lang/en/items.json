@@ -1362,7 +1362,7 @@
         "バトルフォーク": "Battle Fork"
     },
     "455": {
-        "プラチナのやり": "Platinum Spear"
+        "プラチナのやり": "Platinum Lance"
     },
     "456": {
         "パルチザン": "Partisan"
@@ -43449,7 +43449,7 @@
         "斬りつけた相手を|たまにマヒさせる|あやしいナイフ": "Occasionally|paralyzes the|enemy."
     },
     "14484": {
-        "急所に当たると|相手を即死させる|一か八かの武器": "Hit the right|spot, kill the|enemy instantly."
+        "急所に当たると|相手を即死させる|一か八かの武器": "Deadly weapon|can hit enemy's|vital spot."
     },
     "14485": {
         "clarity_nt_char_4464": "clarity_nt_char_4464"
@@ -43461,7 +43461,7 @@
         "clarity_nt_char_4465": "clarity_nt_char_4465"
     },
     "14488": {
-        "急所に当たると|相手を即死させる|暗殺者用の短剣": "Kills the enemy|instantly if|vital point hit."
+        "急所に当たると|相手を即死させる|暗殺者用の短剣": "Deadly weapon|can hit enemy's|vital spot."
     },
     "14489": {
         "clarity_nt_char_4466": "clarity_nt_char_4466"
@@ -43980,7 +43980,7 @@
         "土のチカラを宿し|戦闘中に使うと|敵を幻惑するやり": ""
     },
     "14661": {
-        "急所に当たれば|一撃で命を奪う|恐ろしいやり": ""
+        "急所に当たれば|一撃で命を奪う|恐ろしいやり": "Deadly weapon|can hit enemy's|vital spot."
     },
     "14662": {
         "clarity_nt_char_4525": "clarity_nt_char_4525"
