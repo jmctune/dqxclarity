@@ -141,10 +141,10 @@
         "垂直２マスを|２列彫りぬく|下側を強く彫る": "Cut 2 vert squares|Carve out two rows|Strong cut the bottom"
     },
     "48": {
-        "ヨコ２マスを|彫りぬく|左側を強く彫る": ""
+        "ヨコ２マスを|彫りぬく|左側を強く彫る": "Cut 2 hori squares|Cut through|Strong cut the left"
     },
     "49": {
-        "ヨコ３マスを|彫りぬく|左側を強く彫る": ""
+        "ヨコ３マスを|彫りぬく|左側を強く彫る": "Cut 3 hori squares|Cut through|Strong cut the left"
     },
     "50": {
         "ナナメ２マスを|左下から彫りぬく|下側を強く彫る": ""
