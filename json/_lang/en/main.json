@@ -30003,13 +30003,13 @@
         "clarity_nt_char_3366": "clarity_nt_char_3366"
     },
     "10002": {
-        "現在のクエスト預かり": ""
+        "現在のクエスト預かり": "Banked Quest EXP"
     },
     "10003": {
         "clarity_nt_char_3367": "clarity_nt_char_3367"
     },
     "10004": {
-        "現在のストーリー預かり": ""
+        "現在のストーリー預かり": "Banked Story EXP"
     },
     "10005": {
         "前回の受け取り<%sM_exp>": "Last Received <%sM_exp>"
@@ -30018,7 +30018,7 @@
         "clarity_nt_char_3368": "clarity_nt_char_3368"
     },
     "10007": {
-        "前回の受け取り日": ""
+        "前回の受け取り日": "Last Received Date"
     },
     "10008": {
         "clarity_nt_char_3369": "clarity_nt_char_3369"
