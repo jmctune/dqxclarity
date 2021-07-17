@@ -21,7 +21,7 @@
         "その他": "Other"
     },
     "8": {
-        "<%sM_TQUEST>（なんでも）": ""
+        "<%sM_TQUEST>（なんでも）": "<%sM_TQUEST> (Anything)"
     },
     "9": {
         "clarity_nt_char_2": "clarity_nt_char_2"
@@ -87,7 +87,7 @@
         "装備品集め": "Find Equipment"
     },
     "30": {
-        "ドルボードレース": ""
+        "ドルボードレース": "Dolboard Race"
     },
     "31": {
         "clarity_nt_char_10": "clarity_nt_char_10"
