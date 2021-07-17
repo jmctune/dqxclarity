@@ -147,7 +147,7 @@
         "ヨコ３マスを|彫りぬく|左側を強く彫る": "Cut 3 hori squares|Cut through|Strong cut the left"
     },
     "50": {
-        "ナナメ２マスを|左下から彫りぬく|下側を強く彫る": ""
+        "ナナメ２マスを|左下から彫りぬく|下側を強く彫る": "Carve two squares|Cut through lower left|Strong cut the bottom"
     },
     "51": {
         "clarity_nt_char_17": "clarity_nt_char_17"
@@ -159,7 +159,7 @@
         "３倍の力で彫る": "Carve with 3x power"
     },
     "54": {
-        "通常より|高い会心率で|彫る": ""
+        "通常より|高い会心率で|彫る": "More often|Quicken your pulse|Carve"
     },
     "55": {
         "clarity_nt_char_18": "clarity_nt_char_18"
