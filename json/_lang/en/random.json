@@ -1386,13 +1386,13 @@
         "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　ダイスをふった。　→　<%dL_VALUE>": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\e rolled a die. 　→ <%dL_VALUE>"
     },
     "463": {
-        "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　コインをなげた。　→　<%sL_STRING>": ""
+        "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　コインをなげた。　→　<%sL_STRING>": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\e flipped a coin.　→　<%sL_STRING>"
     },
     "464": {
         "clarity_nt_char_148": "clarity_nt_char_148"
     },
     "465": {
-        "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　カードを引いた。　→　<%sL_STRING>": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\ drew a card.　→　<%sL_STRING>"
+        "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　カードを引いた。　→　<%sL_STRING>": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\e drew a card.　→　<%sL_STRING>"
     },
     "466": {
         "clarity_nt_char_149": "clarity_nt_char_149"
