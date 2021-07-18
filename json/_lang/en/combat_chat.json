@@ -29328,7 +29328,7 @@
         "もらえる経験値が|ふえた！": ""
     },
     "9777": {
-        "炎耐性がさがった！": "Fire resistance decreased!"
+        "炎耐性がさがった！": "Fire resistance|decreased!"
     },
     "9778": {
         "こうげき時に|マヒしなくなった！": "No longer paralyzed|when attacking!"
@@ -29337,7 +29337,7 @@
         "clarity_nt_char_3252": "clarity_nt_char_3252"
     },
     "9780": {
-        "炎と氷の耐性がさがった！": "Fire and ice resistance|decreased!"
+        "炎と氷の耐性がさがった！": "Fire/ice resistance|decreased!"
     },
     "9781": {
         "clarity_nt_char_3253": "clarity_nt_char_3253"
@@ -29814,7 +29814,7 @@
         "clarity_nt_char_3305": "clarity_nt_char_3305"
     },
     "9939": {
-        "炎と光の耐性が|さがった！": "Fire and light resistance|decreased!"
+        "炎と光の耐性が|さがった！": "Fire/light resistance|decreased!"
     },
     "9940": {
         "氷と風と光の耐性が|さがった！": "Ice/wind/light|resistance down!"
