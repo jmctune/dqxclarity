@@ -3906,7 +3906,7 @@
         "clarity_nt_char_434": "clarity_nt_char_434"
     },
     "1303": {
-        "<speed=0>ドルボードに　乗っている状態では|ドルボード・錬金釜設定を　変更できません！|降りてから　お試しください。　": ""
+        "<speed=0>ドルボードに　乗っている状態では|ドルボード・錬金釜設定を　変更できません！|降りてから　お試しください。　": "<speed=0>You can't change your dolboard or alchemy|pot form while you're riding your dolboard!|Try again after getting off."
     },
     "1304": {
         "<speed=0>かきおきを見せる　フレンドがいません。": ""
@@ -7284,7 +7284,7 @@
         "clarity_nt_char_815": "clarity_nt_char_815"
     },
     "2429": {
-        "<speed=0>ドルボードに　乗っている状態では|ついてクン設定を　変更できません！|降りてから　お試しください。　": ""
+        "<speed=0>ドルボードに　乗っている状態では|ついてクン設定を　変更できません！|降りてから　お試しください。　": "<speed=0>You can't change your current pet|while you're riding your dolboard!|Try again after getting off."
     },
     "2430": {
         "<speed=0>飛竜に　乗っている状態では|ついてクン設定を　変更できません！|降りてから　お試しください。　": "<speed=0>You cannot change pet settings while riding your dragon!"
