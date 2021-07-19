@@ -333,13 +333,13 @@
         "周りの仲間の攻撃力を １段階上げる": "Raise all nearby allies'|attack by 1 stage."
     },
     "112": {
-        "仲間ひとりの テンションが上がった時に|自分も テンションが上がる効果": ""
+        "仲間ひとりの テンションが上がった時に|自分も テンションが上がる効果": "Has a chance of increasing|your tension when an ally's|tension rises."
     },
     "113": {
         "仲間ひとりの テンションを１段階上げる|自分に使うことは できない": "Increase Tension for 1 ally|by 1 level. Cant use on self."
     },
     "114": {
-        "仲間ひとりを ＨＰ１で 生き返らせるが|失敗する時もある": ""
+        "仲間ひとりを ＨＰ１で 生き返らせるが|失敗する時もある": "Revive one ally with 1 HP,|but it might fail."
     },
     "115": {
         "clarity_nt_char_41": "clarity_nt_char_41"
