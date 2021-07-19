@@ -1821,7 +1821,7 @@
         "clarity_nt_char_197": "clarity_nt_char_197"
     },
     "608": {
-        "<%sM_ITEM>を 鑑定した。": ""
+        "<%sM_ITEM>を 鑑定した。": "<%sM_ITEM> was appraised."
     },
     "609": {
         "家具＆庭具おきばに <%sL_ITEM>を <%dL_QUANTITY>個入れた。": ""
@@ -3957,7 +3957,7 @@
         "clarity_nt_char_438": "clarity_nt_char_438"
     },
     "1320": {
-        "鑑定した宝珠から <%sM_SKILL>が開花した！": ""
+        "鑑定した宝珠から <%sM_SKILL>が開花した！": "Learned <%sM_SKILL> from the appraised jewel!"
     },
     "1321": {
         "clarity_nt_char_439": "clarity_nt_char_439"
