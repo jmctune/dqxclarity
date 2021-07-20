@@ -669,7 +669,7 @@
         "clarity_nt_char_71": "clarity_nt_char_71"
     },
     "224": {
-        "状態異常系の成功率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "状態異常系の成功率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Status Effect Success Rate +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "225": {
         "clarity_nt_char_72": "clarity_nt_char_72"
