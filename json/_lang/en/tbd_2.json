@@ -1995,7 +1995,7 @@
         "鳥系に ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
     },
     "666": {
-        "物質系に ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "物質系に ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Damage to Material-types +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "667": {
         "clarity_nt_char_224": "clarity_nt_char_224"
@@ -5322,7 +5322,7 @@
         "clarity_nt_char_603": "clarity_nt_char_603"
     },
     "1775": {
-        "物質系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "物質系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Damage to Material-types <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1776": {
         "スライム系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Damage to Slime-types <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
