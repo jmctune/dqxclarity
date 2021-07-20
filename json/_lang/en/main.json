@@ -1491,7 +1491,7 @@
         "clarity_nt_char_167": "clarity_nt_char_167"
     },
     "498": {
-        "最高連勝数": "Highest No. Won"
+        "最高連勝数": "Highest # Won"
     },
     "499": {
         "敗": ""
@@ -3312,7 +3312,7 @@
         "必要な素材": "Needed Mats."
     },
     "1105": {
-        "必要な数": "No. Needed"
+        "必要な数": "# Needed"
     },
     "1106": {
         "clarity_nt_char_374": "clarity_nt_char_374"
@@ -5817,7 +5817,7 @@
         "カテゴリ７_1": "Category 7_1"
     },
     "1940": {
-        "保存枚数 <%dM_albumRest>/<%dM_albumAll>枚": "No. Saved <%dM_albumRest>/<%dM_albumAll>"
+        "保存枚数 <%dM_albumRest>/<%dM_albumAll>枚": "# Saved <%dM_albumRest>/<%dM_albumAll>"
     },
     "1941": {
         "clarity_nt_char_663": "clarity_nt_char_663"
