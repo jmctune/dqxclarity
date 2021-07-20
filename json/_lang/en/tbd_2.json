@@ -630,7 +630,7 @@
         "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でためる": "Battle Start Tension <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "211": {
-        "敵にあたえるダメージが<%sB_renkin1>になる": ""
+        "敵にあたえるダメージが<%sB_renkin1>になる": "Damage dealt to enemies becomes <%sB_renkin1>."
     },
     "212": {
         "メタル系に +<%sB_renkin1>ダメージ": "Metal-type Damage +<%sB_renkin1>"
