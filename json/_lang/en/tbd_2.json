@@ -642,7 +642,7 @@
         "<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%の確率で受けたダメージ10%反射": ""
     },
     "215": {
-        "攻撃ダメージの <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>% ＨＰが回復": ""
+        "攻撃ダメージの <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>% ＨＰが回復": "Restores <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>% of Attack damage to HP."
     },
     "216": {
         "２回攻撃できる": "Attacks Twice"
