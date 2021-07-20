@@ -1320,7 +1320,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>錬金術師の家": ""
     },
     "441": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・素材屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・素材屋": "<%sW_MAP_NAME><%sW_DELIMITER>Item Shop/Mat. Shop"
     },
     "442": {
         "clarity_nt_char_142": "clarity_nt_char_142"
@@ -7449,7 +7449,7 @@
         "clarity_nt_char_779": "clarity_nt_char_779"
     },
     "2484": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・防具屋・武器屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・防具屋・武器屋": "<%sW_MAP_NAME><%sW_DELIMITER>Item/Weapon/Armor Shop"
     },
     "2485": {
         "clarity_nt_char_780": "clarity_nt_char_780"
@@ -9594,7 +9594,7 @@
         "clarity_nt_char_1022": "clarity_nt_char_1022"
     },
     "3199": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・レシピ屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・レシピ屋": "<%sW_MAP_NAME><%sW_DELIMITER>Item/Recipe Shop"
     },
     "3200": {
         "パルミオの研究所 入口": ""
@@ -10671,7 +10671,7 @@
         "clarity_nt_char_1137": "clarity_nt_char_1137"
     },
     "3558": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・郵便局": "<%sW_MAP_NAME><%sW_DELIMITER>Tool Shop - P. Office"
+        "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・郵便局": "<%sW_MAP_NAME><%sW_DELIMITER>Item Shop/P. Office"
     },
     "3559": {
         "clarity_nt_char_1138": "clarity_nt_char_1138"
