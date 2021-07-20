@@ -3603,7 +3603,7 @@
         "clarity_nt_char_380": "clarity_nt_char_380"
     },
     "1202": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>１階-預かり所": "Depository - 1F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>１階-預かり所": "<%sW_MAP_NAME><%sW_DELIMITER>Depository 1F"
     },
     "1203": {
         "clarity_nt_char_381": "clarity_nt_char_381"
@@ -6285,7 +6285,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_DELIMITER><%dW_AUTODUNG_FLOOR>F<%sW_AUTODUNG_CF>"
     },
     "2096": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>預かり所・よろず屋": "Depository - Item S."
+        "<%sW_MAP_NAME><%sW_DELIMITER>預かり所・よろず屋": "<%sW_MAP_NAME><%sW_DELIMITER>Depository/General Store"
     },
     "2097": {
         "clarity_nt_char_657": "clarity_nt_char_657"
