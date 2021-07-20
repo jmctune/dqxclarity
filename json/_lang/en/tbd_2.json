@@ -696,7 +696,7 @@
         "clarity_nt_char_74": "clarity_nt_char_74"
     },
     "233": {
-        "怪人系に ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "怪人系に ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Damage to Humanoid-types +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "234": {
         "clarity_nt_char_75": "clarity_nt_char_75"
@@ -714,7 +714,7 @@
         "clarity_nt_char_77": "clarity_nt_char_77"
     },
     "239": {
-        "鳥系に ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "鳥系に ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Damage to Bird-types +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "240": {
         "物質系に ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Damage to Material-types +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
