@@ -9738,13 +9738,13 @@
         "マイタウンID：<%04dW_FST_ID>－<%04dW_SEC_ID>": ""
     },
     "3247": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>３号観測小屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>３号観測小屋": "<%sW_MAP_NAME><%sW_DELIMITER>Observation Hut 3"
     },
     "3248": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２号観測小屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>２号観測小屋": "<%sW_MAP_NAME><%sW_DELIMITER>Observation Hut 2"
     },
     "3249": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>１号観測小屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>１号観測小屋": "<%sW_MAP_NAME><%sW_DELIMITER>Observation Hut 1"
     },
     "3250": {
         "<%sW_MAP_NAME><%sW_DELIMITER>第８刻": ""
