@@ -5307,7 +5307,7 @@
         "植物系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Damage to Plant-types <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1770": {
-        "怪人系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "怪人系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Damage to Humanoid-types <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1771": {
         "悪魔系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Damage to Demon-types <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
@@ -5316,7 +5316,7 @@
         "エレ系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Damage to Element-types <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1773": {
-        "鳥系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "鳥系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Damage to Bird-types <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1774": {
         "clarity_nt_char_603": "clarity_nt_char_603"
@@ -5328,13 +5328,13 @@
         "スライム系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Damage to Slime-types <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1777": {
-        "マシン系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "マシン系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Damage to Machine-types <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1778": {
         "clarity_nt_char_604": "clarity_nt_char_604"
     },
     "1779": {
-        "水系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": ""
+        "水系に ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Damage to Water-types <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1780": {
         "clarity_nt_char_605": "clarity_nt_char_605"
