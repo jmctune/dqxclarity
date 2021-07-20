@@ -1611,7 +1611,7 @@
         "倒された数": ""
     },
     "538": {
-        "合計": ""
+        "合計": "Total"
     },
     "539": {
         "clarity_nt_char_181": "clarity_nt_char_181"
@@ -30561,7 +30561,7 @@
         "clarity_nt_char_3433": "clarity_nt_char_3433"
     },
     "10188": {
-        "妖精の姿見の見た目をセットする": ""
+        "妖精の姿見の見た目をセットする": "Set Fairy Mirror's Appearance"
     },
     "10189": {
         "イベント会場": "Event Area"
@@ -30585,7 +30585,7 @@
         "clarity_nt_char_3436": "clarity_nt_char_3436"
     },
     "10196": {
-        "セットした見た目を元に戻す": ""
+        "セットした見た目を元に戻す": "Undo Changes"
     },
     "10197": {
         "近くの対象へ": "Target Nearest"
