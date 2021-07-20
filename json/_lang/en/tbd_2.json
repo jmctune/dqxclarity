@@ -4923,7 +4923,7 @@
         "clarity_nt_char_563": "clarity_nt_char_563"
     },
     "1642": {
-        "通常ドロップ率 <%.1fB_renkin>(<%+.1fB_renkindiff>)倍": "Normal Drop Rate <%.1fB_renkin>(<%+.1fB_renkindiff>)x"
+        "通常ドロップ率 <%.1fB_renkin>(<%+.1fB_renkindiff>)倍": "Normal Drop Rate <%.1fB_renkin> (<%+.1fB_renkindiff>)x"
     },
     "1643": {
         "clarity_nt_char_564": "clarity_nt_char_564"
@@ -5169,7 +5169,7 @@
         "clarity_nt_char_588": "clarity_nt_char_588"
     },
     "1724": {
-        "通常ドロップ率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）倍": "Normal Drop Rate <%.1fB_renkin>(<%+.1fB_renkindiff>)x"
+        "通常ドロップ率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）倍": "Normal Drop Rate <%.1fB_renkin> (<%+.1fB_renkindiff>)x"
     },
     "1725": {
         "攻撃時 <%dB_renkin>（<%+dB_renkindiff>）%でどく": ""
