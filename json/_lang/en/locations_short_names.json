@@ -11541,7 +11541,7 @@
         "clarity_nt_char_1234": "clarity_nt_char_1234"
     },
     "3848": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>聖堂": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>聖堂": "<%sW_MAP_NAME><%sW_DELIMITER>Shrine"
     },
     "3849": {
         "封神の参道 入口": ""
@@ -11760,13 +11760,13 @@
         "女神の祠・風 出口": ""
     },
     "3921": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>聖堂 入口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>聖堂 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Shrine Entry"
     },
     "3922": {
         "clarity_nt_char_1263": "clarity_nt_char_1263"
     },
     "3923": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>聖堂 出口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>聖堂 出口": "<%sW_MAP_NAME><%sW_DELIMITER>Shrine Exit"
     },
     "3924": {
         "clarity_nt_char_1264": "clarity_nt_char_1264"
