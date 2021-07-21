@@ -990,7 +990,7 @@
         "釣りチャレンジを 中断しました": ""
     },
     "331": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから スッパ党との戦いに 誘われました!": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから スッパ党との戦いに 誘われました!": "Invite from \\s<%sC_PC>\\m<%sC_ID>\\e to fight Suppa Party!"
     },
     "332": {
         "clarity_nt_char_107": "clarity_nt_char_107"
@@ -3195,7 +3195,7 @@
         "<%sC_PC_LUA>から 同盟相手に さそわれました！": ""
     },
     "1066": {
-        "スッパ党との戦いに 行きますか？": ""
+        "スッパ党との戦いに 行きますか？": "Go and fight the Suppa Party?"
     },
     "1067": {
         "clarity_nt_char_358": "clarity_nt_char_358"
@@ -3747,7 +3747,7 @@
         "<%sC_TIME>だけ　仲間に入ると|<%sC_leader>に　伝えます。よろしいですか？": ""
     },
     "1250": {
-        "<%sM_monster>との戦いに|行きますか？": ""
+        "<%sM_monster>との戦いに|行きますか？": "Go and fight|<%sM_monster>?"
     },
     "1251": {
         "！！！！！！との戦いに|行きますか？": ""
