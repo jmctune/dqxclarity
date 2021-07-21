@@ -582,7 +582,7 @@
         "<%sL_ITEM><%sL_PLUSNUM>から 汗と涙の結晶を <%dL_NUM>個 取りだした！": ""
     },
     "195": {
-        "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>と <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>を合成して|<%sL_ACCE_ITEM><%sL_PLUSNUM_3>になった！": ""
+        "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>と <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>を合成して|<%sL_ACCE_ITEM><%sL_PLUSNUM_3>になった！": "<%sL_ACCE_ITEM><%sL_PLUSNUM_1> and <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2> were fused|and became <%sL_ACCE_ITEM><%sL_PLUSNUM_3>!"
     },
     "196": {
         "自宅の屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "You took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> from the attic storage of my house."
