@@ -2898,7 +2898,7 @@
         "敵１体に雷の竜で|大ダメージを与え|風耐性も下げる": "A thunder attack|that lowers|wind resistance."
     },
     "967": {
-        "範囲内の敵に|風の刃で２回攻撃|雷耐性も下げる": "Area of wind hits|twice. Lowers|lightning resist."
+        "範囲内の敵に|風の刃で２回攻撃|雷耐性も下げる": "Area of wind hits|twice. Lowers|thunder resist."
     },
     "968": {
         "範囲内にいる|仲間のＨＰを|大幅に回復する": "Restore|large HP|to nearby allies."
@@ -2928,7 +2928,7 @@
         "clarity_nt_char_324": "clarity_nt_char_324"
     },
     "977": {
-        "こうげきに風と|雷のチカラを宿す|魔法戦士専用特技": "Wind/lightning|element is added|to your attacks."
+        "こうげきに風と|雷のチカラを宿す|魔法戦士専用特技": "Wind/thunder|element is added|to your attacks."
     },
     "978": {
         "全職業で|みのまもりが|５増える": "Resilience +5|for all|vocations."
@@ -3738,7 +3738,7 @@
         "clarity_nt_char_417": "clarity_nt_char_417"
     },
     "1247": {
-        "周囲の敵の雷と|風耐性ダウン|踊り子専用": "Lower lightning/|wind resist. of|nearby enemies."
+        "周囲の敵の雷と|風耐性ダウン|踊り子専用": "Lowers thunder/|wind resist. of|nearby enemies."
     },
     "1248": {
         "clarity_nt_char_418": "clarity_nt_char_418"
