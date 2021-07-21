@@ -9465,7 +9465,7 @@
         "clarity_nt_char_1091": "clarity_nt_char_1091"
     },
     "3156": {
-        "買ってくれた人": ""
+        "買ってくれた人": "Buyer"
     },
     "3157": {
         "<%sM_item><%sM_plusnum>を<%2dM_nn>こ　お買い上げ！": "Bought <%sM_item><%sM_plusnum> for <%2dM_nn>!"
@@ -16860,7 +16860,7 @@
         "夢現篇クエスト": "Dream World Quest"
     },
     "5621": {
-        "売上金": ""
+        "売上金": "Earned"
     },
     "5622": {
         "売れたもの": "Items Sold"
