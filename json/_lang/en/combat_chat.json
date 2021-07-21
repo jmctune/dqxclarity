@@ -25011,7 +25011,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 土耐性が さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's earth resist down!"
     },
     "8338": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 雷耐性が さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's lightning resist down!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 雷耐性が さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's thunder resist down!"
     },
     "8339": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 闇耐性が さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's dark resist down!"
@@ -29313,7 +29313,7 @@
         "風耐性があがった！": "Wind resistance|increased!"
     },
     "9772": {
-        "雷耐性があがった！": "Lightning resistance up!"
+        "雷耐性があがった！": "Thunder resistance up!"
     },
     "9773": {
         "土耐性があがった！": "Earth resistance increased!"
@@ -29529,7 +29529,7 @@
         "土耐性がさがった！": "Earth resistance decreased!"
     },
     "9844": {
-        "雷耐性がさがった！": "Lightning resistance|down!"
+        "雷耐性がさがった！": "Thunder resistance|down!"
     },
     "9845": {
         "闇耐性がさがった！": "Dark resistance decreased!"
@@ -30498,7 +30498,7 @@
         "clarity_nt_char_3380": "clarity_nt_char_3380"
     },
     "10167": {
-        "風と雷の耐性が|さがった！": "Wind and lightning|resistance down!"
+        "風と雷の耐性が|さがった！": "Wind/thunder|resistance down!"
     },
     "10168": {
         "炎と風と闇の耐性が|さがった！": "Fire/wind/dark|resistance down!"
@@ -31866,7 +31866,7 @@
         "風耐性がもとにもどった": "Wind resist returned to normal."
     },
     "10623": {
-        "雷耐性がもとにもどった": "Lightning resist|back to normal."
+        "雷耐性がもとにもどった": "Thunder resist|back to normal."
     },
     "10624": {
         "土耐性がもとにもどった": "Earth resist returned to normal."
@@ -32673,7 +32673,7 @@
         "翼の光がきえた": ""
     },
     "10892": {
-        "風と雷の耐性が|もとにもどった": "Wind/lightning resist|returned to normal."
+        "風と雷の耐性が|もとにもどった": "Wind/thunder resist|returned to normal."
     },
     "10893": {
         "炎と風と闇の耐性が|もとにもどった": "Fire/wind/dark resist|returned to normal."
@@ -33081,7 +33081,7 @@
         "clarity_nt_char_3668": "clarity_nt_char_3668"
     },
     "11028": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 雷耐性ダウンの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's lightning resistance down effect extended!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 雷耐性ダウンの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's thunder resistance down effect extended!"
     },
     "11029": {
         "clarity_nt_char_3669": "clarity_nt_char_3669"
@@ -33165,7 +33165,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さらに 生き返りが できなくなった！": ""
     },
     "11056": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 風と雷の耐性ダウンの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's wind/lightning resistance down effect extended!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 風と雷の耐性ダウンの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's wind/thunder resistance down effect extended!"
     },
     "11057": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と風と闇の耐性ダウンの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's fire/wind/dark resistance down effect extended!"
