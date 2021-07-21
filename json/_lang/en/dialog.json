@@ -5475,7 +5475,7 @@
         "clarity_nt_char_616": "clarity_nt_char_616"
     },
     "1826": {
-        "<speed=0>いま着ている　装備セットを|「<%sM_myset>」というコーデ名で|上書き登録しますか？|<yesno><close>": ""
+        "<speed=0>いま着ている　装備セットを|「<%sM_myset>」というコーデ名で|上書き登録しますか？|<yesno><close>": "<speed=0>Would you like to overwrite the set|you are currently wearing with the name|\"<%sM_myset>\"?|<yesno><close>"
     },
     "1827": {
         "clarity_nt_char_617": "clarity_nt_char_617"
@@ -5676,7 +5676,7 @@
         "clarity_nt_char_636": "clarity_nt_char_636"
     },
     "1893": {
-        "<speed=0>|「<%sM_myset2>」というコーデ名で|登録しますか？|<yesno><close>": ""
+        "<speed=0>|「<%sM_myset2>」というコーデ名で|登録しますか？|<yesno><close>": "<speed=0>|Register this glamour with the name|\"<%sM_myset2>\"?|<yesno><close>"
     },
     "1894": {
         "<speed=0>|レンタル期限が切れたので|このレンタル衣装を　着ることはできません！": ""
