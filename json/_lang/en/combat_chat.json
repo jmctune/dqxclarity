@@ -20526,7 +20526,7 @@
         "攻撃呪文に|弱くなる矢を|敵１体に放つ": "A shot that|can greatly lower|spell resistance."
     },
     "6843": {
-        "雷のチカラを|弓矢に宿して|敵１体を射る": "Fires an arrow|with the power|of lightning."
+        "雷のチカラを|弓矢に宿して|敵１体を射る": "Fires an arrow|with the power|of thunder."
     },
     "6844": {
         "clarity_nt_char_2288": "clarity_nt_char_2288"
@@ -20778,7 +20778,7 @@
         "こうげきに|氷のチカラを宿す|魔法戦士専用特技": "Ice element|is added to|your attacks."
     },
     "6927": {
-        "こうげきに風と|雷のチカラを宿す|魔法戦士専用特技": "Wind/lightning|element is added|to your attacks."
+        "こうげきに風と|雷のチカラを宿す|魔法戦士専用特技": "Wind/thunder|element is added|to your attacks."
     },
     "6928": {
         "こうげきに土と|闇のチカラを宿す|魔法戦士専用特技": "Earth/dark|element is added|to your attacks."
@@ -21159,7 +21159,7 @@
         "敵１体に雷の竜で|大ダメージを与え|風耐性も下げる": "A thunder attack|that lowers|wind resistance."
     },
     "7054": {
-        "範囲内の敵に|風の刃で２回攻撃|雷耐性も下げる": "Area of wind hits|twice. Lowers|lightning resist."
+        "範囲内の敵に|風の刃で２回攻撃|雷耐性も下げる": "Area of wind hits|twice. Lowers|thunder resist."
     },
     "7055": {
         "すばやく呪文を|唱えられ|必ず呪文が暴走！": "Spells cast fast|and will surely|go haywire!"
@@ -21780,7 +21780,7 @@
         "clarity_nt_char_2427": "clarity_nt_char_2427"
     },
     "7261": {
-        "周囲の敵の雷と|風耐性ダウン|踊り子専用": "Lower lightning/|wind resist. of|nearby enemies."
+        "周囲の敵の雷と|風耐性ダウン|踊り子専用": "Lowers thunder/|wind resist. of|nearby enemies."
     },
     "7262": {
         "clarity_nt_char_2428": "clarity_nt_char_2428"
@@ -22677,10 +22677,10 @@
         "clarity_nt_char_2522": "clarity_nt_char_2522"
     },
     "7560": {
-        "直線上に土攻撃|雷耐性も下げる|天地雷鳴士専用": "Summon earth|spikes in a line.|Lightning Res.↓"
+        "直線上に土攻撃|雷耐性も下げる|天地雷鳴士専用": "Hurl earth spikes|in a line. Lowers|thunder resist."
     },
     "7561": {
-        "周囲を落雷で攻撃|たまにマヒさせる|天地雷鳴士専用": "Lightning attack|that hits an area|Rarely Paralyzes"
+        "周囲を落雷で攻撃|たまにマヒさせる|天地雷鳴士専用": "An area thunder|attack that may|cause paralysis."
     },
     "7562": {
         "周囲に土ダメージ|風耐性も下げる|天地雷鳴士専用": "Earth attack that|hits in an area|Wind Res.↓"
@@ -24810,7 +24810,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 風耐性が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's wind resistance up!"
     },
     "8271": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 雷耐性が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's lightning resistance up!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 雷耐性が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's thunder resistance up!"
     },
     "8272": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 土耐性が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's earth resistance up!"
