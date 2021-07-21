@@ -23541,7 +23541,7 @@
         "<%sL_PRIZE_ITEM_S>　<%nL_NUM>個": "<%nL_NUM> <%sL_PRIZE_ITEM_S>"
     },
     "7848": {
-        "妖精の姿見のカラーをセットする": ""
+        "妖精の姿見のカラーをセットする": "Set Fairy Mirror's Coloring"
     },
     "7849": {
         "セットしたカラーを元に戻す": "Restore Original Color"
@@ -23556,7 +23556,7 @@
         "clarity_nt_char_2655": "clarity_nt_char_2655"
     },
     "7853": {
-        "お会計": ""
+        "お会計": "Cost"
     },
     "7854": {
         "お花を選んでいません": ""
@@ -27207,7 +27207,7 @@
         "clarity_nt_char_3064": "clarity_nt_char_3064"
     },
     "9070": {
-        "カラフルブーケを割り当てる": ""
+        "カラフルブーケを割り当てる": "Use Colorful Bouquets"
     },
     "9071": {
         "カラーリングする": "Coloring"
