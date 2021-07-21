@@ -2151,7 +2151,7 @@
         "clarity_nt_char_240": "clarity_nt_char_240"
     },
     "718": {
-        "<speed=0><%sM_item><%sM_plusnum>は|今　装備しているものですが|本当に　捨ててもよいですか？<yesno 2><close>": ""
+        "<speed=0><%sM_item><%sM_plusnum>は|今　装備しているものですが|本当に　捨ててもよいですか？<yesno 2><close>": "<speed=0><%sM_item><%sM_plusnum> is currently equipped.|Are you sure you want to throw it away?<yesno 2><close>"
     },
     "719": {
         "clarity_nt_char_241": "clarity_nt_char_241"
@@ -5925,7 +5925,7 @@
         "<speed=0>|ロックされている　装備品ですが|よろしいですか？|<yesno><close>": ""
     },
     "1976": {
-        "<speed=0>|今　装備しているものですが|本当に　わたしますか？|<yesno><close>": ""
+        "<speed=0>|今　装備しているものですが|本当に　わたしますか？|<yesno><close>": "<speed=0>|You already have this equipped. Are you sure|you want this?|<yesno><close>"
     },
     "1977": {
         "clarity_nt_char_664": "clarity_nt_char_664"
