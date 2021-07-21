@@ -822,7 +822,7 @@
         "ブーナー石洞 入口": ""
     },
     "275": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>王立調査団詰所": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>王立調査団詰所": "<%sW_MAP_NAME><%sW_DELIMITER>Royal Survey Team"
     },
     "276": {
         "clarity_nt_char_86": "clarity_nt_char_86"
@@ -834,7 +834,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>女王の間": ""
     },
     "279": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>衛士団詰所": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>衛士団詰所": "<%sW_MAP_NAME><%sW_DELIMITER>Guard Station"
     },
     "280": {
         "clarity_nt_char_87": "clarity_nt_char_87"
@@ -3300,13 +3300,13 @@
         "clarity_nt_char_352": "clarity_nt_char_352"
     },
     "1101": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>３階-王立研究院": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>３階-王立研究院": "<%sW_MAP_NAME><%sW_DELIMITER>3F - Royal Research"
     },
     "1102": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２階-王立研究院": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>２階-王立研究院": "<%sW_MAP_NAME><%sW_DELIMITER>2F - Royal Research"
     },
     "1103": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>１階-王立研究院": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>１階-王立研究院": "<%sW_MAP_NAME><%sW_DELIMITER>1F - Royal Research"
     },
     "1104": {
         "<%sW_MAP_NAME><%sW_DELIMITER>１階-大使室": "<%sW_MAP_NAME><%sW_DELIMITER>1F - Office"
