@@ -357,7 +357,7 @@
         "clarity_nt_char_42": "clarity_nt_char_42"
     },
     "120": {
-        "雷ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": "Lightning Dmg Down <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "雷ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": "Thunder Dmg. Down <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "121": {
         "clarity_nt_char_43": "clarity_nt_char_43"
@@ -501,7 +501,7 @@
         "風属性攻撃": "Wind Element"
     },
     "168": {
-        "雷属性攻撃": "Lightning Elem."
+        "雷属性攻撃": "Thunder Element"
     },
     "169": {
         "土属性攻撃": "Earth Element"
@@ -1476,7 +1476,7 @@
         "行動時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で聖なる祈り": "Care Prayer On Action <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "493": {
-        "雷の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Lightning Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "雷の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Thunder Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "494": {
         "氷の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Ice Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
@@ -1749,7 +1749,7 @@
         "clarity_nt_char_194": "clarity_nt_char_194"
     },
     "584": {
-        "雷ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": "Lightning Dmg Down <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "雷ダメージ <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%減": "Thunder Dmg. Down <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "585": {
         "clarity_nt_char_195": "clarity_nt_char_195"
@@ -2142,7 +2142,7 @@
         "clarity_nt_char_240": "clarity_nt_char_240"
     },
     "715": {
-        "雷の特技の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Lightning Skill Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "雷の特技の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Thunder Skill Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "716": {
         "clarity_nt_char_241": "clarity_nt_char_241"
@@ -2184,7 +2184,7 @@
         "clarity_nt_char_247": "clarity_nt_char_247"
     },
     "729": {
-        "雷の呪文の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Lightning Spell Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "雷の呪文の攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Thunder Spell Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "730": {
         "clarity_nt_char_248": "clarity_nt_char_248"
@@ -2325,7 +2325,7 @@
         "clarity_nt_char_263": "clarity_nt_char_263"
     },
     "776": {
-        "雷の攻撃ダメージ +0.5%": "Lightning Attack Damage +0.5%"
+        "雷の攻撃ダメージ +0.5%": "Thunder Attack Damage +0.5%"
     },
     "777": {
         "clarity_nt_char_264": "clarity_nt_char_264"
@@ -2367,7 +2367,7 @@
         "clarity_nt_char_270": "clarity_nt_char_270"
     },
     "790": {
-        "雷の攻撃ダメージ +1%": "Lightning Attack Damage +1%"
+        "雷の攻撃ダメージ +1%": "Thunder Attack Damage +1%"
     },
     "791": {
         "clarity_nt_char_271": "clarity_nt_char_271"
@@ -2457,7 +2457,7 @@
         "clarity_nt_char_281": "clarity_nt_char_281"
     },
     "820": {
-        "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で雷耐性ダウン": "Lightning Resist Down <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で雷耐性ダウン": "Thunder Resist Down <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "821": {
         "clarity_nt_char_282": "clarity_nt_char_282"
@@ -2487,7 +2487,7 @@
         "全ての氷攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "All Ice Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "830": {
-        "全ての雷攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "All Lightning Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "全ての雷攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "All Thunder Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "831": {
         "全ての土攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "All Earth Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
@@ -2574,7 +2574,7 @@
         "clarity_nt_char_297": "clarity_nt_char_297"
     },
     "859": {
-        "右手に片手剣装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Sword Lightning Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に片手剣装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Sword Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "860": {
         "clarity_nt_char_298": "clarity_nt_char_298"
@@ -2607,7 +2607,7 @@
         "両手剣装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Claymore Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "870": {
-        "両手剣装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Claymore Lightning Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "両手剣装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Claymore Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "871": {
         "両手剣装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Claymore Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -2628,7 +2628,7 @@
         "右手に短剣装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Dagger Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "877": {
-        "右手に短剣装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Dagger Lightning Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に短剣装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Dagger Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "878": {
         "右手に短剣装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Dagger Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -2658,7 +2658,7 @@
         "clarity_nt_char_304": "clarity_nt_char_304"
     },
     "887": {
-        "右手にスティック時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Wand Lightning Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にスティック時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Wand Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "888": {
         "clarity_nt_char_305": "clarity_nt_char_305"
@@ -2691,7 +2691,7 @@
         "両手杖装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Claymore Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "898": {
-        "両手杖装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Claymore Lightning Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "両手杖装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Claymore Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "899": {
         "両手杖装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Claymore Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
