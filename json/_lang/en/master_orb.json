@@ -7347,19 +7347,19 @@
         "風ダメージ ５％減": "Wind Damage -5%"
     },
     "2450": {
-        "雷ダメージ １％減": "Lightning Damage -1%"
+        "雷ダメージ １％減": "Thunder Damage -1%"
     },
     "2451": {
-        "雷ダメージ ２％減": "Lightning Damage -2%"
+        "雷ダメージ ２％減": "Thunder Damage -2%"
     },
     "2452": {
-        "雷ダメージ ３％減": "Lightning Damage -3%"
+        "雷ダメージ ３％減": "Thunder Damage -3%"
     },
     "2453": {
-        "雷ダメージ ４％減": "Lightning Damage -4%"
+        "雷ダメージ ４％減": "Thunder Damage -4%"
     },
     "2454": {
-        "雷ダメージ ５％減": "Lightning Damage -5%"
+        "雷ダメージ ５％減": "Thunder Damage -5%"
     },
     "2455": {
         "闇ダメージ １％減": "Dark Damage -1%"
@@ -9168,7 +9168,7 @@
         "clarity_nt_char_1052": "clarity_nt_char_1052"
     },
     "3057": {
-        "受ける雷ダメージを１％減らす": "Reduces lightning damage taken by 1%."
+        "受ける雷ダメージを１％減らす": "Reduces thunder damage taken by 1%."
     },
     "3058": {
         "clarity_nt_char_1053": "clarity_nt_char_1053"
@@ -10323,7 +10323,7 @@
         "氷耐性＋１２％": "Ice Resist +12%"
     },
     "3442": {
-        "風と雷耐性＋１２％": "Wind/Lightning Resist +12%"
+        "風と雷耐性＋１２％": "Wind/Thunder Resist +12%"
     },
     "3443": {
         "闇と土耐性＋１２％": "Dark/Earth Resist +12%"
@@ -10653,7 +10653,7 @@
         "風ダメージ ６％減": "Wind Resist 6%"
     },
     "3552": {
-        "雷ダメージ ６％減": "Lightning Resist 6%"
+        "雷ダメージ ６％減": "Thunder Resist 6%"
     },
     "3553": {
         "闇ダメージ ６％減": "Dark Resist 6%"
@@ -18075,19 +18075,19 @@
         "風ダメージ 6%減": "Wind Resist 6%"
     },
     "6026": {
-        "雷ダメージ 2%減": "Lightning Resist 2%"
+        "雷ダメージ 2%減": "Thunder Resist 2%"
     },
     "6027": {
-        "雷ダメージ 3%減": "Lightning Resist 3%"
+        "雷ダメージ 3%減": "Thunder Resist 3%"
     },
     "6028": {
-        "雷ダメージ 4%減": "Lightning Resist 4%"
+        "雷ダメージ 4%減": "Thunder Resist 4%"
     },
     "6029": {
-        "雷ダメージ 5%減": "Lightning Resist 5%"
+        "雷ダメージ 5%減": "Thunder Resist 5%"
     },
     "6030": {
-        "雷ダメージ 6%減": "Lightning Resist 6%"
+        "雷ダメージ 6%減": "Thunder Resist 6%"
     },
     "6031": {
         "闇ダメージ 2%減": "Dark Resist 2%"
