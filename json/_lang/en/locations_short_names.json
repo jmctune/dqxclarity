@@ -870,7 +870,7 @@
         "clarity_nt_char_92": "clarity_nt_char_92"
     },
     "291": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>王子の部屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>王子の部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Prince's Room"
     },
     "292": {
         "clarity_nt_char_93": "clarity_nt_char_93"
@@ -2868,7 +2868,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>宿屋２階": ""
     },
     "957": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>大使室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>大使室": "<%sW_MAP_NAME><%sW_DELIMITER>Office"
     },
     "958": {
         "clarity_nt_char_306": "clarity_nt_char_306"
@@ -3309,7 +3309,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>１階-王立研究院": ""
     },
     "1104": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>１階-大使室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>１階-大使室": "<%sW_MAP_NAME><%sW_DELIMITER>1F - Office"
     },
     "1105": {
         "<%sW_MAP_NAME><%sW_DELIMITER>２階-書物庫": ""
