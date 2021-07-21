@@ -999,7 +999,7 @@
         "預かり所で 倉庫の名前を <%sL_STORAGE>から <%sL_STORAGE2>に 変えた！": ""
     },
     "334": {
-        "<%sL_ACCE_ITEM><%sL_PLUSNUM>の <%sL_KOUKA>を 消した。": ""
+        "<%sL_ACCE_ITEM><%sL_PLUSNUM>の <%sL_KOUKA>を 消した。": "<%sL_ACCE_ITEM><%sL_PLUSNUM>'s <%sL_KOUKA> was removed."
     },
     "335": {
         "カジノコイン <%dL_casinocoin>枚と <%sM_item>を 交換した！": ""
