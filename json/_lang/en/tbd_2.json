@@ -2721,7 +2721,7 @@
         "clarity_nt_char_311": "clarity_nt_char_311"
     },
     "908": {
-        "ヤリ装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Spear Lightning Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "ヤリ装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Spear Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "909": {
         "clarity_nt_char_312": "clarity_nt_char_312"
@@ -2763,7 +2763,7 @@
         "clarity_nt_char_318": "clarity_nt_char_318"
     },
     "922": {
-        "オノ装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Axe Lightning Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "オノ装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Axe Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "923": {
         "clarity_nt_char_319": "clarity_nt_char_319"
@@ -2796,7 +2796,7 @@
         "右手にハンマー時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Hammer Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "933": {
-        "右手にハンマー時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Hammer Lightning Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にハンマー時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Hammer Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "934": {
         "右手にハンマー時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Hammer Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -2817,7 +2817,7 @@
         "棍装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Rod Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "940": {
-        "棍装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Rod Lightning Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "棍装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Rod Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "941": {
         "棍装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Rod Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -2847,7 +2847,7 @@
         "clarity_nt_char_325": "clarity_nt_char_325"
     },
     "950": {
-        "ツメ装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Claw Lightning Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "ツメ装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Claw Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "951": {
         "clarity_nt_char_326": "clarity_nt_char_326"
@@ -2889,7 +2889,7 @@
         "clarity_nt_char_332": "clarity_nt_char_332"
     },
     "964": {
-        "右手に扇装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Fan Lightning Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に扇装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Fan Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "965": {
         "clarity_nt_char_333": "clarity_nt_char_333"
@@ -2931,7 +2931,7 @@
         "clarity_nt_char_339": "clarity_nt_char_339"
     },
     "978": {
-        "ムチ装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Whip Lightning Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "ムチ装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Whip Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "979": {
         "clarity_nt_char_340": "clarity_nt_char_340"
@@ -2973,7 +2973,7 @@
         "clarity_nt_char_346": "clarity_nt_char_346"
     },
     "992": {
-        "右手にブーメラン時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Boomerang Lightning Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にブーメラン時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Boomerang Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "993": {
         "clarity_nt_char_347": "clarity_nt_char_347"
@@ -3006,7 +3006,7 @@
         "弓装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Bow Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "1003": {
-        "弓装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Bow Lightning Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "弓装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Bow Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "1004": {
         "弓装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Bow Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -3099,7 +3099,7 @@
         "clarity_nt_char_360": "clarity_nt_char_360"
     },
     "1034": {
-        "攻撃時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で雷耐性ダウン": "Lightning Resist Down Attack <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "攻撃時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で雷耐性ダウン": "Thunder Resist Down Attack <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "1035": {
         "clarity_nt_char_361": "clarity_nt_char_361"
@@ -4890,7 +4890,7 @@
         "clarity_nt_char_558": "clarity_nt_char_558"
     },
     "1631": {
-        "雷ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": "Lightning Dmg Down <%sB_renkin1>(<%+dB_renkindiff>)%"
+        "雷ダメージ <%sB_renkin1>(<%+dB_renkindiff>)%減": "Thunder Dmg. Down <%sB_renkin1> (<%+dB_renkindiff>)%"
     },
     "1632": {
         "clarity_nt_char_559": "clarity_nt_char_559"
@@ -5136,7 +5136,7 @@
         "clarity_nt_char_583": "clarity_nt_char_583"
     },
     "1713": {
-        "雷ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": "Lightning Dmg Down <%+dB_renkin> (<%+dB_renkindiff>)%"
+        "雷ダメージ <%+dB_renkin>（<%+dB_renkindiff>）%減": "Thunder Dmg. Down <%+dB_renkin> (<%+dB_renkindiff>)%"
     },
     "1714": {
         "clarity_nt_char_584": "clarity_nt_char_584"
@@ -5385,7 +5385,7 @@
         "風の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Wind Skill Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1796": {
-        "雷の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Lightning Skill Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
+        "雷の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Thunder Skill Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1797": {
         "土の特技の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Earth Skill Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
@@ -5406,7 +5406,7 @@
         "風の呪文の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Wind Spell Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1803": {
-        "雷の呪文の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Lightning Spell Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
+        "雷の呪文の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Thunder Spell Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1804": {
         "土の呪文の攻撃ダメージ <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Earth Spell Damage <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
@@ -5577,7 +5577,7 @@
         "風ダメージ ？%減": "Wind Damage Down ?%"
     },
     "1860": {
-        "雷ダメージ ？%減": "Lightning Dmg. Down ?%"
+        "雷ダメージ ？%減": "Thunder Dmg. Down ?%"
     },
     "1861": {
         "土ダメージ ？%減": "Earth Damage Down -?%"
@@ -5751,7 +5751,7 @@
         "clarity_nt_char_638": "clarity_nt_char_638"
     },
     "1918": {
-        "雷の攻撃ダメージ +？%": "Lightning Attack Damage +?%"
+        "雷の攻撃ダメージ +？%": "Thunder Attack Damage +?%"
     },
     "1919": {
         "clarity_nt_char_639": "clarity_nt_char_639"
@@ -5982,7 +5982,7 @@
         "風の特技の攻撃ダメージ +？%": "Wind Skill Damage +?%"
     },
     "1995": {
-        "雷の特技の攻撃ダメージ +？%": "Lightning Skill Damage +?%"
+        "雷の特技の攻撃ダメージ +？%": "Thunder Skill Damage +?%"
     },
     "1996": {
         "土の特技の攻撃ダメージ +？%": "Earth Skill Damage +?%"
@@ -6003,7 +6003,7 @@
         "風の呪文の攻撃ダメージ +？%": "Wind Spell Damage +?%"
     },
     "2002": {
-        "雷の呪文の攻撃ダメージ +？%": "Lightning Spell Damage +?%"
+        "雷の呪文の攻撃ダメージ +？%": "Thunder Spell Damage +?%"
     },
     "2003": {
         "土の呪文の攻撃ダメージ +？%": "Earth Spell Damage +?%"
@@ -6243,7 +6243,7 @@
         "片手剣装備時　風の攻撃ダメージ +？%": "With Sword Wind Attack Damage +?%"
     },
     "2082": {
-        "片手剣装備時　雷の攻撃ダメージ +？%": "With Sword Lightning Attack Damage +?%"
+        "片手剣装備時　雷の攻撃ダメージ +？%": "With Sword Thunder Attack Damage +?%"
     },
     "2083": {
         "片手剣装備時　土の攻撃ダメージ +？%": "With Sword Earth Attack Damage +?%"
@@ -6264,7 +6264,7 @@
         "両手剣装備時　風の攻撃ダメージ +？%": "With Claymore Wind Attack Damage +?%"
     },
     "2089": {
-        "両手剣装備時　雷の攻撃ダメージ +？%": "With Claymore Lightning Attack Damage +?%"
+        "両手剣装備時　雷の攻撃ダメージ +？%": "With Claymore Thunder Attack Damage +?%"
     },
     "2090": {
         "両手剣装備時　土の攻撃ダメージ +？%": "With Claymore Earth Attack Damage +?%"
@@ -6294,7 +6294,7 @@
         "clarity_nt_char_691": "clarity_nt_char_691"
     },
     "2099": {
-        "短剣装備時　雷の攻撃ダメージ +？%": "With Dagger Lightning Attack Damage +?%"
+        "短剣装備時　雷の攻撃ダメージ +？%": "With Dagger Thunder Attack Damage +?%"
     },
     "2100": {
         "clarity_nt_char_692": "clarity_nt_char_692"
@@ -6327,7 +6327,7 @@
         "スティック装備時　風の攻撃ダメージ +？%": "With Wand Wind Attack Damage +?%"
     },
     "2110": {
-        "スティック装備時　雷の攻撃ダメージ +？%": "With Wand Lightning Attack Damage +?%"
+        "スティック装備時　雷の攻撃ダメージ +？%": "With Wand Thunder Attack Damage +?%"
     },
     "2111": {
         "スティック装備時　土の攻撃ダメージ +？%": "With Wand Earth Attack Damage +?%"
@@ -6348,7 +6348,7 @@
         "両手杖装備時　風の攻撃ダメージ +？%": "With Staff Wind Attack Damage +?%"
     },
     "2117": {
-        "両手杖装備時　雷の攻撃ダメージ +？%": "With Staff Lightning Attack Damage +?%"
+        "両手杖装備時　雷の攻撃ダメージ +？%": "With Staff Thunder Attack Damage +?%"
     },
     "2118": {
         "両手杖装備時　土の攻撃ダメージ +？%": "With Staff Earth Attack Damage +?%"
@@ -6378,7 +6378,7 @@
         "clarity_nt_char_698": "clarity_nt_char_698"
     },
     "2127": {
-        "ヤリ装備時　雷の攻撃ダメージ +？%": "With Spear Lightning Attack Damage +?%"
+        "ヤリ装備時　雷の攻撃ダメージ +？%": "With Spear Thunder Attack Damage +?%"
     },
     "2128": {
         "clarity_nt_char_699": "clarity_nt_char_699"
@@ -6420,7 +6420,7 @@
         "clarity_nt_char_705": "clarity_nt_char_705"
     },
     "2141": {
-        "オノ装備時　雷の攻撃ダメージ +？%": "With Axe Lightning Attack Damage +?%"
+        "オノ装備時　雷の攻撃ダメージ +？%": "With Axe Thunder Attack Damage +?%"
     },
     "2142": {
         "clarity_nt_char_706": "clarity_nt_char_706"
@@ -6462,7 +6462,7 @@
         "clarity_nt_char_712": "clarity_nt_char_712"
     },
     "2155": {
-        "ハンマー装備時　雷の攻撃ダメージ +？%": "With Hammer Lightning Attack Damage +?%"
+        "ハンマー装備時　雷の攻撃ダメージ +？%": "With Hammer Thunder Attack Damage +?%"
     },
     "2156": {
         "clarity_nt_char_713": "clarity_nt_char_713"
@@ -6495,7 +6495,7 @@
         "棍装備時　風の攻撃ダメージ +？%": "With Rod Wind Attack Damage +?%"
     },
     "2166": {
-        "棍装備時　雷の攻撃ダメージ +？%": "With Rod Lightning Attack Damage +?%"
+        "棍装備時　雷の攻撃ダメージ +？%": "With Rod Thunder Attack Damage +?%"
     },
     "2167": {
         "棍装備時　土の攻撃ダメージ +？%": "With Rod Earth Attack Damage +?%"
@@ -6525,7 +6525,7 @@
         "clarity_nt_char_719": "clarity_nt_char_719"
     },
     "2176": {
-        "ツメ装備時　雷の攻撃ダメージ +？%": "With Claw Lightning Attack Damage +?%"
+        "ツメ装備時　雷の攻撃ダメージ +？%": "With Claw Thunder Attack Damage +?%"
     },
     "2177": {
         "clarity_nt_char_720": "clarity_nt_char_720"
@@ -6558,7 +6558,7 @@
         "扇装備時　風の攻撃ダメージ +？%": "With Fan Wind Attack Damage +?%"
     },
     "2187": {
-        "扇装備時　雷の攻撃ダメージ +？%": "With Fan Lightning Attack Damage +?%"
+        "扇装備時　雷の攻撃ダメージ +？%": "With Fan Thunder Attack Damage +?%"
     },
     "2188": {
         "扇装備時　土の攻撃ダメージ +？%": "With Fan Earth Attack Damage +?%"
@@ -6588,7 +6588,7 @@
         "clarity_nt_char_726": "clarity_nt_char_726"
     },
     "2197": {
-        "ムチ装備時　雷の攻撃ダメージ +？%": "With Whip Lightning Attack Damage +?%"
+        "ムチ装備時　雷の攻撃ダメージ +？%": "With Whip Thunder Attack Damage +?%"
     },
     "2198": {
         "clarity_nt_char_727": "clarity_nt_char_727"
@@ -6621,7 +6621,7 @@
         "ブーメラン装備時　風の攻撃ダメージ +？%": "With Boomerang Wind Attack Damage +?%"
     },
     "2208": {
-        "ブーメラン装備時　雷の攻撃ダメージ +？%": "With Boomerang Lightning Attack Damage +?%"
+        "ブーメラン装備時　雷の攻撃ダメージ +？%": "With Boomerang Thunder Attack Damage +?%"
     },
     "2209": {
         "ブーメラン装備時　土の攻撃ダメージ +？%": "With Boomerang Earth Attack Damage +?%"
@@ -6642,7 +6642,7 @@
         "弓装備時　風の攻撃ダメージ +？%": "With Bow Wind Attack Damage +?%"
     },
     "2215": {
-        "弓装備時　雷の攻撃ダメージ +？%": "With Bow Lightning Attack Damage +?%"
+        "弓装備時　雷の攻撃ダメージ +？%": "With Bow Thunder Attack Damage +?%"
     },
     "2216": {
         "弓装備時　土の攻撃ダメージ +？%": "With Bow Earth Attack Damage +?%"
@@ -6807,7 +6807,7 @@
         "鎌装備時　風の攻撃ダメージ +？%": "With Sickle Wind Attack Damage +?%"
     },
     "2270": {
-        "鎌装備時　雷の攻撃ダメージ +？%": "With Sickle Lightning Attack Damage +?%"
+        "鎌装備時　雷の攻撃ダメージ +？%": "With Sickle Thunder Attack Damage +?%"
     },
     "2271": {
         "鎌装備時　土の攻撃ダメージ +？%": "With Sickle Earth Attack Damage +?%"
