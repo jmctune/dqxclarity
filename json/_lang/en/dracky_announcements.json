@@ -951,7 +951,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eにより ふしぎなすれちがいを達成！": ""
     },
     "318": {
-        "<%sC_MONSTER>との戦いにさそわれました！": ""
+        "<%sC_MONSTER>との戦いにさそわれました！": "Invited to fight <%sC_MONSTER>!"
     },
     "319": {
         "clarity_nt_char_104": "clarity_nt_char_104"
