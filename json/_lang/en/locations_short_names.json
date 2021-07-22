@@ -11316,25 +11316,25 @@
         "clarity_nt_char_1209": "clarity_nt_char_1209"
     },
     "3773": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔１階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔１階": "<%sW_MAP_NAME><%sW_DELIMITER>Sun Tower 1F"
     },
     "3774": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔２階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔２階": "<%sW_MAP_NAME><%sW_DELIMITER>Sun Tower 2F"
     },
     "3775": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔３階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔３階": "<%sW_MAP_NAME><%sW_DELIMITER>Sun Tower 3F"
     },
     "3776": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔４階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔４階": "<%sW_MAP_NAME><%sW_DELIMITER>Sun Tower 4F"
     },
     "3777": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔５階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔５階": "<%sW_MAP_NAME><%sW_DELIMITER>Sun Tower 5F"
     },
     "3778": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔６階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔６階": "<%sW_MAP_NAME><%sW_DELIMITER>Sun Tower 6F"
     },
     "3779": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔最上層": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔最上層": "<%sW_MAP_NAME><%sW_DELIMITER>Sun Tower Upper"
     },
     "3780": {
         "clarity_nt_char_1210": "clarity_nt_char_1210"
@@ -11385,7 +11385,7 @@
         "clarity_nt_char_1217": "clarity_nt_char_1217"
     },
     "3796": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔": "<%sW_MAP_NAME><%sW_DELIMITER>Sun Tower"
     },
     "3797": {
         "<%sW_MAP_NAME><%sW_DELIMITER>月の塔": "<%sW_MAP_NAME><%sW_DELIMITER>Moon Twr."
@@ -11604,7 +11604,7 @@
         "clarity_nt_char_1242": "clarity_nt_char_1242"
     },
     "3869": {
-        "太陽の塔 入口": ""
+        "太陽の塔 入口": "Sun Tower Entry"
     },
     "3870": {
         "月の塔 入口": "Moon Twr. Entry"
@@ -11634,7 +11634,7 @@
         "clarity_nt_char_1246": "clarity_nt_char_1246"
     },
     "3879": {
-        "太陽の塔 出口": ""
+        "太陽の塔 出口": "Sun Tower Exit"
     },
     "3880": {
         "屋内への扉": ""
