@@ -11379,7 +11379,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>月の塔最上層": ""
     },
     "3794": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>星の塔": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>星の塔": "<%sW_MAP_NAME><%sW_DELIMITER>Star Twr."
     },
     "3795": {
         "clarity_nt_char_1217": "clarity_nt_char_1217"
@@ -11598,7 +11598,7 @@
         "ルクスガルン大空洞への亀裂": ""
     },
     "3867": {
-        "星の塔 入口": ""
+        "星の塔 入口": "Star Twr. Entry"
     },
     "3868": {
         "clarity_nt_char_1242": "clarity_nt_char_1242"
@@ -11628,7 +11628,7 @@
         "屋上 入口": ""
     },
     "3877": {
-        "星の塔 出口": ""
+        "星の塔 出口": "Star Twr. Exit"
     },
     "3878": {
         "clarity_nt_char_1246": "clarity_nt_char_1246"
