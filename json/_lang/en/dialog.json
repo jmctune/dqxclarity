@@ -9504,7 +9504,7 @@
         "clarity_nt_char_1069": "clarity_nt_char_1069"
     },
     "3169": {
-        "<speed=0>種族を切り替えます。|編集中の　『美容院の姿見』の見た目は|破棄されますが　よろしいですか？<yesno><close>": ""
+        "<speed=0>種族を切り替えます。|編集中の　『美容院の姿見』の見た目は|破棄されますが　よろしいですか？<yesno><close>": "<speed=0>You're about to change races. Your changes|here will be discarded, is this okay?<yesno><close>"
     },
     "3170": {
         "<speed=0>チームドルボードは|妖精の姿見に　うつせません。": ""
