@@ -2427,7 +2427,7 @@
         "踊らされガード +100%": "Dance Guard +100%"
     },
     "810": {
-        "チャージタイム <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>秒": ""
+        "チャージタイム <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>秒": "Charge Time <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka> sec."
     },
     "811": {
         "呪文ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Spell Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
