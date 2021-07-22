@@ -129,7 +129,7 @@
         "見つかっちゃった！": "I found it!"
     },
     "44": {
-        "<speed=0>|<%sM_pc>は　パーティで集めたスコアを|自分のトータルポイント　<%dL_FIND_POINT> Pとして|手に入れた！<se_nots System 7><auto_bw=10000><close>": ""
+        "<speed=0>|<%sM_pc>は　パーティで集めたスコアを|自分のトータルポイント　<%dL_FIND_POINT> Pとして|手に入れた！<se_nots System 7><auto_bw=10000><close>": "<speed=0>|<%sM_pc>'s total score received at the party was|<%dL_FIND_POINT> P!<se_nots System 7><auto_bw=10000><close>"
     },
     "45": {
         "<speed=0>|今回は　トータルポイントを入手できなかった。<auto_bw=10000><close>": ""
