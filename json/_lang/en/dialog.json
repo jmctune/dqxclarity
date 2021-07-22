@@ -9663,7 +9663,7 @@
         "clarity_nt_char_1088": "clarity_nt_char_1088"
     },
     "3222": {
-        "<speed=0>|新品の装備品が　含まれています。|一度　マイコーデに登録すると　他の人に|渡せなくなりますが　よろしいですか？|<yesno2><close>": "<speed=0>|This glamour set includes new equipment.|If you register it, it will no longer be new and you|can't give it to other players. Is this okay?|<yesno2><close>"
+        "<speed=0>|新品の装備品が　含まれています。|一度　マイコーデに登録すると　他の人に|渡せなくなりますが　よろしいですか？|<yesno2><close>": "<speed=0>|This glamour set includes new equipment. If|you register it, it will no longer be new and you|can't give it to other players. Is this okay?|<yesno2><close>"
     },
     "3223": {
         "<speed=0>|この装備品は　性別が合わないため|装備できません。": ""
