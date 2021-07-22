@@ -1356,7 +1356,7 @@
         "次の階に進む扉の封印が 解かれました！": "Door to the next floor unlocked!"
     },
     "453": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが 封印の箱を開きました！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが 封印の箱を開きました！": "\\s<%sC_PC>\\m<%sC_ID>\\e opened the sealed chest!"
     },
     "454": {
         "水着以外を着て 水の中に入ることは できません!": "Put on only a swimsuit to be able to swim!"
