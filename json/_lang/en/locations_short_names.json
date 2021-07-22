@@ -3522,7 +3522,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>便せん屋": "<%sW_MAP_NAME><%sW_DELIMITER>Stationery"
     },
     "1175": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>店内": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>店内": "<%sW_MAP_NAME><%sW_DELIMITER>Inside"
     },
     "1176": {
         "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>迷宮の主の間への道<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%dW_AUTODUNG_LV><%sW_DELIMITER>Maze Lord Way<%sW_AUTODUNG_CF>"
