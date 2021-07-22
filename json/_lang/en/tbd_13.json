@@ -147,16 +147,16 @@
         "clarity_nt_char_16": "clarity_nt_char_16"
     },
     "50": {
-        "<speed=0>|第１位　<%sM_PCNAME>……<%dL_FIND_POINT> P|第２位　<%sM_PCNAME2>……<%dL_FIND_POINT2> P|第３位　<%sM_PCNAME3>……<%dL_FIND_POINT3> P<auto_bw=10000>": ""
+        "<speed=0>|第１位　<%sM_PCNAME>……<%dL_FIND_POINT> P|第２位　<%sM_PCNAME2>……<%dL_FIND_POINT2> P|第３位　<%sM_PCNAME3>……<%dL_FIND_POINT3> P<auto_bw=10000>": "<speed=0>|1st Place: <%sM_PCNAME>……<%dL_FIND_POINT> P|2nd Place: <%sM_PCNAME2>……<%dL_FIND_POINT2>|3rd Place: <%sM_PCNAME3>……<%dL_FIND_POINT3><auto_bw=10000>"
     },
     "51": {
-        "見つかっちゃった！|他の人にも　会いたいな": ""
+        "見つかっちゃった！|他の人にも　会いたいな": "I found it! I want to|meet other people."
     },
     "52": {
-        "見つかっちゃった！|ボクは　おうちに帰るね": ""
+        "見つかっちゃった！|ボクは　おうちに帰るね": "I found it! I'm gonna|go home."
     },
     "53": {
-        "あらまあ！": ""
+        "あらまあ！": "Oh, yeah!"
     },
     "54": {
         "おやおや！": ""
