@@ -11340,43 +11340,43 @@
         "clarity_nt_char_1210": "clarity_nt_char_1210"
     },
     "3781": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>月の塔１階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>月の塔１階": "<%sW_MAP_NAME><%sW_DELIMITER>Moon Tower 1F"
     },
     "3782": {
         "clarity_nt_char_1211": "clarity_nt_char_1211"
     },
     "3783": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>月の塔２階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>月の塔２階": "<%sW_MAP_NAME><%sW_DELIMITER>Moon Tower 2F"
     },
     "3784": {
         "clarity_nt_char_1212": "clarity_nt_char_1212"
     },
     "3785": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>月の塔３階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>月の塔３階": "<%sW_MAP_NAME><%sW_DELIMITER>Moon Tower 3F"
     },
     "3786": {
         "clarity_nt_char_1213": "clarity_nt_char_1213"
     },
     "3787": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>月の塔４階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>月の塔４階": "<%sW_MAP_NAME><%sW_DELIMITER>Moon Tower 4F"
     },
     "3788": {
         "clarity_nt_char_1214": "clarity_nt_char_1214"
     },
     "3789": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>月の塔５階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>月の塔５階": "<%sW_MAP_NAME><%sW_DELIMITER>Moon Tower 5F"
     },
     "3790": {
         "clarity_nt_char_1215": "clarity_nt_char_1215"
     },
     "3791": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>月の塔６階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>月の塔６階": "<%sW_MAP_NAME><%sW_DELIMITER>Moon Tower 6F"
     },
     "3792": {
         "clarity_nt_char_1216": "clarity_nt_char_1216"
     },
     "3793": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>月の塔最上層": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>月の塔最上層": "<%sW_MAP_NAME><%sW_DELIMITER>Moon Tower Upper"
     },
     "3794": {
         "<%sW_MAP_NAME><%sW_DELIMITER>星の塔": "<%sW_MAP_NAME><%sW_DELIMITER>Star Twr."
@@ -11388,7 +11388,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔": ""
     },
     "3797": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>月の塔": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>月の塔": "<%sW_MAP_NAME><%sW_DELIMITER>Moon Twr."
     },
     "3798": {
         "clarity_nt_char_1218": "clarity_nt_char_1218"
@@ -11607,7 +11607,7 @@
         "太陽の塔 入口": ""
     },
     "3870": {
-        "月の塔 入口": ""
+        "月の塔 入口": "Moon Twr. Entry"
     },
     "3871": {
         "clarity_nt_char_1243": "clarity_nt_char_1243"
@@ -11652,7 +11652,7 @@
         "clarity_nt_char_1247": "clarity_nt_char_1247"
     },
     "3885": {
-        "月の塔 出口": ""
+        "月の塔 出口": "Moon Twr. Exit"
     },
     "3886": {
         "clarity_nt_char_1248": "clarity_nt_char_1248"
