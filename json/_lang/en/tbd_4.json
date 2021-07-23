@@ -3,19 +3,19 @@
         "たたく": "Hit"
     },
     "2": {
-        "上下打ち": ""
+        "上下打ち": "Up Down Hit"
     },
     "3": {
         "clarity_nt_char_1": "clarity_nt_char_1"
     },
     "4": {
-        "４連打ち": ""
+        "４連打ち": "Multibash"
     },
     "5": {
         "clarity_nt_char_2": "clarity_nt_char_2"
     },
     "6": {
-        "超４連打ち": ""
+        "超４連打ち": "Super Multibash"
     },
     "7": {
         "ななめ打ち": ""
