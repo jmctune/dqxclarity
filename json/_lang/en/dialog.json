@@ -3198,7 +3198,7 @@
         "仲間からの|「ついていく」を|許すか設定します": "Choose to allow|your friends to|follow you."
     },
     "1067": {
-        "<speed=0>ここでは　どうぐを　使えない！": ""
+        "<speed=0>ここでは　どうぐを　使えない！": "<speed=0>You can't use items here!"
     },
     "1068": {
         "clarity_nt_char_359": "clarity_nt_char_359"
@@ -3213,10 +3213,10 @@
         "clarity_nt_char_360": "clarity_nt_char_360"
     },
     "1072": {
-        "<speed=0>ここでは　じゅもんを　使えない！": ""
+        "<speed=0>ここでは　じゅもんを　使えない！": "<speed=0>You can't use spells here!"
     },
     "1073": {
-        "<speed=0>ここでは　とくぎを　使えない！": ""
+        "<speed=0>ここでは　とくぎを　使えない！": "<speed=0>You can't use skills here!"
     },
     "1074": {
         "clarity_nt_char_361": "clarity_nt_char_361"
@@ -3939,7 +3939,7 @@
         "clarity_nt_char_437": "clarity_nt_char_437"
     },
     "1314": {
-        "<speed=0>ここでは　<%sM_item>は|使えない！": ""
+        "<speed=0>ここでは　<%sM_item>は|使えない！": "<speed=0>You can't use <%sM_item>|here!"
     },
     "1315": {
         "<speed=0>チームメンバーへのかきおきメモを変更しました。": ""
@@ -4476,7 +4476,7 @@
         "clarity_nt_char_500": "clarity_nt_char_500"
     },
     "1493": {
-        "<speed=0>ここでは　せかいじゅの葉を　使えない！": ""
+        "<speed=0>ここでは　せかいじゅの葉を　使えない！": "<speed=0>You can't use an Yggdrasil Leaf here!"
     },
     "1494": {
         "clarity_nt_char_501": "clarity_nt_char_501"
