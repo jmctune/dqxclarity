@@ -336,7 +336,7 @@
         "サポート仲間が 待機中になりました": "Support party put on standby."
     },
     "113": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\e とのダブルすれちがいを 達成しました！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\e とのダブルすれちがいを 達成しました！": "Achieved a double passing with \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "114": {
         "clarity_nt_char_34": "clarity_nt_char_34"
@@ -360,7 +360,7 @@
         "clarity_nt_char_36": "clarity_nt_char_36"
     },
     "121": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが フレンド申し込みを 取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\e has canceled his friend request."
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが フレンド申し込みを 取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\e cancelled the friend request."
     },
     "122": {
         "異常な入力を検知しました。１分後に強制終了します": "Abnormal input detected. You will be kicked in 1 minute."
