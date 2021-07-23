@@ -3630,7 +3630,7 @@
         "<speed=0><%sM_omekashi>は　まだ作成していない！": ""
     },
     "1211": {
-        "<speed=0><%sM_otomo>が　死んでいるため　使えない！": ""
+        "<speed=0><%sM_otomo>が　死んでいるため　使えない！": "<speed=0><%sM_otomo> is dead and cannot be used!"
     },
     "1212": {
         "<%sM_send>を　モンスター酒場に　送ります。|よろしいですか？<yesno><close>": ""
@@ -3789,7 +3789,7 @@
         "<speed=0>しかし　装備の仕方がわからなかった！": ""
     },
     "1264": {
-        "<speed=0>これ以上　コロシアムでは　使えない！": ""
+        "<speed=0>これ以上　コロシアムでは　使えない！": "<speed=0>No more can be used in the Colosseum!"
     },
     "1265": {
         "<speed=0><%sM_enemy>は　みやぶることができない！": ""
