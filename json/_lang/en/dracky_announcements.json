@@ -420,10 +420,10 @@
         "無効になった フレンド申請があります。": "There is an invalid friend request."
     },
     "141": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eの持っている返事が いっぱいでした": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eの持っている返事が いっぱいでした": "\\s<%sC_PC>\\m<%sC_ID>\\e's invitations are full."
     },
     "142": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから \\s<%sC_PC2>\\m<%sC_ID2>\\e経由で 招待されました！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから \\s<%sC_PC2>\\m<%sC_ID2>\\e経由で 招待されました！": "\\s<%sC_PC2>\\m<%sC_ID2>\\ was invited via \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "143": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eから なかま検索で 招待されました！": ""
