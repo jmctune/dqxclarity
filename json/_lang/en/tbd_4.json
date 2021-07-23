@@ -1,21 +1,21 @@
 {
     "1": {
-        "たたく": "Hit"
+        "たたく": "Bash"
     },
     "2": {
-        "上下打ち": "Up Down Hit"
+        "上下打ち": "Double Bash"
     },
     "3": {
         "clarity_nt_char_1": "clarity_nt_char_1"
     },
     "4": {
-        "４連打ち": "Multibash"
+        "４連打ち": "Quadrabash"
     },
     "5": {
         "clarity_nt_char_2": "clarity_nt_char_2"
     },
     "6": {
-        "超４連打ち": "Super Multibash"
+        "超４連打ち": "Kaquadrabash"
     },
     "7": {
         "ななめ打ち": "Crosscut Blow"
