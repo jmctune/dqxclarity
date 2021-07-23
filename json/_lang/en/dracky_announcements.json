@@ -258,13 +258,13 @@
         "clarity_nt_char_26": "clarity_nt_char_26"
     },
     "87": {
-        "受け取れなかった チームのさそいがあります": ""
+        "受け取れなかった チームのさそいがあります": "There is a Team invite you did not accept."
     },
     "88": {
-        "チームのメンバーがいっぱいで 入れませんでした": "You could not join because the team was full."
+        "チームのメンバーがいっぱいで 入れませんでした": "Could not join because the team was full."
     },
     "89": {
-        "チームが解散していたので 入れませんでした": "You could not join because the team was disbanded."
+        "チームが解散していたので 入れませんでした": "Could not join because the team was disbanded."
     },
     "90": {
         "返事がいっぱいで 受け取れなかったナビがあります": ""
