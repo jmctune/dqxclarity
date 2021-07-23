@@ -378,13 +378,13 @@
         "<%sC_MERCENARY>との 契約が終了しました": "<%sC_MERCENARY>'s contract expired."
     },
     "127": {
-        "仲間になるお返事を 出そうとしている人がいます！": ""
+        "仲間になるお返事を 出そうとしている人がいます！": "Someone is waiting for a party invite reply!"
     },
     "128": {
         "clarity_nt_char_39": "clarity_nt_char_39"
     },
     "129": {
-        "なかまの目的が 変更されました！": ""
+        "なかまの目的が 変更されました！": "The party's Goal has changed!"
     },
     "130": {
         "clarity_nt_char_40": "clarity_nt_char_40"
@@ -396,7 +396,7 @@
         "clarity_nt_char_41": "clarity_nt_char_41"
     },
     "133": {
-        "時間切れの前に 「冒険を中断する」を選択してください": "Before the time runs out, you must suspend your adventure."
+        "時間切れの前に 「冒険を中断する」を選択してください": "Please log out before the time expires."
     },
     "134": {
         "clarity_nt_char_42": "clarity_nt_char_42"
@@ -417,7 +417,7 @@
         "clarity_nt_char_44": "clarity_nt_char_44"
     },
     "140": {
-        "無効になった フレンド申請があります。": ""
+        "無効になった フレンド申請があります。": "There is an invalid friend request."
     },
     "141": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eの持っている返事が いっぱいでした": ""
