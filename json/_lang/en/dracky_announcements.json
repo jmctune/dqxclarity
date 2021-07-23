@@ -468,7 +468,7 @@
         "clarity_nt_char_49": "clarity_nt_char_49"
     },
     "157": {
-        "<%dC_N1>分以内に次の階への出口に触れないと外に出ます": ""
+        "<%dC_N1>分以内に次の階への出口に触れないと外に出ます": "You'll be ejected in <%dC_N1> min. if you don't use the exit."
     },
     "158": {
         "clarity_nt_char_50": "clarity_nt_char_50"
@@ -483,7 +483,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sC_ITEM>を 捧げた": "\\s<%sC_PC>\\m<%sC_ID>\\e offered the <%sC_ITEM>."
     },
     "162": {
-        "<%sC_PC>の復帰を <%dC_NUM>分 待ちます": "Wait <%dC_NUM>min. for <%sC_PC>'s return."
+        "<%sC_PC>の復帰を <%dC_NUM>分 待ちます": "Wait <%dC_NUM> min. for <%sC_PC>'s return."
     },
     "163": {
         "clarity_nt_char_52": "clarity_nt_char_52"
@@ -492,7 +492,7 @@
         "特訓スタンプが <%dC_N1>個 貯まりました！": "Collected <%dC_N1> special training stamps!"
     },
     "165": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが 迷宮へのさそいを　取り消した": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが 迷宮へのさそいを　取り消した": "\\s<%sC_PC>\\m<%sC_ID>\\e cancelled the Maze invitation."
     },
     "166": {
         "clarity_nt_char_53": "clarity_nt_char_53"
