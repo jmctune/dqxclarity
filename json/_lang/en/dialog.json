@@ -4350,7 +4350,7 @@
         "<speed=0>通信エラーのため　情報が取得できませんでした。|しばらく待ってから　もう一度　お試しください。|エラーコード：<%sERRID>": ""
     },
     "1451": {
-        "<speed=0>ここでは　そうびを　変えられない！": ""
+        "<speed=0>ここでは　そうびを　変えられない！": "<speed=0>You can't change equipment here!"
     },
     "1452": {
         "clarity_nt_char_487": "clarity_nt_char_487"
@@ -4467,7 +4467,7 @@
         "<speed=0>いまは　サポート仲間の|さくせんを　変更できません！": ""
     },
     "1490": {
-        "<speed=0>ここでは　さくせんを　変えられない！": ""
+        "<speed=0>ここでは　さくせんを　変えられない！": "<speed=0>You can't change tactics here!"
     },
     "1491": {
         "<%sM_action>を　おぼえる": "Learned <%sM_action>"
