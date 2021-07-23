@@ -426,13 +426,13 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eから \\s<%sC_PC2>\\m<%sC_ID2>\\e経由で 招待されました！": "\\s<%sC_PC2>\\m<%sC_ID2>\\ was invited via \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "143": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから なかま検索で 招待されました！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから なかま検索で 招待されました！": "Invited to a party from \\s<%sC_PC>\\m<%sC_ID>\\e via party search!"
     },
     "144": {
         "clarity_nt_char_45": "clarity_nt_char_45"
     },
     "145": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eへの返事を しませんでした": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eへの返事を しませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\e did not reply."
     },
     "146": {
         "この階から 魔物が いなくなりました": "There are no monsters left on this floor."
