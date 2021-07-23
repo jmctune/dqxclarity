@@ -300,13 +300,13 @@
         "このマップは <%dC_M>分後に 消滅します": "This map will disappear in <%dC_M> minutes."
     },
     "101": {
-        "チーム『<%sC_TEAM>』に 入りました！": "Team  『<%sC_TEAM>』 has been joined!"
+        "チーム『<%sC_TEAM>』に 入りました！": "Joined the \"<%sC_TEAM>\" Team!"
     },
     "102": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eから 仲間になれる時間の確認が来ました": ""
     },
     "103": {
-        "あと<%dC_M>分で 仲間を抜けます。延長しますか？": "Group session will end in <%dC_M> minutes. Do you want to extend?"
+        "あと<%dC_M>分で 仲間を抜けます。延長しますか？": "Party will disband after <%dC_M> min. Extend the time?"
     },
     "104": {
         "チームの参加に 失敗しました": "I've failed to join the team."
