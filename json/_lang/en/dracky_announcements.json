@@ -309,19 +309,19 @@
         "あと<%dC_M>分で 仲間を抜けます。延長しますか？": "Party will disband after <%dC_M> min. Extend the time?"
     },
     "104": {
-        "チームの参加に 失敗しました": "I've failed to join the team."
+        "チームの参加に 失敗しました": "Couldn't join the team."
     },
     "105": {
         "clarity_nt_char_31": "clarity_nt_char_31"
     },
     "106": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eと 取り引きが できませんでした": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eと 取り引きが できませんでした": "Could not trade with \\s<%sC_PC>\\m<%sC_ID>\\e."
     },
     "107": {
         "clarity_nt_char_32": "clarity_nt_char_32"
     },
     "108": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eは チーム参加済みで さそえません": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eは チーム参加済みで さそえません": "\\s<%sC_PC>\\m<%sC_ID>\\e is already in a Team."
     },
     "109": {
         "HOMEボタンメニューは使えません": ""
