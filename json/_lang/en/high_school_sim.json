@@ -1116,7 +1116,7 @@
         "clarity_nt_char_126": "clarity_nt_char_126"
     },
     "373": {
-        "ヒャド系効果+20%": "Crack-type Effect +20%"
+        "ヒャド系効果+20%": "Crack Spells +20%"
     },
     "374": {
         "clarity_nt_char_127": "clarity_nt_char_127"
@@ -1137,7 +1137,7 @@
         "clarity_nt_char_129": "clarity_nt_char_129"
     },
     "380": {
-        "ヒャド系効果+30%": "Crack-type Effect +30%"
+        "ヒャド系効果+30%": "Crack Spells +30%"
     },
     "381": {
         "clarity_nt_char_130": "clarity_nt_char_130"
@@ -1158,7 +1158,7 @@
         "ライガークラッシュ": "Wild Animaul"
     },
     "387": {
-        "ヒャド系効果+5%": "Crack-type Effect +5%"
+        "ヒャド系効果+5%": "Crack Spells +5%"
     },
     "388": {
         "常時こうげき魔力+80": "Magical Might +80"
@@ -2838,7 +2838,7 @@
         "常時かいふく魔力+20": "Magical Mending +20"
     },
     "947": {
-        "開戦時10%魔力アップ": "Spell Power Up Trigger 10%"
+        "開戦時10%魔力アップ": "Spell Up Trigger 10%"
     },
     "948": {
         "ロストアタック": "Morale Masher"
@@ -9999,7 +9999,7 @@
         "マーシャルニャーツ": ""
     },
     "3334": {
-        "ヒャドの心得": ""
+        "ヒャドの心得": "Crack Style"
     },
     "3335": {
         "clarity_nt_char_1102": "clarity_nt_char_1102"
