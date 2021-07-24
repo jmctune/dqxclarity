@@ -29316,7 +29316,7 @@
         "雷耐性があがった！": "Thunder resistance up!"
     },
     "9773": {
-        "土耐性があがった！": "Earth resistance increased!"
+        "土耐性があがった！": "Earth resistance|increased!"
     },
     "9774": {
         "闇耐性があがった！": "Dark resistance increased!"
@@ -29526,7 +29526,7 @@
         "風耐性がさがった！": "Wind resistance|decreased!"
     },
     "9843": {
-        "土耐性がさがった！": "Earth resistance decreased!"
+        "土耐性がさがった！": "Earth resistance|decreased!"
     },
     "9844": {
         "雷耐性がさがった！": "Thunder resistance|down!"
