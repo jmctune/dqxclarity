@@ -9303,13 +9303,13 @@
         "clarity_nt_char_1024": "clarity_nt_char_1024"
     },
     "3102": {
-        "戦闘開始時|たまにマホキテ|が発動する": ""
+        "戦闘開始時|たまにマホキテ|が発動する": "Rarely gain|Drain Magic at|battle start."
     },
     "3103": {
         "攻撃を行った時|たまにＭＰを|回復する": ""
     },
     "3104": {
-        "戦闘開始時|たまにバイシオン|が発動する": ""
+        "戦闘開始時|たまにバイシオン|が発動する": "Rarely gain|Oomph at|battle start."
     },
     "3105": {
         "clarity_nt_char_1025": "clarity_nt_char_1025"
@@ -9324,7 +9324,7 @@
         "常時|みのまもりが|１５増える": "Increases|Resilience by 15."
     },
     "3109": {
-        "戦闘開始時|たまにスカラ|が発動する": ""
+        "戦闘開始時|たまにスカラ|が発動する": "Rarely gain Buff|at battle|start."
     },
     "3110": {
         "clarity_nt_char_1027": "clarity_nt_char_1027"
@@ -9336,7 +9336,7 @@
         "clarity_nt_char_1028": "clarity_nt_char_1028"
     },
     "3113": {
-        "戦闘開始時|たまにピオラ|が発動する": ""
+        "戦闘開始時|たまにピオラ|が発動する": "Rarely gain|Accel at|battle start."
     },
     "3114": {
         "clarity_nt_char_1029": "clarity_nt_char_1029"
@@ -9351,7 +9351,7 @@
         "clarity_nt_char_1030": "clarity_nt_char_1030"
     },
     "3118": {
-        "戦闘開始時たまに|攻撃と回復の呪文|各効果がアップ": ""
+        "戦闘開始時たまに|攻撃と回復の呪文|各効果がアップ": "Rarely gain|spell/recovery up|at battle start."
     },
     "3119": {
         "状態異常になる|とくぎと呪文が|成功しやすくなる": ""
@@ -9423,13 +9423,13 @@
         "clarity_nt_char_1037": "clarity_nt_char_1037"
     },
     "3142": {
-        "戦闘開始時|たまに|テンションアップ": ""
+        "戦闘開始時|たまに|テンションアップ": "Rarely gain|tension at|battle start."
     },
     "3143": {
         "clarity_nt_char_1038": "clarity_nt_char_1038"
     },
     "3144": {
-        "さらに戦闘開始時|たまに|テンションアップ": ""
+        "さらに戦闘開始時|たまに|テンションアップ": "Rarely gain|higher tension|at battle start."
     },
     "3145": {
         "戦闘開始時必ず|ピオラ|が発動する": ""
