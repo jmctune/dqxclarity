@@ -22560,7 +22560,7 @@
         "階級：": "Class:"
     },
     "7521": {
-        "クリア実績数：": ""
+        "クリア実績数：": "Total Cleared:"
     },
     "7522": {
         "階級リスト": ""
@@ -22710,7 +22710,7 @@
         "<%dM_cal_YYYY1>/<%02dM_cal_MM1>/<%02dM_cal_DD1>～<%dM_cal_YYYY2>/<%02dM_cal_MM2>/<%02dM_cal_DD2>": ""
     },
     "7571": {
-        "特別報酬": ""
+        "特別報酬": "Reward"
     },
     "7572": {
         "clarity_nt_char_2564": "clarity_nt_char_2564"
@@ -22752,7 +22752,7 @@
         "clarity_nt_char_2569": "clarity_nt_char_2569"
     },
     "7585": {
-        "特別報酬について": ""
+        "特別報酬について": "About Rewards"
     },
     "7586": {
         "clarity_nt_char_2570": "clarity_nt_char_2570"
@@ -22842,10 +22842,10 @@
         "ゼルメアの聖紋": "Zelmea Crest"
     },
     "7615": {
-        "特別報酬　「<%sM_rewarditem>」": ""
+        "特別報酬　「<%sM_rewarditem>」": "Reward \"<%sM_rewarditem>\""
     },
     "7616": {
-        "特別報酬獲得！": ""
+        "特別報酬獲得！": "Received reward!"
     },
     "7617": {
         "総帥Ｍに話しかけて　特別報酬を受け取ろう！": ""
