@@ -7938,7 +7938,7 @@
         "clarity_nt_char_889": "clarity_nt_char_889"
     },
     "2647": {
-        "<speed=0>パーティ同盟相手を　どのように決めますか？|<select>|指定のパーティと|同盟相手を自動で探す|<select_end><close>": ""
+        "<speed=0>パーティ同盟相手を　どのように決めますか？|<select>|指定のパーティと|同盟相手を自動で探す|<select_end><close>": "<speed=0>How do you want to proceed?|<select>|Fixed Party|Search for Allies|<select_end><close>"
     },
     "2648": {
         "<speed=0>パーティ同盟に行きたい人を|自動的に探して　この先へ入ります。|よろしいですか？|<yesno><close>": ""
