@@ -6246,7 +6246,7 @@
         "戦闘開始時に　リベホイミが|発動するようになった！": "Remidheal is now applied at the beginning of|a battle!"
     },
     "2083": {
-        "攻撃時　ＨＰを少しだけ|回復するようになった！": ""
+        "攻撃時　ＨＰを少しだけ|回復するようになった！": "You'll now recover a little HP whenever|you attack!"
     },
     "2084": {
         "さいだいＭＰが　１５　増えた！": "Max MP increased by 15!"
@@ -9867,7 +9867,7 @@
         "味方死亡時たまに|テンションが|あがる": ""
     },
     "3290": {
-        "攻撃をした時|ＨＰを少しだけ|回復する": ""
+        "攻撃をした時|ＨＰを少しだけ|回復する": "Recover small HP|whenever you|attack."
     },
     "3291": {
         "瀕死時たまに|身かわし率が|あがる": ""
