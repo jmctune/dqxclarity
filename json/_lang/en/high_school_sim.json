@@ -2256,7 +2256,7 @@
         "clarity_nt_char_251": "clarity_nt_char_251"
     },
     "753": {
-        "フィニッシュブロー": ""
+        "フィニッシュブロー": "Finish Blow"
     },
     "754": {
         "マジックソード": ""
@@ -5700,7 +5700,7 @@
         "快眠チャージを　おぼえた！": "You learned Sleepy Charge!"
     },
     "1901": {
-        "フィニッシュブローの特技を　おぼえた！": ""
+        "フィニッシュブローの特技を　おぼえた！": "You learned Finish Blow!"
     },
     "1902": {
         "マジックソードの特技を　おぼえた！": ""
@@ -8820,7 +8820,7 @@
         "眠っている間|ＭＰが徐々に回復|するようになる": "Gradual recovery|of MP whilst|asleep."
     },
     "2941": {
-        "真のチカラを|引き出して|最大ＨＰが増える": "Draw out the true|power of Golems|increase Max HP."
+        "真のチカラを|引き出して|最大ＨＰが増える": "Draw out the true|power of Golems|to boost Max HP."
     },
     "2942": {
         "常時|おもさが|１０増える": "Increases|Weight by 10."
