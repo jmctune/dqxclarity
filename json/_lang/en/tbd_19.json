@@ -24,10 +24,10 @@
         "-販売済み": ""
     },
     "9": {
-        "フレンドやチームの|メンバーとアイテムや|手紙をやりとりできる": "Exchange items and|letters with friends|and team members"
+        "フレンドやチームの|メンバーとアイテムや|手紙をやりとりできる": "Exchange items and|letters with friends|and team members."
     },
     "10": {
-        "色々な物が買える店|不要なアイテムを|売ることもできる": "Store to buy all|sorts of things and|sell unneeded items"
+        "色々な物が買える店|不要なアイテムを|売ることもできる": "Store to buy all|sorts of things and|sell unneeded items."
     },
     "11": {
         "薬剤ギルド本部|薬剤職人が|集まって仕事する場所": ""
@@ -153,7 +153,7 @@
         "ランプ錬金職人が|使用できる|ランプ錬金の設備": "Place that lampsmiths|have access to lamp|alchemy equipment"
     },
     "52": {
-        "死んだ仲間の蘇生や|治療のほか全滅時の|復活場所を変更できる": "Revive and heal dead|allies and change the|resurrection location"
+        "死んだ仲間の蘇生や|治療のほか全滅時の|復活場所を変更できる": "Revive and heal dead|allies and change the|resurrection spot."
     },
     "53": {
         "clarity_nt_char_23": "clarity_nt_char_23"
@@ -219,13 +219,13 @@
         "clarity_nt_char_32": "clarity_nt_char_32"
     },
     "74": {
-        "色々な道具が買える店|不要なアイテムを|売ることもできる": "Store to buy all|sorts of tools and|sell unneeded items"
+        "色々な道具が買える店|不要なアイテムを|売ることもできる": "Store to buy all|sorts of items and|sell unneeded items."
     },
     "75": {
         "clarity_nt_char_33": "clarity_nt_char_33"
     },
     "76": {
-        "武器と盾が買える店|不要なアイテムを|売ることもできる": "Store to buy weapons|and shields and sell|unneeded items"
+        "武器と盾が買える店|不要なアイテムを|売ることもできる": "Store to buy weapons|and shields and sell|unneeded items."
     },
     "77": {
         "防具が買える店|不要なアイテムを|売ることもできる": "Store where you can|buy armor and sell|items you don't need"
@@ -267,7 +267,7 @@
         "clarity_nt_char_38": "clarity_nt_char_38"
     },
     "90": {
-        "職人のためのレシピが|買える店。不要な物を|売ることもできる": "Store to buy recipes|for craftsmen and|sell unneeded items"
+        "職人のためのレシピが|買える店。不要な物を|売ることもできる": "Store to buy recipes|for craftsmen and|sell unneeded items."
     },
     "91": {
         "clarity_nt_char_39": "clarity_nt_char_39"
@@ -456,7 +456,7 @@
         "clarity_nt_char_56": "clarity_nt_char_56"
     },
     "153": {
-        "大富豪の記録の確認や|トランプなどの交換が|できる": "View Daifugo rankings|and exchange game|cards and other items"
+        "大富豪の記録の確認や|トランプなどの交換が|できる": "View Daifugo rankings|and exchange game|cards and other items."
     },
     "154": {
         "大魔王の衣装を|管理する係": ""
