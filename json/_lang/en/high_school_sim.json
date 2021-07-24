@@ -6243,7 +6243,7 @@
         "さいだいＨＰが　１０　増えた！": "Max HP increased by 10!"
     },
     "2082": {
-        "戦闘開始時に　リベホイミが|発動するようになった！": ""
+        "戦闘開始時に　リベホイミが|発動するようになった！": "Reheal is now applied at the beginning of a|battle!"
     },
     "2083": {
         "攻撃時　ＨＰを少しだけ|回復するようになった！": ""
@@ -6252,7 +6252,7 @@
         "さいだいＭＰが　１５　増えた！": "Max MP increased by 15!"
     },
     "2085": {
-        "戦闘開始時に　マホキテが|発動するようになった！": ""
+        "戦闘開始時に　マホキテが|発動するようになった！": "Drain Magic is now applied at the beginning|of a battle!"
     },
     "2086": {
         "clarity_nt_char_688": "clarity_nt_char_688"
@@ -6264,7 +6264,7 @@
         "clarity_nt_char_689": "clarity_nt_char_689"
     },
     "2089": {
-        "戦闘開始時に　バイシオンが|発動するようになった！": ""
+        "戦闘開始時に　バイシオンが|発動するようになった！": "Oomph is now applied at the beginning of a|battle!"
     },
     "2090": {
         "大きなダメージを受けた時|テンションが　上がるようになった！": ""
@@ -6279,13 +6279,13 @@
         "clarity_nt_char_691": "clarity_nt_char_691"
     },
     "2094": {
-        "戦闘開始時に　スカラが|発動するようになった！": ""
+        "戦闘開始時に　スカラが|発動するようになった！": "Buff is now applied at the beginning of a|battle!"
     },
     "2095": {
         "すばやさが　２０　増えた！": ""
     },
     "2096": {
-        "戦闘開始時に　ピオラが|発動するようになった！": ""
+        "戦闘開始時に　ピオラが|発動するようになった！": "Accel is now applied at the beginning of a|battle!"
     },
     "2097": {
         "たまに２回行動を行うようになった！": ""
@@ -6294,7 +6294,7 @@
         "かいふく魔力が　２０　増えた！": "Magical Mending has increased by 20!"
     },
     "2099": {
-        "戦闘開始時に　攻撃と回復の呪文の|各効果が　アップするようになった！": ""
+        "戦闘開始時に　攻撃と回復の呪文の|各効果が　アップするようになった！": "An attack and recovery spell up effect is now|applied at the beginning of a battle!"
     },
     "2100": {
         "clarity_nt_char_692": "clarity_nt_char_692"
