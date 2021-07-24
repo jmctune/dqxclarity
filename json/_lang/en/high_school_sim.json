@@ -1410,7 +1410,7 @@
         "メラゾーマ": "Kafrizz"
     },
     "471": {
-        "メラ系効果+20%": "Frizz Effects +20%"
+        "メラ系効果+20%": "Frizz Spells +20%"
     },
     "472": {
         "常時呪文暴走率+1%": "Haywire Rate +1%"
@@ -1425,7 +1425,7 @@
         "clarity_nt_char_157": "clarity_nt_char_157"
     },
     "476": {
-        "メラ系効果+5%": "Frizz Effect +5%"
+        "メラ系効果+5%": "Frizz Spells +5%"
     },
     "477": {
         "clarity_nt_char_158": "clarity_nt_char_158"
@@ -1539,7 +1539,7 @@
         "はげしいほのお": "Inferno"
     },
     "514": {
-        "ブレス系効果+10%": "Breath Effects+10%"
+        "ブレス系効果+10%": "Breath Effects +10%"
     },
     "515": {
         "clarity_nt_char_170": "clarity_nt_char_170"
@@ -1548,7 +1548,7 @@
         "しゃくねつのほのお": "Scorch"
     },
     "517": {
-        "ブレス系効果+20%": "Breath Effects+20%"
+        "ブレス系効果+20%": "Breath Effects +20%"
     },
     "518": {
         "clarity_nt_char_171": "clarity_nt_char_171"
@@ -1563,7 +1563,7 @@
         "clarity_nt_char_172": "clarity_nt_char_172"
     },
     "522": {
-        "ブレス系効果+50%": "Breath Effect +50%"
+        "ブレス系効果+50%": "Breath Effects +50%"
     },
     "523": {
         "clarity_nt_char_173": "clarity_nt_char_173"
@@ -1656,7 +1656,7 @@
         "clarity_nt_char_181": "clarity_nt_char_181"
     },
     "553": {
-        "イオ系効果+30%": "Bang Effect +30%"
+        "イオ系効果+30%": "Bang Spells +30%"
     },
     "554": {
         "おとなのじゅもん+300": ""
@@ -1836,7 +1836,7 @@
         "clarity_nt_char_201": "clarity_nt_char_201"
     },
     "613": {
-        "ドルマ系効果+20%": ""
+        "ドルマ系効果+20%": "Zam Spells +20%"
     },
     "614": {
         "clarity_nt_char_202": "clarity_nt_char_202"
@@ -1848,7 +1848,7 @@
         "clarity_nt_char_203": "clarity_nt_char_203"
     },
     "617": {
-        "ドルマ系効果+5%": ""
+        "ドルマ系効果+5%": "Zam Spells +5%"
     },
     "618": {
         "超暴走魔法陣": "Super Ring of Ruin"
@@ -2349,7 +2349,7 @@
         "clarity_nt_char_263": "clarity_nt_char_263"
     },
     "784": {
-        "イオ系効果+20%": ""
+        "イオ系効果+20%": "Bang Spells +20%"
     },
     "785": {
         "常時呪文暴走率+5%": "Haywire Rate +5%"
@@ -2361,7 +2361,7 @@
         "光耐性+10%": ""
     },
     "788": {
-        "イオ系効果+5%": ""
+        "イオ系効果+5%": "Bang Spells +5%"
     },
     "789": {
         "clarity_nt_char_265": "clarity_nt_char_265"
@@ -3444,7 +3444,7 @@
         "clarity_nt_char_380": "clarity_nt_char_380"
     },
     "1149": {
-        "ホイミ系効果+20%": ""
+        "ホイミ系効果+20%": "Heal Spells +20%"
     },
     "1150": {
         "clarity_nt_char_381": "clarity_nt_char_381"
@@ -3552,7 +3552,7 @@
         "マカロンエンハンス": ""
     },
     "1185": {
-        "メラ系効果+10%": ""
+        "メラ系効果+10%": "Frizz Spells +10%"
     },
     "1186": {
         "常時呪文発動速度+10%": "Spell Cast Speed +10%"
