@@ -8196,7 +8196,7 @@
         "キラージャグリング": "Have A Ball"
     },
     "2733": {
-        "きせきの香水": "Lg Miracle Perfume"
+        "きせきの香水": "Miracle Perfume"
     },
     "2734": {
         "clarity_nt_char_939": "clarity_nt_char_939"
@@ -10260,10 +10260,10 @@
         "clarity_nt_char_1153": "clarity_nt_char_1153"
     },
     "3421": {
-        "みちびきの香水": "Lg. Guidance Perfume"
+        "みちびきの香水": "Guidance Perfume"
     },
     "3422": {
-        "メタルな香水": "Lg. Metal Perfume"
+        "メタルな香水": "Metal Perfume"
     },
     "3423": {
         "clarity_nt_char_1154": "clarity_nt_char_1154"
@@ -10272,7 +10272,7 @@
         "キメラのつばさ": "Chimaera Wing"
     },
     "3425": {
-        "カジノな香水": "Lg. Casino Perfume"
+        "カジノな香水": "Casino Perfume"
     },
     "3426": {
         "clarity_nt_char_1155": "clarity_nt_char_1155"
@@ -11685,7 +11685,7 @@
         "いやんマダンテ": ""
     },
     "3896": {
-        "オーブな香水": "Large Orb Perfume"
+        "オーブな香水": "Orb Perfume"
     },
     "3897": {
         "clarity_nt_char_1314": "clarity_nt_char_1314"
@@ -27657,7 +27657,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの うんメェ～もちの効果が きえた！": ""
     },
     "9220": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの メタルな香水の効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e The effects of the Metal Perfume has worn off!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの メタルな香水の効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Metal Perfume effect wore off!"
     },
     "9221": {
         "clarity_nt_char_3071": "clarity_nt_char_3071"
