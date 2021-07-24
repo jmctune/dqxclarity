@@ -6243,7 +6243,7 @@
         "さいだいＨＰが　１０　増えた！": "Max HP increased by 10!"
     },
     "2082": {
-        "戦闘開始時に　リベホイミが|発動するようになった！": "Reheal is now applied at the beginning of a|battle!"
+        "戦闘開始時に　リベホイミが|発動するようになった！": "Remidheal is now applied at the beginning of|a battle!"
     },
     "2083": {
         "攻撃時　ＨＰを少しだけ|回復するようになった！": ""
@@ -9030,7 +9030,7 @@
         "clarity_nt_char_990": "clarity_nt_char_990"
     },
     "3011": {
-        "戦闘開始時たまに|身かわし率アップ|の効果が発動する": ""
+        "戦闘開始時たまに|身かわし率アップ|の効果が発動する": "Rarely gain a|dodge up effect|at battle start."
     },
     "3012": {
         "clarity_nt_char_991": "clarity_nt_char_991"
@@ -9291,7 +9291,7 @@
         "clarity_nt_char_1022": "clarity_nt_char_1022"
     },
     "3098": {
-        "戦闘開始時|たまにリベホイミ|が発動する": ""
+        "戦闘開始時|たまにリベホイミ|が発動する": "Rarely gain|Remidheal at|battle start."
     },
     "3099": {
         "clarity_nt_char_1023": "clarity_nt_char_1023"
