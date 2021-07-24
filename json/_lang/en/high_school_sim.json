@@ -4128,10 +4128,10 @@
         "clarity_nt_char_449": "clarity_nt_char_449"
     },
     "1377": {
-        "ぶんまわしの特技を　おぼえた！": ""
+        "ぶんまわしの特技を　おぼえた！": "You learned Helichopter!"
     },
     "1378": {
-        "両手剣装備時に　武器ガードが|できるようになった！": ""
+        "両手剣装備時に　武器ガードが|できるようになった！": "You can now parry when equipped with a Claymore!"
     },
     "1379": {
         "両手剣装備時の　こうげき力が　２５　増えた！": "Attack increased by 25 when Claymore equipped!"
@@ -11319,7 +11319,7 @@
         "clarity_nt_char_1252": "clarity_nt_char_1252"
     },
     "3774": {
-        "ぶんまわし+40%": ""
+        "ぶんまわし+40%": "Helichopter +40%"
     },
     "3775": {
         "渾身斬り+25%": ""
@@ -11598,7 +11598,7 @@
         "ドラゴンソードの|ドラゴン系へのダメージが　あがった！": "Dragon Smash's|power against dragons increased!"
     },
     "3867": {
-        "ぶんまわしの威力が　あがった！": ""
+        "ぶんまわしの威力が　あがった！": "Helichopter's power increased!"
     },
     "3868": {
         "渾身斬りの威力が　あがった！": ""
