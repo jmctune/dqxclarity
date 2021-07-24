@@ -7932,7 +7932,7 @@
         "clarity_nt_char_888": "clarity_nt_char_888"
     },
     "2645": {
-        "<speed=0>パーティ同盟相手を　どのように決めますか？|<select>|指定のパーティと|同盟相手を自動で探す|同盟を組まない|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<break>|<case_cancel>|<close>|<case_end>": ""
+        "<speed=0>パーティ同盟相手を　どのように決めますか？|<select>|指定のパーティと|同盟相手を自動で探す|同盟を組まない|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<break>|<case_cancel>|<close>|<case_end>": "<speed=0>How do you want to proceed?|<select>|Fixed Party|Search for Allies|Don't Form Alliance|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<break>|<case_cancel>|<close>|<case_end>"
     },
     "2646": {
         "clarity_nt_char_889": "clarity_nt_char_889"
