@@ -9432,7 +9432,7 @@
         "さらに戦闘開始時|たまに|テンションアップ": "Rarely gain|higher tension|at battle start."
     },
     "3145": {
-        "戦闘開始時必ず|ピオラ|が発動する": ""
+        "戦闘開始時必ず|ピオラ|が発動する": "Always gain|Accel at|battle start."
     },
     "3146": {
         "２０％の確率で|ＭＰを消費しない": ""
@@ -9471,7 +9471,7 @@
         "行動間隔が|０．５秒|短くなる": ""
     },
     "3158": {
-        "戦闘開始時必ず|早詠みの杖|が発動する": ""
+        "戦闘開始時必ず|早詠みの杖|が発動する": "Always gain|Faster Caster|at battle start."
     },
     "3159": {
         "敵の攻撃を|かわしやすくなる": ""
@@ -9561,7 +9561,7 @@
         "さいだいＨＰが|３０増える": "Maximum HP|increased by 30."
     },
     "3188": {
-        "戦闘開始時|必ずスカラ|が発動する": ""
+        "戦闘開始時|必ずスカラ|が発動する": "Always gain|Buff at|battle start."
     },
     "3189": {
         "さいだいＨＰが|１００増える": "Maximum HP|increased by 100."
@@ -9570,7 +9570,7 @@
         "clarity_nt_char_1053": "clarity_nt_char_1053"
     },
     "3191": {
-        "戦闘開始時必ず|聖なる祈り|が発動する": ""
+        "戦闘開始時必ず|聖なる祈り|が発動する": "Always gain|Care Prayer|at battle start."
     },
     "3192": {
         "攻撃時|テンションが|たまにあがる": ""
@@ -9813,13 +9813,13 @@
         "clarity_nt_char_1081": "clarity_nt_char_1081"
     },
     "3272": {
-        "戦闘開始時たまに|天使の守り|が発動する": ""
+        "戦闘開始時たまに|天使の守り|が発動する": "Always gain|Goddess' Grace|at battle start."
     },
     "3273": {
         "clarity_nt_char_1082": "clarity_nt_char_1082"
     },
     "3274": {
-        "戦闘開始時たまに|キラキラポーン|が発動する": ""
+        "戦闘開始時たまに|キラキラポーン|が発動する": "Always gain Snap|Crackle Poof|at battle start."
     },
     "3275": {
         "clarity_nt_char_1083": "clarity_nt_char_1083"
@@ -9894,7 +9894,7 @@
         "clarity_nt_char_1090": "clarity_nt_char_1090"
     },
     "3299": {
-        "戦闘開始時|ピオラが|発動する": ""
+        "戦闘開始時|ピオラが|発動する": "Gain Accel|at battle|start."
     },
     "3300": {
         "常時|すばやさが|３０増える": "Increases|Agility by 30."
