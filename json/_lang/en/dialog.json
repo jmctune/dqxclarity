@@ -4041,7 +4041,7 @@
         "clarity_nt_char_449": "clarity_nt_char_449"
     },
     "1348": {
-        "モンスター牧場に送っていますが|お別れするのは　<%sM_delete>でいいですか？<yesno><close>": ""
+        "モンスター牧場に送っていますが|お別れするのは　<%sM_delete>でいいですか？<yesno><close>": "<%sM_delete> is being sent to the Monster Farm,|but is it okay to say goodbye?<yesno><close>"
     },
     "1349": {
         "スクウェア・エニックスからの　最新のお知らせです。|メンテナンス情報などを　ご確認いただけます。": ""
