@@ -957,7 +957,7 @@
         "常時さいだいＭＰ+45": "Maximum MP +45"
     },
     "320": {
-        "ホイミ系効果+50%": "Heal-type Effect +50%"
+        "ホイミ系効果+50%": "Heal Spells +50%"
     },
     "321": {
         "clarity_nt_char_111": "clarity_nt_char_111"
@@ -1230,7 +1230,7 @@
         "呪文範囲+2m": "Spell Range +2m"
     },
     "411": {
-        "ホイミ系効果+10%": "Heal-type Effect +10%"
+        "ホイミ系効果+10%": "Heal Spells +10%"
     },
     "412": {
         "clarity_nt_char_139": "clarity_nt_char_139"
@@ -2877,7 +2877,7 @@
         "バギクロス": "Kaswoosh"
     },
     "960": {
-        "バギ系効果+20%": ""
+        "バギ系効果+20%": "Woosh Spells +20%"
     },
     "961": {
         "キアリク": "Tingle"
