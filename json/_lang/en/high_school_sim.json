@@ -9147,13 +9147,13 @@
         "clarity_nt_char_1006": "clarity_nt_char_1006"
     },
     "3050": {
-        "攻撃を行った時|ＨＰを少しだけ|回復する": ""
+        "攻撃を行った時|ＨＰを少しだけ|回復する": "Recover small HP|whenever you|attack."
     },
     "3051": {
         "clarity_nt_char_1007": "clarity_nt_char_1007"
     },
     "3052": {
-        "攻撃を行った時|ＨＰをさらに|回復する": ""
+        "攻撃を行った時|ＨＰをさらに|回復する": "Recover more HP|whenever you|attack."
     },
     "3053": {
         "敵に不浄の効果が|多くついていると|威力が上がる攻撃": ""
@@ -9306,7 +9306,7 @@
         "戦闘開始時|たまにマホキテ|が発動する": "Rarely gain|Drain Magic at|battle start."
     },
     "3103": {
-        "攻撃を行った時|たまにＭＰを|回復する": ""
+        "攻撃を行った時|たまにＭＰを|回復する": "Rarely recover MP|whenever you|attack."
     },
     "3104": {
         "戦闘開始時|たまにバイシオン|が発動する": "Rarely gain|Oomph at|battle start."
