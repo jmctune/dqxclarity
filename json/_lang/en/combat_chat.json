@@ -29319,7 +29319,7 @@
         "土耐性があがった！": "Earth resistance|increased!"
     },
     "9774": {
-        "闇耐性があがった！": "Dark resistance increased!"
+        "闇耐性があがった！": "Dark resistance|increased!"
     },
     "9775": {
         "光耐性があがった！": "Light resistance increased!"
@@ -29532,7 +29532,7 @@
         "雷耐性がさがった！": "Thunder resistance|down!"
     },
     "9845": {
-        "闇耐性がさがった！": "Dark resistance decreased!"
+        "闇耐性がさがった！": "Dark resistance|decreased!"
     },
     "9846": {
         "光耐性がさがった！": "Light resistance decreased!"
@@ -31872,7 +31872,7 @@
         "土耐性がもとにもどった": "Earth resist returned to normal."
     },
     "10625": {
-        "闇耐性がもとにもどった": "Dark resist returned to normal."
+        "闇耐性がもとにもどった": "Dark resist returned|to normal."
     },
     "10626": {
         "光耐性がもとにもどった": "Light resist returned to normal."
