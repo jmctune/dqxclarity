@@ -7104,13 +7104,13 @@
         "受けるダメージが　１０　減るようになった！": ""
     },
     "2369": {
-        "戦闘開始時　たまに　天使の守りが|発動するようになった！": ""
+        "戦闘開始時　たまに　天使の守りが|発動するようになった！": "Goddess' Grace will now sometimes apply at|the start of battle!"
     },
     "2370": {
         "clarity_nt_char_780": "clarity_nt_char_780"
     },
     "2371": {
-        "戦闘開始時　たまに　キラキラポーンが|発動するようになった！": ""
+        "戦闘開始時　たまに　キラキラポーンが|発動するようになった！": "Snap Crackle Poof will now sometimes apply|at the start of battle!"
     },
     "2372": {
         "clarity_nt_char_781": "clarity_nt_char_781"
@@ -8637,7 +8637,7 @@
         "周囲の仲間の|守備力を|少し上げる": "Slightly raises|defense of|all allies."
     },
     "2880": {
-        "戦闘開始時たまに|一度死んでも蘇る|効果が発動する": ""
+        "戦闘開始時たまに|一度死んでも蘇る|効果が発動する": "Rarely gain an|on death revive|at battle start."
     },
     "2881": {
         "行動時たまに|回復呪文の|回復量がアップ": ""
