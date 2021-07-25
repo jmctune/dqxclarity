@@ -8472,13 +8472,13 @@
         "clarity_nt_char_955": "clarity_nt_char_955"
     },
     "2825": {
-        "【190P】ちからの盾の回復量+1%": "[190P] Strength Shield Recovery +1%"
+        "【190P】ちからの盾の回復量+1%": "[190P] Power Shield Recovery +1%"
     },
     "2826": {
         "clarity_nt_char_956": "clarity_nt_char_956"
     },
     "2827": {
-        "【200P】ちからの盾の回復量+3%": "[200P] Strength Shield Recovery +3%"
+        "【200P】ちからの盾の回復量+3%": "[200P] Power Shield Recovery +3%"
     },
     "2828": {
         "clarity_nt_char_957": "clarity_nt_char_957"
@@ -11034,13 +11034,13 @@
         "瀕死時6%で身かわし率+30%": "Dodge +30% At Death 6%"
     },
     "3679": {
-        "ちからの盾の回復量+1%": "Strength Shield Recovery +1%"
+        "ちからの盾の回復量+1%": "Power Shield Recovery +1%"
     },
     "3680": {
         "clarity_nt_char_1235": "clarity_nt_char_1235"
     },
     "3681": {
-        "ちからの盾の回復量+3%": "Strength Shield Recovery +3%"
+        "ちからの盾の回復量+3%": "Power Shield Recovery +3%"
     },
     "3682": {
         "clarity_nt_char_1236": "clarity_nt_char_1236"
@@ -13023,19 +13023,19 @@
         "clarity_nt_char_1477": "clarity_nt_char_1477"
     },
     "4342": {
-        "ちからの盾Ⅰの特技を　おぼえた！": "You learned Strength Shield I!"
+        "ちからの盾Ⅰの特技を　おぼえた！": "You learned Power Shield I!"
     },
     "4343": {
         "clarity_nt_char_1478": "clarity_nt_char_1478"
     },
     "4344": {
-        "ちからの盾Ⅱの特技を　おぼえた！": "You learned Strength Shield II!"
+        "ちからの盾Ⅱの特技を　おぼえた！": "You learned Power Shield II!"
     },
     "4345": {
         "clarity_nt_char_1479": "clarity_nt_char_1479"
     },
     "4346": {
-        "ちからの盾の回復量が　あがった！": "Strength Shield's recovery increased!"
+        "ちからの盾の回復量が　あがった！": "Power Shield's recovery increased!"
     },
     "4347": {
         "clarity_nt_char_1480": "clarity_nt_char_1480"
@@ -19230,10 +19230,10 @@
         "瀕死時身かわし率アップ": "Dodge Rate Up On Death"
     },
     "6411": {
-        "ちからの盾": "Strength Shield"
+        "ちからの盾": "Power Shield"
     },
     "6412": {
-        "ちからの盾の回復量": "Strength Shield Recovery"
+        "ちからの盾の回復量": "Power Shield Recovery"
     },
     "6413": {
         "ロストブレイク": "Lost Break"
