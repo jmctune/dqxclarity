@@ -8931,7 +8931,7 @@
         "<speed=0>|<%sM_item>が　置いてある場所に|ワープしますか？|<color_yellow>|この庭具の位置は　地図で確認できます。|<yesno><break>": ""
     },
     "2978": {
-        "<speed=0>|マイタウンの入口や　選んだワープ庭具が|置いてある場所に　移動できます。|どこに　移動しますか？|<break>": ""
+        "<speed=0>|マイタウンの入口や　選んだワープ庭具が|置いてある場所に　移動できます。|どこに　移動しますか？|<break>": "<speed=0>|You can move to the My Town entrance|or to one of the placed warp crystals. Where|do you want to go?|<break>"
     },
     "2979": {
         "clarity_nt_char_1004": "clarity_nt_char_1004"
