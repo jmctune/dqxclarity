@@ -723,7 +723,7 @@
         "宿屋で休んだ！": ""
     },
     "242": {
-        "<%sC_PC>は <%sM_item><%sM_plusnum>を <%dM_item_num>個 投げ捨てた！": "<%sC_PC>threw away <%dM_item_num> <%sM_item><%sM_plusnum>!"
+        "<%sC_PC>は <%sM_item><%sM_plusnum>を <%dM_item_num>個 投げ捨てた！": "<%sC_PC> threw away <%dM_item_num> <%sM_item><%sM_plusnum>!"
     },
     "243": {
         "<speed=0>ルームを　解散しました。": ""
