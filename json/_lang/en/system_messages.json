@@ -2364,7 +2364,7 @@
         "バージョン『次拡張パッケージ』": ""
     },
     "789": {
-        "<speed=0>受け取る特典プレゼントを　選択してください。 |<color_yellow>※プレイ継続特典は　岳都ガタラにいる|　『継続特典係ミノノ』から　受け取りできます。<break>": ""
+        "<speed=0>受け取る特典プレゼントを　選択してください。 |<color_yellow>※プレイ継続特典は　岳都ガタラにいる|　『継続特典係ミノノ』から　受け取りできます。<break>": "<speed=0>Please select the present you'd like to receive.|<color_yellow>*You can receive subscription benefits from|\"Minono\" in Gatara Capital. <break>"
     },
     "790": {
         "このプレゼントは　すでに受け取っています。": ""
