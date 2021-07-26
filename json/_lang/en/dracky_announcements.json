@@ -552,7 +552,7 @@
         "clarity_nt_char_59": "clarity_nt_char_59"
     },
     "185": {
-        "開始まで 残り<%dC_N1>秒": ""
+        "開始まで 残り<%dC_N1>秒": "<%dC_N1> sec. until start."
     },
     "186": {
         "clarity_nt_char_60": "clarity_nt_char_60"
@@ -564,7 +564,7 @@
         "残り<%dC_N1>分": "<%dC_N1>min. Left"
     },
     "189": {
-        "そこまで 終了！": ""
+        "そこまで 終了！": "That's all!"
     },
     "190": {
         "clarity_nt_char_61": "clarity_nt_char_61"
