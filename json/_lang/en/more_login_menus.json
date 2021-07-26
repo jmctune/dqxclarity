@@ -1,9 +1,9 @@
 {
     "1": {
-        "Wii版やWii U版など ２つ以上の機種の|製品版レジストレーションコードを|登録すると 受け取りできます。": ""
+        "Wii版やWii U版など ２つ以上の機種の|製品版レジストレーションコードを|登録すると 受け取りできます。": "Received by registering two or more|different product version models."
     },
     "2": {
-        "Wii版やWii U版など ３つ以上の機種の|製品版レジストレーションコードを|登録すると 受け取りできます。": ""
+        "Wii版やWii U版など ３つ以上の機種の|製品版レジストレーションコードを|登録すると 受け取りできます。": "Received by registering three or more|different product version models."
     },
     "3": {
         "Wii U版ベータテストに 参加していた|場合に 受け取りできます。": ""
@@ -27,10 +27,10 @@
         "Windows先行体験版に 登録していた場合に|受け取りできます。": "Received when registering for|the Windows trial version."
     },
     "10": {
-        "レジストレーションコード追加登録": ""
+        "レジストレーションコード追加登録": "Additional Registration Code Benefits"
     },
     "11": {
-        "レジストレーションコード追加登録２": ""
+        "レジストレーションコード追加登録２": "Additional Registration Code Benefits 2"
     },
     "12": {
         "Wii U版ベータテスト 参加特典": "Wii U Beta Test Benefits"
@@ -534,7 +534,7 @@
         "４つ以上の機種の|製品版レジストレーションコードを|登録すると 受け取りできます。|（PlayStation®4版は除きます。）": ""
     },
     "179": {
-        "レジストレーションコード追加登録３": ""
+        "レジストレーションコード追加登録３": "Additional Registration Code Benefits 3"
     },
     "180": {
         "スライムナイト帽子|ふくびき券 ×30": ""
