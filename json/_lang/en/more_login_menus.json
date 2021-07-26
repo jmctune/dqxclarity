@@ -1,9 +1,9 @@
 {
     "1": {
-        "Wii版やWii U版など ２つ以上の機種の|製品版レジストレーションコードを|登録すると 受け取りできます。": "Received by registering two or more|different product version models."
+        "Wii版やWii U版など ２つ以上の機種の|製品版レジストレーションコードを|登録すると 受け取りできます。": "Received by registering two or more|different product version platforms."
     },
     "2": {
-        "Wii版やWii U版など ３つ以上の機種の|製品版レジストレーションコードを|登録すると 受け取りできます。": "Received by registering three or more|different product version models."
+        "Wii版やWii U版など ３つ以上の機種の|製品版レジストレーションコードを|登録すると 受け取りできます。": "Received by registering three or more|different product version platforms."
     },
     "3": {
         "Wii U版ベータテストに 参加していた|場合に 受け取りできます。": ""
@@ -177,10 +177,10 @@
         "きせかえドール交換券": "Doll Exchange Ticket"
     },
     "60": {
-        "２つ以上の機種の 追加パッケージ|「眠れる勇者と導きの盟友」の|レジストレーションコードを登録すると|受け取りできます。": ""
+        "２つ以上の機種の 追加パッケージ|「眠れる勇者と導きの盟友」の|レジストレーションコードを登録すると|受け取りできます。": "Received by registering Version 2 on two or|more different platforms."
     },
     "61": {
-        "３つ以上の機種の 追加パッケージ|「眠れる勇者と導きの盟友」の|レジストレーションコードを登録すると|受け取りできます。": ""
+        "３つ以上の機種の 追加パッケージ|「眠れる勇者と導きの盟友」の|レジストレーションコードを登録すると|受け取りできます。": "Received by registering Version 2 on three or|more different platforms."
     },
     "62": {
         "version2追加登録特典": ""
@@ -531,7 +531,7 @@
         "プレイ継続特典（1800日）２": "Subscription Reward (1800 Days) 2"
     },
     "178": {
-        "４つ以上の機種の|製品版レジストレーションコードを|登録すると 受け取りできます。|（PlayStation®4版は除きます。）": ""
+        "４つ以上の機種の|製品版レジストレーションコードを|登録すると 受け取りできます。|（PlayStation®4版は除きます。）": "Received by registering four or more|different product version platforms.|(PlayStation 4 version excluded.)"
     },
     "179": {
         "レジストレーションコード追加登録３": "Additional Registration Code Benefits 3"
