@@ -1059,7 +1059,7 @@
         "<speed=0>ブラックリストに　加えられる相手が|近くにいません。": "<speed=0>There's nobody nearby to add|to your blacklist."
     },
     "354": {
-        "このルーラストーンは　場所の記憶がありません。|教会で　ルーラストーンに|場所を記憶させることができます。": "This zoomstone has no location set. Set a location at a church or waypoint."
+        "このルーラストーンは　場所の記憶がありません。|教会で　ルーラストーンに|場所を記憶させることができます。": "This zoomstone has no location set. Set a|location at a church or waypoint."
     },
     "355": {
         "<speed=0>入力した内容を取り消して　元に戻しますか？<yesno><close>": "<speed=0>Cancel any changes you've made?<yesno><close>"
