@@ -546,7 +546,7 @@
         "未対応のコントローラーでは 遊べません": ""
     },
     "183": {
-        "特典アイテムを コンシェルジュから 受け取れます": ""
+        "特典アイテムを コンシェルジュから 受け取れます": "Receive your reward items at the concierge."
     },
     "184": {
         "clarity_nt_char_59": "clarity_nt_char_59"
@@ -660,7 +660,7 @@
         "<%sC_STR>のレンタル期間が　終了しました！": "Your current rental outfit has expired!"
     },
     "221": {
-        "この先に 進めませんでした": ""
+        "この先に 進めませんでした": "Couldn't go any further."
     },
     "222": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eから パーティ同盟に さそわれました！": "Party alliance invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
