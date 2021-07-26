@@ -4920,7 +4920,7 @@
         "町村,番地": ""
     },
     "1641": {
-        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|ブラックリストから　はずせませんでした。|時間を置いて　もう一度お試しください。": ""
+        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|ブラックリストから　はずせませんでした。|時間を置いて　もう一度お試しください。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) couldn't be removed from the blacklist.|Please wait a while and try again."
     },
     "1642": {
         "セキュリティコード": ""
@@ -5127,7 +5127,7 @@
         "clarity_nt_char_581": "clarity_nt_char_581"
     },
     "1710": {
-        "更新日": ""
+        "更新日": "Updated"
     },
     "1711": {
         "お問い合わせ・よくあるご質問": ""
