@@ -24258,7 +24258,7 @@
         "clarity_nt_char_2735": "clarity_nt_char_2735"
     },
     "8087": {
-        "釣り堀の記録": ""
+        "釣り堀の記録": "Fish Records"
     },
     "8088": {
         "clarity_nt_char_2736": "clarity_nt_char_2736"
@@ -24465,7 +24465,7 @@
         "clarity_nt_char_2756": "clarity_nt_char_2756"
     },
     "8156": {
-        "釣り堀のさかな": "Add Fish"
+        "釣り堀のさかな": "View Fish"
     },
     "8157": {
         "～<%dM_cal_YYYY2>/<%2dM_cal_MM2>/<%2dM_cal_DD2> <%2dM_hh2>：<%02dM_mm2>": ""
@@ -24516,7 +24516,7 @@
         "clarity_nt_char_2761": "clarity_nt_char_2761"
     },
     "8173": {
-        "さかなを逃がす": "Let Fish Go"
+        "さかなを逃がす": "Release Fish"
     },
     "8174": {
         "さかなを入れる": "Put Fish"
