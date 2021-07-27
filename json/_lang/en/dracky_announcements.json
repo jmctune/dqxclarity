@@ -585,13 +585,13 @@
         "clarity_nt_char_63": "clarity_nt_char_63"
     },
     "196": {
-        "サポートスタッフから 返信がありました": ""
+        "サポートスタッフから 返信がありました": "You have a reply from the Support Staff."
     },
     "197": {
-        "<%sC_CAMPAIGN>が 始まりました！": ""
+        "<%sC_CAMPAIGN>が 始まりました！": "<%sC_CAMPAIGN> has started!"
     },
     "198": {
-        "<%sC_CAMPAIGN>が 終了しました！": ""
+        "<%sC_CAMPAIGN>が 終了しました！": "<%sC_CAMPAIGN> has ended!"
     },
     "199": {
         "サブリーダーに なりました！": ""
@@ -624,7 +624,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eが チャットルームを 解散しました": "\\s<%sC_PC>\\m<%sC_ID>\\e dissolved the chat room."
     },
     "209": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eのルームから はずれました": "You were removed from \\s<%sC_PC>\\m<%sC_ID>\\e's Room."
+        "\\s<%sC_PC>\\m<%sC_ID>\\eのルームから はずれました": "You were removed from \\s<%sC_PC>\\m<%sC_ID>\\e's room."
     },
     "210": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eが \\s<%sC_PC2>\\m<%sC_ID2>\\eのルームから抜けました": "\\s<%sC_PC>\\m<%sC_ID>\\e left \\s<%sC_PC>\\m<%sC_ID>\\e's room."
