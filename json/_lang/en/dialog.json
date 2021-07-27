@@ -7347,7 +7347,7 @@
         "clarity_nt_char_823": "clarity_nt_char_823"
     },
     "2450": {
-        "<speed=0>|装備中のタロットデッキが　有効条件を|満たしていません。|装備デッキの　編成を確認してください。": ""
+        "<speed=0>|装備中のタロットデッキが　有効条件を|満たしていません。|装備デッキの　編成を確認してください。": "<speed=0>|The equipped deck is not valid to use.|Please check the deck again."
     },
     "2451": {
         "clarity_nt_char_824": "clarity_nt_char_824"
