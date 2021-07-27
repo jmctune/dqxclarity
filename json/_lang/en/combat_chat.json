@@ -33300,7 +33300,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは やいばのぼうぎょで 守っている！": ""
     },
     "11101": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは うけるダメージが 少なくなった。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは うけるダメージが 少なくなった。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's damage taken reduced slightly."
     },
     "11102": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに さらに もうどくを かけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was poisoned even more!"
