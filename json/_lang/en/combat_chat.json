@@ -29901,7 +29901,7 @@
         "ドラゴンビート状態に|なった！": ""
     },
     "9968": {
-        "うけるダメージが|大きくなった！": ""
+        "うけるダメージが|大きくなった！": "Damage taken|greatly increased!"
     },
     "9969": {
         "clarity_nt_char_3313": "clarity_nt_char_3313"
@@ -30291,7 +30291,7 @@
         "clarity_nt_char_3355": "clarity_nt_char_3355"
     },
     "10098": {
-        "うけるダメージが|少なくなった！": ""
+        "うけるダメージが|少なくなった！": "Damage taken|slightly decreased!"
     },
     "10099": {
         "clarity_nt_char_3356": "clarity_nt_char_3356"
@@ -30753,7 +30753,7 @@
         "clarity_nt_char_3411": "clarity_nt_char_3411"
     },
     "10252": {
-        "うけるダメージが|20少なくなった！": ""
+        "うけるダメージが|20少なくなった！": "Damage taken|reduced by 20!"
     },
     "10253": {
         "clarity_nt_char_3412": "clarity_nt_char_3412"
@@ -32574,7 +32574,7 @@
         "天使の加護がきえた": ""
     },
     "10859": {
-        "うけるダメージが|もとにもどった！": ""
+        "うけるダメージが|もとにもどった！": "Damage taken|returned to normal!"
     },
     "10860": {
         "げんま解放状態が|もとにもどった": ""
@@ -32811,7 +32811,7 @@
         "特技と呪文のダメージが|50増える効果がきえた": ""
     },
     "10938": {
-        "うけるダメージが|20少なくなる効果がきえた": ""
+        "うけるダメージが|20少なくなる効果がきえた": "Damage reduction|effect faded."
     },
     "10939": {
         "clarity_nt_char_3639": "clarity_nt_char_3639"
