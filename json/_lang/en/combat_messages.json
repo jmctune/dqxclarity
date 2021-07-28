@@ -1239,7 +1239,7 @@
         "clarity_nt_char_144": "clarity_nt_char_144"
     },
     "414": {
-        "<%sB_MONSTER>をひろった！ スコアを <%dB_VALUE>P かくとく！": "Pikced up <%sB_MONSTER>! Score of <%dB_VALUE>!"
+        "<%sB_MONSTER>をひろった！ スコアを <%dB_VALUE>P かくとく！": "Picked up <%sB_MONSTER>! Got <%dB_VALUE> points!"
     },
     "415": {
         "スコアが <%dB_VALUE>P 減った。": "Score decreased by <%dB_VALUE>."
