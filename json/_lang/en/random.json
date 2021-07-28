@@ -24,7 +24,7 @@
     "てれる": "Shyness"
   },
   "9": {
-    "おどろく": "Shock!"
+    "おどろく": "Surprised!"
   },
   "10": {
     "clarity_nt_char_3": "clarity_nt_char_3"
@@ -141,13 +141,13 @@
     "ウェディのあいさつ": "Weddie Greeting"
   },
   "48": {
-    "ほほえむ": ""
+    "ほほえむ": "Smile"
   },
   "49": {
     "clarity_nt_char_17": "clarity_nt_char_17"
   },
   "50": {
-    "苦笑い": ""
+    "苦笑い": "Bitter"
   },
   "51": {
     "ひやかす": "Whistle"
@@ -168,16 +168,16 @@
     "clarity_nt_char_20": "clarity_nt_char_20"
   },
   "57": {
-    "おどろきとまどう": "Shock!"
+    "おどろきとまどう": "Shock and Confusion"
   },
   "58": {
     "clarity_nt_char_21": "clarity_nt_char_21"
   },
   "59": {
-    "決めポーズ中央前列": ""
+    "決めポーズ中央前列": "Decisive Pose Front Row"
   },
   "60": {
-    "決めポーズ中央後列": ""
+    "決めポーズ中央後列": "Decisive Pose Back Row"
   },
   "61": {
     "決めポーズ右": "Decisive Pose R"
@@ -186,7 +186,7 @@
     "clarity_nt_char_22": "clarity_nt_char_22"
   },
   "63": {
-    "決めポーズ左": "Decisive Pose R"
+    "決めポーズ左": "Decisive Pose L"
   },
   "64": {
     "clarity_nt_char_23": "clarity_nt_char_23"
@@ -219,13 +219,13 @@
     "くやしがる": "Pout"
   },
   "74": {
-    "うなずく": ""
+    "うなずく": "Nod"
   },
   "75": {
     "clarity_nt_char_27": "clarity_nt_char_27"
   },
   "76": {
-    "ふしぎなおどり": ""
+    "ふしぎなおどり": "Mysterious Dance"
   },
   "77": {
     "ナイスポーズ": "Nice Pose"
@@ -267,7 +267,7 @@
     "clarity_nt_char_33": "clarity_nt_char_33"
   },
   "90": {
-    "大成功": ""
+    "大成功": "Perfect"
   },
   "91": {
     "がっくり": "Disappointed"
@@ -282,7 +282,7 @@
     "アイドルポーズ": "Idol Pose"
   },
   "95": {
-    "もじもじ": ""
+    "もじもじ": "Fidgety"
   },
   "96": {
     "clarity_nt_char_35": "clarity_nt_char_35"
@@ -945,7 +945,7 @@
     "clarity_nt_char_107": "clarity_nt_char_107"
   },
   "316": {
-    "こっちおいで": "Pspspsps"
+    "こっちおいで": "Come Here"
   },
   "317": {
     "clarity_nt_char_108": "clarity_nt_char_108"
@@ -1176,7 +1176,7 @@
     "ローズマジック": ""
   },
   "393": {
-    "始まりの大魔王の舞": ""
+    "始まりの大魔王の舞": "Demon King Origin Dance"
   },
   "394": {
     "お宝ゲット": "Treasure Get!"
@@ -1308,7 +1308,7 @@
     "<%sL_ACTOR>は　<%sL_TARGET>に　ほほえんだ。": ""
   },
   "437": {
-    "<%sL_ACTOR>は　<%sL_TARGET>に　苦笑いした。": ""
+    "<%sL_ACTOR>は　<%sL_TARGET>に　苦笑いした。": "<%sL_ACTOR> gave <%sL_TARGET> a bitter smile."
   },
   "438": {
     "<%sL_ACTOR>は　<%sL_TARGET>を　ひやかした。": ""
@@ -1386,13 +1386,13 @@
     "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　ダイスをふった。　→　<%dL_VALUE>": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\e rolled a die. 　→ <%dL_VALUE>"
   },
   "463": {
-    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　コインをなげた。　→　<%sL_STRING>": ""
+    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　コインをなげた。　→　<%sL_STRING>": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\e flipped a coin.　→　<%sL_STRING>"
   },
   "464": {
     "clarity_nt_char_148": "clarity_nt_char_148"
   },
   "465": {
-    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　カードを引いた。　→　<%sL_STRING>": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\ drew a card.　→　<%sL_STRING>"
+    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　カードを引いた。　→　<%sL_STRING>": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\e drew a card.　→　<%sL_STRING>"
   },
   "466": {
     "clarity_nt_char_149": "clarity_nt_char_149"
@@ -1632,7 +1632,7 @@
     "クローバーの<%nL_VALUE>": "<%nL_VALUE> of Clubs"
   },
   "545": {
-    "Ａ": ""
+    "Ａ": "A"
   },
   "546": {
     "Ｊ": ""
@@ -1710,7 +1710,7 @@
     "大テレ": ""
   },
   "571": {
-    "ネタ「Ｖロン」": "V-Lon Trick"
+    "ネタ「Ｖロン」": "Vron Trick"
   },
   "572": {
     "ジュエルシャワー": ""

@@ -129,10 +129,10 @@
     "clarity_nt_char_14": "clarity_nt_char_14"
   },
   "44": {
-    "<speed=0>『通知する』に　変更しました。|<%sM_pc>さんが　ログインしたときに|ナビメッセージで通知します。": ""
+    "<speed=0>『通知する』に　変更しました。|<%sM_pc>さんが　ログインしたときに|ナビメッセージで通知します。": "<speed=0>Set to \"Notify\". You will receive a notification|whenever <%sM_pc> logs in."
   },
   "45": {
-    "<speed=0><%sM_pc>さんが　ログインしたときに|ログインを　『通知しない』から|『通知する』に　変更しますか？|<yesno 1><close>": ""
+    "<speed=0><%sM_pc>さんが　ログインしたときに|ログインを　『通知しない』から|『通知する』に　変更しますか？|<yesno 1><close>": "<speed=0>Do you want to change from \"Do Not Notify\"|to \"Notify\" whenever <%sM_pc> logs in?|<yesno 1><close>"
   },
   "46": {
     "<speed=0>『通知しない』に　変更しました。|<%sM_pc>さんが　ログインしても|通知されません。": ""
@@ -141,7 +141,7 @@
     "clarity_nt_char_15": "clarity_nt_char_15"
   },
   "48": {
-    "<speed=0><%sM_pc>さんが　ログインしたときに|ログインを　『通知する』から|『通知しない』に　変更しますか？|<yesno 1><close>": ""
+    "<speed=0><%sM_pc>さんが　ログインしたときに|ログインを　『通知する』から|『通知しない』に　変更しますか？|<yesno 1><close>": "<speed=0>Do you want to change from \"Notify\"|to \"Do Not Notify\" whenever <%sM_pc> logs in?|<yesno 1><close>"
   },
   "49": {
     "<speed=0>ログイン通知設定の保存に失敗しました。|時間をおいて　再度お試しください。": ""
@@ -162,7 +162,7 @@
     "clarity_nt_char_18": "clarity_nt_char_18"
   },
   "55": {
-    "<speed=0><%sM_pc>は　別のサーバーにいます。|なかまコマンドの『サーバー移動』などで|同じサーバーに集まって　遊んでください。|<br>|<speed=0>仲間にさそい　相手の返事を待ちます。|<%sM_pc>を　仲間に　さそいますか？|<yesno 1><close>": "<speed=0><%sM_pc> is on another server. Use the \"Party\"|command to move servers to play together.|<br>|<speed=0>Would you like to send a party invite|to <%sM_pc>?|<yesno 1><close>"
+    "<speed=0><%sM_pc>は　別のサーバーにいます。|なかまコマンドの『サーバー移動』などで|同じサーバーに集まって　遊んでください。|<br>|<speed=0>仲間にさそい　相手の返事を待ちます。|<%sM_pc>を　仲間に　さそいますか？|<yesno 1><close>": "<speed=0><%sM_pc> is on another server.|Use the \"Party\" command to move servers|to play together.|<br>|<speed=0>Would you like to send a party invite|to <%sM_pc>?|<yesno 1><close>"
   },
   "56": {
     "<speed=0><%sM_pc>を　サブリーダーから|はずしますか？|<yesno 1><close>": ""
@@ -534,7 +534,7 @@
     "<%sC_PC>は ちいさなメダルを <%dM_item_num>枚 手に入れた！": "<%sC_PC> received <%dM_item_num> Mini Medals!"
   },
   "179": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eを ブラックリストからはずした。": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eを ブラックリストからはずした。": "\\s<%sC_PC>\\m<%sC_ID>\\e was removed from the blacklist."
   },
   "180": {
     "clarity_nt_char_58": "clarity_nt_char_58"
@@ -582,7 +582,7 @@
     "<%sL_ITEM><%sL_PLUSNUM>から 汗と涙の結晶を <%dL_NUM>個 取りだした！": ""
   },
   "195": {
-    "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>と <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>を合成して|<%sL_ACCE_ITEM><%sL_PLUSNUM_3>になった！": ""
+    "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>と <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>を合成して|<%sL_ACCE_ITEM><%sL_PLUSNUM_3>になった！": "<%sL_ACCE_ITEM><%sL_PLUSNUM_1> and <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2> were fused|and became <%sL_ACCE_ITEM><%sL_PLUSNUM_3>!"
   },
   "196": {
     "自宅の屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "You took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> from the attic storage of my house."
@@ -723,7 +723,7 @@
     "宿屋で休んだ！": ""
   },
   "242": {
-    "<%sC_PC>は <%sM_item><%sM_plusnum>を <%dM_item_num>個 投げ捨てた！": "<%sC_PC>threw away <%dM_item_num> <%sM_item><%sM_plusnum>!"
+    "<%sC_PC>は <%sM_item><%sM_plusnum>を <%dM_item_num>個 投げ捨てた！": "<%sC_PC> threw away <%dM_item_num> <%sM_item><%sM_plusnum>!"
   },
   "243": {
     "<speed=0>ルームを　解散しました。": ""
@@ -990,7 +990,7 @@
     "まわりにチャット不可：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": ""
   },
   "331": {
-    "ドルセリンチャージ！": "Dolserin Charge!"
+    "ドルセリンチャージ！": "Dolsoline Charge!"
   },
   "332": {
     "clarity_nt_char_106": "clarity_nt_char_106"
@@ -999,7 +999,7 @@
     "預かり所で 倉庫の名前を <%sL_STORAGE>から <%sL_STORAGE2>に 変えた！": ""
   },
   "334": {
-    "<%sL_ACCE_ITEM><%sL_PLUSNUM>の <%sL_KOUKA>を 消した。": ""
+    "<%sL_ACCE_ITEM><%sL_PLUSNUM>の <%sL_KOUKA>を 消した。": "<%sL_ACCE_ITEM><%sL_PLUSNUM>'s <%sL_KOUKA> was removed."
   },
   "335": {
     "カジノコイン <%dL_casinocoin>枚と <%sM_item>を 交換した！": ""
@@ -1314,16 +1314,16 @@
     "clarity_nt_char_139": "clarity_nt_char_139"
   },
   "439": {
-    "おさかなコイン <%dM_POINT>枚と|<%sM_item>を 交換した！": ""
+    "おさかなコイン <%dM_POINT>枚と|<%sM_item>を 交換した！": "Exchanged <%dM_POINT> Fish Coins for <%sM_item>!"
   },
   "440": {
-    "<%.1fM_CM>ｃｍの <%sM_item>（<%sM_SIZE>）と|おさかなコイン <%dL_COIN>枚を 交換した！": ""
+    "<%.1fM_CM>ｃｍの <%sM_item>（<%sM_SIZE>）と|おさかなコイン <%dL_COIN>枚を 交換した！": "Exchanged <%.1fM_CM> cm <%sM_item> (<%sM_SIZE>) for <%dL_COIN> Fish Coins!"
   },
   "441": {
     "clarity_nt_char_140": "clarity_nt_char_140"
   },
   "442": {
-    "<%.1fM_CM>ｃｍの <%sM_item>と|おさかなコイン <%dL_COIN>枚を 交換した！": ""
+    "<%.1fM_CM>ｃｍの <%sM_item>と|おさかなコイン <%dL_COIN>枚を 交換した！": "Exchanged <%.1fM_CM> cm <%sM_item> for <%dL_COIN> Fish Coins!"
   },
   "443": {
     "clarity_nt_char_141": "clarity_nt_char_141"
@@ -1335,7 +1335,7 @@
     "clarity_nt_char_142": "clarity_nt_char_142"
   },
   "446": {
-    "おさかなコイン <%dM_POINT>枚と|<%sM_item> <%dM_GET_NUM>個を 交換した！": ""
+    "おさかなコイン <%dM_POINT>枚と|<%sM_item> <%dM_GET_NUM>個を 交換した！": "Exchanged <%dM_POINT> Fish Coins for <%dM_GET_NUM> <%sM_item>!"
   },
   "447": {
     "clarity_nt_char_143": "clarity_nt_char_143"
@@ -1386,7 +1386,7 @@
     "clarity_nt_char_148": "clarity_nt_char_148"
   },
   "463": {
-    "<%sM_monster2>を モンスター牧場に 送った！": ""
+    "<%sM_monster2>を モンスター牧場に 送った！": "<%sM_monster2> was sent to the Monster Farm!"
   },
   "464": {
     "<%sM_monster2>を モンスター牧場から 呼び戻した！": ""
@@ -1434,7 +1434,7 @@
     "特訓モードが 解除された！": ""
   },
   "479": {
-    "<%sM_new_syokugyou> に 転職した！": ""
+    "<%sM_new_syokugyou> に 転職した！": "Changed to <%sM_new_syokugyou>!"
   },
   "480": {
     "<%sM_monster>の なつき度が あがって <%dL_NATUKI>になった！": ""
@@ -1737,7 +1737,7 @@
     "<%sL_OWNER>の畑から <%sL_ITEM>を<%nL_NUM>こ 摘んだ！|所持数 <%nL_BEFORE_NUM>こ → <%nL_AFTER_NUM>こ になった！": ""
   },
   "580": {
-    "足": "Toe"
+    "足": "Leg"
   },
   "581": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 帰宅しました。": "\\s<%sC_PC>\\m<%sC_ID>\\e came home."
@@ -1779,7 +1779,7 @@
     "カジノコイン <%dL_casinocoin>枚と|<%sM_item>（だいじなもの）を 交換した！": ""
   },
   "594": {
-    "<%sL_ACCE_ITEM><%sL_PLUSNUM_3>の 合成エナジーが <%dM_ACCE_ENE_1> → <%dM_ACCE_ENE_2> になった。": ""
+    "<%sL_ACCE_ITEM><%sL_PLUSNUM_3>の 合成エナジーが <%dM_ACCE_ENE_1> → <%dM_ACCE_ENE_2> になった。": "<%sL_ACCE_ITEM><%sL_PLUSNUM_3>'s Energy raised <%dM_ACCE_ENE_1> → <%dM_ACCE_ENE_2>."
   },
   "595": {
     "合成手数料として <%dM_gold> Gを 支払った。": "Paid <%dM_gold> G for a synthesis fee."
@@ -1821,7 +1821,7 @@
     "clarity_nt_char_197": "clarity_nt_char_197"
   },
   "608": {
-    "<%sM_ITEM>を 鑑定した。": ""
+    "<%sM_ITEM>を 鑑定した。": "<%sM_ITEM> was appraised."
   },
   "609": {
     "家具＆庭具おきばに <%sL_ITEM>を <%dL_QUANTITY>個入れた。": ""
@@ -2049,7 +2049,7 @@
     "clarity_nt_char_222": "clarity_nt_char_222"
   },
   "684": {
-    "宝珠ポイントを <%dM_NUM> P かくとく！": ""
+    "宝珠ポイントを <%dM_NUM> P かくとく！": "Received <%dM_NUM> Jewel Points!"
   },
   "685": {
     "<%sM_ELEMENT>の石版に 穴をあけた！": ""
@@ -2178,7 +2178,7 @@
     "絆が深まり <%sM_SNPC>は <%sM_SKILL>が　増えた！": ""
   },
   "727": {
-    "<%sM_item><%sM_plusnum>に|<%sL_KOUKA>が 付いた！": ""
+    "<%sM_item><%sM_plusnum>に|<%sL_KOUKA>が 付いた！": "<%sM_item><%sM_plusnum> gained|<%sL_KOUKA>!"
   },
   "728": {
     "clarity_nt_char_238": "clarity_nt_char_238"
@@ -2322,7 +2322,7 @@
     "clarity_nt_char_253": "clarity_nt_char_253"
   },
   "775": {
-    "<%sL_ITEM><%sL_PLUSNUM_3>に <%sL_KOUKA>が 付いた！": ""
+    "<%sL_ITEM><%sL_PLUSNUM_3>に <%sL_KOUKA>が 付いた！": "<%sL_ITEM><%sL_PLUSNUM_3> gained <%sL_KOUKA>!"
   },
   "776": {
     "clarity_nt_char_254": "clarity_nt_char_254"
@@ -2595,7 +2595,7 @@
     "バトエンポイント <%dL_USE_POINT>Pを バトエンパック <%dL_PACK_NUM>個と 交換した。": "Exchanged <%dL_USE_POINT> Batoen Points for <%dL_PACK_NUM> Batoen Pack(s)."
   },
   "866": {
-    "ダブリィコイン <%dL_USE_KPOINT>枚を キラバトエン <%dL_KIRA_NUM>本と 交換した。": ""
+    "ダブリィコイン <%dL_USE_KPOINT>枚を キラバトエン <%dL_KIRA_NUM>本と 交換した。": "Exchanged <%dL_USE_KPOINT> Doubly Coin for|<%dL_KIRA_NUM> Shiny Batoen."
   },
   "867": {
     "clarity_nt_char_288": "clarity_nt_char_288"
@@ -2613,7 +2613,7 @@
     "clarity_nt_char_290": "clarity_nt_char_290"
   },
   "872": {
-    "既に持っているので 代わりに <%dL_GET_KPOINT>枚のダブリィコインを 手に入れた！": ""
+    "既に持っているので 代わりに <%dL_GET_KPOINT>枚のダブリィコインを 手に入れた！": "You already have this, so you received|<%dL_GET_KPOINT> Doubly Coins instead!"
   },
   "873": {
     "clarity_nt_char_291": "clarity_nt_char_291"
@@ -3264,7 +3264,7 @@
     "clarity_nt_char_365": "clarity_nt_char_365"
   },
   "1089": {
-    "<%sM_CAPSULE_NAME>を　ヤクウに渡して|ダブリィポイントを　<%dM_CHANGE_POINT>P　もらった！（ <%dM_BEFORE_POINT>P→ <%dM_AFTER_POINT>P） ": ""
+    "<%sM_CAPSULE_NAME>を　ヤクウに渡して|ダブリィポイントを　<%dM_CHANGE_POINT>P　もらった！（ <%dM_BEFORE_POINT>P→ <%dM_AFTER_POINT>P） ": "Handed <%sM_CAPSULE_NAME> to Yakuu and|got <%dM_CHANGE_POINT> Doubly Points! (<%dM_BEFORE_POINT>P→ <%dM_AFTER_POINT>P)"
   },
   "1090": {
     "clarity_nt_char_366": "clarity_nt_char_366"
@@ -3435,10 +3435,10 @@
     "clarity_nt_char_385": "clarity_nt_char_385"
   },
   "1146": {
-    "スペシャルボーナス：スコア <%dM_bairitsu> ％アップ": ""
+    "スペシャルボーナス：スコア <%dM_bairitsu> ％アップ": "Special Bonus: Score <%dM_bairitsu>% Up!"
   },
   "1147": {
-    "ボーナス：<%sM_bonus>": ""
+    "ボーナス：<%sM_bonus>": "Bonus: <%sM_bonus>"
   },
   "1148": {
     "clarity_nt_char_386": "clarity_nt_char_386"
@@ -3957,7 +3957,7 @@
     "clarity_nt_char_438": "clarity_nt_char_438"
   },
   "1320": {
-    "鑑定した宝珠から <%sM_SKILL>が開花した！": ""
+    "鑑定した宝珠から <%sM_SKILL>が開花した！": "Learned <%sM_SKILL> from the appraised jewel!"
   },
   "1321": {
     "clarity_nt_char_439": "clarity_nt_char_439"

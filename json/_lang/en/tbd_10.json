@@ -1,6 +1,6 @@
 {
   "1": {
-    "<%sL_PC>が <%sL_PLACE>の|<%sL_COLOR>宝箱から手に入れた。": "<%sL_PC> obtained a <%sL_PLACE> <%sL_COLOR>|treasure chest."
+    "<%sL_PC>が <%sL_PLACE>の|<%sL_COLOR>宝箱から手に入れた。": "<%sL_PC> obtained from a <%sL_COLOR> Treasure|Chest in <%sL_PLACE>."
   },
   "2": {
     "clarity_nt_char_1": "clarity_nt_char_1"
@@ -12,7 +12,7 @@
     "<%sL_PC>が <%sL_SYOKUNIN>で|<%sL_KOUKA>の効果を付けた。": ""
   },
   "5": {
-    "<%sL_PC>が <%sL_PLACE>の|お店で買った。": "<%sL_PC> bought it at a shop in|<%sL_PLACE>"
+    "<%sL_PC>が <%sL_PLACE>の|お店で買った。": "<%sL_PC> bought it at a shop in|<%sL_PLACE>."
   },
   "6": {
     "clarity_nt_char_2": "clarity_nt_char_2"
@@ -93,7 +93,7 @@
     "clarity_nt_char_12": "clarity_nt_char_12"
   },
   "32": {
-    "アクセサリー合成屋で 合成して|<%sL_KOUKA>の効果を付けた。": ""
+    "アクセサリー合成屋で 合成して|<%sL_KOUKA>の効果を付けた。": "Effect of <%sL_KOUKA>|was added by synthesizing another accessory."
   },
   "33": {
     "<speed=0><%sM_pc>は|<%sM_item>使った。<br>|しかし　何も　おこらなかった。|栽培に　使ってみよう！": "<speed=0><%sM_pc>|used the <%sM_item>.<br>|But nothing happened.|Try using it for cultivating!"
@@ -135,13 +135,13 @@
     "clarity_nt_char_17": "clarity_nt_char_17"
   },
   "46": {
-    "<%sL_PC>が おさかなコインと交換して|手に入れた。": ""
+    "<%sL_PC>が おさかなコインと交換して|手に入れた。": "<%sL_PC> exchanged for Fish Coins."
   },
   "47": {
     "<%sL_PC>が <%sL_PLACE>で|釣り上げた。": "<%sL_PC> reeled in at <%sL_PLACE>."
   },
   "48": {
-    "<%sL_PC>が <%sL_ITEM>を使って|手に入れた。": ""
+    "<%sL_PC>が <%sL_ITEM>を使って|手に入れた。": "<%sL_PC> used a <%sL_ITEM> to|obtain this."
   },
   "49": {
     "<%sM_pc>は <%sM_action>「<%sM_item2>」を おぼえた！": ""
@@ -165,13 +165,13 @@
     "しぐさ": "Gesture"
   },
   "56": {
-    "<%sL_KOUKA> の|効果が付いた。": "Effect of <%sL_KOUKA> was added."
+    "<%sL_KOUKA> の|効果が付いた。": "Effect of <%sL_KOUKA>|was added."
   },
   "57": {
     "人形ポーズ": ""
   },
   "58": {
-    "<%sL_PC>が まとめ屋から もらった。": ""
+    "<%sL_PC>が まとめ屋から もらった。": "Received from a Summary Shop."
   },
   "59": {
     "clarity_nt_char_20": "clarity_nt_char_20"
@@ -207,7 +207,7 @@
     "<%sL_PC>が プライベートコンシェルジュから|もらった。": ""
   },
   "70": {
-    "<%sL_PC>が すごろくの景品で|手に入れた。": ""
+    "<%sL_PC>が すごろくの景品で|手に入れた。": "<%sL_PC> obtained from playing Sugoroku."
   },
   "71": {
     "<%sL_PC>が コロシアムの景品で|手に入れた。": ""
@@ -216,7 +216,7 @@
     "clarity_nt_char_23": "clarity_nt_char_23"
   },
   "73": {
-    "アクセサリー合成屋で 伝承して|<%sL_KOUKA>の効果を付けた。": ""
+    "アクセサリー合成屋で 伝承して|<%sL_KOUKA>の効果を付けた。": "The effect of <%sL_KOUKA> was|synthesized as a bonus effect."
   },
   "74": {
     "札強化屋で|<%sL_KOUKA>の効果を付けた。": "Added the effect of <%sL_KOUKA>."
@@ -237,7 +237,7 @@
     "<%sL_PC>が 防衛戦で 手に入れた。": "<%sL_PC> received from Defense Force."
   },
   "80": {
-    "<%sL_PC>が <%sL_PLACE>で釣り上げた|金の宝箱から　手に入れた。": "<%sL_PC> reeled in at <%sL_PLACE>.|Obtained a gold treasure chest."
+    "<%sL_PC>が <%sL_PLACE>で釣り上げた|金の宝箱から　手に入れた。": "<%sL_PC> reeled in at <%sL_PLACE>|and obtained from a gold treasure chest."
   },
   "81": {
     "<%sL_PC>が <%sL_PLACE>で|手に入れた。": "<%sL_PC> obtained from <%sL_PLACE>."
@@ -315,7 +315,7 @@
     "しかし　<%sM_item>は|すでに　トランプケースに　入っていた。": ""
   },
   "106": {
-    "<speed=0><pc>は|<%sM_item>を　使った。": ""
+    "<speed=0><pc>は|<%sM_item>を　使った。": "<speed=0><pc> used the <%sM_item>."
   },
   "107": {
     "第<%nL_TITLE_NUM>回　<%sL_TITLE>の|<%nL_RANKING_NUM>位を得た。": ""

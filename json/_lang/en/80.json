@@ -66,19 +66,19 @@
     "水色ドレスシルクハット": ""
   },
   "23": {
-    "あたまリボン赤": ""
+    "あたまリボン赤": "Red Head Ribbon"
   },
   "24": {
-    "あたまリボン桃": ""
+    "あたまリボン桃": "Peach Head Ribbon"
   },
   "25": {
-    "あたまリボン茶": ""
+    "あたまリボン茶": "Tea Head Ribbon"
   },
   "26": {
     "帯なしリボン黒": ""
   },
   "27": {
-    "あたまリボン水色": ""
+    "あたまリボン水色": "Light Blue Head Ribbon"
   },
   "28": {
     "clarity_nt_char_8": "clarity_nt_char_8"
@@ -303,7 +303,7 @@
     "clarity_nt_char_29": "clarity_nt_char_29"
   },
   "102": {
-    "スライムベス色": ""
+    "スライムベス色": "She-Slime Skin"
   },
   "103": {
     "メタルスライム色": "Metal Slime Skin"
@@ -327,7 +327,7 @@
     "ベホイミスライム色": ""
   },
   "110": {
-    "メタルホイミン色": "Metal Healslime Skin"
+    "メタルホイミン色": "Metal Healie Skin"
   },
   "111": {
     "clarity_nt_char_32": "clarity_nt_char_32"
@@ -474,7 +474,7 @@
     "リトルライバーン色": ""
   },
   "159": {
-    "おおきづち色": ""
+    "おおきづち色": "Hammerhood Skin"
   },
   "160": {
     "clarity_nt_char_50": "clarity_nt_char_50"
@@ -501,7 +501,7 @@
     "clarity_nt_char_52": "clarity_nt_char_52"
   },
   "168": {
-    "ガチャコッコ色": ""
+    "ガチャコッコ色": "Clockwork Cuckoo Skin"
   },
   "169": {
     "アイアンクック色": ""
@@ -561,7 +561,7 @@
     "ビッグハット色": ""
   },
   "188": {
-    "トンブレロ色": ""
+    "トンブレロ色": "Ham Shamwitch Skin"
   },
   "189": {
     "clarity_nt_char_61": "clarity_nt_char_61"
@@ -603,7 +603,7 @@
     "ストーンマン色": ""
   },
   "202": {
-    "ゴールドマン色": ""
+    "ゴールドマン色": "Gold Golem Skin"
   },
   "203": {
     "ミステリピラー色": ""
@@ -678,7 +678,7 @@
     "clarity_nt_char_72": "clarity_nt_char_72"
   },
   "227": {
-    "パラディノス色": ""
+    "パラディノス色": "Paladinsaurus Skin"
   },
   "228": {
     "ニードルうさこ色": ""
@@ -693,7 +693,7 @@
     "clarity_nt_char_74": "clarity_nt_char_74"
   },
   "232": {
-    "デュランダル色": ""
+    "デュランダル色": "A3G15 Skin"
   },
   "233": {
     "メギドロイド色": "Mechidroid Skin"
@@ -735,7 +735,7 @@
     "アッシュリザード色": ""
   },
   "246": {
-    "ツンドラキー色": ""
+    "ツンドラキー色": "Arctic Dracky Skin"
   },
   "247": {
     "シールド勲章": ""
@@ -747,7 +747,7 @@
     "Ｖジャンプの魔物仮面改": ""
   },
   "250": {
-    "フラッペリン色": ""
+    "フラッペリン色": "White Imp Skin"
   },
   "251": {
     "ボーンヘルム": ""
@@ -774,10 +774,10 @@
     "ぶちスライム色": ""
   },
   "259": {
-    "トマホーガー色": ""
+    "トマホーガー色": "Halberdsaurus Skin"
   },
   "260": {
-    "カンダタこぶん色": ""
+    "カンダタこぶん色": "Merry Man Skin"
   },
   "261": {
     "clarity_nt_char_83": "clarity_nt_char_83"
@@ -795,7 +795,7 @@
     "clarity_nt_char_84": "clarity_nt_char_84"
   },
   "266": {
-    "ファラオ・ゴレム色": ""
+    "ファラオ・ゴレム色": "Pharaoh Golem Skin"
   },
   "267": {
     "伐採マシン色": ""
@@ -1302,7 +1302,7 @@
     "clarity_nt_char_136": "clarity_nt_char_136"
   },
   "435": {
-    "おおきづちいろ": ""
+    "おおきづちいろ": "Hammerhood Skin"
   },
   "436": {
     "ぶらっくちゃっくいろ": ""
@@ -2700,10 +2700,10 @@
     "Ｇブレード": "G Blade"
   },
   "901": {
-    "にくきゅうの杖": "Cat Paw Cane"
+    "にくきゅうの杖": "Pawmaturge Cane"
   },
   "902": {
-    "パラディノアックス": ""
+    "パラディノアックス": "Paladinsaurus Axe"
   },
   "903": {
     "カプレーゼの杖": ""
@@ -2850,10 +2850,10 @@
     "clarity_nt_char_313": "clarity_nt_char_313"
   },
   "951": {
-    "ライムウェル色": ""
+    "ライムウェル色": "Limewell Skin"
   },
   "952": {
-    "ツクモモン色": ""
+    "ツクモモン色": "Blk. Sanguini Skin"
   },
   "953": {
     "clarity_nt_char_314": "clarity_nt_char_314"
@@ -2868,7 +2868,7 @@
     "clarity_nt_char_315": "clarity_nt_char_315"
   },
   "957": {
-    "マギロッド色": ""
+    "マギロッド色": "Magirod Skin"
   },
   "958": {
     "clarity_nt_char_316": "clarity_nt_char_316"
@@ -2892,7 +2892,7 @@
     "clarity_nt_char_318": "clarity_nt_char_318"
   },
   "965": {
-    "バーバニードル色": ""
+    "バーバニードル色": "Barber Needle Skin"
   },
   "966": {
     "clarity_nt_char_319": "clarity_nt_char_319"
@@ -3135,7 +3135,7 @@
     "キラーパンサー種の見た目を|三の星獣アロト色に|変身させる": ""
   },
   "1046": {
-    "マギロッドの杖": ""
+    "マギロッドの杖": "Magirod's Staff"
   },
   "1047": {
     "テゼの剣": ""

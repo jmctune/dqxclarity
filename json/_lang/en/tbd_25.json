@@ -81,22 +81,22 @@
     "clarity_nt_char_5": "clarity_nt_char_5"
   },
   "28": {
-    "<pc>の釣りレベルが　<%dL_LEVEL>にあがった！": ""
+    "<pc>の釣りレベルが　<%dL_LEVEL>にあがった！": "<pc>'s fishing level is now <%dL_LEVEL>!"
   },
   "29": {
-    "釣りレベルが<%nL_LEVEL>にアップ！": ""
+    "釣りレベルが<%nL_LEVEL>にアップ！": "Fishing level <%nL_LEVEL>!"
   },
   "30": {
     "clarity_nt_char_6": "clarity_nt_char_6"
   },
   "31": {
-    "<%sL_FISH>の|キングサイズ釣った！": ""
+    "<%sL_FISH>の|キングサイズ釣った！": "Caught a King Size|<%sL_FISH>!"
   },
   "32": {
     "clarity_nt_char_7": "clarity_nt_char_7"
   },
   "33": {
-    "さかなを引き寄せる力が　増えた！": ""
+    "さかなを引き寄せる力が　増えた！": "Reel in power increased!"
   },
   "34": {
     "clarity_nt_char_8": "clarity_nt_char_8"
@@ -105,10 +105,10 @@
     "今日のまちかど情報": "Today's Town Info"
   },
   "36": {
-    "<%sM_class>": ""
+    "<%sM_class>": "<%sM_class>"
   },
   "37": {
-    "<%sM_syokunin>": ""
+    "<%sM_syokunin>": "<%sM_syokunin>"
   },
   "38": {
     "clarity_nt_char_9": "clarity_nt_char_9"
@@ -138,46 +138,46 @@
     "clarity_nt_char_11": "clarity_nt_char_11"
   },
   "47": {
-    "スーパーVIPルーム": ""
+    "スーパーVIPルーム": "Super VIP Room"
   },
   "48": {
     "clarity_nt_char_12": "clarity_nt_char_12"
   },
   "49": {
-    "スーパーVIPテーブル": ""
+    "スーパーVIPテーブル": "Super VIP Table"
   },
   "50": {
-    "ここまでくると自分の才能が恐ろしいな！": ""
+    "ここまでくると自分の才能が恐ろしいな！": "I'm just TOO talented at this!"
   },
   "51": {
-    "グハハハハハッ……！": ""
+    "グハハハハハッ……！": "Gahahahaha....!"
   },
   "52": {
     "clarity_nt_char_13": "clarity_nt_char_13"
   },
   "53": {
-    "見たか！　これが余のチカラよ！！": ""
+    "見たか！　これが余のチカラよ！！": "Don't you see?! This is my power!"
   },
   "54": {
     "clarity_nt_char_14": "clarity_nt_char_14"
   },
   "55": {
-    "まだだ……。これで終わりではないぞ！": ""
+    "まだだ……。これで終わりではないぞ！": "Still... This isn't the end just yet!"
   },
   "56": {
     "clarity_nt_char_15": "clarity_nt_char_15"
   },
   "57": {
-    "<pc>は　釣りをやめた。": ""
+    "<pc>は　釣りをやめた。": "<pc> stopped fishing."
   },
   "58": {
-    "ここに　旬のさかなは　いないようだ。": ""
+    "ここに　旬のさかなは　いないようだ。": "There seems to be no seasonal fish here."
   },
   "59": {
     "clarity_nt_char_16": "clarity_nt_char_16"
   },
   "60": {
-    "旬のさかなの　気配を感じる！": ""
+    "旬のさかなの　気配を感じる！": "You have a feeling there's seasonal fish!"
   },
   "61": {
     "clarity_nt_char_17": "clarity_nt_char_17"
@@ -186,7 +186,7 @@
     "<pipipi_high>|「ここは　○○○○○イベント限定の|　カジノコインとひきかえに|　景品をおわたしする　交換所です。|<br>|「申し訳ありませんが　ゴルスラ会長から|　参加登録後に　ご利用になれますわ。": ""
   },
   "63": {
-    "チャージが完了すると|元気いっぱいになります": ""
+    "チャージが完了すると|元気いっぱいになります": "Energy will be full when|charge is completed."
   },
   "64": {
     "clarity_nt_char_18": "clarity_nt_char_18"
@@ -207,13 +207,13 @@
     "clarity_nt_char_20": "clarity_nt_char_20"
   },
   "70": {
-    "消費アイテム": "Usable Items"
+    "消費アイテム": "Consumables"
   },
   "71": {
     "clarity_nt_char_21": "clarity_nt_char_21"
   },
   "72": {
-    "素材": "Mats"
+    "素材": "Mats."
   },
   "73": {
     "clarity_nt_char_22": "clarity_nt_char_22"

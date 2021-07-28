@@ -9,7 +9,7 @@
     "暗証番号が間違っています。<bw_break>": ""
   },
   "4": {
-    "ネットワークに接続しています……。<break>": ""
+    "ネットワークに接続しています……。<break>": "Connected to the network...<break>"
   },
   "5": {
     "特定商取引法に基づく表示については　Ｗiiショッ|ピングチャンネルの　取扱説明書の「特定商取引法|に基づく表示」のページをご参照ください。<br>|Ｗiiショッピングチャンネルの|取扱説明書を　起動しますか？<yesno 2><close>": ""
@@ -30,7 +30,7 @@
     "ログインをやめて　タイトル画面に戻ります。|よろしいですか？<yesno 2><close>": ""
   },
   "11": {
-    "ログインしています……。<break>": ""
+    "ログインしています……。<break>": "Logging in...<break>"
   },
   "12": {
     "データを受信して　ＵＳＢメモリーに|書き込んでいます。ＵＳＢメモリーを抜いたり|本体の電源を切ったりしないでください。<break>": ""
@@ -57,16 +57,16 @@
     "<center><speed=0>（削除予定）": ""
   },
   "20": {
-    "冒険の書の消去を　取りやめます。": ""
+    "冒険の書の消去を　取りやめます。": "Cancelled Adventure Book deletion."
   },
   "21": {
-    "冒険の書<%nNO>のデータを　消しました。<end>": ""
+    "冒険の書<%nNO>のデータを　消しました。<end>": "Data of Adventure Book <%dNO> was deleted.<end>"
   },
   "22": {
     "冒険の書<%nNO>に保存されている|<%sPCNAME>と　<%sPCNAME2>の|すべての冒険の記録を消します。<br>|オフラインモードと　オンラインモードの|両方のキャラで　冒険ができなくなりますが|冒険の書<%nNO>を消しても　よろしいですか？<yesno 2><break>": ""
   },
   "23": {
-    "あやまって消すのを防ぐため|以下の　確認番号を入れてください。|確認番号：<%sNUM><break>": ""
+    "あやまって消すのを防ぐため|以下の　確認番号を入れてください。|確認番号：<%sNUM><break>": "Please enter the following confirmation|number to prevent accidental deletion.|Confirmation Number: <%sNUM><break>"
   },
   "24": {
     "データを消す　冒険の書を　選んでください。<break>": "Please select an adventure book to erase.<break>"
@@ -87,13 +87,13 @@
     "アイテムチケットを買い足す|冒険の書を　選んでください。<break>": ""
   },
   "30": {
-    "これ以上　冒険の書を作れません！|新しく作りたい場合は　先に|いずれかの　冒険の書を消してください。<end>": ""
+    "これ以上　冒険の書を作れません！|新しく作りたい場合は　先に|いずれかの　冒険の書を消してください。<end>": "You can't create any more Adventure Books!|Please delete one of your existing Adventure|Books first."
   },
   "31": {
     "何番の冒険の書に　キャラを作りますか？": ""
   },
   "32": {
-    "ログイン画面に　戻りますか？<yesno 2><break>": ""
+    "ログイン画面に　戻りますか？<yesno 2><break>": "Return to the login screen?<yesno 2><break>"
   },
   "33": {
     "あと　約<%dHOUR>時間<%02dMIN>分<%02dSEC>秒": ""
@@ -162,10 +162,10 @@
     "・利用券を Ｗiiポイントで購入する場合は|　有効期間を 自動継続することはできません。|　期限切れになりましたら 再度 ご購入ください。|　|・この利用券は ドラゴンクエストⅩの|　オンラインモードでのみ ご利用いただけます。|　他のＷiiソフトでは ご利用いただけませんので|　ご注意ください。|　|・この利用券については ドラゴンクエストⅩの|　取扱説明書 および 利用規約の条件が 適用されます。": ""
   },
   "55": {
-    "確認番号が　ちがいます。<end>": ""
+    "確認番号が　ちがいます。<end>": "Incorrect confirmation number.<end>"
   },
   "56": {
-    "確認番号の入力": ""
+    "確認番号の入力": "Enter Number"
   },
   "57": {
     "この<%sConsole>に登録されていない|スクウェア・エニックス アカウントを使って|一時的に　オンラインモードで遊べます。<br>|ただし　利用券の購入はできないので|有効期間が残っていなければ　遊べません。<br>|ネットワークに接続して　ゲストプレイヤーで|オンラインモードを始めますか？<yesno><close>": ""
@@ -240,7 +240,7 @@
     "冒険の書<%nNO>に保存されている|<%sPCNAME>の　冒険の記録を消します。|よろしいですか？<yesno 2><break>": "This will delete the records of <%sPCNAME>|saved in Adventure Book <%dNO>.|Are you sure?<yesno 2><break>"
   },
   "81": {
-    "（※削除予定）<bw_break>": ""
+    "（※削除予定）<bw_break>": "(*Plan to Delete)<bw_break>"
   },
   "82": {
     "同意がなければ　手続きはできません。|規約に同意いただける場合は|チェックを入れてから　次へ進んでください。<end>": ""
@@ -288,7 +288,7 @@
     "スクウェア・エニックス アカウントの|ＩＤと　パスワードを　入れてください。<break>": ""
   },
   "97": {
-    "ログアウトしています……。<break>": ""
+    "ログアウトしています……。<break>": "Logging out...<break>"
   },
   "98": {
     "新しい冒険の書を作るには　オフラインモードから|スタートする必要があります。|<color_yellow>※最初のシナリオは　スキップできます。<color_white><br>|オフラインモードを　スタートするために|今すぐ　ログアウトしますか？<yesno><break>": ""
@@ -297,7 +297,7 @@
     "冒険の書に記録しています。|電源ボタンや　リセットボタンに|さわらないでください……。<break>": ""
   },
   "100": {
-    "冒険の書に記録しました！<end>": ""
+    "冒険の書に記録しました！<end>": "冒険の書に記録しました！<end>"
   },
   "101": {
     "システムデータを保存しています。|電源ボタンや　リセットボタンに|さわらないでください……。<break>": ""
@@ -306,7 +306,7 @@
     "システムデータを保存しました！<end>": ""
   },
   "103": {
-    "処理中です……。<break>": ""
+    "処理中です……。<break>": "Processing...<break>"
   },
   "104": {
     "情報を確認しています……。<break>": ""
@@ -387,13 +387,13 @@
     "オンラインの世界では　多くの人が|あなたのキャラや　兄弟（姉妹）キャラの名前を|目にすることになります。<br>|<color_yellow>本名など　個人を特定される名前や|他の人が不快に感じる名前は|ここで　変更を　お願いします。<color_white><br>|ドラゴンクエストⅩの　オンラインの世界に|『<%sPCNAME>』という名前のキャラは|現在　<%dNUM>名ほど　いるようです。<br>|『<%sPCNAME>』という名前で|冒険の書に反映して　よろしいですか？<yesno><break>": ""
   },
   "130": {
-    "新しい名前を入れてください。<break>": ""
+    "新しい名前を入れてください。<break>": "Please enter a new name.<break>"
   },
   "131": {
-    "オンラインの世界で使う　キャラの名前は|『<%sPCNAME>』で　よろしいですか？<yesno><break>": ""
+    "オンラインの世界で使う　キャラの名前は|『<%sPCNAME>』で　よろしいですか？<yesno><break>": "The name of your online character will|be \"<%sPCNAME>, is this okay?<yesno><break>"
   },
   "132": {
-    "あなたが付けた　キャラの名前は|オンラインの世界では　使うことができません。|別の名前に変えてください。<bw_break>": ""
+    "あなたが付けた　キャラの名前は|オンラインの世界では　使うことができません。|別の名前に変えてください。<bw_break>": "The character name you chose cannot|be used online. Please choose a different|name.<bw_break>"
   },
   "133": {
     "そのパスワードは　使えません。|次のいずれかに　該当していると思われます。|・最少文字数（6文字）未満<br>|・ＩＤと同じ文字列で始まっている|・同じ文字が3文字以上続いている|・英字／数字／記号の　いずれかのみの文字列<end>": ""
@@ -420,13 +420,13 @@
     "プレイヤー<%nPLAYER_NO>に|<%sID>を　登録しました！<end>": ""
   },
   "141": {
-    "処理中です……。<break>": ""
+    "処理中です……。<break>": "Processing...<break>"
   },
   "142": {
     "生年月日が　正しく入力されていません。|正しい日付を　ご確認ください。<end>": ""
   },
   "143": {
-    "入力されていない項目があります。<end>": ""
+    "入力されていない項目があります。<end>": "Some fields were left empty.<end>"
   },
   "144": {
     "ふたつのメールアドレスが　一致していません。|同じものを　正しく２回　入れてください。<end>": ""
@@ -555,7 +555,7 @@
     "住所の検索ができませんでした。|郵便番号が　正しく入力されていないか|登録されていない郵便番号です。<end>": ""
   },
   "186": {
-    "（※削除予定）<bw_break>": ""
+    "（※削除予定）<bw_break>": "(*Plan to Delete)<bw_break>"
   },
   "187": {
     "（※削除予定）<break>": ""
@@ -564,7 +564,7 @@
     "（※削除予定）<yesno><break>": ""
   },
   "189": {
-    "（※削除予定）<bw_break>": ""
+    "（※削除予定）<bw_break>": "(*Plan to Delete)<bw_break>"
   },
   "190": {
     "（※削除予定）<break>": ""
@@ -576,7 +576,7 @@
     "（※削除予定）<break>": ""
   },
   "193": {
-    "（※削除予定）<bw_break>": ""
+    "（※削除予定）<bw_break>": "(*Plan to Delete)<bw_break>"
   },
   "194": {
     "（※削除予定）<break>": ""
@@ -588,7 +588,7 @@
     "（※削除予定）<break>": ""
   },
   "197": {
-    "<%dDAY>日分": ""
+    "<%dDAY>日分": "<%dDAY> Days"
   },
   "198": {
     "冒険の書<%nNUM>": ""
@@ -609,7 +609,7 @@
     "<color_yellow>※20才未満の方は保護者の方の同意が必要です。|　また　15才未満の方は　必ず　保護者の方と|　一緒に　登録手続きを行なってください。<br>|<color_white>次の画面の　利用規約を　よくお読みいただき|同意いただけるならば　『利用規約に同意する』に|チェックをして　次へ進んでください。<end>": ""
   },
   "204": {
-    "オープニング": ""
+    "オープニング": "Opening"
   },
   "205": {
     "オープニング終了": ""
@@ -639,7 +639,7 @@
     "利用券購入の　準備をしています……。<break>": ""
   },
   "214": {
-    "フィールドで中断していましたが|<%sSERVER>には　入れませんでした。|別のサーバーに移動します。<end>": ""
+    "フィールドで中断していましたが|<%sSERVER>には　入れませんでした。|別のサーバーに移動します。<end>": "You were interrupted in the field and|couldn't move to <%sSERVER>.|Please choose another server.<end>"
   },
   "215": {
     "住宅村で中断していましたが|住宅村専用サーバーには　入れませんでした。|住宅村入口のある町に　移動します。<end>": ""
@@ -666,7 +666,7 @@
     "<%d_YYYY>年<%2d_MM>月<%2d_DD>日 まで": "Until <%2d_MM>/<%2d_DD>/<%d_YYYY>"
   },
   "223": {
-    "（キッズタイム中）": ""
+    "（キッズタイム中）": "(Kids Time Active)"
   },
   "224": {
     "<%dGENKICHARGE>時間": "<%dGENKICHARGE>h"
@@ -675,7 +675,7 @@
     "利用券の有効期間": "Validity Period"
   },
   "226": {
-    "ありません": ""
+    "ありません": "None"
   },
   "227": {
     "Ｗiiポイントを使って|特別アイテムを購入します": ""
@@ -696,7 +696,7 @@
     "クレジットカードを登録して|利用券の自動継続をします": ""
   },
   "233": {
-    "アイテムコードを入力して|スペシャルアイテムをゲット": ""
+    "アイテムコードを入力して|スペシャルアイテムをゲット": "Enter an Item Code to|receive special items."
   },
   "234": {
     "自動継続で購入される|利用券の日数を変更します": ""
@@ -708,10 +708,10 @@
     "オフラインのみプレイ中": ""
   },
   "237": {
-    "ログインに必要な処理をしています。|この処理には　数分かかる場合もあります。|少々お待ちください……。<break>": ""
+    "ログインに必要な処理をしています。|この処理には　数分かかる場合もあります。|少々お待ちください……。<break>": "Login is currently being processed. This|may take several minutes. Please wait.<break>"
   },
   "238": {
-    "（※削除予定）<bw_break>": ""
+    "（※削除予定）<bw_break>": "(*Plan to Delete)<bw_break>"
   },
   "239": {
     "入力したアカウントは　すでに|プレイヤー<%nPLAYER_NO>に　登録されています。<end>": ""
@@ -903,7 +903,7 @@
     "沖縄県": ""
   },
   "302": {
-    "コース変更チケット": ""
+    "コース変更チケット": "Course Change Ticket"
   },
   "303": {
     "ドラゴンクエストⅩ|オンラインモードの世界へ　ようこそ！<br>|これより　オンラインモードで遊ぶための|簡単な　５つのＳＴＥＰの手続きを　行います。|<color_yellow>※この手続きは　初回だけ　必要なものです。<br>|<color_white>この手続きが終われば　20日間　無料で|ドラゴンクエストⅩ　オンラインモードを|お楽しみいただけます！<end>": ""
@@ -924,7 +924,7 @@
     "<%d_YYYY>年<%2d_MM>月<%2d_DD>日まで（残り<%3d_DAY>日）": "Until <%2d_MM>/<%2d_DD>/<%d_YYYY> (<%3d_DAY> days left)"
   },
   "309": {
-    "無料": ""
+    "無料": "Free"
   },
   "310": {
     "本当に　消しても　よろしいですか？<yesno 2><close>": ""
@@ -960,10 +960,10 @@
     "（※削除予定）<end>": ""
   },
   "321": {
-    "（決済中でも プレイできます）": ""
+    "（決済中でも プレイできます）": "(Playable During Payment)"
   },
   "322": {
-    "自動継続の決済中です…": ""
+    "自動継続の決済中です…": "Automatic renewal in progress…"
   },
   "323": {
     "クレジットカードの認証のため|入力していただいた　クレジットカード情報を|センターに送信します。よろしいですか？<yesno><close>": ""
@@ -1080,16 +1080,16 @@
     "<%sPCNAME>の郵便箱に|『<%sCODENAME>』の|アイテムを送りました！<me_60><end>": ""
   },
   "361": {
-    "アイテムコードの入力": "Enter the item code"
+    "アイテムコードの入力": "Enter Item Code"
   },
   "362": {
-    "ひみつのじゅもんを入れて|プレゼントを受け取ろう！": ""
+    "ひみつのじゅもんを入れて|プレゼントを受け取ろう！": "Enter a secret code to|get a special present!"
   },
   "363": {
     "プレゼントのじゅもんが　ちがいます。|間違って入力されているか|すでに受け取ったことのある　プレゼントです。<end>": ""
   },
   "364": {
-    "そのアイテムコードは　使えません。|間違って入力されているか　使用済みか|すでに登録したことのあるアイテムです。<end>": ""
+    "そのアイテムコードは　使えません。|間違って入力されているか　使用済みか|すでに登録したことのあるアイテムです。<end>": "This item code cannot be used. It is either|invalid or it has already been used."
   },
   "365": {
     "（※削除予定）": "(*Planned Deletion)"
@@ -1128,16 +1128,16 @@
     "名前を変更しなければ|ゲームを再開できません。|キャンセルしても　よろしいですか？<yesno><break>": "You can't start the game without renaming first.|Are you sure you want to cancel?<yesno><break>"
   },
   "377": {
-    "名前を変更しました。<end>": ""
+    "名前を変更しました。<end>": "Character was renamed.<end>"
   },
   "378": {
     "あなたの持つ　家の名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※多くの人が　目にする名前のため|　個人情報や　他の人が不快に感じる名前は|　つけないように　ご注意ください！<color_white><end>": ""
   },
   "379": {
-    "新しい　家の名前は|『<%sNEWNAME>』で|よろしいですか？<yesno><break>": ""
+    "新しい　家の名前は|『<%sNEWNAME>』で|よろしいですか？<yesno><break>": "Give your house the new name of|\"<%sNEWNAME>\"?<yesno><break>"
   },
   "380": {
-    "その名前は使えません。|ちがう名前を　入れてください。<end>": ""
+    "その名前は使えません。|ちがう名前を　入れてください。<end>": "You cannot use that name. Please enter|a different name.<end>"
   },
   "381": {
     "ご使用中の　キャラクターの名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※多くの人が　目にする名前のため|　個人情報や　他の人が不快に感じる名前は|　つけないように　ご注意ください！<color_white><end>": ""
@@ -1146,7 +1146,7 @@
     "あなたの持つ　チームの名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※多くの人が　目にする名前のため|　個人情報や　他の人が不快に感じる名前は|　つけないように　ご注意ください！<color_white><end>": ""
   },
   "383": {
-    "新しい　チーム名は|『<%sNEWNAME>』で|よろしいですか？<yesno><break>": ""
+    "新しい　チーム名は|『<%sNEWNAME>』で|よろしいですか？<yesno><break>": "Use the new Team name \"<%sNEWNAME>\"?<yesno><break>"
   },
   "384": {
     "予備": ""
@@ -1227,7 +1227,7 @@
     "冒険の書を削除できる回数が　残り0回のため|削除できません。<br>|この回数は　毎月1日午前0時以降に|ログインしなおすと　一定量　回復します。<end>": "You cannot delete this Adventure Book as|there are 0 attempts remaining.<br>|This amount will reset by logging in|again after midnight on the first|day of the month.<end>"
   },
   "410": {
-    "冒険の書を削除できる回数は　残り<%dCHAR_DEL_NUM>回です。|この回数は　毎月1日午前0時以降に|ログインしなおすと　一定量　回復します。<end>": "You only have <%dCHAR_DEL_NUM> adventure books left to delete. |This amount will reset by logging in|again after midnight on the first|day of the month.<end>"
+    "冒険の書を削除できる回数は　残り<%dCHAR_DEL_NUM>回です。|この回数は　毎月1日午前0時以降に|ログインしなおすと　一定量　回復します。<end>": "You have <%dCHAR_DEL_NUM> Adventure Book(s) left to delete. |This amount will reset by logging in|again after midnight on the first|day of the month.<end>"
   },
   "411": {
     "冒険の書を　削除することができません。|<br>|冒険の書のデータを　取得できないか|キャラクターが　レンダーヒルズ地区に|土地を　所有しています。|<br>|一度　環境状況や　キャラクターを|ご確認の上　改めて　お試しください。<end>": ""
@@ -1371,7 +1371,7 @@
     "生年月日が　正しく入力されていません。|正しい日付を　ご確認ください。<break>": ""
   },
   "458": {
-    "ログイン画面に　戻りますか？<yesno 2><break>": ""
+    "ログイン画面に　戻りますか？<yesno 2><break>": "Return to the login screen?<yesno 2><break>"
   },
   "459": {
     "はじめてドラゴンクエストⅩを遊ぶ場合は|こちらを選択してください。|（ご注意）|・オンラインモードをプレイしたことのある場合は|　「すでに遊んでいるアカウントを登録する」を|　選択してください。|・２つ目のアカウントを登録したい場合は|　未登録のレジストレーションコードが必要です。": ""
@@ -1488,10 +1488,10 @@
     "（フリープレイ中）": ""
   },
   "497": {
-    "条件を満たした|特典プレゼントを受け取ろう": ""
+    "条件を満たした|特典プレゼントを受け取ろう": "Receive special gifts by|meeting certain criteria."
   },
   "498": {
-    "条件を満たしていないため|このプレゼントは　受け取れません。": ""
+    "条件を満たしていないため|このプレゼントは　受け取れません。": "You haven't met the criteria to receive this|present."
   },
   "499": {
     "（ネットカフェプレイ中）": ""
@@ -1530,7 +1530,7 @@
     "ポイント": "Points"
   },
   "511": {
-    " ※Crysta自動更新（<%dDAY>日間利用券）": ""
+    " ※Crysta自動更新（<%dDAY>日間利用券）": "*Crysta Auto Renewal (<%dDAY> Day Ticket)"
   },
   "512": {
     "ビックポイント": ""
@@ -1569,10 +1569,10 @@
     "現在　登録できるレジストレーションコードは|ありません。追加パッケージを登録する場合は|先にインストールしてください。<end>": ""
   },
   "524": {
-    "契約状況を確認する": "Check license status"
+    "契約状況を確認する": "Check License Status"
   },
   "525": {
-    "レジストレーションコードを登録する": "Activate registration code"
+    "レジストレーションコードを登録する": "Activate Registration Code"
   },
   "526": {
     "登録したレジストレーションコードの確認": "Check registered codes"
@@ -1638,7 +1638,7 @@
     "（体験版プレイ中）": "(Trial Version)"
   },
   "547": {
-    "お客様への重要なお知らせ": ""
+    "お客様への重要なお知らせ": "Important Notice"
   },
   "548": {
     "★": ""
@@ -1662,7 +1662,7 @@
     "接続環境が変化した　もしくは|不審なアクセスを検知した恐れがあるため|ログインが　制限されています。": ""
   },
   "555": {
-    "ログイン画面に　戻りますか？<yesno 2><break>": ""
+    "ログイン画面に　戻りますか？<yesno 2><break>": "Return to the login screen?<yesno 2><break>"
   },
   "556": {
     "生年月日が　正しく入力されていません。|正しい日付を　ご確認ください。<end>": ""
@@ -1977,7 +1977,7 @@
     "パスワード再設定の手続きを進めるため|以下の　確認番号を入れてください。|確認番号：<%sNUM><break>": ""
   },
   "660": {
-    "確認番号が　ちがいます。<end>": ""
+    "確認番号が　ちがいます。<end>": "Incorrect confirmation number.<end>"
   },
   "661": {
     "預かり枠拡張＋<%nADDPLAN>": ""
@@ -2166,10 +2166,10 @@
     "5000年の旅路　遥かなる故郷へ": "5000 Year Journey to a Faraway Hometown"
   },
   "723": {
-    "位置を　入れかえる|１つ目の冒険の書を　選んでください。<break>": ""
+    "位置を　入れかえる|１つ目の冒険の書を　選んでください。<break>": "Choose the Adventure Book you'd like to|move.<break>"
   },
   "724": {
-    "位置を　入れかえる|２つ目の冒険の書を　選んでください。<break>": ""
+    "位置を　入れかえる|２つ目の冒険の書を　選んでください。<break>": "Choose the Adventure Book you'd like to swap|positions with.<break>"
   },
   "725": {
     "現在の環境では　冒険の書の|入れかえをすることができません。|<br>|冒険の書の　入れかえは|利用券が　有効なプラットフォームから|行うことができます。": "You can't replace the Adventure Book in the|current environment. |<br>|You can only replace the Adventure Book|from any platform where the ticket is valid."
@@ -2364,9 +2364,9 @@
     "バージョン『次拡張パッケージ』": ""
   },
   "789": {
-    "<speed=0>受け取る特典プレゼントを　選択してください。 |<color_yellow>※プレイ継続特典は　岳都ガタラにいる|　『継続特典係ミノノ』から　受け取りできます。<break>": ""
+    "<speed=0>受け取る特典プレゼントを　選択してください。 |<color_yellow>※プレイ継続特典は　岳都ガタラにいる|　『継続特典係ミノノ』から　受け取りできます。<break>": "<speed=0>Select the present you'd like to receive.|<color_yellow>*You can receive subscription benefits from|\"Minono\" in Gatara Capital. <break>"
   },
   "790": {
-    "このプレゼントは　すでに受け取っています。": ""
+    "このプレゼントは　すでに受け取っています。": "This present has already been received."
   }
 }

@@ -21,7 +21,7 @@
     "clarity_nt_char_3": "clarity_nt_char_3"
   },
   "8": {
-    "<speed=0>しかし　いまは　相手がいなかった。": "<speed=0>But right now, there was no partner."
+    "<speed=0>しかし　いまは　相手がいなかった。": "<speed=0>Too far away to view information."
   },
   "9": {
     "clarity_nt_char_4": "clarity_nt_char_4"
@@ -462,7 +462,7 @@
     "clarity_nt_char_51": "clarity_nt_char_51"
   },
   "155": {
-    "しかし ふしぎなチカラで かきけされた！": "But a mysterious power has made it possible!"
+    "しかし ふしぎなチカラで かきけされた！": "But a mysterious power stopped you!"
   },
   "156": {
     "clarity_nt_char_52": "clarity_nt_char_52"
@@ -651,7 +651,7 @@
     "<speed=0>いまは　パーティリーダーを　変えられません！": "<speed=0>I can't change the party leader right now!"
   },
   "218": {
-    "生きている|サポート仲間の|呪文で復活します": "Use your support|crew's spell to|revive yourself"
+    "生きている|サポート仲間の|呪文で復活します": "A support member|will revive|you."
   },
   "219": {
     "clarity_nt_char_74": "clarity_nt_char_74"
@@ -741,7 +741,7 @@
     "clarity_nt_char_84": "clarity_nt_char_84"
   },
   "248": {
-    "<speed=0>種族が合わないため　装備できない！": "<speed=0>I can't equip it because it doesn't match my race!"
+    "<speed=0>種族が合わないため　装備できない！": "<speed=0>Your current race can't equip this!"
   },
   "249": {
     "clarity_nt_char_85": "clarity_nt_char_85"
@@ -753,7 +753,7 @@
     "clarity_nt_char_86": "clarity_nt_char_86"
   },
   "252": {
-    "<speed=0>職業が合わないため　装備できない！": "<speed=0>Can't equip because it doesn't match my profession!"
+    "<speed=0>職業が合わないため　装備できない！": "<speed=0>Your current vocation can't equip this!"
   },
   "253": {
     "clarity_nt_char_87": "clarity_nt_char_87"
@@ -972,13 +972,13 @@
     "ふたつの言葉から|自由にかたがきを|自作します": "Create your own|title from two|words."
   },
   "325": {
-    "<speed=0><%sM_pc>への　仲間のさそいを　取り消した！": ""
+    "<speed=0><%sM_pc>への　仲間のさそいを　取り消した！": "<speed=0>Party invite to <%sM_pc> was cancelled!"
   },
   "326": {
     "clarity_nt_char_113": "clarity_nt_char_113"
   },
   "327": {
-    "<speed=0><%sM_pc>への　仲間のさそいを|取り消して　いいですか？<yesno><close>": ""
+    "<speed=0><%sM_pc>への　仲間のさそいを|取り消して　いいですか？<yesno><close>": "<speed=0>Cancel party invitation to <%sM_pc>?<yesno><close>"
   },
   "328": {
     "clarity_nt_char_114": "clarity_nt_char_114"
@@ -1059,7 +1059,7 @@
     "<speed=0>ブラックリストに　加えられる相手が|近くにいません。": "<speed=0>There's nobody nearby to add|to your blacklist."
   },
   "354": {
-    "このルーラストーンは　場所の記憶がありません。|教会で　ルーラストーンに|場所を記憶させることができます。": "This zoomstone has no location set. Set a location at a church or waypoint."
+    "このルーラストーンは　場所の記憶がありません。|教会で　ルーラストーンに|場所を記憶させることができます。": "This zoomstone has no location set. Set a|location at a church or waypoint."
   },
   "355": {
     "<speed=0>入力した内容を取り消して　元に戻しますか？<yesno><close>": "<speed=0>Cancel any changes you've made?<yesno><close>"
@@ -1110,7 +1110,7 @@
     "<speed=0>サポート仲間の　HPを0にします。|本当に　よろしいですか？<yesno 2><close>": ""
   },
   "371": {
-    "強制的に戦闘終了|逃げても仲間から|はずれません": "Even if you end the|battle and escape, you|won't leave your party."
+    "強制的に戦闘終了|逃げても仲間から|はずれません": "Forcibly end the|battle. You'll stay|in your party."
   },
   "372": {
     "clarity_nt_char_128": "clarity_nt_char_128"
@@ -1281,7 +1281,7 @@
     "<speed=0>クエスト『<%sM_Quest1>』を|クリアに戻しました。": ""
   },
   "428": {
-    "<%sM_pc>は　宝箱のふたをしめた。": ""
+    "<%sM_pc>は　宝箱のふたをしめた。": "<%sM_pc> closed the treasure chest."
   },
   "429": {
     "clarity_nt_char_147": "clarity_nt_char_147"
@@ -1791,7 +1791,7 @@
     "clarity_nt_char_202": "clarity_nt_char_202"
   },
   "598": {
-    "<speed=0>|『なかまをさがす』の　説明です！|<br>|パーティを組んで　一緒に冒険してくれる|仲間を探すには　『さくせん』の『なかま』から|『なかまをさがす』を　使います。|<br>|すると『いまどんな？設定』が『仲間募集中』の|世界中の冒険者を検索できます。職業や　レベル|目的を選んで　自分に合う仲間を見つけましょう。|<br>|検索範囲は　全世界　全サーバーが対象なので|どこで『なかまをさがす』をしても同じです。|<color_yellow>※一部　ストーリー上の特定範囲を除きます。<color_white>|<br>|仲間にしたい人を見つけたら　誘ってみましょう。|仲間になる前はチャットできませんが　相手も|仲間を探している人なので　失礼にはなりません。|<br>|誘った相手が　仲間になってくれたら|仲間のルーラストーンは　使うことができます。|互いに行ったことがある場所で　合流しましょう。|<br>|もし　相手が初対面の人なら|ちゃんと　あいさつするのを忘れずに。|マナーを守って　楽しい　アストルティア生活を！": "<speed=0>|This will explain \"Find a Party\"!|<br>|To form a party with others, you can use|the \"Find a Party\" command by using the \"Misc.\"|command, and then \"Party\".|<br>|You can search for other adventurers who|have the \"Seeking Party\" Status Icon set. Choose a|vocation and the goals that you want to pursue.|<br>|The search will cover all servers, so it doesn't matter|where you search from.|<color_yellow>*Some specific story areas are excluded.|<br>|If you find someone who matches your goals,|invite them!|<br>|You'll be able to use your party member's Zoomstones,|so you can meet up at a place you've both been to.|<br>|If you're meeting for the first time, don't|forget to say hello! Use good manners and have|a fun time with your adventures in Astoltia!"
+    "<speed=0>|『なかまをさがす』の　説明です！|<br>|パーティを組んで　一緒に冒険してくれる|仲間を探すには　『さくせん』の『なかま』から|『なかまをさがす』を　使います。|<br>|すると『いまどんな？設定』が『仲間募集中』の|世界中の冒険者を検索できます。職業や　レベル|目的を選んで　自分に合う仲間を見つけましょう。|<br>|検索範囲は　全世界　全サーバーが対象なので|どこで『なかまをさがす』をしても同じです。|<color_yellow>※一部　ストーリー上の特定範囲を除きます。<color_white>|<br>|仲間にしたい人を見つけたら　誘ってみましょう。|仲間になる前はチャットできませんが　相手も|仲間を探している人なので　失礼にはなりません。|<br>|誘った相手が　仲間になってくれたら|仲間のルーラストーンは　使うことができます。|互いに行ったことがある場所で　合流しましょう。|<br>|もし　相手が初対面の人なら|ちゃんと　あいさつするのを忘れずに。|マナーを守って　楽しい　アストルティア生活を！": "<speed=0>|This will explain \"Find a Party\"!|<br>|To form a party with others, you can use|the \"Find a Party\" command by using the \"Misc.\"|command, and then \"Party\".|<br>|You can search for other adventurers who|have the \"Seeking Party\" Status Icon set. Choose a|vocation and the goals that you want to pursue.|<br>|The search will cover all servers, so it doesn't matter|where you search from.|<color_yellow>*Some specific story areas are excluded.<color_white>|<br>|If you find someone who matches your goals,|invite them!|<br>|You'll be able to use your party member's Zoomstones,|so you can meet up at a place you've both been to.|<br>|If you're meeting for the first time, don't|forget to say hello! Use good manners and have|a fun time with your adventures in Astoltia!"
   },
   "599": {
     "<speed=0>|チームの　説明です！|<br>|チームとは　仲のよいプレイヤー同士が|最大255名の　グループとなるための機能です。|<br>|チームに加入すると　どんな場所にいても|複数のメンバーと　同時にチャットができたり|チームエンブレムや　スローガンを共有できます。|<br>|目覚めし冒険者の広場には　チーム専用の|掲示板があります。メンバーと　連絡を取ったり|語らうことができます。https://hiroba.dqx.jp|<br>|チームに入らなくても　ゲームプレイに|支障はありません。チームに|入るか入らないかは　自由に判断してください。|<br>|一度　チームに入っても|さくせんの　『チーム』から　いつでも|チームを抜けることが　できます。": ""
@@ -1806,7 +1806,7 @@
     "<speed=0>コマンドの配置を　初期状態に　戻しますか？|<yesno 2><close>": "<speed=0>Set command order back to the default?|<yesno 2><close>"
   },
   "603": {
-    "<%sM_pc>は　<%sM_item>を使った。": ""
+    "<%sM_pc>は　<%sM_item>を使った。": "<%sM_pc> used the <%sM_item>."
   },
   "604": {
     "<speed=0>いまは　<%sM_pc>を|くわしくみれませんでした。": ""
@@ -1869,7 +1869,7 @@
     "clarity_nt_char_212": "clarity_nt_char_212"
   },
   "624": {
-    "<speed=0><%sM_item>を　捧げますか？<yesno><close>": ""
+    "<speed=0><%sM_item>を　捧げますか？<yesno><close>": "<speed=0>Offer the <%sM_item>?<yesno><close>"
   },
   "625": {
     "<speed=0>便せんがないため　手紙を書けません。": ""
@@ -1914,10 +1914,10 @@
     "clarity_nt_char_216": "clarity_nt_char_216"
   },
   "639": {
-    "<speed=0>ゲーム画面を　表示する場所を|『テレビ』から　『Wii U GamePad』に|変更しますか？|<yesno><close>": ""
+    "<speed=0>ゲーム画面を　表示する場所を|『テレビ』から　『Wii U GamePad』に|変更しますか？|<yesno><close>": "YOU WILL NEVER SEE THIS"
   },
   "640": {
-    "<speed=0>ゲーム画面を　表示する場所を|『Wii U GamePad』から　『テレビ』に|変更しますか？|<yesno><close>": ""
+    "<speed=0>ゲーム画面を　表示する場所を|『Wii U GamePad』から　『テレビ』に|変更しますか？|<yesno><close>": "YOU WON'T SEE THIS EITHER"
   },
   "641": {
     "ゲーム画面を　表示する場所を|『Wii U GamePad』に　変更しました。": ""
@@ -2151,7 +2151,7 @@
     "clarity_nt_char_240": "clarity_nt_char_240"
   },
   "718": {
-    "<speed=0><%sM_item><%sM_plusnum>は|今　装備しているものですが|本当に　捨ててもよいですか？<yesno 2><close>": ""
+    "<speed=0><%sM_item><%sM_plusnum>は|今　装備しているものですが|本当に　捨ててもよいですか？<yesno 2><close>": "<speed=0><%sM_item><%sM_plusnum> is currently equipped.|Are you sure you want to throw it away?<yesno 2><close>"
   },
   "719": {
     "clarity_nt_char_241": "clarity_nt_char_241"
@@ -2487,7 +2487,7 @@
     "clarity_nt_char_281": "clarity_nt_char_281"
   },
   "830": {
-    "<speed=0><%sM_action>は　<%sM_item_syurui>を|装備していないと　使えない！": ""
+    "<speed=0><%sM_action>は　<%sM_item_syurui>を|装備していないと　使えない！": "<speed=0>You can't use <%sM_action> without|a <%sM_item_syurui> equipped!"
   },
   "831": {
     "clarity_nt_char_282": "clarity_nt_char_282"
@@ -2541,13 +2541,13 @@
     "<speed=0>『<%sM_cstitle>』を|再生しますか？<yesno><close>": "<speed=0>Do you want to play|\"<%sM_cstitle>\"?<yesno><close>"
   },
   "848": {
-    "ドルセリンチャージ！": "Dolserin Charge!"
+    "ドルセリンチャージ！": "Dolsoline Charge!"
   },
   "849": {
     "clarity_nt_char_289": "clarity_nt_char_289"
   },
   "850": {
-    "今　ドルセリンをチャージすると|満タンを超えた分が　ムダになりますが|よろしいですか？<yesno 2><close>": "If you use Dolserin now, any remaining|fuel you had left over will be wasted.|Is this okay?<yesno 2><close>"
+    "今　ドルセリンをチャージすると|満タンを超えた分が　ムダになりますが|よろしいですか？<yesno 2><close>": "If you use Dolsoline now, any remaining|fuel you had left over will be wasted.|Is this okay?<yesno 2><close>"
   },
   "851": {
     "ドルボードから　降りますか？<yesno><close>": "Get off of your dolboard? <yesno> <close>"
@@ -2556,10 +2556,10 @@
     "clarity_nt_char_290": "clarity_nt_char_290"
   },
   "853": {
-    "ここでは　ドルボードに乗れません。": "You can't ride your dolboard here."
+    "ここでは　ドルボードに乗れません。": "You can't use your dolboard here."
   },
   "854": {
-    "ドルボードは　燃料切れだった！|道具屋で買える　ドルセリンをチャージすれば|30分間　乗れるようになります。": "The dolboard is out of fuel!|Buy Dolserin from an item shop to refill|it."
+    "ドルボードは　燃料切れだった！|道具屋で買える　ドルセリンをチャージすれば|30分間　乗れるようになります。": "The dolboard is out of fuel!|Buy Dolsoline from an item shop to refill|it."
   },
   "855": {
     "clarity_nt_char_291": "clarity_nt_char_291"
@@ -2718,7 +2718,7 @@
     "<speed=0>|「錬金依頼」の　説明です！|<br>|他のプレイヤーのキャラに|「錬金依頼」を　申し込むことができます。|<br>|使う職人道具　効果を付ける装備　必要な素材は|すべて　あなたが用意します。|<br>|錬金依頼を申し込み　相手からＯＫしてもらえると|指定した装備品に|錬金効果を　付けてもらうことができます。|<br>|ただし　必ず成功するわけではありません。|失敗して　弱い効果が付くことや|想定外の効果が　付いてしまうことがあります。|<br>|失敗するリスクがあることも　十分考慮した上で|錬金依頼を　申し込んで下さい。": "<speed=0>|This will explain \"Alchemy Request!\"|<br>|You can request alchemy from other players.|<br>|A craftsman tool will be used to add effects|to equipment, and all needed materials will|be supplied by you.|<br>|If you request alchemy and the other player|accepts, you can choose the equipment you|want to receive effects.|<br>|However, please note that the alchemy will not|always be successful. You may get an|effect weaker than normal, or it may fail completely.|<br>|Please only request for alchemy after understanding|these risks."
   },
   "907": {
-    "しかし　何も起こらなかった……。|ドルセリンを使うには　岳都ガタラで受けられる|クエストを　クリアする必要があります。": "But, nothing happened... To use Dolserin, complete a quest in Gatara."
+    "しかし　何も起こらなかった……。|ドルセリンを使うには　岳都ガタラで受けられる|クエストを　クリアする必要があります。": "But, nothing happened... To use Dolsoline, complete a quest in Gatara."
   },
   "908": {
     "チャット入力ウィンドウが開いているので|単語登録を閉じられません。": "Can't close word registration because|the chat input window is open."
@@ -3066,7 +3066,7 @@
     "<speed=0><%sM_item><%sM_plusnum>は|ロックされているため　すてられません。": ""
   },
   "1023": {
-    "ドルボードは　燃料切れだった！|ドルセリンを　チャージしますか？<yesno><close>": "The dolboard is out of fuel!|Use Dolserin to charge it?<yesno><close>"
+    "ドルボードは　燃料切れだった！|ドルセリンを　チャージしますか？<yesno><close>": "The dolboard is out of fuel!|Use Dolsoline to charge it?<yesno><close>"
   },
   "1024": {
     "clarity_nt_char_344": "clarity_nt_char_344"
@@ -3198,7 +3198,7 @@
     "仲間からの|「ついていく」を|許すか設定します": "Choose to allow|your friends to|follow you."
   },
   "1067": {
-    "<speed=0>ここでは　どうぐを　使えない！": ""
+    "<speed=0>ここでは　どうぐを　使えない！": "<speed=0>You can't use items here!"
   },
   "1068": {
     "clarity_nt_char_359": "clarity_nt_char_359"
@@ -3213,10 +3213,10 @@
     "clarity_nt_char_360": "clarity_nt_char_360"
   },
   "1072": {
-    "<speed=0>ここでは　じゅもんを　使えない！": ""
+    "<speed=0>ここでは　じゅもんを　使えない！": "<speed=0>You can't use spells here!"
   },
   "1073": {
-    "<speed=0>ここでは　とくぎを　使えない！": ""
+    "<speed=0>ここでは　とくぎを　使えない！": "<speed=0>You can't use skills here!"
   },
   "1074": {
     "clarity_nt_char_361": "clarity_nt_char_361"
@@ -3366,7 +3366,7 @@
     "<speed=0>|装備品のロック機能の　説明です！|<br>|装備品の　コマンドウィンドウの|『ロック』を選択すると|その装備品が　ロック状態になります。|<br>|ロック状態の装備品は|捨てたり　店に売ったり|人に渡すことが　できなくなります。|<br>|ロック状態は　再度『ロック』を|選択すると　解除できます。": ""
   },
   "1123": {
-    "ランキングデータの反映まで　お待ちください": ""
+    "ランキングデータの反映まで　お待ちください": "Retrieving ranking data..."
   },
   "1124": {
     "<speed=0>コロシアムから出て　元いた場所に戻りますか？<yesno><close>": ""
@@ -3492,13 +3492,13 @@
     "仲間モンスターの|名前を変更します": "Rename your|fellow monster."
   },
   "1165": {
-    "仲間モンスターを|転生させます": ""
+    "仲間モンスターを|転生させます": "Reincarnate a|fellow monster."
   },
   "1166": {
     "仲間モンスターの|スキルポイントを|リセットします": "Reset your|monster's skill|points."
   },
   "1167": {
-    "仲間モンスターを|野に放ち|お別れします": ""
+    "仲間モンスターを|野に放ち|お別れします": "Say your goodbyes|to a fellow|monster."
   },
   "1168": {
     "clarity_nt_char_389": "clarity_nt_char_389"
@@ -3591,7 +3591,7 @@
     "<speed=0>このモンスターは　これ以上呼べない！": ""
   },
   "1198": {
-    "<%sM_pc>は <%sM_monster>を 仲間にする方法を 覚えた！": ""
+    "<%sM_pc>は <%sM_monster>を 仲間にする方法を 覚えた！": "<%sM_pc> learned how to recruit <%sM_monster>!"
   },
   "1199": {
     "clarity_nt_char_400": "clarity_nt_char_400"
@@ -3630,7 +3630,7 @@
     "<speed=0><%sM_omekashi>は　まだ作成していない！": ""
   },
   "1211": {
-    "<speed=0><%sM_otomo>が　死んでいるため　使えない！": ""
+    "<speed=0><%sM_otomo>が　死んでいるため　使えない！": "<speed=0><%sM_otomo> is dead and cannot be used!"
   },
   "1212": {
     "<%sM_send>を　モンスター酒場に　送ります。|よろしいですか？<yesno><close>": ""
@@ -3789,7 +3789,7 @@
     "<speed=0>しかし　装備の仕方がわからなかった！": ""
   },
   "1264": {
-    "<speed=0>これ以上　コロシアムでは　使えない！": ""
+    "<speed=0>これ以上　コロシアムでは　使えない！": "<speed=0>No more can be used in the Colosseum!"
   },
   "1265": {
     "<speed=0><%sM_enemy>は　みやぶることができない！": ""
@@ -3822,7 +3822,7 @@
     "clarity_nt_char_423": "clarity_nt_char_423"
   },
   "1275": {
-    "<speed=0>釣りざおとルアーを　装備しました。|水辺で<convenience>を押すと　釣りができます。": "<speed=0>Fishing lure has been equipped|Press <convenience> at the water's edge to|start fishing."
+    "<speed=0>釣りざおとルアーを　装備しました。|水辺で<convenience>を押すと　釣りができます。": "<speed=0>Fishing lure has been equipped.|Press <convenience> at the water's edge to|start fishing."
   },
   "1276": {
     "clarity_nt_char_424": "clarity_nt_char_424"
@@ -3906,7 +3906,7 @@
     "clarity_nt_char_434": "clarity_nt_char_434"
   },
   "1303": {
-    "<speed=0>ドルボードに　乗っている状態では|ドルボード・錬金釜設定を　変更できません！|降りてから　お試しください。　": ""
+    "<speed=0>ドルボードに　乗っている状態では|ドルボード・錬金釜設定を　変更できません！|降りてから　お試しください。　": "<speed=0>You can't change your dolboard or alchemy|pot form while you're riding your dolboard!|Try again after getting off."
   },
   "1304": {
     "<speed=0>かきおきを見せる　フレンドがいません。": ""
@@ -3939,7 +3939,7 @@
     "clarity_nt_char_437": "clarity_nt_char_437"
   },
   "1314": {
-    "<speed=0>ここでは　<%sM_item>は|使えない！": ""
+    "<speed=0>ここでは　<%sM_item>は|使えない！": "<speed=0>You can't use <%sM_item>|here!"
   },
   "1315": {
     "<speed=0>チームメンバーへのかきおきメモを変更しました。": ""
@@ -4020,7 +4020,7 @@
     "clarity_nt_char_446": "clarity_nt_char_446"
   },
   "1341": {
-    "アイテムを捧げて|勇気の輝石を|増やします": "Dedicate items|to power up|courage pyroxene."
+    "アイテムを捧げて|勇気の輝石を|増やします": "Dedicate items|to increase|courage augite."
   },
   "1342": {
     "迷宮の|システムについて|説明します": "Explains the|maze system."
@@ -4029,7 +4029,7 @@
     "clarity_nt_char_447": "clarity_nt_char_447"
   },
   "1344": {
-    "モンスター牧場に|仲間モンスターを|送ります": ""
+    "モンスター牧場に|仲間モンスターを|送ります": "Send monsters to|the Monster|Farm."
   },
   "1345": {
     "clarity_nt_char_448": "clarity_nt_char_448"
@@ -4041,7 +4041,7 @@
     "clarity_nt_char_449": "clarity_nt_char_449"
   },
   "1348": {
-    "モンスター牧場に送っていますが|お別れするのは　<%sM_delete>でいいですか？<yesno><close>": ""
+    "モンスター牧場に送っていますが|お別れするのは　<%sM_delete>でいいですか？<yesno><close>": "<%sM_delete> is being sent to the Monster Farm,|but is it okay to say goodbye?<yesno><close>"
   },
   "1349": {
     "スクウェア・エニックスからの　最新のお知らせです。|メンテナンス情報などを　ご確認いただけます。": ""
@@ -4350,7 +4350,7 @@
     "<speed=0>通信エラーのため　情報が取得できませんでした。|しばらく待ってから　もう一度　お試しください。|エラーコード：<%sERRID>": ""
   },
   "1451": {
-    "<speed=0>ここでは　そうびを　変えられない！": ""
+    "<speed=0>ここでは　そうびを　変えられない！": "<speed=0>You can't change equipment here!"
   },
   "1452": {
     "clarity_nt_char_487": "clarity_nt_char_487"
@@ -4467,7 +4467,7 @@
     "<speed=0>いまは　サポート仲間の|さくせんを　変更できません！": ""
   },
   "1490": {
-    "<speed=0>ここでは　さくせんを　変えられない！": ""
+    "<speed=0>ここでは　さくせんを　変えられない！": "<speed=0>You can't change tactics here!"
   },
   "1491": {
     "<%sM_action>を　おぼえる": "Learned <%sM_action>"
@@ -4476,7 +4476,7 @@
     "clarity_nt_char_500": "clarity_nt_char_500"
   },
   "1493": {
-    "<speed=0>ここでは　せかいじゅの葉を　使えない！": ""
+    "<speed=0>ここでは　せかいじゅの葉を　使えない！": "<speed=0>You can't use an Yggdrasil Leaf here!"
   },
   "1494": {
     "clarity_nt_char_501": "clarity_nt_char_501"
@@ -4737,7 +4737,7 @@
     "いま組んでいる|パーティを|非表示にします": ""
   },
   "1580": {
-    "他の冒険者を|非表示にします": ""
+    "他の冒険者を|非表示にします": "Hides other|players."
   },
   "1581": {
     "clarity_nt_char_536": "clarity_nt_char_536"
@@ -5223,7 +5223,7 @@
     "clarity_nt_char_589": "clarity_nt_char_589"
   },
   "1742": {
-    "封印の砂で|輝石のベルトの|効果を封じます": ""
+    "封印の砂で|輝石のベルトの|効果を封じます": "Sand that seals|pyroxene belt|effects."
   },
   "1743": {
     "<speed=0>今は　錬金釜を使えないようだ。": "<speed=0>You can't use the alchemy pot now."
@@ -5241,7 +5241,7 @@
     "clarity_nt_char_591": "clarity_nt_char_591"
   },
   "1748": {
-    "錬金釜の|各種設定をします": ""
+    "錬金釜の|各種設定をします": "Change alchemy|pot settings."
   },
   "1749": {
     "<speed=0><%sM_item>を使うと|今　かかっている香りの効果が|消えてしまいますが　よろしいですか？<yesno2><close>": ""
@@ -5460,7 +5460,7 @@
     "職業「<%sM_job>」で|<%sM_pc>を　なかまに　さそった！": ""
   },
   "1821": {
-    "<speed=0>|コーデ名「<%sM_myset2>」で　登録した！": ""
+    "<speed=0>|コーデ名「<%sM_myset2>」で　登録した！": "<speed=0>|Registered with the name \"<%sM_myset2>\"!"
   },
   "1822": {
     "<speed=0>|この見た目は　マイコーデに登録できません！": "<speed=0>You can't register this appearance as glamour!"
@@ -5475,7 +5475,7 @@
     "clarity_nt_char_616": "clarity_nt_char_616"
   },
   "1826": {
-    "<speed=0>いま着ている　装備セットを|「<%sM_myset>」というコーデ名で|上書き登録しますか？|<yesno><close>": ""
+    "<speed=0>いま着ている　装備セットを|「<%sM_myset>」というコーデ名で|上書き登録しますか？|<yesno><close>": "<speed=0>Would you like to overwrite the set|you are currently wearing with the name|\"<%sM_myset>\"?|<yesno><close>"
   },
   "1827": {
     "clarity_nt_char_617": "clarity_nt_char_617"
@@ -5634,7 +5634,7 @@
     "clarity_nt_char_633": "clarity_nt_char_633"
   },
   "1879": {
-    "<speed=0>|この見た目を　マイコーデに　登録します。|コーデ名称を　設定してください。": ""
+    "<speed=0>|この見た目を　マイコーデに　登録します。|コーデ名称を　設定してください。": "<speed=0>|Your new look has been registered.|Please give the glamour set a name."
   },
   "1880": {
     "<speed=0>|マイコーデ機能の説明です！|<br>|マイコーデとは　気に入った装備の組み合わせを|ひとつの衣装として　登録できる機能です。|<br>|マイコーデを着ると　今のつよさを変えずに|マイコーデに登録された　装備の見た目に|外見を　変えることができます。|<br>|マイコーデに使った装備品が　なくなっても|マイコーデに登録された　見た目は|そのまま　ご利用できますので　ご安心ください。|<br>|マイコーデには　「アタマ」「からだ上」|「からだ下」「ウデ」「足」「顔アクセ」の|装備品が　登録できます。|<br>|それでは　今後の|アストルティアでの　おしゃれ生活に|ぜひとも　マイコーデを　ご活用ください！": ""
@@ -5664,7 +5664,7 @@
     "<speed=0>|レンタル衣装を着ていると　登録ができません！|一度　レンタル衣装を脱いでから|登録を選択してください。": ""
   },
   "1889": {
-    "<speed=0>|「<%sM_myset>」を　上書きして|「<%sM_myset2>」というコーデ名で|登録しますか？|<yesno><close>": ""
+    "<speed=0>|「<%sM_myset>」を　上書きして|「<%sM_myset2>」というコーデ名で|登録しますか？|<yesno><close>": "<speed=0>|Would you like to overwrite the set|\"<%sM_myset>\" and register it as|\"<%sM_myset2>\"?|<yesno><close>"
   },
   "1890": {
     "clarity_nt_char_635": "clarity_nt_char_635"
@@ -5676,7 +5676,7 @@
     "clarity_nt_char_636": "clarity_nt_char_636"
   },
   "1893": {
-    "<speed=0>|「<%sM_myset2>」というコーデ名で|登録しますか？|<yesno><close>": ""
+    "<speed=0>|「<%sM_myset2>」というコーデ名で|登録しますか？|<yesno><close>": "<speed=0>|Register this glamour with the name|\"<%sM_myset2>\"?|<yesno><close>"
   },
   "1894": {
     "<speed=0>|レンタル期限が切れたので|このレンタル衣装を　着ることはできません！": ""
@@ -5817,7 +5817,7 @@
     "clarity_nt_char_656": "clarity_nt_char_656"
   },
   "1940": {
-    "<speed=0><%sM_SNPC_NAME>は|<%sM_SKILL1><%sM_01>と <%sM_SKILL2><%sM_01>を|覚えた！": ""
+    "<speed=0><%sM_SNPC_NAME>は|<%sM_SKILL1><%sM_01>と <%sM_SKILL2><%sM_01>を|覚えた！": "<speed=0><%sM_SNPC_NAME> learned|<%sM_SKILL1><%sM_01> and <%sM_SKILL2><%sM_01>!"
   },
   "1941": {
     "clarity_nt_char_657": "clarity_nt_char_657"
@@ -5925,7 +5925,7 @@
     "<speed=0>|ロックされている　装備品ですが|よろしいですか？|<yesno><close>": ""
   },
   "1976": {
-    "<speed=0>|今　装備しているものですが|本当に　わたしますか？|<yesno><close>": ""
+    "<speed=0>|今　装備しているものですが|本当に　わたしますか？|<yesno><close>": "<speed=0>|You already have this equipped. Are you sure|you want this?|<yesno><close>"
   },
   "1977": {
     "clarity_nt_char_664": "clarity_nt_char_664"
@@ -6114,7 +6114,7 @@
     "clarity_nt_char_687": "clarity_nt_char_687"
   },
   "2039": {
-    "<%sM_delete>は|モンスター牧場に　送っているため|お別れできません。": ""
+    "<%sM_delete>は|モンスター牧場に　送っているため|お別れできません。": "<%sM_delete> is in the Monster Farm,|so they can't be released."
   },
   "2040": {
     "clarity_nt_char_688": "clarity_nt_char_688"
@@ -6198,7 +6198,7 @@
     "clarity_nt_char_695": "clarity_nt_char_695"
   },
   "2067": {
-    "持っている|タロットの整理と|ロックができます": ""
+    "持っている|タロットの整理と|ロックができます": "You can sort|and lock your|tarot cards."
   },
   "2068": {
     "装備デッキの変更や|デッキの編成を|行います": "Change and|organize your|deck."
@@ -6366,7 +6366,7 @@
     "<speed=0>いくら渡しますか？<break>": ""
   },
   "2123": {
-    "ドルボードは　燃料切れだった！|学園外で　ドルセリンをチャージすれば|30分間　乗れるようになります。": "The dolboard is out of fuel!|Use Dolserin to charge the tank for 30 minutes."
+    "ドルボードは　燃料切れだった！|学園外で　ドルセリンをチャージすれば|30分間　乗れるようになります。": "The dolboard is out of fuel!|Use Dolsoline to charge the tank for 30 minutes."
   },
   "2124": {
     "悪魔のカード": ""
@@ -6867,7 +6867,7 @@
     "現代に戻る": "To the Present"
   },
   "2290": {
-    "<speed=0>|バトルコマンド設定の　説明です！|<br>|覚えた呪文や特技のコマンドを|並べ替えたり　表示／非表示を選択し|職業ごとに　整理できる機能です。|<br>|『並び替え設定』では|呪文や特技の　コマンドを|お好みの順番に　並び替えできます。|<br>|『表示設定』では|バトル時に使用できる　呪文や特技のコマンドの|表示／非表示を　変更できます。|<br>|ぜひ　コマンドリストを|自分好みに　設定してみてください！|": ""
+    "<speed=0>|バトルコマンド設定の　説明です！|<br>|覚えた呪文や特技のコマンドを|並べ替えたり　表示／非表示を選択し|職業ごとに　整理できる機能です。|<br>|『並び替え設定』では|呪文や特技の　コマンドを|お好みの順番に　並び替えできます。|<br>|『表示設定』では|バトル時に使用できる　呪文や特技のコマンドの|表示／非表示を　変更できます。|<br>|ぜひ　コマンドリストを|自分好みに　設定してみてください！|": "<speed=0>|This will explain \"Battle Command\" settings!|<br>|You can sort the positions and toggle visibility|of spells and skills for each vocation.|<br>|\"Sort Settings\" allows you arrange your abilites|in any order that you so choose.|<br>|\"Display\" allows you to choose which spells|and skills will appear in the command menu during|battle.|<br>|Set your commands however you like!"
   },
   "2291": {
     "バトル中に|表示する特技を|選択できます": "Choose which|skills to show|during battle."
@@ -7086,10 +7086,10 @@
     "ついてクンの|各種設定をします": "Configure settings|for your pets.|"
   },
   "2363": {
-    "まわりの冒険者が|目を開けっぱなし|になります": ""
+    "まわりの冒険者が|目を開けっぱなし|になります": "Nearby players|will keep|their eyes open."
   },
   "2364": {
-    "まわりの冒険者が|目を閉じっぱなし|になります": ""
+    "まわりの冒険者が|目を閉じっぱなし|になります": "Nearby players|will keep their|eyes closed."
   },
   "2365": {
     "撮影開始<%nM_Count>秒前！": ""
@@ -7284,7 +7284,7 @@
     "clarity_nt_char_815": "clarity_nt_char_815"
   },
   "2429": {
-    "<speed=0>ドルボードに　乗っている状態では|ついてクン設定を　変更できません！|降りてから　お試しください。　": ""
+    "<speed=0>ドルボードに　乗っている状態では|ついてクン設定を　変更できません！|降りてから　お試しください。　": "<speed=0>You can't change your current pet|while you're riding your dolboard!|Try again after getting off."
   },
   "2430": {
     "<speed=0>飛竜に　乗っている状態では|ついてクン設定を　変更できません！|降りてから　お試しください。　": "<speed=0>You cannot change pet settings while riding your dragon!"
@@ -7347,7 +7347,7 @@
     "clarity_nt_char_823": "clarity_nt_char_823"
   },
   "2450": {
-    "<speed=0>|装備中のタロットデッキが　有効条件を|満たしていません。|装備デッキの　編成を確認してください。": ""
+    "<speed=0>|装備中のタロットデッキが　有効条件を|満たしていません。|装備デッキの　編成を確認してください。": "<speed=0>|The equipped deck is not valid to use.|Please check the deck again."
   },
   "2451": {
     "clarity_nt_char_824": "clarity_nt_char_824"
@@ -7434,7 +7434,7 @@
     "封印ガード": "Seal Guard"
   },
   "2479": {
-    "雷ダメージ減": "Lightning Resist"
+    "雷ダメージ減": "Thunder Resist"
   },
   "2480": {
     "clarity_nt_char_834": "clarity_nt_char_834"
@@ -7932,13 +7932,13 @@
     "clarity_nt_char_888": "clarity_nt_char_888"
   },
   "2645": {
-    "<speed=0>パーティ同盟相手を　どのように決めますか？|<select>|指定のパーティと|同盟相手を自動で探す|同盟を組まない|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<break>|<case_cancel>|<close>|<case_end>": ""
+    "<speed=0>パーティ同盟相手を　どのように決めますか？|<select>|指定のパーティと|同盟相手を自動で探す|同盟を組まない|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<break>|<case_cancel>|<close>|<case_end>": "<speed=0>How do you want to proceed?|<select>|Fixed Party|Search for Allies|Don't Form Alliance|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<break>|<case_cancel>|<close>|<case_end>"
   },
   "2646": {
     "clarity_nt_char_889": "clarity_nt_char_889"
   },
   "2647": {
-    "<speed=0>パーティ同盟相手を　どのように決めますか？|<select>|指定のパーティと|同盟相手を自動で探す|<select_end><close>": ""
+    "<speed=0>パーティ同盟相手を　どのように決めますか？|<select>|指定のパーティと|同盟相手を自動で探す|<select_end><close>": "<speed=0>How do you want to proceed?|<select>|Fixed Party|Search for Allies|<select_end><close>"
   },
   "2648": {
     "<speed=0>パーティ同盟に行きたい人を|自動的に探して　この先へ入ります。|よろしいですか？|<yesno><close>": ""
@@ -8145,7 +8145,7 @@
     "clarity_nt_char_911": "clarity_nt_char_911"
   },
   "2716": {
-    "他の冒険者の|ついてクンを|非表示にします": ""
+    "他の冒険者の|ついてクンを|非表示にします": "Hide other|players' pets."
   },
   "2717": {
     "フレンド登録の|受け付ける範囲を|設定します": "Set the range of|friends you wish|to accept."
@@ -8829,7 +8829,7 @@
     "clarity_nt_char_992": "clarity_nt_char_992"
   },
   "2944": {
-    "<speed=0><speed=0>万魔の塔は　全滅しなければ|戦闘は終了できません。|サポート仲間の　HPを0にしますか？|<yesno 2><close>": ""
+    "<speed=0><speed=0>万魔の塔は　全滅しなければ|戦闘は終了できません。|サポート仲間の　HPを0にしますか？|<yesno 2><close>": "<speed=0><speed=0>The battle will not end unless the Manma|Tower is completely destroyed. Reduce|your support party's HP to 0?|<yesno 2><close>"
   },
   "2945": {
     "あきらめて|始覚の間に|もどります": ""
@@ -8841,10 +8841,10 @@
     "clarity_nt_char_993": "clarity_nt_char_993"
   },
   "2948": {
-    "<speed=0>このマッチングに参加するには万魔の塔にいる|ギラムに話しかける必要が　あります。": ""
+    "<speed=0>このマッチングに参加するには万魔の塔にいる|ギラムに話しかける必要が　あります。": "<speed=0>To use the matching function, first talk to|Gilam in the Manma Tower."
   },
   "2949": {
-    "<speed=0>このマッチングの誘いを受けるには|万魔の塔に　行く必要があります。": ""
+    "<speed=0>このマッチングの誘いを受けるには|万魔の塔に　行く必要があります。": "<speed=0>To accept this invitation, you must first be|inside the Manma Tower."
   },
   "2950": {
     "clarity_nt_char_994": "clarity_nt_char_994"
@@ -8931,7 +8931,7 @@
     "<speed=0>|<%sM_item>が　置いてある場所に|ワープしますか？|<color_yellow>|この庭具の位置は　地図で確認できます。|<yesno><break>": ""
   },
   "2978": {
-    "<speed=0>|マイタウンの入口や　選んだワープ庭具が|置いてある場所に　移動できます。|どこに　移動しますか？|<break>": ""
+    "<speed=0>|マイタウンの入口や　選んだワープ庭具が|置いてある場所に　移動できます。|どこに　移動しますか？|<break>": "<speed=0>|You can move to the My Town entrance|or to one of the placed warp crystals. Where|do you want to go?|<break>"
   },
   "2979": {
     "clarity_nt_char_1004": "clarity_nt_char_1004"
@@ -9039,7 +9039,7 @@
     "トポルの村": "Topol Village"
   },
   "3014": {
-    "魔王ヴァレリア": ""
+    "魔王ヴァレリア": "Demon King Valeria"
   },
   "3015": {
     "魔界の楽園": ""
@@ -9135,7 +9135,7 @@
     "<%sM_JOB>の<%sM_SKILL_LINE>の|あふれたスキルポイントが　戻った！": ""
   },
   "3046": {
-    "<speed=0>|『タウン内の移動』の　説明です。|<br>|タウン内の移動で　選んだ場所に|一瞬で　移動できるコマンドです。|<br>|移動先として　マイタウンの入口や|置いてある　ワープ庭具の位置を|選ぶことができます。|<br>|広いマイタウンを　快適に移動するのに|ぜひ　ご活用ください！": ""
+    "<speed=0>|『タウン内の移動』の　説明です。|<br>|タウン内の移動で　選んだ場所に|一瞬で　移動できるコマンドです。|<br>|移動先として　マイタウンの入口や|置いてある　ワープ庭具の位置を|選ぶことができます。|<br>|広いマイタウンを　快適に移動するのに|ぜひ　ご活用ください！": "<speed=0>|This will explain \"Town Warps\".|<br>|You can use this command to warp to the|My Town's entrance or to any warp crystals|you've placed down instantaneously.|<br>|Use it to travel around your town quickly!"
   },
   "3047": {
     "<speed=0>水の中では　転魔の刻印は使えない！": "<speed=0>You can't use the Demon's Seal while swimming!"
@@ -9186,7 +9186,7 @@
     "clarity_nt_char_1032": "clarity_nt_char_1032"
   },
   "3063": {
-    "<speed=0>|現在　あなたの万魔の塔の情報は|ランキングで　<%sM_CURRENT_STATE>の状態になっています。|<%sM_INVERSE_STATE>の状態に　設定を変更しますか？|<yesno2><close>": ""
+    "<speed=0>|現在　あなたの万魔の塔の情報は|ランキングで　<%sM_CURRENT_STATE>の状態になっています。|<%sM_INVERSE_STATE>の状態に　設定を変更しますか？|<yesno2><close>": "<speed=0>|Your Manma Tower ranking info is currently|set to <%sM_CURRENT_STATE>. Do you want to|set it to <%sM_INVERSE_STATE> instead?|<yesno2><close>"
   },
   "3064": {
     "clarity_nt_char_1033": "clarity_nt_char_1033"
@@ -9288,7 +9288,7 @@
     "逆さの神殿": ""
   },
   "3097": {
-    "異界滅神ジャゴヌバ": ""
+    "異界滅神ジャゴヌバ": "Eldritch God Jagonuba"
   },
   "3098": {
     "ナジーンの故郷": ""
@@ -9504,7 +9504,7 @@
     "clarity_nt_char_1069": "clarity_nt_char_1069"
   },
   "3169": {
-    "<speed=0>種族を切り替えます。|編集中の　『美容院の姿見』の見た目は|破棄されますが　よろしいですか？<yesno><close>": ""
+    "<speed=0>種族を切り替えます。|編集中の　『美容院の姿見』の見た目は|破棄されますが　よろしいですか？<yesno><close>": "<speed=0>You're about to change races. Your changes|here will be discarded, is this okay?<yesno><close>"
   },
   "3170": {
     "<speed=0>チームドルボードは|妖精の姿見に　うつせません。": ""
@@ -9540,37 +9540,37 @@
     "どのイベント会場に　行きますか？<break>": ""
   },
   "3181": {
-    "自分の住所を|非表示にします": ""
+    "自分の住所を|非表示にします": "Hides your|house|address."
   },
   "3182": {
     "clarity_nt_char_1074": "clarity_nt_char_1074"
   },
   "3183": {
-    "『まわりに』で|話したチャットを|非表示にします": ""
+    "『まわりに』で|話したチャットを|非表示にします": "Hides your|\"Nearby\" chat."
   },
   "3184": {
     "clarity_nt_char_1075": "clarity_nt_char_1075"
   },
   "3185": {
-    "他の冒険者の|いいね！を|非表示にします": ""
+    "他の冒険者の|いいね！を|非表示にします": "Hide your \"Likes\"|to other|players."
   },
   "3186": {
     "clarity_nt_char_1076": "clarity_nt_char_1076"
   },
   "3187": {
-    "自分のまわりの|他の冒険者を|非表示にします": ""
+    "自分のまわりの|他の冒険者を|非表示にします": "Hide other|nearby players."
   },
   "3188": {
     "clarity_nt_char_1077": "clarity_nt_char_1077"
   },
   "3189": {
-    "自分のいる|サーバー名を|非表示にします": ""
+    "自分のいる|サーバー名を|非表示にします": "Hides your|server|information."
   },
   "3190": {
     "clarity_nt_char_1078": "clarity_nt_char_1078"
   },
   "3191": {
-    "他の冒険者からの|招待や申請を|非表示にします": ""
+    "他の冒険者からの|招待や申請を|非表示にします": "Hide any|invitations and|requests."
   },
   "3192": {
     "<speed=0>|このサーバーでは　『配信中』に設定できません。|『配信OK』のサーバーに　移動してから|設定してください。": ""
@@ -9609,7 +9609,7 @@
     "<speed=0>このさそいを受けるには|「グランゼドーラのおはなし」を|クリアしている必要が　あります。": ""
   },
   "3204": {
-    "モンスタータロット|図鑑を見ることが|できます": ""
+    "モンスタータロット|図鑑を見ることが|できます": "Monster Tarot|You can view the|illustrated book."
   },
   "3205": {
     "現在『配信中』設定になっています。|『配信OK』以外のサーバーでは|『配信中』に設定することが　できません。|<br>|この先は『配信OK』サーバーでは　ありません。|入る場合は　配信を停止してください。|<br>|『配信中』設定を解除し　サーバーを移動しても|よろしいですか？|<yesno2>|<close>": ""
@@ -9627,43 +9627,43 @@
     "<speed=0>|着ていないマイコーデは　編集できません！|このマイコーデを　着ている状態で|『マイコーデを編集する』を　選択してください。": ""
   },
   "3210": {
-    "<speed=0>|マイコーデの編集を　キャンセルしますか？|<yesno><close>": ""
+    "<speed=0>|マイコーデの編集を　キャンセルしますか？|<yesno><close>": "<speed=0>|Cancel editing your glamour?|<yesno><close>"
   },
   "3211": {
-    "自分のいる|サーバー名を|表示します": ""
+    "自分のいる|サーバー名を|表示します": "Shows your|server|information."
   },
   "3212": {
     "clarity_nt_char_1084": "clarity_nt_char_1084"
   },
   "3213": {
-    "他の冒険者からの|招待や申請を|表示します": ""
+    "他の冒険者からの|招待や申請を|表示します": "Show any|invitations and|requests."
   },
   "3214": {
-    "他の冒険者の|いいね！を|表示します": ""
+    "他の冒険者の|いいね！を|表示します": "Show your \"Likes\"|to other|players."
   },
   "3215": {
     "clarity_nt_char_1085": "clarity_nt_char_1085"
   },
   "3216": {
-    "『まわりに』で|話したチャットを|表示します": ""
+    "『まわりに』で|話したチャットを|表示します": "Shows your|\"Nearby\" chat."
   },
   "3217": {
     "clarity_nt_char_1086": "clarity_nt_char_1086"
   },
   "3218": {
-    "自分の住所を|表示します": ""
+    "自分の住所を|表示します": "Shows your|house|address."
   },
   "3219": {
     "clarity_nt_char_1087": "clarity_nt_char_1087"
   },
   "3220": {
-    "<speed=0>|この見た目を　マイコーデに　登録しますか？|<yesno><close>": ""
+    "<speed=0>|この見た目を　マイコーデに　登録しますか？|<yesno><close>": "<speed=0>|Add this look to your glamours?|<yesno><close>"
   },
   "3221": {
     "clarity_nt_char_1088": "clarity_nt_char_1088"
   },
   "3222": {
-    "<speed=0>|新品の装備品が　含まれています。|一度　マイコーデに登録すると　他の人に|渡せなくなりますが　よろしいですか？|<yesno2><close>": ""
+    "<speed=0>|新品の装備品が　含まれています。|一度　マイコーデに登録すると　他の人に|渡せなくなりますが　よろしいですか？|<yesno2><close>": "<speed=0>|This glamour set includes new equipment. If|registered, it will no longer be new and you|can't give it to other players. Is this okay?|<yesno2><close>"
   },
   "3223": {
     "<speed=0>|この装備品は　性別が合わないため|装備できません。": ""
@@ -9714,19 +9714,19 @@
     "clarity_nt_char_1094": "clarity_nt_char_1094"
   },
   "3239": {
-    "自分のまわりの|他の冒険者を|表示します": ""
+    "自分のまわりの|他の冒険者を|表示します": "Show other|nearby players."
   },
   "3240": {
     "clarity_nt_char_1095": "clarity_nt_char_1095"
   },
   "3241": {
-    "他の冒険者を|非表示にする|範囲を設定します": ""
+    "他の冒険者を|非表示にする|範囲を設定します": "Set the range|to hide other|players."
   },
   "3242": {
     "clarity_nt_char_1096": "clarity_nt_char_1096"
   },
   "3243": {
-    "<speed=0>|元々登録していた装備に　変更があります。|編集した内容で　上書き登録されますが|本当に　よろしいですか？|<yesno2><close>": ""
+    "<speed=0>|元々登録していた装備に　変更があります。|編集した内容で　上書き登録されますが|本当に　よろしいですか？|<yesno2><close>": "<speed=0>|You've made changes to this glamour|set. Do you want to overwrite the|previous set?|<yesno2><close>"
   },
   "3244": {
     "clarity_nt_char_1097": "clarity_nt_char_1097"
@@ -9771,6 +9771,6 @@
     "てっぺんからの景色": ""
   },
   "3258": {
-    "ハッピーハート": ""
+    "ハッピーハート": "Happy Heart"
   }
 }

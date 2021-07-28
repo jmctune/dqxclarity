@@ -21,7 +21,7 @@
     "<%sC_STR1>着": "At <%sC_STR1>"
   },
   "8": {
-    "お宝ゲット！": "Got the treasure!"
+    "お宝ゲット！": "Received treasure!"
   },
   "9": {
     "clarity_nt_char_3": "clarity_nt_char_3"
@@ -135,7 +135,7 @@
     "clarity_nt_char_18": "clarity_nt_char_18"
   },
   "46": {
-    "ドルセリンチャージ！": "Dolserin Charge!"
+    "ドルセリンチャージ！": "Dolsoline Charge!"
   },
   "47": {
     "clarity_nt_char_19": "clarity_nt_char_19"
@@ -144,7 +144,7 @@
     "ドルボードの燃料が|切れた": "Dolboard tank|is empty."
   },
   "49": {
-    "ドルセリンを|使った！": "Dolserin used!"
+    "ドルセリンを|使った！": "Dolsoline used!"
   },
   "50": {
     "<%sC_STR1>行": "To <%sC_STR1>"
@@ -387,7 +387,7 @@
     "けんじゃのいしを|手に入れた！": "Received the|Sage's Stone!"
   },
   "130": {
-    "スライムベスを見つけた！": "She-slime appeared!"
+    "スライムベスを見つけた！": "She-Slime appeared!"
   },
   "131": {
     "clarity_nt_char_48": "clarity_nt_char_48"

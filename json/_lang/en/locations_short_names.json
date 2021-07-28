@@ -129,7 +129,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>預かり所": "<%sW_MAP_NAME><%sW_DELIMITER>Depository"
   },
   "44": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>道具屋": "<%sW_MAP_NAME><%sW_DELIMITER>Tool Shop"
+    "<%sW_MAP_NAME><%sW_DELIMITER>道具屋": "<%sW_MAP_NAME><%sW_DELIMITER>Item Shop"
   },
   "45": {
     "clarity_nt_char_8": "clarity_nt_char_8"
@@ -306,7 +306,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>村王の家": "V. King Home"
   },
   "103": {
-    "ハウジングエリアへの桟橋": ""
+    "ハウジングエリアへの桟橋": "Pier to Housing Area"
   },
   "104": {
     "clarity_nt_char_31": "clarity_nt_char_31"
@@ -408,7 +408,7 @@
     "カミハルムイ領南への道": ""
   },
   "137": {
-    "カミハルムイ城 入口": ""
+    "カミハルムイ城 入口": "Kamiharmui Castle Entry"
   },
   "138": {
     "clarity_nt_char_41": "clarity_nt_char_41"
@@ -495,7 +495,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>バウガの風穴": "<%sW_MAP_NAME><%sW_DELIMITER>Baoga's Windhole"
   },
   "166": {
-    "雲上湖 入口": ""
+    "雲上湖 入口": "Sky Lake Entry"
   },
   "167": {
     "clarity_nt_char_51": "clarity_nt_char_51"
@@ -552,7 +552,7 @@
     "clarity_nt_char_56": "clarity_nt_char_56"
   },
   "185": {
-    "ランドン山脈への道": ""
+    "ランドン山脈への道": "Road to Landon Mountains"
   },
   "186": {
     "東の荒野への道": ""
@@ -594,31 +594,31 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>術師のテント": ""
   },
   "199": {
-    "ランドン山脈山頂付近への道": ""
+    "ランドン山脈山頂付近への道": "Road to Landon Mtns. Summit"
   },
   "200": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>破邪舟 発着点": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>破邪舟 発着点": "<%sW_MAP_NAME><%sW_DELIMITER>Ship Dock"
   },
   "201": {
     "clarity_nt_char_62": "clarity_nt_char_62"
   },
   "202": {
-    "山頂": ""
+    "山頂": "Summit"
   },
   "203": {
     "clarity_nt_char_63": "clarity_nt_char_63"
   },
   "204": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>山頂に続く道": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>山頂に続く道": "<%sW_MAP_NAME><%sW_DELIMITER>Path to the Summit"
   },
   "205": {
-    "大祭壇の間 入口": ""
+    "大祭壇の間 入口": "Altar Room Entrance"
   },
   "206": {
     "clarity_nt_char_64": "clarity_nt_char_64"
   },
   "207": {
-    "大祭壇の間 出口": ""
+    "大祭壇の間 出口": "Altar Room Exit"
   },
   "208": {
     "clarity_nt_char_65": "clarity_nt_char_65"
@@ -684,7 +684,7 @@
     "儀式の間 入口": ""
   },
   "229": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>最上層": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>最上層": "<%sW_MAP_NAME><%sW_DELIMITER>Top Floor"
   },
   "230": {
     "clarity_nt_char_72": "clarity_nt_char_72"
@@ -702,7 +702,7 @@
     "フォステイル広場 出口": ""
   },
   "235": {
-    "フォステイル像": ""
+    "フォステイル像": "Fostail Statue"
   },
   "236": {
     "フォステイル広場 入口": ""
@@ -714,10 +714,10 @@
     "clarity_nt_char_74": "clarity_nt_char_74"
   },
   "239": {
-    "リンクル地方への道": ""
+    "リンクル地方への道": "Road to Wrinkle Region"
   },
   "240": {
-    "銀の丘への道": ""
+    "銀の丘への道": "Silver Hill Road"
   },
   "241": {
     "clarity_nt_char_75": "clarity_nt_char_75"
@@ -822,19 +822,19 @@
     "ブーナー石洞 入口": ""
   },
   "275": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>王立調査団詰所": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>王立調査団詰所": "<%sW_MAP_NAME><%sW_DELIMITER>Royal Survey Team"
   },
   "276": {
     "clarity_nt_char_86": "clarity_nt_char_86"
   },
   "277": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>魔法戦士団サロン": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>魔法戦士団サロン": "<%sW_MAP_NAME><%sW_DELIMITER>Armamentalist Corps."
   },
   "278": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>女王の間": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>女王の間": "<%sW_MAP_NAME><%sW_DELIMITER>Queen Throne"
   },
   "279": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>衛士団詰所": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>衛士団詰所": "<%sW_MAP_NAME><%sW_DELIMITER>Guard Station"
   },
   "280": {
     "clarity_nt_char_87": "clarity_nt_char_87"
@@ -852,7 +852,7 @@
     "clarity_nt_char_89": "clarity_nt_char_89"
   },
   "285": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>会議室": "<%sW_MAP_NAME><%sW_DELIMITER>Conf. Rm."
+    "<%sW_MAP_NAME><%sW_DELIMITER>会議室": "Meeting Room"
   },
   "286": {
     "clarity_nt_char_90": "clarity_nt_char_90"
@@ -870,13 +870,13 @@
     "clarity_nt_char_92": "clarity_nt_char_92"
   },
   "291": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>王子の部屋": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>王子の部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Prince's Room"
   },
   "292": {
     "clarity_nt_char_93": "clarity_nt_char_93"
   },
   "293": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>食堂": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>食堂": "<%sW_MAP_NAME><%sW_DELIMITER>Cafe"
   },
   "294": {
     "<%sW_MAP_NAME><%sW_DELIMITER>図書室": "<%sW_MAP_NAME><%sW_DELIMITER>Library"
@@ -1119,7 +1119,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>自分の家": "<%sW_MAP_NAME><%sW_DELIMITER>My House"
   },
   "374": {
-    "雲上湖 出口": ""
+    "雲上湖 出口": "Sky Lake Exit"
   },
   "375": {
     "clarity_nt_char_118": "clarity_nt_char_118"
@@ -1209,7 +1209,7 @@
     "clarity_nt_char_129": "clarity_nt_char_129"
   },
   "404": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>宿屋・預かり所": "<%sW_MAP_NAME><%sW_DELIMITER>Inn - Depository"
+    "<%sW_MAP_NAME><%sW_DELIMITER>宿屋・預かり所": "<%sW_MAP_NAME><%sW_DELIMITER>Inn/Depository"
   },
   "405": {
     "clarity_nt_char_130": "clarity_nt_char_130"
@@ -1281,7 +1281,7 @@
     "clarity_nt_char_137": "clarity_nt_char_137"
   },
   "428": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>フウラの部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Fuura's Room"
+    "<%sW_MAP_NAME><%sW_DELIMITER>フウラの部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Fura's Room"
   },
   "429": {
     "<%sW_MAP_NAME><%sW_DELIMITER>旅人バザー": "<%sW_MAP_NAME><%sW_DELIMITER>Traveler Bazaar"
@@ -1302,7 +1302,7 @@
     "clarity_nt_char_140": "clarity_nt_char_140"
   },
   "435": {
-    "アズラン地方への道": ""
+    "アズラン地方への道": "Road to Azlan Region"
   },
   "436": {
     "<%sW_MAP_NAME><%sW_DELIMITER>大浴場・女湯": "<%sW_MAP_NAME><%sW_DELIMITER>Big Bath - Woman's"
@@ -1320,13 +1320,13 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>錬金術師の家": ""
   },
   "441": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・素材屋": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・素材屋": "<%sW_MAP_NAME><%sW_DELIMITER>Item Shop/Mat. Shop"
   },
   "442": {
     "clarity_nt_char_142": "clarity_nt_char_142"
   },
   "443": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>旅人バザー・道具屋": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>旅人バザー・道具屋": "<%sW_MAP_NAME><%sW_DELIMITER>Bazaar/Item Shop"
   },
   "444": {
     "clarity_nt_char_143": "clarity_nt_char_143"
@@ -1341,10 +1341,10 @@
     "clarity_nt_char_144": "clarity_nt_char_144"
   },
   "448": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>巫女の館": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>巫女の館": "<%sW_MAP_NAME><%sW_DELIMITER>Maiden Manor"
   },
   "449": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>研究室": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>研究室": "<%sW_MAP_NAME><%sW_DELIMITER>Lab"
   },
   "450": {
     "clarity_nt_char_145": "clarity_nt_char_145"
@@ -1356,7 +1356,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>塩湖": ""
   },
   "453": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>家具屋・旅人バザー": "<%sW_MAP_NAME><%sW_DELIMITER>Furn. Shop/Traveler Bazaar"
+    "<%sW_MAP_NAME><%sW_DELIMITER>家具屋・旅人バザー": "<%sW_MAP_NAME><%sW_DELIMITER>Furnishing/Traveler Bazaar"
   },
   "454": {
     "clarity_nt_char_146": "clarity_nt_char_146"
@@ -1368,28 +1368,28 @@
     "clarity_nt_char_147": "clarity_nt_char_147"
   },
   "457": {
-    "王都カミハルムイ南 入口": "Royal Capital Kamiharmui S."
+    "王都カミハルムイ南 入口": "Royal City Kamiharmui S."
   },
   "458": {
     "clarity_nt_char_148": "clarity_nt_char_148"
   },
   "459": {
-    "王都カミハルムイ北 入口": "Royal Capital Kamiharmui N."
+    "王都カミハルムイ北 入口": "Royal City Kamiharmui N."
   },
   "460": {
     "clarity_nt_char_149": "clarity_nt_char_149"
   },
   "461": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>預かり所・旅人バザー": "Depository - Bazaar"
+    "<%sW_MAP_NAME><%sW_DELIMITER>預かり所・旅人バザー": "<%sW_MAP_NAME><%sW_DELIMITER>Depository/Bazaar"
   },
   "462": {
-    "キリカ草原への道": ""
+    "キリカ草原への道": "Road to Kirika Steppe"
   },
   "463": {
     "clarity_nt_char_150": "clarity_nt_char_150"
   },
   "464": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>知恵の社": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>知恵の社": "<%sW_MAP_NAME><%sW_DELIMITER>Wisdom Altar"
   },
   "465": {
     "神代の間 入口": ""
@@ -1404,25 +1404,25 @@
     "神代の間 出口": ""
   },
   "469": {
-    "久遠の森 入口": ""
+    "久遠の森 入口": "Eternal F. Entrance"
   },
   "470": {
     "森の井戸の底 入口": "Inside Forest Well Entry"
   },
   "471": {
-    "世界樹の丘 入口": ""
+    "世界樹の丘 入口": "World Tree Hill Entry"
   },
   "472": {
     "clarity_nt_char_152": "clarity_nt_char_152"
   },
   "473": {
-    "ツスクル平野への出口": ""
+    "ツスクル平野への出口": "Exit to Tsusukul Plains"
   },
   "474": {
     "clarity_nt_char_153": "clarity_nt_char_153"
   },
   "475": {
-    "世界樹の丘 出口": ""
+    "世界樹の丘 出口": "World Tree Hill Exit"
   },
   "476": {
     "clarity_nt_char_154": "clarity_nt_char_154"
@@ -1446,7 +1446,7 @@
     "clarity_nt_char_156": "clarity_nt_char_156"
   },
   "483": {
-    "清き水の洞くつ 入口": ""
+    "清き水の洞くつ 入口": "Clear Water Cave Entrance"
   },
   "484": {
     "clarity_nt_char_157": "clarity_nt_char_157"
@@ -1467,22 +1467,22 @@
     "ナルビアの町 入口": ""
   },
   "490": {
-    "名もなき草原への出口": ""
+    "名もなき草原への出口": "Exit to Nameless Field"
   },
   "491": {
     "clarity_nt_char_160": "clarity_nt_char_160"
   },
   "492": {
-    "太古の泉 入口": ""
+    "太古の泉 入口": "Old Fountain Entry"
   },
   "493": {
-    "太古の泉 出口": ""
+    "太古の泉 出口": "Old Fountain Exit"
   },
   "494": {
     "名もなき草原への道": ""
   },
   "495": {
-    "エテーネの村 入口": ""
+    "エテーネの村 入口": "Ethene Village Entrance"
   },
   "496": {
     "ヴェリナード領北への出口": "Exit to Verinard North"
@@ -1584,7 +1584,7 @@
     "clarity_nt_char_174": "clarity_nt_char_174"
   },
   "529": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>船舶管理局": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>船舶管理局": "<%sW_MAP_NAME><%sW_DELIMITER>Ship Bureau"
   },
   "530": {
     "clarity_nt_char_175": "clarity_nt_char_175"
@@ -1641,13 +1641,13 @@
     "clarity_nt_char_181": "clarity_nt_char_181"
   },
   "548": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>キリカの小島": "<%sW_MAP_NAME><%sW_DELIMITER>Kiraka Islet"
+    "<%sW_MAP_NAME><%sW_DELIMITER>キリカの小島": "<%sW_MAP_NAME><%sW_DELIMITER>Kirika Islet"
   },
   "549": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>怪鳥の森": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>怪鳥の森": "<%sW_MAP_NAME><%sW_DELIMITER>Bird Forest"
   },
   "550": {
-    "ツスクル平野への道": ""
+    "ツスクル平野への道": "Road to Tsusukul Plain"
   },
   "551": {
     "モリナラ大森林への道": ""
@@ -1656,7 +1656,7 @@
     "clarity_nt_char_182": "clarity_nt_char_182"
   },
   "553": {
-    "怪鳥の巣 入口": ""
+    "怪鳥の巣 入口": "Bird's Nest Entry"
   },
   "554": {
     "<%sW_MAP_NAME><%sW_DELIMITER>キリカの産屋": "<%sW_MAP_NAME><%sW_DELIMITER>Kirika Maternity"
@@ -1731,7 +1731,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>奈落の橋": ""
   },
   "578": {
-    "呪われた大地への道": ""
+    "呪われた大地への道": "Road to Cursed Land"
   },
   "579": {
     "<%sW_MAP_NAME><%sW_DELIMITER>オーナーの館１階": "<%sW_MAP_NAME><%sW_DELIMITER>Owner's Mansion 1F"
@@ -1848,7 +1848,7 @@
     "clarity_nt_char_199": "clarity_nt_char_199"
   },
   "617": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>破魔のヒスイ": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>破魔のヒスイ": "<%sW_MAP_NAME><%sW_DELIMITER>Devil's Jade"
   },
   "618": {
     "落陽の草原への道": ""
@@ -1866,7 +1866,7 @@
     "clarity_nt_char_201": "clarity_nt_char_201"
   },
   "623": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>楽屋": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>楽屋": "<%sW_MAP_NAME><%sW_DELIMITER>Office"
   },
   "624": {
     "ナギリ洞 入口": ""
@@ -1974,7 +1974,7 @@
     "clarity_nt_char_214": "clarity_nt_char_214"
   },
   "659": {
-    "風の町アズラン 入口": ""
+    "風の町アズラン 入口": "Wind Town Azlan Entrance"
   },
   "660": {
     "clarity_nt_char_215": "clarity_nt_char_215"
@@ -2010,16 +2010,16 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>ヘドロの沼地": "<%sW_MAP_NAME><%sW_DELIMITER>Slimy Swampland"
   },
   "671": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>職員寄宿舎": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>職員寄宿舎": "<%sW_MAP_NAME><%sW_DELIMITER>Staff Dormitory"
   },
   "672": {
     "clarity_nt_char_219": "clarity_nt_char_219"
   },
   "673": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>師の部屋": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>師の部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Masters Room"
   },
   "674": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>寄宿舎": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>寄宿舎": "<%sW_MAP_NAME><%sW_DELIMITER>Dormitory"
   },
   "675": {
     "clarity_nt_char_220": "clarity_nt_char_220"
@@ -2382,7 +2382,7 @@
     "ザアグの洞門 出口": ""
   },
   "795": {
-    "怪鳥の巣 出口": ""
+    "怪鳥の巣 出口": "Bird's Nest Exit"
   },
   "796": {
     "モリナラ広場 出口": ""
@@ -2607,7 +2607,7 @@
     "グレン城 入口": "Glen Castle Entry"
   },
   "870": {
-    "アルウェ王妃の別荘跡": ""
+    "アルウェ王妃の別荘跡": "Queen Alwa's Villa Ruins"
   },
   "871": {
     "clarity_nt_char_276": "clarity_nt_char_276"
@@ -2679,7 +2679,7 @@
     "clarity_nt_char_282": "clarity_nt_char_282"
   },
   "894": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>防具屋・武器屋": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>防具屋・武器屋": "<%sW_MAP_NAME><%sW_DELIMITER>Armor & Weapon Shop"
   },
   "895": {
     "clarity_nt_char_283": "clarity_nt_char_283"
@@ -2868,7 +2868,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>宿屋２階": ""
   },
   "957": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>大使室": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>大使室": "<%sW_MAP_NAME><%sW_DELIMITER>Office"
   },
   "958": {
     "clarity_nt_char_306": "clarity_nt_char_306"
@@ -2883,7 +2883,7 @@
     "clarity_nt_char_307": "clarity_nt_char_307"
   },
   "962": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>知識の間": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>知識の間": "<%sW_MAP_NAME><%sW_DELIMITER>Study Area"
   },
   "963": {
     "<%sW_MAP_NAME><%sW_DELIMITER>シェルブリッジ": "<%sW_MAP_NAME><%sW_DELIMITER>Shell Bridge"
@@ -2904,7 +2904,7 @@
     "clarity_nt_char_310": "clarity_nt_char_310"
   },
   "969": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>神カラクリ": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>神カラクリ": "<%sW_MAP_NAME><%sW_DELIMITER>Divine Machine"
   },
   "970": {
     "clarity_nt_char_311": "clarity_nt_char_311"
@@ -3228,13 +3228,13 @@
     "ブーナー熱帯雨林への道": ""
   },
   "1077": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>憎悪の炎": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>憎悪の炎": "<%sW_MAP_NAME><%sW_DELIMITER>Hatred Fire"
   },
   "1078": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>怨嗟の炎": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>怨嗟の炎": "<%sW_MAP_NAME><%sW_DELIMITER>Grudge Fire"
   },
   "1079": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>絶望の炎": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>絶望の炎": "<%sW_MAP_NAME><%sW_DELIMITER>Despair Fire"
   },
   "1080": {
     "<%sW_MAP_NAME><%sW_DELIMITER>ギルザの入り江": "<%sW_MAP_NAME><%sW_DELIMITER>Gilza Cove"
@@ -3300,16 +3300,16 @@
     "clarity_nt_char_352": "clarity_nt_char_352"
   },
   "1101": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>３階-王立研究院": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>３階-王立研究院": "<%sW_MAP_NAME><%sW_DELIMITER>3F - Royal Research"
   },
   "1102": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>２階-王立研究院": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>２階-王立研究院": "<%sW_MAP_NAME><%sW_DELIMITER>2F - Royal Research"
   },
   "1103": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>１階-王立研究院": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>１階-王立研究院": "<%sW_MAP_NAME><%sW_DELIMITER>1F - Royal Research"
   },
   "1104": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>１階-大使室": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>１階-大使室": "<%sW_MAP_NAME><%sW_DELIMITER>1F - Office"
   },
   "1105": {
     "<%sW_MAP_NAME><%sW_DELIMITER>２階-書物庫": ""
@@ -3495,7 +3495,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>祈りの宿-道具屋": "<%sW_MAP_NAME><%sW_DELIMITER>Prayer Inn Tool Shop"
   },
   "1166": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>祈りの宿-預かり所": "<%sW_MAP_NAME><%sW_DELIMITER>Prayer Inn Depository"
+    "<%sW_MAP_NAME><%sW_DELIMITER>祈りの宿-預かり所": "<%sW_MAP_NAME><%sW_DELIMITER>Prayer Inn - Depository"
   },
   "1167": {
     "clarity_nt_char_371": "clarity_nt_char_371"
@@ -3522,7 +3522,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>便せん屋": "<%sW_MAP_NAME><%sW_DELIMITER>Stationery"
   },
   "1175": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>店内": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>店内": "<%sW_MAP_NAME><%sW_DELIMITER>Inside"
   },
   "1176": {
     "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>迷宮の主の間への道<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%dW_AUTODUNG_LV><%sW_DELIMITER>Maze Lord Way<%sW_AUTODUNG_CF>"
@@ -3543,7 +3543,7 @@
     "？？？？ 出口": "???? Exit"
   },
   "1182": {
-    "（ラッキーフロア）": ""
+    "（ラッキーフロア）": "(Lucky Floor)"
   },
   "1183": {
     "（チャレンジフロア）": ""
@@ -3603,7 +3603,7 @@
     "clarity_nt_char_380": "clarity_nt_char_380"
   },
   "1202": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>１階-預かり所": "Depository - 1F"
+    "<%sW_MAP_NAME><%sW_DELIMITER>１階-預かり所": "<%sW_MAP_NAME><%sW_DELIMITER>Depository 1F"
   },
   "1203": {
     "clarity_nt_char_381": "clarity_nt_char_381"
@@ -3675,7 +3675,7 @@
     "clarity_nt_char_387": "clarity_nt_char_387"
   },
   "1226": {
-    "ワルド水源への道": ""
+    "ワルド水源への道": "Road to Wald Outfall"
   },
   "1227": {
     "clarity_nt_char_388": "clarity_nt_char_388"
@@ -3732,13 +3732,13 @@
     "clarity_nt_char_394": "clarity_nt_char_394"
   },
   "1245": {
-    "三門の関所 入口": ""
+    "三門の関所 入口": "3 Way Gate Entry"
   },
   "1246": {
     "clarity_nt_char_395": "clarity_nt_char_395"
   },
   "1247": {
-    "デフェル荒野への道": ""
+    "デフェル荒野への道": "Road to Defel Wilderness"
   },
   "1248": {
     "リンジャハル海岸への道": ""
@@ -3768,16 +3768,16 @@
     "clarity_nt_char_398": "clarity_nt_char_398"
   },
   "1257": {
-    "ワルド水源 入口": ""
+    "ワルド水源 入口": "Wald Outfall Entry"
   },
   "1258": {
     "clarity_nt_char_399": "clarity_nt_char_399"
   },
   "1259": {
-    "レビュール街道南 入口": ""
+    "レビュール街道南 入口": "Reviewle Highway South Entry"
   },
   "1260": {
-    "コニウェア平原 入口": ""
+    "コニウェア平原 入口": "Coniware Plain Entry"
   },
   "1261": {
     "clarity_nt_char_400": "clarity_nt_char_400"
@@ -4005,7 +4005,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>永久封鎖機巧": ""
   },
   "1336": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>海の家": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>海の家": "<%sW_MAP_NAME><%sW_DELIMITER>Beach Bar"
   },
   "1337": {
     "clarity_nt_char_421": "clarity_nt_char_421"
@@ -4083,7 +4083,7 @@
     "F": ""
   },
   "1362": {
-    "E": ""
+    "E": "E"
   },
   "1363": {
     "D": ""
@@ -4101,7 +4101,7 @@
     "ロヴォス高地への道": ""
   },
   "1368": {
-    "レビュール街道南への道": ""
+    "レビュール街道南への道": "Road to Reviewle Highway South"
   },
   "1369": {
     "レビュール街道北への道": ""
@@ -4197,7 +4197,7 @@
     "clarity_nt_char_431": "clarity_nt_char_431"
   },
   "1400": {
-    "ドラクロン山地への道": ""
+    "ドラクロン山地への道": "Road to Draklon Mountains"
   },
   "1401": {
     "clarity_nt_char_432": "clarity_nt_char_432"
@@ -4266,7 +4266,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>東の塔-居間": ""
   },
   "1423": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-寝室": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-寝室": "<%sW_MAP_NAME><%sW_DELIMITER>W. Tower Bedroom"
   },
   "1424": {
     "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-３階": ""
@@ -4476,7 +4476,7 @@
     "ナシームの洞くつ 出口": ""
   },
   "1493": {
-    "アラハギーロ地方への道": "Arahagiro Region Way"
+    "アラハギーロ地方への道": "Road to Arahagiro Region"
   },
   "1494": {
     "モンスター格闘場 入口": ""
@@ -4569,7 +4569,7 @@
     "clarity_nt_char_475": "clarity_nt_char_475"
   },
   "1524": {
-    "リャナ荒涼地帯への道": ""
+    "リャナ荒涼地帯への道": "Road to Lyana Desolate Area"
   },
   "1525": {
     "clarity_nt_char_476": "clarity_nt_char_476"
@@ -4800,7 +4800,7 @@
     "古き神の遺跡 出口": ""
   },
   "1601": {
-    "ソーラリア峡谷への道": ""
+    "ソーラリア峡谷への道": "Road to Solaria Canyon"
   },
   "1602": {
     "clarity_nt_char_502": "clarity_nt_char_502"
@@ -4902,7 +4902,7 @@
     "clarity_nt_char_512": "clarity_nt_char_512"
   },
   "1635": {
-    "オルファの丘への道": ""
+    "オルファの丘への道": "Road to Orpha Hill"
   },
   "1636": {
     "<%sW_MAP_NAME><%sW_DELIMITER>まもの使いハウス・牧舎": "<%sW_MAP_NAME><%sW_DELIMITER>Monster User House Ranch"
@@ -4932,7 +4932,7 @@
     "clarity_nt_char_516": "clarity_nt_char_516"
   },
   "1645": {
-    "隠し扉": ""
+    "隠し扉": "Passage"
   },
   "1646": {
     "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>景品交換所": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Prize Exchange"
@@ -5130,7 +5130,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>ガケ沿いの集会所": "<%sW_MAP_NAME><%sW_DELIMITER>Cliff Meeting Point"
   },
   "1711": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>集会所への道": "<%sW_MAP_NAME><%sW_DELIMITER>Rd. to Meet Pt."
+    "<%sW_MAP_NAME><%sW_DELIMITER>集会所への道": "<%sW_MAP_NAME><%sW_DELIMITER>Road to Clubhouse"
   },
   "1712": {
     "天願の座への扉": "Door to Heaven Seat"
@@ -5343,7 +5343,7 @@
     "clarity_nt_char_564": "clarity_nt_char_564"
   },
   "1782": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>隠し通路": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>隠し通路": "Secret Passage"
   },
   "1783": {
     "<%sW_MAP_NAME><%sW_DELIMITER>南のやぐら": ""
@@ -5421,7 +5421,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>釣り具屋": "<%sW_MAP_NAME><%sW_DELIMITER>Tackle Shop"
   },
   "1808": {
-    "孤島の岩場": ""
+    "孤島の岩場": "Rocky Island"
   },
   "1809": {
     "スレア海岸への道": ""
@@ -5772,7 +5772,7 @@
     "clarity_nt_char_605": "clarity_nt_char_605"
   },
   "1925": {
-    "清き水の洞くつ 出口": ""
+    "清き水の洞くつ 出口": "Clear Water Cave Exit"
   },
   "1926": {
     "clarity_nt_char_606": "clarity_nt_char_606"
@@ -6111,7 +6111,7 @@
     "スイのやしろ 入口": ""
   },
   "2038": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>地下祭壇": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>地下祭壇": "<%sW_MAP_NAME><%sW_DELIMITER>Altar"
   },
   "2039": {
     "月世界・王宮 出口": ""
@@ -6216,19 +6216,19 @@
     "赤熱の荒野への出口": "Exit to Red Hot Desert"
   },
   "2073": {
-    "魔炎鳥の巣 出口": ""
+    "魔炎鳥の巣 出口": "Darkflame Nest Exit"
   },
   "2074": {
     "clarity_nt_char_648": "clarity_nt_char_648"
   },
   "2075": {
-    "魔炎鳥の巣 入口": ""
+    "魔炎鳥の巣 入口": "Darkflame Nest Entry"
   },
   "2076": {
     "clarity_nt_char_649": "clarity_nt_char_649"
   },
   "2077": {
-    "ナドラガ神のほこら 入口": ""
+    "ナドラガ神のほこら 入口": "Nadraga God Shrine Entry"
   },
   "2078": {
     "clarity_nt_char_650": "clarity_nt_char_650"
@@ -6285,7 +6285,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_DELIMITER><%dW_AUTODUNG_FLOOR>F<%sW_AUTODUNG_CF>"
   },
   "2096": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>預かり所・よろず屋": "Depository - Item S."
+    "<%sW_MAP_NAME><%sW_DELIMITER>預かり所・よろず屋": "<%sW_MAP_NAME><%sW_DELIMITER>Depository/General Store"
   },
   "2097": {
     "clarity_nt_char_657": "clarity_nt_char_657"
@@ -6381,7 +6381,7 @@
     "clarity_nt_char_668": "clarity_nt_char_668"
   },
   "2128": {
-    "アヴィーロ遺跡 入口": ""
+    "アヴィーロ遺跡 入口": "Aviro Ruins Entrance"
   },
   "2129": {
     "clarity_nt_char_669": "clarity_nt_char_669"
@@ -6396,13 +6396,13 @@
     "clarity_nt_char_670": "clarity_nt_char_670"
   },
   "2133": {
-    "アヴィーロ遺跡 出口": ""
+    "アヴィーロ遺跡 出口": "Aviro Ruins Exit"
   },
   "2134": {
     "clarity_nt_char_671": "clarity_nt_char_671"
   },
   "2135": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>聖鳥の幽居": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>聖鳥の幽居": "<%sW_MAP_NAME><%sW_DELIMITER>Flamia's Refuge"
   },
   "2136": {
     "clarity_nt_char_672": "clarity_nt_char_672"
@@ -6462,7 +6462,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>恐怖の湖": ""
   },
   "2155": {
-    "ナドラガ神のほこら・炎": ""
+    "ナドラガ神のほこら・炎": "Nadraga Flame Shrine"
   },
   "2156": {
     "クレーター地帯 出口": ""
@@ -6516,7 +6516,7 @@
     "clarity_nt_char_684": "clarity_nt_char_684"
   },
   "2173": {
-    "リルチェラの家": ""
+    "リルチェラの家": "Lilcherat's House"
   },
   "2174": {
     "恵みの木": "Grace Tree"
@@ -6591,10 +6591,10 @@
     "コニウェア平原": ""
   },
   "2198": {
-    "リャナ荒涼地帯": ""
+    "リャナ荒涼地帯": "Lyana Desolate Area"
   },
   "2199": {
-    "ワルド水源": ""
+    "ワルド水源": "Wald Outfall"
   },
   "2200": {
     "奈落の門": "Abyss Gate"
@@ -6618,10 +6618,10 @@
     "clarity_nt_char_689": "clarity_nt_char_689"
   },
   "2207": {
-    "リャナ荒涼地帯-ねじれたる異形の大地 入口": ""
+    "リャナ荒涼地帯-ねじれたる異形の大地 入口": "Lyana Desolate Area - Twisted Deformed Earth Entry"
   },
   "2208": {
-    "レビュール街道南": ""
+    "レビュール街道南": "Reviewle Highway South"
   },
   "2209": {
     "clarity_nt_char_690": "clarity_nt_char_690"
@@ -6711,10 +6711,10 @@
     "ソーラリア峡谷": "Solaria Canyon"
   },
   "2238": {
-    "ワルド水源-三門の関所 前": ""
+    "ワルド水源-三門の関所 前": "Wald Outfall - 3 Way Gate"
   },
   "2239": {
-    "ワルド水源-湖上の休息所 前": ""
+    "ワルド水源-湖上の休息所 前": "Wald Outfall - Lake Retreat"
   },
   "2240": {
     "clarity_nt_char_701": "clarity_nt_char_701"
@@ -6732,7 +6732,7 @@
     "リンジャハル海岸-海岸遺跡": ""
   },
   "2245": {
-    "レビュール街道南-三門の関所 前": ""
+    "レビュール街道南-三門の関所 前": "Reviewle Highway South - 3 Way Gate"
   },
   "2246": {
     "clarity_nt_char_703": "clarity_nt_char_703"
@@ -6759,22 +6759,22 @@
     "グランゼドーラ領-見張り塔 前": "Gran Zedora Territory - Watchtower Front"
   },
   "2254": {
-    "コニウェア平原-三門の関所 前": ""
+    "コニウェア平原-三門の関所 前": "Coniware Plain - 3 Way Gate"
   },
   "2255": {
     "コニウェア平原-難破船": ""
   },
   "2256": {
-    "ドラクロン山地-第３層": ""
+    "ドラクロン山地-第３層": "Draklon Mountains - 3rd Layer"
   },
   "2257": {
-    "ドラクロン山地-竜守りの小屋 前": ""
+    "ドラクロン山地-竜守りの小屋 前": "Draklon Mountains - Dragon Guard's Hut"
   },
   "2258": {
     "clarity_nt_char_705": "clarity_nt_char_705"
   },
   "2259": {
-    "ドラクロン山地-中層": ""
+    "ドラクロン山地-中層": "Draklon Mountains - Middle"
   },
   "2260": {
     "clarity_nt_char_706": "clarity_nt_char_706"
@@ -6786,13 +6786,13 @@
     "ローヌ樹林帯-希望の丘": ""
   },
   "2263": {
-    "デフェル荒野-不思議の魔塔 入口": "Defel Wilderness - Magical Tower Entry"
+    "デフェル荒野-不思議の魔塔 入口": "Defel Wilderness - Mysterious Tower Entry"
   },
   "2264": {
     "clarity_nt_char_707": "clarity_nt_char_707"
   },
   "2265": {
-    "デフェル荒野-ピラミッド 入口": ""
+    "デフェル荒野-ピラミッド 入口": "Defel Wilderness - Pyramid Entry"
   },
   "2266": {
     "魔女の森-夜宴館 前": ""
@@ -6801,7 +6801,7 @@
     "clarity_nt_char_708": "clarity_nt_char_708"
   },
   "2268": {
-    "リャナ荒涼地帯-灯台 前": ""
+    "リャナ荒涼地帯-灯台 前": "Lyana Desolate Area - Lighthouse"
   },
   "2269": {
     "clarity_nt_char_709": "clarity_nt_char_709"
@@ -6813,7 +6813,7 @@
     "clarity_nt_char_710": "clarity_nt_char_710"
   },
   "2272": {
-    "リャナ荒涼地帯-くずれた灯台 前": ""
+    "リャナ荒涼地帯-くずれた灯台 前": "Lyana Desolate Area - Collapsed Lighthouse"
   },
   "2273": {
     "clarity_nt_char_711": "clarity_nt_char_711"
@@ -6888,7 +6888,7 @@
     "ロヴォス高地-教会シスター 前": ""
   },
   "2297": {
-    "デフェル荒野-教会シスター 前": ""
+    "デフェル荒野-教会シスター 前": "Defel Wilderness - Church Sister"
   },
   "2298": {
     "リンジャハル海岸-教会シスター 前": ""
@@ -6900,7 +6900,7 @@
     "clarity_nt_char_721": "clarity_nt_char_721"
   },
   "2301": {
-    "リャナ荒涼地帯-ソーラリア峡谷 入口": ""
+    "リャナ荒涼地帯-ソーラリア峡谷 入口": "Lyana Desolate Area - Solaria Canyon Entry"
   },
   "2302": {
     "clarity_nt_char_722": "clarity_nt_char_722"
@@ -7035,7 +7035,7 @@
     "clarity_nt_char_735": "clarity_nt_char_735"
   },
   "2346": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐スペーディオ": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐Speidio"
+    "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐スペーディオ": "<%sW_MAP_NAME><%sW_DELIMITER>II‐Speidio"
   },
   "2347": {
     "<%sW_MAP_NAME><%sW_DELIMITER>Ⅲ‐スペーディオ": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅲ‐Speidio"
@@ -7047,7 +7047,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>Ⅰ‐ディアノーグ": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅰ‐Dianorg"
   },
   "2350": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐ディアノーグ": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐Dianorg"
+    "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐ディアノーグ": "<%sW_MAP_NAME><%sW_DELIMITER>II‐Dianorg"
   },
   "2351": {
     "<%sW_MAP_NAME><%sW_DELIMITER>Ⅲ‐ディアノーグ": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅲ‐Dianorg"
@@ -7059,7 +7059,7 @@
     "clarity_nt_char_736": "clarity_nt_char_736"
   },
   "2354": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐ガルハート": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐Galhart"
+    "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐ガルハート": "<%sW_MAP_NAME><%sW_DELIMITER>II‐Galhart"
   },
   "2355": {
     "clarity_nt_char_737": "clarity_nt_char_737"
@@ -7077,7 +7077,7 @@
     "clarity_nt_char_739": "clarity_nt_char_739"
   },
   "2360": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐グラブゾン": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐Grabzon"
+    "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐グラブゾン": "<%sW_MAP_NAME><%sW_DELIMITER>II‐Grabzon"
   },
   "2361": {
     "clarity_nt_char_740": "clarity_nt_char_740"
@@ -7122,7 +7122,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>Ⅰ‐": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅰ‐"
   },
   "2375": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐"
+    "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐": "<%sW_MAP_NAME><%sW_DELIMITER>II‐"
   },
   "2376": {
     "<%sW_MAP_NAME><%sW_DELIMITER>Ⅲ‐": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅲ‐"
@@ -7308,7 +7308,7 @@
     "clarity_nt_char_763": "clarity_nt_char_763"
   },
   "2437": {
-    "食堂": ""
+    "食堂": "Cafe"
   },
   "2438": {
     "clarity_nt_char_764": "clarity_nt_char_764"
@@ -7401,25 +7401,25 @@
     "楽園への扉": ""
   },
   "2468": {
-    "守りの部屋 出口": ""
+    "守りの部屋 出口": "Room of Defense Entry"
   },
   "2469": {
     "clarity_nt_char_773": "clarity_nt_char_773"
   },
   "2470": {
-    "集会所 出口": "Meet Pt. Exit"
+    "集会所 出口": "Clubhouse Exit"
   },
   "2471": {
     "clarity_nt_char_774": "clarity_nt_char_774"
   },
   "2472": {
-    "守りの部屋 入口": ""
+    "守りの部屋 入口": "Room of Defense Exit"
   },
   "2473": {
     "clarity_nt_char_775": "clarity_nt_char_775"
   },
   "2474": {
-    "集会所 入口": "Meet Pt. Entry"
+    "集会所 入口": "Clubhouse Entry"
   },
   "2475": {
     "clarity_nt_char_776": "clarity_nt_char_776"
@@ -7434,22 +7434,22 @@
     "clarity_nt_char_777": "clarity_nt_char_777"
   },
   "2479": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>占いの館": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>占いの館": "<%sW_MAP_NAME><%sW_DELIMITER>Divine Hall"
   },
   "2480": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>祭壇 出口": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>祭壇 出口": "<%sW_MAP_NAME><%sW_DELIMITER>Altar Exit"
   },
   "2481": {
     "clarity_nt_char_778": "clarity_nt_char_778"
   },
   "2482": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>祭壇 入口": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>祭壇 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Altar Entry"
   },
   "2483": {
     "clarity_nt_char_779": "clarity_nt_char_779"
   },
   "2484": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・防具屋・武器屋": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・防具屋・武器屋": "<%sW_MAP_NAME><%sW_DELIMITER>Item/Weapon/Armor Shop"
   },
   "2485": {
     "clarity_nt_char_780": "clarity_nt_char_780"
@@ -7470,7 +7470,7 @@
     "clarity_nt_char_782": "clarity_nt_char_782"
   },
   "2491": {
-    "ナドラガ神のほこら・闇": ""
+    "ナドラガ神のほこら・闇": "Nadraga Dark Shrine"
   },
   "2492": {
     "<%sW_MAP_NAME><%sW_DELIMITER>９階": ""
@@ -7569,7 +7569,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>コイン屋": "<%sW_MAP_NAME><%sW_DELIMITER>Coin Shop"
   },
   "2524": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>騎士団の部屋": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>騎士団の部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Room of the Order"
   },
   "2525": {
     "<%sW_MAP_NAME><%sW_DELIMITER>晴れの海": "<%sW_MAP_NAME><%sW_DELIMITER>Sea of Light"
@@ -7590,7 +7590,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>豊かの海": "<%sW_MAP_NAME><%sW_DELIMITER>Sea of Worth"
   },
   "2531": {
-    "ナドラガ神のほこら・水": ""
+    "ナドラガ神のほこら・水": "Nadraga Water Shrine"
   },
   "2532": {
     "<%sW_MAP_NAME><%sW_DELIMITER>石碑": "<%sW_MAP_NAME><%sW_DELIMITER>Statue"
@@ -7746,7 +7746,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>剣柄の洞くつ": ""
   },
   "2583": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>銅鏡の舞台": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>銅鏡の舞台": "<%sW_MAP_NAME><%sW_DELIMITER>Bronze Mirror"
   },
   "2584": {
     "clarity_nt_char_812": "clarity_nt_char_812"
@@ -7758,7 +7758,7 @@
     "黄昏の詩人の舞台 入口": ""
   },
   "2587": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>烈風の岬": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>烈風の岬": "<%sW_MAP_NAME><%sW_DELIMITER>Cape Squall"
   },
   "2588": {
     "アシッドテンプル 入口": ""
@@ -7815,13 +7815,13 @@
     "Ⅰ　Ⅰ": ""
   },
   "2606": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>土地神のやしろ": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>土地神のやしろ": "<%sW_MAP_NAME><%sW_DELIMITER>Land Shrine"
   },
   "2607": {
     "clarity_nt_char_818": "clarity_nt_char_818"
   },
   "2608": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>祭壇": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>祭壇": "<%sW_MAP_NAME><%sW_DELIMITER>Altar"
   },
   "2609": {
     "<%sW_MAP_NAME><%sW_DELIMITER>第１の部屋": ""
@@ -7917,7 +7917,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>バトエン同好会室": "<%sW_MAP_NAME><%sW_DELIMITER>Batoen Club Room"
   },
   "2640": {
-    "ナドラガ神のほこら・氷": ""
+    "ナドラガ神のほこら・氷": "Nadraga Ice Shrine"
   },
   "2641": {
     "<%sW_MAP_NAME><%sW_DELIMITER>タケ家": "<%sW_MAP_NAME><%sW_DELIMITER>Bamboo H."
@@ -7932,16 +7932,16 @@
     "clarity_nt_char_833": "clarity_nt_char_833"
   },
   "2645": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>錬金工房": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>錬金工房": "<%sW_MAP_NAME><%sW_DELIMITER>Alchemist"
   },
   "2646": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>高台の廃屋": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>高台の廃屋": "<%sW_MAP_NAME><%sW_DELIMITER>Abandoned House"
   },
   "2647": {
     "clarity_nt_char_834": "clarity_nt_char_834"
   },
   "2648": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>教会跡": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>教会跡": "<%sW_MAP_NAME><%sW_DELIMITER>Church"
   },
   "2649": {
     "clarity_nt_char_835": "clarity_nt_char_835"
@@ -7971,7 +7971,7 @@
     "天ツ風の原への出口": "Exit to Heavenly Field"
   },
   "2658": {
-    "ナドラガ神のほこら・嵐": ""
+    "ナドラガ神のほこら・嵐": "Nadraga Storm Shrine"
   },
   "2659": {
     "<%sW_MAP_NAME><%sW_DELIMITER>３階・広間": ""
@@ -8355,7 +8355,7 @@
     "clarity_nt_char_881": "clarity_nt_char_881"
   },
   "2786": {
-    "王都キィンベルへの出口": "Exit to Royal Capital Kimbel"
+    "王都キィンベルへの出口": "Exit to Royal City Kimbel"
   },
   "2787": {
     "転送の門 入口": ""
@@ -8925,7 +8925,7 @@
     "clarity_nt_char_945": "clarity_nt_char_945"
   },
   "2976": {
-    "古レビュール街道南への道": ""
+    "古レビュール街道南への道": "Road to Old Reviewle Highway South"
   },
   "2977": {
     "clarity_nt_char_946": "clarity_nt_char_946"
@@ -9060,10 +9060,10 @@
     "clarity_nt_char_961": "clarity_nt_char_961"
   },
   "3021": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>古三門の関所": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>古三門の関所": "<%sW_MAP_NAME><%sW_DELIMITER>Old 3 Way Gate"
   },
   "3022": {
-    "古三門の関所": ""
+    "古三門の関所": "Old 3 Way Gate"
   },
   "3023": {
     "clarity_nt_char_962": "clarity_nt_char_962"
@@ -9594,7 +9594,7 @@
     "clarity_nt_char_1022": "clarity_nt_char_1022"
   },
   "3199": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・レシピ屋": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・レシピ屋": "<%sW_MAP_NAME><%sW_DELIMITER>Item/Recipe Shop"
   },
   "3200": {
     "パルミオの研究所 入口": ""
@@ -9732,19 +9732,19 @@
     "clarity_nt_char_1033": "clarity_nt_char_1033"
   },
   "3245": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>回復の泉": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>回復の泉": "<%sW_MAP_NAME><%sW_DELIMITER>Recov. Fntn"
   },
   "3246": {
     "マイタウンID：<%04dW_FST_ID>－<%04dW_SEC_ID>": ""
   },
   "3247": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>３号観測小屋": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>３号観測小屋": "<%sW_MAP_NAME><%sW_DELIMITER>Observation Hut 3"
   },
   "3248": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>２号観測小屋": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>２号観測小屋": "<%sW_MAP_NAME><%sW_DELIMITER>Observation Hut 2"
   },
   "3249": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>１号観測小屋": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>１号観測小屋": "<%sW_MAP_NAME><%sW_DELIMITER>Observation Hut 1"
   },
   "3250": {
     "<%sW_MAP_NAME><%sW_DELIMITER>第８刻": ""
@@ -9897,7 +9897,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>地下通路": ""
   },
   "3300": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>小島": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>小島": "<%sW_MAP_NAME><%sW_DELIMITER>Islet"
   },
   "3301": {
     "<%sW_MAP_NAME><%sW_DELIMITER>祭司長の部屋": ""
@@ -9918,7 +9918,7 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>出口": ""
   },
   "3307": {
-    "小型艇": ""
+    "小型艇": "Tiny Boat"
   },
   "3308": {
     "封鎖された研究室 出口": ""
@@ -10233,7 +10233,7 @@
     "clarity_nt_char_1090": "clarity_nt_char_1090"
   },
   "3412": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>魔瘴塚": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>魔瘴塚": "<%sW_MAP_NAME><%sW_DELIMITER>Dark Hill"
   },
   "3413": {
     "clarity_nt_char_1091": "clarity_nt_char_1091"
@@ -10443,7 +10443,7 @@
     "clarity_nt_char_1110": "clarity_nt_char_1110"
   },
   "3482": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>魔瘴塚跡": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>魔瘴塚跡": "<%sW_MAP_NAME><%sW_DELIMITER>Miasma Mound"
   },
   "3483": {
     "<%sW_MAP_NAME><%sW_DELIMITER>商業地区": ""
@@ -10608,7 +10608,7 @@
     "clarity_nt_char_1128": "clarity_nt_char_1128"
   },
   "3537": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>始覚の間": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>始覚の間": "<%sW_MAP_NAME><%sW_DELIMITER>Start Area"
   },
   "3538": {
     "<%sW_MAP_NAME><%sW_DELIMITER>安息の領域": ""
@@ -10671,7 +10671,7 @@
     "clarity_nt_char_1137": "clarity_nt_char_1137"
   },
   "3558": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・郵便局": "<%sW_MAP_NAME><%sW_DELIMITER>Tool Shop - P. Office"
+    "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・郵便局": "<%sW_MAP_NAME><%sW_DELIMITER>Item Shop/P. Office"
   },
   "3559": {
     "clarity_nt_char_1138": "clarity_nt_char_1138"
@@ -10938,13 +10938,13 @@
     "clarity_nt_char_1164": "clarity_nt_char_1164"
   },
   "3647": {
-    "ユシュカの部屋 入口": ""
+    "ユシュカの部屋 入口": "Yushka's Room Entrance"
   },
   "3648": {
     "clarity_nt_char_1165": "clarity_nt_char_1165"
   },
   "3649": {
-    "ユシュカの部屋 出口": ""
+    "ユシュカの部屋 出口": "Yushka's Room Exit"
   },
   "3650": {
     "clarity_nt_char_1166": "clarity_nt_char_1166"
@@ -11223,7 +11223,7 @@
     "clarity_nt_char_1197": "clarity_nt_char_1197"
   },
   "3742": {
-    "謎の祭壇": ""
+    "謎の祭壇": "Secret Altar"
   },
   "3743": {
     "clarity_nt_char_1198": "clarity_nt_char_1198"
@@ -11250,7 +11250,7 @@
     "clarity_nt_char_1200": "clarity_nt_char_1200"
   },
   "3751": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>医務室": "<%sW_MAP_NAME><%sW_DELIMITER>Medical"
+    "<%sW_MAP_NAME><%sW_DELIMITER>医務室": "Infirmary"
   },
   "3752": {
     "clarity_nt_char_1201": "clarity_nt_char_1201"
@@ -11268,7 +11268,7 @@
     "clarity_nt_char_1203": "clarity_nt_char_1203"
   },
   "3757": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>遠征軍駐屯所": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>遠征軍駐屯所": "<%sW_MAP_NAME><%sW_DELIMITER>Expedition Station"
   },
   "3758": {
     "ザハディガル岩峰 入口": ""
@@ -11277,124 +11277,124 @@
     "<%sW_MAP_NAME><%sW_DELIMITER>前室": ""
   },
   "3760": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>星の塔１階": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>星の塔１階": "<%sW_MAP_NAME><%sW_DELIMITER>Star Tower 1F"
   },
   "3761": {
     "clarity_nt_char_1204": "clarity_nt_char_1204"
   },
   "3762": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>星の塔最上層": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>星の塔最上層": "<%sW_MAP_NAME><%sW_DELIMITER>Star Tower Upper"
   },
   "3763": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>星の塔６階": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>星の塔６階": "<%sW_MAP_NAME><%sW_DELIMITER>Star Tower 6F"
   },
   "3764": {
     "clarity_nt_char_1205": "clarity_nt_char_1205"
   },
   "3765": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>星の塔５階": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>星の塔５階": "<%sW_MAP_NAME><%sW_DELIMITER>Star Tower 5F"
   },
   "3766": {
     "clarity_nt_char_1206": "clarity_nt_char_1206"
   },
   "3767": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>星の塔４階": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>星の塔４階": "<%sW_MAP_NAME><%sW_DELIMITER>Star Tower 4F"
   },
   "3768": {
     "clarity_nt_char_1207": "clarity_nt_char_1207"
   },
   "3769": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>星の塔３階": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>星の塔３階": "<%sW_MAP_NAME><%sW_DELIMITER>Star Tower 3F"
   },
   "3770": {
     "clarity_nt_char_1208": "clarity_nt_char_1208"
   },
   "3771": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>星の塔２階": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>星の塔２階": "<%sW_MAP_NAME><%sW_DELIMITER>Star Tower 2F"
   },
   "3772": {
     "clarity_nt_char_1209": "clarity_nt_char_1209"
   },
   "3773": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔１階": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔１階": "<%sW_MAP_NAME><%sW_DELIMITER>Sun Tower 1F"
   },
   "3774": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔２階": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔２階": "<%sW_MAP_NAME><%sW_DELIMITER>Sun Tower 2F"
   },
   "3775": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔３階": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔３階": "<%sW_MAP_NAME><%sW_DELIMITER>Sun Tower 3F"
   },
   "3776": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔４階": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔４階": "<%sW_MAP_NAME><%sW_DELIMITER>Sun Tower 4F"
   },
   "3777": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔５階": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔５階": "<%sW_MAP_NAME><%sW_DELIMITER>Sun Tower 5F"
   },
   "3778": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔６階": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔６階": "<%sW_MAP_NAME><%sW_DELIMITER>Sun Tower 6F"
   },
   "3779": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔最上層": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔最上層": "<%sW_MAP_NAME><%sW_DELIMITER>Sun Tower Upper"
   },
   "3780": {
     "clarity_nt_char_1210": "clarity_nt_char_1210"
   },
   "3781": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>月の塔１階": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>月の塔１階": "<%sW_MAP_NAME><%sW_DELIMITER>Moon Tower 1F"
   },
   "3782": {
     "clarity_nt_char_1211": "clarity_nt_char_1211"
   },
   "3783": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>月の塔２階": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>月の塔２階": "<%sW_MAP_NAME><%sW_DELIMITER>Moon Tower 2F"
   },
   "3784": {
     "clarity_nt_char_1212": "clarity_nt_char_1212"
   },
   "3785": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>月の塔３階": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>月の塔３階": "<%sW_MAP_NAME><%sW_DELIMITER>Moon Tower 3F"
   },
   "3786": {
     "clarity_nt_char_1213": "clarity_nt_char_1213"
   },
   "3787": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>月の塔４階": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>月の塔４階": "<%sW_MAP_NAME><%sW_DELIMITER>Moon Tower 4F"
   },
   "3788": {
     "clarity_nt_char_1214": "clarity_nt_char_1214"
   },
   "3789": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>月の塔５階": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>月の塔５階": "<%sW_MAP_NAME><%sW_DELIMITER>Moon Tower 5F"
   },
   "3790": {
     "clarity_nt_char_1215": "clarity_nt_char_1215"
   },
   "3791": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>月の塔６階": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>月の塔６階": "<%sW_MAP_NAME><%sW_DELIMITER>Moon Tower 6F"
   },
   "3792": {
     "clarity_nt_char_1216": "clarity_nt_char_1216"
   },
   "3793": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>月の塔最上層": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>月の塔最上層": "<%sW_MAP_NAME><%sW_DELIMITER>Moon Tower Upper"
   },
   "3794": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>星の塔": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>星の塔": "<%sW_MAP_NAME><%sW_DELIMITER>Star Twr."
   },
   "3795": {
     "clarity_nt_char_1217": "clarity_nt_char_1217"
   },
   "3796": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>太陽の塔": "<%sW_MAP_NAME><%sW_DELIMITER>Sun Tower"
   },
   "3797": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>月の塔": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>月の塔": "<%sW_MAP_NAME><%sW_DELIMITER>Moon Twr."
   },
   "3798": {
     "clarity_nt_char_1218": "clarity_nt_char_1218"
   },
   "3799": {
-    "高所の岩場": ""
+    "高所の岩場": "High Rocks"
   },
   "3800": {
     "朽ちた霊廟 入口": ""
@@ -11511,7 +11511,7 @@
     "clarity_nt_char_1230": "clarity_nt_char_1230"
   },
   "3838": {
-    "未完のドラクロン山地への道": ""
+    "未完のドラクロン山地への道": "Road to Unfinished Draklon Mountains"
   },
   "3839": {
     "未完の飛竜の峰 入口": ""
@@ -11526,7 +11526,7 @@
     "clarity_nt_char_1232": "clarity_nt_char_1232"
   },
   "3843": {
-    "狭間の世界": ""
+    "狭間の世界": "Between Worlds"
   },
   "3844": {
     "グラデル台地への出口": "Exit to Gradel Plateau"
@@ -11541,7 +11541,7 @@
     "clarity_nt_char_1234": "clarity_nt_char_1234"
   },
   "3848": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>聖堂": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>聖堂": "<%sW_MAP_NAME><%sW_DELIMITER>Shrine"
   },
   "3849": {
     "封神の参道 入口": ""
@@ -11562,7 +11562,7 @@
     "clarity_nt_char_1236": "clarity_nt_char_1236"
   },
   "3855": {
-    "グラデル台地 入口": ""
+    "グラデル台地 入口": "Gradel Plateau Entry"
   },
   "3856": {
     "モコモコハウス 入口": "Mokomoko House Entrance"
@@ -11598,16 +11598,16 @@
     "ルクスガルン大空洞への亀裂": ""
   },
   "3867": {
-    "星の塔 入口": ""
+    "星の塔 入口": "Star Twr. Entry"
   },
   "3868": {
     "clarity_nt_char_1242": "clarity_nt_char_1242"
   },
   "3869": {
-    "太陽の塔 入口": ""
+    "太陽の塔 入口": "Sun Tower Entry"
   },
   "3870": {
-    "月の塔 入口": ""
+    "月の塔 入口": "Moon Twr. Entry"
   },
   "3871": {
     "clarity_nt_char_1243": "clarity_nt_char_1243"
@@ -11628,13 +11628,13 @@
     "屋上 入口": ""
   },
   "3877": {
-    "星の塔 出口": ""
+    "星の塔 出口": "Star Twr. Exit"
   },
   "3878": {
     "clarity_nt_char_1246": "clarity_nt_char_1246"
   },
   "3879": {
-    "太陽の塔 出口": ""
+    "太陽の塔 出口": "Sun Tower Exit"
   },
   "3880": {
     "屋内への扉": ""
@@ -11652,7 +11652,7 @@
     "clarity_nt_char_1247": "clarity_nt_char_1247"
   },
   "3885": {
-    "月の塔 出口": ""
+    "月の塔 出口": "Moon Twr. Exit"
   },
   "3886": {
     "clarity_nt_char_1248": "clarity_nt_char_1248"
@@ -11760,13 +11760,13 @@
     "女神の祠・風 出口": ""
   },
   "3921": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>聖堂 入口": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>聖堂 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Shrine Entry"
   },
   "3922": {
     "clarity_nt_char_1263": "clarity_nt_char_1263"
   },
   "3923": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>聖堂 出口": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>聖堂 出口": "<%sW_MAP_NAME><%sW_DELIMITER>Shrine Exit"
   },
   "3924": {
     "clarity_nt_char_1264": "clarity_nt_char_1264"
@@ -11799,7 +11799,7 @@
     "clarity_nt_char_1268": "clarity_nt_char_1268"
   },
   "3934": {
-    "<%sW_MAP_NAME><%sW_DELIMITER>湖畔の休憩所": ""
+    "<%sW_MAP_NAME><%sW_DELIMITER>湖畔の休憩所": "<%sW_MAP_NAME><%sW_DELIMITER>Lakeside Rest Area"
   },
   "3935": {
     "ルクスガルン大空洞-盾島": ""
@@ -11817,7 +11817,7 @@
     "迎春の間 出口": ""
   },
   "3940": {
-    "光の郷フィネトカ-聖堂": ""
+    "光の郷フィネトカ-聖堂": "Light Town Finetka - Shrine"
   },
   "3941": {
     "<%sW_MAP_NAME><%sW_DELIMITER>エルガドーラの部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Elgadra's Room"

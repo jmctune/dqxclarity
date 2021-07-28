@@ -237,7 +237,7 @@
     "料理屋": "Eatery"
   },
   "80": {
-    "家具屋": "Frn. Shop"
+    "家具屋": "Furniture"
   },
   "81": {
     "道具屋": "Tool Shop"
@@ -351,13 +351,13 @@
     "手紙を選ぶ": "Choose a Letter"
   },
   "118": {
-    "特等": "etc."
+    "特等": " "
   },
   "119": {
     "clarity_nt_char_38": "clarity_nt_char_38"
   },
   "120": {
-    "<%nL_TOU>等": "<%nL_TOU>etc"
+    "<%nL_TOU>等": "<%nL_TOU>"
   },
   "121": {
     "clarity_nt_char_39": "clarity_nt_char_39"
@@ -552,7 +552,7 @@
     "チームLv": "Team Level"
   },
   "185": {
-    "メンバー数順": "By no. of members"
+    "メンバー数順": "By # of members"
   },
   "186": {
     "clarity_nt_char_54": "clarity_nt_char_54"
@@ -684,7 +684,7 @@
     "あなたにとって|勝利とは　戦うことで|得られるものですか？": ""
   },
   "229": {
-    "建物家具屋": "Bldg. Frn. Shop"
+    "建物家具屋": "Bldg. Furniture"
   },
   "230": {
     "素材タネ屋": "Mat. Seed Shop"
@@ -801,7 +801,7 @@
     "clarity_nt_char_85": "clarity_nt_char_85"
   },
   "268": {
-    "消費アイテム": "Usable Items"
+    "消費アイテム": "Consumables"
   },
   "269": {
     "clarity_nt_char_86": "clarity_nt_char_86"

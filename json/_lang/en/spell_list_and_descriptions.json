@@ -192,7 +192,7 @@
     "スリープダガー": "Sleeper Hit"
   },
   "65": {
-    "攻撃時たまにＭＰ回復": "Rarely Recover MP On Attack"
+    "攻撃時たまにＭＰ回復": "Recover MP On Attack"
   },
   "66": {
     "clarity_nt_char_20": "clarity_nt_char_20"
@@ -1107,7 +1107,7 @@
     "clarity_nt_char_125": "clarity_nt_char_125"
   },
   "370": {
-    "ＭＰ消費しない率+2%": ""
+    "ＭＰ消費しない率+2%": "Don't Use MP +2%"
   },
   "371": {
     "メラガイアー": "Kafrizzle"
@@ -1851,7 +1851,7 @@
     "特技の回復量+100%": "Recovery Skill +100%"
   },
   "618": {
-    "爪牙の陣": "Fang Circle"
+    "爪牙の陣": "Sap Circle"
   },
   "619": {
     "clarity_nt_char_203": "clarity_nt_char_203"
@@ -2055,7 +2055,7 @@
     "clarity_nt_char_220": "clarity_nt_char_220"
   },
   "686": {
-    "雷のチカラを|弓矢に宿して|敵１体を射る": "Fires an arrow|with the power|of lightning."
+    "雷のチカラを|弓矢に宿して|敵１体を射る": "Fires an arrow|with the power|of thunder."
   },
   "687": {
     "clarity_nt_char_221": "clarity_nt_char_221"
@@ -2556,7 +2556,7 @@
     "ヤリ装備時の|かいしん率が|２％増える": "Critical Rate +2%|when Spear|equipped."
   },
   "853": {
-    "雷のチカラを|ヤリに宿して|敵を突く": "Thrust with the|power of|lightning."
+    "雷のチカラを|ヤリに宿して|敵を突く": "Thrust with the|power of|thunder."
   },
   "854": {
     "clarity_nt_char_282": "clarity_nt_char_282"
@@ -2898,7 +2898,7 @@
     "敵１体に雷の竜で|大ダメージを与え|風耐性も下げる": "A thunder attack|that lowers|wind resistance."
   },
   "967": {
-    "範囲内の敵に|風の刃で２回攻撃|雷耐性も下げる": "Area of wind hits|twice. Lowers|lightning resist."
+    "範囲内の敵に|風の刃で２回攻撃|雷耐性も下げる": "Area of wind hits|twice. Lowers|thunder resist."
   },
   "968": {
     "範囲内にいる|仲間のＨＰを|大幅に回復する": "Restore|large HP|to nearby allies."
@@ -2928,7 +2928,7 @@
     "clarity_nt_char_324": "clarity_nt_char_324"
   },
   "977": {
-    "こうげきに風と|雷のチカラを宿す|魔法戦士専用特技": "Wind/lightning|element is added|to your attacks."
+    "こうげきに風と|雷のチカラを宿す|魔法戦士専用特技": "Wind/thunder|element is added|to your attacks."
   },
   "978": {
     "全職業で|みのまもりが|５増える": "Resilience +5|for all|vocations."
@@ -3210,7 +3210,7 @@
     "周囲を巻き込む|巨大な氷の柱が|敵に突きささる": "A huge ice pillar|engulfs nearby|enemies."
   },
   "1071": {
-    "魔法使い時|２％の確率で|ＭＰを消費しない": ""
+    "魔法使い時|２％の確率で|ＭＰを消費しない": "2% chance to not|use MP as a|Mage."
   },
   "1072": {
     "巨大な火柱で|敵１体を|焼きつくす": "Burns an enemy in|a huge pillar|of fire."
@@ -3309,7 +3309,7 @@
     "clarity_nt_char_366": "clarity_nt_char_366"
   },
   "1104": {
-    "神もおそれる|闇のチカラが|敵１体をおそう": "Kill one enemy|with the power|of darkness."
+    "神もおそれる|闇のチカラが|敵１体をおそう": "An overwhelming|darkness attack|to one enemy."
   },
   "1105": {
     "神の息吹で|呪文の詠唱時間が|大幅短縮される！": "Greatly increases|spell casting|speed!"
@@ -3738,7 +3738,7 @@
     "clarity_nt_char_417": "clarity_nt_char_417"
   },
   "1247": {
-    "周囲の敵の雷と|風耐性ダウン|踊り子専用": "Lower lightning/|wind resist. of|nearby enemies."
+    "周囲の敵の雷と|風耐性ダウン|踊り子専用": "Lowers thunder/|wind resist. of|nearby enemies."
   },
   "1248": {
     "clarity_nt_char_418": "clarity_nt_char_418"
@@ -3813,7 +3813,7 @@
     "clarity_nt_char_424": "clarity_nt_char_424"
   },
   "1272": {
-    "天地雷鳴士時|２％の確率で|ＭＰを消費しない": ""
+    "天地雷鳴士時|２％の確率で|ＭＰを消費しない": "2% chance to not|use MP as a|Druid."
   },
   "1273": {
     "clarity_nt_char_425": "clarity_nt_char_425"
@@ -3825,10 +3825,10 @@
     "clarity_nt_char_426": "clarity_nt_char_426"
   },
   "1276": {
-    "直線上に土攻撃|雷耐性も下げる|天地雷鳴士専用": "Summon earth|spikes in a line.|Lightning Res.↓"
+    "直線上に土攻撃|雷耐性も下げる|天地雷鳴士専用": "Hurl earth spikes|in a line. Lowers|thunder resist."
   },
   "1277": {
-    "周囲を落雷で攻撃|たまにマヒさせる|天地雷鳴士専用": "Lightning attack|that hits an area|Rarely Paralyzes"
+    "周囲を落雷で攻撃|たまにマヒさせる|天地雷鳴士専用": "An area thunder|attack that may|cause paralysis."
   },
   "1278": {
     "周囲に土ダメージ|風耐性も下げる|天地雷鳴士専用": "Earth attack that|hits in an area|Wind Res.↓"
@@ -4542,7 +4542,7 @@
     "スライム系の敵に|威力を発揮する|ブーメランの妙技": "Extra damage|against slime|type enemies."
   },
   "1515": {
-    "鉄甲斬・改": "Scrap Axe Kai"
+    "鉄甲斬・改": "Scrap Mettle"
   },
   "1516": {
     "攻撃時魔力低下+15%": "Attack Spell Res. D. +15%"
@@ -4629,7 +4629,7 @@
     "clarity_nt_char_516": "clarity_nt_char_516"
   },
   "1544": {
-    "スティック装備時|２％の確率で|ＭＰを消費しない": ""
+    "スティック装備時|２％の確率で|ＭＰを消費しない": "2% chance to not|use MP when using|a Wand."
   },
   "1545": {
     "clarity_nt_char_517": "clarity_nt_char_517"
@@ -4818,10 +4818,10 @@
     "錬魔の秘法": "Demonic Method"
   },
   "1607": {
-    "ＭＰ消費しない率+4%": ""
+    "ＭＰ消費しない率+4%": "Don't Use MP Rate +4%"
   },
   "1608": {
-    "ターン消費しない+2%": ""
+    "ターン消費しない+2%": "Don't Consume Turn +2%"
   },
   "1609": {
     "棍装備時に|呪文の発動速度が|３％早くなる": "Spell cast speed|increased by 3%|with a Rod."
@@ -4935,34 +4935,34 @@
     "鎌装備時|闇攻撃ダメージが|５％増える": "Dark Damage +5%|when a Sickle|is equipped."
   },
   "1646": {
-    "スティック装備時|さいだいＭＰが|５０増える": ""
+    "スティック装備時|さいだいＭＰが|５０増える": "Max MP +50|when a Wand|is equipped."
   },
   "1647": {
     "clarity_nt_char_552": "clarity_nt_char_552"
   },
   "1648": {
-    "スティック装備時|４％の確率で|ＭＰを消費しない": ""
+    "スティック装備時|４％の確率で|ＭＰを消費しない": "4% chance to not|use MP when using|a Wand."
   },
   "1649": {
     "clarity_nt_char_553": "clarity_nt_char_553"
   },
   "1650": {
-    "スティック装備時|２．０％の確率で|ターン消費しない": ""
+    "スティック装備時|２．０％の確率で|ターン消費しない": "2% chance to not|use a turn when|using a Wand."
   },
   "1651": {
     "clarity_nt_char_554": "clarity_nt_char_554"
   },
   "1652": {
-    "仲間ひとりを|生き返らせる|スティック専用": ""
+    "仲間ひとりを|生き返らせる|スティック専用": "A Stick spell|that revives|one ally."
   },
   "1653": {
-    "スティック装備時|こうげき魔力が|６０増える": ""
+    "スティック装備時|こうげき魔力が|６０増える": "Mag. Might +60|when a Wand|is equipped."
   },
   "1654": {
     "clarity_nt_char_555": "clarity_nt_char_555"
   },
   "1655": {
-    "攻撃時ＨＰ回復と|武器ガード率上昇|効果がつく": "HP recovery and|wep. guard rate|up on an attack."
+    "攻撃時ＨＰ回復と|武器ガード率上昇|効果がつく": "Increased parry|rate and attacks|recover HP."
   },
   "1656": {
     "魔の波動を消費し|自己強化|魔剣士専用特技": "Consume Wave|gauge to power|yourself up."
@@ -5022,72 +5022,72 @@
     "clarity_nt_char_562": "clarity_nt_char_562"
   },
   "1675": {
-    "カカロン召喚": ""
+    "カカロン召喚": "Summon Klashmi"
   },
   "1676": {
     "clarity_nt_char_563": "clarity_nt_char_563"
   },
   "1677": {
-    "クシャラミ召喚": ""
+    "クシャラミ召喚": "Summon Kamashki"
   },
   "1678": {
-    "バルバルー召喚": ""
+    "バルバルー召喚": "Summon Blamara"
   },
   "1679": {
-    "ドメディ召喚": ""
+    "ドメディ召喚": "Summon Damninui"
   },
   "1680": {
     "clarity_nt_char_564": "clarity_nt_char_564"
   },
   "1681": {
-    "がいこつ召喚": ""
+    "がいこつ召喚": "Summon Skeleton"
   },
   "1682": {
     "clarity_nt_char_565": "clarity_nt_char_565"
   },
   "1683": {
-    "ゴースト召喚": ""
+    "ゴースト召喚": "Summon Ghost"
   },
   "1684": {
     "clarity_nt_char_566": "clarity_nt_char_566"
   },
   "1685": {
-    "よろいのきし召喚": ""
+    "よろいのきし召喚": "Summon Knight Errant"
   },
   "1686": {
     "clarity_nt_char_567": "clarity_nt_char_567"
   },
   "1687": {
-    "カカロンを召喚|２分間一緒に戦う|天地雷鳴士専用": ""
+    "カカロンを召喚|２分間一緒に戦う|天地雷鳴士専用": "Summons Klashmi|to assist you|for 2 minutes."
   },
   "1688": {
     "clarity_nt_char_568": "clarity_nt_char_568"
   },
   "1689": {
-    "クシャラミを召喚|２分間一緒に戦う|天地雷鳴士専用": ""
+    "クシャラミを召喚|２分間一緒に戦う|天地雷鳴士専用": "Summons Kamashki|to assist you|for 2 minutes."
   },
   "1690": {
-    "バルバルーを召喚|２分間一緒に戦う|天地雷鳴士専用": ""
+    "バルバルーを召喚|２分間一緒に戦う|天地雷鳴士専用": "Summons Blamara|to assist you|for 2 minutes."
   },
   "1691": {
-    "ドメディを召喚|２分間一緒に戦う|天地雷鳴士専用": ""
+    "ドメディを召喚|２分間一緒に戦う|天地雷鳴士専用": "Summons Damninui|to assist you|for 2 minutes."
   },
   "1692": {
     "clarity_nt_char_569": "clarity_nt_char_569"
   },
   "1693": {
-    "がいこつを|召喚し使役する|デスマスター専用": ""
+    "がいこつを|召喚し使役する|デスマスター専用": "Summons a|Skeleton to|assist you."
   },
   "1694": {
     "clarity_nt_char_570": "clarity_nt_char_570"
   },
   "1695": {
-    "ゴーストを|召喚し使役する|デスマスター専用": ""
+    "ゴーストを|召喚し使役する|デスマスター専用": "Summons a Ghost|to assist you."
   },
   "1696": {
     "clarity_nt_char_571": "clarity_nt_char_571"
   },
   "1697": {
-    "よろいのきしを|召喚し使役する|デスマスター専用": ""
+    "よろいのきしを|召喚し使役する|デスマスター専用": "Summons a Knight|Errant to|assist you."
   }
 }

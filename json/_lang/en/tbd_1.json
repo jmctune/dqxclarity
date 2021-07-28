@@ -1,6 +1,6 @@
 {
   "1": {
-    "初心者": ""
+    "初心者": "Beginner"
   },
   "2": {
     "(今の職業)": ""
@@ -303,7 +303,7 @@
     "clarity_nt_char_36": "clarity_nt_char_36"
   },
   "102": {
-    "子分": ""
+    "子分": "Minion"
   },
   "103": {
     "clarity_nt_char_37": "clarity_nt_char_37"
@@ -333,7 +333,7 @@
     "堕天使": ""
   },
   "112": {
-    "魔王": ""
+    "魔王": "LRD"
   },
   "113": {
     "clarity_nt_char_41": "clarity_nt_char_41"
@@ -465,7 +465,7 @@
     "いじられキャラ": ""
   },
   "156": {
-    "フウラ": ""
+    "フウラ": "Fura"
   },
   "157": {
     "カムシカ": ""
@@ -474,7 +474,7 @@
     "clarity_nt_char_56": "clarity_nt_char_56"
   },
   "159": {
-    "プスゴン": ""
+    "プスゴン": "Pusgon"
   },
   "160": {
     "clarity_nt_char_57": "clarity_nt_char_57"
@@ -495,7 +495,7 @@
     "clarity_nt_char_59": "clarity_nt_char_59"
   },
   "166": {
-    "キュウスケ": ""
+    "キュウスケ": "Kyusuke"
   },
   "167": {
     "(キャラクター名)": "Player Name"
@@ -519,7 +519,7 @@
     "clarity_nt_char_62": "clarity_nt_char_62"
   },
   "174": {
-    "ヒューザ": ""
+    "ヒューザ": "Huzer"
   },
   "175": {
     "clarity_nt_char_63": "clarity_nt_char_63"
@@ -570,19 +570,19 @@
     "の団長": ""
   },
   "191": {
-    "ラグアス": ""
+    "ラグアス": "Raguas"
   },
   "192": {
     "clarity_nt_char_69": "clarity_nt_char_69"
   },
   "193": {
-    "アルウェ": ""
+    "アルウェ": "Alwa"
   },
   "194": {
     "clarity_nt_char_70": "clarity_nt_char_70"
   },
   "195": {
-    "イッド": ""
+    "イッド": "Iddo"
   },
   "196": {
     "魔軍師": ""
@@ -618,7 +618,7 @@
     "clarity_nt_char_74": "clarity_nt_char_74"
   },
   "207": {
-    "マイユ": "Mayu"
+    "マイユ": "Maille"
   },
   "208": {
     "マリーン": ""
@@ -627,7 +627,7 @@
     "clarity_nt_char_75": "clarity_nt_char_75"
   },
   "210": {
-    "ジュリアンテ": ""
+    "ジュリアンテ": "Juliante"
   },
   "211": {
     "clarity_nt_char_76": "clarity_nt_char_76"
@@ -648,7 +648,7 @@
     "clarity_nt_char_78": "clarity_nt_char_78"
   },
   "217": {
-    "ダストン": ""
+    "ダストン": "Daston"
   },
   "218": {
     "clarity_nt_char_79": "clarity_nt_char_79"
@@ -678,7 +678,7 @@
     "ヒメア": ""
   },
   "227": {
-    "巫女": ""
+    "巫女": "MDN"
   },
   "228": {
     "clarity_nt_char_82": "clarity_nt_char_82"
@@ -765,7 +765,7 @@
     "clarity_nt_char_91": "clarity_nt_char_91"
   },
   "256": {
-    "セーリア": ""
+    "セーリア": "Celia"
   },
   "257": {
     "clarity_nt_char_92": "clarity_nt_char_92"
@@ -789,7 +789,7 @@
     "の芸人": ""
   },
   "264": {
-    "フォステイル": ""
+    "フォステイル": "Fostail"
   },
   "265": {
     "clarity_nt_char_95": "clarity_nt_char_95"
@@ -858,7 +858,7 @@
     "の狩りトモ": ""
   },
   "287": {
-    "ルナナ": ""
+    "ルナナ": "Lunana"
   },
   "288": {
     "ブロッゲン": ""
@@ -909,13 +909,13 @@
     "clarity_nt_char_108": "clarity_nt_char_108"
   },
   "304": {
-    "フルッカ": ""
+    "フルッカ": "Fluka"
   },
   "305": {
     "clarity_nt_char_109": "clarity_nt_char_109"
   },
   "306": {
-    "アバ": ""
+    "アバ": "Abba"
   },
   "307": {
     "clarity_nt_char_110": "clarity_nt_char_110"
@@ -927,7 +927,7 @@
     "clarity_nt_char_111": "clarity_nt_char_111"
   },
   "310": {
-    "エルジュ": ""
+    "エルジュ": "Erju"
   },
   "311": {
     "clarity_nt_char_112": "clarity_nt_char_112"
@@ -936,7 +936,7 @@
     "ラズバーン": ""
   },
   "313": {
-    "ネルゲル": ""
+    "ネルゲル": "Nelgel"
   },
   "314": {
     "clarity_nt_char_113": "clarity_nt_char_113"
@@ -957,7 +957,7 @@
     "clarity_nt_char_115": "clarity_nt_char_115"
   },
   "320": {
-    "ザンクローネ": ""
+    "ザンクローネ": "Zankrone"
   },
   "321": {
     "clarity_nt_char_116": "clarity_nt_char_116"
@@ -972,7 +972,7 @@
     "の英雄": ""
   },
   "325": {
-    "リゼロッタ": ""
+    "リゼロッタ": "Lieselotte"
   },
   "326": {
     "フィーロ": ""
@@ -987,7 +987,7 @@
     "clarity_nt_char_119": "clarity_nt_char_119"
   },
   "330": {
-    "セラフィ": ""
+    "セラフィ": "Seraphy"
   },
   "331": {
     "clarity_nt_char_120": "clarity_nt_char_120"
@@ -996,7 +996,7 @@
     "チョメ": ""
   },
   "333": {
-    "ベルムド": ""
+    "ベルムド": "Bermud"
   },
   "334": {
     "clarity_nt_char_121": "clarity_nt_char_121"
@@ -1005,19 +1005,19 @@
     "アンルシア": "Anlucia"
   },
   "336": {
-    "クロウズ": ""
+    "クロウズ": "Claws"
   },
   "337": {
     "clarity_nt_char_122": "clarity_nt_char_122"
   },
   "338": {
-    "ルシェンダ": ""
+    "ルシェンダ": "Lushenda"
   },
   "339": {
-    "トーマ": ""
+    "トーマ": "Thomas"
   },
   "340": {
-    "シンイ": ""
+    "シンイ": "Shini"
   },
   "341": {
     "マデサゴーラ": "Madesagora"
@@ -1041,10 +1041,10 @@
     "clarity_nt_char_125": "clarity_nt_char_125"
   },
   "348": {
-    "リルチェラ": ""
+    "リルチェラ": "Lilcherat"
   },
   "349": {
-    "サジェ": ""
+    "サジェ": "Sajay"
   },
   "350": {
     "フィナ": "Fina"
@@ -1059,7 +1059,7 @@
     "アイリ": ""
   },
   "354": {
-    "グレイツェル": ""
+    "グレイツェル": "Gretzel"
   },
   "355": {
     "clarity_nt_char_127": "clarity_nt_char_127"
@@ -1083,7 +1083,7 @@
     "の魔女": ""
   },
   "362": {
-    "ルコリア": ""
+    "ルコリア": "Lucolia"
   },
   "363": {
     "clarity_nt_char_130": "clarity_nt_char_130"
@@ -1107,13 +1107,13 @@
     "clarity_nt_char_132": "clarity_nt_char_132"
   },
   "370": {
-    "キルギル": ""
+    "キルギル": "Kyrgyl"
   },
   "371": {
     "clarity_nt_char_133": "clarity_nt_char_133"
   },
   "372": {
-    "ゴリウス": ""
+    "ゴリウス": "Gorius"
   },
   "373": {
     "clarity_nt_char_134": "clarity_nt_char_134"
@@ -1134,7 +1134,7 @@
     "clarity_nt_char_136": "clarity_nt_char_136"
   },
   "379": {
-    "魔勇者": ""
+    "魔勇者": "DemonHero"
   },
   "380": {
     "の魔勇者": ""
@@ -1143,7 +1143,7 @@
     "clarity_nt_char_137": "clarity_nt_char_137"
   },
   "382": {
-    "ペリポン": ""
+    "ペリポン": "Peripon"
   },
   "383": {
     "clarity_nt_char_138": "clarity_nt_char_138"
@@ -1152,10 +1152,10 @@
     "大盗賊": ""
   },
   "385": {
-    "ヒストリカ": ""
+    "ヒストリカ": "Historica"
   },
   "386": {
-    "リンジャーラ": ""
+    "リンジャーラ": "Linjara"
   },
   "387": {
     "clarity_nt_char_139": "clarity_nt_char_139"
@@ -1176,7 +1176,7 @@
     "clarity_nt_char_141": "clarity_nt_char_141"
   },
   "393": {
-    "アンテロ": ""
+    "アンテロ": "Antelo"
   },
   "394": {
     "clarity_nt_char_142": "clarity_nt_char_142"
@@ -1200,7 +1200,7 @@
     "clarity_nt_char_145": "clarity_nt_char_145"
   },
   "401": {
-    "ヤヨイ": ""
+    "ヤヨイ": "Yayoi"
   },
   "402": {
     "ピラミッド": "Pyramid"
@@ -1242,13 +1242,13 @@
     "clarity_nt_char_149": "clarity_nt_char_149"
   },
   "415": {
-    "リィン": ""
+    "リィン": "Lynn"
   },
   "416": {
-    "ラウル": ""
+    "ラウル": "Raul"
   },
   "417": {
-    "リーネ": ""
+    "リーネ": "Renee"
   },
   "418": {
     "支配者": ""
@@ -1788,7 +1788,7 @@
     "clarity_nt_char_214": "clarity_nt_char_214"
   },
   "597": {
-    "ファラオ": ""
+    "ファラオ": "Pharaoh"
   },
   "598": {
     "clarity_nt_char_215": "clarity_nt_char_215"
@@ -1863,7 +1863,7 @@
     "clarity_nt_char_224": "clarity_nt_char_224"
   },
   "622": {
-    "ヤーン": ""
+    "ヤーン": "Yarn"
   },
   "623": {
     "堕": ""
@@ -2133,7 +2133,7 @@
     "clarity_nt_char_258": "clarity_nt_char_258"
   },
   "712": {
-    "ニコちゃん": ""
+    "ニコちゃん": "Nikochan"
   },
   "713": {
     "疾風": ""
@@ -2238,7 +2238,7 @@
     "clarity_nt_char_272": "clarity_nt_char_272"
   },
   "747": {
-    "メレアーデ": ""
+    "メレアーデ": "Mereade"
   },
   "748": {
     "クオード": ""
@@ -2256,7 +2256,7 @@
     "clarity_nt_char_274": "clarity_nt_char_274"
   },
   "753": {
-    "セレブ": ""
+    "セレブ": "Celebrity"
   },
   "754": {
     "トビアス": "Tobias"
@@ -2277,7 +2277,7 @@
     "プリフィー": ""
   },
   "760": {
-    "破砕将": ""
+    "破砕将": "Crush Gen"
   },
   "761": {
     "闇朱": ""
@@ -2298,7 +2298,7 @@
     "滅機将": ""
   },
   "767": {
-    "紫炎": ""
+    "紫炎": "PrpFlm"
   },
   "768": {
     "clarity_nt_char_279": "clarity_nt_char_279"
@@ -2328,19 +2328,19 @@
     "clarity_nt_char_283": "clarity_nt_char_283"
   },
   "777": {
-    "バトエン": ""
+    "バトエン": "Batoen"
   },
   "778": {
     "clarity_nt_char_284": "clarity_nt_char_284"
   },
   "779": {
-    "アルヴァン": ""
+    "アルヴァン": "Alvan"
   },
   "780": {
     "カミル": ""
   },
   "781": {
-    "ギルガラン": ""
+    "ギルガラン": "Gilgaran"
   },
   "782": {
     "グリエ": ""
@@ -2352,7 +2352,7 @@
     "clarity_nt_char_285": "clarity_nt_char_285"
   },
   "785": {
-    "ウルタ": ""
+    "ウルタ": "Ulta"
   },
   "786": {
     "グルヤンラシュ": ""
@@ -2451,7 +2451,7 @@
     "破砕する者": ""
   },
   "818": {
-    "こんぼう": "Oak Club"
+    "こんぼう": "Oaken Club"
   },
   "819": {
     "clarity_nt_char_298": "clarity_nt_char_298"
@@ -2484,7 +2484,7 @@
     "clarity_nt_char_302": "clarity_nt_char_302"
   },
   "829": {
-    "ズーボー": ""
+    "ズーボー": "Zubo"
   },
   "830": {
     "clarity_nt_char_303": "clarity_nt_char_303"
@@ -2505,13 +2505,13 @@
     "clarity_nt_char_305": "clarity_nt_char_305"
   },
   "836": {
-    "パルミオ": ""
+    "パルミオ": "Palmio"
   },
   "837": {
     "clarity_nt_char_306": "clarity_nt_char_306"
   },
   "838": {
-    "ペコリア": ""
+    "ペコリア": "Pekoria"
   },
   "839": {
     "clarity_nt_char_307": "clarity_nt_char_307"
@@ -2523,7 +2523,7 @@
     "撃破する者": ""
   },
   "842": {
-    "おもちゃ": ""
+    "おもちゃ": "Toy"
   },
   "843": {
     "clarity_nt_char_308": "clarity_nt_char_308"
@@ -2553,10 +2553,10 @@
     "過去の": "Past "
   },
   "852": {
-    "ヤクウ": ""
+    "ヤクウ": "Yaku"
   },
   "853": {
-    "ガニャポン": ""
+    "ガニャポン": "Ganyapon"
   },
   "854": {
     "アルゴン": "Argon"
@@ -3195,7 +3195,7 @@
     "clarity_nt_char_394": "clarity_nt_char_394"
   },
   "1066": {
-    "常闇の": ""
+    "常闇の": "Everdark"
   },
   "1067": {
     "土竜眼の": ""
@@ -3246,7 +3246,7 @@
     "clarity_nt_char_400": "clarity_nt_char_400"
   },
   "1083": {
-    "業炎の": ""
+    "業炎の": "Karmafire"
   },
   "1084": {
     "氷晶の": ""
@@ -3306,7 +3306,7 @@
     "clarity_nt_char_404": "clarity_nt_char_404"
   },
   "1103": {
-    "セレブな": ""
+    "セレブな": "Celebrities"
   },
   "1104": {
     "clarity_nt_char_405": "clarity_nt_char_405"
@@ -3426,13 +3426,13 @@
     "魔族の": ""
   },
   "1143": {
-    "ゼルメア": ""
+    "ゼルメア": "Zelmea"
   },
   "1144": {
     "clarity_nt_char_416": "clarity_nt_char_416"
   },
   "1145": {
-    "ゲノディオ": ""
+    "ゲノディオ": "Genodio"
   },
   "1146": {
     "女王": ""
@@ -3444,7 +3444,7 @@
     "ゼルメアの": ""
   },
   "1149": {
-    "ゲノディオの": ""
+    "ゲノディオの": "Genodio's"
   },
   "1150": {
     "clarity_nt_char_418": "clarity_nt_char_418"
@@ -3522,7 +3522,7 @@
     "アサヒ": "Asahi"
   },
   "1175": {
-    "ヨイ": ""
+    "ヨイ": "Yoi"
   },
   "1176": {
     "clarity_nt_char_426": "clarity_nt_char_426"
@@ -3594,7 +3594,7 @@
     "大富豪": "Daifugo"
   },
   "1199": {
-    "キュルル": ""
+    "キュルル": "Qululu"
   },
   "1200": {
     "clarity_nt_char_434": "clarity_nt_char_434"
@@ -3627,7 +3627,7 @@
     "clarity_nt_char_437": "clarity_nt_char_437"
   },
   "1210": {
-    "ユシュカ": ""
+    "ユシュカ": "Yushka"
   },
   "1211": {
     "clarity_nt_char_438": "clarity_nt_char_438"

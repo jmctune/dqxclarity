@@ -198,7 +198,7 @@
     "風の町アズラン": "Wind Town Azlan"
   },
   "67": {
-    "王都カミハルムイ": "Royal Capital Kamiharmui"
+    "王都カミハルムイ": "Royal City Kamiharmui"
   },
   "68": {
     "clarity_nt_char_24": "clarity_nt_char_24"
@@ -258,7 +258,7 @@
     "参加賞": "Prize"
   },
   "87": {
-    "特等": "etc."
+    "特等": " "
   },
   "88": {
     "clarity_nt_char_29": "clarity_nt_char_29"
@@ -582,19 +582,19 @@
     "clarity_nt_char_64": "clarity_nt_char_64"
   },
   "195": {
-    "一の災壇": "1st Disaster"
+    "一の災壇": "1st Platform"
   },
   "196": {
     "clarity_nt_char_65": "clarity_nt_char_65"
   },
   "197": {
-    "二の災壇": "2nd Disaster"
+    "二の災壇": "2nd Platform"
   },
   "198": {
     "clarity_nt_char_66": "clarity_nt_char_66"
   },
   "199": {
-    "三の災壇": "3rd Disaster"
+    "三の災壇": "3rd Platform"
   },
   "200": {
     "clarity_nt_char_67": "clarity_nt_char_67"
@@ -627,7 +627,7 @@
     "clarity_nt_char_69": "clarity_nt_char_69"
   },
   "210": {
-    "マット": "Mat"
+    "マット": "Matte"
   },
   "211": {
     "ツヤツヤ": "Shiny"
@@ -657,21 +657,21 @@
     "回": " "
   },
   "220": {
-    "四の災壇": "4th Disaster"
+    "四の災壇": "4th Platform"
   },
   "221": {
     "clarity_nt_char_72": "clarity_nt_char_72"
   },
   "222": {
-    "合成手数料": ""
+    "合成手数料": "Fuse Cost"
   },
   "223": {
-    "ラッキー合成": ""
+    "ラッキー合成": "Lucky Fuse"
   },
   "224": {
     "clarity_nt_char_73": "clarity_nt_char_73"
   },
   "225": {
-    "会心の合成": ""
+    "会心の合成": "Critical Fuse"
   }
 }

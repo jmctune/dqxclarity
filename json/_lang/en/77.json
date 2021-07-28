@@ -39,16 +39,16 @@
     "コロシアム参加": "Join In The Coliseum"
   },
   "14": {
-    "ピラミッド攻略": ""
+    "ピラミッド攻略": "Pyramid Capture"
   },
   "15": {
-    "すごろく攻略": ""
+    "すごろく攻略": "Sugoroku Capture"
   },
   "16": {
     "clarity_nt_char_5": "clarity_nt_char_5"
   },
   "17": {
-    "不思議の魔塔攻略": ""
+    "不思議の魔塔攻略": "Mysterious Tower Capture"
   },
   "18": {
     "clarity_nt_char_6": "clarity_nt_char_6"
@@ -57,7 +57,7 @@
     "達人の宝珠集め": "Collect Master Jewels"
   },
   "20": {
-    "達人クエスト攻略": ""
+    "達人クエスト攻略": "Master Quest Capture"
   },
   "21": {
     "clarity_nt_char_7": "clarity_nt_char_7"
@@ -93,7 +93,7 @@
     "clarity_nt_char_11": "clarity_nt_char_11"
   },
   "32": {
-    "レンダーシア大陸": ""
+    "レンダーシア大陸": "Lendersia Continent"
   },
   "33": {
     "clarity_nt_char_12": "clarity_nt_char_12"
@@ -105,7 +105,7 @@
     "clarity_nt_char_13": "clarity_nt_char_13"
   },
   "36": {
-    "キュルルと行く世界": "Journey with Kyururu"
+    "キュルルと行く世界": "Journey with Qululu"
   },
   "37": {
     "素材集め": "Materials"
@@ -189,7 +189,7 @@
     "ピラミッド": "Pyramid"
   },
   "64": {
-    "不思議の魔塔": "Magical Tower"
+    "不思議の魔塔": "Mysterious Tower"
   },
   "65": {
     "clarity_nt_char_22": "clarity_nt_char_22"
@@ -201,7 +201,7 @@
     "clarity_nt_char_23": "clarity_nt_char_23"
   },
   "68": {
-    "常闇の竜レグナード": "Dark Dragon Regnard"
+    "常闇の竜レグナード": "Everdark Dragon Regnard"
   },
   "69": {
     "ダークキング": "Dark King Slime"
@@ -237,7 +237,7 @@
     "clarity_nt_char_28": "clarity_nt_char_28"
   },
   "80": {
-    "冥骸魔レギルラッゾたち": "Demon Beast RegilRazzo"
+    "冥骸魔レギルラッゾたち": "Demon Corpse Legirrazzos"
   },
   "81": {
     "いにしえのゼルメア": "Ancient Zelmea"
@@ -300,7 +300,7 @@
     "clarity_nt_char_35": "clarity_nt_char_35"
   },
   "101": {
-    "ゴルスラ": ""
+    "ゴルスラ": "Golsla"
   },
   "102": {
     "clarity_nt_char_36": "clarity_nt_char_36"
@@ -327,7 +327,7 @@
     "clarity_nt_char_39": "clarity_nt_char_39"
   },
   "110": {
-    "プチアトラス": "Ickle Atlas"
+    "プチアトラス": "Frail Atlas"
   },
   "111": {
     "clarity_nt_char_40": "clarity_nt_char_40"
@@ -342,7 +342,7 @@
     "アトラス強": "Apex Atlas"
   },
   "115": {
-    "プチバズズ": "Ickle Pazuzu"
+    "プチバズズ": "Frail Pazuzu"
   },
   "116": {
     "バズズ": "Pazuzu"
@@ -354,7 +354,7 @@
     "clarity_nt_char_42": "clarity_nt_char_42"
   },
   "119": {
-    "プチベリアル": "Ickle Belial"
+    "プチベリアル": "Frail Belial"
   },
   "120": {
     "clarity_nt_char_43": "clarity_nt_char_43"
@@ -369,7 +369,7 @@
     "ベリアル強": "Apex Belial"
   },
   "124": {
-    "プチ悪霊の神々": "Ickle Evil Spirit God"
+    "プチ悪霊の神々": "Frail Evil Spirit God"
   },
   "125": {
     "悪霊の神々": "Evil Spirit God"
@@ -381,7 +381,7 @@
     "clarity_nt_char_45": "clarity_nt_char_45"
   },
   "128": {
-    "プチガイア": "Ickle Gaia"
+    "プチガイア": "Frail Gaia"
   },
   "129": {
     "ドラゴンガイア": "Gaia Dragon"
@@ -393,7 +393,7 @@
     "clarity_nt_char_46": "clarity_nt_char_46"
   },
   "132": {
-    "プチバラモス": "Ickle Baramos"
+    "プチバラモス": "Frail Baramos"
   },
   "133": {
     "clarity_nt_char_47": "clarity_nt_char_47"
@@ -408,7 +408,7 @@
     "バラモス強": "Apex Baramos"
   },
   "137": {
-    "プチヒドラ": "Ickle Hydra"
+    "プチヒドラ": "Frail Hydra"
   },
   "138": {
     "キングヒドラ": "King Hydra"
@@ -420,7 +420,7 @@
     "キングヒドラ強": "Apex King Hydra"
   },
   "141": {
-    "プチグラコス": "Ickle Gracos"
+    "プチグラコス": "Frail Gracos"
   },
   "142": {
     "clarity_nt_char_50": "clarity_nt_char_50"
@@ -450,13 +450,13 @@
     "ドン・モグーラ": "Don Mole"
   },
   "151": {
-    "ザ・キャッツ": "The Cat"
+    "ザ・キャッツ": "The Cats"
   },
   "152": {
     "clarity_nt_char_54": "clarity_nt_char_54"
   },
   "153": {
-    "強・キャッツ": "Apex Cat"
+    "強・キャッツ": "Apex Cats"
   },
   "154": {
     "clarity_nt_char_55": "clarity_nt_char_55"
@@ -528,7 +528,7 @@
     "clarity_nt_char_65": "clarity_nt_char_65"
   },
   "177": {
-    "牙王ゴースネル": "Gosnell"
+    "牙王ゴースネル": "Fang King Gosnell"
   },
   "178": {
     "暗黒の魔人": "Ruin"
@@ -549,7 +549,7 @@
     "幻界の四諸侯練習札": "4 Pntm Lords Trn. Card"
   },
   "184": {
-    "牙王ゴースネル練習札": "Gosnell Training Card"
+    "牙王ゴースネル練習札": "Fang K. Gosnell T. Card"
   },
   "185": {
     "clarity_nt_char_68": "clarity_nt_char_68"
@@ -567,10 +567,10 @@
     "伝説の三悪魔闘": "Apex 3 Legend Demons"
   },
   "190": {
-    "Ｓキラーマシン": "S Killing Machine"
+    "Ｓキラーマシン": "Trauminator"
   },
   "191": {
-    "Ｓキラーマシン練習札": "S Killing Mch. Tr. Card"
+    "Ｓキラーマシン練習札": "Trauminator Tr. Card"
   },
   "192": {
     "clarity_nt_char_70": "clarity_nt_char_70"
@@ -603,10 +603,10 @@
     "Ｓジェネラル練習札": "S Slime General Tr. Card"
   },
   "202": {
-    "震王ジュノーガ": "Shingo Junoga"
+    "震王ジュノーガ": "Quake King Junoga"
   },
   "203": {
-    "震王ジュノーガ練習札": "Shingo Junoga Tr. Card"
+    "震王ジュノーガ練習札": "Quake K. Junoga T. Card"
   },
   "204": {
     "clarity_nt_char_74": "clarity_nt_char_74"
@@ -618,7 +618,7 @@
     "タロット魔人強": "Apex Tarot Genie"
   },
   "207": {
-    "プチマジンガ": "Ickle Uber Machine"
+    "プチマジンガ": "Frail Uber Machine"
   },
   "208": {
     "clarity_nt_char_75": "clarity_nt_char_75"
@@ -630,64 +630,64 @@
     "clarity_nt_char_76": "clarity_nt_char_76"
   },
   "211": {
-    "死神スライダーク": "Reaper Slydark"
+    "死神スライダーク": "Nemeslime"
   },
   "212": {
     "clarity_nt_char_77": "clarity_nt_char_77"
   },
   "213": {
-    "スライダーク練習札": "Slydark Tr. Card"
+    "スライダーク練習札": "Nemeslime Train. Card"
   },
   "214": {
-    "ギュメイ将軍": "General Gumei"
+    "ギュメイ将軍": "Goresby-Purrvis"
   },
   "215": {
     "clarity_nt_char_78": "clarity_nt_char_78"
   },
   "216": {
-    "ギュメイ将軍練習札": "G. Gumei Training Card"
+    "ギュメイ将軍練習札": "Goresby-Purrvis Tr Card"
   },
   "217": {
-    "ゲルニック将軍": "General Gernick"
+    "ゲルニック将軍": "Hootingham-Gore"
   },
   "218": {
-    "ゲルニック将軍練習札": "G. Gernick Training Card"
+    "ゲルニック将軍練習札": "Hootingham-Gore T. Card"
   },
   "219": {
     "clarity_nt_char_79": "clarity_nt_char_79"
   },
   "220": {
-    "プチゴースネル": "Ickle Gosnell"
+    "プチゴースネル": "Frail Gosnell"
   },
   "221": {
-    "プチ幻界の四諸侯": "Ickle 4 Phantom Lords"
+    "プチ幻界の四諸侯": "Frail 4 Phantom Lords"
   },
   "222": {
     "clarity_nt_char_80": "clarity_nt_char_80"
   },
   "223": {
-    "プチ伝説の三悪魔": "Ickle 3 Legend Demons"
+    "プチ伝説の三悪魔": "Frail 3 Legend Demons"
   },
   "224": {
     "clarity_nt_char_81": "clarity_nt_char_81"
   },
   "225": {
-    "プチ・モグーラ": "Ickle Mole"
+    "プチ・モグーラ": "Frail Mole"
   },
   "226": {
-    "プチＳキラマシン": "Ickle S Killing Machine"
+    "プチＳキラマシン": "Frail S Killing Machine"
   },
   "227": {
     "clarity_nt_char_82": "clarity_nt_char_82"
   },
   "228": {
-    "ゴレオン将軍": "General Goleon"
+    "ゴレオン将軍": "Goreham-Hogg"
   },
   "229": {
     "clarity_nt_char_83": "clarity_nt_char_83"
   },
   "230": {
-    "ゴレオン将軍練習札": "Gen. Goleon Train. Card"
+    "ゴレオン将軍練習札": "Goreham-Hogg Tr. Card"
   },
   "231": {
     "帝国三将軍": "3 Imp. Generals"
@@ -699,10 +699,10 @@
     "clarity_nt_char_84": "clarity_nt_char_84"
   },
   "234": {
-    "試練の門＆強モードボス": ""
+    "試練の門＆強モードボス": "Trial Gate & Strong Boss"
   },
   "235": {
-    "ニューＶロン": ""
+    "ニューＶロン": "New Vron"
   },
   "236": {
     "clarity_nt_char_85": "clarity_nt_char_85"
@@ -732,7 +732,7 @@
     "輝晶獣": "B. Beast"
   },
   "245": {
-    "剛獣鬼ガルドドン": "Brutal Beast Garudodon"
+    "剛獣鬼ガルドドン": "Brutal Beast Gardodon"
   },
   "246": {
     "clarity_nt_char_89": "clarity_nt_char_89"
@@ -747,7 +747,7 @@
     "clarity_nt_char_90": "clarity_nt_char_90"
   },
   "250": {
-    "邪蒼鎧デルメゼ": "Blue Armored Delmeze"
+    "邪蒼鎧デルメゼ": "Blue Armor Delmeze"
   },
   "251": {
     "魔軍": "D.Army"
@@ -762,7 +762,7 @@
     "clarity_nt_char_92": "clarity_nt_char_92"
   },
   "255": {
-    "プチ暗黒の魔人": "Ickle Ruin"
+    "プチ暗黒の魔人": "Frail Ruin"
   },
   "256": {
     "暗黒の魔人強": "Apex Ruin"
@@ -774,7 +774,7 @@
     "ムドー": "Murdaw"
   },
   "259": {
-    "ムドー練習札": "Practice Murdaw"
+    "ムドー練習札": "Murdaw Train. Card"
   },
   "260": {
     "clarity_nt_char_94": "clarity_nt_char_94"

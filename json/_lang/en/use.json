@@ -234,7 +234,7 @@
     "clarity_nt_char_25": "clarity_nt_char_25"
   },
   "79": {
-    "はじゃのつるぎ": "Rednusadner"
+    "はじゃのつるぎ": "Cautery Sword"
   },
   "80": {
     "さんぞくのさーべる": ""
@@ -297,7 +297,7 @@
     "えてーねのけん": ""
   },
   "100": {
-    "せいどうのつるぎ": "Bronze Broadsword"
+    "せいどうのつるぎ": "Bronze Sword"
   },
   "101": {
     "clarity_nt_char_32": "clarity_nt_char_32"
@@ -309,7 +309,7 @@
     "ほのおのつるぎ": "Fire Blade"
   },
   "104": {
-    "きせきのつるぎ": ""
+    "きせきのつるぎ": "Miracle Sword"
   },
   "105": {
     "うぇすたんれいぴあ": ""
@@ -417,7 +417,7 @@
     "clarity_nt_char_44": "clarity_nt_char_44"
   },
   "140": {
-    "おおばさみ": ""
+    "おおばさみ": "Sizable Scissor"
   },
   "141": {
     "きんぐぶれーど": ""
@@ -570,7 +570,7 @@
     "clarity_nt_char_58": "clarity_nt_char_58"
   },
   "191": {
-    "こおりのやいば": ""
+    "こおりのやいば": "Icicle Dirk"
   },
   "192": {
     "そーどぶれいかー": ""
@@ -975,7 +975,7 @@
     "うぃきっどすたっふ": ""
   },
   "326": {
-    "にくきゅうのつえ": ""
+    "にくきゅうのつえ": "Pawmaturge Cane"
   },
   "327": {
     "clarity_nt_char_100": "clarity_nt_char_100"
@@ -1032,13 +1032,13 @@
     "clarity_nt_char_106": "clarity_nt_char_106"
   },
   "345": {
-    "いなずまのやり": ""
+    "いなずまのやり": "Lightning Lance"
   },
   "346": {
     "ぐらこすのやり": ""
   },
   "347": {
-    "さじんのやり": ""
+    "さじんのやり": "Sandstorm Spear"
   },
   "348": {
     "clarity_nt_char_107": "clarity_nt_char_107"
@@ -1050,7 +1050,7 @@
     "らいじんのやり": "Storm Spear"
   },
   "351": {
-    "えいゆうのやり": ""
+    "えいゆうのやり": "Hero Spear"
   },
   "352": {
     "めたすらのやり": ""
@@ -1062,7 +1062,7 @@
     "clarity_nt_char_108": "clarity_nt_char_108"
   },
   "355": {
-    "きしんのまそう": ""
+    "きしんのまそう": "Poker"
   },
   "356": {
     "せらふぃむのやり": ""
@@ -1287,13 +1287,13 @@
     "clarity_nt_char_126": "clarity_nt_char_126"
   },
   "430": {
-    "おおきづち": "Hammerhood"
+    "おおきづち": "Giant Mallet"
   },
   "431": {
     "れじぇんずはんまー": ""
   },
   "432": {
-    "おおかなづち": ""
+    "おおかなづち": "Sledgehammer"
   },
   "433": {
     "clarity_nt_char_127": "clarity_nt_char_127"
@@ -1314,7 +1314,7 @@
     "ちきんはんまー": ""
   },
   "439": {
-    "おにのかなぼう": ""
+    "おにのかなぼう": "Marauder's Maul"
   },
   "440": {
     "ばとるすたんぱー": ""
@@ -1374,7 +1374,7 @@
     "clarity_nt_char_136": "clarity_nt_char_136"
   },
   "459": {
-    "こんぼう": "Oak Club"
+    "こんぼう": "Oaken Club"
   },
   "460": {
     "clarity_nt_char_137": "clarity_nt_char_137"
@@ -1383,7 +1383,7 @@
     "てつのかなぼう": "Iron Club"
   },
   "462": {
-    "ぎんのかなづち": ""
+    "ぎんのかなづち": "Silver Hammer"
   },
   "463": {
     "ごーどんはんまー": ""
@@ -1458,13 +1458,13 @@
     "clarity_nt_char_146": "clarity_nt_char_146"
   },
   "487": {
-    "てんびんぼう": "Hooked Pole"
+    "てんびんぼう": "Carrying Pole"
   },
   "488": {
     "clarity_nt_char_147": "clarity_nt_char_147"
   },
   "489": {
-    "かしのこん": ""
+    "かしのこん": "Oaken Pole"
   },
   "490": {
     "ろっかくぼう": ""
@@ -1479,7 +1479,7 @@
     "clarity_nt_char_149": "clarity_nt_char_149"
   },
   "494": {
-    "ぎょうじゃのこん": ""
+    "ぎょうじゃのこん": "Ascetic Rod"
   },
   "495": {
     "clarity_nt_char_150": "clarity_nt_char_150"
@@ -1494,7 +1494,7 @@
     "clarity_nt_char_151": "clarity_nt_char_151"
   },
   "499": {
-    "にちりんのこん": "Sunburst Staff"
+    "にちりんのこん": "Solar Rod"
   },
   "500": {
     "れいにーろっど": ""
@@ -1512,13 +1512,13 @@
     "clarity_nt_char_152": "clarity_nt_char_152"
   },
   "505": {
-    "なげきのこん": "Rod of Woe"
+    "なげきのこん": "Rod of Mourning"
   },
   "506": {
     "clarity_nt_char_153": "clarity_nt_char_153"
   },
   "507": {
-    "えんぶのこん": ""
+    "えんぶのこん": "Driller Pillar"
   },
   "508": {
     "clarity_nt_char_154": "clarity_nt_char_154"
@@ -1557,7 +1557,7 @@
     "clarity_nt_char_159": "clarity_nt_char_159"
   },
   "520": {
-    "ものほしざお": "Bamboo Pole"
+    "ものほしざお": "Laundry Pole"
   },
   "521": {
     "clarity_nt_char_160": "clarity_nt_char_160"
@@ -1824,7 +1824,7 @@
     "clarity_nt_char_186": "clarity_nt_char_186"
   },
   "609": {
-    "くじゃくのおうぎ": ""
+    "くじゃくのおうぎ": "Peacock Fan"
   },
   "610": {
     "clarity_nt_char_187": "clarity_nt_char_187"
@@ -1932,7 +1932,7 @@
     "clarity_nt_char_202": "clarity_nt_char_202"
   },
   "645": {
-    "くじゃくひめのおうぎ": ""
+    "くじゃくひめのおうぎ": "Peacock Princess Fan"
   },
   "646": {
     "clarity_nt_char_203": "clarity_nt_char_203"
@@ -2142,7 +2142,7 @@
     "clarity_nt_char_226": "clarity_nt_char_226"
   },
   "715": {
-    "くさりがま": ""
+    "くさりがま": "Chain Sickle"
   },
   "716": {
     "ねれうすうぃっぷ": ""
@@ -2736,7 +2736,7 @@
     "clarity_nt_char_297": "clarity_nt_char_297"
   },
   "913": {
-    "きめんどうしのつえ": ""
+    "きめんどうしのつえ": "Lump Shaman's Cane"
   },
   "914": {
     "ねれうすわんど": ""
@@ -5346,7 +5346,7 @@
     "ぬすっとずきん": "Slippery Hood"
   },
   "1783": {
-    "くさりのはちがね": ""
+    "くさりのはちがね": "Chainmail Helmet"
   },
   "1784": {
     "clarity_nt_char_568": "clarity_nt_char_568"
@@ -7620,7 +7620,7 @@
     "clarity_nt_char_821": "clarity_nt_char_821"
   },
   "2541": {
-    "くさりのあみごて": ""
+    "くさりのあみごて": "Chainmail Bracers"
   },
   "2542": {
     "clarity_nt_char_822": "clarity_nt_char_822"
@@ -8679,7 +8679,7 @@
     "ぬすっとのくつ": "Slippery Shoes"
   },
   "2894": {
-    "くさりのあみぐつ": ""
+    "くさりのあみぐつ": "Chainmail Boots"
   },
   "2895": {
     "clarity_nt_char_939": "clarity_nt_char_939"
@@ -11886,7 +11886,7 @@
     "clarity_nt_char_1291": "clarity_nt_char_1291"
   },
   "3963": {
-    "ようせいのおでん": "Western Hot Stick"
+    "ようせいのおでん": "Faerie Hot Stick"
   },
   "3964": {
     "clarity_nt_char_1292": "clarity_nt_char_1292"
@@ -11904,7 +11904,7 @@
     "clarity_nt_char_1293": "clarity_nt_char_1293"
   },
   "3969": {
-    "ようせいのあまざけ": "Western Sake"
+    "ようせいのあまざけ": "Faerie Sweet Sake"
   },
   "3970": {
     "らっきーちょこ": ""
@@ -13197,7 +13197,7 @@
     "clarity_nt_char_1434": "clarity_nt_char_1434"
   },
   "4400": {
-    "たけやりへいのしょ": ""
+    "たけやりへいのしょ": "Bambooligon Book."
   },
   "4401": {
     "おどるほうせきのしょ": ""
@@ -14208,7 +14208,7 @@
     "clarity_nt_char_1551": "clarity_nt_char_1551"
   },
   "4737": {
-    "しっかりせんべい": "Rice Crackers"
+    "しっかりせんべい": "Firm Rice Crackers"
   },
   "4738": {
     "clarity_nt_char_1552": "clarity_nt_char_1552"
@@ -14496,7 +14496,7 @@
     "clarity_nt_char_1586": "clarity_nt_char_1586"
   },
   "4833": {
-    "きようさにくまん": ""
+    "きようさにくまん": "Deftness Meat Bun"
   },
   "4834": {
     "clarity_nt_char_1587": "clarity_nt_char_1587"
@@ -17949,7 +17949,7 @@
     "clarity_nt_char_1958": "clarity_nt_char_1958"
   },
   "5984": {
-    "くない": ""
+    "くない": "Ninja Knf"
   },
   "5985": {
     "きりさきだがー": ""
@@ -23517,7 +23517,7 @@
     "おむつっこりのぞう": ""
   },
   "7840": {
-    "おおきづちのぞう": ""
+    "おおきづちのぞう": "Hammerhood Statue"
   },
   "7841": {
     "clarity_nt_char_2581": "clarity_nt_char_2581"
@@ -23586,7 +23586,7 @@
     "おむつっこりのぞうにわ": ""
   },
   "7863": {
-    "おおきづちのぞうにわ": "Hammerhood Warehouse"
+    "おおきづちのぞうにわ": "Hammerhood Gdn. Statue"
   },
   "7864": {
     "clarity_nt_char_2589": "clarity_nt_char_2589"
@@ -27408,7 +27408,7 @@
     "clarity_nt_char_3011": "clarity_nt_char_3011"
   },
   "9137": {
-    "きようさにくまんのひみつ": ""
+    "きようさにくまんのひみつ": "Deftness Meat Bun Rcp"
   },
   "9138": {
     "clarity_nt_char_3012": "clarity_nt_char_3012"
@@ -29001,7 +29001,7 @@
     "ばらいろのいきかた": ""
   },
   "9668": {
-    "あやかしのまきゅうでんせつ": ""
+    "あやかしのまきゅうでんせつ": "Apparition Bow Recipe"
   },
   "9669": {
     "せいしんしゅごえまき": ""
@@ -29766,7 +29766,7 @@
     "clarity_nt_char_3261": "clarity_nt_char_3261"
   },
   "9923": {
-    "わだつみのしずく": "Sea God's Droplet"
+    "わだつみのしずく": "Sea God Droplets"
   },
   "9924": {
     "clarity_nt_char_3262": "clarity_nt_char_3262"
@@ -29814,7 +29814,7 @@
     "ばすたーどそーどのほん": ""
   },
   "9939": {
-    "はじゃのつるぎのしょ": ""
+    "はじゃのつるぎのしょ": "Cautery Sword Book"
   },
   "9940": {
     "clarity_nt_char_3267": "clarity_nt_char_3267"
@@ -29847,7 +29847,7 @@
     "clarity_nt_char_3271": "clarity_nt_char_3271"
   },
   "9950": {
-    "ほのおのつるぎのしょ": ""
+    "ほのおのつるぎのしょ": "Fire Blade Book"
   },
   "9951": {
     "clarity_nt_char_3272": "clarity_nt_char_3272"
@@ -29955,7 +29955,7 @@
     "ぞく　あんさつぶきのれきし": ""
   },
   "9986": {
-    "こおりのやいばのしょ": ""
+    "こおりのやいばのしょ": "Icicle Dirk Book"
   },
   "9987": {
     "clarity_nt_char_3282": "clarity_nt_char_3282"
@@ -30015,7 +30015,7 @@
     "clarity_nt_char_3289": "clarity_nt_char_3289"
   },
   "10006": {
-    "さじんのやりのれしぴ": ""
+    "さじんのやりのれしぴ": "Sandstorm Spear Recipe"
   },
   "10007": {
     "clarity_nt_char_3290": "clarity_nt_char_3290"
@@ -30033,7 +30033,7 @@
     "clarity_nt_char_3292": "clarity_nt_char_3292"
   },
   "10012": {
-    "らいじんのやりのつくりかた": ""
+    "らいじんのやりのつくりかた": "How to Make Storm Spear"
   },
   "10013": {
     "でーもんすぴあのつくりかた": ""
@@ -30051,7 +30051,7 @@
     "clarity_nt_char_3293": "clarity_nt_char_3293"
   },
   "10018": {
-    "きしんのまそうのほん": ""
+    "きしんのまそうのほん": "Poker Recipe"
   },
   "10019": {
     "clarity_nt_char_3294": "clarity_nt_char_3294"
@@ -30420,16 +30420,16 @@
     "れいにーろっどのれしぴ": ""
   },
   "10141": {
-    "らせつのこんのつくりかた": ""
+    "らせつのこんのつくりかた": "How to Make Taming Rod"
   },
   "10142": {
     "clarity_nt_char_3340": "clarity_nt_char_3340"
   },
   "10143": {
-    "ろうがぼうのつくりかた": ""
+    "ろうがぼうのつくりかた": "How to Make Sadistick"
   },
   "10144": {
-    "やしゃのこんのつくりかた": ""
+    "やしゃのこんのつくりかた": "How to Make Slaying Rod"
   },
   "10145": {
     "clarity_nt_char_3341": "clarity_nt_char_3341"
@@ -30444,13 +30444,13 @@
     "はくじゃのこんのつくりかた": ""
   },
   "10149": {
-    "なげきのこんのつくりかた": ""
+    "なげきのこんのつくりかた": "Making Rod of Mourning"
   },
   "10150": {
     "clarity_nt_char_3342": "clarity_nt_char_3342"
   },
   "10151": {
-    "しゅらのこんのれしぴ": ""
+    "しゅらのこんのれしぴ": "Knockout Rod Recipe"
   },
   "10152": {
     "clarity_nt_char_3343": "clarity_nt_char_3343"
@@ -30483,7 +30483,7 @@
     "clarity_nt_char_3345": "clarity_nt_char_3345"
   },
   "10162": {
-    "ましょうのおうぎのほん": ""
+    "ましょうのおうぎのほん": "Devilish Fan Book"
   },
   "10163": {
     "つきのおうぎのれしぴ": ""
@@ -30495,13 +30495,13 @@
     "れいんぼーふぁんのほん": ""
   },
   "10166": {
-    "たいようのおうぎのれしぴ": ""
+    "たいようのおうぎのれしぴ": "Solar Fan Recipe"
   },
   "10167": {
     "clarity_nt_char_3347": "clarity_nt_char_3347"
   },
   "10168": {
-    "ばしょうせんのほん": ""
+    "ばしょうせんのほん": "Frond Fan Book"
   },
   "10169": {
     "てんかたいへいのしょ": ""
@@ -30510,7 +30510,7 @@
     "clarity_nt_char_3348": "clarity_nt_char_3348"
   },
   "10171": {
-    "ひっさつのおうぎのほん": ""
+    "ひっさつのおうぎのほん": "Critical Fan Book"
   },
   "10172": {
     "ふうりんかざんのしょ": ""
@@ -31188,7 +31188,7 @@
     "よるのぱぴよんのひみつ": ""
   },
   "10397": {
-    "いなずまのやりのれしぴ": ""
+    "いなずまのやりのれしぴ": "Lightning Lance Recipe"
   },
   "10398": {
     "ぱるちざんとわたし": ""
@@ -31248,7 +31248,7 @@
     "clarity_nt_char_3428": "clarity_nt_char_3428"
   },
   "10417": {
-    "まどろみのこんのしょ": ""
+    "まどろみのこんのしょ": "Sleepy Stick Book"
   },
   "10418": {
     "clarity_nt_char_3429": "clarity_nt_char_3429"
@@ -31257,10 +31257,10 @@
     "くらっしゅろっどのほん": ""
   },
   "10420": {
-    "くじゃくのまきもの": ""
+    "くじゃくのまきもの": "Peacock Scroll"
   },
   "10421": {
-    "へびのおうぎのほん": ""
+    "へびのおうぎのほん": "Cobra Fan Book"
   },
   "10422": {
     "まほうのたてのひみつ": ""
@@ -31356,7 +31356,7 @@
     "ばとるすたんぱーのほん": ""
   },
   "10453": {
-    "おにのかなぼうものがたり": ""
+    "おにのかなぼうものがたり": "Marauder's Maul Story"
   },
   "10454": {
     "clarity_nt_char_3441": "clarity_nt_char_3441"
@@ -31623,7 +31623,7 @@
     "clarity_nt_char_3475": "clarity_nt_char_3475"
   },
   "10542": {
-    "えいゆうのやりのものがたり": ""
+    "えいゆうのやりのものがたり": "Hero Spear Tale"
   },
   "10543": {
     "きょじんのはんまーのほん": ""
@@ -31905,10 +31905,10 @@
     "せいしんのつぼれんきんしょ": ""
   },
   "10636": {
-    "ほしくずのつるぎのほん": ""
+    "ほしくずのつるぎのほん": "Stardust Sword Book"
   },
   "10637": {
-    "まじんのかなづちのほん": ""
+    "まじんのかなづちのほん": "Hela's Hammer Book"
   },
   "10638": {
     "りゅうおうのつめのでんせつ": ""
@@ -39789,7 +39789,7 @@
     "clarity_nt_char_4395": "clarity_nt_char_4395"
   },
   "13264": {
-    "ねがいのかがみ": ""
+    "ねがいのかがみ": "Mirror of Wishes"
   },
   "13265": {
     "くいーんこうかんけん２０２０": ""
@@ -42837,7 +42837,7 @@
     "ぎゅっとすらいむきょう": ""
   },
   "14280": {
-    "ゆめにゅうどうのまくら": ""
+    "ゆめにゅうどうのまくら": "Dream Monk's Pillow"
   },
   "14281": {
     "きらーまじんがのけん": ""
@@ -43158,19 +43158,19 @@
     "clarity_nt_char_4765": "clarity_nt_char_4765"
   },
   "14387": {
-    "いっぱつのよろい": ""
+    "いっぱつのよろい": "One Shot Armor"
   },
   "14388": {
     "clarity_nt_char_4766": "clarity_nt_char_4766"
   },
   "14389": {
-    "いっぱつのぼうし": ""
+    "いっぱつのぼうし": "One Shot Cap"
   },
   "14390": {
     "clarity_nt_char_4767": "clarity_nt_char_4767"
   },
   "14391": {
-    "いっぱつのずぼん": ""
+    "いっぱつのずぼん": "One Shot Trousers"
   },
   "14392": {
     "clarity_nt_char_4768": "clarity_nt_char_4768"
@@ -43188,10 +43188,10 @@
     "clarity_nt_char_4769": "clarity_nt_char_4769"
   },
   "14397": {
-    "いっぱつのたて": ""
+    "いっぱつのたて": "One Shot Shield"
   },
   "14398": {
-    "いっぱつのつえ": ""
+    "いっぱつのつえ": "One Shot Staff"
   },
   "14399": {
     "れじぇんずさいず": ""
@@ -43803,7 +43803,7 @@
     "<pc>は　スライムハーツを|じっくりと　ながめてみた。<br>|なんとなく　スライムの気持ちが|伝わってくる……ような気がした！": ""
   },
   "14602": {
-    "<pc>は　女神のガーベラに|そっと　顔を近づけた。<br>|<pc>は|華やかな香りに　幸せな気持ちになった。": ""
+    "<pc>は　女神のガーベラに|そっと　顔を近づけた。<br>|<pc>は|華やかな香りに　幸せな気持ちになった。": "<pc> brings their face close to the|Goddess Gerbera.|<br>|The gorgeous scent made you feel happy."
   },
   "14603": {
     "clarity_nt_char_4828": "clarity_nt_char_4828"
@@ -46452,7 +46452,7 @@
     "レンジャーコートセット": ""
   },
   "15485": {
-    "賢者のころもセット": ""
+    "賢者のころもセット": "Sage's Robe Set"
   },
   "15486": {
     "神官のほういセット": ""
@@ -46767,7 +46767,7 @@
     "clarity_nt_char_5144": "clarity_nt_char_5144"
   },
   "15590": {
-    "獄獣のケープセット": ""
+    "獄獣のケープセット": "Hell Beast Cape Set"
   },
   "15591": {
     "精霊王のクロークセット": ""
@@ -46992,7 +46992,7 @@
     "おしゃれさ +70": "Style +70"
   },
   "15665": {
-    "かいふく魔力 +2": "Magical Mending+2"
+    "かいふく魔力 +2": "Magical Mending +2"
   },
   "15666": {
     "こうげき魔力 +2": "Magical Might +2"
@@ -47004,7 +47004,7 @@
     "すばやさ +2": "Agility +2"
   },
   "15669": {
-    "かいふく魔力 +4": "Magical Mending+4"
+    "かいふく魔力 +4": "Magical Mending +4"
   },
   "15670": {
     "こうげき魔力 +4": "Magical Might +4"
@@ -47028,7 +47028,7 @@
     "さいだいＨＰ +2": "Max HP +2"
   },
   "15677": {
-    "かいふく魔力 +10": "Magical Mending+10"
+    "かいふく魔力 +10": "Magical Mending +10"
   },
   "15678": {
     "clarity_nt_char_5162": "clarity_nt_char_5162"
@@ -47112,7 +47112,7 @@
     "かいふく魔力 +8": ""
   },
   "15705": {
-    "かいふく魔力 +15": "Magical Mending+15"
+    "かいふく魔力 +15": "Magical Mending +15"
   },
   "15706": {
     "clarity_nt_char_5171": "clarity_nt_char_5171"
@@ -47358,7 +47358,7 @@
     "clarity_nt_char_5200": "clarity_nt_char_5200"
   },
   "15787": {
-    "かいふく魔力 +5": "Magical Mending+5"
+    "かいふく魔力 +5": "Magical Mending +5"
   },
   "15788": {
     "攻撃時 3%で眠り": ""
@@ -47388,7 +47388,7 @@
     "clarity_nt_char_5203": "clarity_nt_char_5203"
   },
   "15797": {
-    "かいふく魔力 +20": "Magical Mending+20"
+    "かいふく魔力 +20": "Magical Mending +20"
   },
   "15798": {
     "clarity_nt_char_5204": "clarity_nt_char_5204"
@@ -47427,7 +47427,7 @@
     "必殺チャージ率 +1%": "Special Charge +1%"
   },
   "15810": {
-    "状態異常系の成功率 +10%": ""
+    "状態異常系の成功率 +10%": "Status Effect Success +10%"
   },
   "15811": {
     "clarity_nt_char_5209": "clarity_nt_char_5209"
@@ -47481,7 +47481,7 @@
     "clarity_nt_char_5215": "clarity_nt_char_5215"
   },
   "15828": {
-    "雷ダメージ 20%減": "Lightning Resist +20%"
+    "雷ダメージ 20%減": "Thunder Resist 20%"
   },
   "15829": {
     "clarity_nt_char_5216": "clarity_nt_char_5216"
@@ -48027,7 +48027,7 @@
     "clarity_nt_char_5266": "clarity_nt_char_5266"
   },
   "16010": {
-    "<pc>は|金サメきぐるみ衣装券を使った。|<br>|しかし　何もおこらなかった！": ""
+    "<pc>は|金サメきぐるみ衣装券を使った。|<br>|しかし　何もおこらなかった！": "<pc> used the Gold Shark Suit|Ticket.|<br>|But nothing happened!"
   },
   "16011": {
     "だいろっかいつりこんきん": ""
@@ -49575,13 +49575,13 @@
     "clarity_nt_char_5429": "clarity_nt_char_5429"
   },
   "16526": {
-    "すずらんのゆかた": ""
+    "すずらんのゆかた": "Lily Yukata"
   },
   "16527": {
     "clarity_nt_char_5430": "clarity_nt_char_5430"
   },
   "16528": {
-    "すずらんのちょうちん": ""
+    "すずらんのちょうちん": "Lily Lantern"
   },
   "16529": {
     "clarity_nt_char_5431": "clarity_nt_char_5431"
@@ -51816,7 +51816,7 @@
     "clarity_nt_char_5680": "clarity_nt_char_5680"
   },
   "17273": {
-    "<pc>は|ガルムカプセルを　つかった。<br>しかし　何も　おこらなかった。|風の町アズランの玩具屋カルタの所へ|持っていってみよう！": "<pc> tried using the Garm Capsule.<br>But nothing happened.|Take it to Karuta's toy shop in the town of Azlan!"
+    "<pc>は|ガルムカプセルを　つかった。<br>しかし　何も　おこらなかった。|風の町アズランの玩具屋カルタの所へ|持っていってみよう！": "<pc> tried using the Garm Capsule.<br>But nothing happened.|Take it to Karuta's toy shop in the town|of Azlan!"
   },
   "17274": {
     "clarity_nt_char_5681": "clarity_nt_char_5681"

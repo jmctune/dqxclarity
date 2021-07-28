@@ -6,40 +6,40 @@
     "clarity_nt_char_1": "clarity_nt_char_1"
   },
   "3": {
-    "時の妖精": ""
+    "時の妖精": "Time Fairy"
   },
   "4": {
     "clarity_nt_char_2": "clarity_nt_char_2"
   },
   "5": {
-    "ワラタロー": ""
+    "ワラタロー": "Warataro"
   },
   "6": {
-    "茶柴犬": ""
+    "茶柴犬": "Br. Shiba"
   },
   "7": {
-    "茶柴クール": ""
+    "茶柴クール": "Cool Tea Shiba"
   },
   "8": {
-    "茶柴モダン": ""
+    "茶柴モダン": "Hip Tea Shiba"
   },
   "9": {
-    "茶柴ピュア": ""
+    "茶柴ピュア": "Pure Tea Shiba"
   },
   "10": {
-    "黒柴犬": ""
+    "黒柴犬": "Blk Shiba"
   },
   "11": {
-    "黒柴クール": ""
+    "黒柴クール": "Cool Blk. Shiba"
   },
   "12": {
-    "黒柴モダン": ""
+    "黒柴モダン": "Hip Blk. Shiba"
   },
   "13": {
-    "黒柴ピュア": ""
+    "黒柴ピュア": "Pure Blk. Shiba"
   },
   "14": {
-    "白柴犬": ""
+    "白柴犬": "Wh. Shiba"
   },
   "15": {
     "白柴クール": ""
@@ -54,7 +54,7 @@
     "０８号": ""
   },
   "19": {
-    "クルッチ": "Kurucchi"
+    "クルッチ": "Tockle"
   },
   "20": {
     "clarity_nt_char_3": "clarity_nt_char_3"
@@ -63,7 +63,7 @@
     "シルバーデビル": "Silvapithecus"
   },
   "22": {
-    "スノーボーイ": "Snow Boy"
+    "スノーボーイ": "Snowboy"
   },
   "23": {
     "clarity_nt_char_4": "clarity_nt_char_4"
@@ -75,7 +75,7 @@
     "clarity_nt_char_5": "clarity_nt_char_5"
   },
   "26": {
-    "金のワラタロー": ""
+    "金のワラタロー": "Golden Warataro"
   },
   "27": {
     "トトゴン": ""
@@ -93,7 +93,7 @@
     "金のチキ坊": ""
   },
   "32": {
-    "プスゴン": ""
+    "プスゴン": "Pusgon"
   },
   "33": {
     "clarity_nt_char_8": "clarity_nt_char_8"
@@ -150,19 +150,19 @@
     "白オカメインコ": ""
   },
   "51": {
-    "セキセイインコ": ""
+    "セキセイインコ": "Green Budgie"
   },
   "52": {
-    "セキセイブルー": ""
+    "セキセイブルー": "Blue Budgie"
   },
   "53": {
-    "セキセイルチノ": ""
+    "セキセイルチノ": "Yellow Budgie"
   },
   "54": {
-    "セキセイスノー": ""
+    "セキセイスノー": "Snow Budgie"
   },
   "55": {
-    "アキクサインコ": ""
+    "アキクサインコ": "Pink-Belly Parrot"
   },
   "56": {
     "シロハラインコ": ""
@@ -186,7 +186,7 @@
     "花精オルフゴン": ""
   },
   "63": {
-    "天空アズラゴン": ""
+    "天空アズラゴン": "Zenithia Azuragon"
   },
   "64": {
     "銀トラ猫": ""
@@ -621,7 +621,7 @@
     "clarity_nt_char_61": "clarity_nt_char_61"
   },
   "208": {
-    "クルッチを模した　錬金人形。|ユーシャさまと　思った相手に|ひたすら　ついていく。": "An alchemical doll of Kurucchi.|He seems to follow the person|he thinks is the Luminary..."
+    "クルッチを模した　錬金人形。|ユーシャさまと　思った相手に|ひたすら　ついていく。": "An alchemical doll of a tockle.|He seems to follow the person|he thinks is the Luminary..."
   },
   "209": {
     "ご利益がありそうだと　噂が流れ|道行く人が　手を合わせていくが|本人は内心　困惑している。": ""
@@ -1143,37 +1143,37 @@
     "clarity_nt_char_119": "clarity_nt_char_119"
   },
   "382": {
-    "幻月のシルフ": ""
+    "幻月のシルフ": "Phantom Moon Sylph"
   },
   "383": {
     "clarity_nt_char_120": "clarity_nt_char_120"
   },
   "384": {
-    "細氷のシルフ": ""
+    "細氷のシルフ": "Thin Ice Sylph"
   },
   "385": {
     "clarity_nt_char_121": "clarity_nt_char_121"
   },
   "386": {
-    "草露のシルフ": ""
+    "草露のシルフ": "Dew-grass Sylph"
   },
   "387": {
     "clarity_nt_char_122": "clarity_nt_char_122"
   },
   "388": {
-    "暁闇のシルフ": ""
+    "暁闇のシルフ": "Dark Dawn Sylph"
   },
   "389": {
     "clarity_nt_char_123": "clarity_nt_char_123"
   },
   "390": {
-    "緋天のシルフ": ""
+    "緋天のシルフ": "Red Heavenly Sylph"
   },
   "391": {
     "clarity_nt_char_124": "clarity_nt_char_124"
   },
   "392": {
-    "桜雲のシルフ": ""
+    "桜雲のシルフ": "Sakura Cloud Sylph"
   },
   "393": {
     "clarity_nt_char_125": "clarity_nt_char_125"
@@ -1278,7 +1278,7 @@
     "闇夜の巨人": "Dk. Night Giant"
   },
   "427": {
-    "ゴルゴンザ": ""
+    "ゴルゴンザ": "Gorgonza"
   },
   "428": {
     "探偵団ルーキーの恋人。怪盗団の|ボスと恋仲だったが記憶がない。|秘宝の力で記憶が戻るらしい？": ""
@@ -1407,7 +1407,7 @@
     "アークデーモン": "Archdemon"
   },
   "470": {
-    "デザートデーモン": "Desert Demon"
+    "デザートデーモン": "Dessert Demon"
   },
   "471": {
     "clarity_nt_char_146": "clarity_nt_char_146"

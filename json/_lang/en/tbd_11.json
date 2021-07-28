@@ -402,10 +402,10 @@
     "clarity_nt_char_51": "clarity_nt_char_51"
   },
   "135": {
-    "<%sL_SYOKUNIN_TOOL>を装備していないので|<%sL_SKILL_NAME>ができません。": ""
+    "<%sL_SYOKUNIN_TOOL>を装備していないので|<%sL_SKILL_NAME>ができません。": "You can't use <%sL_SKILL_NAME> because|you don't have a <%sL_SYOKUNIN_TOOL>."
   },
   "136": {
-    "鍛冶ハンマー": "Bsmith Hammer"
+    "鍛冶ハンマー": "Smith Hammer"
   },
   "137": {
     "clarity_nt_char_52": "clarity_nt_char_52"
@@ -495,7 +495,7 @@
     "clarity_nt_char_62": "clarity_nt_char_62"
   },
   "166": {
-    "足": "Toe"
+    "足": "Leg"
   },
   "167": {
     "からだ下": "Pants"
@@ -519,7 +519,7 @@
     "clarity_nt_char_65": "clarity_nt_char_65"
   },
   "174": {
-    "レイピア": ""
+    "レイピア": "Rapier"
   },
   "175": {
     "clarity_nt_char_66": "clarity_nt_char_66"
@@ -612,7 +612,7 @@
     "そのアイテムは　条件に合っていません。<bw_break>": ""
   },
   "205": {
-    "錬金効果は付けられない": ""
+    "錬金効果は付けられない": "Cannot add alchemy effect."
   },
   "206": {
     "（錬金効果をつけよう）": "(No Alchemy Effect)"
@@ -678,7 +678,7 @@
     "なんと 生地のかたちが すこし戻った！": ""
   },
   "227": {
-    "ぬいぐるみ": ""
+    "ぬいぐるみ": "Plushie"
   },
   "228": {
     "<%sL_RECIPE>|が大成功した！": ""
@@ -774,7 +774,7 @@
     "ダンロ": ""
   },
   "259": {
-    "キッチン": "kitchen"
+    "キッチン": "Kitchen"
   },
   "260": {
     "clarity_nt_char_94": "clarity_nt_char_94"
@@ -822,7 +822,7 @@
     "clarity_nt_char_99": "clarity_nt_char_99"
   },
   "275": {
-    "ギルドの依頼品": ""
+    "ギルドの依頼品": "Guild Requests"
   },
   "276": {
     "や": ""
@@ -837,7 +837,7 @@
     "説明を見る": "See Description"
   },
   "280": {
-    "錬金をする": ""
+    "錬金をする": "Alchemy"
   },
   "281": {
     "庭具をつくる": ""
@@ -846,7 +846,7 @@
     "clarity_nt_char_101": "clarity_nt_char_101"
   },
   "283": {
-    "家具をつくる": ""
+    "家具をつくる": "Make Furniture"
   },
   "284": {
     "clarity_nt_char_102": "clarity_nt_char_102"
@@ -864,7 +864,7 @@
     "clarity_nt_char_104": "clarity_nt_char_104"
   },
   "289": {
-    "防具をつくる": ""
+    "防具をつくる": "Make Armor"
   },
   "290": {
     "clarity_nt_char_105": "clarity_nt_char_105"
@@ -906,7 +906,7 @@
     "clarity_nt_char_109": "clarity_nt_char_109"
   },
   "303": {
-    "赤い": ""
+    "赤い": "Red"
   },
   "304": {
     "clarity_nt_char_110": "clarity_nt_char_110"
@@ -924,7 +924,7 @@
     "clarity_nt_char_112": "clarity_nt_char_112"
   },
   "309": {
-    "黒い": ""
+    "黒い": "Black"
   },
   "310": {
     "clarity_nt_char_113": "clarity_nt_char_113"
@@ -1041,27 +1041,27 @@
     "Ｉ": ""
   },
   "348": {
-    "Ａ": ""
+    "Ａ": "A"
   },
   "349": {
-    "Ｂ": ""
+    "Ｂ": "B"
   },
   "350": {
-    "Ｃ": ""
+    "Ｃ": "C"
   },
   "351": {
-    "Ｄ": ""
+    "Ｄ": "D"
   },
   "352": {
     "Ｅ": ""
   },
   "353": {
-    "Ｆ": ""
+    "Ｆ": "F"
   },
   "354": {
-    "Ｇ": ""
+    "Ｇ": "Ｇ"
   },
   "355": {
-    "Ｈ": ""
+    "Ｈ": "H"
   }
 }

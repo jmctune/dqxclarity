@@ -57,7 +57,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eに　チームの参加を断られました": "\\s<%sC_PC>\\m<%sC_ID>\\e was denied entry to the team."
   },
   "20": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eに 仲間のさそいを 断られました": "\\s<%sC_PC>\\m<%sC_ID>\\e has refused my invitation to join the team."
+    "\\s<%sC_PC>\\m<%sC_ID>\\eに 仲間のさそいを 断られました": "\\s<%sC_PC>\\m<%sC_ID>\\e has refused the party invite."
   },
   "21": {
     "clarity_nt_char_5": "clarity_nt_char_5"
@@ -132,13 +132,13 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_H>時間<%dC_M>分のびました": ""
   },
   "45": {
-    "仲間の約束の時間が 終わりました": ""
+    "仲間の約束の時間が 終わりました": "The party's arranged time has ended."
   },
   "46": {
     "clarity_nt_char_13": "clarity_nt_char_13"
   },
   "47": {
-    "クエスト「<%sC_QUEST>」は 期限切れです": ""
+    "クエスト「<%sC_QUEST>」は 期限切れです": "Quest 「<%sC_QUEST>」has expired."
   },
   "48": {
     "仲間から はずれました": "You were kicked from the party."
@@ -162,7 +162,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eに フレンド申し込みが届きませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\e didn't receive your friend request."
   },
   "55": {
-    "あと<%dC_M>分間 操作しないと 強制終了されます": ""
+    "あと<%dC_M>分間 操作しないと 強制終了されます": "You will be kicked for inactivity in <%dC_M> minutes."
   },
   "56": {
     "対応する拡張コントローラが 接続されていません": ""
@@ -189,10 +189,10 @@
     "clarity_nt_char_18": "clarity_nt_char_18"
   },
   "64": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eが 仲間のさそいを 取り消しました": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eが 仲間のさそいを 取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\e cancelled the party invite."
   },
   "65": {
-    "ゲームマスターから 呼ばれています": ""
+    "ゲームマスターから 呼ばれています": "A Game Master has been summoned"
   },
   "66": {
     "今から<%nC_H>時間<%nC_M>分間 元気タイムです！": ""
@@ -201,10 +201,10 @@
     "clarity_nt_char_19": "clarity_nt_char_19"
   },
   "68": {
-    "元気タイム終了まで あと<%nC_M>分です！": ""
+    "元気タイム終了まで あと<%nC_M>分です！": "<%nC_M> minutes left of Bonus Time!"
   },
   "69": {
-    "元気タイムが 終わりました": ""
+    "元気タイムが 終わりました": "Bonus Time has ended!"
   },
   "70": {
     "あと<%nC_M>分で へろへろタイムです。": ""
@@ -216,7 +216,7 @@
     "今週は もう へろへろタイムです。": ""
   },
   "73": {
-    "へろへろタイマーが リセットされました！": ""
+    "へろへろタイマーが リセットされました！": "Cooldown timer has been reset!"
   },
   "74": {
     "clarity_nt_char_21": "clarity_nt_char_21"
@@ -246,25 +246,25 @@
     "clarity_nt_char_24": "clarity_nt_char_24"
   },
   "83": {
-    "チームリーダーの交代が できませんでした": ""
+    "チームリーダーの交代が できませんでした": "You could not replace the team leader."
   },
   "84": {
     "clarity_nt_char_25": "clarity_nt_char_25"
   },
   "85": {
-    "チームのスローガンが 更新されました": ""
+    "チームのスローガンが 更新されました": "The team's slogan was updated."
   },
   "86": {
     "clarity_nt_char_26": "clarity_nt_char_26"
   },
   "87": {
-    "受け取れなかった チームのさそいがあります": ""
+    "受け取れなかった チームのさそいがあります": "There is a Team invite you did not accept."
   },
   "88": {
-    "チームのメンバーがいっぱいで 入れませんでした": ""
+    "チームのメンバーがいっぱいで 入れませんでした": "Could not join because the team was full."
   },
   "89": {
-    "チームが解散していたので 入れませんでした": ""
+    "チームが解散していたので 入れませんでした": "Could not join because the team was disbanded."
   },
   "90": {
     "返事がいっぱいで 受け取れなかったナビがあります": ""
@@ -282,13 +282,13 @@
     "clarity_nt_char_28": "clarity_nt_char_28"
   },
   "95": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eの 仲間に 入れませんでした": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eの 仲間に 入れませんでした": "Didn't join \\s<%sC_PC>\\m<%sC_ID>\\e's party."
   },
   "96": {
     "clarity_nt_char_29": "clarity_nt_char_29"
   },
   "97": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eへの さそいが 取り消されました": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eへの さそいが 取り消されました": "Invitation to \\s<%sC_PC>\\m<%sC_ID>\\e was cancelled."
   },
   "98": {
     "clarity_nt_char_30": "clarity_nt_char_30"
@@ -300,28 +300,28 @@
     "このマップは <%dC_M>分後に 消滅します": "This map will disappear in <%dC_M> minutes."
   },
   "101": {
-    "チーム『<%sC_TEAM>』に 入りました！": ""
+    "チーム『<%sC_TEAM>』に 入りました！": "Joined the \"<%sC_TEAM>\" Team!"
   },
   "102": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 仲間になれる時間の確認が来ました": ""
   },
   "103": {
-    "あと<%dC_M>分で 仲間を抜けます。延長しますか？": ""
+    "あと<%dC_M>分で 仲間を抜けます。延長しますか？": "Party will disband after <%dC_M> min. Extend the time?"
   },
   "104": {
-    "チームの参加に 失敗しました": ""
+    "チームの参加に 失敗しました": "Couldn't join the team."
   },
   "105": {
     "clarity_nt_char_31": "clarity_nt_char_31"
   },
   "106": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eと 取り引きが できませんでした": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eと 取り引きが できませんでした": "Could not trade with \\s<%sC_PC>\\m<%sC_ID>\\e."
   },
   "107": {
     "clarity_nt_char_32": "clarity_nt_char_32"
   },
   "108": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eは チーム参加済みで さそえません": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eは チーム参加済みで さそえません": "\\s<%sC_PC>\\m<%sC_ID>\\e is already in a Team."
   },
   "109": {
     "HOMEボタンメニューは使えません": ""
@@ -336,7 +336,7 @@
     "サポート仲間が 待機中になりました": "Support party put on standby."
   },
   "113": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\e とのダブルすれちがいを 達成しました！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\e とのダブルすれちがいを 達成しました！": "Achieved a double passing with \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "114": {
     "clarity_nt_char_34": "clarity_nt_char_34"
@@ -360,10 +360,10 @@
     "clarity_nt_char_36": "clarity_nt_char_36"
   },
   "121": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eが フレンド申し込みを 取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\e has canceled his friend request."
+    "\\s<%sC_PC>\\m<%sC_ID>\\eが フレンド申し込みを 取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\e cancelled the friend request."
   },
   "122": {
-    "異常な入力を検知しました。１分後に強制終了します": ""
+    "異常な入力を検知しました。１分後に強制終了します": "Abnormal input detected. You will be kicked in 1 minute."
   },
   "123": {
     "clarity_nt_char_37": "clarity_nt_char_37"
@@ -378,31 +378,31 @@
     "<%sC_MERCENARY>との 契約が終了しました": "<%sC_MERCENARY>'s contract expired."
   },
   "127": {
-    "仲間になるお返事を 出そうとしている人がいます！": ""
+    "仲間になるお返事を 出そうとしている人がいます！": "Someone is waiting for a party invite reply!"
   },
   "128": {
     "clarity_nt_char_39": "clarity_nt_char_39"
   },
   "129": {
-    "なかまの目的が 変更されました！": ""
+    "なかまの目的が 変更されました！": "The party's Goal has changed!"
   },
   "130": {
     "clarity_nt_char_40": "clarity_nt_char_40"
   },
   "131": {
-    "キッズタイム終了まで あと<%dC_M>分です！": ""
+    "キッズタイム終了まで あと<%dC_M>分です！": "Kid's Time will end in <%dC_M> minutes!"
   },
   "132": {
     "clarity_nt_char_41": "clarity_nt_char_41"
   },
   "133": {
-    "時間切れの前に 「冒険を中断する」を選択してください": ""
+    "時間切れの前に 「冒険を中断する」を選択してください": "Please log out before the time expires."
   },
   "134": {
     "clarity_nt_char_42": "clarity_nt_char_42"
   },
   "135": {
-    "キッズタイム終了です。ご利用ありがとうございました": ""
+    "キッズタイム終了です。ご利用ありがとうございました": "Kid's Time is over, thank you for playing!"
   },
   "136": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 魔法の迷宮に さそわれました！": "Magic Maze invite from \\s<%sC_PC>\\m<%sC_ID>\\e !"
@@ -411,28 +411,28 @@
     "clarity_nt_char_43": "clarity_nt_char_43"
   },
   "138": {
-    "超元気タイムが 終わりました": ""
+    "超元気タイムが 終わりました": "Super Bonus Time has ended!"
   },
   "139": {
     "clarity_nt_char_44": "clarity_nt_char_44"
   },
   "140": {
-    "無効になった フレンド申請があります。": ""
+    "無効になった フレンド申請があります。": "There is an invalid friend request."
   },
   "141": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eの持っている返事が いっぱいでした": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eの持っている返事が いっぱいでした": "\\s<%sC_PC>\\m<%sC_ID>\\e's invitations are full."
   },
   "142": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eから \\s<%sC_PC2>\\m<%sC_ID2>\\e経由で 招待されました！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eから \\s<%sC_PC2>\\m<%sC_ID2>\\e経由で 招待されました！": "\\s<%sC_PC2>\\m<%sC_ID2>\\ was invited via \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "143": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eから なかま検索で 招待されました！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eから なかま検索で 招待されました！": "Invited to a party from \\s<%sC_PC>\\m<%sC_ID>\\e via party search!"
   },
   "144": {
     "clarity_nt_char_45": "clarity_nt_char_45"
   },
   "145": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eへの返事を しませんでした": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eへの返事を しませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\e did not reply."
   },
   "146": {
     "この階から 魔物が いなくなりました": "There are no monsters left on this floor."
@@ -441,13 +441,13 @@
     "clarity_nt_char_46": "clarity_nt_char_46"
   },
   "148": {
-    "仲間の返事を 受け取れませんでした": ""
+    "仲間の返事を 受け取れませんでした": "You did not receive a reply."
   },
   "149": {
     "魔法の迷宮に 行けませんでした": "Couldn't go to the Magic Maze."
   },
   "150": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eからの 仲間へのさそいを 断りました": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eからの 仲間へのさそいを 断りました": "Declined party invitation from \\s<%sC_PC>\\m<%sC_ID>\\e."
   },
   "151": {
     "clarity_nt_char_47": "clarity_nt_char_47"
@@ -468,7 +468,7 @@
     "clarity_nt_char_49": "clarity_nt_char_49"
   },
   "157": {
-    "<%dC_N1>分以内に次の階への出口に触れないと外に出ます": ""
+    "<%dC_N1>分以内に次の階への出口に触れないと外に出ます": "You'll be ejected in <%dC_N1> min. if you don't use the exit."
   },
   "158": {
     "clarity_nt_char_50": "clarity_nt_char_50"
@@ -483,16 +483,16 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sC_ITEM>を 捧げた": "\\s<%sC_PC>\\m<%sC_ID>\\e offered the <%sC_ITEM>."
   },
   "162": {
-    "<%sC_PC>の復帰を <%dC_NUM>分 待ちます": "Wait <%dC_NUM>min. for <%sC_PC>'s return."
+    "<%sC_PC>の復帰を <%dC_NUM>分 待ちます": "Wait <%dC_NUM> min. for <%sC_PC>'s return."
   },
   "163": {
     "clarity_nt_char_52": "clarity_nt_char_52"
   },
   "164": {
-    "特訓スタンプが <%dC_N1>個 貯まりました！": ""
+    "特訓スタンプが <%dC_N1>個 貯まりました！": "Collected <%dC_N1> special training stamps!"
   },
   "165": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eが 迷宮へのさそいを　取り消した": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eが 迷宮へのさそいを　取り消した": "\\s<%sC_PC>\\m<%sC_ID>\\e cancelled the Maze invitation."
   },
   "166": {
     "clarity_nt_char_53": "clarity_nt_char_53"
@@ -507,7 +507,7 @@
     "clarity_nt_char_54": "clarity_nt_char_54"
   },
   "170": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eが サブリーダーに なりました！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eが サブリーダーに なりました！": "\\s<%sC_PC>\\m<%sC_ID>\\e became sub leader!"
   },
   "171": {
     "clarity_nt_char_55": "clarity_nt_char_55"
@@ -516,10 +516,10 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが サブリーダーから はずれました": ""
   },
   "173": {
-    "GamePadのバッテリーが 少なくなりました": ""
+    "GamePadのバッテリーが 少なくなりました": "The gamepad's battery is low."
   },
   "174": {
-    "GamePadのバッテリーが もう切れそうです！": ""
+    "GamePadのバッテリーが もう切れそうです！": "The gamepad's battery is about to run out!"
   },
   "175": {
     "clarity_nt_char_56": "clarity_nt_char_56"
@@ -546,13 +546,13 @@
     "未対応のコントローラーでは 遊べません": ""
   },
   "183": {
-    "特典アイテムを コンシェルジュから 受け取れます": ""
+    "特典アイテムを コンシェルジュから 受け取れます": "Receive your reward items at the concierge."
   },
   "184": {
     "clarity_nt_char_59": "clarity_nt_char_59"
   },
   "185": {
-    "開始まで 残り<%dC_N1>秒": ""
+    "開始まで 残り<%dC_N1>秒": "<%dC_N1> sec. until start."
   },
   "186": {
     "clarity_nt_char_60": "clarity_nt_char_60"
@@ -564,7 +564,7 @@
     "残り<%dC_N1>分": "<%dC_N1>min. Left"
   },
   "189": {
-    "そこまで 終了！": ""
+    "そこまで 終了！": "That's all!"
   },
   "190": {
     "clarity_nt_char_61": "clarity_nt_char_61"
@@ -585,13 +585,13 @@
     "clarity_nt_char_63": "clarity_nt_char_63"
   },
   "196": {
-    "サポートスタッフから 返信がありました": ""
+    "サポートスタッフから 返信がありました": "You have a reply from the Support Staff."
   },
   "197": {
-    "<%sC_CAMPAIGN>が 始まりました！": ""
+    "<%sC_CAMPAIGN>が 始まりました！": "<%sC_CAMPAIGN> has started!"
   },
   "198": {
-    "<%sC_CAMPAIGN>が 終了しました！": ""
+    "<%sC_CAMPAIGN>が 終了しました！": "<%sC_CAMPAIGN> has ended!"
   },
   "199": {
     "サブリーダーに なりました！": ""
@@ -624,7 +624,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが チャットルームを 解散しました": "\\s<%sC_PC>\\m<%sC_ID>\\e dissolved the chat room."
   },
   "209": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eのルームから はずれました": "You were removed from \\s<%sC_PC>\\m<%sC_ID>\\e's Room."
+    "\\s<%sC_PC>\\m<%sC_ID>\\eのルームから はずれました": "You were removed from \\s<%sC_PC>\\m<%sC_ID>\\e's room."
   },
   "210": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが \\s<%sC_PC2>\\m<%sC_ID2>\\eのルームから抜けました": "\\s<%sC_PC>\\m<%sC_ID>\\e left \\s<%sC_PC>\\m<%sC_ID>\\e's room."
@@ -657,10 +657,10 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 招待への返事が ありませんでした": ""
   },
   "220": {
-    "<%sC_STR>のレンタル期間が　終了しました！": ""
+    "<%sC_STR>のレンタル期間が　終了しました！": "Your current rental outfit has expired!"
   },
   "221": {
-    "この先に 進めませんでした": ""
+    "この先に 進めませんでした": "Couldn't go any further."
   },
   "222": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから パーティ同盟に さそわれました！": "Party alliance invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
@@ -759,16 +759,16 @@
     "clarity_nt_char_83": "clarity_nt_char_83"
   },
   "254": {
-    "あと<%dC_N1>日で 期限が切れる 運命のカードがあります！": ""
+    "あと<%dC_N1>日で 期限が切れる 運命のカードがあります！": "<%dC_N1> days until one of your boss cards expire!"
   },
   "255": {
     "clarity_nt_char_84": "clarity_nt_char_84"
   },
   "256": {
-    "あと<%dC_N1>時間で 期限が切れる 運命のカードがあります！": ""
+    "あと<%dC_N1>時間で 期限が切れる 運命のカードがあります！": "<%dC_N1> hours until one of your boss cards expire!"
   },
   "257": {
-    "あと<%dC_N1>分で 期限が切れる 運命のカードがあります！": ""
+    "あと<%dC_N1>分で 期限が切れる 運命のカードがあります！": "<%dC_N1> mins. until one of your boss cards expire!"
   },
   "258": {
     "clarity_nt_char_85": "clarity_nt_char_85"
@@ -822,10 +822,10 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 参加人数の上限で 入れませんでした": ""
   },
   "275": {
-    "バトル開始まで あと<%dC_N1>秒です": ""
+    "バトル開始まで あと<%dC_N1>秒です": "Battle starts in <%dC_N1> seconds!"
   },
   "276": {
-    "まもなく バトルが開始します！": ""
+    "まもなく バトルが開始します！": "The battle will begin shortly!"
   },
   "277": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから コロシアムに さそわれました！": ""
@@ -951,7 +951,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eにより ふしぎなすれちがいを達成！": ""
   },
   "318": {
-    "<%sC_MONSTER>との戦いにさそわれました！": ""
+    "<%sC_MONSTER>との戦いにさそわれました！": "Invited to fight <%sC_MONSTER>!"
   },
   "319": {
     "clarity_nt_char_104": "clarity_nt_char_104"
@@ -990,7 +990,7 @@
     "釣りチャレンジを 中断しました": ""
   },
   "331": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eから スッパ党との戦いに 誘われました!": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eから スッパ党との戦いに 誘われました!": "Invite from \\s<%sC_PC>\\m<%sC_ID>\\e to fight Suppa Party!"
   },
   "332": {
     "clarity_nt_char_107": "clarity_nt_char_107"
@@ -1257,7 +1257,7 @@
     "clarity_nt_char_137": "clarity_nt_char_137"
   },
   "420": {
-    "錬金釜が元気になりました！": ""
+    "錬金釜が元気になりました！": "Alchemy Pot is now charged!"
   },
   "421": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから バトルロードに さそわれました！": ""
@@ -1329,10 +1329,10 @@
     "clarity_nt_char_146": "clarity_nt_char_146"
   },
   "444": {
-    "不思議の魔塔の攻略に さそわれました！": "Invited to enter the Magical Tower!"
+    "不思議の魔塔の攻略に さそわれました！": "Invited to enter the Mysterious Tower!"
   },
   "445": {
-    "不思議の魔塔の誘いが 時間切れになりました": "Magical Tower invitation timed out."
+    "不思議の魔塔の誘いが 時間切れになりました": "Mysterious Tower invitation timed out."
   },
   "446": {
     "不思議の魔塔の誘いが 取り消されました": ""
@@ -1356,7 +1356,7 @@
     "次の階に進む扉の封印が 解かれました！": "Door to the next floor unlocked!"
   },
   "453": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eが 封印の箱を開きました！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eが 封印の箱を開きました！": "\\s<%sC_PC>\\m<%sC_ID>\\e opened the sealed chest!"
   },
   "454": {
     "水着以外を着て 水の中に入ることは できません!": "Put on only a swimsuit to be able to swim!"
@@ -1437,7 +1437,7 @@
     "clarity_nt_char_158": "clarity_nt_char_158"
   },
   "480": {
-    "<%dC_DAY>日後 期限が切れる お宝の写真があります": ""
+    "<%dC_DAY>日後 期限が切れる お宝の写真があります": "<%dC_DAY> days until treasure photo expires!"
   },
   "481": {
     "24時間以内で 期限が切れる お宝の写真があるようです": ""
@@ -2031,7 +2031,7 @@
     "期限切れとなったので 神聖秘文が消えてしまいました": ""
   },
   "678": {
-    "神聖秘文の期限が切れるまで 残り<%dC_N1>分です": ""
+    "神聖秘文の期限が切れるまで 残り<%dC_N1>分です": "<%dC_N1> minutes until secret spell expires."
   },
   "679": {
     "回答時間は 残り<%dC_N1>秒です": ""
@@ -2247,70 +2247,70 @@
     "clarity_nt_char_245": "clarity_nt_char_245"
   },
   "750": {
-    "マップの東から 敵軍が出現！ 警戒せよ！": ""
+    "マップの東から 敵軍が出現！ 警戒せよ！": "Enemy troops in the east! Stay alert!"
   },
   "751": {
     "clarity_nt_char_246": "clarity_nt_char_246"
   },
   "752": {
-    "マップの西から 敵軍が出現！ 警戒せよ！": ""
+    "マップの西から 敵軍が出現！ 警戒せよ！": "Enemy troops in the west! Stay alert!"
   },
   "753": {
     "clarity_nt_char_247": "clarity_nt_char_247"
   },
   "754": {
-    "橋の南側に 敵軍が出現！ 警戒せよ！": ""
+    "橋の南側に 敵軍が出現！ 警戒せよ！": "Troops at the south side bridge! Stay alert!"
   },
   "755": {
     "clarity_nt_char_248": "clarity_nt_char_248"
   },
   "756": {
-    "橋の北側に 敵軍が出現！ 警戒せよ！": ""
+    "橋の北側に 敵軍が出現！ 警戒せよ！": "Troops at the north side bridge! Stay alert!"
   },
   "757": {
     "clarity_nt_char_249": "clarity_nt_char_249"
   },
   "758": {
-    "大物 進行開始！ 大物への対処も忘れるな！": ""
+    "大物 進行開始！ 大物への対処も忘れるな！": "Large enemies approaching! Focus on them!"
   },
   "759": {
-    "残り５分。戦いは まだ中盤だぞ": ""
+    "残り５分。戦いは まだ中盤だぞ": "5 more minutes! You're halfway there!"
   },
   "760": {
-    "残り３分。ここからが勝負だ！ 気を抜くな！": ""
+    "残り３分。ここからが勝負だ！ 気を抜くな！": "3 more minutes! The real battle begins!"
   },
   "761": {
-    "残り１分！ あと少しだ！ 死ぬ気で守れ！": ""
+    "残り１分！ あと少しだ！ 死ぬ気で守れ！": "1 minute! Just a little more! Stay strong!"
   },
   "762": {
     "clarity_nt_char_250": "clarity_nt_char_250"
   },
   "763": {
-    "橋の中央に 敵軍が出現！ 警戒せよ！": ""
+    "橋の中央に 敵軍が出現！ 警戒せよ！": "Troops at the center bridge! Stay alert!"
   },
   "764": {
     "clarity_nt_char_251": "clarity_nt_char_251"
   },
   "765": {
-    "南の砲台に 大砲の弾を届けましたよ！": ""
+    "南の砲台に 大砲の弾を届けましたよ！": "Delivered ammo to the southern cannon!"
   },
   "766": {
     "clarity_nt_char_252": "clarity_nt_char_252"
   },
   "767": {
-    "北の砲台に 大砲の弾を届けましたよ！": ""
+    "北の砲台に 大砲の弾を届けましたよ！": "Delivered ammo to the northern cannon!"
   },
   "768": {
     "clarity_nt_char_253": "clarity_nt_char_253"
   },
   "769": {
-    "橋の南側に 物資を届けましたよ！": ""
+    "橋の南側に 物資を届けましたよ！": "Delivered supplies to the south side bridge!"
   },
   "770": {
     "clarity_nt_char_254": "clarity_nt_char_254"
   },
   "771": {
-    "橋の北側に 物資を届けましたよ！": ""
+    "橋の北側に 物資を届けましたよ！": "Delivered supplies to the north side bridge!"
   },
   "772": {
     "clarity_nt_char_255": "clarity_nt_char_255"
@@ -2478,7 +2478,7 @@
     "clarity_nt_char_273": "clarity_nt_char_273"
   },
   "827": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eから バトエンに 誘われました!": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eから バトエンに 誘われました!": "Batoen invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "828": {
     "clarity_nt_char_274": "clarity_nt_char_274"
@@ -2601,31 +2601,31 @@
     "clarity_nt_char_289": "clarity_nt_char_289"
   },
   "868": {
-    "結界前に 敵軍が出現！ 警戒せよ！": ""
+    "結界前に 敵軍が出現！ 警戒せよ！": "An enemy's at the barrier! Stay alert!"
   },
   "869": {
-    "南口前に 敵軍が出現！ 警戒せよ！": ""
+    "南口前に 敵軍が出現！ 警戒せよ！": "Troops at the southern exit! Stay alert!"
   },
   "870": {
-    "中央の広場に 敵軍が出現！ 警戒せよ！": ""
+    "中央の広場に 敵軍が出現！ 警戒せよ！": "Troops at the central square! Stay alert!"
   },
   "871": {
-    "結界前に 大砲の弾を届けましたよ！": ""
+    "結界前に 大砲の弾を届けましたよ！": "Delivered ammo in front of the barrier!"
   },
   "872": {
-    "南口前に 大砲の弾を届けましたよ！": ""
+    "南口前に 大砲の弾を届けましたよ！": "Delivered ammo to the southern exit!"
   },
   "873": {
-    "中央の広場に 大砲の弾を届けましたよ！": ""
+    "中央の広場に 大砲の弾を届けましたよ！": "Delivered ammo to the central square!"
   },
   "874": {
-    "結界前に 物資を届けましたよ！": ""
+    "結界前に 物資を届けましたよ！": "Delivered supplies to the barrier!"
   },
   "875": {
-    "南口前に 物資を届けましたよ！": ""
+    "南口前に 物資を届けましたよ！": "Delivered supplies at the south exit!"
   },
   "876": {
-    "中央の広場に 物資を届けましたよ！": ""
+    "中央の広場に 物資を届けましたよ！": "Delivered supplies to the central square!"
   },
   "877": {
     "スラリィに報告しにいこう！": ""
@@ -3069,31 +3069,31 @@
     "1月31日までスペシャルギフトの受け取りができます": "You can receive your special gift until January 31."
   },
   "1024": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eから 一の災壇の挑戦に誘われました！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eから 一の災壇の挑戦に誘われました！": "First Platform invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "1025": {
     "clarity_nt_char_344": "clarity_nt_char_344"
   },
   "1026": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eから 二の災壇の挑戦に誘われました！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eから 二の災壇の挑戦に誘われました！": "Second Platform invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "1027": {
     "clarity_nt_char_345": "clarity_nt_char_345"
   },
   "1028": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eから 三の災壇の挑戦に誘われました！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eから 三の災壇の挑戦に誘われました！": "Third Platform invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "1029": {
     "clarity_nt_char_346": "clarity_nt_char_346"
   },
   "1030": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eから 四の災壇の挑戦に誘われました！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eから 四の災壇の挑戦に誘われました！": "Fourth Platform invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "1031": {
     "clarity_nt_char_347": "clarity_nt_char_347"
   },
   "1032": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eから 五の災壇の挑戦に誘われました！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eから 五の災壇の挑戦に誘われました！": "Fifth Platform invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "1033": {
     "clarity_nt_char_348": "clarity_nt_char_348"
@@ -3162,7 +3162,7 @@
     "clarity_nt_char_355": "clarity_nt_char_355"
   },
   "1055": {
-    "強制終了を　解除しますか？": ""
+    "強制終了を　解除しますか？": "Cancel auto kick?"
   },
   "1056": {
     "魔法の迷宮に 行きますか？": "Go to the Magic Maze?"
@@ -3195,7 +3195,7 @@
     "<%sC_PC_LUA>から 同盟相手に さそわれました！": ""
   },
   "1066": {
-    "スッパ党との戦いに 行きますか？": ""
+    "スッパ党との戦いに 行きますか？": "Go and fight the Suppa Party?"
   },
   "1067": {
     "clarity_nt_char_358": "clarity_nt_char_358"
@@ -3216,7 +3216,7 @@
     "<%sC_PC>さんと 同じ場所に降りますか？": "Descend at the same place as <%sC_PC>?"
   },
   "1073": {
-    "不思議の魔塔に 行きますか？": "Go to the Magical Tower?"
+    "不思議の魔塔に 行きますか？": "Go to the Mysterious Tower?"
   },
   "1074": {
     "clarity_nt_char_361": "clarity_nt_char_361"
@@ -3315,7 +3315,7 @@
     "clarity_nt_char_371": "clarity_nt_char_371"
   },
   "1106": {
-    "バトエンに 参加しますか？": ""
+    "バトエンに 参加しますか？": "Do you want to play Batoen?"
   },
   "1107": {
     "蒼怨の屍獄兵団の防衛戦に 参加しますか？": ""
@@ -3747,7 +3747,7 @@
     "<%sC_TIME>だけ　仲間に入ると|<%sC_leader>に　伝えます。よろしいですか？": ""
   },
   "1250": {
-    "<%sM_monster>との戦いに|行きますか？": ""
+    "<%sM_monster>との戦いに|行きますか？": "Go and fight|<%sM_monster>?"
   },
   "1251": {
     "！！！！！！との戦いに|行きますか？": ""
@@ -3822,31 +3822,31 @@
     "clarity_nt_char_429": "clarity_nt_char_429"
   },
   "1275": {
-    "一の災壇の挑戦に　参加しますか？": ""
+    "一の災壇の挑戦に　参加しますか？": "Take on the First Platform?"
   },
   "1276": {
     "clarity_nt_char_430": "clarity_nt_char_430"
   },
   "1277": {
-    "二の災壇の挑戦に　参加しますか？": ""
+    "二の災壇の挑戦に　参加しますか？": "Take on the Second Platform?"
   },
   "1278": {
     "clarity_nt_char_431": "clarity_nt_char_431"
   },
   "1279": {
-    "三の災壇の挑戦に　参加しますか？": ""
+    "三の災壇の挑戦に　参加しますか？": "Take on the Third Platform?"
   },
   "1280": {
     "clarity_nt_char_432": "clarity_nt_char_432"
   },
   "1281": {
-    "四の災壇の挑戦に　参加しますか？": ""
+    "四の災壇の挑戦に　参加しますか？": "Take on the Fourth Platform?"
   },
   "1282": {
     "clarity_nt_char_433": "clarity_nt_char_433"
   },
   "1283": {
-    "五の災壇の挑戦に　参加しますか？": ""
+    "五の災壇の挑戦に　参加しますか？": "Take on the Fifth Platform?"
   },
   "1284": {
     "clarity_nt_char_434": "clarity_nt_char_434"
@@ -3882,31 +3882,31 @@
     "clarity_nt_char_438": "clarity_nt_char_438"
   },
   "1295": {
-    "戦場の北側に 敵軍が出現！ 警戒せよ！！": ""
+    "戦場の北側に 敵軍が出現！ 警戒せよ！！": "There's an enemy to the north! Stay alert!!"
   },
   "1296": {
     "clarity_nt_char_439": "clarity_nt_char_439"
   },
   "1297": {
-    "戦場の南側に 敵軍が出現！ 警戒せよ！！": ""
+    "戦場の南側に 敵軍が出現！ 警戒せよ！！": "There's an enemy to the south! Stay alert!!"
   },
   "1298": {
     "clarity_nt_char_440": "clarity_nt_char_440"
   },
   "1299": {
-    "中央付近の柱の間に 物資を届けましたよ！": ""
+    "中央付近の柱の間に 物資を届けましたよ！": "Delivered supplies at the central pillars!"
   },
   "1300": {
     "clarity_nt_char_441": "clarity_nt_char_441"
   },
   "1301": {
-    "東にある砲撃拠点に 物資を届けましたよ！": ""
+    "東にある砲撃拠点に 物資を届けましたよ！": "Delivered supplies to the east artillery base!"
   },
   "1302": {
     "clarity_nt_char_442": "clarity_nt_char_442"
   },
   "1303": {
-    "東にある砲撃拠点に 大砲の弾を届けましたよ！": ""
+    "東にある砲撃拠点に 大砲の弾を届けましたよ！": "Delivered ammo to the east artillery base!"
   },
   "1304": {
     "clarity_nt_char_443": "clarity_nt_char_443"
@@ -3933,7 +3933,7 @@
     "そろそろ限界かな？ 逃げ道を作ってやろう！": ""
   },
   "1312": {
-    "ほぉ～ら解放したぞ 逃げるなら今だぞ！ ヒヒヒッ": ""
+    "ほぉ～ら解放したぞ 逃げるなら今だぞ！ ヒヒヒッ": "I think it's a good idea to run away! Hehehe..."
   },
   "1313": {
     "clarity_nt_char_446": "clarity_nt_char_446"
@@ -3960,13 +3960,13 @@
     "clarity_nt_char_448": "clarity_nt_char_448"
   },
   "1321": {
-    "スコアをリセットしておいたぞ！ ヒヒヒッ": ""
+    "スコアをリセットしておいたぞ！ ヒヒヒッ": "I've reset your score! Hehehe..."
   },
   "1322": {
     "clarity_nt_char_449": "clarity_nt_char_449"
   },
   "1323": {
-    "少し強いやつを追加してやろう！ ヒヒヒッ": ""
+    "少し強いやつを追加してやろう！ ヒヒヒッ": "Let's add something a bit stronger! Hehehe..."
   },
   "1324": {
     "clarity_nt_char_450": "clarity_nt_char_450"
@@ -3996,7 +3996,7 @@
     "実力は認めよう！ だけどコイツで終わりだ！": ""
   },
   "1333": {
-    "追加しま～す コイツは強いぞ！ ヒヒヒッ": ""
+    "追加しま～す コイツは強いぞ！ ヒヒヒッ": "Now THIS guy is strong! Hehehe..."
   },
   "1334": {
     "clarity_nt_char_452": "clarity_nt_char_452"
@@ -4053,13 +4053,13 @@
     "異星からの侵略軍の防衛戦に　参加しますか？": ""
   },
   "1352": {
-    "酒場前の中央広場に 物資を届けましたよ！": ""
+    "酒場前の中央広場に 物資を届けましたよ！": "Delivered supplies near the tavern!"
   },
   "1353": {
     "clarity_nt_char_458": "clarity_nt_char_458"
   },
   "1354": {
-    "西にある桟橋の前に 物資を届けましたよ！": ""
+    "西にある桟橋の前に 物資を届けましたよ！": "Delivered supplies near the western pier!"
   },
   "1355": {
     "clarity_nt_char_459": "clarity_nt_char_459"
@@ -4068,7 +4068,7 @@
     "両者 そこまでだ……！": ""
   },
   "1357": {
-    "結界前に敵軍の気配！ 警戒せよ！！": ""
+    "結界前に敵軍の気配！ 警戒せよ！！": "Troops are at the barrier! Stay alert!!"
   },
   "1358": {
     "60秒後 退出を選んでいない仲間を置いて 退出します": ""
@@ -4269,13 +4269,13 @@
     "お前のちからは もうわかった！": ""
   },
   "1424": {
-    "砲台に 大砲の弾を届けましたよ！": ""
+    "砲台に 大砲の弾を届けましたよ！": "Loaded ammo into the cannon!"
   },
   "1425": {
     "clarity_nt_char_480": "clarity_nt_char_480"
   },
   "1426": {
-    "アワウキ貝Ⅱが　浮き上がってきたようだ。": ""
+    "アワウキ貝Ⅱが　浮き上がってきたようだ。": "Foamy Shells seemed to have appeared."
   },
   "1427": {
     "clarity_nt_char_481": "clarity_nt_char_481"

@@ -27,7 +27,7 @@
     "若葉の精霊": "Leaf Spirit"
   },
   "10": {
-    "怪獣プスゴン": "Pusugon"
+    "怪獣プスゴン": "Monster Pusgon"
   },
   "11": {
     "clarity_nt_char_3": "clarity_nt_char_3"
@@ -105,13 +105,13 @@
     "clarity_nt_char_12": "clarity_nt_char_12"
   },
   "36": {
-    "冥王ネルゲル": "Dark Lord Nergel"
+    "冥王ネルゲル": "Dark Lord Nelgel"
   },
   "37": {
     "clarity_nt_char_13": "clarity_nt_char_13"
   },
   "38": {
-    "冥獣王ネルゲル": "Beast King Nergel"
+    "冥獣王ネルゲル": "Beast King Nelgel"
   },
   "39": {
     "呪術師マリーン強": "Apex Monstrous Marlene"
@@ -138,7 +138,7 @@
     "水竜ギルギッシュ強": "Apex Girguish"
   },
   "47": {
-    "覚醒プスゴン": "Pusugon Awakened"
+    "覚醒プスゴン": "Pusgon Awakened"
   },
   "48": {
     "clarity_nt_char_16": "clarity_nt_char_16"
@@ -159,10 +159,10 @@
     "守護者ラズバーン強": "Apex Guardian Razuban"
   },
   "54": {
-    "冥王ネルゲル強": "Apex Lord Nergel"
+    "冥王ネルゲル強": "Apex Lord Nelgel"
   },
   "55": {
-    "冥獣王ネルゲル強": "Apex Beast Nergel"
+    "冥獣王ネルゲル強": "Apex Beast King Nelgel"
   },
   "56": {
     "clarity_nt_char_18": "clarity_nt_char_18"
@@ -201,7 +201,7 @@
     "武闘魔ガウラド": "Warrior Demon Gaurad"
   },
   "68": {
-    "超天道士ヤーン": "Yarn"
+    "超天道士ヤーン": "Heavenly Warrior Yarn"
   },
   "69": {
     "つむじ風の旅団": ""
@@ -240,16 +240,16 @@
     "アームライオン": "Hellion"
   },
   "81": {
-    "バルケス": ""
+    "バルケス": "Valucas"
   },
   "82": {
     "clarity_nt_char_24": "clarity_nt_char_24"
   },
   "83": {
-    "ブリギッテ": ""
+    "ブリギッテ": "Brigette"
   },
   "84": {
-    "闘士セインズ": ""
+    "闘士セインズ": "Fighter Sainz"
   },
   "85": {
     "clarity_nt_char_25": "clarity_nt_char_25"
@@ -327,7 +327,7 @@
     "clarity_nt_char_33": "clarity_nt_char_33"
   },
   "110": {
-    "舞踏魔プレシアンナ": ""
+    "舞踏魔プレシアンナ": "Dancing Demon Preciana"
   },
   "111": {
     "呪縛の魔獣": "Hexen Beast"
@@ -339,7 +339,7 @@
     "clarity_nt_char_34": "clarity_nt_char_34"
   },
   "114": {
-    "怒りのプスゴン": ""
+    "怒りのプスゴン": "Angry Pusgon"
   },
   "115": {
     "ましょううお": "Salamangler"
@@ -408,7 +408,7 @@
     "clarity_nt_char_43": "clarity_nt_char_43"
   },
   "137": {
-    "復讐鬼ガガイ": ""
+    "復讐鬼ガガイ": "Revenge Ogre Gagai"
   },
   "138": {
     "clarity_nt_char_44": "clarity_nt_char_44"
@@ -423,7 +423,7 @@
     "clarity_nt_char_45": "clarity_nt_char_45"
   },
   "142": {
-    "魔人ゼクセン": ""
+    "魔人ゼクセン": "Demon Zexen"
   },
   "143": {
     "clarity_nt_char_46": "clarity_nt_char_46"
@@ -432,7 +432,7 @@
     "魔獣ビュブロス": "Magical Beast Byblos"
   },
   "145": {
-    "レオン・ビュブロ": ""
+    "レオン・ビュブロ": "Leon Bublo"
   },
   "146": {
     "clarity_nt_char_47": "clarity_nt_char_47"
@@ -453,7 +453,7 @@
     "clarity_nt_char_48": "clarity_nt_char_48"
   },
   "152": {
-    "ザ・キャッツ": "The Cat"
+    "ザ・キャッツ": "The Cats"
   },
   "153": {
     "clarity_nt_char_49": "clarity_nt_char_49"
@@ -564,7 +564,7 @@
     "悪霊の神々": "Evil Spirit God"
   },
   "189": {
-    "強・キャッツ": "Apex Cat"
+    "強・キャッツ": "Apex Cats"
   },
   "190": {
     "clarity_nt_char_63": "clarity_nt_char_63"
@@ -642,7 +642,7 @@
     "clarity_nt_char_71": "clarity_nt_char_71"
   },
   "215": {
-    "プチ悪霊の神々": "Ickle Evil Spirit God"
+    "プチ悪霊の神々": "Frail Evil Spirit God"
   },
   "216": {
     "ヤングガイア": "Young Gaia"
@@ -651,16 +651,16 @@
     "clarity_nt_char_72": "clarity_nt_char_72"
   },
   "218": {
-    "プチバズズ": "Ickle Pazuzu"
+    "プチバズズ": "Frail Pazuzu"
   },
   "219": {
-    "プチベリアル": "Ickle Belial"
+    "プチベリアル": "Frail Belial"
   },
   "220": {
     "clarity_nt_char_73": "clarity_nt_char_73"
   },
   "221": {
-    "プチアトラス": "Ickle Atlas"
+    "プチアトラス": "Frail Atlas"
   },
   "222": {
     "clarity_nt_char_74": "clarity_nt_char_74"
@@ -693,7 +693,7 @@
     "clarity_nt_char_77": "clarity_nt_char_77"
   },
   "232": {
-    "プチドラゴンガイア": "Ickle Gaia Dragon"
+    "プチドラゴンガイア": "Frail Gaia Dragon"
   },
   "233": {
     "ドラゴンガイア強": "Apex Gaia Dragon"
@@ -711,13 +711,13 @@
     "キラーマジンガ": "Uberkilling Machine"
   },
   "238": {
-    "プチバラモス": "Ickle Baramos"
+    "プチバラモス": "Frail Baramos"
   },
   "239": {
     "clarity_nt_char_80": "clarity_nt_char_80"
   },
   "240": {
-    "プチキングヒドラ": "Ickle King Hydra"
+    "プチキングヒドラ": "Frail King Hydra"
   },
   "241": {
     "clarity_nt_char_81": "clarity_nt_char_81"
@@ -738,7 +738,7 @@
     "暗黒の魔人": "Ruin"
   },
   "247": {
-    "牙王ゴースネル": "Gosnell"
+    "牙王ゴースネル": "Fang King Gosnell"
   },
   "248": {
     "輪王ザルトラ": "Ring King Zaltra"
@@ -750,7 +750,7 @@
     "伝説の三悪魔闘": "Apex 3 Legend Demons"
   },
   "251": {
-    "Ｓキラーマシン": "S Killing Machine"
+    "Ｓキラーマシン": "Trauminator"
   },
   "252": {
     "タロット魔人": "Tarot Genie"
@@ -768,7 +768,7 @@
     "スライムジェネラル": "Shogum"
   },
   "257": {
-    "震王ジュノーガ": "Shingo Junoga"
+    "震王ジュノーガ": "Quake King Junoga"
   },
   "258": {
     "幻界の四諸侯強": "Apex 4 Phantom Lords"
@@ -777,13 +777,13 @@
     "タロット魔人強": "Apex Tarot Genie"
   },
   "260": {
-    "死神スライダーク": "Reaper Slydark"
+    "死神スライダーク": "Nemeslime"
   },
   "261": {
     "clarity_nt_char_86": "clarity_nt_char_86"
   },
   "262": {
-    "プチキラーマジンガ": "Ickle Uberkilling Mchn."
+    "プチキラーマジンガ": "Frail Uberkilling Mchn."
   },
   "263": {
     "キラーマジンガ強たち": "Apex Uberkilling Mchns."
@@ -825,34 +825,34 @@
     "トロルバッコスたち": "Gladiator Trolls"
   },
   "276": {
-    "ギュメイ将軍": "General Gumei"
+    "ギュメイ将軍": "Goresby-Purrvis"
   },
   "277": {
     "clarity_nt_char_91": "clarity_nt_char_91"
   },
   "278": {
-    "ゲルニック将軍": "General Gernick"
+    "ゲルニック将軍": "Hootingham-Gore"
   },
   "279": {
-    "プチゴースネル": "Ickle Gosnell"
+    "プチゴースネル": "Frail Gosnell"
   },
   "280": {
-    "プチ伝説の三悪魔": "Ickle 3 Legend Demons"
+    "プチ伝説の三悪魔": "Frail 3 Legend Demons"
   },
   "281": {
     "clarity_nt_char_92": "clarity_nt_char_92"
   },
   "282": {
-    "プチ幻界の四諸侯": "Ickle 4 Phantom Lords"
+    "プチ幻界の四諸侯": "Frail 4 Phantom Lords"
   },
   "283": {
     "clarity_nt_char_93": "clarity_nt_char_93"
   },
   "284": {
-    "プチドン・モグーラ": "Ickle Don Mole"
+    "プチドン・モグーラ": "Frail Don Mole"
   },
   "285": {
-    "ゴレオン将軍": "General Goleon"
+    "ゴレオン将軍": "Goreham-Hogg"
   },
   "286": {
     "clarity_nt_char_94": "clarity_nt_char_94"
@@ -861,7 +861,7 @@
     "白輝丸": "Wyteshine"
   },
   "288": {
-    "砂海の主": ""
+    "砂海の主": "Sand Sea God"
   },
   "289": {
     "clarity_nt_char_95": "clarity_nt_char_95"
@@ -870,7 +870,7 @@
     "薄明の守人たち": "Twilight Guards"
   },
   "291": {
-    "青天竜バルケロス": ""
+    "青天竜バルケロス": "Azure Dragon Barkelos"
   },
   "292": {
     "clarity_nt_char_96": "clarity_nt_char_96"
@@ -879,7 +879,7 @@
     "熱砂の魔人": "Hot Sand Demon"
   },
   "294": {
-    "陽光の戦士たち": ""
+    "陽光の戦士たち": "Solaris Warriors"
   },
   "295": {
     "紅蓮鳥トワイラ": "Red Lotus Bird Twyla"
@@ -891,25 +891,25 @@
     "clarity_nt_char_97": "clarity_nt_char_97"
   },
   "298": {
-    "落日の隠者たち": ""
+    "落日の隠者たち": "Sunset Hermits"
   },
   "299": {
-    "漆黒魔獣ナイダーク": ""
+    "漆黒魔獣ナイダーク": "Black Magic Beast Nydark"
   },
   "300": {
-    "月夜の将": ""
+    "月夜の将": "Moonlit Gen."
   },
   "301": {
     "clarity_nt_char_98": "clarity_nt_char_98"
   },
   "302": {
-    "闇夜の王たち": ""
+    "闇夜の王たち": "Dark Night Kings"
   },
   "303": {
     "clarity_nt_char_99": "clarity_nt_char_99"
   },
   "304": {
-    "勇者アルヴァン": ""
+    "勇者アルヴァン": "Alvan the Brave"
   },
   "305": {
     "輝きの魔人たち": ""
@@ -918,25 +918,25 @@
     "ビッグドリーム": "Big Dream"
   },
   "307": {
-    "幽冥の緑石帝": ""
+    "幽冥の緑石帝": "Greenstone Emperor"
   },
   "308": {
     "clarity_nt_char_100": "clarity_nt_char_100"
   },
   "309": {
-    "黄泉の邪妖星": ""
+    "黄泉の邪妖星": "Evil Star of Hades"
   },
   "310": {
     "clarity_nt_char_101": "clarity_nt_char_101"
   },
   "311": {
-    "鬼哭の魔剣匠": ""
+    "鬼哭の魔剣匠": "Swordsman's Ghost"
   },
   "312": {
     "clarity_nt_char_102": "clarity_nt_char_102"
   },
   "313": {
-    "プチＳキラーマシン": "Ickle S Killing Machine"
+    "プチＳキラーマシン": "Frail Trauminator"
   },
   "314": {
     "巨大ナスビナーラ": "Giga Large Woebergine"
@@ -954,31 +954,31 @@
     "ゴールデンゴーレム": "Golden Balhib"
   },
   "319": {
-    "氷殿の守護兵": ""
+    "氷殿の守護兵": "Ice Palace Guard"
   },
   "320": {
     "clarity_nt_char_104": "clarity_nt_char_104"
   },
   "321": {
-    "尖塔の守護鬼たち": ""
+    "尖塔の守護鬼たち": "Spire Guardians"
   },
   "322": {
     "clarity_nt_char_105": "clarity_nt_char_105"
   },
   "323": {
-    "深海の守護者": ""
+    "深海の守護者": "Deep Sea Guardian"
   },
   "324": {
     "clarity_nt_char_106": "clarity_nt_char_106"
   },
   "325": {
-    "荒城の守護精": ""
+    "荒城の守護精": "Ruin Castle Guard"
   },
   "326": {
     "clarity_nt_char_107": "clarity_nt_char_107"
   },
   "327": {
-    "三闘の守護霊": ""
+    "三闘の守護霊": "3 Fighter's Spirit"
   },
   "328": {
     "clarity_nt_char_108": "clarity_nt_char_108"
@@ -1038,13 +1038,13 @@
     "激辛魔人アケローダ": "Super Spicy Demon Akeroda"
   },
   "347": {
-    "魔女ハバネロ": ""
+    "魔女ハバネロ": "Witch Habanero"
   },
   "348": {
     "clarity_nt_char_114": "clarity_nt_char_114"
   },
   "349": {
-    "カプサイ神": ""
+    "カプサイ神": "Capsai God"
   },
   "350": {
     "チョッコー団": ""
@@ -1071,13 +1071,13 @@
     "clarity_nt_char_116": "clarity_nt_char_116"
   },
   "358": {
-    "獄辛党員シニグリー": ""
+    "獄辛党員シニグリー": "Prison Party Member Singuri"
   },
   "359": {
     "獄辛党秘書ロシナゼ": "Jail Knight Rozzinaze"
   },
   "360": {
-    "党首マスター・ドー": "Party Leader Master Do"
+    "党首マスター・ドー": "Spicy Party Leader Mustardo"
   },
   "361": {
     "極辛炎獣ラーベ": "Hot Flame Beast Rabe"
@@ -1086,7 +1086,7 @@
     "絶辛骨竜マーガ": "Spicy Dragon Maga"
   },
   "363": {
-    "カプサイ神・激辛": ""
+    "カプサイ神・激辛": "Super Hot Capsai God"
   },
   "364": {
     "clarity_nt_char_117": "clarity_nt_char_117"
@@ -1098,10 +1098,10 @@
     "clarity_nt_char_118": "clarity_nt_char_118"
   },
   "367": {
-    "ジングルヒドラ": ""
+    "ジングルヒドラ": "Jingle Hydra"
   },
   "368": {
-    "クリスモスブロス": ""
+    "クリスモスブロス": "Christmas Bros."
   },
   "369": {
     "clarity_nt_char_119": "clarity_nt_char_119"
@@ -1113,7 +1113,7 @@
     "clarity_nt_char_120": "clarity_nt_char_120"
   },
   "372": {
-    "聖夜の破壊者": ""
+    "聖夜の破壊者": "Holy Night Wrecker"
   },
   "373": {
     "clarity_nt_char_121": "clarity_nt_char_121"
@@ -1140,7 +1140,7 @@
     "バーバニアン族": ""
   },
   "381": {
-    "バーバニジャンボ": ""
+    "バーバニジャンボ": "Barber Neejumbo"
   },
   "382": {
     "clarity_nt_char_125": "clarity_nt_char_125"
@@ -1155,7 +1155,7 @@
     "clarity_nt_char_126": "clarity_nt_char_126"
   },
   "386": {
-    "海竜ヴォドニーグ": ""
+    "海竜ヴォドニーグ": "Sea Dragon Vodnig"
   },
   "387": {
     "clarity_nt_char_127": "clarity_nt_char_127"
@@ -1167,52 +1167,52 @@
     "clarity_nt_char_128": "clarity_nt_char_128"
   },
   "390": {
-    "邪神バルサミコス": ""
+    "邪神バルサミコス": "Evil God Balsamicos"
   },
   "391": {
     "clarity_nt_char_129": "clarity_nt_char_129"
   },
   "392": {
-    "ライムウェル": ""
+    "ライムウェル": "Limewell"
   },
   "393": {
     "clarity_nt_char_130": "clarity_nt_char_130"
   },
   "394": {
-    "キラークリスマス": ""
+    "キラークリスマス": "Killer Christmas"
   },
   "395": {
     "clarity_nt_char_131": "clarity_nt_char_131"
   },
   "396": {
-    "魔天の勇者": ""
+    "魔天の勇者": "Demon Sky Hero"
   },
   "397": {
-    "魔天の勇者＆キラークリスマス": ""
+    "魔天の勇者＆キラークリスマス": "Demon Sky Hero & Killer Christmas"
   },
   "398": {
     "clarity_nt_char_132": "clarity_nt_char_132"
   },
   "399": {
-    "魔天の勇者＆聖夜の破壊者・雪組": ""
+    "魔天の勇者＆聖夜の破壊者・雪組": "Demon Sky Hero & Holy Night Wrecker Snow Team"
   },
   "400": {
-    "魔天の勇者＆聖夜の破壊者・闇組": ""
+    "魔天の勇者＆聖夜の破壊者・闇組": "Demon Sky Hero & Holy Night Wrecker Dark Team"
   },
   "401": {
     "悪夢の右手": "Dream Hand R"
   },
   "402": {
-    "魔人エンラージャ＆ムッチーノ": ""
+    "魔人エンラージャ＆ムッチーノ": "Demon Enraja & Muccino"
   },
   "403": {
     "clarity_nt_char_133": "clarity_nt_char_133"
   },
   "404": {
-    "破戒王ベルムド": "Broken King Bermud"
+    "破戒王ベルムド": "Sin King Bermud"
   },
   "405": {
-    "絶望の巨像": ""
+    "絶望の巨像": "Despair Statue"
   },
   "406": {
     "魔創兵ゲゾラ": "Evil Soldier Gezra"
@@ -1230,7 +1230,7 @@
     "clarity_nt_char_135": "clarity_nt_char_135"
   },
   "411": {
-    "魔勇者アンルシア": "Evil Ann-Lucia"
+    "魔勇者アンルシア": "Demon Hero Anlucia"
   },
   "412": {
     "clarity_nt_char_136": "clarity_nt_char_136"
@@ -1239,7 +1239,7 @@
     "いたずらジャーミィたち": ""
   },
   "414": {
-    "ハートボイルド": ""
+    "ハートボイルド": "Heart-Boiled"
   },
   "415": {
     "邪教祖サダク": "Evil Guru Sadak"
@@ -1266,16 +1266,16 @@
     "clarity_nt_char_139": "clarity_nt_char_139"
   },
   "423": {
-    "獣魔将ガルレイ": ""
+    "獣魔将ガルレイ": "Beast General Gullray"
   },
   "424": {
-    "妖魔将ゲジュラ": ""
+    "妖魔将ゲジュラ": "Demon General Gejura"
   },
   "425": {
     "豪魔将ベリンダ＆豪魔将ブレンダ": ""
   },
   "426": {
-    "幻魔将ファズマ": ""
+    "幻魔将ファズマ": "Phantom Gen. Phasma"
   },
   "427": {
     "ベロリンマン": "Abominable Showman"
@@ -1296,7 +1296,7 @@
     "clarity_nt_char_142": "clarity_nt_char_142"
   },
   "433": {
-    "恐怖の化身": ""
+    "恐怖の化身": "Dread Incarnate"
   },
   "434": {
     "飛竜たち": ""
@@ -1305,22 +1305,22 @@
     "clarity_nt_char_143": "clarity_nt_char_143"
   },
   "436": {
-    "魔導鬼ベゼブー": ""
+    "魔導鬼ベゼブー": "Sorcery Demon Bezebu"
   },
   "437": {
-    "魔元帥ゼルドラド": ""
+    "魔元帥ゼルドラド": "Demon General Zeldrad"
   },
   "438": {
     "clarity_nt_char_144": "clarity_nt_char_144"
   },
   "439": {
-    "トーマ王子": ""
+    "トーマ王子": "Prince Thomas"
   },
   "440": {
-    "大魔王マデサゴーラ": ""
+    "大魔王マデサゴーラ": "Great Demon King Madesagora"
   },
   "441": {
-    "創造神マデサゴーラ": ""
+    "創造神マデサゴーラ": "God of Creation, Madesagora"
   },
   "442": {
     "悪夢の右手強": "Apex Dream Hand R"
@@ -1332,37 +1332,37 @@
     "魔人エンラージャ強": "Apex Demon Enraja"
   },
   "445": {
-    "破戒王ベルムド強": "Apex Broken King Bermud"
+    "破戒王ベルムド強": "Apex Sin King Bermud"
   },
   "446": {
     "clarity_nt_char_146": "clarity_nt_char_146"
   },
   "447": {
-    "ワイルドフォビズム": ""
+    "ワイルドフォビズム": "Wild Phobism"
   },
   "448": {
-    "エビルキュビズム": ""
+    "エビルキュビズム": "Evil Cubism"
   },
   "449": {
     "clarity_nt_char_147": "clarity_nt_char_147"
   },
   "450": {
-    "ダークレアリズム": ""
+    "ダークレアリズム": "Dark Realism"
   },
   "451": {
     "clarity_nt_char_148": "clarity_nt_char_148"
   },
   "452": {
-    "謎のセレブ": ""
+    "謎のセレブ": "Odd Celebrity"
   },
   "453": {
-    "武闘家ヤーン": ""
+    "武闘家ヤーン": "Martial Art. Yarn"
   },
   "454": {
     "clarity_nt_char_149": "clarity_nt_char_149"
   },
   "455": {
-    "クリムゾンレプリカ": ""
+    "クリムゾンレプリカ": "Crimson Replica"
   },
   "456": {
     "チームゆく年くる年　２０１８": ""
@@ -1383,13 +1383,13 @@
     "clarity_nt_char_152": "clarity_nt_char_152"
   },
   "462": {
-    "魔女グレイツェル": ""
+    "魔女グレイツェル": "Witch Gretzel"
   },
   "463": {
     "clarity_nt_char_153": "clarity_nt_char_153"
   },
   "464": {
-    "アルゴングレート": ""
+    "アルゴングレート": "Great Argon Lizard"
   },
   "465": {
     "clarity_nt_char_154": "clarity_nt_char_154"
@@ -1401,28 +1401,28 @@
     "ひとくいドールたち": ""
   },
   "468": {
-    "トマホーガー": ""
+    "トマホーガー": "Halberdsaurus"
   },
   "469": {
     "clarity_nt_char_155": "clarity_nt_char_155"
   },
   "470": {
-    "魔剣士テグラム": ""
+    "魔剣士テグラム": "Evil Swordsman Tegram"
   },
   "471": {
     "グラコス強": "Apex Gracos"
   },
   "472": {
-    "デイジーちゃん": ""
+    "デイジーちゃん": "Daisy-chan"
   },
   "473": {
-    "海賊トニー＆ベニー": ""
+    "海賊トニー＆ベニー": "Pirate Tony & Benny"
   },
   "474": {
-    "海賊スクアーロ": ""
+    "海賊スクアーロ": "Pirate Squalo"
   },
   "475": {
-    "デビルニャン": ""
+    "デビルニャン": "Devil Cat"
   },
   "476": {
     "clarity_nt_char_156": "clarity_nt_char_156"
@@ -1434,34 +1434,34 @@
     "clarity_nt_char_157": "clarity_nt_char_157"
   },
   "479": {
-    "樹縛の悪鬼": ""
+    "樹縛の悪鬼": "Treebound Demon"
   },
   "480": {
-    "カンダタ": ""
+    "カンダタ": "Robbin' 'Ood"
   },
   "481": {
     "clarity_nt_char_158": "clarity_nt_char_158"
   },
   "482": {
-    "炎業の妖星": ""
+    "炎業の妖星": "Fire Demon Star"
   },
   "483": {
     "砂塵の幻馬": "Phantom Horse"
   },
   "484": {
-    "諸刃の鋼竜": ""
+    "諸刃の鋼竜": "Steel Dragomech"
   },
   "485": {
-    "濁流の邪殻": ""
+    "濁流の邪殻": "Evil Mud Shell"
   },
   "486": {
-    "魔人リンジャーラ": ""
+    "魔人リンジャーラ": "Demon Linjara"
   },
   "487": {
     "clarity_nt_char_159": "clarity_nt_char_159"
   },
   "488": {
-    "盗賊ラゴス": ""
+    "盗賊ラゴス": "Thief Lagos"
   },
   "489": {
     "レプティリアたち": ""
@@ -1470,7 +1470,7 @@
     "clarity_nt_char_160": "clarity_nt_char_160"
   },
   "491": {
-    "リルグレイド": ""
+    "リルグレイド": "Lil' Grade"
   },
   "492": {
     "clarity_nt_char_161": "clarity_nt_char_161"
@@ -1479,7 +1479,7 @@
     "ブラッドメイジたち": ""
   },
   "494": {
-    "スカーレットナイトたち": ""
+    "スカーレットナイトたち": "Scarlet Knights"
   },
   "495": {
     "悪夢の眷属たち": ""
@@ -1518,7 +1518,7 @@
     "clarity_nt_char_165": "clarity_nt_char_165"
   },
   "507": {
-    "常闇の竜レグナード": "Dark Dragon Regnard"
+    "常闇の竜レグナード": "Everdark Dragon Regnard"
   },
   "508": {
     "災いの神話と暴虐の悪夢": ""
@@ -1584,10 +1584,10 @@
     "殺意の怨霊たち": ""
   },
   "529": {
-    "踊り神ボニータ": ""
+    "踊り神ボニータ": "Dance God Bonita"
   },
   "530": {
-    "黒怨王": ""
+    "黒怨王": "Hell King"
   },
   "531": {
     "ビッグバン岩": "Big Bang Rock"
@@ -1596,7 +1596,7 @@
     "clarity_nt_char_173": "clarity_nt_char_173"
   },
   "533": {
-    "封魔フォーゲル": ""
+    "封魔フォーゲル": "Demon Seal Vogel"
   },
   "534": {
     "子鬼ブリック": "Trickereer"
@@ -1635,7 +1635,7 @@
     "マジックハンド": "Magic Hand"
   },
   "546": {
-    "ザ・ホール": ""
+    "ザ・ホール": "The hole"
   },
   "547": {
     "ダークキング": "Dark King Slime"
@@ -1680,7 +1680,7 @@
     "ビッグモーモン": "Biggy Sanguini"
   },
   "561": {
-    "密林の守人＆密林の狩人": ""
+    "密林の守人＆密林の狩人": "Jungle Guardian & Jungle Hunter"
   },
   "562": {
     "アイスゴーレムたち": ""
@@ -1728,7 +1728,7 @@
     "ビッグビッグハット": "Giga Sham Hatwitch"
   },
   "577": {
-    "魔女グレイツェル強": "Apex Witch Greitzel"
+    "魔女グレイツェル強": "Apex Witch Gretzel"
   },
   "578": {
     "プラチナキング": "Platinum King Jewel"
@@ -1740,25 +1740,25 @@
     "clarity_nt_char_185": "clarity_nt_char_185"
   },
   "581": {
-    "ゼドラの影": ""
+    "ゼドラの影": "Shadow of Zedra"
   },
   "582": {
     "メタルスライムたち": "Metal Slimes"
   },
   "583": {
-    "キューキョクＶロン": ""
+    "キューキョクＶロン": "Kyukyoku Vron"
   },
   "584": {
     "ドン・モグーラ": "Don Mole"
   },
   "585": {
-    "プチグラコス": "Ickle Gracos"
+    "プチグラコス": "Frail Gracos"
   },
   "586": {
     "clarity_nt_char_186": "clarity_nt_char_186"
   },
   "587": {
-    "大魔王ゾーマ": ""
+    "大魔王ゾーマ": "Great King Zoma"
   },
   "588": {
     "clarity_nt_char_187": "clarity_nt_char_187"
@@ -1767,13 +1767,13 @@
     "だいまじん": "Stone Guardian"
   },
   "590": {
-    "死者の影たち": ""
+    "死者の影たち": "Dead Shadows"
   },
   "591": {
     "clarity_nt_char_188": "clarity_nt_char_188"
   },
   "592": {
-    "ジャイラジャイラ": ""
+    "ジャイラジャイラ": "Gyra Gyra"
   },
   "593": {
     "clarity_nt_char_189": "clarity_nt_char_189"
@@ -1788,10 +1788,10 @@
     "clarity_nt_char_190": "clarity_nt_char_190"
   },
   "597": {
-    "魔天導クローマたち": ""
+    "魔天導クローマたち": "Sky Guide Chromas"
   },
   "598": {
-    "魔天獅ヒッポルコ": ""
+    "魔天獅ヒッポルコ": "Magic Lion Hippolko"
   },
   "599": {
     "clarity_nt_char_191": "clarity_nt_char_191"
@@ -1809,28 +1809,28 @@
     "clarity_nt_char_193": "clarity_nt_char_193"
   },
   "604": {
-    "邪竜神ナドラガ": ""
+    "邪竜神ナドラガ": "Dragon King Nadraga"
   },
   "605": {
-    "獄炎鬼アグニース": ""
+    "獄炎鬼アグニース": "Hellfire Ghost Agnes"
   },
   "606": {
     "clarity_nt_char_194": "clarity_nt_char_194"
   },
   "607": {
-    "獄氷鬼フィルグレア": ""
+    "獄氷鬼フィルグレア": "Hell Ice Ghost Philglare"
   },
   "608": {
-    "獄闇鬼ティトス": ""
+    "獄闇鬼ティトス": "Hell Dark Ghost Titos"
   },
   "609": {
-    "獄水鬼ヴァーテル": ""
+    "獄水鬼ヴァーテル": "Hell Water Ghost Vater"
   },
   "610": {
     "clarity_nt_char_195": "clarity_nt_char_195"
   },
   "611": {
-    "獄嵐鬼ウェンリル": ""
+    "獄嵐鬼ウェンリル": "Hell Storm Ghost Wenrir"
   },
   "612": {
     "clarity_nt_char_196": "clarity_nt_char_196"
@@ -1842,7 +1842,7 @@
     "clarity_nt_char_197": "clarity_nt_char_197"
   },
   "615": {
-    "邪竜教祖オルストフ": ""
+    "邪竜教祖オルストフ": "Evil Dragon Guru Orstov"
   },
   "616": {
     "虚空の神ナドラガ": "Void God Nadraga"
@@ -1851,28 +1851,28 @@
     "clarity_nt_char_198": "clarity_nt_char_198"
   },
   "618": {
-    "森羅蛮獣": ""
+    "森羅蛮獣": "Savage Beast"
   },
   "619": {
     "clarity_nt_char_199": "clarity_nt_char_199"
   },
   "620": {
-    "巨竜樹タツノギ": ""
+    "巨竜樹タツノギ": "Tree Dragon Tatsunogi"
   },
   "621": {
-    "激情の竜エステラ": ""
+    "激情の竜エステラ": "Passion Dragon Estella"
   },
   "622": {
     "clarity_nt_char_200": "clarity_nt_char_200"
   },
   "623": {
-    "剣士ヒューザ": ""
+    "剣士ヒューザ": "Swordsman Huzer"
   },
   "624": {
     "clarity_nt_char_201": "clarity_nt_char_201"
   },
   "625": {
-    "嵐魔ウェンリルとアクラガレナ": ""
+    "嵐魔ウェンリルとアクラガレナ": "Storm Demon Wenrir & Akragarena"
   },
   "626": {
     "clarity_nt_char_202": "clarity_nt_char_202"
@@ -1884,7 +1884,7 @@
     "clarity_nt_char_203": "clarity_nt_char_203"
   },
   "629": {
-    "青狼鬼グルバレイダ": ""
+    "青狼鬼グルバレイダ": "Blue Wolf Demon Grubareyda"
   },
   "630": {
     "桜蝶鬼メイガたち": ""
@@ -1893,7 +1893,7 @@
     "clarity_nt_char_204": "clarity_nt_char_204"
   },
   "632": {
-    "黄牛鬼タウラダイン": ""
+    "黄牛鬼タウラダイン": "Yellow Bull Ghost Tauradyne"
   },
   "633": {
     "緑風鬼フーたち": ""
@@ -1905,7 +1905,7 @@
     "clarity_nt_char_205": "clarity_nt_char_205"
   },
   "636": {
-    "竜将アンテロたち": ""
+    "竜将アンテロたち": "Dragon Gen. Antelo Team"
   },
   "637": {
     "clarity_nt_char_206": "clarity_nt_char_206"
@@ -1920,16 +1920,16 @@
     "支配されし飛竜たち": ""
   },
   "641": {
-    "竜将アンテロ": ""
+    "竜将アンテロ": "Dragon Gen. Antelo"
   },
   "642": {
     "clarity_nt_char_208": "clarity_nt_char_208"
   },
   "643": {
-    "魔炎鳥": ""
+    "魔炎鳥": "Darkflame"
   },
   "644": {
-    "炎魔アグニース": ""
+    "炎魔アグニース": "Fire Demon Agnes"
   },
   "645": {
     "ライノス・ルージュ": "Rouge Rhino"
@@ -1980,7 +1980,7 @@
     "clarity_nt_char_214": "clarity_nt_char_214"
   },
   "661": {
-    "フロスティ": ""
+    "フロスティ": "Frosty"
   },
   "662": {
     "青の巨人ブルメル": "Brummels The Blue Giant"
@@ -2001,7 +2001,7 @@
     "clarity_nt_char_217": "clarity_nt_char_217"
   },
   "668": {
-    "氷魔フィルグレア": ""
+    "氷魔フィルグレア": "Ice Demon Philglare"
   },
   "669": {
     "clarity_nt_char_218": "clarity_nt_char_218"
@@ -2034,10 +2034,10 @@
     "clarity_nt_char_222": "clarity_nt_char_222"
   },
   "679": {
-    "占術師マルグリット": ""
+    "占術師マルグリット": "Fortune Teller Margaret"
   },
   "680": {
-    "闇蜘蛛マルギト": ""
+    "闇蜘蛛マルギト": "Dark Spider Margaret"
   },
   "681": {
     "悪魔の手下たち": ""
@@ -2049,7 +2049,7 @@
     "clarity_nt_char_223": "clarity_nt_char_223"
   },
   "684": {
-    "魔獣サルファバル": ""
+    "魔獣サルファバル": "Demon Beast Sulphubal"
   },
   "685": {
     "clarity_nt_char_224": "clarity_nt_char_224"
@@ -2061,7 +2061,7 @@
     "clarity_nt_char_225": "clarity_nt_char_225"
   },
   "688": {
-    "闇魔ティトス": ""
+    "闇魔ティトス": "Dark Demon Titos"
   },
   "689": {
     "clarity_nt_char_226": "clarity_nt_char_226"
@@ -2073,13 +2073,13 @@
     "clarity_nt_char_227": "clarity_nt_char_227"
   },
   "692": {
-    "深淵魚キュラス": ""
+    "深淵魚キュラス": "Deep Abyss Fish Curus"
   },
   "693": {
     "邪菌ピロリアン": ""
   },
   "694": {
-    "水魔ヴァーテル": ""
+    "水魔ヴァーテル": "Water Demon Vater"
   },
   "695": {
     "神獣カシャル": "God Beast Kashal"
@@ -2088,10 +2088,10 @@
     "clarity_nt_char_228": "clarity_nt_char_228"
   },
   "697": {
-    "闇朱の獣牙兵団": ""
+    "闇朱の獣牙兵団": "Red Beast Fang Corps."
   },
   "698": {
-    "紫炎の鉄機兵団": ""
+    "紫炎の鉄機兵団": "Purp Flame Mech Corps"
   },
   "699": {
     "深碧の造魔兵団": ""
@@ -2121,7 +2121,7 @@
     "黄金の魔物たち": ""
   },
   "708": {
-    "水神ギルギッシュ": ""
+    "水神ギルギッシュ": "Water God Gilgish"
   },
   "709": {
     "clarity_nt_char_231": "clarity_nt_char_231"
@@ -2130,13 +2130,13 @@
     "ウルベア魔神兵たち": ""
   },
   "711": {
-    "魔神兵ゼェード": ""
+    "魔神兵ゼェード": "Demon Soldier Jade"
   },
   "712": {
-    "ウルベア大魔神": ""
+    "ウルベア大魔神": "Great God of Urbea"
   },
   "713": {
-    "黒衣の剣士パドレ": ""
+    "黒衣の剣士パドレ": "Swordsman in Black Padre"
   },
   "714": {
     "clarity_nt_char_232": "clarity_nt_char_232"
@@ -2145,19 +2145,19 @@
     "アルムゴーグ＆ロムドゴーグ": ""
   },
   "716": {
-    "時獄獣キュロノス": ""
+    "時獄獣キュロノス": "Time Hell Beast Kyronos"
   },
   "717": {
     "clarity_nt_char_233": "clarity_nt_char_233"
   },
   "718": {
-    "時元神キュロノス": ""
+    "時元神キュロノス": "Time God Kyronos"
   },
   "719": {
     "clarity_nt_char_234": "clarity_nt_char_234"
   },
   "720": {
-    "封印の守護者": ""
+    "封印の守護者": "Seal Guardian"
   },
   "721": {
     "clarity_nt_char_235": "clarity_nt_char_235"
@@ -2172,34 +2172,34 @@
     "clarity_nt_char_236": "clarity_nt_char_236"
   },
   "725": {
-    "魔族リソル": ""
+    "魔族リソル": "Demon Resol"
   },
   "726": {
-    "狂想鬼メルジオル": ""
+    "狂想鬼メルジオル": "Mad Ghost Merjol"
   },
   "727": {
     "clarity_nt_char_237": "clarity_nt_char_237"
   },
   "728": {
-    "シュメリア": ""
+    "シュメリア": "Sumeria"
   },
   "729": {
-    "異界の守護者": ""
+    "異界の守護者": "Spirit World Guard"
   },
   "730": {
     "clarity_nt_char_238": "clarity_nt_char_238"
   },
   "731": {
-    "シナイジッチ": ""
+    "シナイジッチ": "Shinai Zichy"
   },
   "732": {
     "clarity_nt_char_239": "clarity_nt_char_239"
   },
   "733": {
-    "ヨミの狩人": ""
+    "ヨミの狩人": "Hunter Yomi"
   },
   "734": {
-    "カイザー先生": ""
+    "カイザー先生": "Master Kaiser"
   },
   "735": {
     "clarity_nt_char_240": "clarity_nt_char_240"
@@ -2208,13 +2208,13 @@
     "ビスト先生たち": ""
   },
   "737": {
-    "クリスティーヌ先生": ""
+    "クリスティーヌ先生": "Master Christine"
   },
   "738": {
-    "フレア先生": ""
+    "フレア先生": "Master Flare"
   },
   "739": {
-    "ディラック先生": ""
+    "ディラック先生": "Master Dilak"
   },
   "740": {
     "マジンガ先生たち": ""
@@ -2223,31 +2223,31 @@
     "clarity_nt_char_241": "clarity_nt_char_241"
   },
   "742": {
-    "グルービー先生": ""
+    "グルービー先生": "Master Groovy"
   },
   "743": {
-    "ムータ先生": ""
+    "ムータ先生": "Master Muta"
   },
   "744": {
-    "スライムエネルゴン": ""
+    "スライムエネルゴン": "Energon Slime"
   },
   "745": {
-    "異形獣": ""
+    "異形獣": "Odd Beast"
   },
   "746": {
     "フローラルダンディ": "Floral dandy"
   },
   "747": {
-    "強化異形獣・狂": ""
+    "強化異形獣・狂": "Apex Mad Odd Beast"
   },
   "748": {
     "スパーキー": "Sparky"
   },
   "749": {
-    "影魔レイミリア": ""
+    "影魔レイミリア": "Shadow Demon Remilia"
   },
   "750": {
-    "ヘルゲゴーグ・烈": ""
+    "ヘルゲゴーグ・烈": "Fierce Helgegog"
   },
   "751": {
     "clarity_nt_char_242": "clarity_nt_char_242"
@@ -2256,13 +2256,13 @@
     "自動人形ドミネウス": "Domineus Automaton"
   },
   "753": {
-    "時獄のドミネウス": ""
+    "時獄のドミネウス": "Time God Dominus"
   },
   "754": {
     "clarity_nt_char_243": "clarity_nt_char_243"
   },
   "755": {
-    "魔人王ドミネウス": ""
+    "魔人王ドミネウス": "Demon King Dominus"
   },
   "756": {
     "clarity_nt_char_244": "clarity_nt_char_244"
@@ -2271,28 +2271,28 @@
     "チェックメイツ": ""
   },
   "758": {
-    "ニコラオス先生": ""
+    "ニコラオス先生": "Master Nicolas"
   },
   "759": {
-    "精霊の番人": ""
+    "精霊の番人": "Spirit Keeper"
   },
   "760": {
-    "願いの少年": ""
+    "願いの少年": "Wishing Boy"
   },
   "761": {
-    "狂乱の破壊神": ""
+    "狂乱の破壊神": "Mad Rend God"
   },
   "762": {
     "clarity_nt_char_245": "clarity_nt_char_245"
   },
   "763": {
-    "ツクモモン": ""
+    "ツクモモン": "Black Sanguini"
   },
   "764": {
-    "鬼門のヌエ": ""
+    "鬼門のヌエ": "Demon Lion Nue"
   },
   "765": {
-    "テンオツ鬼神": ""
+    "テンオツ鬼神": "Fierce God Tenotsu"
   },
   "766": {
     "clarity_nt_char_246": "clarity_nt_char_246"
@@ -2301,7 +2301,7 @@
     "千夜嵐": ""
   },
   "768": {
-    "魔獣ネロスゴーグ": ""
+    "魔獣ネロスゴーグ": "Demon Beast Nerosugog"
   },
   "769": {
     "clarity_nt_char_247": "clarity_nt_char_247"
@@ -2319,37 +2319,37 @@
     "魔軍十二将": ""
   },
   "774": {
-    "不死の魔王ネロドス": ""
+    "不死の魔王ネロドス": "Immortal Demon King Nerodos"
   },
   "775": {
-    "無限獣ネロスゴーグ": ""
+    "無限獣ネロスゴーグ": "Eternal Beast Nerosugog"
   },
   "776": {
-    "暴魔アリゲーラ": ""
+    "暴魔アリゲーラ": "Demonic Alligator"
   },
   "777": {
-    "暴魔ゼラチド": ""
+    "暴魔ゼラチド": "Demon Zerachido"
   },
   "778": {
     "clarity_nt_char_248": "clarity_nt_char_248"
   },
   "779": {
-    "暴魔アヴィーロ": ""
+    "暴魔アヴィーロ": "Fierce Demon Aviro"
   },
   "780": {
-    "錯乱の竜": ""
+    "錯乱の竜": "Confusragon"
   },
   "781": {
     "clarity_nt_char_249": "clarity_nt_char_249"
   },
   "782": {
-    "魔瘴魂ナドラグル": ""
+    "魔瘴魂ナドラグル": "Miasma Spirit Nadraguru"
   },
   "783": {
     "clarity_nt_char_250": "clarity_nt_char_250"
   },
   "784": {
-    "労魔デスワーク": ""
+    "労魔デスワーク": "Labor Demon Deathwork"
   },
   "785": {
     "スカラベーダーズ": "Scaravaders"
@@ -2376,7 +2376,7 @@
     "clarity_nt_char_253": "clarity_nt_char_253"
   },
   "793": {
-    "冥骸魔レギルラッゾたち": "Demon Beast RegilRazzo"
+    "冥骸魔レギルラッゾたち": "Demon Corpse Legirrazzos"
   },
   "794": {
     "真夜中プリズラン": ""
@@ -2391,22 +2391,22 @@
     "鬼人兵たち": ""
   },
   "798": {
-    "狂鬼ドランド公": ""
+    "狂鬼ドランド公": "Mad Prince Durand"
   },
   "799": {
-    "原獣プレゴーグ": ""
+    "原獣プレゴーグ": "Wild Beast Pregog"
   },
   "800": {
-    "悪鬼ゾンガロン": ""
+    "悪鬼ゾンガロン": "Demon Zongalon"
   },
   "801": {
-    "喪心獣ゾンテドール": ""
+    "喪心獣ゾンテドール": "Mourning Beast Zontedor"
   },
   "802": {
-    "ダークポイックリン": ""
+    "ダークポイックリン": "Dark Poiclin"
   },
   "803": {
-    "悪魔キェルグ": ""
+    "悪魔キェルグ": "Devil Kyerug"
   },
   "804": {
     "clarity_nt_char_255": "clarity_nt_char_255"
@@ -2442,22 +2442,22 @@
     "紅殻魔スコルパイド": "Red Scorpion"
   },
   "815": {
-    "ペコリアたち": ""
+    "ペコリアたち": "Pekorias"
   },
   "816": {
     "clarity_nt_char_260": "clarity_nt_char_260"
   },
   "817": {
-    "パルミオ２世": ""
+    "パルミオ２世": "Palmio II"
   },
   "818": {
     "clarity_nt_char_261": "clarity_nt_char_261"
   },
   "819": {
-    "増殖獣バイロゴーグ": ""
+    "増殖獣バイロゴーグ": "Breeding Beast Bylogog"
   },
   "820": {
-    "時見の箱": ""
+    "時見の箱": "Timeseer Box"
   },
   "821": {
     "clarity_nt_char_262": "clarity_nt_char_262"
@@ -2472,7 +2472,7 @@
     "clarity_nt_char_263": "clarity_nt_char_263"
   },
   "825": {
-    "暗黒の星竜機": ""
+    "暗黒の星竜機": "Darkstar Dragomech"
   },
   "826": {
     "clarity_nt_char_264": "clarity_nt_char_264"
@@ -2493,13 +2493,13 @@
     "大地の怒竜バウギア": "Angry Earth Dragon Baugia"
   },
   "832": {
-    "ピュージュたち": ""
+    "ピュージュたち": "Pyujus"
   },
   "833": {
     "翠将鬼ジェルザーク": "Green General Gelzark"
   },
   "834": {
-    "真紅の殺人機械たち": ""
+    "真紅の殺人機械たち": "Crimson Killing Machines"
   },
   "835": {
     "陰の試練壱・陰霊": "Yin Trial I - Yin Spirit"
@@ -2508,22 +2508,22 @@
     "clarity_nt_char_267": "clarity_nt_char_267"
   },
   "837": {
-    "リルクリムゾン": ""
+    "リルクリムゾン": "Lil' Crimson"
   },
   "838": {
     "検証バトル": ""
   },
   "839": {
-    "湖の魔獣ボルゲルグ": ""
+    "湖の魔獣ボルゲルグ": "Lake Beast Volgerg"
   },
   "840": {
     "激昂の巨人レイジバルス": ""
   },
   "841": {
-    "キラーホイール": ""
+    "キラーホイール": "Killer Wheels"
   },
   "842": {
-    "狂信者ヤイル": ""
+    "狂信者ヤイル": "Zealot Jair"
   },
   "843": {
     "clarity_nt_char_268": "clarity_nt_char_268"
@@ -2535,22 +2535,22 @@
     "clarity_nt_char_269": "clarity_nt_char_269"
   },
   "846": {
-    "呪われたシシカバブ": ""
+    "呪われたシシカバブ": "Cursed Shish Kebab"
   },
   "847": {
-    "デモンズゲイトたち": ""
+    "デモンズゲイトたち": "Demon's Gates"
   },
   "848": {
-    "魔王ユシュカ": ""
+    "魔王ユシュカ": "Demon King Yushka"
   },
   "849": {
     "clarity_nt_char_270": "clarity_nt_char_270"
   },
   "850": {
-    "闇の根源の幻影": ""
+    "闇の根源の幻影": "Dark Source Phantom"
   },
   "851": {
-    "絶牙の白獅子たち": ""
+    "絶牙の白獅子たち": "White Lions"
   },
   "852": {
     "clarity_nt_char_271": "clarity_nt_char_271"
@@ -2613,7 +2613,7 @@
     "死霊姫ヤサギリたち": ""
   },
   "872": {
-    "死霊王ギスマイヤー": ""
+    "死霊王ギスマイヤー": "Spirit King Gismeyer"
   },
   "873": {
     "スノーボールンたち": ""
@@ -2664,25 +2664,25 @@
     "clarity_nt_char_286": "clarity_nt_char_286"
   },
   "889": {
-    "魔瘴竜ジャオマンダ": ""
+    "魔瘴竜ジャオマンダ": "Demon Dragon Jaomanda"
   },
   "890": {
-    "ゾブリス将軍": ""
+    "ゾブリス将軍": "General Zobris"
   },
   "891": {
     "clarity_nt_char_287": "clarity_nt_char_287"
   },
   "892": {
-    "バルディスタ軍": ""
+    "バルディスタ軍": "Valdista Army"
   },
   "893": {
-    "ゼクレス魔導兵たち": ""
+    "ゼクレス魔導兵たち": "Zechres Mages"
   },
   "894": {
-    "ゼクレス精鋭兵たち": ""
+    "ゼクレス精鋭兵たち": "Zechres Elite Soldiers"
   },
   "895": {
-    "太古の魔人": ""
+    "太古の魔人": "Ancient Demon"
   },
   "896": {
     "キノコどうしたち": ""
@@ -2691,22 +2691,22 @@
     "clarity_nt_char_288": "clarity_nt_char_288"
   },
   "898": {
-    "カーズ・ド・バニー": ""
+    "カーズ・ド・バニー": "Cars de Bunny"
   },
   "899": {
-    "剣魔の伝霊": ""
+    "剣魔の伝霊": "Swd. Devil Soul"
   },
   "900": {
     "陽獣＆陰獣": ""
   },
   "901": {
-    "陰果の罪業": ""
+    "陰果の罪業": "Sin of Yin/Yang"
   },
   "902": {
     "せんりつザクロ": "Pomegranate Horror"
   },
   "903": {
-    "ゲノディオ": ""
+    "ゲノディオ": "Genodio"
   },
   "904": {
     "炎と水の災禍": ""
@@ -2715,7 +2715,7 @@
     "clarity_nt_char_289": "clarity_nt_char_289"
   },
   "906": {
-    "剛獣鬼ガルドドン": "Brutal Beast Garudodon"
+    "剛獣鬼ガルドドン": "Brutal Beast Gardodon"
   },
   "907": {
     "clarity_nt_char_290": "clarity_nt_char_290"
@@ -2745,7 +2745,7 @@
     "clarity_nt_char_294": "clarity_nt_char_294"
   },
   "916": {
-    "虚空の邪竜神": ""
+    "虚空の邪竜神": "Dragon God of Void"
   },
   "917": {
     "clarity_nt_char_295": "clarity_nt_char_295"
@@ -2763,19 +2763,19 @@
     "灰塵の竜鱗兵団": ""
   },
   "922": {
-    "未完の魔導鬼": ""
+    "未完の魔導鬼": "Unfinished Demon"
   },
   "923": {
     "clarity_nt_char_296": "clarity_nt_char_296"
   },
   "924": {
-    "未完の破戒王": ""
+    "未完の破戒王": "Unfinish. Sin King"
   },
   "925": {
     "clarity_nt_char_297": "clarity_nt_char_297"
   },
   "926": {
-    "超心覚の錬獣": ""
+    "超心覚の錬獣": "Super-minded Beast"
   },
   "927": {
     "clarity_nt_char_298": "clarity_nt_char_298"
@@ -2790,16 +2790,16 @@
     "clarity_nt_char_299": "clarity_nt_char_299"
   },
   "931": {
-    "魔王ヴァレリア": ""
+    "魔王ヴァレリア": "Demon King Valeria"
   },
   "932": {
-    "ギャノン弟": ""
+    "ギャノン弟": "Gannon Lil' Bro"
   },
   "933": {
     "タリスマンの守護者": "Guardian of the Talisman"
   },
   "934": {
-    "魔瘴魂オジャロス": ""
+    "魔瘴魂オジャロス": "Miasma Soul Ojalos"
   },
   "935": {
     "clarity_nt_char_300": "clarity_nt_char_300"
@@ -2841,10 +2841,10 @@
     "clarity_nt_char_303": "clarity_nt_char_303"
   },
   "948": {
-    "邪神ピュージュ": ""
+    "邪神ピュージュ": "Evil God Pyuju"
   },
   "949": {
-    "滅びの剣アンルシア": ""
+    "滅びの剣アンルシア": "Anlucia, Sword of Ruin"
   },
   "950": {
     "マデサゴーラ": "Madesagora"
@@ -2859,16 +2859,16 @@
     "clarity_nt_char_305": "clarity_nt_char_305"
   },
   "954": {
-    "アトラスネオ": ""
+    "アトラスネオ": "Atlas Neo"
   },
   "955": {
     "clarity_nt_char_306": "clarity_nt_char_306"
   },
   "956": {
-    "バズズエリート": ""
+    "バズズエリート": "Elite Pazuzu"
   },
   "957": {
-    "ベリアルオリジン": ""
+    "ベリアルオリジン": "Belial Origins"
   },
   "958": {
     "clarity_nt_char_307": "clarity_nt_char_307"
@@ -2883,13 +2883,13 @@
     "巨大魔瘴魂": "Soul Sphere"
   },
   "962": {
-    "邪神ダビヤガ": ""
+    "邪神ダビヤガ": "Evil God Dabiyaga"
   },
   "963": {
     "clarity_nt_char_309": "clarity_nt_char_309"
   },
   "964": {
-    "反逆者ゴッツェ": ""
+    "反逆者ゴッツェ": "Traitor Gotze"
   },
   "965": {
     "彩虹の粘塊兵団": ""
@@ -2931,7 +2931,7 @@
     "clarity_nt_char_314": "clarity_nt_char_314"
   },
   "978": {
-    "亡霊レブロ": ""
+    "亡霊レブロ": "Ghost Lebro"
   },
   "979": {
     "ザハルピオン": "Zaharpion"
@@ -2961,7 +2961,7 @@
     "clarity_nt_char_318": "clarity_nt_char_318"
   },
   "988": {
-    "邪神ヴァニタトス": ""
+    "邪神ヴァニタトス": "Evil God Vanitatos"
   },
   "989": {
     "clarity_nt_char_319": "clarity_nt_char_319"
@@ -2973,13 +2973,13 @@
     "clarity_nt_char_320": "clarity_nt_char_320"
   },
   "992": {
-    "闇の根源の呪縛": ""
+    "闇の根源の呪縛": "Dark Source Curse"
   },
   "993": {
-    "邪蒼鎧デルメゼ": "Blue Armored Delmeze"
+    "邪蒼鎧デルメゼ": "Blue Armor Delmeze"
   },
   "994": {
-    "オン＆セン": ""
+    "オン＆セン": "On & Sen"
   },
   "995": {
     "遺跡の守護者たち": ""
@@ -2988,7 +2988,7 @@
     "clarity_nt_char_321": "clarity_nt_char_321"
   },
   "997": {
-    "歌声の化身": ""
+    "歌声の化身": "Song Incarnate"
   },
   "998": {
     "炎界に潜む脅威": ""
@@ -3015,13 +3015,13 @@
     "clarity_nt_char_323": "clarity_nt_char_323"
   },
   "1006": {
-    "呼声の化身": ""
+    "呼声の化身": "Call Incarnate"
   },
   "1007": {
     "冥府と虚空の支配者": ""
   },
   "1008": {
-    "プチ暗黒の魔人": "Ickle Ruin"
+    "プチ暗黒の魔人": "Frail Ruin"
   },
   "1009": {
     "暗黒の魔人強": "Apex Ruin"
@@ -3030,7 +3030,7 @@
     "clarity_nt_char_324": "clarity_nt_char_324"
   },
   "1011": {
-    "百怨邪ジャモー": ""
+    "百怨邪ジャモー": "Many Grudges Jamo"
   },
   "1012": {
     "羅刹王バラシュナ": "Evil Beast Ranashna"
@@ -3039,40 +3039,40 @@
     "clarity_nt_char_325": "clarity_nt_char_325"
   },
   "1014": {
-    "魔瘴魂ゼノドラゴン": ""
+    "魔瘴魂ゼノドラゴン": "Miasma Soul Xenodragon"
   },
   "1015": {
-    "フェンダ": ""
+    "フェンダ": "Fender"
   },
   "1016": {
     "clarity_nt_char_326": "clarity_nt_char_326"
   },
   "1017": {
-    "起源獣ガルドドン": ""
+    "起源獣ガルドドン": "Origin Gardodon"
   },
   "1018": {
     "clarity_nt_char_327": "clarity_nt_char_327"
   },
   "1019": {
-    "起源将ジェルザーク": ""
+    "起源将ジェルザーク": "Origin General Gelzark"
   },
   "1020": {
-    "起源魔スコルパイド": ""
+    "起源魔スコルパイド": "Origin Scorpion"
   },
   "1021": {
-    "起源鎧デルメゼ": ""
+    "起源鎧デルメゼ": "Origin Armor Delmeze"
   },
   "1022": {
-    "大魔王ユシュカ": ""
+    "大魔王ユシュカ": "Gr. Demon King Yushka"
   },
   "1023": {
-    "異界滅神ジャゴヌバ": ""
+    "異界滅神ジャゴヌバ": "Eldritch God Jagonuba"
   },
   "1024": {
-    "絶対滅神ジャゴヌバ": ""
+    "絶対滅神ジャゴヌバ": "Destruction God Jagonuba"
   },
   "1025": {
-    "オバケのピッピ": ""
+    "オバケのピッピ": "Ghost Pippi"
   },
   "1026": {
     "真・幻界諸侯": ""
@@ -3120,7 +3120,7 @@
     "clarity_nt_char_332": "clarity_nt_char_332"
   },
   "1041": {
-    "剣魔ジルドラーナ": ""
+    "剣魔ジルドラーナ": "Sword Demon Jildrana"
   },
   "1042": {
     "clarity_nt_char_333": "clarity_nt_char_333"
@@ -3129,15 +3129,15 @@
     "ファラオ最高幹部会": ""
   },
   "1044": {
-    "忘我のシシカバブ": ""
+    "忘我のシシカバブ": "Forgetful Shish Kebab"
   },
   "1045": {
     "clarity_nt_char_334": "clarity_nt_char_334"
   },
   "1046": {
-    "言声の化身": ""
+    "言声の化身": "Voice Incarnate"
   },
   "1047": {
-    "守護者ミトロン": ""
+    "守護者ミトロン": "Guardian Mithron"
   }
 }

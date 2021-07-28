@@ -1,6 +1,6 @@
 {
   "1": {
-    "<%sB_TARGET>が あらわれた！": "An enemy has appeared!"
+    "<%sB_TARGET>が あらわれた！": "An enemy draws near!"
   },
   "2": {
     "clarity_nt_char_1": "clarity_nt_char_1"
@@ -117,13 +117,13 @@
     "<%sB_ACTOR>は 不意をつかれた！": "The enemy caught you off guard!"
   },
   "40": {
-    "<%sB_TARGET>たちが あらわれた！": "Some enemies have appeared!"
+    "<%sB_TARGET>たちが あらわれた！": "Some enemies draw near!"
   },
   "41": {
     "clarity_nt_char_17": "clarity_nt_char_17"
   },
   "42": {
-    "まもののむれが あらわれた！": "A group of enemies have appeared!"
+    "まもののむれが あらわれた！": "A group of enemies draw near!"
   },
   "43": {
     "clarity_nt_char_18": "clarity_nt_char_18"
@@ -2160,9 +2160,9 @@
     "clarity_nt_char_243": "clarity_nt_char_243"
   },
   "721": {
-    "ランキングの判定に 失敗しました。": ""
+    "ランキングの判定に 失敗しました。": "The ranking decision failed."
   },
   "722": {
-    "ランキングの判定に　失敗しました。": ""
+    "ランキングの判定に　失敗しました。": "The ranking decision failed."
   }
 }

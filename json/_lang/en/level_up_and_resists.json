@@ -1,24 +1,24 @@
 {
   "1": {
-    "武器": "WPN"
+    "武器": "Wpn."
   },
   "2": {
     "clarity_nt_char_1": "clarity_nt_char_1"
   },
   "3": {
-    "防具": "AMS"
+    "防具": "Armor"
   },
   "4": {
     "clarity_nt_char_2": "clarity_nt_char_2"
   },
   "5": {
-    "職人どうぐ": "Materials"
+    "職人どうぐ": "Crafting Tool"
   },
   "6": {
     "どうぐ": "Items"
   },
   "7": {
-    "素材": "Mats"
+    "素材": "Mats."
   },
   "8": {
     "clarity_nt_char_3": "clarity_nt_char_3"
@@ -126,13 +126,13 @@
     "clarity_nt_char_14": "clarity_nt_char_14"
   },
   "43": {
-    "足": "Toe"
+    "足": "Leg"
   },
   "44": {
     "(ぜんぶ)": "(All)"
   },
   "45": {
-    "鍛冶ハンマー": "Bsmith Hammer"
+    "鍛冶ハンマー": "Smith Hammer"
   },
   "46": {
     "clarity_nt_char_15": "clarity_nt_char_15"
@@ -156,7 +156,7 @@
     "ぜんぶ": "All"
   },
   "53": {
-    "消費アイテム": "Usable Items"
+    "消費アイテム": "Consumables"
   },
   "54": {
     "clarity_nt_char_17": "clarity_nt_char_17"
@@ -201,7 +201,7 @@
     "つくえ": "Desk"
   },
   "68": {
-    "キッチン": "kitchen"
+    "キッチン": "Kitchen"
   },
   "69": {
     "clarity_nt_char_22": "clarity_nt_char_22"
@@ -240,7 +240,7 @@
     "clarity_nt_char_27": "clarity_nt_char_27"
   },
   "81": {
-    "木工": "WDW"
+    "木工": "Woodwk"
   },
   "82": {
     "clarity_nt_char_28": "clarity_nt_char_28"
@@ -288,7 +288,7 @@
     "フライパン": "Frying Pan"
   },
   "97": {
-    "調理": "CKG"
+    "調理": "Cook"
   },
   "98": {
     "clarity_nt_char_33": "clarity_nt_char_33"
@@ -540,7 +540,7 @@
     "clarity_nt_char_60": "clarity_nt_char_60"
   },
   "181": {
-    "雷ダメージ ??%減": "Lightning Resist ??%"
+    "雷ダメージ ??%減": "Thunder Resist ??%"
   },
   "182": {
     "clarity_nt_char_61": "clarity_nt_char_61"
@@ -672,7 +672,7 @@
     "踊らされガード": "Dance Guard"
   },
   "225": {
-    "レアドロップ率": "Rate Drop Rate"
+    "レアドロップ率": "Rare Drop Rate"
   },
   "226": {
     "攻撃時 ??%で急所突き": "Weak Point Attack ??%"

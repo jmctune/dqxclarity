@@ -69,7 +69,7 @@
     "あふれる魅力で　僕も彼女も|絶頂フィーバー！扇・ムチ|スティック・鎌を装備可。": "A star who's in climax fever!|Can use fans, whips, staves,|and sickles."
   },
   "24": {
-    "魔物を仲間にして戦うという|神秘の技を身につけた異能者。|ムチ・ツメ・両手剣・オノを装備可": "Gain the ability to make|friends with monsters. Uses|whips, claws, claymores, and axes."
+    "魔物を仲間にして戦うという|神秘の技を身につけた異能者。|ムチ・ツメ・両手剣・オノを装備可": "Gain the ability to make friends|with monsters. Uses whips,|claws, claymores, and axes."
   },
   "25": {
     "どうぐの効果を引き出して戦い|特定の魔物を仲間とする。ハンマー|ブーメラン・ヤリ・弓を装備可。": "Joins forces with monsters with|item effects. Uses hammers,|boomerangs, spears and bows."
@@ -690,7 +690,7 @@
     "clarity_nt_char_74": "clarity_nt_char_74"
   },
   "231": {
-    "装備時かいふく魔力+30": "Magical Mending+30"
+    "装備時かいふく魔力+30": "Magical Mending +30"
   },
   "232": {
     "clarity_nt_char_75": "clarity_nt_char_75"
@@ -1119,7 +1119,7 @@
     "全職業でさいだいＨＰ+40": "Natural HP +40"
   },
   "374": {
-    "めいそう（専）": "Meditation"
+    "めいそう（専）": "Meditation (EX)"
   },
   "375": {
     "ためる弐（専）": "Psyche 2 (EX)"
@@ -1164,7 +1164,7 @@
     "clarity_nt_char_128": "clarity_nt_char_128"
   },
   "389": {
-    "タップダンス（専）": "Tap Dance"
+    "タップダンス（専）": "Tap Dance (EX)"
   },
   "390": {
     "キラージャグリング（専）": "Have a Ball"
@@ -1236,7 +1236,7 @@
     "マヒャデドス（専）": "Kacrackle (EX)"
   },
   "413": {
-    "ＭＰ消費しない率+2%（専）": ""
+    "ＭＰ消費しない率+2%（専）": "Don't Use MP Rate +2% (EX)"
   },
   "414": {
     "clarity_nt_char_136": "clarity_nt_char_136"
@@ -1248,7 +1248,7 @@
     "ミラクルゾーン": "0 Zone"
   },
   "417": {
-    "ぬすむ（専）": "Half-Inch"
+    "ぬすむ（専）": "Half-Inch (EX)"
   },
   "418": {
     "clarity_nt_char_137": "clarity_nt_char_137"
@@ -1692,7 +1692,7 @@
     "clarity_nt_char_186": "clarity_nt_char_186"
   },
   "565": {
-    "1.0%ターン消費なし（専）": "1% Don't Use Turn (EX)"
+    "1.0%ターン消費なし（専）": "Don't Use Turn 1% (EX)"
   },
   "566": {
     "clarity_nt_char_187": "clarity_nt_char_187"
@@ -1983,7 +1983,7 @@
     "clarity_nt_char_222": "clarity_nt_char_222"
   },
   "662": {
-    "装備時かいふく魔力+40": "Magical Mending+40"
+    "装備時かいふく魔力+40": "Magical Mending +40"
   },
   "663": {
     "clarity_nt_char_223": "clarity_nt_char_223"
@@ -2118,13 +2118,13 @@
     "装備時こうげき力+40": "Attack +40"
   },
   "707": {
-    "攻撃時25%でヘナトス": "On Action Blunt 25%"
+    "攻撃時25%でヘナトス": "On Attack Blunt 25%"
   },
   "708": {
     "【190P】復活時5%で天使の守り": "[190P] Goddess' Grace On Revival 5%"
   },
   "709": {
-    "5.0%ターン消費なし": "5% Don't Use Turn"
+    "5.0%ターン消費なし": "Don't Use Turn 5%"
   },
   "710": {
     "行動間隔短縮": "Action Wait Down"
@@ -3459,7 +3459,7 @@
     "マヒャデドス（専）の呪文を　おぼえた！": "You learned Kacrackle!"
   },
   "1154": {
-    "魔法使い時|２％の確率で　ＭＰを消費しなくなった！": ""
+    "魔法使い時|２％の確率で　ＭＰを消費しなくなった！": "You now have a 2% chance to not use|MP as a Mage!"
   },
   "1155": {
     "メラガイアー（専）の呪文を　おぼえた！": "You learned Kafrizzle!"
@@ -4050,7 +4050,7 @@
     "clarity_nt_char_456": "clarity_nt_char_456"
   },
   "1351": {
-    "天地雷鳴士時|２％の確率で　ＭＰを消費しなくなった！": ""
+    "天地雷鳴士時|２％の確率で　ＭＰを消費しなくなった！": "You now have a 2% chance to not use|MP as a Druid!"
   },
   "1352": {
     "clarity_nt_char_457": "clarity_nt_char_457"
@@ -6105,13 +6105,13 @@
     "clarity_nt_char_694": "clarity_nt_char_694"
   },
   "2036": {
-    "バイキルショットⅠ": "Bikill Shot"
+    "バイキルショットⅠ": "Oomphlash I"
   },
   "2037": {
-    "バイキルショットⅡ": "Bikill Shot II"
+    "バイキルショットⅡ": "Oomphlash II"
   },
   "2038": {
-    "バイキルショットⅢ": "Bikill Shot Ⅲ"
+    "バイキルショットⅢ": "Oomphlash Ⅲ"
   },
   "2039": {
     "【160P】状態異常成功率+25%": "[160P] Status Effect Success +25%"
@@ -6222,13 +6222,13 @@
     "【180P】極竜打ち+8%": "[180P] Wyrm Whip +8%"
   },
   "2075": {
-    "【160P】バイキルショット+3%": "[160P] Bikill Shot +3%"
+    "【160P】バイキルショット+3%": "[160P] Oomphlash +3%"
   },
   "2076": {
-    "【170P】バイキルショット+5%": "[170P] Bikill Shot +5%"
+    "【170P】バイキルショット+5%": "[170P] Oomphlash +5%"
   },
   "2077": {
-    "【180P】バイキルショット+8%": "[180P] Bikill Shot +8%"
+    "【180P】バイキルショット+8%": "[180P] Oomphlash +8%"
   },
   "2078": {
     "悶絶全方打ちⅠ": "All Out Aggression I"
@@ -6330,10 +6330,10 @@
     "【200P】極竜打ち+8%": "[200P] Wyrm Whip +8%"
   },
   "2111": {
-    "【190P】バイキルショット+8%": "[190P] Bikill Shot +8%"
+    "【190P】バイキルショット+8%": "[190P] Oomphlash +8%"
   },
   "2112": {
-    "【200P】バイキルショット+8%": "[200P] Bikill Shot +8%"
+    "【200P】バイキルショット+8%": "[200P] Oomphlash +8%"
   },
   "2113": {
     "オネロスハントⅠ": "Oneros Hunt I"
@@ -8442,43 +8442,43 @@
     "【180P】瀕死時6%で身かわし率+30%": "[180P] Dodge Rate +30% On Death 6%"
   },
   "2815": {
-    "ちからの盾Ⅰ": "Strength Shield I"
+    "ちからの盾Ⅰ": "Power Shield I"
   },
   "2816": {
     "clarity_nt_char_951": "clarity_nt_char_951"
   },
   "2817": {
-    "ちからの盾Ⅱ": "Strength Shield II"
+    "ちからの盾Ⅱ": "Power Shield II"
   },
   "2818": {
     "clarity_nt_char_952": "clarity_nt_char_952"
   },
   "2819": {
-    "【160P】ちからの盾の回復量+1%": "[160P] Strength Shield Recovery +1%"
+    "【160P】ちからの盾の回復量+1%": "[160P] Power Shield Recovery +1%"
   },
   "2820": {
     "clarity_nt_char_953": "clarity_nt_char_953"
   },
   "2821": {
-    "【170P】ちからの盾の回復量+1%": "[170P] Strength Shield Recovery +1%"
+    "【170P】ちからの盾の回復量+1%": "[170P] Power Shield Recovery +1%"
   },
   "2822": {
     "clarity_nt_char_954": "clarity_nt_char_954"
   },
   "2823": {
-    "【180P】ちからの盾の回復量+1%": "[180P] Strength Shield Recovery +1%"
+    "【180P】ちからの盾の回復量+1%": "[180P] Power Shield Recovery +1%"
   },
   "2824": {
     "clarity_nt_char_955": "clarity_nt_char_955"
   },
   "2825": {
-    "【190P】ちからの盾の回復量+1%": "[190P] Strength Shield Recovery +1%"
+    "【190P】ちからの盾の回復量+1%": "[190P] Power Shield Recovery +1%"
   },
   "2826": {
     "clarity_nt_char_956": "clarity_nt_char_956"
   },
   "2827": {
-    "【200P】ちからの盾の回復量+3%": "[200P] Strength Shield Recovery +3%"
+    "【200P】ちからの盾の回復量+3%": "[200P] Power Shield Recovery +3%"
   },
   "2828": {
     "clarity_nt_char_957": "clarity_nt_char_957"
@@ -9912,13 +9912,13 @@
     "極竜打ち+8%": "Wyrm Whip +8%"
   },
   "3305": {
-    "バイキルショット+3%": "Bikill Shot +3%"
+    "バイキルショット+3%": "Oomphlash +3%"
   },
   "3306": {
-    "バイキルショット+5%": "Bikill Shot +5%"
+    "バイキルショット+5%": "Oomphlash +5%"
   },
   "3307": {
-    "バイキルショット+8%": "Bikill Shot +8%"
+    "バイキルショット+8%": "Oomphlash +8%"
   },
   "3308": {
     "悶絶全方打ち+2%": "All Out Aggression+2%"
@@ -10740,7 +10740,7 @@
     "clarity_nt_char_1200": "clarity_nt_char_1200"
   },
   "3581": {
-    "装備時かいふく魔力+20": "Magical Mending+20"
+    "装備時かいふく魔力+20": "Magical Mending +20"
   },
   "3582": {
     "clarity_nt_char_1201": "clarity_nt_char_1201"
@@ -11034,13 +11034,13 @@
     "瀕死時6%で身かわし率+30%": "Dodge +30% At Death 6%"
   },
   "3679": {
-    "ちからの盾の回復量+1%": "Strength Shield Recovery +1%"
+    "ちからの盾の回復量+1%": "Power Shield Recovery +1%"
   },
   "3680": {
     "clarity_nt_char_1235": "clarity_nt_char_1235"
   },
   "3681": {
-    "ちからの盾の回復量+3%": "Strength Shield Recovery +3%"
+    "ちからの盾の回復量+3%": "Power Shield Recovery +3%"
   },
   "3682": {
     "clarity_nt_char_1236": "clarity_nt_char_1236"
@@ -11067,19 +11067,19 @@
     "特技のダメージ+20（専）": "Skill Damage +20 (EX)"
   },
   "3690": {
-    "特技の会心率+0.5%（専）": "Skill Critical Rate +0.5% (EX)"
+    "特技の会心率+0.5%（専）": "Skill Crit.Rate +0.5% (EX)"
   },
   "3691": {
     "clarity_nt_char_1238": "clarity_nt_char_1238"
   },
   "3692": {
-    "特技の会心率+0.8%（専）": "Skill Critical Rate +0.8% (EX)"
+    "特技の会心率+0.8%（専）": "Skill Crit. Rate +0.8% (EX)"
   },
   "3693": {
     "clarity_nt_char_1239": "clarity_nt_char_1239"
   },
   "3694": {
-    "特技の会心率+1.2%（専）": "Skill Critical Rate +1.2% (EX)"
+    "特技の会心率+1.2%（専）": "Skill Crit. Rate +1.2% (EX)"
   },
   "3695": {
     "clarity_nt_char_1240": "clarity_nt_char_1240"
@@ -11106,13 +11106,13 @@
     "身かわし率+1.2%（専）": "Dodge Rate +1.2% (EX)"
   },
   "3703": {
-    "1.5%ターン消費なし（専）": "1.5% Don't Use Turn (EX)"
+    "1.5%ターン消費なし（専）": "Don't Use Turn 1.5% (EX)"
   },
   "3704": {
     "clarity_nt_char_1242": "clarity_nt_char_1242"
   },
   "3705": {
-    "2.0%ターン消費なし（専）": "2% Don't Use Turn (EX)"
+    "2.0%ターン消費なし（専）": "Don't Use Turn 2% (EX)"
   },
   "3706": {
     "clarity_nt_char_1243": "clarity_nt_char_1243"
@@ -12081,13 +12081,13 @@
     "clarity_nt_char_1368": "clarity_nt_char_1368"
   },
   "4028": {
-    "バイキルショットⅠの特技を　おぼえた！": "You learned Bikill Shot I!"
+    "バイキルショットⅠの特技を　おぼえた！": "You learned Oomphlash I!"
   },
   "4029": {
-    "バイキルショットⅡの特技を　おぼえた！": "You learned Bikill Shot II!"
+    "バイキルショットⅡの特技を　おぼえた！": "You learned Oomphlash II!"
   },
   "4030": {
-    "バイキルショットⅢの特技を　おぼえた！": "You learned Bikill Shot Ⅲ!"
+    "バイキルショットⅢの特技を　おぼえた！": "You learned Oomphlash Ⅲ!"
   },
   "4031": {
     "ムチ装備時の　こうげき力が　８　増えた！": "Attack increased by 8 when|equipped with a Whip!"
@@ -12147,7 +12147,7 @@
     "clarity_nt_char_1376": "clarity_nt_char_1376"
   },
   "4050": {
-    "バイキルショットの威力が　あがった！": "Bikill Shot's power increased!"
+    "バイキルショットの威力が　あがった！": "Oomphlash's power increased!"
   },
   "4051": {
     "clarity_nt_char_1377": "clarity_nt_char_1377"
@@ -13023,19 +13023,19 @@
     "clarity_nt_char_1477": "clarity_nt_char_1477"
   },
   "4342": {
-    "ちからの盾Ⅰの特技を　おぼえた！": "You learned Strength Shield I!"
+    "ちからの盾Ⅰの特技を　おぼえた！": "You learned Power Shield I!"
   },
   "4343": {
     "clarity_nt_char_1478": "clarity_nt_char_1478"
   },
   "4344": {
-    "ちからの盾Ⅱの特技を　おぼえた！": "You learned Strength Shield II!"
+    "ちからの盾Ⅱの特技を　おぼえた！": "You learned Power Shield II!"
   },
   "4345": {
     "clarity_nt_char_1479": "clarity_nt_char_1479"
   },
   "4346": {
-    "ちからの盾の回復量が　あがった！": "Strength Shield's recovery increased!"
+    "ちからの盾の回復量が　あがった！": "Power Shield's recovery increased!"
   },
   "4347": {
     "clarity_nt_char_1480": "clarity_nt_char_1480"
@@ -13290,16 +13290,16 @@
     "clarity_nt_char_1497": "clarity_nt_char_1497"
   },
   "4431": {
-    "武闘家時　特技の威力が　５　増えた！": "Skill power increased by 5 as a Martial Artist!"
+    "武闘家時　特技の威力が　５　増えた！": "Skill power increased by 5 as a|Martial Artist!"
   },
   "4432": {
     "clarity_nt_char_1498": "clarity_nt_char_1498"
   },
   "4433": {
-    "武闘家時　特技の威力が　１０　増えた！": "Skill power increased by 10 as a Martial Artist!"
+    "武闘家時　特技の威力が　１０　増えた！": "Skill power increased by 10 as a|Martial Artist!"
   },
   "4434": {
-    "武闘家時　特技の威力が　２０　増えた！": "Skill power increased by 20 as a Martial Artist!"
+    "武闘家時　特技の威力が　２０　増えた！": "Skill power increased by 20 as a|Martial Artist!"
   },
   "4435": {
     "武闘家時　特技を使ったとき|会心のいちげきが　０．５％　出やすくなった！": "Critical hit chance of skills increased by 0.5%|as a Martial Artist!"
@@ -15351,7 +15351,7 @@
     "clarity_nt_char_1755": "clarity_nt_char_1755"
   },
   "5118": {
-    "敵１体に全力で|斬りつけて|自分のＭＰも回復": "Slash one enemy|and recover|your HP."
+    "敵１体に全力で|斬りつけて|自分のＭＰも回復": "Slash one enemy|and recover|your MP."
   },
   "5119": {
     "clarity_nt_char_1756": "clarity_nt_char_1756"
@@ -15537,7 +15537,7 @@
     "ゾンビ系への|ダメージが|３０％増える": "Damage to Zombie|-types increased|by 30%."
   },
   "5180": {
-    "氷の棍で敵１体を|５回攻撃して|氷耐性も下げる": "A 5-hit ice strike|that lowers ice|resistance."
+    "氷の棍で敵１体を|５回攻撃して|氷耐性も下げる": "5-hit ice attack|that lowers|ice resistance."
   },
   "5181": {
     "自身の攻撃力を|あげつつ|敵集団を打ち払う": "Hit close enemies|while increasing|your attack."
@@ -15600,7 +15600,7 @@
     "clarity_nt_char_1781": "clarity_nt_char_1781"
   },
   "5201": {
-    "周囲の敵に|悶絶するほど|全力で叩きつける": "Slam nearby|enemies with all|your might."
+    "周囲の敵に|悶絶するほど|全力で叩きつける": "Slam nearby|enemies, ignoring|their defense."
   },
   "5202": {
     "休み状態の敵に|威力を発揮する|追い打ちの技": "A follow-up|strike good for|resting enemies."
@@ -16299,7 +16299,7 @@
     "clarity_nt_char_1856": "clarity_nt_char_1856"
   },
   "5434": {
-    "一時的に|最大ＨＰをふやす|杖の秘技": "Temporarily|increases your|maximum HP."
+    "一時的に|最大ＨＰをふやす|杖の秘技": "Temporarily|increases your|Maximum HP."
   },
   "5435": {
     "clarity_nt_char_1857": "clarity_nt_char_1857"
@@ -16611,7 +16611,7 @@
     "戦士時|テンションを|３％の確率で維持": "3% chance to not|use tension as a|Warrior."
   },
   "5538": {
-    "仲間ひとりの|ＨＰを|大幅に回復する": "Greatly recover|an ally's HP."
+    "仲間ひとりの|ＨＰを|大幅に回復する": "Restores|significant HP|to a single ally."
   },
   "5539": {
     "clarity_nt_char_1892": "clarity_nt_char_1892"
@@ -17838,7 +17838,7 @@
     "clarity_nt_char_2034": "clarity_nt_char_2034"
   },
   "5947": {
-    "地をゆるがす炎で|直線上にいる敵を|焼きつくす": "Burns enemies in|a straight line|with fire."
+    "地をゆるがす炎で|直線上にいる敵を|焼きつくす": "Destroy enemies|in a straight|line with fire."
   },
   "5948": {
     "ＳＳＳのタロット|を手札に移動する|占い師専用特技": "Places an SSS|Tarot into your|hand."
@@ -18696,7 +18696,7 @@
     "豪雪氷結乱撃の強化": "Heavy Ice Storm Boost"
   },
   "6233": {
-    "バイキルショット": "Bikill Shot"
+    "バイキルショット": "Oomphlash"
   },
   "6234": {
     "clarity_nt_char_2136": "clarity_nt_char_2136"
@@ -18735,7 +18735,7 @@
     "極竜打ちの強化": "Wyrm Whip Boost"
   },
   "6246": {
-    "バイキルショットの強化": "Bikill Shot Boost"
+    "バイキルショットの強化": "Oomphlash Boost"
   },
   "6247": {
     "悶絶全方打ち": "All Out Aggression"
@@ -19230,10 +19230,10 @@
     "瀕死時身かわし率アップ": "Dodge Rate Up On Death"
   },
   "6411": {
-    "ちからの盾": "Strength Shield"
+    "ちからの盾": "Power Shield"
   },
   "6412": {
-    "ちからの盾の回復量": "Strength Shield Recovery"
+    "ちからの盾の回復量": "Power Shield Recovery"
   },
   "6413": {
     "ロストブレイク": "Lost Break"
@@ -19500,19 +19500,19 @@
     "おどり200Pにする（専）": "200P Dance skill. (EX)"
   },
   "6501": {
-    "おどりのスキルポイントが　１６０Ｐまで増えた！": "Dance skill has increased to 160P!"
+    "おどりのスキルポイントが　１６０Ｐまで増えた！": "Dance skill points have increased up to 160P!"
   },
   "6502": {
-    "おどりのスキルポイントが　１７０Ｐまで増えた！": "Dance skill has increased to 170P!"
+    "おどりのスキルポイントが　１７０Ｐまで増えた！": "Dance skill points have increased up to 170P!"
   },
   "6503": {
-    "おどりのスキルポイントが　１８０Ｐまで増えた！": "Dance skill has increased to 180P!"
+    "おどりのスキルポイントが　１８０Ｐまで増えた！": "Dance skill points have increased up to 180P!"
   },
   "6504": {
-    "おどりのスキルポイントが　１９０Ｐまで増えた！": "Dance skill has increased to 190P!"
+    "おどりのスキルポイントが　１９０Ｐまで増えた！": "Dance skill points have increased up to 190P!"
   },
   "6505": {
-    "おどりのスキルポイントが　２００Ｐまで増えた！": "Dance skill has increased to 200P!"
+    "おどりのスキルポイントが　２００Ｐまで増えた！": "Dance skill points have increased up to 200P!"
   },
   "6506": {
     "踊り子時|おどりポイントを|１６０Ｐまで獲得": "Earn up to 160P|in Dance|as a Dancer."
@@ -19545,7 +19545,7 @@
     "clarity_nt_char_2235": "clarity_nt_char_2235"
   },
   "6516": {
-    "おどりのポイント獲得": ""
+    "おどりのポイント獲得": "Earned Dance Points"
   },
   "6517": {
     "clarity_nt_char_2236": "clarity_nt_char_2236"
@@ -19623,31 +19623,31 @@
     "clarity_nt_char_2243": "clarity_nt_char_2243"
   },
   "6542": {
-    "うた160Pにする（専）": ""
+    "うた160Pにする（専）": "160P Into Song (EX)"
   },
   "6543": {
     "clarity_nt_char_2244": "clarity_nt_char_2244"
   },
   "6544": {
-    "うた170Pにする（専）": ""
+    "うた170Pにする（専）": "170P Into Song (EX)"
   },
   "6545": {
     "clarity_nt_char_2245": "clarity_nt_char_2245"
   },
   "6546": {
-    "うた180Pにする（専）": ""
+    "うた180Pにする（専）": "180P Into Song (EX)"
   },
   "6547": {
     "clarity_nt_char_2246": "clarity_nt_char_2246"
   },
   "6548": {
-    "うた190Pにする（専）": ""
+    "うた190Pにする（専）": "190P Into Song (EX)"
   },
   "6549": {
     "clarity_nt_char_2247": "clarity_nt_char_2247"
   },
   "6550": {
-    "うた200Pにする（専）": ""
+    "うた200Pにする（専）": "200P Into Song (EX)"
   },
   "6551": {
     "clarity_nt_char_2248": "clarity_nt_char_2248"
@@ -19662,31 +19662,31 @@
     "clarity_nt_char_2249": "clarity_nt_char_2249"
   },
   "6555": {
-    "うたのスキルポイントが　１６０Ｐまで増えた！": ""
+    "うたのスキルポイントが　１６０Ｐまで増えた！": "Song skill points have increased up to 160P!"
   },
   "6556": {
     "clarity_nt_char_2250": "clarity_nt_char_2250"
   },
   "6557": {
-    "うたのスキルポイントが　１７０Ｐまで増えた！": ""
+    "うたのスキルポイントが　１７０Ｐまで増えた！": "Song skill points have increased up to 170P!"
   },
   "6558": {
     "clarity_nt_char_2251": "clarity_nt_char_2251"
   },
   "6559": {
-    "うたのスキルポイントが　１８０Ｐまで増えた！": ""
+    "うたのスキルポイントが　１８０Ｐまで増えた！": "Song skill points have increased up to 180P!"
   },
   "6560": {
     "clarity_nt_char_2252": "clarity_nt_char_2252"
   },
   "6561": {
-    "うたのスキルポイントが　１９０Ｐまで増えた！": ""
+    "うたのスキルポイントが　１９０Ｐまで増えた！": "Song skill points have increased up to 190P!"
   },
   "6562": {
     "clarity_nt_char_2253": "clarity_nt_char_2253"
   },
   "6563": {
-    "うたのスキルポイントが　２００Ｐまで増えた！": ""
+    "うたのスキルポイントが　２００Ｐまで増えた！": "Song skill points have increased up to 200P!"
   },
   "6564": {
     "clarity_nt_char_2254": "clarity_nt_char_2254"
@@ -19701,31 +19701,31 @@
     "clarity_nt_char_2255": "clarity_nt_char_2255"
   },
   "6568": {
-    "踊り子時|うたのポイントを|１６０Ｐまで獲得": ""
+    "踊り子時|うたのポイントを|１６０Ｐまで獲得": "Earn up to 160P|in Song|as a Dancer."
   },
   "6569": {
     "clarity_nt_char_2256": "clarity_nt_char_2256"
   },
   "6570": {
-    "踊り子時|うたのポイントを|１７０Ｐまで獲得": ""
+    "踊り子時|うたのポイントを|１７０Ｐまで獲得": "Earn up to 170P|in Song|as a Dancer."
   },
   "6571": {
     "clarity_nt_char_2257": "clarity_nt_char_2257"
   },
   "6572": {
-    "踊り子時|うたのポイントを|１８０Ｐまで獲得": ""
+    "踊り子時|うたのポイントを|１８０Ｐまで獲得": "Earn up to 180P|in Song|as a Dancer."
   },
   "6573": {
     "clarity_nt_char_2258": "clarity_nt_char_2258"
   },
   "6574": {
-    "踊り子時|うたのポイントを|１９０Ｐまで獲得": ""
+    "踊り子時|うたのポイントを|１９０Ｐまで獲得": "Earn up to 190P|in Song|as a Dancer."
   },
   "6575": {
     "clarity_nt_char_2259": "clarity_nt_char_2259"
   },
   "6576": {
-    "踊り子時|うたのポイントを|２００Ｐまで獲得": ""
+    "踊り子時|うたのポイントを|２００Ｐまで獲得": "Earn up to 200P|in Song|as a Dancer."
   },
   "6577": {
     "clarity_nt_char_2260": "clarity_nt_char_2260"
@@ -19740,7 +19740,7 @@
     "よろいが装備できる": "Heavy Armor Expertise"
   },
   "6581": {
-    "うたのポイント獲得": ""
+    "うたのポイント獲得": "Earned Song Points"
   },
   "6582": {
     "打成一片Ⅰ": "Become One I"
@@ -20559,19 +20559,19 @@
     "clarity_nt_char_2356": "clarity_nt_char_2356"
   },
   "6854": {
-    "【170P】75%で不滅のどうぐ範囲化術": ""
+    "【170P】75%で不滅のどうぐ範囲化術": "[170P] Keep Item Range Tech 75%"
   },
   "6855": {
     "clarity_nt_char_2357": "clarity_nt_char_2357"
   },
   "6856": {
-    "【180P】100%で不滅のどうぐ範囲化術": ""
+    "【180P】100%で不滅のどうぐ範囲化術": "[180P] Keep Item Range Tech 100%"
   },
   "6857": {
-    "【190P】100%で不滅のどうぐ範囲化術": ""
+    "【190P】100%で不滅のどうぐ範囲化術": "[190P] Keep Item Range Tech 100%"
   },
   "6858": {
-    "【200P】100%で不滅のどうぐ範囲化術": ""
+    "【200P】100%で不滅のどうぐ範囲化術": "[200P] Keep Item Range Tech 100%"
   },
   "6859": {
     "復活時25%早詠みの杖（専）": "Faster Caster On Revival 25% (EX)"
@@ -20670,19 +20670,19 @@
     "clarity_nt_char_2368": "clarity_nt_char_2368"
   },
   "6891": {
-    "50%不滅の道具範囲化（専）": ""
+    "50%不滅の道具範囲化（専）": "Keep Item Range Tech 50% (EX)"
   },
   "6892": {
     "clarity_nt_char_2369": "clarity_nt_char_2369"
   },
   "6893": {
-    "75%不滅の道具範囲化（専）": ""
+    "75%不滅の道具範囲化（専）": "Keep Item Range Tech 75% (EX)"
   },
   "6894": {
     "clarity_nt_char_2370": "clarity_nt_char_2370"
   },
   "6895": {
-    "100%不滅の道具範囲化（専）": ""
+    "100%不滅の道具範囲化（専）": "Keep Item Range Tech 100% (EX)"
   },
   "6896": {
     "僧侶時　自分が復活時に|早詠みの杖が　かかりやすくなった！": "It's now easier to gain Faster Caster when|revived as a Priest!"
@@ -20874,7 +20874,7 @@
     "clarity_nt_char_2393": "clarity_nt_char_2393"
   },
   "6959": {
-    "不滅のどうぐ範囲化術": ""
+    "不滅のどうぐ範囲化術": "Keep Item Range Tech"
   },
   "6960": {
     "clarity_nt_char_2394": "clarity_nt_char_2394"
@@ -20883,10 +20883,10 @@
     "【160P】ヒャド系呪文+3%": "Crack-type damage +3%"
   },
   "6962": {
-    "【170P】ヒャド系呪文+3%": ""
+    "【170P】ヒャド系呪文+3%": "[170P] Crack-type Spells +3%"
   },
   "6963": {
-    "【200P】ヒャド系呪文+5%": ""
+    "【200P】ヒャド系呪文+5%": "[200P] Crack-type Spells +5%"
   },
   "6964": {
     "【160P】イオ系呪文+3%": "[160P] Bang-type damage +3%"
@@ -20895,52 +20895,52 @@
     "clarity_nt_char_2395": "clarity_nt_char_2395"
   },
   "6966": {
-    "【170P】イオ系呪文+3%": ""
+    "【170P】イオ系呪文+3%": "[170P] Bang-type Spells +3%"
   },
   "6967": {
     "clarity_nt_char_2396": "clarity_nt_char_2396"
   },
   "6968": {
-    "【200P】イオ系呪文+5%": ""
+    "【200P】イオ系呪文+5%": "[200P] Bang-type Spells +5%"
   },
   "6969": {
     "clarity_nt_char_2397": "clarity_nt_char_2397"
   },
   "6970": {
-    "ヒャド系呪文+3%（専）": ""
+    "ヒャド系呪文+3%（専）": "Crack-type Spells +3% (EX)"
   },
   "6971": {
     "clarity_nt_char_2398": "clarity_nt_char_2398"
   },
   "6972": {
-    "【170P】みのまもり+20": ""
+    "【170P】みのまもり+20": "[170P] Resilience +20"
   },
   "6973": {
     "clarity_nt_char_2399": "clarity_nt_char_2399"
   },
   "6974": {
-    "ヒャド系呪文+5%（専）": ""
+    "ヒャド系呪文+5%（専）": "Crack-type Spells +5% (EX)"
   },
   "6975": {
     "clarity_nt_char_2400": "clarity_nt_char_2400"
   },
   "6976": {
-    "イオ系呪文+3%（専）": ""
+    "イオ系呪文+3%（専）": "Bang-type Spells +3% (EX)"
   },
   "6977": {
-    "イオ系呪文+5%（専）": ""
+    "イオ系呪文+5%（専）": "Bang-type Spells +5% (EX)"
   },
   "6978": {
-    "魔法使い時　ヒャド系呪文の威力が　あがった！": ""
+    "魔法使い時　ヒャド系呪文の威力が　あがった！": "Crack-type spell power increased as a Mage!"
   },
   "6979": {
     "clarity_nt_char_2401": "clarity_nt_char_2401"
   },
   "6980": {
-    "魔法使い時　イオ系呪文の威力が　あがった！": ""
+    "魔法使い時　イオ系呪文の威力が　あがった！": "Bang-type spell power increased as a Mage!"
   },
   "6981": {
-    "【180P】みのまもり+30": ""
+    "【180P】みのまもり+30": "[180P] Resilience +30"
   },
   "6982": {
     "clarity_nt_char_2402": "clarity_nt_char_2402"
@@ -20952,46 +20952,46 @@
     "魔法使い時|ダメージが|５％増える": "Damage +5%|when you're a|Mage."
   },
   "6985": {
-    "パラディン時　おもさが　５　増えた！": ""
+    "パラディン時　おもさが　５　増えた！": "Weight increased by 5 as a Paladin!"
   },
   "6986": {
     "clarity_nt_char_2403": "clarity_nt_char_2403"
   },
   "6987": {
-    "パラディン時　おもさが　８　増えた！": ""
+    "パラディン時　おもさが　８　増えた！": "Weight increased by 8 as a Paladin!"
   },
   "6988": {
     "clarity_nt_char_2404": "clarity_nt_char_2404"
   },
   "6989": {
-    "パラディン時　おもさが　１０　増えた！": ""
+    "パラディン時　おもさが　１０　増えた！": "Weight increased by 10 as a Paladin!"
   },
   "6990": {
-    "戦士時|おもさが|５増える": ""
+    "戦士時|おもさが|５増える": "Weight +5|when you're|a Warrior."
   },
   "6991": {
-    "戦士時|おもさが|８増える": ""
+    "戦士時|おもさが|８増える": "Weight +8|when you're|a Warrior."
   },
   "6992": {
-    "戦士時|おもさが|１０増える": ""
+    "戦士時|おもさが|１０増える": "Weight +10|when you're|a Warrior."
   },
   "6993": {
     "clarity_nt_char_2405": "clarity_nt_char_2405"
   },
   "6994": {
-    "パラディン時|おもさが|５増える": ""
+    "パラディン時|おもさが|５増える": "Weight +5|when you're|a Paladin."
   },
   "6995": {
     "clarity_nt_char_2406": "clarity_nt_char_2406"
   },
   "6996": {
-    "パラディン時|おもさが|８増える": ""
+    "パラディン時|おもさが|８増える": "Weight +8|when you're|a Paladin."
   },
   "6997": {
     "clarity_nt_char_2407": "clarity_nt_char_2407"
   },
   "6998": {
-    "パラディン時|おもさが|１０増える": ""
+    "パラディン時|おもさが|１０増える": "Weight +10|when you're|a Paladin."
   },
   "6999": {
     "おもさ": "Weight"
@@ -21009,79 +21009,79 @@
     "clarity_nt_char_2409": "clarity_nt_char_2409"
   },
   "7004": {
-    "【160P】根絶やしの重撃+1%": ""
+    "【160P】根絶やしの重撃+1%": "[160P] Eradication Blow +1%"
   },
   "7005": {
     "clarity_nt_char_2410": "clarity_nt_char_2410"
   },
   "7006": {
-    "【170P】根絶やしの重撃+1%": ""
+    "【170P】根絶やしの重撃+1%": "[170P] Eradication Blow +1%"
   },
   "7007": {
     "clarity_nt_char_2411": "clarity_nt_char_2411"
   },
   "7008": {
-    "【180P】根絶やしの重撃+1%": ""
+    "【180P】根絶やしの重撃+1%": "[180P] Eradication Blow +1%"
   },
   "7009": {
     "clarity_nt_char_2412": "clarity_nt_char_2412"
   },
   "7010": {
-    "【190P】根絶やしの重撃+1%": ""
+    "【190P】根絶やしの重撃+1%": "[190P] Eradication Blow +1%"
   },
   "7011": {
     "clarity_nt_char_2413": "clarity_nt_char_2413"
   },
   "7012": {
-    "【200P】根絶やしの重撃+2%": ""
+    "【200P】根絶やしの重撃+2%": "[200P] Eradication Blow +2%"
   },
   "7013": {
     "clarity_nt_char_2414": "clarity_nt_char_2414"
   },
   "7014": {
-    "【190P】みのまもり+30": ""
+    "【190P】みのまもり+30": "[190P] Resilience +30"
   },
   "7015": {
     "clarity_nt_char_2415": "clarity_nt_char_2415"
   },
   "7016": {
-    "根絶やしの重撃+1%": ""
+    "根絶やしの重撃+1%": "Eradication Blow +1%"
   },
   "7017": {
     "clarity_nt_char_2416": "clarity_nt_char_2416"
   },
   "7018": {
-    "根絶やしの重撃+2%": ""
+    "根絶やしの重撃+2%": "Eradication Blow +2%"
   },
   "7019": {
     "clarity_nt_char_2417": "clarity_nt_char_2417"
   },
   "7020": {
-    "根絶やしの重撃Ⅰの特技を　おぼえた！": ""
+    "根絶やしの重撃Ⅰの特技を　おぼえた！": "You learned Eradication Blow I!"
   },
   "7021": {
     "clarity_nt_char_2418": "clarity_nt_char_2418"
   },
   "7022": {
-    "【200P】みのまもり+30": ""
+    "【200P】みのまもり+30": "[200P] Resilience +30"
   },
   "7023": {
     "clarity_nt_char_2419": "clarity_nt_char_2419"
   },
   "7024": {
-    "根絶やしの重撃Ⅱの特技を　おぼえた！": ""
+    "根絶やしの重撃Ⅱの特技を　おぼえた！": "You learned Eradication Blow II!"
   },
   "7025": {
     "clarity_nt_char_2420": "clarity_nt_char_2420"
   },
   "7026": {
-    "鉄甲斬・改": "Scrap Axe Kai"
+    "鉄甲斬・改": "Scrap Mettle"
   },
   "7027": {
-    "攻撃時15％で魔力低下": ""
+    "攻撃時15％で魔力低下": "Spell Resist Down Attack 15%"
   },
   "7028": {
-    "攻撃時5％で与ダメ低下": ""
+    "攻撃時5％で与ダメ低下": "Damage Dealt Down Attack 5%"
   },
   "7029": {
     "戦闘勝利時ＭＰ大回復": "Large MP Recovery After Battle"
@@ -21090,10 +21090,10 @@
     "clarity_nt_char_2421": "clarity_nt_char_2421"
   },
   "7031": {
-    "ＭＰ消費しない率+2%": ""
+    "ＭＰ消費しない率+2%": "Don't Use MP Rate +2%"
   },
   "7032": {
-    "装備時呪文暴走率+1%": ""
+    "装備時呪文暴走率+1%": "Haywire Rate +1%"
   },
   "7033": {
     "シャインステッキ": "Shine Stick"
@@ -21102,7 +21102,7 @@
     "clarity_nt_char_2422": "clarity_nt_char_2422"
   },
   "7035": {
-    "1.0%ターン消費なし": "1% Don't Use Turn"
+    "1.0%ターン消費なし": "Don't Use Turn 1%"
   },
   "7036": {
     "装備時さいだいＭＰ+60": "MP +60"
@@ -21111,19 +21111,19 @@
     "clarity_nt_char_2423": "clarity_nt_char_2423"
   },
   "7038": {
-    "装備時呪文発動速度+3%": ""
+    "装備時呪文発動速度+3%": "Spell Cast Speed +3%"
   },
   "7039": {
     "clarity_nt_char_2424": "clarity_nt_char_2424"
   },
   "7040": {
-    "行動時5%移動速度アップ": ""
+    "行動時5%移動速度アップ": "Move Speed Up On Action 5%"
   },
   "7041": {
     "clarity_nt_char_2425": "clarity_nt_char_2425"
   },
   "7042": {
-    "装備時チャージ時間-10秒": ""
+    "装備時チャージ時間-10秒": "Charge Time -10 sec."
   },
   "7043": {
     "装備時かいしん率+6%": "Critical Rate +5%"
@@ -21132,28 +21132,28 @@
     "装備時特技の射程距離+2m": "Range +2m"
   },
   "7045": {
-    "装備時特技ダメージ+150": ""
+    "装備時特技ダメージ+150": "Skill Damage +150"
   },
   "7046": {
-    "根絶やしの重撃の威力が　あがった！": ""
+    "根絶やしの重撃の威力が　あがった！": "Eradication Blow's power increased!"
   },
   "7047": {
     "オノ装備時の　こうげき力が　３０　増えた！": "Attack increased by 30 when|equipped with an Axe!"
   },
   "7048": {
-    "鉄甲斬・改の特技を　おぼえた！": ""
+    "鉄甲斬・改の特技を　おぼえた！": "You learned Scrap Mettle!"
   },
   "7049": {
-    "攻撃時　たまに相手の|魔力を下げられるようになった！": ""
+    "攻撃時　たまに相手の|魔力を下げられるようになった！": "You will now sometimes lower enemy spell|resistance on an attack!"
   },
   "7050": {
     "clarity_nt_char_2426": "clarity_nt_char_2426"
   },
   "7051": {
-    "攻撃時　たまに相手の|与ダメージを下げられるようになった！": ""
+    "攻撃時　たまに相手の|与ダメージを下げられるようになった！": "You will now sometimes lower the enemy's|damage dealt when attacking!"
   },
   "7052": {
-    "スティック装備時に|２％の確率で　ＭＰを消費しなくなった！": ""
+    "スティック装備時に|２％の確率で　ＭＰを消費しなくなった！": "You now have a 2% chance to not use MP|when equipped with a Wand!"
   },
   "7053": {
     "シャインステッキの特技を　おぼえた！": "You learned Shine Stick!"
@@ -21171,13 +21171,13 @@
     "スティック装備時の|さいだいＭＰが　６０　増えた！": "Max MP increased by 60 when|equipped with a Wand!"
   },
   "7058": {
-    "スティック装備時　呪文発動速度が　早くなった！": ""
+    "スティック装備時　呪文発動速度が　早くなった！": "Spellcasting speed increased when equipped|with a Wand!"
   },
   "7059": {
-    "行動時　５％の確率で|移動速度が　あがるようになった！": ""
+    "行動時　５％の確率で|移動速度が　あがるようになった！": "You now have a 5% chance to increase movement|speed after using an action!"
   },
   "7060": {
-    "スティック装備時の　チャージ時間が|１０秒　短縮されるようになった！": ""
+    "スティック装備時の　チャージ時間が|１０秒　短縮されるようになった！": "Charge time reduced by 10 seconds when|equipped with a Wand!"
   },
   "7061": {
     "clarity_nt_char_2429": "clarity_nt_char_2429"
@@ -21189,13 +21189,13 @@
     "ムチ装備時の　こうげき力が　３０　増えた！": "Attack increased by 30 when|equipped with a Whip!"
   },
   "7064": {
-    "ムチ装備時の　特技が少し遠くから|当たるようになった！": ""
+    "ムチ装備時の　特技が少し遠くから|当たるようになった！": "The range of your Whip skills has slightly|increased!"
   },
   "7065": {
-    "ムチ装備時の|行動間隔が　短くなった！": ""
+    "ムチ装備時の|行動間隔が　短くなった！": "Action wait time is shorter when|equipped with a Whip!"
   },
   "7066": {
-    "ムチ装備時の　チャージ時間が|１０秒　短縮されるようになった！": ""
+    "ムチ装備時の　チャージ時間が|１０秒　短縮されるようになった！": "Charge time is reduced by 10 seconds when|equipped with a Whip!"
   },
   "7067": {
     "ムチ装備時の　特技のダメージが|１５０　増えるようになった！": "Skill damage dealt with a Whip|equipped increased by 150!"
@@ -21213,37 +21213,37 @@
     "clarity_nt_char_2431": "clarity_nt_char_2431"
   },
   "7072": {
-    "かえん斬りの特技を　おぼえた！": ""
+    "かえん斬りの特技を　おぼえた！": "You learned Flame Slash!"
   },
   "7073": {
-    "ブレードガードの特技を　おぼえた！": ""
+    "ブレードガードの特技を　おぼえた！": "You learned Greatsword Guard!"
   },
   "7074": {
-    "スティック装備で戦闘に勝つと|ＭＰが大回復するようになった！": ""
+    "スティック装備で戦闘に勝つと|ＭＰが大回復するようになった！": "You will now recover a lot of MP after|battle when equipped with a Wand!"
   },
   "7075": {
     "clarity_nt_char_2432": "clarity_nt_char_2432"
   },
   "7076": {
-    "両手杖での攻撃時に　吸収できるＭＰが　増えた！": ""
+    "両手杖での攻撃時に　吸収できるＭＰが　増えた！": "MP absorbed when attacking with a Staff|increased!"
   },
   "7077": {
     "ヴェレの呪文を　おぼえた！": "You learned Tox!"
   },
   "7078": {
-    "らせん打ちの特技を　おぼえた！": ""
+    "らせん打ちの特技を　おぼえた！": "You learned Hypnowhip!"
   },
   "7079": {
-    "ウィングブロウの特技を　おぼえた！": ""
+    "ウィングブロウの特技を　おぼえた！": "You learned Propeller Blade!"
   },
   "7080": {
-    "キラーブーンの特技を　おぼえた！": ""
+    "キラーブーンの特技を　おぼえた！": "You learned Fly Swat!"
   },
   "7081": {
     "clarity_nt_char_2433": "clarity_nt_char_2433"
   },
   "7082": {
-    "ウェイトブレイクの特技を　おぼえた！": ""
+    "ウェイトブレイクの特技を　おぼえた！": "You learned Weight Break!"
   },
   "7083": {
     "clarity_nt_char_2434": "clarity_nt_char_2434"
@@ -21252,58 +21252,58 @@
     "スライムブロウの特技を　おぼえた！": "You learned Ooze Bruiser!"
   },
   "7085": {
-    "スティックでの攻撃時に|吸収できるＭＰが　増えた！": ""
+    "スティックでの攻撃時に|吸収できるＭＰが　増えた！": "MP absorbed when attacking with a Wand|increased!"
   },
   "7086": {
-    "【160P】鉄甲斬・改+6%": ""
+    "【160P】鉄甲斬・改+6%": "[160P] Scrap Mettle +6%"
   },
   "7087": {
     "clarity_nt_char_2435": "clarity_nt_char_2435"
   },
   "7088": {
-    "【170P】鉄甲斬・改+8%": ""
+    "【170P】鉄甲斬・改+8%": "[170P] Scrap Mettle +8%"
   },
   "7089": {
     "clarity_nt_char_2436": "clarity_nt_char_2436"
   },
   "7090": {
-    "【180P】鉄甲斬・改+10%": ""
+    "【180P】鉄甲斬・改+10%": "[180P] Scrap Mettle +10%"
   },
   "7091": {
-    "【190P】鉄甲斬・改+10%": ""
+    "【190P】鉄甲斬・改+10%": "[190P] Scrap Mettle +10%"
   },
   "7092": {
-    "【200P】鉄甲斬・改+10%": ""
+    "【200P】鉄甲斬・改+10%": "[200P] Scrap Mettle +10%"
   },
   "7093": {
-    "扇装備時　呪文発動速度が　早くなった！": ""
+    "扇装備時　呪文発動速度が　早くなった！": "Spellcasting speed increased when|equipped with a Fan!"
   },
   "7094": {
-    "血吸いの守りの特技を　おぼえた！": ""
+    "血吸いの守りの特技を　おぼえた！": "You learned Siphon Guard!"
   },
   "7095": {
     "clarity_nt_char_2437": "clarity_nt_char_2437"
   },
   "7096": {
-    "スティック装備時に|４％の確率で　ＭＰを消費しなくなった！": ""
+    "スティック装備時に|４％の確率で　ＭＰを消費しなくなった！": "You now have a 4% chance to not use MP|when equipped with a Wand!"
   },
   "7097": {
-    "鉄甲斬・改+6%": ""
+    "鉄甲斬・改+6%": "Scrap Mettle +6%"
   },
   "7098": {
     "clarity_nt_char_2438": "clarity_nt_char_2438"
   },
   "7099": {
-    "鉄甲斬・改+8%": ""
+    "鉄甲斬・改+8%": "Scrap Mettle +8%"
   },
   "7100": {
     "clarity_nt_char_2439": "clarity_nt_char_2439"
   },
   "7101": {
-    "鉄甲斬・改+10%": ""
+    "鉄甲斬・改+10%": "Scrap Mettle +10%"
   },
   "7102": {
-    "鉄甲斬・改の威力が　あがった！": ""
+    "鉄甲斬・改の威力が　あがった！": "Scrap Mettle's power increased!"
   },
   "7103": {
     "闇のヴェール（専）": "Dark Veil"
@@ -21342,7 +21342,7 @@
     "錬魔の秘法": "Demonic Method"
   },
   "7115": {
-    "爪牙の陣の特技を　おぼえた！": ""
+    "爪牙の陣の特技を　おぼえた！": "You learned Sap Circle!"
   },
   "7116": {
     "clarity_nt_char_2443": "clarity_nt_char_2443"
@@ -21354,37 +21354,37 @@
     "鎌装備時に　闇攻撃ダメージが　５％増えた！": "Dark attack damage with a Sickle|equipped increased by 5%!"
   },
   "7119": {
-    "鉄甲斬・改の強化": "Scrap Axe Kai Boost"
+    "鉄甲斬・改の強化": "Scrap Mettle Boost"
   },
   "7120": {
     "clarity_nt_char_2444": "clarity_nt_char_2444"
   },
   "7121": {
-    "死霊覚醒術Ⅰ": ""
+    "死霊覚醒術Ⅰ": "Awaken Spirit I"
   },
   "7122": {
     "clarity_nt_char_2445": "clarity_nt_char_2445"
   },
   "7123": {
-    "死霊覚醒術Ⅱ": ""
+    "死霊覚醒術Ⅱ": "Awaken Spirit II"
   },
   "7124": {
     "clarity_nt_char_2446": "clarity_nt_char_2446"
   },
   "7125": {
-    "【180P】復活時25%で聖なる祈り": ""
+    "【180P】復活時25%で聖なる祈り": "[180P] Care Prayer On Revival 25%"
   },
   "7126": {
     "clarity_nt_char_2447": "clarity_nt_char_2447"
   },
   "7127": {
-    "【190P】復活時50%で聖なる祈り": ""
+    "【190P】復活時50%で聖なる祈り": "[190P] Care Prayer On Revival 50%"
   },
   "7128": {
     "clarity_nt_char_2448": "clarity_nt_char_2448"
   },
   "7129": {
-    "【200P】復活時75%で聖なる祈り": ""
+    "【200P】復活時75%で聖なる祈り": "[200P] Care Prayer On Revival 75%"
   },
   "7130": {
     "clarity_nt_char_2449": "clarity_nt_char_2449"
@@ -21396,31 +21396,31 @@
     "clarity_nt_char_2450": "clarity_nt_char_2450"
   },
   "7133": {
-    "【170P】メラ系呪文+3%": ""
+    "【170P】メラ系呪文+3%": "[170P] Frizz-type Spells +3%"
   },
   "7134": {
     "clarity_nt_char_2451": "clarity_nt_char_2451"
   },
   "7135": {
-    "【200P】メラ系呪文+5%": ""
+    "【200P】メラ系呪文+5%": "[200P] Frizz-type Spells +3%"
   },
   "7136": {
     "clarity_nt_char_2452": "clarity_nt_char_2452"
   },
   "7137": {
-    "【160P】打成一片+2%": ""
+    "【160P】打成一片+2%": "[160P] Become One +2%"
   },
   "7138": {
-    "【170P】打成一片+2%": ""
+    "【170P】打成一片+2%": "[170P] Become One +2%"
   },
   "7139": {
-    "【180P】打成一片+2%": ""
+    "【180P】打成一片+2%": "[180P] Become One +2%"
   },
   "7140": {
-    "【190P】打成一片+2%": ""
+    "【190P】打成一片+2%": "[190P] Become One +2%"
   },
   "7141": {
-    "【200P】打成一片+5%": ""
+    "【200P】打成一片+5%": "[200P] Become One +5%"
   },
   "7142": {
     "【160P】ネバネバ爆弾の射程強化+1m": "[160P] Sticky Bomb range +1m"
@@ -21429,25 +21429,25 @@
     "clarity_nt_char_2453": "clarity_nt_char_2453"
   },
   "7144": {
-    "【170P】ネバネバ爆弾の射程強化+1m": ""
+    "【170P】ネバネバ爆弾の射程強化+1m": "[170P] Sticky Bomb Range +1m"
   },
   "7145": {
     "clarity_nt_char_2454": "clarity_nt_char_2454"
   },
   "7146": {
-    "【180P】ネバネバ爆弾の射程強化+1m": ""
+    "【180P】ネバネバ爆弾の射程強化+1m": "[180P] Sticky Bomb Range +1m"
   },
   "7147": {
     "clarity_nt_char_2455": "clarity_nt_char_2455"
   },
   "7148": {
-    "【190P】ネバネバ爆弾の射程強化+1m": ""
+    "【190P】ネバネバ爆弾の射程強化+1m": "[190P] Sticky Bomb Range +1m"
   },
   "7149": {
     "clarity_nt_char_2456": "clarity_nt_char_2456"
   },
   "7150": {
-    "【200P】ネバネバ爆弾の射程強化+2m": ""
+    "【200P】ネバネバ爆弾の射程強化+2m": "[200P] Sticky Bomb Range +2m"
   },
   "7151": {
     "clarity_nt_char_2457": "clarity_nt_char_2457"
@@ -21456,58 +21456,58 @@
     "【160P】カウンター発動率+2%": "[160P] Counterattack Rate +2%"
   },
   "7153": {
-    "【170P】カウンター発動率+3%": ""
+    "【170P】カウンター発動率+3%": "[170P] Counterattack Rate +3%"
   },
   "7154": {
-    "【180P】カウンター発動率+5%": ""
+    "【180P】カウンター発動率+5%": "[180P] Counterattack Rate +5%"
   },
   "7155": {
-    "【190P】カウンター発動率+5%": ""
+    "【190P】カウンター発動率+5%": "[190P] Counterattack Rate +3%"
   },
   "7156": {
-    "【200P】カウンター発動率+5%": ""
+    "【200P】カウンター発動率+5%": "[200P] Counterattack Rate +5%"
   },
   "7157": {
-    "【160P】古今無双+1%": ""
+    "【160P】古今無双+1%": "[160P] Kokon Musou +1%"
   },
   "7158": {
-    "【170P】古今無双+1%": ""
+    "【170P】古今無双+1%": "[170P] Kokon Musou +1%"
   },
   "7159": {
-    "【180P】古今無双+1%": ""
+    "【180P】古今無双+1%": "[180P] Kokon Musou +1%"
   },
   "7160": {
-    "【190P】古今無双+1%": ""
+    "【190P】古今無双+1%": "[190P] Kokon Musou +1%"
   },
   "7161": {
-    "【200P】古今無双+2%": ""
+    "【200P】古今無双+2%": "[200P] Kokon Musou +1%"
   },
   "7162": {
-    "【160P】紅蓮蝶のきりの範囲+1m": ""
+    "【160P】紅蓮蝶のきりの範囲+1m": "[160P] Crimson Fog Range +1m"
   },
   "7163": {
     "clarity_nt_char_2458": "clarity_nt_char_2458"
   },
   "7164": {
-    "【170P】紅蓮蝶のきりの範囲+1m": ""
+    "【170P】紅蓮蝶のきりの範囲+1m": "[170P] Crimson Fog Range +1m"
   },
   "7165": {
     "clarity_nt_char_2459": "clarity_nt_char_2459"
   },
   "7166": {
-    "【180P】紅蓮蝶のきりの範囲+1m": ""
+    "【180P】紅蓮蝶のきりの範囲+1m": "[180P] Crimson Fog Range +1m"
   },
   "7167": {
     "clarity_nt_char_2460": "clarity_nt_char_2460"
   },
   "7168": {
-    "【190P】紅蓮蝶のきりの範囲+1m": ""
+    "【190P】紅蓮蝶のきりの範囲+1m": "[190P] Crimson Fog Range +1m"
   },
   "7169": {
     "clarity_nt_char_2461": "clarity_nt_char_2461"
   },
   "7170": {
-    "【200P】紅蓮蝶のきりの範囲+2m": ""
+    "【200P】紅蓮蝶のきりの範囲+2m": "[200P] Crimson Fog Range +2m"
   },
   "7171": {
     "clarity_nt_char_2462": "clarity_nt_char_2462"
@@ -21546,55 +21546,55 @@
     "【160P】プレシャスレイン+2%": "[160P] Precious Rain +2%"
   },
   "7183": {
-    "【170P】プレシャスレイン+2%": ""
+    "【170P】プレシャスレイン+2%": "[170P] Precious Rain +2%"
   },
   "7184": {
-    "【180P】プレシャスレイン+2%": ""
+    "【180P】プレシャスレイン+2%": "[180P] Precious Rain +2%"
   },
   "7185": {
-    "【190P】プレシャスレイン+2%": ""
+    "【190P】プレシャスレイン+2%": "[190P] Precious Rain +2%"
   },
   "7186": {
-    "【200P】プレシャスレイン+5%": ""
+    "【200P】プレシャスレイン+5%": "[200P] Precious Rain +5%"
   },
   "7187": {
-    "【160P】50%で不滅のどうぐ倍化術": ""
+    "【160P】50%で不滅のどうぐ倍化術": "[160P] Keep Item Doubling Tech 50%"
   },
   "7188": {
-    "【170P】75%で不滅のどうぐ倍化術": ""
+    "【170P】75%で不滅のどうぐ倍化術": "[160P] Keep Item Doubling Tech 75%"
   },
   "7189": {
-    "【180P】100%で不滅のどうぐ倍化術": ""
+    "【180P】100%で不滅のどうぐ倍化術": "[180P] Keep Item Doubling Tech 100%"
   },
   "7190": {
     "clarity_nt_char_2468": "clarity_nt_char_2468"
   },
   "7191": {
-    "【190P】100%で不滅のどうぐ倍化術": ""
+    "【190P】100%で不滅のどうぐ倍化術": "[190P] Keep Item Doubling Tech 100%"
   },
   "7192": {
     "clarity_nt_char_2469": "clarity_nt_char_2469"
   },
   "7193": {
-    "【200P】100%で不滅のどうぐ倍化術": ""
+    "【200P】100%で不滅のどうぐ倍化術": "[200P] Keep Item Doubling Tech 100%"
   },
   "7194": {
     "clarity_nt_char_2470": "clarity_nt_char_2470"
   },
   "7195": {
-    "【160P】行動間隔短縮-0.5秒": ""
+    "【160P】行動間隔短縮-0.5秒": "[160P] Action Wait Time -0.5s"
   },
   "7196": {
-    "【170P】行動間隔短縮-0.5秒": ""
+    "【170P】行動間隔短縮-0.5秒": "[170P] Action Wait Time -0.5s"
   },
   "7197": {
-    "【180P】行動間隔短縮-0.5秒": ""
+    "【180P】行動間隔短縮-0.5秒": "[180P] Action Wait Time -0.5s"
   },
   "7198": {
-    "【190P】行動間隔短縮-0.5秒": ""
+    "【190P】行動間隔短縮-0.5秒": "[190P] Action Wait Time -0.5s"
   },
   "7199": {
-    "【200P】行動間隔短縮-1秒": ""
+    "【200P】行動間隔短縮-1秒": "[200P] Action Wait Time -1s"
   },
   "7200": {
     "【160P】ちから+10": "[160P] Strength +10"
@@ -21603,43 +21603,43 @@
     "clarity_nt_char_2471": "clarity_nt_char_2471"
   },
   "7202": {
-    "【170P】ちから+15": ""
+    "【170P】ちから+15": "[170P] Strength +15"
   },
   "7203": {
     "clarity_nt_char_2472": "clarity_nt_char_2472"
   },
   "7204": {
-    "【180P】ちから+20": ""
+    "【180P】ちから+20": "[180P] Strength +20"
   },
   "7205": {
     "clarity_nt_char_2473": "clarity_nt_char_2473"
   },
   "7206": {
-    "【190P】ちから+20": ""
+    "【190P】ちから+20": "[190P] Strength +20"
   },
   "7207": {
     "clarity_nt_char_2474": "clarity_nt_char_2474"
   },
   "7208": {
-    "【200P】ちから+20": ""
+    "【200P】ちから+20": "[200P] Strength +20"
   },
   "7209": {
     "clarity_nt_char_2475": "clarity_nt_char_2475"
   },
   "7210": {
-    "【160P】攻撃時2%でためる": ""
+    "【160P】攻撃時2%でためる": "[160P] Tension On Attack 2%"
   },
   "7211": {
-    "【170P】攻撃時2%でためる": ""
+    "【170P】攻撃時2%でためる": "[170P] Tension On Attack 2%"
   },
   "7212": {
-    "【180P】攻撃時2%でためる": ""
+    "【180P】攻撃時2%でためる": "[180P] Tension On Attack 2%"
   },
   "7213": {
-    "【190P】攻撃時2%でためる": ""
+    "【190P】攻撃時2%でためる": "[190P] Tension On Attack 2%"
   },
   "7214": {
-    "【200P】攻撃時5%でためる": ""
+    "【200P】攻撃時5%でためる": "[200P] Tension On Attack 5%"
   },
   "7215": {
     "【160P】タロットダメージ+20%": "[160P] Tarot damage +20%"
@@ -21648,25 +21648,25 @@
     "clarity_nt_char_2476": "clarity_nt_char_2476"
   },
   "7217": {
-    "【170P】タロットダメージ+30%": ""
+    "【170P】タロットダメージ+30%": "[170P] Tarot Damage +30%"
   },
   "7218": {
     "clarity_nt_char_2477": "clarity_nt_char_2477"
   },
   "7219": {
-    "【180P】タロットダメージ+50%": ""
+    "【180P】タロットダメージ+50%": "[180P] Tarot Damage +50%"
   },
   "7220": {
     "clarity_nt_char_2478": "clarity_nt_char_2478"
   },
   "7221": {
-    "【190P】タロットダメージ+50%": ""
+    "【190P】タロットダメージ+50%": "[190P] Tarot Damage +50%"
   },
   "7222": {
     "clarity_nt_char_2479": "clarity_nt_char_2479"
   },
   "7223": {
-    "【200P】タロットダメージ+50%": ""
+    "【200P】タロットダメージ+50%": "[200P] Tarot Damage +50%"
   },
   "7224": {
     "clarity_nt_char_2480": "clarity_nt_char_2480"
@@ -21690,40 +21690,40 @@
     "【160P】きまぐれな行動の発動率+10%": "[160P] Whimsical Action Activation Rate +10%"
   },
   "7231": {
-    "【170P】きまぐれな行動の発動率+15%": ""
+    "【170P】きまぐれな行動の発動率+15%": "[170P] Whimsical Action Rate +15%"
   },
   "7232": {
-    "【180P】きまぐれな行動の発動率+25%": ""
+    "【180P】きまぐれな行動の発動率+25%": "[180P] Whimsical Action Rate +25%"
   },
   "7233": {
-    "【190P】きまぐれな行動の発動率+25%": ""
+    "【190P】きまぐれな行動の発動率+25%": "[190P] Whimsical Action Rate +25%"
   },
   "7234": {
-    "【200P】きまぐれな行動の発動率+25%": ""
+    "【200P】きまぐれな行動の発動率+25%": "[200P] Whimsical Action Rate +25%"
   },
   "7235": {
-    "みのまもり+10（専）": ""
+    "みのまもり+10（専）": "Resilience +10 (EX)"
   },
   "7236": {
-    "みのまもり+20（専）": ""
+    "みのまもり+20（専）": "Resilience +20 (EX)"
   },
   "7237": {
-    "復活時50%聖なる祈り（専）": ""
+    "復活時50%聖なる祈り（専）": "Care Prayer On Revival 50% (EX)"
   },
   "7238": {
     "clarity_nt_char_2481": "clarity_nt_char_2481"
   },
   "7239": {
-    "復活時75%聖なる祈り（専）": ""
+    "復活時75%聖なる祈り（専）": "Care Prayer On Revival 75% (EX)"
   },
   "7240": {
     "clarity_nt_char_2482": "clarity_nt_char_2482"
   },
   "7241": {
-    "メラ系呪文+3%（専）": ""
+    "メラ系呪文+3%（専）": "Frizz-type Spells +3% (EX)"
   },
   "7242": {
-    "メラ系呪文+5%（専）": ""
+    "メラ系呪文+5%（専）": "Frizz-type Spells +5% (EX)"
   },
   "7243": {
     "打成一片+2%": "Become One +2%"
@@ -21732,40 +21732,40 @@
     "打成一片+5%": "Become One +5%"
   },
   "7245": {
-    "ネバネバ爆弾の射程強化+1m": ""
+    "ネバネバ爆弾の射程強化+1m": "Sticky Bomb Range +1m"
   },
   "7246": {
     "clarity_nt_char_2483": "clarity_nt_char_2483"
   },
   "7247": {
-    "ネバネバ爆弾の射程強化+2m": ""
+    "ネバネバ爆弾の射程強化+2m": "Sticky Bomb Range +2m"
   },
   "7248": {
     "clarity_nt_char_2484": "clarity_nt_char_2484"
   },
   "7249": {
-    "カウンター発動率+2%（専）": ""
+    "カウンター発動率+2%（専）": "Counterattack Rate +2% (EX)"
   },
   "7250": {
     "clarity_nt_char_2485": "clarity_nt_char_2485"
   },
   "7251": {
-    "カウンター発動率+3%（専）": ""
+    "カウンター発動率+3%（専）": "Counterattack Rate +3% (EX)"
   },
   "7252": {
     "clarity_nt_char_2486": "clarity_nt_char_2486"
   },
   "7253": {
-    "カウンター発動率+5%（専）": ""
+    "カウンター発動率+5%（専）": "Counterattack Rate +5% (EX)"
   },
   "7254": {
     "clarity_nt_char_2487": "clarity_nt_char_2487"
   },
   "7255": {
-    "古今無双+1%": ""
+    "古今無双+1%": "Kokon Musou +1%"
   },
   "7256": {
-    "古今無双+2%": ""
+    "古今無双+2%": "Kokon Musou +2%"
   },
   "7257": {
     "紅蓮蝶のきり+1m": "Crimson Fog +1m"
@@ -21780,37 +21780,37 @@
     "イオマータ+2%（専）": "Kablam +1% (EX)"
   },
   "7261": {
-    "プレシャスレイン+2%": ""
+    "プレシャスレイン+2%": "Precious Rain +2%"
   },
   "7262": {
-    "プレシャスレイン+5%": ""
+    "プレシャスレイン+5%": "Precious Rain +5%"
   },
   "7263": {
-    "50%不滅の道具倍化（専）": ""
+    "50%不滅の道具倍化（専）": "Keep Item Doubling Tech 50% (EX)"
   },
   "7264": {
-    "75%不滅の道具倍化（専）": ""
+    "75%不滅の道具倍化（専）": "Keep Item Doubling Tech 75% (EX)"
   },
   "7265": {
-    "100%不滅の道具倍化（専）": ""
+    "100%不滅の道具倍化（専）": "Keep Item Doubling Tech 100% (EX)"
   },
   "7266": {
     "clarity_nt_char_2488": "clarity_nt_char_2488"
   },
   "7267": {
-    "行動間隔短縮-0.5秒（専）": ""
+    "行動間隔短縮-0.5秒（専）": "Action Wait Time -0.5s (EX)"
   },
   "7268": {
     "clarity_nt_char_2489": "clarity_nt_char_2489"
   },
   "7269": {
-    "行動間隔短縮-1秒（専）": ""
+    "行動間隔短縮-1秒（専）": "Action Wait Time -1s (EX)"
   },
   "7270": {
     "clarity_nt_char_2490": "clarity_nt_char_2490"
   },
   "7271": {
-    "ちから+20（専）": ""
+    "ちから+20（専）": "Strength +20 (EX)"
   },
   "7272": {
     "こうげき魔力+40（専）": "Magical Might +40 (EX)"
@@ -21819,25 +21819,25 @@
     "clarity_nt_char_2491": "clarity_nt_char_2491"
   },
   "7274": {
-    "攻撃時2%でためる（専）": ""
+    "攻撃時2%でためる（専）": "Tension On Attack 2% (EX)"
   },
   "7275": {
     "clarity_nt_char_2492": "clarity_nt_char_2492"
   },
   "7276": {
-    "攻撃時5%でためる（専）": ""
+    "攻撃時5%でためる（専）": "Tension On Attack 5% (EX)"
   },
   "7277": {
     "clarity_nt_char_2493": "clarity_nt_char_2493"
   },
   "7278": {
-    "タロットダメージ+20%（専）": ""
+    "タロットダメージ+20%（専）": "Tarot Damage +20% (EX)"
   },
   "7279": {
-    "タロットダメージ+30%（専）": ""
+    "タロットダメージ+30%（専）": "Tarot Damage +30% (EX)"
   },
   "7280": {
-    "タロットダメージ+50%（専）": ""
+    "タロットダメージ+50%（専）": "Tarot Damage +50% (EX)"
   },
   "7281": {
     "しんくう竜巻+1%": "Vacuum Tornado +1%"
@@ -21846,16 +21846,16 @@
     "しんくう竜巻+3%": "Vacuum Tornado +3%"
   },
   "7283": {
-    "きまぐれな行動+10%": ""
+    "きまぐれな行動+10%": "Whimsical Action +10%"
   },
   "7284": {
-    "きまぐれな行動+15%": ""
+    "きまぐれな行動+15%": "Whimsical Action +15%"
   },
   "7285": {
-    "きまぐれな行動+25%": ""
+    "きまぐれな行動+25%": "Whimsical Action +25%"
   },
   "7286": {
-    "かいふく魔力+40（専）": ""
+    "かいふく魔力+40（専）": "Mag. Mending +40 (EX)"
   },
   "7287": {
     "clarity_nt_char_2494": "clarity_nt_char_2494"
@@ -21882,7 +21882,7 @@
     "僧侶時　自分が復活時に|聖なる祈りが　さらに　かかりやすくなった！": "It's now even easier to gain Care Prayer|when revived as a Priest!"
   },
   "7295": {
-    "魔法使い時　メラ系呪文の威力が　あがった！": ""
+    "魔法使い時　メラ系呪文の威力が　あがった！": "Frizz-type spell power increased as a Mage!"
   },
   "7296": {
     "打成一片の威力が　あがった！": "Become One's power increased!"
@@ -21891,16 +21891,16 @@
     "clarity_nt_char_2498": "clarity_nt_char_2498"
   },
   "7298": {
-    "ネバネバ爆弾が　さらに　遠くから|使えるようになった！": ""
+    "ネバネバ爆弾が　さらに　遠くから|使えるようになった！": "The range of Sticky Bomb has increased|even further!"
   },
   "7299": {
-    "旅芸人時　カウンターが　発動しやすくなった！": ""
+    "旅芸人時　カウンターが　発動しやすくなった！": "Counterattack rate increased as a Minstrel!"
   },
   "7300": {
     "clarity_nt_char_2499": "clarity_nt_char_2499"
   },
   "7301": {
-    "古今無双の威力が　あがった！": ""
+    "古今無双の威力が　あがった！": "Kokon Musou's power increased!"
   },
   "7302": {
     "clarity_nt_char_2500": "clarity_nt_char_2500"
@@ -21921,7 +21921,7 @@
     "賢者時　イオマータの威力が　あがった！": "Kablam's power increased as a Sage!"
   },
   "7308": {
-    "プレシャスレインの威力が　あがった！": ""
+    "プレシャスレインの威力が　あがった！": "Precious Rain's power increased!"
   },
   "7309": {
     "clarity_nt_char_2501": "clarity_nt_char_2501"
@@ -21933,10 +21933,10 @@
     "clarity_nt_char_2502": "clarity_nt_char_2502"
   },
   "7312": {
-    "どうぐ使い時　死亡したとき|どうぐ倍化術が　残るようになった！": ""
+    "どうぐ使い時　死亡したとき|どうぐ倍化術が　残るようになった！": "Your Item Doubling Tech will remain even|after dying as an Item Master!"
   },
   "7313": {
-    "踊り子時　行動間隔が　短くなった！": ""
+    "踊り子時　行動間隔が　短くなった！": "Action wait time decreased as a Dancer!"
   },
   "7314": {
     "踊り子時　ちからが　１０　増えた！": "Strength increased by 10 as a Dancer!"
@@ -21948,28 +21948,28 @@
     "踊り子時　ちからが　２０　増えた！": "Strength increased by 20 as a Dancer!"
   },
   "7317": {
-    "踊り子時　こうげき魔力が　２０　増えた！": ""
+    "踊り子時　こうげき魔力が　２０　増えた！": "Mag. Might increased by 20 as a Dancer!"
   },
   "7318": {
     "clarity_nt_char_2503": "clarity_nt_char_2503"
   },
   "7319": {
-    "踊り子時　こうげき魔力が　３０　増えた！": ""
+    "踊り子時　こうげき魔力が　３０　増えた！": "Mag. Might increased by 30 as a Dancer!"
   },
   "7320": {
     "clarity_nt_char_2504": "clarity_nt_char_2504"
   },
   "7321": {
-    "踊り子時　こうげき魔力が　４０　増えた！": ""
+    "踊り子時　こうげき魔力が　４０　増えた！": "Mag. Might increased by 40 as a Dancer!"
   },
   "7322": {
     "clarity_nt_char_2505": "clarity_nt_char_2505"
   },
   "7323": {
-    "踊り子時　攻撃時に|テンションが　あがりやすくなった！": ""
+    "踊り子時　攻撃時に|テンションが　あがりやすくなった！": "It's now easier to gain tension after|attacking as a Dancer!"
   },
   "7324": {
-    "占い師時|タロット使用時の　ダメージ量が増えた！": ""
+    "占い師時|タロット使用時の　ダメージ量が増えた！": "Damage when using Tarots increased|as a Fortune Teller!"
   },
   "7325": {
     "clarity_nt_char_2506": "clarity_nt_char_2506"
@@ -21981,22 +21981,22 @@
     "clarity_nt_char_2507": "clarity_nt_char_2507"
   },
   "7328": {
-    "デスマスター時|こうげき魔力が　２０　増えた！": ""
+    "デスマスター時|こうげき魔力が　２０　増えた！": "Mag. Might increased by 20 as a Death Master!"
   },
   "7329": {
-    "デスマスター時|こうげき魔力が　３０　増えた！": ""
+    "デスマスター時|こうげき魔力が　３０　増えた！": "Mag. Might increased by 30 as a Death Master!"
   },
   "7330": {
-    "デスマスター時|こうげき魔力が　４０　増えた！": ""
+    "デスマスター時|こうげき魔力が　４０　増えた！": "Mag. Might increased by 40 as a Death Master!"
   },
   "7331": {
-    "デスマスター時|かいふく魔力が　２０　増えた！": ""
+    "デスマスター時|かいふく魔力が　２０　増えた！": "Mag. Mending increased by 20 as a Death Master!"
   },
   "7332": {
-    "デスマスター時|かいふく魔力が　３０　増えた！": ""
+    "デスマスター時|かいふく魔力が　３０　増えた！": "Mag. Mending increased by 30 as a Death Master!"
   },
   "7333": {
-    "デスマスター時|かいふく魔力が　４０　増えた！": ""
+    "デスマスター時|かいふく魔力が　４０　増えた！": "Mag. Mending increased by 40 as a Death Master!"
   },
   "7334": {
     "戦士時|みのまもりが|１０増える": "Resilience +10|when you're|a Warrior."
@@ -22029,19 +22029,19 @@
     "clarity_nt_char_2512": "clarity_nt_char_2512"
   },
   "7344": {
-    "射程距離が|１ｍ増える": ""
+    "射程距離が|１ｍ増える": "Range increased|by 1m."
   },
   "7345": {
-    "射程距離が|２ｍ増える": ""
+    "射程距離が|２ｍ増える": "Range increased|by 2m."
   },
   "7346": {
-    "旅芸人時|カウンター発動率|２％アップ": ""
+    "旅芸人時|カウンター発動率|２％アップ": "Counter Rate +2%|when you're a|Minstrel."
   },
   "7347": {
-    "旅芸人時|カウンター発動率|３％アップ": ""
+    "旅芸人時|カウンター発動率|３％アップ": "Counter Rate +3%|when you're a|Minstrel."
   },
   "7348": {
-    "旅芸人時|カウンター発動率|５％アップ": ""
+    "旅芸人時|カウンター発動率|５％アップ": "Counter Rate +5%|when you're a|Minstrel."
   },
   "7349": {
     "パラディン時|みのまもりが|１０増える": "Resilience +10|when you're|a Paladin."
@@ -22059,127 +22059,127 @@
     "賢者時|ダメージが|２％増える": "Damage +2%|when you're a|Sage."
   },
   "7354": {
-    "死亡時|どうぐ倍化術が|５０％で残る": ""
+    "死亡時|どうぐ倍化術が|５０％で残る": "50% chance to|keep Item Double|Tech on death."
   },
   "7355": {
     "clarity_nt_char_2513": "clarity_nt_char_2513"
   },
   "7356": {
-    "死亡時|どうぐ倍化術が|７５％で残る": ""
+    "死亡時|どうぐ倍化術が|７５％で残る": "75% chance to|keep Item Double|Tech on death."
   },
   "7357": {
     "clarity_nt_char_2514": "clarity_nt_char_2514"
   },
   "7358": {
-    "死亡時|どうぐ倍化術が|１００％で残る": ""
+    "死亡時|どうぐ倍化術が|１００％で残る": "100% chance to|keep Item Double|Tech on death."
   },
   "7359": {
-    "踊り子時|行動間隔が|０．５秒短くなる": ""
+    "踊り子時|行動間隔が|０．５秒短くなる": "Action Wait -0.5s|when you're a|Dancer."
   },
   "7360": {
-    "踊り子時|行動間隔が|１秒短くなる": ""
+    "踊り子時|行動間隔が|１秒短くなる": "Action Wait -1s|when you're a|Dancer."
   },
   "7361": {
-    "踊り子時|ちからが|１０増える": ""
+    "踊り子時|ちからが|１０増える": "Strength +10|when you're a|Dancer."
   },
   "7362": {
-    "踊り子時|ちからが|１５増える": ""
+    "踊り子時|ちからが|１５増える": "Strength +15|when you're a|Dancer."
   },
   "7363": {
-    "踊り子時|ちからが|２０増える": ""
+    "踊り子時|ちからが|２０増える": "Strength +20|when you're a|Dancer."
   },
   "7364": {
-    "踊り子時|こうげき魔力が|２０増える": ""
+    "踊り子時|こうげき魔力が|２０増える": "Mag. Might +20|when you're a|Dancer."
   },
   "7365": {
     "clarity_nt_char_2515": "clarity_nt_char_2515"
   },
   "7366": {
-    "踊り子時|こうげき魔力が|３０増える": ""
+    "踊り子時|こうげき魔力が|３０増える": "Mag. Might +30|when you're a|Dancer."
   },
   "7367": {
     "clarity_nt_char_2516": "clarity_nt_char_2516"
   },
   "7368": {
-    "踊り子時|こうげき魔力が|４０増える": ""
+    "踊り子時|こうげき魔力が|４０増える": "Mag. Might +40|when you're a|Dancer."
   },
   "7369": {
     "clarity_nt_char_2517": "clarity_nt_char_2517"
   },
   "7370": {
-    "踊り子時|攻撃時に|２％でためる": ""
+    "踊り子時|攻撃時に|２％でためる": "2% chance of|tension on attack|as a Dancer."
   },
   "7371": {
     "clarity_nt_char_2518": "clarity_nt_char_2518"
   },
   "7372": {
-    "踊り子時|攻撃時に|５％でためる": ""
+    "踊り子時|攻撃時に|５％でためる": "5% chance of|tension on attack|as a Dancer."
   },
   "7373": {
     "clarity_nt_char_2519": "clarity_nt_char_2519"
   },
   "7374": {
-    "占い師時|タロットダメージ|２０％アップ": ""
+    "占い師時|タロットダメージ|２０％アップ": "Tarot Damage +20%|when you're a|Fortune Teller."
   },
   "7375": {
     "clarity_nt_char_2520": "clarity_nt_char_2520"
   },
   "7376": {
-    "占い師時|タロットダメージ|３０％アップ": ""
+    "占い師時|タロットダメージ|３０％アップ": "Tarot Damage +30%|when you're a|Fortune Teller."
   },
   "7377": {
     "clarity_nt_char_2521": "clarity_nt_char_2521"
   },
   "7378": {
-    "占い師時|タロットダメージ|５０％アップ": ""
+    "占い師時|タロットダメージ|５０％アップ": "Tarot Damage +50%|when you're a|Fortune Teller."
   },
   "7379": {
     "clarity_nt_char_2522": "clarity_nt_char_2522"
   },
   "7380": {
-    "遊び人時|きまぐれ発動率が|１０％増える": ""
+    "遊び人時|きまぐれ発動率が|１０％増える": "Whimsical Action|Rate +10% as a|Gadabout."
   },
   "7381": {
     "clarity_nt_char_2523": "clarity_nt_char_2523"
   },
   "7382": {
-    "遊び人時|きまぐれ発動率が|１５％増える": ""
+    "遊び人時|きまぐれ発動率が|１５％増える": "Whimsical Action|Rate +15% as a|Gadabout."
   },
   "7383": {
     "clarity_nt_char_2524": "clarity_nt_char_2524"
   },
   "7384": {
-    "遊び人時|きまぐれ発動率が|２５％増える": ""
+    "遊び人時|きまぐれ発動率が|２５％増える": "Whimsical Action|Rate +25% as a|Gadabout."
   },
   "7385": {
     "clarity_nt_char_2525": "clarity_nt_char_2525"
   },
   "7386": {
-    "デスマスター時|こうげき魔力が|２０増える": ""
+    "デスマスター時|こうげき魔力が|２０増える": "Mag. Might +20|when you're a|Death Master."
   },
   "7387": {
-    "デスマスター時|こうげき魔力が|３０増える": ""
+    "デスマスター時|こうげき魔力が|３０増える": "Mag. Might +30|when you're a|Death Master."
   },
   "7388": {
-    "デスマスター時|こうげき魔力が|４０増える": ""
+    "デスマスター時|こうげき魔力が|４０増える": "Mag. Might +40|when you're a|Death Master."
   },
   "7389": {
-    "デスマスター時|かいふく魔力が|２０増える": ""
+    "デスマスター時|かいふく魔力が|２０増える": "Mag. Mending +20|when you're a|Death Master."
   },
   "7390": {
-    "デスマスター時|かいふく魔力が|３０増える": ""
+    "デスマスター時|かいふく魔力が|３０増える": "Mag. Mending +30|when you're a|Death Master."
   },
   "7391": {
-    "デスマスター時|かいふく魔力が|４０増える": ""
+    "デスマスター時|かいふく魔力が|４０増える": "Mag. Mending +40|when you're a|Death Master."
   },
   "7392": {
     "打成一片の強化": "Become One Boost"
   },
   "7393": {
-    "ネバネバ爆弾の射程強化": ""
+    "ネバネバ爆弾の射程強化": "Sticky Bomb Range Up"
   },
   "7394": {
-    "カウンター発動率": ""
+    "カウンター発動率": "Counterattack Rate"
   },
   "7395": {
     "clarity_nt_char_2526": "clarity_nt_char_2526"
@@ -22200,16 +22200,16 @@
     "プレシャスレインの強化": "Precious Rain Boost"
   },
   "7401": {
-    "不滅のどうぐ倍化術": ""
+    "不滅のどうぐ倍化術": "Keep Item Doubling Tech"
   },
   "7402": {
-    "攻撃時ためる": ""
+    "攻撃時ためる": "Tension On Attack"
   },
   "7403": {
     "clarity_nt_char_2528": "clarity_nt_char_2528"
   },
   "7404": {
-    "タロットのダメージアップ": ""
+    "タロットのダメージアップ": "Tarot Damage Up"
   },
   "7405": {
     "clarity_nt_char_2529": "clarity_nt_char_2529"
@@ -22218,25 +22218,25 @@
     "しんくう竜巻の強化": "Vacuum Tornado Boost"
   },
   "7407": {
-    "きまぐれな行動の発動率": ""
+    "きまぐれな行動の発動率": "Whimsical Action Rate"
   },
   "7408": {
     "行動時|どうぐ倍化術が|１５％でかかる": "15% chance to get|Item Doubling|Tech on action."
   },
   "7409": {
-    "装備時呪文発動速度+4%": ""
+    "装備時呪文発動速度+4%": "Spell Cast Speed +4%"
   },
   "7410": {
     "clarity_nt_char_2530": "clarity_nt_char_2530"
   },
   "7411": {
-    "ガード時50%で早詠みの杖": ""
+    "ガード時50%で早詠みの杖": "Faster Caster On Guard 50%"
   },
   "7412": {
     "装備時ＭＰ吸収率+6%": "MP Absorption +6%"
   },
   "7413": {
-    "装備時呪文暴走率+2%": ""
+    "装備時呪文暴走率+2%": "Haywire Rate +2%"
   },
   "7414": {
     "超暴走魔法陣・零": "Super Ring of Ruin Zero"
@@ -22257,7 +22257,7 @@
     "clarity_nt_char_2533": "clarity_nt_char_2533"
   },
   "7420": {
-    "攻撃時10%でためる": ""
+    "攻撃時10%でためる": "Tension On Attack 10%"
   },
   "7421": {
     "clarity_nt_char_2534": "clarity_nt_char_2534"
@@ -22278,7 +22278,7 @@
     "ヴェレーノ": "Toxle"
   },
   "7427": {
-    "装備時呪文暴走率+3%": ""
+    "装備時呪文暴走率+3%": "Haywire Rate +3%"
   },
   "7428": {
     "ヘナトール": "Kablunt"
@@ -22290,19 +22290,19 @@
     "clarity_nt_char_2536": "clarity_nt_char_2536"
   },
   "7431": {
-    "眠り相手に呪文ダメアップ": ""
+    "眠り相手に呪文ダメアップ": "Spell Damage To Asleep Up"
   },
   "7432": {
     "clarity_nt_char_2537": "clarity_nt_char_2537"
   },
   "7433": {
-    "毒相手に呪文ダメアップ": ""
+    "毒相手に呪文ダメアップ": "Spell Damage to Poisoned Up"
   },
   "7434": {
     "蒼月の守りの特技を　おぼえた！": "You learned Blue Moon Guard!"
   },
   "7435": {
-    "闇のヴェール（専）の特技を　おぼえた！": ""
+    "闇のヴェール（専）の特技を　おぼえた！": "You learned Dark Veil!"
   },
   "7436": {
     "邪炎波（専）の特技を　おぼえた！": "You learned Evil Wave!"
@@ -22332,7 +22332,7 @@
     "闇の加護（専）の特技を　おぼえた！": "You learned Dark Gift!"
   },
   "7445": {
-    "魔剣士での行動時に|たまにテンションが　あがるようになった！": ""
+    "魔剣士での行動時に|たまにテンションが　あがるようになった！": "You will now sometimes gain tension after|using an action as a Demon Swordsman!"
   },
   "7446": {
     "clarity_nt_char_2541": "clarity_nt_char_2541"
@@ -22341,10 +22341,10 @@
     "ダークマター（専）の特技を　おぼえた！": "You learned Dark Matter!"
   },
   "7448": {
-    "波動解放（専）の特技を　おぼえた！": ""
+    "波動解放（専）の特技を　おぼえた！": "You learned Wave Release!"
   },
   "7449": {
-    "錬魔の秘法の特技を　おぼえた！": ""
+    "錬魔の秘法の特技を　おぼえた！": "You learned Demonic Method!"
   },
   "7450": {
     "はどう": "Wave"
@@ -22356,70 +22356,70 @@
     "clarity_nt_char_2542": "clarity_nt_char_2542"
   },
   "7453": {
-    "【170P】メラ系呪文+100": ""
+    "【170P】メラ系呪文+100": "[170P] Frizz-type Spells +100"
   },
   "7454": {
-    "【180P】メラ系呪文+150": ""
+    "【180P】メラ系呪文+150": "[180P] Frizz-type Spells +150"
   },
   "7455": {
-    "【190P】メラ系呪文+150": ""
+    "【190P】メラ系呪文+150": "[190P] Frizz-type Spells +150"
   },
   "7456": {
-    "【200P】メラ系呪文+150": ""
+    "【200P】メラ系呪文+150": "[200P] Frizz-type Spells +150"
   },
   "7457": {
     "【160P】ヒャド系呪文+50": "Crack-type damage +50"
   },
   "7458": {
-    "【170P】ヒャド系呪文+100": ""
+    "【170P】ヒャド系呪文+100": "[170P] Crack-type Spells +100"
   },
   "7459": {
     "clarity_nt_char_2543": "clarity_nt_char_2543"
   },
   "7460": {
-    "【180P】ヒャド系呪文+150": ""
+    "【180P】ヒャド系呪文+150": "[180P] Crack-type Spells +150"
   },
   "7461": {
     "clarity_nt_char_2544": "clarity_nt_char_2544"
   },
   "7462": {
-    "【190P】ヒャド系呪文+150": ""
+    "【190P】ヒャド系呪文+150": "[190P] Crack-type Spells +150"
   },
   "7463": {
     "clarity_nt_char_2545": "clarity_nt_char_2545"
   },
   "7464": {
-    "【200P】ヒャド系呪文+150": ""
+    "【200P】ヒャド系呪文+150": "[200P] Crack-type Spells +150"
   },
   "7465": {
     "clarity_nt_char_2546": "clarity_nt_char_2546"
   },
   "7466": {
-    "【160P】毒や眠り相手の呪文暴走率+10%": ""
+    "【160P】毒や眠り相手の呪文暴走率+10%": "[160P] Poisoned/Asleep Haywire Rate +10%"
   },
   "7467": {
     "clarity_nt_char_2547": "clarity_nt_char_2547"
   },
   "7468": {
-    "【170P】毒や眠り相手の呪文暴走率+30%": ""
+    "【170P】毒や眠り相手の呪文暴走率+30%": "[170P] Poisoned/Asleep Haywire Rate +30%"
   },
   "7469": {
     "clarity_nt_char_2548": "clarity_nt_char_2548"
   },
   "7470": {
-    "【180P】毒や眠り相手の呪文暴走率+50%": ""
+    "【180P】毒や眠り相手の呪文暴走率+50%": "[180P] Poisoned/Asleep Haywire Rate +50%"
   },
   "7471": {
     "clarity_nt_char_2549": "clarity_nt_char_2549"
   },
   "7472": {
-    "【190P】毒や眠り相手の呪文暴走率+50%": ""
+    "【190P】毒や眠り相手の呪文暴走率+50%": "[190P] Poisoned/Asleep Haywire Rate +50%"
   },
   "7473": {
     "clarity_nt_char_2550": "clarity_nt_char_2550"
   },
   "7474": {
-    "【200P】毒や眠り相手の呪文暴走率+50%": ""
+    "【200P】毒や眠り相手の呪文暴走率+50%": "[200P] Poisoned/Asleep Haywire Rate +50%"
   },
   "7475": {
     "clarity_nt_char_2551": "clarity_nt_char_2551"
@@ -22431,52 +22431,52 @@
     "clarity_nt_char_2552": "clarity_nt_char_2552"
   },
   "7478": {
-    "【170P】マホトーンの成功率+15%": ""
+    "【170P】マホトーンの成功率+15%": "[170P] Fizzle Success +15%"
   },
   "7479": {
-    "【180P】マホトーンの成功率+25%": ""
+    "【180P】マホトーンの成功率+25%": "[180P] Fizzle Success +25%"
   },
   "7480": {
-    "【190P】マホトーンの成功率+25%": ""
+    "【190P】マホトーンの成功率+25%": "[190P] Fizzle Success +25%"
   },
   "7481": {
-    "ＭＰ消費しない率+4%": ""
+    "ＭＰ消費しない率+4%": "Don't Use MP Rate +4%"
   },
   "7482": {
-    "2.0%ターン消費なし": ""
+    "2.0%ターン消費なし": "Don't Use Turn 2%"
   },
   "7483": {
-    "ザオリク": ""
+    "ザオリク": "Kazing"
   },
   "7484": {
     "clarity_nt_char_2553": "clarity_nt_char_2553"
   },
   "7485": {
-    "【200P】マホトーンの成功率+25%": ""
+    "【200P】マホトーンの成功率+25%": "[200P] Fizzle Success +25%"
   },
   "7486": {
     "【160P】ラリホー系呪文成功率+5%": "[160P] Snooze success rate +5%"
   },
   "7487": {
-    "【170P】ラリホー系呪文成功率+15%": ""
+    "【170P】ラリホー系呪文成功率+15%": "[170P] Snooze-type Success +15%"
   },
   "7488": {
     "clarity_nt_char_2554": "clarity_nt_char_2554"
   },
   "7489": {
-    "【180P】ラリホー系呪文成功率+25%": ""
+    "【180P】ラリホー系呪文成功率+25%": "[180P] Snooze-type Success +25%"
   },
   "7490": {
     "clarity_nt_char_2555": "clarity_nt_char_2555"
   },
   "7491": {
-    "【190P】ラリホー系呪文成功率+25%": ""
+    "【190P】ラリホー系呪文成功率+25%": "[190P] Snooze-type Success +25%"
   },
   "7492": {
     "clarity_nt_char_2556": "clarity_nt_char_2556"
   },
   "7493": {
-    "【200P】ラリホー系呪文成功率+25%": ""
+    "【200P】ラリホー系呪文成功率+25%": "[200P] Snooze-type Success +25%"
   },
   "7494": {
     "clarity_nt_char_2557": "clarity_nt_char_2557"
@@ -22488,46 +22488,46 @@
     "clarity_nt_char_2558": "clarity_nt_char_2558"
   },
   "7497": {
-    "【170P】ヘナトス系呪文成功率+30%": ""
+    "【170P】ヘナトス系呪文成功率+30%": "[170P] Blunt-type Success +30%"
   },
   "7498": {
     "clarity_nt_char_2559": "clarity_nt_char_2559"
   },
   "7499": {
-    "【180P】ヘナトス系呪文成功率+50%": ""
+    "【180P】ヘナトス系呪文成功率+50%": "[180P] Blunt-type Success +50%"
   },
   "7500": {
     "clarity_nt_char_2560": "clarity_nt_char_2560"
   },
   "7501": {
-    "【190P】ヘナトス系呪文成功率+50%": ""
+    "【190P】ヘナトス系呪文成功率+50%": "[190P] Blunt-type Success +50%"
   },
   "7502": {
     "clarity_nt_char_2561": "clarity_nt_char_2561"
   },
   "7503": {
-    "【200P】ヘナトス系呪文成功率+50%": ""
+    "【200P】ヘナトス系呪文成功率+50%": "[200P] Blunt-type Success +50%"
   },
   "7504": {
     "clarity_nt_char_2562": "clarity_nt_char_2562"
   },
   "7505": {
-    "【160P】ヴェレ系呪文成功率+10%": ""
+    "【160P】ヴェレ系呪文成功率+10%": "[160P] Tox-type Success +10%"
   },
   "7506": {
-    "【170P】ヴェレ系呪文成功率+30%": ""
+    "【170P】ヴェレ系呪文成功率+30%": "[170P] Tox-type Success +30%"
   },
   "7507": {
-    "【180P】ヴェレ系呪文成功率+50%": ""
+    "【180P】ヴェレ系呪文成功率+50%": "[180P] Tox-type Success +50%"
   },
   "7508": {
-    "【190P】ヴェレ系呪文成功率+50%": ""
+    "【190P】ヴェレ系呪文成功率+50%": "[190P] Tox-type Success +50%"
   },
   "7509": {
-    "【200P】ヴェレ系呪文成功率+50%": ""
+    "【200P】ヴェレ系呪文成功率+50%": "[200P] Tox-type Success +50%"
   },
   "7510": {
-    "棍装備時　呪文の発動速度が　早くなった！": ""
+    "棍装備時　呪文の発動速度が　早くなった！": "Spellcasing speed increased when|equipped with a Rod!"
   },
   "7511": {
     "clarity_nt_char_2563": "clarity_nt_char_2563"
@@ -22545,22 +22545,22 @@
     "clarity_nt_char_2565": "clarity_nt_char_2565"
   },
   "7516": {
-    "棍装備時　さらに呪文の発動速度が　早くなった！": ""
+    "棍装備時　さらに呪文の発動速度が　早くなった！": "Spellcasting speed further increased when|equipped with a Rod!"
   },
   "7517": {
-    "ガード時　５０％の確率で|早詠みの杖の効果が　かかるようになった！": ""
+    "ガード時　５０％の確率で|早詠みの杖の効果が　かかるようになった！": "You now have a 50% chance when you guard|to gain Faster Caster!"
   },
   "7518": {
-    "両手杖装備で戦闘に勝つと|ＭＰが大回復するようになった！": ""
+    "両手杖装備で戦闘に勝つと|ＭＰが大回復するようになった！": "You will now recover a lot of MP after|battle when equipped with a Staff!"
   },
   "7519": {
     "clarity_nt_char_2566": "clarity_nt_char_2566"
   },
   "7520": {
-    "両手杖装備時の|こうげき魔力が　６０　増えた！": ""
+    "両手杖装備時の|こうげき魔力が　６０　増えた！": "Magical Might increased by 60 when|equipped with a Staff!"
   },
   "7521": {
-    "超暴走魔法陣・零の特技を　おぼえた！": ""
+    "超暴走魔法陣・零の特技を　おぼえた！": "You learned Super Ring of Ruin Zero!"
   },
   "7522": {
     "clarity_nt_char_2567": "clarity_nt_char_2567"
@@ -22572,13 +22572,13 @@
     "clarity_nt_char_2568": "clarity_nt_char_2568"
   },
   "7525": {
-    "ファイアブレイクの特技を　おぼえた！": ""
+    "ファイアブレイクの特技を　おぼえた！": "You learned Fire Break!"
   },
   "7526": {
     "clarity_nt_char_2569": "clarity_nt_char_2569"
   },
   "7527": {
-    "攻撃時　１０％の確率で|テンションが　あがるようになった！": ""
+    "攻撃時　１０％の確率で|テンションが　あがるようになった！": "You now have a 10% chance when you|attack to gain tension!"
   },
   "7528": {
     "両手杖装備時　呪文暴走の際の　ダメージが||増えるようになった！": "Haywire damage when you have|a Staff equipped is increased!"
@@ -22632,136 +22632,136 @@
     "clarity_nt_char_2575": "clarity_nt_char_2575"
   },
   "7545": {
-    "【160P】攻撃時5%で魔力かくせい": ""
+    "【160P】攻撃時5%で魔力かくせい": "[160P] Channel Anger On Attack 5%"
   },
   "7546": {
     "clarity_nt_char_2576": "clarity_nt_char_2576"
   },
   "7547": {
-    "【170P】攻撃時10%で魔力かくせい": ""
+    "【170P】攻撃時10%で魔力かくせい": "[170P] Channel Anger On Attack 10%"
   },
   "7548": {
-    "【180P】攻撃時15%で魔力かくせい": ""
+    "【180P】攻撃時15%で魔力かくせい": "[180P] Channel Anger On Attack 15%"
   },
   "7549": {
-    "【190P】攻撃時15%で魔力かくせい": ""
+    "【190P】攻撃時15%で魔力かくせい": "[190P] Channel Anger On Attack 15%"
   },
   "7550": {
-    "【200P】攻撃時15%で魔力かくせい": ""
+    "【200P】攻撃時15%で魔力かくせい": "[200P] Channel Anger On Attack 15%"
   },
   "7551": {
-    "【160P】30%で不滅の魔力かくせい": ""
+    "【160P】30%で不滅の魔力かくせい": "[160P] Keep Channel Anger 30%"
   },
   "7552": {
-    "【170P】50%で不滅の魔力かくせい": ""
+    "【170P】50%で不滅の魔力かくせい": "[170P] Keep Channel Anger 50%"
   },
   "7553": {
-    "【180P】70%で不滅の魔力かくせい": ""
+    "【180P】70%で不滅の魔力かくせい": "[180P] Keep Channel Anger 70%"
   },
   "7554": {
-    "【190P】70%で不滅の魔力かくせい": ""
+    "【190P】70%で不滅の魔力かくせい": "[190P] Keep Channel Anger 70%"
   },
   "7555": {
-    "【200P】70%で不滅の魔力かくせい": ""
+    "【200P】70%で不滅の魔力かくせい": "[200P] Keep Channel Anger 70%"
   },
   "7556": {
-    "【160P】攻撃時5%で早詠みの杖": ""
+    "【160P】攻撃時5%で早詠みの杖": "[160P] Faster Caster On Attack 5%"
   },
   "7557": {
-    "【170P】攻撃時10%で早詠みの杖": ""
+    "【170P】攻撃時10%で早詠みの杖": "[170P] Faster Caster On Attack 10%"
   },
   "7558": {
     "clarity_nt_char_2577": "clarity_nt_char_2577"
   },
   "7559": {
-    "【180P】攻撃時15%で早詠みの杖": ""
+    "【180P】攻撃時15%で早詠みの杖": "[180P] Faster Caster On Attack 15%"
   },
   "7560": {
     "clarity_nt_char_2578": "clarity_nt_char_2578"
   },
   "7561": {
-    "【190P】攻撃時15%で早詠みの杖": ""
+    "【190P】攻撃時15%で早詠みの杖": "[190P] Faster Caster On Attack 15%"
   },
   "7562": {
     "clarity_nt_char_2579": "clarity_nt_char_2579"
   },
   "7563": {
-    "【200P】攻撃時15%で早詠みの杖": ""
+    "【200P】攻撃時15%で早詠みの杖": "[200P] Faster Caster On Attack 15%"
   },
   "7564": {
     "clarity_nt_char_2580": "clarity_nt_char_2580"
   },
   "7565": {
-    "【160P】30%で不滅の早詠みの杖": ""
+    "【160P】30%で不滅の早詠みの杖": "[160P] Keep Faster Caster 30%"
   },
   "7566": {
     "clarity_nt_char_2581": "clarity_nt_char_2581"
   },
   "7567": {
-    "【170P】50%で不滅の早詠みの杖": ""
+    "【170P】50%で不滅の早詠みの杖": "[170P] Keep Faster Caster 50%"
   },
   "7568": {
     "clarity_nt_char_2582": "clarity_nt_char_2582"
   },
   "7569": {
-    "【180P】70%で不滅の早詠みの杖": ""
+    "【180P】70%で不滅の早詠みの杖": "[180P] Keep Faster Caster 70%"
   },
   "7570": {
     "clarity_nt_char_2583": "clarity_nt_char_2583"
   },
   "7571": {
-    "【190P】70%で不滅の早詠みの杖": ""
+    "【190P】70%で不滅の早詠みの杖": "[190P] Keep Faster Caster 70%"
   },
   "7572": {
     "clarity_nt_char_2584": "clarity_nt_char_2584"
   },
   "7573": {
-    "【200P】70%で不滅の早詠みの杖": ""
+    "【200P】70%で不滅の早詠みの杖": "[200P] Keep Faster Caster 70%"
   },
   "7574": {
     "clarity_nt_char_2585": "clarity_nt_char_2585"
   },
   "7575": {
-    "メラ系呪文+50": ""
+    "メラ系呪文+50": "Frizz Spells +50"
   },
   "7576": {
     "clarity_nt_char_2586": "clarity_nt_char_2586"
   },
   "7577": {
-    "メラ系呪文+100": ""
+    "メラ系呪文+100": "Frizz Spells +100"
   },
   "7578": {
-    "メラ系呪文+150": ""
+    "メラ系呪文+150": "Frizz Spells +150"
   },
   "7579": {
-    "ヒャド系呪文+50": ""
+    "ヒャド系呪文+50": "Crack Spells +50"
   },
   "7580": {
-    "ヒャド系呪文+100": ""
+    "ヒャド系呪文+100": "Crack Spells +100"
   },
   "7581": {
     "clarity_nt_char_2587": "clarity_nt_char_2587"
   },
   "7582": {
-    "ヒャド系呪文+150": ""
+    "ヒャド系呪文+150": "Crack Spells +150"
   },
   "7583": {
     "clarity_nt_char_2588": "clarity_nt_char_2588"
   },
   "7584": {
-    "毒や眠り相手の暴走率+10%": ""
+    "毒や眠り相手の暴走率+10%": "Poisoned/Asleep Haywire Rate +10%"
   },
   "7585": {
     "clarity_nt_char_2589": "clarity_nt_char_2589"
   },
   "7586": {
-    "毒や眠り相手の暴走率+30%": ""
+    "毒や眠り相手の暴走率+30%": "Poisoned/Asleep Haywire Rate +30%"
   },
   "7587": {
     "clarity_nt_char_2590": "clarity_nt_char_2590"
   },
   "7588": {
-    "毒や眠り相手の暴走率+50%": ""
+    "毒や眠り相手の暴走率+50%": "Poisoned/Asleep Haywire Rate +50%"
   },
   "7589": {
     "clarity_nt_char_2591": "clarity_nt_char_2591"
@@ -22788,43 +22788,43 @@
     "煉獄魔斬Ⅲ": "Demon Edge Ⅲ"
   },
   "7597": {
-    "スティック装備時の|さいだいＭＰが　５０　増えた！": ""
+    "スティック装備時の|さいだいＭＰが　５０　増えた！": "Max MP increased by 50 when|equipped with a Wand!"
   },
   "7598": {
-    "スティック装備時　２．０％の確率で|行動ターンを　消費しなくなった！": ""
+    "スティック装備時　２．０％の確率で|行動ターンを　消費しなくなった！": "You now have a 2% chance to not use a|turn when equipped with a Wand!"
   },
   "7599": {
     "clarity_nt_char_2593": "clarity_nt_char_2593"
   },
   "7600": {
-    "ザオリクの呪文を　おぼえた！": ""
+    "ザオリクの呪文を　おぼえた！": "You learned Kazing!"
   },
   "7601": {
     "clarity_nt_char_2594": "clarity_nt_char_2594"
   },
   "7602": {
-    "スティック装備時の|こうげき魔力が　６０　増えた！": ""
+    "スティック装備時の|こうげき魔力が　６０　増えた！": "Magical Might increased by 60 when|equipped with a Wand!"
   },
   "7603": {
-    "死霊覚醒術Ⅰ（専）": ""
+    "死霊覚醒術Ⅰ（専）": "Awaken Spirit I (EX)"
   },
   "7604": {
-    "死霊覚醒術Ⅱ（専）": ""
+    "死霊覚醒術Ⅱ（専）": "Awaken Spirit II (EX)"
   },
   "7605": {
-    "死霊覚醒術Ⅰ（専）の特技を　おぼえた！": ""
+    "死霊覚醒術Ⅰ（専）の特技を　おぼえた！": "You learned Awaken Spirit I!"
   },
   "7606": {
-    "死霊覚醒術Ⅱ（専）の特技を　おぼえた！": ""
+    "死霊覚醒術Ⅱ（専）の特技を　おぼえた！": "You learned Awaken Spirit II!"
   },
   "7607": {
-    "デスパワー１段階|消費で死霊たちを|一定時間強化": ""
+    "デスパワー１段階|消費で死霊たちを|一定時間強化": "Consume 1 death|power to power|up your spirits."
   },
   "7608": {
     "clarity_nt_char_2595": "clarity_nt_char_2595"
   },
   "7609": {
-    "死霊覚醒術": ""
+    "死霊覚醒術": "Awaken Spirit"
   },
   "7610": {
     "煉獄魔斬Ⅰ（専）": "Demon Edge I"
@@ -22833,31 +22833,31 @@
     "clarity_nt_char_2596": "clarity_nt_char_2596"
   },
   "7612": {
-    "煉獄魔斬Ⅱ（専）": ""
+    "煉獄魔斬Ⅱ（専）": "Demon Edge II (EX)"
   },
   "7613": {
     "clarity_nt_char_2597": "clarity_nt_char_2597"
   },
   "7614": {
-    "煉獄魔斬Ⅲ（専）": ""
+    "煉獄魔斬Ⅲ（専）": "Demon Edge Ⅲ (EX)"
   },
   "7615": {
     "clarity_nt_char_2598": "clarity_nt_char_2598"
   },
   "7616": {
-    "煉獄魔斬Ⅰ（専）の特技を　おぼえた！": ""
+    "煉獄魔斬Ⅰ（専）の特技を　おぼえた！": "You learned Demon Edge I!"
   },
   "7617": {
     "clarity_nt_char_2599": "clarity_nt_char_2599"
   },
   "7618": {
-    "煉獄魔斬Ⅱ（専）の特技を　おぼえた！": ""
+    "煉獄魔斬Ⅱ（専）の特技を　おぼえた！": "You learned Demon Edge II!"
   },
   "7619": {
     "clarity_nt_char_2600": "clarity_nt_char_2600"
   },
   "7620": {
-    "煉獄魔斬Ⅲ（専）の特技を　おぼえた！": ""
+    "煉獄魔斬Ⅲ（専）の特技を　おぼえた！": "You learned Demon Edge Ⅲ!"
   },
   "7621": {
     "clarity_nt_char_2601": "clarity_nt_char_2601"
@@ -22956,10 +22956,10 @@
     "clarity_nt_char_2614": "clarity_nt_char_2614"
   },
   "7653": {
-    "敵１体に強力な|闇の３連撃|魔剣士専用特技": ""
+    "敵１体に強力な|闇の３連撃|魔剣士専用特技": "Deals 3 strong|dark attacks to|an enemy."
   },
   "7654": {
-    "魔剣士時|特技の威力が|５増える": "Skill Power +5|when you're a|Demon Swordsman"
+    "魔剣士時|特技の威力が|５増える": "Skill Power +5|when a|Demon Swordsman."
   },
   "7655": {
     "clarity_nt_char_2615": "clarity_nt_char_2615"
@@ -23049,157 +23049,157 @@
     "clarity_nt_char_2625": "clarity_nt_char_2625"
   },
   "7684": {
-    "【160P】蒼月の守りの効果時間+2秒": ""
+    "【160P】蒼月の守りの効果時間+2秒": "[160P] Blue Moon Guard Duration +2s"
   },
   "7685": {
-    "【170P】蒼月の守りの効果時間+3秒": ""
+    "【170P】蒼月の守りの効果時間+3秒": "[160P] Blue Moon Guard Duration +3s"
   },
   "7686": {
-    "【180P】蒼月の守りの効果時間+6秒": ""
+    "【180P】蒼月の守りの効果時間+6秒": "[180P] Blue Moon Guard Duration +6s"
   },
   "7687": {
-    "【190P】蒼月の守りの効果時間+6秒": ""
+    "【190P】蒼月の守りの効果時間+6秒": "[190P] Blue Moon Guard Duration +6s"
   },
   "7688": {
-    "【200P】蒼月の守りの効果時間+6秒": ""
+    "【200P】蒼月の守りの効果時間+6秒": "[200P] Blue Moon Guard Duration +6s"
   },
   "7689": {
-    "蒼月の守り+2秒": ""
+    "蒼月の守り+2秒": "Blue Moon Guard +2s"
   },
   "7690": {
     "clarity_nt_char_2626": "clarity_nt_char_2626"
   },
   "7691": {
-    "蒼月の守り+3秒": ""
+    "蒼月の守り+3秒": "Blue Moon Guard +3s"
   },
   "7692": {
     "clarity_nt_char_2627": "clarity_nt_char_2627"
   },
   "7693": {
-    "蒼月の守り+6秒": ""
+    "蒼月の守り+6秒": "Blue Moon Guard +6s"
   },
   "7694": {
     "clarity_nt_char_2628": "clarity_nt_char_2628"
   },
   "7695": {
-    "蒼月の守りの効果時間が　長くなった！": ""
+    "蒼月の守りの効果時間が　長くなった！": "Blue Moon Guard's effect duration increased!"
   },
   "7696": {
     "clarity_nt_char_2629": "clarity_nt_char_2629"
   },
   "7697": {
-    "鎌装備時|効果時間が|２秒増える": ""
+    "鎌装備時|効果時間が|２秒増える": "Effect Time +2s|when a Sickle|is equipped."
   },
   "7698": {
     "clarity_nt_char_2630": "clarity_nt_char_2630"
   },
   "7699": {
-    "鎌装備時|効果時間が|３秒増える": ""
+    "鎌装備時|効果時間が|３秒増える": "Effect Time +3s|when a Sickle|is equipped."
   },
   "7700": {
     "clarity_nt_char_2631": "clarity_nt_char_2631"
   },
   "7701": {
-    "蒼月の守りの効果時間": ""
+    "蒼月の守りの効果時間": "Blue Moon Guard Duration"
   },
   "7702": {
     "clarity_nt_char_2632": "clarity_nt_char_2632"
   },
   "7703": {
-    "ラリホー系呪文成功率+5%": ""
+    "ラリホー系呪文成功率+5%": "Snooze-type Success +5%"
   },
   "7704": {
-    "ラリホー系呪文成功率+15%": ""
+    "ラリホー系呪文成功率+15%": "Snooze-type Success +15%"
   },
   "7705": {
     "clarity_nt_char_2633": "clarity_nt_char_2633"
   },
   "7706": {
-    "ラリホー系呪文成功率+25%": ""
+    "ラリホー系呪文成功率+25%": "Snooze-type Success +25%"
   },
   "7707": {
     "clarity_nt_char_2634": "clarity_nt_char_2634"
   },
   "7708": {
-    "ヘナトス系呪文成功率+10%": ""
+    "ヘナトス系呪文成功率+10%": "Blunt-type Success +10%"
   },
   "7709": {
     "clarity_nt_char_2635": "clarity_nt_char_2635"
   },
   "7710": {
-    "ヘナトス系呪文成功率+30%": ""
+    "ヘナトス系呪文成功率+30%": "Blunt-type Success +30%"
   },
   "7711": {
     "clarity_nt_char_2636": "clarity_nt_char_2636"
   },
   "7712": {
-    "ヘナトス系呪文成功率+50%": ""
+    "ヘナトス系呪文成功率+50%": "Blunt-type Success +50%"
   },
   "7713": {
     "clarity_nt_char_2637": "clarity_nt_char_2637"
   },
   "7714": {
-    "ヴェレ系呪文成功率+10%": ""
+    "ヴェレ系呪文成功率+10%": "Tox-type Success +10%"
   },
   "7715": {
-    "ヴェレ系呪文成功率+30%": ""
+    "ヴェレ系呪文成功率+30%": "Tox-type Success +30%"
   },
   "7716": {
-    "ヴェレ系呪文成功率+50%": ""
+    "ヴェレ系呪文成功率+50%": "Tox-type Success +50%"
   },
   "7717": {
-    "攻撃時5%で魔力かくせい": ""
+    "攻撃時5%で魔力かくせい": "Channel Anger On Attack 5%"
   },
   "7718": {
     "clarity_nt_char_2638": "clarity_nt_char_2638"
   },
   "7719": {
-    "攻撃時10%で魔力かくせい": ""
+    "攻撃時10%で魔力かくせい": "Channel Anger On Attack 10%"
   },
   "7720": {
-    "攻撃時15%で魔力かくせい": ""
+    "攻撃時15%で魔力かくせい": "Channel Anger On Attack 15%"
   },
   "7721": {
-    "30%不滅の魔力かくせい": ""
+    "30%不滅の魔力かくせい": "Keep Channel Anger 30%"
   },
   "7722": {
     "clarity_nt_char_2639": "clarity_nt_char_2639"
   },
   "7723": {
-    "50%不滅の魔力かくせい": ""
+    "50%不滅の魔力かくせい": "Keep Channel Anger 50%"
   },
   "7724": {
     "clarity_nt_char_2640": "clarity_nt_char_2640"
   },
   "7725": {
-    "70%不滅の魔力かくせい": ""
+    "70%不滅の魔力かくせい": "Keep Channel Anger 70%"
   },
   "7726": {
     "clarity_nt_char_2641": "clarity_nt_char_2641"
   },
   "7727": {
-    "攻撃時5%で早詠みの杖": ""
+    "攻撃時5%で早詠みの杖": "Faster Caster On Attack 5%"
   },
   "7728": {
-    "攻撃時10%で早詠みの杖": ""
+    "攻撃時10%で早詠みの杖": "Faster Caster On Attack 10%"
   },
   "7729": {
     "clarity_nt_char_2642": "clarity_nt_char_2642"
   },
   "7730": {
-    "攻撃時15%で早詠みの杖": ""
+    "攻撃時15%で早詠みの杖": "Faster Caster On Attack 15%"
   },
   "7731": {
     "clarity_nt_char_2643": "clarity_nt_char_2643"
   },
   "7732": {
-    "30%不滅の早詠みの杖": ""
+    "30%不滅の早詠みの杖": "Keep Faster Caster 30%"
   },
   "7733": {
-    "50%不滅の早詠みの杖": ""
+    "50%不滅の早詠みの杖": "Keep Faster Caster 50%"
   },
   "7734": {
-    "70%不滅の早詠みの杖": ""
+    "70%不滅の早詠みの杖": "Keep Faster Caster 70%"
   },
   "7735": {
     "短剣装備時の|こうげき魔力が　２０　増えた！": "Magical Might increased by 20 when|equipped with a Dagger!"
@@ -23220,10 +23220,10 @@
     "clarity_nt_char_2646": "clarity_nt_char_2646"
   },
   "7741": {
-    "短剣装備時　メラ系呪文の威力が　あがった！": ""
+    "短剣装備時　メラ系呪文の威力が　あがった！": "Frizz-type spell power increased when|equipped with a Dagger!"
   },
   "7742": {
-    "短剣装備時　ヒャド系呪文の威力が　あがった！": ""
+    "短剣装備時　ヒャド系呪文の威力が　あがった！": "Crack-type spell power increased when|equipped with a Dagger!"
   },
   "7743": {
     "clarity_nt_char_2647": "clarity_nt_char_2647"
@@ -23235,58 +23235,58 @@
     "clarity_nt_char_2648": "clarity_nt_char_2648"
   },
   "7746": {
-    "短剣装備時|マホトーンの　呪文が成功しやすくなった！": ""
+    "短剣装備時|マホトーンの　呪文が成功しやすくなった！": "Fizzle success rate increased when|equipped with a Dagger!"
   },
   "7747": {
     "clarity_nt_char_2649": "clarity_nt_char_2649"
   },
   "7748": {
-    "短剣装備時|ラリホー系の　呪文が成功しやすくなった！": ""
+    "短剣装備時|ラリホー系の　呪文が成功しやすくなった！": "Snooze-type spell success rate increased|when equipped with a Dagger!"
   },
   "7749": {
     "clarity_nt_char_2650": "clarity_nt_char_2650"
   },
   "7750": {
-    "短剣装備時|ヘナトス系の　呪文が成功しやすくなった！": ""
+    "短剣装備時|ヘナトス系の　呪文が成功しやすくなった！": "Blunt-type spell success rate increased|when equipped with a Dagger!"
   },
   "7751": {
     "clarity_nt_char_2651": "clarity_nt_char_2651"
   },
   "7752": {
-    "短剣装備時|ヴェレ系の　呪文が成功しやすくなった！": ""
+    "短剣装備時|ヴェレ系の　呪文が成功しやすくなった！": "Tox-type spell success rate increased|when equipped with a Dagger!"
   },
   "7753": {
-    "攻撃時　５％の確率で|魔力かくせいが　かかるようになった！": ""
+    "攻撃時　５％の確率で|魔力かくせいが　かかるようになった！": "You now have a 5% chance to gain Channel|Anger after making an attack!"
   },
   "7754": {
-    "攻撃時　１０％の確率で|魔力かくせいが　かかるようになった！": ""
+    "攻撃時　１０％の確率で|魔力かくせいが　かかるようになった！": "You now have a 10% chance to gain Channel|Anger after making an attack!"
   },
   "7755": {
     "clarity_nt_char_2652": "clarity_nt_char_2652"
   },
   "7756": {
-    "攻撃時　１５％の確率で|魔力かくせいが　かかるようになった！": ""
+    "攻撃時　１５％の確率で|魔力かくせいが　かかるようになった！": "You now have a 15% chance to gain Channel|Anger after making an attack!"
   },
   "7757": {
     "clarity_nt_char_2653": "clarity_nt_char_2653"
   },
   "7758": {
-    "両手杖装備時　死亡したとき|魔力かくせいが　残るようになった！": ""
+    "両手杖装備時　死亡したとき|魔力かくせいが　残るようになった！": "Your Channel Anger effect will remain even|after dying with a Staff equipped!"
   },
   "7759": {
-    "攻撃時　５％の確率で|早詠みの杖が　かかるようになった！": ""
+    "攻撃時　５％の確率で|早詠みの杖が　かかるようになった！": "You now have a 5% chance to gain Faster|Caster after making an attack!"
   },
   "7760": {
     "clarity_nt_char_2654": "clarity_nt_char_2654"
   },
   "7761": {
-    "攻撃時　１０％の確率で|早詠みの杖が　かかるようになった！": ""
+    "攻撃時　１０％の確率で|早詠みの杖が　かかるようになった！": "You now have a 10% chance to gain Faster|Caster after making an attack!"
   },
   "7762": {
-    "攻撃時　１５％の確率で|早詠みの杖が　かかるようになった！": ""
+    "攻撃時　１５％の確率で|早詠みの杖が　かかるようになった！": "You now have a 15% chance to gain Faster|Caster after making an attack!"
   },
   "7763": {
-    "両手杖装備時　死亡したとき|早詠みの杖が　残るようになった！": ""
+    "両手杖装備時　死亡したとき|早詠みの杖が　残るようになった！": "Your Faster Caster effect will remain even|after dying with a Staff equipped!"
   },
   "7764": {
     "clarity_nt_char_2655": "clarity_nt_char_2655"
@@ -23331,70 +23331,70 @@
     "短剣装備時の|ダメージが|１５０増える": "Damage +150|when a Dagger|is equipped."
   },
   "7778": {
-    "短剣装備時|毒や眠り相手に|暴走率＋１０％": ""
+    "短剣装備時|毒や眠り相手に|暴走率＋１０％": "Haywire +10% to|poisoned/asleep|with a Dagger."
   },
   "7779": {
-    "短剣装備時|毒や眠り相手に|暴走率＋３０％": ""
+    "短剣装備時|毒や眠り相手に|暴走率＋３０％": "Haywire +30% to|poisoned/asleep|with a Dagger."
   },
   "7780": {
-    "短剣装備時|毒や眠り相手に|暴走率＋５０％": ""
+    "短剣装備時|毒や眠り相手に|暴走率＋５０％": "Haywire +50% to|poisoned/asleep|with a Dagger."
   },
   "7781": {
-    "短剣装備時|マホトーンの|成功率＋５％": ""
+    "短剣装備時|マホトーンの|成功率＋５％": "Fizzle Success|+5% with a|Dagger equipped."
   },
   "7782": {
-    "短剣装備時|マホトーンの|成功率＋１５％": ""
+    "短剣装備時|マホトーンの|成功率＋１５％": "Fizzle Success|+15% with a|Dagger equipped."
   },
   "7783": {
     "clarity_nt_char_2660": "clarity_nt_char_2660"
   },
   "7784": {
-    "短剣装備時|マホトーンの|成功率＋２５％": ""
+    "短剣装備時|マホトーンの|成功率＋２５％": "Fizzle Success|+25% with a|Dagger equipped."
   },
   "7785": {
     "clarity_nt_char_2661": "clarity_nt_char_2661"
   },
   "7786": {
-    "短剣装備時|ラリホー系呪文の|成功率＋５％": ""
+    "短剣装備時|ラリホー系呪文の|成功率＋５％": "Snooze Success|+5% with a|Dagger equipped."
   },
   "7787": {
-    "短剣装備時|ラリホー系呪文の|成功率＋１５％": ""
+    "短剣装備時|ラリホー系呪文の|成功率＋１５％": "Snooze Success|+15% with a|Dagger equipped."
   },
   "7788": {
     "clarity_nt_char_2662": "clarity_nt_char_2662"
   },
   "7789": {
-    "短剣装備時|ラリホー系呪文の|成功率＋２５％": ""
+    "短剣装備時|ラリホー系呪文の|成功率＋２５％": "Snooze Success|+25% with a|Dagger equipped."
   },
   "7790": {
     "clarity_nt_char_2663": "clarity_nt_char_2663"
   },
   "7791": {
-    "短剣装備時|ヘナトス系呪文の|成功率＋１０％": ""
+    "短剣装備時|ヘナトス系呪文の|成功率＋１０％": "Blunt Success|+10% with a|Dagger equipped."
   },
   "7792": {
     "clarity_nt_char_2664": "clarity_nt_char_2664"
   },
   "7793": {
-    "短剣装備時|ヘナトス系呪文の|成功率＋３０％": ""
+    "短剣装備時|ヘナトス系呪文の|成功率＋３０％": "Blunt Success|+30% with a|Dagger equipped."
   },
   "7794": {
     "clarity_nt_char_2665": "clarity_nt_char_2665"
   },
   "7795": {
-    "短剣装備時|ヘナトス系呪文の|成功率＋５０％": ""
+    "短剣装備時|ヘナトス系呪文の|成功率＋５０％": "Blunt Success|+50% with a|Dagger equipped."
   },
   "7796": {
     "clarity_nt_char_2666": "clarity_nt_char_2666"
   },
   "7797": {
-    "短剣装備時|ヴェレ系呪文の|成功率＋１０％": ""
+    "短剣装備時|ヴェレ系呪文の|成功率＋１０％": "Tox Success|+10% with a|Dagger equipped."
   },
   "7798": {
-    "短剣装備時|ヴェレ系呪文の|成功率＋３０％": ""
+    "短剣装備時|ヴェレ系呪文の|成功率＋３０％": "Tox Success|+30% with a|Dagger equipped."
   },
   "7799": {
-    "短剣装備時|ヴェレ系呪文の|成功率＋５０％": ""
+    "短剣装備時|ヴェレ系呪文の|成功率＋５０％": "Tox Success|+50% with a|Dagger equipped."
   },
   "7800": {
     "虫系の敵に|威力を発揮する|すばやい剣技": "A strike|effective against|Insect-types."
@@ -23403,124 +23403,124 @@
     "clarity_nt_char_2667": "clarity_nt_char_2667"
   },
   "7802": {
-    "敵１体を|斬りつけて|たまに眠らせる": ""
+    "敵１体を|斬りつけて|たまに眠らせる": "Slash an enemy|with a chance|to put to sleep."
   },
   "7803": {
     "clarity_nt_char_2668": "clarity_nt_char_2668"
   },
   "7804": {
-    "眠りや混乱の敵に|威力を発揮する|追い打ちの技": ""
+    "眠りや混乱の敵に|威力を発揮する|追い打ちの技": "Deals big damage|to asleep or|confused foes."
   },
   "7805": {
-    "敵１体を|斬りつけて|たまに猛毒にする": ""
+    "敵１体を|斬りつけて|たまに猛毒にする": "Slash an enemy|with a chance|to poison."
   },
   "7806": {
-    "毒やマヒの敵に|威力を発揮する|追い打ちの技": ""
+    "毒やマヒの敵に|威力を発揮する|追い打ちの技": "Deals big damage|to poisoned or|paralyzed foes."
   },
   "7807": {
     "clarity_nt_char_2669": "clarity_nt_char_2669"
   },
   "7808": {
-    "攻撃時に５％で|魔力かくせいが|かかる": ""
+    "攻撃時に５％で|魔力かくせいが|かかる": "5% chance to get|Channel Anger|on an attack."
   },
   "7809": {
-    "攻撃時に１０％で|魔力かくせいが|かかる": ""
+    "攻撃時に１０％で|魔力かくせいが|かかる": "10% chance to get|Channel Anger|on an attack."
   },
   "7810": {
     "clarity_nt_char_2670": "clarity_nt_char_2670"
   },
   "7811": {
-    "攻撃時に１５％で|魔力かくせいが|かかる": ""
+    "攻撃時に１５％で|魔力かくせいが|かかる": "15% chance to get|Channel Anger|on an attack."
   },
   "7812": {
     "clarity_nt_char_2671": "clarity_nt_char_2671"
   },
   "7813": {
-    "死亡時|魔力かくせいが|３０％で残る": ""
+    "死亡時|魔力かくせいが|３０％で残る": "30% chance to|keep Channel|Anger on death."
   },
   "7814": {
     "clarity_nt_char_2672": "clarity_nt_char_2672"
   },
   "7815": {
-    "死亡時|魔力かくせいが|５０％で残る": ""
+    "死亡時|魔力かくせいが|５０％で残る": "50% chance to|keep Channel|Anger on death."
   },
   "7816": {
     "clarity_nt_char_2673": "clarity_nt_char_2673"
   },
   "7817": {
-    "死亡時|魔力かくせいが|７０％で残る": ""
+    "死亡時|魔力かくせいが|７０％で残る": "70% chance to|keep Channel|Anger on death."
   },
   "7818": {
     "clarity_nt_char_2674": "clarity_nt_char_2674"
   },
   "7819": {
-    "攻撃時に５％で|早詠みの杖が|かかる": ""
+    "攻撃時に５％で|早詠みの杖が|かかる": "5% chance to get|Faster Caster|on an attack."
   },
   "7820": {
     "clarity_nt_char_2675": "clarity_nt_char_2675"
   },
   "7821": {
-    "攻撃時に１０％で|早詠みの杖が|かかる": ""
+    "攻撃時に１０％で|早詠みの杖が|かかる": "10% chance to get|Faster Caster|on an attack."
   },
   "7822": {
-    "【160P】死亡時に波動解放が50%残る": ""
+    "【160P】死亡時に波動解放が50%残る": "[160P] Keep Wave Release 50%"
   },
   "7823": {
     "clarity_nt_char_2676": "clarity_nt_char_2676"
   },
   "7824": {
-    "【170P】死亡時に波動解放が75%残る": ""
+    "【170P】死亡時に波動解放が75%残る": "[170P] Keep Wave Release 75%"
   },
   "7825": {
     "clarity_nt_char_2677": "clarity_nt_char_2677"
   },
   "7826": {
-    "【180P】死亡時に波動解放が100%残る": ""
+    "【180P】死亡時に波動解放が100%残る": "[180P] Keep Wave Release 100%"
   },
   "7827": {
-    "【190P】死亡時に波動解放が100%残る": ""
+    "【190P】死亡時に波動解放が100%残る": "[190P] Keep Wave Release 100%"
   },
   "7828": {
-    "【200P】死亡時に波動解放が100%残る": ""
+    "【200P】死亡時に波動解放が100%残る": "[200P] Keep Wave Release 100%"
   },
   "7829": {
     "【160P】1%で２回行動": "[160P] 1% Double Action"
   },
   "7830": {
-    "【170P】2%で２回行動": ""
+    "【170P】2%で２回行動": "[170P] Double Action 2%"
   },
   "7831": {
-    "【180P】3%で２回行動": ""
+    "【180P】3%で２回行動": "[180P] Double Action 3%"
   },
   "7832": {
-    "【190P】3%で２回行動": ""
+    "【190P】3%で２回行動": "[190P] Double Action 3%"
   },
   "7833": {
-    "【200P】3%で２回行動": ""
+    "【200P】3%で２回行動": "[200P] Double Action 3%"
   },
   "7834": {
-    "【160P】行動時1%で特技発動を短縮": ""
+    "【160P】行動時1%で特技発動を短縮": "[160P] Skill Speed Up On Action 1%"
   },
   "7835": {
-    "【170P】行動時2%で特技発動を短縮": ""
+    "【170P】行動時2%で特技発動を短縮": "[170P] Skill Speed Up On Action 2%"
   },
   "7836": {
-    "【180P】行動時3%で特技発動を短縮": ""
+    "【180P】行動時3%で特技発動を短縮": "[180P] Skill Speed Up On Action 3%"
   },
   "7837": {
-    "【190P】行動時3%で特技発動を短縮": ""
+    "【190P】行動時3%で特技発動を短縮": "[190P] Skill Speed Up On Action 3%"
   },
   "7838": {
-    "【200P】行動時3%で特技発動を短縮": ""
+    "【200P】行動時3%で特技発動を短縮": "[200P] Skill Speed Up On Action 3%"
   },
   "7839": {
-    "50%不滅の波動解放（専）": ""
+    "50%不滅の波動解放（専）": "Keep Wave Release 50% (EX)"
   },
   "7840": {
-    "75%不滅の波動解放（専）": ""
+    "75%不滅の波動解放（専）": "Keep Wave Release 75% (EX)"
   },
   "7841": {
-    "100%不滅の波動解放（専）": ""
+    "100%不滅の波動解放（専）": "Keep Wave Release 100% (EX)"
   },
   "7842": {
     "clarity_nt_char_2678": "clarity_nt_char_2678"
@@ -23544,142 +23544,142 @@
     "clarity_nt_char_2681": "clarity_nt_char_2681"
   },
   "7849": {
-    "行動時1%特技発動短縮（専）": ""
+    "行動時1%特技発動短縮（専）": "Skill Speed Up On Action 1% (EX)"
   },
   "7850": {
     "clarity_nt_char_2682": "clarity_nt_char_2682"
   },
   "7851": {
-    "行動時2%特技発動短縮（専）": ""
+    "行動時2%特技発動短縮（専）": "Skill Speed Up On Action 2% (EX)"
   },
   "7852": {
     "clarity_nt_char_2683": "clarity_nt_char_2683"
   },
   "7853": {
-    "行動時3%特技発動短縮（専）": ""
+    "行動時3%特技発動短縮（専）": "Skill Speed Up On Action 3% (EX)"
   },
   "7854": {
     "clarity_nt_char_2684": "clarity_nt_char_2684"
   },
   "7855": {
-    "魔剣士時　死亡したとき|たまに波動解放が　残るようになった！": ""
+    "魔剣士時　死亡したとき|たまに波動解放が　残るようになった！": "Your Wave Release will sometimes remain|even after dying as a Demon Swordsman!"
   },
   "7856": {
     "clarity_nt_char_2685": "clarity_nt_char_2685"
   },
   "7857": {
-    "魔剣士時　死亡したとき|波動解放が　残るようになった！": ""
+    "魔剣士時　死亡したとき|波動解放が　残るようになった！": "Your Wave Release will remain even|after dying as a Demon Swordsman!"
   },
   "7858": {
-    "魔剣士時　１％の確率で　２回行動！": ""
+    "魔剣士時　１％の確率で　２回行動！": "1% chance of acting twice as a Demon Swordsman!"
   },
   "7859": {
-    "魔剣士時　２％の確率で　２回行動！": ""
+    "魔剣士時　２％の確率で　２回行動！": "2% chance of acting twice as a Demon Swordsman!"
   },
   "7860": {
-    "魔剣士時　３％の確率で　２回行動！": ""
+    "魔剣士時　３％の確率で　２回行動！": "3% chance of acting twice as a Demon Swordsman!"
   },
   "7861": {
-    "魔剣士時　行動したとき|たまに特技発動が　短縮されるようになった！": ""
+    "魔剣士時　行動したとき|たまに特技発動が　短縮されるようになった！": "You now have a chance to quicken skill activation|when using an action as a Demon Swordsman!"
   },
   "7862": {
-    "死亡時|波動解放が|５０％で残る": ""
+    "死亡時|波動解放が|５０％で残る": "50% chance to|keep Wave Release|on death."
   },
   "7863": {
     "clarity_nt_char_2686": "clarity_nt_char_2686"
   },
   "7864": {
-    "死亡時|波動解放が|７５％で残る": ""
+    "死亡時|波動解放が|７５％で残る": "75% chance to|keep Wave Release|on death."
   },
   "7865": {
     "clarity_nt_char_2687": "clarity_nt_char_2687"
   },
   "7866": {
-    "死亡時|波動解放が|確実に残る": ""
+    "死亡時|波動解放が|確実に残る": "100% chance to|keep Wave Release|on death"
   },
   "7867": {
-    "魔剣士時|１％の確率で|２回行動": ""
+    "魔剣士時|１％の確率で|２回行動": "Double Action +1%|when a|Demon Swordsman."
   },
   "7868": {
     "clarity_nt_char_2688": "clarity_nt_char_2688"
   },
   "7869": {
-    "魔剣士時|２％の確率で|２回行動": ""
+    "魔剣士時|２％の確率で|２回行動": "2% chance to act|twice as|Demon Swordsman"
   },
   "7870": {
     "clarity_nt_char_2689": "clarity_nt_char_2689"
   },
   "7871": {
-    "魔剣士時|３％の確率で|２回行動": ""
+    "魔剣士時|３％の確率で|２回行動": "3% chance to act|twice as|Demon Swordsman"
   },
   "7872": {
     "clarity_nt_char_2690": "clarity_nt_char_2690"
   },
   "7873": {
-    "行動時|特技発動の短縮が|１％でかかる": ""
+    "行動時|特技発動の短縮が|１％でかかる": "1% chance to|quicken skills|on an action."
   },
   "7874": {
-    "行動時|特技発動の短縮が|２％でかかる": ""
+    "行動時|特技発動の短縮が|２％でかかる": "2% chance to|quicken skills|on an action."
   },
   "7875": {
-    "行動時|特技発動の短縮が|３％でかかる": ""
+    "行動時|特技発動の短縮が|３％でかかる": "3% chance to|quicken skills|on an action."
   },
   "7876": {
-    "不滅の波動解放": ""
+    "不滅の波動解放": "Keep Wave Release"
   },
   "7877": {
-    "たまに２回行動": ""
+    "たまに２回行動": "Double Action"
   },
   "7878": {
-    "行動時に特技発動を短縮": ""
+    "行動時に特技発動を短縮": "Skill Speed Up On Action"
   },
   "7879": {
-    "攻撃時に１５％で|早詠みの杖が|かかる": ""
+    "攻撃時に１５％で|早詠みの杖が|かかる": "15% chance to get|Faster Caster|on an attack."
   },
   "7880": {
-    "死亡時|早詠みの杖が|３０％で残る": ""
+    "死亡時|早詠みの杖が|３０％で残る": "30% chance to|keep Faster|Caster on death."
   },
   "7881": {
-    "死亡時|早詠みの杖が|５０％で残る": ""
+    "死亡時|早詠みの杖が|５０％で残る": "50% chance to|keep Faster|Caster on death."
   },
   "7882": {
-    "死亡時|早詠みの杖が|７０％で残る": ""
+    "死亡時|早詠みの杖が|７０％で残る": "70% chance to|keep Faster|Caster on death."
   },
   "7883": {
-    "毒や眠り相手の呪文暴走率": ""
+    "毒や眠り相手の呪文暴走率": "Poisoned/Asleep Haywire Rate"
   },
   "7884": {
     "clarity_nt_char_2691": "clarity_nt_char_2691"
   },
   "7885": {
-    "マホトーンの成功率": ""
+    "マホトーンの成功率": "Fizzle Success"
   },
   "7886": {
-    "ラリホー系呪文の成功率": ""
+    "ラリホー系呪文の成功率": "Snooze-type Success"
   },
   "7887": {
-    "ヘナトス系呪文の成功率": ""
+    "ヘナトス系呪文の成功率": "Blunt-type Success"
   },
   "7888": {
-    "ヴェレ系呪文の成功率": ""
+    "ヴェレ系呪文の成功率": "Tox-type Success"
   },
   "7889": {
     "clarity_nt_char_2692": "clarity_nt_char_2692"
   },
   "7890": {
-    "攻撃時魔力かくせい": ""
+    "攻撃時魔力かくせい": "Channel Anger On Attack"
   },
   "7891": {
-    "不滅の魔力かくせい": ""
+    "不滅の魔力かくせい": "Keep Channel Anger"
   },
   "7892": {
-    "攻撃時早詠みの杖": ""
+    "攻撃時早詠みの杖": "Faster Caster On Attack"
   },
   "7893": {
     "clarity_nt_char_2693": "clarity_nt_char_2693"
   },
   "7894": {
-    "不滅の早詠みの杖": ""
+    "不滅の早詠みの杖": "Keep Faster Caster"
   },
   "7895": {
     "clarity_nt_char_2694": "clarity_nt_char_2694"
@@ -23697,351 +23697,351 @@
     "clarity_nt_char_2696": "clarity_nt_char_2696"
   },
   "7900": {
-    "中にいると呪文が|暴走しやすくなる|魔法陣を作る": ""
+    "中にいると呪文が|暴走しやすくなる|魔法陣を作る": "A magic circle|that boosts your|haywire rate."
   },
   "7901": {
     "clarity_nt_char_2697": "clarity_nt_char_2697"
   },
   "7902": {
-    "カカロン召喚（専）": ""
+    "カカロン召喚（専）": "Summon Klashmi (EX)"
   },
   "7903": {
-    "クシャラミ召喚（専）": ""
+    "クシャラミ召喚（専）": "Summon Kamashki (EX)"
   },
   "7904": {
     "clarity_nt_char_2698": "clarity_nt_char_2698"
   },
   "7905": {
-    "バルバルー召喚（専）": ""
+    "バルバルー召喚（専）": "Summon Blamara (EX)"
   },
   "7906": {
     "clarity_nt_char_2699": "clarity_nt_char_2699"
   },
   "7907": {
-    "ドメディ召喚（専）": ""
+    "ドメディ召喚（専）": "Summon Damninui (EX)"
   },
   "7908": {
-    "がいこつ召喚（専）": ""
+    "がいこつ召喚（専）": "Summon Skeleton (EX)"
   },
   "7909": {
-    "ゴースト召喚（専）": ""
+    "ゴースト召喚（専）": "Summon Ghost (EX)"
   },
   "7910": {
-    "よろいのきし召喚（専）": ""
+    "よろいのきし召喚（専）": "Summon Knight Errant (EX)"
   },
   "7911": {
-    "【160P】ＭＰ消費しない率+1%": ""
+    "【160P】ＭＰ消費しない率+1%": "[160P] Don't Use MP Rate +1%"
   },
   "7912": {
-    "【170P】ＭＰ消費しない率+3%": ""
+    "【170P】ＭＰ消費しない率+3%": "[170P] Don't Use MP Rate +3%"
   },
   "7913": {
-    "【180P】ＭＰ消費しない率+5%": ""
+    "【180P】ＭＰ消費しない率+5%": "[180P] Don't Use MP Rate +5%"
   },
   "7914": {
-    "【190P】ＭＰ消費しない率+5%": ""
+    "【190P】ＭＰ消費しない率+5%": "[190P] Don't Use MP Rate +5%"
   },
   "7915": {
-    "【200P】ＭＰ消費しない率+5%": ""
+    "【200P】ＭＰ消費しない率+5%": "[200P] Don't Use MP Rate +5%"
   },
   "7916": {
-    "【160P】炎特技ダメージ+1%": ""
+    "【160P】炎特技ダメージ+1%": "[160P] Fire Skill Damage +1%"
   },
   "7917": {
     "clarity_nt_char_2700": "clarity_nt_char_2700"
   },
   "7918": {
-    "【170P】炎特技ダメージ+2%": ""
+    "【170P】炎特技ダメージ+2%": "[170P] Fire Skill Damage +2%"
   },
   "7919": {
     "clarity_nt_char_2701": "clarity_nt_char_2701"
   },
   "7920": {
-    "【180P】炎特技ダメージ+3%": ""
+    "【180P】炎特技ダメージ+3%": "[180P] Fire Skill Damage +3%"
   },
   "7921": {
     "clarity_nt_char_2702": "clarity_nt_char_2702"
   },
   "7922": {
-    "【190P】炎特技ダメージ+3%": ""
+    "【190P】炎特技ダメージ+3%": "[190P] Fire Skill Damage +3%"
   },
   "7923": {
     "clarity_nt_char_2703": "clarity_nt_char_2703"
   },
   "7924": {
-    "【200P】炎特技ダメージ+3%": ""
+    "【200P】炎特技ダメージ+3%": "[200P] Fire Skill Damage +3%"
   },
   "7925": {
     "clarity_nt_char_2704": "clarity_nt_char_2704"
   },
   "7926": {
-    "【160P】雷特技ダメージ+1%": ""
+    "【160P】雷特技ダメージ+1%": "[160P] Thunder Skill Damage +1%"
   },
   "7927": {
     "clarity_nt_char_2705": "clarity_nt_char_2705"
   },
   "7928": {
-    "【170P】雷特技ダメージ+2%": ""
+    "【170P】雷特技ダメージ+2%": "[170P] Thunder Skill Damage +2%"
   },
   "7929": {
     "clarity_nt_char_2706": "clarity_nt_char_2706"
   },
   "7930": {
-    "【180P】雷特技ダメージ+3%": ""
+    "【180P】雷特技ダメージ+3%": "[180P] Thunder Skill Damage +3%"
   },
   "7931": {
     "clarity_nt_char_2707": "clarity_nt_char_2707"
   },
   "7932": {
-    "【190P】雷特技ダメージ+3%": ""
+    "【190P】雷特技ダメージ+3%": "[190P] Thunder Skill Damage +3%"
   },
   "7933": {
     "clarity_nt_char_2708": "clarity_nt_char_2708"
   },
   "7934": {
-    "【200P】雷特技ダメージ+3%": ""
+    "【200P】雷特技ダメージ+3%": "[200P] Thunder Skill Damage +3%"
   },
   "7935": {
     "clarity_nt_char_2709": "clarity_nt_char_2709"
   },
   "7936": {
-    "【160P】風特技ダメージ+1%": ""
+    "【160P】風特技ダメージ+1%": "[160P] Wind Skill Damage +1%"
   },
   "7937": {
     "clarity_nt_char_2710": "clarity_nt_char_2710"
   },
   "7938": {
-    "【170P】風特技ダメージ+2%": ""
+    "【170P】風特技ダメージ+2%": "[170P] Wind Skill Damage +2%"
   },
   "7939": {
     "clarity_nt_char_2711": "clarity_nt_char_2711"
   },
   "7940": {
-    "【180P】風特技ダメージ+3%": ""
+    "【180P】風特技ダメージ+3%": "[180P] Wind Skill Damage +3%"
   },
   "7941": {
     "clarity_nt_char_2712": "clarity_nt_char_2712"
   },
   "7942": {
-    "【190P】風特技ダメージ+3%": ""
+    "【190P】風特技ダメージ+3%": "[190P] Wind Skill Damage +3%"
   },
   "7943": {
     "clarity_nt_char_2713": "clarity_nt_char_2713"
   },
   "7944": {
-    "【200P】風特技ダメージ+3%": ""
+    "【200P】風特技ダメージ+3%": "[200P] Wind Skill Damage +3%"
   },
   "7945": {
     "clarity_nt_char_2714": "clarity_nt_char_2714"
   },
   "7946": {
-    "【160P】土特技ダメージ+1%": ""
+    "【160P】土特技ダメージ+1%": "[160P] Earth Skill Damage +1%"
   },
   "7947": {
     "clarity_nt_char_2715": "clarity_nt_char_2715"
   },
   "7948": {
-    "【170P】土特技ダメージ+2%": ""
+    "【170P】土特技ダメージ+2%": "[170P] Earth Skill Damage +2%"
   },
   "7949": {
     "clarity_nt_char_2716": "clarity_nt_char_2716"
   },
   "7950": {
-    "【180P】土特技ダメージ+3%": ""
+    "【180P】土特技ダメージ+3%": "[180P] Earth Skill Damage +3%"
   },
   "7951": {
     "clarity_nt_char_2717": "clarity_nt_char_2717"
   },
   "7952": {
-    "【190P】土特技ダメージ+3%": ""
+    "【190P】土特技ダメージ+3%": "[190P] Earth Skill Damage +3%"
   },
   "7953": {
     "clarity_nt_char_2718": "clarity_nt_char_2718"
   },
   "7954": {
-    "【200P】土特技ダメージ+3%": ""
+    "【200P】土特技ダメージ+3%": "[200P] Earth Skill Damage +3%"
   },
   "7955": {
     "clarity_nt_char_2719": "clarity_nt_char_2719"
   },
   "7956": {
-    "ＭＰ消費しない率+1%": ""
+    "ＭＰ消費しない率+1%": "Don't Use MP Rate +1%"
   },
   "7957": {
-    "ＭＰ消費しない率+3%": ""
+    "ＭＰ消費しない率+3%": "Don't Use MP Rate +3%"
   },
   "7958": {
-    "ＭＰ消費しない率+5%": ""
+    "ＭＰ消費しない率+5%": "Don't Use MP Rate +5%"
   },
   "7959": {
-    "装備時炎特技ダメージ+1%": ""
+    "装備時炎特技ダメージ+1%": "Fire Skill Damage +1%"
   },
   "7960": {
-    "装備時炎特技ダメージ+2%": ""
+    "装備時炎特技ダメージ+2%": "Fire Skill Damage +2%"
   },
   "7961": {
-    "装備時炎特技ダメージ+3%": ""
+    "装備時炎特技ダメージ+3%": "Fire Skill Damage +3%"
   },
   "7962": {
-    "装備時雷特技ダメージ+1%": ""
+    "装備時雷特技ダメージ+1%": "Thunder Skill Damage +1%"
   },
   "7963": {
-    "装備時雷特技ダメージ+2%": ""
+    "装備時雷特技ダメージ+2%": "Thunder Skill Damage +2%"
   },
   "7964": {
-    "装備時雷特技ダメージ+3%": ""
+    "装備時雷特技ダメージ+3%": "Thunder Skill Damage +3%"
   },
   "7965": {
-    "装備時風特技ダメージ+1%": ""
+    "装備時風特技ダメージ+1%": "Wind Skill Damage +1%"
   },
   "7966": {
-    "装備時風特技ダメージ+2%": ""
+    "装備時風特技ダメージ+2%": "Wind Skill Damage +2%"
   },
   "7967": {
-    "装備時風特技ダメージ+3%": ""
+    "装備時風特技ダメージ+3%": "Wind Skill Damage +3%"
   },
   "7968": {
-    "装備時土特技ダメージ+1%": ""
+    "装備時土特技ダメージ+1%": "Earth Skill Damage +1%"
   },
   "7969": {
-    "装備時土特技ダメージ+2%": ""
+    "装備時土特技ダメージ+2%": "Earth Skill Damage +2%"
   },
   "7970": {
-    "装備時土特技ダメージ+3%": ""
+    "装備時土特技ダメージ+3%": "Earth Skill Damage +3%"
   },
   "7971": {
-    "スティックでの攻撃時　会心のいちげきが|出やすくなった！": ""
+    "スティックでの攻撃時　会心のいちげきが|出やすくなった！": "It's now easier to get a critical hit|when equipped with a Wand!"
   },
   "7972": {
     "clarity_nt_char_2720": "clarity_nt_char_2720"
   },
   "7973": {
-    "スティック装備時に|１％の確率で　ＭＰを消費しなくなった！": ""
+    "スティック装備時に|１％の確率で　ＭＰを消費しなくなった！": "You now have a 1% chance to not use MP|when equipped with a Wand!"
   },
   "7974": {
-    "スティック装備時に|３％の確率で　ＭＰを消費しなくなった！": ""
+    "スティック装備時に|３％の確率で　ＭＰを消費しなくなった！": "You now have a 3% chance to not use MP|when equipped with a Wand!"
   },
   "7975": {
-    "スティック装備時に|５％の確率で　ＭＰを消費しなくなった！": ""
+    "スティック装備時に|５％の確率で　ＭＰを消費しなくなった！": "You now have a 5% chance to not use MP|when equipped with a Wand!"
   },
   "7976": {
-    "両手杖での攻撃時　会心のいちげきが|出やすくなった！": ""
+    "両手杖での攻撃時　会心のいちげきが|出やすくなった！": "It's now easier to get a critical hit|when equipped with a Staff!"
   },
   "7977": {
     "clarity_nt_char_2721": "clarity_nt_char_2721"
   },
   "7978": {
-    "両手杖装備時　|炎特技のダメージが　あがった！": ""
+    "両手杖装備時　|炎特技のダメージが　あがった！": "Fire skill damage increased when equipped|with a Staff!"
   },
   "7979": {
-    "両手杖装備時　|雷特技のダメージが　あがった！": ""
+    "両手杖装備時　|雷特技のダメージが　あがった！": "Thunder skill damage increased when equipped|with a Staff!"
   },
   "7980": {
-    "両手杖装備時　|風特技のダメージが　あがった！": ""
+    "両手杖装備時　|風特技のダメージが　あがった！": "Wind skill damage increased when equipped|with a Staff!"
   },
   "7981": {
-    "両手杖装備時　|土特技のダメージが　あがった！": ""
+    "両手杖装備時　|土特技のダメージが　あがった！": "Earth skill damage increased when equipped|with a Staff!"
   },
   "7982": {
-    "マジでステキに|みりょくアップ": ""
+    "マジでステキに|みりょくアップ": "Charm gained from|Magistick is|increased."
   },
   "7983": {
-    "スティック装備時|かいしん率が|１％増える": ""
+    "スティック装備時|かいしん率が|１％増える": "Crit. Rate +1%|when a Wand|is equipped."
   },
   "7984": {
-    "スティック装備時|かいしん率が|１．２％増える": ""
+    "スティック装備時|かいしん率が|１．２％増える": "Crit. Rate +1.2%|when a Wand|is equipped."
   },
   "7985": {
-    "スティック装備時|かいしん率が|１．５％増える": ""
+    "スティック装備時|かいしん率が|１．５％増える": "Crit. Rate +1.5%|when a Wand|is equipped."
   },
   "7986": {
-    "スティック装備時|１％の確率で|ＭＰを消費しない": ""
+    "スティック装備時|１％の確率で|ＭＰを消費しない": "1% chance to not|use MP when using|a Wand."
   },
   "7987": {
     "clarity_nt_char_2722": "clarity_nt_char_2722"
   },
   "7988": {
-    "スティック装備時|３％の確率で|ＭＰを消費しない": ""
+    "スティック装備時|３％の確率で|ＭＰを消費しない": "3% chance to not|use MP when using|a Wand."
   },
   "7989": {
     "clarity_nt_char_2723": "clarity_nt_char_2723"
   },
   "7990": {
-    "スティック装備時|５％の確率で|ＭＰを消費しない": ""
+    "スティック装備時|５％の確率で|ＭＰを消費しない": "5% chance to not|use MP when using|a Wand."
   },
   "7991": {
     "clarity_nt_char_2724": "clarity_nt_char_2724"
   },
   "7992": {
-    "両手杖装備時|かいしん率が|１％増える": ""
+    "両手杖装備時|かいしん率が|１％増える": "Crit. Rate +1%|when a Staff|is equipped."
   },
   "7993": {
-    "両手杖装備時|かいしん率が|１．２％増える": ""
+    "両手杖装備時|かいしん率が|１．２％増える": "Crit. Rate +1.2%|when a Staff|is equipped."
   },
   "7994": {
-    "両手杖装備時|かいしん率が|１．５％増える": ""
+    "両手杖装備時|かいしん率が|１．５％増える": "Crit. Rate +1.5%|when a Staff|is equipped."
   },
   "7995": {
-    "両手杖装備時|炎特技ダメージが|１％増える": ""
+    "両手杖装備時|炎特技ダメージが|１％増える": "Fire Skill +1%|when a Staff|is equipped."
   },
   "7996": {
-    "両手杖装備時|炎特技ダメージが|２％増える": ""
+    "両手杖装備時|炎特技ダメージが|２％増える": "Fire Skill +2%|when a Staff|is equipped."
   },
   "7997": {
-    "両手杖装備時|炎特技ダメージが|３％増える": ""
+    "両手杖装備時|炎特技ダメージが|３％増える": "Fire Skill +3%|when a Staff|is equipped."
   },
   "7998": {
-    "両手杖装備時|雷特技ダメージが|１％増える": ""
+    "両手杖装備時|雷特技ダメージが|１％増える": "Thunder Skill|+1% when a Staff|is equipped."
   },
   "7999": {
-    "両手杖装備時|雷特技ダメージが|２％増える": ""
+    "両手杖装備時|雷特技ダメージが|２％増える": "Thunder Skill|+2% when a Staff|is equipped."
   },
   "8000": {
-    "両手杖装備時|雷特技ダメージが|３％増える": ""
+    "両手杖装備時|雷特技ダメージが|３％増える": "Thunder Skill|+3% when a Staff|is equipped."
   },
   "8001": {
-    "両手杖装備時|風特技ダメージが|１％増える": ""
+    "両手杖装備時|風特技ダメージが|１％増える": "Wind Skill +1%|when a Staff|is equipped."
   },
   "8002": {
-    "両手杖装備時|風特技ダメージが|２％増える": ""
+    "両手杖装備時|風特技ダメージが|２％増える": "Wind Skill +2%|when a Staff|is equipped."
   },
   "8003": {
-    "両手杖装備時|風特技ダメージが|３％増える": ""
+    "両手杖装備時|風特技ダメージが|３％増える": "Wind Skill +3%|when a Staff|is equipped."
   },
   "8004": {
-    "両手杖装備時|土特技ダメージが|１％増える": ""
+    "両手杖装備時|土特技ダメージが|１％増える": "Earth Skill +1%|when a Staff|is equipped."
   },
   "8005": {
-    "両手杖装備時|土特技ダメージが|２％増える": ""
+    "両手杖装備時|土特技ダメージが|２％増える": "Earth Skill +2%|when a Staff|is equipped."
   },
   "8006": {
-    "両手杖装備時|土特技ダメージが|３％増える": ""
+    "両手杖装備時|土特技ダメージが|３％増える": "Earth Skill +3%|when a Staff|is equipped."
   },
   "8007": {
-    "ＭＰ消費しない率": ""
+    "ＭＰ消費しない率": "Don't Use MP Rate"
   },
   "8008": {
     "clarity_nt_char_2725": "clarity_nt_char_2725"
   },
   "8009": {
-    "炎特技のダメージ強化": ""
+    "炎特技のダメージ強化": "Fire Skill Damage Boost"
   },
   "8010": {
     "clarity_nt_char_2726": "clarity_nt_char_2726"
   },
   "8011": {
-    "雷特技のダメージ強化": ""
+    "雷特技のダメージ強化": "Thunder Skill Damage Boost"
   },
   "8012": {
     "clarity_nt_char_2727": "clarity_nt_char_2727"
   },
   "8013": {
-    "風特技のダメージ強化": ""
+    "風特技のダメージ強化": "Wind Skill Damage Boost"
   },
   "8014": {
     "clarity_nt_char_2728": "clarity_nt_char_2728"
   },
   "8015": {
-    "土特技のダメージ強化": ""
+    "土特技のダメージ強化": "Earth Skill Damage Boost"
   }
 }
