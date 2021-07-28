@@ -867,7 +867,7 @@
         "clarity_nt_char_101": "clarity_nt_char_101"
     },
     "290": {
-        "<speed=0>ついていくのを　やめますか？<yesno><close>": ""
+        "<speed=0>ついていくのを　やめますか？<yesno><close>": "<speed=0>Stop following?<yesno><close>"
     },
     "291": {
         "へんじができる　さそいが　ありません。": ""
