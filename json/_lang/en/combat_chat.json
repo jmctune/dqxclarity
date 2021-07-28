@@ -33960,7 +33960,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ふっとび距離が 60%あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's knockback distance increased by 60%!"
     },
     "11321": {
-        "ふっとび距離が|６０％ふえた！": ""
+        "ふっとび距離が|６０％ふえた！": "Knockback distance|increased by 60%!"
     },
     "11322": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 移動速度アップの 効果延長！": ""
