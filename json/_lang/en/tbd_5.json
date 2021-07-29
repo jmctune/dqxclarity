@@ -768,13 +768,13 @@
         "clarity_nt_char_85": "clarity_nt_char_85"
     },
     "257": {
-        "<speed=0><%sM_pc>を　ルームから　はずせませんでした。": ""
+        "<speed=0><%sM_pc>を　ルームから　はずせませんでした。": "<speed=0><%sM_pc> could not be removed from|the room."
     },
     "258": {
-        "<speed=0><%sM_pc>を　ルームから　はずしますか？|<yesno 1><close>": ""
+        "<speed=0><%sM_pc>を　ルームから　はずしますか？|<yesno 1><close>": "<speed=0>Remove <%sM_pc> from the room?|<yesno 1><close>"
     },
     "259": {
-        "<speed=0>すでに相手が　ルームから　抜けています。": ""
+        "<speed=0>すでに相手が　ルームから　抜けています。": "<speed=0>This person has already left the room."
     },
     "260": {
         "<speed=0><%sM_pc>を　<%sM_room>に　招待した！": ""
@@ -852,7 +852,7 @@
         "clarity_nt_char_93": "clarity_nt_char_93"
     },
     "285": {
-        "<speed=0><%sM_pc>は　すでに　そのルームから|招待を受けています。": ""
+        "<speed=0><%sM_pc>は　すでに　そのルームから|招待を受けています。": "<speed=0><%sM_pc> has already received an invitation|to join the room."
     },
     "286": {
         "<speed=0>『チャット表示をする』に　変更しました。|チャット表示の設定は　いつでも　変更可能です。": ""
