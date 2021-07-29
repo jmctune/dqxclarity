@@ -762,7 +762,7 @@
         "clarity_nt_char_84": "clarity_nt_char_84"
     },
     "255": {
-        "<speed=0><%sM_pc>を　ルームから　はずした。": ""
+        "<speed=0><%sM_pc>を　ルームから　はずした。": "<speed=0><%sM_pc> was removed from the room."
     },
     "256": {
         "clarity_nt_char_85": "clarity_nt_char_85"
