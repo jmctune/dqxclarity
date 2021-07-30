@@ -3981,7 +3981,7 @@
         "clarity_nt_char_449": "clarity_nt_char_449"
     },
     "1328": {
-        "手前のマーク": ""
+        "手前のマーク": "Foreground Mark"
     },
     "1329": {
         "clarity_nt_char_450": "clarity_nt_char_450"
@@ -4005,7 +4005,7 @@
         "メンバー数": "Members"
     },
     "1336": {
-        "チーム名": ""
+        "チーム名": "Team Name"
     },
     "1337": {
         "clarity_nt_char_452": "clarity_nt_char_452"
@@ -4281,7 +4281,7 @@
         "clarity_nt_char_482": "clarity_nt_char_482"
     },
     "1428": {
-        "獲得称号数": ""
+        "獲得称号数": "Titles Received"
     },
     "1429": {
         "<%dM_nnnn>個": "<%dM_nnnn>"
@@ -4305,7 +4305,7 @@
         "？": "?"
     },
     "1436": {
-        "今のじょうたい": ""
+        "今のじょうたい": "Current State"
     },
     "1437": {
         "全滅時の復活場所": "Resurrection Spot"
