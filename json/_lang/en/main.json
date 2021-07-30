@@ -4791,7 +4791,7 @@
         "clarity_nt_char_546": "clarity_nt_char_546"
     },
     "1598": {
-        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|ブラックリストに　加えました。": ""
+        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|ブラックリストに　加えました。": "<speed=0><%sL_PC_NICK (<%sUNIQUE_ID>) was added to the blacklist."
     },
     "1599": {
         "clarity_nt_char_547": "clarity_nt_char_547"
@@ -4815,7 +4815,7 @@
         "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は|フレンドリストが　いっぱいのようです。|フレンドに　さそえませんでした。": ""
     },
     "1606": {
-        "ブラックリスト": ""
+        "ブラックリスト": "Blacklist"
     },
     "1607": {
         "ひみつの質問": ""
