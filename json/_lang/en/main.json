@@ -4752,7 +4752,7 @@
         "clarity_nt_char_540": "clarity_nt_char_540"
     },
     "1585": {
-        "<speed=0>ブラックリストが　いっぱいです！|これ以上は　登録できません。": ""
+        "<speed=0>ブラックリストが　いっぱいです！|これ以上は　登録できません。": "<speed=0>Your blacklist is full! You can't add|anyone else."
     },
     "1586": {
         "clarity_nt_char_541": "clarity_nt_char_541"
