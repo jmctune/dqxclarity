@@ -4599,7 +4599,7 @@
         "あと<%02dM_hh>：<%02dM_mm>": "<%02dM_hh>:<%02dM_mm> Left"
     },
     "1534": {
-        "<speed=0>フレンドリストが　いっぱいです！|これ以上は　登録できません。": ""
+        "<speed=0>フレンドリストが　いっぱいです！|これ以上は　登録できません。": "<speed=0>Your friends list is full! You can't add|anyone else."
     },
     "1535": {
         "clarity_nt_char_523": "clarity_nt_char_523"
@@ -4674,7 +4674,7 @@
         "<%sM_genkiHerohero>": ""
     },
     "1559": {
-        "レジストレーションコード 入力": ""
+        "レジストレーションコード 入力": "Enter Registration Code"
     },
     "1560": {
         "スクウェア・エニックス アカウント規約": "Square Enix Account Terms"
@@ -4698,7 +4698,7 @@
         "clarity_nt_char_534": "clarity_nt_char_534"
     },
     "1567": {
-        "錬金効果は？": "Choose"
+        "錬金効果は？": "Which effect?"
     },
     "1568": {
         "clarity_nt_char_535": "clarity_nt_char_535"
@@ -4710,7 +4710,7 @@
         "clarity_nt_char_536": "clarity_nt_char_536"
     },
     "1571": {
-        "名前は？": ""
+        "名前は？": "Name?"
     },
     "1572": {
         "clarity_nt_char_537": "clarity_nt_char_537"
@@ -4740,7 +4740,7 @@
         "地方の地図": "Region Map"
     },
     "1581": {
-        "あなたの生年月日": ""
+        "あなたの生年月日": "Your Date of Birth"
     },
     "1582": {
         "clarity_nt_char_539": "clarity_nt_char_539"
