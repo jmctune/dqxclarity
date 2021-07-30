@@ -3846,7 +3846,7 @@
         "クリア": "Clear"
     },
     "1283": {
-        "【<%sM_QuestDaiTitle>】": ""
+        "【<%sM_QuestDaiTitle>】": "\"<%sM_QuestDaiTitle>\""
     },
     "1284": {
         "<%sM_landaddress1>住宅地　<%sM_landaddress2>": "<%sM_landaddress1>Husing <%sM_landaddress2>"
@@ -3891,7 +3891,7 @@
         "ブラックリストに加える": "Add to Blacklist"
     },
     "1298": {
-        "ブラックリストをみる": "See the Blacklist"
+        "ブラックリストをみる": "View Blacklist"
     },
     "1299": {
         "clarity_nt_char_441": "clarity_nt_char_441"
@@ -3927,7 +3927,7 @@
         "キャラID": "Player ID"
     },
     "1310": {
-        "12": ""
+        "12": "12"
     },
     "1311": {
         "clarity_nt_char_445": "clarity_nt_char_445"
@@ -3960,7 +3960,7 @@
         "からだ上下": ""
     },
     "1321": {
-        "スローガン": ""
+        "スローガン": "Slogan"
     },
     "1322": {
         "下地": ""
@@ -3975,7 +3975,7 @@
         "下地の色２": ""
     },
     "1326": {
-        "おまかせ": ""
+        "おまかせ": "Random"
     },
     "1327": {
         "clarity_nt_char_449": "clarity_nt_char_449"
@@ -4059,7 +4059,7 @@
         "獲得称号リスト": "Accolades"
     },
     "1354": {
-        "ＩＤ順に": "In ID order."
+        "ＩＤ順に": "By ID"
     },
     "1355": {
         "clarity_nt_char_459": "clarity_nt_char_459"
