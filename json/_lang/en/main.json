@@ -4371,7 +4371,7 @@
         "clarity_nt_char_491": "clarity_nt_char_491"
     },
     "1458": {
-        "<%sM_pc>に　取り引きを申し込みました。|取り引き中は　移動できません。|<cancel>で　キャンセルできます。": "Requested to trade <pc>. You cannot move|while trading. Press <cancel> to cancel."
+        "<%sM_pc>に　取り引きを申し込みました。|取り引き中は　移動できません。|<cancel>で　キャンセルできます。": "Requested to trade. You cannot|move while trading.|Press <cancel> to cancel."
     },
     "1459": {
         "clarity_nt_char_492": "clarity_nt_char_492"
