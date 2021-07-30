@@ -2571,10 +2571,10 @@
         "スライムレースの報酬 <%sM_item> を <%nM_num>個 受け取った！": "Received <%nM_num> <%sM_item> as a Slime Race reward!"
     },
     "858": {
-        "余ったカジノコイン <%dc_LeaveCoin>枚を ゴルスラ会長が 回収した。": ""
+        "余ったカジノコイン <%dc_LeaveCoin>枚を ゴルスラ会長が 回収した。": "Your surplus <%dc_LeaveCoin> Casino Coins were|entrusted to the Gem Slime in the lobby."
     },
     "859": {
-        "お祭りコイン <%dc_CoinEvNum>枚を カジノコイン <%dc_CoinSpNum>枚に 交換した！": ""
+        "お祭りコイン <%dc_CoinEvNum>枚を カジノコイン <%dc_CoinSpNum>枚に 交換した！": "Exchanged <%dc_CoinEvNum> Festive Coins for <%dc_CoinSpNum> Casino Coins!"
     },
     "860": {
         "お祭りコイン <%dL_casinocoin>枚を <%dL_BUY_PRICE> Gで買った！": "Bought <%dL_casinocoin> Festive Coins for <%dL_BUY_PRICE> G!"
