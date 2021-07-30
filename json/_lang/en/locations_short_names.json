@@ -4209,7 +4209,7 @@
         "clarity_nt_char_433": "clarity_nt_char_433"
     },
     "1404": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-居間": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-居間": "<%sW_MAP_NAME><%sW_DELIMITER>W. Tower Room"
     },
     "1405": {
         "勇者の橋 入口": ""
@@ -4233,7 +4233,7 @@
         "clarity_nt_char_436": "clarity_nt_char_436"
     },
     "1412": {
-        "西の塔 入口": ""
+        "西の塔 入口": "West Tower Entry"
     },
     "1413": {
         "clarity_nt_char_437": "clarity_nt_char_437"
@@ -4269,7 +4269,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-寝室": "<%sW_MAP_NAME><%sW_DELIMITER>W. Tower Bedroom"
     },
     "1424": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-３階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-３階": "<%sW_MAP_NAME><%sW_DELIMITER>W. Tower 3F"
     },
     "1425": {
         "<%sW_MAP_NAME><%sW_DELIMITER>従者部屋": ""
@@ -4299,7 +4299,7 @@
         "グランゼドーラ港 入口": "Gran Zedora Port Entrance"
     },
     "1434": {
-        "西の塔 出口": ""
+        "西の塔 出口": "West Tower Exit"
     },
     "1435": {
         "clarity_nt_char_444": "clarity_nt_char_444"
@@ -4401,7 +4401,7 @@
         "clarity_nt_char_454": "clarity_nt_char_454"
     },
     "1468": {
-        "西の塔": ""
+        "西の塔": "W. Tower"
     },
     "1469": {
         "中庭": ""
