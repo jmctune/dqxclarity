@@ -2976,7 +2976,7 @@
         "覇者の心 <%nL_KOUKAN_NUM> 個と <%sL_GOODS_ITEM> <%nL_GET_NUM>個を 交換した！": "Exchanged <%nL_KOUKAN_NUM> Champion Heart for <%nL_GET_NUM> <%sL_GOODS_ITEM>!"
     },
     "993": {
-        "カジノコイン <%dM_Coin>枚を獲得した|<%dM_Coin2>枚から <%dM_Coin3>枚に増えた": ""
+        "カジノコイン <%dM_Coin>枚を獲得した|<%dM_Coin2>枚から <%dM_Coin3>枚に増えた": "Earned <%dM_Coin> Casino Coins.|Went from <%dM_Coin2> to <%dM_Coin3> Casino Coins."
     },
     "994": {
         "条件「<%sM_JOUKEN>」が発生！": ""
