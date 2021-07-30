@@ -5379,7 +5379,7 @@
         "いきかえらせる": "Revive"
     },
     "1794": {
-        "<speed=0>入力した　名前と　キャラＩＤに|当てはまる人が　いませんでした。|名前と　キャラＩＤを　確認してください。": ""
+        "<speed=0>入力した　名前と　キャラＩＤに|当てはまる人が　いませんでした。|名前と　キャラＩＤを　確認してください。": "<speed=0>No players matched the supplied Player Name|and ID. Please check and try again."
     },
     "1795": {
         "clarity_nt_char_613": "clarity_nt_char_613"
@@ -5571,7 +5571,7 @@
         "clarity_nt_char_632": "clarity_nt_char_632"
     },
     "1858": {
-        "<%dM_cal_YYYY>-<%2dM_cal_MM>-<%2dM_cal_DD>": ""
+        "<%dM_cal_YYYY>-<%2dM_cal_MM>-<%2dM_cal_DD>": "<%2dM_cal_MM>/<%2dM_cal_DD>/"
     },
     "1859": {
         "clarity_nt_char_633": "clarity_nt_char_633"
