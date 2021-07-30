@@ -1704,16 +1704,16 @@
         "そうび": "Equip"
     },
     "569": {
-        "うごかす": ""
+        "うごかす": "Move"
     },
     "570": {
         "clarity_nt_char_189": "clarity_nt_char_189"
     },
     "571": {
-        "パーツをはずす": ""
+        "パーツをはずす": "Remove Parts"
     },
     "572": {
-        "いきもの": ""
+        "いきもの": "Being"
     },
     "573": {
         "clarity_nt_char_190": "clarity_nt_char_190"
@@ -1758,7 +1758,7 @@
         "clarity_nt_char_193": "clarity_nt_char_193"
     },
     "587": {
-        "名声": ""
+        "名声": "Fame"
     },
     "588": {
         "clarity_nt_char_194": "clarity_nt_char_194"
