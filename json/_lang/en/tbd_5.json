@@ -1743,7 +1743,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eが 帰宅しました。": "\\s<%sC_PC>\\m<%sC_ID>\\e came home."
     },
     "582": {
-        "カジノコイン <%dL_casinocoin>枚と <%sM_item> <%dL_NUM>個を 交換した！": ""
+        "カジノコイン <%dL_casinocoin>枚と <%sM_item> <%dL_NUM>個を 交換した！": "Exchanged <%dL_casinocoin> Casino Coins for <%dL_NUM> <%sM_item>!"
     },
     "583": {
         "clarity_nt_char_188": "clarity_nt_char_188"
@@ -1776,7 +1776,7 @@
         "ちいさなメダル <%dL_medal>枚と|<%sM_item>（だいじなもの）を 交換した！": "You traded <%dL_medal> Mini Medals for|<%sM_item> (Key Item)!"
     },
     "593": {
-        "カジノコイン <%dL_casinocoin>枚と|<%sM_item>（だいじなもの）を 交換した！": ""
+        "カジノコイン <%dL_casinocoin>枚と|<%sM_item>（だいじなもの）を 交換した！": "Exchanged <%dL_casinocoin> Casino Coins|for <%sM_item> (Key Item)!"
     },
     "594": {
         "<%sL_ACCE_ITEM><%sL_PLUSNUM_3>の 合成エナジーが <%dM_ACCE_ENE_1> → <%dM_ACCE_ENE_2> になった。": "<%sL_ACCE_ITEM><%sL_PLUSNUM_3>'s Energy raised <%dM_ACCE_ENE_1> → <%dM_ACCE_ENE_2>."
