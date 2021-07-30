@@ -4800,7 +4800,7 @@
         "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|ブラックリストに　加えられませんでした。|時間を置いて　もう一度お試しください。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) could not be added to the blacklist.|Please wait a while and try again."
     },
     "1601": {
-        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|ブラックリストに　加えられませんでした。|名前と　キャラＩＤを　確認してください。": ""
+        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|ブラックリストに　加えられませんでした。|名前と　キャラＩＤを　確認してください。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) could not be added to the blacklist.|Please check the Player Name and ID."
     },
     "1602": {
         "clarity_nt_char_548": "clarity_nt_char_548"
@@ -4809,10 +4809,10 @@
         "※削除予定": "Plan to Delete"
     },
     "1604": {
-        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|フレンドに　さそえませんでした。|時間を置いて　もう一度お試しください。": ""
+        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|フレンドに　さそえませんでした。|時間を置いて　もう一度お試しください。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) could not be added as a friend.|Please wait a while and try again."
     },
     "1605": {
-        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は|フレンドリストが　いっぱいのようです。|フレンドに　さそえませんでした。": ""
+        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は|フレンドリストが　いっぱいのようです。|フレンドに　さそえませんでした。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>)'s friends list seems to be full.|They cannot be added as a friend."
     },
     "1606": {
         "ブラックリスト": "Blacklist"
