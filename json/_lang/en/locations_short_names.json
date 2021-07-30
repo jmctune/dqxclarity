@@ -885,7 +885,7 @@
         "clarity_nt_char_94": "clarity_nt_char_94"
     },
     "296": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>寝室": "<%sW_MAP_NAME><%sW_DELIMITER>Bed.Rm"
+        "<%sW_MAP_NAME><%sW_DELIMITER>寝室": "<%sW_MAP_NAME><%sW_DELIMITER>Bedrm."
     },
     "297": {
         "ヴェリナード城下町への扉": "Door to the Castle Town of Velinade"
@@ -4851,13 +4851,13 @@
         "clarity_nt_char_508": "clarity_nt_char_508"
     },
     "1618": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-地下１階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-地下１階": "<%sW_MAP_NAME><%sW_DELIMITER>W. Tower B1F"
     },
     "1619": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-２階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-２階": "<%sW_MAP_NAME><%sW_DELIMITER>W. Tower 2F"
     },
     "1620": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-１階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-１階": "<%sW_MAP_NAME><%sW_DELIMITER>W. Tower 1F"
     },
     "1621": {
         "ガラシの塔": "Garashi Tower"
@@ -5076,7 +5076,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>町長の家２階": "Mayor's Home 2F"
     },
     "1693": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-テラス": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-テラス": "<%sW_MAP_NAME><%sW_DELIMITER>W. Tower Terrace"
     },
     "1694": {
         "clarity_nt_char_536": "clarity_nt_char_536"
