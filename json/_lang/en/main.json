@@ -5292,7 +5292,7 @@
         "clarity_nt_char_602": "clarity_nt_char_602"
     },
     "1765": {
-        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は|オンラインにいないので|フレンドに　さそえませんでした。": ""
+        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は|オンラインにいないので|フレンドに　さそえませんでした。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) is not online, so they cannot|be added as a friend."
     },
     "1766": {
         "あなたの　スクウェア・エニックス　アカウント": ""
