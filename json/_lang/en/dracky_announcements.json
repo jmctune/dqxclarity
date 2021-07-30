@@ -891,7 +891,7 @@
         "あと<%dC_M>分プレイをしない場合 この席から離れます": ""
     },
     "298": {
-        "このゲームもベットしない場合 この席から離れます": ""
+        "このゲームもベットしない場合 この席から離れます": "If you don't bet this game, you will be removed."
     },
     "299": {
         "clarity_nt_char_98": "clarity_nt_char_98"
@@ -912,7 +912,7 @@
         "あと1分で スカウト中のモンスターが 去ります": ""
     },
     "305": {
-        "あと<%dC_TIMES>ゲーム ベットしない場合 この席から離れます": ""
+        "あと<%dC_TIMES>ゲーム ベットしない場合 この席から離れます": "If you don't bet in <%dC_TIMES> games, you will be removed."
     },
     "306": {
         "クエストリストに 新しいクエストが紹介されました！": "New quest added to the quest list!"
