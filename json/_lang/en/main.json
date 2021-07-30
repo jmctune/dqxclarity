@@ -4797,7 +4797,7 @@
         "clarity_nt_char_547": "clarity_nt_char_547"
     },
     "1600": {
-        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|ブラックリストに　加えられませんでした。|時間を置いて　もう一度お試しください。": ""
+        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|ブラックリストに　加えられませんでした。|時間を置いて　もう一度お試しください。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) could not be added to the blacklist.|Please wait a while and try again."
     },
     "1601": {
         "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|ブラックリストに　加えられませんでした。|名前と　キャラＩＤを　確認してください。": ""
