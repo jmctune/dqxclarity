@@ -4989,10 +4989,10 @@
         "<%sM_sakusen>": ""
     },
     "1664": {
-        "待機中": "Inactive"
+        "待機中": "Standby"
     },
     "1665": {
-        "参加中": "Party"
+        "参加中": "Active"
     },
     "1666": {
         "Ｗiiポイントで支払う": "Pay with Wii Points"
@@ -5028,7 +5028,7 @@
         "メンバーをみる": "View Members"
     },
     "1677": {
-        "つかった回数：": "Number of times used:"
+        "つかった回数：": "Times Used:"
     },
     "1678": {
         "あいさつ文を変える": "Change Greeting"
@@ -5049,7 +5049,7 @@
         "<%sM_landaddress2>　<%nM_landaddress3>番地": "<%sM_landaddress2> <%nM_landaddress3>"
     },
     "1684": {
-        "<%nM_landaddress4>丁目": "<%dM_landaddress4>"
+        "<%nM_landaddress4>丁目": "Block <%dM_landaddress4>"
     },
     "1685": {
         "clarity_nt_char_572": "clarity_nt_char_572"
