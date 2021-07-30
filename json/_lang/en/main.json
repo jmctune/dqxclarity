@@ -1377,7 +1377,7 @@
         "clarity_nt_char_153": "clarity_nt_char_153"
     },
     "460": {
-        "このそうびは　染められません。": "You can't dye this yarn."
+        "このそうびは　染められません。": "You can't dye this equipment."
     },
     "461": {
         "<%sL_COL_ITEM>の<%sL_COL_BUI>|を　<%sL_COL_IRO>に変更しました。": "Changed <%sL_COL_BUI>|in <%sL_COL_ITEM> to <%sL_COL_IRO>."
@@ -1497,7 +1497,7 @@
         "敗": "L"
     },
     "500": {
-        "勝": "Win"
+        "勝": "W"
     },
     "501": {
         "今週のすごい人": "Weekly Great People"
