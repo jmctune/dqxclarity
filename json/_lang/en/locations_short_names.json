@@ -426,7 +426,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>武家屋敷": "<%sW_MAP_NAME><%sW_DELIMITER>Samurai Home"
     },
     "143": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>町人長屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>町人長屋": "<%sW_MAP_NAME><%sW_DELIMITER>Town House"
     },
     "144": {
         "<%sW_MAP_NAME><%sW_DELIMITER>木工ギルド ２階": "<%sW_MAP_NAME><%sW_DELIMITER>Woodworking Guild 2F"
@@ -5778,7 +5778,7 @@
         "clarity_nt_char_606": "clarity_nt_char_606"
     },
     "1927": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>長屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>長屋": "<%sW_MAP_NAME><%sW_DELIMITER>House"
     },
     "1928": {
         "<%sW_MAP_NAME><%sW_DELIMITER>まとめ屋": "<%sW_MAP_NAME><%sW_DELIMITER>Summ. Shop"
