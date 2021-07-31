@@ -2016,7 +2016,7 @@
         "航海のさそいが時間切れになりました": "Voyage invitation timed out."
     },
     "673": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが 航海のさそいを 取り消しました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが 航海のさそいを 取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\e cancelled the voyage."
     },
     "674": {
         "神聖秘文の一部が判明したようです": ""
