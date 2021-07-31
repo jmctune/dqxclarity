@@ -1737,7 +1737,7 @@
         "<%sL_OWNER>の畑から <%sL_ITEM>を<%nL_NUM>こ 摘んだ！|所持数 <%nL_BEFORE_NUM>こ → <%nL_AFTER_NUM>こ になった！": ""
     },
     "580": {
-        "足": "Leg"
+        "足": "Ft."
     },
     "581": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eが 帰宅しました。": "\\s<%sC_PC>\\m<%sC_ID>\\e came home."
