@@ -402,7 +402,7 @@
         "clarity_nt_char_45": "clarity_nt_char_45"
     },
     "135": {
-        "<%sL_shisetu>で <%sC_system>からの <%sM_item><%sM_plusnum>を 受け取った！": "<%sC_system> received <%sM_item><%sM_plusnum> from <%sL_shisetu>!"
+        "<%sL_shisetu>で <%sC_system>からの <%sM_item><%sM_plusnum>を 受け取った！": "Received <%sM_item><%sM_plusnum> at the <%sL_shisetu> from <C_system>!"
     },
     "136": {
         "clarity_nt_char_46": "clarity_nt_char_46"
