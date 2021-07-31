@@ -9135,7 +9135,7 @@
         "<%sM_JOB>の<%sM_SKILL_LINE>の|あふれたスキルポイントが　戻った！": ""
     },
     "3046": {
-        "<speed=0>|『タウン内の移動』の　説明です。|<br>|タウン内の移動で　選んだ場所に|一瞬で　移動できるコマンドです。|<br>|移動先として　マイタウンの入口や|置いてある　ワープ庭具の位置を|選ぶことができます。|<br>|広いマイタウンを　快適に移動するのに|ぜひ　ご活用ください！": "<speed=0>|This will explain \"Town Warps\".|<br>|You can use this command to warp to the|My Town's entrance or to any warp crystals|you've placed down instantaneously.|<br>|Use it to travel around your town quickly!"
+        "<speed=0>|『タウン内の移動』の　説明です。|<br>|タウン内の移動で　選んだ場所に|一瞬で　移動できるコマンドです。|<br>|移動先として　マイタウンの入口や|置いてある　ワープ庭具の位置を|選ぶことができます。|<br>|広いマイタウンを　快適に移動するのに|ぜひ　ご活用ください！": "<speed=0>|This will explain \"Town Movement\".|<br>|You can use this command to warp to the|My Town's entrance or to any warp crystals|you've placed down instantaneously.|<br>|Use it to travel around your town quickly!"
     },
     "3047": {
         "<speed=0>水の中では　転魔の刻印は使えない！": "<speed=0>You can't use the Demon's Seal while swimming!"
