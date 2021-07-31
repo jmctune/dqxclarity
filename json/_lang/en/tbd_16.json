@@ -180,7 +180,7 @@
         "仲間ひとりの|チャージ時間を ５秒短縮": "Reduce one ally's charge|time by 5 seconds."
     },
     "61": {
-        "周りの仲間のＨＰを|最大３００ 少しずつ回復し|守備力も上げる": "Restore up to 300 HP to all nearby allies,|and raise their defense."
+        "周りの仲間のＨＰを|最大３００ 少しずつ回復し|守備力も上げる": "Restore up to 300 HP to all|nearby allies, and|raise their defense."
     },
     "62": {
         "仲間ひとりの|ＨＰを２５～回復し|悪い効果を 打ち消す": "Restore 25 HP to one ally|and negate negative statuses."
@@ -357,7 +357,7 @@
         "仲間ひとりの チャージ時間を |しばらく ５秒短縮": "Reduce one ally's charge|time by 5 seconds."
     },
     "120": {
-        "周りの仲間のＨＰを 最大３００|少しずつ回復し 守備力も上げる": "Restore up to 300 HP to all|nearby allies, and raise|their defense."
+        "周りの仲間のＨＰを 最大３００|少しずつ回復し 守備力も上げる": "Restore up to 300 HP to all nearby allies,|and raise their defense."
     },
     "121": {
         "仲間ひとりのＨＰを ２５～回復し|悪い効果を 打ち消す": "Restore 25 HP to all nearby allies|and negate any negative statuses."
