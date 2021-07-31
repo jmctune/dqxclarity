@@ -180,7 +180,7 @@
         "仲間ひとりの|チャージ時間を ５秒短縮": "Reduce one ally's charge|time by 5 seconds."
     },
     "61": {
-        "周りの仲間のＨＰを|最大３００ 少しずつ回復し|守備力も上げる": "Restore up to 300 HP to all|nearby allies, and raise|their defense."
+        "周りの仲間のＨＰを|最大３００ 少しずつ回復し|守備力も上げる": "Restore up to 300 HP to all nearby allies,|and raise their defense."
     },
     "62": {
         "仲間ひとりの|ＨＰを２５～回復し|悪い効果を 打ち消す": "Restore 25 HP to one ally|and negate negative statuses."
@@ -333,7 +333,7 @@
         "周りの仲間の攻撃力を １段階上げる": "Raise all nearby allies'|attack by 1 stage."
     },
     "112": {
-        "仲間ひとりの テンションが上がった時に|自分も テンションが上がる効果": "Has a chance of increasing|your tension when an ally's|tension rises."
+        "仲間ひとりの テンションが上がった時に|自分も テンションが上がる効果": "Has a chance of increasing your tension|when an ally's tension rises."
     },
     "113": {
         "仲間ひとりの テンションを１段階上げる|自分に使うことは できない": "Increase tension for 1 ally|by 1 level. Can't use on self."
@@ -402,13 +402,13 @@
         "clarity_nt_char_47": "clarity_nt_char_47"
     },
     "135": {
-        "テンションが かなり上がりやすくなる": "Make it easier to increase|your tension."
+        "テンションが かなり上がりやすくなる": "Makes it easier to increase your tension."
     },
     "136": {
         "clarity_nt_char_48": "clarity_nt_char_48"
     },
     "137": {
-        "テンションを ２段階上げるようになる": "Raise your tension by 2|stages."
+        "テンションを ２段階上げるようになる": "Raise your tension by 2 levels."
     },
     "138": {
         "clarity_nt_char_49": "clarity_nt_char_49"
