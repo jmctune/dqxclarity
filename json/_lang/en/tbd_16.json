@@ -189,7 +189,7 @@
         "周りの仲間のＨＰを|２５～回復する": "Restore 25 HP to all nearby|allies."
     },
     "64": {
-        "周りの仲間を|ＨＰ１で 生き返らせるが|失敗する時もある": "Revive all nearby allies with|1 HP, but it might fail"
+        "周りの仲間を|ＨＰ１で 生き返らせるが|失敗する時もある": "Revive all nearby allies with|1 HP, but it might fail."
     },
     "65": {
         "clarity_nt_char_25": "clarity_nt_char_25"
@@ -360,7 +360,7 @@
         "周りの仲間のＨＰを 最大３００|少しずつ回復し 守備力も上げる": "Restore up to 300 HP to all|nearby allies, and raise|their defense."
     },
     "121": {
-        "仲間ひとりのＨＰを ２５～回復し|悪い効果を 打ち消す": "Restore 25 HP to all nearby|allies and negate any|negative statuses."
+        "仲間ひとりのＨＰを ２５～回復し|悪い効果を 打ち消す": "Restore 25 HP to all nearby allies|and negate any negative statuses."
     },
     "122": {
         "周りの仲間のＨＰを ２５～回復する": "Restore 25 HP to all nearby|allies."
