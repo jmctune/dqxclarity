@@ -4491,7 +4491,7 @@
         "対戦相手指定を断られました": ""
     },
     "1498": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eに 航海のさそいを 断られました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eに 航海のさそいを 断られました": "Voyage invite to \\s<%sC_PC>\\m<%sC_ID>\\e was cancelled."
     },
     "1499": {
         "clarity_nt_char_510": "clarity_nt_char_510"
