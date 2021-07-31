@@ -396,7 +396,7 @@
         "<%sL_shisetu>で <%sC_system>からの手紙を受け取った！": "<%sC_system> received a letter from <%sL_shisetu>!"
     },
     "133": {
-        "<%sL_shisetu>で <%sC_system>からの <%sM_item><%sM_plusnum>を <%dM_item_num>個 受け取った！": "<%sC_system> received <%dM_item_num> <%sM_item><%sM_plusnum> from <%sL_shisetu>!"
+        "<%sL_shisetu>で <%sC_system>からの <%sM_item><%sM_plusnum>を <%dM_item_num>個 受け取った！": "Received <%dM_item_num> <%sM_item><%sM_plusnum> at the <%sL_shisetu> from <%sC_system>!"
     },
     "134": {
         "clarity_nt_char_45": "clarity_nt_char_45"
