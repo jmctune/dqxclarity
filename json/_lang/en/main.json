@@ -29469,7 +29469,7 @@
         "迷宮へ行く": "Go to Maze"
     },
     "9824": {
-        "最高レベルで (レベル<%dM_meikyuu_lv_max>)": ""
+        "最高レベルで (レベル<%dM_meikyuu_lv_max>)": "Highest Level (Level <%dM_meikyuu_lv_max>)"
     },
     "9825": {
         "clarity_nt_char_3313": "clarity_nt_char_3313"
@@ -29490,7 +29490,7 @@
         "クリア回数": "Clears"
     },
     "9831": {
-        "最高レベル": ""
+        "最高レベル": "Highest Level"
     },
     "9832": {
         "てきのつよさ": "Army Strength"
