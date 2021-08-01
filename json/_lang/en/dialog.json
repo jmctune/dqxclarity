@@ -4767,7 +4767,7 @@
         "clarity_nt_char_538": "clarity_nt_char_538"
     },
     "1590": {
-        "追加パッケージ「<3rd_title>」の|レジストレーションコードが未登録のため|プレイすることができません。": "Registration code for '<3rd_title>' hasn't been registered, so you cannot play."
+        "追加パッケージ「<3rd_title>」の|レジストレーションコードが未登録のため|プレイすることができません。": "Registration code for|'<3rd_title>' hasn't|been registered, so you cannot play."
     },
     "1591": {
         "clarity_nt_char_539": "clarity_nt_char_539"
@@ -4776,13 +4776,13 @@
         "追加パッケージ「<3rd_title>」が|インストールされていないため|プレイすることができません。": "You cannot play due to|'<3rd_title>'|not being installed."
     },
     "1593": {
-        "追加パッケージ「<3rd_title>」の|レジストレーションコードが未登録のため|再生できません。": "Registration code for '<3rd_title>' hasn't been registered, so you cannot play."
+        "追加パッケージ「<3rd_title>」の|レジストレーションコードが未登録のため|再生できません。": "Registration code for|'<3rd_title>' hasn't|been registered, so you cannot play."
     },
     "1594": {
         "clarity_nt_char_540": "clarity_nt_char_540"
     },
     "1595": {
-        "追加パッケージ「<3rd_title>」が|インストールされていないため|再生できません。": "You cannot play due to '<3rd_title>' not being installed."
+        "追加パッケージ「<3rd_title>」が|インストールされていないため|再生できません。": "You cannot play due to|'<3rd_title>'|not being installed."
     },
     "1596": {
         "追加パッケージ「<3rd_title>」の|レジストレーションコードが未登録のため|対象マップへの移動に　失敗しました。": "Registration code for '<3rd_title>' hasn't been registered, so you cannot move to this map."
