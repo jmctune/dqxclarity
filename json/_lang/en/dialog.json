@@ -4008,7 +4008,7 @@
         "<speed=0>勇気の輝きを　<%nM_kagayaki>使って|この場で　復活できます。|勇気の輝きを使って　復活しますか？<yesno2><close>": ""
     },
     "1337": {
-        "勇気の輝石を|３個使って|迷宮に入ります": ""
+        "勇気の輝石を|３個使って|迷宮に入ります": "Use 3 Courage|Augites to enter|the Maze."
     },
     "1338": {
         "clarity_nt_char_445": "clarity_nt_char_445"
