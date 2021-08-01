@@ -1983,7 +1983,7 @@
         "clarity_nt_char_224": "clarity_nt_char_224"
     },
     "662": {
-        "<speed=0>魔法の迷宮に行くのを　やめますか？<yesno><close>": ""
+        "<speed=0>魔法の迷宮に行くのを　やめますか？<yesno><close>": "<speed=0>Stop going to the Magic Maze?<yesno><close>"
     },
     "663": {
         "clarity_nt_char_225": "clarity_nt_char_225"
