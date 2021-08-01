@@ -2721,7 +2721,7 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>を よびよせた！": ""
     },
     "908": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは しんだふりをした！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは しんだふりをした！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e played dead!"
     },
     "909": {
         "clarity_nt_char_327": "clarity_nt_char_327"
