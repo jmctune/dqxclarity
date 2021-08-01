@@ -4773,7 +4773,7 @@
         "clarity_nt_char_539": "clarity_nt_char_539"
     },
     "1592": {
-        "追加パッケージ「<3rd_title>」が|インストールされていないため|プレイすることができません。": "You cannot play due to '<3rd_title>' not being installed."
+        "追加パッケージ「<3rd_title>」が|インストールされていないため|プレイすることができません。": "You cannot play due to|'<3rd_title>'|not being installed."
     },
     "1593": {
         "追加パッケージ「<3rd_title>」の|レジストレーションコードが未登録のため|再生できません。": "Registration code for '<3rd_title>' hasn't been registered, so you cannot play."
