@@ -2034,7 +2034,7 @@
         "clarity_nt_char_230": "clarity_nt_char_230"
     },
     "679": {
-        "<speed=0>今の仲間と　続けて|別の魔法の迷宮に　行きますか？|<color_yellow>※一緒に行けない場合もあります！<color_white><select>|やめる|続ける|<select_end>|<close>": ""
+        "<speed=0>今の仲間と　続けて|別の魔法の迷宮に　行きますか？|<color_yellow>※一緒に行けない場合もあります！<color_white><select>|やめる|続ける|<select_end>|<close>": "<speed=0>Would you like to continue through another|Magic Maze with your party?|<color_yellow>*There are some cases where you can't|continue on!<color_white><select>|Stop|Continue|<select_end>|<close>"
     },
     "680": {
         "<speed=0>仲間を　待っています……。<break>": ""
@@ -3696,7 +3696,7 @@
         "この宝箱を開けるには　ヒスイのカギが|必要なようだ。|<br>|ヒスイのカギを　ひとつ失いますが|宝箱を　開けますか？<yesno><close>": ""
     },
     "1233": {
-        "<speed=0>迷宮に入る前にいた場所に　戻りますか？|ゴールドは　失いません。<yesno2><close>": ""
+        "<speed=0>迷宮に入る前にいた場所に　戻りますか？|ゴールドは　失いません。<yesno2><close>": "<speed=0>Would you like to leave the Magic Maze?|Your collected Gold will not be lost.<yesno2><close>"
     },
     "1234": {
         "clarity_nt_char_410": "clarity_nt_char_410"
