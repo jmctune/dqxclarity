@@ -5670,7 +5670,7 @@
         "clarity_nt_char_635": "clarity_nt_char_635"
     },
     "1891": {
-        "<speed=0>いま着ている　装備セットを|マイコーデ「<%sM_myset>」に|上書き登録しますか？|<yesno><close>": ""
+        "<speed=0>いま着ている　装備セットを|マイコーデ「<%sM_myset>」に|上書き登録しますか？|<yesno><close>": "<speed=0>Do you want to overwrite the glamour set|\"<%sM_myset>\" with the equipment|you're currently wearing?|<yesno><close>"
     },
     "1892": {
         "clarity_nt_char_636": "clarity_nt_char_636"
