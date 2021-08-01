@@ -5469,7 +5469,7 @@
         "<speed=0>このマイコーデには　空の部位があります。|空の部位を　どのように表示して着ますか？|<select_se_off>|空の部位は空のままで着る|空の部位に装備中の装備を表示して着る|<select_end>|<close>": ""
     },
     "1824": {
-        "<speed=0>いま着ている　装備セットを|マイコーデに　新規登録しますか？|<yesno><close>": ""
+        "<speed=0>いま着ている　装備セットを|マイコーデに　新規登録しますか？|<yesno><close>": "<speed=0>Register your current equipment as a|glamour set?|<yesno><close>"
     },
     "1825": {
         "clarity_nt_char_616": "clarity_nt_char_616"
