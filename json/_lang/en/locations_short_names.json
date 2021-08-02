@@ -5760,7 +5760,7 @@
         "自由の窓辺の絵": ""
     },
     "1921": {
-        "孤島の修道院 入口": ""
+        "孤島の修道院 入口": "Island Monastery Entry"
     },
     "1922": {
         "風穴の研究室 入口": ""
@@ -5784,7 +5784,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>まとめ屋": "<%sW_MAP_NAME><%sW_DELIMITER>Summ. Shop"
     },
     "1929": {
-        "孤島の修道院 出口": ""
+        "孤島の修道院 出口": "Island Monastery Exit"
     },
     "1930": {
         "風穴の研究室 出口": ""
@@ -11910,7 +11910,7 @@
         "clarity_nt_char_1284": "clarity_nt_char_1284"
     },
     "3971": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>孤島の修道院": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>孤島の修道院": "<%sW_MAP_NAME><%sW_DELIMITER>Island Monastery"
     },
     "3972": {
         "ザードの祭壇 出口": ""
