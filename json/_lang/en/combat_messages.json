@@ -627,7 +627,7 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>Ｐの経験値 <%dB_VALUE2>Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> EXP and <%dB_VALUE2> Gold!"
     },
     "210": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>Ｐの経験値を かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> EXP！"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>Ｐの経験値を かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> EXP!"
     },
     "211": {
         "clarity_nt_char_71": "clarity_nt_char_71"
@@ -750,10 +750,10 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>(＋<%dB_VALUE2>)Ｐの経験値 <%dB_VALUE3>(＋<%dB_VALUE4>)Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> (+<%dB_VALUE2>) EXP and <%dB_VALUE3> (+<%dB_VALUE4>) Gold!"
     },
     "251": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>(＋<%dB_VALUE2>)Ｐの経験値を かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> (+<%dB_VALUE2>) EXP！"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>(＋<%dB_VALUE2>)Ｐの経験値を かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> (+<%dB_VALUE2>) EXP!"
     },
     "252": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>(＋<%dB_VALUE2>)Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> (+<%dB_VALUE2>) Gold."
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>(＋<%dB_VALUE2>)Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> (+<%dB_VALUE2>) Gold!"
     },
     "253": {
         "clarity_nt_char_85": "clarity_nt_char_85"
@@ -768,7 +768,7 @@
         "clarity_nt_char_86": "clarity_nt_char_86"
     },
     "257": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値を かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE3> (+<%dB_VALUE4>) EXP！"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値を かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE3> (+<%dB_VALUE4>) EXP!"
     },
     "258": {
         "clarity_nt_char_87": "clarity_nt_char_87"
