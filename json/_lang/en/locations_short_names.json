@@ -534,10 +534,10 @@
         "clarity_nt_char_55": "clarity_nt_char_55"
     },
     "179": {
-        "闘技場・舞台 入口": ""
+        "闘技場・舞台 入口": "Arena Stage Entry"
     },
     "180": {
-        "闘技場・舞台 出口": ""
+        "闘技場・舞台 出口": "Arena Stage Exit"
     },
     "181": {
         "<%sW_MAP_NAME><%sW_DELIMITER>預かり所・郵便局": "<%sW_MAP_NAME><%sW_DELIMITER>Depository - P. Office"
@@ -909,10 +909,10 @@
         "clarity_nt_char_97": "clarity_nt_char_97"
     },
     "304": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地流輪の舞台": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地流輪の舞台": "<%sW_MAP_NAME><%sW_DELIMITER>Ground Flow Stage"
     },
     "305": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>天流輪の舞台": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>天流輪の舞台": "<%sW_MAP_NAME><%sW_DELIMITER>Sky Wheel Stage"
     },
     "306": {
         "ヴェリナード領北への道": "Road to Verinard North"
