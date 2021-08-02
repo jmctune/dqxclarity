@@ -1944,19 +1944,19 @@
         "攻撃呪文耐性 +12%": ""
     },
     "649": {
-        "眠りガード +20%": ""
+        "眠りガード +20%": "Sleep Guard +20%"
     },
     "650": {
         "clarity_nt_char_219": "clarity_nt_char_219"
     },
     "651": {
-        "眠りガード +40%": ""
+        "眠りガード +40%": "Sleep Guard +40%"
     },
     "652": {
         "clarity_nt_char_220": "clarity_nt_char_220"
     },
     "653": {
-        "眠りガード +60%": ""
+        "眠りガード +60%": "Sleep Guard +60%"
     },
     "654": {
         "clarity_nt_char_221": "clarity_nt_char_221"
@@ -2052,25 +2052,25 @@
         "封印ガード +100%": "Seal Guard +100%"
     },
     "685": {
-        "幻惑ガード +20%": ""
+        "幻惑ガード +20%": "Blind Guard +20%"
     },
     "686": {
         "clarity_nt_char_235": "clarity_nt_char_235"
     },
     "687": {
-        "幻惑ガード +40%": ""
+        "幻惑ガード +40%": "Blind Guard +40%"
     },
     "688": {
         "clarity_nt_char_236": "clarity_nt_char_236"
     },
     "689": {
-        "幻惑ガード +60%": ""
+        "幻惑ガード +60%": "Blind Guard +60%"
     },
     "690": {
         "clarity_nt_char_237": "clarity_nt_char_237"
     },
     "691": {
-        "幻惑ガード +80%": ""
+        "幻惑ガード +80%": "Blind Guard +80%"
     },
     "692": {
         "clarity_nt_char_238": "clarity_nt_char_238"
@@ -3162,16 +3162,16 @@
         "clarity_nt_char_357": "clarity_nt_char_357"
     },
     "1055": {
-        "幻惑ガード +5%": ""
+        "幻惑ガード +5%": "Blind Guard +5%"
     },
     "1056": {
-        "幻惑ガード +10%": ""
+        "幻惑ガード +10%": "Blind Guard +10%"
     },
     "1057": {
         "clarity_nt_char_358": "clarity_nt_char_358"
     },
     "1058": {
-        "幻惑ガード +30%": ""
+        "幻惑ガード +30%": "Blind Guard +30%"
     },
     "1059": {
         "clarity_nt_char_359": "clarity_nt_char_359"
