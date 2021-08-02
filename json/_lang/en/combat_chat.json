@@ -28662,7 +28662,7 @@
         "呪文の威力がさがった！": ""
     },
     "9555": {
-        "呪文での回復量がさがった！": "Healing amount from spells is lowered!"
+        "呪文での回復量がさがった！": "Spell healing power|decreased!"
     },
     "9556": {
         "カウンターが|しやすくなった！": ""
@@ -31005,7 +31005,7 @@
         "呪文の威力が|もとにもどった！": ""
     },
     "10336": {
-        "呪文での回復量が|もとにもどった！": "Healing amount from spells returned to normal!"
+        "呪文での回復量が|もとにもどった！": "Spell recovery power|returned to normal!"
     },
     "10337": {
         "興味がないようだ": ""
