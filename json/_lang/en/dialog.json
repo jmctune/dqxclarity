@@ -5346,13 +5346,13 @@
         "歩く方向に視点が|ついていくか|設定します": "Set the camera|to follow you|when you walk."
     },
     "1783": {
-        "ちいさなメダルを <%dM_medal>枚 手に入れた！": "You found <%dM_medal> Mini Medals."
+        "ちいさなメダルを <%dM_medal>枚 手に入れた！": "You found <%dM_medal> Mini Medals!"
     },
     "1784": {
         "clarity_nt_char_604": "clarity_nt_char_604"
     },
     "1785": {
-        "ちいさなメダルを 手に入れた！": "You found a Mini Medal."
+        "ちいさなメダルを 手に入れた！": "You found a Mini Medal!"
     },
     "1786": {
         "今は　ドルボードに乗れません。": "I can't ride a dolworm board right now."
@@ -8112,7 +8112,7 @@
         "clarity_nt_char_907": "clarity_nt_char_907"
     },
     "2705": {
-        "自分のパーティと　相手パーティが|全員　おなじ場所にいないと　誘えません！": "You can't invite unless you and their party are in the same place!"
+        "自分のパーティと　相手パーティが|全員　おなじ場所にいないと　誘えません！": "You can't invite unless you and their|party are in the same place!"
     },
     "2706": {
         "ランクリセットされてないため　参加できません。|コロシアムの受付係から　ランクをリセットして|参加してください。": ""
