@@ -6138,7 +6138,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>崩れゆく虚室": ""
     },
     "2047": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>書庫": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>書庫": "<%sW_MAP_NAME><%sW_DELIMITER>Study"
     },
     "2048": {
         "<%sW_MAP_NAME><%sW_DELIMITER>長老の家": ""
@@ -10068,7 +10068,7 @@
         "clarity_nt_char_1071": "clarity_nt_char_1071"
     },
     "3357": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>屋上祭殿": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>屋上祭殿": "<%sW_MAP_NAME><%sW_DELIMITER>Rooftop"
     },
     "3358": {
         "ぱふぱふ天国 出口": ""
@@ -10428,7 +10428,7 @@
         "暗闇のボロ屋 出口": ""
     },
     "3477": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>レグルの書庫": "<%sW_MAP_NAME><%sW_DELIMITER>Leglu's Storeroom"
+        "<%sW_MAP_NAME><%sW_DELIMITER>レグルの書庫": "<%sW_MAP_NAME><%sW_DELIMITER>Leglu's Archives"
     },
     "3478": {
         "<%sW_MAP_NAME><%sW_DELIMITER>居住地区": ""
