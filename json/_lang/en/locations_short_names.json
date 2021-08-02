@@ -462,7 +462,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>橋上の宿": "<%sW_MAP_NAME><%sW_DELIMITER>Bridge Inn"
     },
     "155": {
-        "忘れられた書庫 入口": ""
+        "忘れられた書庫 入口": "Forgotten Library Entry"
     },
     "156": {
         "clarity_nt_char_47": "clarity_nt_char_47"
@@ -2457,7 +2457,7 @@
         "clarity_nt_char_262": "clarity_nt_char_262"
     },
     "820": {
-        "忘れられた書庫 出口": ""
+        "忘れられた書庫 出口": "Forgotten Library Exit"
     },
     "821": {
         "clarity_nt_char_263": "clarity_nt_char_263"
@@ -4617,7 +4617,7 @@
         "clarity_nt_char_480": "clarity_nt_char_480"
     },
     "1540": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２階-書庫": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>２階-書庫": "<%sW_MAP_NAME><%sW_DELIMITER>2F Library"
     },
     "1541": {
         "clarity_nt_char_481": "clarity_nt_char_481"
@@ -9900,7 +9900,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>小島": "<%sW_MAP_NAME><%sW_DELIMITER>Islet"
     },
     "3301": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>祭司長の部屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>祭司長の部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Chief Priest Room"
     },
     "3302": {
         "<%sW_MAP_NAME><%sW_DELIMITER>調査用具庫": ""
