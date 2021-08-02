@@ -783,7 +783,7 @@
         "clarity_nt_char_88": "clarity_nt_char_88"
     },
     "262": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE2>(＋<%dB_VALUE3>)Ｐの経験値を かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE2> (+<%dB_VALUE3>) EXP！"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE2>(＋<%dB_VALUE3>)Ｐの経験値を かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE2> (+<%dB_VALUE3>) EXP!"
     },
     "263": {
         "clarity_nt_char_89": "clarity_nt_char_89"
@@ -837,7 +837,7 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの経験値 <%dB_VALUE2> G かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> EXP and <%dB_VALUE2> Gold!"
     },
     "280": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの経験値を かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> EXP！"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの経験値を かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> EXP!"
     },
     "281": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> G かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> Gold!"
@@ -1185,7 +1185,7 @@
         "clarity_nt_char_136": "clarity_nt_char_136"
     },
     "396": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの達人経験値をかくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> Master Orb EXP！"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの達人経験値をかくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> Master Orb EXP!"
     },
     "397": {
         "clarity_nt_char_137": "clarity_nt_char_137"
