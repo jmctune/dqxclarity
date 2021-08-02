@@ -28749,7 +28749,7 @@
         "clarity_nt_char_3182": "clarity_nt_char_3182"
     },
     "9584": {
-        "<%sB_TARGET2>に|みとれてシビれている！": "<%sB_TARGET2>is dazzled|and numb!"
+        "<%sB_TARGET2>に|みとれてシビれている！": "<%sB_TARGET2> is dazzled|and numb!"
     },
     "9585": {
         "clarity_nt_char_3183": "clarity_nt_char_3183"
@@ -28761,7 +28761,7 @@
         "clarity_nt_char_3184": "clarity_nt_char_3184"
     },
     "9588": {
-        "まぼろしに|つつまれた！": ""
+        "まぼろしに|つつまれた！": "Surrounded by|illusions!"
     },
     "9589": {
         "clarity_nt_char_3185": "clarity_nt_char_3185"
@@ -28791,10 +28791,10 @@
         "clarity_nt_char_3187": "clarity_nt_char_3187"
     },
     "9598": {
-        "ダメージバリアに|まもられた！": ""
+        "ダメージバリアに|まもられた！": "Protected by a|damage barrier!"
     },
     "9599": {
-        "もうどくにおかされた！": ""
+        "もうどくにおかされた！": "Poisoned!"
     },
     "9600": {
         "どくにかかった！": ""
