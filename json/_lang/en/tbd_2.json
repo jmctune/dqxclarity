@@ -1038,7 +1038,7 @@
         "clarity_nt_char_113": "clarity_nt_char_113"
     },
     "347": {
-        "笑いガード +100%": ""
+        "笑いガード +100%": "Laugh Guard +100%"
     },
     "348": {
         "誘うおどりガード+100%": ""
@@ -1845,7 +1845,7 @@
         "しばりガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Restraint Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "616": {
-        "笑いガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "笑いガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Laugh Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "617": {
         "clarity_nt_char_208": "clarity_nt_char_208"
@@ -5019,7 +5019,7 @@
         "clarity_nt_char_576": "clarity_nt_char_576"
     },
     "1674": {
-        "笑いガード <%sB_renkin1>(<%+dB_renkindiff>)%": ""
+        "笑いガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Laugh Guard <%sB_renkin1> (<%+dB_renkindiff>)%"
     },
     "1675": {
         "踊らされガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Dance Guard <%sB_renkin1> (<%+dB_renkindiff>)%"
@@ -5250,7 +5250,7 @@
         "clarity_nt_char_596": "clarity_nt_char_596"
     },
     "1751": {
-        "笑いガード <%+dB_renkin>（<%+dB_renkindiff>）%": ""
+        "笑いガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Laugh Guard <%sB_renkin1> (<%+dB_renkindiff>)%"
     },
     "1752": {
         "踊らされガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Dance Guard <%+dB_renkin> (<%+dB_renkindiff>)%"
