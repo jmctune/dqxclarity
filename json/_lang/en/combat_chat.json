@@ -25389,7 +25389,7 @@
         "clarity_nt_char_2815": "clarity_nt_char_2815"
     },
     "8464": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは テンションリンク状態に なった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは テンションリンク状態に なった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is now Tension Linked!"
     },
     "8465": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ドラゴンビート状態に なった！": ""
@@ -28182,7 +28182,7 @@
         "clarity_nt_char_3127": "clarity_nt_char_3127"
     },
     "9395": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションリンクが 解除された！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションリンクが 解除された！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Tension Link effect faded!"
     },
     "9396": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ドラゴンビートが 解除された！": ""
@@ -29892,7 +29892,7 @@
         "きのこの成分で|興奮している！": ""
     },
     "9965": {
-        "テンションリンク状態|になった！": ""
+        "テンションリンク状態|になった！": "Tension Linked!"
     },
     "9966": {
         "clarity_nt_char_3312": "clarity_nt_char_3312"
@@ -32385,7 +32385,7 @@
         "clarity_nt_char_3592": "clarity_nt_char_3592"
     },
     "10796": {
-        "テンションリンクが|解除された！": ""
+        "テンションリンクが|解除された！": "Tension Link|effect faded!"
     },
     "10797": {
         "clarity_nt_char_3593": "clarity_nt_char_3593"
