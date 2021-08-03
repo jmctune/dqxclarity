@@ -6912,7 +6912,7 @@
         "トラシュカで　常に移動速度が少しアップ": "Move speed up slightly during Trashka"
     },
     "2305": {
-        "攻撃時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で雷と光耐性ダウン": "Thunder/Light Resist Down On Attack <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "攻撃時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で雷と光耐性ダウン": "Thunder/Light Resist Down Attack <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "2306": {
         "clarity_nt_char_757": "clarity_nt_char_757"
