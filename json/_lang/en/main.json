@@ -3288,7 +3288,7 @@
         "<%sM_item><%sM_rurastone><%sM_dot><%sM_sub>の石": "<%sM_item><%sM_rurastone><%sM_dot><%sM_sub>"
     },
     "1097": {
-        "短剣": "Dagger"
+        "短剣": "DAG"
     },
     "1098": {
         "clarity_nt_char_372": "clarity_nt_char_372"
@@ -10434,7 +10434,7 @@
         "clarity_nt_char_1200": "clarity_nt_char_1200"
     },
     "3479": {
-        "両剣": ""
+        "両剣": "CLY"
     },
     "3480": {
         "clarity_nt_char_1201": "clarity_nt_char_1201"
