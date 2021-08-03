@@ -447,7 +447,7 @@
         "clarity_nt_char_51": "clarity_nt_char_51"
     },
     "150": {
-        "<%sL_OWNER>の収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。": "<%sL_OWNER> took out <%sL_ITEM_NAME><%sL_PLUSNUM> from storage furniture."
+        "<%sL_OWNER>の収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。": "<%sL_OWNER> took out <%sL_ITEM_NAME><%sL_PLUSNUM> from storage."
     },
     "151": {
         "<%sL_REGION>住宅村 <%dL_AREA>丁目 |<%sL_DIVISION> <%dL_TOTI_BANGOU>番地の土地を 売った。": ""
@@ -588,7 +588,7 @@
         "自宅の屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "You took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> from the attic storage of my house."
     },
     "197": {
-        "<%sL_OWNER>の収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "<%sL_OWNER> took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> from storage furniture."
+        "<%sL_OWNER>の収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "<%sL_OWNER> took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> from storage."
     },
     "198": {
         "clarity_nt_char_65": "clarity_nt_char_65"
