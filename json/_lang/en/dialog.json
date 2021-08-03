@@ -1815,7 +1815,7 @@
         "clarity_nt_char_204": "clarity_nt_char_204"
     },
     "606": {
-        "<speed=0>『いまどんな？設定』が『仲間募集中』に|なっていません。|『仲間募集中』に　設定しますか？<yesno><close>": ""
+        "<speed=0>『いまどんな？設定』が『仲間募集中』に|なっていません。|『仲間募集中』に　設定しますか？<yesno><close>": "<speed=0>Your Status Icon is not set to \"Seeking|Party\". Do you want to set your status to|\"Seeking Party\"?<yesno><close>"
     },
     "607": {
         "clarity_nt_char_205": "clarity_nt_char_205"
