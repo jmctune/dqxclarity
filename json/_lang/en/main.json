@@ -357,10 +357,10 @@
         "足": "Ft."
     },
     "120": {
-        "棍": "Rod"
+        "棍": "ROD"
     },
     "121": {
-        "ツメ": "Claws"
+        "ツメ": "CLW"
     },
     "122": {
         "clarity_nt_char_39": "clarity_nt_char_39"
@@ -372,7 +372,7 @@
         "ブーメラン": "Boomerang"
     },
     "125": {
-        "オノ": "Axe"
+        "オノ": "AXE"
     },
     "126": {
         "clarity_nt_char_40": "clarity_nt_char_40"
@@ -3297,7 +3297,7 @@
         "両手剣": "Claymore"
     },
     "1100": {
-        "ムチ": "Whip"
+        "ムチ": "WHP"
     },
     "1101": {
         "clarity_nt_char_373": "clarity_nt_char_373"
@@ -3306,7 +3306,7 @@
         "スティック": "Wand"
     },
     "1103": {
-        "扇": "Fan"
+        "扇": "FAN"
     },
     "1104": {
         "必要な素材": "Needed Mats."
