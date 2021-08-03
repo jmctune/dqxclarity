@@ -3468,7 +3468,7 @@
         "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>種族神像の間<%sW_AUTODUNG_CF>": ""
     },
     "1157": {
-        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>地下<%nW_AUTODUNG_FLOOR>階<%sW_AUTODUNG_CF>": ""
+        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>地下<%nW_AUTODUNG_FLOOR>階<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER> B<%dW_AUTODUNG_FLOOR>F <%sW_AUTODUNG_CF>"
     },
     "1158": {
         "clarity_nt_char_367": "clarity_nt_char_367"
@@ -3543,7 +3543,7 @@
         "？？？？ 出口": "???? Exit"
     },
     "1182": {
-        "（ラッキーフロア）": "(Lucky Floor)"
+        "（ラッキーフロア）": " (Lucky Floor)"
     },
     "1183": {
         "（チャレンジフロア）": ""
@@ -5328,7 +5328,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER><%sW_AD_ETC>": "<%sW_MAP_NAME><%sW_DELIMITER><%sW_AD_ETC>"
     },
     "1777": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第<%nW_ANLUDUNG_FLOOR>の領域": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第<%nW_ANLUDUNG_FLOOR>の領域": "<%sW_MAP_NAME><%sW_DELIMITER>No. <%nW_ANLUDUNG_FLOOR> Area"
     },
     "1778": {
         "<%sW_MAP_NAME><%sW_DELIMITER>丘陵への道": "<%sW_MAP_NAME><%sW_DELIMITER>Road to Hills"
