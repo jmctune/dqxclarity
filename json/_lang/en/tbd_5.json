@@ -888,7 +888,7 @@
         "自宅の管理人から お招きのつばさを <%dL_GOLD> Gで買った！": "Bought an Invitation Wing from the caretaker|for <%dL_GOLD> G!"
     },
     "297": {
-        "<speed=0>本当に　<%sM_pc>を　チームから|はずして　よろしいですか？|<yesno 2><close>": ""
+        "<speed=0>本当に　<%sM_pc>を　チームから|はずして　よろしいですか？|<yesno 2><close>": "<speed=0>Are you REALLY sure you want to remove|<%sM_pc> from the Team?|<yesno 2><close>"
     },
     "298": {
         "<speed=0>本当に　<%sM_pc>を　フレンドから|はずして　よろしいですか？|<yesno 2><close>": ""
