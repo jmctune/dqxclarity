@@ -6060,7 +6060,7 @@
         "光の神殿への扉": ""
     },
     "2021": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第<%nW_AUTODUNG_FLOOR>の部屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第<%nW_AUTODUNG_FLOOR>の部屋": "<%sW_MAP_NAME><%sW_DELIMITER>No. <%nW_AUTODUNG_FLOOR> Room"
     },
     "2022": {
         "<%sW_MAP_NAME><%sW_DELIMITER>敗者の部屋": ""
