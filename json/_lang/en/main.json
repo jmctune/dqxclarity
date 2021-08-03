@@ -324,7 +324,7 @@
         "両手杖": "Staff"
     },
     "109": {
-        "ヤリ": "Spear"
+        "ヤリ": "SPR"
     },
     "110": {
         "clarity_nt_char_35": "clarity_nt_char_35"
@@ -10416,13 +10416,13 @@
         "clarity_nt_char_1197": "clarity_nt_char_1197"
     },
     "3473": {
-        "両杖": ""
+        "両杖": "STF"
     },
     "3474": {
         "clarity_nt_char_1198": "clarity_nt_char_1198"
     },
     "3475": {
-        "ステ": ""
+        "ステ": "WND"
     },
     "3476": {
         "clarity_nt_char_1199": "clarity_nt_char_1199"
