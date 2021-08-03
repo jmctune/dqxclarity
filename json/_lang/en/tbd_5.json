@@ -1896,7 +1896,7 @@
         "アストルティア★ハッピーくじの参加賞　<%sL_SANKAITEM>を|<%dL_NUM>こ　手に入れた！": ""
     },
     "633": {
-        "アストルティア★ハッピーくじの当選金額　<%dL_GOLD> Gを　手に入れた！": ""
+        "アストルティア★ハッピーくじの当選金額　<%dL_GOLD> Gを　手に入れた！": "Astoltia★Happy Lottery winnings of|<%dL_GOLD> Gold received!"
     },
     "634": {
         "clarity_nt_char_206": "clarity_nt_char_206"
