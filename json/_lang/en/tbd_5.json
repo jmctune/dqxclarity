@@ -891,7 +891,7 @@
         "<speed=0>本当に　<%sM_pc>を　チームから|はずして　よろしいですか？|<yesno 2><close>": "<speed=0>Are you REALLY sure you want to remove|<%sM_pc> from the Team?|<yesno 2><close>"
     },
     "298": {
-        "<speed=0>本当に　<%sM_pc>を　フレンドから|はずして　よろしいですか？|<yesno 2><close>": ""
+        "<speed=0>本当に　<%sM_pc>を　フレンドから|はずして　よろしいですか？|<yesno 2><close>": "<speed=0>Are you REALLY sure you want to remove|<%sM_pc> from your friends list?|<yesno 2><close>"
     },
     "299": {
         "clarity_nt_char_96": "clarity_nt_char_96"
