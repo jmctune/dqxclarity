@@ -1071,7 +1071,7 @@
         "預かり所から <%dM_gold> Gを 引き出した。": ""
     },
     "358": {
-        "収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。": "You took out <%sL_ITEM_NAME><%sL_PLUSNUM> from storage furniture."
+        "収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。": "You took out <%sL_ITEM_NAME><%sL_PLUSNUM> from storage."
     },
     "359": {
         "収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を 入れた。": ""
@@ -1092,7 +1092,7 @@
         "屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": ""
     },
     "365": {
-        "収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "You took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> from storage furniture."
+        "収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "You took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> from storage."
     },
     "366": {
         "clarity_nt_char_115": "clarity_nt_char_115"
