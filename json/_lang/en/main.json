@@ -342,7 +342,7 @@
         "アタマ": "Head"
     },
     "115": {
-        "ウデ": "HND"
+        "ウデ": "Hands"
     },
     "116": {
         "clarity_nt_char_37": "clarity_nt_char_37"
@@ -354,7 +354,7 @@
         "clarity_nt_char_38": "clarity_nt_char_38"
     },
     "119": {
-        "足": "FET"
+        "足": "Ft."
     },
     "120": {
         "棍": "ROD"
@@ -10389,7 +10389,7 @@
         "難易度順に": "Order Diff."
     },
     "3464": {
-        "体上": "BDY"
+        "体上": "Chest"
     },
     "3465": {
         "clarity_nt_char_1194": "clarity_nt_char_1194"
@@ -10410,7 +10410,7 @@
         "頭": "HED"
     },
     "3471": {
-        "体下": "LEG"
+        "体下": "Legs"
     },
     "3472": {
         "clarity_nt_char_1197": "clarity_nt_char_1197"
