@@ -3585,7 +3585,7 @@
         "<%sM_World> 旅人バザー": "<%sM_World> Trav. Bazaar"
     },
     "1196": {
-        "残<%nM_Time>時間": "<%nM_Time> hr. Left"
+        "残<%nM_Time>時間": "<%dM_Time> h. Left"
     },
     "1197": {
         "自作（前節）": "Title (1st)"
