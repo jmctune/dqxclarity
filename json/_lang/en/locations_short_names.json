@@ -4413,7 +4413,7 @@
         "東の塔": ""
     },
     "1472": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>樹天の連橋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>樹天の連橋": "<%sW_MAP_NAME><%sW_DELIMITER>Heavenly Bridge"
     },
     "1473": {
         "clarity_nt_char_456": "clarity_nt_char_456"
@@ -6720,7 +6720,7 @@
         "clarity_nt_char_701": "clarity_nt_char_701"
     },
     "2241": {
-        "ロヴォス高地-樹天の連橋": ""
+        "ロヴォス高地-樹天の連橋": "Rovos Highlands - Heavenly Bridge"
     },
     "2242": {
         "clarity_nt_char_702": "clarity_nt_char_702"
@@ -6879,13 +6879,13 @@
         "clarity_nt_char_719": "clarity_nt_char_719"
     },
     "2294": {
-        "ロヴォス高地-ゼドラ洞 入口": ""
+        "ロヴォス高地-ゼドラ洞 入口": "Rovos Highlands - Zedora Cave Entry"
     },
     "2295": {
         "clarity_nt_char_720": "clarity_nt_char_720"
     },
     "2296": {
-        "ロヴォス高地-教会シスター 前": ""
+        "ロヴォス高地-教会シスター 前": "Rovos Highlands - Church Sister"
     },
     "2297": {
         "デフェル荒野-教会シスター 前": "Defel Wilderness - Church Sister"
@@ -8913,13 +8913,13 @@
         "樹天の里へのはしご": ""
     },
     "2972": {
-        "古ロヴォス高地へのはしご": ""
+        "古ロヴォス高地へのはしご": "Ladder to Old Rovos Highlands"
     },
     "2973": {
         "clarity_nt_char_944": "clarity_nt_char_944"
     },
     "2974": {
-        "古ロヴォス高地への道": ""
+        "古ロヴォス高地への道": "Road to Old Rovos Highlands"
     },
     "2975": {
         "clarity_nt_char_945": "clarity_nt_char_945"
