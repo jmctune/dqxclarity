@@ -11982,7 +11982,7 @@
         "制御室方面": "Control Area"
     },
     "3995": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>ブルラトスの発着場": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>ブルラトスの発着場": "<%sW_MAP_NAME><%sW_DELIMITER>Buratos' Landing"
     },
     "3996": {
         "clarity_nt_char_1290": "clarity_nt_char_1290"
@@ -12039,6 +12039,6 @@
         "秘密の小部屋 出口": ""
     },
     "4014": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>ブルラトス 発着点": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>ブルラトス 発着点": "<%sW_MAP_NAME><%sW_DELIMITER>Buratos' Landing Point"
     }
 }
