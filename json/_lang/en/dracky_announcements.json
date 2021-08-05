@@ -654,7 +654,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eの ルームに参加しました！": "Joined \\s<%sC_PC>\\m<%sC_ID>\\e's room!"
     },
     "219": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから 招待への返事が ありませんでした": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから 招待への返事が ありませんでした": "No invitation reply from \\s<%sC_PC>\\m<%sC_ID>\\e."
     },
     "220": {
         "<%sC_STR>のレンタル期間が　終了しました！": "Your current rental outfit has expired!"
@@ -678,19 +678,19 @@
         "clarity_nt_char_71": "clarity_nt_char_71"
     },
     "227": {
-        "パーティリーダーが いなくなりました": ""
+        "パーティリーダーが いなくなりました": "The party leader has left."
     },
     "228": {
         "clarity_nt_char_72": "clarity_nt_char_72"
     },
     "229": {
-        "闇の溢る世界から 外に出ます": ""
+        "闇の溢る世界から 外に出ます": "Leave the World of Darkness."
     },
     "230": {
         "clarity_nt_char_73": "clarity_nt_char_73"
     },
     "231": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eのパーティが そろいました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eのパーティが そろいました": "Invited to \\s<%sC_PC>\\m<%sC_ID>\\e's party."
     },
     "232": {
         "依頼書クエストに さそわれています！": ""
