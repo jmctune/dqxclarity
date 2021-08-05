@@ -726,19 +726,19 @@
         "<%sC_MONSTER> <%dC_N1>匹討伐 達成しました………": "You've defeated <%dC_N1> <%sC_MONSTER>…"
     },
     "243": {
-        "<%sC_QUEST>クエストを キャンセルしました": ""
+        "<%sC_QUEST>クエストを キャンセルしました": "Quest \"<%sC_QUEST>\" was cancelled."
     },
     "244": {
         "clarity_nt_char_79": "clarity_nt_char_79"
     },
     "245": {
-        "コラーッ! 水着以外を着用して 海に入っては いかーん!": ""
+        "コラーッ! 水着以外を着用して 海に入っては いかーん!": "He-y! Wear a swimsuit and go into the sea!"
     },
     "246": {
         "clarity_nt_char_80": "clarity_nt_char_80"
     },
     "247": {
-        "コラーッ！ 海開き前に 海に入っては いかーん！": ""
+        "コラーッ！ 海開き前に 海に入っては いかーん！": "Hey!! Don't go in until the sea is open!"
     },
     "248": {
         "clarity_nt_char_81": "clarity_nt_char_81"
