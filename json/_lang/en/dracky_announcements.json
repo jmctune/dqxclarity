@@ -207,7 +207,7 @@
         "元気タイムが 終わりました": "Bonus Time has ended!"
     },
     "70": {
-        "あと<%nC_M>分で へろへろタイムです。": ""
+        "あと<%nC_M>分で へろへろタイムです。": "<%dC_M> min. left of exhaustion time."
     },
     "71": {
         "clarity_nt_char_20": "clarity_nt_char_20"

@@ -738,7 +738,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ふっとばされた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was blown back!"
     },
     "247": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは へろへろタイムなので なにも かくとくできなかった。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e was feeling sloppy and couldn't do anything."
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは へろへろタイムなので なにも かくとくできなかった。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e was feeling exhausted and couldn't do anything."
     },
     "248": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>(＋<%dB_VALUE2>)Ｐの経験値 <%dB_VALUE3>Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> (+<%dB_VALUE2>) EXP and <%dB_VALUE3> Gold!"
