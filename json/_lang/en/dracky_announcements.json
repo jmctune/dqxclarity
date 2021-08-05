@@ -810,7 +810,7 @@
         "clarity_nt_char_90": "clarity_nt_char_90"
     },
     "271": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが  \\s<%sC_PC2>\\m<%sC_ID2>\\eの入隊を許可しました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが  \\s<%sC_PC2>\\m<%sC_ID2>\\eの入隊を許可しました": "\\s<%sC_PC>\\m<%sC_ID>\\e allowed \\s<%sC_PC2>\\m<%sC_ID2>\\e's enlistment."
     },
     "272": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eが  \\s<%sC_PC2>\\m<%sC_ID2>\\eの入隊を断りました": ""
