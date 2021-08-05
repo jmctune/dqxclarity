@@ -120,16 +120,16 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eの 仲間になった！": "Joined \\s<%sC_PC>\\m<%sC_ID>\\e's party!"
     },
     "41": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_M>分のびました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_M>分のびました": "\\s<%sC_PC>\\m<%sC_ID>\\e's party participation up by <%dC_M> min."
     },
     "42": {
         "clarity_nt_char_12": "clarity_nt_char_12"
     },
     "43": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_H>時間のびました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_H>時間のびました": "\\s<%sC_PC>\\m<%sC_ID>\\e's party participation up by <%dC_H> hr."
     },
     "44": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_H>時間<%dC_M>分のびました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_H>時間<%dC_M>分のびました": "\\s<%sC_PC>\\m<%sC_ID>\\e's party participation up by <%dC_H> hr. <%dC_M> min."
     },
     "45": {
         "仲間の約束の時間が 終わりました": "The party's arranged time has ended."
@@ -144,7 +144,7 @@
         "仲間から はずれました": "You were kicked from the party."
     },
     "49": {
-        "<%sC_GM_INPUT>": ""
+        "<%sC_GM_INPUT>": "<%sC_GM_INPUT>"
     },
     "50": {
         "clarity_nt_char_14": "clarity_nt_char_14"
@@ -165,7 +165,7 @@
         "あと<%dC_M>分間 操作しないと 強制終了されます": "You will be kicked for inactivity in <%dC_M> minutes."
     },
     "56": {
-        "対応する拡張コントローラが 接続されていません": ""
+        "対応する拡張コントローラが 接続されていません": "Expansion controller is not connected."
     },
     "57": {
         "Ｗiiリモコンの接続が 切れました": ""
