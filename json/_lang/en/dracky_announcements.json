@@ -276,7 +276,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eのフレンドリストが いっぱいでした": "\\s<%sC_PC>\\m<%sC_ID>\\e's friends list was full."
     },
     "93": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eに 仲間への参加を 断られました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eに 仲間への参加を 断られました": "Party invite to \\s<%sC_PC>\\m<%sC_ID>\\e was declined."
     },
     "94": {
         "clarity_nt_char_28": "clarity_nt_char_28"
