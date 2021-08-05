@@ -693,19 +693,19 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eのパーティが そろいました": "Invited to \\s<%sC_PC>\\m<%sC_ID>\\e's party."
     },
     "232": {
-        "依頼書クエストに さそわれています！": ""
+        "依頼書クエストに さそわれています！": "Invited to a request form quest!"
     },
     "233": {
         "clarity_nt_char_74": "clarity_nt_char_74"
     },
     "234": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから 錬金の依頼を 申し込まれました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから 錬金の依頼を 申し込まれました": "Received alchemy request from \\s<%sC_PC>\\m<%sC_ID>\\e."
     },
     "235": {
         "clarity_nt_char_75": "clarity_nt_char_75"
     },
     "236": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが 錬金の依頼を 取り消しました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが 錬金の依頼を 取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\e cancelled the alchemy request."
     },
     "237": {
         "clarity_nt_char_76": "clarity_nt_char_76"
@@ -717,7 +717,7 @@
         "clarity_nt_char_77": "clarity_nt_char_77"
     },
     "240": {
-        "ドルボードの燃料が 切れました。": ""
+        "ドルボードの燃料が 切れました。": "Dolboard has run out of fuel."
     },
     "241": {
         "clarity_nt_char_78": "clarity_nt_char_78"
