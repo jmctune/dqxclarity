@@ -612,7 +612,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eに チャットルームの招待を断られました": "Chat room invite to \\s<%sC_PC>\\m<%sC_ID>\\e was declined."
     },
     "205": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが 招待を 取り消しました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが 招待を 取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\e cancelled the invitation."
     },
     "206": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eが \\s<%sC_PC2>\\m<%sC_ID2>\\eのルームに参加しました！": "\\s<%sC_PC>\\m<%sC_ID>\\e joined \\s<%sC_PC2>\\m<%sC_ID2>\\e's room!"
@@ -636,22 +636,22 @@
         "clarity_nt_char_67": "clarity_nt_char_67"
     },
     "213": {
-        "『<%sC_TEAM>』に 入隊希望が 断られました": ""
+        "『<%sC_TEAM>』に 入隊希望が 断られました": "Invite to join \"<%sC_TEAM>\" was declined."
     },
     "214": {
         "clarity_nt_char_68": "clarity_nt_char_68"
     },
     "215": {
-        "チームへの 入隊希望が あります！": ""
+        "チームへの 入隊希望が あります！": "Received invite to join a Team!"
     },
     "216": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから 依頼書クエストに さそわれました！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから 依頼書クエストに さそわれました！": "Request form quest invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "217": {
         "clarity_nt_char_69": "clarity_nt_char_69"
     },
     "218": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eの ルームに参加しました！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eの ルームに参加しました！": "Joined \\s<%sC_PC>\\m<%sC_ID>\\e's room!"
     },
     "219": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eから 招待への返事が ありませんでした": ""
