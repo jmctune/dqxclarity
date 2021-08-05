@@ -168,10 +168,10 @@
         "対応する拡張コントローラが 接続されていません": "Expansion controller is not connected."
     },
     "57": {
-        "Ｗiiリモコンの接続が 切れました": ""
+        "Ｗiiリモコンの接続が 切れました": "Wiimote has been disconnected."
     },
     "58": {
-        "その拡張コントローラでは 遊べません": ""
+        "その拡張コントローラでは 遊べません": "Can't play with this expansion controller."
     },
     "59": {
         "clarity_nt_char_16": "clarity_nt_char_16"
