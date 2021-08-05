@@ -819,7 +819,7 @@
         "clarity_nt_char_91": "clarity_nt_char_91"
     },
     "274": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが 参加人数の上限で 入れませんでした": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが 参加人数の上限で 入れませんでした": "Could not enter due to maximum capacity."
     },
     "275": {
         "バトル開始まで あと<%dC_N1>秒です": "Battle starts in <%dC_N1> seconds!"
