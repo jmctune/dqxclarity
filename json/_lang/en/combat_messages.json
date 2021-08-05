@@ -510,7 +510,7 @@
         "<%sB_ACTOR>は プリズンキーを入手！ ロックを１つ解除した！": "<%sB_ACTOR> got a Prison Key! 1 lock was released!"
     },
     "171": {
-        "<%sB_ACTOR>は プリズンキーを １つ消した！": "<%sB_ACTOR> erased one Prison Key!"
+        "<%sB_ACTOR>は プリズンキーを １つ消した！": "<%sB_ACTOR> consumed one Prison Key!"
     },
     "172": {
         "<%sB_ACTOR>は キャッチハンドを 1つ消した！": "<%sB_ACTOR> erased one Catch Hand!"
@@ -1311,7 +1311,7 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を 手に入れた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%sB_ITEM>!"
     },
     "438": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは プリズンキーを １つ消した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e erased one Prison Key!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは プリズンキーを １つ消した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e consumed one Prison Key!"
     },
     "439": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは キャッチハンドを 1つ消した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e erased one Catch Hand!"
