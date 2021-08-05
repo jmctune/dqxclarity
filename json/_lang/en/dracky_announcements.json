@@ -744,16 +744,16 @@
         "clarity_nt_char_81": "clarity_nt_char_81"
     },
     "249": {
-        "新しい お宝が 流れてきたぞーっ！": ""
+        "新しい お宝が 流れてきたぞーっ！": "There's a new treasure floating!"
     },
     "250": {
-        "お宝が 半分くらいに 減ってきたぞーっ！": ""
+        "お宝が 半分くらいに 減ってきたぞーっ！": "Treasure's been reduced by half!!"
     },
     "251": {
         "clarity_nt_char_82": "clarity_nt_char_82"
     },
     "252": {
-        "すべての お宝が なくなったぞーっ！": ""
+        "すべての お宝が なくなったぞーっ！": "All the treasure's gone!"
     },
     "253": {
         "clarity_nt_char_83": "clarity_nt_char_83"
@@ -777,7 +777,7 @@
         "<%sC_ITEM>の期限が切れました": "<%sC_ITEM> has expired."
     },
     "260": {
-        "マップが消滅したため 外に出ます": ""
+        "マップが消滅したため 外に出ます": "Now exiting due to map disappearing."
     },
     "261": {
         "clarity_nt_char_86": "clarity_nt_char_86"
