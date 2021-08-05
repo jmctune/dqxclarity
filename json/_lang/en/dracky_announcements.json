@@ -213,7 +213,7 @@
         "clarity_nt_char_20": "clarity_nt_char_20"
     },
     "72": {
-        "今週は もう へろへろタイムです。": ""
+        "今週は もう へろへろタイムです。": "There is already exhaustion time this week."
     },
     "73": {
         "へろへろタイマーが リセットされました！": "Cooldown timer has been reset!"
@@ -222,7 +222,7 @@
         "clarity_nt_char_21": "clarity_nt_char_21"
     },
     "75": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eに チームのさそいが 届きませんでした": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eに チームのさそいが 届きませんでした": "Team invite to \\s<%sC_PC>\\m<%sC_ID>\\e wasn't sent."
     },
     "76": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eからチームのリーダー交代を頼まれました": ""
