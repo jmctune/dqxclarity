@@ -783,7 +783,7 @@
         "clarity_nt_char_86": "clarity_nt_char_86"
     },
     "262": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eからの 入隊希望が 取り消されました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eからの 入隊希望が 取り消されました": "Invite to join from \\s<%sC_PC>\\m<%sC_ID>\\e was cancelled."
     },
     "263": {
         "clarity_nt_char_87": "clarity_nt_char_87"
@@ -795,7 +795,7 @@
         "clarity_nt_char_88": "clarity_nt_char_88"
     },
     "266": {
-        "ブラックリスト登録者が 同じテーブルに参加しました": ""
+        "ブラックリスト登録者が 同じテーブルに参加しました": "Someone on your blacklist has joined the table."
     },
     "267": {
         "カジノホールで ジャックポットが出ました！！": "We just hit the jackpot at the casino hall!!"
@@ -804,7 +804,7 @@
         "clarity_nt_char_89": "clarity_nt_char_89"
     },
     "269": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eからの チームのさそいが取り消されました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eからの チームのさそいが取り消されました": "Team invite from \\s<%sC_PC>\\m<%sC_ID>\\e was cancelled."
     },
     "270": {
         "clarity_nt_char_90": "clarity_nt_char_90"
