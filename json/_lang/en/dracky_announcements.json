@@ -543,7 +543,7 @@
         "clarity_nt_char_58": "clarity_nt_char_58"
     },
     "182": {
-        "未対応のコントローラーでは 遊べません": ""
+        "未対応のコントローラーでは 遊べません": "This controller is not supported."
     },
     "183": {
         "特典アイテムを コンシェルジュから 受け取れます": "Receive your reward items at the concierge."
@@ -558,7 +558,7 @@
         "clarity_nt_char_60": "clarity_nt_char_60"
     },
     "187": {
-        "よーい スタート！": ""
+        "よーい スタート！": "Nice start!"
     },
     "188": {
         "残り<%dC_N1>分": "<%dC_N1>min. Left"
@@ -594,22 +594,22 @@
         "<%sC_CAMPAIGN>が 終了しました！": "<%sC_CAMPAIGN> has ended!"
     },
     "199": {
-        "サブリーダーに なりました！": ""
+        "サブリーダーに なりました！": "Became Sub Leader!"
     },
     "200": {
         "clarity_nt_char_64": "clarity_nt_char_64"
     },
     "201": {
-        "サブリーダーから はずれました": ""
+        "サブリーダーから はずれました": "Removed from Sub Leader."
     },
     "202": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから チャットルームに 招待されました！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから チャットルームに 招待されました！": "Chat room invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "203": {
         "clarity_nt_char_65": "clarity_nt_char_65"
     },
     "204": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eに チャットルームの招待を断られました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eに チャットルームの招待を断られました": "Chat room invite to \\s<%sC_PC>\\m<%sC_ID>\\e was declined."
     },
     "205": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eが 招待を 取り消しました": ""
