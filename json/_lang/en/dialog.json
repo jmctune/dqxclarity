@@ -4257,10 +4257,10 @@
         "<center>おつかれさまでした。|<color_yellow>『フレンドのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": "<center>Thank you for playing!|Registered at the tavern as <color_yellow>\"Friends Only\"<color_white>.|Where would like to go now?<break>"
     },
     "1420": {
-        "<center>おつかれさまでした。|<color_yellow>『フレンドとチームのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": ""
+        "<center>おつかれさまでした。|<color_yellow>『フレンドとチームのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": "<center>Thank you for playing!|Registered as <color_yellow>\"Friends/Team Only\"<color_white>.|Where would like to go now?<break>"
     },
     "1421": {
-        "<center>おつかれさまでした。|<color_yellow>『チームのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": ""
+        "<center>おつかれさまでした。|<color_yellow>『チームのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": "<center>Thank you for playing!|Registered at the tavern as <color_yellow>\"Team Only\"<color_white>.|Where would like to go now?<break>"
     },
     "1422": {
         "clarity_nt_char_477": "clarity_nt_char_477"
