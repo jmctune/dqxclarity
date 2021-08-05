@@ -501,7 +501,7 @@
         "迷宮へのさそいが 時間切れになりました": "Maze invitation timed out."
     },
     "168": {
-        "合流が遅れているプレイヤーを <%dC_NUM>分 待ちます": ""
+        "合流が遅れているプレイヤーを <%dC_NUM>分 待ちます": "Wait <%dC_NUM> min. for players who are late to join."
     },
     "169": {
         "clarity_nt_char_54": "clarity_nt_char_54"
@@ -513,7 +513,7 @@
         "clarity_nt_char_55": "clarity_nt_char_55"
     },
     "172": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが サブリーダーから はずれました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが サブリーダーから はずれました": "\\s<%sC_PC>\\m<%sC_ID>\\e was removed from Sub Leader."
     },
     "173": {
         "GamePadのバッテリーが 少なくなりました": "The gamepad's battery is low."
@@ -525,19 +525,19 @@
         "clarity_nt_char_56": "clarity_nt_char_56"
     },
     "176": {
-        "GamePadの接続が 切れました": ""
+        "GamePadの接続が 切れました": "Lost connection to GamePad."
     },
     "177": {
-        "PROコントローラーのバッテリーが 少なくなりました": ""
+        "PROコントローラーのバッテリーが 少なくなりました": "Pro Controller battery is low."
     },
     "178": {
         "clarity_nt_char_57": "clarity_nt_char_57"
     },
     "179": {
-        "PROコントローラーのバッテリーが もう切れそうです！": ""
+        "PROコントローラーのバッテリーが もう切れそうです！": "Pro Controller battery is about to run out!"
     },
     "180": {
-        "PROコントローラーの接続が 切れました": ""
+        "PROコントローラーの接続が 切れました": "Lost connection with Pro Controller."
     },
     "181": {
         "clarity_nt_char_58": "clarity_nt_char_58"
