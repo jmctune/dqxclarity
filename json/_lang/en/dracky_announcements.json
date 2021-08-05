@@ -195,7 +195,7 @@
         "ゲームマスターから 呼ばれています": "A Game Master has been summoned"
     },
     "66": {
-        "今から<%nC_H>時間<%nC_M>分間 元気タイムです！": ""
+        "今から<%nC_H>時間<%nC_M>分間 元気タイムです！": "<%dC_H> hr. <%dC_M> min. of Bonus Time from now!"
     },
     "67": {
         "clarity_nt_char_19": "clarity_nt_char_19"
