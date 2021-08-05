@@ -879,7 +879,7 @@
         "clarity_nt_char_96": "clarity_nt_char_96"
     },
     "294": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから チームに さそわれました！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから チームに さそわれました！": "Team invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "295": {
         "clarity_nt_char_97": "clarity_nt_char_97"
