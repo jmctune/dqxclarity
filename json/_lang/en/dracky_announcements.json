@@ -828,19 +828,19 @@
         "まもなく バトルが開始します！": "The battle will begin shortly!"
     },
     "277": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから コロシアムに さそわれました！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから コロシアムに さそわれました！": "Invite to the Colosseum from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "278": {
         "clarity_nt_char_92": "clarity_nt_char_92"
     },
     "279": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから対戦相手に指定されました！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから対戦相手に指定されました！": "Chosen as an opponent by \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "280": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eに コロシアムのさそいを 断られました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eに コロシアムのさそいを 断られました": "Colosseum invite to \\s<%sC_PC>\\m<%sC_ID>\\e was cancelled."
     },
     "281": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eからの コロシアムのさそいを 断りました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eからの コロシアムのさそいを 断りました": "Colosseum invite from \\s<%sC_PC>\\m<%sC_ID>\\e was cancelled."
     },
     "282": {
         "clarity_nt_char_93": "clarity_nt_char_93"
