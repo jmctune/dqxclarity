@@ -303,7 +303,7 @@
         "チーム『<%sC_TEAM>』に 入りました！": "Joined the \"<%sC_TEAM>\" Team!"
     },
     "102": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから 仲間になれる時間の確認が来ました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから 仲間になれる時間の確認が来ました": "Party time confirmation from \\s<%sC_PC>\\m<%sC_ID>\\e."
     },
     "103": {
         "あと<%dC_M>分で 仲間を抜けます。延長しますか？": "Party will disband after <%dC_M> min. Extend the time?"
@@ -324,7 +324,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eは チーム参加済みで さそえません": "\\s<%sC_PC>\\m<%sC_ID>\\e is already in a Team."
     },
     "109": {
-        "HOMEボタンメニューは使えません": ""
+        "HOMEボタンメニューは使えません": "HOME Button Menu cannot be used."
     },
     "110": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eが 取り引きをキャンセルしました": "\\s<%sC_PC>\\m<%sC_ID>\\e cancelled the trade."
