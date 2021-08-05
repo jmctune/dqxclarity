@@ -225,22 +225,22 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eに チームのさそいが 届きませんでした": "Team invite to \\s<%sC_PC>\\m<%sC_ID>\\e wasn't sent."
     },
     "76": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eからチームのリーダー交代を頼まれました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eからチームのリーダー交代を頼まれました": "Request to change Team leadership from \\s<%sC_PC>\\m<%sC_ID>\\e."
     },
     "77": {
-        "チームリーダー交代の返事が ありませんでした": ""
+        "チームリーダー交代の返事が ありませんでした": "No reply for request to change Team leadership."
     },
     "78": {
         "clarity_nt_char_22": "clarity_nt_char_22"
     },
     "79": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eに チームリーダー交代を断られました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eに チームリーダー交代を断られました": "Team leadership request to \\s<%sC_PC>\\m<%sC_ID>\\e was declined."
     },
     "80": {
         "clarity_nt_char_23": "clarity_nt_char_23"
     },
     "81": {
-        "チームリーダーが \\s<%sC_PC>\\m<%sC_ID>\\eに代わりました": ""
+        "チームリーダーが \\s<%sC_PC>\\m<%sC_ID>\\eに代わりました": "\\s<%sC_PC>\\m<%sC_ID>\\e is now the Team leader."
     },
     "82": {
         "clarity_nt_char_24": "clarity_nt_char_24"
