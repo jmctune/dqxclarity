@@ -636,7 +636,7 @@
         "<speed=0>チーム『<%sM_team>』から|抜けますか？<yesno 2><close>": "<speed=0>Leave the \"<%sM_team>\" Team?<yesno 2><close>"
     },
     "213": {
-        "<speed=0>本当に　チームを抜けても|よろしいですか？<yesno 2><close>": ""
+        "<speed=0>本当に　チームを抜けても|よろしいですか？<yesno 2><close>": "<speed=0>Are you sure you want to leave?<yesno 2><close>"
     },
     "214": {
         "clarity_nt_char_72": "clarity_nt_char_72"
