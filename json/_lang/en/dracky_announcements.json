@@ -6,7 +6,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eから 仲間に 招待されました！": "\\s<%sC_PC>\\m<%sC_ID>\\e sent a party invite!"
     },
     "3": {
-        "チームの お誘いが あります！": "You have an invitation to join the team!"
+        "チームの お誘いが あります！": "You have an invitation to join a Team!"
     },
     "4": {
         "フレンドの お誘いが ありました！": "Received a friend request!"

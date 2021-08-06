@@ -621,7 +621,7 @@
         "clarity_nt_char_69": "clarity_nt_char_69"
     },
     "208": {
-        "<speed=0><%sM_pc>を　チームに　誘えません。|すでに　誘ってあるか　いずれかのチームに|参加済みのようです。": ""
+        "<speed=0><%sM_pc>を　チームに　誘えません。|すでに　誘ってあるか　いずれかのチームに|参加済みのようです。": "<speed=0><%sM_pc> cannot be invited to the|Team. It seems they've joined another|Team or have already been invited."
     },
     "209": {
         "clarity_nt_char_70": "clarity_nt_char_70"
