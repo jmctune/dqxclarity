@@ -3378,7 +3378,7 @@
         "<speed=0>|『公開する』にすると　まちかど掲示板に|チーム情報が表示され　入隊希望を受け付けます。　|『公開する』に　変更しますか？|<yesno><close>": "<speed=0>|By selecting \"Public\", your team information|will display on the Bulletin Board and will|open recruitment. Is this okay?|<yesno><close>"
     },
     "1127": {
-        "<speed=0>|『公開しない』にすると　まちかど掲示板に|チームの情報は　表示されません。|『公開しない』に　変更しますか？|<yesno><close>": ""
+        "<speed=0>|『公開しない』にすると　まちかど掲示板に|チームの情報は　表示されません。|『公開しない』に　変更しますか？|<yesno><close>": "<speed=0>|Setting to \"Hidden\" will hide your Team|information on the Town Bulletin Board.|Set to \"Hidden\"?|<yesno><close>"
     },
     "1128": {
         "<select>|コメントを全てみる|<select_end><break>": "<select>See all comments|<select_end><break>"
