@@ -3144,7 +3144,7 @@
         "<speed=0>別のプレイヤーによって　設定が変更されたため|編集した内容が　反映できませんでした。": ""
     },
     "1049": {
-        "<speed=0>チーム検索設定を　変更してもよろしいですか？|<yesno><close>": ""
+        "<speed=0>チーム検索設定を　変更してもよろしいですか？|<yesno><close>": "<speed=0>Save changes to Team search settings?|<yesno><close>"
     },
     "1050": {
         "clarity_nt_char_354": "clarity_nt_char_354"
