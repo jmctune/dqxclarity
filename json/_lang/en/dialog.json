@@ -303,7 +303,7 @@
         "clarity_nt_char_31": "clarity_nt_char_31"
     },
     "102": {
-        "<speed=0><%sM_target>は|他のチームに入っているので　誘えません。": "<speed=0>I can't invite <%sM_target>|because they are on another team."
+        "<speed=0><%sM_target>は|他のチームに入っているので　誘えません。": "<speed=0>Couldn't invite <%sM_target>|because they are on another Team."
     },
     "103": {
         "テストマクロ": "Test Macro"
