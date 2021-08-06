@@ -348,7 +348,7 @@
         "そうびなし": "Nothing"
     },
     "117": {
-        "<speed=0>チーム『<%sM_team>』から　抜けた！": "<speed=0>I'm off the team '<%sM_team>'!"
+        "<speed=0>チーム『<%sM_team>』から　抜けた！": "<speed=0>Left the '<%sM_team>' Team!"
     },
     "118": {
         "<%sM_pc>を　チームに誘った！|<%sM_pc>からの　返事を待とう。": "I've invited <%sM_pc> to join my team! |Let's wait for a reply from <%sM_pc>."
