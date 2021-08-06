@@ -351,7 +351,7 @@
         "<speed=0>チーム『<%sM_team>』から　抜けた！": "<speed=0>Left the '<%sM_team>' Team!"
     },
     "118": {
-        "<%sM_pc>を　チームに誘った！|<%sM_pc>からの　返事を待とう。": "I've invited <%sM_pc> to join my team! |Let's wait for a reply from <%sM_pc>."
+        "<%sM_pc>を　チームに誘った！|<%sM_pc>からの　返事を待とう。": "Invited <%sM_pc> to join the Team! |Please wait for <%sM_pc>'s response."
     },
     "119": {
         "clarity_nt_char_38": "clarity_nt_char_38"
@@ -363,7 +363,7 @@
         "<speed=0>いまは　サポート仲間を　仲間にしていません。": "<speed=0>I don't have any support|people on my team right now."
     },
     "122": {
-        "<speed=0><%sM_pc>に　仲間に誘われました。|<%sM_pc>の仲間に　入りますか？": "<speed=0>I've been invited to join <%sM_pc>. |Do you want to join <%sM_pc>'s group?"
+        "<speed=0><%sM_pc>に　仲間に誘われました。|<%sM_pc>の仲間に　入りますか？": "<speed=0>I've been invited to join <%sM_pc>. |Do you want to join <%sM_pc>'s party?"
     },
     "123": {
         "<speed=0>いまは　はずせる仲間が　いません。": "<speed=0>I don't have any friends to remove right now."
