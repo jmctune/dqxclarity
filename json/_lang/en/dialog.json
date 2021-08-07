@@ -2313,7 +2313,7 @@
         "<speed=0>|このクエストを　チームの目標に設定できます。|設定しますか？|※目標は何度でも変更できます。|<yesno><close>": ""
     },
     "772": {
-        "<speed=0>他に所属メンバーがいないため|チームは解散されます。|本当に　チームを抜けても　よろしいですか？|<yesno 2><close>": ""
+        "<speed=0>他に所属メンバーがいないため|チームは解散されます。|本当に　チームを抜けても　よろしいですか？|<yesno 2><close>": "<speed=0>Since there are no other members,|the team will be disbanded.|Is this okay?<yesno 2><close>"
     },
     "773": {
         "clarity_nt_char_262": "clarity_nt_char_262"
