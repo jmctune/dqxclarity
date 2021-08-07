@@ -2319,7 +2319,7 @@
         "clarity_nt_char_262": "clarity_nt_char_262"
     },
     "774": {
-        "<speed=0>自動的に　最近ログインしたメンバーの中から|次のチームリーダーが選ばれます。|本当に　チームを抜けても　よろしいですか？|<yesno 2><close>": ""
+        "<speed=0>自動的に　最近ログインしたメンバーの中から|次のチームリーダーが選ばれます。|本当に　チームを抜けても　よろしいですか？|<yesno 2><close>": "<speed=0>If you leave the Team, a new leader will be|randomly chosen from the most recently logged|in members. Is this okay?"
     },
     "775": {
         "clarity_nt_char_263": "clarity_nt_char_263"
