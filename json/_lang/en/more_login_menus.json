@@ -252,7 +252,7 @@
         "元気玉 ×5|ふくびき券 ×10|経験値の古文書・中 ×5": "Bonus Orb x5|Lottery Ticket x10|Med. Experience Scroll x5"
     },
     "85": {
-        "超元気玉 ×3|ふくびき券 ×20|経験値の古文書・大 ×5": ""
+        "超元気玉 ×3|ふくびき券 ×20|経験値の古文書・大 ×5": "Bonus Orb L x3|Lottery Ticket x20|Large Experience Scroll x5"
     },
     "86": {
         "利用券を購入し その期間が|450日以上経過すると 受け取りできます。|プレゼントチケット交換対象の特典です。|（ふくびき券は除きます。）": ""
@@ -447,7 +447,7 @@
         "新人さん 応援特典": ""
     },
     "150": {
-        "超元気玉 ×3|メタル迷宮ペア招待券 ×3": "Bonus Orb x3|Metal Pair Ticket x3"
+        "超元気玉 ×3|メタル迷宮ペア招待券 ×3": "Bonus Orb L x3|Metal Pair Ticket x3"
     },
     "151": {
         "元気玉 ×10|せかいじゅの葉 ×30|大地の竜玉|ソーサリーリング": "Bonus Orb x10|Yggdrasil Leaf x30|Great Dragon Orb|Sorcery Ring"
@@ -474,7 +474,7 @@
         "新人さん 応援特典": ""
     },
     "159": {
-        "超元気玉 ×3|メタル迷宮ペア招待券 ×3": "Bonus Orb x3|Metal Pair Ticket x3"
+        "超元気玉 ×3|メタル迷宮ペア招待券 ×3": "Bonus Orb L x3|Metal Pair Ticket x3"
     },
     "160": {
         "元気玉 ×10|せかいじゅの葉 ×30|大地の竜玉|ソーサリーリング": "Bonus Orb x10|Yggdrasil Leaf x30|Great Dragon Orb|Sorcery Ring"
@@ -582,7 +582,7 @@
         "新人さん 応援特典B": ""
     },
     "195": {
-        "超元気玉 ×3|メタル迷宮ペア招待券 ×3": "Bonus Orb x3|Metal Pair Ticket x3"
+        "超元気玉 ×3|メタル迷宮ペア招待券 ×3": "Bonus Orb L x3|Metal Pair Ticket x3"
     },
     "196": {
         "元気玉 ×10|ソーサリーリング|大地の竜玉": "Bonus Orb x10|Sorcery Ring|Great Dragon Orb"
@@ -636,7 +636,7 @@
         "新人さん 応援特典B": ""
     },
     "213": {
-        "超元気玉 ×3|メタル迷宮ペア招待券 ×3": "Bonus Orb x3|Metal Pair Ticket x3"
+        "超元気玉 ×3|メタル迷宮ペア招待券 ×3": "Bonus Orb L x3|Metal Pair Ticket x3"
     },
     "214": {
         "元気玉 ×10|ソーサリーリング|大地の竜玉": "Bonus Orb x10|Sorcery Ring|Great Dragon Orb"
