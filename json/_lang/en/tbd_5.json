@@ -1134,7 +1134,7 @@
         "<%sM_hihou>を鑑定して <%sM_item>を 手に入れた！": ""
     },
     "379": {
-        "<%sL_ACCE_KKR_ITEM> <%dL_ACCE_KKR_NUM>個で <%sL_ACCE_RST_ITEM>を 復元した！": ""
+        "<%sL_ACCE_KKR_ITEM> <%dL_ACCE_KKR_NUM>個で <%sL_ACCE_RST_ITEM>を 復元した！": "Restored <%dL_ACCE_KKR_NUM> <%sL_ACCE_KKR_ITEM> into a <%sL_ACCE_RST_ITEM>!"
     },
     "380": {
         "<%sL_MONSTERNAME> からのおくりもの|<%sL_ITEM>を <%dL_NUM>個 受け取った！": "Received <%dL_NUM> <%sL_ITEM> as a gift from|<%sL_MONSTERNAME>!"
