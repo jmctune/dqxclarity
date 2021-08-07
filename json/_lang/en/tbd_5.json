@@ -1749,7 +1749,7 @@
         "clarity_nt_char_188": "clarity_nt_char_188"
     },
     "584": {
-        "<%sL_ACCE_ITEM><%sL_PLUSNUM_3>に <%sL_KOUKA>が 付いた！": ""
+        "<%sL_ACCE_ITEM><%sL_PLUSNUM_3>に <%sL_KOUKA>が 付いた！": "Attached <%sL_KOUKA> to <%sL_ACCE_ITEM><%sL_PLUSNUM_3>!"
     },
     "585": {
         "合成レベルが <%dL_RANK>に あがった！": "Synthesis Level raised to <%dL_RANK>!"
