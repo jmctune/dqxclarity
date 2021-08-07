@@ -45,7 +45,7 @@
         "clarity_nt_char_5": "clarity_nt_char_5"
     },
     "16": {
-        "<%sL_PC>が <%sL_PLACE>の|タンスから手に入れた。": ""
+        "<%sL_PC>が <%sL_PLACE>の|タンスから手に入れた。": "<%sL_PC> received from a|wardrobe in <%sL_PLACE>."
     },
     "17": {
         "clarity_nt_char_6": "clarity_nt_char_6"
