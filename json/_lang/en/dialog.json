@@ -1689,7 +1689,7 @@
         "<%sM_pc>を　チームに　誘えません。|すでに　リクエストを送っています。": ""
     },
     "564": {
-        "<%sM_pc>は　別チームのため　誘えません。": "<%sM_pc> I can't invite you. You're on a different team."
+        "<%sM_pc>は　別チームのため　誘えません。": "Couldn't invite <%sM_pc>.|They're already on a Team."
     },
     "565": {
         "clarity_nt_char_192": "clarity_nt_char_192"
