@@ -60,7 +60,7 @@
         "<speed=0>仲間に　さそえる相手が　近くにいません。": "<speed=0>There's nobody nearby to invite."
     },
     "21": {
-        "<speed=0>これ以上　仲間を増やすことは　できません！": "<speed=0>We can't add any more to our ranks!"
+        "<speed=0>これ以上　仲間を増やすことは　できません！": "<speed=0>Can't add any more party members!"
     },
     "22": {
         "clarity_nt_char_8": "clarity_nt_char_8"
@@ -1461,7 +1461,7 @@
         "メニューを閉じ|このままの状態で|仲間を見守ります": "Close the menu|and stay here to|watch my party."
     },
     "488": {
-        "<speed=0>これ以上　仲間を増やすことは　できません！|サポート仲間を待機中にすれば　その分|他のプレイヤーを　仲間にできるようになります。": ""
+        "<speed=0>これ以上　仲間を増やすことは　できません！|サポート仲間を待機中にすれば　その分|他のプレイヤーを　仲間にできるようになります。": "<speed=0>Can't add any more party members!|Put a support member on standby to be able|to invite someone."
     },
     "489": {
         "<speed=0>冒険を中断すると　仲間から抜けますが|よろしいですか？<yesno><close>": "<speed=0>You'll leave your party when you log out.|Is this okay?<yesno><close>"
