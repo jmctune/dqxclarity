@@ -19029,7 +19029,7 @@
         "<%2nM_MM1>月<%2nM_DD1>日（<%sM_WW>）<%2nM_hh1>：<%02nM_mm1>～<%2nM_hh2>：<%02nM_mm2>": "<%2nM_MM1>/<%2nM_DD1> (<%sM_WW>) <%2nM_hh1>:<%02nM_mm1> - <%2nM_hh2>:<%02nM_mm2>"
     },
     "6344": {
-        "釣り上げたビッグサイズの種類": ""
+        "釣り上げたビッグサイズの種類": "Big Size Types Caught"
     },
     "6345": {
         "clarity_nt_char_2162": "clarity_nt_char_2162"
