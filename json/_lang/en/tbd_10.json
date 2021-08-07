@@ -252,7 +252,7 @@
         "<%sL_PC>が カジノレイド祭りで|ゴルスラ会長から 手に入れた。": ""
     },
     "85": {
-        "<%sL_PC>が　|<%sL_OTHER_PC>の　釣り堀で 釣り上げた。": ""
+        "<%sL_PC>が　|<%sL_OTHER_PC>の　釣り堀で 釣り上げた。": "<%sL_PC> caught in|<%sL_OTHER_PC>'s fish pond."
     },
     "86": {
         "clarity_nt_char_26": "clarity_nt_char_26"
