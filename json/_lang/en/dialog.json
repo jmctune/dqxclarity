@@ -87,7 +87,7 @@
         "<speed=0><%sM_pc>は　仲間から抜けた！": "<speed=0>You left the party!"
     },
     "30": {
-        "<speed=0>パーティを　解散しますか？<yesno><close>": "<speed=0>Would you like to abandon the party? <yesno><close>"
+        "<speed=0>パーティを　解散しますか？<yesno><close>": "<speed=0>Would you like to disband the party? <yesno><close>"
     },
     "31": {
         "clarity_nt_char_9": "clarity_nt_char_9"
