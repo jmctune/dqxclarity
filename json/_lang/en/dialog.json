@@ -3387,7 +3387,7 @@
         "clarity_nt_char_377": "clarity_nt_char_377"
     },
     "1130": {
-        "<speed=0>|<%sM_pc>への　返事を　選んでください。|<select>|チームに入れる|ごめんなさい|コメントを全てみる|<select_end><break>": ""
+        "<speed=0>|<%sM_pc>への　返事を　選んでください。|<select>|チームに入れる|ごめんなさい|コメントを全てみる|<select_end><break>": "<speed=0>|Please select a reply to <%sM_pc>.|<select>|Accept|Decline|View Comments|<select_end><break>"
     },
     "1131": {
         "<speed=0>同盟相手が　見つかりませんでした。|もう一度　同盟相手を探しますか？|<select>|もう一度探す|行くのをやめる|<select_end>|<close>": ""
@@ -3783,7 +3783,7 @@
         "<speed=0>さかなを　持っていない！": ""
     },
     "1262": {
-        "<speed=0>取り付けるルアーを選んでください": ""
+        "<speed=0>取り付けるルアーを選んでください": "<speed=0>Please choose a lure to attach."
     },
     "1263": {
         "<speed=0>しかし　装備の仕方がわからなかった！": ""
@@ -3837,7 +3837,7 @@
         "<speed=0>釣りレベルが足りないため　つけられない！": "<speed=0>Can't attach because fishing level is not enough!"
     },
     "1280": {
-        "<speed=0>先に　装備する釣りざおを　選んでください。": ""
+        "<speed=0>先に　装備する釣りざおを　選んでください。": "<speed=0>Please select a fishing rod first."
     },
     "1281": {
         "clarity_nt_char_426": "clarity_nt_char_426"
