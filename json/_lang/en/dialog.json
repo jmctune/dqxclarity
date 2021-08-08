@@ -3108,7 +3108,7 @@
         "clarity_nt_char_350": "clarity_nt_char_350"
     },
     "1037": {
-        "<speed=0>相手からの　入隊希望が　取り消されたため|誘えませんでした。": ""
+        "<speed=0>相手からの　入隊希望が　取り消されたため|誘えませんでした。": "<speed=0>Couldn't invite because request from|the other party was cancelled."
     },
     "1038": {
         "<speed=0><%sM_pc>からの入隊希望を　断りました。": ""
@@ -3579,7 +3579,7 @@
         "clarity_nt_char_398": "clarity_nt_char_398"
     },
     "1194": {
-        "<speed=0>いまは　入隊希望が　ありません。": ""
+        "<speed=0>いまは　入隊希望が　ありません。": "<speed=0>There are no requests right now."
     },
     "1195": {
         "<speed=0>このクエストを　受けたい場合は|困っている人の所へ行って|その人に　話しかけましょう。": ""
