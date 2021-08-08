@@ -3102,7 +3102,7 @@
         "clarity_nt_char_349": "clarity_nt_char_349"
     },
     "1035": {
-        "<%sM_pc>を　チームに入れた！": "<%sM_pc> joined a team!"
+        "<%sM_pc>を　チームに入れた！": "<%sM_pc> joined the Team!"
     },
     "1036": {
         "clarity_nt_char_350": "clarity_nt_char_350"
@@ -3171,10 +3171,10 @@
         "<%sM_pc>から　すでに入隊希望を　受けています。|さくせんのチームから『入隊希望をみる』を|ご確認ください。": ""
     },
     "1058": {
-        "<speed=0><%sM_pc>の　チーム加入を断って|よろしいですか？|<yesno2><close>": ""
+        "<speed=0><%sM_pc>の　チーム加入を断って|よろしいですか？|<yesno2><close>": "<speed=0><%sM_pc> will not join the Team.|Is this okay?|<yesno2><close>"
     },
     "1059": {
-        "<speed=0><%sM_pc>を　チームに加入させて|よろしいですか？|<yesno2><close>": ""
+        "<speed=0><%sM_pc>を　チームに加入させて|よろしいですか？|<yesno2><close>": "<speed=0><%sM_pc> will join the Team.|Is this okay?|<yesno2><close>"
     },
     "1060": {
         "<speed=0>リーダーとサブリーダーは　入隊希望者を選ぶと|相手に へんじをすることが　できます。": "<speed=0>Leaders and sub leaders are able to|handle Team join requests."
