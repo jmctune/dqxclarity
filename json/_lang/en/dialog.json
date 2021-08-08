@@ -3951,7 +3951,7 @@
         "<speed=0>フレンドへのかきおきメモを変更しました。": ""
     },
     "1318": {
-        "<speed=0><%sM_item>　<%.1fM_size>ｃｍ|入れ替えて　逃がすさかなを選んでください。<break>": ""
+        "<speed=0><%sM_item>　<%.1fM_size>ｃｍ|入れ替えて　逃がすさかなを選んでください。<break>": "<speed=0>Choose a fish to let go to take|<%.1fM_size> cm <%sM_item>.<break>"
     },
     "1319": {
         "<speed=0><color_yellow><%sM_item>　<%.1fM_size>ｃｍ(<%sM_rank>)<color_white>|入れ替えて　逃がすさかなを選んでください。<break>": ""
