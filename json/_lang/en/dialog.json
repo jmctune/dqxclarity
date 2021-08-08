@@ -66,7 +66,7 @@
         "clarity_nt_char_8": "clarity_nt_char_8"
     },
     "23": {
-        "<speed=0>いまは　<%sM_pc>を　仲間に　さそえなかった。": "<speed=0>I couldn't get <%sM_pc> to join us now."
+        "<speed=0>いまは　<%sM_pc>を　仲間に　さそえなかった。": "<speed=0>Couldn't invite <%sM_pc> right now."
     },
     "24": {
         "<speed=0><%sM_pc>は|すでに　別のパーティに入っています。": "<speed=0><%sM_pc> is already in another party."
