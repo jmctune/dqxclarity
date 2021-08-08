@@ -3177,10 +3177,10 @@
         "<speed=0><%sM_pc>を　チームに加入させて|よろしいですか？|<yesno2><close>": ""
     },
     "1060": {
-        "<speed=0>リーダーとサブリーダーは　入隊希望者を選ぶと|相手に へんじをすることが　できます。": ""
+        "<speed=0>リーダーとサブリーダーは　入隊希望者を選ぶと|相手に へんじをすることが　できます。": "<speed=0>Leaders and sub leaders are able to|handle Team join requests."
     },
     "1061": {
-        "<speed=0>リーダーとサブリーダーは　入隊希望者を選ぶと|相手に へんじをすることが　できます。<break>": ""
+        "<speed=0>リーダーとサブリーダーは　入隊希望者を選ぶと|相手に へんじをすることが　できます。<break>": "<speed=0>Leaders and sub leaders are able to|handle Team join requests.<break>"
     },
     "1062": {
         "clarity_nt_char_357": "clarity_nt_char_357"
