@@ -810,7 +810,7 @@
         "<speed=0>チャットルームに　招待できませんでした。": ""
     },
     "271": {
-        "<speed=0>どのチャットルームに　招待しますか？|<select>|<%sM_room><select_end><close>": ""
+        "<speed=0>どのチャットルームに　招待しますか？|<select>|<%sM_room><select_end><close>": "<speed=0>Invite to which room?|<select>|<%sM_room><select_end><close>"
     },
     "272": {
         "clarity_nt_char_90": "clarity_nt_char_90"
