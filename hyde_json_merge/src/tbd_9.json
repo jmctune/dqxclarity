@@ -1,0 +1,1316 @@
+{
+    "1": {
+        "Blank text": ""
+    },
+    "2": {
+        "clarity_nt_char_1": "clarity_nt_char_1"
+    },
+    "3": {
+        "<%nL_AREA>丁目": "Block <%dL_AREA>"
+    },
+    "4": {
+        "clarity_nt_char_2": "clarity_nt_char_2"
+    },
+    "5": {
+        "<%sL_REGION>住宅村": "<%sL_REGION> Housing"
+    },
+    "6": {
+        "Ｌサイズ": "L Size"
+    },
+    "7": {
+        "clarity_nt_char_3": "clarity_nt_char_3"
+    },
+    "8": {
+        "Ｍサイズ": "M Size"
+    },
+    "9": {
+        "clarity_nt_char_4": "clarity_nt_char_4"
+    },
+    "10": {
+        "Ｓサイズ": "S Size"
+    },
+    "11": {
+        "clarity_nt_char_5": "clarity_nt_char_5"
+    },
+    "12": {
+        "自分だけ": "Only Me"
+    },
+    "13": {
+        "clarity_nt_char_6": "clarity_nt_char_6"
+    },
+    "14": {
+        "限られた人": ""
+    },
+    "15": {
+        "だれでもＯＫ": "Anyone is OK"
+    },
+    "16": {
+        "clarity_nt_char_7": "clarity_nt_char_7"
+    },
+    "17": {
+        "家への出入り": ""
+    },
+    "18": {
+        "clarity_nt_char_8": "clarity_nt_char_8"
+    },
+    "19": {
+        "外装と内装の変更": ""
+    },
+    "20": {
+        "clarity_nt_char_9": "clarity_nt_char_9"
+    },
+    "21": {
+        "内装を変える": "Change Interior"
+    },
+    "22": {
+        "clarity_nt_char_10": "clarity_nt_char_10"
+    },
+    "23": {
+        "外装を変える": "Change Exterior"
+    },
+    "24": {
+        "clarity_nt_char_11": "clarity_nt_char_11"
+    },
+    "25": {
+        "黄色": ""
+    },
+    "26": {
+        "clarity_nt_char_12": "clarity_nt_char_12"
+    },
+    "27": {
+        "赤": ""
+    },
+    "28": {
+        "緑": ""
+    },
+    "29": {
+        "もとの色": "Orig. Color"
+    },
+    "30": {
+        "clarity_nt_char_13": "clarity_nt_char_13"
+    },
+    "31": {
+        "青": ""
+    },
+    "32": {
+        "つかうもの": "Items"
+    },
+    "33": {
+        "むしかご": ""
+    },
+    "34": {
+        "clarity_nt_char_14": "clarity_nt_char_14"
+    },
+    "35": {
+        "さかなかご": ""
+    },
+    "36": {
+        "そうびひん": "Equipment"
+    },
+    "37": {
+        "屋根ウラ収納": "House Storage"
+    },
+    "38": {
+        "clarity_nt_char_15": "clarity_nt_char_15"
+    },
+    "39": {
+        "収納家具": ""
+    },
+    "40": {
+        "clarity_nt_char_16": "clarity_nt_char_16"
+    },
+    "41": {
+        "<%sL_DIVISION>　<%nL_TOTI_BANGOU>番地": "<%sL_DIVISION> Plot <%nL_TOTI_BANGOU>"
+    },
+    "42": {
+        "clarity_nt_char_17": "clarity_nt_char_17"
+    },
+    "43": {
+        "まんいん": ""
+    },
+    "44": {
+        "clarity_nt_char_18": "clarity_nt_char_18"
+    },
+    "45": {
+        "すいてる": "Calm"
+    },
+    "46": {
+        "clarity_nt_char_19": "clarity_nt_char_19"
+    },
+    "47": {
+        "ダウン中": "Down"
+    },
+    "48": {
+        "clarity_nt_char_20": "clarity_nt_char_20"
+    },
+    "49": {
+        "こんざつ": "Congested"
+    },
+    "50": {
+        "clarity_nt_char_21": "clarity_nt_char_21"
+    },
+    "51": {
+        "ふつう": "Normal"
+    },
+    "52": {
+        "権限あり": ""
+    },
+    "53": {
+        "clarity_nt_char_22": "clarity_nt_char_22"
+    },
+    "54": {
+        "<%sL_GREET_MESSAGE>": ""
+    },
+    "55": {
+        "<%nL_TYOUME_RIGHT>丁目": "Block <%dL_TYOUME_RIGHT>"
+    },
+    "56": {
+        "clarity_nt_char_23": "clarity_nt_char_23"
+    },
+    "57": {
+        "<%nL_TYOUME_LEFT>丁目": "Block <%dL_TYOUME_LEFT>"
+    },
+    "58": {
+        "<%sL_OWNER>の家|<%sM_houseComment>": "<%sL_OWNER> Home|<%sM_houseComment>"
+    },
+    "59": {
+        "clarity_nt_char_24": "clarity_nt_char_24"
+    },
+    "60": {
+        "なし": "None"
+    },
+    "61": {
+        "clarity_nt_char_25": "clarity_nt_char_25"
+    },
+    "62": {
+        "Lv<%dL_JOB_LV>": ""
+    },
+    "63": {
+        "clarity_nt_char_26": "clarity_nt_char_26"
+    },
+    "64": {
+        "権限なし": ""
+    },
+    "65": {
+        "clarity_nt_char_27": "clarity_nt_char_27"
+    },
+    "66": {
+        "作成済み": "Created"
+    },
+    "67": {
+        "clarity_nt_char_28": "clarity_nt_char_28"
+    },
+    "68": {
+        "収納家具から取りだす": ""
+    },
+    "69": {
+        "clarity_nt_char_29": "clarity_nt_char_29"
+    },
+    "70": {
+        "収納家具にしまう": ""
+    },
+    "71": {
+        "clarity_nt_char_30": "clarity_nt_char_30"
+    },
+    "72": {
+        "内装の管理": ""
+    },
+    "73": {
+        "家具の配置": ""
+    },
+    "74": {
+        "家具のかたづけ": ""
+    },
+    "75": {
+        "家具の移動": ""
+    },
+    "76": {
+        "家具機能の利用": ""
+    },
+    "77": {
+        "外装の変更": ""
+    },
+    "78": {
+        "何丁目から？": "What block?"
+    },
+    "79": {
+        "clarity_nt_char_31": "clarity_nt_char_31"
+    },
+    "80": {
+        "何丁目へ？": "What block?"
+    },
+    "81": {
+        "販売済": "Sold"
+    },
+    "82": {
+        "売っていない": ""
+    },
+    "83": {
+        "clarity_nt_char_32": "clarity_nt_char_32"
+    },
+    "84": {
+        "１番地": "House 1"
+    },
+    "85": {
+        "３番地": "House 3"
+    },
+    "86": {
+        "５番地": "House 5"
+    },
+    "87": {
+        "７番地": "House 7"
+    },
+    "88": {
+        "２番地": "House 2"
+    },
+    "89": {
+        "４番地": "House 4"
+    },
+    "90": {
+        "６番地": "House 6"
+    },
+    "91": {
+        "はいる": "Enter"
+    },
+    "92": {
+        "管理人を呼ぶ": "Call Manager"
+    },
+    "93": {
+        "clarity_nt_char_33": "clarity_nt_char_33"
+    },
+    "94": {
+        "配置中の家具": "Move Furniture"
+    },
+    "95": {
+        "clarity_nt_char_34": "clarity_nt_char_34"
+    },
+    "96": {
+        "出る": "Leave"
+    },
+    "97": {
+        "clarity_nt_char_35": "clarity_nt_char_35"
+    },
+    "98": {
+        "もらった手紙": "Received Letters"
+    },
+    "99": {
+        "clarity_nt_char_36": "clarity_nt_char_36"
+    },
+    "100": {
+        "書いた手紙": "Written Letters"
+    },
+    "101": {
+        "「Ｖロンのヒミツ」|アストルティアの冒険者たちに　絶大な人気を誇る|書物・Ｖジャンプのシンボル的ドラゴン。|<br>|伝説の絵師・トリヤーマがデザインしたと言われ|その姿を模したＴシャツや盾を身にまとう|冒険者の姿が　多数目撃されている。": ""
+    },
+    "102": {
+        "特に　変わった本はないようだ。": ""
+    },
+    "103": {
+        "遊びに来ました！": ""
+    },
+    "104": {
+        "clarity_nt_char_37": "clarity_nt_char_37"
+    },
+    "105": {
+        "職人設備の使用": ""
+    },
+    "106": {
+        "とりだす": "Retrieve"
+    },
+    "107": {
+        "clarity_nt_char_38": "clarity_nt_char_38"
+    },
+    "108": {
+        "つかう": "Use"
+    },
+    "109": {
+        "やすむ": "Rest"
+    },
+    "110": {
+        "かたづける": "Clean Up"
+    },
+    "111": {
+        "メッセージをかく": "Write Message"
+    },
+    "112": {
+        "clarity_nt_char_39": "clarity_nt_char_39"
+    },
+    "113": {
+        "本をよむ": ""
+    },
+    "114": {
+        "clarity_nt_char_40": "clarity_nt_char_40"
+    },
+    "115": {
+        "うごかす": "Move"
+    },
+    "116": {
+        "clarity_nt_char_41": "clarity_nt_char_41"
+    },
+    "117": {
+        "メッセージをみる": "View Messages"
+    },
+    "118": {
+        "clarity_nt_char_42": "clarity_nt_char_42"
+    },
+    "119": {
+        "しまう": "Store"
+    },
+    "120": {
+        "あける": ""
+    },
+    "121": {
+        "ベッドの使用": ""
+    },
+    "122": {
+        "clarity_nt_char_43": "clarity_nt_char_43"
+    },
+    "123": {
+        "売り物を設定する": ""
+    },
+    "124": {
+        "clarity_nt_char_44": "clarity_nt_char_44"
+    },
+    "125": {
+        "売ってる物をみる": "View Items For Sale"
+    },
+    "126": {
+        "clarity_nt_char_45": "clarity_nt_char_45"
+    },
+    "127": {
+        "モーモンバザーの購入": ""
+    },
+    "128": {
+        "clarity_nt_char_46": "clarity_nt_char_46"
+    },
+    "129": {
+        "すわる": "Sit"
+    },
+    "130": {
+        "ねころがる": "Lie Down"
+    },
+    "131": {
+        "庭をいじる": ""
+    },
+    "132": {
+        "配置中の庭具": "Move Furniture"
+    },
+    "133": {
+        "clarity_nt_char_47": "clarity_nt_char_47"
+    },
+    "134": {
+        "映写機をつかう": "Use Projector"
+    },
+    "135": {
+        "肥料をつかう": "Use Fertilizer"
+    },
+    "136": {
+        "clarity_nt_char_48": "clarity_nt_char_48"
+    },
+    "137": {
+        "タネをまく": "Plant Seed"
+    },
+    "138": {
+        "説明をみる": "Explanation"
+    },
+    "139": {
+        "他の人の家へ": "To Other House"
+    },
+    "140": {
+        "clarity_nt_char_49": "clarity_nt_char_49"
+    },
+    "141": {
+        "郵便ポストの使用": ""
+    },
+    "142": {
+        "clarity_nt_char_50": "clarity_nt_char_50"
+    },
+    "143": {
+        "庭具の配置": ""
+    },
+    "144": {
+        "庭具のかたづけ": ""
+    },
+    "145": {
+        "お世話の記録": "Record of Care"
+    },
+    "146": {
+        "clarity_nt_char_51": "clarity_nt_char_51"
+    },
+    "147": {
+        "やりなおす": "Replant"
+    },
+    "148": {
+        "インテリアじまん・おもしろ系": "Interioir Type - Interesting"
+    },
+    "149": {
+        "clarity_nt_char_52": "clarity_nt_char_52"
+    },
+    "150": {
+        "インテリアじまん・かわいい系": "Interior Type - Cute"
+    },
+    "151": {
+        "clarity_nt_char_53": "clarity_nt_char_53"
+    },
+    "152": {
+        "インテリアじまん・庭にこだわり系": "Interior Type - Gardening"
+    },
+    "153": {
+        "clarity_nt_char_54": "clarity_nt_char_54"
+    },
+    "154": {
+        "インテリアじまん・おしゃれ系": "Interior Type - Fashionable"
+    },
+    "155": {
+        "clarity_nt_char_55": "clarity_nt_char_55"
+    },
+    "156": {
+        "インテリアじまん・その他": "Interior Type - Other"
+    },
+    "157": {
+        "clarity_nt_char_56": "clarity_nt_char_56"
+    },
+    "158": {
+        "インテリアじまん・クール系": "Interior Type - Cool"
+    },
+    "159": {
+        "インテリアじまん・コレクター系": "Interior Type - Collector"
+    },
+    "160": {
+        "モーモンバザー・ツボ錬金中心": "Sanguini Bazaar - Pot Alchemy Center"
+    },
+    "161": {
+        "clarity_nt_char_57": "clarity_nt_char_57"
+    },
+    "162": {
+        "モーモンバザー・素材中心": "Sanguini Bazaar - Material Center"
+    },
+    "163": {
+        "clarity_nt_char_58": "clarity_nt_char_58"
+    },
+    "164": {
+        "モーモンバザー・さいほう中心": "Sanguini Bazaar - Sewing Center"
+    },
+    "165": {
+        "clarity_nt_char_59": "clarity_nt_char_59"
+    },
+    "166": {
+        "モーモンバザー・ランプ錬金中心": "Sanguini Bazaar - Lamp Alchemy Center"
+    },
+    "167": {
+        "モーモンバザー・木工中心": "Sanguini Bazaar - Woodworking Center"
+    },
+    "168": {
+        "clarity_nt_char_60": "clarity_nt_char_60"
+    },
+    "169": {
+        "モーモンバザー・いろいろ": "Sanguini Bazaar - Various"
+    },
+    "170": {
+        "clarity_nt_char_61": "clarity_nt_char_61"
+    },
+    "171": {
+        "モーモンバザー・道具鍛冶中心": "Sanguini Bazaar - Toolsmith Center"
+    },
+    "172": {
+        "clarity_nt_char_62": "clarity_nt_char_62"
+    },
+    "173": {
+        "モーモンバザー・武器鍛冶中心": "Sanguini Bazaar - Weaponsmith Center"
+    },
+    "174": {
+        "clarity_nt_char_63": "clarity_nt_char_63"
+    },
+    "175": {
+        "モーモンバザー・防具鍛冶中心": "Sanguini Bazaar - Armorsmith Center"
+    },
+    "176": {
+        "clarity_nt_char_64": "clarity_nt_char_64"
+    },
+    "177": {
+        "高さをかえる": ""
+    },
+    "178": {
+        "clarity_nt_char_65": "clarity_nt_char_65"
+    },
+    "179": {
+        "<%sL_PC>が 遊びにきました。": "<%sL_PC> came to visit."
+    },
+    "180": {
+        "clarity_nt_char_66": "clarity_nt_char_66"
+    },
+    "181": {
+        "うけとる": "Receive"
+    },
+    "182": {
+        "clarity_nt_char_67": "clarity_nt_char_67"
+    },
+    "183": {
+        "いれる": "Put In"
+    },
+    "184": {
+        "きせかえする": ""
+    },
+    "185": {
+        "clarity_nt_char_68": "clarity_nt_char_68"
+    },
+    "186": {
+        "一発チェンジ": ""
+    },
+    "187": {
+        "clarity_nt_char_69": "clarity_nt_char_69"
+    },
+    "188": {
+        "曲をとめる": "Stop Song"
+    },
+    "189": {
+        "曲をならす": "Play Music"
+    },
+    "190": {
+        "お世話記録を見る": ""
+    },
+    "191": {
+        "clarity_nt_char_70": "clarity_nt_char_70"
+    },
+    "192": {
+        "自分の家の石の使用": ""
+    },
+    "193": {
+        "一発チェンジ2": ""
+    },
+    "194": {
+        "ひきだす": "Draw Out"
+    },
+    "195": {
+        "clarity_nt_char_71": "clarity_nt_char_71"
+    },
+    "196": {
+        "あずける": "Deposit"
+    },
+    "197": {
+        "clarity_nt_char_72": "clarity_nt_char_72"
+    },
+    "198": {
+        "さわる": "Touch"
+    },
+    "199": {
+        "とめる": "Stop"
+    },
+    "200": {
+        "お庭でのんびり": "Relax in Garden"
+    },
+    "201": {
+        "モンスターをひっこめる": "Remove From Hutch"
+    },
+    "202": {
+        "すごしかたを変更": "Change Behaviour"
+    },
+    "203": {
+        "clarity_nt_char_73": "clarity_nt_char_73"
+    },
+    "204": {
+        "モーモンバザー・依頼書中心": "Sanguini Bazaar - Request Form Center"
+    },
+    "205": {
+        "おくりもの": ""
+    },
+    "206": {
+        "さかなをだす": ""
+    },
+    "207": {
+        "clarity_nt_char_74": "clarity_nt_char_74"
+    },
+    "208": {
+        "さかなをみる": "View Fish"
+    },
+    "209": {
+        "clarity_nt_char_75": "clarity_nt_char_75"
+    },
+    "210": {
+        "さかなをいれる": "Put in Fish"
+    },
+    "211": {
+        "部屋の明るさ": "Room Lights"
+    },
+    "212": {
+        "clarity_nt_char_76": "clarity_nt_char_76"
+    },
+    "213": {
+        "けす": "Off"
+    },
+    "214": {
+        "clarity_nt_char_77": "clarity_nt_char_77"
+    },
+    "215": {
+        "暗くする": "Darken"
+    },
+    "216": {
+        "clarity_nt_char_78": "clarity_nt_char_78"
+    },
+    "217": {
+        "明るくする": "Brighten"
+    },
+    "218": {
+        "さかなをかえる": ""
+    },
+    "219": {
+        "モーモンバザー・料理中心": "Sanguini Bazaar - Cooking Center"
+    },
+    "220": {
+        "clarity_nt_char_79": "clarity_nt_char_79"
+    },
+    "221": {
+        "バザーで買う": ""
+    },
+    "222": {
+        "clarity_nt_char_80": "clarity_nt_char_80"
+    },
+    "223": {
+        "お店で買う": ""
+    },
+    "224": {
+        "おためし配置": ""
+    },
+    "225": {
+        "clarity_nt_char_81": "clarity_nt_char_81"
+    },
+    "226": {
+        "モンスター酒場": "Monster Tavern"
+    },
+    "227": {
+        "コンシェルジュ機能": ""
+    },
+    "228": {
+        "つける": "Put on"
+    },
+    "229": {
+        "消す": ""
+    },
+    "230": {
+        "clarity_nt_char_82": "clarity_nt_char_82"
+    },
+    "231": {
+        "移動させる": ""
+    },
+    "232": {
+        "名前を変える": ""
+    },
+    "233": {
+        "clarity_nt_char_83": "clarity_nt_char_83"
+    },
+    "234": {
+        "伝言を登録する": ""
+    },
+    "235": {
+        "しめる": ""
+    },
+    "236": {
+        "ポーズ変更": ""
+    },
+    "237": {
+        "立て札からのルーラ登録": ""
+    },
+    "238": {
+        "庭具のロック": "Lock Garden Tools"
+    },
+    "239": {
+        "clarity_nt_char_84": "clarity_nt_char_84"
+    },
+    "240": {
+        "家具のロック": "Lock Furniture"
+    },
+    "241": {
+        "clarity_nt_char_85": "clarity_nt_char_85"
+    },
+    "242": {
+        "ロックしない": ""
+    },
+    "243": {
+        "clarity_nt_char_86": "clarity_nt_char_86"
+    },
+    "244": {
+        "ロックする": "Lock"
+    },
+    "245": {
+        "野菜の芽": ""
+    },
+    "246": {
+        "clarity_nt_char_87": "clarity_nt_char_87"
+    },
+    "247": {
+        "花のつぼみ": ""
+    },
+    "248": {
+        "花の芽": ""
+    },
+    "249": {
+        "野菜のつぼみ": ""
+    },
+    "250": {
+        "clarity_nt_char_88": "clarity_nt_char_88"
+    },
+    "251": {
+        "<%sL_PC>の家": "<%sL_PC> Home"
+    },
+    "252": {
+        "clarity_nt_char_89": "clarity_nt_char_89"
+    },
+    "253": {
+        "ふるまい方を教える": ""
+    },
+    "254": {
+        "あいさつの頻度": ""
+    },
+    "255": {
+        "立ちかたを変える": ""
+    },
+    "256": {
+        "clarity_nt_char_90": "clarity_nt_char_90"
+    },
+    "257": {
+        "ふつうの立ちかた": "Neutral Stance"
+    },
+    "258": {
+        "clarity_nt_char_91": "clarity_nt_char_91"
+    },
+    "259": {
+        "コンシェルジュの立ちかた": ""
+    },
+    "260": {
+        "clarity_nt_char_92": "clarity_nt_char_92"
+    },
+    "261": {
+        "プレゼントをわたす": ""
+    },
+    "262": {
+        "口調を変える": ""
+    },
+    "263": {
+        "clarity_nt_char_93": "clarity_nt_char_93"
+    },
+    "264": {
+        "顔アクセを変える": ""
+    },
+    "265": {
+        "clarity_nt_char_94": "clarity_nt_char_94"
+    },
+    "266": {
+        "着替えをする": ""
+    },
+    "267": {
+        "clarity_nt_char_95": "clarity_nt_char_95"
+    },
+    "268": {
+        "コンシェルジュの日常": ""
+    },
+    "269": {
+        "clarity_nt_char_96": "clarity_nt_char_96"
+    },
+    "270": {
+        "ていねいなふるまい": ""
+    },
+    "271": {
+        "友達のように|明るく親しげに|ふるまいます": ""
+    },
+    "272": {
+        "ちょっと偉そうで|勝気な感じに|ふるまいます": ""
+    },
+    "273": {
+        "clarity_nt_char_97": "clarity_nt_char_97"
+    },
+    "274": {
+        "底抜けに明るくて|能天気な感じに|ふるまいます": ""
+    },
+    "275": {
+        "コンシェルジュの|ていねいな態度で|ふるまいます": ""
+    },
+    "276": {
+        "clarity_nt_char_98": "clarity_nt_char_98"
+    },
+    "277": {
+        "とびきりかわいく|甘えん坊に|ふるまいます": ""
+    },
+    "278": {
+        "白がピュアな雰囲気の|コンシェルジュのスーツ": ""
+    },
+    "279": {
+        "clarity_nt_char_99": "clarity_nt_char_99"
+    },
+    "280": {
+        "赤が派手で情熱的な|コンシェルジュのスーツ": ""
+    },
+    "281": {
+        "派手なピンクがご機嫌な|コンシェルジュのスーツ": ""
+    },
+    "282": {
+        "紺が知的でおしゃれな|コンシェルジュのスーツ": ""
+    },
+    "283": {
+        "clarity_nt_char_100": "clarity_nt_char_100"
+    },
+    "284": {
+        "格調高い灰色がクールな|コンシェルジュのスーツ": ""
+    },
+    "285": {
+        "黒がシックで正統派な|コンシェルジュのスーツ": ""
+    },
+    "286": {
+        "clarity_nt_char_101": "clarity_nt_char_101"
+    },
+    "287": {
+        "青色がさわやかな|コンシェルジュのスーツ": ""
+    },
+    "288": {
+        "clarity_nt_char_102": "clarity_nt_char_102"
+    },
+    "289": {
+        "赤が情熱的で威厳ある|コンシェルジュのドレス": ""
+    },
+    "290": {
+        "clarity_nt_char_103": "clarity_nt_char_103"
+    },
+    "291": {
+        "鮮やかな紫が美しい|コンシェルジュのドレス": ""
+    },
+    "292": {
+        "明るいオレンジがかわいい|コンシェルジュのドレス": ""
+    },
+    "293": {
+        "clarity_nt_char_104": "clarity_nt_char_104"
+    },
+    "294": {
+        "ピンクが華やかな|コンシェルジュのドレス": ""
+    },
+    "295": {
+        "clarity_nt_char_105": "clarity_nt_char_105"
+    },
+    "296": {
+        "紺色が知的で真面目そうな|コンシェルジュのドレス": ""
+    },
+    "297": {
+        "clarity_nt_char_106": "clarity_nt_char_106"
+    },
+    "298": {
+        "黒がシックで正統派な|コンシェルジュのドレス": ""
+    },
+    "299": {
+        "clarity_nt_char_107": "clarity_nt_char_107"
+    },
+    "300": {
+        "さわやかな水色が涼しげな|コンシェルジュのドレス": ""
+    },
+    "301": {
+        "clarity_nt_char_108": "clarity_nt_char_108"
+    },
+    "302": {
+        "<%sL_SYOUGOU_NAME>の立ちかた": ""
+    },
+    "303": {
+        "<%sM_SIDE_NAME>カタログ": "<%sM_SIDE_NAME> Catalog"
+    },
+    "304": {
+        "まとめて収穫": "Harvest All"
+    },
+    "305": {
+        "clarity_nt_char_109": "clarity_nt_char_109"
+    },
+    "306": {
+        "予備9": ""
+    },
+    "307": {
+        "予備8": ""
+    },
+    "308": {
+        "予備7": ""
+    },
+    "309": {
+        "予備6": ""
+    },
+    "310": {
+        "予備5": ""
+    },
+    "311": {
+        "予備4": ""
+    },
+    "312": {
+        "予備3": ""
+    },
+    "313": {
+        "予備2": ""
+    },
+    "314": {
+        "予備11": ""
+    },
+    "315": {
+        "clarity_nt_char_110": "clarity_nt_char_110"
+    },
+    "316": {
+        "予備10": ""
+    },
+    "317": {
+        "clarity_nt_char_111": "clarity_nt_char_111"
+    },
+    "318": {
+        "予備1": ""
+    },
+    "319": {
+        "おくる": "Send"
+    },
+    "320": {
+        "<%sL_PC>が 帰宅しました。": "<%sL_PC> came home."
+    },
+    "321": {
+        "アクセサリーを|つけていない状態": ""
+    },
+    "322": {
+        "clarity_nt_char_112": "clarity_nt_char_112"
+    },
+    "323": {
+        "呼び方を変える": ""
+    },
+    "324": {
+        "さま": ""
+    },
+    "325": {
+        "clarity_nt_char_113": "clarity_nt_char_113"
+    },
+    "326": {
+        "家具＆庭具おきば": "Furniture Storage"
+    },
+    "327": {
+        "clarity_nt_char_114": "clarity_nt_char_114"
+    },
+    "328": {
+        "売り上げうけとり": "Get Bazaar Proceeds"
+    },
+    "329": {
+        "clarity_nt_char_115": "clarity_nt_char_115"
+    },
+    "330": {
+        "奥行きをかえる": "Change Depth"
+    },
+    "331": {
+        "とびら": ""
+    },
+    "332": {
+        "美容院に行かせる": ""
+    },
+    "333": {
+        "clarity_nt_char_116": "clarity_nt_char_116"
+    },
+    "334": {
+        "なでる": "Stroke"
+    },
+    "335": {
+        "<%sL_DIVISION><%nL_AREA>丁目 <%nL_BANTI>番地": "Block <%sL_DIVISION> <%dL_AREA> House<%dL_BANTI>"
+    },
+    "336": {
+        "clarity_nt_char_117": "clarity_nt_char_117"
+    },
+    "337": {
+        "マルリーヌ": ""
+    },
+    "338": {
+        "ペレナ": ""
+    },
+    "339": {
+        "ルンネ": ""
+    },
+    "340": {
+        "アチュリン": ""
+    },
+    "341": {
+        "ヨヒラ": ""
+    },
+    "342": {
+        "マニニ": ""
+    },
+    "343": {
+        "イェーラ": ""
+    },
+    "344": {
+        "clarity_nt_char_118": "clarity_nt_char_118"
+    },
+    "345": {
+        "パジル": ""
+    },
+    "346": {
+        "ゲラジム": ""
+    },
+    "347": {
+        "clarity_nt_char_119": "clarity_nt_char_119"
+    },
+    "348": {
+        "アンヴァー": ""
+    },
+    "349": {
+        "ソテツ": ""
+    },
+    "350": {
+        "コアム": ""
+    },
+    "351": {
+        "お引っ越ししました": ""
+    },
+    "352": {
+        "絵葉書をかざる": "Set Postcard"
+    },
+    "353": {
+        "絵葉書をはずす": ""
+    },
+    "354": {
+        "絵葉書を見る": ""
+    },
+    "355": {
+        "clarity_nt_char_120": "clarity_nt_char_120"
+    },
+    "356": {
+        "絵葉書をかえる": ""
+    },
+    "357": {
+        "黒": ""
+    },
+    "358": {
+        "白": ""
+    },
+    "359": {
+        "ドルボードをかざる": ""
+    },
+    "360": {
+        "ドルボードをはずす": ""
+    },
+    "361": {
+        "ドルボードをかえる": ""
+    },
+    "362": {
+        "ドルボード": "Dolboard"
+    },
+    "363": {
+        "他アクセを変える": ""
+    },
+    "364": {
+        "clarity_nt_char_121": "clarity_nt_char_121"
+    },
+    "365": {
+        "うごきをとめる": "Stop Moving"
+    },
+    "366": {
+        "曲なしでうごかす": "Move without Song"
+    },
+    "367": {
+        "clarity_nt_char_122": "clarity_nt_char_122"
+    },
+    "368": {
+        "むらさき": ""
+    },
+    "369": {
+        "clarity_nt_char_123": "clarity_nt_char_123"
+    },
+    "370": {
+        "ドルステーション": ""
+    },
+    "371": {
+        "clarity_nt_char_124": "clarity_nt_char_124"
+    },
+    "372": {
+        "スライムチャイムに書く": "Write in Slime Chime"
+    },
+    "373": {
+        "ブラックリストの人のコメントです": ""
+    },
+    "374": {
+        "clarity_nt_char_125": "clarity_nt_char_125"
+    },
+    "375": {
+        "土台をだす": ""
+    },
+    "376": {
+        "土台をかえる": ""
+    },
+    "377": {
+        "clarity_nt_char_126": "clarity_nt_char_126"
+    },
+    "378": {
+        "重ね置きする": "Stack"
+    },
+    "379": {
+        "clarity_nt_char_127": "clarity_nt_char_127"
+    },
+    "380": {
+        "家具・庭具リスト": "Furniture List"
+    },
+    "381": {
+        "clarity_nt_char_128": "clarity_nt_char_128"
+    },
+    "382": {
+        "庭具リスト": ""
+    },
+    "383": {
+        "家具リスト": ""
+    },
+    "384": {
+        "茶": ""
+    },
+    "385": {
+        "退避中の庭具": ""
+    },
+    "386": {
+        "clarity_nt_char_129": "clarity_nt_char_129"
+    },
+    "387": {
+        "退避中の家具": "Transit Furniture"
+    },
+    "388": {
+        "clarity_nt_char_130": "clarity_nt_char_130"
+    },
+    "389": {
+        "橙": ""
+    },
+    "390": {
+        "灰": ""
+    },
+    "391": {
+        "桃": ""
+    },
+    "392": {
+        "おもいでリンク": "Memory Link"
+    },
+    "393": {
+        "うす茶": ""
+    },
+    "394": {
+        "退避中の家具|または庭具を|配置します": "Place furniture|that is in|transit."
+    },
+    "395": {
+        "家具＆庭具おきば|の家具や庭具を|配置します": ""
+    },
+    "396": {
+        "clarity_nt_char_131": "clarity_nt_char_131"
+    },
+    "397": {
+        "配置中の家具|または庭具を|配置します": ""
+    },
+    "398": {
+        "かばんの家具|または庭具を|配置します": ""
+    },
+    "399": {
+        "うす緑": ""
+    },
+    "400": {
+        "まちかど掲示板の使用": "Use the Town Bulletin Board"
+    },
+    "401": {
+        "clarity_nt_char_132": "clarity_nt_char_132"
+    },
+    "402": {
+        "釣り堀でさかなを釣る": ""
+    },
+    "403": {
+        "clarity_nt_char_133": "clarity_nt_char_133"
+    },
+    "404": {
+        "釣り堀にさかなを入れる": ""
+    },
+    "405": {
+        "つかうものを置く": "Place Furniture"
+    },
+    "406": {
+        "clarity_nt_char_134": "clarity_nt_char_134"
+    },
+    "407": {
+        "ガーデンボックス": ""
+    },
+    "408": {
+        "clarity_nt_char_135": "clarity_nt_char_135"
+    },
+    "409": {
+        "マイタウンへの出入り": ""
+    },
+    "410": {
+        "clarity_nt_char_136": "clarity_nt_char_136"
+    },
+    "411": {
+        "倉庫の庭具を配置|したり配置中庭具|をかたづけます": ""
+    },
+    "412": {
+        "どうぐかばんが　いっぱいのため|<%sL_ITEM>は　取りだせなかった。": ""
+    },
+    "413": {
+        "庭具倉庫にいれる": "Put in Storage"
+    },
+    "414": {
+        "clarity_nt_char_137": "clarity_nt_char_137"
+    },
+    "415": {
+        "メルテナ": ""
+    },
+    "416": {
+        "clarity_nt_char_138": "clarity_nt_char_138"
+    },
+    "417": {
+        "ミミラ": ""
+    },
+    "418": {
+        "着せる衣装を|選択してください。": ""
+    },
+    "419": {
+        "clarity_nt_char_139": "clarity_nt_char_139"
+    },
+    "420": {
+        "口調を選択してください。|口調はクエストには|反映されません。": ""
+    },
+    "421": {
+        "住宅商": "Realtor"
+    },
+    "422": {
+        "郵便局員": ""
+    },
+    "423": {
+        "clarity_nt_char_140": "clarity_nt_char_140"
+    },
+    "424": {
+        "取引商": ""
+    },
+    "425": {
+        "紹介人": ""
+    },
+    "426": {
+        "素材タネ屋": "Mat. Seed Shop"
+    },
+    "427": {
+        "シスター・": ""
+    },
+    "428": {
+        "神父": ""
+    },
+    "429": {
+        "clarity_nt_char_141": "clarity_nt_char_141"
+    },
+    "430": {
+        "預かり所": "Depository"
+    },
+    "431": {
+        "clarity_nt_char_142": "clarity_nt_char_142"
+    },
+    "432": {
+        "案内係": ""
+    },
+    "433": {
+        "神官": ""
+    },
+    "434": {
+        "clarity_nt_char_143": "clarity_nt_char_143"
+    },
+    "435": {
+        "加工する": ""
+    },
+    "436": {
+        "clarity_nt_char_144": "clarity_nt_char_144"
+    },
+    "437": {
+        "レプリカ<%sM_SIDE_NAME>": "Replica <%sM_SIDE_NAME>"
+    },
+    "438": {
+        "<%sL_AREA_TEXT>丁目": ""
+    }
+}

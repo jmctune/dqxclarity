@@ -1,0 +1,59 @@
+{
+  "1": {
+    "エラーコード：<%sERRID>|　|インターネットに　接続できません。|正しくインターネットに接続できる状態か|ご確認ください。|　|時間がたっても　問題が解決しない場合は|「ドラゴンクエストⅩ」サポートセンターのページを|ご確認ください。|https://sqex.to/eh6": "Error code:<%sERRID>|　|Cannot connect to the internet.|Please check your internet connection and try again.|If the problem persists,|please check the Dragon Quest X Support Center page|https://sqex.to/eh6"
+  },
+  "2": {
+    "予備１": "Backup1"
+  },
+  "3": {
+    "予備２": "Backup2"
+  },
+  "4": {
+    "予備３": "Backup3"
+  },
+  "5": {
+    "予備４": "Backup4"
+  },
+  "6": {
+    "予備５": "Backup5"
+  },
+  "7": {
+    "予備６": "Backup6"
+  },
+  "8": {
+    "予備７": "Backup7"
+  },
+  "9": {
+    "予備８": "Backup8"
+  },
+  "10": {
+    "予備９": "Backup9"
+  },
+  "11": {
+    "予備１０": "Backup10"
+  },
+  "12": {
+    "エラーコード：<%sERRID>|システムエラーが発生しました。|インストールした環境に　問題がある|可能性があります。ドラゴンクエストⅩを|インストールしなおしてください。|問題が解決しないようであれば|「ドラゴンクエストⅩ」サポートセンターのページも|ご確認ください。|https://sqex.to/eh6|＜ボタンを押すと　ゲームを終了します＞": "Error code: <%sERRID> | |A system error has occurred|There is a problem running the game on your PC|Please try to reinstall Dragon Quest X|If the problem persists|Check the Dragon Quest X Support Center|https://sqex.to/eh6|<Press the button to close the game>"
+  },
+  "13": {
+    "エラーコード：<%sERRID>|　|サーバーへの接続が　できませんでした。|　|正しくインターネットに接続できる状態か|接続先の設定を　ご確認の上|もう一度　お試しください。": "Error code: <%sERRID> | |Unable to connect to server|Check your internet connection and try again"
+  },
+  "14": {
+    "エラーコード：<%sERRID>|システムエラーが発生しました。|『スクウェア・エニックスからのお知らせ』の|障害情報を　ご確認の上|少し時間を置いてから　もう一度　お試しください。|現在のプレイ環境で　公開されていないマップへは|移動できません。|くわしくは「目覚めし冒険者の広場」の|トピックスをご確認ください。": ""
+  },
+  "15": {
+    "エラーコード：<%sERRID>|　|現在の　Windows版ベータテストでは|使用できないキャラが　選ばれました。|　|「Windows版ベータテスト特設ページ」を　ご確認の上|条件を満たしたキャラを　選んでください。|https://hiroba.dqx.jp/sc/windowsb": ""
+  },
+  "16": {
+    "エラーコード：<%sERRID>|　|サーバーへの接続が　できませんでした。|正しくインターネットに接続できる状態か|接続先の設定を　ご確認の上|少し時間を置いてから　もう一度　お試しください。|時間がたっても　問題が解決しない場合は|「ドラゴンクエストⅩ」サポートセンターのページも|ご確認ください。|https://sqex.to/eh6": "Error Code: <%sERRID>| |Could not connect to the server.|If the problem persists, please check the|Dragon Quest X Support Center page.| |https://sqex.to/eh6"
+  },
+  "17": {
+    "エラーコード：<%sERRID>|バージョンが一致しません。|ドラゴンクエストⅩを|バージョンアップしてください。|　|ゲームを再起動することで|更新できます。|　|　|＜ボタンを押すと　ゲームを終了します＞": ""
+  },
+  "18": {
+    "エラーコード：<%sERRID>|この利用券を受信するには|空き容量が　不足しています。|　|データを消去して　<%nNUM>kByte以上の|空き容量を用意してください。|　|　|　|＜ボタンを押すと　ゲームを終了します＞": ""
+  },
+  "19": {
+    "エラーコード：<%sERRID>|通信が切断されました。|少し時間を置いてから　もう一度　お試しください。|（混雑している場合は　製品版でプレイしている方が|　優先的に　ログインできます。）|　|時間がたっても　問題が解決しない場合は|「ドラゴンクエストⅩ」サポートセンターのページも|ご確認ください。|https://sqex.to/eh6": "Error code: <%sERRID>|Communication has been lost. |Please wait a moment and try again.|If the problem persists after a few minutes, please|check the Dragon Quest X Support Center page.|https://sqex.to/eh6"
+  }
+}

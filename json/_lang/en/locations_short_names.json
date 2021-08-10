@@ -183,7 +183,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>ツボ錬金設備": "<%sW_MAP_NAME><%sW_DELIMITER>Pot Alch. Facility"
     },
     "62": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>採掘ギルド": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>採掘ギルド": "<%sW_MAP_NAME><%sW_DELIMITER>Mining Guild"
     },
     "63": {
         "clarity_nt_char_15": "clarity_nt_char_15"
@@ -336,16 +336,16 @@
         "clarity_nt_char_34": "clarity_nt_char_34"
     },
     "113": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>展望台": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>展望台": "<%sW_MAP_NAME><%sW_DELIMITER>Lookout"
     },
     "114": {
         "clarity_nt_char_35": "clarity_nt_char_35"
     },
     "115": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>展望台へのはしご": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>展望台へのはしご": "<%sW_MAP_NAME><%sW_DELIMITER>Lookout Ladder"
     },
     "116": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>採掘ギルド周辺": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>採掘ギルド周辺": "<%sW_MAP_NAME><%sW_DELIMITER>Mining Guild Area"
     },
     "117": {
         "clarity_nt_char_36": "clarity_nt_char_36"
@@ -963,7 +963,7 @@
         "戒めの地 入口": ""
     },
     "322": {
-        "ザアグの洞門 入口": ""
+        "ザアグの洞門 入口": "Cave of Zaag Entrance"
     },
     "323": {
         "ラニ大洞穴 入口": ""
@@ -2310,7 +2310,7 @@
         "モガレの広間 入口": ""
     },
     "771": {
-        "魔獣のナワ張り 入口": ""
+        "魔獣のナワ張り 入口": "Hexenbiest Nest Entrance"
     },
     "772": {
         "clarity_nt_char_248": "clarity_nt_char_248"
@@ -2331,7 +2331,7 @@
         "ボロヌス溶岩流への出口": ""
     },
     "778": {
-        "魔獣のナワ張り 出口": ""
+        "魔獣のナワ張り 出口": "Hexenbiest Nest Exit"
     },
     "779": {
         "clarity_nt_char_251": "clarity_nt_char_251"
@@ -2379,7 +2379,7 @@
         "ザグビナ遺構 出口": ""
     },
     "794": {
-        "ザアグの洞門 出口": ""
+        "ザアグの洞門 出口": "Cave of Zaag Exit"
     },
     "795": {
         "怪鳥の巣 出口": "Bird's Nest Exit"

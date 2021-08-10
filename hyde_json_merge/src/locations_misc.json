@@ -1,0 +1,218 @@
+{
+  "1": {
+    "ランガーオエリア": "Langao Area"
+  },
+  "2": {
+    "clarity_nt_char_1": "clarity_nt_char_1"
+  },
+  "3": {
+    "グレンエリア": "Glen Area"
+  },
+  "4": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "5": {
+    "ガートラントエリア": "Gartlant Area"
+  },
+  "6": {
+    "アグラニエリア": "Agrani Area"
+  },
+  "7": {
+    "ガタラエリア": "Gatara Area"
+  },
+  "8": {
+    "clarity_nt_char_3": "clarity_nt_char_3"
+  },
+  "9": {
+    "ドルワームエリア": "Dolworm Area"
+  },
+  "10": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "11": {
+    "ツスクルエリア": "Tsusukul Area"
+  },
+  "12": {
+    "アズランエリア": "Azlan Area"
+  },
+  "13": {
+    "カミハルムイエリア": "Kamiharmui Area"
+  },
+  "14": {
+    "プクレットエリア": "Pukulet Area"
+  },
+  "15": {
+    "clarity_nt_char_5": "clarity_nt_char_5"
+  },
+  "16": {
+    "オルフェアエリア": "Orphea Area"
+  },
+  "17": {
+    "clarity_nt_char_6": "clarity_nt_char_6"
+  },
+  "18": {
+    "メギストリスエリア": "Megistris Area"
+  },
+  "19": {
+    "レーンエリア": "Lane Area"
+  },
+  "20": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "21": {
+    "ジュレットエリア": "Julet Area"
+  },
+  "22": {
+    "clarity_nt_char_8": "clarity_nt_char_8"
+  },
+  "23": {
+    "ヴェリナードエリア": "Verinard Area"
+  },
+  "24": {
+    "ラッカランエリア": "Luckland Area"
+  },
+  "25": {
+    "clarity_nt_char_9": "clarity_nt_char_9"
+  },
+  "26": {
+    "レンドアエリア": "Lendor Area"
+  },
+  "27": {
+    "その他のエリア": "Other Area"
+  },
+  "28": {
+    "過去世界エリア": "Past Era Area"
+  },
+  "29": {
+    "<%sW_REP_MAX_2ND_F>ココラタエリア": "<%sW_REP_MAX_2ND_F>Cocoratha Area"
+  },
+  "30": {
+    "clarity_nt_char_10": "clarity_nt_char_10"
+  },
+  "31": {
+    "<%sW_REP_MAX_2ND_F>グランゼドーラエリア": "<%sW_REP_MAX_2ND_F>Gran Zedora Area"
+  },
+  "32": {
+    "<%sW_REP_MAX_2ND_F>メルサンディエリア": "<%sW_REP_MAX_2ND_F>Melsandy Area"
+  },
+  "33": {
+    "clarity_nt_char_11": "clarity_nt_char_11"
+  },
+  "34": {
+    "<%sW_REP_MAX_2ND_F>セレドエリア": "<%sW_REP_MAX_2ND_F>Celed Area"
+  },
+  "35": {
+    "<%sW_REP_MAX_2ND_F>アラハギーロエリア": "<%sW_REP_MAX_2ND_F>Arahagiro Area"
+  },
+  "36": {
+    "clarity_nt_char_12": "clarity_nt_char_12"
+  },
+  "37": {
+    "<%sW_REP_MAX_2ND_F>エテーネエリア": "<%sW_REP_MAX_2ND_F>Ethene Area"
+  },
+  "38": {
+    "clarity_nt_char_13": "clarity_nt_char_13"
+  },
+  "39": {
+    "<%sW_REP_MAX_2ND_R>ココラタエリア": "True Cocoratha Area"
+  },
+  "40": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "41": {
+    "<%sW_REP_MAX_2ND_R>グランゼドーラエリア": "True Gran Zedora Area"
+  },
+  "42": {
+    "<%sW_REP_MAX_2ND_R>メルサンディエリア": "True Melsandy Area"
+  },
+  "43": {
+    "clarity_nt_char_15": "clarity_nt_char_15"
+  },
+  "44": {
+    "<%sW_REP_MAX_2ND_R>セレドエリア": "True Celed Area"
+  },
+  "45": {
+    "<%sW_REP_MAX_2ND_R>アラハギーロエリア": "True Arahagiro Area"
+  },
+  "46": {
+    "clarity_nt_char_16": "clarity_nt_char_16"
+  },
+  "47": {
+    "<%sW_REP_MAX_2ND_R>エテーネエリア": "True Ethene Area"
+  },
+  "48": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "49": {
+    "炎の領界エリア": "Fire Realm Area"
+  },
+  "50": {
+    "氷の領界エリア": "Ice Realm Area"
+  },
+  "51": {
+    "闇の領界エリア": "Dark Realm Area"
+  },
+  "52": {
+    "水の領界エリア": "Water Realm Area"
+  },
+  "53": {
+    "嵐の領界エリア": "Storm Realm Area"
+  },
+  "54": {
+    "エテーネ王国エリア": "Ethene Kingdom Area"
+  },
+  "55": {
+    "古グランゼドーラエリア": "Old Gran Zedora Area"
+  },
+  "56": {
+    "オルセコ王国エリア": "Orseco Kingdom Area"
+  },
+  "57": {
+    "ウルベア帝国エリア": "Urbea Empire Area"
+  },
+  "58": {
+    "アルウェーンエリア": "Alwane Area"
+  },
+  "59": {
+    "マイタウンエリア": "My Town Area"
+  },
+  "60": {
+    "clarity_nt_char_18": "clarity_nt_char_18"
+  },
+  "61": {
+    "大エテーネ島エリア": "Greater Ethene Island Area"
+  },
+  "62": {
+    "魔界辺境エリア": "Makai Frontier Area"
+  },
+  "63": {
+    "ゼクレスエリア": "Zechres Area"
+  },
+  "64": {
+    "バルディスタエリア": "Valdista Area"
+  },
+  "65": {
+    "ファラザードエリア": "Farazard Area"
+  },
+  "66": {
+    "ネクロデアエリア": "Necrodea Area"
+  },
+  "67": {
+    "clarity_nt_char_19": "clarity_nt_char_19"
+  },
+  "68": {
+    "ゴーラエリア": "Gora Area"
+  },
+  "69": {
+    "clarity_nt_char_20": "clarity_nt_char_20"
+  },
+  "70": {
+    "デスディオエリア": "Desdio Area"
+  },
+  "71": {
+    "clarity_nt_char_21": "clarity_nt_char_21"
+  },
+  "72": {
+    "狭間の世界エリア": "Between Worlds Area"
+  }
+}

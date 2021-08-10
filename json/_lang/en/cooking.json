@@ -1,0 +1,200 @@
+{
+  "1": {
+    "このまま焼く": "Bake As Is"
+  },
+  "2": {
+    "clarity_nt_char_1": "clarity_nt_char_1"
+  },
+  "3": {
+    "具材ムーブ": "Ingredient Move"
+  },
+  "4": {
+    "ななめムーブ": "Diagonal Move"
+  },
+  "5": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "6": {
+    "たて返し": "Flip Over"
+  },
+  "7": {
+    "clarity_nt_char_3": "clarity_nt_char_3"
+  },
+  "8": {
+    "よこ返し": "Turn Sideway"
+  },
+  "9": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "10": {
+    "ダブルたて返し": "Double Upright"
+  },
+  "11": {
+    "ダブルよこ返し": "Double Turn Over"
+  },
+  "12": {
+    "トップターン": "Top Turn"
+  },
+  "13": {
+    "clarity_nt_char_5": "clarity_nt_char_5"
+  },
+  "14": {
+    "まぜあわせ": "Mixture"
+  },
+  "15": {
+    "ねらい焼き": "Aim Grill"
+  },
+  "16": {
+    "半熱封じ": "Half Heat"
+  },
+  "17": {
+    "clarity_nt_char_6": "clarity_nt_char_6"
+  },
+  "18": {
+    "完熱封じ": "Full Heat"
+  },
+  "19": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "20": {
+    "強火焼き": "High Heat"
+  },
+  "21": {
+    "clarity_nt_char_8": "clarity_nt_char_8"
+  },
+  "22": {
+    "弱火焼き": "Simmer"
+  },
+  "23": {
+    "clarity_nt_char_9": "clarity_nt_char_9"
+  },
+  "24": {
+    "ミラクルグリル": "Miracle Grill"
+  },
+  "25": {
+    "会心0.1％アップ": "Critical +0.1%"
+  },
+  "26": {
+    "会心0.2％アップ": "Critical +0.2%"
+  },
+  "27": {
+    "会心0.3％アップ": "Critical +0.3%"
+  },
+  "28": {
+    "必殺率　小アップ": "Small Special Rate Up"
+  },
+  "29": {
+    "clarity_nt_char_10": "clarity_nt_char_10"
+  },
+  "30": {
+    "会心焼き": "Crit. Grill"
+  },
+  "31": {
+    "clarity_nt_char_11": "clarity_nt_char_11"
+  },
+  "32": {
+    "焼き戻し": "Temper"
+  },
+  "33": {
+    "clarity_nt_char_12": "clarity_nt_char_12"
+  },
+  "34": {
+    "具材を動かさずに|このまま焼く": "Bake with|ingredients as is."
+  },
+  "35": {
+    "上下左右のマスに|具材を移動する": "Move ingredients|to outside squares."
+  },
+  "36": {
+    "clarity_nt_char_13": "clarity_nt_char_13"
+  },
+  "37": {
+    "ななめのマスに|具材を移動する": "Move ingredients|diagonally."
+  },
+  "38": {
+    "縦２マスにある|上下の具材を|入れ替える": "Swap upper and|lower in two|squares."
+  },
+  "39": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "40": {
+    "横２マスにある|左右の具材を|入れ替える": "Swap the left|and right in|two squares."
+  },
+  "41": {
+    "clarity_nt_char_15": "clarity_nt_char_15"
+  },
+  "42": {
+    "縦横２マスにある|上下の具材を|入れ替える": "Swap upper and|lower ingredients|diagonally."
+  },
+  "43": {
+    "縦横２マスにある|左右の具材を|入れ替える": "Swap right and|left ingredients|diagonally."
+  },
+  "44": {
+    "フライパンを振り|上の列の具材を|下の列まで飛ばす": "Move upper|ingredients to|the lower row."
+  },
+  "45": {
+    "上下左右にある|同じ種類の具材と|焼き加減を揃える": "Align same type|ingredients in|the corners."
+  },
+  "46": {
+    "通常より|高い会心率で焼く": "Bake at a higher|critical rate."
+  },
+  "47": {
+    "対象の具材を|４ターンの間|半分の熱で焼く": "Bake ingredients|for 4 turns|at half heat."
+  },
+  "48": {
+    "対象の具材を|４ターンの間|焼けなくなる": "Ingredient can't|be burned for|4 turns."
+  },
+  "49": {
+    "clarity_nt_char_16": "clarity_nt_char_16"
+  },
+  "50": {
+    "全てのマスを|４ターンの間|強い火力で焼く": "All spaces have|strong firepower|for 4 turns."
+  },
+  "51": {
+    "全てのマスを|４ターンの間|半分の火力で焼く": "All spaces have|half heat|for 4 turns."
+  },
+  "52": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "53": {
+    "対象の具材を|食べごろ状態まで|焼きあげる！": "Bake the target|ingredients until|they're ready!"
+  },
+  "54": {
+    "clarity_nt_char_18": "clarity_nt_char_18"
+  },
+  "55": {
+    "おぼえてるだけで|会心の出る確率が|常に 0.1％アップ": "Critical chance|increased|by 0.1%."
+  },
+  "56": {
+    "clarity_nt_char_19": "clarity_nt_char_19"
+  },
+  "57": {
+    "おぼえてるだけで|会心の出る確率が|常に 0.2％アップ": "Critical chance|increased|by 0.2%."
+  },
+  "58": {
+    "clarity_nt_char_20": "clarity_nt_char_20"
+  },
+  "59": {
+    "おぼえてるだけで|会心の出る確率が|常に 0.3％アップ": "Critical chance|increased|by 0.3%."
+  },
+  "60": {
+    "clarity_nt_char_21": "clarity_nt_char_21"
+  },
+  "61": {
+    "おぼえてるだけで|必殺の出る確率が|少しだけアップ": "Special chance|is slightly|increased."
+  },
+  "62": {
+    "フライパン全体を|高温なマスほど|高い会心率で焼く": "Bake the whole|frying pan with a|high crit. rate."
+  },
+  "63": {
+    "使用したマスは|４ターンの間|焼き加減が下がる": "Used space will|be baked|less."
+  },
+  "64": {
+    "まれに集中力回復": "Rarely Recover Focus"
+  },
+  "65": {
+    "clarity_nt_char_22": "clarity_nt_char_22"
+  },
+  "66": {
+    "おぼえてるだけで|まれに集中力が|回復する": "Rarely recovers|your focus."
+  }
+}

@@ -1,0 +1,989 @@
+{
+    "1": {
+        "<communication>を押すと|チャットやログを いつでも見られる|コミュニケーションウィンドウが開きます。": "Pressing <communication> will open a communication|window where you can view the chat and|logs at any time."
+    },
+    "2": {
+        "clarity_nt_char_1": "clarity_nt_char_1"
+    },
+    "3": {
+        "<soft_key>を押すと|キーボードがなくても 文字が入力できる|ソフトウェアキーボードが使えます。": "Press <soft_key> to use the software keyboard,|which allows you to enter text without a|keyboard."
+    },
+    "4": {
+        "clarity_nt_char_2": "clarity_nt_char_2"
+    },
+    "5": {
+        "装備品は 一度 装備してしまうと|他の人に渡したり 旅人バザーへの出品が|できなくなります。": "Once an item is equipped, it cannot be|given to another person or sold in the|Traveler's Bazaar."
+    },
+    "6": {
+        "clarity_nt_char_3": "clarity_nt_char_3"
+    },
+    "7": {
+        "バトル中の人に話しかけて|「おうえん」すると|相手のテンションが上がります！": "If you talk to someone in battle and give|them a \"boost\", they'll get more excited!"
+    },
+    "8": {
+        "clarity_nt_char_4": "clarity_nt_char_4"
+    },
+    "9": {
+        "バトルから 逃げるときは|モンスターから離れて|白いラインの外まで 走りましょう！": "When you're running from a battle, run|outside the white line, away from the|monsters!"
+    },
+    "10": {
+        "他の人と仲間になって一緒に冒険できます。|話しかけて「なかまにさそう」で|誘ってみましょう。": "You can become friends with other people|and explore together. You can talk to|them and ask them to join you."
+    },
+    "11": {
+        "clarity_nt_char_5": "clarity_nt_char_5"
+    },
+    "12": {
+        "テンキーのNumLockがOFFのとき カメラが|<camera_zoom_in>で近づき<camera_zoom_out>で離れます！": "When the NumLock key is off, the camera|moves closer with <camera_zoom_in> and farther|with <camera_zoom_out>!"
+    },
+    "13": {
+        "clarity_nt_char_6": "clarity_nt_char_6"
+    },
+    "14": {
+        "誰かと仲間になった時は|パーティリーダーのお話が進みます。|同じ進み具合の人も 一緒に進みます。": "When you join a party, the party leader's|story will progress. People with the|same progress will progress with you."
+    },
+    "15": {
+        "clarity_nt_char_7": "clarity_nt_char_7"
+    },
+    "16": {
+        "他の人と アイテム交換をしたいときは|話しかけて「とりひき」を選びましょう。": "If you want to trade items with other|people, talk to them and choose \"trade\"."
+    },
+    "17": {
+        "clarity_nt_char_8": "clarity_nt_char_8"
+    },
+    "18": {
+        "職業のレベルは 職業別に持っています。|転職しても 元の職業に戻れば|レベルも 元に戻ります。": "Each vocation has its own LVL. If you|change vocations, you can return to your|original vocation with your LVL restored."
+    },
+    "19": {
+        "レベルアップで覚えた呪文は|その職業の時だけ使えます。|転職すると 使えなくなります。": "The spells you learn at level up can only|be used in that vocation. If you change|vocations, you can't use them anymore."
+    },
+    "20": {
+        "レベルアップで手に入れた|スキルポイントは「さくせん」コマンドの|「スキルふりわけ」から振り分けられます。": "Skill points gained from leveling up can|be used in \"Skill Points\" under the|\"Misc.\" command."
+    },
+    "21": {
+        "スキルで覚えた特技には どの職業でも|使える特技と その職業のときだけ使える|特別な（専）特技があります。": "There are two types of skills: those that|can be used in any vocation and those|that can only be used in that vocation."
+    },
+    "22": {
+        "他の職業で覚えた武器の特技は|現在の職業で スキルポイントを振り分けて|いないと 使うことはできません。": "Weapon skills learned in other vocations|cannot be used unless they are assigned|skill points in your current vocation."
+    },
+    "23": {
+        "clarity_nt_char_9": "clarity_nt_char_9"
+    },
+    "24": {
+        "「さくせん」コマンド「いろいろ設定」|以下の項目から|画面視点などの様々な設定ができます。": "Configure various settings such as screen|perspective under \"Preferences\" in the|\"Settings\" menu."
+    },
+    "25": {
+        "「さくせん」コマンド「いろいろ設定」以下|かたがき設定では かたがきの変更や|立ちかたの変更ができます。": "To change your pose and facial|expression, go to \"Character\" in|\"Settings\" under the \"Misc.\" command."
+    },
+    "26": {
+        "clarity_nt_char_10": "clarity_nt_char_10"
+    },
+    "27": {
+        "「さくせん」コマンド「いろいろ設定」以下|フリーコメント設定は 他の人から|見られるコメントの編集ができます。": "Edit comments that other people see by|going to \"Free Comment\" under|\"Communication\" in the \"Settings\" menu."
+    },
+    "28": {
+        "「さくせん」コマンド「いろいろ設定」以下|いまどんな？設定を使えば 他の人に|今どんな状態か？を 伝えられます。": "Go to \"Status Icon\" under \"Communication\"|in the \"Settings\" menu to show what|state you are in to others."
+    },
+    "29": {
+        "clarity_nt_char_11": "clarity_nt_char_11"
+    },
+    "30": {
+        "「さくせん」コマンド「いろいろ設定」以下|よく使うセリフ設定で よく使う|コメントや しぐさを変更できます。": "Change the comments and gestures you use|often, in \"Frequent Phrases\" under|\"Communication\" in the \"Settings\" menu."
+    },
+    "31": {
+        "clarity_nt_char_12": "clarity_nt_char_12"
+    },
+    "32": {
+        "チャットの送信相手を変更するには|キーボードの Ctrl＋カーソルキーか|Tabキーを押してください。": "To change the person you want to send|the chat to, press the Ctrl + Arrow keys|or the Tab key on your keyboard."
+    },
+    "33": {
+        "「きようさ」が上がると|かいしんのいちげきの確率や|敵の不意をつく確率が アップします！": "As your Deftness increases, so does your|chance of hitting a new target or|catching an enemy by surprise!"
+    },
+    "34": {
+        "clarity_nt_char_13": "clarity_nt_char_13"
+    },
+    "35": {
+        "「すばやさ」が上がると バトルコマンドの|間隔が短くなり 身をかわす確率もアップ！|足の速さは 変わりません。": "As your Agility increases, the time|between battle commands is shorter and|you have a better chance of dodging!"
+    },
+    "36": {
+        "「おしゃれさ」が上がると|敵が自分に見とれて動けなくなったり|しびれる確率が アップします！": "The more stylish you are, the more|likely it is that your enemies will|stare at you and be stunned or numbed!"
+    },
+    "37": {
+        "clarity_nt_char_14": "clarity_nt_char_14"
+    },
+    "38": {
+        "「こうげき魔力」が上がると|攻撃呪文の効果や 敵を弱体させる呪文の|成功確率が アップします！": "As your Magical Might increases, so does|the power of attack spells and success|rate of spells that weaken the enemy."
+    },
+    "39": {
+        "「かいふく魔力」が上がると|回復呪文の効果や仲間を生き返らせる呪文の|成功確率が アップします！": "As your Magical Mending increases, so|does the effect of recovery spells and|success rate of spells that revive allies."
+    },
+    "40": {
+        "clarity_nt_char_15": "clarity_nt_char_15"
+    },
+    "41": {
+        "「おもさ」が上がると|バトル中に敵に押されづらくなります！|足の速さや コマンド間隔は変わりません。": "Increasing your weight will make it|harder for enemies to push you around in|battle! Movement speed is not changed."
+    },
+    "42": {
+        "clarity_nt_char_16": "clarity_nt_char_16"
+    },
+    "43": {
+        "選んだ呪文や特技は 発動前なら|<cancel>で キャンセルできます。": "Use the <cancel> to cancel the chosen|spell or skill before it is cast."
+    },
+    "44": {
+        "clarity_nt_char_17": "clarity_nt_char_17"
+    },
+    "45": {
+        "両手杖やスティックで敵を攻撃すると|ダメージに応じて ＭＰを吸収します。": "When you attack an enemy with a wand or|a staff, it absorbs MP based on the|damage dealt."
+    },
+    "46": {
+        "clarity_nt_char_18": "clarity_nt_char_18"
+    },
+    "47": {
+        "フィールドに置いてある青い宝箱は|いつも同じ場所にあるとは限りません。": "The blue treasure chests on the field|are not always in the same place."
+    },
+    "48": {
+        "世界中を 隅々まで歩いてみましょう。|キラキラ光る場所や宝箱から|色々なアイテムを ゲットできますよ！": "Get various items from glittering places|and treasure chests from all over the|world!"
+    },
+    "49": {
+        "ゲーム中断時に どこにいても|酒場でのサポート仲間登録ができます！": "Register as a support companion in the|tavern wherever you are when the game is|interrupted!"
+    },
+    "50": {
+        "町にある「冒険者の酒場」では|ＡＩで一緒に戦う サポート仲間という|頼もしい仲間を紹介してくれます。": "At the Adventurer's Tavern in town,|you'll be introduced to AI support|friends who will fight alongside you."
+    },
+    "51": {
+        "clarity_nt_char_19": "clarity_nt_char_19"
+    },
+    "52": {
+        "サポート仲間は 「さくせん」コマンドの|「サポートなかま」からバトルに参加しない|待機中状態に変更できます。": "Support allies can be put in a standby|state by selecting \"Leave It To Me\" in|\"Support Party\" under the \"Misc.\" Command."
+    },
+    "53": {
+        "clarity_nt_char_20": "clarity_nt_char_20"
+    },
+    "54": {
+        "自分が誰かのサポート仲間となっても|持ち物を勝手に使われたり|装備品を盗られることは 絶対ありません！": "If you become someone's support buddy,|they won't use your belongings without|your permission or steal your equipment!"
+    },
+    "55": {
+        "自分の部屋のベッドで眠ると|ＨＰとＭＰが 完全に回復します。|疲れた時は 無理せず 休みましょう。": "If you sleep in the bed in your room,|your HP and MP will recover completely.|If you are tired, get some rest."
+    },
+    "56": {
+        "町の宿屋に泊まると ＨＰとＭＰが|完全に回復します。疲れた時は無理せずに！": "Staying at the inn in town will fully|restore your HP and MP. Take it easy|when you're tired!"
+    },
+    "57": {
+        "教会で お祈りすることで 冒険の書に|旅の記録（セーブ）ができます。|無理せず こまめに お祈りしましょう。": "Praying at the church will save your|journey in your adventure book. Pray|often and don't overdo it."
+    },
+    "58": {
+        "clarity_nt_char_21": "clarity_nt_char_21"
+    },
+    "59": {
+        "教会では 全滅時の復活場所の設定や|ルーラストーンの設定 呪いや毒の治療など|様々なことができます。": "In the church, set the resurrection|location, set the Zoomstone, cure|curses and poisons, and other things."
+    },
+    "60": {
+        "clarity_nt_char_22": "clarity_nt_char_22"
+    },
+    "61": {
+        "オンラインの世界では 冒険の書への|記録（セーブ）は 自動的に行われます。|教会での記録は 必要ありません。": "In the online world, saving to the|Adventure Book is automatic. No need to|go to church to record your adventures."
+    },
+    "62": {
+        "clarity_nt_char_23": "clarity_nt_char_23"
+    },
+    "63": {
+        "オンラインの世界では「さくせん」コマンド|「冒険を中断する」から中断ができます。|敵がいる場所では 少し時間がかかります。": "In the online world, stop the game with|the \"Log Out\" option under the \"Misc.\"|command. Takes longer if enemies nearby."
+    },
+    "64": {
+        "預かり所では アイテムやゴールドを|無料で預かってもらえます。": "You can store items and gold for free at|the depository."
+    },
+    "65": {
+        "人が多くて 話したい人と なかなか|話せない時は 「はなす」コマンドを使えば|リストから 話す相手を選べて便利です。": "If a lot of people are in the room and|you can't talk to the one you want , use|the \"Talk\" command to select from a list."
+    },
+    "66": {
+        "clarity_nt_char_24": "clarity_nt_char_24"
+    },
+    "67": {
+        "町の中では 本棚も忘れずにチェックを！|思いもよらない 大切な情報を|ゲットできることがあります。": "When in town, don't forget to check the|bookshelves! You may get important|information you never thought you'd find."
+    },
+    "68": {
+        "職人になって 生産した武器や防具や道具を|誰かに装備してもらうことで|職人としての評判がアップします。": "Become a craftsman and have someone equip|the weapons, armor, and tools you make,|to increase your craftsman reputation."
+    },
+    "69": {
+        "装備品の名前に付く「＋１」「＋２」は|その装備品に付いている錬金効果の数です。": "The \"+1\" and \"+2\" in the equipment name|are the number of alchemical effects|attached to that piece of equipment."
+    },
+    "70": {
+        "旅人バザーでは 売りたい物を出品したり|他の人が出品した物を買うことができます！": "In the Traveler's Bazaar, you can list|items you want to sell and buy items|that other people have listed!"
+    },
+    "71": {
+        "clarity_nt_char_25": "clarity_nt_char_25"
+    },
+    "72": {
+        "旅のコンシェルジュは 冒険者の強い味方。|宿屋にいる案内係に 話しかけてください。": "The travel concierge is an adventurer's|best friend. Talk to the concierge at|the inn."
+    },
+    "73": {
+        "チームに入ると 同じチームのメンバーと|専用のチャットルームを持てます。|オリジナルのエンブレムも作れますよ！": "Join a team, and have your own chat room|with other members of the same team.|You can even make your own emblems!"
+    },
+    "74": {
+        "郵便局では 手紙や荷物を送ったり|受け取ったりすることができます。|便せん屋さんも ありますよ。": "At the post office, you can send or|receive letters and packages. There is|also a stationery shop."
+    },
+    "75": {
+        "clarity_nt_char_26": "clarity_nt_char_26"
+    },
+    "76": {
+        "ストーリーを進めるヒントがほしいときは|名前がピンク色のキャラに話しましょう。": "If you want a hint on how to proceed|with the story, talk to the characters|with a pink name."
+    },
+    "77": {
+        "やることを忘れてしまったときは|「せんれき」の「これまでのおはなし」を。": "If you forget what to do, check out the|\"Story So Far\" section under \"Records\"|from the command menu."
+    },
+    "78": {
+        "clarity_nt_char_27": "clarity_nt_char_27"
+    },
+    "79": {
+        "新しい町に着いたら 全滅時の復活場所や|ルーラストーンを変更するか決めましょう。": "When you arrive at a new town, decide if|you want to change the resurrection|location or the Zoomstone."
+    },
+    "80": {
+        "clarity_nt_char_28": "clarity_nt_char_28"
+    },
+    "81": {
+        "一度クリアしたクエストも|クエストリストでリプレイ可能状態にすれば|１日１回だけ 受け直すことができます。": "Once you have completed a quest, you can|replay it once a day in the quest list."
+    },
+    "82": {
+        "クエストの進み具合を確認するときは|「せんれき」コマンド「クエストリスト」。|次に何をするのかも ばっちりわかります。": "To check the progress of your quest and|see what to do next, go to \"Quest List\"|under \"Records\" from the command menu."
+    },
+    "83": {
+        "名前の色が 紫色のキャラは|あなたに 何かを頼みたがっている人。|話しかけて 頼みを聞いてみましょう。": "A character with a purple name is someone|who wants to ask you for something. Talk|to them and listen to their request."
+    },
+    "84": {
+        "「武器鍛冶職人」になると|剣・オノ・ヤリ・ハンマーなどの|金属製の武器を作ることができます。": "If you become a Weaponsmith, you can|make metal weapons such as swords, axes,|spears, hammers, and so on."
+    },
+    "85": {
+        "clarity_nt_char_29": "clarity_nt_char_29"
+    },
+    "86": {
+        "「防具鍛冶職人」になると|盾・よろい・かぶと・グローブ・ブーツなど|金属製の防具を作ることができます。": "If you become an Armorsmith, you can|make metal armor such as shields, armor,|headgear, gloves, and boots."
+    },
+    "87": {
+        "「道具鍛冶職人」になると|さまざまな職人たちが使う職人道具や|家具や庭具など 作ることができます。": "If you become a Toolsmith, you can make|artisan tools, furniture, and garden|tools used by various craftsmen."
+    },
+    "88": {
+        "「木工職人」になると 弓や杖|スティックなどの 木製の武器や|家具や庭具など 作ることができます。": "If you become a Woodworker, you can make|wooden weapons such as bows, staves,|furniture, garden tools, and more."
+    },
+    "89": {
+        "「さいほう職人」になると|服・ぼうし・クツなどの布製の防具や|家具を作ることができます。": "If you become a Sewing Craftsman, you|can make cloth armor such as clothes,|gloves, shoes, and furniture."
+    },
+    "90": {
+        "clarity_nt_char_30": "clarity_nt_char_30"
+    },
+    "91": {
+        "「ランプ錬金職人」になると|魔法系の錬金効果を付けて|装備品を強化することができます。": "If you become a Lamp Alchemist, you can|add magical alchemical effects to|enhance your equipment."
+    },
+    "92": {
+        "「ツボ錬金職人」になると|物理系の錬金効果を付けて|装備品を強化することができます。": "If you become a Pot Alchemist, you can|add physical alchemical effects to|enhance your equipment."
+    },
+    "93": {
+        "clarity_nt_char_31": "clarity_nt_char_31"
+    },
+    "94": {
+        "名声値は 職人として作った物を|他の人に使ってもらうことで評判を上げたり|クエストをクリアすることで上がります。": "Fame is increased by having others use|your creations as a craftsman, and by|completing quests."
+    },
+    "95": {
+        "clarity_nt_char_32": "clarity_nt_char_32"
+    },
+    "96": {
+        "名声値が一定までたまって 宿屋に泊まると|名声レベルが レベルアップします！": "If you stay at an inn when your fame|value reaches a certain amount, your|fame level will increase!"
+    },
+    "97": {
+        "clarity_nt_char_33": "clarity_nt_char_33"
+    },
+    "98": {
+        "手に入れた武器や防具は|持ってるだけでは なんにもなりません。|「そうび」コマンドで身につけましょう。": "The weapons and armor you acquire are|not useful just by holding them. Use the|\"Equip\" command to put them on."
+    },
+    "99": {
+        "町の外で柵を見つけたら その向こうに|強敵がいるかもしれません。ご注意を！": "If you find a fence outside the town,|there might be a powerful enemy behind|it. Beware!"
+    },
+    "100": {
+        "<autorun>を押すと オートラン。|自動的に まっすぐ走り続けます。": "Press <autorun> to run automatically.|You'll continue to keep running|straight."
+    },
+    "101": {
+        "<jump>で その場でジャンプ！|気分が向いたら ジャンプジャンプ！": "Press the <jump> to jump on the spot!|Jump jump jump when you feel like it!"
+    },
+    "102": {
+        "仲間に話しかけて「ついていく」を選ぶと|その人に 自動で ついていきます。": "If you talk to a friend and select|\"Follow\", you will automatically follow|that person."
+    },
+    "103": {
+        "オートランや ついていくを上手に使えば|移動中にチャットができるようになるかも？": "If you use autorun and the \"Follow Me\"|function, you will be able to chat while|on the move."
+    },
+    "104": {
+        "clarity_nt_char_34": "clarity_nt_char_34"
+    },
+    "105": {
+        "「せんれき」の「討伐モンスターリスト」|<convenience>で モンスターの|色々な動きが見られます。": "See monster's movements by pressing the|<convenience> in the \"Defeated Monsters\"|section under the \"Records\" command."
+    },
+    "106": {
+        "clarity_nt_char_35": "clarity_nt_char_35"
+    },
+    "107": {
+        "強い敵と戦うよりも 楽に勝てる相手と|戦った方が レベルアップの近道かも？": "In battle, attack spells may go \"Haywire\"|and do critical damage. \"Haywire Rate\"|affects this chance."
+    },
+    "108": {
+        "防具を同じシリーズでそろえると|特別なセット効果が付きます。": "Equipping a set of armor from the same|series gives you a special set effect."
+    },
+    "109": {
+        "clarity_nt_char_36": "clarity_nt_char_36"
+    },
+    "110": {
+        "敵が強く感じたら ひとつ前の|エリアに戻って レベル上げしましょう。": "If you feel the enemies are too strong,|go back to the previous area to level up."
+    },
+    "111": {
+        "clarity_nt_char_37": "clarity_nt_char_37"
+    },
+    "112": {
+        "全滅し復活場所に戻る際 Lv20以上だと|ゴールドをすこし失います。お金がなければ|失わないので 預かり所を活用しましょう。": "After being wiped out, you will lose|some gold if you are over Lv20 but you|won't lose gold stored at the depository."
+    },
+    "113": {
+        "clarity_nt_char_38": "clarity_nt_char_38"
+    },
+    "114": {
+        "時々ドラキーがメッセージを運んできます。|返事が必要な時は <menu>のメニューから|「へんじをする」を選んでください。": "From time to time, Drakey will bring you|a message. When you need to reply, select|\"Reply\" from the <menu> menu."
+    },
+    "115": {
+        "同じ場所にいても サーバーがちがうと|会えません。「なかま」コマンドの|「サーバー移動」で 集まりましょう。": "Even if in the same place, you can't meet|if on different servers. Use the \"Move to|Server\" option in the \"Friends\" menu."
+    },
+    "116": {
+        "clarity_nt_char_39": "clarity_nt_char_39"
+    },
+    "117": {
+        "バトルのコマンドを選んでいる間も|次のコマンドまでの時間は進んでいるので|あわてなくても大丈夫です。": "While you are selecting a battle command,|the time until the next command is still|progressing, so no need to panic."
+    },
+    "118": {
+        "clarity_nt_char_40": "clarity_nt_char_40"
+    },
+    "119": {
+        "他の人がパーティ（仲間）を組んでいるかは|話しかけた時のピンの数でわかります。|青はプレイヤー。水色はサポート仲間です。": "Tell if someone is in your party by the|number of pins when talking to them. Blue|for player, light blue for support ally."
+    },
+    "120": {
+        "clarity_nt_char_41": "clarity_nt_char_41"
+    },
+    "121": {
+        "名前に緑色のアイコンがある人は|仲間を探している人です。|仲間がほしい時は声をかけてみましょう。": "People who have green icons in the name|are those looking for friends. If you are|looking for a friend, contact them."
+    },
+    "122": {
+        "clarity_nt_char_42": "clarity_nt_char_42"
+    },
+    "123": {
+        "一緒に冒険する仲間がほしい時は|「さくせん」コマンド「いろいろ設定」以下|いまどんな？設定を 「仲間募集中」に！": "When you want friends to go adventuring|with, select \"Seeking Party\" in \"Status|Icon\" under \"Communication\" settings."
+    },
+    "124": {
+        "clarity_nt_char_43": "clarity_nt_char_43"
+    },
+    "125": {
+        "他の人と仲間になると|誘われた方が連れていたサポート仲間は|自動的に待機中になります。": "When joining another person, support|companions brought by the person who|invited you are automatically on standby."
+    },
+    "126": {
+        "サポート仲間がいると「さくせん」コマンド|「サポートなかま」から作戦が選べます。": "If you have a support group, you can|choose a strategy in \"Support Party\"|under the \"Misc.\" command."
+    },
+    "127": {
+        "clarity_nt_char_44": "clarity_nt_char_44"
+    },
+    "128": {
+        "<map>で 地図が開きます。|地図メニューを開けば キャラの居場所や|施設の場所もわかって便利です！": "Press the <map> to open the map and|you can see where your character is and|where the facilities are!"
+    },
+    "129": {
+        "モンスターが落とした宝箱からは|仲間全員が同じ物を入手できます！|遠慮せずに いただいてください！": "When a monster drops a treasure chest,|all your friends will get the same|thing! Don't hesitate to take it!"
+    },
+    "130": {
+        "ゲームと連動したプレイヤー専用サイト|『目覚めし冒険者の広場』ご利用ください！| GO! ⇒ https://hiroba.dqx.jp": "Please use the \"Awakening Adventurer's|Square\", a player-only website linked to|the game! Go to https://hiroba.dqx.jp"
+    },
+    "131": {
+        "clarity_nt_char_45": "clarity_nt_char_45"
+    },
+    "132": {
+        "ちいさなメダルの所持数は|「つよさ」の「ぜんいん」に|カーソルを合わせると見られます。": "To see how many Mini Medals you have, go|to \"ぜんいん\" in \"Stats\" under the \"Misc.\"|command."
+    },
+    "133": {
+        "仲間がいるときには|仲間のルーラストーンも使えます！": "When you are with your friends, you can|use their Zoomstones as well."
+    },
+    "134": {
+        "clarity_nt_char_46": "clarity_nt_char_46"
+    },
+    "135": {
+        "バトル中に怒ったモンスターは|怒った相手を集中攻撃します。": "Monsters that become angry during battle|will focus their attacks on angry|opponents."
+    },
+    "136": {
+        "<camera_reset>で|画面の視点位置が すぐに|キャラの後ろに移動します。": "Pressing the <camera_reset> will move the|screen's viewpoint to behind the|character."
+    },
+    "137": {
+        "clarity_nt_char_47": "clarity_nt_char_47"
+    },
+    "138": {
+        "チャットでの言葉づかいには ご注意を。|乱暴な言葉で相手の人をキズつけたり|いやな気持ちに させてしまわないように。": "Be careful with your language in chat|rooms. Don't hurt people or make them|uncomfortable by using abusive language."
+    },
+    "139": {
+        "clarity_nt_char_48": "clarity_nt_char_48"
+    },
+    "140": {
+        "フレンドに誘ったり 取り引きを|もちかけるときは 先に相手に話しかけて|ＯＫをもらってからにしましょう。": "If you want to ask someone to be your|friend or make a deal with them, talk to|them first and get their okay."
+    },
+    "141": {
+        "clarity_nt_char_49": "clarity_nt_char_49"
+    },
+    "142": {
+        "「さくせん」コマンド「いろいろ設定」以下|ログイン状況表示設定で自分のログイン|の状態を教えるか 切り替えられます。": "To switch whether you want to show your|login status, go to \"Login Status\" under|\"Communication\" in the settings menu."
+    },
+    "143": {
+        "clarity_nt_char_50": "clarity_nt_char_50"
+    },
+    "144": {
+        "【便利な機能】": "[Useful Features]"
+    },
+    "145": {
+        "【冒険者の発展知識】": "[Progress Knowledge]"
+    },
+    "146": {
+        "clarity_nt_char_51": "clarity_nt_char_51"
+    },
+    "147": {
+        "【バトルの知識】": "[Battle Knowledge]"
+    },
+    "148": {
+        "clarity_nt_char_52": "clarity_nt_char_52"
+    },
+    "149": {
+        "【成長に関する知識】": "[Growth Knowledge]"
+    },
+    "150": {
+        "clarity_nt_char_53": "clarity_nt_char_53"
+    },
+    "151": {
+        "【パラメータの知識】": "[Attribute Knowledge]"
+    },
+    "152": {
+        "clarity_nt_char_54": "clarity_nt_char_54"
+    },
+    "153": {
+        "【施設の紹介】": "[About Facilities]"
+    },
+    "154": {
+        "【冒険者の基礎知識】": "[Basic Knowledge]"
+    },
+    "155": {
+        "clarity_nt_char_55": "clarity_nt_char_55"
+    },
+    "156": {
+        "【職人の紹介】": "[About Craftsmen]"
+    },
+    "157": {
+        "【ハウジングについて】": "[About Housing]"
+    },
+    "158": {
+        "【オンラインのマナー】": "[Online Etiquette]"
+    },
+    "159": {
+        "そうびコマンドの操作中|<jump>でキャラを拡大できます。": "Press the <jump> to zoom in on the|character while in photo mode."
+    },
+    "160": {
+        "clarity_nt_char_56": "clarity_nt_char_56"
+    },
+    "161": {
+        "アクセサリーは 他のプレイヤーに渡したり|旅人バザーへの出品はできません！|がんばって自力で手に入れましょう。": "Accessories cannot be given to other|players or sold in the Traveler's Bazaar!|Do your best to get them on your own."
+    },
+    "162": {
+        "ソフトウェアキーボードは|同じ方向を押し続けると 各行の先頭文字で|一瞬止まります。": "The software keyboard stops momentarily|at the first character of each line if|you keep pressing the same direction."
+    },
+    "163": {
+        "clarity_nt_char_57": "clarity_nt_char_57"
+    },
+    "164": {
+        "本名や住所 電話番号などの個人情報は|相手が知っている人でも ゲーム内では|絶対に教えないようにしましょう。": "Never give out personal information such|as your real name, address, phone number,|etc. in-game, even if you know them."
+    },
+    "165": {
+        "clarity_nt_char_58": "clarity_nt_char_58"
+    },
+    "166": {
+        "<shasinki>で写真が撮れます！|撮った写真は せんれきの思い出アルバムか|プレイヤー専用サイトで見られます。": "Take pictures with <shasinki>! |They can be viewed in the memory album or|on the player's dedicated website."
+    },
+    "167": {
+        "clarity_nt_char_59": "clarity_nt_char_59"
+    },
+    "168": {
+        "お金かせぎの近道は|手に入れたアイテムを どんどん売ること！|旅人バザーなら 店よりも高く売れるかも！": "The best way to make money is to sell the|items you get! In the Traveler's Bazaar,|they might sell for more than at a shop!"
+    },
+    "169": {
+        "戦う場所やモンスターは 誰かの占有物では|ありません。混んでいる時は ゆずり合って|楽しいアストルティア生活を。": "Places and monsters you fight are not the|property of anyone. When it's crowded,|share and enjoy your time in Astoltia."
+    },
+    "170": {
+        "clarity_nt_char_60": "clarity_nt_char_60"
+    },
+    "171": {
+        "アイテムやゴールドの取り引きは|なるべく信頼できる人としましょう。|知らない人との取り引きは慎重に！": "Try to trade items and gold with people|you trust. Be cautious when dealing with|strangers!"
+    },
+    "172": {
+        "clarity_nt_char_61": "clarity_nt_char_61"
+    },
+    "173": {
+        "時々落ちている青い宝箱は|誰かが開けると 一定時間|誰でも開けられるようになります！": "Blue treasure chests that sometimes fall|down can be opened by anyone for some|amount of time after someone opens it!"
+    },
+    "174": {
+        "clarity_nt_char_62": "clarity_nt_char_62"
+    },
+    "175": {
+        "自分の家を 人に見てほしいときは|ウェルカムハウスに設定しましょう！": "If you want people to see your house,|set it as a welcome house!"
+    },
+    "176": {
+        "clarity_nt_char_63": "clarity_nt_char_63"
+    },
+    "177": {
+        "元気タイム中でも ゲームを中断してる間は|元気タイムは 減りません。": "If you log out during Bonus Time, your|remaining time will not run out while|offline."
+    },
+    "178": {
+        "clarity_nt_char_64": "clarity_nt_char_64"
+    },
+    "179": {
+        "ギルド本部にいるマスターは 毎日|仕事をくれるので 通ってみましょう。": "The master at the guild headquarters will|give you a job every day, so go there."
+    },
+    "180": {
+        "「家具カタログ」や「庭具カタログ」で|気に入ったアイテムが 見つかったら|そのまま バザーの商品を探して 買えます！": "If you find an item you like in the|Furniture or Garden Catalog, you can go|straight to the Bazaar and buy it!"
+    },
+    "181": {
+        "clarity_nt_char_65": "clarity_nt_char_65"
+    },
+    "182": {
+        "自分よりも強いモンスターを倒すと|すこし多めに経験値をもらえます。": "When defeating a monster that is stronger|than you, you will receive a little more|experience."
+    },
+    "183": {
+        "名前が紫のキャラから クエストを|受けられます。クリアすると お礼のほか|経験値や名声値などが もらえます！": "Accept quests from characters with purple|names and If you complete it, you'll|receive a reward as well as EXP and fame!"
+    },
+    "184": {
+        "clarity_nt_char_66": "clarity_nt_char_66"
+    },
+    "185": {
+        "「元気玉」はバトルの経験値だけでなく|職人や釣りの経験値も２倍になります！": "The \"Bonus Orbs\" will double your battle|experience, as well as your craftsmanship|and fishing experience!"
+    },
+    "186": {
+        "職人仕事をしている人を「おうえん」すると|相手の職人経験値が少しアップします！": "If you \"encourage\" someone who is working|as a craftsman, their craftsmanship|experience will increase slightly!"
+    },
+    "187": {
+        "職人仕事中も <cancel>長押しで|「よく使うセリフ」が使用できます。": "You can also use \"Frequent Phrases\" by|long pressing <cancel> during|craftsmanship work."
+    },
+    "188": {
+        "住宅村で自分の土地を持つと|自宅専用のルーラストーンがもらえます！": "When you own land in a residential|village, you get a Zoomstone dedicated|to your home!"
+    },
+    "189": {
+        "「さくせん」コマンド「なかま」の|「なかまをさがす」から|同じ目的の仲間を探すことができます。": "You can search for friends with the same|goal by going to \"Party\" under the|\"Misc.\" command."
+    },
+    "190": {
+        "スキルポイントは Lv10から|獲得できるようになります！": "Skill points can be acquired starting|from Level 10!"
+    },
+    "191": {
+        "死んでいる人に「おいのりする」と|助けを待つ時間が 10分にもどります。": "If you \"Pray\" to a dead person, the wait|time for help goes back up to 10 minutes."
+    },
+    "192": {
+        "clarity_nt_char_67": "clarity_nt_char_67"
+    },
+    "193": {
+        "他の人の「れんきんがま」を|なでてあげると その「れんきんがま」の|テンションが あがることがあります。": "Stroke another person's \"Alchemy Pot\" and|the tension in that \"Alchemy Pot\" may|increase."
+    },
+    "194": {
+        "clarity_nt_char_68": "clarity_nt_char_68"
+    },
+    "195": {
+        "Wii U GamePadのタッチスクリーンに|タッチでソフトキーボードが使えます。|キーボードなしでも文字入力できます！": "You can use the soft keyboard by touching|the touch screen of the Wii U GamePad.|You can enter text without a keyboard!"
+    },
+    "196": {
+        "Wii U版では Ｌスティックボタンと|Ｒスティックボタンを同時押しで|ゲーム画面の表示変更ができます！": "In the Wii U version, you can change the|game screen display by pressing the L and|R stick buttons simultaneously!"
+    },
+    "197": {
+        "clarity_nt_char_69": "clarity_nt_char_69"
+    },
+    "198": {
+        "「さくせん」コマンド「いろいろ設定」の|「環境設定」のWii U GamePad設定から|ゲーム画面を GamePadに表示できます。": "Display the game screen on the GamePad|from the \"Wii U GamePad Settings\" under|\"Settings\" in the \"Misc.\" command."
+    },
+    "199": {
+        "モンスターに対して <convenience>を押すか|「しらべる」で魔物の強さや討伐数|みやぶったことがあるかが わかります。": "Press the <convenience> near a monster or use|the \"Examine\" command, to see how strong|it is and how many you defeated."
+    },
+    "200": {
+        "clarity_nt_char_70": "clarity_nt_char_70"
+    },
+    "201": {
+        "赤い『？』マークのアイコンがある人は|初心者の相談に乗る冒険マイスターです。|困ったときは気軽に相談してみましょう。": "Those with a red \"?\" icon are Adventure|Masters who offer advice to beginners.|Ask for help if you have any problems."
+    },
+    "202": {
+        "clarity_nt_char_71": "clarity_nt_char_71"
+    },
+    "203": {
+        "住宅村に自分の家を持つと ベッドで休んで|回復したり たくさんのアイテムを|収納できるようになります！": "When you have your own house in a|residential village, you get a bed to|rest in, and you can store lots of items!"
+    },
+    "204": {
+        "いまどんな？設定の「初心者です」を外すと|色々な施設の説明が すこし短くなります。": "Uncheck \"Beginner\" in \"Status Icon\" under|\"Communication\" settings and descriptions|of the facilities will be shorter."
+    },
+    "205": {
+        "錬金職人に 錬金の依頼ができます。|装備済みの物にも錬金効果が付けられるので|思い入れのある装備でも 強化できます！": "You can request alchemy from an alchemist|and you can also add alchemical effects|to already equipped items."
+    },
+    "206": {
+        "clarity_nt_char_72": "clarity_nt_char_72"
+    },
+    "207": {
+        "同じモンスターを 100匹倒すと|娯楽島ラッカランにいる 討伐隊長から|ちいさなメダルを もらえます！": "Defeat 100 of the same monster and you|will receive a Mini Medal from the|Strike Team Captain on Luckland Island."
+    },
+    "208": {
+        "ウェナ諸島のヴェリナード城下町にある|「アクセサリー合成屋」では|アクセサリーを合成して強化できます！": "Synthesize and enhance accessories at the|\"Accessory Synthesizer\" in Verinard|Castle Town on the Wena Islands!"
+    },
+    "209": {
+        "プクランド大陸のメギストリスの都にある|「レンタル衣装屋」では|いろいろな衣装を 貸してもらえます！": "In the capital of Megistris on Pukuland|Continent, is a \"costume rental shop\"|where you can rent all sorts of costumes!"
+    },
+    "210": {
+        "clarity_nt_char_73": "clarity_nt_char_73"
+    },
+    "211": {
+        "プクランド大陸のメギストリスの都にある|「カラーリング屋」では|装備品の色を 変えることができます！": "Change the color of your equipment at the|\"Dress-up Shop\" in the city of Megestris|on the Continent of Pukuland."
+    },
+    "212": {
+        "clarity_nt_char_74": "clarity_nt_char_74"
+    },
+    "213": {
+        "プクランド大陸のメギストリスの都にある|「ドレスアップ屋」では 装備品の見た目を|他の装備品に 変更できます！": "Change the look of your equipment at the|\"Dress-up Shop\" in the City of Megistris|on the Continent of Pukuland."
+    },
+    "214": {
+        "大きな町にある「美容院」では 髪や顔など|美容の相談を 受け付けています。|気分転換にいかがですか？": "There's a \"Salon\" in a big town that|offers advice on hair, face, and other|beauty stuff. How about a change of look?"
+    },
+    "215": {
+        "clarity_nt_char_75": "clarity_nt_char_75"
+    },
+    "216": {
+        "日替わり討伐クエストを何度もクリアすると|ふくびき券などの ボーナスがもらえます！": "Complete the daily strike team quests|multiple times and you'll receive bonuses|such as Lottery Tickets."
+    },
+    "217": {
+        "まだまだゲームに慣れてないうちは|「さくせん」コマンド「いろいろ設定」以下|いまどんな？設定を「初心者です」に！": "If you are still new to the game, you can|select \"Beginner\" under \"Status Icon\" in|the \"Communication\" settings!"
+    },
+    "218": {
+        "clarity_nt_char_76": "clarity_nt_char_76"
+    },
+    "219": {
+        "キーボードがないことを伝えたい時は|「さくせん」コマンド「いろいろ設定」以下|いまどんな？設定を「キーボードなし」に！": "If you don't have a keyboard, you can|select \"No Keyboard\" under \"Status Icon\"|in the \"Communication\" settings!"
+    },
+    "220": {
+        "しばらく席を外す時は|「さくせん」コマンド「いろいろ設定」以下|いまどんな？設定を「離席中」に！": "When you leave your seat for awhile, you|can select \"Away\" under \"Status Icon\"|in the \"Communication\" settings!"
+    },
+    "221": {
+        "clarity_nt_char_77": "clarity_nt_char_77"
+    },
+    "222": {
+        "人からのネタばれを 聞きたくない時は|「さくせん」コマンド「いろいろ設定」以下|いまどんな？設定を「チャット非表示」に！": "If you don't want to hear people talking,|select \"Hide Chat\" under \"Status Icon\"|in the \"Communication\" settings!"
+    },
+    "223": {
+        "clarity_nt_char_78": "clarity_nt_char_78"
+    },
+    "224": {
+        "ゆっくり ひとりで遊びたい時には|「さくせん」コマンド「いろいろ設定」以下|いまどんな？設定を「ひとりプレイ中」に！": "When you want to play alone, select|\"Playing Alone\" under \"Status Icon\" in|the \"Communication\" settings!"
+    },
+    "225": {
+        "clarity_nt_char_79": "clarity_nt_char_79"
+    },
+    "226": {
+        "チームに入りたい時は|「さくせん」コマンド「いろいろ設定」以下|いまどんな？設定を「チーム入隊希望」に！": "If you want to join a team, select|\"Seeking Team\" under \"Status Icon\" in|the \"Communication\" settings!"
+    },
+    "227": {
+        "clarity_nt_char_80": "clarity_nt_char_80"
+    },
+    "228": {
+        "フレンドがほしい時は「さくせん」コマンド|「いろいろ設定」以下 いまどんな？設定を|「フレンド募集中」に！": "When you want to make friends, select|\"Friend Wanted\" under \"Status Icon\" in|the \"Communication\" settings!"
+    },
+    "229": {
+        "誰かを「いいね！」と思った時は|話しかけて「いいね！」を選んで|気持ちを伝えましょう！": "When you \"like\" someone, talk to them and|tell them you like them and let them know|how you feel!"
+    },
+    "230": {
+        "チャットの送信相手を変更するには|「送信先の切替」をタッチして|専用のウィンドウで操作します。": "Change who you send the chat to by|touching the \"Switch destination\" button|and operate in the dedicated window."
+    },
+    "231": {
+        "カジノでは たのしいゲームが|あなたを待っています。|くれぐれも お金の使いすぎには注意！": "There are many fun games waiting for you|at the casino. Be careful not to spend|too much money!"
+    },
+    "232": {
+        "今 受けられるクエストを|知りたい時は 旅のコンシェルジュの|「クエスト案内を見る」をご利用ください！": "To know what quests are available right|now, use the \"Quest Suggestion\" at the|Travel Concierge!"
+    },
+    "233": {
+        "Lv40になると 黒い宝箱を開けるための|とうぞくのカギを 入手できます！|メギストリス城でクエストを受けましょう！": "At Level 40, you can receive the key|to open black treasure chests. Get it|from a quest in Megistris Castle!"
+    },
+    "234": {
+        "clarity_nt_char_81": "clarity_nt_char_81"
+    },
+    "235": {
+        "一人前の証があれば 不思議な乗り物|「ドルボード」に乗れるようになります！|岳都ガタラで クエストを受けましょう！": "With proof of your worth, you can ride|the mysterious \"Dolboard\"! Accept the|quest in the mountain city of Gatara!"
+    },
+    "236": {
+        "Lv20になると 魔法の迷宮に|行けるようになります！|港町レンドアで クエストを受けましょう！": "When you reach level 20, you can visit|the Magic Maze. Accept the quest in the|port town of Lendor!"
+    },
+    "237": {
+        "clarity_nt_char_82": "clarity_nt_char_82"
+    },
+    "238": {
+        "Lv20になると 酒場で|転職が できるようになります！|クエストを受けましょう！": "When you reach Lv20, you'll be able to|change jobs at the Tavern! Go there and|accept the quest!"
+    },
+    "239": {
+        "Lv15になると 娯楽島ラッカランで|ちいさなメダルを 交換してもらえます！|クエストを受けましょう！": "Once you reach Level 15, you'll be able|to trade in your Mini Medals at the|Entertainment Island of Luckland!"
+    },
+    "240": {
+        "Lv15になると 宿屋で 冒険者の味方|旅のコンシェルジュが使えます！|クエストを受けましょう！": "When you reach Lv. 15, you'll be able to|use the Travel Concierge at the Inn. Go|there and accept the quest!"
+    },
+    "241": {
+        "clarity_nt_char_83": "clarity_nt_char_83"
+    },
+    "242": {
+        "大陸間鉄道パスを持っていれば 酒場で|サポート仲間を借りられるようになります！|クエストを受けましょう！": "If you have a Rail Pass, you will be able|to borrow a support companion at the|tavern! Go there and accept the quest!"
+    },
+    "243": {
+        "clarity_nt_char_84": "clarity_nt_char_84"
+    },
+    "244": {
+        "Lv10になると 預かり所に アイテムや|ゴールドを預けられるようになります！|クエストを受けましょう！": "Once you reach Level 10, you can deposit|items and gold in the Depository! Go|there and accept the quest!"
+    },
+    "245": {
+        "clarity_nt_char_85": "clarity_nt_char_85"
+    },
+    "246": {
+        "この「遊び方のヒント」は|「さくせん」の「遊び方ガイド」で|まとめて読めます！": "To read all these tips in one place, go|to \"How to Play\" in \"Play Guide\" under|the \"Misc.\" commad."
+    },
+    "247": {
+        "【新機能紹介】": "[New Features]"
+    },
+    "248": {
+        "チャットの送信相手を変更するには|キーボードの[Ctrl]＋[↑][↓][←][→]か|[Tab]を押してください。": "To change the person you want to send the|chat to, press [Ctrl]＋[↑][↓][←][→]|or [Tab] on your keyboard."
+    },
+    "249": {
+        "clarity_nt_char_86": "clarity_nt_char_86"
+    },
+    "250": {
+        "預かり所の「倉庫」に名前が付けられます。|たくさんの倉庫を管理するのに便利ですよ！": "You can name the \"Warehouses\" in the|depositories. Handy for keeping track of|all those warehouses!"
+    },
+    "251": {
+        "ルーラストーンの「自分の家の石」の|使用制限を 自宅の権限設定から行えます！": "You can restrict the use of Zoomstones|in your home from your home's|\"Permissions\" settings!"
+    },
+    "252": {
+        "clarity_nt_char_87": "clarity_nt_char_87"
+    },
+    "253": {
+        "「さくせん」コマンド「いろいろ設定」の|「環境設定」から|操作タイプの変更ができます！": "You can change the operation type in|\"Settings\" under the \"Misc.\" command."
+    },
+    "254": {
+        "チームの集会所をリーダーかサブリーダーの|家に設定できます。専用のルーラストーンや|「集会所に移動」コマンドで移動できます！": "Set team meeting place to leader or sub-|leader's house. Use a special Zoomstone|or \"Go to Meeting Place\" command to go!"
+    },
+    "255": {
+        "clarity_nt_char_88": "clarity_nt_char_88"
+    },
+    "256": {
+        "職人仕事中も <cancel>長押しや<emote>で|「よく使うセリフ」が使用できます。": "You can also use \"Frequent Phrases\" by|long pressing <cancel> or <emote>|during craftsmanship work."
+    },
+    "257": {
+        "まちかど掲示板の ワールドランキングでは|強モードボスの討伐タイムのランキングなど|ランキングに関する情報が確認できます！": "World rankings section of town bulletin|board, has rankings of the time to defeat|the strong mode bosses and other info!"
+    },
+    "258": {
+        "まちかど掲示板の 「チームをさがす」では|チームを探したり 入隊希望を出したり|チームに関するやりとりが おこなえます！": "In \"Find Team\" section of the bulletin|board, search for teams, apply to join|one, and chat with others about teams!"
+    },
+    "259": {
+        "clarity_nt_char_89": "clarity_nt_char_89"
+    },
+    "260": {
+        "「さくせん」コマンドの|「なかまモンスター」から 装備の変更や|スキルを 覚えさせることができます。": "You can change equipment and learn skills|from \"Friend Monsters\" under the \"Misc.\"|command."
+    },
+    "261": {
+        "clarity_nt_char_90": "clarity_nt_char_90"
+    },
+    "262": {
+        "仲間モンスターは 戦闘に参加しなくても|つれているだけで 少しずつ成長します。|レベルアップしたらスキルを覚えさせよう！": "Even if your fellow monsters don't|participate in battle, they will level up|and learn skills just by being with you."
+    },
+    "263": {
+        "clarity_nt_char_91": "clarity_nt_char_91"
+    },
+    "264": {
+        "なつき度が100の「なかまモンスター」は|自分の職業に制限なく|一緒に 冒険に行くことができます。": "A \"friend monster\" with a familiarity|level of 100 can go on adventures with|you without any restrictions on vocation."
+    },
+    "265": {
+        "ハウジングで飼われているモンスターは|たまにどこかで見つけた物を持ち帰ります。|誰かになでてもらったお礼の気持ちかも！？": "Monsters kept in housing sometimes bring|back things they found somewhere. Maybe|it's a thanks for having someone pet it!"
+    },
+    "266": {
+        "clarity_nt_char_92": "clarity_nt_char_92"
+    },
+    "267": {
+        "自宅の扉の「管理人を呼ぶ」から|自分だけのコンシェルジュを 雇えます。|「おかえりなさい！」": "You can hire your own Private Concierge|by clicking on \"Call the manager\" on the|door of your home."
+    },
+    "268": {
+        "clarity_nt_char_93": "clarity_nt_char_93"
+    },
+    "269": {
+        "地図に魚マークが|表示されている場所では 釣りができます！|釣りざおとルアーを装備して 水辺へGO！": "You can fish where a fish symbol is noted|on the map! Equip yourself with a fishing|rod and lure, and head to the water!"
+    },
+    "270": {
+        "clarity_nt_char_94": "clarity_nt_char_94"
+    },
+    "271": {
+        "「調理職人」になると|さまざまな効果のある料理を|作ることができます。": "If you become a Chef, you can create|dishes with various effects."
+    },
+    "272": {
+        "職人のレベルは 職人別に持っています。|移籍しても 元の職人ギルドに戻れば|レベルも 元に戻ります。": "Each artisan has their own LVL. If you|transfer, you can return to your original|craftsman guild with your LVL restored."
+    },
+    "273": {
+        "clarity_nt_char_95": "clarity_nt_char_95"
+    },
+    "274": {
+        "「ギルド移籍許可証」があれば|ギルドの移籍が 行えます！": "If you have a \"Guild Transfer Permit\",|you can transfer guilds!"
+    },
+    "275": {
+        "clarity_nt_char_96": "clarity_nt_char_96"
+    },
+    "276": {
+        "アイテムの破片を|「アイテム復元屋」に持っていくと|アイテムを元の形に修復してくれます。": "Take the fragments of an item to the|\"Item Restorer\" and he will restore the|item to its original form."
+    },
+    "277": {
+        "clarity_nt_char_97": "clarity_nt_char_97"
+    },
+    "278": {
+        "「モンスター酒場」はモンスターの憩いの場|冒険に連れて行けないモンスターは|モンスター酒場で大切に預かってくれます。": "Monster Tavern is a place for them to|relax, and if your monster can't go with|you, the Monster Tavern takes care of it."
+    },
+    "279": {
+        "clarity_nt_char_98": "clarity_nt_char_98"
+    },
+    "280": {
+        "「さくせん」コマンド「いろいろ設定」以下|かきおきメモから メモが残せます。|みんなに 伝えたい気持ち 届けます。": "To leave a memo, go to \"Memo Pad\" under|\"Communication\" in the \"Settings\" menu."
+    },
+    "281": {
+        "「バージョン3.1」から |「預かり所」から「屋根ウラ収納」を|利用できるようになりました！": "Starting with version 3.1, you can now|use the \"Roof Storage\" function from the|\"Storage Area\"!"
+    },
+    "282": {
+        "clarity_nt_char_99": "clarity_nt_char_99"
+    },
+    "283": {
+        "プライベートコンシェルジュの 名前や|伝言や 立ちかたを 変えたいときは|「ふるまい方を教える」から！": "To change your Private Concierge's name,|message, or how they stand, go to|\"Teach them how to behave\"!"
+    },
+    "284": {
+        "Ｌボタン＋Ｒボタン同時押しで|画面の視点位置が すぐに|キャラの後ろに移動します。": "Pressing the L and R buttons at the same|time will immediately move the screen's|viewpoint behind the character."
+    },
+    "285": {
+        "チャットをしたい場合は|タッチスクリーンから 操作できます。": "If you want to chat, you can do so from|the touchscreen."
+    },
+    "286": {
+        "clarity_nt_char_100": "clarity_nt_char_100"
+    },
+    "287": {
+        "気になるファッションの人を見つけたら|その人を調べて ドレスアップの情報を|見ることができます。": "If you see someone whose fashion you|like, you can look them up and see their|dress up information."
+    },
+    "288": {
+        "clarity_nt_char_101": "clarity_nt_char_101"
+    },
+    "289": {
+        "「バージョン3.1」から |「ジュレットの町」でも泳げます！|水着に着替えて GO!": "Starting with Version 3.1, you can also|swim in the town of Jourette! Get into|your swimsuit and GO!"
+    },
+    "290": {
+        "clarity_nt_char_102": "clarity_nt_char_102"
+    },
+    "291": {
+        "Lv89までのプレイヤーや サポート仲間が|エンゼルスライム帽を そうびしていれば|取得できる経験値が 多くなります！": "Players up to level 89 and their support|buddies will gain more experience if they|wear the Angel Slime Hat!"
+    },
+    "292": {
+        "【王家の迷宮について】": "[About The Royal Maze]"
+    },
+    "293": {
+        "「さくせん」コマンドの「アンルシア」から|アンルシアの作戦を変えたり|スキルを振ることができます。": "You can change her strategy and assign|her skills by selecting \"Anlucia\" under|the \"Misc.\" command."
+    },
+    "294": {
+        "「うつしよのカギ」を 使っている間は|勇気の輝きの減少が ストップします。": "Your Spark of Courage will stop|decreasing while you are using the|World Key."
+    },
+    "295": {
+        "勇気の輝きの 残り数が少なくなると|たまに 勇気の輝きが回復する|金色のキラキラが 地面に現れます。": "Sometimes, when your Spark of Courage is|low, a golden glitter will appear on the|ground and restore your Spark of Courage."
+    },
+    "296": {
+        "clarity_nt_char_103": "clarity_nt_char_103"
+    },
+    "297": {
+        "光を纏っている モンスターは|同種のふつうのモンスターより 手強く|光の霊玉も 多めに 入手できます。": "Monsters that glow with light are tougher|than normal monsters of the same kind,|and you can get more Light Spirit Balls."
+    },
+    "298": {
+        "「バージョン3.0後期」から しぐさに|「表情」を設定できるようになりました！": "Starting from the second half of |\"Version 3.0\", you can set|\"Facial Expressions\" for gestures!"
+    },
+    "299": {
+        "「バージョン3.0後期」から|妖精の姿見がパワーアップ！|ポーズなどの切り替えができます。": "Starting from the second half of \"Version|3.0\", the Fairy Mirror is powered up and|you can switch poses and other settings."
+    },
+    "300": {
+        "【魔法の迷宮について】": "[About The Magic Maze]"
+    },
+    "301": {
+        "王家の迷宮で全滅しても|お金は減りません。": "If you get wiped out in the Royal Maze,|you won't lose money."
+    },
+    "302": {
+        "魔法の迷宮では 「なかま」に空きがあれば|「なかま」を自動でマッチングします。|あいさつを心がけて 楽しいひとときを！": "In the Magic Maze, if there is a vacancy|in the \"Friend\" category, it will be|matched automatically. Be sure to say hi!"
+    },
+    "303": {
+        "魔法の迷宮で全滅しても|お金は減りません。": "If you get wiped out in the Magic Maze,|you won't lose money."
+    },
+    "304": {
+        "ときどき現れる「ふくまねき」を倒すと|その数だけ 紫色の宝箱に|「ふくびき券」が追加されます！": "Defeating the occasional \"Fortune Weaver\"|will add a number of Lottery Tickets to|your purple treasure chest!"
+    },
+    "305": {
+        "誰かが扉をしらべた状態で 5分が経過すると|その時点で扉をしらべていない「なかま」は|魔法の迷宮から追い出されます。ご注意を。": "5 minutes after someone else found the|door, the \"friends\" who have not found it|will be kicked out of the Magic Maze."
+    },
+    "306": {
+        "「どうぐ」コマンドの「れんきんがま」から|道具などを錬金できます。なければ|郵便局に届いていないか 見てみましょう！": "Smelt tools and other items from the|\"Bricks\" in the \"Tools\" command. If it's|not there, check the post office!"
+    },
+    "307": {
+        "clarity_nt_char_104": "clarity_nt_char_104"
+    },
+    "308": {
+        "「さくせん」コマンドの|「達人のオーブ」から 開花された能力に|達人ポイントを振り分けることができます。": "Allocate Master Skill Points to abilities|that have blossomed from the \"Master Orb\"|under the \"Misc.\" command."
+    },
+    "309": {
+        "clarity_nt_char_105": "clarity_nt_char_105"
+    },
+    "310": {
+        "「宝珠」は　|達人に鑑定してもらうことで|能力が　開花されます。": "If you have a Master appraise your|\"Jewel,\" its abilities will blossom."
+    },
+    "311": {
+        "clarity_nt_char_106": "clarity_nt_char_106"
+    },
+    "312": {
+        "達人のオーブには　各属性　最大１２種まで|能力をセットすることができます。|セットした情報は　職業別に保存されます。": "Set up to 12 different abilities for each|attribute in the Master Orb. This will be|saved for each vocation."
+    },
+    "313": {
+        "clarity_nt_char_107": "clarity_nt_char_107"
+    },
+    "314": {
+        "【運営からのお知らせ】": "[Notice from Mgmt.]"
+    },
+    "315": {
+        "ドルボードで「あいのり」したいときは|「あいのり」可能なドルボードに乗っている|仲間に話しかけて「あいのりする」から。": "To \"Carpool\" on a dolboard, talk to a|friend on a dolboard who can \"Carpool\"|and then \"Carpool\" them."
+    },
+    "316": {
+        "「あいのり」で乗せてもらっている人は|キラキラや宝箱を拾ったり|カメラを操作したり することができます。": "The person being picked up by \"Carpool\"|can pick up glitter, treasure chests, and|control the camera."
+    },
+    "317": {
+        "clarity_nt_char_108": "clarity_nt_char_108"
+    },
+    "318": {
+        "「さくせん」「困ったときは？」の中にある|スクウェア・エニックスからのお知らせで|最新情報をチェック！": "Check out the latest news from Square|Enix in \"Help\" under the \"Misc.\" command.|There are no plans for worldwide release!"
+    },
+    "319": {
+        "冒険の進度がわかる「冒険スタンプ」が|『目覚めし冒険者の広場』で確認できます。|GO! ⇒ https://hiroba.dqx.jp/": "The \"Adventure Stamp\" shows your progress|in the \"Awakened Adventurer's Square\".|Check it out at https://hiroba.dqx.jp/"
+    },
+    "320": {
+        "clarity_nt_char_109": "clarity_nt_char_109"
+    },
+    "321": {
+        "スマートフォン・ニンテンドー3DSで使える|『冒険者のおでかけ超便利ツール』配信中！|GO! ⇒ http://sqex.to/ptI": "The fill lines on laundry detergent cups|are higher than they need to be, so|you're forced to buy more detergent."
+    },
+    "322": {
+        "不正アクセス防止に役立つ|ワンタイムパスワード導入をお奨めします。|GO! ⇒ http://sqex.to/Azs": "We recommend the use of one-time|passwords to help prevent unauthorized|access. Go to http://sqex.to/Azs"
+    },
+    "323": {
+        "clarity_nt_char_110": "clarity_nt_char_110"
+    },
+    "324": {
+        "仲間モンスターが 絆のエンブレムを|装備すると 戦闘中たまに きずなの効果で|あなたのテンションが １段階上がります。": "When a fellow monster is equipped with|the Bonding Emblem, your tension will|occasionally raise one level in battle."
+    },
+    "325": {
+        "なつき度が 高いほど 絆のエンブレムの|きずな効果が かかりやすくなりますが|仲間モンスターの死亡中は かかりません。": "The higher your familiarity level, the|more likely you are to be affected by the|bond effect of the Bonding Emblem."
+    },
+    "326": {
+        "ついてクンの名前や音は「さくせん」内の|「いろいろ設定」以下ついてクン設定の|ついてクン機能設定で設定できます。": "To set the name and sound of your pet,|Go to \"Pets\" in \"Settings\" under the|\"Misc.\" command."
+    },
+    "327": {
+        "clarity_nt_char_111": "clarity_nt_char_111"
+    },
+    "328": {
+        "職業クエストを １話クリアするごとに|その職業の全てのスキルラインに |スキルポイントが２０加算されます。": "Every time you complete an episode of a|vocation quest, you gain 20 skill points|for all skill lines in that vocation."
+    },
+    "329": {
+        "「さくせん」コマンド「遊び方ガイド」から|イベントや各種コンテンツの情報を　|確認することができます。": "You can find information about events and|other content in \"Play Guide\" under the|\"Misc.\" command."
+    }
+}

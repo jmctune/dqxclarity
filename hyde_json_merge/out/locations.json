@@ -1,0 +1,4574 @@
+{
+  "1": {
+    "アルファ用井戸(ダンダダ団のアジト)": "Well for Alpha (Dandada's Hideout)"
+  },
+  "2": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "3": {
+    "市松256": "Check 256"
+  },
+  "4": {
+    "市松６４": "Check 6 4"
+  },
+  "5": {
+    "clarity_nt_char_5": "clarity_nt_char_5"
+  },
+  "6": {
+    "アルファ用オルフェア": "Orphea for Alpha"
+  },
+  "7": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "8": {
+    "スタートアップ": "Startup"
+  },
+  "9": {
+    "アルファ用銀の丘": "Silver Hill for Alpha"
+  },
+  "10": {
+    "clarity_nt_char_10": "clarity_nt_char_10"
+  },
+  "11": {
+    "アルファ用レムリンの宿屋": "Remlin Inn for Alpha"
+  },
+  "12": {
+    "clarity_nt_char_12": "clarity_nt_char_12"
+  },
+  "13": {
+    "アルファ用ミュルエルの森": "Muruel Forest for Alpha"
+  },
+  "14": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "15": {
+    "アルファ用アルウェ王妃の別荘跡(子供たちの隠れ家内部Test)": "Queen Alwa's Villa Ruins for Alpha (Test Inside Children's Hideout)"
+  },
+  "16": {
+    "アルファ用フィールド２": "Alpha Field 2"
+  },
+  "17": {
+    "アルファ用追憶の世界 別荘跡編": "World of Recollection for Alpha Villa Ruins"
+  },
+  "18": {
+    "天ツ風の間": "Heaven Wind H."
+  },
+  "19": {
+    "風の町アズラン": "Wind Town Azlan"
+  },
+  "20": {
+    "アズラン駅": "Azlan Stop"
+  },
+  "21": {
+    "暗黒大樹のふもと": "Foot of the Dark Tree"
+  },
+  "22": {
+    "clarity_nt_char_22": "clarity_nt_char_22"
+  },
+  "23": {
+    "カミハルムイ城": "Kamiharmui Castle"
+  },
+  "24": {
+    "王都カミハルムイ南": "Royal City Kamiharmui S."
+  },
+  "25": {
+    "ヴェリナード城下町": "Verinard Castle Town"
+  },
+  "26": {
+    "ヴェリナード城": "Verinard Castle"
+  },
+  "27": {
+    "巨猫の巣": "Big Cat Nest"
+  },
+  "28": {
+    "clarity_nt_char_28": "clarity_nt_char_28"
+  },
+  "29": {
+    "ジュレットの町": "Julet Town"
+  },
+  "30": {
+    "ジュレット駅": "Julet Stop"
+  },
+  "31": {
+    "clarity_nt_char_31": "clarity_nt_char_31"
+  },
+  "32": {
+    "レーンの村": "Lane Village"
+  },
+  "33": {
+    "ガートラント城下町": "Gartlant Castle Town"
+  },
+  "34": {
+    "ガートラント城": "Gartlant Castle"
+  },
+  "35": {
+    "雲上湖": "Sky Lake"
+  },
+  "36": {
+    "グレン城下町": "Glen Castle Town"
+  },
+  "37": {
+    "clarity_nt_char_37": "clarity_nt_char_37"
+  },
+  "38": {
+    "グレン城下町駅": "Glen Castle Town Stop"
+  },
+  "39": {
+    "グレン城": "Glen Castle"
+  },
+  "40": {
+    "clarity_nt_char_40": "clarity_nt_char_40"
+  },
+  "41": {
+    "妖剣士の塚": "Youkai Mound"
+  },
+  "42": {
+    "ランガーオ村": "Langao Village"
+  },
+  "43": {
+    "clarity_nt_char_43": "clarity_nt_char_43"
+  },
+  "44": {
+    "ロンダ岬": "Rhonda Cape"
+  },
+  "45": {
+    "clarity_nt_char_45": "clarity_nt_char_45"
+  },
+  "46": {
+    "獅子門": "Lion Gate"
+  },
+  "47": {
+    "メギストリスの都": "City of Megistris"
+  },
+  "48": {
+    "clarity_nt_char_48": "clarity_nt_char_48"
+  },
+  "49": {
+    "メギストリス城": "Megistris Castle"
+  },
+  "50": {
+    "儀式の間": "Ritual Hall"
+  },
+  "51": {
+    "clarity_nt_char_51": "clarity_nt_char_51"
+  },
+  "52": {
+    "銀の丘": "Silver H."
+  },
+  "53": {
+    "オルフェアの町": "Orphea Village"
+  },
+  "54": {
+    "オルフェア駅": "Orphea Stop"
+  },
+  "55": {
+    "clarity_nt_char_55": "clarity_nt_char_55"
+  },
+  "56": {
+    "プクレットの村": "Pukulet Village"
+  },
+  "57": {
+    "アグラニの町": "Town of Agrani"
+  },
+  "58": {
+    "clarity_nt_char_58": "clarity_nt_char_58"
+  },
+  "59": {
+    "岳都ガタラ駅": "Gatara Stop"
+  },
+  "60": {
+    "clarity_nt_char_60": "clarity_nt_char_60"
+  },
+  "61": {
+    "岳都ガタラ": "Gatara Capital"
+  },
+  "62": {
+    "ドルワーム水晶宮": "Dolworm Crystal Palace"
+  },
+  "63": {
+    "clarity_nt_char_63": "clarity_nt_char_63"
+  },
+  "64": {
+    "ドルワーム水晶宮上層": "Dolworm Crystal Palace Upper"
+  },
+  "65": {
+    "clarity_nt_char_65": "clarity_nt_char_65"
+  },
+  "66": {
+    "ドルワーム王国": "Dolworm Kingdom"
+  },
+  "67": {
+    "ゲルト海峡": "Gert Strait"
+  },
+  "68": {
+    "ランドンフット": "Landonfoot"
+  },
+  "69": {
+    "トリットアーチズ": "Trit Arches"
+  },
+  "70": {
+    "clarity_nt_char_70": "clarity_nt_char_70"
+  },
+  "71": {
+    "オルセコ高地": "Orseco Highlands"
+  },
+  "72": {
+    "clarity_nt_char_72": "clarity_nt_char_72"
+  },
+  "73": {
+    "ガートラント領": "Gartlant Territory"
+  },
+  "74": {
+    "追憶の世界-アルウェ王妃の別荘跡": "World of Remembrance-The Ruins of Queen Alwa"
+  },
+  "75": {
+    "clarity_nt_char_75": "clarity_nt_char_75"
+  },
+  "76": {
+    "追憶の世界-キラキラ大風車塔": "World Of Remembrance-Windmill Tower"
+  },
+  "77": {
+    "clarity_nt_char_77": "clarity_nt_char_77"
+  },
+  "78": {
+    "追憶の世界-王妃の生家": "World Of Remembrance-Qun's Home"
+  },
+  "79": {
+    "追憶の世界-ヴェリナード": "World Of Remembrance-Verinard"
+  },
+  "80": {
+    "clarity_nt_char_80": "clarity_nt_char_80"
+  },
+  "81": {
+    "グレン領西": "Glen West"
+  },
+  "82": {
+    "グレン領東": "Glen East"
+  },
+  "83": {
+    "ギルザッド地方": "Gilzad Region"
+  },
+  "84": {
+    "ツール検証用（StagePlan,LayoutToolなど）": "Tool Check (StagePlan, LayoutTool, etc.)"
+  },
+  "85": {
+    "clarity_nt_char_85": "clarity_nt_char_85"
+  },
+  "86": {
+    "プログラマー検証ステージ1": "Programmer Verification Stage 1"
+  },
+  "87": {
+    "プログラマー検証ステージ2": "Programmer Verification Stage 2"
+  },
+  "88": {
+    "ランガーオ山地": "Langao Mountains"
+  },
+  "89": {
+    "ラギ雪原": "Ragi Snowfd."
+  },
+  "90": {
+    "clarity_nt_char_90": "clarity_nt_char_90"
+  },
+  "91": {
+    "世界樹の丘": "World Tree Hill"
+  },
+  "92": {
+    "ドルワーム王国駅": "Dolworm Kingdom Stop"
+  },
+  "93": {
+    "clarity_nt_char_93": "clarity_nt_char_93"
+  },
+  "94": {
+    "イナミノ街道": "Inamino Highway"
+  },
+  "95": {
+    "clarity_nt_char_95": "clarity_nt_char_95"
+  },
+  "96": {
+    "アズラン地方": "Azlan Region"
+  },
+  "97": {
+    "clarity_nt_char_97": "clarity_nt_char_97"
+  },
+  "98": {
+    "キリカ草原": "Kirika Steppe"
+  },
+  "99": {
+    "風泣き岬": "Cold Cape"
+  },
+  "100": {
+    "clarity_nt_char_100": "clarity_nt_char_100"
+  },
+  "101": {
+    "モリナラ大森林": "Molinara Forest"
+  },
+  "102": {
+    "スイゼン湿原": "Suizen Marsh"
+  },
+  "103": {
+    "clarity_nt_char_103": "clarity_nt_char_103"
+  },
+  "104": {
+    "王都カミハルムイ駅": "Kamiharmui Stop"
+  },
+  "105": {
+    "カミハルムイ領北": "Kamiharmui T. North"
+  },
+  "106": {
+    "clarity_nt_char_106": "clarity_nt_char_106"
+  },
+  "107": {
+    "カミハルムイ領南": "Kamiharmui T. South"
+  },
+  "108": {
+    "clarity_nt_char_108": "clarity_nt_char_108"
+  },
+  "109": {
+    "落陽の草原": "Sunset Meadow"
+  },
+  "110": {
+    "夢幻の森": "Dream Forest"
+  },
+  "111": {
+    "clarity_nt_char_111": "clarity_nt_char_111"
+  },
+  "112": {
+    "テテリ渓谷": "Teteri Valley"
+  },
+  "113": {
+    "エルトナの聖地": "Sanctuary of Eltona"
+  },
+  "114": {
+    "オルフェア地方西": "Orphea Region West"
+  },
+  "115": {
+    "clarity_nt_char_115": "clarity_nt_char_115"
+  },
+  "116": {
+    "オルフェア地方東": "Orphea Region East"
+  },
+  "117": {
+    "clarity_nt_char_117": "clarity_nt_char_117"
+  },
+  "118": {
+    "ポポリアきのこ山": "Popolia Mushroom Mtn."
+  },
+  "119": {
+    "clarity_nt_char_119": "clarity_nt_char_119"
+  },
+  "120": {
+    "カジノ": "Casino"
+  },
+  "121": {
+    "コロシアム": "Colosseum"
+  },
+  "122": {
+    "メギストリスの都駅": "City of Megistris Stop"
+  },
+  "123": {
+    "ジュレット街-酒場": "Julet Street-Tavern"
+  },
+  "124": {
+    "ジュレー島上層": "Jule Island Top Layer"
+  },
+  "125": {
+    "ヴェリナード城駅": "Verinard Castle Stop"
+  },
+  "126": {
+    "clarity_nt_char_126": "clarity_nt_char_126"
+  },
+  "127": {
+    "ヴェリナード領西": "Verinard West"
+  },
+  "128": {
+    "clarity_nt_char_128": "clarity_nt_char_128"
+  },
+  "129": {
+    "ヴェリナード領北": "Verinard North"
+  },
+  "130": {
+    "clarity_nt_char_130": "clarity_nt_char_130"
+  },
+  "131": {
+    "ヴェリナード領南": "Verinard South"
+  },
+  "132": {
+    "clarity_nt_char_132": "clarity_nt_char_132"
+  },
+  "133": {
+    "ヴァース大山林": "Verse Mtn. Forest"
+  },
+  "134": {
+    "ケラコーナ原生林": "Keracona Wild Forest"
+  },
+  "135": {
+    "clarity_nt_char_135": "clarity_nt_char_135"
+  },
+  "136": {
+    "ブーナー熱帯雨林": "Booner Rainforest"
+  },
+  "137": {
+    "clarity_nt_char_137": "clarity_nt_char_137"
+  },
+  "138": {
+    "ガートラント城駅": "Gartlant Castle Stop"
+  },
+  "139": {
+    "clarity_nt_char_139": "clarity_nt_char_139"
+  },
+  "140": {
+    "バドリー岩石地帯": "Budley Rock Zone"
+  },
+  "141": {
+    "clarity_nt_char_141": "clarity_nt_char_141"
+  },
+  "142": {
+    "闘技場・舞台": "Arena Stage"
+  },
+  "143": {
+    "clarity_nt_char_143": "clarity_nt_char_143"
+  },
+  "144": {
+    "秘密の部屋": "Room of Secrets"
+  },
+  "145": {
+    "サーカステント": "Circus Tent"
+  },
+  "146": {
+    "リンクル地方": "Wrinkle Region"
+  },
+  "147": {
+    "clarity_nt_char_147": "clarity_nt_char_147"
+  },
+  "148": {
+    "メギストリス領": "Megistris Territory"
+  },
+  "149": {
+    "風車の丘": "Windmill Way"
+  },
+  "150": {
+    "clarity_nt_char_150": "clarity_nt_char_150"
+  },
+  "151": {
+    "エピステーサ丘陵": "Epistesa Hills"
+  },
+  "152": {
+    "clarity_nt_char_152": "clarity_nt_char_152"
+  },
+  "153": {
+    "チョッピ荒野": "Choppi Wilderness"
+  },
+  "154": {
+    "clarity_nt_char_154": "clarity_nt_char_154"
+  },
+  "155": {
+    "プログラマー検証ステージ3": "Programmer Verification Stage 3"
+  },
+  "156": {
+    "プログラマー検証ステージ4": "Programmer Verification Stage 4"
+  },
+  "157": {
+    "プログラマー検証ステージ5": "Programmer Verification Stage 5"
+  },
+  "158": {
+    "プログラマー検証ステージ6": "Programmer Verification Stage 6"
+  },
+  "159": {
+    "ツスクル平野": "Tsusukul Plains"
+  },
+  "160": {
+    "clarity_nt_char_160": "clarity_nt_char_160"
+  },
+  "161": {
+    "ツスクルの村": "Tsusukul Village"
+  },
+  "162": {
+    "clarity_nt_char_162": "clarity_nt_char_162"
+  },
+  "163": {
+    "シエラ巡礼地": "Sierra Pilg. Site"
+  },
+  "164": {
+    "clarity_nt_char_164": "clarity_nt_char_164"
+  },
+  "165": {
+    "レーナム緑野": "Lenam Fields"
+  },
+  "166": {
+    "clarity_nt_char_166": "clarity_nt_char_166"
+  },
+  "167": {
+    "コルット地方": "Colt Region"
+  },
+  "168": {
+    "clarity_nt_char_168": "clarity_nt_char_168"
+  },
+  "169": {
+    "ジュレリア地下廃坑": "Juleria Underground Mine"
+  },
+  "170": {
+    "ジュレー島下層": "Jule Island Low Layer"
+  },
+  "171": {
+    "詩歌の間": "Poetry Room"
+  },
+  "172": {
+    "clarity_nt_char_172": "clarity_nt_char_172"
+  },
+  "173": {
+    "永遠の牢獄": "Eternal Prison"
+  },
+  "174": {
+    "戒めの地": "Promise Land"
+  },
+  "175": {
+    "clarity_nt_char_175": "clarity_nt_char_175"
+  },
+  "176": {
+    "ラニアッカ断層帯": "Raniakka Fault Zone"
+  },
+  "177": {
+    "clarity_nt_char_177": "clarity_nt_char_177"
+  },
+  "178": {
+    "ザグバン丘陵": "Zagban Hills"
+  },
+  "179": {
+    "clarity_nt_char_179": "clarity_nt_char_179"
+  },
+  "180": {
+    "モガリム街道": "Mogarim Highway"
+  },
+  "181": {
+    "clarity_nt_char_181": "clarity_nt_char_181"
+  },
+  "182": {
+    "ガタラ原野": "Gatara Fields"
+  },
+  "183": {
+    "亡都の地下堂": "Lost City Underg."
+  },
+  "184": {
+    "clarity_nt_char_184": "clarity_nt_char_184"
+  },
+  "185": {
+    "サーマリ高原": "Thermal Plateau"
+  },
+  "186": {
+    "clarity_nt_char_186": "clarity_nt_char_186"
+  },
+  "187": {
+    "カルデア山道": "Chaldea Mtn. Road"
+  },
+  "188": {
+    "clarity_nt_char_188": "clarity_nt_char_188"
+  },
+  "189": {
+    "エゼソル峡谷": "Ezesol Canyon"
+  },
+  "190": {
+    "clarity_nt_char_190": "clarity_nt_char_190"
+  },
+  "191": {
+    "ダラズ採掘場": "Daraz Quarry"
+  },
+  "192": {
+    "clarity_nt_char_192": "clarity_nt_char_192"
+  },
+  "193": {
+    "カルサドラ溶岩洞": "Calsadora Lava Tube"
+  },
+  "194": {
+    "clarity_nt_char_194": "clarity_nt_char_194"
+  },
+  "195": {
+    "ゴブル砂漠東": "Goble Desert East"
+  },
+  "196": {
+    "clarity_nt_char_196": "clarity_nt_char_196"
+  },
+  "197": {
+    "ゴブル砂漠西": "Goble Desert West"
+  },
+  "198": {
+    "clarity_nt_char_198": "clarity_nt_char_198"
+  },
+  "199": {
+    "デマトード高地": "Dematode Highlands"
+  },
+  "200": {
+    "ボロヌス溶岩流": "Boronus Lava Flow"
+  },
+  "201": {
+    "海底の牢獄": "Undersea Prison"
+  },
+  "202": {
+    "大蛇の巣": "Snake's Nest"
+  },
+  "203": {
+    "clarity_nt_char_203": "clarity_nt_char_203"
+  },
+  "204": {
+    "プクレット地方": "Pukulet Region"
+  },
+  "205": {
+    "ポーポラ地方": "Popola Region"
+  },
+  "206": {
+    "clarity_nt_char_206": "clarity_nt_char_206"
+  },
+  "207": {
+    "フォステイル広場": "Fostail Square"
+  },
+  "208": {
+    "clarity_nt_char_208": "clarity_nt_char_208"
+  },
+  "209": {
+    "キラキラ大風車塔": "Glitter Windmill Tower"
+  },
+  "210": {
+    "clarity_nt_char_210": "clarity_nt_char_210"
+  },
+  "211": {
+    "呪われた大地": "Cursed Land"
+  },
+  "212": {
+    "clarity_nt_char_212": "clarity_nt_char_212"
+  },
+  "213": {
+    "排他検証ステージ": "Exclusive Survey Stage"
+  },
+  "214": {
+    "clarity_nt_char_214": "clarity_nt_char_214"
+  },
+  "215": {
+    "アクロニア鉱山": "Acronia Mine"
+  },
+  "216": {
+    "詩歌の遺跡": "Poetry Ruins"
+  },
+  "217": {
+    "永遠の地下迷宮": "Eternal Maze"
+  },
+  "218": {
+    "知恵の眠る遺跡": "Sleeping Wisdom Ruins"
+  },
+  "219": {
+    "猫島": "Cat I."
+  },
+  "220": {
+    "clarity_nt_char_220": "clarity_nt_char_220"
+  },
+  "221": {
+    "地底湖の洞くつ": "Underground Lake Cave"
+  },
+  "222": {
+    "キラキラ大風車塔内部": "Inside Glitter Windmill"
+  },
+  "223": {
+    "clarity_nt_char_223": "clarity_nt_char_223"
+  },
+  "224": {
+    "ミュルエルの森": "Muruel Forest"
+  },
+  "225": {
+    "けがれの谷": "Injury Valley"
+  },
+  "226": {
+    "賢者の隠れ家": "Sage's Lair"
+  },
+  "227": {
+    "clarity_nt_char_227": "clarity_nt_char_227"
+  },
+  "228": {
+    "古代オルセコ闘技場": "Old Orseco Arena"
+  },
+  "229": {
+    "海賊のアジト跡・地下": "Pirate HQ Underground"
+  },
+  "230": {
+    "clarity_nt_char_230": "clarity_nt_char_230"
+  },
+  "231": {
+    "ランドン山脈": "Landon Mtns."
+  },
+  "232": {
+    "clarity_nt_char_232": "clarity_nt_char_232"
+  },
+  "233": {
+    "ベコン渓谷": "Becon Valley"
+  },
+  "234": {
+    "ロンダの氷穴": "Rhonda Ice Caves"
+  },
+  "235": {
+    "clarity_nt_char_235": "clarity_nt_char_235"
+  },
+  "236": {
+    "捨てられた城": "Abandoned Castle"
+  },
+  "237": {
+    "clarity_nt_char_237": "clarity_nt_char_237"
+  },
+  "238": {
+    "久遠の森": "Eternity F."
+  },
+  "239": {
+    "clarity_nt_char_239": "clarity_nt_char_239"
+  },
+  "240": {
+    "カルサドラ火山": "Calsadora Volcano"
+  },
+  "241": {
+    "ボロヌスの穴": "Boronus Hole"
+  },
+  "242": {
+    "clarity_nt_char_242": "clarity_nt_char_242"
+  },
+  "243": {
+    "ウルベア地下遺跡": "Urbea Underground Ruins"
+  },
+  "244": {
+    "clarity_nt_char_244": "clarity_nt_char_244"
+  },
+  "245": {
+    "カルデア洞穴": "Chaldea Cave"
+  },
+  "246": {
+    "clarity_nt_char_246": "clarity_nt_char_246"
+  },
+  "247": {
+    "慰霊の浜": "Memo Beach"
+  },
+  "248": {
+    "clarity_nt_char_248": "clarity_nt_char_248"
+  },
+  "249": {
+    "ランドン山脈山頂付近": "Landon Mtns. Summit"
+  },
+  "250": {
+    "clarity_nt_char_250": "clarity_nt_char_250"
+  },
+  "251": {
+    "神殿レイダメテス": "Reidametes Temple"
+  },
+  "252": {
+    "clarity_nt_char_252": "clarity_nt_char_252"
+  },
+  "253": {
+    "大祭壇の間": "Great Altars"
+  },
+  "254": {
+    "？？？？": "????"
+  },
+  "255": {
+    "clarity_nt_char_255": "clarity_nt_char_255"
+  },
+  "256": {
+    "東の荒野": "East Desert"
+  },
+  "257": {
+    "clarity_nt_char_257": "clarity_nt_char_257"
+  },
+  "258": {
+    "スイの塔": "Sui Tower"
+  },
+  "259": {
+    "clarity_nt_char_259": "clarity_nt_char_259"
+  },
+  "260": {
+    "ミューズ海岸": "Muse Coast"
+  },
+  "261": {
+    "clarity_nt_char_261": "clarity_nt_char_261"
+  },
+  "262": {
+    "キュララナ海岸": "Curalana Coast"
+  },
+  "263": {
+    "神々の間": "Hall of Gods"
+  },
+  "264": {
+    "clarity_nt_char_264": "clarity_nt_char_264"
+  },
+  "265": {
+    "清き水の洞くつ": "Clear Water Cave"
+  },
+  "266": {
+    "太古の泉": "Old Fountain"
+  },
+  "267": {
+    "clarity_nt_char_267": "clarity_nt_char_267"
+  },
+  "268": {
+    "エテーネの村": "Village of Ethene"
+  },
+  "269": {
+    "clarity_nt_char_269": "clarity_nt_char_269"
+  },
+  "270": {
+    "育みの大地": "Nurturing Land"
+  },
+  "271": {
+    "自動生成ダンジョン": "Auto-Generated Dungeons"
+  },
+  "272": {
+    "メダル王の城": "Medal King Castle"
+  },
+  "273": {
+    "clarity_nt_char_273": "clarity_nt_char_273"
+  },
+  "274": {
+    "港町レンドア北": "North Port Lendor"
+  },
+  "275": {
+    "港町レンドア駅": "Port Town Lendor Stop"
+  },
+  "276": {
+    "港町レンドア南": "South Port Lendor"
+  },
+  "277": {
+    "冥王の心臓": "Meiou's Heart"
+  },
+  "278": {
+    "冥王の玉座": "Meiou's Throne"
+  },
+  "279": {
+    "娯楽島ラッカラン": "Entmt. Island Luckland"
+  },
+  "280": {
+    "clarity_nt_char_280": "clarity_nt_char_280"
+  },
+  "281": {
+    "大地の箱舟": "Earth Ark"
+  },
+  "282": {
+    "未踏の地": "Unknown Land"
+  },
+  "283": {
+    "clarity_nt_char_283": "clarity_nt_char_283"
+  },
+  "284": {
+    "雪原の廃墟": "Snowfield Ruins"
+  },
+  "285": {
+    "村の武闘場": "Village Arena"
+  },
+  "286": {
+    "ナグアの洞くつ": "Caves of Nagua"
+  },
+  "287": {
+    "ガラガの穴": "Garaga Hole"
+  },
+  "288": {
+    "ダズの岩穴": "Caves of Daz"
+  },
+  "289": {
+    "野獣の巣": "Beast's Nest"
+  },
+  "290": {
+    "clarity_nt_char_290": "clarity_nt_char_290"
+  },
+  "291": {
+    "忘れられた書庫": "Forgotten Library"
+  },
+  "292": {
+    "漆黒の間": "Black Room"
+  },
+  "293": {
+    "clarity_nt_char_293": "clarity_nt_char_293"
+  },
+  "294": {
+    "竜のねぐら": "Dragon's Roost"
+  },
+  "295": {
+    "トガス岩道": "Togas Rock Road"
+  },
+  "296": {
+    "トガの広場": "Toga Square"
+  },
+  "297": {
+    "荒野の枯れ井戸": "Dry Well In Desert"
+  },
+  "298": {
+    "狩人のほら穴": "Hunter's Den"
+  },
+  "299": {
+    "clarity_nt_char_299": "clarity_nt_char_299"
+  },
+  "300": {
+    "バドリアル石室": "Budlial Stone Hut"
+  },
+  "301": {
+    "謎の地下迷宮": "Underground Maze"
+  },
+  "302": {
+    "clarity_nt_char_302": "clarity_nt_char_302"
+  },
+  "303": {
+    "神代の間": "God's Hall"
+  },
+  "304": {
+    "clarity_nt_char_304": "clarity_nt_char_304"
+  },
+  "305": {
+    "森の井戸の地下洞": "Cave Of Forest Well"
+  },
+  "306": {
+    "clarity_nt_char_306": "clarity_nt_char_306"
+  },
+  "307": {
+    "モリナラ地下洞": "Molinara Underground"
+  },
+  "308": {
+    "緑の聖域": "Green Sanc."
+  },
+  "309": {
+    "clarity_nt_char_309": "clarity_nt_char_309"
+  },
+  "310": {
+    "怪鳥の巣": "Bird's Nest"
+  },
+  "311": {
+    "clarity_nt_char_311": "clarity_nt_char_311"
+  },
+  "312": {
+    "森外れのほら穴": "Cave Outside Forest"
+  },
+  "313": {
+    "ナギリ洞": "Nagiri Cave"
+  },
+  "314": {
+    "clarity_nt_char_314": "clarity_nt_char_314"
+  },
+  "315": {
+    "カムイラの穴": "Kamira Hole"
+  },
+  "316": {
+    "clarity_nt_char_316": "clarity_nt_char_316"
+  },
+  "317": {
+    "イムイ地下空洞": "Imui Underground Cave"
+  },
+  "318": {
+    "ポポラパの洞くつ": "Cave of Popoplapa"
+  },
+  "319": {
+    "clarity_nt_char_319": "clarity_nt_char_319"
+  },
+  "320": {
+    "ププイアの穴": "Pupuia Hole"
+  },
+  "321": {
+    "clarity_nt_char_321": "clarity_nt_char_321"
+  },
+  "322": {
+    "ペシュヤ地下空洞": "Peshuya Underground Cave"
+  },
+  "323": {
+    "clarity_nt_char_323": "clarity_nt_char_323"
+  },
+  "324": {
+    "プーラのほら穴": "Pura's Cave"
+  },
+  "325": {
+    "オルッパ地下洞くつ": "Orphea Underground Caves"
+  },
+  "326": {
+    "フェルアバの洞くつ": "Cave of the Felaba"
+  },
+  "327": {
+    "ダンダダ団アジト": "Dan Dada's Hideout"
+  },
+  "328": {
+    "clarity_nt_char_328": "clarity_nt_char_328"
+  },
+  "329": {
+    "メギラザの洞くつ": "Cave of Megilaza"
+  },
+  "330": {
+    "clarity_nt_char_330": "clarity_nt_char_330"
+  },
+  "331": {
+    "プペラトンネル": "Pupella Tunnel"
+  },
+  "332": {
+    "プペラホール": "Pupella Hole"
+  },
+  "333": {
+    "clarity_nt_char_333": "clarity_nt_char_333"
+  },
+  "334": {
+    "ピテッザのほら穴": "Pitheza's Cave"
+  },
+  "335": {
+    "clarity_nt_char_335": "clarity_nt_char_335"
+  },
+  "336": {
+    "チューザー地下空洞": "Chooser Underground Cavity"
+  },
+  "337": {
+    "浜辺の洞くつ": "Beach Cave"
+  },
+  "338": {
+    "clarity_nt_char_338": "clarity_nt_char_338"
+  },
+  "339": {
+    "無の空洞": "Naught Cave"
+  },
+  "340": {
+    "clarity_nt_char_340": "clarity_nt_char_340"
+  },
+  "341": {
+    "忘却のほら穴": "Forgetten Cave"
+  },
+  "342": {
+    "clarity_nt_char_342": "clarity_nt_char_342"
+  },
+  "343": {
+    "海のとける洞くつ": "Melting Cave Of The Sea"
+  },
+  "344": {
+    "clarity_nt_char_344": "clarity_nt_char_344"
+  },
+  "345": {
+    "詩吟のほこら": "Poetry Shrine"
+  },
+  "346": {
+    "clarity_nt_char_346": "clarity_nt_char_346"
+  },
+  "347": {
+    "心ふるえる場所": "Heart Shaking Place"
+  },
+  "348": {
+    "海獣の巣": "S.Beast Nest"
+  },
+  "349": {
+    "clarity_nt_char_349": "clarity_nt_char_349"
+  },
+  "350": {
+    "水環の間": "W.Ring Room"
+  },
+  "351": {
+    "clarity_nt_char_351": "clarity_nt_char_351"
+  },
+  "352": {
+    "ヴァースのほら穴": "Verse Cave"
+  },
+  "353": {
+    "clarity_nt_char_353": "clarity_nt_char_353"
+  },
+  "354": {
+    "真実の間": "Truth Hall"
+  },
+  "355": {
+    "clarity_nt_char_355": "clarity_nt_char_355"
+  },
+  "356": {
+    "静寂のほこら": "Hollow of Silence"
+  },
+  "357": {
+    "clarity_nt_char_357": "clarity_nt_char_357"
+  },
+  "358": {
+    "ブーナー石洞": "Booner Rock Cave"
+  },
+  "359": {
+    "clarity_nt_char_359": "clarity_nt_char_359"
+  },
+  "360": {
+    "ザアグの洞門": "Cave of Zaag"
+  },
+  "361": {
+    "clarity_nt_char_361": "clarity_nt_char_361"
+  },
+  "362": {
+    "ラニ大洞穴": "Lani Caves"
+  },
+  "363": {
+    "ザグビナ遺構": "Zagbina Remains"
+  },
+  "364": {
+    "clarity_nt_char_364": "clarity_nt_char_364"
+  },
+  "365": {
+    "魔獣のナワ張り": "Hexenbiest Nest"
+  },
+  "366": {
+    "モガレの洞くつ": "Mogare Cave"
+  },
+  "367": {
+    "モガレ修道院": "Mogare Monastery"
+  },
+  "368": {
+    "clarity_nt_char_368": "clarity_nt_char_368"
+  },
+  "369": {
+    "亡都の霊堂": "L. City Charnel"
+  },
+  "370": {
+    "亡都の広間": "L. City Square"
+  },
+  "371": {
+    "悪鬼の棲みか": "Home Of Demon"
+  },
+  "372": {
+    "clarity_nt_char_372": "clarity_nt_char_372"
+  },
+  "373": {
+    "忘れられし王の間": "Forgotten King's Room"
+  },
+  "374": {
+    "clarity_nt_char_374": "clarity_nt_char_374"
+  },
+  "375": {
+    "最果ての地下遺跡": "Deep Underground Ruins"
+  },
+  "376": {
+    "clarity_nt_char_376": "clarity_nt_char_376"
+  },
+  "377": {
+    "砂岩の洞くつ": "Sandstone Cave"
+  },
+  "378": {
+    "clarity_nt_char_378": "clarity_nt_char_378"
+  },
+  "379": {
+    "砂だまりの間": "Inside Sand Pools"
+  },
+  "380": {
+    "clarity_nt_char_380": "clarity_nt_char_380"
+  },
+  "381": {
+    "流砂の隠れ家": "Quicksand Lair"
+  },
+  "382": {
+    "clarity_nt_char_382": "clarity_nt_char_382"
+  },
+  "383": {
+    "熱砂洞": "Sand Cave"
+  },
+  "384": {
+    "カルサドラの風穴": "Wind Hole of Calsadora"
+  },
+  "385": {
+    "clarity_nt_char_385": "clarity_nt_char_385"
+  },
+  "386": {
+    "カルサドラ大空洞": "Calsadora Great Cavity"
+  },
+  "387": {
+    "clarity_nt_char_387": "clarity_nt_char_387"
+  },
+  "388": {
+    "ポルネア山": "Polnea Mountain"
+  },
+  "389": {
+    "サザミレ草原": "Sazamire Praire"
+  },
+  "390": {
+    "clarity_nt_char_390": "clarity_nt_char_390"
+  },
+  "391": {
+    "ナルビアの町": "Nalbia Village"
+  },
+  "392": {
+    "clarity_nt_char_392": "clarity_nt_char_392"
+  },
+  "393": {
+    "谷間の広場": "Valley Plaza"
+  },
+  "394": {
+    "娯楽島ラッカラン駅": "Luckland Island Stop"
+  },
+  "395": {
+    "ラーディス王島": "King Ladis Island"
+  },
+  "396": {
+    "グルグ地下道": "Gulug Underpass"
+  },
+  "397": {
+    "clarity_nt_char_397": "clarity_nt_char_397"
+  },
+  "398": {
+    "グレゴールの洞くつ": "Gregor's Cave"
+  },
+  "399": {
+    "ザマ峠": "Zama Pass"
+  },
+  "400": {
+    "プログラマー検証ステージ8": "Programmer Verification Stage 8"
+  },
+  "401": {
+    "名もなき草原": "Nameless Field"
+  },
+  "402": {
+    "clarity_nt_char_402": "clarity_nt_char_402"
+  },
+  "403": {
+    "白のほこら": "White Shrine"
+  },
+  "404": {
+    "赤のほこらの洞くつ": "Red Cairn Cave"
+  },
+  "405": {
+    "緑のほこらの洞くつ": "Green Shrine Cave"
+  },
+  "406": {
+    "灰のほこら": "Ash Shrine"
+  },
+  "407": {
+    "青のほこらの洞くつ": "Blue Shrine Cave"
+  },
+  "408": {
+    "黒のほこら": "Dark Shrine"
+  },
+  "409": {
+    "モガレの広間": "Mogare Hall"
+  },
+  "410": {
+    "clarity_nt_char_410": "clarity_nt_char_410"
+  },
+  "411": {
+    "モリナラ広場": "Molinara Square"
+  },
+  "412": {
+    "clarity_nt_char_412": "clarity_nt_char_412"
+  },
+  "413": {
+    "モリナラ地下洞・深淵": "Molinara Underground Abyss"
+  },
+  "414": {
+    "clarity_nt_char_414": "clarity_nt_char_414"
+  },
+  "415": {
+    "王都カミハルムイ北": "Royal City Kamiharmui N."
+  },
+  "416": {
+    "森の井戸": "Forest Well"
+  },
+  "417": {
+    "clarity_nt_char_417": "clarity_nt_char_417"
+  },
+  "418": {
+    "ダズの岩穴・大空洞": "Daz Cave Large Cavity"
+  },
+  "419": {
+    "狩人の休憩所": "Hunter Rest Area"
+  },
+  "420": {
+    "clarity_nt_char_420": "clarity_nt_char_420"
+  },
+  "421": {
+    "けがれの谷底": "Injury Valley"
+  },
+  "422": {
+    "clarity_nt_char_422": "clarity_nt_char_422"
+  },
+  "423": {
+    "ポポラパの最深部": "Popolapa Deeps"
+  },
+  "424": {
+    "clarity_nt_char_424": "clarity_nt_char_424"
+  },
+  "425": {
+    "フェルアバの大洞穴": "Great Felaba Cave"
+  },
+  "426": {
+    "メギラザ地下洞": "Megiraz Underground"
+  },
+  "427": {
+    "枯れ井戸の地下洞": "Cave Of Dead Well"
+  },
+  "428": {
+    "clarity_nt_char_428": "clarity_nt_char_428"
+  },
+  "429": {
+    "プログラマー用負荷検証ステージ5": "Loading Programmer Verification Stage 5"
+  },
+  "430": {
+    "clarity_nt_char_430": "clarity_nt_char_430"
+  },
+  "431": {
+    "プログラマー用負荷検証ステージ4": "Loading Programmer Verification Stage 4"
+  },
+  "432": {
+    "clarity_nt_char_432": "clarity_nt_char_432"
+  },
+  "433": {
+    "プログラマー用負荷検証ステージ3": "Loading Programmer Verification Stage 3"
+  },
+  "434": {
+    "clarity_nt_char_434": "clarity_nt_char_434"
+  },
+  "435": {
+    "プログラマー用負荷検証ステージ2": "Loading Programmer Verification Stage 2"
+  },
+  "436": {
+    "clarity_nt_char_436": "clarity_nt_char_436"
+  },
+  "437": {
+    "プログラマー用負荷検証ステージ1": "Loading Programmer Verification Stage 1"
+  },
+  "438": {
+    "clarity_nt_char_438": "clarity_nt_char_438"
+  },
+  "439": {
+    "井戸の中": "Inside Well"
+  },
+  "440": {
+    "clarity_nt_char_440": "clarity_nt_char_440"
+  },
+  "441": {
+    "王都カミハルムイ": "Royal City Kamiharmui "
+  },
+  "442": {
+    "clarity_nt_char_442": "clarity_nt_char_442"
+  },
+  "443": {
+    "レーンの村 ": "Lane Village "
+  },
+  "444": {
+    "clarity_nt_char_444": "clarity_nt_char_444"
+  },
+  "445": {
+    "港町レンドア": "Port Town Lendor"
+  },
+  "446": {
+    "clarity_nt_char_446": "clarity_nt_char_446"
+  },
+  "447": {
+    "秘密の隠れ家": "Secret Hideaway"
+  },
+  "448": {
+    "clarity_nt_char_448": "clarity_nt_char_448"
+  },
+  "449": {
+    "ジュレット住宅村": "Julet Residences"
+  },
+  "450": {
+    "clarity_nt_char_450": "clarity_nt_char_450"
+  },
+  "451": {
+    "ガタラ住宅村": "Gatara Residences"
+  },
+  "452": {
+    "clarity_nt_char_452": "clarity_nt_char_452"
+  },
+  "453": {
+    "アズラン住宅村": "Azlan Residences"
+  },
+  "454": {
+    "グレン住宅村": "Glen Residences"
+  },
+  "455": {
+    "clarity_nt_char_455": "clarity_nt_char_455"
+  },
+  "456": {
+    "オルフェア住宅村": "Orphea Residences"
+  },
+  "457": {
+    "clarity_nt_char_457": "clarity_nt_char_457"
+  },
+  "458": {
+    "その他のばしょ": "Other Locations"
+  },
+  "459": {
+    "太古の地底回廊": "Ancient Corridor"
+  },
+  "460": {
+    "海神の大霊洞": "Sea God's Cave"
+  },
+  "461": {
+    "clarity_nt_char_461": "clarity_nt_char_461"
+  },
+  "462": {
+    "百鬼の隠れ屋敷": "H. Hidden Mansion"
+  },
+  "463": {
+    "氷雪の牙城": "Snow Stronghold"
+  },
+  "464": {
+    "夢幻の摩天楼": "Dream Skyscraper"
+  },
+  "465": {
+    "clarity_nt_char_465": "clarity_nt_char_465"
+  },
+  "466": {
+    "星の大樹広場": "Star Tree Plaza"
+  },
+  "467": {
+    "clarity_nt_char_467": "clarity_nt_char_467"
+  },
+  "468": {
+    "魔法の迷宮": "Magic Maze"
+  },
+  "469": {
+    "ショコラフォンテヌ城": "Chocolat Fontenay Castle"
+  },
+  "470": {
+    "clarity_nt_char_470": "clarity_nt_char_470"
+  },
+  "471": {
+    "<%sW_REP_MAX_2ND_F>ココラタの浜辺": "<%sW_REP_MAX_2ND_F>Cocoratha Beach"
+  },
+  "472": {
+    "clarity_nt_char_472": "clarity_nt_char_472"
+  },
+  "473": {
+    "<%sW_REP_MAX_2ND_F>コニウェア平原": "<%sW_REP_MAX_2ND_F>Coniware Plain"
+  },
+  "474": {
+    "clarity_nt_char_474": "clarity_nt_char_474"
+  },
+  "475": {
+    "飛竜の峰": "Dragon Peak"
+  },
+  "476": {
+    "clarity_nt_char_476": "clarity_nt_char_476"
+  },
+  "477": {
+    "ドラクロン山地": "Draklon Mountains"
+  },
+  "478": {
+    "<%sW_REP_MIN_2ND_F>グランゼドーラ城": "<%sW_REP_MAX_2ND_F>Gran Zedora Castle"
+  },
+  "479": {
+    "<%sW_REP_MAX_2ND_R>グランゼドーラ城": "<%sW_REP_MAX_2ND_R>Gran Zedora Castle"
+  },
+  "480": {
+    "<%sW_REP_MIN_2ND_F>グランゼドーラ港": "<%sW_REP_MAX_2ND_F>Gran Zedora Harbor"
+  },
+  "481": {
+    "<%sW_REP_MIN_2ND_F>グランゼドーラ王国": "<%sW_REP_MAX_2ND_F>Gran Zedora Kingdom"
+  },
+  "482": {
+    "clarity_nt_char_482": "clarity_nt_char_482"
+  },
+  "483": {
+    "モンセロ温泉峡": "Moncello Spring Gorge"
+  },
+  "484": {
+    "<%sW_REP_MAX_2ND_R>三門の関所": "<%sW_REP_MAX_2ND_R>3 Way Gate"
+  },
+  "485": {
+    "clarity_nt_char_485": "clarity_nt_char_485"
+  },
+  "486": {
+    "<%sW_REP_MAX_2ND_R>ココラタの浜辺": "<%sW_REP_MAX_2ND_R>Cocoratha Beach"
+  },
+  "487": {
+    "clarity_nt_char_487": "clarity_nt_char_487"
+  },
+  "488": {
+    "<%sW_REP_MAX_2ND_R>コニウェア平原": "<%sW_REP_MAX_2ND_R>Coniware Plain"
+  },
+  "489": {
+    "clarity_nt_char_489": "clarity_nt_char_489"
+  },
+  "490": {
+    "<%sW_REP_MAX_2ND_R>グランゼドーラ港": "<%sW_REP_MAX_2ND_R>Gran Zedora Harbor"
+  },
+  "491": {
+    "<%sW_REP_MAX_2ND_F>三門の関所": "<%sW_REP_MAX_2ND_F>3 Way Gate"
+  },
+  "492": {
+    "clarity_nt_char_492": "clarity_nt_char_492"
+  },
+  "493": {
+    "<%sW_REP_MAX_2ND_F>ゼドラ洞": "<%sW_REP_MAX_2ND_F>Zedora Cave"
+  },
+  "494": {
+    "<%sW_REP_MAX_2ND_R>ゼドラ洞": "<%sW_REP_MAX_2ND_R>Zedora Cave"
+  },
+  "495": {
+    "<%sW_REP_MAX_2ND_F>巨竜の巣": "<%sW_REP_MAX_2ND_F>Dragon Nest"
+  },
+  "496": {
+    "<%sW_REP_MAX_2ND_R>巨竜の巣": "<%sW_REP_MAX_2ND_R>Dragon Nest"
+  },
+  "497": {
+    "ご神体の間": "Hall of Worship"
+  },
+  "498": {
+    "<%sW_REP_MIN_2ND_R>グランゼドーラ王国": "<%sW_REP_MAX_2ND_R>Gran Zedora Kingdom"
+  },
+  "499": {
+    "clarity_nt_char_499": "clarity_nt_char_499"
+  },
+  "500": {
+    "<%sW_REP_MAX_2ND_F>メルサンディ村": "<%sW_REP_MAX_2ND_F>Melsandy Village"
+  },
+  "501": {
+    "clarity_nt_char_501": "clarity_nt_char_501"
+  },
+  "502": {
+    "<%sW_REP_MAX_2ND_R>メルサンディ村": "<%sW_REP_MAX_2ND_R>Melsandy Village"
+  },
+  "503": {
+    "clarity_nt_char_503": "clarity_nt_char_503"
+  },
+  "504": {
+    "<%sW_REP_MIN_2ND_F>メルサンディ穀倉帯": "<%sW_REP_MAX_2ND_F>Melsandy Granary Belt"
+  },
+  "505": {
+    "clarity_nt_char_505": "clarity_nt_char_505"
+  },
+  "506": {
+    "<%sW_REP_MIN_2ND_R>メルサンディ穀倉帯": "<%sW_REP_MAX_2ND_R>Melsandy Granary Belt"
+  },
+  "507": {
+    "clarity_nt_char_507": "clarity_nt_char_507"
+  },
+  "508": {
+    "<%sW_REP_MAX_2ND_R>さびれたほこら": "<%sW_REP_MAX_2ND_R>Deserted Shrine"
+  },
+  "509": {
+    "clarity_nt_char_509": "clarity_nt_char_509"
+  },
+  "510": {
+    "<%sW_REP_MAX_2ND_F>さびれたほこら": "<%sW_REP_MAX_2ND_F>Deserted Shrine"
+  },
+  "511": {
+    "clarity_nt_char_511": "clarity_nt_char_511"
+  },
+  "512": {
+    "<%sW_REP_MAX_2ND_F>メルン水車郷": "<%sW_REP_MAX_2ND_F>Melun Waterwheel"
+  },
+  "513": {
+    "<%sW_REP_MAX_2ND_R>メルン水車郷": "<%sW_REP_MAX_2ND_R>Melun Waterwheel"
+  },
+  "514": {
+    "謎の地下水路": "Undergrd Waterway"
+  },
+  "515": {
+    "clarity_nt_char_515": "clarity_nt_char_515"
+  },
+  "516": {
+    "謎の地底湖": "Undergrd Lake"
+  },
+  "517": {
+    "<%sW_REP_MAX_2ND_F>ワルド水源": "<%sW_REP_MAX_2ND_F>Wald Outfall"
+  },
+  "518": {
+    "clarity_nt_char_518": "clarity_nt_char_518"
+  },
+  "519": {
+    "<%sW_REP_MAX_2ND_R>ワルド水源": "<%sW_REP_MAX_2ND_R>Wald Outfall"
+  },
+  "520": {
+    "clarity_nt_char_520": "clarity_nt_char_520"
+  },
+  "521": {
+    "<%sW_REP_MAX_2ND_F>夜宴館": "<%sW_REP_MAX_2ND_F>Banquet"
+  },
+  "522": {
+    "clarity_nt_char_522": "clarity_nt_char_522"
+  },
+  "523": {
+    "<%sW_REP_MAX_2ND_R>夜宴館": "<%sW_REP_MAX_2ND_R>Banquet"
+  },
+  "524": {
+    "clarity_nt_char_524": "clarity_nt_char_524"
+  },
+  "525": {
+    "<%sW_REP_MAX_2ND_F>セレドの町": "<%sW_REP_MAX_2ND_F>Town of Celed"
+  },
+  "526": {
+    "clarity_nt_char_526": "clarity_nt_char_526"
+  },
+  "527": {
+    "<%sW_REP_MAX_2ND_R>セレドの町": "<%sW_REP_MAX_2ND_R>Town of Celed"
+  },
+  "528": {
+    "clarity_nt_char_528": "clarity_nt_char_528"
+  },
+  "529": {
+    "高台の教会": "High Church"
+  },
+  "530": {
+    "<%sW_REP_MAX_2ND_F>セレドット山道": "<%sW_REP_MAX_2ND_F>Celedot Mtn. Pass"
+  },
+  "531": {
+    "clarity_nt_char_531": "clarity_nt_char_531"
+  },
+  "532": {
+    "<%sW_REP_MAX_2ND_R>セレドット山道": "<%sW_REP_MAX_2ND_R>Celedot Mtn. Pass"
+  },
+  "533": {
+    "clarity_nt_char_533": "clarity_nt_char_533"
+  },
+  "534": {
+    "ガケ沿いの集会所": "Cliff Meeting Place"
+  },
+  "535": {
+    "clarity_nt_char_535": "clarity_nt_char_535"
+  },
+  "536": {
+    "<%sW_REP_MAX_2ND_F>ダーマ神殿": "<%sW_REP_MAX_2ND_F>Dharma Temple"
+  },
+  "537": {
+    "clarity_nt_char_537": "clarity_nt_char_537"
+  },
+  "538": {
+    "<%sW_REP_MAX_2ND_R>ダーマ神殿": "<%sW_REP_MAX_2ND_R>Dharma Temple"
+  },
+  "539": {
+    "clarity_nt_char_539": "clarity_nt_char_539"
+  },
+  "540": {
+    "天願の座": "Heaven Seat"
+  },
+  "541": {
+    "clarity_nt_char_541": "clarity_nt_char_541"
+  },
+  "542": {
+    "古き神の遺跡": "Old God Ruins"
+  },
+  "543": {
+    "clarity_nt_char_543": "clarity_nt_char_543"
+  },
+  "544": {
+    "結界の間": "Barrier H."
+  },
+  "545": {
+    "clarity_nt_char_545": "clarity_nt_char_545"
+  },
+  "546": {
+    "神の緋石の間": "Scarlet God Stones"
+  },
+  "547": {
+    "clarity_nt_char_547": "clarity_nt_char_547"
+  },
+  "548": {
+    "<%sW_REP_MIN_2ND_F>アラハギーロ地方": "<%sW_REP_MAX_2ND_F>Arahagiro Region"
+  },
+  "549": {
+    "<%sW_REP_MAX_2ND_R>アラハギーロ地方": "<%sW_REP_MAX_2ND_R>Arahagiro Region"
+  },
+  "550": {
+    "<%sW_REP_MIN_2ND_F>アラハギーロ王国": "<%sW_REP_MAX_2ND_F>Kingdom of Arahagiro"
+  },
+  "551": {
+    "<%sW_REP_MIN_2ND_F>アラハギーロ城内": "<%sW_REP_MAX_2ND_F>Arahagiro Castle"
+  },
+  "552": {
+    "<%sW_REP_MAX_2ND_R>アラハギーロ王国": "<%sW_REP_MAX_2ND_R>Kingdom of Arahagiro"
+  },
+  "553": {
+    "<%sW_REP_MAX_2ND_R>アラハギーロ城内": "<%sW_REP_MAX_2ND_R>Arahagiro Castle"
+  },
+  "554": {
+    "シガール町長の執務室": "Mayor Sigal's Office"
+  },
+  "555": {
+    "clarity_nt_char_555": "clarity_nt_char_555"
+  },
+  "556": {
+    "魂のありか": "Soul's Place"
+  },
+  "557": {
+    "妖精の国": "Fairy Land"
+  },
+  "558": {
+    "clarity_nt_char_558": "clarity_nt_char_558"
+  },
+  "559": {
+    "雪の女王の洞くつ": "Snow Queen's Cave"
+  },
+  "560": {
+    "clarity_nt_char_560": "clarity_nt_char_560"
+  },
+  "561": {
+    "<%sW_REP_MAX_2ND_F>エテーネの村": "<%sW_REP_MAX_2ND_F>Ethene Village"
+  },
+  "562": {
+    "<%sW_REP_MAX_2ND_R>エテーネの村": "<%sW_REP_MAX_2ND_R>Ethene Village"
+  },
+  "563": {
+    "<%sW_REP_MAX_2ND_F>育みの大地": "<%sW_REP_MAX_2ND_F>Nutured Land"
+  },
+  "564": {
+    "clarity_nt_char_564": "clarity_nt_char_564"
+  },
+  "565": {
+    "<%sW_REP_MAX_2ND_R>育みの大地": "<%sW_REP_MAX_2ND_R>Nutured Land"
+  },
+  "566": {
+    "clarity_nt_char_566": "clarity_nt_char_566"
+  },
+  "567": {
+    "<%sW_REP_MAX_2ND_F>名もなき草原": "<%sW_REP_MAX_2ND_F>Nameless Field"
+  },
+  "568": {
+    "<%sW_REP_MAX_2ND_R>名もなき草原": "<%sW_REP_MAX_2ND_R>Nameless Field"
+  },
+  "569": {
+    "<%sW_REP_MAX_2ND_F>谷間の広場": "<%sW_REP_MAX_2ND_F>Valley Square"
+  },
+  "570": {
+    "clarity_nt_char_570": "clarity_nt_char_570"
+  },
+  "571": {
+    "創生の邪洞": "Creation Cave"
+  },
+  "572": {
+    "創生の渦": "Vortex of C."
+  },
+  "573": {
+    "clarity_nt_char_573": "clarity_nt_char_573"
+  },
+  "574": {
+    "<%sW_REP_MAX_2ND_R>悪鬼のねぐら": "<%sW_REP_MAX_2ND_R>Devil's Roost"
+  },
+  "575": {
+    "<%sW_REP_MAX_2ND_F>悪鬼のねぐら": "<%sW_REP_MAX_2ND_F>Devil's Roost"
+  },
+  "576": {
+    "<%sW_REP_MIN_2ND_F>ナシームの洞くつ": "<%sW_REP_MAX_2ND_F>Nassim Cave"
+  },
+  "577": {
+    "<%sW_REP_MAX_2ND_R>ナシームの洞くつ": "<%sW_REP_MAX_2ND_R>Nassim Cave"
+  },
+  "578": {
+    "<%sW_REP_MAX_2ND_R>ピラミッド": "<%sW_REP_MAX_2ND_R>Pyramid"
+  },
+  "579": {
+    "clarity_nt_char_579": "clarity_nt_char_579"
+  },
+  "580": {
+    "大扉の間": "Large Doors"
+  },
+  "581": {
+    "clarity_nt_char_581": "clarity_nt_char_581"
+  },
+  "582": {
+    "太陽の石室": "Sun Stone Room"
+  },
+  "583": {
+    "<%sW_REP_MAX_2ND_R>ジャイラ密林": "<%sW_REP_MAX_2ND_R>Jyra Jungle"
+  },
+  "584": {
+    "<%sW_REP_MAX_2ND_F>ジャイラ密林": "<%sW_REP_MAX_2ND_F>Jyra Jungle"
+  },
+  "585": {
+    "<%sW_REP_MAX_2ND_F>デフェル荒野": "<%sW_REP_MAX_2ND_F>Defel Wilderness"
+  },
+  "586": {
+    "<%sW_REP_MAX_2ND_R>デフェル荒野": "<%sW_REP_MAX_2ND_R>Defel Wilderness"
+  },
+  "587": {
+    "<%sW_REP_MAX_2ND_R>日除けのほら穴": "<%sW_REP_MAX_2ND_R>Awning Cave"
+  },
+  "588": {
+    "clarity_nt_char_588": "clarity_nt_char_588"
+  },
+  "589": {
+    "<%sW_REP_MAX_2ND_F>日除けのほら穴": "<%sW_REP_MAX_2ND_F>Awning Cave"
+  },
+  "590": {
+    "clarity_nt_char_590": "clarity_nt_char_590"
+  },
+  "591": {
+    "<%sW_REP_MAX_2ND_R>ムルードの岩山": "<%sW_REP_MAX_2ND_R>Muldo Mountain"
+  },
+  "592": {
+    "clarity_nt_char_592": "clarity_nt_char_592"
+  },
+  "593": {
+    "<%sW_REP_MAX_2ND_F>ムルードの岩山": "<%sW_REP_MAX_2ND_F>Muldo Mountain"
+  },
+  "594": {
+    "clarity_nt_char_594": "clarity_nt_char_594"
+  },
+  "595": {
+    "<%sW_REP_MIN_2ND_F>格闘場・闘いの広間": "<%sW_REP_MAX_2ND_F>Arena - Fighting Hall"
+  },
+  "596": {
+    "clarity_nt_char_596": "clarity_nt_char_596"
+  },
+  "597": {
+    "<%sW_REP_MIN_2ND_R>格闘場・闘いの広間": "<%sW_REP_MAX_2ND_R>Arena - Fighting Hall"
+  },
+  "598": {
+    "clarity_nt_char_598": "clarity_nt_char_598"
+  },
+  "599": {
+    "<%sW_REP_MIN_2ND_F>モンスター格闘場": "<%sW_REP_MAX_2ND_F>Monster Arena"
+  },
+  "600": {
+    "<%sW_REP_MAX_2ND_R>モンスター格闘場": "<%sW_REP_MAX_2ND_R>Monster Arena"
+  },
+  "601": {
+    "ソーラリア峡谷": "Solaria Canyon"
+  },
+  "602": {
+    "<%sW_REP_MAX_2ND_F>禁呪の祭壇": "<%sW_REP_MAX_2ND_F>Forbidden Altar"
+  },
+  "603": {
+    "clarity_nt_char_603": "clarity_nt_char_603"
+  },
+  "604": {
+    "<%sW_REP_MAX_2ND_R>禁呪の祭壇": "<%sW_REP_MAX_2ND_R>Forbidden Altar"
+  },
+  "605": {
+    "clarity_nt_char_605": "clarity_nt_char_605"
+  },
+  "606": {
+    "<%sW_REP_MAX_2ND_R>リンジャの塔": "<%sW_REP_MAX_2ND_R>Linja Tower"
+  },
+  "607": {
+    "<%sW_REP_MAX_2ND_F>リンジャの塔": "<%sW_REP_MAX_2ND_F>Linja Tower"
+  },
+  "608": {
+    "<%sW_REP_MAX_2ND_F>リャナ荒涼地帯": "<%sW_REP_MAX_2ND_F>Lyana Desolate Area"
+  },
+  "609": {
+    "clarity_nt_char_609": "clarity_nt_char_609"
+  },
+  "610": {
+    "<%sW_REP_MAX_2ND_R>リャナ荒涼地帯": "<%sW_REP_MAX_2ND_R>Lyana Desolate Area"
+  },
+  "611": {
+    "clarity_nt_char_611": "clarity_nt_char_611"
+  },
+  "612": {
+    "<%sW_REP_MAX_2ND_R>リンジャハル海岸": "<%sW_REP_MAX_2ND_R>Linjahar Coast"
+  },
+  "613": {
+    "<%sW_REP_MIN_2ND_F>リンジャハル海岸": "<%sW_REP_MAX_2ND_F>Linjahar Coast"
+  },
+  "614": {
+    "<%sW_REP_MAX_2ND_F>こもれびの広場": "<%sW_REP_MAX_2ND_F>Sunbeam Square"
+  },
+  "615": {
+    "clarity_nt_char_615": "clarity_nt_char_615"
+  },
+  "616": {
+    "<%sW_REP_MAX_2ND_R>こもれびの広場": "<%sW_REP_MAX_2ND_R>Sunbeam Square"
+  },
+  "617": {
+    "clarity_nt_char_617": "clarity_nt_char_617"
+  },
+  "618": {
+    "魔獣の菜園": "Hexenbiest Yard"
+  },
+  "619": {
+    "<%sW_REP_MAX_2ND_R>ローヌ樹林帯": "<%sW_REP_MAX_2ND_R>Rhone Forest Belt"
+  },
+  "620": {
+    "<%sW_REP_MAX_2ND_F>ローヌ樹林帯": "<%sW_REP_MAX_2ND_F>Rhone Forest Belt"
+  },
+  "621": {
+    "<%sW_REP_MAX_2ND_F>海風の洞くつ": "<%sW_REP_MAX_2ND_F>Seabreeze Cave"
+  },
+  "622": {
+    "<%sW_REP_MAX_2ND_R>海風の洞くつ": "<%sW_REP_MAX_2ND_R>Seabreeze Cave"
+  },
+  "623": {
+    "<%sW_REP_MAX_2ND_R>ロヴォス高地": "<%sW_REP_MAX_2ND_R>Rovos Highlands"
+  },
+  "624": {
+    "<%sW_REP_MAX_2ND_F>ロヴォス高地": "<%sW_REP_MAX_2ND_F>Rovos Highlands"
+  },
+  "625": {
+    "<%sW_REP_MAX_2ND_R>レビュール街道南": "<%sW_REP_MAX_2ND_R>Reviewle Highway South"
+  },
+  "626": {
+    "<%sW_REP_MIN_2ND_F>レビュール街道南": "<%sW_REP_MAX_2ND_F>Reviewle Highway South"
+  },
+  "627": {
+    "<%sW_REP_MIN_2ND_F>レビュール街道北": "<%sW_REP_MAX_2ND_F>Reviewle Highway North"
+  },
+  "628": {
+    "<%sW_REP_MAX_2ND_R>レビュール街道北": "<%sW_REP_MAX_2ND_R>Reviewle Highway North"
+  },
+  "629": {
+    "大樹の根元": "Big Tree Root"
+  },
+  "630": {
+    "クドゥスの泉": "Kudus Fountain"
+  },
+  "631": {
+    "clarity_nt_char_631": "clarity_nt_char_631"
+  },
+  "632": {
+    "<%sW_REP_MAX_2ND_F>忘れられた広間": "<%sW_REP_MAX_2ND_F>Forgotten Hall"
+  },
+  "633": {
+    "clarity_nt_char_633": "clarity_nt_char_633"
+  },
+  "634": {
+    "<%sW_REP_MAX_2ND_R>忘れられた広間": "<%sW_REP_MAX_2ND_R>Forgotten Hall"
+  },
+  "635": {
+    "clarity_nt_char_635": "clarity_nt_char_635"
+  },
+  "636": {
+    "グランドタイタス号": "Grand Titus"
+  },
+  "637": {
+    "グランゼドーラ城": "Gran Zedora Castle"
+  },
+  "638": {
+    "clarity_nt_char_638": "clarity_nt_char_638"
+  },
+  "639": {
+    "<%sW_REP_MAX_2ND_F>魔女の森": "<%sW_REP_MAX_2ND_F>Witch Forest"
+  },
+  "640": {
+    "<%sW_REP_MAX_2ND_R>魔女の森": "<%sW_REP_MAX_2ND_R>Witch Forest"
+  },
+  "641": {
+    "三闘の神殿": "Santo Temple"
+  },
+  "642": {
+    "三闘の間": "Santo Hall"
+  },
+  "643": {
+    "clarity_nt_char_643": "clarity_nt_char_643"
+  },
+  "644": {
+    "荒城の隠し御殿": "A's Hidden Palace"
+  },
+  "645": {
+    "荒城の宝物殿": "A's Treasure Hall"
+  },
+  "646": {
+    "clarity_nt_char_646": "clarity_nt_char_646"
+  },
+  "647": {
+    "万年雪の砦": "Untold Snowfort"
+  },
+  "648": {
+    "結界の氷殿": "Ice Barrier H."
+  },
+  "649": {
+    "始まりの塔": "BeginningTower"
+  },
+  "650": {
+    "守護鬼の間": "Demon Guardian"
+  },
+  "651": {
+    "時の刻みし海溝": "Trench Of Time"
+  },
+  "652": {
+    "海淵の間": "Abyss Room"
+  },
+  "653": {
+    "clarity_nt_char_653": "clarity_nt_char_653"
+  },
+  "654": {
+    "闇の溢る世界": "World of Darkness"
+  },
+  "655": {
+    "clarity_nt_char_655": "clarity_nt_char_655"
+  },
+  "656": {
+    "帝王の玉座": "Emperor Throne"
+  },
+  "657": {
+    "滅びの間": "Perish Hall"
+  },
+  "658": {
+    "clarity_nt_char_658": "clarity_nt_char_658"
+  },
+  "659": {
+    "王者の座": "King's Seat"
+  },
+  "660": {
+    "clarity_nt_char_660": "clarity_nt_char_660"
+  },
+  "661": {
+    "継承の間": "Inheritance"
+  },
+  "662": {
+    "clarity_nt_char_662": "clarity_nt_char_662"
+  },
+  "663": {
+    "<%sW_REP_MIN_2ND_F>グランゼドーラ領": "<%sW_REP_MAX_2ND_F>Gran Zedora Territory"
+  },
+  "664": {
+    "<%sW_REP_MAX_2ND_R>グランゼドーラ領": "<%sW_REP_MAX_2ND_R>Gran Zedora Territory"
+  },
+  "665": {
+    "カジノフロア": "Casino Floor "
+  },
+  "666": {
+    "clarity_nt_char_666": "clarity_nt_char_666"
+  },
+  "667": {
+    "神話の遺跡": "Mystical Ruins"
+  },
+  "668": {
+    "デルクロアの研究室": "Delkroia Laboratory"
+  },
+  "669": {
+    "オルファの丘": "Orpha Hill"
+  },
+  "670": {
+    "clarity_nt_char_670": "clarity_nt_char_670"
+  },
+  "671": {
+    "七夕の里": "Star Village"
+  },
+  "672": {
+    "clarity_nt_char_672": "clarity_nt_char_672"
+  },
+  "673": {
+    "王家の墓": "Royal Tomb"
+  },
+  "674": {
+    "clarity_nt_char_674": "clarity_nt_char_674"
+  },
+  "675": {
+    "<%sW_REP_MAX_2ND_F>ピラミッド": "<%sW_REP_MAX_2ND_F>Pyramid"
+  },
+  "676": {
+    "clarity_nt_char_676": "clarity_nt_char_676"
+  },
+  "677": {
+    "ピラミッド第一の霊廟": "Pyramid Tomb 1"
+  },
+  "678": {
+    "clarity_nt_char_678": "clarity_nt_char_678"
+  },
+  "679": {
+    "光の神殿": "Light Temple"
+  },
+  "680": {
+    "clarity_nt_char_680": "clarity_nt_char_680"
+  },
+  "681": {
+    "毒牙の間": "P. Fang Room"
+  },
+  "682": {
+    "clarity_nt_char_682": "clarity_nt_char_682"
+  },
+  "683": {
+    "悠久の回廊": "Eternity Hall"
+  },
+  "684": {
+    "奈落の門": "Abyss Gate"
+  },
+  "685": {
+    "clarity_nt_char_685": "clarity_nt_char_685"
+  },
+  "686": {
+    "モンスター酒場": "Monster Tavern"
+  },
+  "687": {
+    "スレア海岸": "Surrey Coast"
+  },
+  "688": {
+    "風穴の研究室": "Wind Tunnel Lab"
+  },
+  "689": {
+    "clarity_nt_char_689": "clarity_nt_char_689"
+  },
+  "690": {
+    "キュララナビーチ": "Curalana Beach"
+  },
+  "691": {
+    "clarity_nt_char_691": "clarity_nt_char_691"
+  },
+  "692": {
+    "白の間": "White H."
+  },
+  "693": {
+    "灰の間": "Ash Hall"
+  },
+  "694": {
+    "黒の間": "Dark Hall"
+  },
+  "695": {
+    "弔いの間": "Burial Room"
+  },
+  "696": {
+    "clarity_nt_char_696": "clarity_nt_char_696"
+  },
+  "697": {
+    "王家の宝物庫": "Royal Treasure H."
+  },
+  "698": {
+    "clarity_nt_char_698": "clarity_nt_char_698"
+  },
+  "699": {
+    "<%sW_REP_MAX_2ND_F>ガリアル洞": "<%sW_REP_MAX_2ND_F>Garial Cave"
+  },
+  "700": {
+    "clarity_nt_char_700": "clarity_nt_char_700"
+  },
+  "701": {
+    "封印の間": "Center Seal"
+  },
+  "702": {
+    "clarity_nt_char_702": "clarity_nt_char_702"
+  },
+  "703": {
+    "闘士の間": "Warrior Hall"
+  },
+  "704": {
+    "clarity_nt_char_704": "clarity_nt_char_704"
+  },
+  "705": {
+    "ガラシの塔": "Garashi Tower"
+  },
+  "706": {
+    "スウィ～ツランド": "Sweetsland"
+  },
+  "707": {
+    "clarity_nt_char_707": "clarity_nt_char_707"
+  },
+  "708": {
+    "マデ島": "Made Isle"
+  },
+  "709": {
+    "<%sW_REP_MAX_2ND_F>五行の塔": "<%sW_REP_MAX_2ND_F>Five Towers"
+  },
+  "710": {
+    "スイーツゾーン": "Sweets Zone"
+  },
+  "711": {
+    "スイーツゾーン控え室": "Sweets Zone Waiting Room"
+  },
+  "712": {
+    "clarity_nt_char_712": "clarity_nt_char_712"
+  },
+  "713": {
+    "<%sW_REP_MAX_2ND_R>五行の塔": "<%sW_REP_MAX_2ND_R>Five Towers"
+  },
+  "714": {
+    "ラゼアの風穴": "Lazea Wind Cave"
+  },
+  "715": {
+    "clarity_nt_char_715": "clarity_nt_char_715"
+  },
+  "716": {
+    "紅玉館": "Mansion"
+  },
+  "717": {
+    "<%sW_REP_MAX_2ND_R>レンダーシア上空": "<%sW_REP_MAX_2ND_R>Lendersia Skies"
+  },
+  "718": {
+    "真": "T. "
+  },
+  "719": {
+    "偽": "F. "
+  },
+  "720": {
+    "月世界": "The Moon"
+  },
+  "721": {
+    "月世界の都": "Moon's Capital"
+  },
+  "722": {
+    "宇宙船内部": "In Spacecraft"
+  },
+  "723": {
+    "月世界・王宮": "Moon Royal Palace"
+  },
+  "724": {
+    "clarity_nt_char_724": "clarity_nt_char_724"
+  },
+  "725": {
+    "<%sW_AD_LOCA>の空園<%sW_AUTODUNG_CF>": "<%sW_AD_LOCA> Garden <%sW_AUTODUNG_CF>"
+  },
+  "726": {
+    "<%sW_AD_LOCA>の神殿<%sW_AUTODUNG_CF>": "<%sW_AD_LOCA> Temple <%sW_AUTODUNG_CF>"
+  },
+  "727": {
+    "<%sW_AD_LOCA>の聖林<%sW_AUTODUNG_CF>": "<%sW_AD_LOCA> Forest <%sW_AUTODUNG_CF>"
+  },
+  "728": {
+    "<%sW_AD_LOCA>の聖域<%sW_AUTODUNG_CF>": "<%sW_AD_LOCA>Sanctuary<%sW_AUTODUNG_CF>"
+  },
+  "729": {
+    "<%sW_AD_LOCA>の砂漠<%sW_AUTODUNG_CF>": "<%sW_AD_LOCA> Desert <%sW_AUTODUNG_CF>"
+  },
+  "730": {
+    "<%sW_AD_LOCA>の丘陵<%sW_AUTODUNG_CF>": "<%sW_AD_LOCA> Hills <%sW_AUTODUNG_CF>"
+  },
+  "731": {
+    "<%sW_AD_LOCA>の間<%sW_AUTODUNG_CF>": "<%sW_AD_LOCA> Room <%sW_AUTODUNG_CF>"
+  },
+  "732": {
+    "clarity_nt_char_732": "clarity_nt_char_732"
+  },
+  "733": {
+    "うつしよの境界地": "Boundary of Depression"
+  },
+  "734": {
+    "clarity_nt_char_734": "clarity_nt_char_734"
+  },
+  "735": {
+    "王家の迷宮": "Royal Maze"
+  },
+  "736": {
+    "偽りの": "F. "
+  },
+  "737": {
+    "真の": "T. "
+  },
+  "738": {
+    "clarity_nt_char_738": "clarity_nt_char_738"
+  },
+  "739": {
+    "ホワイトショコラ城": "White Chocolat Castle"
+  },
+  "740": {
+    "強戦士の聖域・闘場": "Warrior's Sanctuary - Arena"
+  },
+  "741": {
+    "強戦士の聖域・前室": "Warrior's Sanctuary - Gate"
+  },
+  "742": {
+    "落日": "Sunset"
+  },
+  "743": {
+    "clarity_nt_char_743": "clarity_nt_char_743"
+  },
+  "744": {
+    "闇夜": "DNight"
+  },
+  "745": {
+    "clarity_nt_char_745": "clarity_nt_char_745"
+  },
+  "746": {
+    "陽光": "Sunray"
+  },
+  "747": {
+    "clarity_nt_char_747": "clarity_nt_char_747"
+  },
+  "748": {
+    "薄明": "Twilig"
+  },
+  "749": {
+    "clarity_nt_char_749": "clarity_nt_char_749"
+  },
+  "750": {
+    "ねじれたる異形の大地": "Twisted Deformed Earth"
+  },
+  "751": {
+    "clarity_nt_char_751": "clarity_nt_char_751"
+  },
+  "752": {
+    "玉座の間": "Throne Room"
+  },
+  "753": {
+    "clarity_nt_char_753": "clarity_nt_char_753"
+  },
+  "754": {
+    "魔幻宮殿": "Demon Palace"
+  },
+  "755": {
+    "clarity_nt_char_755": "clarity_nt_char_755"
+  },
+  "756": {
+    "業炎の聖塔": "Karmafire Tower"
+  },
+  "757": {
+    "解放の間": "Salvation Rm"
+  },
+  "758": {
+    "clarity_nt_char_758": "clarity_nt_char_758"
+  },
+  "759": {
+    "アペカの村": "Apeka Village"
+  },
+  "760": {
+    "聖都エジャルナ": "Holy City Ejarna"
+  },
+  "761": {
+    "ナドラガ教団大神殿": "Nadraga Great Cult Temple"
+  },
+  "762": {
+    "煉獄の谷": "Purgatory V."
+  },
+  "763": {
+    "clarity_nt_char_763": "clarity_nt_char_763"
+  },
+  "764": {
+    "魔炎鳥の巣": "Darkflame Nest"
+  },
+  "765": {
+    "フェザリアス山": "Fezarias Mountain"
+  },
+  "766": {
+    "炎樹の丘": "Firetree H."
+  },
+  "767": {
+    "clarity_nt_char_767": "clarity_nt_char_767"
+  },
+  "768": {
+    "ナドラガ神のほこら": "Nadraga God Shrine"
+  },
+  "769": {
+    "いざないの間": "Hall of Invitation"
+  },
+  "770": {
+    "clarity_nt_char_770": "clarity_nt_char_770"
+  },
+  "771": {
+    "赤熱の荒野": "Red Hot Desert"
+  },
+  "772": {
+    "烈火の渓谷": "Valley of Fire"
+  },
+  "773": {
+    "ダラリア砂岩遺跡": "Galeria Sandstone Ruins"
+  },
+  "774": {
+    "clarity_nt_char_774": "clarity_nt_char_774"
+  },
+  "775": {
+    "崩れゆく虚室": "Crumling Fake Room"
+  },
+  "776": {
+    "clarity_nt_char_776": "clarity_nt_char_776"
+  },
+  "777": {
+    "悪夢の世界": "Nightmare World"
+  },
+  "778": {
+    "虚無の楼閣": "Void Tower"
+  },
+  "779": {
+    "グランマーズの館": "Gran Mars House"
+  },
+  "780": {
+    "clarity_nt_char_780": "clarity_nt_char_780"
+  },
+  "781": {
+    "<%sW_REP_MAX_2ND_F>ソーラリア峡谷": "<%sW_REP_MAX_2ND_F>Solaria Canyon"
+  },
+  "782": {
+    "clarity_nt_char_782": "clarity_nt_char_782"
+  },
+  "783": {
+    "<%sW_REP_MAX_2ND_F>古き神の遺跡": "<%sW_REP_MAX_2ND_F>Old God Ruins"
+  },
+  "784": {
+    "<%sW_REP_MAX_2ND_F>結界の間": "<%sW_REP_MAX_2ND_F>Barrier Hall"
+  },
+  "785": {
+    "スイのやしろ": "Sui Shrine"
+  },
+  "786": {
+    "clarity_nt_char_786": "clarity_nt_char_786"
+  },
+  "787": {
+    "竜族の隠れ里": "Hidden Dragon Town"
+  },
+  "788": {
+    "clarity_nt_char_788": "clarity_nt_char_788"
+  },
+  "789": {
+    "世界樹の頂": "World Tree Top"
+  },
+  "790": {
+    "ゴズ渓谷": "Goz Valley"
+  },
+  "791": {
+    "clarity_nt_char_791": "clarity_nt_char_791"
+  },
+  "792": {
+    "孤島の修道院": "Island Monastery"
+  },
+  "793": {
+    "clarity_nt_char_793": "clarity_nt_char_793"
+  },
+  "794": {
+    "ジュレイダ連塔遺跡": "Jureida Tower Remains"
+  },
+  "795": {
+    "未知なる工房": "Unknown Workshop"
+  },
+  "796": {
+    "clarity_nt_char_796": "clarity_nt_char_796"
+  },
+  "797": {
+    "ジャイラ密林": "Jyra Jungle"
+  },
+  "798": {
+    "clarity_nt_char_798": "clarity_nt_char_798"
+  },
+  "799": {
+    "妖精図書館": "Fairy Library"
+  },
+  "800": {
+    "夜の神殿": "Night Shrine"
+  },
+  "801": {
+    "clarity_nt_char_801": "clarity_nt_char_801"
+  },
+  "802": {
+    "深淵": "Ravine"
+  },
+  "803": {
+    "clarity_nt_char_803": "clarity_nt_char_803"
+  },
+  "804": {
+    "輪廻": "Reborn"
+  },
+  "805": {
+    "clarity_nt_char_805": "clarity_nt_char_805"
+  },
+  "806": {
+    "煙霧の谷": "Haze Valley"
+  },
+  "807": {
+    "clarity_nt_char_807": "clarity_nt_char_807"
+  },
+  "808": {
+    "聖夜の大広間": "Holy Night Hall"
+  },
+  "809": {
+    "clarity_nt_char_809": "clarity_nt_char_809"
+  },
+  "810": {
+    "聖夜のエントランス": "Holy Night Entrance"
+  },
+  "811": {
+    "謎の孤島": "Lonely Isle"
+  },
+  "812": {
+    "clarity_nt_char_812": "clarity_nt_char_812"
+  },
+  "813": {
+    "位相空間": "Phased Space"
+  },
+  "814": {
+    "clarity_nt_char_814": "clarity_nt_char_814"
+  },
+  "815": {
+    "雪夜の大広間": "Snowy Night Hall"
+  },
+  "816": {
+    "clarity_nt_char_816": "clarity_nt_char_816"
+  },
+  "817": {
+    "雪夜のエントランス": "Snowy Night Entrance"
+  },
+  "818": {
+    "知の城塞": "Knowledge C."
+  },
+  "819": {
+    "clarity_nt_char_819": "clarity_nt_char_819"
+  },
+  "820": {
+    "イーサの村": "Ether Village"
+  },
+  "821": {
+    "レモンハルト劇場": "Lemonhart Theatre"
+  },
+  "822": {
+    "clarity_nt_char_822": "clarity_nt_char_822"
+  },
+  "823": {
+    "とこしえの氷原": "Eternal Ice Field"
+  },
+  "824": {
+    "氷晶の聖塔": "Tower Of Ice"
+  },
+  "825": {
+    "<%sW_REP_MIN_2ND_F>レンダーシア上空": "<%sW_REP_MAX_2ND_F>Lendersia Skies"
+  },
+  "826": {
+    "悪夢団のアジト・中枢": "Nightmare Hideout Center"
+  },
+  "827": {
+    "clarity_nt_char_827": "clarity_nt_char_827"
+  },
+  "828": {
+    "試練の間": "Trial Room"
+  },
+  "829": {
+    "clarity_nt_char_829": "clarity_nt_char_829"
+  },
+  "830": {
+    "小さなほら穴": "Small Cave"
+  },
+  "831": {
+    "clarity_nt_char_831": "clarity_nt_char_831"
+  },
+  "832": {
+    "恵みの木": "Grace Tree"
+  },
+  "833": {
+    "clarity_nt_char_833": "clarity_nt_char_833"
+  },
+  "834": {
+    "アヴィーロ遺跡": "Aviro Ruins"
+  },
+  "835": {
+    "カーレルの氷雪洞": "Carrel Ice and Snow Cave"
+  },
+  "836": {
+    "clarity_nt_char_836": "clarity_nt_char_836"
+  },
+  "837": {
+    "洞くつ最深部": "Deepest Cave"
+  },
+  "838": {
+    "clarity_nt_char_838": "clarity_nt_char_838"
+  },
+  "839": {
+    "<%sW_REP_MAX_2ND_R>安住の地": "<%sW_REP_MAX_2ND_R>Quaint Area"
+  },
+  "840": {
+    "不思議の魔塔": "Mysterious Tower"
+  },
+  "841": {
+    "clarity_nt_char_841": "clarity_nt_char_841"
+  },
+  "842": {
+    "ブルーマリッジ島": "Blue Marriage Island"
+  },
+  "843": {
+    "clarity_nt_char_843": "clarity_nt_char_843"
+  },
+  "844": {
+    "冥府": "Hell"
+  },
+  "845": {
+    "clarity_nt_char_845": "clarity_nt_char_845"
+  },
+  "846": {
+    "テスト": "Test"
+  },
+  "847": {
+    "白霜の流氷野": "Frosty Ice Field"
+  },
+  "848": {
+    "clarity_nt_char_848": "clarity_nt_char_848"
+  },
+  "849": {
+    "クレーター地帯": "Crater Zone"
+  },
+  "850": {
+    "ムーンキャロット王国": "Moon Carrot Kingdom"
+  },
+  "851": {
+    "clarity_nt_char_851": "clarity_nt_char_851"
+  },
+  "852": {
+    "博士の実験空間": "Dr. Experiment Area"
+  },
+  "853": {
+    "カーラモーラ村": "Carlamora Village"
+  },
+  "854": {
+    "影の谷": "Dark Vale"
+  },
+  "855": {
+    "闇の辺獄": "Dark Edge"
+  },
+  "856": {
+    "clarity_nt_char_856": "clarity_nt_char_856"
+  },
+  "857": {
+    "エステラの部屋": "Estella's Room"
+  },
+  "858": {
+    "ピラミッド第二の霊廟": "Pyramid Tomb 2"
+  },
+  "859": {
+    "clarity_nt_char_859": "clarity_nt_char_859"
+  },
+  "860": {
+    "ピラミッド第三の霊廟": "Pyramid Tomb 3"
+  },
+  "861": {
+    "clarity_nt_char_861": "clarity_nt_char_861"
+  },
+  "862": {
+    "ピラミッド第四の霊廟": "Pyramid Tomb 4"
+  },
+  "863": {
+    "clarity_nt_char_863": "clarity_nt_char_863"
+  },
+  "864": {
+    "ピラミッド第五の霊廟": "Pyramid Tomb 5"
+  },
+  "865": {
+    "clarity_nt_char_865": "clarity_nt_char_865"
+  },
+  "866": {
+    "ピラミッド第六の霊廟": "Pyramid Tomb 6"
+  },
+  "867": {
+    "clarity_nt_char_867": "clarity_nt_char_867"
+  },
+  "868": {
+    "ピラミッド第七の霊廟": "Pyramid Tomb 7"
+  },
+  "869": {
+    "clarity_nt_char_869": "clarity_nt_char_869"
+  },
+  "870": {
+    "ピラミッド第八の霊廟": "Pyramid Tomb 8"
+  },
+  "871": {
+    "clarity_nt_char_871": "clarity_nt_char_871"
+  },
+  "872": {
+    "ピラミッド第九の霊廟": "Pyramid Tomb 9"
+  },
+  "873": {
+    "clarity_nt_char_873": "clarity_nt_char_873"
+  },
+  "874": {
+    "ピラミッド霊廟": "Pyramid Tomb"
+  },
+  "875": {
+    "ムストの町・地下": "Must Underground"
+  },
+  "876": {
+    "clarity_nt_char_876": "clarity_nt_char_876"
+  },
+  "877": {
+    "神獣の森": "Beast God F."
+  },
+  "878": {
+    "clarity_nt_char_878": "clarity_nt_char_878"
+  },
+  "879": {
+    "楽園へ至る間": "Road To Utopia"
+  },
+  "880": {
+    "clarity_nt_char_880": "clarity_nt_char_880"
+  },
+  "881": {
+    "楽園": "Utopia"
+  },
+  "882": {
+    "clarity_nt_char_882": "clarity_nt_char_882"
+  },
+  "883": {
+    "冥闇の聖塔": "Holy Dark Tower"
+  },
+  "884": {
+    "竜鱗のまゆ": "D. Scale Brow"
+  },
+  "885": {
+    "浄月の間": "FullmoonHall"
+  },
+  "886": {
+    "clarity_nt_char_886": "clarity_nt_char_886"
+  },
+  "887": {
+    "海底都市ルシュカ": "City of Ruska"
+  },
+  "888": {
+    "clarity_nt_char_888": "clarity_nt_char_888"
+  },
+  "889": {
+    "カシャル海底神殿": "Kashar Submarine Temple"
+  },
+  "890": {
+    "clarity_nt_char_890": "clarity_nt_char_890"
+  },
+  "891": {
+    "オーフィーヌの海": "The Sea of Orfine"
+  },
+  "892": {
+    "clarity_nt_char_892": "clarity_nt_char_892"
+  },
+  "893": {
+    "オーフィーヌ海底": "Orfine Undersea"
+  },
+  "894": {
+    "clarity_nt_char_894": "clarity_nt_char_894"
+  },
+  "895": {
+    "ガイオス古海": "Gaios Old Sea"
+  },
+  "896": {
+    "clarity_nt_char_896": "clarity_nt_char_896"
+  },
+  "897": {
+    "深海のほこら": "Deep Sea Shrine"
+  },
+  "898": {
+    "clarity_nt_char_898": "clarity_nt_char_898"
+  },
+  "899": {
+    "天水の聖塔": "Rain Holy Tower"
+  },
+  "900": {
+    "ブオーンの体内": "Inside Bjorn"
+  },
+  "901": {
+    "ギアラの間": "Giara Place"
+  },
+  "902": {
+    "謎の島": "Island"
+  },
+  "903": {
+    "ボルターのかばん工房": "Bolter's Bag Studio"
+  },
+  "904": {
+    "clarity_nt_char_904": "clarity_nt_char_904"
+  },
+  "905": {
+    "ラッカラン住宅村": "Luckland Residences"
+  },
+  "906": {
+    "clarity_nt_char_906": "clarity_nt_char_906"
+  },
+  "907": {
+    "邪神の宮殿": "Evil God Palace"
+  },
+  "908": {
+    "赤柱の間・一獄": "Red Pillar Prison 1"
+  },
+  "909": {
+    "封剣の門・一獄": "Sword Gate 1st Prison"
+  },
+  "910": {
+    "<%sW_REP_MAX_2ND_R>玉座の間": "<%sW_REP_MAX_2ND_R>Throne Hall"
+  },
+  "911": {
+    "秘密の宝物庫": "Secret Treasure H."
+  },
+  "912": {
+    "clarity_nt_char_912": "clarity_nt_char_912"
+  },
+  "913": {
+    "アスフェルド学園": "Asfeld Academy"
+  },
+  "914": {
+    "clarity_nt_char_914": "clarity_nt_char_914"
+  },
+  "915": {
+    "アスフェルド学園駅": "Asfeld Academy Station"
+  },
+  "916": {
+    "グランゼドーラ駅": "Gran Zedora Station"
+  },
+  "917": {
+    "clarity_nt_char_917": "clarity_nt_char_917"
+  },
+  "918": {
+    "封印の異界": "Diff.World Seal"
+  },
+  "919": {
+    "四重の封空": "Quadruple Seal"
+  },
+  "920": {
+    "封剣の門・二獄": "Sword Gate 2nd Prison"
+  },
+  "921": {
+    "封剣の門・三獄": "Sword Gate 3rd Prison"
+  },
+  "922": {
+    "赤柱の間・二獄": "Red Pillar Prison 2"
+  },
+  "923": {
+    "赤柱の間・三獄": "Red Pillar Prison 3"
+  },
+  "924": {
+    "第一本校舎": "M. School Bldg."
+  },
+  "925": {
+    "購買部・食堂": "Housing Cafe"
+  },
+  "926": {
+    "clarity_nt_char_926": "clarity_nt_char_926"
+  },
+  "927": {
+    "屋上": "Roof"
+  },
+  "928": {
+    "clarity_nt_char_928": "clarity_nt_char_928"
+  },
+  "929": {
+    "武道場": "Dojo"
+  },
+  "930": {
+    "校庭": "Campus"
+  },
+  "931": {
+    "clarity_nt_char_931": "clarity_nt_char_931"
+  },
+  "932": {
+    "講堂": "Audito"
+  },
+  "933": {
+    "clarity_nt_char_933": "clarity_nt_char_933"
+  },
+  "934": {
+    "菜園": "Garden"
+  },
+  "935": {
+    "clarity_nt_char_935": "clarity_nt_char_935"
+  },
+  "936": {
+    "飼育小屋": "Stable"
+  },
+  "937": {
+    "clarity_nt_char_937": "clarity_nt_char_937"
+  },
+  "938": {
+    "第二本校舎": "S. School Bldg."
+  },
+  "939": {
+    "旧校舎": "OldSchool"
+  },
+  "940": {
+    "祈望館": "Prayer H."
+  },
+  "941": {
+    "願いの想域": "Wishing Realm"
+  },
+  "942": {
+    "通学路": "School"
+  },
+  "943": {
+    "静寂の泉": "Quiet Spring"
+  },
+  "944": {
+    "clarity_nt_char_944": "clarity_nt_char_944"
+  },
+  "945": {
+    "守りの部屋": "Room of Defense"
+  },
+  "946": {
+    "集会所": "Clubhouse"
+  },
+  "947": {
+    "ムストの町": "Town of Must"
+  },
+  "948": {
+    "迅雷の丘": "Thunder Hill"
+  },
+  "949": {
+    "clarity_nt_char_949": "clarity_nt_char_949"
+  },
+  "950": {
+    "天ツ風の原": "Heavenly Field"
+  },
+  "951": {
+    "翠嵐の聖塔": "Storm Tower"
+  },
+  "952": {
+    "ビタースイーツゾーン": "Bittersweets Zone"
+  },
+  "953": {
+    "clarity_nt_char_953": "clarity_nt_char_953"
+  },
+  "954": {
+    "暗黒空間Ｚ": "Dark Space Z"
+  },
+  "955": {
+    "個人テスト（TOSHIMIT）": "Personal Test TOSHIMIT）"
+  },
+  "956": {
+    "<%sW_REP_MAX_4TH_P>王都キィンベル": "<%sW_REP_MAX_4TH_P>Royal City Kimbel"
+  },
+  "957": {
+    "clarity_nt_char_957": "clarity_nt_char_957"
+  },
+  "958": {
+    "ドミネウス邸": "Domineus Mansion"
+  },
+  "959": {
+    "clarity_nt_char_959": "clarity_nt_char_959"
+  },
+  "960": {
+    "<%sW_REP_MAX_4TH_P>辺境警備隊詰所": "<%sW_REP_MAX_4TH_P>Frontier Guard Post"
+  },
+  "961": {
+    "clarity_nt_char_961": "clarity_nt_char_961"
+  },
+  "962": {
+    "竜王の城": "Dgnlrd Cstl."
+  },
+  "963": {
+    "clarity_nt_char_963": "clarity_nt_char_963"
+  },
+  "964": {
+    "神墟ナドラグラム": "Nadragam Shrine"
+  },
+  "965": {
+    "clarity_nt_char_965": "clarity_nt_char_965"
+  },
+  "966": {
+    "封剣の門・四獄": "Sword Gate 4th Prison"
+  },
+  "967": {
+    "赤柱の間・四獄": "Red Pillar Prison 4"
+  },
+  "968": {
+    "竜神の柩": "D. K. Coffin"
+  },
+  "969": {
+    "clarity_nt_char_969": "clarity_nt_char_969"
+  },
+  "970": {
+    "<%sW_REP_MAX_4TH_P>バントリユ地方": "<%sW_REP_MAX_4TH_P>Bantryu Region"
+  },
+  "971": {
+    "clarity_nt_char_971": "clarity_nt_char_971"
+  },
+  "972": {
+    "<%sW_REP_MAX_4TH_P>エテーネ王国領": "Old Ethene Kingdom Area"
+  },
+  "973": {
+    "clarity_nt_char_973": "clarity_nt_char_973"
+  },
+  "974": {
+    "<%sW_REP_MAX_4TH_P>ティプローネ高地": "<%sW_REP_MAX_4TH_P>Tiplone Highlands"
+  },
+  "975": {
+    "幽遠の牢獄": "Ghost Prison"
+  },
+  "976": {
+    "神鏡の間": "God Mirrors"
+  },
+  "977": {
+    "clarity_nt_char_977": "clarity_nt_char_977"
+  },
+  "978": {
+    "<%sW_REP_MAX_4TH_P>ラウラリエの丘": "<%sW_REP_MAX_4TH_P>Laurarie Hill"
+  },
+  "979": {
+    "clarity_nt_char_979": "clarity_nt_char_979"
+  },
+  "980": {
+    "<%sW_REP_MAX_4TH_P>星落ちる谷": "<%sW_REP_MAX_4TH_P>Starfall Valley"
+  },
+  "981": {
+    "clarity_nt_char_981": "clarity_nt_char_981"
+  },
+  "982": {
+    "竜神の世界": "Drg. God World"
+  },
+  "983": {
+    "竜神の座": "Drg. K. Seat"
+  },
+  "984": {
+    "clarity_nt_char_984": "clarity_nt_char_984"
+  },
+  "985": {
+    "迎春の間": "New Year R"
+  },
+  "986": {
+    "clarity_nt_char_986": "clarity_nt_char_986"
+  },
+  "987": {
+    "終末の風景（CS用）": "Doomsday's View (CS only)"
+  },
+  "988": {
+    "clarity_nt_char_988": "clarity_nt_char_988"
+  },
+  "989": {
+    "<%sW_REP_MAX_4TH_P>パドレア邸": "<%sW_REP_MAX_4TH_P>Padrea Mansion"
+  },
+  "990": {
+    "clarity_nt_char_990": "clarity_nt_char_990"
+  },
+  "991": {
+    "<%sW_REP_MAX_4TH_P>王国軍司令部": "<%sW_REP_MAX_4TH_P>Kingdom Army HQ"
+  },
+  "992": {
+    "<%sW_REP_MAX_4TH_P>辺境のほら穴": "<%sW_REP_MAX_4TH_P>Frontier Den"
+  },
+  "993": {
+    "エテーネ王宮": "Ethene Royal Manor"
+  },
+  "994": {
+    "clarity_nt_char_994": "clarity_nt_char_994"
+  },
+  "995": {
+    "御前広場": "Imp. Plaza"
+  },
+  "996": {
+    "clarity_nt_char_996": "clarity_nt_char_996"
+  },
+  "997": {
+    "紫のほこら": "Purple Shrine"
+  },
+  "998": {
+    "黄昏の詩人の舞台": "Twilight Poet's Stage"
+  },
+  "999": {
+    "clarity_nt_char_999": "clarity_nt_char_999"
+  },
+  "1000": {
+    "詩人の舞台・控室": "Min's Stage Waiting Room"
+  },
+  "1001": {
+    "clarity_nt_char_1001": "clarity_nt_char_1001"
+  },
+  "1002": {
+    "<%sW_REP_MAX_4TH_P>王国軍区画": "<%sW_REP_MAX_4TH_P>Kingdom Army"
+  },
+  "1003": {
+    "clarity_nt_char_1003": "clarity_nt_char_1003"
+  },
+  "1004": {
+    "アシッドテンプル": "Acid Temple"
+  },
+  "1005": {
+    "clarity_nt_char_1005": "clarity_nt_char_1005"
+  },
+  "1006": {
+    "冒険者ゼミナール会場": "Adventure Seminar Venue"
+  },
+  "1007": {
+    "clarity_nt_char_1007": "clarity_nt_char_1007"
+  },
+  "1008": {
+    "精霊の間": "Spirit Hall"
+  },
+  "1009": {
+    "clarity_nt_char_1009": "clarity_nt_char_1009"
+  },
+  "1010": {
+    "湖の遺跡": "Lake Ruins"
+  },
+  "1011": {
+    "clarity_nt_char_1011": "clarity_nt_char_1011"
+  },
+  "1012": {
+    "異界校舎": "Alien School"
+  },
+  "1013": {
+    "clarity_nt_char_1013": "clarity_nt_char_1013"
+  },
+  "1014": {
+    "古グランゼドーラ王国": "Old Gran Zedora Kingdom"
+  },
+  "1015": {
+    "clarity_nt_char_1015": "clarity_nt_char_1015"
+  },
+  "1016": {
+    "古グランゼドーラ城": "Old Gran Zedora Castle"
+  },
+  "1017": {
+    "異界校舎2": "Alien School2"
+  },
+  "1018": {
+    "大神殿・地下": "Great Temple Under"
+  },
+  "1019": {
+    "clarity_nt_char_1019": "clarity_nt_char_1019"
+  },
+  "1020": {
+    "不死の魔王城": "Demon King Castle"
+  },
+  "1021": {
+    "clarity_nt_char_1021": "clarity_nt_char_1021"
+  },
+  "1022": {
+    "<%sW_REP_MAX_4TH_P>残響の海蝕洞": "<%sW_REP_MAX_4TH_P>Echoing Sea Cave"
+  },
+  "1023": {
+    "断罪の記憶": "Absolute Memo"
+  },
+  "1024": {
+    "古グランゼドーラ領": "Old Gran Zedora Region"
+  },
+  "1025": {
+    "古ロヴォス高地": "Old Rovos Highlands"
+  },
+  "1026": {
+    "エントランス": "Entrance"
+  },
+  "1027": {
+    "clarity_nt_char_1027": "clarity_nt_char_1027"
+  },
+  "1028": {
+    "イル・ラビリンス": "Il Maze"
+  },
+  "1029": {
+    "clarity_nt_char_1029": "clarity_nt_char_1029"
+  },
+  "1030": {
+    "デス・ジャンクション": "Death Junction"
+  },
+  "1031": {
+    "clarity_nt_char_1031": "clarity_nt_char_1031"
+  },
+  "1032": {
+    "ほこらの祭祀場・炎": "Flame Shrine Ritual Ground"
+  },
+  "1033": {
+    "ほこらの祭祀場・嵐": "Storm Shrine Ritual Ground"
+  },
+  "1034": {
+    "ほこらの祭祀場・水": "Water Shrine Ritual Ground"
+  },
+  "1035": {
+    "ほこらの祭祀場・闇": "Dark Shrine Ritual Ground"
+  },
+  "1036": {
+    "ほこらの祭祀場・氷": "Ice Shrine Ritual Ground"
+  },
+  "1037": {
+    "空の原点": "Sky's Origin"
+  },
+  "1038": {
+    "clarity_nt_char_1038": "clarity_nt_char_1038"
+  },
+  "1039": {
+    "海冥の彼岸": "Sea Shore"
+  },
+  "1040": {
+    "幻の海トラシュカ": "Phantom Sea Trashka"
+  },
+  "1041": {
+    "clarity_nt_char_1041": "clarity_nt_char_1041"
+  },
+  "1042": {
+    "リンクスのオフィス": "Lynx's Office"
+  },
+  "1043": {
+    "終着の星域": "End Star Area"
+  },
+  "1044": {
+    "バトル班用テストマップ（獅子門）": "Team Battle Map Test (Lion Gate)"
+  },
+  "1045": {
+    "clarity_nt_char_1045": "clarity_nt_char_1045"
+  },
+  "1046": {
+    "恵みの園": "Grace Yard"
+  },
+  "1047": {
+    "clarity_nt_char_1047": "clarity_nt_char_1047"
+  },
+  "1048": {
+    "廃墟のドミネウス邸": "Abandoned Domineus Mansion"
+  },
+  "1049": {
+    "翠嵐の聖塔・外周": "Storm Tower Outer Area"
+  },
+  "1050": {
+    "clarity_nt_char_1050": "clarity_nt_char_1050"
+  },
+  "1051": {
+    "クイーンディオーレ号": "Queen Diore"
+  },
+  "1052": {
+    "clarity_nt_char_1052": "clarity_nt_char_1052"
+  },
+  "1053": {
+    "時見の祭壇": "Altar of Time"
+  },
+  "1054": {
+    "時見の神殿": "Temple of Time"
+  },
+  "1055": {
+    "王立アルケミア": "Royal Alchemia"
+  },
+  "1056": {
+    "最終処分場": "Landfill Site"
+  },
+  "1057": {
+    "滝の裏の洞くつ": "Waterfall Cave"
+  },
+  "1058": {
+    "灯台のアジト": "Lighthouse HQ"
+  },
+  "1059": {
+    "clarity_nt_char_1059": "clarity_nt_char_1059"
+  },
+  "1060": {
+    "神儀の護堂": "Guardian's Hall"
+  },
+  "1061": {
+    "カーニバル広場": "Carnival Square"
+  },
+  "1062": {
+    "荒廃したレンダーヒルズ": "Lender Hills in Ruins"
+  },
+  "1063": {
+    "欲望の大浴場": "Bath Of Desire"
+  },
+  "1064": {
+    "clarity_nt_char_1064": "clarity_nt_char_1064"
+  },
+  "1065": {
+    "魑魅魍魎の洞": "Chimimoryo Cave"
+  },
+  "1066": {
+    "clarity_nt_char_1066": "clarity_nt_char_1066"
+  },
+  "1067": {
+    "千夜嵐の目": "Storm Eye"
+  },
+  "1068": {
+    "バトエンコロシアム": "Batoen Colosseum"
+  },
+  "1069": {
+    "陽衆の隠れ家": "Yangshuo's Hideout"
+  },
+  "1070": {
+    "clarity_nt_char_1070": "clarity_nt_char_1070"
+  },
+  "1071": {
+    "<%sW_REP_MAX_4TH_P>自由人の集落": "<%sW_REP_MAX_4TH_P>Freedom Village"
+  },
+  "1072": {
+    "大会控え室": "Tournament Wait"
+  },
+  "1073": {
+    "新エテーネの村": "New Ethene Village"
+  },
+  "1074": {
+    "<%sW_REP_MAX_2ND_R>資料室": "<%sW_REP_MAX_2ND_R>Data Room"
+  },
+  "1075": {
+    "clarity_nt_char_1075": "clarity_nt_char_1075"
+  },
+  "1076": {
+    "<%sW_REP_MAX_2ND_F>資料室": "<%sW_REP_MAX_2ND_F>Data Room"
+  },
+  "1077": {
+    "clarity_nt_char_1077": "clarity_nt_char_1077"
+  },
+  "1078": {
+    "アレフガルド": "Alefgard"
+  },
+  "1079": {
+    "clarity_nt_char_1079": "clarity_nt_char_1079"
+  },
+  "1080": {
+    "ゾーマの城": "Zoma's Castle"
+  },
+  "1081": {
+    "ルイーダの酒場": "Luida's Bar"
+  },
+  "1082": {
+    "メレアーデの部屋": "Mereade's Room"
+  },
+  "1083": {
+    "clarity_nt_char_1083": "clarity_nt_char_1083"
+  },
+  "1084": {
+    "ヴィスタリア姫の部屋": "Princess Vistaria's Room"
+  },
+  "1085": {
+    "clarity_nt_char_1085": "clarity_nt_char_1085"
+  },
+  "1086": {
+    "先進研究区画": "Adv. Research Area"
+  },
+  "1087": {
+    "clarity_nt_char_1087": "clarity_nt_char_1087"
+  },
+  "1088": {
+    "オルセコ闘技城": "Orseco Combat Castle"
+  },
+  "1089": {
+    "剣闘の間": "Battle Hall"
+  },
+  "1090": {
+    "clarity_nt_char_1090": "clarity_nt_char_1090"
+  },
+  "1091": {
+    "辺境の雪山": "Snowy Mountain"
+  },
+  "1092": {
+    "雄峰ランドン": "Landon Peak"
+  },
+  "1093": {
+    "clarity_nt_char_1093": "clarity_nt_char_1093"
+  },
+  "1094": {
+    "オルセコ王家の墓": "Orseco Royal Tomb"
+  },
+  "1095": {
+    "clarity_nt_char_1095": "clarity_nt_char_1095"
+  },
+  "1096": {
+    "オルの船着き場": "Oru's Dock"
+  },
+  "1097": {
+    "オルセコ王国領": "Orseco Kingdom Region"
+  },
+  "1098": {
+    "雪虫の洞くつ": "Cave of Snow Worm"
+  },
+  "1099": {
+    "clarity_nt_char_1099": "clarity_nt_char_1099"
+  },
+  "1100": {
+    "太古の氷穴": "Old Ice Cavern"
+  },
+  "1101": {
+    "黄昏岬": "Cape Dusk"
+  },
+  "1102": {
+    "獅子門・難民キャンプ": "Lion Gate Refugee Camp"
+  },
+  "1103": {
+    "clarity_nt_char_1103": "clarity_nt_char_1103"
+  },
+  "1104": {
+    "鬼岩城": "Evil Rock"
+  },
+  "1105": {
+    "雷食い鳥の玉座": "Thunder Bird's Throne"
+  },
+  "1106": {
+    "戦神の宮殿": "War God Palace"
+  },
+  "1107": {
+    "ドランド平原": "Drand Plains"
+  },
+  "1108": {
+    "clarity_nt_char_1108": "clarity_nt_char_1108"
+  },
+  "1109": {
+    "ダズの船着き場": "Daz Pier"
+  },
+  "1110": {
+    "守護竜のねぐら": "Dragon Lair Guardian"
+  },
+  "1111": {
+    "選王の儀礼場": "King's Ceremony"
+  },
+  "1112": {
+    "clarity_nt_char_1112": "clarity_nt_char_1112"
+  },
+  "1113": {
+    "オルセコ闘技城・舞台": "Orseco Combat Castle - Stage"
+  },
+  "1114": {
+    "clarity_nt_char_1114": "clarity_nt_char_1114"
+  },
+  "1115": {
+    "<%sW_REP_MAX_4TH_P>廃棄場": "<%sW_REP_MAX_4TH_P>Disposal"
+  },
+  "1116": {
+    "clarity_nt_char_1116": "clarity_nt_char_1116"
+  },
+  "1117": {
+    "チェス・ボード": "Chess Board"
+  },
+  "1118": {
+    "作戦待機所": "Tactics Standby"
+  },
+  "1119": {
+    "創世の樹の根元": "Tree Creation Root"
+  },
+  "1120": {
+    "創世の樹の頂": "Tree Creation Top"
+  },
+  "1121": {
+    "clarity_nt_char_1121": "clarity_nt_char_1121"
+  },
+  "1122": {
+    "古レビュール街道南": "Old Reviewle Highway South"
+  },
+  "1123": {
+    "古レビュール街道北": "Old Reviewle Highway North"
+  },
+  "1124": {
+    "樹天の里": "Treetop Town"
+  },
+  "1125": {
+    "clarity_nt_char_1125": "clarity_nt_char_1125"
+  },
+  "1126": {
+    "いにしえのゼルメア": "Ancient Zelmea"
+  },
+  "1127": {
+    "謎の遺跡島": "Ruins Island"
+  },
+  "1128": {
+    "バットエンド司令部": "Bat End Command"
+  },
+  "1129": {
+    "摩天の聖廟": "Sky Tomb"
+  },
+  "1130": {
+    "聖護の結界・紫": "Guardian Ward Purple"
+  },
+  "1131": {
+    "不死の魔王の間": "Demon King Hall"
+  },
+  "1132": {
+    "幻影のドミネウス邸": "Domineus Illusion Mansion"
+  },
+  "1133": {
+    "鍛竜の洞": "Forge D Cave"
+  },
+  "1134": {
+    "clarity_nt_char_1134": "clarity_nt_char_1134"
+  },
+  "1135": {
+    "森の洞くつ": "Forest Cave"
+  },
+  "1136": {
+    "リンクスの工場": "Lynx's Factory"
+  },
+  "1137": {
+    "ガタラ大山林": "Gatara Mtn. Forest"
+  },
+  "1138": {
+    "clarity_nt_char_1138": "clarity_nt_char_1138"
+  },
+  "1139": {
+    "カルデア溶岩帯": "Chaldea Lava Belt"
+  },
+  "1140": {
+    "ダラズ大鉱脈": "Daraz Large Vein"
+  },
+  "1141": {
+    "clarity_nt_char_1141": "clarity_nt_char_1141"
+  },
+  "1142": {
+    "古グルグ地下道": "Old Gulug Underpass"
+  },
+  "1143": {
+    "古悪鬼の棲みか": "Old Home of Demons?"
+  },
+  "1144": {
+    "<%sW_REP_MAX_4TH_P>王家の温室": "<%sW_REP_MAX_4TH_P>Royal Hothouse"
+  },
+  "1145": {
+    "clarity_nt_char_1145": "clarity_nt_char_1145"
+  },
+  "1146": {
+    "いろいろ検証用": "Various Verifications"
+  },
+  "1147": {
+    "ウルベア地下帝国": "Urbea Underground City"
+  },
+  "1148": {
+    "clarity_nt_char_1148": "clarity_nt_char_1148"
+  },
+  "1149": {
+    "ウルベア帝国城": "Urbea Imperial Keep"
+  },
+  "1150": {
+    "古防砂ダム・展望台": "Old Sand Dam Observatory"
+  },
+  "1151": {
+    "防砂ダム・展望台": "Sand Dam Observatory"
+  },
+  "1152": {
+    "clarity_nt_char_1152": "clarity_nt_char_1152"
+  },
+  "1153": {
+    "古ガリアル洞": "Old Galial Cave"
+  },
+  "1154": {
+    "clarity_nt_char_1154": "clarity_nt_char_1154"
+  },
+  "1155": {
+    "流砂の遺跡": "Quicksand Ruins"
+  },
+  "1156": {
+    "帝国技術庁・第二庁舎": "Imperial Tech Agency Bldg. 2"
+  },
+  "1157": {
+    "clarity_nt_char_1157": "clarity_nt_char_1157"
+  },
+  "1158": {
+    "帝国技術庁・第一庁舎": "Imperial Tech Agency Bldg. 1"
+  },
+  "1159": {
+    "clarity_nt_char_1159": "clarity_nt_char_1159"
+  },
+  "1160": {
+    "古王家の墓": "Old Royal Tomb"
+  },
+  "1161": {
+    "バトル班用テストマップ(ツスクル）": "Team Battle Map Test (Tsusukuru)"
+  },
+  "1162": {
+    "カルデア山道のアジト": "Chaldea Mountain Road Hideout"
+  },
+  "1163": {
+    "clarity_nt_char_1163": "clarity_nt_char_1163"
+  },
+  "1164": {
+    "カルデア山道の横穴": "Chaldea Mtn. Road Side Hole"
+  },
+  "1165": {
+    "霊獣の古戦場": "Beast Battlefield"
+  },
+  "1166": {
+    "clarity_nt_char_1166": "clarity_nt_char_1166"
+  },
+  "1167": {
+    "北の洞くつ": "North Cave"
+  },
+  "1168": {
+    "水神の湖": "Lake Of God"
+  },
+  "1169": {
+    "clarity_nt_char_1169": "clarity_nt_char_1169"
+  },
+  "1170": {
+    "自然遺産保護区": "Heritage Reserve"
+  },
+  "1171": {
+    "宇宙船・立入禁止区画": "Spacecraft - Exclusion Zone"
+  },
+  "1172": {
+    "clarity_nt_char_1172": "clarity_nt_char_1172"
+  },
+  "1173": {
+    "管理棟・冷眠室": "Admin Bldg. Cold Room"
+  },
+  "1174": {
+    "管理棟・動力室": "Admin Bldg. Pwr. Room"
+  },
+  "1175": {
+    "アルウェーン管理棟": "Alwane Admin Building"
+  },
+  "1176": {
+    "パルミオの研究所": "Palmio's Laboratory"
+  },
+  "1177": {
+    "clarity_nt_char_1177": "clarity_nt_char_1177"
+  },
+  "1178": {
+    "エピステーサ底なし穴": "Epistesa Bottomless Pit"
+  },
+  "1179": {
+    "clarity_nt_char_1179": "clarity_nt_char_1179"
+  },
+  "1180": {
+    "魔瘴調査区画": "Demon Miasma Sect."
+  },
+  "1181": {
+    "clarity_nt_char_1181": "clarity_nt_char_1181"
+  },
+  "1182": {
+    "記憶のパドレア邸": "Memory of Padrea Mansion"
+  },
+  "1183": {
+    "clarity_nt_char_1183": "clarity_nt_char_1183"
+  },
+  "1184": {
+    "時空の狭間": "Space-Time Gap"
+  },
+  "1185": {
+    "灼熱の溶岩窟": "Burning Lava Cave"
+  },
+  "1186": {
+    "clarity_nt_char_1186": "clarity_nt_char_1186"
+  },
+  "1187": {
+    "ガミルゴの盾島": "Gamilgo Shield Island"
+  },
+  "1188": {
+    "隠しオフィス": "Hidden Office"
+  },
+  "1189": {
+    "clarity_nt_char_1189": "clarity_nt_char_1189"
+  },
+  "1190": {
+    "遊びハウス": "Playhouse"
+  },
+  "1191": {
+    "採石場・最深部": "Quarry Deepest Level"
+  },
+  "1192": {
+    "バルディスタ城": "Valdista Castle"
+  },
+  "1193": {
+    "閃光の神殿": "Flash Temple"
+  },
+  "1194": {
+    "工匠神の間": "Craft-God Room"
+  },
+  "1195": {
+    "モグラの洞くつ": "Mogura Cave"
+  },
+  "1196": {
+    "カルデア空洞": "Chaldea Cavity"
+  },
+  "1197": {
+    "clarity_nt_char_1197": "clarity_nt_char_1197"
+  },
+  "1198": {
+    "ベルヴァインの森西": "Belvain Forest West"
+  },
+  "1199": {
+    "バルディア山岳地帯": "Valdia Mountain Area"
+  },
+  "1200": {
+    "ジャリムバハ砂漠": "Jyarimbaha Desert"
+  },
+  "1201": {
+    "clarity_nt_char_1201": "clarity_nt_char_1201"
+  },
+  "1202": {
+    "ゲルヘナ幻野": "Gerhena Field"
+  },
+  "1203": {
+    "clarity_nt_char_1203": "clarity_nt_char_1203"
+  },
+  "1204": {
+    "ゼクレス魔導国": "Zechres"
+  },
+  "1205": {
+    "バルディスタ要塞": "Fortress Valdista"
+  },
+  "1206": {
+    "clarity_nt_char_1206": "clarity_nt_char_1206"
+  },
+  "1207": {
+    "砂の都ファラザード": "Sand City Farazard"
+  },
+  "1208": {
+    "アルウェーンの町": "Alwane Town"
+  },
+  "1209": {
+    "clarity_nt_char_1209": "clarity_nt_char_1209"
+  },
+  "1210": {
+    "マデ神殿": "Made Temple"
+  },
+  "1211": {
+    "clarity_nt_char_1211": "clarity_nt_char_1211"
+  },
+  "1212": {
+    "時見の泉": "Life Spring"
+  },
+  "1213": {
+    "clarity_nt_char_1213": "clarity_nt_char_1213"
+  },
+  "1214": {
+    "ゼクレス城・宝物庫": "Zechres Castle - Treasure"
+  },
+  "1215": {
+    "ジャディンの園": "Jyadain Garden"
+  },
+  "1216": {
+    "ゴダ神殿": "Goda Temple"
+  },
+  "1217": {
+    "clarity_nt_char_1217": "clarity_nt_char_1217"
+  },
+  "1218": {
+    "滅神の獄": "God's Prison"
+  },
+  "1219": {
+    "clarity_nt_char_1219": "clarity_nt_char_1219"
+  },
+  "1220": {
+    "ゴミ処理場": "Garbage Plant"
+  },
+  "1221": {
+    "BGMテスト同期部屋": "BGM sync test room"
+  },
+  "1222": {
+    "clarity_nt_char_1222": "clarity_nt_char_1222"
+  },
+  "1223": {
+    "BGMテストボス部屋": "BGM boss test room"
+  },
+  "1224": {
+    "clarity_nt_char_1224": "clarity_nt_char_1224"
+  },
+  "1225": {
+    "大審門": "Demongate"
+  },
+  "1226": {
+    "封剣の門・天獄": "Sword Gate Heaven"
+  },
+  "1227": {
+    "赤柱の間・天獄": "Red Pillar Sky Prison"
+  },
+  "1228": {
+    "<%sW_REP_MAX_4TH_P>黒曜の隕石孔": "<%sW_REP_MAX_4TH_P>Meteorite Hole"
+  },
+  "1229": {
+    "マイタウン海辺の村": "My Town Seaside Village"
+  },
+  "1230": {
+    "やまざこの町": "Yamazako Town"
+  },
+  "1231": {
+    "clarity_nt_char_1231": "clarity_nt_char_1231"
+  },
+  "1232": {
+    "封鎖された研究室": "The Sealed Lab"
+  },
+  "1233": {
+    "clarity_nt_char_1233": "clarity_nt_char_1233"
+  },
+  "1234": {
+    "アストルティア博物館": "Astoltia Museum"
+  },
+  "1235": {
+    "clarity_nt_char_1235": "clarity_nt_char_1235"
+  },
+  "1236": {
+    "バトル班用テストマップ（いにしえのゼルメア）": "Team Battle Map Test (Ancient Zelmea)"
+  },
+  "1237": {
+    "clarity_nt_char_1237": "clarity_nt_char_1237"
+  },
+  "1238": {
+    "ファラザード城": "Farazard Castle"
+  },
+  "1239": {
+    "王都キィンベル": "Royal City Kimbel"
+  },
+  "1240": {
+    "終末の風景": "Doomsday's View"
+  },
+  "1241": {
+    "久遠の神殿": "Eternity Temple"
+  },
+  "1242": {
+    "揺籃の祭壇": "Cradle Altar"
+  },
+  "1243": {
+    "時獄の迷宮": "Time Prison"
+  },
+  "1244": {
+    "<%sW_REP_MAX_4TH_C>残響の海蝕洞": "Echoing Sea Cave"
+  },
+  "1245": {
+    "<%sW_REP_MAX_4TH_C>廃棄場": "Disposal"
+  },
+  "1246": {
+    "clarity_nt_char_1246": "clarity_nt_char_1246"
+  },
+  "1247": {
+    "<%sW_REP_MAX_4TH_C>ティプローネ高地": "Tiplone Highlands"
+  },
+  "1248": {
+    "<%sW_REP_MAX_4TH_C>ラウラリエの丘": "Laurarie Hill"
+  },
+  "1249": {
+    "clarity_nt_char_1249": "clarity_nt_char_1249"
+  },
+  "1250": {
+    "<%sW_REP_MAX_4TH_C>王家の温室": "Royal Hothouse"
+  },
+  "1251": {
+    "clarity_nt_char_1251": "clarity_nt_char_1251"
+  },
+  "1252": {
+    "<%sW_REP_MAX_4TH_C>黒曜の隕石孔": "Meteorite Hole"
+  },
+  "1253": {
+    "<%sW_REP_MAX_4TH_C>王都キィンベル": "Royal City Kimbel"
+  },
+  "1254": {
+    "clarity_nt_char_1254": "clarity_nt_char_1254"
+  },
+  "1255": {
+    "<%sW_REP_MAX_4TH_C>パドレア邸": "Padrea Mansion"
+  },
+  "1256": {
+    "clarity_nt_char_1256": "clarity_nt_char_1256"
+  },
+  "1257": {
+    "<%sW_REP_MAX_4TH_C>王国軍区画": "Kingdom Army"
+  },
+  "1258": {
+    "clarity_nt_char_1258": "clarity_nt_char_1258"
+  },
+  "1259": {
+    "<%sW_REP_MAX_4TH_C>王国軍司令部": "Kingdom Army HQ"
+  },
+  "1260": {
+    "<%sW_REP_MAX_4TH_C>辺境警備隊詰所": "Frontier Guard Post"
+  },
+  "1261": {
+    "clarity_nt_char_1261": "clarity_nt_char_1261"
+  },
+  "1262": {
+    "<%sW_REP_MAX_4TH_C>自由人の集落": "Freedom Village"
+  },
+  "1263": {
+    "<%sW_REP_MAX_4TH_C>星落ちる谷": "Starfall Valley"
+  },
+  "1264": {
+    "clarity_nt_char_1264": "clarity_nt_char_1264"
+  },
+  "1265": {
+    "<%sW_REP_MAX_4TH_C>辺境のほら穴": "Frontier Den"
+  },
+  "1266": {
+    "<%sW_REP_MAX_4TH_C>エテーネ王国領": "Ethene Kingdom Area"
+  },
+  "1267": {
+    "clarity_nt_char_1267": "clarity_nt_char_1267"
+  },
+  "1268": {
+    "<%sW_REP_MAX_4TH_C>ドミネウス邸": "Domineus Mansion"
+  },
+  "1269": {
+    "<%sW_REP_MAX_4TH_C>バントリユ地方": "Bantryu Region"
+  },
+  "1270": {
+    "clarity_nt_char_1270": "clarity_nt_char_1270"
+  },
+  "1271": {
+    "裏通りのアジト": "Backstreet Hideout"
+  },
+  "1272": {
+    "滝見の広場": "Waterfall Sq."
+  },
+  "1273": {
+    "ベルヴァイン湖": "Belvain Lake"
+  },
+  "1274": {
+    "小型艇発着場": "Small Landing Area"
+  },
+  "1275": {
+    "clarity_nt_char_1275": "clarity_nt_char_1275"
+  },
+  "1276": {
+    "バブドル集落": "Babdol Village"
+  },
+  "1277": {
+    "clarity_nt_char_1277": "clarity_nt_char_1277"
+  },
+  "1278": {
+    "マデ島＆エテーネ王宮（4.5CS専用）": "Made Isle & Ethene Royal Manor (4.5CS only)"
+  },
+  "1279": {
+    "マデ神殿祭具棟": "Made T. Ritual Area"
+  },
+  "1280": {
+    "月明かりの谷": "Moonlit Valley"
+  },
+  "1281": {
+    "clarity_nt_char_1281": "clarity_nt_char_1281"
+  },
+  "1282": {
+    "ふくびきダミーステージ": "Lottery Dummy Stage"
+  },
+  "1283": {
+    "真・魔幻宮殿": "True Magic Palace"
+  },
+  "1284": {
+    "clarity_nt_char_1284": "clarity_nt_char_1284"
+  },
+  "1285": {
+    "魔幻都市ゴーラ跡": "Phantom City Gora"
+  },
+  "1286": {
+    "clarity_nt_char_1286": "clarity_nt_char_1286"
+  },
+  "1287": {
+    "芸術の墓場": "Grave Of Art"
+  },
+  "1288": {
+    "魔幻園マデッサンス": "Magic Garden Madessence"
+  },
+  "1289": {
+    "聖護の結界・翠": "Guardian Ward Green"
+  },
+  "1290": {
+    "聖護の結界・紅": "Guardian Ward Red"
+  },
+  "1291": {
+    "サバコンテスト": "Mackerel Contest"
+  },
+  "1292": {
+    "デモンマウンテン": "Demon Mountain"
+  },
+  "1293": {
+    "clarity_nt_char_1293": "clarity_nt_char_1293"
+  },
+  "1294": {
+    "審判の闘技場": "Trial Arena"
+  },
+  "1295": {
+    "clarity_nt_char_1295": "clarity_nt_char_1295"
+  },
+  "1296": {
+    "大審判の絶壁": "Cliff of Trial"
+  },
+  "1297": {
+    "clarity_nt_char_1297": "clarity_nt_char_1297"
+  },
+  "1298": {
+    "審判の展望台": "Trial Observatory"
+  },
+  "1299": {
+    "clarity_nt_char_1299": "clarity_nt_char_1299"
+  },
+  "1300": {
+    "聖護の結界": "Guardian Ward"
+  },
+  "1301": {
+    "古・": "Old "
+  },
+  "1302": {
+    "clarity_nt_char_1302": "clarity_nt_char_1302"
+  },
+  "1303": {
+    "アストルステーション": "Astol Station"
+  },
+  "1304": {
+    "clarity_nt_char_1304": "clarity_nt_char_1304"
+  },
+  "1305": {
+    "ステーション機関室": "Station Engine Room"
+  },
+  "1306": {
+    "ぱふぱふ天国": "Puff Puff Heaven"
+  },
+  "1307": {
+    "clarity_nt_char_1307": "clarity_nt_char_1307"
+  },
+  "1308": {
+    "現・": "P. "
+  },
+  "1309": {
+    "clarity_nt_char_1309": "clarity_nt_char_1309"
+  },
+  "1310": {
+    "ならず者のねぐら": "Rogue Roost"
+  },
+  "1311": {
+    "clarity_nt_char_1311": "clarity_nt_char_1311"
+  },
+  "1312": {
+    "ターボル峡谷": "Tabor Gorge"
+  },
+  "1313": {
+    "clarity_nt_char_1313": "clarity_nt_char_1313"
+  },
+  "1314": {
+    "血潮の浜辺": "Bloody Beach"
+  },
+  "1315": {
+    "ネクロデア廃城": "Necrodea Castle"
+  },
+  "1316": {
+    "旧ネクロデア領": "Old Necrodea Area"
+  },
+  "1317": {
+    "暗闇のボロ屋": "Dark Rag Shop"
+  },
+  "1318": {
+    "clarity_nt_char_1318": "clarity_nt_char_1318"
+  },
+  "1319": {
+    "マイタウン": "My Town"
+  },
+  "1320": {
+    "<%sW_MYTOWN_NAME>": "<%sW_MYTOWN_NAME>"
+  },
+  "1321": {
+    "ザード遺跡": "Zard Ruins"
+  },
+  "1322": {
+    "ゼクレス城・地下": "Zechres Castle - Upper"
+  },
+  "1323": {
+    "clarity_nt_char_1323": "clarity_nt_char_1323"
+  },
+  "1324": {
+    "バトル班用テストマップ（ムスト廃墟）": "Team Battle Map Test (Musuto Ruins)"
+  },
+  "1325": {
+    "clarity_nt_char_1325": "clarity_nt_char_1325"
+  },
+  "1326": {
+    "職人練習場": "Crafting Train"
+  },
+  "1327": {
+    "月明かりの家": "Moonlit House"
+  },
+  "1328": {
+    "clarity_nt_char_1328": "clarity_nt_char_1328"
+  },
+  "1329": {
+    "古": "O. "
+  },
+  "1330": {
+    "現": "P. "
+  },
+  "1331": {
+    "ゼクレス城": "Zechres Castle"
+  },
+  "1332": {
+    "デズリンの家": "Dezlin's House"
+  },
+  "1333": {
+    "clarity_nt_char_1333": "clarity_nt_char_1333"
+  },
+  "1334": {
+    "黄昏の園": "TwilightYard"
+  },
+  "1335": {
+    "clarity_nt_char_1335": "clarity_nt_char_1335"
+  },
+  "1336": {
+    "がらんどうの間": "Halls of Emptiness"
+  },
+  "1337": {
+    "万魔の塔": "Manma Tower"
+  },
+  "1338": {
+    "clarity_nt_char_1338": "clarity_nt_char_1338"
+  },
+  "1339": {
+    "万魔の塔・一の災壇": "Manma Tower - 1st Platform"
+  },
+  "1340": {
+    "未踏の海底": "Unknown Sea"
+  },
+  "1341": {
+    "ブラニック採石場": "Branick Quarry"
+  },
+  "1342": {
+    "clarity_nt_char_1342": "clarity_nt_char_1342"
+  },
+  "1343": {
+    "王都ネクロデア跡": "Necrodea Capital Ruins"
+  },
+  "1344": {
+    "clarity_nt_char_1344": "clarity_nt_char_1344"
+  },
+  "1345": {
+    "トポルの村": "Topol Village"
+  },
+  "1346": {
+    "レビンの洞くつ": "Levin Cave"
+  },
+  "1347": {
+    "呪いの泉": "Curse Spring"
+  },
+  "1348": {
+    "clarity_nt_char_1348": "clarity_nt_char_1348"
+  },
+  "1349": {
+    "ガウシア樹海": "Gaussia Woodlands"
+  },
+  "1350": {
+    "clarity_nt_char_1350": "clarity_nt_char_1350"
+  },
+  "1351": {
+    "大甲虫の古巣": "Old Beetle Nest"
+  },
+  "1352": {
+    "clarity_nt_char_1352": "clarity_nt_char_1352"
+  },
+  "1353": {
+    "デスディオ暗黒荒原": "Desdio Dark Wilderness"
+  },
+  "1354": {
+    "<pc_original>城": "My Castle"
+  },
+  "1355": {
+    "clarity_nt_char_1355": "clarity_nt_char_1355"
+  },
+  "1356": {
+    "マッチングテストステージ（同期テスト用）": "Match test stage (for sync testing)"
+  },
+  "1357": {
+    "clarity_nt_char_1357": "clarity_nt_char_1357"
+  },
+  "1358": {
+    "マッチングテストステージ（同期後移動用）": "Match test stage (for moving beat testing)"
+  },
+  "1359": {
+    "clarity_nt_char_1359": "clarity_nt_char_1359"
+  },
+  "1360": {
+    "ベルヴァインの森東": "Belvain Forest East"
+  },
+  "1361": {
+    "ヘドロの沼地": "Hedro Swamp"
+  },
+  "1362": {
+    "clarity_nt_char_1362": "clarity_nt_char_1362"
+  },
+  "1363": {
+    "ポイポイ商会倉庫": "Poipoi Firm Warehouse"
+  },
+  "1364": {
+    "clarity_nt_char_1364": "clarity_nt_char_1364"
+  },
+  "1365": {
+    "ゼクレス城・魔導広場": "Zechres Castle - Magic Square"
+  },
+  "1366": {
+    "clarity_nt_char_1366": "clarity_nt_char_1366"
+  },
+  "1367": {
+    "万魔の塔・五の災壇": "Manma Tower - 5th Platform"
+  },
+  "1368": {
+    "万魔の塔・四の災壇": "Manma Tower - 4th Platform"
+  },
+  "1369": {
+    "万魔の塔・三の災壇": "Manma Tower - 3rd Platform"
+  },
+  "1370": {
+    "万魔の塔・二の災壇": "Manma Tower - 2nd Platform"
+  },
+  "1371": {
+    "大富豪ルーム": "Daifugo Room"
+  },
+  "1372": {
+    "clarity_nt_char_1372": "clarity_nt_char_1372"
+  },
+  "1373": {
+    "高台の戦場": "HighBattlefield"
+  },
+  "1374": {
+    "リシーの洞くつ": "Licie Cave"
+  },
+  "1375": {
+    "オウマの研究室": "Ouma's Laboratory"
+  },
+  "1376": {
+    "真っ赤な洞くつ": "Bright Red Cave"
+  },
+  "1377": {
+    "チヒロの部屋": "Chihiro's Room"
+  },
+  "1378": {
+    "clarity_nt_char_1378": "clarity_nt_char_1378"
+  },
+  "1379": {
+    "聖護の結界・黄": "Guardian Ward Yellow"
+  },
+  "1380": {
+    "ゼクレス城・テラス": "Zechres Castle - Terrace"
+  },
+  "1381": {
+    "ゼクレス城・礼典の間": "Zechres Castle - Ritual Room"
+  },
+  "1382": {
+    "clarity_nt_char_1382": "clarity_nt_char_1382"
+  },
+  "1383": {
+    "朽ちた霊廟": "Decaying Tomb"
+  },
+  "1384": {
+    "魔空の調練場": "Sky TrainingGround"
+  },
+  "1385": {
+    "clarity_nt_char_1385": "clarity_nt_char_1385"
+  },
+  "1386": {
+    "未完のラゼアの風穴": "Undone Lazea Wind Cave"
+  },
+  "1387": {
+    "未完のモンセロ温泉峡": "Undone Moncello Spring Gorge"
+  },
+  "1388": {
+    "clarity_nt_char_1388": "clarity_nt_char_1388"
+  },
+  "1389": {
+    "未完の風穴の研究室": "Undone Wind Cave Lab"
+  },
+  "1390": {
+    "未完のご神体の間": "Undone Hall of Worship"
+  },
+  "1391": {
+    "clarity_nt_char_1391": "clarity_nt_char_1391"
+  },
+  "1392": {
+    "ジャゴヌバ神殿": "Jagonuba Temple"
+  },
+  "1393": {
+    "封神の参道": "God's Approach"
+  },
+  "1394": {
+    "異界滅神の間": "Eldritch God Hall"
+  },
+  "1395": {
+    "clarity_nt_char_1395": "clarity_nt_char_1395"
+  },
+  "1396": {
+    "グラデル台地": "Gradel Plateau"
+  },
+  "1397": {
+    "clarity_nt_char_1397": "clarity_nt_char_1397"
+  },
+  "1398": {
+    "大魔王顔壁": "Demon Face Wall"
+  },
+  "1399": {
+    "剣魔の霊域": "Realm of Kenma"
+  },
+  "1400": {
+    "守護者の間": "Guardian Hall"
+  },
+  "1401": {
+    "イルーシャの部屋": "Irusha's Room"
+  },
+  "1402": {
+    "clarity_nt_char_1402": "clarity_nt_char_1402"
+  },
+  "1403": {
+    "砂塵の遺跡": "Dust Ruins"
+  },
+  "1404": {
+    "ザハディガル岩峰": "Zahadigal Rock Peak"
+  },
+  "1405": {
+    "clarity_nt_char_1405": "clarity_nt_char_1405"
+  },
+  "1406": {
+    "邪神のほこら（ウェディ）": "Evil God's Lair (Weddy)"
+  },
+  "1407": {
+    "clarity_nt_char_1407": "clarity_nt_char_1407"
+  },
+  "1408": {
+    "邪神のほこら（プクリポ）": "Evil God's Lair (Puklipo)"
+  },
+  "1409": {
+    "clarity_nt_char_1409": "clarity_nt_char_1409"
+  },
+  "1410": {
+    "邪神のほこら（オーガ）": "Evil God's Lair (Orge)"
+  },
+  "1411": {
+    "邪神のほこら（エルフ）": "Evil God's Lair (Elven)"
+  },
+  "1412": {
+    "邪神のほこら（ドワーフ）": "Evil God's Lair (Dwaft)"
+  },
+  "1413": {
+    "clarity_nt_char_1413": "clarity_nt_char_1413"
+  },
+  "1414": {
+    "王家の迷宮5ｔｈ用": "Royal Maze 5F"
+  },
+  "1415": {
+    "岩穴の牢獄": "Rock Pit Prison"
+  },
+  "1416": {
+    "<%sW_AD_LOCA><%sW_LV><%nW_AUTODUNG_LV>": "<%sW_AD_LOCA><%sW_LV><%nW_AUTODUNG_LV>"
+  },
+  "1417": {
+    "clarity_nt_char_1417": "clarity_nt_char_1417"
+  },
+  "1418": {
+    "天声の間": "Voice Hall"
+  },
+  "1419": {
+    "clarity_nt_char_1419": "clarity_nt_char_1419"
+  },
+  "1420": {
+    "星明の宮": "Stars Shrine"
+  },
+  "1421": {
+    "clarity_nt_char_1421": "clarity_nt_char_1421"
+  },
+  "1422": {
+    "未完のドラクロン山地": "Unfinished Draklon Mountains"
+  },
+  "1423": {
+    "clarity_nt_char_1423": "clarity_nt_char_1423"
+  },
+  "1424": {
+    "光の郷フィネトカ": "Light Town Finetka"
+  },
+  "1425": {
+    "clarity_nt_char_1425": "clarity_nt_char_1425"
+  },
+  "1426": {
+    "銀の森": "Silver F."
+  },
+  "1427": {
+    "未完の飛竜の峰": "Undone Wyvern Peaks"
+  },
+  "1428": {
+    "暗黒球": "Dark Orb"
+  },
+  "1429": {
+    "暗黒球界面": "Dark Orb Link"
+  },
+  "1430": {
+    "無限の彼方": "Beyond Infinity"
+  },
+  "1431": {
+    "創生の祭壇": "Creation Altar"
+  },
+  "1432": {
+    "ルファ神殿・中央塔": "Rufa Temple - Tower"
+  },
+  "1433": {
+    "ルファ神殿": "Rufa Temple"
+  },
+  "1434": {
+    "月の塔・屋上": "Moon Tower Rooftop"
+  },
+  "1435": {
+    "clarity_nt_char_1435": "clarity_nt_char_1435"
+  },
+  "1436": {
+    "つるぎの酒場": "Sword Bar"
+  },
+  "1437": {
+    "clarity_nt_char_1437": "clarity_nt_char_1437"
+  },
+  "1438": {
+    "絶望の檻": "Despair Cage"
+  },
+  "1439": {
+    "clarity_nt_char_1439": "clarity_nt_char_1439"
+  },
+  "1440": {
+    "<%sW_REP_MAX_2ND_R>ガリアル洞": "<%sW_REP_MAX_2ND_R>Garial Cave"
+  },
+  "1441": {
+    "clarity_nt_char_1441": "clarity_nt_char_1441"
+  },
+  "1442": {
+    "古跡の井戸": "Historic Well"
+  },
+  "1443": {
+    "星の塔・屋上": "Star Tower Rooftop"
+  },
+  "1444": {
+    "clarity_nt_char_1444": "clarity_nt_char_1444"
+  },
+  "1445": {
+    "太陽の塔・屋上": "Sun Tower Rooftop"
+  },
+  "1446": {
+    "ルファ神殿・入口": "Rufa Temple - Entrance"
+  },
+  "1447": {
+    "clarity_nt_char_1447": "clarity_nt_char_1447"
+  },
+  "1448": {
+    "石碑の間": "Rock Epitaph"
+  },
+  "1449": {
+    "clarity_nt_char_1449": "clarity_nt_char_1449"
+  },
+  "1450": {
+    "女神の祠・水": "Goddess Shrine WAT"
+  },
+  "1451": {
+    "clarity_nt_char_1451": "clarity_nt_char_1451"
+  },
+  "1452": {
+    "女神の祠・花": "Goddess Shrine FLO"
+  },
+  "1453": {
+    "clarity_nt_char_1453": "clarity_nt_char_1453"
+  },
+  "1454": {
+    "女神の祠・風": "Goddess Shrine WIN"
+  },
+  "1455": {
+    "clarity_nt_char_1455": "clarity_nt_char_1455"
+  },
+  "1456": {
+    "女神の祠・土": "Goddess Shrine EAR"
+  },
+  "1457": {
+    "clarity_nt_char_1457": "clarity_nt_char_1457"
+  },
+  "1458": {
+    "ルクスガルン大空洞": "Luxgarn Hollow"
+  },
+  "1459": {
+    "聖護の結界・蒼": "Guardian Ward Blue"
+  },
+  "1460": {
+    "モコモコハウス": "Mokomoko House"
+  },
+  "1461": {
+    "泉源郷": "Spring V."
+  },
+  "1462": {
+    "封じられた洞くつ": "Sealed Cave"
+  },
+  "1463": {
+    "clarity_nt_char_1463": "clarity_nt_char_1463"
+  },
+  "1464": {
+    "哀惜の砂漠": "Sorrow Desert"
+  },
+  "1465": {
+    "断罪の森": "Judge. Wood"
+  },
+  "1466": {
+    "clarity_nt_char_1466": "clarity_nt_char_1466"
+  },
+  "1467": {
+    "心層伽藍": "Mind Temple"
+  },
+  "1468": {
+    "clarity_nt_char_1468": "clarity_nt_char_1468"
+  },
+  "1469": {
+    "心層拝堂": "Mind Chapel"
+  },
+  "1470": {
+    "clarity_nt_char_1470": "clarity_nt_char_1470"
+  },
+  "1471": {
+    "悔恨の園": "Regret Yard"
+  },
+  "1472": {
+    "clarity_nt_char_1472": "clarity_nt_char_1472"
+  },
+  "1473": {
+    "心層楼閣": "Mind Tower"
+  },
+  "1474": {
+    "clarity_nt_char_1474": "clarity_nt_char_1474"
+  },
+  "1475": {
+    "ルファ神殿エントランス（オープン）": "Rufa Temple - Entrance (Open)"
+  },
+  "1476": {
+    "ザードの祭壇": "Zard Altar"
+  },
+  "1477": {
+    "clarity_nt_char_1477": "clarity_nt_char_1477"
+  },
+  "1478": {
+    "心層の迷宮": "Mind Maze"
+  },
+  "1479": {
+    "参照テストステージWld": "Reference Test Stage Wld"
+  },
+  "1480": {
+    "clarity_nt_char_1480": "clarity_nt_char_1480"
+  },
+  "1481": {
+    "参照テストステージEnv": "Reference Test Stage Env"
+  },
+  "1482": {
+    "clarity_nt_char_1482": "clarity_nt_char_1482"
+  },
+  "1483": {
+    "女神の魂の在りか": "Goddess's Soul"
+  },
+  "1484": {
+    "clarity_nt_char_1484": "clarity_nt_char_1484"
+  },
+  "1485": {
+    "記憶のナルビアの町": "Memory of Nalbia Town"
+  },
+  "1486": {
+    "記憶のマデ島": "Made Isle Memory"
+  },
+  "1487": {
+    "clarity_nt_char_1487": "clarity_nt_char_1487"
+  },
+  "1488": {
+    "記憶の風穴の研究室": "Memory of Wind Tunnel Lab"
+  },
+  "1489": {
+    "記憶の帝国技術庁": "Imperial Tech Agency"
+  },
+  "1490": {
+    "clarity_nt_char_1490": "clarity_nt_char_1490"
+  },
+  "1491": {
+    "記憶のムストの町": "Memory of Must Town"
+  },
+  "1492": {
+    "clarity_nt_char_1492": "clarity_nt_char_1492"
+  },
+  "1493": {
+    "呪縛の回廊": "Cursed Corridor"
+  },
+  "1494": {
+    "再会の園": "Reunion Gdn."
+  },
+  "1495": {
+    "clarity_nt_char_1495": "clarity_nt_char_1495"
+  },
+  "1496": {
+    "最果ての地": "Furthest Land"
+  },
+  "1497": {
+    "滅星の邪園": "Doomsday Garden"
+  },
+  "1498": {
+    "第二の領域": "Second Area"
+  },
+  "1499": {
+    "第三の領域": "Third Area"
+  },
+  "1500": {
+    "制御室": "Control"
+  },
+  "1501": {
+    "第一の領域": "First Area"
+  },
+  "1502": {
+    "滅星の深淵": "Doomsday Abyss"
+  },
+  "1503": {
+    "炎獄王の座": "Fire King Seat"
+  },
+  "1504": {
+    "大いなる闇の深淵": "Abyss of Great Darkness"
+  },
+  "1505": {
+    "clarity_nt_char_1505": "clarity_nt_char_1505"
+  },
+  "1506": {
+    "創生の戦域": "Birth's Theater"
+  },
+  "1507": {
+    "岩峰の広間": "Rock Peaks Hall"
+  },
+  "1508": {
+    "ツボの封印空間": "Sealing Pot Space"
+  },
+  "1509": {
+    "待ち合わせの場": "Meeting Place"
+  },
+  "1510": {
+    "魔ルクスガルン大空洞": "Demon Luxgarn Hollow"
+  },
+  "1511": {
+    "clarity_nt_char_1511": "clarity_nt_char_1511"
+  },
+  "1512": {
+    "盾ルクスガルン大空洞": "Shield Luxgarn Cavity"
+  },
+  "1513": {
+    "clarity_nt_char_1513": "clarity_nt_char_1513"
+  },
+  "1514": {
+    "練習スタジオ": "Practice Studio"
+  },
+  "1515": {
+    "clarity_nt_char_1515": "clarity_nt_char_1515"
+  },
+  "1516": {
+    "怨邪のツボ": "Grudge Points"
+  },
+  "1517": {
+    "聖護の結界・黒": "Guardian Ward Black"
+  },
+  "1518": {
+    "閉ざされた水路": "Closed Waterway"
+  },
+  "1519": {
+    "秘密の小部屋": "Secret Room"
+  },
+  "1520": {
+    "clarity_nt_char_1520": "clarity_nt_char_1520"
+  },
+  "1521": {
+    "熱闘演舞の間": "Enthusiastic Dance"
+  },
+  "1522": {
+    "clarity_nt_char_1522": "clarity_nt_char_1522"
+  },
+  "1523": {
+    "言の葉の舞う地": "Garden of Words"
+  },
+  "1524": {
+    "亡国の礼拝堂": "Exiled Land Chapel"
+  }
+}

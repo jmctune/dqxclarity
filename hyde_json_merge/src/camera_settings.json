@@ -1,0 +1,218 @@
+{
+  "1": {
+    "キャラ手前移動": "Move forward"
+  },
+  "2": {
+    "キャラ右移動": "Move right"
+  },
+  "3": {
+    "clarity_nt_char_1": "clarity_nt_char_1"
+  },
+  "4": {
+    "キャラ左移動": "Move Left"
+  },
+  "5": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "6": {
+    "キャラ奥移動": "Move backwards"
+  },
+  "7": {
+    "clarity_nt_char_3": "clarity_nt_char_3"
+  },
+  "8": {
+    "カメラ右": "Camera right"
+  },
+  "9": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "10": {
+    "カメラ左": "Camera Left"
+  },
+  "11": {
+    "clarity_nt_char_5": "clarity_nt_char_5"
+  },
+  "12": {
+    "カメラ下": "Camera down"
+  },
+  "13": {
+    "clarity_nt_char_6": "clarity_nt_char_6"
+  },
+  "14": {
+    "カメラ上": "Camera up"
+  },
+  "15": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "16": {
+    "ソフトウェアキーボード": "Software keyboard"
+  },
+  "17": {
+    "マップ": "Map"
+  },
+  "18": {
+    "カーソル右": "Cursor right"
+  },
+  "19": {
+    "カーソル左": "Cursor Left"
+  },
+  "20": {
+    "カーソル下": "Cursor down"
+  },
+  "21": {
+    "カーソル上": "Cursor up"
+  },
+  "22": {
+    "便利＆決定": "Convenience"
+  },
+  "23": {
+    "もどる": "Return"
+  },
+  "24": {
+    "clarity_nt_char_8": "clarity_nt_char_8"
+  },
+  "25": {
+    "clarity_nt_char_9": "clarity_nt_char_9"
+  },
+  "26": {
+    "家具回転・時計回り": "Turn furniture clockwise"
+  },
+  "27": {
+    "メニュー＆決定": "Menu"
+  },
+  "28": {
+    "家具回転・反時計回り": "Turn furniture counterclockwis"
+  },
+  "29": {
+    "clarity_nt_char_10": "clarity_nt_char_10"
+  },
+  "30": {
+    "コミュニケーション": "Communication"
+  },
+  "31": {
+    "カーソル上(ヌンチャク）": "Cursor up (nunchuck)"
+  },
+  "32": {
+    "clarity_nt_char_11": "clarity_nt_char_11"
+  },
+  "33": {
+    "カーソル右(ヌンチャク）": "Cursor right (Nunchuck)"
+  },
+  "34": {
+    "clarity_nt_char_12": "clarity_nt_char_12"
+  },
+  "35": {
+    "カーソル左(ヌンチャク）": "Cursor Left (Nunchuck)"
+  },
+  "36": {
+    "clarity_nt_char_13": "clarity_nt_char_13"
+  },
+  "37": {
+    "カーソル下（ヌンチャク）": "Cursor down (Nunchuck)"
+  },
+  "38": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "39": {
+    "カメラを後ろに": "Center camera behind"
+  },
+  "40": {
+    "便利＆決定(特殊)": "Convenience (Special)"
+  },
+  "41": {
+    "もどる(特殊)": "Return (Special)"
+  },
+  "42": {
+    "ジャンプ": "Jump"
+  },
+  "43": {
+    "clarity_nt_char_15": "clarity_nt_char_15"
+  },
+  "44": {
+    "ソート": "Sort"
+  },
+  "45": {
+    "オートラン": "Autorun"
+  },
+  "46": {
+    "モデル・時計回り": "Turn model clockwise"
+  },
+  "47": {
+    "clarity_nt_char_16": "clarity_nt_char_16"
+  },
+  "48": {
+    "カメラ・モデル・反時計回り": "Camera, model, counterclockwise"
+  },
+  "49": {
+    "モデル・反時計回り": "Turn model counterclockwise"
+  },
+  "50": {
+    "カメラ・モデル・時計回り": "Camera, model, clockwise"
+  },
+  "51": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "52": {
+    "メニュー＆決定(特殊)": "Menu (Special)"
+  },
+  "53": {
+    "アイコン類表示on/off": "Icon display on/off"
+  },
+  "54": {
+    "保存しないで終了": "Exit without saving"
+  },
+  "55": {
+    "clarity_nt_char_18": "clarity_nt_char_18"
+  },
+  "56": {
+    "保存して終了": "Save and exit"
+  },
+  "57": {
+    "clarity_nt_char_19": "clarity_nt_char_19"
+  },
+  "58": {
+    "ファインダーモード": "Viewfinder mode"
+  },
+  "59": {
+    "シャッターボタン": "Shutter release button"
+  },
+  "60": {
+    "clarity_nt_char_20": "clarity_nt_char_20"
+  },
+  "61": {
+    "しぐさ": "Gesture"
+  },
+  "62": {
+    "ジャンプ(特殊)": "Jump (Special)"
+  },
+  "63": {
+    "clarity_nt_char_21": "clarity_nt_char_21"
+  },
+  "64": {
+    "キャラ表示on/off": "Char. display on/off"
+  },
+  "65": {
+    "ズームイン": "Zoom In"
+  },
+  "66": {
+    "スライド左": "Slide Left"
+  },
+  "67": {
+    "スライド右": "Slide Right"
+  },
+  "68": {
+    "ズームアウト": "Zoom Out"
+  },
+  "69": {
+    "clarity_nt_char_22": "clarity_nt_char_22"
+  },
+  "70": {
+    "スライド下": "Slide Down"
+  },
+  "71": {
+    "スライド上": "Slide Up"
+  },
+  "72": {
+    "ファインダーモード切り替え": "Switch viewfinder mode"
+  }
+}

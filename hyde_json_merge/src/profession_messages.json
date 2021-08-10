@@ -1,0 +1,185 @@
+{
+  "1": {
+    "結果予知": ""
+  },
+  "2": {
+    "clarity_nt_char_1": "clarity_nt_char_1"
+  },
+  "3": {
+    "超・結果予知": ""
+  },
+  "4": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "5": {
+    "成功確率プラス": ""
+  },
+  "6": {
+    "大成功確率プラス": ""
+  },
+  "7": {
+    "clarity_nt_char_3": "clarity_nt_char_3"
+  },
+  "8": {
+    "パルプンテプラス": ""
+  },
+  "9": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "10": {
+    "パルプンチェンジ": ""
+  },
+  "11": {
+    "clarity_nt_char_5": "clarity_nt_char_5"
+  },
+  "12": {
+    "成功シュート": ""
+  },
+  "13": {
+    "clarity_nt_char_6": "clarity_nt_char_6"
+  },
+  "14": {
+    "大成功シャッフル": ""
+  },
+  "15": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "16": {
+    "究極心眼": ""
+  },
+  "17": {
+    "clarity_nt_char_8": "clarity_nt_char_8"
+  },
+  "18": {
+    "成功率１％アップ": "Success Rate +1%"
+  },
+  "19": {
+    "clarity_nt_char_9": "clarity_nt_char_9"
+  },
+  "20": {
+    "成功率２％アップ": "Success Rate +2%"
+  },
+  "21": {
+    "clarity_nt_char_10": "clarity_nt_char_10"
+  },
+  "22": {
+    "成功率３％アップ": "Success Rate +3%"
+  },
+  "23": {
+    "clarity_nt_char_11": "clarity_nt_char_11"
+  },
+  "24": {
+    "必殺率　小アップ": "Small Special Rate Up"
+  },
+  "25": {
+    "clarity_nt_char_12": "clarity_nt_char_12"
+  },
+  "26": {
+    "超大成功率プラス": ""
+  },
+  "27": {
+    "clarity_nt_char_13": "clarity_nt_char_13"
+  },
+  "28": {
+    "パルシャッフル": ""
+  },
+  "29": {
+    "針の止まる場所が|おおまかに|見えるようになる": ""
+  },
+  "30": {
+    "針の止まる場所が|そこそこ良く|見えるようになる": ""
+  },
+  "31": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "32": {
+    "失敗エリアを一部|成功エリアに|変化させる": ""
+  },
+  "33": {
+    "成功エリアを一部|大成功エリアに|変化させる": ""
+  },
+  "34": {
+    "clarity_nt_char_15": "clarity_nt_char_15"
+  },
+  "35": {
+    "成功エリアを一部|パルプンテに|変化させる": ""
+  },
+  "36": {
+    "パルプンテを一部|大成功エリアに|変化させる": ""
+  },
+  "37": {
+    "clarity_nt_char_16": "clarity_nt_char_16"
+  },
+  "38": {
+    "針の先にある|失敗エリアを|成功に変化させる": ""
+  },
+  "39": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "40": {
+    "大成功エリアを|シャッフルして|別の位置に変える": ""
+  },
+  "41": {
+    "clarity_nt_char_18": "clarity_nt_char_18"
+  },
+  "42": {
+    "結果予知の範囲を|半分に絞る|究極の大技！": ""
+  },
+  "43": {
+    "おぼえてるだけで|ランプ錬金成功率|常に　１％アップ": "The success rate of your lamp alchemy is|increased by 1%."
+  },
+  "44": {
+    "clarity_nt_char_19": "clarity_nt_char_19"
+  },
+  "45": {
+    "おぼえてるだけで|ランプ錬金成功率|常に　２％アップ": "The success rate of your lamp alchemy is|increased by 2%."
+  },
+  "46": {
+    "clarity_nt_char_20": "clarity_nt_char_20"
+  },
+  "47": {
+    "おぼえてるだけで|ランプ錬金成功率|常に　３％アップ": "The success rate of your lamp alchemy is|increased by 3%."
+  },
+  "48": {
+    "clarity_nt_char_21": "clarity_nt_char_21"
+  },
+  "49": {
+    "おぼえてるだけで|ツボ錬金の成功率|常に　１％アップ": ""
+  },
+  "50": {
+    "clarity_nt_char_22": "clarity_nt_char_22"
+  },
+  "51": {
+    "おぼえてるだけで|ツボ錬金の成功率|常に　２％アップ": "The success rate of your pot alchemy is|increased by 2%."
+  },
+  "52": {
+    "clarity_nt_char_23": "clarity_nt_char_23"
+  },
+  "53": {
+    "おぼえてるだけで|ツボ錬金の成功率|常に　３％アップ": "The success rate of your pot alchemy is|increased by 3%."
+  },
+  "54": {
+    "clarity_nt_char_24": "clarity_nt_char_24"
+  },
+  "55": {
+    "おぼえてるだけで|必殺の出る確率が|少しだけアップ": "Special chance|is slightly|increased."
+  },
+  "56": {
+    "大成功エリアを|超大成功エリアに|一部変化させる": ""
+  },
+  "57": {
+    "clarity_nt_char_25": "clarity_nt_char_25"
+  },
+  "58": {
+    "パルプンテを|シャッフルして|別の位置に変える": ""
+  },
+  "59": {
+    "まれに集中力回復": "Rarely Recover Focus"
+  },
+  "60": {
+    "clarity_nt_char_26": "clarity_nt_char_26"
+  },
+  "61": {
+    "おぼえてるだけで|まれに集中力が|回復する": "Rarely recovers|your focus."
+  }
+}

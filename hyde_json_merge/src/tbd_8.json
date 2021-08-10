@@ -1,0 +1,134 @@
+{
+  "1": {
+    "下層へ行きますか？<yesno><close>": "Do you want to go down?<yesno><close>"
+  },
+  "2": {
+    "上層へ行きますか？<yesno><close>": "Do you want to go up?<yesno><close>"
+  },
+  "3": {
+    "トロッコに乗りますか？<yesno><close>": "Ride the minecart?<yesno><close>"
+  },
+  "4": {
+    "キラキラ大風車塔の最上層へ行く|エレベーターがある。|スイッチを押して　移動しますか？<yesno><close>": "Do you want to use the elevator|to go to the top level|of the Glitter Windmill Tower?<yesno><close>"
+  },
+  "5": {
+    "キラキラ大風車塔の下層へ行く|エレベーターがある。|スイッチを押して　移動しますか？<yesno><close>": "Do you want to use the elevator|to go to the lower level|of the Glitter Windmill Tower?<yesno><close>"
+  },
+  "6": {
+    "clarity_nt_char_1": "clarity_nt_char_1"
+  },
+  "7": {
+    "<pc>は　とうぞくのカギを使った。<se_nots Joutyu_SE 57>": "<pc> used the Thief's Key. <se_nots Joutyu_SE 57>"
+  },
+  "8": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "9": {
+    "<pc>は　とうぞくのカギを使った。|カギが　合わない！": "<pc> used the Thief's Key.|But the key doesn't fit!"
+  },
+  "10": {
+    "clarity_nt_char_3": "clarity_nt_char_3"
+  },
+  "11": {
+    "この扉を開くには　特別なカギが|必要なようだ。": "It seems like you'll need a special|key to open this door."
+  },
+  "12": {
+    "ブレイブストーンを使って　空間を移動しますか？<yesno><close>": "Use the Brave Stone to move between worlds?<yesno><close>"
+  },
+  "13": {
+    "翼を生やした　五角形の石塔がある。|特に　何も起こらないようだ。": "There is a pentagon-shaped stone pagoda|with wings. Nothing special seems to happen."
+  },
+  "14": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "15": {
+    "<pc>たちは　泉の水を飲んだ。|<br>|<pc>たちの身体に|チカラが　わいてきた！": "<pc> and co. drank from the spring.|<br>|Strength has returned to their bodies!"
+  },
+  "16": {
+    "clarity_nt_char_5": "clarity_nt_char_5"
+  },
+  "17": {
+    "<pc>は　泉の水を飲んだ。|<br>|<pc>の身体に|チカラが　わいてきた！": "<pc> drank from the spring.|<br>|Strength returns to <pc>'s body!"
+  },
+  "18": {
+    "clarity_nt_char_6": "clarity_nt_char_6"
+  },
+  "19": {
+    "<pc>は　大とうぞくのカギを使った。|カギが　合わない！": "<pc> used the Great Thief's Key.|The key doesn't fit!"
+  },
+  "20": {
+    "<pc>は　大とうぞくのカギを使った。<se_nots Joutyu_SE 57>": "<pc> used the Great Thief's Key.<se_nots Joutyu_SE 57>"
+  },
+  "21": {
+    "ゴンドラに乗りますか？<yesno><close>": "Ride the gondola? <yesno><close>"
+  },
+  "22": {
+    "ブレイブストーンをかざして|真のレンダーシアへ　飛びますか？<yesno><close>": "Use the Brave Stone to return|to True Lendersia?<yesno><close>"
+  },
+  "23": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "24": {
+    "ブレイブストーンをかざして|偽りのレンダーシアへ　飛びますか？<yesno><close>": "Use the Brave Stone to return|to False Lendersia?<yesno><close>"
+  },
+  "25": {
+    "全反転の天雷盤": "Inverted Thunder Disc"
+  },
+  "26": {
+    "反転の雷盤": "Thunder Disc"
+  },
+  "27": {
+    "入替の雷盤": "Thunder Panel"
+  },
+  "28": {
+    "封印の雷盤": "Thunder Seal"
+  },
+  "29": {
+    "招雷の雷盤": "Thunder Board"
+  },
+  "30": {
+    "上から　１番目": "1st From Top"
+  },
+  "31": {
+    "上から　２番目": "2nd From Top"
+  },
+  "32": {
+    "上から　３番目": "3rd From Top"
+  },
+  "33": {
+    "上から　４番目": "4th From Top"
+  },
+  "34": {
+    "上から　５番目": "5th From Top"
+  },
+  "35": {
+    "上から　６番目": "6th From Top"
+  },
+  "36": {
+    "上から　７番目": "7th From Top"
+  },
+  "37": {
+    "左から　１番目": "1st From Left"
+  },
+  "38": {
+    "左から　２番目": "2nd From Left"
+  },
+  "39": {
+    "左から　３番目": "3rd From Left"
+  },
+  "40": {
+    "左から　４番目": "4th From Left"
+  },
+  "41": {
+    "左から　５番目": "5th From Left"
+  },
+  "42": {
+    "左から　６番目": "6th From Left"
+  },
+  "43": {
+    "左から　７番目": "7th From Left"
+  },
+  "44": {
+    "タイルの地色を見る": "View Tile Back Color"
+  }
+}

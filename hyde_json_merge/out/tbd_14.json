@@ -1,0 +1,659 @@
+{
+  "1": {
+    "魔法の迷宮": "Magic Maze"
+  },
+  "2": {
+    "強戦士の書": "S. Warrior Book"
+  },
+  "3": {
+    "バトルチャレンジ": "Battle Challenge"
+  },
+  "4": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "5": {
+    "カジノ攻略": "Casino Conquest"
+  },
+  "6": {
+    "チームクエスト": "Team Quests"
+  },
+  "7": {
+    "その他": "Other"
+  },
+  "8": {
+    "<%sM_TQUEST>（なんでも）": "<%sM_TQUEST> (Anything)"
+  },
+  "9": {
+    "clarity_nt_char_9": "clarity_nt_char_9"
+  },
+  "10": {
+    "ルーレット": "Roulette"
+  },
+  "11": {
+    "ポーカー": "Poker"
+  },
+  "12": {
+    "clarity_nt_char_12": "clarity_nt_char_12"
+  },
+  "13": {
+    "スロット": "Slots"
+  },
+  "14": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "15": {
+    "ビンゴ": "Bingo"
+  },
+  "16": {
+    "すごろく": "Sugoroku"
+  },
+  "17": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "18": {
+    "強モードボス": "Hardmode Boss"
+  },
+  "19": {
+    "clarity_nt_char_19": "clarity_nt_char_19"
+  },
+  "20": {
+    "試練の門": "Trial Gate"
+  },
+  "21": {
+    "clarity_nt_char_21": "clarity_nt_char_21"
+  },
+  "22": {
+    "同盟バトル": "Alliance Battle"
+  },
+  "23": {
+    "達人の宝珠集め": "Collect Master Jewels"
+  },
+  "24": {
+    "お宝の写真": "Treasure Photos"
+  },
+  "25": {
+    "呼び寄せの筆集め": "Summon Brush Collection"
+  },
+  "26": {
+    "clarity_nt_char_26": "clarity_nt_char_26"
+  },
+  "27": {
+    "神聖秘文": "Holy Secret"
+  },
+  "28": {
+    "clarity_nt_char_28": "clarity_nt_char_28"
+  },
+  "29": {
+    "装備品集め": "Find Equipment"
+  },
+  "30": {
+    "ドルボードレース": "Dolboard Race"
+  },
+  "31": {
+    "clarity_nt_char_31": "clarity_nt_char_31"
+  },
+  "32": {
+    "未討伐のフィールド強敵": "Unbeaten Evil Field Enemy"
+  },
+  "33": {
+    "ピラミッド": "Pyramid"
+  },
+  "34": {
+    "不思議の魔塔": "Mysterious Tower"
+  },
+  "35": {
+    "clarity_nt_char_35": "clarity_nt_char_35"
+  },
+  "36": {
+    "達人クエスト": "Master Quest"
+  },
+  "37": {
+    "clarity_nt_char_37": "clarity_nt_char_37"
+  },
+  "38": {
+    "常闇の竜レグナード": "Everdark Dragon Regnard"
+  },
+  "39": {
+    "ダークキング": "Dark King Slime"
+  },
+  "40": {
+    "clarity_nt_char_40": "clarity_nt_char_40"
+  },
+  "41": {
+    "邪神の宮殿": "Evil God Palace"
+  },
+  "42": {
+    "竜王城の決戦": "Dragonlord Battle"
+  },
+  "43": {
+    "clarity_nt_char_43": "clarity_nt_char_43"
+  },
+  "44": {
+    "黄昏の奏戦記": "Battle of Twilight"
+  },
+  "45": {
+    "clarity_nt_char_45": "clarity_nt_char_45"
+  },
+  "46": {
+    "海冥主メイヴ": "Hades Squid"
+  },
+  "47": {
+    "clarity_nt_char_47": "clarity_nt_char_47"
+  },
+  "48": {
+    "バトル・ルネッサンス": "Battle Renaissance"
+  },
+  "49": {
+    "clarity_nt_char_49": "clarity_nt_char_49"
+  },
+  "50": {
+    "大魔王ゾーマへの挑戦": "Challenge to Demon King Zoma"
+  },
+  "51": {
+    "clarity_nt_char_51": "clarity_nt_char_51"
+  },
+  "52": {
+    "アストルティア防衛軍": "Astoltia Defense Force"
+  },
+  "53": {
+    "clarity_nt_char_53": "clarity_nt_char_53"
+  },
+  "54": {
+    "いにしえのゼルメア": "Ancient Zelmea"
+  },
+  "55": {
+    "冥骸魔レギルラッゾたち": "Demon Corpse Legirrazzos"
+  },
+  "56": {
+    "紅殻魔スコルパイド": "Red Scorpion"
+  },
+  "57": {
+    "翠将鬼ジェルザーク": "Green General Gelzark"
+  },
+  "58": {
+    "<%sM_MEIKYU>（捧げ物なし）": "<%sM_MEIKYU> (No offering)"
+  },
+  "59": {
+    "メタスラ": "Metal Slime"
+  },
+  "60": {
+    "clarity_nt_char_60": "clarity_nt_char_60"
+  },
+  "61": {
+    "メダル王": "Medal King"
+  },
+  "62": {
+    "clarity_nt_char_62": "clarity_nt_char_62"
+  },
+  "63": {
+    "はぐメタ": "Liquid Metal"
+  },
+  "64": {
+    "clarity_nt_char_64": "clarity_nt_char_64"
+  },
+  "65": {
+    "メタキン": "Metal King"
+  },
+  "66": {
+    "clarity_nt_char_66": "clarity_nt_char_66"
+  },
+  "67": {
+    "ゴルスラ": "Golsla"
+  },
+  "68": {
+    "clarity_nt_char_68": "clarity_nt_char_68"
+  },
+  "69": {
+    "レアボス": "Rare Boss"
+  },
+  "70": {
+    "clarity_nt_char_70": "clarity_nt_char_70"
+  },
+  "71": {
+    "福の神": "Luck God"
+  },
+  "72": {
+    "メタスラボス": "Metal Slime Boss"
+  },
+  "73": {
+    "clarity_nt_char_73": "clarity_nt_char_73"
+  },
+  "74": {
+    "プチアトラス": "Frail Atlas"
+  },
+  "75": {
+    "clarity_nt_char_75": "clarity_nt_char_75"
+  },
+  "76": {
+    "アトラス": "Atlas"
+  },
+  "77": {
+    "clarity_nt_char_77": "clarity_nt_char_77"
+  },
+  "78": {
+    "アトラス強": "Apex Atlas"
+  },
+  "79": {
+    "プチバズズ": "Frail Pazuzu"
+  },
+  "80": {
+    "バズズ": "Pazuzu"
+  },
+  "81": {
+    "バズズ強": "Apex Pazuzu"
+  },
+  "82": {
+    "clarity_nt_char_82": "clarity_nt_char_82"
+  },
+  "83": {
+    "プチベリアル": "Frail Belial"
+  },
+  "84": {
+    "clarity_nt_char_84": "clarity_nt_char_84"
+  },
+  "85": {
+    "ベリアル": "Belial"
+  },
+  "86": {
+    "clarity_nt_char_86": "clarity_nt_char_86"
+  },
+  "87": {
+    "ベリアル強": "Apex Belial"
+  },
+  "88": {
+    "プチ悪霊の神々": "Frail Evil Spirit God"
+  },
+  "89": {
+    "悪霊の神々": "Evil Spirit God"
+  },
+  "90": {
+    "悪霊の神々強": "A. Evil Spirit God"
+  },
+  "91": {
+    "clarity_nt_char_91": "clarity_nt_char_91"
+  },
+  "92": {
+    "プチガイア": "Frail Gaia"
+  },
+  "93": {
+    "ドラゴンガイア": "Gaia Dragon"
+  },
+  "94": {
+    "ドラゴンガイア強": "Apex Gaia Dragon"
+  },
+  "95": {
+    "clarity_nt_char_95": "clarity_nt_char_95"
+  },
+  "96": {
+    "プチバラモス": "Frail Baramos"
+  },
+  "97": {
+    "clarity_nt_char_97": "clarity_nt_char_97"
+  },
+  "98": {
+    "バラモス": "Baramos"
+  },
+  "99": {
+    "clarity_nt_char_99": "clarity_nt_char_99"
+  },
+  "100": {
+    "バラモス強": "Apex Baramos"
+  },
+  "101": {
+    "プチヒドラ": "Frail Hydra"
+  },
+  "102": {
+    "キングヒドラ": "King Hydra"
+  },
+  "103": {
+    "clarity_nt_char_103": "clarity_nt_char_103"
+  },
+  "104": {
+    "キングヒドラ強": "Apex King Hydra"
+  },
+  "105": {
+    "プチグラコス": "Frail Gracos"
+  },
+  "106": {
+    "clarity_nt_char_106": "clarity_nt_char_106"
+  },
+  "107": {
+    "グラコス": "Gracos"
+  },
+  "108": {
+    "clarity_nt_char_108": "clarity_nt_char_108"
+  },
+  "109": {
+    "グラコス強": "Apex Gracos"
+  },
+  "110": {
+    "伝説の三悪魔": "3 Legend Demons"
+  },
+  "111": {
+    "clarity_nt_char_111": "clarity_nt_char_111"
+  },
+  "112": {
+    "伝説の三悪魔闘": "Apex 3 Legend Demons"
+  },
+  "113": {
+    "キラーマジンガ": "Uberkilling Machine"
+  },
+  "114": {
+    "幻界の四諸侯": "4 Phantom Lords"
+  },
+  "115": {
+    "clarity_nt_char_115": "clarity_nt_char_115"
+  },
+  "116": {
+    "幻界の四諸侯練習札": "4 Phantom Lords T. Card"
+  },
+  "117": {
+    "ドン・モグーラ": "Don Mole"
+  },
+  "118": {
+    "ドン・モグーラ練習札": "Don Mole Training Card"
+  },
+  "119": {
+    "clarity_nt_char_119": "clarity_nt_char_119"
+  },
+  "120": {
+    "暗黒の魔人": "Ruin"
+  },
+  "121": {
+    "暗黒の魔人練習札": "Ruin Training Card"
+  },
+  "122": {
+    "clarity_nt_char_122": "clarity_nt_char_122"
+  },
+  "123": {
+    "Ｓキラーマシン": "Trauminator"
+  },
+  "124": {
+    "Ｓキラーマシン練習札": "Trauminator Tr. Card"
+  },
+  "125": {
+    "clarity_nt_char_125": "clarity_nt_char_125"
+  },
+  "126": {
+    "タロット魔人": "Tarot Genie"
+  },
+  "127": {
+    "clarity_nt_char_127": "clarity_nt_char_127"
+  },
+  "128": {
+    "ザ・キャッツ": "The Cats"
+  },
+  "129": {
+    "clarity_nt_char_129": "clarity_nt_char_129"
+  },
+  "130": {
+    "強・キャッツ": "Apex Cats"
+  },
+  "131": {
+    "clarity_nt_char_131": "clarity_nt_char_131"
+  },
+  "132": {
+    "ザ・ボーンズ": "The Bones"
+  },
+  "133": {
+    "clarity_nt_char_133": "clarity_nt_char_133"
+  },
+  "134": {
+    "強・ボーンズ": "Apex Bones"
+  },
+  "135": {
+    "clarity_nt_char_135": "clarity_nt_char_135"
+  },
+  "136": {
+    "Ｖロン": "Vron"
+  },
+  "137": {
+    "Ｖロン強": "Apex Vron"
+  },
+  "138": {
+    "clarity_nt_char_138": "clarity_nt_char_138"
+  },
+  "139": {
+    "サイキョーＶロン": "Psycho Vron"
+  },
+  "140": {
+    "clarity_nt_char_140": "clarity_nt_char_140"
+  },
+  "141": {
+    "究極Ｖロン": "Ultimate Vron"
+  },
+  "142": {
+    "マンドラゴラ": "Mandragora"
+  },
+  "143": {
+    "clarity_nt_char_143": "clarity_nt_char_143"
+  },
+  "144": {
+    "強・マンドラゴラ": "Apex Mandragora"
+  },
+  "145": {
+    "clarity_nt_char_145": "clarity_nt_char_145"
+  },
+  "146": {
+    "サボテンダー": "Cactuar"
+  },
+  "147": {
+    "clarity_nt_char_147": "clarity_nt_char_147"
+  },
+  "148": {
+    "強・サボテンダー": "Apex Cactuar"
+  },
+  "149": {
+    "clarity_nt_char_149": "clarity_nt_char_149"
+  },
+  "150": {
+    "みちくさ": "Michikusa"
+  },
+  "151": {
+    "clarity_nt_char_151": "clarity_nt_char_151"
+  },
+  "152": {
+    "ヤングガイア": "Young Gaia"
+  },
+  "153": {
+    "clarity_nt_char_153": "clarity_nt_char_153"
+  },
+  "154": {
+    "牙王ゴースネル": "Fang King Gosnell"
+  },
+  "155": {
+    "牙王ゴースネル練習札": "Fang K. Gosnell T. Card"
+  },
+  "156": {
+    "clarity_nt_char_156": "clarity_nt_char_156"
+  },
+  "157": {
+    "輪王ザルトラ": "Ring King Zaltra"
+  },
+  "158": {
+    "clarity_nt_char_158": "clarity_nt_char_158"
+  },
+  "159": {
+    "輪王ザルトラ練習札": "King Zaltra Tr. Card"
+  },
+  "160": {
+    "剣王ガルドリオン": "Sword King Gardlion"
+  },
+  "161": {
+    "clarity_nt_char_161": "clarity_nt_char_161"
+  },
+  "162": {
+    "剣王ガルドリオン練習札": "S.K. Gardlion Tr. Card"
+  },
+  "163": {
+    "Ｓジェネラル": "Shogum"
+  },
+  "164": {
+    "clarity_nt_char_164": "clarity_nt_char_164"
+  },
+  "165": {
+    "Ｓジェネラル練習札": "Shogum Training Card"
+  },
+  "166": {
+    "メタル迷宮ペア招待券": "Metal Maze Pair Ticket"
+  },
+  "167": {
+    "clarity_nt_char_167": "clarity_nt_char_167"
+  },
+  "168": {
+    "震王ジュノーガ": "Quake King Junoga"
+  },
+  "169": {
+    "震王ジュノーガ練習札": "Quake K. Junoga T. Card"
+  },
+  "170": {
+    "clarity_nt_char_170": "clarity_nt_char_170"
+  },
+  "171": {
+    "幻界の四諸侯強": "Apex 4 Phantom Lords"
+  },
+  "172": {
+    "タロット魔人強": "Apex Tarot Genie"
+  },
+  "173": {
+    "プチキラーマジンガ": "Frail Uberkilling Mchn."
+  },
+  "174": {
+    "キラーマジンガ強": "Apex Uberkilling Mchn."
+  },
+  "175": {
+    "clarity_nt_char_175": "clarity_nt_char_175"
+  },
+  "176": {
+    "死神スライダーク": "Nemeslime"
+  },
+  "177": {
+    "clarity_nt_char_177": "clarity_nt_char_177"
+  },
+  "178": {
+    "死神スライダーク練習札": "Nemeslime Train. Card"
+  },
+  "179": {
+    "ギュメイ将軍": "Goresby-Purrvis"
+  },
+  "180": {
+    "clarity_nt_char_180": "clarity_nt_char_180"
+  },
+  "181": {
+    "ギュメイ将軍練習札": "Goresby-Purrvis Tr Card"
+  },
+  "182": {
+    "ゲルニック将軍": "Hootingham-Gore"
+  },
+  "183": {
+    "ゲルニック将軍練習札": "Hootingham-Gore T. Card"
+  },
+  "184": {
+    "clarity_nt_char_184": "clarity_nt_char_184"
+  },
+  "185": {
+    "プチゴースネル": "Frail Gosnell"
+  },
+  "186": {
+    "プチ伝説の三悪魔": "Frail 3 Legend Demons"
+  },
+  "187": {
+    "clarity_nt_char_187": "clarity_nt_char_187"
+  },
+  "188": {
+    "プチ幻界の四諸侯": "Frail 4 Phantom Lords"
+  },
+  "189": {
+    "clarity_nt_char_189": "clarity_nt_char_189"
+  },
+  "190": {
+    "プチ・モグーラ": "Frail Mole"
+  },
+  "191": {
+    "プチＳキラマシン": "Frail S Killing Machine"
+  },
+  "192": {
+    "clarity_nt_char_192": "clarity_nt_char_192"
+  },
+  "193": {
+    "ゴレオン将軍": "Goreham-Hogg"
+  },
+  "194": {
+    "clarity_nt_char_194": "clarity_nt_char_194"
+  },
+  "195": {
+    "ゴレオン将軍練習札": "Goreham-Hogg Tr. Card"
+  },
+  "196": {
+    "帝国三将軍": "3 Empire Gen."
+  },
+  "197": {
+    "帝国三将軍練習札": "3 Empire Gen. Tr. Card"
+  },
+  "198": {
+    "clarity_nt_char_198": "clarity_nt_char_198"
+  },
+  "199": {
+    "万魔の塔": "Manma Tower"
+  },
+  "200": {
+    "clarity_nt_char_200": "clarity_nt_char_200"
+  },
+  "201": {
+    "ドラゴン": "Green Dragon"
+  },
+  "202": {
+    "clarity_nt_char_202": "clarity_nt_char_202"
+  },
+  "203": {
+    "ドラゴン練習札": "Green Dragon Tr. Card"
+  },
+  "204": {
+    "剛獣鬼ガルドドン": "Brutal Beast Gardodon"
+  },
+  "205": {
+    "clarity_nt_char_205": "clarity_nt_char_205"
+  },
+  "206": {
+    "輝晶獣": "B. Beast"
+  },
+  "207": {
+    "魔犬レオパルド": "Evil Sir Leopold"
+  },
+  "208": {
+    "魔犬レオパルド練習札": "Evil Sir Leopold T. Card"
+  },
+  "209": {
+    "clarity_nt_char_209": "clarity_nt_char_209"
+  },
+  "210": {
+    "バトエン": "Batoen"
+  },
+  "211": {
+    "clarity_nt_char_211": "clarity_nt_char_211"
+  },
+  "212": {
+    "大富豪": "Daifugo"
+  },
+  "213": {
+    "邪蒼鎧デルメゼ": "Blue Armor Delmeze"
+  },
+  "214": {
+    "魔軍": "D.Army"
+  },
+  "215": {
+    "clarity_nt_char_215": "clarity_nt_char_215"
+  },
+  "216": {
+    "強・魔軍": "Apx Dmn Army"
+  },
+  "217": {
+    "clarity_nt_char_217": "clarity_nt_char_217"
+  },
+  "218": {
+    "ムドー": "Murdaw"
+  },
+  "219": {
+    "ムドー練習札": "Murdaw Train. Card"
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "1": {
+    "そざい特性なし": "No physical traits"
+  },
+  "2": {
+    "木目に沿っている時の上昇値が1.5倍になる。": "The value increase when following the grain is 1.5x higher."
+  },
+  "3": {
+    "clarity_nt_char_1": "clarity_nt_char_1"
+  },
+  "4": {
+    "４ターン毎に　どこか１マスへの威力が補正される。": "Every 4 turns, the power to 1 square is corrected."
+  },
+  "5": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "6": {
+    "４ターン毎に　「木目の向き（木目パターン）」が変わる。": "Wood grain orientation (wood grain pattern) changes every 4 turns."
+  },
+  "7": {
+    "削った時に　追加でダメージ。（通常ダメージと別演出）": "Additional damage when cut off. (Separate from normal damage)"
+  },
+  "8": {
+    "clarity_nt_char_3": "clarity_nt_char_3"
+  },
+  "9": {
+    "４ターン毎に　どこか１マスが１２～１６回復する。": "Every 4 turns, 1 random square recovers 12 to 16."
+  },
+  "10": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "11": {
+    "４ターンごとに消費集中力増減": "Up/Down Focus Consume Every 4 Turns"
+  },
+  "12": {
+    "clarity_nt_char_5": "clarity_nt_char_5"
+  },
+  "13": {
+    "彫る": "Carve"
+  },
+  "14": {
+    "clarity_nt_char_6": "clarity_nt_char_6"
+  },
+  "15": {
+    "昇竜彫り": "Dragon Carve"
+  },
+  "16": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "17": {
+    "大昇竜彫り": "Hi Dragon Carve"
+  },
+  "18": {
+    "双竜彫り": "Goryu Carve"
+  },
+  "19": {
+    "clarity_nt_char_8": "clarity_nt_char_8"
+  },
+  "20": {
+    "大河彫り": "River Carve"
+  },
+  "21": {
+    "clarity_nt_char_9": "clarity_nt_char_9"
+  },
+  "22": {
+    "超大河彫り": "GranRiver Carve"
+  },
+  "23": {
+    "流星彫り": "Meteor Carve"
+  },
+  "24": {
+    "clarity_nt_char_10": "clarity_nt_char_10"
+  },
+  "25": {
+    "２倍彫り": "Double Carve"
+  },
+  "26": {
+    "clarity_nt_char_11": "clarity_nt_char_11"
+  },
+  "27": {
+    "３倍彫り": "Triple Carve"
+  },
+  "28": {
+    "clarity_nt_char_12": "clarity_nt_char_12"
+  },
+  "29": {
+    "ねらい彫り": "Targeted Carve"
+  },
+  "30": {
+    "カンナがけ": "Planing"
+  },
+  "31": {
+    "表面固め": "Harden Face"
+  },
+  "32": {
+    "clarity_nt_char_13": "clarity_nt_char_13"
+  },
+  "33": {
+    "一刀両断": "Decisive Cut"
+  },
+  "34": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "35": {
+    "回転させる": "Rotate"
+  },
+  "36": {
+    "会心0.1％アップ": "Critical +0.1%"
+  },
+  "37": {
+    "会心0.2％アップ": "Critical +0.2%"
+  },
+  "38": {
+    "会心0.3％アップ": "Critical +0.3%"
+  },
+  "39": {
+    "必殺率　小アップ": "Small Special Rate Up"
+  },
+  "40": {
+    "clarity_nt_char_15": "clarity_nt_char_15"
+  },
+  "41": {
+    "くさび打ち": "Stake Driver"
+  },
+  "42": {
+    "ねらい昇竜彫り": "Targeted Dragon Carve"
+  },
+  "43": {
+    "１マスを彫る": "Carve 1 square"
+  },
+  "44": {
+    "clarity_nt_char_16": "clarity_nt_char_16"
+  },
+  "45": {
+    "垂直２マスを|彫りぬく|下側を強く彫る": "Cut 2 vert squares|Cut through|Strong cut the bottom"
+  },
+  "46": {
+    "垂直３マスを|彫りぬく|下側を強く彫る": "Cut 3 vert squares|Cut through|Strong cut the bottom"
+  },
+  "47": {
+    "垂直２マスを|２列彫りぬく|下側を強く彫る": "Cut 2 vert squares|Carve out two rows|Strong cut the bottom"
+  },
+  "48": {
+    "ヨコ２マスを|彫りぬく|左側を強く彫る": "Cut 2 hori squares|Cut through|Strong cut the left"
+  },
+  "49": {
+    "ヨコ３マスを|彫りぬく|左側を強く彫る": "Cut 3 hori squares|Cut through|Strong cut the left"
+  },
+  "50": {
+    "ナナメ２マスを|左下から彫りぬく|下側を強く彫る": "Carve two squares|Cut through lower left|Strong cut the bottom"
+  },
+  "51": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "52": {
+    "２倍の力で彫る": "Carve with 2x power"
+  },
+  "53": {
+    "３倍の力で彫る": "Carve with 3x power"
+  },
+  "54": {
+    "通常より|高い会心率で|彫る": "More often|Quicken your pulse|Carve"
+  },
+  "55": {
+    "clarity_nt_char_18": "clarity_nt_char_18"
+  },
+  "56": {
+    "タテ１列に対して|カンナを軽く引く": "For 1 vertical column|Lightly pull the canner"
+  },
+  "57": {
+    "使用したマスが|４ターンの間|削られなくなる": "The used square|will not be removed|for 4 turns"
+  },
+  "58": {
+    "clarity_nt_char_19": "clarity_nt_char_19"
+  },
+  "59": {
+    "１マスを|理想形に彫りぬく|一撃必殺の大技！": "Carve 1 square into an ideal shape|One-shot deadly feat!"
+  },
+  "60": {
+    "clarity_nt_char_20": "clarity_nt_char_20"
+  },
+  "61": {
+    "木工台を|回転させる": "Rotate the table"
+  },
+  "62": {
+    "clarity_nt_char_21": "clarity_nt_char_21"
+  },
+  "63": {
+    "おぼえてるだけで|会心の出る確率が|常に 0.1％アップ": "Critical chance|increased|by 0.1%."
+  },
+  "64": {
+    "clarity_nt_char_22": "clarity_nt_char_22"
+  },
+  "65": {
+    "おぼえてるだけで|会心の出る確率が|常に 0.2％アップ": "Critical chance|increased|by 0.2%."
+  },
+  "66": {
+    "clarity_nt_char_23": "clarity_nt_char_23"
+  },
+  "67": {
+    "おぼえてるだけで|会心の出る確率が|常に 0.3％アップ": "Critical chance|increased|by 0.3%."
+  },
+  "68": {
+    "clarity_nt_char_24": "clarity_nt_char_24"
+  },
+  "69": {
+    "おぼえてるだけで|必殺の出る確率が|少しだけアップ": "Special chance|is slightly|increased."
+  },
+  "70": {
+    "使用したマスが|彫りやすくなる|会心率もアップ！": "The squares used will|be easier to carve and|the rate will increase!"
+  },
+  "71": {
+    "clarity_nt_char_25": "clarity_nt_char_25"
+  },
+  "72": {
+    "木目に沿うと|会心率が高くなる|昇竜彫り": "If you follow the|grain, you can increase|rate of carve"
+  },
+  "73": {
+    "clarity_nt_char_26": "clarity_nt_char_26"
+  },
+  "74": {
+    "まれに集中力回復": "Rarely Recover Focus"
+  },
+  "75": {
+    "clarity_nt_char_27": "clarity_nt_char_27"
+  },
+  "76": {
+    "おぼえてるだけで|まれに集中力が|回復する": "Rarely recovers|your focus."
+  }
+}

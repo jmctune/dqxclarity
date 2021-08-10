@@ -1,0 +1,908 @@
+{
+  "1": {
+    "「たしかに　移動しましたであります。": "Surely, it has moved."
+  },
+  "2": {
+    "clarity_nt_char_1": "clarity_nt_char_1"
+  },
+  "3": {
+    "申し訳ございません。|パーティーでのエントリーは|リーダーの方のみ　受け付けております。": ""
+  },
+  "4": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "5": {
+    "熱き戦いの場　コロシアムへ　ようこそ！|こちらは　６人対戦専用受付です。|エントリーされますか？": ""
+  },
+  "6": {
+    "clarity_nt_char_3": "clarity_nt_char_3"
+  },
+  "7": {
+    "それでは　<%sL_PT_KAIKYUU>に|エントリーさせていただきます。": ""
+  },
+  "8": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "9": {
+    "おや？　<%sL_BUSY_PC>さんは|お忙しいようですね。|用事が済んでから　またお越しください。": ""
+  },
+  "10": {
+    "おや？　全員お揃いではないようですね。|みなさんが　お揃いになってから|また　いらしてください。": ""
+  },
+  "11": {
+    "clarity_nt_char_5": "clarity_nt_char_5"
+  },
+  "12": {
+    "あなたは　既にエントリーされていますよ。|エントリーを　取り消しますか？": ""
+  },
+  "13": {
+    "clarity_nt_char_6": "clarity_nt_char_6"
+  },
+  "14": {
+    "エントリーを　受け付けました。|<br>|ともに戦うなかまと　|対戦相手が　決まるまで|しばらく　お待ちください。": ""
+  },
+  "15": {
+    "あなたのパーティーは　|既にエントリーされていますよ。|<br>|ともに戦うなかまと|対戦相手が　決まるまで|しばらく　お待ちください。": ""
+  },
+  "16": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "17": {
+    "あなたのパーティーは　|既にエントリーされていますよ。|<br>|対戦相手が　決まるまで|しばらく　お待ちください。": ""
+  },
+  "18": {
+    "clarity_nt_char_8": "clarity_nt_char_8"
+  },
+  "19": {
+    "あなたは　既にエントリーされていますよ。|<br>|ともに戦うなかまと|対戦相手が　決まるまで|しばらく　お待ちください。": ""
+  },
+  "20": {
+    "申し訳ございません。|ただいま　エントリーがいっぱいなので、|すこし待ってから　エントリーしてください。": ""
+  },
+  "21": {
+    "clarity_nt_char_9": "clarity_nt_char_9"
+  },
+  "22": {
+    "対戦が　決まりました！|それでは　対戦会場へ　お連れいたします。": ""
+  },
+  "23": {
+    "clarity_nt_char_10": "clarity_nt_char_10"
+  },
+  "24": {
+    "エントリー中に　異常が発生しました。|申し訳ありませんが|エントリーをやりなおしてください。": ""
+  },
+  "25": {
+    "clarity_nt_char_11": "clarity_nt_char_11"
+  },
+  "26": {
+    "あなたのパーティーは|まだエントリーされていませんよ。": ""
+  },
+  "27": {
+    "あなたは　まだエントリーされていませんよ。": "You haven't been entered yet."
+  },
+  "28": {
+    "あなたのパーティーの|エントリーを　取り消しました。|またの機会を　お待ちしております。": ""
+  },
+  "29": {
+    "clarity_nt_char_12": "clarity_nt_char_12"
+  },
+  "30": {
+    "あなたのエントリーを　取り消しました。|またの機会を　お待ちしております。": ""
+  },
+  "31": {
+    "あなたのパーティーは　|既にエントリーされていますよ。|エントリーを　取り消しますか？": ""
+  },
+  "32": {
+    "それでは　あなたのエントリーを　|受け付けたままでいます。|<br>|ともに戦うなかまと|対戦相手が　決まるまで|しばらく　お待ちください。": ""
+  },
+  "33": {
+    "clarity_nt_char_13": "clarity_nt_char_13"
+  },
+  "34": {
+    "それでは|あなたのパーティーのエントリーを　|受け付けたままでいます。|<br>|ともに戦うなかまと|対戦相手が　決まるまで|しばらく　お待ちください。": ""
+  },
+  "35": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "36": {
+    "それでは|あなたのパーティーのエントリーを　|受け付けたままでいます。|<br>|対戦相手が　決まるまで|しばらく　お待ちください。": ""
+  },
+  "37": {
+    "clarity_nt_char_15": "clarity_nt_char_15"
+  },
+  "38": {
+    "エントリーを　受け付けました。|<br>|対戦相手が　決まるまで|しばらく　お待ちください。": ""
+  },
+  "39": {
+    "clarity_nt_char_16": "clarity_nt_char_16"
+  },
+  "40": {
+    "かしこまりました。|またの機会を　お待ちしております。": ""
+  },
+  "41": {
+    "武器鍛冶中断・・・・orz<ask>": "Weapon Smith Interruption"
+  },
+  "42": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "43": {
+    "武器鍛冶成功！！！！<ask>": "Weapon Smithing Success!"
+  },
+  "44": {
+    "「どれを移動するでありますか？": "Which do you want to move to?"
+  },
+  "45": {
+    "つかうもの": "Items"
+  },
+  "46": {
+    "そうびひん": "Equipment"
+  },
+  "47": {
+    "メニューシーケンス復旧中です。　プランナー原田": "Restoring menu sequence"
+  },
+  "48": {
+    "（仮MES）|エントランスへジャンプします": ""
+  },
+  "49": {
+    "（仮MES）|連戦モードへ突入します": ""
+  },
+  "50": {
+    "clarity_nt_char_18": "clarity_nt_char_18"
+  },
+  "51": {
+    "続けて　次の対戦相手と|戦うことができます。|連戦されますか？|<break>": ""
+  },
+  "52": {
+    "続けて　次の対戦相手と|戦うか　リーダーが決めています。|<break>": ""
+  },
+  "53": {
+    "clarity_nt_char_19": "clarity_nt_char_19"
+  },
+  "54": {
+    "03MSコロシアム受付へ　ようこそ！|対戦したい　パーティーリーダーを|選んでください。": ""
+  },
+  "55": {
+    "clarity_nt_char_20": "clarity_nt_char_20"
+  },
+  "56": {
+    "おやめになるのですね？|ありがとうございました。|またの機会を　お待ちしてます。": ""
+  },
+  "57": {
+    "clarity_nt_char_21": "clarity_nt_char_21"
+  },
+  "58": {
+    "誰と対戦する？": "Play against whom?"
+  },
+  "59": {
+    "連戦モードは未実装です。|エントランスに戻ります。": ""
+  },
+  "60": {
+    "ウェディ": "Weddie"
+  },
+  "61": {
+    "clarity_nt_char_22": "clarity_nt_char_22"
+  },
+  "62": {
+    "プクリポ": "Pukulipo"
+  },
+  "63": {
+    "clarity_nt_char_23": "clarity_nt_char_23"
+  },
+  "64": {
+    "オーガ": "Ogre"
+  },
+  "65": {
+    "人間": "Human"
+  },
+  "66": {
+    "clarity_nt_char_24": "clarity_nt_char_24"
+  },
+  "67": {
+    "エルフ": "Elf"
+  },
+  "68": {
+    "ドワーフ": "Dwarf"
+  },
+  "69": {
+    "clarity_nt_char_25": "clarity_nt_char_25"
+  },
+  "70": {
+    "男": "M"
+  },
+  "71": {
+    "女": "F"
+  },
+  "72": {
+    "未実装です。": "Not implemented"
+  },
+  "73": {
+    "clarity_nt_char_26": "clarity_nt_char_26"
+  },
+  "74": {
+    "<%sL_PC_NICK>は　<%sL_KAITAI_ITEM>を|装備した！": ""
+  },
+  "75": {
+    "よろず屋": "Item Shop"
+  },
+  "76": {
+    "clarity_nt_char_27": "clarity_nt_char_27"
+  },
+  "77": {
+    "建物屋": "Bld. Shop"
+  },
+  "78": {
+    "素材屋": "Mat. Shop"
+  },
+  "79": {
+    "料理屋": "Eatery"
+  },
+  "80": {
+    "家具屋": "Furniture"
+  },
+  "81": {
+    "道具屋": "Tool Shop"
+  },
+  "82": {
+    "武器と盾の店": "Wep. & Shield Shop"
+  },
+  "83": {
+    "clarity_nt_char_28": "clarity_nt_char_28"
+  },
+  "84": {
+    "防具屋": "Gear Shop"
+  },
+  "85": {
+    "武器と防具の店": "Weapon & Armor Shop"
+  },
+  "86": {
+    "旅人バザー": "Traveler Bazaar"
+  },
+  "87": {
+    "<%sL_SENDER_NAME>からの届け物": "Delivery from <%sL_SENDER_NAME>"
+  },
+  "88": {
+    "<%sM_pc>からの手紙": "Letter from <%sM_pc>"
+  },
+  "89": {
+    "ルーラストーン": "Zoomstone"
+  },
+  "90": {
+    "仲間ひとりの|毒をなおします": "Removes poison|from a|party member."
+  },
+  "91": {
+    "clarity_nt_char_29": "clarity_nt_char_29"
+  },
+  "92": {
+    "仲間ひとりの|呪いを解きます": "Removes a curse|from a|party member."
+  },
+  "93": {
+    "clarity_nt_char_30": "clarity_nt_char_30"
+  },
+  "94": {
+    "もうひとつの姿を|呼び覚まして|種族を変更します": "Awaken your|other form and|change races."
+  },
+  "95": {
+    "clarity_nt_char_31": "clarity_nt_char_31"
+  },
+  "96": {
+    "仲間をひとり|いきかえらせます": "Brings a|party member|back to life."
+  },
+  "97": {
+    "チカラ尽きた時に|復活する場所を|この教会にします": "Register this|church for|resurrection."
+  },
+  "98": {
+    "この場所を|ルーラストーンに|記憶させます": "Register this|place in|a Zoomstone."
+  },
+  "99": {
+    "冒険の記録と|ゲームの中断が|おこなえます": ""
+  },
+  "100": {
+    "レシピ屋": "Recipe Shop"
+  },
+  "101": {
+    "clarity_nt_char_32": "clarity_nt_char_32"
+  },
+  "102": {
+    "便せん屋": "Stationery"
+  },
+  "103": {
+    "clarity_nt_char_33": "clarity_nt_char_33"
+  },
+  "104": {
+    "Lv<%dM_lv>": "Lv<%dM_lv>"
+  },
+  "105": {
+    "clarity_nt_char_34": "clarity_nt_char_34"
+  },
+  "106": {
+    "Lv <%dM_lv>": "Lv <%dM_lv>"
+  },
+  "107": {
+    "<%sL_DOKU_PCNAME>は 生き返った！": "<%sL_DOKU_PCNAME> was revived!"
+  },
+  "108": {
+    "「<%sL_SYOKUNIN>であれば　|　仕事の依頼が受けられます。<bw_break>": ""
+  },
+  "109": {
+    "売れない": "Unsellable"
+  },
+  "110": {
+    "clarity_nt_char_35": "clarity_nt_char_35"
+  },
+  "111": {
+    "売店": "Shop"
+  },
+  "112": {
+    "clarity_nt_char_36": "clarity_nt_char_36"
+  },
+  "113": {
+    "アクセサリーショップ": "Accessory Shop"
+  },
+  "114": {
+    "clarity_nt_char_37": "clarity_nt_char_37"
+  },
+  "115": {
+    "<%sL_SERVER>に　移動しました。": "Moved to <%sL_SERVER>."
+  },
+  "116": {
+    "荷物を選ぶ": "Choose Luggage"
+  },
+  "117": {
+    "手紙を選ぶ": "Choose a Letter"
+  },
+  "118": {
+    "特等": " "
+  },
+  "119": {
+    "clarity_nt_char_38": "clarity_nt_char_38"
+  },
+  "120": {
+    "<%nL_TOU>等": "<%nL_TOU>"
+  },
+  "121": {
+    "clarity_nt_char_39": "clarity_nt_char_39"
+  },
+  "122": {
+    "チーム購買部": "Team Shop"
+  },
+  "123": {
+    "clarity_nt_char_40": "clarity_nt_char_40"
+  },
+  "124": {
+    "タネ屋": "Seed Shop"
+  },
+  "125": {
+    "チームメンバー": "Team Members"
+  },
+  "126": {
+    "庭具屋": "Gdn. Shop"
+  },
+  "127": {
+    "きせかえドール": "Dress-up Doll"
+  },
+  "128": {
+    "ハウジング": "Housing"
+  },
+  "129": {
+    "指定しない": "Not specified"
+  },
+  "130": {
+    "<%sM_space>６～１０": "<%sM_space>6-10"
+  },
+  "131": {
+    "２６～３０": "26-30"
+  },
+  "132": {
+    "２１～２５": "21-25"
+  },
+  "133": {
+    "１６～２０": "16-20"
+  },
+  "134": {
+    "１１～１５": "11-15"
+  },
+  "135": {
+    "<%sM_space>１～<%sM_space>５": "<%sM_space>1-<%sM_space>5"
+  },
+  "136": {
+    "夜": "Eve"
+  },
+  "137": {
+    "毎日プレイ": "Daily Play"
+  },
+  "138": {
+    "休日メイン": "Main Holiday"
+  },
+  "139": {
+    "いつでも": "Anytime"
+  },
+  "140": {
+    "clarity_nt_char_41": "clarity_nt_char_41"
+  },
+  "141": {
+    "昼": "Day"
+  },
+  "142": {
+    "平日メイン": "Main Weekday"
+  },
+  "143": {
+    "朝": "Mo."
+  },
+  "144": {
+    "誰でも": "Anyone"
+  },
+  "145": {
+    "学生": "School"
+  },
+  "146": {
+    "clarity_nt_char_42": "clarity_nt_char_42"
+  },
+  "147": {
+    "♀キャラ": "Male"
+  },
+  "148": {
+    "clarity_nt_char_43": "clarity_nt_char_43"
+  },
+  "149": {
+    "♂キャラ": "Female"
+  },
+  "150": {
+    "clarity_nt_char_44": "clarity_nt_char_44"
+  },
+  "151": {
+    "シニア": "Senior"
+  },
+  "152": {
+    "社会人": "Society"
+  },
+  "153": {
+    "雑談メイン": "Main Chat"
+  },
+  "154": {
+    "雑談好き": "Like to Chat"
+  },
+  "155": {
+    "clarity_nt_char_45": "clarity_nt_char_45"
+  },
+  "156": {
+    "やりこみ派": "Speedrun"
+  },
+  "157": {
+    "討伐隊": "Sub. Corp"
+  },
+  "158": {
+    "特訓": "Train"
+  },
+  "159": {
+    "clarity_nt_char_46": "clarity_nt_char_46"
+  },
+  "160": {
+    "チームクエスト": "Team Quests"
+  },
+  "161": {
+    "初心者歓迎": "Beginners"
+  },
+  "162": {
+    "職人メイン": "Main Crafter"
+  },
+  "163": {
+    "サブキャラOK": "Alt Character OK"
+  },
+  "164": {
+    "素材集め": "Materials"
+  },
+  "165": {
+    "clarity_nt_char_47": "clarity_nt_char_47"
+  },
+  "166": {
+    "戦闘メイン": "Combat Main"
+  },
+  "167": {
+    "季節イベント": "Seasonal Event"
+  },
+  "168": {
+    "clarity_nt_char_48": "clarity_nt_char_48"
+  },
+  "169": {
+    "シナリオ攻略": "Scenario Capture"
+  },
+  "170": {
+    "clarity_nt_char_49": "clarity_nt_char_49"
+  },
+  "171": {
+    "なんでも": "Any"
+  },
+  "172": {
+    "clarity_nt_char_50": "clarity_nt_char_50"
+  },
+  "173": {
+    "魔法の迷宮": ""
+  },
+  "174": {
+    "レベル上げ": "Level Up"
+  },
+  "175": {
+    "攻略メイン": "Strategy Main"
+  },
+  "176": {
+    "ひとりプレイ": "Playing Alone"
+  },
+  "177": {
+    "clarity_nt_char_51": "clarity_nt_char_51"
+  },
+  "178": {
+    "お金かせぎ": "Earn Money"
+  },
+  "179": {
+    "イベント有り": "Event Available"
+  },
+  "180": {
+    "clarity_nt_char_52": "clarity_nt_char_52"
+  },
+  "181": {
+    "ボス討伐": "Boss Subj."
+  },
+  "182": {
+    "clarity_nt_char_53": "clarity_nt_char_53"
+  },
+  "183": {
+    "まったりと": "Relaxed"
+  },
+  "184": {
+    "チームLv": "Team Level"
+  },
+  "185": {
+    "メンバー数順": "By # of members"
+  },
+  "186": {
+    "clarity_nt_char_54": "clarity_nt_char_54"
+  },
+  "187": {
+    "チームレベル順": "Team Level Order"
+  },
+  "188": {
+    "５０音順": "A-Z"
+  },
+  "189": {
+    "clarity_nt_char_55": "clarity_nt_char_55"
+  },
+  "190": {
+    "プリズムなし": "No Prism"
+  },
+  "191": {
+    "clarity_nt_char_56": "clarity_nt_char_56"
+  },
+  "192": {
+    "ドルボードのカラーを変更。|※カラーリング用の素材が|　必要となります。": ""
+  },
+  "193": {
+    "clarity_nt_char_57": "clarity_nt_char_57"
+  },
+  "194": {
+    "ドルボードのフォルムを変更。|※プリズムをひとつ以上マシンに　取り付ける必要があります。": ""
+  },
+  "195": {
+    "clarity_nt_char_58": "clarity_nt_char_58"
+  },
+  "196": {
+    "職業の証": "Proof"
+  },
+  "197": {
+    "clarity_nt_char_59": "clarity_nt_char_59"
+  },
+  "198": {
+    "手持ち装備": "Hand Equipment"
+  },
+  "199": {
+    "職人の装備": "Craftsman Gear"
+  },
+  "200": {
+    "職業専用装備": "Job Only Equipment"
+  },
+  "201": {
+    "clarity_nt_char_60": "clarity_nt_char_60"
+  },
+  "202": {
+    "おしゃれ装備": "Fashion Equipment"
+  },
+  "203": {
+    "clarity_nt_char_61": "clarity_nt_char_61"
+  },
+  "204": {
+    "その他コンテンツの報酬": "Other Content Rewards"
+  },
+  "205": {
+    "バトルロードに参|加の説明": ""
+  },
+  "206": {
+    "バトルの準備の説|明": ""
+  },
+  "207": {
+    "clarity_nt_char_62": "clarity_nt_char_62"
+  },
+  "208": {
+    "サポートモンスタ|ーの説明": ""
+  },
+  "209": {
+    "説明を聞くの説明": "Listen to explanation"
+  },
+  "210": {
+    "clarity_nt_char_63": "clarity_nt_char_63"
+  },
+  "211": {
+    "(ぜんぶ)": "(All)"
+  },
+  "212": {
+    "その他": "Other"
+  },
+  "213": {
+    "最近送った人": "Recently Sent"
+  },
+  "214": {
+    "clarity_nt_char_64": "clarity_nt_char_64"
+  },
+  "215": {
+    "錬金釜のフォルムを変更。|※プリズムをひとつ以上錬金釜に　取り付ける必要があります。": ""
+  },
+  "216": {
+    "clarity_nt_char_65": "clarity_nt_char_65"
+  },
+  "217": {
+    "錬金釜のカラーを変更。|※カラーリング用の素材と|　料金が必要となります。": ""
+  },
+  "218": {
+    "水着屋": "Swim Shop"
+  },
+  "219": {
+    "ギャグで場を和ませる": "Lighten up everyone with a gag"
+  },
+  "220": {
+    "clarity_nt_char_66": "clarity_nt_char_66"
+  },
+  "221": {
+    "ひとりで練習にはげむ": "Practice by Yourself"
+  },
+  "222": {
+    "clarity_nt_char_67": "clarity_nt_char_67"
+  },
+  "223": {
+    "すぐにもう一度チャレンジする": "Challenge Again"
+  },
+  "224": {
+    "clarity_nt_char_68": "clarity_nt_char_68"
+  },
+  "225": {
+    "仲間に向けてがんばろうと励ます": "Encourage your companions to do their best."
+  },
+  "226": {
+    "あなたは　コロシアムで負けてしまい|とても　悔しい思いをしました。|一緒に戦ったメンバーも|落ち込んでいます。|あなたは　そんな場面でどうしますか？": ""
+  },
+  "227": {
+    "clarity_nt_char_69": "clarity_nt_char_69"
+  },
+  "228": {
+    "あなたにとって|勝利とは　戦うことで|得られるものですか？": ""
+  },
+  "229": {
+    "建物家具屋": "Bldg. Furniture"
+  },
+  "230": {
+    "素材タネ屋": "Mat. Seed Shop"
+  },
+  "231": {
+    "コイン屋": "Coin Shop"
+  },
+  "232": {
+    "clarity_nt_char_70": "clarity_nt_char_70"
+  },
+  "233": {
+    "ハウジングショップ": "Housing Shop"
+  },
+  "234": {
+    "家具": "Furn."
+  },
+  "235": {
+    "clarity_nt_char_71": "clarity_nt_char_71"
+  },
+  "236": {
+    "庭具": "Garden"
+  },
+  "237": {
+    "clarity_nt_char_72": "clarity_nt_char_72"
+  },
+  "238": {
+    "建物": "Bldg."
+  },
+  "239": {
+    "clarity_nt_char_73": "clarity_nt_char_73"
+  },
+  "240": {
+    "便せん": "Paper"
+  },
+  "241": {
+    "プレゼント屋": "Present Shop"
+  },
+  "242": {
+    "clarity_nt_char_74": "clarity_nt_char_74"
+  },
+  "243": {
+    "季節の報酬・春夏": "Seasonal Rewards (Sp/Su)"
+  },
+  "244": {
+    "clarity_nt_char_75": "clarity_nt_char_75"
+  },
+  "245": {
+    "季節の報酬・秋冬": "Seasonal Rewards (Fa/Wi)"
+  },
+  "246": {
+    "clarity_nt_char_76": "clarity_nt_char_76"
+  },
+  "247": {
+    "常闇と聖守護者の装備": "Dark and Holy Guardian Eqpmt."
+  },
+  "248": {
+    "clarity_nt_char_77": "clarity_nt_char_77"
+  },
+  "249": {
+    "その他２": "Other 2"
+  },
+  "250": {
+    "clarity_nt_char_78": "clarity_nt_char_78"
+  },
+  "251": {
+    "特典屋": "Rewards"
+  },
+  "252": {
+    "聖守護者の闘戦記の装備": "Battle of Holy Guardian Equipment"
+  },
+  "253": {
+    "釣りの褒美": "Fishing Reward"
+  },
+  "254": {
+    "その他３": "Other 3"
+  },
+  "255": {
+    "clarity_nt_char_79": "clarity_nt_char_79"
+  },
+  "256": {
+    "強敵チャレンジの報酬": "Strong Enemy Challenge Reward"
+  },
+  "257": {
+    "clarity_nt_char_80": "clarity_nt_char_80"
+  },
+  "258": {
+    "クエスト装備": "Quest Equipment"
+  },
+  "259": {
+    "clarity_nt_char_81": "clarity_nt_char_81"
+  },
+  "260": {
+    "特典やプレゼント": "Presents and Benefits"
+  },
+  "261": {
+    "clarity_nt_char_82": "clarity_nt_char_82"
+  },
+  "262": {
+    "コラボイベントの報酬": "Collab Event Rewards"
+  },
+  "263": {
+    "clarity_nt_char_83": "clarity_nt_char_83"
+  },
+  "264": {
+    "バトルコンテンツ報酬": "Battle Content Reward"
+  },
+  "265": {
+    "clarity_nt_char_84": "clarity_nt_char_84"
+  },
+  "266": {
+    "ストーリーの報酬": "Story Rewards"
+  },
+  "267": {
+    "clarity_nt_char_85": "clarity_nt_char_85"
+  },
+  "268": {
+    "消費アイテム": "Consumables"
+  },
+  "269": {
+    "clarity_nt_char_86": "clarity_nt_char_86"
+  },
+  "270": {
+    "石系": "Stone"
+  },
+  "271": {
+    "clarity_nt_char_87": "clarity_nt_char_87"
+  },
+  "272": {
+    "植物系": "Plant"
+  },
+  "273": {
+    "モンスター系": "Monster type"
+  },
+  "274": {
+    "clarity_nt_char_88": "clarity_nt_char_88"
+  },
+  "275": {
+    "教会": "Church"
+  },
+  "276": {
+    "clarity_nt_char_89": "clarity_nt_char_89"
+  },
+  "277": {
+    "住宅商": "Realtor"
+  },
+  "278": {
+    "転職神官": "Job Priest"
+  },
+  "279": {
+    "clarity_nt_char_90": "clarity_nt_char_90"
+  },
+  "280": {
+    "旅のコンシェルジュ": "Travel Concierge"
+  },
+  "281": {
+    "冒険者の酒場": "Adventurer Tavern"
+  },
+  "282": {
+    "clarity_nt_char_91": "clarity_nt_char_91"
+  },
+  "283": {
+    "預かり所": "Depository"
+  },
+  "284": {
+    "clarity_nt_char_92": "clarity_nt_char_92"
+  },
+  "285": {
+    "郵便局": "P. Office"
+  },
+  "286": {
+    "郵便局の衣装": "Post Office Outfit"
+  },
+  "287": {
+    "clarity_nt_char_93": "clarity_nt_char_93"
+  },
+  "288": {
+    "素材タネ屋の衣装": "Seed Shop Outfit"
+  },
+  "289": {
+    "clarity_nt_char_94": "clarity_nt_char_94"
+  },
+  "290": {
+    "教会の衣装": "Church Outfit"
+  },
+  "291": {
+    "住宅商の衣装": "Realtor Outfit"
+  },
+  "292": {
+    "clarity_nt_char_95": "clarity_nt_char_95"
+  },
+  "293": {
+    "ダーマの神殿の衣装": "Dharma Outfit"
+  },
+  "294": {
+    "旅コンの衣装": "Concierge Outfit"
+  },
+  "295": {
+    "clarity_nt_char_96": "clarity_nt_char_96"
+  },
+  "296": {
+    "冒険者の酒場の衣装": "Adventurer Tavern Outfit"
+  },
+  "297": {
+    "旅人バザーの衣装": "Traveler Bazaar Outfit"
+  },
+  "298": {
+    "clarity_nt_char_97": "clarity_nt_char_97"
+  },
+  "299": {
+    "預かり所の衣装": ""
+  },
+  "300": {
+    "コラボや運営コンテンツ": ""
+  },
+  "301": {
+    "その他のコンテンツ": ""
+  },
+  "302": {
+    "バトルコンテンツ": ""
+  }
+}

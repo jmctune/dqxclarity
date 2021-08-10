@@ -1,0 +1,86 @@
+{
+  "1": {
+    "勇気の輝き残り<%dW_T_SECOND>": "Spark of Courage Left<%dW_T_SECOND>"
+  },
+  "2": {
+    "制限時間残り<%dW_T_MINUTE>分": "Time Left <%dW_T_MINUTE> min."
+  },
+  "3": {
+    "解答時間残り<%dW_T_SECOND>": "Answer Time <%dW_T_SECOND>"
+  },
+  "4": {
+    "clarity_nt_char_1": "clarity_nt_char_1"
+  },
+  "5": {
+    "解答時間残り<%dW_T_SECOND>秒": "Answer Time <%dW_T_SECOND> sec."
+  },
+  "6": {
+    "開催まで残り<%dW_T_MINUTE>分": "Event Starts In <%dW_T_MINUTE> min."
+  },
+  "7": {
+    "<%sW_MONSNAME>を倒せ！ 残り<%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "<%sW_MONSNAME> defeated! <%dW_T_M_MINUTE>m. <%dW_T_M_SECOND>s. left."
+  },
+  "8": {
+    "制限時間残り<%dW_T_SECOND>秒": "Time Left <%dW_T_SECOND> sec."
+  },
+  "9": {
+    "制限時間残り<%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "Time Left <%dW_T_M_MINUTE> min. <%dW_T_M_SECOND> sec."
+  },
+  "10": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "11": {
+    "願いのかけら <%dW_T_SECOND>こ": "Wish Fragments: <%dW_T_SECOND>"
+  },
+  "12": {
+    "clarity_nt_char_3": "clarity_nt_char_3"
+  },
+  "13": {
+    "青い火が消えるまで残り<%dW_T_SECOND>": "Blue Fire Time Left <%dW_T_SECOND>"
+  },
+  "14": {
+    "残り<%dW_T_MINUTE>分 <%sC_ITMR_STITLE>": "<%dW_T_MINUTE> m. Left <%sC_ITMR_STITLE>"
+  },
+  "15": {
+    "赤い火が消えるまで残り<%dW_T_SECOND>": "Red Fire Time Left <%dW_T_SECOND>"
+  },
+  "16": {
+    "紫の火が消えるまで残り<%dW_T_SECOND>": "Purple Fire Time Left <%dW_T_SECOND>"
+  },
+  "17": {
+    "白い火が消えるまで残り<%dW_T_SECOND>": "White Fire Time Left <%dW_T_SECOND>"
+  },
+  "18": {
+    "アストルティアラリー開始まで残り<%dW_T_MINUTE>分": "Astoltia Rally Starts In <%dW_T_MINUTE> min."
+  },
+  "19": {
+    "回答時間残り<%dW_T_SECOND>秒": "Answer Time <%dW_T_SECOND> sec."
+  },
+  "20": {
+    "グランプリ開始まで残り<%dW_T_MINUTE>分": "Grand Prix Starts In <%dW_T_MINUTE> min."
+  },
+  "21": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "22": {
+    "練習開始まで残り<%dW_T_MINUTE>分": "Practice Starts In <%dW_T_MINUTE> min."
+  },
+  "23": {
+    "<%sC_ITMR_STITLE>": "<%sC_ITMR_STITLE>"
+  },
+  "24": {
+    "フィーバーまで <%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "Fever Until <%dW_T_M_MINUTE> min. <%dW_T_M_SECOND> sec."
+  },
+  "25": {
+    "clarity_nt_char_5": "clarity_nt_char_5"
+  },
+  "26": {
+    "タイムアップまで <%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "Time Up In <%dW_T_M_MINUTE> min. <%dW_T_M_SECOND> sec."
+  },
+  "27": {
+    "提灯の油　残量<%dW_T_SECOND>": "Lantern Oil Left <%dW_T_SECOND>"
+  },
+  "28": {
+    "心の輝き残り<%dW_T_SECOND>": "Heart Left <%dW_T_SECOND>"
+  }
+}

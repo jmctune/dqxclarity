@@ -1,0 +1,23 @@
+{
+    "1": {
+        "<speed=0>ゲーム画面を　表示する場所を|『テレビ』から　『Wii U GamePad』に|変更しますか？|<yesno><close>": ""
+    },
+    "2": {
+        "<speed=0>ゲーム画面を　表示する場所を|『Wii U GamePad』から　『テレビ』に|変更しますか？|<yesno><close>": ""
+    },
+    "3": {
+        "<speed=0>ゲーム画面を　表示する場所を|『Wii U GamePad』に　変更しました。": ""
+    },
+    "4": {
+        "clarity_nt_char_4": "clarity_nt_char_4"
+    },
+    "5": {
+        "<speed=0>ゲーム画面を　表示する場所を|『テレビ』に　変更しました。": ""
+    },
+    "6": {
+        "clarity_nt_char_6": "clarity_nt_char_6"
+    },
+    "7": {
+        "<speed=0>『Wii U GamePad』が　接続されていないため|表示する場所を　変更できません。": ""
+    }
+}

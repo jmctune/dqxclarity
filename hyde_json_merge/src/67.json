@@ -1,0 +1,647 @@
+{
+  "1": {
+    "アンルシア": "Anlucia"
+  },
+  "2": {
+    "カンダタ": "Robbin' 'Ood"
+  },
+  "3": {
+    "clarity_nt_char_1": "clarity_nt_char_1"
+  },
+  "4": {
+    "リィン": "Lynn"
+  },
+  "5": {
+    "ラウル": "Raul"
+  },
+  "6": {
+    "エステラ": "Estella"
+  },
+  "7": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "8": {
+    "ヒストリカ": "Historica"
+  },
+  "9": {
+    "ヒューザ": "Huzer"
+  },
+  "10": {
+    "clarity_nt_char_3": "clarity_nt_char_3"
+  },
+  "11": {
+    "兄弟": "Bro."
+  },
+  "12": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "13": {
+    "シンイ": "Shini"
+  },
+  "14": {
+    "ゆうぼん": "Mail"
+  },
+  "15": {
+    "clarity_nt_char_5": "clarity_nt_char_5"
+  },
+  "16": {
+    "すぎやん": "Too Big"
+  },
+  "17": {
+    "clarity_nt_char_6": "clarity_nt_char_6"
+  },
+  "18": {
+    "アキーラ": "Akira"
+  },
+  "19": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "20": {
+    "イカリン": "Ikarin"
+  },
+  "21": {
+    "clarity_nt_char_8": "clarity_nt_char_8"
+  },
+  "22": {
+    "タコポン": "Takopon"
+  },
+  "23": {
+    "clarity_nt_char_9": "clarity_nt_char_9"
+  },
+  "24": {
+    "ワカメン": "Wakamen"
+  },
+  "25": {
+    "clarity_nt_char_10": "clarity_nt_char_10"
+  },
+  "26": {
+    "リベリオ": "Riberio"
+  },
+  "27": {
+    "clarity_nt_char_11": "clarity_nt_char_11"
+  },
+  "28": {
+    "トーマス先生": "Mr. Thomas"
+  },
+  "29": {
+    "clarity_nt_char_12": "clarity_nt_char_12"
+  },
+  "30": {
+    "ミルネ先生": "Mrs. Milne"
+  },
+  "31": {
+    "ガシュー先生": "Mr. Gash"
+  },
+  "32": {
+    "clarity_nt_char_13": "clarity_nt_char_13"
+  },
+  "33": {
+    "カカロン": "Klashmi"
+  },
+  "34": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "35": {
+    "クオード": "Quard"
+  },
+  "36": {
+    "clarity_nt_char_15": "clarity_nt_char_15"
+  },
+  "37": {
+    "リーネ": "Renee"
+  },
+  "38": {
+    "トビアス": "Tobias"
+  },
+  "39": {
+    "clarity_nt_char_16": "clarity_nt_char_16"
+  },
+  "40": {
+    "カミル": "Kamil"
+  },
+  "41": {
+    "アルヴァン": "Alvan"
+  },
+  "42": {
+    "ギルガラン": "Gilgaran"
+  },
+  "43": {
+    "ポイックリン": "Poiclin"
+  },
+  "44": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "45": {
+    "Ｐ８９０": "P 890"
+  },
+  "46": {
+    "clarity_nt_char_18": "clarity_nt_char_18"
+  },
+  "47": {
+    "リュウタ": "Ryuuta"
+  },
+  "48": {
+    "clarity_nt_char_19": "clarity_nt_char_19"
+  },
+  "49": {
+    "ファラス": "Faras"
+  },
+  "50": {
+    "clarity_nt_char_20": "clarity_nt_char_20"
+  },
+  "51": {
+    "パドレ": "Padre"
+  },
+  "52": {
+    "英雄プクラス": "Hero Puklas"
+  },
+  "53": {
+    "clarity_nt_char_21": "clarity_nt_char_21"
+  },
+  "54": {
+    "オルタ": "Alter"
+  },
+  "55": {
+    "キッスイ": "Kissui"
+  },
+  "56": {
+    "clarity_nt_char_22": "clarity_nt_char_22"
+  },
+  "57": {
+    "シャーン": "Schan"
+  },
+  "58": {
+    "clarity_nt_char_23": "clarity_nt_char_23"
+  },
+  "59": {
+    "ヒコッツィ": "Hikozzi"
+  },
+  "60": {
+    "ジェニャ": "Jenya"
+  },
+  "61": {
+    "clarity_nt_char_24": "clarity_nt_char_24"
+  },
+  "62": {
+    "ズーボー": "Zubo"
+  },
+  "63": {
+    "clarity_nt_char_25": "clarity_nt_char_25"
+  },
+  "64": {
+    "秘宝の近衛兵": "Treasure Karmour"
+  },
+  "65": {
+    "clarity_nt_char_26": "clarity_nt_char_26"
+  },
+  "66": {
+    "秘宝の竜騎兵": "Treasure Mandrake"
+  },
+  "67": {
+    "clarity_nt_char_27": "clarity_nt_char_27"
+  },
+  "68": {
+    "秘宝の剣士": "Treasure Armour"
+  },
+  "69": {
+    "秘宝の小悪魔": "Treasure White Imp"
+  },
+  "70": {
+    "clarity_nt_char_28": "clarity_nt_char_28"
+  },
+  "71": {
+    "ユシュカ": "Yushka"
+  },
+  "72": {
+    "clarity_nt_char_29": "clarity_nt_char_29"
+  },
+  "73": {
+    "勇者": "HRO"
+  },
+  "74": {
+    "clarity_nt_char_30": "clarity_nt_char_30"
+  },
+  "75": {
+    "ジャ": "Jya"
+  },
+  "76": {
+    "clarity_nt_char_31": "clarity_nt_char_31"
+  },
+  "77": {
+    "ミイ": "Mi"
+  },
+  "78": {
+    "clarity_nt_char_32": "clarity_nt_char_32"
+  },
+  "79": {
+    "あく": "Aku"
+  },
+  "80": {
+    "clarity_nt_char_33": "clarity_nt_char_33"
+  },
+  "81": {
+    "オバ": "Oba"
+  },
+  "82": {
+    "clarity_nt_char_34": "clarity_nt_char_34"
+  },
+  "83": {
+    "パン": "Pan"
+  },
+  "84": {
+    "clarity_nt_char_35": "clarity_nt_char_35"
+  },
+  "85": {
+    "ドラ": "Dora"
+  },
+  "86": {
+    "clarity_nt_char_36": "clarity_nt_char_36"
+  },
+  "87": {
+    "うさ": "Gloom"
+  },
+  "88": {
+    "clarity_nt_char_37": "clarity_nt_char_37"
+  },
+  "89": {
+    "マリ": "Mali"
+  },
+  "90": {
+    "clarity_nt_char_38": "clarity_nt_char_38"
+  },
+  "91": {
+    "だい": "Great"
+  },
+  "92": {
+    "clarity_nt_char_39": "clarity_nt_char_39"
+  },
+  "93": {
+    "タコ": "Octopi"
+  },
+  "94": {
+    "clarity_nt_char_40": "clarity_nt_char_40"
+  },
+  "95": {
+    "スタ": "Star"
+  },
+  "96": {
+    "clarity_nt_char_41": "clarity_nt_char_41"
+  },
+  "97": {
+    "わか": "Youth"
+  },
+  "98": {
+    "clarity_nt_char_42": "clarity_nt_char_42"
+  },
+  "99": {
+    "甘党": "Sweets"
+  },
+  "100": {
+    "clarity_nt_char_43": "clarity_nt_char_43"
+  },
+  "101": {
+    "辛党": "Spicy"
+  },
+  "102": {
+    "clarity_nt_char_44": "clarity_nt_char_44"
+  },
+  "103": {
+    "ねこ": "Cat"
+  },
+  "104": {
+    "clarity_nt_char_45": "clarity_nt_char_45"
+  },
+  "105": {
+    "鶏": "Ckn"
+  },
+  "106": {
+    "農夫": "Farmer"
+  },
+  "107": {
+    "clarity_nt_char_46": "clarity_nt_char_46"
+  },
+  "108": {
+    "ぶた": "Pig"
+  },
+  "109": {
+    "clarity_nt_char_47": "clarity_nt_char_47"
+  },
+  "110": {
+    "しち": "Value"
+  },
+  "111": {
+    "clarity_nt_char_48": "clarity_nt_char_48"
+  },
+  "112": {
+    "戦士": "WAR"
+  },
+  "113": {
+    "clarity_nt_char_49": "clarity_nt_char_49"
+  },
+  "114": {
+    "僧侶": "PRI"
+  },
+  "115": {
+    "clarity_nt_char_50": "clarity_nt_char_50"
+  },
+  "116": {
+    "賢者": "SGE"
+  },
+  "117": {
+    "clarity_nt_char_51": "clarity_nt_char_51"
+  },
+  "118": {
+    "王子": "Prince"
+  },
+  "119": {
+    "clarity_nt_char_52": "clarity_nt_char_52"
+  },
+  "120": {
+    "追跡": "Track"
+  },
+  "121": {
+    "clarity_nt_char_53": "clarity_nt_char_53"
+  },
+  "122": {
+    "逃走": "Escape"
+  },
+  "123": {
+    "clarity_nt_char_54": "clarity_nt_char_54"
+  },
+  "124": {
+    "武闘": "MRT"
+  },
+  "125": {
+    "clarity_nt_char_55": "clarity_nt_char_55"
+  },
+  "126": {
+    "魔使": "MGE"
+  },
+  "127": {
+    "clarity_nt_char_56": "clarity_nt_char_56"
+  },
+  "128": {
+    "盗賊": "THF"
+  },
+  "129": {
+    "clarity_nt_char_57": "clarity_nt_char_57"
+  },
+  "130": {
+    "怪盗": "Thief"
+  },
+  "131": {
+    "clarity_nt_char_58": "clarity_nt_char_58"
+  },
+  "132": {
+    "時監": "Timer"
+  },
+  "133": {
+    "clarity_nt_char_59": "clarity_nt_char_59"
+  },
+  "134": {
+    "剣士": "War."
+  },
+  "135": {
+    "clarity_nt_char_60": "clarity_nt_char_60"
+  },
+  "136": {
+    "パラ": "PLD"
+  },
+  "137": {
+    "clarity_nt_char_61": "clarity_nt_char_61"
+  },
+  "138": {
+    "レン": "RNG"
+  },
+  "139": {
+    "clarity_nt_char_62": "clarity_nt_char_62"
+  },
+  "140": {
+    "デス": "DTH"
+  },
+  "141": {
+    "clarity_nt_char_63": "clarity_nt_char_63"
+  },
+  "142": {
+    "魔王": "LRD"
+  },
+  "143": {
+    "clarity_nt_char_64": "clarity_nt_char_64"
+  },
+  "144": {
+    "ジャック": "Jack"
+  },
+  "145": {
+    "clarity_nt_char_65": "clarity_nt_char_65"
+  },
+  "146": {
+    "ミイラ男": "Mummy Boy"
+  },
+  "147": {
+    "clarity_nt_char_66": "clarity_nt_char_66"
+  },
+  "148": {
+    "あくま": "Demon"
+  },
+  "149": {
+    "オバケ": "Ghost"
+  },
+  "150": {
+    "パンプキン": "Pumpkin"
+  },
+  "151": {
+    "ドラキュラ": "Dracula"
+  },
+  "152": {
+    "茶うさぎ": "Tea Rabbit"
+  },
+  "153": {
+    "clarity_nt_char_67": "clarity_nt_char_67"
+  },
+  "154": {
+    "桃うさぎ": "Peach Rabbit"
+  },
+  "155": {
+    "clarity_nt_char_68": "clarity_nt_char_68"
+  },
+  "156": {
+    "青うさぎ": "Blue Rabbit"
+  },
+  "157": {
+    "clarity_nt_char_69": "clarity_nt_char_69"
+  },
+  "158": {
+    "白うさぎ": "White Rabbit"
+  },
+  "159": {
+    "clarity_nt_char_70": "clarity_nt_char_70"
+  },
+  "160": {
+    "マリンスライム": "Seaslime"
+  },
+  "161": {
+    "だいおうキッズ": "Squid Kid"
+  },
+  "162": {
+    "タコメット": "Octopot"
+  },
+  "163": {
+    "マージスター": "Trickstar"
+  },
+  "164": {
+    "clarity_nt_char_71": "clarity_nt_char_71"
+  },
+  "165": {
+    "わかめ王子": "King Kelp"
+  },
+  "166": {
+    "陰陽師": "Ying Yang"
+  },
+  "167": {
+    "ゆうれい": "Specter"
+  },
+  "168": {
+    "clarity_nt_char_72": "clarity_nt_char_72"
+  },
+  "169": {
+    "時空監察官": "Spacetime Chief"
+  },
+  "170": {
+    "バトルマスター": "BTL"
+  },
+  "171": {
+    "古代の英雄": "Ancient Hero"
+  },
+  "172": {
+    "武闘家": "MRT"
+  },
+  "173": {
+    "パラディン": "PLD"
+  },
+  "174": {
+    "レンジャー": "RNG"
+  },
+  "175": {
+    "オオカミ": "Wolf"
+  },
+  "176": {
+    "clarity_nt_char_73": "clarity_nt_char_73"
+  },
+  "177": {
+    "こぶた": "Piggy"
+  },
+  "178": {
+    "デスマスター": "DTH"
+  },
+  "179": {
+    "clarity_nt_char_74": "clarity_nt_char_74"
+  },
+  "180": {
+    "ヨイ": "Yoi"
+  },
+  "181": {
+    "clarity_nt_char_75": "clarity_nt_char_75"
+  },
+  "182": {
+    "ネリム": "Nelim"
+  },
+  "183": {
+    "イルーシャ": "Irusha"
+  },
+  "184": {
+    "天地": "DRU"
+  },
+  "185": {
+    "clarity_nt_char_76": "clarity_nt_char_76"
+  },
+  "186": {
+    "ディゼル": "Diezel"
+  },
+  "187": {
+    "clarity_nt_char_77": "clarity_nt_char_77"
+  },
+  "188": {
+    "天地雷鳴士": "DRU"
+  },
+  "189": {
+    "クマリス": "Kumaris"
+  },
+  "190": {
+    "clarity_nt_char_78": "clarity_nt_char_78"
+  },
+  "191": {
+    "アスバル": "Asbal"
+  },
+  "192": {
+    "clarity_nt_char_79": "clarity_nt_char_79"
+  },
+  "193": {
+    "ヴァレリア": "Valeria"
+  },
+  "194": {
+    "全て": "All"
+  },
+  "195": {
+    "clarity_nt_char_80": "clarity_nt_char_80"
+  },
+  "196": {
+    "巫女": "MDN"
+  },
+  "197": {
+    "clarity_nt_char_81": "clarity_nt_char_81"
+  },
+  "198": {
+    "魔剣": "DMN"
+  },
+  "199": {
+    "clarity_nt_char_82": "clarity_nt_char_82"
+  },
+  "200": {
+    "魔族": "Demon"
+  },
+  "201": {
+    "clarity_nt_char_83": "clarity_nt_char_83"
+  },
+  "202": {
+    "竜族": "Dragon"
+  },
+  "203": {
+    "clarity_nt_char_84": "clarity_nt_char_84"
+  },
+  "204": {
+    "ねじ": "Screw"
+  },
+  "205": {
+    "clarity_nt_char_85": "clarity_nt_char_85"
+  },
+  "206": {
+    "歯車": "Cog"
+  },
+  "207": {
+    "clarity_nt_char_86": "clarity_nt_char_86"
+  },
+  "208": {
+    "電池": "Cell"
+  },
+  "209": {
+    "clarity_nt_char_87": "clarity_nt_char_87"
+  },
+  "210": {
+    "魔剣士": "DMN"
+  },
+  "211": {
+    "救護": "Relief"
+  },
+  "212": {
+    "clarity_nt_char_88": "clarity_nt_char_88"
+  },
+  "213": {
+    "マリーン": "Marine"
+  },
+  "214": {
+    "clarity_nt_char_89": "clarity_nt_char_89"
+  },
+  "215": {
+    "モモモ": "Momomo"
+  }
+}

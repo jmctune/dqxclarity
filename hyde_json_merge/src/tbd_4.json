@@ -1,0 +1,176 @@
+{
+  "1": {
+    "たたく": "Bash"
+  },
+  "2": {
+    "上下打ち": "Double Bash"
+  },
+  "3": {
+    "clarity_nt_char_1": "clarity_nt_char_1"
+  },
+  "4": {
+    "４連打ち": "Quadrabash"
+  },
+  "5": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "6": {
+    "超４連打ち": "Kaquadrabash"
+  },
+  "7": {
+    "ななめ打ち": "Crosscut Blow"
+  },
+  "8": {
+    "てかげん打ち": "Lightening Bash"
+  },
+  "9": {
+    "clarity_nt_char_3": "clarity_nt_char_3"
+  },
+  "10": {
+    "２倍打ち": "Double Wham"
+  },
+  "11": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "12": {
+    "３倍打ち": "Triple Wham"
+  },
+  "13": {
+    "clarity_nt_char_5": "clarity_nt_char_5"
+  },
+  "14": {
+    "ねらい打ち": "Crackshot Bash"
+  },
+  "15": {
+    "火力上げ": "Sizzly Puff"
+  },
+  "16": {
+    "clarity_nt_char_6": "clarity_nt_char_6"
+  },
+  "17": {
+    "冷やし込み": "C-C-Cold Blow"
+  },
+  "18": {
+    "みだれ打ち": "Multibash"
+  },
+  "19": {
+    "ヘパイトスの炎": "Hephaestus' Flame"
+  },
+  "20": {
+    "会心0.1％アップ": "Critical +0.1%"
+  },
+  "21": {
+    "会心0.2％アップ": "Critical +0.2%"
+  },
+  "22": {
+    "会心0.3％アップ": "Critical +0.3%"
+  },
+  "23": {
+    "必殺率　小アップ": "Small Special Rate Up"
+  },
+  "24": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "25": {
+    "熱風おろし": "Woosh Bang Bash"
+  },
+  "26": {
+    "上下ねらい打ち": "Double Crackshot"
+  },
+  "27": {
+    "ふつうのチカラで|１マスをたたく": "Hit 1 square|with normal|power."
+  },
+  "28": {
+    "clarity_nt_char_8": "clarity_nt_char_8"
+  },
+  "29": {
+    "チカラ強く|上下２マスを|たたく": "A strong vertical|strike over|2 squares."
+  },
+  "30": {
+    "clarity_nt_char_9": "clarity_nt_char_9"
+  },
+  "31": {
+    "チカラ強く|２ｘ２マスを|たたく": "A strong strike|over a 2x2|configuration."
+  },
+  "32": {
+    "clarity_nt_char_10": "clarity_nt_char_10"
+  },
+  "33": {
+    "２倍のチカラで|２ｘ２マスを|たたく": "A double strength|strike over a 2x2|configuration."
+  },
+  "34": {
+    "clarity_nt_char_11": "clarity_nt_char_11"
+  },
+  "35": {
+    "チカラ強く|ななめ２マスを|たたく": "A strong strike|over 2 squares|diagonally."
+  },
+  "36": {
+    "半分のチカラで|１マスをたたく": "Strike a square|at half strength."
+  },
+  "37": {
+    "２倍のチカラで|１マスをたたく": "Strike a square|at double|strength."
+  },
+  "38": {
+    "３倍のチカラで|１マスをたたく": "Strike a square|at triple|strength."
+  },
+  "39": {
+    "通常より|高い会心率で|たたく": "A strike with|increased|critical chance."
+  },
+  "40": {
+    "温度を３００度|上昇させ地金を|鍛えやすくする": "Boosts the|temperature by|300 degrees."
+  },
+  "41": {
+    "温度を３００度|下降させ地金を|変化しにくくする": "Lower the|temperature by|300 degrees."
+  },
+  "42": {
+    "clarity_nt_char_12": "clarity_nt_char_12"
+  },
+  "43": {
+    "ランダムに|４マスをたたく": "Strike 4 squares|at random."
+  },
+  "44": {
+    "次のひと打ちが|必ず会心になる|鍛冶神の炎！": "The next hit will|be a guaranteed|critical!"
+  },
+  "45": {
+    "clarity_nt_char_13": "clarity_nt_char_13"
+  },
+  "46": {
+    "おぼえてるだけで|会心の出る確率が|常に 0.1％アップ": "Critical chance|increased|by 0.1%."
+  },
+  "47": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "48": {
+    "おぼえてるだけで|会心の出る確率が|常に 0.2％アップ": "Critical chance|increased|by 0.2%."
+  },
+  "49": {
+    "clarity_nt_char_15": "clarity_nt_char_15"
+  },
+  "50": {
+    "おぼえてるだけで|会心の出る確率が|常に 0.3％アップ": "Critical chance|increased|by 0.3%."
+  },
+  "51": {
+    "clarity_nt_char_16": "clarity_nt_char_16"
+  },
+  "52": {
+    "おぼえてるだけで|必殺の出る確率が|少しだけアップ": "Special chance|is slightly|increased."
+  },
+  "53": {
+    "地金の温度を|１５０度下げて|打つ強力な一撃": "A strong strike|that lowers temp.|by 150 degrees."
+  },
+  "54": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "55": {
+    "チカラ強く|上下２マスを|高い会心率で叩く": "A strong vertical|strike with high|critical chance."
+  },
+  "56": {
+    "まれに集中力回復": "Rarely Recover Focus"
+  },
+  "57": {
+    "clarity_nt_char_18": "clarity_nt_char_18"
+  },
+  "58": {
+    "おぼえてるだけで|まれに集中力が|回復する": "Rarely recovers|your focus."
+  }
+}

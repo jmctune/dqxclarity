@@ -1,0 +1,9800 @@
+{
+  "1": {
+    "スライム": "Slime"
+  },
+  "2": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "3": {
+    "スライムベス": "She-Slime"
+  },
+  "4": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "5": {
+    "メタルスライム": "Metal Slime"
+  },
+  "6": {
+    "クリスマスライム": "Christmas Slime"
+  },
+  "7": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "8": {
+    "メタルーキー": "Rookie Metal Slime"
+  },
+  "9": {
+    "clarity_nt_char_9": "clarity_nt_char_9"
+  },
+  "10": {
+    "レモンハルト": "Lemonheart"
+  },
+  "11": {
+    "clarity_nt_char_11": "clarity_nt_char_11"
+  },
+  "12": {
+    "スラーン": "Juggular"
+  },
+  "13": {
+    "clarity_nt_char_13": "clarity_nt_char_13"
+  },
+  "14": {
+    "ドラキー": "Dracky"
+  },
+  "15": {
+    "clarity_nt_char_15": "clarity_nt_char_15"
+  },
+  "16": {
+    "タホドラキー": "Drackmage"
+  },
+  "17": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "18": {
+    "メイジドラキー": "Drackolyte"
+  },
+  "19": {
+    "ドラキーマ": "Drackyma"
+  },
+  "20": {
+    "グレートドラキー": "Gracky"
+  },
+  "21": {
+    "clarity_nt_char_21": "clarity_nt_char_21"
+  },
+  "22": {
+    "ドラキーＡ": "Dracky A"
+  },
+  "23": {
+    "ドラキーＢ": "Dracky B"
+  },
+  "24": {
+    "エース": "Ace"
+  },
+  "25": {
+    "ナスビナーラ": "Woebergine"
+  },
+  "26": {
+    "clarity_nt_char_26": "clarity_nt_char_26"
+  },
+  "27": {
+    "メランザーナ": "Awebergine"
+  },
+  "28": {
+    "clarity_nt_char_28": "clarity_nt_char_28"
+  },
+  "29": {
+    "ブルベリーノ": "Bluebergine"
+  },
+  "30": {
+    "clarity_nt_char_30": "clarity_nt_char_30"
+  },
+  "31": {
+    "大ナスビナーラ": "Large Woebergine"
+  },
+  "32": {
+    "巨大ナスビナーラ": "Giga Large Woebergine"
+  },
+  "33": {
+    "clarity_nt_char_33": "clarity_nt_char_33"
+  },
+  "34": {
+    "バブルスライム": "Bubble Slime"
+  },
+  "35": {
+    "はぐれメタル": "Liquid Metal Slime"
+  },
+  "36": {
+    "clarity_nt_char_36": "clarity_nt_char_36"
+  },
+  "37": {
+    "スライムボーグ": "Cyber Slime"
+  },
+  "38": {
+    "月守りの夜影": "Moon Guard Shadow"
+  },
+  "39": {
+    "clarity_nt_char_39": "clarity_nt_char_39"
+  },
+  "40": {
+    "メタルスライム強": "Apex Metal Slime"
+  },
+  "41": {
+    "clarity_nt_char_41": "clarity_nt_char_41"
+  },
+  "42": {
+    "銃士ナスビス": "Musketeer Bergus"
+  },
+  "43": {
+    "clarity_nt_char_43": "clarity_nt_char_43"
+  },
+  "44": {
+    "しましまキャット": "Candy Cat"
+  },
+  "45": {
+    "clarity_nt_char_45": "clarity_nt_char_45"
+  },
+  "46": {
+    "プリズニャン": "Jailcat"
+  },
+  "47": {
+    "clarity_nt_char_47": "clarity_nt_char_47"
+  },
+  "48": {
+    "ベロニャーゴ": "Terror Tabby"
+  },
+  "49": {
+    "clarity_nt_char_49": "clarity_nt_char_49"
+  },
+  "50": {
+    "ミャルジ": "Myarji"
+  },
+  "51": {
+    "clarity_nt_char_51": "clarity_nt_char_51"
+  },
+  "52": {
+    "ウニャ": "Mr. Cat"
+  },
+  "53": {
+    "ニューラ": "Sneasel"
+  },
+  "54": {
+    "clarity_nt_char_54": "clarity_nt_char_54"
+  },
+  "55": {
+    "マーブルン": "Rainbow Kitty"
+  },
+  "56": {
+    "ミスターガリック": "Garish Garlic"
+  },
+  "57": {
+    "clarity_nt_char_57": "clarity_nt_char_57"
+  },
+  "58": {
+    "おばけトマト": "Haunted Tomato"
+  },
+  "59": {
+    "clarity_nt_char_59": "clarity_nt_char_59"
+  },
+  "60": {
+    "オニオーン": "Ornery Onion"
+  },
+  "61": {
+    "たまねぎマン": "Loathsome Leek"
+  },
+  "62": {
+    "clarity_nt_char_62": "clarity_nt_char_62"
+  },
+  "63": {
+    "じごくのたまねぎ": "Brimstone Bulb"
+  },
+  "64": {
+    "clarity_nt_char_64": "clarity_nt_char_64"
+  },
+  "65": {
+    "巨大オニオーン": "Giga Ornery Onion"
+  },
+  "66": {
+    "いっかくウサギ": "Bunicorn"
+  },
+  "67": {
+    "アルミラージ": "Spiked Hare"
+  },
+  "68": {
+    "clarity_nt_char_68": "clarity_nt_char_68"
+  },
+  "69": {
+    "ゴールデンコーン": "24-Carrot Bunicorn"
+  },
+  "70": {
+    "clarity_nt_char_70": "clarity_nt_char_70"
+  },
+  "71": {
+    "ブラバニクイーン": "Bunicorn Queen"
+  },
+  "72": {
+    "clarity_nt_char_72": "clarity_nt_char_72"
+  },
+  "73": {
+    "銃士トマトス": "Musketeer Tomatos"
+  },
+  "74": {
+    "clarity_nt_char_74": "clarity_nt_char_74"
+  },
+  "75": {
+    "スライムつむり": "Shell Slime"
+  },
+  "76": {
+    "マリンスライム": "Seaslime"
+  },
+  "77": {
+    "つららスライム": "Slimecicle"
+  },
+  "78": {
+    "つむりんママ": "Mama Snail Slime"
+  },
+  "79": {
+    "clarity_nt_char_79": "clarity_nt_char_79"
+  },
+  "80": {
+    "バーバニコーン": "Barbanicorn"
+  },
+  "81": {
+    "ツンドラキー": "Arctic Dracky"
+  },
+  "82": {
+    "clarity_nt_char_82": "clarity_nt_char_82"
+  },
+  "83": {
+    "浄化のたまねぎ": "Pristine Peeler"
+  },
+  "84": {
+    "ファーラット": "Feralball"
+  },
+  "85": {
+    "clarity_nt_char_85": "clarity_nt_char_85"
+  },
+  "86": {
+    "モコモコじゅう": "Rotten Cotton"
+  },
+  "87": {
+    "ケダモン": "Feralbeast"
+  },
+  "88": {
+    "clarity_nt_char_88": "clarity_nt_char_88"
+  },
+  "89": {
+    "ピンクボンボン": "Pink Bonbon"
+  },
+  "90": {
+    "邪菌ピロリアン": "Malevobacter Pylori"
+  },
+  "91": {
+    "変異ケダモン": "Mutant Kedamon"
+  },
+  "92": {
+    "clarity_nt_char_92": "clarity_nt_char_92"
+  },
+  "93": {
+    "マリンスライム・強": "Evil Seaslime"
+  },
+  "94": {
+    "ぶちスライム": "Mottle Slime"
+  },
+  "95": {
+    "clarity_nt_char_95": "clarity_nt_char_95"
+  },
+  "96": {
+    "スライム・強": "Evil Slime"
+  },
+  "97": {
+    "clarity_nt_char_97": "clarity_nt_char_97"
+  },
+  "98": {
+    "ドラキー・強": "Evil Dracky"
+  },
+  "99": {
+    "clarity_nt_char_99": "clarity_nt_char_99"
+  },
+  "100": {
+    "メラゴースト": "Firespirit"
+  },
+  "101": {
+    "clarity_nt_char_101": "clarity_nt_char_101"
+  },
+  "102": {
+    "さまようたましい": "Lost Soul"
+  },
+  "103": {
+    "clarity_nt_char_103": "clarity_nt_char_103"
+  },
+  "104": {
+    "ドルマージュ": "Zamtasm"
+  },
+  "105": {
+    "clarity_nt_char_105": "clarity_nt_char_105"
+  },
+  "106": {
+    "ジェイドフレア": "Jade Flare"
+  },
+  "107": {
+    "ゆめみの化身": "Dream Avatar"
+  },
+  "108": {
+    "clarity_nt_char_108": "clarity_nt_char_108"
+  },
+  "109": {
+    "亡者のひとだま": "Icespirit"
+  },
+  "110": {
+    "殺意の怨霊": "Terrible Trio"
+  },
+  "111": {
+    "いたずらもぐら": "Mischievous Mole"
+  },
+  "112": {
+    "キラースコップ": "Mad Mole"
+  },
+  "113": {
+    "キラーピッケル": "Maniacal Mole"
+  },
+  "114": {
+    "ブランマトック": "White Mole"
+  },
+  "115": {
+    "モグラの子分": "Soul Mole"
+  },
+  "116": {
+    "clarity_nt_char_116": "clarity_nt_char_116"
+  },
+  "117": {
+    "モグラのエリート": "Murderous Mole"
+  },
+  "118": {
+    "clarity_nt_char_118": "clarity_nt_char_118"
+  },
+  "119": {
+    "いたずらもぐら・強": "Evil Mischievous Mole"
+  },
+  "120": {
+    "はりつきあくま": "Belly Stick"
+  },
+  "121": {
+    "プチアーノン": "Khalamari Kid"
+  },
+  "122": {
+    "clarity_nt_char_122": "clarity_nt_char_122"
+  },
+  "123": {
+    "だいおうキッズ": "Squid Kid"
+  },
+  "124": {
+    "タコメット": "Octopot"
+  },
+  "125": {
+    "テンタコルス": "Abyssal Octopot"
+  },
+  "126": {
+    "clarity_nt_char_126": "clarity_nt_char_126"
+  },
+  "127": {
+    "プチテンタコルス": "Frail Abyssal Octopot"
+  },
+  "128": {
+    "clarity_nt_char_128": "clarity_nt_char_128"
+  },
+  "129": {
+    "ヒョウモンダーク": "Dark Octopot"
+  },
+  "130": {
+    "clarity_nt_char_130": "clarity_nt_char_130"
+  },
+  "131": {
+    "ゲノミー": "Genomy"
+  },
+  "132": {
+    "clarity_nt_char_132": "clarity_nt_char_132"
+  },
+  "133": {
+    "プチアーノン・強": "Evil Khalamari Kid"
+  },
+  "134": {
+    "clarity_nt_char_134": "clarity_nt_char_134"
+  },
+  "135": {
+    "おばけヒトデ": "Scarfish"
+  },
+  "136": {
+    "clarity_nt_char_136": "clarity_nt_char_136"
+  },
+  "137": {
+    "マージスター": "Trickstar"
+  },
+  "138": {
+    "clarity_nt_char_138": "clarity_nt_char_138"
+  },
+  "139": {
+    "チャンプスター": "Champ Star"
+  },
+  "140": {
+    "おばけヒトデ・強": "Evil Scarfish"
+  },
+  "141": {
+    "clarity_nt_char_141": "clarity_nt_char_141"
+  },
+  "142": {
+    "テンツク": "Slugger"
+  },
+  "143": {
+    "clarity_nt_char_143": "clarity_nt_char_143"
+  },
+  "144": {
+    "スーパーテンツク": "Sluggernaut"
+  },
+  "145": {
+    "clarity_nt_char_145": "clarity_nt_char_145"
+  },
+  "146": {
+    "ゴースト": "Ghost"
+  },
+  "147": {
+    "clarity_nt_char_147": "clarity_nt_char_147"
+  },
+  "148": {
+    "メトロゴースト": "Fightgeist"
+  },
+  "149": {
+    "ヘルゴースト": "Spitegeist"
+  },
+  "150": {
+    "clarity_nt_char_150": "clarity_nt_char_150"
+  },
+  "151": {
+    "キョンシーゴースト": "Jiangshi Ghost"
+  },
+  "152": {
+    "ゴースト・強": "Evil Ghost"
+  },
+  "153": {
+    "clarity_nt_char_153": "clarity_nt_char_153"
+  },
+  "154": {
+    "しびれくらげ先生": "Sir Man o' War"
+  },
+  "155": {
+    "clarity_nt_char_155": "clarity_nt_char_155"
+  },
+  "156": {
+    "ファン": "Fan"
+  },
+  "157": {
+    "ホイミスライム": "Healslime"
+  },
+  "158": {
+    "しびれくらげ": "Man o' war"
+  },
+  "159": {
+    "clarity_nt_char_159": "clarity_nt_char_159"
+  },
+  "160": {
+    "ベホマスライム": "Cureslime"
+  },
+  "161": {
+    "ベホイムスライム": "Sootheslime"
+  },
+  "162": {
+    "clarity_nt_char_162": "clarity_nt_char_162"
+  },
+  "163": {
+    "ベホイミスライム": "Medislime"
+  },
+  "164": {
+    "clarity_nt_char_164": "clarity_nt_char_164"
+  },
+  "165": {
+    "メタルホイミン": "Metal Healie"
+  },
+  "166": {
+    "コスモスライム": "Cosmoslime"
+  },
+  "167": {
+    "わらいぶくろ": "Bag o’ Laughs"
+  },
+  "168": {
+    "clarity_nt_char_168": "clarity_nt_char_168"
+  },
+  "169": {
+    "おどるほうせき": "Goodybag"
+  },
+  "170": {
+    "スウィートバッグ": "Bag O' Sweets"
+  },
+  "171": {
+    "clarity_nt_char_171": "clarity_nt_char_171"
+  },
+  "172": {
+    "おどるほうせき・強": "Evil Goodybag"
+  },
+  "173": {
+    "ドラゴスライム": "Drake Slime"
+  },
+  "174": {
+    "スライムブレス": "Dragon Slime"
+  },
+  "175": {
+    "ドラゴメタル": "Metal Dragon Slime"
+  },
+  "176": {
+    "clarity_nt_char_176": "clarity_nt_char_176"
+  },
+  "177": {
+    "ランタンこぞう": "Lampling"
+  },
+  "178": {
+    "おばけキノコ": "Funghoul"
+  },
+  "179": {
+    "clarity_nt_char_179": "clarity_nt_char_179"
+  },
+  "180": {
+    "おばけ大キノコ": "Haunted Funghoul"
+  },
+  "181": {
+    "クックルー": "Grudgerigar"
+  },
+  "182": {
+    "デスパロット": "Paralakeet"
+  },
+  "183": {
+    "clarity_nt_char_183": "clarity_nt_char_183"
+  },
+  "184": {
+    "ピッキー": "Bludgerigar"
+  },
+  "185": {
+    "clarity_nt_char_185": "clarity_nt_char_185"
+  },
+  "186": {
+    "ぬくぬくどり": "Polar Polly"
+  },
+  "187": {
+    "clarity_nt_char_187": "clarity_nt_char_187"
+  },
+  "188": {
+    "ピッキー・強": "Evil Bludgerigar"
+  },
+  "189": {
+    "clarity_nt_char_189": "clarity_nt_char_189"
+  },
+  "190": {
+    "ばくだんサーカス": "Pantomine"
+  },
+  "191": {
+    "clarity_nt_char_191": "clarity_nt_char_191"
+  },
+  "192": {
+    "バブリン": "Zepling"
+  },
+  "193": {
+    "clarity_nt_char_193": "clarity_nt_char_193"
+  },
+  "194": {
+    "プヨンターゲット": "Healium Balloon"
+  },
+  "195": {
+    "clarity_nt_char_195": "clarity_nt_char_195"
+  },
+  "196": {
+    "ポムポムボム": "Discombombulator"
+  },
+  "197": {
+    "clarity_nt_char_197": "clarity_nt_char_197"
+  },
+  "198": {
+    "リュウイーソー": "Li'l Whizzer"
+  },
+  "199": {
+    "呪いの影": "Bloat Shade"
+  },
+  "200": {
+    "clarity_nt_char_200": "clarity_nt_char_200"
+  },
+  "201": {
+    "ポムボム": "Pombomb"
+  },
+  "202": {
+    "clarity_nt_char_202": "clarity_nt_char_202"
+  },
+  "203": {
+    "ポムボム改": "Big Pombomb"
+  },
+  "204": {
+    "白霊鬼ボータ": "White Spirits"
+  },
+  "205": {
+    "clarity_nt_char_205": "clarity_nt_char_205"
+  },
+  "206": {
+    "魔天霊ゲルプ": "Demon Spirit Gelp"
+  },
+  "207": {
+    "clarity_nt_char_207": "clarity_nt_char_207"
+  },
+  "208": {
+    "魔天霊パルス": "Demon Spirit Pulse"
+  },
+  "209": {
+    "clarity_nt_char_209": "clarity_nt_char_209"
+  },
+  "210": {
+    "魔天霊プレト": "Demon Spirit Preto"
+  },
+  "211": {
+    "clarity_nt_char_211": "clarity_nt_char_211"
+  },
+  "212": {
+    "陰の試練壱・陰霊": "Yin Trial I - Yin Spirit"
+  },
+  "213": {
+    "clarity_nt_char_213": "clarity_nt_char_213"
+  },
+  "214": {
+    "黄金のバブリン": "Gold Zepling"
+  },
+  "215": {
+    "おおがらす": "Stark Raven"
+  },
+  "216": {
+    "デスフラッター": "Raven Lunatic"
+  },
+  "217": {
+    "ぐんたいガニ・強": "Evil Crabid"
+  },
+  "218": {
+    "clarity_nt_char_218": "clarity_nt_char_218"
+  },
+  "219": {
+    "ぐんたいガニ": "Crabid"
+  },
+  "220": {
+    "clarity_nt_char_220": "clarity_nt_char_220"
+  },
+  "221": {
+    "じごくのハサミ": "Crabber Dabber Doo"
+  },
+  "222": {
+    "ガニラス": "Crabus"
+  },
+  "223": {
+    "clarity_nt_char_223": "clarity_nt_char_223"
+  },
+  "224": {
+    "キラークラブ": "King Crab"
+  },
+  "225": {
+    "clarity_nt_char_225": "clarity_nt_char_225"
+  },
+  "226": {
+    "商品ナンバー７": "Eidolon-7"
+  },
+  "227": {
+    "ケルビン": "Kelvin"
+  },
+  "228": {
+    "clarity_nt_char_228": "clarity_nt_char_228"
+  },
+  "229": {
+    "ダークペルシャ": "Whiskamancer"
+  },
+  "230": {
+    "ねこまどう": "Meowgician"
+  },
+  "231": {
+    "ジャガーメイジ": "Clawcerer"
+  },
+  "232": {
+    "ベンガルクーン": "Purrestidigitator"
+  },
+  "233": {
+    "ミュベス": "Mubes"
+  },
+  "234": {
+    "clarity_nt_char_234": "clarity_nt_char_234"
+  },
+  "235": {
+    "モミャー": "Momia"
+  },
+  "236": {
+    "clarity_nt_char_236": "clarity_nt_char_236"
+  },
+  "237": {
+    "ニョラバルト": "Nyorabalt"
+  },
+  "238": {
+    "clarity_nt_char_238": "clarity_nt_char_238"
+  },
+  "239": {
+    "ミャルザール": "Myarzar"
+  },
+  "240": {
+    "clarity_nt_char_240": "clarity_nt_char_240"
+  },
+  "241": {
+    "ニャンデミト": "Cat Demito"
+  },
+  "242": {
+    "clarity_nt_char_242": "clarity_nt_char_242"
+  },
+  "243": {
+    "ふゆうじゅ": "Monolog"
+  },
+  "244": {
+    "ウッディアイ": "Direlog"
+  },
+  "245": {
+    "clarity_nt_char_245": "clarity_nt_char_245"
+  },
+  "246": {
+    "マザーウッド": "Motherwood"
+  },
+  "247": {
+    "clarity_nt_char_247": "clarity_nt_char_247"
+  },
+  "248": {
+    "きせいじゅ": "Tree Sage"
+  },
+  "249": {
+    "ねこまどう・強": "Evil Meowgician"
+  },
+  "250": {
+    "バブルスライム・強": "Evil Bubble Slime"
+  },
+  "251": {
+    "ミケまどう": "Caticonjurer"
+  },
+  "252": {
+    "マドハンド": "Muddy Hand"
+  },
+  "253": {
+    "ブラッドハンド": "Bloody Hand"
+  },
+  "254": {
+    "マジックハンド": "Magic Hand"
+  },
+  "255": {
+    "ジュラシックロイド": "Jurassic Droid"
+  },
+  "256": {
+    "プラチナサウルス": "Platinasaurus"
+  },
+  "257": {
+    "clarity_nt_char_257": "clarity_nt_char_257"
+  },
+  "258": {
+    "メタッピー": "Mecha-Mynah"
+  },
+  "259": {
+    "ガチャコッコ": "Clockwork Cuckoo"
+  },
+  "260": {
+    "clarity_nt_char_260": "clarity_nt_char_260"
+  },
+  "261": {
+    "アイアンクック": "Robo-robin"
+  },
+  "262": {
+    "ファイアボール": "Firewerk"
+  },
+  "263": {
+    "レプティリア": "Reptilia"
+  },
+  "264": {
+    "clarity_nt_char_264": "clarity_nt_char_264"
+  },
+  "265": {
+    "メタッピー・強": "Evil Mecha-Mynah"
+  },
+  "266": {
+    "カラミティロイド": "Calamity Droid"
+  },
+  "267": {
+    "clarity_nt_char_267": "clarity_nt_char_267"
+  },
+  "268": {
+    "ジラフマスター": "Giraffe Master"
+  },
+  "269": {
+    "くびなが大師": "Blue Giraffe"
+  },
+  "270": {
+    "clarity_nt_char_270": "clarity_nt_char_270"
+  },
+  "271": {
+    "ジラフシスター": "Giraffe Sister"
+  },
+  "272": {
+    "闇のキリンジ": "Dark Giraffe"
+  },
+  "273": {
+    "clarity_nt_char_273": "clarity_nt_char_273"
+  },
+  "274": {
+    "いっかくウサギ・強": "Evil Bunicorn"
+  },
+  "275": {
+    "プリズニャン・強": "Apex Jailcat"
+  },
+  "276": {
+    "clarity_nt_char_276": "clarity_nt_char_276"
+  },
+  "277": {
+    "タップペンギー": "Pogoin' Penguin"
+  },
+  "278": {
+    "岩とびあくま": "Rockin' Rockhopper"
+  },
+  "279": {
+    "clarity_nt_char_279": "clarity_nt_char_279"
+  },
+  "280": {
+    "こうていタップ": "Emperor Tapper"
+  },
+  "281": {
+    "くらやみハーピー": "Succubat"
+  },
+  "282": {
+    "clarity_nt_char_282": "clarity_nt_char_282"
+  },
+  "283": {
+    "さそりばち": "Waspion"
+  },
+  "284": {
+    "キラービー": "Scornet"
+  },
+  "285": {
+    "ハンターフライ": "Rumble Bee"
+  },
+  "286": {
+    "紅蓮のクイーンビー": "Crimson Queen Bee"
+  },
+  "287": {
+    "さそりばち・強": "Evil Waspion"
+  },
+  "288": {
+    "キャットフライ": "Vampire Cat"
+  },
+  "289": {
+    "キャットバット": "Catula"
+  },
+  "290": {
+    "ナイトキャット": "Night Cat"
+  },
+  "291": {
+    "セクシーキャット": "Sexy Cat"
+  },
+  "292": {
+    "clarity_nt_char_292": "clarity_nt_char_292"
+  },
+  "293": {
+    "プリティフライ": "Pretty Cat"
+  },
+  "294": {
+    "ももんじゃ": "Platypunk"
+  },
+  "295": {
+    "ダックスビル": "Splatypunk"
+  },
+  "296": {
+    "clarity_nt_char_296": "clarity_nt_char_296"
+  },
+  "297": {
+    "もじゃらきラクーン": "Raccoon Platypunk"
+  },
+  "298": {
+    "キャタピラー": "Killerpillar"
+  },
+  "299": {
+    "clarity_nt_char_299": "clarity_nt_char_299"
+  },
+  "300": {
+    "どくイモムシ": "Illerpillar"
+  },
+  "301": {
+    "clarity_nt_char_301": "clarity_nt_char_301"
+  },
+  "302": {
+    "かえんムカデ": "Grillerpillar"
+  },
+  "303": {
+    "clarity_nt_char_303": "clarity_nt_char_303"
+  },
+  "304": {
+    "ベノムピード": "Venompede"
+  },
+  "305": {
+    "clarity_nt_char_305": "clarity_nt_char_305"
+  },
+  "306": {
+    "どくやずきん": "Bodkin Fletcher"
+  },
+  "307": {
+    "clarity_nt_char_307": "clarity_nt_char_307"
+  },
+  "308": {
+    "リリパット": "Bodkin Archer"
+  },
+  "309": {
+    "アローインプ": "Bodkin Bowyer"
+  },
+  "310": {
+    "clarity_nt_char_310": "clarity_nt_char_310"
+  },
+  "311": {
+    "レッドアーチャー": "Bodkin Bloodbow"
+  },
+  "312": {
+    "clarity_nt_char_312": "clarity_nt_char_312"
+  },
+  "313": {
+    "リリパット・強": "Evil Bodkin Archer"
+  },
+  "314": {
+    "メーダ": "Lunatick"
+  },
+  "315": {
+    "メーダロード": "Raving Lunatick"
+  },
+  "316": {
+    "clarity_nt_char_316": "clarity_nt_char_316"
+  },
+  "317": {
+    "メーダクイン": "Queen Lunatick"
+  },
+  "318": {
+    "clarity_nt_char_318": "clarity_nt_char_318"
+  },
+  "319": {
+    "メーダプリンス": "Lunatick Prince"
+  },
+  "320": {
+    "コスモアイ": "Cosmo Lunatick"
+  },
+  "321": {
+    "コスモマザー": "Cosmomother"
+  },
+  "322": {
+    "clarity_nt_char_322": "clarity_nt_char_322"
+  },
+  "323": {
+    "メーダ・強": "Evil Lunatick"
+  },
+  "324": {
+    "おおきづち": "Hammerhood"
+  },
+  "325": {
+    "ブラウニー": "Brownie"
+  },
+  "326": {
+    "とげこんぼう": "Spiked Clubber"
+  },
+  "327": {
+    "clarity_nt_char_327": "clarity_nt_char_327"
+  },
+  "328": {
+    "ブラックチャック": "Dark Brownie"
+  },
+  "329": {
+    "clarity_nt_char_329": "clarity_nt_char_329"
+  },
+  "330": {
+    "創世の樹の番人": "World Tree Guardian"
+  },
+  "331": {
+    "おおきづち・強": "Evil Hammerhood"
+  },
+  "332": {
+    "さんぞくウルフ": "Ruff Ruffian"
+  },
+  "333": {
+    "シードッグ": "Sea Dog"
+  },
+  "334": {
+    "サマーウルフ": "Summer Wolf"
+  },
+  "335": {
+    "clarity_nt_char_335": "clarity_nt_char_335"
+  },
+  "336": {
+    "サードンの手下": "Sardon's Minion"
+  },
+  "337": {
+    "おにこぞう": "Pickayune"
+  },
+  "338": {
+    "ピクシー": "Picksy"
+  },
+  "339": {
+    "clarity_nt_char_339": "clarity_nt_char_339"
+  },
+  "340": {
+    "バアラック": "Pickeerer"
+  },
+  "341": {
+    "子鬼ブリック": "Trickereer"
+  },
+  "342": {
+    "clarity_nt_char_342": "clarity_nt_char_342"
+  },
+  "343": {
+    "グリゴリぼうず": "Pickemon"
+  },
+  "344": {
+    "おにこぞう・強": "Evil Pickayune"
+  },
+  "345": {
+    "ギズモ": "Cumaulus"
+  },
+  "346": {
+    "ヒートギズモ": "Hell Nino"
+  },
+  "347": {
+    "clarity_nt_char_347": "clarity_nt_char_347"
+  },
+  "348": {
+    "フロストギズモ": "Freezing Fog"
+  },
+  "349": {
+    "ましょうぐも": "Demon Cloud"
+  },
+  "350": {
+    "clarity_nt_char_350": "clarity_nt_char_350"
+  },
+  "351": {
+    "ダースギズモ": "EvilCloud"
+  },
+  "352": {
+    "clarity_nt_char_352": "clarity_nt_char_352"
+  },
+  "353": {
+    "どくろあらい": "Haardvark"
+  },
+  "354": {
+    "clarity_nt_char_354": "clarity_nt_char_354"
+  },
+  "355": {
+    "スカルガルー": "Guaardvark"
+  },
+  "356": {
+    "clarity_nt_char_356": "clarity_nt_char_356"
+  },
+  "357": {
+    "ホタテワラビー": "Scallop Wallaby"
+  },
+  "358": {
+    "聖銀のどくろあらい": "Sacred Silver Haardvark"
+  },
+  "359": {
+    "グレムリン": "Gremlin"
+  },
+  "360": {
+    "ベビル": "Grimlin"
+  },
+  "361": {
+    "バアルゼブブ": "Baalzebub"
+  },
+  "362": {
+    "clarity_nt_char_362": "clarity_nt_char_362"
+  },
+  "363": {
+    "ラギー": "Ruggy"
+  },
+  "364": {
+    "ムギー": "Muggy"
+  },
+  "365": {
+    "チギー": "Chuggy"
+  },
+  "366": {
+    "シールドこぞう": "Leery Lout"
+  },
+  "367": {
+    "ビッグフェイス": "Gum Shield"
+  },
+  "368": {
+    "ダークホビット": "Grim Grinner"
+  },
+  "369": {
+    "シールドあにき": "Elder Shield"
+  },
+  "370": {
+    "ズッキーニャ": "Cruelcumber"
+  },
+  "371": {
+    "clarity_nt_char_371": "clarity_nt_char_371"
+  },
+  "372": {
+    "ぶっちズキーニャ": "Zumeanie"
+  },
+  "373": {
+    "clarity_nt_char_373": "clarity_nt_char_373"
+  },
+  "374": {
+    "ブラックベジター": "Scourgette"
+  },
+  "375": {
+    "clarity_nt_char_375": "clarity_nt_char_375"
+  },
+  "376": {
+    "銃士キュリトス": "Musketeer Curitos"
+  },
+  "377": {
+    "おばけキャンドル": "Wax Murderer"
+  },
+  "378": {
+    "clarity_nt_char_378": "clarity_nt_char_378"
+  },
+  "379": {
+    "ともしびこぞう": "Wickerman"
+  },
+  "380": {
+    "キラートーチ": "Grim Candle"
+  },
+  "381": {
+    "clarity_nt_char_381": "clarity_nt_char_381"
+  },
+  "382": {
+    "チョコキャンドル": "Choco Candle"
+  },
+  "383": {
+    "clarity_nt_char_383": "clarity_nt_char_383"
+  },
+  "384": {
+    "ホワイトキャンドル": "White Candle"
+  },
+  "385": {
+    "ダークキャンドル": "Dark Candle"
+  },
+  "386": {
+    "clarity_nt_char_386": "clarity_nt_char_386"
+  },
+  "387": {
+    "おばけキャンドル強": "Haunted Wax Murderer"
+  },
+  "388": {
+    "つちわらし": "Lickspittle"
+  },
+  "389": {
+    "ベロベロ": "Frolicker"
+  },
+  "390": {
+    "clarity_nt_char_390": "clarity_nt_char_390"
+  },
+  "391": {
+    "スモールグール": "Drooling Ghoul"
+  },
+  "392": {
+    "古代つちわらし": "Ancient Crocodile"
+  },
+  "393": {
+    "コスモグール": "Cosmo Ghoul"
+  },
+  "394": {
+    "clarity_nt_char_394": "clarity_nt_char_394"
+  },
+  "395": {
+    "ウコバック": "Lickity spit"
+  },
+  "396": {
+    "ダークファンタズマ": "Shadeshifter"
+  },
+  "397": {
+    "ほのおのせんし": "Flamethrower"
+  },
+  "398": {
+    "ブリザードマン": "Blizzybody"
+  },
+  "399": {
+    "スパーキー": "Sparky"
+  },
+  "400": {
+    "カナリアーノ": "Canaryano"
+  },
+  "401": {
+    "clarity_nt_char_401": "clarity_nt_char_401"
+  },
+  "402": {
+    "みならいあくま": "Winkster"
+  },
+  "403": {
+    "ひとつめピエロ": "Jinkster"
+  },
+  "404": {
+    "ベビーマジシャン": "Blinkster"
+  },
+  "405": {
+    "clarity_nt_char_405": "clarity_nt_char_405"
+  },
+  "406": {
+    "孤独の闇": "Lonely Dark"
+  },
+  "407": {
+    "clarity_nt_char_407": "clarity_nt_char_407"
+  },
+  "408": {
+    "キングスパーキー": "King Sparky"
+  },
+  "409": {
+    "clarity_nt_char_409": "clarity_nt_char_409"
+  },
+  "410": {
+    "メラリザード": "Frizzard"
+  },
+  "411": {
+    "clarity_nt_char_411": "clarity_nt_char_411"
+  },
+  "412": {
+    "ベビーニュート": "Sizzard"
+  },
+  "413": {
+    "ドラゴンキッズ": "Small Fry"
+  },
+  "414": {
+    "リトルライバーン": "Little Wyvern"
+  },
+  "415": {
+    "clarity_nt_char_415": "clarity_nt_char_415"
+  },
+  "416": {
+    "びっくりサタン": "Dancing Devil"
+  },
+  "417": {
+    "タップデビル": "Tap Devil"
+  },
+  "418": {
+    "clarity_nt_char_418": "clarity_nt_char_418"
+  },
+  "419": {
+    "グリゴンダンス": "Caped Caperer"
+  },
+  "420": {
+    "ダンスデビル": "Boogieman"
+  },
+  "421": {
+    "clarity_nt_char_421": "clarity_nt_char_421"
+  },
+  "422": {
+    "スターデビル": "Star Devil"
+  },
+  "423": {
+    "clarity_nt_char_423": "clarity_nt_char_423"
+  },
+  "424": {
+    "ディアブラダ": "Diablada"
+  },
+  "425": {
+    "clarity_nt_char_425": "clarity_nt_char_425"
+  },
+  "426": {
+    "しびれだんびら": "Paralyslicer"
+  },
+  "427": {
+    "ひとくいサーベル": "Erazor Blade"
+  },
+  "428": {
+    "clarity_nt_char_428": "clarity_nt_char_428"
+  },
+  "429": {
+    "ブラッドソード": "Bloody Blade"
+  },
+  "430": {
+    "ソードマカブル": "Deadly Blade"
+  },
+  "431": {
+    "しびれだんびら・強": "Evil Paralyslicer"
+  },
+  "432": {
+    "フェアリードラゴン": "Damselfly"
+  },
+  "433": {
+    "マジックフライ": "Splutterfly"
+  },
+  "434": {
+    "イーブルフライ": "Cutterfly"
+  },
+  "435": {
+    "桜蝶鬼メイガ": "Cherryfly"
+  },
+  "436": {
+    "clarity_nt_char_436": "clarity_nt_char_436"
+  },
+  "437": {
+    "プロメテモス": "Prometimos"
+  },
+  "438": {
+    "clarity_nt_char_438": "clarity_nt_char_438"
+  },
+  "439": {
+    "とこよアゲハ": "Agehafly"
+  },
+  "440": {
+    "clarity_nt_char_440": "clarity_nt_char_440"
+  },
+  "441": {
+    "マジックフライ・強": "Evil Splutterfly"
+  },
+  "442": {
+    "がいこつ": "Skeleton"
+  },
+  "443": {
+    "clarity_nt_char_443": "clarity_nt_char_443"
+  },
+  "444": {
+    "しりょうのきし": "Skeleton Soldier"
+  },
+  "445": {
+    "かげのきし": "Dark Skeleton"
+  },
+  "446": {
+    "バイキングソウル": "Viking Soul"
+  },
+  "447": {
+    "clarity_nt_char_447": "clarity_nt_char_447"
+  },
+  "448": {
+    "下級亡霊兵士": "Low Ghost Soldier"
+  },
+  "449": {
+    "clarity_nt_char_449": "clarity_nt_char_449"
+  },
+  "450": {
+    "コンキスタグール": "Conquistador Ghoul"
+  },
+  "451": {
+    "clarity_nt_char_451": "clarity_nt_char_451"
+  },
+  "452": {
+    "がいこつ・強": "Evil Skeleton"
+  },
+  "453": {
+    "clarity_nt_char_453": "clarity_nt_char_453"
+  },
+  "454": {
+    "あばれこまいぬ": "Foo Dog"
+  },
+  "455": {
+    "サブナック": "Abracadabrador"
+  },
+  "456": {
+    "フレイムドック": "Hot Dog"
+  },
+  "457": {
+    "ヘルシーサー": "King Foo Dog"
+  },
+  "458": {
+    "clarity_nt_char_458": "clarity_nt_char_458"
+  },
+  "459": {
+    "デモンシーサー": "Demon Shisa"
+  },
+  "460": {
+    "ミミック・強": "Evil Mimic"
+  },
+  "461": {
+    "clarity_nt_char_461": "clarity_nt_char_461"
+  },
+  "462": {
+    "0": "0"
+  },
+  "463": {
+    "ビッグドリーム": "Big Dream"
+  },
+  "464": {
+    "ひとくいばこ": "Cannibox"
+  },
+  "465": {
+    "clarity_nt_char_465": "clarity_nt_char_465"
+  },
+  "466": {
+    "パンドラボックス": "Pandora's Box"
+  },
+  "467": {
+    "clarity_nt_char_467": "clarity_nt_char_467"
+  },
+  "468": {
+    "ミミック": "Mimic"
+  },
+  "469": {
+    "clarity_nt_char_469": "clarity_nt_char_469"
+  },
+  "470": {
+    "魔のギフトボックス": "Demon Gift Box"
+  },
+  "471": {
+    "死のギフトボックス": "Death Gift Box"
+  },
+  "472": {
+    "闇のギフトボックス": "Dark Gift Box"
+  },
+  "473": {
+    "ドリームミミック": "Dream Mimic"
+  },
+  "474": {
+    "clarity_nt_char_474": "clarity_nt_char_474"
+  },
+  "475": {
+    "ドラゴミミック": "Dragomimic"
+  },
+  "476": {
+    "ホースデビル": "Gamigin"
+  },
+  "477": {
+    "clarity_nt_char_477": "clarity_nt_char_477"
+  },
+  "478": {
+    "バルバロッサ": "Orobas"
+  },
+  "479": {
+    "clarity_nt_char_479": "clarity_nt_char_479"
+  },
+  "480": {
+    "メッサーラ": "Samigina"
+  },
+  "481": {
+    "レッドバロン": "Red Baron"
+  },
+  "482": {
+    "clarity_nt_char_482": "clarity_nt_char_482"
+  },
+  "483": {
+    "闇芸人ルルルリーチ": "Relulu"
+  },
+  "484": {
+    "メリーサーラ": "Merry Sala"
+  },
+  "485": {
+    "clarity_nt_char_485": "clarity_nt_char_485"
+  },
+  "486": {
+    "ガルバ": "Sootbonce"
+  },
+  "487": {
+    "ブルーイーター": "Goobonce"
+  },
+  "488": {
+    "グリンバングル": "Snotbonce"
+  },
+  "489": {
+    "封印の左手": "Seal Left Hand"
+  },
+  "490": {
+    "スペースデビル": "Space Devil"
+  },
+  "491": {
+    "デザートガルバ": "Desert Garba"
+  },
+  "492": {
+    "ゴルバ": "Smogbonet"
+  },
+  "493": {
+    "レッドイーター": "Bloodbonnet"
+  },
+  "494": {
+    "イエロバングル": "Bilebonnet"
+  },
+  "495": {
+    "封印の右手": "Seal Right Hand"
+  },
+  "496": {
+    "スペースデーモン": "Space Demon"
+  },
+  "497": {
+    "clarity_nt_char_497": "clarity_nt_char_497"
+  },
+  "498": {
+    "デザートゴルバ": "Desert Gorba"
+  },
+  "499": {
+    "じんめんじゅ・強": "Evil Treeface"
+  },
+  "500": {
+    "clarity_nt_char_500": "clarity_nt_char_500"
+  },
+  "501": {
+    "じんめんツリー": "Tis' The Treeson"
+  },
+  "502": {
+    "ウドラー": "Treevil"
+  },
+  "503": {
+    "clarity_nt_char_503": "clarity_nt_char_503"
+  },
+  "504": {
+    "じんめんじゅ": "Treeface"
+  },
+  "505": {
+    "clarity_nt_char_505": "clarity_nt_char_505"
+  },
+  "506": {
+    "ちょうろうじゅ": "Antiquitree"
+  },
+  "507": {
+    "憎悪の精霊樹": "Hate Tree"
+  },
+  "508": {
+    "clarity_nt_char_508": "clarity_nt_char_508"
+  },
+  "509": {
+    "エビルトレント": "Evil Tree-ent"
+  },
+  "510": {
+    "寒鬼団長アレル樹": "Cold Demon Tree Alleru"
+  },
+  "511": {
+    "clarity_nt_char_511": "clarity_nt_char_511"
+  },
+  "512": {
+    "プテラノドン": "Pteranodon"
+  },
+  "513": {
+    "clarity_nt_char_513": "clarity_nt_char_513"
+  },
+  "514": {
+    "アイスコンドル": "Chillanodon"
+  },
+  "515": {
+    "フライングデス": "Terrornodon"
+  },
+  "516": {
+    "ケツァルコアトルス": "Quetzalcoatlus"
+  },
+  "517": {
+    "怪鳥クワット": "Eerie Bird Quat"
+  },
+  "518": {
+    "clarity_nt_char_518": "clarity_nt_char_518"
+  },
+  "519": {
+    "月守りの翼竜": "Moon Guard Dragon"
+  },
+  "520": {
+    "clarity_nt_char_520": "clarity_nt_char_520"
+  },
+  "521": {
+    "爆弾": "Bomb"
+  },
+  "522": {
+    "clarity_nt_char_522": "clarity_nt_char_522"
+  },
+  "523": {
+    "ガメゴン": "Wyrtle"
+  },
+  "524": {
+    "clarity_nt_char_524": "clarity_nt_char_524"
+  },
+  "525": {
+    "ガメゴンロード": "Wyrtoise"
+  },
+  "526": {
+    "ガメゴンレジェンド": "Wonder Wyrtle"
+  },
+  "527": {
+    "メガロダイン": "Megalodyne"
+  },
+  "528": {
+    "clarity_nt_char_528": "clarity_nt_char_528"
+  },
+  "529": {
+    "プテラノドン・強": "Evil Pteranodon"
+  },
+  "530": {
+    "clarity_nt_char_530": "clarity_nt_char_530"
+  },
+  "531": {
+    "あくま神官": "Wrecktor"
+  },
+  "532": {
+    "じごくのつかい": "Whackolyte"
+  },
+  "533": {
+    "ブラッドメイジ": "Blood Mage"
+  },
+  "534": {
+    "はめつの使者": "Archbashop"
+  },
+  "535": {
+    "clarity_nt_char_535": "clarity_nt_char_535"
+  },
+  "536": {
+    "アサシンクロー": "Nail Blighter"
+  },
+  "537": {
+    "ネイルビースト": "Claw Breaker"
+  },
+  "538": {
+    "スクラッチャー": "Scratcher"
+  },
+  "539": {
+    "呪縛の魔獣": "Hexen Beast"
+  },
+  "540": {
+    "バジリスケイル": "Basiliscale"
+  },
+  "541": {
+    "キノコどうし": "Pair of Mushrooms"
+  },
+  "542": {
+    "clarity_nt_char_542": "clarity_nt_char_542"
+  },
+  "543": {
+    "ドルイド": "Lump Wizard"
+  },
+  "544": {
+    "clarity_nt_char_544": "clarity_nt_char_544"
+  },
+  "545": {
+    "きめんどうし": "Lump Shaman"
+  },
+  "546": {
+    "clarity_nt_char_546": "clarity_nt_char_546"
+  },
+  "547": {
+    "悪鬼なる王": "King of Evil"
+  },
+  "548": {
+    "迷える勇者": "Lost Hero"
+  },
+  "549": {
+    "迷える盟友": "Lost Ally"
+  },
+  "550": {
+    "狂える王子": "Mad Prince"
+  },
+  "551": {
+    "怒れる老匠": "Angry Master"
+  },
+  "552": {
+    "怒れる魔神": "Angry Demon"
+  },
+  "553": {
+    "堕ちた剣聖": "Slain Swordsman"
+  },
+  "554": {
+    "フローラルダンディ": "Floral Dandy"
+  },
+  "555": {
+    "イエティ": "Powie Yowie"
+  },
+  "556": {
+    "clarity_nt_char_556": "clarity_nt_char_556"
+  },
+  "557": {
+    "ビッグスロース": "Sasquash"
+  },
+  "558": {
+    "デザートゴースト": "Sweaty Yeti"
+  },
+  "559": {
+    "clarity_nt_char_559": "clarity_nt_char_559"
+  },
+  "560": {
+    "ベロリンマン": "Abominable Showman"
+  },
+  "561": {
+    "clarity_nt_char_561": "clarity_nt_char_561"
+  },
+  "562": {
+    "モテモテ": "Mote Mote"
+  },
+  "563": {
+    "clarity_nt_char_563": "clarity_nt_char_563"
+  },
+  "564": {
+    "極辛炎獣ラーベ": "Hot Flame Beast Rabe"
+  },
+  "565": {
+    "オーク": "Orc"
+  },
+  "566": {
+    "オークキング": "Orc King"
+  },
+  "567": {
+    "clarity_nt_char_567": "clarity_nt_char_567"
+  },
+  "568": {
+    "ゴールドオーク": "Orc Chieftain"
+  },
+  "569": {
+    "オークィーン": "Orc Queen"
+  },
+  "570": {
+    "clarity_nt_char_570": "clarity_nt_char_570"
+  },
+  "571": {
+    "オーク・強": "Apex Orc"
+  },
+  "572": {
+    "おおくちばし": "Beakon"
+  },
+  "573": {
+    "clarity_nt_char_573": "clarity_nt_char_573"
+  },
+  "574": {
+    "デッドペッカー": "Weaken Beakon"
+  },
+  "575": {
+    "アカイライ": "Belisha Beakon"
+  },
+  "576": {
+    "おおくちばし・強": "Evil Beakon"
+  },
+  "577": {
+    "clarity_nt_char_577": "clarity_nt_char_577"
+  },
+  "578": {
+    "ライノス・ルージュ": "Rouge Rhino"
+  },
+  "579": {
+    "キメラ・強": "Evil Chimaera"
+  },
+  "580": {
+    "キメラ": "Chimaera"
+  },
+  "581": {
+    "メイジキメラ": "Hocus Chimaera"
+  },
+  "582": {
+    "clarity_nt_char_582": "clarity_nt_char_582"
+  },
+  "583": {
+    "スターキメラ": "Cosmic Chimaera"
+  },
+  "584": {
+    "clarity_nt_char_584": "clarity_nt_char_584"
+  },
+  "585": {
+    "ムーンキメラ": "Lunar Chimaera"
+  },
+  "586": {
+    "clarity_nt_char_586": "clarity_nt_char_586"
+  },
+  "587": {
+    "バーチュ": "Virtue"
+  },
+  "588": {
+    "clarity_nt_char_588": "clarity_nt_char_588"
+  },
+  "589": {
+    "月守りの妖鳥": "Moon Guard Bird"
+  },
+  "590": {
+    "clarity_nt_char_590": "clarity_nt_char_590"
+  },
+  "591": {
+    "くさった死体": "Walking Corpse"
+  },
+  "592": {
+    "clarity_nt_char_592": "clarity_nt_char_592"
+  },
+  "593": {
+    "どくどくゾンビ": "Toxic Zombie"
+  },
+  "594": {
+    "グール": "Ghoul"
+  },
+  "595": {
+    "リビングデッド": "Corpse Corporal"
+  },
+  "596": {
+    "マッドスミス": "Lumberin' Jack"
+  },
+  "597": {
+    "clarity_nt_char_597": "clarity_nt_char_597"
+  },
+  "598": {
+    "ウェディングール": "Wedding Ghoul"
+  },
+  "599": {
+    "clarity_nt_char_599": "clarity_nt_char_599"
+  },
+  "600": {
+    "くさった死体・強": "Evil Walking Corpse"
+  },
+  "601": {
+    "clarity_nt_char_601": "clarity_nt_char_601"
+  },
+  "602": {
+    "ミステリドール": "Pocus Poppet"
+  },
+  "603": {
+    "いしにんぎょう": "Dirty Dogu"
+  },
+  "604": {
+    "シャコウ鬼神": "Fierce God Shako"
+  },
+  "605": {
+    "clarity_nt_char_605": "clarity_nt_char_605"
+  },
+  "606": {
+    "いしにんぎょう・強": "Evil Dirty Dogu"
+  },
+  "607": {
+    "サイおとこ・強": "Evil Rhinothrope"
+  },
+  "608": {
+    "魔瘴狼イジャラン": "Demoic Wolf Ijaran"
+  },
+  "609": {
+    "clarity_nt_char_609": "clarity_nt_char_609"
+  },
+  "610": {
+    "スライド": "Slide"
+  },
+  "611": {
+    "clarity_nt_char_611": "clarity_nt_char_611"
+  },
+  "612": {
+    "ヒポキン": "Hippo King"
+  },
+  "613": {
+    "clarity_nt_char_613": "clarity_nt_char_613"
+  },
+  "614": {
+    "アシュー": "Ash"
+  },
+  "615": {
+    "clarity_nt_char_615": "clarity_nt_char_615"
+  },
+  "616": {
+    "サイおとこ": "Rhinothrope"
+  },
+  "617": {
+    "ライノソルジャー": "Rhinoceraxe"
+  },
+  "618": {
+    "clarity_nt_char_618": "clarity_nt_char_618"
+  },
+  "619": {
+    "ライノスキング": "Rhinocerex"
+  },
+  "620": {
+    "ヒポせんし": "Hippo Soldier"
+  },
+  "621": {
+    "カバリアー": "Hippo Guard"
+  },
+  "622": {
+    "ヒッポキング": "Hippo King"
+  },
+  "623": {
+    "clarity_nt_char_623": "clarity_nt_char_623"
+  },
+  "624": {
+    "ヒポポ・サードン": "Hippo Sardon"
+  },
+  "625": {
+    "clarity_nt_char_625": "clarity_nt_char_625"
+  },
+  "626": {
+    "ライノスローネ": "Rhinocerone"
+  },
+  "627": {
+    "月守りの亡者": "Moon Guard Ghost"
+  },
+  "628": {
+    "clarity_nt_char_628": "clarity_nt_char_628"
+  },
+  "629": {
+    "しのどれい": "Dead Resident"
+  },
+  "630": {
+    "どれいへいし": "Undentured Servent"
+  },
+  "631": {
+    "clarity_nt_char_631": "clarity_nt_char_631"
+  },
+  "632": {
+    "ボーンプリズナー": "Marrow Escapee"
+  },
+  "633": {
+    "clarity_nt_char_633": "clarity_nt_char_633"
+  },
+  "634": {
+    "ろうごくのぬし": "Prison Leader"
+  },
+  "635": {
+    "上級亡霊兵士": "High Ghost Soldier"
+  },
+  "636": {
+    "clarity_nt_char_636": "clarity_nt_char_636"
+  },
+  "637": {
+    "バズズノエル": "Pazuzu Noel"
+  },
+  "638": {
+    "clarity_nt_char_638": "clarity_nt_char_638"
+  },
+  "639": {
+    "バズズ強": "Apex Pazuzu"
+  },
+  "640": {
+    "clarity_nt_char_640": "clarity_nt_char_640"
+  },
+  "641": {
+    "シルバーデビル": "Silvapithecus"
+  },
+  "642": {
+    "デビルロード": "Batmandrill"
+  },
+  "643": {
+    "clarity_nt_char_643": "clarity_nt_char_643"
+  },
+  "644": {
+    "バズズ": "Pazuzu"
+  },
+  "645": {
+    "バズズ(コイン)": "Pazuzu (Coin)"
+  },
+  "646": {
+    "clarity_nt_char_646": "clarity_nt_char_646"
+  },
+  "647": {
+    "プチバズズ": "Frail Pazuzu"
+  },
+  "648": {
+    "スライムナイト": "Slime Knight"
+  },
+  "649": {
+    "メタルライダー": "Metal Slime Knight"
+  },
+  "650": {
+    "ハートナイト": "Snooty Slime Kngt."
+  },
+  "651": {
+    "clarity_nt_char_651": "clarity_nt_char_651"
+  },
+  "652": {
+    "月守りの邪猿": "Moon Guard Monkey"
+  },
+  "653": {
+    "clarity_nt_char_653": "clarity_nt_char_653"
+  },
+  "654": {
+    "グーシオン": "Black Batboon"
+  },
+  "655": {
+    "デンタザウルス": "Tortoceratops"
+  },
+  "656": {
+    "サウルスロード": "Terrorceratops"
+  },
+  "657": {
+    "バザックス": "Tyrannoceratops"
+  },
+  "658": {
+    "トリカトラプス": "Trikaceratops"
+  },
+  "659": {
+    "ドロヌーバ": "Mudraker"
+  },
+  "660": {
+    "ジェリーマン": "Admirer"
+  },
+  "661": {
+    "clarity_nt_char_661": "clarity_nt_char_661"
+  },
+  "662": {
+    "マグマロン": "Live Lava"
+  },
+  "663": {
+    "うみぼうず": "Shipwrecker"
+  },
+  "664": {
+    "チョコヌーバ": "Choco Mudpie"
+  },
+  "665": {
+    "clarity_nt_char_665": "clarity_nt_char_665"
+  },
+  "666": {
+    "ビターチョコヌーバ": "Bitter Choconova"
+  },
+  "667": {
+    "ホワイトヌーバ": "White Choconova"
+  },
+  "668": {
+    "ばくだん岩・強": "Evil Rockbomb"
+  },
+  "669": {
+    "ビッグバン岩": "Big Bang Rock"
+  },
+  "670": {
+    "clarity_nt_char_670": "clarity_nt_char_670"
+  },
+  "671": {
+    "スマイルロック": "Grinade"
+  },
+  "672": {
+    "ばくだん岩": "Rockbomb"
+  },
+  "673": {
+    "メガザルロック": "Bomboulder"
+  },
+  "674": {
+    "のろいの岩": "Dreadrock"
+  },
+  "675": {
+    "メガンテロック": "Kamikazee Rock"
+  },
+  "676": {
+    "オーロラウンダー": "Aurorarounder"
+  },
+  "677": {
+    "clarity_nt_char_677": "clarity_nt_char_677"
+  },
+  "678": {
+    "フレイム": "Dancin Flame"
+  },
+  "679": {
+    "clarity_nt_char_679": "clarity_nt_char_679"
+  },
+  "680": {
+    "ブリザード": "Frostburn"
+  },
+  "681": {
+    "ギャスモン": "Gasmon"
+  },
+  "682": {
+    "スピリットフレイム": "Spirit Flame"
+  },
+  "683": {
+    "ふゆほへい": "Frost Burn"
+  },
+  "684": {
+    "エレメンイエロー": "Elemen Yellow"
+  },
+  "685": {
+    "clarity_nt_char_685": "clarity_nt_char_685"
+  },
+  "686": {
+    "エレメンブルー": "Elemen Blue"
+  },
+  "687": {
+    "エレメングリーン": "Elemen Green"
+  },
+  "688": {
+    "clarity_nt_char_688": "clarity_nt_char_688"
+  },
+  "689": {
+    "エレメンレッド": "Elemendred"
+  },
+  "690": {
+    "エレメンピンク": "Elemen Pink"
+  },
+  "691": {
+    "ポイズンリザード": "Killer Gila"
+  },
+  "692": {
+    "clarity_nt_char_692": "clarity_nt_char_692"
+  },
+  "693": {
+    "ベビーサラマンダ": "Salamander Fry"
+  },
+  "694": {
+    "clarity_nt_char_694": "clarity_nt_char_694"
+  },
+  "695": {
+    "マッドルーパー": "Axolotl"
+  },
+  "696": {
+    "インフェルノ": "Inferno"
+  },
+  "697": {
+    "clarity_nt_char_697": "clarity_nt_char_697"
+  },
+  "698": {
+    "エルダーフレイム": "Elder Flame"
+  },
+  "699": {
+    "clarity_nt_char_699": "clarity_nt_char_699"
+  },
+  "700": {
+    "ぼうれい剣士": "Phantom Fencer"
+  },
+  "701": {
+    "clarity_nt_char_701": "clarity_nt_char_701"
+  },
+  "702": {
+    "ソードファントム": "Phantom Swordsman"
+  },
+  "703": {
+    "clarity_nt_char_703": "clarity_nt_char_703"
+  },
+  "704": {
+    "ダークナイト": "Invisible Swordman"
+  },
+  "705": {
+    "clarity_nt_char_705": "clarity_nt_char_705"
+  },
+  "706": {
+    "シルバーマント": "Silver Swordsman"
+  },
+  "707": {
+    "ゴールドマント": "Gold Mantle"
+  },
+  "708": {
+    "滅びの悪夢": "Ruin Nightmare"
+  },
+  "709": {
+    "マッドルーパー・強": "Evil Axolotl"
+  },
+  "710": {
+    "殺りくのグレボス": "Killer Grevos"
+  },
+  "711": {
+    "clarity_nt_char_711": "clarity_nt_char_711"
+  },
+  "712": {
+    "ソルジャーブル": "Warhog"
+  },
+  "713": {
+    "護門将ゴウシルシャ": "Protector General Goshylsa"
+  },
+  "714": {
+    "千夜フウジン": "Wind God of Night"
+  },
+  "715": {
+    "clarity_nt_char_715": "clarity_nt_char_715"
+  },
+  "716": {
+    "イレイザーＧｅ５０": "Eraser GE50"
+  },
+  "717": {
+    "大王イカ": "King Squid"
+  },
+  "718": {
+    "clarity_nt_char_718": "clarity_nt_char_718"
+  },
+  "719": {
+    "テンタクルス": "Squidzilla"
+  },
+  "720": {
+    "clarity_nt_char_720": "clarity_nt_char_720"
+  },
+  "721": {
+    "クラーゴン": "Tentacular"
+  },
+  "722": {
+    "海冥主メイヴ": "Hades Squid"
+  },
+  "723": {
+    "clarity_nt_char_723": "clarity_nt_char_723"
+  },
+  "724": {
+    "リザードマン": "Mandrake Major"
+  },
+  "725": {
+    "clarity_nt_char_725": "clarity_nt_char_725"
+  },
+  "726": {
+    "りゅうき兵": "Mandrake Merc."
+  },
+  "727": {
+    "シュプリンガー": "Mandrake Marshal"
+  },
+  "728": {
+    "アカツキショウグン": "Mandrake Murderer"
+  },
+  "729": {
+    "アッシュリザード": "Mandrake Militant"
+  },
+  "730": {
+    "clarity_nt_char_730": "clarity_nt_char_730"
+  },
+  "731": {
+    "しにがみきぞく・強": "Evil Bone Baron"
+  },
+  "732": {
+    "ひくいどり": "Firebird"
+  },
+  "733": {
+    "ホークブリザード": "Snowbird"
+  },
+  "734": {
+    "clarity_nt_char_734": "clarity_nt_char_734"
+  },
+  "735": {
+    "れんごくちょう": "Hybird"
+  },
+  "736": {
+    "商品ナンバー１３": "Eidolon-13"
+  },
+  "737": {
+    "clarity_nt_char_737": "clarity_nt_char_737"
+  },
+  "738": {
+    "小辛翼竜バードアイ": "Hot Pterosaur"
+  },
+  "739": {
+    "凶鳥フレス": "Bad Bird Fres"
+  },
+  "740": {
+    "紅蓮鳥トワイラ": "Red Lotus Bird Twyla"
+  },
+  "741": {
+    "緑風鬼フー": "Wind Demon Fuu"
+  },
+  "742": {
+    "ダークオルニス": "Dark Buzzard"
+  },
+  "743": {
+    "希望のケモノ": "Bird of Hope"
+  },
+  "744": {
+    "clarity_nt_char_744": "clarity_nt_char_744"
+  },
+  "745": {
+    "ボーンナイト": "Grim Rider"
+  },
+  "746": {
+    "clarity_nt_char_746": "clarity_nt_char_746"
+  },
+  "747": {
+    "しにがみきぞく": "Bone Baron"
+  },
+  "748": {
+    "グレイトライドン": "Night Rider"
+  },
+  "749": {
+    "clarity_nt_char_749": "clarity_nt_char_749"
+  },
+  "750": {
+    "シャドーノーブル": "Shadow Noble"
+  },
+  "751": {
+    "clarity_nt_char_751": "clarity_nt_char_751"
+  },
+  "752": {
+    "ボーンナイト強": "Apex Grim Rider"
+  },
+  "753": {
+    "黄金のバディンド": "Golden Badindo"
+  },
+  "754": {
+    "clarity_nt_char_754": "clarity_nt_char_754"
+  },
+  "755": {
+    "凶将バリクナジャ": "General Togrus Maximus"
+  },
+  "756": {
+    "clarity_nt_char_756": "clarity_nt_char_756"
+  },
+  "757": {
+    "デビルアーマー": "Harmour"
+  },
+  "758": {
+    "マジックアーマー": "Charmour"
+  },
+  "759": {
+    "clarity_nt_char_759": "clarity_nt_char_759"
+  },
+  "760": {
+    "サタンメイル": "Alarmour"
+  },
+  "761": {
+    "clarity_nt_char_761": "clarity_nt_char_761"
+  },
+  "762": {
+    "てっこうまじん": "Bad Karmour"
+  },
+  "763": {
+    "魔人スピンドル": "Majin Spindle"
+  },
+  "764": {
+    "魔人兵士": "Majin Guard"
+  },
+  "765": {
+    "clarity_nt_char_765": "clarity_nt_char_765"
+  },
+  "766": {
+    "悪夢の追っ手": "Pursuing Party"
+  },
+  "767": {
+    "clarity_nt_char_767": "clarity_nt_char_767"
+  },
+  "768": {
+    "魔天兵ジルバ": "Evil Soldier Jilba"
+  },
+  "769": {
+    "clarity_nt_char_769": "clarity_nt_char_769"
+  },
+  "770": {
+    "魔天兵ゴルドー": "Evil Soldier Goldo"
+  },
+  "771": {
+    "エンゼルアーマー": "Angelarmour"
+  },
+  "772": {
+    "clarity_nt_char_772": "clarity_nt_char_772"
+  },
+  "773": {
+    "バリクナジャ": "Togrus Maximus"
+  },
+  "774": {
+    "clarity_nt_char_774": "clarity_nt_char_774"
+  },
+  "775": {
+    "ネクロバルサ": "Togre"
+  },
+  "776": {
+    "clarity_nt_char_776": "clarity_nt_char_776"
+  },
+  "777": {
+    "武闘魔ガウラド": "Warrior Demon Gaurad"
+  },
+  "778": {
+    "バリクナジャ強": "Apex Togrus Maximus"
+  },
+  "779": {
+    "魔創兵ゲゾラ": "Evil Soldier Gezra"
+  },
+  "780": {
+    "clarity_nt_char_780": "clarity_nt_char_780"
+  },
+  "781": {
+    "じごくのもんばん": "Grim Keeper"
+  },
+  "782": {
+    "clarity_nt_char_782": "clarity_nt_char_782"
+  },
+  "783": {
+    "ベレス": "Beleth"
+  },
+  "784": {
+    "デビルプリンス": "Prince of Darkness"
+  },
+  "785": {
+    "ラズバーンの手下": "Razuban's Minion"
+  },
+  "786": {
+    "clarity_nt_char_786": "clarity_nt_char_786"
+  },
+  "787": {
+    "グリーターデーモン": "Greeter Daemon"
+  },
+  "788": {
+    "ファラリスブル": "Brazen Bull"
+  },
+  "789": {
+    "使い魔バジリウス": "Familiar Basilius"
+  },
+  "790": {
+    "clarity_nt_char_790": "clarity_nt_char_790"
+  },
+  "791": {
+    "ヘルクラッシャー": "Hell Gladiator"
+  },
+  "792": {
+    "clarity_nt_char_792": "clarity_nt_char_792"
+  },
+  "793": {
+    "まおうのつかい": "Demon-at-arms"
+  },
+  "794": {
+    "ボーンファイター": "Zombie Gladiator"
+  },
+  "795": {
+    "clarity_nt_char_795": "clarity_nt_char_795"
+  },
+  "796": {
+    "災厄の尖兵": "Calamity Guard"
+  },
+  "797": {
+    "アスラ王": "Asura King"
+  },
+  "798": {
+    "clarity_nt_char_798": "clarity_nt_char_798"
+  },
+  "799": {
+    "大罪の亡霊": "Ghost of Sin"
+  },
+  "800": {
+    "カーボーン将軍": "General Carbone"
+  },
+  "801": {
+    "まおうのつかい・強": "Evil Demon-at-arms"
+  },
+  "802": {
+    "あくまのきし": "Knight Aberrant"
+  },
+  "803": {
+    "clarity_nt_char_803": "clarity_nt_char_803"
+  },
+  "804": {
+    "しにがみのきし": "Knight Abhorrent"
+  },
+  "805": {
+    "よろいのきし": "Knight Errant"
+  },
+  "806": {
+    "clarity_nt_char_806": "clarity_nt_char_806"
+  },
+  "807": {
+    "しろバラのきし": "White Rose Knight"
+  },
+  "808": {
+    "獄辛党秘書ロシナゼ": "Jail Knight Rozzinaze"
+  },
+  "809": {
+    "バルディスタ遊撃兵": "Valdista Attack Soldier"
+  },
+  "810": {
+    "タリスマンの守護者": "Guardian of the Talisman"
+  },
+  "811": {
+    "デスライラ": "Deslaria"
+  },
+  "812": {
+    "なげきの亡霊": "Tortured Soul"
+  },
+  "813": {
+    "clarity_nt_char_813": "clarity_nt_char_813"
+  },
+  "814": {
+    "デスプリースト": "Wight Priest"
+  },
+  "815": {
+    "ワイトキング": "Wight King"
+  },
+  "816": {
+    "clarity_nt_char_816": "clarity_nt_char_816"
+  },
+  "817": {
+    "パルカラス亡霊王": "Ghost King Palkaras"
+  },
+  "818": {
+    "clarity_nt_char_818": "clarity_nt_char_818"
+  },
+  "819": {
+    "死の悪夢": "Death Dream"
+  },
+  "820": {
+    "clarity_nt_char_820": "clarity_nt_char_820"
+  },
+  "821": {
+    "ロードコープス": "Wight Emperor"
+  },
+  "822": {
+    "魔獣イーギュア": "Rapscallion"
+  },
+  "823": {
+    "大魔獣イーギュア": "Giga Rapscallion"
+  },
+  "824": {
+    "clarity_nt_char_824": "clarity_nt_char_824"
+  },
+  "825": {
+    "アームライオン": "Hellion"
+  },
+  "826": {
+    "やつざきアニマル": "Bullion"
+  },
+  "827": {
+    "clarity_nt_char_827": "clarity_nt_char_827"
+  },
+  "828": {
+    "キングレオ": "Marquis de Leon"
+  },
+  "829": {
+    "キングレオ強": "A. Marquis de Leon"
+  },
+  "830": {
+    "clarity_nt_char_830": "clarity_nt_char_830"
+  },
+  "831": {
+    "グレイブディガー": "Grave Digger"
+  },
+  "832": {
+    "clarity_nt_char_832": "clarity_nt_char_832"
+  },
+  "833": {
+    "キラーデーモン": "Demon Steward"
+  },
+  "834": {
+    "魔賢者アクバー": "Blackmar"
+  },
+  "835": {
+    "デーモンキング": "Demon Overlord"
+  },
+  "836": {
+    "ベルフェゴル": "Belfggor"
+  },
+  "837": {
+    "clarity_nt_char_837": "clarity_nt_char_837"
+  },
+  "838": {
+    "魔創兵長バスラー": "Demon Captain Bassler"
+  },
+  "839": {
+    "clarity_nt_char_839": "clarity_nt_char_839"
+  },
+  "840": {
+    "アクバー": "Blackmar"
+  },
+  "841": {
+    "clarity_nt_char_841": "clarity_nt_char_841"
+  },
+  "842": {
+    "アクバー強": "Apex Blackmar"
+  },
+  "843": {
+    "獣将キングレオ": "Gen. Marquis de Leon"
+  },
+  "844": {
+    "うごくせきぞう": "Living Statue"
+  },
+  "845": {
+    "だいまじん": "Stone Guardian"
+  },
+  "846": {
+    "きょだいまじん": "Giga Stone Guardian"
+  },
+  "847": {
+    "赤熱の魔神像": "Red-Hot Statue"
+  },
+  "848": {
+    "clarity_nt_char_848": "clarity_nt_char_848"
+  },
+  "849": {
+    "慈愛のケモノ": "Beast of Affection"
+  },
+  "850": {
+    "clarity_nt_char_850": "clarity_nt_char_850"
+  },
+  "851": {
+    "ダークキング": "Dark King Slime"
+  },
+  "852": {
+    "clarity_nt_char_852": "clarity_nt_char_852"
+  },
+  "853": {
+    "ギガントドラゴン": "Drakulard"
+  },
+  "854": {
+    "clarity_nt_char_854": "clarity_nt_char_854"
+  },
+  "855": {
+    "ドラゴン・ウー": "Drakulord"
+  },
+  "856": {
+    "ギガントヒルズ": "Drakularge"
+  },
+  "857": {
+    "魔瘴竜": "Jaomanda"
+  },
+  "858": {
+    "魔創兵グリモス": "Demon Soldier Grimos"
+  },
+  "859": {
+    "ベヒードス": "Drakulurch"
+  },
+  "860": {
+    "ネグールドラゴン": "Nezure Dragon"
+  },
+  "861": {
+    "clarity_nt_char_861": "clarity_nt_char_861"
+  },
+  "862": {
+    "タロット魔人": "Tarot Genie"
+  },
+  "863": {
+    "clarity_nt_char_863": "clarity_nt_char_863"
+  },
+  "864": {
+    "タロット魔人強": "Apex Tarot Genie"
+  },
+  "865": {
+    "欲望の邪鬼ゴモル": "Demon of Desire Gomoru"
+  },
+  "866": {
+    "clarity_nt_char_866": "clarity_nt_char_866"
+  },
+  "867": {
+    "ゴーレム・強": "Evil Golem"
+  },
+  "868": {
+    "clarity_nt_char_868": "clarity_nt_char_868"
+  },
+  "869": {
+    "陰獣": "Yin"
+  },
+  "870": {
+    "clarity_nt_char_870": "clarity_nt_char_870"
+  },
+  "871": {
+    "陽獣": "Yang"
+  },
+  "872": {
+    "clarity_nt_char_872": "clarity_nt_char_872"
+  },
+  "873": {
+    "キラーマシン・強": "Evil Killing Machine"
+  },
+  "874": {
+    "clarity_nt_char_874": "clarity_nt_char_874"
+  },
+  "875": {
+    "鬼人兵": "Evil Ogre"
+  },
+  "876": {
+    "キングスライム": "King Slime"
+  },
+  "877": {
+    "クイーンスライム": "Queen Slime"
+  },
+  "878": {
+    "clarity_nt_char_878": "clarity_nt_char_878"
+  },
+  "879": {
+    "キラーマシン": "Killing Machine"
+  },
+  "880": {
+    "clarity_nt_char_880": "clarity_nt_char_880"
+  },
+  "881": {
+    "メタルハンター": "Hunter Mech"
+  },
+  "882": {
+    "タイプＧ": "Type G0"
+  },
+  "883": {
+    "clarity_nt_char_883": "clarity_nt_char_883"
+  },
+  "884": {
+    "伐採マシン": "Choppin Machine"
+  },
+  "885": {
+    "伐採マシン改": "Choppin Machine v2"
+  },
+  "886": {
+    "clarity_nt_char_886": "clarity_nt_char_886"
+  },
+  "887": {
+    "デュランダル": "A3G15"
+  },
+  "888": {
+    "clarity_nt_char_888": "clarity_nt_char_888"
+  },
+  "889": {
+    "メギドロイド": "Mechidroid"
+  },
+  "890": {
+    "clarity_nt_char_890": "clarity_nt_char_890"
+  },
+  "891": {
+    "スライムベホマズン": "King Cureslime"
+  },
+  "892": {
+    "メタルキング": "Metal King Slime"
+  },
+  "893": {
+    "clarity_nt_char_893": "clarity_nt_char_893"
+  },
+  "894": {
+    "ダークパンサー": "Winged Sabrecat"
+  },
+  "895": {
+    "ホワイトゴーレム": "White Chocolate Golem"
+  },
+  "896": {
+    "clarity_nt_char_896": "clarity_nt_char_896"
+  },
+  "897": {
+    "ウイングタイガー": "Missing Lynx"
+  },
+  "898": {
+    "clarity_nt_char_898": "clarity_nt_char_898"
+  },
+  "899": {
+    "ゲリュオン": "Draguar"
+  },
+  "900": {
+    "キラーファング": "Killer Fang"
+  },
+  "901": {
+    "魔獣ビュブロス": "Magical Beast Byblos"
+  },
+  "902": {
+    "ブロンドボーイ": "Blondie"
+  },
+  "903": {
+    "チョコゴーレム": "Choco Golem"
+  },
+  "904": {
+    "ゴーレム": "Golem"
+  },
+  "905": {
+    "clarity_nt_char_905": "clarity_nt_char_905"
+  },
+  "906": {
+    "アイスゴーレム": "Glacial Golem"
+  },
+  "907": {
+    "ストーンマン": "Stone Golem"
+  },
+  "908": {
+    "clarity_nt_char_908": "clarity_nt_char_908"
+  },
+  "909": {
+    "ゴールドマン": "Gold Golem"
+  },
+  "910": {
+    "clarity_nt_char_910": "clarity_nt_char_910"
+  },
+  "911": {
+    "魔鳥の頭目": "Head Squarker"
+  },
+  "912": {
+    "サイレス": "Gryphon"
+  },
+  "913": {
+    "clarity_nt_char_913": "clarity_nt_char_913"
+  },
+  "914": {
+    "エビルホーク": "War Gryphon"
+  },
+  "915": {
+    "clarity_nt_char_915": "clarity_nt_char_915"
+  },
+  "916": {
+    "ジャミラス": "Jamirus"
+  },
+  "917": {
+    "ジャミラス強": "Apex Jamirus"
+  },
+  "918": {
+    "clarity_nt_char_918": "clarity_nt_char_918"
+  },
+  "919": {
+    "ゲルバトロス": "Gelbatross"
+  },
+  "920": {
+    "clarity_nt_char_920": "clarity_nt_char_920"
+  },
+  "921": {
+    "シールドオーガ": "Escudogre"
+  },
+  "922": {
+    "オーガキング": "Testudogre"
+  },
+  "923": {
+    "clarity_nt_char_923": "clarity_nt_char_923"
+  },
+  "924": {
+    "たてまじん": "Peekabogre"
+  },
+  "925": {
+    "謎の武装兵": "Mystery Soldier"
+  },
+  "926": {
+    "じごくのドアボーイ": "Hell’s Bellboy"
+  },
+  "927": {
+    "れんごくの番兵": "Lingering Ogre"
+  },
+  "928": {
+    "ゴールドマンＭＡＸ": "Gold Golem MAX"
+  },
+  "929": {
+    "暗黒の魔造兵": "Dark Golem"
+  },
+  "930": {
+    "clarity_nt_char_930": "clarity_nt_char_930"
+  },
+  "931": {
+    "悲観の闇": "Dark Despair"
+  },
+  "932": {
+    "clarity_nt_char_932": "clarity_nt_char_932"
+  },
+  "933": {
+    "ずしおうまる": "Sintaur"
+  },
+  "934": {
+    "clarity_nt_char_934": "clarity_nt_char_934"
+  },
+  "935": {
+    "ブルサベージ": "Tormentaur"
+  },
+  "936": {
+    "clarity_nt_char_936": "clarity_nt_char_936"
+  },
+  "937": {
+    "魔盗鬼チャムール": "Devilish Thief Chamour"
+  },
+  "938": {
+    "clarity_nt_char_938": "clarity_nt_char_938"
+  },
+  "939": {
+    "商品ナンバー１２": "Eidolon-12"
+  },
+  "940": {
+    "clarity_nt_char_940": "clarity_nt_char_940"
+  },
+  "941": {
+    "アビスソルジャー": "Abyss Soldier"
+  },
+  "942": {
+    "clarity_nt_char_942": "clarity_nt_char_942"
+  },
+  "943": {
+    "クリムゾングレイブ": "Crimson Glaive"
+  },
+  "944": {
+    "プチアビス": "Frail Abyss"
+  },
+  "945": {
+    "ダッシュラン": "Drag Racer"
+  },
+  "946": {
+    "clarity_nt_char_946": "clarity_nt_char_946"
+  },
+  "947": {
+    "テラノライナー": "Dragstar"
+  },
+  "948": {
+    "ヘルジュラシック": "Dragster"
+  },
+  "949": {
+    "clarity_nt_char_949": "clarity_nt_char_949"
+  },
+  "950": {
+    "せつげんりゅう": "Tundra Dragon"
+  },
+  "951": {
+    "中辛角竜ボブラノス": "Med. Spicy Dragon Bobranos"
+  },
+  "952": {
+    "月守りの双屍竜": "Twin Moon Guard Drgn."
+  },
+  "953": {
+    "魔天骸オロバドン": "Demon Skeleton Orobadon"
+  },
+  "954": {
+    "clarity_nt_char_954": "clarity_nt_char_954"
+  },
+  "955": {
+    "殺りくの悪夢": "Massacre Nightmare"
+  },
+  "956": {
+    "clarity_nt_char_956": "clarity_nt_char_956"
+  },
+  "957": {
+    "スカルゴン": "Skelegon"
+  },
+  "958": {
+    "ドラゴンゾンビ": "Dragon Zombie"
+  },
+  "959": {
+    "波怨竜": "Wavragon"
+  },
+  "960": {
+    "ビッグＢ": "Big B"
+  },
+  "961": {
+    "clarity_nt_char_961": "clarity_nt_char_961"
+  },
+  "962": {
+    "バラモスゾンビ": "Bones of Baramos"
+  },
+  "963": {
+    "絶辛骨竜マーガ": "Spicy Dragon Maga"
+  },
+  "964": {
+    "ヌーデビル": "Gnucifer"
+  },
+  "965": {
+    "まかいじゅう": "Gnumesis"
+  },
+  "966": {
+    "clarity_nt_char_966": "clarity_nt_char_966"
+  },
+  "967": {
+    "デスゴーゴン": "Gnuriel"
+  },
+  "968": {
+    "clarity_nt_char_968": "clarity_nt_char_968"
+  },
+  "969": {
+    "太古のぬし": "Gnubie"
+  },
+  "970": {
+    "最強商品": "Strong Goods"
+  },
+  "971": {
+    "clarity_nt_char_971": "clarity_nt_char_971"
+  },
+  "972": {
+    "トガスのぬし": "Togus Dogus"
+  },
+  "973": {
+    "clarity_nt_char_973": "clarity_nt_char_973"
+  },
+  "974": {
+    "大辛魔獣モローン": "Super Spicy Beast Marone"
+  },
+  "975": {
+    "clarity_nt_char_975": "clarity_nt_char_975"
+  },
+  "976": {
+    "巨影の獣": "Shadow Beast"
+  },
+  "977": {
+    "clarity_nt_char_977": "clarity_nt_char_977"
+  },
+  "978": {
+    "クリスモスゾンビ": "Christmas Zombie"
+  },
+  "979": {
+    "clarity_nt_char_979": "clarity_nt_char_979"
+  },
+  "980": {
+    "バラモスゾンビ闘": "Bones of Baramos"
+  },
+  "981": {
+    "clarity_nt_char_981": "clarity_nt_char_981"
+  },
+  "982": {
+    "コキュードス": "Icicle Dragon"
+  },
+  "983": {
+    "clarity_nt_char_983": "clarity_nt_char_983"
+  },
+  "984": {
+    "ビッグモアイ": "Mad Moai"
+  },
+  "985": {
+    "clarity_nt_char_985": "clarity_nt_char_985"
+  },
+  "986": {
+    "ゴードンヘッド": "Mega Moai"
+  },
+  "987": {
+    "クラウンヘッド": "Moai Minstrel"
+  },
+  "988": {
+    "なげきの魔像": "Lord Magmoai"
+  },
+  "989": {
+    "clarity_nt_char_989": "clarity_nt_char_989"
+  },
+  "990": {
+    "月守りの巨岩": "L. Moon Guard Rock"
+  },
+  "991": {
+    "clarity_nt_char_991": "clarity_nt_char_991"
+  },
+  "992": {
+    "勇気のケモノ甲": "Beast of Courage A"
+  },
+  "993": {
+    "勇気のケモノ乙": "Beast of Courage B"
+  },
+  "994": {
+    "震王ジュノーガ": "Quake King Junoga"
+  },
+  "995": {
+    "ヘルビースト": "Sculptrice"
+  },
+  "996": {
+    "clarity_nt_char_996": "clarity_nt_char_996"
+  },
+  "997": {
+    "ウィングデビル": "Aggrosculpture"
+  },
+  "998": {
+    "リビングスタチュー": "Sculpture Vulture"
+  },
+  "999": {
+    "ホラービースト": "Grrrgoyle"
+  },
+  "1000": {
+    "赤翼鬼シシン": "Red Demon Shishin"
+  },
+  "1001": {
+    "clarity_nt_char_1001": "clarity_nt_char_1001"
+  },
+  "1002": {
+    "知将ジャミラス": "Jamirus The Wise"
+  },
+  "1003": {
+    "ドラゴンゾンビ・強": "Evil Dragon Zombie"
+  },
+  "1004": {
+    "しのどれい・強": "Evil Dead Resident"
+  },
+  "1005": {
+    "ギガンテス・強": "Evil Gigantes"
+  },
+  "1006": {
+    "プチベリアル": "Frail Belial"
+  },
+  "1007": {
+    "clarity_nt_char_1007": "clarity_nt_char_1007"
+  },
+  "1008": {
+    "ベリアル強": "Apex Belial"
+  },
+  "1009": {
+    "ベリアル": "Belial"
+  },
+  "1010": {
+    "clarity_nt_char_1010": "clarity_nt_char_1010"
+  },
+  "1011": {
+    "アークデーモン": "Archdemon"
+  },
+  "1012": {
+    "キャロルベリアル": "Carol Belial"
+  },
+  "1013": {
+    "clarity_nt_char_1013": "clarity_nt_char_1013"
+  },
+  "1014": {
+    "デザートデーモン": "Dessert Demon"
+  },
+  "1015": {
+    "clarity_nt_char_1015": "clarity_nt_char_1015"
+  },
+  "1016": {
+    "邪将トロルバッコス": "General Gladiator Troll"
+  },
+  "1017": {
+    "トロル": "Troll"
+  },
+  "1018": {
+    "ボストロール": "Boss Troll"
+  },
+  "1019": {
+    "clarity_nt_char_1019": "clarity_nt_char_1019"
+  },
+  "1020": {
+    "トロルキング": "Great Troll"
+  },
+  "1021": {
+    "clarity_nt_char_1021": "clarity_nt_char_1021"
+  },
+  "1022": {
+    "トロルバッコス": "Gladiator Troll"
+  },
+  "1023": {
+    "トロルバッコス強": "Apex Gladiator Troll"
+  },
+  "1024": {
+    "clarity_nt_char_1024": "clarity_nt_char_1024"
+  },
+  "1025": {
+    "スイーツトロル": "Sweets Troll"
+  },
+  "1026": {
+    "ベリアル(コイン)": "Belial(Coin)"
+  },
+  "1027": {
+    "アークデーモンＡ": "Archdemon A"
+  },
+  "1028": {
+    "clarity_nt_char_1028": "clarity_nt_char_1028"
+  },
+  "1029": {
+    "アークデーモンＢ": "Archdemon B"
+  },
+  "1030": {
+    "clarity_nt_char_1030": "clarity_nt_char_1030"
+  },
+  "1031": {
+    "サイクロプス": "Cyclops"
+  },
+  "1032": {
+    "clarity_nt_char_1032": "clarity_nt_char_1032"
+  },
+  "1033": {
+    "ギガンテス": "Gigantes"
+  },
+  "1034": {
+    "アトラス": "Atlas"
+  },
+  "1035": {
+    "clarity_nt_char_1035": "clarity_nt_char_1035"
+  },
+  "1036": {
+    "アトラス(コイン)": "Atlas(Coin)"
+  },
+  "1037": {
+    "闇夜の巨人": "Dk. Night Giant"
+  },
+  "1038": {
+    "ゴールデンゴーレム": "Golden Balhib"
+  },
+  "1039": {
+    "セルゲイナス": "Bilhaw"
+  },
+  "1040": {
+    "clarity_nt_char_1040": "clarity_nt_char_1040"
+  },
+  "1041": {
+    "アスタロト": "Harmachis"
+  },
+  "1042": {
+    "激辛魔人アケローダ": "Super Spicy Demon Akeroda"
+  },
+  "1043": {
+    "エメラルドーン": "Emeraldon"
+  },
+  "1044": {
+    "熱砂の魔人": "Hot Sand Demon"
+  },
+  "1045": {
+    "英知のケモノ": "Beast of Wisdom"
+  },
+  "1046": {
+    "clarity_nt_char_1046": "clarity_nt_char_1046"
+  },
+  "1047": {
+    "シルバリヌス": "Silverine"
+  },
+  "1048": {
+    "clarity_nt_char_1048": "clarity_nt_char_1048"
+  },
+  "1049": {
+    "巨戦鬼ゴルゴンザ": "Giant War Demon Gorgonza"
+  },
+  "1050": {
+    "clarity_nt_char_1050": "clarity_nt_char_1050"
+  },
+  "1051": {
+    "プチアトラス": "Frail Atlas"
+  },
+  "1052": {
+    "clarity_nt_char_1052": "clarity_nt_char_1052"
+  },
+  "1053": {
+    "アトラス強": "Apex Atlas"
+  },
+  "1054": {
+    "ホーリーアトラス": "Holy Atlas"
+  },
+  "1055": {
+    "clarity_nt_char_1055": "clarity_nt_char_1055"
+  },
+  "1056": {
+    "ギガデーモン": "Pruslas"
+  },
+  "1057": {
+    "clarity_nt_char_1057": "clarity_nt_char_1057"
+  },
+  "1058": {
+    "おにこんぼう": "Night Clubber"
+  },
+  "1059": {
+    "clarity_nt_char_1059": "clarity_nt_char_1059"
+  },
+  "1060": {
+    "ギーグハンマー": "Giga Clubber"
+  },
+  "1061": {
+    "ギーグハンマー強": "Apex Giga Clubber"
+  },
+  "1062": {
+    "clarity_nt_char_1062": "clarity_nt_char_1062"
+  },
+  "1063": {
+    "ギーグハンマー・狂": "Mad Giga Clubber"
+  },
+  "1064": {
+    "ギガデーモン強": "Apex Pruslas"
+  },
+  "1065": {
+    "おむつっこり": "Nappy Wrapper"
+  },
+  "1066": {
+    "clarity_nt_char_1066": "clarity_nt_char_1066"
+  },
+  "1067": {
+    "どんぐりベビー": "Acorn Baby"
+  },
+  "1068": {
+    "ケセランパセラン": "Dandelion Fluff"
+  },
+  "1069": {
+    "clarity_nt_char_1069": "clarity_nt_char_1069"
+  },
+  "1070": {
+    "モコフル": "Fluff Puff"
+  },
+  "1071": {
+    "clarity_nt_char_1071": "clarity_nt_char_1071"
+  },
+  "1072": {
+    "鬼棍蔵": "Club Ogre"
+  },
+  "1073": {
+    "ユキフル": "Snowball"
+  },
+  "1074": {
+    "clarity_nt_char_1074": "clarity_nt_char_1074"
+  },
+  "1075": {
+    "猛将ギーグハンマー": "General Giga Clubber"
+  },
+  "1076": {
+    "青の巨人ブルメル": "Brummels The Blue Giant"
+  },
+  "1077": {
+    "clarity_nt_char_1077": "clarity_nt_char_1077"
+  },
+  "1078": {
+    "赤の巨人レドノフ": "Rednov The Red Giant"
+  },
+  "1079": {
+    "clarity_nt_char_1079": "clarity_nt_char_1079"
+  },
+  "1080": {
+    "緑の巨人グリモア": "Gemora The Green Giant"
+  },
+  "1081": {
+    "clarity_nt_char_1081": "clarity_nt_char_1081"
+  },
+  "1082": {
+    "ゆめにゅうどう": "Dream Monk"
+  },
+  "1083": {
+    "インキュバス": "Incubus"
+  },
+  "1084": {
+    "clarity_nt_char_1084": "clarity_nt_char_1084"
+  },
+  "1085": {
+    "ドッグラマッコイ": "Dogjamas"
+  },
+  "1086": {
+    "clarity_nt_char_1086": "clarity_nt_char_1086"
+  },
+  "1087": {
+    "ナイトメーア": "Nightmare"
+  },
+  "1088": {
+    "clarity_nt_char_1088": "clarity_nt_char_1088"
+  },
+  "1089": {
+    "バッドメーア": "Bedmare"
+  },
+  "1090": {
+    "clarity_nt_char_1090": "clarity_nt_char_1090"
+  },
+  "1091": {
+    "バルザックゾンビ": "Zombie Baalzack"
+  },
+  "1092": {
+    "clarity_nt_char_1092": "clarity_nt_char_1092"
+  },
+  "1093": {
+    "ダークパラディン": "Dark Paladin"
+  },
+  "1094": {
+    "clarity_nt_char_1094": "clarity_nt_char_1094"
+  },
+  "1095": {
+    "冥骸魔レギルラッゾ": "Demon Corpse Legirrazzo"
+  },
+  "1096": {
+    "ビッグハット": "Sham Hatwitch"
+  },
+  "1097": {
+    "clarity_nt_char_1097": "clarity_nt_char_1097"
+  },
+  "1098": {
+    "マジカルハット": "Hat Hamwitch"
+  },
+  "1099": {
+    "アルケミストン": "Alchemy Piggy"
+  },
+  "1100": {
+    "トンブレロ": "Ham Shamwitch"
+  },
+  "1101": {
+    "ビッグビッグハット": "Giga Sham Hatwitch"
+  },
+  "1102": {
+    "チビッグハット": "Frail Sham Hatwitch"
+  },
+  "1103": {
+    "もみじこぞう": "Leafy Larrikin"
+  },
+  "1104": {
+    "clarity_nt_char_1104": "clarity_nt_char_1104"
+  },
+  "1105": {
+    "まだらイチョウ": "Bud Brother"
+  },
+  "1106": {
+    "デビルスノー": "Shivery Shrubbery"
+  },
+  "1107": {
+    "clarity_nt_char_1107": "clarity_nt_char_1107"
+  },
+  "1108": {
+    "アロエおに": "Aloehaha"
+  },
+  "1109": {
+    "さくらこぞう": "Scary Blossom"
+  },
+  "1110": {
+    "clarity_nt_char_1110": "clarity_nt_char_1110"
+  },
+  "1111": {
+    "もみじこぞう・強": "Evil Leafy Larrikin"
+  },
+  "1112": {
+    "clarity_nt_char_1112": "clarity_nt_char_1112"
+  },
+  "1113": {
+    "メタルブラザーズ": "Metal Medley"
+  },
+  "1114": {
+    "clarity_nt_char_1114": "clarity_nt_char_1114"
+  },
+  "1115": {
+    "スライムタワー": "Slime Stack"
+  },
+  "1116": {
+    "ゴールデントーテム": "Gem Jamboree"
+  },
+  "1117": {
+    "ももいろ三姉妹": "Slime Sisters"
+  },
+  "1118": {
+    "チョコタワー": "Choco Tower"
+  },
+  "1119": {
+    "clarity_nt_char_1119": "clarity_nt_char_1119"
+  },
+  "1120": {
+    "ホワイトタワー": "White Tower"
+  },
+  "1121": {
+    "コトブキーノ": "Kotobukino"
+  },
+  "1122": {
+    "clarity_nt_char_1122": "clarity_nt_char_1122"
+  },
+  "1123": {
+    "あおだけ童子": "Green bamboo shoot"
+  },
+  "1124": {
+    "clarity_nt_char_1124": "clarity_nt_char_1124"
+  },
+  "1125": {
+    "えんまのつかい": "Envoy of Yama"
+  },
+  "1126": {
+    "バサラーナ": "Basarana"
+  },
+  "1127": {
+    "あなうめ兄": "Older Brother"
+  },
+  "1128": {
+    "あなうめ弟": "Younger Brother"
+  },
+  "1129": {
+    "あなうめ妹": "Younger Sister"
+  },
+  "1130": {
+    "ふくまねき": "Fortune Weaver"
+  },
+  "1131": {
+    "グレイブホール": "Grave Hole"
+  },
+  "1132": {
+    "ふくのかみ": "Fortune Priest"
+  },
+  "1133": {
+    "パペットロープ": "Puppet Rope"
+  },
+  "1134": {
+    "ワイヤーマン": "Wire Man"
+  },
+  "1135": {
+    "clarity_nt_char_1135": "clarity_nt_char_1135"
+  },
+  "1136": {
+    "くみひもこぞう": "Knot Kid"
+  },
+  "1137": {
+    "党首マスター・ドー": "Spicy Party Leader Mustardo"
+  },
+  "1138": {
+    "タッピツ仙人": "Paintbrush Hermit"
+  },
+  "1139": {
+    "clarity_nt_char_1139": "clarity_nt_char_1139"
+  },
+  "1140": {
+    "たけやりへい": "Bambooligan"
+  },
+  "1141": {
+    "clarity_nt_char_1141": "clarity_nt_char_1141"
+  },
+  "1142": {
+    "とうろうへい": "Bamboolinquent"
+  },
+  "1143": {
+    "clarity_nt_char_1143": "clarity_nt_char_1143"
+  },
+  "1144": {
+    "エビルチクリン": "Bamboozler"
+  },
+  "1145": {
+    "からくりしょうぐん": "Bamboolict"
+  },
+  "1146": {
+    "からくりだいみょう": "Bamboogieman"
+  },
+  "1147": {
+    "ふゆぐんそう": "Winter Sergeant"
+  },
+  "1148": {
+    "clarity_nt_char_1148": "clarity_nt_char_1148"
+  },
+  "1149": {
+    "ポイズントリル・強": "Evil Poison Trill"
+  },
+  "1150": {
+    "ホイップゴースト": "Whipped Scream"
+  },
+  "1151": {
+    "clarity_nt_char_1151": "clarity_nt_char_1151"
+  },
+  "1152": {
+    "ポイズントリル": "Poison Trill"
+  },
+  "1153": {
+    "レッドプリン": "Red Pudding"
+  },
+  "1154": {
+    "clarity_nt_char_1154": "clarity_nt_char_1154"
+  },
+  "1155": {
+    "チョコホイップ": "Choco Whip"
+  },
+  "1156": {
+    "ホワイトホイップ": "White Whip"
+  },
+  "1157": {
+    "clarity_nt_char_1157": "clarity_nt_char_1157"
+  },
+  "1158": {
+    "バーバニマスク": "Babunny Mask"
+  },
+  "1159": {
+    "やるきのジャーミィ": "Jacked Jermi"
+  },
+  "1160": {
+    "やるきのバーティ": "Bulging Berti"
+  },
+  "1161": {
+    "clarity_nt_char_1161": "clarity_nt_char_1161"
+  },
+  "1162": {
+    "ジャム爆弾": "Jam Bomb"
+  },
+  "1163": {
+    "バター爆弾": "Butter Bomb"
+  },
+  "1164": {
+    "ぬすっとウサギ": "Robber Rabbit"
+  },
+  "1165": {
+    "あらくれチャッピー": "Wild Chappy"
+  },
+  "1166": {
+    "ダーティラビッツ": "Bad Hare"
+  },
+  "1167": {
+    "clarity_nt_char_1167": "clarity_nt_char_1167"
+  },
+  "1168": {
+    "ふくめんバニー": "Rottontail"
+  },
+  "1169": {
+    "いたずらジャーミィ": "Naughty Camii"
+  },
+  "1170": {
+    "いたずらバーティ": "Naughty Bertie"
+  },
+  "1171": {
+    "clarity_nt_char_1171": "clarity_nt_char_1171"
+  },
+  "1172": {
+    "ボーンレッド": "Bone Red"
+  },
+  "1173": {
+    "clarity_nt_char_1173": "clarity_nt_char_1173"
+  },
+  "1174": {
+    "ボーンバット": "Bone Bat"
+  },
+  "1175": {
+    "clarity_nt_char_1175": "clarity_nt_char_1175"
+  },
+  "1176": {
+    "チャームバット": "Charm Bat"
+  },
+  "1177": {
+    "コープスフライ": "Flying Corpse"
+  },
+  "1178": {
+    "ほねコウモリ": "Bat Skeleton"
+  },
+  "1179": {
+    "clarity_nt_char_1179": "clarity_nt_char_1179"
+  },
+  "1180": {
+    "ほねリーダー": "Bone Leader"
+  },
+  "1181": {
+    "clarity_nt_char_1181": "clarity_nt_char_1181"
+  },
+  "1182": {
+    "ボーンイエロー": "Bone Yellow"
+  },
+  "1183": {
+    "ボーンピンク": "Bone Pink"
+  },
+  "1184": {
+    "clarity_nt_char_1184": "clarity_nt_char_1184"
+  },
+  "1185": {
+    "ボーンブルー": "Bone Blue"
+  },
+  "1186": {
+    "clarity_nt_char_1186": "clarity_nt_char_1186"
+  },
+  "1187": {
+    "ボーンホワイト": "Bone White"
+  },
+  "1188": {
+    "デザートランナー": "Parched Peckerel"
+  },
+  "1189": {
+    "clarity_nt_char_1189": "clarity_nt_char_1189"
+  },
+  "1190": {
+    "アサシンエミュー": "Peckerel"
+  },
+  "1191": {
+    "clarity_nt_char_1191": "clarity_nt_char_1191"
+  },
+  "1192": {
+    "ランドンクイナ": "Apeckalypse"
+  },
+  "1193": {
+    "フォレスドン": "Forest Peckerel"
+  },
+  "1194": {
+    "clarity_nt_char_1194": "clarity_nt_char_1194"
+  },
+  "1195": {
+    "ぬすっとウサギ・強": "Evil Robber Rabbit"
+  },
+  "1196": {
+    "ボーンバット・強": "Evil Bone Bat"
+  },
+  "1197": {
+    "clarity_nt_char_1197": "clarity_nt_char_1197"
+  },
+  "1198": {
+    "楽将バトルシェイカ": "Music General Battle Sheika"
+  },
+  "1199": {
+    "守護者カムエル": "Guardian Kamuel"
+  },
+  "1200": {
+    "ヘルカッチャ": "Masqueraider"
+  },
+  "1201": {
+    "clarity_nt_char_1201": "clarity_nt_char_1201"
+  },
+  "1202": {
+    "ルバンカ": "Face Invader"
+  },
+  "1203": {
+    "clarity_nt_char_1203": "clarity_nt_char_1203"
+  },
+  "1204": {
+    "バロンナイト": "Visor Kaiser"
+  },
+  "1205": {
+    "clarity_nt_char_1205": "clarity_nt_char_1205"
+  },
+  "1206": {
+    "バトルシェイカー": "Maracaraider"
+  },
+  "1207": {
+    "clarity_nt_char_1207": "clarity_nt_char_1207"
+  },
+  "1208": {
+    "証人ラディスオー": "Witness Ladisau"
+  },
+  "1209": {
+    "clarity_nt_char_1209": "clarity_nt_char_1209"
+  },
+  "1210": {
+    "バトルシェイカー強": "Apex Maracaraider"
+  },
+  "1211": {
+    "マッドフィンガー": "Muddy Finger"
+  },
+  "1212": {
+    "clarity_nt_char_1212": "clarity_nt_char_1212"
+  },
+  "1213": {
+    "クリスタルハンド": "Crystal Hand"
+  },
+  "1214": {
+    "clarity_nt_char_1214": "clarity_nt_char_1214"
+  },
+  "1215": {
+    "ウィッチネイル": "Witch’s Nail"
+  },
+  "1216": {
+    "てまねきリング": "Beckonring"
+  },
+  "1217": {
+    "月守りの魔晶": "Moon Guard Crystal"
+  },
+  "1218": {
+    "clarity_nt_char_1218": "clarity_nt_char_1218"
+  },
+  "1219": {
+    "clarity_ms_space_1219": "clarity_ms_space_1219"
+  },
+  "1220": {
+    "メイデンドール": "Iron Maiden"
+  },
+  "1221": {
+    "グリーンシザー": "Green Scissors"
+  },
+  "1222": {
+    "ブラックマンティス": "Black Mantis"
+  },
+  "1223": {
+    "シーザーレインボー": "Rainbow Scissor"
+  },
+  "1224": {
+    "イエローシックル": "Armour Mantis"
+  },
+  "1225": {
+    "clarity_nt_char_1225": "clarity_nt_char_1225"
+  },
+  "1226": {
+    "ゼブラマンティス": "Zebra Mantis"
+  },
+  "1227": {
+    "clarity_nt_char_1227": "clarity_nt_char_1227"
+  },
+  "1228": {
+    "グリーンシザー・強": "Evil Green Scissors"
+  },
+  "1229": {
+    "ヘルコンダクター": "Hell Conductor"
+  },
+  "1230": {
+    "clarity_nt_char_1230": "clarity_nt_char_1230"
+  },
+  "1231": {
+    "デスマエストロ": "Death Maestro"
+  },
+  "1232": {
+    "アモデウス": "Amodeus"
+  },
+  "1233": {
+    "まかいしつじ": "Hell’s Steward"
+  },
+  "1234": {
+    "clarity_nt_char_1234": "clarity_nt_char_1234"
+  },
+  "1235": {
+    "メギドローム": "Megidrome"
+  },
+  "1236": {
+    "clarity_nt_char_1236": "clarity_nt_char_1236"
+  },
+  "1237": {
+    "魔天匠レスヘヴン": "Master Les Haven"
+  },
+  "1238": {
+    "clarity_nt_char_1238": "clarity_nt_char_1238"
+  },
+  "1239": {
+    "デュラハーン": "Dullahan"
+  },
+  "1240": {
+    "clarity_nt_char_1240": "clarity_nt_char_1240"
+  },
+  "1241": {
+    "スマイルリザード": "Raptile"
+  },
+  "1242": {
+    "clarity_nt_char_1242": "clarity_nt_char_1242"
+  },
+  "1243": {
+    "みずたまドラゴン": "Polka-dot Dragon"
+  },
+  "1244": {
+    "clarity_nt_char_1244": "clarity_nt_char_1244"
+  },
+  "1245": {
+    "ファンキードラゴ": "Hiptile"
+  },
+  "1246": {
+    "clarity_nt_char_1246": "clarity_nt_char_1246"
+  },
+  "1247": {
+    "サンダーフロッグ": "Tranquilander"
+  },
+  "1248": {
+    "clarity_nt_char_1248": "clarity_nt_char_1248"
+  },
+  "1249": {
+    "キャプテンドラゴ": "Captain Drago"
+  },
+  "1250": {
+    "clarity_nt_char_1250": "clarity_nt_char_1250"
+  },
+  "1251": {
+    "スカラベーダー": "Scaravader"
+  },
+  "1252": {
+    "かっちゅうアリ": "Armoured Ant"
+  },
+  "1253": {
+    "アイスボンバー": "Ice Bomber"
+  },
+  "1254": {
+    "スカラベキング": "Scarab King"
+  },
+  "1255": {
+    "げんじかぶと": "Genji Beetle"
+  },
+  "1256": {
+    "clarity_nt_char_1256": "clarity_nt_char_1256"
+  },
+  "1257": {
+    "しっぽ爆弾": "Tail Bomb"
+  },
+  "1258": {
+    "砂塵の幻馬": "Phantom Horse"
+  },
+  "1259": {
+    "れんごく天馬": "Tantamount"
+  },
+  "1260": {
+    "clarity_nt_char_1260": "clarity_nt_char_1260"
+  },
+  "1261": {
+    "レジェンドホース": "Godsteed"
+  },
+  "1262": {
+    "clarity_nt_char_1262": "clarity_nt_char_1262"
+  },
+  "1263": {
+    "聖獣ダイキリン": "Holy Beast Dai Kirin"
+  },
+  "1264": {
+    "黒竜丸": "Equinox"
+  },
+  "1265": {
+    "黒竜丸強": "A.Equinox"
+  },
+  "1266": {
+    "clarity_nt_char_1266": "clarity_nt_char_1266"
+  },
+  "1267": {
+    "白輝丸": "Wyteshine"
+  },
+  "1268": {
+    "ナウマンボーグ": "Naumannborg"
+  },
+  "1269": {
+    "キングエレファント": "Elephant King"
+  },
+  "1270": {
+    "ガネーシャエビル": "Evil Ganesh"
+  },
+  "1271": {
+    "clarity_nt_char_1271": "clarity_nt_char_1271"
+  },
+  "1272": {
+    "邪教祖サダク": "Evil Guru Sadak"
+  },
+  "1273": {
+    "clarity_nt_char_1273": "clarity_nt_char_1273"
+  },
+  "1274": {
+    "暴将黒竜丸": "Tyrant Equinox"
+  },
+  "1275": {
+    "大地の怒竜バウギア": "Angry Earth Dragon Baugia"
+  },
+  "1276": {
+    "竜将ドラゴンガイア": "General Gaia Dragon"
+  },
+  "1277": {
+    "ドラゴンガイア・双": "Double Gaia Dragon"
+  },
+  "1278": {
+    "キングリザード": "Liege Lizard"
+  },
+  "1279": {
+    "カイザードラゴン": "Royal Reptile"
+  },
+  "1280": {
+    "clarity_nt_char_1280": "clarity_nt_char_1280"
+  },
+  "1281": {
+    "大地の竜バウギア": "Earthwyrm"
+  },
+  "1282": {
+    "clarity_nt_char_1282": "clarity_nt_char_1282"
+  },
+  "1283": {
+    "ドラゴンガイア": "Gaia Dragon"
+  },
+  "1284": {
+    "キッズ": "Notakid"
+  },
+  "1285": {
+    "ヤングガイア": "Young Gaia"
+  },
+  "1286": {
+    "clarity_nt_char_1286": "clarity_nt_char_1286"
+  },
+  "1287": {
+    "プチドラゴンガイア": "Frail Gaia Dragon"
+  },
+  "1288": {
+    "ドラゴンガイア強": "Apex Gaia Dragon"
+  },
+  "1289": {
+    "clarity_nt_char_1289": "clarity_nt_char_1289"
+  },
+  "1290": {
+    "キマイラロード": "Alphyn"
+  },
+  "1291": {
+    "ブランドンビースト": "Brandon Beast"
+  },
+  "1292": {
+    "じごくのヌエ": "Hell Nue"
+  },
+  "1293": {
+    "clarity_nt_char_1293": "clarity_nt_char_1293"
+  },
+  "1294": {
+    "ハヌマーン": "Nemean"
+  },
+  "1295": {
+    "ハヌマーン強": "Apex Nemean"
+  },
+  "1296": {
+    "clarity_nt_char_1296": "clarity_nt_char_1296"
+  },
+  "1297": {
+    "アークキマイラ": "Ark Chimaera"
+  },
+  "1298": {
+    "モーモン": "T. Sanguini"
+  },
+  "1299": {
+    "clarity_nt_char_1299": "clarity_nt_char_1299"
+  },
+  "1300": {
+    "ピンクモーモン": "Pink Sanguini"
+  },
+  "1301": {
+    "マポレーナ": "Genie Sanguini"
+  },
+  "1302": {
+    "スノーモン": "Snowy Sanguini"
+  },
+  "1303": {
+    "クイーンモーモン": "Queenie Sanguini"
+  },
+  "1304": {
+    "clarity_nt_char_1304": "clarity_nt_char_1304"
+  },
+  "1305": {
+    "ビッグモーモン": "Biggy Sanguini"
+  },
+  "1306": {
+    "ジングルモーモン": "Jingly Sanguini"
+  },
+  "1307": {
+    "clarity_nt_char_1307": "clarity_nt_char_1307"
+  },
+  "1308": {
+    "やみよの荒獅子": "Hiten's Pride"
+  },
+  "1309": {
+    "カメレオンマン": "Pesky Jester"
+  },
+  "1310": {
+    "きりさきピエロ": "Prickly Prankster"
+  },
+  "1311": {
+    "キラージャック": "Jugular Joker"
+  },
+  "1312": {
+    "悪魔道化師ゲイザー": "Demon Clown Gazer"
+  },
+  "1313": {
+    "獄辛党員シニグリー": "Prison Party Member Singuri"
+  },
+  "1314": {
+    "コーラルディモス": "Coral Dimos"
+  },
+  "1315": {
+    "clarity_nt_char_1315": "clarity_nt_char_1315"
+  },
+  "1316": {
+    "鬼門のヌエ": "Demon Lion Nue"
+  },
+  "1317": {
+    "ツクモモン": "Black Sanguini"
+  },
+  "1318": {
+    "ヒッポカンバー": "Hippocamper"
+  },
+  "1319": {
+    "森羅蛮獣": "Savage Beast"
+  },
+  "1320": {
+    "clarity_nt_char_1320": "clarity_nt_char_1320"
+  },
+  "1321": {
+    "きりさきピエロ・強": "Evil Prickly Prankster"
+  },
+  "1322": {
+    "モーモン・強": "Evil T. Sanguini"
+  },
+  "1323": {
+    "clarity_nt_char_1323": "clarity_nt_char_1323"
+  },
+  "1324": {
+    "幻将ハヌマーン": "General Nemean"
+  },
+  "1325": {
+    "魔軍師イッド": "Tactician Iddo"
+  },
+  "1326": {
+    "clarity_nt_char_1326": "clarity_nt_char_1326"
+  },
+  "1327": {
+    "魔軍師イッド強": "Apex Tactician Iddo"
+  },
+  "1328": {
+    "幻魔将ファズマ": "Phantom Gen. Phasma"
+  },
+  "1329": {
+    "魔天導クローマ": "Sky Guide Chroma"
+  },
+  "1330": {
+    "魔瘴魂オジャロス": "Miasma Soul Ojalos"
+  },
+  "1331": {
+    "clarity_nt_char_1331": "clarity_nt_char_1331"
+  },
+  "1332": {
+    "若葉の精霊": "Leaf Spirit"
+  },
+  "1333": {
+    "暗黒大樹の番人": "Dark Tree Guardian"
+  },
+  "1334": {
+    "荒城の守護精": "Ruin Castle Guard"
+  },
+  "1335": {
+    "clarity_nt_char_1335": "clarity_nt_char_1335"
+  },
+  "1336": {
+    "密林の狩人": "Jungle Hunter"
+  },
+  "1337": {
+    "密林の守人": "Forest Guardian"
+  },
+  "1338": {
+    "妖剣士オーレン": "Oren Wraithblade"
+  },
+  "1339": {
+    "妖剣士オーレン強": "Apex Oren Wraithblade"
+  },
+  "1340": {
+    "clarity_nt_char_1340": "clarity_nt_char_1340"
+  },
+  "1341": {
+    "パリン": "Pauline"
+  },
+  "1342": {
+    "月夜の将": "Moonlit Gen."
+  },
+  "1343": {
+    "clarity_nt_char_1343": "clarity_nt_char_1343"
+  },
+  "1344": {
+    "封魔フォーゲル": "Demon Seal Vogel"
+  },
+  "1345": {
+    "蒼怨の武骸将デゾス": "Zombie General Dezos"
+  },
+  "1346": {
+    "蒼怨の邪骨将マッゼ": "Bone General's Ghost Mazze"
+  },
+  "1347": {
+    "陰果の罪業": "Sin of Yin/Yang"
+  },
+  "1348": {
+    "水竜ギルギッシュ": "Girguish"
+  },
+  "1349": {
+    "clarity_nt_char_1349": "clarity_nt_char_1349"
+  },
+  "1350": {
+    "水竜ギルギッシュ強": "Apex Girguish"
+  },
+  "1351": {
+    "青天竜バルケロス": "Azure Dragon Barkelos"
+  },
+  "1352": {
+    "clarity_nt_char_1352": "clarity_nt_char_1352"
+  },
+  "1353": {
+    "りゅうぐう王": "Nessicure"
+  },
+  "1354": {
+    "clarity_nt_char_1354": "clarity_nt_char_1354"
+  },
+  "1355": {
+    "水神ギルギッシュ": "Water God Gilgish"
+  },
+  "1356": {
+    "clarity_nt_char_1356": "clarity_nt_char_1356"
+  },
+  "1357": {
+    "狂鬼ジーガンフ": "Mad Demon Jiganf"
+  },
+  "1358": {
+    "氷殿の守護兵": "Ice Palace Guard"
+  },
+  "1359": {
+    "clarity_nt_char_1359": "clarity_nt_char_1359"
+  },
+  "1360": {
+    "邪神バルサミコス": "Evil God Balsamicos"
+  },
+  "1361": {
+    "clarity_nt_char_1361": "clarity_nt_char_1361"
+  },
+  "1362": {
+    "キング": "King"
+  },
+  "1363": {
+    "ナイト": "Knight"
+  },
+  "1364": {
+    "ポーン": "Pawn"
+  },
+  "1365": {
+    "狂鬼ドランド公": "Mad Prince Durand"
+  },
+  "1366": {
+    "妖魔ジュリアンテ": "Mystical Juliante"
+  },
+  "1367": {
+    "clarity_nt_char_1367": "clarity_nt_char_1367"
+  },
+  "1368": {
+    "舞踏魔プレシアンナ": "Dancing Demon Preciana"
+  },
+  "1369": {
+    "妖魔ジュリアンテ強": "Apex Mystical Juliante"
+  },
+  "1370": {
+    "魔女ハバネロ": "Witch Habanero"
+  },
+  "1371": {
+    "clarity_nt_char_1371": "clarity_nt_char_1371"
+  },
+  "1372": {
+    "テンオツ鬼神": "Fierce God Tenotsu"
+  },
+  "1373": {
+    "clarity_nt_char_1373": "clarity_nt_char_1373"
+  },
+  "1374": {
+    "ジャイラジャイラ": "Gyra Gyra"
+  },
+  "1375": {
+    "clarity_nt_char_1375": "clarity_nt_char_1375"
+  },
+  "1376": {
+    "呪術師マリーン": "Monstrous Marlene"
+  },
+  "1377": {
+    "呪術師マリーン強": "Apex Monstrous Marlene"
+  },
+  "1378": {
+    "clarity_nt_char_1378": "clarity_nt_char_1378"
+  },
+  "1379": {
+    "豪魔将ベリンダ": "Demon Lord Brinda"
+  },
+  "1380": {
+    "豪魔将ブレンダ": "Demon Lord Brenda"
+  },
+  "1381": {
+    "悪魔ザイガス": "Duke Sigras"
+  },
+  "1382": {
+    "clarity_nt_char_1382": "clarity_nt_char_1382"
+  },
+  "1383": {
+    "魔人ゼクセン": "Demon Zexen"
+  },
+  "1384": {
+    "clarity_nt_char_1384": "clarity_nt_char_1384"
+  },
+  "1385": {
+    "悪魔ザイガス強": "Apex Duke Sigras"
+  },
+  "1386": {
+    "悪魔長ジウギス": "Devil Chief Jiggis"
+  },
+  "1387": {
+    "くらやみ飛天": "Archdevil Hiten"
+  },
+  "1388": {
+    "clarity_nt_char_1388": "clarity_nt_char_1388"
+  },
+  "1389": {
+    "やみわらし": "Viper Spittle"
+  },
+  "1390": {
+    "尖塔の守護鬼": "Spire Guardian"
+  },
+  "1391": {
+    "clarity_nt_char_1391": "clarity_nt_char_1391"
+  },
+  "1392": {
+    "せんりつザクロ": "Pomegranate Horror"
+  },
+  "1393": {
+    "こつぶザクロ": "Pomegranate"
+  },
+  "1394": {
+    "clarity_nt_char_1394": "clarity_nt_char_1394"
+  },
+  "1395": {
+    "ゼクレス精鋭兵": "Zechres Elite Soldier"
+  },
+  "1396": {
+    "ゼクレス魔導兵": "Zechres Mage"
+  },
+  "1397": {
+    "魔兵ヒプノス": "Hypnos"
+  },
+  "1398": {
+    "clarity_nt_char_1398": "clarity_nt_char_1398"
+  },
+  "1399": {
+    "魔兵タナト": "Thanatos"
+  },
+  "1400": {
+    "魔兵ヒプノス強": "Apex Hypnos"
+  },
+  "1401": {
+    "魔兵タナト強": "Apex Thanatos"
+  },
+  "1402": {
+    "clarity_nt_char_1402": "clarity_nt_char_1402"
+  },
+  "1403": {
+    "魔王ヴァレリア": "Demon King Valeria"
+  },
+  "1404": {
+    "魔瘴魂グウィネーロ": "Demon Soul Gwinero"
+  },
+  "1405": {
+    "ドラゴン": "Green Dragon"
+  },
+  "1406": {
+    "clarity_nt_char_1406": "clarity_nt_char_1406"
+  },
+  "1407": {
+    "未完の魔導鬼": "Unfinished Demon"
+  },
+  "1408": {
+    "clarity_nt_char_1408": "clarity_nt_char_1408"
+  },
+  "1409": {
+    "未完の破戒王": "Unfinish. Sin King"
+  },
+  "1410": {
+    "clarity_nt_char_1410": "clarity_nt_char_1410"
+  },
+  "1411": {
+    "黒き花婿": "Black Groom"
+  },
+  "1412": {
+    "clarity_nt_char_1412": "clarity_nt_char_1412"
+  },
+  "1413": {
+    "深海の守護者": "Deep Sea Guardian"
+  },
+  "1414": {
+    "clarity_nt_char_1414": "clarity_nt_char_1414"
+  },
+  "1415": {
+    "リルグレイド": "Lil' Grade"
+  },
+  "1416": {
+    "clarity_nt_char_1416": "clarity_nt_char_1416"
+  },
+  "1417": {
+    "白き異邦者": "White Gentile"
+  },
+  "1418": {
+    "深碧の魔壊将ブラゴ": "Brago, Wrecker of Deep Blue"
+  },
+  "1419": {
+    "リルクリムゾン": "Lil' Crimson"
+  },
+  "1420": {
+    "闇朱の破砕将ボーガ": "Dark Red Crush Gen. Boga"
+  },
+  "1421": {
+    "デモンズゲイト": "Demon's Gate"
+  },
+  "1422": {
+    "キャット・リベリオ": "Cat - Riberio"
+  },
+  "1423": {
+    "キャットリベリオ強": "Apex Cat Riberio"
+  },
+  "1424": {
+    "キャット・マンマー": "Cat Momma"
+  },
+  "1425": {
+    "デビルニャン": "Devil Cat"
+  },
+  "1426": {
+    "clarity_nt_char_1426": "clarity_nt_char_1426"
+  },
+  "1427": {
+    "ギュメイ将軍": "Goresby-Purrvis"
+  },
+  "1428": {
+    "clarity_nt_char_1428": "clarity_nt_char_1428"
+  },
+  "1429": {
+    "詩歌の守り手": "Elegiac Crablet"
+  },
+  "1430": {
+    "clarity_nt_char_1430": "clarity_nt_char_1430"
+  },
+  "1431": {
+    "濁流の邪殻": "Evil Mud Shell"
+  },
+  "1432": {
+    "セキバーン": "Crablet"
+  },
+  "1433": {
+    "死霊王ギスマイヤー": "Spirit King Gismeyer"
+  },
+  "1434": {
+    "死霊兵ガテリアン": "Spirit Soldier Gaterian"
+  },
+  "1435": {
+    "clarity_nt_char_1435": "clarity_nt_char_1435"
+  },
+  "1436": {
+    "ゲルニック将軍": "Hootingham-Gore"
+  },
+  "1437": {
+    "暴君バサグランデ": "Tyrant Bogan"
+  },
+  "1438": {
+    "clarity_nt_char_1438": "clarity_nt_char_1438"
+  },
+  "1439": {
+    "レオン・ビュブロ": "Leon Bublo"
+  },
+  "1440": {
+    "clarity_nt_char_1440": "clarity_nt_char_1440"
+  },
+  "1441": {
+    "暴君バサグランデ強": "Apex Tyrant Bogan"
+  },
+  "1442": {
+    "漆黒魔獣ナイダーク": "Black Magic Beast Nydark"
+  },
+  "1443": {
+    "紅獣バズレッド": "Red Beast Bazled"
+  },
+  "1444": {
+    "デイジーちゃん": "Daisy-chan"
+  },
+  "1445": {
+    "湖の魔獣ボルゲルグ": "Lake Beast Volgerg"
+  },
+  "1446": {
+    "闇蜘蛛マルギト": "Dark Spider Margaret"
+  },
+  "1447": {
+    "怪蟲アラグネ": "Araniad"
+  },
+  "1448": {
+    "clarity_nt_char_1448": "clarity_nt_char_1448"
+  },
+  "1449": {
+    "怪蟲アラグネ強": "Apex Araniad"
+  },
+  "1450": {
+    "妖魔将ゲジュラ": "Demon General Gejura"
+  },
+  "1451": {
+    "銀甲の崩撃将ダバム": "Silver Armor General, Dabam"
+  },
+  "1452": {
+    "ゴレオン将軍": "Goreham-Hogg"
+  },
+  "1453": {
+    "clarity_nt_char_1453": "clarity_nt_char_1453"
+  },
+  "1454": {
+    "ましょううお": "Salamangler"
+  },
+  "1455": {
+    "clarity_nt_char_1455": "clarity_nt_char_1455"
+  },
+  "1456": {
+    "プチバラモスゾンビ": "Bones of Baramos"
+  },
+  "1457": {
+    "プチバラモスブロス": "Frail Baramos Bros."
+  },
+  "1458": {
+    "プチデュラン": "Frail Dhuran"
+  },
+  "1459": {
+    "clarity_nt_char_1459": "clarity_nt_char_1459"
+  },
+  "1460": {
+    "プチアクバー": "Frail Blackmar"
+  },
+  "1461": {
+    "clarity_nt_char_1461": "clarity_nt_char_1461"
+  },
+  "1462": {
+    "プチジャミラス": "Frail Jamirus"
+  },
+  "1463": {
+    "ダメージゾーン": "Damage Zone"
+  },
+  "1464": {
+    "大怨霊マアモン": "Grudge Sludge"
+  },
+  "1465": {
+    "けがれの渦": "Epidemex"
+  },
+  "1466": {
+    "どくどくバルーン": "Toxic Loon"
+  },
+  "1467": {
+    "clarity_nt_char_1467": "clarity_nt_char_1467"
+  },
+  "1468": {
+    "三闘の守護霊": "3 Fighter's Spirit"
+  },
+  "1469": {
+    "clarity_nt_char_1469": "clarity_nt_char_1469"
+  },
+  "1470": {
+    "チョコマアモン": "Choco Sludge"
+  },
+  "1471": {
+    "ホワイトマアモン": "White Sludge"
+  },
+  "1472": {
+    "clarity_nt_char_1472": "clarity_nt_char_1472"
+  },
+  "1473": {
+    "ゲノディオ": "Genodio"
+  },
+  "1474": {
+    "翠煙の波皇将ネブド": "Divine Wave General, Nebudo"
+  },
+  "1475": {
+    "ウルベア魔神兵": "Urbea Aztech"
+  },
+  "1476": {
+    "ウルベア魔神兵強": "Apex Urbea Aztech"
+  },
+  "1477": {
+    "clarity_nt_char_1477": "clarity_nt_char_1477"
+  },
+  "1478": {
+    "古代ウルベア魔神兵": "Ancient Urbea Aztech"
+  },
+  "1479": {
+    "魔神兵ゼェード": "Demon Soldier Jade"
+  },
+  "1480": {
+    "管理端末Ｑ４８４": "Management Terminal Q484"
+  },
+  "1481": {
+    "clarity_nt_char_1481": "clarity_nt_char_1481"
+  },
+  "1482": {
+    "労魔デスワーク": "Labor Demon Deathwork"
+  },
+  "1483": {
+    "キラーホイール": "Killer Wheels"
+  },
+  "1484": {
+    "天魔クァバルナ": "Kukulkannibal"
+  },
+  "1485": {
+    "右の翼": "Rgt. Wing"
+  },
+  "1486": {
+    "左の翼": "Left Wing"
+  },
+  "1487": {
+    "旅芸人ピュージュ": "Travel Entertainer Pyuju"
+  },
+  "1488": {
+    "clarity_nt_char_1488": "clarity_nt_char_1488"
+  },
+  "1489": {
+    "レイジバルス": "Rigibalus"
+  },
+  "1490": {
+    "clarity_nt_char_1490": "clarity_nt_char_1490"
+  },
+  "1491": {
+    "魔導鬼ベドラー": "Sorcerer Bedora"
+  },
+  "1492": {
+    "魔導鬼ベゼブー": "Sorcery Demon Bezebu"
+  },
+  "1493": {
+    "輪王ザルトラ": "Ring King Zaltra"
+  },
+  "1494": {
+    "clarity_nt_char_1494": "clarity_nt_char_1494"
+  },
+  "1495": {
+    "黄金獣アルムゴーグ": "Golden Beast Armogog"
+  },
+  "1496": {
+    "白銀獣ロムドゴーグ": "Silver Beast Romdogog"
+  },
+  "1497": {
+    "黒衣の剣士パドレ": "Swordsman in Black Padre"
+  },
+  "1498": {
+    "clarity_nt_char_1498": "clarity_nt_char_1498"
+  },
+  "1499": {
+    "闇の根源の幻影": "Dark Source Phantom"
+  },
+  "1500": {
+    "冥府の君主": "Underworld King"
+  },
+  "1501": {
+    "ラーヴァドラゴン": "Lava Hydra"
+  },
+  "1502": {
+    "clarity_nt_char_1502": "clarity_nt_char_1502"
+  },
+  "1503": {
+    "震撼の冥宰相": "Underw. Chancellor"
+  },
+  "1504": {
+    "clarity_nt_char_1504": "clarity_nt_char_1504"
+  },
+  "1505": {
+    "守護者ラズバーン": "Guardian Razuban"
+  },
+  "1506": {
+    "clarity_nt_char_1506": "clarity_nt_char_1506"
+  },
+  "1507": {
+    "守護者ラズバーン強": "Apex Guardian Razuban"
+  },
+  "1508": {
+    "カプサイ神": "Capsai God"
+  },
+  "1509": {
+    "カプサイ神・激辛": "Super Hot Capsai God"
+  },
+  "1510": {
+    "clarity_nt_char_1510": "clarity_nt_char_1510"
+  },
+  "1511": {
+    "恐怖の化身": "Dread Incarnate"
+  },
+  "1512": {
+    "冥王ネルゲル強": "Apex Lord Nelgel"
+  },
+  "1513": {
+    "冥王ネルゲル": "Dark Lord Nelgel"
+  },
+  "1514": {
+    "clarity_nt_char_1514": "clarity_nt_char_1514"
+  },
+  "1515": {
+    "冥獣王ネルゲル": "Beast King Nelgel"
+  },
+  "1516": {
+    "右ウデ": "Rgt. Hand"
+  },
+  "1517": {
+    "左ウデ": "Left Hand"
+  },
+  "1518": {
+    "異形獣": "Odd Beast"
+  },
+  "1519": {
+    "強化異形獣・狂": "Apex Mad Odd Beast"
+  },
+  "1520": {
+    "ヘルゲゴーグ・烈": "Fierce Helgegog"
+  },
+  "1521": {
+    "clarity_nt_char_1521": "clarity_nt_char_1521"
+  },
+  "1522": {
+    "魔獣ネロスゴーグ": "Demon Beast Nerosugog"
+  },
+  "1523": {
+    "clarity_nt_char_1523": "clarity_nt_char_1523"
+  },
+  "1524": {
+    "無限獣ネロスゴーグ": "Eternal Beast Nerosugog"
+  },
+  "1525": {
+    "冥獣王ネルゲル強": "Apex Beast King Nelgel"
+  },
+  "1526": {
+    "clarity_nt_char_1526": "clarity_nt_char_1526"
+  },
+  "1527": {
+    "不死の魔王ネロドス": "Immortal Demon King Nerodos"
+  },
+  "1528": {
+    "不死なる精魂": "Immortal Spirit"
+  },
+  "1529": {
+    "clarity_nt_char_1529": "clarity_nt_char_1529"
+  },
+  "1530": {
+    "海賊トニー＆ベニー": "Pirate Tony & Benny"
+  },
+  "1531": {
+    "海賊スクアーロ": "Pirate Squalo"
+  },
+  "1532": {
+    "剣士ヒューザ": "Swordsman Huzer"
+  },
+  "1533": {
+    "clarity_nt_char_1533": "clarity_nt_char_1533"
+  },
+  "1534": {
+    "占術師マルグリット": "Fortune Teller Margaret"
+  },
+  "1535": {
+    "原獣プレゴーグ": "Wild Beast Pregog"
+  },
+  "1536": {
+    "怪獣プスゴン": "Monster Pusgon"
+  },
+  "1537": {
+    "clarity_nt_char_1537": "clarity_nt_char_1537"
+  },
+  "1538": {
+    "ダークポイックリン": "Dark Poiclin"
+  },
+  "1539": {
+    "怒りのプスゴン": "Angry Pusgon"
+  },
+  "1540": {
+    "首領プライド": "Chief Pride"
+  },
+  "1541": {
+    "clarity_nt_char_1541": "clarity_nt_char_1541"
+  },
+  "1542": {
+    "覚醒プスゴン": "Pusgon Awakened"
+  },
+  "1543": {
+    "clarity_nt_char_1543": "clarity_nt_char_1543"
+  },
+  "1544": {
+    "イチゴ爆弾": "Strawberry Bomb"
+  },
+  "1545": {
+    "マイラー三銃士": "The Three Simpateers"
+  },
+  "1546": {
+    "狂戦士レギオン": "Berserker Ogre"
+  },
+  "1547": {
+    "ユナティ": "Unaty"
+  },
+  "1548": {
+    "clarity_nt_char_1548": "clarity_nt_char_1548"
+  },
+  "1549": {
+    "ラスターシャ": "Rastasha"
+  },
+  "1550": {
+    "clarity_nt_char_1550": "clarity_nt_char_1550"
+  },
+  "1551": {
+    "おとし玉": "Gift"
+  },
+  "1552": {
+    "clarity_nt_char_1552": "clarity_nt_char_1552"
+  },
+  "1553": {
+    "闇の狂戦士": "Dark Berserker"
+  },
+  "1554": {
+    "ヤーン": "Yarn"
+  },
+  "1555": {
+    "武闘家ヤーン分身Ｃ": "Martial Artist Yarn Copy C"
+  },
+  "1556": {
+    "超天道士ヤーン": "Heavenly Warrior Yarn"
+  },
+  "1557": {
+    "武闘家ヤーン": "Martial Art. Yarn"
+  },
+  "1558": {
+    "clarity_nt_char_1558": "clarity_nt_char_1558"
+  },
+  "1559": {
+    "武闘家ヤーン分身Ａ": "Martial Artist Yarn Copy A"
+  },
+  "1560": {
+    "武闘家ヤーン分身Ｂ": "Martial Artist Yarn Copy B"
+  },
+  "1561": {
+    "バルケス": "Valucas"
+  },
+  "1562": {
+    "clarity_nt_char_1562": "clarity_nt_char_1562"
+  },
+  "1563": {
+    "魔物商人チャーマン": "Demon Merchant Charman"
+  },
+  "1564": {
+    "魔物商人トレダ": "Demon Merchant Tred"
+  },
+  "1565": {
+    "魔物商人デイラー": "Demon Merchant Dailer"
+  },
+  "1566": {
+    "clarity_nt_char_1566": "clarity_nt_char_1566"
+  },
+  "1567": {
+    "ブリギッテ": "Brigette"
+  },
+  "1568": {
+    "ビョルン": "Bjorn"
+  },
+  "1569": {
+    "clarity_nt_char_1569": "clarity_nt_char_1569"
+  },
+  "1570": {
+    "ヨシキリ": "Yoshikiri"
+  },
+  "1571": {
+    "clarity_nt_char_1571": "clarity_nt_char_1571"
+  },
+  "1572": {
+    "ポポル": "Popol"
+  },
+  "1573": {
+    "闘士セインズ": "Fighter Sainz"
+  },
+  "1574": {
+    "clarity_nt_char_1574": "clarity_nt_char_1574"
+  },
+  "1575": {
+    "リーネ": "Renee"
+  },
+  "1576": {
+    "覚醒リーネ": "Awakened Renee"
+  },
+  "1577": {
+    "復讐鬼ガガイ": "Revenge Ogre Gagai"
+  },
+  "1578": {
+    "clarity_nt_char_1578": "clarity_nt_char_1578"
+  },
+  "1579": {
+    "盗賊ラゴス": "Thief Lagos"
+  },
+  "1580": {
+    "魔道士キルギル": "Magician Kyrgyl"
+  },
+  "1581": {
+    "謎のセレブ": "Odd Celebrity"
+  },
+  "1582": {
+    "天魔クァバルナ強": "Apex Kukulkannibal"
+  },
+  "1583": {
+    "clarity_nt_char_1583": "clarity_nt_char_1583"
+  },
+  "1584": {
+    "右の翼強": "Apex R. Wing"
+  },
+  "1585": {
+    "clarity_nt_char_1585": "clarity_nt_char_1585"
+  },
+  "1586": {
+    "左の翼強": "Apex L. Wing"
+  },
+  "1587": {
+    "clarity_nt_char_1587": "clarity_nt_char_1587"
+  },
+  "1588": {
+    "踊り神ボニータ": "Dance God Bonita"
+  },
+  "1589": {
+    "バラモス": "Baramos"
+  },
+  "1590": {
+    "clarity_nt_char_1590": "clarity_nt_char_1590"
+  },
+  "1591": {
+    "バラモス強": "Apex Baramos"
+  },
+  "1592": {
+    "クリスモスブロス": "Christmas Bros."
+  },
+  "1593": {
+    "clarity_nt_char_1593": "clarity_nt_char_1593"
+  },
+  "1594": {
+    "バラモスブロス": "Baramos Bros."
+  },
+  "1595": {
+    "災厄の王": "Kng Calamity"
+  },
+  "1596": {
+    "clarity_nt_char_1596": "clarity_nt_char_1596"
+  },
+  "1597": {
+    "狂信者ヤイル": "Zealot Jair"
+  },
+  "1598": {
+    "clarity_nt_char_1598": "clarity_nt_char_1598"
+  },
+  "1599": {
+    "大魔王ゾーマ": "Great King Zoma"
+  },
+  "1600": {
+    "clarity_nt_char_1600": "clarity_nt_char_1600"
+  },
+  "1601": {
+    "パルミオ２世": "Palmio II"
+  },
+  "1602": {
+    "clarity_nt_char_1602": "clarity_nt_char_1602"
+  },
+  "1603": {
+    "バラモスブロス強": "Apex Baramos Bros."
+  },
+  "1604": {
+    "clarity_nt_char_1604": "clarity_nt_char_1604"
+  },
+  "1605": {
+    "プチバラモス": "Frail Baramos"
+  },
+  "1606": {
+    "clarity_nt_char_1606": "clarity_nt_char_1606"
+  },
+  "1607": {
+    "バラモスブロス闘": "Baramos Bros. Fight"
+  },
+  "1608": {
+    "clarity_nt_char_1608": "clarity_nt_char_1608"
+  },
+  "1609": {
+    "魔王ユシュカ": "Demon King Yushka"
+  },
+  "1610": {
+    "clarity_nt_char_1610": "clarity_nt_char_1610"
+  },
+  "1611": {
+    "真・災厄の王": "True King Calamity"
+  },
+  "1612": {
+    "clarity_nt_char_1612": "clarity_nt_char_1612"
+  },
+  "1613": {
+    "滅びの幻影": "Phantom of Ruin"
+  },
+  "1614": {
+    "災いの神話": "Myth of Woe"
+  },
+  "1615": {
+    "デュラン": "Dhuran"
+  },
+  "1616": {
+    "clarity_nt_char_1616": "clarity_nt_char_1616"
+  },
+  "1617": {
+    "竜王": "DgnLrd"
+  },
+  "1618": {
+    "clarity_nt_char_1618": "clarity_nt_char_1618"
+  },
+  "1619": {
+    "Ｖロン": "Vron"
+  },
+  "1620": {
+    "Ｖロン強": "Apex Vron"
+  },
+  "1621": {
+    "clarity_nt_char_1621": "clarity_nt_char_1621"
+  },
+  "1622": {
+    "サイキョーＶロン": "Psycho Vron"
+  },
+  "1623": {
+    "clarity_nt_char_1623": "clarity_nt_char_1623"
+  },
+  "1624": {
+    "キューキョクＶロン": "Kyukyoku Vron"
+  },
+  "1625": {
+    "災禍の陣": "Chaos Circle"
+  },
+  "1626": {
+    "clarity_nt_char_1626": "clarity_nt_char_1626"
+  },
+  "1627": {
+    "アンルシア": "Anlucia"
+  },
+  "1628": {
+    "マンドラゴラ": "Mandragora"
+  },
+  "1629": {
+    "clarity_nt_char_1629": "clarity_nt_char_1629"
+  },
+  "1630": {
+    "マンドラゴラ黒": "Black Mandragora"
+  },
+  "1631": {
+    "サボテンダー": "Cactuar"
+  },
+  "1632": {
+    "clarity_nt_char_1632": "clarity_nt_char_1632"
+  },
+  "1633": {
+    "サボテンダー強": "Apex Cactuar"
+  },
+  "1634": {
+    "クモノ": "Web Trap"
+  },
+  "1635": {
+    "ジバリア": "Rubblerouser"
+  },
+  "1636": {
+    "clarity_nt_char_1636": "clarity_nt_char_1636"
+  },
+  "1637": {
+    "ジバリカ": "Boulderbring"
+  },
+  "1638": {
+    "clarity_nt_char_1638": "clarity_nt_char_1638"
+  },
+  "1639": {
+    "ジバリーナ": "Mountainmover"
+  },
+  "1640": {
+    "ジバルンバ": "Ridgeraiser"
+  },
+  "1641": {
+    "落とし穴": "Pitfall"
+  },
+  "1642": {
+    "clarity_nt_char_1642": "clarity_nt_char_1642"
+  },
+  "1643": {
+    "超暴走魔法陣": "Super Ring of Ruin"
+  },
+  "1644": {
+    "clarity_nt_char_1644": "clarity_nt_char_1644"
+  },
+  "1645": {
+    "磁界シールド": "Magnetic Shield"
+  },
+  "1646": {
+    "clarity_nt_char_1646": "clarity_nt_char_1646"
+  },
+  "1647": {
+    "メディカルデバイス": "Medical Device"
+  },
+  "1648": {
+    "強化ガジェット零式": "Gadget Type-0"
+  },
+  "1649": {
+    "ギガボンバー": "Giga Bomber"
+  },
+  "1650": {
+    "clarity_nt_char_1650": "clarity_nt_char_1650"
+  },
+  "1651": {
+    "メガボンバー": "Mega Bomb"
+  },
+  "1652": {
+    "clarity_nt_char_1652": "clarity_nt_char_1652"
+  },
+  "1653": {
+    "バナナ": "Banana"
+  },
+  "1654": {
+    "ボディーガード": "Bodyguard"
+  },
+  "1655": {
+    "暴走魔法陣": "Ring of Ruin"
+  },
+  "1656": {
+    "？？？？": "????"
+  },
+  "1657": {
+    "clarity_nt_char_1657": "clarity_nt_char_1657"
+  },
+  "1658": {
+    "青空箱": "Blue Box"
+  },
+  "1659": {
+    "きりかぶこぞう": "Stumpkin"
+  },
+  "1660": {
+    "ヘルボックル": "Tree Feller"
+  },
+  "1661": {
+    "clarity_nt_char_1661": "clarity_nt_char_1661"
+  },
+  "1662": {
+    "ヒイラギどうじ": "Holly Oliver"
+  },
+  "1663": {
+    "ダークシルフ": "Dark Sylph"
+  },
+  "1664": {
+    "clarity_nt_char_1664": "clarity_nt_char_1664"
+  },
+  "1665": {
+    "パンプキッズ": "Pumpkin Kid"
+  },
+  "1666": {
+    "clarity_nt_char_1666": "clarity_nt_char_1666"
+  },
+  "1667": {
+    "樹縛の悪鬼": "Treebound Demon"
+  },
+  "1668": {
+    "ローズプリンセス": "Rose Princess"
+  },
+  "1669": {
+    "clarity_nt_char_1669": "clarity_nt_char_1669"
+  },
+  "1670": {
+    "あやしいかげ・強": "Evil Shade"
+  },
+  "1671": {
+    "clarity_nt_char_1671": "clarity_nt_char_1671"
+  },
+  "1672": {
+    "あやしいかげ": "Shade"
+  },
+  "1673": {
+    "clarity_nt_char_1673": "clarity_nt_char_1673"
+  },
+  "1674": {
+    "シャドー": "Shadow"
+  },
+  "1675": {
+    "clarity_nt_char_1675": "clarity_nt_char_1675"
+  },
+  "1676": {
+    "ホロゴースト": "Silhouette"
+  },
+  "1677": {
+    "clarity_nt_char_1677": "clarity_nt_char_1677"
+  },
+  "1678": {
+    "まおうのかげ": "Umbra"
+  },
+  "1679": {
+    "clarity_nt_char_1679": "clarity_nt_char_1679"
+  },
+  "1680": {
+    "死者の巨影": "Big Dead Shadow"
+  },
+  "1681": {
+    "死者の影": "Dead Shadow"
+  },
+  "1682": {
+    "clarity_nt_char_1682": "clarity_nt_char_1682"
+  },
+  "1683": {
+    "眠りの魔陣": "Sleeping Demon"
+  },
+  "1684": {
+    "どろにんぎょう": "Mud Mannequin"
+  },
+  "1685": {
+    "パペットマン": "Magic Marionette"
+  },
+  "1686": {
+    "clarity_nt_char_1686": "clarity_nt_char_1686"
+  },
+  "1687": {
+    "マッドレインボー": "Rainbow Mannequin"
+  },
+  "1688": {
+    "clarity_nt_char_1688": "clarity_nt_char_1688"
+  },
+  "1689": {
+    "火精の魔陣": "Fire Spirit"
+  },
+  "1690": {
+    "風来の魔陣": "Wind Spirit"
+  },
+  "1691": {
+    "弱体の魔陣": "Weak Demon"
+  },
+  "1692": {
+    "緑風の宝石": "Green Wind Gem"
+  },
+  "1693": {
+    "黒鉄の宝石": "Black Iron Gem"
+  },
+  "1694": {
+    "紅炎の宝石": "Red Flame Gem"
+  },
+  "1695": {
+    "モヒカント": "Mohawker"
+  },
+  "1696": {
+    "ブルファング": "Blue Fang"
+  },
+  "1697": {
+    "clarity_nt_char_1697": "clarity_nt_char_1697"
+  },
+  "1698": {
+    "フンガー": "Red Fang"
+  },
+  "1699": {
+    "clarity_nt_char_1699": "clarity_nt_char_1699"
+  },
+  "1700": {
+    "悪魔キェルグ": "Devil Kyerug"
+  },
+  "1701": {
+    "clarity_nt_char_1701": "clarity_nt_char_1701"
+  },
+  "1702": {
+    "密林の暴獣ザベス": "Jungle Beast Zabeth"
+  },
+  "1703": {
+    "clarity_nt_char_1703": "clarity_nt_char_1703"
+  },
+  "1704": {
+    "闇指揮者デリゲン": "Dark Conductor Derigen"
+  },
+  "1705": {
+    "clarity_nt_char_1705": "clarity_nt_char_1705"
+  },
+  "1706": {
+    "プークプック": "Satyr"
+  },
+  "1707": {
+    "clarity_nt_char_1707": "clarity_nt_char_1707"
+  },
+  "1708": {
+    "コサックシープ": "Pan Piper"
+  },
+  "1709": {
+    "笛吹き羊男": "Silenus"
+  },
+  "1710": {
+    "デスケルト": "Celtic Faun"
+  },
+  "1711": {
+    "ムッチーノ": "Muccino"
+  },
+  "1712": {
+    "アンゴラモーア": "Angola Faun"
+  },
+  "1713": {
+    "クレイジー・プック": "Crazy Pook"
+  },
+  "1714": {
+    "くものきょじん": "Cloud Surfer"
+  },
+  "1715": {
+    "ランプのまじん": "Low Djinks"
+  },
+  "1716": {
+    "まじんブドゥ": "Djinn Genie"
+  },
+  "1717": {
+    "clarity_nt_char_1717": "clarity_nt_char_1717"
+  },
+  "1718": {
+    "魔人エンラージャ": "Demon Enraja"
+  },
+  "1719": {
+    "clarity_nt_char_1719": "clarity_nt_char_1719"
+  },
+  "1720": {
+    "魔人エンラージャ強": "Apex Demon Enraja"
+  },
+  "1721": {
+    "チカラの魔人": "Demon of Power"
+  },
+  "1722": {
+    "clarity_nt_char_1722": "clarity_nt_char_1722"
+  },
+  "1723": {
+    "欲望の魔人": "Fiend of Desire"
+  },
+  "1724": {
+    "愛の魔人": "Love Demon"
+  },
+  "1725": {
+    "clarity_nt_char_1725": "clarity_nt_char_1725"
+  },
+  "1726": {
+    "陰果の罪業・核": "Sin of Yin/Yang Core"
+  },
+  "1727": {
+    "キラーパンサー": "Great Sabrecat"
+  },
+  "1728": {
+    "ピンキーパンサー": "Pink Sabrecat"
+  },
+  "1729": {
+    "clarity_nt_char_1729": "clarity_nt_char_1729"
+  },
+  "1730": {
+    "パペットマン・強": "Evil Magic Marionette"
+  },
+  "1731": {
+    "clarity_nt_char_1731": "clarity_nt_char_1731"
+  },
+  "1732": {
+    "バーサーカー": "Berserker"
+  },
+  "1733": {
+    "clarity_nt_char_1733": "clarity_nt_char_1733"
+  },
+  "1734": {
+    "くびかりぞく": "Head Hunter"
+  },
+  "1735": {
+    "clarity_nt_char_1735": "clarity_nt_char_1735"
+  },
+  "1736": {
+    "とうぞくこぞう": "Pilferer"
+  },
+  "1737": {
+    "ホークマン": "Hawk Man"
+  },
+  "1738": {
+    "ガーゴイル": "Gargoyle"
+  },
+  "1739": {
+    "ソードフライヤー": "Goregoyle"
+  },
+  "1740": {
+    "clarity_nt_char_1740": "clarity_nt_char_1740"
+  },
+  "1741": {
+    "イーグルデビル": "Eagle Devil"
+  },
+  "1742": {
+    "死のカラステング": "Death Crow"
+  },
+  "1743": {
+    "clarity_nt_char_1743": "clarity_nt_char_1743"
+  },
+  "1744": {
+    "リザードファッツ": "Frou-Frou"
+  },
+  "1745": {
+    "clarity_nt_char_1745": "clarity_nt_char_1745"
+  },
+  "1746": {
+    "イエローファット": "Grand Yellow Belly"
+  },
+  "1747": {
+    "clarity_nt_char_1747": "clarity_nt_char_1747"
+  },
+  "1748": {
+    "アンゴラー": "Angola Lizard"
+  },
+  "1749": {
+    "アルゴングレート": "Great Argon Lizard"
+  },
+  "1750": {
+    "clarity_nt_char_1750": "clarity_nt_char_1750"
+  },
+  "1751": {
+    "砂海の主": "Sand Sea God"
+  },
+  "1752": {
+    "clarity_nt_char_1752": "clarity_nt_char_1752"
+  },
+  "1753": {
+    "ゼドラの影": "Shadow of Zedra"
+  },
+  "1754": {
+    "バッファロン": "Buffalogre"
+  },
+  "1755": {
+    "clarity_nt_char_1755": "clarity_nt_char_1755"
+  },
+  "1756": {
+    "レッドオーガ": "Red Horn"
+  },
+  "1757": {
+    "clarity_nt_char_1757": "clarity_nt_char_1757"
+  },
+  "1758": {
+    "ブルジャックル": "Blue Horn"
+  },
+  "1759": {
+    "ゴリウスの怨霊": "Gorius' Revenge Ghost"
+  },
+  "1760": {
+    "デスロマニズム": "Death Romanism"
+  },
+  "1761": {
+    "マジックデモニスム": "Magic Demonism"
+  },
+  "1762": {
+    "スーパーダーキズム": "Super Darkism"
+  },
+  "1763": {
+    "バトルレックス": "Hacksaurus"
+  },
+  "1764": {
+    "ドラゴンソルジャー": "Tyrantosaurus"
+  },
+  "1765": {
+    "アックスドラゴン": "Axesaurus"
+  },
+  "1766": {
+    "clarity_nt_char_1766": "clarity_nt_char_1766"
+  },
+  "1767": {
+    "トマホーガー": "Halberdsaurus"
+  },
+  "1768": {
+    "clarity_nt_char_1768": "clarity_nt_char_1768"
+  },
+  "1769": {
+    "ドミニオ": "Dominio"
+  },
+  "1770": {
+    "clarity_nt_char_1770": "clarity_nt_char_1770"
+  },
+  "1771": {
+    "パラディノス": "Paladinsaurus"
+  },
+  "1772": {
+    "clarity_nt_char_1772": "clarity_nt_char_1772"
+  },
+  "1773": {
+    "暴竜ドマノ": "Dragon Domano"
+  },
+  "1774": {
+    "暴竜ロマニ": "Dragon Romani"
+  },
+  "1775": {
+    "わかめ王子": "King Kelp"
+  },
+  "1776": {
+    "フラワーゾンビ": "Wailin' Weed"
+  },
+  "1777": {
+    "こんぶ大将": "Caterwaulin’"
+  },
+  "1778": {
+    "とろろ将軍": "Singin Hibiscus"
+  },
+  "1779": {
+    "潮風のディーバ": "Sea Breeze Diva"
+  },
+  "1780": {
+    "タタリ御前": "Tatari"
+  },
+  "1781": {
+    "プチ潮風のディーバ": "Frail Sea Breeze Diva"
+  },
+  "1782": {
+    "死霊姫ヤサギリ": "Dead Princess Yasagil"
+  },
+  "1783": {
+    "さまようよろい": "Restless Armour"
+  },
+  "1784": {
+    "じごくのよろい": "Infernal Armour"
+  },
+  "1785": {
+    "キラーアーマー": "Lethal Armour"
+  },
+  "1786": {
+    "カンダタこぶん": "Merry Man"
+  },
+  "1787": {
+    "シュバルツシュルト": "Black knight"
+  },
+  "1788": {
+    "獄嵐の鎧鬼": "Hellstorm Demon"
+  },
+  "1789": {
+    "屍水の鎧鬼": "Deadwater Demon"
+  },
+  "1790": {
+    "呪闇の鎧鬼": "Darkness Demon"
+  },
+  "1791": {
+    "邪炎の鎧鬼": "Evil Fire Demon"
+  },
+  "1792": {
+    "魔氷の鎧鬼": "Magic Ice Demon"
+  },
+  "1793": {
+    "ゴールデンスライム": "Gem Slime"
+  },
+  "1794": {
+    "プラチナキング": "Platinum King Jewel"
+  },
+  "1795": {
+    "スライムマデュラ": "Darkonium Slime"
+  },
+  "1796": {
+    "clarity_nt_char_1796": "clarity_nt_char_1796"
+  },
+  "1797": {
+    "スライムエンペラー": "Emperor Slime"
+  },
+  "1798": {
+    "ハートボイルド": "Heart-Boiled"
+  },
+  "1799": {
+    "幽冥の緑石帝": "Greenstone Emperor"
+  },
+  "1800": {
+    "clarity_nt_char_1800": "clarity_nt_char_1800"
+  },
+  "1801": {
+    "スライムエネルゴン": "Energon Slime"
+  },
+  "1802": {
+    "エンタシスマン": "Prancing Pillar"
+  },
+  "1803": {
+    "ミステリピラー": "Cavorting Column"
+  },
+  "1804": {
+    "ツイストーチ": "Twisted Torch"
+  },
+  "1805": {
+    "clarity_nt_char_1805": "clarity_nt_char_1805"
+  },
+  "1806": {
+    "オリエンタシス": "Ori Column"
+  },
+  "1807": {
+    "やみのしょくだい": "Sconstrosity"
+  },
+  "1808": {
+    "clarity_nt_char_1808": "clarity_nt_char_1808"
+  },
+  "1809": {
+    "さまようよろい・強": "Evil Restless Armour"
+  },
+  "1810": {
+    "わかめ王子・強": "Evil King Kelp"
+  },
+  "1811": {
+    "暗黒の星竜機": "Darkstar Dragomech"
+  },
+  "1812": {
+    "clarity_nt_char_1812": "clarity_nt_char_1812"
+  },
+  "1813": {
+    "メタルドラゴン": "Metal Dragon"
+  },
+  "1814": {
+    "メカバーン": "Mechan-o'-Wyrm"
+  },
+  "1815": {
+    "ゼドラゴン": "Zedragon"
+  },
+  "1816": {
+    "諸刃の鋼竜": "Steel Dragomech"
+  },
+  "1817": {
+    "ダークネビュラス": "Dark Nebulus"
+  },
+  "1818": {
+    "clarity_nt_char_1818": "clarity_nt_char_1818"
+  },
+  "1819": {
+    "ネビュラスレプリカ": "Nebulous Replica"
+  },
+  "1820": {
+    "ベビーサタン": "Imp"
+  },
+  "1821": {
+    "clarity_nt_char_1821": "clarity_nt_char_1821"
+  },
+  "1822": {
+    "ミニデーモン": "Minidemon"
+  },
+  "1823": {
+    "clarity_nt_char_1823": "clarity_nt_char_1823"
+  },
+  "1824": {
+    "つかいま": "Wimp"
+  },
+  "1825": {
+    "clarity_nt_char_1825": "clarity_nt_char_1825"
+  },
+  "1826": {
+    "フラッペリン": "White Imp"
+  },
+  "1827": {
+    "clarity_nt_char_1827": "clarity_nt_char_1827"
+  },
+  "1828": {
+    "ベビンゴサタン": "Lil' Tyke"
+  },
+  "1829": {
+    "ドラゴントイズ": "Clockwyrm"
+  },
+  "1830": {
+    "アカリリス": "Red Squirrel"
+  },
+  "1831": {
+    "ブルーミンクス": "Blue Mink"
+  },
+  "1832": {
+    "まいまいテイル": "Snaily Tail"
+  },
+  "1833": {
+    "スターレミング": "Star Lemming"
+  },
+  "1834": {
+    "シャイニング": "Spitnik"
+  },
+  "1835": {
+    "clarity_nt_char_1835": "clarity_nt_char_1835"
+  },
+  "1836": {
+    "ヘルプラネット": "Solaris"
+  },
+  "1837": {
+    "カラミティサン": "Calamity Sun"
+  },
+  "1838": {
+    "やみしばり": "Hellish Horror"
+  },
+  "1839": {
+    "アサシンブラッド": "Hellbound Hunter"
+  },
+  "1840": {
+    "clarity_nt_char_1840": "clarity_nt_char_1840"
+  },
+  "1841": {
+    "サンダーシャウト": "Hellbound Hair-Raiser"
+  },
+  "1842": {
+    "clarity_nt_char_1842": "clarity_nt_char_1842"
+  },
+  "1843": {
+    "めいふのばんにん": "Hellbound Heretic"
+  },
+  "1844": {
+    "clarity_nt_char_1844": "clarity_nt_char_1844"
+  },
+  "1845": {
+    "ゴーストベリー": "Ghost Berry"
+  },
+  "1846": {
+    "黒怨王": "Hell King"
+  },
+  "1847": {
+    "ミスター・シャウト": "Mr. Shout"
+  },
+  "1848": {
+    "ニードルマン・強": "Evil Needleman"
+  },
+  "1849": {
+    "clarity_nt_char_1849": "clarity_nt_char_1849"
+  },
+  "1850": {
+    "ニードルマン": "Needleman"
+  },
+  "1851": {
+    "clarity_nt_char_1851": "clarity_nt_char_1851"
+  },
+  "1852": {
+    "スパイクヘッド": "Spike Head"
+  },
+  "1853": {
+    "とげジョボー": "Thorny Doll"
+  },
+  "1854": {
+    "clarity_nt_char_1854": "clarity_nt_char_1854"
+  },
+  "1855": {
+    "ダーティードール": "Dirty Doll"
+  },
+  "1856": {
+    "clarity_nt_char_1856": "clarity_nt_char_1856"
+  },
+  "1857": {
+    "どデカニードル": "Giga Needleman"
+  },
+  "1858": {
+    "みがわりドール": "Scapegoat Doll"
+  },
+  "1859": {
+    "ひとくいドール": "Man-Eating Doll"
+  },
+  "1860": {
+    "ニードルうさこ": "Needle Rabbit"
+  },
+  "1861": {
+    "バーバニードル": "Barber Needle"
+  },
+  "1862": {
+    "バーバニジャンボ": "Barber Neejumbo"
+  },
+  "1863": {
+    "clarity_nt_char_1863": "clarity_nt_char_1863"
+  },
+  "1864": {
+    "カーズ・ド・バニー": "Cars de Bunny"
+  },
+  "1865": {
+    "おおさそり": "Scorpion"
+  },
+  "1866": {
+    "カラミティスコルプ": "Calamity Scorpion"
+  },
+  "1867": {
+    "てつのさそり": "Iron Scorpion"
+  },
+  "1868": {
+    "clarity_nt_char_1868": "clarity_nt_char_1868"
+  },
+  "1869": {
+    "ウルベア大魔神": "Great God of Urbea"
+  },
+  "1870": {
+    "超心覚の錬獣": "Super-minded Beast"
+  },
+  "1871": {
+    "clarity_nt_char_1871": "clarity_nt_char_1871"
+  },
+  "1872": {
+    "魔瘴球オド": "Miasma Ball Odo"
+  },
+  "1873": {
+    "羨望の闇": "Dark Envy"
+  },
+  "1874": {
+    "clarity_nt_char_1874": "clarity_nt_char_1874"
+  },
+  "1875": {
+    "マッシュスライム": "Slimeshroom"
+  },
+  "1876": {
+    "clarity_nt_char_1876": "clarity_nt_char_1876"
+  },
+  "1877": {
+    "じめじめバブル": "Dank Bubble Slime"
+  },
+  "1878": {
+    "ぬかどこスライム": "Pickled Slime"
+  },
+  "1879": {
+    "clarity_nt_char_1879": "clarity_nt_char_1879"
+  },
+  "1880": {
+    "メタルトリュフ": "Metal Truffle Slime"
+  },
+  "1881": {
+    "カカロン": "Klashmi"
+  },
+  "1882": {
+    "clarity_nt_char_1882": "clarity_nt_char_1882"
+  },
+  "1883": {
+    "クシャラミ": "Kamashki"
+  },
+  "1884": {
+    "バルバルー": "Blamara"
+  },
+  "1885": {
+    "ドメディ": "Damninui"
+  },
+  "1886": {
+    "clarity_nt_char_1886": "clarity_nt_char_1886"
+  },
+  "1887": {
+    "ゴールデンディスコ": "Golden Disco"
+  },
+  "1888": {
+    "なげきムーン": "Mourning Moon"
+  },
+  "1889": {
+    "clarity_nt_char_1889": "clarity_nt_char_1889"
+  },
+  "1890": {
+    "マーズフェイス": "Mars Face"
+  },
+  "1891": {
+    "ダークプラネット": "Dark Planet"
+  },
+  "1892": {
+    "clarity_nt_char_1892": "clarity_nt_char_1892"
+  },
+  "1893": {
+    "黄泉の邪妖星": "Evil Star of Hades"
+  },
+  "1894": {
+    "clarity_nt_char_1894": "clarity_nt_char_1894"
+  },
+  "1895": {
+    "炎業の妖星": "Fire Demon Star"
+  },
+  "1896": {
+    "ザ・ホール": "The hole"
+  },
+  "1897": {
+    "デスマーキュリー": "Mortcury"
+  },
+  "1898": {
+    "clarity_nt_char_1898": "clarity_nt_char_1898"
+  },
+  "1899": {
+    "プリーストナイト": "Priest Knight"
+  },
+  "1900": {
+    "clarity_nt_char_1900": "clarity_nt_char_1900"
+  },
+  "1901": {
+    "サイコマスター": "Psycho Master"
+  },
+  "1902": {
+    "エビルソーサラー": "Evil Sorcerer"
+  },
+  "1903": {
+    "clarity_nt_char_1903": "clarity_nt_char_1903"
+  },
+  "1904": {
+    "カーディナルナイト": "Night Cardinal"
+  },
+  "1905": {
+    "鬼哭の魔剣匠": "Swordsman's Ghost"
+  },
+  "1906": {
+    "clarity_nt_char_1906": "clarity_nt_char_1906"
+  },
+  "1907": {
+    "闇の従者": "Dark Servant"
+  },
+  "1908": {
+    "clarity_nt_char_1908": "clarity_nt_char_1908"
+  },
+  "1909": {
+    "スカーレットナイト": "Scarlet Knight"
+  },
+  "1910": {
+    "ワニバーン": "Heligator"
+  },
+  "1911": {
+    "暴魔アリゲーラ": "Demonic Alligator"
+  },
+  "1912": {
+    "ビッグファング": "Crocodog"
+  },
+  "1913": {
+    "剛獣鬼ガルドドン": "Brutal Beast Gardodon"
+  },
+  "1914": {
+    "clarity_nt_char_1914": "clarity_nt_char_1914"
+  },
+  "1915": {
+    "ゴールドマンＸ０号": "Gold Golem X 0"
+  },
+  "1916": {
+    "ゴールドマンＸ１号": "Gold Golem X 1"
+  },
+  "1917": {
+    "ゴールドマンＸ２号": "Gold Golem X 2"
+  },
+  "1918": {
+    "ゴールドマンＸ３号": "Gold Golem X 3"
+  },
+  "1919": {
+    "ゴールドマンＸ４号": "Gold Golem X 4"
+  },
+  "1920": {
+    "ゴールドマンＸ５号": "Gold Golem X 5"
+  },
+  "1921": {
+    "ゴールドマンＸ６号": "Gold Golem X 6"
+  },
+  "1922": {
+    "ゴールドマンＸ７号": "Gold Golem X 7"
+  },
+  "1923": {
+    "ゴールドマンＸ８号": "Gold Golem X 8"
+  },
+  "1924": {
+    "ゴールドマンＸ９号": "Gold Golem X 9"
+  },
+  "1925": {
+    "翠将鬼ジェルザーク": "Green General Gelzark"
+  },
+  "1926": {
+    "ギャノン弟": "Gannon Lil' Bro"
+  },
+  "1927": {
+    "フォレストドラゴ": "Forest Dragon"
+  },
+  "1928": {
+    "clarity_nt_char_1928": "clarity_nt_char_1928"
+  },
+  "1929": {
+    "エルダードラゴン": "Elder Dragon"
+  },
+  "1930": {
+    "clarity_nt_char_1930": "clarity_nt_char_1930"
+  },
+  "1931": {
+    "ヴォルカドラゴン": "Volcanic Dragon"
+  },
+  "1932": {
+    "clarity_nt_char_1932": "clarity_nt_char_1932"
+  },
+  "1933": {
+    "スノーエルダー": "Snow Elder"
+  },
+  "1934": {
+    "巨竜樹タツノギ": "Tree Dragon Tatsunogi"
+  },
+  "1935": {
+    "輝晶獣ゾルゾム": "Bright Beast Ghost"
+  },
+  "1936": {
+    "輝晶獣ボイボゥ": "Bright Beast Mole"
+  },
+  "1937": {
+    "輝晶獣ドグドラ": "Bright Beast Dragon"
+  },
+  "1938": {
+    "フォンデュ・強": "Evil Fromage Fray"
+  },
+  "1939": {
+    "フォンデュ": "Fromage Fray"
+  },
+  "1940": {
+    "ケミカルゼリー": "Fromage Fey"
+  },
+  "1941": {
+    "くろカビこぞう": "Fromage Gray"
+  },
+  "1942": {
+    "モッツァレーラ": "Fromage Flay"
+  },
+  "1943": {
+    "フロスティ": "Frosty"
+  },
+  "1944": {
+    "暴魔ゼラチド": "Demon Zerachido"
+  },
+  "1945": {
+    "clarity_nt_char_1945": "clarity_nt_char_1945"
+  },
+  "1946": {
+    "チーズキノコ": "Cheese Mushroom"
+  },
+  "1947": {
+    "clarity_nt_char_1947": "clarity_nt_char_1947"
+  },
+  "1948": {
+    "剣魔の伝霊": "Swd. Devil Soul"
+  },
+  "1949": {
+    "剣魔の伝霊の剣": "Swd. Devil Soul Sword"
+  },
+  "1950": {
+    "たんすミミック": "Wardrobe Mimic"
+  },
+  "1951": {
+    "パンドラチェスト": "Pandordrobe"
+  },
+  "1952": {
+    "clarity_nt_char_1952": "clarity_nt_char_1952"
+  },
+  "1953": {
+    "ロイヤルミミック": "Royal Mimic"
+  },
+  "1954": {
+    "clarity_nt_char_1954": "clarity_nt_char_1954"
+  },
+  "1955": {
+    "パンプキャビネット": "Pumpkabinet"
+  },
+  "1956": {
+    "ドラポヨロン": "Tubby Dracky"
+  },
+  "1957": {
+    "clarity_nt_char_1957": "clarity_nt_char_1957"
+  },
+  "1958": {
+    "烈武の竜将": "Dragon Warrior"
+  },
+  "1959": {
+    "シシカバブ団長": "Shish Kebab Leader"
+  },
+  "1960": {
+    "呪われたシシカバブ": "Cursed Shish Kebab"
+  },
+  "1961": {
+    "魔天獅ヒッポルコ": "Magic Lion Hippolko"
+  },
+  "1962": {
+    "clarity_nt_char_1962": "clarity_nt_char_1962"
+  },
+  "1963": {
+    "アバランチャー": "Avalauncher"
+  },
+  "1964": {
+    "メガトンチャンプ": "Megaton Champ"
+  },
+  "1965": {
+    "clarity_nt_char_1965": "clarity_nt_char_1965"
+  },
+  "1966": {
+    "千夜ライジン": "1000 Nights Raijin"
+  },
+  "1967": {
+    "clarity_nt_char_1967": "clarity_nt_char_1967"
+  },
+  "1968": {
+    "太古の魔人": "Ancient Demon"
+  },
+  "1969": {
+    "にじくじゃく": "Prism Peacock"
+  },
+  "1970": {
+    "clarity_nt_char_1970": "clarity_nt_char_1970"
+  },
+  "1971": {
+    "マッドファルコン": "Terrorhawk"
+  },
+  "1972": {
+    "clarity_nt_char_1972": "clarity_nt_char_1972"
+  },
+  "1973": {
+    "れんごくまちょう": "Bird of Terrordise"
+  },
+  "1974": {
+    "clarity_nt_char_1974": "clarity_nt_char_1974"
+  },
+  "1975": {
+    "魔瘴竜ジャオマンダ": "Demon Dragon Jaomanda"
+  },
+  "1976": {
+    "ゾブリス将軍": "General Zobris"
+  },
+  "1977": {
+    "clarity_nt_char_1977": "clarity_nt_char_1977"
+  },
+  "1978": {
+    "グレイトドラゴン": "Great Dragon"
+  },
+  "1979": {
+    "clarity_nt_char_1979": "clarity_nt_char_1979"
+  },
+  "1980": {
+    "ブラックドラゴン": "Black Dragon"
+  },
+  "1981": {
+    "clarity_nt_char_1981": "clarity_nt_char_1981"
+  },
+  "1982": {
+    "常闇の竜レグナード": "Everdark Dragon Regnard"
+  },
+  "1983": {
+    "炎の床": "Hot Floor"
+  },
+  "1984": {
+    "氷の床": "Ice Floor"
+  },
+  "1985": {
+    "錯乱の竜": "Confusragon"
+  },
+  "1986": {
+    "clarity_nt_char_1986": "clarity_nt_char_1986"
+  },
+  "1987": {
+    "呪いの床": "Cursed Floor"
+  },
+  "1988": {
+    "clarity_nt_char_1988": "clarity_nt_char_1988"
+  },
+  "1989": {
+    "シャドーサタン": "Hypothermion"
+  },
+  "1990": {
+    "カラミティデーモン": "Calamity Demon"
+  },
+  "1991": {
+    "背徳の教祖": "Corruption Guru"
+  },
+  "1992": {
+    "ごうけつぐま": "Ursa Minor"
+  },
+  "1993": {
+    "clarity_nt_char_1993": "clarity_nt_char_1993"
+  },
+  "1994": {
+    "シルバーベア": "Silver Bear"
+  },
+  "1995": {
+    "clarity_nt_char_1995": "clarity_nt_char_1995"
+  },
+  "1996": {
+    "虚空の邪竜神": "Dragon God of Void"
+  },
+  "1997": {
+    "clarity_nt_char_1997": "clarity_nt_char_1997"
+  },
+  "1998": {
+    "死霊兵クロマゲ": "Souldier Black Mage"
+  },
+  "1999": {
+    "あらくれパンダ": "Ursa Panda"
+  },
+  "2000": {
+    "カンダタ": "Robbin' 'Ood"
+  },
+  "2001": {
+    "clarity_nt_char_2001": "clarity_nt_char_2001"
+  },
+  "2002": {
+    "エリミネーター": "Hoodlum"
+  },
+  "2003": {
+    "ごろつき": "Hood"
+  },
+  "2004": {
+    "clarity_nt_char_2004": "clarity_nt_char_2004"
+  },
+  "2005": {
+    "デスストーカー": "Heavy Hood"
+  },
+  "2006": {
+    "クリムゾンローグ": "Crimson Rogue"
+  },
+  "2007": {
+    "clarity_nt_char_2007": "clarity_nt_char_2007"
+  },
+  "2008": {
+    "メカカンダタ": "Mech Robbin' 'Ood"
+  },
+  "2009": {
+    "clarity_nt_char_2009": "clarity_nt_char_2009"
+  },
+  "2010": {
+    "真紅の殺人機械": "Crimson Killing Mchn."
+  },
+  "2011": {
+    "ミイラ男": "Mummy Boy"
+  },
+  "2012": {
+    "clarity_nt_char_2012": "clarity_nt_char_2012"
+  },
+  "2013": {
+    "マミー": "Mummy"
+  },
+  "2014": {
+    "ブラッドマミー": "Blood Mummy"
+  },
+  "2015": {
+    "悪鬼丸": "Bad Mummy"
+  },
+  "2016": {
+    "絶牙の白獅子": "White Lion"
+  },
+  "2017": {
+    "clarity_nt_char_2017": "clarity_nt_char_2017"
+  },
+  "2018": {
+    "時獄獣キュロノス": "Time Hell Beast Kyronos"
+  },
+  "2019": {
+    "clarity_nt_char_2019": "clarity_nt_char_2019"
+  },
+  "2020": {
+    "時元神キュロノス": "Time God Kyronos"
+  },
+  "2021": {
+    "clarity_nt_char_2021": "clarity_nt_char_2021"
+  },
+  "2022": {
+    "黄牛鬼タウラダイン": "Yellow Bull Ghost Tauradyne"
+  },
+  "2023": {
+    "魔獣サルファバル": "Demon Beast Sulphubal"
+  },
+  "2024": {
+    "clarity_nt_char_2024": "clarity_nt_char_2024"
+  },
+  "2025": {
+    "謀略の邪竜": "Scheming Dragon"
+  },
+  "2026": {
+    "憤怒の剛竜": "Raging Dragon"
+  },
+  "2027": {
+    "青狼鬼グルバレイダ": "Blue Wolf Demon Grubareyda"
+  },
+  "2028": {
+    "自動人形ドミネウス": "Domineus Automaton"
+  },
+  "2029": {
+    "時獄のドミネウス": "Time God Domineus"
+  },
+  "2030": {
+    "clarity_nt_char_2030": "clarity_nt_char_2030"
+  },
+  "2031": {
+    "魔人王ドミネウス": "Demon King Domineus"
+  },
+  "2032": {
+    "clarity_nt_char_2032": "clarity_nt_char_2032"
+  },
+  "2033": {
+    "紫獅鬼バイロゼオ": "Purple Lion Byrozeo"
+  },
+  "2034": {
+    "clarity_nt_char_2034": "clarity_nt_char_2034"
+  },
+  "2035": {
+    "剣王ガルドリオン": "Sword King Gardlion"
+  },
+  "2036": {
+    "clarity_nt_char_2036": "clarity_nt_char_2036"
+  },
+  "2037": {
+    "獣魔ローガスト": "Demon Beast Logast"
+  },
+  "2038": {
+    "竜将アンテロ": "Dragon Gen. Antelo"
+  },
+  "2039": {
+    "clarity_nt_char_2039": "clarity_nt_char_2039"
+  },
+  "2040": {
+    "逆乱の竜ナダイア": "Rebellion Dragon Nadaia"
+  },
+  "2041": {
+    "clarity_nt_char_2041": "clarity_nt_char_2041"
+  },
+  "2042": {
+    "禍乱の竜アンテロ": "Turmoil Dragon Antelo"
+  },
+  "2043": {
+    "clarity_nt_char_2043": "clarity_nt_char_2043"
+  },
+  "2044": {
+    "メテオ着弾": "Meteor Impact"
+  },
+  "2045": {
+    "炎禍の陣": "Evil Flame"
+  },
+  "2046": {
+    "clarity_nt_char_2046": "clarity_nt_char_2046"
+  },
+  "2047": {
+    "風禍の陣": "Evil Wind"
+  },
+  "2048": {
+    "clarity_nt_char_2048": "clarity_nt_char_2048"
+  },
+  "2049": {
+    "雷禍の陣": "Evil Thunder"
+  },
+  "2050": {
+    "clarity_nt_char_2050": "clarity_nt_char_2050"
+  },
+  "2051": {
+    "スライムジェネラル": "Shogum"
+  },
+  "2052": {
+    "プチドン・モグーラ": "Frail Don Mole"
+  },
+  "2053": {
+    "邪竜神ナドラガ": "Dragon King Nadraga"
+  },
+  "2054": {
+    "虚空の神ナドラガ": "Void God Nadraga"
+  },
+  "2055": {
+    "clarity_nt_char_2055": "clarity_nt_char_2055"
+  },
+  "2056": {
+    "邪竜教祖オルストフ": "Evil Dragon Guru Orstov"
+  },
+  "2057": {
+    "魔瘴魂ナドラグル": "Miasma Spirit Nadraguru"
+  },
+  "2058": {
+    "clarity_nt_char_2058": "clarity_nt_char_2058"
+  },
+  "2059": {
+    "激情の竜エステラ": "Passion Dragon Estella"
+  },
+  "2060": {
+    "clarity_nt_char_2060": "clarity_nt_char_2060"
+  },
+  "2061": {
+    "邪竜の秘紋": "Dragon Crest"
+  },
+  "2062": {
+    "邪悪なる霊威": "Evil Mystery Power"
+  },
+  "2063": {
+    "clarity_nt_char_2063": "clarity_nt_char_2063"
+  },
+  "2064": {
+    "時見の箱": "Timeseer Box"
+  },
+  "2065": {
+    "clarity_nt_char_2065": "clarity_nt_char_2065"
+  },
+  "2066": {
+    "プチＳキラーマシン": "Frail Trauminator"
+  },
+  "2067": {
+    "悪夢の右手": "Dream Hand R"
+  },
+  "2068": {
+    "悪夢の右手強": "Apex Dream Hand R"
+  },
+  "2069": {
+    "clarity_nt_char_2069": "clarity_nt_char_2069"
+  },
+  "2070": {
+    "悪夢の左手強": "S. Nightmare LHand"
+  },
+  "2071": {
+    "clarity_nt_char_2071": "clarity_nt_char_2071"
+  },
+  "2072": {
+    "魔炎鳥": "Darkflame"
+  },
+  "2073": {
+    "プロミネンス着弾": "Prominence Impact"
+  },
+  "2074": {
+    "clarity_nt_char_2074": "clarity_nt_char_2074"
+  },
+  "2075": {
+    "禁書の守護者・右": "Right Banned Book Guard"
+  },
+  "2076": {
+    "clarity_nt_char_2076": "clarity_nt_char_2076"
+  },
+  "2077": {
+    "禁書の守護者・左": "Left Banned Book Guard"
+  },
+  "2078": {
+    "clarity_nt_char_2078": "clarity_nt_char_2078"
+  },
+  "2079": {
+    "絶望の巨像": "Despair Statue"
+  },
+  "2080": {
+    "トーマ王子": "Prince Thomas"
+  },
+  "2081": {
+    "幻妖の黒公子": "Blk Phantom Prince"
+  },
+  "2082": {
+    "clarity_nt_char_2082": "clarity_nt_char_2082"
+  },
+  "2083": {
+    "ワラタロー改": "Warataro v2"
+  },
+  "2084": {
+    "clarity_nt_char_2084": "clarity_nt_char_2084"
+  },
+  "2085": {
+    "ペコリア・アルファ": "Pekoria Alpha"
+  },
+  "2086": {
+    "大魔王マデサゴーラ": "Great Demon King Madesagora"
+  },
+  "2087": {
+    "魔幻の芸術家": "Master of Illusion"
+  },
+  "2088": {
+    "clarity_nt_char_2088": "clarity_nt_char_2088"
+  },
+  "2089": {
+    "ペコリア・オメガ": "Pekoria Omega"
+  },
+  "2090": {
+    "clarity_nt_char_2090": "clarity_nt_char_2090"
+  },
+  "2091": {
+    "魔勇者アンルシア": "Demon Hero Anlucia"
+  },
+  "2092": {
+    "clarity_nt_char_2092": "clarity_nt_char_2092"
+  },
+  "2093": {
+    "創生魔法陣": "Creation Wizard"
+  },
+  "2094": {
+    "魔剣士テグラム": "Evil Swordsman Tegram"
+  },
+  "2095": {
+    "幻妖の魔勇者": "Phantom Demon Hero"
+  },
+  "2096": {
+    "clarity_nt_char_2096": "clarity_nt_char_2096"
+  },
+  "2097": {
+    "魔天の勇者": "Demon Sky Hero"
+  },
+  "2098": {
+    "影魔レイミリア": "Shadow Demon Remillia"
+  },
+  "2099": {
+    "紅殻魔スコルパイド": "Red Scorpion"
+  },
+  "2100": {
+    "破戒王ベルムド": "Sin King Bermud"
+  },
+  "2101": {
+    "破戒王ベルムド強": "Apex Sin King Bermud"
+  },
+  "2102": {
+    "clarity_nt_char_2102": "clarity_nt_char_2102"
+  },
+  "2103": {
+    "破戒王ベルムド影": "Sin King Bermud Shadow"
+  },
+  "2104": {
+    "clarity_nt_char_2104": "clarity_nt_char_2104"
+  },
+  "2105": {
+    "魔人リンジャーラ": "Demon Linjara"
+  },
+  "2106": {
+    "clarity_nt_char_2106": "clarity_nt_char_2106"
+  },
+  "2107": {
+    "ドン・モグーラ": "Don Mole"
+  },
+  "2108": {
+    "神獣パチャティカ": "God Beast Pachatika"
+  },
+  "2109": {
+    "clarity_nt_char_2109": "clarity_nt_char_2109"
+  },
+  "2110": {
+    "死神スライダーク": "Nemeslime"
+  },
+  "2111": {
+    "clarity_nt_char_2111": "clarity_nt_char_2111"
+  },
+  "2112": {
+    "魔元帥ゼルドラド": "Demon General Zeldrad"
+  },
+  "2113": {
+    "clarity_nt_char_2113": "clarity_nt_char_2113"
+  },
+  "2114": {
+    "ゼルドラドの剣": "Zeldrad's Sword"
+  },
+  "2115": {
+    "戦慄の魔元帥": "Marshal of Fear"
+  },
+  "2116": {
+    "clarity_nt_char_2116": "clarity_nt_char_2116"
+  },
+  "2117": {
+    "増殖獣バイロゴーグ": "Breeding Beast Bylogog"
+  },
+  "2118": {
+    "マグマだまり": "Magma Chamber"
+  },
+  "2119": {
+    "clarity_nt_char_2119": "clarity_nt_char_2119"
+  },
+  "2120": {
+    "炎魔アグニース": "Fire Demon Agnes"
+  },
+  "2121": {
+    "氷魔フィルグレア": "Ice Demon Philglare"
+  },
+  "2122": {
+    "clarity_nt_char_2122": "clarity_nt_char_2122"
+  },
+  "2123": {
+    "竜気の結晶": "Dragon Crystal"
+  },
+  "2124": {
+    "闇魔ティトス": "Dark Demon Titos"
+  },
+  "2125": {
+    "clarity_nt_char_2125": "clarity_nt_char_2125"
+  },
+  "2126": {
+    "水魔ヴァーテル": "Water Demon Vater"
+  },
+  "2127": {
+    "赤飛竜": "Redragon"
+  },
+  "2128": {
+    "青飛竜": "Bludragon"
+  },
+  "2129": {
+    "黄飛竜": "Yeldragon"
+  },
+  "2130": {
+    "黒飛竜": "Bladragon"
+  },
+  "2131": {
+    "嵐魔ウェンリル": "Storm Demon Wenrir"
+  },
+  "2132": {
+    "獄炎鬼アグニース": "Hellfire Ghost Agnes"
+  },
+  "2133": {
+    "clarity_nt_char_2133": "clarity_nt_char_2133"
+  },
+  "2134": {
+    "獄氷鬼フィルグレア": "Hell Ice Ghost Philglare"
+  },
+  "2135": {
+    "獣魔将ガルレイ": "Beast General Gullray"
+  },
+  "2136": {
+    "牙王ゴースネル": "Fang King Gosnell"
+  },
+  "2137": {
+    "プチキラーマジンガ": "Frail Uberkilling Mchn."
+  },
+  "2138": {
+    "キラーマジンガ強": "Apex Uberkilling Mchn."
+  },
+  "2139": {
+    "clarity_nt_char_2139": "clarity_nt_char_2139"
+  },
+  "2140": {
+    "Ｓキラーマシン": "Trauminator"
+  },
+  "2141": {
+    "紫炎の滅機将シュバ": "Purple Flame Wrecker, Shuba"
+  },
+  "2142": {
+    "獄闇鬼ティトス": "Hell Dark Ghost Titos"
+  },
+  "2143": {
+    "獄水鬼ヴァーテル": "Hell Water Ghost Vater"
+  },
+  "2144": {
+    "clarity_nt_char_2144": "clarity_nt_char_2144"
+  },
+  "2145": {
+    "獄嵐鬼ウェンリル": "Hell Storm Ghost Wenrir"
+  },
+  "2146": {
+    "clarity_nt_char_2146": "clarity_nt_char_2146"
+  },
+  "2147": {
+    "魔女グレイツェル": "Witch Gretzel"
+  },
+  "2148": {
+    "clarity_nt_char_2148": "clarity_nt_char_2148"
+  },
+  "2149": {
+    "魔女の釜": "Cauldron"
+  },
+  "2150": {
+    "clarity_nt_char_2150": "clarity_nt_char_2150"
+  },
+  "2151": {
+    "魔女グレイツェル強": "Apex Witch Gretzel"
+  },
+  "2152": {
+    "プチゴースネル": "Frail Gosnell"
+  },
+  "2153": {
+    "アトラカシャル": "Atlaslhin"
+  },
+  "2154": {
+    "ムーカシャル": "Mukashal"
+  },
+  "2155": {
+    "clarity_nt_char_2155": "clarity_nt_char_2155"
+  },
+  "2156": {
+    "レムリカシャル": "Remrikshal"
+  },
+  "2157": {
+    "神獣カシャル": "God Beast Kashal"
+  },
+  "2158": {
+    "clarity_nt_char_2158": "clarity_nt_char_2158"
+  },
+  "2159": {
+    "黒蛇鬼アクラガレナ": "Black Snake Akragarena"
+  },
+  "2160": {
+    "やまたのおろち": "Orochi"
+  },
+  "2161": {
+    "キングヒドラ": "King Hydra"
+  },
+  "2162": {
+    "clarity_nt_char_2162": "clarity_nt_char_2162"
+  },
+  "2163": {
+    "ジングルヒドラ": "Jingle Hydra"
+  },
+  "2164": {
+    "キングヒドラ強": "Apex King Hydra"
+  },
+  "2165": {
+    "プチキングヒドラ": "Frail King Hydra"
+  },
+  "2166": {
+    "clarity_nt_char_2166": "clarity_nt_char_2166"
+  },
+  "2167": {
+    "キングヒドラ闘": "Warmaker King Hydra"
+  },
+  "2168": {
+    "アンクルホーン": "Moosifer"
+  },
+  "2169": {
+    "ヘルバトラー": "Barbatos"
+  },
+  "2170": {
+    "clarity_nt_char_2170": "clarity_nt_char_2170"
+  },
+  "2171": {
+    "ヘルバトラー強": "Apex Barbatos"
+  },
+  "2172": {
+    "デスカイザー": "Master Moosifer"
+  },
+  "2173": {
+    "clarity_nt_char_2173": "clarity_nt_char_2173"
+  },
+  "2174": {
+    "悪鬼ゾンガロン": "Demon Zongalon"
+  },
+  "2175": {
+    "喪心獣ゾンテドール": "Mourning Beast Zontedor"
+  },
+  "2176": {
+    "エル・マーマン": "El Moleman"
+  },
+  "2177": {
+    "プチグラコス": "Frail Gracos"
+  },
+  "2178": {
+    "clarity_nt_char_2178": "clarity_nt_char_2178"
+  },
+  "2179": {
+    "グラコス": "Gracos"
+  },
+  "2180": {
+    "clarity_nt_char_2180": "clarity_nt_char_2180"
+  },
+  "2181": {
+    "グレイトマーマン": "Merderer"
+  },
+  "2182": {
+    "clarity_nt_char_2182": "clarity_nt_char_2182"
+  },
+  "2183": {
+    "マスカッ父さん": "Muscat Father"
+  },
+  "2184": {
+    "オレンじい": "Orenji"
+  },
+  "2185": {
+    "プーちゃん": "Pooh-chan"
+  },
+  "2186": {
+    "クーちゃん": "Kuu-chan"
+  },
+  "2187": {
+    "リポちゃん": "Lipo-chan"
+  },
+  "2188": {
+    "ダークドレアム": "Nokturnus"
+  },
+  "2189": {
+    "暴虐の悪夢": "Cruel Nightmare"
+  },
+  "2190": {
+    "グラコス強": "Apex Gracos"
+  },
+  "2191": {
+    "グラコス５世": "Gracos V"
+  },
+  "2192": {
+    "clarity_nt_char_2192": "clarity_nt_char_2192"
+  },
+  "2193": {
+    "暗黒の魔人": "Ruin"
+  },
+  "2194": {
+    "魔人の左手": "Left Demon Hand"
+  },
+  "2195": {
+    "深淵魚キュラス": "Deep Abyss Fish Curus"
+  },
+  "2196": {
+    "デュラン強": "Apex Dhuran"
+  },
+  "2197": {
+    "ワイルドフォビズム": "Wild Phobism"
+  },
+  "2198": {
+    "エビルキュビズム": "Evil Cubism"
+  },
+  "2199": {
+    "clarity_nt_char_2199": "clarity_nt_char_2199"
+  },
+  "2200": {
+    "ダークレアリズム": "Dark Realism"
+  },
+  "2201": {
+    "clarity_nt_char_2201": "clarity_nt_char_2201"
+  },
+  "2202": {
+    "創造神マデサゴーラ": "God of Creation, Madesagora"
+  },
+  "2203": {
+    "不浄の魔力": "Impurity Power"
+  },
+  "2204": {
+    "キラーマジンガ": "Uberkilling Machine"
+  },
+  "2205": {
+    "キラークリムゾン": "Crimson Killing Machine"
+  },
+  "2206": {
+    "clarity_nt_char_2206": "clarity_nt_char_2206"
+  },
+  "2207": {
+    "キラークリスマス": "Killer Christmas"
+  },
+  "2208": {
+    "clarity_nt_char_2208": "clarity_nt_char_2208"
+  },
+  "2209": {
+    "キラーマシン２": "Killing Machine 2"
+  },
+  "2210": {
+    "暴魔アヴィーロ": "Fierce Demon Aviro"
+  },
+  "2211": {
+    "ファラオ・デス": "Pharaoh Death"
+  },
+  "2212": {
+    "ファラオ・エレフ": "Pharaoh Elephant"
+  },
+  "2213": {
+    "clarity_nt_char_2213": "clarity_nt_char_2213"
+  },
+  "2214": {
+    "ファラオ・ガル": "Pharaoh Gul"
+  },
+  "2215": {
+    "ファラオ・ゴル": "Pharaoh Gol"
+  },
+  "2216": {
+    "ファラオの右手": "Pharaoh Right Hand"
+  },
+  "2217": {
+    "ファラオの左手": "Pharaoh Left Hand"
+  },
+  "2218": {
+    "ファラオ・ヘッド": "Pharaoh Head"
+  },
+  "2219": {
+    "clarity_nt_char_2219": "clarity_nt_char_2219"
+  },
+  "2220": {
+    "ファラオ・ゴレム": "Pharaoh Golem"
+  },
+  "2221": {
+    "clarity_nt_char_2221": "clarity_nt_char_2221"
+  },
+  "2222": {
+    "ファラオ・ナジャ": "Pharaoh Naja"
+  },
+  "2223": {
+    "clarity_nt_char_2223": "clarity_nt_char_2223"
+  },
+  "2224": {
+    "ファラオ・ルドラ": "Pharaoh Rudra"
+  },
+  "2225": {
+    "clarity_nt_char_2225": "clarity_nt_char_2225"
+  },
+  "2226": {
+    "ファラオ・ラー": "Pharaoh Ra"
+  },
+  "2227": {
+    "薄明の守人": "Twilight Guard"
+  },
+  "2228": {
+    "薄明の番人": "Twilight Keeper"
+  },
+  "2229": {
+    "陽光の戦士": "Solaris Warrior"
+  },
+  "2230": {
+    "陽光の衛士": "Solaris Guard"
+  },
+  "2231": {
+    "陽光の兵士": "Solaris Soldier"
+  },
+  "2232": {
+    "落日の隠者": "Sunset Hermit"
+  },
+  "2233": {
+    "落日の知者": "Sunset Wiseman"
+  },
+  "2234": {
+    "落日の賢者": "Sunset Sage"
+  },
+  "2235": {
+    "闇夜の王": "Dark King"
+  },
+  "2236": {
+    "clarity_nt_char_2236": "clarity_nt_char_2236"
+  },
+  "2237": {
+    "闇夜の王妃": "Dark Queen"
+  },
+  "2238": {
+    "勇者アルヴァン": "Alvan the Brave"
+  },
+  "2239": {
+    "ファラオ・ニビス": "Pharaoh Nibis"
+  },
+  "2240": {
+    "clarity_nt_char_2240": "clarity_nt_char_2240"
+  },
+  "2241": {
+    "ファラオ・ヘルマ": "Pharaoh Herma"
+  },
+  "2242": {
+    "clarity_nt_char_2242": "clarity_nt_char_2242"
+  },
+  "2243": {
+    "ファラオ・カーメン": "Pharaoh khamun"
+  },
+  "2244": {
+    "秘宝の突撃兵": "Treasure Nt. Rider"
+  },
+  "2245": {
+    "clarity_nt_char_2245": "clarity_nt_char_2245"
+  },
+  "2246": {
+    "秘宝の空挺兵長": "Treasure Dark Prince"
+  },
+  "2247": {
+    "秘宝の魔象兵": "Treasure Gnuriel"
+  },
+  "2248": {
+    "clarity_nt_char_2248": "clarity_nt_char_2248"
+  },
+  "2249": {
+    "秘宝の破壊兵": "Treasure Gigantes"
+  },
+  "2250": {
+    "clarity_nt_char_2250": "clarity_nt_char_2250"
+  },
+  "2251": {
+    "秘宝の楽奏兵": "Treasure Amodeus"
+  },
+  "2252": {
+    "clarity_nt_char_2252": "clarity_nt_char_2252"
+  },
+  "2253": {
+    "秘宝の空挺部隊": "Treasure Gargoyle"
+  },
+  "2254": {
+    "秘宝の聖騎士団": "Treasure Psych Master"
+  },
+  "2255": {
+    "秘宝の千人隊長": "Treasure Evil Sorc."
+  },
+  "2256": {
+    "秘宝の魔戦旅団": "Treasure Pri. Knight"
+  },
+  "2257": {
+    "秘宝の番人": "Treasure Mummy"
+  },
+  "2258": {
+    "秘宝の亡者": "Treasure Corpse"
+  },
+  "2259": {
+    "秘宝の従僕": "Treasure Marrow"
+  },
+  "2260": {
+    "秘宝の先兵": "Treasure Viking"
+  },
+  "2261": {
+    "秘宝の魔戦士": "Treasure Gladiator"
+  },
+  "2262": {
+    "clarity_nt_char_2262": "clarity_nt_char_2262"
+  },
+  "2263": {
+    "秘宝の妖獣": "Treasure Cat"
+  },
+  "2264": {
+    "秘宝の怪虫": "Treasure Insect"
+  },
+  "2265": {
+    "秘宝の甲殻": "Treasure Crab"
+  },
+  "2266": {
+    "秘宝の闘虫": "Treasure Mantis"
+  },
+  "2267": {
+    "秘宝の鋼虫": "Treasure Gnat"
+  },
+  "2268": {
+    "秘宝の剣鬼": "Treasure Swdman"
+  },
+  "2269": {
+    "秘宝の剣魔": "Treasure Fantom"
+  },
+  "2270": {
+    "秘宝の幻影": "Treasure Shade"
+  },
+  "2271": {
+    "秘宝の魔影": "Treasure Umbra"
+  },
+  "2272": {
+    "秘宝の亡霊": "Treasure Geist"
+  },
+  "2273": {
+    "秘宝の魔岩": "Treasure Rock"
+  },
+  "2274": {
+    "秘宝の霊魂": "Treasure Soul"
+  },
+  "2275": {
+    "秘宝の神官": "Treasure Clown"
+  },
+  "2276": {
+    "秘宝の邪精霊": "Treasure Flame"
+  },
+  "2277": {
+    "clarity_nt_char_2277": "clarity_nt_char_2277"
+  },
+  "2278": {
+    "秘宝の剣士": "Treasure Armour"
+  },
+  "2279": {
+    "秘宝の怪人": "Treasure Hoodie"
+  },
+  "2280": {
+    "秘宝の騎士": "Treasure Knight"
+  },
+  "2281": {
+    "秘宝の巨人": "Treasure Troll"
+  },
+  "2282": {
+    "秘宝の近衛兵": "Treasure Karmour"
+  },
+  "2283": {
+    "clarity_nt_char_2283": "clarity_nt_char_2283"
+  },
+  "2284": {
+    "秘宝のガーディアン": "Treasure Hunter Mech"
+  },
+  "2285": {
+    "秘宝の竜騎兵": "Treasure Mandrake"
+  },
+  "2286": {
+    "clarity_nt_char_2286": "clarity_nt_char_2286"
+  },
+  "2287": {
+    "秘宝の機工獣": "Treasure Raider"
+  },
+  "2288": {
+    "clarity_nt_char_2288": "clarity_nt_char_2288"
+  },
+  "2289": {
+    "秘宝の守護竜": "Treasure Skelegon"
+  },
+  "2290": {
+    "clarity_nt_char_2290": "clarity_nt_char_2290"
+  },
+  "2291": {
+    "ゴールデンボックス": "Golden Box"
+  },
+  "2292": {
+    "ゴールデンパペット": "Gold-Plated Puppet"
+  },
+  "2293": {
+    "秘宝の使い魔": "Treasure Horror"
+  },
+  "2294": {
+    "clarity_nt_char_2294": "clarity_nt_char_2294"
+  },
+  "2295": {
+    "秘宝の小悪魔": "Treasure White Imp"
+  },
+  "2296": {
+    "clarity_nt_char_2296": "clarity_nt_char_2296"
+  },
+  "2297": {
+    "秘宝の魔兵": "Treasure Balhib"
+  },
+  "2298": {
+    "秘宝の大悪魔": "Treasure Belial"
+  },
+  "2299": {
+    "clarity_nt_char_2299": "clarity_nt_char_2299"
+  },
+  "2300": {
+    "秘宝の魔兵長": "Treasure Blackmar"
+  },
+  "2301": {
+    "clarity_nt_char_2301": "clarity_nt_char_2301"
+  },
+  "2302": {
+    "獄炎の陣": "Hellfire Set"
+  },
+  "2303": {
+    "clarity_nt_char_2303": "clarity_nt_char_2303"
+  },
+  "2304": {
+    "獄闇の陣": "Helldark Set"
+  },
+  "2305": {
+    "clarity_nt_char_2305": "clarity_nt_char_2305"
+  },
+  "2306": {
+    "獄水の陣": "Helwater Set"
+  },
+  "2307": {
+    "clarity_nt_char_2307": "clarity_nt_char_2307"
+  },
+  "2308": {
+    "混沌の魔瘴魂": "Miasma Chaos Soul"
+  },
+  "2309": {
+    "clarity_nt_char_2309": "clarity_nt_char_2309"
+  },
+  "2310": {
+    "獄嵐の陣": "Helstorm Set"
+  },
+  "2311": {
+    "clarity_nt_char_2311": "clarity_nt_char_2311"
+  },
+  "2312": {
+    "冥闇の門番": "Dark Gatekeeper"
+  },
+  "2313": {
+    "オバケのピッピ": "Ghost Pippi"
+  },
+  "2314": {
+    "ヘルカッチャ・強": "Evil Masqueraider"
+  },
+  "2315": {
+    "clarity_nt_char_2315": "clarity_nt_char_2315"
+  },
+  "2316": {
+    "起源魔スコルパイド": "Origin Scorpion"
+  },
+  "2317": {
+    "起源将ジェルザーク": "Origin General Gelzark"
+  },
+  "2318": {
+    "起源獣ガルドドン": "Origin Gardodon"
+  },
+  "2319": {
+    "clarity_nt_char_2319": "clarity_nt_char_2319"
+  },
+  "2320": {
+    "起源鎧デルメゼ": "Origin Armor Delmeze"
+  },
+  "2321": {
+    "シャイニング・強": "Evil Spitnik"
+  },
+  "2322": {
+    "clarity_nt_char_2322": "clarity_nt_char_2322"
+  },
+  "2323": {
+    "異界滅神ジャゴヌバ": "Eldritch God Jagonuba"
+  },
+  "2324": {
+    "絶対滅神ジャゴヌバ": "Destruction God Jagonuba"
+  },
+  "2325": {
+    "暗黒の手": "Dark Hand"
+  },
+  "2326": {
+    "clarity_nt_char_2326": "clarity_nt_char_2326"
+  },
+  "2327": {
+    "忘我のシシカバブ": "Forgetful Shish Kebab"
+  },
+  "2328": {
+    "clarity_nt_char_2328": "clarity_nt_char_2328"
+  },
+  "2329": {
+    "ガルバ・強": "Evil Sootbonce"
+  },
+  "2330": {
+    "ゴルバ・強": "Evil Smogbonet"
+  },
+  "2331": {
+    "キングリザード・強": "Evil Liege Lizard"
+  },
+  "2332": {
+    "フェンダ": "Fender"
+  },
+  "2333": {
+    "clarity_nt_char_2333": "clarity_nt_char_2333"
+  },
+  "2334": {
+    "剣魔ジルドラーナ": "Sword Demon Jildrana"
+  },
+  "2335": {
+    "clarity_nt_char_2335": "clarity_nt_char_2335"
+  },
+  "2336": {
+    "廻風陣": "Cyclone"
+  },
+  "2337": {
+    "だいまじんＡ": "Stone Guardian A"
+  },
+  "2338": {
+    "clarity_nt_char_2338": "clarity_nt_char_2338"
+  },
+  "2339": {
+    "霊廟の猛将": "Tomb General"
+  },
+  "2340": {
+    "霊廟の冥妃": "Tomb Queen"
+  },
+  "2341": {
+    "霊廟の守護神": "Tomb Guardian"
+  },
+  "2342": {
+    "clarity_nt_char_2342": "clarity_nt_char_2342"
+  },
+  "2343": {
+    "ハナちゃん": "Flower-chan"
+  },
+  "2344": {
+    "ニコちゃん": "Nikochan"
+  },
+  "2345": {
+    "ナット": "Nut"
+  },
+  "2346": {
+    "エフェクト用ダミー": "Dummy Effect"
+  },
+  "2347": {
+    "天候変化終了": "Weather Change End"
+  },
+  "2348": {
+    "clarity_nt_char_2348": "clarity_nt_char_2348"
+  },
+  "2349": {
+    "うきわ": "Float"
+  },
+  "2350": {
+    "時増しの甲竜": "Time Wyrtle"
+  },
+  "2351": {
+    "clarity_nt_char_2351": "clarity_nt_char_2351"
+  },
+  "2352": {
+    "神殺しの槍": "God Kill Spear"
+  },
+  "2353": {
+    "黄金のあらくれ像": "Rough Gold Statue"
+  },
+  "2354": {
+    "clarity_nt_char_2354": "clarity_nt_char_2354"
+  },
+  "2355": {
+    "奏演王ベイオウルフ": "Performance King Beowulf"
+  },
+  "2356": {
+    "異界の尖兵": "Otherworld Soul"
+  },
+  "2357": {
+    "ブラックホール": "Black Hole"
+  },
+  "2358": {
+    "プチグレネーどり": "Frail Grenadory"
+  },
+  "2359": {
+    "clarity_nt_char_2359": "clarity_nt_char_2359"
+  },
+  "2360": {
+    "メレアーデ": "Mereade"
+  },
+  "2361": {
+    "SPアイテム": "Skill Pt Items"
+  },
+  "2362": {
+    "clarity_nt_char_2362": "clarity_nt_char_2362"
+  },
+  "2363": {
+    "罪業の怨霊": "Excalipurr"
+  },
+  "2364": {
+    "魔想念デルメゼ": "Demon Thought Delmeze"
+  },
+  "2365": {
+    "言声の化身": "Voice Incarnate"
+  },
+  "2366": {
+    "だいまじんＢ": "Stone Guardian B"
+  },
+  "2367": {
+    "clarity_nt_char_2367": "clarity_nt_char_2367"
+  },
+  "2368": {
+    "だいまじんＣ": "Stone Guardian C"
+  },
+  "2369": {
+    "clarity_nt_char_2369": "clarity_nt_char_2369"
+  },
+  "2370": {
+    "守護者ミトロン": "Guardian Mithron"
+  },
+  "2371": {
+    "だいまじんＤ": "Stone Guardian D"
+  },
+  "2372": {
+    "clarity_nt_char_2372": "clarity_nt_char_2372"
+  },
+  "2373": {
+    "だいまじんＥ": "Stone Guardian E"
+  },
+  "2374": {
+    "clarity_nt_char_2374": "clarity_nt_char_2374"
+  },
+  "2375": {
+    "だいまじんＦ": "Stone Guardian F"
+  },
+  "2376": {
+    "clarity_nt_char_2376": "clarity_nt_char_2376"
+  },
+  "2377": {
+    "海賊トニー": "Pirate Tony"
+  },
+  "2378": {
+    "海賊ベニー": "Pirate Benny"
+  },
+  "2379": {
+    "魔力球": "Powerball"
+  },
+  "2380": {
+    "高性能爆弾": "Big Boy Bombs"
+  },
+  "2381": {
+    "幻影獣": "Pheast"
+  },
+  "2382": {
+    "旅芸人ピュージュＩ": "Travel Entertainer Pyuju I"
+  },
+  "2383": {
+    "旅芸人ピュージュＪ": "Travel Entertainer Pyuju J"
+  },
+  "2384": {
+    "デモンズゲイトＡ": "Demon's Gate A"
+  },
+  "2385": {
+    "clarity_nt_char_2385": "clarity_nt_char_2385"
+  },
+  "2386": {
+    "デモンズゲイトＢ": "Demon's Gate B"
+  },
+  "2387": {
+    "clarity_nt_char_2387": "clarity_nt_char_2387"
+  },
+  "2388": {
+    "ボンジリ": "Bonjiri"
+  },
+  "2389": {
+    "clarity_nt_char_2389": "clarity_nt_char_2389"
+  },
+  "2390": {
+    "まだあたらしい傘": "Mint Condition Umbrella"
+  },
+  "2391": {
+    "clarity_nt_char_2391": "clarity_nt_char_2391"
+  },
+  "2392": {
+    "しんせんなイカ": "Squid Trophy"
+  },
+  "2393": {
+    "いきのいいサザエ": "Very Fresh Turban Shell"
+  },
+  "2394": {
+    "clarity_nt_char_2394": "clarity_nt_char_2394"
+  },
+  "2395": {
+    "ふるぼけたタライ": "Underpants Dance"
+  },
+  "2396": {
+    "clarity_nt_char_2396": "clarity_nt_char_2396"
+  },
+  "2397": {
+    "おでん": "Oden"
+  },
+  "2398": {
+    "大きなスイカ": "Giga Watermelon"
+  },
+  "2399": {
+    "clarity_nt_char_2399": "clarity_nt_char_2399"
+  },
+  "2400": {
+    "地下へつづく階段": "Stairs to the Underworld"
+  },
+  "2401": {
+    "clarity_nt_char_2401": "clarity_nt_char_2401"
+  },
+  "2402": {
+    "スピードアップ床": "Speed Up Floor"
+  },
+  "2403": {
+    "clarity_nt_char_2403": "clarity_nt_char_2403"
+  },
+  "2404": {
+    "大魔瘴": "Gigademon"
+  },
+  "2405": {
+    "時増しの魔鳥": "Demon Time Bird"
+  },
+  "2406": {
+    "clarity_nt_char_2406": "clarity_nt_char_2406"
+  },
+  "2407": {
+    "きまぐれ爆弾": "Fickle Bomb"
+  },
+  "2408": {
+    "clarity_nt_char_2408": "clarity_nt_char_2408"
+  },
+  "2409": {
+    "時増しの合成獣": "Time Synthetic Beast"
+  },
+  "2410": {
+    "破壊神の使徒": "Ruin God Apostle"
+  },
+  "2411": {
+    "clarity_nt_char_2411": "clarity_nt_char_2411"
+  },
+  "2412": {
+    "マスク・ド・ブギー": "Mask de Boogie"
+  },
+  "2413": {
+    "スマイリー・キラー": "Smiley Killer"
+  },
+  "2414": {
+    "アサシン・ニヒル": "Nihilassin"
+  },
+  "2415": {
+    "clarity_nt_char_2415": "clarity_nt_char_2415"
+  },
+  "2416": {
+    "マグマ": "Magma"
+  },
+  "2417": {
+    "呪闇わらし": "Speldrkrngscrew"
+  },
+  "2418": {
+    "剣魔の亡霊": "Ghost Swordsman"
+  },
+  "2419": {
+    "魔想念レギルラッゾ": "Demonic Thought Legirrazzo"
+  },
+  "2420": {
+    "呼声の化身": "Call Incarnate"
+  },
+  "2421": {
+    "大砲・南": "South Cannon"
+  },
+  "2422": {
+    "clarity_nt_char_2422": "clarity_nt_char_2422"
+  },
+  "2423": {
+    "ゴールドマンメッキス": "Fool's Gold"
+  },
+  "2424": {
+    "clarity_nt_char_2424": "clarity_nt_char_2424"
+  },
+  "2425": {
+    "ゴレムス": "Golem S"
+  },
+  "2426": {
+    "clarity_nt_char_2426": "clarity_nt_char_2426"
+  },
+  "2427": {
+    "ユーガ": "Yuga"
+  },
+  "2428": {
+    "ゴルドン": "Goldon"
+  },
+  "2429": {
+    "clarity_nt_char_2429": "clarity_nt_char_2429"
+  },
+  "2430": {
+    "魔瘴沼": "Gassy Bog"
+  },
+  "2431": {
+    "びっくりどっきり箱": "Surprise Prank Box"
+  },
+  "2432": {
+    "レトロな扇風機": "Retro Electric Fan"
+  },
+  "2433": {
+    "黄金のみたらし団子": "Golden Mitarashi Dumplings"
+  },
+  "2434": {
+    "黄金のかき氷": "Golden Shaved Ice"
+  },
+  "2435": {
+    "clarity_nt_char_2435": "clarity_nt_char_2435"
+  },
+  "2436": {
+    "時増しの門番": "Time Gatekeeper"
+  },
+  "2437": {
+    "clarity_nt_char_2437": "clarity_nt_char_2437"
+  },
+  "2438": {
+    "時増しの悪魔": "Time Devil"
+  },
+  "2439": {
+    "clarity_nt_char_2439": "clarity_nt_char_2439"
+  },
+  "2440": {
+    "恵みのはぐれ者": "Straggler of Grace"
+  },
+  "2441": {
+    "時増しの王": "Time King"
+  },
+  "2442": {
+    "万魔の獣王": "Manma BeastKing"
+  },
+  "2443": {
+    "時増しの大入道": "Giga Time Monster"
+  },
+  "2444": {
+    "時増しの炎馬": "Time Flame Horse"
+  },
+  "2445": {
+    "clarity_nt_char_2445": "clarity_nt_char_2445"
+  },
+  "2446": {
+    "トレジャーデモン": "Treasure Demon"
+  },
+  "2447": {
+    "clarity_nt_char_2447": "clarity_nt_char_2447"
+  },
+  "2448": {
+    "マグマプレート": "Magma Plate"
+  },
+  "2449": {
+    "サバイバルボックス": "Survival Box"
+  },
+  "2450": {
+    "魔道の亡霊": "Sorcery Spectre"
+  },
+  "2451": {
+    "サンバ・デ・ビーク": "Samba de Beak"
+  },
+  "2452": {
+    "アビサルシャーク": "Abyssal Shark"
+  },
+  "2453": {
+    "clarity_nt_char_2453": "clarity_nt_char_2453"
+  },
+  "2454": {
+    "ネジ": "Screw"
+  },
+  "2455": {
+    "clarity_nt_char_2455": "clarity_nt_char_2455"
+  },
+  "2456": {
+    "魔犬レオパルド": "Evil Sir Leopold"
+  },
+  "2457": {
+    "キャタピラー・強": "Evil Killerpillar"
+  },
+  "2458": {
+    "clarity_nt_char_2458": "clarity_nt_char_2458"
+  },
+  "2459": {
+    "金箱": "Golbox"
+  },
+  "2460": {
+    "clarity_nt_char_2460": "clarity_nt_char_2460"
+  },
+  "2461": {
+    "村人ジョルジュ": "Villager Georges"
+  },
+  "2462": {
+    "怒りの魔人": "Wrath Fiend"
+  },
+  "2463": {
+    "百怨邪ジャモー": "Many Grudges Jamo"
+  },
+  "2464": {
+    "邪神ピュージュ": "Evil God Pyuju"
+  },
+  "2465": {
+    "封印の守護者": "Seal Guardian"
+  },
+  "2466": {
+    "clarity_nt_char_2466": "clarity_nt_char_2466"
+  },
+  "2467": {
+    "カラミティドラゴン": "Calamity Dragon"
+  },
+  "2468": {
+    "スライムナイト・強": "Evil Slime Knight"
+  },
+  "2469": {
+    "バザックス・強": "Evil Tyrannoceratops"
+  },
+  "2470": {
+    "デビルアーマー・強": "Evil Harmour"
+  },
+  "2471": {
+    "サイレス・強": "Evil Gryphon"
+  },
+  "2472": {
+    "clarity_nt_char_2472": "clarity_nt_char_2472"
+  },
+  "2473": {
+    "ダークトロル": "Terror Troll"
+  },
+  "2474": {
+    "clarity_nt_char_2474": "clarity_nt_char_2474"
+  },
+  "2475": {
+    "ジェルソルジャー": "Gel Soldier"
+  },
+  "2476": {
+    "clarity_nt_char_2476": "clarity_nt_char_2476"
+  },
+  "2477": {
+    "キングスライム・強": "Evil King Slime"
+  },
+  "2478": {
+    "反逆者ゴッツェ": "Traitor Gotze"
+  },
+  "2479": {
+    "アトラスネオ": "Atlas Neo"
+  },
+  "2480": {
+    "clarity_nt_char_2480": "clarity_nt_char_2480"
+  },
+  "2481": {
+    "バズズエリート": "Elite Pazuzu"
+  },
+  "2482": {
+    "邪神ヴァニタトス": "Evil God Vanitatos"
+  },
+  "2483": {
+    "clarity_nt_char_2483": "clarity_nt_char_2483"
+  },
+  "2484": {
+    "黄金のかんむり": "Golden Crown"
+  },
+  "2485": {
+    "町娘エマ": "TownGal Emma"
+  },
+  "2486": {
+    "clarity_nt_char_2486": "clarity_nt_char_2486"
+  },
+  "2487": {
+    "栄光の玉座": "Throne of Glory"
+  },
+  "2488": {
+    "ネリもののふ": "Samurai Neri"
+  },
+  "2489": {
+    "clarity_nt_char_2489": "clarity_nt_char_2489"
+  },
+  "2490": {
+    "マタンゴ": "Toadstool"
+  },
+  "2491": {
+    "clarity_nt_char_2491": "clarity_nt_char_2491"
+  },
+  "2492": {
+    "海賊キッド": "Pirate Kid"
+  },
+  "2493": {
+    "闇の根源の呪縛": "Dark Source Curse"
+  },
+  "2494": {
+    "魔女オリビア": "Witch Olivia"
+  },
+  "2495": {
+    "clarity_nt_char_2495": "clarity_nt_char_2495"
+  },
+  "2496": {
+    "パンプキッズ・強": "Evil Pumpkin Kid"
+  },
+  "2497": {
+    "clarity_nt_char_2497": "clarity_nt_char_2497"
+  },
+  "2498": {
+    "ライオネック": "Hyperanemon"
+  },
+  "2499": {
+    "clarity_nt_char_2499": "clarity_nt_char_2499"
+  },
+  "2500": {
+    "ノエルデュラン": "Christmas Dhuran"
+  },
+  "2501": {
+    "ベリアルオリジン": "Belial Origins"
+  },
+  "2502": {
+    "clarity_nt_char_2502": "clarity_nt_char_2502"
+  },
+  "2503": {
+    "月守りの火焔": "Moon Guard Flame"
+  },
+  "2504": {
+    "clarity_nt_char_2504": "clarity_nt_char_2504"
+  },
+  "2505": {
+    "滅びの剣アンルシア": "Anlucia, Sword of Ruin"
+  },
+  "2506": {
+    "ダークネスマリン": "Darkness Marine"
+  },
+  "2507": {
+    "clarity_nt_char_2507": "clarity_nt_char_2507"
+  },
+  "2508": {
+    "絶望のダークネス": "Darkness of Despair"
+  },
+  "2509": {
+    "clarity_nt_char_2509": "clarity_nt_char_2509"
+  },
+  "2510": {
+    "やみ凶鳥": "Dark Gargoyl"
+  },
+  "2511": {
+    "clarity_nt_char_2511": "clarity_nt_char_2511"
+  },
+  "2512": {
+    "強化の陣": "Reinforcers"
+  },
+  "2513": {
+    "clarity_nt_char_2513": "clarity_nt_char_2513"
+  },
+  "2514": {
+    "闇の魔鐘": "Dark Bell"
+  },
+  "2515": {
+    "clarity_nt_char_2515": "clarity_nt_char_2515"
+  },
+  "2516": {
+    "時増しの女王": "Time Queen"
+  },
+  "2517": {
+    "clarity_nt_char_2517": "clarity_nt_char_2517"
+  },
+  "2518": {
+    "羅刹王バラシュナ": "Evil Beast Ranashna"
+  },
+  "2519": {
+    "clarity_nt_char_2519": "clarity_nt_char_2519"
+  },
+  "2520": {
+    "願いの霊獣": "Wish Beast"
+  },
+  "2521": {
+    "憎悪のダークネス": "Dark Hatred"
+  },
+  "2522": {
+    "clarity_nt_char_2522": "clarity_nt_char_2522"
+  },
+  "2523": {
+    "亡霊レブロ": "Ghost Lebro"
+  },
+  "2524": {
+    "闇の親衛隊Ｃ": "Dark Bodyguard C"
+  },
+  "2525": {
+    "clarity_nt_char_2525": "clarity_nt_char_2525"
+  },
+  "2526": {
+    "ある当主の仮面": "Master Mask"
+  },
+  "2527": {
+    "マデサゴーラ": "Madesagora"
+  },
+  "2528": {
+    "clarity_nt_char_2528": "clarity_nt_char_2528"
+  },
+  "2529": {
+    "ドラゴンライダー": "Dragon Rider"
+  },
+  "2530": {
+    "clarity_nt_char_2530": "clarity_nt_char_2530"
+  },
+  "2531": {
+    "土の祠の守護者": "Earth Shrine Guardian"
+  },
+  "2532": {
+    "ウォータスライダーク": "Waterslider"
+  },
+  "2533": {
+    "clarity_nt_char_2533": "clarity_nt_char_2533"
+  },
+  "2534": {
+    "タロット": "Tarot"
+  },
+  "2535": {
+    "clarity_nt_char_2535": "clarity_nt_char_2535"
+  },
+  "2536": {
+    "リリアーチ": "Arch Bodkin"
+  },
+  "2537": {
+    "破壊神シドー": "Malroth"
+  },
+  "2538": {
+    "clarity_nt_char_2538": "clarity_nt_char_2538"
+  },
+  "2539": {
+    "巨大魔瘴魂": "Soul Sphere"
+  },
+  "2540": {
+    "水の祠の守護者": "Water Shrine Guardian"
+  },
+  "2541": {
+    "凶拳暴鬼ダルカス": "Darkfist"
+  },
+  "2542": {
+    "clarity_nt_char_2542": "clarity_nt_char_2542"
+  },
+  "2543": {
+    "邪毒のウィーヌム": "Wienum"
+  },
+  "2544": {
+    "clarity_nt_char_2544": "clarity_nt_char_2544"
+  },
+  "2545": {
+    "メカジラフ": "Mecha Giraffe"
+  },
+  "2546": {
+    "暗黒の魔人強": "Apex Ruin"
+  },
+  "2547": {
+    "clarity_nt_char_2547": "clarity_nt_char_2547"
+  },
+  "2548": {
+    "心の闇": "Dark Mind"
+  },
+  "2549": {
+    "魔眼": "Eyasor"
+  },
+  "2550": {
+    "clarity_nt_char_2550": "clarity_nt_char_2550"
+  },
+  "2551": {
+    "邪神ヤファギル戒": "Yaphagil II"
+  },
+  "2552": {
+    "clarity_nt_char_2552": "clarity_nt_char_2552"
+  },
+  "2553": {
+    "邪神ヤファギル断": "Yaphagil"
+  },
+  "2554": {
+    "clarity_nt_char_2554": "clarity_nt_char_2554"
+  },
+  "2555": {
+    "邪神ヤファギル封": "Sealed Yaphagil"
+  },
+  "2556": {
+    "clarity_nt_char_2556": "clarity_nt_char_2556"
+  },
+  "2557": {
+    "大魔王ユシュカ": "Gr. Demon King Yushka"
+  },
+  "2558": {
+    "絶望の魔剣士": "Despair Swordsman"
+  },
+  "2559": {
+    "clarity_nt_char_2559": "clarity_nt_char_2559"
+  },
+  "2560": {
+    "ザハルピオン": "Zaharpion"
+  },
+  "2561": {
+    "clarity_nt_char_2561": "clarity_nt_char_2561"
+  },
+  "2562": {
+    "彩虹の死剣将グロズ": "General Gloss"
+  },
+  "2563": {
+    "花の祠の守護者": "Petal Shrine Guardian"
+  },
+  "2564": {
+    "風の祠の守護者": "Wind Shrine Guardian"
+  },
+  "2565": {
+    "プログラム用ダミー": "Program Dummy"
+  },
+  "2566": {
+    "がいこつⅡ": "Skeleton II"
+  },
+  "2567": {
+    "がいこつⅢ": "Skeleton III"
+  },
+  "2568": {
+    "がいこつ・凶": "Skeleton X"
+  },
+  "2569": {
+    "clarity_nt_char_2569": "clarity_nt_char_2569"
+  },
+  "2570": {
+    "ゴーストⅢ": "Ghost III"
+  },
+  "2571": {
+    "ゴースト・凶": "Evil Ghost"
+  },
+  "2572": {
+    "clarity_nt_char_2572": "clarity_nt_char_2572"
+  },
+  "2573": {
+    "よろいのきしⅡ": "Knight Errant 2"
+  },
+  "2574": {
+    "よろいのきしⅢ": "Knight Errant 3"
+  },
+  "2575": {
+    "よろいのきし・凶": "Knight Destructant"
+  },
+  "2576": {
+    "clarity_nt_char_2576": "clarity_nt_char_2576"
+  },
+  "2577": {
+    "魔元帥の剣": "Marshal's Sword"
+  },
+  "2578": {
+    "歯車": "Cog"
+  },
+  "2579": {
+    "clarity_nt_char_2579": "clarity_nt_char_2579"
+  },
+  "2580": {
+    "回復の柱": "Heal Pillar"
+  },
+  "2581": {
+    "clarity_nt_char_2581": "clarity_nt_char_2581"
+  },
+  "2582": {
+    "サンダーボルト": "Thunderbolt"
+  },
+  "2583": {
+    "テンションの柱": "Tension Pillar"
+  },
+  "2584": {
+    "星の陣": "Stars"
+  },
+  "2585": {
+    "愚者の陣": "Fools"
+  },
+  "2586": {
+    "clarity_nt_char_2586": "clarity_nt_char_2586"
+  },
+  "2587": {
+    "ネロドスシャドウ": "Nerodos' Shadow"
+  },
+  "2588": {
+    "clarity_nt_char_2588": "clarity_nt_char_2588"
+  },
+  "2589": {
+    "サンゴの牢獄": "Coral Prison"
+  },
+  "2590": {
+    "clarity_nt_char_2590": "clarity_nt_char_2590"
+  },
+  "2591": {
+    "守護の結晶": "Guardian Stone"
+  },
+  "2592": {
+    "岩石落とし": "Rock Drop"
+  },
+  "2593": {
+    "黄の守護石": "Yellow Stone"
+  },
+  "2594": {
+    "シャドウⅡ": "Shadow II"
+  },
+  "2595": {
+    "ゲノムデビル": "Hades Squid"
+  },
+  "2596": {
+    "clarity_nt_char_2596": "clarity_nt_char_2596"
+  },
+  "2597": {
+    "プレゼントボックス": "Gift Box"
+  },
+  "2598": {
+    "ダーククリスタル": "Dark Crystal"
+  },
+  "2599": {
+    "clarity_nt_char_2599": "clarity_nt_char_2599"
+  },
+  "2600": {
+    "防衛結界": "Barrier"
+  },
+  "2601": {
+    "clarity_nt_char_2601": "clarity_nt_char_2601"
+  },
+  "2602": {
+    "強化砲弾": "Super Shell"
+  },
+  "2603": {
+    "clarity_nt_char_2603": "clarity_nt_char_2603"
+  },
+  "2604": {
+    "大砲・北": "North Cannon"
+  },
+  "2605": {
+    "clarity_nt_char_2605": "clarity_nt_char_2605"
+  },
+  "2606": {
+    "攻城隊長ガンザン": "Siege Captain Ganzan"
+  },
+  "2607": {
+    "clarity_nt_char_2607": "clarity_nt_char_2607"
+  },
+  "2608": {
+    "しびれ砲弾": "Numbing Shells"
+  },
+  "2609": {
+    "オトリ召喚の札": "Otori Summon"
+  },
+  "2610": {
+    "ダークガイル": "Dark Guile"
+  },
+  "2611": {
+    "clarity_nt_char_2611": "clarity_nt_char_2611"
+  },
+  "2612": {
+    "護衛隊長グアルダ": "Escort Captain Guarda"
+  },
+  "2613": {
+    "clarity_nt_char_2613": "clarity_nt_char_2613"
+  },
+  "2614": {
+    "特攻隊長メガース": "Kamikaze Captain Megas"
+  },
+  "2615": {
+    "clarity_nt_char_2615": "clarity_nt_char_2615"
+  },
+  "2616": {
+    "バイオキラー": "Biokiller"
+  },
+  "2617": {
+    "clarity_nt_char_2617": "clarity_nt_char_2617"
+  },
+  "2618": {
+    "からくりランサー": "Bamboolancer"
+  },
+  "2619": {
+    "clarity_nt_char_2619": "clarity_nt_char_2619"
+  },
+  "2620": {
+    "ピノカノン": "Pinocanon"
+  },
+  "2621": {
+    "無念の怨霊": "Fowleye"
+  },
+  "2622": {
+    "強襲隊長シシオウ": "Assault Captain Shishi"
+  },
+  "2623": {
+    "clarity_nt_char_2623": "clarity_nt_char_2623"
+  },
+  "2624": {
+    "邪蒼鎧デルメゼ": "Blue Armor Delmeze"
+  },
+  "2625": {
+    "グリンパーム": "Green Palm"
+  },
+  "2626": {
+    "clarity_nt_char_2626": "clarity_nt_char_2626"
+  },
+  "2627": {
+    "きりこみプレート": "Aquatic Armour"
+  },
+  "2628": {
+    "clarity_nt_char_2628": "clarity_nt_char_2628"
+  },
+  "2629": {
+    "回復ドリンク": "Recovery Drink"
+  },
+  "2630": {
+    "clarity_nt_char_2630": "clarity_nt_char_2630"
+  },
+  "2631": {
+    "復活ドリンク": "Resurrection Drink"
+  },
+  "2632": {
+    "clarity_nt_char_2632": "clarity_nt_char_2632"
+  },
+  "2633": {
+    "猛攻の書": "Oomph Book"
+  },
+  "2634": {
+    "clarity_nt_char_2634": "clarity_nt_char_2634"
+  },
+  "2635": {
+    "神速の書": "Accel Book"
+  },
+  "2636": {
+    "clarity_nt_char_2636": "clarity_nt_char_2636"
+  },
+  "2637": {
+    "剛健の書": "Buff Book"
+  },
+  "2638": {
+    "clarity_nt_char_2638": "clarity_nt_char_2638"
+  },
+  "2639": {
+    "加重の書": "Thunk Book"
+  },
+  "2640": {
+    "clarity_nt_char_2640": "clarity_nt_char_2640"
+  },
+  "2641": {
+    "忘却の怨霊": "Hammibal"
+  },
+  "2642": {
+    "リトライストーン": "Retry Stone"
+  },
+  "2643": {
+    "clarity_nt_char_2643": "clarity_nt_char_2643"
+  },
+  "2644": {
+    "キノコ爆弾": "Mushroom Bomb"
+  },
+  "2645": {
+    "神殿の守護獣": "Temple Guard Beast"
+  },
+  "2646": {
+    "clarity_nt_char_2646": "clarity_nt_char_2646"
+  },
+  "2647": {
+    "闇黒の魔鐘": "Evil Magic Belt"
+  },
+  "2648": {
+    "神殿の巡回兵": "Temple Patrol"
+  },
+  "2649": {
+    "clarity_nt_char_2649": "clarity_nt_char_2649"
+  },
+  "2650": {
+    "神獣竜": "Godragon"
+  },
+  "2651": {
+    "ムドー": "Murdaw"
+  },
+  "2652": {
+    "神獣剣": "God Sword"
+  },
+  "2653": {
+    "不死王の陣": "Immortal Army"
+  },
+  "2654": {
+    "大闇黒の魔鐘": "Dark Magic Bell"
+  },
+  "2655": {
+    "clarity_nt_char_2655": "clarity_nt_char_2655"
+  },
+  "2656": {
+    "突撃隊長デスタン": "Assault Captain Destan"
+  },
+  "2657": {
+    "clarity_nt_char_2657": "clarity_nt_char_2657"
+  },
+  "2658": {
+    "けさぎりクローク": "Spirit Swordsman"
+  },
+  "2659": {
+    "clarity_nt_char_2659": "clarity_nt_char_2659"
+  },
+  "2660": {
+    "スカルキー": "Skull Key"
+  },
+  "2661": {
+    "大砲・結界前": "B4 Cannon/Barrier"
+  },
+  "2662": {
+    "clarity_nt_char_2662": "clarity_nt_char_2662"
+  },
+  "2663": {
+    "大砲・中央広場": "Cannon/Central Square"
+  },
+  "2664": {
+    "大砲・南口": "Cannon/S. Exit"
+  },
+  "2665": {
+    "デッドボーン": "Dead Bone"
+  },
+  "2666": {
+    "clarity_nt_char_2666": "clarity_nt_char_2666"
+  },
+  "2667": {
+    "パルプンテ": "Hocus Pocus"
+  },
+  "2668": {
+    "ビネガロンガ": "Vinegaronga"
+  },
+  "2669": {
+    "clarity_nt_char_2669": "clarity_nt_char_2669"
+  },
+  "2670": {
+    "侵攻隊長シザルグ": "Invasion Captain Sizarg"
+  },
+  "2671": {
+    "clarity_nt_char_2671": "clarity_nt_char_2671"
+  },
+  "2672": {
+    "ほうだんアント": "Dull Deetle"
+  },
+  "2673": {
+    "ヤケばち": "Translustick"
+  },
+  "2674": {
+    "clarity_nt_char_2674": "clarity_nt_char_2674"
+  },
+  "2675": {
+    "ツック法師": "Tugger"
+  },
+  "2676": {
+    "大砲・中央": "Central Cannon"
+  },
+  "2677": {
+    "ばけガニ": "Rabid Crabid"
+  },
+  "2678": {
+    "clarity_nt_char_2678": "clarity_nt_char_2678"
+  },
+  "2679": {
+    "アクアメーバ": "Aqua Amoeba"
+  },
+  "2680": {
+    "clarity_nt_char_2680": "clarity_nt_char_2680"
+  },
+  "2681": {
+    "とっしんアマモ": "Anguillalalala"
+  },
+  "2682": {
+    "掃討隊長バナゴル": "Mopping Captain Bangol"
+  },
+  "2683": {
+    "clarity_nt_char_2683": "clarity_nt_char_2683"
+  },
+  "2684": {
+    "やみよの鬼神": "Dark Berserker"
+  },
+  "2685": {
+    "clarity_nt_char_2685": "clarity_nt_char_2685"
+  },
+  "2686": {
+    "こけむしルドン": "Derelect Dragoon"
+  },
+  "2687": {
+    "キルリザード": "Mandrake Marine"
+  },
+  "2688": {
+    "clarity_nt_char_2688": "clarity_nt_char_2688"
+  },
+  "2689": {
+    "シグナリズム": "Slyfel Tower"
+  },
+  "2690": {
+    "clarity_nt_char_2690": "clarity_nt_char_2690"
+  },
+  "2691": {
+    "ぷちドス": "Stickybreath"
+  },
+  "2692": {
+    "clarity_nt_char_2692": "clarity_nt_char_2692"
+  },
+  "2693": {
+    "のっかりゼラチン": "Boingin' Knight"
+  },
+  "2694": {
+    "clarity_nt_char_2694": "clarity_nt_char_2694"
+  },
+  "2695": {
+    "撃滅隊長ジェリゴ": "Defeat Captain Jerigo"
+  },
+  "2696": {
+    "clarity_nt_char_2696": "clarity_nt_char_2696"
+  },
+  "2697": {
+    "スーラ": "Slime"
+  },
+  "2698": {
+    "ミラクルスライム": "Miracle Slime"
+  },
+  "2699": {
+    "clarity_nt_char_2699": "clarity_nt_char_2699"
+  },
+  "2700": {
+    "ビームレイン": "Beam Rain"
+  },
+  "2701": {
+    "clarity_nt_char_2701": "clarity_nt_char_2701"
+  },
+  "2702": {
+    "ダークネスボム": "Darkness Bomb"
+  },
+  "2703": {
+    "地脈湧点": "2x Ride Dmg"
+  },
+  "2704": {
+    "clarity_nt_char_2704": "clarity_nt_char_2704"
+  },
+  "2705": {
+    "ドクトリン": "Doctrine"
+  },
+  "2706": {
+    "スノーフォール": "Snowfall"
+  },
+  "2707": {
+    "早詠みの陣": "Quick Cast Ring"
+  },
+  "2708": {
+    "ネバネバ爆弾": "Sticky bomb"
+  },
+  "2709": {
+    "clarity_nt_char_2709": "clarity_nt_char_2709"
+  },
+  "2710": {
+    "魔蝕陣": "Eclipse"
+  },
+  "2711": {
+    "宝石魔術・月光": "Moonlight Jewel Magic"
+  },
+  "2712": {
+    "Ｇレプリカ": "G Replica"
+  },
+  "2713": {
+    "ゾンビブラザーズＡ": "Zombie Brother A"
+  },
+  "2714": {
+    "ゾンビブラザーズＢ": "Zombie Brother B"
+  },
+  "2715": {
+    "邪神ダビヤガ": "Evil God Dabiyaga"
+  },
+  "2716": {
+    "clarity_nt_char_2716": "clarity_nt_char_2716"
+  },
+  "2717": {
+    "闇の親衛隊Ａ": "Dark Bodyguard A"
+  },
+  "2718": {
+    "clarity_nt_char_2718": "clarity_nt_char_2718"
+  },
+  "2719": {
+    "魔結晶": "Crystevil"
+  },
+  "2720": {
+    "旅芸人ピュージュＦ": "Travel Entertainer Pyuju F"
+  },
+  "2721": {
+    "偉大な大砲": "Great Cannon"
+  },
+  "2722": {
+    "こぶたの線香": "Incense Stick"
+  },
+  "2723": {
+    "clarity_nt_char_2723": "clarity_nt_char_2723"
+  },
+  "2724": {
+    "闇の親衛隊Ｂ": "Dark Bodyguard B"
+  },
+  "2725": {
+    "clarity_nt_char_2725": "clarity_nt_char_2725"
+  },
+  "2726": {
+    "つかれきったサメ": "Lazy Larry"
+  },
+  "2727": {
+    "clarity_nt_char_2727": "clarity_nt_char_2727"
+  },
+  "2728": {
+    "ミーネ": "Mine"
+  },
+  "2729": {
+    "ホットなこたつ": "Hot kotatsu"
+  },
+  "2730": {
+    "バナナの皮": "Banana Peel"
+  },
+  "2731": {
+    "チャンプ": "Champ"
+  },
+  "2732": {
+    "clarity_nt_char_2732": "clarity_nt_char_2732"
+  },
+  "2733": {
+    "ファーラット・強": "Evil Feralball"
+  },
+  "2734": {
+    "clarity_nt_char_2734": "clarity_nt_char_2734"
+  },
+  "2735": {
+    "青の守護石": "Blue Stone"
+  },
+  "2736": {
+    "さんぞくウルフ・強": "Apex Ruff Ruffian"
+  },
+  "2737": {
+    "どくろあらい・強": "Evil Haardvark"
+  },
+  "2738": {
+    "clarity_nt_char_2738": "clarity_nt_char_2738"
+  },
+  "2739": {
+    "大砲の弾": "Cannonball"
+  },
+  "2740": {
+    "clarity_nt_char_2740": "clarity_nt_char_2740"
+  },
+  "2741": {
+    "時増しの石像": "Stone Time Statue"
+  },
+  "2742": {
+    "clarity_nt_char_2742": "clarity_nt_char_2742"
+  },
+  "2743": {
+    "時増しの巨竜": "Giant Time dragon"
+  },
+  "2744": {
+    "clarity_nt_char_2744": "clarity_nt_char_2744"
+  },
+  "2745": {
+    "イチゴかき氷": "Sberry Shaved Ice"
+  },
+  "2746": {
+    "clarity_nt_char_2746": "clarity_nt_char_2746"
+  },
+  "2747": {
+    "スコアアップ": "Score Up"
+  },
+  "2748": {
+    "clarity_nt_char_2748": "clarity_nt_char_2748"
+  },
+  "2749": {
+    "時間延長": "Time Extend"
+  },
+  "2750": {
+    "clarity_nt_char_2750": "clarity_nt_char_2750"
+  },
+  "2751": {
+    "ワープ": "Warp"
+  },
+  "2752": {
+    "トライロック４": "Trilock 4"
+  },
+  "2753": {
+    "フギンムニン": "Fuginmunin"
+  },
+  "2754": {
+    "clarity_nt_char_2754": "clarity_nt_char_2754"
+  },
+  "2755": {
+    "やみよの邪鬼": "Dark Headhunter"
+  },
+  "2756": {
+    "clarity_nt_char_2756": "clarity_nt_char_2756"
+  },
+  "2757": {
+    "魔瘴魂ゼノドラゴン": "Miasma Soul Xenodragon"
+  },
+  "2758": {
+    "神獣鎧": "God Armor"
+  },
+  "2759": {
+    "冥王の影": "Shadow Lord"
+  },
+  "2760": {
+    "clarity_nt_char_2760": "clarity_nt_char_2760"
+  },
+  "2761": {
+    "やみの甲竜": "Dark Wyrtle"
+  },
+  "2762": {
+    "月守りの獄獣": "Moon Guard Beast"
+  },
+  "2763": {
+    "clarity_nt_char_2763": "clarity_nt_char_2763"
+  },
+  "2764": {
+    "ホースデビル・強": "Evil Gamigin"
+  },
+  "2765": {
+    "clarity_nt_char_2765": "clarity_nt_char_2765"
+  },
+  "2766": {
+    "グレネーどり": "Grenadory"
+  },
+  "2767": {
+    "clarity_nt_char_2767": "clarity_nt_char_2767"
+  },
+  "2768": {
+    "Ｓグレネーどり": "S Grenadory"
+  },
+  "2769": {
+    "やみよの暴霊": "Dark Entourage"
+  },
+  "2770": {
+    "clarity_nt_char_2770": "clarity_nt_char_2770"
+  },
+  "2771": {
+    "ムシカキ": "Musikaki"
+  },
+  "2772": {
+    "clarity_nt_char_2772": "clarity_nt_char_2772"
+  },
+  "2773": {
+    "怪魔鳥バトロウス": "Monstrous Bird Batros"
+  },
+  "2774": {
+    "clarity_nt_char_2774": "clarity_nt_char_2774"
+  },
+  "2775": {
+    "奈落の宝石": "Abyssal Jewel"
+  },
+  "2776": {
+    "しられざる神殿の絵": "Picture of Unknown Temple"
+  },
+  "2777": {
+    "邪眼の魔女レシア": "Evil Eye Witch Reshia"
+  },
+  "2778": {
+    "clarity_nt_char_2778": "clarity_nt_char_2778"
+  },
+  "2779": {
+    "チャージタイム回復": "Charge Time Recovery"
+  },
+  "2780": {
+    "セン": "Plug"
+  },
+  "2781": {
+    "clarity_nt_char_2781": "clarity_nt_char_2781"
+  },
+  "2782": {
+    "疾風のサザンクロス": "Gale of the Southern Cross"
+  },
+  "2783": {
+    "魔伯爵シディア": "Demon Count Cydia"
+  },
+  "2784": {
+    "オン": "On"
+  },
+  "2785": {
+    "clarity_nt_char_2785": "clarity_nt_char_2785"
+  },
+  "2786": {
+    "遺跡の守護者": "Ruin Guardian"
+  },
+  "2787": {
+    "clarity_nt_char_2787": "clarity_nt_char_2787"
+  },
+  "2788": {
+    "アメジストクラブ": "Amethyst Crab"
+  },
+  "2789": {
+    "clarity_nt_char_2789": "clarity_nt_char_2789"
+  },
+  "2790": {
+    "あくま神官・強": "Vcs. Wrecktor"
+  },
+  "2791": {
+    "アームライオン・強": "Evil Hellion"
+  },
+  "2792": {
+    "リザードマン・強": "Evil Mandrake Major"
+  },
+  "2793": {
+    "clarity_nt_char_2793": "clarity_nt_char_2793"
+  },
+  "2794": {
+    "じゃんぼりぃ": "Janbori"
+  },
+  "2795": {
+    "clarity_nt_char_2795": "clarity_nt_char_2795"
+  },
+  "2796": {
+    "旅の博士": "Travel Dr."
+  },
+  "2797": {
+    "clarity_nt_char_2797": "clarity_nt_char_2797"
+  },
+  "2798": {
+    "ブルーバリア": "Blue Barrier"
+  },
+  "2799": {
+    "clarity_nt_char_2799": "clarity_nt_char_2799"
+  },
+  "2800": {
+    "イエローバリア": "Yellow Barrier"
+  },
+  "2801": {
+    "天候変化開始": "Weather Change Go"
+  },
+  "2802": {
+    "clarity_nt_char_2802": "clarity_nt_char_2802"
+  },
+  "2803": {
+    "封印の伝道者": "Seal Preacher"
+  },
+  "2804": {
+    "clarity_nt_char_2804": "clarity_nt_char_2804"
+  },
+  "2805": {
+    "財宝のつまった箱": "Full Treasure Box"
+  },
+  "2806": {
+    "clarity_nt_char_2806": "clarity_nt_char_2806"
+  },
+  "2807": {
+    "サウザンルビー": "Southern Ruby"
+  },
+  "2808": {
+    "高価なゴブレット": "Expensive Goblet"
+  },
+  "2809": {
+    "clarity_nt_char_2809": "clarity_nt_char_2809"
+  },
+  "2810": {
+    "スフィンクス": "Sphinx"
+  },
+  "2811": {
+    "clarity_nt_char_2811": "clarity_nt_char_2811"
+  },
+  "2812": {
+    "ギガミート": "Giga Meat"
+  },
+  "2813": {
+    "死神の陣": "Reaper Gang"
+  },
+  "2814": {
+    "clarity_nt_char_2814": "clarity_nt_char_2814"
+  },
+  "2815": {
+    "雷撃着弾": "Bolt Impact"
+  },
+  "2816": {
+    "clarity_nt_char_2816": "clarity_nt_char_2816"
+  },
+  "2817": {
+    "凍れる時獄の秘法": "Frozen Time Secret"
+  },
+  "2818": {
+    "clarity_nt_char_2818": "clarity_nt_char_2818"
+  },
+  "2819": {
+    "こわれたスロット": "Broken Slot Machine"
+  },
+  "2820": {
+    "clarity_nt_char_2820": "clarity_nt_char_2820"
+  },
+  "2821": {
+    "メッキのトロフィー": "Plated Trophy"
+  },
+  "2822": {
+    "うさみみソルジャー": "Robber Rabbit"
+  },
+  "2823": {
+    "トンブレロ・強": "Evil Ham Shamwitch"
+  },
+  "2824": {
+    "ベスちゃん": "Beth-chan"
+  },
+  "2825": {
+    "すいしょう玉": "Crystal Ball"
+  },
+  "2826": {
+    "clarity_nt_char_2826": "clarity_nt_char_2826"
+  },
+  "2827": {
+    "ベレス・強": "Evil Beleth"
+  },
+  "2828": {
+    "ダッシュラン・強": "Evil Drag Racer"
+  },
+  "2829": {
+    "clarity_nt_char_2829": "clarity_nt_char_2829"
+  },
+  "2830": {
+    "じごくのおくり火": "Lava Lampling"
+  },
+  "2831": {
+    "clarity_nt_char_2831": "clarity_nt_char_2831"
+  },
+  "2832": {
+    "ひえたお弁当": "Rice Balls"
+  },
+  "2833": {
+    "clarity_nt_char_2833": "clarity_nt_char_2833"
+  },
+  "2834": {
+    "レモンくん": "Lemon"
+  },
+  "2835": {
+    "床マン": "Floor Man"
+  },
+  "2836": {
+    "フェアリーバット": "Fruity Succubat"
+  },
+  "2837": {
+    "clarity_nt_char_2837": "clarity_nt_char_2837"
+  },
+  "2838": {
+    "大砲": "Cannon"
+  },
+  "2839": {
+    "clarity_nt_char_2839": "clarity_nt_char_2839"
+  },
+  "2840": {
+    "サティ": "Sati"
+  },
+  "2841": {
+    "凶神官ゴウフウ": "Evil Priest Gohu"
+  },
+  "2842": {
+    "極夜の剣帝": "Polar Emperor"
+  },
+  "2843": {
+    "蒼撃の戦神": "Blue War God"
+  },
+  "2844": {
+    "紅炎の闘将": "Red Flame Gen."
+  },
+  "2845": {
+    "呪帯の紋掌": "Handcrest Curse"
+  },
+  "2846": {
+    "深淵の海王竜": "Abyss Seadragon"
+  },
+  "2847": {
+    "clarity_nt_char_2847": "clarity_nt_char_2847"
+  },
+  "2848": {
+    "混沌の水魔": "Chaos Mer Demon"
+  },
+  "2849": {
+    "妄念の幽鬼": "Delusion Ghost"
+  },
+  "2850": {
+    "煉獄の岩塊": "Purgatory Rock"
+  },
+  "2851": {
+    "具現する海魔": "Embodied Sea Demon"
+  },
+  "2852": {
+    "clarity_nt_char_2852": "clarity_nt_char_2852"
+  },
+  "2853": {
+    "海魔の系統": "Sea Demon Clan"
+  },
+  "2854": {
+    "氷獄の罪人": "Ice Hell Sinner"
+  },
+  "2855": {
+    "深淵の魔導将": "Abyss General"
+  },
+  "2856": {
+    "clarity_nt_char_2856": "clarity_nt_char_2856"
+  },
+  "2857": {
+    "まどろみの手": "Slumbering Hand"
+  },
+  "2858": {
+    "clarity_nt_char_2858": "clarity_nt_char_2858"
+  },
+  "2859": {
+    "深海にうごめくもの": "Deep Sea Lurker"
+  },
+  "2860": {
+    "魔境の獄卒": "Hell Guard"
+  },
+  "2861": {
+    "プリズンロック": "Prison Lock"
+  },
+  "2862": {
+    "ドラゴンキッズ・強": "Evil Small Fry"
+  },
+  "2863": {
+    "もどりのつばさ": "cannon teleport"
+  },
+  "2864": {
+    "憤怒のイフリート": "Efreet of Rage"
+  },
+  "2865": {
+    "clarity_nt_char_2865": "clarity_nt_char_2865"
+  },
+  "2866": {
+    "トライロック２": "Trilock 2"
+  },
+  "2867": {
+    "スケアフレイル": "Dark Dullahan"
+  },
+  "2868": {
+    "始源の甲竜": "Origin Dragon"
+  },
+  "2869": {
+    "激憤の魔瘴竜": "Rage Miasma Dragon"
+  },
+  "2870": {
+    "clarity_nt_char_2870": "clarity_nt_char_2870"
+  },
+  "2871": {
+    "アイテム３": "Item 3"
+  },
+  "2872": {
+    "トライロック５": "Trilock 5"
+  },
+  "2873": {
+    "はぐれジュエル": "Liquid Jewel Slime"
+  },
+  "2874": {
+    "紫ジュエル": "Purple Jewel"
+  },
+  "2875": {
+    "灰塵の豪雷将バルケ": "Thunder General of Ash"
+  },
+  "2876": {
+    "絶品おつまみ": "Superb Snack"
+  },
+  "2877": {
+    "clarity_nt_char_2877": "clarity_nt_char_2877"
+  },
+  "2878": {
+    "ヘルビースト・強": "Evil Sculptrice"
+  },
+  "2879": {
+    "clarity_nt_char_2879": "clarity_nt_char_2879"
+  },
+  "2880": {
+    "たてまじん・強": "Evil Peekabogre"
+  },
+  "2881": {
+    "英雄王の領域": "Hero King Realm"
+  },
+  "2882": {
+    "clarity_nt_char_2882": "clarity_nt_char_2882"
+  },
+  "2883": {
+    "どこかのバスタブ": "Bathtub"
+  },
+  "2884": {
+    "clarity_nt_char_2884": "clarity_nt_char_2884"
+  },
+  "2885": {
+    "エンタシスマン・強": "Apex Prancing Pillar"
+  },
+  "2886": {
+    "歌声の化身": "Song Incarnate"
+  },
+  "2887": {
+    "月守りの牛鬼": "Moonguard Ushi"
+  },
+  "2888": {
+    "clarity_nt_char_2888": "clarity_nt_char_2888"
+  },
+  "2889": {
+    "月の陣": "Moon Clan"
+  },
+  "2890": {
+    "マギロッド": "Magirod"
+  },
+  "2891": {
+    "ゴーストⅡ": "Ghost II"
+  },
+  "2892": {
+    "オトリストーン": "Otoristone"
+  },
+  "2893": {
+    "ダメージ床": "Damaged Floor"
+  },
+  "2894": {
+    "魔創兵Ａ": "Evil Troop A"
+  },
+  "2895": {
+    "clarity_nt_char_2895": "clarity_nt_char_2895"
+  },
+  "2896": {
+    "魔創兵長": "Troop Gen."
+  },
+  "2897": {
+    "clarity_nt_char_2897": "clarity_nt_char_2897"
+  },
+  "2898": {
+    "魔創兵Ｂ": "Evil Troop B"
+  },
+  "2899": {
+    "clarity_nt_char_2899": "clarity_nt_char_2899"
+  },
+  "2900": {
+    "ライムくん": "Mr. Lime"
+  },
+  "2901": {
+    "ギガントヒルズ・強": "Evil Drakularge"
+  },
+  "2902": {
+    "ドロヌーバ・強": "Evil Mudraker"
+  },
+  "2903": {
+    "暗殺者": "Assassin"
+  },
+  "2904": {
+    "よろいのきしⅠ": "Knight Errant 1"
+  },
+  "2905": {
+    "冥王の鎌設置技": "Hades Sickle Skill"
+  },
+  "2906": {
+    "夜天に飛来せしもの": "Cold Night Flyer"
+  },
+  "2907": {
+    "死の道化師": "Death Clown"
+  },
+  "2908": {
+    "ホークマン・強": "Evil Hawk Man"
+  },
+  "2909": {
+    "ぎんの女神像": "Svr Goddess Statue"
+  },
+  "2910": {
+    "clarity_nt_char_2910": "clarity_nt_char_2910"
+  },
+  "2911": {
+    "猛る槌矛のガイオウ": "Gaiou, Hammer and Pike"
+  },
+  "2912": {
+    "漆黒の匪賊ギャレス": "Black Bandit, Gareth"
+  },
+  "2913": {
+    "みのしまったタイ": "Minoshita Thailand"
+  },
+  "2914": {
+    "clarity_nt_char_2914": "clarity_nt_char_2914"
+  },
+  "2915": {
+    "ネジゾーン": "Screw Zone"
+  },
+  "2916": {
+    "歯車ゾーン": "Cog Zone"
+  },
+  "2917": {
+    "お宝ゾーン": "Treasure Zone"
+  },
+  "2918": {
+    "金のにわとり": "Golden Chicken"
+  },
+  "2919": {
+    "clarity_nt_char_2919": "clarity_nt_char_2919"
+  },
+  "2920": {
+    "魔力ドリンク": "Magical Drink"
+  },
+  "2921": {
+    "clarity_nt_char_2921": "clarity_nt_char_2921"
+  },
+  "2922": {
+    "クリムゾンレプリカ": "Crimson Replica"
+  },
+  "2923": {
+    "旅芸人ピュージュＧ": "Travel Entertainer Pyuju G"
+  },
+  "2924": {
+    "旅芸人ピュージュＨ": "Travel Entertainer Pyuju H"
+  },
+  "2925": {
+    "ホーリージャミラス": "Divine Jamirus"
+  },
+  "2926": {
+    "時増しの巨人": "Time Titan"
+  },
+  "2927": {
+    "clarity_nt_char_2927": "clarity_nt_char_2927"
+  },
+  "2928": {
+    "みたらし団子": "Mitarashi dango"
+  },
+  "2929": {
+    "clarity_nt_char_2929": "clarity_nt_char_2929"
+  },
+  "2930": {
+    "金縛りの札": "Gold Bound Bill"
+  },
+  "2931": {
+    "にわとり": "Chicken"
+  },
+  "2932": {
+    "clarity_nt_char_2932": "clarity_nt_char_2932"
+  },
+  "2933": {
+    "スブラキ": "Souvlaki"
+  },
+  "2934": {
+    "clarity_nt_char_2934": "clarity_nt_char_2934"
+  },
+  "2935": {
+    "古代の電池": "Ancient battery"
+  },
+  "2936": {
+    "時増しの鬼王": "Demon Time King"
+  },
+  "2937": {
+    "clarity_nt_char_2937": "clarity_nt_char_2937"
+  },
+  "2938": {
+    "やみの獣士": "Dark Moosifer"
+  },
+  "2939": {
+    "南国パイン": "Pineapple"
+  },
+  "2940": {
+    "シャドウⅢ": "Shadow III"
+  },
+  "2941": {
+    "大砲着弾": "Cannon Hit"
+  },
+  "2942": {
+    "clarity_nt_char_2942": "clarity_nt_char_2942"
+  },
+  "2943": {
+    "移動対象": "Moving Thing"
+  },
+  "2944": {
+    "clarity_nt_char_2944": "clarity_nt_char_2944"
+  },
+  "2945": {
+    "雷の床": "Ltn.Floor"
+  },
+  "2946": {
+    "がいこつⅠ": "Skeleton I"
+  },
+  "2947": {
+    "時増しの獣鬼": "Time Beast"
+  },
+  "2948": {
+    "clarity_nt_char_2948": "clarity_nt_char_2948"
+  },
+  "2949": {
+    "あやしい本": "Sus book"
+  },
+  "2950": {
+    "ゴーストⅠ": "Ghost I"
+  },
+  "2951": {
+    "サファイアボム": "Sapphire Bomb"
+  },
+  "2952": {
+    "モリーサタン": "Morrimp"
+  },
+  "2953": {
+    "clarity_nt_char_2953": "clarity_nt_char_2953"
+  },
+  "2954": {
+    "封印の先兵": "Sealed Vanguard"
+  },
+  "2955": {
+    "トライロック７": "Trilock 7"
+  },
+  "2956": {
+    "アイテム": "Item"
+  },
+  "2957": {
+    "clarity_nt_char_2957": "clarity_nt_char_2957"
+  },
+  "2958": {
+    "冥闇の聖柱": "Dark Pillar"
+  },
+  "2959": {
+    "白ジュエル": "White Jewel"
+  },
+  "2960": {
+    "黄ジュエル": "Yellow Jewel"
+  },
+  "2961": {
+    "ミラクルボックス": "Miracle Box"
+  },
+  "2962": {
+    "clarity_nt_char_2962": "clarity_nt_char_2962"
+  },
+  "2963": {
+    "スピンネイル": "Spin Nail"
+  },
+  "2964": {
+    "clarity_nt_char_2964": "clarity_nt_char_2964"
+  },
+  "2965": {
+    "メロンかき氷": "Melon Shaved Ice"
+  },
+  "2966": {
+    "clarity_nt_char_2966": "clarity_nt_char_2966"
+  },
+  "2967": {
+    "ジングルグラコス": "Jingle Gracos"
+  },
+  "2968": {
+    "clarity_nt_char_2968": "clarity_nt_char_2968"
+  },
+  "2969": {
+    "巨大リルグレイド": "Giga Lil' Grade"
+  },
+  "2970": {
+    "clarity_nt_char_2970": "clarity_nt_char_2970"
+  },
+  "2971": {
+    "ブルーハワイかき氷": "Blue Hawaii Shaved Ice"
+  },
+  "2972": {
+    "水ジュエル": "Water Jewel"
+  },
+  "2973": {
+    "猛爆隊長ダイノス": "Bomb Captain Dinos"
+  },
+  "2974": {
+    "clarity_nt_char_2974": "clarity_nt_char_2974"
+  },
+  "2975": {
+    "プリズンキー": "Prison Key"
+  },
+  "2976": {
+    "clarity_nt_char_2976": "clarity_nt_char_2976"
+  },
+  "2977": {
+    "上限アップ": "Upgrade"
+  },
+  "2978": {
+    "やみの妖眼": "Dark Lunatick"
+  },
+  "2979": {
+    "やみ亡者": "Dark Shadow"
+  },
+  "2980": {
+    "clarity_nt_char_2980": "clarity_nt_char_2980"
+  },
+  "2981": {
+    "万魔の機竜": "Manma Mechagon"
+  },
+  "2982": {
+    "万魔の戦鬼": "Manma War Ghost"
+  },
+  "2983": {
+    "万魔の巨竜": "Manma Gigagon"
+  },
+  "2984": {
+    "赤ジュエル": "Red Jewel"
+  },
+  "2985": {
+    "アイテム１": "Item 1"
+  },
+  "2986": {
+    "闇魔の息吹": "Dark Breath"
+  },
+  "2987": {
+    "プチ暗黒の魔人": "Frail Ruin"
+  },
+  "2988": {
+    "かげわらし": "Slickspittle"
+  },
+  "2989": {
+    "ちびゴラ": "Dinkagon"
+  },
+  "2990": {
+    "clarity_nt_char_2990": "clarity_nt_char_2990"
+  },
+  "2991": {
+    "虚空の残影": "Void Remnants"
+  },
+  "2992": {
+    "とこしえの巨兵": "Eternal Gigantes"
+  },
+  "2993": {
+    "怨嗟のジン": "Grudge Djinn"
+  },
+  "2994": {
+    "トライロック１": "Trilock 1"
+  },
+  "2995": {
+    "アイテム２": "Item 2"
+  },
+  "2996": {
+    "月守りの虚像": "Moon Guard Statue"
+  },
+  "2997": {
+    "clarity_nt_char_2997": "clarity_nt_char_2997"
+  },
+  "2998": {
+    "神獣馬": "God Horse"
+  },
+  "2999": {
+    "未確認飛行物体": "UFO"
+  },
+  "3000": {
+    "魔幻の剣士": "Magic Swordsman"
+  },
+  "3001": {
+    "魔幻の騎士": "Shining Knight"
+  },
+  "3002": {
+    "高機動スピンネイル": "High Mobility Spin Nail"
+  },
+  "3003": {
+    "剛拳王ナーグル": "Sturdy King Nurgle"
+  },
+  "3004": {
+    "奈落にひそむもの": "Abyss Lurker"
+  },
+  "3005": {
+    "clarity_nt_char_3005": "clarity_nt_char_3005"
+  },
+  "3006": {
+    "冥海の悪魔": "Dark Sea Demon"
+  },
+  "3007": {
+    "トライロック３": "Trilock 3"
+  },
+  "3008": {
+    "アイテムジュエル": "Item Jewel"
+  },
+  "3009": {
+    "clarity_nt_char_3009": "clarity_nt_char_3009"
+  },
+  "3010": {
+    "魔力薬": "Magic Med"
+  },
+  "3011": {
+    "復活薬": "ReviveMed"
+  },
+  "3012": {
+    "リースアクバー": "Wreath Blackmar"
+  },
+  "3013": {
+    "メランコロック": "Melanco Rock"
+  },
+  "3014": {
+    "惰眠の宝石": "Sleeping Jewel"
+  },
+  "3015": {
+    "嵐禍の陣": "Strom Clan"
+  },
+  "3016": {
+    "clarity_nt_char_3016": "clarity_nt_char_3016"
+  },
+  "3017": {
+    "永劫の魔神": "Eternal Demon"
+  },
+  "3018": {
+    "トライロック６": "Trilock 6"
+  },
+  "3019": {
+    "回復薬": "Rest. Med"
+  },
+  "3020": {
+    "セピアン": "Sepian"
+  },
+  "3021": {
+    "clarity_nt_char_3021": "clarity_nt_char_3021"
+  },
+  "3022": {
+    "ゲソッズ": "Gesoze"
+  },
+  "3023": {
+    "clarity_nt_char_3023": "clarity_nt_char_3023"
+  },
+  "3024": {
+    "イケイオス": "Inkaos"
+  },
+  "3025": {
+    "ヘルサーディン": "Hellsardine"
+  },
+  "3026": {
+    "カマンベイベー": "Camembaby"
+  },
+  "3027": {
+    "マスカルポンポン": "Mascarponpon"
+  },
+  "3028": {
+    "clarity_nt_char_3028": "clarity_nt_char_3028"
+  },
+  "3029": {
+    "ゴルゴンゾンビ": "Gorgon Zombie"
+  },
+  "3030": {
+    "カイザー先生": "Master Kaiser"
+  },
+  "3031": {
+    "clarity_nt_char_3031": "clarity_nt_char_3031"
+  },
+  "3032": {
+    "ビスト先生": "Master Bist"
+  },
+  "3033": {
+    "クリスティーヌ先生": "Master Christine"
+  },
+  "3034": {
+    "マジンガ先生": "Master Mazinga"
+  },
+  "3035": {
+    "clarity_nt_char_3035": "clarity_nt_char_3035"
+  },
+  "3036": {
+    "ステューデントＢ": "Student B"
+  },
+  "3037": {
+    "clarity_nt_char_3037": "clarity_nt_char_3037"
+  },
+  "3038": {
+    "ステューデントＳ": "Student S"
+  },
+  "3039": {
+    "clarity_nt_char_3039": "clarity_nt_char_3039"
+  },
+  "3040": {
+    "ステューデントＲ": "Student R"
+  },
+  "3041": {
+    "clarity_nt_char_3041": "clarity_nt_char_3041"
+  },
+  "3042": {
+    "ステューデントＧ": "Student G"
+  },
+  "3043": {
+    "clarity_nt_char_3043": "clarity_nt_char_3043"
+  },
+  "3044": {
+    "シャドウ": "Shadow"
+  },
+  "3045": {
+    "clarity_nt_char_3045": "clarity_nt_char_3045"
+  },
+  "3046": {
+    "学びの水晶": "Learn Crystal"
+  },
+  "3047": {
+    "フレア先生": "Master Flare"
+  },
+  "3048": {
+    "グルービー先生": "Master Groovy"
+  },
+  "3049": {
+    "グルーヴダンサーズ": "Groove Dancers"
+  },
+  "3050": {
+    "シナイジッチ": "Shinai Zichy"
+  },
+  "3051": {
+    "clarity_nt_char_3051": "clarity_nt_char_3051"
+  },
+  "3052": {
+    "オデット": "Odette"
+  },
+  "3053": {
+    "clarity_nt_char_3053": "clarity_nt_char_3053"
+  },
+  "3054": {
+    "ロルカ": "Lorca"
+  },
+  "3055": {
+    "ホグラム": "Hologram"
+  },
+  "3056": {
+    "clarity_nt_char_3056": "clarity_nt_char_3056"
+  },
+  "3057": {
+    "キルベル": "Kirbel"
+  },
+  "3058": {
+    "clarity_nt_char_3058": "clarity_nt_char_3058"
+  },
+  "3059": {
+    "魔族リソル": "Demon Resol"
+  },
+  "3060": {
+    "狂想鬼メルジオル": "Mad Ghost Merjol"
+  },
+  "3061": {
+    "clarity_nt_char_3061": "clarity_nt_char_3061"
+  },
+  "3062": {
+    "ムータ先生": "Master Muta"
+  },
+  "3063": {
+    "ギオーダ": "Gioda"
+  },
+  "3064": {
+    "clarity_nt_char_3064": "clarity_nt_char_3064"
+  },
+  "3065": {
+    "ガガンマ": "Gagamma"
+  },
+  "3066": {
+    "clarity_nt_char_3066": "clarity_nt_char_3066"
+  },
+  "3067": {
+    "ヤッガイ": "Yuggai"
+  },
+  "3068": {
+    "clarity_nt_char_3068": "clarity_nt_char_3068"
+  },
+  "3069": {
+    "ディラック先生": "Master Dilak"
+  },
+  "3070": {
+    "ニコラオス先生": "Master Nicolas"
+  },
+  "3071": {
+    "シュメリア": "Sumeria"
+  },
+  "3072": {
+    "異界の守護者": "Spirit World Guard"
+  },
+  "3073": {
+    "clarity_nt_char_3073": "clarity_nt_char_3073"
+  },
+  "3074": {
+    "精霊の番人": "Spirit Keeper"
+  },
+  "3075": {
+    "願いの少年": "Wishing Boy"
+  },
+  "3076": {
+    "封印の守護者・右": "Seal Guardian - Right"
+  },
+  "3077": {
+    "clarity_nt_char_3077": "clarity_nt_char_3077"
+  },
+  "3078": {
+    "狂乱の破壊神": "Mad Rend God"
+  },
+  "3079": {
+    "clarity_nt_char_3079": "clarity_nt_char_3079"
+  },
+  "3080": {
+    "ヨミの狩人": "Hunter Yomi"
+  },
+  "3081": {
+    "封印の守護者・左": "Seal Guardian - Left"
+  },
+  "3082": {
+    "clarity_nt_char_3082": "clarity_nt_char_3082"
+  },
+  "3083": {
+    "グリードイーター": "Greed Eater"
+  },
+  "3084": {
+    "clarity_nt_char_3084": "clarity_nt_char_3084"
+  },
+  "3085": {
+    "魔想念ローガスト": "Demonic Thought Logast"
+  },
+  "3086": {
+    "clarity_nt_char_3086": "clarity_nt_char_3086"
+  },
+  "3087": {
+    "決戦用砲台Ａ": "War Battery A"
+  },
+  "3088": {
+    "clarity_nt_char_3088": "clarity_nt_char_3088"
+  },
+  "3089": {
+    "決戦用砲台Ｂ": "War Battery B"
+  },
+  "3090": {
+    "clarity_nt_char_3090": "clarity_nt_char_3090"
+  },
+  "3091": {
+    "紅魔法陣": "Red Array"
+  },
+  "3092": {
+    "clarity_nt_char_3092": "clarity_nt_char_3092"
+  },
+  "3093": {
+    "紅ドーナッツ": "Red Donut"
+  },
+  "3094": {
+    "clarity_nt_char_3094": "clarity_nt_char_3094"
+  },
+  "3095": {
+    "プチＳグレネーどり": "Frail S Grenadory"
+  },
+  "3096": {
+    "時空断絶": "Spacetime"
+  },
+  "3097": {
+    "clarity_nt_char_3097": "clarity_nt_char_3097"
+  },
+  "3098": {
+    "カデスの牢獄": "Cades Prison"
+  },
+  "3099": {
+    "clarity_nt_char_3099": "clarity_nt_char_3099"
+  },
+  "3100": {
+    "金獅子": "Gold Lion"
+  },
+  "3101": {
+    "ゴールドデーモン": "Gold Daemon"
+  },
+  "3102": {
+    "clarity_nt_char_3102": "clarity_nt_char_3102"
+  },
+  "3103": {
+    "光翼・右": "R. Lightwing"
+  },
+  "3104": {
+    "clarity_nt_char_3104": "clarity_nt_char_3104"
+  },
+  "3105": {
+    "光翼・左": "L. Lightwing"
+  },
+  "3106": {
+    "clarity_nt_char_3106": "clarity_nt_char_3106"
+  },
+  "3107": {
+    "時元の使徒": "Time Apostle"
+  },
+  "3108": {
+    "キュルル": "Qululu"
+  },
+  "3109": {
+    "clarity_nt_char_3109": "clarity_nt_char_3109"
+  },
+  "3110": {
+    "斬撃の試練石": "Slash Test Stone"
+  },
+  "3111": {
+    "clarity_nt_char_3111": "clarity_nt_char_3111"
+  },
+  "3112": {
+    "光の柱": "Lightbeam"
+  },
+  "3113": {
+    "財宝の地縛霊": "Land Treasure Soul"
+  },
+  "3114": {
+    "clarity_nt_char_3114": "clarity_nt_char_3114"
+  },
+  "3115": {
+    "黄金の魔箱": "Gold Demon Box"
+  },
+  "3116": {
+    "黄金の傀儡": "Gold Puppet"
+  },
+  "3117": {
+    "黄金の重塔": "Gold Tower"
+  },
+  "3118": {
+    "デバフ魔方陣": "Debuff Magic Area"
+  },
+  "3119": {
+    "clarity_nt_char_3119": "clarity_nt_char_3119"
+  },
+  "3120": {
+    "翠魔方陣": "Jade M. Area"
+  },
+  "3121": {
+    "clarity_nt_char_3121": "clarity_nt_char_3121"
+  },
+  "3122": {
+    "魔撃の試練石": "Magic Test Stone"
+  },
+  "3123": {
+    "clarity_nt_char_3123": "clarity_nt_char_3123"
+  },
+  "3124": {
+    "はんじゅくスライム": "Soft Boiled Slime"
+  },
+  "3125": {
+    "テスト型ローガスト": "Test Model Logast"
+  },
+  "3126": {
+    "陽の試練壱・陽炎": "Yang Trial I -Yang Flame"
+  },
+  "3127": {
+    "clarity_nt_char_3127": "clarity_nt_char_3127"
+  },
+  "3128": {
+    "アトラス600": "Atlas 600"
+  },
+  "3129": {
+    "アトラス900": "Atlas 900"
+  },
+  "3130": {
+    "キュロドーナッツ": "Cure Donut"
+  },
+  "3131": {
+    "clarity_nt_char_3131": "clarity_nt_char_3131"
+  },
+  "3132": {
+    "マグマ２": "Magma 2"
+  },
+  "3133": {
+    "clarity_nt_char_3133": "clarity_nt_char_3133"
+  },
+  "3134": {
+    "マグマ３": "Magma 3"
+  },
+  "3135": {
+    "clarity_nt_char_3135": "clarity_nt_char_3135"
+  },
+  "3136": {
+    "スライダーマン": "Slider Man"
+  },
+  "3137": {
+    "霊脈魔法陣": "Ring of Spirit"
+  },
+  "3138": {
+    "スラッピ": "Slabbit"
+  },
+  "3139": {
+    "clarity_nt_char_3139": "clarity_nt_char_3139"
+  },
+  "3140": {
+    "とり捕まえる範囲カゴ": "Catching Cage"
+  },
+  "3141": {
+    "clarity_nt_char_3141": "clarity_nt_char_3141"
+  },
+  "3142": {
+    "スノーボールン": "Snow Boulder"
+  },
+  "3143": {
+    "欲望のひとだま": "Soul of Desire"
+  },
+  "3144": {
+    "ナイトメアゾーン針": "Nightmare Zone Needle"
+  },
+  "3145": {
+    "火炎鳥": "Blazebird"
+  },
+  "3146": {
+    "十字の邪光": "Cross' Curse"
+  },
+  "3147": {
+    "びっくりボックス": "Trap Box"
+  },
+  "3148": {
+    "clarity_nt_char_3148": "clarity_nt_char_3148"
+  },
+  "3149": {
+    "シングルメタル": "Single Metal"
+  },
+  "3150": {
+    "防衛結界・北": "Barrier North"
+  },
+  "3151": {
+    "clarity_nt_char_3151": "clarity_nt_char_3151"
+  },
+  "3152": {
+    "パトランプ": "Pat Lamp"
+  },
+  "3153": {
+    "防衛結界・南": "Barrier South"
+  },
+  "3154": {
+    "clarity_nt_char_3154": "clarity_nt_char_3154"
+  },
+  "3155": {
+    "ドラゴロック": "Dragorock"
+  },
+  "3156": {
+    "clarity_nt_char_3156": "clarity_nt_char_3156"
+  },
+  "3157": {
+    "呪闇の魔柱": "Demonic Pillar"
+  },
+  "3158": {
+    "ガテリアの亡者": "Gateria's Ghost"
+  },
+  "3159": {
+    "サメバーン": "Sharkburn"
+  },
+  "3160": {
+    "ゼクレス精鋭槍兵": "Zechres Elite Spearman"
+  },
+  "3161": {
+    "clarity_nt_char_3161": "clarity_nt_char_3161"
+  },
+  "3162": {
+    "バルディスタ弓兵": "Valdista Archer"
+  },
+  "3163": {
+    "clarity_nt_char_3163": "clarity_nt_char_3163"
+  },
+  "3164": {
+    "バルディスタ槍兵": "Valdista Spearman"
+  },
+  "3165": {
+    "clarity_nt_char_3165": "clarity_nt_char_3165"
+  },
+  "3166": {
+    "レグアン小隊長": "Platoon Leader Leguan"
+  },
+  "3167": {
+    "バルディスタ歩兵": "Valdista Foot Soldier"
+  },
+  "3168": {
+    "clarity_nt_char_3168": "clarity_nt_char_3168"
+  },
+  "3169": {
+    "ティーガ師団長": "Division Leader Tiga"
+  },
+  "3170": {
+    "メルカバ兵長": "Captain Merkaba"
+  },
+  "3171": {
+    "clarity_nt_char_3171": "clarity_nt_char_3171"
+  },
+  "3172": {
+    "バルディスタ突撃兵": "Valdista Assault Soldier"
+  },
+  "3173": {
+    "バルディスタ竜騎兵": "Valdista Dragon Cavalry"
+  },
+  "3174": {
+    "ゲパルド大隊長": "Squad Leader Gepard"
+  },
+  "3175": {
+    "ゾブリスの幻影": "Phantom Zobris"
+  },
+  "3176": {
+    "ゼクレス機神兵": "Zechres Mech Soldier"
+  },
+  "3177": {
+    "ゼクレス鋼鉄兵": "Zechres Steel Soldier"
+  },
+  "3178": {
+    "ゼクレス精霊兵": "Zechres Ghost Soldier"
+  },
+  "3179": {
+    "魔瘴魂": "Evil Soul"
+  },
+  "3180": {
+    "じゃあくなかげ": "Leopold"
+  },
+  "3181": {
+    "魔界のしもべ": "Demonworld Servant"
+  },
+  "3182": {
+    "clarity_nt_char_3182": "clarity_nt_char_3182"
+  },
+  "3183": {
+    "羽根旋風": "Wind Blade"
+  },
+  "3184": {
+    "clarity_nt_char_3184": "clarity_nt_char_3184"
+  },
+  "3185": {
+    "こんとんのかげ": "Madog Leopold"
+  },
+  "3186": {
+    "ブルービックバン": "Blue Big Bang"
+  },
+  "3187": {
+    "clarity_nt_char_3187": "clarity_nt_char_3187"
+  },
+  "3188": {
+    "おっかけパンサー": "Chasing Panther"
+  },
+  "3189": {
+    "clarity_nt_char_3189": "clarity_nt_char_3189"
+  },
+  "3190": {
+    "おっかけドラゴ": "Chasing Drago"
+  },
+  "3191": {
+    "歌好きキッズ": "Song Loving Kids"
+  },
+  "3192": {
+    "clarity_nt_char_3192": "clarity_nt_char_3192"
+  },
+  "3193": {
+    "魔弾の大岩": "Bullet Big Rock"
+  },
+  "3194": {
+    "魔弾の岩塊": "Bullet Sm. Rock"
+  },
+  "3195": {
+    "魔弾の岩": "Bullet Rock"
+  },
+  "3196": {
+    "clarity_nt_char_3196": "clarity_nt_char_3196"
+  },
+  "3197": {
+    "大地の結晶": "Earth Crystal"
+  },
+  "3198": {
+    "守護ガニラス": "Guardian Crabus"
+  },
+  "3199": {
+    "clarity_nt_char_3199": "clarity_nt_char_3199"
+  },
+  "3200": {
+    "風護の竜巻": "Tornado Guard"
+  },
+  "3201": {
+    "禁忌の落とし子": "Forbidden Child"
+  },
+  "3202": {
+    "ピュージュ": "Pyuju"
+  },
+  "3203": {
+    "賢者マリーン": "Sage Marlene"
+  },
+  "3204": {
+    "clarity_nt_char_3204": "clarity_nt_char_3204"
+  },
+  "3205": {
+    "使い魔": "Famililar"
+  },
+  "3206": {
+    "爪牙の陣": "Sap Circle"
+  },
+  "3207": {
+    "clarity_nt_char_3207": "clarity_nt_char_3207"
+  },
+  "3208": {
+    "魔想念スコルパイド": "Demonic Thought Scorpion"
+  },
+  "3209": {
+    "魔想念ジェルザーク": "Demonic Thought Gelzark"
+  },
+  "3210": {
+    "魔想念ガルドドン": "Demonic Thought Gardodon"
+  },
+  "3211": {
+    "clarity_nt_char_3211": "clarity_nt_char_3211"
+  },
+  "3212": {
+    "サポートパイル": "Support Pile"
+  },
+  "3213": {
+    "怨讐の魔瘴魂": "Grudge Miasma Soul"
+  },
+  "3214": {
+    "clarity_nt_char_3214": "clarity_nt_char_3214"
+  },
+  "3215": {
+    "暴悪の魔瘴魂": "Fierce Miasma Soul"
+  },
+  "3216": {
+    "clarity_nt_char_3216": "clarity_nt_char_3216"
+  },
+  "3217": {
+    "プチ魔人の左手": "Frail Left Demon Hand"
+  },
+  "3218": {
+    "プチ暗黒の魔造兵": "Frail Dark Golem"
+  },
+  "3219": {
+    "clarity_nt_char_3219": "clarity_nt_char_3219"
+  },
+  "3220": {
+    "魔人の左手強": "Apex L. Demon Hand"
+  },
+  "3221": {
+    "clarity_nt_char_3221": "clarity_nt_char_3221"
+  },
+  "3222": {
+    "暗黒の魔造兵強": "Apex Dark Golem"
+  },
+  "3223": {
+    "暴君ラビット": "Tyrant Rabbit"
+  },
+  "3224": {
+    "clarity_nt_char_3224": "clarity_nt_char_3224"
+  },
+  "3225": {
+    "ジャッジメントブラック": "Judgement Black"
+  },
+  "3226": {
+    "円陣殺・蒼": "Blue Kill Area"
+  },
+  "3227": {
+    "円陣殺・緑": "Green Kill Area"
+  },
+  "3228": {
+    "ジルドラーナの剣": "Jildrana's Sword"
+  },
+  "3229": {
+    "clarity_nt_char_3229": "clarity_nt_char_3229"
+  },
+  "3230": {
+    "言声のやまびこ": "Echo of Words"
+  },
+  "3231": {
+    "召雷陣": "Bolt Call"
+  },
+  "3232": {
+    "あまからぼう": "Rumble Bee"
+  },
+  "3233": {
+    "clarity_nt_char_3233": "clarity_nt_char_3233"
+  },
+  "3234": {
+    "海竜ヴォドニーグ": "Sea Dragon Vodnig"
+  },
+  "3235": {
+    "clarity_nt_char_3235": "clarity_nt_char_3235"
+  },
+  "3236": {
+    "水邪ジェルヴァ": "Evil Water Jelba"
+  },
+  "3237": {
+    "水邪カトヴァ": "Evil Water Katva"
+  },
+  "3238": {
+    "clarity_nt_char_3238": "clarity_nt_char_3238"
+  },
+  "3239": {
+    "ライムウェル": "Limewell"
+  },
+  "3240": {
+    "clarity_nt_char_3240": "clarity_nt_char_3240"
+  },
+  "3241": {
+    "ユノ": "Juno"
+  },
+  "3242": {
+    "clarity_nt_char_3242": "clarity_nt_char_3242"
+  },
+  "3243": {
+    "エゼル": "Ezell"
+  },
+  "3244": {
+    "はぐメタルーキー": "Giga Rookie Metal Slime"
+  },
+  "3245": {
+    "clarity_nt_char_3245": "clarity_nt_char_3245"
+  },
+  "3246": {
+    "はずれメタル": "Fool's Slold"
+  },
+  "3247": {
+    "clarity_nt_char_3247": "clarity_nt_char_3247"
+  },
+  "3248": {
+    "アサヒ": "Asahi"
+  },
+  "3249": {
+    "ウヅキ": "Uzuki"
+  },
+  "3250": {
+    "ランニャー": "Rania"
+  },
+  "3251": {
+    "パイセン": "Paisen"
+  },
+  "3252": {
+    "clarity_nt_char_3252": "clarity_nt_char_3252"
+  },
+  "3253": {
+    "ホワイトパンプキン": "White Pumpkin"
+  },
+  "3254": {
+    "ヨイ": "Yoi"
+  },
+  "3255": {
+    "clarity_nt_char_3255": "clarity_nt_char_3255"
+  },
+  "3256": {
+    "デズリン": "Dezlin"
+  },
+  "3257": {
+    "clarity_nt_char_3257": "clarity_nt_char_3257"
+  },
+  "3258": {
+    "アーモンキッド": "Amonkid"
+  },
+  "3259": {
+    "甘味兵長": "Sweetman"
+  },
+  "3260": {
+    "clarity_nt_char_3260": "clarity_nt_char_3260"
+  },
+  "3261": {
+    "ネリム": "Nelim"
+  },
+  "3262": {
+    "ディゼル": "Diezel"
+  },
+  "3263": {
+    "clarity_nt_char_3263": "clarity_nt_char_3263"
+  },
+  "3264": {
+    "チャポッティ": "Chapotti"
+  },
+  "3265": {
+    "clarity_nt_char_3265": "clarity_nt_char_3265"
+  },
+  "3266": {
+    "マグマ床": "Magma Floor"
+  }
+}

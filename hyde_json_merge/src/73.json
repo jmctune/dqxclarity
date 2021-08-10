@@ -1,0 +1,443 @@
+{
+  "1": {
+    "シルバーフェイス": "Silver Face"
+  },
+  "2": {
+    "clarity_nt_char_1": "clarity_nt_char_1"
+  },
+  "3": {
+    "飛竜用スライムかんむり": "Dragon Slime Crown"
+  },
+  "4": {
+    "ブラックフェイス": "Black Face"
+  },
+  "5": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "6": {
+    "飛竜用ベホズンかんむり": "Dragon Healslime Hat"
+  },
+  "7": {
+    "飛竜の勲章・青": "Red Dragon Medal"
+  },
+  "8": {
+    "レッドハートペンダント": "Red Heart Pendant"
+  },
+  "9": {
+    "飛竜の勲章・金": "Gold Dragon's Medal"
+  },
+  "10": {
+    "ブルーハートペンダント": "Blue Heart Pendant"
+  },
+  "11": {
+    "シルバーウィング": "Silver Wings"
+  },
+  "12": {
+    "clarity_nt_char_3": "clarity_nt_char_3"
+  },
+  "13": {
+    "みずたまウィング": "Polka Dot Wings"
+  },
+  "14": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "15": {
+    "ブラックウィング": "Black Wings"
+  },
+  "16": {
+    "clarity_nt_char_5": "clarity_nt_char_5"
+  },
+  "17": {
+    "ハートウィング": "Heart Wings"
+  },
+  "18": {
+    "アイアンスパイク": "Iron Spikes"
+  },
+  "19": {
+    "clarity_nt_char_6": "clarity_nt_char_6"
+  },
+  "20": {
+    "赤いしっぽリボン": "Red Tail Ribbon"
+  },
+  "21": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "22": {
+    "ゴールドスパイク": "Gold Spikes"
+  },
+  "23": {
+    "clarity_nt_char_8": "clarity_nt_char_8"
+  },
+  "24": {
+    "緑のしっぽリボン": "Green Tail Ribbon"
+  },
+  "25": {
+    "clarity_nt_char_9": "clarity_nt_char_9"
+  },
+  "26": {
+    "メカマスク": "Mecha Mask"
+  },
+  "27": {
+    "パープルとんがり帽子": "Purple Pointy Hat"
+  },
+  "28": {
+    "clarity_nt_char_10": "clarity_nt_char_10"
+  },
+  "29": {
+    "ブルーメカマスク": "Blue Mecha Mask"
+  },
+  "30": {
+    "clarity_nt_char_11": "clarity_nt_char_11"
+  },
+  "31": {
+    "オレンジとんがり帽子": "Orange Pointy Hat"
+  },
+  "32": {
+    "clarity_nt_char_12": "clarity_nt_char_12"
+  },
+  "33": {
+    "メカウィング": "Mecha Wings"
+  },
+  "34": {
+    "clarity_nt_char_13": "clarity_nt_char_13"
+  },
+  "35": {
+    "パープルウィング": "Purple Wings"
+  },
+  "36": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "37": {
+    "ブルーメカウィング": "Blue Mecha Wings"
+  },
+  "38": {
+    "オレンジウィング": "Orange Wings"
+  },
+  "39": {
+    "clarity_nt_char_15": "clarity_nt_char_15"
+  },
+  "40": {
+    "水玉のしっぽリボン": "Polka Dot Tail Ribbon"
+  },
+  "41": {
+    "チェック柄のしっぽリボン": "Plaid Tail Ribbon"
+  },
+  "42": {
+    "clarity_nt_char_16": "clarity_nt_char_16"
+  },
+  "43": {
+    "冒険ゴーグル": "Adventurer Goggles"
+  },
+  "44": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "45": {
+    "フラワーキャップ": "Flower Cap"
+  },
+  "46": {
+    "clarity_nt_char_18": "clarity_nt_char_18"
+  },
+  "47": {
+    "冒険バッグ": "Adventurer Bag"
+  },
+  "48": {
+    "フラワーウィング": "Flower Wings"
+  },
+  "49": {
+    "clarity_nt_char_19": "clarity_nt_char_19"
+  },
+  "50": {
+    "しるばーふぇいす": "Silver Face"
+  },
+  "51": {
+    "clarity_nt_char_20": "clarity_nt_char_20"
+  },
+  "52": {
+    "ひりゅうようすらいむかんむり": "Dragon Slime Crown"
+  },
+  "53": {
+    "clarity_nt_char_21": "clarity_nt_char_21"
+  },
+  "54": {
+    "ぶらっくふぇいす": "Black Face"
+  },
+  "55": {
+    "clarity_nt_char_22": "clarity_nt_char_22"
+  },
+  "56": {
+    "ひりゅうようべほずんかんむり": "Dragon Healslime Crown"
+  },
+  "57": {
+    "clarity_nt_char_23": "clarity_nt_char_23"
+  },
+  "58": {
+    "ひりゅうのくんしょうあお": ""
+  },
+  "59": {
+    "clarity_nt_char_24": "clarity_nt_char_24"
+  },
+  "60": {
+    "れっどはーとぺんだんと": ""
+  },
+  "61": {
+    "ひりゅうのくんしょうきん": ""
+  },
+  "62": {
+    "clarity_nt_char_25": "clarity_nt_char_25"
+  },
+  "63": {
+    "ぶるーはーとぺんだんと": ""
+  },
+  "64": {
+    "しるばーうぃんぐ": ""
+  },
+  "65": {
+    "clarity_nt_char_26": "clarity_nt_char_26"
+  },
+  "66": {
+    "みずたまうぃんぐ": ""
+  },
+  "67": {
+    "clarity_nt_char_27": "clarity_nt_char_27"
+  },
+  "68": {
+    "ぶらっくうぃんぐ": ""
+  },
+  "69": {
+    "clarity_nt_char_28": "clarity_nt_char_28"
+  },
+  "70": {
+    "はーとうぃんぐ": ""
+  },
+  "71": {
+    "あいあんすぱいく": ""
+  },
+  "72": {
+    "clarity_nt_char_29": "clarity_nt_char_29"
+  },
+  "73": {
+    "あかいしっぽりぼん": ""
+  },
+  "74": {
+    "ごーるどすぱいく": ""
+  },
+  "75": {
+    "clarity_nt_char_30": "clarity_nt_char_30"
+  },
+  "76": {
+    "みどりのしっぽりぼん": ""
+  },
+  "77": {
+    "clarity_nt_char_31": "clarity_nt_char_31"
+  },
+  "78": {
+    "めかますく": ""
+  },
+  "79": {
+    "ぱーぷるとんがりぼうし": ""
+  },
+  "80": {
+    "ぶるーめかますく": ""
+  },
+  "81": {
+    "clarity_nt_char_32": "clarity_nt_char_32"
+  },
+  "82": {
+    "おれんじとんがりぼうし": ""
+  },
+  "83": {
+    "めかうぃんぐ": ""
+  },
+  "84": {
+    "clarity_nt_char_33": "clarity_nt_char_33"
+  },
+  "85": {
+    "ぱーぷるうぃんぐ": ""
+  },
+  "86": {
+    "clarity_nt_char_34": "clarity_nt_char_34"
+  },
+  "87": {
+    "ぶるーめかうぃんぐ": ""
+  },
+  "88": {
+    "おれんじうぃんぐ": ""
+  },
+  "89": {
+    "clarity_nt_char_35": "clarity_nt_char_35"
+  },
+  "90": {
+    "みずたまのしっぽりぼん": ""
+  },
+  "91": {
+    "ちぇっくのしっぽりぼん": ""
+  },
+  "92": {
+    "ぼうけんごーぐる": ""
+  },
+  "93": {
+    "clarity_nt_char_36": "clarity_nt_char_36"
+  },
+  "94": {
+    "ふらわーきゃっぷ": ""
+  },
+  "95": {
+    "clarity_nt_char_37": "clarity_nt_char_37"
+  },
+  "96": {
+    "ぼうけんばっぐ": ""
+  },
+  "97": {
+    "ふらわーうぃんぐ": ""
+  },
+  "98": {
+    "clarity_nt_char_38": "clarity_nt_char_38"
+  },
+  "99": {
+    "見た目を　変える|鋼鉄製の　かっこいい|フェイスガード": ""
+  },
+  "100": {
+    "あの　キングもかぶっている|由緒ある　栄光のかんむり": ""
+  },
+  "101": {
+    "clarity_nt_char_39": "clarity_nt_char_39"
+  },
+  "102": {
+    "見た目を　変える|鋼鉄製の　かっこいい|漆黒のフェイスガード": ""
+  },
+  "103": {
+    "clarity_nt_char_40": "clarity_nt_char_40"
+  },
+  "104": {
+    "アタマを　かわいく飾る|優雅なかんむり": ""
+  },
+  "105": {
+    "誇り高き　飛竜の証|胸元に輝く　りっぱな勲章": ""
+  },
+  "106": {
+    "clarity_nt_char_41": "clarity_nt_char_41"
+  },
+  "107": {
+    "長い首を　おしゃれに飾る|かわいいペンダント": ""
+  },
+  "108": {
+    "clarity_nt_char_42": "clarity_nt_char_42"
+  },
+  "109": {
+    "誇り高き　飛竜の証|胸元に輝く　リッチな勲章": ""
+  },
+  "110": {
+    "clarity_nt_char_43": "clarity_nt_char_43"
+  },
+  "111": {
+    "長い首を　さわやかに飾る|青いペンダント": ""
+  },
+  "112": {
+    "clarity_nt_char_44": "clarity_nt_char_44"
+  },
+  "113": {
+    "風を切り裂く　疾風のごとき|ワイルドな羽飾り": ""
+  },
+  "114": {
+    "clarity_nt_char_45": "clarity_nt_char_45"
+  },
+  "115": {
+    "丸い飾りが　特徴的な|派手で　かわいい羽飾り": ""
+  },
+  "116": {
+    "clarity_nt_char_46": "clarity_nt_char_46"
+  },
+  "117": {
+    "風を切り裂く　疾風のごとき|漆黒の羽飾り": ""
+  },
+  "118": {
+    "clarity_nt_char_47": "clarity_nt_char_47"
+  },
+  "119": {
+    "丸い飾りが　特徴的な|優雅な　出で立ちの羽飾り": ""
+  },
+  "120": {
+    "しっぽに　とがった|アクセントで　ワイルドな|出で立ちを演出": ""
+  },
+  "121": {
+    "clarity_nt_char_48": "clarity_nt_char_48"
+  },
+  "122": {
+    "しっぽを　かわいく飾り|飛行にも　耐える|丈夫な　赤いリボン": ""
+  },
+  "123": {
+    "clarity_nt_char_49": "clarity_nt_char_49"
+  },
+  "124": {
+    "しっぽに　とがった|アクセントで　さらに|ワイルドな　出で立ちを演出": ""
+  },
+  "125": {
+    "clarity_nt_char_50": "clarity_nt_char_50"
+  },
+  "126": {
+    "しっぽを　かわいく飾り|飛行にも　耐える|丈夫な　緑のリボン": ""
+  },
+  "127": {
+    "clarity_nt_char_51": "clarity_nt_char_51"
+  },
+  "128": {
+    "未来の姿を　予感させる|メカニカルなマスク": ""
+  },
+  "129": {
+    "魔法だって　使えそうな|怪しげな　むらさき色の|マスクとセットの帽子": ""
+  },
+  "130": {
+    "clarity_nt_char_52": "clarity_nt_char_52"
+  },
+  "131": {
+    "未来の姿を　予感させる|メカニカルな青いマスク": ""
+  },
+  "132": {
+    "お祭り気分を　味わえる|怪しげな　オレンジ色の|マスクとセットの帽子": ""
+  },
+  "133": {
+    "clarity_nt_char_53": "clarity_nt_char_53"
+  },
+  "134": {
+    "しっぽも　カバーする|未来型の　シャープな|シルエットの羽飾り": ""
+  },
+  "135": {
+    "星をあしらった　飾りが|あざやかに　目を引く|むらさき色の羽飾り": ""
+  },
+  "136": {
+    "clarity_nt_char_54": "clarity_nt_char_54"
+  },
+  "137": {
+    "しっぽも　カバーする|未来型の　クールな|シルエットの羽飾り": ""
+  },
+  "138": {
+    "clarity_nt_char_55": "clarity_nt_char_55"
+  },
+  "139": {
+    "星をあしらった　飾りが|楽しげに　目を引く|オレンジ色の羽飾り": ""
+  },
+  "140": {
+    "しっぽを　かわいく飾り|飛行にも　耐える|丈夫な　水玉のリボン": ""
+  },
+  "141": {
+    "しっぽを　かわいく飾り|飛行にも　耐える|丈夫な　チェック柄のリボン": ""
+  },
+  "142": {
+    "clarity_nt_char_56": "clarity_nt_char_56"
+  },
+  "143": {
+    "長時間の飛行にも耐える|軽くて　丈夫なゴーグル": ""
+  },
+  "144": {
+    "アタマを飾る　大輪の|花のような　ぼうし": ""
+  },
+  "145": {
+    "clarity_nt_char_57": "clarity_nt_char_57"
+  },
+  "146": {
+    "急な長旅にも　安心して|出かけられる|旅行カバン一式　": ""
+  },
+  "147": {
+    "大輪の花が　羽ばたいて|いるかのように見える|美しい羽飾り": ""
+  }
+}

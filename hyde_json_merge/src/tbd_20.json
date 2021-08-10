@@ -1,0 +1,236 @@
+{
+  "1": {
+    "にげるときは 戦闘エリアの外に出よう！": "If you want to escape, get out of the combat area!"
+  },
+  "2": {
+    "ERROR(WORLD)(<%dM_00>)": "ERROR(WORLD)(<%dM_00>)"
+  },
+  "3": {
+    "clarity_nt_char_1": "clarity_nt_char_1"
+  },
+  "4": {
+    "この戦いからは にげられない！": "Can't run from this fight!"
+  },
+  "5": {
+    "<%3dB_VAL11>|<%3dB_VAL12>|<%3dB_VAL13>|<%3dB_VAL14>|<%3dB_VAL15>|<%3dB_VAL16>|<%3dB_VAL17>|<%3dB_VAL18>|<%3dB_VAL19>|<%3dB_VAL20>": "<%3dB_VAL11>|<%3dB_VAL12>|<%3dB_VAL13>|<%3dB_VAL14>|<%3dB_VAL15>|<%3dB_VAL16>|<%3dB_VAL17>|<%3dB_VAL18>|<%3dB_VAL19>|<%3dB_VAL20>"
+  },
+  "6": {
+    "<%3dB_VAL21>|<%3dB_VAL22>|<%3dB_VAL23>|<%3dB_VAL24>|<%3dB_VAL25>|<%3dB_VAL26>|<%3dB_VAL27>|<%3dB_VAL28>|<%3dB_VAL29>|<%3dB_VAL30>": "<%3dB_VAL21>|<%3dB_VAL22>|<%3dB_VAL23>|<%3dB_VAL24>|<%3dB_VAL25>|<%3dB_VAL26>|<%3dB_VAL27>|<%3dB_VAL28>|<%3dB_VAL29>|<%3dB_VAL30>"
+  },
+  "7": {
+    "<%3dB_VAL1>|<%3dB_VAL2>|<%3dB_VAL3>|<%3dB_VAL4>|<%3dB_VAL5>|<%3dB_VAL6>|<%3dB_VAL7>|<%3dB_VAL8>|<%3dB_VAL9>|<%3dB_VAL10>": "<%3dB_VAL1>|<%3dB_VAL2>|<%3dB_VAL3>|<%3dB_VAL4>|<%3dB_VAL5>|<%3dB_VAL6>|<%3dB_VAL7>|<%3dB_VAL8>|<%3dB_VAL9>|<%3dB_VAL10>"
+  },
+  "8": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "9": {
+    "かくとくスキルポイント　<%dB_VAL31>Ｐ": "Skill Points Gained: <%dB_VAL31>P"
+  },
+  "10": {
+    "clarity_nt_char_3": "clarity_nt_char_3"
+  },
+  "11": {
+    "あたらしい 呪文を おぼえた！": "You learned a new spell!"
+  },
+  "12": {
+    "→": "→"
+  },
+  "13": {
+    "さいだいＨＰ|さいだいＭＰ|　　　ちから|　みのまもり|　　すばやさ|　　きようさ|こうげき魔力|かいふく魔力|　　みりょく|　　　おもさ": "Max HP|Max MP|　　　Strength|　Resilience|　　Agility|　　Deftness|Magical Might|Magical Mending|　　Charm|　　　Weight"
+  },
+  "14": {
+    ")|)|)|)|)|)|)|)|)|)": ")|)|)|)|)|)|)|)|)|)"
+  },
+  "15": {
+    "(|(|(|(|(|(|(|(|(|(": "(|(|(|(|(|(|(|(|(|("
+  },
+  "16": {
+    "+<%dB_VAL3>": "+<%dB_VAL3>"
+  },
+  "17": {
+    "+<%dB_VAL5>": "+<%dB_VAL5>"
+  },
+  "18": {
+    "+<%dB_VAL10>": "+<%dB_VAL10>"
+  },
+  "19": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "20": {
+    "+<%dB_VAL9>": "+<%dB_VAL9>"
+  },
+  "21": {
+    "+<%dB_VAL2>": "+<%dB_VAL2>"
+  },
+  "22": {
+    "+<%dB_VAL1>": "+<%dB_VAL1>"
+  },
+  "23": {
+    "+<%dB_VAL6>": "+<%dB_VAL6>"
+  },
+  "24": {
+    "+<%dB_VAL7>": "+<%dB_VAL7>"
+  },
+  "25": {
+    "+<%dB_VAL4>": "+<%dB_VAL4>"
+  },
+  "26": {
+    "+<%dB_VAL8>": "+<%dB_VAL8>"
+  },
+  "27": {
+    "レベル<%dB_VAL33>から <%dB_VAL32>に あがった！": "Level increased from <%dB_VAL33> to <%dB_VAL32>!"
+  },
+  "28": {
+    "レベル<%dB_VAL32>に あがった！": "Level increased to <%dB_VAL32>!"
+  },
+  "29": {
+    "<%3dB_VAL26>": "<%3dB_VAL26>"
+  },
+  "30": {
+    "clarity_nt_char_5": "clarity_nt_char_5"
+  },
+  "31": {
+    "<%3dB_VAL27>": "<%3dB_VAL27>"
+  },
+  "32": {
+    "clarity_nt_char_6": "clarity_nt_char_6"
+  },
+  "33": {
+    "<%3dB_VAL24>": "<%3dB_VAL24>"
+  },
+  "34": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "35": {
+    "<%3dB_VAL21>": "<%3dB_VAL21>"
+  },
+  "36": {
+    "clarity_nt_char_8": "clarity_nt_char_8"
+  },
+  "37": {
+    "<%3dB_VAL22>": "<%3dB_VAL22>"
+  },
+  "38": {
+    "clarity_nt_char_9": "clarity_nt_char_9"
+  },
+  "39": {
+    "<%3dB_VAL29>": "<%3dB_VAL29>"
+  },
+  "40": {
+    "clarity_nt_char_10": "clarity_nt_char_10"
+  },
+  "41": {
+    "<%3dB_VAL30>": "<%3dB_VAL30>"
+  },
+  "42": {
+    "clarity_nt_char_11": "clarity_nt_char_11"
+  },
+  "43": {
+    "<%3dB_VAL25>": "<%3dB_VAL25>"
+  },
+  "44": {
+    "clarity_nt_char_12": "clarity_nt_char_12"
+  },
+  "45": {
+    "<%3dB_VAL23>": "<%3dB_VAL23>"
+  },
+  "46": {
+    "clarity_nt_char_13": "clarity_nt_char_13"
+  },
+  "47": {
+    "<%3dB_VAL28>": "<%3dB_VAL28>"
+  },
+  "48": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "49": {
+    "0": "0"
+  },
+  "50": {
+    "<%sM_char>が": "<%sM_char>"
+  },
+  "51": {
+    "すばやさ": "Agility"
+  },
+  "52": {
+    "clarity_nt_char_15": "clarity_nt_char_15"
+  },
+  "53": {
+    "きようさ": "Deftness"
+  },
+  "54": {
+    "clarity_nt_char_16": "clarity_nt_char_16"
+  },
+  "55": {
+    "こうげき魔力": "Mag. Might"
+  },
+  "56": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "57": {
+    "みりょく": "Charm"
+  },
+  "58": {
+    "clarity_nt_char_18": "clarity_nt_char_18"
+  },
+  "59": {
+    "みのまもり": "Resilience"
+  },
+  "60": {
+    "おもさ": "Weight"
+  },
+  "61": {
+    "さいだいＭＰ": "Max MP"
+  },
+  "62": {
+    "clarity_nt_char_19": "clarity_nt_char_19"
+  },
+  "63": {
+    "さいだいＨＰ": "Max HP"
+  },
+  "64": {
+    "clarity_nt_char_20": "clarity_nt_char_20"
+  },
+  "65": {
+    "ちから": "Strength"
+  },
+  "66": {
+    "かいふく魔力": "Mag. Mending"
+  },
+  "67": {
+    "clarity_nt_char_21": "clarity_nt_char_21"
+  },
+  "68": {
+    "(": "("
+  },
+  "69": {
+    ")": ")"
+  },
+  "70": {
+    "<%sC_badge>を　手に入れた！": "You received <%sC_badge>!"
+  },
+  "71": {
+    "バッジを　持っていません！": "I don't have a badge!"
+  },
+  "72": {
+    "そのスロットには　装備できません！": "You can't equip it in that slot!"
+  },
+  "73": {
+    "同じ種類のバッジを　複数装備できません！": "You can't have more than one of the same type of badge!"
+  },
+  "74": {
+    "clarity_nt_char_22": "clarity_nt_char_22"
+  },
+  "75": {
+    "ゆめみの化身": "Dream Avatar"
+  },
+  "76": {
+    "clarity_nt_char_23": "clarity_nt_char_23"
+  },
+  "77": {
+    "この戦いからは まだにげられない！": "We're not out of this fight yet!"
+  },
+  "78": {
+    "にげるときは 安息の領域に駆け込もう！": "When it's time to flee, run to the realm of repose!"
+  }
+}

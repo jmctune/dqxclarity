@@ -1,0 +1,5093 @@
+{
+  "1": {
+    "こうげき力+5": "Attack +5"
+  },
+  "2": {
+    "たいぼく斬": "Poplar Toppler"
+  },
+  "3": {
+    "こうげき力+10": "Attack +10"
+  },
+  "4": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "5": {
+    "蒼天魔斬": "Parallax"
+  },
+  "6": {
+    "clarity_nt_char_6": "clarity_nt_char_6"
+  },
+  "7": {
+    "こうげき力+15": "Attack +15"
+  },
+  "8": {
+    "clarity_nt_char_8": "clarity_nt_char_8"
+  },
+  "9": {
+    "かぶと割り": "Helm Splitter"
+  },
+  "10": {
+    "かいしん率+2%": "Critical Rate+2%"
+  },
+  "11": {
+    "clarity_nt_char_11": "clarity_nt_char_11"
+  },
+  "12": {
+    "まじん斬り": "Hatchet Man"
+  },
+  "13": {
+    "こうげき力+20": "Attack +20"
+  },
+  "14": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "15": {
+    "オノむそう": "Axes of Evil"
+  },
+  "16": {
+    "鉄甲斬": "Scrap Axe"
+  },
+  "17": {
+    "かいしん率+3%": "Critical Rate+3%"
+  },
+  "18": {
+    "clarity_nt_char_18": "clarity_nt_char_18"
+  },
+  "19": {
+    "真・オノむそう": "Axes of True Evil"
+  },
+  "20": {
+    "炎のチカラを|剣に宿して|敵を斬りつける": "Deals a slash|with the power|of fire."
+  },
+  "21": {
+    "clarity_nt_char_21": "clarity_nt_char_21"
+  },
+  "22": {
+    "スライムブロウ": "Ooze Bruiser"
+  },
+  "23": {
+    "メタルウィング": "Metalicker"
+  },
+  "24": {
+    "パワフルスロー": "Power Throw"
+  },
+  "25": {
+    "命中+20%": "Acc. +20%"
+  },
+  "26": {
+    "clarity_nt_char_26": "clarity_nt_char_26"
+  },
+  "27": {
+    "シャインスコール": "Starburst Throw"
+  },
+  "28": {
+    "clarity_nt_char_28": "clarity_nt_char_28"
+  },
+  "29": {
+    "バーニングバード": "Firebird Throw"
+  },
+  "30": {
+    "clarity_nt_char_30": "clarity_nt_char_30"
+  },
+  "31": {
+    "デュアルカッター": "Twomerang"
+  },
+  "32": {
+    "clarity_nt_char_32": "clarity_nt_char_32"
+  },
+  "33": {
+    "フローズンバード": "Icebird Throw"
+  },
+  "34": {
+    "clarity_nt_char_34": "clarity_nt_char_34"
+  },
+  "35": {
+    "デュアルブレイカー": "Double Down"
+  },
+  "36": {
+    "武器ガード率が|大幅に上がる|両手剣のかまえ": "Claymore stance|that increases|parry rate."
+  },
+  "37": {
+    "clarity_nt_char_37": "clarity_nt_char_37"
+  },
+  "38": {
+    "マジックアロー": "Conjury Conductor"
+  },
+  "39": {
+    "射程距離+3m": "Range +3m"
+  },
+  "40": {
+    "バードシュート": "Flutter Disaster"
+  },
+  "41": {
+    "サンダーボルト": "Thunderbolt"
+  },
+  "42": {
+    "射程距離+4m": "Range +4m"
+  },
+  "43": {
+    "さみだれうち": "Rain of Pain"
+  },
+  "44": {
+    "clarity_nt_char_44": "clarity_nt_char_44"
+  },
+  "45": {
+    "天使の矢": "Hallow Arrow"
+  },
+  "46": {
+    "clarity_nt_char_46": "clarity_nt_char_46"
+  },
+  "47": {
+    "シャイニングボウ": "Shining Shot"
+  },
+  "48": {
+    "clarity_nt_char_48": "clarity_nt_char_48"
+  },
+  "49": {
+    "弓聖の守り星": "Guardian Star"
+  },
+  "50": {
+    "clarity_nt_char_50": "clarity_nt_char_50"
+  },
+  "51": {
+    "ダークネスショット": "Darkness Shot"
+  },
+  "52": {
+    "蒼月の守り": "Blue Moon Guard"
+  },
+  "53": {
+    "ウィングブロウ": "Propeller Blade"
+  },
+  "54": {
+    "裂鋼拳": "C. Opener"
+  },
+  "55": {
+    "必中拳": "Clawkeye"
+  },
+  "56": {
+    "タイガークロー": "Hard Claw"
+  },
+  "57": {
+    "ゴールドフィンガー": "Rake 'n' Break"
+  },
+  "58": {
+    "身かわし率+2%": "Dodge Rate +2%"
+  },
+  "59": {
+    "clarity_nt_char_59": "clarity_nt_char_59"
+  },
+  "60": {
+    "サイクロンアッパー": "Air Raiser"
+  },
+  "61": {
+    "ライガークラッシュ": "Wild Animaul"
+  },
+  "62": {
+    "キラーブーン": "Fly Swat"
+  },
+  "63": {
+    "clarity_nt_char_63": "clarity_nt_char_63"
+  },
+  "64": {
+    "スリープダガー": "Sleeper Hit"
+  },
+  "65": {
+    "攻撃時たまにＭＰ回復": "Recover MP On Attack"
+  },
+  "66": {
+    "clarity_nt_char_66": "clarity_nt_char_66"
+  },
+  "67": {
+    "ヒュプノスハント": "Persecutter"
+  },
+  "68": {
+    "clarity_nt_char_68": "clarity_nt_char_68"
+  },
+  "69": {
+    "ヴァイパーファング": "Cobra Strike"
+  },
+  "70": {
+    "タナトスハント": "Victimiser"
+  },
+  "71": {
+    "カオスエッジ": "Chaos Edge"
+  },
+  "72": {
+    "clarity_nt_char_72": "clarity_nt_char_72"
+  },
+  "73": {
+    "ナイトメアファング": "Nightmare Fang"
+  },
+  "74": {
+    "状態異常成功率アップ": "Status Afflict Rate Up"
+  },
+  "75": {
+    "clarity_nt_char_75": "clarity_nt_char_75"
+  },
+  "76": {
+    "冥王のかま": "Hades' Scythe"
+  },
+  "77": {
+    "花ふぶき": "Flower Power"
+  },
+  "78": {
+    "clarity_nt_char_78": "clarity_nt_char_78"
+  },
+  "79": {
+    "明鏡止水": "Clarion Mind"
+  },
+  "80": {
+    "clarity_nt_char_80": "clarity_nt_char_80"
+  },
+  "81": {
+    "波紋演舞": "Water Slayer"
+  },
+  "82": {
+    "clarity_nt_char_82": "clarity_nt_char_82"
+  },
+  "83": {
+    "みとれる+5%": "Dazzle +5%"
+  },
+  "84": {
+    "おうぎのまい": "Fan Dango"
+  },
+  "85": {
+    "clarity_nt_char_85": "clarity_nt_char_85"
+  },
+  "86": {
+    "アゲハ乱舞": "Butterfly Bop"
+  },
+  "87": {
+    "ピンクタイフーン": "Pink Typhoon"
+  },
+  "88": {
+    "clarity_nt_char_88": "clarity_nt_char_88"
+  },
+  "89": {
+    "百花繚乱": "Flowerstorm"
+  },
+  "90": {
+    "clarity_nt_char_90": "clarity_nt_char_90"
+  },
+  "91": {
+    "こうげき魔力+30": "Magical Might +30"
+  },
+  "92": {
+    "石つぶて": "Stone Throw"
+  },
+  "93": {
+    "clarity_nt_char_93": "clarity_nt_char_93"
+  },
+  "94": {
+    "かまいたち": "Wind Sickles"
+  },
+  "95": {
+    "せいけん突き": "Knuckle Sandwich"
+  },
+  "96": {
+    "clarity_nt_char_96": "clarity_nt_char_96"
+  },
+  "97": {
+    "ムーンサルト": "Harvest Moon"
+  },
+  "98": {
+    "clarity_nt_char_98": "clarity_nt_char_98"
+  },
+  "99": {
+    "こうげき力+40": "Attack +40"
+  },
+  "100": {
+    "clarity_nt_char_100": "clarity_nt_char_100"
+  },
+  "101": {
+    "ばくれつけん": "Multifists"
+  },
+  "102": {
+    "clarity_nt_char_102": "clarity_nt_char_102"
+  },
+  "103": {
+    "達人の呼吸": "Master's Breath"
+  },
+  "104": {
+    "岩石おとし": "Boulder Toss"
+  },
+  "105": {
+    "せいけん爆撃": "Exploding Fist"
+  },
+  "106": {
+    "clarity_nt_char_106": "clarity_nt_char_106"
+  },
+  "107": {
+    "こうげき力+50": "Attack +50"
+  },
+  "108": {
+    "clarity_nt_char_108": "clarity_nt_char_108"
+  },
+  "109": {
+    "魂狩り": "Soul Hunt"
+  },
+  "110": {
+    "ウェイトブレイク": "Weight Break"
+  },
+  "111": {
+    "clarity_nt_char_111": "clarity_nt_char_111"
+  },
+  "112": {
+    "ドラムクラッシュ": "Monster Masher"
+  },
+  "113": {
+    "clarity_nt_char_113": "clarity_nt_char_113"
+  },
+  "114": {
+    "シールドブレイク": "Shattershield"
+  },
+  "115": {
+    "clarity_nt_char_115": "clarity_nt_char_115"
+  },
+  "116": {
+    "ＭＰブレイク": "MP Break"
+  },
+  "117": {
+    "clarity_nt_char_117": "clarity_nt_char_117"
+  },
+  "118": {
+    "キャンセルショット": "Cancel Shot"
+  },
+  "119": {
+    "ランドインパクト": "Crackerwhack"
+  },
+  "120": {
+    "clarity_nt_char_120": "clarity_nt_char_120"
+  },
+  "121": {
+    "スタンショット": "Stun Shot"
+  },
+  "122": {
+    "プレートインパクト": "Plate Impact"
+  },
+  "123": {
+    "さいだいＨＰ+10": "Max HP +10"
+  },
+  "124": {
+    "オノ装備時の|こうげき力が|１０増える": "Attack +10|when an Axe|is equipped."
+  },
+  "125": {
+    "足ばらい": "Leg Sweep"
+  },
+  "126": {
+    "clarity_nt_char_126": "clarity_nt_char_126"
+  },
+  "127": {
+    "武器ガード率+4%": "Parry Rate +4%"
+  },
+  "128": {
+    "黄泉送り": "Deliverance"
+  },
+  "129": {
+    "clarity_nt_char_129": "clarity_nt_char_129"
+  },
+  "130": {
+    "なぎはらい": "Party Pooper"
+  },
+  "131": {
+    "身かわし率+4%": "Dodge Rate +4%"
+  },
+  "132": {
+    "clarity_nt_char_132": "clarity_nt_char_132"
+  },
+  "133": {
+    "氷結らんげき": "Crushed Ice"
+  },
+  "134": {
+    "clarity_nt_char_134": "clarity_nt_char_134"
+  },
+  "135": {
+    "天地のかまえ": "Counter Wait"
+  },
+  "136": {
+    "clarity_nt_char_136": "clarity_nt_char_136"
+  },
+  "137": {
+    "水流のかまえ": "Be Like Water"
+  },
+  "138": {
+    "clarity_nt_char_138": "clarity_nt_char_138"
+  },
+  "139": {
+    "奥義・棍閃殺": "Flash Kill"
+  },
+  "140": {
+    "clarity_nt_char_140": "clarity_nt_char_140"
+  },
+  "141": {
+    "ＭＰ吸収率+2%": "MP Absorb Rate +2%"
+  },
+  "142": {
+    "clarity_nt_char_142": "clarity_nt_char_142"
+  },
+  "143": {
+    "悪魔ばらい": "Beelzefreeze"
+  },
+  "144": {
+    "戦闘勝利時ＭＰ小回復": "Small MP Recovery After Battle"
+  },
+  "145": {
+    "clarity_nt_char_145": "clarity_nt_char_145"
+  },
+  "146": {
+    "早詠みの杖": "Faster Caster"
+  },
+  "147": {
+    "しゅくふくの杖": "Staff of Salvation"
+  },
+  "148": {
+    "暴走魔法陣": "Ring of Ruin"
+  },
+  "149": {
+    "さいだいＭＰ+100": "Max MP +100"
+  },
+  "150": {
+    "clarity_nt_char_150": "clarity_nt_char_150"
+  },
+  "151": {
+    "戦闘勝利時ＭＰ中回復": "Recover MP After Battle"
+  },
+  "152": {
+    "clarity_nt_char_152": "clarity_nt_char_152"
+  },
+  "153": {
+    "ＭＰ吸収率+4%": "MP Absorb Rate +4%"
+  },
+  "154": {
+    "clarity_nt_char_154": "clarity_nt_char_154"
+  },
+  "155": {
+    "超暴走魔法陣": "Super Ring of Ruin"
+  },
+  "156": {
+    "clarity_nt_char_156": "clarity_nt_char_156"
+  },
+  "157": {
+    "こうげき魔力+10": "Magical Might +10"
+  },
+  "158": {
+    "復活の杖": "Zing Stick"
+  },
+  "159": {
+    "clarity_nt_char_159": "clarity_nt_char_159"
+  },
+  "160": {
+    "さいだいＭＰ+30": "Max MP +30"
+  },
+  "161": {
+    "武器ガード率+5%": "Parry Rate +5%"
+  },
+  "162": {
+    "盾ガード率+1%": "Block Rate +1%"
+  },
+  "163": {
+    "clarity_nt_char_163": "clarity_nt_char_163"
+  },
+  "164": {
+    "ぼうぎょ": "Defend"
+  },
+  "165": {
+    "clarity_nt_char_165": "clarity_nt_char_165"
+  },
+  "166": {
+    "ビッグシールド": "Immense Defence"
+  },
+  "167": {
+    "シールドアタック": "Blockenspiel"
+  },
+  "168": {
+    "clarity_nt_char_168": "clarity_nt_char_168"
+  },
+  "169": {
+    "まもりのたて": "Holy Impregnable"
+  },
+  "170": {
+    "clarity_nt_char_170": "clarity_nt_char_170"
+  },
+  "171": {
+    "しゅび力+30": "Defense +30"
+  },
+  "172": {
+    "会心ガード": "Critical Guard"
+  },
+  "173": {
+    "しゅび力+10": "Defense +10"
+  },
+  "174": {
+    "ファランクス": "Phalanx"
+  },
+  "175": {
+    "clarity_nt_char_175": "clarity_nt_char_175"
+  },
+  "176": {
+    "スペルガード": "Spell Guard"
+  },
+  "177": {
+    "clarity_nt_char_177": "clarity_nt_char_177"
+  },
+  "178": {
+    "けもの突き": "Cattle Prod"
+  },
+  "179": {
+    "雷鳴突き": "Shock Thrust"
+  },
+  "180": {
+    "clarity_nt_char_180": "clarity_nt_char_180"
+  },
+  "181": {
+    "一閃突き": "T. Thrust"
+  },
+  "182": {
+    "clarity_nt_char_182": "clarity_nt_char_182"
+  },
+  "183": {
+    "狼牙突き": "Wolfsbane"
+  },
+  "184": {
+    "clarity_nt_char_184": "clarity_nt_char_184"
+  },
+  "185": {
+    "さみだれ突き": "Multi Thrust"
+  },
+  "186": {
+    "clarity_nt_char_186": "clarity_nt_char_186"
+  },
+  "187": {
+    "武器ガード率+3%": "Parry Rate +3%"
+  },
+  "188": {
+    "ジゴスパーク": "Lightning Storm"
+  },
+  "189": {
+    "clarity_nt_char_189": "clarity_nt_char_189"
+  },
+  "190": {
+    "こうげき力+25": "Attack +25"
+  },
+  "191": {
+    "clarity_nt_char_191": "clarity_nt_char_191"
+  },
+  "192": {
+    "マジステッキ": "Magistick"
+  },
+  "193": {
+    "clarity_nt_char_193": "clarity_nt_char_193"
+  },
+  "194": {
+    "かいふく魔力+30": "Magical Mending +30"
+  },
+  "195": {
+    "デビルンチャーム": "Devil's Delight"
+  },
+  "196": {
+    "clarity_nt_char_196": "clarity_nt_char_196"
+  },
+  "197": {
+    "パニパニハニー": "Wizzy Wand"
+  },
+  "198": {
+    "キラキラポーン": "Snap Crackle Poof"
+  },
+  "199": {
+    "ラピッドステッキ": "Rapid Stick"
+  },
+  "200": {
+    "clarity_nt_char_200": "clarity_nt_char_200"
+  },
+  "201": {
+    "ティンクルバトン": "Cheer Leader"
+  },
+  "202": {
+    "clarity_nt_char_202": "clarity_nt_char_202"
+  },
+  "203": {
+    "格闘の時の|こうげき力が|１０増える": "Attack +10|when fighting|bare-handed."
+  },
+  "204": {
+    "clarity_nt_char_204": "clarity_nt_char_204"
+  },
+  "205": {
+    "かえん斬り": "Flame Slash"
+  },
+  "206": {
+    "ドラゴン斬り": "Dragon Slash"
+  },
+  "207": {
+    "clarity_nt_char_207": "clarity_nt_char_207"
+  },
+  "208": {
+    "ミラクルソード": "Miracle Slash"
+  },
+  "209": {
+    "はやぶさ斬り": "Falcon Slash"
+  },
+  "210": {
+    "clarity_nt_char_210": "clarity_nt_char_210"
+  },
+  "211": {
+    "ギガスラッシュ": "Gigaslash"
+  },
+  "212": {
+    "超はやぶさ斬り": "Gyrfalcon Slash"
+  },
+  "213": {
+    "武器ガード率+2%": "Parry Rate +2%"
+  },
+  "214": {
+    "ギガブレイク": "Gigagash"
+  },
+  "215": {
+    "clarity_nt_char_215": "clarity_nt_char_215"
+  },
+  "216": {
+    "ヤリ装備時の|こうげき力が|１０増える": "Attack +10|when a Spear|is equipped."
+  },
+  "217": {
+    "ブレードガード": "Greatsword Guard"
+  },
+  "218": {
+    "ドラゴンスラッシュ": "Dragon Smash"
+  },
+  "219": {
+    "ぶんまわし": "Helichopter"
+  },
+  "220": {
+    "フリーズブレード": "Frost Fangs"
+  },
+  "221": {
+    "clarity_nt_char_221": "clarity_nt_char_221"
+  },
+  "222": {
+    "渾身斬り": "Cutting Edge"
+  },
+  "223": {
+    "clarity_nt_char_223": "clarity_nt_char_223"
+  },
+  "224": {
+    "ビッグバン": "Big Banga"
+  },
+  "225": {
+    "全身全霊斬り": "Unbridled Blade"
+  },
+  "226": {
+    "clarity_nt_char_226": "clarity_nt_char_226"
+  },
+  "227": {
+    "らせん打ち": "Hypnowhip"
+  },
+  "228": {
+    "愛のムチ": "Love Lash"
+  },
+  "229": {
+    "clarity_nt_char_229": "clarity_nt_char_229"
+  },
+  "230": {
+    "スパークショット": "Starstrike"
+  },
+  "231": {
+    "clarity_nt_char_231": "clarity_nt_char_231"
+  },
+  "232": {
+    "しばり打ち": "Trammel Lash"
+  },
+  "233": {
+    "地ばしり打ち": "Strifeline"
+  },
+  "234": {
+    "clarity_nt_char_234": "clarity_nt_char_234"
+  },
+  "235": {
+    "効果範囲+2m": "Range +2m"
+  },
+  "236": {
+    "双竜打ち": "Twin Dragons"
+  },
+  "237": {
+    "clarity_nt_char_237": "clarity_nt_char_237"
+  },
+  "238": {
+    "疾風迅雷": "Whipcrackle"
+  },
+  "239": {
+    "clarity_nt_char_239": "clarity_nt_char_239"
+  },
+  "240": {
+    "かいしん率+4%": "Critical Rate+4%"
+  },
+  "241": {
+    "clarity_nt_char_241": "clarity_nt_char_241"
+  },
+  "242": {
+    "極竜打ち": "Wyrm Whip"
+  },
+  "243": {
+    "clarity_nt_char_243": "clarity_nt_char_243"
+  },
+  "244": {
+    "災いの斬撃": "Calamity Slash"
+  },
+  "245": {
+    "サインぜめ": "Autograph"
+  },
+  "246": {
+    "全職みりょく+20": "Charm +20"
+  },
+  "247": {
+    "スキャンダル": "Scandal Eyes"
+  },
+  "248": {
+    "clarity_nt_char_248": "clarity_nt_char_248"
+  },
+  "249": {
+    "全職すばやさ+30": "Agility +30"
+  },
+  "250": {
+    "メイクアップ": "Extreme Makeover"
+  },
+  "251": {
+    "clarity_nt_char_251": "clarity_nt_char_251"
+  },
+  "252": {
+    "全職こうげき魔力+10": "Mag. Might +10"
+  },
+  "253": {
+    "ボディーガード呼び": "Call Bodyguard"
+  },
+  "254": {
+    "全職みりょく+60": "Charm +60"
+  },
+  "255": {
+    "ベストスマイル": "Best Smile"
+  },
+  "256": {
+    "ゴールドシャワー": "Gold Rush"
+  },
+  "257": {
+    "clarity_nt_char_257": "clarity_nt_char_257"
+  },
+  "258": {
+    "みりょく+30": "Charm +30"
+  },
+  "259": {
+    "みとれる+2%": "Dazzle +2%"
+  },
+  "260": {
+    "バギムーチョ": "Kaswooshle"
+  },
+  "261": {
+    "clarity_nt_char_261": "clarity_nt_char_261"
+  },
+  "262": {
+    "ボディーガード強化": "Strengthen Bodyguard"
+  },
+  "263": {
+    "ミリオンスマイル": "Million Smile"
+  },
+  "264": {
+    "clarity_nt_char_264": "clarity_nt_char_264"
+  },
+  "265": {
+    "モンスターゾーン": "Disco Tech"
+  },
+  "266": {
+    "clarity_nt_char_266": "clarity_nt_char_266"
+  },
+  "267": {
+    "おうえん": "Egg On"
+  },
+  "268": {
+    "clarity_nt_char_268": "clarity_nt_char_268"
+  },
+  "269": {
+    "ドラゴンソウル": "Dragon Soul"
+  },
+  "270": {
+    "グランドクロス": "Pearly Gates"
+  },
+  "271": {
+    "慈愛の明星": "Star of Charity"
+  },
+  "272": {
+    "げきりんのさとり": "Reverse Enlightenment"
+  },
+  "273": {
+    "clarity_nt_char_273": "clarity_nt_char_273"
+  },
+  "274": {
+    "災禍の陣": "Chaos Circle"
+  },
+  "275": {
+    "clarity_nt_char_275": "clarity_nt_char_275"
+  },
+  "276": {
+    "スケープガード": "Scape Guard"
+  },
+  "277": {
+    "ファイアフォース": "Fire Fource"
+  },
+  "278": {
+    "clarity_nt_char_278": "clarity_nt_char_278"
+  },
+  "279": {
+    "全職ちから+10": "Strength +10"
+  },
+  "280": {
+    "clarity_nt_char_280": "clarity_nt_char_280"
+  },
+  "281": {
+    "アイスフォース": "Frost Fource"
+  },
+  "282": {
+    "全職さいだいＭＰ+10": "Max MP +10"
+  },
+  "283": {
+    "ストームフォース": "Gale Fource"
+  },
+  "284": {
+    "clarity_nt_char_284": "clarity_nt_char_284"
+  },
+  "285": {
+    "全職みのまもり+5": "Resilience +5"
+  },
+  "286": {
+    "ダークフォース": "Funereal Fource"
+  },
+  "287": {
+    "ＭＰパサー": "M-Pathy"
+  },
+  "288": {
+    "全職さいだいＨＰ+20": "Max HP +20"
+  },
+  "289": {
+    "ライトフォース": "Life Fource"
+  },
+  "290": {
+    "フォース範囲化": "Fource Range"
+  },
+  "291": {
+    "フォースブレイク": "Fource Break"
+  },
+  "292": {
+    "clarity_nt_char_292": "clarity_nt_char_292"
+  },
+  "293": {
+    "マダンテ": "Magic Burst"
+  },
+  "294": {
+    "clarity_nt_char_294": "clarity_nt_char_294"
+  },
+  "295": {
+    "マジックルーレット": "Magic Roulette"
+  },
+  "296": {
+    "やいばのぼうぎょ": "Pincushion"
+  },
+  "297": {
+    "clarity_nt_char_297": "clarity_nt_char_297"
+  },
+  "298": {
+    "全職みのまもり+10": "Resilience +10"
+  },
+  "299": {
+    "clarity_nt_char_299": "clarity_nt_char_299"
+  },
+  "300": {
+    "ＨＰパサー": "H-Pathy"
+  },
+  "301": {
+    "全職かいふく魔力+10": "Mag. Mending +10"
+  },
+  "302": {
+    "におうだち": "Forbearance"
+  },
+  "303": {
+    "ヘヴィチャージ": "Heavy Charge"
+  },
+  "304": {
+    "全職みのまもり+20": "Resilience +20"
+  },
+  "305": {
+    "clarity_nt_char_305": "clarity_nt_char_305"
+  },
+  "306": {
+    "全職さいだいＨＰ+30": "Max HP +30"
+  },
+  "307": {
+    "大ぼうぎょ": "Defending Champ"
+  },
+  "308": {
+    "におうだちの心得": "Forbearance Knowledge"
+  },
+  "309": {
+    "clarity_nt_char_309": "clarity_nt_char_309"
+  },
+  "310": {
+    "さいだいＨＰ+60": "Max HP +60"
+  },
+  "311": {
+    "グランドネビュラ": "Solar Flair"
+  },
+  "312": {
+    "clarity_nt_char_312": "clarity_nt_char_312"
+  },
+  "313": {
+    "ガード時しびれさせる": "Numbing Guard"
+  },
+  "314": {
+    "clarity_nt_char_314": "clarity_nt_char_314"
+  },
+  "315": {
+    "聖騎士の堅陣": "Paladin's Bulwark"
+  },
+  "316": {
+    "clarity_nt_char_316": "clarity_nt_char_316"
+  },
+  "317": {
+    "さいだいＨＰ+20": "Max HP +20"
+  },
+  "318": {
+    "パラディンガード": "Knight's Watch"
+  },
+  "319": {
+    "clarity_nt_char_319": "clarity_nt_char_319"
+  },
+  "320": {
+    "ためる": "Psyche Up"
+  },
+  "321": {
+    "全職きようさ+20": "Deftness +20"
+  },
+  "322": {
+    "心頭滅却": "Clear Mind"
+  },
+  "323": {
+    "clarity_nt_char_323": "clarity_nt_char_323"
+  },
+  "324": {
+    "不撓不屈": "Mens Sana"
+  },
+  "325": {
+    "clarity_nt_char_325": "clarity_nt_char_325"
+  },
+  "326": {
+    "おたけび": "War Cry"
+  },
+  "327": {
+    "clarity_nt_char_327": "clarity_nt_char_327"
+  },
+  "328": {
+    "全職さいだいＨＰ+40": "Max HP +40"
+  },
+  "329": {
+    "めいそう": "Meditation"
+  },
+  "330": {
+    "clarity_nt_char_330": "clarity_nt_char_330"
+  },
+  "331": {
+    "ためる弐": "Psyche 2"
+  },
+  "332": {
+    "clarity_nt_char_332": "clarity_nt_char_332"
+  },
+  "333": {
+    "すばやさ+30": "Agility +30"
+  },
+  "334": {
+    "ちから+10": "Strength +10"
+  },
+  "335": {
+    "clarity_nt_char_335": "clarity_nt_char_335"
+  },
+  "336": {
+    "無念無想": "Nirvana"
+  },
+  "337": {
+    "clarity_nt_char_337": "clarity_nt_char_337"
+  },
+  "338": {
+    "カウンターブースト": "Counter Boost"
+  },
+  "339": {
+    "ためる参": "Psyche 3"
+  },
+  "340": {
+    "clarity_nt_char_340": "clarity_nt_char_340"
+  },
+  "341": {
+    "一喝": "Tirade"
+  },
+  "342": {
+    "clarity_nt_char_342": "clarity_nt_char_342"
+  },
+  "343": {
+    "ボケ": "Bonk"
+  },
+  "344": {
+    "clarity_nt_char_344": "clarity_nt_char_344"
+  },
+  "345": {
+    "ツッコミ": "Sober Slap"
+  },
+  "346": {
+    "clarity_nt_char_346": "clarity_nt_char_346"
+  },
+  "347": {
+    "タップダンス": "Tap Dance"
+  },
+  "348": {
+    "clarity_nt_char_348": "clarity_nt_char_348"
+  },
+  "349": {
+    "キラージャグリング": "Have A Ball"
+  },
+  "350": {
+    "ハッスルダンス": "Hustle Dance"
+  },
+  "351": {
+    "きようさ+30": "Deftness +30"
+  },
+  "352": {
+    "エンドオブシーン": "End of Scene"
+  },
+  "353": {
+    "clarity_nt_char_353": "clarity_nt_char_353"
+  },
+  "354": {
+    "ゴッドジャグリング": "God Juggling"
+  },
+  "355": {
+    "たまにカウンター": "Chance to Counter Attack"
+  },
+  "356": {
+    "clarity_nt_char_356": "clarity_nt_char_356"
+  },
+  "357": {
+    "たたかいのビート": "Thrash Guitar"
+  },
+  "358": {
+    "clarity_nt_char_358": "clarity_nt_char_358"
+  },
+  "359": {
+    "アクロバットスター": "Acrobat Star"
+  },
+  "360": {
+    "魔結界": "Mage Ward"
+  },
+  "361": {
+    "ぶきみなひかり": "Spooky Aura"
+  },
+  "362": {
+    "常時呪文暴走率+2%": "Haywire Rate +2%"
+  },
+  "363": {
+    "clarity_nt_char_363": "clarity_nt_char_363"
+  },
+  "364": {
+    "魔力の息吹": "Focus Pocus"
+  },
+  "365": {
+    "魔力かくせい": "Channel Anger"
+  },
+  "366": {
+    "clarity_nt_char_366": "clarity_nt_char_366"
+  },
+  "367": {
+    "こうげき魔力+20": "Magical Might +20"
+  },
+  "368": {
+    "マヒャデドス": "Kacrackle"
+  },
+  "369": {
+    "clarity_nt_char_369": "clarity_nt_char_369"
+  },
+  "370": {
+    "ＭＰ消費しない率+2%": "Don't Use MP +2%"
+  },
+  "371": {
+    "メラガイアー": "Kafrizzle"
+  },
+  "372": {
+    "clarity_nt_char_372": "clarity_nt_char_372"
+  },
+  "373": {
+    "ミラクルゾーン": "0 Zone"
+  },
+  "374": {
+    "ぬすむ": "Half-Inch"
+  },
+  "375": {
+    "みやぶる": "See Through"
+  },
+  "376": {
+    "clarity_nt_char_376": "clarity_nt_char_376"
+  },
+  "377": {
+    "おたからさがし": "Nose for Treasure"
+  },
+  "378": {
+    "バナナトラップ": "Banana Time"
+  },
+  "379": {
+    "メガボンバー": "Mega Bomb"
+  },
+  "380": {
+    "clarity_nt_char_380": "clarity_nt_char_380"
+  },
+  "381": {
+    "しんだふり": "Play Dead"
+  },
+  "382": {
+    "ギガボンバー": "Giga Bomber"
+  },
+  "383": {
+    "clarity_nt_char_383": "clarity_nt_char_383"
+  },
+  "384": {
+    "ぬすむ成功率アップ": "Half-Inch Success Rate up"
+  },
+  "385": {
+    "サプライズラッシュ": "Surprise Rush"
+  },
+  "386": {
+    "お宝ハンター": "Itemised Kill"
+  },
+  "387": {
+    "clarity_nt_char_387": "clarity_nt_char_387"
+  },
+  "388": {
+    "いやしの雨": "Right as Rain"
+  },
+  "389": {
+    "魔導の書": "Magical Book"
+  },
+  "390": {
+    "clarity_nt_char_390": "clarity_nt_char_390"
+  },
+  "391": {
+    "しんぴのさとり": "Caster Sugar"
+  },
+  "392": {
+    "全職さいだいＭＰ+20": "Max MP +20"
+  },
+  "393": {
+    "零の洗礼": "Null Baptism"
+  },
+  "394": {
+    "clarity_nt_char_394": "clarity_nt_char_394"
+  },
+  "395": {
+    "イオグランデ": "Kaboomle"
+  },
+  "396": {
+    "clarity_nt_char_396": "clarity_nt_char_396"
+  },
+  "397": {
+    "むげんのさとり": "Infinite Wisdom"
+  },
+  "398": {
+    "ドルマドン": "Kazammle"
+  },
+  "399": {
+    "神の息吹": "God's Breath"
+  },
+  "400": {
+    "clarity_nt_char_400": "clarity_nt_char_400"
+  },
+  "401": {
+    "おはらい": "Benediction"
+  },
+  "402": {
+    "clarity_nt_char_402": "clarity_nt_char_402"
+  },
+  "403": {
+    "マホトラのころも": "Magic Cloak"
+  },
+  "404": {
+    "clarity_nt_char_404": "clarity_nt_char_404"
+  },
+  "405": {
+    "聖女の守り": "Alma Mater"
+  },
+  "406": {
+    "天使の守り": "Goddess' Grace"
+  },
+  "407": {
+    "聖なる祈り": "Care Prayer"
+  },
+  "408": {
+    "かいふく魔力+20": "Magical Mending +20"
+  },
+  "409": {
+    "ホーリーライト": "Holy Light"
+  },
+  "410": {
+    "たまにＨＰ１生き残り": "Rarely Survive at 1 HP"
+  },
+  "411": {
+    "clarity_nt_char_411": "clarity_nt_char_411"
+  },
+  "412": {
+    "女神の祝福": "Divine Blessing"
+  },
+  "413": {
+    "聖者の詩": "Angel Choir"
+  },
+  "414": {
+    "clarity_nt_char_414": "clarity_nt_char_414"
+  },
+  "415": {
+    "みのがす": "Mercy"
+  },
+  "416": {
+    "clarity_nt_char_416": "clarity_nt_char_416"
+  },
+  "417": {
+    "てなづける": "Win Over"
+  },
+  "418": {
+    "メタルトラップ": "Metal Trap"
+  },
+  "419": {
+    "まもりのきり": "Mist Me"
+  },
+  "420": {
+    "clarity_nt_char_420": "clarity_nt_char_420"
+  },
+  "421": {
+    "全職かいふく魔力+20": "Mag. Mending +20"
+  },
+  "422": {
+    "オオカミアタック": "Wolf Whistle"
+  },
+  "423": {
+    "clarity_nt_char_423": "clarity_nt_char_423"
+  },
+  "424": {
+    "先制攻撃率アップ": "First Strike Rate Up"
+  },
+  "425": {
+    "clarity_nt_char_425": "clarity_nt_char_425"
+  },
+  "426": {
+    "あんこくのきり": "Dark Fog"
+  },
+  "427": {
+    "ジバルンバ": "Ridgeraiser"
+  },
+  "428": {
+    "フェンリルアタック": "Fenrir Whistle"
+  },
+  "429": {
+    "妖精たちのポルカ": "Brownie Boost"
+  },
+  "430": {
+    "clarity_nt_char_430": "clarity_nt_char_430"
+  },
+  "431": {
+    "とうこん討ち": "Clap Trap"
+  },
+  "432": {
+    "clarity_nt_char_432": "clarity_nt_char_432"
+  },
+  "433": {
+    "全職ちから+5": "Strength +5"
+  },
+  "434": {
+    "すてみ": "Double Up"
+  },
+  "435": {
+    "もろば斬り": "Double-Edged"
+  },
+  "436": {
+    "無心こうげき": "Blind Man's Biff"
+  },
+  "437": {
+    "clarity_nt_char_437": "clarity_nt_char_437"
+  },
+  "438": {
+    "天下無双": "A Cut Above"
+  },
+  "439": {
+    "clarity_nt_char_439": "clarity_nt_char_439"
+  },
+  "440": {
+    "テンションバーン": "Feel the Burn"
+  },
+  "441": {
+    "clarity_nt_char_441": "clarity_nt_char_441"
+  },
+  "442": {
+    "テンション維持": "Preserve Tension"
+  },
+  "443": {
+    "ミラクルブースト": "Miracle Boost"
+  },
+  "444": {
+    "clarity_nt_char_444": "clarity_nt_char_444"
+  },
+  "445": {
+    "テンションブースト": "Tension Boost"
+  },
+  "446": {
+    "二刀流": "DualWield"
+  },
+  "447": {
+    "かばう": "Cover"
+  },
+  "448": {
+    "ロストアタック": "Morale Masher"
+  },
+  "449": {
+    "たいあたり": "Body Slam"
+  },
+  "450": {
+    "やいばくだき": "Attack Attacker"
+  },
+  "451": {
+    "clarity_nt_char_451": "clarity_nt_char_451"
+  },
+  "452": {
+    "かばうの心得": "Cover Knowledge"
+  },
+  "453": {
+    "clarity_nt_char_453": "clarity_nt_char_453"
+  },
+  "454": {
+    "チャージタックル": "Charge Tackle"
+  },
+  "455": {
+    "clarity_nt_char_455": "clarity_nt_char_455"
+  },
+  "456": {
+    "たまに２回攻撃": "Rarely Attack Twice"
+  },
+  "457": {
+    "真・やいばくだき": "True Attack Attacker"
+  },
+  "458": {
+    "clarity_nt_char_458": "clarity_nt_char_458"
+  },
+  "459": {
+    "会心必中": "Crit. Claim"
+  },
+  "460": {
+    "clarity_nt_char_460": "clarity_nt_char_460"
+  },
+  "461": {
+    "スカウトアタック": "Scout Strike"
+  },
+  "462": {
+    "clarity_nt_char_462": "clarity_nt_char_462"
+  },
+  "463": {
+    "スカウト率アップ": "Scout Rate Up"
+  },
+  "464": {
+    "clarity_nt_char_464": "clarity_nt_char_464"
+  },
+  "465": {
+    "かわいがる": "Pet Monster"
+  },
+  "466": {
+    "ブレスクラッシュ": "Breath Breaker"
+  },
+  "467": {
+    "clarity_nt_char_467": "clarity_nt_char_467"
+  },
+  "468": {
+    "ＨＰリンク": "HP Link"
+  },
+  "469": {
+    "全職さいだいＨＰ+10": "Max HP +10"
+  },
+  "470": {
+    "ＭＰリンク": "MP Link"
+  },
+  "471": {
+    "エモノ呼び": "Call Monster"
+  },
+  "472": {
+    "なつきやすくなる": "Easier Attachment"
+  },
+  "473": {
+    "clarity_nt_char_473": "clarity_nt_char_473"
+  },
+  "474": {
+    "転生出現率アップ": "Rarified Encounter Up"
+  },
+  "475": {
+    "clarity_nt_char_475": "clarity_nt_char_475"
+  },
+  "476": {
+    "スキルクラッシュ": "Skill Crash"
+  },
+  "477": {
+    "clarity_nt_char_477": "clarity_nt_char_477"
+  },
+  "478": {
+    "行動間隔短縮": "Act. Interval Down"
+  },
+  "479": {
+    "clarity_nt_char_479": "clarity_nt_char_479"
+  },
+  "480": {
+    "ウォークライ": "Wild Cry"
+  },
+  "481": {
+    "clarity_nt_char_481": "clarity_nt_char_481"
+  },
+  "482": {
+    "ビーストモード": "Beast Mode"
+  },
+  "483": {
+    "チューンナップ": "Tune-Up"
+  },
+  "484": {
+    "トラップジャマー": "Trap Jammer"
+  },
+  "485": {
+    "clarity_nt_char_485": "clarity_nt_char_485"
+  },
+  "486": {
+    "全職すばやさ+10": "Agility +10"
+  },
+  "487": {
+    "どうぐ倍化術": "Item Doubling Tech"
+  },
+  "488": {
+    "clarity_nt_char_488": "clarity_nt_char_488"
+  },
+  "489": {
+    "全職きようさ+10": "Deftness +10"
+  },
+  "490": {
+    "磁界シールド": "Magnetic Shield"
+  },
+  "491": {
+    "clarity_nt_char_491": "clarity_nt_char_491"
+  },
+  "492": {
+    "どうぐ範囲化術": "Item Range Tech"
+  },
+  "493": {
+    "メタル出現率アップ": "Metal Appearance Rate Up"
+  },
+  "494": {
+    "メディカルデバイス": "Medical Device"
+  },
+  "495": {
+    "どうぐ発動速度短縮": "Faster Item Activation"
+  },
+  "496": {
+    "プラズマリムーバー": "Plasma Remover"
+  },
+  "497": {
+    "強化ガジェット零式": "Gadget Type-0"
+  },
+  "498": {
+    "もうどくブルース": "Poisonous Blues"
+  },
+  "499": {
+    "clarity_nt_char_499": "clarity_nt_char_499"
+  },
+  "500": {
+    "会心まいしんラップ": "Confidence Rap"
+  },
+  "501": {
+    "全職こうげき魔力+5": "Mag. Might +5"
+  },
+  "502": {
+    "clarity_nt_char_502": "clarity_nt_char_502"
+  },
+  "503": {
+    "祈りのゴスペル": "Gospel of Prayer"
+  },
+  "504": {
+    "覚醒のアリア": "Aria of Awakening"
+  },
+  "505": {
+    "clarity_nt_char_505": "clarity_nt_char_505"
+  },
+  "506": {
+    "全職みりょく+10": "Charm +10"
+  },
+  "507": {
+    "よみがえり節": "Revival Clause"
+  },
+  "508": {
+    "clarity_nt_char_508": "clarity_nt_char_508"
+  },
+  "509": {
+    "会心率と暴走率アップ": "Critical & Haywire Rate Up"
+  },
+  "510": {
+    "clarity_nt_char_510": "clarity_nt_char_510"
+  },
+  "511": {
+    "魔力のバラード": "Magical Ballad"
+  },
+  "512": {
+    "ターン消費しない+1%": "Don't Consume Turn +1%"
+  },
+  "513": {
+    "回復のララバイ": "Lullaby of Recovery"
+  },
+  "514": {
+    "ふういんのダンス": "Dance of Sealing"
+  },
+  "515": {
+    "clarity_nt_char_515": "clarity_nt_char_515"
+  },
+  "516": {
+    "こんらんのダンス": "Dance of Confusion"
+  },
+  "517": {
+    "clarity_nt_char_517": "clarity_nt_char_517"
+  },
+  "518": {
+    "ねむりのダンス": "Dance of Sleep"
+  },
+  "519": {
+    "ドラゴンステップ": "Dragon Step"
+  },
+  "520": {
+    "clarity_nt_char_520": "clarity_nt_char_520"
+  },
+  "521": {
+    "ビーナスステップ": "Venus Step"
+  },
+  "522": {
+    "clarity_nt_char_522": "clarity_nt_char_522"
+  },
+  "523": {
+    "ロイヤルステップ": "Royal Step"
+  },
+  "524": {
+    "clarity_nt_char_524": "clarity_nt_char_524"
+  },
+  "525": {
+    "つるぎの舞": "Sword Dance"
+  },
+  "526": {
+    "戦鬼の乱れ舞": "Demon's Dance"
+  },
+  "527": {
+    "clarity_nt_char_527": "clarity_nt_char_527"
+  },
+  "528": {
+    "荒神の舞": "Deity Dance"
+  },
+  "529": {
+    "clarity_nt_char_529": "clarity_nt_char_529"
+  },
+  "530": {
+    "アルカナ占い": "Arcana Divination"
+  },
+  "531": {
+    "clarity_nt_char_531": "clarity_nt_char_531"
+  },
+  "532": {
+    "全職隠れた敵が見える": "See Hidden Enemies"
+  },
+  "533": {
+    "clarity_nt_char_533": "clarity_nt_char_533"
+  },
+  "534": {
+    "ライトフリング": "Right Fling"
+  },
+  "535": {
+    "タロットの威力アップ": "Tarot Power Up"
+  },
+  "536": {
+    "clarity_nt_char_536": "clarity_nt_char_536"
+  },
+  "537": {
+    "ひき直し時ターン不要": "Redraw Takes No Turn"
+  },
+  "538": {
+    "clarity_nt_char_538": "clarity_nt_char_538"
+  },
+  "539": {
+    "レフトフリング": "Left Fling"
+  },
+  "540": {
+    "リセットベール": "Reset Veil"
+  },
+  "541": {
+    "さいだいＭＰ+20": "Max MP +20"
+  },
+  "542": {
+    "エンゼルのみちびき": "Angel's Guidance"
+  },
+  "543": {
+    "魅惑の水晶球": "Magic Crystal Ball"
+  },
+  "544": {
+    "clarity_nt_char_544": "clarity_nt_char_544"
+  },
+  "545": {
+    "ゾディアックコード": "Zodiac Code"
+  },
+  "546": {
+    "タロットが捨てられる": "Discard Tarot"
+  },
+  "547": {
+    "clarity_nt_char_547": "clarity_nt_char_547"
+  },
+  "548": {
+    "げんま召喚": "Summon Spirit"
+  },
+  "549": {
+    "ひばしら": "Pyre o' Fire"
+  },
+  "550": {
+    "clarity_nt_char_550": "clarity_nt_char_550"
+  },
+  "551": {
+    "じわれ": "Fissure"
+  },
+  "552": {
+    "いなずま": "Lightning"
+  },
+  "553": {
+    "clarity_nt_char_553": "clarity_nt_char_553"
+  },
+  "554": {
+    "めいどうふうま": "King Fissure"
+  },
+  "555": {
+    "マグマ": "Magma"
+  },
+  "556": {
+    "げんま解放": "Spirit Release"
+  },
+  "557": {
+    "水神のたつまき": "Maelstrom"
+  },
+  "558": {
+    "天地鳴動の印": "Mark on Nature"
+  },
+  "559": {
+    "clarity_nt_char_559": "clarity_nt_char_559"
+  },
+  "560": {
+    "きまぐれ": "Whimsical"
+  },
+  "561": {
+    "clarity_nt_char_561": "clarity_nt_char_561"
+  },
+  "562": {
+    "あそぶ": "Lucky Dip"
+  },
+  "563": {
+    "きまぐれな行動+5%": "Whimsical Action +5%"
+  },
+  "564": {
+    "clarity_nt_char_564": "clarity_nt_char_564"
+  },
+  "565": {
+    "くちぶえ": "Whistle"
+  },
+  "566": {
+    "clarity_nt_char_566": "clarity_nt_char_566"
+  },
+  "567": {
+    "なめまわし": "Tongue Lash"
+  },
+  "568": {
+    "ぱふぱふ": "Puff-puff"
+  },
+  "569": {
+    "clarity_nt_char_569": "clarity_nt_char_569"
+  },
+  "570": {
+    "ほんきであそぶ": "Serious Lucky Dip"
+  },
+  "571": {
+    "ひゃくれつなめ": "Tongue Bashing"
+  },
+  "572": {
+    "パルプンテ": "Hocus Pocus"
+  },
+  "573": {
+    "死霊召喚": "Summon Dead"
+  },
+  "574": {
+    "clarity_nt_char_574": "clarity_nt_char_574"
+  },
+  "575": {
+    "死霊の導き": "Spirit Guidance"
+  },
+  "576": {
+    "デスパワー解放": "Preserve Death Power"
+  },
+  "577": {
+    "蘇生時25%バイキルト": "Oomphle On Revival 25%"
+  },
+  "578": {
+    "呪詛": "Curse"
+  },
+  "579": {
+    "clarity_nt_char_579": "clarity_nt_char_579"
+  },
+  "580": {
+    "深淵の契り": "Dark Covenant"
+  },
+  "581": {
+    "ギラ系呪文+10%": "Sizz Spells +10%"
+  },
+  "582": {
+    "蘇生時25%魔力覚醒": "Channel Anger Revive 25%"
+  },
+  "583": {
+    "clarity_nt_char_583": "clarity_nt_char_583"
+  },
+  "584": {
+    "反魂の秘術": "Soulless Arcana"
+  },
+  "585": {
+    "死霊の守り": "Spirit Defense"
+  },
+  "586": {
+    "2%デスパワー消費なし": "2% Don't Consume Death Power"
+  },
+  "587": {
+    "サクリファイス": "Sacrifice"
+  },
+  "588": {
+    "大呪詛": "Hex"
+  },
+  "589": {
+    "デスパワーブースト": "Death Power Boost"
+  },
+  "590": {
+    "血吸いの守り": "Siphon Guard"
+  },
+  "591": {
+    "clarity_nt_char_591": "clarity_nt_char_591"
+  },
+  "592": {
+    "早詠みの陣": "Quick Cast Ring"
+  },
+  "593": {
+    "こうげき魔力+35": "Magical Might +35"
+  },
+  "594": {
+    "事象反転": "Reversal"
+  },
+  "595": {
+    "clarity_nt_char_595": "clarity_nt_char_595"
+  },
+  "596": {
+    "かいふく魔力+40": "Magical Mending +40"
+  },
+  "597": {
+    "ハデスの宴": "Feast of Hades"
+  },
+  "598": {
+    "呪文ぼうそう率+3%": "Haywire Rate +3%"
+  },
+  "599": {
+    "clarity_nt_char_599": "clarity_nt_char_599"
+  },
+  "600": {
+    "かいしん率+5%": "Critical Rate+5%"
+  },
+  "601": {
+    "clarity_nt_char_601": "clarity_nt_char_601"
+  },
+  "602": {
+    "武器ガード率+8%": "Parry Rate +8%"
+  },
+  "603": {
+    "こうげき力+30": "Attack +30"
+  },
+  "604": {
+    "clarity_nt_char_604": "clarity_nt_char_604"
+  },
+  "605": {
+    "一閃突き・改": "T. Thrust Kai"
+  },
+  "606": {
+    "clarity_nt_char_606": "clarity_nt_char_606"
+  },
+  "607": {
+    "行動時10%バイシオン": "Oomph On Action 10%"
+  },
+  "608": {
+    "攻撃時5%でためる": "On Attack Tension 5%"
+  },
+  "609": {
+    "テンション時ダメ+300": "+300 Damage During Tension"
+  },
+  "610": {
+    "clarity_nt_char_610": "clarity_nt_char_610"
+  },
+  "611": {
+    "スティック装備で|戦闘に勝つと|ＭＰが大回復する": "Restores big|MP after battle|with a Wand."
+  },
+  "612": {
+    "clarity_nt_char_612": "clarity_nt_char_612"
+  },
+  "613": {
+    "きようさ+100": "Deftness +100"
+  },
+  "614": {
+    "clarity_nt_char_614": "clarity_nt_char_614"
+  },
+  "615": {
+    "チャージ時間-20秒": "Charge Time -20 sec."
+  },
+  "616": {
+    "clarity_nt_char_616": "clarity_nt_char_616"
+  },
+  "617": {
+    "特技の回復量+100%": "Recovery Skill +100%"
+  },
+  "618": {
+    "爪牙の陣": "Sap Circle"
+  },
+  "619": {
+    "clarity_nt_char_619": "clarity_nt_char_619"
+  },
+  "620": {
+    "行動時10%でヘビチャ": "On Action Heavy Charge 10%"
+  },
+  "621": {
+    "ガード時20%ダメ軽減": "20% Damage Down When Block"
+  },
+  "622": {
+    "棍装備時に|４％で武器ガード|できるようになる": "Parry Rate +4%|when a Rod|is equipped."
+  },
+  "623": {
+    "呪文発動速度+8%": "Spell Cast Speed +8%"
+  },
+  "624": {
+    "ドルマ系呪文+5%": "Zam Spells +5%"
+  },
+  "625": {
+    "こうげき魔力+60": "Magical Might +60"
+  },
+  "626": {
+    "行動時5%で聖なる祈り": "Care Prayer On Action 5%"
+  },
+  "627": {
+    "行動時5%で魔力覚醒": "On Action Channel Anger 5%"
+  },
+  "628": {
+    "clarity_nt_char_628": "clarity_nt_char_628"
+  },
+  "629": {
+    "攻撃時25%暴走アップ": "On Attack Haywire Up 25%"
+  },
+  "630": {
+    "攻撃時25%でぶきみ": "On Attack S. Aura 25%"
+  },
+  "631": {
+    "clarity_nt_char_631": "clarity_nt_char_631"
+  },
+  "632": {
+    "攻撃時25%でルカニ": "On Attack Sap 25%"
+  },
+  "633": {
+    "clarity_nt_char_633": "clarity_nt_char_633"
+  },
+  "634": {
+    "サマーソルトクロー": "Somersault Claw"
+  },
+  "635": {
+    "攻撃時25%でヘナトス": "On Attack Blunt 25%"
+  },
+  "636": {
+    "両手杖での攻撃時|吸収できる|ＭＰが増える": "More MP absorbed|when attacking|with a Staff."
+  },
+  "637": {
+    "ターン消費しない+5%": "Don't Consume Turn +5%"
+  },
+  "638": {
+    "こうげき魔力+40": "Magical Might +40"
+  },
+  "639": {
+    "バギ系射程距離+5m": "Swoosh-type Range +5m"
+  },
+  "640": {
+    "clarity_nt_char_640": "clarity_nt_char_640"
+  },
+  "641": {
+    "バギ系呪文+100%": "Swoosh Spells +100%"
+  },
+  "642": {
+    "clarity_nt_char_642": "clarity_nt_char_642"
+  },
+  "643": {
+    "行動時15%暴走アップ": "On Action Haywire Up 15%"
+  },
+  "644": {
+    "会心＆暴走時ダメ+200": "Critical/Haywire Damage +200"
+  },
+  "645": {
+    "clarity_nt_char_645": "clarity_nt_char_645"
+  },
+  "646": {
+    "救命の鎌": "Lifesaver"
+  },
+  "647": {
+    "clarity_nt_char_647": "clarity_nt_char_647"
+  },
+  "648": {
+    "植物系の敵に|威力を発揮する|頼もしいひと振り": "Does increased|damage versus|Plant-types."
+  },
+  "649": {
+    "敵１体を|たまにマヒさせる|気合いの大技": "Sometimes will|paralyze an|enemy."
+  },
+  "650": {
+    "clarity_nt_char_650": "clarity_nt_char_650"
+  },
+  "651": {
+    "オノ装備時の|こうげき力が|１５増える": "Attack +15|when an Axe|is equipped."
+  },
+  "652": {
+    "頭上から|敵１体を斬りつけ|守備力も下げる": "A head smash|that may reduce|Defense."
+  },
+  "653": {
+    "オノ装備時の|かいしん率が|２％増える": "Critical Rate +2%|when an Axe|is equipped."
+  },
+  "654": {
+    "失敗しやすいが|うまく当たれば|会心のいちげき": "An inaccurate|strike that deals|a critical hit."
+  },
+  "655": {
+    "オノ装備時の|こうげき力が|２０増える": "Attack +20|when an Axe|is equipped."
+  },
+  "656": {
+    "周囲の敵を|粉砕する|こんしんの大技": "An attack that|crushes enemies|around you."
+  },
+  "657": {
+    "clarity_nt_char_657": "clarity_nt_char_657"
+  },
+  "658": {
+    "敵１体を斬りつけ|守備力を下げて|行動間隔ものばす": "Lowers Defense|and slows|action wait."
+  },
+  "659": {
+    "オノ装備時の|かいしん率が|３％増える": "Critical Rate +3%|when an Axe|is equipped."
+  },
+  "660": {
+    "周囲の敵を|２回ずつ攻撃する|真のオノむそう": "Strikes enemies|twice in a|wide area."
+  },
+  "661": {
+    "clarity_nt_char_661": "clarity_nt_char_661"
+  },
+  "662": {
+    "敵１体を|毒にさせる|短剣専用呪文": "A Dagger spell|that poisons|an enemy."
+  },
+  "663": {
+    "ブーメラン装備時|こうげき力が|５増える": "Attack +5|when a Boomerang|is equipped."
+  },
+  "664": {
+    "clarity_nt_char_664": "clarity_nt_char_664"
+  },
+  "665": {
+    "メタルボディを|切り裂く|するどいつばさ": "Sharp wings that|cut through|Metal enemies."
+  },
+  "666": {
+    "clarity_nt_char_666": "clarity_nt_char_666"
+  },
+  "667": {
+    "全力で投げつけ|範囲内の敵に|等しくダメージ": "A powerful throw|that damages all|nearby enemies."
+  },
+  "668": {
+    "clarity_nt_char_668": "clarity_nt_char_668"
+  },
+  "669": {
+    "ブーメランでの|攻撃がさらに|当たりやすくなる": "Boomerang attacks|are much easier|to hit."
+  },
+  "670": {
+    "光のシャワーが|降りそそぎ|広範囲の敵を攻撃": "A shower of light|attacks in a|wide range."
+  },
+  "671": {
+    "clarity_nt_char_671": "clarity_nt_char_671"
+  },
+  "672": {
+    "炎に包まれた|ブーメランが|敵をメッタ切り": "Attack with a|boomerang|engulfed in flames."
+  },
+  "673": {
+    "範囲内の敵に|２回連続の|全体攻撃": "Attacks enemies|in range|two times."
+  },
+  "674": {
+    "氷の刃となった|ブーメランが|敵をメッタ切り": "An icy attack|that cuts through|nearby enemies."
+  },
+  "675": {
+    "clarity_nt_char_675": "clarity_nt_char_675"
+  },
+  "676": {
+    "ブーメラン装備時|かいしん率が|２％増える": "Critical Rate +2%|when a Boomerang|is equipped."
+  },
+  "677": {
+    "状態異常の耐性を|下げる２回連続の|ブーメラン攻撃": "A double attack|that reduces|status resist."
+  },
+  "678": {
+    "ブーメラン装備時|こうげき力が|１０増える": "Attack +10|when a Boomerang|is equipped."
+  },
+  "679": {
+    "敵１体を|たまに混乱させる|ムチさばき": "A strike that|sometimes causes|confusion."
+  },
+  "680": {
+    "攻撃呪文に|弱くなる矢を|敵１体に放つ": "A shot that|can greatly lower|spell resistance."
+  },
+  "681": {
+    "弓のこうげきが|少し遠くから|当たるようになる": "Bow attacks will|hit from a bit|further away."
+  },
+  "682": {
+    "鳥系の敵に|威力を発揮する|あざやかな弓の技": "A shot that deals|extra damage|to Bird-types."
+  },
+  "683": {
+    "clarity_nt_char_683": "clarity_nt_char_683"
+  },
+  "684": {
+    "弓装備時の|こうげき力が|１０増える": "Attack +10|when a Bow|is equipped."
+  },
+  "685": {
+    "clarity_nt_char_685": "clarity_nt_char_685"
+  },
+  "686": {
+    "雷のチカラを|弓矢に宿して|敵１体を射る": "Fires an arrow|with the power|of thunder."
+  },
+  "687": {
+    "clarity_nt_char_687": "clarity_nt_char_687"
+  },
+  "688": {
+    "弓のこうげきが|さらに遠くから|当たるようになる": "Bow attacks will|hit from much|further away."
+  },
+  "689": {
+    "clarity_nt_char_689": "clarity_nt_char_689"
+  },
+  "690": {
+    "敵１体めがけて|うちだされる|どとうの４連射": "A shot that|strikes an enemy|four times."
+  },
+  "691": {
+    "clarity_nt_char_691": "clarity_nt_char_691"
+  },
+  "692": {
+    "弓装備時の|こうげき力が|１５増える": "Attack +15|when a Bow|is equipped."
+  },
+  "693": {
+    "clarity_nt_char_693": "clarity_nt_char_693"
+  },
+  "694": {
+    "敵１体を|攻撃しつつ|自分のＭＰも回復": "Fires an arrow|that recovers MP|from damage."
+  },
+  "695": {
+    "敵を選ばず|するどい光の矢が|ふりそそぐ": "Arrows of light|that randomly|strike enemies."
+  },
+  "696": {
+    "clarity_nt_char_696": "clarity_nt_char_696"
+  },
+  "697": {
+    "弓装備時の|かいしん率が|３％増える": "Critical Rate +3%|when a Bow|is equipped."
+  },
+  "698": {
+    "clarity_nt_char_698": "clarity_nt_char_698"
+  },
+  "699": {
+    "範囲内の仲間を|悪い効果から|１度だけ守る": "Protects nearby|allies from bad|effects once."
+  },
+  "700": {
+    "闇のチカラで|敵１体を攻撃し|光耐性を下げる": "A darkness shot|that lowers light|resistance."
+  },
+  "701": {
+    "clarity_nt_char_701": "clarity_nt_char_701"
+  },
+  "702": {
+    "闇攻撃ダメージ+5%": "Dark Attack Damage +5%"
+  },
+  "703": {
+    "clarity_nt_char_703": "clarity_nt_char_703"
+  },
+  "704": {
+    "ツメ装備時の|こうげき力が|５増える": "Attack +5|when Claws|are equipped."
+  },
+  "705": {
+    "clarity_nt_char_705": "clarity_nt_char_705"
+  },
+  "706": {
+    "マシン系の敵に|威力を発揮する|鋼鉄を切り裂く拳": "Cuts through|Machine-types for|extra damage."
+  },
+  "707": {
+    "clarity_nt_char_707": "clarity_nt_char_707"
+  },
+  "708": {
+    "ツメ装備時の|かいしん率が|２％増える": "Critical Rate +2%|when Claws|are equipped."
+  },
+  "709": {
+    "身かわしや|ガードをされずに|攻撃が必ずヒット": "A precise claw|attack which|always hits."
+  },
+  "710": {
+    "敵１体を|３回連続で|はげしく切り裂く": "Slash at an|enemy 3 times|in a row."
+  },
+  "711": {
+    "敵１体をなぐり|よい効果を|吹きとばす": "An attack that|removes an|enemy's buffs."
+  },
+  "712": {
+    "ツメ装備時|身かわし率が|２％増える": "Dodge Rate +2%|when Claws|are equipped."
+  },
+  "713": {
+    "clarity_nt_char_713": "clarity_nt_char_713"
+  },
+  "714": {
+    "旋風を巻き起こし|敵１体を打ち抜く|必殺のアッパー": "Punches an enemy|with the power|of wind."
+  },
+  "715": {
+    "獣神のごとく|敵１体を|５連続で斬り刻む": "A relentless|onslaught of|five attacks."
+  },
+  "716": {
+    "clarity_nt_char_716": "clarity_nt_char_716"
+  },
+  "717": {
+    "短剣装備時の|こうげき力が|５増える": "Attack +5|when a Dagger|is equipped."
+  },
+  "718": {
+    "clarity_nt_char_718": "clarity_nt_char_718"
+  },
+  "719": {
+    "敵１体を|斬りつけて|たまに眠らせる": "A slash attack|that sometimes|puts to sleep."
+  },
+  "720": {
+    "clarity_nt_char_720": "clarity_nt_char_720"
+  },
+  "721": {
+    "短剣での攻撃時|たまにＭＰを|回復する": "Rarely absorb MP|when attacking|with a Dagger."
+  },
+  "722": {
+    "眠りや混乱の敵に|威力を発揮する|追い打ちの技": "Deals huge damage|to asleep or|confused enemies."
+  },
+  "723": {
+    "短剣装備時の|こうげき力が|１０増える": "Attack +10|when a Dagger|is equipped."
+  },
+  "724": {
+    "敵１体を|斬りつけて|たまに猛毒にする": "A slash attack|that sometimes|will poison."
+  },
+  "725": {
+    "短剣装備時の|かいしん率が|２％増える": "Critical Rate +2%|when a Dagger|is equipped."
+  },
+  "726": {
+    "短剣装備時の|こうげき力が|１５増える": "Attack +15|when a Dagger|is equipped."
+  },
+  "727": {
+    "毒やマヒの敵に|威力を発揮する|追い打ちの技": "Deals huge damage|to a paralyzed or|poisoned enemy."
+  },
+  "728": {
+    "clarity_nt_char_728": "clarity_nt_char_728"
+  },
+  "729": {
+    "敵１体を斬りつけ|混乱やマヒを|起こさせる": "A slash that can|cause confusion|and paralysis."
+  },
+  "730": {
+    "敵１体を斬りつけ|猛毒や眠りを|起こさせる": "A slash that can|cause deadly|poison and sleep."
+  },
+  "731": {
+    "短剣装備時の|状態異常成功率が|あがる": "Status effect|success up with a|Dagger equipped."
+  },
+  "732": {
+    "花びらを散らし|周囲の敵を|幻惑にかける": "Scatter petals|and dazzle|nearby enemies."
+  },
+  "733": {
+    "clarity_nt_char_733": "clarity_nt_char_733"
+  },
+  "734": {
+    "扇装備時の|かいしん率が|２％増える": "Critical Rate +2%|when a Fan|is equipped."
+  },
+  "735": {
+    "clarity_nt_char_735": "clarity_nt_char_735"
+  },
+  "736": {
+    "心をしずめ自分の|ＨＰを最大３００|少しずつ回復": "Calm your mind|and recover 300|HP over time."
+  },
+  "737": {
+    "clarity_nt_char_737": "clarity_nt_char_737"
+  },
+  "738": {
+    "扇装備時の|こうげき力が|１０増える": "Attack +10|when a Fan|is equipped."
+  },
+  "739": {
+    "clarity_nt_char_739": "clarity_nt_char_739"
+  },
+  "740": {
+    "水系の敵に|威力を発揮する|軽やかな扇の技": "An attack that|deals more damage|to Water-types."
+  },
+  "741": {
+    "扇装備時に敵が|みとれやすくなる": "Dazzle enemies|easier with a|Fan equipped."
+  },
+  "742": {
+    "clarity_nt_char_742": "clarity_nt_char_742"
+  },
+  "743": {
+    "優雅な踊りで|周囲の敵に|４回攻撃": "A dance that hits|nearby enemies|four times."
+  },
+  "744": {
+    "扇装備時の|こうげき力が|１５増える": "Attack +15|when a Fan|is equipped."
+  },
+  "745": {
+    "clarity_nt_char_745": "clarity_nt_char_745"
+  },
+  "746": {
+    "舞い踊る|アゲハの群れが|周囲の敵を攻撃": "A butterfly swarm|attacks nearby|enemies."
+  },
+  "747": {
+    "clarity_nt_char_747": "clarity_nt_char_747"
+  },
+  "748": {
+    "魅惑の旋風で|周囲の敵を|切りきざむ": "A huge whirlwind|cuts up nearby|enemies."
+  },
+  "749": {
+    "clarity_nt_char_749": "clarity_nt_char_749"
+  },
+  "750": {
+    "周囲の敵を攻撃し|幻惑や攻撃呪文に|弱くする": "Area attack that|weakens blind and|attack spells."
+  },
+  "751": {
+    "clarity_nt_char_751": "clarity_nt_char_751"
+  },
+  "752": {
+    "敵１体に|石をぶつけて|土ダメージ": "Throws a stone,|dealing earth|damage."
+  },
+  "753": {
+    "格闘での攻撃時|かいしん率が|２％増える": "Critical Rate +2%|when fighting|bare-handed."
+  },
+  "754": {
+    "clarity_nt_char_754": "clarity_nt_char_754"
+  },
+  "755": {
+    "エレメント系に|威力を発揮する|風切りのやいば": "Cuts through|Element-types for|extra damage."
+  },
+  "756": {
+    "格闘の時の|こうげき力が|２０増える": "Attack +20|when fighting|bare-handed."
+  },
+  "757": {
+    "clarity_nt_char_757": "clarity_nt_char_757"
+  },
+  "758": {
+    "チカラを込めて|まっすぐ敵１体を|なぐりつける": "Hits an enemy|with a high|critical chance."
+  },
+  "759": {
+    "格闘の時|身かわし率が|２％増える": "Dodge Rate +2%|when fighting|bare-handed."
+  },
+  "760": {
+    "飛んでいる敵に|威力を発揮する|華麗な宙返り": "A kick that deals|extra damage to|flying enemies."
+  },
+  "761": {
+    "clarity_nt_char_761": "clarity_nt_char_761"
+  },
+  "762": {
+    "格闘の時の|こうげき力が|４０増える": "Attack +40|when fighting|bare-handed."
+  },
+  "763": {
+    "clarity_nt_char_763": "clarity_nt_char_763"
+  },
+  "764": {
+    "敵１体に|しっぷうどとうの|４回攻撃": "Attack an|enemy with four|fist strikes."
+  },
+  "765": {
+    "clarity_nt_char_765": "clarity_nt_char_765"
+  },
+  "766": {
+    "呼吸をととのえ|少しずつ|ＨＰを回復": "Adjust your|breathing and|recover HP."
+  },
+  "767": {
+    "clarity_nt_char_767": "clarity_nt_char_767"
+  },
+  "768": {
+    "敵の頭上めがけた|巨大な岩石で|土ダメージ": "Throw a huge rock|that deals Earth|damage."
+  },
+  "769": {
+    "チカラをタメて|敵１体に|強烈な一撃": "Hit one enemy|and accumulate|energy."
+  },
+  "770": {
+    "clarity_nt_char_770": "clarity_nt_char_770"
+  },
+  "771": {
+    "格闘の時の|こうげき力が|５０増える": "Attack +50|when fighting|bare-handed."
+  },
+  "772": {
+    "clarity_nt_char_772": "clarity_nt_char_772"
+  },
+  "773": {
+    "物質系の敵に|威力を発揮する|チカラ強い打撃技": "Strikes Material|types for extra|damage."
+  },
+  "774": {
+    "ハンマー装備時の|こうげき力が|５増える": "Attack +5|when a Hammer|is equipped."
+  },
+  "775": {
+    "clarity_nt_char_775": "clarity_nt_char_775"
+  },
+  "776": {
+    "敵１体を|攻撃しつつ|守備力も下げる": "Attack one enemy|and reduce|their Defense."
+  },
+  "777": {
+    "clarity_nt_char_777": "clarity_nt_char_777"
+  },
+  "778": {
+    "ハンマー装備時の|かいしん率が|２％増える": "Critical Rate +2%|when a Hammer|is equipped."
+  },
+  "779": {
+    "なぐった相手の|ＭＰを減らす|ハンマーの妙技": "A smash that|reduces an|enemy's MP."
+  },
+  "780": {
+    "clarity_nt_char_780": "clarity_nt_char_780"
+  },
+  "781": {
+    "ハンマー装備時の|こうげき力が|１０増える": "Attack +10|when a Hammer|is equipped."
+  },
+  "782": {
+    "相手の行動を|キャンセルする|あざやかな一撃": "A blow that|interrupts enemy|actions."
+  },
+  "783": {
+    "clarity_nt_char_783": "clarity_nt_char_783"
+  },
+  "784": {
+    "ハンマー装備時の|こうげき力が|１５増える": "Attack +15|when a Hammer|is equipped."
+  },
+  "785": {
+    "土属性の衝撃波で|自分の周りの敵を|ふっとばして攻撃": "An Earth area|attack that blows|enemies away."
+  },
+  "786": {
+    "clarity_nt_char_786": "clarity_nt_char_786"
+  },
+  "787": {
+    "なぐった相手を|ひるませる|強烈な一撃": "An attack that|can shock|nearby enemies."
+  },
+  "788": {
+    "自分の周りの敵に|土ダメージを与え|守備と重さダウン": "An Earth area|blow that lowers|Weight & Defense."
+  },
+  "789": {
+    "clarity_nt_char_789": "clarity_nt_char_789"
+  },
+  "790": {
+    "ハンマー装備時の|さいだいＨＰが|１０増える": "Max HP +10|when a Hammer|is equipped."
+  },
+  "791": {
+    "clarity_nt_char_791": "clarity_nt_char_791"
+  },
+  "792": {
+    "周囲の敵の|足元をはらって|すっころばす": "Spin attack that|knocks nearby|enemies down."
+  },
+  "793": {
+    "clarity_nt_char_793": "clarity_nt_char_793"
+  },
+  "794": {
+    "ゾンビ系の敵に|威力を発揮する|聖なる技": "A sacred attack|deals more damage|to Zombie-types."
+  },
+  "795": {
+    "clarity_nt_char_795": "clarity_nt_char_795"
+  },
+  "796": {
+    "棍装備時の|こうげき力が|１５増える": "Attack +15|when a Rod|is equipped."
+  },
+  "797": {
+    "clarity_nt_char_797": "clarity_nt_char_797"
+  },
+  "798": {
+    "棍を振りまわし|前方の敵を|なぎはらう": "Mows down enemies|in an angle in|front of you."
+  },
+  "799": {
+    "棍装備時|身かわし率が|４％増える": "Dodge Rate +2%|when a Rod|is equipped."
+  },
+  "800": {
+    "氷をまとった棍で|敵１体を|４回打ちつける": "Hit an enemy|with an ice clad|rod four times."
+  },
+  "801": {
+    "棍装備時の|こうげき力が|２０増える": "Attack +20|when a Rod|is equipped."
+  },
+  "802": {
+    "clarity_nt_char_802": "clarity_nt_char_802"
+  },
+  "803": {
+    "相手の攻撃を|受けながしつつ|なぐりかかる大技": "Strike back after|parrying an|enemy's attack."
+  },
+  "804": {
+    "棍装備時の|かいしん率が|２％増える": "Critical Rate +2%|when a Rod|is equipped."
+  },
+  "805": {
+    "clarity_nt_char_805": "clarity_nt_char_805"
+  },
+  "806": {
+    "武器ガード率と|カウンター率が|大幅に上がる": "Parry and Counter|Rate is greatly|increased."
+  },
+  "807": {
+    "clarity_nt_char_807": "clarity_nt_char_807"
+  },
+  "808": {
+    "棍装備時の|武器ガード率が|４％増える": "Parry Rate +4%|when a Rod|is equipped."
+  },
+  "809": {
+    "敵１体に強烈な|ダメージを与える|棍の奥義": "Deals intense|damage to one|enemy."
+  },
+  "810": {
+    "棍装備時の|こうげき力が|１０増える": "Attack +10|when a Rod|is equipped."
+  },
+  "811": {
+    "clarity_nt_char_811": "clarity_nt_char_811"
+  },
+  "812": {
+    "悪魔系の敵に|威力を発揮し|さらにマヒさせる": "Extra damage and|paralysis to|Demon-types."
+  },
+  "813": {
+    "clarity_nt_char_813": "clarity_nt_char_813"
+  },
+  "814": {
+    "両手杖装備で|戦闘に勝つと|ＭＰが小回復する": "Recover slight MP|after battle with|a Staff."
+  },
+  "815": {
+    "clarity_nt_char_815": "clarity_nt_char_815"
+  },
+  "816": {
+    "いつもより|すばやく呪文を|唱えられる": "Your spells will|cast faster for|a while."
+  },
+  "817": {
+    "両手杖装備時の|こうげき魔力が|３０増える": "Mag. Might +30|when a Staff|is equipped."
+  },
+  "818": {
+    "仲間ひとりの|ＨＰをそこそこ|回復する": "Restores|moderate HP to|a single ally."
+  },
+  "819": {
+    "中にいると呪文が|暴走しやすくなる|魔法陣を作る": "Conjure a circle|that increases|haywire chance."
+  },
+  "820": {
+    "clarity_nt_char_820": "clarity_nt_char_820"
+  },
+  "821": {
+    "両手杖装備時|さいだいＭＰが|１００増える": "Max MP +100|when a Staff|is equipped."
+  },
+  "822": {
+    "両手杖装備で|戦闘に勝つと|ＭＰが中回復する": "Restore MP when|you win a battle|with a Staff."
+  },
+  "823": {
+    "clarity_nt_char_823": "clarity_nt_char_823"
+  },
+  "824": {
+    "両手杖での攻撃時|吸収できるＭＰが|さらに増える": "More MP absorbed|when attacking|with a Staff."
+  },
+  "825": {
+    "clarity_nt_char_825": "clarity_nt_char_825"
+  },
+  "826": {
+    "さらに呪文が|暴走しやすくなる|魔法陣を作る": "Conjures a circle|that makes spells|go haywire."
+  },
+  "827": {
+    "clarity_nt_char_827": "clarity_nt_char_827"
+  },
+  "828": {
+    "両手杖装備時の|こうげき魔力が|１０増える": "Mag. Might +10|when a Staff|is equipped."
+  },
+  "829": {
+    "仲間ひとりを|確実に|生き返らせる": "Revive one|companion|without fail."
+  },
+  "830": {
+    "両手杖装備時|さいだいＭＰが|３０増える": "Max MP +30|when a Staff|is equipped."
+  },
+  "831": {
+    "clarity_nt_char_831": "clarity_nt_char_831"
+  },
+  "832": {
+    "盾装備時の|盾ガード率が|１％増える": "Block Rate +1%|when a Shield|is equipped."
+  },
+  "833": {
+    "clarity_nt_char_833": "clarity_nt_char_833"
+  },
+  "834": {
+    "守りを固めて|ダメージを|すこし減らす": "Defend yourself|and slightly|reduce damage."
+  },
+  "835": {
+    "盾ガード率が|大幅に上がる|守りのかまえ": "A stance that|greatly increases|Block Rate."
+  },
+  "836": {
+    "clarity_nt_char_836": "clarity_nt_char_836"
+  },
+  "837": {
+    "身を守りつつ|敵１体を攻撃する": "Attack an enemy|while defending."
+  },
+  "838": {
+    "聖なる光で|悪い効果から|自分の身を守る": "Protect yourself|from bad effects|with holy light."
+  },
+  "839": {
+    "clarity_nt_char_839": "clarity_nt_char_839"
+  },
+  "840": {
+    "盾装備時の|しゅび力が|３０増える": "Defense +30|while a Shield|is equipped."
+  },
+  "841": {
+    "守りをかためて|痛恨のいちげきの|ダメージを軽減": "Defend and reduce|critical damage|taken."
+  },
+  "842": {
+    "clarity_nt_char_842": "clarity_nt_char_842"
+  },
+  "843": {
+    "盾装備時の|しゅび力が|１０増える": "Defense +10|when a Shield|is equipped."
+  },
+  "844": {
+    "与えるダメージと|ひきかえに受ける|ダメージを減らす": "Reduces your|damage dealt|and damage taken."
+  },
+  "845": {
+    "clarity_nt_char_845": "clarity_nt_char_845"
+  },
+  "846": {
+    "自分に１回だけ|呪文をかき消す|バリアを張る": "Nullify a spell|against you|one time."
+  },
+  "847": {
+    "clarity_nt_char_847": "clarity_nt_char_847"
+  },
+  "848": {
+    "獣系の敵に|威力を発揮する|荒々しい突き": "A rough thrust|effective to|Beast-types."
+  },
+  "849": {
+    "clarity_nt_char_849": "clarity_nt_char_849"
+  },
+  "850": {
+    "ヤリ装備時に|４％で武器ガード|できるようになる": "Parry +4%|when a Spear|is equipped."
+  },
+  "851": {
+    "clarity_nt_char_851": "clarity_nt_char_851"
+  },
+  "852": {
+    "ヤリ装備時の|かいしん率が|２％増える": "Critical Rate +2%|when Spear|equipped."
+  },
+  "853": {
+    "雷のチカラを|ヤリに宿して|敵を突く": "Thrust with the|power of|thunder."
+  },
+  "854": {
+    "clarity_nt_char_854": "clarity_nt_char_854"
+  },
+  "855": {
+    "ヤリ装備時の|武器ガード率が|５％増える": "Parry Rate +5%|when a Spear|is equipped."
+  },
+  "856": {
+    "clarity_nt_char_856": "clarity_nt_char_856"
+  },
+  "857": {
+    "ヤリ装備時の|こうげき力が|１５増える": "Attack +15|when a Spear|is equipped."
+  },
+  "858": {
+    "ヤリ装備時の|こうげき力が|２０増える": "Attack +20|when a Spear|is equipped."
+  },
+  "859": {
+    "攻撃する相手と|直線上にいる敵を|刺しつらぬく大技": "Pierces enemies|in a straight|line."
+  },
+  "860": {
+    "ヤリ装備時の|かいしん率が|３％増える": "Critical Rate +3%|when a Spear|is equipped."
+  },
+  "861": {
+    "敵を選ばず|突きまくる|どとうの４回攻撃": "Stabs an enemy|four times in|succession."
+  },
+  "862": {
+    "clarity_nt_char_862": "clarity_nt_char_862"
+  },
+  "863": {
+    "ヤリ装備時の|武器ガード率が|３％増える": "Parry Rate +3%|when a Spear|is equipped."
+  },
+  "864": {
+    "clarity_nt_char_864": "clarity_nt_char_864"
+  },
+  "865": {
+    "地獄のいかずちで|ダメージを与え|たまにマヒさせる": "A thunder attack|that can cause|paralysis."
+  },
+  "866": {
+    "マジでステキに|みりょくアップ": "Greatly increases|an ally's Charm."
+  },
+  "867": {
+    "スティック装備で|戦闘に勝つと|ＭＰが小回復する": "Recover slight MP|after battle with|a Wand."
+  },
+  "868": {
+    "clarity_nt_char_868": "clarity_nt_char_868"
+  },
+  "869": {
+    "スティック装備時|かいふく魔力が|３０増える": "Mag. Mending +30|when a Wand|is equipped."
+  },
+  "870": {
+    "clarity_nt_char_870": "clarity_nt_char_870"
+  },
+  "871": {
+    "悪魔系の敵に|威力を発揮し|たまに魅了もする": "Extra damage|to Demons with a|chance to charm."
+  },
+  "872": {
+    "clarity_nt_char_872": "clarity_nt_char_872"
+  },
+  "873": {
+    "スティック装備時|さいだいＭＰが|３０増える": "Max MP +30|when a Wand|is equipped."
+  },
+  "874": {
+    "clarity_nt_char_874": "clarity_nt_char_874"
+  },
+  "875": {
+    "スティック攻撃時|吸収できるＭＰが|さらに増える": "More MP absorbed|when attacking|with a Wand."
+  },
+  "876": {
+    "clarity_nt_char_876": "clarity_nt_char_876"
+  },
+  "877": {
+    "スティックを|グルグル回して|敵を混乱させる": "Twiddle wand|and confuse|nearby enemies."
+  },
+  "878": {
+    "clarity_nt_char_878": "clarity_nt_char_878"
+  },
+  "879": {
+    "キラキラパワーで|悪い効果から|仲間の身を守る": "Use glitter power|to protect allies|from bad effects."
+  },
+  "880": {
+    "スティック装備で|戦闘に勝つと|ＭＰが中回復する": "Restore medium MP|after a battle|with a Wand."
+  },
+  "881": {
+    "clarity_nt_char_881": "clarity_nt_char_881"
+  },
+  "882": {
+    "仲間ひとりの|テンションを|１段階アップする": "Raise Tension|for one ally|by 1 level."
+  },
+  "883": {
+    "clarity_nt_char_883": "clarity_nt_char_883"
+  },
+  "884": {
+    "片手剣装備時の|こうげき力が|５増える": "Attack +5|when a Sword|is equipped."
+  },
+  "885": {
+    "ドラゴン系の敵に|威力を発揮する|竜殺しの剣技": "A slash that is|effective versus|Dragon-types."
+  },
+  "886": {
+    "片手剣装備時の|かいしん率が|２％増える": "Critical Rate +2%|when a Sword|is equipped."
+  },
+  "887": {
+    "clarity_nt_char_887": "clarity_nt_char_887"
+  },
+  "888": {
+    "敵を斬りつけ|自らのキズも|いやす秘剣": "A slash that|heals some damage|you deal."
+  },
+  "889": {
+    "片手剣装備時の|こうげき力が|１０増える": "Attack +10|when a Sword|is equipped."
+  },
+  "890": {
+    "clarity_nt_char_890": "clarity_nt_char_890"
+  },
+  "891": {
+    "はやぶさのごとき|高速の２回攻撃": "Strikes an enemy|twice quickly."
+  },
+  "892": {
+    "clarity_nt_char_892": "clarity_nt_char_892"
+  },
+  "893": {
+    "片手剣装備時に|４％で武器ガード|できるようになる": "Parry Rate +4%|when a Sword|is equipped."
+  },
+  "894": {
+    "片手剣装備時の|こうげき力が|１５増える": "Attack +15|when a Sword|is equipped."
+  },
+  "895": {
+    "clarity_nt_char_895": "clarity_nt_char_895"
+  },
+  "896": {
+    "光の刃を剣にかえ|周囲をなぎはらう|剣の奥義": "Deals a light|attack to all|nearby enemies."
+  },
+  "897": {
+    "clarity_nt_char_897": "clarity_nt_char_897"
+  },
+  "898": {
+    "はやぶさをこえる|神速の４回攻撃": "Deals four, super|fast attacks."
+  },
+  "899": {
+    "clarity_nt_char_899": "clarity_nt_char_899"
+  },
+  "900": {
+    "片手剣装備時の|武器ガード率が|２％増える": "Parry Rate +2%|when a Sword|is equipped."
+  },
+  "901": {
+    "光の刃で周囲の|敵を撃ち滅ぼす|究極の剣技": "Destroys nearby|enemies with a|blade of light."
+  },
+  "902": {
+    "両手剣装備時の|こうげき力が|１０増える": "Attack +10|when a Claymore|is equipped."
+  },
+  "903": {
+    "clarity_nt_char_903": "clarity_nt_char_903"
+  },
+  "904": {
+    "ドラゴン系の敵に|威力を発揮する|竜殺しのひと振り": "A slash that's|more effective|versus Dragons."
+  },
+  "905": {
+    "両手剣装備時の|かいしん率が|２％増える": "Critical Rate +2%|when a Claymore|is equipped."
+  },
+  "906": {
+    "clarity_nt_char_906": "clarity_nt_char_906"
+  },
+  "907": {
+    "振りまわした剣で|周囲の敵を|なぎはらう": "Spin around to|damage nearby|enemies."
+  },
+  "908": {
+    "clarity_nt_char_908": "clarity_nt_char_908"
+  },
+  "909": {
+    "両手剣装備時に|４％で武器ガード|できるようになる": "Parry Rate +4%|when a Claymore|is equipped."
+  },
+  "910": {
+    "両手剣装備時の|こうげき力が|１５増える": "Attack +15|when a Claymore|is equipped."
+  },
+  "911": {
+    "clarity_nt_char_911": "clarity_nt_char_911"
+  },
+  "912": {
+    "周囲の敵を|凍てつく氷で|こごえさせる": "Freeze nearby|enemies with|ice power."
+  },
+  "913": {
+    "両手剣装備時の|こうげき力が|２０増える": "Attack +20|when a Claymore|is equipped."
+  },
+  "914": {
+    "clarity_nt_char_914": "clarity_nt_char_914"
+  },
+  "915": {
+    "頭上から|敵１体を斬りつけ|大ダメージ": "Slash one enemy|from above for|heavy damage."
+  },
+  "916": {
+    "周囲の敵を|炎の大爆発で|焼きつくす": "Burn nearby|enemies with a|fiery explosion."
+  },
+  "917": {
+    "clarity_nt_char_917": "clarity_nt_char_917"
+  },
+  "918": {
+    "両手剣装備時の|武器ガード率が|４％増える": "Parry Rate +4%|when a Claymore|is equipped."
+  },
+  "919": {
+    "フルパワーで|敵１体を斬りつけ|大ダメージ": "Slash an enemy|at full power|for huge damage."
+  },
+  "920": {
+    "ムチ装備時の|こうげき力が|５増える": "Attack +5|when a Whip|is equipped."
+  },
+  "921": {
+    "clarity_nt_char_921": "clarity_nt_char_921"
+  },
+  "922": {
+    "怪人系の敵に|威力を発揮する|はげしいムチ攻撃": "An strike that's|effective versus|Humanoid-types."
+  },
+  "923": {
+    "まぶしい光で|目をくらませる|光属性の攻撃": "A light attack|that can dazzle|enemies."
+  },
+  "924": {
+    "敵１体を|たまにマヒさせる|ムチさばき": "A strike that|can cause|paralysis."
+  },
+  "925": {
+    "振るったムチから|雷が地面を走り|前方の敵を攻撃": "A lightning|strike to enemies|in front of you."
+  },
+  "926": {
+    "clarity_nt_char_926": "clarity_nt_char_926"
+  },
+  "927": {
+    "ムチのこうげきが|少し遠くの敵まで|当たるようになる": "The reach of Whip|attacks is|slightly farther."
+  },
+  "928": {
+    "clarity_nt_char_928": "clarity_nt_char_928"
+  },
+  "929": {
+    "敵１体に|双竜のごとく|２回攻撃": "Twin dragons|attack an enemy|twice."
+  },
+  "930": {
+    "clarity_nt_char_930": "clarity_nt_char_930"
+  },
+  "931": {
+    "ムチ装備時の|こうげき力が|１０増える": "Attack +10|when a Whip|is equipped."
+  },
+  "932": {
+    "雷をまとった|ムチの一閃が|敵集団をなぎ払う": "A lightning|attack to enemies|in front of you."
+  },
+  "933": {
+    "clarity_nt_char_933": "clarity_nt_char_933"
+  },
+  "934": {
+    "ムチ装備時の|かいしん率が|４％増える": "Critical Rate +4%|when a Whip|is equipped."
+  },
+  "935": {
+    "敵１体に３連撃の|ダメージを与え|よい効果も消す": "Attacks thrice|and removes any|positive effects."
+  },
+  "936": {
+    "clarity_nt_char_936": "clarity_nt_char_936"
+  },
+  "937": {
+    "色紙代をはらって|敵１体サイン攻撃|スパスタ専用特技": "Attack one enemy|with your|autograph!"
+  },
+  "938": {
+    "clarity_nt_char_938": "clarity_nt_char_938"
+  },
+  "939": {
+    "全職業で|みりょくが|２０増える": "Charm +20|in all|vocations."
+  },
+  "940": {
+    "clarity_nt_char_940": "clarity_nt_char_940"
+  },
+  "941": {
+    "周囲の敵の|目をくらませる|スパスタ専用特技": "Dazzles enemies|surrounding you."
+  },
+  "942": {
+    "clarity_nt_char_942": "clarity_nt_char_942"
+  },
+  "943": {
+    "全職業で|すばやさが|３０増える": "Agility +30|in all|vocations."
+  },
+  "944": {
+    "clarity_nt_char_944": "clarity_nt_char_944"
+  },
+  "945": {
+    "周囲の敵が|みとれやすくなる|スパスタ専用特技": "Nearby enemies|become easier|to dazzle."
+  },
+  "946": {
+    "全職業で|こうげき魔力が|１０増える": "Mag. Might +10|in all|vocations."
+  },
+  "947": {
+    "clarity_nt_char_947": "clarity_nt_char_947"
+  },
+  "948": {
+    "ボディーガードを|ゴールドでやとう|スパスタ専用特技": "Pay Gold to hire|a Bodyguard to|protect you."
+  },
+  "949": {
+    "clarity_nt_char_949": "clarity_nt_char_949"
+  },
+  "950": {
+    "全職業で|みりょくが|６０増える": "Charm +60|in all|vocations."
+  },
+  "951": {
+    "clarity_nt_char_951": "clarity_nt_char_951"
+  },
+  "952": {
+    "最高のほほえみで|経験値とＧアップ|スパスタ専用特技": "Increases EXP and|Gold earned|after battle."
+  },
+  "953": {
+    "clarity_nt_char_953": "clarity_nt_char_953"
+  },
+  "954": {
+    "ゴールドを使って|セレブなダメージ|スパスタ専用特技": "Deals damage to|nearby enemies|using Gold."
+  },
+  "955": {
+    "clarity_nt_char_955": "clarity_nt_char_955"
+  },
+  "956": {
+    "スパスタ時|みりょくが|３０増える": "Charm +30|when you are a|Superstar."
+  },
+  "957": {
+    "スパスタ時に敵が|みとれやすくなる": "Easier to dazzle|as a Superstar."
+  },
+  "958": {
+    "周囲を巻き込む|巨大な竜巻が|敵を切り刻む": "A huge tornado|that chops up|nearby enemies."
+  },
+  "959": {
+    "スパスタ時|ボディーガードが|強化される": "Bodyguard is|more durable as|a Superstar."
+  },
+  "960": {
+    "clarity_nt_char_960": "clarity_nt_char_960"
+  },
+  "961": {
+    "経験値とゴールド|特訓スタンプ増加|スパスタ専用特技": "After battle EXP,|Gold, and stamps|is increased."
+  },
+  "962": {
+    "clarity_nt_char_962": "clarity_nt_char_962"
+  },
+  "963": {
+    "あえて敵を怒らせ|攻撃してきた時に|マヒさせる": "Paralyze the|enemy when you|dare to attack."
+  },
+  "964": {
+    "応援した相手の|テンションを|上げる": "Raises tension of|someone you|supported."
+  },
+  "965": {
+    "clarity_nt_char_965": "clarity_nt_char_965"
+  },
+  "966": {
+    "敵１体に雷の竜で|大ダメージを与え|風耐性も下げる": "A thunder attack|that lowers|wind resistance."
+  },
+  "967": {
+    "範囲内の敵に|風の刃で２回攻撃|雷耐性も下げる": "Area of wind hits|twice. Lowers|thunder resist."
+  },
+  "968": {
+    "範囲内にいる|仲間のＨＰを|大幅に回復する": "Restore|large HP|to nearby allies."
+  },
+  "969": {
+    "すばやく呪文を|唱えられ|必ず呪文が暴走！": "Spells cast fast|and will surely|go haywire!"
+  },
+  "970": {
+    "ダメージが増える|魔法陣を作る": "Conjure a circle|to boost damage."
+  },
+  "971": {
+    "周囲の味方の|ダメージを軽減し|かわりに受ける": "Take damage in|place of nearby|allies."
+  },
+  "972": {
+    "こうげきに|炎のチカラを宿す|魔法戦士専用特技": "Fire element|is added to|your attacks."
+  },
+  "973": {
+    "全職業で|ちからが|１０増える": "Strength +10|in all|vocations."
+  },
+  "974": {
+    "こうげきに|氷のチカラを宿す|魔法戦士専用特技": "Ice element|is added to|your attacks."
+  },
+  "975": {
+    "全職業で|さいだいＭＰが|１０増える": "Max MP +10|in all|vocations."
+  },
+  "976": {
+    "clarity_nt_char_976": "clarity_nt_char_976"
+  },
+  "977": {
+    "こうげきに風と|雷のチカラを宿す|魔法戦士専用特技": "Wind/thunder|element is added|to your attacks."
+  },
+  "978": {
+    "全職業で|みのまもりが|５増える": "Resilience +5|for all|vocations."
+  },
+  "979": {
+    "clarity_nt_char_979": "clarity_nt_char_979"
+  },
+  "980": {
+    "こうげきに土と|闇のチカラを宿す|魔法戦士専用特技": "Earth/dark|element is added|to your attacks."
+  },
+  "981": {
+    "ＭＰ１００を|仲間に分け与える|魔法戦士専用特技": "Recover an|ally's MP|by 100."
+  },
+  "982": {
+    "clarity_nt_char_982": "clarity_nt_char_982"
+  },
+  "983": {
+    "全職業で|さいだいＨＰが|２０増える": "Max HP +20|in all|vocations."
+  },
+  "984": {
+    "clarity_nt_char_984": "clarity_nt_char_984"
+  },
+  "985": {
+    "こうげきに|光のチカラを宿す|魔法戦士専用特技": "Light element|is added to|your attacks."
+  },
+  "986": {
+    "魔法戦士時|フォースを範囲で|かけられる": "Fource skills now|affect all nearby|allies."
+  },
+  "987": {
+    "clarity_nt_char_987": "clarity_nt_char_987"
+  },
+  "988": {
+    "魔法戦士時|さいだいＭＰが|３０増える": "Max MP +30|when you are a|Armamentalist."
+  },
+  "989": {
+    "ダメージを与え|全耐性ダウン|魔法戦士専用特技": "Reduces all of|an enemy's|resistances."
+  },
+  "990": {
+    "魔法戦士で攻撃時|たまにＭＰを|回復する": "Rarely recover|MP on attack as|an Armamentalist."
+  },
+  "991": {
+    "clarity_nt_char_991": "clarity_nt_char_991"
+  },
+  "992": {
+    "ＭＰをすべて使い|敵を打ち滅ぼす|最強の光の呪文": "Uses all MP in a|giant blast of|light."
+  },
+  "993": {
+    "clarity_nt_char_993": "clarity_nt_char_993"
+  },
+  "994": {
+    "ＭＰ回復とたまに|ダメージアップの|大チャンス！？": "MP recovery and|may boost damage|for all allies."
+  },
+  "995": {
+    "やいばに|全身を包んで|自分の身を守る": "Wrap yourself in|spikes to damage|attackers."
+  },
+  "996": {
+    "全職業で|みのまもりが|１０増える": "Resilience +10|in all|vocations."
+  },
+  "997": {
+    "ＨＰの３０％を|仲間ひとりに|分け与える": "Transfer 30% HP|to a single|companion."
+  },
+  "998": {
+    "clarity_nt_char_998": "clarity_nt_char_998"
+  },
+  "999": {
+    "全職業で|かいふく魔力が|１０増える": "Mag. Mending +10|in all|vocations."
+  },
+  "1000": {
+    "clarity_nt_char_1000": "clarity_nt_char_1000"
+  },
+  "1001": {
+    "周りの仲間を|身体をはって守る|パラディン専用": "Take damage|in place of|allies."
+  },
+  "1002": {
+    "自分の重さを|大幅アップする|パラディン専用": "Greatly increase|your own Weight."
+  },
+  "1003": {
+    "clarity_nt_char_1003": "clarity_nt_char_1003"
+  },
+  "1004": {
+    "全職業で|みのまもりが|２０増える": "Resilience +20|in all|vocations."
+  },
+  "1005": {
+    "全職業で|さいだいＨＰが|３０増える": "Max HP +30|in all|vocations."
+  },
+  "1006": {
+    "clarity_nt_char_1006": "clarity_nt_char_1006"
+  },
+  "1007": {
+    "ダメージを|大幅に減らす|パラディン専用": "Greatly reduces|damage taken."
+  },
+  "1008": {
+    "clarity_nt_char_1008": "clarity_nt_char_1008"
+  },
+  "1009": {
+    "におうだち中に|受けるダメージを|減らす": "Further reduces|damage during|Forbearance."
+  },
+  "1010": {
+    "clarity_nt_char_1010": "clarity_nt_char_1010"
+  },
+  "1011": {
+    "パラディン時|さいだいＨＰが|６０増える": "Max HP +60|when you are a|Paladin."
+  },
+  "1012": {
+    "clarity_nt_char_1012": "clarity_nt_char_1012"
+  },
+  "1013": {
+    "光で周囲を滅する|星雲のかがやき|パラディン専用": "Destroys nearby|enemies with a|light nebula."
+  },
+  "1014": {
+    "clarity_nt_char_1014": "clarity_nt_char_1014"
+  },
+  "1015": {
+    "パラディンで|ガード時たまに|敵がしびれる": "Sometimes numbs|the enemy while|blocking."
+  },
+  "1016": {
+    "１度だけダメージ|無効にする|パラディン専用": "Nullify one|source of damage|one time."
+  },
+  "1017": {
+    "clarity_nt_char_1017": "clarity_nt_char_1017"
+  },
+  "1018": {
+    "パラディン時|さいだいＨＰが|２０増える": "Max HP +20|when you are a|Paladin."
+  },
+  "1019": {
+    "clarity_nt_char_1019": "clarity_nt_char_1019"
+  },
+  "1020": {
+    "敵の怒りを集めて|全てのダメージを|３０秒間無効に！": "Taunt all enemies|and be invincible|for 30 seconds!"
+  },
+  "1021": {
+    "clarity_nt_char_1021": "clarity_nt_char_1021"
+  },
+  "1022": {
+    "チカラをためて|テンションアップ|武闘家専用特技": "Increase tension|by one level.|"
+  },
+  "1023": {
+    "clarity_nt_char_1023": "clarity_nt_char_1023"
+  },
+  "1024": {
+    "全職業で|きようさが|２０増える": "Deftness +20|in all|vocations."
+  },
+  "1025": {
+    "clarity_nt_char_1025": "clarity_nt_char_1025"
+  },
+  "1026": {
+    "雑念をはらい|ブレスダメージに|強くなる": "Become more|resistant to|breath damage."
+  },
+  "1027": {
+    "clarity_nt_char_1027": "clarity_nt_char_1027"
+  },
+  "1028": {
+    "自分の悪い効果を|はらいのける|武闘家専用特技": "Clear all bad|effects currently|affecting you."
+  },
+  "1029": {
+    "周囲の敵を|大声でおどかし|動けなくする": "Yell and attempt|to frighten|nearby enemies."
+  },
+  "1030": {
+    "clarity_nt_char_1030": "clarity_nt_char_1030"
+  },
+  "1031": {
+    "全職業で|さいだいＨＰが|４０増える": "Max HP +40|in all|vocations."
+  },
+  "1032": {
+    "clarity_nt_char_1032": "clarity_nt_char_1032"
+  },
+  "1033": {
+    "めいそうして|ＨＰを大幅に回復|武闘家専用特技": "Focus and|restore your|own HP."
+  },
+  "1034": {
+    "チカラを一気に|２回ためる|武闘家専用特技": "Raises your|tension by 2|levels."
+  },
+  "1035": {
+    "武闘家時|すばやさが|３０増える": "Agility +30|when you are a|Martial Artist."
+  },
+  "1036": {
+    "clarity_nt_char_1036": "clarity_nt_char_1036"
+  },
+  "1037": {
+    "武闘家時|ちからが|１０増える": "Strength +10|when a|Martial Artist."
+  },
+  "1038": {
+    "無我の境地で|ＭＰをかなり回復|武闘家専用特技": "Selflessly|recover your own|MP."
+  },
+  "1039": {
+    "武闘家時|カウンターでの|ダメージが増える": "Increases counter|damage as a|Martial Artist."
+  },
+  "1040": {
+    "チカラを一気に|３回ためる|武闘家専用特技": "Raises your|tension by 3|levels."
+  },
+  "1041": {
+    "敵をひるませ|テンションも|１段階アップ！": "Frightens the|enemy and raises|tension 1 level!"
+  },
+  "1042": {
+    "ボケたおして|周囲の敵を|わらわせる": "If nearby enemies|laugh, raises|tension 1 level."
+  },
+  "1043": {
+    "clarity_nt_char_1043": "clarity_nt_char_1043"
+  },
+  "1044": {
+    "ツッコんで|仲間ひとりを|われに返す": "Cures paralysis,|dazzled, sleep,|confused status."
+  },
+  "1045": {
+    "clarity_nt_char_1045": "clarity_nt_char_1045"
+  },
+  "1046": {
+    "敵の攻撃を|タップで身かわす|旅芸人専用特技": "A dance that|makes dodging|attacks easier."
+  },
+  "1047": {
+    "clarity_nt_char_1047": "clarity_nt_char_1047"
+  },
+  "1048": {
+    "嵐のごとく|玉をなげつける|旅芸人専用特技": "Hits an enemy|with a barrage|of balls."
+  },
+  "1049": {
+    "周囲の仲間の|ＨＰを７０～回復|旅芸人専用特技": "Restores about 70|HP to all|nearby allies."
+  },
+  "1050": {
+    "旅芸人時|きようさが|３０増える": "Deftness +30|when you are a|Minstrel."
+  },
+  "1051": {
+    "clarity_nt_char_1051": "clarity_nt_char_1051"
+  },
+  "1052": {
+    "周囲の仲間を|われに返す|旅芸人専用特技": "Removes most bad|statuses from|all allies."
+  },
+  "1053": {
+    "clarity_nt_char_1053": "clarity_nt_char_1053"
+  },
+  "1054": {
+    "鬼神のごとく|鉄球をなげつける|旅芸人専用特技": "Drop demonic iron|balls on an|enemy."
+  },
+  "1055": {
+    "旅芸人時|カウンターが|できるようになる": "You can now|counter as a|Minstrel."
+  },
+  "1056": {
+    "clarity_nt_char_1056": "clarity_nt_char_1056"
+  },
+  "1057": {
+    "周囲の仲間の|攻撃力を上げる|旅芸人専用特技": "Increases the|attack power of|nearby allies."
+  },
+  "1058": {
+    "clarity_nt_char_1058": "clarity_nt_char_1058"
+  },
+  "1059": {
+    "身かわし率と|カウンター率が|大幅アップ！": "Counter and dodge|rate are greatly|increased!"
+  },
+  "1060": {
+    "魔法の結界で|攻撃呪文から|自分の身を守る": "Raise your spell|resistance with|a magic ward."
+  },
+  "1061": {
+    "敵１体を|攻撃呪文に|弱くする": "Lowers an enemy's|spell resistance."
+  },
+  "1062": {
+    "呪文を唱えた時|魔力が|暴走しやすくなる": "Increases haywire|chance of spells."
+  },
+  "1063": {
+    "clarity_nt_char_1063": "clarity_nt_char_1063"
+  },
+  "1064": {
+    "動きを止めて|ＭＰを徐々に回復|魔法使い専用特技": "Focus yourself|and recover your|MP."
+  },
+  "1065": {
+    "clarity_nt_char_1065": "clarity_nt_char_1065"
+  },
+  "1066": {
+    "呪文のダメージを|大幅に上げる|魔法使い専用特技": "Increases your|spell damage|significantly."
+  },
+  "1067": {
+    "clarity_nt_char_1067": "clarity_nt_char_1067"
+  },
+  "1068": {
+    "魔法使い時|さらに魔力が|暴走しやすくなる": "Haywire rate is|increased as a|Mage."
+  },
+  "1069": {
+    "魔法使い時|こうげき魔力が|２０増える": "Mag. Might +20|when you are a|Mage."
+  },
+  "1070": {
+    "周囲を巻き込む|巨大な氷の柱が|敵に突きささる": "A huge ice pillar|engulfs nearby|enemies."
+  },
+  "1071": {
+    "魔法使い時|２％の確率で|ＭＰを消費しない": "2% chance to not|use MP as a|Mage."
+  },
+  "1072": {
+    "巨大な火柱で|敵１体を|焼きつくす": "Burns an enemy in|a huge pillar|of fire."
+  },
+  "1073": {
+    "自分の|消費ＭＰが|一定の間０に！": "MP costs of|spells is reduced|to 0!"
+  },
+  "1074": {
+    "きようさ次第で|アイテムをぬすむ|盗賊専用特技": "Steal an item|based on your|Deftness."
+  },
+  "1075": {
+    "敵１体の正体を|討伐モンスター|リストに書き込む": "Write an enemy's|secret details to|the Bestiary."
+  },
+  "1076": {
+    "clarity_nt_char_1076": "clarity_nt_char_1076"
+  },
+  "1077": {
+    "近くの宝の場所を|地図上でしらせる|盗賊専用特技": "Show nearby|treasures on|your map."
+  },
+  "1078": {
+    "clarity_nt_char_1078": "clarity_nt_char_1078"
+  },
+  "1079": {
+    "バナナをしかけて|転ばせられるぞ|盗賊専用特技": "Place a banana|that can be|tripped over."
+  },
+  "1080": {
+    "巨大なバクダンで|敵をふっとばす|盗賊専用特技": "Blow away enemies|with a huge|bomb."
+  },
+  "1081": {
+    "死んだふりで|敵をあざむき|しっかりＨＰ回復": "Pretend to be|dead and recover|HP."
+  },
+  "1082": {
+    "clarity_nt_char_1082": "clarity_nt_char_1082"
+  },
+  "1083": {
+    "盗賊時|すばやさが|３０増える": "Agility +30|when you are a|Thief."
+  },
+  "1084": {
+    "盗賊時|きようさが|３０増える": "Deftness +30|when you are a|Thief."
+  },
+  "1085": {
+    "威力がアップした|バクダンをおく|盗賊専用特技": "Place bombs that|are more|powerful."
+  },
+  "1086": {
+    "ぬすむで|アイテムをぬすむ|成功率が増える": "Increases success|rate of|stealing."
+  },
+  "1087": {
+    "敵１体を攻撃し|ひるませる|盗賊専用特技": "Deals an attack|that may shock|an enemy."
+  },
+  "1088": {
+    "clarity_nt_char_1088": "clarity_nt_char_1088"
+  },
+  "1089": {
+    "戦いのあとの|お宝ゲット|確率アップ！": "Increases chance|of treasure|after battle!"
+  },
+  "1090": {
+    "仲間をいやす|めぐみの雨が降る|賢者専用特技": "Restore all|allies' HP|over time."
+  },
+  "1091": {
+    "clarity_nt_char_1091": "clarity_nt_char_1091"
+  },
+  "1092": {
+    "悪い効果に|かかりやすくする|賢者専用特技": "Make an enemy|more susceptible|to bad statuses."
+  },
+  "1093": {
+    "攻撃と回復両方の|呪文効果がアップ|賢者専用特技": "Increases spell|attack/recovery|by 1 level."
+  },
+  "1094": {
+    "clarity_nt_char_1094": "clarity_nt_char_1094"
+  },
+  "1095": {
+    "全職業で|さいだいＭＰが|２０増える": "Max MP +20|in all|vocations."
+  },
+  "1096": {
+    "clarity_nt_char_1096": "clarity_nt_char_1096"
+  },
+  "1097": {
+    "敵にかかっている|よい効果を解除|賢者専用特技": "Remove good|status effects|from enemies."
+  },
+  "1098": {
+    "賢者時|かいふく魔力が|３０増える": "Mag. Mending +30|when you are a|Sage."
+  },
+  "1099": {
+    "賢者時|こうげき魔力が|３０増える": "Mag. Might +30|when you are a|Sage."
+  },
+  "1100": {
+    "想像を絶する光の|大爆発で自分の|周りの敵を攻撃": "A huge explosion|of light hits|nearby enemies."
+  },
+  "1101": {
+    "clarity_nt_char_1101": "clarity_nt_char_1101"
+  },
+  "1102": {
+    "攻撃と回復の呪文|効果が２段アップ|賢者専用特技": "Increases spell|attack/recovery|by 2 levels."
+  },
+  "1103": {
+    "clarity_nt_char_1103": "clarity_nt_char_1103"
+  },
+  "1104": {
+    "神もおそれる|闇のチカラが|敵１体をおそう": "An overwhelming|darkness attack|to one enemy."
+  },
+  "1105": {
+    "神の息吹で|呪文の詠唱時間が|大幅短縮される！": "Greatly increases|spell casting|speed!"
+  },
+  "1106": {
+    "仲間ひとりの|呪いを解く": "Removes the|curse status.|"
+  },
+  "1107": {
+    "clarity_nt_char_1107": "clarity_nt_char_1107"
+  },
+  "1108": {
+    "ダメージを受けて|ＭＰ回復|僧侶専用特技": "Recovers MP after|taking damage."
+  },
+  "1109": {
+    "clarity_nt_char_1109": "clarity_nt_char_1109"
+  },
+  "1110": {
+    "ＨＰが半分以上時|即死をまぬがれる|僧侶専用特技": "Avoid fatal|damage if HP is|more than half."
+  },
+  "1111": {
+    "clarity_nt_char_1111": "clarity_nt_char_1111"
+  },
+  "1112": {
+    "死んでしまっても|確実に生き返る|僧侶専用特技": "Resurrect|at half HP|when you die."
+  },
+  "1113": {
+    "回復呪文の効果を|かなり高める|僧侶専用特技": "Greatly increases|recovery spell|effectiveness."
+  },
+  "1114": {
+    "clarity_nt_char_1114": "clarity_nt_char_1114"
+  },
+  "1115": {
+    "僧侶時|かいふく魔力が|２０増える": "Mag. Mending +20|when you are a|Priest."
+  },
+  "1116": {
+    "僧侶時|さいだいＭＰが|３０増える": "Max MP +30|when you are a|Priest."
+  },
+  "1117": {
+    "聖なる光で|ダメージを与える|僧侶専用特技": "Damages an enemy|with holy light."
+  },
+  "1118": {
+    "僧侶時|ＨＰ１で生き残る|確率が増える": "Increased chance|to survive fatal|damage as Priest."
+  },
+  "1119": {
+    "ＨＰが２以上で|即死をまぬがれる|僧侶専用特技": "Avoid fatal|damage if HP is|2 or more."
+  },
+  "1120": {
+    "みんなのＨＰと|悪い効果を|一気に回復！": "Recover allies'|HP and bad|status effects!"
+  },
+  "1121": {
+    "clarity_nt_char_1121": "clarity_nt_char_1121"
+  },
+  "1122": {
+    "優しい心で|弱い敵を|逃がしてあげる": "Let weak enemies|escape from|battle."
+  },
+  "1123": {
+    "clarity_nt_char_1123": "clarity_nt_char_1123"
+  },
+  "1124": {
+    "モンスターを|魅了する|レンジャー専用": "Attempt to|charm an|enemy."
+  },
+  "1125": {
+    "逃げそうな敵を|すかさず足止め|レンジャー専用": "Prevent enemies|from escaping|the battle."
+  },
+  "1126": {
+    "不思議なきりで|ブレスを1回回避|レンジャー専用": "A fog that can|nullify a breath|attack once."
+  },
+  "1127": {
+    "clarity_nt_char_1127": "clarity_nt_char_1127"
+  },
+  "1128": {
+    "全職業で|かいふく魔力が|２０増える": "Mag. Mending +20|in all|vocations."
+  },
+  "1129": {
+    "clarity_nt_char_1129": "clarity_nt_char_1129"
+  },
+  "1130": {
+    "オオカミが|２回攻撃する|レンジャー専用": "A wolf attacks|the enemy|two times."
+  },
+  "1131": {
+    "clarity_nt_char_1131": "clarity_nt_char_1131"
+  },
+  "1132": {
+    "レンジャー時|不意をつく確率が|上がる": "Increases chance|to surprise|enemies."
+  },
+  "1133": {
+    "レンジャー時|きようさが|３０増える": "Deftness +30|when you are a|Ranger."
+  },
+  "1134": {
+    "clarity_nt_char_1134": "clarity_nt_char_1134"
+  },
+  "1135": {
+    "暗黒のきりで|相手を弱らせる|レンジャー専用": "A dark fog|that weakens and|blinds enemies."
+  },
+  "1136": {
+    "clarity_nt_char_1136": "clarity_nt_char_1136"
+  },
+  "1137": {
+    "一定時間が経つと|大地が超爆裂する|結界を地面に描く": "Earth explodes|from the ground|after a time."
+  },
+  "1138": {
+    "clarity_nt_char_1138": "clarity_nt_char_1138"
+  },
+  "1139": {
+    "白いオオカミが|４回攻撃する|レンジャー専用": "A while wolf|attacks the enemy|four times."
+  },
+  "1140": {
+    "clarity_nt_char_1140": "clarity_nt_char_1140"
+  },
+  "1141": {
+    "みんなの攻撃力と|守備力が上がり|回復もする！": "All allies' gain|attack/defense up|and recover HP!"
+  },
+  "1142": {
+    "ダメージを与えて|テンションアップ|バトマス専用特技": "Deals an attack|with a chance to|raise tension."
+  },
+  "1143": {
+    "clarity_nt_char_1143": "clarity_nt_char_1143"
+  },
+  "1144": {
+    "全職業で|ちからが|５増える": "Strength +5|in all|vocations."
+  },
+  "1145": {
+    "clarity_nt_char_1145": "clarity_nt_char_1145"
+  },
+  "1146": {
+    "守りを捨てて|攻撃力を上げる|バトマス専用特技": "Lowers defense|in order to|increase attack."
+  },
+  "1147": {
+    "自分もキズつくが|ダメージもアップ|バトマス専用特技": "Deals a strong|attack that also|damages you."
+  },
+  "1148": {
+    "clarity_nt_char_1148": "clarity_nt_char_1148"
+  },
+  "1149": {
+    "心を無にして|敵１体を攻撃|バトマス専用特技": "Ruthlessly attack|one enemy."
+  },
+  "1150": {
+    "clarity_nt_char_1150": "clarity_nt_char_1150"
+  },
+  "1151": {
+    "天下無双の|６回攻撃|バトマス専用特技": "Deals six attacks|in quick|succession."
+  },
+  "1152": {
+    "バトマス時|ちからが|１０増える": "Strength +10|when you are a|Battlemaster."
+  },
+  "1153": {
+    "clarity_nt_char_1153": "clarity_nt_char_1153"
+  },
+  "1154": {
+    "バトマス時|きようさが|３０増える": "Deftness +30|when you are a|Battlemaster."
+  },
+  "1155": {
+    "なぐられると|テンションアップ|バトマス専用特技": "Increases your|tension when you|take damage."
+  },
+  "1156": {
+    "clarity_nt_char_1156": "clarity_nt_char_1156"
+  },
+  "1157": {
+    "バトマス時|テンションを|たまに維持する": "Rarely maintain|tension as a|Battlemaster."
+  },
+  "1158": {
+    "clarity_nt_char_1158": "clarity_nt_char_1158"
+  },
+  "1159": {
+    "攻撃時ＨＰ回復の|効果をえる|バトマス専用特技": "Restores HP based|on damage|dealt."
+  },
+  "1160": {
+    "自分の|テンションが|一気に上がる！": "You tension|raises to the|maximum!!"
+  },
+  "1161": {
+    "clarity_nt_char_1161": "clarity_nt_char_1161"
+  },
+  "1162": {
+    "行動せずに仲間の|ダメージを受ける|戦士専用特技": "Stand still and|take an ally's|damage."
+  },
+  "1163": {
+    "clarity_nt_char_1163": "clarity_nt_char_1163"
+  },
+  "1164": {
+    "敵１体に|ダメージを与え|テンションダウン": "Damage an enemy|and lower|their tension."
+  },
+  "1165": {
+    "ダメージを与え|敵をふっとばす|戦士専用特技": "Deals a hit that|can knock|enemies down."
+  },
+  "1166": {
+    "clarity_nt_char_1166": "clarity_nt_char_1166"
+  },
+  "1167": {
+    "敵を攻撃しつつ|攻撃力も下げる|戦士専用特技": "Strike an enemy|and reduce|their attack."
+  },
+  "1168": {
+    "clarity_nt_char_1168": "clarity_nt_char_1168"
+  },
+  "1169": {
+    "かばう中に|受けるダメージを|減らす": "Futher reduces|damage while|using Cover."
+  },
+  "1170": {
+    "clarity_nt_char_1170": "clarity_nt_char_1170"
+  },
+  "1171": {
+    "戦士時|ちからが|１０増える": "Strength +10|when you are a|Warrior."
+  },
+  "1172": {
+    "clarity_nt_char_1172": "clarity_nt_char_1172"
+  },
+  "1173": {
+    "大ダメージを与え|敵をふっとばす|戦士専用特技": "Deals great|damage and knocks|down enemies."
+  },
+  "1174": {
+    "戦士時|たまに２回攻撃|できる": "Sometimes attack|twice as a|Warrior."
+  },
+  "1175": {
+    "攻撃力を２段階と|ダメージを下げる|戦士専用特技": "Reduces attack by|2 levels and|damage dealt."
+  },
+  "1176": {
+    "clarity_nt_char_1176": "clarity_nt_char_1176"
+  },
+  "1177": {
+    "会心攻撃が|必ず出る|夢の大技！": "A flashy attack|that's always|a critical!"
+  },
+  "1178": {
+    "clarity_nt_char_1178": "clarity_nt_char_1178"
+  },
+  "1179": {
+    "アタック後倒すと|仲間になるかも!?|まもの使い専用": "An attack that|can befriend|certain monsters."
+  },
+  "1180": {
+    "clarity_nt_char_1180": "clarity_nt_char_1180"
+  },
+  "1181": {
+    "まもの使いでの|スカウトアタック|成功率アップ": "Increases the|success rate of|Scout Strike."
+  },
+  "1182": {
+    "仲間モンスターを|一時的に強化する|まもの使い専用": "Temporarily power|up your fellow|monster."
+  },
+  "1183": {
+    "敵１体を攻撃し|ブレスを封じる|まもの使い専用": "Attack an enemy|and seal their|breath attacks."
+  },
+  "1184": {
+    "仲間ひとりと|ＨＰを分かち合う|まもの使い専用": "Share your HP|with one of your|companions."
+  },
+  "1185": {
+    "全職業で|さいだいＨＰが|１０増える": "Max HP +10|in all|vocations."
+  },
+  "1186": {
+    "clarity_nt_char_1186": "clarity_nt_char_1186"
+  },
+  "1187": {
+    "仲間ひとりと|ＭＰを分かち合う|まもの使い専用": "Share your MP|with one of your|companions."
+  },
+  "1188": {
+    "敵モンスターを|１体呼び寄せる|まもの使い専用": "Calls another|enemy to join|the battle."
+  },
+  "1189": {
+    "まもの使い時|仲間モンスターが|なつきやすくなる": "It's easier for|monsters to gain|attachment."
+  },
+  "1190": {
+    "clarity_nt_char_1190": "clarity_nt_char_1190"
+  },
+  "1191": {
+    "まもの使い時|転生モンスターに|あいやすくなる": "It's easier to|encounter|rarified enemies."
+  },
+  "1192": {
+    "敵１体を攻撃し|特技を封じる|まもの使い専用": "Attacks one enemy|and seals their|skills."
+  },
+  "1193": {
+    "clarity_nt_char_1193": "clarity_nt_char_1193"
+  },
+  "1194": {
+    "まもの使い時|行動間隔が|少し短くなる": "Action wait|is shortened as|a Monster Master."
+  },
+  "1195": {
+    "与えるダメージを|アップする|まもの使い専用": "Increases all|damage you|deal."
+  },
+  "1196": {
+    "clarity_nt_char_1196": "clarity_nt_char_1196"
+  },
+  "1197": {
+    "すぐに次の行動が|始められ攻撃力と|守備力も上がる！": "Attack/defense up|and next action|is immediate!"
+  },
+  "1198": {
+    "clarity_nt_char_1198": "clarity_nt_char_1198"
+  },
+  "1199": {
+    "アタック後倒すと|仲間になるかも!?|どうぐ使い専用": "An attack that|can befriend|certain monsters."
+  },
+  "1200": {
+    "clarity_nt_char_1200": "clarity_nt_char_1200"
+  },
+  "1201": {
+    "どうぐ使いでの|スカウトアタック|成功率アップ": "Increases the|success rate of|Scout Strike."
+  },
+  "1202": {
+    "仲間モンスターを|一時的に強化する|どうぐ使い専用": "Temporarily power|up your fellow|monster."
+  },
+  "1203": {
+    "敵の魔法陣や|爆弾を横取りする|どうぐ使い専用": "Steals enemy|magic circles and|bombs."
+  },
+  "1204": {
+    "全職業で|すばやさが|１０増える": "Agility +10|in all|vocations."
+  },
+  "1205": {
+    "clarity_nt_char_1205": "clarity_nt_char_1205"
+  },
+  "1206": {
+    "消費アイテムの|効果を２倍にする|どうぐ使い専用": "Doubles the|effect of|consumable items."
+  },
+  "1207": {
+    "clarity_nt_char_1207": "clarity_nt_char_1207"
+  },
+  "1208": {
+    "全職業で|きようさが|１０増える": "Deftness +10|in all|vocations."
+  },
+  "1209": {
+    "clarity_nt_char_1209": "clarity_nt_char_1209"
+  },
+  "1210": {
+    "ダメージ軽減する|魔法陣を作る|どうぐ使い専用": "A magic circle|that reduces|damage taken."
+  },
+  "1211": {
+    "消費アイテムの|効果範囲を広げる|どうぐ使い専用": "Expand the effect|range of|consumable items."
+  },
+  "1212": {
+    "clarity_nt_char_1212": "clarity_nt_char_1212"
+  },
+  "1213": {
+    "どうぐ使い時|仲間モンスターが|なつきやすくなる": "It's easier for|monsters to gain|attachment."
+  },
+  "1214": {
+    "clarity_nt_char_1214": "clarity_nt_char_1214"
+  },
+  "1215": {
+    "どうぐ使い時|メタル系に|あいやすくなる": "It's easier to|encounter|Metal enemies."
+  },
+  "1216": {
+    "clarity_nt_char_1216": "clarity_nt_char_1216"
+  },
+  "1217": {
+    "ＨＰ回復する|魔法陣を作る|どうぐ使い専用": "A magic circle|that gradually|restores HP."
+  },
+  "1218": {
+    "どうぐ使い時|どうぐ発動速度が|短くなる": "You will now use|items with a|faster speed."
+  },
+  "1219": {
+    "clarity_nt_char_1219": "clarity_nt_char_1219"
+  },
+  "1220": {
+    "悪い効果を|すべて解除する|どうぐ使い専用": "Removes all bad|statuses from|nearby allies."
+  },
+  "1221": {
+    "会心率アップと|ダメージアップの|魔法陣を作る！": "A magic circle|that boosts|haywire/damage."
+  },
+  "1222": {
+    "clarity_nt_char_1222": "clarity_nt_char_1222"
+  },
+  "1223": {
+    "周囲の味方に|攻撃時猛毒の効果|踊り子専用": "Grants allies a|poison effect for|their attacks."
+  },
+  "1224": {
+    "周囲の味方の会心|暴走率アップ|踊り子専用": "Boosts critical|and haywire rate|of nearby allies."
+  },
+  "1225": {
+    "全職業で|こうげき魔力が|５増える": "Mag. Might +5|in all|vocations."
+  },
+  "1226": {
+    "周囲の味方の呪文|回復量をアップ|踊り子専用": "Boosts spell|recovery of|nearby allies."
+  },
+  "1227": {
+    "clarity_nt_char_1227": "clarity_nt_char_1227"
+  },
+  "1228": {
+    "周囲の味方の呪文|ダメージをアップ|踊り子専用": "Boosts spell|damage of|nearby allies."
+  },
+  "1229": {
+    "全職業で|みりょくが|１０増える": "Charm +10|in all|vocations."
+  },
+  "1230": {
+    "clarity_nt_char_1230": "clarity_nt_char_1230"
+  },
+  "1231": {
+    "周囲の味方を|回復し生き返す|踊り子専用": "Restore and|revive all|nearby allies."
+  },
+  "1232": {
+    "clarity_nt_char_1232": "clarity_nt_char_1232"
+  },
+  "1233": {
+    "踊り子時会心や|呪文の暴走が|出やすくなる": "Increases critical|and haywire rate|as a Dancer."
+  },
+  "1234": {
+    "踊り子時|身かわし率が|２％増える": "Dodge Rate +2%|when you are a|Dancer."
+  },
+  "1235": {
+    "周囲の味方に|攻撃時ＭＰ回復|踊り子専用": "Grants allies an|MP recovery on|attack effect."
+  },
+  "1236": {
+    "clarity_nt_char_1236": "clarity_nt_char_1236"
+  },
+  "1237": {
+    "踊り子時|１．０％の確率で|ターン消費しない": "1% chance to not|use a turn as|a Dancer."
+  },
+  "1238": {
+    "clarity_nt_char_1238": "clarity_nt_char_1238"
+  },
+  "1239": {
+    "周囲の味方に|攻撃時ＨＰ回復|踊り子専用": "Grants allies an|HP recovery on|attack effect."
+  },
+  "1240": {
+    "clarity_nt_char_1240": "clarity_nt_char_1240"
+  },
+  "1241": {
+    "周囲の敵の特技と|呪文とブレス封印|踊り子専用": "Seal nearby enemy|skills, spells,|breath attacks."
+  },
+  "1242": {
+    "周囲の敵を|混乱させる|踊り子専用": "Nearby enemies|will become|confused."
+  },
+  "1243": {
+    "周囲の敵を|眠らせる|踊り子専用": "Nearby enemies|will fall|asleep."
+  },
+  "1244": {
+    "clarity_nt_char_1244": "clarity_nt_char_1244"
+  },
+  "1245": {
+    "周囲の敵の炎と|光耐性ダウン|踊り子専用": "Lower fire/light|resistance of|nearby enemies."
+  },
+  "1246": {
+    "clarity_nt_char_1246": "clarity_nt_char_1246"
+  },
+  "1247": {
+    "周囲の敵の雷と|風耐性ダウン|踊り子専用": "Lowers thunder/|wind resist. of|nearby enemies."
+  },
+  "1248": {
+    "clarity_nt_char_1248": "clarity_nt_char_1248"
+  },
+  "1249": {
+    "周囲の敵の氷と|闇と土耐性ダウン|踊り子専用": "Lower ice/dark|resistance of|nearby enemies."
+  },
+  "1250": {
+    "clarity_nt_char_1250": "clarity_nt_char_1250"
+  },
+  "1251": {
+    "敵１体に|４回攻撃|踊り子専用": "Attacks an enemy|four times."
+  },
+  "1252": {
+    "周囲の味方の|攻撃力を増加する|踊り子専用": "Increase attack|power of|nearby allies."
+  },
+  "1253": {
+    "みんなの|テンションを|一気に上げる！": "Raises everyone's|tension to the|maximum!"
+  },
+  "1254": {
+    "タロットメダルの|破片がドロップ|占い師専用特技": "Tarot Fragments|can now drop.|Lasts 30 min."
+  },
+  "1255": {
+    "clarity_nt_char_1255": "clarity_nt_char_1255"
+  },
+  "1256": {
+    "全職業で隠れて|見えない敵が|見えるようになる": "All vocations|can now see|hidden enemies."
+  },
+  "1257": {
+    "手札の右側２枚の|タロットを投げる|占い師専用特技": "Throw the 2|right cards in|your hand."
+  },
+  "1258": {
+    "タロットの|ダメージ量と|回復量アップ": "Tarot Damage|and Recovery|rate increased."
+  },
+  "1259": {
+    "タロットの|ひき直しで|ターン消費しない": "No longer consume|turns when|redrawing Tarots."
+  },
+  "1260": {
+    "clarity_nt_char_1260": "clarity_nt_char_1260"
+  },
+  "1261": {
+    "手札の左側２枚の|タロットを投げる|占い師専用特技": "Throw the 2|left cards in|your hand."
+  },
+  "1262": {
+    "全手札をひき直し|身かわし率アップ|占い師専用特技": "Redraw your hand|and increases|dodge rate."
+  },
+  "1263": {
+    "占い師時|さいだいＭＰが|２０増える": "Max MP +20|when you are a|Fortune Teller."
+  },
+  "1264": {
+    "clarity_nt_char_1264": "clarity_nt_char_1264"
+  },
+  "1265": {
+    "エンゼルスライム|を手札に移動する|占い師専用特技": "Places an Angel|Slime card into|your hand."
+  },
+  "1266": {
+    "タロット使用時|テンションを|たまに維持する": "Rarely maintain|tension while|using Tarots."
+  },
+  "1267": {
+    "clarity_nt_char_1267": "clarity_nt_char_1267"
+  },
+  "1268": {
+    "タロットの回復と|ダメージがあがる|占い師専用特技": "Increases Tarot|damage and|recovery."
+  },
+  "1269": {
+    "全手札にオーラが|宿りタロットで|ターン消費しない": "All Tarots will|have aura and not|consume turns."
+  },
+  "1270": {
+    "げんまを召喚し|２分間一緒に戦う|天地雷鳴士専用": "Summon a spirit|to fight for|2 minutes."
+  },
+  "1271": {
+    "clarity_nt_char_1271": "clarity_nt_char_1271"
+  },
+  "1272": {
+    "天地雷鳴士時|２％の確率で|ＭＰを消費しない": "2% chance to not|use MP as a|Druid."
+  },
+  "1273": {
+    "clarity_nt_char_1273": "clarity_nt_char_1273"
+  },
+  "1274": {
+    "ひばしらを立て|敵１体を攻撃|天地雷鳴士専用": "Create a pillar|of flames that|singes an enemy."
+  },
+  "1275": {
+    "clarity_nt_char_1275": "clarity_nt_char_1275"
+  },
+  "1276": {
+    "直線上に土攻撃|雷耐性も下げる|天地雷鳴士専用": "Hurl earth spikes|in a line. Lowers|thunder resist."
+  },
+  "1277": {
+    "周囲を落雷で攻撃|たまにマヒさせる|天地雷鳴士専用": "An area thunder|attack that may|cause paralysis."
+  },
+  "1278": {
+    "周囲に土ダメージ|風耐性も下げる|天地雷鳴士専用": "An area earth|attack that lowers|wind resistance."
+  },
+  "1279": {
+    "clarity_nt_char_1279": "clarity_nt_char_1279"
+  },
+  "1280": {
+    "天地雷鳴士時|こうげき魔力が|３０増える": "Mag. Might +30|when you are a|Druid."
+  },
+  "1281": {
+    "clarity_nt_char_1281": "clarity_nt_char_1281"
+  },
+  "1282": {
+    "周囲を炎で焼き|土耐性も下げる|天地雷鳴士専用": "An area fire|attack. Lowers Earth|resist."
+  },
+  "1283": {
+    "天地雷鳴士時|さいだいＨＰが|２０増える": "Max HP +20|when you are a|Druid."
+  },
+  "1284": {
+    "clarity_nt_char_1284": "clarity_nt_char_1284"
+  },
+  "1285": {
+    "げんまが特別な|技を使用可能に|天地雷鳴士専用": "Allows your|summon to use|special abilites."
+  },
+  "1286": {
+    "周囲を巻き込む|激しい竜巻で攻撃|天地雷鳴士専用": "Attack nearby|enemies with a|fierce tornado."
+  },
+  "1287": {
+    "clarity_nt_char_1287": "clarity_nt_char_1287"
+  },
+  "1288": {
+    "自分とげんまの|行動間隔を短縮し|会心と攻撃力増加": "You and your|spirit gain a|boost to stats."
+  },
+  "1289": {
+    "勝手気ままに|遊びだす特技|遊び人専用特技": "Allows you to|execute a Play|action."
+  },
+  "1290": {
+    "遊び人時|きまぐれな行動を|起こしやすくなる": "Make it easier to|execute Whimsical|actions."
+  },
+  "1291": {
+    "clarity_nt_char_1291": "clarity_nt_char_1291"
+  },
+  "1292": {
+    "敵モンスターを|呼び寄せる|遊び人専用特技": "Calls in another|enemy to join|the battle."
+  },
+  "1293": {
+    "敵１体をなめて|動けなくする|遊び人専用特技": "Licks an enemy|and immobilizes|them."
+  },
+  "1294": {
+    "clarity_nt_char_1294": "clarity_nt_char_1294"
+  },
+  "1295": {
+    "敵１体を|うっとりさせる|遊び人専用特技": "Charm an enemy|in quite a|special way..."
+  },
+  "1296": {
+    "clarity_nt_char_1296": "clarity_nt_char_1296"
+  },
+  "1297": {
+    "遊び人時|みりょくが|３０増える": "Charm +30|when you are a|Gadabout."
+  },
+  "1298": {
+    "clarity_nt_char_1298": "clarity_nt_char_1298"
+  },
+  "1299": {
+    "特技のあそぶを|強化する|遊び人専用特技": "Strengthens your|Play actions."
+  },
+  "1300": {
+    "clarity_nt_char_1300": "clarity_nt_char_1300"
+  },
+  "1301": {
+    "遊び人時|さいだいＨＰが|２０増える": "Max HP +20|when you are a|Gadabout."
+  },
+  "1302": {
+    "clarity_nt_char_1302": "clarity_nt_char_1302"
+  },
+  "1303": {
+    "敵１体をなめて|悪寒を走らせる|遊び人専用特技": "Licks an enemy|and reduces their|defense to 0."
+  },
+  "1304": {
+    "何が起こるのか|わからない|一世一代の大技": "Nobody knows|what's going|to happen!"
+  },
+  "1305": {
+    "死霊を召喚し|使役する|デスマスター専用": "Summon a spirit|to fight for|you."
+  },
+  "1306": {
+    "clarity_nt_char_1306": "clarity_nt_char_1306"
+  },
+  "1307": {
+    "選んだ対象を|死霊が攻撃する|デスマスター専用": "Order your spirit|to attack the|target."
+  },
+  "1308": {
+    "死霊を一定時間|強化して|デスパワー全消費": "Consume all death|power to boost|your spirit."
+  },
+  "1309": {
+    "蘇生対象に|バイキルトが|かかるようになる": "Raises attack|power of an|ally you revive."
+  },
+  "1310": {
+    "闇の攻撃と同時に|デスパワーを吸収|デスマスター専用": "A darkness attack|that absorbs|death power."
+  },
+  "1311": {
+    "clarity_nt_char_1311": "clarity_nt_char_1311"
+  },
+  "1312": {
+    "デスパワー１段階|消費で聖女の守り|呪文と回復も強化": "Grants a spell up|and revive after|death effect."
+  },
+  "1313": {
+    "clarity_nt_char_1313": "clarity_nt_char_1313"
+  },
+  "1314": {
+    "ギラ系の呪文|ダメージ＋１０％|デスマスター専用": "Sizz-type spell|damage increased|by 10%."
+  },
+  "1315": {
+    "clarity_nt_char_1315": "clarity_nt_char_1315"
+  },
+  "1316": {
+    "蘇生対象に|魔力かくせいが|かかるようになる": "Raises spell|power of an|ally you revive."
+  },
+  "1317": {
+    "clarity_nt_char_1317": "clarity_nt_char_1317"
+  },
+  "1318": {
+    "闇の秘法により|まわりを蘇生|デスマスター専用": "Revives any|nearby allies in|a wide range."
+  },
+  "1319": {
+    "選んだ味方に|死霊が付き従い|ダメージ軽減効果": "Your spirit|protects an ally,|reducing damage."
+  },
+  "1320": {
+    "デスマスター時|デスパワーを|たまに消費しない": "Rarely don't use|death power as|a Death Master."
+  },
+  "1321": {
+    "死霊を爆発させ|デスパワーを獲得|周囲にダメージ": "Explode your|spirit for damage|and death power."
+  },
+  "1322": {
+    "clarity_nt_char_1322": "clarity_nt_char_1322"
+  },
+  "1323": {
+    "デスパワーを奪う|闇属性の範囲攻撃|呪いにスタン効果": "Steals death|power and stuns|if cursed."
+  },
+  "1324": {
+    "clarity_nt_char_1324": "clarity_nt_char_1324"
+  },
+  "1325": {
+    "冥府の魂を用い|デスパワーを|最大まで溜める": "Accumulates your|death power to|the maximum."
+  },
+  "1326": {
+    "clarity_nt_char_1326": "clarity_nt_char_1326"
+  },
+  "1327": {
+    "鎌装備時の|こうげき力が|２０増える": "Attack +20|when a Sickle|is equipped."
+  },
+  "1328": {
+    "clarity_nt_char_1328": "clarity_nt_char_1328"
+  },
+  "1329": {
+    "闇属性の斬撃で|前方をなぎはらい|転び効果も与える": "A dark slash that|can knock enemies|down."
+  },
+  "1330": {
+    "鎌装備時の|こうげき魔力が|３０増える": "Mag. Might +30|when a Sickle|is equipped."
+  },
+  "1331": {
+    "ダウン中の敵には|必ず当たる|会心の斬撃": "Deals a critical|hit if the enemy|is knocked down."
+  },
+  "1332": {
+    "clarity_nt_char_1332": "clarity_nt_char_1332"
+  },
+  "1333": {
+    "鎌装備時の|かいしん率が|２％増える": "Critical Rate +2%|when a Sickle|is equipped."
+  },
+  "1334": {
+    "clarity_nt_char_1334": "clarity_nt_char_1334"
+  },
+  "1335": {
+    "鎌装備時に|５％で武器ガード|できるようになる": "Parry Rate +5%|when a Sickle|is equipped."
+  },
+  "1336": {
+    "中にいると呪文を|素早く唱えられる|魔法陣を作る": "A magic circle|that quickens|spellcasting."
+  },
+  "1337": {
+    "clarity_nt_char_1337": "clarity_nt_char_1337"
+  },
+  "1338": {
+    "鎌装備時の|こうげき力が|２５増える": "Attack +25|when a Sickle|is equipped."
+  },
+  "1339": {
+    "clarity_nt_char_1339": "clarity_nt_char_1339"
+  },
+  "1340": {
+    "相手をマヒさせ|悪い効果に対して|威力が上がる斬撃": "Paralyzes and|deals more if foe|has bad effects."
+  },
+  "1341": {
+    "鎌装備時の|こうげき魔力が|３５増える": "Mag. Might +35|when a Sickle|is equipped."
+  },
+  "1342": {
+    "攻撃力と魔力の|強化を入れ替え|自分を再強化": "Swaps attack and|spell buffs and|power up."
+  },
+  "1343": {
+    "clarity_nt_char_1343": "clarity_nt_char_1343"
+  },
+  "1344": {
+    "鎌装備時の|かいふく魔力が|４０増える": "Mag. Mending +40|when a Sickle|is equipped."
+  },
+  "1345": {
+    "周囲に闇ダメージ|鎌を強化し攻撃時|味方のＨＰも回復": "Recovers HP to|allies when|dealing damage."
+  },
+  "1346": {
+    "clarity_nt_char_1346": "clarity_nt_char_1346"
+  },
+  "1347": {
+    "鎌装備時|さらに魔力が|暴走しやすくなる": "Haywire rate|increased when a|Sickle equipped."
+  },
+  "1348": {
+    "clarity_nt_char_1348": "clarity_nt_char_1348"
+  },
+  "1349": {
+    "ヤリ装備時の|かいしん率が|５％増える": "Critical Rate +2%|when a Spear|is equipped."
+  },
+  "1350": {
+    "ヤリ装備時の|武器ガード率が|８％増える": "Parry Rate +8%|when a Spear|is equipped."
+  },
+  "1351": {
+    "clarity_nt_char_1351": "clarity_nt_char_1351"
+  },
+  "1352": {
+    "ヤリ装備時の|こうげき力が|２５増える": "Attack +25|when a Spear|is equipped."
+  },
+  "1353": {
+    "ヤリ装備時の|こうげき力が|３０増える": "Attack +30|when a Spear|is equipped."
+  },
+  "1354": {
+    "強力な突きで|うまく当たれば|会心のいちげき": "Deals a critical|if the attack|can hit."
+  },
+  "1355": {
+    "clarity_nt_char_1355": "clarity_nt_char_1355"
+  },
+  "1356": {
+    "行動時に１０％で|バイシオンが|かかる": "10% chance to|raise attack|power on action."
+  },
+  "1357": {
+    "攻撃時に５％で|テンションが|あがるようになる": "5% chance to|gain tension on|an attack."
+  },
+  "1358": {
+    "テンション時の|ダメージが|３００増える": "Damage during|tension increased|by 300."
+  },
+  "1359": {
+    "clarity_nt_char_1359": "clarity_nt_char_1359"
+  },
+  "1360": {
+    "ブーメラン装備時|こうげき力が|５０増える": "Attack +50|when a Boomerang|is equipped."
+  },
+  "1361": {
+    "ブーメラン装備時|きようさが|１００増える": "Deftness +100|when a Boomerang|is equipped."
+  },
+  "1362": {
+    "ブーメラン装備時|状態異常成功率が|あがる": "Bad effect|success up with|a Boomerang."
+  },
+  "1363": {
+    "ブーメラン装備時|戦闘中のチャージ|時間を２０秒短縮": "CT Skill -20s|when a Boomerang|is equipped."
+  },
+  "1364": {
+    "clarity_nt_char_1364": "clarity_nt_char_1364"
+  },
+  "1365": {
+    "ブーメラン装備時|特技の回復量が|１００％増える": "Heal Skill +100%|when a Boomerang|is equipped."
+  },
+  "1366": {
+    "clarity_nt_char_1366": "clarity_nt_char_1366"
+  },
+  "1367": {
+    "片手剣装備時に|２％で武器ガード|できるようになる": "Parry Rate +2%|when a Sword|is equipped."
+  },
+  "1368": {
+    "片手剣装備時の|かいしん率が|４％増える": "Critical Rate +4%|when a Sword|is equipped."
+  },
+  "1369": {
+    "clarity_nt_char_1369": "clarity_nt_char_1369"
+  },
+  "1370": {
+    "片手剣装備時の|こうげき力が|２０増える": "Attack +20|when a Sword|is equipped."
+  },
+  "1371": {
+    "clarity_nt_char_1371": "clarity_nt_char_1371"
+  },
+  "1372": {
+    "片手剣装備時の|こうげき力が|３０増える": "Attack +30|when a Sword|is equipped."
+  },
+  "1373": {
+    "clarity_nt_char_1373": "clarity_nt_char_1373"
+  },
+  "1374": {
+    "行動時に１０％で|ヘヴィチャージが|かかる": "10% chance to|gain Heavy Charge|on action."
+  },
+  "1375": {
+    "ガード時２０％で|被ダメを軽減する|効果がかかる": "20% chance on|guard to reduce|damage taken."
+  },
+  "1376": {
+    "clarity_nt_char_1376": "clarity_nt_char_1376"
+  },
+  "1377": {
+    "ドルマ系の呪文の|威力があがる": "Zam-type spell damage increased"
+  },
+  "1378": {
+    "扇装備時の|こうげき魔力が|６０増える": "Mag. Might +60|when a Fan|is equipped."
+  },
+  "1379": {
+    "行動時に５％で|聖なる祈りが|かかる": "5% chance to gain|Care Prayer on|action."
+  },
+  "1380": {
+    "clarity_nt_char_1380": "clarity_nt_char_1380"
+  },
+  "1381": {
+    "行動時に５％で|魔力かくせいが|かかる": "5% chance to|increase spell|power on action."
+  },
+  "1382": {
+    "攻撃時に２５％で|一定時間の間|呪文が暴走する": "25% chance on|attack to boost|haywire rate."
+  },
+  "1383": {
+    "ツメ装備時の|こうげき力が|３０増える": "Attack +30|when Claws|are equipped."
+  },
+  "1384": {
+    "攻撃時たまに|相手が攻撃呪文に|弱くなる": "Rarely lowers|spell resistance|on an attack."
+  },
+  "1385": {
+    "clarity_nt_char_1385": "clarity_nt_char_1385"
+  },
+  "1386": {
+    "攻撃時たまに|相手のしゅび力を|下げる": "Rarely lowers|defense on|an attack."
+  },
+  "1387": {
+    "敵１体を切り裂き|与えるダメージも|増加させる": "Cut an enemy and|increase their|damage taken."
+  },
+  "1388": {
+    "ツメ装備時の|こうげき力が|４０増える": "Attack +40|when Claws|are equipped."
+  },
+  "1389": {
+    "攻撃時たまに|相手のこうげき力|を下げる": "Rarely lowers|attack on|an attack."
+  },
+  "1390": {
+    "clarity_nt_char_1390": "clarity_nt_char_1390"
+  },
+  "1391": {
+    "ハンマー装備時の|こうげき力が|２０増える": "Attack +20|when a Hammer|is equipped."
+  },
+  "1392": {
+    "ハンマー装備時の|かいしん率が|４％増える": "Critical Rate +4%|when a Hammer|is equipped."
+  },
+  "1393": {
+    "ハンマー装備時の|５．０％の確率で|ターン消費しない": "5% chance to not|use a turn with a|Hammer equipped."
+  },
+  "1394": {
+    "clarity_nt_char_1394": "clarity_nt_char_1394"
+  },
+  "1395": {
+    "ハンマー装備時の|行動間隔が|少し短くなる": "Action wait is|slightly shorter|with a Hammer."
+  },
+  "1396": {
+    "ハンマー装備時の|状態異常成功率が|あがる": "Status effect|success up with a|Hammer equipped."
+  },
+  "1397": {
+    "鎌装備時の|こうげき力が|３０増える": "Attack +30|when a Sickle|is equipped."
+  },
+  "1398": {
+    "clarity_nt_char_1398": "clarity_nt_char_1398"
+  },
+  "1399": {
+    "バギ系の呪文が|少し遠くから|当たるようになる": "Woosh-type spells|have a slightly|further range."
+  },
+  "1400": {
+    "鎌装備時の|こうげき力が|４０増える": "Attack +40|when a Sickle|is equipped."
+  },
+  "1401": {
+    "clarity_nt_char_1401": "clarity_nt_char_1401"
+  },
+  "1402": {
+    "バギ系の呪文の|威力があがる": "Increase power of|Woosh spells."
+  },
+  "1403": {
+    "clarity_nt_char_1403": "clarity_nt_char_1403"
+  },
+  "1404": {
+    "行動時に１５％で|一定時間の間|呪文が暴走する": "15% chance to|gain a haywire|effect on action."
+  },
+  "1405": {
+    "会心＆暴走時の|ダメージが|２００増える": "Critical and|haywire damage|+200."
+  },
+  "1406": {
+    "clarity_nt_char_1406": "clarity_nt_char_1406"
+  },
+  "1407": {
+    "ホイミ": "Heal"
+  },
+  "1408": {
+    "キアリー": "Squelch"
+  },
+  "1409": {
+    "clarity_nt_char_1409": "clarity_nt_char_1409"
+  },
+  "1410": {
+    "リホイミ": "Reheal"
+  },
+  "1411": {
+    "clarity_nt_char_1411": "clarity_nt_char_1411"
+  },
+  "1412": {
+    "ザメハ": "Wake Up"
+  },
+  "1413": {
+    "ザオ": "Zin"
+  },
+  "1414": {
+    "clarity_nt_char_1414": "clarity_nt_char_1414"
+  },
+  "1415": {
+    "マホリー": "Defizzle"
+  },
+  "1416": {
+    "clarity_nt_char_1416": "clarity_nt_char_1416"
+  },
+  "1417": {
+    "ズッシード": "Thunk"
+  },
+  "1418": {
+    "マヌーハ": "Dedazzle"
+  },
+  "1419": {
+    "clarity_nt_char_1419": "clarity_nt_char_1419"
+  },
+  "1420": {
+    "ベホイミ": "Midheal"
+  },
+  "1421": {
+    "clarity_nt_char_1421": "clarity_nt_char_1421"
+  },
+  "1422": {
+    "キアリク": "Tingle"
+  },
+  "1423": {
+    "clarity_nt_char_1423": "clarity_nt_char_1423"
+  },
+  "1424": {
+    "スカラ": "Buff"
+  },
+  "1425": {
+    "リベホイミ": "Remidheal"
+  },
+  "1426": {
+    "ザオラル": "Zing"
+  },
+  "1427": {
+    "clarity_nt_char_1427": "clarity_nt_char_1427"
+  },
+  "1428": {
+    "フバーハ": "Insulatle"
+  },
+  "1429": {
+    "clarity_nt_char_1429": "clarity_nt_char_1429"
+  },
+  "1430": {
+    "スクルト": "Kabuff"
+  },
+  "1431": {
+    "clarity_nt_char_1431": "clarity_nt_char_1431"
+  },
+  "1432": {
+    "ザキ": "Whack"
+  },
+  "1433": {
+    "clarity_nt_char_1433": "clarity_nt_char_1433"
+  },
+  "1434": {
+    "ベホマラー": "Multiheal"
+  },
+  "1435": {
+    "ベホイム": "Moreheal"
+  },
+  "1436": {
+    "clarity_nt_char_1436": "clarity_nt_char_1436"
+  },
+  "1437": {
+    "リベホイム": "Remoreheal"
+  },
+  "1438": {
+    "メラ": "Frizz"
+  },
+  "1439": {
+    "clarity_nt_char_1439": "clarity_nt_char_1439"
+  },
+  "1440": {
+    "リレミト": "Evac"
+  },
+  "1441": {
+    "clarity_nt_char_1441": "clarity_nt_char_1441"
+  },
+  "1442": {
+    "ヒャド": "Crack"
+  },
+  "1443": {
+    "ラリホー": "Snooze"
+  },
+  "1444": {
+    "clarity_nt_char_1444": "clarity_nt_char_1444"
+  },
+  "1445": {
+    "イオ": "Bang"
+  },
+  "1446": {
+    "clarity_nt_char_1446": "clarity_nt_char_1446"
+  },
+  "1447": {
+    "マホトーン": "Fizzle"
+  },
+  "1448": {
+    "ヘナトス": "Blunt"
+  },
+  "1449": {
+    "clarity_nt_char_1449": "clarity_nt_char_1449"
+  },
+  "1450": {
+    "ヒャダルコ": "Crackle"
+  },
+  "1451": {
+    "メラミ": "Frizzle"
+  },
+  "1452": {
+    "イオラ": "Boom"
+  },
+  "1453": {
+    "マホトラ": "Drain Magic"
+  },
+  "1454": {
+    "clarity_nt_char_1454": "clarity_nt_char_1454"
+  },
+  "1455": {
+    "マホカンタ": "Bounce"
+  },
+  "1456": {
+    "マヒャド": "Kacrack"
+  },
+  "1457": {
+    "clarity_nt_char_1457": "clarity_nt_char_1457"
+  },
+  "1458": {
+    "メラゾーマ": "Kafrizz"
+  },
+  "1459": {
+    "イオナズン": "Kaboom"
+  },
+  "1460": {
+    "ボミエ": "Decel"
+  },
+  "1461": {
+    "クモノ": "Web Trap"
+  },
+  "1462": {
+    "ピオラ": "Accel"
+  },
+  "1463": {
+    "ボミオス": "Deceleratle"
+  },
+  "1464": {
+    "clarity_nt_char_1464": "clarity_nt_char_1464"
+  },
+  "1465": {
+    "ジバリア": "Rubblerouser"
+  },
+  "1466": {
+    "clarity_nt_char_1466": "clarity_nt_char_1466"
+  },
+  "1467": {
+    "ピオリム": "Acceleratle"
+  },
+  "1468": {
+    "clarity_nt_char_1468": "clarity_nt_char_1468"
+  },
+  "1469": {
+    "ジバリカ": "Boulderbring"
+  },
+  "1470": {
+    "clarity_nt_char_1470": "clarity_nt_char_1470"
+  },
+  "1471": {
+    "メダパニ": "Fuddle"
+  },
+  "1472": {
+    "clarity_nt_char_1472": "clarity_nt_char_1472"
+  },
+  "1473": {
+    "ルカニ": "Sap"
+  },
+  "1474": {
+    "バイシオン": "Oomph"
+  },
+  "1475": {
+    "バギ": "Woosh"
+  },
+  "1476": {
+    "clarity_nt_char_1476": "clarity_nt_char_1476"
+  },
+  "1477": {
+    "ルカナン": "Kasap"
+  },
+  "1478": {
+    "clarity_nt_char_1478": "clarity_nt_char_1478"
+  },
+  "1479": {
+    "バギマ": "Swoosh"
+  },
+  "1480": {
+    "バギクロス": "Kaswoosh"
+  },
+  "1481": {
+    "マホキテ": "Absorb Magic"
+  },
+  "1482": {
+    "clarity_nt_char_1482": "clarity_nt_char_1482"
+  },
+  "1483": {
+    "バイキルト": "Oomphle"
+  },
+  "1484": {
+    "バーハ": "Insulate"
+  },
+  "1485": {
+    "マヌーサ": "Dazzle"
+  },
+  "1486": {
+    "clarity_nt_char_1486": "clarity_nt_char_1486"
+  },
+  "1487": {
+    "ジバリーナ": "Mountainmover"
+  },
+  "1488": {
+    "ドルマ": "Zam"
+  },
+  "1489": {
+    "ドルクマ": "Zammle"
+  },
+  "1490": {
+    "clarity_nt_char_1490": "clarity_nt_char_1490"
+  },
+  "1491": {
+    "マホステ": "Snub"
+  },
+  "1492": {
+    "clarity_nt_char_1492": "clarity_nt_char_1492"
+  },
+  "1493": {
+    "ドルモーア": "Kazam"
+  },
+  "1494": {
+    "ザオリク": "Kazing"
+  },
+  "1495": {
+    "clarity_nt_char_1495": "clarity_nt_char_1495"
+  },
+  "1496": {
+    "マホターン": "Bound"
+  },
+  "1497": {
+    "ラリホーマ": "Kasnooze"
+  },
+  "1498": {
+    "メダパニーマ": "Kafuddle"
+  },
+  "1499": {
+    "clarity_nt_char_1499": "clarity_nt_char_1499"
+  },
+  "1500": {
+    "ディバインスペル": "Divine Intervention"
+  },
+  "1501": {
+    "clarity_nt_char_1501": "clarity_nt_char_1501"
+  },
+  "1502": {
+    "マジックバリア": "Magic Barrier"
+  },
+  "1503": {
+    "ギラ": "Sizz"
+  },
+  "1504": {
+    "clarity_nt_char_1504": "clarity_nt_char_1504"
+  },
+  "1505": {
+    "ベギラマ": "Sizzle"
+  },
+  "1506": {
+    "clarity_nt_char_1506": "clarity_nt_char_1506"
+  },
+  "1507": {
+    "ベギラゴン": "Kasizz"
+  },
+  "1508": {
+    "風のやいばを|巻きおこし|敵１体を攻撃": "Create a wind|spell to attack|an enemy."
+  },
+  "1509": {
+    "扇装備時の|こうげき力が|５増える": "Attack +5|when a Fan|is equipped."
+  },
+  "1510": {
+    "虫系の敵に|威力を発揮する|すばやい剣技": "A strike|effective against|Insect-types."
+  },
+  "1511": {
+    "clarity_nt_char_1511": "clarity_nt_char_1511"
+  },
+  "1512": {
+    "敵１体の|重さを減らす|不思議ないちげき": "Reduces one|enemy's Weight."
+  },
+  "1513": {
+    "clarity_nt_char_1513": "clarity_nt_char_1513"
+  },
+  "1514": {
+    "スライム系の敵に|威力を発揮する|ブーメランの妙技": "Extra damage|against slime|type enemies."
+  },
+  "1515": {
+    "鉄甲斬・改": "Scrap Mettle"
+  },
+  "1516": {
+    "攻撃時魔力低下+15%": "Attack Spell Res. D. +15%"
+  },
+  "1517": {
+    "攻撃時与ダメ低下+5%": "Lower Damage On Attack +5%"
+  },
+  "1518": {
+    "戦闘勝利時ＭＰ大回復": "Large MP Recovery After Battle"
+  },
+  "1519": {
+    "clarity_nt_char_1519": "clarity_nt_char_1519"
+  },
+  "1520": {
+    "呪文暴走率+1%": "Haywire Rate +1%"
+  },
+  "1521": {
+    "clarity_nt_char_1521": "clarity_nt_char_1521"
+  },
+  "1522": {
+    "シャインステッキ": "Shine Stick"
+  },
+  "1523": {
+    "clarity_nt_char_1523": "clarity_nt_char_1523"
+  },
+  "1524": {
+    "さいだいＭＰ+60": "Max MP +60"
+  },
+  "1525": {
+    "呪文発動速度+3%": "Spell Cast Speed +3%"
+  },
+  "1526": {
+    "行動時5%移動アップ": "Move Speed Up On Action 5%"
+  },
+  "1527": {
+    "clarity_nt_char_1527": "clarity_nt_char_1527"
+  },
+  "1528": {
+    "チャージ時間-10秒": "Charge Time -10 sec."
+  },
+  "1529": {
+    "clarity_nt_char_1529": "clarity_nt_char_1529"
+  },
+  "1530": {
+    "かいしん率+6%": "Critical Rate+6%"
+  },
+  "1531": {
+    "clarity_nt_char_1531": "clarity_nt_char_1531"
+  },
+  "1532": {
+    "特技の射程距離+2m": "Skill Range +2m"
+  },
+  "1533": {
+    "clarity_nt_char_1533": "clarity_nt_char_1533"
+  },
+  "1534": {
+    "特技ダメージ+150": "Skill Damage +150"
+  },
+  "1535": {
+    "clarity_nt_char_1535": "clarity_nt_char_1535"
+  },
+  "1536": {
+    "スティック攻撃時|吸収できる|ＭＰが増える": "Increases MP|absorbed when|using a Wand."
+  },
+  "1537": {
+    "弓装備時の|こうげき力が|５増える": "Attack +5|when a Bow|is equipped."
+  },
+  "1538": {
+    "オノ装備時の|こうげき力が|３０増える": "Attack +30|when an Axe|is equipped."
+  },
+  "1539": {
+    "敵１体を斬りつけ|攻撃と守備を下げ|行動間隔ものばす": "Reduces enemy's|attack, defense,|and action speed."
+  },
+  "1540": {
+    "clarity_nt_char_1540": "clarity_nt_char_1540"
+  },
+  "1541": {
+    "攻撃時たまに|相手の魔力|を下げる": "Rarely lowers|spell power on|an attack."
+  },
+  "1542": {
+    "攻撃時たまに|相手の与ダメージ|を下げる": "Rarely reduces|damage dealt on|an attack."
+  },
+  "1543": {
+    "clarity_nt_char_1543": "clarity_nt_char_1543"
+  },
+  "1544": {
+    "スティック装備時|２％の確率で|ＭＰを消費しない": "2% chance to not|use MP when using|a Wand."
+  },
+  "1545": {
+    "clarity_nt_char_1545": "clarity_nt_char_1545"
+  },
+  "1546": {
+    "仲間ひとりの|悪い効果を|解除させる": "Cures one bad|status effect|from an ally."
+  },
+  "1547": {
+    "clarity_nt_char_1547": "clarity_nt_char_1547"
+  },
+  "1548": {
+    "スティック装備時|１．０％の確率で|ターン消費しない": "1% chance to not|use a turn with a|Wand."
+  },
+  "1549": {
+    "clarity_nt_char_1549": "clarity_nt_char_1549"
+  },
+  "1550": {
+    "スティック装備時|さいだいＭＰが|６０増える": "Max MP +60|when a Wand|is equipped."
+  },
+  "1551": {
+    "clarity_nt_char_1551": "clarity_nt_char_1551"
+  },
+  "1552": {
+    "スティック装備時|呪文発動速度が|早くなる": "Spell cast speed|increased when|using a Wand."
+  },
+  "1553": {
+    "行動時に５％で|移動速度が|あがる": "5% chance to|increase move|speed on action."
+  },
+  "1554": {
+    "スティック装備時|戦闘中のチャージ|時間を１０秒短縮": "CT Skill -10s|when a Wand|is equipped."
+  },
+  "1555": {
+    "clarity_nt_char_1555": "clarity_nt_char_1555"
+  },
+  "1556": {
+    "ムチ装備時の|こうげき力が|２０増える": "Attack +20|when a Whip|is equipped."
+  },
+  "1557": {
+    "ムチ装備時の|かいしん率が|６％増える": "Critical Rate +6%|when a Whip|is equipped."
+  },
+  "1558": {
+    "ムチ装備時の|こうげき力が|３０増える": "Attack +30|when a Whip|is equipped."
+  },
+  "1559": {
+    "ムチ装備時特技が|少し遠くから|当たるようになる": "Skill range up|slightly when|using a Whip."
+  },
+  "1560": {
+    "clarity_nt_char_1560": "clarity_nt_char_1560"
+  },
+  "1561": {
+    "ムチ装備時の|行動間隔が|少し短くなる": "Action wait is|down slightly|with a Whip."
+  },
+  "1562": {
+    "ムチ装備時|戦闘中のチャージ|時間を１０秒短縮": "CT Skill -10s|when a Whip|is equipped."
+  },
+  "1563": {
+    "ムチ装備時の|特技ダメージが|１５０増える": "Skill Damage +150|when a Whip|is equipped."
+  },
+  "1564": {
+    "オノ装備時の|こうげき力が|５増える": "Attack +5|when an Axe|is equipped."
+  },
+  "1565": {
+    "clarity_nt_char_1565": "clarity_nt_char_1565"
+  },
+  "1566": {
+    "呪文発動速度+4%": "Spell Cast Speed +4%"
+  },
+  "1567": {
+    "ガード時50%で早詠み": "When Guard 50% Cast Spd Up"
+  },
+  "1568": {
+    "ＭＰ吸収率+6%": "MP Absorb Rate +6%"
+  },
+  "1569": {
+    "clarity_nt_char_1569": "clarity_nt_char_1569"
+  },
+  "1570": {
+    "呪文暴走率+2%": "Haywire Rate +2%"
+  },
+  "1571": {
+    "clarity_nt_char_1571": "clarity_nt_char_1571"
+  },
+  "1572": {
+    "超暴走魔法陣・零": "Super Ring of Ruin Zero"
+  },
+  "1573": {
+    "clarity_nt_char_1573": "clarity_nt_char_1573"
+  },
+  "1574": {
+    "さいだいＭＰ+50": "Max MP +50"
+  },
+  "1575": {
+    "ファイアブレイク": "Fire Break"
+  },
+  "1576": {
+    "clarity_nt_char_1576": "clarity_nt_char_1576"
+  },
+  "1577": {
+    "攻撃時10%でためる": "On Attack Tension 10%"
+  },
+  "1578": {
+    "clarity_nt_char_1578": "clarity_nt_char_1578"
+  },
+  "1579": {
+    "呪文暴走時ダメアップ": "Haywire Damage Up"
+  },
+  "1580": {
+    "clarity_nt_char_1580": "clarity_nt_char_1580"
+  },
+  "1581": {
+    "ヴェレ": "Tox"
+  },
+  "1582": {
+    "ヴェレーノ": "Toxle"
+  },
+  "1583": {
+    "呪文暴走率+3%": "Haywire Rate +3%"
+  },
+  "1584": {
+    "clarity_nt_char_1584": "clarity_nt_char_1584"
+  },
+  "1585": {
+    "ヘナトール": "Kablunt"
+  },
+  "1586": {
+    "ヴェレノーマ": "Katoxle"
+  },
+  "1587": {
+    "clarity_nt_char_1587": "clarity_nt_char_1587"
+  },
+  "1588": {
+    "眠りに呪文ダメアップ": "Spell Damage To Asleep Up"
+  },
+  "1589": {
+    "clarity_nt_char_1589": "clarity_nt_char_1589"
+  },
+  "1590": {
+    "毒に呪文ダメアップ": "Spell Damage To Poisoned Up"
+  },
+  "1591": {
+    "闇のヴェール": "Dark Veil"
+  },
+  "1592": {
+    "clarity_nt_char_1592": "clarity_nt_char_1592"
+  },
+  "1593": {
+    "邪炎波": "Evil Wave"
+  },
+  "1594": {
+    "いてつくはどう": "Disruption Wave"
+  },
+  "1595": {
+    "扇装備時の|呪文発動速度が|早くなる": "Spell cast speed|up when a Fan|is equipped."
+  },
+  "1596": {
+    "clarity_nt_char_1596": "clarity_nt_char_1596"
+  },
+  "1597": {
+    "暗黒連撃": "Dark Barrage"
+  },
+  "1598": {
+    "clarity_nt_char_1598": "clarity_nt_char_1598"
+  },
+  "1599": {
+    "闇の加護": "Dark Gift"
+  },
+  "1600": {
+    "clarity_nt_char_1600": "clarity_nt_char_1600"
+  },
+  "1601": {
+    "行動時5%でテンション": "Tension On Action 5%"
+  },
+  "1602": {
+    "ダークマター": "Dark Matter"
+  },
+  "1603": {
+    "clarity_nt_char_1603": "clarity_nt_char_1603"
+  },
+  "1604": {
+    "波動解放": "Wave Release"
+  },
+  "1605": {
+    "clarity_nt_char_1605": "clarity_nt_char_1605"
+  },
+  "1606": {
+    "錬魔の秘法": "Demonic Method"
+  },
+  "1607": {
+    "ＭＰ消費しない率+4%": "Don't Use MP Rate +4%"
+  },
+  "1608": {
+    "ターン消費しない+2%": "Don't Consume Turn +2%"
+  },
+  "1609": {
+    "棍装備時に|呪文の発動速度が|３％早くなる": "Spell cast speed|increased by 3%|with a Rod."
+  },
+  "1610": {
+    "棍装備時の|こうげき力が|３０増える": "Attack +30|when a Rod|is equipped."
+  },
+  "1611": {
+    "clarity_nt_char_1611": "clarity_nt_char_1611"
+  },
+  "1612": {
+    "棍装備時の|こうげき力が|４０増える": "Attack +40|when a Rod|is equipped."
+  },
+  "1613": {
+    "clarity_nt_char_1613": "clarity_nt_char_1613"
+  },
+  "1614": {
+    "棍装備時に|呪文の発動速度が|４％早くなる": "Spell cast speed|increased by 4%|with a Rod."
+  },
+  "1615": {
+    "ガード時５０％で|早詠みの杖の|効果がかかる": "50% rate to gain|Faster Caster|on a guard."
+  },
+  "1616": {
+    "clarity_nt_char_1616": "clarity_nt_char_1616"
+  },
+  "1617": {
+    "両手杖装備で|戦闘に勝つと|ＭＰが大回復する": "Gain big MP when|you win a battle|with a Staff."
+  },
+  "1618": {
+    "clarity_nt_char_1618": "clarity_nt_char_1618"
+  },
+  "1619": {
+    "両手杖装備時の|こうげき魔力が|６０増える": "Mag. Might +60|when a Staff|is equipped."
+  },
+  "1620": {
+    "呪文がかなり|暴走しやすくなる|魔法陣を作る": "A magic circle|that increases|haywire rate."
+  },
+  "1621": {
+    "clarity_nt_char_1621": "clarity_nt_char_1621"
+  },
+  "1622": {
+    "両手杖装備時|さいだいＭＰが|５０増える": "Max MP +50|when a Staff|is equipped."
+  },
+  "1623": {
+    "clarity_nt_char_1623": "clarity_nt_char_1623"
+  },
+  "1624": {
+    "炎耐性をさげる|魔力を解き放つ": "A magic power|that lowers fire|resistance."
+  },
+  "1625": {
+    "攻撃時に１０％で|テンションが|あがるようになる": "10% chance to|gain tension on|an attack."
+  },
+  "1626": {
+    "clarity_nt_char_1626": "clarity_nt_char_1626"
+  },
+  "1627": {
+    "両手杖装備時の|暴走ダメージが|増える": "Haywire damage|up when a Staff|is equipped."
+  },
+  "1628": {
+    "鎌装備時の|こうげき魔力が|４０増える": "Mag. Might +40|when a Sickle|is equipped."
+  },
+  "1629": {
+    "短剣装備時の|こうげき魔力が|３０増える": "Mag. Might +30|when a Dagger|is equipped."
+  },
+  "1630": {
+    "clarity_nt_char_1630": "clarity_nt_char_1630"
+  },
+  "1631": {
+    "範囲内の敵を|深い眠りにさそう|短剣専用呪文": "A Dagger spell to|put nearby|enemies to sleep."
+  },
+  "1632": {
+    "clarity_nt_char_1632": "clarity_nt_char_1632"
+  },
+  "1633": {
+    "短剣装備時|さいだいＭＰが|５０増える": "Max MP +50|when a Dagger|is equipped."
+  },
+  "1634": {
+    "範囲内の敵を|毒にさせる|短剣専用呪文": "A Dagger spell to|poison nearby|enemies."
+  },
+  "1635": {
+    "範囲内にいる敵の|攻撃力を下げる|短剣専用呪文": "A Dagger spell to|lower attack|power in an area."
+  },
+  "1636": {
+    "短剣装備時|さいだいＭＰが|１００増える": "Max MP +100|when a Dagger|is equipped."
+  },
+  "1637": {
+    "clarity_nt_char_1637": "clarity_nt_char_1637"
+  },
+  "1638": {
+    "短剣装備時の|こうげき魔力が|６０増える": "Mag. Might +60|when a Dagger|is equipped."
+  },
+  "1639": {
+    "clarity_nt_char_1639": "clarity_nt_char_1639"
+  },
+  "1640": {
+    "範囲内の敵を|猛毒にさせる|短剣専用呪文": "Inflict nearby|enemies with a|deadly poison."
+  },
+  "1641": {
+    "clarity_nt_char_1641": "clarity_nt_char_1641"
+  },
+  "1642": {
+    "短剣装備時|眠りの敵に|呪文ダメが増える": "Spell damage up|to asleep when|using a Dagger."
+  },
+  "1643": {
+    "clarity_nt_char_1643": "clarity_nt_char_1643"
+  },
+  "1644": {
+    "短剣装備時|毒の敵に|呪文ダメが増える": "Spell damage up|to poisoned when|using a Dagger."
+  },
+  "1645": {
+    "鎌装備時|闇攻撃ダメージが|５％増える": "Dark Damage +5%|when a Sickle|is equipped."
+  },
+  "1646": {
+    "スティック装備時|さいだいＭＰが|５０増える": "Max MP +50|when a Wand|is equipped."
+  },
+  "1647": {
+    "clarity_nt_char_1647": "clarity_nt_char_1647"
+  },
+  "1648": {
+    "スティック装備時|４％の確率で|ＭＰを消費しない": "4% chance to not|use MP when using|a Wand."
+  },
+  "1649": {
+    "clarity_nt_char_1649": "clarity_nt_char_1649"
+  },
+  "1650": {
+    "スティック装備時|２．０％の確率で|ターン消費しない": "2% chance to not|use a turn when|using a Wand."
+  },
+  "1651": {
+    "clarity_nt_char_1651": "clarity_nt_char_1651"
+  },
+  "1652": {
+    "仲間ひとりを|生き返らせる|スティック専用": "A Stick spell|that revives|one ally."
+  },
+  "1653": {
+    "スティック装備時|こうげき魔力が|６０増える": "Mag. Might +60|when a Wand|is equipped."
+  },
+  "1654": {
+    "clarity_nt_char_1654": "clarity_nt_char_1654"
+  },
+  "1655": {
+    "攻撃時ＨＰ回復と|武器ガード率上昇|効果がつく": "Increased parry|rate and attacks|recover HP."
+  },
+  "1656": {
+    "魔の波動を消費し|自己強化|魔剣士専用特技": "Consume Wave|gauge to power|yourself up."
+  },
+  "1657": {
+    "闇のチカラで|範囲内の敵を攻撃|魔剣士専用特技": "A dark attack|that hits all|nearby enemies."
+  },
+  "1658": {
+    "範囲内の敵の|よい効果を解除|魔剣士専用特技": "Erase|good effects|on enemies"
+  },
+  "1659": {
+    "clarity_nt_char_1659": "clarity_nt_char_1659"
+  },
+  "1660": {
+    "魔剣士時会心や|呪文の暴走が|出やすくなる": "Critical/haywire|rate up as a|Demon Swordsman."
+  },
+  "1661": {
+    "敵１体に|闇の５連撃|魔剣士専用特技": "Deals five dark|slashes to an|enemy."
+  },
+  "1662": {
+    "clarity_nt_char_1662": "clarity_nt_char_1662"
+  },
+  "1663": {
+    "魔剣士時|ちからが|１０増える": "Strength +10|when a|Demon Swordsman."
+  },
+  "1664": {
+    "味方のダメージを|かたがわりする|魔剣士専用特技": "Receive a portion|of damage that|an ally receives."
+  },
+  "1665": {
+    "clarity_nt_char_1665": "clarity_nt_char_1665"
+  },
+  "1666": {
+    "魔剣士時たまに|テンションが|あがる": "Chance to keep|tension as a|Demon Swordsman."
+  },
+  "1667": {
+    "clarity_nt_char_1667": "clarity_nt_char_1667"
+  },
+  "1668": {
+    "周囲に闇の攻撃|闇耐性も下げる|魔剣士専用特技": "A dark area blow|that lowers|dark resistance."
+  },
+  "1669": {
+    "魔の波動の|増加量大幅アップ|魔剣士専用特技": "Greatly increases|rate of Wave|gauge gain."
+  },
+  "1670": {
+    "clarity_nt_char_1670": "clarity_nt_char_1670"
+  },
+  "1671": {
+    "特技の発動と|移動速度アップ|行動間隔も短縮": "Move and action|speed up; action|wait shortened."
+  },
+  "1672": {
+    "clarity_nt_char_1672": "clarity_nt_char_1672"
+  },
+  "1673": {
+    "武器ガード率が|大幅に上がる|鎌の防御術": "Increases Parry|Rate|significantly."
+  },
+  "1674": {
+    "clarity_nt_char_1674": "clarity_nt_char_1674"
+  },
+  "1675": {
+    "カカロン召喚": "Summon Klashmi"
+  },
+  "1676": {
+    "clarity_nt_char_1676": "clarity_nt_char_1676"
+  },
+  "1677": {
+    "クシャラミ召喚": "Summon Kamashki"
+  },
+  "1678": {
+    "バルバルー召喚": "Summon Blamara"
+  },
+  "1679": {
+    "ドメディ召喚": "Summon Damninui"
+  },
+  "1680": {
+    "clarity_nt_char_1680": "clarity_nt_char_1680"
+  },
+  "1681": {
+    "がいこつ召喚": "Summon Skeleton"
+  },
+  "1682": {
+    "clarity_nt_char_1682": "clarity_nt_char_1682"
+  },
+  "1683": {
+    "ゴースト召喚": "Summon Ghost"
+  },
+  "1684": {
+    "clarity_nt_char_1684": "clarity_nt_char_1684"
+  },
+  "1685": {
+    "よろいのきし召喚": "Summon Knight Errant"
+  },
+  "1686": {
+    "clarity_nt_char_1686": "clarity_nt_char_1686"
+  },
+  "1687": {
+    "カカロンを召喚|２分間一緒に戦う|天地雷鳴士専用": "Summons Klashmi|to assist you|for 2 minutes."
+  },
+  "1688": {
+    "clarity_nt_char_1688": "clarity_nt_char_1688"
+  },
+  "1689": {
+    "クシャラミを召喚|２分間一緒に戦う|天地雷鳴士専用": "Summons Kamashki|to assist you|for 2 minutes."
+  },
+  "1690": {
+    "バルバルーを召喚|２分間一緒に戦う|天地雷鳴士専用": "Summons Blamara|to assist you|for 2 minutes."
+  },
+  "1691": {
+    "ドメディを召喚|２分間一緒に戦う|天地雷鳴士専用": "Summons Damninui|to assist you|for 2 minutes."
+  },
+  "1692": {
+    "clarity_nt_char_1692": "clarity_nt_char_1692"
+  },
+  "1693": {
+    "がいこつを|召喚し使役する|デスマスター専用": "Summons a|Skeleton to|assist you."
+  },
+  "1694": {
+    "clarity_nt_char_1694": "clarity_nt_char_1694"
+  },
+  "1695": {
+    "ゴーストを|召喚し使役する|デスマスター専用": "Summons a Ghost|to assist you."
+  },
+  "1696": {
+    "clarity_nt_char_1696": "clarity_nt_char_1696"
+  },
+  "1697": {
+    "よろいのきしを|召喚し使役する|デスマスター専用": "Summons a Knight|Errant to|assist you."
+  }
+}

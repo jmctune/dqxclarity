@@ -1,0 +1,311 @@
+{
+    "1": {
+        "<%sM_space>１～<%sM_space>５": "<%sM_space>1-<%sM_space>5"
+    },
+    "2": {
+        "<%sM_space>６～１０": "<%sM_space>6-10"
+    },
+    "3": {
+        "１１～１５": "11-15"
+    },
+    "4": {
+        "１６～２０": "16-20"
+    },
+    "5": {
+        "２１～２５": "21-25"
+    },
+    "6": {
+        "２６～３０": "26-30"
+    },
+    "7": {
+        "３１～３５": "31-35"
+    },
+    "8": {
+        "３６～４０": "36-40"
+    },
+    "9": {
+        "４１～４５": "41-45"
+    },
+    "10": {
+        "４６～５０": "46-50"
+    },
+    "11": {
+        "５１～５５": "51-55"
+    },
+    "12": {
+        "５６～６０": "56-60"
+    },
+    "13": {
+        "毎日": "Daily"
+    },
+    "14": {
+        "clarity_nt_char_1": "clarity_nt_char_1"
+    },
+    "15": {
+        "平日": "Wkdays"
+    },
+    "16": {
+        "clarity_nt_char_2": "clarity_nt_char_2"
+    },
+    "17": {
+        "土日": "Wknds"
+    },
+    "18": {
+        "clarity_nt_char_3": "clarity_nt_char_3"
+    },
+    "19": {
+        "いつでも": "Anytime"
+    },
+    "20": {
+        "clarity_nt_char_4": "clarity_nt_char_4"
+    },
+    "21": {
+        "朝方メイン": "Morning Main"
+    },
+    "22": {
+        "昼メイン": "Daytime Main"
+    },
+    "23": {
+        "clarity_nt_char_5": "clarity_nt_char_5"
+    },
+    "24": {
+        "夕方メイン": "Evening Main"
+    },
+    "25": {
+        "夜メイン": "Night Main"
+    },
+    "26": {
+        "clarity_nt_char_6": "clarity_nt_char_6"
+    },
+    "27": {
+        "深夜メイン": "Midnight Main"
+    },
+    "28": {
+        "午前中メイン": "AM Main"
+    },
+    "29": {
+        "clarity_nt_char_7": "clarity_nt_char_7"
+    },
+    "30": {
+        "午後メイン": "PM Main"
+    },
+    "31": {
+        "キッズタイム": "Kid's Time"
+    },
+    "32": {
+        "clarity_nt_char_8": "clarity_nt_char_8"
+    },
+    "33": {
+        "(なし)": "(None)"
+    },
+    "34": {
+        "clarity_nt_char_9": "clarity_nt_char_9"
+    },
+    "35": {
+        "♂キャラ中心": "♂ Characters"
+    },
+    "36": {
+        "clarity_nt_char_10": "clarity_nt_char_10"
+    },
+    "37": {
+        "♀キャラ中心": "♀ Characters"
+    },
+    "38": {
+        "clarity_nt_char_11": "clarity_nt_char_11"
+    },
+    "39": {
+        "オーガ中心": "Ogres"
+    },
+    "40": {
+        "プクリポ中心": "Pukulipos"
+    },
+    "41": {
+        "clarity_nt_char_12": "clarity_nt_char_12"
+    },
+    "42": {
+        "ウェディ中心": "Weddies"
+    },
+    "43": {
+        "clarity_nt_char_13": "clarity_nt_char_13"
+    },
+    "44": {
+        "エルフ中心": "Elves"
+    },
+    "45": {
+        "ドワーフ中心": "Dwarves"
+    },
+    "46": {
+        "clarity_nt_char_14": "clarity_nt_char_14"
+    },
+    "47": {
+        "人間中心": "Humans"
+    },
+    "48": {
+        "clarity_nt_char_15": "clarity_nt_char_15"
+    },
+    "49": {
+        "学生中心": "Students"
+    },
+    "50": {
+        "clarity_nt_char_16": "clarity_nt_char_16"
+    },
+    "51": {
+        "社会人中心": "Work Focused"
+    },
+    "52": {
+        "お母さん中心": "Mothers"
+    },
+    "53": {
+        "clarity_nt_char_17": "clarity_nt_char_17"
+    },
+    "54": {
+        "シニア中心": "Seniors"
+    },
+    "55": {
+        "なんでもＯＫ": "Anything is OK"
+    },
+    "56": {
+        "clarity_nt_char_18": "clarity_nt_char_18"
+    },
+    "57": {
+        "初心者歓迎": "Beginners"
+    },
+    "58": {
+        "熟練者歓迎": "Experts Welcome"
+    },
+    "59": {
+        "まったりと": "Relaxed"
+    },
+    "60": {
+        "やりこみ派": "Speedrun"
+    },
+    "61": {
+        "雑談好き": "Like to Chat"
+    },
+    "62": {
+        "clarity_nt_char_19": "clarity_nt_char_19"
+    },
+    "63": {
+        "攻略メイン": "Strategy Main"
+    },
+    "64": {
+        "戦闘メイン": "Combat Main"
+    },
+    "65": {
+        "職人メイン": "Craftsman Main"
+    },
+    "66": {
+        "なりきりプレイ": "Impersonator Play"
+    },
+    "67": {
+        "イベント大好き": "I Love Events"
+    },
+    "68": {
+        "ひとりプレイ": "Playing Alone"
+    },
+    "69": {
+        "clarity_nt_char_20": "clarity_nt_char_20"
+    },
+    "70": {
+        "チャット不要": "No Chat Required"
+    },
+    "71": {
+        "clarity_nt_char_21": "clarity_nt_char_21"
+    },
+    "72": {
+        "サブキャラＯＫ": "Sub Character OK"
+    },
+    "73": {
+        "レベル上げ": "Level Up"
+    },
+    "74": {
+        "シナリオ攻略": "Scenario Capture"
+    },
+    "75": {
+        "clarity_nt_char_22": "clarity_nt_char_22"
+    },
+    "76": {
+        "クエスト攻略": "Quest Capture"
+    },
+    "77": {
+        "clarity_nt_char_23": "clarity_nt_char_23"
+    },
+    "78": {
+        "ボス討伐": "Boss Subj."
+    },
+    "79": {
+        "clarity_nt_char_24": "clarity_nt_char_24"
+    },
+    "80": {
+        "魔法の迷宮": "Magic Maze"
+    },
+    "81": {
+        "素材集め": "Materials"
+    },
+    "82": {
+        "clarity_nt_char_25": "clarity_nt_char_25"
+    },
+    "83": {
+        "アクセハンター": "Get Accessories"
+    },
+    "84": {
+        "お金かせぎ": "Earn Money"
+    },
+    "85": {
+        "特訓": "Train"
+    },
+    "86": {
+        "clarity_nt_char_26": "clarity_nt_char_26"
+    },
+    "87": {
+        "日替わり討伐隊": "Daily Subjugation"
+    },
+    "88": {
+        "依頼書攻略": "Request Forms"
+    },
+    "89": {
+        "ハウジング": "Housing"
+    },
+    "90": {
+        "季節イベント": "Seasonal Event"
+    },
+    "91": {
+        "clarity_nt_char_27": "clarity_nt_char_27"
+    },
+    "92": {
+        "チームクエスト": "Team Quests"
+    },
+    "93": {
+        "お試し参加ＯＫ": "Trial Account OK"
+    },
+    "94": {
+        "３日以内": "Within 3 Day"
+    },
+    "95": {
+        "clarity_nt_char_28": "clarity_nt_char_28"
+    },
+    "96": {
+        "１週間以内": "Within 1 Week"
+    },
+    "97": {
+        "２週間以内": "Within 2 Weeks"
+    },
+    "98": {
+        "３週間以内": "Within 3 Weeks"
+    },
+    "99": {
+        "１ヶ月以内": "Within 1 Month"
+    },
+    "100": {
+        "１ヶ月以上前": "More than a Month"
+    },
+    "101": {
+        "clarity_nt_char_29": "clarity_nt_char_29"
+    },
+    "102": {
+        "６１～６５": "61-65"
+    },
+    "103": {
+        "６６～７０": "66-70"
+    }
+}

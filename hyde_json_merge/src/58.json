@@ -1,0 +1,1355 @@
+{
+  "1": {
+    "メインカラー": "Main Color"
+  },
+  "2": {
+    "clarity_nt_char_1": "clarity_nt_char_1"
+  },
+  "3": {
+    "サイドカラー": "Side Color"
+  },
+  "4": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "5": {
+    "ベースカラー": "Base Color"
+  },
+  "6": {
+    "clarity_nt_char_3": "clarity_nt_char_3"
+  },
+  "7": {
+    "ふちどりライン": "Border Line"
+  },
+  "8": {
+    "ベルト": "Belt"
+  },
+  "9": {
+    "ワッペンライン": "Emblem Line"
+  },
+  "10": {
+    "ふさ": "Bunch"
+  },
+  "11": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "12": {
+    "ふちどりのもよう": "Border Pattern"
+  },
+  "13": {
+    "clarity_nt_char_5": "clarity_nt_char_5"
+  },
+  "14": {
+    "こしまき": "Waist Wrap"
+  },
+  "15": {
+    "clarity_nt_char_6": "clarity_nt_char_6"
+  },
+  "16": {
+    "エプロン": "Apron"
+  },
+  "17": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "18": {
+    "くつぞこ": "Shoe Soles"
+  },
+  "19": {
+    "clarity_nt_char_8": "clarity_nt_char_8"
+  },
+  "20": {
+    "ボタン": "Button"
+  },
+  "21": {
+    "シャツ": "Shirt"
+  },
+  "22": {
+    "ベストのもよう": "Best Motif"
+  },
+  "23": {
+    "ボーダー": "Border"
+  },
+  "24": {
+    "clarity_nt_char_9": "clarity_nt_char_9"
+  },
+  "25": {
+    "ボーダー１": "Border 1"
+  },
+  "26": {
+    "ボーダー２": "Border 2"
+  },
+  "27": {
+    "ブーツ": "Boots"
+  },
+  "28": {
+    "ズボン": "Pants"
+  },
+  "29": {
+    "ラインカラー": "Line Color"
+  },
+  "30": {
+    "clarity_nt_char_10": "clarity_nt_char_10"
+  },
+  "31": {
+    "パレオ": "Paleo"
+  },
+  "32": {
+    "花柄": "Floral"
+  },
+  "33": {
+    "clarity_nt_char_11": "clarity_nt_char_11"
+  },
+  "34": {
+    "リボン": "Ribbon"
+  },
+  "35": {
+    "チェック柄": "Plaid"
+  },
+  "36": {
+    "えりまき": "Scarf"
+  },
+  "37": {
+    "clarity_nt_char_12": "clarity_nt_char_12"
+  },
+  "38": {
+    "布": "Clo"
+  },
+  "39": {
+    "こしカバー": "Strain Cover"
+  },
+  "40": {
+    "笠": "Hat"
+  },
+  "41": {
+    "ひざあて": "Kneeling"
+  },
+  "42": {
+    "clarity_nt_char_13": "clarity_nt_char_13"
+  },
+  "43": {
+    "むねあて": "Breastplate"
+  },
+  "44": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "45": {
+    "レース": "Lace"
+  },
+  "46": {
+    "花かざり": "Flower Decor"
+  },
+  "47": {
+    "clarity_nt_char_15": "clarity_nt_char_15"
+  },
+  "48": {
+    "チェーンベルト": "Chain Belt"
+  },
+  "49": {
+    "スカーフ": "Scarf"
+  },
+  "50": {
+    "clarity_nt_char_16": "clarity_nt_char_16"
+  },
+  "51": {
+    "リストカバー": "Wrist Cover"
+  },
+  "52": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "53": {
+    "ネックレス": "Necklace"
+  },
+  "54": {
+    "もよう１": "Motif 1"
+  },
+  "55": {
+    "clarity_nt_char_18": "clarity_nt_char_18"
+  },
+  "56": {
+    "もよう２": "Motif 2"
+  },
+  "57": {
+    "clarity_nt_char_19": "clarity_nt_char_19"
+  },
+  "58": {
+    "顔": "Fce"
+  },
+  "59": {
+    "目": "Eye"
+  },
+  "60": {
+    "ウエストゴム": "Waist Rubber"
+  },
+  "61": {
+    "clarity_nt_char_20": "clarity_nt_char_20"
+  },
+  "62": {
+    "マーク１": "Mark 1"
+  },
+  "63": {
+    "clarity_nt_char_21": "clarity_nt_char_21"
+  },
+  "64": {
+    "マーク２": "Mark 2"
+  },
+  "65": {
+    "clarity_nt_char_22": "clarity_nt_char_22"
+  },
+  "66": {
+    "皮ひも": "Thong"
+  },
+  "67": {
+    "羽根かざり": "Feather Decor"
+  },
+  "68": {
+    "ぞうり": "Flat Shoe"
+  },
+  "69": {
+    "はなお": "Shoestrap"
+  },
+  "70": {
+    "トランプ": "Game Card"
+  },
+  "71": {
+    "clarity_nt_char_23": "clarity_nt_char_23"
+  },
+  "72": {
+    "リボン　ふちどり": "Ribbon Edging"
+  },
+  "73": {
+    "clarity_nt_char_24": "clarity_nt_char_24"
+  },
+  "74": {
+    "バラ": "Rose"
+  },
+  "75": {
+    "clarity_nt_char_25": "clarity_nt_char_25"
+  },
+  "76": {
+    "リボン　ひも": "Ribbon String"
+  },
+  "77": {
+    "clarity_nt_char_26": "clarity_nt_char_26"
+  },
+  "78": {
+    "ジュエルカラー": "Jewel Color"
+  },
+  "79": {
+    "マント": "Cloak"
+  },
+  "80": {
+    "グローブ": "Glove"
+  },
+  "81": {
+    "clarity_nt_char_27": "clarity_nt_char_27"
+  },
+  "82": {
+    "かざりのふちどり": "Decorative Edging"
+  },
+  "83": {
+    "clarity_nt_char_28": "clarity_nt_char_28"
+  },
+  "84": {
+    "ワンポイント": "One Point"
+  },
+  "85": {
+    "clarity_nt_char_29": "clarity_nt_char_29"
+  },
+  "86": {
+    "フリル": "Frill"
+  },
+  "87": {
+    "ニーハイソックス": "Knee-high Socks"
+  },
+  "88": {
+    "clarity_nt_char_30": "clarity_nt_char_30"
+  },
+  "89": {
+    "ネッカチーフ": "Neckerchief"
+  },
+  "90": {
+    "clarity_nt_char_31": "clarity_nt_char_31"
+  },
+  "91": {
+    "コックコート": "Cook's Coat"
+  },
+  "92": {
+    "clarity_nt_char_32": "clarity_nt_char_32"
+  },
+  "93": {
+    "ショルダーベルト": "Shoulder Belt"
+  },
+  "94": {
+    "clarity_nt_char_33": "clarity_nt_char_33"
+  },
+  "95": {
+    "ヒップベルト": "Hip Belt"
+  },
+  "96": {
+    "clarity_nt_char_34": "clarity_nt_char_34"
+  },
+  "97": {
+    "レッグカバー": "Leg Cover"
+  },
+  "98": {
+    "clarity_nt_char_35": "clarity_nt_char_35"
+  },
+  "99": {
+    "レザーのかざり": "Leather Ornament"
+  },
+  "100": {
+    "まえかけ": "Apron"
+  },
+  "101": {
+    "clarity_nt_char_36": "clarity_nt_char_36"
+  },
+  "102": {
+    "ブラウス": "Blouse"
+  },
+  "103": {
+    "clarity_nt_char_37": "clarity_nt_char_37"
+  },
+  "104": {
+    "マントの裏地": "Cloak Lining"
+  },
+  "105": {
+    "clarity_nt_char_38": "clarity_nt_char_38"
+  },
+  "106": {
+    "ビスチェ": "Bustier"
+  },
+  "107": {
+    "clarity_nt_char_39": "clarity_nt_char_39"
+  },
+  "108": {
+    "フリンジ": "Fringe"
+  },
+  "109": {
+    "clarity_nt_char_40": "clarity_nt_char_40"
+  },
+  "110": {
+    "ぼうしカバー": "Hat Cover"
+  },
+  "111": {
+    "clarity_nt_char_41": "clarity_nt_char_41"
+  },
+  "112": {
+    "ショートパンツ": "Short Pants"
+  },
+  "113": {
+    "羽型プロテクター": "Feather Protector"
+  },
+  "114": {
+    "clarity_nt_char_42": "clarity_nt_char_42"
+  },
+  "115": {
+    "サイドビスチェ": "Side Bustier"
+  },
+  "116": {
+    "トップフェザー": "Top Feather"
+  },
+  "117": {
+    "バックフェザー": "Back Feather"
+  },
+  "118": {
+    "ヘッドストール": "Head Stall"
+  },
+  "119": {
+    "スカート": "Skirt"
+  },
+  "120": {
+    "clarity_nt_char_43": "clarity_nt_char_43"
+  },
+  "121": {
+    "ストール": "Strap"
+  },
+  "122": {
+    "clarity_nt_char_44": "clarity_nt_char_44"
+  },
+  "123": {
+    "トップティアード": "Top Tiered"
+  },
+  "124": {
+    "clarity_nt_char_45": "clarity_nt_char_45"
+  },
+  "125": {
+    "イチゴ": "Strwberry"
+  },
+  "126": {
+    "つば": "Spit"
+  },
+  "127": {
+    "clarity_nt_char_46": "clarity_nt_char_46"
+  },
+  "128": {
+    "裏地": "Lining"
+  },
+  "129": {
+    "clarity_nt_char_47": "clarity_nt_char_47"
+  },
+  "130": {
+    "むぎわら": "Straw"
+  },
+  "131": {
+    "clarity_nt_char_48": "clarity_nt_char_48"
+  },
+  "132": {
+    "布ひも": "String"
+  },
+  "133": {
+    "折りかえし": "Wrap Back"
+  },
+  "134": {
+    "バンド": "Hand"
+  },
+  "135": {
+    "けがわ": "Fur"
+  },
+  "136": {
+    "くつ": "Shoes"
+  },
+  "137": {
+    "clarity_nt_char_49": "clarity_nt_char_49"
+  },
+  "138": {
+    "セパレート１": "Separate 1"
+  },
+  "139": {
+    "clarity_nt_char_50": "clarity_nt_char_50"
+  },
+  "140": {
+    "セパレート２": "Separate 2"
+  },
+  "141": {
+    "clarity_nt_char_51": "clarity_nt_char_51"
+  },
+  "142": {
+    "サブカラー": "Sub Color"
+  },
+  "143": {
+    "プリント": "Print"
+  },
+  "144": {
+    "clarity_nt_char_52": "clarity_nt_char_52"
+  },
+  "145": {
+    "Ｔシャツ": "T-shirt"
+  },
+  "146": {
+    "clarity_nt_char_53": "clarity_nt_char_53"
+  },
+  "147": {
+    "宝石": "Jewel"
+  },
+  "148": {
+    "clarity_nt_char_54": "clarity_nt_char_54"
+  },
+  "149": {
+    "カバー": "Cover"
+  },
+  "150": {
+    "てぶくろ": "Handbag"
+  },
+  "151": {
+    "clarity_nt_char_55": "clarity_nt_char_55"
+  },
+  "152": {
+    "インナー": "Inner"
+  },
+  "153": {
+    "clarity_nt_char_56": "clarity_nt_char_56"
+  },
+  "154": {
+    "ジャケット": "Jacket"
+  },
+  "155": {
+    "けさ": "Morn."
+  },
+  "156": {
+    "clarity_nt_char_57": "clarity_nt_char_57"
+  },
+  "157": {
+    "ハットバンド": "Hat Band"
+  },
+  "158": {
+    "clarity_nt_char_58": "clarity_nt_char_58"
+  },
+  "159": {
+    "ふちどりもよう１": "Border Pattern 1"
+  },
+  "160": {
+    "clarity_nt_char_59": "clarity_nt_char_59"
+  },
+  "161": {
+    "ふちどりもよう２": "Border Pattern 2"
+  },
+  "162": {
+    "clarity_nt_char_60": "clarity_nt_char_60"
+  },
+  "163": {
+    "ふちどりライン１": "Border Line 1"
+  },
+  "164": {
+    "clarity_nt_char_61": "clarity_nt_char_61"
+  },
+  "165": {
+    "ふちどりライン２": "Border Line 2"
+  },
+  "166": {
+    "clarity_nt_char_62": "clarity_nt_char_62"
+  },
+  "167": {
+    "おび": "Band"
+  },
+  "168": {
+    "clarity_nt_char_63": "clarity_nt_char_63"
+  },
+  "169": {
+    "ヘッドバンド": "Headband"
+  },
+  "170": {
+    "clarity_nt_char_64": "clarity_nt_char_64"
+  },
+  "171": {
+    "ベスト": "Vest"
+  },
+  "172": {
+    "タンクトップ": "Tank top"
+  },
+  "173": {
+    "clarity_nt_char_65": "clarity_nt_char_65"
+  },
+  "174": {
+    "うろこ": "Scales"
+  },
+  "175": {
+    "ふちどり": "Border"
+  },
+  "176": {
+    "clarity_nt_char_66": "clarity_nt_char_66"
+  },
+  "177": {
+    "こし布": "Loin"
+  },
+  "178": {
+    "はちまき": "Headband"
+  },
+  "179": {
+    "clarity_nt_char_67": "clarity_nt_char_67"
+  },
+  "180": {
+    "トップ": "Top"
+  },
+  "181": {
+    "ひたいあて": "Forehead"
+  },
+  "182": {
+    "生地": "Cloth"
+  },
+  "183": {
+    "clarity_nt_char_68": "clarity_nt_char_68"
+  },
+  "184": {
+    "もよう": "Motif"
+  },
+  "185": {
+    "シューズ": "Shoes"
+  },
+  "186": {
+    "clarity_nt_char_69": "clarity_nt_char_69"
+  },
+  "187": {
+    "ホワイトブリム": "White Brim"
+  },
+  "188": {
+    "ハートの宝石": "Heart Jewel"
+  },
+  "189": {
+    "clarity_nt_char_70": "clarity_nt_char_70"
+  },
+  "190": {
+    "レッグガード": "Leg Guards"
+  },
+  "191": {
+    "clarity_nt_char_71": "clarity_nt_char_71"
+  },
+  "192": {
+    "そで　羽　しっぽ": "Feathertail Sleeve"
+  },
+  "193": {
+    "clarity_nt_char_72": "clarity_nt_char_72"
+  },
+  "194": {
+    "タイツ": "Tights"
+  },
+  "195": {
+    "ギザギザ": "Jagged"
+  },
+  "196": {
+    "clarity_nt_char_73": "clarity_nt_char_73"
+  },
+  "197": {
+    "ギザギザ上": "Jagged Upper"
+  },
+  "198": {
+    "ギザギザ下": "Jagged Lower"
+  },
+  "199": {
+    "羽　しっぽ": "Feathertail"
+  },
+  "200": {
+    "センター": "Center"
+  },
+  "201": {
+    "clarity_nt_char_74": "clarity_nt_char_74"
+  },
+  "202": {
+    "バッジ": "Badge"
+  },
+  "203": {
+    "ベール": "Bell"
+  },
+  "204": {
+    "サイド": "Side"
+  },
+  "205": {
+    "かざり": "Decorate"
+  },
+  "206": {
+    "トップのもよう": "Top Pattern"
+  },
+  "207": {
+    "フロント": "Front"
+  },
+  "208": {
+    "clarity_nt_char_75": "clarity_nt_char_75"
+  },
+  "209": {
+    "ぼうし": "Hat"
+  },
+  "210": {
+    "ベルトのふち": "Belt Edge"
+  },
+  "211": {
+    "clarity_nt_char_76": "clarity_nt_char_76"
+  },
+  "212": {
+    "フリルとトップ": "Frill & Top"
+  },
+  "213": {
+    "ドクロ": "Skull"
+  },
+  "214": {
+    "ゴーグルのバンド": "Goggle Band"
+  },
+  "215": {
+    "clarity_nt_char_77": "clarity_nt_char_77"
+  },
+  "216": {
+    "羽かざり前": "Plume Front"
+  },
+  "217": {
+    "羽かざりうしろ": ""
+  },
+  "218": {
+    "バイザー": ""
+  },
+  "219": {
+    "clarity_nt_char_78": "clarity_nt_char_78"
+  },
+  "220": {
+    "かぶと": ""
+  },
+  "221": {
+    "ねじり１": ""
+  },
+  "222": {
+    "clarity_nt_char_79": "clarity_nt_char_79"
+  },
+  "223": {
+    "ねじり２": ""
+  },
+  "224": {
+    "clarity_nt_char_80": "clarity_nt_char_80"
+  },
+  "225": {
+    "みずたま": ""
+  },
+  "226": {
+    "clarity_nt_char_81": "clarity_nt_char_81"
+  },
+  "227": {
+    "しまもよう１": ""
+  },
+  "228": {
+    "clarity_nt_char_82": "clarity_nt_char_82"
+  },
+  "229": {
+    "しまもよう２": ""
+  },
+  "230": {
+    "clarity_nt_char_83": "clarity_nt_char_83"
+  },
+  "231": {
+    "フード": ""
+  },
+  "232": {
+    "ほほあて": ""
+  },
+  "233": {
+    "clarity_nt_char_84": "clarity_nt_char_84"
+  },
+  "234": {
+    "はおり": ""
+  },
+  "235": {
+    "はかま": ""
+  },
+  "236": {
+    "ストライプ１": ""
+  },
+  "237": {
+    "clarity_nt_char_85": "clarity_nt_char_85"
+  },
+  "238": {
+    "ストライプ２": ""
+  },
+  "239": {
+    "clarity_nt_char_86": "clarity_nt_char_86"
+  },
+  "240": {
+    "ハット": ""
+  },
+  "241": {
+    "手足": ""
+  },
+  "242": {
+    "clarity_nt_char_87": "clarity_nt_char_87"
+  },
+  "243": {
+    "ファー": ""
+  },
+  "244": {
+    "皮": ""
+  },
+  "245": {
+    "ヘッドガード": ""
+  },
+  "246": {
+    "clarity_nt_char_88": "clarity_nt_char_88"
+  },
+  "247": {
+    "パッチワーク": ""
+  },
+  "248": {
+    "clarity_nt_char_89": "clarity_nt_char_89"
+  },
+  "249": {
+    "ハンドカバー": ""
+  },
+  "250": {
+    "clarity_nt_char_90": "clarity_nt_char_90"
+  },
+  "251": {
+    "フロントカバー": ""
+  },
+  "252": {
+    "リング": ""
+  },
+  "253": {
+    "玉": ""
+  },
+  "254": {
+    "ホック": ""
+  },
+  "255": {
+    "玉１": ""
+  },
+  "256": {
+    "clarity_nt_char_91": "clarity_nt_char_91"
+  },
+  "257": {
+    "玉２": ""
+  },
+  "258": {
+    "clarity_nt_char_92": "clarity_nt_char_92"
+  },
+  "259": {
+    "レンズ": ""
+  },
+  "260": {
+    "すねあて": ""
+  },
+  "261": {
+    "clarity_nt_char_93": "clarity_nt_char_93"
+  },
+  "262": {
+    "ハイソックス": ""
+  },
+  "263": {
+    "clarity_nt_char_94": "clarity_nt_char_94"
+  },
+  "264": {
+    "ソックス": ""
+  },
+  "265": {
+    "clarity_nt_char_95": "clarity_nt_char_95"
+  },
+  "266": {
+    "ポーチ": ""
+  },
+  "267": {
+    "くつひも": ""
+  },
+  "268": {
+    "clarity_nt_char_96": "clarity_nt_char_96"
+  },
+  "269": {
+    "サンダル": ""
+  },
+  "270": {
+    "clarity_nt_char_97": "clarity_nt_char_97"
+  },
+  "271": {
+    "インサイド": ""
+  },
+  "272": {
+    "アウトサイド": ""
+  },
+  "273": {
+    "clarity_nt_char_98": "clarity_nt_char_98"
+  },
+  "274": {
+    "長そで": ""
+  },
+  "275": {
+    "そで": ""
+  },
+  "276": {
+    "clarity_nt_char_99": "clarity_nt_char_99"
+  },
+  "277": {
+    "ラインカラー１": "Line Color 1"
+  },
+  "278": {
+    "ラインカラー２": "Line Color 2"
+  },
+  "279": {
+    "サブカラー１": "Sub Color 1"
+  },
+  "280": {
+    "clarity_nt_char_100": "clarity_nt_char_100"
+  },
+  "281": {
+    "サブカラー２": "Sub Color 2"
+  },
+  "282": {
+    "clarity_nt_char_101": "clarity_nt_char_101"
+  },
+  "283": {
+    "アウター": ""
+  },
+  "284": {
+    "clarity_nt_char_102": "clarity_nt_char_102"
+  },
+  "285": {
+    "ウエストポーチ": ""
+  },
+  "286": {
+    "ツノ": ""
+  },
+  "287": {
+    "clarity_nt_char_103": "clarity_nt_char_103"
+  },
+  "288": {
+    "ストライプ": ""
+  },
+  "289": {
+    "こしだれ": ""
+  },
+  "290": {
+    "clarity_nt_char_104": "clarity_nt_char_104"
+  },
+  "291": {
+    "ウエストベルト": ""
+  },
+  "292": {
+    "フリル１": ""
+  },
+  "293": {
+    "clarity_nt_char_105": "clarity_nt_char_105"
+  },
+  "294": {
+    "フリル２": ""
+  },
+  "295": {
+    "clarity_nt_char_106": "clarity_nt_char_106"
+  },
+  "296": {
+    "セパレート": ""
+  },
+  "297": {
+    "バックル": ""
+  },
+  "298": {
+    "clarity_nt_char_107": "clarity_nt_char_107"
+  },
+  "299": {
+    "ショルダーガード": ""
+  },
+  "300": {
+    "clarity_nt_char_108": "clarity_nt_char_108"
+  },
+  "301": {
+    "足袋": ""
+  },
+  "302": {
+    "clarity_nt_char_109": "clarity_nt_char_109"
+  },
+  "303": {
+    "サポーター": ""
+  },
+  "304": {
+    "バングル": ""
+  },
+  "305": {
+    "clarity_nt_char_110": "clarity_nt_char_110"
+  },
+  "306": {
+    "メット": ""
+  },
+  "307": {
+    "こしあて": ""
+  },
+  "308": {
+    "clarity_nt_char_111": "clarity_nt_char_111"
+  },
+  "309": {
+    "くちの中": ""
+  },
+  "310": {
+    "clarity_nt_char_112": "clarity_nt_char_112"
+  },
+  "311": {
+    "フリル下": ""
+  },
+  "312": {
+    "clarity_nt_char_113": "clarity_nt_char_113"
+  },
+  "313": {
+    "つま先": ""
+  },
+  "314": {
+    "ひも": ""
+  },
+  "315": {
+    "clarity_nt_char_114": "clarity_nt_char_114"
+  },
+  "316": {
+    "ポンポン": ""
+  },
+  "317": {
+    "clarity_nt_char_115": "clarity_nt_char_115"
+  },
+  "318": {
+    "タキシード": ""
+  },
+  "319": {
+    "くつした": ""
+  },
+  "320": {
+    "clarity_nt_char_116": "clarity_nt_char_116"
+  },
+  "321": {
+    "花びら": "Petal"
+  },
+  "322": {
+    "葉っぱ": ""
+  },
+  "323": {
+    "てっぺん": ""
+  },
+  "324": {
+    "clarity_nt_char_117": "clarity_nt_char_117"
+  },
+  "325": {
+    "よろい": "Armor"
+  },
+  "326": {
+    "かたあて": ""
+  },
+  "327": {
+    "clarity_nt_char_118": "clarity_nt_char_118"
+  },
+  "328": {
+    "トランプのもよう": ""
+  },
+  "329": {
+    "clarity_nt_char_119": "clarity_nt_char_119"
+  },
+  "330": {
+    "メタル部分": ""
+  },
+  "331": {
+    "チェーン": ""
+  },
+  "332": {
+    "clarity_nt_char_120": "clarity_nt_char_120"
+  },
+  "333": {
+    "チャーム": ""
+  },
+  "334": {
+    "clarity_nt_char_121": "clarity_nt_char_121"
+  },
+  "335": {
+    "こしまわり": ""
+  },
+  "336": {
+    "中央部分": ""
+  },
+  "337": {
+    "clarity_nt_char_122": "clarity_nt_char_122"
+  },
+  "338": {
+    "丸もよう": ""
+  },
+  "339": {
+    "clarity_nt_char_123": "clarity_nt_char_123"
+  },
+  "340": {
+    "メイン中央": ""
+  },
+  "341": {
+    "宝石１": ""
+  },
+  "342": {
+    "宝石２": ""
+  },
+  "343": {
+    "持ち手": ""
+  },
+  "344": {
+    "さや": ""
+  },
+  "345": {
+    "clarity_nt_char_124": "clarity_nt_char_124"
+  },
+  "346": {
+    "弦": ""
+  },
+  "347": {
+    "木の部分": ""
+  },
+  "348": {
+    "clarity_nt_char_125": "clarity_nt_char_125"
+  },
+  "349": {
+    "Ｖマーク": ""
+  },
+  "350": {
+    "clarity_nt_char_126": "clarity_nt_char_126"
+  },
+  "351": {
+    "結晶の先っぽ": ""
+  },
+  "352": {
+    "clarity_nt_char_127": "clarity_nt_char_127"
+  },
+  "353": {
+    "刃": ""
+  },
+  "354": {
+    "刃の中央": ""
+  },
+  "355": {
+    "clarity_nt_char_128": "clarity_nt_char_128"
+  },
+  "356": {
+    "刃先": ""
+  },
+  "357": {
+    "clarity_nt_char_129": "clarity_nt_char_129"
+  },
+  "358": {
+    "刀身": ""
+  },
+  "359": {
+    "clarity_nt_char_130": "clarity_nt_char_130"
+  },
+  "360": {
+    "矢先": ""
+  },
+  "361": {
+    "clarity_nt_char_131": "clarity_nt_char_131"
+  },
+  "362": {
+    "矢羽": ""
+  },
+  "363": {
+    "clarity_nt_char_132": "clarity_nt_char_132"
+  },
+  "364": {
+    "矢先と矢羽": ""
+  },
+  "365": {
+    "矢の軸": ""
+  },
+  "366": {
+    "オニグモマーク": ""
+  },
+  "367": {
+    "木目": ""
+  },
+  "368": {
+    "clarity_nt_char_133": "clarity_nt_char_133"
+  },
+  "369": {
+    "横面": ""
+  },
+  "370": {
+    "clarity_nt_char_134": "clarity_nt_char_134"
+  },
+  "371": {
+    "かんむりの一部": ""
+  },
+  "372": {
+    "つぼみ": ""
+  },
+  "373": {
+    "チーズ": ""
+  },
+  "374": {
+    "フォーク": ""
+  },
+  "375": {
+    "clarity_nt_char_135": "clarity_nt_char_135"
+  },
+  "376": {
+    "羽": ""
+  },
+  "377": {
+    "岩": ""
+  },
+  "378": {
+    "ゴードンのヘッド": "Mega Moai's Head"
+  },
+  "379": {
+    "clarity_nt_char_136": "clarity_nt_char_136"
+  },
+  "380": {
+    "クリスタル１": "Crystal 1"
+  },
+  "381": {
+    "clarity_nt_char_137": "clarity_nt_char_137"
+  },
+  "382": {
+    "クリスタル２": "Crystal 2"
+  },
+  "383": {
+    "clarity_nt_char_138": "clarity_nt_char_138"
+  },
+  "384": {
+    "トゲ": ""
+  },
+  "385": {
+    "clarity_nt_char_139": "clarity_nt_char_139"
+  },
+  "386": {
+    "グラス": ""
+  },
+  "387": {
+    "フレーム": ""
+  },
+  "388": {
+    "clarity_nt_char_140": "clarity_nt_char_140"
+  },
+  "389": {
+    "ヒゲ": ""
+  },
+  "390": {
+    "clarity_nt_char_141": "clarity_nt_char_141"
+  },
+  "391": {
+    "鈴": ""
+  },
+  "392": {
+    "クリーム": "Cream"
+  },
+  "393": {
+    "clarity_nt_char_142": "clarity_nt_char_142"
+  },
+  "394": {
+    "ボディ部分": ""
+  },
+  "395": {
+    "柄": ""
+  },
+  "396": {
+    "さやの一部": ""
+  },
+  "397": {
+    "柄の先端": ""
+  },
+  "398": {
+    "clarity_nt_char_143": "clarity_nt_char_143"
+  },
+  "399": {
+    "かざりひも": ""
+  },
+  "400": {
+    "右側": ""
+  },
+  "401": {
+    "clarity_nt_char_144": "clarity_nt_char_144"
+  },
+  "402": {
+    "左側": ""
+  },
+  "403": {
+    "clarity_nt_char_145": "clarity_nt_char_145"
+  },
+  "404": {
+    "竜の紋様": ""
+  },
+  "405": {
+    "clarity_nt_char_146": "clarity_nt_char_146"
+  },
+  "406": {
+    "枝": ""
+  },
+  "407": {
+    "リボンなど１": ""
+  },
+  "408": {
+    "clarity_nt_char_147": "clarity_nt_char_147"
+  },
+  "409": {
+    "リボンなど２": ""
+  },
+  "410": {
+    "clarity_nt_char_148": "clarity_nt_char_148"
+  },
+  "411": {
+    "しまもよう": ""
+  },
+  "412": {
+    "しまとハート": ""
+  },
+  "413": {
+    "clarity_nt_char_149": "clarity_nt_char_149"
+  },
+  "414": {
+    "ふち": ""
+  },
+  "415": {
+    "clarity_nt_char_150": "clarity_nt_char_150"
+  },
+  "416": {
+    "もようと着物": ""
+  },
+  "417": {
+    "clarity_nt_char_151": "clarity_nt_char_151"
+  },
+  "418": {
+    "花もようとおび": ""
+  },
+  "419": {
+    "下がり": ""
+  },
+  "420": {
+    "はなおのもよう": ""
+  },
+  "421": {
+    "たてがみ": ""
+  },
+  "422": {
+    "clarity_nt_char_152": "clarity_nt_char_152"
+  },
+  "423": {
+    "シール１": ""
+  },
+  "424": {
+    "clarity_nt_char_153": "clarity_nt_char_153"
+  },
+  "425": {
+    "シール２": ""
+  },
+  "426": {
+    "clarity_nt_char_154": "clarity_nt_char_154"
+  },
+  "427": {
+    "かばん": ""
+  },
+  "428": {
+    "フレアー": ""
+  },
+  "429": {
+    "clarity_nt_char_155": "clarity_nt_char_155"
+  },
+  "430": {
+    "フレアー１": ""
+  },
+  "431": {
+    "フレアー２": ""
+  },
+  "432": {
+    "フレアーなど": ""
+  },
+  "433": {
+    "clarity_nt_char_156": "clarity_nt_char_156"
+  },
+  "434": {
+    "フレアー１など": ""
+  },
+  "435": {
+    "フレアー２など": ""
+  },
+  "436": {
+    "中央部分の皮": ""
+  },
+  "437": {
+    "clarity_nt_char_157": "clarity_nt_char_157"
+  },
+  "438": {
+    "両端の皮": ""
+  },
+  "439": {
+    "clarity_nt_char_158": "clarity_nt_char_158"
+  },
+  "440": {
+    "ナイト部分１": ""
+  },
+  "441": {
+    "clarity_nt_char_159": "clarity_nt_char_159"
+  },
+  "442": {
+    "ナイト部分２": ""
+  },
+  "443": {
+    "clarity_nt_char_160": "clarity_nt_char_160"
+  },
+  "444": {
+    "ライン１": ""
+  },
+  "445": {
+    "clarity_nt_char_161": "clarity_nt_char_161"
+  },
+  "446": {
+    "ライン２": ""
+  },
+  "447": {
+    "clarity_nt_char_162": "clarity_nt_char_162"
+  },
+  "448": {
+    "ネイル": ""
+  },
+  "449": {
+    "カラー①": "Color ①"
+  },
+  "450": {
+    "clarity_nt_char_163": "clarity_nt_char_163"
+  },
+  "451": {
+    "カラー②": "Color ②"
+  }
+}

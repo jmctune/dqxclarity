@@ -1,0 +1,212 @@
+{
+  "1": {
+    "依頼書クエスト『<%sQUE_IRAISYA>の依頼！』を受けました。": "Request form quest \"<%sQUE_IRAISYA>'s Request!\"|was accepted."
+  },
+  "2": {
+    "依頼書クエストは　タイムアウトで　受注できませんでした。": "Request form could not be taken due to a timeout."
+  },
+  "3": {
+    "clarity_nt_char_1": "clarity_nt_char_1"
+  },
+  "4": {
+    "依頼書クエスト『<%sQUE_IRAISYA>の依頼！』の誘いを断りました。": "Declined the invitation to request form quest|\"<%sQUE_IRAISYA>'s Request!\""
+  },
+  "5": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "6": {
+    "依頼書クエストは　これ以上　受けられません！": "Request form quests can no longer be accepted!"
+  },
+  "7": {
+    "clarity_nt_char_3": "clarity_nt_char_3"
+  },
+  "8": {
+    "ドワチャッカの謎の飛行物体": "Dwachakka Mystery UFO"
+  },
+  "9": {
+    "砂塵にうごめく大巨人": "Dust Giant"
+  },
+  "10": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "11": {
+    "プクランドの首長竜": "Pukuland Lake Monster"
+  },
+  "12": {
+    "エルトナの生き人形": "Eltona Living Doll"
+  },
+  "13": {
+    "吹雪にほほえむ雪女": "Snow Woman Spirit"
+  },
+  "14": {
+    "深き森の幽霊列車": "Ghost Train"
+  },
+  "15": {
+    "clarity_nt_char_5": "clarity_nt_char_5"
+  },
+  "16": {
+    "海上に浮かぶ夢幻郷": "Dream City"
+  },
+  "17": {
+    "チェストクラムを拾った！": "Picked up a Chest Clam!"
+  },
+  "18": {
+    "clarity_nt_char_6": "clarity_nt_char_6"
+  },
+  "19": {
+    "ひりゅう": "Dragon"
+  },
+  "20": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "21": {
+    "戦闘に入ったため 依頼書クエストの受注が 中断されました。": "Request form orders have been interrupted|due to battle."
+  },
+  "22": {
+    "！！！！！！": "!!!!!!"
+  },
+  "23": {
+    "clarity_nt_char_8": "clarity_nt_char_8"
+  },
+  "24": {
+    "ワルキュウリの騎行": ""
+  },
+  "25": {
+    "竜族の黄昏": "Dragon Twilight"
+  },
+  "26": {
+    "ガタラの財宝": "Gatara Treasure"
+  },
+  "27": {
+    "clarity_nt_char_9": "clarity_nt_char_9"
+  },
+  "28": {
+    "魔瘴の夜の夢": "Demon's Nightmare"
+  },
+  "29": {
+    "clarity_nt_char_10": "clarity_nt_char_10"
+  },
+  "30": {
+    "レンドアの奇術師": "Lendor's Illusionist"
+  },
+  "31": {
+    "clarity_nt_char_11": "clarity_nt_char_11"
+  },
+  "32": {
+    "学園の全生徒が|春と秋に着用する|清潔感のある制服": "Student uniform|worn in spring|and autumn."
+  },
+  "33": {
+    "学園の全生徒が|夏に着用する|通気性のよい制服": "A loose student|uniform worn|during summer."
+  },
+  "34": {
+    "学園の水泳の授業|でいつも使用する|スクール水着": "A swimsuit used|during swimming|classes."
+  },
+  "35": {
+    "clarity_nt_char_12": "clarity_nt_char_12"
+  },
+  "36": {
+    "アスフェルド学園|特別公認の|朝顔の柄のゆかた": "A bell pattern,|Asfeld Academy|yukata."
+  },
+  "37": {
+    "アスフェルド学園|特別公認の|トンボ柄じんべい": "A dragonfly,|Asfeld Academy|jinbei."
+  },
+  "38": {
+    "学園指定の|動きやすい|赤いジャージ": "A loose,|red jersey|for school."
+  },
+  "39": {
+    "clarity_nt_char_13": "clarity_nt_char_13"
+  },
+  "40": {
+    "学園の全生徒が|冬に着用する|もこもこセーター": "Fluffy sweater|students wear|during winter."
+  },
+  "41": {
+    "汚れないように|制服の上に|着用したエプロン": "An apron to|keep uniforms|clean."
+  },
+  "42": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "43": {
+    "見つかっちゃった！": "I found it!"
+  },
+  "44": {
+    "<speed=0>|<%sM_pc>は　パーティで集めたスコアを|自分のトータルポイント　<%dL_FIND_POINT> Pとして|手に入れた！<se_nots System 7><auto_bw=10000><close>": "<speed=0>|<%sM_pc>'s total score received at the party was|<%dL_FIND_POINT> P!<se_nots System 7><auto_bw=10000><close>"
+  },
+  "45": {
+    "<speed=0>|今回は　トータルポイントを入手できなかった。<auto_bw=10000><close>": "<speed=0>|Could not receive total points this time.<auto_bw=10000><close>"
+  },
+  "46": {
+    "clarity_nt_char_15": "clarity_nt_char_15"
+  },
+  "47": {
+    "<speed=0>|第１位　<%sM_PCNAME>……<%dL_FIND_POINT> P<auto_bw=10000>": "<speed=0>|1st Place: <%sM_PCNAME>……<%dL_FIND_POINT> P<auto_bw=10000>"
+  },
+  "48": {
+    "<speed=0>|第１位　<%sM_PCNAME>……<%dL_FIND_POINT> P|第２位　<%sM_PCNAME2>……<%dL_FIND_POINT2> P<auto_bw=10000>": "<speed=0>|1st Place: <%sM_PCNAME>……<%dL_FIND_POINT> P|2nd Place: <%sM_PCNAME2>……<%dL_FIND_POINT2><auto_bw=10000>"
+  },
+  "49": {
+    "clarity_nt_char_16": "clarity_nt_char_16"
+  },
+  "50": {
+    "<speed=0>|第１位　<%sM_PCNAME>……<%dL_FIND_POINT> P|第２位　<%sM_PCNAME2>……<%dL_FIND_POINT2> P|第３位　<%sM_PCNAME3>……<%dL_FIND_POINT3> P<auto_bw=10000>": "<speed=0>|1st Place: <%sM_PCNAME>……<%dL_FIND_POINT> P|2nd Place: <%sM_PCNAME2>……<%dL_FIND_POINT2>|3rd Place: <%sM_PCNAME3>……<%dL_FIND_POINT3><auto_bw=10000>"
+  },
+  "51": {
+    "見つかっちゃった！|他の人にも　会いたいな": "I found it! I want to|meet other people."
+  },
+  "52": {
+    "見つかっちゃった！|ボクは　おうちに帰るね": "I found it! I'm gonna|go home."
+  },
+  "53": {
+    "あらまあ！": "Oh, yeah!"
+  },
+  "54": {
+    "おやおや！": "Oh my!"
+  },
+  "55": {
+    "わわっバレた！": "I was caught!"
+  },
+  "56": {
+    "プルプル……": "Boing boing…"
+  },
+  "57": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "58": {
+    "おどろきとまどっている！": "Shocked and amazed!"
+  },
+  "59": {
+    "clarity_nt_char_18": "clarity_nt_char_18"
+  },
+  "60": {
+    "やっぱりバレた？": "Did ya get caught?"
+  },
+  "61": {
+    "clarity_nt_char_19": "clarity_nt_char_19"
+  },
+  "62": {
+    "あれっ？見つかった？": "Huh? You found it?"
+  },
+  "63": {
+    "clarity_nt_char_20": "clarity_nt_char_20"
+  },
+  "64": {
+    "こうなる気がしたよ": ""
+  },
+  "65": {
+    "や　やるな！": "D-don't do it!"
+  },
+  "66": {
+    "clarity_nt_char_21": "clarity_nt_char_21"
+  },
+  "67": {
+    "あっぱれ！": "Appreciate it!"
+  },
+  "68": {
+    "これは不覚！": "This is a mistake!"
+  },
+  "69": {
+    "clarity_nt_char_22": "clarity_nt_char_22"
+  },
+  "70": {
+    "むむっ！": "Mmm!"
+  }
+}

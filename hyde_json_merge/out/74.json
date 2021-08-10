@@ -1,0 +1,347 @@
+{
+  "1": {
+    "呪術師マリーン強": "Apex Monstrous Marlene"
+  },
+  "2": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "3": {
+    "怪蟲アラグネ強": "Apex Araniad"
+  },
+  "4": {
+    "魔軍師イッド強": "Apex Tactician Iddo"
+  },
+  "5": {
+    "暴君バサグランデ強": "Apex Tyrant Bogan"
+  },
+  "6": {
+    "天魔クァバルナ強": "Apex Kukulkannibal"
+  },
+  "7": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "8": {
+    "水竜ギルギッシュ強": "Apex Girguish"
+  },
+  "9": {
+    "覚醒プスゴン": "Pusgon Awakened"
+  },
+  "10": {
+    "clarity_nt_char_10": "clarity_nt_char_10"
+  },
+  "11": {
+    "悪魔長ジウギス": "Devil Chief Jiggis"
+  },
+  "12": {
+    "キャットリベリオ強": "Apex Cat Riberio"
+  },
+  "13": {
+    "ウルベア魔神兵強": "Apex Urbea Aztech"
+  },
+  "14": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "15": {
+    "守護者ラズバーン強": "Apex Guardian Razuban"
+  },
+  "16": {
+    "冥王ネルゲル強": "Apex Lord Nelgel"
+  },
+  "17": {
+    "冥獣王ネルゲル強": "Apex Beast King Nelgel"
+  },
+  "18": {
+    "clarity_nt_char_18": "clarity_nt_char_18"
+  },
+  "19": {
+    "悪夢の右手強": "Apex Dream Hand R"
+  },
+  "20": {
+    "clarity_nt_char_20": "clarity_nt_char_20"
+  },
+  "21": {
+    "魔人エンラージャ強": "Apex Demon Enraja"
+  },
+  "22": {
+    "破戒王ベルムド強": "Apex Sin King Bermud"
+  },
+  "23": {
+    "clarity_nt_char_23": "clarity_nt_char_23"
+  },
+  "24": {
+    "やるきのジャーミィ": "Jacked Jermi"
+  },
+  "25": {
+    "ヘルバトラー強": "Apex Barbatos"
+  },
+  "26": {
+    "魔女グレイツェル強": "Apex Witch Gretzel"
+  },
+  "27": {
+    "闇朱の獣牙兵団": "Red Beast Fang Corps."
+  },
+  "28": {
+    "紫炎の鉄機兵団": "Purp Flame Mech Corps"
+  },
+  "29": {
+    "深碧の造魔兵団": "Blue Demon Corps."
+  },
+  "30": {
+    "蒼怨の屍獄兵団": "Necromancer Corps."
+  },
+  "31": {
+    "銀甲の凶蟲兵団": "Silver Shell Corps."
+  },
+  "32": {
+    "ベストプレイヤー投票": "Best Player Voting"
+  },
+  "33": {
+    "clarity_nt_char_33": "clarity_nt_char_33"
+  },
+  "34": {
+    "撃破数": "# Kills"
+  },
+  "35": {
+    "蘇生回数": "# of Revives"
+  },
+  "36": {
+    "clarity_nt_char_36": "clarity_nt_char_36"
+  },
+  "37": {
+    "連勝数": "# Wins"
+  },
+  "38": {
+    "戦士": "WAR"
+  },
+  "39": {
+    "clarity_nt_char_39": "clarity_nt_char_39"
+  },
+  "40": {
+    "僧侶": "PRI"
+  },
+  "41": {
+    "clarity_nt_char_41": "clarity_nt_char_41"
+  },
+  "42": {
+    "魔法使い": "MGE"
+  },
+  "43": {
+    "clarity_nt_char_43": "clarity_nt_char_43"
+  },
+  "44": {
+    "武闘家": "MRT"
+  },
+  "45": {
+    "盗賊": "THF"
+  },
+  "46": {
+    "clarity_nt_char_46": "clarity_nt_char_46"
+  },
+  "47": {
+    "旅芸人": "MIN"
+  },
+  "48": {
+    "バトルマスター": "BTL"
+  },
+  "49": {
+    "パラディン": "PLD"
+  },
+  "50": {
+    "魔法戦士": "ARM"
+  },
+  "51": {
+    "clarity_nt_char_51": "clarity_nt_char_51"
+  },
+  "52": {
+    "レンジャー": "RNG"
+  },
+  "53": {
+    "賢者": "SGE"
+  },
+  "54": {
+    "clarity_nt_char_54": "clarity_nt_char_54"
+  },
+  "55": {
+    "スーパースター": "STA"
+  },
+  "56": {
+    "まもの使い": "MON"
+  },
+  "57": {
+    "どうぐ使い": "ITM"
+  },
+  "58": {
+    "踊り子": "DNC"
+  },
+  "59": {
+    "占い師": "FOR"
+  },
+  "60": {
+    "天地雷鳴士": "DRU"
+  },
+  "61": {
+    "遊び人": "GAD"
+  },
+  "62": {
+    "票": "Vte"
+  },
+  "63": {
+    "回": " "
+  },
+  "64": {
+    "連勝": "Wins"
+  },
+  "65": {
+    "clarity_nt_char_65": "clarity_nt_char_65"
+  },
+  "66": {
+    "勝": "Win"
+  },
+  "67": {
+    "500万Ｇ + ふくびき券99枚": "5000000G + 99 Lottery Tickets"
+  },
+  "68": {
+    "clarity_nt_char_68": "clarity_nt_char_68"
+  },
+  "69": {
+    "400万Ｇ + ふくびき券99枚": "4000000G + 99 Lottery Tickets"
+  },
+  "70": {
+    "clarity_nt_char_70": "clarity_nt_char_70"
+  },
+  "71": {
+    "300万Ｇ + ふくびき券99枚": "3000000G + 99 Lottery Tickets"
+  },
+  "72": {
+    "clarity_nt_char_72": "clarity_nt_char_72"
+  },
+  "73": {
+    "200万Ｇ + ふくびき券99枚": "2000000G + 99 Lottery Tickets"
+  },
+  "74": {
+    "clarity_nt_char_74": "clarity_nt_char_74"
+  },
+  "75": {
+    "100万Ｇ + ふくびき券99枚": "1000000G + 99 Lottery Tickets"
+  },
+  "76": {
+    "clarity_nt_char_76": "clarity_nt_char_76"
+  },
+  "77": {
+    "　50万Ｇ + ふくびき券70枚": "　500000G + 70 Lottery Tickets"
+  },
+  "78": {
+    "clarity_nt_char_78": "clarity_nt_char_78"
+  },
+  "79": {
+    "　30万Ｇ + ふくびき券50枚": "　300000G + 50 Lottery Tickets"
+  },
+  "80": {
+    "clarity_nt_char_80": "clarity_nt_char_80"
+  },
+  "81": {
+    "　10万Ｇ + ふくびき券30枚": "　100000G + 30 Lottery Tickets"
+  },
+  "82": {
+    "clarity_nt_char_82": "clarity_nt_char_82"
+  },
+  "83": {
+    "　　5万Ｇ + ふくびき券20枚": "　　50000G + 20 Lottery Tickets"
+  },
+  "84": {
+    "clarity_nt_char_84": "clarity_nt_char_84"
+  },
+  "85": {
+    "灰塵の竜鱗兵団": "Dragon Scale Corps."
+  },
+  "86": {
+    "一の災壇": "1st Platform"
+  },
+  "87": {
+    "clarity_nt_char_87": "clarity_nt_char_87"
+  },
+  "88": {
+    "二の災壇": "2nd Platform"
+  },
+  "89": {
+    "clarity_nt_char_89": "clarity_nt_char_89"
+  },
+  "90": {
+    "三の災壇": "3rd Platform"
+  },
+  "91": {
+    "clarity_nt_char_91": "clarity_nt_char_91"
+  },
+  "92": {
+    "翠煙の海妖兵団": "Sea Ghost Corps."
+  },
+  "93": {
+    "デスマスター": "DTH"
+  },
+  "94": {
+    "clarity_nt_char_94": "clarity_nt_char_94"
+  },
+  "95": {
+    "彩虹の粘塊兵団": "Rainbow Sticky Corps."
+  },
+  "96": {
+    "四の災壇": "4th Platform"
+  },
+  "97": {
+    "clarity_nt_char_97": "clarity_nt_char_97"
+  },
+  "98": {
+    "500万Ｇ + ふくびき券99枚 + ＧＰトロフィ金": "5,000,000 G + 99 Lottery Tickets + Gold GP Trophy"
+  },
+  "99": {
+    "clarity_nt_char_99": "clarity_nt_char_99"
+  },
+  "100": {
+    "400万Ｇ + ふくびき券99枚 + ＧＰトロフィ銀": "4,000,000 G + 99 Lottery Tickets + Silver GP Trophy"
+  },
+  "101": {
+    "clarity_nt_char_101": "clarity_nt_char_101"
+  },
+  "102": {
+    "300万Ｇ + ふくびき券99枚 + ＧＰトロフィ銀": "3,000,000 G + 99 Lottery Tickets + Silver GP Trophy"
+  },
+  "103": {
+    "clarity_nt_char_103": "clarity_nt_char_103"
+  },
+  "104": {
+    "200万Ｇ + ふくびき券99枚 + ＧＰトロフィ銀": "2,000,000 G + 99 Lottery Tickets + Silver GP Trophy"
+  },
+  "105": {
+    "clarity_nt_char_105": "clarity_nt_char_105"
+  },
+  "106": {
+    "100万Ｇ + ふくびき券99枚 + ＧＰトロフィ銀": "1,000,000 G + 99 Lottery Tickets + Silver GP Trophy"
+  },
+  "107": {
+    "clarity_nt_char_107": "clarity_nt_char_107"
+  },
+  "108": {
+    "魔剣士": "DMN"
+  },
+  "109": {
+    "　50万Ｇ + ふくびき券70枚 + ＧＰトロフィ銅": "500,000 G + 70 Lottery Tickets + Bronze GP Trophy"
+  },
+  "110": {
+    "clarity_nt_char_110": "clarity_nt_char_110"
+  },
+  "111": {
+    "　30万Ｇ + ふくびき券70枚 + ＧＰトロフィ銅": "300,000 G + 70 Lottery Tickets + Bronze GP Trophy"
+  },
+  "112": {
+    "clarity_nt_char_112": "clarity_nt_char_112"
+  },
+  "113": {
+    "　10万Ｇ + ふくびき券30枚 + ＧＰトロフィ銅": "100,000 G + 30 Lottery Tickets + Copper GP Trophy"
+  },
+  "114": {
+    "clarity_nt_char_114": "clarity_nt_char_114"
+  },
+  "115": {
+    "　　5万Ｇ + ふくびき券20枚 + ＧＰトロフィ鋼": "50,000 G + 20 Lottery Tickets + Steel GP Trophy"
+  }
+}

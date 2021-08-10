@@ -1,0 +1,482 @@
+{
+  "1": {
+    "シルバー": "Silver"
+  },
+  "2": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "3": {
+    "ピュアスノー": "Pure Snow"
+  },
+  "4": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "5": {
+    "バニラ": "Vanilla"
+  },
+  "6": {
+    "ミモザ": "Mimosa"
+  },
+  "7": {
+    "こがねいろ": "Golden"
+  },
+  "8": {
+    "オレンジ": "Orange"
+  },
+  "9": {
+    "clarity_nt_char_9": "clarity_nt_char_9"
+  },
+  "10": {
+    "キャラメル": "Caramel"
+  },
+  "11": {
+    "さんご": "Coral"
+  },
+  "12": {
+    "レッド": "Red"
+  },
+  "13": {
+    "チョコレート": "Chocolate"
+  },
+  "14": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "15": {
+    "さくら": "Cherry"
+  },
+  "16": {
+    "ストロベリー": "Strawberry"
+  },
+  "17": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "18": {
+    "ローズ": "Rose"
+  },
+  "19": {
+    "あずき": "Red Bean"
+  },
+  "20": {
+    "デビルワイン": "Devil Wine"
+  },
+  "21": {
+    "clarity_nt_char_21": "clarity_nt_char_21"
+  },
+  "22": {
+    "ダークプラム": "Dark Plum"
+  },
+  "23": {
+    "clarity_nt_char_23": "clarity_nt_char_23"
+  },
+  "24": {
+    "ラベンダー": "Lavender"
+  },
+  "25": {
+    "バイオレット": "Violet"
+  },
+  "26": {
+    "clarity_nt_char_26": "clarity_nt_char_26"
+  },
+  "27": {
+    "ポイズン": "Poison"
+  },
+  "28": {
+    "clarity_nt_char_28": "clarity_nt_char_28"
+  },
+  "29": {
+    "グレーブルー": "Gray-Blue"
+  },
+  "30": {
+    "clarity_nt_char_30": "clarity_nt_char_30"
+  },
+  "31": {
+    "ネイビー": "Navy"
+  },
+  "32": {
+    "clarity_nt_char_32": "clarity_nt_char_32"
+  },
+  "33": {
+    "ミッドナイト": "Midnight"
+  },
+  "34": {
+    "clarity_nt_char_34": "clarity_nt_char_34"
+  },
+  "35": {
+    "アクアマリン": "Aqua"
+  },
+  "36": {
+    "clarity_nt_char_36": "clarity_nt_char_36"
+  },
+  "37": {
+    "エメラルド": "Emerald"
+  },
+  "38": {
+    "フォレスト": "Forest"
+  },
+  "39": {
+    "マスカット": "Muscat"
+  },
+  "40": {
+    "オリーブ": "Olive"
+  },
+  "41": {
+    "clarity_nt_char_41": "clarity_nt_char_41"
+  },
+  "42": {
+    "ジャングル": "Jungle"
+  },
+  "43": {
+    "ブラウン": "Brown"
+  },
+  "44": {
+    "clarity_nt_char_44": "clarity_nt_char_44"
+  },
+  "45": {
+    "ダークグレー": "Dark Gray"
+  },
+  "46": {
+    "clarity_nt_char_46": "clarity_nt_char_46"
+  },
+  "47": {
+    "オニキス": "Onyx"
+  },
+  "48": {
+    "clarity_nt_char_48": "clarity_nt_char_48"
+  },
+  "49": {
+    "コアブラック": "Core Black"
+  },
+  "50": {
+    "clarity_nt_char_50": "clarity_nt_char_50"
+  },
+  "51": {
+    "ピンク": "Pink"
+  },
+  "52": {
+    "あさぎ": "Lt. Blue"
+  },
+  "53": {
+    "アメジスト": "Amethyst"
+  },
+  "54": {
+    "アイスブルー": "Ice Blue"
+  },
+  "55": {
+    "clarity_nt_char_55": "clarity_nt_char_55"
+  },
+  "56": {
+    "ゴールド": "Gold"
+  },
+  "57": {
+    "clarity_nt_char_57": "clarity_nt_char_57"
+  },
+  "58": {
+    "イエロー": "Yellow"
+  },
+  "59": {
+    "clarity_nt_char_59": "clarity_nt_char_59"
+  },
+  "60": {
+    "ブルー": "Blue"
+  },
+  "61": {
+    "まっちゃ": "Matcha"
+  },
+  "62": {
+    "clarity_nt_char_62": "clarity_nt_char_62"
+  },
+  "63": {
+    "クレイ": "Clay"
+  },
+  "64": {
+    "パール": "Pearl"
+  },
+  "65": {
+    "ミストグレー": "Mist Gray"
+  },
+  "66": {
+    "clarity_nt_char_66": "clarity_nt_char_66"
+  },
+  "67": {
+    "サンゴールド": "Sungold"
+  },
+  "68": {
+    "clarity_nt_char_68": "clarity_nt_char_68"
+  },
+  "69": {
+    "カフェラテ": "Latte"
+  },
+  "70": {
+    "サンセット": "Sunset"
+  },
+  "71": {
+    "マネキン用": "Mannequin"
+  },
+  "72": {
+    "レンタル衣装用": "Rental Costume"
+  },
+  "73": {
+    "オーロラ": "Aurora"
+  },
+  "74": {
+    "clarity_nt_char_74": "clarity_nt_char_74"
+  },
+  "75": {
+    "クリーム": "Cream"
+  },
+  "76": {
+    "clarity_nt_char_76": "clarity_nt_char_76"
+  },
+  "77": {
+    "ブラッド": "Blood"
+  },
+  "78": {
+    "clarity_nt_char_78": "clarity_nt_char_78"
+  },
+  "79": {
+    "スカイブルー": "Sky Blue"
+  },
+  "80": {
+    "clarity_nt_char_80": "clarity_nt_char_80"
+  },
+  "81": {
+    "ビリジアン": "Viridian"
+  },
+  "82": {
+    "レタス": "Lettuce"
+  },
+  "83": {
+    "ベージュ": "Beige"
+  },
+  "84": {
+    "clarity_nt_char_84": "clarity_nt_char_84"
+  },
+  "85": {
+    "だいだい": "Orange"
+  },
+  "86": {
+    "clarity_nt_char_86": "clarity_nt_char_86"
+  },
+  "87": {
+    "レンタル衣装用２": "Rental Costume 2"
+  },
+  "88": {
+    "clarity_nt_char_88": "clarity_nt_char_88"
+  },
+  "89": {
+    "レンタル衣装用３": "Rental Costume 3"
+  },
+  "90": {
+    "clarity_nt_char_90": "clarity_nt_char_90"
+  },
+  "91": {
+    "レンタル衣装用４": "Rental Costume 4"
+  },
+  "92": {
+    "clarity_nt_char_92": "clarity_nt_char_92"
+  },
+  "93": {
+    "カラー１": "Color 1"
+  },
+  "94": {
+    "clarity_nt_char_94": "clarity_nt_char_94"
+  },
+  "95": {
+    "カラー１０": "Color 10"
+  },
+  "96": {
+    "カラー７": "Color 7"
+  },
+  "97": {
+    "clarity_nt_char_97": "clarity_nt_char_97"
+  },
+  "98": {
+    "カラー９": "Color 9"
+  },
+  "99": {
+    "clarity_nt_char_99": "clarity_nt_char_99"
+  },
+  "100": {
+    "カラー４": "Color 4"
+  },
+  "101": {
+    "clarity_nt_char_101": "clarity_nt_char_101"
+  },
+  "102": {
+    "カラー５": "Color 5"
+  },
+  "103": {
+    "clarity_nt_char_103": "clarity_nt_char_103"
+  },
+  "104": {
+    "カラー３": "Color 3"
+  },
+  "105": {
+    "clarity_nt_char_105": "clarity_nt_char_105"
+  },
+  "106": {
+    "カラー１１": "Color 11"
+  },
+  "107": {
+    "カラー１２": "Color 12"
+  },
+  "108": {
+    "カラー８": "Color 8"
+  },
+  "109": {
+    "clarity_nt_char_109": "clarity_nt_char_109"
+  },
+  "110": {
+    "カラー６": "Color 6"
+  },
+  "111": {
+    "clarity_nt_char_111": "clarity_nt_char_111"
+  },
+  "112": {
+    "カラー２": "Color 2"
+  },
+  "113": {
+    "clarity_nt_char_113": "clarity_nt_char_113"
+  },
+  "114": {
+    "レモン": "Lemon"
+  },
+  "115": {
+    "カナリヤ": "Canary"
+  },
+  "116": {
+    "clarity_nt_char_116": "clarity_nt_char_116"
+  },
+  "117": {
+    "アンバー": "Amber"
+  },
+  "118": {
+    "clarity_nt_char_118": "clarity_nt_char_118"
+  },
+  "119": {
+    "しゅいろ": "Vermilion"
+  },
+  "120": {
+    "clarity_nt_char_120": "clarity_nt_char_120"
+  },
+  "121": {
+    "ベビーピンク": "Light Pink"
+  },
+  "122": {
+    "clarity_nt_char_122": "clarity_nt_char_122"
+  },
+  "123": {
+    "ふじいろ": "Wisteris"
+  },
+  "124": {
+    "clarity_nt_char_124": "clarity_nt_char_124"
+  },
+  "125": {
+    "あおりんご": "Light Green"
+  },
+  "126": {
+    "ミント": "Mint"
+  },
+  "127": {
+    "しらあい": "White Indigo"
+  },
+  "128": {
+    "clarity_nt_char_128": "clarity_nt_char_128"
+  },
+  "129": {
+    "シーグリーン": "Sea Green"
+  },
+  "130": {
+    "clarity_nt_char_130": "clarity_nt_char_130"
+  },
+  "131": {
+    "マゼンタ": "Magenta"
+  },
+  "132": {
+    "clarity_nt_char_132": "clarity_nt_char_132"
+  },
+  "133": {
+    "パープル": "Purple"
+  },
+  "134": {
+    "clarity_nt_char_134": "clarity_nt_char_134"
+  },
+  "135": {
+    "カスタード": "Custard"
+  },
+  "136": {
+    "ふかみどり": "Dark Green"
+  },
+  "137": {
+    "ピュアブルー": "Pure Blue"
+  },
+  "138": {
+    "clarity_nt_char_138": "clarity_nt_char_138"
+  },
+  "139": {
+    "しっこく": "Jet Black"
+  },
+  "140": {
+    "clarity_nt_char_140": "clarity_nt_char_140"
+  },
+  "141": {
+    "ガーネット": "Garnet"
+  },
+  "142": {
+    "ルビー": "Ruby"
+  },
+  "143": {
+    "ダークブルー": "Dark Blue"
+  },
+  "144": {
+    "clarity_nt_char_144": "clarity_nt_char_144"
+  },
+  "145": {
+    "うめねず": "Pale Plum"
+  },
+  "146": {
+    "clarity_nt_char_146": "clarity_nt_char_146"
+  },
+  "147": {
+    "ローズグレー": "Rose Gray"
+  },
+  "148": {
+    "clarity_nt_char_148": "clarity_nt_char_148"
+  },
+  "149": {
+    "ライトグレー": "Light Gray"
+  },
+  "150": {
+    "clarity_nt_char_150": "clarity_nt_char_150"
+  },
+  "151": {
+    "アッシュ": "Ash"
+  },
+  "152": {
+    "clarity_nt_char_152": "clarity_nt_char_152"
+  },
+  "153": {
+    "スチール": "Steel"
+  },
+  "154": {
+    "clarity_nt_char_154": "clarity_nt_char_154"
+  },
+  "155": {
+    "コルク": "Cork"
+  },
+  "156": {
+    "うすざくら": "Pale Pink"
+  },
+  "157": {
+    "しらふじいろ": "White Wisteris"
+  },
+  "158": {
+    "clarity_nt_char_158": "clarity_nt_char_158"
+  },
+  "159": {
+    "しろはなだ": "White Flower"
+  },
+  "160": {
+    "施設用カラー": "Color Center"
+  }
+}

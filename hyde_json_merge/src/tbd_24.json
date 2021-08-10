@@ -1,0 +1,32 @@
+{
+  "1": {
+    "ここまでのおこないを|冒険の書に　記録しますか？|<yesno><break>": "Do you want to record your journey|so far in your Adventure Book?|<yesno><break>"
+  },
+  "2": {
+    "記録しました！": "Adventure log saved!"
+  },
+  "3": {
+    "冒険の書に　記録しています……。|電源ボタンや　リセットボタンに|さわらないでください。|<break>": "Recording in the Adventure Book...|Please don't touch the power or reset button."
+  },
+  "4": {
+    "clarity_nt_char_1": "clarity_nt_char_1"
+  },
+  "5": {
+    "皆をつないで 世界がつながる": "Connect everyone in the world"
+  },
+  "6": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "7": {
+    "ドラゴンクエストⅩ　オンライン": "Dragon Quest X Online"
+  },
+  "8": {
+    "ドラゴンクエストⅩ オンラインのセーブデータ": "Dragon Quest X Online Save Data"
+  },
+  "9": {
+    "clarity_nt_char_3": "clarity_nt_char_3"
+  },
+  "10": {
+    "ドラゴンクエストⅩ オンライン": "Dragon Quest X Online"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "1": {
+    "こうげき力 <%+2dM_foodparam>": "Attack <%+2dM_foodparam>"
+  },
+  "2": {
+    "しゅび力 <%+3dM_foodparam>": "Defense <%+3dM_foodparam>"
+  },
+  "3": {
+    "clarity_nt_char_1": "clarity_nt_char_1"
+  },
+  "4": {
+    "最大ＨＰ <%+2dM_foodparam>": "Max HP <%+2dM_foodparam>"
+  },
+  "5": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "6": {
+    "最大ＭＰ <%+2dM_foodparam>": "Max MP <%+2dM_foodparam>"
+  },
+  "7": {
+    "clarity_nt_char_3": "clarity_nt_char_3"
+  },
+  "8": {
+    "こうげき魔 <%+2dM_foodparam>": "Mag. Might <%+2dM_foodparam>"
+  },
+  "9": {
+    "かいふく魔 <%+2dM_foodparam>": "Mag. Mending <%+2dM_foodparam>"
+  },
+  "10": {
+    "かいしん率 <%+.1fM_foodparam>%": "Crit. Rate <%+.1fM_foodparam>%"
+  },
+  "11": {
+    "身かわし率 <%+.1fM_foodparam>%": "Dodge Rate <%+.1fM_foodparam>%"
+  },
+  "12": {
+    "きようさ <%+3dM_foodparam>": "Deftness <%+3dM_foodparam>"
+  },
+  "13": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "14": {
+    "すばやさ <%+3dM_foodparam>": "Agility <%+3dM_foodparam>"
+  },
+  "15": {
+    "clarity_nt_char_5": "clarity_nt_char_5"
+  },
+  "16": {
+    "おしゃれさ <%+3dM_foodparam>": "Style <%+3dM_foodparam>"
+  },
+  "17": {
+    "おもさ <%+2dM_foodparam>": "Weight <%+2dM_foodparam>"
+  },
+  "18": {
+    "経験値 <%+.1fM_foodparam>%": "EXP <%+.1fM_foodparam>%"
+  },
+  "19": {
+    "炎ダメージ <%.1fM_foodparam>%": "Fire Damage <%.1fM_foodparam>%"
+  },
+  "20": {
+    "clarity_nt_char_6": "clarity_nt_char_6"
+  },
+  "21": {
+    "氷ダメージ <%.1fM_foodparam>%": "Ice Damage <%.1fM_foodparam>%"
+  },
+  "22": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "23": {
+    "風ダメージ <%.1fM_foodparam>%": "Wind Damage <%.1fM_foodparam>%"
+  },
+  "24": {
+    "clarity_nt_char_8": "clarity_nt_char_8"
+  },
+  "25": {
+    "雷ダメージ <%.1fM_foodparam>%": "Thunder Dmg. <%.1fM_foodparam>%"
+  },
+  "26": {
+    "clarity_nt_char_9": "clarity_nt_char_9"
+  },
+  "27": {
+    "土ダメージ <%.1fM_foodparam>%": "Earth Damage <%.1fM_foodparam>%"
+  },
+  "28": {
+    "clarity_nt_char_10": "clarity_nt_char_10"
+  },
+  "29": {
+    "闇ダメージ <%.1fM_foodparam>%": "Dark Damage <%.1fM_foodparam>%"
+  },
+  "30": {
+    "clarity_nt_char_11": "clarity_nt_char_11"
+  },
+  "31": {
+    "光ダメージ <%.1fM_foodparam>%": "Light Damage <%.1fM_foodparam>%"
+  }
+}

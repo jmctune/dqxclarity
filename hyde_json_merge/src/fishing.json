@@ -1,0 +1,839 @@
+{
+    "1": {
+        "？？？": "???"
+    },
+    "2": {
+        "川": "Rv."
+    },
+    "3": {
+        "井戸水": "Wellwater"
+    },
+    "4": {
+        "湖": "Lk."
+    },
+    "5": {
+        "海": "Sea"
+    },
+    "6": {
+        "下流": "Dwnst."
+    },
+    "7": {
+        "clarity_nt_char_1": "clarity_nt_char_1"
+    },
+    "8": {
+        "上流": "Upstr."
+    },
+    "9": {
+        "clarity_nt_char_2": "clarity_nt_char_2"
+    },
+    "10": {
+        "池": "Pd."
+    },
+    "11": {
+        "噴水": "Fntn."
+    },
+    "12": {
+        "clarity_nt_char_3": "clarity_nt_char_3"
+    },
+    "13": {
+        "オアシス": "Oasis"
+    },
+    "14": {
+        "clarity_nt_char_4": "clarity_nt_char_4"
+    },
+    "15": {
+        "西の浜": "W. Beach"
+    },
+    "16": {
+        "東の浜": "E. Beach"
+    },
+    "17": {
+        "ヘドロの沼地": "Hedro Swamp"
+    },
+    "18": {
+        "clarity_nt_char_5": "clarity_nt_char_5"
+    },
+    "19": {
+        "潮だまり": "Tide Pool"
+    },
+    "20": {
+        "clarity_nt_char_6": "clarity_nt_char_6"
+    },
+    "21": {
+        "水たまり": "Puddle"
+    },
+    "22": {
+        "clarity_nt_char_7": "clarity_nt_char_7"
+    },
+    "23": {
+        "大浴場": "Big Bath"
+    },
+    "24": {
+        "みかがみの泉": "Mirror Fountain"
+    },
+    "25": {
+        "clarity_nt_char_8": "clarity_nt_char_8"
+    },
+    "26": {
+        "湿地帯": "Wetlands"
+    },
+    "27": {
+        "西の川": "W. River"
+    },
+    "28": {
+        "東の川": "E. River"
+    },
+    "29": {
+        "水没地帯": "Submerged A."
+    },
+    "30": {
+        "clarity_nt_char_9": "clarity_nt_char_9"
+    },
+    "31": {
+        "水堀": "Moat"
+    },
+    "32": {
+        "clarity_nt_char_10": "clarity_nt_char_10"
+    },
+    "33": {
+        "時雨の泉": "Drizzle Spg."
+    },
+    "34": {
+        "clarity_nt_char_11": "clarity_nt_char_11"
+    },
+    "35": {
+        "毒沼": "Swamp"
+    },
+    "36": {
+        "clarity_nt_char_12": "clarity_nt_char_12"
+    },
+    "37": {
+        "泉": "Ft."
+    },
+    "38": {
+        "湿原": "Bog"
+    },
+    "39": {
+        "clarity_nt_char_13": "clarity_nt_char_13"
+    },
+    "40": {
+        "宣誓の滝": "Oath Waterf."
+    },
+    "41": {
+        "clarity_nt_char_14": "clarity_nt_char_14"
+    },
+    "42": {
+        "ソーダの泉": "Soda Fountain"
+    },
+    "43": {
+        "ハニーレイク": "Honey Lake"
+    },
+    "44": {
+        "clarity_nt_char_15": "clarity_nt_char_15"
+    },
+    "45": {
+        "道しるべの川": "Road's River"
+    },
+    "46": {
+        "clarity_nt_char_16": "clarity_nt_char_16"
+    },
+    "47": {
+        "内海": "Cove"
+    },
+    "48": {
+        "clarity_nt_char_17": "clarity_nt_char_17"
+    },
+    "49": {
+        "巡礼の泉": "Pilgrim Ftn."
+    },
+    "50": {
+        "clarity_nt_char_18": "clarity_nt_char_18"
+    },
+    "51": {
+        "清澄の冷泉": "Clear Cold Ftn."
+    },
+    "52": {
+        "地底湖": "Und. Lake"
+    },
+    "53": {
+        "天流池": "Angelpond"
+    },
+    "54": {
+        "地流池": "Land Pond"
+    },
+    "55": {
+        "川の水": "Rv. Water"
+    },
+    "56": {
+        "水路": "Wtrwy."
+    },
+    "57": {
+        "clarity_nt_char_19": "clarity_nt_char_19"
+    },
+    "58": {
+        "女王の池": "Queen's Pond"
+    },
+    "59": {
+        "clarity_nt_char_20": "clarity_nt_char_20"
+    },
+    "60": {
+        "そよ風の浜": "Breezy Beach"
+    },
+    "61": {
+        "ミレナ海岸": "Milena Coast"
+    },
+    "62": {
+        "海水": "Seawr."
+    },
+    "63": {
+        "clarity_nt_char_21": "clarity_nt_char_21"
+    },
+    "64": {
+        "幻影の川": "Phantom Rv."
+    },
+    "65": {
+        "clarity_nt_char_22": "clarity_nt_char_22"
+    },
+    "66": {
+        "回復の泉": "Heal Fntn."
+    },
+    "67": {
+        "clarity_nt_char_23": "clarity_nt_char_23"
+    },
+    "68": {
+        "温泉": "Spring"
+    },
+    "69": {
+        "clarity_nt_char_24": "clarity_nt_char_24"
+    },
+    "70": {
+        "滝": "Wf."
+    },
+    "71": {
+        "川下流": "Downstrm."
+    },
+    "72": {
+        "川上流": "Upstream"
+    },
+    "73": {
+        "コバルト池": "Cobalt Pond"
+    },
+    "74": {
+        "滝壺": "Wf. B."
+    },
+    "75": {
+        "clarity_nt_char_25": "clarity_nt_char_25"
+    },
+    "76": {
+        "クデゥスの泉": "Kudus Fountain"
+    },
+    "77": {
+        "clarity_nt_char_26": "clarity_nt_char_26"
+    },
+    "78": {
+        "南の海": "S. Sea"
+    },
+    "79": {
+        "東の海": "E. Sea"
+    },
+    "80": {
+        "地下水": "Landwater"
+    },
+    "81": {
+        "毒の海": "Psn. Sea"
+    },
+    "82": {
+        "さかなは　必死に泳いでいる！": "The fish is swimming desperately!"
+    },
+    "83": {
+        "clarity_nt_char_27": "clarity_nt_char_27"
+    },
+    "84": {
+        "さかなは　じたばた暴れている！": "The fish is on a rampage!"
+    },
+    "85": {
+        "さかなが　地面にもぐった！": "The fish dove to the ground!"
+    },
+    "86": {
+        "さかなは　地面にもぐっている。": "The fish is submerged in the ground."
+    },
+    "87": {
+        "さかなが　水流を巻き起こした！": "The fish caused a water current!"
+    },
+    "88": {
+        "さかなは　ちからをためた！": "The fish psyched up!"
+    },
+    "89": {
+        "さかなが　トゲを出した！": "The fish's spikes came out!"
+    },
+    "90": {
+        "clarity_nt_char_28": "clarity_nt_char_28"
+    },
+    "91": {
+        "なかまのさかなが　集まって　暴れた！": "The fellow fish gathered and rampaged!"
+    },
+    "92": {
+        "clarity_nt_char_29": "clarity_nt_char_29"
+    },
+    "93": {
+        "さかなは　スミを出した！": "The fish let out ink!"
+    },
+    "94": {
+        "clarity_nt_char_30": "clarity_nt_char_30"
+    },
+    "95": {
+        "さかなは　疲れているようだ。": "The fish seems tired."
+    },
+    "96": {
+        "clarity_nt_char_31": "clarity_nt_char_31"
+    },
+    "97": {
+        "宝箱は　ゆらゆらと　ただよっている。": "The chest is floating."
+    },
+    "98": {
+        "clarity_nt_char_32": "clarity_nt_char_32"
+    },
+    "99": {
+        "さかなが　水面に飛び上がった！": "The fish jumped to the surface!"
+    },
+    "100": {
+        "さかなは　闇に包まれ　おびえている！": "The fish is wrapped in darkness and scared!"
+    },
+    "101": {
+        "clarity_nt_char_33": "clarity_nt_char_33"
+    },
+    "102": {
+        "さかなの闇が　晴れた。": "The dark fish cleared up."
+    },
+    "103": {
+        "さかなは　凍り付いていて　動けない！": "The fish is frozen and can't move!"
+    },
+    "104": {
+        "clarity_nt_char_34": "clarity_nt_char_34"
+    },
+    "105": {
+        "さかなの凍結状態が　なおった。": "The fish is no longer frozen."
+    },
+    "106": {
+        "さかなは　眠っている。": "The fish is sleeping."
+    },
+    "107": {
+        "さかなが　目を覚ました！": "The fish woke up!"
+    },
+    "108": {
+        "clarity_nt_char_35": "clarity_nt_char_35"
+    },
+    "109": {
+        "なんと　さかなの状態異常が　解けてしまった！": "Suddenly, the fish's abnormal status has been solved!"
+    },
+    "110": {
+        "clarity_nt_char_36": "clarity_nt_char_36"
+    },
+    "111": {
+        "さかなのテンションが　戻った。": "The fish's tension is gone."
+    },
+    "112": {
+        "さかなは　くるくると　回転した。": "The fish turned around."
+    },
+    "113": {
+        "clarity_nt_char_37": "clarity_nt_char_37"
+    },
+    "114": {
+        "さかなは　ぼーっとしている。": "The fish is scared."
+    },
+    "115": {
+        "clarity_nt_char_38": "clarity_nt_char_38"
+    },
+    "116": {
+        "さかなは　じっとしている。": "The fish is being still."
+    },
+    "117": {
+        "さかなは　尾ひれを　ゆらめかせている。": "The fish is shaking its tail fin."
+    },
+    "118": {
+        "さかなは　ヒゲを　ふるわせている。": "The fish is shaking its whiskers."
+    },
+    "119": {
+        "さかなは　ゆらゆらと　ただよっている。": "The fish is floating around."
+    },
+    "120": {
+        "さかなは　ゆっくり泳いでいる。": "The fish is swimming slowly."
+    },
+    "121": {
+        "さかなは　大きく　体を動かした。": "The fish moved a lot."
+    },
+    "122": {
+        "clarity_nt_char_39": "clarity_nt_char_39"
+    },
+    "123": {
+        "さかなの　超ちからため！": "The fish used super strength!"
+    },
+    "124": {
+        "clarity_nt_char_40": "clarity_nt_char_40"
+    },
+    "125": {
+        "さかなは　すばやく泳ぎ去った！": "The fish quickly swam away!"
+    },
+    "126": {
+        "さかなは　大暴れをした！": "The fish went on a rampage!"
+    },
+    "127": {
+        "clarity_nt_char_41": "clarity_nt_char_41"
+    },
+    "128": {
+        "さかなは　水底に　尾ひれを打ちつけた！": "The fish hit its tail fin on the sea floor!"
+    },
+    "129": {
+        "さかなは　疲れて　ぐったりしている。": "The fish is tired."
+    },
+    "130": {
+        "clarity_nt_char_42": "clarity_nt_char_42"
+    },
+    "131": {
+        "さかなは　水の中を　旋回している。": "The fish is turning in the water."
+    },
+    "132": {
+        "宝箱は　水の流れにさらわれた！": "The chest was taken by a current!"
+    },
+    "133": {
+        "宝箱は　はげしい水の流れにさらわれた！": "The chest was taken by a strong current!"
+    },
+    "134": {
+        "さかなは　首をはげしく振った！": "The fish violently shook its head!"
+    },
+    "135": {
+        "さかなは　必死に海底をはった！": "The fish desperately hit the sea floor!"
+    },
+    "136": {
+        "さかなは　トゲを動かした！": "The fish moved its spine!"
+    },
+    "137": {
+        "さかなは　コロコロしている。": "The fish is rolling around."
+    },
+    "138": {
+        "clarity_nt_char_43": "clarity_nt_char_43"
+    },
+    "139": {
+        "さかなは　ようすをうかがっている。": "The fish is waiting."
+    },
+    "140": {
+        "さかなは　大きな身体を　勢いよく動かした！": "The fish moved its body vigorously!"
+    },
+    "141": {
+        "さかなは　大きく動き　波を起こした！": "The fish moved and made big waves!"
+    },
+    "142": {
+        "clarity_nt_char_44": "clarity_nt_char_44"
+    },
+    "143": {
+        "さかなは　はげしく　かみついた！": "The fish bit hard!"
+    },
+    "144": {
+        "clarity_nt_char_45": "clarity_nt_char_45"
+    },
+    "145": {
+        "さかなは　こちらを威嚇している！": "The fish is being intimidating!"
+    },
+    "146": {
+        "clarity_nt_char_46": "clarity_nt_char_46"
+    },
+    "147": {
+        "さかなは　大きくクチを　開けた！|次の行動は　やばそうだ！": "The fish opened its mouth wide!|Watch out for its next move!"
+    },
+    "148": {
+        "さかなの　つうこんのかみつき！": "The fish bit with grief!"
+    },
+    "149": {
+        "スイカは　水の流れにさらわれた！": "The watermelon was taken by the current!"
+    },
+    "150": {
+        "clarity_nt_char_47": "clarity_nt_char_47"
+    },
+    "151": {
+        "スイカは　はげしい水の流れにさらわれた！": "The watermelon was taken by the strong current!"
+    },
+    "152": {
+        "clarity_nt_char_48": "clarity_nt_char_48"
+    },
+    "153": {
+        "スイカは　プカプカと　ただよっている。": "The watermelon is floating."
+    },
+    "154": {
+        "さかなは　海底で飛び跳ねた！": "The fish jumped out of the seabed!"
+    },
+    "155": {
+        "clarity_nt_char_49": "clarity_nt_char_49"
+    },
+    "156": {
+        "さかなは　ゆらゆらしている。": "The fish is swaying."
+    },
+    "157": {
+        "clarity_nt_char_50": "clarity_nt_char_50"
+    },
+    "158": {
+        "さかなは　あごをゆらしている。": "The fish is shaking its chin."
+    },
+    "159": {
+        "旬のスイカは　水の流れにさらわれた！": "The watermelon was taken by a current!"
+    },
+    "160": {
+        "clarity_nt_char_51": "clarity_nt_char_51"
+    },
+    "161": {
+        "旬のスイカは　はげしい水の流れにさらわれた！": "The watermelon was taken by a strong current!"
+    },
+    "162": {
+        "clarity_nt_char_52": "clarity_nt_char_52"
+    },
+    "163": {
+        "旬のスイカは　プカプカと　ただよっている。": "The watermelon is floating."
+    },
+    "164": {
+        "さかなは　電気を溜めている！": "The fish is storing electricity!"
+    },
+    "165": {
+        "clarity_nt_char_53": "clarity_nt_char_53"
+    },
+    "166": {
+        "さかなは　電気を放電した！": "The fish discharged electricity!"
+    },
+    "167": {
+        "さかなは　吻を大きく　振り回した！": "The fish swung its big snout!"
+    },
+    "168": {
+        "？？？は　水の流れにさらわれた！": "??? was taken by a current!"
+    },
+    "169": {
+        "clarity_nt_char_54": "clarity_nt_char_54"
+    },
+    "170": {
+        "？？？は　はげしい水の流れにさらわれた！": "??? was taken by a strong current!"
+    },
+    "171": {
+        "clarity_nt_char_55": "clarity_nt_char_55"
+    },
+    "172": {
+        "？？？は　ゆらゆらと　ただよっている。": "??? is floating around."
+    },
+    "173": {
+        "さかなが　水流に乗って　遠ざかっていく！": "The fish rides on a current and swims away!"
+    },
+    "174": {
+        "clarity_nt_char_56": "clarity_nt_char_56"
+    },
+    "175": {
+        "トゲで　ルアーが削られる！": "The lure is scraped with thorns!"
+    },
+    "176": {
+        "ルアーが　波にさらわれる！": "The waves took your lure!"
+    },
+    "177": {
+        "さかなを　地面から　引きずり出した！": "Dragged the fish from off the ground!"
+    },
+    "178": {
+        "clarity_nt_char_57": "clarity_nt_char_57"
+    },
+    "179": {
+        "水流が　収まった。": "The water flow stopped."
+    },
+    "180": {
+        "さかなのトゲが　ひっこんだ。": "The fish retracted its spikes."
+    },
+    "181": {
+        "clarity_nt_char_58": "clarity_nt_char_58"
+    },
+    "182": {
+        "さかなのスミが　晴れた！": "The fish swelled with ink!"
+    },
+    "183": {
+        "clarity_nt_char_59": "clarity_nt_char_59"
+    },
+    "184": {
+        "氷の重さで　引き寄せにくい！": "The ice's weight makes attraction hard!"
+    },
+    "185": {
+        "clarity_nt_char_60": "clarity_nt_char_60"
+    },
+    "186": {
+        "さかなの力が抜けていて　多めに引き寄せられた！": "The fish is weak and was reeled in far!"
+    },
+    "187": {
+        "波が　おさまった。": "The waves stopped."
+    },
+    "188": {
+        "さおを引く": "Reel Rod"
+    },
+    "189": {
+        "全力で引く": "Full Power Reel"
+    },
+    "190": {
+        "闇の力で引く": "Dark Power Reel"
+    },
+    "191": {
+        "clarity_nt_char_61": "clarity_nt_char_61"
+    },
+    "192": {
+        "炎の力で引く": "Fire Power Reel"
+    },
+    "193": {
+        "clarity_nt_char_62": "clarity_nt_char_62"
+    },
+    "194": {
+        "氷の力で引く": "Ice Power Reel"
+    },
+    "195": {
+        "clarity_nt_char_63": "clarity_nt_char_63"
+    },
+    "196": {
+        "ミス": "Miss"
+    },
+    "197": {
+        "clarity_nt_char_64": "clarity_nt_char_64"
+    },
+    "198": {
+        "旬の力で引く": "Season Power Reel"
+    },
+    "199": {
+        "clarity_nt_char_65": "clarity_nt_char_65"
+    },
+    "200": {
+        "きせきの力で引く": "Miracle Reel"
+    },
+    "201": {
+        "clarity_nt_char_66": "clarity_nt_char_66"
+    },
+    "202": {
+        "何も起こらない": "Nothing happens"
+    },
+    "203": {
+        "さかなの行動時 時々 くいつき度が減らない": "When fish act, sometimes won't decrease the bite chance."
+    },
+    "204": {
+        "くいつき度がなくなった時 一度だけ復活": "Revive one time when biting chance reaches 0."
+    },
+    "205": {
+        "魚行動で くいつき度が減った時 引き寄せる": "When fish act, attract when the bite chance goes down."
+    },
+    "206": {
+        "さおをゆるめる": "Loosen Rod"
+    },
+    "207": {
+        "あきらめる": "Give Up"
+    },
+    "208": {
+        "さらに引き寄せる力アップ": "Attraction Power Up"
+    },
+    "209": {
+        "clarity_nt_char_67": "clarity_nt_char_67"
+    },
+    "210": {
+        "釣り会心率0.5％アップ": "Fishing Critical Rate 0.5% Up"
+    },
+    "211": {
+        "clarity_nt_char_68": "clarity_nt_char_68"
+    },
+    "212": {
+        "くいつき度アップ": "Biting Rate Up"
+    },
+    "213": {
+        "clarity_nt_char_69": "clarity_nt_char_69"
+    },
+    "214": {
+        "さおゆるめ回復量アップ": "Loosening Recovery Up"
+    },
+    "215": {
+        "ビッグサイズ確率アップ": "Big Size Chance Up"
+    },
+    "216": {
+        "キングサイズ確率アップ": "King Size Chance Up"
+    },
+    "217": {
+        "<pc>は　さおを引いた！": "<pc> reeled in the rod!"
+    },
+    "218": {
+        "<pc>は　全力で引いた！": "<pc> reeled with full power!"
+    },
+    "219": {
+        "<pc>は　闇の力で引いた！": "<pc> reeled with dark power!"
+    },
+    "220": {
+        "clarity_nt_char_70": "clarity_nt_char_70"
+    },
+    "221": {
+        "<pc>のさおが　燃え上がった！": "<pc>'s rod burned up!"
+    },
+    "222": {
+        "clarity_nt_char_71": "clarity_nt_char_71"
+    },
+    "223": {
+        "<pc>のさおが　冷気を放った！": "<pc>'s rod released a blast of cold air!"
+    },
+    "224": {
+        "clarity_nt_char_72": "clarity_nt_char_72"
+    },
+    "225": {
+        "しかし　うまく発動しなかった！": "But...it didn't work!"
+    },
+    "226": {
+        "<pc>のさおが　輝きだした！": "<pc>'s rod started shining!"
+    },
+    "227": {
+        "しかし　なにもおこらなかった。": "But...nothing happened."
+    },
+    "228": {
+        "トゲトゲルアーのチカラで|くいつき度が　減らなかった！": "With the thorny lure's power,|the biting rate didn't decrease!"
+    },
+    "229": {
+        "天使のルアーのチカラで　くいつき度が増えた！": "The angel lure's power has increased biting chance!"
+    },
+    "230": {
+        "clarity_nt_char_73": "clarity_nt_char_73"
+    },
+    "231": {
+        "さかなの行動に反応して　ルアーが輝きだした！|やいばのルアーのチカラで　さかなを引き寄せた！": "The lure began shining in response to the fish's action!|The power of the spiky lure attracted the fish!"
+    },
+    "232": {
+        "clarity_nt_char_74": "clarity_nt_char_74"
+    },
+    "233": {
+        "<pc>は　さおをゆるめた！": "<pc> loosened the rod!"
+    },
+    "234": {
+        "clarity_nt_char_75": "clarity_nt_char_75"
+    },
+    "235": {
+        "<pc>は　釣り上げるのを　あきらめた。": "<pc> gave up on fishing."
+    },
+    "236": {
+        "clarity_nt_char_76": "clarity_nt_char_76"
+    },
+    "237": {
+        "さらに引き寄せる力アップは|覚えているだけで　常に　引き寄せる力が|より　上がるようになります。": "\"Increased Reel Power\" increases|the strength of reeling in fish."
+    },
+    "238": {
+        "clarity_nt_char_77": "clarity_nt_char_77"
+    },
+    "239": {
+        "釣り会心率0.5％アップは|覚えているだけで　常に釣り会心率が|0.5％分　上がるようになります。": "\"Critical Reel Rate 0.5%\" increases the chance|you'll get a critical reel in by 0.5%."
+    },
+    "240": {
+        "くいつき度アップは|覚えているだけで　常にくいつき度が|少し　上がるようになります。": "\"Increased Bite Rate\" will increase the bite rate|of fish that are normally more difficult."
+    },
+    "241": {
+        "clarity_nt_char_78": "clarity_nt_char_78"
+    },
+    "242": {
+        "さおゆるめ回復量アップは|覚えているだけで　さおをゆるめた時の|回復量が　少し　上がるようになります。": "\"Line Loosen Recovery Up\" increases the amount|that your line recovers by when loosening it."
+    },
+    "243": {
+        "ビッグサイズ確率アップは|覚えているだけで　ビッグサイズの魚が|かかりやすく　なります。": "\"Big Size Rate Up\" increases the chance that|the fish you catch will be of \"Big\" size."
+    },
+    "244": {
+        "clarity_nt_char_79": "clarity_nt_char_79"
+    },
+    "245": {
+        "キングサイズ確率アップは|覚えているだけで　キングサイズの魚が|かかりやすく　なります。": "\"King Size Rate Up\" increases the chance that|the fish you catch will be of \"King\" size."
+    },
+    "246": {
+        "clarity_nt_char_80": "clarity_nt_char_80"
+    },
+    "247": {
+        "さかなを　闇で包み込んだ！": "Wrapped the fish in darkness!"
+    },
+    "248": {
+        "さかなを　凍らせた！": "The fish froze!"
+    },
+    "249": {
+        "clarity_nt_char_81": "clarity_nt_char_81"
+    },
+    "250": {
+        "さおをゆるめる回数が　<%dL_KISEKI>回増えた！": "Number of times to loosen rod increased by <%dL_KISEKI>!"
+    },
+    "251": {
+        "clarity_nt_char_82": "clarity_nt_char_82"
+    },
+    "252": {
+        "さおを引いて|さかなを近くに|引き寄せる": "Reel your line|and pull the|fish closer."
+    },
+    "253": {
+        "clarity_nt_char_83": "clarity_nt_char_83"
+    },
+    "254": {
+        "さかなを倍の力で|引き寄せるが|くいつき度が半減": "Attracts stronger|fish, but bite|rate is halved."
+    },
+    "255": {
+        "clarity_nt_char_84": "clarity_nt_char_84"
+    },
+    "256": {
+        "あんこくの力で|さかなに行動を|させづらくする": "Fish have|trouble acting in|darkness power."
+    },
+    "257": {
+        "炎の力を込めて|釣りざおを引く|威力にムラがある": "The reeling power|of flames is|uneven."
+    },
+    "258": {
+        "clarity_nt_char_85": "clarity_nt_char_85"
+    },
+    "259": {
+        "釣りざおの冷気で|さかなを凍らせる": "Uses your rod's|cold air to|freeze the fish."
+    },
+    "260": {
+        "ナツリ特製の旬の|秘められた力で|釣りさおを引く": "A rod made by|Natsuri with a|hidden power."
+    },
+    "261": {
+        "clarity_nt_char_86": "clarity_nt_char_86"
+    },
+    "262": {
+        "きせきの力で|釣りざおを引く|食いつき度が回復": "Reel the rod|with the power|of a miracle."
+    },
+    "263": {
+        "さおをゆるめて|くいつき度を|回復させる": "Loose your line|and restore|biting frequency."
+    },
+    "264": {
+        "clarity_nt_char_87": "clarity_nt_char_87"
+    },
+    "265": {
+        "釣りをあきらめて|さかなを逃がす": "Give up on|fishing and let|the fish escape."
+    },
+    "266": {
+        "clarity_nt_char_88": "clarity_nt_char_88"
+    },
+    "267": {
+        "釣りとくぎ「全力で引く」が使える": "Fishing skill 'Full Power Reel' usable"
+    },
+    "268": {
+        "clarity_nt_char_89": "clarity_nt_char_89"
+    },
+    "269": {
+        "釣りとくぎ「闇の力で引く」が使える": "Fishing skill 'Dark Power Reel' usable"
+    },
+    "270": {
+        "釣りとくぎ「炎の力で引く」が使える": "Fishing skill 'Fire Power Reel' usable"
+    },
+    "271": {
+        "釣りとくぎ「氷の力で引く」が使える": "Fishing skill 'Ice Power Reel' usable"
+    },
+    "272": {
+        "釣りとくぎ「旬の力で引く」が使える": "Fishing skill 'Season Power Reel' usable"
+    },
+    "273": {
+        "釣りとくぎ「きせきの力で引く」が使える": "Fishing skill 'Miracle Reel' usable"
+    },
+    "274": {
+        "スライムの池": "Slime Pond"
+    },
+    "275": {
+        "clarity_nt_char_90": "clarity_nt_char_90"
+    },
+    "276": {
+        "水場": "Field"
+    },
+    "277": {
+        "clarity_nt_char_91": "clarity_nt_char_91"
+    },
+    "278": {
+        "堀": "Mo."
+    },
+    "279": {
+        "貯水槽": "Aqua Tank"
+    }
+}

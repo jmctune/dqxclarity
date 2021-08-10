@@ -1,0 +1,215 @@
+{
+  "1": {
+    "ぬう": "Sew"
+  },
+  "2": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "3": {
+    "ヨコぬい": "Double seam"
+  },
+  "4": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "5": {
+    "水平ぬい": "triple seam"
+  },
+  "6": {
+    "clarity_nt_char_6": "clarity_nt_char_6"
+  },
+  "7": {
+    "滝のぼり": "Upward seam"
+  },
+  "8": {
+    "clarity_nt_char_8": "clarity_nt_char_8"
+  },
+  "9": {
+    "大滝のぼり": "Big upward seam"
+  },
+  "10": {
+    "たすきぬい": "Tasuki stitch"
+  },
+  "11": {
+    "逆たすきぬい": "Reverse Tasuki"
+  },
+  "12": {
+    "clarity_nt_char_12": "clarity_nt_char_12"
+  },
+  "13": {
+    "かげんぬい": "Small stitch"
+  },
+  "14": {
+    "２倍ぬい": "Double sew"
+  },
+  "15": {
+    "clarity_nt_char_15": "clarity_nt_char_15"
+  },
+  "16": {
+    "３倍ぬい": "Triple sew"
+  },
+  "17": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "18": {
+    "ねらいぬい": "Careful sewing"
+  },
+  "19": {
+    "精神統一": "Mental focus"
+  },
+  "20": {
+    "clarity_nt_char_20": "clarity_nt_char_20"
+  },
+  "21": {
+    "糸ほぐし": "Unstitch"
+  },
+  "22": {
+    "clarity_nt_char_22": "clarity_nt_char_22"
+  },
+  "23": {
+    "ぬいパワーシフト": "Sewing Power Shift"
+  },
+  "24": {
+    "clarity_nt_char_24": "clarity_nt_char_24"
+  },
+  "25": {
+    "無我の境地": "Selflessness"
+  },
+  "26": {
+    "会心0.1％アップ": "Critical +0.1%"
+  },
+  "27": {
+    "会心0.2％アップ": "Critical +0.2%"
+  },
+  "28": {
+    "会心0.3％アップ": "Critical +0.3%"
+  },
+  "29": {
+    "必殺率　小アップ": "Small Special Rate Up"
+  },
+  "30": {
+    "clarity_nt_char_30": "clarity_nt_char_30"
+  },
+  "31": {
+    "しつけがけ": "Discipline"
+  },
+  "32": {
+    "巻きこみぬい": "Sewing Engagement"
+  },
+  "33": {
+    "clarity_nt_char_33": "clarity_nt_char_33"
+  },
+  "34": {
+    "１マスをぬう": "Sew one square"
+  },
+  "35": {
+    "clarity_nt_char_35": "clarity_nt_char_35"
+  },
+  "36": {
+    "左右２マスをぬう": "Sew 2 squares|horizontal"
+  },
+  "37": {
+    "clarity_nt_char_37": "clarity_nt_char_37"
+  },
+  "38": {
+    "ヨコ３マスをぬう": "Sew 3 squares|horizontal"
+  },
+  "39": {
+    "clarity_nt_char_39": "clarity_nt_char_39"
+  },
+  "40": {
+    "上下２マスをぬう": "Sew 2 square|vertically"
+  },
+  "41": {
+    "clarity_nt_char_41": "clarity_nt_char_41"
+  },
+  "42": {
+    "タテ３マスをぬう": "Sew 3 square|vertically"
+  },
+  "43": {
+    "clarity_nt_char_43": "clarity_nt_char_43"
+  },
+  "44": {
+    "ナナメ２マスを|右上へぬう": "Sew 2 squares|diagonally|top right"
+  },
+  "45": {
+    "ナナメ２マスを|左上へぬう": "Sew 2 squares|diagonally|top left"
+  },
+  "46": {
+    "半分のチカラで|１マスをぬう": "Sew 1 square|at half power"
+  },
+  "47": {
+    "clarity_nt_char_47": "clarity_nt_char_47"
+  },
+  "48": {
+    "２倍のチカラで|１マスをぬう": "Sew 1 square|at double power"
+  },
+  "49": {
+    "clarity_nt_char_49": "clarity_nt_char_49"
+  },
+  "50": {
+    "３倍のチカラで|１マスをぬう": "Sew 1 square|at 3x power"
+  },
+  "51": {
+    "clarity_nt_char_51": "clarity_nt_char_51"
+  },
+  "52": {
+    "通常より|高い会心率で|１マスをぬう": "Sew 1 square|chance for a|perfect sew"
+  },
+  "53": {
+    "clarity_nt_char_53": "clarity_nt_char_53"
+  },
+  "54": {
+    "ぬいパワーを|３ターン保持する": "Retain crafting|power for 3 turns"
+  },
+  "55": {
+    "１マスをゆるめる": "Regress 1 square"
+  },
+  "56": {
+    "clarity_nt_char_56": "clarity_nt_char_56"
+  },
+  "57": {
+    "ぬいパワーが|ランダムで変化": "Sewing power will|randomly change."
+  },
+  "58": {
+    "clarity_nt_char_58": "clarity_nt_char_58"
+  },
+  "59": {
+    "会心率が|常に２倍になる|さいほうの必殺技": "A sewing skill|that doubles|critical rate."
+  },
+  "60": {
+    "おぼえてるだけで|会心の出る確率が|常に 0.1％アップ": "Critical chance|increased|by 0.1%."
+  },
+  "61": {
+    "clarity_nt_char_61": "clarity_nt_char_61"
+  },
+  "62": {
+    "おぼえてるだけで|会心の出る確率が|常に 0.2％アップ": "Critical chance|increased|by 0.2%."
+  },
+  "63": {
+    "clarity_nt_char_63": "clarity_nt_char_63"
+  },
+  "64": {
+    "おぼえてるだけで|会心の出る確率が|常に 0.3％アップ": "Critical chance|increased|by 0.3%."
+  },
+  "65": {
+    "clarity_nt_char_65": "clarity_nt_char_65"
+  },
+  "66": {
+    "おぼえてるだけで|必殺の出る確率が|少しだけアップ": "Special chance|is slightly|increased."
+  },
+  "67": {
+    "使用したマスを|次にぬうとき|２倍の威力になる": "Sew a square|next action is|2x power"
+  },
+  "68": {
+    "隣接したマスを|巻きこんでぬう|強力なひとぬい": "Sew a square|and all adjacent|squares"
+  },
+  "69": {
+    "まれに集中力回復": "Rarely Recover Focus"
+  },
+  "70": {
+    "clarity_nt_char_70": "clarity_nt_char_70"
+  },
+  "71": {
+    "おぼえてるだけで|まれに集中力が|回復する": "Rarely recovers|your focus."
+  }
+}
