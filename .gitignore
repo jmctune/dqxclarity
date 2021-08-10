@@ -4,3 +4,6 @@ venv
 build
 dist
 game_file_dumps
+hyde_json_merge/dst/*
+hyde_json_merge/out/
+hyde_json_merge/src/
