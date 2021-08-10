@@ -183,7 +183,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>ツボ錬金設備": "<%sW_MAP_NAME><%sW_DELIMITER>Pot Alch. Facility"
     },
     "62": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>採掘ギルド": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>採掘ギルド": "<%sW_MAP_NAME><%sW_DELIMITER>Mining Guild"
     },
     "63": {
         "clarity_nt_char_15": "clarity_nt_char_15"
@@ -345,7 +345,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>展望台へのはしご": ""
     },
     "116": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>採掘ギルド周辺": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>採掘ギルド周辺": "<%sW_MAP_NAME><%sW_DELIMITER>Mining Guild Area"
     },
     "117": {
         "clarity_nt_char_36": "clarity_nt_char_36"
