@@ -777,7 +777,7 @@
         "<speed=0>すでに相手が　ルームから　抜けています。": "<speed=0>This person has already left the room."
     },
     "260": {
-        "<speed=0><%sM_pc>を　<%sM_room>に　招待した！": ""
+        "<speed=0><%sM_pc>を　<%sM_room>に　招待した！": "<speed=0>Invited <%sM_pc> to <%sM_room>!"
     },
     "261": {
         "clarity_nt_char_86": "clarity_nt_char_86"
