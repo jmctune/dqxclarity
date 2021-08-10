@@ -1,1067 +1,1067 @@
 {
-  "1": {
-    "鍋の温度が<%nL_ONDO>度下がった": ""
-  },
-  "2": {
-    "clarity_nt_char_1": "clarity_nt_char_1"
-  },
-  "3": {
-    "<%sL_NAMAE>はようすを見た": ""
-  },
-  "4": {
-    "clarity_nt_char_2": "clarity_nt_char_2"
-  },
-  "5": {
-    "不純物であふれてしまった": ""
-  },
-  "6": {
-    "clarity_nt_char_3": "clarity_nt_char_3"
-  },
-  "7": {
-    "鍋の温度が<%nL_ONDO>度上がった": ""
-  },
-  "8": {
-    "clarity_nt_char_4": "clarity_nt_char_4"
-  },
-  "9": {
-    "<%sL_NAME>は火加減を<%sL_HIKAGEN>火に変えた": ""
-  },
-  "10": {
-    "不純物が<%nL_FUJUN>％あがった": ""
-  },
-  "11": {
-    "clarity_nt_char_5": "clarity_nt_char_5"
-  },
-  "12": {
-    "かいしんのひとまぜ！": "Critical mix!"
-  },
-  "13": {
-    "clarity_nt_char_6": "clarity_nt_char_6"
-  },
-  "14": {
-    "混ざり値が<%nL_MAZARI>下がった": ""
-  },
-  "15": {
-    "混ざり値が<%nL_MAZARI>上がった": ""
-  },
-  "16": {
-    "まわりの階層にゆらぎが発生": ""
-  },
-  "17": {
-    "上下の階層が混ざり合った！": ""
-  },
-  "18": {
-    "上下の階層の混ざり値が入れ替わった！": ""
-  },
-  "19": {
-    "clarity_nt_char_7": "clarity_nt_char_7"
-  },
-  "20": {
-    "すべての階層がごちゃごちゃに入れ替わる！": ""
-  },
-  "21": {
-    "clarity_nt_char_8": "clarity_nt_char_8"
-  },
-  "22": {
-    "<%sL_NAME>は仕上げをした": ""
-  },
-  "23": {
-    "にごった水ができあがった・・・": ""
-  },
-  "24": {
-    "薬剤の腕前が<%nL_EXP> あがった": ""
-  },
-  "25": {
-    "clarity_nt_char_9": "clarity_nt_char_9"
-  },
-  "26": {
-    "<pc>は　花摘みで使える|アイテムを持っていない。": ""
-  },
-  "27": {
-    "clarity_nt_char_10": "clarity_nt_char_10"
-  },
-  "28": {
-    "<pc>は　花摘みで使える|とくぎを覚えていない。": ""
-  },
-  "29": {
-    "集中力が たりない！": ""
-  },
-  "30": {
-    "clarity_nt_char_11": "clarity_nt_char_11"
-  },
-  "31": {
-    "つるはしを持っていないので|採掘ができません。": ""
-  },
-  "32": {
-    "この鉱脈を　あきらめますか？|<yesno><close>": "Do you want to give up on this vein?|<yesno><close>"
-  },
-  "33": {
-    "この鉱脈を　あきらめました。": ""
-  },
-  "34": {
-    "clarity_nt_char_12": "clarity_nt_char_12"
-  },
-  "35": {
-    "採掘": ""
-  },
-  "36": {
-    "clarity_nt_char_13": "clarity_nt_char_13"
-  },
-  "37": {
-    "★★★": ""
-  },
-  "38": {
-    "★★": ""
-  },
-  "39": {
-    "clarity_nt_char_14": "clarity_nt_char_14"
-  },
-  "40": {
-    "★": ""
-  },
-  "41": {
-    "<pc>は|<%dL_EXP> Pの職人経験値を　かくとく！|<bw_break>": "<pc>|gained <%dL_EXP> Craftsman EXP!|<bw_break>"
-  },
-  "42": {
-    "<pc>の職人レベルが　<%dL_RANK>にあがった！": ""
-  },
-  "43": {
-    "clarity_nt_char_15": "clarity_nt_char_15"
-  },
-  "44": {
-    "集中力が　<%dL_CP_UP>あがった！": ""
-  },
-  "45": {
-    "鍛冶": ""
-  },
-  "46": {
-    "clarity_nt_char_16": "clarity_nt_char_16"
-  },
-  "47": {
-    "鉱脈を　掘りつくした！": ""
-  },
-  "48": {
-    "<%sL_GET_ITEM>を　掘り出した！": ""
-  },
-  "49": {
-    "clarity_nt_char_17": "clarity_nt_char_17"
-  },
-  "50": {
-    "採掘をやめる": ""
-  },
-  "51": {
-    "clarity_nt_char_18": "clarity_nt_char_18"
-  },
-  "52": {
-    "とくぎをつかう": ""
-  },
-  "53": {
-    "地金を水に入れて|アイテムを|完成させます": ""
-  },
-  "54": {
-    "レベルアップで|覚えた特技を使う": ""
-  },
-  "55": {
-    "clarity_nt_char_19": "clarity_nt_char_19"
-  },
-  "56": {
-    "<pc>の　水平掘り！|岩盤に　<%nL_ATTACK_1>のダメージ！": ""
-  },
-  "57": {
-    "clarity_nt_char_20": "clarity_nt_char_20"
-  },
-  "58": {
-    "<pc>の　２段掘り！|岩盤に　平均<%nL_ATTACK_1>のダメージ！": ""
-  },
-  "59": {
-    "clarity_nt_char_21": "clarity_nt_char_21"
-  },
-  "60": {
-    "<pc>の　キツツキ掘り！|岩盤に　<%nL_ATTACK_1>のダメージ！": ""
-  },
-  "61": {
-    "clarity_nt_char_22": "clarity_nt_char_22"
-  },
-  "62": {
-    "<pc>の　貫通掘り！|岩盤に　平均<%nL_ATTACK_1>のダメージ！": ""
-  },
-  "63": {
-    "clarity_nt_char_23": "clarity_nt_char_23"
-  },
-  "64": {
-    "<pc>の　岩砕き！|岩盤に　<%nL_ATTACK_1>のダメージ！": ""
-  },
-  "65": {
-    "<pc>の　大振動！|岩盤に　平均<%nL_ATTACK_1>のダメージ！": ""
-  },
-  "66": {
-    "岩盤に　<%nL_ATTACK_1>のダメージ！": ""
-  },
-  "67": {
-    "clarity_nt_char_24": "clarity_nt_char_24"
-  },
-  "68": {
-    "clarity_ms_space_1": "clarity_ms_space_1"
-  },
-  "69": {
-    "<pc>は　落盤をひきおこした！": ""
-  },
-  "70": {
-    "clarity_nt_char_25": "clarity_nt_char_25"
-  },
-  "71": {
-    "<%sL_GET_ITEM>を　|こなごなにしてしまった…。": ""
-  },
-  "72": {
-    "clarity_nt_char_26": "clarity_nt_char_26"
-  },
-  "73": {
-    "岩盤に　<%nL_ATTACK_1>のダメージ！|<pc>は　岩盤をこわした！": ""
-  },
-  "74": {
-    "<pc>の　会心の一掘り！|岩盤に　<%nL_ATTACK_1>のダメージ！": ""
-  },
-  "75": {
-    "clarity_nt_char_27": "clarity_nt_char_27"
-  },
-  "76": {
-    "<pc>は　鉱脈をさがした！|<%sL_FIND_KOUMYAKU>を　<%nL_KOUMYAKU_NUM>こ見つけた！": ""
-  },
-  "77": {
-    "clarity_nt_char_28": "clarity_nt_char_28"
-  },
-  "78": {
-    "さらに　<%sL_FIND_KOUMYAKU>を　<%nL_KOUMYAKU_NUM>こ見つけた！": ""
-  },
-  "79": {
-    "<%sL_RECIPE>|<%sL_QUALITY>ができた！": ""
-  },
-  "80": {
-    "さいほう": "Sewing"
-  },
-  "81": {
-    "clarity_nt_char_29": "clarity_nt_char_29"
-  },
-  "82": {
-    "さいほう針": "Sewing Needle"
-  },
-  "83": {
-    "ぬい作業をおえて|しあげをする": ""
-  },
-  "84": {
-    "フライパン": "Frying Pan"
-  },
-  "85": {
-    "具材を焼きおえて|料理をしあげる": ""
-  },
-  "86": {
-    "clarity_nt_char_30": "clarity_nt_char_30"
-  },
-  "87": {
-    "調理": "CKG"
-  },
-  "88": {
-    "clarity_nt_char_31": "clarity_nt_char_31"
-  },
-  "89": {
-    "草刈りがまを持っていないので|花摘みができません。": ""
-  },
-  "90": {
-    "花のむれを　あきらめました。": ""
-  },
-  "91": {
-    "clarity_nt_char_32": "clarity_nt_char_32"
-  },
-  "92": {
-    "<pipipi_high>「では　どちらの衣装を |　じんべいと　交換いたしますか？<break>": ""
-  },
-  "93": {
-    "<pipipi_high>「では　どちらの衣装を |　ゆかたと　交換いたしますか？<break>": ""
-  },
-  "94": {
-    "clarity_nt_char_33": "clarity_nt_char_33"
-  },
-  "95": {
-    "花摘み": ""
-  },
-  "96": {
-    "花摘みをやめる": ""
-  },
-  "97": {
-    "かばんにしまっていないアイテムは|すべてなくなりますが　よろしいですか？|<ask>": "Items that are not stored in your bag|will be lost. Are you sure?|<ask>"
-  },
-  "98": {
-    "clarity_nt_char_34": "clarity_nt_char_34"
-  },
-  "99": {
-    "かばんがいっぱいです。|代わりにすてるアイテムを　えらんでください。": "Your bag is full. Please choose an item to|replace."
-  },
-  "100": {
-    "clarity_nt_char_35": "clarity_nt_char_35"
-  },
-  "101": {
-    "<%sL_LOST_ITEM>をすてて|<%sL_GET_ITEM>を　かばんにしまった。": ""
-  },
-  "102": {
-    "道具": "TLM"
-  },
-  "103": {
-    "clarity_nt_char_36": "clarity_nt_char_36"
-  },
-  "104": {
-    "武器": "WPN"
-  },
-  "105": {
-    "clarity_nt_char_37": "clarity_nt_char_37"
-  },
-  "106": {
-    "防具": "AMS"
-  },
-  "107": {
-    "clarity_nt_char_38": "clarity_nt_char_38"
-  },
-  "108": {
-    "木工品をしあげる": ""
-  },
-  "109": {
-    "clarity_nt_char_39": "clarity_nt_char_39"
-  },
-  "110": {
-    "武器鍛冶職人": "Weaponsmith"
-  },
-  "111": {
-    "clarity_nt_char_40": "clarity_nt_char_40"
-  },
-  "112": {
-    "木こり職人": "Lumberjack"
-  },
-  "113": {
-    "花摘み職人": "Flower Picking"
-  },
-  "114": {
-    "採掘職人": "Miner"
-  },
-  "115": {
-    "clarity_nt_char_41": "clarity_nt_char_41"
-  },
-  "116": {
-    "防具鍛冶職人": "Armorsmith"
-  },
-  "117": {
-    "clarity_nt_char_42": "clarity_nt_char_42"
-  },
-  "118": {
-    "道具鍛冶職人": "Toolsmith"
-  },
-  "119": {
-    "clarity_nt_char_43": "clarity_nt_char_43"
-  },
-  "120": {
-    "木工職人": "Woodworking"
-  },
-  "121": {
-    "clarity_nt_char_44": "clarity_nt_char_44"
-  },
-  "122": {
-    "ランプ錬金職人": "Lamp Alchemist"
-  },
-  "123": {
-    "さいほう職人": "Sewing"
-  },
-  "124": {
-    "clarity_nt_char_45": "clarity_nt_char_45"
-  },
-  "125": {
-    "陶芸職人": "Potter"
-  },
-  "126": {
-    "clarity_nt_char_46": "clarity_nt_char_46"
-  },
-  "127": {
-    "ツボ錬金職人": "Pot Alchemist"
-  },
-  "128": {
-    "clarity_nt_char_47": "clarity_nt_char_47"
-  },
-  "129": {
-    "調理職人": "Cooking"
-  },
-  "130": {
-    "clarity_nt_char_48": "clarity_nt_char_48"
-  },
-  "131": {
-    "薬剤職人": "Pharmacist"
-  },
-  "132": {
-    "clarity_nt_char_49": "clarity_nt_char_49"
-  },
-  "133": {
-    "clarity_nt_char_50": "clarity_nt_char_50"
-  },
-  "134": {
-    "clarity_nt_char_51": "clarity_nt_char_51"
-  },
-  "135": {
-    "<%sL_SYOKUNIN_TOOL>を装備していないので|<%sL_SKILL_NAME>ができません。": "You can't use <%sL_SKILL_NAME> because|you don't have a <%sL_SYOKUNIN_TOOL>."
-  },
-  "136": {
-    "鍛冶ハンマー": "Smith Hammer"
-  },
-  "137": {
-    "clarity_nt_char_52": "clarity_nt_char_52"
-  },
-  "138": {
-    "錬金ツボ": "Alchemy Pot"
-  },
-  "139": {
-    "clarity_nt_char_53": "clarity_nt_char_53"
-  },
-  "140": {
-    "錬金ランプ": "Alchemy Lamp"
-  },
-  "141": {
-    "木工刀": "Wdw Knife"
-  },
-  "142": {
-    "木工": "WDW"
-  },
-  "143": {
-    "clarity_nt_char_54": "clarity_nt_char_54"
-  },
-  "144": {
-    "ツボ錬金": "Pot Alchemy"
-  },
-  "145": {
-    "clarity_nt_char_55": "clarity_nt_char_55"
-  },
-  "146": {
-    "ランプ錬金": "Lamp Alchemy"
-  },
-  "147": {
-    "<%sL_SYOKUNIN_TOOL>は|使いこまれ　こわれてしまった。": ""
-  },
-  "148": {
-    "clarity_nt_char_56": "clarity_nt_char_56"
-  },
-  "149": {
-    "鍛冶職人": "Blacksmith"
-  },
-  "150": {
-    "clarity_nt_char_57": "clarity_nt_char_57"
-  },
-  "151": {
-    "けずる木材を|変更する": ""
-  },
-  "152": {
-    "つるはし": ""
-  },
-  "153": {
-    "clarity_nt_char_58": "clarity_nt_char_58"
-  },
-  "154": {
-    "草刈りがま": ""
-  },
-  "155": {
-    "薬剤なべ": ""
-  },
-  "156": {
-    "clarity_nt_char_59": "clarity_nt_char_59"
-  },
-  "157": {
-    "きこりオノ": ""
-  },
-  "158": {
-    "ろくろ": ""
-  },
-  "159": {
-    "<%sL_ACTION_NAME>のとくぎを　おぼえた！<bw_break>": "You learned the skill <%sL_ACTION_NAME>!"
-  },
-  "160": {
-    "clarity_nt_char_60": "clarity_nt_char_60"
-  },
-  "161": {
-    "ベッド": "Bed"
-  },
-  "162": {
-    "テーブル": ""
-  },
-  "163": {
-    "clarity_nt_char_61": "clarity_nt_char_61"
-  },
-  "164": {
-    "チェスト": ""
-  },
-  "165": {
-    "clarity_nt_char_62": "clarity_nt_char_62"
-  },
-  "166": {
-    "足": "Leg"
-  },
-  "167": {
-    "からだ下": "Pants"
-  },
-  "168": {
-    "clarity_nt_char_63": "clarity_nt_char_63"
-  },
-  "169": {
-    "アタマ": "Head"
-  },
-  "170": {
-    "ウデ": "Glove"
-  },
-  "171": {
-    "clarity_nt_char_64": "clarity_nt_char_64"
-  },
-  "172": {
-    "からだ上": "Chest"
-  },
-  "173": {
-    "clarity_nt_char_65": "clarity_nt_char_65"
-  },
-  "174": {
-    "レイピア": "Rapier"
-  },
-  "175": {
-    "clarity_nt_char_66": "clarity_nt_char_66"
-  },
-  "176": {
-    "<%sL_KOUKA>|の錬金が大成功した！": ""
-  },
-  "177": {
-    "clarity_nt_char_67": "clarity_nt_char_67"
-  },
-  "178": {
-    "<%sL_KIND_GROUP>の途中で キャンセルはできません！": ""
-  },
-  "179": {
-    "道具鍛冶": "Toolsmith"
-  },
-  "180": {
-    "clarity_nt_char_68": "clarity_nt_char_68"
-  },
-  "181": {
-    "防具鍛冶": "Armorsmith"
-  },
-  "182": {
-    "clarity_nt_char_69": "clarity_nt_char_69"
-  },
-  "183": {
-    "武器鍛冶": "Weaponsmith"
-  },
-  "184": {
-    "clarity_nt_char_70": "clarity_nt_char_70"
-  },
-  "185": {
-    "<%sL_RECIPE>を作る　コツをつかんだ！<bw_break>": ""
-  },
-  "186": {
-    "clarity_nt_char_71": "clarity_nt_char_71"
-  },
-  "187": {
-    "次のひと打ち 威力が半減！": ""
-  },
-  "188": {
-    "次のひと打ち 威力が２倍！": ""
-  },
-  "189": {
-    "地金の温度が ２００度 下がった！": ""
-  },
-  "190": {
-    "地金の温度が ２００度 上がった！": ""
-  },
-  "191": {
-    "木材が 燃えあがった！": ""
-  },
-  "192": {
-    "なんと 木目が変化した！": ""
-  },
-  "193": {
-    "clarity_nt_char_72": "clarity_nt_char_72"
-  },
-  "194": {
-    "なんと 木材が再生した！": ""
-  },
-  "195": {
-    "clarity_nt_char_73": "clarity_nt_char_73"
-  },
-  "196": {
-    "木材が やわらかくなり １.５倍削れた！": ""
-  },
-  "197": {
-    "clarity_nt_char_74": "clarity_nt_char_74"
-  },
-  "198": {
-    "木目にそってけずると 威力が１.５倍！": ""
-  },
-  "199": {
-    "<%sL_SYOKUNIN_KIND>レベルが<%nL_RANK>にアップ！": ""
-  },
-  "200": {
-    "clarity_nt_char_75": "clarity_nt_char_75"
-  },
-  "201": {
-    "この　<%sL_ITEM>を渡しますか？<yesno><break>": ""
-  },
-  "202": {
-    "clarity_nt_char_76": "clarity_nt_char_76"
-  },
-  "203": {
-    "どれを　渡しますか？<break>": ""
-  },
-  "204": {
-    "そのアイテムは　条件に合っていません。<bw_break>": ""
-  },
-  "205": {
-    "錬金効果は付けられない": "Cannot add alchemy effect."
-  },
-  "206": {
-    "（錬金効果をつけよう）": "(No Alchemy Effect)"
-  },
-  "207": {
-    "なんと 地金の鍛え度が すこし戻った！": ""
-  },
-  "208": {
-    "<%sL_RENKIN_TEXT_1>|<%sL_RENKIN_TEXT_2>|<bw_break>": ""
-  },
-  "209": {
-    "clarity_nt_char_77": "clarity_nt_char_77"
-  },
-  "210": {
-    "錬金": ""
-  },
-  "211": {
-    "clarity_nt_char_78": "clarity_nt_char_78"
-  },
-  "212": {
-    "さいほうＨＰ情報　　現在ＨＰ　／　理想値": ""
-  },
-  "213": {
-    "clarity_nt_char_79": "clarity_nt_char_79"
-  },
-  "214": {
-    "　[<%dL_QA_DEBUG_VAL1>]　<%nL_QA_DEBUG_VAL2>　／　<%nL_QA_DEBUG_VAL3>　　[<%dL_QA_DEBUG_VAL4>]　<%nL_QA_DEBUG_VAL5>　／　<%nL_QA_DEBUG_VAL6>　　[<%dL_QA_DEBUG_VAL7>]　<%nL_QA_DEBUG_VAL8>　／　<%nL_QA_DEBUG_VAL9>": ""
-  },
-  "215": {
-    "clarity_nt_char_80": "clarity_nt_char_80"
-  },
-  "216": {
-    "表面固めの効果で うちけされた！": ""
-  },
-  "217": {
-    "clarity_nt_char_81": "clarity_nt_char_81"
-  },
-  "218": {
-    "玉どめの効果で うちけされた！": ""
-  },
-  "219": {
-    "そざい特性が 発生しなくなる効果がなくなった！": ""
-  },
-  "220": {
-    "次のひとぬい 威力が２倍！": ""
-  },
-  "221": {
-    "次のひとぬい 威力が半減！": ""
-  },
-  "222": {
-    "<pc>は　職人レベルに限界を感じた！|これ以上　職人レベルを上げたいならば|ギルドマスターに　相談してみよう。": "<pc> reached the Craftsman level limit!|Go talk to your Guild Master to raise|your level limit."
-  },
-  "223": {
-    "clarity_nt_char_82": "clarity_nt_char_82"
-  },
-  "224": {
-    "今　装備している装備品ですが|本当に　渡してもよろしいですか？<yesno 2><break>": ""
-  },
-  "225": {
-    "運を天にまかせて|ルーレットの針を|回転させる": ""
-  },
-  "226": {
-    "なんと 生地のかたちが すこし戻った！": ""
-  },
-  "227": {
-    "ぬいぐるみ": "Plushie"
-  },
-  "228": {
-    "<%sL_RECIPE>|が大成功した！": ""
-  },
-  "229": {
-    "clarity_nt_char_83": "clarity_nt_char_83"
-  },
-  "230": {
-    "合成効果は付けられない": "Cannot Add Effects"
-  },
-  "231": {
-    "（合成効果をつけよう）": "(No Synthesis Effect)"
-  },
-  "232": {
-    "なんと ぬいパワーが <%sL_NUI_POWER>になった！": ""
-  },
-  "233": {
-    "弱い": "Weak"
-  },
-  "234": {
-    "clarity_nt_char_84": "clarity_nt_char_84"
-  },
-  "235": {
-    "ふつう": "Normal"
-  },
-  "236": {
-    "強い": "Hard"
-  },
-  "237": {
-    "clarity_nt_char_85": "clarity_nt_char_85"
-  },
-  "238": {
-    "会心ｘ２": ""
-  },
-  "239": {
-    "clarity_nt_char_86": "clarity_nt_char_86"
-  },
-  "240": {
-    "最強": ""
-  },
-  "241": {
-    "clarity_nt_char_87": "clarity_nt_char_87"
-  },
-  "242": {
-    "<pc>は|<%dL_EXP>+<%dL_EXP_OUEN>(おうえんボーナス) Pの|職人経験値を　かくとく！|<bw_break>": "<pc>|gained <%dL_EXP> +<%dL_EXP_OUEN> (Cheer Bonus)|Craftsman EXP!|<bw_break>"
-  },
-  "243": {
-    "<speed=0>新品の装備品です！|一度　装備すると　他の人に|渡せなくなりますが　よろしいですか？<yesno 2><break>": "<speed=0>This is brand new equipment!|Once you equip it, you can't give it|to anyone else. Is this okay?<yesno 2><close>"
-  },
-  "244": {
-    "<speed=0>|装備品は　最初に装備した人が|その装備の使用者となります！<br>|一度　使用者が決まった装備品は|他の人に　渡すことができなくなりますが|この装備品を　装備しても　よろしいですか？|<yesno><break>": ""
-  },
-  "245": {
-    "clarity_nt_char_88": "clarity_nt_char_88"
-  },
-  "246": {
-    "<pc>は|<%dL_EXP> Pの職人経験値を　かくとく！<se_nots System 7>|<bw_break>": "<pc>|gained <%dL_EXP> Craftsman EXP!<se_nots System 7>|<bw_break>"
-  },
-  "247": {
-    "奇跡の効果で 集中力が <%dL_TOOL_BONUS_PRM>アップ！": ""
-  },
-  "248": {
-    "clarity_nt_char_89": "clarity_nt_char_89"
-  },
-  "249": {
-    "<%sL_PC>が　職人仕事をしています。|職人仕事が終わるまで　お待ちください。|<convenience>で　おうえんができます。": "<%sL_PC> is currently busy crafting. Please wait|for them to finish. You can support them with|<convenience>."
-  },
-  "250": {
-    "<speed=0>新品の職人道具です！　錬金の依頼で使用すると|『とりひき』や　『旅人バザーへの出品』が|できなくなりますが　よろしいですか？|<yesno 2><break>": "<speed=0>This is a new craftsman tool! If you use it,|you won't be able to trade it or sell it on the|Traveler's Bazaar. Is this okay?|<yesno 2><break>"
-  },
-  "251": {
-    "clarity_nt_char_90": "clarity_nt_char_90"
-  },
-  "252": {
-    "仕切り壁": ""
-  },
-  "253": {
-    "clarity_nt_char_91": "clarity_nt_char_91"
-  },
-  "254": {
-    "バスタブ": "Bathtub"
-  },
-  "255": {
-    "clarity_nt_char_92": "clarity_nt_char_92"
-  },
-  "256": {
-    "ブロック": ""
-  },
-  "257": {
-    "clarity_nt_char_93": "clarity_nt_char_93"
-  },
-  "258": {
-    "ダンロ": ""
-  },
-  "259": {
-    "キッチン": "Kitchen"
-  },
-  "260": {
-    "clarity_nt_char_94": "clarity_nt_char_94"
-  },
-  "261": {
-    "オーブン": "Oven"
-  },
-  "262": {
-    "clarity_nt_char_95": "clarity_nt_char_95"
-  },
-  "263": {
-    "棚": "Shf"
-  },
-  "264": {
-    "カウンター": "Counter"
-  },
-  "265": {
-    "タンス": ""
-  },
-  "266": {
-    "かいしんの てごたえ！|具材の焼き加減を 固定した！": "I can't wait to see what you got!|I've got a lot of work to do."
-  },
-  "267": {
-    "clarity_nt_char_96": "clarity_nt_char_96"
-  },
-  "268": {
-    "なんと 具材の焼き加減が すこし下がった！": ""
-  },
-  "269": {
-    "４つのマスの 火力がアップ！": ""
-  },
-  "270": {
-    "clarity_nt_char_97": "clarity_nt_char_97"
-  },
-  "271": {
-    "４つのマスの 焼き加減がダウン！": ""
-  },
-  "272": {
-    "clarity_nt_char_98": "clarity_nt_char_98"
-  },
-  "273": {
-    "１つのマスの 火力と会心率がアップ！": ""
-  },
-  "274": {
-    "clarity_nt_char_99": "clarity_nt_char_99"
-  },
-  "275": {
-    "ギルドの依頼品": "Guild Requests"
-  },
-  "276": {
-    "や": ""
-  },
-  "277": {
-    "この装備品は　ロックしているため|渡すことができません。<bw_break>": ""
-  },
-  "278": {
-    "clarity_nt_char_100": "clarity_nt_char_100"
-  },
-  "279": {
-    "説明を見る": "See Description"
-  },
-  "280": {
-    "錬金をする": "Alchemy"
-  },
-  "281": {
-    "庭具をつくる": ""
-  },
-  "282": {
-    "clarity_nt_char_101": "clarity_nt_char_101"
-  },
-  "283": {
-    "家具をつくる": "Make Furniture"
-  },
-  "284": {
-    "clarity_nt_char_102": "clarity_nt_char_102"
-  },
-  "285": {
-    "道具をつくる": ""
-  },
-  "286": {
-    "clarity_nt_char_103": "clarity_nt_char_103"
-  },
-  "287": {
-    "武器をつくる": ""
-  },
-  "288": {
-    "clarity_nt_char_104": "clarity_nt_char_104"
-  },
-  "289": {
-    "防具をつくる": "Make Armor"
-  },
-  "290": {
-    "clarity_nt_char_105": "clarity_nt_char_105"
-  },
-  "291": {
-    "素材をつくる": ""
-  },
-  "292": {
-    "clarity_nt_char_106": "clarity_nt_char_106"
-  },
-  "293": {
-    "レシピを覚えていません": ""
-  },
-  "294": {
-    "など": "etc."
-  },
-  "295": {
-    "clarity_nt_char_107": "clarity_nt_char_107"
-  },
-  "296": {
-    "スイーツ": ""
-  },
-  "297": {
-    "clarity_nt_char_108": "clarity_nt_char_108"
-  },
-  "298": {
-    "肉料理": "Meat Dish"
-  },
-  "299": {
-    "魚料理": "Fish Dish"
-  },
-  "300": {
-    "<%sL_NAME>の納品": ""
-  },
-  "301": {
-    "料理をつくる": ""
-  },
-  "302": {
-    "clarity_nt_char_109": "clarity_nt_char_109"
-  },
-  "303": {
-    "赤い": "Red"
-  },
-  "304": {
-    "clarity_nt_char_110": "clarity_nt_char_110"
-  },
-  "305": {
-    "緑の": ""
-  },
-  "306": {
-    "clarity_nt_char_111": "clarity_nt_char_111"
-  },
-  "307": {
-    "青い": ""
-  },
-  "308": {
-    "clarity_nt_char_112": "clarity_nt_char_112"
-  },
-  "309": {
-    "黒い": "Black"
-  },
-  "310": {
-    "clarity_nt_char_113": "clarity_nt_char_113"
-  },
-  "311": {
-    "卵料理": ""
-  },
-  "312": {
-    "パスタ＆ライス": ""
-  },
-  "313": {
-    "釣りざおをつくる": ""
-  },
-  "314": {
-    "clarity_nt_char_114": "clarity_nt_char_114"
-  },
-  "315": {
-    "弱火焼き": "Simmer"
-  },
-  "316": {
-    "clarity_nt_char_115": "clarity_nt_char_115"
-  },
-  "317": {
-    "強火焼き": "High Heat"
-  },
-  "318": {
-    "clarity_nt_char_116": "clarity_nt_char_116"
-  },
-  "319": {
-    "具材の焼き加減は 固定されている！": ""
-  },
-  "320": {
-    "とても強力な|必殺技を使う": ""
-  },
-  "321": {
-    "七夕": ""
-  },
-  "322": {
-    "clarity_nt_char_117": "clarity_nt_char_117"
-  },
-  "323": {
-    "<%sL_KOUKA>|の錬金が超大成功！": ""
-  },
-  "324": {
-    "いま作っている|アイテムの状況を|確認する": ""
-  },
-  "325": {
-    "消費集中力が 半分になった！": ""
-  },
-  "326": {
-    "clarity_nt_char_118": "clarity_nt_char_118"
-  },
-  "327": {
-    "消費集中力が1.5倍で 会心率アップ！": ""
-  },
-  "328": {
-    "１つのマスの 威力と会心率がアップ！": ""
-  },
-  "329": {
-    "clarity_nt_char_119": "clarity_nt_char_119"
-  },
-  "330": {
-    "光の効果で ひっさつチャージ！！": ""
-  },
-  "331": {
-    "clarity_nt_char_120": "clarity_nt_char_120"
-  },
-  "332": {
-    "紫の": ""
-  },
-  "333": {
-    "clarity_nt_char_121": "clarity_nt_char_121"
-  },
-  "334": {
-    "金の": ""
-  },
-  "335": {
-    "clarity_nt_char_122": "clarity_nt_char_122"
-  },
-  "336": {
-    "<pc>は|<%sL_RECIPE>を作る　コツをつかんだので|さらに　<%dL_EXP> Pの職人経験値を　かくとく！|<bw_break>": "<pc>| has a knack for making <%sL_RECIPE>|and gained <%dL_EXP> Craftsman EXP!|<bw_break>"
-  },
-  "337": {
-    "<pc>は|<%sL_RECIPE>を　はじめて作ったので|さらに　<%dL_EXP> Pの職人経験値を　かくとく！|<bw_break>": "<pc>|made <%sL_RECIPE> for the first time|and gained <%dL_EXP> Craftsman EXP!|<bw_break>"
-  },
-  "338": {
-    "<pc>は|<%sL_KOUKA>を　はじめて付けたので|さらに　<%dL_EXP> Pの職人経験値を　かくとく！|<bw_break>": "<pc>|added <%sL_KOUKA> for the first time|and gained <%dL_EXP> Craftsman EXP!|<bw_break>"
-  },
-  "339": {
-    "clarity_nt_char_123": "clarity_nt_char_123"
-  },
-  "340": {
-    "このさかなは　ロックをしているため|渡すことは　できません。": ""
-  },
-  "341": {
-    "clarity_nt_char_124": "clarity_nt_char_124"
-  },
-  "342": {
-    "なんと 集中力が 回復した！": ""
-  },
-  "343": {
-    "clarity_nt_char_125": "clarity_nt_char_125"
-  },
-  "344": {
-    "かいしんの てごたえ！": "Critical response!"
-  },
-  "345": {
-    "ふしぎなチカラが　集まってくる……！": ""
-  },
-  "346": {
-    "clarity_nt_char_126": "clarity_nt_char_126"
-  },
-  "347": {
-    "Ｉ": ""
-  },
-  "348": {
-    "Ａ": "A"
-  },
-  "349": {
-    "Ｂ": "B"
-  },
-  "350": {
-    "Ｃ": "C"
-  },
-  "351": {
-    "Ｄ": "D"
-  },
-  "352": {
-    "Ｅ": ""
-  },
-  "353": {
-    "Ｆ": "F"
-  },
-  "354": {
-    "Ｇ": "Ｇ"
-  },
-  "355": {
-    "Ｈ": "H"
-  }
+    "1": {
+        "鍋の温度が<%nL_ONDO>度下がった": ""
+    },
+    "2": {
+        "clarity_nt_char_1": "clarity_nt_char_1"
+    },
+    "3": {
+        "<%sL_NAMAE>はようすを見た": ""
+    },
+    "4": {
+        "clarity_nt_char_2": "clarity_nt_char_2"
+    },
+    "5": {
+        "不純物であふれてしまった": ""
+    },
+    "6": {
+        "clarity_nt_char_3": "clarity_nt_char_3"
+    },
+    "7": {
+        "鍋の温度が<%nL_ONDO>度上がった": ""
+    },
+    "8": {
+        "clarity_nt_char_4": "clarity_nt_char_4"
+    },
+    "9": {
+        "<%sL_NAME>は火加減を<%sL_HIKAGEN>火に変えた": ""
+    },
+    "10": {
+        "不純物が<%nL_FUJUN>％あがった": ""
+    },
+    "11": {
+        "clarity_nt_char_5": "clarity_nt_char_5"
+    },
+    "12": {
+        "かいしんのひとまぜ！": "Critical mix!"
+    },
+    "13": {
+        "clarity_nt_char_6": "clarity_nt_char_6"
+    },
+    "14": {
+        "混ざり値が<%nL_MAZARI>下がった": ""
+    },
+    "15": {
+        "混ざり値が<%nL_MAZARI>上がった": ""
+    },
+    "16": {
+        "まわりの階層にゆらぎが発生": ""
+    },
+    "17": {
+        "上下の階層が混ざり合った！": ""
+    },
+    "18": {
+        "上下の階層の混ざり値が入れ替わった！": ""
+    },
+    "19": {
+        "clarity_nt_char_7": "clarity_nt_char_7"
+    },
+    "20": {
+        "すべての階層がごちゃごちゃに入れ替わる！": ""
+    },
+    "21": {
+        "clarity_nt_char_8": "clarity_nt_char_8"
+    },
+    "22": {
+        "<%sL_NAME>は仕上げをした": ""
+    },
+    "23": {
+        "にごった水ができあがった・・・": ""
+    },
+    "24": {
+        "薬剤の腕前が<%nL_EXP> あがった": ""
+    },
+    "25": {
+        "clarity_nt_char_9": "clarity_nt_char_9"
+    },
+    "26": {
+        "<pc>は　花摘みで使える|アイテムを持っていない。": ""
+    },
+    "27": {
+        "clarity_nt_char_10": "clarity_nt_char_10"
+    },
+    "28": {
+        "<pc>は　花摘みで使える|とくぎを覚えていない。": ""
+    },
+    "29": {
+        "集中力が たりない！": ""
+    },
+    "30": {
+        "clarity_nt_char_11": "clarity_nt_char_11"
+    },
+    "31": {
+        "つるはしを持っていないので|採掘ができません。": ""
+    },
+    "32": {
+        "この鉱脈を　あきらめますか？|<yesno><close>": "Do you want to give up on this vein?|<yesno><close>"
+    },
+    "33": {
+        "この鉱脈を　あきらめました。": ""
+    },
+    "34": {
+        "clarity_nt_char_12": "clarity_nt_char_12"
+    },
+    "35": {
+        "採掘": ""
+    },
+    "36": {
+        "clarity_nt_char_13": "clarity_nt_char_13"
+    },
+    "37": {
+        "★★★": ""
+    },
+    "38": {
+        "★★": ""
+    },
+    "39": {
+        "clarity_nt_char_14": "clarity_nt_char_14"
+    },
+    "40": {
+        "★": ""
+    },
+    "41": {
+        "<pc>は|<%dL_EXP> Pの職人経験値を　かくとく！|<bw_break>": "<pc>|gained <%dL_EXP> Craftsman EXP!|<bw_break>"
+    },
+    "42": {
+        "<pc>の職人レベルが　<%dL_RANK>にあがった！": ""
+    },
+    "43": {
+        "clarity_nt_char_15": "clarity_nt_char_15"
+    },
+    "44": {
+        "集中力が　<%dL_CP_UP>あがった！": ""
+    },
+    "45": {
+        "鍛冶": ""
+    },
+    "46": {
+        "clarity_nt_char_16": "clarity_nt_char_16"
+    },
+    "47": {
+        "鉱脈を　掘りつくした！": ""
+    },
+    "48": {
+        "<%sL_GET_ITEM>を　掘り出した！": ""
+    },
+    "49": {
+        "clarity_nt_char_17": "clarity_nt_char_17"
+    },
+    "50": {
+        "採掘をやめる": ""
+    },
+    "51": {
+        "clarity_nt_char_18": "clarity_nt_char_18"
+    },
+    "52": {
+        "とくぎをつかう": ""
+    },
+    "53": {
+        "地金を水に入れて|アイテムを|完成させます": ""
+    },
+    "54": {
+        "レベルアップで|覚えた特技を使う": ""
+    },
+    "55": {
+        "clarity_nt_char_19": "clarity_nt_char_19"
+    },
+    "56": {
+        "<pc>の　水平掘り！|岩盤に　<%nL_ATTACK_1>のダメージ！": ""
+    },
+    "57": {
+        "clarity_nt_char_20": "clarity_nt_char_20"
+    },
+    "58": {
+        "<pc>の　２段掘り！|岩盤に　平均<%nL_ATTACK_1>のダメージ！": ""
+    },
+    "59": {
+        "clarity_nt_char_21": "clarity_nt_char_21"
+    },
+    "60": {
+        "<pc>の　キツツキ掘り！|岩盤に　<%nL_ATTACK_1>のダメージ！": ""
+    },
+    "61": {
+        "clarity_nt_char_22": "clarity_nt_char_22"
+    },
+    "62": {
+        "<pc>の　貫通掘り！|岩盤に　平均<%nL_ATTACK_1>のダメージ！": ""
+    },
+    "63": {
+        "clarity_nt_char_23": "clarity_nt_char_23"
+    },
+    "64": {
+        "<pc>の　岩砕き！|岩盤に　<%nL_ATTACK_1>のダメージ！": ""
+    },
+    "65": {
+        "<pc>の　大振動！|岩盤に　平均<%nL_ATTACK_1>のダメージ！": ""
+    },
+    "66": {
+        "岩盤に　<%nL_ATTACK_1>のダメージ！": ""
+    },
+    "67": {
+        "clarity_nt_char_24": "clarity_nt_char_24"
+    },
+    "68": {
+        "clarity_ms_space_1": "clarity_ms_space_1"
+    },
+    "69": {
+        "<pc>は　落盤をひきおこした！": ""
+    },
+    "70": {
+        "clarity_nt_char_25": "clarity_nt_char_25"
+    },
+    "71": {
+        "<%sL_GET_ITEM>を　|こなごなにしてしまった…。": ""
+    },
+    "72": {
+        "clarity_nt_char_26": "clarity_nt_char_26"
+    },
+    "73": {
+        "岩盤に　<%nL_ATTACK_1>のダメージ！|<pc>は　岩盤をこわした！": ""
+    },
+    "74": {
+        "<pc>の　会心の一掘り！|岩盤に　<%nL_ATTACK_1>のダメージ！": ""
+    },
+    "75": {
+        "clarity_nt_char_27": "clarity_nt_char_27"
+    },
+    "76": {
+        "<pc>は　鉱脈をさがした！|<%sL_FIND_KOUMYAKU>を　<%nL_KOUMYAKU_NUM>こ見つけた！": ""
+    },
+    "77": {
+        "clarity_nt_char_28": "clarity_nt_char_28"
+    },
+    "78": {
+        "さらに　<%sL_FIND_KOUMYAKU>を　<%nL_KOUMYAKU_NUM>こ見つけた！": ""
+    },
+    "79": {
+        "<%sL_RECIPE>|<%sL_QUALITY>ができた！": ""
+    },
+    "80": {
+        "さいほう": "Sewing"
+    },
+    "81": {
+        "clarity_nt_char_29": "clarity_nt_char_29"
+    },
+    "82": {
+        "さいほう針": "Sewing Needle"
+    },
+    "83": {
+        "ぬい作業をおえて|しあげをする": ""
+    },
+    "84": {
+        "フライパン": "Frying Pan"
+    },
+    "85": {
+        "具材を焼きおえて|料理をしあげる": ""
+    },
+    "86": {
+        "clarity_nt_char_30": "clarity_nt_char_30"
+    },
+    "87": {
+        "調理": "CKG"
+    },
+    "88": {
+        "clarity_nt_char_31": "clarity_nt_char_31"
+    },
+    "89": {
+        "草刈りがまを持っていないので|花摘みができません。": ""
+    },
+    "90": {
+        "花のむれを　あきらめました。": ""
+    },
+    "91": {
+        "clarity_nt_char_32": "clarity_nt_char_32"
+    },
+    "92": {
+        "<pipipi_high>「では　どちらの衣装を |　じんべいと　交換いたしますか？<break>": ""
+    },
+    "93": {
+        "<pipipi_high>「では　どちらの衣装を |　ゆかたと　交換いたしますか？<break>": ""
+    },
+    "94": {
+        "clarity_nt_char_33": "clarity_nt_char_33"
+    },
+    "95": {
+        "花摘み": ""
+    },
+    "96": {
+        "花摘みをやめる": ""
+    },
+    "97": {
+        "かばんにしまっていないアイテムは|すべてなくなりますが　よろしいですか？|<ask>": "Items that are not stored in your bag|will be lost. Are you sure?|<ask>"
+    },
+    "98": {
+        "clarity_nt_char_34": "clarity_nt_char_34"
+    },
+    "99": {
+        "かばんがいっぱいです。|代わりにすてるアイテムを　えらんでください。": "Your bag is full. Please choose an item to|replace."
+    },
+    "100": {
+        "clarity_nt_char_35": "clarity_nt_char_35"
+    },
+    "101": {
+        "<%sL_LOST_ITEM>をすてて|<%sL_GET_ITEM>を　かばんにしまった。": ""
+    },
+    "102": {
+        "道具": "TLM"
+    },
+    "103": {
+        "clarity_nt_char_36": "clarity_nt_char_36"
+    },
+    "104": {
+        "武器": "WPN"
+    },
+    "105": {
+        "clarity_nt_char_37": "clarity_nt_char_37"
+    },
+    "106": {
+        "防具": "AMS"
+    },
+    "107": {
+        "clarity_nt_char_38": "clarity_nt_char_38"
+    },
+    "108": {
+        "木工品をしあげる": ""
+    },
+    "109": {
+        "clarity_nt_char_39": "clarity_nt_char_39"
+    },
+    "110": {
+        "武器鍛冶職人": "Weaponsmith"
+    },
+    "111": {
+        "clarity_nt_char_40": "clarity_nt_char_40"
+    },
+    "112": {
+        "木こり職人": "Lumberjack"
+    },
+    "113": {
+        "花摘み職人": "Flower Picking"
+    },
+    "114": {
+        "採掘職人": "Miner"
+    },
+    "115": {
+        "clarity_nt_char_41": "clarity_nt_char_41"
+    },
+    "116": {
+        "防具鍛冶職人": "Armorsmith"
+    },
+    "117": {
+        "clarity_nt_char_42": "clarity_nt_char_42"
+    },
+    "118": {
+        "道具鍛冶職人": "Toolsmith"
+    },
+    "119": {
+        "clarity_nt_char_43": "clarity_nt_char_43"
+    },
+    "120": {
+        "木工職人": "Woodworking"
+    },
+    "121": {
+        "clarity_nt_char_44": "clarity_nt_char_44"
+    },
+    "122": {
+        "ランプ錬金職人": "Lamp Alchemist"
+    },
+    "123": {
+        "さいほう職人": "Sewing"
+    },
+    "124": {
+        "clarity_nt_char_45": "clarity_nt_char_45"
+    },
+    "125": {
+        "陶芸職人": "Potter"
+    },
+    "126": {
+        "clarity_nt_char_46": "clarity_nt_char_46"
+    },
+    "127": {
+        "ツボ錬金職人": "Pot Alchemist"
+    },
+    "128": {
+        "clarity_nt_char_47": "clarity_nt_char_47"
+    },
+    "129": {
+        "調理職人": "Cooking"
+    },
+    "130": {
+        "clarity_nt_char_48": "clarity_nt_char_48"
+    },
+    "131": {
+        "薬剤職人": "Pharmacist"
+    },
+    "132": {
+        "clarity_nt_char_49": "clarity_nt_char_49"
+    },
+    "133": {
+        "clarity_nt_char_50": "clarity_nt_char_50"
+    },
+    "134": {
+        "clarity_nt_char_51": "clarity_nt_char_51"
+    },
+    "135": {
+        "<%sL_SYOKUNIN_TOOL>を装備していないので|<%sL_SKILL_NAME>ができません。": "You can't use <%sL_SKILL_NAME> because|you don't have a <%sL_SYOKUNIN_TOOL>."
+    },
+    "136": {
+        "鍛冶ハンマー": "Smith Hammer"
+    },
+    "137": {
+        "clarity_nt_char_52": "clarity_nt_char_52"
+    },
+    "138": {
+        "錬金ツボ": "Alchemy Pot"
+    },
+    "139": {
+        "clarity_nt_char_53": "clarity_nt_char_53"
+    },
+    "140": {
+        "錬金ランプ": "Alchemy Lamp"
+    },
+    "141": {
+        "木工刀": "Wdw Knife"
+    },
+    "142": {
+        "木工": "WDW"
+    },
+    "143": {
+        "clarity_nt_char_54": "clarity_nt_char_54"
+    },
+    "144": {
+        "ツボ錬金": "Pot Alchemy"
+    },
+    "145": {
+        "clarity_nt_char_55": "clarity_nt_char_55"
+    },
+    "146": {
+        "ランプ錬金": "Lamp Alchemy"
+    },
+    "147": {
+        "<%sL_SYOKUNIN_TOOL>は|使いこまれ　こわれてしまった。": ""
+    },
+    "148": {
+        "clarity_nt_char_56": "clarity_nt_char_56"
+    },
+    "149": {
+        "鍛冶職人": "Blacksmith"
+    },
+    "150": {
+        "clarity_nt_char_57": "clarity_nt_char_57"
+    },
+    "151": {
+        "けずる木材を|変更する": ""
+    },
+    "152": {
+        "つるはし": ""
+    },
+    "153": {
+        "clarity_nt_char_58": "clarity_nt_char_58"
+    },
+    "154": {
+        "草刈りがま": ""
+    },
+    "155": {
+        "薬剤なべ": ""
+    },
+    "156": {
+        "clarity_nt_char_59": "clarity_nt_char_59"
+    },
+    "157": {
+        "きこりオノ": ""
+    },
+    "158": {
+        "ろくろ": ""
+    },
+    "159": {
+        "<%sL_ACTION_NAME>のとくぎを　おぼえた！<bw_break>": "You learned the skill <%sL_ACTION_NAME>!"
+    },
+    "160": {
+        "clarity_nt_char_60": "clarity_nt_char_60"
+    },
+    "161": {
+        "ベッド": "Bed"
+    },
+    "162": {
+        "テーブル": ""
+    },
+    "163": {
+        "clarity_nt_char_61": "clarity_nt_char_61"
+    },
+    "164": {
+        "チェスト": ""
+    },
+    "165": {
+        "clarity_nt_char_62": "clarity_nt_char_62"
+    },
+    "166": {
+        "足": "Ft."
+    },
+    "167": {
+        "からだ下": "Legs"
+    },
+    "168": {
+        "clarity_nt_char_63": "clarity_nt_char_63"
+    },
+    "169": {
+        "アタマ": "Head"
+    },
+    "170": {
+        "ウデ": "Hands"
+    },
+    "171": {
+        "clarity_nt_char_64": "clarity_nt_char_64"
+    },
+    "172": {
+        "からだ上": "Chest"
+    },
+    "173": {
+        "clarity_nt_char_65": "clarity_nt_char_65"
+    },
+    "174": {
+        "レイピア": "Rapier"
+    },
+    "175": {
+        "clarity_nt_char_66": "clarity_nt_char_66"
+    },
+    "176": {
+        "<%sL_KOUKA>|の錬金が大成功した！": ""
+    },
+    "177": {
+        "clarity_nt_char_67": "clarity_nt_char_67"
+    },
+    "178": {
+        "<%sL_KIND_GROUP>の途中で キャンセルはできません！": ""
+    },
+    "179": {
+        "道具鍛冶": "Toolsmith"
+    },
+    "180": {
+        "clarity_nt_char_68": "clarity_nt_char_68"
+    },
+    "181": {
+        "防具鍛冶": "Armorsmith"
+    },
+    "182": {
+        "clarity_nt_char_69": "clarity_nt_char_69"
+    },
+    "183": {
+        "武器鍛冶": "Weaponsmith"
+    },
+    "184": {
+        "clarity_nt_char_70": "clarity_nt_char_70"
+    },
+    "185": {
+        "<%sL_RECIPE>を作る　コツをつかんだ！<bw_break>": ""
+    },
+    "186": {
+        "clarity_nt_char_71": "clarity_nt_char_71"
+    },
+    "187": {
+        "次のひと打ち 威力が半減！": ""
+    },
+    "188": {
+        "次のひと打ち 威力が２倍！": ""
+    },
+    "189": {
+        "地金の温度が ２００度 下がった！": ""
+    },
+    "190": {
+        "地金の温度が ２００度 上がった！": ""
+    },
+    "191": {
+        "木材が 燃えあがった！": ""
+    },
+    "192": {
+        "なんと 木目が変化した！": ""
+    },
+    "193": {
+        "clarity_nt_char_72": "clarity_nt_char_72"
+    },
+    "194": {
+        "なんと 木材が再生した！": ""
+    },
+    "195": {
+        "clarity_nt_char_73": "clarity_nt_char_73"
+    },
+    "196": {
+        "木材が やわらかくなり １.５倍削れた！": ""
+    },
+    "197": {
+        "clarity_nt_char_74": "clarity_nt_char_74"
+    },
+    "198": {
+        "木目にそってけずると 威力が１.５倍！": ""
+    },
+    "199": {
+        "<%sL_SYOKUNIN_KIND>レベルが<%nL_RANK>にアップ！": ""
+    },
+    "200": {
+        "clarity_nt_char_75": "clarity_nt_char_75"
+    },
+    "201": {
+        "この　<%sL_ITEM>を渡しますか？<yesno><break>": ""
+    },
+    "202": {
+        "clarity_nt_char_76": "clarity_nt_char_76"
+    },
+    "203": {
+        "どれを　渡しますか？<break>": ""
+    },
+    "204": {
+        "そのアイテムは　条件に合っていません。<bw_break>": ""
+    },
+    "205": {
+        "錬金効果は付けられない": "Cannot add alchemy effect."
+    },
+    "206": {
+        "（錬金効果をつけよう）": "(No Alchemy Effect)"
+    },
+    "207": {
+        "なんと 地金の鍛え度が すこし戻った！": ""
+    },
+    "208": {
+        "<%sL_RENKIN_TEXT_1>|<%sL_RENKIN_TEXT_2>|<bw_break>": ""
+    },
+    "209": {
+        "clarity_nt_char_77": "clarity_nt_char_77"
+    },
+    "210": {
+        "錬金": ""
+    },
+    "211": {
+        "clarity_nt_char_78": "clarity_nt_char_78"
+    },
+    "212": {
+        "さいほうＨＰ情報　　現在ＨＰ　／　理想値": ""
+    },
+    "213": {
+        "clarity_nt_char_79": "clarity_nt_char_79"
+    },
+    "214": {
+        "　[<%dL_QA_DEBUG_VAL1>]　<%nL_QA_DEBUG_VAL2>　／　<%nL_QA_DEBUG_VAL3>　　[<%dL_QA_DEBUG_VAL4>]　<%nL_QA_DEBUG_VAL5>　／　<%nL_QA_DEBUG_VAL6>　　[<%dL_QA_DEBUG_VAL7>]　<%nL_QA_DEBUG_VAL8>　／　<%nL_QA_DEBUG_VAL9>": ""
+    },
+    "215": {
+        "clarity_nt_char_80": "clarity_nt_char_80"
+    },
+    "216": {
+        "表面固めの効果で うちけされた！": ""
+    },
+    "217": {
+        "clarity_nt_char_81": "clarity_nt_char_81"
+    },
+    "218": {
+        "玉どめの効果で うちけされた！": ""
+    },
+    "219": {
+        "そざい特性が 発生しなくなる効果がなくなった！": ""
+    },
+    "220": {
+        "次のひとぬい 威力が２倍！": ""
+    },
+    "221": {
+        "次のひとぬい 威力が半減！": ""
+    },
+    "222": {
+        "<pc>は　職人レベルに限界を感じた！|これ以上　職人レベルを上げたいならば|ギルドマスターに　相談してみよう。": "<pc> reached the Craftsman level limit!|Go talk to your Guild Master to raise|your level limit."
+    },
+    "223": {
+        "clarity_nt_char_82": "clarity_nt_char_82"
+    },
+    "224": {
+        "今　装備している装備品ですが|本当に　渡してもよろしいですか？<yesno 2><break>": ""
+    },
+    "225": {
+        "運を天にまかせて|ルーレットの針を|回転させる": ""
+    },
+    "226": {
+        "なんと 生地のかたちが すこし戻った！": ""
+    },
+    "227": {
+        "ぬいぐるみ": "Plushie"
+    },
+    "228": {
+        "<%sL_RECIPE>|が大成功した！": ""
+    },
+    "229": {
+        "clarity_nt_char_83": "clarity_nt_char_83"
+    },
+    "230": {
+        "合成効果は付けられない": "Cannot Add Effects"
+    },
+    "231": {
+        "（合成効果をつけよう）": "(No Synthesis Effect)"
+    },
+    "232": {
+        "なんと ぬいパワーが <%sL_NUI_POWER>になった！": ""
+    },
+    "233": {
+        "弱い": "Weak"
+    },
+    "234": {
+        "clarity_nt_char_84": "clarity_nt_char_84"
+    },
+    "235": {
+        "ふつう": "Normal"
+    },
+    "236": {
+        "強い": "Hard"
+    },
+    "237": {
+        "clarity_nt_char_85": "clarity_nt_char_85"
+    },
+    "238": {
+        "会心ｘ２": ""
+    },
+    "239": {
+        "clarity_nt_char_86": "clarity_nt_char_86"
+    },
+    "240": {
+        "最強": ""
+    },
+    "241": {
+        "clarity_nt_char_87": "clarity_nt_char_87"
+    },
+    "242": {
+        "<pc>は|<%dL_EXP>+<%dL_EXP_OUEN>(おうえんボーナス) Pの|職人経験値を　かくとく！|<bw_break>": "<pc>|gained <%dL_EXP> +<%dL_EXP_OUEN> (Cheer Bonus)|Craftsman EXP!|<bw_break>"
+    },
+    "243": {
+        "<speed=0>新品の装備品です！|一度　装備すると　他の人に|渡せなくなりますが　よろしいですか？<yesno 2><break>": "<speed=0>This is brand new equipment!|Once you equip it, you can't give it|to anyone else. Is this okay?<yesno 2><close>"
+    },
+    "244": {
+        "<speed=0>|装備品は　最初に装備した人が|その装備の使用者となります！<br>|一度　使用者が決まった装備品は|他の人に　渡すことができなくなりますが|この装備品を　装備しても　よろしいですか？|<yesno><break>": ""
+    },
+    "245": {
+        "clarity_nt_char_88": "clarity_nt_char_88"
+    },
+    "246": {
+        "<pc>は|<%dL_EXP> Pの職人経験値を　かくとく！<se_nots System 7>|<bw_break>": "<pc>|gained <%dL_EXP> Craftsman EXP!<se_nots System 7>|<bw_break>"
+    },
+    "247": {
+        "奇跡の効果で 集中力が <%dL_TOOL_BONUS_PRM>アップ！": ""
+    },
+    "248": {
+        "clarity_nt_char_89": "clarity_nt_char_89"
+    },
+    "249": {
+        "<%sL_PC>が　職人仕事をしています。|職人仕事が終わるまで　お待ちください。|<convenience>で　おうえんができます。": "<%sL_PC> is currently busy crafting. Please wait|for them to finish. You can support them with|<convenience>."
+    },
+    "250": {
+        "<speed=0>新品の職人道具です！　錬金の依頼で使用すると|『とりひき』や　『旅人バザーへの出品』が|できなくなりますが　よろしいですか？|<yesno 2><break>": "<speed=0>This is a new craftsman tool! If you use it,|you won't be able to trade it or sell it on the|Traveler's Bazaar. Is this okay?|<yesno 2><break>"
+    },
+    "251": {
+        "clarity_nt_char_90": "clarity_nt_char_90"
+    },
+    "252": {
+        "仕切り壁": ""
+    },
+    "253": {
+        "clarity_nt_char_91": "clarity_nt_char_91"
+    },
+    "254": {
+        "バスタブ": "Bathtub"
+    },
+    "255": {
+        "clarity_nt_char_92": "clarity_nt_char_92"
+    },
+    "256": {
+        "ブロック": ""
+    },
+    "257": {
+        "clarity_nt_char_93": "clarity_nt_char_93"
+    },
+    "258": {
+        "ダンロ": ""
+    },
+    "259": {
+        "キッチン": "Kitchen"
+    },
+    "260": {
+        "clarity_nt_char_94": "clarity_nt_char_94"
+    },
+    "261": {
+        "オーブン": "Oven"
+    },
+    "262": {
+        "clarity_nt_char_95": "clarity_nt_char_95"
+    },
+    "263": {
+        "棚": "Shf"
+    },
+    "264": {
+        "カウンター": "Counter"
+    },
+    "265": {
+        "タンス": ""
+    },
+    "266": {
+        "かいしんの てごたえ！|具材の焼き加減を 固定した！": "I can't wait to see what you got!|I've got a lot of work to do."
+    },
+    "267": {
+        "clarity_nt_char_96": "clarity_nt_char_96"
+    },
+    "268": {
+        "なんと 具材の焼き加減が すこし下がった！": ""
+    },
+    "269": {
+        "４つのマスの 火力がアップ！": ""
+    },
+    "270": {
+        "clarity_nt_char_97": "clarity_nt_char_97"
+    },
+    "271": {
+        "４つのマスの 焼き加減がダウン！": ""
+    },
+    "272": {
+        "clarity_nt_char_98": "clarity_nt_char_98"
+    },
+    "273": {
+        "１つのマスの 火力と会心率がアップ！": ""
+    },
+    "274": {
+        "clarity_nt_char_99": "clarity_nt_char_99"
+    },
+    "275": {
+        "ギルドの依頼品": "Guild Requests"
+    },
+    "276": {
+        "や": ""
+    },
+    "277": {
+        "この装備品は　ロックしているため|渡すことができません。<bw_break>": ""
+    },
+    "278": {
+        "clarity_nt_char_100": "clarity_nt_char_100"
+    },
+    "279": {
+        "説明を見る": "See Description"
+    },
+    "280": {
+        "錬金をする": "Alchemy"
+    },
+    "281": {
+        "庭具をつくる": ""
+    },
+    "282": {
+        "clarity_nt_char_101": "clarity_nt_char_101"
+    },
+    "283": {
+        "家具をつくる": "Make Furniture"
+    },
+    "284": {
+        "clarity_nt_char_102": "clarity_nt_char_102"
+    },
+    "285": {
+        "道具をつくる": ""
+    },
+    "286": {
+        "clarity_nt_char_103": "clarity_nt_char_103"
+    },
+    "287": {
+        "武器をつくる": ""
+    },
+    "288": {
+        "clarity_nt_char_104": "clarity_nt_char_104"
+    },
+    "289": {
+        "防具をつくる": "Make Armor"
+    },
+    "290": {
+        "clarity_nt_char_105": "clarity_nt_char_105"
+    },
+    "291": {
+        "素材をつくる": ""
+    },
+    "292": {
+        "clarity_nt_char_106": "clarity_nt_char_106"
+    },
+    "293": {
+        "レシピを覚えていません": ""
+    },
+    "294": {
+        "など": "etc."
+    },
+    "295": {
+        "clarity_nt_char_107": "clarity_nt_char_107"
+    },
+    "296": {
+        "スイーツ": ""
+    },
+    "297": {
+        "clarity_nt_char_108": "clarity_nt_char_108"
+    },
+    "298": {
+        "肉料理": "Meat Dish"
+    },
+    "299": {
+        "魚料理": "Fish Dish"
+    },
+    "300": {
+        "<%sL_NAME>の納品": "<%sL_NAME> Delivery"
+    },
+    "301": {
+        "料理をつくる": ""
+    },
+    "302": {
+        "clarity_nt_char_109": "clarity_nt_char_109"
+    },
+    "303": {
+        "赤い": "Red"
+    },
+    "304": {
+        "clarity_nt_char_110": "clarity_nt_char_110"
+    },
+    "305": {
+        "緑の": ""
+    },
+    "306": {
+        "clarity_nt_char_111": "clarity_nt_char_111"
+    },
+    "307": {
+        "青い": ""
+    },
+    "308": {
+        "clarity_nt_char_112": "clarity_nt_char_112"
+    },
+    "309": {
+        "黒い": "Black"
+    },
+    "310": {
+        "clarity_nt_char_113": "clarity_nt_char_113"
+    },
+    "311": {
+        "卵料理": ""
+    },
+    "312": {
+        "パスタ＆ライス": ""
+    },
+    "313": {
+        "釣りざおをつくる": "Create Fishing Rod"
+    },
+    "314": {
+        "clarity_nt_char_114": "clarity_nt_char_114"
+    },
+    "315": {
+        "弱火焼き": "Simmer"
+    },
+    "316": {
+        "clarity_nt_char_115": "clarity_nt_char_115"
+    },
+    "317": {
+        "強火焼き": "High Heat"
+    },
+    "318": {
+        "clarity_nt_char_116": "clarity_nt_char_116"
+    },
+    "319": {
+        "具材の焼き加減は 固定されている！": ""
+    },
+    "320": {
+        "とても強力な|必殺技を使う": ""
+    },
+    "321": {
+        "七夕": ""
+    },
+    "322": {
+        "clarity_nt_char_117": "clarity_nt_char_117"
+    },
+    "323": {
+        "<%sL_KOUKA>|の錬金が超大成功！": ""
+    },
+    "324": {
+        "いま作っている|アイテムの状況を|確認する": ""
+    },
+    "325": {
+        "消費集中力が 半分になった！": ""
+    },
+    "326": {
+        "clarity_nt_char_118": "clarity_nt_char_118"
+    },
+    "327": {
+        "消費集中力が1.5倍で 会心率アップ！": ""
+    },
+    "328": {
+        "１つのマスの 威力と会心率がアップ！": ""
+    },
+    "329": {
+        "clarity_nt_char_119": "clarity_nt_char_119"
+    },
+    "330": {
+        "光の効果で ひっさつチャージ！！": ""
+    },
+    "331": {
+        "clarity_nt_char_120": "clarity_nt_char_120"
+    },
+    "332": {
+        "紫の": ""
+    },
+    "333": {
+        "clarity_nt_char_121": "clarity_nt_char_121"
+    },
+    "334": {
+        "金の": ""
+    },
+    "335": {
+        "clarity_nt_char_122": "clarity_nt_char_122"
+    },
+    "336": {
+        "<pc>は|<%sL_RECIPE>を作る　コツをつかんだので|さらに　<%dL_EXP> Pの職人経験値を　かくとく！|<bw_break>": "<pc>| has a knack for making <%sL_RECIPE>|and gained <%dL_EXP> Craftsman EXP!|<bw_break>"
+    },
+    "337": {
+        "<pc>は|<%sL_RECIPE>を　はじめて作ったので|さらに　<%dL_EXP> Pの職人経験値を　かくとく！|<bw_break>": "<pc>|made <%sL_RECIPE> for the first time|and gained <%dL_EXP> Craftsman EXP!|<bw_break>"
+    },
+    "338": {
+        "<pc>は|<%sL_KOUKA>を　はじめて付けたので|さらに　<%dL_EXP> Pの職人経験値を　かくとく！|<bw_break>": "<pc>|added <%sL_KOUKA> for the first time|and gained <%dL_EXP> Craftsman EXP!|<bw_break>"
+    },
+    "339": {
+        "clarity_nt_char_123": "clarity_nt_char_123"
+    },
+    "340": {
+        "このさかなは　ロックをしているため|渡すことは　できません。": ""
+    },
+    "341": {
+        "clarity_nt_char_124": "clarity_nt_char_124"
+    },
+    "342": {
+        "なんと 集中力が 回復した！": ""
+    },
+    "343": {
+        "clarity_nt_char_125": "clarity_nt_char_125"
+    },
+    "344": {
+        "かいしんの てごたえ！": "Critical response!"
+    },
+    "345": {
+        "ふしぎなチカラが　集まってくる……！": ""
+    },
+    "346": {
+        "clarity_nt_char_126": "clarity_nt_char_126"
+    },
+    "347": {
+        "Ｉ": ""
+    },
+    "348": {
+        "Ａ": "A"
+    },
+    "349": {
+        "Ｂ": "B"
+    },
+    "350": {
+        "Ｃ": "C"
+    },
+    "351": {
+        "Ｄ": "D"
+    },
+    "352": {
+        "Ｅ": ""
+    },
+    "353": {
+        "Ｆ": "F"
+    },
+    "354": {
+        "Ｇ": "Ｇ"
+    },
+    "355": {
+        "Ｈ": "H"
+    }
 }

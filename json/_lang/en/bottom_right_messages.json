@@ -1,0 +1,509 @@
+{
+    "1": {
+        "オートラン開始": "Autorun On"
+    },
+    "2": {
+        "<%sC_STR1>に|ついていく": "Follow|<%sC_STR1>"
+    },
+    "3": {
+        "仲間に加わった！": "Joined the party!"
+    },
+    "4": {
+        "clarity_nt_char_1": "clarity_nt_char_1"
+    },
+    "5": {
+        "<%nC_NUMBER1>時間<%nC_NUMBER2>分だけ|仲間に加わった！": "Joined the party for <%nC_NUMBER1>hr. <%nC_NUMBER2>min.!"
+    },
+    "6": {
+        "clarity_nt_char_2": "clarity_nt_char_2"
+    },
+    "7": {
+        "<%sC_STR1>着": "At <%sC_STR1>"
+    },
+    "8": {
+        "お宝ゲット！": "Received treasure!"
+    },
+    "9": {
+        "clarity_nt_char_3": "clarity_nt_char_3"
+    },
+    "10": {
+        "クエストを受けた！": "Quest Accepted!"
+    },
+    "11": {
+        "クエストが進んだ！": "Quest Updated!"
+    },
+    "12": {
+        "クエストクリア！": "Quest Clear!"
+    },
+    "13": {
+        "clarity_nt_char_4": "clarity_nt_char_4"
+    },
+    "14": {
+        "<%sC_STR1>|<%sC_STR2>ができた！": "<%sC_STR1>|<%sC_STR2> ready!"
+    },
+    "15": {
+        "clarity_nt_char_5": "clarity_nt_char_5"
+    },
+    "16": {
+        "<%sC_STR1>|の錬金が大成功した！": "<%sC_STR1>|was a great success!"
+    },
+    "17": {
+        "<%nC_NUMBER1>時間だけ|仲間に加わった！": "Joined the party for <%nC_NUMBER1> hours!"
+    },
+    "18": {
+        "clarity_nt_char_6": "clarity_nt_char_6"
+    },
+    "19": {
+        "<%nC_NUMBER1>分だけ|仲間に加わった！": "Joined the party for <%nC_NUMBER1> minutes!"
+    },
+    "20": {
+        "準備完了！": "Ready!"
+    },
+    "21": {
+        "ガンガン|いきます！": "Let's go|all out!"
+    },
+    "22": {
+        "clarity_nt_char_7": "clarity_nt_char_7"
+    },
+    "23": {
+        "バッチリ|がんばります！": "Fighting|wisely!"
+    },
+    "24": {
+        "clarity_nt_char_8": "clarity_nt_char_8"
+    },
+    "25": {
+        "いろいろ|やります！": "Using various|skills!"
+    },
+    "26": {
+        "clarity_nt_char_9": "clarity_nt_char_9"
+    },
+    "27": {
+        "いのち|だいじにします！": "Focusing on|healing!"
+    },
+    "28": {
+        "clarity_nt_char_10": "clarity_nt_char_10"
+    },
+    "29": {
+        "ＭＰ|つかいません！": "Not using|any MP!"
+    },
+    "30": {
+        "clarity_nt_char_11": "clarity_nt_char_11"
+    },
+    "31": {
+        "あなたに|まかせます！": "Leaving it|to you!"
+    },
+    "32": {
+        "ダミー１": "Dummy 1"
+    },
+    "33": {
+        "clarity_nt_char_12": "clarity_nt_char_12"
+    },
+    "34": {
+        "ダミー２": "Dummy 2"
+    },
+    "35": {
+        "clarity_nt_char_13": "clarity_nt_char_13"
+    },
+    "36": {
+        "ダミー３": "Dummy 3"
+    },
+    "37": {
+        "clarity_nt_char_14": "clarity_nt_char_14"
+    },
+    "38": {
+        "ダミー４": "Dummy 4"
+    },
+    "39": {
+        "clarity_nt_char_15": "clarity_nt_char_15"
+    },
+    "40": {
+        "続ける！": "Continue!"
+    },
+    "41": {
+        "clarity_nt_char_16": "clarity_nt_char_16"
+    },
+    "42": {
+        "クエストのさそいを|受けなかった": "Didn't receive|the quest."
+    },
+    "43": {
+        "clarity_nt_char_17": "clarity_nt_char_17"
+    },
+    "44": {
+        "クエストのさそいを|受けた！": "Accepted the|quest!"
+    },
+    "45": {
+        "clarity_nt_char_18": "clarity_nt_char_18"
+    },
+    "46": {
+        "ドルセリンチャージ！": "Dolsoline Charge!"
+    },
+    "47": {
+        "clarity_nt_char_19": "clarity_nt_char_19"
+    },
+    "48": {
+        "ドルボードの燃料が|切れた": "Dolboard tank|is empty."
+    },
+    "49": {
+        "ドルセリンを|使った！": "Dolsoline used!"
+    },
+    "50": {
+        "<%sC_STR1>行": "To <%sC_STR1>"
+    },
+    "51": {
+        "<%sC_STR1>の|キングサイズを釣った！": "Caught a King size|<%sC_STR1>!"
+    },
+    "52": {
+        "探索前の霊廟！": "Masoleum exploration!"
+    },
+    "53": {
+        "探索済みの霊廟！": "Explored masoleum!"
+    },
+    "54": {
+        "clarity_nt_char_20": "clarity_nt_char_20"
+    },
+    "55": {
+        "はじめての探索！": "Begin search!"
+    },
+    "56": {
+        "clarity_nt_char_21": "clarity_nt_char_21"
+    },
+    "57": {
+        "魚を釣り上げた！|<%nC_NUMBER1> Ｐゲット！": "Caught a fish!|Got <%nC_NUMBER1> points!"
+    },
+    "58": {
+        "clarity_nt_char_22": "clarity_nt_char_22"
+    },
+    "59": {
+        "宝箱を釣り上げた！": "Caught a chest!"
+    },
+    "60": {
+        "竜笛": "Flute"
+    },
+    "61": {
+        "clarity_nt_char_23": "clarity_nt_char_23"
+    },
+    "62": {
+        "<%sC_STR1>！": "<%sC_STR1>!"
+    },
+    "63": {
+        "タイムアップ！": "Time Up!"
+    },
+    "64": {
+        "アタリ！": "Hit!"
+    },
+    "65": {
+        "clarity_nt_char_24": "clarity_nt_char_24"
+    },
+    "66": {
+        "ハズレ！": "Miss!"
+    },
+    "67": {
+        "clarity_nt_char_25": "clarity_nt_char_25"
+    },
+    "68": {
+        "初級を選んだ！": "Beginner chosen!"
+    },
+    "69": {
+        "中級を選んだ！": "Intermediate chosen!"
+    },
+    "70": {
+        "上級を選んだ！": "Advanced chosen!"
+    },
+    "71": {
+        "<%sC_STR1>|の錬金が超大成功！": "<%sC_STR1>|alchemy perfection!"
+    },
+    "72": {
+        "clarity_nt_char_26": "clarity_nt_char_26"
+    },
+    "73": {
+        "ストーリーが進んだ！": "Story Updated!"
+    },
+    "74": {
+        "clarity_nt_char_27": "clarity_nt_char_27"
+    },
+    "75": {
+        "プレイ済み！": "Play Over!"
+    },
+    "76": {
+        "clarity_nt_char_28": "clarity_nt_char_28"
+    },
+    "77": {
+        "未プレイ！": "Not played!"
+    },
+    "78": {
+        "パーティリーダーが|強いで戦うを選んだ！": "Party leader chose|hard mode!"
+    },
+    "79": {
+        "clarity_nt_char_29": "clarity_nt_char_29"
+    },
+    "80": {
+        "パーティリーダーが|ふつうで戦うを選んだ！": "Party leader chose|normal mode!"
+    },
+    "81": {
+        "パーティリーダーが|弱いで戦うを選んだ！": "Party leader chose|easy mode!"
+    },
+    "82": {
+        "clarity_nt_char_30": "clarity_nt_char_30"
+    },
+    "83": {
+        "白の魔法陣を|起動した！": "White Magic Circle|activated!"
+    },
+    "84": {
+        "clarity_nt_char_31": "clarity_nt_char_31"
+    },
+    "85": {
+        "赤の魔法陣を|起動した！": "Red Magic Circle|activated!"
+    },
+    "86": {
+        "clarity_nt_char_32": "clarity_nt_char_32"
+    },
+    "87": {
+        "青の魔法陣を|起動した！": "Blue Magic Circle|activated!"
+    },
+    "88": {
+        "clarity_nt_char_33": "clarity_nt_char_33"
+    },
+    "89": {
+        "緑の魔法陣を|起動した！": "Green Magic Circle|activated!"
+    },
+    "90": {
+        "clarity_nt_char_34": "clarity_nt_char_34"
+    },
+    "91": {
+        "金の魔法陣を|起動した！": "Gold Magic Circle|activated!"
+    },
+    "92": {
+        "clarity_nt_char_35": "clarity_nt_char_35"
+    },
+    "93": {
+        "スキルポイントを|リセットした！": "Skill points|were reset!"
+    },
+    "94": {
+        "clarity_nt_char_36": "clarity_nt_char_36"
+    },
+    "95": {
+        "クリア前のバトル！": "Battle before clearing!"
+    },
+    "96": {
+        "クリア済みのバトル！": "Battle Cleared!"
+    },
+    "97": {
+        "clarity_nt_char_37": "clarity_nt_char_37"
+    },
+    "98": {
+        "お宝発見！": "Found treasure!"
+    },
+    "99": {
+        "お宝　ズバリ　この辺り": "Treasure is nearby..."
+    },
+    "100": {
+        "お宝　かなり近い": "Treasure really close!"
+    },
+    "101": {
+        "clarity_nt_char_38": "clarity_nt_char_38"
+    },
+    "102": {
+        "お宝　近い": "Treasure close!"
+    },
+    "103": {
+        "お宝　まだまだ遠い": "Treasure is far away..."
+    },
+    "104": {
+        "戻る！": "Return!"
+    },
+    "105": {
+        "香水の効果が　発動！|ビッグが　かかった！": "Perfume activated!|Took Big!"
+    },
+    "106": {
+        "妖精の苗木が　成長し|実が　ひとつ増えた！": "Saplings grown!|Fruits increased by 1!"
+    },
+    "107": {
+        "妖精の苗木から|実が　収穫可能になった！": "Fruits can now|be harvested!"
+    },
+    "108": {
+        "clarity_nt_char_39": "clarity_nt_char_39"
+    },
+    "109": {
+        "キャンセル！": "Cancel!"
+    },
+    "110": {
+        "clarity_nt_char_40": "clarity_nt_char_40"
+    },
+    "111": {
+        "ダンスパワーが|<%nC_NUMBER1>上がった！": "Dance Power|increased by <%nC_NUMBER1>!"
+    },
+    "112": {
+        "clarity_nt_char_41": "clarity_nt_char_41"
+    },
+    "113": {
+        "リーダーが|神聖秘文を選んだ！": "Leader chose|sacred password!"
+    },
+    "114": {
+        "回答済み！": "Answered!"
+    },
+    "115": {
+        "スライムを見つけた！": "Slime appeared!"
+    },
+    "116": {
+        "clarity_nt_char_42": "clarity_nt_char_42"
+    },
+    "117": {
+        "エンゼルスライムを見つけた！": "Angel Slime appeared!"
+    },
+    "118": {
+        "clarity_nt_char_43": "clarity_nt_char_43"
+    },
+    "119": {
+        "メタルスライムを見つけた！": "Metal Slime appeared!"
+    },
+    "120": {
+        "スライムタワー（１段目）を見つけた！": "Slime Stack (Stage 1) appeared!"
+    },
+    "121": {
+        "clarity_nt_char_44": "clarity_nt_char_44"
+    },
+    "122": {
+        "スライムタワー（２段目）を見つけた！": "Slime Stack (Stage 2) appeared!"
+    },
+    "123": {
+        "clarity_nt_char_45": "clarity_nt_char_45"
+    },
+    "124": {
+        "スライムタワー（３段目）を見つけた！": "Slime Stack (Stage 3) appeared!"
+    },
+    "125": {
+        "clarity_nt_char_46": "clarity_nt_char_46"
+    },
+    "126": {
+        "ひかりのたまを|受け取った！": "Received the|Orb of Light!"
+    },
+    "127": {
+        "clarity_nt_char_47": "clarity_nt_char_47"
+    },
+    "128": {
+        "ひかりのたまを|受け取らなかった！": "Used the|Orb of Light!"
+    },
+    "129": {
+        "けんじゃのいしを|手に入れた！": "Received the|Sage's Stone!"
+    },
+    "130": {
+        "スライムベスを見つけた！": "She-Slime appeared!"
+    },
+    "131": {
+        "clarity_nt_char_48": "clarity_nt_char_48"
+    },
+    "132": {
+        "レモンスライムを見つけた！": "Lemon Slime appeared!"
+    },
+    "133": {
+        "キングスライムを見つけた！": "King Slime appeared!"
+    },
+    "134": {
+        "クイーンスライムを見つけた！": "Queen Slime appeared!"
+    },
+    "135": {
+        "clarity_nt_char_49": "clarity_nt_char_49"
+    },
+    "136": {
+        "バイブスが|<%nC_NUMBER1>上がった！": "Vibes have|increased by <%nC_NUMBER1>!"
+    },
+    "137": {
+        "clarity_nt_char_50": "clarity_nt_char_50"
+    },
+    "138": {
+        "パーリィに参加した！": "Participated in the party!"
+    },
+    "139": {
+        "clarity_nt_char_51": "clarity_nt_char_51"
+    },
+    "140": {
+        "戦士になった！": "Became a WAR!"
+    },
+    "141": {
+        "武闘家になった！": "Became a MRT!"
+    },
+    "142": {
+        "clarity_nt_char_52": "clarity_nt_char_52"
+    },
+    "143": {
+        "魔法使いになった！": "Became a MGE!"
+    },
+    "144": {
+        "盗賊になった！": "Became a THF!"
+    },
+    "145": {
+        "援軍玉を拾った！": "Got Reinforcement Ball!"
+    },
+    "146": {
+        "clarity_nt_char_53": "clarity_nt_char_53"
+    },
+    "147": {
+        "アタマの防具のみで|いにしえのゼルメア探索！": "Search only for head|equipment in Zelmea!"
+    },
+    "148": {
+        "clarity_nt_char_54": "clarity_nt_char_54"
+    },
+    "149": {
+        "からだ上の防具のみで|いにしえのゼルメア探索！": "Search only for chest|equipment in Zelmea!"
+    },
+    "150": {
+        "からだ下の防具のみで|いにしえのゼルメア探索！": "Search only for pants|equipment in Zelmea!"
+    },
+    "151": {
+        "ウデの防具のみで|いにしえのゼルメア探索！": "Search only for glove|equipment in Zelmea!"
+    },
+    "152": {
+        "足の防具のみで|いにしえのゼルメア探索！": "Search only for feet|equipment in Zelmea!"
+    },
+    "153": {
+        "clarity_nt_char_55": "clarity_nt_char_55"
+    },
+    "154": {
+        "超上級を選んだ！": "Super Advanced chosen!"
+    },
+    "155": {
+        "clarity_nt_char_56": "clarity_nt_char_56"
+    },
+    "156": {
+        "僧侶になった！": "Became a PRI!"
+    },
+    "157": {
+        "レンジャーになった！": "Became a RNG!"
+    },
+    "158": {
+        "clarity_nt_char_57": "clarity_nt_char_57"
+    },
+    "159": {
+        "つよさⅠを選択した！": "Strength I was chosen!"
+    },
+    "160": {
+        "clarity_nt_char_58": "clarity_nt_char_58"
+    },
+    "161": {
+        "つよさⅡを選択した！": "Strength II was chosen!"
+    },
+    "162": {
+        "clarity_nt_char_59": "clarity_nt_char_59"
+    },
+    "163": {
+        "つよさⅢを選択した！": "Strength Ⅲ was chosen!"
+    },
+    "164": {
+        "clarity_nt_char_60": "clarity_nt_char_60"
+    },
+    "165": {
+        "つよさⅣを選択した！": "Strength IV was chosen!"
+    },
+    "166": {
+        "clarity_nt_char_61": "clarity_nt_char_61"
+    },
+    "167": {
+        "つよさⅤを選択した！": "Strength V was chosen!"
+    },
+    "168": {
+        "clarity_nt_char_62": "clarity_nt_char_62"
+    },
+    "169": {
+        "デスマスターになった！": "Became a DTH!"
+    }
+}

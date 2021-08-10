@@ -1,395 +1,395 @@
 {
-  "1": {
-    "ふくびき券": "Lottery Ticket"
-  },
-  "2": {
-    "スペシャルふくびき券": "Special Lottery Ticket"
-  },
-  "3": {
-    "clarity_nt_char_1": "clarity_nt_char_1"
-  },
-  "4": {
-    "ふくびき補助券": "Lottery Coupon"
-  },
-  "5": {
-    "枚": " "
-  },
-  "6": {
-    "１枚で抽せん１回|コンシェルジュに|持っていこう": "Does 1 lottery|draw at the|concierge."
-  },
-  "7": {
-    "clarity_nt_char_2": "clarity_nt_char_2"
-  },
-  "8": {
-    "５枚で抽せん１回|コンシェルジュに|持っていこう": "Trade 5 coupons|for 1 ticket at|the concierge."
-  },
-  "9": {
-    "clarity_nt_char_3": "clarity_nt_char_3"
-  },
-  "10": {
-    "ふくびきインク": "Discount Ink"
-  },
-  "11": {
-    "こ": " "
-  },
-  "12": {
-    "ふくびき券を|印刷する時に使う|魔法のインク": "Magic ink used|when printing|lottery tickets."
-  },
-  "13": {
-    "clarity_nt_char_4": "clarity_nt_char_4"
-  },
-  "14": {
-    "赤の錬金石": "Red Gem"
-  },
-  "15": {
-    "赤の光をたたえる|つややかな石|錬金強化に使おう": "Shiny gem with|red light|used on alchemy."
-  },
-  "16": {
-    "clarity_nt_char_5": "clarity_nt_char_5"
-  },
-  "17": {
-    "お月見だんご": "Moon Viewing Bell"
-  },
-  "18": {
-    "clarity_nt_char_6": "clarity_nt_char_6"
-  },
-  "19": {
-    "いっぱいあつめて|月の交換屋に|持っていこう！": "Take these to|the Moon|Exchange shop!"
-  },
-  "20": {
-    "緑の錬金石": "Green Gem"
-  },
-  "21": {
-    "黄の錬金石": "Yellow Gem"
-  },
-  "22": {
-    "青の錬金石": "Blue Gem"
-  },
-  "23": {
-    "緑の光をたたえる|つややかな石|錬金強化に使おう": "Shiny gem with|green light|used on alchemy."
-  },
-  "24": {
-    "clarity_nt_char_7": "clarity_nt_char_7"
-  },
-  "25": {
-    "黄の光をたたえる|つややかな石|錬金強化に使おう": "Shiny gem with|yellow light|used on alchemy."
-  },
-  "26": {
-    "clarity_nt_char_8": "clarity_nt_char_8"
-  },
-  "27": {
-    "青の光をたたえる|つややかな石|錬金強化に使おう": "Shiny gem with|blue light|used on alchemy."
-  },
-  "28": {
-    "clarity_nt_char_9": "clarity_nt_char_9"
-  },
-  "29": {
-    "ホロウキャンディ": "Hallow Candy"
-  },
-  "30": {
-    "clarity_nt_char_10": "clarity_nt_char_10"
-  },
-  "31": {
-    "ハロウィンの|パワーが宿った|特別なお菓子": "Powerful,|special Halloween|sweets."
-  },
-  "32": {
-    "なし": "None"
-  },
-  "33": {
-    "clarity_nt_char_11": "clarity_nt_char_11"
-  },
-  "34": {
-    "紫の錬金石": "Purple Gem"
-  },
-  "35": {
-    "紫の光をたたえる|つややかな石|錬金強化に使おう": "Shiny gem with|purple light|used on alchemy."
-  },
-  "36": {
-    "clarity_nt_char_12": "clarity_nt_char_12"
-  },
-  "37": {
-    "マイタウンメダル": "My Town Medal"
-  },
-  "38": {
-    "clarity_nt_char_13": "clarity_nt_char_13"
-  },
-  "39": {
-    "あつめると|マイタウン権利証|封書と交換できる": "Can be redeemed|for a My Town|Certificate."
-  },
-  "40": {
-    "黒の錬金石": "Black Gem"
-  },
-  "41": {
-    "黒の光をたたえる|つややかな石|錬金強化に使おう": "Shiny gem with|black light|used on alchemy."
-  },
-  "42": {
-    "clarity_nt_char_14": "clarity_nt_char_14"
-  },
-  "43": {
-    "バトルチョーカーの破片": "Battle Choker Shard"
-  },
-  "44": {
-    "ソーサリーリングの破片": "Sorcery Ring Shard"
-  },
-  "45": {
-    "銀のロザリオの破片": "Silver Rosary Shard"
-  },
-  "46": {
-    "悪霊の仮面の破片": "Demon Gods Mask Shard"
-  },
-  "47": {
-    "clarity_nt_char_15": "clarity_nt_char_15"
-  },
-  "48": {
-    "大地の竜玉の破片": "Dragon Orb Shard"
-  },
-  "49": {
-    "clarity_nt_char_16": "clarity_nt_char_16"
-  },
-  "50": {
-    "魔王のネックレスの破片": "Demon's Necklace Shard"
-  },
-  "51": {
-    "ハイドラベルトの破片": "Hydra Belt Shard"
-  },
-  "52": {
-    "clarity_nt_char_17": "clarity_nt_char_17"
-  },
-  "53": {
-    "黄金のブローチの破片": "Golden Brooch Shard"
-  },
-  "54": {
-    "clarity_nt_char_18": "clarity_nt_char_18"
-  },
-  "55": {
-    "海魔の眼甲の破片": "Sea Devil's Eye Shard"
-  },
-  "56": {
-    "clarity_nt_char_19": "clarity_nt_char_19"
-  },
-  "57": {
-    "忠誠のチョーカーの破片": "Loyalty Choker Shard"
-  },
-  "58": {
-    "アクセルギアの破片": "Accelerator Mask Shard"
-  },
-  "59": {
-    "幻界のゆびわの破片": "Phantom World Ring Shard"
-  },
-  "60": {
-    "大地の大竜玉の破片": "Great Dragon Orb Shard"
-  },
-  "61": {
-    "金のロザリオの破片": "Gold Rosary Shard"
-  },
-  "62": {
-    "魔人の勲章の破片": "Ruin's Medal Shard"
-  },
-  "63": {
-    "clarity_nt_char_20": "clarity_nt_char_20"
-  },
-  "64": {
-    "風雷のいんろうの破片": "Stormy Inro Shard"
-  },
-  "65": {
-    "clarity_nt_char_21": "clarity_nt_char_21"
-  },
-  "66": {
-    "機神の眼甲の破片": "Mech God's Eye Shard"
-  },
-  "67": {
-    "clarity_nt_char_22": "clarity_nt_char_22"
-  },
-  "68": {
-    "氷闇の月飾りの破片": "Dark and Ice Moon Shard"
-  },
-  "69": {
-    "将軍のゆびわの破片": "General's Ring Shard"
-  },
-  "70": {
-    "炎光の勾玉の破片": "Firelight Jewel Shard"
-  },
-  "71": {
-    "clarity_nt_char_23": "clarity_nt_char_23"
-  },
-  "72": {
-    "死神のピアスの破片": "Reaper's Earrings Shard"
-  },
-  "73": {
-    "忠義の勲章の破片": "Loyalty Medal Shard"
-  },
-  "74": {
-    "clarity_nt_char_24": "clarity_nt_char_24"
-  },
-  "75": {
-    "智謀の首かざりの破片": "Wisdom Necklace Shard"
-  },
-  "76": {
-    "clarity_nt_char_25": "clarity_nt_char_25"
-  },
-  "77": {
-    "剛勇のベルトの破片": "Brave Belt Shard"
-  },
-  "78": {
-    "ガナン帝国の勲章の破片": "Ganan Empire Medal Shard"
-  },
-  "79": {
-    "竜のうろこの破片": "Dragon Scale Shard"
-  },
-  "80": {
-    "clarity_nt_char_26": "clarity_nt_char_26"
-  },
-  "81": {
-    "万魔の紋章の破片": "Manma Crest Shard"
-  },
-  "82": {
-    "clarity_nt_char_27": "clarity_nt_char_27"
-  },
-  "83": {
-    "１０こ集めると|装備に復元できる|アクセサリの破片": "Collect 10 of|these to restore|an accessory."
-  },
-  "84": {
-    "たくさん集めると|装備に復元できる|アクセサリの破片": "Collect a lot|to restore an|accessory."
-  },
-  "85": {
-    "clarity_nt_char_28": "clarity_nt_char_28"
-  },
-  "86": {
-    "３０こ集めると|装備に復元できる|アクセサリの破片": "Collect 30 of|these to restore|an accessory."
-  },
-  "87": {
-    "銀の錬金石": "Silver Gem"
-  },
-  "88": {
-    "魔犬の仮面の破片": "Demon Dog Mask Shard"
-  },
-  "89": {
-    "clarity_nt_char_29": "clarity_nt_char_29"
-  },
-  "90": {
-    "銀の光をたたえる|つややかな石|錬金強化に使おう": "Shiny gem with|silver light|used on alchemy."
-  },
-  "91": {
-    "clarity_nt_char_30": "clarity_nt_char_30"
-  },
-  "92": {
-    "金の錬金石": "Gold Gem"
-  },
-  "93": {
-    "金の光をたたえる|つややかな石|錬金強化に使おう": "Shiny gem with|gold light|used on alchemy."
-  },
-  "94": {
-    "clarity_nt_char_31": "clarity_nt_char_31"
-  },
-  "95": {
-    "夢幻魔王の勲章の破片": "Dream Demon Seal Shard"
-  },
-  "96": {
-    "clarity_nt_char_32": "clarity_nt_char_32"
-  },
-  "97": {
-    "常闇の砂": "Endless Sand"
-  },
-  "98": {
-    "clarity_nt_char_33": "clarity_nt_char_33"
-  },
-  "99": {
-    "ダークゼリー": "Dark Slimedrop"
-  },
-  "100": {
-    "clarity_nt_char_34": "clarity_nt_char_34"
-  },
-  "101": {
-    "わだつみのしずく": "Sea God Droplets"
-  },
-  "102": {
-    "clarity_nt_char_35": "clarity_nt_char_35"
-  },
-  "103": {
-    "レグナライト": "Regnalite"
-  },
-  "104": {
-    "clarity_nt_char_36": "clarity_nt_char_36"
-  },
-  "105": {
-    "紫水晶の羽根": "Amethyst Feather"
-  },
-  "106": {
-    "clarity_nt_char_37": "clarity_nt_char_37"
-  },
-  "107": {
-    "紅水晶の羽根": "Ruby Feather"
-  },
-  "108": {
-    "clarity_nt_char_38": "clarity_nt_char_38"
-  },
-  "109": {
-    "翠水晶の羽根": "Emerald Feather"
-  },
-  "110": {
-    "clarity_nt_char_39": "clarity_nt_char_39"
-  },
-  "111": {
-    "黄水晶の羽根": "Citrine Feather"
-  },
-  "112": {
-    "clarity_nt_char_40": "clarity_nt_char_40"
-  },
-  "113": {
-    "蒼水晶の羽根": "Sapphire Feather"
-  },
-  "114": {
-    "clarity_nt_char_41": "clarity_nt_char_41"
-  },
-  "115": {
-    "黒水晶の羽根": "Onyx Feather"
-  },
-  "116": {
-    "clarity_nt_char_42": "clarity_nt_char_42"
-  },
-  "117": {
-    "黒曜石のような|光沢をもつ|ひとにぎりの砂": "A bit of sand|that's shiny and|obsidian like."
-  },
-  "118": {
-    "ダークに香る|プルプルゼリー|さわるとひんやり": "Dark, scented|jelly is cool|to the touch."
-  },
-  "119": {
-    "海の祝福を受けて|キラキラと輝く|きよらかなしずく": "Sea's blessing|of glittering|droplets."
-  },
-  "120": {
-    "黒曜石のような|光沢をもつ|うろこ型の鉱石": "Shiny obsidian|ore shaped like|a scale."
-  },
-  "121": {
-    "淡い紫に透き通る|ガラスのような|羽根型の結晶": "Purple, see-|through feather|shaped crystal."
-  },
-  "122": {
-    "深い紅に透き通る|ガラスのような|羽根型の結晶": "Red, see-|through feather|shaped crystal."
-  },
-  "123": {
-    "輝く翠に透き通る|ガラスのような|羽根型の結晶": "Green, see-|through feather|shaped crystal."
-  },
-  "124": {
-    "黄金色に透き通る|ガラスのような|羽根型の結晶": "Yellow, see-|through feather|shaped crystal."
-  },
-  "125": {
-    "浅い青に透き通る|ガラスのような|羽根型の結晶": "Blue, see-|through feather|shaped crystal."
-  },
-  "126": {
-    "深い黒に透き通る|ガラスのような|羽根型の結晶": "Black, see-|through feather|shaped crystal."
-  },
-  "127": {
-    "万魔の大紋章の破片": "Great Manma Crest Shard"
-  },
-  "128": {
-    "ハッピーハート": "Happy Heart"
-  },
-  "129": {
-    "モンスターの|幸せな気持ちが|形になった宝石": "Gem in the form|of a monster's|happiness."
-  },
-  "130": {
-    "clarity_nt_char_43": "clarity_nt_char_43"
-  },
-  "131": {
-    "幻界王の首かざりの破片": "Phantom King's Necklace Shard"
-  }
+    "1": {
+        "ふくびき券": "Lottery Ticket"
+    },
+    "2": {
+        "スペシャルふくびき券": "Special Lottery Ticket"
+    },
+    "3": {
+        "clarity_nt_char_1": "clarity_nt_char_1"
+    },
+    "4": {
+        "ふくびき補助券": "Lottery Coupon"
+    },
+    "5": {
+        "枚": " "
+    },
+    "6": {
+        "１枚で抽せん１回|コンシェルジュに|持っていこう": "Does 1 lottery|draw at the|concierge."
+    },
+    "7": {
+        "clarity_nt_char_2": "clarity_nt_char_2"
+    },
+    "8": {
+        "５枚で抽せん１回|コンシェルジュに|持っていこう": "Trade 5 coupons|for 1 ticket at|the concierge."
+    },
+    "9": {
+        "clarity_nt_char_3": "clarity_nt_char_3"
+    },
+    "10": {
+        "ふくびきインク": "Discount Ink"
+    },
+    "11": {
+        "こ": " "
+    },
+    "12": {
+        "ふくびき券を|印刷する時に使う|魔法のインク": "Magic ink used|when printing|lottery tickets."
+    },
+    "13": {
+        "clarity_nt_char_4": "clarity_nt_char_4"
+    },
+    "14": {
+        "赤の錬金石": "Red Gem"
+    },
+    "15": {
+        "赤の光をたたえる|つややかな石|錬金強化に使おう": "Shiny gem with|red light|used on alchemy."
+    },
+    "16": {
+        "clarity_nt_char_5": "clarity_nt_char_5"
+    },
+    "17": {
+        "お月見だんご": "Moon Viewing Bell"
+    },
+    "18": {
+        "clarity_nt_char_6": "clarity_nt_char_6"
+    },
+    "19": {
+        "いっぱいあつめて|月の交換屋に|持っていこう！": "Take these to|the Moon|Exchange shop!"
+    },
+    "20": {
+        "緑の錬金石": "Green Gem"
+    },
+    "21": {
+        "黄の錬金石": "Yellow Gem"
+    },
+    "22": {
+        "青の錬金石": "Blue Gem"
+    },
+    "23": {
+        "緑の光をたたえる|つややかな石|錬金強化に使おう": "Shiny gem with|green light|used on alchemy."
+    },
+    "24": {
+        "clarity_nt_char_7": "clarity_nt_char_7"
+    },
+    "25": {
+        "黄の光をたたえる|つややかな石|錬金強化に使おう": "Shiny gem with|yellow light|used on alchemy."
+    },
+    "26": {
+        "clarity_nt_char_8": "clarity_nt_char_8"
+    },
+    "27": {
+        "青の光をたたえる|つややかな石|錬金強化に使おう": "Shiny gem with|blue light|used on alchemy."
+    },
+    "28": {
+        "clarity_nt_char_9": "clarity_nt_char_9"
+    },
+    "29": {
+        "ホロウキャンディ": "Hallow Candy"
+    },
+    "30": {
+        "clarity_nt_char_10": "clarity_nt_char_10"
+    },
+    "31": {
+        "ハロウィンの|パワーが宿った|特別なお菓子": "Powerful,|special Halloween|sweets."
+    },
+    "32": {
+        "なし": "None"
+    },
+    "33": {
+        "clarity_nt_char_11": "clarity_nt_char_11"
+    },
+    "34": {
+        "紫の錬金石": "Purple Gem"
+    },
+    "35": {
+        "紫の光をたたえる|つややかな石|錬金強化に使おう": "Shiny gem with|purple light|used on alchemy."
+    },
+    "36": {
+        "clarity_nt_char_12": "clarity_nt_char_12"
+    },
+    "37": {
+        "マイタウンメダル": "My Town Medal"
+    },
+    "38": {
+        "clarity_nt_char_13": "clarity_nt_char_13"
+    },
+    "39": {
+        "あつめると|マイタウン権利証|封書と交換できる": "Can be redeemed|for a My Town|Deed."
+    },
+    "40": {
+        "黒の錬金石": "Black Gem"
+    },
+    "41": {
+        "黒の光をたたえる|つややかな石|錬金強化に使おう": "Shiny gem with|black light|used on alchemy."
+    },
+    "42": {
+        "clarity_nt_char_14": "clarity_nt_char_14"
+    },
+    "43": {
+        "バトルチョーカーの破片": "Dogged Collar Shard"
+    },
+    "44": {
+        "ソーサリーリングの破片": "Sorcery Ring Shard"
+    },
+    "45": {
+        "銀のロザリオの破片": "Silver Rosary Shard"
+    },
+    "46": {
+        "悪霊の仮面の破片": "Demon Gods Mask Shard"
+    },
+    "47": {
+        "clarity_nt_char_15": "clarity_nt_char_15"
+    },
+    "48": {
+        "大地の竜玉の破片": "Dragon Orb Shard"
+    },
+    "49": {
+        "clarity_nt_char_16": "clarity_nt_char_16"
+    },
+    "50": {
+        "魔王のネックレスの破片": "Demon's Necklace Shard"
+    },
+    "51": {
+        "ハイドラベルトの破片": "Hydra Belt Shard"
+    },
+    "52": {
+        "clarity_nt_char_17": "clarity_nt_char_17"
+    },
+    "53": {
+        "黄金のブローチの破片": "Golden Brooch Shard"
+    },
+    "54": {
+        "clarity_nt_char_18": "clarity_nt_char_18"
+    },
+    "55": {
+        "海魔の眼甲の破片": "Sea Devil's Eye Shard"
+    },
+    "56": {
+        "clarity_nt_char_19": "clarity_nt_char_19"
+    },
+    "57": {
+        "忠誠のチョーカーの破片": "Loyalty Choker Shard"
+    },
+    "58": {
+        "アクセルギアの破片": "Accelerator Mask Shard"
+    },
+    "59": {
+        "幻界のゆびわの破片": "Phantom Ring Shard"
+    },
+    "60": {
+        "大地の大竜玉の破片": "Great Dragon Orb Shard"
+    },
+    "61": {
+        "金のロザリオの破片": "Gold Rosary Shard"
+    },
+    "62": {
+        "魔人の勲章の破片": "Ruin's Medal Shard"
+    },
+    "63": {
+        "clarity_nt_char_20": "clarity_nt_char_20"
+    },
+    "64": {
+        "風雷のいんろうの破片": "Stormy Inro Shard"
+    },
+    "65": {
+        "clarity_nt_char_21": "clarity_nt_char_21"
+    },
+    "66": {
+        "機神の眼甲の破片": "Mech God's Eye Shard"
+    },
+    "67": {
+        "clarity_nt_char_22": "clarity_nt_char_22"
+    },
+    "68": {
+        "氷闇の月飾りの破片": "Dark and Ice Moon Shard"
+    },
+    "69": {
+        "将軍のゆびわの破片": "General's Ring Shard"
+    },
+    "70": {
+        "炎光の勾玉の破片": "Firelight Jewel Shard"
+    },
+    "71": {
+        "clarity_nt_char_23": "clarity_nt_char_23"
+    },
+    "72": {
+        "死神のピアスの破片": "Reaper's Earrings Shard"
+    },
+    "73": {
+        "忠義の勲章の破片": "Loyalty Medal Shard"
+    },
+    "74": {
+        "clarity_nt_char_24": "clarity_nt_char_24"
+    },
+    "75": {
+        "智謀の首かざりの破片": "Wisdom Necklace Shard"
+    },
+    "76": {
+        "clarity_nt_char_25": "clarity_nt_char_25"
+    },
+    "77": {
+        "剛勇のベルトの破片": "Brave Belt Shard"
+    },
+    "78": {
+        "ガナン帝国の勲章の破片": "Ganan Empire Medal Shard"
+    },
+    "79": {
+        "竜のうろこの破片": "Dragon Scale Shard"
+    },
+    "80": {
+        "clarity_nt_char_26": "clarity_nt_char_26"
+    },
+    "81": {
+        "万魔の紋章の破片": "Manma Crest Shard"
+    },
+    "82": {
+        "clarity_nt_char_27": "clarity_nt_char_27"
+    },
+    "83": {
+        "１０こ集めると|装備に復元できる|アクセサリの破片": "Collect 10 of|these to restore|an accessory."
+    },
+    "84": {
+        "たくさん集めると|装備に復元できる|アクセサリの破片": "Collect a lot|to restore an|accessory."
+    },
+    "85": {
+        "clarity_nt_char_28": "clarity_nt_char_28"
+    },
+    "86": {
+        "３０こ集めると|装備に復元できる|アクセサリの破片": "Collect 30 of|these to restore|an accessory."
+    },
+    "87": {
+        "銀の錬金石": "Silver Gem"
+    },
+    "88": {
+        "魔犬の仮面の破片": "Demon Dog Mask Shard"
+    },
+    "89": {
+        "clarity_nt_char_29": "clarity_nt_char_29"
+    },
+    "90": {
+        "銀の光をたたえる|つややかな石|錬金強化に使おう": "Shiny gem with|silver light|used on alchemy."
+    },
+    "91": {
+        "clarity_nt_char_30": "clarity_nt_char_30"
+    },
+    "92": {
+        "金の錬金石": "Gold Gem"
+    },
+    "93": {
+        "金の光をたたえる|つややかな石|錬金強化に使おう": "Shiny gem with|gold light|used on alchemy."
+    },
+    "94": {
+        "clarity_nt_char_31": "clarity_nt_char_31"
+    },
+    "95": {
+        "夢幻魔王の勲章の破片": "Dream Demon Seal Shard"
+    },
+    "96": {
+        "clarity_nt_char_32": "clarity_nt_char_32"
+    },
+    "97": {
+        "常闇の砂": "Dark Sand"
+    },
+    "98": {
+        "clarity_nt_char_33": "clarity_nt_char_33"
+    },
+    "99": {
+        "ダークゼリー": "Dark Slimedrop"
+    },
+    "100": {
+        "clarity_nt_char_34": "clarity_nt_char_34"
+    },
+    "101": {
+        "わだつみのしずく": "Sea God Droplets"
+    },
+    "102": {
+        "clarity_nt_char_35": "clarity_nt_char_35"
+    },
+    "103": {
+        "レグナライト": "Regnalite"
+    },
+    "104": {
+        "clarity_nt_char_36": "clarity_nt_char_36"
+    },
+    "105": {
+        "紫水晶の羽根": "Amethyst Feather"
+    },
+    "106": {
+        "clarity_nt_char_37": "clarity_nt_char_37"
+    },
+    "107": {
+        "紅水晶の羽根": "Ruby Feather"
+    },
+    "108": {
+        "clarity_nt_char_38": "clarity_nt_char_38"
+    },
+    "109": {
+        "翠水晶の羽根": "Emerald Feather"
+    },
+    "110": {
+        "clarity_nt_char_39": "clarity_nt_char_39"
+    },
+    "111": {
+        "黄水晶の羽根": "Citrine Feather"
+    },
+    "112": {
+        "clarity_nt_char_40": "clarity_nt_char_40"
+    },
+    "113": {
+        "蒼水晶の羽根": "Sapphire Feather"
+    },
+    "114": {
+        "clarity_nt_char_41": "clarity_nt_char_41"
+    },
+    "115": {
+        "黒水晶の羽根": "Onyx Feather"
+    },
+    "116": {
+        "clarity_nt_char_42": "clarity_nt_char_42"
+    },
+    "117": {
+        "黒曜石のような|光沢をもつ|ひとにぎりの砂": "A bit of sand|that's shiny and|obsidian like."
+    },
+    "118": {
+        "ダークに香る|プルプルゼリー|さわるとひんやり": "Dark, scented|jelly is cool|to the touch."
+    },
+    "119": {
+        "海の祝福を受けて|キラキラと輝く|きよらかなしずく": "Sea's blessing|of glittering|droplets."
+    },
+    "120": {
+        "黒曜石のような|光沢をもつ|うろこ型の鉱石": "Shiny obsidian|ore shaped like|a scale."
+    },
+    "121": {
+        "淡い紫に透き通る|ガラスのような|羽根型の結晶": "Purple, see-|through feather|shaped crystal."
+    },
+    "122": {
+        "深い紅に透き通る|ガラスのような|羽根型の結晶": "Red, see-|through feather|shaped crystal."
+    },
+    "123": {
+        "輝く翠に透き通る|ガラスのような|羽根型の結晶": "Green, see-|through feather|shaped crystal."
+    },
+    "124": {
+        "黄金色に透き通る|ガラスのような|羽根型の結晶": "Yellow, see-|through feather|shaped crystal."
+    },
+    "125": {
+        "浅い青に透き通る|ガラスのような|羽根型の結晶": "Blue, see-|through feather|shaped crystal."
+    },
+    "126": {
+        "深い黒に透き通る|ガラスのような|羽根型の結晶": "Black, see-|through feather|shaped crystal."
+    },
+    "127": {
+        "万魔の大紋章の破片": "Great Manma Crest Shard"
+    },
+    "128": {
+        "ハッピーハート": "Happy Heart"
+    },
+    "129": {
+        "モンスターの|幸せな気持ちが|形になった宝石": "Gem in the form|of a monster's|happiness."
+    },
+    "130": {
+        "clarity_nt_char_43": "clarity_nt_char_43"
+    },
+    "131": {
+        "幻界王の首かざりの破片": "Phantom King's Necklace Shard"
+    }
 }
