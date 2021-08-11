@@ -1290,19 +1290,19 @@
         "clarity_nt_char_430": "clarity_nt_char_430"
     },
     "431": {
-        "すみ攻撃　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　{color=skyblue}呪文{color=default}の威力ダウン（－１０）": ""
+        "すみ攻撃　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　{color=skyblue}呪文{color=default}の威力ダウン（－１０）": "Ink Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=skyblue}Spell{color=default} Power Down (-10)"
     },
     "432": {
-        "触手れんだ　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ６のダメージ": ""
+        "触手れんだ　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ６のダメージ": "Tentacle Smash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x6"
     },
     "433": {
         "clarity_nt_char_433": "clarity_nt_char_433"
     },
     "434": {
-        "すみ攻撃　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": ""
+        "すみ攻撃　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": "Ink Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> Blinded"
     },
     "435": {
-        "あばれる　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "あばれる　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Expose　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "436": {
         "clarity_nt_char_436": "clarity_nt_char_436"
