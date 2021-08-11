@@ -981,16 +981,16 @@
         "clarity_nt_char_327": "clarity_nt_char_327"
     },
     "328": {
-        "破竹の一撃　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　使ったあと１回休み": ""
+        "破竹の一撃　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　使ったあと１回休み": "Bamboo Strike　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> User Incapacitated"
     },
     "329": {
         "clarity_nt_char_329": "clarity_nt_char_329"
     },
     "330": {
-        "けもの突き　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　獣系に{color=orange}６０{color=default}のダメージ": ""
+        "けもの突き　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　獣系に{color=orange}６０{color=default}のダメージ": "Cattle Prod　{color=orange}<%dM_Damage_1>{color=default} to <%sM_Target_1>　{color=orange}60{color=default} to Beast-types"
     },
     "331": {
-        "さみだれ突き　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ４のダメージ": ""
+        "さみだれ突き　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ４のダメージ": "Multi Thrust　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x4"
     },
     "332": {
         "clarity_nt_char_332": "clarity_nt_char_332"
