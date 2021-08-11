@@ -846,13 +846,13 @@
         "clarity_nt_char_282": "clarity_nt_char_282"
     },
     "283": {
-        "ドラムクラッシュ　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　物質系に{color=orange}６０{color=default}": ""
+        "ドラムクラッシュ　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　物質系に{color=orange}６０{color=default}": "Monster Masher　{color=orange}<%dM_Damage_1>{color=default} to <%sM_Target_1>　{color=orange}60{color=default} to Material-types"
     },
     "284": {
         "clarity_nt_char_284": "clarity_nt_char_284"
     },
     "285": {
-        "武器をなめている": ""
+        "武器をなめている": "Lick Weapon"
     },
     "286": {
         "clarity_nt_char_286": "clarity_nt_char_286"
