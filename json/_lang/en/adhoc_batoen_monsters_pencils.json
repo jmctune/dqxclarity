@@ -447,13 +447,13 @@
         "にくきゅうパンチ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　魅了する": "Paw Punch　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "150": {
-        "{color=skyblue}メラミ{color=default}　　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=skyblue}メラミ{color=default}　　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Frizzle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "151": {
         "clarity_nt_char_151": "clarity_nt_char_151"
     },
     "152": {
-        "{color=skyblue}メラガイアー{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=skyblue}メラガイアー{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kafrizzle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "153": {
         "clarity_nt_char_153": "clarity_nt_char_153"
