@@ -1158,7 +1158,7 @@
         "clarity_nt_char_386": "clarity_nt_char_386"
     },
     "387": {
-        "ナスパンチ　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ３のダメージ": ""
+        "ナスパンチ　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ３のダメージ": "Woeberpunch　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x3"
     },
     "388": {
         "clarity_nt_char_388": "clarity_nt_char_388"
