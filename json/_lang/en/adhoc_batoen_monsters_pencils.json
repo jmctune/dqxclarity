@@ -390,19 +390,19 @@
         "clarity_nt_char_130": "clarity_nt_char_130"
     },
     "131": {
-        "こうげき　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "こうげき　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "132": {
         "clarity_nt_char_132": "clarity_nt_char_132"
     },
     "133": {
-        "{color=skyblue}イオラ{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=skyblue}イオラ{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Boom{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "134": {
         "clarity_nt_char_134": "clarity_nt_char_134"
     },
     "135": {
-        "ようすをみている": ""
+        "ようすをみている": "Watching"
     },
     "136": {
         "clarity_nt_char_136": "clarity_nt_char_136"
