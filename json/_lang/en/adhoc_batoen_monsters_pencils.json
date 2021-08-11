@@ -1176,7 +1176,7 @@
         "clarity_nt_char_392": "clarity_nt_char_392"
     },
     "393": {
-        "さそうおどり　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　踊らせる": "Happy Dance!　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Dance"
+        "さそうおどり　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　踊らせる": "Happy Dance!　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Start Dancing"
     },
     "394": {
         "しかし　なにも起こらなかった": "But nothing happened..."
@@ -1353,16 +1353,16 @@
         "clarity_nt_char_451": "clarity_nt_char_451"
     },
     "452": {
-        "踊っている": ""
+        "踊っている": "Dance"
     },
     "453": {
-        "さそうおどり　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　踊らせる": ""
+        "さそうおどり　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　踊らせる": "Happy Dance!　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Start Dancing"
     },
     "454": {
         "clarity_nt_char_454": "clarity_nt_char_454"
     },
     "455": {
-        "おうえん　　　　テンションアップ": ""
+        "おうえん　　　　テンションアップ": "Egg On　Tension Up"
     },
     "456": {
         "clarity_nt_char_456": "clarity_nt_char_456"
