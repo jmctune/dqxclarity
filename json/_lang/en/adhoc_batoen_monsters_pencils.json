@@ -1134,7 +1134,7 @@
         "clarity_nt_char_378": "clarity_nt_char_378"
     },
     "379": {
-        "{color=skyblue}バギクロス{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=skyblue}バギクロス{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kaswoosh{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "380": {
         "clarity_nt_char_380": "clarity_nt_char_380"
