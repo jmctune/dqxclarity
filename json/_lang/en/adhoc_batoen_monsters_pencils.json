@@ -1386,13 +1386,13 @@
         "タマげたニャー　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Crazy Meow　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "463": {
-        "{color=skyblue}ギラグレイド{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=skyblue}ギラグレイド{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kasizzle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "464": {
         "clarity_nt_char_464": "clarity_nt_char_464"
     },
     "465": {
-        "りゅうせいよび　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "りゅうせいよび　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Call Meteor　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "466": {
         "{color=purple}かがやくいき{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
