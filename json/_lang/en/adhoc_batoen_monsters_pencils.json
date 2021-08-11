@@ -1041,13 +1041,13 @@
         "グランドインパクト　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Grand Impact　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "348": {
-        "{color=purple}暗黒のきり{color=default}　　<%sM_Target_1>の攻撃力ダウン（－１０）": ""
+        "{color=purple}暗黒のきり{color=default}　　<%sM_Target_1>の攻撃力ダウン（－１０）": "{color=purple}Dark Fog{color=default}　<%sM_Target_1> Attack Down (-10)"
     },
     "349": {
         "clarity_nt_char_349": "clarity_nt_char_349"
     },
     "350": {
-        "ためる　　　　テンションアップ": ""
+        "ためる　　　　テンションアップ": "Psyche Up　Tension Up"
     },
     "351": {
         "{color=purple}やみのブレス{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": ""
