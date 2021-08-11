@@ -2751,13 +2751,13 @@
         "<%sL_MINION>　ついてクンの　連れ歩きをやめた！": ""
     },
     "918": {
-        "自宅の<%sL_PARTS_NAME>を 作成した！": ""
+        "自宅の<%sL_PARTS_NAME>を 作成した！": "Created <%sL_PARTS_NAME>!"
     },
     "919": {
         "clarity_nt_char_303": "clarity_nt_char_303"
     },
     "920": {
-        "<%sL_OWNER>の家の<%sL_PARTS_NAME>を 作成した！": ""
+        "<%sL_OWNER>の家の<%sL_PARTS_NAME>を 作成した！": "Created <%sL_OWNER>'s House <%sL_PARTS_NAME>!"
     },
     "921": {
         "<%sM_item>　<%dM_item_num>個": ""
