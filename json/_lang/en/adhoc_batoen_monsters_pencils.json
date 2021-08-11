@@ -1239,7 +1239,7 @@
         "clarity_nt_char_413": "clarity_nt_char_413"
     },
     "414": {
-        "{color=skyblue}ヒャダルコ{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=skyblue}ヒャダルコ{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Crackle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "415": {
         "飛び跳ねている": ""
