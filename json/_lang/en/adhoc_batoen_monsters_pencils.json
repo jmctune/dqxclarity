@@ -1170,7 +1170,7 @@
         "clarity_nt_char_390": "clarity_nt_char_390"
     },
     "391": {
-        "ナスチョップ　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ３のダメージ": ""
+        "ナスチョップ　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ３のダメージ": "Woeberchop　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x3"
     },
     "392": {
         "clarity_nt_char_392": "clarity_nt_char_392"
