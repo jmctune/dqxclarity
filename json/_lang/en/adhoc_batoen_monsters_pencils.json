@@ -915,7 +915,7 @@
         "{color=purple}どくのきり{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　毒にする": "{color=purple}Poison Fog{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Poison"
     },
     "306": {
-        "{color=purple}やけつくいき{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　マヒさせる": ""
+        "{color=purple}やけつくいき{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　マヒさせる": "{color=purple}Burning Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Paralysis"
     },
     "307": {
         "clarity_nt_char_307": "clarity_nt_char_307"
