@@ -948,13 +948,13 @@
         "clarity_nt_char_316": "clarity_nt_char_316"
     },
     "317": {
-        "{color=purple}こおりのいき{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=purple}こおりのいき{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Chilly Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "318": {
         "clarity_nt_char_318": "clarity_nt_char_318"
     },
     "319": {
-        "{color=purple}ひかりのブレス{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=purple}ひかりのブレス{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Light Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "320": {
         "clarity_nt_char_320": "clarity_nt_char_320"
