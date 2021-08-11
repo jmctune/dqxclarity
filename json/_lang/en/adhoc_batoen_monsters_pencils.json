@@ -885,7 +885,7 @@
         "オノ攻撃　　　　もう１回　右をふる": "Axe Attack　Roll Right Side"
     },
     "296": {
-        "{color=purple}はげしいほのお{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=purple}はげしいほのお{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Inferno{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "297": {
         "clarity_nt_char_297": "clarity_nt_char_297"
