@@ -1335,7 +1335,7 @@
         "眠る　　　　　　ＨＰ{color=lime}３０{color=default}かいふく　使ったあと眠る": "Sleep　Recover {color=lime}30{color=default} HP While Sleeping"
     },
     "446": {
-        "{color=purple}しゃくねつ{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=purple}しゃくねつ{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Scorch{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "447": {
         "clarity_nt_char_447": "clarity_nt_char_447"
