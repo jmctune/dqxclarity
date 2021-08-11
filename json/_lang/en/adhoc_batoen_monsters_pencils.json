@@ -444,7 +444,7 @@
         "clarity_nt_char_148": "clarity_nt_char_148"
     },
     "149": {
-        "にくきゅうパンチ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　魅了する": ""
+        "にくきゅうパンチ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　魅了する": "Paw Punch　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "150": {
         "{color=skyblue}メラミ{color=default}　　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
