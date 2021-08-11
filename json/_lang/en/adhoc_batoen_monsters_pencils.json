@@ -1125,10 +1125,10 @@
         "clarity_nt_char_375": "clarity_nt_char_375"
     },
     "376": {
-        "盾ガード　　　このターン打撃ダメージを受けない": ""
+        "盾ガード　　　このターン打撃ダメージを受けない": "Block　Nullify Physical Damage This Turn"
     },
     "377": {
-        "{color=skyblue}ディバインスペル{color=default}　<%sM_Target_1>を{color=skyblue}呪文{color=default}に弱くする（－２０）": ""
+        "{color=skyblue}ディバインスペル{color=default}　<%sM_Target_1>を{color=skyblue}呪文{color=default}に弱くする（－２０）": "{color=skyblue}Divine Intervention{color=default}　Lower <%sM_Target_1> {color=skyblue}Spell{color=default} Damage (-20)"
     },
     "378": {
         "clarity_nt_char_378": "clarity_nt_char_378"
