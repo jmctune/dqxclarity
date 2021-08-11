@@ -420,19 +420,19 @@
         "呪文　　　　　　　　もう１回　右をふる": "Spell　　Roll Right Side"
     },
     "141": {
-        "おしつぶし　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "おしつぶし　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Crush　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "142": {
-        "こうげき　　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "こうげき　　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "143": {
-        "{color=skyblue}イオグランデ{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=skyblue}イオグランデ{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kaboomle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "144": {
         "clarity_nt_char_144": "clarity_nt_char_144"
     },
     "145": {
-        "{color=skyblue}ベホイミ{color=default}　　　ＨＰ{color=lime}２０{color=default}かいふく": ""
+        "{color=skyblue}ベホイミ{color=default}　　　ＨＰ{color=lime}２０{color=default}かいふく": "{color=skyblue}Midheal{color=default}　Recover {color=lime}20{color=default} HP"
     },
     "146": {
         "clarity_nt_char_146": "clarity_nt_char_146"
