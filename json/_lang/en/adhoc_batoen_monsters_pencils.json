@@ -1050,13 +1050,13 @@
         "ためる　　　　テンションアップ": "Psyche Up　Tension Up"
     },
     "351": {
-        "{color=purple}やみのブレス{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": ""
+        "{color=purple}やみのブレス{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "{color=purple}Dark Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} Damage to <%sM_Target_2>"
     },
     "352": {
         "clarity_nt_char_352": "clarity_nt_char_352"
     },
     "353": {
-        "ふみつけ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "ふみつけ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Trample　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "354": {
         "clarity_nt_char_354": "clarity_nt_char_354"
