@@ -807,7 +807,7 @@
         "{color=skyblue}ベホイミ{color=default}　　　　　　ＨＰ{color=lime}２０{color=default}かいふく": "{color=skyblue}Midheal{color=default}　Recover {color=lime}20{color=default} HP"
     },
     "270": {
-        "{color=skyblue}ザオリク{color=default}　　　　　　味方１体をＨＰ{color=lime}３０{color=default}で復活": ""
+        "{color=skyblue}ザオリク{color=default}　　　　　　味方１体をＨＰ{color=lime}３０{color=default}で復活": "{color=skyblue}Kazing{color=default}　Revive An Ally With {color=lime}30{color=default} HP"
     },
     "271": {
         "キメている": ""
