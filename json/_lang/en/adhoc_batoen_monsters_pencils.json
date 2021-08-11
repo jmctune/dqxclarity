@@ -1242,10 +1242,10 @@
         "{color=skyblue}ヒャダルコ{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Crackle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "415": {
-        "飛び跳ねている": ""
+        "飛び跳ねている": "Jumping"
     },
     "416": {
-        "{color=skyblue}ベホイム{color=default}　　　　ＨＰ{color=lime}４０{color=default}かいふく": ""
+        "{color=skyblue}ベホイム{color=default}　　　　ＨＰ{color=lime}４０{color=default}かいふく": "{color=skyblue}Moreheal{color=default}　Recover {color=lime}40{color=default} HP"
     },
     "417": {
         "ボディプレス　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
