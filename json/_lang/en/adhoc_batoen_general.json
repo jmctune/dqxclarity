@@ -9,13 +9,13 @@
         "<%sL_DECK_NAME>は|すでに　装備しているデッキです。|<end>": "Deck \"<%sL_DECK_NAME>\" is already|equipped.|<end>"
     },
     "4": {
-        "<se_nots Joutyu_SE 24>|<%sL_DECK_NAME>を　装備しました。|<end>": ""
+        "<se_nots Joutyu_SE 24>|<%sL_DECK_NAME>を　装備しました。|<end>": "<se_nots Joutyu_SE 24>|\"<%sL_DECK_NAME>\" equipped.|<end>"
     },
     "5": {
-        "どうぐが　２個　セットされていませんが|このデッキを　装備しても　よろしいですか？|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": ""
+        "どうぐが　２個　セットされていませんが|このデッキを　装備しても　よろしいですか？|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "You don't have 2 Erasers set for this deck.|Do you still want to equip it?|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
     },
     "6": {
-        "バトエンが　３本　セットされていないため　|このデッキは　装備できません。|<end>": ""
+        "バトエンが　３本　セットされていないため　|このデッキは　装備できません。|<end>": "You cannot equip this deck. Please set 3|Batoen first.|<end>"
     },
     "7": {
         "バトエンとは　えんぴつの６つの面に|様々なアクションが　書かれたものを|順番に振って　戦うゲームです。|<br>|バトエンを使ったバトル　「バトエンファイト」は|ターン制で　おこなわれます。|<br>|ターンの最初に　各プレイヤーは|「たたかう」「どうぐ」「チェンジ」の|いずれかのコマンドを　選びます。|<br>|全員のコマンドが　決まったら|「すばやさ」の高いバトエンから|順番にアクションを　おこなっていきます。|<br>|ターン終了時　バトエンが残っているプレイヤーが|２人以上いれば　次のターンに進み|ふたたび　コマンドを　選択します。|<br>|これを　くり返して　|最後まで　生き残ったプレイヤーが|勝者となります！|<end>": ""
