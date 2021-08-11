@@ -702,16 +702,16 @@
         "clarity_nt_char_234": "clarity_nt_char_234"
     },
     "235": {
-        "{color=skyblue}マホカンタ{color=default}　　　　２ターンの間　{color=skyblue}呪文{color=default}を跳ね返す": ""
+        "{color=skyblue}マホカンタ{color=default}　　　　２ターンの間　{color=skyblue}呪文{color=default}を跳ね返す": "{color=skyblue}Bounce{color=default}　Reflect {color=skyblue}Spell{color=default} Attacks for 2 Turns"
     },
     "236": {
-        "ツメできりさいた　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ２のダメージ": ""
+        "ツメできりさいた　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ２のダメージ": "Rip and Tear　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x2"
     },
     "237": {
         "clarity_nt_char_237": "clarity_nt_char_237"
     },
     "238": {
-        "アサシンアタック　もう１回　右をふる": ""
+        "アサシンアタック　もう１回　右をふる": "Assassin Attack　Roll Right Side"
     },
     "239": {
         "clarity_nt_char_239": "clarity_nt_char_239"
