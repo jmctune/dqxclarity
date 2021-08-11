@@ -1320,16 +1320,16 @@
         "{color=purple}暗黒のきり{color=default}　　　<%sM_Target_1>の攻撃力ダウン（－１０）": "{color=purple}Dark Fog{color=default}　<%sM_Target_1> Attack Down (-10)"
     },
     "441": {
-        "{color=purple}かがやくいき{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=purple}かがやくいき{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Shining Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "442": {
         "clarity_nt_char_442": "clarity_nt_char_442"
     },
     "443": {
-        "{color=purple}暗黒のきり{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": ""
+        "{color=purple}暗黒のきり{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": "{color=purple}Dark Fog{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Blinded"
     },
     "444": {
-        "ダブルアタック　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ２のダメージ": ""
+        "ダブルアタック　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ２のダメージ": "Double Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x2"
     },
     "445": {
         "眠る　　　　　　ＨＰ{color=lime}３０{color=default}かいふく　使ったあと眠る": ""
