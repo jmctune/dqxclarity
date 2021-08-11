@@ -933,16 +933,16 @@
         "clarity_nt_char_311": "clarity_nt_char_311"
     },
     "312": {
-        "{color=purple}かがやくいき{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": ""
+        "{color=purple}かがやくいき{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "{color=purple}Shining Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} Damage to <%sM_Target_2>"
     },
     "313": {
-        "テールスイング　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "テールスイング　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Tail Swing　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "314": {
         "clarity_nt_char_314": "clarity_nt_char_314"
     },
     "315": {
-        "連続こうげき　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ２のダメージ": ""
+        "連続こうげき　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ２のダメージ": "Barrage Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x2"
     },
     "316": {
         "clarity_nt_char_316": "clarity_nt_char_316"
