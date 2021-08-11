@@ -750,7 +750,7 @@
         "{color=purple}しゃくねつのいき{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Scorching Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "251": {
-        "{color=purple}こごえるふぶき{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=purple}こごえるふぶき{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Freezing Blizzard{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "252": {
         "clarity_nt_char_252": "clarity_nt_char_252"
