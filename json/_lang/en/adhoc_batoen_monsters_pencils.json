@@ -801,10 +801,10 @@
         "clarity_nt_char_267": "clarity_nt_char_267"
     },
     "268": {
-        "コウモリ召喚　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "コウモリ召喚　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Summon Bats　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "269": {
-        "{color=skyblue}ベホイミ{color=default}　　　　　　ＨＰ{color=lime}２０{color=default}かいふく": ""
+        "{color=skyblue}ベホイミ{color=default}　　　　　　ＨＰ{color=lime}２０{color=default}かいふく": "{color=skyblue}Midheal{color=default}　Recover {color=lime}20{color=default} HP"
     },
     "270": {
         "{color=skyblue}ザオリク{color=default}　　　　　　味方１体をＨＰ{color=lime}３０{color=default}で復活": ""
