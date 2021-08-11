@@ -717,13 +717,13 @@
         "clarity_nt_char_239": "clarity_nt_char_239"
     },
     "240": {
-        "すみ攻撃　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": ""
+        "すみ攻撃　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": "Ink Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Blinded"
     },
     "241": {
-        "するどく突いた　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "するどく突いた　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Hard Poke　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "242": {
-        "急所を突いた　　<%sM_Target_1>の息の根をとめる": ""
+        "急所を突いた　　<%sM_Target_1>の息の根をとめる": "Insta-Kill　Instant Death to <%sM_Target_1>"
     },
     "243": {
         "clarity_nt_char_243": "clarity_nt_char_243"
