@@ -522,7 +522,7 @@
         "clarity_nt_char_174": "clarity_nt_char_174"
     },
     "175": {
-        "黄泉送り　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　ゾンビ系に{color=orange}６０{color=default}のダメージ": "Deliverance　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}60{color=default} Damage to Zombie-types"
+        "黄泉送り　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　ゾンビ系に{color=orange}６０{color=default}のダメージ": "Deliverance　{color=orange}<%dM_Damage_1>{color=default} to <%sM_Target_1>　{color=orange}60{color=default} to Zombie-types"
     },
     "176": {
         "ばくれつ棍　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ４のダメージ": "Multi Rod　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x4"
