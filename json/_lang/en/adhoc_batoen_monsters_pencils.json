@@ -687,16 +687,16 @@
         "{color=skyblue}ドルマドン{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kazammle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "230": {
-        "フェザーストーム　もう１回　右をふる": ""
+        "フェザーストーム　もう１回　右をふる": "Featherstorm　Roll Right Side"
     },
     "231": {
         "clarity_nt_char_231": "clarity_nt_char_231"
     },
     "232": {
-        "おいかぜ　　　　　２ターン　{color=purple}ブレス{color=default}を跳ね返す": ""
+        "おいかぜ　　　　　２ターン　{color=purple}ブレス{color=default}を跳ね返す": "Tailwind　Reflect {color=purple}Breath{color=default} Attacks for 2 Turns"
     },
     "233": {
-        "嵐のようにはばたいた　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ６のダメージ": ""
+        "嵐のようにはばたいた　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ６のダメージ": "Stormy Flap　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x6"
     },
     "234": {
         "clarity_nt_char_234": "clarity_nt_char_234"
