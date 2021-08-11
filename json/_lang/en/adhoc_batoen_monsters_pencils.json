@@ -669,7 +669,7 @@
         "呪文　　　　　　もう１回　右をふる": "Spell　Roll Right Side"
     },
     "224": {
-        "りゅうせいよび　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "Dragon's Reserve　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} Damage to <%sM_Target_2>"
+        "りゅうせいよび　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "Call Meteor　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} Damage to <%sM_Target_2>"
     },
     "225": {
         "clarity_nt_char_225": "clarity_nt_char_225"
@@ -756,10 +756,10 @@
         "clarity_nt_char_252": "clarity_nt_char_252"
     },
     "253": {
-        "{color=purple}かがやくいき{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": ""
+        "{color=purple}かがやくいき{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "{color=purple}Shining Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} Damage to <%sM_Target_2>"
     },
     "254": {
-        "{color=skyblue}ザキ{color=default}　　　　　　<%sM_Target_1>の息の根をとめる": ""
+        "{color=skyblue}ザキ{color=default}　　　　　　<%sM_Target_1>の息の根をとめる": "{color=skyblue}Whack{color=default}　Instant Death to <%sM_Target_1>"
     },
     "255": {
         "clarity_nt_char_255": "clarity_nt_char_255"
