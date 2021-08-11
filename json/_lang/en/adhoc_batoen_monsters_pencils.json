@@ -1062,19 +1062,19 @@
         "clarity_nt_char_354": "clarity_nt_char_354"
     },
     "355": {
-        "ミサイル　<%sM_Target_1>のＨＰを３０以下にする": ""
+        "ミサイル　<%sM_Target_1>のＨＰを３０以下にする": "Missile　Reduce <%sM_Target_1> HP to 30"
     },
     "356": {
         "clarity_nt_char_356": "clarity_nt_char_356"
     },
     "357": {
-        "{color=skyblue}スカラ{color=default}　　守備力アップ（＋１０）": ""
+        "{color=skyblue}スカラ{color=default}　　守備力アップ（＋１０）": "{color=skyblue}Buff{color=default}　Defense Up (+10)"
     },
     "358": {
         "clarity_nt_char_358": "clarity_nt_char_358"
     },
     "359": {
-        "呪いこうげき　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　呪いをかける": ""
+        "呪いこうげき　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　呪いをかける": "Curse Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Inflict Curse"
     },
     "360": {
         "{color=skyblue}ドルマ{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
