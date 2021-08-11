@@ -1377,13 +1377,13 @@
         "回転アタック　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Spin Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "460": {
-        "毒針　　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　　毒にする": ""
+        "毒針　　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　　毒にする": "Needle　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Poison"
     },
     "461": {
-        "{color=skyblue}スカラ{color=default}　　　　　守備力アップ（＋１０）": ""
+        "{color=skyblue}スカラ{color=default}　　　　　守備力アップ（＋１０）": "{color=skyblue}Buff{color=default}　Defense Up (+10)"
     },
     "462": {
-        "タマげたニャー　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "タマげたニャー　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Crazy Meow　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "463": {
         "{color=skyblue}ギラグレイド{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
