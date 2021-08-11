@@ -921,13 +921,13 @@
         "clarity_nt_char_307": "clarity_nt_char_307"
     },
     "308": {
-        "{color=purple}こごえるふぶき{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=purple}こごえるふぶき{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Freezing Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "309": {
         "clarity_nt_char_309": "clarity_nt_char_309"
     },
     "310": {
-        "{color=purple}こおりのいき{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=purple}こおりのいき{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Chilly Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "311": {
         "clarity_nt_char_311": "clarity_nt_char_311"
