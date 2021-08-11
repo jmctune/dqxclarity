@@ -345,16 +345,16 @@
         "clarity_nt_char_115": "clarity_nt_char_115"
     },
     "116": {
-        "のしかかり　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Stretching　{color=orange}<%nM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+        "のしかかり　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Stretching　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "117": {
         "clarity_nt_char_117": "clarity_nt_char_117"
     },
     "118": {
-        "{color=skyblue}マヒャド{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=skyblue}マヒャド{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kacrack{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "119": {
-        "ぼうぎょ　　このターン　受けるダメージ－３０": ""
+        "ぼうぎょ　　このターン　受けるダメージ－３０": "Defend　Damage taken -30 this turn."
     },
     "120": {
         "clarity_nt_char_120": "clarity_nt_char_120"
