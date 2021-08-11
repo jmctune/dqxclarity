@@ -609,19 +609,19 @@
         "clarity_nt_char_203": "clarity_nt_char_203"
     },
     "204": {
-        "{color=skyblue}ルカナン{color=default}　　　　　<%sM_Target_1>の守備力ダウン（－１０）": ""
+        "{color=skyblue}ルカナン{color=default}　　　　　<%sM_Target_1>の守備力ダウン（－１０）": "{color=skyblue}Sap{color=default}　<%sM_Target_1> Defense Down (-10)"
     },
     "205": {
-        "ニヤニヤ笑っている": ""
+        "ニヤニヤ笑っている": "Toothy Grin"
     },
     "206": {
-        "さそうおどり　　　<%sM_Target_1>を踊らせる": ""
+        "さそうおどり　　　<%sM_Target_1>を踊らせる": "Happy Dance!　<%sM_Target_1> Starts Dancing"
     },
     "207": {
         "clarity_nt_char_207": "clarity_nt_char_207"
     },
     "208": {
-        "宝石ジャグリング　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ６のダメージ": ""
+        "宝石ジャグリング　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ６のダメージ": "Jewel Juggle　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x6"
     },
     "209": {
         "clarity_nt_char_209": "clarity_nt_char_209"
