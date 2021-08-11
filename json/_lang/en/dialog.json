@@ -4959,7 +4959,7 @@
         "clarity_nt_char_560": "clarity_nt_char_560"
     },
     "1654": {
-        "<speed=0><%sM_PTMember>が　そろいませんでした。": ""
+        "<speed=0><%sM_PTMember>が　そろいませんでした。": "<speed=0>A party member didn't accept the invite."
     },
     "1655": {
         "<speed=0><color_yellow>|『達人のオーブ』の説明です！|<br>|バトルやクエストで経験値を得ると|達人のオーブに　達人経験値が　貯まります。|<br>|達人経験値が一定値　貯まれば|達人のオーブが　レベルアップ！|達人ポイントが得られます。": ""

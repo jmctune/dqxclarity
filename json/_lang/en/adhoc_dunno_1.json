@@ -1,33 +1,33 @@
 {
     "1": {
-        "仲間と一緒に　この先に行くためには|一緒に行きたい仲間の準備が|完了している必要があります。|<select>|仲間の準備完了を待つ|準備完了している仲間だけで先に行く|この先に行くのをやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case 3>|<break>|<case_cancel>|<break>|<case_end>": ""
+        "仲間と一緒に　この先に行くためには|一緒に行きたい仲間の準備が|完了している必要があります。|<select>|仲間の準備完了を待つ|準備完了している仲間だけで先に行く|この先に行くのをやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case 3>|<break>|<case_cancel>|<break>|<case_end>": "In order to proceed with your party, all party|members you want to proceed with must be|ready.|<select>|Wait for Party|Proceed with Ready Members|Stop Waiting|<select_end>|<case 1>|<close>|<case 2>|<break>|<case 3>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "2": {
-        "仲間全員の　準備が完了していませんが|本当に　先に行っていいですか？|<yesno>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": ""
+        "仲間全員の　準備が完了していませんが|本当に　先に行っていいですか？|<yesno>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": "All party members aren't ready yet. Are you|sure you want to proceed?|<yesno>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "3": {
-        "移動の準備は　キャンセルされました。": ""
+        "移動の準備は　キャンセルされました。": "Proceed preparations were cancelled."
     },
     "4": {
-        "移動の準備を　キャンセルしていいですか？<yesno_nc><break>": ""
+        "移動の準備を　キャンセルしていいですか？<yesno_nc><break>": "Cancel preparations to proceed?<yesno_nc><break>"
     },
     "5": {
-        "これより先には　パーティリーダーの|準備が完了しないと　行くことができません。|<select>|このまま待つ|移動をやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": ""
+        "これより先には　パーティリーダーの|準備が完了しないと　行くことができません。|<select>|このまま待つ|移動をやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": "You won't be able to proceed until the party|leader's preparations are complete.|<select>|Keep Waiting|Stop Waiting|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "6": {
-        "準備完了！": ""
+        "準備完了！": "Ready!"
     },
     "7": {
-        "クエストを受注した日付": ""
+        "クエストを受注した日付": "Received Quest On"
     },
     "8": {
-        "クエストをクリアした日付": ""
+        "クエストをクリアした日付": "Cleared Quest On"
     },
     "9": {
-        "初回報酬": ""
+        "初回報酬": "Reward"
     },
     "10": {
-        "リプレイ報酬": ""
+        "リプレイ報酬": "Replay Reward"
     },
     "11": {
         "ymd": ""

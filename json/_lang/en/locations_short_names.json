@@ -1164,7 +1164,7 @@
         "clarity_nt_char_123": "clarity_nt_char_123"
     },
     "389": {
-        "ガートラント城 入口": ""
+        "ガートラント城 入口": "Gartlant Castle Entrance"
     },
     "390": {
         "clarity_nt_char_124": "clarity_nt_char_124"
@@ -1818,7 +1818,7 @@
         "clarity_nt_char_195": "clarity_nt_char_195"
     },
     "607": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>炎の間": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>炎の間": "<%sW_MAP_NAME><%sW_DELIMITER>Fire Room"
     },
     "608": {
         "clarity_nt_char_196": "clarity_nt_char_196"
@@ -2175,13 +2175,13 @@
         "clarity_nt_char_235": "clarity_nt_char_235"
     },
     "726": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>貯蔵庫": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>貯蔵庫": "<%sW_MAP_NAME><%sW_DELIMITER>Storage"
     },
     "727": {
         "clarity_nt_char_236": "clarity_nt_char_236"
     },
     "728": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>王族の部屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>王族の部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Royal Chamber"
     },
     "729": {
         "clarity_nt_char_237": "clarity_nt_char_237"
@@ -2208,7 +2208,7 @@
         "ツスクルの村 入口": ""
     },
     "737": {
-        "ガートラント城下町 入口": ""
+        "ガートラント城下町 入口": "Gartlant Castle Town Entrance"
     },
     "738": {
         "clarity_nt_char_240": "clarity_nt_char_240"
@@ -2634,10 +2634,10 @@
         "clarity_nt_char_277": "clarity_nt_char_277"
     },
     "879": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>兵士長の部屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>兵士長の部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Staff Chief Room"
     },
     "880": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>聖騎士団執務室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>聖騎士団執務室": "<%sW_MAP_NAME><%sW_DELIMITER>Holy Knight Office"
     },
     "881": {
         "clarity_nt_char_278": "clarity_nt_char_278"
