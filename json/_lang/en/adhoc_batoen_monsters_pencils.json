@@ -459,19 +459,19 @@
         "clarity_nt_char_153": "clarity_nt_char_153"
     },
     "154": {
-        "復活の杖　　　　　味方１体をＨＰ{color=lime}３０{color=default}で復活": ""
+        "復活の杖　　　　　味方１体をＨＰ{color=lime}３０{color=default}で復活": "Zing Stick　Revive 1 Ally to {color=lime}30{color=default} HP"
     },
     "155": {
         "clarity_nt_char_155": "clarity_nt_char_155"
     },
     "156": {
-        "こうげき　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "こうげき　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "157": {
         "clarity_nt_char_157": "clarity_nt_char_157"
     },
     "158": {
-        "顔をあらっている": ""
+        "顔をあらっている": "Cleaning my face"
     },
     "159": {
         "clarity_nt_char_159": "clarity_nt_char_159"
