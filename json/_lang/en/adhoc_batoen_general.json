@@ -1,12 +1,12 @@
 {
     "1": {
-        "フリー対戦の相手を　探します。|４人そろうと　バトエンを　プレイできます。|準備は　よろしいですか？|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": ""
+        "フリー対戦の相手を　探します。|４人そろうと　バトエンを　プレイできます。|準備は　よろしいですか？|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Look for a free match opponent. You'll play|with four people. Are you ready?|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
     },
     "2": {
-        "対戦相手が　見つかりませんでした。|引き続き　対戦相手を探しますか？|<yesno><break>": ""
+        "対戦相手が　見つかりませんでした。|引き続き　対戦相手を探しますか？|<yesno><break>": "No opponents were found. Do you want to search|again?|<yesno><break>"
     },
     "3": {
-        "<%sL_DECK_NAME>は|すでに　装備しているデッキです。|<end>": ""
+        "<%sL_DECK_NAME>は|すでに　装備しているデッキです。|<end>": "Deck \"<%sL_DECK_NAME>\" is already|equipped.|<end>"
     },
     "4": {
         "<se_nots Joutyu_SE 24>|<%sL_DECK_NAME>を　装備しました。|<end>": ""
