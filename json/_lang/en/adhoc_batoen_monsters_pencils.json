@@ -534,10 +534,10 @@
         "{color=skyblue}ギラグレイド{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "{color=skyblue}Kasizzle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}<%nM_Damage_2>{color=default} Damage to <%sM_Target_2>"
     },
     "179": {
-        "{color=purple}ひのいき{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=purple}ひのいき{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Fire Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "180": {
-        "ぼうぎょ　このターン　受けるダメージ－３０": ""
+        "ぼうぎょ　このターン　受けるダメージ－３０": "Defend　Damage Taken -30 This Turn"
     },
     "181": {
         "超ちからため　もう１回　右をふる": ""
