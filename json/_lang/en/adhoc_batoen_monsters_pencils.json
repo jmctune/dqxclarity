@@ -822,7 +822,7 @@
         "clarity_nt_char_274": "clarity_nt_char_274"
     },
     "275": {
-        "{color=skyblue}イオラ{color=default}　　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=skyblue}イオラ{color=default}　　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Boom{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "276": {
         "clarity_nt_char_276": "clarity_nt_char_276"
