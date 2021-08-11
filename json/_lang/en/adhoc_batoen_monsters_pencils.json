@@ -1029,7 +1029,7 @@
         "はげしく斬りつけた　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Violent Slash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "344": {
-        "マヒャド斬り　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "マヒャド斬り　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Kacrackle Slash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "345": {
         "矢をはなった　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
