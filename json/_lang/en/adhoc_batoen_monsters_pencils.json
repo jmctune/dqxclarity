@@ -1011,7 +1011,7 @@
         "バードカッター　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　守備力を１０下げる": "Bird Cutter　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Defense -10"
     },
     "338": {
-        "バードスラッシュ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ４のダメージ": ""
+        "バードスラッシュ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ４のダメージ": "Bird Slash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x4"
     },
     "339": {
         "clarity_nt_char_339": "clarity_nt_char_339"
