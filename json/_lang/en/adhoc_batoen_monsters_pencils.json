@@ -810,13 +810,13 @@
         "{color=skyblue}ザオリク{color=default}　　　　　　味方１体をＨＰ{color=lime}３０{color=default}で復活": "{color=skyblue}Kazing{color=default}　Revive An Ally With {color=lime}30{color=default} HP"
     },
     "271": {
-        "キメている": ""
+        "キメている": "Deciding"
     },
     "272": {
-        "こうげき　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": ""
+        "こうげき　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} Damage to <%sM_Target_2>"
     },
     "273": {
-        "呪文　　　もう１回　右をふる": ""
+        "呪文　　　もう１回　右をふる": "Spell　Roll Right Side"
     },
     "274": {
         "clarity_nt_char_274": "clarity_nt_char_274"
