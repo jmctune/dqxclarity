@@ -552,7 +552,7 @@
         "かいしんのいちげき　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Critical Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "185": {
-        "はやぶさ斬り　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ２のダメージ": ""
+        "はやぶさ斬り　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ２のダメージ": "Falcon Slash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x2"
     },
     "186": {
         "clarity_nt_char_186": "clarity_nt_char_186"
