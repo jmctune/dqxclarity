@@ -1098,28 +1098,28 @@
         "clarity_nt_char_366": "clarity_nt_char_366"
     },
     "367": {
-        "足ばらい　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　転ばせる": ""
+        "足ばらい　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　転ばせる": "Leg Sweep　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Knock Down"
     },
     "368": {
-        "呪いこうげき　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　呪いをかける": ""
+        "呪いこうげき　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　呪いをかける": "Curse Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Inflict Curse"
     },
     "369": {
         "clarity_nt_char_369": "clarity_nt_char_369"
     },
     "370": {
-        "ブレードガード　このターン打撃ダメージを受けない": ""
+        "ブレードガード　このターン打撃ダメージを受けない": "Greatsword Guard　Nullify Physical Damage This Turn"
     },
     "371": {
         "clarity_nt_char_371": "clarity_nt_char_371"
     },
     "372": {
-        "ジゴスパーク　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": ""
+        "ジゴスパーク　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "Lightning Storm　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} Damage to <%sM_Target_2>"
     },
     "373": {
         "clarity_nt_char_373": "clarity_nt_char_373"
     },
     "374": {
-        "{color=skyblue}ドルクマ{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=skyblue}ドルクマ{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Zammle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "375": {
         "clarity_nt_char_375": "clarity_nt_char_375"
