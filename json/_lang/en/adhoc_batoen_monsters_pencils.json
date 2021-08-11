@@ -1332,7 +1332,7 @@
         "ダブルアタック　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ２のダメージ": "Double Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x2"
     },
     "445": {
-        "眠る　　　　　　ＨＰ{color=lime}３０{color=default}かいふく　使ったあと眠る": ""
+        "眠る　　　　　　ＨＰ{color=lime}３０{color=default}かいふく　使ったあと眠る": "Sleep　Recover {color=lime}30{color=default} HP While Sleeping"
     },
     "446": {
         "{color=purple}しゃくねつ{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
