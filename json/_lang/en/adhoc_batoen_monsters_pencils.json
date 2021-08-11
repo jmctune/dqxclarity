@@ -1188,13 +1188,13 @@
         "{color=skyblue}イオラ{color=default}　　　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Boom{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "397": {
-        "たいあたり　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "たいあたり　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Body Slam　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "398": {
         "clarity_nt_char_398": "clarity_nt_char_398"
     },
     "399": {
-        "眠りの葉　　　<%sM_Target_1>を眠らせる": ""
+        "眠りの葉　　　<%sM_Target_1>を眠らせる": "Sleepy Leaf　<%sM_Target_1> Falls Asleep"
     },
     "400": {
         "clarity_nt_char_400": "clarity_nt_char_400"
