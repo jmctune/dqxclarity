@@ -330,13 +330,13 @@
         "clarity_nt_char_110": "clarity_nt_char_110"
     },
     "111": {
-        "やくそう　ＨＰ{color=lime}１０{color=default}かいふく": ""
+        "やくそう　ＨＰ{color=lime}１０{color=default}かいふく": "Medical Herb　{color=lime}10{color=default} HP Recovered"
     },
     "112": {
         "clarity_nt_char_112": "clarity_nt_char_112"
     },
     "113": {
-        "がったい　次のターンから　右をふる": ""
+        "がったい　次のターンから　右をふる": "Combine　Right Side Next Turn"
     },
     "114": {
         "キングプレス　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
