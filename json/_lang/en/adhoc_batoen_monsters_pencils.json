@@ -1374,7 +1374,7 @@
         "clarity_nt_char_458": "clarity_nt_char_458"
     },
     "459": {
-        "回転アタック　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "回転アタック　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Spin Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "460": {
         "毒針　　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　　毒にする": ""
