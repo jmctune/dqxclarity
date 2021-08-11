@@ -627,19 +627,19 @@
         "clarity_nt_char_209": "clarity_nt_char_209"
     },
     "210": {
-        "メガトンパンチ　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "メガトンパンチ　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Megaton Punch　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "211": {
         "clarity_nt_char_211": "clarity_nt_char_211"
     },
     "212": {
-        "ためる　　　　　　テンションアップ": ""
+        "ためる　　　　　　テンションアップ": "Psyche Up　Tension Up"
     },
     "213": {
-        "ファイナルブロー　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　使ったあと眠る": ""
+        "ファイナルブロー　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　使ったあと眠る": "Lights Out　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　User Falls Asleep"
     },
     "214": {
-        "メルキドの秘法　　さいだいＨＰを{color=lime}６０{color=default}増やす": ""
+        "メルキドの秘法　　さいだいＨＰを{color=lime}６０{color=default}増やす": "Cantlin's Secret　Max HP Increased By {color=lime}60{color=default}"
     },
     "215": {
         "clarity_nt_char_215": "clarity_nt_char_215"
