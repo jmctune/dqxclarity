@@ -324,7 +324,7 @@
         "clarity_nt_char_108": "clarity_nt_char_108"
     },
     "109": {
-        "こうげき　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Attack 　<%sM_Target_1> {color=orange}<%dM_Damage_1>{color=default} Damage"
+        "こうげき　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "110": {
         "clarity_nt_char_110": "clarity_nt_char_110"
