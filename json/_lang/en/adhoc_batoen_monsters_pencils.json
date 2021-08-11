@@ -489,19 +489,19 @@
         "タイガークロー　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ３のダメージ": "Hard Claw　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x3"
     },
     "164": {
-        "ツメとぐニャー　　　攻撃力アップ（＋１０）": ""
+        "ツメとぐニャー　　　攻撃力アップ（＋１０）": "Sharpen Claws　Attack Up (+10)"
     },
     "165": {
-        "ミサイルキック　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "ミサイルキック　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Missile Kick　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "166": {
-        "ばくれつけん　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ４のダメージ": ""
+        "ばくれつけん　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ４のダメージ": "Multifists　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x4"
     },
     "167": {
-        "ドロップキック　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "ドロップキック　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Dropkick　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "168": {
-        "すてみ　　　　　攻撃力＋１０　守備力が１０下がる": ""
+        "すてみ　　　　　攻撃力＋１０　守備力が１０下がる": "Double Up　Attack +10　Defense -10"
     },
     "169": {
         "clarity_nt_char_169": "clarity_nt_char_169"
