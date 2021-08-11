@@ -576,16 +576,16 @@
         "clarity_nt_char_192": "clarity_nt_char_192"
     },
     "193": {
-        "反撃のかまえ　このターン　打撃攻撃にカウンターする": ""
+        "反撃のかまえ　このターン　打撃攻撃にカウンターする": "Counter Stance　Counter Attacks This Turn"
     },
     "194": {
-        "回転キック　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "回転キック　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Spin Kick　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "195": {
         "clarity_nt_char_195": "clarity_nt_char_195"
     },
     "196": {
-        "{color=skyblue}メラゾーマ{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=skyblue}メラゾーマ{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kafrizz{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "197": {
         "clarity_nt_char_197": "clarity_nt_char_197"
