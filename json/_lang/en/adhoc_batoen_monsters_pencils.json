@@ -1248,28 +1248,28 @@
         "{color=skyblue}ベホイム{color=default}　　　　ＨＰ{color=lime}４０{color=default}かいふく": "{color=skyblue}Moreheal{color=default}　Recover {color=lime}40{color=default} HP"
     },
     "417": {
-        "ボディプレス　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "ボディプレス　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Body Press　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "418": {
         "clarity_nt_char_418": "clarity_nt_char_418"
     },
     "419": {
-        "{color=skyblue}バギ{color=default}　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": ""
+        "{color=skyblue}バギ{color=default}　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "{color=skyblue}Woosh{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} Damage to <%sM_Target_2>"
     },
     "420": {
-        "リーフスラッシュ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ３のダメージ": ""
+        "リーフスラッシュ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ３のダメージ": "Leaf Slash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x3"
     },
     "421": {
         "clarity_nt_char_421": "clarity_nt_char_421"
     },
     "422": {
-        "魔界樹の葉　　　　味方１体をＨＰ{color=lime}３０{color=default}で復活": ""
+        "魔界樹の葉　　　　味方１体をＨＰ{color=lime}３０{color=default}で復活": "Makai Tree Leaf　Revive 1 Ally At {color=lime}30{color=default} HP"
     },
     "423": {
         "clarity_nt_char_423": "clarity_nt_char_423"
     },
     "424": {
-        "たいあたり　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "たいあたり　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Body Slam　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "425": {
         "clarity_nt_char_425": "clarity_nt_char_425"
