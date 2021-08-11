@@ -1473,10 +1473,10 @@
         "<%sL_HIRYU>の <%sL_SLOT>を 元の色に戻した！": ""
     },
     "492": {
-        "<%sL_OMEKASHI>を 作成した！": ""
+        "<%sL_OMEKASHI>を 作成した！": "Created <%sL_OMEKASHI>!"
     },
     "493": {
-        "<%sL_TICKET>を使い <%sL_OMEKASHI>を 作成した！": ""
+        "<%sL_TICKET>を使い <%sL_OMEKASHI>を 作成した！": "Used <%sL_TICKET> and created <%sL_OMEKASHI>!"
     },
     "494": {
         "<%sL_HIRYU>の名前を <%sL_HIRYU_NAME>に 変更した。": ""
@@ -1812,7 +1812,7 @@
         "clarity_nt_char_196": "clarity_nt_char_196"
     },
     "605": {
-        "<%sM_item>を 錬金釜で作成した！": ""
+        "<%sM_item>を 錬金釜で作成した！": "Alchemized <%sM_item>!"
     },
     "606": {
         "錬金釜で 錬金が完了した": ""
