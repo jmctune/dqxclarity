@@ -783,19 +783,19 @@
         "ホラーフェイス　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　おびえさせる": "Horror Face　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Frighten"
     },
     "262": {
-        "ポワポワダンス　　　２ターンの間　{color=lime}２０{color=default}ずつかいふく": "Gentle Dance　Recover {color=lime}20{color=default} HP Each Turn For 2 Turns"
+        "ポワポワダンス　　　２ターンの間　{color=lime}２０{color=default}ずつかいふく": "Gentle Dance　Recover {color=lime}20{color=default} HP Each Turn for 2 Turns"
     },
     "263": {
         "clarity_nt_char_263": "clarity_nt_char_263"
     },
     "264": {
-        "{color=skyblue}メラガイアー{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=skyblue}メラガイアー{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kafrizzle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "265": {
         "clarity_nt_char_265": "clarity_nt_char_265"
     },
     "266": {
-        "{color=skyblue}マホステ{color=default}　　　２ターン　{color=skyblue}呪文{color=default}のダメージを受けない": ""
+        "{color=skyblue}マホステ{color=default}　　　２ターン　{color=skyblue}呪文{color=default}のダメージを受けない": "{color=skyblue}Snub{color=default}　Nullify {color=skyblue}Spell{color=default} Damage for 2 Turns"
     },
     "267": {
         "clarity_nt_char_267": "clarity_nt_char_267"
