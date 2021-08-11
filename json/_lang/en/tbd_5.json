@@ -1182,10 +1182,10 @@
         "<%sM_monster>と 別れた。": ""
     },
     "395": {
-        "<%sM_omekashi>を 作成した！": ""
+        "<%sM_omekashi>を 作成した！": "Created <%sM_omekashi>!"
     },
     "396": {
-        "<%sM_ticket>を使い <%sM_omekashi>を 作成した！": ""
+        "<%sM_ticket>を使い <%sM_omekashi>を 作成した！": "Used <%sM_ticket> and created <%sM_omekashi>!"
     },
     "397": {
         "モンスター酒場で <%sM_item>を <%nM_item_num>個 手に入れた！": ""
@@ -1788,13 +1788,13 @@
         "clarity_nt_char_192": "clarity_nt_char_192"
     },
     "597": {
-        "<%sM_item>を <%dM_item_num>個 錬金釜に入れた！": ""
+        "<%sM_item>を <%dM_item_num>個 錬金釜に入れた！": "Put <%dM_item_num> <%sM_item> into the Alchemy Pot!"
     },
     "598": {
         "clarity_nt_char_193": "clarity_nt_char_193"
     },
     "599": {
-        "<%sM_item>を 錬金釜に入れた！": ""
+        "<%sM_item>を 錬金釜に入れた！": "Put <%sM_item> into the Alchemy Pot!"
     },
     "600": {
         "clarity_nt_char_194": "clarity_nt_char_194"
