@@ -1017,16 +1017,16 @@
         "clarity_nt_char_339": "clarity_nt_char_339"
     },
     "340": {
-        "連続こうげき　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ２のダメージ": ""
+        "連続こうげき　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ２のダメージ": "Barrage Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x2"
     },
     "341": {
-        "ビームこうげき　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "ビームこうげき　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Beam Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "342": {
-        "弓をひきしぼった　　もう１回　右をふる": ""
+        "弓をひきしぼった　　もう１回　右をふる": "Draw Bow　Roll Right Side"
     },
     "343": {
-        "はげしく斬りつけた　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "はげしく斬りつけた　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Violent Slash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "344": {
         "マヒャド斬り　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
