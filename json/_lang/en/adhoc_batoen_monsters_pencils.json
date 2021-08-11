@@ -1404,19 +1404,19 @@
         "{color=purple}やみのブレス{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Dark Breath{color=default}　<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "469": {
-        "ジゴスパーク　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "ジゴスパーク　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Lightning Storm　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "470": {
-        "<%sL_BATOEN_NAME>と|勝手に交代した！": ""
+        "<%sL_BATOEN_NAME>と|勝手に交代した！": "<%sL_BATOEN_NAME> replaced|selfishly!"
     },
     "471": {
-        "<%sL_BATOEN_NAME>が|復活した！": ""
+        "<%sL_BATOEN_NAME>が|復活した！": "<%sL_BATOEN_NAME>|was revived!"
     },
     "472": {
         "clarity_nt_char_472": "clarity_nt_char_472"
     },
     "473": {
-        "こうげき！": ""
+        "こうげき！": "Attack!"
     },
     "474": {
         "まわりこまれた！": ""
