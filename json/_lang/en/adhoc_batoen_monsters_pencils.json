@@ -558,19 +558,19 @@
         "clarity_nt_char_186": "clarity_nt_char_186"
     },
     "187": {
-        "つるぎのまい　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "つるぎのまい　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Swords Dance　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "188": {
         "clarity_nt_char_188": "clarity_nt_char_188"
     },
     "189": {
-        "{color=skyblue}バイキルト{color=default}　　攻撃力アップ（＋２０）": ""
+        "{color=skyblue}バイキルト{color=default}　　攻撃力アップ（＋２０）": "{color=skyblue}Oomphle{color=default}　Attack Up (+20)"
     },
     "190": {
         "clarity_nt_char_190": "clarity_nt_char_190"
     },
     "191": {
-        "{color=skyblue}ラリホーマ{color=default}　　<%sM_Target_1>を眠らせる": ""
+        "{color=skyblue}ラリホーマ{color=default}　　<%sM_Target_1>を眠らせる": "{color=skyblue}Kasnooze{color=default}　<%sM_Target_1> Falls Asleep"
     },
     "192": {
         "clarity_nt_char_192": "clarity_nt_char_192"
