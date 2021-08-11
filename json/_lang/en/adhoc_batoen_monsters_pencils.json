@@ -591,7 +591,7 @@
         "clarity_nt_char_197": "clarity_nt_char_197"
     },
     "198": {
-        "{color=skyblue}メラミ{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=skyblue}メラミ{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Frizzle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "199": {
         "clarity_nt_char_199": "clarity_nt_char_199"
