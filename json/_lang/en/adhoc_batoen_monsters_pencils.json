@@ -477,10 +477,10 @@
         "clarity_nt_char_159": "clarity_nt_char_159"
     },
     "160": {
-        "ライガークラッシュ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ５のダメージ": ""
+        "ライガークラッシュ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ５のダメージ": "Wild Animaul　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "161": {
-        "タマげたニャー　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": ""
+        "タマげたニャー　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "Crazy Meow　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "162": {
         "clarity_nt_char_162": "clarity_nt_char_162"
