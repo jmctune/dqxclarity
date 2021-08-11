@@ -1341,13 +1341,13 @@
         "clarity_nt_char_447": "clarity_nt_char_447"
     },
     "448": {
-        "まぶしい光　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": ""
+        "まぶしい光　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": "Dazzling Light　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Blinded"
     },
     "449": {
         "clarity_nt_char_449": "clarity_nt_char_449"
     },
     "450": {
-        "ふしぎなおどり　<%sM_Target_1>の守備力ダウン（－１０）": ""
+        "ふしぎなおどり　<%sM_Target_1>の守備力ダウン（－１０）": "Weird Dance　<%sM_Target_1> Defense Down (-10)"
     },
     "451": {
         "clarity_nt_char_451": "clarity_nt_char_451"
