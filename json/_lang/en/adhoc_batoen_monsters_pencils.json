@@ -384,7 +384,7 @@
         "ギガスラッシュ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Gigaslash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "129": {
-        "ミラクルソード　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　ＨＰ{color=lime}２０{color=default}かいふく": ""
+        "ミラクルソード　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　ＨＰ{color=lime}２０{color=default}かいふく": "Miracle Slash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Recover {color=lime}20{color=default} HP"
     },
     "130": {
         "clarity_nt_char_130": "clarity_nt_char_130"
