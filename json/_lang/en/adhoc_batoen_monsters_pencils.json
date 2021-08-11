@@ -1086,13 +1086,13 @@
         "毒こうげき　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　毒にする": "Poison Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Poison"
     },
     "363": {
-        "毒をまいた　　<%sM_Target_1>を毒にする": ""
+        "毒をまいた　　<%sM_Target_1>を毒にする": "Poison　Poisons <%sM_Target_1>"
     },
     "364": {
         "clarity_nt_char_364": "clarity_nt_char_364"
     },
     "365": {
-        "鉄球ノック　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "鉄球ノック　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Iron Ball Knock　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "366": {
         "clarity_nt_char_366": "clarity_nt_char_366"
