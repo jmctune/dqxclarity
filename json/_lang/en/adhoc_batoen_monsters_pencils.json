@@ -1032,13 +1032,13 @@
         "マヒャド斬り　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Kacrackle Slash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "345": {
-        "矢をはなった　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "矢をはなった　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Arrow Shot　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "346": {
         "clarity_nt_char_346": "clarity_nt_char_346"
     },
     "347": {
-        "グランドインパクト　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "グランドインパクト　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Grand Impact　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "348": {
         "{color=purple}暗黒のきり{color=default}　　<%sM_Target_1>の攻撃力ダウン（－１０）": ""
