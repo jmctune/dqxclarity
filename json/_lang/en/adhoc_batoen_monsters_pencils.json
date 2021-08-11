@@ -366,22 +366,22 @@
         "こうげき　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "123": {
-        "ドラゴン斬り　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　ドラゴン系に{color=orange}６０{color=default}": ""
+        "ドラゴン斬り　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　ドラゴン系に{color=orange}６０{color=default}": "Dragon Slash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}60{color=default} to Dragon-types"
     },
     "124": {
         "clarity_nt_char_124": "clarity_nt_char_124"
     },
     "125": {
-        "ミス": ""
+        "ミス": "Miss!"
     },
     "126": {
         "clarity_nt_char_126": "clarity_nt_char_126"
     },
     "127": {
-        "はやぶさ斬り　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ２のダメージ": ""
+        "はやぶさ斬り　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ２のダメージ": "Falcon Slash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x2"
     },
     "128": {
-        "ギガスラッシュ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "ギガスラッシュ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Gigaslash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "129": {
         "ミラクルソード　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　ＨＰ{color=lime}２０{color=default}かいふく": ""
