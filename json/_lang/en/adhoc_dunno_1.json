@@ -12,16 +12,16 @@
         "移動の準備を　キャンセルしていいですか？<yesno_nc><break>": "Cancel preparations to proceed?<yesno_nc><break>"
     },
     "5": {
-        "これより先には　パーティリーダーの|準備が完了しないと　行くことができません。|<select>|このまま待つ|移動をやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": ""
+        "これより先には　パーティリーダーの|準備が完了しないと　行くことができません。|<select>|このまま待つ|移動をやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": "You won't be able to proceed until the party|leader's preparations are complete.|<select>|Keep Waiting|Stop Waiting|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "6": {
-        "準備完了！": ""
+        "準備完了！": "Ready!"
     },
     "7": {
-        "クエストを受注した日付": ""
+        "クエストを受注した日付": "Received Quest On"
     },
     "8": {
-        "クエストをクリアした日付": ""
+        "クエストをクリアした日付": "Cleared Quest On"
     },
     "9": {
         "初回報酬": ""
