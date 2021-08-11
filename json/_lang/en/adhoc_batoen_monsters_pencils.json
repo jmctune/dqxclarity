@@ -960,10 +960,10 @@
         "clarity_nt_char_320": "clarity_nt_char_320"
     },
     "321": {
-        "{color=purple}もえさかるほのお{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=purple}もえさかるほのお{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Burning Flames{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "322": {
-        "連続こうげき　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ２のダメージ": ""
+        "連続こうげき　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ２のダメージ": "Barrage Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x2"
     },
     "323": {
         "clarity_nt_char_323": "clarity_nt_char_323"
