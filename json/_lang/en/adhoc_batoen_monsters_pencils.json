@@ -549,7 +549,7 @@
         "ちからため　　次のターン　右をふる": "Power Up　Next Turn Roll Right Side"
     },
     "184": {
-        "かいしんのいちげき　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "かいしんのいちげき　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Critical Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "185": {
         "はやぶさ斬り　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ２のダメージ": ""
