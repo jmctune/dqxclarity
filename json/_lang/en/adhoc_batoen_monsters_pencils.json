@@ -1140,19 +1140,19 @@
         "clarity_nt_char_380": "clarity_nt_char_380"
     },
     "381": {
-        "{color=skyblue}バギマ{color=default}　　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=skyblue}バギマ{color=default}　　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Swoosh{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "382": {
         "clarity_nt_char_382": "clarity_nt_char_382"
     },
     "383": {
-        "呪い　　　　　　　<%sM_Target_1>に呪いをかける": ""
+        "呪い　　　　　　　<%sM_Target_1>に呪いをかける": "Curse　<%sM_Target_1> Becomes Cursed"
     },
     "384": {
         "clarity_nt_char_384": "clarity_nt_char_384"
     },
     "385": {
-        "{color=skyblue}バギムーチョ{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=skyblue}バギムーチョ{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kaswooshle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "386": {
         "clarity_nt_char_386": "clarity_nt_char_386"
