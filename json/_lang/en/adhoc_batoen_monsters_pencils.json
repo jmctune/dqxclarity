@@ -858,13 +858,13 @@
         "clarity_nt_char_286": "clarity_nt_char_286"
     },
     "287": {
-        "武器をふり回す　　　もう１回　右をふる": ""
+        "武器をふり回す　　　もう１回　右をふる": "Swing Weapon　Roll Right Side"
     },
     "288": {
-        "{color=skyblue}マヒャデドス{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=skyblue}マヒャデドス{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kacrackle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "289": {
-        "３回あたった　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ３のダメージ": ""
+        "３回あたった　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ３のダメージ": "Triple Hit　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x3"
     },
     "290": {
         "clarity_nt_char_290": "clarity_nt_char_290"
