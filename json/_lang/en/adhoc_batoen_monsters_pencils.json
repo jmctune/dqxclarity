@@ -840,7 +840,7 @@
         "clarity_nt_char_280": "clarity_nt_char_280"
     },
     "281": {
-        "{color=skyblue}暴走イオグランデ{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "{color=skyblue}暴走イオグランデ{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Haywire Kaboomle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "282": {
         "clarity_nt_char_282": "clarity_nt_char_282"
