@@ -1341,7 +1341,7 @@
         "clarity_nt_char_143": "clarity_nt_char_143"
     },
     "448": {
-        "<%sL_OWNER>の畑から ふたつの<%sL_ITEM>を 収穫した！": ""
+        "<%sL_OWNER>の畑から ふたつの<%sL_ITEM>を 収穫した！": "Harvested 2 <%sL_ITEM> from <%sL_OWNER>'s field!"
     },
     "449": {
         "<%sL_OWNER>の畑から <%sL_ITEM>を 収穫した！|所持数 <%nL_BEFORE_NUM>こ → <%nL_AFTER_NUM>こ になった！": ""
