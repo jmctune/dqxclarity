@@ -1086,7 +1086,7 @@
         "毒こうげき　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　毒にする": "Poison Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Poison"
     },
     "363": {
-        "毒をまいた　　<%sM_Target_1>を毒にする": "Poison　Poisons <%sM_Target_1>"
+        "毒をまいた　　<%sM_Target_1>を毒にする": "Poison Powder　Poisons <%sM_Target_1>"
     },
     "364": {
         "clarity_nt_char_364": "clarity_nt_char_364"
@@ -1986,22 +1986,22 @@
         "clarity_nt_char_662": "clarity_nt_char_662"
     },
     "663": {
-        "毒をまいた！": ""
+        "毒をまいた！": "Poison Powder!"
     },
     "664": {
         "clarity_nt_char_664": "clarity_nt_char_664"
     },
     "665": {
-        "鉄球ノック！": ""
+        "鉄球ノック！": "Iron Ball Knock!"
     },
     "666": {
         "clarity_nt_char_666": "clarity_nt_char_666"
     },
     "667": {
-        "足ばらい！": ""
+        "足ばらい！": "Leg Sweep"
     },
     "668": {
-        "ブレードガード！": ""
+        "ブレードガード！": "Greatsword Guard!"
     },
     "669": {
         "clarity_nt_char_669": "clarity_nt_char_669"
