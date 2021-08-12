@@ -1344,7 +1344,7 @@
         "<%sL_OWNER>の畑から ふたつの<%sL_ITEM>を 収穫した！": "Harvested 2 <%sL_ITEM> from <%sL_OWNER>'s field!"
     },
     "449": {
-        "<%sL_OWNER>の畑から <%sL_ITEM>を 収穫した！|所持数 <%nL_BEFORE_NUM>こ → <%nL_AFTER_NUM>こ になった！": ""
+        "<%sL_OWNER>の畑から <%sL_ITEM>を 収穫した！|所持数 <%nL_BEFORE_NUM>こ → <%nL_AFTER_NUM>こ になった！": "Harvested <%sL_ITEM> from <%sL_OWNER>'s field!|Number owned: <%nL_BEFORE_NUM> → <%nL_AFTER_NUM>"
     },
     "450": {
         "clarity_nt_char_144": "clarity_nt_char_144"
@@ -1728,7 +1728,7 @@
         "clarity_nt_char_186": "clarity_nt_char_186"
     },
     "577": {
-        "<%sL_OWNER>の畑から <%sL_ITEM>を<%nL_NUM>こ 収穫した！|所持数 <%nL_BEFORE_NUM>こ → <%nL_AFTER_NUM>こ になった！": ""
+        "<%sL_OWNER>の畑から <%sL_ITEM>を<%nL_NUM>こ 収穫した！|所持数 <%nL_BEFORE_NUM>こ → <%nL_AFTER_NUM>こ になった！": "Harvested <%nL_NUM> <%sL_ITEM> from <%sL_OWNER>'s field!|Number owned: <%nL_BEFORE_NUM> → <%nL_AFTER_NUM>"
     },
     "578": {
         "clarity_nt_char_187": "clarity_nt_char_187"
