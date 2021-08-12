@@ -3174,19 +3174,19 @@
         "守備力ダウン無効！": "Defense Down|null!"
     },
     "1059": {
-        "呪文耐性低下無効！": ""
+        "呪文耐性低下無効！": "Spell Resistance|Down null!"
     },
     "1060": {
-        "すばやさ低下無効！": ""
+        "すばやさ低下無効！": "Agility Down|null!"
     },
     "1061": {
-        "攻撃力 +10|残り <%dM_mm>ターン": ""
+        "攻撃力 +10|残り <%dM_mm>ターン": "Attack +10|<%dM_mm> Turns Left"
     },
     "1062": {
         "clarity_nt_char_1062": "clarity_nt_char_1062"
     },
     "1063": {
-        "呪文の威力 +20|残り <%dM_mm>ターン": ""
+        "呪文の威力 +20|残り <%dM_mm>ターン": "Spell Power +20|<%dM_mm> Turns Left"
     },
     "1064": {
         "clarity_nt_char_1064": "clarity_nt_char_1064"
