@@ -15,19 +15,19 @@
         "「お預かりしている　景品はこちらです。|　では　すべて　お渡しさせていただきますね！|<end>": ""
     },
     "6": {
-        "<pc>は　|<%sM_PRIZE>を　<%dM_PRIZENum>こ|手に入れた！|<se_nots System 7><bw_break>": ""
+        "<pc>は　|<%sM_PRIZE>を　<%dM_PRIZENum>こ|手に入れた！|<se_nots System 7><bw_break>": "<pc> received <%dM_PRIZENum> <%sM_PRIZE>!|<se_nots System 7><bw_break>"
     },
     "7": {
-        "<pc>は　<%sM_PRIZE>を|手に入れた！|<se_nots System 7><bw_break>": ""
+        "<pc>は　<%sM_PRIZE>を|手に入れた！|<se_nots System 7><bw_break>": "<pc> received <%sM_PRIZE>!|<se_nots System 7><bw_break>"
     },
     "8": {
-        "「<%sM_PRIZE>　ですね。|　はい！　どうぞっ！|<break>": ""
+        "「<%sM_PRIZE>　ですね。|　はい！　どうぞっ！|<break>": "<%sM_PRIZE>, is it?|Very good! Here you are!|<break>"
     },
     "9": {
         "「お預かりしていた景品は|　すべて　お渡しいたしました！|　引き続き　すごろくを　お楽しみください！|<end>": ""
     },
     "10": {
-        "「どの景品を　受け取りになられますか？|<break>": ""
+        "「どの景品を　受け取りになられますか？|<break>": "Which prize did you want to take?|<break>"
     },
     "11": {
         "「どの内容について　説明を聞きますか？|<select_se_off>|景品受け取りカウンターとは|受け取りについて|<select_end><close>": ""
