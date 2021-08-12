@@ -54,19 +54,19 @@
         "レジェスに　認められるまで|「デッキをつくる」は　選べないようだ……。|<end>": "You can't select \"Deck Edit\" until you are|approved by Rejes...|<end>"
     },
     "19": {
-        "レジェスに　認められるまで|「デッキのそうび」は　選べないようだ……。|<end>": ""
+        "レジェスに　認められるまで|「デッキのそうび」は　選べないようだ……。|<end>": "You can't select \"Equip Deck\" until you are|approved by Rejes...|<end>"
     },
     "20": {
-        "レジェスに　認められるまで|「フリー対戦」は　選べないようだ……。|<end>": ""
+        "レジェスに　認められるまで|「フリー対戦」は　選べないようだ……。|<end>": "You can't select \"Free Battle\" until you are|approved by Rejes...|<end>"
     },
     "21": {
-        "パーティを　組んでいるときは|フリー対戦は　選択できません。": ""
+        "パーティを　組んでいるときは|フリー対戦は　選択できません。": "You can't play a Free Match while in a party."
     },
     "22": {
-        "バトエンは　この場所では　プレイできません。|町や城の中でのみ　プレイすることができます。": ""
+        "バトエンは　この場所では　プレイできません。|町や城の中でのみ　プレイすることができます。": "You cannot play Batoen in this location.|Please try again in a town or a castle."
     },
     "23": {
-        "このバトエンは　まだ獲得していません。": ""
+        "このバトエンは　まだ獲得していません。": "You haven't obtained this Batoen yet."
     },
     "24": {
         "バトエンランチャーから|「フリー対戦」と「なかま対戦」を|選べるようになりました！|<br>|フリー対戦では　マッチングしたお客様同士で|なかま対戦では　今のなかま同士で|バトエンファイトを　することができます！|<end>": ""
