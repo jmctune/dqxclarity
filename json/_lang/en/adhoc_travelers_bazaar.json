@@ -78,7 +78,7 @@
         "「ここは　旅人バザーだ。|　なんの用だい？|<break>": ""
     },
     "27": {
-        "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "28": {
         "「じゃあ　そうびぶくろの中に|　入れておくぜっ。|<bw_break>": ""
@@ -174,7 +174,7 @@
         "「はい　いらっしゃい。|　旅人バザーだよ。|　今日は　どうするんだい？|<break>": ""
     },
     "59": {
-        "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explaination|<select_end><break>"
     },
     "60": {
         "「じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": ""
@@ -270,7 +270,7 @@
         "「いらっしゃいませ。|　こちらは　旅人バザーです。|　今日は　どうしますか？|<break>": ""
     },
     "91": {
-        "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explaination|<select_end><break>"
     },
     "92": {
         "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": ""
@@ -366,7 +366,7 @@
         "「いらっしゃいませ。|　旅人バザーへ　ようこそ。|　本日は　いかがなさいますか？|<break>": ""
     },
     "123": {
-        "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explaination|<select_end><break>"
     },
     "124": {
         "「それでは　そうびぶくろの中に|　お入れしておきます。|<bw_break>": ""
@@ -1494,7 +1494,7 @@
         "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno><break>": ""
     },
     "499": {
-        "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explaination|<select_end><break>"
     },
     "500": {
         "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
@@ -1710,7 +1710,7 @@
         "「あら？　検索結果は|　ないみたいですね。|<bw_break>": ""
     },
     "571": {
-        "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explaination|<select_end><break>"
     },
     "572": {
         "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
