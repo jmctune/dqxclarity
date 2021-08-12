@@ -3297,91 +3297,91 @@
         "呪われている|残り <%dM_mm>ターン": "Cursed|<%dM_mm> Turns Left"
     },
     "1100": {
-        "幻惑されている|残り <%dM_mm>ターン": ""
+        "幻惑されている|残り <%dM_mm>ターン": "Blinded|<%dM_mm> Turns Left"
     },
     "1101": {
         "clarity_nt_char_1101": "clarity_nt_char_1101"
     },
     "1102": {
-        "封印されている|残り <%dM_mm>ターン": ""
+        "封印されている|残り <%dM_mm>ターン": "Sealed|<%dM_mm> Turns Left"
     },
     "1103": {
         "clarity_nt_char_1103": "clarity_nt_char_1103"
     },
     "1104": {
-        "マヒしている|残り <%dM_mm>ターン": ""
+        "マヒしている|残り <%dM_mm>ターン": "Paralyzed|<%dM_mm> Turns Left"
     },
     "1105": {
-        "毒をうけている|残り <%dM_mm>ターン": ""
+        "毒をうけている|残り <%dM_mm>ターン": "Poisoned|<%dM_mm> Turns Left"
     },
     "1106": {
         "clarity_nt_char_1106": "clarity_nt_char_1106"
     },
     "1107": {
-        "猛毒をうけている|残り <%dM_mm>ターン": ""
+        "猛毒をうけている|残り <%dM_mm>ターン": "Envenomated|<%dM_mm> Turns Left"
     },
     "1108": {
-        "魅了されている|残り <%dM_mm>ターン": ""
+        "魅了されている|残り <%dM_mm>ターン": "Charmed|<%dM_mm> Turns Left"
     },
     "1109": {
         "clarity_nt_char_1109": "clarity_nt_char_1109"
     },
     "1110": {
-        "しばられている|残り <%dM_mm>ターン": ""
+        "しばられている|残り <%dM_mm>ターン": "Restrained|<%dM_mm> Turns Left"
     },
     "1111": {
         "clarity_nt_char_1111": "clarity_nt_char_1111"
     },
     "1112": {
-        "おびえている|残り <%dM_mm>ターン": ""
+        "おびえている|残り <%dM_mm>ターン": "Frightened|<%dM_mm> Turns Left"
     },
     "1113": {
-        "転んでいる|残り <%dM_mm>ターン": ""
+        "転んでいる|残り <%dM_mm>ターン": "Fallen Down|<%dM_mm> Turns Left"
     },
     "1114": {
         "clarity_nt_char_1114": "clarity_nt_char_1114"
     },
     "1115": {
-        "踊っている|残り <%dM_mm>ターン": ""
+        "踊っている|残り <%dM_mm>ターン": "Dancing|<%dM_mm> Turns Left"
     },
     "1116": {
         "clarity_nt_char_1116": "clarity_nt_char_1116"
     },
     "1117": {
-        "笑っている|残り <%dM_mm>ターン": ""
+        "笑っている|残り <%dM_mm>ターン": "Laughing|<%dM_mm> Turns Left"
     },
     "1118": {
         "clarity_nt_char_1118": "clarity_nt_char_1118"
     },
     "1119": {
-        "反動で動けない|残り <%dM_mm>ターン": ""
+        "反動で動けない|残り <%dM_mm>ターン": "Can't Move|<%dM_mm> Turns Left"
     },
     "1120": {
         "clarity_nt_char_1120": "clarity_nt_char_1120"
     },
     "1121": {
-        "攻撃力 -10|残り <%dM_mm>ターン": ""
+        "攻撃力 -10|残り <%dM_mm>ターン": "Attack -10|<%dM_mm> Turns Left"
     },
     "1122": {
         "clarity_nt_char_1122": "clarity_nt_char_1122"
     },
     "1123": {
-        "呪文の威力 -10|残り <%dM_mm>ターン": ""
+        "呪文の威力 -10|残り <%dM_mm>ターン": "Spell Power -10|<%dM_mm> Turns Left"
     },
     "1124": {
         "clarity_nt_char_1124": "clarity_nt_char_1124"
     },
     "1125": {
-        "守備力 -10|残り <%dM_mm>ターン": ""
+        "守備力 -10|残り <%dM_mm>ターン": "Defense -10|<%dM_mm> Turns Left"
     },
     "1126": {
         "clarity_nt_char_1126": "clarity_nt_char_1126"
     },
     "1127": {
-        "呪文耐性 -20|残り <%dM_mm>ターン": ""
+        "呪文耐性 -20|残り <%dM_mm>ターン": "Spell Resist -20|<%dM_mm> Turns Left"
     },
     "1128": {
-        "すばやさ -5|残り <%dM_mm>ターン": ""
+        "すばやさ -5|残り <%dM_mm>ターン": "Agility -5|<%dM_mm> Turns Left"
     },
     "1129": {
         "clarity_nt_char_1129": "clarity_nt_char_1129"
