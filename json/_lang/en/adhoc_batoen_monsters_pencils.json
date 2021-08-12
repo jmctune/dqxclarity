@@ -3561,25 +3561,25 @@
         "clarity_nt_char_1187": "clarity_nt_char_1187"
     },
     "1188": {
-        "ターン終了まで|打撃攻撃で与える|ダメージ＋３０": ""
+        "ターン終了まで|打撃攻撃で与える|ダメージ＋３０": "Physical damage|+30 until end of|turn."
     },
     "1189": {
         "clarity_nt_char_1189": "clarity_nt_char_1189"
     },
     "1190": {
-        "ターン終了まで|呪文攻撃で与える|ダメージ＋５０": ""
+        "ターン終了まで|呪文攻撃で与える|ダメージ＋５０": "Spell damage +30|until the end of|turn."
     },
     "1191": {
         "clarity_nt_char_1191": "clarity_nt_char_1191"
     },
     "1192": {
-        "<%sL_PENCIL_NAME>に|上やくそうを　使った！|ＨＰ３０かいふく！": ""
+        "<%sL_PENCIL_NAME>に|上やくそうを　使った！|ＨＰ３０かいふく！": "<%sL_PENCIL_NAME> used|Strong Medicine!|Recovered 30 HP!"
     },
     "1193": {
         "clarity_nt_char_1193": "clarity_nt_char_1193"
     },
     "1194": {
-        "<%sL_PENCIL_NAME>に|ラブチョコを　使った！|テンションが　１段階あがった！": ""
+        "<%sL_PENCIL_NAME>に|ラブチョコを　使った！|テンションが　１段階あがった！": "<%sL_PENCIL_NAME> used|Love Chocolate!|Tension up 1 level!"
     },
     "1195": {
         "clarity_nt_char_1195": "clarity_nt_char_1195"
