@@ -6,7 +6,7 @@
         "「まだ何か　買ってくかね？|<bw_break>": "Do you wanna buy something else?<bw_break>"
     },
     "3": {
-        "「こいつは　<%sL_URINUSI>が|　<%'nL_BUY_PRICE>ゴールドで出品している|　<%sL_KAITAI_ITEM><%sL_PLUSNUM>だな。買うかい？|<yesno><break>": ""
+        "「こいつは　<%sL_URINUSI>が|　<%'nL_BUY_PRICE>ゴールドで出品している|　<%sL_KAITAI_ITEM><%sL_PLUSNUM>だな。買うかい？|<yesno><break>": "This is <%sL_URINUS> selling for| <%'nL_BUY_PRICE> gold.| <%sL_KAITAI_ITEM><%sL_PLUSNUM> Do you want to buy it? |<yesno><break>"
     },
     "4": {
         "「こいつは　<%sL_URINUSI>が　出品した|　<%sL_KAITAI_ITEM>　ひとつだな。|　<%'nL_BUY_PRICE>ゴールドだが　買うか？|<yesno><break>": ""
