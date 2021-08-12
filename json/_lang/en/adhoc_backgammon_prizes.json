@@ -60,7 +60,7 @@
         "「選びなおされるのですね。|　それでは　どちらにいたしますか？|<break>": ""
     },
     "21": {
-        "「かしこまりました。|　では　<%sM_PRIZE>を|　お渡しさせていただきますね。|<end>": ""
+        "「かしこまりました。|　では　<%sM_PRIZE>を|　お渡しさせていただきますね。|<end>": "Understood. Then, I'll give the|<%sM_PRIZE> to you."
     },
     "22": {
         "「<%sM_PRIZE>で|　よろしいでしょうか？|<yesno 2><break>": "You're good with <%sM_PRIZE>?|<yesno 2><break>"
