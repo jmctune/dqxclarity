@@ -609,7 +609,7 @@
         "clarity_nt_char_203": "clarity_nt_char_203"
     },
     "204": {
-        "{color=skyblue}ルカナン{color=default}　　　　　<%sM_Target_1>の守備力ダウン（－１０）": "{color=skyblue}Sap{color=default}　<%sM_Target_1> Defense Down (-10)"
+        "{color=skyblue}ルカナン{color=default}　　　　　<%sM_Target_1>の守備力ダウン（－１０）": "{color=skyblue}Kasap{color=default}　<%sM_Target_1> Defense Down (-10)"
     },
     "205": {
         "ニヤニヤ笑っている": "Toothy Grin"
@@ -1599,52 +1599,52 @@
         "超ちからため！": "Super Strength!"
     },
     "534": {
-        "次のターン右をふる！": ""
+        "次のターン右をふる！": "Next turn roll|right side!"
     },
     "535": {
         "clarity_nt_char_535": "clarity_nt_char_535"
     },
     "536": {
-        "かいしんのいちげき！": ""
+        "かいしんのいちげき！": "Critical hit!"
     },
     "537": {
         "clarity_nt_char_537": "clarity_nt_char_537"
     },
     "538": {
-        "つるぎのまい！": ""
+        "つるぎのまい！": "Swords Dance!"
     },
     "539": {
-        "バイキルト！": ""
+        "バイキルト！": "Oomphle!"
     },
     "540": {
         "clarity_nt_char_540": "clarity_nt_char_540"
     },
     "541": {
-        "ラリホーマ！": ""
+        "ラリホーマ！": "Kasnooze!"
     },
     "542": {
         "clarity_nt_char_542": "clarity_nt_char_542"
     },
     "543": {
-        "反撃のかまえ！": ""
+        "反撃のかまえ！": "Counter Stance!"
     },
     "544": {
-        "回転キック！": ""
+        "回転キック！": "Spin Kick!"
     },
     "545": {
         "clarity_nt_char_545": "clarity_nt_char_545"
     },
     "546": {
-        "メラゾーマ！": ""
+        "メラゾーマ！": "Kafrizz!"
     },
     "547": {
         "clarity_nt_char_547": "clarity_nt_char_547"
     },
     "548": {
-        "あやつる！": ""
+        "あやつる！": "Manipulate!"
     },
     "549": {
-        "魔力かくせい！": ""
+        "魔力かくせい！": "Channel Anger!"
     },
     "550": {
         "ルカナン！": ""
