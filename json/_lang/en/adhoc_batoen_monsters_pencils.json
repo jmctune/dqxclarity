@@ -693,7 +693,7 @@
         "clarity_nt_char_231": "clarity_nt_char_231"
     },
     "232": {
-        "おいかぜ　　　　　２ターン　{color=purple}ブレス{color=default}を跳ね返す": "Tailwind　Reflect {color=purple}Breath{color=default} Attacks for 2 Turns"
+        "おいかぜ　　　　　２ターン　{color=purple}ブレス{color=default}を跳ね返す": "Backdraft　Reflect {color=purple}Breath{color=default} Attacks for 2 Turns"
     },
     "233": {
         "嵐のようにはばたいた　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ６のダメージ": "Stormy Flap　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x6"
@@ -870,7 +870,7 @@
         "clarity_nt_char_290": "clarity_nt_char_290"
     },
     "291": {
-        "おいかぜ　　　　　　２ターン　{color=purple}ブレス{color=default}を跳ね返す": "Tailwind　Reflect {color=purple}Breath{color=default} Attacks for 2 Turns"
+        "おいかぜ　　　　　　２ターン　{color=purple}ブレス{color=default}を跳ね返す": "Backdraft　Reflect {color=purple}Breath{color=default} Attacks for 2 Turns"
     },
     "292": {
         "clarity_nt_char_292": "clarity_nt_char_292"
@@ -1722,10 +1722,10 @@
         "clarity_nt_char_574": "clarity_nt_char_574"
     },
     "575": {
-        "フェザーストーム！": ""
+        "フェザーストーム！": "Featherstorm!"
     },
     "576": {
-        "おいかぜ！": ""
+        "おいかぜ！": "Backdraft!"
     },
     "577": {
         "嵐のようにはばたいた！": ""
@@ -2538,7 +2538,7 @@
         "カウンターの構えを|といた": ""
     },
     "847": {
-        "おいかぜがやんだ": ""
+        "おいかぜがやんだ": "Backdraft faded."
     },
     "848": {
         "clarity_nt_char_848": "clarity_nt_char_848"
@@ -2691,7 +2691,7 @@
         "すばやさアップ効果|延長！": ""
     },
     "898": {
-        "おいかぜの効果延長！": ""
+        "おいかぜの効果延長！": "Backdraft effect|extended!"
     },
     "899": {
         "clarity_nt_char_899": "clarity_nt_char_899"
