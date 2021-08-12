@@ -69,10 +69,10 @@
         "このバトエンは　まだ獲得していません。": "You haven't obtained this Batoen yet."
     },
     "24": {
-        "バトエンランチャーから|「フリー対戦」と「なかま対戦」を|選べるようになりました！|<br>|フリー対戦では　マッチングしたお客様同士で|なかま対戦では　今のなかま同士で|バトエンファイトを　することができます！|<end>": ""
+        "バトエンランチャーから|「フリー対戦」と「なかま対戦」を|選べるようになりました！|<br>|フリー対戦では　マッチングしたお客様同士で|なかま対戦では　今のなかま同士で|バトエンファイトを　することができます！|<end>": "You can now select \"Free Battle\" and \"Party|Battle\" from the Batoen Launcher!|<br>|Free Battles will match you with other|players, while Party Battles will use your|current party.|<end"
     },
     "25": {
-        "バトエンが　３本　セットされていません。|デッキを　元の状態に　戻しますか？|<yesno 2><close>": ""
+        "バトエンが　３本　セットされていません。|デッキを　元の状態に　戻しますか？|<yesno 2><close>": "Three Batoen are not set. Would you like to|undo any changes to this deck?|<yesno 2><close>"
     },
     "26": {
         "バットエンドとの戦いは|１対１で　おこないます。|<br>|彼らの使う　バトエンの特徴を　よく見極め|相性の良いバトエンで　挑むことが|勝利への近道です。|<br>|１対１の戦いでは|ターン開始時に「あきらめる」コマンドを選んで|バトエンファイトを　やめることもできます。|<br>|相性がよくないな　と思ったら|一度　あきらめて|使うバトエンを　変えてみましょう。": ""
