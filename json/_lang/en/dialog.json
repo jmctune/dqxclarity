@@ -3330,7 +3330,7 @@
         "<%sM_monster>に　ここで　名前をつけますか？|<color_yellow>※モンスター酒場で　いつでも変更できます。<color_white><yesno><close>": ""
     },
     "1111": {
-        "<%sM_monster_name>で　よろしいですか？<yesno><break>": "<%sM_monster_name> is okay?"
+        "<%sM_monster_name>で　よろしいですか？<yesno><break>": "Is <%sM_monster_name> okay? <yesno><break>"
     },
     "1112": {
         "clarity_nt_char_372": "clarity_nt_char_372"
