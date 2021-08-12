@@ -1,9 +1,9 @@
 {
     "1": {
-        "「ギャンブラーの桃源郷　カジノへようこそ！ |　ここは　カジノコイン　売り場です。|<br>|「カジノコインは　合計が　<%dL_BUY_MAX_COIN>枚になるまで|　ご購入いただけます。カジノコインチケットは|　チケットに応じた枚数にて　交換いたします。|<bw_break>": ""
+        "「ギャンブラーの桃源郷　カジノへようこそ！ |　ここは　カジノコイン　売り場です。|<br>|「カジノコインは　合計が　<%dL_BUY_MAX_COIN>枚になるまで|　ご購入いただけます。カジノコインチケットは|　チケットに応じた枚数にて　交換いたします。|<bw_break>": "Welcome to the Casino, a gambler's paradise!|This is the Casino Coin Counter.|<br>|You can purchase Casino Coins up to a|maximum of <%dL_BUY_MAX_COIN> held Coins. You can exchange|Casino Coin Tickets here, too."
     },
     "2": {
-        "「それでは　引き続き|　すごろくを　お楽しみくださいませ！|<end>": ""
+        "「それでは　引き続き|　すごろくを　お楽しみくださいませ！|<end>": "Well then, please continue to enjoy Sugoroku!|<end>"
     },
     "3": {
         "「あら　ふくろに　空きがないみたいです。|　景品を受け取るには　どうぐや|　そうびぶくろに　空きが必要になります。|<br>|「ふくろを　整理されてから|　また　お越しくださいませ。|<end>": ""
