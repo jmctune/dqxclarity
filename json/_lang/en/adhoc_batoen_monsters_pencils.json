@@ -921,7 +921,7 @@
         "clarity_nt_char_307": "clarity_nt_char_307"
     },
     "308": {
-        "{color=purple}こごえるふぶき{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Freezing Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+        "{color=purple}こごえるふぶき{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Freezing Blizzard{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "309": {
         "clarity_nt_char_309": "clarity_nt_char_309"
@@ -1761,22 +1761,22 @@
         "clarity_nt_char_587": "clarity_nt_char_587"
     },
     "588": {
-        "もえさかるほのお！": ""
+        "もえさかるほのお！": "Burning Flames!"
     },
     "589": {
-        "しゃくねつのいき！": ""
+        "しゃくねつのいき！": "Scorching Breath!"
     },
     "590": {
-        "こごえるふぶき！": ""
+        "こごえるふぶき！": "Freezing Blizzard!"
     },
     "591": {
         "clarity_nt_char_591": "clarity_nt_char_591"
     },
     "592": {
-        "かがやくいき！": ""
+        "かがやくいき！": "Shining Breath!"
     },
     "593": {
-        "ザキ！": ""
+        "ザキ！": "Whack!"
     },
     "594": {
         "ラブリーフェイス！": ""
