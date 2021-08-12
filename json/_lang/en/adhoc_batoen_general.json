@@ -45,7 +45,7 @@
         "バトエンの攻撃には|「打撃」「呪文」「ブレス」の３種類が|存在します。|<br>|敵からの　打撃攻撃を無効化するアクションや|呪文の威力をアップさせる　どうぐ消しゴムなど|攻撃の種類で　効果が変わる場合があります。|<br>|「打撃」は「黒い文字」　「呪文」は「青い文字」|「ブレス」は「紫の文字」で　アクションが|書かれていますので　参考にしてください。|<end>": "There are three types of Batoen attacks:|\"Physical\", \"Spell\", and \"Breath\".|<br>|Certain effects reference these attack types,|such as nullifying physical damage or an|Eraser that raises spell power.|<br>|Physical attacks have black text, Spells have|blue text, and Breath attacks have purple|text.|<end>"
     },
     "16": {
-        "各ターンでの　バトエンの行動順は|バトエンの「すばやさ」が　高いものからです。|<br>|ただし　「すばやさ」が　同じ値の場合は|ターンごとに　ランダムで|先に行動するバトエンが　決まります。": "Batoen take turn in order from highest to|lowest \"Agility\" value.|<br>|However, if multiple Batoen have the same|Agility value, their turn order will be|decided randomly."
+        "各ターンでの　バトエンの行動順は|バトエンの「すばやさ」が　高いものからです。|<br>|ただし　「すばやさ」が　同じ値の場合は|ターンごとに　ランダムで|先に行動するバトエンが　決まります。": "Batoen take turns in order from highest to|lowest \"Agility\" value.|<br>|However, if multiple Batoen have the same|Agility value, their turn order will be|decided randomly."
     },
     "17": {
         "バトエンランチャーを　使用すると|バトエンメニューが　開き|フリー対戦などを　おこなうことが出来ます。|<br>|ただし　レジェスに　認められるまでは|フリー対戦や　デッキの編成は　できません。|<end>": "Use the Batoen Launcher to open the Batoen|menu and participate in Free Battles.|<br>|However, you can't play Free Battles or|organize your decks until you are|approved by Rejes.|<end>"
