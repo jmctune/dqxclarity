@@ -969,7 +969,7 @@
         "clarity_nt_char_323": "clarity_nt_char_323"
     },
     "324": {
-        "竜眼　　　　　　　このターン打撃ダメージを受けない": "Drageye　Nullify Damage This Turn"
+        "竜眼　　　　　　　このターン打撃ダメージを受けない": "Drageye　Nullify Phys. Damage This Turn"
     },
     "325": {
         "ヤリ攻撃　　　　　　もう１回　右をふる": "Spear Attack　Roll Right Side"
@@ -1107,7 +1107,7 @@
         "clarity_nt_char_369": "clarity_nt_char_369"
     },
     "370": {
-        "ブレードガード　このターン打撃ダメージを受けない": "Greatsword Guard　Nullify Physical Damage This Turn"
+        "ブレードガード　このターン打撃ダメージを受けない": "Greatsword Guard　Nullify Phys. Damage This Turn"
     },
     "371": {
         "clarity_nt_char_371": "clarity_nt_char_371"
@@ -1125,7 +1125,7 @@
         "clarity_nt_char_375": "clarity_nt_char_375"
     },
     "376": {
-        "盾ガード　　　このターン打撃ダメージを受けない": "Block　Nullify Physical Damage This Turn"
+        "盾ガード　　　このターン打撃ダメージを受けない": "Block　Nullify Phys. Damage This Turn"
     },
     "377": {
         "{color=skyblue}ディバインスペル{color=default}　<%sM_Target_1>を{color=skyblue}呪文{color=default}に弱くする（－２０）": "{color=skyblue}Divine Intervention{color=default}　Lower <%sM_Target_1> {color=skyblue}Spell{color=default} Damage (-20)"
@@ -1275,7 +1275,7 @@
         "clarity_nt_char_425": "clarity_nt_char_425"
     },
     "426": {
-        "殻にとじこもる　　このターン打撃ダメージを受けない": "Shell Retreat　Nullify Physical Damage This Turn"
+        "殻にとじこもる　　このターン打撃ダメージを受けない": "Shell Retreat　Nullify Phys. Damage This Turn"
     },
     "427": {
         "{color=skyblue}ヒャダルコ{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Crackle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -2211,7 +2211,7 @@
         "clarity_nt_char_737": "clarity_nt_char_737"
     },
     "738": {
-        "しばり無効": "Restraint null!"
+        "しばり無効": "Restraint Null"
     },
     "739": {
         "おびえ無効": "Frighten Null"
@@ -2223,19 +2223,19 @@
         "clarity_nt_char_741": "clarity_nt_char_741"
     },
     "742": {
-        "踊り無効": "Dance null!"
+        "踊り無効": "Dance Null"
     },
     "743": {
         "clarity_nt_char_743": "clarity_nt_char_743"
     },
     "744": {
-        "笑い無効": "Laugh null!"
+        "笑い無効": "Laugh Null"
     },
     "745": {
         "clarity_nt_char_745": "clarity_nt_char_745"
     },
     "746": {
-        "休み無効": "Downed null!"
+        "休み無効": "Downed Null"
     },
     "747": {
         "clarity_nt_char_747": "clarity_nt_char_747"
@@ -2247,7 +2247,7 @@
         "clarity_nt_char_749": "clarity_nt_char_749"
     },
     "750": {
-        "呪攻撃ダウン無効": "Spell Down null!"
+        "呪攻撃ダウン無効": "Spell Down Null"
     },
     "751": {
         "clarity_nt_char_751": "clarity_nt_char_751"
@@ -2259,13 +2259,13 @@
         "clarity_nt_char_753": "clarity_nt_char_753"
     },
     "754": {
-        "呪文耐性低下無効": "Spell Resist Down|null!"
+        "呪文耐性低下無効": "Spell Resist Down|Null"
     },
     "755": {
         "clarity_nt_char_755": "clarity_nt_char_755"
     },
     "756": {
-        "すばやさ低下無効": "Agility Down|null!"
+        "すばやさ低下無効": "Agility Down|Null"
     },
     "757": {
         "clarity_nt_char_757": "clarity_nt_char_757"
