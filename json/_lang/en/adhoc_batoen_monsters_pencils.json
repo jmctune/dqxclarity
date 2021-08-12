@@ -3192,40 +3192,40 @@
         "clarity_nt_char_1064": "clarity_nt_char_1064"
     },
     "1065": {
-        "守備力 +10|残り <%dM_mm>ターン": ""
+        "守備力 +10|残り <%dM_mm>ターン": "Defense +10|<%dM_mm> Turns Left"
     },
     "1066": {
         "clarity_nt_char_1066": "clarity_nt_char_1066"
     },
     "1067": {
-        "呪文耐性 +10|残り <%dM_mm>ターン": ""
+        "呪文耐性 +10|残り <%dM_mm>ターン": "Spell Resist +10|<%dM_mm> Turns Left"
     },
     "1068": {
-        "ぼうぎょ|残り <%dM_mm>ターン": ""
+        "ぼうぎょ|残り <%dM_mm>ターン": "Defend|<%dM_mm> Turns Left"
     },
     "1069": {
-        "すばやさアップ|残り <%dM_mm>ターン": ""
+        "すばやさアップ|残り <%dM_mm>ターン": "Agility Up|<%dM_mm> Turns Left"
     },
     "1070": {
         "clarity_nt_char_1070": "clarity_nt_char_1070"
     },
     "1071": {
-        "カウンター|残り <%dM_mm>ターン": ""
+        "カウンター|残り <%dM_mm>ターン": "Counter|<%dM_mm> Turns Left"
     },
     "1072": {
         "clarity_nt_char_1072": "clarity_nt_char_1072"
     },
     "1073": {
-        "ブレス反射|残り <%dM_mm>ターン": ""
+        "ブレス反射|残り <%dM_mm>ターン": "Breath Reflect|<%dM_mm> Turns Left"
     },
     "1074": {
         "clarity_nt_char_1074": "clarity_nt_char_1074"
     },
     "1075": {
-        "呪文ダメージ無効|残り <%dM_mm>ターン": ""
+        "呪文ダメージ無効|残り <%dM_mm>ターン": "Spell Damage Null|<%dM_mm> Turns Left"
     },
     "1076": {
-        "呪文反射|残り <%dM_mm>ターン": ""
+        "呪文反射|残り <%dM_mm>ターン": "Spell Reflect|<%dM_mm> Turns Left"
     },
     "1077": {
         "自動回復|残り <%dM_mm>ターン": ""
