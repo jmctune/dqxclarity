@@ -48,10 +48,10 @@
         "各ターンでの　バトエンの行動順は|バトエンの「すばやさ」が　高いものからです。|<br>|ただし　「すばやさ」が　同じ値の場合は|ターンごとに　ランダムで|先に行動するバトエンが　決まります。": "Batoen take turn in order from highest to|lowest \"Agility\" value.|<br>|However, if multiple Batoen have the same|Agility value, their turn order will be|decided randomly."
     },
     "17": {
-        "バトエンランチャーを　使用すると|バトエンメニューが　開き|フリー対戦などを　おこなうことが出来ます。|<br>|ただし　レジェスに　認められるまでは|フリー対戦や　デッキの編成は　できません。|<end>": ""
+        "バトエンランチャーを　使用すると|バトエンメニューが　開き|フリー対戦などを　おこなうことが出来ます。|<br>|ただし　レジェスに　認められるまでは|フリー対戦や　デッキの編成は　できません。|<end>": "Use the Batoen Launcher to open the Batoen|menu and participate in Free Battles.|<br>|However, you can't play Free Battles or|organize your decks until you are|approved by Rejes.|<end>"
     },
     "18": {
-        "レジェスに　認められるまで|「デッキをつくる」は　選べないようだ……。|<end>": ""
+        "レジェスに　認められるまで|「デッキをつくる」は　選べないようだ……。|<end>": "You can't select \"Deck Edit\" until you are|approved by Rejes...|<end>"
     },
     "19": {
         "レジェスに　認められるまで|「デッキのそうび」は　選べないようだ……。|<end>": ""
