@@ -2325,7 +2325,7 @@
         "呪文完全ガード": "Spell Damage|Guard"
     },
     "776": {
-        "みかわし": "Glance"
+        "みかわし": "Dodge"
     },
     "777": {
         "clarity_nt_char_777": "clarity_nt_char_777"
@@ -2571,7 +2571,7 @@
         "呪文完全ガード解除": "Spell Damage Guard|faded."
     },
     "858": {
-        "みかわし解除": "Glare faded."
+        "みかわし解除": "Dodge faded."
     },
     "859": {
         "clarity_nt_char_859": "clarity_nt_char_859"
