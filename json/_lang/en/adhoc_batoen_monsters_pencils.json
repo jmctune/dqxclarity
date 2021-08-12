@@ -3477,58 +3477,58 @@
         "clarity_nt_char_1159": "clarity_nt_char_1159"
     },
     "1160": {
-        "打撃ダメージ軽減 -<%dL_NUM>": ""
+        "打撃ダメージ軽減 -<%dL_NUM>": "Phys. Damage Down -<%dL_NUM>"
     },
     "1161": {
-        "会心ダメージ軽減 -<%dL_NUM>": ""
+        "会心ダメージ軽減 -<%dL_NUM>": "Crit. Damage Down -<%dL_NUM>"
     },
     "1162": {
-        "呪文ダメージ軽減 -<%dL_NUM>": ""
+        "呪文ダメージ軽減 -<%dL_NUM>": "Spell Damage Down -<%dL_NUM>"
     },
     "1163": {
-        "ブレス軽減 -<%dL_NUM>": ""
+        "ブレス軽減 -<%dL_NUM>": "Breath Damage -<%dL_NUM>"
     },
     "1164": {
         "clarity_nt_char_1164": "clarity_nt_char_1164"
     },
     "1165": {
-        "打撃無効": ""
+        "打撃無効": "Phys. Null"
     },
     "1166": {
         "clarity_nt_char_1166": "clarity_nt_char_1166"
     },
     "1167": {
-        "会心無効": ""
+        "会心無効": "Crit. Null"
     },
     "1168": {
         "clarity_nt_char_1168": "clarity_nt_char_1168"
     },
     "1169": {
-        "呪文無効": ""
+        "呪文無効": "Spell Null"
     },
     "1170": {
         "clarity_nt_char_1170": "clarity_nt_char_1170"
     },
     "1171": {
-        "ブレス無効": ""
+        "ブレス無効": "Breath Null"
     },
     "1172": {
-        "メタルボディ": ""
+        "メタルボディ": "Metal Body"
     },
     "1173": {
         "clarity_nt_char_1173": "clarity_nt_char_1173"
     },
     "1174": {
-        "上やくそう": ""
+        "上やくそう": "Strong Medicine"
     },
     "1175": {
-        "ダミー": ""
+        "ダミー": "Dummy"
     },
     "1176": {
-        "ラブチョコ": ""
+        "ラブチョコ": "Love Chocolate"
     },
     "1177": {
-        "クイックケーキ": ""
+        "クイックケーキ": "Quick Cake"
     },
     "1178": {
         "つきのめぐみ": ""
