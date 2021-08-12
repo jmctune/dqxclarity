@@ -42,10 +42,10 @@
         "バトエンのアクションには|「右をふる」と書かれたものが　存在します。|<br>|「右をふる」のアクションが　おこなわれると|バトエンの右側に書かれた　強力なアクションを|おこなうチャンスが　発生します。|<br>|「右をふる」アクションには|次の３種類があります。|<br>|「もう１回　右をふる」|そのターンのうちに　バトエンの右側に書かれた|アクション６つのうちの　１つをおこなう。|<br>|「次のターン　右をふる」|次のターンだけ　右側のアクションをおこなう。|その次のターンには　元に戻る。|<br>|「次のターンから　右をふる」|次のターン以降　控えに戻るまで|ずっと　右側のアクションをおこなう。|<br>|「右側をみる」ボタンで　右側のアクションを|確認することもできます。|一度　チェックしてみてください。　|<end>": "There is a type of Batoen action called|\"Roll Right Side\".|<br>|When this action is peformed, the Batoen will|flip to its right side to use one of its more|powerful actions.|<br>|There are three types of \"Roll Right Side\"|actions.|<br>|\"Roll Right Side\" will immediately flip over|the Batoen and roll its right side to use one|of the 6 actions.|<br>|\"Roll Right Side Next Turn\" will roll the|right side on the following turn. Afterwards,|it will roll normally.|<br>|\"Roll Right Side From Next Turn On\" will flip|over and use the right side from the next turn|on, until the Batoen leaves the field.|<br>|You can check a Batoen's right side actions|with \"View Right Side\".|<end>"
     },
     "15": {
-        "バトエンの攻撃には|「打撃」「呪文」「ブレス」の３種類が|存在します。|<br>|敵からの　打撃攻撃を無効化するアクションや|呪文の威力をアップさせる　どうぐ消しゴムなど|攻撃の種類で　効果が変わる場合があります。|<br>|「打撃」は「黒い文字」　「呪文」は「青い文字」|「ブレス」は「紫の文字」で　アクションが|書かれていますので　参考にしてください。|<end>": ""
+        "バトエンの攻撃には|「打撃」「呪文」「ブレス」の３種類が|存在します。|<br>|敵からの　打撃攻撃を無効化するアクションや|呪文の威力をアップさせる　どうぐ消しゴムなど|攻撃の種類で　効果が変わる場合があります。|<br>|「打撃」は「黒い文字」　「呪文」は「青い文字」|「ブレス」は「紫の文字」で　アクションが|書かれていますので　参考にしてください。|<end>": "There are three types of Batoen attacks:|\"Physical\", \"Spell\", and \"Breath\".|<br>|Certain effects reference these attack types,|such as nullifying physical damage or an|Eraser that raises spell power.|<br>|Physical attacks have black text, Spells have|blue text, and Breath attacks have purple|text.|<end>"
     },
     "16": {
-        "各ターンでの　バトエンの行動順は|バトエンの「すばやさ」が　高いものからです。|<br>|ただし　「すばやさ」が　同じ値の場合は|ターンごとに　ランダムで|先に行動するバトエンが　決まります。": ""
+        "各ターンでの　バトエンの行動順は|バトエンの「すばやさ」が　高いものからです。|<br>|ただし　「すばやさ」が　同じ値の場合は|ターンごとに　ランダムで|先に行動するバトエンが　決まります。": "Batoen take turn in order from highest to|lowest \"Agility\" value.|<br>|However, if multiple Batoen have the same|Agility value, their turn order will be|decided randomly."
     },
     "17": {
         "バトエンランチャーを　使用すると|バトエンメニューが　開き|フリー対戦などを　おこなうことが出来ます。|<br>|ただし　レジェスに　認められるまでは|フリー対戦や　デッキの編成は　できません。|<end>": ""
