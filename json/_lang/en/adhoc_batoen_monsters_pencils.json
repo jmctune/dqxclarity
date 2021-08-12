@@ -507,7 +507,7 @@
         "clarity_nt_char_169": "clarity_nt_char_169"
     },
     "170": {
-        "はげしいおたけび　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　転ばせる": "Violent Roar　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+        "はげしいおたけび　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　転ばせる": "Violent Roar　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Fall Down"
     },
     "171": {
         "連続攻撃　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ３のダメージ": "Barrage Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x3"
