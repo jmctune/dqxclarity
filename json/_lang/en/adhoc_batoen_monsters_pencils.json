@@ -408,7 +408,7 @@
         "clarity_nt_char_136": "clarity_nt_char_136"
     },
     "137": {
-        "にげだした！　控えのバトエンと入れ替える": "Ran away! Replace with a copy Batoen"
+        "にげだした！　控えのバトエンと入れ替える": "Ran away! Replace with Reserve Batoen"
     },
     "138": {
         "clarity_nt_char_138": "clarity_nt_char_138"
@@ -717,7 +717,7 @@
         "clarity_nt_char_239": "clarity_nt_char_239"
     },
     "240": {
-        "すみ攻撃　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": "Ink Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Blinded"
+        "すみ攻撃　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": "Ink Shot　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Blinded"
     },
     "241": {
         "するどく突いた　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Hard Poke　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -1290,7 +1290,7 @@
         "clarity_nt_char_430": "clarity_nt_char_430"
     },
     "431": {
-        "すみ攻撃　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　{color=skyblue}呪文{color=default}の威力ダウン（－１０）": "Ink Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=skyblue}Spell{color=default} Power ↓ (-10)"
+        "すみ攻撃　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　{color=skyblue}呪文{color=default}の威力ダウン（－１０）": "Ink Shot　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=skyblue}Spell{color=default} Power ↓ (-10)"
     },
     "432": {
         "触手れんだ　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ６のダメージ": "Tentacle Smash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x6"
@@ -1299,7 +1299,7 @@
         "clarity_nt_char_433": "clarity_nt_char_433"
     },
     "434": {
-        "すみ攻撃　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": "Ink Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> Blinded"
+        "すみ攻撃　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": "Ink Shot　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> Blinded"
     },
     "435": {
         "あばれる　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Expose　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -1743,7 +1743,7 @@
         "アサシンアタック！": "Assassin Attack!"
     },
     "582": {
-        "すみ攻撃！": "Ink Attack!"
+        "すみ攻撃！": "Ink Shot!"
     },
     "583": {
         "するどく突いた！": "Hard Poke!"
