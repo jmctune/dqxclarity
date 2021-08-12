@@ -75,10 +75,10 @@
         "バトエンが　３本　セットされていません。|デッキを　元の状態に　戻しますか？|<yesno 2><close>": "Three Batoen are not set. Would you like to|undo any changes to this deck?|<yesno 2><close>"
     },
     "26": {
-        "バットエンドとの戦いは|１対１で　おこないます。|<br>|彼らの使う　バトエンの特徴を　よく見極め|相性の良いバトエンで　挑むことが|勝利への近道です。|<br>|１対１の戦いでは|ターン開始時に「あきらめる」コマンドを選んで|バトエンファイトを　やめることもできます。|<br>|相性がよくないな　と思ったら|一度　あきらめて|使うバトエンを　変えてみましょう。": ""
+        "バットエンドとの戦いは|１対１で　おこないます。|<br>|彼らの使う　バトエンの特徴を　よく見極め|相性の良いバトエンで　挑むことが|勝利への近道です。|<br>|１対１の戦いでは|ターン開始時に「あきらめる」コマンドを選んで|バトエンファイトを　やめることもできます。|<br>|相性がよくないな　と思ったら|一度　あきらめて|使うバトエンを　変えてみましょう。": "A battle with Bato-End will be a one on one|battle.|<br>|The key to victory is knowing your opponent's|Batoen and countering them accordingly.|<br>|During a one-on-one battle, you can end the|match by selecting \"Give Up\" during your|turn.|<br>|If you find you can't win, give up the battle|so you can change your strategy and try|again."
     },
     "27": {
-        "このデッキを　装備しますか？|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": ""
+        "このデッキを　装備しますか？|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Equip this deck?|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
     },
     "28": {
         "今パーティにいるなかまと　対戦します。|準備は　よろしいですか？|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": ""
