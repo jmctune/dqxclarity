@@ -3312,7 +3312,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>１階-大使室": "<%sW_MAP_NAME><%sW_DELIMITER>1F - Office"
     },
     "1105": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２階-書物庫": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>２階-書物庫": "<%sW_MAP_NAME><%sW_DELIMITER>2F-Library"
     },
     "1106": {
         "<%sW_MAP_NAME><%sW_DELIMITER>３階-作戦室": ""
@@ -5988,7 +5988,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>清めの洞くつ": ""
     },
     "1997": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第２層-書物庫": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第２層-書物庫": "<%sW_MAP_NAME><%sW_DELIMITER>2nd Level-Library"
     },
     "1998": {
         "clarity_nt_char_630": "clarity_nt_char_630"
