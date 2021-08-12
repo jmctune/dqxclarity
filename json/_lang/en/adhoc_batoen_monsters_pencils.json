@@ -2217,7 +2217,7 @@
         "おびえ無効": "Frighten null!"
     },
     "740": {
-        "転び無効": "Fall null!"
+        "転び無効": "Fall Null"
     },
     "741": {
         "clarity_nt_char_741": "clarity_nt_char_741"
@@ -2241,7 +2241,7 @@
         "clarity_nt_char_747": "clarity_nt_char_747"
     },
     "748": {
-        "攻撃力ダウン無効": "Attack Down null!"
+        "攻撃力ダウン無効": "ATK ↓ Null"
     },
     "749": {
         "clarity_nt_char_749": "clarity_nt_char_749"
@@ -2253,7 +2253,7 @@
         "clarity_nt_char_751": "clarity_nt_char_751"
     },
     "752": {
-        "守備力ダウン無効": "Defense Down|null!"
+        "守備力ダウン無効": "DEF ↓ Null"
     },
     "753": {
         "clarity_nt_char_753": "clarity_nt_char_753"
