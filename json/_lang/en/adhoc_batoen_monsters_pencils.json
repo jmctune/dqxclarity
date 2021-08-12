@@ -3228,73 +3228,73 @@
         "呪文反射|残り <%dM_mm>ターン": "Spell Reflect|<%dM_mm> Turns Left"
     },
     "1077": {
-        "自動回復|残り <%dM_mm>ターン": ""
+        "自動回復|残り <%dM_mm>ターン": "Auto Heal|<%dM_mm> Turns Left"
     },
     "1078": {
-        "スーパーハイテンショ|ン　残り <%dM_mm>ターン": ""
+        "スーパーハイテンショ|ン　残り <%dM_mm>ターン": "Super High Tension|<%dM_mm> Turns Left"
     },
     "1079": {
-        "打撃完全ガード|残り <%dM_mm>ターン": ""
+        "打撃完全ガード|残り <%dM_mm>ターン": "Phys. Damage Guard|<%dM_mm> Turns Left"
     },
     "1080": {
         "clarity_nt_char_1080": "clarity_nt_char_1080"
     },
     "1081": {
-        "呪文完全ガード|残り <%dM_mm>ターン": ""
+        "呪文完全ガード|残り <%dM_mm>ターン": "Spell Damage Guard|<%dM_mm> Turns Left"
     },
     "1082": {
         "clarity_nt_char_1082": "clarity_nt_char_1082"
     },
     "1083": {
-        "みかわし|残り <%dM_mm>ターン": ""
+        "みかわし|残り <%dM_mm>ターン": "Dodge|<%dM_mm> Turns Left"
     },
     "1084": {
-        "天使の守り|残り <%dM_mm>ターン": ""
+        "天使の守り|残り <%dM_mm>ターン": "Goddess' Grace|<%dM_mm> Turns Left"
     },
     "1085": {
         "clarity_nt_char_1085": "clarity_nt_char_1085"
     },
     "1086": {
-        "さいだいＨＰ増加|残り <%dM_mm>ターン": ""
+        "さいだいＨＰ増加|残り <%dM_mm>ターン": "Max HP Up|<%dM_mm> Turns Left"
     },
     "1087": {
-        "攻撃力 +20|残り <%dM_mm>ターン": ""
+        "攻撃力 +20|残り <%dM_mm>ターン": "Attack +20|<%dM_mm> Turns Left"
     },
     "1088": {
         "clarity_nt_char_1088": "clarity_nt_char_1088"
     },
     "1089": {
-        "武器ガード|残り <%dM_mm>ターン": ""
+        "武器ガード|残り <%dM_mm>ターン": "Parry|<%dM_mm> Turns Left"
     },
     "1090": {
         "clarity_nt_char_1090": "clarity_nt_char_1090"
     },
     "1091": {
-        "盾ガード|残り <%dM_mm>ターン": ""
+        "盾ガード|残り <%dM_mm>ターン": "Block|<%dM_mm> Turns Left"
     },
     "1092": {
-        "呪文の威力 +50|残り <%dM_mm>ターン": ""
+        "呪文の威力 +50|残り <%dM_mm>ターン": "Spell Power +50|<%dM_mm> Turns Left"
     },
     "1093": {
         "clarity_nt_char_1093": "clarity_nt_char_1093"
     },
     "1094": {
-        "攻撃力 +30|残り <%dM_mm>ターン": ""
+        "攻撃力 +30|残り <%dM_mm>ターン": "Attack +30|<%dM_mm> Turns Left"
     },
     "1095": {
         "clarity_nt_char_1095": "clarity_nt_char_1095"
     },
     "1096": {
-        "眠っている|残り <%dM_mm>ターン": ""
+        "眠っている|残り <%dM_mm>ターン": "Sleeping|<%dM_mm> Turns Left"
     },
     "1097": {
         "clarity_nt_char_1097": "clarity_nt_char_1097"
     },
     "1098": {
-        "混乱している|残り <%dM_mm>ターン": ""
+        "混乱している|残り <%dM_mm>ターン": "Confused|<%dM_mm> Turns Left"
     },
     "1099": {
-        "呪われている|残り <%dM_mm>ターン": ""
+        "呪われている|残り <%dM_mm>ターン": "Cursed|<%dM_mm> Turns Left"
     },
     "1100": {
         "幻惑されている|残り <%dM_mm>ターン": ""
