@@ -3648,24 +3648,24 @@
         "clarity_nt_char_1216": "clarity_nt_char_1216"
     },
     "1217": {
-        "おおさそり": ""
+        "おおさそり": "Scorpion"
     },
     "1218": {
-        "ツタ回し　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "ツタ回し　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Ivy Spin　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "1219": {
-        "{color=skyblue}バギ{color=default}　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　のダメージ": ""
+        "{color=skyblue}バギ{color=default}　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　のダメージ": "{color=skyblue}Woosh{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "1220": {
-        "魅了がとけた！": ""
+        "魅了がとけた！": "Charm faded!"
     },
     "1221": {
-        "魅了されている！　自分に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "魅了されている！　自分に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Charmed!　{color=orange}<%dM_Damage_1>{color=default} Damage to Self"
     },
     "1222": {
         "clarity_nt_char_1222": "clarity_nt_char_1222"
     },
     "1223": {
-        "自分にこうげき！": ""
+        "自分にこうげき！": "Attacked yourself!"
     }
 }
