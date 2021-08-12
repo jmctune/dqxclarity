@@ -981,7 +981,7 @@
         "clarity_nt_char_327": "clarity_nt_char_327"
     },
     "328": {
-        "破竹の一撃　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　使ったあと１回休み": "Bamboo Strike　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> User Incapacitated"
+        "破竹の一撃　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　使ったあと１回休み": "Bamboo Strike　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> User Resting"
     },
     "329": {
         "clarity_nt_char_329": "clarity_nt_char_329"
