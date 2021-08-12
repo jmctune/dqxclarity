@@ -1029,7 +1029,7 @@
         "はげしく斬りつけた　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Violent Slash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "344": {
-        "マヒャド斬り　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Kacrackle Slash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+        "マヒャド斬り　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Kacrack Slash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "345": {
         "矢をはなった　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Arrow Shot　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -1932,55 +1932,55 @@
         "弓をひきしぼった！": "Drew bow!"
     },
     "645": {
-        "はげしく斬りつけた！": ""
+        "はげしく斬りつけた！": "Violent Slash!"
     },
     "646": {
         "clarity_nt_char_646": "clarity_nt_char_646"
     },
     "647": {
-        "マヒャド斬り！": ""
+        "マヒャド斬り！": "Kacrack Slash!"
     },
     "648": {
-        "矢をはなった！": ""
+        "矢をはなった！": "Arrow Shot!"
     },
     "649": {
-        "グランドインパクト！": ""
+        "グランドインパクト！": "Grand Impact!"
     },
     "650": {
         "clarity_nt_char_650": "clarity_nt_char_650"
     },
     "651": {
-        "暗黒のきり！": ""
+        "暗黒のきり！": "Dark Fog!"
     },
     "652": {
         "clarity_nt_char_652": "clarity_nt_char_652"
     },
     "653": {
-        "やみのブレス！": ""
+        "やみのブレス！": "Dark Breath!"
     },
     "654": {
-        "ふみつけ！": ""
+        "ふみつけ！": "Trample!"
     },
     "655": {
-        "ミサイル！": ""
+        "ミサイル！": "Missile!"
     },
     "656": {
-        "スカラ！": ""
+        "スカラ！": "Buff!"
     },
     "657": {
         "clarity_nt_char_657": "clarity_nt_char_657"
     },
     "658": {
-        "呪いこうげき！": ""
+        "呪いこうげき！": "Curse Attack!"
     },
     "659": {
-        "ドルマ！": ""
+        "ドルマ！": "Zam!"
     },
     "660": {
         "clarity_nt_char_660": "clarity_nt_char_660"
     },
     "661": {
-        "毒こうげき！": ""
+        "毒こうげき！": "Poison Attack!"
     },
     "662": {
         "clarity_nt_char_662": "clarity_nt_char_662"
