@@ -444,7 +444,7 @@
         "clarity_nt_char_148": "clarity_nt_char_148"
     },
     "149": {
-        "にくきゅうパンチ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　魅了する": "Paw Punch　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+        "にくきゅうパンチ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　魅了する": "Curiosity Kills　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "150": {
         "{color=skyblue}メラミ{color=default}　　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Frizzle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -1506,25 +1506,25 @@
         "イオグランデ！": "Kaboomle!"
     },
     "503": {
-        "ベホイミ！": ""
+        "ベホイミ！": "Midheal!"
     },
     "504": {
-        "マダンテ！": ""
+        "マダンテ！": "Magic Burst!"
     },
     "505": {
-        "にくきゅうパンチ！": ""
+        "にくきゅうパンチ！": "Curiosity Kills!"
     },
     "506": {
-        "メラミ！": ""
+        "メラミ！": "Frizzle!"
     },
     "507": {
         "clarity_nt_char_507": "clarity_nt_char_507"
     },
     "508": {
-        "メラガイアー！": ""
+        "メラガイアー！": "Kafrizzle!"
     },
     "509": {
-        "復活の杖！": ""
+        "復活の杖！": "Zing Stick!"
     },
     "510": {
         "ライガークラッシュ！": ""
