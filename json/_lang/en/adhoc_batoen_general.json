@@ -81,13 +81,13 @@
         "このデッキを　装備しますか？|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Equip this deck?|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
     },
     "28": {
-        "今パーティにいるなかまと　対戦します。|準備は　よろしいですか？|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": ""
+        "今パーティにいるなかまと　対戦します。|準備は　よろしいですか？|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Play a match with your current party?|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
     },
     "29": {
-        "パーティの人数が　２人以上いないと|なかま対戦は　選択できません。": ""
+        "パーティの人数が　２人以上いないと|なかま対戦は　選択できません。": "A Party Battle requires 2 or more members in|your party."
     },
     "30": {
-        "レジェスに　認められるまで|「なかま対戦」は　選べないようだ……。|<end>": ""
+        "レジェスに　認められるまで|「なかま対戦」は　選べないようだ……。|<end>": "You can't select \"Party Battle\" until you are|approved by Rejes...|<end>"
     },
     "31": {
         "バトエンに「なかま対戦」が追加されました！|なかま対戦では　今のなかまと一緒に|バトエンを遊べます｡|<br>|ただし　なかま対戦では|もらえるバトエンポイントが　フリー対戦の|半分になりますので　ご注意ください。|<br>|また　バトルに先に負けた時　パーティから|自動で抜けずに　<cancel>を押すことで|任意に　抜けられるようになりました。|<end>": ""
