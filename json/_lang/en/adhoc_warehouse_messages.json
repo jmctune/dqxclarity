@@ -1404,7 +1404,7 @@
         "<select_se_off 2>|最初の倉庫|５キャラ倉庫|<select_end><break>": ""
     },
     "469": {
-        "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off>|あずける|とりだす|<select_end><break>": ""
+        "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|You can either deposit or retrieve to use the item storage.| What would you like to do?|<select_se_off 2>|Deposit|Retrieve|<select_end><break>"
     },
     "470": {
         "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off 2>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|You can either deposit or retrieve to use the item storage.| What would you like to do?|<select_se_off 2>|Deposit|Retrieve|<select_end><break>"
