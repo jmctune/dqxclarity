@@ -96,13 +96,13 @@
         "死んでいるため レベルが あがらなかった。": "You couldn't level up because you are dead."
     },
     "33": {
-        "<%sB_TARGET>たちは 宝箱を 落としていった！": "The enemy dropped a treasure chest!"
+        "<%sB_TARGET>たちは 宝箱を 落としていった！": "The <%sB_TARGET>s dropped a treasure chest!"
     },
     "34": {
         "clarity_nt_char_14": "clarity_nt_char_14"
     },
     "35": {
-        "まもののむれは 宝箱を 落としていった！": "The enemy dropped a treasure chest!"
+        "まもののむれは 宝箱を 落としていった！": "The enemies dropped a treasure chest!"
     },
     "36": {
         "clarity_nt_char_15": "clarity_nt_char_15"
@@ -117,7 +117,7 @@
         "<%sB_ACTOR>は 不意をつかれた！": "The enemy caught you off guard!"
     },
     "40": {
-        "<%sB_TARGET>たちが あらわれた！": "Some enemies draw near!"
+        "<%sB_TARGET>たちが あらわれた！": "Some <%sB_TARGET>s draw near!"
     },
     "41": {
         "clarity_nt_char_17": "clarity_nt_char_17"
