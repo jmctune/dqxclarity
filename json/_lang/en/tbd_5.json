@@ -183,7 +183,7 @@
         "<speed=0>サブリーダーの　説明です！|<br>|<speed=0>サブリーダーは　特別なチームの機能の使用を|リーダーから許された　特別なメンバーです。|サブリーダーの人数の制限は　ありません。|<br>|<speed=0>使える機能は　他プレイヤーのチームへの勧誘。|スローガンの変更。エンブレムのデザイン。|他のメンバーの　サブリーダー任命です。|<br>|他のメンバーを　サブリーダーに任命するには　|コミュニケーションウィンドウのチームリストで|相手を選び　『サブリーダーにする』です。|<br>|サブリーダーから　サブリーダーの権利を|解除できるのは　チームのリーダーのみです。|<br>|<speed=0>サブリーダーについての　説明は|チーム大使の『説明を聞く』からも|確認できます。": "<speed=0>This will explain \"Sub Leader\"!|<br>|<speed=0>A Sub Leader is a special member who is|allowed to use special Team functions. There|is no limit to the number of Sub Leaders.|<br>|They can invite members, change the slogan,|change the Team Emblem, and appoint|other Sub Leaders.|<br>|To appoint someone as a Sub Leader, select|them in the Team tab and then select \"Make|Sub Leader\".|<br>|Only Team Leaders are able to revoke|Sub Leader status.|<br>|You can view this explanation again from a|Team Ambassador NPC."
     },
     "62": {
-        "<speed=0><%sM_pc>を　サブリーダーにしますか？|<yesno 1><close>": ""
+        "<speed=0><%sM_pc>を　サブリーダーにしますか？|<yesno 1><close>": "<speed=0>Make <%sM_pc> a Sub Leader?|<yesno 1><close>"
     },
     "63": {
         "clarity_nt_char_21": "clarity_nt_char_21"
