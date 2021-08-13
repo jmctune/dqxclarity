@@ -630,7 +630,7 @@
         "「うーむ……その条件に当てはまる|　商品は　出品されてないようだ。　|<end>": ""
     },
     "211": {
-        "「では　単価の安い物から|　１００品単位で　リストを見てくれよ。|<bw_break>": ""
+        "「では　単価の安い物から|　１００品単位で　リストを見てくれよ。|<bw_break>": "Please look at this list in units of 100,|starting from the lowest price.|<bw_break>"
     },
     "212": {
         "「探す物の条件を　教えてくれよ。　|<end>": ""
