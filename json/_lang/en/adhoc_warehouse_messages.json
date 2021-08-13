@@ -438,7 +438,7 @@
         "<select_se_off>|あずける|ひきだす|<select_end><break>": "<select_se_off>|Deposit|Withdraw|<select_end><break>"
     },
     "147": {
-        "<select_se_off 2>|あずける|ひきだす|<select_end><break>": ""
+        "<select_se_off 2>|あずける|ひきだす|<select_end><break>": "<select_se_off 2>|Deposit|Withdraw|<select_end><break>"
     },
     "148": {
         "「<%nL_WITHDRW_GLD>０００ゴールド　お返しして|　現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。他に　ご用はありますか？|<break>": ""
@@ -828,10 +828,10 @@
         "「そんなに　たくさん　お持ちになれませんよ。|<br>|「他にも　ご用はありますか？|<break>": ""
     },
     "277": {
-        "<select_se_off>|あずける|ひきだす|<select_end><break>": ""
+        "<select_se_off>|あずける|ひきだす|<select_end><break>": "<select_se_off>|Deposit|Withdraw|<select_end><break>"
     },
     "278": {
-        "<select_se_off 3>|あずける|ひきだす|<select_end><break>": ""
+        "<select_se_off 3>|あずける|ひきだす|<select_end><break>": "<select_se_off 3>|Deposit|Withdraw|<select_end><break>"
     },
     "279": {
         "「<%nL_WITHDRW_GLD>０００ゴールド|　確かに　お返ししました。|<br>|「他にも　ご用はありますか？|<break>": ""
@@ -1011,10 +1011,10 @@
         "<select_se_off 4>|あずける|ひきだす|整理する|名前を変える|<select_end><break>": ""
     },
     "338": {
-        "<select_se_off>|あずける|ひきだす|<select_end><break>": ""
+        "<select_se_off>|あずける|ひきだす|<select_end><break>": "<select_se_off>|Deposit|Withdraw|<select_end><break>"
     },
     "339": {
-        "<select_se_off 3>|あずける|ひきだす|<select_end><break>": ""
+        "<select_se_off 3>|あずける|ひきだす|<select_end><break>": "<select_se_off 3>|Deposit|Withdraw|<select_end><break>"
     },
     "340": {
         "「それでは新しい倉庫名を入力してください|<break>": ""
