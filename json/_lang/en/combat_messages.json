@@ -30,19 +30,19 @@
         "<%sB_ACTOR>は 戦うのをやめた。": "<%sB_ACTOR> has stopped fighting."
     },
     "11": {
-        "<%sB_TARGET>を やっつけた！": "The <%sB_TARGET> is defeated!"
+        "<%sB_TARGET>を やっつけた！": "The <%sB_TARGET> was defeated!"
     },
     "12": {
         "clarity_nt_char_5": "clarity_nt_char_5"
     },
     "13": {
-        "<%sB_TARGET>たちを やっつけた！": "The <%sB_TARGET>s are defeated!"
+        "<%sB_TARGET>たちを やっつけた！": "The <%sB_TARGET>s were defeated!"
     },
     "14": {
         "clarity_nt_char_6": "clarity_nt_char_6"
     },
     "15": {
-        "まもののむれを やっつけた！": "The enemies are defeated!"
+        "まもののむれを やっつけた！": "The enemies were defeated!"
     },
     "16": {
         "clarity_nt_char_7": "clarity_nt_char_7"
@@ -66,13 +66,13 @@
         "clarity_nt_char_10": "clarity_nt_char_10"
     },
     "23": {
-        "<%sB_TARGET>は いなくなった！": "The <%sB_TARGET> runs away!"
+        "<%sB_TARGET>は いなくなった！": "The <%sB_TARGET> ran away!"
     },
     "24": {
-        "<%sB_TARGET>たちは いなくなった！": "The <%sB_TARGET>s run away!"
+        "<%sB_TARGET>たちは いなくなった！": "The <%sB_TARGET>s ran away!"
     },
     "25": {
-        "まもののむれは いなくなった！": "The enemies run away!"
+        "まもののむれは いなくなった！": "The enemies ran away!"
     },
     "26": {
         "<%sB_ACTOR>たちは ぜんめつした。": "The party was wiped out..."
@@ -165,7 +165,7 @@
         "clarity_nt_char_22": "clarity_nt_char_22"
     },
     "56": {
-        "<%sB_ACTOR>は 戦いを やめた。": "<%sB_ACTOR> runs away."
+        "<%sB_ACTOR>は 戦いを やめた。": "<%sB_ACTOR> ran away."
     },
     "57": {
         "<%sB_ACTOR>は ＭＰが 足りなかった。": "<%sB_ACTOR> doesn't have enough MP."
@@ -297,7 +297,7 @@
         "しかし 宝箱は 手に入らなかった。": "But you couldn't get the treasure chest."
     },
     "100": {
-        "<%sB_ACTOR>は まものたちから 何かを盗みとっていた！": "<%sB_ACTOR> steals something from the enemy!"
+        "<%sB_ACTOR>は まものたちから 何かを盗みとっていた！": "<%sB_ACTOR> stole something from the enemy!"
     },
     "101": {
         "clarity_nt_char_36": "clarity_nt_char_36"
