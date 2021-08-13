@@ -480,13 +480,13 @@
         "自分の土地に建てられた <%sL_HOUSE_NAME>を たたんだ。": ""
     },
     "161": {
-        "教会で <%sL_PC>を 生き返らせた！": ""
+        "教会で <%sL_PC>を 生き返らせた！": "Revived <%sL_PC> in the church!"
     },
     "162": {
-        "教会で <%sL_PC>の 呪いを解いた！": ""
+        "教会で <%sL_PC>の 呪いを解いた！": "Broke <%sL_PC>'s curse in the church!"
     },
     "163": {
-        "教会で <%sL_PC>の どくを治した！": ""
+        "教会で <%sL_PC>の どくを治した！": "Cured <%sL_PC>'s poison at the church!"
     },
     "164": {
         "<%sL_SYOKUNIN>の仕事をして <%sM_item>を <%dM_item_num>個 手に入れた！": ""
