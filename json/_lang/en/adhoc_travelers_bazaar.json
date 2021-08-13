@@ -378,7 +378,7 @@
         "「おやめになるのですね。|　では　他の物を出品いたしますか？|<break>": ""
     },
     "127": {
-        "「<pc>さまは　あと<%nL_SYUPPIN>品|　出品できます。|　どちらを　出品なさいますか？|<break>": ""
+        "「<pc>さまは　あと<%nL_SYUPPIN>品|　出品できます。|　どちらを　出品なさいますか？|<break>": "<pc> you can sell <%nL_SYUPPIN> more items.|What would you like to sell?|<break>"
     },
     "128": {
         "「こちらは　装備していれば|　戦いのときに　どうぐとして使っても|　効果がございます。|<bw_break>": ""
