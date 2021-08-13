@@ -1467,7 +1467,7 @@
         "「あら　<%sL_STORAGE>は|　空っぽのようですね。|<bw_break>": ""
     },
     "490": {
-        "ありがとうございました。|またのご利用を　お待ちしております。|<turn_end>": ""
+        "ありがとうございました。|またのご利用を　お待ちしております。|<turn_end>": "Thank you very much.|We look forward to seeing you again.|<turn_end>"
     },
     "491": {
         "「出品ですね。１品につき　出品料<%nL_FEE_PRICE>ゴールドと|　商品が売れた際には　手数料として　売上金の|　<%nL_FEE>％をいただきますが　よろしいですか？|<yesno><break>": ""
