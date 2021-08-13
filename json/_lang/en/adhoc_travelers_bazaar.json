@@ -354,7 +354,7 @@
         "「その数を　選ぶことはできません。|<bw_break>": ""
     },
     "119": {
-        "「申し訳ありませんが|　お金が　足りないようです。|　他の品物を　お選びくださいませ。|<bw_break>": ""
+        "「申し訳ありませんが|　お金が　足りないようです。|　他の品物を　お選びくださいませ。|<bw_break>": "I'm sorry, but you do not have enough money.|Please choose another item.|<bw_break>"
     },
     "120": {
         "「あら　<%sL_STORAGE>は|　空っぽのようですね。|<bw_break>": ""
