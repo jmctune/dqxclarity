@@ -267,7 +267,7 @@
         "「ありがとうございました。|　また　お越しくださいませ。|<turn_end>": ""
     },
     "90": {
-        "「いらっしゃいませ。|　こちらは　旅人バザーです。|　今日は　どうしますか？|<break>": "Welcome to the Traveler's Bazaar!|What would you like to do today?|<break>"
+        "「いらっしゃいませ。|　こちらは　旅人バザーです。|　今日は　どうしますか？|<break>": "Hello!|Welcome to the Traveler's Bazaar!|What would you like to do today?|<break>"
     },
     "91": {
         "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
