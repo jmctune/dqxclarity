@@ -1368,7 +1368,7 @@
         "clarity_nt_char_456": "clarity_nt_char_456"
     },
     "457": {
-        "マヒ攻撃　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　　マヒさせる": "Paralattack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Paralysis"
+        "マヒ攻撃　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　　マヒさせる": "Paralyze　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Paralysis"
     },
     "458": {
         "clarity_nt_char_458": "clarity_nt_char_458"
@@ -2148,7 +2148,7 @@
         "おうえん！": "Egg On!"
     },
     "717": {
-        "マヒ攻撃！": "Paralattack!"
+        "マヒ攻撃！": "Paralyze!"
     },
     "718": {
         "回転アタック！": "Spin Attack!"
