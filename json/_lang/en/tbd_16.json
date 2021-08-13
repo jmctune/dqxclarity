@@ -1074,34 +1074,34 @@
         "デッキに入れると １枚につき|最大ＨＰが ３ずつ上がる": "Putting a card back in the|deck increases Max HP|by 3."
     },
     "359": {
-        "使った時に ５％の確率で|テンションを 消費しない": "5% chance to not consume|tension after using this."
+        "使った時に ５％の確率で|テンションを 消費しない": "5% chance to not consume|tension after using this|Tarot."
     },
     "360": {
-        "使った時に １０％の確率で|テンションを 消費しない": "10% chance to not consume|tension after using this."
+        "使った時に １０％の確率で|テンションを 消費しない": "10% chance to not consume|tension after using this|Tarot."
     },
     "361": {
         "clarity_nt_char_119": "clarity_nt_char_119"
     },
     "362": {
-        "使った時に ２０％の確率で|テンションを 消費しない": "20% chance to not consume|tension after using this."
+        "使った時に ２０％の確率で|テンションを 消費しない": "20% chance to not consume|tension after using this|Tarot."
     },
     "363": {
         "clarity_nt_char_120": "clarity_nt_char_120"
     },
     "364": {
-        "使った時に １０％の確率で|効果が ２回発動する": "10% chance to activate this|effect twice."
+        "使った時に １０％の確率で|効果が ２回発動する": "10% chance to activate this|Tarot's effect twice."
     },
     "365": {
         "clarity_nt_char_121": "clarity_nt_char_121"
     },
     "366": {
-        "使った時に ３０％の確率で|効果が ２回発動する": "30% chance to activate this|effect twice."
+        "使った時に ３０％の確率で|効果が ２回発動する": "30% chance to activate this|Tarot's effect twice."
     },
     "367": {
         "clarity_nt_char_122": "clarity_nt_char_122"
     },
     "368": {
-        "とくぎ『エンゼルのみちびき』|を使えば 手札に|呼びよせることができる": "You can use the skill \"Angel's|Guidance\" to put this into|your hand."
+        "とくぎ『エンゼルのみちびき』|を使えば 手札に|呼びよせることができる": "You can use the skill \"Angel's|Guidance\" to put this Tarot|into your hand."
     },
     "369": {
         "このタロットは 戦闘開始時に|必ず手札に入る": "This Tarot will always be|in your hand at the|start of battle."
@@ -1131,7 +1131,7 @@
         "このタロットが 手札に入った時|２０％の確率で|テンションが上がる": "When this Tarot is put into|your hand, 20% chance to|gain tension."
     },
     "378": {
-        "デッキに入れると １枚につき|かいふく魔力が ２５ずつ上がる": ""
+        "デッキに入れると １枚につき|かいふく魔力が ２５ずつ上がる": "Putting a card back in the|deck increases Magical Mending|by 25 over time."
     },
     "379": {
         "clarity_nt_char_126": "clarity_nt_char_126"
