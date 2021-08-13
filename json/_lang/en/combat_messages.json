@@ -1,6 +1,6 @@
 {
     "1": {
-        "<%sB_TARGET>が あらわれた！": "An enemy draws near!"
+        "<%sB_TARGET>が あらわれた！": "A <%sB_TARGET> draws near!"
     },
     "2": {
         "clarity_nt_char_1": "clarity_nt_char_1"
@@ -30,7 +30,7 @@
         "<%sB_ACTOR>は 戦うのをやめた。": "<%sB_ACTOR> has stopped fighting."
     },
     "11": {
-        "<%sB_TARGET>を やっつけた！": "The enemy is defeated!"
+        "<%sB_TARGET>を やっつけた！": "<%sB_TARGET> is defeated!"
     },
     "12": {
         "clarity_nt_char_5": "clarity_nt_char_5"
