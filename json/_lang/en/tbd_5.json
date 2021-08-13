@@ -636,7 +636,7 @@
         "clarity_nt_char_70": "clarity_nt_char_70"
     },
     "213": {
-        "送信エラー！非通知": ""
+        "送信エラー！非通知": "Send Error! Not Notice"
     },
     "214": {
         "<speed=0>相手のチーム所属の確認が　できませんでした。|相手がチームに所属しているか　ご確認のうえ|もう一度お試しください。": ""
@@ -675,7 +675,7 @@
         "clarity_nt_char_74": "clarity_nt_char_74"
     },
     "226": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの職人経験値を かくとく！| → おうえんボーナス +<%dL_EXP_OUEN> P": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの職人経験値を かくとく！| → おうえんボーナス +<%dL_EXP_OUEN> P": "\\s<%sC_PC>\\m<%sC_ID>\\e received <%dL_EXP> Craftsman EXP!| → Cheer Bonus +<%dL_EXP_OUEN> EXP"
     },
     "227": {
         "clarity_nt_char_75": "clarity_nt_char_75"
