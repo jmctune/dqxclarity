@@ -1203,7 +1203,7 @@
         "clarity_nt_char_125": "clarity_nt_char_125"
     },
     "402": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eは 釣りレベルが <%dL_LEVEL>にアップ！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eは 釣りレベルが <%dL_LEVEL>にアップ！": "\\s<%sC_PC>\\m<%sC_ID>\\e fishing level is now <%dL_LEVEL>!"
     },
     "403": {
         "<%.1fM_CM>ｃｍの <%sM_item>を 釣り上げた！": "Caught a <%.1fM_CM>cm <%sM_item>!"
