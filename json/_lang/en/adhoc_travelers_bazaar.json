@@ -36,7 +36,7 @@
         "「まいどありぃ！|　ここで　装備していくかね？|<yesno 2><break>": ""
     },
     "13": {
-        "「他に出品したい物は　あるか？|<break>": ""
+        "「他に出品したい物は　あるか？|<break>": "Any other items you'd like to sell?|<break>"
     },
     "14": {
         "「あと<%nL_SYUPPIN>品　出品できるが|　まだ　出品するかね？|<break>": ""
