@@ -264,7 +264,7 @@
         "「おや？　<%sL_STORAGE>は|　空っぽのようですね。|<bw_break>": ""
     },
     "89": {
-        "「ありがとうございました。|　また　お越しくださいませ。|<turn_end>": ""
+        "「ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you very much!|Please come again!|<turn_end>"
     },
     "90": {
         "「いらっしゃいませ。|　こちらは　旅人バザーです。|　今日は　どうしますか？|<break>": "Hello!|Welcome to the Traveler's Bazaar!|What would you like to do today?|<break>"
