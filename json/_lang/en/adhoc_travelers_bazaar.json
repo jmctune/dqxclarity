@@ -870,7 +870,7 @@
         "「何について　ご説明いたしますか？|<break>": "What would you like me to explain?|<break>"
     },
     "291": {
-        "「では　旅人バザーについて説明いたします。|　ここ旅人バザーは　冒険者同士で|　商品の売り買いをするための施設です。|<br>|「商品リストから　ほしい商品を探していただき|　ほしい物が見つかれば　その場で|　すぐに　お買い上げいただけます。|<br>|「商品リストは　すべての大陸|　すべてのサーバーで　共通になっております。|<br>|「また　冒険者であれば　どなたでも|　商品を出品することもできます。|  出品できる数は　８品までとなっています。|<br>|「商品を出品する際には　出品料１０ゴールド。|　値段をつけ直す際には再出品料１０ゴールド。|<br>|「売れた際には　手数料として　売上金の|　５％をいただきますので　ご了承ください。|<bw_break>": ""
+        "「では　旅人バザーについて説明いたします。|　ここ旅人バザーは　冒険者同士で|　商品の売り買いをするための施設です。|<br>|「商品リストから　ほしい商品を探していただき|　ほしい物が見つかれば　その場で|　すぐに　お買い上げいただけます。|<br>|「商品リストは　すべての大陸|　すべてのサーバーで　共通になっております。|<br>|「また　冒険者であれば　どなたでも|　商品を出品することもできます。|  出品できる数は　８品までとなっています。|<br>|「商品を出品する際には　出品料１０ゴールド。|　値段をつけ直す際には再出品料１０ゴールド。|<br>|「売れた際には　手数料として　売上金の|　５％をいただきますので　ご了承ください。|<bw_break>": "I will now explain the Traveler's Bazaar.|The Traveler's Bazaar is a place where|adventurers can buy and sell their wares.|<br>|If you find the listing you were looking for,|you are able to purchase it immediately.|<br>|The listings are the same for all continents|and all servers.|<br>|All adventurers are welcome to submit items|for sale. But the number of items you can|submit is limited to 8.|<br>|Listing and re-pricing an item has a 10 gold|fee.|<br>|Please also note that you will be charged|a commission of 5% of the proceeds from each|sale.|<bw_break>"
     },
     "292": {
         "<select_se_off>|旅人バザーについて|装備品について|<select_end><break>": "<select_se_off>|About Traveler's Bazaar|About Equipment|<select_end><break>"
