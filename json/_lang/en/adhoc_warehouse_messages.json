@@ -1221,10 +1221,10 @@
         "「そんなに　たくさん　お持ちになれませんよ。|<br>|「他にも　ご用はありますか？|<break>": ""
     },
     "408": {
-        "<select_se_off>|あずける|ひきだす|<select_end><break>": ""
+        "<select_se_off>|あずける|ひきだす|<select_end><break>": "<select_se_off>|Deposit|Withdraw|<select_end><break>"
     },
     "409": {
-        "<select_se_off 2>|あずける|ひきだす|<select_end><break>": ""
+        "<select_se_off 2>|あずける|ひきだす|<select_end><break>": "<select_se_off 2>|Deposit|Withdraw|<select_end><break>"
     },
     "410": {
         "「<%nL_WITHDRW_GLD>０００ゴールド　お返しして|　現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。他に　ご用はありますか？|<break>": ""
@@ -1626,10 +1626,10 @@
         "<speed=0>|しかし　引き出そうとしたゴールドを|持ちきれないようだ！|<br>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": ""
     },
     "543": {
-        "<select_se_off>|あずける|ひきだす|<select_end><break>": ""
+        "<select_se_off>|あずける|ひきだす|<select_end><break>": "<select_se_off>|Deposit|Withdraw|<select_end><break>"
     },
     "544": {
-        "<select_se_off 2>|あずける|ひきだす|<select_end><break>": ""
+        "<select_se_off 2>|あずける|ひきだす|<select_end><break>": "<select_se_off 2>|Deposit|Withdraw|<select_end><break>"
     },
     "545": {
         "<speed=0>|<pc>は　ツボに手を入れて|中をさぐった！|<br>|なんと　<%nL_WITHDRW_GLD>０００ゴールドを|見つけた！|<br>|現在　ゴールド銀行には|<%nL_AZU_BALANCE>０００ゴールドを|預けているようだ。|<break>": ""
