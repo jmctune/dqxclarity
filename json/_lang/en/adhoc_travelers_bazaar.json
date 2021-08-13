@@ -336,7 +336,7 @@
         "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": ""
     },
     "113": {
-        "「ありがとうございました。|　では　こちらをどうぞ。|<bw_break>": ""
+        "「ありがとうございました。|　では　こちらをどうぞ。|<bw_break>": "Thank you very much!|If you have any questions, please let us know.|<bw_break>"
     },
     "114": {
         "「出品を　受け付けました！　<%nL_HOUR>時間たっても|　買い手が見つからない時にも　郵便で|　商品を　お返ししますので　ご了承ください。|<bw_break>": ""
