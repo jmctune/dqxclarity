@@ -66,13 +66,13 @@
         "clarity_nt_char_10": "clarity_nt_char_10"
     },
     "23": {
-        "<%sB_TARGET>は いなくなった！": "The enemy runs away!"
+        "<%sB_TARGET>は いなくなった！": "The <%sB_TARGET> runs away!"
     },
     "24": {
-        "<%sB_TARGET>たちは いなくなった！": "The enemies run away!"
+        "<%sB_TARGET>たちは いなくなった！": "The <%sB_TARGET>s run away!"
     },
     "25": {
-        "まもののむれは いなくなった！": "The group of enemies run away!"
+        "まもののむれは いなくなった！": "The enemies run away!"
     },
     "26": {
         "<%sB_ACTOR>たちは ぜんめつした。": "The party was wiped out..."
