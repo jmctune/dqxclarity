@@ -96,7 +96,7 @@
         "「こいつは　装備してれば|　戦いのときに　どうぐとして使っても|　効果があるぜ！|<bw_break>": ""
     },
     "33": {
-        "「他にも　用はあるかい？|<break>": "Is there anything else you need?|<break>"
+        "「他にも　用はあるかい？|<break>": "Anything else you need?|<break>"
     },
     "34": {
         "「まだ何か　買ってくかい？|<bw_break>": ""
@@ -1722,7 +1722,7 @@
         "「いらっしゃいませ！|　旅人バザーへ　ようこそっ。|　今日は　どんなご用事ですか？|<break>": "Hello!|Welcome to the Traveler's Bazaar!|What can I do for you today?|<break>"
     },
     "575": {
-        "「他にも　用はありますか？|<break>": "Is there anything else I can do for you?|<break>"
+        "「他にも　用はありますか？|<break>": "Anything else I can do for you?|<break>"
     },
     "576": {
         "「どんな商品を　お探しですか？|<break>": "What kind of listings are you looking for?|<break>"
