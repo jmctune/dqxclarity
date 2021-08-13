@@ -366,7 +366,7 @@
         "周りの仲間のＨＰを ２５～回復する": "Restore 25 HP to all nearby|allies."
     },
     "123": {
-        "周りの仲間を ＨＰ１で 生き返らせるが|失敗する時もある": "Revive all nearby allies with|1 HP, but it might fail"
+        "周りの仲間を ＨＰ１で 生き返らせるが|失敗する時もある": "Revive all nearby allies with|1 HP, but it might fail."
     },
     "124": {
         "clarity_nt_char_43": "clarity_nt_char_43"
@@ -486,10 +486,10 @@
         "clarity_nt_char_56": "clarity_nt_char_56"
     },
     "163": {
-        "回復量が １６４～に増える": ""
+        "回復量が １６４～に増える": "Recovery amount increased to ~164."
     },
     "164": {
-        "効果範囲が さらに広くなる": ""
+        "効果範囲が さらに広くなる": "Effect range further increased."
     },
     "165": {
         "スライム": "Slime"
@@ -846,10 +846,10 @@
         "clarity_nt_char_96": "clarity_nt_char_96"
     },
     "283": {
-        "このモンスターは|特殊効果を 持っていない": ""
+        "このモンスターは|特殊効果を 持っていない": "This monster has no special|effects."
     },
     "284": {
-        "デッキに入れると １枚につき|身かわし率が|０．１％ずつ上がる": ""
+        "デッキに入れると １枚につき|身かわし率が|０．１％ずつ上がる": "Putting a card in the deck|increases dodge rate by|0.1% per card put."
     },
     "285": {
         "デッキに入れると １枚につき|身かわし率が|０．２％ずつ上がる": ""
