@@ -48,7 +48,7 @@
         "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": ""
     },
     "17": {
-        "「まいどありぃ！|<bw_break>": ""
+        "「まいどありぃ！|<bw_break>": "Thank you!|<bw_break>"
     },
     "18": {
         "「出品を　受け付けたぜ！　<%nL_HOUR>時間たっても|　買い手が見つからなかったら　郵便で|　商品を　送り返すけど　許してくれよ。|<bw_break>": ""
