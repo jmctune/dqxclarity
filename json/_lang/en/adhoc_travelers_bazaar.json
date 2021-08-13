@@ -1719,7 +1719,7 @@
         "<select_se_off 5>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
     },
     "574": {
-        "「いらっしゃいませ！|　旅人バザーへ　ようこそっ。|　今日は　どんなご用事ですか？|<break>": ""
+        "「いらっしゃいませ！|　旅人バザーへ　ようこそっ。|　今日は　どんなご用事ですか？|<break>": "Hello!|Welcome to the Traveler's Bazaar!|What can I do for you today?|<break>"
     },
     "575": {
         "「他にも　用はありますか？|<break>": "Is there anything else I can do for you?|<break>"
