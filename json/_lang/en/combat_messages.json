@@ -30,13 +30,13 @@
         "<%sB_ACTOR>は 戦うのをやめた。": "<%sB_ACTOR> has stopped fighting."
     },
     "11": {
-        "<%sB_TARGET>を やっつけた！": "<%sB_TARGET> is defeated!"
+        "<%sB_TARGET>を やっつけた！": "The <%sB_TARGET> is defeated!"
     },
     "12": {
         "clarity_nt_char_5": "clarity_nt_char_5"
     },
     "13": {
-        "<%sB_TARGET>たちを やっつけた！": "The enemies are defeated!"
+        "<%sB_TARGET>たちを やっつけた！": "The <%sB_TARGET>s are defeated!"
     },
     "14": {
         "clarity_nt_char_6": "clarity_nt_char_6"
