@@ -213,10 +213,10 @@
         "<select_se_off 2>|最初の倉庫|５キャラ倉庫|<select_end><break>": ""
     },
     "72": {
-        "<select_se_off>|あずける|とりだす|<select_end><break>": "<select_se_off>|Deposit|Withdraw|<select_end><break>"
+        "<select_se_off>|あずける|とりだす|<select_end><break>": "<select_se_off>|Deposit|Retrieve|<select_end><break>"
     },
     "73": {
-        "<select_se_off 2>|あずける|とりだす|<select_end><break>": "<select_se_off 2>|Deposit|Withdraw|<select_end><break>"
+        "<select_se_off 2>|あずける|とりだす|<select_end><break>": "<select_se_off 2>|Deposit|Retrieve|<select_end><break>"
     },
     "74": {
         "「それでは　新しい倉庫名を入力してください。|<break>": ""
