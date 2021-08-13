@@ -123,7 +123,7 @@
         "clarity_nt_char_17": "clarity_nt_char_17"
     },
     "42": {
-        "まもののむれが あらわれた！": "A group of enemies draw near!"
+        "まもののむれが あらわれた！": "Some enemies draw near!"
     },
     "43": {
         "clarity_nt_char_18": "clarity_nt_char_18"
@@ -180,7 +180,7 @@
         "clarity_nt_char_24": "clarity_nt_char_24"
     },
     "61": {
-        "<%sB_ACTOR>は <%sB_TARGET>を たおした！": "<%sB_ACTOR> defeated an enemy!"
+        "<%sB_ACTOR>は <%sB_TARGET>を たおした！": "<%sB_ACTOR> defeated <%sB_TARGET>!"
     },
     "62": {
         "clarity_nt_char_25": "clarity_nt_char_25"
