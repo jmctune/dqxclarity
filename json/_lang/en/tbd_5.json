@@ -1911,7 +1911,7 @@
         "clarity_nt_char_207": "clarity_nt_char_207"
     },
     "638": {
-        "<%sM_item>を <%dM_item_num>個 錬金釜から取り出した！": ""
+        "<%sM_item>を <%dM_item_num>個 錬金釜から取り出した！": "<%dM_item_num> <%sM_item> came out of the Alchemy Pot!"
     },
     "639": {
         "強化屋で <%sM_item><%sM_plusnum>を|<%sM_item2><%sM_plusnum2>に 強化した！": ""
