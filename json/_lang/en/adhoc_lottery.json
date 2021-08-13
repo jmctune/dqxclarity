@@ -126,7 +126,7 @@
         "<pc>は　第<%nL_KAISAISUU>回|『<%sL_KUJI_NAME>』の|くじ券　１枚を手に入れた！<se_nots System 18>|<bw_break>": ""
     },
     "43": {
-        "<select_se_off>|説明を聞く|やめる|<select_end><break>": ""
+        "<select_se_off>|説明を聞く|やめる|<select_end><break>": "<select_se_off>|Explanation|Stop|<select_end><break>"
     },
     "44": {
         "「いらっしゃいませ！|　ここは　アストルティア★ハッピーくじ屋です。|　今は　何も開催しておりません。<break>": ""
