@@ -510,10 +510,10 @@
         "clarity_nt_char_55": "clarity_nt_char_55"
     },
     "171": {
-        "酒場で サポート仲間の<%sC_PC>と 別れた。": ""
+        "酒場で サポート仲間の<%sC_PC>と 別れた。": "Said goodbye to <%sC_PC> at the tavern."
     },
     "172": {
-        "酒場で <%sC_PC>を サポート仲間に加えた！": ""
+        "酒場で <%sC_PC>を サポート仲間に加えた！": "Added <%sC_PC> as a support party at the tavern!"
     },
     "173": {
         "<%sM_item>を 手に入れた！": "You received <%sM_item>!"
@@ -594,7 +594,7 @@
         "clarity_nt_char_65": "clarity_nt_char_65"
     },
     "199": {
-        "自宅の屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": ""
+        "自宅の屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "Put <%dL_QUANTITY> <%sL_ITEM_NAME> <%sL_PLUSNUM> into|house storage."
     },
     "200": {
         "clarity_nt_char_66": "clarity_nt_char_66"
