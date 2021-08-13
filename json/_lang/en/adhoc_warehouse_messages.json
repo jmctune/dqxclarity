@@ -36,10 +36,10 @@
         "これ以上　ゴールドを|持てません。|<end>": ""
     },
     "13": {
-        "<select_se_off>|あずける|ひきだす|<select_end><break>": ""
+        "<select_se_off>|あずける|ひきだす|<select_end><break>": "<select_se_off>|Deposit|Withdraw|<select_end><break>"
     },
     "14": {
-        "<select_se_off 2>|あずける|ひきだす|<select_end><break>": ""
+        "<select_se_off 2>|あずける|ひきだす|<select_end><break>": "<select_se_off 2>|Deposit|Withdraw|<select_end><break>"
     },
     "15": {
         "<%nL_WITHDRW_GLD>０００ゴールド　引き出して|現在　<%nL_AZU_BALANCE>０００ゴールド|預けています。|<end>": ""
@@ -435,7 +435,7 @@
         "「そんなに　たくさん　お持ちになれませんよ。|<br>|「他にも　ご用はありますか？|<break>": ""
     },
     "146": {
-        "<select_se_off>|あずける|ひきだす|<select_end><break>": ""
+        "<select_se_off>|あずける|ひきだす|<select_end><break>": "<select_se_off>|Deposit|Withdraw|<select_end><break>"
     },
     "147": {
         "<select_se_off 2>|あずける|ひきだす|<select_end><break>": ""
