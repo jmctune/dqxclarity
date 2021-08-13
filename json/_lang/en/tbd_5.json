@@ -3861,10 +3861,10 @@
         "クラブ": "Club"
     },
     "1288": {
-        "ダイヤ": ""
+        "ダイヤ": "Diamond"
     },
     "1289": {
-        "ハート": ""
+        "ハート": "Heart"
     },
     "1290": {
         "スペード": "Spade"
@@ -3969,7 +3969,7 @@
         "clarity_nt_char_440": "clarity_nt_char_440"
     },
     "1324": {
-        "<%sM_CW_stamp>（スタンプ　<%sM_CW_pack_no>）": ""
+        "<%sM_CW_stamp>（スタンプ　<%sM_CW_pack_no>）": "<%sM_CW_stamp> (Stamp <%sM_CW_pack_no>)"
     },
     "1325": {
         "<%-12sL_name>  <%-6sL_rank> (<%7dL_rank_point>P)  <%sL_trump_name>": ""

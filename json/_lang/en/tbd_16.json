@@ -1521,15 +1521,15 @@
         "手札に来た時|自分のＨＰが|３０％回復": "Recover 30% of|your HP when put|into your hand."
     },
     "508": {
-        "ＨＰ全快状態で|使った時に|２回発動する": ""
+        "ＨＰ全快状態で|使った時に|２回発動する": "Activate this effect|twice when your|HP is full."
     },
     "509": {
         "clarity_nt_char_170": "clarity_nt_char_170"
     },
     "510": {
-        "ＨＰ全快状態で|使った時に|回復量が増える": ""
+        "ＨＰ全快状態で|使った時に|回復量が増える": "Increase recovery|amount when your|HP is full."
     },
     "511": {
-        "手札に来た時|ＨＰとＭＰが|１０％回復": ""
+        "手札に来た時|ＨＰとＭＰが|１０％回復": "Recover 30% of|your HP/MP when put|into your hand."
     }
 }
