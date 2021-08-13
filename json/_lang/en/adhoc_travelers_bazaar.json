@@ -363,7 +363,7 @@
         "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": ""
     },
     "122": {
-        "「いらっしゃいませ。|　旅人バザーへ　ようこそ。|　本日は　いかがなさいますか？|<break>": "Welcome to the Traveler's Bazaar!|How can I help you today?|<break>"
+        "「いらっしゃいませ。|　旅人バザーへ　ようこそ。|　本日は　いかがなさいますか？|<break>": "Hello!|Welcome to the Traveler's Bazaar!|How can I help you today?|<break>"
     },
     "123": {
         "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
@@ -1485,7 +1485,7 @@
         "「……あら？　<pc>さまの　知り合いを|　一部しか　探せなかったようです。|<break>": ""
     },
     "496": {
-        "「いらっしゃいませ。|　旅人バザーへ　ようこそ。|　本日は　いかがなさいますか？|<break>": "Welcome to the Traveler's Bazaar!|How can I help you today?|<break>"
+        "「いらっしゃいませ。|　旅人バザーへ　ようこそ。|　本日は　いかがなさいますか？|<break>": "Hello!|Welcome to the Traveler's Bazaar!|How can I help you today?|<break>"
     },
     "497": {
         "「<%sL_KAITAI_ITEM>の　しぐさは|　すでに　覚えていらっしゃるようですが|　よろしいですか？|<yesno><break>": ""
