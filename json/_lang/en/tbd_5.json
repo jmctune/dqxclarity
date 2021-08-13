@@ -30,16 +30,16 @@
         "名前をみる": "View Name"
     },
     "11": {
-        "<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": ""
+        "<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": "<%sM_speaker> \"<%sM_chat>\" ＞ <%sM_listener>"
     },
     "12": {
-        "送信エラー！<%sM_speaker>「<%sM_chat>…」": ""
+        "送信エラー！<%sM_speaker>「<%sM_chat>…」": "Send Error! <%sM_speaker> \"<%sM_chat>…\""
     },
     "13": {
         "clarity_nt_char_3": "clarity_nt_char_3"
     },
     "14": {
-        "送信エラー！": ""
+        "送信エラー！": "Send Error!"
     },
     "15": {
         "clarity_nt_char_4": "clarity_nt_char_4"
@@ -48,19 +48,19 @@
         "まだ フレンドが いません": "No friends yet"
     },
     "17": {
-        "まだ なかまが いません": ""
+        "まだ なかまが いません": "No Friends"
     },
     "18": {
         "clarity_nt_char_5": "clarity_nt_char_5"
     },
     "19": {
-        "チームに 入っていません": ""
+        "チームに 入っていません": "No Team"
     },
     "20": {
         "clarity_nt_char_6": "clarity_nt_char_6"
     },
     "21": {
-        "通信エラーが発生しました。": ""
+        "通信エラーが発生しました。": "A communication error occurred."
     },
     "22": {
         "------------------------------------------- 現在のリアル時間 <%2nM_CW_hour>：<%02nM_CW_minute>": "-------------------------------------------Current Real Time<%2nM_CW_hour>：<%02nM_CW_minute>"
