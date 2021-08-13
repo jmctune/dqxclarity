@@ -210,13 +210,13 @@
         "clarity_nt_char_24": "clarity_nt_char_24"
     },
     "71": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eを チームにさそいました。": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eを チームにさそいました。": "Sent a Team request to \\s<%sC_PC>\\m<%sC_ID>\\e."
     },
     "72": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eとの取り引きが　成立した！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eとの取り引きが　成立した！": "Trade with \\s<%sC_PC>\\m<%sC_ID>\\e was completed!"
     },
     "73": {
-        "<%sL_SYOKUNIN_KIND>で <%sB_item>に|<%sL_RENKIN_TEXT>を付けた！": ""
+        "<%sL_SYOKUNIN_KIND>で <%sB_item>に|<%sL_RENKIN_TEXT>を付けた！": "<%sL_SYOKUNIN_KIND> added <%sL_RENKIN_TEXT>|to <%sB_item>!"
     },
     "74": {
         "<%sL_SYOKUNIN_KIND>で <%sM_item><%sL_QUALITY>を作った！": ""
