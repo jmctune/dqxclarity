@@ -42,7 +42,7 @@
         "clarity_nt_char_6": "clarity_nt_char_6"
     },
     "15": {
-        "まもののむれを やっつけた！": "The group of enemies are defeated!"
+        "まもののむれを やっつけた！": "The enemies are defeated!"
     },
     "16": {
         "clarity_nt_char_7": "clarity_nt_char_7"
@@ -60,7 +60,7 @@
         "clarity_nt_char_9": "clarity_nt_char_9"
     },
     "21": {
-        "<%sB_TARGET>は 宝箱を 落としていった！": "The enemy dropped a treasure chest!"
+        "<%sB_TARGET>は 宝箱を 落としていった！": "The <%sB_TARGET> dropped a treasure chest!"
     },
     "22": {
         "clarity_nt_char_10": "clarity_nt_char_10"
