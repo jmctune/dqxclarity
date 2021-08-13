@@ -78,7 +78,7 @@
         "パーティリーダーにする": "Make Party Leader"
     },
     "27": {
-        "ストーリーリーダーにする": ""
+        "ストーリーリーダーにする": "Make Story Leader"
     },
     "28": {
         "clarity_nt_char_8": "clarity_nt_char_8"
@@ -111,13 +111,13 @@
         "clarity_nt_char_11": "clarity_nt_char_11"
     },
     "38": {
-        "送信エラー！対象オフ": ""
+        "送信エラー！対象オフ": "Send Error! Recipient Offline"
     },
     "39": {
         "clarity_nt_char_12": "clarity_nt_char_12"
     },
     "40": {
-        "送信エラー！対象不在": ""
+        "送信エラー！対象不在": "Send Error! Recipient Left"
     },
     "41": {
         "clarity_nt_char_13": "clarity_nt_char_13"
@@ -201,7 +201,7 @@
         "clarity_nt_char_23": "clarity_nt_char_23"
     },
     "68": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eを ブラックリストに追加した。": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eを ブラックリストに追加した。": "\\s<%sC_PC>\\m<%sC_ID>\\e was added to the blacklist."
     },
     "69": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eを フレンドにさそいました。": "Sent a friend request to \\s<%sC_PC>\\m<%sC_ID>\\e."
