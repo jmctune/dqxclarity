@@ -135,7 +135,7 @@
         "<speed=0><%sM_pc>さんが　ログインしたときに|ログインを　『通知しない』から|『通知する』に　変更しますか？|<yesno 1><close>": "<speed=0>Do you want to change from \"Do Not Notify\"|to \"Notify\" whenever <%sM_pc> logs in?|<yesno 1><close>"
     },
     "46": {
-        "<speed=0>『通知しない』に　変更しました。|<%sM_pc>さんが　ログインしても|通知されません。": ""
+        "<speed=0>『通知しない』に　変更しました。|<%sM_pc>さんが　ログインしても|通知されません。": "<speed=0>Changed to \"Do Not Notify\". You will not|be notified when <%sM_pc> logs in."
     },
     "47": {
         "clarity_nt_char_15": "clarity_nt_char_15"
@@ -144,7 +144,7 @@
         "<speed=0><%sM_pc>さんが　ログインしたときに|ログインを　『通知する』から|『通知しない』に　変更しますか？|<yesno 1><close>": "<speed=0>Do you want to change from \"Notify\"|to \"Do Not Notify\" whenever <%sM_pc> logs in?|<yesno 1><close>"
     },
     "49": {
-        "<speed=0>ログイン通知設定の保存に失敗しました。|時間をおいて　再度お試しください。": ""
+        "<speed=0>ログイン通知設定の保存に失敗しました。|時間をおいて　再度お試しください。": "<speed=0>Failed to save login notify settings.|Please try again later."
     },
     "50": {
         "clarity_nt_char_16": "clarity_nt_char_16"
@@ -219,7 +219,7 @@
         "<%sL_SYOKUNIN_KIND>で <%sB_item>に|<%sL_RENKIN_TEXT>を付けた！": "<%sL_SYOKUNIN_KIND> added <%sL_RENKIN_TEXT>|to <%sB_item>!"
     },
     "74": {
-        "<%sL_SYOKUNIN_KIND>で <%sM_item><%sL_QUALITY>を作った！": ""
+        "<%sL_SYOKUNIN_KIND>で <%sM_item><%sL_QUALITY>を作った！": "<%sL_SYOKUNIN_KIND> created a <%sM_item> <%sL_QUALITY>!"
     },
     "75": {
         "旅人バザーに出品していた <%sM_item><%sM_plusnum>を 取りやめた。": "Cancelled putting the <%sM_item><%sM_plusnum> up for sale."
