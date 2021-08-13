@@ -309,10 +309,10 @@
         "<select_se_off>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|Change Name|<select_end><break>"
     },
     "104": {
-        "<select_se_off 2>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": ""
+        "<select_se_off 2>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off 2>|Item Storage|Gold Bank|Change Name|<select_end><break>"
     },
     "105": {
-        "<select_se_off 3>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": ""
+        "<select_se_off 3>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off 3>|Item Storage|Gold Bank|Change Name|<select_end><break>"
     },
     "106": {
         "「ご自分が預けたい　持ち物の種類を|　選んでください。|<end>": ""
@@ -771,7 +771,7 @@
         "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
     },
     "258": {
-        "<select_se_off>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": ""
+        "<select_se_off>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|Change Name|<select_end><break>"
     },
     "259": {
         "<select_se_off 2>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": ""
