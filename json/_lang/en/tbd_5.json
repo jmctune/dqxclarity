@@ -165,16 +165,16 @@
         "<speed=0><%sM_pc>は　別のサーバーにいます。|なかまコマンドの『サーバー移動』などで|同じサーバーに集まって　遊んでください。|<br>|<speed=0>仲間にさそい　相手の返事を待ちます。|<%sM_pc>を　仲間に　さそいますか？|<yesno 1><close>": "<speed=0><%sM_pc> is on another server.|Use the \"Party\" command to move servers|to play together.|<br>|<speed=0>Would you like to send a party invite|to <%sM_pc>?|<yesno 1><close>"
     },
     "56": {
-        "<speed=0><%sM_pc>を　サブリーダーから|はずしますか？|<yesno 1><close>": ""
+        "<speed=0><%sM_pc>を　サブリーダーから|はずしますか？|<yesno 1><close>": "<speed=0>Revoke <%sM_pc>'s Sub Leader status?|<yesno 1><close>"
     },
     "57": {
         "clarity_nt_char_19": "clarity_nt_char_19"
     },
     "58": {
-        "<speed=0><%sM_pc>を　サブリーダーにしました！": ""
+        "<speed=0><%sM_pc>を　サブリーダーにしました！": "<speed=0><%sM_pc> is now a Sub Leader!"
     },
     "59": {
-        "<speed=0><%sM_pc>を　サブリーダーからはずしました。": ""
+        "<speed=0><%sM_pc>を　サブリーダーからはずしました。": "<speed=0><%sM_pc> is no longer a Sub Leader."
     },
     "60": {
         "clarity_nt_char_20": "clarity_nt_char_20"
