@@ -288,7 +288,7 @@
         "「こちらは　装備していれば|　戦いのときに　どうぐとして使っても|　効果がありますよ！|<bw_break>": ""
     },
     "97": {
-        "「他にも　ご用はございますか？|<break>": ""
+        "「他にも　ご用はございますか？|<break>": "Anything else I can help you with?|<break>"
     },
     "98": {
         "「まだ何か　お買い上げなさいますか？|<bw_break>": ""
@@ -1227,7 +1227,7 @@
         "「<%sL_KAITAI_ITEM>のレシピは|　すでに　覚えていらっしゃるようですが|　よろしいですか？|<yesno><break>": ""
     },
     "410": {
-        "「他にも　ご用はございますか？|<break>": ""
+        "「他にも　ご用はございますか？|<break>": "Anything else I can help you with?|<break>"
     },
     "411": {
         "「どちらの商品を　お探しですか？|<break>": "What listings are you looking for?|<break>"
