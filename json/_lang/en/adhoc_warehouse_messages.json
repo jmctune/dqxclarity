@@ -774,10 +774,10 @@
         "<select_se_off>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|Change Name|<select_end><break>"
     },
     "259": {
-        "<select_se_off 2>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": ""
+        "<select_se_off 2>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off 2>|Item Storage|Gold Bank|Change Name|<select_end><break>"
     },
     "260": {
-        "<select_se_off 3>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": ""
+        "<select_se_off 3>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off 3>|Item Storage|Gold Bank|Change Name|<select_end><break>"
     },
     "261": {
         "<pipipi_off><speed=0>|取り出したい　持ち物が入っている倉庫を|選んでください。|<break>": ""
