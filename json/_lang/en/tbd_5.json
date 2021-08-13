@@ -1,6 +1,6 @@
 {
     "1": {
-        "チームからはずす": ""
+        "チームからはずす": "Remove from Team"
     },
     "2": {
         "clarity_nt_char_1": "clarity_nt_char_1"
@@ -9,16 +9,16 @@
         "フレンドからはずす": "Remove Friend"
     },
     "4": {
-        "<speed=0><%sM_pc>を　チームから　はずして|よろしいですか？|<yesno 2><close>": ""
+        "<speed=0><%sM_pc>を　チームから　はずして|よろしいですか？|<yesno 2><close>": "<speed=0>Remove <%sM_pc> from the Team?|<yesno 2><close>"
     },
     "5": {
         "コメントをみる": "View Comments"
     },
     "6": {
-        "<%sM_speaker>「<%sM_chat>」": ""
+        "<%sM_speaker>「<%sM_chat>」": "<%sM_speaker> \"<%sM_chat>\""
     },
     "7": {
-        "全員の同期が　完了しました。|ボスマップに　移動します。　": ""
+        "全員の同期が　完了しました。|ボスマップに　移動します。　": "Everyone's synchronization is complete.|Proceeding to boss map."
     },
     "8": {
         "<speed=0><%sM_pc>を　フレンドから　はずして|よろしいですか？|<yesno 2><close>": "<speed=0>Are you sure you want to remove|<%sM_pc> from your friends?|<yesno 2><close>"
@@ -27,7 +27,7 @@
         "clarity_nt_char_2": "clarity_nt_char_2"
     },
     "10": {
-        "名前をみる": ""
+        "名前をみる": "View Name"
     },
     "11": {
         "<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": ""
@@ -2247,7 +2247,7 @@
         "clarity_nt_char_244": "clarity_nt_char_244"
     },
     "750": {
-        "タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 合成に使った！": "\"<%sB_TAROT_ARCA> <%sB_TAROT_MONS>\" Tarot used for synthesis!"
+        "タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 合成に使った！": "\"<%sB_TAROT_ARCA> <%sB_TAROT_MONS>\" Tarot was used for synthesis!"
     },
     "751": {
         "clarity_nt_char_245": "clarity_nt_char_245"
