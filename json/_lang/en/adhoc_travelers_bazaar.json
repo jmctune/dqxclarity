@@ -2184,10 +2184,10 @@
         "「ん？　これは　レプリカになっているけど　|　買うのか？|<yesno 2><break>": ""
     },
     "729": {
-        "「おや？　こちらは　レプリカになっていますが　|　購入なさいますか？|<yesno 2><break>": ""
+        "「おや？　こちらは　レプリカになっていますが　|　購入なさいますか？|<yesno 2><break>": "Oh? This is a duplicate.|Do you still want to buy it?|<yesno 2><break>"
     },
     "730": {
-        "「あら？　こちらは　レプリカになっていますが　|　購入なさいますか？|<yesno 2><break>": "Oh? This is a duplicate.|Do you still want to buy it?|<yesno 2><break>"
+        "「あら？　こちらは　レプリカになっていますが　|　購入なさいますか？|<yesno 2><break>": "Ah? This is a duplicate.|Do you still want to buy it?|<yesno 2><break>"
     },
     "731": {
         "こちらは　レプリカになっていますが　|購入なさいますか？|<yesno 2><break>": "This is a duplicate.|Do you still want to buy it?|<yesno 2><break>"
