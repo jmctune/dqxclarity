@@ -2166,7 +2166,7 @@
         "<pc>は <%sB_ITEM>を開けた！": ""
     },
     "723": {
-        "ランク<%sB_TAROT_RARE>の タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 手に入れた！": ""
+        "ランク<%sB_TAROT_RARE>の タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 手に入れた！": "Received a Rank <%sB_TAROT_RARE> \"<%sB_TAROT_ARCA> <%sB_TAROT_MONS>\" Tarot!"
     },
     "724": {
         "clarity_nt_char_237": "clarity_nt_char_237"
@@ -2247,7 +2247,7 @@
         "clarity_nt_char_244": "clarity_nt_char_244"
     },
     "750": {
-        "タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 合成に使った！": "\"<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>\" Tarot used for synthesis!"
+        "タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 合成に使った！": "\"<%sB_TAROT_ARCA> <%sB_TAROT_MONS>\" Tarot used for synthesis!"
     },
     "751": {
         "clarity_nt_char_245": "clarity_nt_char_245"
