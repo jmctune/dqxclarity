@@ -2844,13 +2844,13 @@
         "clarity_nt_char_948": "clarity_nt_char_948"
     },
     "949": {
-        "打撃攻撃のダメージ上昇": "Physical damage|taken up!"
+        "打撃攻撃のダメージ上昇": "Physical damage taken up!"
     },
     "950": {
         "呪文攻撃のダメージ上昇": "Spell damage dealt up!"
     },
     "951": {
-        "打撃で受けるダメージ減": "Reduced Physical|damage taken!"
+        "打撃で受けるダメージ減": "Reduced Physical damage taken!"
     },
     "952": {
         "呪文で受けるダメージ減": "Reduced Spell damage taken!"
@@ -2907,7 +2907,7 @@
         "自分を攻撃する": "Attack yourself!"
     },
     "970": {
-        "打撃攻撃のダメージ減少": "Reduce physical|damage taken!"
+        "打撃攻撃のダメージ減少": "Reduce physical damage taken!"
     },
     "971": {
         "呪文の威力ダウン": "Spell Power Down"
@@ -2916,7 +2916,7 @@
         "clarity_nt_char_972": "clarity_nt_char_972"
     },
     "973": {
-        "打撃で受けるダメージ増": "Increased physical|damage taken!"
+        "打撃で受けるダメージ増": "Increased physical damage taken!"
     },
     "974": {
         "呪文で受けるダメージ増": "Reduced spell damage taken!"
