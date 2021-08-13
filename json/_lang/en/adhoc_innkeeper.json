@@ -54,7 +54,7 @@
         "「さようなら　旅の人。|　また　お立ち寄りください。<turn_end>": ""
     },
     "19": {
-        "「いらっしゃい。ここは　旅人の宿よ。|　おひとり　<%nL_YADOYA_GOLD>ゴールドだけど|　休んでく？|<yesno><break>": "Welcome to the traveler's inn!|For one person it's <%nL_YADOYA_GOLD>gold.|Would you like to stay and rest?|<yesno><break>"
+        "「いらっしゃい。ここは　旅人の宿よ。|　おひとり　<%nL_YADOYA_GOLD>ゴールドだけど|　休んでく？|<yesno><break>": "Welcome to the traveler's inn!|For one person it's <%nL_YADOYA_GOLD> gold.|Would you like to stay and rest?|<yesno><break>"
     },
     "20": {
         "「あら　お金が　足りないの？<bw_break>": ""
