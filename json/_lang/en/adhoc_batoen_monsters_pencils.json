@@ -2634,7 +2634,7 @@
         "clarity_nt_char_878": "clarity_nt_char_878"
     },
     "879": {
-        "魅了がとけた": "Remove Charm"
+        "魅了がとけた": "Charm faded!"
     },
     "880": {
         "clarity_nt_char_880": "clarity_nt_char_880"
@@ -3657,7 +3657,7 @@
         "{color=skyblue}バギ{color=default}　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　のダメージ": "{color=skyblue}Woosh{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "1220": {
-        "魅了がとけた！": "Charm faded!"
+        "魅了がとけた！": "Remove Charm!"
     },
     "1221": {
         "魅了されている！　自分に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Charmed!　{color=orange}<%dM_Damage_1>{color=default} Damage to Self"
