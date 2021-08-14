@@ -213,7 +213,7 @@
         "どうぐかばんが　いっぱいだったので|<%sCAS_doll>を|すごろく景品係ミミに　預かってもらった！": "Your Item Bag was full, so your|<%sCAS_doll> was sent to|Prize Clerk Mimi!"
     },
     "72": {
-        "<se_nots System 7>|<pc>は　『悪夢に囚われし街』マップの|５回クリア報酬として|<%sCAS_doll>を　手に入れた！": ""
+        "<se_nots System 7>|<pc>は　『悪夢に囚われし街』マップの|５回クリア報酬として|<%sCAS_doll>を　手に入れた！": "<se_nots System 7>|<pc> received <%sCAS_doll> as a|reward for clearing the \"Trapped Nightmare|Town\" 5 times!"
     },
     "73": {
         "出会いの酒場マスで　仲間を増やして|『悪夢に囚われし街』マップを|５回　クリアしました！|<br>|その報酬として|<pc>は　好きな景品を|ひとつ　もらえるようになりました！|<me 71>": ""
