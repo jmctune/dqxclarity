@@ -219,15 +219,15 @@
         "出会いの酒場マスで　仲間を増やして|『悪夢に囚われし街』マップを|５回　クリアしました！|<br>|その報酬として|<pc>は　好きな景品を|ひとつ　もらえるようになりました！|<me 71>": "Used the tavern to recruit companions and|cleared the \"Trapped Nightmare Town\" map|5 times!|<br>|Now you can choose your prize!"
     },
     "74": {
-        "<se_nots System 7>|<pc>は　すごろくで|合計<%nM_coin>枚の|カジノコインを手に入れた！": ""
+        "<se_nots System 7>|<pc>は　すごろくで|合計<%nM_coin>枚の|カジノコインを手に入れた！": "<se_nots System 7>|<pc> received a total of <%nM_coin>|Casino Coins from Sugoroku!"
     },
     "75": {
-        "<%sCAS_job>に　転職します。|よろしいですか？|<yesno><close>": ""
+        "<%sCAS_job>に　転職します。|よろしいですか？|<yesno><close>": "Do you want to change to <%sCAS_job>?|<yesno><close>"
     },
     "76": {
-        "<%sCAS_doll>を　もらいます。|よろしいですか？|<yesno><close>": ""
+        "<%sCAS_doll>を　もらいます。|よろしいですか？|<yesno><close>": "Do you want to receive the|<%sCAS_doll>?|<yesno><close>"
     },
     "77": {
-        "<%sCAS_job>としての　経験を積み|レベルアップします。|よろしいですか？|<yesno><close>": ""
+        "<%sCAS_job>としての　経験を積み|レベルアップします。|よろしいですか？|<yesno><close>": "Gain EXP as <%sCAS_job> and level up?|<yesno><close>"
     }
 }
