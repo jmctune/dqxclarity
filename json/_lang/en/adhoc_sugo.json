@@ -114,13 +114,13 @@
         "<color_yellow>|どうぐかばんや　そうびぶくろが　いっぱいで|持ちきれなかった　アイテムがあります。|すごろく景品係ミミの所へ　受け取りに行こう！|<color_white>": "<color_yellow>|There were items you couldn't receive due|to your Item and Equipment Bag being full.|Go see Prize Clerk Mimi to receive them!|<color_white>"
     },
     "39": {
-        "天使たちが|<%sCAS_target>を　いきかえした！": ""
+        "天使たちが|<%sCAS_target>を　いきかえした！": "Angels have revived <%sCAS_target>!"
     },
     "40": {
-        "<%sCAS_target>は　ねむっている！": ""
+        "<%sCAS_target>は　ねむっている！": "<%sCAS_target> is asleep!"
     },
     "41": {
-        "なかまの　すごろくへのエントリーを　待っています。": ""
+        "なかまの　すごろくへのエントリーを　待っています。": "Waiting for party members to enter Sugoroku."
     },
     "42": {
         "<%sCAS_gambler>は|ハイテンションになった！|攻撃や回復の威力が　２倍になった！": ""
