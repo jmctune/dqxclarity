@@ -15,16 +15,16 @@
         "本当に　すごろくを中止しますか？|すごろくを　中止した場合|パーティから　抜けることになります。|<yesno 2><close>": "Really stop playing Sugoroku? If you quit,|you'll leave your current party.|<yesno 2><close>"
     },
     "6": {
-        "<%sCAS_gambler>は|ちかくの教会で　いきかえった！": ""
+        "<%sCAS_gambler>は|ちかくの教会で　いきかえった！": "<%sCAS_gambler> revived at a nearby|church!"
     },
     "7": {
-        "<%sCAS_monster>が　あらわれた！": ""
+        "<%sCAS_monster>が　あらわれた！": "<%sCAS_monster> appeared!"
     },
     "8": {
-        "<%sCAS_monster>を　やっつけた！": ""
+        "<%sCAS_monster>を　やっつけた！": "<%sCAS_monster> was defeated!"
     },
     "9": {
-        "<%sCAS_gambler>は　<%sCAS_job>に　転職した！": ""
+        "<%sCAS_gambler>は　<%sCAS_job>に　転職した！": "<%sCAS_gambler> changed to <%sCAS_job>!"
     },
     "10": {
         "今　その特技を使っても|効果が無いようだ。": ""
