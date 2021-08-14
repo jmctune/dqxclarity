@@ -12120,16 +12120,16 @@
         "clarity_nt_char_1356": "clarity_nt_char_1356"
     },
     "4041": {
-        "星のタロット": "The Star Tarot"
+        "星のタロット": "The Star"
     },
     "4042": {
         "clarity_nt_char_1357": "clarity_nt_char_1357"
     },
     "4043": {
-        "愚者のタロット": ""
+        "愚者のタロット": "The Fool"
     },
     "4044": {
-        "女帝のタロット": ""
+        "女帝のタロット": "The Empress"
     },
     "4045": {
         "バンド仲間呼び": ""
@@ -22536,7 +22536,7 @@
         "clarity_nt_char_2506": "clarity_nt_char_2506"
     },
     "7513": {
-        "ＳＳＳのタロット|を手札に移動する|占い師専用特技": ""
+        "ＳＳＳのタロット|を手札に移動する|占い師専用特技": "Places an SSS|Tarot into your|hand."
     },
     "7514": {
         "周囲の仲間の|テンションアップ": ""
@@ -23844,7 +23844,7 @@
         "友情の光を 300Ｐ 手に入れた！": ""
     },
     "7949": {
-        "ラッキー！ <%sB_TARGET>は 世界のタロットを引いた！": ""
+        "ラッキー！ <%sB_TARGET>は 世界のタロットを引いた！": "Lucky! <%sB_TARGET> drew The World!"
     },
     "7950": {
         "clarity_nt_char_2658": "clarity_nt_char_2658"
