@@ -105,10 +105,10 @@
         "<%sCAS_gambler>は|なかまたちを　かばった！": "<%sCAS_gambler> protected the party!"
     },
     "36": {
-        "とくぎを　覚えていない！": ""
+        "とくぎを　覚えていない！": "You don't know any skills!"
     },
     "37": {
-        "そうびぶくろが　いっぱいだったので|<%sCAS_item>を|すごろく景品係ミミに　預かってもらった！": ""
+        "そうびぶくろが　いっぱいだったので|<%sCAS_item>を|すごろく景品係ミミに　預かってもらった！": "Your Equipment Bag was full, so Prize Clerk|Mimi is holding onto your <%sCAS_item>!"
     },
     "38": {
         "<color_yellow>|どうぐかばんや　そうびぶくろが　いっぱいで|持ちきれなかった　アイテムがあります。|すごろく景品係ミミの所へ　受け取りに行こう！|<color_white>": ""
