@@ -27,13 +27,13 @@
         "<%sCAS_gambler>は　<%sCAS_job>に　転職した！": "<%sCAS_gambler> changed to <%sCAS_job>!"
     },
     "10": {
-        "今　その特技を使っても|効果が無いようだ。": ""
+        "今　その特技を使っても|効果が無いようだ。": "Using that skill now would have no effect."
     },
     "11": {
-        "既に　<%sCAS_gambler>が|かばっている！": ""
+        "既に　<%sCAS_gambler>が|かばっている！": "<%sCAS_gambler> is already being|Covered!"
     },
     "12": {
-        "<%sCAS_monster>からは　もう盗めないようだ。": ""
+        "<%sCAS_monster>からは　もう盗めないようだ。": "Couldn't steal anything from <%sCAS_monster>."
     },
     "13": {
         "<%sCAS_item>を　手に入れた！": ""
