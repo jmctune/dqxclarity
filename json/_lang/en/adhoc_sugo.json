@@ -174,19 +174,19 @@
         "他の仲間を　待っています。": "Waiting for other members."
     },
     "59": {
-        "サイコロが　<%nCAS_value>こ残っているので|その２倍の　<%nCAS_value2>回分を追加して|計<%nCAS_value3>回　お宝ゲットチャンスに　挑戦できます！": ""
+        "サイコロが　<%nCAS_value>こ残っているので|その２倍の　<%nCAS_value2>回分を追加して|計<%nCAS_value3>回　お宝ゲットチャンスに　挑戦できます！": "Since there's <%nCAS_value> dice left, you|can double the amount of dice for <%nCAS_value2> more|tries, for a total of <%nCAS_value3> tries for treasure!"
     },
     "60": {
-        "なんと　<%sCAS_monster>は|<%sCAS_item>を　落としていった！": ""
+        "なんと　<%sCAS_monster>は|<%sCAS_item>を　落としていった！": "What luck! <%sCAS_monster> dropped|a <%sCAS_item>!"
     },
     "61": {
-        "ここでは　好きな職業に|転職ができるようだ！": ""
+        "ここでは　好きな職業に|転職ができるようだ！": "You can change to any vocation of your choice|here!"
     },
     "62": {
-        "転職したい職業を　選んで下さい。": ""
+        "転職したい職業を　選んで下さい。": "Please select a new vocation."
     },
     "63": {
-        "しかし　効果がなかったようだ。": ""
+        "しかし　効果がなかったようだ。": "But there was no effect."
     },
     "64": {
         "しかし　<%sCAS_gambler>たちは|ダメージを　うけなかった！": ""
