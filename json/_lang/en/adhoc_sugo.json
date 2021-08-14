@@ -57,16 +57,16 @@
         "<se_nots System 7>|<pc>たちは　すごろくで|<%sCAS_item>を　<%nCAS_NUM>こ　手に入れた！": "<se_nots System 7>|<pc> and co. received|<%nCAS_NUM> <%sCAS_item> from Sugoroku!"
     },
     "20": {
-        "<%sCAS_gambler>は　すごろくを中止しました。|パーティから　抜けました。": ""
+        "<%sCAS_gambler>は　すごろくを中止しました。|パーティから　抜けました。": "<%sCAS_gambler> stopped playing Sugoroku|and left the party."
     },
     "21": {
-        "ＭＰが　足りない！": ""
+        "ＭＰが　足りない！": "Not enough MP!"
     },
     "22": {
-        "<%sCAS_gambler>は|<%sCAS_item>を　ぬすんでいた！": ""
+        "<%sCAS_gambler>は|<%sCAS_item>を　ぬすんでいた！": "<%sCAS_gambler> stole <%sCAS_item>!"
     },
     "23": {
-        "<convenience>を押して|サイコロを　振ってください。": ""
+        "<convenience>を押して|サイコロを　振ってください。": "Press <convenience> to roll the die."
     },
     "24": {
         "死んでいるため|レベルが　あがらなかった。": ""
