@@ -36,13 +36,13 @@
         "<%sCAS_monster>からは　もう盗めないようだ。": "Couldn't steal anything from <%sCAS_monster>."
     },
     "13": {
-        "<%sCAS_item>を　手に入れた！": ""
+        "<%sCAS_item>を　手に入れた！": "Received <%sCAS_item>!"
     },
     "14": {
-        "<%sCAS_gambler>は|<%nM_coin>枚の　カジノコインをかくとく！": ""
+        "<%sCAS_gambler>は|<%nM_coin>枚の　カジノコインをかくとく！": "<%sCAS_gambler> received <%nM_coin>|Casino Coins!"
     },
     "15": {
-        "<%sCAS_gambler>は|<%nM_exp>の　経験値をかくとく！": ""
+        "<%sCAS_gambler>は|<%nM_exp>の　経験値をかくとく！": "<%sCAS_gambler> received <%nM_exp> EXP!"
     },
     "16": {
         "<%sCAS_HAHEN>を　<%sCAS_NUM>こ手に入れた！": ""
