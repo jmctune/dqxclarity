@@ -69,22 +69,22 @@
         "<convenience>を押して|サイコロを　振ってください。": "Press <convenience> to roll the die."
     },
     "24": {
-        "死んでいるため|レベルが　あがらなかった。": ""
+        "死んでいるため|レベルが　あがらなかった。": "Your level didn't increase because you|are dead."
     },
     "25": {
-        "<%sCAS_gambler>は|レベル<%nCAS_before_level>から　レベル<%nCAS_now_level>にあがった！": ""
+        "<%sCAS_gambler>は|レベル<%nCAS_before_level>から　レベル<%nCAS_now_level>にあがった！": "<%sCAS_gambler> went from Level <%nCAS_before_level>|to Level <%nCAS_now_level>!"
     },
     "26": {
-        "なにも　かくとくできなかった。": ""
+        "なにも　かくとくできなかった。": "You couldn't receive anything."
     },
     "27": {
-        "<%sCAS_gambler>は　しんでしまった。": ""
+        "<%sCAS_gambler>は　しんでしまった。": "<%sCAS_gambler> died."
     },
     "28": {
-        "ミス！　<%sCAS_monster>に|ダメージを　あたえられない！": ""
+        "ミス！　<%sCAS_monster>に|ダメージを　あたえられない！": "Miss! No damage to <%sCAS_monster>!"
     },
     "29": {
-        "<%sCAS_monster>に　合計<%nCAS_damage>のダメージ！": ""
+        "<%sCAS_monster>に　合計<%nCAS_damage>のダメージ！": "Total of <%nCAS_damage> damage dealt to|<%sCAS_monster>!"
     },
     "30": {
         "<%sCAS_monster>に　<%nCAS_damage>のダメージ！": ""
