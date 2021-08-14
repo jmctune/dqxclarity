@@ -132,13 +132,13 @@
         "<%sCAS_gambler>は　みをまもっている。": "<%sCAS_gambler> is defending."
     },
     "45": {
-        "いまは　<%sCAS_target>の順番です。|あと<%nCAS_value>人の　順番が進むと|あなたの順番に　なります。": ""
+        "いまは　<%sCAS_target>の順番です。|あと<%nCAS_value>人の　順番が進むと|あなたの順番に　なります。": "Now it is <%sCAS_target>'s turn. When <%nCAS_value>|more turns advance, it'll be your turn."
     },
     "46": {
-        "<%sCAS_gambler>は　転職しなかった。": ""
+        "<%sCAS_gambler>は　転職しなかった。": "<%sCAS_gambler> didn't change vocations."
     },
     "47": {
-        "ここでは　転職ができるようだ！|転職をしますか？|<yesno><close>": ""
+        "ここでは　転職ができるようだ！|転職をしますか？|<yesno><close>": "You can change vocations here!|Change your vocation?|<yesno><close>"
     },
     "48": {
         "すごろくでは|サイコロを振って　出た目に応じて|マップを　進むことができます。|<br>|手持ちのサイコロが　全部無くなってしまう前に|マップのいちばん奥にある　ボスのマスに到達し|ボスモンスターを　倒しましょう！": ""
