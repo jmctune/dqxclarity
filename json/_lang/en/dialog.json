@@ -93,7 +93,7 @@
         "clarity_nt_char_9": "clarity_nt_char_9"
     },
     "32": {
-        "仲間から　抜けますか？<yesno><close>": "Do you want to leave the group? <yesno><close>"
+        "仲間から　抜けますか？<yesno><close>": "Do you want to leave the party?<yesno><close>"
     },
     "33": {
         "<speed=0><%sM_pc>を　仲間から　はずして|よろしいですか？<yesno><close>": "<speed=0>Remove <%sM_pc> from the party?<yesno><close>"
