@@ -9,10 +9,10 @@
         "<pc>たちは　すごろくで|<%sCAS_HAHEN>を　<%nCAS_NUM>こ手に入れた！": "<pc> and co. got <%nCAS_NUM> <%sCAS_HAHEN>|from Sugoroku!"
     },
     "4": {
-        "すごろくを中止しますか？|すごろくを中止しても　入手したカジノコインは|そのまま　手に入れることができます。|<yesno 2><close>": ""
+        "すごろくを中止しますか？|すごろくを中止しても　入手したカジノコインは|そのまま　手に入れることができます。|<yesno 2><close>": "Stop playing Sugoroku? You'll still keep your|earned Casino Coins even if you quit.|<yesno 2><close>"
     },
     "5": {
-        "本当に　すごろくを中止しますか？|すごろくを　中止した場合|パーティから　抜けることになります。|<yesno 2><close>": ""
+        "本当に　すごろくを中止しますか？|すごろくを　中止した場合|パーティから　抜けることになります。|<yesno 2><close>": "Really stop playing Sugoroku? If you quit,|you'll leave your current party.|<yesno 2><close>"
     },
     "6": {
         "<%sCAS_gambler>は|ちかくの教会で　いきかえった！": ""
