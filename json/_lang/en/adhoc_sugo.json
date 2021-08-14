@@ -156,16 +156,16 @@
         "<se_nots System 7>|<pc>は　すごろくで|<%sCAS_item>を　<%nCAS_NUM>こ　手に入れた！": "<se_nots System 7>|<pc> received <%nCAS_NUM> <%sCAS_item>|from Sugoroku!"
     },
     "53": {
-        "<se_nots System 7>|<pc>は　すごろくで|<%nM_coin>枚の　カジノコインを手に入れた！": ""
+        "<se_nots System 7>|<pc>は　すごろくで|<%nM_coin>枚の　カジノコインを手に入れた！": "<se_nots System 7>|<pc> received <%nM_coin> Casino Coins|from Sugoroku!"
     },
     "54": {
-        "<%sCAS_gambler>は　ちからつきた。": ""
+        "<%sCAS_gambler>は　ちからつきた。": "<%sCAS_gambler> is exhausted."
     },
     "55": {
-        "手持ちのサイコロが　全部無くなったので|すごろくを　終了します。": ""
+        "手持ちのサイコロが　全部無くなったので|すごろくを　終了します。": "All dice are gone, so the Sugoroku game will|end."
     },
     "56": {
-        "<%sCAS_gambler>の回線が　切断されました。|<%sCAS_gambler>は　パーティから抜けました。": ""
+        "<%sCAS_gambler>の回線が　切断されました。|<%sCAS_gambler>は　パーティから抜けました。": "<%sCAS_gambler> has disconnected.|<%sCAS_gambler> left the party."
     },
     "57": {
         "<%sCAS_gambler>が　５分間|すごろくを　プレイしなかったので|席から離れました。|<br>|<%sCAS_gambler>は|パーティから　抜けました。": ""
