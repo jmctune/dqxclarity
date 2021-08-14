@@ -14,8 +14,8 @@ import sys
 import zipfile
 
 indexPattern = bytes.fromhex('49 4E 44 58 10 00 00 00')    # INDX block start
-textPattern = bytes.fromhex('54 45 58 54 10 00 00')    # TEXT block start
-endPattern = bytes.fromhex('46 4F 4F 54 10 00 00')    # FOOT block start
+textPattern = bytes.fromhex('54 45 58 54 10 00 00')        # TEXT block start
+endPattern = bytes.fromhex('46 4F 4F 54 10 00 00')         # FOOT block start
 hex_dict = 'hex/hex_dict.csv'
 
 def instantiate(exe):
@@ -378,6 +378,57 @@ def scan_for_ad_hoc_game_files():
                         Path(f'hex/files/{file}.hex').read_text())
                     pymem.memory.write_bytes(
                         handle, start_addr, data, len(data))
+
+def scan_for_names(byte_pattern, file_to_search, bytes_to_jump):
+    '''
+    Continuously scans the DQXGame process for known addresses
+    that are related to a specific pattern to translate names.
+    '''
+    instantiate('DQXGame.exe')
+
+    j = open(file_to_search, 'r', encoding='utf-8')
+    data = json.loads(j.read())
+    
+    index_pattern_list = []
+    address_scan(
+        handle, byte_pattern, True, index_pattern_list = index_pattern_list)
+    
+    for address in __flatten(index_pattern_list):
+        name_addr = address + bytes_to_jump
+        end_addr = address + bytes_to_jump
+        first_byte = read_bytes(name_addr, 1)
+        
+        byte_codes = [
+            b'\xE3',
+            b'\xE4',
+            b'\xE7',
+            b'\xE8',
+            b'\xE9'
+        ]
+        
+        if first_byte not in byte_codes:
+            continue
+                
+        name_hex = bytearray()
+        while True:
+            result = read_bytes(end_addr, 1)
+            end_addr = end_addr + 1
+            
+            if result == b'\x00':
+                end_addr = end_addr - 1   # Remove the last 00
+                bytes_to_write = end_addr - name_addr
+                break
+            else:
+                name_hex += result
+        
+        name = name_hex.decode('utf-8')
+        for item in data:
+            key, value = list(data[item].items())[0]
+            if re.search(f'^{name}+$', key):
+                if value:
+                    pymem.memory.write_bytes(
+                            handle, name_addr, str.encode(value), bytes_to_write)
+                    print(f'{value} found.')
 
 def dump_all_game_files():
     '''

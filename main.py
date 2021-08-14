@@ -1,5 +1,6 @@
 import click
-from clarity import translate, get_latest_from_weblate, scan_for_ad_hoc_game_files, dump_all_game_files, migrate_translated_json_data, reverse_translate
+from clarity import translate, get_latest_from_weblate, scan_for_ad_hoc_game_files, dump_all_game_files, migrate_translated_json_data, reverse_translate, scan_for_names
+from multiprocessing import Process, freeze_support
 import pymem
 import sys
 
@@ -26,12 +27,21 @@ def blast_off(update_weblate, dump_game_data, migrate_game_data, untranslate):
     get_latest_from_weblate()
   
   translate()
-  
+    
   while True:
     try:
-      scan_for_ad_hoc_game_files()
+      Process(target=scan_for_ad_hoc_game_files()).start()
+      Process(target=scan_for_names(
+                b'\x5C\xBA.\x01....\x68\xCC.\x01', 
+                'json/_lang/en/monsters.json',
+                11)).start()
+      Process(target=scan_for_names(
+              b'\x2C\xCC.\x01....\x68\xCC.\x01',
+              'json/_lang/en/npc_names.json',
+              12)).start()
     except pymem.exception.WinAPIError as e:
       sys.exit(click.secho('Can\'''t find DQX process. Exiting.', fg='red'))
   
 if __name__ == '__main__':
+  freeze_support()  # Needed for multiprocessing support with PyInstaller
   blast_off()
