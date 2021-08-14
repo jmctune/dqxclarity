@@ -168,10 +168,10 @@
         "<%sCAS_gambler>の回線が　切断されました。|<%sCAS_gambler>は　パーティから抜けました。": "<%sCAS_gambler> has disconnected.|<%sCAS_gambler> left the party."
     },
     "57": {
-        "<%sCAS_gambler>が　５分間|すごろくを　プレイしなかったので|席から離れました。|<br>|<%sCAS_gambler>は|パーティから　抜けました。": ""
+        "<%sCAS_gambler>が　５分間|すごろくを　プレイしなかったので|席から離れました。|<br>|<%sCAS_gambler>は|パーティから　抜けました。": "<%sCAS_gambler> was inactive for 5|minutes, so they left their seat.|<br>|<%sCAS_gambler> left the party."
     },
     "58": {
-        "他の仲間を　待っています。": ""
+        "他の仲間を　待っています。": "Waiting for other members."
     },
     "59": {
         "サイコロが　<%nCAS_value>こ残っているので|その２倍の　<%nCAS_value2>回分を追加して|計<%nCAS_value3>回　お宝ゲットチャンスに　挑戦できます！": ""
