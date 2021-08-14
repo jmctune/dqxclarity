@@ -141,13 +141,13 @@
         "ここでは　転職ができるようだ！|転職をしますか？|<yesno><close>": "You can change vocations here!|Change your vocation?|<yesno><close>"
     },
     "48": {
-        "すごろくでは|サイコロを振って　出た目に応じて|マップを　進むことができます。|<br>|手持ちのサイコロが　全部無くなってしまう前に|マップのいちばん奥にある　ボスのマスに到達し|ボスモンスターを　倒しましょう！": ""
+        "すごろくでは|サイコロを振って　出た目に応じて|マップを　進むことができます。|<br>|手持ちのサイコロが　全部無くなってしまう前に|マップのいちばん奥にある　ボスのマスに到達し|ボスモンスターを　倒しましょう！": "In Sugoroku, you roll a die and move spaces|depending on what you rolled.|<br>|Try to reach the Boss Space at the end of|the board and defeat the boss before|you run out of dice!"
     },
     "49": {
-        "<%sCAS_gambler>は|<%sCAS_job>としての　経験を積んだ！": ""
+        "<%sCAS_gambler>は|<%sCAS_job>としての　経験を積んだ！": "<%sCAS_gambler> gained EXP as <%sCAS_job>!"
     },
     "50": {
-        "レベルアップ！": ""
+        "レベルアップ！": "Level Up!"
     },
     "51": {
         "さいだいＨＰが　<%nCAS_value>になった！|さいだいＭＰが　<%nCAS_value2>になった！|こうげき力が　<%nCAS_value3>になった！": ""
