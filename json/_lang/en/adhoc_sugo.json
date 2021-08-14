@@ -216,7 +216,7 @@
         "<se_nots System 7>|<pc>は　『悪夢に囚われし街』マップの|５回クリア報酬として|<%sCAS_doll>を　手に入れた！": "<se_nots System 7>|<pc> received <%sCAS_doll> as a|reward for clearing the \"Trapped Nightmare|Town\" 5 times!"
     },
     "73": {
-        "出会いの酒場マスで　仲間を増やして|『悪夢に囚われし街』マップを|５回　クリアしました！|<br>|その報酬として|<pc>は　好きな景品を|ひとつ　もらえるようになりました！|<me 71>": ""
+        "出会いの酒場マスで　仲間を増やして|『悪夢に囚われし街』マップを|５回　クリアしました！|<br>|その報酬として|<pc>は　好きな景品を|ひとつ　もらえるようになりました！|<me 71>": "Used the tavern to recruit companions and|cleared the \"Trapped Nightmare Town\" map|5 times!|<br>|Now you can choose your prize!"
     },
     "74": {
         "<se_nots System 7>|<pc>は　すごろくで|合計<%nM_coin>枚の|カジノコインを手に入れた！": ""
