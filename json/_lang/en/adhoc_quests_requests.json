@@ -1842,7 +1842,7 @@
         "ぽいっくりん": ""
     },
     "615": {
-        "あんな。いつも　うちのクツを　かたっぽ|{color=yellow}<%sEV_QUE_NAME0>{reset}が　持っていってまうねん。|クツがないと　お外に　あそびにいけへん。|{color=yellow}<%sEV_QUE_NAME0>{reset}を　{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}　やっつけて|もう　クツを持ってかれないようにしたって！": ""
+        "あんな。いつも　うちのクツを　かたっぽ|{color=yellow}<%sEV_QUE_NAME0>{reset}が　持っていってまうねん。|クツがないと　お外に　あそびにいけへん。|{color=yellow}<%sEV_QUE_NAME0>{reset}を　{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}　やっつけて|もう　クツを持ってかれないようにしたって！": "Oh no. {color=yellow}<%sEV_QUE_NAME0>{reset}s are always taking my shoes|with them. I can't go outside without my shoes.|You have to kill {color=yellow}<%nEV_QUE_T_NUM0>{reset}{color=yellow} <%sEV_QUE_NAME0>{reset}s so they don't|take my shoes anymore!"
     },
     "616": {
         "あんな。いつも　うちのクツを　かたっぽ|{color=yellow}<%sEV_QUE_NAME0>{reset}が　持っていってまうねん。|クツがないと　お外に　あそびにいけへん。|{color=yellow}<%sEV_QUE_NAME0>{reset}を　{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}　やっつけて|もう　クツを持ってかれないようにしたって！|　　　　　　　　　　　　　　依頼を　達成した！": ""
