@@ -87,22 +87,22 @@
         "<%sCAS_monster>に　合計<%nCAS_damage>のダメージ！": "Total of <%nCAS_damage> damage dealt to|<%sCAS_monster>!"
     },
     "30": {
-        "<%sCAS_monster>に　<%nCAS_damage>のダメージ！": ""
+        "<%sCAS_monster>に　<%nCAS_damage>のダメージ！": "<%nCAS_damage> damage to <%sCAS_monster>!"
     },
     "31": {
-        "<%sCAS_gambler>たちは|平均<%nCAS_damage>の　ダメージをうけた！": ""
+        "<%sCAS_gambler>たちは|平均<%nCAS_damage>の　ダメージをうけた！": "<%sCAS_gambler> and co. took an average|of <%nCAS_damage> damage!"
     },
     "32": {
-        "<%sCAS_gambler>たちは|合計<%nCAS_damage>の　ダメージをうけた！": ""
+        "<%sCAS_gambler>たちは|合計<%nCAS_damage>の　ダメージをうけた！": "<%sCAS_gambler> and co. took a total|of <%nCAS_damage> damage!"
     },
     "33": {
-        "<%sCAS_gambler>は　<%nCAS_damage>のダメージをうけた！": ""
+        "<%sCAS_gambler>は　<%nCAS_damage>のダメージをうけた！": "<%sCAS_gambler> took <%nCAS_damage> damage!"
     },
     "34": {
-        "<%sCAS_gambler>たちは　ぜんめつした。": ""
+        "<%sCAS_gambler>たちは　ぜんめつした。": "<%sCAS_gambler> and co. were wiped out..."
     },
     "35": {
-        "<%sCAS_gambler>は|なかまたちを　かばった！": ""
+        "<%sCAS_gambler>は|なかまたちを　かばった！": "<%sCAS_gambler> protected the party!"
     },
     "36": {
         "とくぎを　覚えていない！": ""
