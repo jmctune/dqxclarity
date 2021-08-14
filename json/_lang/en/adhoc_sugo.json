@@ -189,16 +189,16 @@
         "しかし　効果がなかったようだ。": "But there was no effect."
     },
     "64": {
-        "しかし　<%sCAS_gambler>たちは|ダメージを　うけなかった！": ""
+        "しかし　<%sCAS_gambler>たちは|ダメージを　うけなかった！": "But <%sCAS_gambler> and co. didn't|take any damage!"
     },
     "65": {
-        "しかし　<%sCAS_gambler>は|ダメージを　うけなかった！": ""
+        "しかし　<%sCAS_gambler>は|ダメージを　うけなかった！": "But <%sCAS_gambler> took no damage!"
     },
     "66": {
-        "<%sCAS_snpc>を　仲間にして|ボスモンスターを　討伐したので|<%sCAS_doll>を　手に入れた！": ""
+        "<%sCAS_snpc>を　仲間にして|ボスモンスターを　討伐したので|<%sCAS_doll>を　手に入れた！": "Received <%sCAS_doll> since you|defeated the Boss with <%sCAS_snpc>|as a companion!"
     },
     "67": {
-        "お好きな景品を　ひとつ選んで下さい。": ""
+        "お好きな景品を　ひとつ選んで下さい。": "Please choose a prize."
     },
     "68": {
         "ここで使える特技を　覚えていない！": ""
