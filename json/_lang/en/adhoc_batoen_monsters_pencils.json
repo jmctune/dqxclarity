@@ -336,7 +336,7 @@
         "clarity_nt_char_112": "clarity_nt_char_112"
     },
     "113": {
-        "がったい　次のターンから　右をふる": "Combine　Right Side Next Turn"
+        "がったい　次のターンから　右をふる": "Combine　Right Side From Next Turn On"
     },
     "114": {
         "キングプレス　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "King Press　{color=orange}<%dM_Damage_1>{color=default} to <%sM_Target_1>"
@@ -345,7 +345,7 @@
         "clarity_nt_char_115": "clarity_nt_char_115"
     },
     "116": {
-        "のしかかり　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Stretching　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+        "のしかかり　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Bend Over　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "117": {
         "clarity_nt_char_117": "clarity_nt_char_117"
@@ -408,7 +408,7 @@
         "clarity_nt_char_136": "clarity_nt_char_136"
     },
     "137": {
-        "にげだした！　控えのバトエンと入れ替える": "Ran away! Replace with a copy Batoen"
+        "にげだした！　控えのバトエンと入れ替える": "Ran away! Replace with Reserve Batoen"
     },
     "138": {
         "clarity_nt_char_138": "clarity_nt_char_138"
@@ -444,7 +444,7 @@
         "clarity_nt_char_148": "clarity_nt_char_148"
     },
     "149": {
-        "にくきゅうパンチ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　魅了する": "Paw Punch　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+        "にくきゅうパンチ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　魅了する": "Curiosity Kills　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "150": {
         "{color=skyblue}メラミ{color=default}　　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Frizzle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -471,13 +471,13 @@
         "clarity_nt_char_157": "clarity_nt_char_157"
     },
     "158": {
-        "顔をあらっている": "Cleaning my face"
+        "顔をあらっている": "Clean Face"
     },
     "159": {
         "clarity_nt_char_159": "clarity_nt_char_159"
     },
     "160": {
-        "ライガークラッシュ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ５のダメージ": "Wild Animaul　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+        "ライガークラッシュ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ５のダメージ": "Wild Animaul　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x5"
     },
     "161": {
         "タマげたニャー　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "Crazy Meow　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -507,7 +507,7 @@
         "clarity_nt_char_169": "clarity_nt_char_169"
     },
     "170": {
-        "はげしいおたけび　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　転ばせる": "Violent Roar　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+        "はげしいおたけび　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　転ばせる": "Violent Roar　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Fall Down"
     },
     "171": {
         "連続攻撃　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ３のダメージ": "Barrage Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x3"
@@ -540,7 +540,7 @@
         "ぼうぎょ　このターン　受けるダメージ－３０": "Defend　Damage Taken -30 This Turn"
     },
     "181": {
-        "超ちからため　もう１回　右をふる": "Super Power　Roll Right Side"
+        "超ちからため　もう１回　右をふる": "Super Strength　Roll Right Side"
     },
     "182": {
         "clarity_nt_char_182": "clarity_nt_char_182"
@@ -609,7 +609,7 @@
         "clarity_nt_char_203": "clarity_nt_char_203"
     },
     "204": {
-        "{color=skyblue}ルカナン{color=default}　　　　　<%sM_Target_1>の守備力ダウン（－１０）": "{color=skyblue}Sap{color=default}　<%sM_Target_1> Defense Down (-10)"
+        "{color=skyblue}ルカナン{color=default}　　　　　<%sM_Target_1>の守備力ダウン（－１０）": "{color=skyblue}Kasap{color=default}　<%sM_Target_1> Defense Down (-10)"
     },
     "205": {
         "ニヤニヤ笑っている": "Toothy Grin"
@@ -693,7 +693,7 @@
         "clarity_nt_char_231": "clarity_nt_char_231"
     },
     "232": {
-        "おいかぜ　　　　　２ターン　{color=purple}ブレス{color=default}を跳ね返す": "Tailwind　Reflect {color=purple}Breath{color=default} Attacks for 2 Turns"
+        "おいかぜ　　　　　２ターン　{color=purple}ブレス{color=default}を跳ね返す": "Backdraft　Reflect {color=purple}Breath{color=default} Attacks for 2 Turns"
     },
     "233": {
         "嵐のようにはばたいた　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ６のダメージ": "Stormy Flap　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x6"
@@ -717,7 +717,7 @@
         "clarity_nt_char_239": "clarity_nt_char_239"
     },
     "240": {
-        "すみ攻撃　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": "Ink Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Blinded"
+        "すみ攻撃　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": "Ink Shot　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Blinded"
     },
     "241": {
         "するどく突いた　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Hard Poke　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -768,7 +768,7 @@
         "{color=skyblue}マヒャド{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kacrack{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x6"
     },
     "257": {
-        "ラブリーフェイス　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　魅了する": "Lovely Face　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Charm"
+        "ラブリーフェイス　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　魅了する": "Minacious Allure　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Charm"
     },
     "258": {
         "clarity_nt_char_258": "clarity_nt_char_258"
@@ -780,10 +780,10 @@
         "clarity_nt_char_260": "clarity_nt_char_260"
     },
     "261": {
-        "ホラーフェイス　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　おびえさせる": "Horror Face　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Frighten"
+        "ホラーフェイス　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　おびえさせる": "Scare Stare　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Frighten"
     },
     "262": {
-        "ポワポワダンス　　　２ターンの間　{color=lime}２０{color=default}ずつかいふく": "Gentle Dance　Recover {color=lime}20{color=default} HP Each Turn for 2 Turns"
+        "ポワポワダンス　　　２ターンの間　{color=lime}２０{color=default}ずつかいふく": "Gentle Dance　Recover {color=lime}20{color=default} HP for 2 Turns"
     },
     "263": {
         "clarity_nt_char_263": "clarity_nt_char_263"
@@ -870,7 +870,7 @@
         "clarity_nt_char_290": "clarity_nt_char_290"
     },
     "291": {
-        "おいかぜ　　　　　　２ターン　{color=purple}ブレス{color=default}を跳ね返す": "Tailwind　Reflect {color=purple}Breath{color=default} Attacks for 2 Turns"
+        "おいかぜ　　　　　　２ターン　{color=purple}ブレス{color=default}を跳ね返す": "Backdraft　Reflect {color=purple}Breath{color=default} Attacks for 2 Turns"
     },
     "292": {
         "clarity_nt_char_292": "clarity_nt_char_292"
@@ -921,7 +921,7 @@
         "clarity_nt_char_307": "clarity_nt_char_307"
     },
     "308": {
-        "{color=purple}こごえるふぶき{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Freezing Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+        "{color=purple}こごえるふぶき{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Freezing Blizzard{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "309": {
         "clarity_nt_char_309": "clarity_nt_char_309"
@@ -969,7 +969,7 @@
         "clarity_nt_char_323": "clarity_nt_char_323"
     },
     "324": {
-        "竜眼　　　　　　　このターン打撃ダメージを受けない": "Dragon's Eye　Nullify Damage This Turn"
+        "竜眼　　　　　　　このターン打撃ダメージを受けない": "Drageye　Nullify Phys. Damage This Turn"
     },
     "325": {
         "ヤリ攻撃　　　　　　もう１回　右をふる": "Spear Attack　Roll Right Side"
@@ -981,7 +981,7 @@
         "clarity_nt_char_327": "clarity_nt_char_327"
     },
     "328": {
-        "破竹の一撃　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　使ったあと１回休み": "Bamboo Strike　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> User Incapacitated"
+        "破竹の一撃　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　使ったあと１回休み": "Bamboo Strike　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> User Resting"
     },
     "329": {
         "clarity_nt_char_329": "clarity_nt_char_329"
@@ -1029,7 +1029,7 @@
         "はげしく斬りつけた　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Violent Slash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "344": {
-        "マヒャド斬り　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Kacrackle Slash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+        "マヒャド斬り　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Kacrack Slash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "345": {
         "矢をはなった　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Arrow Shot　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -1086,7 +1086,7 @@
         "毒こうげき　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　毒にする": "Poison Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Poison"
     },
     "363": {
-        "毒をまいた　　<%sM_Target_1>を毒にする": "Poison　Poisons <%sM_Target_1>"
+        "毒をまいた　　<%sM_Target_1>を毒にする": "Poison Spit　Poisons <%sM_Target_1>"
     },
     "364": {
         "clarity_nt_char_364": "clarity_nt_char_364"
@@ -1107,7 +1107,7 @@
         "clarity_nt_char_369": "clarity_nt_char_369"
     },
     "370": {
-        "ブレードガード　このターン打撃ダメージを受けない": "Greatsword Guard　Nullify Physical Damage This Turn"
+        "ブレードガード　このターン打撃ダメージを受けない": "Greatsword Guard　Nullify Phys. Damage This Turn"
     },
     "371": {
         "clarity_nt_char_371": "clarity_nt_char_371"
@@ -1125,10 +1125,10 @@
         "clarity_nt_char_375": "clarity_nt_char_375"
     },
     "376": {
-        "盾ガード　　　このターン打撃ダメージを受けない": "Block　Nullify Physical Damage This Turn"
+        "盾ガード　　　このターン打撃ダメージを受けない": "Block　Nullify Phys. Damage This Turn"
     },
     "377": {
-        "{color=skyblue}ディバインスペル{color=default}　<%sM_Target_1>を{color=skyblue}呪文{color=default}に弱くする（－２０）": "{color=skyblue}Divine Intervention{color=default}　Lower <%sM_Target_1> {color=skyblue}Spell{color=default} Damage (-20)"
+        "{color=skyblue}ディバインスペル{color=default}　<%sM_Target_1>を{color=skyblue}呪文{color=default}に弱くする（－２０）": "{color=skyblue}Divine Intervention{color=default}　<%sM_Target_1> {color=skyblue}Spell{color=default} Damage ↓ (-20)"
     },
     "378": {
         "clarity_nt_char_378": "clarity_nt_char_378"
@@ -1275,7 +1275,7 @@
         "clarity_nt_char_425": "clarity_nt_char_425"
     },
     "426": {
-        "殻にとじこもる　　このターン打撃ダメージを受けない": "Shell Retreat　Nullify Physical Damage This Turn"
+        "殻にとじこもる　　このターン打撃ダメージを受けない": "Shell Retreat　Nullify Phys. Damage This Turn"
     },
     "427": {
         "{color=skyblue}ヒャダルコ{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Crackle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -1290,7 +1290,7 @@
         "clarity_nt_char_430": "clarity_nt_char_430"
     },
     "431": {
-        "すみ攻撃　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　{color=skyblue}呪文{color=default}の威力ダウン（－１０）": "Ink Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=skyblue}Spell{color=default} Power Down (-10)"
+        "すみ攻撃　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　{color=skyblue}呪文{color=default}の威力ダウン（－１０）": "Ink Shot　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=skyblue}Spell{color=default} Power ↓ (-10)"
     },
     "432": {
         "触手れんだ　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ６のダメージ": "Tentacle Smash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x6"
@@ -1299,7 +1299,7 @@
         "clarity_nt_char_433": "clarity_nt_char_433"
     },
     "434": {
-        "すみ攻撃　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": "Ink Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> Blinded"
+        "すみ攻撃　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": "Ink Shot　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> Blinded"
     },
     "435": {
         "あばれる　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Expose　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -1368,7 +1368,7 @@
         "clarity_nt_char_456": "clarity_nt_char_456"
     },
     "457": {
-        "マヒ攻撃　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　　マヒさせる": "Paralattack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Paralysis"
+        "マヒ攻撃　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　　マヒさせる": "Paralyze　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Paralysis"
     },
     "458": {
         "clarity_nt_char_458": "clarity_nt_char_458"
@@ -1431,2241 +1431,2241 @@
         "clarity_nt_char_477": "clarity_nt_char_477"
     },
     "478": {
-        "やくそうを使った！": ""
+        "やくそうを使った！": "Used Medical Herb!"
     },
     "479": {
-        "次のターンから|右をふる！": ""
+        "次のターンから|右をふる！": "Roll right side|from next turn on!"
     },
     "480": {
-        "キングプレス！": ""
+        "キングプレス！": "King Press!"
     },
     "481": {
-        "のしかかり！": ""
+        "のしかかり！": "Bend Over!"
     },
     "482": {
         "clarity_nt_char_482": "clarity_nt_char_482"
     },
     "483": {
-        "マヒャド！": ""
+        "マヒャド！": "Kacrackle!"
     },
     "484": {
-        "ぼうぎょ！": ""
+        "ぼうぎょ！": "Defend!"
     },
     "485": {
-        "ヒャダルコ！": ""
+        "ヒャダルコ！": "Kacrackle!"
     },
     "486": {
         "clarity_nt_char_486": "clarity_nt_char_486"
     },
     "487": {
-        "ドラゴン斬り！": ""
+        "ドラゴン斬り！": "Dragon Slash!"
     },
     "488": {
-        "ミス！": ""
+        "ミス！": "Miss!"
     },
     "489": {
-        "はやぶさ斬り！": ""
+        "はやぶさ斬り！": "Falcon Slash!"
     },
     "490": {
-        "ギガスラッシュ！": ""
+        "ギガスラッシュ！": "Gigaslash!"
     },
     "491": {
         "clarity_nt_char_491": "clarity_nt_char_491"
     },
     "492": {
-        "ミラクルソード！": ""
+        "ミラクルソード！": "Miracle Slash!"
     },
     "493": {
         "clarity_nt_char_493": "clarity_nt_char_493"
     },
     "494": {
-        "イオラ！": ""
+        "イオラ！": "Boom!"
     },
     "495": {
         "clarity_nt_char_495": "clarity_nt_char_495"
     },
     "496": {
-        "にげだした！！": ""
+        "にげだした！！": "Ran away!!"
     },
     "497": {
-        "マデュライトビーム！": ""
+        "マデュライトビーム！": "Darkonite Beam!"
     },
     "498": {
         "clarity_nt_char_498": "clarity_nt_char_498"
     },
     "499": {
-        "呪文！": ""
+        "呪文！": "Spell!"
     },
     "500": {
-        "おしつぶし！": ""
+        "おしつぶし！": "Crush!"
     },
     "501": {
         "clarity_nt_char_501": "clarity_nt_char_501"
     },
     "502": {
-        "イオグランデ！": ""
+        "イオグランデ！": "Kaboomle!"
     },
     "503": {
-        "ベホイミ！": ""
+        "ベホイミ！": "Midheal!"
     },
     "504": {
-        "マダンテ！": ""
+        "マダンテ！": "Magic Burst!"
     },
     "505": {
-        "にくきゅうパンチ！": ""
+        "にくきゅうパンチ！": "Curiosity Kills!"
     },
     "506": {
-        "メラミ！": ""
+        "メラミ！": "Frizzle!"
     },
     "507": {
         "clarity_nt_char_507": "clarity_nt_char_507"
     },
     "508": {
-        "メラガイアー！": ""
+        "メラガイアー！": "Kafrizzle!"
     },
     "509": {
-        "復活の杖！": ""
+        "復活の杖！": "Zing Stick!"
     },
     "510": {
-        "ライガークラッシュ！": ""
+        "ライガークラッシュ！": "Wild Animaul!"
     },
     "511": {
         "clarity_nt_char_511": "clarity_nt_char_511"
     },
     "512": {
-        "タマげたニャー！": ""
+        "タマげたニャー！": "Crazy Meow!"
     },
     "513": {
         "clarity_nt_char_513": "clarity_nt_char_513"
     },
     "514": {
-        "タイガークロー！": ""
+        "タイガークロー！": "Hard Claw!"
     },
     "515": {
         "clarity_nt_char_515": "clarity_nt_char_515"
     },
     "516": {
-        "ツメとぐニャー！": ""
+        "ツメとぐニャー！": "Sharpen Claws!"
     },
     "517": {
         "clarity_nt_char_517": "clarity_nt_char_517"
     },
     "518": {
-        "ミサイルキック！": ""
+        "ミサイルキック！": "Missile Kick!"
     },
     "519": {
         "clarity_nt_char_519": "clarity_nt_char_519"
     },
     "520": {
-        "ばくれつけん！": ""
+        "ばくれつけん！": "Multifists!"
     },
     "521": {
-        "ドロップキック！": ""
+        "ドロップキック！": "Dropkick!"
     },
     "522": {
         "clarity_nt_char_522": "clarity_nt_char_522"
     },
     "523": {
-        "すてみ！": ""
+        "すてみ！": "Double Up!"
     },
     "524": {
         "clarity_nt_char_524": "clarity_nt_char_524"
     },
     "525": {
-        "はげしいおたけび！": ""
+        "はげしいおたけび！": "Violent Roar!"
     },
     "526": {
-        "連続攻撃！": ""
+        "連続攻撃！": "Barrage Attack!"
     },
     "527": {
-        "ためる弐！": ""
+        "ためる弐！": "Psyche 2!"
     },
     "528": {
-        "黄泉送り！": ""
+        "黄泉送り！": "Deliverance!"
     },
     "529": {
-        "ばくれつ棍！": ""
+        "ばくれつ棍！": "Multi Rod!"
     },
     "530": {
         "clarity_nt_char_530": "clarity_nt_char_530"
     },
     "531": {
-        "ギラグレイド！": ""
+        "ギラグレイド！": "Kasizzle!"
     },
     "532": {
-        "ひのいき！": ""
+        "ひのいき！": "Fire Breath!"
     },
     "533": {
-        "超ちからため！": ""
+        "超ちからため！": "Super Strength!"
     },
     "534": {
-        "次のターン右をふる！": ""
+        "次のターン右をふる！": "Next turn roll|right side!"
     },
     "535": {
         "clarity_nt_char_535": "clarity_nt_char_535"
     },
     "536": {
-        "かいしんのいちげき！": ""
+        "かいしんのいちげき！": "Critical hit!"
     },
     "537": {
         "clarity_nt_char_537": "clarity_nt_char_537"
     },
     "538": {
-        "つるぎのまい！": ""
+        "つるぎのまい！": "Swords Dance!"
     },
     "539": {
-        "バイキルト！": ""
+        "バイキルト！": "Oomphle!"
     },
     "540": {
         "clarity_nt_char_540": "clarity_nt_char_540"
     },
     "541": {
-        "ラリホーマ！": ""
+        "ラリホーマ！": "Kasnooze!"
     },
     "542": {
         "clarity_nt_char_542": "clarity_nt_char_542"
     },
     "543": {
-        "反撃のかまえ！": ""
+        "反撃のかまえ！": "Counter Stance!"
     },
     "544": {
-        "回転キック！": ""
+        "回転キック！": "Spin Kick!"
     },
     "545": {
         "clarity_nt_char_545": "clarity_nt_char_545"
     },
     "546": {
-        "メラゾーマ！": ""
+        "メラゾーマ！": "Kafrizz!"
     },
     "547": {
         "clarity_nt_char_547": "clarity_nt_char_547"
     },
     "548": {
-        "あやつる！": ""
+        "あやつる！": "Manipulate!"
     },
     "549": {
-        "魔力かくせい！": ""
+        "魔力かくせい！": "Channel Anger!"
     },
     "550": {
-        "ルカナン！": ""
+        "ルカナン！": "Kasap!"
     },
     "551": {
-        "さそうおどり！": ""
+        "さそうおどり！": "Happy Dance!"
     },
     "552": {
-        "宝石ジャグリング！": ""
+        "宝石ジャグリング！": "Jewel Juggle!"
     },
     "553": {
-        "メガトンパンチ！": ""
+        "メガトンパンチ！": "Megaton Punch!"
     },
     "554": {
         "clarity_nt_char_554": "clarity_nt_char_554"
     },
     "555": {
-        "ためる！": ""
+        "ためる！": "Psyche Up!"
     },
     "556": {
         "clarity_nt_char_556": "clarity_nt_char_556"
     },
     "557": {
-        "ファイナルブロー！": ""
+        "ファイナルブロー！": "Lights Out!"
     },
     "558": {
-        "メルキドの秘法！": ""
+        "メルキドの秘法！": "Cantlin's Secret!"
     },
     "559": {
         "clarity_nt_char_559": "clarity_nt_char_559"
     },
     "560": {
-        "ぶきみに|ほほえんでいる": ""
+        "ぶきみに|ほほえんでいる": "Creepily|smiling..."
     },
     "561": {
         "clarity_nt_char_561": "clarity_nt_char_561"
     },
     "562": {
-        "メガンテ！": ""
+        "メガンテ！": "Kamikazee!"
     },
     "563": {
-        "キングダムソード！": ""
+        "キングダムソード！": "Kingdom Sword!"
     },
     "564": {
-        "ザラキーマ！": ""
+        "ザラキーマ！": "Kathwack!"
     },
     "565": {
         "clarity_nt_char_565": "clarity_nt_char_565"
     },
     "566": {
-        "りゅうせいよび！": ""
+        "りゅうせいよび！": "Call Meteor!"
     },
     "567": {
         "clarity_nt_char_567": "clarity_nt_char_567"
     },
     "568": {
-        "まりょくのうた！": ""
+        "まりょくのうた！": "Magical Song!"
     },
     "569": {
         "clarity_nt_char_569": "clarity_nt_char_569"
     },
     "570": {
-        "ドルモーア！": ""
+        "ドルモーア！": "Kazam!"
     },
     "571": {
         "clarity_nt_char_571": "clarity_nt_char_571"
     },
     "572": {
-        "ドルクマ！": ""
+        "ドルクマ！": "Zammle!"
     },
     "573": {
-        "ドルマドン！": ""
+        "ドルマドン！": "Kazammle!"
     },
     "574": {
         "clarity_nt_char_574": "clarity_nt_char_574"
     },
     "575": {
-        "フェザーストーム！": ""
+        "フェザーストーム！": "Featherstorm!"
     },
     "576": {
-        "おいかぜ！": ""
+        "おいかぜ！": "Backdraft!"
     },
     "577": {
-        "嵐のようにはばたいた！": ""
+        "嵐のようにはばたいた！": "Stormy Flap!"
     },
     "578": {
-        "マホカンタ！": ""
+        "マホカンタ！": "Bounce!"
     },
     "579": {
         "clarity_nt_char_579": "clarity_nt_char_579"
     },
     "580": {
-        "ツメできりさいた！": ""
+        "ツメできりさいた！": "Rip and Tear!"
     },
     "581": {
-        "アサシンアタック！": ""
+        "アサシンアタック！": "Assassin Attack!"
     },
     "582": {
-        "すみ攻撃！": ""
+        "すみ攻撃！": "Ink Shot!"
     },
     "583": {
-        "するどく突いた！": ""
+        "するどく突いた！": "Hard Poke!"
     },
     "584": {
         "clarity_nt_char_584": "clarity_nt_char_584"
     },
     "585": {
-        "急所を突いた！": ""
+        "急所を突いた！": "Insta-Kill!"
     },
     "586": {
-        "はげしいほのお！": ""
+        "はげしいほのお！": "Inferno!"
     },
     "587": {
         "clarity_nt_char_587": "clarity_nt_char_587"
     },
     "588": {
-        "もえさかるほのお！": ""
+        "もえさかるほのお！": "Burning Flames!"
     },
     "589": {
-        "しゃくねつのいき！": ""
+        "しゃくねつのいき！": "Scorching Breath!"
     },
     "590": {
-        "こごえるふぶき！": ""
+        "こごえるふぶき！": "Freezing Blizzard!"
     },
     "591": {
         "clarity_nt_char_591": "clarity_nt_char_591"
     },
     "592": {
-        "かがやくいき！": ""
+        "かがやくいき！": "Shining Breath!"
     },
     "593": {
-        "ザキ！": ""
+        "ザキ！": "Whack!"
     },
     "594": {
-        "ラブリーフェイス！": ""
+        "ラブリーフェイス！": "Minacious Allure!"
     },
     "595": {
-        "ホラーフェイス！": ""
+        "ホラーフェイス！": "Scare Stare!"
     },
     "596": {
         "clarity_nt_char_596": "clarity_nt_char_596"
     },
     "597": {
-        "ポワポワダンス！": ""
+        "ポワポワダンス！": "Gentle Dance!"
     },
     "598": {
         "clarity_nt_char_598": "clarity_nt_char_598"
     },
     "599": {
-        "マホステ！": ""
+        "マホステ！": "Snub!"
     },
     "600": {
-        "コウモリ召喚！": ""
+        "コウモリ召喚！": "Summon Bats!"
     },
     "601": {
-        "ザオリク！": ""
+        "ザオリク！": "Kazing!"
     },
     "602": {
-        "イオナズン！": ""
+        "イオナズン！": "Kaboom!"
     },
     "603": {
         "clarity_nt_char_603": "clarity_nt_char_603"
     },
     "604": {
-        "暴走イオグランデ！": ""
+        "暴走イオグランデ！": "Haywire|Kaboomle!"
     },
     "605": {
-        "ドラムクラッシュ！": ""
+        "ドラムクラッシュ！": "Monster Masher!"
     },
     "606": {
-        "武器をふり回す！": ""
+        "武器をふり回す！": "Swing Weapon!"
     },
     "607": {
         "clarity_nt_char_607": "clarity_nt_char_607"
     },
     "608": {
-        "マヒャデドス！": ""
+        "マヒャデドス！": "Kacrackle!"
     },
     "609": {
-        "武器をふり回した！": ""
+        "武器をふり回した！": "Swung weapon!"
     },
     "610": {
-        "オノ攻撃！": ""
+        "オノ攻撃！": "Axe Attack!"
     },
     "611": {
-        "晴天魔斬！": ""
+        "晴天魔斬！": "Sunny Sword!"
     },
     "612": {
-        "オノまつり！": ""
+        "オノまつり！": "Axe Festival!"
     },
     "613": {
         "clarity_nt_char_613": "clarity_nt_char_613"
     },
     "614": {
-        "しっぽアタック！": ""
+        "しっぽアタック！": "Tail Attack!"
     },
     "615": {
         "clarity_nt_char_615": "clarity_nt_char_615"
     },
     "616": {
-        "あまいいき！": ""
+        "あまいいき！": "Sweet Breath!"
     },
     "617": {
         "clarity_nt_char_617": "clarity_nt_char_617"
     },
     "618": {
-        "どくのきり！": ""
+        "どくのきり！": "Poison Fog!"
     },
     "619": {
         "clarity_nt_char_619": "clarity_nt_char_619"
     },
     "620": {
-        "やけつくいき！": ""
+        "やけつくいき！": "Burning Breath!"
     },
     "621": {
-        "こおりのいき！": ""
+        "こおりのいき！": "Chilly Breath!"
     },
     "622": {
-        "テールスイング！": ""
+        "テールスイング！": "Tail Swing!"
     },
     "623": {
         "clarity_nt_char_623": "clarity_nt_char_623"
     },
     "624": {
-        "連続こうげき！": ""
+        "連続こうげき！": "Barrage Attack!"
     },
     "625": {
-        "ひかりのブレス！": ""
+        "ひかりのブレス！": "Light Breath!"
     },
     "626": {
         "clarity_nt_char_626": "clarity_nt_char_626"
     },
     "627": {
-        "竜眼！": ""
+        "竜眼！": "Drageye!"
     },
     "628": {
-        "ヤリ攻撃！": ""
+        "ヤリ攻撃！": "Spear Attack!"
     },
     "629": {
-        "オートメンテナンス！": ""
+        "オートメンテナンス！": "Auto|Maintenance!"
     },
     "630": {
         "clarity_nt_char_630": "clarity_nt_char_630"
     },
     "631": {
-        "破竹の一撃！": ""
+        "破竹の一撃！": "Bamboo Strike!"
     },
     "632": {
         "clarity_nt_char_632": "clarity_nt_char_632"
     },
     "633": {
-        "けもの突き！": ""
+        "けもの突き！": "Cattle Prod!"
     },
     "634": {
         "clarity_nt_char_634": "clarity_nt_char_634"
     },
     "635": {
-        "さみだれ突き！": ""
+        "さみだれ突き！": "Multi Thrust!"
     },
     "636": {
-        "ろうが突き！": ""
+        "ろうが突き！": "Deaf Strike!"
     },
     "637": {
         "clarity_nt_char_637": "clarity_nt_char_637"
     },
     "638": {
-        "一閃突き！": ""
+        "一閃突き！": "T. Thrust!"
     },
     "639": {
-        "バードカッター！": ""
+        "バードカッター！": "Bird Cutter!"
     },
     "640": {
         "clarity_nt_char_640": "clarity_nt_char_640"
     },
     "641": {
-        "バードスラッシュ！": ""
+        "バードスラッシュ！": "Bird Slash!"
     },
     "642": {
-        "ビームこうげき！": ""
+        "ビームこうげき！": "Beam Attack!"
     },
     "643": {
         "clarity_nt_char_643": "clarity_nt_char_643"
     },
     "644": {
-        "弓をひきしぼった！": ""
+        "弓をひきしぼった！": "Drew bow!"
     },
     "645": {
-        "はげしく斬りつけた！": ""
+        "はげしく斬りつけた！": "Violent Slash!"
     },
     "646": {
         "clarity_nt_char_646": "clarity_nt_char_646"
     },
     "647": {
-        "マヒャド斬り！": ""
+        "マヒャド斬り！": "Kacrack Slash!"
     },
     "648": {
-        "矢をはなった！": ""
+        "矢をはなった！": "Arrow Shot!"
     },
     "649": {
-        "グランドインパクト！": ""
+        "グランドインパクト！": "Grand Impact!"
     },
     "650": {
         "clarity_nt_char_650": "clarity_nt_char_650"
     },
     "651": {
-        "暗黒のきり！": ""
+        "暗黒のきり！": "Dark Fog!"
     },
     "652": {
         "clarity_nt_char_652": "clarity_nt_char_652"
     },
     "653": {
-        "やみのブレス！": ""
+        "やみのブレス！": "Dark Breath!"
     },
     "654": {
-        "ふみつけ！": ""
+        "ふみつけ！": "Trample!"
     },
     "655": {
-        "ミサイル！": ""
+        "ミサイル！": "Missile!"
     },
     "656": {
-        "スカラ！": ""
+        "スカラ！": "Buff!"
     },
     "657": {
         "clarity_nt_char_657": "clarity_nt_char_657"
     },
     "658": {
-        "呪いこうげき！": ""
+        "呪いこうげき！": "Curse Attack!"
     },
     "659": {
-        "ドルマ！": ""
+        "ドルマ！": "Zam!"
     },
     "660": {
         "clarity_nt_char_660": "clarity_nt_char_660"
     },
     "661": {
-        "毒こうげき！": ""
+        "毒こうげき！": "Poison Attack!"
     },
     "662": {
         "clarity_nt_char_662": "clarity_nt_char_662"
     },
     "663": {
-        "毒をまいた！": ""
+        "毒をまいた！": "Poison Spit!"
     },
     "664": {
         "clarity_nt_char_664": "clarity_nt_char_664"
     },
     "665": {
-        "鉄球ノック！": ""
+        "鉄球ノック！": "Iron Ball Knock!"
     },
     "666": {
         "clarity_nt_char_666": "clarity_nt_char_666"
     },
     "667": {
-        "足ばらい！": ""
+        "足ばらい！": "Leg Sweep"
     },
     "668": {
-        "ブレードガード！": ""
+        "ブレードガード！": "Greatsword Guard!"
     },
     "669": {
         "clarity_nt_char_669": "clarity_nt_char_669"
     },
     "670": {
-        "ジゴスパーク！": ""
+        "ジゴスパーク！": "Lightning Storm!"
     },
     "671": {
-        "盾ガード！": ""
+        "盾ガード！": "Shield Block!"
     },
     "672": {
-        "ディバインスペル！": ""
+        "ディバインスペル！": "Divine|Intervention!"
     },
     "673": {
-        "バギクロス！": ""
+        "バギクロス！": "Kaswoosh!"
     },
     "674": {
         "clarity_nt_char_674": "clarity_nt_char_674"
     },
     "675": {
-        "バギマ！": ""
+        "バギマ！": "Swoosh!"
     },
     "676": {
         "clarity_nt_char_676": "clarity_nt_char_676"
     },
     "677": {
-        "呪い！": ""
+        "呪い！": "Curse!"
     },
     "678": {
-        "バギムーチョ！": ""
+        "バギムーチョ！": "Kaswooshle!"
     },
     "679": {
-        "ナスパンチ！": ""
+        "ナスパンチ！": "Woeberpunch!"
     },
     "680": {
         "clarity_nt_char_680": "clarity_nt_char_680"
     },
     "681": {
-        "踊りはじめた！": ""
+        "踊りはじめた！": "Started dancing!"
     },
     "682": {
-        "ナスチョップ！": ""
+        "ナスチョップ！": "Woeberchop!"
     },
     "683": {
-        "たいあたり！": ""
+        "たいあたり！": "Body Slam!"
     },
     "684": {
         "clarity_nt_char_684": "clarity_nt_char_684"
     },
     "685": {
-        "眠りの葉！": ""
+        "眠りの葉！": "Sleepy Leaf!"
     },
     "686": {
-        "仲間をよんだ！": ""
+        "仲間をよんだ！": "Call Ally!"
     },
     "687": {
-        "癒やしの葉！": ""
+        "癒やしの葉！": "Healing Leaf!"
     },
     "688": {
         "clarity_nt_char_688": "clarity_nt_char_688"
     },
     "689": {
-        "仲間とこうげき！": ""
+        "仲間とこうげき！": "Ally Attack!"
     },
     "690": {
         "clarity_nt_char_690": "clarity_nt_char_690"
     },
     "691": {
-        "しかし誰もあらわれなかった": ""
+        "しかし誰もあらわれなかった": "But no one|came..."
     },
     "692": {
-        "ツタ回し！": ""
+        "ツタ回し！": "Ivy Spin!"
     },
     "693": {
-        "ベホイム！": ""
+        "ベホイム！": "Moreheal!"
     },
     "694": {
-        "ボディプレス！": ""
+        "ボディプレス！": "Body Press!"
     },
     "695": {
-        "バギ！": ""
+        "バギ！": "Woosh!"
     },
     "696": {
-        "リーフスラッシュ！": ""
+        "リーフスラッシュ！": "Leaf Slash!"
     },
     "697": {
-        "魔界樹の葉！": ""
+        "魔界樹の葉！": "Makai Tree Leaf!"
     },
     "698": {
         "clarity_nt_char_698": "clarity_nt_char_698"
     },
     "699": {
-        "殻にとじこもる！": ""
+        "殻にとじこもる！": "Shell Retreat!"
     },
     "700": {
         "clarity_nt_char_700": "clarity_nt_char_700"
     },
     "701": {
-        "触手れんだ！": ""
+        "触手れんだ！": "Tentacle Smash!"
     },
     "702": {
         "clarity_nt_char_702": "clarity_nt_char_702"
     },
     "703": {
-        "あばれる！": ""
+        "あばれる！": "Expose!"
     },
     "704": {
-        "かいふく！": ""
+        "かいふく！": "Recover!"
     },
     "705": {
-        "ダブルアタック！": ""
+        "ダブルアタック！": "Double Attack!"
     },
     "706": {
         "clarity_nt_char_706": "clarity_nt_char_706"
     },
     "707": {
-        "眠る！": ""
+        "眠る！": "Sleep!"
     },
     "708": {
-        "しゃくねつ！": ""
+        "しゃくねつ！": "Scorch!"
     },
     "709": {
         "clarity_nt_char_709": "clarity_nt_char_709"
     },
     "710": {
-        "まぶしい光！": ""
+        "まぶしい光！": "Dazzling Light!"
     },
     "711": {
         "clarity_nt_char_711": "clarity_nt_char_711"
     },
     "712": {
-        "ふしぎなおどり！": ""
+        "ふしぎなおどり！": "Weird Dance!"
     },
     "713": {
         "clarity_nt_char_713": "clarity_nt_char_713"
     },
     "714": {
-        "踊っている！": ""
+        "踊っている！": "Dancing!"
     },
     "715": {
         "clarity_nt_char_715": "clarity_nt_char_715"
     },
     "716": {
-        "おうえん！": ""
+        "おうえん！": "Egg On!"
     },
     "717": {
-        "マヒ攻撃！": ""
+        "マヒ攻撃！": "Paralyze!"
     },
     "718": {
-        "回転アタック！": ""
+        "回転アタック！": "Spin Attack!"
     },
     "719": {
-        "毒針！": ""
+        "毒針！": "Needle!"
     },
     "720": {
-        "眠り無効": ""
+        "眠り無効": "Sleep Null"
     },
     "721": {
         "clarity_nt_char_721": "clarity_nt_char_721"
     },
     "722": {
-        "混乱無効": ""
+        "混乱無効": "Confu. Null"
     },
     "723": {
         "clarity_nt_char_723": "clarity_nt_char_723"
     },
     "724": {
-        "呪い無効": ""
+        "呪い無効": "Curse Null"
     },
     "725": {
         "clarity_nt_char_725": "clarity_nt_char_725"
     },
     "726": {
-        "幻惑無効": ""
+        "幻惑無効": "Blind Null"
     },
     "727": {
         "clarity_nt_char_727": "clarity_nt_char_727"
     },
     "728": {
-        "打撃会心封印無効": ""
+        "打撃会心封印無効": "Phys. attack seal|null!"
     },
     "729": {
         "clarity_nt_char_729": "clarity_nt_char_729"
     },
     "730": {
-        "呪文封印無効": ""
+        "呪文封印無効": "Spell seal|null!"
     },
     "731": {
         "clarity_nt_char_731": "clarity_nt_char_731"
     },
     "732": {
-        "ブレス封印無効": ""
+        "ブレス封印無効": "Breath seal|null!"
     },
     "733": {
-        "マヒ無効": ""
+        "マヒ無効": "Paral. Null"
     },
     "734": {
         "clarity_nt_char_734": "clarity_nt_char_734"
     },
     "735": {
-        "毒無効": ""
+        "毒無効": "Psn. Null"
     },
     "736": {
-        "魅了無効": ""
+        "魅了無効": "Charm Null"
     },
     "737": {
         "clarity_nt_char_737": "clarity_nt_char_737"
     },
     "738": {
-        "しばり無効": ""
+        "しばり無効": "Restraint Null"
     },
     "739": {
-        "おびえ無効": ""
+        "おびえ無効": "Frighten Null"
     },
     "740": {
-        "転び無効": ""
+        "転び無効": "Fall Null"
     },
     "741": {
         "clarity_nt_char_741": "clarity_nt_char_741"
     },
     "742": {
-        "踊り無効": ""
+        "踊り無効": "Dance Null"
     },
     "743": {
         "clarity_nt_char_743": "clarity_nt_char_743"
     },
     "744": {
-        "笑い無効": ""
+        "笑い無効": "Laugh Null"
     },
     "745": {
         "clarity_nt_char_745": "clarity_nt_char_745"
     },
     "746": {
-        "休み無効": ""
+        "休み無効": "Downed Null"
     },
     "747": {
         "clarity_nt_char_747": "clarity_nt_char_747"
     },
     "748": {
-        "攻撃力ダウン無効": ""
+        "攻撃力ダウン無効": "ATK ↓ Null"
     },
     "749": {
         "clarity_nt_char_749": "clarity_nt_char_749"
     },
     "750": {
-        "呪攻撃ダウン無効": ""
+        "呪攻撃ダウン無効": "Spell Down Null"
     },
     "751": {
         "clarity_nt_char_751": "clarity_nt_char_751"
     },
     "752": {
-        "守備力ダウン無効": ""
+        "守備力ダウン無効": "DEF ↓ Null"
     },
     "753": {
         "clarity_nt_char_753": "clarity_nt_char_753"
     },
     "754": {
-        "呪文耐性低下無効": ""
+        "呪文耐性低下無効": "Spell Resist Down|Null"
     },
     "755": {
         "clarity_nt_char_755": "clarity_nt_char_755"
     },
     "756": {
-        "すばやさ低下無効": ""
+        "すばやさ低下無効": "Agility Down|Null"
     },
     "757": {
         "clarity_nt_char_757": "clarity_nt_char_757"
     },
     "758": {
-        "攻撃力 +10": ""
+        "攻撃力 +10": "Attack +10"
     },
     "759": {
-        "呪文の威力 +20": ""
+        "呪文の威力 +20": "Spell Power +20"
     },
     "760": {
-        "守備力 +10": ""
+        "守備力 +10": "Defense +10"
     },
     "761": {
-        "呪文耐性 +10": ""
+        "呪文耐性 +10": "Spell Resist +10"
     },
     "762": {
         "clarity_nt_char_762": "clarity_nt_char_762"
     },
     "763": {
-        "ぼうぎょ": ""
+        "ぼうぎょ": "Defend"
     },
     "764": {
         "clarity_nt_char_764": "clarity_nt_char_764"
     },
     "765": {
-        "すばやさアップ": ""
+        "すばやさアップ": "Agility Up"
     },
     "766": {
-        "カウンター": ""
+        "カウンター": "Counter"
     },
     "767": {
-        "ブレス反射": ""
+        "ブレス反射": "Breath Reflect"
     },
     "768": {
-        "呪文ダメージ無効": ""
+        "呪文ダメージ無効": "Spell Damage Null"
     },
     "769": {
         "clarity_nt_char_769": "clarity_nt_char_769"
     },
     "770": {
-        "呪文反射": ""
+        "呪文反射": "Spell Bounce"
     },
     "771": {
         "clarity_nt_char_771": "clarity_nt_char_771"
     },
     "772": {
-        "自動回復": ""
+        "自動回復": "Auto Heal"
     },
     "773": {
         "clarity_nt_char_773": "clarity_nt_char_773"
     },
     "774": {
-        "打撃完全ガード": ""
+        "打撃完全ガード": "Physical Damage|Guard"
     },
     "775": {
-        "呪文完全ガード": ""
+        "呪文完全ガード": "Spell Damage|Guard"
     },
     "776": {
-        "みかわし": ""
+        "みかわし": "Dodge"
     },
     "777": {
         "clarity_nt_char_777": "clarity_nt_char_777"
     },
     "778": {
-        "天使の守り": ""
+        "天使の守り": "Goddess' Grace"
     },
     "779": {
-        "さいだいＨＰ増加": ""
+        "さいだいＨＰ増加": "Max HP Up"
     },
     "780": {
         "clarity_nt_char_780": "clarity_nt_char_780"
     },
     "781": {
-        "攻撃力 +20": ""
+        "攻撃力 +20": "Attack +20"
     },
     "782": {
-        "武器ガード": ""
+        "武器ガード": "Parry"
     },
     "783": {
-        "盾ガード": ""
+        "盾ガード": "Block"
     },
     "784": {
         "clarity_nt_char_784": "clarity_nt_char_784"
     },
     "785": {
-        "呪文の威力 +50": ""
+        "呪文の威力 +50": "Spell Power +50"
     },
     "786": {
-        "攻撃力 +30": ""
+        "攻撃力 +30": "Attack +30"
     },
     "787": {
-        "眠っている": ""
+        "眠っている": "Sleeping..."
     },
     "788": {
-        "混乱している": ""
+        "混乱している": "Confused!"
     },
     "789": {
         "clarity_nt_char_789": "clarity_nt_char_789"
     },
     "790": {
-        "呪われている": ""
+        "呪われている": "Cursed!"
     },
     "791": {
         "clarity_nt_char_791": "clarity_nt_char_791"
     },
     "792": {
-        "幻惑されている": ""
+        "幻惑されている": "Blinded!"
     },
     "793": {
-        "封印されている": ""
+        "封印されている": "Sealed!"
     },
     "794": {
-        "マヒしている": ""
+        "マヒしている": "Paralyzed!"
     },
     "795": {
         "clarity_nt_char_795": "clarity_nt_char_795"
     },
     "796": {
-        "毒にかかっている": ""
+        "毒にかかっている": "Poisoned!"
     },
     "797": {
         "clarity_nt_char_797": "clarity_nt_char_797"
     },
     "798": {
-        "猛毒をうけている": ""
+        "猛毒をうけている": "Envenomated!"
     },
     "799": {
         "clarity_nt_char_799": "clarity_nt_char_799"
     },
     "800": {
-        "魅了されている": ""
+        "魅了されている": "Charmed!"
     },
     "801": {
-        "しばられている": ""
+        "しばられている": "Restrained!"
     },
     "802": {
-        "おびえている": ""
+        "おびえている": "Frightened!"
     },
     "803": {
         "clarity_nt_char_803": "clarity_nt_char_803"
     },
     "804": {
-        "転んでいる": ""
+        "転んでいる": "Fallen!"
     },
     "805": {
-        "笑っている": ""
+        "笑っている": "Laughing!"
     },
     "806": {
-        "反動で動けない": ""
+        "反動で動けない": "Can't move!"
     },
     "807": {
-        "攻撃力 -10": ""
+        "攻撃力 -10": "Attack -10"
     },
     "808": {
-        "呪文の威力 -10": ""
+        "呪文の威力 -10": "Spell Power -10"
     },
     "809": {
-        "守備力 -10": ""
+        "守備力 -10": "Defense -10"
     },
     "810": {
-        "呪文耐性 -20": ""
+        "呪文耐性 -20": "Spell Resist -20"
     },
     "811": {
         "clarity_nt_char_811": "clarity_nt_char_811"
     },
     "812": {
-        "すばやさ -5": ""
+        "すばやさ -5": "Agility -5"
     },
     "813": {
-        "カウンター！": ""
+        "カウンター！": "Counter!"
     },
     "814": {
         "clarity_nt_char_814": "clarity_nt_char_814"
     },
     "815": {
-        "跳ね返した！": ""
+        "跳ね返した！": "Reflected!"
     },
     "816": {
         "clarity_nt_char_816": "clarity_nt_char_816"
     },
     "817": {
-        "きかなかった！": ""
+        "きかなかった！": "Didn't listen!"
     },
     "818": {
-        "ＨＰ +20": ""
+        "ＨＰ +20": "HP +20"
     },
     "819": {
         "clarity_nt_char_819": "clarity_nt_char_819"
     },
     "820": {
-        "打撃が無効！": ""
+        "打撃が無効！": "Attack is null!"
     },
     "821": {
         "clarity_nt_char_821": "clarity_nt_char_821"
     },
     "822": {
-        "呪文完全ガード！": ""
+        "呪文完全ガード！": "Spell Damage|Guard!"
     },
     "823": {
         "clarity_nt_char_823": "clarity_nt_char_823"
     },
     "824": {
-        "ひらりとみをかわした": ""
+        "ひらりとみをかわした": "Dodged self!"
     },
     "825": {
         "clarity_nt_char_825": "clarity_nt_char_825"
     },
     "826": {
-        "天使の守りで|復活した！": ""
+        "天使の守りで|復活した！": "Revived by|Goddess' Grace!"
     },
     "827": {
         "clarity_nt_char_827": "clarity_nt_char_827"
     },
     "828": {
-        "武器ガード！": ""
+        "武器ガード！": "Parried!"
     },
     "829": {
         "clarity_nt_char_829": "clarity_nt_char_829"
     },
     "830": {
-        "毒のダメージをうけた": ""
+        "毒のダメージをうけた": "Took Poison|damage!"
     },
     "831": {
         "clarity_nt_char_831": "clarity_nt_char_831"
     },
     "832": {
-        "猛毒ダメージをうけた": ""
+        "猛毒ダメージをうけた": "Took Deadly|Poison damage!"
     },
     "833": {
         "clarity_nt_char_833": "clarity_nt_char_833"
     },
     "834": {
-        "反動で動けない！": ""
+        "反動で動けない！": "Can't move!"
     },
     "835": {
         "clarity_nt_char_835": "clarity_nt_char_835"
     },
     "836": {
-        "攻撃力がもどった": ""
+        "攻撃力がもどった": "Attack back to|normal."
     },
     "837": {
         "clarity_nt_char_837": "clarity_nt_char_837"
     },
     "838": {
-        "呪文の威力がもどった": ""
+        "呪文の威力がもどった": "Spell power back|to normal."
     },
     "839": {
         "clarity_nt_char_839": "clarity_nt_char_839"
     },
     "840": {
-        "守備力がもどった": ""
+        "守備力がもどった": "Defense back|to normal."
     },
     "841": {
         "clarity_nt_char_841": "clarity_nt_char_841"
     },
     "842": {
-        "呪文耐性がもどった": ""
+        "呪文耐性がもどった": "Spell res. back|to normal."
     },
     "843": {
-        "ぼうぎょをやめた": ""
+        "ぼうぎょをやめた": "Stopped|defending."
     },
     "844": {
         "clarity_nt_char_844": "clarity_nt_char_844"
     },
     "845": {
-        "すばやさがもどった": ""
+        "すばやさがもどった": "Agility back to|normal."
     },
     "846": {
-        "カウンターの構えを|といた": ""
+        "カウンターの構えを|といた": "Took a counter|stance!"
     },
     "847": {
-        "おいかぜがやんだ": ""
+        "おいかぜがやんだ": "Backdraft faded."
     },
     "848": {
         "clarity_nt_char_848": "clarity_nt_char_848"
     },
     "849": {
-        "マホステがとけた": ""
+        "マホステがとけた": "Snub faded."
     },
     "850": {
         "clarity_nt_char_850": "clarity_nt_char_850"
     },
     "851": {
-        "マホカンタがとけた": ""
+        "マホカンタがとけた": "Bounce faded."
     },
     "852": {
-        "自動回復がおわった": ""
+        "自動回復がおわった": "Auto recovery|faded."
     },
     "853": {
-        "テンションがもどった": ""
+        "テンションがもどった": "Tension is back|to normal."
     },
     "854": {
         "clarity_nt_char_854": "clarity_nt_char_854"
     },
     "855": {
-        "打撃完全ガードが|とけた": ""
+        "打撃完全ガードが|とけた": "Physical Damage|Guard faded."
     },
     "856": {
         "clarity_nt_char_856": "clarity_nt_char_856"
     },
     "857": {
-        "呪文完全ガード解除": ""
+        "呪文完全ガード解除": "Spell Damage Guard|faded."
     },
     "858": {
-        "みかわし解除": ""
+        "みかわし解除": "Dodge faded."
     },
     "859": {
         "clarity_nt_char_859": "clarity_nt_char_859"
     },
     "860": {
-        "さいだいＨＰが|もどった": ""
+        "さいだいＨＰが|もどった": "Max HP is back|to normal."
     },
     "861": {
         "clarity_nt_char_861": "clarity_nt_char_861"
     },
     "862": {
-        "武器ガードの構えを|といた": ""
+        "武器ガードの構えを|といた": "Parry stance|faded."
     },
     "863": {
-        "盾ガードの構えを|といた": ""
+        "盾ガードの構えを|といた": "Blocking stance|faded."
     },
     "864": {
         "clarity_nt_char_864": "clarity_nt_char_864"
     },
     "865": {
-        "眠りからさめた": ""
+        "眠りからさめた": "Woke up!"
     },
     "866": {
-        "混乱がとけた": ""
+        "混乱がとけた": "Not confused!"
     },
     "867": {
         "clarity_nt_char_867": "clarity_nt_char_867"
     },
     "868": {
-        "呪いがとけた": ""
+        "呪いがとけた": "No longer cursed!"
     },
     "869": {
         "clarity_nt_char_869": "clarity_nt_char_869"
     },
     "870": {
-        "幻惑がとけた": ""
+        "幻惑がとけた": "Can see again!"
     },
     "871": {
         "clarity_nt_char_871": "clarity_nt_char_871"
     },
     "872": {
-        "封印がとけた": ""
+        "封印がとけた": "Seal is broken!"
     },
     "873": {
         "clarity_nt_char_873": "clarity_nt_char_873"
     },
     "874": {
-        "マヒがとけた": ""
+        "マヒがとけた": "Not paralyzed!"
     },
     "875": {
         "clarity_nt_char_875": "clarity_nt_char_875"
     },
     "876": {
-        "毒がきえた": ""
+        "毒がきえた": "Poison faded!"
     },
     "877": {
-        "猛毒がきえた": ""
+        "猛毒がきえた": "Envenom faded!"
     },
     "878": {
         "clarity_nt_char_878": "clarity_nt_char_878"
     },
     "879": {
-        "魅了がとけた": ""
+        "魅了がとけた": "Charm faded!"
     },
     "880": {
         "clarity_nt_char_880": "clarity_nt_char_880"
     },
     "881": {
-        "しばりがとけた": ""
+        "しばりがとけた": "Not restrained!"
     },
     "882": {
-        "おびえがとけた": ""
+        "おびえがとけた": "No longer|frightened!"
     },
     "883": {
-        "起き上がった": ""
+        "起き上がった": "Got back up!"
     },
     "884": {
         "clarity_nt_char_884": "clarity_nt_char_884"
     },
     "885": {
-        "踊るのをやめた": ""
+        "踊るのをやめた": "Stopped dancing!"
     },
     "886": {
-        "笑いがおさまった": ""
+        "笑いがおさまった": "Stopped laughing!"
     },
     "887": {
         "clarity_nt_char_887": "clarity_nt_char_887"
     },
     "888": {
-        "再起動した": ""
+        "再起動した": "Rebooted!"
     },
     "889": {
-        "攻撃力アップ延長！": ""
+        "攻撃力アップ延長！": "Attack Up|extended!"
     },
     "890": {
-        "呪文の威力アップ|延長！": ""
+        "呪文の威力アップ|延長！": "Spell Power Up|extended!"
     },
     "891": {
         "clarity_nt_char_891": "clarity_nt_char_891"
     },
     "892": {
-        "守備力アップ延長！": ""
+        "守備力アップ延長！": "Defense Up|extended!"
     },
     "893": {
-        "呪文耐性アップ延長！": ""
+        "呪文耐性アップ延長！": "Spell Resist Up|extended!"
     },
     "894": {
         "clarity_nt_char_894": "clarity_nt_char_894"
     },
     "895": {
-        "ぼうぎょの効果延長！": ""
+        "ぼうぎょの効果延長！": "Defend effect|extended!"
     },
     "896": {
         "clarity_nt_char_896": "clarity_nt_char_896"
     },
     "897": {
-        "すばやさアップ効果|延長！": ""
+        "すばやさアップ効果|延長！": "Agility Up|extended!"
     },
     "898": {
-        "おいかぜの効果延長！": ""
+        "おいかぜの効果延長！": "Backdraft effect|extended!"
     },
     "899": {
         "clarity_nt_char_899": "clarity_nt_char_899"
     },
     "900": {
-        "マホステ効果延長！": ""
+        "マホステ効果延長！": "Snub effect|extended!"
     },
     "901": {
-        "マホカンタ効果延長！": ""
+        "マホカンタ効果延長！": "Bounce effect|extended!"
     },
     "902": {
         "clarity_nt_char_902": "clarity_nt_char_902"
     },
     "903": {
-        "自動回復の効果延長！": ""
+        "自動回復の効果延長！": "Auto heal effect|extended!"
     },
     "904": {
         "clarity_nt_char_904": "clarity_nt_char_904"
     },
     "905": {
-        "打撃完全ガードの効果|延長！": ""
+        "打撃完全ガードの効果|延長！": "Phys. Damage Guard|effect extended!"
     },
     "906": {
         "clarity_nt_char_906": "clarity_nt_char_906"
     },
     "907": {
-        "呪文完全ガードの効果|延長！": ""
+        "呪文完全ガードの効果|延長！": "Spell Damage Guard|effect extended!"
     },
     "908": {
         "clarity_nt_char_908": "clarity_nt_char_908"
     },
     "909": {
-        "みかわしの効果延長！": ""
+        "みかわしの効果延長！": "Dodge effect|extended!"
     },
     "910": {
         "clarity_nt_char_910": "clarity_nt_char_910"
     },
     "911": {
-        "さいだいＨＰ増加の|効果延長！": ""
+        "さいだいＨＰ増加の|効果延長！": "Max HP Up effect|extended!"
     },
     "912": {
-        "武器ガード効果延長！": ""
+        "武器ガード効果延長！": "Parry effect|extended!"
     },
     "913": {
         "clarity_nt_char_913": "clarity_nt_char_913"
     },
     "914": {
-        "盾ガード効果延長！": ""
+        "盾ガード効果延長！": "Block effect|extended!"
     },
     "915": {
-        "眠りの効果延長！": ""
+        "眠りの効果延長！": "Sleep effect|extended!"
     },
     "916": {
         "clarity_nt_char_916": "clarity_nt_char_916"
     },
     "917": {
-        "混乱の効果延長！": ""
+        "混乱の効果延長！": "Confuse effect|extended!"
     },
     "918": {
         "clarity_nt_char_918": "clarity_nt_char_918"
     },
     "919": {
-        "呪い効果延長！": ""
+        "呪い効果延長！": "Curse extended!"
     },
     "920": {
-        "幻惑の効果延長！": ""
+        "幻惑の効果延長！": "Blind effect|extended!"
     },
     "921": {
         "clarity_nt_char_921": "clarity_nt_char_921"
     },
     "922": {
-        "封印の効果延長！": ""
+        "封印の効果延長！": "Seal effect|extended!"
     },
     "923": {
         "clarity_nt_char_923": "clarity_nt_char_923"
     },
     "924": {
-        "マヒの効果延長！": ""
+        "マヒの効果延長！": "Paralysis|extended!"
     },
     "925": {
         "clarity_nt_char_925": "clarity_nt_char_925"
     },
     "926": {
-        "毒の効果延長！": ""
+        "毒の効果延長！": "Poison extended!"
     },
     "927": {
-        "猛毒の効果延長！": ""
+        "猛毒の効果延長！": "Deadly Poison|extended!"
     },
     "928": {
         "clarity_nt_char_928": "clarity_nt_char_928"
     },
     "929": {
-        "魅了の効果延長！": ""
+        "魅了の効果延長！": "Charm effect|extended!"
     },
     "930": {
         "clarity_nt_char_930": "clarity_nt_char_930"
     },
     "931": {
-        "しばりの効果延長！": ""
+        "しばりの効果延長！": "Restraint effect|extended!"
     },
     "932": {
-        "おびえの効果延長！": ""
+        "おびえの効果延長！": "Frighten effect|extended!"
     },
     "933": {
-        "転びの効果延長！": ""
+        "転びの効果延長！": "Fall effect|extended!"
     },
     "934": {
         "clarity_nt_char_934": "clarity_nt_char_934"
     },
     "935": {
-        "踊りの効果延長！": ""
+        "踊りの効果延長！": "Keep on dancin'!"
     },
     "936": {
         "clarity_nt_char_936": "clarity_nt_char_936"
     },
     "937": {
-        "笑いの効果延長！": ""
+        "笑いの効果延長！": "Laugh effect|extended!"
     },
     "938": {
         "clarity_nt_char_938": "clarity_nt_char_938"
     },
     "939": {
-        "休みの効果延長！": ""
+        "休みの効果延長！": "Down effect|extended!"
     },
     "940": {
         "clarity_nt_char_940": "clarity_nt_char_940"
     },
     "941": {
-        "攻撃力ダウン延長！": ""
+        "攻撃力ダウン延長！": "Attack Down|extended!"
     },
     "942": {
-        "呪文の威力ダウン|延長！": ""
+        "呪文の威力ダウン|延長！": "Spell Power Down|extended!"
     },
     "943": {
         "clarity_nt_char_943": "clarity_nt_char_943"
     },
     "944": {
-        "守備力ダウン延長！": ""
+        "守備力ダウン延長！": "Defense Down|extended!"
     },
     "945": {
-        "呪文耐性ダウン延長！": ""
+        "呪文耐性ダウン延長！": "Spell Resist Down|extended!"
     },
     "946": {
         "clarity_nt_char_946": "clarity_nt_char_946"
     },
     "947": {
-        "すばやさダウン延長！": ""
+        "すばやさダウン延長！": "Agility Down|extended!"
     },
     "948": {
         "clarity_nt_char_948": "clarity_nt_char_948"
     },
     "949": {
-        "打撃攻撃のダメージ上昇": ""
+        "打撃攻撃のダメージ上昇": "Physical damage taken up!"
     },
     "950": {
-        "呪文攻撃のダメージ上昇": ""
+        "呪文攻撃のダメージ上昇": "Spell damage dealt up!"
     },
     "951": {
-        "打撃で受けるダメージ減": ""
+        "打撃で受けるダメージ減": "Reduced Physical damage taken!"
     },
     "952": {
-        "呪文で受けるダメージ減": ""
+        "呪文で受けるダメージ減": "Reduced Spell damage taken!"
     },
     "953": {
-        "受けるダメージ減少": ""
+        "受けるダメージ減少": "Taken damage|slightly down!"
     },
     "954": {
-        "すばやさが上がる": ""
+        "すばやさが上がる": "Agility increased!"
     },
     "955": {
         "clarity_nt_char_955": "clarity_nt_char_955"
     },
     "956": {
-        "ブレス攻撃を反射する": ""
+        "ブレス攻撃を反射する": "Reflect Breath|attacks!"
     },
     "957": {
         "clarity_nt_char_957": "clarity_nt_char_957"
     },
     "958": {
-        "呪文攻撃を受けない": ""
+        "呪文攻撃を受けない": "Attack spells are|nulled!"
     },
     "959": {
-        "呪文攻撃を反射する": ""
+        "呪文攻撃を反射する": "Spells will|be reflected!"
     },
     "960": {
-        "毎ターンＨＰが２０回復": ""
+        "毎ターンＨＰが２０回復": "Recover 20 HP|each turn!"
     },
     "961": {
-        "打撃攻撃を受けない": ""
+        "打撃攻撃を受けない": "Physical attacks|are null!"
     },
     "962": {
-        "ダメージを受けない": ""
+        "ダメージを受けない": "Taking no damage!"
     },
     "963": {
-        "死んでもＨＰ１０で復活": ""
+        "死んでもＨＰ１０で復活": "Revive with 10|HP on death!"
     },
     "964": {
-        "さいだいＨＰが６０上昇": ""
+        "さいだいＨＰが６０上昇": "Max HP increased|by 60!"
     },
     "965": {
-        "●と★が入れかわる": ""
+        "●と★が入れかわる": "● and ★ are|swapped!"
     },
     "966": {
-        "打撃・会心攻撃がミスに": ""
+        "打撃・会心攻撃がミスに": "Physical attacks|will miss!"
     },
     "967": {
-        "呪文が使えなくなる": ""
+        "呪文が使えなくなる": "Can't use spells!"
     },
     "968": {
-        "毎ターンＨＰにダメージ": ""
+        "毎ターンＨＰにダメージ": "Lose HP each turn!"
     },
     "969": {
-        "自分を攻撃する": ""
+        "自分を攻撃する": "Attack yourself!"
     },
     "970": {
-        "打撃攻撃のダメージ減少": ""
+        "打撃攻撃のダメージ減少": "Reduce physical damage taken!"
     },
     "971": {
-        "呪文の威力ダウン": ""
+        "呪文の威力ダウン": "Spell Power Down"
     },
     "972": {
         "clarity_nt_char_972": "clarity_nt_char_972"
     },
     "973": {
-        "打撃で受けるダメージ増": ""
+        "打撃で受けるダメージ増": "Increased physical damage taken!"
     },
     "974": {
-        "呪文で受けるダメージ増": ""
+        "呪文で受けるダメージ増": "Reduced spell damage taken!"
     },
     "975": {
-        "すばやさダウン": ""
+        "すばやさダウン": "Agility Down"
     },
     "976": {
-        "攻撃力が上がった！": ""
+        "攻撃力が上がった！": "Attack increased!"
     },
     "977": {
-        "呪文の威力が|上がった！": ""
+        "呪文の威力が|上がった！": "Spell power|increased!"
     },
     "978": {
         "clarity_nt_char_978": "clarity_nt_char_978"
     },
     "979": {
-        "守備力が上がった！": ""
+        "守備力が上がった！": "Defense increased!"
     },
     "980": {
-        "呪文耐性が|上がった！": ""
+        "呪文耐性が|上がった！": "Spell resistance|increased!"
     },
     "981": {
-        "ターン終了まで|受けるダメージ -30！": ""
+        "ターン終了まで|受けるダメージ -30！": "Damage taken -30|until turn ends!"
     },
     "982": {
         "clarity_nt_char_982": "clarity_nt_char_982"
     },
     "983": {
-        "すばやさが上がった！": ""
+        "すばやさが上がった！": "Agility increased!"
     },
     "984": {
         "clarity_nt_char_984": "clarity_nt_char_984"
     },
     "985": {
-        "反撃の構えをとった！": ""
+        "反撃の構えをとった！": "Ready to counter!"
     },
     "986": {
         "clarity_nt_char_986": "clarity_nt_char_986"
     },
     "987": {
-        "おいかぜをまとった！": ""
+        "おいかぜをまとった！": "Gained Backdraft!"
     },
     "988": {
         "clarity_nt_char_988": "clarity_nt_char_988"
     },
     "989": {
-        "マホステにかかった！": ""
+        "マホステにかかった！": "Gained Snub!"
     },
     "990": {
         "clarity_nt_char_990": "clarity_nt_char_990"
     },
     "991": {
-        "マホカンタに|かかった！": ""
+        "マホカンタに|かかった！": "Gained Bounce!"
     },
     "992": {
         "clarity_nt_char_992": "clarity_nt_char_992"
     },
     "993": {
-        "毎ターンＨＰが回復！": ""
+        "毎ターンＨＰが回復！": "Recover HP|each turn!"
     },
     "994": {
         "clarity_nt_char_994": "clarity_nt_char_994"
     },
     "995": {
-        "テンションが|上がった！": ""
+        "テンションが|上がった！": "Tension increased!"
     },
     "996": {
         "clarity_nt_char_996": "clarity_nt_char_996"
     },
     "997": {
-        "スーパー|ハイテンション！": ""
+        "スーパー|ハイテンション！": "Super High|Tension!!"
     },
     "998": {
-        "打撃完全ガード！": ""
+        "打撃完全ガード！": "Physical Damage|Guard!"
     },
     "999": {
         "clarity_nt_char_999": "clarity_nt_char_999"
     },
     "1000": {
-        "ダメージ無効！": ""
+        "ダメージ無効！": "Damage nullified!"
     },
     "1001": {
-        "天使の守りを受けた！": ""
+        "天使の守りを受けた！": "Gained Goddess'|Grace!"
     },
     "1002": {
         "clarity_nt_char_1002": "clarity_nt_char_1002"
     },
     "1003": {
-        "さいだいＨＰが|増えた！": ""
+        "さいだいＨＰが|増えた！": "Max HP increased!"
     },
     "1004": {
         "clarity_nt_char_1004": "clarity_nt_char_1004"
     },
     "1005": {
-        "眠ってしまった！": ""
+        "眠ってしまった！": "Fell asleep!"
     },
     "1006": {
         "clarity_nt_char_1006": "clarity_nt_char_1006"
     },
     "1007": {
-        "混乱してしまった！": ""
+        "混乱してしまった！": "Confused!"
     },
     "1008": {
-        "呪われてしまった！": ""
+        "呪われてしまった！": "Cursed!"
     },
     "1009": {
-        "幻惑にかかった！": ""
+        "幻惑にかかった！": "Became blinded!"
     },
     "1010": {
         "clarity_nt_char_1010": "clarity_nt_char_1010"
     },
     "1011": {
-        "打撃と会心が封印された！": ""
+        "打撃と会心が封印された！": "Physical attacks|are sealed!"
     },
     "1012": {
         "clarity_nt_char_1012": "clarity_nt_char_1012"
     },
     "1013": {
-        "呪文を|封じ込められた！": ""
+        "呪文を|封じ込められた！": "Spells are|sealed!"
     },
     "1014": {
         "clarity_nt_char_1014": "clarity_nt_char_1014"
     },
     "1015": {
-        "ブレスが封印された！": ""
+        "ブレスが封印された！": "Breath attacks|are sealed!"
     },
     "1016": {
         "clarity_nt_char_1016": "clarity_nt_char_1016"
     },
     "1017": {
-        "マヒにかかった！": ""
+        "マヒにかかった！": "Paralyzed!"
     },
     "1018": {
         "clarity_nt_char_1018": "clarity_nt_char_1018"
     },
     "1019": {
-        "毒にかかった！": ""
+        "毒にかかった！": "Poisoned!"
     },
     "1020": {
-        "猛毒をうけた！": ""
+        "猛毒をうけた！": "Envenomated!"
     },
     "1021": {
-        "魅了された！": ""
+        "魅了された！": "Charmed!"
     },
     "1022": {
         "clarity_nt_char_1022": "clarity_nt_char_1022"
     },
     "1023": {
-        "しばられてしまった！": ""
+        "しばられてしまった！": "Restrained!"
     },
     "1024": {
         "clarity_nt_char_1024": "clarity_nt_char_1024"
     },
     "1025": {
-        "ショックをうけた！": ""
+        "ショックをうけた！": "Shocked!"
     },
     "1026": {
-        "すっころんだ！": ""
+        "すっころんだ！": "Fell down!"
     },
     "1027": {
-        "つられて|踊ってしまった！": ""
+        "つられて|踊ってしまった！": "Started boogyin'!"
     },
     "1028": {
-        "大ウケした！": ""
+        "大ウケした！": "Big success!"
     },
     "1029": {
         "clarity_nt_char_1029": "clarity_nt_char_1029"
     },
     "1030": {
-        "攻撃力が下がった！": ""
+        "攻撃力が下がった！": "Attack decreased!"
     },
     "1031": {
-        "呪文の威力が下がった！": ""
+        "呪文の威力が下がった！": "Spell power|decreased!"
     },
     "1032": {
-        "守備力が下がった！": ""
+        "守備力が下がった！": "Defense decreased!"
     },
     "1033": {
-        "呪文耐性が|下がった！": ""
+        "呪文耐性が|下がった！": "Spell resistance|decreased!"
     },
     "1034": {
-        "すばやさが下がった！": ""
+        "すばやさが下がった！": "Agility decreased!"
     },
     "1035": {
         "clarity_nt_char_1035": "clarity_nt_char_1035"
     },
     "1036": {
-        "眠り無効！": ""
+        "眠り無効！": "Sleep null!"
     },
     "1037": {
-        "混乱無効！": ""
+        "混乱無効！": "Confusion|null!"
     },
     "1038": {
-        "呪い無効！": ""
+        "呪い無効！": "Curse null!"
     },
     "1039": {
-        "幻惑無効！": ""
+        "幻惑無効！": "Blind null!"
     },
     "1040": {
-        "打撃会心封印無効！": ""
+        "打撃会心封印無効！": "Physical damage|seal null!"
     },
     "1041": {
-        "呪文封印無効！": ""
+        "呪文封印無効！": "Spell seal|null!"
     },
     "1042": {
-        "ブレス封印無効！": ""
+        "ブレス封印無効！": "Breath seal|null!"
     },
     "1043": {
         "clarity_nt_char_1043": "clarity_nt_char_1043"
     },
     "1044": {
-        "マヒ無効！": ""
+        "マヒ無効！": "Paralysis null!"
     },
     "1045": {
-        "毒無効！": ""
+        "毒無効！": "Psn. null!"
     },
     "1046": {
         "clarity_nt_char_1046": "clarity_nt_char_1046"
     },
     "1047": {
-        "魅了無効！": ""
+        "魅了無効！": "Charm null!"
     },
     "1048": {
-        "しばり無効！": ""
+        "しばり無効！": "Restraint null!"
     },
     "1049": {
         "clarity_nt_char_1049": "clarity_nt_char_1049"
     },
     "1050": {
-        "おびえ無効！": ""
+        "おびえ無効！": "Frighten null!"
     },
     "1051": {
         "clarity_nt_char_1051": "clarity_nt_char_1051"
     },
     "1052": {
-        "転び無効！": ""
+        "転び無効！": "Fall null!"
     },
     "1053": {
-        "踊り無効！": ""
+        "踊り無効！": "Dance null!"
     },
     "1054": {
-        "笑い無効！": ""
+        "笑い無効！": "Laugh null!"
     },
     "1055": {
-        "休み無効！": ""
+        "休み無効！": "Down null!"
     },
     "1056": {
-        "攻撃力ダウン無効！": ""
+        "攻撃力ダウン無効！": "Attack Down null!"
     },
     "1057": {
-        "呪攻撃ダウン無効！": ""
+        "呪攻撃ダウン無効！": "Spell Power Down|null!"
     },
     "1058": {
-        "守備力ダウン無効！": ""
+        "守備力ダウン無効！": "Defense Down|null!"
     },
     "1059": {
-        "呪文耐性低下無効！": ""
+        "呪文耐性低下無効！": "Spell Resistance|Down null!"
     },
     "1060": {
-        "すばやさ低下無効！": ""
+        "すばやさ低下無効！": "Agility Down|null!"
     },
     "1061": {
-        "攻撃力 +10|残り <%dM_mm>ターン": ""
+        "攻撃力 +10|残り <%dM_mm>ターン": "Attack +10|<%dM_mm> Turns Left"
     },
     "1062": {
         "clarity_nt_char_1062": "clarity_nt_char_1062"
     },
     "1063": {
-        "呪文の威力 +20|残り <%dM_mm>ターン": ""
+        "呪文の威力 +20|残り <%dM_mm>ターン": "Spell Power +20|<%dM_mm> Turns Left"
     },
     "1064": {
         "clarity_nt_char_1064": "clarity_nt_char_1064"
     },
     "1065": {
-        "守備力 +10|残り <%dM_mm>ターン": ""
+        "守備力 +10|残り <%dM_mm>ターン": "Defense +10|<%dM_mm> Turns Left"
     },
     "1066": {
         "clarity_nt_char_1066": "clarity_nt_char_1066"
     },
     "1067": {
-        "呪文耐性 +10|残り <%dM_mm>ターン": ""
+        "呪文耐性 +10|残り <%dM_mm>ターン": "Spell Resist +10|<%dM_mm> Turns Left"
     },
     "1068": {
-        "ぼうぎょ|残り <%dM_mm>ターン": ""
+        "ぼうぎょ|残り <%dM_mm>ターン": "Defend|<%dM_mm> Turns Left"
     },
     "1069": {
-        "すばやさアップ|残り <%dM_mm>ターン": ""
+        "すばやさアップ|残り <%dM_mm>ターン": "Agility Up|<%dM_mm> Turns Left"
     },
     "1070": {
         "clarity_nt_char_1070": "clarity_nt_char_1070"
     },
     "1071": {
-        "カウンター|残り <%dM_mm>ターン": ""
+        "カウンター|残り <%dM_mm>ターン": "Counter|<%dM_mm> Turns Left"
     },
     "1072": {
         "clarity_nt_char_1072": "clarity_nt_char_1072"
     },
     "1073": {
-        "ブレス反射|残り <%dM_mm>ターン": ""
+        "ブレス反射|残り <%dM_mm>ターン": "Breath Reflect|<%dM_mm> Turns Left"
     },
     "1074": {
         "clarity_nt_char_1074": "clarity_nt_char_1074"
     },
     "1075": {
-        "呪文ダメージ無効|残り <%dM_mm>ターン": ""
+        "呪文ダメージ無効|残り <%dM_mm>ターン": "Spell Damage Null|<%dM_mm> Turns Left"
     },
     "1076": {
-        "呪文反射|残り <%dM_mm>ターン": ""
+        "呪文反射|残り <%dM_mm>ターン": "Spell Reflect|<%dM_mm> Turns Left"
     },
     "1077": {
-        "自動回復|残り <%dM_mm>ターン": ""
+        "自動回復|残り <%dM_mm>ターン": "Auto Heal|<%dM_mm> Turns Left"
     },
     "1078": {
-        "スーパーハイテンショ|ン　残り <%dM_mm>ターン": ""
+        "スーパーハイテンショ|ン　残り <%dM_mm>ターン": "Super High Tension|<%dM_mm> Turns Left"
     },
     "1079": {
-        "打撃完全ガード|残り <%dM_mm>ターン": ""
+        "打撃完全ガード|残り <%dM_mm>ターン": "Phys. Damage Guard|<%dM_mm> Turns Left"
     },
     "1080": {
         "clarity_nt_char_1080": "clarity_nt_char_1080"
     },
     "1081": {
-        "呪文完全ガード|残り <%dM_mm>ターン": ""
+        "呪文完全ガード|残り <%dM_mm>ターン": "Spell Damage Guard|<%dM_mm> Turns Left"
     },
     "1082": {
         "clarity_nt_char_1082": "clarity_nt_char_1082"
     },
     "1083": {
-        "みかわし|残り <%dM_mm>ターン": ""
+        "みかわし|残り <%dM_mm>ターン": "Dodge|<%dM_mm> Turns Left"
     },
     "1084": {
-        "天使の守り|残り <%dM_mm>ターン": ""
+        "天使の守り|残り <%dM_mm>ターン": "Goddess' Grace|<%dM_mm> Turns Left"
     },
     "1085": {
         "clarity_nt_char_1085": "clarity_nt_char_1085"
     },
     "1086": {
-        "さいだいＨＰ増加|残り <%dM_mm>ターン": ""
+        "さいだいＨＰ増加|残り <%dM_mm>ターン": "Max HP Up|<%dM_mm> Turns Left"
     },
     "1087": {
-        "攻撃力 +20|残り <%dM_mm>ターン": ""
+        "攻撃力 +20|残り <%dM_mm>ターン": "Attack +20|<%dM_mm> Turns Left"
     },
     "1088": {
         "clarity_nt_char_1088": "clarity_nt_char_1088"
     },
     "1089": {
-        "武器ガード|残り <%dM_mm>ターン": ""
+        "武器ガード|残り <%dM_mm>ターン": "Parry|<%dM_mm> Turns Left"
     },
     "1090": {
         "clarity_nt_char_1090": "clarity_nt_char_1090"
     },
     "1091": {
-        "盾ガード|残り <%dM_mm>ターン": ""
+        "盾ガード|残り <%dM_mm>ターン": "Block|<%dM_mm> Turns Left"
     },
     "1092": {
-        "呪文の威力 +50|残り <%dM_mm>ターン": ""
+        "呪文の威力 +50|残り <%dM_mm>ターン": "Spell Power +50|<%dM_mm> Turns Left"
     },
     "1093": {
         "clarity_nt_char_1093": "clarity_nt_char_1093"
     },
     "1094": {
-        "攻撃力 +30|残り <%dM_mm>ターン": ""
+        "攻撃力 +30|残り <%dM_mm>ターン": "Attack +30|<%dM_mm> Turns Left"
     },
     "1095": {
         "clarity_nt_char_1095": "clarity_nt_char_1095"
     },
     "1096": {
-        "眠っている|残り <%dM_mm>ターン": ""
+        "眠っている|残り <%dM_mm>ターン": "Sleeping|<%dM_mm> Turns Left"
     },
     "1097": {
         "clarity_nt_char_1097": "clarity_nt_char_1097"
     },
     "1098": {
-        "混乱している|残り <%dM_mm>ターン": ""
+        "混乱している|残り <%dM_mm>ターン": "Confused|<%dM_mm> Turns Left"
     },
     "1099": {
-        "呪われている|残り <%dM_mm>ターン": ""
+        "呪われている|残り <%dM_mm>ターン": "Cursed|<%dM_mm> Turns Left"
     },
     "1100": {
-        "幻惑されている|残り <%dM_mm>ターン": ""
+        "幻惑されている|残り <%dM_mm>ターン": "Blinded|<%dM_mm> Turns Left"
     },
     "1101": {
         "clarity_nt_char_1101": "clarity_nt_char_1101"
     },
     "1102": {
-        "封印されている|残り <%dM_mm>ターン": ""
+        "封印されている|残り <%dM_mm>ターン": "Sealed|<%dM_mm> Turns Left"
     },
     "1103": {
         "clarity_nt_char_1103": "clarity_nt_char_1103"
     },
     "1104": {
-        "マヒしている|残り <%dM_mm>ターン": ""
+        "マヒしている|残り <%dM_mm>ターン": "Paralyzed|<%dM_mm> Turns Left"
     },
     "1105": {
-        "毒をうけている|残り <%dM_mm>ターン": ""
+        "毒をうけている|残り <%dM_mm>ターン": "Poisoned|<%dM_mm> Turns Left"
     },
     "1106": {
         "clarity_nt_char_1106": "clarity_nt_char_1106"
     },
     "1107": {
-        "猛毒をうけている|残り <%dM_mm>ターン": ""
+        "猛毒をうけている|残り <%dM_mm>ターン": "Envenomated|<%dM_mm> Turns Left"
     },
     "1108": {
-        "魅了されている|残り <%dM_mm>ターン": ""
+        "魅了されている|残り <%dM_mm>ターン": "Charmed|<%dM_mm> Turns Left"
     },
     "1109": {
         "clarity_nt_char_1109": "clarity_nt_char_1109"
     },
     "1110": {
-        "しばられている|残り <%dM_mm>ターン": ""
+        "しばられている|残り <%dM_mm>ターン": "Restrained|<%dM_mm> Turns Left"
     },
     "1111": {
         "clarity_nt_char_1111": "clarity_nt_char_1111"
     },
     "1112": {
-        "おびえている|残り <%dM_mm>ターン": ""
+        "おびえている|残り <%dM_mm>ターン": "Frightened|<%dM_mm> Turns Left"
     },
     "1113": {
-        "転んでいる|残り <%dM_mm>ターン": ""
+        "転んでいる|残り <%dM_mm>ターン": "Fallen Down|<%dM_mm> Turns Left"
     },
     "1114": {
         "clarity_nt_char_1114": "clarity_nt_char_1114"
     },
     "1115": {
-        "踊っている|残り <%dM_mm>ターン": ""
+        "踊っている|残り <%dM_mm>ターン": "Dancing|<%dM_mm> Turns Left"
     },
     "1116": {
         "clarity_nt_char_1116": "clarity_nt_char_1116"
     },
     "1117": {
-        "笑っている|残り <%dM_mm>ターン": ""
+        "笑っている|残り <%dM_mm>ターン": "Laughing|<%dM_mm> Turns Left"
     },
     "1118": {
         "clarity_nt_char_1118": "clarity_nt_char_1118"
     },
     "1119": {
-        "反動で動けない|残り <%dM_mm>ターン": ""
+        "反動で動けない|残り <%dM_mm>ターン": "Can't Move|<%dM_mm> Turns Left"
     },
     "1120": {
         "clarity_nt_char_1120": "clarity_nt_char_1120"
     },
     "1121": {
-        "攻撃力 -10|残り <%dM_mm>ターン": ""
+        "攻撃力 -10|残り <%dM_mm>ターン": "Attack -10|<%dM_mm> Turns Left"
     },
     "1122": {
         "clarity_nt_char_1122": "clarity_nt_char_1122"
     },
     "1123": {
-        "呪文の威力 -10|残り <%dM_mm>ターン": ""
+        "呪文の威力 -10|残り <%dM_mm>ターン": "Spell Power -10|<%dM_mm> Turns Left"
     },
     "1124": {
         "clarity_nt_char_1124": "clarity_nt_char_1124"
     },
     "1125": {
-        "守備力 -10|残り <%dM_mm>ターン": ""
+        "守備力 -10|残り <%dM_mm>ターン": "Defense -10|<%dM_mm> Turns Left"
     },
     "1126": {
         "clarity_nt_char_1126": "clarity_nt_char_1126"
     },
     "1127": {
-        "呪文耐性 -20|残り <%dM_mm>ターン": ""
+        "呪文耐性 -20|残り <%dM_mm>ターン": "Spell Resist -20|<%dM_mm> Turns Left"
     },
     "1128": {
-        "すばやさ -5|残り <%dM_mm>ターン": ""
+        "すばやさ -5|残り <%dM_mm>ターン": "Agility -5|<%dM_mm> Turns Left"
     },
     "1129": {
         "clarity_nt_char_1129": "clarity_nt_char_1129"
     },
     "1130": {
-        "眠り": ""
+        "眠り": "Sleep"
     },
     "1131": {
         "clarity_nt_char_1131": "clarity_nt_char_1131"
     },
     "1132": {
-        "混乱": ""
+        "混乱": "Confu."
     },
     "1133": {
         "clarity_nt_char_1133": "clarity_nt_char_1133"
     },
     "1134": {
-        "呪い": ""
+        "呪い": "Curse"
     },
     "1135": {
         "clarity_nt_char_1135": "clarity_nt_char_1135"
     },
     "1136": {
-        "幻惑": ""
+        "幻惑": "Blind"
     },
     "1137": {
         "clarity_nt_char_1137": "clarity_nt_char_1137"
     },
     "1138": {
-        "打撃会心封印": ""
+        "打撃会心封印": "Phys. Attack Seal"
     },
     "1139": {
         "clarity_nt_char_1139": "clarity_nt_char_1139"
     },
     "1140": {
-        "呪文封印": ""
+        "呪文封印": "Spell Seal"
     },
     "1141": {
         "clarity_nt_char_1141": "clarity_nt_char_1141"
     },
     "1142": {
-        "ブレス封印": ""
+        "ブレス封印": "Breath Seal"
     },
     "1143": {
-        "マヒ": ""
+        "マヒ": "Paral."
     },
     "1144": {
         "clarity_nt_char_1144": "clarity_nt_char_1144"
     },
     "1145": {
-        "毒": ""
+        "毒": "Psn"
     },
     "1146": {
-        "猛毒": ""
+        "猛毒": "Venom"
     },
     "1147": {
         "clarity_nt_char_1147": "clarity_nt_char_1147"
     },
     "1148": {
-        "魅了": ""
+        "魅了": "Charm"
     },
     "1149": {
         "clarity_nt_char_1149": "clarity_nt_char_1149"
     },
     "1150": {
-        "しばり": ""
+        "しばり": "Restraint"
     },
     "1151": {
-        "おびえ": ""
+        "おびえ": "Frighten"
     },
     "1152": {
-        "転び": ""
+        "転び": "Fallen"
     },
     "1153": {
         "clarity_nt_char_1153": "clarity_nt_char_1153"
     },
     "1154": {
-        "踊り": ""
+        "踊り": "Dance"
     },
     "1155": {
         "clarity_nt_char_1155": "clarity_nt_char_1155"
     },
     "1156": {
-        "笑い": ""
+        "笑い": "Laugh"
     },
     "1157": {
         "clarity_nt_char_1157": "clarity_nt_char_1157"
     },
     "1158": {
-        "休み": ""
+        "休み": "Down"
     },
     "1159": {
         "clarity_nt_char_1159": "clarity_nt_char_1159"
     },
     "1160": {
-        "打撃ダメージ軽減 -<%dL_NUM>": ""
+        "打撃ダメージ軽減 -<%dL_NUM>": "Phys. Damage Down -<%dL_NUM>"
     },
     "1161": {
-        "会心ダメージ軽減 -<%dL_NUM>": ""
+        "会心ダメージ軽減 -<%dL_NUM>": "Crit. Damage Down -<%dL_NUM>"
     },
     "1162": {
-        "呪文ダメージ軽減 -<%dL_NUM>": ""
+        "呪文ダメージ軽減 -<%dL_NUM>": "Spell Damage Down -<%dL_NUM>"
     },
     "1163": {
-        "ブレス軽減 -<%dL_NUM>": ""
+        "ブレス軽減 -<%dL_NUM>": "Breath Damage -<%dL_NUM>"
     },
     "1164": {
         "clarity_nt_char_1164": "clarity_nt_char_1164"
     },
     "1165": {
-        "打撃無効": ""
+        "打撃無効": "Phys. Null"
     },
     "1166": {
         "clarity_nt_char_1166": "clarity_nt_char_1166"
     },
     "1167": {
-        "会心無効": ""
+        "会心無効": "Crit. Null"
     },
     "1168": {
         "clarity_nt_char_1168": "clarity_nt_char_1168"
     },
     "1169": {
-        "呪文無効": ""
+        "呪文無効": "Spell Null"
     },
     "1170": {
         "clarity_nt_char_1170": "clarity_nt_char_1170"
     },
     "1171": {
-        "ブレス無効": ""
+        "ブレス無効": "Breath Null"
     },
     "1172": {
-        "メタルボディ": ""
+        "メタルボディ": "Metal Body"
     },
     "1173": {
         "clarity_nt_char_1173": "clarity_nt_char_1173"
     },
     "1174": {
-        "上やくそう": ""
+        "上やくそう": "Strong Medicine"
     },
     "1175": {
-        "ダミー": ""
+        "ダミー": "Dummy"
     },
     "1176": {
-        "ラブチョコ": ""
+        "ラブチョコ": "Love Chocolate"
     },
     "1177": {
-        "クイックケーキ": ""
+        "クイックケーキ": "Quick Cake"
     },
     "1178": {
-        "つきのめぐみ": ""
+        "つきのめぐみ": "Lunaria"
     },
     "1179": {
         "clarity_nt_char_1179": "clarity_nt_char_1179"
     },
     "1180": {
-        "パワフルステーキ": ""
+        "パワフルステーキ": "Powerful Steak"
     },
     "1181": {
         "clarity_nt_char_1181": "clarity_nt_char_1181"
     },
     "1182": {
-        "マジックスープ": ""
+        "マジックスープ": "Magic Soup"
     },
     "1183": {
-        "バトエンのＨＰを|３０回復する": ""
+        "バトエンのＨＰを|３０回復する": "Restores 30 HP."
     },
     "1184": {
-        "バトエンの|テンションを|１段階上げる": ""
+        "バトエンの|テンションを|１段階上げる": "Raises Tension|by 1 level."
     },
     "1185": {
-        "ターン終了まで|すばやさを|１０上げる": ""
+        "ターン終了まで|すばやさを|１０上げる": "Boost Agility by|10 until end of|turn."
     },
     "1186": {
-        "全ての状態異常を|解除しＨＰも|１０回復する": ""
+        "全ての状態異常を|解除しＨＰも|１０回復する": "Clears all bad|statuses and|recovers 10 HP."
     },
     "1187": {
         "clarity_nt_char_1187": "clarity_nt_char_1187"
     },
     "1188": {
-        "ターン終了まで|打撃攻撃で与える|ダメージ＋３０": ""
+        "ターン終了まで|打撃攻撃で与える|ダメージ＋３０": "Physical damage|+30 until end of|turn."
     },
     "1189": {
         "clarity_nt_char_1189": "clarity_nt_char_1189"
     },
     "1190": {
-        "ターン終了まで|呪文攻撃で与える|ダメージ＋５０": ""
+        "ターン終了まで|呪文攻撃で与える|ダメージ＋５０": "Spell damage +30|until the end of|turn."
     },
     "1191": {
         "clarity_nt_char_1191": "clarity_nt_char_1191"
     },
     "1192": {
-        "<%sL_PENCIL_NAME>に|上やくそうを　使った！|ＨＰ３０かいふく！": ""
+        "<%sL_PENCIL_NAME>に|上やくそうを　使った！|ＨＰ３０かいふく！": "<%sL_PENCIL_NAME> used|Strong Medicine!|Recovered 30 HP!"
     },
     "1193": {
         "clarity_nt_char_1193": "clarity_nt_char_1193"
     },
     "1194": {
-        "<%sL_PENCIL_NAME>に|ラブチョコを　使った！|テンションが　１段階あがった！": ""
+        "<%sL_PENCIL_NAME>に|ラブチョコを　使った！|テンションが　１段階あがった！": "<%sL_PENCIL_NAME> used|Love Chocolate!|Tension up 1 level!"
     },
     "1195": {
         "clarity_nt_char_1195": "clarity_nt_char_1195"
     },
     "1196": {
-        "クイックケーキを　使った！|バトエンの　すばやさが　１０あがった！": ""
+        "クイックケーキを　使った！|バトエンの　すばやさが　１０あがった！": "Used Quick Cake!|Agility increased by 10!"
     },
     "1197": {
-        "<%sL_PENCIL_NAME>に|つきのめぐみを　使った！|状態異常が解除され　ＨＰ１０かいふく！": ""
+        "<%sL_PENCIL_NAME>に|つきのめぐみを　使った！|状態異常が解除され　ＨＰ１０かいふく！": "<%sL_PENCIL_NAME> used|Lunaria! Bad statuses|cleared and recovered 10 HP!"
     },
     "1198": {
-        "パワフルステーキを　使った！|バトエンの　攻撃力が　３０あがった！": ""
+        "パワフルステーキを　使った！|バトエンの　攻撃力が　３０あがった！": "Used Powerful Steak!|Physical damage increased by 30!"
     },
     "1199": {
-        "マジックスープを　使った！|バトエンの　呪文の威力が　５０あがった！": ""
+        "マジックスープを　使った！|バトエンの　呪文の威力が　５０あがった！": "Used Magic Soup!|Spell power increased by 50!"
     },
     "1200": {
         "clarity_nt_char_1200": "clarity_nt_char_1200"
     },
     "1201": {
-        "Ｄ": ""
+        "Ｄ": "D"
     },
     "1202": {
-        "Ｃ": ""
+        "Ｃ": "C"
     },
     "1203": {
-        "Ｂ": ""
+        "Ｂ": "B"
     },
     "1204": {
-        "Ａ": ""
+        "Ａ": "A"
     },
     "1205": {
-        "Ｓ": ""
+        "Ｓ": "S"
     },
     "1206": {
-        "SS": ""
+        "SS": "SS"
     },
     "1207": {
         "clarity_nt_char_1207": "clarity_nt_char_1207"
     },
     "1208": {
-        "マリンスライム": ""
+        "マリンスライム": "Seaslime"
     },
     "1209": {
-        "大王イカ": ""
+        "大王イカ": "King Squid"
     },
     "1210": {
         "clarity_nt_char_1210": "clarity_nt_char_1210"
     },
     "1211": {
-        "シャドー": ""
+        "シャドー": "Shadow"
     },
     "1212": {
         "clarity_nt_char_1212": "clarity_nt_char_1212"
     },
     "1213": {
-        "シャイニング": ""
+        "シャイニング": "Spitnik"
     },
     "1214": {
         "clarity_nt_char_1214": "clarity_nt_char_1214"
     },
     "1215": {
-        "テンツク": ""
+        "テンツク": "Slugger"
     },
     "1216": {
         "clarity_nt_char_1216": "clarity_nt_char_1216"
     },
     "1217": {
-        "おおさそり": ""
+        "おおさそり": "Scorpion"
     },
     "1218": {
-        "ツタ回し　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "ツタ回し　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Ivy Spin　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "1219": {
-        "{color=skyblue}バギ{color=default}　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　のダメージ": ""
+        "{color=skyblue}バギ{color=default}　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　のダメージ": "{color=skyblue}Woosh{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "1220": {
-        "魅了がとけた！": ""
+        "魅了がとけた！": "Remove Charm!"
     },
     "1221": {
-        "魅了されている！　自分に{color=orange}<%nM_Damage_1>{color=default}のダメージ": ""
+        "魅了されている！　自分に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Charmed!　{color=orange}<%dM_Damage_1>{color=default} Damage to Self"
     },
     "1222": {
         "clarity_nt_char_1222": "clarity_nt_char_1222"
     },
     "1223": {
-        "自分にこうげき！": ""
+        "自分にこうげき！": "Attacked yourself!"
     }
 }

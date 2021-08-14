@@ -12,7 +12,7 @@
         "「ふむふむ。くじ　<%nL_KAUKAZU>枚だね。|　合わせて　<%nL_BUY_PRICE>ゴールドだけど|　買っていくかい？|<yesno><break>": ""
     },
     "5": {
-        "「あら　そうですか。<bw_break>": ""
+        "「あら　そうですか。<bw_break>": "Ahh, I see.<bw_break>"
     },
     "6": {
         "「……結果は　以上となりました！|　参加賞の　<%sL_SANKAITEM>も含めて|　今ここで　景品をお渡ししますね。<bw_break>": ""
@@ -126,10 +126,10 @@
         "<pc>は　第<%nL_KAISAISUU>回|『<%sL_KUJI_NAME>』の|くじ券　１枚を手に入れた！<se_nots System 18>|<bw_break>": ""
     },
     "43": {
-        "<select_se_off>|説明を聞く|やめる|<select_end><break>": ""
+        "<select_se_off>|説明を聞く|やめる|<select_end><break>": "<select_se_off>|Explanation|Stop|<select_end><break>"
     },
     "44": {
-        "「いらっしゃいませ！|　ここは　アストルティア★ハッピーくじ屋です。|　今は　何も開催しておりません。<break>": ""
+        "「いらっしゃいませ！|　ここは　アストルティア★ハッピーくじ屋です。|　今は　何も開催しておりません。<break>": "Welcome, welcome!|This is the Astoltia★Happy Lottery Shop.|There is nothing being held at the moment."
     },
     "45": {
         "「というわけで……|<bw_break>": ""

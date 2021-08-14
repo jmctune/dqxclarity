@@ -1,6 +1,6 @@
 {
     "1": {
-        "チームからはずす": ""
+        "チームからはずす": "Remove from Team"
     },
     "2": {
         "clarity_nt_char_1": "clarity_nt_char_1"
@@ -9,16 +9,16 @@
         "フレンドからはずす": "Remove Friend"
     },
     "4": {
-        "<speed=0><%sM_pc>を　チームから　はずして|よろしいですか？|<yesno 2><close>": ""
+        "<speed=0><%sM_pc>を　チームから　はずして|よろしいですか？|<yesno 2><close>": "<speed=0>Remove <%sM_pc> from the Team?|<yesno 2><close>"
     },
     "5": {
         "コメントをみる": "View Comments"
     },
     "6": {
-        "<%sM_speaker>「<%sM_chat>」": ""
+        "<%sM_speaker>「<%sM_chat>」": "<%sM_speaker> \"<%sM_chat>\""
     },
     "7": {
-        "全員の同期が　完了しました。|ボスマップに　移動します。　": ""
+        "全員の同期が　完了しました。|ボスマップに　移動します。　": "Everyone's synchronization is complete.|Proceeding to boss map."
     },
     "8": {
         "<speed=0><%sM_pc>を　フレンドから　はずして|よろしいですか？|<yesno 2><close>": "<speed=0>Are you sure you want to remove|<%sM_pc> from your friends?|<yesno 2><close>"
@@ -27,19 +27,19 @@
         "clarity_nt_char_2": "clarity_nt_char_2"
     },
     "10": {
-        "名前をみる": ""
+        "名前をみる": "View Name"
     },
     "11": {
-        "<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": ""
+        "<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": "<%sM_speaker> \"<%sM_chat>\" ＞ <%sM_listener>"
     },
     "12": {
-        "送信エラー！<%sM_speaker>「<%sM_chat>…」": ""
+        "送信エラー！<%sM_speaker>「<%sM_chat>…」": "Send Error! <%sM_speaker> \"<%sM_chat>…\""
     },
     "13": {
         "clarity_nt_char_3": "clarity_nt_char_3"
     },
     "14": {
-        "送信エラー！": ""
+        "送信エラー！": "Send Error!"
     },
     "15": {
         "clarity_nt_char_4": "clarity_nt_char_4"
@@ -48,19 +48,19 @@
         "まだ フレンドが いません": "No friends yet"
     },
     "17": {
-        "まだ なかまが いません": ""
+        "まだ なかまが いません": "No Friends"
     },
     "18": {
         "clarity_nt_char_5": "clarity_nt_char_5"
     },
     "19": {
-        "チームに 入っていません": ""
+        "チームに 入っていません": "No Team"
     },
     "20": {
         "clarity_nt_char_6": "clarity_nt_char_6"
     },
     "21": {
-        "通信エラーが発生しました。": ""
+        "通信エラーが発生しました。": "A communication error occurred."
     },
     "22": {
         "------------------------------------------- 現在のリアル時間 <%2nM_CW_hour>：<%02nM_CW_minute>": "-------------------------------------------Current Real Time<%2nM_CW_hour>：<%02nM_CW_minute>"
@@ -78,7 +78,7 @@
         "パーティリーダーにする": "Make Party Leader"
     },
     "27": {
-        "ストーリーリーダーにする": ""
+        "ストーリーリーダーにする": "Make Story Leader"
     },
     "28": {
         "clarity_nt_char_8": "clarity_nt_char_8"
@@ -111,13 +111,13 @@
         "clarity_nt_char_11": "clarity_nt_char_11"
     },
     "38": {
-        "送信エラー！対象オフ": ""
+        "送信エラー！対象オフ": "Send Error! Recipient Offline"
     },
     "39": {
         "clarity_nt_char_12": "clarity_nt_char_12"
     },
     "40": {
-        "送信エラー！対象不在": ""
+        "送信エラー！対象不在": "Send Error! Recipient Left"
     },
     "41": {
         "clarity_nt_char_13": "clarity_nt_char_13"
@@ -135,7 +135,7 @@
         "<speed=0><%sM_pc>さんが　ログインしたときに|ログインを　『通知しない』から|『通知する』に　変更しますか？|<yesno 1><close>": "<speed=0>Do you want to change from \"Do Not Notify\"|to \"Notify\" whenever <%sM_pc> logs in?|<yesno 1><close>"
     },
     "46": {
-        "<speed=0>『通知しない』に　変更しました。|<%sM_pc>さんが　ログインしても|通知されません。": ""
+        "<speed=0>『通知しない』に　変更しました。|<%sM_pc>さんが　ログインしても|通知されません。": "<speed=0>Changed to \"Do Not Notify\". You will not|be notified when <%sM_pc> logs in."
     },
     "47": {
         "clarity_nt_char_15": "clarity_nt_char_15"
@@ -144,7 +144,7 @@
         "<speed=0><%sM_pc>さんが　ログインしたときに|ログインを　『通知する』から|『通知しない』に　変更しますか？|<yesno 1><close>": "<speed=0>Do you want to change from \"Notify\"|to \"Do Not Notify\" whenever <%sM_pc> logs in?|<yesno 1><close>"
     },
     "49": {
-        "<speed=0>ログイン通知設定の保存に失敗しました。|時間をおいて　再度お試しください。": ""
+        "<speed=0>ログイン通知設定の保存に失敗しました。|時間をおいて　再度お試しください。": "<speed=0>Failed to save login notify settings.|Please try again later."
     },
     "50": {
         "clarity_nt_char_16": "clarity_nt_char_16"
@@ -165,25 +165,25 @@
         "<speed=0><%sM_pc>は　別のサーバーにいます。|なかまコマンドの『サーバー移動』などで|同じサーバーに集まって　遊んでください。|<br>|<speed=0>仲間にさそい　相手の返事を待ちます。|<%sM_pc>を　仲間に　さそいますか？|<yesno 1><close>": "<speed=0><%sM_pc> is on another server.|Use the \"Party\" command to move servers|to play together.|<br>|<speed=0>Would you like to send a party invite|to <%sM_pc>?|<yesno 1><close>"
     },
     "56": {
-        "<speed=0><%sM_pc>を　サブリーダーから|はずしますか？|<yesno 1><close>": ""
+        "<speed=0><%sM_pc>を　サブリーダーから|はずしますか？|<yesno 1><close>": "<speed=0>Revoke <%sM_pc>'s Sub Leader status?|<yesno 1><close>"
     },
     "57": {
         "clarity_nt_char_19": "clarity_nt_char_19"
     },
     "58": {
-        "<speed=0><%sM_pc>を　サブリーダーにしました！": ""
+        "<speed=0><%sM_pc>を　サブリーダーにしました！": "<speed=0><%sM_pc> is now a Sub Leader!"
     },
     "59": {
-        "<speed=0><%sM_pc>を　サブリーダーからはずしました。": ""
+        "<speed=0><%sM_pc>を　サブリーダーからはずしました。": "<speed=0><%sM_pc> is no longer a Sub Leader."
     },
     "60": {
         "clarity_nt_char_20": "clarity_nt_char_20"
     },
     "61": {
-        "<speed=0>サブリーダーの　説明です！|<br>|<speed=0>サブリーダーは　特別なチームの機能の使用を|リーダーから許された　特別なメンバーです。|サブリーダーの人数の制限は　ありません。|<br>|<speed=0>使える機能は　他プレイヤーのチームへの勧誘。|スローガンの変更。エンブレムのデザイン。|他のメンバーの　サブリーダー任命です。|<br>|他のメンバーを　サブリーダーに任命するには　|コミュニケーションウィンドウのチームリストで|相手を選び　『サブリーダーにする』です。|<br>|サブリーダーから　サブリーダーの権利を|解除できるのは　チームのリーダーのみです。|<br>|<speed=0>サブリーダーについての　説明は|チーム大使の『説明を聞く』からも|確認できます。": ""
+        "<speed=0>サブリーダーの　説明です！|<br>|<speed=0>サブリーダーは　特別なチームの機能の使用を|リーダーから許された　特別なメンバーです。|サブリーダーの人数の制限は　ありません。|<br>|<speed=0>使える機能は　他プレイヤーのチームへの勧誘。|スローガンの変更。エンブレムのデザイン。|他のメンバーの　サブリーダー任命です。|<br>|他のメンバーを　サブリーダーに任命するには　|コミュニケーションウィンドウのチームリストで|相手を選び　『サブリーダーにする』です。|<br>|サブリーダーから　サブリーダーの権利を|解除できるのは　チームのリーダーのみです。|<br>|<speed=0>サブリーダーについての　説明は|チーム大使の『説明を聞く』からも|確認できます。": "<speed=0>This will explain \"Sub Leader\"!|<br>|<speed=0>A Sub Leader is a special member who is|allowed to use special Team functions. There|is no limit to the number of Sub Leaders.|<br>|They can invite members, change the slogan,|change the Team Emblem, and appoint|other Sub Leaders.|<br>|To appoint someone as a Sub Leader, select|them in the Team tab and then select \"Make|Sub Leader\".|<br>|Only Team Leaders are able to revoke|Sub Leader status.|<br>|You can view this explanation again from a|Team Ambassador NPC."
     },
     "62": {
-        "<speed=0><%sM_pc>を　サブリーダーにしますか？|<yesno 1><close>": ""
+        "<speed=0><%sM_pc>を　サブリーダーにしますか？|<yesno 1><close>": "<speed=0>Make <%sM_pc> a Sub Leader?|<yesno 1><close>"
     },
     "63": {
         "clarity_nt_char_21": "clarity_nt_char_21"
@@ -201,7 +201,7 @@
         "clarity_nt_char_23": "clarity_nt_char_23"
     },
     "68": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eを ブラックリストに追加した。": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eを ブラックリストに追加した。": "\\s<%sC_PC>\\m<%sC_ID>\\e was added to the blacklist."
     },
     "69": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eを フレンドにさそいました。": "Sent a friend request to \\s<%sC_PC>\\m<%sC_ID>\\e."
@@ -210,16 +210,16 @@
         "clarity_nt_char_24": "clarity_nt_char_24"
     },
     "71": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eを チームにさそいました。": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eを チームにさそいました。": "Sent a Team request to \\s<%sC_PC>\\m<%sC_ID>\\e."
     },
     "72": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eとの取り引きが　成立した！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eとの取り引きが　成立した！": "Trade with \\s<%sC_PC>\\m<%sC_ID>\\e was completed!"
     },
     "73": {
-        "<%sL_SYOKUNIN_KIND>で <%sB_item>に|<%sL_RENKIN_TEXT>を付けた！": ""
+        "<%sL_SYOKUNIN_KIND>で <%sB_item>に|<%sL_RENKIN_TEXT>を付けた！": "<%sL_SYOKUNIN_KIND> added <%sL_RENKIN_TEXT>|to <%sB_item>!"
     },
     "74": {
-        "<%sL_SYOKUNIN_KIND>で <%sM_item><%sL_QUALITY>を作った！": ""
+        "<%sL_SYOKUNIN_KIND>で <%sM_item><%sL_QUALITY>を作った！": "<%sL_SYOKUNIN_KIND> created a <%sM_item> <%sL_QUALITY>!"
     },
     "75": {
         "旅人バザーに出品していた <%sM_item><%sM_plusnum>を 取りやめた。": "Cancelled putting the <%sM_item><%sM_plusnum> up for sale."
@@ -315,7 +315,7 @@
         "clarity_nt_char_34": "clarity_nt_char_34"
     },
     "106": {
-        "旅のコンシェルジュで <%sL_ITEM>を <%dM_number>個 交換した！": ""
+        "旅のコンシェルジュで <%sL_ITEM>を <%dM_number>個 交換した！": "Received <%dM_number> <%sL_ITEM> from the concierge!"
     },
     "107": {
         "clarity_nt_char_35": "clarity_nt_char_35"
@@ -414,10 +414,10 @@
         "clarity_nt_char_47": "clarity_nt_char_47"
     },
     "139": {
-        "<%sL_shisetu>で <%sC_system>からの <%dM_gold> Gを 受け取った！": "<%sC_system> received <%dM_gold> G from <%sL_shisetu>!"
+        "<%sL_shisetu>で <%sC_system>からの <%dM_gold> Gを 受け取った！": "Received <%dM_gold> G at the <%sL_shisetu> from <%sC_system>!"
     },
     "140": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの職人経験値を かくとく！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの職人経験値を かくとく！": "\\s<%sC_PC>\\m<%sC_ID>\\e received <%dL_EXP> Craftsman EXP!"
     },
     "141": {
         "clarity_nt_char_48": "clarity_nt_char_48"
@@ -480,13 +480,13 @@
         "自分の土地に建てられた <%sL_HOUSE_NAME>を たたんだ。": ""
     },
     "161": {
-        "教会で <%sL_PC>を 生き返らせた！": ""
+        "教会で <%sL_PC>を 生き返らせた！": "Revived <%sL_PC> in the church!"
     },
     "162": {
-        "教会で <%sL_PC>の 呪いを解いた！": ""
+        "教会で <%sL_PC>の 呪いを解いた！": "Broke <%sL_PC>'s curse in the church!"
     },
     "163": {
-        "教会で <%sL_PC>の どくを治した！": ""
+        "教会で <%sL_PC>の どくを治した！": "Cured <%sL_PC>'s poison at the church!"
     },
     "164": {
         "<%sL_SYOKUNIN>の仕事をして <%sM_item>を <%dM_item_num>個 手に入れた！": ""
@@ -510,10 +510,10 @@
         "clarity_nt_char_55": "clarity_nt_char_55"
     },
     "171": {
-        "酒場で サポート仲間の<%sC_PC>と 別れた。": ""
+        "酒場で サポート仲間の<%sC_PC>と 別れた。": "Said goodbye to <%sC_PC> at the tavern."
     },
     "172": {
-        "酒場で <%sC_PC>を サポート仲間に加えた！": ""
+        "酒場で <%sC_PC>を サポート仲間に加えた！": "Added <%sC_PC> as a support party at the tavern!"
     },
     "173": {
         "<%sM_item>を 手に入れた！": "You received <%sM_item>!"
@@ -594,7 +594,7 @@
         "clarity_nt_char_65": "clarity_nt_char_65"
     },
     "199": {
-        "自宅の屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": ""
+        "自宅の屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "Put <%dL_QUANTITY> <%sL_ITEM_NAME> <%sL_PLUSNUM> into|house storage."
     },
     "200": {
         "clarity_nt_char_66": "clarity_nt_char_66"
@@ -636,7 +636,7 @@
         "clarity_nt_char_70": "clarity_nt_char_70"
     },
     "213": {
-        "送信エラー！非通知": ""
+        "送信エラー！非通知": "Send Error! Not Notice"
     },
     "214": {
         "<speed=0>相手のチーム所属の確認が　できませんでした。|相手がチームに所属しているか　ご確認のうえ|もう一度お試しください。": ""
@@ -675,7 +675,7 @@
         "clarity_nt_char_74": "clarity_nt_char_74"
     },
     "226": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの職人経験値を かくとく！| → おうえんボーナス +<%dL_EXP_OUEN> P": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの職人経験値を かくとく！| → おうえんボーナス +<%dL_EXP_OUEN> P": "\\s<%sC_PC>\\m<%sC_ID>\\e received <%dL_EXP> Craftsman EXP!| → Cheer Bonus +<%dL_EXP_OUEN> EXP"
     },
     "227": {
         "clarity_nt_char_75": "clarity_nt_char_75"
@@ -1203,7 +1203,7 @@
         "clarity_nt_char_125": "clarity_nt_char_125"
     },
     "402": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eは 釣りレベルが <%dL_LEVEL>にアップ！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eは 釣りレベルが <%dL_LEVEL>にアップ！": "\\s<%sC_PC>\\m<%sC_ID>\\e fishing level is now <%dL_LEVEL>!"
     },
     "403": {
         "<%.1fM_CM>ｃｍの <%sM_item>を 釣り上げた！": "Caught a <%.1fM_CM>cm <%sM_item>!"
@@ -1341,10 +1341,10 @@
         "clarity_nt_char_143": "clarity_nt_char_143"
     },
     "448": {
-        "<%sL_OWNER>の畑から ふたつの<%sL_ITEM>を 収穫した！": ""
+        "<%sL_OWNER>の畑から ふたつの<%sL_ITEM>を 収穫した！": "Harvested 2 <%sL_ITEM> from <%sL_OWNER>'s field!"
     },
     "449": {
-        "<%sL_OWNER>の畑から <%sL_ITEM>を 収穫した！|所持数 <%nL_BEFORE_NUM>こ → <%nL_AFTER_NUM>こ になった！": ""
+        "<%sL_OWNER>の畑から <%sL_ITEM>を 収穫した！|所持数 <%nL_BEFORE_NUM>こ → <%nL_AFTER_NUM>こ になった！": "Harvested <%sL_ITEM> from <%sL_OWNER>'s field!|Number owned: <%nL_BEFORE_NUM> → <%nL_AFTER_NUM>"
     },
     "450": {
         "clarity_nt_char_144": "clarity_nt_char_144"
@@ -1728,7 +1728,7 @@
         "clarity_nt_char_186": "clarity_nt_char_186"
     },
     "577": {
-        "<%sL_OWNER>の畑から <%sL_ITEM>を<%nL_NUM>こ 収穫した！|所持数 <%nL_BEFORE_NUM>こ → <%nL_AFTER_NUM>こ になった！": ""
+        "<%sL_OWNER>の畑から <%sL_ITEM>を<%nL_NUM>こ 収穫した！|所持数 <%nL_BEFORE_NUM>こ → <%nL_AFTER_NUM>こ になった！": "Harvested <%nL_NUM> <%sL_ITEM> from <%sL_OWNER>'s field!|Number owned: <%nL_BEFORE_NUM> → <%nL_AFTER_NUM>"
     },
     "578": {
         "clarity_nt_char_187": "clarity_nt_char_187"
@@ -1911,7 +1911,7 @@
         "clarity_nt_char_207": "clarity_nt_char_207"
     },
     "638": {
-        "<%sM_item>を <%dM_item_num>個 錬金釜から取り出した！": ""
+        "<%sM_item>を <%dM_item_num>個 錬金釜から取り出した！": "<%dM_item_num> <%sM_item> came out of the Alchemy Pot!"
     },
     "639": {
         "強化屋で <%sM_item><%sM_plusnum>を|<%sM_item2><%sM_plusnum2>に 強化した！": ""
@@ -2166,7 +2166,7 @@
         "<pc>は <%sB_ITEM>を開けた！": ""
     },
     "723": {
-        "ランク<%sB_TAROT_RARE>の タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 手に入れた！": ""
+        "ランク<%sB_TAROT_RARE>の タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 手に入れた！": "Received a Rank <%sB_TAROT_RARE> \"<%sB_TAROT_ARCA> <%sB_TAROT_MONS>\" Tarot!"
     },
     "724": {
         "clarity_nt_char_237": "clarity_nt_char_237"
@@ -2247,7 +2247,7 @@
         "clarity_nt_char_244": "clarity_nt_char_244"
     },
     "750": {
-        "タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 合成に使った！": "\"<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>\" Tarot used for synthesis!"
+        "タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 合成に使った！": "\"<%sB_TAROT_ARCA> <%sB_TAROT_MONS>\" Tarot was used for synthesis!"
     },
     "751": {
         "clarity_nt_char_245": "clarity_nt_char_245"
@@ -3861,10 +3861,10 @@
         "クラブ": "Club"
     },
     "1288": {
-        "ダイヤ": ""
+        "ダイヤ": "Diamond"
     },
     "1289": {
-        "ハート": ""
+        "ハート": "Heart"
     },
     "1290": {
         "スペード": "Spade"
@@ -3969,7 +3969,7 @@
         "clarity_nt_char_440": "clarity_nt_char_440"
     },
     "1324": {
-        "<%sM_CW_stamp>（スタンプ　<%sM_CW_pack_no>）": ""
+        "<%sM_CW_stamp>（スタンプ　<%sM_CW_pack_no>）": "<%sM_CW_stamp> (Stamp <%sM_CW_pack_no>)"
     },
     "1325": {
         "<%-12sL_name>  <%-6sL_rank> (<%7dL_rank_point>P)  <%sL_trump_name>": ""
@@ -4056,7 +4056,7 @@
         "clarity_nt_char_451": "clarity_nt_char_451"
     },
     "1353": {
-        "<%sL_rank>では　降段しないため　これ以上|段位戦ポイントが　減らなかった": "You can't be demoted from <%sL_rank> so you didn't lose any more points"
+        "<%sL_rank>では　降段しないため　これ以上|段位戦ポイントが　減らなかった": "You can't be demoted from <%sL_rank>,|so you didn't lose any more points."
     },
     "1354": {
         "　→手札がいっぱいで 受け取れなかったカードが 捨てられた": ""

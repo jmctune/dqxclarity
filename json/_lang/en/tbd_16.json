@@ -366,7 +366,7 @@
         "周りの仲間のＨＰを ２５～回復する": "Restore 25 HP to all nearby|allies."
     },
     "123": {
-        "周りの仲間を ＨＰ１で 生き返らせるが|失敗する時もある": "Revive all nearby allies with|1 HP, but it might fail"
+        "周りの仲間を ＨＰ１で 生き返らせるが|失敗する時もある": "Revive all nearby allies with|1 HP, but it might fail."
     },
     "124": {
         "clarity_nt_char_43": "clarity_nt_char_43"
@@ -390,7 +390,7 @@
         "clarity_nt_char_45": "clarity_nt_char_45"
     },
     "131": {
-        "威力が上がり 呪いのダメージも増える": ""
+        "威力が上がり 呪いのダメージも増える": "Increases power and curse damage|dealt."
     },
     "132": {
         "clarity_nt_char_46": "clarity_nt_char_46"
@@ -414,82 +414,82 @@
         "clarity_nt_char_49": "clarity_nt_char_49"
     },
     "139": {
-        "生き返った時の 回復量が増える": ""
+        "生き返った時の 回復量が増える": "Increases recovery amount when|revived."
     },
     "140": {
-        "最大５０ 回復できるようになる": ""
+        "最大５０ 回復できるようになる": "Recover up to 50 HP."
     },
     "141": {
-        "魔法陣の出現時間が 長くなる": ""
+        "魔法陣の出現時間が 長くなる": "Magic circles now last longer."
     },
     "142": {
         "clarity_nt_char_50": "clarity_nt_char_50"
     },
     "143": {
-        "周りの仲間に 効果がかかるようになる": ""
+        "周りの仲間に 効果がかかるようになる": "Effective for all nearby allies."
     },
     "144": {
         "clarity_nt_char_51": "clarity_nt_char_51"
     },
     "145": {
-        "１０秒短縮できるようになる": ""
+        "１０秒短縮できるようになる": "It'll become 10 seconds shorter."
     },
     "146": {
-        "最大５００ 回復できるようになる": ""
+        "最大５００ 回復できるようになる": "Recover up to 500 HP."
     },
     "147": {
         "clarity_nt_char_52": "clarity_nt_char_52"
     },
     "148": {
-        "回復量が ８０～に増える": ""
+        "回復量が ８０～に増える": "Recovery amount increased by ~80."
     },
     "149": {
         "clarity_nt_char_53": "clarity_nt_char_53"
     },
     "150": {
-        "効果範囲が 広くなる": ""
+        "効果範囲が 広くなる": "Effect range increased."
     },
     "151": {
         "clarity_nt_char_54": "clarity_nt_char_54"
     },
     "152": {
-        "攻撃の威力が さらに上がる": ""
+        "攻撃の威力が さらに上がる": "Attack power increased further."
     },
     "153": {
-        "さらに威力が上がり 呪いのダメージも増える": ""
+        "さらに威力が上がり 呪いのダメージも増える": "Further increased power and damage|of curses."
     },
     "154": {
-        "効果の継続時間が 長くなる": ""
+        "効果の継続時間が 長くなる": "Increased effect duration."
     },
     "155": {
-        "テンションを 必ず２段階上げる": ""
+        "テンションを 必ず２段階上げる": "Tension will always raise 2 levels."
     },
     "156": {
-        "成功確率が上がり 回復量も増える": ""
+        "成功確率が上がり 回復量も増える": "Success chance and recovery increased."
     },
     "157": {
         "clarity_nt_char_55": "clarity_nt_char_55"
     },
     "158": {
-        "最大６０ 回復できるようになる": ""
+        "最大６０ 回復できるようになる": "Recover up to 60 HP."
     },
     "159": {
-        "魔法陣の出現時間が さらに長くなる": ""
+        "魔法陣の出現時間が さらに長くなる": "Magic circle duration increased further."
     },
     "160": {
-        "１５秒短縮できるようになる": ""
+        "１５秒短縮できるようになる": "Shortened by 15 seconds."
     },
     "161": {
-        "最大７００ 回復できるようになる": ""
+        "最大７００ 回復できるようになる": "Recover up to 700 HP."
     },
     "162": {
         "clarity_nt_char_56": "clarity_nt_char_56"
     },
     "163": {
-        "回復量が １６４～に増える": ""
+        "回復量が １６４～に増える": "Recovery amount increased to ~164."
     },
     "164": {
-        "効果範囲が さらに広くなる": ""
+        "効果範囲が さらに広くなる": "Effect range further increased."
     },
     "165": {
         "スライム": "Slime"
@@ -816,7 +816,7 @@
         "バラモスゾンビ": "Bones of Baramos"
     },
     "273": {
-        "バラモスブロス": "Baramos Bros."
+        "バラモスブロス": "Soul of Baramos"
     },
     "274": {
         "キングヒドラ": "King Hydra"
@@ -846,690 +846,690 @@
         "clarity_nt_char_96": "clarity_nt_char_96"
     },
     "283": {
-        "このモンスターは|特殊効果を 持っていない": ""
+        "このモンスターは|特殊効果を 持っていない": "This monster has no special|effects."
     },
     "284": {
-        "デッキに入れると １枚につき|身かわし率が|０．１％ずつ上がる": ""
+        "デッキに入れると １枚につき|身かわし率が|０．１％ずつ上がる": "Putting a card back in the|deck increases dodge rate|by 0.1% per card put."
     },
     "285": {
-        "デッキに入れると １枚につき|身かわし率が|０．２％ずつ上がる": ""
+        "デッキに入れると １枚につき|身かわし率が|０．２％ずつ上がる": "Putting a card back in the|deck increases dodge rate|by 0.2% per card put."
     },
     "286": {
-        "デッキに入れると １枚につき|身かわし率が|０．３％ずつ上がる": ""
+        "デッキに入れると １枚につき|身かわし率が|０．３％ずつ上がる": "Putting a card back in the|deck increases dodge rate|by 0.3% per card put."
     },
     "287": {
-        "デッキに入れると １枚につき|すばやさが ４ずつ上がる": ""
+        "デッキに入れると １枚につき|すばやさが ４ずつ上がる": "Putting a card back in the|deck increases Agility by 4."
     },
     "288": {
-        "デッキに入れると １枚につき|すばやさが ６ずつ上がる": ""
+        "デッキに入れると １枚につき|すばやさが ６ずつ上がる": "Putting a card back in the|deck increases Agility by 6."
     },
     "289": {
-        "デッキに入れると １枚につき|すばやさが ７ずつ上がる": ""
+        "デッキに入れると １枚につき|すばやさが ７ずつ上がる": "Putting a card back in the|deck increases Agility by 7."
     },
     "290": {
-        "デッキに入れると １枚につき|すばやさが ８ずつ上がる": ""
+        "デッキに入れると １枚につき|すばやさが ８ずつ上がる": "Putting a card back in the|deck increases Agility by 8."
     },
     "291": {
-        "デッキに入れると １枚につき|みのまもりが １ずつ上がる": ""
+        "デッキに入れると １枚につき|みのまもりが １ずつ上がる": "Putting a card back in the|deck increases Resilience|by 1."
     },
     "292": {
         "clarity_nt_char_97": "clarity_nt_char_97"
     },
     "293": {
-        "デッキに入れると １枚につき|みのまもりが ２ずつ上がる": ""
+        "デッキに入れると １枚につき|みのまもりが ２ずつ上がる": "Putting a card back in the|deck increases Resilience|by 2."
     },
     "294": {
         "clarity_nt_char_98": "clarity_nt_char_98"
     },
     "295": {
-        "デッキに入れると １枚につき|みのまもりが ３ずつ上がる": ""
+        "デッキに入れると １枚につき|みのまもりが ３ずつ上がる": "Putting a card back in the|deck increases Resilience|by 3."
     },
     "296": {
         "clarity_nt_char_99": "clarity_nt_char_99"
     },
     "297": {
-        "デッキに入れると １枚につき|みのまもりが ４ずつ上がる": ""
+        "デッキに入れると １枚につき|みのまもりが ４ずつ上がる": "Putting a card back in the|deck increases Resilience|by 4."
     },
     "298": {
         "clarity_nt_char_100": "clarity_nt_char_100"
     },
     "299": {
-        "このタロットを|使うか ひき直した時に|ＨＰが １０回復する": ""
+        "このタロットを|使うか ひき直した時に|ＨＰが １０回復する": "Using or redrawing this|Tarot recovers 10 HP."
     },
     "300": {
         "clarity_nt_char_101": "clarity_nt_char_101"
     },
     "301": {
-        "このタロットを|使うか ひき直した時に|ＨＰが １５回復する": ""
+        "このタロットを|使うか ひき直した時に|ＨＰが １５回復する": "Using or redrawing this|Tarot recovers 15 HP."
     },
     "302": {
         "clarity_nt_char_102": "clarity_nt_char_102"
     },
     "303": {
-        "このタロットを|使うか ひき直した時に|ＨＰが ２０回復する": ""
+        "このタロットを|使うか ひき直した時に|ＨＰが ２０回復する": "Using or redrawing this|Tarot recovers 20 HP."
     },
     "304": {
         "clarity_nt_char_103": "clarity_nt_char_103"
     },
     "305": {
-        "このタロットを|使うか ひき直した時に|ＨＰが ２５回復する": ""
+        "このタロットを|使うか ひき直した時に|ＨＰが ２５回復する": "Using or redrawing this|Tarot recovers 25 HP."
     },
     "306": {
         "clarity_nt_char_104": "clarity_nt_char_104"
     },
     "307": {
-        "このタロットを|使うか ひき直した時に|ＭＰが ５回復する": ""
+        "このタロットを|使うか ひき直した時に|ＭＰが ５回復する": "Using or redrawing this|Tarot recovers 5 MP."
     },
     "308": {
-        "このタロットを|使うか ひき直した時に|ＭＰが ８回復する": ""
+        "このタロットを|使うか ひき直した時に|ＭＰが ８回復する": "Using or redrawing this|Tarot recovers 8 MP."
     },
     "309": {
-        "このタロットを|使うか ひき直した時に|ＭＰが １０回復する": ""
+        "このタロットを|使うか ひき直した時に|ＭＰが １０回復する": "Using or redrawing this|Tarot recovers 10 MP."
     },
     "310": {
         "clarity_nt_char_105": "clarity_nt_char_105"
     },
     "311": {
-        "このタロットを|使うか ひき直した時に|ＭＰが １２回復する": ""
+        "このタロットを|使うか ひき直した時に|ＭＰが １２回復する": "Using or redrawing this|Tarot recovers 12 MP."
     },
     "312": {
         "clarity_nt_char_106": "clarity_nt_char_106"
     },
     "313": {
-        "デッキに入れると １枚につき|かいふく魔力が ３ずつ上がる": ""
+        "デッキに入れると １枚につき|かいふく魔力が ３ずつ上がる": "Putting a card back in the|deck increases Magical|Mending by 3."
     },
     "314": {
-        "デッキに入れると １枚につき|かいふく魔力が ４ずつ上がる": ""
+        "デッキに入れると １枚につき|かいふく魔力が ４ずつ上がる": "Putting a card back in the|deck increases Magical|Mending by 4."
     },
     "315": {
-        "デッキに入れると １枚につき|かいふく魔力が ５ずつ上がる": ""
+        "デッキに入れると １枚につき|かいふく魔力が ５ずつ上がる": "Putting a card back in the|deck increases Magical|Mending by 5."
     },
     "316": {
-        "デッキに入れると １枚につき|かいふく魔力が ８ずつ上がる": ""
+        "デッキに入れると １枚につき|かいふく魔力が ８ずつ上がる": "Putting a card back in the|deck increases Magical|Mending by 8."
     },
     "317": {
-        "デッキに入れると １枚につき|こうげき魔力が ３ずつ上がる": ""
+        "デッキに入れると １枚につき|こうげき魔力が ３ずつ上がる": "Putting a card back in the|deck increases Magical|Might by 3."
     },
     "318": {
-        "デッキに入れると １枚につき|こうげき魔力が ４ずつ上がる": ""
+        "デッキに入れると １枚につき|こうげき魔力が ４ずつ上がる": "Putting a card back in the|deck increases Magical|Might by 4."
     },
     "319": {
-        "デッキに入れると １枚につき|こうげき魔力が ５ずつ上がる": ""
+        "デッキに入れると １枚につき|こうげき魔力が ５ずつ上がる": "Putting a card back in the|deck increases Magical|Might by 5."
     },
     "320": {
-        "デッキに入れると １枚につき|こうげき魔力が ８ずつ上がる": ""
+        "デッキに入れると １枚につき|こうげき魔力が ８ずつ上がる": "Putting a card back in the|deck increases Magical|Might by 8."
     },
     "321": {
-        "デッキに入れると １枚につき|タロットの 魔法陣以外の|範囲効果が ０．１ｍ広くなる": ""
+        "デッキに入れると １枚につき|タロットの 魔法陣以外の|範囲効果が ０．１ｍ広くなる": "Putting a card back in the|deck increases non-Tarot magic|circle range by 0.1m."
     },
     "322": {
         "clarity_nt_char_107": "clarity_nt_char_107"
     },
     "323": {
-        "デッキに入れると １枚につき|タロットの 魔法陣以外の|範囲効果が ０．３ｍ広くなる": ""
+        "デッキに入れると １枚につき|タロットの 魔法陣以外の|範囲効果が ０．３ｍ広くなる": "Putting a card back in the|deck increases non-Tarot magic|circle range by 0.3m."
     },
     "324": {
         "clarity_nt_char_108": "clarity_nt_char_108"
     },
     "325": {
-        "デッキに入れると １枚につき|タロットの 魔法陣以外の|範囲効果が １ｍ広くなる": ""
+        "デッキに入れると １枚につき|タロットの 魔法陣以外の|範囲効果が １ｍ広くなる": "Putting a card back in the|deck increases non-Tarot magic|circle range by 1m."
     },
     "326": {
         "clarity_nt_char_109": "clarity_nt_char_109"
     },
     "327": {
-        "デッキに入れると １枚につき|すべてのタロットの|射程距離が ０．２ｍ長くなる": ""
+        "デッキに入れると １枚につき|すべてのタロットの|射程距離が ０．２ｍ長くなる": "Putting a card back in the|deck increases range of|all Tarots by 0.2m."
     },
     "328": {
-        "デッキに入れると １枚につき|すべてのタロットの|射程距離が ０．５ｍ長くなる": ""
+        "デッキに入れると １枚につき|すべてのタロットの|射程距離が ０．５ｍ長くなる": "Putting a card back in the|deck increases range of|all Tarots by 0.5m."
     },
     "329": {
-        "デッキに入れると １枚につき|すべてのタロットの|射程距離が ２ｍ長くなる": ""
+        "デッキに入れると １枚につき|すべてのタロットの|射程距離が ２ｍ長くなる": "Putting a card back in the|deck increases range of|all Tarots by 2m."
     },
     "330": {
-        "このタロットを|使うか ひき直した時に|自分のＨＰが ３％回復": ""
+        "このタロットを|使うか ひき直した時に|自分のＨＰが ３％回復": "Using or redrawing this|Tarot recovers 3% of your|HP."
     },
     "331": {
-        "このタロットを|使うか ひき直した時に|自分のＨＰが ５％回復": ""
+        "このタロットを|使うか ひき直した時に|自分のＨＰが ５％回復": "Using or redrawing this|Tarot recovers 5% of your|HP."
     },
     "332": {
-        "このタロットを|使うか ひき直した時に|自分のＨＰが １２％回復": ""
+        "このタロットを|使うか ひき直した時に|自分のＨＰが １２％回復": "Using or redrawing this|Tarot recovers 12% of your|HP."
     },
     "333": {
         "clarity_nt_char_110": "clarity_nt_char_110"
     },
     "334": {
-        "このタロットが 手札に入った時|３％の確率で|テンションが上がる": ""
+        "このタロットが 手札に入った時|３％の確率で|テンションが上がる": "When this Tarot is put into|your hand, 3% chance to|gain tension."
     },
     "335": {
         "clarity_nt_char_111": "clarity_nt_char_111"
     },
     "336": {
-        "このタロットが 手札に入った時|５％の確率で|テンションが上がる": ""
+        "このタロットが 手札に入った時|５％の確率で|テンションが上がる": "When this Tarot is put into|your hand, 5% chance to|gain tension."
     },
     "337": {
         "clarity_nt_char_112": "clarity_nt_char_112"
     },
     "338": {
-        "このタロットが 手札に入った時|１０％の確率で|テンションが上がる": ""
+        "このタロットが 手札に入った時|１０％の確率で|テンションが上がる": "When this Tarot is put into|your hand, 10% chance to|gain tension."
     },
     "339": {
-        "このタロットが 手札に入った時|１５％の確率で|テンションが上がる": ""
+        "このタロットが 手札に入った時|１５％の確率で|テンションが上がる": "When this Tarot is put into|your hand, 15% chance to|gain tension."
     },
     "340": {
-        "このタロットを|使うか ひき直した時に|自分のＭＰが ３０回復": ""
+        "このタロットを|使うか ひき直した時に|自分のＭＰが ３０回復": "Using or redrawing this|Tarot recovers your MP|by 30."
     },
     "341": {
-        "このタロットを|使うか ひき直した時に|自分のＭＰが ５０回復": ""
+        "このタロットを|使うか ひき直した時に|自分のＭＰが ５０回復": "Using or redrawing this|Tarot recovers your MP|by 50."
     },
     "342": {
-        "このタロットを|使うか ひき直した時に|パーティのＨＰが ５％回復": ""
+        "このタロットを|使うか ひき直した時に|パーティのＨＰが ５％回復": "Using or redrawing this|Tarot recovers the party's|HP by 5%."
     },
     "343": {
-        "このタロットを|使うか ひき直した時に|パーティのＨＰが １２％回復": ""
+        "このタロットを|使うか ひき直した時に|パーティのＨＰが １２％回復": "Using or redrawing this|Tarot recovers the party's|HP by 12%."
     },
     "344": {
         "clarity_nt_char_113": "clarity_nt_char_113"
     },
     "345": {
-        "このタロットは 使っても|１０％の確率で 消費しない": ""
+        "このタロットは 使っても|１０％の確率で 消費しない": "10% chance to not consume|this Tarot when using it."
     },
     "346": {
         "clarity_nt_char_114": "clarity_nt_char_114"
     },
     "347": {
-        "このタロットは 使っても|３０％の確率で 消費しない": ""
+        "このタロットは 使っても|３０％の確率で 消費しない": "30% chance to not consume|this Tarot when using it."
     },
     "348": {
         "clarity_nt_char_115": "clarity_nt_char_115"
     },
     "349": {
-        "デッキに入れると １枚につき|最大ＭＰが ５ずつ上がる": ""
+        "デッキに入れると １枚につき|最大ＭＰが ５ずつ上がる": "Putting a card back in the|deck increases Max MP|by 5."
     },
     "350": {
-        "デッキに入れると １枚につき|最大ＭＰが １５ずつ上がる": ""
+        "デッキに入れると １枚につき|最大ＭＰが １５ずつ上がる": "Putting a card back in the|deck increases Max MP|by 15."
     },
     "351": {
         "clarity_nt_char_116": "clarity_nt_char_116"
     },
     "352": {
-        "デッキに入れると １枚につき|ちからが ３ずつ上がる": ""
+        "デッキに入れると １枚につき|ちからが ３ずつ上がる": "Putting a card back in the|deck increases Strength|by 3."
     },
     "353": {
         "clarity_nt_char_117": "clarity_nt_char_117"
     },
     "354": {
-        "デッキに入れると １枚につき|ちからが ４ずつ上がる": ""
+        "デッキに入れると １枚につき|ちからが ４ずつ上がる": "Putting a card back in the|deck increases Strength|by 4."
     },
     "355": {
         "clarity_nt_char_118": "clarity_nt_char_118"
     },
     "356": {
-        "デッキに入れると １枚につき|最大ＨＰが １ずつ上がる": ""
+        "デッキに入れると １枚につき|最大ＨＰが １ずつ上がる": "Putting a card back in the|deck increases Max HP|by 1."
     },
     "357": {
-        "デッキに入れると １枚につき|最大ＨＰが ２ずつ上がる": ""
+        "デッキに入れると １枚につき|最大ＨＰが ２ずつ上がる": "Putting a card back in the|deck increases Max HP|by 2."
     },
     "358": {
-        "デッキに入れると １枚につき|最大ＨＰが ３ずつ上がる": ""
+        "デッキに入れると １枚につき|最大ＨＰが ３ずつ上がる": "Putting a card back in the|deck increases Max HP|by 3."
     },
     "359": {
-        "使った時に ５％の確率で|テンションを 消費しない": ""
+        "使った時に ５％の確率で|テンションを 消費しない": "5% chance to not consume|tension after using this|Tarot."
     },
     "360": {
-        "使った時に １０％の確率で|テンションを 消費しない": ""
+        "使った時に １０％の確率で|テンションを 消費しない": "10% chance to not consume|tension after using this|Tarot."
     },
     "361": {
         "clarity_nt_char_119": "clarity_nt_char_119"
     },
     "362": {
-        "使った時に ２０％の確率で|テンションを 消費しない": ""
+        "使った時に ２０％の確率で|テンションを 消費しない": "20% chance to not consume|tension after using this|Tarot."
     },
     "363": {
         "clarity_nt_char_120": "clarity_nt_char_120"
     },
     "364": {
-        "使った時に １０％の確率で|効果が ２回発動する": ""
+        "使った時に １０％の確率で|効果が ２回発動する": "10% chance to activate this|Tarot's effect twice."
     },
     "365": {
         "clarity_nt_char_121": "clarity_nt_char_121"
     },
     "366": {
-        "使った時に ３０％の確率で|効果が ２回発動する": ""
+        "使った時に ３０％の確率で|効果が ２回発動する": "30% chance to activate this|Tarot's effect twice."
     },
     "367": {
         "clarity_nt_char_122": "clarity_nt_char_122"
     },
     "368": {
-        "とくぎ『エンゼルのみちびき』|を使えば 手札に|呼びよせることができる": ""
+        "とくぎ『エンゼルのみちびき』|を使えば 手札に|呼びよせることができる": "You can use the skill \"Angel's|Guidance\" to put this Tarot|into your hand."
     },
     "369": {
-        "このタロットは 戦闘開始時に|必ず手札に入る": ""
+        "このタロットは 戦闘開始時に|必ず手札に入る": "This Tarot will always be|in your hand at the|start of battle."
     },
     "370": {
         "clarity_nt_char_123": "clarity_nt_char_123"
     },
     "371": {
-        "デッキに入れると １枚につき|最大ＨＰが ８ずつ上がる": ""
+        "デッキに入れると １枚につき|最大ＨＰが ８ずつ上がる": "Putting a card back in the|deck increases Max HP by|8 over time."
     },
     "372": {
-        "デッキに入れると １枚につき|ちからが ８ずつ上がる": ""
+        "デッキに入れると １枚につき|ちからが ８ずつ上がる": "Putting a card back in the|deck increases Strength by|8 over time."
     },
     "373": {
         "clarity_nt_char_124": "clarity_nt_char_124"
     },
     "374": {
-        "デッキに入れると １枚につき|こうげき魔力が ２４ずつ上がる": ""
+        "デッキに入れると １枚につき|こうげき魔力が ２４ずつ上がる": "Putting a card back in the|deck increases Magical Might|by 8 over time."
     },
     "375": {
         "clarity_nt_char_125": "clarity_nt_char_125"
     },
     "376": {
-        "デッキに入れると １枚につき|受けるダメージが ５減る": ""
+        "デッキに入れると １枚につき|受けるダメージが ５減る": "Putting a card back in the|deck reduces damage|taken by 5."
     },
     "377": {
-        "このタロットが 手札に入った時|２０％の確率で|テンションが上がる": ""
+        "このタロットが 手札に入った時|２０％の確率で|テンションが上がる": "When this Tarot is put into|your hand, 20% chance to|gain tension."
     },
     "378": {
-        "デッキに入れると １枚につき|かいふく魔力が ２５ずつ上がる": ""
+        "デッキに入れると １枚につき|かいふく魔力が ２５ずつ上がる": "Putting a card back in the|deck increases Magical Mending|by 25 over time."
     },
     "379": {
         "clarity_nt_char_126": "clarity_nt_char_126"
     },
     "380": {
-        "このタロットを 使った時の|かいしん率が ３０％になる": ""
+        "このタロットを 使った時の|かいしん率が ３０％になる": "Critical rate increased by|30% after using this|Tarot."
     },
     "381": {
-        "使った時に ５０％の確率で|テンションを 消費しない": ""
+        "使った時に ５０％の確率で|テンションを 消費しない": "50% chance to not consume|tension after using this|Tarot."
     },
     "382": {
         "clarity_nt_char_127": "clarity_nt_char_127"
     },
     "383": {
-        "このタロットに オーラが宿ると|必ず テンションが上がる": ""
+        "このタロットに オーラが宿ると|必ず テンションが上がる": "When this Tarot has Aura,|always gain tension."
     },
     "384": {
         "clarity_nt_char_128": "clarity_nt_char_128"
     },
     "385": {
-        "オーラを宿した状態で|このタロットを使った時の|ダメージと 回復量が増える": ""
+        "オーラを宿した状態で|このタロットを使った時の|ダメージと 回復量が増える": "Increases damage and|recovery of this Tarot|while in Aura."
     },
     "386": {
-        "このタロットが 手札に入った時|自分のＨＰが ３０％回復する": ""
+        "このタロットが 手札に入った時|自分のＨＰが ３０％回復する": "When this Tarot is put into|your hand, recover 30%|of your HP."
     },
     "387": {
         "clarity_nt_char_129": "clarity_nt_char_129"
     },
     "388": {
-        "自分のＨＰが 全快であれば|このタロットを使った時に|効果が ２回発動する": ""
+        "自分のＨＰが 全快であれば|このタロットを使った時に|効果が ２回発動する": "Using this Tarot while|your HP is full will|activate its effect twice."
     },
     "389": {
-        "自分のＨＰが 全快であれば|このタロットを使った時の|回復量が増える": ""
+        "自分のＨＰが 全快であれば|このタロットを使った時の|回復量が増える": "Using this Tarot while|your HP is full increases|its recovery power."
     },
     "390": {
         "clarity_nt_char_130": "clarity_nt_char_130"
     },
     "391": {
-        "このタロットが 手札に入った時|自分のＨＰと ＭＰが|１０％回復する": ""
+        "このタロットが 手札に入った時|自分のＨＰと ＭＰが|１０％回復する": "When this Tarot is put into|your hand, recover your|HP and MP by 10%."
     },
     "392": {
         "clarity_nt_char_131": "clarity_nt_char_131"
     },
     "393": {
-        "手札に 同じモンスターが|３枚そろうと オーラが発動": ""
+        "手札に 同じモンスターが|３枚そろうと オーラが発動": "Aura will activate if your|hand has 3 of the same|monster."
     },
     "394": {
         "clarity_nt_char_132": "clarity_nt_char_132"
     },
     "395": {
-        "手札に 同じモンスターが|２枚そろうと オーラが発動": ""
+        "手札に 同じモンスターが|２枚そろうと オーラが発動": "Aura will activate if your|hand has 2 of the same|monster."
     },
     "396": {
         "clarity_nt_char_133": "clarity_nt_char_133"
     },
     "397": {
-        "手札に 悪霊の神々がそろうと|オーラが発動": ""
+        "手札に 悪霊の神々がそろうと|オーラが発動": "Aura will activate if the|Evil Spirit God is in|your hand."
     },
     "398": {
-        "手札に 伝説の三悪魔がそろうと|オーラが発動": ""
+        "手札に 伝説の三悪魔がそろうと|オーラが発動": "Aura will activate if the|3 Legend Demons is in|your hand."
     },
     "399": {
         "clarity_nt_char_134": "clarity_nt_char_134"
     },
     "400": {
-        "手札に 幻界の四諸侯がそろうと|オーラが発動": ""
+        "手札に 幻界の四諸侯がそろうと|オーラが発動": "Aura will activate if the|4 Phantom Lords is in|your hand."
     },
     "401": {
         "clarity_nt_char_135": "clarity_nt_char_135"
     },
     "402": {
-        "このモンスターは|特殊効果を|持っていない": ""
+        "このモンスターは|特殊効果を|持っていない": "This monster has no|special effects."
     },
     "403": {
-        "デッキに入れると|身かわし率が|０．１％上がる": ""
+        "デッキに入れると|身かわし率が|０．１％上がる": "Dodge rate increased|by 0.1% when|put into the deck."
     },
     "404": {
-        "デッキに入れると|身かわし率が|０．２％上がる": ""
+        "デッキに入れると|身かわし率が|０．２％上がる": "Dodge rate increased|by 0.2% when|put into the deck."
     },
     "405": {
-        "デッキに入れると|身かわし率が|０．３％上がる": ""
+        "デッキに入れると|身かわし率が|０．３％上がる": "Dodge rate increased|by 0.3% when|put into the deck."
     },
     "406": {
-        "デッキに入れると|すばやさが|４アップ": ""
+        "デッキに入れると|すばやさが|４アップ": "Agility increased|by 4 when put|into the deck."
     },
     "407": {
-        "デッキに入れると|すばやさが|６上がる": ""
+        "デッキに入れると|すばやさが|６上がる": "Agility increased|by 6 when put|into the deck."
     },
     "408": {
-        "デッキに入れると|すばやさが|７上がる": ""
+        "デッキに入れると|すばやさが|７上がる": "Agility increased|by 7 when put|into the deck."
     },
     "409": {
-        "デッキに入れると|すばやさが|８上がる": ""
+        "デッキに入れると|すばやさが|８上がる": "Agility increased|by 8 when put|into the deck."
     },
     "410": {
-        "デッキに入れると|みのまもりが|１上がる": ""
+        "デッキに入れると|みのまもりが|１上がる": "Resilience increased|by 1 when put|into the deck."
     },
     "411": {
         "clarity_nt_char_136": "clarity_nt_char_136"
     },
     "412": {
-        "デッキに入れると|みのまもりが|２上がる": ""
+        "デッキに入れると|みのまもりが|２上がる": "Resilience increased|by 2 when put|into the deck."
     },
     "413": {
         "clarity_nt_char_137": "clarity_nt_char_137"
     },
     "414": {
-        "デッキに入れると|みのまもりが|３上がる": ""
+        "デッキに入れると|みのまもりが|３上がる": "Resilience increased|by 3 when put|into the deck."
     },
     "415": {
         "clarity_nt_char_138": "clarity_nt_char_138"
     },
     "416": {
-        "デッキに入れると|みのまもりが|４上がる": ""
+        "デッキに入れると|みのまもりが|４上がる": "Resilience increased|by 4 when put|into the deck."
     },
     "417": {
         "clarity_nt_char_139": "clarity_nt_char_139"
     },
     "418": {
-        "使うかひき直しで|自分のＨＰが|１０回復する": ""
+        "使うかひき直しで|自分のＨＰが|１０回復する": "Using or redrawing|recovers your HP|by 10."
     },
     "419": {
         "clarity_nt_char_140": "clarity_nt_char_140"
     },
     "420": {
-        "使うかひき直しで|自分のＨＰが|１５回復する": ""
+        "使うかひき直しで|自分のＨＰが|１５回復する": "Using or redrawing|recovers your HP|by 15."
     },
     "421": {
         "clarity_nt_char_141": "clarity_nt_char_141"
     },
     "422": {
-        "使うかひき直しで|自分のＨＰが|２０回復する": ""
+        "使うかひき直しで|自分のＨＰが|２０回復する": "Using or redrawing|recovers your HP|by 20."
     },
     "423": {
         "clarity_nt_char_142": "clarity_nt_char_142"
     },
     "424": {
-        "使うかひき直しで|自分のＨＰが|２５回復する": ""
+        "使うかひき直しで|自分のＨＰが|２５回復する": "Using or redrawing|recovers your HP|by 25."
     },
     "425": {
         "clarity_nt_char_143": "clarity_nt_char_143"
     },
     "426": {
-        "使うかひき直しで|自分のＭＰが|５回復する": ""
+        "使うかひき直しで|自分のＭＰが|５回復する": "Using or redrawing|recovers your MP|by 5."
     },
     "427": {
-        "使うかひき直しで|自分のＭＰが|８回復する": ""
+        "使うかひき直しで|自分のＭＰが|８回復する": "Using or redrawing|recovers your MP|by 8."
     },
     "428": {
-        "使うかひき直しで|自分のＭＰが|１０回復する": ""
+        "使うかひき直しで|自分のＭＰが|１０回復する": "Using or redrawing|recovers your MP|by 10."
     },
     "429": {
         "clarity_nt_char_144": "clarity_nt_char_144"
     },
     "430": {
-        "使うかひき直しで|自分のＭＰが|１２回復する": ""
+        "使うかひき直しで|自分のＭＰが|１２回復する": "Using or redrawing|recovers your MP|by 12."
     },
     "431": {
         "clarity_nt_char_145": "clarity_nt_char_145"
     },
     "432": {
-        "デッキに入れると|かいふく魔力が|３上がる": ""
+        "デッキに入れると|かいふく魔力が|３上がる": "Magical Mending|increased by 3 when|put into the deck."
     },
     "433": {
-        "デッキに入れると|かいふく魔力が|４上がる": ""
+        "デッキに入れると|かいふく魔力が|４上がる": "Magical Mending|increased by 4 when|put into the deck."
     },
     "434": {
-        "デッキに入れると|かいふく魔力が|５上がる": ""
+        "デッキに入れると|かいふく魔力が|５上がる": "Magical Mending|increased by 5 when|put into the deck."
     },
     "435": {
-        "デッキに入れると|かいふく魔力が|８上がる": ""
+        "デッキに入れると|かいふく魔力が|８上がる": "Magical Mending|increased by 8 when|put into the deck."
     },
     "436": {
-        "デッキに入れると|こうげき魔力が|３上がる": ""
+        "デッキに入れると|こうげき魔力が|３上がる": "Magical Might|increased by 3 when|put into the deck."
     },
     "437": {
-        "デッキに入れると|こうげき魔力が|４上がる": ""
+        "デッキに入れると|こうげき魔力が|４上がる": "Magical Might|increased by 4 when|put into the deck."
     },
     "438": {
-        "デッキに入れると|こうげき魔力が|５上がる": ""
+        "デッキに入れると|こうげき魔力が|５上がる": "Magical Might|increased by 5 when|put into the deck."
     },
     "439": {
-        "デッキに入れると|こうげき魔力が|８上がる": ""
+        "デッキに入れると|こうげき魔力が|８上がる": "Magical Might|increased by 8 when|put into the deck."
     },
     "440": {
-        "デッキに入れると|タロット効果範囲|０．１ｍ延長": ""
+        "デッキに入れると|タロット効果範囲|０．１ｍ延長": "Tarot effect range|increased by 0.1m when|put into the deck."
     },
     "441": {
         "clarity_nt_char_146": "clarity_nt_char_146"
     },
     "442": {
-        "デッキに入れると|タロット効果範囲|０．３ｍ延長": ""
+        "デッキに入れると|タロット効果範囲|０．３ｍ延長": "Tarot effect range|increased by 0.3m when|put into the deck."
     },
     "443": {
         "clarity_nt_char_147": "clarity_nt_char_147"
     },
     "444": {
-        "デッキに入れると|タロット効果範囲|１ｍ延長": ""
+        "デッキに入れると|タロット効果範囲|１ｍ延長": "Tarot effect range|increased by 1m when|put into the deck."
     },
     "445": {
         "clarity_nt_char_148": "clarity_nt_char_148"
     },
     "446": {
-        "デッキに入れると|タロット射程距離|０．２ｍ延長": ""
+        "デッキに入れると|タロット射程距離|０．２ｍ延長": "Tarot effect range|increased by 0.2m when|put into the deck."
     },
     "447": {
         "clarity_nt_char_149": "clarity_nt_char_149"
     },
     "448": {
-        "デッキに入れると|タロット射程距離|０．５ｍ延長": ""
+        "デッキに入れると|タロット射程距離|０．５ｍ延長": "Tarot effect range|increased by 0.5m when|put into the deck."
     },
     "449": {
         "clarity_nt_char_150": "clarity_nt_char_150"
     },
     "450": {
-        "デッキに入れると|タロット射程距離|２ｍ延長": ""
+        "デッキに入れると|タロット射程距離|２ｍ延長": "Tarot effect range|increased by 2m when|put into the deck."
     },
     "451": {
         "clarity_nt_char_151": "clarity_nt_char_151"
     },
     "452": {
-        "使うかひき直しで|自分のＨＰが|３％回復する": ""
+        "使うかひき直しで|自分のＨＰが|３％回復する": "Using or redrawing|recovers your HP|by 3%."
     },
     "453": {
         "clarity_nt_char_152": "clarity_nt_char_152"
     },
     "454": {
-        "使うかひき直しで|自分のＨＰが|５％回復する": ""
+        "使うかひき直しで|自分のＨＰが|５％回復する": "Using or redrawing|recovers your HP|by 5%."
     },
     "455": {
         "clarity_nt_char_153": "clarity_nt_char_153"
     },
     "456": {
-        "使うかひき直しで|自分のＨＰが|１２％回復する": ""
+        "使うかひき直しで|自分のＨＰが|１２％回復する": "Using or redrawing|recovers your HP|by 12%."
     },
     "457": {
-        "手札に来た時|３％の確率で|テンションアップ": ""
+        "手札に来た時|３％の確率で|テンションアップ": "3% chance to gain|tension when put|into your hand."
     },
     "458": {
         "clarity_nt_char_154": "clarity_nt_char_154"
     },
     "459": {
-        "手札に来た時|５％の確率で|テンションアップ": ""
+        "手札に来た時|５％の確率で|テンションアップ": "5% chance to gain|tension when put|into your hand."
     },
     "460": {
         "clarity_nt_char_155": "clarity_nt_char_155"
     },
     "461": {
-        "手札に来た時|１０％の確率で|テンションアップ": ""
+        "手札に来た時|１０％の確率で|テンションアップ": "10% chance to gain|tension when put|into your hand."
     },
     "462": {
-        "手札に来た時|１５％の確率で|テンションアップ": ""
+        "手札に来た時|１５％の確率で|テンションアップ": "15% chance to gain|tension when put|into your hand."
     },
     "463": {
-        "使うかひき直しで|自分のＭＰが|３０回復する": ""
+        "使うかひき直しで|自分のＭＰが|３０回復する": "Using or redrawing|recovers your MP|by 30."
     },
     "464": {
         "clarity_nt_char_156": "clarity_nt_char_156"
     },
     "465": {
-        "使うかひき直しで|自分のＭＰが|５０回復する": ""
+        "使うかひき直しで|自分のＭＰが|５０回復する": "Using or redrawing|recovers your MP|by 50."
     },
     "466": {
         "clarity_nt_char_157": "clarity_nt_char_157"
     },
     "467": {
-        "使うかひき直しで|ＰＴ全員のＨＰが|５％回復する": ""
+        "使うかひき直しで|ＰＴ全員のＨＰが|５％回復する": "Using or redrawing|recovers party HP|by 5%."
     },
     "468": {
         "clarity_nt_char_158": "clarity_nt_char_158"
     },
     "469": {
-        "使うかひき直しで|ＰＴ全員のＨＰが|１２％回復する": ""
+        "使うかひき直しで|ＰＴ全員のＨＰが|１２％回復する": "Using or redrawing|recovers party HP|by 12%."
     },
     "470": {
-        "使っても|１０％の確率で|消費しない": ""
+        "使っても|１０％の確率で|消費しない": "10% chance to not|consume after using."
     },
     "471": {
         "clarity_nt_char_159": "clarity_nt_char_159"
     },
     "472": {
-        "使っても|３０％の確率で|消費しない": ""
+        "使っても|３０％の確率で|消費しない": "30% chance to not|consume after using."
     },
     "473": {
         "clarity_nt_char_160": "clarity_nt_char_160"
     },
     "474": {
-        "デッキに入れると|最大ＭＰが|５上がる": ""
+        "デッキに入れると|最大ＭＰが|５上がる": "Max MP|increased by 5 when|put into the deck."
     },
     "475": {
-        "デッキに入れると|最大ＭＰが|１５上がる": ""
+        "デッキに入れると|最大ＭＰが|１５上がる": "Max MP|increased by 15 when|put into the deck."
     },
     "476": {
         "clarity_nt_char_161": "clarity_nt_char_161"
     },
     "477": {
-        "デッキに入れると|ちからが３上がる": ""
+        "デッキに入れると|ちからが３上がる": "Strength|increased by 3 when|put into the deck."
     },
     "478": {
-        "デッキに入れると|ちからが４上がる": ""
+        "デッキに入れると|ちからが４上がる": "Strength|increased by 4 when|put into the deck."
     },
     "479": {
-        "デッキに入れると|最大ＨＰが|１上がる": ""
+        "デッキに入れると|最大ＨＰが|１上がる": "Max HP|increased by 1 when|put into the deck."
     },
     "480": {
-        "デッキに入れると|最大ＨＰが|２上がる": ""
+        "デッキに入れると|最大ＨＰが|２上がる": "Max HP|increased by 2 when|put into the deck."
     },
     "481": {
-        "デッキに入れると|最大ＨＰが|３上がる": ""
+        "デッキに入れると|最大ＨＰが|３上がる": "Max HP|increased by 3 when|put into the deck."
     },
     "482": {
-        "５％の確率で|使用時テンション|消費なし": ""
+        "５％の確率で|使用時テンション|消費なし": "5% chance to not|consume tension|after using."
     },
     "483": {
         "clarity_nt_char_162": "clarity_nt_char_162"
     },
     "484": {
-        "１０％の確率で|使用時テンション|消費なし": ""
+        "１０％の確率で|使用時テンション|消費なし": "10% chance to not|consume tension|after using."
     },
     "485": {
-        "２０％の確率で|使用時テンション|消費なし": ""
+        "２０％の確率で|使用時テンション|消費なし": "20% chance to not|consume tension|after using."
     },
     "486": {
-        "１０％の確率で|使った時に|効果が２回発動": ""
+        "１０％の確率で|使った時に|効果が２回発動": "10% chance to activate|this effect twice|after using."
     },
     "487": {
-        "３０％の確率で|使った時に|効果が２回発動": ""
+        "３０％の確率で|使った時に|効果が２回発動": "30% chance to activate|this effect twice|after using."
     },
     "488": {
-        "エンゼルの|みちびきで|手札に移動": ""
+        "エンゼルの|みちびきで|手札に移動": "Put into your hand|with Angel's|Guidance."
     },
     "489": {
-        "開戦時に|必ず手札に入る": ""
+        "開戦時に|必ず手札に入る": "Always in hand|at battle start."
     },
     "490": {
         "clarity_nt_char_163": "clarity_nt_char_163"
     },
     "491": {
-        "デッキに入れると|最大ＨＰが|８上がる": ""
+        "デッキに入れると|最大ＨＰが|８上がる": "Max HP|increased by 8 when|put into the deck."
     },
     "492": {
-        "デッキに入れると|ちからが|８上がる": ""
+        "デッキに入れると|ちからが|８上がる": "Strength|increased by 8 when|put into the deck."
     },
     "493": {
         "clarity_nt_char_164": "clarity_nt_char_164"
     },
     "494": {
-        "デッキに入れると|こうげき魔力が|２４上がる": ""
+        "デッキに入れると|こうげき魔力が|２４上がる": "Magical Might|increased by 24 when|put into the deck."
     },
     "495": {
         "clarity_nt_char_165": "clarity_nt_char_165"
     },
     "496": {
-        "デッキに入れると|受けるダメージが|５減る": ""
+        "デッキに入れると|受けるダメージが|５減る": "Damage taken|reduced by 5 when|put into the deck."
     },
     "497": {
-        "手札に来た時|２０％の確率で|テンションアップ": ""
+        "手札に来た時|２０％の確率で|テンションアップ": "20% chance to gain|tension when put|into your hand."
     },
     "498": {
-        "デッキに入れると|かいふく魔力が|２５上がる": ""
+        "デッキに入れると|かいふく魔力が|２５上がる": "Magical Mending|increased by 25 when|put into the deck."
     },
     "499": {
         "clarity_nt_char_166": "clarity_nt_char_166"
     },
     "500": {
-        "使用時の|かいしん率が|３０％になる": ""
+        "使用時の|かいしん率が|３０％になる": "Critical rate increased|by 30% when used."
     },
     "501": {
         "clarity_nt_char_167": "clarity_nt_char_167"
     },
     "502": {
-        "５０％の確率で|使用時テンション|消費なし": ""
+        "５０％の確率で|使用時テンション|消費なし": "50% chance to not|consume tension|after using."
     },
     "503": {
-        "オーラが宿ると|テンションアップ": ""
+        "オーラが宿ると|テンションアップ": "Gain tension when|you enter Aura."
     },
     "504": {
         "clarity_nt_char_168": "clarity_nt_char_168"
     },
     "505": {
-        "オーラで使うと|さらにダメージ|回復量アップ": ""
+        "オーラで使うと|さらにダメージ|回復量アップ": "Damage and recovery|further increased when|used during Aura."
     },
     "506": {
         "clarity_nt_char_169": "clarity_nt_char_169"
     },
     "507": {
-        "手札に来た時|自分のＨＰが|３０％回復": ""
+        "手札に来た時|自分のＨＰが|３０％回復": "Recover 30% of|your HP when put|into your hand."
     },
     "508": {
-        "ＨＰ全快状態で|使った時に|２回発動する": ""
+        "ＨＰ全快状態で|使った時に|２回発動する": "Activate this effect|twice when your|HP is full."
     },
     "509": {
         "clarity_nt_char_170": "clarity_nt_char_170"
     },
     "510": {
-        "ＨＰ全快状態で|使った時に|回復量が増える": ""
+        "ＨＰ全快状態で|使った時に|回復量が増える": "Increase recovery|amount when your|HP is full."
     },
     "511": {
-        "手札に来た時|ＨＰとＭＰが|１０％回復": ""
+        "手札に来た時|ＨＰとＭＰが|１０％回復": "Recover 30% of|your HP/MP when put|into your hand."
     }
 }

@@ -204,7 +204,7 @@
         "えんていのおおたて": ""
     },
     "69": {
-        "とこやみのたて": ""
+        "とこやみのたて": "Everdark Shd"
     },
     "70": {
         "どうのつるぎ": "Copper Sword"
@@ -351,10 +351,10 @@
         "clarity_nt_char_37": "clarity_nt_char_37"
     },
     "118": {
-        "じゅえるだがー": ""
+        "じゅえるだがー": "Jewel Dagger"
     },
     "119": {
-        "じゅえるわんど": ""
+        "じゅえるわんど": "Jewel Staff"
     },
     "120": {
         "せいおうのつるぎ": "Dryspell Sabre"
@@ -372,7 +372,7 @@
         "clarity_nt_char_39": "clarity_nt_char_39"
     },
     "125": {
-        "どうのたいけん": ""
+        "どうのたいけん": "Copper Chopper"
     },
     "126": {
         "てつのたいけん": "Iron Claymore"
@@ -531,13 +531,13 @@
         "あんのうんばすたー": "Unknown Buster"
     },
     "178": {
-        "ぶろんずないふ": ""
+        "ぶろんずないふ": "Bronze Knife"
     },
     "179": {
-        "せいなるないふ": ""
+        "せいなるないふ": "Holy Knife"
     },
     "180": {
-        "どくがのないふ": ""
+        "どくがのないふ": "Poison Moth Knife"
     },
     "181": {
         "どくばり": "Psn. Needle"
@@ -546,25 +546,25 @@
         "clarity_nt_char_56": "clarity_nt_char_56"
     },
     "183": {
-        "しーぶすないふ": ""
+        "しーぶすないふ": "Deadly Nightblade"
     },
     "184": {
-        "あさしんだがー": ""
+        "あさしんだがー": "Assassin's Dagger"
     },
     "185": {
-        "きらーぴあす": ""
+        "きらーぴあす": "FalconKnf Earrings"
     },
     "186": {
         "clarity_nt_char_57": "clarity_nt_char_57"
     },
     "187": {
-        "よるのぱぴよん": ""
+        "よるのぱぴよん": "Dread Dagger"
     },
     "188": {
-        "いーぐるだがー": ""
+        "いーぐるだがー": "Eagle Dagger"
     },
     "189": {
-        "こあくまのないふ": ""
+        "こあくまのないふ": "Imp Knife"
     },
     "190": {
         "clarity_nt_char_58": "clarity_nt_char_58"
@@ -573,7 +573,7 @@
         "こおりのやいば": "Icicle Dirk"
     },
     "192": {
-        "そーどぶれいかー": ""
+        "そーどぶれいかー": "Sword Breaker"
     },
     "193": {
         "clarity_nt_char_59": "clarity_nt_char_59"
@@ -582,31 +582,31 @@
         "えてーねのたんけん": ""
     },
     "195": {
-        "ぐらでぃうす": ""
+        "ぐらでぃうす": "Gladius"
     },
     "196": {
         "clarity_nt_char_60": "clarity_nt_char_60"
     },
     "197": {
-        "さらまんだー": ""
+        "さらまんだー": "Flame Tang"
     },
     "198": {
         "clarity_nt_char_61": "clarity_nt_char_61"
     },
     "199": {
-        "ふぁるこんだがー": ""
+        "ふぁるこんだがー": "Gryphon's Wing"
     },
     "200": {
         "clarity_nt_char_62": "clarity_nt_char_62"
     },
     "201": {
-        "さうざんどだがー": ""
+        "さうざんどだがー": "Deft Dagger"
     },
     "202": {
         "clarity_nt_char_63": "clarity_nt_char_63"
     },
     "203": {
-        "こがらしのだがー": ""
+        "こがらしのだがー": "Pruning Knife"
     },
     "204": {
         "clarity_nt_char_64": "clarity_nt_char_64"
@@ -615,100 +615,100 @@
         "うるべあのほうけん": ""
     },
     "206": {
-        "ぶらっどぴっく": ""
+        "ぶらっどぴっく": "Bloodletter Knife"
     },
     "207": {
-        "ぎんのたんけん": ""
+        "ぎんのたんけん": "Silver Dagger"
     },
     "208": {
-        "おうけのないふ": ""
+        "おうけのないふ": "Nobleman's Knife"
     },
     "209": {
-        "らいとにんぐだがー": ""
+        "らいとにんぐだがー": "Thunderstorm Skean"
     },
     "210": {
-        "しょしんしゃようのたんけん": ""
+        "しょしんしゃようのたんけん": "Beginners Dagger"
     },
     "211": {
-        "くりすたるえっじ": ""
+        "くりすたるえっじ": "Crystal Edge"
     },
     "212": {
         "clarity_nt_char_65": "clarity_nt_char_65"
     },
     "213": {
-        "でざーとだがー": ""
+        "でざーとだがー": "Dessert Dagger"
     },
     "214": {
-        "とこやみのだがー": ""
+        "とこやみのだがー": "Everdark Dagger"
     },
     "215": {
         "clarity_nt_char_66": "clarity_nt_char_66"
     },
     "216": {
-        "せいおうのないふ": ""
+        "せいおうのないふ": "Dryspell Knife"
     },
     "217": {
         "clarity_nt_char_67": "clarity_nt_char_67"
     },
     "218": {
-        "ぽいずんすけいる": ""
+        "ぽいずんすけいる": "Serpentscale Skean"
     },
     "219": {
         "clarity_nt_char_68": "clarity_nt_char_68"
     },
     "220": {
-        "りぃんのたんけん": ""
+        "りぃんのたんけん": "Lynn's Stiletto"
     },
     "221": {
         "clarity_nt_char_69": "clarity_nt_char_69"
     },
     "222": {
-        "じゃこつのないふ": ""
+        "じゃこつのないふ": "Evil Bone Knife"
     },
     "223": {
         "clarity_nt_char_70": "clarity_nt_char_70"
     },
     "224": {
-        "えんしぇんとくくり": ""
+        "えんしぇんとくくり": "Olde-Worlde Knife"
     },
     "225": {
-        "やくさるたんとう": ""
+        "やくさるたんとう": "Banana Tanto"
     },
     "226": {
         "clarity_nt_char_71": "clarity_nt_char_71"
     },
     "227": {
-        "あんのうんだーく": ""
+        "あんのうんだーく": "Unknown Dirk"
     },
     "228": {
         "clarity_nt_char_72": "clarity_nt_char_72"
     },
     "229": {
-        "てんがのじゃんびーや": ""
+        "てんがのじゃんびーや": "Milky Way Jambiya"
     },
     "230": {
         "clarity_nt_char_73": "clarity_nt_char_73"
     },
     "231": {
-        "とーるないふ": ""
+        "とーるないふ": "Thor Knife"
     },
     "232": {
         "clarity_nt_char_74": "clarity_nt_char_74"
     },
     "233": {
-        "れじぇんずすてっき": ""
+        "れじぇんずすてっき": "Legends Wand"
     },
     "234": {
-        "ぴんすてぃっく": ""
+        "ぴんすてぃっく": "Pocus Pin"
     },
     "235": {
-        "ろーりえのこえだ": ""
+        "ろーりえのこえだ": "Sprig of Bay Leaf"
     },
     "236": {
         "clarity_nt_char_75": "clarity_nt_char_75"
     },
     "237": {
-        "すらいむすてっき": ""
+        "すらいむすてっき": "Slime Stick"
     },
     "238": {
         "clarity_nt_char_76": "clarity_nt_char_76"
@@ -717,133 +717,133 @@
         "さくらのすてぃっく": ""
     },
     "240": {
-        "もーもんすてぃっく": ""
+        "もーもんすてぃっく": "Teeny Sanguini Wand"
     },
     "241": {
-        "ふぇざーすてぃっく": ""
+        "ふぇざーすてぃっく": "Winged Wand"
     },
     "242": {
-        "まじかるすてぃっく": ""
+        "まじかるすてぃっく": "Pixie Stick"
     },
     "243": {
-        "まてきのすてぃっく": ""
+        "まてきのすてぃっく": "Brouhaha Boomstick"
     },
     "244": {
-        "すらたわーすてっき": ""
+        "すらたわーすてっき": "Slime Stack Stick"
     },
     "245": {
-        "あくまのたくと": ""
+        "あくまのたくと": "Devil's Baton"
     },
     "246": {
-        "ついんくるたくと": ""
+        "ついんくるたくと": "Twinkle Little Staff"
     },
     "247": {
         "clarity_nt_char_77": "clarity_nt_char_77"
     },
     "248": {
-        "らぶりーすてぃっく": ""
+        "らぶりーすてぃっく": "Fond Wand"
     },
     "249": {
-        "どらごんすてぃっく": ""
+        "どらごんすてぃっく": "Wyvern Wand"
     },
     "250": {
-        "てんしのたくと": ""
+        "てんしのたくと": "Seraphic Sceptre"
     },
     "251": {
-        "ぺろりんすてっき": ""
+        "ぺろりんすてっき": "Lolly Stick"
     },
     "252": {
         "clarity_nt_char_78": "clarity_nt_char_78"
     },
     "253": {
-        "まぽれーなすてっき": ""
+        "まぽれーなすてっき": "Genie Sanguini Wand"
     },
     "254": {
-        "ひかりのたくと": ""
+        "ひかりのたくと": "Glow Stick"
     },
     "255": {
-        "ばらのすてぃっく": ""
+        "ばらのすてぃっく": "Rose Wand"
     },
     "256": {
         "clarity_nt_char_79": "clarity_nt_char_79"
     },
     "257": {
-        "ふぁんたすてぃっく": ""
+        "ふぁんたすてぃっく": "Fantastick"
     },
     "258": {
-        "たいたにあすてっき": ""
+        "たいたにあすてっき": "Butterfly Baton"
     },
     "259": {
-        "ゆぐどらしる": ""
+        "ゆぐどらしる": "Spryggdrasil"
     },
     "260": {
         "clarity_nt_char_80": "clarity_nt_char_80"
     },
     "261": {
-        "ごしっくぱらそる": ""
+        "ごしっくぱらそる": "Glumbrella"
     },
     "262": {
         "clarity_nt_char_81": "clarity_nt_char_81"
     },
     "263": {
-        "ふらわーすてぃっく": ""
+        "ふらわーすてぃっく": "Posey Pole"
     },
     "264": {
-        "ぱらそるすてぃっく": ""
+        "ぱらそるすてぃっく": "Jolly Brolly"
     },
     "265": {
-        "しょしんしゃようすてぃっく": ""
+        "しょしんしゃようすてぃっく": "Beginners Wand"
     },
     "266": {
-        "すのーすてぃっく": ""
+        "すのーすてぃっく": "Snow Stick"
     },
     "267": {
         "clarity_nt_char_82": "clarity_nt_char_82"
     },
     "268": {
-        "らくりまたくと": ""
+        "らくりまたくと": "Cane of Compassion"
     },
     "269": {
-        "とこやみのすてぃっく": ""
+        "とこやみのすてぃっく": "Everdark Wand"
     },
     "270": {
         "clarity_nt_char_83": "clarity_nt_char_83"
     },
     "271": {
-        "はけすてぃっく": ""
+        "はけすてぃっく": "Brush Wand"
     },
     "272": {
-        "せいおうのすてぃっく": ""
+        "せいおうのすてぃっく": "Dryspell Wand"
     },
     "273": {
         "clarity_nt_char_84": "clarity_nt_char_84"
     },
     "274": {
-        "ほしぼしのたくと": ""
+        "ほしぼしのたくと": "Star Baton"
     },
     "275": {
         "clarity_nt_char_85": "clarity_nt_char_85"
     },
     "276": {
-        "かぷれーぜたくと": ""
+        "かぷれーぜたくと": "Caprese Baton"
     },
     "277": {
         "clarity_nt_char_86": "clarity_nt_char_86"
     },
     "278": {
-        "えんしぇんとたくと": ""
+        "えんしぇんとたくと": "Olde-Worlde Wande"
     },
     "279": {
-        "こうぼうえねるらいと": ""
+        "こうぼうえねるらいと": "Enerlight Wand"
     },
     "280": {
         "clarity_nt_char_87": "clarity_nt_char_87"
     },
     "281": {
-        "すたーりーすてっき": ""
+        "すたーりーすてっき": "Starry Stick"
     },
     "282": {
-        "かしのつえ": ""
+        "かしのつえ": "Oak Staff"
     },
     "283": {
         "まどうしのつえ": "Wizard's Staff"
@@ -870,7 +870,7 @@
         "いかずちのつえ": ""
     },
     "291": {
-        "どらきーすたっふ": ""
+        "どらきーすたっふ": "Dracky Staff"
     },
     "292": {
         "clarity_nt_char_90": "clarity_nt_char_90"
@@ -951,7 +951,7 @@
         "clarity_nt_char_98": "clarity_nt_char_98"
     },
     "318": {
-        "しょしんしゃようのりょうてつえ": ""
+        "しょしんしゃようのりょうてつえ": "Beginners Staff"
     },
     "319": {
         "じゃじゅつこうのつえ": ""
@@ -960,19 +960,19 @@
         "clarity_nt_char_99": "clarity_nt_char_99"
     },
     "321": {
-        "とこやみのつえ": ""
+        "とこやみのつえ": "Everdark Stf"
     },
     "322": {
         "ふししゃのまじょう": ""
     },
     "323": {
-        "せいおうのつえ": ""
+        "せいおうのつえ": "Dryspell Stf"
     },
     "324": {
         "いーりすのつえ": ""
     },
     "325": {
-        "うぃきっどすたっふ": ""
+        "うぃきっどすたっふ": "Wicked Staff"
     },
     "326": {
         "にくきゅうのつえ": "Pawmaturge Cane"
@@ -981,7 +981,7 @@
         "clarity_nt_char_100": "clarity_nt_char_100"
     },
     "328": {
-        "るしぇんだのつえ": ""
+        "るしぇんだのつえ": "Lushenda's Staff"
     },
     "329": {
         "clarity_nt_char_101": "clarity_nt_char_101"
@@ -1002,7 +1002,7 @@
         "てつのやり": "Iron Lance"
     },
     "335": {
-        "ろんぐすぴあ": ""
+        "ろんぐすぴあ": "Long Spear"
     },
     "336": {
         "clarity_nt_char_104": "clarity_nt_char_104"
@@ -1014,19 +1014,19 @@
         "clarity_nt_char_105": "clarity_nt_char_105"
     },
     "339": {
-        "ほーりーらんす": ""
+        "ほーりーらんす": "Holy Lance"
     },
     "340": {
-        "ばとるふぉーく": ""
+        "ばとるふぉーく": "Battle Fork"
     },
     "341": {
-        "ぷらちなのやり": ""
+        "ぷらちなのやり": "Platinum Lance"
     },
     "342": {
-        "ぱるちざん": ""
+        "ぱるちざん": "Partisan"
     },
     "343": {
-        "このえへいのやり": ""
+        "このえへいのやり": "Praetorian Partisn"
     },
     "344": {
         "clarity_nt_char_106": "clarity_nt_char_106"
@@ -1035,7 +1035,7 @@
         "いなずまのやり": "Lightning Lance"
     },
     "346": {
-        "ぐらこすのやり": ""
+        "ぐらこすのやり": "Gracos's Trident"
     },
     "347": {
         "さじんのやり": "Sandstorm Spear"
@@ -1044,7 +1044,7 @@
         "clarity_nt_char_107": "clarity_nt_char_107"
     },
     "349": {
-        "でーもんすぴあ": ""
+        "でーもんすぴあ": "Demon Spear"
     },
     "350": {
         "らいじんのやり": "Storm Spear"
@@ -1053,10 +1053,10 @@
         "えいゆうのやり": "Hero Spear"
     },
     "352": {
-        "めたすらのやり": ""
+        "めたすらのやり": "Metal Slime Spear"
     },
     "353": {
-        "おせあのすすぴあ": ""
+        "おせあのすすぴあ": "Full Fathom Fork"
     },
     "354": {
         "clarity_nt_char_108": "clarity_nt_char_108"
@@ -1065,7 +1065,7 @@
         "きしんのまそう": "Poker"
     },
     "356": {
-        "せらふぃむのやり": ""
+        "せらふぃむのやり": "Seraph's Spear"
     },
     "357": {
         "clarity_nt_char_109": "clarity_nt_char_109"
@@ -1080,127 +1080,127 @@
         "せいどうのやり": "Bronze Lance"
     },
     "361": {
-        "せいきしのやり": ""
+        "せいきしのやり": "Paladin's Lance"
     },
     "362": {
-        "しょしんしゃようのやり": ""
+        "しょしんしゃようのやり": "Beginners Spear"
     },
     "363": {
-        "とこやみのやり": ""
+        "とこやみのやり": "Everdark Spear"
     },
     "364": {
-        "あてなのせいそう": ""
+        "あてなのせいそう": "Sacred Spear"
     },
     "365": {
         "clarity_nt_char_111": "clarity_nt_char_111"
     },
     "366": {
-        "せいおうのやり": ""
+        "せいおうのやり": "Dryspell Spear"
     },
     "367": {
-        "ぶらっどすぴあー": ""
+        "ぶらっどすぴあー": "Barbarous Pole"
     },
     "368": {
         "clarity_nt_char_112": "clarity_nt_char_112"
     },
     "369": {
-        "たいほうのやり": ""
+        "たいほうのやり": "Phoenix Spear"
     },
     "370": {
-        "やくさるつきやり": ""
+        "やくさるつきやり": "Banana Spear"
     },
     "371": {
         "clarity_nt_char_113": "clarity_nt_char_113"
     },
     "372": {
-        "まそうけらうのす": ""
+        "まそうけらうのす": "Magic Spear Keraunos"
     },
     "373": {
         "clarity_nt_char_114": "clarity_nt_char_114"
     },
     "374": {
-        "すたーりーすぴあ": ""
+        "すたーりーすぴあ": "Starry Spear"
     },
     "375": {
         "clarity_nt_char_115": "clarity_nt_char_115"
     },
     "376": {
-        "あんのうんすぴあ": ""
+        "あんのうんすぴあ": "Unknown Spear"
     },
     "377": {
         "clarity_nt_char_116": "clarity_nt_char_116"
     },
     "378": {
-        "たわーらんす": ""
+        "たわーらんす": "Tower Lance"
     },
     "379": {
         "clarity_nt_char_117": "clarity_nt_char_117"
     },
     "380": {
-        "さたんふぉーく": ""
+        "さたんふぉーく": "Imp Fork"
     },
     "381": {
-        "どらぐーんらんす": ""
+        "どらぐーんらんす": "Dragoon Lance"
     },
     "382": {
         "clarity_nt_char_118": "clarity_nt_char_118"
     },
     "383": {
-        "ねれうすすぴあ": ""
+        "ねれうすすぴあ": "Nereus Spear"
     },
     "384": {
-        "どうのおの": ""
+        "どうのおの": "Copper Axe"
     },
     "385": {
-        "せいどうのおの": ""
+        "せいどうのおの": "Bronze Axe"
     },
     "386": {
-        "らいとあっくす": ""
+        "らいとあっくす": "Light Axe"
     },
     "387": {
-        "てつのおの": ""
+        "てつのおの": "Iron Axe"
     },
     "388": {
-        "ばとるあっくす": ""
+        "ばとるあっくす": "Battle Axe"
     },
     "389": {
-        "はがねのおの": ""
+        "はがねのおの": "Steel Axe"
     },
     "390": {
         "clarity_nt_char_119": "clarity_nt_char_119"
     },
     "391": {
-        "さんぞくのおの": ""
+        "さんぞくのおの": "Bandit Axe"
     },
     "392": {
-        "むーんあっくす": ""
+        "むーんあっくす": "Moon Axe"
     },
     "393": {
-        "たつじんのおの": ""
+        "たつじんのおの": "Pro's Axe"
     },
     "394": {
-        "きんぐあっくす": ""
+        "きんぐあっくす": "King Axe"
     },
     "395": {
-        "えくりぷすあっくす": ""
+        "えくりぷすあっくす": "Eclipse Axe"
     },
     "396": {
-        "かいざーあっくす": ""
+        "かいざーあっくす": "Kaiser Axe"
     },
     "397": {
         "clarity_nt_char_120": "clarity_nt_char_120"
     },
     "398": {
-        "はしゃのおの": ""
+        "はしゃのおの": "Conqueror's Axe"
     },
     "399": {
         "clarity_nt_char_121": "clarity_nt_char_121"
     },
     "400": {
-        "しゃーまんあっくす": ""
+        "しゃーまんあっくす": "Heedoovoodoo Axe"
     },
     "401": {
-        "ふぶきのおの": ""
+        "ふぶきのおの": "Ice Axe"
     },
     "402": {
         "clarity_nt_char_122": "clarity_nt_char_122"
@@ -1209,79 +1209,79 @@
         "ふんさいのおおなた": "Heavy Hatchet"
     },
     "404": {
-        "あぽろんのおの": ""
+        "あぽろんのおの": "Apollo's Axe"
     },
     "405": {
-        "ぐれーとあっくす": ""
+        "ぐれーとあっくす": "Bad Axe"
     },
     "406": {
         "clarity_nt_char_123": "clarity_nt_char_123"
     },
     "407": {
-        "ですとろいやー": ""
+        "ですとろいやー": "Obliteratoriser"
     },
     "408": {
         "くるすあっくす": ""
     },
     "409": {
-        "しるばーあっくす": ""
+        "しるばーあっくす": "Silver Axe"
     },
     "410": {
         "clarity_nt_char_124": "clarity_nt_char_124"
     },
     "411": {
-        "かるさどらあっくす": ""
+        "かるさどらあっくす": "Calsadora Axe"
     },
     "412": {
-        "しょしんしゃようのおの": ""
+        "しょしんしゃようのおの": "Beginners Axe"
     },
     "413": {
         "びじゅうのおの": ""
     },
     "414": {
-        "でゅーくあっくす": ""
+        "でゅーくあっくす": "Aristocrat's Axe"
     },
     "415": {
         "clarity_nt_char_125": "clarity_nt_char_125"
     },
     "416": {
-        "とこやみのおの": ""
+        "とこやみのおの": "Everdark Axe"
     },
     "417": {
-        "いびるあっくす": ""
+        "いびるあっくす": "Axe of Evil"
     },
     "418": {
-        "うぁらんがあっくす": ""
+        "うぁらんがあっくす": "Valanga Axe"
     },
     "419": {
-        "せいおうのおの": ""
+        "せいおうのおの": "Dryspell Axe"
     },
     "420": {
-        "めいおうのおおがまおの": ""
+        "めいおうのおおがまおの": "Dark Lord's Axe"
     },
     "421": {
-        "ぐろーりーあっくす": ""
+        "ぐろーりーあっくす": "Great Axe"
     },
     "422": {
-        "ぱらでぃのあっくす": ""
+        "ぱらでぃのあっくす": "Paladinsaurus Axe"
     },
     "423": {
-        "やくさるふきん": ""
+        "やくさるふきん": "Banana Axe"
     },
     "424": {
-        "えりゅていあのおの": ""
+        "えりゅていあのおの": "Erytheia's Axe"
     },
     "425": {
-        "あんのうんあっくす": ""
+        "あんのうんあっくす": "Unknown Axe"
     },
     "426": {
-        "れっくすのおの": ""
+        "れっくすのおの": "Hacksaurus Axe"
     },
     "427": {
-        "どらぐーんあっくす": ""
+        "どらぐーんあっくす": "Dragoon Axe"
     },
     "428": {
-        "ねれうすあっくす": ""
+        "ねれうすあっくす": "Nereus Axe"
     },
     "429": {
         "clarity_nt_char_126": "clarity_nt_char_126"
@@ -1290,7 +1290,7 @@
         "おおきづち": "Giant Mallet"
     },
     "431": {
-        "れじぇんずはんまー": ""
+        "れじぇんずはんまー": "Legends Hammer"
     },
     "432": {
         "おおかなづち": "Sledgehammer"
@@ -1413,7 +1413,7 @@
         "clarity_nt_char_141": "clarity_nt_char_141"
     },
     "472": {
-        "とこやみのはんまー": ""
+        "とこやみのはんまー": "Everdark Hammer"
     },
     "473": {
         "てんしのてっつい": ""
@@ -1422,7 +1422,7 @@
         "clarity_nt_char_142": "clarity_nt_char_142"
     },
     "475": {
-        "せいおうのはんまー": ""
+        "せいおうのはんまー": "Dryspell Hammer"
     },
     "476": {
         "まえんのおおづち": ""
@@ -1431,7 +1431,7 @@
         "clarity_nt_char_143": "clarity_nt_char_143"
     },
     "478": {
-        "しょしんしゃようのはんまー": ""
+        "しょしんしゃようのはんまー": "Beginners Hammer"
     },
     "479": {
         "うぇすりーはんまー": ""
@@ -1449,7 +1449,7 @@
         "clarity_nt_char_145": "clarity_nt_char_145"
     },
     "484": {
-        "あんのうんはんまー": ""
+        "あんのうんはんまー": "Unknown Hammer"
     },
     "485": {
         "じゃきょうのかなぼう": ""
@@ -1566,7 +1566,7 @@
         "すぱいくろっど": ""
     },
     "523": {
-        "しょしんしゃようのこん": ""
+        "しょしんしゃようのこん": "Beginners Rod"
     },
     "524": {
         "だごんのこん": ""
@@ -1575,7 +1575,7 @@
         "clarity_nt_char_161": "clarity_nt_char_161"
     },
     "526": {
-        "とこやみのこん": ""
+        "とこやみのこん": "Everdark Rod"
     },
     "527": {
         "ごくらくのこん": ""
@@ -1587,10 +1587,10 @@
         "ぽっぷんろっど": ""
     },
     "530": {
-        "せいおうのこん": ""
+        "せいおうのこん": "Dryspell Rod"
     },
     "531": {
-        "やくさるせんこん": ""
+        "やくさるせんこん": "Banana Rod"
     },
     "532": {
         "clarity_nt_char_162": "clarity_nt_char_162"
@@ -1605,7 +1605,7 @@
         "clarity_nt_char_163": "clarity_nt_char_163"
     },
     "536": {
-        "あんのうんろっど": ""
+        "あんのうんろっど": "Unknown Rod"
     },
     "537": {
         "clarity_nt_char_164": "clarity_nt_char_164"
@@ -1623,7 +1623,7 @@
         "clarity_nt_char_166": "clarity_nt_char_166"
     },
     "542": {
-        "ねれうすろっど": ""
+        "ねれうすろっど": "Nereus Rod"
     },
     "543": {
         "へりおすろっど": ""
@@ -1635,25 +1635,25 @@
         "clarity_nt_char_167": "clarity_nt_char_167"
     },
     "546": {
-        "きゃっとくろー": ""
+        "きゃっとくろー": "Cat's Claws"
     },
     "547": {
-        "どうのつめ": ""
+        "どうのつめ": "Copper Claws"
     },
     "548": {
-        "てつのつめ": ""
+        "てつのつめ": "Iron Claws"
     },
     "549": {
-        "はがねのつめ": ""
+        "はがねのつめ": "Steel Claws"
     },
     "550": {
         "clarity_nt_char_168": "clarity_nt_char_168"
     },
     "551": {
-        "はやぶさのつめ": ""
+        "はやぶさのつめ": "Crow's Claws"
     },
     "552": {
-        "しるばーくろー": ""
+        "しるばーくろー": "Silver Claws"
     },
     "553": {
         "まよけのつめ": ""
@@ -1662,139 +1662,139 @@
         "clarity_nt_char_169": "clarity_nt_char_169"
     },
     "555": {
-        "くろひょうのつめ": ""
+        "くろひょうのつめ": "Panther claws"
     },
     "556": {
         "clarity_nt_char_170": "clarity_nt_char_170"
     },
     "557": {
-        "ふぁるこんくろー": ""
+        "ふぁるこんくろー": "Gryphon Talon"
     },
     "558": {
         "clarity_nt_char_171": "clarity_nt_char_171"
     },
     "559": {
-        "どらごんくろー": ""
+        "どらごんくろー": "Dragon Claws"
     },
     "560": {
-        "ほのおのつめ": ""
+        "ほのおのつめ": "Fire Claws"
     },
     "561": {
         "clarity_nt_char_172": "clarity_nt_char_172"
     },
     "562": {
-        "あくまのつめ": ""
+        "あくまのつめ": "Cobra Claws"
     },
     "563": {
         "clarity_nt_char_173": "clarity_nt_char_173"
     },
     "564": {
-        "まじゅうのつめ": ""
+        "まじゅうのつめ": "Beast Claws"
     },
     "565": {
-        "こぶどうのつめ": ""
+        "こぶどうのつめ": "Crimson Claws"
     },
     "566": {
-        "ぷらちなくろー": ""
+        "ぷらちなくろー": "Platinum Claws"
     },
     "567": {
-        "こおりのつめ": ""
+        "こおりのつめ": "Ice Claws"
     },
     "568": {
         "clarity_nt_char_174": "clarity_nt_char_174"
     },
     "569": {
-        "めいじゅうのつめ": ""
+        "めいじゅうのつめ": "Monster Slasher"
     },
     "570": {
         "clarity_nt_char_175": "clarity_nt_char_175"
     },
     "571": {
-        "りゅうおうのつめ": ""
+        "りゅうおうのつめ": "Dragonlord Claw"
     },
     "572": {
         "clarity_nt_char_176": "clarity_nt_char_176"
     },
     "573": {
-        "くりすたるくろー": ""
+        "くりすたるくろー": "Crystal Claws"
     },
     "574": {
         "clarity_nt_char_177": "clarity_nt_char_177"
     },
     "575": {
-        "けいおすねいる": ""
+        "けいおすねいる": "Chaos Nail"
     },
     "576": {
-        "せいどうのつめ": ""
+        "せいどうのつめ": "Bronze Claws"
     },
     "577": {
-        "こあくまねいる": ""
+        "こあくまねいる": "Infernails"
     },
     "578": {
-        "しょしんしゃようのつめ": ""
+        "しょしんしゃようのつめ": "Beginners Claws"
     },
     "579": {
         "ごーれむぱんち": ""
     },
     "580": {
-        "ふぁんきーねいる": ""
+        "ふぁんきーねいる": "Funky Nails"
     },
     "581": {
         "clarity_nt_char_178": "clarity_nt_char_178"
     },
     "582": {
-        "とこやみのつめ": ""
+        "とこやみのつめ": "Everdark Claw"
     },
     "583": {
         "ねこぱんち": ""
     },
     "584": {
-        "きゃぷてんくろー": ""
+        "きゃぷてんくろー": "Captain's Hooks"
     },
     "585": {
         "clarity_nt_char_179": "clarity_nt_char_179"
     },
     "586": {
-        "そうえんのつめ": ""
+        "そうえんのつめ": "Frostfire Claws"
     },
     "587": {
-        "せいおうのつめ": ""
+        "せいおうのつめ": "Dryspell Claw"
     },
     "588": {
-        "しゅぱるとくろー": ""
+        "しゅぱるとくろー": "Rift Claws"
     },
     "589": {
         "clarity_nt_char_180": "clarity_nt_char_180"
     },
     "590": {
-        "えんしぇんとくろー": ""
+        "えんしぇんとくろー": "Olde-Worlde Clawse"
     },
     "591": {
-        "ぽんぽんくろー": ""
+        "ぽんぽんくろー": "Pompom Claws"
     },
     "592": {
-        "あんのうんくろー": ""
+        "あんのうんくろー": "Unknown Claws"
     },
     "593": {
         "clarity_nt_char_181": "clarity_nt_char_181"
     },
     "594": {
-        "まがつとりのつめ": ""
+        "まがつとりのつめ": "Calamity Bird Claws"
     },
     "595": {
         "clarity_nt_char_182": "clarity_nt_char_182"
     },
     "596": {
-        "ふぁるしおんくろー": ""
+        "ふぁるしおんくろー": "Falchion Claws"
     },
     "597": {
-        "ねれうすくろー": ""
+        "ねれうすくろー": "Nereus Claw"
     },
     "598": {
-        "こぶたなっくる": ""
+        "こぶたなっくる": "Piglet Knuckle"
     },
     "599": {
-        "ひよこなっくる": ""
+        "ひよこなっくる": "Chick Knuckle"
     },
     "600": {
         "はねおうぎ": "Feather Fan"
@@ -1866,7 +1866,7 @@
         "まじっくふぁん": ""
     },
     "623": {
-        "れじぇんずふぁん": ""
+        "れじぇんずふぁん": "Legends Fan"
     },
     "624": {
         "clarity_nt_char_193": "clarity_nt_char_193"
@@ -1920,7 +1920,7 @@
         "clarity_nt_char_200": "clarity_nt_char_200"
     },
     "641": {
-        "しょしんしゃようのおうぎ": ""
+        "しょしんしゃようのおうぎ": "Beginners Fan"
     },
     "642": {
         "clarity_nt_char_201": "clarity_nt_char_201"
@@ -1941,7 +1941,7 @@
         "てんぐのうちわ": ""
     },
     "648": {
-        "とこやみのおうぎ": ""
+        "とこやみのおうぎ": "Everdark Fan"
     },
     "649": {
         "clarity_nt_char_204": "clarity_nt_char_204"
@@ -1962,7 +1962,7 @@
         "clarity_nt_char_206": "clarity_nt_char_206"
     },
     "655": {
-        "せいおうのおうぎ": ""
+        "せいおうのおうぎ": "Dryspell Fan"
     },
     "656": {
         "clarity_nt_char_207": "clarity_nt_char_207"
@@ -1974,10 +1974,10 @@
         "clarity_nt_char_208": "clarity_nt_char_208"
     },
     "659": {
-        "やくさるせんす": ""
+        "やくさるせんす": "Banana Fan"
     },
     "660": {
-        "あんのうんふぁん": ""
+        "あんのうんふぁん": "Unknown Fan"
     },
     "661": {
         "clarity_nt_char_209": "clarity_nt_char_209"
@@ -1989,7 +1989,7 @@
         "clarity_nt_char_210": "clarity_nt_char_210"
     },
     "664": {
-        "ねれうすふぁん": ""
+        "ねれうすふぁん": "Nereus Fan"
     },
     "665": {
         "まいゆのうちわ": ""
@@ -2004,79 +2004,79 @@
         "あんるしあのうちわ": ""
     },
     "669": {
-        "かわのむち": ""
+        "かわのむち": "Leather Whip"
     },
     "670": {
-        "いばらのむち": ""
+        "いばらのむち": "Thorn Whip"
     },
     "671": {
         "clarity_nt_char_212": "clarity_nt_char_212"
     },
     "672": {
-        "ばとるりぼん": ""
+        "ばとるりぼん": "Battle Whip"
     },
     "673": {
         "clarity_nt_char_213": "clarity_nt_char_213"
     },
     "674": {
-        "へびがわのむち": ""
+        "へびがわのむち": "Snakeskin Whip"
     },
     "675": {
-        "てつのむち": ""
+        "てつのむち": "Iron Whip"
     },
     "676": {
-        "ぱいそんうぃっぷ": ""
+        "ぱいそんうぃっぷ": "Python Whip"
     },
     "677": {
         "clarity_nt_char_214": "clarity_nt_char_214"
     },
     "678": {
-        "びーすとうぃっぷ": ""
+        "びーすとうぃっぷ": "Beastly Bullwhip"
     },
     "679": {
         "clarity_nt_char_215": "clarity_nt_char_215"
     },
     "680": {
-        "さいどわいんだー": ""
+        "さいどわいんだー": "Sidewinder"
     },
     "681": {
         "clarity_nt_char_216": "clarity_nt_char_216"
     },
     "682": {
-        "どらごんている": ""
+        "どらごんている": "Dragontail Whip"
     },
     "683": {
-        "ろーずうぃっぷ": ""
+        "ろーずうぃっぷ": "Rosewhip"
     },
     "684": {
-        "みわくのりぼん": ""
+        "みわくのりぼん": "Hypnowhip"
     },
     "685": {
-        "すこーぴおんている": ""
+        "すこーぴおんている": "Scorpion Tail"
     },
     "686": {
-        "あくまのむち": ""
+        "あくまのむち": "Demon's Whip"
     },
     "687": {
         "clarity_nt_char_217": "clarity_nt_char_217"
     },
     "688": {
-        "まじんのむち": ""
+        "まじんのむち": "Beelzebarb"
     },
     "689": {
         "clarity_nt_char_218": "clarity_nt_char_218"
     },
     "690": {
-        "じょおうのむち": ""
+        "じょおうのむち": "Queen's Whip"
     },
     "691": {
-        "ばすたーうぃっぷ": ""
+        "ばすたーうぃっぷ": "Scourge Whip"
     },
     "692": {
         "clarity_nt_char_219": "clarity_nt_char_219"
     },
     "693": {
-        "かるべろびゅーと": ""
+        "かるべろびゅーと": "Wizardly Whip"
     },
     "694": {
         "clarity_nt_char_220": "clarity_nt_char_220"
@@ -2088,55 +2088,55 @@
         "clarity_nt_char_221": "clarity_nt_char_221"
     },
     "697": {
-        "もーにんぐすたー": ""
+        "もーにんぐすたー": "Morning Star"
     },
     "698": {
         "clarity_nt_char_222": "clarity_nt_char_222"
     },
     "699": {
-        "さーぺんとうぃっぷ": ""
+        "さーぺんとうぃっぷ": "Serpent Whip"
     },
     "700": {
-        "はがねのむち": ""
+        "はがねのむち": "Spiked Steel Whip"
     },
     "701": {
         "clarity_nt_char_223": "clarity_nt_char_223"
     },
     "702": {
-        "とらいでんとている": ""
+        "とらいでんとている": "Triple-Tine Whip"
     },
     "703": {
-        "しょしんしゃようのむち": ""
+        "しょしんしゃようのむち": "Beginners Whip"
     },
     "704": {
-        "とこやみのむち": ""
+        "とこやみのむち": "Everdark Whip"
     },
     "705": {
-        "れじぇんずうぃっぷ": ""
+        "れじぇんずうぃっぷ": "Legends Whip"
     },
     "706": {
-        "うぉいどあんかー": ""
+        "うぉいどあんかー": "Anchor of Rancour"
     },
     "707": {
         "clarity_nt_char_224": "clarity_nt_char_224"
     },
     "708": {
-        "ふりーずうぃっぷ": ""
+        "ふりーずうぃっぷ": "Malevolash"
     },
     "709": {
         "clarity_nt_char_225": "clarity_nt_char_225"
     },
     "710": {
-        "くろすぺんでゅらむ": ""
+        "くろすぺんでゅらむ": "Cross Pendulum"
     },
     "711": {
-        "せいおうのむち": ""
+        "せいおうのむち": "Dryspell Whip"
     },
     "712": {
-        "あんのうんうぃっぷ": ""
+        "あんのうんうぃっぷ": "Unknown Whip"
     },
     "713": {
-        "すらいむうぃっぷ": ""
+        "すらいむうぃっぷ": "Slime Whip"
     },
     "714": {
         "clarity_nt_char_226": "clarity_nt_char_226"
@@ -2145,25 +2145,25 @@
         "くさりがま": "Chain Sickle"
     },
     "716": {
-        "ねれうすうぃっぷ": ""
+        "ねれうすうぃっぷ": "Nereus Whip"
     },
     "717": {
         "clarity_nt_char_227": "clarity_nt_char_227"
     },
     "718": {
-        "ぼるけーのうぃっぷ": ""
+        "ぼるけーのうぃっぷ": "Volcano Whip"
     },
     "719": {
-        "くろねこのむち": ""
+        "くろねこのむち": "Black Cat Whip"
     },
     "720": {
-        "あすてるうぃっぷ": ""
+        "あすてるうぃっぷ": "Aster Whip"
     },
     "721": {
         "clarity_nt_char_228": "clarity_nt_char_228"
     },
     "722": {
-        "まじょはばねろのむち": ""
+        "まじょはばねろのむち": "Witch Habanero Whip"
     },
     "723": {
         "clarity_nt_char_229": "clarity_nt_char_229"
@@ -2226,7 +2226,7 @@
         "ほのおのぶーめらん": ""
     },
     "743": {
-        "れじぇんずうぃんぐ": ""
+        "れじぇんずうぃんぐ": "Legends Wing"
     },
     "744": {
         "こおりのぶーめらん": ""
@@ -2304,7 +2304,7 @@
         "clarity_nt_char_246": "clarity_nt_char_246"
     },
     "769": {
-        "とこやみのぶーめらん": ""
+        "とこやみのぶーめらん": "Everdark Boomerang"
     },
     "770": {
         "clarity_nt_char_247": "clarity_nt_char_247"
@@ -2319,16 +2319,16 @@
         "びーなすえっじ": ""
     },
     "774": {
-        "せいおうのぶーめらん": ""
+        "せいおうのぶーめらん": "Dryspell Boomerang"
     },
     "775": {
         "clarity_nt_char_249": "clarity_nt_char_249"
     },
     "776": {
-        "しょしんしゃようぶーめらん": ""
+        "しょしんしゃようぶーめらん": "Beginners Boomerang"
     },
     "777": {
-        "やくさるとうじん": ""
+        "やくさるとうじん": "Bananarang"
     },
     "778": {
         "clarity_nt_char_250": "clarity_nt_char_250"
@@ -2340,7 +2340,7 @@
         "clarity_nt_char_251": "clarity_nt_char_251"
     },
     "781": {
-        "あんのうんえっじ": ""
+        "あんのうんえっじ": "Unknown Edge"
     },
     "782": {
         "clarity_nt_char_252": "clarity_nt_char_252"
@@ -2352,7 +2352,7 @@
         "clarity_nt_char_253": "clarity_nt_char_253"
     },
     "785": {
-        "ねれうすえっじ": ""
+        "ねれうすえっじ": "Nereus Edge"
     },
     "786": {
         "くろねこのぶーめらん": ""
@@ -2475,7 +2475,7 @@
         "おるふぇうすのゆみ": ""
     },
     "826": {
-        "とこやみのゆみ": ""
+        "とこやみのゆみ": "Everdark Bow"
     },
     "827": {
         "あんふぃすばえな": ""
@@ -2487,10 +2487,10 @@
         "あやかしのまきゅう": ""
     },
     "830": {
-        "せいおうのゆみ": ""
+        "せいおうのゆみ": "Dryspell Bow"
     },
     "831": {
-        "しょしんしゃようのゆみ": ""
+        "しょしんしゃようのゆみ": "Beginners Bow"
     },
     "832": {
         "しるふぃーど": ""
@@ -2505,7 +2505,7 @@
         "clarity_nt_char_271": "clarity_nt_char_271"
     },
     "836": {
-        "あんのうんしょっと": ""
+        "あんのうんしょっと": "Unknown Bow"
     },
     "837": {
         "すらいむしょっと": ""
@@ -2514,7 +2514,7 @@
         "clarity_nt_char_272": "clarity_nt_char_272"
     },
     "839": {
-        "ねれうすしょっと": ""
+        "ねれうすしょっと": "Nereus Bow"
     },
     "840": {
         "clarity_nt_char_273": "clarity_nt_char_273"
@@ -2532,13 +2532,13 @@
         "せいしんのたて": ""
     },
     "845": {
-        "せいおうのたて": ""
+        "せいおうのたて": "Dryspell Shd"
     },
     "846": {
         "うるべあのおおたて": ""
     },
     "847": {
-        "とこやみのおおたて": ""
+        "とこやみのおおたて": "Everdark Grtshd"
     },
     "848": {
         "ぜれすたいとのおおたて": ""
@@ -2547,7 +2547,7 @@
         "ふううんのおおたて": ""
     },
     "850": {
-        "せいおうのおおたて": ""
+        "せいおうのおおたて": "Dryspell Grtshd"
     },
     "851": {
         "にゅーぶいろんのたて": ""
@@ -2625,7 +2625,7 @@
         "すたーりーしーるど": ""
     },
     "876": {
-        "あんのうんしーるど": ""
+        "あんのうんしーるど": "Unknown Shield"
     },
     "877": {
         "しゃーまんしーるど": ""
@@ -2727,22 +2727,22 @@
         "ふくまねくつえ": ""
     },
     "910": {
-        "すたーりーすたっふ": ""
+        "すたーりーすたっふ": "Starry Staff"
     },
     "911": {
-        "あんのうんわんど": ""
+        "あんのうんわんど": "Unknown Staff"
     },
     "912": {
         "clarity_nt_char_297": "clarity_nt_char_297"
     },
     "913": {
-        "きめんどうしのつえ": "Lump Shaman's Cane"
+        "きめんどうしのつえ": "Lump Shaman Cane"
     },
     "914": {
-        "ねれうすわんど": ""
+        "ねれうすわんど": "Nereus Staff"
     },
     "915": {
-        "えんしぇんとわんど": ""
+        "えんしぇんとわんど": "Olde-Worlde Staffe"
     },
     "916": {
         "てんけいせきのつえ": ""
@@ -2754,19 +2754,19 @@
         "clarity_nt_char_298": "clarity_nt_char_298"
     },
     "919": {
-        "あんのうんすてっき": ""
+        "あんのうんすてっき": "Unknown Wand"
     },
     "920": {
-        "えいがのおうしゃく": ""
+        "えいがのおうしゃく": "King's Splendor"
     },
     "921": {
-        "ぷちあのたくと": ""
+        "ぷちあのたくと": "Khalamari Kid Baton"
     },
     "922": {
-        "ねれうすすてぃっく": ""
+        "ねれうすすてぃっく": "Nereus Wand"
     },
     "923": {
-        "りとるふぇざー": ""
+        "りとるふぇざー": "Little Feather"
     },
     "924": {
         "あかいかさ": ""
@@ -3120,7 +3120,7 @@
         "えぬこうのはた": ""
     },
     "1041": {
-        "れじぇんずしょっと": ""
+        "れじぇんずしょっと": "Legends Bow"
     },
     "1042": {
         "そーさりーりんぐ": ""
@@ -5277,7 +5277,7 @@
         "clarity_nt_char_562": "clarity_nt_char_562"
     },
     "1760": {
-        "みかわしのぼうし": "Goose Cap"
+        "みかわしのぼうし": "Dodge Cap"
     },
     "1761": {
         "clarity_nt_char_563": "clarity_nt_char_563"
@@ -6405,7 +6405,7 @@
         "うぇすたんすぱっつ": ""
     },
     "2136": {
-        "みかわしのふくした": ""
+        "みかわしのふくした": "Dodge Clothes Lower"
     },
     "2137": {
         "そうへいのころもした": ""
@@ -6711,7 +6711,7 @@
         "clarity_nt_char_722": "clarity_nt_char_722"
     },
     "2238": {
-        "どらぐーんめいるした": ""
+        "どらぐーんめいるした": "Dragoon Mail Bottom"
     },
     "2239": {
         "clarity_nt_char_723": "clarity_nt_char_723"
@@ -7842,7 +7842,7 @@
         "clarity_nt_char_846": "clarity_nt_char_846"
     },
     "2615": {
-        "どらぐーんあーむ": ""
+        "どらぐーんあーむ": "Dragoon Gauntlets"
     },
     "2616": {
         "clarity_nt_char_847": "clarity_nt_char_847"
@@ -8601,7 +8601,7 @@
         "clarity_nt_char_930": "clarity_nt_char_930"
     },
     "2868": {
-        "みかわしのくつ": "Goose Boots"
+        "みかわしのくつ": "Dodge Boots"
     },
     "2869": {
         "まほうせんしだんぶーつ": ""
@@ -9738,7 +9738,7 @@
         "clarity_nt_char_1059": "clarity_nt_char_1059"
     },
     "3247": {
-        "びくとりーぼっくす３": "Victory Box Ⅲ"
+        "びくとりーぼっくす３": "Victory Box III"
     },
     "3248": {
         "clarity_nt_char_1060": "clarity_nt_char_1060"
@@ -14490,7 +14490,7 @@
         "clarity_nt_char_1585": "clarity_nt_char_1585"
     },
     "4831": {
-        "みかわしおむれつ": "Duck Omelet"
+        "みかわしおむれつ": "Dodge Omelet"
     },
     "4832": {
         "clarity_nt_char_1586": "clarity_nt_char_1586"
@@ -14748,7 +14748,7 @@
         "えっちなしたぎ": ""
     },
     "4917": {
-        "ふくまねきのたぬきぞう": ""
+        "ふくまねきのたぬきぞう": "Fortune Weaver Cane"
     },
     "4918": {
         "わかめすーぷ": ""
@@ -15774,7 +15774,7 @@
         "はさいしょうのはんまー": ""
     },
     "5259": {
-        "ぶがいしょうのおの": ""
+        "ぶがいしょうのおの": "Zombie General Axe"
     },
     "5260": {
         "おーれんりょうてつえ": ""
@@ -15795,13 +15795,13 @@
         "clarity_nt_char_1721": "clarity_nt_char_1721"
     },
     "5266": {
-        "れじぇんずわんど": ""
+        "れじぇんずわんど": "Legends Staff"
     },
     "5267": {
         "clarity_nt_char_1722": "clarity_nt_char_1722"
     },
     "5268": {
-        "いっどのつえ": ""
+        "いっどのつえ": "Id's Staff"
     },
     "5269": {
         "clarity_nt_char_1723": "clarity_nt_char_1723"
@@ -15810,19 +15810,19 @@
         "がらてあのしんそう": ""
     },
     "5271": {
-        "れじぇんずらんす": ""
+        "れじぇんずらんす": "Legends Lance"
     },
     "5272": {
         "clarity_nt_char_1724": "clarity_nt_char_1724"
     },
     "5273": {
-        "でざーとすぷーん": ""
+        "でざーとすぷーん": "Dessert Spoon"
     },
     "5274": {
         "clarity_nt_char_1725": "clarity_nt_char_1725"
     },
     "5275": {
-        "れじぇんずあっくす": ""
+        "れじぇんずあっくす": "Legends Axe"
     },
     "5276": {
         "ひょうがのこん": ""
@@ -15840,7 +15840,7 @@
         "clarity_nt_char_1727": "clarity_nt_char_1727"
     },
     "5281": {
-        "れじぇんずろっど": ""
+        "れじぇんずろっど": "Legends Rod"
     },
     "5282": {
         "clarity_nt_char_1728": "clarity_nt_char_1728"
@@ -15855,19 +15855,19 @@
         "clarity_nt_char_1729": "clarity_nt_char_1729"
     },
     "5286": {
-        "さざえくろー": ""
+        "さざえくろー": "Turban Shell Claws"
     },
     "5287": {
         "clarity_nt_char_1730": "clarity_nt_char_1730"
     },
     "5288": {
-        "れじぇんずくろー": ""
+        "れじぇんずくろー": "Legends Claw"
     },
     "5289": {
         "clarity_nt_char_1731": "clarity_nt_char_1731"
     },
     "5290": {
-        "ごーじゃすうぃっぷ": ""
+        "ごーじゃすうぃっぷ": "Gorgeous Whip"
     },
     "5291": {
         "ひすとりかのうちわ": ""
@@ -15891,7 +15891,7 @@
         "clarity_nt_char_1734": "clarity_nt_char_1734"
     },
     "5298": {
-        "にしきごいのたんけん": ""
+        "にしきごいのたんけん": "Colorful Carp Dagger"
     },
     "5299": {
         "clarity_nt_char_1735": "clarity_nt_char_1735"
@@ -16293,7 +16293,7 @@
         "clarity_nt_char_1782": "clarity_nt_char_1782"
     },
     "5432": {
-        "れじぇんずけーす": ""
+        "れじぇんずけーす": "Legends Case"
     },
     "5433": {
         "clarity_nt_char_1783": "clarity_nt_char_1783"
@@ -16749,7 +16749,7 @@
         "clarity_nt_char_1836": "clarity_nt_char_1836"
     },
     "5584": {
-        "どらぐーんめいるうえ": ""
+        "どらぐーんめいるうえ": "Dragoon Mail Top"
     },
     "5585": {
         "clarity_nt_char_1837": "clarity_nt_char_1837"
@@ -17031,7 +17031,7 @@
         "clarity_nt_char_1865": "clarity_nt_char_1865"
     },
     "5678": {
-        "どらぐーんへるむ": ""
+        "どらぐーんへるむ": "Dragoon Helm"
     },
     "5679": {
         "clarity_nt_char_1866": "clarity_nt_char_1866"
@@ -17340,7 +17340,7 @@
         "よげんしゃがくえんじょがくせいぐつ": ""
     },
     "5781": {
-        "どらぐーんぐりーぶ": ""
+        "どらぐーんぐりーぶ": "Dragoon Greaves"
     },
     "5782": {
         "くろねこのぶーつ": ""
@@ -17607,7 +17607,7 @@
         "clarity_nt_char_1926": "clarity_nt_char_1926"
     },
     "5870": {
-        "しんそうのれぷりか": ""
+        "しんそうのれぷりか": "God Spear Replica"
     },
     "5871": {
         "ぎるがらんのふくうえ": ""
@@ -17952,40 +17952,40 @@
         "くない": "Ninja Knf"
     },
     "5985": {
-        "きりさきだがー": ""
+        "きりさきだがー": "Prickly Dagger"
     },
     "5986": {
-        "ねれうすだがー": ""
+        "ねれうすだがー": "Nereus Dagger"
     },
     "5987": {
-        "ろーぜんにーどる": ""
+        "ろーぜんにーどる": "Rosen Needle"
     },
     "5988": {
         "clarity_nt_char_1959": "clarity_nt_char_1959"
     },
     "5989": {
-        "くろねこのたんけん": ""
+        "くろねこのたんけん": "Black Cat Knife"
     },
     "5990": {
-        "がてりあのほうけん": ""
+        "がてりあのほうけん": "Sword of Gateria"
     },
     "5991": {
-        "れじぇんずえっじ": ""
+        "れじぇんずえっじ": "Legends Edge"
     },
     "5992": {
         "clarity_nt_char_1960": "clarity_nt_char_1960"
     },
     "5993": {
-        "らいとすてぃっく": ""
+        "らいとすてぃっく": "Light Stick"
     },
     "5994": {
         "clarity_nt_char_1961": "clarity_nt_char_1961"
     },
     "5995": {
-        "ばーじにあすてっき": ""
+        "ばーじにあすてっき": "Virginia Stick"
     },
     "5996": {
-        "きのこのすてぃっく": ""
+        "きのこのすてぃっく": "Mushroom Wand"
     },
     "5997": {
         "ぷすごんすてっき": ""
@@ -17994,52 +17994,52 @@
         "clarity_nt_char_1962": "clarity_nt_char_1962"
     },
     "5999": {
-        "がぶりえるのやり": ""
+        "がぶりえるのやり": "Gabriel's Spear"
     },
     "6000": {
         "clarity_nt_char_1963": "clarity_nt_char_1963"
     },
     "6001": {
-        "しんごのなぎなた": ""
+        "しんごのなぎなた": "God's Halberd"
     },
     "6002": {
         "clarity_nt_char_1964": "clarity_nt_char_1964"
     },
     "6003": {
-        "でぃばいんらんす": ""
+        "でぃばいんらんす": "Divine Lance"
     },
     "6004": {
         "clarity_nt_char_1965": "clarity_nt_char_1965"
     },
     "6005": {
-        "ごうらいのやり": ""
+        "ごうらいのやり": "Thunder Spear"
     },
     "6006": {
-        "へかとんけいる": ""
+        "へかとんけいる": "Hecatoncheires"
     },
     "6007": {
-        "でぃばいんあっくす": ""
+        "でぃばいんあっくす": "Divine Axe"
     },
     "6008": {
-        "がいあのおの": ""
+        "がいあのおの": "Gaia's Axe"
     },
     "6009": {
         "clarity_nt_char_1966": "clarity_nt_char_1966"
     },
     "6010": {
-        "るーじゅあっくす": ""
+        "るーじゅあっくす": "Rouge Rhino Axe"
     },
     "6011": {
         "clarity_nt_char_1967": "clarity_nt_char_1967"
     },
     "6012": {
-        "くろねこのつめ": ""
+        "くろねこのつめ": "Black Cat Claws"
     },
     "6013": {
-        "すらいだーくくろー": ""
+        "すらいだーくくろー": "Nemeslime Claws"
     },
     "6014": {
-        "どらごんくろーかい": ""
+        "どらごんくろーかい": "Uber Dragon Claws"
     },
     "6015": {
         "ろとのたて": ""
@@ -18057,7 +18057,7 @@
         "clarity_nt_char_1969": "clarity_nt_char_1969"
     },
     "6020": {
-        "ねれうすしーるど": ""
+        "ねれうすしーるど": "Nereus Shield"
     },
     "6021": {
         "clarity_nt_char_1970": "clarity_nt_char_1970"
@@ -18078,7 +18078,7 @@
         "clarity_nt_char_1972": "clarity_nt_char_1972"
     },
     "6027": {
-        "れじぇんずしーるど": ""
+        "れじぇんずしーるど": "Legends Shield"
     },
     "6028": {
         "ちいさなめだるのたて": ""
@@ -18087,7 +18087,7 @@
         "clarity_nt_char_1973": "clarity_nt_char_1973"
     },
     "6030": {
-        "れじぇんずがーど": ""
+        "れじぇんずがーど": "Legends Guard"
     },
     "6031": {
         "clarity_nt_char_1974": "clarity_nt_char_1974"
@@ -18156,7 +18156,7 @@
         "ぼーんはんまー": ""
     },
     "6053": {
-        "ねれうすはんまー": ""
+        "ねれうすはんまー": "Nereus Hammer"
     },
     "6054": {
         "clarity_nt_char_1982": "clarity_nt_char_1982"
@@ -18201,7 +18201,7 @@
         "clarity_nt_char_1986": "clarity_nt_char_1986"
     },
     "6068": {
-        "ねれうすますく": ""
+        "ねれうすますく": "Nereus Mask"
     },
     "6069": {
         "ひよこのますく": ""
@@ -27192,64 +27192,64 @@
         "はっぴーはーと": "Happy Heart"
     },
     "9065": {
-        "せいおうのつるぎのへきが": "Dryspell Sabre Recipe"
+        "せいおうのつるぎのへきが": "Dryspell Sabre Book"
     },
     "9066": {
         "clarity_nt_char_2991": "clarity_nt_char_2991"
     },
     "9067": {
-        "せいおうのたいけんのへきが": "Dryspell Blade Recipe"
+        "せいおうのたいけんのへきが": "Dryspell Blade Book"
     },
     "9068": {
-        "せいおうのないふのへきが": ""
+        "せいおうのないふのへきが": "Dryspell Knife Book"
     },
     "9069": {
         "clarity_nt_char_2992": "clarity_nt_char_2992"
     },
     "9070": {
-        "せいおうのやりのへきが": ""
+        "せいおうのやりのへきが": "Dryspell Spear Book"
     },
     "9071": {
-        "せいおうのおののへきが": ""
+        "せいおうのおののへきが": "Dryspell Axe Book"
     },
     "9072": {
-        "せいおうのはんまーのへきが": ""
+        "せいおうのはんまーのへきが": "Dryspell Hammer Book"
     },
     "9073": {
-        "せいおうのつめのへきが": ""
+        "せいおうのつめのへきが": "Dryspell Claw Book"
     },
     "9074": {
-        "せいおうのむちのへきが": ""
+        "せいおうのむちのへきが": "Dryspell Whip Book"
     },
     "9075": {
-        "せいおうのぶーめらんのへきが": ""
+        "せいおうのぶーめらんのへきが": "Dryspell Boomerang Book"
     },
     "9076": {
         "clarity_nt_char_2993": "clarity_nt_char_2993"
     },
     "9077": {
-        "せいおうのすてぃっくのへきが": ""
+        "せいおうのすてぃっくのへきが": "Dryspell Wand Book"
     },
     "9078": {
         "clarity_nt_char_2994": "clarity_nt_char_2994"
     },
     "9079": {
-        "せいおうのつえのへきが": ""
+        "せいおうのつえのへきが": "Dryspell Staff Book"
     },
     "9080": {
-        "せいおうのおうぎのへきが": ""
+        "せいおうのおうぎのへきが": "Dryspell Fan Book"
     },
     "9081": {
         "clarity_nt_char_2995": "clarity_nt_char_2995"
     },
     "9082": {
-        "せいおうのゆみのへきが": ""
+        "せいおうのゆみのへきが": "Dryspell Bow Book"
     },
     "9083": {
-        "せいおうのたてのへきが": ""
+        "せいおうのたてのへきが": "Dryspell Shield Book"
     },
     "9084": {
-        "せいおうのおおたてのへきが": ""
+        "せいおうのおおたてのへきが": "Dryspell Grtshd Book"
     },
     "9085": {
         "ひつじのころものえほん": "Sheep Outfit Recipe"
@@ -27402,7 +27402,7 @@
         "かいしんばーがーのほん": "Critical Burger Recipe"
     },
     "9135": {
-        "みかわしおむれつちょうりほう": "Duck Omelet Recipe"
+        "みかわしおむれつちょうりほう": "Dodge Omelet Recipe"
     },
     "9136": {
         "clarity_nt_char_3011": "clarity_nt_char_3011"
@@ -27507,7 +27507,7 @@
         "clarity_nt_char_3022": "clarity_nt_char_3022"
     },
     "9170": {
-        "らいとにんぐだがーのしょ": ""
+        "らいとにんぐだがーのしょ": "Thunderstorm Skean Book"
     },
     "9171": {
         "clarity_nt_char_3023": "clarity_nt_char_3023"
@@ -27519,10 +27519,10 @@
         "clarity_nt_char_3024": "clarity_nt_char_3024"
     },
     "9174": {
-        "くりすたるくろーのほん": ""
+        "くりすたるくろーのほん": "Crystal Claws Book"
     },
     "9175": {
-        "とらいでんとているのしょ": ""
+        "とらいでんとているのしょ": "Triple-Tine Whip Book"
     },
     "9176": {
         "clarity_nt_char_3025": "clarity_nt_char_3025"
@@ -28272,22 +28272,22 @@
         "clarity_nt_char_3104": "clarity_nt_char_3104"
     },
     "9425": {
-        "どくりゅうとうばつたいのきろく": ""
+        "どくりゅうとうばつたいのきろく": "Serpentscale Skean Book"
     },
     "9426": {
-        "ぶらっどひすとりー": ""
+        "ぶらっどひすとりー": "Barbarous History"
     },
     "9427": {
-        "でゅーくあっくすせんき": ""
+        "でゅーくあっくすせんき": "Aristocrat's Axe Book"
     },
     "9428": {
         "ばれっとはんまーさくせいじゅつ": ""
     },
     "9429": {
-        "あるせんちょうのこうかいにっし": ""
+        "あるせんちょうのこうかいにっし": "Captain's Logbook"
     },
     "9430": {
-        "しゃる　うぃ　ふりーず": ""
+        "しゃる　うぃ　ふりーず": "Shall We Freeze"
     },
     "9431": {
         "ちゃくらむしきまじゅつきょうほん": ""
@@ -28476,10 +28476,10 @@
         "ほしのもっこうとう": "Star Wdwk Knife"
     },
     "9493": {
-        "すいしょうけんとうつろなまじょ": ""
+        "すいしょうけんとうつろなまじょ": "Crystal Edge Book"
     },
     "9494": {
-        "あてなのけいふ": ""
+        "あてなのけいふ": "Sacred Genealogy"
     },
     "9495": {
         "どうのふらいぱん": "Copper Fry Pan"
@@ -28518,7 +28518,7 @@
         "clarity_nt_char_3128": "clarity_nt_char_3128"
     },
     "9507": {
-        "きょうこくのヴぁらんが": ""
+        "きょうこくのヴぁらんが": "Valanga Canyon"
     },
     "9508": {
         "やさしいてっついのくだしかた": ""
@@ -28527,7 +28527,7 @@
         "clarity_nt_char_3129": "clarity_nt_char_3129"
     },
     "9510": {
-        "そうえんでん": ""
+        "そうえんでん": "Frostfire"
     },
     "9511": {
         "clarity_nt_char_3130": "clarity_nt_char_3130"
@@ -28563,7 +28563,7 @@
         "ほしのれんきんつぼ": "Star Alch Pot"
     },
     "9522": {
-        "あるふなのりのしゅき": ""
+        "あるふなのりのしゅき": "Sailor's Memoir"
     },
     "9523": {
         "clarity_nt_char_3133": "clarity_nt_char_3133"
@@ -28725,7 +28725,7 @@
         "clarity_nt_char_3152": "clarity_nt_char_3152"
     },
     "9576": {
-        "なみだのたくとすとーりー": ""
+        "なみだのたくとすとーりー": "Tearful Wand Story"
     },
     "9577": {
         "clarity_nt_char_3153": "clarity_nt_char_3153"
@@ -28956,22 +28956,22 @@
         "clarity_nt_char_3179": "clarity_nt_char_3179"
     },
     "9653": {
-        "こだいぶきずせつ　たんけんへん": ""
+        "こだいぶきずせつ　たんけんへん": "Book of Ancient Daggers"
     },
     "9654": {
         "おおとりのはばたき": ""
     },
     "9655": {
-        "えいこうとおうふのほん": ""
+        "えいこうとおうふのほん": "Great Axe Book"
     },
     "9656": {
         "たけきほのおとうずまくやみ": ""
     },
     "9657": {
-        "こだいぶきずせつ　つめへん": ""
+        "こだいぶきずせつ　つめへん": "Book of Ancient Claws"
     },
     "9658": {
-        "ふりこのやくそく": ""
+        "ふりこのやくそく": "Pendulum's Promise"
     },
     "9659": {
         "clarity_nt_char_3180": "clarity_nt_char_3180"
@@ -28980,7 +28980,7 @@
         "ようちょうこばなし": ""
     },
     "9661": {
-        "こだいぶきずせつ　たくとへん": ""
+        "こだいぶきずせつ　たくとへん": "Book of Ancient Wands"
     },
     "9662": {
         "clarity_nt_char_3181": "clarity_nt_char_3181"
@@ -29163,22 +29163,22 @@
         "clarity_nt_char_3200": "clarity_nt_char_3200"
     },
     "9722": {
-        "ふんどのたいけんのつくりかた": ""
+        "ふんどのたいけんのつくりかた": "Making A Fury Blade"
     },
     "9723": {
         "clarity_nt_char_3201": "clarity_nt_char_3201"
     },
     "9724": {
-        "てんがものがたり": ""
+        "てんがものがたり": "Our Galaxy"
     },
     "9725": {
         "clarity_nt_char_3202": "clarity_nt_char_3202"
     },
     "9726": {
-        "たわーらんすがいだんす": ""
+        "たわーらんすがいだんす": "Tower Lance Guidance"
     },
     "9727": {
-        "いびるあっくすみっくす": ""
+        "いびるあっくすみっくす": "Axe of Evil Mixture"
     },
     "9728": {
         "ぎがすくらっぱーけんざん": ""
@@ -29187,16 +29187,16 @@
         "clarity_nt_char_3203": "clarity_nt_char_3203"
     },
     "9730": {
-        "まがつとりうぉっちんぐ": ""
+        "まがつとりうぉっちんぐ": "Calamity Bird Watching"
     },
     "9731": {
-        "うなれすらいむうぃっぷ": ""
+        "うなれすらいむうぃっぷ": "Slime Whip Recipe"
     },
     "9732": {
         "びーなすのほほえみ": ""
     },
     "9733": {
-        "えいがへのきざはし": ""
+        "えいがへのきざはし": "Stairway to Splendor"
     },
     "9734": {
         "じゃじゅつきょうてん": ""
@@ -29346,19 +29346,19 @@
         "りゅうにいどむもの": "Dragon Fighter"
     },
     "9783": {
-        "らいじんのしょくたく": ""
+        "らいじんのしょくたく": "Thor's Table"
     },
     "9784": {
         "clarity_nt_char_3218": "clarity_nt_char_3218"
     },
     "9785": {
-        "てんかいのあるきかた": ""
+        "てんかいのあるきかた": "How To Walk The Heavens"
     },
     "9786": {
         "clarity_nt_char_3219": "clarity_nt_char_3219"
     },
     "9787": {
-        "ひゃくしゅきょじんのてもかりたい": ""
+        "ひゃくしゅきょじんのてもかりたい": "Hecatoncheires' Mercy"
     },
     "9788": {
         "clarity_nt_char_3220": "clarity_nt_char_3220"
@@ -29391,22 +29391,22 @@
         "ちょうりさぎょうぎした": ""
     },
     "9798": {
-        "けいおすしゃほん": ""
+        "けいおすしゃほん": "Chaos Manuscript"
     },
     "9799": {
         "clarity_nt_char_3223": "clarity_nt_char_3223"
     },
     "9800": {
-        "ぼるけーのびじゅつしにゅうもん": ""
+        "ぼるけーのびじゅつしにゅうもん": "History of Volcanoes"
     },
     "9801": {
         "くろみっきょうのひでん": ""
     },
     "9802": {
-        "ちいさなつばさのいのり": ""
+        "ちいさなつばさのいのり": "Little Wing's Prayer"
     },
     "9803": {
-        "こだいぶきずせつ　つえへん": ""
+        "こだいぶきずせつ　つえへん": "Book of Ancient Staves"
     },
     "9804": {
         "へりおすのしゅき": ""
@@ -29556,13 +29556,13 @@
         "clarity_nt_char_3241": "clarity_nt_char_3241"
     },
     "9853": {
-        "ごっどらいくなたいけんさくせい": ""
+        "ごっどらいくなたいけんさくせい": "Godlike Grtswd Creation"
     },
     "9854": {
-        "ごっどらいくなたんけんさくせい": ""
+        "ごっどらいくなたんけんさくせい": "Godlike Dagger Creation"
     },
     "9855": {
-        "ごっどらいくなやりさくせい": ""
+        "ごっどらいくなやりさくせい": "Godlike Spear Creation"
     },
     "9856": {
         "さくらのはなびら": "Cherry Blossom Petal"
@@ -29799,7 +29799,7 @@
         "こだいじゅのかせき": "Tree Fossil"
     },
     "9934": {
-        "ごっどらいくなおのさくせい": ""
+        "ごっどらいくなおのさくせい": "Godlike Axe Creation"
     },
     "9935": {
         "はじめてのぶきかじ": "Beginner Weaponsmithing"
@@ -29868,7 +29868,7 @@
         "おにきすのまけんのほん": "Onyx Magic Sword Book"
     },
     "9957": {
-        "ごっどらいくなてっついさくせい": ""
+        "ごっどらいくなてっついさくせい": "Godlike Hammer Creation"
     },
     "9958": {
         "てんめいのつるぎのしょ": "Sword of Judgment Book"
@@ -29934,25 +29934,25 @@
         "かいざーぶれーどせんき": ""
     },
     "9979": {
-        "ないす　ないふ": ""
+        "ないす　ないふ": "Nice! Knife!"
     },
     "9980": {
-        "いーぐるだがーさくせいじゅつ": ""
+        "いーぐるだがーさくせいじゅつ": "Eagle Dagger Creation"
     },
     "9981": {
         "clarity_nt_char_3280": "clarity_nt_char_3280"
     },
     "9982": {
-        "あんさつぶきのれきし": ""
+        "あんさつぶきのれきし": "Assassin Weapons"
     },
     "9983": {
         "clarity_nt_char_3281": "clarity_nt_char_3281"
     },
     "9984": {
-        "そーどぶれいかーのほん": ""
+        "そーどぶれいかーのほん": "Sword Breaker Book"
     },
     "9985": {
-        "ぞく　あんさつぶきのれきし": ""
+        "ぞく　あんさつぶきのれきし": "Assassin Weapons Cont."
     },
     "9986": {
         "こおりのやいばのしょ": "Icicle Dirk Book"
@@ -29961,28 +29961,28 @@
         "clarity_nt_char_3282": "clarity_nt_char_3282"
     },
     "9988": {
-        "ぐらでぃうすのれしぴ": ""
+        "ぐらでぃうすのれしぴ": "Gladius Recipe"
     },
     "9989": {
         "clarity_nt_char_3283": "clarity_nt_char_3283"
     },
     "9990": {
-        "しん　あんさつぶきのれきし": ""
+        "しん　あんさつぶきのれきし": "True Assassin Weapons"
     },
     "9991": {
-        "おうけのないふぜんしゅう": ""
+        "おうけのないふぜんしゅう": "Nobleman's Knife Set"
     },
     "9992": {
         "clarity_nt_char_3284": "clarity_nt_char_3284"
     },
     "9993": {
-        "さらまんだーのれしぴ": ""
+        "さらまんだーのれしぴ": "Flame Tang Recipe"
     },
     "9994": {
         "clarity_nt_char_3285": "clarity_nt_char_3285"
     },
     "9995": {
-        "ふぁるこんだがーのほん": ""
+        "ふぁるこんだがーのほん": "Gryphon's Wing Book"
     },
     "9996": {
         "おりはるこんのたんけんのしょ": ""
@@ -29991,10 +29991,10 @@
         "clarity_nt_char_3286": "clarity_nt_char_3286"
     },
     "9998": {
-        "こがらしのだがーのほん": ""
+        "こがらしのだがーのほん": "Pruning Knife Book"
     },
     "9999": {
-        "さうざんどだがーのせいほう": ""
+        "さうざんどだがーのせいほう": "Deft Dagger Creation"
     },
     "10000": {
         "うるべあのひほう": ""
@@ -30003,13 +30003,13 @@
         "clarity_nt_char_3287": "clarity_nt_char_3287"
     },
     "10002": {
-        "やりがいのあるやりづくり": ""
+        "やりがいのあるやりづくり": "Make Worthwhile Spears"
     },
     "10003": {
         "clarity_nt_char_3288": "clarity_nt_char_3288"
     },
     "10004": {
-        "ばとるふぉーくのほん": ""
+        "ばとるふぉーくのほん": "Battle Fork Book"
     },
     "10005": {
         "clarity_nt_char_3289": "clarity_nt_char_3289"
@@ -30021,31 +30021,31 @@
         "clarity_nt_char_3290": "clarity_nt_char_3290"
     },
     "10008": {
-        "ぐらこすのにっき": ""
+        "ぐらこすのにっき": "Gracos' Diary"
     },
     "10009": {
         "clarity_nt_char_3291": "clarity_nt_char_3291"
     },
     "10010": {
-        "ぷらちなのやりのほん": ""
+        "ぷらちなのやりのほん": "Platinum Lance Book"
     },
     "10011": {
         "clarity_nt_char_3292": "clarity_nt_char_3292"
     },
     "10012": {
-        "らいじんのやりのつくりかた": "How to Make Storm Spear"
+        "らいじんのやりのつくりかた": "Making Storm Spears"
     },
     "10013": {
-        "でーもんすぴあのつくりかた": ""
+        "でーもんすぴあのつくりかた": "Making Demon Spears"
     },
     "10014": {
-        "おせあのすのいのり": ""
+        "おせあのすのいのり": "Full Fathom Prayer"
     },
     "10015": {
-        "めたすらのやりのれしぴ": ""
+        "めたすらのやりのれしぴ": "Metal Slime Spear Book"
     },
     "10016": {
-        "せいきしのやりのしょ": ""
+        "せいきしのやりのしょ": "Paladin's Lance Book"
     },
     "10017": {
         "clarity_nt_char_3293": "clarity_nt_char_3293"
@@ -30057,7 +30057,7 @@
         "clarity_nt_char_3294": "clarity_nt_char_3294"
     },
     "10020": {
-        "せらふぃむのうた": ""
+        "せらふぃむのうた": "Seraph's Song"
     },
     "10021": {
         "clarity_nt_char_3295": "clarity_nt_char_3295"
@@ -30069,70 +30069,70 @@
         "clarity_nt_char_3296": "clarity_nt_char_3296"
     },
     "10024": {
-        "おのづくりにゅうもん": ""
+        "おのづくりにゅうもん": "Intro Axe Making"
     },
     "10025": {
         "clarity_nt_char_3297": "clarity_nt_char_3297"
     },
     "10026": {
-        "ばとるあっくすさくせいじゅつ": ""
+        "ばとるあっくすさくせいじゅつ": "Battle Axe Creation"
     },
     "10027": {
         "clarity_nt_char_3298": "clarity_nt_char_3298"
     },
     "10028": {
-        "たつじんのおののほん": ""
+        "たつじんのおののほん": "Pro's Axe Book"
     },
     "10029": {
         "clarity_nt_char_3299": "clarity_nt_char_3299"
     },
     "10030": {
-        "きんぐあっくすのしょ": ""
+        "きんぐあっくすのしょ": "King Axe Book"
     },
     "10031": {
         "clarity_nt_char_3300": "clarity_nt_char_3300"
     },
     "10032": {
-        "えくりぷすあっくすのほん": ""
+        "えくりぷすあっくすのほん": "Eclipse Axe Book"
     },
     "10033": {
         "clarity_nt_char_3301": "clarity_nt_char_3301"
     },
     "10034": {
-        "しゃーまんあっくすのしょ": ""
+        "しゃーまんあっくすのしょ": "Heedoovoodoo Axe Book"
     },
     "10035": {
         "clarity_nt_char_3302": "clarity_nt_char_3302"
     },
     "10036": {
-        "ふぶきのおののつくりかた": ""
+        "ふぶきのおののつくりかた": "How To Make An Ice Axe"
     },
     "10037": {
         "clarity_nt_char_3303": "clarity_nt_char_3303"
     },
     "10038": {
-        "かいざーあっくすのほん": ""
+        "かいざーあっくすのほん": "Kaiser Axe Book"
     },
     "10039": {
-        "はかいのおののつくりかた": ""
+        "はかいのおののつくりかた": "Obliteratoriser Book"
     },
     "10040": {
         "clarity_nt_char_3304": "clarity_nt_char_3304"
     },
     "10041": {
-        "はしゃのおののしょ": ""
+        "はしゃのおののしょ": "Conqueror's Axe Book"
     },
     "10042": {
-        "ぐれーとあっくすのほん": ""
+        "ぐれーとあっくすのほん": "Bad Axe Book"
     },
     "10043": {
-        "ふんさいのおおなたのしょ": "Heavy Hatchet Recipe"
+        "ふんさいのおおなたのしょ": "Heavy Hatchet Book"
     },
     "10044": {
         "clarity_nt_char_3305": "clarity_nt_char_3305"
     },
     "10045": {
-        "たいようのおのをもとめて": ""
+        "たいようのおのをもとめて": "Seeking Apollo's Axe"
     },
     "10046": {
         "clarity_nt_char_3306": "clarity_nt_char_3306"
@@ -30141,61 +30141,61 @@
         "せいねんきぞくのこーとうえ": ""
     },
     "10048": {
-        "くろーしないつめせいさん": ""
+        "くろーしないつめせいさん": "Claw Production Guide"
     },
     "10049": {
         "clarity_nt_char_3307": "clarity_nt_char_3307"
     },
     "10050": {
-        "こあくまのれいるじゅつ": ""
+        "こあくまのれいるじゅつ": "Infernails Technique"
     },
     "10051": {
-        "ほのおのつめのつくりかた": ""
+        "ほのおのつめのつくりかた": "How to Make Fire Claws"
     },
     "10052": {
         "clarity_nt_char_3308": "clarity_nt_char_3308"
     },
     "10053": {
-        "こおりのつめのひみつ": ""
+        "こおりのつめのひみつ": "Ice Claws Secret"
     },
     "10054": {
         "clarity_nt_char_3309": "clarity_nt_char_3309"
     },
     "10055": {
-        "ぷらちなくろーのほん": ""
+        "ぷらちなくろーのほん": "Platinum Claws Book"
     },
     "10056": {
         "clarity_nt_char_3310": "clarity_nt_char_3310"
     },
     "10057": {
-        "あくまのつめのひみつ": ""
+        "あくまのつめのひみつ": "Cobra Claws Secret"
     },
     "10058": {
         "clarity_nt_char_3311": "clarity_nt_char_3311"
     },
     "10059": {
-        "どらごんくろーのしょ": ""
+        "どらごんくろーのしょ": "Dragon Claws Book"
     },
     "10060": {
         "clarity_nt_char_3312": "clarity_nt_char_3312"
     },
     "10061": {
-        "こぶどうのすすめ": ""
+        "こぶどうのすすめ": "Crimson Advice"
     },
     "10062": {
         "clarity_nt_char_3313": "clarity_nt_char_3313"
     },
     "10063": {
-        "まじゅうのつめのつくりかた": ""
+        "まじゅうのつめのつくりかた": "How To Make Beast Claws"
     },
     "10064": {
-        "ふぁるこんくろーのほん": ""
+        "ふぁるこんくろーのほん": "Gryphon Talon Book"
     },
     "10065": {
-        "めいじゅうのつめのひじゅつ": ""
+        "めいじゅうのつめのひじゅつ": "Monster Slasher Mystery"
     },
     "10066": {
-        "せいりしてもじゃまだはる": ""
+        "せいりしてもじゃまだはる": "Gale Katar Recipe"
     },
     "10067": {
         "clarity_nt_char_3314": "clarity_nt_char_3314"
@@ -30210,58 +30210,58 @@
         "clarity_nt_char_3315": "clarity_nt_char_3315"
     },
     "10071": {
-        "かんたん　むちれしぴ": ""
+        "かんたん　むちれしぴ": "Easy! Whip Recipe"
     },
     "10072": {
         "clarity_nt_char_3316": "clarity_nt_char_3316"
     },
     "10073": {
-        "もーにんぐすたーのほん": ""
+        "もーにんぐすたーのほん": "Morning Star Book"
     },
     "10074": {
-        "びーすとうぃっぷのひみつ": ""
+        "びーすとうぃっぷのひみつ": "Beastly Bullwhip Secret"
     },
     "10075": {
         "clarity_nt_char_3317": "clarity_nt_char_3317"
     },
     "10076": {
-        "さいどわいんだーのしょ": ""
+        "さいどわいんだーのしょ": "Sidewinder Book"
     },
     "10077": {
-        "すこーぴおんているのほん": ""
+        "すこーぴおんているのほん": "Scorpion Tail Book"
     },
     "10078": {
         "clarity_nt_char_3318": "clarity_nt_char_3318"
     },
     "10079": {
-        "ばすたーうぃっぷのほん": ""
+        "ばすたーうぃっぷのほん": "Scourge Whip Book"
     },
     "10080": {
-        "どらごんているのしょ": ""
+        "どらごんているのしょ": "Dragontail Whip Book"
     },
     "10081": {
         "clarity_nt_char_3319": "clarity_nt_char_3319"
     },
     "10082": {
-        "あくまのむちのひみつ": ""
+        "あくまのむちのひみつ": "Demon's Whip Secret"
     },
     "10083": {
         "clarity_nt_char_3320": "clarity_nt_char_3320"
     },
     "10084": {
-        "さーぺんとうぃっぷのほん": ""
+        "さーぺんとうぃっぷのほん": "Serpent Whip Book"
     },
     "10085": {
         "clarity_nt_char_3321": "clarity_nt_char_3321"
     },
     "10086": {
-        "かるべろーなのきろく": ""
+        "かるべろーなのきろく": "Sorceria's Records"
     },
     "10087": {
         "clarity_nt_char_3322": "clarity_nt_char_3322"
     },
     "10088": {
-        "むちむちじょうおうさまのにっき": ""
+        "むちむちじょうおうさまのにっき": "Whipped Queen's Diary"
     },
     "10089": {
         "せいねんきぞくのくつ": ""
@@ -30270,82 +30270,82 @@
         "clarity_nt_char_3323": "clarity_nt_char_3323"
     },
     "10091": {
-        "だいごくじゅうのちょうきょうじゅつ": ""
+        "だいごくじゅうのちょうきょうじゅつ": "Hell Beast Training"
     },
     "10092": {
         "ぐりんがむのれしぴ": ""
     },
     "10093": {
-        "はじめてのもっこうじゅつ": ""
+        "はじめてのもっこうじゅつ": "Amateur Woodworking"
     },
     "10094": {
         "clarity_nt_char_3324": "clarity_nt_char_3324"
     },
     "10095": {
-        "すてきなすてぃっくづくり": ""
+        "すてきなすてぃっくづくり": "Making Nice Wands"
     },
     "10096": {
         "clarity_nt_char_3325": "clarity_nt_char_3325"
     },
     "10097": {
-        "ふぇざーすてぃっくのほん": ""
+        "ふぇざーすてぃっくのほん": "Winged Wand Book"
     },
     "10098": {
         "clarity_nt_char_3326": "clarity_nt_char_3326"
     },
     "10099": {
-        "まじかるすてぃっくのほん": ""
+        "まじかるすてぃっくのほん": "Pixie Stick Book"
     },
     "10100": {
         "clarity_nt_char_3327": "clarity_nt_char_3327"
     },
     "10101": {
-        "まぽれーなのらくがき": ""
+        "まぽれーなのらくがき": "Genie Sanguini Scrawls"
     },
     "10102": {
         "clarity_nt_char_3328": "clarity_nt_char_3328"
     },
     "10103": {
-        "ぺろりんすてっきれしぴ": ""
+        "ぺろりんすてっきれしぴ": "Lolly Stick Recipe"
     },
     "10104": {
-        "ぱらそるすてぃっくのほん": ""
+        "ぱらそるすてぃっくのほん": "Jolly Brolly Book"
     },
     "10105": {
         "clarity_nt_char_3329": "clarity_nt_char_3329"
     },
     "10106": {
-        "どらごんすてぃっくのしょ": ""
+        "どらごんすてぃっくのしょ": "Wyvern Wand Book"
     },
     "10107": {
         "clarity_nt_char_3330": "clarity_nt_char_3330"
     },
     "10108": {
-        "ゆぐどらしるのほん": ""
+        "ゆぐどらしるのほん": "Spryggdrasil Book"
     },
     "10109": {
-        "てんしのたくとのれしぴ": ""
+        "てんしのたくとのれしぴ": "Seraphic Sceptre Recipe"
     },
     "10110": {
-        "あくまのたくとのひみつ": ""
+        "あくまのたくとのひみつ": "Devil's Baton Secret"
     },
     "10111": {
-        "ごしっくぱらそるれしぴ": ""
+        "ごしっくぱらそるれしぴ": "Glumbrella Recipe"
     },
     "10112": {
-        "ひかりのたくとのほん": ""
+        "ひかりのたくとのほん": "Glow Stick Book"
     },
     "10113": {
         "clarity_nt_char_3331": "clarity_nt_char_3331"
     },
     "10114": {
-        "たいたにあすてっきのしょ": ""
+        "たいたにあすてっきのしょ": "Butterfly Baton Book"
     },
     "10115": {
         "clarity_nt_char_3332": "clarity_nt_char_3332"
     },
     "10116": {
-        "ゆめのすてぃっくものがたり": ""
+        "ゆめのすてぃっくものがたり": "Fantastick Story"
     },
     "10117": {
         "はじめよう　つえづくり": ""
@@ -30576,10 +30576,10 @@
         "せいじょのかいりつ": ""
     },
     "10193": {
-        "つきにかえるふたごのものがたり": ""
+        "つきにかえるふたごのものがたり": "Tale of Two Moons"
     },
     "10194": {
-        "あてなのまもり": ""
+        "あてなのまもり": "Athena Charm"
     },
     "10195": {
         "ぷらちなしーるどのほん": ""
@@ -30666,7 +30666,7 @@
         "clarity_nt_char_3361": "clarity_nt_char_3361"
     },
     "10223": {
-        "みかわしのふくのれしぴ": ""
+        "みかわしのふくのれしぴ": "Dodge Outfit Recipe"
     },
     "10224": {
         "てじなしのふくのつくりかた": ""
@@ -30813,7 +30813,7 @@
         "clarity_nt_char_3378": "clarity_nt_char_3378"
     },
     "10272": {
-        "ごっどらいくなつえさくせい": ""
+        "ごっどらいくなつえさくせい": "Godlike Staff Creation"
     },
     "10273": {
         "こだいまじゅつのほういさくせいほう": ""
@@ -31185,52 +31185,52 @@
         "ぶらっどえっじのれきし": "Bloodletter Sword Tale"
     },
     "10396": {
-        "よるのぱぴよんのひみつ": ""
+        "よるのぱぴよんのひみつ": "Dread Dagger's Secret"
     },
     "10397": {
         "いなずまのやりのれしぴ": "Lightning Lance Recipe"
     },
     "10398": {
-        "ぱるちざんとわたし": ""
+        "ぱるちざんとわたし": "Partisan Secrecy"
     },
     "10399": {
-        "かるさどらあっくすのしょ": ""
+        "かるさどらあっくすのしょ": "Calsadora Axe Book"
     },
     "10400": {
         "clarity_nt_char_3421": "clarity_nt_char_3421"
     },
     "10401": {
-        "むーんあっくすのなぞ": ""
+        "むーんあっくすのなぞ": "Moon Axe Mystery"
     },
     "10402": {
         "clarity_nt_char_3422": "clarity_nt_char_3422"
     },
     "10403": {
-        "くろひょうのつめのひみつ": ""
+        "くろひょうのつめのひみつ": "Panther claws Secret"
     },
     "10404": {
         "clarity_nt_char_3423": "clarity_nt_char_3423"
     },
     "10405": {
-        "はやぶさのつめのしょ": ""
+        "はやぶさのつめのしょ": "Crow's Claws Book"
     },
     "10406": {
         "clarity_nt_char_3424": "clarity_nt_char_3424"
     },
     "10407": {
-        "ぱいそんうぃっぷのしょ": ""
+        "ぱいそんうぃっぷのしょ": "Python Whip Book"
     },
     "10408": {
-        "みわくのりぼんのつくりかた": ""
+        "みわくのりぼんのつくりかた": "How To Make A Hypnowhip"
     },
     "10409": {
-        "すらたわーのつぶやき": ""
+        "すらたわーのつぶやき": "Murmur of a Slime Stack"
     },
     "10410": {
         "clarity_nt_char_3425": "clarity_nt_char_3425"
     },
     "10411": {
-        "まてきのすてぃっくものがたり": ""
+        "まてきのすてぃっくものがたり": "Brouhaha Boomstick Tale"
     },
     "10412": {
         "clarity_nt_char_3426": "clarity_nt_char_3426"
@@ -31344,7 +31344,7 @@
         "くろがねのよろいのほん": "Black Iron Armor Recipe"
     },
     "10449": {
-        "はんまーづくりにゅうもん": ""
+        "はんまーづくりにゅうもん": "Intro Hammer Making"
     },
     "10450": {
         "clarity_nt_char_3440": "clarity_nt_char_3440"
@@ -31911,10 +31911,10 @@
         "まじんのかなづちのほん": "Hela's Hammer Book"
     },
     "10638": {
-        "りゅうおうのつめのでんせつ": ""
+        "りゅうおうのつめのでんせつ": "Dragonlord Claw Legend"
     },
     "10639": {
-        "まじんのむちのれしぴ": ""
+        "まじんのむちのれしぴ": "Beelzebarb Recipe"
     },
     "10640": {
         "clarity_nt_char_3508": "clarity_nt_char_3508"
@@ -32061,7 +32061,7 @@
         "clarity_nt_char_3524": "clarity_nt_char_3524"
     },
     "10688": {
-        "さいぐ　ほしぼしのたくとえまき": ""
+        "さいぐ　ほしぼしのたくとえまき": "Star Baton Scroll"
     },
     "10689": {
         "さいぐ　ささだんごえまき": "Bamboo Dumplings Recipe"
@@ -32103,37 +32103,37 @@
         "clarity_nt_char_3529": "clarity_nt_char_3529"
     },
     "10702": {
-        "ちしょうのじょじし": ""
+        "ちしょうのじょじし": "Wise Leader's Epic"
     },
     "10703": {
-        "がてりあのひぶん": ""
+        "がてりあのひぶん": "Gateria's Inscription"
     },
     "10704": {
         "clarity_nt_char_3530": "clarity_nt_char_3530"
     },
     "10705": {
-        "ごうらいのへいほうしょ": ""
+        "ごうらいのへいほうしょ": "Book of Thunder"
     },
     "10706": {
-        "がいあふぁんたじあ": ""
+        "がいあふぁんたじあ": "Gaia Fantasia"
     },
     "10707": {
         "かれをひるませる５０のほうほう": ""
     },
     "10708": {
-        "どらごんくろーかいのしょ": ""
+        "どらごんくろーかいのしょ": "Uber Dragon Claws Book"
     },
     "10709": {
         "clarity_nt_char_3531": "clarity_nt_char_3531"
     },
     "10710": {
-        "きょうからあすてるそうかんごう": ""
+        "きょうからあすてるそうかんごう": "Aster of Today Issue 1"
     },
     "10711": {
         "わかるえんじぇるそうえいじゅつ": ""
     },
     "10712": {
-        "もっともきよきいちりん": ""
+        "もっともきよきいちりん": "The Purest Flower"
     },
     "10713": {
         "てんけいせきのせいやく　つえのしょう": "Blessed Staff Book"
@@ -32274,16 +32274,16 @@
         "うけつがれしじゃもんのしょ": "Book of Inherited Evil"
     },
     "10759": {
-        "はおうのせいせんき": ""
+        "はおうのせいせんき": "High King Conquest"
     },
     "10760": {
-        "かがやくさそりのゆくえ": ""
+        "かがやくさそりのゆくえ": "Shining Scorpion's Home"
     },
     "10761": {
-        "せいせきにかくされたひみつ": ""
+        "せいせきにかくされたひみつ": "Secret in the Meteorite"
     },
     "10762": {
-        "せきららぼるてーじにっし": ""
+        "せきららぼるてーじにっし": "Naked Voltage Journal"
     },
     "10763": {
         "clarity_nt_char_3549": "clarity_nt_char_3549"
@@ -32292,10 +32292,10 @@
         "ほしがかなでるはかいのせんりつ": ""
     },
     "10765": {
-        "ぶそうゆうぎ・だんざいのしょう": ""
+        "ぶそうゆうぎ・だんざいのしょう": "Judgement Katar Book"
     },
     "10766": {
-        "むちむちこんごうでん": ""
+        "むちむちこんごうでん": "Varja Whip Legend"
     },
     "10767": {
         "clarity_nt_char_3550": "clarity_nt_char_3550"
@@ -32304,7 +32304,7 @@
         "すてられぽーと": ""
     },
     "10769": {
-        "すてっきだんしゃくはかたりたい": ""
+        "すてっきだんしゃくはかたりたい": "The Wand Wants To Talk"
     },
     "10770": {
         "たそがれみちびくまじょうのちしき": ""
@@ -32424,19 +32424,19 @@
         "clarity_nt_char_3562": "clarity_nt_char_3562"
     },
     "10809": {
-        "ごうえんのきおく": ""
+        "ごうえんのきおく": "Karma Flame Rcp"
     },
     "10810": {
         "clarity_nt_char_3563": "clarity_nt_char_3563"
     },
     "10811": {
-        "みかづきとたんけん": ""
+        "みかづきとたんけん": "Moon and Dagger"
     },
     "10812": {
-        "きけんととなりあわせのやり": ""
+        "きけんととなりあわせのやり": "Spear Next To Danger"
     },
     "10813": {
-        "せんらんけっぷうろく": ""
+        "せんらんけっぷうろく": "War Transcripts"
     },
     "10814": {
         "clarity_nt_char_3564": "clarity_nt_char_3564"
@@ -32448,13 +32448,13 @@
         "clarity_nt_char_3565": "clarity_nt_char_3565"
     },
     "10817": {
-        "るーんくらぶのあしのむき": ""
+        "るーんくらぶのあしのむき": "Rune Crab Claws Recipe"
     },
     "10818": {
         "clarity_nt_char_3566": "clarity_nt_char_3566"
     },
     "10819": {
-        "ませききゅうのかがやき": ""
+        "ませききゅうのかがやき": "Glow of the Magic Stone"
     },
     "10820": {
         "りゅうのつばさにのって": ""
@@ -32490,7 +32490,7 @@
         "せんししゃをえらぶもの": ""
     },
     "10831": {
-        "しびゅらのしんたく": ""
+        "しびゅらのしんたく": "Sibyl's Oracle"
     },
     "10832": {
         "ふくろうかんさつにっき": ""
@@ -38193,7 +38193,7 @@
         "ばっとえんどのらぐ": ""
     },
     "12732": {
-        "れじぇんずのらぐ": ""
+        "れじぇんずのらぐ": "Legends Rug"
     },
     "12733": {
         "clarity_nt_char_4216": "clarity_nt_char_4216"
@@ -38982,16 +38982,16 @@
         "えてーねおうきゅうのそふぁ": ""
     },
     "12995": {
-        "しっぷうのじゃまだはる": ""
+        "しっぷうのじゃまだはる": "Gale Katar"
     },
     "12996": {
-        "だんざいのじゃまだはる": ""
+        "だんざいのじゃまだはる": "Judgement Katar"
     },
     "12997": {
-        "しんいきのたいけん": ""
+        "しんいきのたいけん": "Sanctum Grtswd"
     },
     "12998": {
-        "はおうのたいけん": ""
+        "はおうのたいけん": "High King's Swd"
     },
     "12999": {
         "clarity_nt_char_4305": "clarity_nt_char_4305"
@@ -39030,16 +39030,16 @@
         "clarity_nt_char_4310": "clarity_nt_char_4310"
     },
     "13011": {
-        "しんいきのおの": ""
+        "しんいきのおの": "Sanctum Axe"
     },
     "13012": {
-        "ぼるてーじあっくす": ""
+        "ぼるてーじあっくす": "Voltage Axe"
     },
     "13013": {
-        "しんいきのやり": ""
+        "しんいきのやり": "Sanctum Spear"
     },
     "13014": {
-        "せいせきのはるばーど": ""
+        "せいせきのはるばーど": "Meteorite Halberd"
     },
     "13015": {
         "clarity_nt_char_4311": "clarity_nt_char_4311"
@@ -39051,22 +39051,22 @@
         "くりてぃかるろっど": ""
     },
     "13018": {
-        "しんいきのたんけん": ""
+        "しんいきのたんけん": "Sanctum Knife"
     },
     "13019": {
-        "ぐらふぃあす": ""
+        "ぐらふぃあす": "Graffias"
     },
     "13020": {
         "clarity_nt_char_4312": "clarity_nt_char_4312"
     },
     "13021": {
-        "たいごくじゅうのむち": ""
+        "たいごくじゅうのむち": "Hell Beast Whip"
     },
     "13022": {
         "clarity_nt_char_4313": "clarity_nt_char_4313"
     },
     "13023": {
-        "こんごうのむち": ""
+        "こんごうのむち": "Varja Whip"
     },
     "13024": {
         "ぶりがんてぃあ": ""
@@ -39075,7 +39075,7 @@
         "がるーだてんぺすと": ""
     },
     "13026": {
-        "しんいきのはんまー": ""
+        "しんいきのはんまー": "Sanctum Hammer"
     },
     "13027": {
         "せいきゅうのてっつい": ""
@@ -39084,16 +39084,16 @@
         "clarity_nt_char_4314": "clarity_nt_char_4314"
     },
     "13029": {
-        "そうげつのすてぃっく": ""
+        "そうげつのすてぃっく": "Double Moon Wand"
     },
     "13030": {
         "clarity_nt_char_4315": "clarity_nt_char_4315"
     },
     "13031": {
-        "るねっさんすてっき": ""
+        "るねっさんすてっき": "Renaissance Wand"
     },
     "13032": {
-        "しんいきのつえ": ""
+        "しんいきのつえ": "Sanctum Stf"
     },
     "13033": {
         "たそがれのまじょう": ""
@@ -39441,16 +39441,16 @@
         "clarity_nt_char_4354": "clarity_nt_char_4354"
     },
     "13148": {
-        "ごうえんのたいけん": ""
+        "ごうえんのたいけん": "Karmic Flame Sw"
     },
     "13149": {
-        "くれせんとだがー": ""
+        "くれせんとだがー": "Crescent Dagger"
     },
     "13150": {
         "clarity_nt_char_4355": "clarity_nt_char_4355"
     },
     "13151": {
-        "しびゅらすてぃっく": ""
+        "しびゅらすてぃっく": "Sibyl Stick"
     },
     "13152": {
         "みねるばのせいじょう": ""
@@ -39459,22 +39459,22 @@
         "clarity_nt_char_4356": "clarity_nt_char_4356"
     },
     "13154": {
-        "でんじゃーらんす": ""
+        "でんじゃーらんす": "Danger Lance"
     },
     "13155": {
         "clarity_nt_char_4357": "clarity_nt_char_4357"
     },
     "13156": {
-        "せんらんのおの": ""
+        "せんらんのおの": "War Axe"
     },
     "13157": {
         "らいこうのこん": ""
     },
     "13158": {
-        "るーんくらぶくろー": ""
+        "るーんくらぶくろー": "Rune Crab Claws"
     },
     "13159": {
-        "ませききゅうのむち": ""
+        "ませききゅうのむち": "Magic Stone Whip"
     },
     "13160": {
         "らくしゅみー": ""
@@ -39543,16 +39543,16 @@
         "clarity_nt_char_4366": "clarity_nt_char_4366"
     },
     "13182": {
-        "とこやみのかま": ""
+        "とこやみのかま": "Everdark Sic"
     },
     "13183": {
-        "あんのうんさいず": ""
+        "あんのうんさいず": "Unknown Scythe"
     },
     "13184": {
         "clarity_nt_char_4367": "clarity_nt_char_4367"
     },
     "13185": {
-        "ねれうすさいず": ""
+        "ねれうすさいず": "Nereus Scythe"
     },
     "13186": {
         "ねうぁんへるむ": "Nemain Helm"
@@ -40203,7 +40203,7 @@
         "ばとえんとろふぃーどう": ""
     },
     "13402": {
-        "れじぇんずふらっぐ": ""
+        "れじぇんずふらっぐ": "Legends Flag"
     },
     "13403": {
         "ばとえんふでばこべっどにわ": ""
@@ -42906,7 +42906,7 @@
         "clarity_nt_char_4738": "clarity_nt_char_4738"
     },
     "14303": {
-        "こおりまおうのおおほこやり": ""
+        "こおりまおうのおおほこやり": "Ice Demon King Spear"
     },
     "14304": {
         "こおりのまおうのまんと": ""
@@ -43131,10 +43131,10 @@
         "clarity_nt_char_4762": "clarity_nt_char_4762"
     },
     "14378": {
-        "めいおうのおおがまかま": ""
+        "めいおうのおおがまかま": "Dark Lord's Scythe"
     },
     "14379": {
-        "こおりまおうのおおほこおの": ""
+        "こおりまおうのおおほこおの": "Ice Demon King Axe"
     },
     "14380": {
         "かがやくほしのおくりもの": ""
@@ -43194,7 +43194,7 @@
         "いっぱつのつえ": "One Shot Staff"
     },
     "14399": {
-        "れじぇんずさいず": ""
+        "れじぇんずさいず": "Legends Scythe"
     },
     "14400": {
         "clarity_nt_char_4770": "clarity_nt_char_4770"
@@ -46344,7 +46344,7 @@
         "clarity_nt_char_5097": "clarity_nt_char_5097"
     },
     "15449": {
-        "みかわしの服セット": ""
+        "みかわしの服セット": "Dodge Outfit"
     },
     "15450": {
         "ワイルドジャケットセット": "Wild Outfit"
@@ -49143,19 +49143,19 @@
         "clarity_nt_char_5387": "clarity_nt_char_5387"
     },
     "16382": {
-        "だいんすれいふ": ""
+        "だいんすれいふ": "Dainsleif"
     },
     "16383": {
         "ふぁらざーどじょうのらいと": ""
     },
     "16384": {
-        "ふぁんとむだがー": ""
+        "ふぁんとむだがー": "Phantom Dagger"
     },
     "16385": {
         "clarity_nt_char_5388": "clarity_nt_char_5388"
     },
     "16386": {
-        "えいるのすてぃっく": ""
+        "えいるのすてぃっく": "Eir's Wand"
     },
     "16387": {
         "ふじだな": ""
@@ -49203,16 +49203,16 @@
         "clarity_nt_char_5392": "clarity_nt_char_5392"
     },
     "16402": {
-        "べるせるくぶれーど": ""
+        "べるせるくぶれーど": "Mad Warrior's Blade"
     },
     "16403": {
-        "わいるどふぁんぐ": ""
+        "わいるどふぁんぐ": "Wild Fang"
     },
     "16404": {
         "clarity_nt_char_5393": "clarity_nt_char_5393"
     },
     "16405": {
-        "ぴんきーえっぐ": ""
+        "ぴんきーえっぐ": "Pinky Egg"
     },
     "16406": {
         "せれにてぃわんど": ""
@@ -49221,22 +49221,22 @@
         "clarity_nt_char_5394": "clarity_nt_char_5394"
     },
     "16408": {
-        "おうまがとき": ""
+        "おうまがとき": "Twilight Spear"
     },
     "16409": {
         "clarity_nt_char_5395": "clarity_nt_char_5395"
     },
     "16410": {
-        "はてんのれいふ": ""
+        "はてんのれいふ": "Skyrend Axe"
     },
     "16411": {
         "ひょうごくきのこん": ""
     },
     "16412": {
-        "じゅがんのつめ": ""
+        "じゅがんのつめ": "Cursed Eye Claw"
     },
     "16413": {
-        "ようじゃのむち": ""
+        "ようじゃのむち": "Snake Whip"
     },
     "16414": {
         "こくせんよくのおうぎ": ""
@@ -49785,28 +49785,28 @@
         "かいしん　でっどりーそーど": "Critical! Deadly Sword"
     },
     "16596": {
-        "きょうせんしでんせつ": ""
+        "きょうせんしでんせつ": "Mad War. Legend"
     },
     "16597": {
         "clarity_nt_char_5455": "clarity_nt_char_5455"
     },
     "16598": {
-        "ひっさつのわいるどふぁんぐ": ""
+        "ひっさつのわいるどふぁんぐ": "Deadly Wild Fang"
     },
     "16599": {
-        "ぴんくのたまごのいのり": ""
+        "ぴんくのたまごのいのり": "Pink Egg Prayer"
     },
     "16600": {
         "つえのあるへいおんなくらし": ""
     },
     "16601": {
-        "おうまがときのまもの": ""
+        "おうまがときのまもの": "Twilight Apparition"
     },
     "16602": {
         "clarity_nt_char_5456": "clarity_nt_char_5456"
     },
     "16603": {
-        "てんをやぶるおの": ""
+        "てんをやぶるおの": "Break The Heavens"
     },
     "16604": {
         "clarity_nt_char_5457": "clarity_nt_char_5457"
@@ -49818,10 +49818,10 @@
         "clarity_nt_char_5458": "clarity_nt_char_5458"
     },
     "16607": {
-        "じゅがんのわざわい": ""
+        "じゅがんのわざわい": "Cursed Eye Woes"
     },
     "16608": {
-        "ようじゃのどくが": ""
+        "ようじゃのどくが": "A Snake's Venom"
     },
     "16609": {
         "clarity_nt_char_5459": "clarity_nt_char_5459"
@@ -50769,10 +50769,10 @@
         "せいまのこくじょう": ""
     },
     "16924": {
-        "くあどらぴあー": ""
+        "くあどらぴあー": "Quadraspear"
     },
     "16925": {
-        "えきさいとあくす": ""
+        "えきさいとあくす": "Excite Axe"
     },
     "16926": {
         "clarity_nt_char_5564": "clarity_nt_char_5564"
@@ -50784,7 +50784,7 @@
         "clarity_nt_char_5565": "clarity_nt_char_5565"
     },
     "16929": {
-        "どらごんくろーぜつ": ""
+        "どらごんくろーぜつ": "Apex Dragon Claws"
     },
     "16930": {
         "けきちゃんはうす": ""
@@ -50802,7 +50802,7 @@
         "clarity_nt_char_5567": "clarity_nt_char_5567"
     },
     "16935": {
-        "くらっしゅちぇーん": ""
+        "くらっしゅちぇーん": "Crusher Chain"
     },
     "16936": {
         "あろけるのおうぎ": ""
@@ -51393,19 +51393,19 @@
         "なるかみのらいこう": "Thunder's Echo"
     },
     "17132": {
-        "だいんのいさん": ""
+        "だいんのいさん": "Dain's Legacy"
     },
     "17133": {
-        "ぼうれいのもうどく": ""
+        "ぼうれいのもうどく": "Ghost Poison"
     },
     "17134": {
-        "しっかりきれるよんまいば": ""
+        "しっかりきれるよんまいば": "Four Sturdy Blades"
     },
     "17135": {
         "clarity_nt_char_5634": "clarity_nt_char_5634"
     },
     "17136": {
-        "おのでえきさいと": ""
+        "おのでえきさいと": "Excite With an Axe"
     },
     "17137": {
         "clarity_nt_char_5635": "clarity_nt_char_5635"
@@ -51417,13 +51417,13 @@
         "clarity_nt_char_5636": "clarity_nt_char_5636"
     },
     "17140": {
-        "りゅうごろしのぜつぎ": ""
+        "りゅうごろしのぜつぎ": "Dragon slayer"
     },
     "17141": {
         "clarity_nt_char_5637": "clarity_nt_char_5637"
     },
     "17142": {
-        "ちぇーんねんだいき": ""
+        "ちぇーんねんだいき": "Chain Chronicles"
     },
     "17143": {
         "はやぶさかんさつにっき": ""
@@ -51432,7 +51432,7 @@
         "ばらのかりとりかた": ""
     },
     "17145": {
-        "えいるのじひ": ""
+        "えいるのじひ": "Eir's Mercy"
     },
     "17146": {
         "clarity_nt_char_5638": "clarity_nt_char_5638"
@@ -51882,7 +51882,7 @@
         "clarity_nt_char_5686": "clarity_nt_char_5686"
     },
     "17295": {
-        "いかすぴあ": ""
+        "いかすぴあ": "Squid Spear"
     },
     "17296": {
         "おくとばすたー": "Octobuster"

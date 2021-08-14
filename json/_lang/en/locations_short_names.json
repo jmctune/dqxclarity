@@ -1938,7 +1938,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>バグレア教会跡地": "<%sW_MAP_NAME><%sW_DELIMITER>Bagulea Church Vestige"
     },
     "647": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>救護室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>救護室": "<%sW_MAP_NAME><%sW_DELIMITER>Med. Room"
     },
     "648": {
         "clarity_nt_char_210": "clarity_nt_char_210"
@@ -1950,7 +1950,7 @@
         "clarity_nt_char_211": "clarity_nt_char_211"
     },
     "651": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>書物庫": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>書物庫": "<%sW_MAP_NAME><%sW_DELIMITER>Library"
     },
     "652": {
         "clarity_nt_char_212": "clarity_nt_char_212"
@@ -1962,7 +1962,7 @@
         "clarity_nt_char_213": "clarity_nt_char_213"
     },
     "655": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>３階-院長室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>３階-院長室": "<%sW_MAP_NAME><%sW_DELIMITER>3F-Director Room"
     },
     "656": {
         "<%sW_MAP_NAME><%sW_DELIMITER>３階-騎士団長室": ""
@@ -3312,7 +3312,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>１階-大使室": "<%sW_MAP_NAME><%sW_DELIMITER>1F - Office"
     },
     "1105": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２階-書物庫": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>２階-書物庫": "<%sW_MAP_NAME><%sW_DELIMITER>2F-Library"
     },
     "1106": {
         "<%sW_MAP_NAME><%sW_DELIMITER>３階-作戦室": ""
@@ -3321,7 +3321,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>２階-休憩室": ""
     },
     "1108": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２階-救護室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>２階-救護室": "<%sW_MAP_NAME><%sW_DELIMITER>2F-Medical Room"
     },
     "1109": {
         "<%sW_MAP_NAME><%sW_DELIMITER>３階-客室": "3F Guest Room"
@@ -3408,13 +3408,13 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>ジュレー島下層大空洞": "<%sW_MAP_NAME><%sW_DELIMITER>Jule Lower Island Large Cavity"
     },
     "1137": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>騎士団長室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>騎士団長室": "<%sW_MAP_NAME><%sW_DELIMITER>Knight Cpt Room"
     },
     "1138": {
         "clarity_nt_char_361": "clarity_nt_char_361"
     },
     "1139": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>院長室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>院長室": "<%sW_MAP_NAME><%sW_DELIMITER>Dir. Room"
     },
     "1140": {
         "clarity_nt_char_362": "clarity_nt_char_362"
@@ -5988,7 +5988,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>清めの洞くつ": ""
     },
     "1997": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第２層-書物庫": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第２層-書物庫": "<%sW_MAP_NAME><%sW_DELIMITER>2nd Level-Library"
     },
     "1998": {
         "clarity_nt_char_630": "clarity_nt_char_630"
@@ -7806,13 +7806,13 @@
         "clarity_nt_char_817": "clarity_nt_char_817"
     },
     "2603": {
-        "Ⅰ": ""
+        "Ⅰ": "Ⅰ"
     },
     "2604": {
-        "Ⅰ　Ⅰ　Ⅰ": ""
+        "Ⅰ　Ⅰ　Ⅰ": "Ⅰ Ⅰ Ⅰ"
     },
     "2605": {
-        "Ⅰ　Ⅰ": ""
+        "Ⅰ　Ⅰ": "Ⅰ Ⅰ"
     },
     "2606": {
         "<%sW_MAP_NAME><%sW_DELIMITER>土地神のやしろ": "<%sW_MAP_NAME><%sW_DELIMITER>Land Shrine"

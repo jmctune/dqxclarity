@@ -1,6 +1,6 @@
 {
     "1": {
-        "<%sB_TARGET>が あらわれた！": "An enemy draws near!"
+        "<%sB_TARGET>が あらわれた！": "<%sB_TARGET> draws near!"
     },
     "2": {
         "clarity_nt_char_1": "clarity_nt_char_1"
@@ -30,19 +30,19 @@
         "<%sB_ACTOR>は 戦うのをやめた。": "<%sB_ACTOR> has stopped fighting."
     },
     "11": {
-        "<%sB_TARGET>を やっつけた！": "The enemy is defeated!"
+        "<%sB_TARGET>を やっつけた！": "The <%sB_TARGET> was defeated!"
     },
     "12": {
         "clarity_nt_char_5": "clarity_nt_char_5"
     },
     "13": {
-        "<%sB_TARGET>たちを やっつけた！": "The enemies are defeated!"
+        "<%sB_TARGET>たちを やっつけた！": "The <%sB_TARGET>s were defeated!"
     },
     "14": {
         "clarity_nt_char_6": "clarity_nt_char_6"
     },
     "15": {
-        "まもののむれを やっつけた！": "The group of enemies are defeated!"
+        "まもののむれを やっつけた！": "The enemies were defeated!"
     },
     "16": {
         "clarity_nt_char_7": "clarity_nt_char_7"
@@ -60,19 +60,19 @@
         "clarity_nt_char_9": "clarity_nt_char_9"
     },
     "21": {
-        "<%sB_TARGET>は 宝箱を 落としていった！": "The enemy dropped a treasure chest!"
+        "<%sB_TARGET>は 宝箱を 落としていった！": "The <%sB_TARGET> dropped a treasure chest!"
     },
     "22": {
         "clarity_nt_char_10": "clarity_nt_char_10"
     },
     "23": {
-        "<%sB_TARGET>は いなくなった！": "The enemy runs away!"
+        "<%sB_TARGET>は いなくなった！": "The <%sB_TARGET> ran away!"
     },
     "24": {
-        "<%sB_TARGET>たちは いなくなった！": "The enemies run away!"
+        "<%sB_TARGET>たちは いなくなった！": "The <%sB_TARGET>s ran away!"
     },
     "25": {
-        "まもののむれは いなくなった！": "The group of enemies run away!"
+        "まもののむれは いなくなった！": "The enemies ran away!"
     },
     "26": {
         "<%sB_ACTOR>たちは ぜんめつした。": "The party was wiped out..."
@@ -96,13 +96,13 @@
         "死んでいるため レベルが あがらなかった。": "You couldn't level up because you are dead."
     },
     "33": {
-        "<%sB_TARGET>たちは 宝箱を 落としていった！": "The enemy dropped a treasure chest!"
+        "<%sB_TARGET>たちは 宝箱を 落としていった！": "The <%sB_TARGET>s dropped a treasure chest!"
     },
     "34": {
         "clarity_nt_char_14": "clarity_nt_char_14"
     },
     "35": {
-        "まもののむれは 宝箱を 落としていった！": "The enemy dropped a treasure chest!"
+        "まもののむれは 宝箱を 落としていった！": "The enemies dropped a treasure chest!"
     },
     "36": {
         "clarity_nt_char_15": "clarity_nt_char_15"
@@ -117,13 +117,13 @@
         "<%sB_ACTOR>は 不意をつかれた！": "The enemy caught you off guard!"
     },
     "40": {
-        "<%sB_TARGET>たちが あらわれた！": "Some enemies draw near!"
+        "<%sB_TARGET>たちが あらわれた！": "Some <%sB_TARGET>s draw near!"
     },
     "41": {
         "clarity_nt_char_17": "clarity_nt_char_17"
     },
     "42": {
-        "まもののむれが あらわれた！": "A group of enemies draw near!"
+        "まもののむれが あらわれた！": "Some enemies draw near!"
     },
     "43": {
         "clarity_nt_char_18": "clarity_nt_char_18"
@@ -165,7 +165,7 @@
         "clarity_nt_char_22": "clarity_nt_char_22"
     },
     "56": {
-        "<%sB_ACTOR>は 戦いを やめた。": "<%sB_ACTOR> runs away."
+        "<%sB_ACTOR>は 戦いを やめた。": "<%sB_ACTOR> ran away."
     },
     "57": {
         "<%sB_ACTOR>は ＭＰが 足りなかった。": "<%sB_ACTOR> doesn't have enough MP."
@@ -180,7 +180,7 @@
         "clarity_nt_char_24": "clarity_nt_char_24"
     },
     "61": {
-        "<%sB_ACTOR>は <%sB_TARGET>を たおした！": "<%sB_ACTOR> defeated an enemy!"
+        "<%sB_ACTOR>は <%sB_TARGET>を たおした！": "<%sB_ACTOR> defeated <%sB_TARGET>!"
     },
     "62": {
         "clarity_nt_char_25": "clarity_nt_char_25"
@@ -297,7 +297,7 @@
         "しかし 宝箱は 手に入らなかった。": "But you couldn't get the treasure chest."
     },
     "100": {
-        "<%sB_ACTOR>は まものたちから 何かを盗みとっていた！": "<%sB_ACTOR> steals something from the enemy!"
+        "<%sB_ACTOR>は まものたちから 何かを盗みとっていた！": "<%sB_ACTOR> stole something from the enemy!"
     },
     "101": {
         "clarity_nt_char_36": "clarity_nt_char_36"

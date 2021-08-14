@@ -876,7 +876,7 @@
         "アサシンダガー": "Assassin's Dagger"
     },
     "293": {
-        "キラーピアス": "F. Knife Earrings"
+        "キラーピアス": "FalconKnf Earrings"
     },
     "294": {
         "clarity_nt_char_93": "clarity_nt_char_93"
@@ -954,7 +954,7 @@
         "ライトニングダガー": "Thunderstorm Skean"
     },
     "319": {
-        "初心者用の短剣": "Beginners Stiletto"
+        "初心者用の短剣": "Beginners Dagger"
     },
     "320": {
         "クリスタルエッジ": "Crystal Edge"
@@ -1113,7 +1113,7 @@
         "パラソルスティック": "Jolly Brolly"
     },
     "372": {
-        "初心者用スティック": "Beginners Stick"
+        "初心者用スティック": "Beginners Wand"
     },
     "373": {
         "スノースティック": "Snow Stick"
@@ -1140,7 +1140,7 @@
         "clarity_nt_char_119": "clarity_nt_char_119"
     },
     "381": {
-        "星々のタクト": "Starry Baton"
+        "星々のタクト": "Star Baton"
     },
     "382": {
         "clarity_nt_char_120": "clarity_nt_char_120"
@@ -1611,7 +1611,7 @@
         "厄サル斧斤": "Banana Axe"
     },
     "538": {
-        "エリュテイアのオノ": "Erytheia Axe"
+        "エリュテイアのオノ": "Erytheia's Axe"
     },
     "539": {
         "アンノウンアックス": "Unknown Axe"
@@ -1896,7 +1896,7 @@
         "スパイクロッド": "Barbed Bludgeon"
     },
     "633": {
-        "初心者用のこん": "Beginners Cudgel"
+        "初心者用のこん": "Beginners Rod"
     },
     "634": {
         "ダゴンのこん": "Octophant Rod"
@@ -1971,7 +1971,7 @@
         "clarity_nt_char_205": "clarity_nt_char_205"
     },
     "658": {
-        "キャットクロー": "Cat Claws"
+        "キャットクロー": "Cat's Claws"
     },
     "659": {
         "どうのツメ": "Copper Claws"
@@ -2043,7 +2043,7 @@
         "冥獣のツメ": "Monster Slasher"
     },
     "682": {
-        "竜王のツメ": "Drgnlord Claws"
+        "竜王のツメ": "Dragonlord Claw"
     },
     "683": {
         "クリスタルクロー": "Crystal Claws"
@@ -2097,7 +2097,7 @@
         "clarity_nt_char_216": "clarity_nt_char_216"
     },
     "700": {
-        "エンシェントクロー": "Olde-Worlde Claws"
+        "エンシェントクロー": "Olde-Worlde Clawse"
     },
     "701": {
         "ポンポンクロー": "Pompom Claws"
@@ -2403,7 +2403,7 @@
         "clarity_nt_char_254": "clarity_nt_char_254"
     },
     "802": {
-        "カルベロビュート": "Sorceria Whip"
+        "カルベロビュート": "Wizardly Whip"
     },
     "803": {
         "clarity_nt_char_255": "clarity_nt_char_255"
@@ -3087,7 +3087,7 @@
         "ネレウスワンド": "Nereus Staff"
     },
     "1030": {
-        "エンシェントワンド": "Olde-Worlde Staff"
+        "エンシェントワンド": "Olde-Worlde Staffe"
     },
     "1031": {
         "天恵石の杖": "Blessed Staff"
@@ -4503,7 +4503,7 @@
         "ウェスタンブラウス": "Western Blouse"
     },
     "1502": {
-        "みかわしの服上": "Goose Top"
+        "みかわしの服上": "Dodge Top"
     },
     "1503": {
         "魔法戦士団制服": "Magic Knight Uniform"
@@ -5589,7 +5589,7 @@
         "clarity_nt_char_583": "clarity_nt_char_583"
     },
     "1864": {
-        "みかわしのぼうし": "Goose Cap"
+        "みかわしのぼうし": "Dodge Cap"
     },
     "1865": {
         "clarity_nt_char_584": "clarity_nt_char_584"
@@ -6663,7 +6663,7 @@
         "ウェスタンスパッツ": "Western Spats"
     },
     "2222": {
-        "みかわしの服下": "Goose Skirt"
+        "みかわしの服下": "Dodge Skirt"
     },
     "2223": {
         "僧兵のころも下": "Monk Warrior Pants"
@@ -6942,7 +6942,7 @@
         "clarity_nt_char_715": "clarity_nt_char_715"
     },
     "2315": {
-        "ドラグーンメイル下": "Dragoon Lower Armor"
+        "ドラグーンメイル下": "Dragoon Mail Bottom"
     },
     "2316": {
         "タイトなズボン": ""
@@ -8781,7 +8781,7 @@
         "clarity_nt_char_902": "clarity_nt_char_902"
     },
     "2928": {
-        "みかわしのくつ": "Goose Boots"
+        "みかわしのくつ": "Dodge Boots"
     },
     "2929": {
         "魔法戦士団ブーツ": ""
@@ -10203,13 +10203,13 @@
         "clarity_nt_char_1060": "clarity_nt_char_1060"
     },
     "3402": {
-        "ＤＱⅣ主人公券": "DQIV Hero Coupon"
+        "ＤＱⅣ主人公券": "DQⅣ Hero Coupon"
     },
     "3403": {
         "金のナスビナーラ衣装券": "Gold Woebergine Coupon"
     },
     "3404": {
-        "ＤＱⅧ主人公券": "DQVIII Hero Coupon"
+        "ＤＱⅧ主人公券": "DQⅧ Hero Coupon"
     },
     "3405": {
         "プスゴンきぐるみ券": "Pusgon Plushie Ticket"
@@ -11142,7 +11142,7 @@
         "clarity_nt_char_1145": "clarity_nt_char_1145"
     },
     "3715": {
-        "ビクトリーボックスⅣ": "Victory Box IV"
+        "ビクトリーボックスⅣ": "Victory Box Ⅳ"
     },
     "3716": {
         "clarity_nt_char_1146": "clarity_nt_char_1146"
@@ -13530,7 +13530,7 @@
         "clarity_nt_char_1365": "clarity_nt_char_1365"
     },
     "4511": {
-        "ビクトリーボックスⅡ": "Victory Box II"
+        "ビクトリーボックスⅡ": "Victory Box Ⅱ"
     },
     "4512": {
         "clarity_nt_char_1366": "clarity_nt_char_1366"
@@ -14373,7 +14373,7 @@
         "clarity_nt_char_1434": "clarity_nt_char_1434"
     },
     "4792": {
-        "みかわしオムレツ": "Duck Omelet"
+        "みかわしオムレツ": "Dodge Omelet"
     },
     "4793": {
         "clarity_nt_char_1435": "clarity_nt_char_1435"
@@ -15252,7 +15252,7 @@
         "ギュメイ将軍練習札": "Goresby-Purrvis Tr Card"
     },
     "5085": {
-        "おみくじボックスⅡ": "Good Fortune Box II"
+        "おみくじボックスⅡ": "Good Fortune Box Ⅱ"
     },
     "5086": {
         "しぐさ書・ヴァイオリン": ""
@@ -15642,7 +15642,7 @@
         "clarity_nt_char_1556": "clarity_nt_char_1556"
     },
     "5215": {
-        "イッドの杖": "Iddo's Staff"
+        "イッドの杖": "Id's Staff"
     },
     "5216": {
         "ガラテアの神槍": "Galatea's God Spear"
@@ -16515,7 +16515,7 @@
         "clarity_nt_char_1645": "clarity_nt_char_1645"
     },
     "5506": {
-        "ドラグーンメイル上": "Dragoon Upper Armor"
+        "ドラグーンメイル上": "Dragoon Mail Top"
     },
     "5507": {
         "ダンディジャケット": ""
@@ -17370,7 +17370,7 @@
         "clarity_nt_char_1730": "clarity_nt_char_1730"
     },
     "5791": {
-        "神槍のレプリカ": "Replica God Spear"
+        "神槍のレプリカ": "God Spear Replica"
     },
     "5792": {
         "ギルガランの服上": "Gilgaran's Robe"
@@ -17808,7 +17808,7 @@
         "黒猫のツメ": "Black Cat Claws"
     },
     "5937": {
-        "スライダーククロー": "Nemeslime Claw"
+        "スライダーククロー": "Nemeslime Claws"
     },
     "5938": {
         "ドラゴンクロー改": "Uber Dragon Claws"
@@ -26841,70 +26841,70 @@
         "ハッピーハート": "Happy Heart"
     },
     "8948": {
-        "聖王のつるぎの壁画": "Dryspell Sabre Recipe"
+        "聖王のつるぎの壁画": "Dryspell Sabre Book"
     },
     "8949": {
-        "聖王の大剣の壁画": "Dryspell Blade Recipe"
+        "聖王の大剣の壁画": "Dryspell Blade Book"
     },
     "8950": {
         "clarity_nt_char_2732": "clarity_nt_char_2732"
     },
     "8951": {
-        "聖王のナイフの壁画": "Dryspell Knife Recipe"
+        "聖王のナイフの壁画": "Dryspell Knife Book"
     },
     "8952": {
-        "聖王のやりの壁画": "Dryspell Spear Recipe"
+        "聖王のやりの壁画": "Dryspell Spear Book"
     },
     "8953": {
         "clarity_nt_char_2733": "clarity_nt_char_2733"
     },
     "8954": {
-        "聖王のオノの壁画": "Dryspell Axe Recipe"
+        "聖王のオノの壁画": "Dryspell Axe Book"
     },
     "8955": {
         "clarity_nt_char_2734": "clarity_nt_char_2734"
     },
     "8956": {
-        "聖王のハンマーの壁画": "Dryspell Hammer Recipe"
+        "聖王のハンマーの壁画": "Dryspell Hammer Book"
     },
     "8957": {
         "clarity_nt_char_2735": "clarity_nt_char_2735"
     },
     "8958": {
-        "聖王のツメの壁画": "Dryspell Claw Recipe"
+        "聖王のツメの壁画": "Dryspell Claw Book"
     },
     "8959": {
         "clarity_nt_char_2736": "clarity_nt_char_2736"
     },
     "8960": {
-        "聖王のムチの壁画": "Dryspell Whip Recipe"
+        "聖王のムチの壁画": "Dryspell Whip Book"
     },
     "8961": {
         "clarity_nt_char_2737": "clarity_nt_char_2737"
     },
     "8962": {
-        "聖王のブーメランの壁画": "Dryspell Boomerang Rcp"
+        "聖王のブーメランの壁画": "Dryspell Boomerang Book"
     },
     "8963": {
-        "聖王のスティックの壁画": "Dryspell Wand Recipe"
+        "聖王のスティックの壁画": "Dryspell Wand Book"
     },
     "8964": {
-        "聖王の杖の壁画": "Dryspell Staff Recipe"
+        "聖王の杖の壁画": "Dryspell Staff Book"
     },
     "8965": {
-        "聖王の棍の壁画": "Dryspell Rod Recipe"
+        "聖王の棍の壁画": "Dryspell Rod Book"
     },
     "8966": {
-        "聖王のおうぎの壁画": "Dryspell Fan Recipe"
+        "聖王のおうぎの壁画": "Dryspell Fan Book"
     },
     "8967": {
-        "聖王の弓の壁画": "Dryspell Bow Recipe"
+        "聖王の弓の壁画": "Dryspell Bow Book"
     },
     "8968": {
         "聖王の盾の壁画": "Dryspell Shield Book"
     },
     "8969": {
-        "聖王の大盾の壁画": "Dryspell Grtshd Recipe"
+        "聖王の大盾の壁画": "Dryspell Grtshd Book"
     },
     "8970": {
         "clarity_nt_char_2738": "clarity_nt_char_2738"
@@ -27063,7 +27063,7 @@
         "clarity_nt_char_2754": "clarity_nt_char_2754"
     },
     "9022": {
-        "みかわしオムレツ調理法": "Duck Omelet Recipe"
+        "みかわしオムレツ調理法": "Dodge Omelet Recipe"
     },
     "9023": {
         "きようさにくまんの秘密": "Deftness Meat Bun Rcp"
@@ -27156,7 +27156,7 @@
         "大地くだき列伝": "Groundbreaker Book"
     },
     "9053": {
-        "クリスタルクローの本": "Crystal Claws Recipe"
+        "クリスタルクローの本": "Crystal Claws Book"
     },
     "9054": {
         "clarity_nt_char_2761": "clarity_nt_char_2761"
@@ -27912,16 +27912,16 @@
         "clarity_nt_char_2841": "clarity_nt_char_2841"
     },
     "9305": {
-        "毒竜討伐隊の記録": ""
+        "毒竜討伐隊の記録": "Serpentscale Skean Book"
     },
     "9306": {
         "clarity_nt_char_2842": "clarity_nt_char_2842"
     },
     "9307": {
-        "ブラッドヒストリー": ""
+        "ブラッドヒストリー": "Barbarous History"
     },
     "9308": {
-        "デュークアックス戦記": "Aristocrat's Axe History"
+        "デュークアックス戦記": "Aristocrat's Axe Book"
     },
     "9309": {
         "clarity_nt_char_2843": "clarity_nt_char_2843"
@@ -27930,10 +27930,10 @@
         "バレットハンマー作成術": "Bullet Hammer Creation"
     },
     "9311": {
-        "ある船長の航海日誌": ""
+        "ある船長の航海日誌": "Captain's Logbook"
     },
     "9312": {
-        "シャル・ウィ・フリーズ": "Let's get Frozen"
+        "シャル・ウィ・フリーズ": "Shall We Freeze"
     },
     "9313": {
         "チャクラム式魔術教本": ""
@@ -28128,13 +28128,13 @@
         "星の木工刀": "Star Wdwk Knife"
     },
     "9377": {
-        "水晶剣とうつろな魔女": ""
+        "水晶剣とうつろな魔女": "Crystal Edge Book"
     },
     "9378": {
         "clarity_nt_char_2865": "clarity_nt_char_2865"
     },
     "9379": {
-        "アテナの系譜": "Sacred Recipe"
+        "アテナの系譜": "Sacred Genealogy"
     },
     "9380": {
         "clarity_nt_char_2866": "clarity_nt_char_2866"
@@ -28176,7 +28176,7 @@
         "やさしい鉄槌のくだし方": "Angelic Mallet Recipe"
     },
     "9393": {
-        "蒼炎伝": ""
+        "蒼炎伝": "Frostfire"
     },
     "9394": {
         "銅の錬金ツボ": "Copper Alch Pot"
@@ -28218,7 +28218,7 @@
         "clarity_nt_char_2874": "clarity_nt_char_2874"
     },
     "9407": {
-        "ある船乗りの手記": ""
+        "ある船乗りの手記": "Sailor's Memoir"
     },
     "9408": {
         "clarity_nt_char_2875": "clarity_nt_char_2875"
@@ -28356,7 +28356,7 @@
         "暗黒星雲の秘密": ""
     },
     "9453": {
-        "涙のタクトストーリー": ""
+        "涙のタクトストーリー": "Tearful Wand Story"
     },
     "9454": {
         "clarity_nt_char_2887": "clarity_nt_char_2887"
@@ -28578,16 +28578,16 @@
         "軍馬の大剣の作り方": "Great War Horse's Sword"
     },
     "9527": {
-        "古代武器図説・短剣編": ""
+        "古代武器図説・短剣編": "Book of Ancient Daggers"
     },
     "9528": {
         "clarity_nt_char_2911": "clarity_nt_char_2911"
     },
     "9529": {
-        "大鳳の羽ばたき": ""
+        "大鳳の羽ばたき": "Wings of a Phoenix"
     },
     "9530": {
-        "栄光の王斧の本": ""
+        "栄光の王斧の本": "Great Axe Book"
     },
     "9531": {
         "猛き炎と渦巻く闇": ""
@@ -28596,10 +28596,10 @@
         "clarity_nt_char_2912": "clarity_nt_char_2912"
     },
     "9533": {
-        "古代武器図説・爪編": ""
+        "古代武器図説・爪編": "Book of Ancient Claws"
     },
     "9534": {
-        "振り子の約束": ""
+        "振り子の約束": "Pendulum's Promise"
     },
     "9535": {
         "clarity_nt_char_2913": "clarity_nt_char_2913"
@@ -28611,7 +28611,7 @@
         "clarity_nt_char_2914": "clarity_nt_char_2914"
     },
     "9538": {
-        "古代武器図説・タクト編": ""
+        "古代武器図説・タクト編": "Book of Ancient Wands"
     },
     "9539": {
         "万物流転の書": ""
@@ -28782,10 +28782,10 @@
         "はやぶさの剣改の書": "Uber Falcon Blade Book"
     },
     "9595": {
-        "憤怒の大剣の作り方": ""
+        "憤怒の大剣の作り方": "Making A Fury Blade"
     },
     "9596": {
-        "天河物語": ""
+        "天河物語": "Our Galaxy"
     },
     "9597": {
         "clarity_nt_char_2931": "clarity_nt_char_2931"
@@ -28794,7 +28794,7 @@
         "タワーランスガイダンス": "Tower Lance Guidance"
     },
     "9599": {
-        "イビルアックスミックス": "Axe of Evil Recipe"
+        "イビルアックスミックス": "Axe of Evil Mixture"
     },
     "9600": {
         "ギガスクラッパー見参": "Giga Scrapper Recipe"
@@ -28815,7 +28815,7 @@
         "ビーナスのほほえみ": ""
     },
     "9606": {
-        "栄華へのきざはし": ""
+        "栄華へのきざはし": "Stairway to Splendor"
     },
     "9607": {
         "clarity_nt_char_2934": "clarity_nt_char_2934"
@@ -28989,16 +28989,16 @@
         "竜に挑む者": "Dragon Fighter"
     },
     "9664": {
-        "雷神の食卓": ""
+        "雷神の食卓": "Thor's Table"
     },
     "9665": {
-        "天界のあるきかた": ""
+        "天界のあるきかた": "How To Walk The Heavens"
     },
     "9666": {
         "clarity_nt_char_2956": "clarity_nt_char_2956"
     },
     "9667": {
-        "百手巨人の手も借りたい": ""
+        "百手巨人の手も借りたい": "Hecatoncheires' Mercy"
     },
     "9668": {
         "はじめよう！ホネ砕き": "Bone Crushing Recipe"
@@ -29049,7 +29049,7 @@
         "clarity_nt_char_2964": "clarity_nt_char_2964"
     },
     "9684": {
-        "ボルケーノ美術史入門": ""
+        "ボルケーノ美術史入門": "History of Volcanoes"
     },
     "9685": {
         "clarity_nt_char_2965": "clarity_nt_char_2965"
@@ -29061,10 +29061,10 @@
         "clarity_nt_char_2966": "clarity_nt_char_2966"
     },
     "9688": {
-        "小さな翼の祈り": ""
+        "小さな翼の祈り": "Little Wing's Prayer"
     },
     "9689": {
-        "古代武器図説・杖編": ""
+        "古代武器図説・杖編": "Book of Ancient Staves"
     },
     "9690": {
         "ヘリオスの手記": "Helios Rod Memorandum"
@@ -29193,13 +29193,13 @@
         "図解・虚空を断つ剣": "Void Sword Schematic"
     },
     "9732": {
-        "ゴッドライクな大剣作成": "God-tier Greatswords"
+        "ゴッドライクな大剣作成": "Godlike Grtswd Creation"
     },
     "9733": {
-        "ゴッドライクな短剣作成": "God-tier Dagger Creation"
+        "ゴッドライクな短剣作成": "Godlike Dagger Creation"
     },
     "9734": {
-        "ゴッドライクな槍作成": "God-tier Spear Creation"
+        "ゴッドライクな槍作成": "Godlike Spear Creation"
     },
     "9735": {
         "clarity_nt_char_2978": "clarity_nt_char_2978"
@@ -29448,7 +29448,7 @@
         "clarity_nt_char_3005": "clarity_nt_char_3005"
     },
     "9817": {
-        "ゴッドライクなオノ作成": "God-tier Axe Creation"
+        "ゴッドライクなオノ作成": "Godlike Axe Creation"
     },
     "9818": {
         "はじめての武器鍛冶": "Beginner Weaponsmithing"
@@ -29508,7 +29508,7 @@
         "オニキスの魔剣の本": "Onyx Magic Sword Book"
     },
     "9837": {
-        "ゴッドライクな鉄槌作成": "God-tier Iron Mallet Creation"
+        "ゴッドライクな鉄槌作成": "Godlike Hammer Creation"
     },
     "9838": {
         "天命のつるぎの書": "Sword of Judgment Book"
@@ -29592,7 +29592,7 @@
         "clarity_nt_char_3020": "clarity_nt_char_3020"
     },
     "9865": {
-        "暗殺武器の歴史": ""
+        "暗殺武器の歴史": "Assassin Weapons"
     },
     "9866": {
         "ソードブレイカーの本": "Sword Breaker Book"
@@ -29601,7 +29601,7 @@
         "clarity_nt_char_3021": "clarity_nt_char_3021"
     },
     "9868": {
-        "続・暗殺武器の歴史": ""
+        "続・暗殺武器の歴史": "Assassin Weapons Cont."
     },
     "9869": {
         "こおりのやいばの書": "Icicle Dirk Book"
@@ -29613,7 +29613,7 @@
         "clarity_nt_char_3022": "clarity_nt_char_3022"
     },
     "9872": {
-        "真・暗殺武器の歴史": ""
+        "真・暗殺武器の歴史": "True Assassin Weapons"
     },
     "9873": {
         "王家のナイフ全集": "Nobleman's Knife Set"
@@ -29643,7 +29643,7 @@
         "clarity_nt_char_3026": "clarity_nt_char_3026"
     },
     "9882": {
-        "サウザンドダガーの製法": "Deft Dagger Recipe"
+        "サウザンドダガーの製法": "Deft Dagger Creation"
     },
     "9883": {
         "ウルベアの秘法": "Urbean Secret"
@@ -29670,13 +29670,13 @@
         "プラチナのやりの本": "Platinum Lance Book"
     },
     "9891": {
-        "雷神のやりの作り方": "Thunder God's Spear Recipe"
+        "雷神のやりの作り方": "Making Storm Spears"
     },
     "9892": {
-        "デーモンスピアの作り方": "Demon Spear Recipe"
+        "デーモンスピアの作り方": "Making Demon Spears"
     },
     "9893": {
-        "オセアノスの祈り": "Full Fathom Recipe"
+        "オセアノスの祈り": "Full Fathom Prayer"
     },
     "9894": {
         "clarity_nt_char_3029": "clarity_nt_char_3029"
@@ -29694,13 +29694,13 @@
         "きしんのまそうの本": "Poker Recipe"
     },
     "9899": {
-        "セラフィムの歌": "Seraph's Spear Poem"
+        "セラフィムの歌": "Seraph's Song"
     },
     "9900": {
         "ゲイボルグの書": "Gae Bolg Book"
     },
     "9901": {
-        "オノ作り入門": "How to make Axes"
+        "オノ作り入門": "Intro Axe Making"
     },
     "9902": {
         "clarity_nt_char_3031": "clarity_nt_char_3031"
@@ -29715,46 +29715,46 @@
         "たつじんのオノの本": "Pro's Axe Book"
     },
     "9906": {
-        "キングアックスの書": "King Axe Recipe"
+        "キングアックスの書": "King Axe Book"
     },
     "9907": {
-        "エクリプスアックスの本": "Eclipse Axe Recipe"
+        "エクリプスアックスの本": "Eclipse Axe Book"
     },
     "9908": {
-        "シャーマンアックスの書": "Heedoovoodoo Axe Recipe"
+        "シャーマンアックスの書": "Heedoovoodoo Axe Book"
     },
     "9909": {
-        "ふぶきのオノの作り方": "Ice Axe Recipe"
+        "ふぶきのオノの作り方": "How To Make An Ice Axe"
     },
     "9910": {
         "clarity_nt_char_3033": "clarity_nt_char_3033"
     },
     "9911": {
-        "カイザーアックスの本": "Kaiser Axe Recipe"
+        "カイザーアックスの本": "Kaiser Axe Book"
     },
     "9912": {
         "clarity_nt_char_3034": "clarity_nt_char_3034"
     },
     "9913": {
-        "破壊のオノの作り方": "Axe of Destruction Recipe"
+        "破壊のオノの作り方": "Obliteratoriser Book"
     },
     "9914": {
-        "はしゃのオノの書": "Conqueror's Axe Recipe"
+        "はしゃのオノの書": "Conqueror's Axe Book"
     },
     "9915": {
         "clarity_nt_char_3035": "clarity_nt_char_3035"
     },
     "9916": {
-        "グレートアックスの本": "Bad Axe Recipe"
+        "グレートアックスの本": "Bad Axe Book"
     },
     "9917": {
         "clarity_nt_char_3036": "clarity_nt_char_3036"
     },
     "9918": {
-        "ふんさいのおおなたの書": "Heavy Hatchet Recipe"
+        "ふんさいのおおなたの書": "Heavy Hatchet Book"
     },
     "9919": {
-        "太陽の斧を求めて": ""
+        "太陽の斧を求めて": "Seeking Apollo's Axe"
     },
     "9920": {
         "clarity_nt_char_3037": "clarity_nt_char_3037"
@@ -29772,7 +29772,7 @@
         "clarity_nt_char_3039": "clarity_nt_char_3039"
     },
     "9925": {
-        "こあくまのネイル術": ""
+        "こあくまのネイル術": "Infernails Technique"
     },
     "9926": {
         "ほのおのツメの作り方": "How to Make Fire Claws"
@@ -29793,10 +29793,10 @@
         "ドラゴンクローの書": "Dragon Claws Book"
     },
     "9932": {
-        "古武道のススメ": "Kobudo Recommendation"
+        "古武道のススメ": "Crimson Advice"
     },
     "9933": {
-        "まじゅうのツメの作り方": "Beast Claws Recipe"
+        "まじゅうのツメの作り方": "How To Make Beast Claws"
     },
     "9934": {
         "ファルコンクローの本": "Gryphon Talon Book"
@@ -29835,7 +29835,7 @@
         "ビーストウィップの秘密": "Beastly Bullwhip Secret"
     },
     "9946": {
-        "サイドワインダーの書": "Sidewinder Recipe"
+        "サイドワインダーの書": "Sidewinder Book"
     },
     "9947": {
         "clarity_nt_char_3045": "clarity_nt_char_3045"
@@ -29859,10 +29859,10 @@
         "サーペントウィップの本": "Serpent Whip Book"
     },
     "9954": {
-        "カルベローナの記録": "Wizardly Whip Recipe"
+        "カルベローナの記録": "Sorceria's Records"
     },
     "9955": {
-        "ムチムチ女王様の日記": ""
+        "ムチムチ女王様の日記": "Whipped Queen's Diary"
     },
     "9956": {
         "clarity_nt_char_3047": "clarity_nt_char_3047"
@@ -29886,7 +29886,7 @@
         "clarity_nt_char_3049": "clarity_nt_char_3049"
     },
     "9963": {
-        "ステキなスティック作り": "Making Lovely Sticks"
+        "ステキなスティック作り": "Making Nice Wands"
     },
     "9964": {
         "フェザースティックの本": "Winged Wand Book"
@@ -29895,7 +29895,7 @@
         "マジカルスティックの本": "Pixie Stick Book"
     },
     "9966": {
-        "マポレーナのらくがき": "Genie Sanguini Graffiti"
+        "マポレーナのらくがき": "Genie Sanguini Scrawls"
     },
     "9967": {
         "clarity_nt_char_3050": "clarity_nt_char_3050"
@@ -29931,13 +29931,13 @@
         "ゴシックパラソルレシピ": "Glumbrella Recipe"
     },
     "9978": {
-        "ひかりのタクトの本": "Glow Stick Recipe"
+        "ひかりのタクトの本": "Glow Stick Book"
     },
     "9979": {
-        "タイタニアステッキの書": "Butterfly Baton Recipe"
+        "タイタニアステッキの書": "Butterfly Baton Book"
     },
     "9980": {
-        "夢のスティック物語": ""
+        "夢のスティック物語": "Fantastick Story"
     },
     "9981": {
         "はじめよう！杖作り": "Staff Making Recipes"
@@ -30198,7 +30198,7 @@
         "聖女の戒律": ""
     },
     "10067": {
-        "月に還る双子の物語": ""
+        "月に還る双子の物語": "Tale of Two Moons"
     },
     "10068": {
         "アテナのまもり": "Athena Charm"
@@ -30303,7 +30303,7 @@
         "clarity_nt_char_3097": "clarity_nt_char_3097"
     },
     "10102": {
-        "みかわしの服のレシピ": ""
+        "みかわしの服のレシピ": "Dodge Outfit Recipe"
     },
     "10103": {
         "clarity_nt_char_3098": "clarity_nt_char_3098"
@@ -30453,7 +30453,7 @@
         "clarity_nt_char_3115": "clarity_nt_char_3115"
     },
     "10152": {
-        "ゴッドライクな杖作成": "Godlike Wand Making"
+        "ゴッドライクな杖作成": "Godlike Staff Creation"
     },
     "10153": {
         "clarity_nt_char_3116": "clarity_nt_char_3116"
@@ -30816,10 +30816,10 @@
         "clarity_nt_char_3146": "clarity_nt_char_3146"
     },
     "10273": {
-        "みわくのリボンの作り方": "How to Make Hypnowhip"
+        "みわくのリボンの作り方": "How To Make A Hypnowhip"
     },
     "10274": {
-        "スラタワーのつぶやき": ""
+        "スラタワーのつぶやき": "Murmur of a Slime Stack"
     },
     "10275": {
         "clarity_nt_char_3147": "clarity_nt_char_3147"
@@ -30927,7 +30927,7 @@
         "clarity_nt_char_3157": "clarity_nt_char_3157"
     },
     "10310": {
-        "ハンマー作り入門": "Intro To Hammer Making"
+        "ハンマー作り入門": "Intro Hammer Making"
     },
     "10311": {
         "clarity_nt_char_3158": "clarity_nt_char_3158"
@@ -31470,7 +31470,7 @@
         "clarity_nt_char_3217": "clarity_nt_char_3217"
     },
     "10491": {
-        "竜王のツメの伝説": "Dragonlord Claws Legend"
+        "竜王のツメの伝説": "Dragonlord Claw Legend"
     },
     "10492": {
         "clarity_nt_char_3218": "clarity_nt_char_3218"
@@ -31614,7 +31614,7 @@
         "clarity_nt_char_3232": "clarity_nt_char_3232"
     },
     "10539": {
-        "祭具・星々のタクト絵巻": "Starry Baton Scroll"
+        "祭具・星々のタクト絵巻": "Star Baton Scroll"
     },
     "10540": {
         "祭具・笹だんご絵巻": "Bamboo Dumplings Recipe"
@@ -31650,40 +31650,40 @@
         "clarity_nt_char_3235": "clarity_nt_char_3235"
     },
     "10551": {
-        "智将の叙事詩": ""
+        "智将の叙事詩": "Wise Leader's Epic"
     },
     "10552": {
         "clarity_nt_char_3236": "clarity_nt_char_3236"
     },
     "10553": {
-        "ガテリアの碑文": ""
+        "ガテリアの碑文": "Gateria's Inscription"
     },
     "10554": {
-        "轟雷の兵法書": ""
+        "轟雷の兵法書": "Book of Thunder"
     },
     "10555": {
         "clarity_nt_char_3237": "clarity_nt_char_3237"
     },
     "10556": {
-        "ガイアファンタジア": ""
+        "ガイアファンタジア": "Gaia Fantasia"
     },
     "10557": {
         "彼を怯ませる５０の方法": ""
     },
     "10558": {
-        "ドラゴンクロー改の書": "Uber Dragon Claw Rcp"
+        "ドラゴンクロー改の書": "Uber Dragon Claws Book"
     },
     "10559": {
         "clarity_nt_char_3238": "clarity_nt_char_3238"
     },
     "10560": {
-        "今日からアステル創刊号": ""
+        "今日からアステル創刊号": "Aster of Today Issue 1"
     },
     "10561": {
         "わかるエンジェル早詠術": ""
     },
     "10562": {
-        "最も清き一輪": ""
+        "最も清き一輪": "The Purest Flower"
     },
     "10563": {
         "clarity_nt_char_3239": "clarity_nt_char_3239"
@@ -31809,19 +31809,19 @@
         "clarity_nt_char_3250": "clarity_nt_char_3250"
     },
     "10604": {
-        "覇王の征戦記": "Overlord Conquest"
+        "覇王の征戦記": "High King Conquest"
     },
     "10605": {
         "clarity_nt_char_3251": "clarity_nt_char_3251"
     },
     "10606": {
-        "輝くさそりの行方": ""
+        "輝くさそりの行方": "Shining Scorpion's Home"
     },
     "10607": {
         "clarity_nt_char_3252": "clarity_nt_char_3252"
     },
     "10608": {
-        "星石に隠された秘密": ""
+        "星石に隠された秘密": "Secret in the Meteorite"
     },
     "10609": {
         "赤裸々ボルテージ日誌": "Naked Voltage Journal"
@@ -31836,16 +31836,16 @@
         "clarity_nt_char_3254": "clarity_nt_char_3254"
     },
     "10613": {
-        "武爪遊戯・断罪の章": "Judgement Katar Recipe"
+        "武爪遊戯・断罪の章": "Judgement Katar Book"
     },
     "10614": {
-        "ムチムチ金剛伝": ""
+        "ムチムチ金剛伝": "Varja Whip Legend"
     },
     "10615": {
         "ステラレポート": ""
     },
     "10616": {
-        "ステッキ男爵は語りたい": ""
+        "ステッキ男爵は語りたい": "The Wand Wants To Talk"
     },
     "10617": {
         "黄昏導く魔杖の知識": ""
@@ -31974,13 +31974,13 @@
         "業炎の記憶": "Karma Flame Rcp"
     },
     "10659": {
-        "三日月と短剣": ""
+        "三日月と短剣": "Moon and Dagger"
     },
     "10660": {
         "clarity_nt_char_3269": "clarity_nt_char_3269"
     },
     "10661": {
-        "危険と隣り合わせのヤリ": ""
+        "危険と隣り合わせのヤリ": "Spear Next To Danger"
     },
     "10662": {
         "戦乱血風録": "War Transcripts"
@@ -31992,7 +31992,7 @@
         "ルーンクラブの足の向き": "Rune Crab Claws Recipe"
     },
     "10665": {
-        "魔石球のかがやき": "Glow of Magic Stone"
+        "魔石球のかがやき": "Glow of the Magic Stone"
     },
     "10666": {
         "clarity_nt_char_3270": "clarity_nt_char_3270"
@@ -33393,7 +33393,7 @@
         "clarity_nt_char_3403": "clarity_nt_char_3403"
     },
     "11132": {
-        "ワカサギ": "Smelt"
+        "ワカサギ": "Pond Smelt"
     },
     "11133": {
         "clarity_nt_char_3404": "clarity_nt_char_3404"
@@ -33408,7 +33408,7 @@
         "エンゼルフィッシュ": "Angelfish"
     },
     "11137": {
-        "にじいろフィッシュ": ""
+        "にじいろフィッシュ": "Rainbow-Colored Fish"
     },
     "11138": {
         "フナ": "Carp"
@@ -33423,7 +33423,7 @@
         "clarity_nt_char_3407": "clarity_nt_char_3407"
     },
     "11142": {
-        "アユ": "Salmon"
+        "アユ": "Catfsh"
     },
     "11143": {
         "clarity_nt_char_3408": "clarity_nt_char_3408"
@@ -33435,7 +33435,7 @@
         "clarity_nt_char_3409": "clarity_nt_char_3409"
     },
     "11146": {
-        "ブラックバス": "Bass"
+        "ブラックバス": "Black Bass"
     },
     "11147": {
         "clarity_nt_char_3410": "clarity_nt_char_3410"
@@ -33444,7 +33444,7 @@
         "イワナ": "Charr"
     },
     "11149": {
-        "サケ": "Chum"
+        "サケ": "Salmon"
     },
     "11150": {
         "clarity_nt_char_3411": "clarity_nt_char_3411"
@@ -33462,7 +33462,7 @@
         "clarity_nt_char_3412": "clarity_nt_char_3412"
     },
     "11155": {
-        "オオナマズ": "Catfish"
+        "オオナマズ": "Large Catfish"
     },
     "11156": {
         "ピラルク": "Arapaima"
@@ -33498,7 +33498,7 @@
         "clarity_nt_char_3417": "clarity_nt_char_3417"
     },
     "11167": {
-        "サンマ": "Pike"
+        "サンマ": "Mkrl Pike"
     },
     "11168": {
         "ハリセンボン": "Blowfish"
@@ -33513,7 +33513,7 @@
         "カサゴ": "Rockfish"
     },
     "11172": {
-        "タイ": "Tai"
+        "タイ": "RdSnpr"
     },
     "11173": {
         "clarity_nt_char_3419": "clarity_nt_char_3419"
@@ -33537,22 +33537,22 @@
         "ヒラメ": "Flounder"
     },
     "11180": {
-        "スズキ": ""
+        "スズキ": "Sea Bass"
     },
     "11181": {
-        "チョウチンアンコウ": ""
+        "チョウチンアンコウ": "Anglerfish"
     },
     "11182": {
         "マグロ": "Tuna"
     },
     "11183": {
-        "シーラカンス": ""
+        "シーラカンス": "Coelacanth"
     },
     "11184": {
         "clarity_nt_char_3422": "clarity_nt_char_3422"
     },
     "11185": {
-        "マンボウ": ""
+        "マンボウ": "Sunfish"
     },
     "11186": {
         "clarity_nt_char_3423": "clarity_nt_char_3423"
@@ -33561,28 +33561,28 @@
         "カジキ": "Marlin"
     },
     "11188": {
-        "マンタ": "Manta"
+        "マンタ": "Manta Ray"
     },
     "11189": {
-        "ホオジロザメ": ""
+        "ホオジロザメ": "Great White Shark"
     },
     "11190": {
         "clarity_nt_char_3424": "clarity_nt_char_3424"
     },
     "11191": {
-        "シュモクザメ": ""
+        "シュモクザメ": "Hammerhead Shark"
     },
     "11192": {
         "clarity_nt_char_3425": "clarity_nt_char_3425"
     },
     "11193": {
-        "ジンベエザメ": ""
+        "ジンベエザメ": "Whale Shark"
     },
     "11194": {
         "clarity_nt_char_3426": "clarity_nt_char_3426"
     },
     "11195": {
-        "リュウグウノツカイ": ""
+        "リュウグウノツカイ": "Giant Oarfish"
     },
     "11196": {
         "イセエビ": "Lobster"
@@ -33597,13 +33597,13 @@
         "clarity_nt_char_3428": "clarity_nt_char_3428"
     },
     "11200": {
-        "タコ": ""
+        "タコ": "Octopi"
     },
     "11201": {
         "clarity_nt_char_3429": "clarity_nt_char_3429"
     },
     "11202": {
-        "宝箱": ""
+        "宝箱": "Chest"
     },
     "11203": {
         "clarity_nt_char_3430": "clarity_nt_char_3430"
@@ -33642,13 +33642,13 @@
         "clarity_nt_char_3435": "clarity_nt_char_3435"
     },
     "11215": {
-        "オウムガイ": ""
+        "オウムガイ": "Nautilus"
     },
     "11216": {
         "カレイ": "Flatfish"
     },
     "11217": {
-        "ブルーナポレオン": ""
+        "ブルーナポレオン": "Humphead Wrasse"
     },
     "11218": {
         "clarity_nt_char_3436": "clarity_nt_char_3436"
@@ -33678,7 +33678,7 @@
         "clarity_nt_char_3437": "clarity_nt_char_3437"
     },
     "11227": {
-        "ミツクリザメ": ""
+        "ミツクリザメ": "Goblin Shark"
     },
     "11228": {
         "clarity_nt_char_3438": "clarity_nt_char_3438"
@@ -33690,19 +33690,19 @@
         "clarity_nt_char_3439": "clarity_nt_char_3439"
     },
     "11231": {
-        "テムノドント": ""
+        "テムノドント": "Temnodontosaurus"
     },
     "11232": {
         "clarity_nt_char_3440": "clarity_nt_char_3440"
     },
     "11233": {
-        "エラスモサウルス": ""
+        "エラスモサウルス": "Elasmosaurus"
     },
     "11234": {
         "clarity_nt_char_3441": "clarity_nt_char_3441"
     },
     "11235": {
-        "シロザメ": ""
+        "シロザメ": "Smooth-Hound"
     },
     "11236": {
         "clarity_nt_char_3442": "clarity_nt_char_3442"
@@ -33717,10 +33717,10 @@
         "clarity_nt_char_3443": "clarity_nt_char_3443"
     },
     "11240": {
-        "ダンクルオステウス": ""
+        "ダンクルオステウス": "Dunkleosteus"
     },
     "11241": {
-        "リードシクティス": ""
+        "リードシクティス": "Leedsichthys"
     },
     "11242": {
         "clarity_nt_char_3444": "clarity_nt_char_3444"
@@ -33735,10 +33735,10 @@
         "clarity_nt_char_3445": "clarity_nt_char_3445"
     },
     "11246": {
-        "メガロドン": ""
+        "メガロドン": "Megalodon"
     },
     "11247": {
-        "ラブカ": ""
+        "ラブカ": "FrillShrk"
     },
     "11248": {
         "コリドラス": "Corydoras"
@@ -33753,43 +33753,43 @@
         "スイカ": "Watermln."
     },
     "11252": {
-        "ホシザメ": ""
+        "ホシザメ": "Spotted Shrk"
     },
     "11253": {
         "clarity_nt_char_3446": "clarity_nt_char_3446"
     },
     "11254": {
-        "旬のマグロ": ""
+        "旬のマグロ": "Seasonal Tuna"
     },
     "11255": {
-        "パイク": ""
+        "パイク": "Pike"
     },
     "11256": {
         "イエローパーチ": "Yellow Perch"
     },
     "11257": {
-        "コチョウザメ": "Pale Sturgeon"
+        "コチョウザメ": "Sterlet"
     },
     "11258": {
         "clarity_nt_char_3447": "clarity_nt_char_3447"
     },
     "11259": {
-        "エレファントノーズ": ""
+        "エレファントノーズ": "Elephantnose Fish"
     },
     "11260": {
-        "ドワーフグラミー": ""
+        "ドワーフグラミー": "Dwarf Gourami"
     },
     "11261": {
         "clarity_nt_char_3448": "clarity_nt_char_3448"
     },
     "11262": {
-        "プラテカルプス": ""
+        "プラテカルプス": "Platecarpus"
     },
     "11263": {
         "レッドアロワナ": "Red Arowana"
     },
     "11264": {
-        "グリーンアロワナ": ""
+        "グリーンアロワナ": "Green Arowana"
     },
     "11265": {
         "clarity_nt_char_3449": "clarity_nt_char_3449"
@@ -33798,28 +33798,28 @@
         "ゴールデンアロワナ": "Golden Arowana"
     },
     "11267": {
-        "シルバーアロワナ": ""
+        "シルバーアロワナ": "Silver Arowana"
     },
     "11268": {
         "clarity_nt_char_3450": "clarity_nt_char_3450"
     },
     "11269": {
-        "旬のカジキ": ""
+        "旬のカジキ": "Seasonal Marlin"
     },
     "11270": {
-        "旬のスイカ": ""
+        "旬のスイカ": "Seasonal Wmelon"
     },
     "11271": {
-        "カエル": ""
+        "カエル": "Frog"
     },
     "11272": {
-        "アカガエル": ""
+        "アカガエル": "Brown Frog"
     },
     "11273": {
         "電気ウナギ": "Electric Eel"
     },
     "11274": {
-        "オオシャコガイ": ""
+        "オオシャコガイ": "Giant Clam"
     },
     "11275": {
         "イクチオサウルス": "Ichthyosaurus"
@@ -33828,13 +33828,13 @@
         "clarity_nt_char_3451": "clarity_nt_char_3451"
     },
     "11277": {
-        "サクラマス": "Masu Salmon"
+        "サクラマス": "Cherry Salmon"
     },
     "11278": {
-        "ホッケ": ""
+        "ホッケ": "Atka Mkrl"
     },
     "11279": {
-        "アイナメ": ""
+        "アイナメ": "Fat Greenlng"
     },
     "11280": {
         "clarity_nt_char_3452": "clarity_nt_char_3452"
@@ -33846,16 +33846,16 @@
         "clarity_nt_char_3453": "clarity_nt_char_3453"
     },
     "11283": {
-        "ヤマメ": ""
+        "ヤマメ": "Strp Slmn"
     },
     "11284": {
-        "ブルーギル": ""
+        "ブルーギル": "Bluegill"
     },
     "11285": {
-        "キングサーモン": ""
+        "キングサーモン": "King Salmon"
     },
     "11286": {
-        "旬のイカ": ""
+        "旬のイカ": "Season Squid"
     },
     "11287": {
         "clarity_nt_char_3454": "clarity_nt_char_3454"
@@ -33867,7 +33867,7 @@
         "clarity_nt_char_3455": "clarity_nt_char_3455"
     },
     "11290": {
-        "リーフシードラゴン": ""
+        "リーフシードラゴン": "Leafy Seadragon"
     },
     "11291": {
         "アンモナイト": "Ammonite"
@@ -33876,55 +33876,55 @@
         "clarity_nt_char_3456": "clarity_nt_char_3456"
     },
     "11293": {
-        "ミナミイシガメ": ""
+        "ミナミイシガメ": "Yellow Pond Turtle"
     },
     "11294": {
-        "ネオンテトラ": ""
+        "ネオンテトラ": "Neon Tetra"
     },
     "11295": {
         "clarity_nt_char_3457": "clarity_nt_char_3457"
     },
     "11296": {
-        "カージナルテトラ": ""
+        "カージナルテトラ": "Cardinal Tetra"
     },
     "11297": {
         "clarity_nt_char_3458": "clarity_nt_char_3458"
     },
     "11298": {
-        "ムベンガ": ""
+        "ムベンガ": "Lg Tigerfish"
     },
     "11299": {
         "clarity_nt_char_3459": "clarity_nt_char_3459"
     },
     "11300": {
-        "オーグリグラマ": ""
+        "オーグリグラマ": "Ogreed Gramma"
     },
     "11301": {
-        "ウェナーフェイス": ""
+        "ウェナーフェイス": "Wenaface"
     },
     "11302": {
         "clarity_nt_char_3460": "clarity_nt_char_3460"
     },
     "11303": {
-        "エルトナヤッコ": ""
+        "エルトナヤッコ": "Eltona Angler"
     },
     "11304": {
-        "ドワエンゼル": ""
+        "ドワエンゼル": "Dwarf Angel"
     },
     "11305": {
         "clarity_nt_char_3461": "clarity_nt_char_3461"
     },
     "11306": {
-        "プククリ": ""
+        "プククリ": "Puku Koori"
     },
     "11307": {
         "clarity_nt_char_3462": "clarity_nt_char_3462"
     },
     "11308": {
-        "レンダーコリス": ""
+        "レンダーコリス": "Lender Coris"
     },
     "11309": {
-        "ながぐつ": ""
+        "ながぐつ": "Rubber Boots"
     },
     "11310": {
         "clarity_nt_char_3463": "clarity_nt_char_3463"
@@ -33933,31 +33933,31 @@
         "アーケロン": "Archelon"
     },
     "11312": {
-        "モモ": ""
+        "モモ": "Peach"
     },
     "11313": {
         "clarity_nt_char_3464": "clarity_nt_char_3464"
     },
     "11314": {
-        "ヤドカリ": ""
+        "ヤドカリ": "Hermit Crab"
     },
     "11315": {
         "clarity_nt_char_3465": "clarity_nt_char_3465"
     },
     "11316": {
-        "パーカーホ": ""
+        "パーカーホ": "Giant Barb"
     },
     "11317": {
-        "旬の黄金イカ": ""
+        "旬の黄金イカ": "Seasonal Gld Squid"
     },
     "11318": {
         "clarity_nt_char_3466": "clarity_nt_char_3466"
     },
     "11319": {
-        "メバル": ""
+        "メバル": "Blk Rkfsh"
     },
     "11320": {
-        "ウーパールーパー": ""
+        "ウーパールーパー": "Axolotl"
     },
     "11321": {
         "clarity_nt_char_3467": "clarity_nt_char_3467"
@@ -33969,7 +33969,7 @@
         "clarity_nt_char_3468": "clarity_nt_char_3468"
     },
     "11324": {
-        "チョウザメ": ""
+        "チョウザメ": "Sturgeon"
     },
     "11325": {
         "ゴマフビウミウシ": "Sea Slug"
@@ -33990,13 +33990,13 @@
         "clarity_nt_char_3471": "clarity_nt_char_3471"
     },
     "11331": {
-        "旬のイセエビ": ""
+        "旬のイセエビ": "Seasonal Lobster"
     },
     "11332": {
         "clarity_nt_char_3472": "clarity_nt_char_3472"
     },
     "11333": {
-        "旬の黄金イセエビ": ""
+        "旬の黄金イセエビ": "Seasonal Golden Lobster"
     },
     "11334": {
         "clarity_nt_char_3473": "clarity_nt_char_3473"
@@ -34008,31 +34008,31 @@
         "clarity_nt_char_3474": "clarity_nt_char_3474"
     },
     "11337": {
-        "ジムナーカス": ""
+        "ジムナーカス": "Frankfish"
     },
     "11338": {
         "clarity_nt_char_3475": "clarity_nt_char_3475"
     },
     "11339": {
-        "メガマウス": ""
+        "メガマウス": "Megamouth Shark"
     },
     "11340": {
-        "ポリプテルス": ""
+        "ポリプテルス": "Bichir"
     },
     "11341": {
         "clarity_nt_char_3476": "clarity_nt_char_3476"
     },
     "11342": {
-        "ペンシルフィッシュ": ""
+        "ペンシルフィッシュ": "Pencil Fish"
     },
     "11343": {
-        "ブラックゴースト": ""
+        "ブラックゴースト": "Black Ghost Knifefish"
     },
     "11344": {
         "clarity_nt_char_3477": "clarity_nt_char_3477"
     },
     "11345": {
-        "ミドリフサアンコウ": ""
+        "ミドリフサアンコウ": "Green Spotted Anglerfsh"
     },
     "11346": {
         "コウモリダコ": "Vampire Squid"
@@ -34041,16 +34041,16 @@
         "clarity_nt_char_3478": "clarity_nt_char_3478"
     },
     "11348": {
-        "ヨロイザメ": ""
+        "ヨロイザメ": "Kitefin Shark"
     },
     "11349": {
-        "プラークラベーン": ""
+        "プラークラベーン": "Plakrabane"
     },
     "11350": {
         "clarity_nt_char_3479": "clarity_nt_char_3479"
     },
     "11351": {
-        "プラー・ブック": ""
+        "プラー・ブック": "Mekong Giant Catfish"
     },
     "11352": {
         "カラフル切り替え土台": ""
@@ -38367,10 +38367,10 @@
         "断罪のジャマダハル": "Judgement Katar"
     },
     "12790": {
-        "神域の大剣": "Sanctuary Sword"
+        "神域の大剣": "Sanctum Grtswd"
     },
     "12791": {
-        "覇王の大剣": "Overlord's Grsw"
+        "覇王の大剣": "High King's Swd"
     },
     "12792": {
         "アカシックソード": "Void Sword"
@@ -38403,13 +38403,13 @@
         "イルミンズールの弓": "Irminsul Bow"
     },
     "12802": {
-        "神域のオノ": "Sanctuary Axe"
+        "神域のオノ": "Sanctum Axe"
     },
     "12803": {
         "ボルテージアックス": "Voltage Axe"
     },
     "12804": {
-        "神域のやり": "Sanctuary Spear"
+        "神域のやり": "Sanctum Spear"
     },
     "12805": {
         "星石のハルバード": "Meteorite Halberd"
@@ -38424,7 +38424,7 @@
         "クリティカルロッド": "Critical Rod"
     },
     "12809": {
-        "神域の短剣": "Sanctuary Knife"
+        "神域の短剣": "Sanctum Knife"
     },
     "12810": {
         "グラフィアス": "Graffias"
@@ -38448,7 +38448,7 @@
         "ガルーダテンペスト": "Garuda Tempest"
     },
     "12817": {
-        "神域のハンマー": "Sanctuary Hammer"
+        "神域のハンマー": "Sanctum Hammer"
     },
     "12818": {
         "星球の鉄槌": "Starball Hammer"
@@ -39147,7 +39147,7 @@
         "ドラゴン練習札": "Green Dragon Tr. Card"
     },
     "13050": {
-        "ビクトリーボックスⅤ": "Victory Box V"
+        "ビクトリーボックスⅤ": "Victory Box Ⅴ"
     },
     "13051": {
         "clarity_nt_char_4008": "clarity_nt_char_4008"
@@ -53310,7 +53310,7 @@
         "けっして破れない|オルセコ闘技城|限定の便せん": ""
     },
     "17771": {
-        "わたぼうから|もらえる|ビクトリーな箱Ⅳ": "Victory Box IV|given to you|by Watabou."
+        "わたぼうから|もらえる|ビクトリーな箱Ⅳ": "Victory Box Ⅳ|given to you|by Watabou."
     },
     "17772": {
         "clarity_nt_char_5576": "clarity_nt_char_5576"
@@ -54861,7 +54861,7 @@
         "わたぼうから|もらえる|ビクトリーな箱": "Victory Box|given to you|by Watabou."
     },
     "18288": {
-        "わたぼうから|もらえる|ビクトリーな箱Ⅱ": "Victory Box II|given to you|by Watabou."
+        "わたぼうから|もらえる|ビクトリーな箱Ⅱ": "Victory Box Ⅱ|given to you|by Watabou."
     },
     "18289": {
         "clarity_nt_char_5757": "clarity_nt_char_5757"
@@ -54999,7 +54999,7 @@
         "コインＬｖ９０|の強ボスが登場|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight a|Lv 90 S. Boss.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "18334": {
-        "ふくのかみ達が|出現するカード|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
+        "ふくのかみ達が|出現するカード|<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": "Use to fight the|God of Luck.|<%sM_time><%sM_time_unit> <%sM_limit><%sM_miman>"
     },
     "18335": {
         "エステラが|求めるココア|ＨＰが回復する": "Cocoa you give|to Estella|restores her HP."
@@ -56457,7 +56457,7 @@
         "少年心を|くすぐられる|玩具風の両手杖": "Toy-like staff|liked by boys."
     },
     "18820": {
-        "魔軍師イッドが|愛用する|杖のレプリカ": "Replica staff|of the demon|warlord Iddo."
+        "魔軍師イッドが|愛用する|杖のレプリカ": "Replica of|Tactician Id's|Staff."
     },
     "18821": {
         "オーガの騎士が|神より賜った|白銀のやり": "Spear given to|the Knight of|Ogreed by gods."
@@ -71862,7 +71862,7 @@
         "clarity_nt_char_7641": "clarity_nt_char_7641"
     },
     "23955": {
-        "壮大な冒険を|予感させる壁かけ|ＤＱⅩⅠの絵": "Wall hanging|picture of the|DQXI adventure"
+        "壮大な冒険を|予感させる壁かけ|ＤＱⅩⅠの絵": "Wall hanging|picture of the|DQⅪ adventure."
     },
     "23956": {
         "clarity_nt_char_7642": "clarity_nt_char_7642"
@@ -74046,7 +74046,7 @@
         "clarity_nt_char_7896": "clarity_nt_char_7896"
     },
     "24683": {
-        "わたぼうから|もらえる|ビクトリーな箱Ⅴ": "Victory Box V|given to you|by Watabou."
+        "わたぼうから|もらえる|ビクトリーな箱Ⅴ": "Victory Box Ⅴ|given to you|by Watabou."
     },
     "24684": {
         "clarity_nt_char_7897": "clarity_nt_char_7897"
@@ -78159,7 +78159,7 @@
         "会心！デッドリーソード": "Critical! Deadly Sword"
     },
     "26054": {
-        "狂戦士伝説": ""
+        "狂戦士伝説": "Mad War. Legend"
     },
     "26055": {
         "必殺のワイルドファング": "Deadly Wild Fang"
@@ -78177,10 +78177,10 @@
         "clarity_nt_char_8349": "clarity_nt_char_8349"
     },
     "26060": {
-        "逢魔が時の魔物": ""
+        "逢魔が時の魔物": "Twilight Apparition"
     },
     "26061": {
-        "天を破るオノ": ""
+        "天を破るオノ": "Break The Heavens"
     },
     "26062": {
         "clarity_nt_char_8350": "clarity_nt_char_8350"
@@ -78192,10 +78192,10 @@
         "clarity_nt_char_8351": "clarity_nt_char_8351"
     },
     "26065": {
-        "呪眼の災い": ""
+        "呪眼の災い": "Cursed Eye Woes"
     },
     "26066": {
-        "妖蛇の毒牙": ""
+        "妖蛇の毒牙": "A Snake's Venom"
     },
     "26067": {
         "黒仙翼の羽ばたき": "Flap of Blk Fairy Wing"
@@ -79611,7 +79611,7 @@
         "clarity_nt_char_8508": "clarity_nt_char_8508"
     },
     "26538": {
-        "旬の黄金本マグロ": ""
+        "旬の黄金本マグロ": "Gold Bluefin Tuna"
     },
     "26539": {
         "clarity_nt_char_8509": "clarity_nt_char_8509"
@@ -80286,13 +80286,13 @@
         "ムドー|練習用のお札|魔法の迷宮で使用": "Use to train on|Murdaw in the|Magic Maze."
     },
     "26763": {
-        "ビクトリーボックスⅥ": "Victory Box VI"
+        "ビクトリーボックスⅥ": "Victory Box Ⅵ"
     },
     "26764": {
         "clarity_nt_char_8585": "clarity_nt_char_8585"
     },
     "26765": {
-        "わたぼうから|もらえる|ビクトリーな箱Ⅵ": "Victory Box VI|given to you|by Watabou."
+        "わたぼうから|もらえる|ビクトリーな箱Ⅵ": "Victory Box Ⅵ|given to you|by Watabou."
     },
     "26766": {
         "clarity_nt_char_8586": "clarity_nt_char_8586"
@@ -81366,16 +81366,16 @@
         "鳴神の雷光": "Thunder's Echo"
     },
     "27123": {
-        "ダインの遺産": ""
+        "ダインの遺産": "Dain's Legacy"
     },
     "27124": {
         "clarity_nt_char_8701": "clarity_nt_char_8701"
     },
     "27125": {
-        "亡霊の猛毒": ""
+        "亡霊の猛毒": "Ghost Poison"
     },
     "27126": {
-        "しっかり切れる四枚刃": ""
+        "しっかり切れる四枚刃": "Four Sturdy Blades"
     },
     "27127": {
         "clarity_nt_char_8702": "clarity_nt_char_8702"
@@ -81399,7 +81399,7 @@
         "clarity_nt_char_8705": "clarity_nt_char_8705"
     },
     "27134": {
-        "チェーン年代記": ""
+        "チェーン年代記": "Chain Chronicles"
     },
     "27135": {
         "ハヤブサ観察日記": ""
@@ -82878,7 +82878,7 @@
         "clarity_nt_char_8858": "clarity_nt_char_8858"
     },
     "27627": {
-        "フラワーギフト券Ⅱ": "Flower Gift Voucher II"
+        "フラワーギフト券Ⅱ": "Flower Gift Voucher Ⅱ"
     },
     "27628": {
         "何種類かの花と|交換できる|チケット第二弾": "Exchange for|several kinds|of flowers."
@@ -82911,25 +82911,25 @@
         "clarity_nt_char_8860": "clarity_nt_char_8860"
     },
     "27638": {
-        "赤の真珠Ⅱ": "Red Pearl II"
+        "赤の真珠Ⅱ": "Red Pearl Ⅱ"
     },
     "27639": {
-        "青の真珠Ⅱ": "Blue Pearl II"
+        "青の真珠Ⅱ": "Blue Pearl Ⅱ"
     },
     "27640": {
-        "緑の真珠Ⅱ": "Green Pearl II"
+        "緑の真珠Ⅱ": "Green Pearl Ⅱ"
     },
     "27641": {
-        "黄の真珠Ⅱ": "Yellow Pearl II"
+        "黄の真珠Ⅱ": "Yellow PearlⅡ"
     },
     "27642": {
-        "紫の真珠Ⅱ": "Purple Pearl II"
+        "紫の真珠Ⅱ": "Purple PearlⅡ"
     },
     "27643": {
-        "銀の真珠Ⅱ": "Silver Pearl II"
+        "銀の真珠Ⅱ": "Silver PearlⅡ"
     },
     "27644": {
-        "アワウキ貝Ⅱ": "Foamy Shell II"
+        "アワウキ貝Ⅱ": "Foamy Shell Ⅱ"
     },
     "27645": {
         "clarity_nt_char_8861": "clarity_nt_char_8861"

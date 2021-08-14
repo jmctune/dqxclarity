@@ -378,7 +378,7 @@
         "双牙の大剣": "Two-Fang Sword"
     },
     "127": {
-        "エリュテイアのオノ": "Erytheia Axe"
+        "エリュテイアのオノ": "Erytheia's Axe"
     },
     "128": {
         "破天のサーベル": "Skyrend Sabre"
@@ -993,7 +993,7 @@
         "clarity_nt_char_114": "clarity_nt_char_114"
     },
     "332": {
-        "ラブリーフェイス+200": "Minacious Allure+200"
+        "ラブリーフェイス+200": "Minacious Allure +200"
     },
     "333": {
         "clarity_nt_char_115": "clarity_nt_char_115"
@@ -3123,7 +3123,7 @@
         "たまにＨＰ１で生き残り": ""
     },
     "1042": {
-        "テンションリンクⅡ": "Tension Link II"
+        "テンションリンクⅡ": "Tension Link Ⅱ"
     },
     "1043": {
         "太陽王の聖陣": ""
@@ -3519,7 +3519,7 @@
         "clarity_nt_char_386": "clarity_nt_char_386"
     },
     "1174": {
-        "シャドウガードⅡ": "Shadow Guard II"
+        "シャドウガードⅡ": "Shadow Guard Ⅱ"
     },
     "1175": {
         "clarity_nt_char_387": "clarity_nt_char_387"
@@ -3528,7 +3528,7 @@
         "ジュエルレイン": ""
     },
     "1177": {
-        "シャドウガードⅢ": "Shadow Guard III"
+        "シャドウガードⅢ": "Shadow Guard Ⅲ"
     },
     "1178": {
         "clarity_nt_char_388": "clarity_nt_char_388"
@@ -7362,7 +7362,7 @@
         "ハンマー装備時の|こうげき力が|１５増える": "Attack +15|when Hammer|equipped."
     },
     "2455": {
-        "敵１体を|攻撃しつつ|守備力も下げる": ""
+        "敵１体を|攻撃しつつ|守備力も下げる": "Attack one enemy|and reduce|their Defense."
     },
     "2456": {
         "clarity_nt_char_804": "clarity_nt_char_804"
@@ -10860,40 +10860,40 @@
         "clarity_nt_char_1199": "clarity_nt_char_1199"
     },
     "3621": {
-        "スラップラーⅡ": "Slapper II"
+        "スラップラーⅡ": "Slapper Ⅱ"
     },
     "3622": {
-        "スラフォースⅡ": "Slaforce II"
+        "スラフォースⅡ": "Slaforce Ⅱ"
     },
     "3623": {
-        "ひかりモーモンⅡ": "Besweet Sanguni II"
+        "ひかりモーモンⅡ": "Besweet Sanguni Ⅱ"
     },
     "3624": {
         "clarity_nt_char_1200": "clarity_nt_char_1200"
     },
     "3625": {
-        "やみモーモンⅡ": "Bewitch Sanguini II"
+        "やみモーモンⅡ": "Bewitch Sanguini Ⅱ"
     },
     "3626": {
         "マーシャルニャーⅡ": ""
     },
     "3627": {
-        "ヒャドの心得Ⅱ": "Crack Style II"
+        "ヒャドの心得Ⅱ": "Crack Style Ⅱ"
     },
     "3628": {
-        "ホイミン流格闘術Ⅱ": "Jiu Slipsu II"
+        "ホイミン流格闘術Ⅱ": "Jiu Slipsu Ⅱ"
     },
     "3629": {
-        "ホイミン流回復術Ⅱ": "Healer II"
+        "ホイミン流回復術Ⅱ": "Healer Ⅱ"
     },
     "3630": {
-        "ソードライダーⅡ": "Sword Knight II"
+        "ソードライダーⅡ": "Sword Knight Ⅱ"
     },
     "3631": {
         "clarity_nt_char_1201": "clarity_nt_char_1201"
     },
     "3632": {
-        "マジックライダーⅡ": "Magic Knight II"
+        "マジックライダーⅡ": "Magic Knight Ⅱ"
     },
     "3633": {
         "キメラのはばたきⅡ": ""
@@ -10905,25 +10905,25 @@
         "clarity_nt_char_1202": "clarity_nt_char_1202"
     },
     "3636": {
-        "ねこまほうⅡ": "Self Currr II"
+        "ねこまほうⅡ": "Self Currr Ⅱ"
     },
     "3637": {
         "clarity_nt_char_1203": "clarity_nt_char_1203"
     },
     "3638": {
-        "メラの心得Ⅱ": "Frizz Style II"
+        "メラの心得Ⅱ": "Frizz Style Ⅱ"
     },
     "3639": {
         "clarity_nt_char_1204": "clarity_nt_char_1204"
     },
     "3640": {
-        "ゲッコウ流剣術Ⅱ": "Swordplay II"
+        "ゲッコウ流剣術Ⅱ": "Swordplay Ⅱ"
     },
     "3641": {
         "clarity_nt_char_1205": "clarity_nt_char_1205"
     },
     "3642": {
-        "ゲッコウ流体術Ⅱ": "Draconic Drambe II"
+        "ゲッコウ流体術Ⅱ": "Draconic Drambe Ⅱ"
     },
     "3643": {
         "clarity_nt_char_1206": "clarity_nt_char_1206"
@@ -10935,7 +10935,7 @@
         "clarity_nt_char_1207": "clarity_nt_char_1207"
     },
     "3646": {
-        "吹雪ブレスの心得Ⅱ": "Cold Breath Style II"
+        "吹雪ブレスの心得Ⅱ": "Cold Breath Style Ⅱ"
     },
     "3647": {
         "レックスセンスⅡ": ""
@@ -10944,7 +10944,7 @@
         "clarity_nt_char_1208": "clarity_nt_char_1208"
     },
     "3649": {
-        "火炎ブレスの心得Ⅱ": "Ferocious Frying II"
+        "火炎ブレスの心得Ⅱ": "Ferocious Frying Ⅱ"
     },
     "3650": {
         "テンション王Ⅱ": ""
@@ -10956,7 +10956,7 @@
         "clarity_nt_char_1209": "clarity_nt_char_1209"
     },
     "3653": {
-        "ドラゴンガッツⅡ": "Toughie II"
+        "ドラゴンガッツⅡ": "Toughie Ⅱ"
     },
     "3654": {
         "clarity_nt_char_1210": "clarity_nt_char_1210"
@@ -10965,7 +10965,7 @@
         "マホドラキーⅡ": ""
     },
     "3656": {
-        "ドルマの心得Ⅱ": "Zam Style II"
+        "ドルマの心得Ⅱ": "Zam Style Ⅱ"
     },
     "3657": {
         "いたずらⅡ": ""
@@ -11016,13 +11016,13 @@
         "キューティハリィⅡ": ""
     },
     "3673": {
-        "たたかうチカラⅡ": "Brute Force II"
+        "たたかうチカラⅡ": "Brute Force Ⅱ"
     },
     "3674": {
         "clarity_nt_char_1215": "clarity_nt_char_1215"
     },
     "3675": {
-        "まもるチカラⅡ": "Power to Protect II"
+        "まもるチカラⅡ": "Power to Protect Ⅱ"
     },
     "3676": {
         "ストレイソードⅡ": ""
@@ -11040,7 +11040,7 @@
         "clarity_nt_char_1217": "clarity_nt_char_1217"
     },
     "3681": {
-        "イオの心得Ⅱ": "Bang Style II"
+        "イオの心得Ⅱ": "Bang Style Ⅱ"
     },
     "3682": {
         "clarity_nt_char_1218": "clarity_nt_char_1218"
@@ -11826,13 +11826,13 @@
         "ダメージが２５％|会心率が5％|増える": ""
     },
     "3943": {
-        "片手剣Ⅱ": "Sword II"
+        "片手剣Ⅱ": "Sword Ⅱ"
     },
     "3944": {
         "clarity_nt_char_1313": "clarity_nt_char_1313"
     },
     "3945": {
-        "両手剣Ⅱ": "Claymore II"
+        "両手剣Ⅱ": "Claymore Ⅱ"
     },
     "3946": {
         "clarity_nt_char_1314": "clarity_nt_char_1314"
@@ -11877,7 +11877,7 @@
         "clarity_nt_char_1318": "clarity_nt_char_1318"
     },
     "3960": {
-        "ブーメランⅡ": "Boomerang II"
+        "ブーメランⅡ": "Boomerang Ⅱ"
     },
     "3961": {
         "clarity_nt_char_1319": "clarity_nt_char_1319"

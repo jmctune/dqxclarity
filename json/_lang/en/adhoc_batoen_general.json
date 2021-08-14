@@ -21,78 +21,78 @@
         "バトエンとは　えんぴつの６つの面に|様々なアクションが　書かれたものを|順番に振って　戦うゲームです。|<br>|バトエンを使ったバトル　「バトエンファイト」は|ターン制で　おこなわれます。|<br>|ターンの最初に　各プレイヤーは|「たたかう」「どうぐ」「チェンジ」の|いずれかのコマンドを　選びます。|<br>|全員のコマンドが　決まったら|「すばやさ」の高いバトエンから|順番にアクションを　おこなっていきます。|<br>|ターン終了時　バトエンが残っているプレイヤーが|２人以上いれば　次のターンに進み|ふたたび　コマンドを　選択します。|<br>|これを　くり返して　|最後まで　生き残ったプレイヤーが|勝者となります！|<end>": "Batoen is a game where various actions are|written on the six different sides of a|pencil, and then rolled to fight each other.|<br>|A \"Batoen Fight\" is where four players pit|against one another in a turn|based game of strategy.|<br>|Each turn, a player can choose from the|commands \"Fight\", \"Item\", or \"Change\".|<br>|Once everyone's commands are chosen, each|player takes action in order, starting with|the Batoen with the highest Agility.|<br>|At the end of the turn, if at least 2 players|remain, repeat this process.|<br>|The last player standing is the winner!|<end>"
     },
     "8": {
-        "バトエンには|●マークと　★マークの　|２種類のバトエンが存在します。|<br>|また　バトエンのアクションには|「●を対象」とするもの　「★を対象」とするもの|「全員を対象」とするものがあります。|<br>|自分や　相手のバトエンが|どちらのマークのバトエンを　攻撃しやすいのかが|勝負を分ける　カギとなります。|<br>|「場の確認」コマンドを使って|自分や　相手のバトエンを|こまめに　確認してみましょう。|<end>": ""
+        "バトエンには|●マークと　★マークの　|２種類のバトエンが存在します。|<br>|また　バトエンのアクションには|「●を対象」とするもの　「★を対象」とするもの|「全員を対象」とするものがあります。|<br>|自分や　相手のバトエンが|どちらのマークのバトエンを　攻撃しやすいのかが|勝負を分ける　カギとなります。|<br>|「場の確認」コマンドを使って|自分や　相手のバトエンを|こまめに　確認してみましょう。|<end>": "There are two types of Batoen: ● Mark and|★ Mark.|<br>|Batoen have abilites that can target ●, ★,|or both marks at once.|<br>|The key to winning is knowing which|types of attacks will hit your opponents|as often as possible.|<br>|Make sure to use the \"Check\" command during|a Batoen Fight to keep tabs on you and your|opponent's Batoen to devise a strategy.|<end>"
     },
     "9": {
-        "ＨＰを回復する　攻撃力を上げるなど|バトエンにおいて　有利となる効果を|持っているのが　どうぐ消しゴムです。|<br>|デッキに　２個まで　セットすることができ|バトエンファイト中に|それぞれ　１回ずつ　使えます。|<br>|どうぐ消しゴムは　使っても無くならず|次のバトエンファイトになれば　また使えるので|積極的に　「どうぐ」コマンドを活用しましょう！|<end>": ""
+        "ＨＰを回復する　攻撃力を上げるなど|バトエンにおいて　有利となる効果を|持っているのが　どうぐ消しゴムです。|<br>|デッキに　２個まで　セットすることができ|バトエンファイト中に|それぞれ　１回ずつ　使えます。|<br>|どうぐ消しゴムは　使っても無くならず|次のバトエンファイトになれば　また使えるので|積極的に　「どうぐ」コマンドを活用しましょう！|<end>": "Erasers in Batoen have a variety of effects,|such as recovering HP or increasing attack|power.|<br>|Up to 2 can be set in a deck, and they can|each be used once per Batoen Fight using the|\"Item\" command.|<br>|You'll get your Erasers back after the battle,|so feel free to use them as often as|you like!|<end>"
     },
     "10": {
-        "「チェンジ」コマンドは　場のバトエンと|控えのバトエンを　入れ替えることのできる|とても　重要なコマンドです。|<br>|さらに　「チェンジ」を使ったターンは|必ず　そのバトエンが持っている|「一番上のアクション」が　おこなわれます。|<br>|これを「チェンジアタック」と呼びます。|「チェンジアタック」を　上手に使えば|確実にダメージを与えることも　できるのです！|<br>|場にあるバトエンを　確認して|相性のいいバトエンに　チェンジすることが|勝利するための　コツです。|<br>|１対１の戦いでは　３回まで。|フリー対戦では　２回まで　チェンジできるので|上手に活用してください。|<end>": ""
+        "「チェンジ」コマンドは　場のバトエンと|控えのバトエンを　入れ替えることのできる|とても　重要なコマンドです。|<br>|さらに　「チェンジ」を使ったターンは|必ず　そのバトエンが持っている|「一番上のアクション」が　おこなわれます。|<br>|これを「チェンジアタック」と呼びます。|「チェンジアタック」を　上手に使えば|確実にダメージを与えることも　できるのです！|<br>|場にあるバトエンを　確認して|相性のいいバトエンに　チェンジすることが|勝利するための　コツです。|<br>|１対１の戦いでは　３回まで。|フリー対戦では　２回まで　チェンジできるので|上手に活用してください。|<end>": "The \"Change\" command is a very important tool|used to swap your active Batoen with one in|your reserve.|<br>|When a Batoen is swapped in with \"Change\", it|will execute its action at the top called a|\"Change Attack\".|<br>|Change Attacks are a great way to deal|guaranteed damage, so make sure to take|advantage of them during each match!|<br>|During 1v1 battles, you can change 3 times|per battle. During Free Battles, you can|change twice per battle.|<end>"
     },
     "11": {
-        "３本のバトエンと|２個のどうぐ消しゴムを　組み合わせたものを|バトエンの「デッキ」と呼びます。|<br>|デッキは　３つまで　保存することができますが|バトエンファイトでは|装備中のデッキ　１つだけで　戦います。|<br>|デッキの内容を　変更したい場合は|バトエンランチャーの|「デッキをつくる」を　選んでください。|<end>": ""
+        "３本のバトエンと|２個のどうぐ消しゴムを　組み合わせたものを|バトエンの「デッキ」と呼びます。|<br>|デッキは　３つまで　保存することができますが|バトエンファイトでは|装備中のデッキ　１つだけで　戦います。|<br>|デッキの内容を　変更したい場合は|バトエンランチャーの|「デッキをつくる」を　選んでください。|<end>": "A combination of 3 Batoen and 2 Erasers forms|a Batoen \"Deck\".|<br>|You can have up to 3 Decks saved, but can|only use one of them during a|Batoen Fight.|<br>|To change the contents of a Deck, select|\"Edit Decks\" in the \"Batoen Launcher\".|<end>"
     },
     "12": {
-        "キラバトエンは　その名のとおり|表面が　キラキラと輝いている　バトエンです。|<br>|すべての種類のバトエンに|通常のバトエンと　キラバトエンの|両方が存在します。|<br>|アクションや　ＨＰなどは　すべて同じで|異なるのは　見た目のみです。|<br>|手に入れることができたら　バトエンファイト中に|キラキラと輝くモンスターを　登場させて|他のプレイヤーに　自慢しましょう！|<end>": ""
+        "キラバトエンは　その名のとおり|表面が　キラキラと輝いている　バトエンです。|<br>|すべての種類のバトエンに|通常のバトエンと　キラバトエンの|両方が存在します。|<br>|アクションや　ＨＰなどは　すべて同じで|異なるのは　見た目のみです。|<br>|手に入れることができたら　バトエンファイト中に|キラキラと輝くモンスターを　登場させて|他のプレイヤーに　自慢しましょう！|<end>": "Shiny Batoen are, as their name suggests, a|Batoen that shines brilliantly.|<br>|All Batoen have a normal version and a shiny|version.|<br>|Shiny Batoen are no different than|normal Batoen in terms of stats or abilities,|but they definitely look cooler!|<br>|If you're lucky enough to get one, put it in|your deck to show off to your opponents!|<end>"
     },
     "13": {
-        "バトエンファイトでは　１０ターン目になると|クライマックスバトルに　突入します！|<br>|クライマックスバトルでは|バトエンの　ほぼすべてのアクションが|「全員」を対象にした攻撃に　置き換わります。|<br>|マークを対象としたアクションが　すべて|全員にヒットすることを　覚えておいて下さい。|<end>": ""
+        "バトエンファイトでは　１０ターン目になると|クライマックスバトルに　突入します！|<br>|クライマックスバトルでは|バトエンの　ほぼすべてのアクションが|「全員」を対象にした攻撃に　置き換わります。|<br>|マークを対象としたアクションが　すべて|全員にヒットすることを　覚えておいて下さい。|<end>": "On the 10th turn of a Batoen Fight, the fight|will shift to \"Climax Battle\"!|<br>|During Climax Battle, almost every action's|target will switch to \"All\".|<br>|Be mindful that actions normally with a mark|will now hit all targets, regardless of their|mark type.|<end>"
     },
     "14": {
-        "バトエンのアクションには|「右をふる」と書かれたものが　存在します。|<br>|「右をふる」のアクションが　おこなわれると|バトエンの右側に書かれた　強力なアクションを|おこなうチャンスが　発生します。|<br>|「右をふる」アクションには|次の３種類があります。|<br>|「もう１回　右をふる」|そのターンのうちに　バトエンの右側に書かれた|アクション６つのうちの　１つをおこなう。|<br>|「次のターン　右をふる」|次のターンだけ　右側のアクションをおこなう。|その次のターンには　元に戻る。|<br>|「次のターンから　右をふる」|次のターン以降　控えに戻るまで|ずっと　右側のアクションをおこなう。|<br>|「右側をみる」ボタンで　右側のアクションを|確認することもできます。|一度　チェックしてみてください。　|<end>": ""
+        "バトエンのアクションには|「右をふる」と書かれたものが　存在します。|<br>|「右をふる」のアクションが　おこなわれると|バトエンの右側に書かれた　強力なアクションを|おこなうチャンスが　発生します。|<br>|「右をふる」アクションには|次の３種類があります。|<br>|「もう１回　右をふる」|そのターンのうちに　バトエンの右側に書かれた|アクション６つのうちの　１つをおこなう。|<br>|「次のターン　右をふる」|次のターンだけ　右側のアクションをおこなう。|その次のターンには　元に戻る。|<br>|「次のターンから　右をふる」|次のターン以降　控えに戻るまで|ずっと　右側のアクションをおこなう。|<br>|「右側をみる」ボタンで　右側のアクションを|確認することもできます。|一度　チェックしてみてください。　|<end>": "There is a type of Batoen action called|\"Roll Right Side\".|<br>|When this action is performed, the Batoen will|flip to its right side to use one of its more|powerful actions.|<br>|There are three types of \"Roll Right Side\"|actions.|<br>|\"Roll Right Side\" will immediately flip over|the Batoen and roll its right side to use one|of the 6 actions.|<br>|\"Roll Right Side Next Turn\" will roll the|right side on the following turn. Afterwards,|it will roll normally.|<br>|\"Roll Right Side From Next Turn On\" will flip|over and use the right side from the next turn|on, until the Batoen leaves the field.|<br>|You can check a Batoen's right side actions|with \"View Right Side\".|<end>"
     },
     "15": {
-        "バトエンの攻撃には|「打撃」「呪文」「ブレス」の３種類が|存在します。|<br>|敵からの　打撃攻撃を無効化するアクションや|呪文の威力をアップさせる　どうぐ消しゴムなど|攻撃の種類で　効果が変わる場合があります。|<br>|「打撃」は「黒い文字」　「呪文」は「青い文字」|「ブレス」は「紫の文字」で　アクションが|書かれていますので　参考にしてください。|<end>": ""
+        "バトエンの攻撃には|「打撃」「呪文」「ブレス」の３種類が|存在します。|<br>|敵からの　打撃攻撃を無効化するアクションや|呪文の威力をアップさせる　どうぐ消しゴムなど|攻撃の種類で　効果が変わる場合があります。|<br>|「打撃」は「黒い文字」　「呪文」は「青い文字」|「ブレス」は「紫の文字」で　アクションが|書かれていますので　参考にしてください。|<end>": "There are three types of Batoen attacks:|\"Physical\", \"Spell\", and \"Breath\".|<br>|Certain effects reference these attack types,|such as nullifying physical damage or an|Eraser that raises spell power.|<br>|Physical attacks have black text, Spells have|blue text, and Breath attacks have purple|text.|<end>"
     },
     "16": {
-        "各ターンでの　バトエンの行動順は|バトエンの「すばやさ」が　高いものからです。|<br>|ただし　「すばやさ」が　同じ値の場合は|ターンごとに　ランダムで|先に行動するバトエンが　決まります。": ""
+        "各ターンでの　バトエンの行動順は|バトエンの「すばやさ」が　高いものからです。|<br>|ただし　「すばやさ」が　同じ値の場合は|ターンごとに　ランダムで|先に行動するバトエンが　決まります。": "Batoen take turns in order from highest to|lowest \"Agility\" value.|<br>|However, if multiple Batoen have the same|Agility value, their turn order will be|decided randomly."
     },
     "17": {
-        "バトエンランチャーを　使用すると|バトエンメニューが　開き|フリー対戦などを　おこなうことが出来ます。|<br>|ただし　レジェスに　認められるまでは|フリー対戦や　デッキの編成は　できません。|<end>": ""
+        "バトエンランチャーを　使用すると|バトエンメニューが　開き|フリー対戦などを　おこなうことが出来ます。|<br>|ただし　レジェスに　認められるまでは|フリー対戦や　デッキの編成は　できません。|<end>": "Use the Batoen Launcher to open the Batoen|menu and participate in Free Battles.|<br>|However, you can't play Free Battles or|organize your decks until you are|approved by Rejes.|<end>"
     },
     "18": {
-        "レジェスに　認められるまで|「デッキをつくる」は　選べないようだ……。|<end>": ""
+        "レジェスに　認められるまで|「デッキをつくる」は　選べないようだ……。|<end>": "You can't select \"Deck Edit\" until you are|approved by Rejes...|<end>"
     },
     "19": {
-        "レジェスに　認められるまで|「デッキのそうび」は　選べないようだ……。|<end>": ""
+        "レジェスに　認められるまで|「デッキのそうび」は　選べないようだ……。|<end>": "You can't select \"Equip Deck\" until you are|approved by Rejes...|<end>"
     },
     "20": {
-        "レジェスに　認められるまで|「フリー対戦」は　選べないようだ……。|<end>": ""
+        "レジェスに　認められるまで|「フリー対戦」は　選べないようだ……。|<end>": "You can't select \"Free Battle\" until you are|approved by Rejes...|<end>"
     },
     "21": {
-        "パーティを　組んでいるときは|フリー対戦は　選択できません。": ""
+        "パーティを　組んでいるときは|フリー対戦は　選択できません。": "You can't play a Free Battle while in a party."
     },
     "22": {
-        "バトエンは　この場所では　プレイできません。|町や城の中でのみ　プレイすることができます。": ""
+        "バトエンは　この場所では　プレイできません。|町や城の中でのみ　プレイすることができます。": "You cannot play Batoen in this location.|Please try again in a town or a castle."
     },
     "23": {
-        "このバトエンは　まだ獲得していません。": ""
+        "このバトエンは　まだ獲得していません。": "You haven't obtained this Batoen yet."
     },
     "24": {
-        "バトエンランチャーから|「フリー対戦」と「なかま対戦」を|選べるようになりました！|<br>|フリー対戦では　マッチングしたお客様同士で|なかま対戦では　今のなかま同士で|バトエンファイトを　することができます！|<end>": ""
+        "バトエンランチャーから|「フリー対戦」と「なかま対戦」を|選べるようになりました！|<br>|フリー対戦では　マッチングしたお客様同士で|なかま対戦では　今のなかま同士で|バトエンファイトを　することができます！|<end>": "You can now select \"Free Battle\" and \"Party|Battle\" from the Batoen Launcher!|<br>|Free Battles will match you with other|players, while Party Battles will use your|current party.|<end"
     },
     "25": {
-        "バトエンが　３本　セットされていません。|デッキを　元の状態に　戻しますか？|<yesno 2><close>": ""
+        "バトエンが　３本　セットされていません。|デッキを　元の状態に　戻しますか？|<yesno 2><close>": "Three Batoen are not set. Would you like to|undo any changes to this deck?|<yesno 2><close>"
     },
     "26": {
-        "バットエンドとの戦いは|１対１で　おこないます。|<br>|彼らの使う　バトエンの特徴を　よく見極め|相性の良いバトエンで　挑むことが|勝利への近道です。|<br>|１対１の戦いでは|ターン開始時に「あきらめる」コマンドを選んで|バトエンファイトを　やめることもできます。|<br>|相性がよくないな　と思ったら|一度　あきらめて|使うバトエンを　変えてみましょう。": ""
+        "バットエンドとの戦いは|１対１で　おこないます。|<br>|彼らの使う　バトエンの特徴を　よく見極め|相性の良いバトエンで　挑むことが|勝利への近道です。|<br>|１対１の戦いでは|ターン開始時に「あきらめる」コマンドを選んで|バトエンファイトを　やめることもできます。|<br>|相性がよくないな　と思ったら|一度　あきらめて|使うバトエンを　変えてみましょう。": "A battle with Bato-End will be a one on one|battle.|<br>|The key to victory is knowing your opponent's|Batoen and countering them accordingly.|<br>|During a one-on-one battle, you can end the|match by selecting \"Give Up\" during your|turn.|<br>|If you find you can't win, give up the battle|so you can change your strategy and try|again."
     },
     "27": {
-        "このデッキを　装備しますか？|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": ""
+        "このデッキを　装備しますか？|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Equip this deck?|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
     },
     "28": {
-        "今パーティにいるなかまと　対戦します。|準備は　よろしいですか？|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": ""
+        "今パーティにいるなかまと　対戦します。|準備は　よろしいですか？|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Play a match with your current party?|<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
     },
     "29": {
-        "パーティの人数が　２人以上いないと|なかま対戦は　選択できません。": ""
+        "パーティの人数が　２人以上いないと|なかま対戦は　選択できません。": "A Party Battle requires 2 or more members in|your party."
     },
     "30": {
-        "レジェスに　認められるまで|「なかま対戦」は　選べないようだ……。|<end>": ""
+        "レジェスに　認められるまで|「なかま対戦」は　選べないようだ……。|<end>": "You can't select \"Party Battle\" until you are|approved by Rejes...|<end>"
     },
     "31": {
-        "バトエンに「なかま対戦」が追加されました！|なかま対戦では　今のなかまと一緒に|バトエンを遊べます｡|<br>|ただし　なかま対戦では|もらえるバトエンポイントが　フリー対戦の|半分になりますので　ご注意ください。|<br>|また　バトルに先に負けた時　パーティから|自動で抜けずに　<cancel>を押すことで|任意に　抜けられるようになりました。|<end>": ""
+        "バトエンに「なかま対戦」が追加されました！|なかま対戦では　今のなかまと一緒に|バトエンを遊べます｡|<br>|ただし　なかま対戦では|もらえるバトエンポイントが　フリー対戦の|半分になりますので　ご注意ください。|<br>|また　バトルに先に負けた時　パーティから|自動で抜けずに　<cancel>を押すことで|任意に　抜けられるようになりました。|<end>": "You can now select \"Party Battle\"! In a Party|Battle, you'll play a Batoen match with your|current party.|<br>|However, please be aware that you will only|receive half the amount of Batoen Points|as you would in a Free Battle.|<br>|Also, when you're defeated in a Party Battle,|you can choose when to leave by pressing|the <cancel> button.|<end>"
     },
     "32": {
-        "バトエンの対戦は　マッチングで参加した|冒険者と遊ぶ「フリー対戦」と　今いる|なかまで遊ぶ「なかま対戦」があります。|<br>|自分１人で遊ぶ時には「フリー対戦」を|なかまで遊ぶ時には　「なかま対戦」で|バトエンファイトを　お楽しみください。|<br>|ただし　なかま対戦では|もらえるバトエンポイントが　フリー対戦の|半分になりますので　ご注意ください。": ""
+        "バトエンの対戦は　マッチングで参加した|冒険者と遊ぶ「フリー対戦」と　今いる|なかまで遊ぶ「なかま対戦」があります。|<br>|自分１人で遊ぶ時には「フリー対戦」を|なかまで遊ぶ時には　「なかま対戦」で|バトエンファイトを　お楽しみください。|<br>|ただし　なかま対戦では|もらえるバトエンポイントが　フリー対戦の|半分になりますので　ご注意ください。": "There are two types of matching in Batoen:|\"Free Battles\" which are solo, and \"Party|Battles\" when in a party.|<br>|\"Free Battles\" match you with random players,|while \"Party Battles\" have you play against|your current party members.|<br>|However, Batoen Points received in Party|Battles are half of that amount that you|receive in a Free Battle."
     }
 }

@@ -9741,7 +9741,7 @@
         "未鑑定アイテム": "Unidentified"
     },
     "3248": {
-        "サブリーダーにする": ""
+        "サブリーダーにする": "Make Sub Leader"
     },
     "3249": {
         "サブリーダーからはずす": ""
@@ -11043,7 +11043,7 @@
         "<%sM_skill1>スキル": "<%sM_skill1> Skill"
     },
     "3682": {
-        "倉庫名": ""
+        "倉庫名": "Storages"
     },
     "3683": {
         "名前を入力": ""
@@ -12474,7 +12474,7 @@
         "レンダーシアⅢ": "Lendersia Ⅲ"
     },
     "4159": {
-        "レンダーシアⅡ": "Lendersia II"
+        "レンダーシアⅡ": "Lendersia Ⅱ"
     },
     "4160": {
         "レンダーシア": "Lendersia"
@@ -19977,7 +19977,7 @@
         "<%sM_Monster>": ""
     },
     "6660": {
-        "（はずす）": ""
+        "（はずす）": "  (Remove)"
     },
     "6661": {
         "完了！": ""
@@ -20004,7 +20004,7 @@
         "clarity_nt_char_2273": "clarity_nt_char_2273"
     },
     "6669": {
-        "戦闘をあきらめる": ""
+        "戦闘をあきらめる": "Give Up Battle"
     },
     "6670": {
         "clarity_nt_char_2274": "clarity_nt_char_2274"
@@ -22467,7 +22467,7 @@
         "clarity_nt_char_2540": "clarity_nt_char_2540"
     },
     "7490": {
-        "全状態異常が無効": ""
+        "全状態異常が無効": "Status Null"
     },
     "7491": {
         "clarity_nt_char_2541": "clarity_nt_char_2541"
@@ -22851,16 +22851,16 @@
         "総帥Ｍに話しかけて　特別報酬を受け取ろう！": "Talk to General M to get a special reward!"
     },
     "7618": {
-        "すばやさが同じときは": ""
+        "すばやさが同じときは": "About Agility Values"
     },
     "7619": {
         "clarity_nt_char_2581": "clarity_nt_char_2581"
     },
     "7620": {
-        "攻撃の種類について": ""
+        "攻撃の種類について": "About Attack Types"
     },
     "7621": {
-        "右をふるアクションとは": ""
+        "右をふるアクションとは": "About Right Side Actions"
     },
     "7622": {
         "クライマックスバトルとは": "About Climax Battle"
@@ -22869,16 +22869,16 @@
         "clarity_nt_char_2582": "clarity_nt_char_2582"
     },
     "7624": {
-        "キラバトエンとは": ""
+        "キラバトエンとは": "Shiny Batoen"
     },
     "7625": {
         "clarity_nt_char_2583": "clarity_nt_char_2583"
     },
     "7626": {
-        "デッキについて": ""
+        "デッキについて": "About Decks"
     },
     "7627": {
-        "くわしいルール": ""
+        "くわしいルール": "Advanced Rules"
     },
     "7628": {
         "チェンジコマンド": "Change Command"
@@ -22890,13 +22890,13 @@
         "どうぐ消しゴム": "Item Eraser"
     },
     "7631": {
-        "バトエンのマーク": ""
+        "バトエンのマーク": "Batoen Marks"
     },
     "7632": {
         "clarity_nt_char_2585": "clarity_nt_char_2585"
     },
     "7633": {
-        "バトルの流れ": ""
+        "バトルの流れ": "Battle Flow"
     },
     "7634": {
         "clarity_nt_char_2586": "clarity_nt_char_2586"
@@ -23028,25 +23028,25 @@
         "clarity_nt_char_2601": "clarity_nt_char_2601"
     },
     "7677": {
-        "コロシアムへ行き|冒険者４人で|バトエンバトル！": ""
+        "コロシアムへ行き|冒険者４人で|バトエンバトル！": "A Batoen Battle|with 3 other|random players!"
     },
     "7678": {
         "clarity_nt_char_2602": "clarity_nt_char_2602"
     },
     "7679": {
-        "デッキの編成や|遊び方の確認を|おこないます": ""
+        "デッキの編成や|遊び方の確認を|おこないます": "Organize your|decks and see|the rules."
     },
     "7680": {
         "clarity_nt_char_2603": "clarity_nt_char_2603"
     },
     "7681": {
-        "デッキのそうび": "Equipped Decks"
+        "デッキのそうび": "Equip Deck"
     },
     "7682": {
         "バトエンランチャー": "Batoen Launcher"
     },
     "7683": {
-        "場の状態をみる": ""
+        "場の状態をみる": "Check Stats"
     },
     "7684": {
         "次の登場バトエン": "Next Batoen"
@@ -23097,7 +23097,7 @@
         "clarity_nt_char_2608": "clarity_nt_char_2608"
     },
     "7700": {
-        "バットエンドに勝つために": ""
+        "バットエンドに勝つために": "Fight Against Bato-End"
     },
     "7701": {
         "clarity_nt_char_2609": "clarity_nt_char_2609"
@@ -24183,7 +24183,7 @@
         "だみーだみーだみー": ""
     },
     "8062": {
-        "なかま対戦": "Party Matching"
+        "なかま対戦": "Party Battle"
     },
     "8063": {
         "<%2dM_hh1>：<%02dM_mm1>～<%2dM_hh2>：<%02dM_mm2>": ""
@@ -24204,7 +24204,7 @@
         "clarity_nt_char_2730": "clarity_nt_char_2730"
     },
     "8069": {
-        "コロシアムへ行き|今のなかまで|バトエンバトル！": ""
+        "コロシアムへ行き|今のなかまで|バトエンバトル！": "A Batoen battle|with the members|of your party!"
     },
     "8070": {
         "clarity_nt_char_2731": "clarity_nt_char_2731"
@@ -24528,7 +24528,7 @@
         "すべて見る": ""
     },
     "8177": {
-        "対戦方法について": ""
+        "対戦方法について": "Battle Types"
     },
     "8178": {
         "clarity_nt_char_2762": "clarity_nt_char_2762"
@@ -25101,7 +25101,7 @@
         "clarity_nt_char_2831": "clarity_nt_char_2831"
     },
     "8368": {
-        "マスターⅠについて": "About Master I"
+        "マスターⅠについて": "About Master Ⅰ"
     },
     "8369": {
         "獲得カジノコイン": "Casino Coin Prizes"
@@ -25221,22 +25221,22 @@
         "合計貢献度": ""
     },
     "8408": {
-        "ⅲ": ""
+        "ⅲ": "ⅲ"
     },
     "8409": {
-        "ⅱ": ""
+        "ⅱ": "ⅱ"
     },
     "8410": {
-        "ⅰ": ""
+        "ⅰ": "ⅰ"
     },
     "8411": {
-        "Ⅲ": ""
+        "Ⅲ": "Ⅲ"
     },
     "8412": {
-        "Ⅱ": ""
+        "Ⅱ": "Ⅱ"
     },
     "8413": {
-        "Ⅰ": ""
+        "Ⅰ": "Ⅰ"
     },
     "8414": {
         "エサの残り": "Monster Bait"
@@ -29619,7 +29619,7 @@
         "(<%dM_point> P)": ""
     },
     "9874": {
-        "段位戦ランキング": "Dan Battle Ranking"
+        "段位戦ランキング": "Ranked Battle Ranking"
     },
     "9875": {
         "clarity_nt_char_3330": "clarity_nt_char_3330"
@@ -29760,7 +29760,7 @@
         "獲得ポイントを見る": "View Points To Earn"
     },
     "9921": {
-        "自分の段位を見る": "View Your Dan Rank"
+        "自分の段位を見る": "View Your Rank"
     },
     "9922": {
         "clarity_nt_char_3341": "clarity_nt_char_3341"
@@ -30207,7 +30207,7 @@
         "獲得決定戦ポイント": ""
     },
     "10070": {
-        "段位戦ランキングについて": "About Dan Battle Ranking"
+        "段位戦ランキングについて": "About Ranked Battle Ranking"
     },
     "10071": {
         "clarity_nt_char_3388": "clarity_nt_char_3388"
@@ -30588,7 +30588,7 @@
         "セットした見た目を元に戻す": "Undo Changes"
     },
     "10197": {
-        "近くの対象へ": "Target Nearest"
+        "近くの対象へ": "Go To Nearest"
     },
     "10198": {
         "clarity_nt_char_3437": "clarity_nt_char_3437"
@@ -30798,22 +30798,22 @@
         "Ⅹ": ""
     },
     "10267": {
-        "Ⅳ": ""
+        "Ⅳ": "Ⅳ"
     },
     "10268": {
-        "Ⅴ": ""
+        "Ⅴ": "Ⅴ"
     },
     "10269": {
-        "Ⅵ": ""
+        "Ⅵ": "Ⅵ"
     },
     "10270": {
-        "Ⅶ": ""
+        "Ⅶ": "Ⅶ"
     },
     "10271": {
-        "Ⅷ": ""
+        "Ⅷ": "Ⅷ"
     },
     "10272": {
-        "Ⅸ": ""
+        "Ⅸ": "Ⅸ"
     },
     "10273": {
         "パーツと担当について": ""
@@ -31146,7 +31146,7 @@
         "とくぎ使用率を見る": ""
     },
     "10383": {
-        "効果と入手方法": ""
+        "効果と入手方法": "Effect/How to Get"
     },
     "10384": {
         "タロットパック各色": "Tarot Pack Colors"

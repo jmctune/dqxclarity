@@ -1,9 +1,9 @@
 {
     "1": {
-        "「ギャンブラーの桃源郷　カジノへようこそ！ |　ここは　カジノコイン　売り場です。|<br>|「カジノコインは　合計が　<%dL_BUY_MAX_COIN>枚になるまで|　ご購入いただけます。カジノコインチケットは|　チケットに応じた枚数にて　交換いたします。|<bw_break>": ""
+        "「ギャンブラーの桃源郷　カジノへようこそ！ |　ここは　カジノコイン　売り場です。|<br>|「カジノコインは　合計が　<%dL_BUY_MAX_COIN>枚になるまで|　ご購入いただけます。カジノコインチケットは|　チケットに応じた枚数にて　交換いたします。|<bw_break>": "Welcome to the Casino, a gambler's paradise!|This is the Casino Coin Counter.|<br>|You can purchase Casino Coins up to a|maximum of <%dL_BUY_MAX_COIN> held Coins. You can exchange|Casino Coin Tickets here, too."
     },
     "2": {
-        "「それでは　引き続き|　すごろくを　お楽しみくださいませ！|<end>": ""
+        "「それでは　引き続き|　すごろくを　お楽しみくださいませ！|<end>": "Well then, please continue to enjoy Sugoroku!|<end>"
     },
     "3": {
         "「あら　ふくろに　空きがないみたいです。|　景品を受け取るには　どうぐや|　そうびぶくろに　空きが必要になります。|<br>|「ふくろを　整理されてから|　また　お越しくださいませ。|<end>": ""
@@ -15,19 +15,19 @@
         "「お預かりしている　景品はこちらです。|　では　すべて　お渡しさせていただきますね！|<end>": ""
     },
     "6": {
-        "<pc>は　|<%sM_PRIZE>を　<%dM_PRIZENum>こ|手に入れた！|<se_nots System 7><bw_break>": ""
+        "<pc>は　|<%sM_PRIZE>を　<%dM_PRIZENum>こ|手に入れた！|<se_nots System 7><bw_break>": "<pc> received <%dM_PRIZENum> <%sM_PRIZE>!|<se_nots System 7><bw_break>"
     },
     "7": {
-        "<pc>は　<%sM_PRIZE>を|手に入れた！|<se_nots System 7><bw_break>": ""
+        "<pc>は　<%sM_PRIZE>を|手に入れた！|<se_nots System 7><bw_break>": "<pc> received <%sM_PRIZE>!|<se_nots System 7><bw_break>"
     },
     "8": {
-        "「<%sM_PRIZE>　ですね。|　はい！　どうぞっ！|<break>": ""
+        "「<%sM_PRIZE>　ですね。|　はい！　どうぞっ！|<break>": "<%sM_PRIZE>, is it?|Very good! Here you are!|<break>"
     },
     "9": {
         "「お預かりしていた景品は|　すべて　お渡しいたしました！|　引き続き　すごろくを　お楽しみください！|<end>": ""
     },
     "10": {
-        "「どの景品を　受け取りになられますか？|<break>": ""
+        "「どの景品を　受け取りになられますか？|<break>": "Which prize did you want to take?|<break>"
     },
     "11": {
         "「どの内容について　説明を聞きますか？|<select_se_off>|景品受け取りカウンターとは|受け取りについて|<select_end><close>": ""
@@ -45,10 +45,10 @@
         "「いらっしゃいませ！　こちらは|　すごろく景品　受け取りカウンターです。|<br>|「お客さまは　はじめてのご利用ですね。|　さっそくですが　こちらのサービスについて|　かんたんに　ご案内させていただきます。|<br>|「当カウンターは　すごろくをプレイして|　持ちきれなかった景品を　一時的に|　お預かりする施設となっております。|<br>|「すごろくをプレイされた後　こちらの|　受け取りカウンターに　お越しいただければ|　景品を　受け取ることができます。|<br>|「ただし　すべての景品を　受け取られるまで|　すごろくを　プレイできなくなりますので|　ご注意ください。|<br>|「当カウンターにて　すべての景品を|　受け取っていただくことで　再び|　すごろくを　プレイすることができます。|<br>|「以上が　サービスのご案内となりますが|　もう一度　ご説明を聞きたい場合は|　『説明を聞く』から　ご確認いただけます。|<br>|「それでは　あらためまして……|<end>": ""
     },
     "16": {
-        "<select_se_off>|すごろく景品を受け取る|説明を聞く|<select_end><close>": ""
+        "<select_se_off>|すごろく景品を受け取る|説明を聞く|<select_end><close>": "<select_se_off>|Receive Sugoroku Prizes|Explanation|<select_end><close>"
     },
     "17": {
-        "「他に　どのような　ご用でしょうか？|<break>": ""
+        "「他に　どのような　ご用でしょうか？|<break>": "Do you need anything else?|<break>"
     },
     "18": {
         "「おや？|　どうやら　前回のプレイの報酬が|　正常に受け取れなかったみたいですね。|<br>|「受け取れなかったアイテムは|　こちらで　お預かりしております。|<end>": ""
@@ -60,10 +60,10 @@
         "「選びなおされるのですね。|　それでは　どちらにいたしますか？|<break>": ""
     },
     "21": {
-        "「かしこまりました。|　では　<%sM_PRIZE>を|　お渡しさせていただきますね。|<end>": ""
+        "「かしこまりました。|　では　<%sM_PRIZE>を|　お渡しさせていただきますね。|<end>": "Understood. Then, I'll give the|<%sM_PRIZE> to you."
     },
     "22": {
-        "「<%sM_PRIZE>で|　よろしいでしょうか？|<yesno 2><break>": ""
+        "「<%sM_PRIZE>で|　よろしいでしょうか？|<yesno 2><break>": "You're good with <%sM_PRIZE>?|<yesno 2><break>"
     },
     "23": {
         "「こちらのアイテムは|　『すごろく景品を受け取る』から|　受け取ることができますので　ご確認ください。|<br>|「それでは　お待たせいたしました。|<break>": ""

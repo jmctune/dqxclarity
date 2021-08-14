@@ -627,7 +627,7 @@
         "clarity_nt_char_70": "clarity_nt_char_70"
     },
     "210": {
-        "<speed=0>チームメンバーが　いっぱいです！|これ以上は　誘えません。": "<speed=0>We have too many team members!|You can't invite any more."
+        "<speed=0>チームメンバーが　いっぱいです！|これ以上は　誘えません。": "<speed=0>There's too many team members!|You can't invite any more."
     },
     "211": {
         "clarity_nt_char_71": "clarity_nt_char_71"
@@ -2973,7 +2973,7 @@
         "clarity_nt_char_334": "clarity_nt_char_334"
     },
     "992": {
-        "<%sM_monster>を　仲間にしますか？<se_nots System 0><break>": ""
+        "<%sM_monster>を　仲間にしますか？<se_nots System 0><break>": "Do you want to befriend <%sM_monster>?<se_nots System 0><break>"
     },
     "993": {
         "clarity_nt_char_335": "clarity_nt_char_335"
@@ -3312,7 +3312,7 @@
         "clarity_nt_char_369": "clarity_nt_char_369"
     },
     "1105": {
-        "なんと　<%sM_monster>が　起きあがり|仲間になりたそうに　こちらを見ている！": "Looks like <%sM_monster> got up and wants to be friends!"
+        "なんと　<%sM_monster>が　起きあがり|仲間になりたそうに　こちらを見ている！": "Looks like <%sM_monster> got up and wants|to be friends!"
     },
     "1106": {
         "clarity_nt_char_370": "clarity_nt_char_370"
@@ -3330,7 +3330,7 @@
         "<%sM_monster>に　ここで　名前をつけますか？|<color_yellow>※モンスター酒場で　いつでも変更できます。<color_white><yesno><close>": ""
     },
     "1111": {
-        "<%sM_monster_name>で　よろしいですか？<yesno><break>": "<%sM_monster_name> is okay?"
+        "<%sM_monster_name>で　よろしいですか？<yesno><break>": "Is <%sM_monster_name> okay? <yesno><break>"
     },
     "1112": {
         "clarity_nt_char_372": "clarity_nt_char_372"
@@ -9219,7 +9219,7 @@
         "<speed=0>魔の波動が高まっていないため　使用できない！": ""
     },
     "3074": {
-        "<speed=0>|何ゲーム遊びますか？|２ゲーム目からは　ゲームを始める前に|ほかの階級のプレイヤーと　カードを交換します。|<select_se_off>|１ゲーム|２ゲーム|３ゲーム|４ゲーム|<select_end><close>": "<speed=0>|How many games do you want to play? |From the second game, you exchange cards with other|players of the same rank before starting the game. |<select_se_off>|1 game|2 games|3 games|4 games|<select_end><close>"
+        "<speed=0>|何ゲーム遊びますか？|２ゲーム目からは　ゲームを始める前に|ほかの階級のプレイヤーと　カードを交換します。|<select_se_off>|１ゲーム|２ゲーム|３ゲーム|４ゲーム|<select_end><close>": "<speed=0>|How many games do you want to play? From the|second game, you exchange cards with other|players of the same rank before starting.|<select_se_off>|1 game|2 games|3 games|4 games|<select_end><close>"
     },
     "3075": {
         "スタンダード": "Standard"

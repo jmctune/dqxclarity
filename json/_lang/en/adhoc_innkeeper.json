@@ -54,7 +54,7 @@
         "「さようなら　旅の人。|　また　お立ち寄りください。<turn_end>": ""
     },
     "19": {
-        "「いらっしゃい。ここは　旅人の宿よ。|　おひとり　<%nL_YADOYA_GOLD>ゴールドだけど|　休んでく？|<yesno><break>": ""
+        "「いらっしゃい。ここは　旅人の宿よ。|　おひとり　<%nL_YADOYA_GOLD>ゴールドだけど|　休んでく？|<yesno><break>": "Welcome to the traveler's inn!|For one person it's <%nL_YADOYA_GOLD> gold.|Would you like to stay and rest?|<yesno><break>"
     },
     "20": {
         "「あら　お金が　足りないの？<bw_break>": ""
@@ -63,13 +63,13 @@
         "「おはよ。|　ゆっくり休めた？|　じゃあ　いってらっしゃい。<turn_end>": ""
     },
     "22": {
-        "「オッケー。|　じゃあ　ゆっくり休んでってね。": ""
+        "「オッケー。|　じゃあ　ゆっくり休んでってね。": "Okay.|Please have a good rest."
     },
     "23": {
         "「オッケー。|　じゃあ　ゆっくり休んでいきなよ。|　でも　あんまり　さわがないでね。": ""
     },
     "24": {
-        "「そっか　残念。|　この次は　休んでいってね。<turn_end>": ""
+        "「そっか　残念。|　この次は　休んでいってね。<turn_end>": "Oh, sorry.|Please take a rest next time.<turn_end>"
     },
     "25": {
         "「おはようございます。|　よく　お休みでしたね。|<br>|「おっと　そうだ。ウチに泊まる　お客さんから|　<pc>さんの話を　たまに聞きますよ。|　色々　活躍されてるそうですね。|<end>": ""

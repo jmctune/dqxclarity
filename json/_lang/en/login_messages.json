@@ -54,7 +54,7 @@
         "利用券の有効期間が　残り<%n_DAY>日です！|先に　利用券を購入するために　ログアウトして|アストルティア入国管理局を開きますか？|<select_nc>|アストルティア入国管理局へ|今は購入しない|<select_end><close>": "Your current play voucher has <%d_DAY> days remaining!|Would you like to log out and visit the|Astoltia Immigration Bureau to renew?|<select_nc>|Renew Voucher|Don't Renew|<select_end><close>"
     },
     "19": {
-        "利用券の有効期間が　今日の２４時で切れます！|先に　利用券を購入するために　ログアウトして|アストルティア入国管理局を開きますか？|<select_nc>|アストルティア入国管理局へ|今は購入しない|<select_end><close>": "Your current play voucher has 24 hours remaining!|Would you like to log out and visit the|Astoltia Immigration Bureau to renew?|<select_nc>|Renew Voucher|Don't Renew|<select_end><close>"
+        "利用券の有効期間が　今日の２４時で切れます！|先に　利用券を購入するために　ログアウトして|アストルティア入国管理局を開きますか？|<select_nc>|アストルティア入国管理局へ|今は購入しない|<select_end><close>": "Current play voucher has 24 hours remaining!|Would you like to log out and visit the|Astoltia Immigration Bureau to renew?|<select_nc>|Renew Voucher|Don't Renew|<select_end><close>"
     },
     "20": {
         "（※削除予定）<bw_break>": "(*Plan to Delete)<bw_break>"
