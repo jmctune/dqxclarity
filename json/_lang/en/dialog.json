@@ -1770,7 +1770,7 @@
         "<speed=0>仲間にさそい　相手の返事を待ちます。|<%sM_pc2>を　仲間に　さそいますか？|<yesno><close>": ""
     },
     "591": {
-        "<speed=0>|保護者同意の上での　フレンドの機能の利用を|受け付けました。フレンドリストには|最大200人まで　登録できます。|<br>|※フレンド登録するのは　実際に顔を知っている|　リアル世界での友達だけにしましょう。|<br>|フレンドに誘うときは　先に　相手に|誘ってもよいかを　確認してからにしましょう。|相手からもＯＫされると　フレンドになります。|<br>|自分のフレンドリストから　キャラをはずすと|相手のフレンドリストからも|自分のキャラがはずれますので　ご注意ください。": "<speed=0>|Friend list parental consent accepted. Your friend's|list can have up to 200 people registered.|<br>|*If adding friends from real life, make sure you|actually know them face to face.|<br>|Make sure the person you're sending a request|to is okay with it. If they accept, you'll be added to|each other's friend lists.|<br>|Please remember that if you remove a friend, you|will also be removed from their friend list."
+        "<speed=0>|保護者同意の上での　フレンドの機能の利用を|受け付けました。フレンドリストには|最大200人まで　登録できます。|<br>|※フレンド登録するのは　実際に顔を知っている|　リアル世界での友達だけにしましょう。|<br>|フレンドに誘うときは　先に　相手に|誘ってもよいかを　確認してからにしましょう。|相手からもＯＫされると　フレンドになります。|<br>|自分のフレンドリストから　キャラをはずすと|相手のフレンドリストからも|自分のキャラがはずれますので　ご注意ください。": "<speed=0>|Friend list parental consent accepted.|Your friend's list can have up to 200 people|registered.|<br>|*If adding friends from real life, make sure you|actually know them face to face.|<br>|Make sure the person you're sending a request|to is okay with it. If they accept, you'll be added to|each other's friend lists.|<br>|Please remember that if you remove a friend, you|will also be removed from their friend list."
     },
     "592": {
         "clarity_nt_char_200": "clarity_nt_char_200"
