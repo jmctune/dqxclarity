@@ -6258,7 +6258,7 @@
         "clarity_nt_char_703": "clarity_nt_char_703"
     },
     "2087": {
-        "<speed=0>仲間が　見つかりませんでした。|特別ゲストだけのパーティになりますが|もう一度　仲間を探しますか？|<select>|もう一度探す|このまま行く|行くのをやめる|<select_end>|<close>": ""
+        "<speed=0>仲間が　見つかりませんでした。|特別ゲストだけのパーティになりますが|もう一度　仲間を探しますか？|<select>|もう一度探す|このまま行く|行くのをやめる|<select_end>|<close>": "<speed=0>Couldn't find a party. This is a|party for special guests only. Search again?|<select>|Search Again|Go As Is|Stop Searching|<select_end>|<close>"
     },
     "2088": {
         "clarity_nt_char_704": "clarity_nt_char_704"
