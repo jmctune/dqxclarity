@@ -849,10 +849,10 @@
         "このモンスターは|特殊効果を 持っていない": "This monster has no special|effects."
     },
     "284": {
-        "デッキに入れると １枚につき|身かわし率が|０．１％ずつ上がる": "Putting this back in the deck increases|dodge rate by 0.1% per card put."
+        "デッキに入れると １枚につき|身かわし率が|０．１％ずつ上がる": "Putting this back in the deck|boosts dodge rate by 0.1% per card."
     },
     "285": {
-        "デッキに入れると １枚につき|身かわし率が|０．２％ずつ上がる": "Putting this back in the deck increases|dodge rate by 0.2% per card put."
+        "デッキに入れると １枚につき|身かわし率が|０．２％ずつ上がる": "Putting this back in the deck|boosts dodge rate by 0.2% per card."
     },
     "286": {
         "デッキに入れると １枚につき|身かわし率が|０．３％ずつ上がる": "Putting this back in the deck increases|dodge rate by 0.3% per card put."
