@@ -6162,7 +6162,7 @@
         "clarity_nt_char_691": "clarity_nt_char_691"
     },
     "2055": {
-        "<speed=0>|相手が　見つかりませんでした。": ""
+        "<speed=0>|相手が　見つかりませんでした。": "<speed=0>|Couldn't find an opponent."
     },
     "2056": {
         "この宝箱は　すでに入手済です。": ""
