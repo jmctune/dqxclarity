@@ -9573,7 +9573,7 @@
         "他の冒険者からの|招待や申請を|非表示にします": "Hide any|invitations and|requests."
     },
     "3192": {
-        "<speed=0>|このサーバーでは　『配信中』に設定できません。|『配信OK』のサーバーに　移動してから|設定してください。": ""
+        "<speed=0>|このサーバーでは　『配信中』に設定できません。|『配信OK』のサーバーに　移動してから|設定してください。": "<speed=0>|You cannot set \"Streaming\" on this server.|Please move to a server designated as|\"Streaming OK\" first."
     },
     "3193": {
         "<speed=0><color_yellow>|つかうものや　預かり所　屋根ウラ収納にあった|アイテムは　自動で　『おまとめぶくろ』に|移されていますので　ご確認ください。|<br>|また　郵便箱や　住宅村の収納家具にある|アイテムは　一度　取り出す|必要がありますので　ご注意ください。": ""
