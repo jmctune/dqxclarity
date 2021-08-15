@@ -7077,7 +7077,7 @@
         "<speed=0><%sM_TargetParty>が　見つかりませんでした。|もう一度　<%sM_TargetParty>を探しますか？|<break>": "<speed=0>Couldn't find <%sM_TargetParty>.|Search again for <%sM_TargetParty>?|<break>"
     },
     "2360": {
-        "<speed=0>回復を担う仲間が　規定の人数|見つかりませんでした。|もう一度　仲間を探しますか？|<break>": ""
+        "<speed=0>回復を担う仲間が　規定の人数|見つかりませんでした。|もう一度　仲間を探しますか？|<break>": "<speed=0>Couldn't find enough party members with|a recovery role. Search again?|<break>"
     },
     "2361": {
         "clarity_nt_char_793": "clarity_nt_char_793"
@@ -7179,10 +7179,10 @@
         "clarity_nt_char_804": "clarity_nt_char_804"
     },
     "2394": {
-        "<speed=0><%sM_TargetParty>が　見つかりませんでした。": ""
+        "<speed=0><%sM_TargetParty>が　見つかりませんでした。": "<speed=0>Couldn't find <%sM_TargetParty>."
     },
     "2395": {
-        "<speed=0>回復を担う仲間が　規定の人数|見つかりませんでした。": ""
+        "<speed=0>回復を担う仲間が　規定の人数|見つかりませんでした。": "<speed=0>Couldn't find enough members with a|recovery role."
     },
     "2396": {
         "同盟相手": "alliance"
@@ -7305,7 +7305,7 @@
         "clarity_nt_char_818": "clarity_nt_char_818"
     },
     "2436": {
-        "<speed=0><%sM_TargetParty>が　見つかりませんでした。|もう一度　仲間を探しますか？|<break>": ""
+        "<speed=0><%sM_TargetParty>が　見つかりませんでした。|もう一度　仲間を探しますか？|<break>": "<speed=0>Couldn't find <%sM_TargetParty>.|Search again?|<break>"
     },
     "2437": {
         "clarity_nt_char_819": "clarity_nt_char_819"
