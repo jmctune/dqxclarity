@@ -573,7 +573,7 @@
         "チームクエスト『<%sC_QUEST>』達成！": "Team Quest \"<%sC_QUEST>\" done!"
     },
     "192": {
-        "<%sC_QUEST>クエストの 報告完了です!": "<%sC_QUEST> Quest Report completed!"
+        "<%sC_QUEST>クエストの 報告完了です!": "Quest \"<%sC_QUEST>\" was reported!"
     },
     "193": {
         "clarity_nt_char_62": "clarity_nt_char_62"
