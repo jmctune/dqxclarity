@@ -4383,7 +4383,7 @@
         "clarity_nt_char_490": "clarity_nt_char_490"
     },
     "1462": {
-        "<speed=0><%sM_PTMember>が　見つかりませんでした。|もう一度　<%sM_PTMember>を探しますか？|<select>|もう一度探す|このまま行く|行くのをやめる|<select_end>|<close>": ""
+        "<speed=0><%sM_PTMember>が　見つかりませんでした。|もう一度　<%sM_PTMember>を探しますか？|<select>|もう一度探す|このまま行く|行くのをやめる|<select_end>|<close>": "<speed=0>Couldn't find <%sM_PTMember>.|Search for <%sM_PTMember> again?|<select>|Search Again|Go As Is|Stop Searching|<select_end>|<close>"
     },
     "1463": {
         "<speed=0>|まとめアイテムの使い方を　説明します。|まとめアイテムで　『そうび』を選ぶと|変身できる装備の一覧が　表示されます。|<br>|変身できる装備の一覧から　お好みの装備を選ぶと|まとめアイテムが　その装備に変身します。|変身は　何度でも可能なので　お気軽にどうぞ！": ""
@@ -7056,7 +7056,7 @@
         "clarity_nt_char_790": "clarity_nt_char_790"
     },
     "2353": {
-        "<speed=0><%sM_PTMember>が　見つかりませんでした。|もう一度　<%sM_PTMember>を探しますか？|<break>": "<speed=0>Couldn't find member. Search for|member again?|<break>"
+        "<speed=0><%sM_PTMember>が　見つかりませんでした。|もう一度　<%sM_PTMember>を探しますか？|<break>": "<speed=0>Couldn't find <%sM_PTMember>.| Search for <%sM_PTMember> again?|<break>"
     },
     "2354": {
         "<speed=0>仲間が　見つかりませんでした。|特別ゲストだけのパーティになりますが|もう一度　仲間を探しますか？|<break>": "<speed=0>Couldn't find party members. This is a party|for special guests only. Search again?|<break>"
