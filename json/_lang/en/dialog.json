@@ -7059,13 +7059,13 @@
         "<speed=0><%sM_PTMember>が　見つかりませんでした。|もう一度　<%sM_PTMember>を探しますか？|<break>": "<speed=0>Couldn't find member. Search for|member again?|<break>"
     },
     "2354": {
-        "<speed=0>仲間が　見つかりませんでした。|特別ゲストだけのパーティになりますが|もう一度　仲間を探しますか？|<break>": "<speed=0>Couldn't find a party. This is a|party for special guests only. Search again?|<break>"
+        "<speed=0>仲間が　見つかりませんでした。|特別ゲストだけのパーティになりますが|もう一度　仲間を探しますか？|<break>": "<speed=0>Couldn't find party members. This is a party|for special guests only. Search again?|<break>"
     },
     "2355": {
         "clarity_nt_char_791": "clarity_nt_char_791"
     },
     "2356": {
-        "<speed=0>仲間が　見つかりませんでした。|サポート仲間だけのパーティになりますが|もう一度　仲間を探しますか？|<break>": ""
+        "<speed=0>仲間が　見つかりませんでした。|サポート仲間だけのパーティになりますが|もう一度　仲間を探しますか？|<break>": "<speed=0>Couldn't find party members. This is a party|with only support members. Search again?|<break>"
     },
     "2357": {
         "ドルボードに|乗車時の視点を|設定します": "Set viewpoint|when riding the|dolboard."
@@ -7074,7 +7074,7 @@
         "clarity_nt_char_792": "clarity_nt_char_792"
     },
     "2359": {
-        "<speed=0><%sM_TargetParty>が　見つかりませんでした。|もう一度　<%sM_TargetParty>を探しますか？|<break>": ""
+        "<speed=0><%sM_TargetParty>が　見つかりませんでした。|もう一度　<%sM_TargetParty>を探しますか？|<break>": "<speed=0>Couldn't find <%sM_TargetParty>.|Search again for <%sM_TargetParty>?|<break>"
     },
     "2360": {
         "<speed=0>回復を担う仲間が　規定の人数|見つかりませんでした。|もう一度　仲間を探しますか？|<break>": ""
