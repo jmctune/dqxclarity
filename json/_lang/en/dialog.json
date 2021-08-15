@@ -7047,7 +7047,7 @@
         "<speed=0>ゲーム画面表示を『<color_yellow>表示設定Ａ<color_white>』の|画質設定：<color_yellow><%sM_image><color_white>　描画速度：<color_yellow><%sM_fps><color_white>に|切り替えますが　よろしいですか？|<yesno><close>": ""
     },
     "2350": {
-        "<select>もう一度探す|このまま行く|行くのをやめる|<select_end><close>": "<select>Look again|Keep going|Leave|<select_end><close>"
+        "<select>もう一度探す|このまま行く|行くのをやめる|<select_end><close>": "<select>Search Again|Go As Is|Stop Searching|<select_end><close>"
     },
     "2351": {
         "<select>もう一度探す|行くのをやめる|<select_end><close>": "<select>Look again|Leave|<select_end><close>"
@@ -8082,7 +8082,7 @@
         "<speed=0>仲間が　見つかりませんでした。|サポートなかまを追加して|このまま　奥に進みますか？|<break>": "<speed=0>Couldn't find party members. Would you like|to add support party members and proceed?|<break>"
     },
     "2695": {
-        "<select>このまま行く|もう一度探す|行くのをやめる|<select_end><close>": "<select>Keep going|Look again|Leave|<select_end><close>"
+        "<select>このまま行く|もう一度探す|行くのをやめる|<select_end><close>": "<select>Go As Is|Search Again|Stop Searching|<select_end><close>"
     },
     "2696": {
         "<speed=0>このマッチングに参加するには|ヴェリナード城下町にいる　総帥Мに話しかけて|説明を聞く必要が　あります。": ""
