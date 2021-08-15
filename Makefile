@@ -5,7 +5,12 @@ build:
 
 release:
 	move dist\dqxclarity.exe .
-	"C:\Program Files\7-Zip\7z.exe" a -tzip dqxclarity.zip -r json/_lang/en dqxclarity.exe hex
+	"C:\Program Files\7-Zip\7z.exe" a -tzip dqxclarity.zip -r json/_lang/en json/_lang/ja dqxclarity.exe hex
+
+lint:
+	pylint --rcfile=.pylintrc setup.py
+	pylint --rcfile=.pylintrc main.py
+	pylint --rcfile=.pylintrc clarity.py
 
 clean:
 	if exist "build\" rd /s/q "build\"

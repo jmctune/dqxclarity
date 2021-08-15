@@ -5,3 +5,4 @@ alive-progress==1.6.2
 pyinstaller==4.5
 click==8.0.1
 requests==2.26.0
+pylint==2.9.6
