@@ -5286,7 +5286,7 @@
         "clarity_nt_char_597": "clarity_nt_char_597"
     },
     "1763": {
-        "<speed=0><%sM_PTMember>が　見つかりませんでした。|もう一度　<%sM_PTMember>を探しますか？|<select>|もう一度探す|行くのをやめる|<select_end>|<close>": ""
+        "<speed=0><%sM_PTMember>が　見つかりませんでした。|もう一度　<%sM_PTMember>を探しますか？|<select>|もう一度探す|行くのをやめる|<select_end>|<close>": "<speed=0>Couldn't find <%sM_PTMember>.|Search for <%sM_PTMember> again?|<select>|Search Again|Stop Searching|<select_end>|<close>"
     },
     "1764": {
         "clarity_nt_char_598": "clarity_nt_char_598"
