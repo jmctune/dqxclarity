@@ -2157,7 +2157,7 @@
         "clarity_nt_char_241": "clarity_nt_char_241"
     },
     "720": {
-        "<speed=0><%sM_item><%sM_plusnum>は　手に入りづらい|貴重な物ですが　本当に　捨ててもいいですか？<yesno2><close>": ""
+        "<speed=0><%sM_item><%sM_plusnum>は　手に入りづらい|貴重な物ですが　本当に　捨ててもいいですか？<yesno2><close>": "<speed=0><%sM_item><%sM_plusnum> is valuable, are|you sure you want to throw it away?<yesno2><close>"
     },
     "721": {
         "<speed=0><%sM_item><%sM_plusnum>を　投げ捨てた！": "<speed=0><%sM_item><%sM_plusnum> was thrown away!"
