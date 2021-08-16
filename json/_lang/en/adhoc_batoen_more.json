@@ -219,9 +219,9 @@
         "<speed=0>|制限時間内に　３本の　えんぴつを|選びませんでした。": "<speed=0>|Didn't select 3 pencils within the time|limit."
     },
     "74": {
-        "<speed=0>|覇者の心を　<%dADD_HASYA_POINT>個　手に入れた！<se_nots System 7>": ""
+        "<speed=0>|覇者の心を　<%dADD_HASYA_POINT>個　手に入れた！<se_nots System 7>": "<speed=0>|Received <%dADD_HASYA_POINT> Champion Hearts!<se_nots System 7>"
     },
     "75": {
-        "<speed=0>|大会ランクが　<%sAFTER_CLASS>ランクにアップした！": ""
+        "<speed=0>|大会ランクが　<%sAFTER_CLASS>ランクにアップした！": "<speed=0>|Tournament rank is now <%sAFTER_CLASS>!"
     }
 }
