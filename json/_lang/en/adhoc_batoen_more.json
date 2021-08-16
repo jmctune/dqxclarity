@@ -162,10 +162,10 @@
         "<speed=0>|今回は　同じターンに|全滅したプレイヤーが　複数いたため|あなたは　１位となりました。|<auto_bw=5000><close>": "<speed=0>|Multiple players were knocked out on the|same turn, so you came in 1st place.|<auto_bw=5000><close>"
     },
     "55": {
-        "<speed=0>|観戦モードに入ります。|<cancel>を押すと　バトエンバトルから|いつでも　抜けることができます。|<auto_bw=5000><close>": ""
+        "<speed=0>|観戦モードに入ります。|<cancel>を押すと　バトエンバトルから|いつでも　抜けることができます。|<auto_bw=5000><close>": "<speed=0>|You are now spectating.|You can leave the battle at any time by|pressing <cancel>.|<auto_bw=5000><close>"
     },
     "56": {
-        "観戦モードを終了して|このバトルから抜けますか？": ""
+        "観戦モードを終了して|このバトルから抜けますか？": "Stop spectating and leave the battle?"
     },
     "57": {
         "このままパーティから抜けますが|本当によろしいですか？": ""
