@@ -12,10 +12,10 @@
         "合計で　<%dM_coin>枚の|コインを　かくとく　しました！": "Received a total of <%dM_coin> Coins!"
     },
     "5": {
-        "<speed=0>カギの数だけ　宝箱を開けられます。|お好きな　宝箱を　選んでください。": ""
+        "<speed=0>カギの数だけ　宝箱を開けられます。|お好きな　宝箱を　選んでください。": "<speed=0>You can open as many chests as there|are keys. Select the chests you want to open."
     },
     "6": {
-        "コインは　かくとく　できませんでした…": ""
+        "コインは　かくとく　できませんでした…": "Couldn't get any coins…"
     },
     "7": {
         "スロットを　終了しますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno 2><close>": ""
