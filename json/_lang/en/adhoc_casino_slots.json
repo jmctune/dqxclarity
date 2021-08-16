@@ -201,13 +201,13 @@
         "<speed=0><cursor>で　かけきんを決めて|<convenience>を押すと　スロットがまわります。": "<speed=0>Use <cursor> to choose the number of slots.|Press <convenience> to spin the slots."
     },
     "68": {
-        "なんと　メタルスピンの　続く　回数が|<%dM_lvupcnt>回　追加されたようだ…！": ""
+        "なんと　メタルスピンの　続く　回数が|<%dM_lvupcnt>回　追加されたようだ…！": "It seems like you've received <%dM_lvupcnt> more|Metal Spins!"
     },
     "69": {
-        "なんと　フリースピンの　続く　回数が|<%dM_fspncnt>回　追加されたようだ…！": ""
+        "なんと　フリースピンの　続く　回数が|<%dM_fspncnt>回　追加されたようだ…！": "It seems like you've received <%dM_lvupcnt> more|Free Spins!"
     },
     "70": {
-        "テンションアップ　ボーナスで|<%dM_coin>(+<%dCAS_tup_coin>)枚のコインを　かくとくしました！": ""
+        "テンションアップ　ボーナスで|<%dM_coin>(+<%dCAS_tup_coin>)枚のコインを　かくとくしました！": "Received <%dM_coin> (+<%dCAS_tup_coin>) coins|from the Tension Boost Bonus!"
     },
     "71": {
         "ほんとうに　終了してよろしいですか？<yesno_nc 2><close>": ""
