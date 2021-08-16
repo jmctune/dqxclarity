@@ -888,7 +888,7 @@
         "『<%sC_TEAM>』への入隊希望は期限切れです": ""
     },
     "297": {
-        "あと<%dC_M>分プレイをしない場合 この席から離れます": ""
+        "あと<%dC_M>分プレイをしない場合 この席から離れます": "You'll leave your seat after <%dC_M> m. of inactivity."
     },
     "298": {
         "このゲームもベットしない場合 この席から離れます": "If you don't bet this game, you will be removed."
