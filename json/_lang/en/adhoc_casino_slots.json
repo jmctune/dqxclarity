@@ -279,7 +279,7 @@
         "テンションアップ効果が　終了しました。<auto_bw=2500><close>": "Tension Boost effect has ended.<auto_bw=2500><close>"
     },
     "94": {
-        "大当たりで|<%sCAS_tup_me>の　テンションがあがった！<auto_br=2500>|まわりの人の　テンションもアップした！<auto_br=2500>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！<auto_bw=2500><close>": ""
+        "大当たりで|<%sCAS_tup_me>の　テンションがあがった！<auto_br=2500>|まわりの人の　テンションもアップした！<auto_br=2500>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！<auto_bw=2500><close>": "Nice hit!|<%sCAS_tup_me> got a Tension Boost!<auto_br=2500>|Nearby players also got a Tension Boost!<auto_br=2500>|The next time you win coins, you'll get 1.5|times the payout!<auto_bw=2500><close>"
     },
     "95": {
         "スロットを終了します。": ""
