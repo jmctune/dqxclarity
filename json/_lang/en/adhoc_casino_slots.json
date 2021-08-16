@@ -45,10 +45,10 @@
         "なんと　コインを使わずに|あと<%dM_fspncnt>回　スロットをまわせるようだ…！": "It seems you can spin the slots <%dM_fspncnt>|time(s) without using any coins!"
     },
     "16": {
-        "おめでとうございます！|<%dM_coin>枚のコインが　当たりました。": ""
+        "おめでとうございます！|<%dM_coin>枚のコインが　当たりました。": "Congratulations!|You've won <%dM_coin> coins!"
     },
     "17": {
-        "<%dM_coin>枚のコインを　手に入れました。": ""
+        "<%dM_coin>枚のコインを　手に入れました。": "Received <%dM_coin> coins."
     },
     "18": {
         "同じテーブルにいる　<%sCAS_gambler>さんが|カジノレイドに　突入しました。|<br>|この　カジノレイドに　参加しますか？|<yesno_nc><close>": ""
