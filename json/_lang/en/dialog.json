@@ -36,7 +36,7 @@
         "clarity_nt_char_5": "clarity_nt_char_5"
     },
     "13": {
-        "<speed=0>冒険を中断して　ゲームを終了します。|<color_yellow>※敵がいる場所では　10秒ほど　かかります。<color_white>|よろしいですか？<yesno><close>": ""
+        "<speed=0>冒険を中断して　ゲームを終了します。|<color_yellow>※敵がいる場所では　10秒ほど　かかります。<color_white>|よろしいですか？<yesno><close>": "<speed=0>Interrupt the adventure and end the game?|<color_yellow>*It takes 10 seconds in an area with monsters.|<color_white><yesno><close>"
     },
     "14": {
         "clarity_nt_char_6": "clarity_nt_char_6"
@@ -93,7 +93,7 @@
         "clarity_nt_char_9": "clarity_nt_char_9"
     },
     "32": {
-        "仲間から　抜けますか？<yesno><close>": "Do you want to leave the group? <yesno><close>"
+        "仲間から　抜けますか？<yesno><close>": "Do you want to leave the party?<yesno><close>"
     },
     "33": {
         "<speed=0><%sM_pc>を　仲間から　はずして|よろしいですか？<yesno><close>": "<speed=0>Remove <%sM_pc> from the party?<yesno><close>"
@@ -1770,7 +1770,7 @@
         "<speed=0>仲間にさそい　相手の返事を待ちます。|<%sM_pc2>を　仲間に　さそいますか？|<yesno><close>": ""
     },
     "591": {
-        "<speed=0>|保護者同意の上での　フレンドの機能の利用を|受け付けました。フレンドリストには|最大200人まで　登録できます。|<br>|※フレンド登録するのは　実際に顔を知っている|　リアル世界での友達だけにしましょう。|<br>|フレンドに誘うときは　先に　相手に|誘ってもよいかを　確認してからにしましょう。|相手からもＯＫされると　フレンドになります。|<br>|自分のフレンドリストから　キャラをはずすと|相手のフレンドリストからも|自分のキャラがはずれますので　ご注意ください。": "<speed=0>|Friend list parental consent accepted. Your friend's|list can have up to 200 people registered.|<br>|*If adding friends from real life, make sure you|actually know them face to face.|<br>|Make sure the person you're sending a request|to is okay with it. If they accept, you'll be added to|each other's friend lists.|<br>|Please remember that if you remove a friend, you|will also be removed from their friend list."
+        "<speed=0>|保護者同意の上での　フレンドの機能の利用を|受け付けました。フレンドリストには|最大200人まで　登録できます。|<br>|※フレンド登録するのは　実際に顔を知っている|　リアル世界での友達だけにしましょう。|<br>|フレンドに誘うときは　先に　相手に|誘ってもよいかを　確認してからにしましょう。|相手からもＯＫされると　フレンドになります。|<br>|自分のフレンドリストから　キャラをはずすと|相手のフレンドリストからも|自分のキャラがはずれますので　ご注意ください。": "<speed=0>|Friend list parental consent accepted.|Your friend's list can have up to 200 people|registered.|<br>|*If adding friends from real life, make sure you|actually know them face to face.|<br>|Make sure the person you're sending a request|to is okay with it. If they accept, you'll be added to|each other's friend lists.|<br>|Please remember that if you remove a friend, you|will also be removed from their friend list."
     },
     "592": {
         "clarity_nt_char_200": "clarity_nt_char_200"
@@ -2157,7 +2157,7 @@
         "clarity_nt_char_241": "clarity_nt_char_241"
     },
     "720": {
-        "<speed=0><%sM_item><%sM_plusnum>は　手に入りづらい|貴重な物ですが　本当に　捨ててもいいですか？<yesno2><close>": ""
+        "<speed=0><%sM_item><%sM_plusnum>は　手に入りづらい|貴重な物ですが　本当に　捨ててもいいですか？<yesno2><close>": "<speed=0><%sM_item><%sM_plusnum> is valuable, are|you sure you want to throw it away?<yesno2><close>"
     },
     "721": {
         "<speed=0><%sM_item><%sM_plusnum>を　投げ捨てた！": "<speed=0><%sM_item><%sM_plusnum> was thrown away!"
@@ -4383,7 +4383,7 @@
         "clarity_nt_char_490": "clarity_nt_char_490"
     },
     "1462": {
-        "<speed=0><%sM_PTMember>が　見つかりませんでした。|もう一度　<%sM_PTMember>を探しますか？|<select>|もう一度探す|このまま行く|行くのをやめる|<select_end>|<close>": ""
+        "<speed=0><%sM_PTMember>が　見つかりませんでした。|もう一度　<%sM_PTMember>を探しますか？|<select>|もう一度探す|このまま行く|行くのをやめる|<select_end>|<close>": "<speed=0>Couldn't find <%sM_PTMember>.|Search for <%sM_PTMember> again?|<select>|Search Again|Go As Is|Stop Searching|<select_end>|<close>"
     },
     "1463": {
         "<speed=0>|まとめアイテムの使い方を　説明します。|まとめアイテムで　『そうび』を選ぶと|変身できる装備の一覧が　表示されます。|<br>|変身できる装備の一覧から　お好みの装備を選ぶと|まとめアイテムが　その装備に変身します。|変身は　何度でも可能なので　お気軽にどうぞ！": ""
@@ -4668,7 +4668,7 @@
         "clarity_nt_char_526": "clarity_nt_char_526"
     },
     "1557": {
-        "新品の装備品です！登録すると|新品ではなくなりますが　よろしいですか？": "<speed=0>This is brand new equipment!|Once registered, it will no longer be new.|Is this okay?"
+        "新品の装備品です！登録すると|新品ではなくなりますが　よろしいですか？": "This is brand new equipment!|Once registered, it will no longer be new.|Is this okay?"
     },
     "1558": {
         "<speed=0>星の大樹広場の教会に　戻りますか？|ゴールドは　失いません。<yesno2><close>": ""
@@ -5286,7 +5286,7 @@
         "clarity_nt_char_597": "clarity_nt_char_597"
     },
     "1763": {
-        "<speed=0><%sM_PTMember>が　見つかりませんでした。|もう一度　<%sM_PTMember>を探しますか？|<select>|もう一度探す|行くのをやめる|<select_end>|<close>": ""
+        "<speed=0><%sM_PTMember>が　見つかりませんでした。|もう一度　<%sM_PTMember>を探しますか？|<select>|もう一度探す|行くのをやめる|<select_end>|<close>": "<speed=0>Couldn't find <%sM_PTMember>.|Search for <%sM_PTMember> again?|<select>|Search Again|Stop Searching|<select_end>|<close>"
     },
     "1764": {
         "clarity_nt_char_598": "clarity_nt_char_598"
@@ -5973,7 +5973,7 @@
         "<speed=0><color_yellow>※学園内で　ゲームを終了した場合|サポート仲間として　酒場登録されませんが|よろしいですか？<yesno><close>": "<speed=0><color_yellow>*You cannot register yourself as a support|companion if you end the game in the school.|Is this okay? <yesno><close>"
     },
     "1992": {
-        "<speed=0><color_yellow>※占い師で　ゲームを終了した場合|サポート仲間として　酒場登録されませんが|よろしいですか？<yesno><close>": "<speed=0><color_yellow>*You cannot register yourself as a|support companion in the bar as a Fortune Teller.|Is this okay? <yesno><close>"
+        "<speed=0><color_yellow>※占い師で　ゲームを終了した場合|サポート仲間として　酒場登録されませんが|よろしいですか？<yesno><close>": "<speed=0><color_yellow>*You cannot register yourself as a|support companion in the tavern as a Fortune|Teller. Is this okay? <yesno><close>"
     },
     "1993": {
         "<speed=0>習得中の　スキルノートです。": ""
@@ -6108,7 +6108,7 @@
         "clarity_nt_char_686": "clarity_nt_char_686"
     },
     "2037": {
-        "<speed=0>冒険を中断して　ゲームを終了します。|よろしいですか？<yesno><close>": ""
+        "<speed=0>冒険を中断して　ゲームを終了します。|よろしいですか？<yesno><close>": "<speed=0>Is it okay to interrupt the adventure and|log out of the game?<yesno><close>"
     },
     "2038": {
         "clarity_nt_char_687": "clarity_nt_char_687"
@@ -6162,7 +6162,7 @@
         "clarity_nt_char_691": "clarity_nt_char_691"
     },
     "2055": {
-        "<speed=0>|相手が　見つかりませんでした。": ""
+        "<speed=0>|相手が　見つかりませんでした。": "<speed=0>|Couldn't find an opponent."
     },
     "2056": {
         "この宝箱は　すでに入手済です。": ""
@@ -6258,7 +6258,7 @@
         "clarity_nt_char_703": "clarity_nt_char_703"
     },
     "2087": {
-        "<speed=0>仲間が　見つかりませんでした。|特別ゲストだけのパーティになりますが|もう一度　仲間を探しますか？|<select>|もう一度探す|このまま行く|行くのをやめる|<select_end>|<close>": ""
+        "<speed=0>仲間が　見つかりませんでした。|特別ゲストだけのパーティになりますが|もう一度　仲間を探しますか？|<select>|もう一度探す|このまま行く|行くのをやめる|<select_end>|<close>": "<speed=0>Couldn't find a party. This is a|party for special guests only. Search again?|<select>|Search Again|Go As Is|Stop Searching|<select_end>|<close>"
     },
     "2088": {
         "clarity_nt_char_704": "clarity_nt_char_704"
@@ -7047,7 +7047,7 @@
         "<speed=0>ゲーム画面表示を『<color_yellow>表示設定Ａ<color_white>』の|画質設定：<color_yellow><%sM_image><color_white>　描画速度：<color_yellow><%sM_fps><color_white>に|切り替えますが　よろしいですか？|<yesno><close>": ""
     },
     "2350": {
-        "<select>もう一度探す|このまま行く|行くのをやめる|<select_end><close>": "<select>Look again|Keep going|Leave|<select_end><close>"
+        "<select>もう一度探す|このまま行く|行くのをやめる|<select_end><close>": "<select>Search Again|Go As Is|Stop Searching|<select_end><close>"
     },
     "2351": {
         "<select>もう一度探す|行くのをやめる|<select_end><close>": "<select>Look again|Leave|<select_end><close>"
@@ -7056,16 +7056,16 @@
         "clarity_nt_char_790": "clarity_nt_char_790"
     },
     "2353": {
-        "<speed=0><%sM_PTMember>が　見つかりませんでした。|もう一度　<%sM_PTMember>を探しますか？|<break>": ""
+        "<speed=0><%sM_PTMember>が　見つかりませんでした。|もう一度　<%sM_PTMember>を探しますか？|<break>": "<speed=0>Couldn't find anyone.|Search again?|<break>"
     },
     "2354": {
-        "<speed=0>仲間が　見つかりませんでした。|特別ゲストだけのパーティになりますが|もう一度　仲間を探しますか？|<break>": ""
+        "<speed=0>仲間が　見つかりませんでした。|特別ゲストだけのパーティになりますが|もう一度　仲間を探しますか？|<break>": "<speed=0>Couldn't find party members. This is a party|for special guests only. Search again?|<break>"
     },
     "2355": {
         "clarity_nt_char_791": "clarity_nt_char_791"
     },
     "2356": {
-        "<speed=0>仲間が　見つかりませんでした。|サポート仲間だけのパーティになりますが|もう一度　仲間を探しますか？|<break>": ""
+        "<speed=0>仲間が　見つかりませんでした。|サポート仲間だけのパーティになりますが|もう一度　仲間を探しますか？|<break>": "<speed=0>Couldn't find party members. This is a party|with only support members. Search again?|<break>"
     },
     "2357": {
         "ドルボードに|乗車時の視点を|設定します": "Set viewpoint|when riding the|dolboard."
@@ -7074,10 +7074,10 @@
         "clarity_nt_char_792": "clarity_nt_char_792"
     },
     "2359": {
-        "<speed=0><%sM_TargetParty>が　見つかりませんでした。|もう一度　<%sM_TargetParty>を探しますか？|<break>": ""
+        "<speed=0><%sM_TargetParty>が　見つかりませんでした。|もう一度　<%sM_TargetParty>を探しますか？|<break>": "<speed=0>Couldn't find <%sM_TargetParty>.|Search again for <%sM_TargetParty>?|<break>"
     },
     "2360": {
-        "<speed=0>回復を担う仲間が　規定の人数|見つかりませんでした。|もう一度　仲間を探しますか？|<break>": ""
+        "<speed=0>回復を担う仲間が　規定の人数|見つかりませんでした。|もう一度　仲間を探しますか？|<break>": "<speed=0>Couldn't find enough party members with|a recovery role. Search again?|<break>"
     },
     "2361": {
         "clarity_nt_char_793": "clarity_nt_char_793"
@@ -7179,10 +7179,10 @@
         "clarity_nt_char_804": "clarity_nt_char_804"
     },
     "2394": {
-        "<speed=0><%sM_TargetParty>が　見つかりませんでした。": ""
+        "<speed=0><%sM_TargetParty>が　見つかりませんでした。": "<speed=0>Couldn't find <%sM_TargetParty>."
     },
     "2395": {
-        "<speed=0>回復を担う仲間が　規定の人数|見つかりませんでした。": ""
+        "<speed=0>回復を担う仲間が　規定の人数|見つかりませんでした。": "<speed=0>Couldn't find enough members with a|recovery role."
     },
     "2396": {
         "同盟相手": "alliance"
@@ -7305,7 +7305,7 @@
         "clarity_nt_char_818": "clarity_nt_char_818"
     },
     "2436": {
-        "<speed=0><%sM_TargetParty>が　見つかりませんでした。|もう一度　仲間を探しますか？|<break>": ""
+        "<speed=0><%sM_TargetParty>が　見つかりませんでした。|もう一度　仲間を探しますか？|<break>": "<speed=0>Couldn't find <%sM_TargetParty>.|Search again?|<break>"
     },
     "2437": {
         "clarity_nt_char_819": "clarity_nt_char_819"
@@ -7587,7 +7587,7 @@
         "clarity_nt_char_847": "clarity_nt_char_847"
     },
     "2530": {
-        "<speed=0>対象が離れすぎているか　条件があわないため|<%sM_TargetParty>が　見つかりませんでした。": ""
+        "<speed=0>対象が離れすぎているか　条件があわないため|<%sM_TargetParty>が　見つかりませんでした。": "<speed=0><%sM_TargetParty> couldn't be found due to|being too far away or the conditions not|being met."
     },
     "2531": {
         "ついてクンの|機能設定をします": "Configure your|pet's settings.|"
@@ -8079,10 +8079,10 @@
         "clarity_nt_char_903": "clarity_nt_char_903"
     },
     "2694": {
-        "<speed=0>仲間が　見つかりませんでした。|サポートなかまを追加して|このまま　奥に進みますか？|<break>": ""
+        "<speed=0>仲間が　見つかりませんでした。|サポートなかまを追加して|このまま　奥に進みますか？|<break>": "<speed=0>Couldn't find party members. Would you like|to add support party members and proceed?|<break>"
     },
     "2695": {
-        "<select>このまま行く|もう一度探す|行くのをやめる|<select_end><close>": "<select>Keep going|Look again|Leave|<select_end><close>"
+        "<select>このまま行く|もう一度探す|行くのをやめる|<select_end><close>": "<select>Go As Is|Search Again|Stop Searching|<select_end><close>"
     },
     "2696": {
         "<speed=0>このマッチングに参加するには|ヴェリナード城下町にいる　総帥Мに話しかけて|説明を聞く必要が　あります。": ""
@@ -9513,7 +9513,7 @@
         "<speed=0>時間利用券の　残りプレイ時間が|<%nM_TIME>分を切っているので　参加できません。|<br>|追加購入されても　参加できない場合は|時間をおいて　もう一度お試しください。": ""
     },
     "3172": {
-        "サポート仲間を　待機中にします。": ""
+        "サポート仲間を　待機中にします。": "Support member put on standby."
     },
     "3173": {
         "clarity_nt_char_1070": "clarity_nt_char_1070"
@@ -9573,7 +9573,7 @@
         "他の冒険者からの|招待や申請を|非表示にします": "Hide any|invitations and|requests."
     },
     "3192": {
-        "<speed=0>|このサーバーでは　『配信中』に設定できません。|『配信OK』のサーバーに　移動してから|設定してください。": ""
+        "<speed=0>|このサーバーでは　『配信中』に設定できません。|『配信OK』のサーバーに　移動してから|設定してください。": "<speed=0>|You cannot set \"Streaming\" on this server.|Please move to a server designated as|\"Streaming OK\" first."
     },
     "3193": {
         "<speed=0><color_yellow>|つかうものや　預かり所　屋根ウラ収納にあった|アイテムは　自動で　『おまとめぶくろ』に|移されていますので　ご確認ください。|<br>|また　郵便箱や　住宅村の収納家具にある|アイテムは　一度　取り出す|必要がありますので　ご注意ください。": ""
@@ -9741,7 +9741,7 @@
         "<speed=0>|チームユニフォームを着ていると　編集が|できません！　一度　チームユニフォームを|脱いでから　編集を選択してください。": ""
     },
     "3248": {
-        "私": ""
+        "私": "Me"
     },
     "3249": {
         "あなた": ""

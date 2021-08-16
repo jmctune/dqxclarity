@@ -726,7 +726,7 @@
         "<pc>は|<%dL_EXP>+<%dL_EXP_OUEN>(おうえんボーナス) Pの|職人経験値を　かくとく！|<bw_break>": "<pc>|gained <%dL_EXP> +<%dL_EXP_OUEN> (Cheer Bonus)|Craftsman EXP!|<bw_break>"
     },
     "243": {
-        "<speed=0>新品の装備品です！|一度　装備すると　他の人に|渡せなくなりますが　よろしいですか？<yesno 2><break>": "<speed=0>This is brand new equipment!|Once you equip it, you can't give it|to anyone else. Is this okay?<yesno 2><close>"
+        "<speed=0>新品の装備品です！|一度　装備すると　他の人に|渡せなくなりますが　よろしいですか？<yesno 2><break>": "<speed=0>This is brand new equipment!|Once you equip it, you can't give it|to anyone else. Is this okay?<yesno 2><break>"
     },
     "244": {
         "<speed=0>|装備品は　最初に装備した人が|その装備の使用者となります！<br>|一度　使用者が決まった装備品は|他の人に　渡すことができなくなりますが|この装備品を　装備しても　よろしいですか？|<yesno><break>": ""

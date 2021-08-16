@@ -18,10 +18,10 @@
         "ルーレットを　終了しますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno 2><close>": ""
     },
     "7": {
-        "コインが足りませんので|お買い求めのうえ　またおこしください！": ""
+        "コインが足りませんので|お買い求めのうえ　またおこしください！": "Not enough coins! Please come back after|purchasing some."
     },
     "8": {
-        "コインがありませんので|お買い求めのうえ　またおこしください！": ""
+        "コインがありませんので|お買い求めのうえ　またおこしください！": "You don't have any coins! Please come back|after purchasing some."
     },
     "9": {
         "おめでとうございます！|<%dM_coin>枚のコインが　当たりました。<auto_bw=3000><close>": ""
@@ -39,7 +39,7 @@
         "<%dM_coin>枚のコインを　手に入れました。<auto_bw=3000><close>": ""
     },
     "14": {
-        "<%sCAS_monster>が　あらわれた！<auto_bw=3000><close>": ""
+        "<%sCAS_monster>が　あらわれた！<auto_bw=3000><close>": "<%sCAS_monster> draws near!<auto_bw=3000><close>"
     },
     "15": {
         "<speed=0>ベットしたい場所に|<convenience>で　チップを置いてください。<auto_br=4000>|のこり時間が　０になると|ルーレットがまわりはじめます。<auto_bw=4000><close>": ""
@@ -51,7 +51,7 @@
         "カジノレイドが　続いています。<auto_bw=3000><close>": ""
     },
     "18": {
-        "ほんとうに　終了してよろしいですか？<yesno_nc 2><close>": ""
+        "ほんとうに　終了してよろしいですか？<yesno_nc 2><close>": "Are you sure you want to quit?<yesno_nc 2><close>"
     },
     "19": {
         "カジノレイド中です。<auto_br=4000>|一緒に　戦って　モンスターに勝利することで|全員が　同じ　報酬をもらうことができます。<auto_br=4000>|カジノレイドに　参加します。|（カジノレイド中　コインは減りません）<auto_bw=4000><close>": ""
@@ -78,10 +78,10 @@
         "ルーレットを終了します。<auto_bw=3000><close>": ""
     },
     "27": {
-        "持てるコインの　限界を超えています。|これ以上　持てませんが　遊びますか？<yesno_nc 2><close>": ""
+        "持てるコインの　限界を超えています。|これ以上　持てませんが　遊びますか？<yesno_nc 2><close>": "You've reached the maximum amount of coins you|can carry. Do you still want to play?<yesno_nc 2><close>"
     },
     "28": {
-        "カジノレイドは　まもなく終了するため|参加できませんでした。": ""
+        "カジノレイドは　まもなく終了するため|参加できませんでした。": "The casino raid is about to end, so you can't|join it right now."
     },
     "29": {
         "<cursor>で|ベットしたい場所に　チップを置いてください。<auto_bw=4000>|選べるエリアは　ひとつだけ！|当たれば　たくさんのコインが　手に入ります！<auto_bw=4000><close>": ""

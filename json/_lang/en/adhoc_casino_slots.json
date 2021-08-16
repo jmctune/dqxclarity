@@ -1,216 +1,216 @@
 {
     "1": {
-        "スロットで　遊びますか？<yesno_nc><close>": ""
+        "スロットで　遊びますか？<yesno_nc><close>": "Play the slots?<yesno_nc><close>"
     },
     "2": {
-        "カギが　なくなったので|ボーナスゲームは　終了です。": ""
+        "カギが　なくなったので|ボーナスゲームは　終了です。": "All keys are gone. The|bonus game is over."
     },
     "3": {
-        "ボーナスゲームを　開始します！": ""
+        "ボーナスゲームを　開始します！": "Bonus game start!"
     },
     "4": {
-        "合計で　<%dM_coin>枚の|コインを　かくとく　しました！": ""
+        "合計で　<%dM_coin>枚の|コインを　かくとく　しました！": "Received a total of <%dM_coin> Coins!"
     },
     "5": {
-        "<speed=0>カギの数だけ　宝箱を開けられます。|お好きな　宝箱を　選んでください。": ""
+        "<speed=0>カギの数だけ　宝箱を開けられます。|お好きな　宝箱を　選んでください。": "<speed=0>You can open as many chests as there|are keys. Select the chests you want to open."
     },
     "6": {
-        "コインは　かくとく　できませんでした…": ""
+        "コインは　かくとく　できませんでした…": "Couldn't get any coins…"
     },
     "7": {
-        "スロットを　終了しますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno 2><close>": ""
+        "スロットを　終了しますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno 2><close>": "Finish playing the slots?|(Floor <%dW_INSTANCE_NO> <%sCAS_room> <%sCAS_table>) <yesno 2><close>"
     },
     "8": {
-        "コインが足りませんので|お買い求めのうえ　またおこしください！": ""
+        "コインが足りませんので|お買い求めのうえ　またおこしください！": "Not enough coins! Please come back after|purchasing some."
     },
     "9": {
-        "コインがありませんので|お買い求めのうえ　またおこしください！": ""
+        "コインがありませんので|お買い求めのうえ　またおこしください！": "You don't have any coins! Please come back|after purchasing some."
     },
     "10": {
-        "<speed=0>もういちど　スロットを遊びますか？<yesno_nc><close>": ""
+        "<speed=0>もういちど　スロットを遊びますか？<yesno_nc><close>": "<speed=0>Play the slots again?<yesno_nc><close>"
     },
     "11": {
-        "残念でした！|もういちど　スロットを遊びますか？<yesno_nc><close>": ""
+        "残念でした！|もういちど　スロットを遊びますか？<yesno_nc><close>": "Too bad! Play the slots again?<yesno_nc><close>"
     },
     "12": {
-        "メタルチェンジが　終了しました。": ""
+        "メタルチェンジが　終了しました。": "Metal Spins have ended."
     },
     "13": {
-        "なんと　当たった時に　もらえるコインが|２倍にアップしたようだ…！": ""
+        "なんと　当たった時に　もらえるコインが|２倍にアップしたようだ…！": "It seems that the coins you get from winning|will be doubled...!"
     },
     "14": {
-        "フリースピンが　終了しました。": ""
+        "フリースピンが　終了しました。": "Free Spins have ended."
     },
     "15": {
-        "なんと　コインを使わずに|あと<%dM_fspncnt>回　スロットをまわせるようだ…！": ""
+        "なんと　コインを使わずに|あと<%dM_fspncnt>回　スロットをまわせるようだ…！": "It seems you can spin the slots <%dM_fspncnt>|time(s) without using any coins!"
     },
     "16": {
-        "おめでとうございます！|<%dM_coin>枚のコインが　当たりました。": ""
+        "おめでとうございます！|<%dM_coin>枚のコインが　当たりました。": "Congratulations!|You've won <%dM_coin> coins!"
     },
     "17": {
-        "<%dM_coin>枚のコインを　手に入れました。": ""
+        "<%dM_coin>枚のコインを　手に入れました。": "Received <%dM_coin> coins."
     },
     "18": {
-        "同じテーブルにいる　<%sCAS_gambler>さんが|カジノレイドに　突入しました。|<br>|この　カジノレイドに　参加しますか？|<yesno_nc><close>": ""
+        "同じテーブルにいる　<%sCAS_gambler>さんが|カジノレイドに　突入しました。|<br>|この　カジノレイドに　参加しますか？|<yesno_nc><close>": "<%sCAS_gambler> at the same table has|joined the casino raid.|<br>|Proceed with the casino raid?|<yesno_nc><close>"
     },
     "19": {
-        "コイン<%dM_coin>枚　かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": ""
+        "コイン<%dM_coin>枚　かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "Received <%dM_coin> coins!|<%dCAS_damage> damage to <%sCAS_monster>!<auto_bw=3000><close>"
     },
     "20": {
-        "カジノレイド中です。|この　カジノレイドに　参加しますか？|<yesno_nc><close>": ""
+        "カジノレイド中です。|この　カジノレイドに　参加しますか？|<yesno_nc><close>": "A casino raid is in progress.|Join the casino raid?|<yesno_nc><close>"
     },
     "21": {
-        "<%sCAS_monster>は　にげだした！<auto_bw=2500><close>": ""
+        "<%sCAS_monster>は　にげだした！<auto_bw=2500><close>": "<%sCAS_monster> ran away!<auto_bw=2500><close>"
     },
     "22": {
-        "まわりのプレイヤーと協力して　時間内に|<%sCAS_monster>を　倒してください！<auto_br=4000>|カジノレイド中は　コインが減りませんので|強気にガンガンせめて　コインをかせぎましょう！<auto_bw=4000><close>": ""
+        "まわりのプレイヤーと協力して　時間内に|<%sCAS_monster>を　倒してください！<auto_br=4000>|カジノレイド中は　コインが減りませんので|強気にガンガンせめて　コインをかせぎましょう！<auto_bw=4000><close>": "Cooperate with nearby players to defeat the|<%sCAS_monster>!<auto_br=4000>|Don't worry about losing coins during the|raid, so go all out to beat the boss and win a|lot of coins!<auto_bw=4000><auto_bw=4000><close>"
     },
     "23": {
-        "<%sCAS_monster>が　あらわれた！<auto_bw=3000><close>": ""
+        "<%sCAS_monster>が　あらわれた！<auto_bw=3000><close>": "<%sCAS_monster> draws near!<auto_bw=3000><close>"
     },
     "24": {
-        "大当たりで|<%sCAS_tup_me>の　テンションがあがった！<br>|まわりの人の　テンションもアップした！<br>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！": ""
+        "大当たりで|<%sCAS_tup_me>の　テンションがあがった！<br>|まわりの人の　テンションもアップした！<br>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！": "Nice hit!|<%sCAS_tup_me> got a Tension Boost!<br>|Nearby players also got a Tension Boost!<br>|The next time you win coins, you'll get 1.5|times the payout!"
     },
     "25": {
-        "このコーナーの<%sCAS_tup_who>さん　大当たり！|<%sCAS_tup_me>のテンションも　アップした！<br>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！": ""
+        "このコーナーの<%sCAS_tup_who>さん　大当たり！|<%sCAS_tup_me>のテンションも　アップした！<br>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！": "<%sCAS_tup_who> at this table got a nice hit!|You got a Tension Boost!<br>|The next time you win coins, you'll get 1.5|times the payout!"
     },
     "26": {
-        "ＢＡＲ": ""
+        "ＢＡＲ": "ＢＡＲ"
     },
     "27": {
-        "ＢＡＲ×３": ""
+        "ＢＡＲ×３": "ＢＡＲ×３"
     },
     "28": {
-        "ＢＡＲ×４": ""
+        "ＢＡＲ×４": "ＢＡＲ×４"
     },
     "29": {
-        "ＢＡＲ×５": ""
+        "ＢＡＲ×５": "ＢＡＲ×５"
     },
     "30": {
-        "フィーバー": ""
+        "フィーバー": "Fever"
     },
     "31": {
-        "キングスライム": ""
+        "キングスライム": "King Slime"
     },
     "32": {
-        "キングスライム×３": ""
+        "キングスライム×３": "King Slime x3"
     },
     "33": {
-        "キングスライム×４": ""
+        "キングスライム×４": "King Slime x4"
     },
     "34": {
-        "キングスライム×５": ""
+        "キングスライム×５": "King Slime x5"
     },
     "35": {
-        "メタルブラザーズ": ""
+        "メタルブラザーズ": "Metal Medley"
     },
     "36": {
-        "メタルブラザーズ×３": ""
+        "メタルブラザーズ×３": "Metal Medley x3"
     },
     "37": {
-        "メタルブラザーズ×４": ""
+        "メタルブラザーズ×４": "Metal Medley x4"
     },
     "38": {
-        "メタルブラザーズ×５": ""
+        "メタルブラザーズ×５": "Metal Medley x5"
     },
     "39": {
-        "メタルキング": ""
+        "メタルキング": "Metal King Slime"
     },
     "40": {
-        "メタルキング×３": ""
+        "メタルキング×３": "Metal King Slime x3"
     },
     "41": {
-        "メタルキング×４": ""
+        "メタルキング×４": "Metal King Slime x4"
     },
     "42": {
-        "メタルキング×５": ""
+        "メタルキング×５": "Metal King Slime x5"
     },
     "43": {
-        "メタルライダー": ""
+        "メタルライダー": "Metal Slime Knight"
     },
     "44": {
-        "メタルライダー×３": ""
+        "メタルライダー×３": "Metal Slime Knight x3"
     },
     "45": {
-        "メタルライダー×４": ""
+        "メタルライダー×４": "Metal Slime Knight x4"
     },
     "46": {
-        "メタルライダー×５": ""
+        "メタルライダー×５": "Metal Slime Knight x5"
     },
     "47": {
-        "メタルスライム": ""
+        "メタルスライム": "Metal Slime"
     },
     "48": {
-        "メタルスライム×３": ""
+        "メタルスライム×３": "Metal Slime x3"
     },
     "49": {
-        "メタルスライム×４": ""
+        "メタルスライム×４": "Metal Slime x4"
     },
     "50": {
-        "メタルスライム×５": ""
+        "メタルスライム×５": "Metal Slime x5"
     },
     "51": {
-        "セブン": ""
+        "セブン": "Seven"
     },
     "52": {
-        "７７７": ""
+        "７７７": "7 7 7"
     },
     "53": {
-        "７７７７": ""
+        "７７７７": "7 7 7 7"
     },
     "54": {
-        "７７７７７": ""
+        "７７７７７": "7 7 7 7 7"
     },
     "55": {
-        "スライム": ""
+        "スライム": "Slime"
     },
     "56": {
-        "スライム×３": ""
+        "スライム×３": "Slime x3"
     },
     "57": {
-        "スライム×４": ""
+        "スライム×４": "Slime x4"
     },
     "58": {
-        "スライム×５": ""
+        "スライム×５": "Slime x5"
     },
     "59": {
-        "スライムナイト": ""
+        "スライムナイト": "Slime Knight"
     },
     "60": {
-        "スライムナイト×３": ""
+        "スライムナイト×３": "Slime Knight x3"
     },
     "61": {
-        "スライムナイト×４": ""
+        "スライムナイト×４": "Slime Knight x4"
     },
     "62": {
-        "スライムナイト×５": ""
+        "スライムナイト×５": "Slime Knight x5"
     },
     "63": {
-        "スライムタワー": ""
+        "スライムタワー": "Slime Stack"
     },
     "64": {
-        "スライムタワー×３": ""
+        "スライムタワー×３": "Slime Stack x3"
     },
     "65": {
-        "スライムタワー×４": ""
+        "スライムタワー×４": "Slime Stack x4"
     },
     "66": {
-        "スライムタワー×５": ""
+        "スライムタワー×５": "Slime Stack x5"
     },
     "67": {
-        "<speed=0><cursor>で　かけきんを決めて|<convenience>を押すと　スロットがまわります。": ""
+        "<speed=0><cursor>で　かけきんを決めて|<convenience>を押すと　スロットがまわります。": "<speed=0>Use <cursor> to choose the number of slots.|Press <convenience> to spin the slots."
     },
     "68": {
-        "なんと　メタルスピンの　続く　回数が|<%dM_lvupcnt>回　追加されたようだ…！": ""
+        "なんと　メタルスピンの　続く　回数が|<%dM_lvupcnt>回　追加されたようだ…！": "It seems like you've received <%dM_lvupcnt> more|Metal Spins!"
     },
     "69": {
-        "なんと　フリースピンの　続く　回数が|<%dM_fspncnt>回　追加されたようだ…！": ""
+        "なんと　フリースピンの　続く　回数が|<%dM_fspncnt>回　追加されたようだ…！": "It seems like you've received <%dM_lvupcnt> more|Free Spins!"
     },
     "70": {
-        "テンションアップ　ボーナスで|<%dM_coin>(+<%dCAS_tup_coin>)枚のコインを　かくとくしました！": ""
+        "テンションアップ　ボーナスで|<%dM_coin>(+<%dCAS_tup_coin>)枚のコインを　かくとくしました！": "Received <%dM_coin> (+<%dCAS_tup_coin>) coins|from the Tension Boost Bonus!"
     },
     "71": {
-        "ほんとうに　終了してよろしいですか？<yesno_nc 2><close>": ""
+        "ほんとうに　終了してよろしいですか？<yesno_nc 2><close>": "Are you sure you want to quit?<yesno_nc 2><close>"
     },
     "72": {
         "<speed=0><convenience>を押すと　スロットが　まわります。": ""
@@ -255,49 +255,49 @@
         "テンションアップ効果が　発生しています。<auto_bw=2500><close>": ""
     },
     "86": {
-        "ほんとうに　終了してよろしいですか？<yesno_nc 2><close>": ""
+        "ほんとうに　終了してよろしいですか？<yesno_nc 2><close>": "Are you sure you want to quit?<yesno_nc 2><close>"
     },
     "87": {
-        "<speed=0><speed=0><cursor>で　かけきんを決めて|<convenience>を押すと　スロットがまわります。<auto_bw=2500><close>": ""
+        "<speed=0><speed=0><cursor>で　かけきんを決めて|<convenience>を押すと　スロットがまわります。<auto_bw=2500><close>": "<speed=0><speed=0>Use <cursor> to choose the number of slots.|Press <convenience> to spin the slots.<auto_bw=2500><close>"
     },
     "88": {
-        "<speed=0>もういちど　スロットを遊びますか？<yesno_nc><close>": ""
+        "<speed=0>もういちど　スロットを遊びますか？<yesno_nc><close>": "<speed=0>Play the slots again?<yesno_nc><close>"
     },
     "89": {
-        "残念でした！|もういちど　スロットを遊びますか？<yesno_nc><close>": ""
+        "残念でした！|もういちど　スロットを遊びますか？<yesno_nc><close>": "Too bad! Play the slots again?<yesno_nc><close>"
     },
     "90": {
-        "なんと　メタルスピンの　続く　回数が|<%dM_lvupcnt>回　追加されたようだ…！<auto_bw=2500><close>": ""
+        "なんと　メタルスピンの　続く　回数が|<%dM_lvupcnt>回　追加されたようだ…！<auto_bw=2500><close>": "It looks like you received <%dM_lvupcnt> more|Metal Spins!<auto_bw=2500><close>"
     },
     "91": {
-        "メタルスピンの　続く　回数が|最大値に　たっした！<auto_bw=2500><close>": ""
+        "メタルスピンの　続く　回数が|最大値に　たっした！<auto_bw=2500><close>": "You've reached the maximum number of Metal|Spins!<auto_bw=2500><close>"
     },
     "92": {
-        "メタルチェンジが　終了しました。<auto_bw=2500><close>": ""
+        "メタルチェンジが　終了しました。<auto_bw=2500><close>": "Metal Spins have ended.<auto_bw=2500><close>"
     },
     "93": {
-        "テンションアップ効果が　終了しました。<auto_bw=2500><close>": ""
+        "テンションアップ効果が　終了しました。<auto_bw=2500><close>": "Tension Boost effect has ended.<auto_bw=2500><close>"
     },
     "94": {
-        "大当たりで|<%sCAS_tup_me>の　テンションがあがった！<auto_br=2500>|まわりの人の　テンションもアップした！<auto_br=2500>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！<auto_bw=2500><close>": ""
+        "大当たりで|<%sCAS_tup_me>の　テンションがあがった！<auto_br=2500>|まわりの人の　テンションもアップした！<auto_br=2500>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！<auto_bw=2500><close>": "Nice hit!|<%sCAS_tup_me> got a Tension Boost!<auto_br=2500>|Nearby players also got a Tension Boost!<auto_br=2500>|The next time you win coins, you'll get 1.5|times the payout!<auto_bw=2500><close>"
     },
     "95": {
-        "スロットを終了します。": ""
+        "スロットを終了します。": "Slots have ended."
     },
     "96": {
-        "持てるコインの　限界を超えています。|これ以上　持てませんが　遊びますか？<yesno_nc 2><close>": ""
+        "持てるコインの　限界を超えています。|これ以上　持てませんが　遊びますか？<yesno_nc 2><close>": "You've reached the maximum amount of coins you|can carry. Do you still want to play?<yesno_nc 2><close>"
     },
     "97": {
-        "このコーナーの<%sCAS_tup_who>さん　大当たり！|<%sCAS_tup_me>のテンションも　アップした！<auto_br=2500>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！<auto_bw=2500><close>": ""
+        "このコーナーの<%sCAS_tup_who>さん　大当たり！|<%sCAS_tup_me>のテンションも　アップした！<auto_br=2500>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！<auto_bw=2500><close>": "<%sCAS_tup_who> at this table got a nice hit!|You got a Tension Boost!<auto_br=2500>|The next time you win coins, you'll get 1.5|times the payout!<auto_bw=2500><close>"
     },
     "98": {
-        "カジノレイドは　まもなく終了するため|参加できませんでした。": ""
+        "カジノレイドは　まもなく終了するため|参加できませんでした。": "The casino raid is about to end, so you can't|join it right now."
     },
     "99": {
-        "誰かの大当たりで|<%sCAS_tup_me>のテンションが　アップした！<auto_br=2500>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！<auto_bw=2500><close>": ""
+        "誰かの大当たりで|<%sCAS_tup_me>のテンションが　アップした！<auto_br=2500>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！<auto_bw=2500><close>": "Someone got a nice hit!|You got a Tension Boost!<auto_br=2500>|The next time you win coins, you'll get 1.5|times the payout!<auto_bw=2500><close>"
     },
     "100": {
-        "誰かの大当たりで|<%sCAS_tup_me>のテンションが　アップした！<br>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！": ""
+        "誰かの大当たりで|<%sCAS_tup_me>のテンションが　アップした！<br>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！": "Someone got a nice hit!|You got a Tension Boost!<br>|The next time you win coins, you'll get 1.5|times the payout!"
     },
     "101": {
         "<speed=0><cursor>で|かけきんを決めて　<convenience>でスタートします。": ""
