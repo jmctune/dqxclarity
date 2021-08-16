@@ -102,7 +102,7 @@
         "Ｅ": "E"
     },
     "35": {
-        "Ｅ＋": ""
+        "Ｅ＋": "E +"
     },
     "36": {
         "clarity_nt_char_17": "clarity_nt_char_17"
@@ -111,7 +111,7 @@
         "Ｄ": "D"
     },
     "38": {
-        "Ｄ＋": ""
+        "Ｄ＋": "D +"
     },
     "39": {
         "clarity_nt_char_18": "clarity_nt_char_18"
@@ -120,7 +120,7 @@
         "Ｃ": "C"
     },
     "41": {
-        "Ｃ＋": ""
+        "Ｃ＋": "C +"
     },
     "42": {
         "clarity_nt_char_19": "clarity_nt_char_19"
@@ -129,7 +129,7 @@
         "Ｂ": "B"
     },
     "44": {
-        "Ｂ＋": ""
+        "Ｂ＋": "B +"
     },
     "45": {
         "clarity_nt_char_20": "clarity_nt_char_20"
@@ -138,16 +138,16 @@
         "Ａ": "A"
     },
     "47": {
-        "Ａ＋": ""
+        "Ａ＋": "A +"
     },
     "48": {
         "clarity_nt_char_21": "clarity_nt_char_21"
     },
     "49": {
-        "Ｓ": ""
+        "Ｓ": "S"
     },
     "50": {
-        "Ｓ＋": ""
+        "Ｓ＋": "S +"
     },
     "51": {
         "clarity_nt_char_22": "clarity_nt_char_22"
@@ -258,12 +258,12 @@
         "clarity_nt_char_35": "clarity_nt_char_35"
     },
     "87": {
-        "第２３回バトルグランプリ・個人戦": ""
+        "第２３回バトルグランプリ・個人戦": "#23 Grand Prix Battle - Individual"
     },
     "88": {
         "clarity_nt_char_36": "clarity_nt_char_36"
     },
     "89": {
-        "未定": ""
+        "未定": "TBD"
     }
 }
