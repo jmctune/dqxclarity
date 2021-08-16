@@ -69,7 +69,7 @@
         "<%sCAS_monster>が　あらわれた！<auto_bw=3000><close>": "<%sCAS_monster> draws near!<auto_bw=3000><close>"
     },
     "24": {
-        "大当たりで|<%sCAS_tup_me>の　テンションがあがった！<br>|まわりの人の　テンションもアップした！<br>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！": ""
+        "大当たりで|<%sCAS_tup_me>の　テンションがあがった！<br>|まわりの人の　テンションもアップした！<br>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！": "Nice hit!|<%sCAS_tup_me> got a Tension Boost!<br>|Nearby players also got a Tension Boost!<br>|The next time you win coins, you'll get 1.5|times the payout!"
     },
     "25": {
         "このコーナーの<%sCAS_tup_who>さん　大当たり！|<%sCAS_tup_me>のテンションも　アップした！<br>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！": ""
