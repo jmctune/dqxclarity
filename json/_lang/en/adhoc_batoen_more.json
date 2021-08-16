@@ -156,10 +156,10 @@
         "<speed=0>|今回は　同じターンに|全滅したプレイヤーが　複数いたので|あなたは　３位となりました。|<auto_bw=5000><close>": "<speed=0>|Multiple players were knocked out on the|same turn, so you came in 3rd place.|<auto_bw=5000><close>"
     },
     "53": {
-        "<speed=0>|今回は　同じターンに|全滅したプレイヤーが　複数いたので|あなたは　４位となりました。|<auto_bw=5000><close>": ""
+        "<speed=0>|今回は　同じターンに|全滅したプレイヤーが　複数いたので|あなたは　４位となりました。|<auto_bw=5000><close>": "<speed=0>|Multiple players were knocked out on the|same turn, so you came in 4th place.|<auto_bw=5000><close>"
     },
     "54": {
-        "<speed=0>|今回は　同じターンに|全滅したプレイヤーが　複数いたため|あなたは　１位となりました。|<auto_bw=5000><close>": ""
+        "<speed=0>|今回は　同じターンに|全滅したプレイヤーが　複数いたため|あなたは　１位となりました。|<auto_bw=5000><close>": "<speed=0>|Multiple players were knocked out on the|same turn, so you came in 1st place.|<auto_bw=5000><close>"
     },
     "55": {
         "<speed=0>|観戦モードに入ります。|<cancel>を押すと　バトエンバトルから|いつでも　抜けることができます。|<auto_bw=5000><close>": ""
