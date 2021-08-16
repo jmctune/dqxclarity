@@ -93,10 +93,10 @@
         "<speed=0>|制限ターン数に　なりました。|現在残っている　バトエンの本数が|多い順に　順位をつけます。|<auto_br=5000>|同じ本数が　残っている場合は|総ＨＰが　多く残っている方が|上位となります。|<auto_bw=5000><close>": "<speed=0>|The turn limit has been reached. Winners|will be decided from number of remaining Batoen.|<auto_br=5000>|If the numbers are the same, the player with|the highest total HP remaining will be|the winner.|<auto_bw=5000><close>"
     },
     "32": {
-        "<speed=0>|<%sL_ERASER_NAME>は|今回のバトエンファイトでは|もう　使用できません。": ""
+        "<speed=0>|<%sL_ERASER_NAME>は|今回のバトエンファイトでは|もう　使用できません。": "<speed=0>|<%sL_ERASER_NAME> can't be used in this|Batoen Fight."
     },
     "33": {
-        "攻撃する相手が|いなかった": ""
+        "攻撃する相手が|いなかった": "No valid|attack target!"
     },
     "34": {
         "すばやさ　　<%nL_SPEED>の|<%sL_PENCIL_NAME>の　こうげき！": ""
