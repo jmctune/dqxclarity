@@ -201,7 +201,7 @@
         "<speed=0>|大会ランクが　<%sAFTER_CLASS>ランクにアップした！|次のランクまで　<%nNEXT_GP_POINT>Ｐ。": "<speed=0>|Your tournament rank is now <%sAFTER_CLASS>!|Next rank in <%nNEXT_GP_POINT> points."
     },
     "68": {
-        "<speed=0>|<%sL_PENCIL_NAME1>・<%sL_PENCIL_NAME2>・|<%sL_PENCIL_NAME3>の３本を|デッキとして　選びました！": ""
+        "<speed=0>|<%sL_PENCIL_NAME1>・<%sL_PENCIL_NAME2>・|<%sL_PENCIL_NAME3>の３本を|デッキとして　選びました！": "<speed=0>|<%sL_PENCIL_NAME1>, <%sL_PENCIL_NAME2>,|and <%sL_PENCIL_NAME3> selected for|your deck!"
     },
     "69": {
         "<speed=0>|<%sL_PENCIL_NAME>の　えんぴつを|相手が使えないように　封印しました！": ""
