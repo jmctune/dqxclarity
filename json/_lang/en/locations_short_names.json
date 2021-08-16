@@ -3633,7 +3633,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>２階-一等室": ""
     },
     "1212": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>甲板": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>甲板": "<%sW_MAP_NAME><%sW_DELIMITER>Deck"
     },
     "1213": {
         "<%sW_MAP_NAME><%sW_DELIMITER>三闘の祭壇": "<%sW_MAP_NAME><%sW_DELIMITER>3 Battles Altar"
