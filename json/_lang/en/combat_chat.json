@@ -21906,7 +21906,7 @@
         "範囲内にいる|仲間のＨＰを|２５～回復する": "Restore 25 HP|to nearby allies."
     },
     "7303": {
-        "仲間ひとりの|悪い効果を消し|ＨＰを２５～回復": ""
+        "仲間ひとりの|悪い効果を消し|ＨＰを２５～回復": "Cure bad effects|and restore 25|HP of one ally."
     },
     "7304": {
         "周囲の仲間の|防御力を上げ|ＨＰを徐々に回復": ""
@@ -21915,7 +21915,7 @@
         "clarity_nt_char_2437": "clarity_nt_char_2437"
     },
     "7306": {
-        "範囲内の仲間を|生き返らせるが|失敗する時もある": ""
+        "範囲内の仲間を|生き返らせるが|失敗する時もある": "Chance to revive|all nearby allies|in range."
     },
     "7307": {
         "clarity_nt_char_2438": "clarity_nt_char_2438"
@@ -22425,7 +22425,7 @@
         "敵１体の|テンション上昇時|自分も上昇する": ""
     },
     "7476": {
-        "仲間ひとりの|悪い効果を消し|ＨＰを８０～回復": ""
+        "仲間ひとりの|悪い効果を消し|ＨＰを８０～回復": "Cure bad effects|and restore 80|HP of one ally."
     },
     "7477": {
         "仲間ひとりの|悪い効果を消し|ＨＰ１６４～回復": "Cure bad effects|and restore 164|HP of one ally."
