@@ -123,7 +123,7 @@
         "<speed=0>|あきらめて　バトエンファイトを終了します。|本当に　よろしいですか？|<yesno 2><break>": "<speed=0>|You'll give up and end this Batoen Fight.|Are you really sure?|<yesno 2><break>"
     },
     "42": {
-        "<speed=0>|今回は　説明のための|バトエンファイトなので|「あきらめる」は　選択できません。": ""
+        "<speed=0>|今回は　説明のための|バトエンファイトなので|「あきらめる」は　選択できません。": "<speed=0>|Batoen is currently being explained, so|\"Give Up\" cannot be chosen right now."
     },
     "43": {
         "<speed=0>|バトエンファイトに　負けてしまった……。|<auto_br=5000>|相手の使ってくる　バトエンを分析して|有利に戦える　バトエンを|自分のデッキに　加えてみよう！|<auto_bw=5000><close>": ""
