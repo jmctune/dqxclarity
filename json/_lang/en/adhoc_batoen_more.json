@@ -132,7 +132,7 @@
         "<speed=0>|バトエンファイトに　勝った！|<auto_bw=5000><close>": "<speed=0>|Won the Batoen Fight!|<auto_bw=5000><close>"
     },
     "45": {
-        "<speed=0>|今回のバトエンファイトで|バトエンポイントを　<%nL_BATOEN_POINT>Ｐ　獲得しました！|<auto_bw=5000><close>": ""
+        "<speed=0>|今回のバトエンファイトで|バトエンポイントを　<%nL_BATOEN_POINT>Ｐ　獲得しました！|<auto_bw=5000><close>": "<speed=0>|Won the Batoen Fight!|Received <%dL_BATOEN_POINT> Batoen Points!|<auto_bw=5000><close>"
     },
     "46": {
         "<speed=0>|<se_nots Joutyu_SE 39>|今回の結果は　２位でした！": ""
