@@ -171,13 +171,13 @@
         "このままパーティから抜けますが|本当によろしいですか？": "You'll leave your current party. Is this okay?"
     },
     "58": {
-        "<speed=0>|編成を確定する前であれば　キャンセルボタンを|押すことで　選び直しできます。|このデッキ編成で　よろしいですか？|<yesno><break>": ""
+        "<speed=0>|編成を確定する前であれば　キャンセルボタンを|押すことで　選び直しできます。|このデッキ編成で　よろしいですか？|<yesno><break>": "<speed=0>|You can cancel any changes by pressing the|Cancel button. Use this deck setup?|<yesno><break>"
     },
     "59": {
-        "<speed=0>|封印する　えんぴつを選択しました。|相手全員が　封印する　えんぴつを選ぶまで|お待ちください。": ""
+        "<speed=0>|封印する　えんぴつを選択しました。|相手全員が　封印する　えんぴつを選ぶまで|お待ちください。": "<speed=0>|Selected a pencil to seal. Please wait|for everyone to make their choice."
     },
     "60": {
-        "<speed=0>|デッキの編成が　完了しました。|全員のデッキ編成が終わるのを|お待ちください。": ""
+        "<speed=0>|デッキの編成が　完了しました。|全員のデッキ編成が終わるのを|お待ちください。": "<speed=0>|Deck setup is complete. Please wait for|everyone else to finish."
     },
     "61": {
         "<speed=0>|この　えんぴつは　対戦相手が封印したため|選ぶことができません。|別の　えんぴつを　選んでください。": ""
