@@ -1,15 +1,15 @@
 {
     "1": {
-        "スロットで　遊びますか？<yesno_nc><close>": ""
+        "スロットで　遊びますか？<yesno_nc><close>": "Play the slots?<yesno_nc><close>"
     },
     "2": {
-        "カギが　なくなったので|ボーナスゲームは　終了です。": ""
+        "カギが　なくなったので|ボーナスゲームは　終了です。": "All keys are gone. The|bonus game is over."
     },
     "3": {
-        "ボーナスゲームを　開始します！": ""
+        "ボーナスゲームを　開始します！": "Bonus game start!"
     },
     "4": {
-        "合計で　<%dM_coin>枚の|コインを　かくとく　しました！": ""
+        "合計で　<%dM_coin>枚の|コインを　かくとく　しました！": "Received a total of <%dM_coin> Coins!"
     },
     "5": {
         "<speed=0>カギの数だけ　宝箱を開けられます。|お好きな　宝箱を　選んでください。": ""
