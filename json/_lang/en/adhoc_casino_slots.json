@@ -42,7 +42,7 @@
         "フリースピンが　終了しました。": "Free Spins have ended."
     },
     "15": {
-        "なんと　コインを使わずに|あと<%dM_fspncnt>回　スロットをまわせるようだ…！": ""
+        "なんと　コインを使わずに|あと<%dM_fspncnt>回　スロットをまわせるようだ…！": "It seems you can spin the slots <%dM_fspncnt>|time(s) without using any coins!"
     },
     "16": {
         "おめでとうございます！|<%dM_coin>枚のコインが　当たりました。": ""
