@@ -1,9 +1,9 @@
 {
     "1": {
-        "<%sCAS_gambler>は|宿屋のマスに　止まった！": ""
+        "<%sCAS_gambler>は|宿屋のマスに　止まった！": "<%sCAS_gambler> stopped on an|Inn Space!"
     },
     "2": {
-        "<%sCAS_gambler>は|教会のマスに　止まった！": ""
+        "<%sCAS_gambler>は|教会のマスに　止まった！": "<%sCAS_gambler> stopped on a|Church Space!"
     },
     "3": {
         "モンスターが　あらわれた！": ""
