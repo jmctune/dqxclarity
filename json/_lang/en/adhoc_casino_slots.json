@@ -189,16 +189,16 @@
         "スライムタワー": "Slime Stack"
     },
     "64": {
-        "スライムタワー×３": ""
+        "スライムタワー×３": "Slime Stack x3"
     },
     "65": {
-        "スライムタワー×４": ""
+        "スライムタワー×４": "Slime Stack x4"
     },
     "66": {
-        "スライムタワー×５": ""
+        "スライムタワー×５": "Slime Stack x5"
     },
     "67": {
-        "<speed=0><cursor>で　かけきんを決めて|<convenience>を押すと　スロットがまわります。": ""
+        "<speed=0><cursor>で　かけきんを決めて|<convenience>を押すと　スロットがまわります。": "<speed=0>Use <cursor> to choose the number of slots.|Press <convenience> to spin the slots."
     },
     "68": {
         "なんと　メタルスピンの　続く　回数が|<%dM_lvupcnt>回　追加されたようだ…！": ""
