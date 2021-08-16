@@ -210,7 +210,7 @@
         "<speed=0>|バトエンポイントを　<%nADD_BATEN_POINT>Ｐ　手に入れた！<se_nots System 7>": "<speed=0>|Received <%dADD_BATEN_POINT> Batoen Points!<se_nots System 7>"
     },
     "71": {
-        "<speed=0>|大会スコアを　<%nADD_GP_POINT>Ｐ　失った……。|合計で　<%nGP_POINT>Ｐになった！": ""
+        "<speed=0>|大会スコアを　<%nADD_GP_POINT>Ｐ　失った……。|合計で　<%nGP_POINT>Ｐになった！": "<speed=0>|Tournament score down by <%dADD_GP_POINT> P...|Total score is now <%dGP_POINT>!"
     },
     "72": {
         "<speed=0>|<%sL_PENCIL_NAME>は　選択されています。|別の　えんぴつを　選んでください。": ""
