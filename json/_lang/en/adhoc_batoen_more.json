@@ -108,19 +108,19 @@
         "<pipipi_high>|「『どうぐ』コマンドは|　どうぐ消しゴムを　使うためのコマンドですの。|<br>|「どうぐ消しゴムは　２個まで　持ち込んで|　使うことができますわ。|<br>|「ただし　バトエンファイト中に使えるのは|　１個につき　１回だけ。|　チャンスや　ピンチの時にお使いください。|<br>|「では　今回は|　『どうぐ』コマンドをお選びくださいませ。|<pipipi_off><end>": "<pipipi_high>|The \"Item\" command allows you to use an|Item Eraser.|<br>|You're able to bring 2 Item Erasers to|a battle.|<br>|However, each eraser can only be used|once per Batoen Fight. Use them in a pinch|or to turn a battle in your favor.|<br>|Now, please select the \"Item\" command.|<pipipi_off><end>"
     },
     "37": {
-        "<pipipi_high>|「『どうぐ』コマンドについては|　ご理解いただけたようですね！|<br>|「どうぐ消しゴムは　使っても|　次のバトエンファイトでは　また使えるように|　なりますので　どんどん使用してくださいね。|<br>|「では　最後に『チェンジ』コマンドについて|　レクチャーいたしますわ。|<br>|「『チェンジ』コマンドは|　場のバトエンと　手持ちのバトエンを|　『入れ替える』コマンドですの。|<br>|「しかも『チェンジアタック』という|　特別なアクションを　くり出すことのできる|　とても　重要なコマンドですのよ！|<br>|「では　最後に『チェンジ』コマンドを|　お選びくださいませ！|<pipipi_off><end>": ""
+        "<pipipi_high>|「『どうぐ』コマンドについては|　ご理解いただけたようですね！|<br>|「どうぐ消しゴムは　使っても|　次のバトエンファイトでは　また使えるように|　なりますので　どんどん使用してくださいね。|<br>|「では　最後に『チェンジ』コマンドについて|　レクチャーいたしますわ。|<br>|「『チェンジ』コマンドは|　場のバトエンと　手持ちのバトエンを|　『入れ替える』コマンドですの。|<br>|「しかも『チェンジアタック』という|　特別なアクションを　くり出すことのできる|　とても　重要なコマンドですのよ！|<br>|「では　最後に『チェンジ』コマンドを|　お選びくださいませ！|<pipipi_off><end>": "<pipipi_high>|Looks like you've gotten the hang of|the \"Item\" command!|<br>|You'll get back any Erasers you used once|the battle is over, so don't worry about using|them.|<br>|Now, I will lecture you on the \"Change\"|command.|<br>|The \"Change\" command allows you to swap your|Batoen on the field with one in your hand.|<br>|It's a very important action that will allow|you to perform a \"Change Attack\"!|<br>|Now, please select the \"Change\" command.|<pipipi_off><end>"
     },
     "38": {
-        "<speed=0>|今回は　「たたかう」を|選んでください。": ""
+        "<speed=0>|今回は　「たたかう」を|選んでください。": "<speed=0>|Please select the \"Fight\" command."
     },
     "39": {
-        "<speed=0>|今回は　「どうぐ」を|選んでください。": ""
+        "<speed=0>|今回は　「どうぐ」を|選んでください。": "<speed=0>|Please select the \"Item\" command."
     },
     "40": {
-        "<speed=0>|今回は　「チェンジ」を|選んでください。": ""
+        "<speed=0>|今回は　「チェンジ」を|選んでください。": "<speed=0>|Please select the \"Change\" command."
     },
     "41": {
-        "<speed=0>|あきらめて　バトエンファイトを終了します。|本当に　よろしいですか？|<yesno 2><break>": ""
+        "<speed=0>|あきらめて　バトエンファイトを終了します。|本当に　よろしいですか？|<yesno 2><break>": "<speed=0>|You'll give up and end this Batoen Fight.|Are you really sure?|<yesno 2><break>"
     },
     "42": {
         "<speed=0>|今回は　説明のための|バトエンファイトなので|「あきらめる」は　選択できません。": ""
