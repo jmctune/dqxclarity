@@ -213,10 +213,10 @@
         "<speed=0>|大会スコアを　<%nADD_GP_POINT>Ｐ　失った……。|合計で　<%nGP_POINT>Ｐになった！": "<speed=0>|Tournament score down by <%dADD_GP_POINT> P...|Total score is now <%dGP_POINT>!"
     },
     "72": {
-        "<speed=0>|<%sL_PENCIL_NAME>は　選択されています。|別の　えんぴつを　選んでください。": ""
+        "<speed=0>|<%sL_PENCIL_NAME>は　選択されています。|別の　えんぴつを　選んでください。": "<speed=0>|<%sL_PENCIL_NAME> is selected.|Please choose another pencil."
     },
     "73": {
-        "<speed=0>|制限時間内に　３本の　えんぴつを|選びませんでした。": ""
+        "<speed=0>|制限時間内に　３本の　えんぴつを|選びませんでした。": "<speed=0>|Didn't select 3 pencils within the time|limit."
     },
     "74": {
         "<speed=0>|覇者の心を　<%dADD_HASYA_POINT>個　手に入れた！<se_nots System 7>": ""
