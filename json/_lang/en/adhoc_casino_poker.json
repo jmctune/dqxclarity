@@ -87,7 +87,7 @@
         "<%sCAS_monster>は　にげだした！<auto_bw=3000><close>": ""
     },
     "30": {
-        "まわりのプレイヤーと協力して　時間内に|<%sCAS_monster>を　倒してください！<auto_br=4000>|カジノレイド中は　コインが減りませんので|強気にガンガンせめて　コインをかせぎましょう！<auto_bw=4000><close>": ""
+        "まわりのプレイヤーと協力して　時間内に|<%sCAS_monster>を　倒してください！<auto_br=4000>|カジノレイド中は　コインが減りませんので|強気にガンガンせめて　コインをかせぎましょう！<auto_bw=4000><close>": "Cooperate with nearby players to defeat the|<%sCAS_monster>!<auto_br=4000>|Don't worry about losing coins during the|raid, so go all out to beat the boss and win a|lot of coins!<auto_bw=4000><auto_bw=4000><close>"
     },
     "31": {
         "<%dM_coin>枚のコインを　手に入れました。": "Received <%dM_coin> coins."
