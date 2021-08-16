@@ -99,7 +99,7 @@
         "大当たりで|<%sCAS_tup_me>の　テンションがあがった！<br>|まわりの人の　テンションもアップした！<br>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！": "Nice hit!|<%sCAS_tup_me> got a Tension Boost!<br>|Nearby players also got a Tension Boost!<br>|The next time you win coins, you'll get 1.5|times the payout!"
     },
     "34": {
-        "このコーナーの<%sCAS_tup_who>さん　大当たり！|<%sCAS_tup_me>のテンションも　アップした！<br>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！": ""
+        "このコーナーの<%sCAS_tup_who>さん　大当たり！|<%sCAS_tup_me>のテンションも　アップした！<br>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！": "<%sCAS_tup_who> at this table got a nice hit!|You got a Tension Boost!<br>|The next time you win coins, you'll get 1.5|times the payout!"
     },
     "35": {
         "宝箱のカギを　すべて　はずしました！|ダブルアップがおわった時に　宝箱を開きます！": ""

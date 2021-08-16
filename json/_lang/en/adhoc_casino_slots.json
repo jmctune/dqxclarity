@@ -72,31 +72,31 @@
         "大当たりで|<%sCAS_tup_me>の　テンションがあがった！<br>|まわりの人の　テンションもアップした！<br>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！": "Nice hit!|<%sCAS_tup_me> got a Tension Boost!<br>|Nearby players also got a Tension Boost!<br>|The next time you win coins, you'll get 1.5|times the payout!"
     },
     "25": {
-        "このコーナーの<%sCAS_tup_who>さん　大当たり！|<%sCAS_tup_me>のテンションも　アップした！<br>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！": ""
+        "このコーナーの<%sCAS_tup_who>さん　大当たり！|<%sCAS_tup_me>のテンションも　アップした！<br>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！": "<%sCAS_tup_who> at this table got a nice hit!|You got a Tension Boost!<br>|The next time you win coins, you'll get 1.5|times the payout!"
     },
     "26": {
-        "ＢＡＲ": ""
+        "ＢＡＲ": "ＢＡＲ"
     },
     "27": {
-        "ＢＡＲ×３": ""
+        "ＢＡＲ×３": "ＢＡＲ×３"
     },
     "28": {
-        "ＢＡＲ×４": ""
+        "ＢＡＲ×４": "ＢＡＲ×４"
     },
     "29": {
-        "ＢＡＲ×５": ""
+        "ＢＡＲ×５": "ＢＡＲ×５"
     },
     "30": {
-        "フィーバー": ""
+        "フィーバー": "Fever"
     },
     "31": {
-        "キングスライム": ""
+        "キングスライム": "King Slime"
     },
     "32": {
-        "キングスライム×３": ""
+        "キングスライム×３": "King Slime x3"
     },
     "33": {
-        "キングスライム×４": ""
+        "キングスライム×４": "King Slime x4"
     },
     "34": {
         "キングスライム×５": ""
