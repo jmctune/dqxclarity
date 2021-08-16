@@ -93,7 +93,7 @@
         "clarity_nt_char_31": "clarity_nt_char_31"
     },
     "32": {
-        "<%sCAS_gambler>は|ミラクルダイスのマスに　止まった！|<br>|次のターン　移動するときに|サイコロの目を|自由に選ぶことが　できます！": ""
+        "<%sCAS_gambler>は|ミラクルダイスのマスに　止まった！|<br>|次のターン　移動するときに|サイコロの目を|自由に選ぶことが　できます！": "<%sCAS_gambler> landed on a|Miracle Dice Space!|<br>|Next turn, they can choose the value|of their dice roll!"
     },
     "33": {
         "clarity_nt_char_33": "clarity_nt_char_33"
