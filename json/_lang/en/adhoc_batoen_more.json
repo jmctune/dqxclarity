@@ -48,7 +48,7 @@
         "削除予定": "Nothing"
     },
     "17": {
-        "<pipipi_high>|「これで　このターンの行動が|　『たたかう』に　決定されましたわ！|<br>|「全員のコマンドが　入力されたら|　次は『すばやさ』が高いバトエンから|　順番に　行動していくことになりますの。|<br>|「つまり『すばやさが高いほど　先に行動できる』|　ということになりますので|　バトエンの『すばやさ』は要チェックですわよ！|<pipipi_off><end>": ""
+        "<pipipi_high>|「これで　このターンの行動が|　『たたかう』に　決定されましたわ！|<br>|「全員のコマンドが　入力されたら|　次は『すばやさ』が高いバトエンから|　順番に　行動していくことになりますの。|<br>|「つまり『すばやさが高いほど　先に行動できる』|　ということになりますので|　バトエンの『すばやさ』は要チェックですわよ！|<pipipi_off><end>": "<pipipi_high>|The action decided for this turn is \"Fight\"!|<br>|Once all players' actions have been chosen,|Batoen will act in order starting from the|highest Agility.|<br>|In other words, if your Agility is high,|you'll get to act sooner more often! Make|sure to check your Agility!|<pipipi_off><end>"
     },
     "18": {
         "<pipipi_high>|「見事な『チェンジアタック』でしたわ！|<br>|「バトエンファイト中に『チェンジ』を使えるのは|　１対１の戦いでは　３回まで|　フリー対戦では　２回までと決められてますの。|<br>|「強力なコマンドですので|　ここぞという　タイミングで|　お使いくださいませ！|<br>|「以上で　私からの説明を|　終わりとさせていただきます。|<br>|「もし　もっと　くわしく知りたいことがあれば|　バトエンランチャーの　『バトエンの遊び方』で|　ご確認くださいませ。|<br>|「<pc>様なら　きっと　すばらしい|　バトエンファイターに　なれると思いますわ！|<pipipi_off><end>": ""
