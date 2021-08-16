@@ -5973,7 +5973,7 @@
         "<speed=0><color_yellow>※学園内で　ゲームを終了した場合|サポート仲間として　酒場登録されませんが|よろしいですか？<yesno><close>": "<speed=0><color_yellow>*You cannot register yourself as a support|companion if you end the game in the school.|Is this okay? <yesno><close>"
     },
     "1992": {
-        "<speed=0><color_yellow>※占い師で　ゲームを終了した場合|サポート仲間として　酒場登録されませんが|よろしいですか？<yesno><close>": "<speed=0><color_yellow>*You cannot register yourself as a|support companion in the bar as a Fortune Teller.|Is this okay? <yesno><close>"
+        "<speed=0><color_yellow>※占い師で　ゲームを終了した場合|サポート仲間として　酒場登録されませんが|よろしいですか？<yesno><close>": "<speed=0><color_yellow>*You cannot register yourself as a|support companion in the tavern as a Fortune|Teller. Is this okay? <yesno><close>"
     },
     "1993": {
         "<speed=0>習得中の　スキルノートです。": ""
