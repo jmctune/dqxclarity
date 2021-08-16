@@ -102,19 +102,19 @@
         "<%sCAS_gambler>は|矢印のマスに　止まった！": "<%sCAS_gambler> landed on an|Arrow Space!"
     },
     "35": {
-        "<%sCAS_gambler>は|宝箱のマスに　止まった！": ""
+        "<%sCAS_gambler>は|宝箱のマスに　止まった！": "<%sCAS_gambler> landed on a|Treasure Chest Space!"
     },
     "36": {
-        "<%sCAS_gambler>は|パルプンテのマスに　止まった！": ""
+        "<%sCAS_gambler>は|パルプンテのマスに　止まった！": "<%sCAS_gambler> landed on a|Hocus Pocus Space!"
     },
     "37": {
         "clarity_nt_char_37": "clarity_nt_char_37"
     },
     "38": {
-        "<%sCAS_gambler>は|テンションアップのマスに　止まった！": ""
+        "<%sCAS_gambler>は|テンションアップのマスに　止まった！": "<%sCAS_gambler> landed on a|Tension Boost Space!"
     },
     "39": {
-        "<%sCAS_gambler>は|ダーマ神殿のマスに　止まった！": ""
+        "<%sCAS_gambler>は|ダーマ神殿のマスに　止まった！": "<%sCAS_gambler> landed on a|Dharma Temple Space!"
     },
     "40": {
         "clarity_nt_char_40": "clarity_nt_char_40"
