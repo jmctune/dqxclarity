@@ -39,7 +39,7 @@
         "<%dM_coin>枚のコインを　手に入れました。<auto_bw=3000><close>": ""
     },
     "14": {
-        "<%sCAS_monster>が　あらわれた！<auto_bw=3000><close>": ""
+        "<%sCAS_monster>が　あらわれた！<auto_bw=3000><close>": "<%sCAS_monster> draws near!<auto_bw=3000><close>"
     },
     "15": {
         "<speed=0>ベットしたい場所に|<convenience>で　チップを置いてください。<auto_br=4000>|のこり時間が　０になると|ルーレットがまわりはじめます。<auto_bw=4000><close>": ""

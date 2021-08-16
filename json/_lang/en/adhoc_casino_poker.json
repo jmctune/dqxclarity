@@ -93,7 +93,7 @@
         "<%dM_coin>枚のコインを　手に入れました。": "Received <%dM_coin> coins."
     },
     "32": {
-        "<%sCAS_monster>が　あらわれた！<auto_bw=3000><close>": ""
+        "<%sCAS_monster>が　あらわれた！<auto_bw=3000><close>": "<%sCAS_monster> draws near!<auto_bw=3000><close>"
     },
     "33": {
         "大当たりで|<%sCAS_tup_me>の　テンションがあがった！<br>|まわりの人の　テンションもアップした！<br>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！": ""
