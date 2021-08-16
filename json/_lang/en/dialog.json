@@ -36,7 +36,7 @@
         "clarity_nt_char_5": "clarity_nt_char_5"
     },
     "13": {
-        "<speed=0>冒険を中断して　ゲームを終了します。|<color_yellow>※敵がいる場所では　10秒ほど　かかります。<color_white>|よろしいですか？<yesno><close>": ""
+        "<speed=0>冒険を中断して　ゲームを終了します。|<color_yellow>※敵がいる場所では　10秒ほど　かかります。<color_white>|よろしいですか？<yesno><close>": "<speed=0>Interrupt the adventure and end the game?|<color_yellow>*It takes 10 seconds in an area with monsters.|<color_white><yesno><close>"
     },
     "14": {
         "clarity_nt_char_6": "clarity_nt_char_6"
@@ -6108,7 +6108,7 @@
         "clarity_nt_char_686": "clarity_nt_char_686"
     },
     "2037": {
-        "<speed=0>冒険を中断して　ゲームを終了します。|よろしいですか？<yesno><close>": ""
+        "<speed=0>冒険を中断して　ゲームを終了します。|よろしいですか？<yesno><close>": "<speed=0>Is it okay to interrupt the adventure and|log out of the game?<yesno><close>"
     },
     "2038": {
         "clarity_nt_char_687": "clarity_nt_char_687"
