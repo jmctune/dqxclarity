@@ -12,7 +12,7 @@
         "<speed=0>|チェンジできる回数が　残っていないので|このバトエンファイト中は　チェンジできません。": "<speed=0>|You've used up all of your remaining changes|for this Batoen Fight."
     },
     "5": {
-        "<speed=0>|<%sL_PENCIL_NAME>は　ＨＰが最大なので|上やくそうを　使っても　効果がありません。": "<speed=0>|<%sL_PENCIL_NAME> is already at full HP,|so the Medicinal Herb won't have any effect."
+        "<speed=0>|<%sL_PENCIL_NAME>は　ＨＰが最大なので|上やくそうを　使っても　効果がありません。": "<speed=0>|<%sL_PENCIL_NAME> is already at full HP,|so the Strong Medicine won't have any effect."
     },
     "6": {
         "<speed=0>|<%sL_PENCIL_NAME>は　ラブチョコを　使っても|これ以上　テンションがあがりません。": "<speed=0>|<%sL_PENCIL_NAME> is already at max|Tension, so the Love Chocolate won't increase|it any higher."
@@ -60,13 +60,13 @@
         "<pipipi_high>|「『チェンジアタック』は|　それぞれのバトエンの|　『一番上にあるアクション』ですの。|<br>|「どんな『チェンジアタック』を持っているのかを|　確認しながら　チェンジしたいバトエンを|　選んでくださいませ！|<pipipi_off><end>": "<pipipi_high>|A \"Change Attack\" is a Batoen's action listed|at the very top.|<br>|When doing a Change Attack, make sure to|carefully check the Batoen you're changing|into!|<pipipi_off><end>"
     },
     "21": {
-        "<pipipi_high>|「今　お手持ちの　どうぐ消しゴムは|　『上やくそう』と『ラブチョコ』ですわ。|<br>|「『上やくそう』は　回復したい時に|　『ラブチョコ』は　攻撃したい時に|　選んでいただけると　よろしいかと。|<br>|「では　お好きな方を|　選んでみてくださいませ！|<pipipi_off><end>": ""
+        "<pipipi_high>|「今　お手持ちの　どうぐ消しゴムは|　『上やくそう』と『ラブチョコ』ですわ。|<br>|「『上やくそう』は　回復したい時に|　『ラブチョコ』は　攻撃したい時に|　選んでいただけると　よろしいかと。|<br>|「では　お好きな方を|　選んでみてくださいませ！|<pipipi_off><end>": "<pipipi_high>|The Item Erasers you have now are \"Strong|Medicine\" and \"Love Chocolate\".|<br>|Use Strong Medicine if you need to recover,|and Love Chocolate if you plan to attack.|<br>|Choose whichever you like!|<pipipi_off><end>"
     },
     "22": {
-        "削除予定": ""
+        "削除予定": "Nothing"
     },
     "23": {
-        "削除予定": ""
+        "削除予定": "Nothing"
     },
     "24": {
         "<pipipi_high>|「まずは　バトエンファイトの基本となる|　『たたかう』コマンドですわ。|<br>|「『たたかう』を　選ぶと|　バトエンは　６つのアクションのうち|　どれか１つを　おこないますの。|<br>|「では　『たたかう』コマンドを|　選んでみてくださいませ。|<pipipi_off><end>": ""
