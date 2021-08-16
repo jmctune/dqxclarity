@@ -21894,7 +21894,7 @@
         "clarity_nt_char_2436": "clarity_nt_char_2436"
     },
     "7299": {
-        "敵を眠りに誘う|魔法陣が|少しの間出現": ""
+        "敵を眠りに誘う|魔法陣が|少しの間出現": "A magic circle|puts to sleep for|a short while."
     },
     "7300": {
         "自分に|スペルガード|効果をかける": "Apply a spell|guard effect|to yourself."
@@ -22446,13 +22446,13 @@
         "敵を幻惑させる|魔法陣が|普段より長く出現": "A magic circle|that dazzles for|much longer."
     },
     "7483": {
-        "敵を眠りに誘う|魔法陣が出現": ""
+        "敵を眠りに誘う|魔法陣が出現": "A magic circle|that causes|sleep."
     },
     "7484": {
         "clarity_nt_char_2498": "clarity_nt_char_2498"
     },
     "7485": {
-        "敵を眠りに誘う|魔法陣が|普段より長く出現": ""
+        "敵を眠りに誘う|魔法陣が|普段より長く出現": "A magic circle|puts to sleep for|much longer."
     },
     "7486": {
         "上にいる敵への|ダメージが増える|魔法陣が出現": ""
@@ -26295,7 +26295,7 @@
         "clarity_nt_char_2922": "clarity_nt_char_2922"
     },
     "8766": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを ねむらせた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを ねむらせた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e fell asleep!"
     },
     "8767": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを こんらんさせた！": ""
@@ -30789,7 +30789,7 @@
         "迷宮の主が|極箱2個ドロップ！": ""
     },
     "10264": {
-        "ねむらせた！": ""
+        "ねむらせた！": "Fell asleep!"
     },
     "10265": {
         "clarity_nt_char_3415": "clarity_nt_char_3415"
@@ -33258,7 +33258,7 @@
         "clarity_nt_char_3689": "clarity_nt_char_3689"
     },
     "11087": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを さらに 深く ねむらせた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを さらに 深く ねむらせた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e fell into deeper sleep!"
     },
     "11088": {
         "clarity_nt_char_3690": "clarity_nt_char_3690"
