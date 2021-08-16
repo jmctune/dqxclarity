@@ -258,7 +258,7 @@
         "ほんとうに　終了してよろしいですか？<yesno_nc 2><close>": "Are you sure you want to quit?<yesno_nc 2><close>"
     },
     "87": {
-        "<speed=0><speed=0><cursor>で　かけきんを決めて|<convenience>を押すと　スロットがまわります。<auto_bw=2500><close>": ""
+        "<speed=0><speed=0><cursor>で　かけきんを決めて|<convenience>を押すと　スロットがまわります。<auto_bw=2500><close>": "<speed=0><speed=0>Use <cursor> to choose the number of slots.|Press <convenience> to spin the slots.<auto_bw=2500><close>"
     },
     "88": {
         "<speed=0>もういちど　スロットを遊びますか？<yesno_nc><close>": "<speed=0>Play the slots again?<yesno_nc><close>"
@@ -267,7 +267,7 @@
         "残念でした！|もういちど　スロットを遊びますか？<yesno_nc><close>": "Too bad! Play the slots again?<yesno_nc><close>"
     },
     "90": {
-        "なんと　メタルスピンの　続く　回数が|<%dM_lvupcnt>回　追加されたようだ…！<auto_bw=2500><close>": ""
+        "なんと　メタルスピンの　続く　回数が|<%dM_lvupcnt>回　追加されたようだ…！<auto_bw=2500><close>": "It looks like you received <%dM_lvupcnt> more|Metal Spins!<auto_bw=2500><close>"
     },
     "91": {
         "メタルスピンの　続く　回数が|最大値に　たっした！<auto_bw=2500><close>": ""
