@@ -192,10 +192,10 @@
         "<speed=0>|相手の選択した　えんぴつが　封印されました。|残りの　えんぴつから　３本選んで|デッキを編成してください。": "<speed=0>|The other players have chosen pencils to|seal. Please make a deck of 3 pencils from|the remaining pencils."
     },
     "65": {
-        "<speed=0>|封印すると　自分以外の対戦相手に|この　えんぴつを　使えなくできます。|これを封印しても　よろしいですか？|<yesno><break>": ""
+        "<speed=0>|封印すると　自分以外の対戦相手に|この　えんぴつを　使えなくできます。|これを封印しても　よろしいですか？|<yesno><break>": "<speed=0>|If you seal this pencil, you opponent|won't be able to choose it. Do you want|to seal this pencil?|<yesno><break>"
     },
     "66": {
-        "<speed=0>|大会スコアを　<%nADD_GP_POINT>Ｐ　手に入れた！|合計で　<%nGP_POINT>Ｐになった！": ""
+        "<speed=0>|大会スコアを　<%nADD_GP_POINT>Ｐ　手に入れた！|合計で　<%nGP_POINT>Ｐになった！": "<speed=0>|Received a tournament score of <%dADD_GP_POINT> P!|Total score is now <%dGP_POINT>!"
     },
     "67": {
         "<speed=0>|大会ランクが　<%sAFTER_CLASS>ランクにアップした！|次のランクまで　<%nNEXT_GP_POINT>Ｐ。": ""
