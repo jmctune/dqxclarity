@@ -300,7 +300,7 @@
         "誰かの大当たりで|<%sCAS_tup_me>のテンションが　アップした！<br>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！": "Someone got a nice hit!|You got a Tension Boost!<br>|The next time you win coins, you'll get 1.5|times the payout!"
     },
     "101": {
-        "<speed=0><cursor>で|かけきんを決めて　<convenience>でスタートします。": ""
+        "<speed=0><cursor>で|かけきんを決めて　<convenience>でスタートします。": "<speed=0>Choose a bet with <cursor>.|Press <convenience> to start."
     },
     "102": {
         "<speed=0><cursor>で|かけきんを決めて　<convenience>でスタートします。<auto_bw=2500><close>": ""
@@ -309,7 +309,7 @@
         "<speed=0><cursor>で|かけきんを決めてから　スタートしてください。": ""
     },
     "104": {
-        "<speed=0><cursor>で|かけきんを決めて　<convenience>でスタートします。": ""
+        "<speed=0><cursor>で|かけきんを決めて　<convenience>でスタートします。": "<speed=0>Choose a bet with <cursor>.|Press <convenience> to start."
     },
     "105": {
         "カジノレイドを　発生させました。|<%dM_coin>枚のコインが　当たりました。|<auto_bw=3000><close>": ""
