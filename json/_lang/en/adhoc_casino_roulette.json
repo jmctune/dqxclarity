@@ -18,7 +18,7 @@
         "ルーレットを　終了しますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno 2><close>": ""
     },
     "7": {
-        "コインが足りませんので|お買い求めのうえ　またおこしください！": ""
+        "コインが足りませんので|お買い求めのうえ　またおこしください！": "Not enough coins! Please come back after|purchasing some."
     },
     "8": {
         "コインがありませんので|お買い求めのうえ　またおこしください！": "You don't have any coins! Please come back|after purchasing some."

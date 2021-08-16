@@ -48,7 +48,7 @@
         "ブラックリストに　登録されている人がいます。|ここで　一緒に|<%dM_coin>コイン　スロットを遊びますか？<yesno 2><close>": ""
     },
     "17": {
-        "コインが足りませんので|お買い求めのうえ　またおこしください！": ""
+        "コインが足りませんので|お買い求めのうえ　またおこしください！": "Not enough coins! Please come back after|purchasing some."
     },
     "18": {
         "コインがありませんので|お買い求めのうえ　またおこしください！": "You don't have any coins! Please come back|after purchasing some."

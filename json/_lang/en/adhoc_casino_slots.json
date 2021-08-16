@@ -27,13 +27,13 @@
         "コインがありませんので|お買い求めのうえ　またおこしください！": "You don't have any coins! Please come back|after purchasing some."
     },
     "10": {
-        "<speed=0>もういちど　スロットを遊びますか？<yesno_nc><close>": ""
+        "<speed=0>もういちど　スロットを遊びますか？<yesno_nc><close>": "<speed=0>Play the slots again?<yesno_nc><close>"
     },
     "11": {
-        "残念でした！|もういちど　スロットを遊びますか？<yesno_nc><close>": ""
+        "残念でした！|もういちど　スロットを遊びますか？<yesno_nc><close>": "Too bad! Play the slots again?<yesno_nc><close>"
     },
     "12": {
-        "メタルチェンジが　終了しました。": ""
+        "メタルチェンジが　終了しました。": "Metal Spins have ended."
     },
     "13": {
         "なんと　当たった時に　もらえるコインが|２倍にアップしたようだ…！": ""
@@ -261,10 +261,10 @@
         "<speed=0><speed=0><cursor>で　かけきんを決めて|<convenience>を押すと　スロットがまわります。<auto_bw=2500><close>": ""
     },
     "88": {
-        "<speed=0>もういちど　スロットを遊びますか？<yesno_nc><close>": ""
+        "<speed=0>もういちど　スロットを遊びますか？<yesno_nc><close>": "<speed=0>Play the slots again?<yesno_nc><close>"
     },
     "89": {
-        "残念でした！|もういちど　スロットを遊びますか？<yesno_nc><close>": ""
+        "残念でした！|もういちど　スロットを遊びますか？<yesno_nc><close>": "Too bad! Play the slots again?<yesno_nc><close>"
     },
     "90": {
         "なんと　メタルスピンの　続く　回数が|<%dM_lvupcnt>回　追加されたようだ…！<auto_bw=2500><close>": ""
