@@ -291,7 +291,7 @@
         "このコーナーの<%sCAS_tup_who>さん　大当たり！|<%sCAS_tup_me>のテンションも　アップした！<auto_br=2500>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！<auto_bw=2500><close>": "<%sCAS_tup_who> at this table got a nice hit!|You got a Tension Boost!<auto_br=2500>|The next time you win coins, you'll get 1.5|times the payout!<auto_bw=2500><close>"
     },
     "98": {
-        "カジノレイドは　まもなく終了するため|参加できませんでした。": ""
+        "カジノレイドは　まもなく終了するため|参加できませんでした。": "The casino raid is about to end, so you can't|join it right now."
     },
     "99": {
         "誰かの大当たりで|<%sCAS_tup_me>のテンションが　アップした！<auto_br=2500>|なんと　当たった時に　もらえるコインが|１．５倍にアップしたようだ…！<auto_bw=2500><close>": ""
