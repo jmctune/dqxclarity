@@ -147,13 +147,13 @@
         "すべての攻撃が全員に|当たるようになった！": "All attacks will now hit all targets!"
     },
     "50": {
-        "<speed=0>|「クライマックスバトル」に突入しました！|これより　全ての攻撃が|全員に　ヒットするようになります！": ""
+        "<speed=0>|「クライマックスバトル」に突入しました！|これより　全ての攻撃が|全員に　ヒットするようになります！": "<speed=0>|\"Climax Battle\" has started! Now all attacks|will hit every target!"
     },
     "51": {
-        "<speed=0>|今回は　同じターンに|全滅したプレイヤーが　複数いたので|あなたは　２位となりました。|<auto_bw=5000><close>": ""
+        "<speed=0>|今回は　同じターンに|全滅したプレイヤーが　複数いたので|あなたは　２位となりました。|<auto_bw=5000><close>": "<speed=0>|Multiple players were knocked out on the|same turn, so you came in 2nd place.|<auto_bw=5000><close>"
     },
     "52": {
-        "<speed=0>|今回は　同じターンに|全滅したプレイヤーが　複数いたので|あなたは　３位となりました。|<auto_bw=5000><close>": ""
+        "<speed=0>|今回は　同じターンに|全滅したプレイヤーが　複数いたので|あなたは　３位となりました。|<auto_bw=5000><close>": "<speed=0>|Multiple players were knocked out on the|same turn, so you came in 3rd place.|<auto_bw=5000><close>"
     },
     "53": {
         "<speed=0>|今回は　同じターンに|全滅したプレイヤーが　複数いたので|あなたは　４位となりました。|<auto_bw=5000><close>": ""
