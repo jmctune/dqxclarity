@@ -18,10 +18,10 @@
         "<speed=0>|<%sL_PENCIL_NAME>は　ラブチョコを　使っても|これ以上　テンションがあがりません。": "<speed=0>|<%sL_PENCIL_NAME> is already at max|Tension, so the Love Chocolate won't increase|it any higher."
     },
     "7": {
-        "<speed=0>|ＨＰが　残っている　バトエンに|せかいじゅの葉を　使っても|効果がありません。": ""
+        "<speed=0>|ＨＰが　残っている　バトエンに|せかいじゅの葉を　使っても|効果がありません。": "<speed=0>|Using a Yggdrasil Leaf on a Batoen with|HP remaining will have no effect."
     },
     "8": {
-        "<speed=0>|<%sL_PENCIL_NAME>は　ＨＰが最大で|状態異常にも　かかっていないので|つきのめぐみを　使っても　効果がありません。": ""
+        "<speed=0>|<%sL_PENCIL_NAME>は　ＨＰが最大で|状態異常にも　かかっていないので|つきのめぐみを　使っても　効果がありません。": "<speed=0>|<%sL_PENCIL_NAME> is at full HP and|isn't affected by any bad statues, so the|Lunaria will have no effect."
     },
     "9": {
         "<speed=0>|行動を決定しました。|他のプレイヤー全員が　行動を決定するまで|お待ちください。": ""
