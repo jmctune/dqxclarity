@@ -180,10 +180,10 @@
         "<speed=0>|デッキの編成が　完了しました。|全員のデッキ編成が終わるのを|お待ちください。": "<speed=0>|Deck setup is complete. Please wait for|everyone else to finish."
     },
     "61": {
-        "<speed=0>|この　えんぴつは　対戦相手が封印したため|選ぶことができません。|別の　えんぴつを　選んでください。": ""
+        "<speed=0>|この　えんぴつは　対戦相手が封印したため|選ぶことができません。|別の　えんぴつを　選んでください。": "<speed=0>|This pencil cannot be used due to another|player choosing to seal it. Please select|a different pencil."
     },
     "62": {
-        "<speed=0>|制限時間内に　封印する　えんぴつを|選びませんでした。": ""
+        "<speed=0>|制限時間内に　封印する　えんぴつを|選びませんでした。": "<speed=0>|Ran out of time to choose a pencil to seal."
     },
     "63": {
         "<speed=0>|相手に使われたくない　えんぴつを|封印することで　有利に進めることができます。|封印したい　えんぴつを　１本選んでください。": ""
