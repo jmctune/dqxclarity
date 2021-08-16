@@ -189,7 +189,7 @@
         "<speed=0>|相手に使われたくない　えんぴつを|封印することで　有利に進めることができます。|封印したい　えんぴつを　１本選んでください。": "<speed=0>|You can take advantage by selecting a|pencil you do not want your opponent using.|Please select a pencil to seal."
     },
     "64": {
-        "<speed=0>|相手の選択した　えんぴつが　封印されました。|残りの　えんぴつから　３本選んで|デッキを編成してください。": ""
+        "<speed=0>|相手の選択した　えんぴつが　封印されました。|残りの　えんぴつから　３本選んで|デッキを編成してください。": "<speed=0>|The other players have chosen pencils to|seal. Please make a deck of 3 pencils from|the remaining pencils."
     },
     "65": {
         "<speed=0>|封印すると　自分以外の対戦相手に|この　えんぴつを　使えなくできます。|これを封印しても　よろしいですか？|<yesno><break>": ""
