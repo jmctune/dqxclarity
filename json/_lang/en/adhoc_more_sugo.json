@@ -6,22 +6,22 @@
         "<%sCAS_gambler>は|教会のマスに　止まった！": "<%sCAS_gambler> stopped on a|Church Space!"
     },
     "3": {
-        "モンスターが　あらわれた！": ""
+        "モンスターが　あらわれた！": "A monster draws near!"
     },
     "4": {
-        "ボスモンスターが　あらわれた！": ""
+        "ボスモンスターが　あらわれた！": "The boss monster draws near!"
     },
     "5": {
-        "<%sCAS_gambler>は|サイコロプラス１のマスに　止まった！": ""
+        "<%sCAS_gambler>は|サイコロプラス１のマスに　止まった！": "<%sCAS_gambler> landed on a|Dice +1 Space!"
     },
     "6": {
-        "プラス１マスの　マスに止まった！|<br>|１マス分　前に移動してください。": ""
+        "プラス１マスの　マスに止まった！|<br>|１マス分　前に移動してください。": "Landed on a Forward 1 Space!|<br>|Please move forward one space."
     },
     "7": {
         "clarity_nt_char_7": "clarity_nt_char_7"
     },
     "8": {
-        "プラス２マスの　マスに止まった！|<br>|２マス分　前に移動してください。": ""
+        "プラス２マスの　マスに止まった！|<br>|２マス分　前に移動してください。": "Landed on a Forward 2 Space!|<br>|Please move forward two spaces."
     },
     "9": {
         "clarity_nt_char_9": "clarity_nt_char_9"
