@@ -198,7 +198,7 @@
         "<speed=0>|大会スコアを　<%nADD_GP_POINT>Ｐ　手に入れた！|合計で　<%nGP_POINT>Ｐになった！": "<speed=0>|Received a tournament score of <%dADD_GP_POINT> P!|Total score is now <%dGP_POINT>!"
     },
     "67": {
-        "<speed=0>|大会ランクが　<%sAFTER_CLASS>ランクにアップした！|次のランクまで　<%nNEXT_GP_POINT>Ｐ。": ""
+        "<speed=0>|大会ランクが　<%sAFTER_CLASS>ランクにアップした！|次のランクまで　<%nNEXT_GP_POINT>Ｐ。": "<speed=0>|Your tournament rank is now <%sAFTER_CLASS>!|Next rank in <%nNEXT_GP_POINT> points."
     },
     "68": {
         "<speed=0>|<%sL_PENCIL_NAME1>・<%sL_PENCIL_NAME2>・|<%sL_PENCIL_NAME3>の３本を|デッキとして　選びました！": ""
