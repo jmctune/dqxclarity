@@ -21876,7 +21876,7 @@
         "clarity_nt_char_2433": "clarity_nt_char_2433"
     },
     "7293": {
-        "周囲の仲間の|ＭＰを最大３０|徐々に回復": ""
+        "周囲の仲間の|ＭＰを最大３０|徐々に回復": "Nearby allies|recover up to|30 MP."
     },
     "7294": {
         "clarity_nt_char_2434": "clarity_nt_char_2434"
@@ -22407,13 +22407,13 @@
         "敵１体に闇の|大ダメージを与え|雷耐性を下げる": ""
     },
     "7470": {
-        "周囲の仲間の|ＭＰを最大５０|徐々に回復": ""
+        "周囲の仲間の|ＭＰを最大５０|徐々に回復": "Nearby allies|recover up to|50 MP."
     },
     "7471": {
         "clarity_nt_char_2494": "clarity_nt_char_2494"
     },
     "7472": {
-        "周囲の仲間の|ＭＰを最大６０|徐々に回復": ""
+        "周囲の仲間の|ＭＰを最大６０|徐々に回復": "Nearby allies|recover up to|60 MP."
     },
     "7473": {
         "clarity_nt_char_2495": "clarity_nt_char_2495"
@@ -35127,7 +35127,7 @@
         "まもるつよさだけ|攻撃力が上昇する|パラディン専用": ""
     },
     "11710": {
-        "周囲のＨＰを|徐々に回復する|旅芸人専用特技": ""
+        "周囲のＨＰを|徐々に回復する|旅芸人専用特技": "Nearby allies|will gradually|restore HP."
     },
     "11711": {
         "clarity_nt_char_3899": "clarity_nt_char_3899"
