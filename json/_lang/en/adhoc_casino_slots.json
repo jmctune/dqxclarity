@@ -54,10 +54,10 @@
         "同じテーブルにいる　<%sCAS_gambler>さんが|カジノレイドに　突入しました。|<br>|この　カジノレイドに　参加しますか？|<yesno_nc><close>": "<%sCAS_gambler> at the same table has|joined the casino raid.|<br>|Proceed with the casino raid?|<yesno_nc><close>"
     },
     "19": {
-        "コイン<%dM_coin>枚　かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": ""
+        "コイン<%dM_coin>枚　かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "Received <%dM_coin> coins!|<%dCAS_damage> damage to <%sCAS_monster>!<auto_bw=3000><close>"
     },
     "20": {
-        "カジノレイド中です。|この　カジノレイドに　参加しますか？|<yesno_nc><close>": ""
+        "カジノレイド中です。|この　カジノレイドに　参加しますか？|<yesno_nc><close>": "A casino raid is in progress.|Join the casino raid?|<yesno_nc><close>"
     },
     "21": {
         "<%sCAS_monster>は　にげだした！<auto_bw=2500><close>": ""
