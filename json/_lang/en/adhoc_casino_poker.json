@@ -126,7 +126,7 @@
         "テンションアップ効果が　発生しています。": ""
     },
     "43": {
-        "ほんとうに　終了してよろしいですか？<yesno_nc 2><close>": ""
+        "ほんとうに　終了してよろしいですか？<yesno_nc 2><close>": "Are you sure you want to quit?<yesno_nc 2><close>"
     },
     "44": {
         "テンションアップこうげき！<auto_br=2500>|コイン<%dM_coin>枚　かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": ""
@@ -150,7 +150,7 @@
         "テンションアップ効果が　発生しています。<auto_bw=2500><close>": ""
     },
     "51": {
-        "ほんとうに　終了してよろしいですか？<yesno_nc 2><close>": ""
+        "ほんとうに　終了してよろしいですか？<yesno_nc 2><close>": "Are you sure you want to quit?<yesno_nc 2><close>"
     },
     "52": {
         "<speed=0><cursor>で　かけきんを決めて|<convenience>を押すと　カードが配られます。<auto_bw=4000><close>": ""
