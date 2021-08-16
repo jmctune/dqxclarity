@@ -24,13 +24,13 @@
         "<speed=0>|<%sL_PENCIL_NAME>は　ＨＰが最大で|状態異常にも　かかっていないので|つきのめぐみを　使っても　効果がありません。": "<speed=0>|<%sL_PENCIL_NAME> is at full HP and|isn't affected by any bad statues, so the|Lunaria will have no effect."
     },
     "9": {
-        "<speed=0>|行動を決定しました。|他のプレイヤー全員が　行動を決定するまで|お待ちください。": ""
+        "<speed=0>|行動を決定しました。|他のプレイヤー全員が　行動を決定するまで|お待ちください。": "<speed=0>|Action has been selected. Please wait for|other players to select their actions."
     },
     "10": {
-        "<speed=0>|今回のターンの行動は|「たたかう」|でよろしいですか？|<yesno><break>": ""
+        "<speed=0>|今回のターンの行動は|「たたかう」|でよろしいですか？|<yesno><break>": "<speed=0>|Use the \"Fight\" action for this turn?|<yesno><break>"
     },
     "11": {
-        "<speed=0>|使えるどうぐは　もう残っていません。": ""
+        "<speed=0>|使えるどうぐは　もう残っていません。": "<speed=0>|There are no items left to use."
     },
     "12": {
         "バトエンを終了します。|（ここで褒めたり、TIPSを表示したりします）": ""
