@@ -204,10 +204,10 @@
         "<speed=0>|<%sL_PENCIL_NAME1>・<%sL_PENCIL_NAME2>・|<%sL_PENCIL_NAME3>の３本を|デッキとして　選びました！": "<speed=0>|<%sL_PENCIL_NAME1>, <%sL_PENCIL_NAME2>,|and <%sL_PENCIL_NAME3> selected for|your deck!"
     },
     "69": {
-        "<speed=0>|<%sL_PENCIL_NAME>の　えんぴつを|相手が使えないように　封印しました！": ""
+        "<speed=0>|<%sL_PENCIL_NAME>の　えんぴつを|相手が使えないように　封印しました！": "<speed=0>|Sealed <%sL_PENCIL_NAME>!|Other players can no longer use it!"
     },
     "70": {
-        "<speed=0>|バトエンポイントを　<%nADD_BATEN_POINT>Ｐ　手に入れた！<se_nots System 7>": ""
+        "<speed=0>|バトエンポイントを　<%nADD_BATEN_POINT>Ｐ　手に入れた！<se_nots System 7>": "<speed=0>|Received <%dADD_BATEN_POINT> Batoen Points!<se_nots System 7>"
     },
     "71": {
         "<speed=0>|大会スコアを　<%nADD_GP_POINT>Ｐ　失った……。|合計で　<%nGP_POINT>Ｐになった！": ""
