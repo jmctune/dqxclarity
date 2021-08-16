@@ -126,10 +126,10 @@
         "<speed=0>|今回は　説明のための|バトエンファイトなので|「あきらめる」は　選択できません。": "<speed=0>|Batoen is currently being explained, so|\"Give Up\" cannot be chosen right now."
     },
     "43": {
-        "<speed=0>|バトエンファイトに　負けてしまった……。|<auto_br=5000>|相手の使ってくる　バトエンを分析して|有利に戦える　バトエンを|自分のデッキに　加えてみよう！|<auto_bw=5000><close>": ""
+        "<speed=0>|バトエンファイトに　負けてしまった……。|<auto_br=5000>|相手の使ってくる　バトエンを分析して|有利に戦える　バトエンを|自分のデッキに　加えてみよう！|<auto_bw=5000><close>": "<speed=0>|Lost the Batoen fight...|<auto_br=5000>|Make sure to analyze your opponent's Batoen|and change your Batoen to take advantage|of their strategy!|<auto_bw=5000><close>"
     },
     "44": {
-        "<speed=0>|バトエンファイトに　勝った！|<auto_bw=5000><close>": ""
+        "<speed=0>|バトエンファイトに　勝った！|<auto_bw=5000><close>": "<speed=0>|Won the Batoen Fight!|<auto_bw=5000><close>"
     },
     "45": {
         "<speed=0>|今回のバトエンファイトで|バトエンポイントを　<%nL_BATOEN_POINT>Ｐ　獲得しました！|<auto_bw=5000><close>": ""
