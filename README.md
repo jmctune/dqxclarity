@@ -104,6 +104,7 @@ Requirements for building:
 
 Building:
 - Create a virtual environment for yourself inside the `dqxclarity` folder
+  - `python3 -m venv venv`
 - Run `activate.ps1`
 - Install dependencies with `pip install -r requirements.txt`
 - Run `make build`

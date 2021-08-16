@@ -12048,10 +12048,10 @@
         "戦車のタロット": "The Tank"
     },
     "4017": {
-        "正義のタロット": ""
+        "正義のタロット": "The Justice"
     },
     "4018": {
-        "死神のタロット": ""
+        "死神のタロット": "The Reaper"
     },
     "4019": {
         "げんま召喚": "Summon Spirit"
@@ -12063,19 +12063,19 @@
         "clarity_nt_char_1352": "clarity_nt_char_1352"
     },
     "4022": {
-        "罪人のタロット": ""
+        "罪人のタロット": "The Sinner"
     },
     "4023": {
-        "力のタロット": ""
+        "力のタロット": "The Strength"
     },
     "4024": {
         "clarity_nt_char_1353": "clarity_nt_char_1353"
     },
     "4025": {
-        "恋人のタロット": ""
+        "恋人のタロット": "The Lover"
     },
     "4026": {
-        "悪魔のタロット": ""
+        "悪魔のタロット": "The Demon"
     },
     "4027": {
         "魔術師のタロット": "The Magician"
@@ -12084,52 +12084,52 @@
         "clarity_nt_char_1354": "clarity_nt_char_1354"
     },
     "4029": {
-        "節制のタロット": ""
+        "節制のタロット": "The Temperance"
     },
     "4030": {
-        "隠者のタロット": ""
+        "隠者のタロット": "The Hermit"
     },
     "4031": {
-        "教皇のタロット": ""
+        "教皇のタロット": "The Pope"
     },
     "4032": {
-        "世界のタロット": ""
+        "世界のタロット": "The World"
     },
     "4033": {
-        "皇帝のタロット": "Emperor's Tarot"
+        "皇帝のタロット": "The Emperor"
     },
     "4034": {
-        "太陽のタロット": ""
+        "太陽のタロット": "The Sun"
     },
     "4035": {
-        "審判のタロット": ""
+        "審判のタロット": "The Judgement"
     },
     "4036": {
-        "女教皇のタロット": ""
+        "女教皇のタロット": "The Priestess"
     },
     "4037": {
         "clarity_nt_char_1355": "clarity_nt_char_1355"
     },
     "4038": {
-        "運命のタロット": ""
+        "運命のタロット": "The Destiny"
     },
     "4039": {
-        "月のタロット": ""
+        "月のタロット": "The Moon"
     },
     "4040": {
         "clarity_nt_char_1356": "clarity_nt_char_1356"
     },
     "4041": {
-        "星のタロット": "The Star Tarot"
+        "星のタロット": "The Star"
     },
     "4042": {
         "clarity_nt_char_1357": "clarity_nt_char_1357"
     },
     "4043": {
-        "愚者のタロット": ""
+        "愚者のタロット": "The Fool"
     },
     "4044": {
-        "女帝のタロット": ""
+        "女帝のタロット": "The Empress"
     },
     "4045": {
         "バンド仲間呼び": ""
@@ -19749,16 +19749,16 @@
         "clarity_nt_char_2198": "clarity_nt_char_2198"
     },
     "6584": {
-        "周囲を巻き込む|はげしい雷が|敵に降りそそぐ": ""
+        "周囲を巻き込む|はげしい雷が|敵に降りそそぐ": "Thunder violently|engulfs nearby|enemies."
     },
     "6585": {
         "clarity_nt_char_2199": "clarity_nt_char_2199"
     },
     "6586": {
-        "周囲を巻き込む|すさまじい雷が|敵に降りそそぐ": ""
+        "周囲を巻き込む|すさまじい雷が|敵に降りそそぐ": "Huge thunder will|strike nearby|enemies."
     },
     "6587": {
-        "周囲を巻き込む|想像を絶する雷が|敵に降りそそぐ": ""
+        "周囲を巻き込む|想像を絶する雷が|敵に降りそそぐ": "Powerful thunder|strikes down on|nearby enemies."
     },
     "6588": {
         "clarity_nt_char_2200": "clarity_nt_char_2200"
@@ -19788,10 +19788,10 @@
         "呪いの言葉が|敵１体を|死へといざなう": "A spell with a|small chance of|instant death."
     },
     "6597": {
-        "周囲を巻き込む|呪いの言葉が|敵を死へいざなう": ""
+        "周囲を巻き込む|呪いの言葉が|敵を死へいざなう": "Cursed words that|leave nearby|enemies to die."
     },
     "6598": {
-        "周囲を巻き込む|強い呪いの言葉が|敵を死へいざなう": ""
+        "周囲を巻き込む|強い呪いの言葉が|敵を死へいざなう": "A stronger curse|leaves nearby|enemies to die."
     },
     "6599": {
         "ＭＰをすべて使い|敵を打ち滅ぼす|最強の光の呪文": "Uses all MP in a|giant blast of|light."
@@ -21588,7 +21588,7 @@
         "clarity_nt_char_2405": "clarity_nt_char_2405"
     },
     "7197": {
-        "周囲を巻き込む|りゅうせいが|敵に降りそそぐ": ""
+        "周囲を巻き込む|りゅうせいが|敵に降りそそぐ": "Rains down|meteors on|nearby enemies."
     },
     "7198": {
         "clarity_nt_char_2406": "clarity_nt_char_2406"
@@ -21855,73 +21855,73 @@
         "clarity_nt_char_2431": "clarity_nt_char_2431"
     },
     "7286": {
-        "悪い効果の数だけ|威力があがる|闇属性攻撃": ""
+        "悪い効果の数だけ|威力があがる|闇属性攻撃": "A dark attack|better with|more bad effects."
     },
     "7287": {
-        "自分に良い効果が|ついているほど|威力が上がる攻撃": ""
+        "自分に良い効果が|ついているほど|威力が上がる攻撃": "Deals more damage|if you have|more buffs."
     },
     "7288": {
-        "周囲を巻き込む|裁きのいなずま|闇耐性を下げる": ""
+        "周囲を巻き込む|裁きのいなずま|闇耐性を下げる": "An area thunder|crack that lowers|dark resistance."
     },
     "7289": {
-        "怒り状態の敵に|威力を発揮する|光の矢を放つ": ""
+        "怒り状態の敵に|威力を発揮する|光の矢を放つ": "A light arrow|strong versus|angered enemies."
     },
     "7290": {
         "clarity_nt_char_2432": "clarity_nt_char_2432"
     },
     "7291": {
-        "近くにいる|仲間の攻撃力を|１段階上げる": ""
+        "近くにいる|仲間の攻撃力を|１段階上げる": "Nearby allies'|attack up by|1 stage."
     },
     "7292": {
         "clarity_nt_char_2433": "clarity_nt_char_2433"
     },
     "7293": {
-        "周囲の仲間の|ＭＰを最大３０|徐々に回復": ""
+        "周囲の仲間の|ＭＰを最大３０|徐々に回復": "Nearby allies|recover up to|30 MP."
     },
     "7294": {
         "clarity_nt_char_2434": "clarity_nt_char_2434"
     },
     "7295": {
-        "闇の光線で|敵１体を攻撃|雷耐性を下げる": ""
+        "闇の光線で|敵１体を攻撃|雷耐性を下げる": "A dark ray that|lowers thunder|resistance."
     },
     "7296": {
         "clarity_nt_char_2435": "clarity_nt_char_2435"
     },
     "7297": {
-        "仲間ひとりの|テンション上昇時|たまに自分も上昇": ""
+        "仲間ひとりの|テンション上昇時|たまに自分も上昇": "If ally's tension|rises, yours|may as well."
     },
     "7298": {
         "clarity_nt_char_2436": "clarity_nt_char_2436"
     },
     "7299": {
-        "敵を眠りに誘う|魔法陣が|少しの間出現": ""
+        "敵を眠りに誘う|魔法陣が|少しの間出現": "A magic circle|puts to sleep for|a short while."
     },
     "7300": {
         "自分に|スペルガード|効果をかける": "Apply a spell|guard effect|to yourself."
     },
     "7301": {
-        "仲間ひとりの|チャージ時間を|５秒短縮": ""
+        "仲間ひとりの|チャージ時間を|５秒短縮": "Lowers one ally's|charge time by|5 seconds."
     },
     "7302": {
         "範囲内にいる|仲間のＨＰを|２５～回復する": "Restore 25 HP|to nearby allies."
     },
     "7303": {
-        "仲間ひとりの|悪い効果を消し|ＨＰを２５～回復": ""
+        "仲間ひとりの|悪い効果を消し|ＨＰを２５～回復": "Cure bad effects|and restore 25|HP of one ally."
     },
     "7304": {
-        "周囲の仲間の|防御力を上げ|ＨＰを徐々に回復": ""
+        "周囲の仲間の|防御力を上げ|ＨＰを徐々に回復": "Nearby allies'|defense up and|heal gradual HP."
     },
     "7305": {
         "clarity_nt_char_2437": "clarity_nt_char_2437"
     },
     "7306": {
-        "範囲内の仲間を|生き返らせるが|失敗する時もある": ""
+        "範囲内の仲間を|生き返らせるが|失敗する時もある": "Chance to revive|all nearby allies|in range."
     },
     "7307": {
         "clarity_nt_char_2438": "clarity_nt_char_2438"
     },
     "7308": {
-        "敵を幻惑させる|魔法陣が|少しの間出現": ""
+        "敵を幻惑させる|魔法陣が|少しの間出現": "A magic circle|that dazzles for|a short while."
     },
     "7309": {
         "近くにいる|範囲の敵を|魅了する": ""
@@ -21936,7 +21936,7 @@
         "clarity_nt_char_2440": "clarity_nt_char_2440"
     },
     "7313": {
-        "敵１体の|テンション上昇時|たまに自分も上昇": ""
+        "敵１体の|テンション上昇時|たまに自分も上昇": "If the enemy's|tension rises,|yours may too."
     },
     "7314": {
         "clarity_nt_char_2441": "clarity_nt_char_2441"
@@ -21960,7 +21960,7 @@
         "clarity_nt_char_2443": "clarity_nt_char_2443"
     },
     "7321": {
-        "周囲の仲間の|行動間隔を短くし|ＨＰを徐々に回復": ""
+        "周囲の仲間の|行動間隔を短くし|ＨＰを徐々に回復": "Allies' action|wait down and|heal gradual HP."
     },
     "7322": {
         "clarity_nt_char_2444": "clarity_nt_char_2444"
@@ -22299,16 +22299,16 @@
         "clarity_nt_char_2481": "clarity_nt_char_2481"
     },
     "7434": {
-        "大いなる闇が|周囲を巻き込み|呪いもかける": ""
+        "大いなる闇が|周囲を巻き込み|呪いもかける": "A huge dark area|attack that|inflicts curse."
     },
     "7435": {
-        "周囲を巻き込む|裁きの大雷|闇耐性を下げる": ""
+        "周囲を巻き込む|裁きの大雷|闇耐性を下げる": "A great thunder|blow that lowers|dark resistance."
     },
     "7436": {
-        "悪い効果の数だけ|猛威を振るう|闇属性攻撃": ""
+        "悪い効果の数だけ|猛威を振るう|闇属性攻撃": "A dark attack|better with|more bad effects."
     },
     "7437": {
-        "近くにいる|仲間の攻撃力を|２段階上げる": ""
+        "近くにいる|仲間の攻撃力を|２段階上げる": "Nearby allies'|attack up by|2 stages."
     },
     "7438": {
         "clarity_nt_char_2482": "clarity_nt_char_2482"
@@ -22332,13 +22332,13 @@
         "clarity_nt_char_2485": "clarity_nt_char_2485"
     },
     "7445": {
-        "仲間ひとりの|チャージ時間を|１０秒短縮": ""
+        "仲間ひとりの|チャージ時間を|１０秒短縮": "Lowers one ally's|charge time by|10 seconds."
     },
     "7446": {
         "clarity_nt_char_2486": "clarity_nt_char_2486"
     },
     "7447": {
-        "仲間ひとりの|チャージ時間を|１５秒短縮": ""
+        "仲間ひとりの|チャージ時間を|１５秒短縮": "Lowers one ally's|charge time by|15 seconds."
     },
     "7448": {
         "clarity_nt_char_2487": "clarity_nt_char_2487"
@@ -22356,7 +22356,7 @@
         "clarity_nt_char_2489": "clarity_nt_char_2489"
     },
     "7453": {
-        "闇の爆発が|周囲を巻き込み|呪いもかける": ""
+        "闇の爆発が|周囲を巻き込み|呪いもかける": "A dark area|explosion that|inflicts curse."
     },
     "7454": {
         "clarity_nt_char_2490": "clarity_nt_char_2490"
@@ -22395,10 +22395,10 @@
         "clarity_nt_char_2493": "clarity_nt_char_2493"
     },
     "7466": {
-        "周囲を巻き込む|裁きのいかずち|闇耐性を下げる": ""
+        "周囲を巻き込む|裁きのいかずち|闇耐性を下げる": "Judgement thunder|that lowers|dark resistance."
     },
     "7467": {
-        "悪い効果の数だけ|威力を振るう|闇属性攻撃": ""
+        "悪い効果の数だけ|威力を振るう|闇属性攻撃": "A dark attack|better with|more bad effects."
     },
     "7468": {
         "敵１体を襲う|闇の一撃|雷耐性を下げる": ""
@@ -22407,25 +22407,25 @@
         "敵１体に闇の|大ダメージを与え|雷耐性を下げる": ""
     },
     "7470": {
-        "周囲の仲間の|ＭＰを最大５０|徐々に回復": ""
+        "周囲の仲間の|ＭＰを最大５０|徐々に回復": "Nearby allies|recover up to|50 MP."
     },
     "7471": {
         "clarity_nt_char_2494": "clarity_nt_char_2494"
     },
     "7472": {
-        "周囲の仲間の|ＭＰを最大６０|徐々に回復": ""
+        "周囲の仲間の|ＭＰを最大６０|徐々に回復": "Nearby allies|recover up to|60 MP."
     },
     "7473": {
         "clarity_nt_char_2495": "clarity_nt_char_2495"
     },
     "7474": {
-        "仲間ひとりの|テンション上昇時|自分も上昇する": ""
+        "仲間ひとりの|テンション上昇時|自分も上昇する": "If ally's tension|rises, yours|will rise too."
     },
     "7475": {
-        "敵１体の|テンション上昇時|自分も上昇する": ""
+        "敵１体の|テンション上昇時|自分も上昇する": "If the enemy's|tension rises,|yours will too."
     },
     "7476": {
-        "仲間ひとりの|悪い効果を消し|ＨＰを８０～回復": ""
+        "仲間ひとりの|悪い効果を消し|ＨＰを８０～回復": "Cure bad effects|and restore 80|HP of one ally."
     },
     "7477": {
         "仲間ひとりの|悪い効果を消し|ＨＰ１６４～回復": "Cure bad effects|and restore 164|HP of one ally."
@@ -22437,22 +22437,22 @@
         "clarity_nt_char_2496": "clarity_nt_char_2496"
     },
     "7480": {
-        "敵を幻惑させる|魔法陣が出現": ""
+        "敵を幻惑させる|魔法陣が出現": "A magic circle|that dazzles|enemies."
     },
     "7481": {
         "clarity_nt_char_2497": "clarity_nt_char_2497"
     },
     "7482": {
-        "敵を幻惑させる|魔法陣が|普段より長く出現": ""
+        "敵を幻惑させる|魔法陣が|普段より長く出現": "A magic circle|that dazzles for|much longer."
     },
     "7483": {
-        "敵を眠りに誘う|魔法陣が出現": ""
+        "敵を眠りに誘う|魔法陣が出現": "A magic circle|that causes|sleep."
     },
     "7484": {
         "clarity_nt_char_2498": "clarity_nt_char_2498"
     },
     "7485": {
-        "敵を眠りに誘う|魔法陣が|普段より長く出現": ""
+        "敵を眠りに誘う|魔法陣が|普段より長く出現": "A magic circle|puts to sleep for|much longer."
     },
     "7486": {
         "上にいる敵への|ダメージが増える|魔法陣が出現": ""
@@ -22536,7 +22536,7 @@
         "clarity_nt_char_2506": "clarity_nt_char_2506"
     },
     "7513": {
-        "ＳＳＳのタロット|を手札に移動する|占い師専用特技": ""
+        "ＳＳＳのタロット|を手札に移動する|占い師専用特技": "Places an SSS|Tarot into your|hand."
     },
     "7514": {
         "周囲の仲間の|テンションアップ": ""
@@ -22701,7 +22701,7 @@
         "clarity_nt_char_2524": "clarity_nt_char_2524"
     },
     "7568": {
-        "周囲を巻き込む|地獄の炎で攻撃|天地雷鳴士専用": ""
+        "周囲を巻き込む|地獄の炎で攻撃|天地雷鳴士専用": "Attack nearby|enemies with the|flames of hell."
     },
     "7569": {
         "チカラを振り絞り|攻撃力と素早さ|最大ＨＰがあがる": ""
@@ -22770,7 +22770,7 @@
         "clarity_nt_char_2530": "clarity_nt_char_2530"
     },
     "7591": {
-        "周囲を巻き込む|炎の爆発で|敵を焼き払う": ""
+        "周囲を巻き込む|炎の爆発で|敵を焼き払う": "Burns nearby|enemies with a|fiery explosion."
     },
     "7592": {
         "clarity_nt_char_2531": "clarity_nt_char_2531"
@@ -23550,7 +23550,7 @@
         "clarity_nt_char_2618": "clarity_nt_char_2618"
     },
     "7851": {
-        "周囲を巻き込む|猛烈な旋風で攻撃|天地雷鳴士専用": ""
+        "周囲を巻き込む|猛烈な旋風で攻撃|天地雷鳴士専用": "Attack with a|fierce whirlwind|to nearby foes."
     },
     "7852": {
         "clarity_nt_char_2619": "clarity_nt_char_2619"
@@ -23844,7 +23844,7 @@
         "友情の光を 300Ｐ 手に入れた！": ""
     },
     "7949": {
-        "ラッキー！ <%sB_TARGET>は 世界のタロットを引いた！": ""
+        "ラッキー！ <%sB_TARGET>は 世界のタロットを引いた！": "Lucky! <%sB_TARGET> drew The World!"
     },
     "7950": {
         "clarity_nt_char_2658": "clarity_nt_char_2658"
@@ -26295,7 +26295,7 @@
         "clarity_nt_char_2922": "clarity_nt_char_2922"
     },
     "8766": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを ねむらせた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを ねむらせた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e fell asleep!"
     },
     "8767": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを こんらんさせた！": ""
@@ -30231,7 +30231,7 @@
         "さかなを取ると|一定時間ダッシュ！": "Gain a speed boost|from fish!"
     },
     "10078": {
-        "一度だけ|海に落ちても復活！": ""
+        "一度だけ|海に落ちても復活！": "Revive once when|falling in the sea!"
     },
     "10079": {
         "clarity_nt_char_3350": "clarity_nt_char_3350"
@@ -30789,7 +30789,7 @@
         "迷宮の主が|極箱2個ドロップ！": ""
     },
     "10264": {
-        "ねむらせた！": ""
+        "ねむらせた！": "Fell asleep!"
     },
     "10265": {
         "clarity_nt_char_3415": "clarity_nt_char_3415"
@@ -31371,7 +31371,7 @@
         "clarity_nt_char_3476": "clarity_nt_char_3476"
     },
     "10458": {
-        "怒りがしずまった": "Rage Subsided"
+        "怒りがしずまった": "Rage subsided."
     },
     "10459": {
         "clarity_nt_char_3477": "clarity_nt_char_3477"
@@ -33258,7 +33258,7 @@
         "clarity_nt_char_3689": "clarity_nt_char_3689"
     },
     "11087": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを さらに 深く ねむらせた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを さらに 深く ねむらせた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e fell into deeper sleep!"
     },
     "11088": {
         "clarity_nt_char_3690": "clarity_nt_char_3690"
@@ -33741,7 +33741,7 @@
         "さらに|シビれさせた！": ""
     },
     "11248": {
-        "さらに深く|ねむらせた！": ""
+        "さらに深く|ねむらせた！": "Fell into|deeper sleep!"
     },
     "11249": {
         "clarity_nt_char_3742": "clarity_nt_char_3742"
@@ -34752,7 +34752,7 @@
         "全手札にオーラが|宿りタロットで|ターン消費しない": "All Tarots will|have aura and not|consume turns."
     },
     "11585": {
-        "タロットメダルの|破片がドロップ|占い師専用特技": ""
+        "タロットメダルの|破片がドロップ|占い師専用特技": "Tarot Fragments|can now drop.|Lasts 30 min."
     },
     "11586": {
         "clarity_nt_char_3855": "clarity_nt_char_3855"
@@ -34761,7 +34761,7 @@
         "エンゼルスライム|を手札に移動する|占い師専用特技": "Places an Angel|Slime card into|your hand."
     },
     "11588": {
-        "小さな闇の爆発が|周囲を巻き込み|呪いもかける": ""
+        "小さな闇の爆発が|周囲を巻き込み|呪いもかける": "A small dark area|explosion that|inflicts curse."
     },
     "11589": {
         "周囲の敵を|こおりつかせ|属性耐性も下げる": ""
@@ -34857,7 +34857,7 @@
         "怒り状態の敵に|威力を発揮する|光の必中撃": ""
     },
     "11620": {
-        "自分に良い効果が|ついているほど|猛威を振るう攻撃": ""
+        "自分に良い効果が|ついているほど|猛威を振るう攻撃": "Deals more damage|if you have|more buffs."
     },
     "11621": {
         "敵の心を奪う|魅惑のいちげき": ""
@@ -34866,7 +34866,7 @@
         "clarity_nt_char_3866": "clarity_nt_char_3866"
     },
     "11623": {
-        "自分に良い効果が|ついているほど|威力を振るう攻撃": ""
+        "自分に良い効果が|ついているほど|威力を振るう攻撃": "Deals more damage|if you have|more buffs."
     },
     "11624": {
         "周囲のＨＰを|２００～回復する|旅芸人専用特技": ""
@@ -34968,7 +34968,7 @@
         "clarity_nt_char_3878": "clarity_nt_char_3878"
     },
     "11657": {
-        "周囲を巻き込む|いなずまを呼び|攻撃する": ""
+        "周囲を巻き込む|いなずまを呼び|攻撃する": "Calls thunder to|attack nearby|enemies."
     },
     "11658": {
         "clarity_nt_char_3879": "clarity_nt_char_3879"
@@ -35127,7 +35127,7 @@
         "まもるつよさだけ|攻撃力が上昇する|パラディン専用": ""
     },
     "11710": {
-        "周囲のＨＰを|徐々に回復する|旅芸人専用特技": ""
+        "周囲のＨＰを|徐々に回復する|旅芸人専用特技": "Nearby allies|will gradually|restore HP."
     },
     "11711": {
         "clarity_nt_char_3899": "clarity_nt_char_3899"
@@ -35157,7 +35157,7 @@
         "闇のチカラで|範囲内の敵を攻撃|魔剣士専用特技": "A dark attack|that hits all|nearby enemies."
     },
     "11720": {
-        "周囲の仲間の|ダメージを軽減し|ＨＰを徐々に回復": ""
+        "周囲の仲間の|ダメージを軽減し|ＨＰを徐々に回復": "Allies' taken|damage down and|heal gradual HP."
     },
     "11721": {
         "clarity_nt_char_3901": "clarity_nt_char_3901"

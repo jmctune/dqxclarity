@@ -1644,7 +1644,7 @@
         "で": " "
     },
     "549": {
-        "自分をみる": ""
+        "自分をみる": "View Self"
     },
     "550": {
         "１位の人をみる": "See who's first"
@@ -1941,7 +1941,7 @@
         "なかまをさがす": "Find a Party"
     },
     "648": {
-        "自分をとうろくする": ""
+        "自分をとうろくする": "Register Self"
     },
     "649": {
         "なかまと別れる": "Remove Member"
@@ -6237,7 +6237,7 @@
         ".": ""
     },
     "2080": {
-        "覚えるレシピ": "Recipes To Learn"
+        "覚えるレシピ": "Learn"
     },
     "2081": {
         "clarity_nt_char_714": "clarity_nt_char_714"
@@ -8547,7 +8547,7 @@
         "カテゴリとサブカテゴリを選択してから|けってい　を押してください。": ""
     },
     "2850": {
-        "選択したカテゴリでは|一件も見つかりませんでした。": ""
+        "選択したカテゴリでは|一件も見つかりませんでした。": "Nothing was found in|the selected category."
     },
     "2851": {
         "件": " "
@@ -9222,7 +9222,7 @@
         "clarity_nt_char_1062": "clarity_nt_char_1062"
     },
     "3075": {
-        "作成Lv": "Craft Lv"
+        "作成Lv": "Crf Lv"
     },
     "3076": {
         "clarity_nt_char_1063": "clarity_nt_char_1063"
@@ -12834,7 +12834,7 @@
         "チーム集会所をけす": ""
     },
     "4279": {
-        "配信推奨<%nM_hall_no>": "Streaming <%nM_hall_no>"
+        "配信推奨<%nM_hall_no>": "Streaming <%dM_hall_no>"
     },
     "4280": {
         "部屋の明るさ": "Room Lights"
@@ -13011,7 +13011,7 @@
         "clarity_nt_char_1478": "clarity_nt_char_1478"
     },
     "4338": {
-        "小型": ""
+        "小型": "Small"
     },
     "4339": {
         "clarity_nt_char_1479": "clarity_nt_char_1479"
@@ -17682,7 +17682,7 @@
         "所持タロットカード": "Tarot Cards Owned"
     },
     "5895": {
-        "タロット合成": ""
+        "タロット合成": "Tarot Synthesis"
     },
     "5896": {
         "clarity_nt_char_2009": "clarity_nt_char_2009"
@@ -19902,13 +19902,13 @@
         "clarity_nt_char_2261": "clarity_nt_char_2261"
     },
     "6635": {
-        "モンスターの効果": ""
+        "モンスターの効果": "Monster Effect"
     },
     "6636": {
         "clarity_nt_char_2262": "clarity_nt_char_2262"
     },
     "6637": {
-        "使用時の効果": ""
+        "使用時の効果": "Use Effect"
     },
     "6638": {
         "clarity_nt_char_2263": "clarity_nt_char_2263"

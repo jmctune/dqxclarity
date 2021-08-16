@@ -315,7 +315,7 @@
         "予選参加証": "Qualifying Cert"
     },
     "106": {
-        "リュナンの手紙": "Runan's Letter"
+        "リュナンの手紙": "Lunan's Letter"
     },
     "107": {
         "ギャスモンハート": "Gasmon Heart"
@@ -1401,7 +1401,7 @@
         "clarity_nt_char_138": "clarity_nt_char_138"
     },
     "468": {
-        "弟からの手紙": "L.Brother's Letter"
+        "弟からの手紙": "Brother's Letter"
     },
     "469": {
         "clarity_nt_char_139": "clarity_nt_char_139"
@@ -3723,7 +3723,7 @@
         "clarity_nt_char_381": "clarity_nt_char_381"
     },
     "1242": {
-        "音楽祭のパンフレット": ""
+        "音楽祭のパンフレット": "Music Festival Pamphlet"
     },
     "1243": {
         "clarity_nt_char_382": "clarity_nt_char_382"
@@ -4011,13 +4011,13 @@
         "魔物化した死者を|正気に戻す|神秘的なロウソク": ""
     },
     "1338": {
-        "ぬいぐるみ屋の|無実を証明する|証拠の人形": ""
+        "ぬいぐるみ屋の|無実を証明する|証拠の人形": "Evidence of the|doll dealer's|innocence."
     },
     "1339": {
-        "ちまたで人気！|チョコレート色の|かわいい人形": ""
+        "ちまたで人気！|チョコレート色の|かわいい人形": "A popular doll|covered in|chocolate."
     },
     "1340": {
-        "魔物狩りの|優勝者を決める|魔物のツノ": ""
+        "魔物狩りの|優勝者を決める|魔物のツノ": "Monster Horn|that decides|the hunt winner."
     },
     "1341": {
         "あたたかな光を|放っている|不思議な石": ""
@@ -4983,10 +4983,10 @@
         "ハロウィン衣装を|いつでも無料で|借りられる券": ""
     },
     "1662": {
-        "昆虫の羽でできた|軽くしなやかな|仕切り板": ""
+        "昆虫の羽でできた|軽くしなやかな|仕切り板": "Light feathers|made from|insect wings."
     },
     "1663": {
-        "海風を織り込んだ|希少な絹を用いて|作られたふくろ": ""
+        "海風を織り込んだ|希少な絹を用いて|作られたふくろ": "A bag made of|rare silk with|sea breeze."
     },
     "1664": {
         "尽きることのない|強力な磁力を放つ|永久磁石": "Infinite magnet that|emits a powerful|magnetic force."
@@ -7683,7 +7683,7 @@
         "黒呪のつぼを探す|呪術のかかった|白い巻物": ""
     },
     "2562": {
-        "リンジャハル復興|音楽祭と書かれた|パンフレット": ""
+        "リンジャハル復興|音楽祭と書かれた|パンフレット": "Pamphlet about|the Linjahar|Music Festival."
     },
     "2563": {
         "clarity_nt_char_826": "clarity_nt_char_826"
@@ -11367,7 +11367,7 @@
         "<pc>は　ハッスルしっぷを|手に取って　ながめてみた。|<br>|見た目は　ふつうのしっぷと|あまり　変わらない。|<br>|……じっくり　見ていたら|強烈な　ハッカのにおいが|手に　しみついてしまった。": ""
     },
     "3790": {
-        "<pc>は　音楽祭のパンフレットを|手に取って　ながめてみた。|<br><center>|海洋都市リンジャハル復興音楽祭|リンジャハル大劇場で　開催予定！|<br><center>|ゲストには　あの大人気の|エテーネ王国の花の歌姫が！？|当日は　リンジャハル大劇場へゴー！！": ""
+        "<pc>は　音楽祭のパンフレットを|手に取って　ながめてみた。|<br><center>|海洋都市リンジャハル復興音楽祭|リンジャハル大劇場で　開催予定！|<br><center>|ゲストには　あの大人気の|エテーネ王国の花の歌姫が！？|当日は　リンジャハル大劇場へゴー！！": "<pc> picked up the Music Festival|Pamphlet and took a closer look.|<br><center>|Ocean City Linjahar Reconstruction|Music Festival!|Will be held at Linjahar Grand Theater!|<br><center>|The special guest will be a flower diva|from the... \nKingdom of Ethene?!|You don't want to miss this special day!"
     },
     "3791": {
         "<pc>は　レグルのペンダントを|手に取って　ながめてみた。|<br>|ペンダントのトップに　奇妙な形をした|ベリル石が　飾られている。": ""
