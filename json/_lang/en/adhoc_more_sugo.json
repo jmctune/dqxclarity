@@ -414,7 +414,7 @@
         "なんと　<%sCAS_gambler>たち全員に|ピオリムの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>たち全員は|移動するときに　サイコロを|１個多く　振れるようになった！": "<%sCAS_gambler> and co. gained an Acceleratle|effect!|<br>|Next turn, <%sCAS_gambler> and co. will roll|an additional dice!"
     },
     "139": {
-        "なんと　<%sCAS_gambler>たち全員に|ボミオスの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>たち全員は|移動するときに　サイコロの目が|必ず　１になってしまった。": ""
+        "なんと　<%sCAS_gambler>たち全員に|ボミオスの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>たち全員は|移動するときに　サイコロの目が|必ず　１になってしまった。": "<%sCAS_gambler> and co. gained a Deceleratle|effect!|<br>|Next turn, <%sCAS_gambler> and co. will|roll a 1."
     },
     "140": {
         "なんと　<%sCAS_gambler>たち全員に|超元気玉の効果が　発生した！|<br>|<%sCAS_gambler>たち全員は|次のバトルで　手に入る経験値が|２倍になった！": ""
