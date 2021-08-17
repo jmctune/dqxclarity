@@ -207,7 +207,7 @@
         "なんと　宝箱の中身は　パンドラボックスだった！": "The chest was actually a Pandora's Box!"
     },
     "70": {
-        "なんと　<%sCAS_gambler>に|ピオリムの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>は|移動するときに　サイコロを|１個多く　振れるようになった！": ""
+        "なんと　<%sCAS_gambler>に|ピオリムの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>は|移動するときに　サイコロを|１個多く　振れるようになった！": "<%sCAS_gambler> gained an Acceleratle effect!|<br>|Next turn, <%sCAS_gambler> will roll an|extra dice!"
     },
     "71": {
         "なんと　<%sCAS_gambler>に|ボミオスの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>は|移動するときに　サイコロの目が|必ず　１になってしまった。": ""
