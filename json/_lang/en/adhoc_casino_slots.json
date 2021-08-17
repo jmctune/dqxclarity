@@ -321,9 +321,9 @@
         "<%sCAS_monster>は　ダウンした！|ダウン中は　コイン入手量が２倍になります！": "<%sCAS_monster> is down!|Coins will be doubled while its down!"
     },
     "108": {
-        "コイン<%dM_coin>枚（内　ボーナス<%dM_coin_bonus>枚）かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": ""
+        "コイン<%dM_coin>枚（内　ボーナス<%dM_coin_bonus>枚）かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "Received <%dM_coin> (Including <%dM_coin_bonus> Bonus) Coins!||<%dCAS_damage> damage to <%sCAS_monster>!<auto_bw=3000><close>"
     },
     "109": {
-        "テンションアップこうげき！<auto_br=2500>|コイン<%dM_coin>枚（内　ボーナス<%dM_coin_bonus>枚）かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": ""
+        "テンションアップこうげき！<auto_br=2500>|コイン<%dM_coin>枚（内　ボーナス<%dM_coin_bonus>枚）かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "Tension Boost Attack!<auto_br=2500>|Received <%dM_coin> (Including <%dM_coin_bonus> Bonus) Coins!|<%dCAS_damage> damage to <%sCAS_monster>!<auto_bw=3000><close>"
     }
 }
