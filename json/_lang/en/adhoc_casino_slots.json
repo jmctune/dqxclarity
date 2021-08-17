@@ -306,7 +306,7 @@
         "<speed=0><cursor>で|かけきんを決めて　<convenience>でスタートします。<auto_bw=2500><close>": "<speed=0>Choose a bet with <cursor>.|Press <convenience> to start.<auto_bw=2500><close>"
     },
     "103": {
-        "<speed=0><cursor>で|かけきんを決めてから　スタートしてください。": ""
+        "<speed=0><cursor>で|かけきんを決めてから　スタートしてください。": "<speed=0>Use <cursor> to select a bet,|and then start."
     },
     "104": {
         "<speed=0><cursor>で|かけきんを決めて　<convenience>でスタートします。": "<speed=0>Choose a bet with <cursor>.|Press <convenience> to start."
