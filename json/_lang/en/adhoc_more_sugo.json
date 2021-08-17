@@ -168,13 +168,13 @@
         "<%sCAS_gambler>は|<%nM_coin>枚の　カジノコインを手に入れた！": "<%sCAS_gambler> received|<%dM_coin> Casino Coins!"
     },
     "57": {
-        "なんと　宝箱の中身は　ひとくいばこだった！": ""
+        "なんと　宝箱の中身は　ひとくいばこだった！": "The chest was actually a Cannibox!"
     },
     "58": {
-        "<%sCAS_gambler>は|せかいじゅのしずくを　見つけた！|<br>|<%sCAS_gambler>の|ＨＰとＭＰが　全回復した！": ""
+        "<%sCAS_gambler>は|せかいじゅのしずくを　見つけた！|<br>|<%sCAS_gambler>の|ＨＰとＭＰが　全回復した！": "<%sCAS_gambler> found a Yggdrasil Dew!|<br>|<%sCAS_gambler>'s HP and MP are fully restored!"
     },
     "59": {
-        "<%sCAS_gambler>は|経験値の秘薬を　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>は|１００の　経験値をかくとく！": ""
+        "<%sCAS_gambler>は|経験値の秘薬を　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>は|１００の　経験値をかくとく！": "<%sCAS_gambler> found an Experience|Elixir!|<br>|<%sCAS_gambler> received 100 EXP!"
     },
     "60": {
         "clarity_nt_char_60": "clarity_nt_char_60"
