@@ -1224,16 +1224,16 @@
         "<%sCAS_target>に|弓をひきしぼった！": "Fired an arrow at|<%sCAS_target>!"
     },
     "409": {
-        "<%sCAS_target>に|きりかかった！": ""
+        "<%sCAS_target>に|きりかかった！": "Got on|<%sCAS_target>!"
     },
     "410": {
-        "<%sCAS_action>がぼうそう！": ""
+        "<%sCAS_action>がぼうそう！": "<%sCAS_action> goes|haywire!"
     },
     "411": {
         "clarity_nt_char_411": "clarity_nt_char_411"
     },
     "412": {
-        "はげしいおたけび！": ""
+        "はげしいおたけび！": "Violent Roar!"
     },
     "413": {
         "<%sCAS_target>を|ツメできりさいた！": ""
