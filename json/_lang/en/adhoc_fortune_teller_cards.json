@@ -93,10 +93,10 @@
         "タロットデッキ<%sB_DECK>の名前を|入力してください。": ""
     },
     "32": {
-        "新たなデッキ名は　<%sB_DECK_NAME>で|よろしいですか？|<yesno 2><close>": ""
+        "新たなデッキ名は　<%sB_DECK_NAME>で|よろしいですか？|<yesno 2><close>": "Your new deck's name will be <%sB_DECK_NAME>.|Is this okay?|<yesno 2><close>"
     },
     "33": {
-        "タロットデッキ<%sB_DECK>のデッキ名を|<%sB_DECK_NAME>に　変更しました。": ""
+        "タロットデッキ<%sB_DECK>のデッキ名を|<%sB_DECK_NAME>に　変更しました。": "Tarot Deck <%sB_DECK>'s deck name|changed to <%sB_DECK_NAME>."
     },
     "34": {
         "デッキの名前変更を　やめますか？|<yesno 2><close>": ""
