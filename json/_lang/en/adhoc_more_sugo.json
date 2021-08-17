@@ -1269,31 +1269,31 @@
         "clarity_nt_char_423": "clarity_nt_char_423"
     },
     "424": {
-        "<%sCAS_gambler>は|<%sCAS_action>を　おどった！": ""
+        "<%sCAS_gambler>は|<%sCAS_action>を　おどった！": "<%sCAS_gambler> danced <%sCAS_action>!"
     },
     "425": {
         "clarity_nt_char_425": "clarity_nt_char_425"
     },
     "426": {
-        "<%sCAS_gambler>は|<%sCAS_action>を　となえた！|<br>|移動時のサイコロが　１こ増えた！": ""
+        "<%sCAS_gambler>は|<%sCAS_action>を　となえた！|<br>|移動時のサイコロが　１こ増えた！": "<%sCAS_gambler> cast <%sCAS_action>!|<br>|They get an extra dice roll!"
     },
     "427": {
         "clarity_nt_char_427": "clarity_nt_char_427"
     },
     "428": {
-        "<%sCAS_gambler>は|<%sCAS_action>を　となえた！": ""
+        "<%sCAS_gambler>は|<%sCAS_action>を　となえた！": "<%sCAS_gambler> cast <%sCAS_action>!"
     },
     "429": {
         "clarity_nt_char_429": "clarity_nt_char_429"
     },
     "430": {
-        "<%sCAS_gambler>は|<%sCAS_target>に　<%sCAS_action>を　となえた！": ""
+        "<%sCAS_gambler>は|<%sCAS_target>に　<%sCAS_action>を　となえた！": "<%sCAS_gambler> cast <%sCAS_action>|on <%sCAS_target>!"
     },
     "431": {
         "clarity_nt_char_431": "clarity_nt_char_431"
     },
     "432": {
-        "<%sCAS_gambler>は|<%sCAS_target>に　ＭＰをあたえた！": ""
+        "<%sCAS_gambler>は|<%sCAS_target>に　ＭＰをあたえた！": "<%sCAS_gambler> gave MP to|<%sCAS_target>!"
     },
     "433": {
         "<%sCAS_monster>の　<%sCAS_action>！": ""
