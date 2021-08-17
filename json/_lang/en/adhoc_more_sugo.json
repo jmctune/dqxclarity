@@ -1584,7 +1584,7 @@
         "しかし　<%sCAS_target>は　生き返らなかった！": "But <%sCAS_target> was not revived!"
     },
     "529": {
-        "<%sCAS_target>には　きかなかった！": ""
+        "<%sCAS_target>には　きかなかった！": "It didn't work on <%sCAS_target>!"
     },
     "530": {
         "clarity_nt_char_530": "clarity_nt_char_530"
