@@ -195,16 +195,16 @@
         "<%sCAS_gambler>は|ちからのたねを　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>の|こうげき力が　５あがった！": "<%sCAS_gambler> found a Seed of Strength!|<br>|<se_nots System 7>|<%sCAS_gambler>'s Attack increased by 5!"
     },
     "66": {
-        "なんと　<%sCAS_gambler>は|宝箱の中から　伝説の武器を　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>は　伝説の武器を装備した！|与えるダメージが　２５％あがった！": ""
+        "なんと　<%sCAS_gambler>は|宝箱の中から　伝説の武器を　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>は　伝説の武器を装備した！|与えるダメージが　２５％あがった！": "<%sCAS_gambler> found a Legendary Weapon|inside the treasure chest!|<br>|<se_nots System 7>|<%sCAS_gambler> equipped the Legendary|Weapon! Damage dealt increased by 25%!"
     },
     "67": {
-        "なんと　<%sCAS_gambler>は|宝箱の中から　伝説の防具を　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>は　伝説の防具を装備した！|受けるダメージが　２５％少なくなった！": ""
+        "なんと　<%sCAS_gambler>は|宝箱の中から　伝説の防具を　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>は　伝説の防具を装備した！|受けるダメージが　２５％少なくなった！": "<%sCAS_gambler> found a Legendary Armor|inside the treasure chest!|<br>|<se_nots System 7>|<%sCAS_gambler> equipped the Legendary|Armor! Damage taken reduced by 25%!"
     },
     "68": {
-        "なんと　宝箱の中身は　ミミックだった！": ""
+        "なんと　宝箱の中身は　ミミックだった！": "The chest was actually a Mimic!"
     },
     "69": {
-        "なんと　宝箱の中身は　パンドラボックスだった！": ""
+        "なんと　宝箱の中身は　パンドラボックスだった！": "The chest was actually a Pandora's Box!"
     },
     "70": {
         "なんと　<%sCAS_gambler>に|ピオリムの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>は|移動するときに　サイコロを|１個多く　振れるようになった！": ""
