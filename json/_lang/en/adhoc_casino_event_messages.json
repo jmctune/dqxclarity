@@ -189,7 +189,7 @@
         "大当たりで|<pc>のテンションが　<%sCAS_tup_lv><auto_br=2500>|まわりの人の　テンションもアップした！<auto_br=2500>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！<auto_bw=2500><close>": ""
     },
     "64": {
-        "このコーナーの<%sCAS_tup_who>さん　大当たり！|<pc>のテンションも　<%sCAS_tup_lv><br>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！": ""
+        "このコーナーの<%sCAS_tup_who>さん　大当たり！|<pc>のテンションも　<%sCAS_tup_lv><br>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！": "<%sCAS_tup_who> got a nice hit as this table!|<pc>'s tension got <%sCAS_tup_lv><br>|It seems that your payout will be increased|by <%sCAS_tup_bairitu> times...!"
     },
     "65": {
         "このコーナーの<%sCAS_tup_who>さん　大当たり！|<pc>のテンションも　<%sCAS_tup_lv><auto_br=2500>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！<auto_bw=2500><close>": ""
