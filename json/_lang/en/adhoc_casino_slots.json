@@ -213,19 +213,19 @@
         "ほんとうに　終了してよろしいですか？<yesno_nc 2><close>": "Are you sure you want to quit?<yesno_nc 2><close>"
     },
     "72": {
-        "<speed=0><convenience>を押すと　スロットが　まわります。": ""
+        "<speed=0><convenience>を押すと　スロットが　まわります。": "<speed=0>Press <convenience> to spin the slots."
     },
     "73": {
-        "メタルスピンが　残っています。": ""
+        "メタルスピンが　残っています。": "Metal Spins still remain."
     },
     "74": {
-        "フリースピンが　残っています。": ""
+        "フリースピンが　残っています。": "Free Spins still remain."
     },
     "75": {
-        "カジノレイドが　続いています。": ""
+        "カジノレイドが　続いています。": "Casino Raid is in progress."
     },
     "76": {
-        "テンションアップ効果が　発生しています。": ""
+        "テンションアップ効果が　発生しています。": "Tension Boost effect is occurring."
     },
     "77": {
         "テンションアップこうげき！<auto_br=2500>|コイン<%dM_coin>枚　かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": ""

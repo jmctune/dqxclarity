@@ -117,13 +117,13 @@
         "<%dM_coin>枚の　コインを　かくとくしました！": ""
     },
     "40": {
-        "カジノレイドが　続いています。": ""
+        "カジノレイドが　続いています。": "Casino Raid is in progress."
     },
     "41": {
         "宝箱が　まだ　開いていません。": ""
     },
     "42": {
-        "テンションアップ効果が　発生しています。": ""
+        "テンションアップ効果が　発生しています。": "Tension Boost effect is occurring."
     },
     "43": {
         "ほんとうに　終了してよろしいですか？<yesno_nc 2><close>": "Are you sure you want to quit?<yesno_nc 2><close>"
