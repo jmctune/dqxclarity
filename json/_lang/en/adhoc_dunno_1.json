@@ -339,7 +339,7 @@
         "仲間と一緒に　この先に行くためには|一緒に行きたい仲間の準備が|完了している必要があります。|<select>|仲間の準備完了を待つ|この先に行くのをやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": ""
     },
     "114": {
-        "おはなしを　進めるために|<%sEV_GUIDESTAGE>の　近くの場所まで|ルーラで　移動しますか？<yesno><close>": ""
+        "おはなしを　進めるために|<%sEV_GUIDESTAGE>の　近くの場所まで|ルーラで　移動しますか？<yesno><close>": "Do you want to use Zoom to warp near|your next story destination at|<%sEV_GUIDESTAGE>?<yesno><close>"
     },
     "115": {
         "<pipipi_mid>「ほう……。マネた相手を見破ったか。|　どうやら　貴様の魂は　一流のようだな。<break>": ""
