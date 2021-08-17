@@ -1344,22 +1344,22 @@
         "<%sCAS_monster>は|<%sCAS_action>を　使った！": "<%sCAS_monster> used <%sCAS_action>!"
     },
     "449": {
-        "<%sCAS_monster>は　弓をひきしぼった！": ""
+        "<%sCAS_monster>は　弓をひきしぼった！": "<%sCAS_monster> drew their bow!"
     },
     "450": {
         "clarity_nt_char_450": "clarity_nt_char_450"
     },
     "451": {
-        "<%sCAS_monster>は　はげしくきりつけた！": ""
+        "<%sCAS_monster>は　はげしくきりつけた！": "<%sCAS_monster> slashed violently!"
     },
     "452": {
-        "<%sCAS_monster>は|<%sCAS_action>を　となえた！|<br>|<%sCAS_action>が　ぼうそう！": ""
+        "<%sCAS_monster>は|<%sCAS_action>を　となえた！|<br>|<%sCAS_action>が　ぼうそう！": "<%sCAS_monster> cast <%sCAS_action>!|<br>|<%sCAS_action> goes haywire!"
     },
     "453": {
-        "<%sCAS_monster>は|すべての　まりょくを　ときはなった！": ""
+        "<%sCAS_monster>は|すべての　まりょくを　ときはなった！": "<%sCAS_monster> unleashed all of|its magical power!"
     },
     "454": {
-        "<%sCAS_monster>は　ツメできりさいた！": ""
+        "<%sCAS_monster>は　ツメできりさいた！": "<%sCAS_monster> slashed with its claws!"
     },
     "455": {
         "clarity_nt_char_455": "clarity_nt_char_455"
