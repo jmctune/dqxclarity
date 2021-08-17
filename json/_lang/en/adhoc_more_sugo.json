@@ -1563,25 +1563,25 @@
         "<%sCAS_gambler>たち全員の|テンションが　あがった！": "<%sCAS_gambler> and co. had their|tension boosted!"
     },
     "522": {
-        "<%sCAS_target>たちのＨＰが|平均　<%nCAS_value>回復した！": ""
+        "<%sCAS_target>たちのＨＰが|平均　<%nCAS_value>回復した！": "<%sCAS_target> and co. recovered an|average of <%dCAS_value> HP!"
     },
     "523": {
         "clarity_nt_char_523": "clarity_nt_char_523"
     },
     "524": {
-        "<%sCAS_target>たちは　からだがシビれた！": ""
+        "<%sCAS_target>たちは　からだがシビれた！": "<%sCAS_target> and co.'s bodies were|numb!"
     },
     "525": {
-        "<%sCAS_target>たちは　ショックをうけた！": ""
+        "<%sCAS_target>たちは　ショックをうけた！": "<%sCAS_target> and co. received a|shock!"
     },
     "526": {
-        "<%sCAS_gambler>は|何も　ぬすめなかった！": ""
+        "<%sCAS_gambler>は|何も　ぬすめなかった！": "<%sCAS_gambler> couldn't steal anything!"
     },
     "527": {
         "clarity_nt_char_527": "clarity_nt_char_527"
     },
     "528": {
-        "しかし　<%sCAS_target>は　生き返らなかった！": ""
+        "しかし　<%sCAS_target>は　生き返らなかった！": "But <%sCAS_target> was not revived!"
     },
     "529": {
         "<%sCAS_target>には　きかなかった！": ""
