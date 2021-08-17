@@ -198,7 +198,7 @@
         "誰かの大当たりで|<pc>のテンションが　<%sCAS_tup_lv><br>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！": "Someone got a nice hit!|<pc>'s tension got <%sCAS_tup_lv>|The next time you win coins, you'll get|<%sCAS_tup_bairitu> times the payout!"
     },
     "67": {
-        "誰かの大当たりで|<pc>のテンションが　<%sCAS_tup_lv><auto_br=2500>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！<auto_bw=2500><close>": ""
+        "誰かの大当たりで|<pc>のテンションが　<%sCAS_tup_lv><auto_br=2500>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！<auto_bw=2500><close>": "Someone got a nice hit!|<pc>'s tension got <%sCAS_tup_lv><auto_br=2500>|The next time you win coins, you'll get|<%sCAS_tup_bairitu> times the payout!<auto_bw=2500><close>"
     },
     "68": {
         "ビンゴ券を　<%dM_Num>枚　持っています。|１枚使って　ビンゴを遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": ""
