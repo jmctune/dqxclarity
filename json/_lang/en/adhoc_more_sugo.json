@@ -165,7 +165,7 @@
         "clarity_nt_char_55": "clarity_nt_char_55"
     },
     "56": {
-        "<%sCAS_gambler>は|<%nM_coin>枚の　カジノコインを手に入れた！": ""
+        "<%sCAS_gambler>は|<%nM_coin>枚の　カジノコインを手に入れた！": "<%sCAS_gambler> received|<%dM_coin> Casino Coins!"
     },
     "57": {
         "なんと　宝箱の中身は　ひとくいばこだった！": ""
