@@ -2487,7 +2487,7 @@
         "バトエンの誘いが 時間切れになりました": "Batoen invitation timed out."
     },
     "830": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが バトエンの誘いを取り消した": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが バトエンの誘いを取り消した": "\\s<%sC_PC>\\m<%sC_ID>\\e's Batoen invite was cancelled."
     },
     "831": {
         "ゼルメアの聖紋の使用者が入れなかったため 退出します": ""
