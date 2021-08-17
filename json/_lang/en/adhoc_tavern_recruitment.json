@@ -63,10 +63,10 @@
         "「……おいおい。|　<%sM_pc>は　死んでるじゃないか。|　死なせたまま別れるなんて　どうかと思うぞ。|<br>|「まず　教会で生き返らせてくるんだな。|　一緒に戦った　仲間に対する礼儀として|　それくらい　やってくれよ。|<bw_break>": ""
     },
     "22": {
-        "「<%sM_pc>と　別れるんだな。|　本当に　いいのか？|<yesno><break>": ""
+        "「<%sM_pc>と　別れるんだな。|　本当に　いいのか？|<yesno><break>": "You'll part ways with <%sM_pc>.|Are you sure?|<yesno><break>"
     },
     "23": {
-        "<pipipi_off><%sM_pc>が　仲間から　はずれた。<end>": ""
+        "<pipipi_off><%sM_pc>が　仲間から　はずれた。<end>": "<pipipi_off><%sM_pc> was removed from the party.<end>"
     },
     "24": {
         "「ここは　冒険者の酒場。|　旅人たちが　仲間をもとめて集まる|　出会いと別れの酒場だ。|<br>|「今日は　どんな用だい？|<select_se_off>|なかまをさがす|自分をとうろく|おすすめチーム|説明を聞く|<select_end>|<break>": ""
