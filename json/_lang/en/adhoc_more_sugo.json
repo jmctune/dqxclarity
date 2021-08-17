@@ -1416,25 +1416,25 @@
         "clarity_nt_char_472": "clarity_nt_char_472"
     },
     "473": {
-        "<%sCAS_gambler>の　かいしんの　<%sCAS_action>！": ""
+        "<%sCAS_gambler>の　かいしんの　<%sCAS_action>！": "<%sCAS_gambler>'s critical <%sCAS_action>!"
     },
     "474": {
         "clarity_nt_char_474": "clarity_nt_char_474"
     },
     "475": {
-        "<%sCAS_gambler>の　かいしんの<%sCAS_action>！": ""
+        "<%sCAS_gambler>の　かいしんの<%sCAS_action>！": "<%sCAS_gambler>'s critical <%sCAS_action>!"
     },
     "476": {
-        "<%sCAS_gambler>の　<%sCAS_action>が　ぼうそう！": ""
+        "<%sCAS_gambler>の　<%sCAS_action>が　ぼうそう！": "<%sCAS_gambler>'s <%sCAS_action>|goes haywire!"
     },
     "477": {
         "clarity_nt_char_477": "clarity_nt_char_477"
     },
     "478": {
-        "セラフィの　かいしんの　<%sCAS_action>！": ""
+        "セラフィの　かいしんの　<%sCAS_action>！": "Seraphy's critical <%sCAS_action>!"
     },
     "479": {
-        "<%sCAS_target>のＨＰが　<%nCAS_value>回復した！": ""
+        "<%sCAS_target>のＨＰが　<%nCAS_value>回復した！": "<%sCAS_target> recovered <%dCAS_value> HP!"
     },
     "480": {
         "<%sCAS_gambler>は|なかまたちを　かばった！|<br>|<%sCAS_gambler>は|なかまたちの　代わりに|ダメージを　受けるようになった！": ""
