@@ -1863,7 +1863,7 @@
         "いのちのきのみ": "Seed of Life"
     },
     "622": {
-        "超いのちのきのみ": "Super Seed of Life"
+        "超いのちのきのみ": "Uber Seed of Life"
     },
     "623": {
         "clarity_nt_char_623": "clarity_nt_char_623"
@@ -1872,7 +1872,7 @@
         "ふしぎなきのみ": "Seed of Magic"
     },
     "625": {
-        "超ふしぎなきのみ": "Super Seed of Magic"
+        "超ふしぎなきのみ": "Uber Seed of Magic"
     },
     "626": {
         "clarity_nt_char_626": "clarity_nt_char_626"
@@ -1884,22 +1884,22 @@
         "clarity_nt_char_628": "clarity_nt_char_628"
     },
     "629": {
-        "超ちからのたね": ""
+        "超ちからのたね": "Uber Seed of Strength"
     },
     "630": {
-        "アクセサリー": ""
+        "アクセサリー": "Accessory"
     },
     "631": {
         "clarity_nt_char_631": "clarity_nt_char_631"
     },
     "632": {
-        "カジノコインを　<%nM_coin>枚手に入れた！": ""
+        "カジノコインを　<%nM_coin>枚手に入れた！": "Received <%dM_coin> Casino Coins!"
     },
     "633": {
-        "<se_nots Joutyu_SE 37>|<%sCAS_gambler>の　ＭＰが５回復！": ""
+        "<se_nots Joutyu_SE 37>|<%sCAS_gambler>の　ＭＰが５回復！": "<se_nots Joutyu_SE 37>|<%sCAS_gambler> recovered 5 MP!"
     },
     "634": {
-        "<se_nots Joutyu_SE 39>|<%sCAS_gambler>の　ＭＰが１０回復！": ""
+        "<se_nots Joutyu_SE 39>|<%sCAS_gambler>の　ＭＰが１０回復！": "<se_nots Joutyu_SE 39>|<%sCAS_gambler> recovered 10 MP!"
     },
     "635": {
         "clarity_nt_char_635": "clarity_nt_char_635"
