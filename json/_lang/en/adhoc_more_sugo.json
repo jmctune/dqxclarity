@@ -222,10 +222,10 @@
         "clarity_nt_char_74": "clarity_nt_char_74"
     },
     "75": {
-        "なんと　<%sCAS_gambler>に|超元気玉の効果が　発生した！|<br>|<%sCAS_gambler>は|次のバトルで　手に入る経験値が|２倍になった！": ""
+        "なんと　<%sCAS_gambler>に|超元気玉の効果が　発生した！|<br>|<%sCAS_gambler>は|次のバトルで　手に入る経験値が|２倍になった！": "<%sCAS_gambler> gained a Bonus Orb L effect!|<br>|<%sCAS_gambler> will gain double EXP in|the next battle won!"
     },
     "76": {
-        "なんと　<%sCAS_gambler>に|お宝探しの効果が　発生した！|<br>|<%sCAS_gambler>は|宝箱のマスに　必ず止まるようになった！": ""
+        "なんと　<%sCAS_gambler>に|お宝探しの効果が　発生した！|<br>|<%sCAS_gambler>は|宝箱のマスに　必ず止まるようになった！": "<%sCAS_gambler> gained a Treasure Hunt effect!|<br>|<%sCAS_gambler> is guaranteed to land on|the next Treasure Chest Space they pass!"
     },
     "77": {
         "なんと　<%sCAS_gambler>に|バシルーラの効果が　発生した！": ""
