@@ -1140,7 +1140,7 @@
         "<%sCAS_action>！": "<%sCAS_action>!"
     },
     "381": {
-        "自分に|<%sCAS_action>": "<%sCAS_action>|to self!"
+        "自分に|<%sCAS_action>": "<%sCAS_action>|on self."
     },
     "382": {
         "clarity_nt_char_382": "clarity_nt_char_382"
@@ -1155,40 +1155,40 @@
         "あっそ～れ♪|ハッスルハッスル～！": "Come on, everybody!|Hustle, hustle!"
     },
     "386": {
-        "なかまたちを|<%sCAS_action>！": ""
+        "なかまたちを|<%sCAS_action>！": "<%sCAS_action> on|the party!"
     },
     "387": {
         "clarity_nt_char_387": "clarity_nt_char_387"
     },
     "388": {
-        "<%sCAS_action>": ""
+        "<%sCAS_action>": "<%sCAS_action>"
     },
     "389": {
         "clarity_nt_char_389": "clarity_nt_char_389"
     },
     "390": {
-        "<%sCAS_target>に|<%sCAS_action>": ""
+        "<%sCAS_target>に|<%sCAS_action>": "<%sCAS_action> to|<%sCAS_target>."
     },
     "391": {
         "clarity_nt_char_391": "clarity_nt_char_391"
     },
     "392": {
-        "天使の守りを受けた！": ""
+        "天使の守りを受けた！": "Gained Goddess'|Grace!"
     },
     "393": {
         "clarity_nt_char_393": "clarity_nt_char_393"
     },
     "394": {
-        "つうこんの いちげき！": ""
+        "つうこんの いちげき！": "Regretful blow!"
     },
     "395": {
-        "フワフワしている": ""
+        "フワフワしている": "Fluffy"
     },
     "396": {
         "clarity_nt_char_396": "clarity_nt_char_396"
     },
     "397": {
-        "<%sCAS_target>に|<%sCAS_action>！": ""
+        "<%sCAS_target>に|<%sCAS_action>！": "%sCAS_action> on|<%sCAS_target>!"
     },
     "398": {
         "グラグラしている": ""
