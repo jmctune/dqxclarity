@@ -1296,34 +1296,34 @@
         "<%sCAS_gambler>は|<%sCAS_target>に　ＭＰをあたえた！": "<%sCAS_gambler> gave MP to|<%sCAS_target>!"
     },
     "433": {
-        "<%sCAS_monster>の　<%sCAS_action>！": ""
+        "<%sCAS_monster>の　<%sCAS_action>！": "<%sCAS_monster>'s <%sCAS_action>!"
     },
     "434": {
         "clarity_nt_char_434": "clarity_nt_char_434"
     },
     "435": {
-        "<%sCAS_monster>の　<%sCAS_action>！|<br>|つうこんの いちげき！": ""
+        "<%sCAS_monster>の　<%sCAS_action>！|<br>|つうこんの いちげき！": "<%sCAS_monster>'s <%sCAS_action>!|<br>|Regretful blow!"
     },
     "436": {
-        "<%sCAS_monster>は　フワフワしている": ""
+        "<%sCAS_monster>は　フワフワしている": "<%sCAS_monster> is fluffing around..."
     },
     "437": {
-        "<%sCAS_monster>は|<%sCAS_action>を　となえた！": ""
+        "<%sCAS_monster>は|<%sCAS_action>を　となえた！": "<%sCAS_monster> cast <%sCAS_action>!"
     },
     "438": {
         "clarity_nt_char_438": "clarity_nt_char_438"
     },
     "439": {
-        "<%sCAS_monster>は　グラグラしている": ""
+        "<%sCAS_monster>は　グラグラしている": "<%sCAS_monster> is wobbling around..."
     },
     "440": {
-        "<%sCAS_monster>は　逃げだした": ""
+        "<%sCAS_monster>は　逃げだした": "<%sCAS_monster> ran away!"
     },
     "441": {
         "clarity_nt_char_441": "clarity_nt_char_441"
     },
     "442": {
-        "<%sCAS_monster>は|<%sCAS_action>を　はいた！": ""
+        "<%sCAS_monster>は|<%sCAS_action>を　はいた！": "<%sCAS_monster> used <%sCAS_action>!"
     },
     "443": {
         "<%sCAS_monster>は|のんびり　かおを　あらっている": ""
