@@ -1998,7 +1998,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>荒野の休息所": "<%sW_MAP_NAME><%sW_DELIMITER>Wilderness Retreat"
     },
     "667": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>崩れゆく廃墟": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>崩れゆく廃墟": "<%sW_MAP_NAME><%sW_DELIMITER>Crumbling Ruins"
     },
     "668": {
         "<%sW_MAP_NAME><%sW_DELIMITER>マグマの滝": "<%sW_MAP_NAME><%sW_DELIMITER>Magma Falls"
@@ -6123,13 +6123,13 @@
         "ダラリア砂岩遺跡 出口": ""
     },
     "2042": {
-        "崩れゆく虚室 出口": ""
+        "崩れゆく虚室 出口": "Crumbling Ruins Exit"
     },
     "2043": {
         "ダラリア砂岩遺跡 入口": ""
     },
     "2044": {
-        "崩れゆく虚室 入口": ""
+        "崩れゆく虚室 入口": "Crumbling Ruins Entrance"
     },
     "2045": {
         "ゴズ渓谷への道": ""
