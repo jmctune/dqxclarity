@@ -318,7 +318,7 @@
         "<%sCAS_monster>は　ダウンから　立ち直った！|体力が　回復した。": "<%sCAS_monster> got back up!|Its strength has recovered."
     },
     "107": {
-        "<%sCAS_monster>は　ダウンした！|ダウン中は　コイン入手量が２倍になります！": ""
+        "<%sCAS_monster>は　ダウンした！|ダウン中は　コイン入手量が２倍になります！": "<%sCAS_monster> is down!|Coins will be doubled while its down!"
     },
     "108": {
         "コイン<%dM_coin>枚（内　ボーナス<%dM_coin_bonus>枚）かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": ""
