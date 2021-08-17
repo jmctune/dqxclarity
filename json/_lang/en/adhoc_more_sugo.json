@@ -378,10 +378,10 @@
         "clarity_nt_char_126": "clarity_nt_char_126"
     },
     "127": {
-        "ヒューザが　仲間に加わった！|<br>|ヒューザは　３ターンに１度|仲間全員に　会心必中の効果を|与えてくれます！": ""
+        "ヒューザが　仲間に加わった！|<br>|ヒューザは　３ターンに１度|仲間全員に　会心必中の効果を|与えてくれます！": "Huzer joined your party!|<br>|Every 3 turns, Huzer will grant the entire|party a Critical Claim effect!"
     },
     "128": {
-        "ザンクローネが　仲間に加わった！|<br>|ザンクローネは　２ターンに１度|仲間全員の　テンションを|１段階　アップしてくれます！": ""
+        "ザンクローネが　仲間に加わった！|<br>|ザンクローネは　２ターンに１度|仲間全員の　テンションを|１段階　アップしてくれます！": "Zankrone joined your party!|<br>|Every 2 turns, Zankrone will increase the|entire party's tension by 1 stage!"
     },
     "129": {
         "セラフィが　仲間に加わった！|<br>|セラフィは　毎ターン|ベホマラーを　となえて|仲間全員を　回復してくれます！": ""
