@@ -1545,22 +1545,22 @@
         "clarity_nt_char_515": "clarity_nt_char_515"
     },
     "516": {
-        "<%sCAS_target>たちの　いきのねをとめた！": ""
+        "<%sCAS_target>たちの　いきのねをとめた！": "<%sCAS_target> and co. were killed!"
     },
     "517": {
-        "<%sCAS_gambler>たちに　かかっている|とくしゅ効果が　かきけされた！": ""
+        "<%sCAS_gambler>たちに　かかっている|とくしゅ効果が　かきけされた！": "<%sCAS_gambler> and co.'s positive|effects were removed!"
     },
     "518": {
-        "<%sCAS_gambler>たち全員は　１ターンの間|ダメージを　うけなくなった！": ""
+        "<%sCAS_gambler>たち全員は　１ターンの間|ダメージを　うけなくなった！": "<%sCAS_gambler> and co. will receive no|damage for 1 turn!"
     },
     "519": {
         "clarity_nt_char_519": "clarity_nt_char_519"
     },
     "520": {
-        "<%sCAS_gambler>たち全員に|会心必中の　効果が発生した！": ""
+        "<%sCAS_gambler>たち全員に|会心必中の　効果が発生した！": "<%sCAS_gambler> and co. gained a|Critical Claim effect!"
     },
     "521": {
-        "<%sCAS_gambler>たち全員の|テンションが　あがった！": ""
+        "<%sCAS_gambler>たち全員の|テンションが　あがった！": "<%sCAS_gambler> and co. had their|tension boosted!"
     },
     "522": {
         "<%sCAS_target>たちのＨＰが|平均　<%nCAS_value>回復した！": ""
