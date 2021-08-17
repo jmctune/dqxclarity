@@ -1989,36 +1989,36 @@
         "『悪夢に囚われし街』マップで|すごろくを遊びますが　よろしいですか？|<yesno><close>": "Would you like to play on the|\"Trapped Nightmare Town\" map?|<yesno><close>"
     },
     "664": {
-        "アンルシア": ""
+        "アンルシア": "Anlucia"
     },
     "665": {
-        "エステラ": ""
+        "エステラ": "Estella"
     },
     "666": {
         "clarity_nt_char_666": "clarity_nt_char_666"
     },
     "667": {
-        "ヒューザ": ""
+        "ヒューザ": "Huzer"
     },
     "668": {
         "clarity_nt_char_668": "clarity_nt_char_668"
     },
     "669": {
-        "ザンクローネ": ""
+        "ザンクローネ": "Zankrone"
     },
     "670": {
         "clarity_nt_char_670": "clarity_nt_char_670"
     },
     "671": {
-        "セラフィ": ""
+        "セラフィ": "Seraphi"
     },
     "672": {
         "clarity_nt_char_672": "clarity_nt_char_672"
     },
     "673": {
-        "アンルシアが　仲間に加わった！|<br>|アンルシアは　５ターンに１度|勇者の光を　放つことで|モンスターを　行動不能にしてくれます！": ""
+        "アンルシアが　仲間に加わった！|<br>|アンルシアは　５ターンに１度|勇者の光を　放つことで|モンスターを　行動不能にしてくれます！": "Anlucia joins your party|<br>|Every 5 turns, Anlucia will stop enemies|in their tracks by using the light of the|hero!"
     },
     "674": {
-        "セラフィが　仲間に加わった！|<br>|セラフィは|毎ターン　ベホマラーを　となえて|仲間全員を　回復してくれます！": ""
+        "セラフィが　仲間に加わった！|<br>|セラフィは|毎ターン　ベホマラーを　となえて|仲間全員を　回復してくれます！": "Seraphy joins the party!|<br>|Every turn, Seraphy will cast Multiheal to|heal the entire party!"
     }
 }
