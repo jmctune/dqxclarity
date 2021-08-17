@@ -1512,7 +1512,7 @@
         "<%sCAS_gambler>に　かかっている|とくしゅ効果が　かきけされた！": ""
     },
     "505": {
-        "<%sCAS_monster>の　動きを封じた！|さらに　与えるダメージが　アップした！": ""
+        "<%sCAS_monster>の　動きを封じた！|さらに　与えるダメージが　アップした！": "<%sCAS_monster> is stuck in place!|Furthermore, it will take increased damage!"
     },
     "506": {
         "clarity_nt_char_506": "clarity_nt_char_506"
