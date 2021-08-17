@@ -288,7 +288,7 @@
         "ビンゴを遊ぶには　ビンゴ券か|カジノプレイチケットが　必要です。|どちらかを　お持ちのうえ　またおこしください！|<auto_bw=5000><close>": ""
     },
     "97": {
-        "カジノコイン <%dM_Coin>枚を獲得した|<%dM_Coin2>枚から <%dM_Coin3>枚に増えた": ""
+        "カジノコイン <%dM_Coin>枚を獲得した|<%dM_Coin2>枚から <%dM_Coin3>枚に増えた": "Earned <%dM_Coin> Casino Coins.|Went from <%dM_Coin2> to <%dM_Coin3> Casino Coins."
     },
     "98": {
         "ビンゴ券を <%dM_Num>枚使った": ""
@@ -420,7 +420,7 @@
         "カジノレイド祭りが　終了した為|進行中のゲームを　終了します。": ""
     },
     "141": {
-        "お祭りコイン <%dM_Coin>枚を獲得した|<%dM_Coin2>枚から <%dM_Coin3>枚に増えた": ""
+        "お祭りコイン <%dM_Coin>枚を獲得した|<%dM_Coin2>枚から <%dM_Coin3>枚に増えた": "Earned <%dM_Coin> Festival Coins.|Went from <%dM_Coin2> to <%dM_Coin3> Festival Coins."
     },
     "142": {
         "まだ　すごろくルームへ　移動中の|パーティメンバーがいるため|すごろくに　エントリーできません。": ""
