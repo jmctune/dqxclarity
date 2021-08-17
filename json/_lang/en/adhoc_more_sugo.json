@@ -1596,16 +1596,16 @@
         "clarity_nt_char_532": "clarity_nt_char_532"
     },
     "533": {
-        "<%sCAS_target>のＨＰは　まんたんです。": ""
+        "<%sCAS_target>のＨＰは　まんたんです。": "<%sCAS_target>'s HP recovered."
     },
     "534": {
         "clarity_nt_char_534": "clarity_nt_char_534"
     },
     "535": {
-        "なかま全員のＨＰは　まんたんです。": ""
+        "なかま全員のＨＰは　まんたんです。": "The party's HP completely recovered."
     },
     "536": {
-        "<%sCAS_gambler>が|既に　かばっている！": ""
+        "<%sCAS_gambler>が|既に　かばっている！": "<%sCAS_gambler> is already Covering!"
     },
     "537": {
         "<%sCAS_gambler>には|既に　<%sCAS_action>がかかっている！": ""
