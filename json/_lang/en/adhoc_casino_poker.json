@@ -129,7 +129,7 @@
         "ほんとうに　終了してよろしいですか？<yesno_nc 2><close>": "Are you sure you want to quit?<yesno_nc 2><close>"
     },
     "44": {
-        "テンションアップこうげき！<auto_br=2500>|コイン<%dM_coin>枚　かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": ""
+        "テンションアップこうげき！<auto_br=2500>|コイン<%dM_coin>枚　かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "Tension Boost Attack!<auto_br=2500>|Received <%dM_coin> Coins!|<%dCAS_damage> damage to <%sCAS_monster>!<auto_bw=3000><close>"
     },
     "45": {
         "<speed=0>オープンしている　カードより|強いカードを　右の３枚から　選んでください。": ""

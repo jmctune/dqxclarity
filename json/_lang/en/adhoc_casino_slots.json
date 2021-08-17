@@ -228,10 +228,10 @@
         "テンションアップ効果が　発生しています。": "Tension Boost effect is occurring."
     },
     "77": {
-        "テンションアップこうげき！<auto_br=2500>|コイン<%dM_coin>枚　かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": ""
+        "テンションアップこうげき！<auto_br=2500>|コイン<%dM_coin>枚　かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "Tension Boost Attack!<auto_br=2500>|Received <%dM_coin> Coins!|<%dCAS_damage> damage to <%sCAS_monster>!<auto_bw=3000><close>"
     },
     "78": {
-        "テンションアップ効果が　終了しました。": ""
+        "テンションアップ効果が　終了しました。": "Tension Boost effect has ended."
     },
     "79": {
         "<speed=0><cursor>で　かけきんを決めてから|<convenience>を　押してください。": ""
