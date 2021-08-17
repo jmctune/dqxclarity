@@ -228,13 +228,13 @@
         "なんと　<%sCAS_gambler>に|お宝探しの効果が　発生した！|<br>|<%sCAS_gambler>は|宝箱のマスに　必ず止まるようになった！": "<%sCAS_gambler> gained a Treasure Hunt effect!|<br>|<%sCAS_gambler> is guaranteed to land on|the next Treasure Chest Space they pass!"
     },
     "77": {
-        "なんと　<%sCAS_gambler>に|バシルーラの効果が　発生した！": ""
+        "なんと　<%sCAS_gambler>に|バシルーラの効果が　発生した！": "<%sCAS_gambler> gained the effect of|Bazoom!"
     },
     "78": {
         "clarity_nt_char_78": "clarity_nt_char_78"
     },
     "79": {
-        "なんと　<%sCAS_gambler>は|のろわれてしまった！|<br>|次のターン　サイコロの目が|１か６しか　出なくなってしまった。": ""
+        "なんと　<%sCAS_gambler>は|のろわれてしまった！|<br>|次のターン　サイコロの目が|１か６しか　出なくなってしまった。": "<%sCAS_gambler> was cursed!|<br>|Next turn, their die roll will either be|a 1 or a 6!"
     },
     "80": {
         "clarity_nt_char_80": "clarity_nt_char_80"
