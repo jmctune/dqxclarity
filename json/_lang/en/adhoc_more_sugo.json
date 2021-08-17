@@ -417,7 +417,7 @@
         "なんと　<%sCAS_gambler>たち全員に|ボミオスの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>たち全員は|移動するときに　サイコロの目が|必ず　１になってしまった。": "<%sCAS_gambler> and co. gained a Deceleratle|effect!|<br>|Next turn, <%sCAS_gambler> and co. will|roll a 1."
     },
     "140": {
-        "なんと　<%sCAS_gambler>たち全員に|超元気玉の効果が　発生した！|<br>|<%sCAS_gambler>たち全員は|次のバトルで　手に入る経験値が|２倍になった！": ""
+        "なんと　<%sCAS_gambler>たち全員に|超元気玉の効果が　発生した！|<br>|<%sCAS_gambler>たち全員は|次のバトルで　手に入る経験値が|２倍になった！": "<%sCAS_gambler> and co. gained a|Bonus Orb L effect!|<br>|<%sCAS_gambler> and co.'s next battle won|will give double the EXP!"
     },
     "141": {
         "なんと　<%sCAS_gambler>たち全員は|のろわれてしまった！|<br>|次のターン　サイコロの目が|１か６しか　出なくなってしまった。": ""
