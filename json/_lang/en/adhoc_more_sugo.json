@@ -186,13 +186,13 @@
         "clarity_nt_char_62": "clarity_nt_char_62"
     },
     "63": {
-        "<%sCAS_gambler>は|ふしぎなきのみを　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>の|最大ＭＰが　１０あがった！": ""
+        "<%sCAS_gambler>は|ふしぎなきのみを　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>の|最大ＭＰが　１０あがった！": "<%sCAS_gambler> found a Seed of Magic!|<br>|<se_nots System 7>|<%sCAS_gambler>'s max MP increased by 10!"
     },
     "64": {
         "clarity_nt_char_64": "clarity_nt_char_64"
     },
     "65": {
-        "<%sCAS_gambler>は|ちからのたねを　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>の|こうげき力が　５あがった！": ""
+        "<%sCAS_gambler>は|ちからのたねを　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>の|こうげき力が　５あがった！": "<%sCAS_gambler> found a Seed of Strength!|<br>|<se_nots System 7>|<%sCAS_gambler>'s Attack increased by 5!"
     },
     "66": {
         "なんと　<%sCAS_gambler>は|宝箱の中から　伝説の武器を　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>は　伝説の武器を装備した！|与えるダメージが　２５％あがった！": ""
