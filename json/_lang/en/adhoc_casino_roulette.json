@@ -96,7 +96,7 @@
         "<speed=0>正常にベットできなかった　コインがあります。|ベットできなかったコインは　返却されました。<auto_bw=4000><close>": ""
     },
     "33": {
-        "<%sCAS_monster>は　ダウンから　立ち直った！|体力が　回復した。": ""
+        "<%sCAS_monster>は　ダウンから　立ち直った！|体力が　回復した。": "<%sCAS_monster> got back up!|Its strength has recovered."
     },
     "34": {
         "<%sCAS_monster>は　ダウンした！|ダウン中は　コイン入手量が２倍になります！": ""

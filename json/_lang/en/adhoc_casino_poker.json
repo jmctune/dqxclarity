@@ -204,10 +204,10 @@
         "<speed=0><cursor>で|かけきんを決めて　<convenience>でスタートします。": "<speed=0>Choose a bet with <cursor>.|Press <convenience> to start."
     },
     "69": {
-        "カジノレイドを　発生させました。|<%dM_coin>枚のコインが　当たりました。|<auto_bw=3000><close>": ""
+        "カジノレイドを　発生させました。|<%dM_coin>枚のコインが　当たりました。|<auto_bw=3000><close>": "Caused a Casino Raid.|Won <%dM_coin> coins.|<auto_bw=3000><close>"
     },
     "70": {
-        "<%sCAS_monster>は　ダウンから　立ち直った！|体力が　回復した。": ""
+        "<%sCAS_monster>は　ダウンから　立ち直った！|体力が　回復した。": "<%sCAS_monster> got back up!|Its strength has recovered."
     },
     "71": {
         "<%sCAS_monster>は　ダウンした！|ダウン中は　コイン入手量が２倍になります！": ""
