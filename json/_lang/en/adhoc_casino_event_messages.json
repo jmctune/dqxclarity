@@ -21,7 +21,7 @@
         "<%dM_coin>コイン　ルーレットがあります。|遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": ""
     },
     "8": {
-        "<%dM_coin>コイン　スロットがあります。|遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": ""
+        "<%dM_coin>コイン　スロットがあります。|遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": "This is a <%dM_coin> Coin slot machine.|Do you want to play?|(Floor <%dW_INSTANCE_NO> <%sCAS_room> <%sCAS_table>)<yesno><close>"
     },
     "9": {
         "<%sCAS_monster>を　倒した！<auto_bw=3000><close>": ""
