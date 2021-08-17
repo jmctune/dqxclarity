@@ -150,7 +150,7 @@
         "clarity_nt_char_50": "clarity_nt_char_50"
     },
     "51": {
-        "<%sCAS_gambler>は|矢印の立て札の　ウラから|黄金の地図を　見つけた！|<br>|なんと　１ターンの間|全ての　モンスターのマスが|ゴールド系モンスターの　マスになった！": ""
+        "<%sCAS_gambler>は|矢印の立て札の　ウラから|黄金の地図を　見つけた！|<br>|なんと　１ターンの間|全ての　モンスターのマスが|ゴールド系モンスターの　マスになった！": "<%sCAS_gambler> found a Golden Map on|the back of the Arrow Space!|<br>|For 1 turn, all Monster Spaces will become|Golden Monster Spaces!"
     },
     "52": {
         "clarity_nt_char_52": "clarity_nt_char_52"
