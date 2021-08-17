@@ -408,10 +408,10 @@
         "clarity_nt_char_136": "clarity_nt_char_136"
     },
     "137": {
-        "<%sCAS_gambler>は|せかいじゅのしずくを　見つけた！|<br>|<%sCAS_gambler>たち全員の|ＨＰとＭＰが　全回復した！": ""
+        "<%sCAS_gambler>は|せかいじゅのしずくを　見つけた！|<br>|<%sCAS_gambler>たち全員の|ＨＰとＭＰが　全回復した！": "<%sCAS_gambler> found a Yggdrasil Dew!|<br>|<%sCAS_gambler> and co.'s HP and MP was|completely restored!"
     },
     "138": {
-        "なんと　<%sCAS_gambler>たち全員に|ピオリムの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>たち全員は|移動するときに　サイコロを|１個多く　振れるようになった！": ""
+        "なんと　<%sCAS_gambler>たち全員に|ピオリムの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>たち全員は|移動するときに　サイコロを|１個多く　振れるようになった！": "<%sCAS_gambler> and co. gained an Acceleratle|effect!|<br>|Next turn, <%sCAS_gambler> and co. will roll|an additional dice!"
     },
     "139": {
         "なんと　<%sCAS_gambler>たち全員に|ボミオスの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>たち全員は|移動するときに　サイコロの目が|必ず　１になってしまった。": ""
