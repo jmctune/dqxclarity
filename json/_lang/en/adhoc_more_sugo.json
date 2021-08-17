@@ -1224,7 +1224,7 @@
         "<%sCAS_target>に|弓をひきしぼった！": "Fired an arrow at|<%sCAS_target>!"
     },
     "409": {
-        "<%sCAS_target>に|きりかかった！": "Got on|<%sCAS_target>!"
+        "<%sCAS_target>に|きりかかった！": "Slashed at|<%sCAS_target>!"
     },
     "410": {
         "<%sCAS_action>がぼうそう！": "<%sCAS_action> goes|haywire!"
@@ -1263,7 +1263,7 @@
         "clarity_nt_char_421": "clarity_nt_char_421"
     },
     "422": {
-        "<%sCAS_gambler>は|自分に　<%sCAS_action>を　となえた！": ""
+        "<%sCAS_gambler>は|自分に　<%sCAS_action>を　となえた！": "<%sCAS_gambler> cast <%sCAS_action>|on themselves!"
     },
     "423": {
         "clarity_nt_char_423": "clarity_nt_char_423"
