@@ -1437,34 +1437,34 @@
         "<%sCAS_target>のＨＰが　<%nCAS_value>回復した！": "<%sCAS_target> recovered <%dCAS_value> HP!"
     },
     "480": {
-        "<%sCAS_gambler>は|なかまたちを　かばった！|<br>|<%sCAS_gambler>は|なかまたちの　代わりに|ダメージを　受けるようになった！": ""
+        "<%sCAS_gambler>は|なかまたちを　かばった！|<br>|<%sCAS_gambler>は|なかまたちの　代わりに|ダメージを　受けるようになった！": "<%sCAS_gambler> is protecting the party!|<br>|<%sCAS_gambler> will take damage in place of the|party!"
     },
     "481": {
         "clarity_nt_char_481": "clarity_nt_char_481"
     },
     "482": {
-        "<%sCAS_gambler>のＨＰが　<%nCAS_value>回復した！": ""
+        "<%sCAS_gambler>のＨＰが　<%nCAS_value>回復した！": "<%sCAS_gambler> recovered <%nCAS_value> HP!"
     },
     "483": {
         "clarity_nt_char_483": "clarity_nt_char_483"
     },
     "484": {
-        "<%sCAS_gambler>が|<%sCAS_monster>から　何かをぬすんだ！": ""
+        "<%sCAS_gambler>が|<%sCAS_monster>から　何かをぬすんだ！": "<%sCAS_gambler> stole something from|<%sCAS_monster>!"
     },
     "485": {
-        "<%sCAS_gambler>の　こうげき力が上がった！": ""
+        "<%sCAS_gambler>の　こうげき力が上がった！": "<%sCAS_gambler>'s attack increased!"
     },
     "486": {
         "clarity_nt_char_486": "clarity_nt_char_486"
     },
     "487": {
-        "なんと　<%sCAS_target>は　生き返った！": ""
+        "なんと　<%sCAS_target>は　生き返った！": "<%sCAS_target> was revived!"
     },
     "488": {
         "clarity_nt_char_488": "clarity_nt_char_488"
     },
     "489": {
-        "<%sCAS_target>の　こうげき力が上がった！": ""
+        "<%sCAS_target>の　こうげき力が上がった！": "<%sCAS_target>'s attack increased!"
     },
     "490": {
         "<%sCAS_gambler>は|ハイテンションになった！": ""
