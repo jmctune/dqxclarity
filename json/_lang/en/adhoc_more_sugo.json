@@ -1608,10 +1608,10 @@
         "<%sCAS_gambler>が|既に　かばっている！": "<%sCAS_gambler> is already Covering!"
     },
     "537": {
-        "<%sCAS_gambler>には|既に　<%sCAS_action>がかかっている！": ""
+        "<%sCAS_gambler>には|既に　<%sCAS_action>がかかっている！": "<%sCAS_gambler> already has <%sCAS_action>|applied!"
     },
     "538": {
-        "<%sCAS_monster>からは|もう　盗めないようだ。": ""
+        "<%sCAS_monster>からは|もう　盗めないようだ。": "Can't steal from <%sCAS_monster>|anymore."
     },
     "539": {
         "clarity_nt_char_539": "clarity_nt_char_539"
