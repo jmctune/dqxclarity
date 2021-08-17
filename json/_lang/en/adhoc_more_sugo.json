@@ -1467,22 +1467,22 @@
         "<%sCAS_target>の　こうげき力が上がった！": "<%sCAS_target>'s attack increased!"
     },
     "490": {
-        "<%sCAS_gambler>は|ハイテンションになった！": ""
+        "<%sCAS_gambler>は|ハイテンションになった！": "<%sCAS_gambler> is in High Tension!"
     },
     "491": {
-        "<%sCAS_gambler>の　こうげき力が上がった！|<%sCAS_gambler>の　しゅび力がさがった！": ""
+        "<%sCAS_gambler>の　こうげき力が上がった！|<%sCAS_gambler>の　しゅび力がさがった！": "<%sCAS_gambler>'s attack increased!|<%sCAS_gambler>'s defense decreased!"
     },
     "492": {
         "clarity_nt_char_492": "clarity_nt_char_492"
     },
     "493": {
-        "天使の守りが|みたまを呼び戻した": ""
+        "天使の守りが|みたまを呼び戻した": "Goddess' Grace|recalled their spirit."
     },
     "494": {
         "clarity_nt_char_494": "clarity_nt_char_494"
     },
     "495": {
-        "ミス！　<%sCAS_target>は|ダメージを　うけない！": ""
+        "ミス！　<%sCAS_target>は|ダメージを　うけない！": "Miss! No damage to <%sCAS_target>!"
     },
     "496": {
         "<%sCAS_monster>は　いなくなった！": ""
