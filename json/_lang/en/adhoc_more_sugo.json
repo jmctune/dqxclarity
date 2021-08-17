@@ -210,13 +210,13 @@
         "なんと　<%sCAS_gambler>に|ピオリムの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>は|移動するときに　サイコロを|１個多く　振れるようになった！": "<%sCAS_gambler> gained an Acceleratle effect!|<br>|Next turn, <%sCAS_gambler> will roll an|extra dice!"
     },
     "71": {
-        "なんと　<%sCAS_gambler>に|ボミオスの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>は|移動するときに　サイコロの目が|必ず　１になってしまった。": ""
+        "なんと　<%sCAS_gambler>に|ボミオスの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>は|移動するときに　サイコロの目が|必ず　１になってしまった。": "<%sCAS_gambler> gained an Deceleratle effect!|<br>|Next turn, <%sCAS_gambler>'s roll will|land on 1."
     },
     "72": {
-        "なんと　<%sCAS_gambler>に|会心必中の効果が　発生した！|<br>|<%sCAS_gambler>は　次の攻撃で|必ず　会心のいちげきが|でるようになった！": ""
+        "なんと　<%sCAS_gambler>に|会心必中の効果が　発生した！|<br>|<%sCAS_gambler>は　次の攻撃で|必ず　会心のいちげきが|でるようになった！": "<%sCAS_gambler> gained a Critical Claim effect!|<br>|<%sCAS_gambler>'s next attack will be a|guaranteed critical hit!"
     },
     "73": {
-        "なんと　<%sCAS_gambler>に|元気玉の効果が　発生した！|<br>|<%sCAS_gambler>は|次のバトルで　手に入る経験値が|２倍になった！": ""
+        "なんと　<%sCAS_gambler>に|元気玉の効果が　発生した！|<br>|<%sCAS_gambler>は|次のバトルで　手に入る経験値が|２倍になった！": "<%sCAS_gambler> gained a Bonus Orb effect!|<br>|<%sCAS_gambler> will gain double EXP in|the next battle won!"
     },
     "74": {
         "clarity_nt_char_74": "clarity_nt_char_74"
