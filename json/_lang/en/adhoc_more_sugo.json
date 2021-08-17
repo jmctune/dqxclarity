@@ -1326,22 +1326,22 @@
         "<%sCAS_monster>は|<%sCAS_action>を　はいた！": "<%sCAS_monster> used <%sCAS_action>!"
     },
     "443": {
-        "<%sCAS_monster>は|のんびり　かおを　あらっている": ""
+        "<%sCAS_monster>は|のんびり　かおを　あらっている": "<%sCAS_monster> is washing their face."
     },
     "444": {
         "clarity_nt_char_444": "clarity_nt_char_444"
     },
     "445": {
-        "<%sCAS_monster>は|ぶきみに　ほほえんでいる": ""
+        "<%sCAS_monster>は|ぶきみに　ほほえんでいる": "<%sCAS_monster> is smiling creepily..."
     },
     "446": {
-        "<%sCAS_monster>は|<%sCAS_action>を　おどった！": ""
+        "<%sCAS_monster>は|<%sCAS_action>を　おどった！": "<%sCAS_monster> danced <%sCAS_action>!"
     },
     "447": {
         "clarity_nt_char_447": "clarity_nt_char_447"
     },
     "448": {
-        "<%sCAS_monster>は|<%sCAS_action>を　使った！": ""
+        "<%sCAS_monster>は|<%sCAS_action>を　使った！": "<%sCAS_monster> used <%sCAS_action>!"
     },
     "449": {
         "<%sCAS_monster>は　弓をひきしぼった！": ""
