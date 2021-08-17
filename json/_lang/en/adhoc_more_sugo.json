@@ -1485,28 +1485,28 @@
         "ミス！　<%sCAS_target>は|ダメージを　うけない！": "Miss! No damage to <%sCAS_target>!"
     },
     "496": {
-        "<%sCAS_monster>は　いなくなった！": ""
+        "<%sCAS_monster>は　いなくなった！": "<%sCAS_monster> is gone!"
     },
     "497": {
         "clarity_nt_char_497": "clarity_nt_char_497"
     },
     "498": {
-        "<%sCAS_target>の　いきのねをとめた！": ""
+        "<%sCAS_target>の　いきのねをとめた！": "<%sCAS_target> was killed!"
     },
     "499": {
-        "<%sCAS_target>は　ねむってしまった！": ""
+        "<%sCAS_target>は　ねむってしまった！": "<%sCAS_target> fell asleep!"
     },
     "500": {
-        "<%sCAS_target>のＭＰが　<%nCAS_value>さがった！": ""
+        "<%sCAS_target>のＭＰが　<%nCAS_value>さがった！": "<%sCAS_target> lost <%dCAS_value> MP!"
     },
     "501": {
-        "<%sCAS_target>の　しゅび力がさがった！": ""
+        "<%sCAS_target>の　しゅび力がさがった！": "<%sCAS_target>'s defense decreased!"
     },
     "502": {
         "clarity_nt_char_502": "clarity_nt_char_502"
     },
     "503": {
-        "<%sCAS_target>のＭＰを　<%nCAS_value>うばった！": ""
+        "<%sCAS_target>のＭＰを　<%nCAS_value>うばった！": "<%sCAS_target> stole <%dCAS_value> MP!"
     },
     "504": {
         "<%sCAS_gambler>に　かかっている|とくしゅ効果が　かきけされた！": ""
