@@ -420,7 +420,7 @@
         "なんと　<%sCAS_gambler>たち全員に|超元気玉の効果が　発生した！|<br>|<%sCAS_gambler>たち全員は|次のバトルで　手に入る経験値が|２倍になった！": "<%sCAS_gambler> and co. gained a|Bonus Orb L effect!|<br>|<%sCAS_gambler> and co.'s next battle won|will give double the EXP!"
     },
     "141": {
-        "なんと　<%sCAS_gambler>たち全員は|のろわれてしまった！|<br>|次のターン　サイコロの目が|１か６しか　出なくなってしまった。": ""
+        "なんと　<%sCAS_gambler>たち全員は|のろわれてしまった！|<br>|次のターン　サイコロの目が|１か６しか　出なくなってしまった。": "<%sCAS_gambler> and co. were cursed!|<br>|Next turn, their dice roll will either be a|1 or a 6."
     },
     "142": {
         "clarity_nt_char_142": "clarity_nt_char_142"
