@@ -1518,19 +1518,19 @@
         "clarity_nt_char_506": "clarity_nt_char_506"
     },
     "507": {
-        "<%sCAS_gambler>は　１ターンの間|ダメージを　うけなくなった！": ""
+        "<%sCAS_gambler>は　１ターンの間|ダメージを　うけなくなった！": "<%sCAS_gambler> will take no damage|for 1 turn!"
     },
     "508": {
         "clarity_nt_char_508": "clarity_nt_char_508"
     },
     "509": {
-        "<%sCAS_gambler>に|会心必中の　効果が発生した！": ""
+        "<%sCAS_gambler>に|会心必中の　効果が発生した！": "<%sCAS_gambler> gained a Critical Claim|effect!"
     },
     "510": {
-        "<%sCAS_target>は　からだがシビれた！": ""
+        "<%sCAS_target>は　からだがシビれた！": "<%sCAS_target>'s body is numb!"
     },
     "511": {
-        "<%sCAS_target>は　ショックをうけた！": ""
+        "<%sCAS_target>は　ショックをうけた！": "<%sCAS_target> received a shock!"
     },
     "512": {
         "<%sCAS_gambler>たちのＨＰが|平均　<%nCAS_value>回復した！": ""
