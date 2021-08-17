@@ -1905,25 +1905,25 @@
         "clarity_nt_char_635": "clarity_nt_char_635"
     },
     "636": {
-        "<se_nots Joutyu_SE 38>|<%sCAS_gambler>の|ＨＰとＭＰが　全回復した！": ""
+        "<se_nots Joutyu_SE 38>|<%sCAS_gambler>の|ＨＰとＭＰが　全回復した！": "<se_nots Joutyu_SE 38>|<%sCAS_gambler>'s HP and MP fully recovered!"
     },
     "637": {
-        "<se_nots System 7>|<%sCAS_gambler>の|最大ＨＰが　１０あがった！": ""
+        "<se_nots System 7>|<%sCAS_gambler>の|最大ＨＰが　１０あがった！": "<se_nots System 7>|<%sCAS_gambler>'s max HP increased by 10!"
     },
     "638": {
-        "<se_nots System 7>|<%sCAS_gambler>の|最大ＭＰが　１０あがった！": ""
+        "<se_nots System 7>|<%sCAS_gambler>の|最大ＭＰが　１０あがった！": "<se_nots System 7>|<%sCAS_gambler>'s max MP increased by 10!"
     },
     "639": {
-        "<se_nots System 7>|<%sCAS_gambler>の|こうげき力が　５あがった！": ""
+        "<se_nots System 7>|<%sCAS_gambler>の|こうげき力が　５あがった！": "<se_nots System 7>|<%sCAS_gambler>'s Attack increased by 5!"
     },
     "640": {
-        "<%sCAS_item>を　手に入れた！": ""
+        "<%sCAS_item>を　手に入れた！": "Received <%sCAS_item>!"
     },
     "641": {
         "clarity_nt_char_641": "clarity_nt_char_641"
     },
     "642": {
-        "<se_nots Joutyu_SE 37>|<%sCAS_gambler>たち全員の　ＭＰが５回復！": ""
+        "<se_nots Joutyu_SE 37>|<%sCAS_gambler>たち全員の　ＭＰが５回復！": "<se_nots Joutyu_SE 37>|<%sCAS_gambler> and co. recovered 5 MP!"
     },
     "643": {
         "<se_nots Joutyu_SE 39>|<%sCAS_gambler>たち全員の　ＭＰが１０回復！": ""
