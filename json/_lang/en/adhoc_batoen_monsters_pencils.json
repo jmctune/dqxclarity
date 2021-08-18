@@ -2886,10 +2886,10 @@
         "ダメージを受けない": "Taking no damage!"
     },
     "963": {
-        "死んでもＨＰ１０で復活": "Revive with 10|HP on death!"
+        "死んでもＨＰ１０で復活": "Revive at 10 HP on death!"
     },
     "964": {
-        "さいだいＨＰが６０上昇": "Max HP increased|by 60!"
+        "さいだいＨＰが６０上昇": "Max HP increased by 60!"
     },
     "965": {
         "●と★が入れかわる": "● and ★ are|swapped!"
@@ -2976,7 +2976,7 @@
         "clarity_nt_char_992": "clarity_nt_char_992"
     },
     "993": {
-        "毎ターンＨＰが回復！": "Recover HP|each turn!"
+        "毎ターンＨＰが回復！": "Recover HP each turn!"
     },
     "994": {
         "clarity_nt_char_994": "clarity_nt_char_994"
