@@ -477,7 +477,7 @@
         "「他に　用事あるか？|<break>": ""
     },
     "160": {
-        "「……種族　変える？|　よく　わからない。でも　やってみる。|<br>|「オマエ　もうひとつの姿。|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えるか？|<yesno><break>": ""
+        "「……種族　変える？|　よく　わからない。でも　やってみる。|<br>|「オマエ　もうひとつの姿。|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えるか？|<yesno><break>": "...change your race?|I'm not really sure, but... I'll try.|<br>|There exists another version of you.|Do you want to change from <%sL_RACE_NOW>|to <%sL_RACE_AFTER>, my child?|<yesno><break>"
     },
     "161": {
         "「……なら　旅の無事　神に祈れ。|<br>|「オマエが　チカラ尽きた時の復活場所。|　<%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>の教会から|　オレの前に変更して　いいか？|<yesno><break>": ""
