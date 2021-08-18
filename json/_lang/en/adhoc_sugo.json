@@ -18,7 +18,7 @@
         "<%sCAS_gambler>は|ちかくの教会で　いきかえった！": "<%sCAS_gambler> revived at a nearby|church!"
     },
     "7": {
-        "<%sCAS_monster>が　あらわれた！": "<%sCAS_monster> draws near!"
+        "<%sCAS_monster>が　あらわれた！": "A <%sCAS_monster> draws near!"
     },
     "8": {
         "<%sCAS_monster>を　やっつけた！": "<%sCAS_monster> was defeated!"
