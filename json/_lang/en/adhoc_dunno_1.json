@@ -216,7 +216,7 @@
         "未使用": ""
     },
     "73": {
-        "<%sC_Kaisou>に　行きます。|よろしいですか？<yesno><close>": ""
+        "<%sC_Kaisou>に　行きます。|よろしいですか？<yesno><close>": "Go to <%sC_Kaisou>?<yesno><close>"
     },
     "74": {
         "闇の中に　<%sC_ITEM_NAME>がある。|勇気の輝きを　<%nC_KAGAYAKI_NUM>使って　手に入れますか？|<yesno><close>": ""
