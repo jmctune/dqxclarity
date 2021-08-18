@@ -172,11 +172,11 @@ def get_latest_from_weblate():
                     f'json/_lang/ja/{name[0]}{name[1]}'
                 )
             if file.startswith(f'dqxclarity-weblate/{HEX_DICT}'):
-                archive.extract(file, 'hex/files/')
+                archive.extract(file, '.')
                 name = os.path.splitext(os.path.basename(file))
                 shutil.move(
-                    f'hex/files/{file}',
-                    f'hex/{name[0]}{name[1]}'
+                    f'{file}',
+                    f'{name[0]}{name[1]}'
                 )
 
     __delete_folder('json/_lang/en/dqxclarity-weblate')
@@ -184,6 +184,7 @@ def get_latest_from_weblate():
     __delete_folder('json/_lang/ja/dqxclarity-weblate')
     __delete_folder('json/_lang/ja/ja')
     __delete_folder('hex/files/dqxclarity-weblate')
+    __delete_folder('dqxclarity-weblate')
     os.remove('weblate.zip')
     click.secho('Now up to date!', fg='green')
 
@@ -334,6 +335,8 @@ def scan_for_names(byte_pattern):
         byte_codes = [
             b'\xE3',
             b'\xE4',
+            b'\xE5',
+            b'\xE6',
             b'\xE7',
             b'\xE8',
             b'\xE9'

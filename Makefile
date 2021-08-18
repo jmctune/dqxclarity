@@ -4,8 +4,11 @@ build:
 	python setup.py
 
 release:
+	make clean
+	make build
 	move dist\dqxclarity.exe .
-	"C:\Program Files\7-Zip\7z.exe" a -tzip dqxclarity.zip -r json/_lang/en json/_lang/ja dqxclarity.exe hex
+	"C:\Program Files\7-Zip\7z.exe" a -tzip dqxclarity.zip -r json/_lang/en json/_lang/ja dqxclarity.exe hex_dict.csv
+	python calculate_sha.py
 
 lint:
 	pylint --rcfile=.pylintrc setup.py
