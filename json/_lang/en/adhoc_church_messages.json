@@ -459,13 +459,13 @@
         "「<%sL_RULA_POINT>には|　いくつかの　行き先がありますわ。|　どの場所を覚えさせますか？<break>": ""
     },
     "154": {
-        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|やめる|<select_end><break>": ""
+        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|Cancel|<select_end><break>"
     },
     "155": {
-        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": ""
+        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|Cancel|<select_end><break>"
     },
     "156": {
-        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": ""
+        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|Cancel|<select_end><break>"
     },
     "157": {
         "「……オレ　神父の修行した。|　だから　神父できる。|　オマエ　用事　言え。|<ask><bw_break>": ""
