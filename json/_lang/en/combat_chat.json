@@ -2667,7 +2667,7 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの 必殺技！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's Special!"
     },
     "890": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 全身に ちからを ためた！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 全身に ちからを ためた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e built up their strength!"
     },
     "891": {
         "clarity_nt_char_320": "clarity_nt_char_320"
@@ -3249,7 +3249,7 @@
         "落とし穴が 作動した。": ""
     },
     "1084": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 全身に ちからを ためている！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 全身に ちからを ためている！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e is building their strength!"
     },
     "1085": {
         "clarity_nt_char_382": "clarity_nt_char_382"
