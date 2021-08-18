@@ -96,10 +96,10 @@
         "<speed=0>正常にベットできなかった　コインがあります。|ベットできなかったコインは　返却されました。<auto_bw=4000><close>": ""
     },
     "33": {
-        "<%sCAS_monster>は　ダウンから　立ち直った！|体力が　回復した。": ""
+        "<%sCAS_monster>は　ダウンから　立ち直った！|体力が　回復した。": "<%sCAS_monster> got back up!|Its strength has recovered."
     },
     "34": {
-        "<%sCAS_monster>は　ダウンした！|ダウン中は　コイン入手量が２倍になります！": ""
+        "<%sCAS_monster>は　ダウンした！|ダウン中は　コイン入手量が２倍になります！": "<%sCAS_monster> is down!|Coins will be doubled while its down!"
     },
     "35": {
         "<%sCAS_gambler>の　こうげき！<auto_br=2500>|コイン<%dM_coin>枚（内　ボーナス<%dM_coin_bonus>枚）かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": ""

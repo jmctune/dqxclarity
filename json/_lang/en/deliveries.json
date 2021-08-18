@@ -399,46 +399,46 @@
         "せいどうの盾の納品": "Bronze Shield Delivery"
     },
     "134": {
-        "せいどうのかぶとの納品": ""
+        "せいどうのかぶとの納品": "Bronze Helm Delivery"
     },
     "135": {
-        "せいどうのよろい上の納品": ""
+        "せいどうのよろい上の納品": "Bronze Armour Top Delivery"
     },
     "136": {
         "clarity_nt_char_51": "clarity_nt_char_51"
     },
     "137": {
-        "せいどうのよろい下の納品": ""
+        "せいどうのよろい下の納品": "Bronze Armor Bottom Delivery"
     },
     "138": {
         "clarity_nt_char_52": "clarity_nt_char_52"
     },
     "139": {
-        "せいどうのこての納品": ""
+        "せいどうのこての納品": "Bronze Gauntlets Delivery"
     },
     "140": {
         "clarity_nt_char_53": "clarity_nt_char_53"
     },
     "141": {
-        "せいどうのブーツの納品": ""
+        "せいどうのブーツの納品": "Bronze Boots Delivery"
     },
     "142": {
-        "うろこのかぶとの納品": ""
+        "うろこのかぶとの納品": "Scale Helm Delivery"
     },
     "143": {
         "clarity_nt_char_54": "clarity_nt_char_54"
     },
     "144": {
-        "うろこのよろい上の納品": ""
+        "うろこのよろい上の納品": "Scale Armor Top Delivery"
     },
     "145": {
-        "うろこのよろい下の納品": ""
+        "うろこのよろい下の納品": "Scale Armor Bottom Delivery"
     },
     "146": {
-        "うろこのこての納品": ""
+        "うろこのこての納品": "Scale Gloves Delivery"
     },
     "147": {
-        "うろこのブーツの納品": ""
+        "うろこのブーツの納品": "Scale Boots Delivery"
     },
     "148": {
         "clarity_nt_char_55": "clarity_nt_char_55"
@@ -447,19 +447,19 @@
         "ライトバックラーの納品": "Light Shield Delivery"
     },
     "150": {
-        "くさりのはちがねの納品": ""
+        "くさりのはちがねの納品": "Chain Headgear Delivery"
     },
     "151": {
-        "くさりかたびら上の納品": ""
+        "くさりかたびら上の納品": "Chain Mail Top Delivery"
     },
     "152": {
-        "くさりかたびら下の納品": ""
+        "くさりかたびら下の納品": "Chain Mail Bottom Delivery"
     },
     "153": {
-        "くさりのあみごての納品": ""
+        "くさりのあみごての納品": "Chain Bracers Delivery"
     },
     "154": {
-        "くさりのあみぐつの納品": ""
+        "くさりのあみぐつの納品": "Chain Boots Delivery"
     },
     "155": {
         "シルバートレイの納品": "Silver Platter Delivery"
@@ -468,31 +468,31 @@
         "clarity_nt_char_56": "clarity_nt_char_56"
     },
     "157": {
-        "ぎんのはちがねの納品": ""
+        "ぎんのはちがねの納品": "Silver Band Delivery"
     },
     "158": {
         "clarity_nt_char_57": "clarity_nt_char_57"
     },
     "159": {
-        "ぎんのむねあての納品": ""
+        "ぎんのむねあての納品": "Silver Cuirass Delivery"
     },
     "160": {
         "clarity_nt_char_58": "clarity_nt_char_58"
     },
     "161": {
-        "ぎんのこしだれの納品": ""
+        "ぎんのこしだれの納品": "Silver Faulds Delivery"
     },
     "162": {
         "clarity_nt_char_59": "clarity_nt_char_59"
     },
     "163": {
-        "ぎんのこての納品": ""
+        "ぎんのこての納品": "Silver Gauntlet Delivery"
     },
     "164": {
         "clarity_nt_char_60": "clarity_nt_char_60"
     },
     "165": {
-        "ぎんのブーツの納品": ""
+        "ぎんのブーツの納品": "Silver Boots Delivery"
     },
     "166": {
         "ホワイトバックラーの納品": "White Shield Delivery"
@@ -501,22 +501,22 @@
         "clarity_nt_char_61": "clarity_nt_char_61"
     },
     "168": {
-        "はがねのかぶとの納品": ""
+        "はがねのかぶとの納品": "Steel Helmet Delivery"
     },
     "169": {
         "clarity_nt_char_62": "clarity_nt_char_62"
     },
     "170": {
-        "はがねのよろい上の納品": ""
+        "はがねのよろい上の納品": "Steel Armor Top Delivery"
     },
     "171": {
-        "はがねのよろい下の納品": ""
+        "はがねのよろい下の納品": "Steel Armor Bottom Delivery"
     },
     "172": {
-        "はがねのこての納品": ""
+        "はがねのこての納品": "Steel Gauntlets Delivery"
     },
     "173": {
-        "はがねのグリーブの納品": ""
+        "はがねのグリーブの納品": "Steel Greaves Delivery"
     },
     "174": {
         "まほうのよろい下の納品": "Magic Armor Bottom Delivery"
@@ -813,79 +813,79 @@
         "麻のくつの納品": ""
     },
     "272": {
-        "ぬすっとずきんの納品": ""
+        "ぬすっとずきんの納品": "Robber's Hood Delivery"
     },
     "273": {
         "clarity_nt_char_98": "clarity_nt_char_98"
     },
     "274": {
-        "ぬすっとの服の納品": ""
+        "ぬすっとの服の納品": "Robber's Shirt Delivery"
     },
     "275": {
-        "ぬすっとタイツの納品": ""
+        "ぬすっとタイツの納品": "Robber's Tights Delivery"
     },
     "276": {
         "clarity_nt_char_99": "clarity_nt_char_99"
     },
     "277": {
-        "ぬすっとのうでわの納品": ""
+        "ぬすっとのうでわの納品": "Robber's Bangles Delivery"
     },
     "278": {
-        "ぬすっとのくつの納品": ""
+        "ぬすっとのくつの納品": "Robber's Shoes Delivery"
     },
     "279": {
         "clarity_nt_char_100": "clarity_nt_char_100"
     },
     "280": {
-        "サフランハットの納品": ""
+        "サフランハットの納品": "Saffron Hat Delivery"
     },
     "281": {
         "clarity_nt_char_101": "clarity_nt_char_101"
     },
     "282": {
-        "サフランローブ上の納品": ""
+        "サフランローブ上の納品": "Saffron Robe Top Delivery"
     },
     "283": {
-        "サフランローブ下の納品": ""
+        "サフランローブ下の納品": "Saffron Robe Bottom Delivery"
     },
     "284": {
-        "サフラングローブの納品": ""
+        "サフラングローブの納品": "Saffron Gloves Delivery"
     },
     "285": {
-        "サフランブーツの納品": ""
+        "サフランブーツの納品": "Saffron Boots Delivery"
     },
     "286": {
         "clarity_nt_char_102": "clarity_nt_char_102"
     },
     "287": {
-        "はやてのバンダナの納品": ""
+        "はやてのバンダナの納品": "Agility Bandana Delivery"
     },
     "288": {
-        "はやてのベストの納品": ""
+        "はやてのベストの納品": "Agility Gilet Delivery"
     },
     "289": {
         "clarity_nt_char_103": "clarity_nt_char_103"
     },
     "290": {
-        "はやてのキュロットの納品": ""
+        "はやてのキュロットの納品": "Agility Culottes Delivery"
     },
     "291": {
         "clarity_nt_char_104": "clarity_nt_char_104"
     },
     "292": {
-        "はやてのグローブの納品": ""
+        "はやてのグローブの納品": "Agility Gloves Delivery"
     },
     "293": {
-        "はやてのブーツの納品": ""
+        "はやてのブーツの納品": "Agility Boots Delivery"
     },
     "294": {
         "clarity_nt_char_105": "clarity_nt_char_105"
     },
     "295": {
-        "カンフーキャップの納品": ""
+        "カンフーキャップの納品": "Kung Fu Cap Delivery"
     },
     "296": {
-        "カンフージャケットの納品": ""
+        "カンフージャケットの納品": "Kung Fu Jacket Delivery"
     },
     "297": {
         "clarity_nt_char_106": "clarity_nt_char_106"
@@ -1701,7 +1701,7 @@
         "くろがねのブーツの納品": "Black Iron Boots Delivery"
     },
     "568": {
-        "木の葉のよろい上の納品": ""
+        "木の葉のよろい上の納品": "Foliage Armor Top Delivery"
     },
     "569": {
         "森人のぼうしの納品": "Woodland Hat Delivery"
@@ -1791,25 +1791,25 @@
         "はがねの大盾の納品": "Steel Greatshield Delivery"
     },
     "598": {
-        "新兵支給かぶとの納品": ""
+        "新兵支給かぶとの納品": "Recruit Helmet Delivery"
     },
     "599": {
         "clarity_nt_char_212": "clarity_nt_char_212"
     },
     "600": {
-        "新兵支給むねあての納品": ""
+        "新兵支給むねあての納品": "Recruit Breastplate Delivery"
     },
     "601": {
         "王宮魔術師のくつの納品": "Royal Magician Shoes Delivery"
     },
     "602": {
-        "マタドールスーツ上の納品": ""
+        "マタドールスーツ上の納品": "Matador Suit Top Delivery"
     },
     "603": {
         "clarity_nt_char_213": "clarity_nt_char_213"
     },
     "604": {
-        "まじないしローブ下の納品": ""
+        "まじないしローブ下の納品": "Fizzle-Retardant Bottom Delivery"
     },
     "605": {
         "clarity_nt_char_214": "clarity_nt_char_214"
@@ -1821,7 +1821,7 @@
         "clarity_nt_char_215": "clarity_nt_char_215"
     },
     "608": {
-        "初級魔法戦士服の納品": ""
+        "初級魔法戦士服の納品": "Novice ARM Coat Delivery"
     },
     "609": {
         "clarity_nt_char_216": "clarity_nt_char_216"
@@ -1887,7 +1887,7 @@
         "clarity_nt_char_222": "clarity_nt_char_222"
     },
     "630": {
-        "手品師の服の納品": ""
+        "手品師の服の納品": "Conjurer's Garb Delivery"
     },
     "631": {
         "clarity_nt_char_223": "clarity_nt_char_223"

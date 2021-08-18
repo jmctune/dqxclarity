@@ -84,7 +84,7 @@
         "カジノレイド中です。|この　カジノレイドに　参加しますか？|<yesno_nc><close>": "A casino raid is in progress.|Join the casino raid?|<yesno_nc><close>"
     },
     "29": {
-        "<%sCAS_monster>は　にげだした！<auto_bw=3000><close>": ""
+        "<%sCAS_monster>は　にげだした！<auto_bw=3000><close>": "<%sCAS_monster> ran away!<auto_bw=3000><close>"
     },
     "30": {
         "まわりのプレイヤーと協力して　時間内に|<%sCAS_monster>を　倒してください！<auto_br=4000>|カジノレイド中は　コインが減りませんので|強気にガンガンせめて　コインをかせぎましょう！<auto_bw=4000><close>": "Cooperate with nearby players to defeat the|<%sCAS_monster>!<auto_br=4000>|Don't worry about losing coins during the|raid, so go all out to beat the boss and win a|lot of coins!<auto_bw=4000><auto_bw=4000><close>"
@@ -117,28 +117,28 @@
         "<%dM_coin>枚の　コインを　かくとくしました！": ""
     },
     "40": {
-        "カジノレイドが　続いています。": ""
+        "カジノレイドが　続いています。": "Casino Raid is in progress."
     },
     "41": {
         "宝箱が　まだ　開いていません。": ""
     },
     "42": {
-        "テンションアップ効果が　発生しています。": ""
+        "テンションアップ効果が　発生しています。": "Tension Boost effect is occurring."
     },
     "43": {
         "ほんとうに　終了してよろしいですか？<yesno_nc 2><close>": "Are you sure you want to quit?<yesno_nc 2><close>"
     },
     "44": {
-        "テンションアップこうげき！<auto_br=2500>|コイン<%dM_coin>枚　かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": ""
+        "テンションアップこうげき！<auto_br=2500>|コイン<%dM_coin>枚　かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "Tension Boost Attack!<auto_br=2500>|Received <%dM_coin> Coins!|<%dCAS_damage> damage to <%sCAS_monster>!<auto_bw=3000><close>"
     },
     "45": {
         "<speed=0>オープンしている　カードより|強いカードを　右の３枚から　選んでください。": ""
     },
     "46": {
-        "テンションアップ効果が　終了しました。": ""
+        "テンションアップ効果が　終了しました。": "Tension Boost effect has ended."
     },
     "47": {
-        "<speed=0><cursor>で　かけきんを決めてから|<convenience>を　押してください。": ""
+        "<speed=0><cursor>で　かけきんを決めてから|<convenience>を　押してください。": "<speed=0>Please press <convenience> after selecting|a bet with <cursor>."
     },
     "48": {
         "カギが　すべて　なくなったので|宝箱を　開きます！": ""
@@ -195,22 +195,22 @@
         "<speed=0><cursor>で|かけきんを決めて　<convenience>でスタートします。": "<speed=0>Choose a bet with <cursor>.|Press <convenience> to start."
     },
     "66": {
-        "<speed=0><cursor>で|かけきんを決めて　<convenience>でスタートします。<auto_bw=4000><close>": ""
+        "<speed=0><cursor>で|かけきんを決めて　<convenience>でスタートします。<auto_bw=4000><close>": "<speed=0>Choose a bet with <cursor>.|Press <convenience> to start.<auto_bw=4000><close>"
     },
     "67": {
-        "<speed=0><cursor>で|かけきんを決めてから　スタートしてください。": ""
+        "<speed=0><cursor>で|かけきんを決めてから　スタートしてください。": "<speed=0>Use <cursor> to select a bet,|and then start."
     },
     "68": {
         "<speed=0><cursor>で|かけきんを決めて　<convenience>でスタートします。": "<speed=0>Choose a bet with <cursor>.|Press <convenience> to start."
     },
     "69": {
-        "カジノレイドを　発生させました。|<%dM_coin>枚のコインが　当たりました。|<auto_bw=3000><close>": ""
+        "カジノレイドを　発生させました。|<%dM_coin>枚のコインが　当たりました。|<auto_bw=3000><close>": "Caused a Casino Raid.|Won <%dM_coin> coins.|<auto_bw=3000><close>"
     },
     "70": {
-        "<%sCAS_monster>は　ダウンから　立ち直った！|体力が　回復した。": ""
+        "<%sCAS_monster>は　ダウンから　立ち直った！|体力が　回復した。": "<%sCAS_monster> got back up!|Its strength has recovered."
     },
     "71": {
-        "<%sCAS_monster>は　ダウンした！|ダウン中は　コイン入手量が２倍になります！": ""
+        "<%sCAS_monster>は　ダウンした！|ダウン中は　コイン入手量が２倍になります！": "<%sCAS_monster> is down!|Coins will be doubled while its down!"
     },
     "72": {
         "コイン<%dM_coin>枚（内 ボーナス<%dM_coin_bonus>枚）かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": ""

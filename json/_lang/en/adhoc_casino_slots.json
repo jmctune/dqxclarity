@@ -213,46 +213,46 @@
         "ほんとうに　終了してよろしいですか？<yesno_nc 2><close>": "Are you sure you want to quit?<yesno_nc 2><close>"
     },
     "72": {
-        "<speed=0><convenience>を押すと　スロットが　まわります。": ""
+        "<speed=0><convenience>を押すと　スロットが　まわります。": "<speed=0>Press <convenience> to spin the slots."
     },
     "73": {
-        "メタルスピンが　残っています。": ""
+        "メタルスピンが　残っています。": "You still have Metal Spins left."
     },
     "74": {
-        "フリースピンが　残っています。": ""
+        "フリースピンが　残っています。": "You still have Free Spins left."
     },
     "75": {
-        "カジノレイドが　続いています。": ""
+        "カジノレイドが　続いています。": "Casino Raid is in progress."
     },
     "76": {
-        "テンションアップ効果が　発生しています。": ""
+        "テンションアップ効果が　発生しています。": "Tension Boost effect is occurring."
     },
     "77": {
-        "テンションアップこうげき！<auto_br=2500>|コイン<%dM_coin>枚　かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": ""
+        "テンションアップこうげき！<auto_br=2500>|コイン<%dM_coin>枚　かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "Tension Boost Attack!<auto_br=2500>|Received <%dM_coin> Coins!|<%dCAS_damage> damage to <%sCAS_monster>!<auto_bw=3000><close>"
     },
     "78": {
-        "テンションアップ効果が　終了しました。": ""
+        "テンションアップ効果が　終了しました。": "Tension Boost effect has ended."
     },
     "79": {
-        "<speed=0><cursor>で　かけきんを決めてから|<convenience>を　押してください。": ""
+        "<speed=0><cursor>で　かけきんを決めてから|<convenience>を　押してください。": "<speed=0>Please press <convenience> after selecting|a bet with <cursor>."
     },
     "80": {
-        "なんと　当たった時の　こうげきりょくが|大幅にアップした！<auto_bw=2500><close>": ""
+        "なんと　当たった時の　こうげきりょくが|大幅にアップした！<auto_bw=2500><close>": "Attack power when hitting has greatly|increased!<auto_bw=2500><close>"
     },
     "81": {
-        "メタルスピンの　続く　回数が|最大値に　たっした！": ""
+        "メタルスピンの　続く　回数が|最大値に　たっした！": "Number of Metal Spins has reached the maximum|value!"
     },
     "82": {
-        "フリースピンの　続く　回数が|最大値に　たっした！": ""
+        "フリースピンの　続く　回数が|最大値に　たっした！": "Number of Free Spins has reached the maximum|value!"
     },
     "83": {
-        "メタルスピンが　残っています。<auto_bw=2500><close>": ""
+        "メタルスピンが　残っています。<auto_bw=2500><close>": "You still have Metal Spins left.<auto_bw=2500><close>"
     },
     "84": {
-        "カジノレイドが　続いています。<auto_bw=2500><close>": ""
+        "カジノレイドが　続いています。<auto_bw=2500><close>": "A Casino Raid is in progress. <auto_bw=2500><close>"
     },
     "85": {
-        "テンションアップ効果が　発生しています。<auto_bw=2500><close>": ""
+        "テンションアップ効果が　発生しています。<auto_bw=2500><close>": "Tension Boost effect is occurring.<auto_bw=2500><close>"
     },
     "86": {
         "ほんとうに　終了してよろしいですか？<yesno_nc 2><close>": "Are you sure you want to quit?<yesno_nc 2><close>"
@@ -303,27 +303,27 @@
         "<speed=0><cursor>で|かけきんを決めて　<convenience>でスタートします。": "<speed=0>Choose a bet with <cursor>.|Press <convenience> to start."
     },
     "102": {
-        "<speed=0><cursor>で|かけきんを決めて　<convenience>でスタートします。<auto_bw=2500><close>": ""
+        "<speed=0><cursor>で|かけきんを決めて　<convenience>でスタートします。<auto_bw=2500><close>": "<speed=0>Choose a bet with <cursor>.|Press <convenience> to start.<auto_bw=2500><close>"
     },
     "103": {
-        "<speed=0><cursor>で|かけきんを決めてから　スタートしてください。": ""
+        "<speed=0><cursor>で|かけきんを決めてから　スタートしてください。": "<speed=0>Use <cursor> to select a bet,|and then start."
     },
     "104": {
         "<speed=0><cursor>で|かけきんを決めて　<convenience>でスタートします。": "<speed=0>Choose a bet with <cursor>.|Press <convenience> to start."
     },
     "105": {
-        "カジノレイドを　発生させました。|<%dM_coin>枚のコインが　当たりました。|<auto_bw=3000><close>": ""
+        "カジノレイドを　発生させました。|<%dM_coin>枚のコインが　当たりました。|<auto_bw=3000><close>": "Caused a Casino Raid.|Won <%dM_coin> coins.|<auto_bw=3000><close>"
     },
     "106": {
-        "<%sCAS_monster>は　ダウンから　立ち直った！|体力が　回復した。": ""
+        "<%sCAS_monster>は　ダウンから　立ち直った！|体力が　回復した。": "<%sCAS_monster> got back up!|Its strength has recovered."
     },
     "107": {
-        "<%sCAS_monster>は　ダウンした！|ダウン中は　コイン入手量が２倍になります！": ""
+        "<%sCAS_monster>は　ダウンした！|ダウン中は　コイン入手量が２倍になります！": "<%sCAS_monster> is down!|Coins will be doubled while its down!"
     },
     "108": {
-        "コイン<%dM_coin>枚（内　ボーナス<%dM_coin_bonus>枚）かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": ""
+        "コイン<%dM_coin>枚（内　ボーナス<%dM_coin_bonus>枚）かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "Received <%dM_coin> (Including <%dM_coin_bonus> Bonus) Coins!||<%dCAS_damage> damage to <%sCAS_monster>!<auto_bw=3000><close>"
     },
     "109": {
-        "テンションアップこうげき！<auto_br=2500>|コイン<%dM_coin>枚（内　ボーナス<%dM_coin_bonus>枚）かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": ""
+        "テンションアップこうげき！<auto_br=2500>|コイン<%dM_coin>枚（内　ボーナス<%dM_coin_bonus>枚）かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "Tension Boost Attack!<auto_br=2500>|Received <%dM_coin> (Including <%dM_coin_bonus> Bonus) Coins!|<%dCAS_damage> damage to <%sCAS_monster>!<auto_bw=3000><close>"
     }
 }

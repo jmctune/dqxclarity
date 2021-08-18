@@ -150,7 +150,7 @@
         "clarity_nt_char_10": "clarity_nt_char_10"
     },
     "51": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>武器屋・防具屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>武器屋・防具屋": "<%sW_MAP_NAME><%sW_DELIMITER>Weapon & Armor Shop"
     },
     "52": {
         "clarity_nt_char_11": "clarity_nt_char_11"
@@ -1998,7 +1998,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>荒野の休息所": "<%sW_MAP_NAME><%sW_DELIMITER>Wilderness Retreat"
     },
     "667": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>崩れゆく廃墟": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>崩れゆく廃墟": "<%sW_MAP_NAME><%sW_DELIMITER>Crumbling Ruins"
     },
     "668": {
         "<%sW_MAP_NAME><%sW_DELIMITER>マグマの滝": "<%sW_MAP_NAME><%sW_DELIMITER>Magma Falls"
@@ -2673,7 +2673,7 @@
         "亡都の地下堂 出口": ""
     },
     "892": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>素材屋・道具屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>素材屋・道具屋": "<%sW_MAP_NAME><%sW_DELIMITER>Mat. Shop/Item Shop"
     },
     "893": {
         "clarity_nt_char_282": "clarity_nt_char_282"
@@ -3492,7 +3492,7 @@
         "clarity_nt_char_370": "clarity_nt_char_370"
     },
     "1165": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>祈りの宿-道具屋": "<%sW_MAP_NAME><%sW_DELIMITER>Prayer Inn Tool Shop"
+        "<%sW_MAP_NAME><%sW_DELIMITER>祈りの宿-道具屋": "<%sW_MAP_NAME><%sW_DELIMITER>Prayer Inn - Item Shop"
     },
     "1166": {
         "<%sW_MAP_NAME><%sW_DELIMITER>祈りの宿-預かり所": "<%sW_MAP_NAME><%sW_DELIMITER>Prayer Inn - Depository"
@@ -6123,13 +6123,13 @@
         "ダラリア砂岩遺跡 出口": ""
     },
     "2042": {
-        "崩れゆく虚室 出口": ""
+        "崩れゆく虚室 出口": "Crumbling Ruins Exit"
     },
     "2043": {
         "ダラリア砂岩遺跡 入口": ""
     },
     "2044": {
-        "崩れゆく虚室 入口": ""
+        "崩れゆく虚室 入口": "Crumbling Ruins Entrance"
     },
     "2045": {
         "ゴズ渓谷への道": ""
@@ -9843,7 +9843,7 @@
         "clarity_nt_char_1047": "clarity_nt_char_1047"
     },
     "3282": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>モンスター酒場・道具屋": "<%sW_MAP_NAME><%sW_DELIMITER>Monster Bar - Tool Shop"
+        "<%sW_MAP_NAME><%sW_DELIMITER>モンスター酒場・道具屋": "<%sW_MAP_NAME><%sW_DELIMITER>Monster Bar - Item Shop"
     },
     "3283": {
         "clarity_nt_char_1048": "clarity_nt_char_1048"

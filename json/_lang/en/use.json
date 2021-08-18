@@ -1995,7 +1995,7 @@
         "まいゆのうちわ": "Maille Fan"
     },
     "666": {
-        "せらふぃのうちわ": "Seraphi Fan"
+        "せらふぃのうちわ": "Seraphy Fan"
     },
     "667": {
         "clarity_nt_char_211": "clarity_nt_char_211"
@@ -3138,7 +3138,7 @@
         "clarity_nt_char_338": "clarity_nt_char_338"
     },
     "1047": {
-        "はやてのりんぐ": ""
+        "はやてのりんぐ": "Agility Ring"
     },
     "1048": {
         "りせいのりんぐ": ""
@@ -3279,7 +3279,7 @@
         "ふしぎのかーど": ""
     },
     "1094": {
-        "あそびにんのつけばな": ""
+        "あそびにんのつけばな": "Gadabout's Fake Nose"
     },
     "1095": {
         "clarity_nt_char_352": "clarity_nt_char_352"
@@ -3342,7 +3342,7 @@
         "まおうのねっくれす": ""
     },
     "1115": {
-        "うらないしのあかし": ""
+        "うらないしのあかし": "F.Teller Emblem"
     },
     "1116": {
         "おどりこのあかし": ""
@@ -3609,7 +3609,7 @@
         "わかばのぴあす": ""
     },
     "1204": {
-        "あそびにんのものくる": ""
+        "あそびにんのものくる": "Gadabout's Monocle"
     },
     "1205": {
         "clarity_nt_char_384": "clarity_nt_char_384"
@@ -3654,7 +3654,7 @@
         "clarity_nt_char_387": "clarity_nt_char_387"
     },
     "1219": {
-        "そうりょのあかし": ""
+        "そうりょのあかし": "Priest Emblem"
     },
     "1220": {
         "clarity_nt_char_388": "clarity_nt_char_388"
@@ -3678,7 +3678,7 @@
         "clarity_nt_char_391": "clarity_nt_char_391"
     },
     "1227": {
-        "ばとるますたーのあかし": ""
+        "ばとるますたーのあかし": "Battlemaster Emblem"
     },
     "1228": {
         "ぱらでぃんのあかし": ""
@@ -3690,7 +3690,7 @@
         "clarity_nt_char_392": "clarity_nt_char_392"
     },
     "1231": {
-        "れんじゃーのあかし": ""
+        "れんじゃーのあかし": "Ranger Emblem"
     },
     "1232": {
         "けんじゃのあかし": ""
@@ -3726,7 +3726,7 @@
         "ぱわーちゃーむ": ""
     },
     "1243": {
-        "うさぎのおまもり": ""
+        "うさぎのおまもり": "Bunny Tail"
     },
     "1244": {
         "clarity_nt_char_397": "clarity_nt_char_397"
@@ -3744,13 +3744,13 @@
         "clarity_nt_char_399": "clarity_nt_char_399"
     },
     "1249": {
-        "まものつかいのあかし": ""
+        "まものつかいのあかし": "Monster Master Emblem"
     },
     "1250": {
         "clarity_nt_char_400": "clarity_nt_char_400"
     },
     "1251": {
-        "どうぐつかいのあかし": ""
+        "どうぐつかいのあかし": "Item Master Emblem"
     },
     "1252": {
         "clarity_nt_char_401": "clarity_nt_char_401"
@@ -3852,16 +3852,16 @@
         "clarity_nt_char_409": "clarity_nt_char_409"
     },
     "1285": {
-        "うろこのよろいうえ": ""
+        "うろこのよろいうえ": "Scale Armor Top"
     },
     "1286": {
-        "てつのよろいうえ": ""
+        "てつのよろいうえ": "Iron Armor Top"
     },
     "1287": {
         "clarity_nt_char_410": "clarity_nt_char_410"
     },
     "1288": {
-        "はがねのよろいうえ": ""
+        "はがねのよろいうえ": "Steel Armor Top"
     },
     "1289": {
         "せんしのよろい": ""
@@ -3873,7 +3873,7 @@
         "clarity_nt_char_411": "clarity_nt_char_411"
     },
     "1292": {
-        "ぎんのむねあて": ""
+        "ぎんのむねあて": "Silver Cuirass"
     },
     "1293": {
         "がいかのよろいうえ": "Victory Song Chest"
@@ -3882,19 +3882,19 @@
         "やいばのよろいうえ": "Spiked Armor Top"
     },
     "1295": {
-        "おうじゃのまんと": ""
+        "おうじゃのまんと": "Champion Cloak"
     },
     "1296": {
         "clarity_nt_char_412": "clarity_nt_char_412"
     },
     "1297": {
-        "しゅうれんぎうえ": ""
+        "しゅうれんぎうえ": "Training Tank Top"
     },
     "1298": {
         "clarity_nt_char_413": "clarity_nt_char_413"
     },
     "1299": {
-        "かんふーじゃけっと": ""
+        "かんふーじゃけっと": "Kung Fu Jacket"
     },
     "1300": {
         "こぶどうぎうえ": ""
@@ -3930,19 +3930,19 @@
         "あさのふく": ""
     },
     "1311": {
-        "またどーるすーつうえ": ""
+        "またどーるすーつうえ": "Matador Suit Top"
     },
     "1312": {
         "clarity_nt_char_416": "clarity_nt_char_416"
     },
     "1313": {
-        "さふらんろーぶうえ": ""
+        "さふらんろーぶうえ": "Saffron Robe Top"
     },
     "1314": {
         "おうきゅうまじゅつしろーぶうえ": ""
     },
     "1315": {
-        "まほうつかいのふく": ""
+        "まほうつかいのふく": "Mage Shirt"
     },
     "1316": {
         "まどうしのころもうえ": "Wizard's Robe Top"
@@ -3969,22 +3969,22 @@
         "clarity_nt_char_419": "clarity_nt_char_419"
     },
     "1324": {
-        "まもりのろーぶ": ""
+        "まもりのろーぶ": "Protective Robe"
     },
     "1325": {
-        "いやしのふく": ""
+        "いやしのふく": "Healing Shirt"
     },
     "1326": {
         "clarity_nt_char_420": "clarity_nt_char_420"
     },
     "1327": {
-        "くすしのろーぶうえ": ""
+        "くすしのろーぶうえ": "Apothecary Robe Top"
     },
     "1328": {
         "ほーりーろーぶうえ": ""
     },
     "1329": {
-        "そうりょのほうい": ""
+        "そうりょのほうい": "Priest Robe"
     },
     "1330": {
         "clarity_nt_char_421": "clarity_nt_char_421"
@@ -4017,13 +4017,13 @@
         "clarity_nt_char_424": "clarity_nt_char_424"
     },
     "1340": {
-        "わかてげいにんのふく": ""
+        "わかてげいにんのふく": "Young Talent Shirt"
     },
     "1341": {
         "clarity_nt_char_425": "clarity_nt_char_425"
     },
     "1342": {
-        "まじないしろーぶうえ": ""
+        "まじないしろーぶうえ": "Fizzle-Retardant Top"
     },
     "1343": {
         "clarity_nt_char_426": "clarity_nt_char_426"
@@ -4032,7 +4032,7 @@
         "かたりべのふくうえ": "Storyteller's Shirt"
     },
     "1345": {
-        "たびげいにんのいしょううえ": ""
+        "たびげいにんのいしょううえ": "Minstrel Shirt"
     },
     "1346": {
         "きじゅつしのふく": "Illusionist's Shirt"
@@ -4059,13 +4059,13 @@
         "clarity_nt_char_429": "clarity_nt_char_429"
     },
     "1354": {
-        "しんぺいしきゅうむねあて": ""
+        "しんぺいしきゅうむねあて": "Recruit Breastplate"
     },
     "1355": {
         "clarity_nt_char_430": "clarity_nt_char_430"
     },
     "1356": {
-        "せいどうのよろいうえ": ""
+        "せいどうのよろいうえ": "Bronze Armour Top"
     },
     "1357": {
         "clarity_nt_char_431": "clarity_nt_char_431"
@@ -4128,7 +4128,7 @@
         "clarity_nt_char_438": "clarity_nt_char_438"
     },
     "1377": {
-        "ばとますあーまーうえ": ""
+        "ばとますあーまーうえ": "Battlemaster Top"
     },
     "1378": {
         "clarity_nt_char_439": "clarity_nt_char_439"
@@ -4167,13 +4167,13 @@
         "clarity_nt_char_443": "clarity_nt_char_443"
     },
     "1390": {
-        "うぇすたんぶらうす": ""
+        "うぇすたんぶらうす": "Western Blouse"
     },
     "1391": {
-        "みかわしのふくうえ": ""
+        "みかわしのふくうえ": "Evasive Cloak Top"
     },
     "1392": {
-        "まほうせんしだんせいふく": ""
+        "まほうせんしだんせいふく": "Armamentalist Uniform"
     },
     "1393": {
         "clarity_nt_char_444": "clarity_nt_char_444"
@@ -4200,19 +4200,19 @@
         "ろいやるまんと": ""
     },
     "1401": {
-        "しょきゅうまほうせんしふく": ""
+        "しょきゅうまほうせんしふく": "Novice ARM Coat"
     },
     "1402": {
-        "このはのよろいうえ": ""
+        "このはのよろいうえ": "Foliage Armor Top"
     },
     "1403": {
-        "しゃしゅのふく": ""
+        "しゃしゅのふく": "Archer Shirt"
     },
     "1404": {
         "もりびとのちょっき": "Woodland Waistcoat"
     },
     "1405": {
-        "れんじゃーこーとうえ": ""
+        "れんじゃーこーとうえ": "Ranger Coat Top"
     },
     "1406": {
         "clarity_nt_char_447": "clarity_nt_char_447"
@@ -4221,7 +4221,7 @@
         "ひつじのころもうえ": "Sheep Shirt"
     },
     "1408": {
-        "どうぐつかいのふく": ""
+        "どうぐつかいのふく": "Item Master Shirt"
     },
     "1409": {
         "げんしじゅうのこーとうえ": ""
@@ -4239,19 +4239,19 @@
         "れいぶんすーつ": ""
     },
     "1414": {
-        "ぬすっとのふく": ""
+        "ぬすっとのふく": "Robber's Shirt"
     },
     "1415": {
-        "くさりかたびらうえ": ""
+        "くさりかたびらうえ": "Chain Mail Top"
     },
     "1416": {
         "ばんでっどちぇいん": ""
     },
     "1417": {
-        "はやてのべすと": ""
+        "はやてのべすと": "Agility Gilet"
     },
     "1418": {
-        "とうぞくのちゅにっくうえ": ""
+        "とうぞくのちゅにっくうえ": "Thief Tunic"
     },
     "1419": {
         "clarity_nt_char_450": "clarity_nt_char_450"
@@ -4320,13 +4320,13 @@
         "とーてむけーぷうえ": "Totem Cape"
     },
     "1441": {
-        "がくしゃのころもうえ": ""
+        "がくしゃのころもうえ": "Academic Robe Top"
     },
     "1442": {
         "clarity_nt_char_457": "clarity_nt_char_457"
     },
     "1443": {
-        "きぬのろーぶうえ": ""
+        "きぬのろーぶうえ": "Silk Robe Top"
     },
     "1444": {
         "clarity_nt_char_458": "clarity_nt_char_458"
@@ -4341,7 +4341,7 @@
         "clarity_nt_char_459": "clarity_nt_char_459"
     },
     "1448": {
-        "けんじゃのころもうえ": ""
+        "けんじゃのころもうえ": "Sage Robe Top"
     },
     "1449": {
         "clarity_nt_char_460": "clarity_nt_char_460"
@@ -4473,7 +4473,7 @@
         "clarity_nt_char_473": "clarity_nt_char_473"
     },
     "1492": {
-        "まものつかいのふく": ""
+        "まものつかいのふく": "Monster Master Suit"
     },
     "1493": {
         "きゅうめいしゃのこーとうえ": "Researcher's Coat"
@@ -4500,7 +4500,7 @@
         "くいっくじゃけっと": "Quick Jacket"
     },
     "1501": {
-        "だんさーしゃつ": ""
+        "だんさーしゃつ": "Dance Shirt"
     },
     "1502": {
         "あいどるすーつうえ": ""
@@ -4512,13 +4512,13 @@
         "くらうんべすと": ""
     },
     "1505": {
-        "すたーこーと": ""
+        "すたーこーと": "Superstar Coat"
     },
     "1506": {
         "clarity_nt_char_477": "clarity_nt_char_477"
     },
     "1507": {
-        "てじなしのふく": ""
+        "てじなしのふく": "Conjurer's Garb"
     },
     "1508": {
         "すてーじじゃんぱー": ""
@@ -4827,7 +4827,7 @@
         "じょがくせいのぶれざー": ""
     },
     "1610": {
-        "あらくれぼでぃ": ""
+        "あらくれぼでぃ": "Thug's Harness"
     },
     "1611": {
         "しんぷるてぃーしゃつ": ""
@@ -4890,7 +4890,7 @@
         "clarity_nt_char_519": "clarity_nt_char_519"
     },
     "1631": {
-        "おどりこのどれす": ""
+        "おどりこのどれす": "Dancer Dress"
     },
     "1632": {
         "clarity_nt_char_520": "clarity_nt_char_520"
@@ -4926,7 +4926,7 @@
         "clarity_nt_char_523": "clarity_nt_char_523"
     },
     "1643": {
-        "まいてのふく": "Dancer's Shirt"
+        "まいてのふく": "Performer Shirt"
     },
     "1644": {
         "clarity_nt_char_524": "clarity_nt_char_524"
@@ -4953,7 +4953,7 @@
         "clarity_nt_char_527": "clarity_nt_char_527"
     },
     "1652": {
-        "うろこのかぶと": "Scale Helmet"
+        "うろこのかぶと": "Scale Helm"
     },
     "1653": {
         "てつかぶと": "Iron Helmet"
@@ -4962,7 +4962,7 @@
         "はがねのかぶと": "Steel Helmet"
     },
     "1655": {
-        "せんしのかぶと": ""
+        "せんしのかぶと": "Warrior Helm"
     },
     "1656": {
         "ふるつわもののかぶと": ""
@@ -4971,7 +4971,7 @@
         "clarity_nt_char_528": "clarity_nt_char_528"
     },
     "1658": {
-        "ぎんのはちがね": ""
+        "ぎんのはちがね": "Silver Band"
     },
     "1659": {
         "がいかのへるむ": "Victory Song Helm"
@@ -4983,19 +4983,19 @@
         "clarity_nt_char_529": "clarity_nt_char_529"
     },
     "1662": {
-        "おうじゃのかぶと": ""
+        "おうじゃのかぶと": "Champion Helmet"
     },
     "1663": {
         "clarity_nt_char_530": "clarity_nt_char_530"
     },
     "1664": {
-        "しゅうれんようばんど": ""
+        "しゅうれんようばんど": "Training Band"
     },
     "1665": {
         "clarity_nt_char_531": "clarity_nt_char_531"
     },
     "1666": {
-        "かんふーきゃっぷ": ""
+        "かんふーきゃっぷ": "Kung Fu Cap"
     },
     "1667": {
         "clarity_nt_char_532": "clarity_nt_char_532"
@@ -5043,13 +5043,13 @@
         "clarity_nt_char_537": "clarity_nt_char_537"
     },
     "1682": {
-        "またどーるばんど": ""
+        "またどーるばんど": "Matador Band"
     },
     "1683": {
         "clarity_nt_char_538": "clarity_nt_char_538"
     },
     "1684": {
-        "さふらんはっと": ""
+        "さふらんはっと": "Saffron Hat"
     },
     "1685": {
         "おうきゅうまじゅつしぼう": ""
@@ -5058,7 +5058,7 @@
         "clarity_nt_char_539": "clarity_nt_char_539"
     },
     "1687": {
-        "まほうつかいのぼうし": ""
+        "まほうつかいのぼうし": "Mage Hat"
     },
     "1688": {
         "clarity_nt_char_540": "clarity_nt_char_540"
@@ -5085,10 +5085,10 @@
         "まもりのぼうし": "Protective Cap"
     },
     "1696": {
-        "いやしのぼうし": ""
+        "いやしのぼうし": "Healing Hat"
     },
     "1697": {
-        "くすしのぼうし": ""
+        "くすしのぼうし": "Apothecary Hat"
     },
     "1698": {
         "ほーりーかろっと": ""
@@ -5097,7 +5097,7 @@
         "clarity_nt_char_542": "clarity_nt_char_542"
     },
     "1700": {
-        "そうりょのかろっと": ""
+        "そうりょのかろっと": "Priest Calotte"
     },
     "1701": {
         "せいじゃのぼうし": ""
@@ -5130,13 +5130,13 @@
         "clarity_nt_char_546": "clarity_nt_char_546"
     },
     "1711": {
-        "わかてげいにんのばんだな": ""
+        "わかてげいにんのばんだな": "Young Talent Bandana"
     },
     "1712": {
         "clarity_nt_char_547": "clarity_nt_char_547"
     },
     "1713": {
-        "まじないしたーばん": ""
+        "まじないしたーばん": "Fizzle-Retardant Turban"
     },
     "1714": {
         "かたりべのぼうし": "Storyteller's Hat"
@@ -5145,7 +5145,7 @@
         "clarity_nt_char_548": "clarity_nt_char_548"
     },
     "1716": {
-        "たびげいにんのへあばんど": ""
+        "たびげいにんのへあばんど": "Minstrel Headband"
     },
     "1717": {
         "clarity_nt_char_549": "clarity_nt_char_549"
@@ -5169,10 +5169,10 @@
         "clarity_nt_char_550": "clarity_nt_char_550"
     },
     "1724": {
-        "しんぺいしきゅうかぶと": ""
+        "しんぺいしきゅうかぶと": "Recruit Helmet"
     },
     "1725": {
-        "せいどうのかぶと": "Bronze Cap"
+        "せいどうのかぶと": "Bronze Helm"
     },
     "1726": {
         "clarity_nt_char_551": "clarity_nt_char_551"
@@ -5238,7 +5238,7 @@
         "くろがねのはちがね": "Black Iron Band"
     },
     "1747": {
-        "ばとますへっど": ""
+        "ばとますへっど": "Battlemaster Headband"
     },
     "1748": {
         "すぱいくばいざー": ""
@@ -5259,7 +5259,7 @@
         "ぐれーとへるむ": ""
     },
     "1754": {
-        "どうぐつかいのぼうし": ""
+        "どうぐつかいのぼうし": "Item Master Hat"
     },
     "1755": {
         "clarity_nt_char_560": "clarity_nt_char_560"
@@ -5271,19 +5271,19 @@
         "clarity_nt_char_561": "clarity_nt_char_561"
     },
     "1758": {
-        "うぇすたんはっと": ""
+        "うぇすたんはっと": "Western Hat"
     },
     "1759": {
         "clarity_nt_char_562": "clarity_nt_char_562"
     },
     "1760": {
-        "みかわしのぼうし": "Dodge Cap"
+        "みかわしのぼうし": "Evasive Cap"
     },
     "1761": {
         "clarity_nt_char_563": "clarity_nt_char_563"
     },
     "1762": {
-        "まほうせんしだんはっと": ""
+        "まほうせんしだんはっと": "Armamentalist Hat"
     },
     "1763": {
         "そうへいのさーくれっと": ""
@@ -5301,16 +5301,16 @@
         "ろいやるはっと": ""
     },
     "1768": {
-        "しょきゅうまほうせんしべれー": ""
+        "しょきゅうまほうせんしべれー": "Novice ARM Beret"
     },
     "1769": {
         "clarity_nt_char_564": "clarity_nt_char_564"
     },
     "1770": {
-        "このはのぼうし": ""
+        "このはのぼうし": "Foliage Hat"
     },
     "1771": {
-        "しゃしゅのぼうし": ""
+        "しゃしゅのぼうし": "Archer Hat"
     },
     "1772": {
         "clarity_nt_char_565": "clarity_nt_char_565"
@@ -5322,7 +5322,7 @@
         "clarity_nt_char_566": "clarity_nt_char_566"
     },
     "1775": {
-        "れんじゃーしゃぷか": ""
+        "れんじゃーしゃぷか": "Ranger Shapka"
     },
     "1776": {
         "とこなつへあばんど": ""
@@ -5343,10 +5343,10 @@
         "れいぶんへっど": ""
     },
     "1782": {
-        "ぬすっとずきん": "Slippery Hood"
+        "ぬすっとずきん": "Robber's Hood"
     },
     "1783": {
-        "くさりのはちがね": "Chainmail Helmet"
+        "くさりのはちがね": "Chain Headgear"
     },
     "1784": {
         "clarity_nt_char_568": "clarity_nt_char_568"
@@ -5358,13 +5358,13 @@
         "clarity_nt_char_569": "clarity_nt_char_569"
     },
     "1787": {
-        "はやてのばんだな": ""
+        "はやてのばんだな": "Agility Bandana"
     },
     "1788": {
         "clarity_nt_char_570": "clarity_nt_char_570"
     },
     "1789": {
-        "とうぞくのたーばん": ""
+        "とうぞくのたーばん": "Thief Turban"
     },
     "1790": {
         "ふぇんさーはっと": ""
@@ -5442,13 +5442,13 @@
         "くいっくはっと": "Quick Hat"
     },
     "1815": {
-        "がくしゃのぼうし": ""
+        "がくしゃのぼうし": "Academic Hat"
     },
     "1816": {
         "clarity_nt_char_581": "clarity_nt_char_581"
     },
     "1817": {
-        "きぬのぼうし": ""
+        "きぬのぼうし": "Silk Hat"
     },
     "1818": {
         "clarity_nt_char_582": "clarity_nt_char_582"
@@ -5463,7 +5463,7 @@
         "clarity_nt_char_583": "clarity_nt_char_583"
     },
     "1822": {
-        "けんじゃのぼうし": ""
+        "けんじゃのぼうし": "Sage Hat"
     },
     "1823": {
         "clarity_nt_char_584": "clarity_nt_char_584"
@@ -5538,7 +5538,7 @@
         "clarity_nt_char_593": "clarity_nt_char_593"
     },
     "1847": {
-        "まものつかいずきん": ""
+        "まものつかいずきん": "Monster Master Hood"
     },
     "1848": {
         "ふぁんきーへっど": ""
@@ -5634,7 +5634,7 @@
         "clarity_nt_char_604": "clarity_nt_char_604"
     },
     "1879": {
-        "だんさーへあばんど": ""
+        "だんさーへあばんど": "Dance Hairband"
     },
     "1880": {
         "あいどるへあばんど": ""
@@ -5646,10 +5646,10 @@
         "くらうんはっと": ""
     },
     "1883": {
-        "すたーしるくはっと": ""
+        "すたーしるくはっと": "Superstar Top Hat"
     },
     "1884": {
-        "てじなしのへあばんど": ""
+        "てじなしのへあばんど": "Conjurer's Hairband"
     },
     "1885": {
         "clarity_nt_char_605": "clarity_nt_char_605"
@@ -5802,7 +5802,7 @@
         "clarity_nt_char_618": "clarity_nt_char_618"
     },
     "1935": {
-        "ちーむおにごっこぼう": ""
+        "ちーむおにごっこぼう": "Team Tag Cap"
     },
     "1936": {
         "clarity_nt_char_619": "clarity_nt_char_619"
@@ -5946,7 +5946,7 @@
         "clarity_nt_char_635": "clarity_nt_char_635"
     },
     "1983": {
-        "うさぎのおめん": ""
+        "うさぎのおめん": "Bunny Mask"
     },
     "1984": {
         "すらいむのおめん": ""
@@ -5973,7 +5973,7 @@
         "さんどかさ": ""
     },
     "1992": {
-        "あらくれますく": ""
+        "あらくれますく": "Thug's Mug"
     },
     "1993": {
         "がうがうきゃっぷ": ""
@@ -6000,7 +6000,7 @@
         "clarity_nt_char_642": "clarity_nt_char_642"
     },
     "2001": {
-        "おにごっこぼう": ""
+        "おにごっこぼう": "Tag Cap"
     },
     "2002": {
         "はなびしもようののんらー": ""
@@ -6039,7 +6039,7 @@
         "てあみのぼうし": ""
     },
     "2014": {
-        "おどりこのてぃあら": ""
+        "おどりこのてぃあら": "Dancer Tiara"
     },
     "2015": {
         "はいきんぐべれー": ""
@@ -6054,10 +6054,10 @@
         "こまんだーきゃっぷ": ""
     },
     "2019": {
-        "おどりこのがくかん": ""
+        "おどりこのがくかん": "Dancer Diadem"
     },
     "2020": {
-        "まいてのへあばんど": "Dancer's Hair Band"
+        "まいてのへあばんど": "Performer Hairband"
     },
     "2021": {
         "まぐのりあのはなかざり": ""
@@ -6090,19 +6090,19 @@
         "clarity_nt_char_650": "clarity_nt_char_650"
     },
     "2031": {
-        "うろこのよろいした": ""
+        "うろこのよろいした": "Scale Armor Bottom"
     },
     "2032": {
-        "てつのよろいした": ""
+        "てつのよろいした": "Iron Armor Bottom"
     },
     "2033": {
         "clarity_nt_char_651": "clarity_nt_char_651"
     },
     "2034": {
-        "はがねのよろいした": ""
+        "はがねのよろいした": "Steel Armor Bottom"
     },
     "2035": {
-        "せんしのれがーす": ""
+        "せんしのれがーす": "Warrior Leggings"
     },
     "2036": {
         "clarity_nt_char_652": "clarity_nt_char_652"
@@ -6114,7 +6114,7 @@
         "clarity_nt_char_653": "clarity_nt_char_653"
     },
     "2039": {
-        "ぎんのこしだれ": ""
+        "ぎんのこしだれ": "Silver Faulds"
     },
     "2040": {
         "がいかのよろいした": "Victory Song Leggings"
@@ -6129,13 +6129,13 @@
         "clarity_nt_char_654": "clarity_nt_char_654"
     },
     "2044": {
-        "しゅうれんぎした": ""
+        "しゅうれんぎした": "Training Pants"
     },
     "2045": {
         "clarity_nt_char_655": "clarity_nt_char_655"
     },
     "2046": {
-        "かんふーずぼん": ""
+        "かんふーずぼん": "Kung Fu Trousers"
     },
     "2047": {
         "こぶどうぎした": ""
@@ -6150,7 +6150,7 @@
         "clarity_nt_char_656": "clarity_nt_char_656"
     },
     "2051": {
-        "てつのこしだれ": "Iron Fillings"
+        "てつのこしだれ": "Iron Faulds"
     },
     "2052": {
         "きゅうどうしゃのどうぎした": ""
@@ -6171,19 +6171,19 @@
         "あさのたんぱん": ""
     },
     "2058": {
-        "またどーるすーつした": ""
+        "またどーるすーつした": "Matador Suit Bottom"
     },
     "2059": {
         "clarity_nt_char_658": "clarity_nt_char_658"
     },
     "2060": {
-        "さふらんろーぶした": ""
+        "さふらんろーぶした": "Saffron Robe Bottom"
     },
     "2061": {
         "おうきゅうまじゅつしろーぶした": ""
     },
     "2062": {
-        "まほうつかいのずぼん": ""
+        "まほうつかいのずぼん": "Mage Pants"
     },
     "2063": {
         "clarity_nt_char_659": "clarity_nt_char_659"
@@ -6219,10 +6219,10 @@
         "clarity_nt_char_663": "clarity_nt_char_663"
     },
     "2074": {
-        "いやしのずぼん": ""
+        "いやしのずぼん": "Healing Pants"
     },
     "2075": {
-        "くすしのろーぶした": ""
+        "くすしのろーぶした": "Apothecary Robe Lower"
     },
     "2076": {
         "ほーりーろーぶした": ""
@@ -6246,7 +6246,7 @@
         "clarity_nt_char_665": "clarity_nt_char_665"
     },
     "2083": {
-        "どうぐつかいのずぼん": ""
+        "どうぐつかいのずぼん": "Item Master Pants"
     },
     "2084": {
         "clarity_nt_char_666": "clarity_nt_char_666"
@@ -6258,10 +6258,10 @@
         "ぜんざげいにんのずぼん": ""
     },
     "2087": {
-        "わかてげいにんのずぼん": ""
+        "わかてげいにんのずぼん": "Young Talent Pants"
     },
     "2088": {
-        "まじないしろーぶした": ""
+        "まじないしろーぶした": "Fizzle-Retardant Bottom"
     },
     "2089": {
         "clarity_nt_char_667": "clarity_nt_char_667"
@@ -6270,7 +6270,7 @@
         "かたりべのふくした": "Storyteller's Skirt"
     },
     "2091": {
-        "たびげいにんのいしょうした": ""
+        "たびげいにんのいしょうした": "Minstrel Pants"
     },
     "2092": {
         "きじゅつしのずぼん": "Illusionist's Pants"
@@ -6294,13 +6294,13 @@
         "clarity_nt_char_669": "clarity_nt_char_669"
     },
     "2099": {
-        "しんぺいしきゅうこしだれ": ""
+        "しんぺいしきゅうこしだれ": "Recruit Armor Bottom"
     },
     "2100": {
         "clarity_nt_char_670": "clarity_nt_char_670"
     },
     "2101": {
-        "せいどうのよろいした": ""
+        "せいどうのよろいした": "Bronze Armor Bottom"
     },
     "2102": {
         "clarity_nt_char_671": "clarity_nt_char_671"
@@ -6363,7 +6363,7 @@
         "clarity_nt_char_678": "clarity_nt_char_678"
     },
     "2122": {
-        "ばとますあーまーした": ""
+        "ばとますあーまーした": "Battlemaster Faulds"
     },
     "2123": {
         "clarity_nt_char_679": "clarity_nt_char_679"
@@ -6402,10 +6402,10 @@
         "きゅうめいしゃのこーとした": "Researcher's Bottom"
     },
     "2135": {
-        "うぇすたんすぱっつ": ""
+        "うぇすたんすぱっつ": "Western Spats"
     },
     "2136": {
-        "みかわしのふくした": "Dodge Clothes Lower"
+        "みかわしのふくした": "Evasive Cloak Bottom"
     },
     "2137": {
         "そうへいのころもした": ""
@@ -6435,16 +6435,16 @@
         "くいっくぱんつ": "Quick Pants"
     },
     "2146": {
-        "しょきゅうまほうせんしたいつ": ""
+        "しょきゅうまほうせんしたいつ": "Novice ARM Tights"
     },
     "2147": {
         "clarity_nt_char_687": "clarity_nt_char_687"
     },
     "2148": {
-        "このはのよろいした": ""
+        "このはのよろいした": "Foliage Armor Bottom"
     },
     "2149": {
-        "しゃしゅのたいつ": ""
+        "しゃしゅのたいつ": "Archer Tights"
     },
     "2150": {
         "clarity_nt_char_688": "clarity_nt_char_688"
@@ -6453,7 +6453,7 @@
         "もりびとのまえかけ": "Woodland Apron"
     },
     "2152": {
-        "れんじゃーこーとした": ""
+        "れんじゃーこーとした": "Ranger Coat Bottom"
     },
     "2153": {
         "clarity_nt_char_689": "clarity_nt_char_689"
@@ -6480,16 +6480,16 @@
         "clarity_nt_char_692": "clarity_nt_char_692"
     },
     "2161": {
-        "うらないしのふくした": ""
+        "うらないしのふくした": "For. Teller Bottom"
     },
     "2162": {
         "clarity_nt_char_693": "clarity_nt_char_693"
     },
     "2163": {
-        "ぬすっとたいつ": ""
+        "ぬすっとたいつ": "Robber's Tights"
     },
     "2164": {
-        "くさりかたびらした": ""
+        "くさりかたびらした": "Chain Mail Bottom"
     },
     "2165": {
         "ばんでっどぼとむ": ""
@@ -6498,10 +6498,10 @@
         "clarity_nt_char_694": "clarity_nt_char_694"
     },
     "2167": {
-        "はやてのきゅろっと": ""
+        "はやてのきゅろっと": "Agility Culottes"
     },
     "2168": {
-        "とうぞくのちゅにっくした": ""
+        "とうぞくのちゅにっくした": "Thief Pants"
     },
     "2169": {
         "clarity_nt_char_695": "clarity_nt_char_695"
@@ -6582,13 +6582,13 @@
         "ふぉーちゅんぼとむ": ""
     },
     "2195": {
-        "がくしゃのころもした": ""
+        "がくしゃのころもした": "Academic Robe Bottom"
     },
     "2196": {
         "clarity_nt_char_706": "clarity_nt_char_706"
     },
     "2197": {
-        "きぬのろーぶした": ""
+        "きぬのろーぶした": "Silk Robe Bottom"
     },
     "2198": {
         "clarity_nt_char_707": "clarity_nt_char_707"
@@ -6603,7 +6603,7 @@
         "clarity_nt_char_708": "clarity_nt_char_708"
     },
     "2202": {
-        "けんじゃのころもした": ""
+        "けんじゃのころもした": "Sage Robe Bottom"
     },
     "2203": {
         "clarity_nt_char_709": "clarity_nt_char_709"
@@ -6762,7 +6762,7 @@
         "clarity_nt_char_726": "clarity_nt_char_726"
     },
     "2255": {
-        "だんさーぱんつ": ""
+        "だんさーぱんつ": "Dance Pants"
     },
     "2256": {
         "あいどるすーつした": ""
@@ -6780,7 +6780,7 @@
         "clarity_nt_char_727": "clarity_nt_char_727"
     },
     "2261": {
-        "てじなしのたいつ": ""
+        "てじなしのたいつ": "Conjurer's Tights"
     },
     "2262": {
         "clarity_nt_char_728": "clarity_nt_char_728"
@@ -6906,7 +6906,7 @@
         "まるこもんのはかました": ""
     },
     "2303": {
-        "あらくれぱんつ": ""
+        "あらくれぱんつ": "Thug's Pants"
     },
     "2304": {
         "すりむぱんつ": ""
@@ -6954,7 +6954,7 @@
         "しんぷるずぼん": ""
     },
     "2319": {
-        "おどりこのすかーと": ""
+        "おどりこのすかーと": "Dancer Skirt"
     },
     "2320": {
         "はいきんぐぱんつ": ""
@@ -6969,13 +6969,13 @@
         "clarity_nt_char_748": "clarity_nt_char_748"
     },
     "2324": {
-        "おどりこのずぼん": ""
+        "おどりこのずぼん": "Dancer Trousers"
     },
     "2325": {
         "clarity_nt_char_749": "clarity_nt_char_749"
     },
     "2326": {
-        "まいてのずぼん": "Dancer's Pants"
+        "まいてのずぼん": "Performer Pants"
     },
     "2327": {
         "うさぎぱーかーした": ""
@@ -7086,13 +7086,13 @@
         "しゃくねつさーふぱんつ": ""
     },
     "2363": {
-        "おとぎのもりえぷろん": ""
+        "おとぎのもりえぷろん": "Fairy Forest Apron"
     },
     "2364": {
         "clarity_nt_char_762": "clarity_nt_char_762"
     },
     "2365": {
-        "おとぎのもりすかーと": ""
+        "おとぎのもりすかーと": "Fairy Forest Skirt"
     },
     "2366": {
         "clarity_nt_char_763": "clarity_nt_char_763"
@@ -7143,7 +7143,7 @@
         "clarity_nt_char_769": "clarity_nt_char_769"
     },
     "2382": {
-        "てんちらいめいしのしょうぞくした": ""
+        "てんちらいめいしのしょうぞくした": "Druid Outfit Bottom"
     },
     "2383": {
         "clarity_nt_char_770": "clarity_nt_char_770"
@@ -7224,7 +7224,7 @@
         "clarity_nt_char_779": "clarity_nt_char_779"
     },
     "2409": {
-        "てつのこて": "Iron Hands"
+        "てつのこて": "Iron Gauntlets"
     },
     "2410": {
         "はがねのこて": "Steel Gauntlets"
@@ -7233,7 +7233,7 @@
         "clarity_nt_char_780": "clarity_nt_char_780"
     },
     "2412": {
-        "せんしのぐろーぶ": ""
+        "せんしのぐろーぶ": "Warrior Gloves"
     },
     "2413": {
         "clarity_nt_char_781": "clarity_nt_char_781"
@@ -7242,7 +7242,7 @@
         "ふるつわもののこて": ""
     },
     "2415": {
-        "ぎんのこて": ""
+        "ぎんのこて": "Silver Gauntlet"
     },
     "2416": {
         "がいかのがんとれっと": "Victory Song Gloves"
@@ -7257,16 +7257,16 @@
         "clarity_nt_char_783": "clarity_nt_char_783"
     },
     "2420": {
-        "おうじゃのこて": ""
+        "おうじゃのこて": "Champion Gloves"
     },
     "2421": {
-        "しゅうれんようりすと": ""
+        "しゅうれんようりすと": "Training Bangles"
     },
     "2422": {
         "clarity_nt_char_784": "clarity_nt_char_784"
     },
     "2423": {
-        "かんふーりすと": ""
+        "かんふーりすと": "Kung Fu Bangles"
     },
     "2424": {
         "こぶどうのうでわ": ""
@@ -7281,7 +7281,7 @@
         "くりむぞんぐろーぶ": ""
     },
     "2428": {
-        "てつのうであて": "Iron Arms"
+        "てつのうであて": "Iron Gloves"
     },
     "2429": {
         "きゅうどうしゃのてぶくろ": ""
@@ -7308,10 +7308,10 @@
         "あさのてぶくろ": ""
     },
     "2437": {
-        "またどーるぐろーぶ": ""
+        "またどーるぐろーぶ": "Matador Gloves"
     },
     "2438": {
-        "さふらんぐろーぶ": ""
+        "さふらんぐろーぶ": "Saffron Gloves"
     },
     "2439": {
         "clarity_nt_char_789": "clarity_nt_char_789"
@@ -7401,7 +7401,7 @@
         "ぜんざげいにんのうでわ": ""
     },
     "2468": {
-        "わかてげいにんのてぶくろ": ""
+        "わかてげいにんのてぶくろ": "Young Talent Gloves"
     },
     "2469": {
         "clarity_nt_char_800": "clarity_nt_char_800"
@@ -7428,7 +7428,7 @@
         "clarity_nt_char_803": "clarity_nt_char_803"
     },
     "2477": {
-        "どうぐつかいぐろーぶ": ""
+        "どうぐつかいぐろーぶ": "Item Master Gloves"
     },
     "2478": {
         "clarity_nt_char_804": "clarity_nt_char_804"
@@ -7446,13 +7446,13 @@
         "さすらいのこて": "Errant Bracers"
     },
     "2483": {
-        "しんぺいしきゅうてぶくろ": ""
+        "しんぺいしきゅうてぶくろ": "Recruit Gloves"
     },
     "2484": {
         "clarity_nt_char_806": "clarity_nt_char_806"
     },
     "2485": {
-        "せいどうのこて": "Bronze Gloves"
+        "せいどうのこて": "Bronze Gauntlets"
     },
     "2486": {
         "へうぃーぐろーぶ": ""
@@ -7506,7 +7506,7 @@
         "くろがねのこて": "Black Iron Gauntlets"
     },
     "2503": {
-        "ばとますのぐろーぶ": ""
+        "ばとますのぐろーぶ": "Battlemaster Gloves"
     },
     "2504": {
         "すぱいくぐろーぶ": ""
@@ -7536,7 +7536,7 @@
         "clarity_nt_char_812": "clarity_nt_char_812"
     },
     "2513": {
-        "うぇすたんぐろーぶ": ""
+        "うぇすたんぐろーぶ": "Western Gloves"
     },
     "2514": {
         "とうりゅうのこて": ""
@@ -7545,7 +7545,7 @@
         "clarity_nt_char_813": "clarity_nt_char_813"
     },
     "2516": {
-        "まほうせんしだんぐろーぶ": ""
+        "まほうせんしだんぐろーぶ": "Armamentalist Gloves"
     },
     "2517": {
         "clarity_nt_char_814": "clarity_nt_char_814"
@@ -7575,16 +7575,16 @@
         "clarity_nt_char_817": "clarity_nt_char_817"
     },
     "2526": {
-        "しょきゅうまほうせんしぐらぶ": ""
+        "しょきゅうまほうせんしぐらぶ": "Novice ARM Gloves"
     },
     "2527": {
         "clarity_nt_char_818": "clarity_nt_char_818"
     },
     "2528": {
-        "このはのうでわ": ""
+        "このはのうでわ": "Foliage Bangles"
     },
     "2529": {
-        "しゃしゅのてぶくろ": ""
+        "しゃしゅのてぶくろ": "Archer Gloves"
     },
     "2530": {
         "もりびとのてぶくろ": "Woodland Gloves"
@@ -7614,13 +7614,13 @@
         "clarity_nt_char_820": "clarity_nt_char_820"
     },
     "2539": {
-        "ぬすっとのうでわ": "Slippery Bracers"
+        "ぬすっとのうでわ": "Robber's Bangles"
     },
     "2540": {
         "clarity_nt_char_821": "clarity_nt_char_821"
     },
     "2541": {
-        "くさりのあみごて": "Chainmail Bracers"
+        "くさりのあみごて": "Chain Bracers"
     },
     "2542": {
         "clarity_nt_char_822": "clarity_nt_char_822"
@@ -7629,13 +7629,13 @@
         "ばんでっどぐろーぶ": ""
     },
     "2544": {
-        "はやてのぐろーぶ": ""
+        "はやてのぐろーぶ": "Agility Gloves"
     },
     "2545": {
         "clarity_nt_char_823": "clarity_nt_char_823"
     },
     "2546": {
-        "とうぞくのぐろーぶ": ""
+        "とうぞくのぐろーぶ": "Thief Gloves"
     },
     "2547": {
         "ふぇんさーみさんが": ""
@@ -7662,7 +7662,7 @@
         "くいっくぐらぶ": "Quick Gloves"
     },
     "2555": {
-        "まものつかいのぶれす": ""
+        "まものつかいのぶれす": "Monster Master Bangle"
     },
     "2556": {
         "clarity_nt_char_826": "clarity_nt_char_826"
@@ -7692,7 +7692,7 @@
         "clarity_nt_char_829": "clarity_nt_char_829"
     },
     "2565": {
-        "うらないしのうでわ": ""
+        "うらないしのうでわ": "For. Teller Bangles"
     },
     "2566": {
         "ぶれいぶあーむ": ""
@@ -7731,7 +7731,7 @@
         "clarity_nt_char_833": "clarity_nt_char_833"
     },
     "2578": {
-        "けんじゃのあーむ": ""
+        "けんじゃのあーむ": "Sage Armbands"
     },
     "2579": {
         "clarity_nt_char_834": "clarity_nt_char_834"
@@ -7857,7 +7857,7 @@
         "clarity_nt_char_848": "clarity_nt_char_848"
     },
     "2620": {
-        "だんさーりすと": ""
+        "だんさーりすと": "Dance Bangles"
     },
     "2621": {
         "あいどるぶれす": ""
@@ -7875,7 +7875,7 @@
         "くるーがーぐろーぶ": "Kluger Gloves"
     },
     "2626": {
-        "てじなしのぐろーぶ": ""
+        "てじなしのぐろーぶ": "Conjurer's Gloves"
     },
     "2627": {
         "すてーじりすと": ""
@@ -7968,7 +7968,7 @@
         "clarity_nt_char_859": "clarity_nt_char_859"
     },
     "2657": {
-        "あらくればんぐる": ""
+        "あらくればんぐる": "Thug's Bangles"
     },
     "2658": {
         "clarity_nt_char_860": "clarity_nt_char_860"
@@ -8010,7 +8010,7 @@
         "こまんだーぐろーぶ": ""
     },
     "2671": {
-        "まいてのりすと": "Dancer's Bangles"
+        "まいてのりすと": "Performer Bangles"
     },
     "2672": {
         "ぱぴよんぐろーぶ": ""
@@ -8121,7 +8121,7 @@
         "clarity_nt_char_877": "clarity_nt_char_877"
     },
     "2708": {
-        "おとぎのもりぐろーぶ": ""
+        "おとぎのもりぐろーぶ": "Fairy Forest Gloves"
     },
     "2709": {
         "clarity_nt_char_878": "clarity_nt_char_878"
@@ -8247,7 +8247,7 @@
         "かみるのぶーつ": ""
     },
     "2750": {
-        "うらないしのさんだる": ""
+        "うらないしのさんだる": "For. Teller Sandals"
     },
     "2751": {
         "clarity_nt_char_888": "clarity_nt_char_888"
@@ -8256,28 +8256,28 @@
         "かわのくつ": ""
     },
     "2753": {
-        "うろこのぶーつ": ""
+        "うろこのぶーつ": "Scale Boots"
     },
     "2754": {
-        "てつのぶーつ": ""
+        "てつのぶーつ": "Iron Boots"
     },
     "2755": {
         "clarity_nt_char_889": "clarity_nt_char_889"
     },
     "2756": {
-        "はがねのぐりーぶ": ""
+        "はがねのぐりーぶ": "Steel Greaves"
     },
     "2757": {
         "clarity_nt_char_890": "clarity_nt_char_890"
     },
     "2758": {
-        "せんしのぶーつ": ""
+        "せんしのぶーつ": "Warrior Boots"
     },
     "2759": {
         "ふるつわもののぐりーぶ": ""
     },
     "2760": {
-        "ぎんのぶーつ": ""
+        "ぎんのぶーつ": "Silver Boots"
     },
     "2761": {
         "clarity_nt_char_891": "clarity_nt_char_891"
@@ -8295,19 +8295,19 @@
         "clarity_nt_char_893": "clarity_nt_char_893"
     },
     "2766": {
-        "おうじゃのきゃっこう": ""
+        "おうじゃのきゃっこう": "Champion Boots"
     },
     "2767": {
         "clarity_nt_char_894": "clarity_nt_char_894"
     },
     "2768": {
-        "しゅうれんようぶーつ": ""
+        "しゅうれんようぶーつ": "Training Boots"
     },
     "2769": {
         "clarity_nt_char_895": "clarity_nt_char_895"
     },
     "2770": {
-        "かんふーしゅーず": ""
+        "かんふーしゅーず": "Kung Fu Shoes"
     },
     "2771": {
         "clarity_nt_char_896": "clarity_nt_char_896"
@@ -8352,16 +8352,16 @@
         "あさのくつ": ""
     },
     "2785": {
-        "またどーるしゅーず": ""
+        "またどーるしゅーず": "Matador Shoes"
     },
     "2786": {
-        "さふらんぶーつ": ""
+        "さふらんぶーつ": "Saffron Boots"
     },
     "2787": {
         "おうきゅうまじゅつしのくつ": ""
     },
     "2788": {
-        "まほうつかいのぶーつ": ""
+        "まほうつかいのぶーつ": "Mage Boots"
     },
     "2789": {
         "clarity_nt_char_901": "clarity_nt_char_901"
@@ -8400,10 +8400,10 @@
         "clarity_nt_char_906": "clarity_nt_char_906"
     },
     "2801": {
-        "いやしのぶーつ": ""
+        "いやしのぶーつ": "Healing Boots"
     },
     "2802": {
-        "くすしのくつ": ""
+        "くすしのくつ": "Apothecary Shoes"
     },
     "2803": {
         "clarity_nt_char_907": "clarity_nt_char_907"
@@ -8412,7 +8412,7 @@
         "ほーりーぶーつ": ""
     },
     "2805": {
-        "そうりょのぶーつ": ""
+        "そうりょのぶーつ": "Priest Boots"
     },
     "2806": {
         "clarity_nt_char_908": "clarity_nt_char_908"
@@ -8442,13 +8442,13 @@
         "clarity_nt_char_910": "clarity_nt_char_910"
     },
     "2815": {
-        "わかてげいにんのながぐつ": ""
+        "わかてげいにんのながぐつ": "Young Talent Boots"
     },
     "2816": {
         "clarity_nt_char_911": "clarity_nt_char_911"
     },
     "2817": {
-        "まじないしのくつ": "Aristocrat's Shoes"
+        "まじないしのくつ": "Fizzle-Retardant Shoes"
     },
     "2818": {
         "clarity_nt_char_912": "clarity_nt_char_912"
@@ -8460,7 +8460,7 @@
         "clarity_nt_char_913": "clarity_nt_char_913"
     },
     "2821": {
-        "たびげいにんのぶーつ": ""
+        "たびげいにんのぶーつ": "Minstrel Pants"
     },
     "2822": {
         "clarity_nt_char_914": "clarity_nt_char_914"
@@ -8484,10 +8484,10 @@
         "さすらいのくつ": "Errant Shoes"
     },
     "2829": {
-        "しんぺいしきゅうぶーつ": ""
+        "しんぺいしきゅうぶーつ": "Recruit Boots"
     },
     "2830": {
-        "せいどうのぶーつ": ""
+        "せいどうのぶーつ": "Bronze Boots"
     },
     "2831": {
         "clarity_nt_char_916": "clarity_nt_char_916"
@@ -8556,7 +8556,7 @@
         "clarity_nt_char_924": "clarity_nt_char_924"
     },
     "2853": {
-        "ばとますぐりーぶ": ""
+        "ばとますぐりーぶ": "Battlemaster Greaves"
     },
     "2854": {
         "clarity_nt_char_925": "clarity_nt_char_925"
@@ -8595,16 +8595,16 @@
         "clarity_nt_char_929": "clarity_nt_char_929"
     },
     "2866": {
-        "うぇすたんぶーつ": ""
+        "うぇすたんぶーつ": "Western Boots"
     },
     "2867": {
         "clarity_nt_char_930": "clarity_nt_char_930"
     },
     "2868": {
-        "みかわしのくつ": "Dodge Boots"
+        "みかわしのくつ": "Evasive Boots"
     },
     "2869": {
-        "まほうせんしだんぶーつ": ""
+        "まほうせんしだんぶーつ": "Armamentalist Boots"
     },
     "2870": {
         "そうへいのくつ": ""
@@ -8628,28 +8628,28 @@
         "ろいやるぶーつ": ""
     },
     "2877": {
-        "しょきゅうまほうせんしのくつ": ""
+        "しょきゅうまほうせんしのくつ": "Novice ARM Shoes"
     },
     "2878": {
         "clarity_nt_char_933": "clarity_nt_char_933"
     },
     "2879": {
-        "このはのぶーつ": ""
+        "このはのぶーつ": "Foliage Boots"
     },
     "2880": {
-        "しゃしゅのくつ": ""
+        "しゃしゅのくつ": "Archer Shoes"
     },
     "2881": {
         "もりびとのながぐつ": "Woodland Boots"
     },
     "2882": {
-        "れんじゃーぶーつ": ""
+        "れんじゃーぶーつ": "Ranger Boots"
     },
     "2883": {
         "clarity_nt_char_934": "clarity_nt_char_934"
     },
     "2884": {
-        "どうぐつかいのぶーつ": ""
+        "どうぐつかいのぶーつ": "Item Master Boots"
     },
     "2885": {
         "clarity_nt_char_935": "clarity_nt_char_935"
@@ -8676,10 +8676,10 @@
         "れいぶんぶーつ": ""
     },
     "2893": {
-        "ぬすっとのくつ": "Slippery Shoes"
+        "ぬすっとのくつ": "Robber's Shoes"
     },
     "2894": {
-        "くさりのあみぐつ": "Chainmail Boots"
+        "くさりのあみぐつ": "Chain Boots"
     },
     "2895": {
         "clarity_nt_char_939": "clarity_nt_char_939"
@@ -8691,10 +8691,10 @@
         "clarity_nt_char_940": "clarity_nt_char_940"
     },
     "2898": {
-        "はやてのぶーつ": ""
+        "はやてのぶーつ": "Agility Boots"
     },
     "2899": {
-        "とうぞくのぶーつ": ""
+        "とうぞくのぶーつ": "Thief Boots"
     },
     "2900": {
         "clarity_nt_char_941": "clarity_nt_char_941"
@@ -8784,13 +8784,13 @@
         "clarity_nt_char_954": "clarity_nt_char_954"
     },
     "2929": {
-        "がくしゃのきゃくたい": ""
+        "がくしゃのきゃくたい": "Academic Boots"
     },
     "2930": {
         "clarity_nt_char_955": "clarity_nt_char_955"
     },
     "2931": {
-        "きぬのさんだる": ""
+        "きぬのさんだる": "Silk Sandals"
     },
     "2932": {
         "いんてりさんだる": ""
@@ -8805,7 +8805,7 @@
         "clarity_nt_char_957": "clarity_nt_char_957"
     },
     "2936": {
-        "けんじゃのくつ": ""
+        "けんじゃのくつ": "Sage Shoes"
     },
     "2937": {
         "みずのきゃくたい": "Flowing Boots"
@@ -8934,7 +8934,7 @@
         "clarity_nt_char_969": "clarity_nt_char_969"
     },
     "2979": {
-        "まものつかいのくつ": ""
+        "まものつかいのくつ": "Monster Master Shoes"
     },
     "2980": {
         "まじぇすたぶーつ": ""
@@ -8955,7 +8955,7 @@
         "くいっくぶーつ": "Quick Boots"
     },
     "2986": {
-        "だんさーしゅーず": ""
+        "だんさーしゅーず": "Dance Shoes"
     },
     "2987": {
         "clarity_nt_char_972": "clarity_nt_char_972"
@@ -8976,10 +8976,10 @@
         "clarity_nt_char_974": "clarity_nt_char_974"
     },
     "2993": {
-        "すたーしゅーず": ""
+        "すたーしゅーず": "Superstar Shoes"
     },
     "2994": {
-        "てじなしのぶーつ": ""
+        "てじなしのぶーつ": "Conjurer's Boots"
     },
     "2995": {
         "clarity_nt_char_975": "clarity_nt_char_975"
@@ -9174,7 +9174,7 @@
         "clarity_nt_char_995": "clarity_nt_char_995"
     },
     "3059": {
-        "あらくれぶーつ": ""
+        "あらくれぶーつ": "Thug's Boots"
     },
     "3060": {
         "しとりんのあしかざり": ""
@@ -9246,7 +9246,7 @@
         "clarity_nt_char_1003": "clarity_nt_char_1003"
     },
     "3083": {
-        "おどりこのさんだる": ""
+        "おどりこのさんだる": "Dancer Sandals"
     },
     "3084": {
         "はいきんぐぶーつ": ""
@@ -9258,10 +9258,10 @@
         "こまんだーしゅーず": ""
     },
     "3087": {
-        "おどりこのくつ": ""
+        "おどりこのくつ": "Dancer Shoes"
     },
     "3088": {
-        "まいてのくつ": "Dancer's Shoes"
+        "まいてのくつ": "Performer Shoes"
     },
     "3089": {
         "clarity_nt_char_1005": "clarity_nt_char_1005"
@@ -13695,7 +13695,7 @@
         "clarity_nt_char_1490": "clarity_nt_char_1490"
     },
     "4566": {
-        "ぎゅっとせらふぃのはこ": "Seraphi Armband Box"
+        "ぎゅっとせらふぃのはこ": "Seraphy Armband Box"
     },
     "4567": {
         "ぎゅっとりぜろったのはこ": "Lieselotte Armband Box"
@@ -15465,7 +15465,7 @@
         "ぱらでぃちぇいん２": ""
     },
     "5156": {
-        "すたーこーと２": ""
+        "すたーこーと２": "Superstar Coat 2"
     },
     "5157": {
         "れんじゃこーとうえ２": ""
@@ -15474,16 +15474,16 @@
         "clarity_nt_char_1684": "clarity_nt_char_1684"
     },
     "5159": {
-        "まほうせんしだんせいふく２": ""
+        "まほうせんしだんせいふく２": "Armamentalist Uniform 2"
     },
     "5160": {
-        "まものつかいのふく２": ""
+        "まものつかいのふく２": "Monster Master Suit 2"
     },
     "5161": {
         "clarity_nt_char_1685": "clarity_nt_char_1685"
     },
     "5162": {
-        "けんじゃのころもうえ２": ""
+        "けんじゃのころもうえ２": "Sage Robe Top 2"
     },
     "5163": {
         "ほいみんとうぇあうえ": ""
@@ -15627,13 +15627,13 @@
         "clarity_nt_char_1701": "clarity_nt_char_1701"
     },
     "5210": {
-        "おとぎのもりぶらうす": ""
+        "おとぎのもりぶらうす": "Fairy Forest Blouse"
     },
     "5211": {
         "clarity_nt_char_1702": "clarity_nt_char_1702"
     },
     "5212": {
-        "おとぎのもりぼれろ": ""
+        "おとぎのもりぼれろ": "Fairy Forest Bolero"
     },
     "5213": {
         "すたじあむしゃつ": ""
@@ -15747,7 +15747,7 @@
         "ばとらーすーつ": ""
     },
     "5250": {
-        "てんちらいめいしのしょうぞくうえ": ""
+        "てんちらいめいしのしょうぞくうえ": "Druid Outfit Top"
     },
     "5251": {
         "clarity_nt_char_1717": "clarity_nt_char_1717"
@@ -15909,22 +15909,22 @@
         "clarity_nt_char_1737": "clarity_nt_char_1737"
     },
     "5304": {
-        "おてんばひめのぼうし": ""
+        "おてんばひめのぼうし": "Alena's Hat"
     },
     "5305": {
         "clarity_nt_char_1738": "clarity_nt_char_1738"
     },
     "5306": {
-        "おてんばひめのふく": ""
+        "おてんばひめのふく": "Alena's Dress"
     },
     "5307": {
-        "おてんばひめぐろーぶ": ""
+        "おてんばひめぐろーぶ": "Alena's Gloves"
     },
     "5308": {
         "clarity_nt_char_1739": "clarity_nt_char_1739"
     },
     "5309": {
-        "おてんばひめのぶーつ": ""
+        "おてんばひめのぶーつ": "Alena's Boots"
     },
     "5310": {
         "clarity_nt_char_1740": "clarity_nt_char_1740"
@@ -16662,7 +16662,7 @@
         "clarity_nt_char_1827": "clarity_nt_char_1827"
     },
     "5555": {
-        "うらないしのふくうえ": ""
+        "うらないしのふくうえ": "For. Teller Shirt"
     },
     "5556": {
         "clarity_nt_char_1828": "clarity_nt_char_1828"
@@ -16902,7 +16902,7 @@
         "clarity_nt_char_1851": "clarity_nt_char_1851"
     },
     "5635": {
-        "おなまえわすれんぼう": ""
+        "おなまえわすれんぼう": "Unknown Names Cap"
     },
     "5636": {
         "clarity_nt_char_1852": "clarity_nt_char_1852"
@@ -16980,7 +16980,7 @@
         "まーめいどてぃあら": ""
     },
     "5661": {
-        "うらないしのずきん": ""
+        "うらないしのずきん": "For. Teller Hood"
     },
     "5662": {
         "ぱっしょんりぼん": ""
@@ -17112,7 +17112,7 @@
         "clarity_nt_char_1873": "clarity_nt_char_1873"
     },
     "5705": {
-        "おとぎのもりかちーふ": ""
+        "おとぎのもりかちーふ": "Fairy Forest Kerchief"
     },
     "5706": {
         "clarity_nt_char_1874": "clarity_nt_char_1874"
@@ -17199,7 +17199,7 @@
         "めいどきゃっぷ": ""
     },
     "5734": {
-        "てんちらいめいしのかんむり": ""
+        "てんちらいめいしのかんむり": "Druid Cap"
     },
     "5735": {
         "もだんろーずびじゅ": ""
@@ -17235,7 +17235,7 @@
         "ぼうえいぐんのいんかむ": ""
     },
     "5746": {
-        "まほうつかいのぼうし２": ""
+        "まほうつかいのぼうし２": "Mage Hat 2"
     },
     "5747": {
         "みけねこのずきん": ""
@@ -17412,7 +17412,7 @@
         "ごるふしゅーず": ""
     },
     "5805": {
-        "おとぎのもりしゅーず": ""
+        "おとぎのもりしゅーず": "Fairy Forest Shoes"
     },
     "5806": {
         "clarity_nt_char_1905": "clarity_nt_char_1905"
@@ -17460,7 +17460,7 @@
         "clarity_nt_char_1910": "clarity_nt_char_1910"
     },
     "5821": {
-        "てんちらいめいしのくつ": ""
+        "てんちらいめいしのくつ": "Druid Shoes"
     },
     "5822": {
         "もだんろーずひーる": ""
@@ -17499,7 +17499,7 @@
         "clarity_nt_char_1914": "clarity_nt_char_1914"
     },
     "5834": {
-        "そうりょのぶーつ２": ""
+        "そうりょのぶーつ２": "Priest Boots 2"
     },
     "5835": {
         "めいどしゅーず": ""
@@ -17550,7 +17550,7 @@
         "りんかのぶーつ": ""
     },
     "5851": {
-        "まものつかいのくつ２": ""
+        "まものつかいのくつ２": "Monster Master Shoes 2"
     },
     "5852": {
         "clarity_nt_char_1920": "clarity_nt_char_1920"
@@ -17838,16 +17838,16 @@
         "えんこうのまがたま": ""
     },
     "5947": {
-        "てんちらいめいしのあかし": ""
+        "てんちらいめいしのあかし": "Druid Emblem"
     },
     "5948": {
         "clarity_nt_char_1947": "clarity_nt_char_1947"
     },
     "5949": {
-        "あそびにんのあかし": ""
+        "あそびにんのあかし": "Gadabout Emblem"
     },
     "5950": {
-        "ですますたーのあかし": ""
+        "ですますたーのあかし": "Death Master Emblem"
     },
     "5951": {
         "clarity_nt_char_1948": "clarity_nt_char_1948"
@@ -18228,13 +18228,13 @@
         "れんじゃしゃぷか２": ""
     },
     "6077": {
-        "まものつかいずきん２": ""
+        "まものつかいずきん２": "Monster Master Hood 2"
     },
     "6078": {
         "clarity_nt_char_1988": "clarity_nt_char_1988"
     },
     "6079": {
-        "どうぐつかいぼうし２": ""
+        "どうぐつかいぼうし２": "Item Master Hat 2"
     },
     "6080": {
         "clarity_nt_char_1989": "clarity_nt_char_1989"
@@ -18384,7 +18384,7 @@
         "ぼうえいぐんのせいふくうえ": ""
     },
     "6129": {
-        "そうりょのほうい２": ""
+        "そうりょのほうい２": "Priest Robe 2"
     },
     "6130": {
         "せんしのよろい２": ""
@@ -18399,7 +18399,7 @@
         "clarity_nt_char_2008": "clarity_nt_char_2008"
     },
     "6134": {
-        "まほうつかいのふく２": ""
+        "まほうつかいのふく２": "Mage Shirt 2"
     },
     "6135": {
         "clarity_nt_char_2009": "clarity_nt_char_2009"
@@ -18408,7 +18408,7 @@
         "ぶとうぎ２": "Strongsam 2"
     },
     "6137": {
-        "たびげいにんのいしょううえ２": ""
+        "たびげいにんのいしょううえ２": "Minstrel Shirt 2"
     },
     "6138": {
         "clarity_nt_char_2010": "clarity_nt_char_2010"
@@ -18603,7 +18603,7 @@
         "おおきなこじょうのいえ": ""
     },
     "6202": {
-        "おとぎばなしのいえ": ""
+        "おとぎばなしのいえ": "Fairy-Tale House"
     },
     "6203": {
         "おおきないどのいえ": ""
@@ -28869,7 +28869,7 @@
         "clarity_nt_char_3169": "clarity_nt_char_3169"
     },
     "9624": {
-        "まいてのきょうほん": "Dancer's Manual"
+        "まいてのきょうほん": "Performer Manual"
     },
     "9625": {
         "まじゅつしのかぐちょう　もっこうへん": ""
@@ -30612,85 +30612,85 @@
         "はじめてのさいほう": ""
     },
     "10205": {
-        "げいにんのふくのつくりかた": ""
+        "げいにんのふくのつくりかた": "Making A Talent Outfit"
     },
     "10206": {
-        "うろこのよろいのつくりかた": ""
+        "うろこのよろいのつくりかた": "How To Make Scale Armor"
     },
     "10207": {
-        "ぬすっとのふくのれしぴ": ""
+        "ぬすっとのふくのれしぴ": "Robber's Outfit Recipe"
     },
     "10208": {
-        "いやしのふくのれしぴ": ""
+        "いやしのふくのれしぴ": "Healing Outfit Recipe"
     },
     "10209": {
         "clarity_nt_char_3356": "clarity_nt_char_3356"
     },
     "10210": {
-        "きぬのろーぶのつくりかた": ""
+        "きぬのろーぶのつくりかた": "Making A Silk Outfit"
     },
     "10211": {
         "clarity_nt_char_3357": "clarity_nt_char_3357"
     },
     "10212": {
-        "つくろう　てつよろい": ""
+        "つくろう　てつよろい": "Let's Make Iron Armor!"
     },
     "10213": {
         "clarity_nt_char_3358": "clarity_nt_char_3358"
     },
     "10214": {
-        "くさりかたびらさくせいじゅつ": ""
+        "くさりかたびらさくせいじゅつ": "Chain Mail Creation"
     },
     "10215": {
         "clarity_nt_char_3359": "clarity_nt_char_3359"
     },
     "10216": {
-        "しゅうれんぎのれしぴ": ""
+        "しゅうれんぎのれしぴ": "Training Outfit Recipe"
     },
     "10217": {
         "clarity_nt_char_3360": "clarity_nt_char_3360"
     },
     "10218": {
-        "さふらんろーぶのつくりかた": ""
+        "さふらんろーぶのつくりかた": "Making A Saffron Outfit"
     },
     "10219": {
-        "くすしのろーぶのつくりかた": ""
+        "くすしのろーぶのつくりかた": "Make Apothecary Clothes"
     },
     "10220": {
-        "ぎんのぼうぐぜんしゅう": ""
+        "ぎんのぼうぐぜんしゅう": "Silver Armor Book"
     },
     "10221": {
-        "はやてのべすとさくせいじゅつ": ""
+        "はやてのべすとさくせいじゅつ": "Agility Outfit Creation"
     },
     "10222": {
         "clarity_nt_char_3361": "clarity_nt_char_3361"
     },
     "10223": {
-        "みかわしのふくのれしぴ": "Dodge Outfit Recipe"
+        "みかわしのふくのれしぴ": "Evasive Outfit Recipe"
     },
     "10224": {
-        "てじなしのふくのつくりかた": ""
+        "てじなしのふくのつくりかた": "Making Conjurer Clothes"
     },
     "10225": {
-        "かんふーじゃけっとのほん": ""
+        "かんふーじゃけっとのほん": "Kung Fu Jacket Book"
     },
     "10226": {
         "clarity_nt_char_3362": "clarity_nt_char_3362"
     },
     "10227": {
-        "またどーるのふくのれしぴ": ""
+        "またどーるのふくのれしぴ": "Matador Clothes Recipe"
     },
     "10228": {
         "clarity_nt_char_3363": "clarity_nt_char_3363"
     },
     "10229": {
-        "まじないしのふくのつくりかた": ""
+        "まじないしのふくのつくりかた": "Fizzle-Retardant Book"
     },
     "10230": {
         "clarity_nt_char_3364": "clarity_nt_char_3364"
     },
     "10231": {
-        "まもりのろーぶのつくりかた": ""
+        "まもりのろーぶのつくりかた": "Protective Outift Book"
     },
     "10232": {
         "まほうよろいのひみつ": "Secret of Magic Armor"
@@ -30711,7 +30711,7 @@
         "かたりべのふくのれしぴ": "Storyteller's Recipe"
     },
     "10238": {
-        "しんかんのほういのつくりかた": ""
+        "しんかんのほういのつくりかた": "Make A Minister Outfit"
     },
     "10239": {
         "clarity_nt_char_3367": "clarity_nt_char_3367"
@@ -31272,7 +31272,7 @@
         "せんしのおおたてのほん": "Warrior Grtshd Book"
     },
     "10425": {
-        "はがねのぼうぐずかん": ""
+        "はがねのぼうぐずかん": "Steel Armor Book"
     },
     "10426": {
         "clarity_nt_char_3431": "clarity_nt_char_3431"
@@ -31314,10 +31314,10 @@
         "clarity_nt_char_3436": "clarity_nt_char_3436"
     },
     "10439": {
-        "しゃしゅのふくのれしぴ": ""
+        "しゃしゅのふくのれしぴ": "Archer Outfit Recipe"
     },
     "10440": {
-        "しんぺいしきゅうぼうぐのてびき": ""
+        "しんぺいしきゅうぼうぐのてびき": "New Recruit Armor Guide"
     },
     "10441": {
         "もりびとのぼうぐずかん": "Woodland Armor Book"
@@ -31329,7 +31329,7 @@
         "clarity_nt_char_3437": "clarity_nt_char_3437"
     },
     "10444": {
-        "このはのよろいぜんしゅう": ""
+        "このはのよろいぜんしゅう": "Foliage Armor Book"
     },
     "10445": {
         "clarity_nt_char_3438": "clarity_nt_char_3438"
@@ -31650,7 +31650,7 @@
         "clarity_nt_char_3478": "clarity_nt_char_3478"
     },
     "10551": {
-        "うぇすたんなふくのれしぴ": ""
+        "うぇすたんなふくのれしぴ": "Western Clothes Recipe"
     },
     "10552": {
         "clarity_nt_char_3479": "clarity_nt_char_3479"
@@ -31662,16 +31662,16 @@
         "clarity_nt_char_3480": "clarity_nt_char_3480"
     },
     "10555": {
-        "しょきゅうまほうせんしふくのれしぴ": ""
+        "しょきゅうまほうせんしふくのれしぴ": "Novice ARM Outfit Book"
     },
     "10556": {
-        "だんさーいんざしゃつ": ""
+        "だんさーいんざしゃつ": "Dance Outfit Recipe"
     },
     "10557": {
         "clarity_nt_char_3481": "clarity_nt_char_3481"
     },
     "10558": {
-        "がくしゃのころものつくりかた": ""
+        "がくしゃのころものつくりかた": "Academic Outfit Recipe"
     },
     "10559": {
         "clarity_nt_char_3482": "clarity_nt_char_3482"
@@ -32394,7 +32394,7 @@
         "がなんていこくのくんしょうのはへん": ""
     },
     "10799": {
-        "りゅうのうろこのはへん": ""
+        "りゅうのうろこのはへん": "Dragon Scale Shard"
     },
     "10800": {
         "ばんまのもんしょうのはへん": ""
@@ -39282,22 +39282,22 @@
         "ぽーるすたーとっぷ": "North Star Shirt"
     },
     "13095": {
-        "あそびにんのぼうし": ""
+        "あそびにんのぼうし": "Gadabout Hat"
     },
     "13096": {
-        "あそびにんのてぶくろ": ""
+        "あそびにんのてぶくろ": "Gadabout Gloves"
     },
     "13097": {
         "clarity_nt_char_4337": "clarity_nt_char_4337"
     },
     "13098": {
-        "あそびにんのくつ": ""
+        "あそびにんのくつ": "Gadabout Shoes"
     },
     "13099": {
         "clarity_nt_char_4338": "clarity_nt_char_4338"
     },
     "13100": {
-        "あそびにんのふく": ""
+        "あそびにんのふく": "Gadabout Attire"
     },
     "13101": {
         "clarity_nt_char_4339": "clarity_nt_char_4339"
@@ -39417,22 +39417,22 @@
         "clarity_nt_char_4352": "clarity_nt_char_4352"
     },
     "13140": {
-        "ですますずきん": ""
+        "ですますずきん": "Death Master Hood"
     },
     "13141": {
-        "ですますのれいふくした": ""
+        "ですますのれいふくした": "Death Master Pants"
     },
     "13142": {
-        "ですますぐろーぶ": ""
+        "ですますぐろーぶ": "Death Master Gloves"
     },
     "13143": {
         "clarity_nt_char_4353": "clarity_nt_char_4353"
     },
     "13144": {
-        "ですますぶーつ": ""
+        "ですますぶーつ": "Death Master Boots"
     },
     "13145": {
-        "ですますのれいふくうえ": ""
+        "ですますのれいふくうえ": "Death Master Shirt"
     },
     "13146": {
         "じゅいんのつるぎ": "Cursed Sword"
@@ -43164,13 +43164,13 @@
         "clarity_nt_char_4766": "clarity_nt_char_4766"
     },
     "14389": {
-        "いっぱつのぼうし": "One Shot Cap"
+        "いっぱつのぼうし": "One Shot Hat"
     },
     "14390": {
         "clarity_nt_char_4767": "clarity_nt_char_4767"
     },
     "14391": {
-        "いっぱつのずぼん": "One Shot Trousers"
+        "いっぱつのずぼん": "One Shot Pants"
     },
     "14392": {
         "clarity_nt_char_4768": "clarity_nt_char_4768"
@@ -43431,7 +43431,7 @@
         "まえむきのつの": ""
     },
     "14478": {
-        "いさましいつの": ""
+        "いさましいつの": "Brave Horns"
     },
     "14479": {
         "ゆにこーんのつの": ""
@@ -46239,58 +46239,58 @@
         "clarity_nt_char_5084": "clarity_nt_char_5084"
     },
     "15414": {
-        "いやしの服セット": ""
+        "いやしの服セット": "Healing Outfit"
     },
     "15415": {
         "clarity_nt_char_5085": "clarity_nt_char_5085"
     },
     "15416": {
-        "うろこのよろいセット": ""
+        "うろこのよろいセット": "Scale Armor Set"
     },
     "15417": {
         "clarity_nt_char_5086": "clarity_nt_char_5086"
     },
     "15418": {
-        "きぬのローブセット": ""
+        "きぬのローブセット": "Silk Outfit"
     },
     "15419": {
-        "せいどうのよろいセット": ""
+        "せいどうのよろいセット": "Bronze Armor Set"
     },
     "15420": {
-        "ぬすっとの服セット": ""
+        "ぬすっとの服セット": "Robber's Outfit"
     },
     "15421": {
-        "若手芸人の服セット": ""
+        "若手芸人の服セット": "Young Talent Outfit"
     },
     "15422": {
-        "くさりかたびらセット": ""
+        "くさりかたびらセット": "Chain Mail Set"
     },
     "15423": {
         "clarity_nt_char_5087": "clarity_nt_char_5087"
     },
     "15424": {
-        "くすしのローブセット": ""
+        "くすしのローブセット": "Apothecary Outfit"
     },
     "15425": {
         "clarity_nt_char_5088": "clarity_nt_char_5088"
     },
     "15426": {
-        "サフランローブセット": ""
+        "サフランローブセット": "Saffron Outfit"
     },
     "15427": {
         "clarity_nt_char_5089": "clarity_nt_char_5089"
     },
     "15428": {
-        "しゅうれんぎセット": ""
+        "しゅうれんぎセット": "Training Outfit"
     },
     "15429": {
-        "ダンサーシャツセット": ""
+        "ダンサーシャツセット": "Dance Outfit"
     },
     "15430": {
         "clarity_nt_char_5090": "clarity_nt_char_5090"
     },
     "15431": {
-        "てつのむねあてセット": ""
+        "てつのむねあてセット": "Iron Cuirass Set"
     },
     "15432": {
         "clarity_nt_char_5091": "clarity_nt_char_5091"
@@ -46299,16 +46299,16 @@
         "学者のころもセット": "Academic Outfit"
     },
     "15434": {
-        "射手の服セット": ""
+        "射手の服セット": "Archer Outfit"
     },
     "15435": {
-        "初級魔法戦士服セット": ""
+        "初級魔法戦士服セット": "Movice ARM Outfit"
     },
     "15436": {
         "clarity_nt_char_5092": "clarity_nt_char_5092"
     },
     "15437": {
-        "新兵支給むねあてセット": ""
+        "新兵支給むねあてセット": "Recruit Supply Armor Set"
     },
     "15438": {
         "無法者のベストセット": "Freebooter's Outfit"
@@ -46329,22 +46329,22 @@
         "clarity_nt_char_5095": "clarity_nt_char_5095"
     },
     "15444": {
-        "ぎんのむねあてセット": ""
+        "ぎんのむねあてセット": "Silver Armor Set"
     },
     "15445": {
         "clarity_nt_char_5096": "clarity_nt_char_5096"
     },
     "15446": {
-        "てつのよろいセット": ""
+        "てつのよろいセット": "Iron Armor Set"
     },
     "15447": {
-        "はやてのベストセット": ""
+        "はやてのベストセット": "Agility Outfit"
     },
     "15448": {
         "clarity_nt_char_5097": "clarity_nt_char_5097"
     },
     "15449": {
-        "みかわしの服セット": "Dodge Outfit"
+        "みかわしの服セット": "Evasive Outfit"
     },
     "15450": {
         "ワイルドジャケットセット": "Wild Outfit"
@@ -46353,7 +46353,7 @@
         "clarity_nt_char_5098": "clarity_nt_char_5098"
     },
     "15452": {
-        "手品師の服セット": ""
+        "手品師の服セット": "Conjurer's Outfit"
     },
     "15453": {
         "clarity_nt_char_5099": "clarity_nt_char_5099"
@@ -46368,13 +46368,13 @@
         "ヘヴィーアーマーセット": "Heavy Armor Set"
     },
     "15457": {
-        "ウェスタンブラウスセット": ""
+        "ウェスタンブラウスセット": "Western Outfit"
     },
     "15458": {
         "clarity_nt_char_5101": "clarity_nt_char_5101"
     },
     "15459": {
-        "カンフージャケットセット": ""
+        "カンフージャケットセット": "Kung Fu Jacket Set"
     },
     "15460": {
         "clarity_nt_char_5102": "clarity_nt_char_5102"
@@ -46386,25 +46386,25 @@
         "clarity_nt_char_5103": "clarity_nt_char_5103"
     },
     "15463": {
-        "はがねのよろいセット": ""
+        "はがねのよろいセット": "Steel Armor Set"
     },
     "15464": {
         "clarity_nt_char_5104": "clarity_nt_char_5104"
     },
     "15465": {
-        "まじないしローブセット": ""
+        "まじないしローブセット": "Fizzle-Retardant Outfit"
     },
     "15466": {
-        "マタドールスーツセット": ""
+        "マタドールスーツセット": "Matador Outfit"
     },
     "15467": {
-        "まもりのローブセット": ""
+        "まもりのローブセット": "Protective Outfit"
     },
     "15468": {
         "clarity_nt_char_5105": "clarity_nt_char_5105"
     },
     "15469": {
-        "木の葉のよろいセット": ""
+        "木の葉のよろいセット": "Foliage Armor Set"
     },
     "15470": {
         "clarity_nt_char_5106": "clarity_nt_char_5106"
@@ -46419,10 +46419,10 @@
         "clarity_nt_char_5107": "clarity_nt_char_5107"
     },
     "15474": {
-        "スターコートセット": ""
+        "スターコートセット": "Superstar Outfit"
     },
     "15475": {
-        "バトマスアーマーセット": ""
+        "バトマスアーマーセット": "Battlemaster Outfit"
     },
     "15476": {
         "パラディンチェインセット": ""
@@ -46449,34 +46449,34 @@
         "clarity_nt_char_5110": "clarity_nt_char_5110"
     },
     "15484": {
-        "レンジャーコートセット": ""
+        "レンジャーコートセット": "Ranger Outfit"
     },
     "15485": {
-        "賢者のころもセット": "Sage's Robe Set"
+        "賢者のころもセット": "Sage Outfit"
     },
     "15486": {
         "神官のほういセット": "Minister Outfit"
     },
     "15487": {
-        "戦士のよろいセット": ""
+        "戦士のよろいセット": "Warrior Armor Set"
     },
     "15488": {
-        "僧侶のほういセット": ""
+        "僧侶のほういセット": "Priest Outfit"
     },
     "15489": {
-        "盗賊のチュニックセット": ""
+        "盗賊のチュニックセット": "Thief Outfit"
     },
     "15490": {
-        "魔法使いの服セット": ""
+        "魔法使いの服セット": "Mage Outfit"
     },
     "15491": {
-        "魔法戦士団制服セット": ""
+        "魔法戦士団制服セット": "Armamentalist Outfit"
     },
     "15492": {
         "clarity_nt_char_5111": "clarity_nt_char_5111"
     },
     "15493": {
-        "旅芸人の衣装セット": ""
+        "旅芸人の衣装セット": "Minstrel Outfit"
     },
     "15494": {
         "きじゅつしの服セット": "Illusionist's Outfit"
@@ -46716,7 +46716,7 @@
         "clarity_nt_char_5137": "clarity_nt_char_5137"
     },
     "15573": {
-        "まもの使いの服セット": ""
+        "まもの使いの服セット": "Monster Master Outfit"
     },
     "15574": {
         "clarity_nt_char_5138": "clarity_nt_char_5138"
@@ -46737,7 +46737,7 @@
         "clarity_nt_char_5140": "clarity_nt_char_5140"
     },
     "15580": {
-        "どうぐ使いの服セット": ""
+        "どうぐ使いの服セット": "Item Master Outfit"
     },
     "15581": {
         "clarity_nt_char_5141": "clarity_nt_char_5141"
@@ -46755,13 +46755,13 @@
         "古代王族のベストセット": "Ancient Outfit"
     },
     "15586": {
-        "踊り子のドレスセット": ""
+        "踊り子のドレスセット": "Dancer Dress Set"
     },
     "15587": {
         "clarity_nt_char_5143": "clarity_nt_char_5143"
     },
     "15588": {
-        "踊り子のベストセット": ""
+        "踊り子のベストセット": "Dancer Vest Set"
     },
     "15589": {
         "clarity_nt_char_5144": "clarity_nt_char_5144"
@@ -46779,7 +46779,7 @@
         "魔技師ベストセット": "Technomancer Outfit"
     },
     "15594": {
-        "舞い手の服セット": "Dancer's Outfit"
+        "舞い手の服セット": "Performer Outfit"
     },
     "15595": {
         "clarity_nt_char_5145": "clarity_nt_char_5145"
@@ -46806,7 +46806,7 @@
         "clarity_nt_char_5147": "clarity_nt_char_5147"
     },
     "15603": {
-        "占い師の服セット": ""
+        "占い師の服セット": "Fortune Teller Outfit"
     },
     "15604": {
         "clarity_nt_char_5148": "clarity_nt_char_5148"
@@ -46860,7 +46860,7 @@
         "clarity_nt_char_5154": "clarity_nt_char_5154"
     },
     "15621": {
-        "天地雷鳴士の装束セット": ""
+        "天地雷鳴士の装束セット": "Druid Outfit"
     },
     "15622": {
         "鉄壁のよろいセット": "Ironclad Armor Set"
@@ -46896,7 +46896,7 @@
         "clarity_nt_char_5155": "clarity_nt_char_5155"
     },
     "15633": {
-        "遊び人の服セット": ""
+        "遊び人の服セット": "Gadabout Outfit"
     },
     "15634": {
         "clarity_nt_char_5156": "clarity_nt_char_5156"
@@ -46923,7 +46923,7 @@
         "タンブラーシャツセット": "Tumbler Outfit"
     },
     "15642": {
-        "デスマスセット": ""
+        "デスマスセット": "Death Master Outfit"
     },
     "15643": {
         "ネヴァンメイルセット": "Nemain Mail Set"

@@ -1,2024 +1,2024 @@
 {
     "1": {
-        "<%sCAS_gambler>は|宿屋のマスに　止まった！": ""
+        "<%sCAS_gambler>は|宿屋のマスに　止まった！": "<%sCAS_gambler> stopped on an|Inn Space!"
     },
     "2": {
-        "<%sCAS_gambler>は|教会のマスに　止まった！": ""
+        "<%sCAS_gambler>は|教会のマスに　止まった！": "<%sCAS_gambler> stopped on a|Church Space!"
     },
     "3": {
-        "モンスターが　あらわれた！": ""
+        "モンスターが　あらわれた！": "A monster draws near!"
     },
     "4": {
-        "ボスモンスターが　あらわれた！": ""
+        "ボスモンスターが　あらわれた！": "The boss monster draws near!"
     },
     "5": {
-        "<%sCAS_gambler>は|サイコロプラス１のマスに　止まった！": ""
+        "<%sCAS_gambler>は|サイコロプラス１のマスに　止まった！": "<%sCAS_gambler> landed on a|Dice +1 Space!"
     },
     "6": {
-        "プラス１マスの　マスに止まった！|<br>|１マス分　前に移動してください。": ""
+        "プラス１マスの　マスに止まった！|<br>|１マス分　前に移動してください。": "Landed on a Forward 1 Space!|<br>|Please move forward one space."
     },
     "7": {
         "clarity_nt_char_7": "clarity_nt_char_7"
     },
     "8": {
-        "プラス２マスの　マスに止まった！|<br>|２マス分　前に移動してください。": ""
+        "プラス２マスの　マスに止まった！|<br>|２マス分　前に移動してください。": "Landed on a Forward 2 Space!|<br>|Please move forward two spaces."
     },
     "9": {
         "clarity_nt_char_9": "clarity_nt_char_9"
     },
     "10": {
-        "プラス３マスの　マスに止まった！|<br>|３マス分　前に移動してください。": ""
+        "プラス３マスの　マスに止まった！|<br>|３マス分　前に移動してください。": "Landed on a Forward 3 Space!|<br>|Please move forward three spaces."
     },
     "11": {
         "clarity_nt_char_11": "clarity_nt_char_11"
     },
     "12": {
-        "プラス４マスの　マスに止まった！|<br>|４マス分　前に移動してください。": ""
+        "プラス４マスの　マスに止まった！|<br>|４マス分　前に移動してください。": "Landed on a Forward 4 Space!|<br>|Please move forward four spaces."
     },
     "13": {
         "clarity_nt_char_13": "clarity_nt_char_13"
     },
     "14": {
-        "プラス５マスの　マスに止まった！|<br>|５マス分　前に移動してください。": ""
+        "プラス５マスの　マスに止まった！|<br>|５マス分　前に移動してください。": "Landed on a Forward 5 Space!|<br>|Please move forward five spaces."
     },
     "15": {
         "clarity_nt_char_15": "clarity_nt_char_15"
     },
     "16": {
-        "プラス６マスの　マスに止まった！|<br>|６マス分　前に移動してください。": ""
+        "プラス６マスの　マスに止まった！|<br>|６マス分　前に移動してください。": "Landed on a Forward 6 Space!|<br>|Please move forward six spaces."
     },
     "17": {
         "clarity_nt_char_17": "clarity_nt_char_17"
     },
     "18": {
-        "マイナス１マスの　マスに止まった！|<br>|１マス分　後ろに移動してください。": ""
+        "マイナス１マスの　マスに止まった！|<br>|１マス分　後ろに移動してください。": "Landed on a Back 1 Space!|<br>|Please move backward one space."
     },
     "19": {
         "clarity_nt_char_19": "clarity_nt_char_19"
     },
     "20": {
-        "マイナス２マスの　マスに止まった！|<br>|２マス分　後ろに移動してください。": ""
+        "マイナス２マスの　マスに止まった！|<br>|２マス分　後ろに移動してください。": "Landed on a Back 2 Space!|<br>|Please move backward two spaces."
     },
     "21": {
         "clarity_nt_char_21": "clarity_nt_char_21"
     },
     "22": {
-        "マイナス３マスの　マスに止まった！|<br>|３マス分　後ろに移動してください。": ""
+        "マイナス３マスの　マスに止まった！|<br>|３マス分　後ろに移動してください。": "Landed on a Back 3 Space!|<br>|Please move backward three spaces."
     },
     "23": {
         "clarity_nt_char_23": "clarity_nt_char_23"
     },
     "24": {
-        "マイナス４マスの　マスに止まった！|<br>|４マス分　後ろに移動してください。": ""
+        "マイナス４マスの　マスに止まった！|<br>|４マス分　後ろに移動してください。": "Landed on a Back 4 Space!|<br>|Please move backward four spaces."
     },
     "25": {
         "clarity_nt_char_25": "clarity_nt_char_25"
     },
     "26": {
-        "マイナス５マスの　マスに止まった！|<br>|５マス分　後ろに移動してください。": ""
+        "マイナス５マスの　マスに止まった！|<br>|５マス分　後ろに移動してください。": "Landed on a Back 5 Space!|<br>|Please move backward five spaces."
     },
     "27": {
         "clarity_nt_char_27": "clarity_nt_char_27"
     },
     "28": {
-        "マイナス６マスの　マスに止まった！|<br>|６マス分　後ろに移動してください。": ""
+        "マイナス６マスの　マスに止まった！|<br>|６マス分　後ろに移動してください。": "Landed on a Back 6 Space!|<br>|Please move backward six spaces."
     },
     "29": {
         "clarity_nt_char_29": "clarity_nt_char_29"
     },
     "30": {
-        "<%sCAS_gambler>は|２倍速のブーツを　見つけた！|<br>|次のターン　移動するときに|サイコロを　１個多く|振れるようになった！": ""
+        "<%sCAS_gambler>は|２倍速のブーツを　見つけた！|<br>|次のターン　移動するときに|サイコロを　１個多く|振れるようになった！": "<%sCAS_gambler> found the Double Speed|Boots!|<br>|Next turn, they'll roll an extra dice!"
     },
     "31": {
         "clarity_nt_char_31": "clarity_nt_char_31"
     },
     "32": {
-        "<%sCAS_gambler>は|ミラクルダイスのマスに　止まった！|<br>|次のターン　移動するときに|サイコロの目を|自由に選ぶことが　できます！": ""
+        "<%sCAS_gambler>は|ミラクルダイスのマスに　止まった！|<br>|次のターン　移動するときに|サイコロの目を|自由に選ぶことが　できます！": "<%sCAS_gambler> landed on a|Miracle Dice Space!|<br>|Next turn, they can choose the value|of their dice roll!"
     },
     "33": {
         "clarity_nt_char_33": "clarity_nt_char_33"
     },
     "34": {
-        "<%sCAS_gambler>は|矢印のマスに　止まった！": ""
+        "<%sCAS_gambler>は|矢印のマスに　止まった！": "<%sCAS_gambler> landed on an|Arrow Space!"
     },
     "35": {
-        "<%sCAS_gambler>は|宝箱のマスに　止まった！": ""
+        "<%sCAS_gambler>は|宝箱のマスに　止まった！": "<%sCAS_gambler> landed on a|Treasure Chest Space!"
     },
     "36": {
-        "<%sCAS_gambler>は|パルプンテのマスに　止まった！": ""
+        "<%sCAS_gambler>は|パルプンテのマスに　止まった！": "<%sCAS_gambler> landed on a|Hocus Pocus Space!"
     },
     "37": {
         "clarity_nt_char_37": "clarity_nt_char_37"
     },
     "38": {
-        "<%sCAS_gambler>は|テンションアップのマスに　止まった！": ""
+        "<%sCAS_gambler>は|テンションアップのマスに　止まった！": "<%sCAS_gambler> landed on a|Tension Boost Space!"
     },
     "39": {
-        "<%sCAS_gambler>は|ダーマ神殿のマスに　止まった！": ""
+        "<%sCAS_gambler>は|ダーマ神殿のマスに　止まった！": "<%sCAS_gambler> landed on a|Dharma Temple Space!"
     },
     "40": {
         "clarity_nt_char_40": "clarity_nt_char_40"
     },
     "41": {
-        "<%sCAS_gambler>は|超ダーマ神殿のマスに　止まった！": ""
+        "<%sCAS_gambler>は|超ダーマ神殿のマスに　止まった！": "<%sCAS_gambler> landed on a|Super Dharma Temple Space!"
     },
     "42": {
-        "<%sCAS_gambler>は|出会いの酒場マスに　止まった！": ""
+        "<%sCAS_gambler>は|出会いの酒場マスに　止まった！": "<%sCAS_gambler> landed on an|Encounter Tavern Space!"
     },
     "43": {
         "clarity_nt_char_43": "clarity_nt_char_43"
     },
     "44": {
-        "<%sCAS_gambler>の|ＨＰとＭＰが　全回復した！": ""
+        "<%sCAS_gambler>の|ＨＰとＭＰが　全回復した！": "<%sCAS_gambler>'s HP and MP fully|recovered!"
     },
     "45": {
         "clarity_nt_char_45": "clarity_nt_char_45"
     },
     "46": {
-        "<%sCAS_gambler>は|天使の守りの　効果を得た！|<br>|<%sCAS_gambler>は|死んでしまっても|確実に　生き返るようになった！": ""
+        "<%sCAS_gambler>は|天使の守りの　効果を得た！|<br>|<%sCAS_gambler>は|死んでしまっても|確実に　生き返るようになった！": "<%sCAS_gambler> gained a Goddess' Grace|effect!|<br>|<%sCAS_gambler> will now come back to life after|dying one time!"
     },
     "47": {
-        "<%sCAS_gambler>は|矢印の立て札の　ウラから|宝の地図を　見つけた！|<br>|なんと　１ターンの間|全ての　モンスターのマスが|宝箱のマスになった！": ""
+        "<%sCAS_gambler>は|矢印の立て札の　ウラから|宝の地図を　見つけた！|<br>|なんと　１ターンの間|全ての　モンスターのマスが|宝箱のマスになった！": "<%sCAS_gambler> found a Treasure Map on|the back of the Arrow Space!|<br>|For 1 turn, all Monster Spaces will become|Treasure Chest Spaces!"
     },
     "48": {
         "clarity_nt_char_48": "clarity_nt_char_48"
     },
     "49": {
-        "<%sCAS_gambler>は|矢印の立て札の　ウラから|メタルの地図を　見つけた！|<br>|なんと　１ターンの間|全ての　モンスターのマスが|メタル系モンスターの　マスになった！": ""
+        "<%sCAS_gambler>は|矢印の立て札の　ウラから|メタルの地図を　見つけた！|<br>|なんと　１ターンの間|全ての　モンスターのマスが|メタル系モンスターの　マスになった！": "<%sCAS_gambler> found a Metal Map on|the back of the Arrow Space!|<br>|For 1 turn, all Monster Spaces will become|Metal Monster Spaces!"
     },
     "50": {
         "clarity_nt_char_50": "clarity_nt_char_50"
     },
     "51": {
-        "<%sCAS_gambler>は|矢印の立て札の　ウラから|黄金の地図を　見つけた！|<br>|なんと　１ターンの間|全ての　モンスターのマスが|ゴールド系モンスターの　マスになった！": ""
+        "<%sCAS_gambler>は|矢印の立て札の　ウラから|黄金の地図を　見つけた！|<br>|なんと　１ターンの間|全ての　モンスターのマスが|ゴールド系モンスターの　マスになった！": "<%sCAS_gambler> found a Golden Map on|the back of the Arrow Space!|<br>|For 1 turn, all Monster Spaces will become|Golden Monster Spaces!"
     },
     "52": {
         "clarity_nt_char_52": "clarity_nt_char_52"
     },
     "53": {
-        "<%sCAS_gambler>は|矢印の立て札の　ウラから|カジノコインを　１００枚見つけた！": ""
+        "<%sCAS_gambler>は|矢印の立て札の　ウラから|カジノコインを　１００枚見つけた！": "<%sCAS_gambler> found a 100 Casino|Coins under the Arrow Space!"
     },
     "54": {
-        "<%sCAS_gambler>は|追加のサイコロを　１こ手に入れた！": ""
+        "<%sCAS_gambler>は|追加のサイコロを　１こ手に入れた！": "<%sCAS_gambler> received an additional|dice!"
     },
     "55": {
         "clarity_nt_char_55": "clarity_nt_char_55"
     },
     "56": {
-        "<%sCAS_gambler>は|<%nM_coin>枚の　カジノコインを手に入れた！": ""
+        "<%sCAS_gambler>は|<%nM_coin>枚の　カジノコインを手に入れた！": "<%sCAS_gambler> received|<%dM_coin> Casino Coins!"
     },
     "57": {
-        "なんと　宝箱の中身は　ひとくいばこだった！": ""
+        "なんと　宝箱の中身は　ひとくいばこだった！": "The chest was actually a Cannibox!"
     },
     "58": {
-        "<%sCAS_gambler>は|せかいじゅのしずくを　見つけた！|<br>|<%sCAS_gambler>の|ＨＰとＭＰが　全回復した！": ""
+        "<%sCAS_gambler>は|せかいじゅのしずくを　見つけた！|<br>|<%sCAS_gambler>の|ＨＰとＭＰが　全回復した！": "<%sCAS_gambler> found a Yggdrasil Dew!|<br>|<%sCAS_gambler>'s HP and MP are fully restored!"
     },
     "59": {
-        "<%sCAS_gambler>は|経験値の秘薬を　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>は|１００の　経験値をかくとく！": ""
+        "<%sCAS_gambler>は|経験値の秘薬を　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>は|１００の　経験値をかくとく！": "<%sCAS_gambler> found an Experience|Elixir!|<br>|<%sCAS_gambler> received 100 EXP!"
     },
     "60": {
         "clarity_nt_char_60": "clarity_nt_char_60"
     },
     "61": {
-        "<%sCAS_gambler>は|いのちのきのみを　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>の|最大ＨＰが　１０あがった！": ""
+        "<%sCAS_gambler>は|いのちのきのみを　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>の|最大ＨＰが　１０あがった！": "<%sCAS_gambler> found a Seed of Life!|<br>|<se_nots System 7>|<%sCAS_gambler>'s max HP increased by 10!"
     },
     "62": {
         "clarity_nt_char_62": "clarity_nt_char_62"
     },
     "63": {
-        "<%sCAS_gambler>は|ふしぎなきのみを　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>の|最大ＭＰが　１０あがった！": ""
+        "<%sCAS_gambler>は|ふしぎなきのみを　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>の|最大ＭＰが　１０あがった！": "<%sCAS_gambler> found a Seed of Magic!|<br>|<se_nots System 7>|<%sCAS_gambler>'s max MP increased by 10!"
     },
     "64": {
         "clarity_nt_char_64": "clarity_nt_char_64"
     },
     "65": {
-        "<%sCAS_gambler>は|ちからのたねを　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>の|こうげき力が　５あがった！": ""
+        "<%sCAS_gambler>は|ちからのたねを　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>の|こうげき力が　５あがった！": "<%sCAS_gambler> found a Seed of Strength!|<br>|<se_nots System 7>|<%sCAS_gambler>'s Attack increased by 5!"
     },
     "66": {
-        "なんと　<%sCAS_gambler>は|宝箱の中から　伝説の武器を　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>は　伝説の武器を装備した！|与えるダメージが　２５％あがった！": ""
+        "なんと　<%sCAS_gambler>は|宝箱の中から　伝説の武器を　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>は　伝説の武器を装備した！|与えるダメージが　２５％あがった！": "<%sCAS_gambler> found a Legendary Weapon|inside the treasure chest!|<br>|<se_nots System 7>|<%sCAS_gambler> equipped the Legendary|Weapon! Damage dealt increased by 25%!"
     },
     "67": {
-        "なんと　<%sCAS_gambler>は|宝箱の中から　伝説の防具を　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>は　伝説の防具を装備した！|受けるダメージが　２５％少なくなった！": ""
+        "なんと　<%sCAS_gambler>は|宝箱の中から　伝説の防具を　見つけた！|<br>|<se_nots System 7>|<%sCAS_gambler>は　伝説の防具を装備した！|受けるダメージが　２５％少なくなった！": "<%sCAS_gambler> found a Legendary Armor|inside the treasure chest!|<br>|<se_nots System 7>|<%sCAS_gambler> equipped the Legendary|Armor! Damage taken reduced by 25%!"
     },
     "68": {
-        "なんと　宝箱の中身は　ミミックだった！": ""
+        "なんと　宝箱の中身は　ミミックだった！": "The chest was actually a Mimic!"
     },
     "69": {
-        "なんと　宝箱の中身は　パンドラボックスだった！": ""
+        "なんと　宝箱の中身は　パンドラボックスだった！": "The chest was actually a Pandora's Box!"
     },
     "70": {
-        "なんと　<%sCAS_gambler>に|ピオリムの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>は|移動するときに　サイコロを|１個多く　振れるようになった！": ""
+        "なんと　<%sCAS_gambler>に|ピオリムの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>は|移動するときに　サイコロを|１個多く　振れるようになった！": "<%sCAS_gambler> gained an Acceleratle effect!|<br>|Next turn, <%sCAS_gambler> will roll an|extra dice!"
     },
     "71": {
-        "なんと　<%sCAS_gambler>に|ボミオスの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>は|移動するときに　サイコロの目が|必ず　１になってしまった。": ""
+        "なんと　<%sCAS_gambler>に|ボミオスの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>は|移動するときに　サイコロの目が|必ず　１になってしまった。": "<%sCAS_gambler> gained an Deceleratle effect!|<br>|Next turn, <%sCAS_gambler>'s roll will|land on 1."
     },
     "72": {
-        "なんと　<%sCAS_gambler>に|会心必中の効果が　発生した！|<br>|<%sCAS_gambler>は　次の攻撃で|必ず　会心のいちげきが|でるようになった！": ""
+        "なんと　<%sCAS_gambler>に|会心必中の効果が　発生した！|<br>|<%sCAS_gambler>は　次の攻撃で|必ず　会心のいちげきが|でるようになった！": "<%sCAS_gambler> gained a Critical Claim effect!|<br>|<%sCAS_gambler>'s next attack will be a|guaranteed critical hit!"
     },
     "73": {
-        "なんと　<%sCAS_gambler>に|元気玉の効果が　発生した！|<br>|<%sCAS_gambler>は|次のバトルで　手に入る経験値が|２倍になった！": ""
+        "なんと　<%sCAS_gambler>に|元気玉の効果が　発生した！|<br>|<%sCAS_gambler>は|次のバトルで　手に入る経験値が|２倍になった！": "<%sCAS_gambler> gained a Bonus Orb effect!|<br>|<%sCAS_gambler> will gain double EXP in|the next battle won!"
     },
     "74": {
         "clarity_nt_char_74": "clarity_nt_char_74"
     },
     "75": {
-        "なんと　<%sCAS_gambler>に|超元気玉の効果が　発生した！|<br>|<%sCAS_gambler>は|次のバトルで　手に入る経験値が|２倍になった！": ""
+        "なんと　<%sCAS_gambler>に|超元気玉の効果が　発生した！|<br>|<%sCAS_gambler>は|次のバトルで　手に入る経験値が|２倍になった！": "<%sCAS_gambler> gained a Bonus Orb L effect!|<br>|<%sCAS_gambler> will gain double EXP in|the next battle won!"
     },
     "76": {
-        "なんと　<%sCAS_gambler>に|お宝探しの効果が　発生した！|<br>|<%sCAS_gambler>は|宝箱のマスに　必ず止まるようになった！": ""
+        "なんと　<%sCAS_gambler>に|お宝探しの効果が　発生した！|<br>|<%sCAS_gambler>は|宝箱のマスに　必ず止まるようになった！": "<%sCAS_gambler> gained a Treasure Hunt effect!|<br>|<%sCAS_gambler> is guaranteed to land on|the next Treasure Chest Space they pass!"
     },
     "77": {
-        "なんと　<%sCAS_gambler>に|バシルーラの効果が　発生した！": ""
+        "なんと　<%sCAS_gambler>に|バシルーラの効果が　発生した！": "<%sCAS_gambler> gained the effect of|Bazoom!"
     },
     "78": {
         "clarity_nt_char_78": "clarity_nt_char_78"
     },
     "79": {
-        "なんと　<%sCAS_gambler>は|のろわれてしまった！|<br>|次のターン　サイコロの目が|１か６しか　出なくなってしまった。": ""
+        "なんと　<%sCAS_gambler>は|のろわれてしまった！|<br>|次のターン　サイコロの目が|１か６しか　出なくなってしまった。": "<%sCAS_gambler> was cursed!|<br>|Next turn, their die roll will either be|a 1 or a 6!"
     },
     "80": {
         "clarity_nt_char_80": "clarity_nt_char_80"
     },
     "81": {
-        "なんと　たたかいのドラムが　鳴り響いた！|<br>|<%sCAS_gambler>の|テンションが　あがった！": ""
+        "なんと　たたかいのドラムが　鳴り響いた！|<br>|<%sCAS_gambler>の|テンションが　あがった！": "A War Drum rang out!|<br>|<%sCAS_gambler>'s tension increased!"
     },
     "82": {
-        "<%sCAS_gambler>の|テンションが　あがった！": ""
+        "<%sCAS_gambler>の|テンションが　あがった！": "<%sCAS_gambler>'s tension increased!"
     },
     "83": {
-        "スライムがあらわれた！": ""
+        "スライムがあらわれた！": "A Slime draws near!"
     },
     "84": {
-        "ドラキーがあらわれた！": ""
+        "ドラキーがあらわれた！": "A Dracky draws near!"
     },
     "85": {
-        "おおきづちがあらわれた！": ""
+        "おおきづちがあらわれた！": "A Hammerhood draws near!"
     },
     "86": {
         "clarity_nt_char_86": "clarity_nt_char_86"
     },
     "87": {
-        "ゴーストがあらわれた！": ""
+        "ゴーストがあらわれた！": "A Ghost draws near!"
     },
     "88": {
-        "モーモンがあらわれた！": ""
+        "モーモンがあらわれた！": "A Teeny Sanguini draws near!"
     },
     "89": {
-        "ゴールデントーテムがあらわれた！": ""
+        "ゴールデントーテムがあらわれた！": "A Gem Jamboree draws near!"
     },
     "90": {
         "clarity_nt_char_90": "clarity_nt_char_90"
     },
     "91": {
-        "メタルスライムがあらわれた！": ""
+        "メタルスライムがあらわれた！": "A Metal Slime draws near!"
     },
     "92": {
         "clarity_nt_char_92": "clarity_nt_char_92"
     },
     "93": {
-        "ねこまどうがあらわれた！": ""
+        "ねこまどうがあらわれた！": "A Meowgician draws near!"
     },
     "94": {
         "clarity_nt_char_94": "clarity_nt_char_94"
     },
     "95": {
-        "キメラがあらわれた！": ""
+        "キメラがあらわれた！": "A Chimaera draws near!"
     },
     "96": {
         "clarity_nt_char_96": "clarity_nt_char_96"
     },
     "97": {
-        "ばくだん岩があらわれた！": ""
+        "ばくだん岩があらわれた！": "A Rockbomb draws near!"
     },
     "98": {
         "clarity_nt_char_98": "clarity_nt_char_98"
     },
     "99": {
-        "じんめんじゅがあらわれた！": ""
+        "じんめんじゅがあらわれた！": "A Treeface draws near!"
     },
     "100": {
-        "オークがあらわれた！": ""
+        "オークがあらわれた！": "An Orc draws near!"
     },
     "101": {
         "clarity_nt_char_101": "clarity_nt_char_101"
     },
     "102": {
-        "ゴールドマンがあらわれた！": ""
+        "ゴールドマンがあらわれた！": "A Gold Golem draws near!"
     },
     "103": {
-        "はぐれメタルがあらわれた！": ""
+        "はぐれメタルがあらわれた！": "A Liquid Metal Slime draws near!"
     },
     "104": {
-        "キラーマシンがあらわれた！": ""
+        "キラーマシンがあらわれた！": "A Killing Machine draws near!"
     },
     "105": {
-        "ギガンテスがあらわれた！": ""
+        "ギガンテスがあらわれた！": "A Gigantes draws near!"
     },
     "106": {
         "clarity_nt_char_106": "clarity_nt_char_106"
     },
     "107": {
-        "ドラゴンゾンビがあらわれた！": ""
+        "ドラゴンゾンビがあらわれた！": "A Dragon Zombie draws near!"
     },
     "108": {
         "clarity_nt_char_108": "clarity_nt_char_108"
     },
     "109": {
-        "ワイトキングがあらわれた！": ""
+        "ワイトキングがあらわれた！": "A Wight King draws near!"
     },
     "110": {
-        "アークデーモンがあらわれた！": ""
+        "アークデーモンがあらわれた！": "An Archdemon draws near!"
     },
     "111": {
         "clarity_nt_char_111": "clarity_nt_char_111"
     },
     "112": {
-        "ゴールデンスライムがあらわれた！": ""
+        "ゴールデンスライムがあらわれた！": "A Gem Slime draws near!"
     },
     "113": {
         "clarity_nt_char_113": "clarity_nt_char_113"
     },
     "114": {
-        "メタルキングがあらわれた！": ""
+        "メタルキングがあらわれた！": "A Metal King Slime draws near!"
     },
     "115": {
-        "バラモスがあらわれた！": ""
+        "バラモスがあらわれた！": "Baramos draws near!"
     },
     "116": {
-        "キングレオがあらわれた！": ""
+        "キングレオがあらわれた！": "Marquis de Leon draws near!"
     },
     "117": {
         "clarity_nt_char_117": "clarity_nt_char_117"
     },
     "118": {
-        "ジャミラスがあらわれた！": ""
+        "ジャミラスがあらわれた！": "Jamirus draws near!"
     },
     "119": {
         "clarity_nt_char_119": "clarity_nt_char_119"
     },
     "120": {
-        "バルザックがあらわれた！": ""
+        "バルザックがあらわれた！": "Baalzack draws near!"
     },
     "121": {
         "clarity_nt_char_121": "clarity_nt_char_121"
     },
     "122": {
-        "グラコスがあらわれた！": ""
+        "グラコスがあらわれた！": "Gracos draws near!"
     },
     "123": {
-        "アンルシアが　仲間に加わった！|<br>|アンルシアは　５ターンに１度|勇者の光を　放つことで|モンスターの　動きを封じてくれます！": ""
+        "アンルシアが　仲間に加わった！|<br>|アンルシアは　５ターンに１度|勇者の光を　放つことで|モンスターの　動きを封じてくれます！": "Anlucia joins your party|<br>|Every 5 turns, Anlucia will stop enemies|in their tracks by using the light of the|hero!"
     },
     "124": {
         "clarity_nt_char_124": "clarity_nt_char_124"
     },
     "125": {
-        "エステラが　仲間に加わった！|<br>|エステラは　３ターンに１度|竜気の結晶を　召喚して|全てのダメージから　身を守ってくれます！": ""
+        "エステラが　仲間に加わった！|<br>|エステラは　３ターンに１度|竜気の結晶を　召喚して|全てのダメージから　身を守ってくれます！": "Estella joins your party|<br>|Every 3 turns, Estella will summon a|dragonic spirit crystal to shield you from|all damage!"
     },
     "126": {
         "clarity_nt_char_126": "clarity_nt_char_126"
     },
     "127": {
-        "ヒューザが　仲間に加わった！|<br>|ヒューザは　３ターンに１度|仲間全員に　会心必中の効果を|与えてくれます！": ""
+        "ヒューザが　仲間に加わった！|<br>|ヒューザは　３ターンに１度|仲間全員に　会心必中の効果を|与えてくれます！": "Huzer joined your party!|<br>|Every 3 turns, Huzer will grant the entire|party a Critical Claim effect!"
     },
     "128": {
-        "ザンクローネが　仲間に加わった！|<br>|ザンクローネは　２ターンに１度|仲間全員の　テンションを|１段階　アップしてくれます！": ""
+        "ザンクローネが　仲間に加わった！|<br>|ザンクローネは　２ターンに１度|仲間全員の　テンションを|１段階　アップしてくれます！": "Zankrone joined your party!|<br>|Every 2 turns, Zankrone will increase the|entire party's tension by 1 stage!"
     },
     "129": {
-        "セラフィが　仲間に加わった！|<br>|セラフィは　毎ターン|ベホマラーを　となえて|仲間全員を　回復してくれます！": ""
+        "セラフィが　仲間に加わった！|<br>|セラフィは　毎ターン|ベホマラーを　となえて|仲間全員を　回復してくれます！": "Seraphy joined the party!|<br>|Every turn, Seraphy will cast Multiheal to|heal the entire party!"
     },
     "130": {
         "clarity_nt_char_130": "clarity_nt_char_130"
     },
     "131": {
-        "ダークドレアムがあらわれた！": ""
+        "ダークドレアムがあらわれた！": "Nokturnus draws near!"
     },
     "132": {
         "clarity_nt_char_132": "clarity_nt_char_132"
     },
     "133": {
-        "<%sCAS_gambler>たち全員の|ＨＰとＭＰが　全回復した！": ""
+        "<%sCAS_gambler>たち全員の|ＨＰとＭＰが　全回復した！": "<%sCAS_gambler> and co.'s HP and MP|was completely restored!"
     },
     "134": {
         "clarity_nt_char_134": "clarity_nt_char_134"
     },
     "135": {
-        "<%sCAS_gambler>たち全員は|追加のサイコロを　１こずつ手に入れた！": ""
+        "<%sCAS_gambler>たち全員は|追加のサイコロを　１こずつ手に入れた！": "<%sCAS_gambler> and co. received an|additional dice!"
     },
     "136": {
         "clarity_nt_char_136": "clarity_nt_char_136"
     },
     "137": {
-        "<%sCAS_gambler>は|せかいじゅのしずくを　見つけた！|<br>|<%sCAS_gambler>たち全員の|ＨＰとＭＰが　全回復した！": ""
+        "<%sCAS_gambler>は|せかいじゅのしずくを　見つけた！|<br>|<%sCAS_gambler>たち全員の|ＨＰとＭＰが　全回復した！": "<%sCAS_gambler> found a Yggdrasil Dew!|<br>|<%sCAS_gambler> and co.'s HP and MP was|completely restored!"
     },
     "138": {
-        "なんと　<%sCAS_gambler>たち全員に|ピオリムの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>たち全員は|移動するときに　サイコロを|１個多く　振れるようになった！": ""
+        "なんと　<%sCAS_gambler>たち全員に|ピオリムの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>たち全員は|移動するときに　サイコロを|１個多く　振れるようになった！": "<%sCAS_gambler> and co. gained an Acceleratle|effect!|<br>|Next turn, <%sCAS_gambler> and co. will roll|an additional dice!"
     },
     "139": {
-        "なんと　<%sCAS_gambler>たち全員に|ボミオスの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>たち全員は|移動するときに　サイコロの目が|必ず　１になってしまった。": ""
+        "なんと　<%sCAS_gambler>たち全員に|ボミオスの効果が　発生した！|<br>|次のターン　<%sCAS_gambler>たち全員は|移動するときに　サイコロの目が|必ず　１になってしまった。": "<%sCAS_gambler> and co. gained a Deceleratle|effect!|<br>|Next turn, <%sCAS_gambler> and co. will|roll a 1."
     },
     "140": {
-        "なんと　<%sCAS_gambler>たち全員に|超元気玉の効果が　発生した！|<br>|<%sCAS_gambler>たち全員は|次のバトルで　手に入る経験値が|２倍になった！": ""
+        "なんと　<%sCAS_gambler>たち全員に|超元気玉の効果が　発生した！|<br>|<%sCAS_gambler>たち全員は|次のバトルで　手に入る経験値が|２倍になった！": "<%sCAS_gambler> and co. gained a|Bonus Orb L effect!|<br>|<%sCAS_gambler> and co.'s next battle won|will give double the EXP!"
     },
     "141": {
-        "なんと　<%sCAS_gambler>たち全員は|のろわれてしまった！|<br>|次のターン　サイコロの目が|１か６しか　出なくなってしまった。": ""
+        "なんと　<%sCAS_gambler>たち全員は|のろわれてしまった！|<br>|次のターン　サイコロの目が|１か６しか　出なくなってしまった。": "<%sCAS_gambler> and co. were cursed!|<br>|Next turn, their dice roll will either be a|1 or a 6."
     },
     "142": {
         "clarity_nt_char_142": "clarity_nt_char_142"
     },
     "143": {
-        "なんと　たたかいのドラムが　鳴り響いた！|<br>|<%sCAS_gambler>たち全員の|テンションが　あがった！": ""
+        "なんと　たたかいのドラムが　鳴り響いた！|<br>|<%sCAS_gambler>たち全員の|テンションが　あがった！": "A War Drum rang out!|<br>|<%sCAS_gambler> and co.'s tension increased!"
     },
     "144": {
-        "旅芸人": ""
+        "旅芸人": "MIN"
     },
     "145": {
-        "戦士": ""
+        "戦士": "WAR"
     },
     "146": {
         "clarity_nt_char_146": "clarity_nt_char_146"
     },
     "147": {
-        "盗賊": ""
+        "盗賊": "THF"
     },
     "148": {
         "clarity_nt_char_148": "clarity_nt_char_148"
     },
     "149": {
-        "魔法使い": ""
+        "魔法使い": "MGE"
     },
     "150": {
         "clarity_nt_char_150": "clarity_nt_char_150"
     },
     "151": {
-        "僧侶": ""
+        "僧侶": "PRI"
     },
     "152": {
         "clarity_nt_char_152": "clarity_nt_char_152"
     },
     "153": {
-        "魔法戦士": ""
+        "魔法戦士": "ARM"
     },
     "154": {
         "clarity_nt_char_154": "clarity_nt_char_154"
     },
     "155": {
-        "バトルマスター": ""
+        "バトルマスター": "BTL"
     },
     "156": {
-        "賢者": ""
+        "賢者": "SGE"
     },
     "157": {
         "clarity_nt_char_157": "clarity_nt_char_157"
     },
     "158": {
-        "旅芸": ""
+        "旅芸": "MIN"
     },
     "159": {
         "clarity_nt_char_159": "clarity_nt_char_159"
     },
     "160": {
-        "魔使": ""
+        "魔使": "MGE"
     },
     "161": {
         "clarity_nt_char_161": "clarity_nt_char_161"
     },
     "162": {
-        "魔戦": ""
+        "魔戦": "ARM"
     },
     "163": {
         "clarity_nt_char_163": "clarity_nt_char_163"
     },
     "164": {
-        "バト": ""
+        "バト": "BTL"
     },
     "165": {
         "clarity_nt_char_165": "clarity_nt_char_165"
     },
     "166": {
-        "スライム": ""
+        "スライム": "Slime"
     },
     "167": {
         "clarity_nt_char_167": "clarity_nt_char_167"
     },
     "168": {
-        "ドラキー": ""
+        "ドラキー": "Dracky"
     },
     "169": {
         "clarity_nt_char_169": "clarity_nt_char_169"
     },
     "170": {
-        "おおきづち": ""
+        "おおきづち": "Hammerhood"
     },
     "171": {
-        "ゴースト": ""
+        "ゴースト": "Ghost"
     },
     "172": {
         "clarity_nt_char_172": "clarity_nt_char_172"
     },
     "173": {
-        "モーモン": ""
+        "モーモン": "T. Sanguini"
     },
     "174": {
         "clarity_nt_char_174": "clarity_nt_char_174"
     },
     "175": {
-        "ゴールデントーテム": ""
+        "ゴールデントーテム": "Gem Jamboree"
     },
     "176": {
-        "メタルスライム": ""
+        "メタルスライム": "Metal Slime"
     },
     "177": {
-        "ひとくいばこ": ""
+        "ひとくいばこ": "Cannibox"
     },
     "178": {
         "clarity_nt_char_178": "clarity_nt_char_178"
     },
     "179": {
-        "ねこまどう": ""
+        "ねこまどう": "Meowgician"
     },
     "180": {
-        "キメラ": ""
+        "キメラ": "Chimaera"
     },
     "181": {
-        "ばくだん岩": ""
+        "ばくだん岩": "Rockbomb"
     },
     "182": {
-        "じんめんじゅ": ""
+        "じんめんじゅ": "Treeface"
     },
     "183": {
         "clarity_nt_char_183": "clarity_nt_char_183"
     },
     "184": {
-        "オーク": ""
+        "オーク": "Orc"
     },
     "185": {
-        "ゴールドマン": ""
+        "ゴールドマン": "Gold Golem"
     },
     "186": {
         "clarity_nt_char_186": "clarity_nt_char_186"
     },
     "187": {
-        "はぐれメタル": ""
+        "はぐれメタル": "Liquid Metal Slime"
     },
     "188": {
         "clarity_nt_char_188": "clarity_nt_char_188"
     },
     "189": {
-        "ミミック": ""
+        "ミミック": "Mimic"
     },
     "190": {
         "clarity_nt_char_190": "clarity_nt_char_190"
     },
     "191": {
-        "キラーマシン": ""
+        "キラーマシン": "Killing Machine"
     },
     "192": {
         "clarity_nt_char_192": "clarity_nt_char_192"
     },
     "193": {
-        "ギガンテス": ""
+        "ギガンテス": "Gigantes"
     },
     "194": {
-        "ドラゴンゾンビ": ""
+        "ドラゴンゾンビ": "Dragon Zombie"
     },
     "195": {
-        "ワイトキング": ""
+        "ワイトキング": "Wight King"
     },
     "196": {
         "clarity_nt_char_196": "clarity_nt_char_196"
     },
     "197": {
-        "アークデーモン": ""
+        "アークデーモン": "Archdemon"
     },
     "198": {
-        "ゴールデンスライム": ""
+        "ゴールデンスライム": "Gem Slime"
     },
     "199": {
-        "メタルキング": ""
+        "メタルキング": "Metal King Slime"
     },
     "200": {
         "clarity_nt_char_200": "clarity_nt_char_200"
     },
     "201": {
-        "パンドラボックス": ""
+        "パンドラボックス": "Pandora's Box"
     },
     "202": {
         "clarity_nt_char_202": "clarity_nt_char_202"
     },
     "203": {
-        "バラモス": ""
+        "バラモス": "Baramos"
     },
     "204": {
         "clarity_nt_char_204": "clarity_nt_char_204"
     },
     "205": {
-        "キングレオ": ""
+        "キングレオ": "Marquis de Leon"
     },
     "206": {
-        "ジャミラス": ""
+        "ジャミラス": "Jamirus"
     },
     "207": {
-        "バルザック": ""
+        "バルザック": "Baalzack"
     },
     "208": {
-        "グラコス": ""
+        "グラコス": "Gracos"
     },
     "209": {
         "clarity_nt_char_209": "clarity_nt_char_209"
     },
     "210": {
-        "ダークドレアム": ""
+        "ダークドレアム": "Nokturnus"
     },
     "211": {
-        "こうげき": ""
+        "こうげき": "Attack"
     },
     "212": {
         "clarity_nt_char_212": "clarity_nt_char_212"
     },
     "213": {
-        "ホイミ": ""
+        "ホイミ": "Heal"
     },
     "214": {
-        "キラージャグリング": ""
+        "キラージャグリング": "Have A Ball"
     },
     "215": {
-        "ハッスルダンス": ""
+        "ハッスルダンス": "Hustle Dance"
     },
     "216": {
-        "かえん斬り": ""
+        "かえん斬り": "Flame Slash"
     },
     "217": {
-        "かばう": ""
+        "かばう": "Cover"
     },
     "218": {
-        "ミラクルソード": ""
+        "ミラクルソード": "Miracle Slash"
     },
     "219": {
-        "ウィングブロウ": ""
+        "ウィングブロウ": "Propeller Blade"
     },
     "220": {
-        "ピオラ": ""
+        "ピオラ": "Accel"
     },
     "221": {
-        "ぬすむ": ""
+        "ぬすむ": "Half-Inch"
     },
     "222": {
-        "メラ": ""
+        "メラ": "Frizz"
     },
     "223": {
         "clarity_nt_char_223": "clarity_nt_char_223"
     },
     "224": {
-        "魔力かくせい": ""
+        "魔力かくせい": "Channel Anger"
     },
     "225": {
         "clarity_nt_char_225": "clarity_nt_char_225"
     },
     "226": {
-        "メラゾーマ": ""
+        "メラゾーマ": "Kafrizz"
     },
     "227": {
-        "ベホイミ": ""
+        "ベホイミ": "Midheal"
     },
     "228": {
         "clarity_nt_char_228": "clarity_nt_char_228"
     },
     "229": {
-        "ベホマラー": ""
+        "ベホマラー": "Multiheal"
     },
     "230": {
-        "ザオラル": ""
+        "ザオラル": "Zing"
     },
     "231": {
         "clarity_nt_char_231": "clarity_nt_char_231"
     },
     "232": {
-        "ＭＰパサー": ""
+        "ＭＰパサー": "M-Pathy"
     },
     "233": {
-        "バイキルト": ""
+        "バイキルト": "Oomphle"
     },
     "234": {
-        "ギガスラッシュ": ""
+        "ギガスラッシュ": "Gigaslash"
     },
     "235": {
-        "とうこん討ち": ""
+        "とうこん討ち": "Clap Trap"
     },
     "236": {
         "clarity_nt_char_236": "clarity_nt_char_236"
     },
     "237": {
-        "すてみ": ""
+        "すてみ": "Double Up"
     },
     "238": {
-        "天下無双": ""
+        "天下無双": "A Cut Above"
     },
     "239": {
         "clarity_nt_char_239": "clarity_nt_char_239"
     },
     "240": {
-        "天使の守り": ""
+        "天使の守り": "Goddess' Grace"
     },
     "241": {
-        "ボス宝箱": ""
+        "ボス宝箱": "Boss Chest"
     },
     "242": {
         "clarity_nt_char_242": "clarity_nt_char_242"
     },
     "243": {
-        "ダーマ神殿マス": ""
+        "ダーマ神殿マス": "Dharma Temple Space"
     },
     "244": {
-        "フワフワする": ""
+        "フワフワする": "Fluffing around..."
     },
     "245": {
         "clarity_nt_char_245": "clarity_nt_char_245"
     },
     "246": {
-        "メラストーム": ""
+        "メラストーム": "Kerfrizz"
     },
     "247": {
         "clarity_nt_char_247": "clarity_nt_char_247"
     },
     "248": {
-        "グラグラする": ""
+        "グラグラする": "Wobbling..."
     },
     "249": {
         "clarity_nt_char_249": "clarity_nt_char_249"
     },
     "250": {
-        "逃げる": ""
+        "逃げる": "Run Away"
     },
     "251": {
-        "ザキ": ""
+        "ザキ": "Whack"
     },
     "252": {
         "clarity_nt_char_252": "clarity_nt_char_252"
     },
     "253": {
-        "あまい息": ""
+        "あまい息": "Sweet Breath"
     },
     "254": {
         "clarity_nt_char_254": "clarity_nt_char_254"
     },
     "255": {
-        "顔を洗う": ""
+        "顔を洗う": "Wash Face"
     },
     "256": {
         "clarity_nt_char_256": "clarity_nt_char_256"
     },
     "257": {
-        "ひのいき": ""
+        "ひのいき": "Fire Breath"
     },
     "258": {
         "clarity_nt_char_258": "clarity_nt_char_258"
     },
     "259": {
-        "かえんのいき": ""
+        "かえんのいき": "Flame Breath"
     },
     "260": {
         "clarity_nt_char_260": "clarity_nt_char_260"
     },
     "261": {
-        "メガンテ": ""
+        "メガンテ": "Kamikazee"
     },
     "262": {
         "clarity_nt_char_262": "clarity_nt_char_262"
     },
     "263": {
-        "ぶきみにほほえむ": ""
+        "ぶきみにほほえむ": "Smiling creepily..."
     },
     "264": {
         "clarity_nt_char_264": "clarity_nt_char_264"
     },
     "265": {
-        "笑いながら攻撃": ""
+        "笑いながら攻撃": "Laugh Attack"
     },
     "266": {
-        "ふしぎなおどり": ""
+        "ふしぎなおどり": "Mysterious Dance"
     },
     "267": {
-        "やくそう": ""
+        "やくそう": "Medical Herb"
     },
     "268": {
         "clarity_nt_char_268": "clarity_nt_char_268"
     },
     "269": {
-        "さみだれ突き": ""
+        "さみだれ突き": "Multi Thrust"
     },
     "270": {
         "clarity_nt_char_270": "clarity_nt_char_270"
     },
     "271": {
-        "ためる": ""
+        "ためる": "Psyche Up"
     },
     "272": {
-        "イオラ": ""
+        "イオラ": "Boom"
     },
     "273": {
-        "ビーム攻撃": ""
+        "ビーム攻撃": "Beam Attack"
     },
     "274": {
-        "弓矢うち": ""
+        "弓矢うち": "Bow Shot"
     },
     "275": {
         "clarity_nt_char_275": "clarity_nt_char_275"
     },
     "276": {
-        "はげしくきりつける": ""
+        "はげしくきりつける": "Violent Slash"
     },
     "277": {
-        "マヒャド斬り": ""
+        "マヒャド斬り": "Kacrack Slash"
     },
     "278": {
         "clarity_nt_char_278": "clarity_nt_char_278"
     },
     "279": {
-        "ランドインパクト": ""
+        "ランドインパクト": "Crackerwhack"
     },
     "280": {
         "clarity_nt_char_280": "clarity_nt_char_280"
     },
     "281": {
-        "かがやくいき": ""
+        "かがやくいき": "Bright Breath"
     },
     "282": {
         "clarity_nt_char_282": "clarity_nt_char_282"
     },
     "283": {
-        "バギクロス": ""
+        "バギクロス": "Kaswoosh"
     },
     "284": {
-        "ディバインスペル": ""
+        "ディバインスペル": "Divine Intervention"
     },
     "285": {
         "clarity_nt_char_285": "clarity_nt_char_285"
     },
     "286": {
-        "イオナズン": ""
+        "イオナズン": "Kaboom"
     },
     "287": {
-        "マダンテ": ""
+        "マダンテ": "Magic Burst"
     },
     "288": {
         "clarity_nt_char_288": "clarity_nt_char_288"
     },
     "289": {
-        "キングプレス": ""
+        "キングプレス": "King Press"
     },
     "290": {
         "clarity_nt_char_290": "clarity_nt_char_290"
     },
     "291": {
-        "マホトラ": ""
+        "マホトラ": "Drain Magic"
     },
     "292": {
         "clarity_nt_char_292": "clarity_nt_char_292"
     },
     "293": {
-        "ザラキーマ": ""
+        "ザラキーマ": "Kathwack"
     },
     "294": {
-        "イオグランデ": ""
+        "イオグランデ": "Kaboomle"
     },
     "295": {
         "clarity_nt_char_295": "clarity_nt_char_295"
     },
     "296": {
-        "しゃくねつのほのお": ""
+        "しゃくねつのほのお": "Scorch"
     },
     "297": {
-        "煉獄火炎": ""
+        "煉獄火炎": "Hellfire"
     },
     "298": {
         "clarity_nt_char_298": "clarity_nt_char_298"
     },
     "299": {
-        "はらわたをえぐる": ""
+        "はらわたをえぐる": "Gouge Intestines"
     },
     "300": {
         "clarity_nt_char_300": "clarity_nt_char_300"
     },
     "301": {
-        "いてつくはどう": ""
+        "いてつくはどう": "Disruption Wave"
     },
     "302": {
-        "奈落の舞い": ""
+        "奈落の舞い": "Abyss Dance"
     },
     "303": {
-        "リベホイミ": ""
+        "リベホイミ": "Remidheal"
     },
     "304": {
-        "はげしく切り裂く": ""
+        "はげしく切り裂く": "Violent Tear"
     },
     "305": {
         "clarity_nt_char_305": "clarity_nt_char_305"
     },
     "306": {
-        "はげしいおたけび": ""
+        "はげしいおたけび": "Violent Roar"
     },
     "307": {
         "clarity_nt_char_307": "clarity_nt_char_307"
     },
     "308": {
-        "マヒャド": ""
+        "マヒャド": "Kacrack"
     },
     "309": {
         "clarity_nt_char_309": "clarity_nt_char_309"
     },
     "310": {
-        "ツメで切り裂く": ""
+        "ツメで切り裂く": "Nail Scratch"
     },
     "311": {
-        "はげしいほのお": ""
+        "はげしいほのお": "Inferno"
     },
     "312": {
-        "テールスイング": ""
+        "テールスイング": "Tail Swing"
     },
     "313": {
-        "衝撃波": ""
+        "衝撃波": "Shockwave"
     },
     "314": {
-        "こおりの息": ""
+        "こおりの息": "Chilly Breath"
     },
     "315": {
-        "こごえるふぶき": ""
+        "こごえるふぶき": "Snowstorm"
     },
     "316": {
-        "武器をふりました！": ""
+        "武器をふりました！": "Swung weapon!"
     },
     "317": {
-        "海魔神の怒り": ""
+        "海魔神の怒り": "Sea God's Wrath"
     },
     "318": {
         "clarity_nt_char_318": "clarity_nt_char_318"
     },
     "319": {
-        "マヒャデドス": ""
+        "マヒャデドス": "Kacrackle"
     },
     "320": {
         "clarity_nt_char_320": "clarity_nt_char_320"
     },
     "321": {
-        "バギムーチョ": ""
+        "バギムーチョ": "Kaswooshle"
     },
     "322": {
         "clarity_nt_char_322": "clarity_nt_char_322"
     },
     "323": {
-        "ドルマドン": ""
+        "ドルマドン": "Kazammle"
     },
     "324": {
-        "ザオリク": ""
+        "ザオリク": "Kazing"
     },
     "325": {
         "clarity_nt_char_325": "clarity_nt_char_325"
     },
     "326": {
-        "勇者の光": ""
+        "勇者の光": "Heroic Light"
     },
     "327": {
         "clarity_nt_char_327": "clarity_nt_char_327"
     },
     "328": {
-        "竜気の結晶": ""
+        "竜気の結晶": "Dragon Crystal"
     },
     "329": {
-        "孤高の剣技": ""
+        "孤高の剣技": "Lonely Slash"
     },
     "330": {
-        "猛きたましい": ""
+        "猛きたましい": "Fierce Soul"
     },
     "331": {
         "clarity_nt_char_331": "clarity_nt_char_331"
     },
     "332": {
-        "無駄行動（麻痺）": ""
+        "無駄行動（麻痺）": "Do Nothing (Paralyzed)"
     },
     "333": {
         "clarity_nt_char_333": "clarity_nt_char_333"
     },
     "334": {
-        "勇者の光（準備）": ""
+        "勇者の光（準備）": "Heroic Light (Paralyzed)"
     },
     "335": {
         "clarity_nt_char_335": "clarity_nt_char_335"
     },
     "336": {
-        "グランドクロス": ""
+        "グランドクロス": "Pearly Gates"
     },
     "337": {
-        "ギガスロー": ""
+        "ギガスロー": "Gigathrow"
     },
     "338": {
-        "おぞましいおたけび": ""
+        "おぞましいおたけび": "Awesome Roar"
     },
     "339": {
-        "魔神の絶技": ""
+        "魔神の絶技": "Devil's Skill"
     },
     "340": {
-        "はやぶさ斬り": ""
+        "はやぶさ斬り": "Falcon Slash"
     },
     "341": {
         "clarity_nt_char_341": "clarity_nt_char_341"
     },
     "342": {
-        "ねむり": ""
+        "ねむり": "Sleeping"
     },
     "343": {
-        "マヒ": ""
+        "マヒ": "Paral."
     },
     "344": {
         "clarity_nt_char_344": "clarity_nt_char_344"
     },
     "345": {
-        "ショック": ""
+        "ショック": "Shocked"
     },
     "346": {
         "clarity_nt_char_346": "clarity_nt_char_346"
     },
     "347": {
-        "仲間ひとりの|ＨＰを|３０～回復する": ""
+        "仲間ひとりの|ＨＰを|３０～回復する": "Restore 30 HP|to a single|ally."
     },
     "348": {
         "clarity_nt_char_348": "clarity_nt_char_348"
     },
     "349": {
-        "威力の弱い玉を|嵐のごとく|なげつける": ""
+        "威力の弱い玉を|嵐のごとく|なげつける": "Balls rain down|from the sky|like a storm."
     },
     "350": {
-        "仲間全員の|ＨＰを|３５～回復する": ""
+        "仲間全員の|ＨＰを|３５～回復する": "Restores 35 HP|to all allies."
     },
     "351": {
-        "炎のチカラにより|２倍の威力で|敵を斬りつける": ""
+        "炎のチカラにより|２倍の威力で|敵を斬りつける": "A fiery slash|that deals 2|times damage."
     },
     "352": {
-        "仲間全員の|ダメージをうける|威力を半減させる": ""
+        "仲間全員の|ダメージをうける|威力を半減させる": "Receive half of|all damage|allies take."
     },
     "353": {
-        "２倍の威力の|自らのキズも|いやす秘剣": ""
+        "２倍の威力の|自らのキズも|いやす秘剣": "A healing slash|that deals 2|times damage."
     },
     "354": {
-        "風のやいばにより|１.８倍の威力で|敵を攻撃": ""
+        "風のやいばにより|１.８倍の威力で|敵を攻撃": "A wind slash that|deals 1.8 times|damage."
     },
     "355": {
         "clarity_nt_char_355": "clarity_nt_char_355"
     },
     "356": {
-        "移動時|サイコロが|１こ増える": ""
+        "移動時|サイコロが|１こ増える": "Roll an extra|dice next|turn."
     },
     "357": {
-        "様々なアイテムを|モンスターから|ぬすむ": ""
+        "様々なアイテムを|モンスターから|ぬすむ": "Steals an item|from an enemy."
     },
     "358": {
         "clarity_nt_char_358": "clarity_nt_char_358"
     },
     "359": {
-        "小さな火の玉が|２倍の威力で|敵を攻撃": ""
+        "小さな火の玉が|２倍の威力で|敵を攻撃": "A small fireball|that deals 2|times damage."
     },
     "360": {
-        "魔力をみなぎらせ|こうげき力を|１.５倍にアップ": ""
+        "魔力をみなぎらせ|こうげき力を|１.５倍にアップ": "Magic that|boosts attack by|1.5 times."
     },
     "361": {
         "clarity_nt_char_361": "clarity_nt_char_361"
     },
     "362": {
-        "大きな火の玉が|３倍の威力で|敵を攻撃": ""
+        "大きな火の玉が|３倍の威力で|敵を攻撃": "A huge fireball|that deals 3|times damage."
     },
     "363": {
-        "仲間ひとりの|ＨＰを|６０～回復する": ""
+        "仲間ひとりの|ＨＰを|６０～回復する": "Restores 60 HP|to a single|ally."
     },
     "364": {
         "clarity_nt_char_364": "clarity_nt_char_364"
     },
     "365": {
-        "仲間全員の|ＨＰを|４５～回復する": ""
+        "仲間全員の|ＨＰを|４５～回復する": "Restores 45 HP|to all allies."
     },
     "366": {
-        "仲間ひとりを|生き返らせるが|失敗する時もある": ""
+        "仲間ひとりを|生き返らせるが|失敗する時もある": "Chance to|revive an|ally."
     },
     "367": {
-        "ＭＰ２０を|仲間に|分け与える": ""
+        "ＭＰ２０を|仲間に|分け与える": "Transfers 20 MP|to an ally."
     },
     "368": {
-        "仲間ひとりの|こうげき力を|１.５倍にアップ": ""
+        "仲間ひとりの|こうげき力を|１.５倍にアップ": "One ally's attack|is increased by|1.5 times."
     },
     "369": {
         "clarity_nt_char_369": "clarity_nt_char_369"
     },
     "370": {
-        "光の刃を剣にかえ|２.５倍の威力で|敵を攻撃": ""
+        "光の刃を剣にかえ|２.５倍の威力で|敵を攻撃": "A light blade|that deals 2.5|times damage."
     },
     "371": {
         "clarity_nt_char_371": "clarity_nt_char_371"
     },
     "372": {
-        "１.５倍の威力で|ダメージを与えて|テンションアップ": ""
+        "１.５倍の威力で|ダメージを与えて|テンションアップ": "Deals 1.5 times|damage and|boosts tension."
     },
     "373": {
         "clarity_nt_char_373": "clarity_nt_char_373"
     },
     "374": {
-        "守りを捨てて|こうげき力を|１.５倍にアップ": ""
+        "守りを捨てて|こうげき力を|１.５倍にアップ": "Lowers defense|and boosts attack|by 1.5 times."
     },
     "375": {
         "clarity_nt_char_375": "clarity_nt_char_375"
     },
     "376": {
-        "天下無双の|６回攻撃で|敵を斬りつける": ""
+        "天下無双の|６回攻撃で|敵を斬りつける": "Deals 6 strikes|in quick|succession."
     },
     "377": {
-        "闇のチカラにより|３.６倍の威力で|敵を攻撃": ""
+        "闇のチカラにより|３.６倍の威力で|敵を攻撃": "A dark power that|deals 3.6 times|damage."
     },
     "378": {
         "clarity_nt_char_378": "clarity_nt_char_378"
     },
     "379": {
-        "仲間ひとりを|確実に|生き返らせる": ""
+        "仲間ひとりを|確実に|生き返らせる": "Revive one|companion|without fail."
     },
     "380": {
-        "<%sCAS_action>！": ""
+        "<%sCAS_action>！": "<%sCAS_action>!"
     },
     "381": {
-        "自分に|<%sCAS_action>": ""
+        "自分に|<%sCAS_action>": "<%sCAS_action>|on self."
     },
     "382": {
         "clarity_nt_char_382": "clarity_nt_char_382"
     },
     "383": {
-        "<%sCAS_monster>に|<%sCAS_action>！": ""
+        "<%sCAS_monster>に|<%sCAS_action>！": "<%sCAS_action> on|<%sCAS_monster>!"
     },
     "384": {
         "clarity_nt_char_384": "clarity_nt_char_384"
     },
     "385": {
-        "あっそ～れ♪|ハッスルハッスル～！": ""
+        "あっそ～れ♪|ハッスルハッスル～！": "Come on, everybody!|Hustle, hustle!"
     },
     "386": {
-        "なかまたちを|<%sCAS_action>！": ""
+        "なかまたちを|<%sCAS_action>！": "<%sCAS_action> on|the party!"
     },
     "387": {
         "clarity_nt_char_387": "clarity_nt_char_387"
     },
     "388": {
-        "<%sCAS_action>": ""
+        "<%sCAS_action>": "<%sCAS_action>"
     },
     "389": {
         "clarity_nt_char_389": "clarity_nt_char_389"
     },
     "390": {
-        "<%sCAS_target>に|<%sCAS_action>": ""
+        "<%sCAS_target>に|<%sCAS_action>": "<%sCAS_action> to|<%sCAS_target>"
     },
     "391": {
         "clarity_nt_char_391": "clarity_nt_char_391"
     },
     "392": {
-        "天使の守りを受けた！": ""
+        "天使の守りを受けた！": "Gained Goddess'|Grace!"
     },
     "393": {
         "clarity_nt_char_393": "clarity_nt_char_393"
     },
     "394": {
-        "つうこんの いちげき！": ""
+        "つうこんの いちげき！": "Regretful blow!"
     },
     "395": {
-        "フワフワしている": ""
+        "フワフワしている": "Fluffy"
     },
     "396": {
         "clarity_nt_char_396": "clarity_nt_char_396"
     },
     "397": {
-        "<%sCAS_target>に|<%sCAS_action>！": ""
+        "<%sCAS_target>に|<%sCAS_action>！": "<%sCAS_action> on|<%sCAS_target>!"
     },
     "398": {
-        "グラグラしている": ""
+        "グラグラしている": "Wobbling around..."
     },
     "399": {
         "clarity_nt_char_399": "clarity_nt_char_399"
     },
     "400": {
-        "逃げだした": ""
+        "逃げだした": "Ran away"
     },
     "401": {
-        "かおを|あらっている": ""
+        "かおを|あらっている": "Washing|their face..."
     },
     "402": {
         "clarity_nt_char_402": "clarity_nt_char_402"
     },
     "403": {
-        "ぶきみに|ほほえんでいる": ""
+        "ぶきみに|ほほえんでいる": "Creepily|smiling..."
     },
     "404": {
         "clarity_nt_char_404": "clarity_nt_char_404"
     },
     "405": {
-        "<%sCAS_monster>に|<%sCAS_action>": ""
+        "<%sCAS_monster>に|<%sCAS_action>": "<%sCAS_action> on|<%sCAS_monster>"
     },
     "406": {
-        "ちからをためた！": ""
+        "ちからをためた！": "Building strength!"
     },
     "407": {
         "clarity_nt_char_407": "clarity_nt_char_407"
     },
     "408": {
-        "<%sCAS_target>に|弓をひきしぼった！": ""
+        "<%sCAS_target>に|弓をひきしぼった！": "Fired an arrow at|<%sCAS_target>!"
     },
     "409": {
-        "<%sCAS_target>に|きりかかった！": ""
+        "<%sCAS_target>に|きりかかった！": "Slashed at|<%sCAS_target>!"
     },
     "410": {
-        "<%sCAS_action>がぼうそう！": ""
+        "<%sCAS_action>がぼうそう！": "<%sCAS_action> goes|haywire!"
     },
     "411": {
         "clarity_nt_char_411": "clarity_nt_char_411"
     },
     "412": {
-        "はげしいおたけび！": ""
+        "はげしいおたけび！": "Violent Roar!"
     },
     "413": {
-        "<%sCAS_target>を|ツメできりさいた！": ""
+        "<%sCAS_target>を|ツメできりさいた！": "<%sCAS_target> tore|with their claws!"
     },
     "414": {
-        "<%sCAS_target>めがけて|武器をふりまわした！": ""
+        "<%sCAS_target>めがけて|武器をふりまわした！": "<%sCAS_target> swung|their weapon around!"
     },
     "415": {
-        "かいしんのいちげき！": ""
+        "かいしんのいちげき！": "Critical hit!"
     },
     "416": {
         "clarity_nt_char_416": "clarity_nt_char_416"
     },
     "417": {
-        "かいしんの<%sCAS_action>！": ""
+        "かいしんの<%sCAS_action>！": "Critical <%sCAS_action>!"
     },
     "418": {
         "clarity_nt_char_418": "clarity_nt_char_418"
     },
     "419": {
-        "かいしんの|<%sCAS_action>！": ""
+        "かいしんの|<%sCAS_action>！": "Critical|<%sCAS_action>!"
     },
     "420": {
-        "<%sCAS_gambler>の　<%sCAS_action>！": ""
+        "<%sCAS_gambler>の　<%sCAS_action>！": "<%sCAS_gambler>'s <%sCAS_action>!"
     },
     "421": {
         "clarity_nt_char_421": "clarity_nt_char_421"
     },
     "422": {
-        "<%sCAS_gambler>は|自分に　<%sCAS_action>を　となえた！": ""
+        "<%sCAS_gambler>は|自分に　<%sCAS_action>を　となえた！": "<%sCAS_gambler> cast <%sCAS_action>|on themselves!"
     },
     "423": {
         "clarity_nt_char_423": "clarity_nt_char_423"
     },
     "424": {
-        "<%sCAS_gambler>は|<%sCAS_action>を　おどった！": ""
+        "<%sCAS_gambler>は|<%sCAS_action>を　おどった！": "<%sCAS_gambler> danced <%sCAS_action>!"
     },
     "425": {
         "clarity_nt_char_425": "clarity_nt_char_425"
     },
     "426": {
-        "<%sCAS_gambler>は|<%sCAS_action>を　となえた！|<br>|移動時のサイコロが　１こ増えた！": ""
+        "<%sCAS_gambler>は|<%sCAS_action>を　となえた！|<br>|移動時のサイコロが　１こ増えた！": "<%sCAS_gambler> cast <%sCAS_action>!|<br>|They get an extra dice roll!"
     },
     "427": {
         "clarity_nt_char_427": "clarity_nt_char_427"
     },
     "428": {
-        "<%sCAS_gambler>は|<%sCAS_action>を　となえた！": ""
+        "<%sCAS_gambler>は|<%sCAS_action>を　となえた！": "<%sCAS_gambler> cast <%sCAS_action>!"
     },
     "429": {
         "clarity_nt_char_429": "clarity_nt_char_429"
     },
     "430": {
-        "<%sCAS_gambler>は|<%sCAS_target>に　<%sCAS_action>を　となえた！": ""
+        "<%sCAS_gambler>は|<%sCAS_target>に　<%sCAS_action>を　となえた！": "<%sCAS_gambler> cast <%sCAS_action>|on <%sCAS_target>!"
     },
     "431": {
         "clarity_nt_char_431": "clarity_nt_char_431"
     },
     "432": {
-        "<%sCAS_gambler>は|<%sCAS_target>に　ＭＰをあたえた！": ""
+        "<%sCAS_gambler>は|<%sCAS_target>に　ＭＰをあたえた！": "<%sCAS_gambler> gave MP to|<%sCAS_target>!"
     },
     "433": {
-        "<%sCAS_monster>の　<%sCAS_action>！": ""
+        "<%sCAS_monster>の　<%sCAS_action>！": "<%sCAS_monster>'s <%sCAS_action>!"
     },
     "434": {
         "clarity_nt_char_434": "clarity_nt_char_434"
     },
     "435": {
-        "<%sCAS_monster>の　<%sCAS_action>！|<br>|つうこんの いちげき！": ""
+        "<%sCAS_monster>の　<%sCAS_action>！|<br>|つうこんの いちげき！": "<%sCAS_monster>'s <%sCAS_action>!|<br>|Regretful blow!"
     },
     "436": {
-        "<%sCAS_monster>は　フワフワしている": ""
+        "<%sCAS_monster>は　フワフワしている": "<%sCAS_monster> is fluffing around..."
     },
     "437": {
-        "<%sCAS_monster>は|<%sCAS_action>を　となえた！": ""
+        "<%sCAS_monster>は|<%sCAS_action>を　となえた！": "<%sCAS_monster> cast <%sCAS_action>!"
     },
     "438": {
         "clarity_nt_char_438": "clarity_nt_char_438"
     },
     "439": {
-        "<%sCAS_monster>は　グラグラしている": ""
+        "<%sCAS_monster>は　グラグラしている": "<%sCAS_monster> is wobbling around..."
     },
     "440": {
-        "<%sCAS_monster>は　逃げだした": ""
+        "<%sCAS_monster>は　逃げだした": "<%sCAS_monster> ran away!"
     },
     "441": {
         "clarity_nt_char_441": "clarity_nt_char_441"
     },
     "442": {
-        "<%sCAS_monster>は|<%sCAS_action>を　はいた！": ""
+        "<%sCAS_monster>は|<%sCAS_action>を　はいた！": "<%sCAS_monster> used <%sCAS_action>!"
     },
     "443": {
-        "<%sCAS_monster>は|のんびり　かおを　あらっている": ""
+        "<%sCAS_monster>は|のんびり　かおを　あらっている": "<%sCAS_monster> is washing their face."
     },
     "444": {
         "clarity_nt_char_444": "clarity_nt_char_444"
     },
     "445": {
-        "<%sCAS_monster>は|ぶきみに　ほほえんでいる": ""
+        "<%sCAS_monster>は|ぶきみに　ほほえんでいる": "<%sCAS_monster> is smiling creepily..."
     },
     "446": {
-        "<%sCAS_monster>は|<%sCAS_action>を　おどった！": ""
+        "<%sCAS_monster>は|<%sCAS_action>を　おどった！": "<%sCAS_monster> danced <%sCAS_action>!"
     },
     "447": {
         "clarity_nt_char_447": "clarity_nt_char_447"
     },
     "448": {
-        "<%sCAS_monster>は|<%sCAS_action>を　使った！": ""
+        "<%sCAS_monster>は|<%sCAS_action>を　使った！": "<%sCAS_monster> used <%sCAS_action>!"
     },
     "449": {
-        "<%sCAS_monster>は　弓をひきしぼった！": ""
+        "<%sCAS_monster>は　弓をひきしぼった！": "<%sCAS_monster> drew their bow!"
     },
     "450": {
         "clarity_nt_char_450": "clarity_nt_char_450"
     },
     "451": {
-        "<%sCAS_monster>は　はげしくきりつけた！": ""
+        "<%sCAS_monster>は　はげしくきりつけた！": "<%sCAS_monster> slashed violently!"
     },
     "452": {
-        "<%sCAS_monster>は|<%sCAS_action>を　となえた！|<br>|<%sCAS_action>が　ぼうそう！": ""
+        "<%sCAS_monster>は|<%sCAS_action>を　となえた！|<br>|<%sCAS_action>が　ぼうそう！": "<%sCAS_monster> cast <%sCAS_action>!|<br>|<%sCAS_action> goes haywire!"
     },
     "453": {
-        "<%sCAS_monster>は|すべての　まりょくを　ときはなった！": ""
+        "<%sCAS_monster>は|すべての　まりょくを　ときはなった！": "<%sCAS_monster> unleashed all of|its magical power!"
     },
     "454": {
-        "<%sCAS_monster>は　ツメできりさいた！": ""
+        "<%sCAS_monster>は　ツメできりさいた！": "<%sCAS_monster> slashed with its claws!"
     },
     "455": {
         "clarity_nt_char_455": "clarity_nt_char_455"
     },
     "456": {
-        "アンルシアの　<%sCAS_action>！": ""
+        "アンルシアの　<%sCAS_action>！": "Anlucia's <%sCAS_action>!"
     },
     "457": {
         "clarity_nt_char_457": "clarity_nt_char_457"
     },
     "458": {
-        "エステラの　<%sCAS_action>！": ""
+        "エステラの　<%sCAS_action>！": "Estella's <%sCAS_action>!"
     },
     "459": {
-        "ヒューザの　<%sCAS_action>！": ""
+        "ヒューザの　<%sCAS_action>！": "Huzer's <%sCAS_action>!"
     },
     "460": {
-        "ザンクローネの　<%sCAS_action>！": ""
+        "ザンクローネの　<%sCAS_action>！": "Zankrone's <%sCAS_action>!"
     },
     "461": {
-        "セラフィは|<%sCAS_action>を　となえた！": ""
+        "セラフィは|<%sCAS_action>を　となえた！": "Seraphy casts <%sCAS_action>!"
     },
     "462": {
-        "<%sCAS_monster>は　動きを封じられている！": ""
+        "<%sCAS_monster>は　動きを封じられている！": "<%sCAS_monster> can't move!"
     },
     "463": {
         "clarity_nt_char_463": "clarity_nt_char_463"
     },
     "464": {
-        "アンルシアは|勇者の光を　溜めはじめた！|次のターン　勇者の光を　放つようだ！": ""
+        "アンルシアは|勇者の光を　溜めはじめた！|次のターン　勇者の光を　放つようだ！": "Anlucia has begun to store the hero's light!|Next turn, the heroic light will shine forth!"
     },
     "465": {
-        "<%sCAS_gambler>は　ねむっている！": ""
+        "<%sCAS_gambler>は　ねむっている！": "<%sCAS_gambler> is asleep!"
     },
     "466": {
         "clarity_nt_char_466": "clarity_nt_char_466"
     },
     "467": {
-        "<%sCAS_gambler>は|からだがシビれて　うごけない！": ""
+        "<%sCAS_gambler>は|からだがシビれて　うごけない！": "<%sCAS_gambler> is paralyzed and can't|move!"
     },
     "468": {
         "clarity_nt_char_468": "clarity_nt_char_468"
     },
     "469": {
-        "<%sCAS_gambler>は|まだ　たちあがれない！": ""
+        "<%sCAS_gambler>は|まだ　たちあがれない！": "<%sCAS_gambler> still can't stand up!"
     },
     "470": {
         "clarity_nt_char_470": "clarity_nt_char_470"
     },
     "471": {
-        "<%sCAS_gambler>の　かいしんの　いちげき！": ""
+        "<%sCAS_gambler>の　かいしんの　いちげき！": "<%sCAS_gambler>'s critical attack!"
     },
     "472": {
         "clarity_nt_char_472": "clarity_nt_char_472"
     },
     "473": {
-        "<%sCAS_gambler>の　かいしんの　<%sCAS_action>！": ""
+        "<%sCAS_gambler>の　かいしんの　<%sCAS_action>！": "<%sCAS_gambler>'s critical <%sCAS_action>!"
     },
     "474": {
         "clarity_nt_char_474": "clarity_nt_char_474"
     },
     "475": {
-        "<%sCAS_gambler>の　かいしんの<%sCAS_action>！": ""
+        "<%sCAS_gambler>の　かいしんの<%sCAS_action>！": "<%sCAS_gambler>'s critical <%sCAS_action>!"
     },
     "476": {
-        "<%sCAS_gambler>の　<%sCAS_action>が　ぼうそう！": ""
+        "<%sCAS_gambler>の　<%sCAS_action>が　ぼうそう！": "<%sCAS_gambler>'s <%sCAS_action>|goes haywire!"
     },
     "477": {
         "clarity_nt_char_477": "clarity_nt_char_477"
     },
     "478": {
-        "セラフィの　かいしんの　<%sCAS_action>！": ""
+        "セラフィの　かいしんの　<%sCAS_action>！": "Seraphy's critical <%sCAS_action>!"
     },
     "479": {
-        "<%sCAS_target>のＨＰが　<%nCAS_value>回復した！": ""
+        "<%sCAS_target>のＨＰが　<%nCAS_value>回復した！": "<%sCAS_target> recovered <%dCAS_value> HP!"
     },
     "480": {
-        "<%sCAS_gambler>は|なかまたちを　かばった！|<br>|<%sCAS_gambler>は|なかまたちの　代わりに|ダメージを　受けるようになった！": ""
+        "<%sCAS_gambler>は|なかまたちを　かばった！|<br>|<%sCAS_gambler>は|なかまたちの　代わりに|ダメージを　受けるようになった！": "<%sCAS_gambler> is protecting the party!|<br>|<%sCAS_gambler> will take damage in place of the|party!"
     },
     "481": {
         "clarity_nt_char_481": "clarity_nt_char_481"
     },
     "482": {
-        "<%sCAS_gambler>のＨＰが　<%nCAS_value>回復した！": ""
+        "<%sCAS_gambler>のＨＰが　<%nCAS_value>回復した！": "<%sCAS_gambler> recovered <%nCAS_value> HP!"
     },
     "483": {
         "clarity_nt_char_483": "clarity_nt_char_483"
     },
     "484": {
-        "<%sCAS_gambler>が|<%sCAS_monster>から　何かをぬすんだ！": ""
+        "<%sCAS_gambler>が|<%sCAS_monster>から　何かをぬすんだ！": "<%sCAS_gambler> stole something from|<%sCAS_monster>!"
     },
     "485": {
-        "<%sCAS_gambler>の　こうげき力が上がった！": ""
+        "<%sCAS_gambler>の　こうげき力が上がった！": "<%sCAS_gambler>'s attack increased!"
     },
     "486": {
         "clarity_nt_char_486": "clarity_nt_char_486"
     },
     "487": {
-        "なんと　<%sCAS_target>は　生き返った！": ""
+        "なんと　<%sCAS_target>は　生き返った！": "<%sCAS_target> was revived!"
     },
     "488": {
         "clarity_nt_char_488": "clarity_nt_char_488"
     },
     "489": {
-        "<%sCAS_target>の　こうげき力が上がった！": ""
+        "<%sCAS_target>の　こうげき力が上がった！": "<%sCAS_target>'s attack increased!"
     },
     "490": {
-        "<%sCAS_gambler>は|ハイテンションになった！": ""
+        "<%sCAS_gambler>は|ハイテンションになった！": "<%sCAS_gambler> is in High Tension!"
     },
     "491": {
-        "<%sCAS_gambler>の　こうげき力が上がった！|<%sCAS_gambler>の　しゅび力がさがった！": ""
+        "<%sCAS_gambler>の　こうげき力が上がった！|<%sCAS_gambler>の　しゅび力がさがった！": "<%sCAS_gambler>'s attack increased!|<%sCAS_gambler>'s defense decreased!"
     },
     "492": {
         "clarity_nt_char_492": "clarity_nt_char_492"
     },
     "493": {
-        "天使の守りが|みたまを呼び戻した": ""
+        "天使の守りが|みたまを呼び戻した": "Goddess' Grace|recalled their spirit."
     },
     "494": {
         "clarity_nt_char_494": "clarity_nt_char_494"
     },
     "495": {
-        "ミス！　<%sCAS_target>は|ダメージを　うけない！": ""
+        "ミス！　<%sCAS_target>は|ダメージを　うけない！": "Miss! No damage to <%sCAS_target>!"
     },
     "496": {
-        "<%sCAS_monster>は　いなくなった！": ""
+        "<%sCAS_monster>は　いなくなった！": "<%sCAS_monster> is gone!"
     },
     "497": {
         "clarity_nt_char_497": "clarity_nt_char_497"
     },
     "498": {
-        "<%sCAS_target>の　いきのねをとめた！": ""
+        "<%sCAS_target>の　いきのねをとめた！": "<%sCAS_target> was killed!"
     },
     "499": {
-        "<%sCAS_target>は　ねむってしまった！": ""
+        "<%sCAS_target>は　ねむってしまった！": "<%sCAS_target> fell asleep!"
     },
     "500": {
-        "<%sCAS_target>のＭＰが　<%nCAS_value>さがった！": ""
+        "<%sCAS_target>のＭＰが　<%nCAS_value>さがった！": "<%sCAS_target> lost <%dCAS_value> MP!"
     },
     "501": {
-        "<%sCAS_target>の　しゅび力がさがった！": ""
+        "<%sCAS_target>の　しゅび力がさがった！": "<%sCAS_target>'s defense decreased!"
     },
     "502": {
         "clarity_nt_char_502": "clarity_nt_char_502"
     },
     "503": {
-        "<%sCAS_target>のＭＰを　<%nCAS_value>うばった！": ""
+        "<%sCAS_target>のＭＰを　<%nCAS_value>うばった！": "<%sCAS_target> stole <%dCAS_value> MP!"
     },
     "504": {
         "<%sCAS_gambler>に　かかっている|とくしゅ効果が　かきけされた！": ""
     },
     "505": {
-        "<%sCAS_monster>の　動きを封じた！|さらに　与えるダメージが　アップした！": ""
+        "<%sCAS_monster>の　動きを封じた！|さらに　与えるダメージが　アップした！": "<%sCAS_monster> is stuck in place!|Furthermore, it will take increased damage!"
     },
     "506": {
         "clarity_nt_char_506": "clarity_nt_char_506"
     },
     "507": {
-        "<%sCAS_gambler>は　１ターンの間|ダメージを　うけなくなった！": ""
+        "<%sCAS_gambler>は　１ターンの間|ダメージを　うけなくなった！": "<%sCAS_gambler> will take no damage|for 1 turn!"
     },
     "508": {
         "clarity_nt_char_508": "clarity_nt_char_508"
     },
     "509": {
-        "<%sCAS_gambler>に|会心必中の　効果が発生した！": ""
+        "<%sCAS_gambler>に|会心必中の　効果が発生した！": "<%sCAS_gambler> gained a Critical Claim|effect!"
     },
     "510": {
-        "<%sCAS_target>は　からだがシビれた！": ""
+        "<%sCAS_target>は　からだがシビれた！": "<%sCAS_target>'s body is numb!"
     },
     "511": {
-        "<%sCAS_target>は　ショックをうけた！": ""
+        "<%sCAS_target>は　ショックをうけた！": "<%sCAS_target> received a shock!"
     },
     "512": {
-        "<%sCAS_gambler>たちのＨＰが|平均　<%nCAS_value>回復した！": ""
+        "<%sCAS_gambler>たちのＨＰが|平均　<%nCAS_value>回復した！": "<%sCAS_gambler> and co. recovered|an average of <%dCAS_value> HP!"
     },
     "513": {
-        "<%sCAS_target>たちは　ねむってしまった！": ""
+        "<%sCAS_target>たちは　ねむってしまった！": "<%sCAS_target> and co. fell asleep!"
     },
     "514": {
-        "<%sCAS_target>たちの　しゅび力がさがった！": ""
+        "<%sCAS_target>たちの　しゅび力がさがった！": "<%sCAS_target> and co.'s defense|decreased!"
     },
     "515": {
         "clarity_nt_char_515": "clarity_nt_char_515"
     },
     "516": {
-        "<%sCAS_target>たちの　いきのねをとめた！": ""
+        "<%sCAS_target>たちの　いきのねをとめた！": "<%sCAS_target> and co. were killed!"
     },
     "517": {
-        "<%sCAS_gambler>たちに　かかっている|とくしゅ効果が　かきけされた！": ""
+        "<%sCAS_gambler>たちに　かかっている|とくしゅ効果が　かきけされた！": "<%sCAS_gambler> and co.'s positive|effects were removed!"
     },
     "518": {
-        "<%sCAS_gambler>たち全員は　１ターンの間|ダメージを　うけなくなった！": ""
+        "<%sCAS_gambler>たち全員は　１ターンの間|ダメージを　うけなくなった！": "<%sCAS_gambler> and co. will receive no|damage for 1 turn!"
     },
     "519": {
         "clarity_nt_char_519": "clarity_nt_char_519"
     },
     "520": {
-        "<%sCAS_gambler>たち全員に|会心必中の　効果が発生した！": ""
+        "<%sCAS_gambler>たち全員に|会心必中の　効果が発生した！": "<%sCAS_gambler> and co. gained a|Critical Claim effect!"
     },
     "521": {
-        "<%sCAS_gambler>たち全員の|テンションが　あがった！": ""
+        "<%sCAS_gambler>たち全員の|テンションが　あがった！": "<%sCAS_gambler> and co. had their|tension boosted!"
     },
     "522": {
-        "<%sCAS_target>たちのＨＰが|平均　<%nCAS_value>回復した！": ""
+        "<%sCAS_target>たちのＨＰが|平均　<%nCAS_value>回復した！": "<%sCAS_target> and co. recovered an|average of <%dCAS_value> HP!"
     },
     "523": {
         "clarity_nt_char_523": "clarity_nt_char_523"
     },
     "524": {
-        "<%sCAS_target>たちは　からだがシビれた！": ""
+        "<%sCAS_target>たちは　からだがシビれた！": "<%sCAS_target> and co.'s bodies were|numb!"
     },
     "525": {
-        "<%sCAS_target>たちは　ショックをうけた！": ""
+        "<%sCAS_target>たちは　ショックをうけた！": "<%sCAS_target> and co. received a|shock!"
     },
     "526": {
-        "<%sCAS_gambler>は|何も　ぬすめなかった！": ""
+        "<%sCAS_gambler>は|何も　ぬすめなかった！": "<%sCAS_gambler> couldn't steal anything!"
     },
     "527": {
         "clarity_nt_char_527": "clarity_nt_char_527"
     },
     "528": {
-        "しかし　<%sCAS_target>は　生き返らなかった！": ""
+        "しかし　<%sCAS_target>は　生き返らなかった！": "But <%sCAS_target> was not revived!"
     },
     "529": {
-        "<%sCAS_target>には　きかなかった！": ""
+        "<%sCAS_target>には　きかなかった！": "It didn't work on <%sCAS_target>!"
     },
     "530": {
         "clarity_nt_char_530": "clarity_nt_char_530"
     },
     "531": {
-        "<%sCAS_target>たちには　きかなかった！": ""
+        "<%sCAS_target>たちには　きかなかった！": "Didn't work for <%sCAS_target> and co.!"
     },
     "532": {
         "clarity_nt_char_532": "clarity_nt_char_532"
     },
     "533": {
-        "<%sCAS_target>のＨＰは　まんたんです。": ""
+        "<%sCAS_target>のＨＰは　まんたんです。": "<%sCAS_target>'s HP recovered."
     },
     "534": {
         "clarity_nt_char_534": "clarity_nt_char_534"
     },
     "535": {
-        "なかま全員のＨＰは　まんたんです。": ""
+        "なかま全員のＨＰは　まんたんです。": "The party's HP completely recovered."
     },
     "536": {
-        "<%sCAS_gambler>が|既に　かばっている！": ""
+        "<%sCAS_gambler>が|既に　かばっている！": "<%sCAS_gambler> is already Covering!"
     },
     "537": {
-        "<%sCAS_gambler>には|既に　<%sCAS_action>がかかっている！": ""
+        "<%sCAS_gambler>には|既に　<%sCAS_action>がかかっている！": "<%sCAS_gambler> already has <%sCAS_action>|applied!"
     },
     "538": {
-        "<%sCAS_monster>からは|もう　盗めないようだ。": ""
+        "<%sCAS_monster>からは|もう　盗めないようだ。": "Can't steal from <%sCAS_monster>|anymore."
     },
     "539": {
         "clarity_nt_char_539": "clarity_nt_char_539"
     },
     "540": {
-        "<%sCAS_target>には　効果が無いようだ。": ""
+        "<%sCAS_target>には　効果が無いようだ。": "Didn't seem to affect <%sCAS_target>."
     },
     "541": {
         "clarity_nt_char_541": "clarity_nt_char_541"
     },
     "542": {
-        "<%sCAS_target>のＭＰは　まんたんです。": ""
+        "<%sCAS_target>のＭＰは　まんたんです。": "<%sCAS_target>'s MP was recovered."
     },
     "543": {
         "clarity_nt_char_543": "clarity_nt_char_543"
     },
     "544": {
-        "移動時　サイコロが１こ増える！": ""
+        "移動時　サイコロが１こ増える！": "Received an extra dice to roll!"
     },
     "545": {
-        "死んでしまっても確実によみがえる": ""
+        "死んでしまっても確実によみがえる": "Even when you die, you will instantly revive."
     },
     "546": {
         "clarity_nt_char_546": "clarity_nt_char_546"
     },
     "547": {
-        "攻撃や回復の　威力が２倍": ""
+        "攻撃や回復の　威力が２倍": "Double attack and recovery power."
     },
     "548": {
         "clarity_nt_char_548": "clarity_nt_char_548"
     },
     "549": {
-        "攻撃や回復の　威力が４倍": ""
+        "攻撃や回復の　威力が４倍": "Quadruple attack and recovery power."
     },
     "550": {
         "clarity_nt_char_550": "clarity_nt_char_550"
     },
     "551": {
-        "宝箱マスで　必ずとまる": ""
+        "宝箱マスで　必ずとまる": "Will land on treasure space."
     },
     "552": {
-        "バトルで手に入る経験値が２倍": ""
+        "バトルで手に入る経験値が２倍": "Double battle EXP."
     },
     "553": {
         "clarity_nt_char_553": "clarity_nt_char_553"
     },
     "554": {
-        "与えるダメージが　常に２５％上昇": ""
+        "与えるダメージが　常に２５％上昇": "Increase damage dealt by 25%."
     },
     "555": {
         "clarity_nt_char_555": "clarity_nt_char_555"
     },
     "556": {
-        "受けるダメージが　常に２５％減少": ""
+        "受けるダメージが　常に２５％減少": "Reduce damage taken by 25%."
     },
     "557": {
         "clarity_nt_char_557": "clarity_nt_char_557"
     },
     "558": {
-        "移動時　サイコロの目が必ず１": ""
+        "移動時　サイコロの目が必ず１": "Next dice will be a 1."
     },
     "559": {
         "clarity_nt_char_559": "clarity_nt_char_559"
     },
     "560": {
-        "攻撃時　必ず会心のいちげきが出る": ""
+        "攻撃時　必ず会心のいちげきが出る": "Next attack will be critical."
     },
     "561": {
         "clarity_nt_char_561": "clarity_nt_char_561"
     },
     "562": {
-        "サイコロの目が　１か６になる": ""
+        "サイコロの目が　１か６になる": "Next roll will be 1 or 6."
     },
     "563": {
         "clarity_nt_char_563": "clarity_nt_char_563"
     },
     "564": {
-        "サイコロの目を　自由に選べる！": ""
+        "サイコロの目を　自由に選べる！": "Choose your next roll's value!"
     },
     "565": {
-        "守りを固めて|ダメージを|すこし減らす": ""
+        "守りを固めて|ダメージを|すこし減らす": "Defend and|slightly reduce|damage."
     },
     "566": {
-        "移動時に|サイコロの数＋１": ""
+        "移動時に|サイコロの数＋１": "Roll an extra|dice on|your turn."
     },
     "567": {
-        "なかまたちを|かばう！": ""
+        "なかまたちを|かばう！": "Protect your|party!"
     },
     "568": {
-        "こうげき力が上がった！": ""
+        "こうげき力が上がった！": "Attack increased!"
     },
     "569": {
-        "テンションアップ！": ""
+        "テンションアップ！": "Tension boost!"
     },
     "570": {
-        "スーパーハイテンション！": ""
+        "スーパーハイテンション！": "Super High Tension!"
     },
     "571": {
         "clarity_nt_char_571": "clarity_nt_char_571"
     },
     "572": {
-        "宝箱のマスに|必ず止まる！": ""
+        "宝箱のマスに|必ず止まる！": "Always stop on|treasure chest space!"
     },
     "573": {
-        "しゅび力がさがった！": ""
+        "しゅび力がさがった！": "Defense decreased!"
     },
     "574": {
         "clarity_nt_char_574": "clarity_nt_char_574"
     },
     "575": {
-        "次のバトルで|経験値が２倍に！": ""
+        "次のバトルで|経験値が２倍に！": "Next battle|EXP is doubled!"
     },
     "576": {
-        "伝説の武器を|手に入れた！": ""
+        "伝説の武器を|手に入れた！": "Received Legendary|Weapon!"
     },
     "577": {
-        "伝説の防具を|手に入れた！": ""
+        "伝説の防具を|手に入れた！": "Received Legendary|Armor!"
     },
     "578": {
-        "移動時の|サイコロの目が１": ""
+        "移動時の|サイコロの目が１": "Next dice|will be a 1."
     },
     "579": {
-        "次のバトルで|必ず会心のいちげき！": ""
+        "次のバトルで|必ず会心のいちげき！": "Guaranteed critical|in next battle!"
     },
     "580": {
-        "１か６の目しか|出なくなった！": ""
+        "１か６の目しか|出なくなった！": "Next roll will|be 1 or 6!"
     },
     "581": {
-        "ＨＰが少しずつ回復！": ""
+        "ＨＰが少しずつ回復！": "HP recovering|over time!"
     },
     "582": {
         "clarity_nt_char_582": "clarity_nt_char_582"
     },
     "583": {
-        "ねむってしまった！": ""
+        "ねむってしまった！": "Fell asleep!"
     },
     "584": {
-        "勇者の光に|苦しんでいる！": ""
+        "勇者の光に|苦しんでいる！": "Hit by the|heroic light!"
     },
     "585": {
-        "ダメージを|うけなくなった！": ""
+        "ダメージを|うけなくなった！": "Not taking|any damage!"
     },
     "586": {
         "clarity_nt_char_586": "clarity_nt_char_586"
     },
     "587": {
-        "からだがシビれた！": ""
+        "からだがシビれた！": "Body is numb!"
     },
     "588": {
-        "ショックをうけた！": ""
+        "ショックをうけた！": "Got a shock!"
     },
     "589": {
-        "サイコロの数が|もとにもどった！": ""
+        "サイコロの数が|もとにもどった！": "Number of dice|back to normal!"
     },
     "590": {
         "clarity_nt_char_590": "clarity_nt_char_590"
     },
     "591": {
-        "かばうのをやめた": ""
+        "かばうのをやめた": "Stopped Covering."
     },
     "592": {
         "clarity_nt_char_592": "clarity_nt_char_592"
     },
     "593": {
-        "こうげき力が|もとにもどった！": ""
+        "こうげき力が|もとにもどった！": "Attack returned|to normal."
     },
     "594": {
-        "天使の守りの|効果がなくなった！": ""
+        "天使の守りの|効果がなくなった！": "Gained Goddess'|Grace!"
     },
     "595": {
         "clarity_nt_char_595": "clarity_nt_char_595"
     },
     "596": {
-        "テンションが|もとにもどった！": ""
+        "テンションが|もとにもどった！": "Tension returned|to normal!"
     },
     "597": {
-        "お宝探しの|効果が消えた": ""
+        "お宝探しの|効果が消えた": "Treasure hunt|effect faded."
     },
     "598": {
         "clarity_nt_char_598": "clarity_nt_char_598"
     },
     "599": {
-        "しゅび力が|もとにもどった！": ""
+        "しゅび力が|もとにもどった！": "Defense returned|to normal!"
     },
     "600": {
         "clarity_nt_char_600": "clarity_nt_char_600"
     },
     "601": {
-        "経験値ボーナスの|効果が消えた": ""
+        "経験値ボーナスの|効果が消えた": "EXP Bonus|effect faded."
     },
     "602": {
-        "サイコロの目が|もとにもどった！": ""
+        "サイコロの目が|もとにもどった！": "Dice roll number|returned to normal!"
     },
     "603": {
         "clarity_nt_char_603": "clarity_nt_char_603"
     },
     "604": {
-        "会心必中の|効果が消えた": ""
+        "会心必中の|効果が消えた": "Critical Claim|effect faded."
     },
     "605": {
         "clarity_nt_char_605": "clarity_nt_char_605"
     },
     "606": {
-        "リベホイミの|ＨＰ回復がおわった": ""
+        "リベホイミの|ＨＰ回復がおわった": "Remidheal's effect|ended."
     },
     "607": {
         "clarity_nt_char_607": "clarity_nt_char_607"
     },
     "608": {
-        "目をさました": ""
+        "目をさました": "Woke up!"
     },
     "609": {
         "clarity_nt_char_609": "clarity_nt_char_609"
     },
     "610": {
-        "勇者の光の|効果が消えた": ""
+        "勇者の光の|効果が消えた": "Heroic light|effect faded."
     },
     "611": {
         "clarity_nt_char_611": "clarity_nt_char_611"
     },
     "612": {
-        "竜気の結晶の|効果が消えた": ""
+        "竜気の結晶の|効果が消えた": "Dragon crystal|effect faded."
     },
     "613": {
-        "シビれがきえた": ""
+        "シビれがきえた": "Numbness faded."
     },
     "614": {
-        "われにかえった": ""
+        "われにかえった": "Returned to me."
     },
     "615": {
-        "カジノコイン": ""
+        "カジノコイン": "Casino Coin"
     },
     "616": {
         "clarity_nt_char_616": "clarity_nt_char_616"
     },
     "617": {
-        "まほうの小ビン": ""
+        "まほうの小ビン": "Single Phial"
     },
     "618": {
-        "まほうのせいすい": ""
+        "まほうのせいすい": "Magic Water"
     },
     "619": {
         "clarity_nt_char_619": "clarity_nt_char_619"
     },
     "620": {
-        "せかいじゅのしずく": ""
+        "せかいじゅのしずく": "Yggdrasil Dew"
     },
     "621": {
-        "いのちのきのみ": ""
+        "いのちのきのみ": "Seed of Life"
     },
     "622": {
-        "超いのちのきのみ": ""
+        "超いのちのきのみ": "Uber Seed of Life"
     },
     "623": {
         "clarity_nt_char_623": "clarity_nt_char_623"
     },
     "624": {
-        "ふしぎなきのみ": ""
+        "ふしぎなきのみ": "Seed of Magic"
     },
     "625": {
-        "超ふしぎなきのみ": ""
+        "超ふしぎなきのみ": "Uber Seed of Magic"
     },
     "626": {
         "clarity_nt_char_626": "clarity_nt_char_626"
     },
     "627": {
-        "ちからのたね": ""
+        "ちからのたね": "Seed of Strength"
     },
     "628": {
         "clarity_nt_char_628": "clarity_nt_char_628"
     },
     "629": {
-        "超ちからのたね": ""
+        "超ちからのたね": "Uber Seed of Strength"
     },
     "630": {
-        "アクセサリー": ""
+        "アクセサリー": "Accessory"
     },
     "631": {
         "clarity_nt_char_631": "clarity_nt_char_631"
     },
     "632": {
-        "カジノコインを　<%nM_coin>枚手に入れた！": ""
+        "カジノコインを　<%nM_coin>枚手に入れた！": "Received <%dM_coin> Casino Coins!"
     },
     "633": {
-        "<se_nots Joutyu_SE 37>|<%sCAS_gambler>の　ＭＰが５回復！": ""
+        "<se_nots Joutyu_SE 37>|<%sCAS_gambler>の　ＭＰが５回復！": "<se_nots Joutyu_SE 37>|<%sCAS_gambler> recovered 5 MP!"
     },
     "634": {
-        "<se_nots Joutyu_SE 39>|<%sCAS_gambler>の　ＭＰが１０回復！": ""
+        "<se_nots Joutyu_SE 39>|<%sCAS_gambler>の　ＭＰが１０回復！": "<se_nots Joutyu_SE 39>|<%sCAS_gambler> recovered 10 MP!"
     },
     "635": {
         "clarity_nt_char_635": "clarity_nt_char_635"
     },
     "636": {
-        "<se_nots Joutyu_SE 38>|<%sCAS_gambler>の|ＨＰとＭＰが　全回復した！": ""
+        "<se_nots Joutyu_SE 38>|<%sCAS_gambler>の|ＨＰとＭＰが　全回復した！": "<se_nots Joutyu_SE 38>|<%sCAS_gambler>'s HP and MP fully recovered!"
     },
     "637": {
-        "<se_nots System 7>|<%sCAS_gambler>の|最大ＨＰが　１０あがった！": ""
+        "<se_nots System 7>|<%sCAS_gambler>の|最大ＨＰが　１０あがった！": "<se_nots System 7>|<%sCAS_gambler>'s max HP increased by 10!"
     },
     "638": {
-        "<se_nots System 7>|<%sCAS_gambler>の|最大ＭＰが　１０あがった！": ""
+        "<se_nots System 7>|<%sCAS_gambler>の|最大ＭＰが　１０あがった！": "<se_nots System 7>|<%sCAS_gambler>'s max MP increased by 10!"
     },
     "639": {
-        "<se_nots System 7>|<%sCAS_gambler>の|こうげき力が　５あがった！": ""
+        "<se_nots System 7>|<%sCAS_gambler>の|こうげき力が　５あがった！": "<se_nots System 7>|<%sCAS_gambler>'s Attack increased by 5!"
     },
     "640": {
-        "<%sCAS_item>を　手に入れた！": ""
+        "<%sCAS_item>を　手に入れた！": "Received <%sCAS_item>!"
     },
     "641": {
         "clarity_nt_char_641": "clarity_nt_char_641"
     },
     "642": {
-        "<se_nots Joutyu_SE 37>|<%sCAS_gambler>たち全員の　ＭＰが５回復！": ""
+        "<se_nots Joutyu_SE 37>|<%sCAS_gambler>たち全員の　ＭＰが５回復！": "<se_nots Joutyu_SE 37>|<%sCAS_gambler> and co. recovered 5 MP!"
     },
     "643": {
-        "<se_nots Joutyu_SE 39>|<%sCAS_gambler>たち全員の　ＭＰが１０回復！": ""
+        "<se_nots Joutyu_SE 39>|<%sCAS_gambler>たち全員の　ＭＰが１０回復！": "<se_nots Joutyu_SE 39>|<%sCAS_gambler> and co. recovered 10 MP!"
     },
     "644": {
         "clarity_nt_char_644": "clarity_nt_char_644"
     },
     "645": {
-        "<se_nots Joutyu_SE 38>|<%sCAS_gambler>たち全員の|ＨＰとＭＰが　全回復した！": ""
+        "<se_nots Joutyu_SE 38>|<%sCAS_gambler>たち全員の|ＨＰとＭＰが　全回復した！": "<se_nots Joutyu_SE 38>|<%sCAS_gambler> and co. fully recovered|their HP and MP!"
     },
     "646": {
-        "<se_nots System 7>|<%sCAS_gambler>たち全員の|最大ＨＰが　１０ずつ　あがった！": ""
+        "<se_nots System 7>|<%sCAS_gambler>たち全員の|最大ＨＰが　１０ずつ　あがった！": "<se_nots System 7>|<%sCAS_gambler> and co.'s max HP increased by 10!"
     },
     "647": {
         "clarity_nt_char_647": "clarity_nt_char_647"
     },
     "648": {
-        "<se_nots System 7>|<%sCAS_gambler>たち全員の|最大ＭＰが　１０ずつ　あがった！": ""
+        "<se_nots System 7>|<%sCAS_gambler>たち全員の|最大ＭＰが　１０ずつ　あがった！": "<se_nots System 7>|<%sCAS_gambler> and co.'s max MP increased by 10!"
     },
     "649": {
         "clarity_nt_char_649": "clarity_nt_char_649"
     },
     "650": {
-        "<se_nots System 7>|<%sCAS_gambler>たち全員の|こうげき力が　５ずつ　あがった！": ""
+        "<se_nots System 7>|<%sCAS_gambler>たち全員の|こうげき力が　５ずつ　あがった！": "<se_nots System 7>|<%sCAS_gambler> and co.'s Attack increased by 5!"
     },
     "651": {
         "clarity_nt_char_651": "clarity_nt_char_651"
     },
     "652": {
-        "はじまりの大地": ""
+        "はじまりの大地": "Land of Beginnings"
     },
     "653": {
-        "遥かなるピラミッド": ""
+        "遥かなるピラミッド": "Distant Pyramid"
     },
     "654": {
-        "閉ざされし白銀の森": ""
+        "閉ざされし白銀の森": "Closed Silver Forest"
     },
     "655": {
-        "悪夢に囚われし街": ""
+        "悪夢に囚われし街": "Trapped Nightmare Town"
     },
     "656": {
         "clarity_nt_char_656": "clarity_nt_char_656"
     },
     "657": {
-        "『はじまりの大地』マップで|すごろくを遊びますが　よろしいですか？|<yesno><close>": ""
+        "『はじまりの大地』マップで|すごろくを遊びますが　よろしいですか？|<yesno><close>": "Would you like to play on the|\"Land of Beginnings\" map?|<yesno><close>"
     },
     "658": {
         "clarity_nt_char_658": "clarity_nt_char_658"
     },
     "659": {
-        "『遥かなるピラミッド』マップで|すごろくを遊びますが　よろしいですか？|<yesno><close>": ""
+        "『遥かなるピラミッド』マップで|すごろくを遊びますが　よろしいですか？|<yesno><close>": "Would you like to play on the|\"Distant Pyramid\" map?|<yesno><close>"
     },
     "660": {
         "clarity_nt_char_660": "clarity_nt_char_660"
     },
     "661": {
-        "『閉ざされし白銀の森』マップで|すごろくを遊びますが　よろしいですか？|<yesno><close>": ""
+        "『閉ざされし白銀の森』マップで|すごろくを遊びますが　よろしいですか？|<yesno><close>": "Would you like to play on the|\"Closed Silver Forest\" map?|<yesno><close>"
     },
     "662": {
         "clarity_nt_char_662": "clarity_nt_char_662"
     },
     "663": {
-        "『悪夢に囚われし街』マップで|すごろくを遊びますが　よろしいですか？|<yesno><close>": ""
+        "『悪夢に囚われし街』マップで|すごろくを遊びますが　よろしいですか？|<yesno><close>": "Would you like to play on the|\"Trapped Nightmare Town\" map?|<yesno><close>"
     },
     "664": {
-        "アンルシア": ""
+        "アンルシア": "Anlucia"
     },
     "665": {
-        "エステラ": ""
+        "エステラ": "Estella"
     },
     "666": {
         "clarity_nt_char_666": "clarity_nt_char_666"
     },
     "667": {
-        "ヒューザ": ""
+        "ヒューザ": "Huzer"
     },
     "668": {
         "clarity_nt_char_668": "clarity_nt_char_668"
     },
     "669": {
-        "ザンクローネ": ""
+        "ザンクローネ": "Zankrone"
     },
     "670": {
         "clarity_nt_char_670": "clarity_nt_char_670"
     },
     "671": {
-        "セラフィ": ""
+        "セラフィ": "Seraphy"
     },
     "672": {
         "clarity_nt_char_672": "clarity_nt_char_672"
     },
     "673": {
-        "アンルシアが　仲間に加わった！|<br>|アンルシアは　５ターンに１度|勇者の光を　放つことで|モンスターを　行動不能にしてくれます！": ""
+        "アンルシアが　仲間に加わった！|<br>|アンルシアは　５ターンに１度|勇者の光を　放つことで|モンスターを　行動不能にしてくれます！": "Anlucia joins your party|<br>|Every 5 turns, Anlucia will stop enemies|in their tracks by using the light of the|hero!"
     },
     "674": {
-        "セラフィが　仲間に加わった！|<br>|セラフィは|毎ターン　ベホマラーを　となえて|仲間全員を　回復してくれます！": ""
+        "セラフィが　仲間に加わった！|<br>|セラフィは|毎ターン　ベホマラーを　となえて|仲間全員を　回復してくれます！": "Seraphy joins the party!|<br>|Every turn, Seraphy will cast Multiheal to|heal the entire party!"
     }
 }

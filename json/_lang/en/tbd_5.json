@@ -348,7 +348,7 @@
         "<%sC_PC>は <%sM_item><%sM_plusnum>を 投げ捨てた！": "<%sC_PC> threw away <%sM_item><%sM_plusnum>!"
     },
     "117": {
-        "『<%sM_syogo>』の称号を　かくとく！": ""
+        "『<%sM_syogo>』の称号を　かくとく！": "Received the \"<%sM_syogo>\" accolade!"
     },
     "118": {
         "預かり所から <%sM_item><%sM_plusnum>を <%dM_item_num>個 取り出した。": "You took out <%dM_item_num> <%sM_item><%sM_plusnum> from storage."

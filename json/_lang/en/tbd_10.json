@@ -84,7 +84,7 @@
         "clarity_nt_char_11": "clarity_nt_char_11"
     },
     "29": {
-        "<%sM_pc>は しぐさ「<%sM_item2>」を おぼえた！": ""
+        "<%sM_pc>は しぐさ「<%sM_item2>」を おぼえた！": "<%sM_pc> learned the gesture|\"<%sM_item2>\"!"
     },
     "30": {
         "<speed=0><%sM_pc>は|<%sM_item>を使った。<br>|しかし　何も　おこらなかった。|家の改築で　使ってみよう！": "<speed=0><%sM_pc> used the <%sM_item>.<br>|But nothing happened.|Try using it in your house!"

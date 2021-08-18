@@ -18,7 +18,7 @@
         "<%sCAS_gambler>は|ちかくの教会で　いきかえった！": "<%sCAS_gambler> revived at a nearby|church!"
     },
     "7": {
-        "<%sCAS_monster>が　あらわれた！": "<%sCAS_monster> appeared!"
+        "<%sCAS_monster>が　あらわれた！": "A <%sCAS_monster> draws near!"
     },
     "8": {
         "<%sCAS_monster>を　やっつけた！": "<%sCAS_monster> was defeated!"
@@ -39,10 +39,10 @@
         "<%sCAS_item>を　手に入れた！": "Received <%sCAS_item>!"
     },
     "14": {
-        "<%sCAS_gambler>は|<%nM_coin>枚の　カジノコインをかくとく！": "<%sCAS_gambler> received <%nM_coin>|Casino Coins!"
+        "<%sCAS_gambler>は|<%nM_coin>枚の　カジノコインをかくとく！": "<%sCAS_gambler> received <%dM_coin> Casino Coins!"
     },
     "15": {
-        "<%sCAS_gambler>は|<%nM_exp>の　経験値をかくとく！": "<%sCAS_gambler> received <%nM_exp> EXP!"
+        "<%sCAS_gambler>は|<%nM_exp>の　経験値をかくとく！": "<%sCAS_gambler> received <%dM_exp> EXP!"
     },
     "16": {
         "<%sCAS_HAHEN>を　<%sCAS_NUM>こ手に入れた！": "Received <%sCAS_NUM> <%sCAS_HAHEN>!"
@@ -51,7 +51,7 @@
         "<se_nots System 7>|<%sCAS_action>のとくぎを　おぼえた！": "<se_nots System 7>|Learned <%sCAS_action>!"
     },
     "18": {
-        "<%sCAS_gambler>は|レベル<%nCAS_now_level>に　あがった！": "<%sCAS_gambler> is now Level <%nCAS_now_level>!"
+        "<%sCAS_gambler>は|レベル<%nCAS_now_level>に　あがった！": "<%sCAS_gambler> is now Level <%dCAS_now_level>!"
     },
     "19": {
         "<se_nots System 7>|<pc>たちは　すごろくで|<%sCAS_item>を　<%nCAS_NUM>こ　手に入れた！": "<se_nots System 7>|<pc> and co. received|<%nCAS_NUM> <%sCAS_item> from Sugoroku!"
@@ -150,7 +150,7 @@
         "レベルアップ！": "Level Up!"
     },
     "51": {
-        "さいだいＨＰが　<%nCAS_value>になった！|さいだいＭＰが　<%nCAS_value2>になった！|こうげき力が　<%nCAS_value3>になった！": "Max HP is now <%nCAS_value>!|Max MP is now <%nCAS_value2>!Attack is now <%nCAS_value3>!"
+        "さいだいＨＰが　<%nCAS_value>になった！|さいだいＭＰが　<%nCAS_value2>になった！|こうげき力が　<%nCAS_value3>になった！": "Max HP is now <%dCAS_value>!|Max MP is now <%dCAS_value2>!|Attack is now <%dCAS_value3>!"
     },
     "52": {
         "<se_nots System 7>|<pc>は　すごろくで|<%sCAS_item>を　<%nCAS_NUM>こ　手に入れた！": "<se_nots System 7>|<pc> received <%nCAS_NUM> <%sCAS_item>|from Sugoroku!"

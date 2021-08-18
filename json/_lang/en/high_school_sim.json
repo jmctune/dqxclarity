@@ -1581,7 +1581,7 @@
         "真・オノむそう": "Axes of True Evil"
     },
     "528": {
-        "煉獄火炎": ""
+        "煉獄火炎": "Hellfire"
     },
     "529": {
         "clarity_nt_char_175": "clarity_nt_char_175"
@@ -1665,10 +1665,10 @@
         "clarity_nt_char_182": "clarity_nt_char_182"
     },
     "556": {
-        "こごえるふぶき": ""
+        "こごえるふぶき": "Snowstorm"
     },
     "557": {
-        "かがやくいき": ""
+        "かがやくいき": "Bright Breath"
     },
     "558": {
         "clarity_nt_char_183": "clarity_nt_char_183"
@@ -2898,7 +2898,7 @@
         "clarity_nt_char_317": "clarity_nt_char_317"
     },
     "967": {
-        "勇者の光": ""
+        "勇者の光": "Heroic Light"
     },
     "968": {
         "clarity_nt_char_318": "clarity_nt_char_318"
@@ -8511,7 +8511,7 @@
         "clarity_nt_char_930": "clarity_nt_char_930"
     },
     "2838": {
-        "ドルマ系の呪文の|威力があがる": "Zam-type spell damage increased"
+        "ドルマ系の呪文の|威力があがる": "Zam-type spell|damage increased."
     },
     "2839": {
         "闇属性攻撃の|威力が軽減される": ""

@@ -2844,16 +2844,16 @@
         "clarity_nt_char_948": "clarity_nt_char_948"
     },
     "949": {
-        "打撃攻撃のダメージ上昇": "Physical damage taken up!"
+        "打撃攻撃のダメージ上昇": "Physical damage taken ↑"
     },
     "950": {
         "呪文攻撃のダメージ上昇": "Spell damage dealt up!"
     },
     "951": {
-        "打撃で受けるダメージ減": "Reduced Physical damage taken!"
+        "打撃で受けるダメージ減": "Physical damage taken ↓"
     },
     "952": {
-        "呪文で受けるダメージ減": "Reduced Spell damage taken!"
+        "呪文で受けるダメージ減": "Spell damage taken ↓"
     },
     "953": {
         "受けるダメージ減少": "Taken damage|slightly down!"
@@ -2877,7 +2877,7 @@
         "呪文攻撃を反射する": "Spells will be reflected!"
     },
     "960": {
-        "毎ターンＨＰが２０回復": "Recover 20 HP|each turn!"
+        "毎ターンＨＰが２０回復": "Recover 20 HP per turn!"
     },
     "961": {
         "打撃攻撃を受けない": "Physical attacks|are null!"
@@ -2886,10 +2886,10 @@
         "ダメージを受けない": "Taking no damage!"
     },
     "963": {
-        "死んでもＨＰ１０で復活": "Revive with 10|HP on death!"
+        "死んでもＨＰ１０で復活": "Revive at 10 HP on death!"
     },
     "964": {
-        "さいだいＨＰが６０上昇": "Max HP increased|by 60!"
+        "さいだいＨＰが６０上昇": "Max HP increased by 60!"
     },
     "965": {
         "●と★が入れかわる": "● and ★ are|swapped!"
@@ -2919,7 +2919,7 @@
         "打撃で受けるダメージ増": "Phys. damage taken up!"
     },
     "974": {
-        "呪文で受けるダメージ増": "Reduced spell damage taken!"
+        "呪文で受けるダメージ増": "Spell damage taken ↑"
     },
     "975": {
         "すばやさダウン": "Agility Down"
@@ -2976,7 +2976,7 @@
         "clarity_nt_char_992": "clarity_nt_char_992"
     },
     "993": {
-        "毎ターンＨＰが回復！": "Recover HP|each turn!"
+        "毎ターンＨＰが回復！": "Recover HP each turn!"
     },
     "994": {
         "clarity_nt_char_994": "clarity_nt_char_994"
@@ -3546,7 +3546,7 @@
         "マジックスープ": "Magic Soup"
     },
     "1183": {
-        "バトエンのＨＰを|３０回復する": "Restores 30 HP."
+        "バトエンのＨＰを|３０回復する": "Restores a|Batoen's HP|by 30."
     },
     "1184": {
         "バトエンの|テンションを|１段階上げる": "Raises Tension|by 1 level."

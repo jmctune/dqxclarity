@@ -1,0 +1,227 @@
+{
+    "1": {
+        "<speed=0>|チェンジできるバトエンが　ありません。": "<speed=0>|There are no Batoen to change to."
+    },
+    "2": {
+        "<speed=0>|ＨＰが　残っていない　バトエンには|チェンジできません。": "<speed=0>|You cannot change to a Batoen that|has no HP left."
+    },
+    "3": {
+        "<speed=0>|<%sL_PENCIL_NAME>は|現在　場に出ています。|控えのバトエンを　選んでください。": "<speed=0>|<%sL_PENCIL_NAME> is already in play. Please|choose a different Batoen."
+    },
+    "4": {
+        "<speed=0>|チェンジできる回数が　残っていないので|このバトエンファイト中は　チェンジできません。": "<speed=0>|You've used up all of your remaining changes|for this Batoen Fight."
+    },
+    "5": {
+        "<speed=0>|<%sL_PENCIL_NAME>は　ＨＰが最大なので|上やくそうを　使っても　効果がありません。": "<speed=0>|<%sL_PENCIL_NAME> is already at full HP,|so the Strong Medicine won't have any effect."
+    },
+    "6": {
+        "<speed=0>|<%sL_PENCIL_NAME>は　ラブチョコを　使っても|これ以上　テンションがあがりません。": "<speed=0>|<%sL_PENCIL_NAME> is already at max|Tension, so the Love Chocolate won't increase|it any higher."
+    },
+    "7": {
+        "<speed=0>|ＨＰが　残っている　バトエンに|せかいじゅの葉を　使っても|効果がありません。": "<speed=0>|Using a Yggdrasil Leaf on a Batoen with|HP remaining will have no effect."
+    },
+    "8": {
+        "<speed=0>|<%sL_PENCIL_NAME>は　ＨＰが最大で|状態異常にも　かかっていないので|つきのめぐみを　使っても　効果がありません。": "<speed=0>|<%sL_PENCIL_NAME> is at full HP and|isn't affected by any bad statues, so the|Lunaria will have no effect."
+    },
+    "9": {
+        "<speed=0>|行動を決定しました。|他のプレイヤー全員が　行動を決定するまで|お待ちください。": "<speed=0>|Action has been selected. Please wait for|other players to select their actions."
+    },
+    "10": {
+        "<speed=0>|今回のターンの行動は|「たたかう」|でよろしいですか？|<yesno><break>": "<speed=0>|Use the \"Fight\" action for this turn?|<yesno><break>"
+    },
+    "11": {
+        "<speed=0>|使えるどうぐは　もう残っていません。": "<speed=0>|There are no items left to use."
+    },
+    "12": {
+        "バトエンを終了します。|（ここで褒めたり、TIPSを表示したりします）": "Batoen has ended."
+    },
+    "13": {
+        "削除予定": "Nothing"
+    },
+    "14": {
+        "削除予定": "Nothing"
+    },
+    "15": {
+        "削除予定": "Nothing"
+    },
+    "16": {
+        "削除予定": "Nothing"
+    },
+    "17": {
+        "<pipipi_high>|「これで　このターンの行動が|　『たたかう』に　決定されましたわ！|<br>|「全員のコマンドが　入力されたら|　次は『すばやさ』が高いバトエンから|　順番に　行動していくことになりますの。|<br>|「つまり『すばやさが高いほど　先に行動できる』|　ということになりますので|　バトエンの『すばやさ』は要チェックですわよ！|<pipipi_off><end>": "<pipipi_high>|The action decided for this turn is \"Fight\"!|<br>|Once all players' actions have been chosen,|Batoen will act in order starting from the|highest Agility.|<br>|In other words, if your Agility is high,|you'll get to act sooner more often! Make|sure to check your Agility!|<pipipi_off><end>"
+    },
+    "18": {
+        "<pipipi_high>|「見事な『チェンジアタック』でしたわ！|<br>|「バトエンファイト中に『チェンジ』を使えるのは|　１対１の戦いでは　３回まで|　フリー対戦では　２回までと決められてますの。|<br>|「強力なコマンドですので|　ここぞという　タイミングで|　お使いくださいませ！|<br>|「以上で　私からの説明を|　終わりとさせていただきます。|<br>|「もし　もっと　くわしく知りたいことがあれば|　バトエンランチャーの　『バトエンの遊び方』で|　ご確認くださいませ。|<br>|「<pc>様なら　きっと　すばらしい|　バトエンファイターに　なれると思いますわ！|<pipipi_off><end>": "<pipipi_high>|Nice job with that Change Attack!|<br>|You can use the \"Change\" command 3 times in a|one-on-one battle, and 2 times in a Free Battle.|<br>|Change Attacks can be very powerful, so|make sure to use them at the opportune|moment!|<br>|Well, this is the end of my explanation.|<br>|If you need to brush up again, you can check|\"How to Play\" in the Batoen Launcher.|<br>|From what I've seen, I have a feeling that|you'll be an excellent Batoen Fighter!|<pipipi_off><end>"
+    },
+    "19": {
+        "削除予定": "Nothing"
+    },
+    "20": {
+        "<pipipi_high>|「『チェンジアタック』は|　それぞれのバトエンの|　『一番上にあるアクション』ですの。|<br>|「どんな『チェンジアタック』を持っているのかを|　確認しながら　チェンジしたいバトエンを|　選んでくださいませ！|<pipipi_off><end>": "<pipipi_high>|A \"Change Attack\" is a Batoen's action listed|at the very top.|<br>|When doing a Change Attack, make sure to|carefully check the Batoen you're changing|into!|<pipipi_off><end>"
+    },
+    "21": {
+        "<pipipi_high>|「今　お手持ちの　どうぐ消しゴムは|　『上やくそう』と『ラブチョコ』ですわ。|<br>|「『上やくそう』は　回復したい時に|　『ラブチョコ』は　攻撃したい時に|　選んでいただけると　よろしいかと。|<br>|「では　お好きな方を|　選んでみてくださいませ！|<pipipi_off><end>": "<pipipi_high>|The Item Erasers you have now are \"Strong|Medicine\" and \"Love Chocolate\".|<br>|Use Strong Medicine if you need to recover,|and Love Chocolate if you plan to attack.|<br>|Choose whichever you like!|<pipipi_off><end>"
+    },
+    "22": {
+        "削除予定": "Nothing"
+    },
+    "23": {
+        "削除予定": "Nothing"
+    },
+    "24": {
+        "<pipipi_high>|「まずは　バトエンファイトの基本となる|　『たたかう』コマンドですわ。|<br>|「『たたかう』を　選ぶと|　バトエンは　６つのアクションのうち|　どれか１つを　おこないますの。|<br>|「では　『たたかう』コマンドを|　選んでみてくださいませ。|<pipipi_off><end>": "<pipipi_high>|The \"Fight\" command is the basis of any|Batoen Fight.|<br>|After choosing \"Fight\", your Batoen will|perform one of its 6 actions.|<br>|So then, please choose the \"Fight\" command."
+    },
+    "25": {
+        "削除予定": "Nothing"
+    },
+    "26": {
+        "<pipipi_high>|「これで『たたかう』コマンドについては|　だいたい　ご理解いただけたかと思います。|<br>|「では　次は『どうぐ』コマンドの|　使い方について　説明させていただきますわ。|<pipipi_off><end>": "<pipipi_high>|Using the \"Fight\" command is pretty easy,|right?|<br>|Next, I'll explain how to use the \"Items\"|command."
+    },
+    "27": {
+        "<pipipi_high>|「では　これから　バトエンファイトで使える|　３つのコマンドについて|　私から　レクチャーをさせていただきます。|<pipipi_off><end>": "<pipipi_high>|Now, I will explain the 3 different commands|you can use during a Batoen Fight.|<pipipi_off><end>"
+    },
+    "28": {
+        "削除予定": "Nothing"
+    },
+    "29": {
+        "削除予定": "Nothing"
+    },
+    "30": {
+        "<speed=0>|制限ターン以内に　倒せなかったので|<pc>の　敗北となります。|<auto_bw=5000><close>": "<speed=0>|You will lose due to not winning|in the limited amount of turns.|<auto_bw=5000><close>"
+    },
+    "31": {
+        "<speed=0>|制限ターン数に　なりました。|現在残っている　バトエンの本数が|多い順に　順位をつけます。|<auto_br=5000>|同じ本数が　残っている場合は|総ＨＰが　多く残っている方が|上位となります。|<auto_bw=5000><close>": "<speed=0>|The turn limit has been reached. Winners|will be decided from number of remaining Batoen.|<auto_br=5000>|If the numbers are the same, the player with|the highest total HP remaining will be|the winner.|<auto_bw=5000><close>"
+    },
+    "32": {
+        "<speed=0>|<%sL_ERASER_NAME>は|今回のバトエンファイトでは|もう　使用できません。": "<speed=0>|<%sL_ERASER_NAME> can't be used in this|Batoen Fight."
+    },
+    "33": {
+        "攻撃する相手が|いなかった": "No valid|attack target!"
+    },
+    "34": {
+        "すばやさ　　<%nL_SPEED>の|<%sL_PENCIL_NAME>の　こうげき！": "Agility　　<%nL_SPEED>|<%sL_PENCIL_NAME>'s attack!"
+    },
+    "35": {
+        "目がくらんでいる": "Blinded!"
+    },
+    "36": {
+        "<pipipi_high>|「『どうぐ』コマンドは|　どうぐ消しゴムを　使うためのコマンドですの。|<br>|「どうぐ消しゴムは　２個まで　持ち込んで|　使うことができますわ。|<br>|「ただし　バトエンファイト中に使えるのは|　１個につき　１回だけ。|　チャンスや　ピンチの時にお使いください。|<br>|「では　今回は|　『どうぐ』コマンドをお選びくださいませ。|<pipipi_off><end>": "<pipipi_high>|The \"Item\" command allows you to use an|Item Eraser.|<br>|You're able to bring 2 Item Erasers to|a battle.|<br>|However, each eraser can only be used|once per Batoen Fight. Use them in a pinch|or to turn a battle in your favor.|<br>|Now, please select the \"Item\" command.|<pipipi_off><end>"
+    },
+    "37": {
+        "<pipipi_high>|「『どうぐ』コマンドについては|　ご理解いただけたようですね！|<br>|「どうぐ消しゴムは　使っても|　次のバトエンファイトでは　また使えるように|　なりますので　どんどん使用してくださいね。|<br>|「では　最後に『チェンジ』コマンドについて|　レクチャーいたしますわ。|<br>|「『チェンジ』コマンドは|　場のバトエンと　手持ちのバトエンを|　『入れ替える』コマンドですの。|<br>|「しかも『チェンジアタック』という|　特別なアクションを　くり出すことのできる|　とても　重要なコマンドですのよ！|<br>|「では　最後に『チェンジ』コマンドを|　お選びくださいませ！|<pipipi_off><end>": "<pipipi_high>|Looks like you've gotten the hang of|the \"Item\" command!|<br>|You'll get back any Erasers you used once|the battle is over, so don't worry about using|them.|<br>|Now, I will lecture you on the \"Change\"|command.|<br>|The \"Change\" command allows you to swap your|Batoen on the field with one in your hand.|<br>|It's a very important action that will allow|you to perform a \"Change Attack\"!|<br>|Now, please select the \"Change\" command.|<pipipi_off><end>"
+    },
+    "38": {
+        "<speed=0>|今回は　「たたかう」を|選んでください。": "<speed=0>|Please select the \"Fight\" command."
+    },
+    "39": {
+        "<speed=0>|今回は　「どうぐ」を|選んでください。": "<speed=0>|Please select the \"Item\" command."
+    },
+    "40": {
+        "<speed=0>|今回は　「チェンジ」を|選んでください。": "<speed=0>|Please select the \"Change\" command."
+    },
+    "41": {
+        "<speed=0>|あきらめて　バトエンファイトを終了します。|本当に　よろしいですか？|<yesno 2><break>": "<speed=0>|You'll give up and end this Batoen Fight.|Are you really sure?|<yesno 2><break>"
+    },
+    "42": {
+        "<speed=0>|今回は　説明のための|バトエンファイトなので|「あきらめる」は　選択できません。": "<speed=0>|Batoen is currently being explained, so|\"Give Up\" cannot be chosen right now."
+    },
+    "43": {
+        "<speed=0>|バトエンファイトに　負けてしまった……。|<auto_br=5000>|相手の使ってくる　バトエンを分析して|有利に戦える　バトエンを|自分のデッキに　加えてみよう！|<auto_bw=5000><close>": "<speed=0>|Lost the Batoen fight...|<auto_br=5000>|Make sure to analyze your opponent's Batoen|and change your Batoen to take advantage|of their strategy!|<auto_bw=5000><close>"
+    },
+    "44": {
+        "<speed=0>|バトエンファイトに　勝った！|<auto_bw=5000><close>": "<speed=0>|Won the Batoen Fight!|<auto_bw=5000><close>"
+    },
+    "45": {
+        "<speed=0>|今回のバトエンファイトで|バトエンポイントを　<%nL_BATOEN_POINT>Ｐ　獲得しました！|<auto_bw=5000><close>": "<speed=0>|Received <%dL_BATOEN_POINT> Batoen Points!|<auto_bw=5000><close>"
+    },
+    "46": {
+        "<speed=0>|<se_nots Joutyu_SE 39>|今回の結果は　２位でした！": "<speed=0>|<se_nots Joutyu_SE 39>|You got 2nd place!"
+    },
+    "47": {
+        "<speed=0>|<se_nots Joutyu_SE 37>|今回の結果は　３位でした！": "<speed=0>|<se_nots Joutyu_SE 37>|You got 3rd place!"
+    },
+    "48": {
+        "<speed=0>|<se_nots Joutyu_SE 35>|今回の結果は　４位でした！": "<speed=0>|<se_nots Joutyu_SE 35>|You got 4th place!"
+    },
+    "49": {
+        "すべての攻撃が全員に|当たるようになった！": "All attacks will now hit all targets!"
+    },
+    "50": {
+        "<speed=0>|「クライマックスバトル」に突入しました！|これより　全ての攻撃が|全員に　ヒットするようになります！": "<speed=0>|\"Climax Battle\" has started! Now all attacks|will hit every target!"
+    },
+    "51": {
+        "<speed=0>|今回は　同じターンに|全滅したプレイヤーが　複数いたので|あなたは　２位となりました。|<auto_bw=5000><close>": "<speed=0>|Multiple players were knocked out on the|same turn, so you came in 2nd place.|<auto_bw=5000><close>"
+    },
+    "52": {
+        "<speed=0>|今回は　同じターンに|全滅したプレイヤーが　複数いたので|あなたは　３位となりました。|<auto_bw=5000><close>": "<speed=0>|Multiple players were knocked out on the|same turn, so you came in 3rd place.|<auto_bw=5000><close>"
+    },
+    "53": {
+        "<speed=0>|今回は　同じターンに|全滅したプレイヤーが　複数いたので|あなたは　４位となりました。|<auto_bw=5000><close>": "<speed=0>|Multiple players were knocked out on the|same turn, so you came in 4th place.|<auto_bw=5000><close>"
+    },
+    "54": {
+        "<speed=0>|今回は　同じターンに|全滅したプレイヤーが　複数いたため|あなたは　１位となりました。|<auto_bw=5000><close>": "<speed=0>|Multiple players were knocked out on the|same turn, so you came in 1st place.|<auto_bw=5000><close>"
+    },
+    "55": {
+        "<speed=0>|観戦モードに入ります。|<cancel>を押すと　バトエンバトルから|いつでも　抜けることができます。|<auto_bw=5000><close>": "<speed=0>|You are now spectating.|You can leave the battle at any time by|pressing <cancel>.|<auto_bw=5000><close>"
+    },
+    "56": {
+        "観戦モードを終了して|このバトルから抜けますか？": "Stop spectating and leave the battle?"
+    },
+    "57": {
+        "このままパーティから抜けますが|本当によろしいですか？": "You'll leave your current party. Is this okay?"
+    },
+    "58": {
+        "<speed=0>|編成を確定する前であれば　キャンセルボタンを|押すことで　選び直しできます。|このデッキ編成で　よろしいですか？|<yesno><break>": "<speed=0>|You can cancel any changes by pressing the|Cancel button. Use this deck setup?|<yesno><break>"
+    },
+    "59": {
+        "<speed=0>|封印する　えんぴつを選択しました。|相手全員が　封印する　えんぴつを選ぶまで|お待ちください。": "<speed=0>|Selected a pencil to seal. Please wait|for everyone to make their choice."
+    },
+    "60": {
+        "<speed=0>|デッキの編成が　完了しました。|全員のデッキ編成が終わるのを|お待ちください。": "<speed=0>|Deck setup is complete. Please wait for|everyone else to finish."
+    },
+    "61": {
+        "<speed=0>|この　えんぴつは　対戦相手が封印したため|選ぶことができません。|別の　えんぴつを　選んでください。": "<speed=0>|This pencil cannot be used due to another|player choosing to seal it. Please select|a different pencil."
+    },
+    "62": {
+        "<speed=0>|制限時間内に　封印する　えんぴつを|選びませんでした。": "<speed=0>|Ran out of time to choose a pencil to seal."
+    },
+    "63": {
+        "<speed=0>|相手に使われたくない　えんぴつを|封印することで　有利に進めることができます。|封印したい　えんぴつを　１本選んでください。": "<speed=0>|You can take advantage by selecting a|pencil you do not want your opponent using.|Please select a pencil to seal."
+    },
+    "64": {
+        "<speed=0>|相手の選択した　えんぴつが　封印されました。|残りの　えんぴつから　３本選んで|デッキを編成してください。": "<speed=0>|The other players have chosen pencils to|seal. Please make a deck of 3 pencils from|the remaining pencils."
+    },
+    "65": {
+        "<speed=0>|封印すると　自分以外の対戦相手に|この　えんぴつを　使えなくできます。|これを封印しても　よろしいですか？|<yesno><break>": "<speed=0>|If you seal this pencil, you opponent|won't be able to choose it. Do you want|to seal this pencil?|<yesno><break>"
+    },
+    "66": {
+        "<speed=0>|大会スコアを　<%nADD_GP_POINT>Ｐ　手に入れた！|合計で　<%nGP_POINT>Ｐになった！": "<speed=0>|Received a tournament score of <%dADD_GP_POINT> P!|Total score is now <%dGP_POINT>!"
+    },
+    "67": {
+        "<speed=0>|大会ランクが　<%sAFTER_CLASS>ランクにアップした！|次のランクまで　<%nNEXT_GP_POINT>Ｐ。": "<speed=0>|Your tournament rank is now <%sAFTER_CLASS>!|Next rank in <%nNEXT_GP_POINT> points."
+    },
+    "68": {
+        "<speed=0>|<%sL_PENCIL_NAME1>・<%sL_PENCIL_NAME2>・|<%sL_PENCIL_NAME3>の３本を|デッキとして　選びました！": "<speed=0>|<%sL_PENCIL_NAME1>, <%sL_PENCIL_NAME2>,|and <%sL_PENCIL_NAME3> selected for|your deck!"
+    },
+    "69": {
+        "<speed=0>|<%sL_PENCIL_NAME>の　えんぴつを|相手が使えないように　封印しました！": "<speed=0>|Sealed <%sL_PENCIL_NAME>!|Other players can no longer use it!"
+    },
+    "70": {
+        "<speed=0>|バトエンポイントを　<%nADD_BATEN_POINT>Ｐ　手に入れた！<se_nots System 7>": "<speed=0>|Received <%dADD_BATEN_POINT> Batoen Points!<se_nots System 7>"
+    },
+    "71": {
+        "<speed=0>|大会スコアを　<%nADD_GP_POINT>Ｐ　失った……。|合計で　<%nGP_POINT>Ｐになった！": "<speed=0>|Tournament score down by <%dADD_GP_POINT> P...|Total score is now <%dGP_POINT>!"
+    },
+    "72": {
+        "<speed=0>|<%sL_PENCIL_NAME>は　選択されています。|別の　えんぴつを　選んでください。": "<speed=0>|<%sL_PENCIL_NAME> is selected.|Please choose another pencil."
+    },
+    "73": {
+        "<speed=0>|制限時間内に　３本の　えんぴつを|選びませんでした。": "<speed=0>|Didn't select 3 pencils within the time|limit."
+    },
+    "74": {
+        "<speed=0>|覇者の心を　<%dADD_HASYA_POINT>個　手に入れた！<se_nots System 7>": "<speed=0>|Received <%dADD_HASYA_POINT> Champion Hearts!<se_nots System 7>"
+    },
+    "75": {
+        "<speed=0>|大会ランクが　<%sAFTER_CLASS>ランクにアップした！": "<speed=0>|Tournament rank is now <%sAFTER_CLASS>!"
+    }
+}

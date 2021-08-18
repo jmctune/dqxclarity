@@ -21,7 +21,7 @@
         "<%dM_coin>コイン　ルーレットがあります。|遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": ""
     },
     "8": {
-        "<%dM_coin>コイン　スロットがあります。|遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": ""
+        "<%dM_coin>コイン　スロットがあります。|遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": "This is a <%dM_coin> Coin slot machine.|Do you want to play?|(Floor <%dW_INSTANCE_NO> <%sCAS_room> <%sCAS_table>)<yesno><close>"
     },
     "9": {
         "<%sCAS_monster>を　倒した！<auto_bw=3000><close>": ""
@@ -144,7 +144,7 @@
         "カジノフロア<%nW_INSTANCE_NO>": ""
     },
     "49": {
-        "テンションアップ効果が　終了しました。": ""
+        "テンションアップ効果が　終了しました。": "Tension Boost effect has ended."
     },
     "50": {
         "テンションアップ効果が　終了しました。<auto_bw=2500><close>": "Tension Boost effect has ended.<auto_bw=2500><close>"
@@ -162,7 +162,7 @@
         "アップした！": ""
     },
     "55": {
-        "大きくアップした！": ""
+        "大きくアップした！": "a big boost!"
     },
     "56": {
         "大当たり！<br>|しかし　<pc>の|テンションは　上がらなかった…。": ""
@@ -186,19 +186,19 @@
         "大当たりで|<pc>のテンションが　<%sCAS_tup_lv><br>|まわりの人の　テンションもアップした！<br>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！": ""
     },
     "63": {
-        "大当たりで|<pc>のテンションが　<%sCAS_tup_lv><auto_br=2500>|まわりの人の　テンションもアップした！<auto_br=2500>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！<auto_bw=2500><close>": ""
+        "大当たりで|<pc>のテンションが　<%sCAS_tup_lv><auto_br=2500>|まわりの人の　テンションもアップした！<auto_br=2500>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！<auto_bw=2500><close>": "Nice hit!|<pc>'s tension got <%sCAS_tup_lv><auto_br=2500>|Nearby players also got a Tension Boost!<auto_br=2500>|The next time you win coins, you'll get|<%sCAS_tup_bairitu> times the payout!<auto_bw=2500><close>"
     },
     "64": {
-        "このコーナーの<%sCAS_tup_who>さん　大当たり！|<pc>のテンションも　<%sCAS_tup_lv><br>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！": ""
+        "このコーナーの<%sCAS_tup_who>さん　大当たり！|<pc>のテンションも　<%sCAS_tup_lv><br>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！": "<%sCAS_tup_who> got a nice hit as this table!|<pc>'s tension got <%sCAS_tup_lv><br>|The next time you win coins, you'll get|<%sCAS_tup_bairitu> times the payout!"
     },
     "65": {
-        "このコーナーの<%sCAS_tup_who>さん　大当たり！|<pc>のテンションも　<%sCAS_tup_lv><auto_br=2500>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！<auto_bw=2500><close>": ""
+        "このコーナーの<%sCAS_tup_who>さん　大当たり！|<pc>のテンションも　<%sCAS_tup_lv><auto_br=2500>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！<auto_bw=2500><close>": "<%sCAS_tup_who> got a nice hit as this table!|<pc>'s tension got <%sCAS_tup_lv><br><auto_br=2500>|The next time you win coins, you'll get|<%sCAS_tup_bairitu> times the payout!<auto_bw=2500><close>"
     },
     "66": {
-        "誰かの大当たりで|<pc>のテンションが　<%sCAS_tup_lv><br>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！": ""
+        "誰かの大当たりで|<pc>のテンションが　<%sCAS_tup_lv><br>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！": "Someone got a nice hit!|<pc>'s tension got <%sCAS_tup_lv>|The next time you win coins, you'll get|<%sCAS_tup_bairitu> times the payout!"
     },
     "67": {
-        "誰かの大当たりで|<pc>のテンションが　<%sCAS_tup_lv><auto_br=2500>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！<auto_bw=2500><close>": ""
+        "誰かの大当たりで|<pc>のテンションが　<%sCAS_tup_lv><auto_br=2500>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！<auto_bw=2500><close>": "Someone got a nice hit!|<pc>'s tension got <%sCAS_tup_lv><auto_br=2500>|The next time you win coins, you'll get|<%sCAS_tup_bairitu> times the payout!<auto_bw=2500><close>"
     },
     "68": {
         "ビンゴ券を　<%dM_Num>枚　持っています。|１枚使って　ビンゴを遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": ""
@@ -240,7 +240,7 @@
         "５分間　すごろくをプレイしなかったので|席から離れました。|パーティから　抜けました。": ""
     },
     "81": {
-        "すごろくへの　エントリーを|キャンセルしました。": ""
+        "すごろくへの　エントリーを|キャンセルしました。": "Cancelled playing Sugoroku."
     },
     "82": {
         "このすごろく台は|既に　他のパーティが　使っています。|別のすごろく台を　使ってください。": ""
@@ -258,7 +258,7 @@
         "すごろくを遊ぶには|カジノプレイチケットが　３枚必要です。|<br>|カジノプレイチケットをお持ちのうえ|またおこしください！<auto_bw=5000><close>": ""
     },
     "87": {
-        "すごろくへの　エントリーを|キャンセルしますか？|<yesno><close>": ""
+        "すごろくへの　エントリーを|キャンセルしますか？|<yesno><close>": "Cancel playing Sugoroku?|<yesno><close>"
     },
     "88": {
         "パーティの人数が　変わりました。|すごろくへのエントリーを　キャンセルします。": ""
@@ -279,7 +279,7 @@
         "既に　パーティメンバーが|すごろくに　エントリーしています。|<br>|エントランスに　移動すると|パーティメンバーの　すごろくへのエントリーが|キャンセルされますが　よろしいですか？<yesno 2><close>": ""
     },
     "94": {
-        "カジノレイドを　発生させました。|<%dM_coin>枚のコインが　当たりました。|<auto_bw=3000><close>": ""
+        "カジノレイドを　発生させました。|<%dM_coin>枚のコインが　当たりました。|<auto_bw=3000><close>": "Caused a Casino Raid.|Won <%dM_coin> coins.|<auto_bw=3000><close>"
     },
     "95": {
         "カジノプレイチケットを　<%dM_Num2>枚　持っています。|１枚使って　ビンゴを遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": ""
@@ -288,7 +288,7 @@
         "ビンゴを遊ぶには　ビンゴ券か|カジノプレイチケットが　必要です。|どちらかを　お持ちのうえ　またおこしください！|<auto_bw=5000><close>": ""
     },
     "97": {
-        "カジノコイン <%dM_Coin>枚を獲得した|<%dM_Coin2>枚から <%dM_Coin3>枚に増えた": ""
+        "カジノコイン <%dM_Coin>枚を獲得した|<%dM_Coin2>枚から <%dM_Coin3>枚に増えた": "Earned <%dM_Coin> Casino Coins.|Went from <%dM_Coin2> to <%dM_Coin3> Casino Coins."
     },
     "98": {
         "ビンゴ券を <%dM_Num>枚使った": ""
@@ -309,7 +309,7 @@
         "ビンゴすごろくホールから|いなくなった　パーティメンバーがいます。|すごろくへのエントリーを　キャンセルしました。": ""
     },
     "104": {
-        "遊びたいマップを　選んで下さい。": ""
+        "遊びたいマップを　選んで下さい。": "Choose the map you want to play."
     },
     "105": {
         "すごろくの中断データが　残っています。|前回のすごろくに　復帰しますか？|<color_yellow>|（中断前に　獲得した報酬は　既に入手済みです）|<color_white>|<yesno><close>": ""
@@ -420,7 +420,7 @@
         "カジノレイド祭りが　終了した為|進行中のゲームを　終了します。": ""
     },
     "141": {
-        "お祭りコイン <%dM_Coin>枚を獲得した|<%dM_Coin2>枚から <%dM_Coin3>枚に増えた": ""
+        "お祭りコイン <%dM_Coin>枚を獲得した|<%dM_Coin2>枚から <%dM_Coin3>枚に増えた": "Earned <%dM_Coin> Festival Coins.|Went from <%dM_Coin2> to <%dM_Coin3> Festival Coins."
     },
     "142": {
         "まだ　すごろくルームへ　移動中の|パーティメンバーがいるため|すごろくに　エントリーできません。": ""

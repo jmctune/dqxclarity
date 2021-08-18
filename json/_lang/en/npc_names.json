@@ -1575,7 +1575,7 @@
         "clarity_nt_char_181": "clarity_nt_char_181"
     },
     "526": {
-        "道具屋": "Tool Shop"
+        "道具屋": "Item Shop"
     },
     "527": {
         "預かり所": "Depository"
@@ -3063,10 +3063,10 @@
         "clarity_nt_char_365": "clarity_nt_char_365"
     },
     "1022": {
-        "武器屋": "Arm House"
+        "武器屋": "Wep. Shop"
     },
     "1023": {
-        "防具屋": "Gear Shop"
+        "防具屋": "Arm. Shop"
     },
     "1024": {
         "ツボ錬金": "Pot Alchemy"
@@ -4128,7 +4128,7 @@
         "宿屋メメル": "Innkeeper Memel"
     },
     "1377": {
-        "預かり所ススラ": "Storagemaster Susura"
+        "預かり所ススラ": "Storage Susura"
     },
     "1378": {
         "郵便局員マトト": "Postman Matoto"
@@ -4155,7 +4155,7 @@
         "宿屋ノギク": "Innkeeper Nogik"
     },
     "1386": {
-        "預かり所サガラ": "Storagemaster Sagara"
+        "預かり所サガラ": "Storage Sagara"
     },
     "1387": {
         "郵便局員アマト": "Postman Amato"
@@ -4188,7 +4188,7 @@
         "宿屋ロジェ": "Innkeeper Roje"
     },
     "1397": {
-        "預かり所グルバン": "Storagemaster Gureban"
+        "預かり所グルバン": "Storage Gureban"
     },
     "1398": {
         "clarity_nt_char_490": "clarity_nt_char_490"
@@ -4224,7 +4224,7 @@
         "clarity_nt_char_494": "clarity_nt_char_494"
     },
     "1409": {
-        "預かり所ペイジー": "Storagemaster Page"
+        "預かり所ペイジー": "Storage Page"
     },
     "1410": {
         "clarity_nt_char_495": "clarity_nt_char_495"
@@ -4263,7 +4263,7 @@
         "clarity_nt_char_500": "clarity_nt_char_500"
     },
     "1422": {
-        "預かり所マーユ": "Storagemaster Maayu"
+        "預かり所マーユ": "Storage Maayu"
     },
     "1423": {
         "郵便局員ジェノール": "Postman Gennault"
@@ -4398,25 +4398,25 @@
         "郵便局員ボスタ": "Postman Boster"
     },
     "1467": {
-        "預かり所クローブ": "Storagemaster Clove"
+        "預かり所クローブ": "Storage Clove"
     },
     "1468": {
         "clarity_nt_char_513": "clarity_nt_char_513"
     },
     "1469": {
-        "道具屋グッタ": "Tool Shop Getta"
+        "道具屋グッタ": "Item Shop Getta"
     },
     "1470": {
         "clarity_nt_char_514": "clarity_nt_char_514"
     },
     "1471": {
-        "武器屋ソロリ": "Arms Shop Sorori"
+        "武器屋ソロリ": "Wep. Shop Sorori"
     },
     "1472": {
         "clarity_nt_char_515": "clarity_nt_char_515"
     },
     "1473": {
-        "防具屋タラリ": "Armorer Tarari"
+        "防具屋タラリ": "Armor Shop Tarari"
     },
     "1474": {
         "clarity_nt_char_516": "clarity_nt_char_516"
@@ -4449,7 +4449,7 @@
         "宿屋ミュル": "Innkeeper Mule"
     },
     "1484": {
-        "預かり所ボリバル": "Storagemaster Boliver"
+        "預かり所ボリバル": "Storage Boliver"
     },
     "1485": {
         "clarity_nt_char_520": "clarity_nt_char_520"
@@ -4473,7 +4473,7 @@
         "取引商イジウス": "Trader Ijius"
     },
     "1492": {
-        "案内係ビョルン": "Desk Clerk Bjorn"
+        "案内係ビョルン": "Guide Bjorn"
     },
     "1493": {
         "神官グイブ": "Priest Guive"
@@ -4485,7 +4485,7 @@
         "宿屋ピィピ": "Innkeeper Pippi"
     },
     "1496": {
-        "預かり所パリュス": "Storagemaster Paruse"
+        "預かり所パリュス": "Storage Paruse"
     },
     "1497": {
         "clarity_nt_char_523": "clarity_nt_char_523"
@@ -4605,7 +4605,7 @@
         "闇の狂戦士１４": "Dark Berserker 14"
     },
     "1536": {
-        "道具屋ムルーノ": "Tool Shop Marouno"
+        "道具屋ムルーノ": "Item Shop Marouno"
     },
     "1537": {
         "宿屋ユン": "Innkeep Yun"
@@ -4614,28 +4614,28 @@
         "clarity_nt_char_532": "clarity_nt_char_532"
     },
     "1539": {
-        "預かり所キサラ": "Storagemaster Kisara"
+        "預かり所キサラ": "Storage Kisara"
     },
     "1540": {
         "郵便局員ツヅリ": "Postman Tsuduri"
     },
     "1541": {
-        "道具屋ミヤセ": "Tool Shop Miyase"
+        "道具屋ミヤセ": "Item Shop Miyase"
     },
     "1542": {
         "clarity_nt_char_533": "clarity_nt_char_533"
     },
     "1543": {
-        "料理屋イツキ": "Restaurant Itsuki"
+        "料理屋イツキ": "Server Itsuki"
     },
     "1544": {
         "clarity_nt_char_534": "clarity_nt_char_534"
     },
     "1545": {
-        "武器屋ルアンベ": "Arms Shop Ruanbe"
+        "武器屋ルアンベ": "Wep. Shop Ruanbe"
     },
     "1546": {
-        "防具屋シジマ": "Armorer Shijima"
+        "防具屋シジマ": "Armor Shop Shijima"
     },
     "1547": {
         "clarity_nt_char_535": "clarity_nt_char_535"
@@ -4854,10 +4854,10 @@
         "clarity_nt_char_562": "clarity_nt_char_562"
     },
     "1619": {
-        "武器屋シャーム": "Arms Shop Shamu"
+        "武器屋シャーム": "Wep. Shop Shamu"
     },
     "1620": {
-        "防具屋ユーネリ": "Armorer Yuuneri"
+        "防具屋ユーネリ": "Armor Shop Yuuneri"
     },
     "1621": {
         "宿屋ローテル": "Innkeeper Routelle"
@@ -4878,13 +4878,13 @@
         "clarity_nt_char_565": "clarity_nt_char_565"
     },
     "1627": {
-        "預かり所クイーレ": "Storagemaster Quaile"
+        "預かり所クイーレ": "Storage Quaile"
     },
     "1628": {
         "clarity_nt_char_566": "clarity_nt_char_566"
     },
     "1629": {
-        "道具屋ノースト": "Tool Shop Nouste"
+        "道具屋ノースト": "Item Shop Nouste"
     },
     "1630": {
         "渡し守ソマーク": "Dockman Somark"
@@ -4896,7 +4896,7 @@
         "clarity_nt_char_567": "clarity_nt_char_567"
     },
     "1633": {
-        "郵便局員シーナ": "Postman Shiina"
+        "郵便局員シーナ": "Postman Shina"
     },
     "1634": {
         "宿屋クーミナ": "Innkeeper Kuumina"
@@ -4905,7 +4905,7 @@
         "clarity_nt_char_568": "clarity_nt_char_568"
     },
     "1636": {
-        "預かり所スリーズ": "Storagemaster Sleaze"
+        "預かり所スリーズ": "Storage Sleaze"
     },
     "1637": {
         "clarity_nt_char_569": "clarity_nt_char_569"
@@ -4926,16 +4926,16 @@
         "素材屋フレーツ": "Mat. Shop Fleets"
     },
     "1643": {
-        "料理屋リアータ": "Restaurant Riatta"
+        "料理屋リアータ": "Server Riatta"
     },
     "1644": {
-        "武器屋ケルキフ": "Arms Shop Kelkief"
+        "武器屋ケルキフ": "Wep. Shop Kelkief"
     },
     "1645": {
-        "防具屋ミーリュ": "Armorer Mieryu"
+        "防具屋ミーリュ": "Armor Shop Mieryu"
     },
     "1646": {
-        "道具屋ユーフ": "Tool Shop Yuffe"
+        "道具屋ユーフ": "Item Shop Yuffe"
     },
     "1647": {
         "clarity_nt_char_571": "clarity_nt_char_571"
@@ -4947,10 +4947,10 @@
         "clarity_nt_char_572": "clarity_nt_char_572"
     },
     "1650": {
-        "道具屋アーグス": "Tool Shop Argus"
+        "道具屋アーグス": "Item Shop Argus"
     },
     "1651": {
-        "預かり所パレーノ": "Storagemaster Palenno"
+        "預かり所パレーノ": "Storage Palenno"
     },
     "1652": {
         "clarity_nt_char_573": "clarity_nt_char_573"
@@ -4968,13 +4968,13 @@
         "clarity_nt_char_575": "clarity_nt_char_575"
     },
     "1657": {
-        "防具屋ルーシャ": "Armorer Rouscha"
+        "防具屋ルーシャ": "Armor Shop Rouscha"
     },
     "1658": {
         "ウェルジー神父": "Father Welge"
     },
     "1659": {
-        "武器屋ロルフク": "Arms Shop Roarfolk"
+        "武器屋ロルフク": "Wep. Shop Roarfolk"
     },
     "1660": {
         "素材屋ナービュ": "Mat. Shop Nabyu"
@@ -4986,7 +4986,7 @@
         "clarity_nt_char_576": "clarity_nt_char_576"
     },
     "1663": {
-        "料理屋イニーナ": "Restaurant Ininna"
+        "料理屋イニーナ": "Server Inina"
     },
     "1664": {
         "郵便局員ポエーツォ": "Postman Poezzo"
@@ -5013,7 +5013,7 @@
         "clarity_nt_char_579": "clarity_nt_char_579"
     },
     "1672": {
-        "預かり所ルンタ": "Storagemaster Runta"
+        "預かり所ルンタ": "Storage Runta"
     },
     "1673": {
         "シスター・メアリス": "Sister Maris"
@@ -5061,13 +5061,13 @@
         "紹介人ティック": "Introducer Tick"
     },
     "1688": {
-        "預かり所エディス": "Storagemaster Edith"
+        "預かり所エディス": "Storage Edith"
     },
     "1689": {
         "clarity_nt_char_585": "clarity_nt_char_585"
     },
     "1690": {
-        "道具屋ルネ": "Tool Shop Lunet"
+        "道具屋ルネ": "Item Shop Lunet"
     },
     "1691": {
         "宿屋フローリス": "Innkeeper Fraulisse"
@@ -5631,31 +5631,31 @@
         "clarity_nt_char_655": "clarity_nt_char_655"
     },
     "1878": {
-        "武器屋ザイクス": ""
+        "武器屋ザイクス": "Wep. Shop Zykes"
     },
     "1879": {
-        "防具屋ドロンガ": ""
+        "防具屋ドロンガ": "Armor Shop Doronga"
     },
     "1880": {
         "素材屋レヴェリ": "Mat. Shop Reverie"
     },
     "1881": {
-        "武器屋ドギス": ""
+        "武器屋ドギス": "Wep. Shop Dogis"
     },
     "1882": {
         "clarity_nt_char_656": "clarity_nt_char_656"
     },
     "1883": {
-        "防具屋ザングル": "Armorer Zangle"
+        "防具屋ザングル": "Armor Shop Zangle"
     },
     "1884": {
-        "ザンジャ神父": ""
+        "ザンジャ神父": "Father Zanja"
     },
     "1885": {
         "clarity_nt_char_657": "clarity_nt_char_657"
     },
     "1886": {
-        "道具屋ディノム": ""
+        "道具屋ディノム": "Item Shop Dinom"
     },
     "1887": {
         "宿屋ロンリア": "Innkeeper Lonria"
@@ -5664,13 +5664,13 @@
         "clarity_nt_char_658": "clarity_nt_char_658"
     },
     "1889": {
-        "エブラフ神父": ""
+        "エブラフ神父": "Father Ebluff"
     },
     "1890": {
         "clarity_nt_char_659": "clarity_nt_char_659"
     },
     "1891": {
-        "預かり所ヴァン": ""
+        "預かり所ヴァン": "Storage Vanne"
     },
     "1892": {
         "宿屋ルモ": "Innkpr. Lumo"
@@ -5679,19 +5679,19 @@
         "clarity_nt_char_660": "clarity_nt_char_660"
     },
     "1894": {
-        "道具屋ドモラ": ""
+        "道具屋ドモラ": "Item Shop Domora"
     },
     "1895": {
         "clarity_nt_char_661": "clarity_nt_char_661"
     },
     "1896": {
-        "武器屋ワイズ": ""
+        "武器屋ワイズ": "Wep. Shop Wise"
     },
     "1897": {
         "clarity_nt_char_662": "clarity_nt_char_662"
     },
     "1898": {
-        "防具屋ジルジャ": ""
+        "防具屋ジルジャ": "Armor Shop Jiruja"
     },
     "1899": {
         "ホルムズ": ""
@@ -5700,7 +5700,7 @@
         "clarity_nt_char_663": "clarity_nt_char_663"
     },
     "1901": {
-        "郵便局員グウェン": ""
+        "郵便局員グウェン": "Postman Gwen"
     },
     "1902": {
         "clarity_nt_char_664": "clarity_nt_char_664"
@@ -5730,7 +5730,7 @@
         "clarity_nt_char_666": "clarity_nt_char_666"
     },
     "1911": {
-        "案内係シェラ": ""
+        "案内係シェラ": "Guide Shera"
     },
     "1912": {
         "clarity_nt_char_667": "clarity_nt_char_667"
@@ -5748,10 +5748,10 @@
         "宿屋オルダ": "Innkeeper Orda"
     },
     "1917": {
-        "預かり所バタン": ""
+        "預かり所バタン": "Storage Batan"
     },
     "1918": {
-        "料理屋キーン": ""
+        "料理屋キーン": "Server Gin"
     },
     "1919": {
         "clarity_nt_char_669": "clarity_nt_char_669"
@@ -5784,22 +5784,22 @@
         "clarity_nt_char_672": "clarity_nt_char_672"
     },
     "1929": {
-        "預かり所ケシャ": ""
+        "預かり所ケシャ": "Storage Kesha"
     },
     "1930": {
         "宿屋レアン": "Innkeeper Rean"
     },
     "1931": {
-        "道具屋アナ": ""
+        "道具屋アナ": "Item Shop Ana"
     },
     "1932": {
         "宿屋シュパ": "Innkeeper Shupa"
     },
     "1933": {
-        "ゴノザ神父": ""
+        "ゴノザ神父": "Father Gonoza"
     },
     "1934": {
-        "預かり所グスガ": ""
+        "預かり所グスガ": "Storage Gusga"
     },
     "1935": {
         "宿屋マハート": "Innkeeper Mahart"
@@ -5814,7 +5814,7 @@
         "clarity_nt_char_674": "clarity_nt_char_674"
     },
     "1939": {
-        "道具屋ノーム": ""
+        "道具屋ノーム": "Item Shop Nomu"
     },
     "1940": {
         "clarity_nt_char_675": "clarity_nt_char_675"
@@ -5823,10 +5823,10 @@
         "宿屋ハルト": "Innkpr. Haruto"
     },
     "1942": {
-        "ポポロ神父": ""
+        "ポポロ神父": "Father Popolo"
     },
     "1943": {
-        "道具屋ミッケル": ""
+        "道具屋ミッケル": "Item Shop Mickel"
     },
     "1944": {
         "宿屋ルンココ": "Innkeeper Runkoko"
@@ -5838,7 +5838,7 @@
         "シスター・デリアン": "Sister Derian"
     },
     "1947": {
-        "道具屋ゲバン": "Item Clerk Geban"
+        "道具屋ゲバン": "Item Shop Geban"
     },
     "1948": {
         "clarity_nt_char_677": "clarity_nt_char_677"
@@ -6336,7 +6336,7 @@
         "武器屋クロトビ": "Wep. Shop Kurotobi"
     },
     "2113": {
-        "道具屋ヒワ": "Item Clerk Hiwa"
+        "道具屋ヒワ": "Item Shop Hiwa"
     },
     "2114": {
         "ヘキ神父": "Father Heki"
@@ -6348,7 +6348,7 @@
         "宿屋ノクタ": "Innkeeper Nocta"
     },
     "2117": {
-        "道具屋ポリーナ": ""
+        "道具屋ポリーナ": "Item Shop Paulina"
     },
     "2118": {
         "宿屋フーピー": "Innkeeper Fupi"
@@ -6357,16 +6357,16 @@
         "clarity_nt_char_737": "clarity_nt_char_737"
     },
     "2120": {
-        "武器屋ホーポー": ""
+        "武器屋ホーポー": "Wep. Shop Hopo"
     },
     "2121": {
-        "防具屋プルンガ": ""
+        "防具屋プルンガ": "Armor Shop Plunga"
     },
     "2122": {
         "シスター・ハパ": ""
     },
     "2123": {
-        "パルペーラ神父": ""
+        "パルペーラ神父": "Father Palpera"
     },
     "2124": {
         "紹介人ニロップ": "Introducer Nirop"
@@ -6378,16 +6378,16 @@
         "clarity_nt_char_738": "clarity_nt_char_738"
     },
     "2127": {
-        "防具屋ピルフォン": ""
+        "防具屋ピルフォン": "Armor Shop Pilfon"
     },
     "2128": {
         "clarity_nt_char_739": "clarity_nt_char_739"
     },
     "2129": {
-        "武器屋ホルサス": ""
+        "武器屋ホルサス": "Wep. Shop Horsus"
     },
     "2130": {
-        "道具屋プティット": ""
+        "道具屋プティット": "Item Shop Petit"
     },
     "2131": {
         "clarity_nt_char_740": "clarity_nt_char_740"
@@ -6396,10 +6396,10 @@
         "宿屋パピアット": "Innkeeper Papiatto"
     },
     "2133": {
-        "預かり所ヤポル": ""
+        "預かり所ヤポル": "Storage Yapor"
     },
     "2134": {
-        "郵便局員パステ": ""
+        "郵便局員パステ": "Postman Pasute"
     },
     "2135": {
         "パオペラ": ""
@@ -6444,7 +6444,7 @@
         "駅員プラットル": ""
     },
     "2149": {
-        "案内係スプイト": ""
+        "案内係スプイト": "Guide Supito"
     },
     "2150": {
         "ロロップ神父": "Father Lollop"
@@ -6462,25 +6462,25 @@
         "clarity_nt_char_748": "clarity_nt_char_748"
     },
     "2155": {
-        "預かり所ペラーナ": ""
+        "預かり所ペラーナ": "Storage Perana"
     },
     "2156": {
         "clarity_nt_char_749": "clarity_nt_char_749"
     },
     "2157": {
-        "郵便局員ユピン": ""
+        "郵便局員ユピン": "Postman Yupin"
     },
     "2158": {
-        "料理屋カポロン": ""
+        "料理屋カポロン": "Server Kaporon"
     },
     "2159": {
-        "道具屋プルリィ": ""
+        "道具屋プルリィ": "Item Shop Purly"
     },
     "2160": {
-        "防具屋ピースペ": ""
+        "防具屋ピースペ": "Armor Shop Pisupe"
     },
     "2161": {
-        "武器屋マウタス": ""
+        "武器屋マウタス": "Wep. Shop Mautas"
     },
     "2162": {
         "美容師プラティナ": "Hairdresser Platina"
@@ -6510,7 +6510,7 @@
         "ケラプ": "Kerap"
     },
     "2171": {
-        "案内係ピューリィ": ""
+        "案内係ピューリィ": "Guide Pury"
     },
     "2172": {
         "clarity_nt_char_754": "clarity_nt_char_754"
@@ -6534,7 +6534,7 @@
         "clarity_nt_char_757": "clarity_nt_char_757"
     },
     "2179": {
-        "プロフィテ神父": ""
+        "プロフィテ神父": "Father Profite"
     },
     "2180": {
         "宿屋ペラトネ": "Innkeeper Peratone"
@@ -6543,19 +6543,19 @@
         "clarity_nt_char_758": "clarity_nt_char_758"
     },
     "2182": {
-        "道具屋プルア": ""
+        "道具屋プルア": "Item Shop Purua"
     },
     "2183": {
         "clarity_nt_char_759": "clarity_nt_char_759"
     },
     "2184": {
-        "預かり所ペレチカ": ""
+        "預かり所ペレチカ": "Storage Perechika"
     },
     "2185": {
         "clarity_nt_char_760": "clarity_nt_char_760"
     },
     "2186": {
-        "トロペ神父": ""
+        "トロペ神父": "Father Trope"
     },
     "2187": {
         "宿屋パープナ": "Innkeeper Papuna"
@@ -6564,22 +6564,22 @@
         "clarity_nt_char_761": "clarity_nt_char_761"
     },
     "2189": {
-        "預かり所スピーラ": ""
+        "預かり所スピーラ": "Storage Spira"
     },
     "2190": {
         "clarity_nt_char_762": "clarity_nt_char_762"
     },
     "2191": {
-        "案内係ペルジュ": ""
+        "案内係ペルジュ": "Guide Perju"
     },
     "2192": {
         "宿屋コロモ": "Innkpr. Koromo"
     },
     "2193": {
-        "郵便局員オボロ": ""
+        "郵便局員オボロ": "Postman Obor"
     },
     "2194": {
-        "道具屋トベラ": ""
+        "道具屋トベラ": "Item Shop Tobera"
     },
     "2195": {
         "clarity_nt_char_763": "clarity_nt_char_763"
@@ -6591,10 +6591,10 @@
         "clarity_nt_char_764": "clarity_nt_char_764"
     },
     "2198": {
-        "武器屋ズイ": ""
+        "武器屋ズイ": "Wep. Shop Zui"
     },
     "2199": {
-        "防具屋シラベ": ""
+        "防具屋シラベ": "Armor Shop Shirabe"
     },
     "2200": {
         "clarity_nt_char_765": "clarity_nt_char_765"
@@ -6606,7 +6606,7 @@
         "clarity_nt_char_766": "clarity_nt_char_766"
     },
     "2203": {
-        "料理屋ナハギ": ""
+        "料理屋ナハギ": "Server Nahagi"
     },
     "2204": {
         "clarity_nt_char_767": "clarity_nt_char_767"
@@ -6618,13 +6618,13 @@
         "clarity_nt_char_768": "clarity_nt_char_768"
     },
     "2207": {
-        "預かり所シラタマ": ""
+        "預かり所シラタマ": "Storage Shiratama"
     },
     "2208": {
         "clarity_nt_char_769": "clarity_nt_char_769"
     },
     "2209": {
-        "道具屋ルオプ": ""
+        "道具屋ルオプ": "Item Shop Luop"
     },
     "2210": {
         "clarity_nt_char_770": "clarity_nt_char_770"
@@ -6636,7 +6636,7 @@
         "clarity_nt_char_771": "clarity_nt_char_771"
     },
     "2213": {
-        "ヤスナ神父": ""
+        "ヤスナ神父": "Father Yasna"
     },
     "2214": {
         "ヤツハシ": ""
@@ -6654,7 +6654,7 @@
         "サンゴ": "Coral"
     },
     "2219": {
-        "案内係カスリ": ""
+        "案内係カスリ": "Guide Kasri"
     },
     "2220": {
         "clarity_nt_char_774": "clarity_nt_char_774"
@@ -6702,22 +6702,22 @@
         "clarity_nt_char_778": "clarity_nt_char_778"
     },
     "2235": {
-        "ウコギ神父": ""
+        "ウコギ神父": "Father Ukogi"
     },
     "2236": {
         "宿屋トノマ": "Innkpr. Tonoma"
     },
     "2237": {
-        "道具屋キヨメ": ""
+        "道具屋キヨメ": "Item Shop Kiyome"
     },
     "2238": {
         "clarity_nt_char_779": "clarity_nt_char_779"
     },
     "2239": {
-        "預かり所イチル": ""
+        "預かり所イチル": "Storage Ichiru"
     },
     "2240": {
-        "カガト神父": ""
+        "カガト神父": "Father Kagato"
     },
     "2241": {
         "宿屋マルツネ": "Innkpr. Marutsune"
@@ -6726,28 +6726,28 @@
         "clarity_nt_char_780": "clarity_nt_char_780"
     },
     "2243": {
-        "道具屋ビャクヤ": ""
+        "道具屋ビャクヤ": "Item Shop Byakuya"
     },
     "2244": {
-        "預かり所シキ": ""
+        "預かり所シキ": "Storage Shiki"
     },
     "2245": {
         "clarity_nt_char_781": "clarity_nt_char_781"
     },
     "2246": {
-        "ヤマシ神父": ""
+        "ヤマシ神父": "Father Yamashi"
     },
     "2247": {
         "宿屋クルム": "Innkeeper Kulm"
     },
     "2248": {
-        "道具屋オシド": ""
+        "道具屋オシド": "Item Shop Oshido"
     },
     "2249": {
         "clarity_nt_char_782": "clarity_nt_char_782"
     },
     "2250": {
-        "預かり所イグサ": ""
+        "預かり所イグサ": "Storage Igusa"
     },
     "2251": {
         "キクノ": ""
@@ -6861,7 +6861,7 @@
         "clarity_nt_char_792": "clarity_nt_char_792"
     },
     "2288": {
-        "アーペル神父": ""
+        "アーペル神父": "Father Arpel"
     },
     "2289": {
         "clarity_nt_char_793": "clarity_nt_char_793"
@@ -6873,13 +6873,13 @@
         "clarity_nt_char_794": "clarity_nt_char_794"
     },
     "2292": {
-        "道具屋チャーロン": ""
+        "道具屋チャーロン": "Item Shop Charon"
     },
     "2293": {
         "clarity_nt_char_795": "clarity_nt_char_795"
     },
     "2294": {
-        "預かり所ニューネ": ""
+        "預かり所ニューネ": "Storage Newne"
     },
     "2295": {
         "clarity_nt_char_796": "clarity_nt_char_796"
@@ -6894,10 +6894,10 @@
         "clarity_nt_char_797": "clarity_nt_char_797"
     },
     "2299": {
-        "道具屋メーロル": ""
+        "道具屋メーロル": "Item Shop Merol"
     },
     "2300": {
-        "預かり所ユリーラ": ""
+        "預かり所ユリーラ": "Storage Yurila"
     },
     "2301": {
         "clarity_nt_char_798": "clarity_nt_char_798"
@@ -7095,13 +7095,13 @@
         "宿屋タタカ": "Innkpr. Tataka"
     },
     "2366": {
-        "防具屋フチチ": ""
+        "防具屋フチチ": "Arm.Shop Fuchichi"
     },
     "2367": {
         "clarity_nt_char_819": "clarity_nt_char_819"
     },
     "2368": {
-        "武器屋チアマト": ""
+        "武器屋チアマト": "Wep. Shop Chiamato"
     },
     "2369": {
         "紹介人バアス": "Introducer Baas"
@@ -7110,13 +7110,13 @@
         "clarity_nt_char_820": "clarity_nt_char_820"
     },
     "2371": {
-        "道具屋サアタウ": ""
+        "道具屋サアタウ": "Item Shop Satau"
     },
     "2372": {
-        "武器屋ベイ": ""
+        "武器屋ベイ": "Wep. Shop Bei"
     },
     "2373": {
-        "防具屋タアテェ": ""
+        "防具屋タアテェ": "Armor Shop Tate"
     },
     "2374": {
         "シスター・ルルア": ""
@@ -7125,7 +7125,7 @@
         "clarity_nt_char_821": "clarity_nt_char_821"
     },
     "2376": {
-        "郵便局員チカカ": ""
+        "郵便局員チカカ": "Postman Chikaka"
     },
     "2377": {
         "素材屋モノノ": "Mat. Shop Monono"
@@ -7134,7 +7134,7 @@
         "clarity_nt_char_822": "clarity_nt_char_822"
     },
     "2379": {
-        "料理屋ククラ": ""
+        "料理屋ククラ": "Server Kukura"
     },
     "2380": {
         "clarity_nt_char_823": "clarity_nt_char_823"
@@ -7143,7 +7143,7 @@
         "宿屋セセラ": "Innkpr. Cecera"
     },
     "2382": {
-        "預かり所ムルル": ""
+        "預かり所ムルル": "Storage Mururu"
     },
     "2383": {
         "宿屋ツィッサ": "Innkeeper Zissa"
@@ -7164,7 +7164,7 @@
         "取引商ラツィフ": "Trader Ratif"
     },
     "2389": {
-        "預かり所ルチチ": ""
+        "預かり所ルチチ": "Storage Ruchichi"
     },
     "2390": {
         "宿屋ムムセ": "Innkeeper Mumse"
@@ -7392,7 +7392,7 @@
         "clarity_nt_char_851": "clarity_nt_char_851"
     },
     "2465": {
-        "案内係ロオチャ": ""
+        "案内係ロオチャ": "Guide Loocha"
     },
     "2466": {
         "神官ガタチャ": ""
@@ -7401,22 +7401,22 @@
         "clarity_nt_char_852": "clarity_nt_char_852"
     },
     "2468": {
-        "武器屋ムントフ": ""
+        "武器屋ムントフ": "Wep. Shop Muntov"
     },
     "2469": {
-        "防具屋グリッチャ": ""
+        "防具屋グリッチャ": "Armor Shop Gritcha"
     },
     "2470": {
         "clarity_nt_char_853": "clarity_nt_char_853"
     },
     "2471": {
-        "道具屋タタイ": ""
+        "道具屋タタイ": "Item Shop Tatai"
     },
     "2472": {
         "clarity_nt_char_854": "clarity_nt_char_854"
     },
     "2473": {
-        "郵便局員ツツハ": ""
+        "郵便局員ツツハ": "Postman Tsutsuha"
     },
     "2474": {
         "素材屋シレレ": "Mat. Shop Silere"
@@ -7425,7 +7425,7 @@
         "clarity_nt_char_855": "clarity_nt_char_855"
     },
     "2476": {
-        "預かり所ガツェ": ""
+        "預かり所ガツェ": "Storage Gashe"
     },
     "2477": {
         "美容師モココ": "Hairdresser Mokoko"
@@ -7443,13 +7443,13 @@
         "宿屋フフイ": "Innkeeper Fufui"
     },
     "2482": {
-        "ロレツオ神父": ""
+        "ロレツオ神父": "Father Loretto"
     },
     "2483": {
         "clarity_nt_char_858": "clarity_nt_char_858"
     },
     "2484": {
-        "料理屋テテネ": ""
+        "料理屋テテネ": "Server Tetene"
     },
     "2485": {
         "clarity_nt_char_859": "clarity_nt_char_859"
@@ -7497,7 +7497,7 @@
         "clarity_nt_char_863": "clarity_nt_char_863"
     },
     "2500": {
-        "案内係レミミ": ""
+        "案内係レミミ": "Guide Remimi"
     },
     "2501": {
         "clarity_nt_char_864": "clarity_nt_char_864"
@@ -7515,10 +7515,10 @@
         "clarity_nt_char_865": "clarity_nt_char_865"
     },
     "2506": {
-        "預かり所テテマ": ""
+        "預かり所テテマ": "Storage Tetema"
     },
     "2507": {
-        "トッチァ神父": ""
+        "トッチァ神父": "Father Toccia"
     },
     "2508": {
         "clarity_nt_char_866": "clarity_nt_char_866"
@@ -7527,13 +7527,13 @@
         "宿屋ミルル": "Innkpr. Miruru"
     },
     "2510": {
-        "預かり所アココ": ""
+        "預かり所アココ": "Storage Akoko"
     },
     "2511": {
         "シスター・ミシェル": ""
     },
     "2512": {
-        "預かり所スサナ": ""
+        "預かり所スサナ": "Storage Susana"
     },
     "2513": {
         "素材屋アッカフ": "Mat. Shop Akkafu"
@@ -7545,19 +7545,19 @@
         "clarity_nt_char_867": "clarity_nt_char_867"
     },
     "2516": {
-        "グレック神父": ""
+        "グレック神父": "Father Greck"
     },
     "2517": {
         "clarity_nt_char_868": "clarity_nt_char_868"
     },
     "2518": {
-        "預かり所ティルダ": ""
+        "預かり所ティルダ": "Storage Tilda"
     },
     "2519": {
         "clarity_nt_char_869": "clarity_nt_char_869"
     },
     "2520": {
-        "道具屋マリシア": ""
+        "道具屋マリシア": "Item Shop Marisha"
     },
     "2521": {
         "宿屋モルテン": "Innkeeper Molten"
@@ -7575,7 +7575,7 @@
         "clarity_nt_char_871": "clarity_nt_char_871"
     },
     "2526": {
-        "武器防具屋マシスタ": ""
+        "武器防具屋マシスタ": "Weapon & Armor Shop"
     },
     "2527": {
         "取引商マッケイ": "Trader Mackay"
@@ -7602,7 +7602,7 @@
         "マスター・バレクス": ""
     },
     "2535": {
-        "道具屋マヌエラ": ""
+        "道具屋マヌエラ": "Item Shop Manuela"
     },
     "2536": {
         "取引商ヴェルー": "Trader Veru"
@@ -7638,7 +7638,7 @@
         "clarity_nt_char_878": "clarity_nt_char_878"
     },
     "2547": {
-        "案内係アージュ": ""
+        "案内係アージュ": "Guide Aju"
     },
     "2548": {
         "駅員チュケェ": ""
@@ -7656,10 +7656,10 @@
         "clarity_nt_char_880": "clarity_nt_char_880"
     },
     "2553": {
-        "武器屋フィギン": ""
+        "武器屋フィギン": "Wep. Shop Figgin"
     },
     "2554": {
-        "防具屋セリータ": ""
+        "防具屋セリータ": "Armor Shop Serita"
     },
     "2555": {
         "よろず屋サフィ": ""
@@ -7671,10 +7671,10 @@
         "clarity_nt_char_881": "clarity_nt_char_881"
     },
     "2558": {
-        "預かり所ルクバ": ""
+        "預かり所ルクバ": "Storage Rukuba"
     },
     "2559": {
-        "ジュロム神父": ""
+        "ジュロム神父": "Father Jurom"
     },
     "2560": {
         "clarity_nt_char_882": "clarity_nt_char_882"
@@ -7689,10 +7689,10 @@
         "clarity_nt_char_883": "clarity_nt_char_883"
     },
     "2564": {
-        "道具屋チャジロ": ""
+        "道具屋チャジロ": "Item Shop Chajiro"
     },
     "2565": {
-        "道具屋ユユン": ""
+        "道具屋ユユン": "Item Shop Yuyun"
     },
     "2566": {
         "clarity_nt_char_884": "clarity_nt_char_884"
@@ -7818,13 +7818,13 @@
         "宿屋リミナ": "Innkpr. Limina"
     },
     "2607": {
-        "武器屋シュリィ": ""
+        "武器屋シュリィ": "Wep. Shop Shuri"
     },
     "2608": {
-        "防具屋ギャンパ": ""
+        "防具屋ギャンパ": "Armor Shop Gyanpa"
     },
     "2609": {
-        "道具屋ゼクバ": ""
+        "道具屋ゼクバ": "Item Shop Zekuba"
     },
     "2610": {
         "clarity_nt_char_897": "clarity_nt_char_897"
@@ -7833,7 +7833,7 @@
         "フォステイル像": "Fostail Statue"
     },
     "2612": {
-        "案内係プレーテ": ""
+        "案内係プレーテ": "Guide Prete"
     },
     "2613": {
         "パートリ": ""
@@ -7848,52 +7848,52 @@
         "clarity_nt_char_899": "clarity_nt_char_899"
     },
     "2617": {
-        "武器屋セルーソ": ""
+        "武器屋セルーソ": "Wep. Shop Celso"
     },
     "2618": {
-        "防具屋アベーシャ": ""
+        "防具屋アベーシャ": "Armor Shop Abesha"
     },
     "2619": {
         "clarity_nt_char_900": "clarity_nt_char_900"
     },
     "2620": {
-        "武器屋ウーボイ": ""
+        "武器屋ウーボイ": "Wep. Shop Uboi"
     },
     "2621": {
-        "防具屋フアーナ": ""
+        "防具屋フアーナ": "Armor Shop Fuana"
     },
     "2622": {
-        "武器屋セベー": ""
+        "武器屋セベー": "Wep. Shop Sebe"
     },
     "2623": {
         "clarity_nt_char_901": "clarity_nt_char_901"
     },
     "2624": {
-        "防具屋コーレス": ""
+        "防具屋コーレス": "Armor Shop Corres"
     },
     "2625": {
-        "武器屋ゲンバウ": ""
+        "武器屋ゲンバウ": "Wep. Shop Genbau"
     },
     "2626": {
-        "防具屋パラリン": ""
+        "防具屋パラリン": "Armor Shop Pararin"
     },
     "2627": {
-        "道具屋ガーディ": ""
+        "道具屋ガーディ": "Item Shop Gadi"
     },
     "2628": {
-        "道具屋カトラズ": ""
+        "道具屋カトラズ": "Item Shop Katraz"
     },
     "2629": {
-        "武器屋バッゲス": ""
+        "武器屋バッゲス": "Wep. Shop Bagges"
     },
     "2630": {
-        "防具屋ゴンボ": ""
+        "防具屋ゴンボ": "Armor Shop Gonbo"
     },
     "2631": {
         "clarity_nt_char_902": "clarity_nt_char_902"
     },
     "2632": {
-        "道具屋ドロッジェ": ""
+        "道具屋ドロッジェ": "Item Shop Drogger"
     },
     "2633": {
         "clarity_nt_char_903": "clarity_nt_char_903"
@@ -7938,28 +7938,28 @@
         "clarity_nt_char_908": "clarity_nt_char_908"
     },
     "2647": {
-        "武器屋チョムウ": ""
+        "武器屋チョムウ": "Wep. Shop Chomu"
     },
     "2648": {
-        "防具屋ツタタ": ""
+        "防具屋ツタタ": "Armor Shop Tsutata"
     },
     "2649": {
         "clarity_nt_char_909": "clarity_nt_char_909"
     },
     "2650": {
-        "武器屋クアトオ": ""
+        "武器屋クアトオ": "Wep. Shop Kuato"
     },
     "2651": {
-        "防具屋キイチョ": ""
+        "防具屋キイチョ": "Armor Shop Kicho"
     },
     "2652": {
-        "武器屋メメク": ""
+        "武器屋メメク": "Wep. Shop Memeku"
     },
     "2653": {
         "clarity_nt_char_910": "clarity_nt_char_910"
     },
     "2654": {
-        "防具屋コアヤフ": ""
+        "防具屋コアヤフ": "Armor Shop Koayafu"
     },
     "2655": {
         "メギドローム": "Megidrome"
@@ -7992,34 +7992,34 @@
         "カァズ": ""
     },
     "2665": {
-        "武器屋ウラジロ": ""
+        "武器屋ウラジロ": "Wep. Shop Urajiro"
     },
     "2666": {
-        "防具屋ミズバ": ""
+        "防具屋ミズバ": "Armor Shop Mizuba"
     },
     "2667": {
         "clarity_nt_char_913": "clarity_nt_char_913"
     },
     "2668": {
-        "武器屋アセビ": ""
+        "武器屋アセビ": "Wep. Shop Asebi"
     },
     "2669": {
         "clarity_nt_char_914": "clarity_nt_char_914"
     },
     "2670": {
-        "防具屋スズミ": ""
+        "防具屋スズミ": "Armor Shop Suzumi"
     },
     "2671": {
         "clarity_nt_char_915": "clarity_nt_char_915"
     },
     "2672": {
-        "武器屋リュウトウ": ""
+        "武器屋リュウトウ": "Wep. Shop Ryuto"
     },
     "2673": {
         "clarity_nt_char_916": "clarity_nt_char_916"
     },
     "2674": {
-        "防具屋チガヤ": ""
+        "防具屋チガヤ": "Armor Shop Chigaya"
     },
     "2675": {
         "clarity_nt_char_917": "clarity_nt_char_917"
@@ -8034,22 +8034,22 @@
         "clarity_nt_char_918": "clarity_nt_char_918"
     },
     "2679": {
-        "道具屋ポロペン": ""
+        "道具屋ポロペン": "Item Shop Poropen"
     },
     "2680": {
-        "武器屋パーラプ": ""
+        "武器屋パーラプ": "Wep. Shop Parlap"
     },
     "2681": {
-        "防具屋ヘペ": ""
+        "防具屋ヘペ": "Armor Shop Bepe"
     },
     "2682": {
-        "道具屋ヤップイ": ""
+        "道具屋ヤップイ": "Item Shop Yapui"
     },
     "2683": {
-        "武器屋ペリトン": ""
+        "武器屋ペリトン": "Wep. Shop Periton"
     },
     "2684": {
-        "防具屋ポナック": ""
+        "防具屋ポナック": "Armor Shop Ponak"
     },
     "2685": {
         "ペーロ": ""
@@ -8133,13 +8133,13 @@
         "clarity_nt_char_928": "clarity_nt_char_928"
     },
     "2712": {
-        "武器屋アルプ": ""
+        "武器屋アルプ": "Wep. Shop Alp"
     },
     "2713": {
         "clarity_nt_char_929": "clarity_nt_char_929"
     },
     "2714": {
-        "防具屋ペルトラン": ""
+        "防具屋ペルトラン": "Armor Shop Pertran"
     },
     "2715": {
         "clarity_nt_char_930": "clarity_nt_char_930"
@@ -8172,13 +8172,13 @@
         "アークデーモン": "Archdemon"
     },
     "2725": {
-        "道具屋ロアチュ": ""
+        "道具屋ロアチュ": "Item Shop Roacha"
     },
     "2726": {
-        "道具屋ベラチャ": ""
+        "道具屋ベラチャ": "Item Shop Beracha"
     },
     "2727": {
-        "道具屋カカラ": ""
+        "道具屋カカラ": "Item Shop Kakara"
     },
     "2728": {
         "clarity_nt_char_933": "clarity_nt_char_933"
@@ -8244,7 +8244,7 @@
         "ドン・パパチョ": "Don Papacho"
     },
     "2749": {
-        "防具屋ナワシロ": "Armorer Nawashiro"
+        "防具屋ナワシロ": "Armor Shop Nawashiro"
     },
     "2750": {
         "取引商カルカヤ": "Trader Karukaya"
@@ -8319,31 +8319,31 @@
         "取引商イーハー": "Trader Eha"
     },
     "2774": {
-        "武器屋ヨイジ": ""
+        "武器屋ヨイジ": "Wep. Shop Yoiji"
     },
     "2775": {
         "clarity_nt_char_947": "clarity_nt_char_947"
     },
     "2776": {
-        "防具屋アーニャー": ""
+        "防具屋アーニャー": "Armor Shop Anya"
     },
     "2777": {
         "clarity_nt_char_948": "clarity_nt_char_948"
     },
     "2778": {
-        "武器屋ニョッププ": ""
+        "武器屋ニョッププ": "Wep. Shop Nyopup"
     },
     "2779": {
         "clarity_nt_char_949": "clarity_nt_char_949"
     },
     "2780": {
-        "防具屋パプラム": ""
+        "防具屋パプラム": "Armor Shop Papulam"
     },
     "2781": {
-        "武器屋ベルガウ": ""
+        "武器屋ベルガウ": "Wep. Shop Belgau"
     },
     "2782": {
-        "防具屋ロクア": "Armorer Rokua"
+        "防具屋ロクア": "Armor Shop Rokua"
     },
     "2783": {
         "clarity_nt_char_950": "clarity_nt_char_950"
@@ -8772,7 +8772,7 @@
         "ホッピュル": ""
     },
     "2925": {
-        "武器防具屋トイム": ""
+        "武器防具屋トイム": "Gear Shop Toimu"
     },
     "2926": {
         "clarity_nt_char_991": "clarity_nt_char_991"
@@ -8790,7 +8790,7 @@
         "プーノ": ""
     },
     "2931": {
-        "郵便局員タヴィ": ""
+        "郵便局員タヴィ": "Postman Tavi"
     },
     "2932": {
         "便せん屋カノコ": "Paper Shop Kanoko"
@@ -8802,52 +8802,52 @@
         "clarity_nt_char_993": "clarity_nt_char_993"
     },
     "2935": {
-        "郵便局員アケビ": "P.Office Akebi"
+        "郵便局員アケビ": "Postman Akebi"
     },
     "2936": {
-        "預かり所チグサ": ""
+        "預かり所チグサ": "Storage Chigusa"
     },
     "2937": {
-        "郵便局員キュラ": ""
+        "郵便局員キュラ": "Postman Kyura"
     },
     "2938": {
-        "郵便局員レリー": ""
+        "郵便局員レリー": "Postman Lerry"
     },
     "2939": {
-        "預かり所サーニュ": ""
+        "預かり所サーニュ": "Storage Sannu"
     },
     "2940": {
         "clarity_nt_char_994": "clarity_nt_char_994"
     },
     "2941": {
-        "郵便局員ケパルト": ""
+        "郵便局員ケパルト": "Postman Kepart"
     },
     "2942": {
         "clarity_nt_char_995": "clarity_nt_char_995"
     },
     "2943": {
-        "預かり所ハラル": ""
+        "預かり所ハラル": "Storage Halar"
     },
     "2944": {
-        "郵便局員ツィサア": ""
+        "郵便局員ツィサア": "Postman Tsisa"
     },
     "2945": {
         "clarity_nt_char_996": "clarity_nt_char_996"
     },
     "2946": {
-        "預かり所チョフ": ""
+        "預かり所チョフ": "Storage Chofu"
     },
     "2947": {
-        "預かり所トモズ": ""
+        "預かり所トモズ": "Storage Tomozu"
     },
     "2948": {
-        "預かり所アンニ": ""
+        "預かり所アンニ": "Storage Anni"
     },
     "2949": {
-        "預かり所コルツ": ""
+        "預かり所コルツ": "Storage Colz"
     },
     "2950": {
-        "ボオレン神父": ""
+        "ボオレン神父": "Father Booren"
     },
     "2951": {
         "clarity_nt_char_997": "clarity_nt_char_997"
@@ -9123,7 +9123,7 @@
         "clarity_nt_char_1030": "clarity_nt_char_1030"
     },
     "3042": {
-        "レンタル屋パルノ": "Rental Shop. Parno"
+        "レンタル屋パルノ": "Rental Shop Parno"
     },
     "3043": {
         "clarity_nt_char_1031": "clarity_nt_char_1031"
@@ -9159,7 +9159,7 @@
         "clarity_nt_char_1035": "clarity_nt_char_1035"
     },
     "3054": {
-        "特別預かり所メメリ": ""
+        "特別預かり所メメリ": "Special Storage Memeri"
     },
     "3055": {
         "ミシュアの水桶": ""
@@ -9168,7 +9168,7 @@
         "トート": ""
     },
     "3057": {
-        "セラフィ": "Seraphi"
+        "セラフィ": "Seraphy"
     },
     "3058": {
         "clarity_nt_char_1036": "clarity_nt_char_1036"
@@ -9279,7 +9279,7 @@
         "clarity_nt_char_1048": "clarity_nt_char_1048"
     },
     "3094": {
-        "道具屋アルティ": ""
+        "道具屋アルティ": "Item Shop Aruti"
     },
     "3095": {
         "宿屋タルカド": "Innkeeper Talcado"
@@ -9294,25 +9294,25 @@
         "clarity_nt_char_1050": "clarity_nt_char_1050"
     },
     "3099": {
-        "武器屋カフザ": ""
+        "武器屋カフザ": "Wep. Shop Kafuza"
     },
     "3100": {
         "clarity_nt_char_1051": "clarity_nt_char_1051"
     },
     "3101": {
-        "防具屋バーノ": ""
+        "防具屋バーノ": "Armor Shop Bano"
     },
     "3102": {
         "clarity_nt_char_1052": "clarity_nt_char_1052"
     },
     "3103": {
-        "郵便局員タリア": ""
+        "郵便局員タリア": "Postman Taria"
     },
     "3104": {
         "紹介人ナーシュ": "Introducer Nash"
     },
     "3105": {
-        "預かり所アルラ": ""
+        "預かり所アルラ": "Storage Arla"
     },
     "3106": {
         "琥珀の宝珠": ""
@@ -9408,7 +9408,7 @@
         "ディウ": ""
     },
     "3137": {
-        "オッド神父": ""
+        "オッド神父": "Father Od"
     },
     "3138": {
         "アロワ": ""
@@ -9474,16 +9474,16 @@
         "clarity_nt_char_1068": "clarity_nt_char_1068"
     },
     "3159": {
-        "道具屋グラート": ""
+        "道具屋グラート": "Item Shop Glato"
     },
     "3160": {
-        "防具屋ジーナ": ""
+        "防具屋ジーナ": "Armor Shop Gina"
     },
     "3161": {
         "clarity_nt_char_1069": "clarity_nt_char_1069"
     },
     "3162": {
-        "武器屋エリス": ""
+        "武器屋エリス": "Wep. Shop Ellis"
     },
     "3163": {
         "clarity_nt_char_1070": "clarity_nt_char_1070"
@@ -9690,13 +9690,13 @@
         "行商人リオーレ": "Merchant Liore"
     },
     "3231": {
-        "郵便局員ユメル": ""
+        "郵便局員ユメル": "Postman Yumel"
     },
     "3232": {
         "便せん屋ヒサメ": "Paper Shop Hisame"
     },
     "3233": {
-        "預かり所ネージュ": ""
+        "預かり所ネージュ": "Storage Neige"
     },
     "3234": {
         "clarity_nt_char_1089": "clarity_nt_char_1089"
@@ -9714,7 +9714,7 @@
         "clarity_nt_char_1091": "clarity_nt_char_1091"
     },
     "3239": {
-        "預かり所ショル": ""
+        "預かり所ショル": "Storage Shoru"
     },
     "3240": {
         "よろず屋ルリーズ": ""
@@ -9828,7 +9828,7 @@
         "clarity_nt_char_1104": "clarity_nt_char_1104"
     },
     "3277": {
-        "道具屋カーティス": ""
+        "道具屋カーティス": "Item Shop Katis"
     },
     "3278": {
         "clarity_nt_char_1105": "clarity_nt_char_1105"
@@ -9933,7 +9933,7 @@
         "バロン": ""
     },
     "3312": {
-        "ココナ": ""
+        "ココナ": "Cocona"
     },
     "3313": {
         "ジェーン": ""
@@ -9951,7 +9951,7 @@
         "clarity_nt_char_1119": "clarity_nt_char_1119"
     },
     "3318": {
-        "郵便局員ヤブミ": ""
+        "郵便局員ヤブミ": "Postman Yabumi"
     },
     "3319": {
         "兵士A": ""
@@ -10143,7 +10143,7 @@
         "紹介人ジョエル": "Introducer Joel"
     },
     "3382": {
-        "道具屋フィオレ": ""
+        "道具屋フィオレ": "Item Shop Fiore"
     },
     "3383": {
         "神官ラプラド": "Priest Laprado"
@@ -10179,7 +10179,7 @@
         "サダク": ""
     },
     "3394": {
-        "フィブラ神父": ""
+        "フィブラ神父": "Father Fibra"
     },
     "3395": {
         "clarity_nt_char_1146": "clarity_nt_char_1146"
@@ -10254,16 +10254,16 @@
         "clarity_nt_char_1155": "clarity_nt_char_1155"
     },
     "3419": {
-        "道具屋シェラタ": ""
+        "道具屋シェラタ": "Item Shop Chelata"
     },
     "3420": {
-        "武器屋ボーディス": ""
+        "武器屋ボーディス": "Wep. Shop Bodis"
     },
     "3421": {
         "clarity_nt_char_1156": "clarity_nt_char_1156"
     },
     "3422": {
-        "防具屋カノス": ""
+        "防具屋カノス": "Armor Shop Kanos"
     },
     "3423": {
         "clarity_nt_char_1157": "clarity_nt_char_1157"
@@ -10275,10 +10275,10 @@
         "clarity_nt_char_1158": "clarity_nt_char_1158"
     },
     "3426": {
-        "預かり所リゲル": ""
+        "預かり所リゲル": "Storage Rigel"
     },
     "3427": {
-        "郵便局員カベラ": ""
+        "郵便局員カベラ": "Postman Kabera"
     },
     "3428": {
         "紹介人グルード": "Introducer Grude"
@@ -10611,16 +10611,16 @@
         "シスター・エミーネ": ""
     },
     "3538": {
-        "武器屋カビール": ""
+        "武器屋カビール": "Wep. Shop Kabir"
     },
     "3539": {
-        "防具屋ハカム": ""
+        "防具屋ハカム": "Armor Shop Hakam"
     },
     "3540": {
         "clarity_nt_char_1193": "clarity_nt_char_1193"
     },
     "3541": {
-        "道具屋ナリーン": ""
+        "道具屋ナリーン": "Item Shop Narine"
     },
     "3542": {
         "美容師マルジャン": "Hairdresser Marjan"
@@ -10641,13 +10641,13 @@
         "取引商セペフル": "Trader Sepefuru"
     },
     "3548": {
-        "料理屋フダード": ""
+        "料理屋フダード": "Server Fudado"
     },
     "3549": {
-        "郵便局員ギティ": ""
+        "郵便局員ギティ": "Postman Giti"
     },
     "3550": {
-        "預かり所シャーヤー": ""
+        "預かり所シャーヤー": "Storage Shayer"
     },
     "3551": {
         "宿屋アサル": "Innkeeper Asaru"
@@ -11262,7 +11262,7 @@
         "clarity_nt_char_1260": "clarity_nt_char_1260"
     },
     "3755": {
-        "道具屋ガムリ": ""
+        "道具屋ガムリ": "Item Shop Gamuri"
     },
     "3756": {
         "clarity_nt_char_1261": "clarity_nt_char_1261"
@@ -11274,7 +11274,7 @@
         "clarity_nt_char_1262": "clarity_nt_char_1262"
     },
     "3759": {
-        "グルビ神父": ""
+        "グルビ神父": "Father Gulbi"
     },
     "3760": {
         "家具屋ルサ": ""
@@ -11286,7 +11286,7 @@
         "clarity_nt_char_1263": "clarity_nt_char_1263"
     },
     "3763": {
-        "預かり所ユマ": ""
+        "預かり所ユマ": "Storage Yuma"
     },
     "3764": {
         "clarity_nt_char_1264": "clarity_nt_char_1264"
@@ -11310,7 +11310,7 @@
         "clarity_nt_char_1265": "clarity_nt_char_1265"
     },
     "3771": {
-        "フラッツ神父": ""
+        "フラッツ神父": "Father Flats"
     },
     "3772": {
         "clarity_nt_char_1266": "clarity_nt_char_1266"
@@ -11451,7 +11451,7 @@
         "討伐隊員ガネス": "Subj. Member Ganess"
     },
     "3818": {
-        "染色屋ピピル": ""
+        "染色屋ピピル": "Dyer Pipil"
     },
     "3819": {
         "clarity_nt_char_1282": "clarity_nt_char_1282"
@@ -11655,7 +11655,7 @@
         "コイン販売所イサラ": ""
     },
     "3886": {
-        "預かり所リブナ": ""
+        "預かり所リブナ": "Storage Libuna"
     },
     "3887": {
         "景品交換所リーニャ": ""
@@ -11664,7 +11664,7 @@
         "コイン販売所ユアン": ""
     },
     "3889": {
-        "預かり所ルピア": ""
+        "預かり所ルピア": "Storage Lipia"
     },
     "3890": {
         "景品交換所シリン": ""
@@ -11766,7 +11766,7 @@
         "宿屋クフラ": "Innkpr. Kufura"
     },
     "3923": {
-        "ホマズ神父": ""
+        "ホマズ神父": "Father Homas"
     },
     "3924": {
         "取引商ルルー": "Trader Ruru"
@@ -11775,31 +11775,31 @@
         "clarity_nt_char_1312": "clarity_nt_char_1312"
     },
     "3926": {
-        "預かり所ジス": ""
+        "預かり所ジス": "Storage Shisu"
     },
     "3927": {
         "clarity_nt_char_1313": "clarity_nt_char_1313"
     },
     "3928": {
-        "道具屋イドラ": ""
+        "道具屋イドラ": "Item Shop Idola"
     },
     "3929": {
         "clarity_nt_char_1314": "clarity_nt_char_1314"
     },
     "3930": {
-        "武器屋スパット": ""
+        "武器屋スパット": "Wep. Shop Spat"
     },
     "3931": {
-        "防具屋カイラ": ""
+        "防具屋カイラ": "Armor Shop Caira"
     },
     "3932": {
         "clarity_nt_char_1315": "clarity_nt_char_1315"
     },
     "3933": {
-        "郵便局員ルミラ": ""
+        "郵便局員ルミラ": "Postman Lumira"
     },
     "3934": {
-        "料理屋レーナ": ""
+        "料理屋レーナ": "Server Rena"
     },
     "3935": {
         "clarity_nt_char_1316": "clarity_nt_char_1316"
@@ -11817,10 +11817,10 @@
         "clarity_nt_char_1318": "clarity_nt_char_1318"
     },
     "3940": {
-        "案内係ピーシャ": "Info. Clerk Pisha"
+        "案内係ピーシャ": "Guide Pisha"
     },
     "3941": {
-        "預かり所ゼッド": "Storagemaster Zed"
+        "預かり所ゼッド": "Storage Zed"
     },
     "3942": {
         "道具屋ラドニア": "Item Shop Ladonia"
@@ -11832,22 +11832,22 @@
         "clarity_nt_char_1319": "clarity_nt_char_1319"
     },
     "3945": {
-        "レゴーム神父": ""
+        "レゴーム神父": "Father Legome"
     },
     "3946": {
         "clarity_nt_char_1320": "clarity_nt_char_1320"
     },
     "3947": {
-        "案内係ダッツ": ""
+        "案内係ダッツ": "Guide Dats"
     },
     "3948": {
         "clarity_nt_char_1321": "clarity_nt_char_1321"
     },
     "3949": {
-        "預かり所ミリヤ": ""
+        "預かり所ミリヤ": "Storage Miria"
     },
     "3950": {
-        "案内係オトワ": ""
+        "案内係オトワ": "Guide Otowa"
     },
     "3951": {
         "clarity_nt_char_1322": "clarity_nt_char_1322"
@@ -11994,19 +11994,19 @@
         "宿屋モルン": "Innkeeper Morun"
     },
     "3999": {
-        "案内係ラーリア": ""
+        "案内係ラーリア": "Guide Laria"
     },
     "4000": {
-        "ユナバル神父": ""
+        "ユナバル神父": "Father Yunabal"
     },
     "4001": {
         "clarity_nt_char_1326": "clarity_nt_char_1326"
     },
     "4002": {
-        "預かり所シディ": ""
+        "預かり所シディ": "Storage Sidi"
     },
     "4003": {
-        "道具屋カニラ": ""
+        "道具屋カニラ": "Item Shop Kanira"
     },
     "4004": {
         "clarity_nt_char_1327": "clarity_nt_char_1327"
@@ -12021,13 +12021,13 @@
         "紹介人ノクター": "Introducer Noctor"
     },
     "4008": {
-        "武器屋ボリュー": ""
+        "武器屋ボリュー": "Wep. Shop Boryu"
     },
     "4009": {
-        "防具屋ヴァイン": ""
+        "防具屋ヴァイン": "Armor Shop Vine"
     },
     "4010": {
-        "郵便局員チュノ": ""
+        "郵便局員チュノ": "Postman Chuno"
     },
     "4011": {
         "便せん屋リーニ": "Paper Shop Rinne"
@@ -12039,22 +12039,22 @@
         "神官ウーウェル": ""
     },
     "4014": {
-        "料理屋ケリー": ""
+        "料理屋ケリー": "Server Kelly"
     },
     "4015": {
         "clarity_nt_char_1329": "clarity_nt_char_1329"
     },
     "4016": {
-        "案内係ブール": ""
+        "案内係ブール": "Guide Buru"
     },
     "4017": {
         "clarity_nt_char_1330": "clarity_nt_char_1330"
     },
     "4018": {
-        "預かり所フォッチャ": ""
+        "預かり所フォッチャ": "Storage Foccia"
     },
     "4019": {
-        "道具屋サマサ": ""
+        "道具屋サマサ": "Item Shop Samasa"
     },
     "4020": {
         "clarity_nt_char_1331": "clarity_nt_char_1331"
@@ -12069,16 +12069,16 @@
         "clarity_nt_char_1332": "clarity_nt_char_1332"
     },
     "4024": {
-        "武器屋セグル": ""
+        "武器屋セグル": "Wep. Shop Segul"
     },
     "4025": {
         "clarity_nt_char_1333": "clarity_nt_char_1333"
     },
     "4026": {
-        "防具屋プレッツ": ""
+        "防具屋プレッツ": "Armor Shop Pretz"
     },
     "4027": {
-        "郵便局員ブリッシュ": ""
+        "郵便局員ブリッシュ": "Postman Blish"
     },
     "4028": {
         "便せん屋タラハ": "Paper Shop Taraha"
@@ -12087,7 +12087,7 @@
         "神官トック": "Priest Tok"
     },
     "4030": {
-        "料理屋ローピン": ""
+        "料理屋ローピン": "Server Ropin"
     },
     "4031": {
         "宿屋ピリロ": "Innkpr. Piriro"
@@ -12096,10 +12096,10 @@
         "シスター・アーミャ": ""
     },
     "4033": {
-        "預かり所セネル": ""
+        "預かり所セネル": "Storage Senel"
     },
     "4034": {
-        "道具屋チューラ": ""
+        "道具屋チューラ": "Item Shop Chara"
     },
     "4035": {
         "取引商モティ": "Trader Moti"
@@ -12123,13 +12123,13 @@
         "シスター・ゼレニナ": ""
     },
     "4042": {
-        "預かり所ヒメネス": ""
+        "預かり所ヒメネス": "Storage Himenes"
     },
     "4043": {
         "clarity_nt_char_1336": "clarity_nt_char_1336"
     },
     "4044": {
-        "道具屋ヴェルヌ": ""
+        "道具屋ヴェルヌ": "Item Shop Verne"
     },
     "4045": {
         "取引商アルトゥナ": "Trader Altuna"
@@ -12138,7 +12138,7 @@
         "clarity_nt_char_1337": "clarity_nt_char_1337"
     },
     "4047": {
-        "案内係ヘーナ": ""
+        "案内係ヘーナ": "Guide Henna"
     },
     "4048": {
         "clarity_nt_char_1338": "clarity_nt_char_1338"
@@ -12159,7 +12159,7 @@
         "clarity_nt_char_1340": "clarity_nt_char_1340"
     },
     "4054": {
-        "料理屋デネラ": ""
+        "料理屋デネラ": "Server Denera"
     },
     "4055": {
         "clarity_nt_char_1341": "clarity_nt_char_1341"
@@ -12168,19 +12168,19 @@
         "宿屋シェム": "Innkeeper Shem"
     },
     "4057": {
-        "バンシェ神父": ""
+        "バンシェ神父": "Father Banshe"
     },
     "4058": {
         "clarity_nt_char_1342": "clarity_nt_char_1342"
     },
     "4059": {
-        "預かり所メラネ": ""
+        "預かり所メラネ": "Storage Merane"
     },
     "4060": {
-        "道具屋キシュレ": ""
+        "道具屋キシュレ": "Item Shop Kishre"
     },
     "4061": {
-        "案内係セヴァス": ""
+        "案内係セヴァス": "Guide Sevas"
     },
     "4062": {
         "便せん屋ミュウ": "Paper Shop Miu"
@@ -12249,7 +12249,7 @@
         "レシピ屋テテロ": "Recipe Shop Tetero"
     },
     "4084": {
-        "道具屋ポピリ": ""
+        "道具屋ポピリ": "Item Shop Popiri"
     },
     "4085": {
         "clarity_nt_char_1351": "clarity_nt_char_1351"
@@ -12720,16 +12720,16 @@
         "clarity_nt_char_1416": "clarity_nt_char_1416"
     },
     "4241": {
-        "武器屋ラニエロ": ""
+        "武器屋ラニエロ": "Wep. Shop Raniero"
     },
     "4242": {
-        "防具屋レリアン": ""
+        "防具屋レリアン": "Armor Shop Lerian"
     },
     "4243": {
-        "道具屋エイベル": ""
+        "道具屋エイベル": "Item Shop Abel"
     },
     "4244": {
-        "預かり所マノリタ": ""
+        "預かり所マノリタ": "Storage Manorita"
     },
     "4245": {
         "clarity_nt_char_1417": "clarity_nt_char_1417"
@@ -12939,7 +12939,7 @@
         "clarity_nt_char_1438": "clarity_nt_char_1438"
     },
     "4314": {
-        "預かり所ケープ": ""
+        "預かり所ケープ": "Storage Keppu"
     },
     "4315": {
         "浮き輪": "Float"
@@ -13095,10 +13095,10 @@
         "炎の民のお守り": ""
     },
     "4366": {
-        "案内係シーシャ": ""
+        "案内係シーシャ": "Guide Shisha"
     },
     "4367": {
-        "預かり所ドヨロ": ""
+        "預かり所ドヨロ": "Storage Doyoro"
     },
     "4368": {
         "宿屋イェード": "Innkeeper Jade"
@@ -13107,13 +13107,13 @@
         "clarity_nt_char_1457": "clarity_nt_char_1457"
     },
     "4370": {
-        "案内係ムウナ": ""
+        "案内係ムウナ": "Guide Moona"
     },
     "4371": {
         "clarity_nt_char_1458": "clarity_nt_char_1458"
     },
     "4372": {
-        "ディーコン神父": ""
+        "ディーコン神父": "Father Deacon"
     },
     "4373": {
         "取引商ケイブ": "Trader Keibu"
@@ -13122,25 +13122,25 @@
         "clarity_nt_char_1459": "clarity_nt_char_1459"
     },
     "4375": {
-        "郵便局員キャロン": ""
+        "郵便局員キャロン": "Postman Caron"
     },
     "4376": {
         "clarity_nt_char_1460": "clarity_nt_char_1460"
     },
     "4377": {
-        "案内係アハド": ""
+        "案内係アハド": "Guide Ahad"
     },
     "4378": {
         "clarity_nt_char_1461": "clarity_nt_char_1461"
     },
     "4379": {
-        "案内係ルクーバ": ""
+        "案内係ルクーバ": "Guide Lucuba"
     },
     "4380": {
         "取引商シャーヌ": "Trader Shane"
     },
     "4381": {
-        "料理屋デネブ": ""
+        "料理屋デネブ": "Server Deneb"
     },
     "4382": {
         "clarity_nt_char_1462": "clarity_nt_char_1462"
@@ -13254,13 +13254,13 @@
         "幻魔将ファズマ": "Phantom Gen. Phasma"
     },
     "4419": {
-        "武器屋コカブ": ""
+        "武器屋コカブ": "Wep. Shop Kokabu"
     },
     "4420": {
         "clarity_nt_char_1477": "clarity_nt_char_1477"
     },
     "4421": {
-        "アスケル神父": ""
+        "アスケル神父": "Father Asker"
     },
     "4422": {
         "clarity_nt_char_1478": "clarity_nt_char_1478"
@@ -13269,19 +13269,19 @@
         "宿屋ウヌク": "Innkeeper Unuku"
     },
     "4424": {
-        "案内係ケーティ": ""
+        "案内係ケーティ": "Guide Katie"
     },
     "4425": {
-        "アルゴ神父": ""
+        "アルゴ神父": "Father Argo"
     },
     "4426": {
-        "預かり所エルミナ": ""
+        "預かり所エルミナ": "Storage Elmina"
     },
     "4427": {
         "clarity_nt_char_1479": "clarity_nt_char_1479"
     },
     "4428": {
-        "道具屋クラッサ": ""
+        "道具屋クラッサ": "Item Shop Kurasa"
     },
     "4429": {
         "取引商レポリニ": "Trader Repolini"
@@ -13311,19 +13311,19 @@
         "宿屋ラマン": "Innkeeper Raman"
     },
     "4438": {
-        "案内係アルギン": ""
+        "案内係アルギン": "Guide Algin"
     },
     "4439": {
         "シスター・ユミール": ""
     },
     "4440": {
-        "預かり所ディーズ": ""
+        "預かり所ディーズ": "Storage Diz"
     },
     "4441": {
         "clarity_nt_char_1481": "clarity_nt_char_1481"
     },
     "4442": {
-        "道具屋ラッカ": ""
+        "道具屋ラッカ": "Item Shop Rakka"
     },
     "4443": {
         "clarity_nt_char_1482": "clarity_nt_char_1482"
@@ -13341,19 +13341,19 @@
         "神官マルジ": "Priest Maruji"
     },
     "4448": {
-        "武器屋バーニジア": ""
+        "武器屋バーニジア": "Wep. Shop Banijia"
     },
     "4449": {
         "clarity_nt_char_1484": "clarity_nt_char_1484"
     },
     "4450": {
-        "防具屋オムザ": ""
+        "防具屋オムザ": "Armor Shop Omza"
     },
     "4451": {
         "clarity_nt_char_1485": "clarity_nt_char_1485"
     },
     "4452": {
-        "郵便局員モルーゼ": ""
+        "郵便局員モルーゼ": "Postman Morse"
     },
     "4453": {
         "clarity_nt_char_1486": "clarity_nt_char_1486"
@@ -13365,7 +13365,7 @@
         "美容師ティジー": "Hairdresser Tiji"
     },
     "4456": {
-        "料理屋パフィ": ""
+        "料理屋パフィ": "Server Puffy"
     },
     "4457": {
         "clarity_nt_char_1487": "clarity_nt_char_1487"
@@ -13770,19 +13770,19 @@
         "clarity_nt_char_1538": "clarity_nt_char_1538"
     },
     "4591": {
-        "レイド神父": ""
+        "レイド神父": "Father Lade"
     },
     "4592": {
-        "案内係ハイム": ""
+        "案内係ハイム": "Guide Heim"
     },
     "4593": {
         "clarity_nt_char_1539": "clarity_nt_char_1539"
     },
     "4594": {
-        "預かり所クリス": ""
+        "預かり所クリス": "Storage Chris"
     },
     "4595": {
-        "道具屋ボロディ": ""
+        "道具屋ボロディ": "Item Shop Borody"
     },
     "4596": {
         "取引商ディーリア": "Trader Delia"
@@ -13794,16 +13794,16 @@
         "紹介人サティナ": "Introducer Satina"
     },
     "4599": {
-        "武器屋バルド": ""
+        "武器屋バルド": "Wep. Shop Baldo"
     },
     "4600": {
         "clarity_nt_char_1541": "clarity_nt_char_1541"
     },
     "4601": {
-        "防具屋コーヴィ": ""
+        "防具屋コーヴィ": "Armor Shop Corvi"
     },
     "4602": {
-        "郵便局員ショス": ""
+        "郵便局員ショス": "Postman Shose"
     },
     "4603": {
         "便せん屋ヒキワリ": "Paper Shop Hikiwari"
@@ -13818,7 +13818,7 @@
         "clarity_nt_char_1543": "clarity_nt_char_1543"
     },
     "4607": {
-        "料理屋クレッセル": ""
+        "料理屋クレッセル": "Server Kressel"
     },
     "4608": {
         "clarity_nt_char_1544": "clarity_nt_char_1544"
@@ -13833,10 +13833,10 @@
         "シスター・ニルーナ": ""
     },
     "4612": {
-        "預かり所ビッティス": ""
+        "預かり所ビッティス": "Storage Bittis"
     },
     "4613": {
-        "道具屋マリド": ""
+        "道具屋マリド": "Item Shop Malido"
     },
     "4614": {
         "clarity_nt_char_1546": "clarity_nt_char_1546"
@@ -13854,19 +13854,19 @@
         "clarity_nt_char_1548": "clarity_nt_char_1548"
     },
     "4619": {
-        "マーロウ神父": ""
+        "マーロウ神父": "Father Marlowe"
     },
     "4620": {
         "clarity_nt_char_1549": "clarity_nt_char_1549"
     },
     "4621": {
-        "預かり所ラヴィア": ""
+        "預かり所ラヴィア": "Storage Lavia"
     },
     "4622": {
         "clarity_nt_char_1550": "clarity_nt_char_1550"
     },
     "4623": {
-        "道具屋ウィート": ""
+        "道具屋ウィート": "Item Shop Wit"
     },
     "4624": {
         "取引商エッカー": "Trader Ecker"
@@ -14121,13 +14121,13 @@
         "宿屋ショコ": "Innkeeper Shoko"
     },
     "4708": {
-        "預かり所ムース": ""
+        "預かり所ムース": "Storage Musu"
     },
     "4709": {
         "よろず屋マカロ": ""
     },
     "4710": {
-        "ヌーガ神父": ""
+        "ヌーガ神父": "Father Nuga"
     },
     "4711": {
         "復元屋ミーネ": ""
@@ -14175,7 +14175,7 @@
         "clarity_nt_char_1587": "clarity_nt_char_1587"
     },
     "4726": {
-        "預かり所ロチ": ""
+        "預かり所ロチ": "Storage Rochi"
     },
     "4727": {
         "clarity_nt_char_1588": "clarity_nt_char_1588"
@@ -14232,7 +14232,7 @@
         "clarity_nt_char_1594": "clarity_nt_char_1594"
     },
     "4745": {
-        "道具屋ディリロ": ""
+        "道具屋ディリロ": "Item Shop Dirilo"
     },
     "4746": {
         "移動係ギルダ": "Mobile Clerk Gilda"
@@ -14331,85 +14331,85 @@
         "clarity_nt_char_1607": "clarity_nt_char_1607"
     },
     "4778": {
-        "道具屋チュナ": ""
+        "道具屋チュナ": "Item Shop Chuna"
     },
     "4779": {
         "clarity_nt_char_1608": "clarity_nt_char_1608"
     },
     "4780": {
-        "道具屋トントト": ""
+        "道具屋トントト": "Item Shop Tonototo"
     },
     "4781": {
-        "道具屋ホヅミ": ""
+        "道具屋ホヅミ": "Item Shop Hozumi"
     },
     "4782": {
         "clarity_nt_char_1609": "clarity_nt_char_1609"
     },
     "4783": {
-        "道具屋アザミ": ""
+        "道具屋アザミ": "Item Shop Azami"
     },
     "4784": {
         "clarity_nt_char_1610": "clarity_nt_char_1610"
     },
     "4785": {
-        "道具屋ヒュナ": ""
+        "道具屋ヒュナ": "Item Shop Huna"
     },
     "4786": {
         "clarity_nt_char_1611": "clarity_nt_char_1611"
     },
     "4787": {
-        "道具屋グリフ": ""
+        "道具屋グリフ": "Item Shop Glyph"
     },
     "4788": {
         "clarity_nt_char_1612": "clarity_nt_char_1612"
     },
     "4789": {
-        "道具屋ポッピーナ": ""
+        "道具屋ポッピーナ": "Item Shop Pina"
     },
     "4790": {
         "clarity_nt_char_1613": "clarity_nt_char_1613"
     },
     "4791": {
-        "道具屋ポプフ": ""
+        "道具屋ポプフ": "Item Shop Popufu"
     },
     "4792": {
         "clarity_nt_char_1614": "clarity_nt_char_1614"
     },
     "4793": {
-        "道具屋ノーニル": ""
+        "道具屋ノーニル": "Item Shop Nonil"
     },
     "4794": {
-        "道具屋リーフィヤ": ""
+        "道具屋リーフィヤ": "Item Shop Leafia"
     },
     "4795": {
         "clarity_nt_char_1615": "clarity_nt_char_1615"
     },
     "4796": {
-        "道具屋タルバス": ""
+        "道具屋タルバス": "Item Shop Talbus"
     },
     "4797": {
-        "道具屋トルディ": ""
+        "道具屋トルディ": "Item Shop Tordi"
     },
     "4798": {
-        "道具屋バーキン": ""
+        "道具屋バーキン": "Item Shop Birkin"
     },
     "4799": {
-        "道具屋フロイデ": ""
+        "道具屋フロイデ": "Item Shop Freude"
     },
     "4800": {
-        "道具屋メイプル": ""
+        "道具屋メイプル": "Item Shop Maple"
     },
     "4801": {
-        "道具屋ヌサカン": ""
+        "道具屋ヌサカン": "Item Shop Nusakan"
     },
     "4802": {
-        "道具屋ハーティ": ""
+        "道具屋ハーティ": "Item Shop Hati"
     },
     "4803": {
-        "道具屋ヤーヒム": ""
+        "道具屋ヤーヒム": "Item Shop Yahim"
     },
     "4804": {
-        "道具屋ヤルミラ": ""
+        "道具屋ヤルミラ": "Item Shop Yarumira"
     },
     "4805": {
         "運命の振り子": ""
@@ -14451,7 +14451,7 @@
         "ヤヨイ": "Yayoi"
     },
     "4818": {
-        "交換屋ミランダ": "Exchange Shop Miranda"
+        "交換屋ミランダ": "Exch. Shop Miranda"
     },
     "4819": {
         "勇者の指輪": ""
@@ -14538,7 +14538,7 @@
         "セッカ": ""
     },
     "4847": {
-        "案内係シオラン": ""
+        "案内係シオラン": "Guide Cioran"
     },
     "4848": {
         "ジャッキー": ""
@@ -14853,7 +14853,7 @@
         "ルナパ": ""
     },
     "4952": {
-        "預かり所ポピピ": ""
+        "預かり所ポピピ": "Storage Popipi"
     },
     "4953": {
         "取引商プラヌ": "Trader Planu"
@@ -14868,13 +14868,13 @@
         "clarity_nt_char_1665": "clarity_nt_char_1665"
     },
     "4957": {
-        "料理屋パホン": ""
+        "料理屋パホン": "Server Pahon"
     },
     "4958": {
         "clarity_nt_char_1666": "clarity_nt_char_1666"
     },
     "4959": {
-        "預かり所ヘギンツ": ""
+        "預かり所ヘギンツ": "Storage Hegints"
     },
     "4960": {
         "clarity_nt_char_1667": "clarity_nt_char_1667"
@@ -14901,55 +14901,55 @@
         "clarity_nt_char_1669": "clarity_nt_char_1669"
     },
     "4968": {
-        "魚交換員パッピイ": ""
+        "魚交換員パッピイ": "Fish Exch. Pappi"
     },
     "4969": {
         "clarity_nt_char_1670": "clarity_nt_char_1670"
     },
     "4970": {
-        "魚交換員ポップイ": ""
+        "魚交換員ポップイ": "Fish Exch. Popui"
     },
     "4971": {
         "clarity_nt_char_1671": "clarity_nt_char_1671"
     },
     "4972": {
-        "魚交換員パルナ": ""
+        "魚交換員パルナ": "Fish Exch. Paruna"
     },
     "4973": {
-        "魚交換員ペルノ": ""
+        "魚交換員ペルノ": "Fish Exch. Peruno"
     },
     "4974": {
-        "魚交換員ピフィ": ""
+        "魚交換員ピフィ": "Fish Exch. Piffy"
     },
     "4975": {
-        "魚交換員ポフェ": ""
+        "魚交換員ポフェ": "Fish Exch. Poffy"
     },
     "4976": {
-        "魚交換員ニパナ": ""
+        "魚交換員ニパナ": "Fish Exch. Nipana"
     },
     "4977": {
-        "魚交換員ノポナ": ""
+        "魚交換員ノポナ": "Fish Exch. Nopona"
     },
     "4978": {
-        "魚交換員パッツィ": ""
+        "魚交換員パッツィ": "Fish Exch. Patsy"
     },
     "4979": {
         "clarity_nt_char_1672": "clarity_nt_char_1672"
     },
     "4980": {
-        "魚交換員ポッツァ": ""
+        "魚交換員ポッツァ": "Fish. Exch Pozza"
     },
     "4981": {
         "clarity_nt_char_1673": "clarity_nt_char_1673"
     },
     "4982": {
-        "魚交換員ポポリ": ""
+        "魚交換員ポポリ": "Fish Exch. Popori"
     },
     "4983": {
-        "魚交換員パパル": ""
+        "魚交換員パパル": "Fish Exch. Paparu"
     },
     "4984": {
-        "魚交換員ピッチョ": ""
+        "魚交換員ピッチョ": "Fish Exch. Picho"
     },
     "4985": {
         "clarity_nt_char_1674": "clarity_nt_char_1674"
@@ -15024,7 +15024,7 @@
         "clarity_nt_char_1681": "clarity_nt_char_1681"
     },
     "5009": {
-        "郵便局員": ""
+        "郵便局員": "Postman"
     },
     "5010": {
         "clarity_nt_char_1682": "clarity_nt_char_1682"
@@ -15552,10 +15552,10 @@
         "取引商タルタタ": "Trader Tarutata"
     },
     "5185": {
-        "預かり所ヌツィ": ""
+        "預かり所ヌツィ": "Storage Nutsy"
     },
     "5186": {
-        "預かり所ティリリ": ""
+        "預かり所ティリリ": "Storage Tiriri"
     },
     "5187": {
         "clarity_nt_char_1742": "clarity_nt_char_1742"
@@ -15573,13 +15573,13 @@
         "clarity_nt_char_1744": "clarity_nt_char_1744"
     },
     "5192": {
-        "預かり所シラクモ": ""
+        "預かり所シラクモ": "Storage Shirakumo"
     },
     "5193": {
         "clarity_nt_char_1745": "clarity_nt_char_1745"
     },
     "5194": {
-        "預かり所カリン": ""
+        "預かり所カリン": "Storage Karin"
     },
     "5195": {
         "取引商ガルゴ": "Trader Galgo"
@@ -15594,10 +15594,10 @@
         "clarity_nt_char_1747": "clarity_nt_char_1747"
     },
     "5199": {
-        "預かり所ガスティン": ""
+        "預かり所ガスティン": "Storage Gastin"
     },
     "5200": {
-        "預かり所サラサ": ""
+        "預かり所サラサ": "Storage Sarasa"
     },
     "5201": {
         "取引商プップル": "Trader Pupple"
@@ -15609,10 +15609,10 @@
         "clarity_nt_char_1748": "clarity_nt_char_1748"
     },
     "5204": {
-        "預かり所パピィ": ""
+        "預かり所パピィ": "Storage Pappy"
     },
     "5205": {
-        "預かり所ポピリア": ""
+        "預かり所ポピリア": "Storage Popilia"
     },
     "5206": {
         "clarity_nt_char_1749": "clarity_nt_char_1749"
@@ -15627,19 +15627,19 @@
         "clarity_nt_char_1750": "clarity_nt_char_1750"
     },
     "5210": {
-        "預かり所ヤーディ": ""
+        "預かり所ヤーディ": "Storage Yadi"
     },
     "5211": {
         "clarity_nt_char_1751": "clarity_nt_char_1751"
     },
     "5212": {
-        "預かり所カーリィ": ""
+        "預かり所カーリィ": "Storage Karry"
     },
     "5213": {
         "clarity_nt_char_1752": "clarity_nt_char_1752"
     },
     "5214": {
-        "預かり所クルリ": ""
+        "預かり所クルリ": "Storage Kulry"
     },
     "5215": {
         "神官サザナミ": ""
@@ -15912,10 +15912,10 @@
         "clarity_nt_char_1784": "clarity_nt_char_1784"
     },
     "5305": {
-        "預かり所アイリーン": ""
+        "預かり所アイリーン": "Storage Irene"
     },
     "5306": {
-        "預かり所カチュア": ""
+        "預かり所カチュア": "Storage Katya"
     },
     "5307": {
         "clarity_nt_char_1785": "clarity_nt_char_1785"
@@ -16053,7 +16053,7 @@
         "clarity_nt_char_1795": "clarity_nt_char_1795"
     },
     "5352": {
-        "交換屋クラリッサ": "Exchange Shop Clarissa"
+        "交換屋クラリッサ": "Exch. Shop Clarissa"
     },
     "5353": {
         "clarity_nt_char_1796": "clarity_nt_char_1796"
@@ -16062,7 +16062,7 @@
         "シスター・クレセダ": ""
     },
     "5355": {
-        "交換屋シュルリ": "Exchange Shop Shururi"
+        "交換屋シュルリ": "Exch. Shop Shururi"
     },
     "5356": {
         "交換屋プッカ": "Exch. Shop Pucca"
@@ -16071,7 +16071,7 @@
         "clarity_nt_char_1797": "clarity_nt_char_1797"
     },
     "5358": {
-        "交換屋フォーリィ": "Exchange Shop Foley"
+        "交換屋フォーリィ": "Exch. Shop Foley"
     },
     "5359": {
         "clarity_nt_char_1798": "clarity_nt_char_1798"
@@ -16083,10 +16083,10 @@
         "clarity_nt_char_1799": "clarity_nt_char_1799"
     },
     "5362": {
-        "交換屋ヌンタタ": "Exchange Shop Nuntata"
+        "交換屋ヌンタタ": "Exch. Shop Nuntata"
     },
     "5363": {
-        "交換屋ププルン": "Exchange Shop Pupurin"
+        "交換屋ププルン": "Exch. Shop Pupurin"
     },
     "5364": {
         "召喚士の指輪": ""
@@ -16239,7 +16239,7 @@
         "clarity_nt_char_1811": "clarity_nt_char_1811"
     },
     "5414": {
-        "預かり所ベルタ": ""
+        "預かり所ベルタ": "Storage Bertha"
     },
     "5415": {
         "魔物管理人ミリィ": ""
@@ -16248,7 +16248,7 @@
         "clarity_nt_char_1812": "clarity_nt_char_1812"
     },
     "5417": {
-        "道具屋バテルス": ""
+        "道具屋バテルス": "Item Shop Batterus"
     },
     "5418": {
         "神官アルマス": ""
@@ -16329,7 +16329,7 @@
         "clarity_nt_char_1822": "clarity_nt_char_1822"
     },
     "5444": {
-        "交換屋ジョーンズ": "Exchange Shop Jones"
+        "交換屋ジョーンズ": "Exch. Shop Jones"
     },
     "5445": {
         "clarity_nt_char_1823": "clarity_nt_char_1823"
@@ -16395,7 +16395,7 @@
         "宿屋テウス": "Innkeeper Teus"
     },
     "5466": {
-        "道具屋ニクス": ""
+        "道具屋ニクス": "Item Shop Nix"
     },
     "5467": {
         "clarity_nt_char_1832": "clarity_nt_char_1832"
@@ -16428,7 +16428,7 @@
         "神官モチャチャ": "Priest Mochacha"
     },
     "5477": {
-        "預かり所グログス": ""
+        "預かり所グログス": "Storage Gulgus"
     },
     "5478": {
         "clarity_nt_char_1835": "clarity_nt_char_1835"
@@ -16656,7 +16656,7 @@
         "clarity_nt_char_1863": "clarity_nt_char_1863"
     },
     "5553": {
-        "預かり所オレンじい": ""
+        "預かり所オレンじい": "Storage Orenji"
     },
     "5554": {
         "リルチェラ": "Lilcherat"
@@ -16740,7 +16740,7 @@
         "神官ダジン": "Priest Dazin"
     },
     "5581": {
-        "案内係ポリーヌ": ""
+        "案内係ポリーヌ": "Guide Poline"
     },
     "5582": {
         "回転鏡": ""
@@ -16776,7 +16776,7 @@
         "宿屋ゾクラ": "Innkpr. Zokura"
     },
     "5593": {
-        "案内係アメノナ": ""
+        "案内係アメノナ": "Guide Amenona"
     },
     "5594": {
         "神官ゼリオ": ""
@@ -16926,7 +16926,7 @@
         "clarity_nt_char_1888": "clarity_nt_char_1888"
     },
     "5643": {
-        "案内係フェニア": ""
+        "案内係フェニア": "Guide Phenia"
     },
     "5644": {
         "トロッコ": ""
@@ -17016,7 +17016,7 @@
         "clarity_nt_char_1898": "clarity_nt_char_1898"
     },
     "5673": {
-        "預かり所コーディ": ""
+        "預かり所コーディ": "Storage Cody"
     },
     "5674": {
         "clarity_nt_char_1899": "clarity_nt_char_1899"
@@ -17070,7 +17070,7 @@
         "clarity_nt_char_1905": "clarity_nt_char_1905"
     },
     "5691": {
-        "預かり所クロク": ""
+        "預かり所クロク": "Storage Kuroku"
     },
     "5692": {
         "オレンじい": "Orenji"
@@ -17139,7 +17139,7 @@
         "シュプリンガー": "Mandrake Marshal"
     },
     "5714": {
-        "ノッツェ神父": ""
+        "ノッツェ神父": "Father Notze"
     },
     "5715": {
         "clarity_nt_char_1913": "clarity_nt_char_1913"
@@ -17166,13 +17166,13 @@
         "ピール": ""
     },
     "5723": {
-        "ガラトゥ神父": ""
+        "ガラトゥ神父": "Father Garatu"
     },
     "5724": {
         "clarity_nt_char_1915": "clarity_nt_char_1915"
     },
     "5725": {
-        "交換屋メリーポコ": "Exchange Shop Meripoko"
+        "交換屋メリーポコ": "Exch. Shop Meripoko"
     },
     "5726": {
         "clarity_nt_char_1916": "clarity_nt_char_1916"
@@ -17421,22 +17421,22 @@
         "clarity_nt_char_1948": "clarity_nt_char_1948"
     },
     "5808": {
-        "道具屋ソシェラ": ""
+        "道具屋ソシェラ": "Item Shop Sochera"
     },
     "5809": {
-        "郵便局員マドゥン": ""
+        "郵便局員マドゥン": "Postman Madun"
     },
     "5810": {
         "clarity_nt_char_1949": "clarity_nt_char_1949"
     },
     "5811": {
-        "預かり所イリズヤ": ""
+        "預かり所イリズヤ": "Storage Irizya"
     },
     "5812": {
         "clarity_nt_char_1950": "clarity_nt_char_1950"
     },
     "5813": {
-        "ミシダン神父": ""
+        "ミシダン神父": "Father Mishidan"
     },
     "5814": {
         "clarity_nt_char_1951": "clarity_nt_char_1951"
@@ -17565,19 +17565,19 @@
         "clarity_nt_char_1968": "clarity_nt_char_1968"
     },
     "5856": {
-        "道具屋ズィディリ": ""
+        "道具屋ズィディリ": "Item Shop Zidiri"
     },
     "5857": {
         "clarity_nt_char_1969": "clarity_nt_char_1969"
     },
     "5858": {
-        "郵便局員ピティカ": ""
+        "郵便局員ピティカ": "Postman Pitica"
     },
     "5859": {
         "clarity_nt_char_1970": "clarity_nt_char_1970"
     },
     "5860": {
-        "預かり所ゾゼルグ": ""
+        "預かり所ゾゼルグ": "Storage Zozelgu"
     },
     "5861": {
         "clarity_nt_char_1971": "clarity_nt_char_1971"
@@ -17598,7 +17598,7 @@
         "clarity_nt_char_1973": "clarity_nt_char_1973"
     },
     "5867": {
-        "道具屋ラダディ": ""
+        "道具屋ラダディ": "Item Shop Ladadi"
     },
     "5868": {
         "オリク": ""
@@ -17694,10 +17694,10 @@
         "神官カーリーナ": ""
     },
     "5899": {
-        "チャーチル神父": ""
+        "チャーチル神父": "Father Churchill"
     },
     "5900": {
-        "預かり所アスケン": ""
+        "預かり所アスケン": "Storage Asuken"
     },
     "5901": {
         "clarity_nt_char_1986": "clarity_nt_char_1986"
@@ -17772,7 +17772,7 @@
         "clarity_nt_char_1995": "clarity_nt_char_1995"
     },
     "5925": {
-        "交換屋クックルン": "Exchange Shop Cocoroon"
+        "交換屋クックルン": "Exch. Shop Cocoroon"
     },
     "5926": {
         "clarity_nt_char_1996": "clarity_nt_char_1996"
@@ -17817,7 +17817,7 @@
         "clarity_nt_char_2000": "clarity_nt_char_2000"
     },
     "5940": {
-        "預かり所パーシリ": ""
+        "預かり所パーシリ": "Storage Pashiri"
     },
     "5941": {
         "clarity_nt_char_2001": "clarity_nt_char_2001"
@@ -17994,7 +17994,7 @@
         "clarity_nt_char_2021": "clarity_nt_char_2021"
     },
     "5999": {
-        "預かり所パルーラ": ""
+        "預かり所パルーラ": "Storage Parula"
     },
     "6000": {
         "clarity_nt_char_2022": "clarity_nt_char_2022"
@@ -18009,7 +18009,7 @@
         "clarity_nt_char_2023": "clarity_nt_char_2023"
     },
     "6004": {
-        "道具屋ジーヌ": ""
+        "道具屋ジーヌ": "Item Shop Gene"
     },
     "6005": {
         "clarity_nt_char_2024": "clarity_nt_char_2024"
@@ -18144,7 +18144,7 @@
         "交換屋テゼ": "Exch. Shop Teze"
     },
     "6049": {
-        "交換屋キーネ": "Exchange Shop Kine"
+        "交換屋キーネ": "Exch. Shop Kine"
     },
     "6050": {
         "clarity_nt_char_2041": "clarity_nt_char_2041"
@@ -18177,10 +18177,10 @@
         "clarity_nt_char_2044": "clarity_nt_char_2044"
     },
     "6060": {
-        "案内係トゥーナ": ""
+        "案内係トゥーナ": "Guide Tuna"
     },
     "6061": {
-        "交換屋ミディア": "Exchange Shop Midea"
+        "交換屋ミディア": "Exch. Shop Midea"
     },
     "6062": {
         "禁書の守護者": "For. Book Guardian"
@@ -18246,7 +18246,7 @@
         "チササ": ""
     },
     "6083": {
-        "預かり所パンドーラ": ""
+        "預かり所パンドーラ": "Storage Pandora"
     },
     "6084": {
         "彼女": ""
@@ -18333,16 +18333,16 @@
         "clarity_nt_char_2063": "clarity_nt_char_2063"
     },
     "6112": {
-        "郵便局員グナー": ""
+        "郵便局員グナー": "Postman Guna"
     },
     "6113": {
-        "預かり所ミミング": ""
+        "預かり所ミミング": "Storage Mimingu"
     },
     "6114": {
         "clarity_nt_char_2064": "clarity_nt_char_2064"
     },
     "6115": {
-        "道具屋イプル": ""
+        "道具屋イプル": "Item Shop Ipuru"
     },
     "6116": {
         "clarity_nt_char_2065": "clarity_nt_char_2065"
@@ -18411,19 +18411,19 @@
         "clarity_nt_char_2072": "clarity_nt_char_2072"
     },
     "6138": {
-        "道具屋ルゴー": ""
+        "道具屋ルゴー": "Item Shop Lugo"
     },
     "6139": {
         "clarity_nt_char_2073": "clarity_nt_char_2073"
     },
     "6140": {
-        "案内係ガルキス": ""
+        "案内係ガルキス": "Guide Garkis"
     },
     "6141": {
         "ノヴィ": ""
     },
     "6142": {
-        "ラカ神父": ""
+        "ラカ神父": "Father Raka"
     },
     "6143": {
         "clarity_nt_char_2074": "clarity_nt_char_2074"
@@ -18483,40 +18483,40 @@
         "愛と転職の魔人": ""
     },
     "6162": {
-        "案内係ディアマン": ""
+        "案内係ディアマン": "Guide Diamond"
     },
     "6163": {
         "clarity_nt_char_2080": "clarity_nt_char_2080"
     },
     "6164": {
-        "案内係ルビオン": ""
+        "案内係ルビオン": "Guide Rubion"
     },
     "6165": {
-        "案内係サフィール": ""
+        "案内係サフィール": "Guide Sapphire"
     },
     "6166": {
         "clarity_nt_char_2081": "clarity_nt_char_2081"
     },
     "6167": {
-        "案内係エムロード": ""
+        "案内係エムロード": "Guide Emerald"
     },
     "6168": {
         "clarity_nt_char_2082": "clarity_nt_char_2082"
     },
     "6169": {
-        "預かり所ペルル": ""
+        "預かり所ペルル": "Storage Peruru"
     },
     "6170": {
-        "預かり所コライユ": ""
+        "預かり所コライユ": "Storage Koraiu"
     },
     "6171": {
         "clarity_nt_char_2083": "clarity_nt_char_2083"
     },
     "6172": {
-        "預かり所カルバンク": ""
+        "預かり所カルバンク": "Storage Calbank"
     },
     "6173": {
-        "預かり所アレサンド": ""
+        "預かり所アレサンド": "Storage Alessand"
     },
     "6174": {
         "取引商ペリド": "Trader Peridot"
@@ -18555,7 +18555,7 @@
         "clarity_nt_char_2089": "clarity_nt_char_2089"
     },
     "6186": {
-        "郵便局員マカラ": ""
+        "郵便局員マカラ": "Postman Makara"
     },
     "6187": {
         "ヘッグ": ""
@@ -18582,10 +18582,10 @@
         "clarity_nt_char_2091": "clarity_nt_char_2091"
     },
     "6195": {
-        "交換屋シュクル": "Exchange Shop Shukuru"
+        "交換屋シュクル": "Exch. Shop Shukuru"
     },
     "6196": {
-        "交換屋ミエル": "Exchange Shop Miel"
+        "交換屋ミエル": "Exch. Shop Miel"
     },
     "6197": {
         "clarity_nt_char_2092": "clarity_nt_char_2092"
@@ -18648,7 +18648,7 @@
         "駅員ルスク": ""
     },
     "6217": {
-        "入学案内係フラッセ": ""
+        "入学案内係フラッセ": "Admissions Guide Flasse"
     },
     "6218": {
         "レメリ": ""
@@ -19116,7 +19116,7 @@
         "clarity_nt_char_2158": "clarity_nt_char_2158"
     },
     "6373": {
-        "特別郵便局員レチカ": ""
+        "特別郵便局員レチカ": "Special Postman Lechika"
     },
     "6374": {
         "正式名未定": ""
@@ -19179,7 +19179,7 @@
         "剣士テリー": ""
     },
     "6394": {
-        "預かり所ジュエル": ""
+        "預かり所ジュエル": "Storage Jewel"
     },
     "6395": {
         "clarity_nt_char_2166": "clarity_nt_char_2166"
@@ -19542,7 +19542,7 @@
         "ヘヴィーアーマー上": "Heavy Armor Upper"
     },
     "6515": {
-        "交換屋プランセ": "Exchange Shop Planse"
+        "交換屋プランセ": "Exch. Shop Planse"
     },
     "6516": {
         "ごうかテーブル大赤": ""
@@ -19674,7 +19674,7 @@
         "clarity_nt_char_2233": "clarity_nt_char_2233"
     },
     "6559": {
-        "預かり所エーヴ": ""
+        "預かり所エーヴ": "Storage Ave"
     },
     "6560": {
         "紹介人デジレ": "Introducer Desiree"
@@ -19683,7 +19683,7 @@
         "clarity_nt_char_2234": "clarity_nt_char_2234"
     },
     "6562": {
-        "郵便局員ブノワト": ""
+        "郵便局員ブノワト": "Postman Bunwato"
     },
     "6563": {
         "clarity_nt_char_2235": "clarity_nt_char_2235"
@@ -19860,7 +19860,7 @@
         "神官クリロ": ""
     },
     "6621": {
-        "案内係ホーシャ": ""
+        "案内係ホーシャ": "Guide Hosha"
     },
     "6622": {
         "エゼィ": ""
@@ -19998,22 +19998,22 @@
         "clarity_nt_char_2269": "clarity_nt_char_2269"
     },
     "6667": {
-        "預かり所バルバトゥ": ""
+        "預かり所バルバトゥ": "Storage Barbatou"
     },
     "6668": {
-        "郵便局員アレカヒ": ""
+        "郵便局員アレカヒ": "Postman Arekahi"
     },
     "6669": {
         "clarity_nt_char_2270": "clarity_nt_char_2270"
     },
     "6670": {
-        "道具屋マーシト": ""
+        "道具屋マーシト": "Item Shop Mashito"
     },
     "6671": {
         "宿屋ポスーリパ": "Innkeeper Posulipa"
     },
     "6672": {
-        "キンクロス神父": ""
+        "キンクロス神父": "Father Kincross"
     },
     "6673": {
         "紹介人カローズ": "Introducer Kaloze"
@@ -20028,7 +20028,7 @@
         "clarity_nt_char_2271": "clarity_nt_char_2271"
     },
     "6677": {
-        "預かり所エパニエ": ""
+        "預かり所エパニエ": "Storage Epanie"
     },
     "6678": {
         "clarity_nt_char_2272": "clarity_nt_char_2272"
@@ -20292,7 +20292,7 @@
         "フウキの証(壊れ)": ""
     },
     "6765": {
-        "交換屋スラリン": "Exchange Shop Slalin"
+        "交換屋スラリン": "Exch. Shop Slalin"
     },
     "6766": {
         "ヌング": ""
@@ -20685,13 +20685,13 @@
         "神官ズムニ": ""
     },
     "6896": {
-        "案内係ビナヤ": ""
+        "案内係ビナヤ": "Guide Vinaya"
     },
     "6897": {
         "clarity_nt_char_2343": "clarity_nt_char_2343"
     },
     "6898": {
-        "バルザイ神父": ""
+        "バルザイ神父": "Father Balzai"
     },
     "6899": {
         "clarity_nt_char_2344": "clarity_nt_char_2344"
@@ -20883,7 +20883,7 @@
         "住宅商ストロン": ""
     },
     "6962": {
-        "郵便局員ネフラ": ""
+        "郵便局員ネフラ": "Postman Nefura"
     },
     "6963": {
         "幻想画「一宿一飯」": ""
@@ -21126,7 +21126,7 @@
         "命の石": ""
     },
     "7043": {
-        "黄金のあらくれ像": "Rough Gold Statue"
+        "黄金のあらくれ像": "Gold Thug Statue"
     },
     "7044": {
         "clarity_nt_char_2394": "clarity_nt_char_2394"
@@ -21516,19 +21516,19 @@
         "clarity_nt_char_2435": "clarity_nt_char_2435"
     },
     "7173": {
-        "預かり所ニノヤズ": ""
+        "預かり所ニノヤズ": "Storage Ninoyazu"
     },
     "7174": {
         "clarity_nt_char_2436": "clarity_nt_char_2436"
     },
     "7175": {
-        "郵便局員サショラ": ""
+        "郵便局員サショラ": "Postman Sashola"
     },
     "7176": {
         "clarity_nt_char_2437": "clarity_nt_char_2437"
     },
     "7177": {
-        "道具屋アサキバ": ""
+        "道具屋アサキバ": "Item Shop Asakiba"
     },
     "7178": {
         "宿屋マジュトツ": "Innkeeper Madjuttsu"
@@ -21615,7 +21615,7 @@
         "オークショニア": ""
     },
     "7206": {
-        "交換屋カーク": "Exchange Shop Kirk"
+        "交換屋カーク": "Exch. Shop Kirk"
     },
     "7207": {
         "clarity_nt_char_2446": "clarity_nt_char_2446"
@@ -22215,7 +22215,7 @@
         "clarity_nt_char_2516": "clarity_nt_char_2516"
     },
     "7406": {
-        "コルベ神父": ""
+        "コルベ神父": "Father Kolbe"
     },
     "7407": {
         "エテーネ軍の兵士Ａ": ""
@@ -23190,7 +23190,7 @@
         "clarity_nt_char_2560": "clarity_nt_char_2560"
     },
     "7731": {
-        "預かり所シャルギ": ""
+        "預かり所シャルギ": "Storage Shargi"
     },
     "7732": {
         "clarity_nt_char_2561": "clarity_nt_char_2561"
@@ -23226,7 +23226,7 @@
         "魔物管理人アゼルル": ""
     },
     "7743": {
-        "道具屋スライル": ""
+        "道具屋スライル": "Item Shop Surairu"
     },
     "7744": {
         "バシっ娘ルンリィ": "Bazoom Girl Lunry"
@@ -23238,7 +23238,7 @@
         "チェイ": ""
     },
     "7747": {
-        "郵便局員ウイロウ": ""
+        "郵便局員ウイロウ": "Postman Willow"
     },
     "7748": {
         "clarity_nt_char_2567": "clarity_nt_char_2567"
@@ -23268,7 +23268,7 @@
         "clarity_nt_char_2570": "clarity_nt_char_2570"
     },
     "7757": {
-        "案内係ラファーヌ": ""
+        "案内係ラファーヌ": "Guide Rafane"
     },
     "7758": {
         "clarity_nt_char_2571": "clarity_nt_char_2571"
@@ -23280,7 +23280,7 @@
         "clarity_nt_char_2572": "clarity_nt_char_2572"
     },
     "7761": {
-        "魚交換員パピ": ""
+        "魚交換員パピ": "Fish Exch. Papi"
     },
     "7762": {
         "clarity_nt_char_2573": "clarity_nt_char_2573"
@@ -23532,7 +23532,7 @@
         "clarity_nt_char_2602": "clarity_nt_char_2602"
     },
     "7845": {
-        "エッカート神父": ""
+        "エッカート神父": "Father Eckhart"
     },
     "7846": {
         "レリオット": ""
@@ -23604,10 +23604,10 @@
         "シスター・サレーマ": ""
     },
     "7869": {
-        "預かり所ボラス": ""
+        "預かり所ボラス": "Storage Bolas"
     },
     "7870": {
-        "道具屋ビナッテ": ""
+        "道具屋ビナッテ": "Item Shop Vinatte"
     },
     "7871": {
         "取引商モーベン": "Trader Moben"
@@ -23640,7 +23640,7 @@
         "限定交換屋セステル": ""
     },
     "7881": {
-        "ゴルスラ会長": "Chairman Golsla"
+        "ゴルスラ会長": "Chairman Gemsly"
     },
     "7882": {
         "clarity_nt_char_2611": "clarity_nt_char_2611"
@@ -23649,19 +23649,19 @@
         "ロクサーヌ": ""
     },
     "7884": {
-        "案内係ロマンツェ": ""
+        "案内係ロマンツェ": "Guide Romanze"
     },
     "7885": {
         "clarity_nt_char_2612": "clarity_nt_char_2612"
     },
     "7886": {
-        "預かり所エリカ": ""
+        "預かり所エリカ": "Storage Erica"
     },
     "7887": {
         "取引商カッシュ": "Trader Kasshu"
     },
     "7888": {
-        "郵便局員リアンナ": ""
+        "郵便局員リアンナ": "Postman Lianna"
     },
     "7889": {
         "clarity_nt_char_2613": "clarity_nt_char_2613"
@@ -23688,16 +23688,16 @@
         "clarity_nt_char_2616": "clarity_nt_char_2616"
     },
     "7897": {
-        "道具屋ブロド": ""
+        "道具屋ブロド": "Item Shop Burodo"
     },
     "7898": {
         "clarity_nt_char_2617": "clarity_nt_char_2617"
     },
     "7899": {
-        "道具屋ジア": ""
+        "道具屋ジア": "Item Shop Jia"
     },
     "7900": {
-        "魚交換員パラポン": ""
+        "魚交換員パラポン": "Fish Exch. Parapon"
     },
     "7901": {
         "clarity_nt_char_2618": "clarity_nt_char_2618"
@@ -23709,13 +23709,13 @@
         "シスター・バチコワ": ""
     },
     "7904": {
-        "預かり所メドリ": ""
+        "預かり所メドリ": "Storage Medori"
     },
     "7905": {
         "取引商ビルラー": "Trader Biller"
     },
     "7906": {
-        "道具屋ワシコフ": ""
+        "道具屋ワシコフ": "Item Shop Wasikov"
     },
     "7907": {
         "フォンデッテ": ""
@@ -23817,7 +23817,7 @@
         "補給大臣Ｐ": "Sup. Minister P"
     },
     "7940": {
-        "戦場案内係Ｂ": ""
+        "戦場案内係Ｂ": "Combat Guide B"
     },
     "7941": {
         "clarity_nt_char_2630": "clarity_nt_char_2630"
@@ -23868,13 +23868,13 @@
         "clarity_nt_char_2635": "clarity_nt_char_2635"
     },
     "7957": {
-        "ローリン": ""
+        "ローリン": "Lauryn"
     },
     "7958": {
         "clarity_nt_char_2636": "clarity_nt_char_2636"
     },
     "7959": {
-        "バトエン屋コロペン": ""
+        "バトエン屋コロペン": "Batoen Shop Coropen"
     },
     "7960": {
         "ナバーロ": ""
@@ -24222,13 +24222,13 @@
         "clarity_nt_char_2684": "clarity_nt_char_2684"
     },
     "8075": {
-        "ヨコジャン神父": ""
+        "ヨコジャン神父": "Father Yokojan"
     },
     "8076": {
         "宿屋ラデビュー": "Innkeeper Ladebyu"
     },
     "8077": {
-        "道具屋ミャダバ": ""
+        "道具屋ミャダバ": "Item Shop Myadaba"
     },
     "8078": {
         "アルダモン": ""
@@ -24342,10 +24342,10 @@
         "clarity_nt_char_2698": "clarity_nt_char_2698"
     },
     "8115": {
-        "案内係アルゴー": ""
+        "案内係アルゴー": "Guide Argo"
     },
     "8116": {
-        "預かり所デイスン": ""
+        "預かり所デイスン": "Storage Dyson"
     },
     "8117": {
         "clarity_nt_char_2699": "clarity_nt_char_2699"
@@ -24354,7 +24354,7 @@
         "取引商ウロゾス": "Trader Urozos"
     },
     "8119": {
-        "郵便局員マルセン": ""
+        "郵便局員マルセン": "Postman Marsen"
     },
     "8120": {
         "clarity_nt_char_2700": "clarity_nt_char_2700"
@@ -24375,22 +24375,22 @@
         "魔物管理人ドリアス": ""
     },
     "8126": {
-        "道具屋ティロ": ""
+        "道具屋ティロ": "Item Shop Tiro"
     },
     "8127": {
         "clarity_nt_char_2702": "clarity_nt_char_2702"
     },
     "8128": {
-        "道具屋ラカーナ": ""
+        "道具屋ラカーナ": "Item Shop Lacana"
     },
     "8129": {
-        "魚交換員パパルパ": ""
+        "魚交換員パパルパ": "Fish Exch. Paparupa"
     },
     "8130": {
         "clarity_nt_char_2703": "clarity_nt_char_2703"
     },
     "8131": {
-        "預かり所エフォー": ""
+        "預かり所エフォー": "Storage Epho"
     },
     "8132": {
         "clarity_nt_char_2704": "clarity_nt_char_2704"
@@ -24555,13 +24555,13 @@
         "ゼイゴ": ""
     },
     "8186": {
-        "案内係ビレー": ""
+        "案内係ビレー": "Guide Belay"
     },
     "8187": {
         "clarity_nt_char_2723": "clarity_nt_char_2723"
     },
     "8188": {
-        "預かり所ウロック": ""
+        "預かり所ウロック": "Storage Ulock"
     },
     "8189": {
         "clarity_nt_char_2724": "clarity_nt_char_2724"
@@ -24975,13 +24975,13 @@
         "clarity_nt_char_2774": "clarity_nt_char_2774"
     },
     "8326": {
-        "ゴランゾ": ""
+        "ゴランゾ": "Golanzo"
     },
     "8327": {
         "clarity_nt_char_2775": "clarity_nt_char_2775"
     },
     "8328": {
-        "ピンキー": ""
+        "ピンキー": "Pinky"
     },
     "8329": {
         "clarity_nt_char_2776": "clarity_nt_char_2776"
@@ -24993,7 +24993,7 @@
         "clarity_nt_char_2777": "clarity_nt_char_2777"
     },
     "8332": {
-        "ウィーブ": ""
+        "ウィーブ": "Weav"
     },
     "8333": {
         "clarity_nt_char_2778": "clarity_nt_char_2778"
@@ -25191,7 +25191,7 @@
         "clarity_nt_char_2804": "clarity_nt_char_2804"
     },
     "8398": {
-        "パッキュレ神父": ""
+        "パッキュレ神父": "Father Pakkure"
     },
     "8399": {
         "バァツェ": ""
@@ -25251,7 +25251,7 @@
         "魔物管理人リブ": ""
     },
     "8418": {
-        "道具屋モリモリ": ""
+        "道具屋モリモリ": "Item Shop Morimori"
     },
     "8419": {
         "紹介人バッヅ": "Introducer Badz"
@@ -25263,7 +25263,7 @@
         "神官ネムド": "Priest Nemdo"
     },
     "8422": {
-        "郵便局員モニモニ": ""
+        "郵便局員モニモニ": "Postman Monimoni"
     },
     "8423": {
         "clarity_nt_char_2813": "clarity_nt_char_2813"
@@ -25275,16 +25275,16 @@
         "取引商ガイノー": "Trader Gaino"
     },
     "8426": {
-        "預かり所モギィ": ""
+        "預かり所モギィ": "Storage Moggy"
     },
     "8427": {
-        "案内係ナギモ": ""
+        "案内係ナギモ": "Guide Nagimo"
     },
     "8428": {
         "clarity_nt_char_2814": "clarity_nt_char_2814"
     },
     "8429": {
-        "魚交換員プトゥン": ""
+        "魚交換員プトゥン": "Fish Exch. Putun"
     },
     "8430": {
         "clarity_nt_char_2815": "clarity_nt_char_2815"
@@ -25374,10 +25374,10 @@
         "clarity_nt_char_2823": "clarity_nt_char_2823"
     },
     "8459": {
-        "預かり所トィン": ""
+        "預かり所トィン": "Storage Tin"
     },
     "8460": {
-        "道具屋スドラ": ""
+        "道具屋スドラ": "Item Shop Sudra"
     },
     "8461": {
         "clarity_nt_char_2824": "clarity_nt_char_2824"
@@ -25575,13 +25575,13 @@
         "clarity_nt_char_2846": "clarity_nt_char_2846"
     },
     "8526": {
-        "ウッツァ神父": ""
+        "ウッツァ神父": "Father Uzza"
     },
     "8527": {
         "clarity_nt_char_2847": "clarity_nt_char_2847"
     },
     "8528": {
-        "防衛魔神兵０５４号": ""
+        "防衛魔神兵０５４号": "Aztech Guard No. 054"
     },
     "8529": {
         "カック": ""
@@ -25641,7 +25641,7 @@
         "ピワワ": ""
     },
     "8548": {
-        "防衛魔神兵０５３号": ""
+        "防衛魔神兵０５３号": "Aztech Guard No. 053"
     },
     "8549": {
         "ゴトアン": ""
@@ -25728,10 +25728,10 @@
         "ウギツ": ""
     },
     "8577": {
-        "防衛魔神兵０５２号": ""
+        "防衛魔神兵０５２号": "Aztech Guard No. 052"
     },
     "8578": {
-        "防衛魔神兵０５５号": ""
+        "防衛魔神兵０５５号": "Aztech Guard No. 055"
     },
     "8579": {
         "ツォンデム主任": ""
@@ -25767,10 +25767,10 @@
         "０７号": ""
     },
     "8590": {
-        "破壊魔神兵０６９号": ""
+        "破壊魔神兵０６９号": "Aztech Guard No. 069"
     },
     "8591": {
-        "破壊魔神兵０７５号": ""
+        "破壊魔神兵０７５号": "Aztech Guard No. 075"
     },
     "8592": {
         "新作家具屋クレプ": ""
@@ -25845,19 +25845,19 @@
         "パノン": ""
     },
     "8616": {
-        "警備魔神兵０４１号": "Magic Guard Soldier No. 041"
+        "警備魔神兵０４１号": "Aztech Guard No. 041"
     },
     "8617": {
-        "警備魔神兵０４３号": "Magic Guard Soldier No. 043"
+        "警備魔神兵０４３号": "Aztech Guard No. 043"
     },
     "8618": {
         "支援魔神機０２２号": ""
     },
     "8619": {
-        "警備魔神兵０４６号": "Magic Guard Soldier No. 046"
+        "警備魔神兵０４６号": "Aztech Guard No. 046"
     },
     "8620": {
-        "警備魔神兵０４４号": "Magic Guard Soldier No. 044"
+        "警備魔神兵０４４号": "Aztech Guard No. 044"
     },
     "8621": {
         "支援魔神機０２１号": ""
@@ -25878,13 +25878,13 @@
         "支援魔神機０２８号": ""
     },
     "8627": {
-        "警備魔神兵０４２号": "Magic Guard Soldier No. 042"
+        "警備魔神兵０４２号": "Aztech Guard No. 042"
     },
     "8628": {
-        "警備魔神兵０４５号": "Magic Guard Soldier No. 045"
+        "警備魔神兵０４５号": "Aztech Guard No. 045"
     },
     "8629": {
-        "警備魔神兵０４７号": "Magic Guard Soldier No. 047"
+        "警備魔神兵０４７号": "Aztech Guard No. 047"
     },
     "8630": {
         "工匠神グラッフ": ""
@@ -25902,7 +25902,7 @@
         "clarity_nt_char_2875": "clarity_nt_char_2875"
     },
     "8635": {
-        "サフラン": ""
+        "サフラン": "Saffron"
     },
     "8636": {
         "clarity_nt_char_2876": "clarity_nt_char_2876"
@@ -25980,7 +25980,7 @@
         "動力室ペコリア": "Power Room Pekoria"
     },
     "8661": {
-        "防衛魔神兵０５１号": ""
+        "防衛魔神兵０５１号": "Aztech Guard No. 051"
     },
     "8662": {
         "オヤヤ": ""
@@ -26052,7 +26052,7 @@
         "clarity_nt_char_2893": "clarity_nt_char_2893"
     },
     "8685": {
-        "警備魔神兵０４９号": "Magic Guard Soldier No. 049"
+        "警備魔神兵０４９号": "Aztech Guard No. 049"
     },
     "8686": {
         "リリペア": ""
@@ -26067,7 +26067,7 @@
         "clarity_nt_char_2895": "clarity_nt_char_2895"
     },
     "8690": {
-        "防衛魔神兵０５６号": ""
+        "防衛魔神兵０５６号": "Aztech Guard No. 056"
     },
     "8691": {
         "ガラクタ映写機": ""
@@ -26091,7 +26091,7 @@
         "clarity_nt_char_2897": "clarity_nt_char_2897"
     },
     "8698": {
-        "交換屋ベディ": "Exchange Shop Bedi"
+        "交換屋ベディ": "Exch. Shop Bedi"
     },
     "8699": {
         "clarity_nt_char_2898": "clarity_nt_char_2898"
@@ -26100,7 +26100,7 @@
         "バトエンジャー": ""
     },
     "8701": {
-        "預かり所ティーチ": ""
+        "預かり所ティーチ": "Storage Tichi"
     },
     "8702": {
         "clarity_nt_char_2899": "clarity_nt_char_2899"
@@ -26112,13 +26112,13 @@
         "素材屋ティヨン": "Mat. Shop Tyon"
     },
     "8705": {
-        "郵便局員ティゴ": ""
+        "郵便局員ティゴ": "Postman Tigo"
     },
     "8706": {
         "便せん屋ツクシ": "Paper Shop Tsukushi"
     },
     "8707": {
-        "郵便局員カンココ": ""
+        "郵便局員カンココ": "Postman Kancoco"
     },
     "8708": {
         "clarity_nt_char_2900": "clarity_nt_char_2900"
@@ -26238,7 +26238,7 @@
         "clarity_nt_char_2915": "clarity_nt_char_2915"
     },
     "8747": {
-        "道具屋ホハフホ": ""
+        "道具屋ホハフホ": "Item Shop Hohafuho"
     },
     "8748": {
         "便せん屋ペコリア": "Paper Shop Pekoria"
@@ -26247,13 +26247,13 @@
         "clarity_nt_char_2916": "clarity_nt_char_2916"
     },
     "8750": {
-        "郵便局員ヘヘヒヒ": ""
+        "郵便局員ヘヘヒヒ": "Postman Hehehihi"
     },
     "8751": {
         "clarity_nt_char_2917": "clarity_nt_char_2917"
     },
     "8752": {
-        "預かり所ペコリア": "Depository Pekoria"
+        "預かり所ペコリア": "Storage Pekoria"
     },
     "8753": {
         "clarity_nt_char_2918": "clarity_nt_char_2918"
@@ -26277,7 +26277,7 @@
         "clarity_nt_char_2920": "clarity_nt_char_2920"
     },
     "8760": {
-        "案内係ペコリア": "Desk Clerk Pekoria"
+        "案内係ペコリア": "Guide Pekoria"
     },
     "8761": {
         "宿屋フハホフ": "Innkeeper Fuhahofu"
@@ -26295,7 +26295,7 @@
         "魔物管理人ペコリア": "Monster Manager Pekoria"
     },
     "8766": {
-        "道具屋ペコリア": "Tool Shop Pekoria"
+        "道具屋ペコリア": "Item Shop Pekoria"
     },
     "8767": {
         "ヒヘヒヒ": ""
@@ -26436,16 +26436,16 @@
         "clarity_nt_char_2942": "clarity_nt_char_2942"
     },
     "8813": {
-        "ムヤル神父": ""
+        "ムヤル神父": "Father Muyal"
     },
     "8814": {
-        "預かり所トッゴイ": ""
+        "預かり所トッゴイ": "Storage Togoi"
     },
     "8815": {
         "clarity_nt_char_2943": "clarity_nt_char_2943"
     },
     "8816": {
-        "道具屋チケタ": ""
+        "道具屋チケタ": "Item Shop Chiketa"
     },
     "8817": {
         "clarity_nt_char_2944": "clarity_nt_char_2944"
@@ -26499,10 +26499,10 @@
         "clarity_nt_char_2949": "clarity_nt_char_2949"
     },
     "8834": {
-        "預かり所ユチチ": ""
+        "預かり所ユチチ": "Storage Yuchichi"
     },
     "8835": {
-        "道具屋テッカ": ""
+        "道具屋テッカ": "Item Shop Tekka"
     },
     "8836": {
         "clarity_nt_char_2950": "clarity_nt_char_2950"
@@ -26514,7 +26514,7 @@
         "clarity_nt_char_2951": "clarity_nt_char_2951"
     },
     "8839": {
-        "魚交換員プルンパ": ""
+        "魚交換員プルンパ": "Fish Exch. Purunpa"
     },
     "8840": {
         "clarity_nt_char_2952": "clarity_nt_char_2952"
@@ -26526,16 +26526,16 @@
         "clarity_nt_char_2953": "clarity_nt_char_2953"
     },
     "8843": {
-        "道具屋ゴッツオ": ""
+        "道具屋ゴッツオ": "Item Shop Gotsuo"
     },
     "8844": {
-        "防衛魔神兵０５７号": ""
+        "防衛魔神兵０５７号": "Aztech Guard No. 057"
     },
     "8845": {
-        "防衛魔神兵０５９号": ""
+        "防衛魔神兵０５９号": "Aztech Guard No. 059"
     },
     "8846": {
-        "案内係タレレ": ""
+        "案内係タレレ": "Guide Tarere"
     },
     "8847": {
         "clarity_nt_char_2954": "clarity_nt_char_2954"
@@ -26643,7 +26643,7 @@
         "clarity_nt_char_2962": "clarity_nt_char_2962"
     },
     "8882": {
-        "魚交換員ペコリア": "Fish Exchange Pekoria"
+        "魚交換員ペコリア": "Fish Exch. Pekoria"
     },
     "8883": {
         "clarity_nt_char_2963": "clarity_nt_char_2963"
@@ -27195,7 +27195,7 @@
         "clarity_nt_char_3031": "clarity_nt_char_3031"
     },
     "9066": {
-        "交換屋ウリル": "Exchange Shop Uril"
+        "交換屋ウリル": "Exch. Shop Uril"
     },
     "9067": {
         "clarity_nt_char_3032": "clarity_nt_char_3032"
@@ -27288,7 +27288,7 @@
         "取引商チェボン": "Trader Chebon"
     },
     "9097": {
-        "案内係レサニー": ""
+        "案内係レサニー": "Guide Lesani"
     },
     "9098": {
         "神官エワルト": ""
@@ -27315,7 +27315,7 @@
         "clarity_nt_char_3044": "clarity_nt_char_3044"
     },
     "9106": {
-        "預かり所キーラル": ""
+        "預かり所キーラル": "Storage Keeral"
     },
     "9107": {
         "clarity_nt_char_3045": "clarity_nt_char_3045"
@@ -27618,7 +27618,7 @@
         "パッフィー": ""
     },
     "9207": {
-        "預かり所クリスタル": ""
+        "預かり所クリスタル": "Storage Crystal"
     },
     "9208": {
         "よろず屋アメジスト": ""
@@ -27912,10 +27912,10 @@
         "clarity_nt_char_3098": "clarity_nt_char_3098"
     },
     "9305": {
-        "武器屋カマアタ": ""
+        "武器屋カマアタ": "Wep. Shop Kamata"
     },
     "9306": {
-        "防具屋ハリカラ": ""
+        "防具屋ハリカラ": "Armor Shop Harikara"
     },
     "9307": {
         "クロラ": ""
@@ -27966,7 +27966,7 @@
         "clarity_nt_char_3104": "clarity_nt_char_3104"
     },
     "9323": {
-        "道具屋ソノラン": ""
+        "道具屋ソノラン": "Item Shop Sonoran"
     },
     "9324": {
         "素材屋コロレッド": "Mat. Shop Coroled"
@@ -27975,7 +27975,7 @@
         "clarity_nt_char_3105": "clarity_nt_char_3105"
     },
     "9326": {
-        "料理屋モハビ": ""
+        "料理屋モハビ": "Server Mohabi"
     },
     "9327": {
         "clarity_nt_char_3106": "clarity_nt_char_3106"
@@ -28401,19 +28401,19 @@
         "オブジェクト座標290": ""
     },
     "9468": {
-        "タウン案内係ヴィラ": ""
+        "タウン案内係ヴィラ": "Town Guide Vira"
     },
     "9469": {
-        "タウン案内係スミカ": ""
+        "タウン案内係スミカ": "Town Guide Sumika"
     },
     "9470": {
-        "タウン案内係メゾナ": ""
+        "タウン案内係メゾナ": "Town Guide Mezona"
     },
     "9471": {
-        "タウン案内係コポコ": ""
+        "タウン案内係コポコ": "Town Guide Copoco"
     },
     "9472": {
-        "タウン案内係カーサ": ""
+        "タウン案内係カーサ": "Town Guide Casa"
     },
     "9473": {
         "管理人メルテナ": "Caretaker Meltena"
@@ -28509,7 +28509,7 @@
         "clarity_nt_char_3129": "clarity_nt_char_3129"
     },
     "9504": {
-        "交換屋セオラン": "Exchange Shop Theoran"
+        "交換屋セオラン": "Exch. Shop Theoran"
     },
     "9505": {
         "キバリオ": ""
@@ -28884,7 +28884,7 @@
         "clarity_nt_char_3175": "clarity_nt_char_3175"
     },
     "9629": {
-        "預かり所アガット": ""
+        "預かり所アガット": "Storage Agato"
     },
     "9630": {
         "clarity_nt_char_3176": "clarity_nt_char_3176"
@@ -28956,7 +28956,7 @@
         "ツボ屋ポトレア": ""
     },
     "9653": {
-        "武器防具屋ランギー": ""
+        "武器防具屋ランギー": "Gear Shop Langie"
     },
     "9654": {
         "ボルジド": ""
@@ -29043,16 +29043,16 @@
         "ゼドラの影": "Shadow of Zedra"
     },
     "9682": {
-        "案内係ジェルノ": ""
+        "案内係ジェルノ": "Guide Gerno"
     },
     "9683": {
-        "預かり所ブシュラ": ""
+        "預かり所ブシュラ": "Storage Bushra"
     },
     "9684": {
         "clarity_nt_char_3196": "clarity_nt_char_3196"
     },
     "9685": {
-        "道具屋エドメク": ""
+        "道具屋エドメク": "Item Shop Edomek"
     },
     "9686": {
         "神官ザブラル": ""
@@ -29067,16 +29067,16 @@
         "魔物管理人ミグニネ": ""
     },
     "9690": {
-        "道具屋ゼドリグ": ""
+        "道具屋ゼドリグ": "Item Shop Zedrig"
     },
     "9691": {
         "便せん屋グノバ": "Paper Shop Gunova"
     },
     "9692": {
-        "郵便局員ジョレミー": ""
+        "郵便局員ジョレミー": "Postman Joremy"
     },
     "9693": {
-        "魚交換員ビスリン": ""
+        "魚交換員ビスリン": "Fish Exch. Bislin"
     },
     "9694": {
         "clarity_nt_char_3198": "clarity_nt_char_3198"
@@ -29445,19 +29445,19 @@
         "clarity_nt_char_3241": "clarity_nt_char_3241"
     },
     "9816": {
-        "案内係サナム": ""
+        "案内係サナム": "Guide Sanam"
     },
     "9817": {
         "clarity_nt_char_3242": "clarity_nt_char_3242"
     },
     "9818": {
-        "預かり所ミリシェ": ""
+        "預かり所ミリシェ": "Storage Milliche"
     },
     "9819": {
         "clarity_nt_char_3243": "clarity_nt_char_3243"
     },
     "9820": {
-        "料理屋ジャメフ": ""
+        "料理屋ジャメフ": "Server Jamefu"
     },
     "9821": {
         "取引商レダナト": "Trader Redanato"
@@ -29475,16 +29475,16 @@
         "魔物管理人トゥフラ": ""
     },
     "9826": {
-        "道具屋ネグシド": ""
+        "道具屋ネグシド": "Item Shop Negushido"
     },
     "9827": {
-        "郵便局員ワルダー": ""
+        "郵便局員ワルダー": "Postman Walder"
     },
     "9828": {
         "clarity_nt_char_3245": "clarity_nt_char_3245"
     },
     "9829": {
-        "魚交換員ターラタ": ""
+        "魚交換員ターラタ": "Fish Exch. Tarata"
     },
     "9830": {
         "clarity_nt_char_3246": "clarity_nt_char_3246"
@@ -29517,13 +29517,13 @@
         "clarity_nt_char_3250": "clarity_nt_char_3250"
     },
     "9840": {
-        "預かり所ガリュア": ""
+        "預かり所ガリュア": "Storage Garua"
     },
     "9841": {
         "clarity_nt_char_3251": "clarity_nt_char_3251"
     },
     "9842": {
-        "道具屋デニエス": ""
+        "道具屋デニエス": "Item Shop Denies"
     },
     "9843": {
         "取引商アガジル": "Trader Agajiru"
@@ -29625,7 +29625,7 @@
         "clarity_nt_char_3260": "clarity_nt_char_3260"
     },
     "9876": {
-        "預かり所ヤムジク": ""
+        "預かり所ヤムジク": "Storage Yamujiku"
     },
     "9877": {
         "clarity_nt_char_3261": "clarity_nt_char_3261"
@@ -29787,7 +29787,7 @@
         "clarity_nt_char_3281": "clarity_nt_char_3281"
     },
     "9930": {
-        "道具屋ナクダス": ""
+        "道具屋ナクダス": "Item Shop Nakudas"
     },
     "9931": {
         "宿屋イヨルカ": "Innkeeper Iyorka"
@@ -29805,7 +29805,7 @@
         "取引商ルダーン": "Trader Rudan"
     },
     "9936": {
-        "預かり所ザニフ": ""
+        "預かり所ザニフ": "Storage Zanifu"
     },
     "9937": {
         "サヨ": ""
@@ -29826,10 +29826,10 @@
         "集計係モカ": ""
     },
     "9943": {
-        "案内係ケディヤ": ""
+        "案内係ケディヤ": "Guide Kediya"
     },
     "9944": {
-        "預かり所ズグラム": ""
+        "預かり所ズグラム": "Storage Zugram"
     },
     "9945": {
         "clarity_nt_char_3286": "clarity_nt_char_3286"
@@ -29847,7 +29847,7 @@
         "clarity_nt_char_3288": "clarity_nt_char_3288"
     },
     "9950": {
-        "道具屋ブーボス": ""
+        "道具屋ブーボス": "Item Shop Bubos"
     },
     "9951": {
         "便せん屋メビシェ": "Paper Shop Mebishe"
@@ -29856,10 +29856,10 @@
         "clarity_nt_char_3289": "clarity_nt_char_3289"
     },
     "9953": {
-        "郵便局員シジュ": ""
+        "郵便局員シジュ": "Postman Shiju"
     },
     "9954": {
-        "魚交換員ビンチュ": ""
+        "魚交換員ビンチュ": "Fish Exch. Bincho"
     },
     "9955": {
         "clarity_nt_char_3290": "clarity_nt_char_3290"
@@ -30219,16 +30219,16 @@
         "clarity_nt_char_3336": "clarity_nt_char_3336"
     },
     "10074": {
-        "案内係ムタデマ": ""
+        "案内係ムタデマ": "Guide Mutadema"
     },
     "10075": {
-        "預かり所ボルリラ": ""
+        "預かり所ボルリラ": "Storage Borrilla"
     },
     "10076": {
         "clarity_nt_char_3337": "clarity_nt_char_3337"
     },
     "10077": {
-        "道具屋デオルケ": ""
+        "道具屋デオルケ": "Item Shop Deorque"
     },
     "10078": {
         "取引商ブルベラ": "Trader Brubera"
@@ -30243,16 +30243,16 @@
         "魔物管理人グーボレ": ""
     },
     "10082": {
-        "道具屋ネゾンネ": ""
+        "道具屋ネゾンネ": "Item Shop Nezone"
     },
     "10083": {
-        "郵便局員ジヌデル": ""
+        "郵便局員ジヌデル": "Postman Shinderu"
     },
     "10084": {
         "clarity_nt_char_3338": "clarity_nt_char_3338"
     },
     "10085": {
-        "魚交換員ビコメチ": ""
+        "魚交換員ビコメチ": "Fish Exch. Bikomechi"
     },
     "10086": {
         "clarity_nt_char_3339": "clarity_nt_char_3339"
@@ -30774,13 +30774,13 @@
         "取引商イグラン": "Trader Igran"
     },
     "10259": {
-        "預かり所ボラデュ": ""
+        "預かり所ボラデュ": "Storage Boradu"
     },
     "10260": {
         "clarity_nt_char_3389": "clarity_nt_char_3389"
     },
     "10261": {
-        "道具屋マクトゥ": ""
+        "道具屋マクトゥ": "Item Shop Maktu"
     },
     "10262": {
         "カーボーン将軍": "General Carbone"
@@ -30900,7 +30900,7 @@
         "clarity_nt_char_3403": "clarity_nt_char_3403"
     },
     "10301": {
-        "交換屋スノッリ": "Exchange Shop Sunori"
+        "交換屋スノッリ": "Exch. Shop Sunori"
     },
     "10302": {
         "宿屋アレイダ": "Innkeeper Aleida"
@@ -30909,13 +30909,13 @@
         "clarity_nt_char_3404": "clarity_nt_char_3404"
     },
     "10304": {
-        "預かり所オリジェ": ""
+        "預かり所オリジェ": "Storage Orige"
     },
     "10305": {
         "clarity_nt_char_3405": "clarity_nt_char_3405"
     },
     "10306": {
-        "道具屋ニジャル": ""
+        "道具屋ニジャル": "Item Shop Nushal"
     },
     "10307": {
         "取引商ビノアス": "Trader Vinoas"
@@ -30927,13 +30927,13 @@
         "clarity_nt_char_3406": "clarity_nt_char_3406"
     },
     "10310": {
-        "案内係ノレイジャ": ""
+        "案内係ノレイジャ": "Guide Noreija"
     },
     "10311": {
         "clarity_nt_char_3407": "clarity_nt_char_3407"
     },
     "10312": {
-        "預かり所メビータ": ""
+        "預かり所メビータ": "Storage Mebita"
     },
     "10313": {
         "clarity_nt_char_3408": "clarity_nt_char_3408"
@@ -30954,7 +30954,7 @@
         "魔物管理人マビシア": ""
     },
     "10319": {
-        "道具屋ロッガ": ""
+        "道具屋ロッガ": "Item Shop Logga"
     },
     "10320": {
         "clarity_nt_char_3409": "clarity_nt_char_3409"
@@ -30966,10 +30966,10 @@
         "clarity_nt_char_3410": "clarity_nt_char_3410"
     },
     "10323": {
-        "郵便局員ナズマ": ""
+        "郵便局員ナズマ": "Postman Nazuma"
     },
     "10324": {
-        "魚交換員グナクー": ""
+        "魚交換員グナクー": "Fish Exch. Gunaku"
     },
     "10325": {
         "clarity_nt_char_3411": "clarity_nt_char_3411"
@@ -30981,7 +30981,7 @@
         "clarity_nt_char_3412": "clarity_nt_char_3412"
     },
     "10328": {
-        "交換屋チャリリ": "Exchange Shop Chariri"
+        "交換屋チャリリ": "Exch. Shop Chariri"
     },
     "10329": {
         "交換屋レロネ": "Exch. Shop Lelone"
@@ -31371,16 +31371,16 @@
         "宿屋チカリ": "Innkpr. Chikari"
     },
     "10458": {
-        "案内係ノーテス": ""
+        "案内係ノーテス": "Guide Notes"
     },
     "10459": {
-        "預かり所サクニナ": ""
+        "預かり所サクニナ": "Storage Sakunina"
     },
     "10460": {
         "clarity_nt_char_3459": "clarity_nt_char_3459"
     },
     "10461": {
-        "道具屋イツィオ": ""
+        "道具屋イツィオ": "Item Shop Izio"
     },
     "10462": {
         "取引商シャポラ": "Trader Shapora"
@@ -31395,7 +31395,7 @@
         "clarity_nt_char_3460": "clarity_nt_char_3460"
     },
     "10466": {
-        "道具屋クチバ": ""
+        "道具屋クチバ": "Item Shop Kuchiba"
     },
     "10467": {
         "clarity_nt_char_3461": "clarity_nt_char_3461"
@@ -31437,7 +31437,7 @@
         "clarity_nt_char_3465": "clarity_nt_char_3465"
     },
     "10480": {
-        "預かり所エン": ""
+        "預かり所エン": "Storage Enn"
     },
     "10481": {
         "clarity_nt_char_3466": "clarity_nt_char_3466"
@@ -31596,7 +31596,7 @@
         "レシピ屋モルザ": "Recipe Shop Morza"
     },
     "10533": {
-        "預かり所ラフィー": ""
+        "預かり所ラフィー": "Storage Rafi"
     },
     "10534": {
         "clarity_nt_char_3490": "clarity_nt_char_3490"
@@ -31650,7 +31650,7 @@
         "ナナレ": ""
     },
     "10551": {
-        "破壊魔神兵０７１号": ""
+        "破壊魔神兵０７１号": "Aztech Guard No. 071"
     },
     "10552": {
         "０６号": ""
@@ -31881,7 +31881,7 @@
         "clarity_nt_char_3520": "clarity_nt_char_3520"
     },
     "10628": {
-        "預かり所ラリッサ": ""
+        "預かり所ラリッサ": "Storage Larissa"
     },
     "10629": {
         "clarity_nt_char_3521": "clarity_nt_char_3521"

@@ -6231,25 +6231,25 @@
         "【180P】バイキルショット+8%": "[180P] Oomphlash +8%"
     },
     "2078": {
-        "悶絶全方打ちⅠ": "All Out AggressionⅠ"
+        "悶絶全方打ちⅠ": "All Out AggroⅠ"
     },
     "2079": {
-        "悶絶全方打ちⅡ": "All Out AggressionⅡ"
+        "悶絶全方打ちⅡ": "All Out AggroⅡ"
     },
     "2080": {
-        "【160P】悶絶全方打ち+2%": "[160P] All Out Aggression +2%"
+        "【160P】悶絶全方打ち+2%": "[160P] All Out Aggro +2%"
     },
     "2081": {
-        "【170P】悶絶全方打ち+2%": "[170P] All Out Aggression +2%"
+        "【170P】悶絶全方打ち+2%": "[170P] All Out Aggro +2%"
     },
     "2082": {
-        "【180P】悶絶全方打ち+2%": "[180P] All Out Aggression +2%"
+        "【180P】悶絶全方打ち+2%": "[180P] All Out Aggro +2%"
     },
     "2083": {
-        "【190P】悶絶全方打ち+2%": "[190P] All Out Aggression +2%"
+        "【190P】悶絶全方打ち+2%": "[190P] All Out Aggro +2%"
     },
     "2084": {
-        "【200P】悶絶全方打ち+5%": "[200P] All Out Aggression +5%"
+        "【200P】悶絶全方打ち+5%": "[200P] All Out Aggro +5%"
     },
     "2085": {
         "【190P】状態異常成功率+100%": "[190P] Status Effect Success +100%"
@@ -9921,10 +9921,10 @@
         "バイキルショット+8%": "Oomphlash +8%"
     },
     "3308": {
-        "悶絶全方打ち+2%": "All Out Aggression+2%"
+        "悶絶全方打ち+2%": "All Out Aggro+2%"
     },
     "3309": {
-        "悶絶全方打ち+5%": "All Out Aggression+5%"
+        "悶絶全方打ち+5%": "All Out Aggro+5%"
     },
     "3310": {
         "キラーブーン+10%": "Fly Swat +10%"
@@ -12153,13 +12153,13 @@
         "clarity_nt_char_1377": "clarity_nt_char_1377"
     },
     "4052": {
-        "悶絶全方打ちⅠの特技を　おぼえた！": "You learned All Out Aggression Ⅰ!"
+        "悶絶全方打ちⅠの特技を　おぼえた！": "You learned All Out Aggro Ⅰ!"
     },
     "4053": {
-        "悶絶全方打ちⅡの特技を　おぼえた！": "You learned All Out Aggression Ⅱ!"
+        "悶絶全方打ちⅡの特技を　おぼえた！": "You learned All Out Aggro Ⅱ!"
     },
     "4054": {
-        "悶絶全方打ちの威力が　あがった！": "All Out Aggression's power increased!"
+        "悶絶全方打ちの威力が　あがった！": "All Out Aggro's power increased!"
     },
     "4055": {
         "clarity_nt_char_1378": "clarity_nt_char_1378"
@@ -18738,13 +18738,13 @@
         "バイキルショットの強化": "Oomphlash Boost"
     },
     "6247": {
-        "悶絶全方打ち": "All Out Aggression"
+        "悶絶全方打ち": "All Out Aggro"
     },
     "6248": {
         "clarity_nt_char_2139": "clarity_nt_char_2139"
     },
     "6249": {
-        "悶絶全方打ちの強化": "All Out Aggression Boost"
+        "悶絶全方打ちの強化": "All Out Aggro Boost"
     },
     "6250": {
         "オネロスハント": "Oneros Hunt"
