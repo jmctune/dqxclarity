@@ -2844,13 +2844,13 @@
         "clarity_nt_char_948": "clarity_nt_char_948"
     },
     "949": {
-        "打撃攻撃のダメージ上昇": "Physical damage taken up!"
+        "打撃攻撃のダメージ上昇": "Physical damage taken ↑"
     },
     "950": {
         "呪文攻撃のダメージ上昇": "Spell damage dealt up!"
     },
     "951": {
-        "打撃で受けるダメージ減": "Reduced Physical damage taken!"
+        "打撃で受けるダメージ減": "Physical damage taken ↓"
     },
     "952": {
         "呪文で受けるダメージ減": "Spell damage taken ↓"
