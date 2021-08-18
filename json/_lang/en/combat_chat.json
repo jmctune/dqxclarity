@@ -26289,7 +26289,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の回復力が 少し さがった！": ""
     },
     "8764": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは \\s<%sB_TARGET2>\\m<%sB_TARGET2_ID>\\eに 怒った！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは \\s<%sB_TARGET2>\\m<%sB_TARGET2_ID>\\eに 怒った！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is angry at \\s<%sB_TARGET2>\\m<%sB_TARGET2_ID>\\e!"
     },
     "8765": {
         "clarity_nt_char_2922": "clarity_nt_char_2922"
