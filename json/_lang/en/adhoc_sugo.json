@@ -39,7 +39,7 @@
         "<%sCAS_item>を　手に入れた！": "Received <%sCAS_item>!"
     },
     "14": {
-        "<%sCAS_gambler>は|<%nM_coin>枚の　カジノコインをかくとく！": "<%sCAS_gambler> received <%nM_coin>|Casino Coins!"
+        "<%sCAS_gambler>は|<%nM_coin>枚の　カジノコインをかくとく！": "<%sCAS_gambler> received <%dM_coin> Casino Coins!"
     },
     "15": {
         "<%sCAS_gambler>は|<%nM_exp>の　経験値をかくとく！": "<%sCAS_gambler> received <%dM_exp> EXP!"

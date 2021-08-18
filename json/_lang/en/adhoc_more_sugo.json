@@ -1188,7 +1188,7 @@
         "clarity_nt_char_396": "clarity_nt_char_396"
     },
     "397": {
-        "<%sCAS_target>に|<%sCAS_action>！": "%sCAS_action> on|<%sCAS_target>!"
+        "<%sCAS_target>に|<%sCAS_action>！": "<%sCAS_action> on|<%sCAS_target>!"
     },
     "398": {
         "グラグラしている": "Wobbling around..."
