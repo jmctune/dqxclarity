@@ -558,7 +558,7 @@
         "「む？　オマエ　呪われてない。|<bw_break>": ""
     },
     "187": {
-        "「む？　<%sL_DOKU_PCNAME>|　呪われてない。|<bw_break>": ""
+        "「む？　<%sL_DOKU_PCNAME>|　呪われてない。|<bw_break>": "Hm? <%sL_DOKU_PCNAME> is not cursed.|<bw_break>"
     },
     "188": {
         "「む？　オマエの仲間。|　誰も　呪われてない。|<bw_break>": ""
