@@ -30,7 +30,7 @@
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>か。|　こいつは　<%sL_SYOKUNIN>じゃないと|　装備できないが　いいんだな？|<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>, was it?|You can't equip this as a <%sL_SYOKUNIN>.|Do you wanna buy it anyway?|<yesno><break>"
     },
     "11": {
-        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>は|　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に|　装備する物だが　いいかね？|<yesno><break>": ""
+        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>は|　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に|　装備する物だが　いいかね？|<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM> is equipped|in <%sL_EQUIP_POINT1> and <%sL_EQUIP_POINT2> already.|That okay?|<yesno><break>"
     },
     "12": {
         "「まいどありぃ！|　ここで　装備していくかね？|<yesno 2><break>": ""
