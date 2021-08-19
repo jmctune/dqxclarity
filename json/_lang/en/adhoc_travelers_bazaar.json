@@ -51,7 +51,7 @@
         "「まいどありぃ！|<bw_break>": "Many thanks!|<bw_break>"
     },
     "18": {
-        "「出品を　受け付けたぜ！　<%nL_HOUR>時間たっても|　買い手が見つからなかったら　郵便で|　商品を　送り返すけど　許してくれよ。|<bw_break>": ""
+        "「出品を　受け付けたぜ！　<%nL_HOUR>時間たっても|　買い手が見つからなかったら　郵便で|　商品を　送り返すけど　許してくれよ。|<bw_break>": "I put it up for sale for ya!|If someone doesn't buy it within <%dL_HOUR>|hours, I'll have to send it back. Sorry.||<bw_break>"
     },
     "19": {
         "「おいおい　<%sL_STORAGE>が　いっぱいで|　持ちきれないみたいだぜっ。|<bw_break>": "Hey, hey, your <%sL_STORAGE> is full!|You can't carry this!|<bw_break>"
