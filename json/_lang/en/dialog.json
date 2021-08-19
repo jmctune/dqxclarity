@@ -4221,7 +4221,7 @@
         "clarity_nt_char_471": "clarity_nt_char_471"
     },
     "1408": {
-        "<speed=0><%sM_PTMember>が　そろいました。<break>": ""
+        "<speed=0><%sM_PTMember>が　そろいました。<break>": "<speed=0><%sM_PTMember> has gathered.<break>"
     },
     "1409": {
         "<speed=0>さそいを受けられない人がいます。|一緒に行かない人は　ここで|仲間から外れますが　よろしいですか？<yesno><close>": ""
