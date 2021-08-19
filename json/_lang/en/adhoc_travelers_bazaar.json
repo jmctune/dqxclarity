@@ -105,10 +105,10 @@
         "「これは　<%sL_URINUSI>さんが|　<%'nL_BUY_PRICE>ゴールドで出品している|　<%sL_KAITAI_ITEM><%sL_PLUSNUM>だけど　買うかい？|<yesno><break>": "Do you wanna buy the <%sL_KAITAI_ITEM><%sL_PLUSNUM>|being sold by <%sL_URINUSI> for|<%'dL_BUY_PRICE> Gold?|<yesno><break>"
     },
     "36": {
-        "「これは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　ひとつだね。|　<%'nL_BUY_PRICE>ゴールドで　買うかい？|<yesno><break>": ""
+        "「これは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　ひとつだね。|　<%'nL_BUY_PRICE>ゴールドで　買うかい？|<yesno><break>": "Looks like <%sL_URINUSI> listed one|<%sL_KAITAI_ITEM> for <%'dL_BUY_PRICE> Gold.|Do you wanna buy it?|<yesno><break>"
     },
     "37": {
-        "「これは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　<%nL_KAUKAZU>個だね。|　<%'nL_BUY_PRICE>ゴールドで　買うかい？|<yesno><break>": ""
+        "「これは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　<%nL_KAUKAZU>個だね。|　<%'nL_BUY_PRICE>ゴールドで　買うかい？|<yesno><break>": "Looks like <%sL_URINUSI> is selling <%dL_KAUKAZU>|<%sL_KAITAI_ITEM> for <%'dL_BUY_PRICE> Gold.|Do you wanna buy it?|<yesno><break>"
     },
     "38": {
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>だね？|　これは　<%sL_GENDER>の人じゃないと|　装備できないけど　いいかい？|<yesno><break>": ""
