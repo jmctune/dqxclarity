@@ -111,7 +111,7 @@
         "「これは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　<%nL_KAUKAZU>個だね。|　<%'nL_BUY_PRICE>ゴールドで　買うかい？|<yesno><break>": "Looks like <%sL_URINUSI> is selling <%dL_KAUKAZU>|<%sL_KAITAI_ITEM> for <%'dL_BUY_PRICE> Gold.|Do you wanna buy it?|<yesno><break>"
     },
     "38": {
-        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>だね？|　これは　<%sL_GENDER>の人じゃないと|　装備できないけど　いいかい？|<yesno><break>": ""
+        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>だね？|　これは　<%sL_GENDER>の人じゃないと|　装備できないけど　いいかい？|<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>, was it?|This item is for <%sL_GENDER>s, so you can't|equip it. Is that okay with you?|<yesno><break>"
     },
     "39": {
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>だね？|　これは　お客さんの職業だと|　装備できないけど　いいかい？|<yesno><break>": ""
