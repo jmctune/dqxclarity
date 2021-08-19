@@ -129,10 +129,10 @@
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>は|　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に|　装備する物だけど　構わないかい？|<yesno><break>": ""
     },
     "44": {
-        "「どうもありがとう！|　すぐに　装備していくかい？|<yesno 2><break>": ""
+        "「どうもありがとう！|　すぐに　装備していくかい？|<yesno 2><break>": "Thanks a bunch! Want to equip it now?|<yesno 2><break>"
     },
     "45": {
-        "「他に出品したい物は　あるかい？|<break>": ""
+        "「他に出品したい物は　あるかい？|<break>": "Is there anything else you want to sell?|<break>"
     },
     "46": {
         "「あと<%nL_SYUPPIN>品　出品できるけど|　まだ　何か出品するかい？|<break>": ""
