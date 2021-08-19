@@ -18,10 +18,10 @@
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>か。|　こいつは　<%sL_GENDER>じゃないと|　装備できないが　いいんだな？|<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>, was it?|You're <%sL_GENDER>, so you can't equip|it. Do you still want to buy it anyway?|<yesno><break>"
     },
     "7": {
-        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>か。|　こいつは　お客さんの職業だと|　装備できないが　いいんだな？|<yesno><break>": ""
+        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>か。|　こいつは　お客さんの職業だと|　装備できないが　いいんだな？|<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>, was it?|Your current vocation can't equip it.|Do you want to buy it anyway?|<yesno><break>"
     },
     "8": {
-        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>か。|　こいつは　お客さんのレベルじゃ|　まだ装備できないが　いいんだな？|<yesno><break>": ""
+        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>か。|　こいつは　お客さんのレベルじゃ|　まだ装備できないが　いいんだな？|<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>, was it?|You can't equip this at your current level.|Do you still want to buy it anyway?|<yesno><break>"
     },
     "9": {
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>か。|　こいつは　<%sL_RACE>じゃないと|　装備できないが　いいんだな？|<yesno><break>": ""
