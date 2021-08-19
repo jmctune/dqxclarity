@@ -48,7 +48,7 @@
         "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": "<speed=0><pc> equipped the|<%sL_KAITAI_ITEM><%sL_PLUSNUM>!|<end>"
     },
     "17": {
-        "「まいどありぃ！|<bw_break>": "Thank you!|<bw_break>"
+        "「まいどありぃ！|<bw_break>": "Many thanks!|<bw_break>"
     },
     "18": {
         "「出品を　受け付けたぜ！　<%nL_HOUR>時間たっても|　買い手が見つからなかったら　郵便で|　商品を　送り返すけど　許してくれよ。|<bw_break>": ""
@@ -57,7 +57,7 @@
         "「おいおい　<%sL_STORAGE>が　いっぱいで|　持ちきれないみたいだぜっ。|<bw_break>": "Hey, hey, your <%sL_STORAGE> is full!|You can't carry this!|<bw_break>"
     },
     "20": {
-        "「うおっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないぜ！？|<bw_break>": ""
+        "「うおっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないぜ！？|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed|and it can't be taken off?!|<bw_break>"
     },
     "21": {
         "「おいおい　お客さん|　出品できる物を　何も|　持ってない　じゃないか。|<bw_break>": ""
