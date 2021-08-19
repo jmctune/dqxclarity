@@ -39,13 +39,13 @@
         "「他に出品したい物は　あるか？|<break>": "Any other items you'd like to sell?|<break>"
     },
     "14": {
-        "「あと<%nL_SYUPPIN>品　出品できるが|　まだ　出品するかね？|<break>": ""
+        "「あと<%nL_SYUPPIN>品　出品できるが|　まだ　出品するかね？|<break>": "You can list <%nL_SYUPPIN> more items to sell.|What else do you want to sell?|<break>"
     },
     "15": {
         "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
     },
     "16": {
-        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": ""
+        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": "<speed=0><pc> equipped the|<%sL_KAITAI_ITEM><%sL_PLUSNUM>!|<end>"
     },
     "17": {
         "「まいどありぃ！|<bw_break>": "Thank you!|<bw_break>"
