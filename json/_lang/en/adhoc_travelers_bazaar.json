@@ -15,7 +15,7 @@
         "「こいつは　<%sL_URINUSI>が　出品した|　<%sL_KAITAI_ITEM>　<%nL_KAUKAZU>個だな。|　<%'nL_BUY_PRICE>ゴールドだが　買うか？|<yesno><break>": "Looks like <%sL_URINUSI>'s selling <%dL_KAUKAZU>|of those <%sL_KAITAI_ITEM>.|Do you want to buy it for <%'dL_BUY_PRICE> Gold?|<yesno><break>"
     },
     "6": {
-        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>か。|　こいつは　<%sL_GENDER>じゃないと|　装備できないが　いいんだな？|<yesno><break>": ""
+        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>か。|　こいつは　<%sL_GENDER>じゃないと|　装備できないが　いいんだな？|<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>, was it?|You're <%sL_GENDER>, so you can't equip|it. Do you still want to buy it anyway?|<yesno><break>"
     },
     "7": {
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>か。|　こいつは　お客さんの職業だと|　装備できないが　いいんだな？|<yesno><break>": ""
