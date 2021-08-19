@@ -60,10 +60,10 @@
         "「うおっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないぜ！？|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed|and it can't be taken off?!|<bw_break>"
     },
     "21": {
-        "「おいおい　お客さん|　出品できる物を　何も|　持ってない　じゃないか。|<bw_break>": ""
+        "「おいおい　お客さん|　出品できる物を　何も|　持ってない　じゃないか。|<bw_break>": "Hey! You don't have anything you can|put up for sale.|<bw_break>"
     },
     "22": {
-        "「その数は　選べないぜ！|<bw_break>": ""
+        "「その数は　選べないぜ！|<bw_break>": "You can't choose that number!|<bw_break>"
     },
     "23": {
         "「おいおい　そいつを買うには|　お金が　足りないぜっ。|　他の物に　してくれよ。|<bw_break>": ""
