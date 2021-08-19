@@ -90,7 +90,7 @@
         "「やめるんだな。|　じゃ　他の物を出品するかね？|<break>": "Alright, then.|Anything else you want to sell?|<break>"
     },
     "31": {
-        "「あと<%nL_SYUPPIN>品　出品できるぜ。|　どれを　出品するんだ？|<break>": ""
+        "「あと<%nL_SYUPPIN>品　出品できるぜ。|　どれを　出品するんだ？|<break>": "You can list <%nL_SYUPPIN> more items.|Which do you want to sell?|<break>"
     },
     "32": {
         "「こいつは　装備してれば|　戦いのときに　どうぐとして使っても|　効果があるぜ！|<bw_break>": ""
