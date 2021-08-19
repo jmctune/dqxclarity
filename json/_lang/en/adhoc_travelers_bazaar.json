@@ -102,7 +102,7 @@
         "「まだ何か　買ってくかい？|<bw_break>": "Anything else you wanna buy?|<bw_break>"
     },
     "35": {
-        "「これは　<%sL_URINUSI>さんが|　<%'nL_BUY_PRICE>ゴールドで出品している|　<%sL_KAITAI_ITEM><%sL_PLUSNUM>だけど　買うかい？|<yesno><break>": ""
+        "「これは　<%sL_URINUSI>さんが|　<%'nL_BUY_PRICE>ゴールドで出品している|　<%sL_KAITAI_ITEM><%sL_PLUSNUM>だけど　買うかい？|<yesno><break>": "Do you wanna buy the <%sL_KAITAI_ITEM><%sL_PLUSNUM>|being sold by <%sL_URINUSI> for|<%'dL_BUY_PRICE> Gold?|<yesno><break>"
     },
     "36": {
         "「これは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　ひとつだね。|　<%'nL_BUY_PRICE>ゴールドで　買うかい？|<yesno><break>": ""
