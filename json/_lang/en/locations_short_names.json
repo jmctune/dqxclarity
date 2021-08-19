@@ -4791,7 +4791,7 @@
         "clarity_nt_char_501": "clarity_nt_char_501"
     },
     "1598": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>１階-礼拝堂": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>１階-礼拝堂": "<%sW_MAP_NAME><%sW_DELIMITER>1F Chapel"
     },
     "1599": {
         "古き神の遺跡 入口": ""
@@ -12003,10 +12003,10 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>喪亡の路": "<%sW_MAP_NAME><%sW_DELIMITER>Mourn's Road"
     },
     "4002": {
-        "亡国の礼拝堂 出口": ""
+        "亡国の礼拝堂 出口": "Exiled Chapel Exit"
     },
     "4003": {
-        "亡国の礼拝堂 入口": ""
+        "亡国の礼拝堂 入口": "Exiled Chapel Entry"
     },
     "4004": {
         "真グランゼドーラ王国": ""
