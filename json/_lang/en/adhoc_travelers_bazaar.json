@@ -99,7 +99,7 @@
         "「他にも　用はあるかい？|<break>": "Anything else you need?|<break>"
     },
     "34": {
-        "「まだ何か　買ってくかい？|<bw_break>": ""
+        "「まだ何か　買ってくかい？|<bw_break>": "Anything else you wanna buy?|<bw_break>"
     },
     "35": {
         "「これは　<%sL_URINUSI>さんが|　<%'nL_BUY_PRICE>ゴールドで出品している|　<%sL_KAITAI_ITEM><%sL_PLUSNUM>だけど　買うかい？|<yesno><break>": ""
