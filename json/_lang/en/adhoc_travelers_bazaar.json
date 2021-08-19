@@ -81,10 +81,10 @@
         "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "28": {
-        "「じゃあ　そうびぶくろの中に|　入れておくぜっ。|<bw_break>": ""
+        "「じゃあ　そうびぶくろの中に|　入れておくぜっ。|<bw_break>": "I'll go ahead and put it in your equipment|bag.|<bw_break>"
     },
     "29": {
-        "「なんだ　やめるのか。|　他に　ほしい物は　あるかね？|<bw_break>": ""
+        "「なんだ　やめるのか。|　他に　ほしい物は　あるかね？|<bw_break>": "What, you're quitting?|Is there anything else you want?|<bw_break>"
     },
     "30": {
         "「やめるんだな。|　じゃ　他の物を出品するかね？|<break>": ""
