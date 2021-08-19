@@ -3945,7 +3945,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eから スボバに 誘われました!": "Snowball Battle invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "1316": {
-        "スボバへの誘いが 時間切れになりました": ""
+        "スボバへの誘いが 時間切れになりました": "Snowball Battle invitation timed out."
     },
     "1317": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eが スボバへの誘いを 取り消した": ""
