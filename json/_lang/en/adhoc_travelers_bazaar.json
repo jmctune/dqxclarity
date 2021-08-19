@@ -54,7 +54,7 @@
         "「出品を　受け付けたぜ！　<%nL_HOUR>時間たっても|　買い手が見つからなかったら　郵便で|　商品を　送り返すけど　許してくれよ。|<bw_break>": ""
     },
     "19": {
-        "「おいおい　<%sL_STORAGE>が　いっぱいで|　持ちきれないみたいだぜっ。|<bw_break>": ""
+        "「おいおい　<%sL_STORAGE>が　いっぱいで|　持ちきれないみたいだぜっ。|<bw_break>": "Hey, hey, your <%sL_STORAGE> is full!|You can't carry this!|<bw_break>"
     },
     "20": {
         "「うおっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないぜ！？|<bw_break>": ""
@@ -75,7 +75,7 @@
         "「また　来てくれよなっ！|<turn_end>": ""
     },
     "26": {
-        "「ここは　旅人バザーだ。|　なんの用だい？|<break>": ""
+        "「ここは　旅人バザーだ。|　なんの用だい？|<break>": "This is the Traveler's Bazaar. How can I|help ya?|<break>"
     },
     "27": {
         "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
