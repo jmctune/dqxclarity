@@ -3048,7 +3048,7 @@
         "どのホールに　行きますか？|今いるホールは『%sM_hole』です。<break>": ""
     },
     "1017": {
-        "どこに　行きますか？<break>": ""
+        "どこに　行きますか？<break>": "Where do you want to go?<break>"
     },
     "1018": {
         "どのサーバーに　戻りますか？<break>": "Which server should I return to?<break>"
