@@ -222,7 +222,7 @@
         "「それでは　新しい倉庫名を入力してください。|<break>": "Then, enter the new warehouse name you'd like.|<break>"
     },
     "75": {
-        "「新しい倉庫名を入力してください。|<break>": ""
+        "「新しい倉庫名を入力してください。|<break>": "Please enter a new warehouse name.|<break>"
     },
     "76": {
         "「倉庫の名前を　変更いたしました。|　他にも　名前を変えたい倉庫は|　ありますか？|<break>": ""
@@ -627,7 +627,7 @@
         "「それでは　新しい倉庫名を入力してください。|<break>": "Then, enter the new warehouse name you'd like.|<break>"
     },
     "210": {
-        "「新しい倉庫名を入力してください。|<break>": ""
+        "「新しい倉庫名を入力してください。|<break>": "Please enter a new warehouse name.|<break>"
     },
     "211": {
         "「倉庫の名前を　変更いたしました。|　他にも　名前を変えたい倉庫は|　ありますか？|<break>": ""
@@ -1413,7 +1413,7 @@
         "「それでは　新しい倉庫名を入力してください。|<break>": "Then, enter the new warehouse name you'd like.|<break>"
     },
     "472": {
-        "「新しい倉庫名を入力してください。|<break>": ""
+        "「新しい倉庫名を入力してください。|<break>": "Please enter a new warehouse name.|<break>"
     },
     "473": {
         "「倉庫の名前を　変更いたしました。|　他にも　名前を変えたい倉庫は|　ありますか？|<break>": ""
