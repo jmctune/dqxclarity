@@ -99,7 +99,7 @@
         "攻撃する相手が|いなかった": "No valid|attack target!"
     },
     "34": {
-        "すばやさ　　<%nL_SPEED>の|<%sL_PENCIL_NAME>の　こうげき！": "Agility　　<%nL_SPEED>|<%sL_PENCIL_NAME>'s attack!"
+        "すばやさ　　<%nL_SPEED>の|<%sL_PENCIL_NAME>の　こうげき！": "Agility　　<%dL_SPEED>|<%sL_PENCIL_NAME>'s attack!"
     },
     "35": {
         "目がくらんでいる": "Blinded!"
