@@ -219,7 +219,7 @@
         "<select_se_off 2>|あずける|とりだす|<select_end><break>": "<select_se_off 2>|Deposit|Retrieve|<select_end><break>"
     },
     "74": {
-        "「それでは　新しい倉庫名を入力してください。|<break>": ""
+        "「それでは　新しい倉庫名を入力してください。|<break>": "Then, enter the new warehouse name you'd like.|<break>"
     },
     "75": {
         "「新しい倉庫名を入力してください。|<break>": ""
@@ -621,10 +621,10 @@
         "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|You can deposit or retrieve your stored items.|What would you like to do?|<select_se_off>|Deposit|Retrieve|<select_end><break>"
     },
     "208": {
-        "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off 2>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|Deposit or retrieve to use the item storage.|What would you like to do?|<select_se_off 2>|Deposit|Retrieve|<select_end><break>"
+        "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off 2>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|You can deposit or retrieve your stored items.|What would you like to do?|<select_se_off 2>|Deposit|Retrieve|<select_end><break>"
     },
     "209": {
-        "「それでは　新しい倉庫名を入力してください。|<break>": ""
+        "「それでは　新しい倉庫名を入力してください。|<break>": "Then, enter the new warehouse name you'd like.|<break>"
     },
     "210": {
         "「新しい倉庫名を入力してください。|<break>": ""
@@ -1407,10 +1407,10 @@
         "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|You can deposit or retrieve your stored items.|What would you like to do?|<select_se_off>|Deposit|Retrieve|<select_end><break>"
     },
     "470": {
-        "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off 2>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|Deposit or retrieve to use the item storage.|What would you like to do?|<select_se_off 2>|Deposit|Retrieve|<select_end><break>"
+        "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off 2>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|You can deposit or retrieve your stored items.|What would you like to do?|<select_se_off 2>|Deposit|Retrieve|<select_end><break>"
     },
     "471": {
-        "「それでは　新しい倉庫名を入力してください。|<break>": ""
+        "「それでは　新しい倉庫名を入力してください。|<break>": "Then, enter the new warehouse name you'd like.|<break>"
     },
     "472": {
         "「新しい倉庫名を入力してください。|<break>": ""
