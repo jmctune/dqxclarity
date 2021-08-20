@@ -3207,7 +3207,7 @@
         "<speed=0>権限を失った為　処理に失敗しました。": ""
     },
     "1070": {
-        "<speed=0>どの　チームのさそいを　取り消しますか？<break>": ""
+        "<speed=0>どの　チームのさそいを　取り消しますか？<break>": "<speed=0>Which invitation do you want to cancel?<break>"
     },
     "1071": {
         "clarity_nt_char_360": "clarity_nt_char_360"
