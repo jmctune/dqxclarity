@@ -1,884 +1,884 @@
 {
-  "1": {
-    "草原地区": "Meadow Area"
-  },
-  "2": {
-    "clarity_nt_char_1": "clarity_nt_char_1"
-  },
-  "3": {
-    "新品": "New"
-  },
-  "4": {
-    "clarity_nt_char_2": "clarity_nt_char_2"
-  },
-  "5": {
-    "海辺の交易所": "Beach Trading Post"
-  },
-  "6": {
-    "clarity_nt_char_3": "clarity_nt_char_3"
-  },
-  "7": {
-    "密林の野営地": "Jungle Camp"
-  },
-  "8": {
-    "clarity_nt_char_4": "clarity_nt_char_4"
-  },
-  "9": {
-    "祈りの宿": "Prayer Inn"
-  },
-  "10": {
-    "clarity_nt_char_5": "clarity_nt_char_5"
-  },
-  "11": {
-    "荒野の休息所": "Wilderness Retreat"
-  },
-  "12": {
-    "clarity_nt_char_6": "clarity_nt_char_6"
-  },
-  "13": {
-    "ピィピのお宿": "Pipi's Inn"
-  },
-  "14": {
-    "clarity_nt_char_7": "clarity_nt_char_7"
-  },
-  "15": {
-    "海峡の岩屋": "Grotto Strait"
-  },
-  "16": {
-    "エルフたちの集落": "Elven Settlement"
-  },
-  "17": {
-    "clarity_nt_char_8": "clarity_nt_char_8"
-  },
-  "18": {
-    "荒野の集落": "Wild Settlement"
-  },
-  "19": {
-    "入り江の集落": "Cove Village"
-  },
-  "20": {
-    "clarity_nt_char_9": "clarity_nt_char_9"
-  },
-  "21": {
-    "ザマ烽火台": "Zama Beacon"
-  },
-  "22": {
-    "浜辺地区": "Beach Area"
-  },
-  "23": {
-    "clarity_nt_char_10": "clarity_nt_char_10"
-  },
-  "24": {
-    "トゥーン": "Toon"
-  },
-  "25": {
-    "clarity_nt_char_11": "clarity_nt_char_11"
-  },
-  "26": {
-    "自分の家": "My House"
-  },
-  "27": {
-    "clarity_nt_char_12": "clarity_nt_char_12"
-  },
-  "28": {
-    "農村地区": "Rural Area"
-  },
-  "29": {
-    "clarity_nt_char_13": "clarity_nt_char_13"
-  },
-  "30": {
-    "古代都市": "Ancient City"
-  },
-  "31": {
-    "clarity_nt_char_14": "clarity_nt_char_14"
-  },
-  "32": {
-    "ガケっぷち村跡": "Ruined Village"
-  },
-  "33": {
-    "山間の関所": "Mountain Pass"
-  },
-  "34": {
-    "木かげの集落": "Treeshade Village"
-  },
-  "35": {
-    "clarity_nt_char_15": "clarity_nt_char_15"
-  },
-  "36": {
-    "オアシスの隊商宿": "Oasis Caravan"
-  },
-  "37": {
-    "clarity_nt_char_16": "clarity_nt_char_16"
-  },
-  "38": {
-    "商人たちのテント": "Merchants' Tents"
-  },
-  "39": {
-    "clarity_nt_char_17": "clarity_nt_char_17"
-  },
-  "40": {
-    "モガレ修道院": "Mogare Monastery"
-  },
-  "41": {
-    "clarity_nt_char_18": "clarity_nt_char_18"
-  },
-  "42": {
-    "キラキラ大風車塔": "Glitter Windmill Tower"
-  },
-  "43": {
-    "clarity_nt_char_19": "clarity_nt_char_19"
-  },
-  "44": {
-    "モガレキャンプ": "Mogale Camp"
-  },
-  "45": {
-    "橋上の宿": "Bridge Inn"
-  },
-  "46": {
-    "clarity_nt_char_20": "clarity_nt_char_20"
-  },
-  "47": {
-    "獅子門の集落": "Lion Gate Village"
-  },
-  "48": {
-    "clarity_nt_char_21": "clarity_nt_char_21"
-  },
-  "49": {
-    "過去の": "Past "
-  },
-  "50": {
-    "西": "W."
-  },
-  "51": {
-    "南": "S."
-  },
-  "52": {
-    "北": "N."
-  },
-  "53": {
-    "東": "E."
-  },
-  "54": {
-    "・": "・"
-  },
-  "55": {
-    "<%sW_REP_MAX_2ND_F>黄葉商店": "<%sW_REP_MAX_2ND_F>Leaf Shop"
-  },
-  "56": {
-    "<%sW_REP_MAX_2ND_F>湖上の休息所": "<%sW_REP_MAX_2ND_F>Lake Retreat"
-  },
-  "57": {
-    "<%sW_REP_MAX_2ND_F>滝を臨む集落": "<%sW_REP_MAX_2ND_F>Waterfall Village"
-  },
-  "58": {
-    "勇者姫": "Hero Rm."
-  },
-  "59": {
-    "<%sW_REP_MAX_2ND_F>ピラミッド": "<%sW_REP_MAX_2ND_F>Pyramid"
-  },
-  "60": {
-    "clarity_nt_char_22": "clarity_nt_char_22"
-  },
-  "61": {
-    "不思議の魔塔": "Mysterious Tower"
-  },
-  "62": {
-    "clarity_nt_char_23": "clarity_nt_char_23"
-  },
-  "63": {
-    "<%sW_REP_MAX_2ND_R>滝を臨む集落": "<%sW_REP_MAX_2ND_R>Waterfall Village"
-  },
-  "64": {
-    "<%sW_REP_MAX_2ND_R>湖上の休息所": "<%sW_REP_MAX_2ND_R>Lake Retreat"
-  },
-  "65": {
-    "<%sW_REP_MAX_2ND_R>黄葉商店": "<%sW_REP_MAX_2ND_R>Leaf Shop"
-  },
-  "66": {
-    "チーム集会所": "Team House"
-  },
-  "67": {
-    "clarity_nt_char_24": "clarity_nt_char_24"
-  },
-  "68": {
-    "釣り老師": "Fish Master"
-  },
-  "69": {
-    "clarity_nt_char_25": "clarity_nt_char_25"
-  },
-  "70": {
-    "モンスター格闘場": "Monster Arena"
-  },
-  "71": {
-    "clarity_nt_char_26": "clarity_nt_char_26"
-  },
-  "72": {
-    "カジノ": "Casino"
-  },
-  "73": {
-    "駅前": "Stop"
-  },
-  "74": {
-    "clarity_nt_char_27": "clarity_nt_char_27"
-  },
-  "75": {
-    "さいほうギルド": "Sewing Guild"
-  },
-  "76": {
-    "防具鍛冶ギルド": "Armorsmith Guild"
-  },
-  "77": {
-    "木工ギルド": "Woodwork Guild"
-  },
-  "78": {
-    "ランプ錬金ギルド": "Lamp Alchemy Guild"
-  },
-  "79": {
-    "clarity_nt_char_28": "clarity_nt_char_28"
-  },
-  "80": {
-    "道具鍛冶ギルド": "Toolsmith Guild"
-  },
-  "81": {
-    "ツボ錬金ギルド": "Pot Alchemy Guild"
-  },
-  "82": {
-    "武器鍛冶ギルド": "Weaponsmith Guild"
-  },
-  "83": {
-    "調理ギルド": "Cooking Guild"
-  },
-  "84": {
-    "スキルマスター": "Skill Master"
-  },
-  "85": {
-    "デフェル荒野": "Defel Wilderness"
-  },
-  "86": {
-    "clarity_nt_char_29": "clarity_nt_char_29"
-  },
-  "87": {
-    "業炎の聖塔": "Karmafire Tower"
-  },
-  "88": {
-    "マティルの村": "Village of Matil"
-  },
-  "89": {
-    "clarity_nt_char_30": "clarity_nt_char_30"
-  },
-  "90": {
-    "入口": "Entry"
-  },
-  "91": {
-    "clarity_nt_char_31": "clarity_nt_char_31"
-  },
-  "92": {
-    "廃屋": "House"
-  },
-  "93": {
-    "clarity_nt_char_32": "clarity_nt_char_32"
-  },
-  "94": {
-    "アスフェルド学園": "Asfeld Academy"
-  },
-  "95": {
-    "clarity_nt_char_33": "clarity_nt_char_33"
-  },
-  "96": {
-    "アスフェルド学園・駅前": "Asfeld Academy Station"
-  },
-  "97": {
-    "路地裏": "Alley"
-  },
-  "98": {
-    "アクセ屋前": "Accessory Shop"
-  },
-  "99": {
-    "ヴェリナード": "Verinard"
-  },
-  "100": {
-    "clarity_nt_char_34": "clarity_nt_char_34"
-  },
-  "101": {
-    "飛び先不明": "Unknown Area"
-  },
-  "102": {
-    "占いの館": "Divine Hall"
-  },
-  "103": {
-    "clarity_nt_char_35": "clarity_nt_char_35"
-  },
-  "104": {
-    "エジャルナ": "Ejarna"
-  },
-  "105": {
-    "冥闇の聖塔前": "Holy Dark Tower"
-  },
-  "106": {
-    "clarity_nt_char_36": "clarity_nt_char_36"
-  },
-  "107": {
-    "Ｑ４８５前": "Q485 Front"
-  },
-  "108": {
-    "城前": "Castle"
-  },
-  "109": {
-    "clarity_nt_char_37": "clarity_nt_char_37"
-  },
-  "110": {
-    "カルデア山道前": "Chaldea Mountain Road"
-  },
-  "111": {
-    "ウルベア地下遺跡前": "Urbea Underground Ruins"
-  },
-  "112": {
-    "イナミノ街道前": "Inamino Highway"
-  },
-  "113": {
-    "風泣き岬前": "Wind Cry Cape"
-  },
-  "114": {
-    "銀の丘前": "Silver H."
-  },
-  "115": {
-    "clarity_nt_char_38": "clarity_nt_char_38"
-  },
-  "116": {
-    "別荘跡": "Ruins"
-  },
-  "117": {
-    "山頂側": "Mtn. Top"
-  },
-  "118": {
-    "武闘場前": "Battlefield"
-  },
-  "119": {
-    "clarity_nt_char_39": "clarity_nt_char_39"
-  },
-  "120": {
-    "雲上湖前": "Sky Lake"
-  },
-  "121": {
-    "clarity_nt_char_40": "clarity_nt_char_40"
-  },
-  "122": {
-    "王島桟橋前": "K. Island Pier"
-  },
-  "123": {
-    "猫島桟橋前": "Cat Isle Pier"
-  },
-  "124": {
-    "鉱山前": "Mine"
-  },
-  "125": {
-    "神殿前": "Temple"
-  },
-  "126": {
-    "カミハルムイ城前": "Kamiharmui Castle Front"
-  },
-  "127": {
-    "clarity_nt_char_41": "clarity_nt_char_41"
-  },
-  "128": {
-    "<%sW_REP_MIN_2ND_R>グランゼドーラ": "<%sW_REP_MAX_2ND_R>Gran Zedora"
-  },
-  "129": {
-    "clarity_nt_char_42": "clarity_nt_char_42"
-  },
-  "130": {
-    "<%sW_REP_MIN_2ND_F>グランゼドーラ": "<%sW_REP_MAX_2ND_F>Gran Zedora"
-  },
-  "131": {
-    "clarity_nt_char_43": "clarity_nt_char_43"
-  },
-  "132": {
-    "ロンダの氷穴前": "Rhonda Ice Cave"
-  },
-  "133": {
-    "地底湖の洞くつ前": "Underground Lake Cave"
-  },
-  "134": {
-    "clarity_nt_char_44": "clarity_nt_char_44"
-  },
-  "135": {
-    "慰霊の浜前": "Memorial Beach"
-  },
-  "136": {
-    "モコモコパーク": "Mokomoko Park"
-  },
-  "137": {
-    "メガルーラストーン": "Mega Zoomstone"
-  },
-  "138": {
-    "採掘ギルド": "Mining Guild"
-  },
-  "139": {
-    "地下": "Und."
-  },
-  "140": {
-    "clarity_nt_char_45": "clarity_nt_char_45"
-  },
-  "141": {
-    "地上の教会跡": "Church Ruins"
-  },
-  "142": {
-    "clarity_nt_char_46": "clarity_nt_char_46"
-  },
-  "143": {
-    "ムストの町": "Town of Must"
-  },
-  "144": {
-    "地下坑道": "Und. Tunnel"
-  },
-  "145": {
-    "clarity_nt_char_47": "clarity_nt_char_47"
-  },
-  "146": {
-    "グレゴールの洞くつ前": "Gregor Cave"
-  },
-  "147": {
-    "clarity_nt_char_48": "clarity_nt_char_48"
-  },
-  "148": {
-    "遺跡前": "Ruins"
-  },
-  "149": {
-    "街道前": "Highway"
-  },
-  "150": {
-    "山道前": "Mtn. Rd."
-  },
-  "151": {
-    "雪原前": "Snowfield"
-  },
-  "152": {
-    "湿原前": "Marsh"
-  },
-  "153": {
-    "採掘場前": "Quarry"
-  },
-  "154": {
-    "clarity_nt_char_49": "clarity_nt_char_49"
-  },
-  "155": {
-    "久遠の森前": "Eternity Forest"
-  },
-  "156": {
-    "世界樹の丘前": "World Tree Hill"
-  },
-  "157": {
-    "clarity_nt_char_50": "clarity_nt_char_50"
-  },
-  "158": {
-    "捨てられた城前": "Abandoned Castle"
-  },
-  "159": {
-    "ゲルト海峡前": "Gert Strait"
-  },
-  "160": {
-    "clarity_nt_char_51": "clarity_nt_char_51"
-  },
-  "161": {
-    "ベコン渓谷前": "Becon Valley"
-  },
-  "162": {
-    "clarity_nt_char_52": "clarity_nt_char_52"
-  },
-  "163": {
-    "大風車塔前": "Windmill Tower"
-  },
-  "164": {
-    "巨猫の巣前": "Big Cat's Nest"
-  },
-  "165": {
-    "暗黒大樹前": "Dark Tree"
-  },
-  "166": {
-    "高台の廃屋": "Abandoned House"
-  },
-  "167": {
-    "中央": "Center"
-  },
-  "168": {
-    "clarity_nt_char_53": "clarity_nt_char_53"
-  },
-  "169": {
-    "南・入口": " S."
-  },
-  "170": {
-    "clarity_nt_char_54": "clarity_nt_char_54"
-  },
-  "171": {
-    "北・入口": "N. Entry"
-  },
-  "172": {
-    "clarity_nt_char_55": "clarity_nt_char_55"
-  },
-  "173": {
-    "広場前": "Square"
-  },
-  "174": {
-    "水車郷前": "Waterw. Town"
-  },
-  "175": {
-    "clarity_nt_char_56": "clarity_nt_char_56"
-  },
-  "176": {
-    "岩山前": "Mtn."
-  },
-  "177": {
-    "通用口前": "Entrance"
-  },
-  "178": {
-    "clarity_nt_char_57": "clarity_nt_char_57"
-  },
-  "179": {
-    "<%sW_REP_MIN_2ND_F>夜宴館": "<%sW_REP_MAX_2ND_F>Banquet"
-  },
-  "180": {
-    "clarity_nt_char_58": "clarity_nt_char_58"
-  },
-  "181": {
-    "<%sW_REP_MIN_2ND_R>夜宴館": "<%sW_REP_MAX_2ND_R>Banquet"
-  },
-  "182": {
-    "clarity_nt_char_59": "clarity_nt_char_59"
-  },
-  "183": {
-    "教会跡": "Chc. Ruin"
-  },
-  "184": {
-    "研究所前": "Laboratory"
-  },
-  "185": {
-    "clarity_nt_char_60": "clarity_nt_char_60"
-  },
-  "186": {
-    "小屋前": "Hut"
-  },
-  "187": {
-    "族長の家前": "Patriarch House"
-  },
-  "188": {
-    "密林前": "Jungle"
-  },
-  "189": {
-    "<%sW_REP_MAX_2ND_R>格闘場": "<%sW_REP_MAX_2ND_R>Arena"
-  },
-  "190": {
-    "clarity_nt_char_61": "clarity_nt_char_61"
-  },
-  "191": {
-    "<%sW_REP_MAX_2ND_F>格闘場": "<%sW_REP_MAX_2ND_F>Arena"
-  },
-  "192": {
-    "clarity_nt_char_62": "clarity_nt_char_62"
-  },
-  "193": {
-    "山地前": "Mtns."
-  },
-  "194": {
-    "高台の教会": "High Church"
-  },
-  "195": {
-    "<%sW_REP_MIN_2ND_F>セレドの町": "<%sW_REP_MAX_2ND_F>Town of Celed"
-  },
-  "196": {
-    "clarity_nt_char_63": "clarity_nt_char_63"
-  },
-  "197": {
-    "北東門": "N. Gate"
-  },
-  "198": {
-    "中央広場": "Center Plaza"
-  },
-  "199": {
-    "clarity_nt_char_64": "clarity_nt_char_64"
-  },
-  "200": {
-    "南門": "S Gate"
-  },
-  "201": {
-    "clarity_nt_char_65": "clarity_nt_char_65"
-  },
-  "202": {
-    "軍区画": "Military"
-  },
-  "203": {
-    "公園前": "Park"
-  },
-  "204": {
-    "やぐら前": "Scaffold"
-  },
-  "205": {
-    "clarity_nt_char_66": "clarity_nt_char_66"
-  },
-  "206": {
-    "教会": "Church"
-  },
-  "207": {
-    "clarity_nt_char_67": "clarity_nt_char_67"
-  },
-  "208": {
-    "城門": "Gate"
-  },
-  "209": {
-    "clarity_nt_char_68": "clarity_nt_char_68"
-  },
-  "210": {
-    "王国の見張り塔前": "Kingdom Lookout Tower"
-  },
-  "211": {
-    "clarity_nt_char_69": "clarity_nt_char_69"
-  },
-  "212": {
-    "市場": "Market"
-  },
-  "213": {
-    "clarity_nt_char_70": "clarity_nt_char_70"
-  },
-  "214": {
-    "玉座": "Throne"
-  },
-  "215": {
-    "clarity_nt_char_71": "clarity_nt_char_71"
-  },
-  "216": {
-    "雪虫の洞くつ前": "Snow Bug Cave"
-  },
-  "217": {
-    "太古の氷穴前": "Old Ice Cave"
-  },
-  "218": {
-    "clarity_nt_char_72": "clarity_nt_char_72"
-  },
-  "219": {
-    "鬼岩城前": "Oniwa Castle"
-  },
-  "220": {
-    "clarity_nt_char_73": "clarity_nt_char_73"
-  },
-  "221": {
-    "船着き場前": "Docks"
-  },
-  "222": {
-    "舞台前": "Stage"
-  },
-  "223": {
-    "北西の家": "N.E. House"
-  },
-  "224": {
-    "clarity_nt_char_74": "clarity_nt_char_74"
-  },
-  "225": {
-    "水門前": "Wtr. Gate"
-  },
-  "226": {
-    "森の井戸前": "Forest Well"
-  },
-  "227": {
-    "石室前": "S. Hut"
-  },
-  "228": {
-    "大鉱脈前": "Large Vein"
-  },
-  "229": {
-    "clarity_nt_char_75": "clarity_nt_char_75"
-  },
-  "230": {
-    "溶岩窟前": "Lava Cave"
-  },
-  "231": {
-    "clarity_nt_char_76": "clarity_nt_char_76"
-  },
-  "232": {
-    "南地区": "S. Area"
-  },
-  "233": {
-    "中央地区": "Center Zone"
-  },
-  "234": {
-    "clarity_nt_char_77": "clarity_nt_char_77"
-  },
-  "235": {
-    "動力室": "Power Rm."
-  },
-  "236": {
-    "町入口": "Town Gate"
-  },
-  "237": {
-    "宇宙船・立入禁止区画１階": "Spacecraft Exclusion Zone 1F"
-  },
-  "238": {
-    "clarity_nt_char_78": "clarity_nt_char_78"
-  },
-  "239": {
-    "小型艇発着場前": "Boat Landing Site"
-  },
-  "240": {
-    "自然遺産保護区・南端": "Natural Heritage Reserve South"
-  },
-  "241": {
-    "clarity_nt_char_79": "clarity_nt_char_79"
-  },
-  "242": {
-    "最深部": "Deeps"
-  },
-  "243": {
-    "御前広場前": "Gozen Square"
-  },
-  "244": {
-    "<%sW_REP_MAX_4TH_C>キィンベル": "Kimbel"
-  },
-  "245": {
-    "clarity_nt_char_80": "clarity_nt_char_80"
-  },
-  "246": {
-    "酒場前": "Tavern"
-  },
-  "247": {
-    "湖前": "Lake"
-  },
-  "248": {
-    "clarity_nt_char_81": "clarity_nt_char_81"
-  },
-  "249": {
-    "ネクロディア領・関所前": "Necrodia Area Checkpoint"
-  },
-  "250": {
-    "ジャリムバハ砂漠関所": "Jyarimbaha Desert Barrier"
-  },
-  "251": {
-    "clarity_nt_char_82": "clarity_nt_char_82"
-  },
-  "252": {
-    "バルディア山岳地帯関所": "Valdia Mountainous Area Barrier"
-  },
-  "253": {
-    "ベルヴァインの森関所": "Belvain Forest Barrier"
-  },
-  "254": {
-    "clarity_nt_char_83": "clarity_nt_char_83"
-  },
-  "255": {
-    "採石場前": "Quarry"
-  },
-  "256": {
-    "clarity_nt_char_84": "clarity_nt_char_84"
-  },
-  "257": {
-    "月明かりの谷前": "Moonlight Valley"
-  },
-  "258": {
-    "岩穴の廃屋": "Abandoned House"
-  },
-  "259": {
-    "下水道前": "Sewer Front"
-  },
-  "260": {
-    "clarity_nt_char_85": "clarity_nt_char_85"
-  },
-  "261": {
-    "裏通り": "Alleyway"
-  },
-  "262": {
-    "ディンガ交易所": "Dinga Trade Post"
-  },
-  "263": {
-    "城への抜け道": "Castle Loophole"
-  },
-  "264": {
-    "clarity_nt_char_86": "clarity_nt_char_86"
-  },
-  "265": {
-    "王墓前": "Roy. Tomb"
-  },
-  "266": {
-    "王都跡": "City Ruin"
-  },
-  "267": {
-    "集落跡": "V. Ruins"
-  },
-  "268": {
-    "棺桶乗り場": "Coffin Platform"
-  },
-  "269": {
-    "井戸前": "Well"
-  },
-  "270": {
-    "商業区画": "Comm. Area"
-  },
-  "271": {
-    "clarity_nt_char_87": "clarity_nt_char_87"
-  },
-  "272": {
-    "アトリエ": "Atelier"
-  },
-  "273": {
-    "clarity_nt_char_88": "clarity_nt_char_88"
-  },
-  "274": {
-    "西翼": "W Wing"
-  },
-  "275": {
-    "clarity_nt_char_89": "clarity_nt_char_89"
-  },
-  "276": {
-    "３階": "3F"
-  },
-  "277": {
-    "clarity_nt_char_90": "clarity_nt_char_90"
-  },
-  "278": {
-    "駐屯所": "Garrison"
-  },
-  "279": {
-    "顔壁前": "Face Wall"
-  },
-  "280": {
-    "東翼": "E Wing"
-  },
-  "281": {
-    "clarity_nt_char_91": "clarity_nt_char_91"
-  },
-  "282": {
-    "？？？？": "????"
-  },
-  "283": {
-    "clarity_nt_char_92": "clarity_nt_char_92"
-  },
-  "284": {
-    "温泉峡前": "Spring Gorge"
-  },
-  "285": {
-    "clarity_nt_char_93": "clarity_nt_char_93"
-  },
-  "286": {
-    "<%sW_REP_MIN_2ND_F>コニウェア": "<%sW_REP_MAX_2ND_F>Coniware"
-  },
-  "287": {
-    "clarity_nt_char_94": "clarity_nt_char_94"
-  },
-  "288": {
-    "玉座の間前": "Throne Room"
-  },
-  "289": {
-    "魔界": "Makai"
-  },
-  "290": {
-    "clarity_nt_char_95": "clarity_nt_char_95"
-  },
-  "291": {
-    "盾島": "Shd I."
-  },
-  "292": {
-    "clarity_nt_char_96": "clarity_nt_char_96"
-  },
-  "293": {
-    "<%sW_REP_MIN_2ND_F>ロヴォス高地": "<%sW_REP_MAX_2ND_F>Rovos Highlands"
-  },
-  "294": {
-    "最上階": "Top Floor"
-  }
+    "1": {
+        "草原地区": "Meadow Area"
+    },
+    "2": {
+        "clarity_nt_char_1": "clarity_nt_char_1"
+    },
+    "3": {
+        "新品": "New"
+    },
+    "4": {
+        "clarity_nt_char_2": "clarity_nt_char_2"
+    },
+    "5": {
+        "海辺の交易所": "Beach Trading Post"
+    },
+    "6": {
+        "clarity_nt_char_3": "clarity_nt_char_3"
+    },
+    "7": {
+        "密林の野営地": "Jungle Camp"
+    },
+    "8": {
+        "clarity_nt_char_4": "clarity_nt_char_4"
+    },
+    "9": {
+        "祈りの宿": "Prayer Inn"
+    },
+    "10": {
+        "clarity_nt_char_5": "clarity_nt_char_5"
+    },
+    "11": {
+        "荒野の休息所": "Wilderness Retreat"
+    },
+    "12": {
+        "clarity_nt_char_6": "clarity_nt_char_6"
+    },
+    "13": {
+        "ピィピのお宿": "Pipi's Inn"
+    },
+    "14": {
+        "clarity_nt_char_7": "clarity_nt_char_7"
+    },
+    "15": {
+        "海峡の岩屋": "Grotto Strait"
+    },
+    "16": {
+        "エルフたちの集落": "Elven Settlement"
+    },
+    "17": {
+        "clarity_nt_char_8": "clarity_nt_char_8"
+    },
+    "18": {
+        "荒野の集落": "Wild Settlement"
+    },
+    "19": {
+        "入り江の集落": "Cove Village"
+    },
+    "20": {
+        "clarity_nt_char_9": "clarity_nt_char_9"
+    },
+    "21": {
+        "ザマ烽火台": "Zama Beacon"
+    },
+    "22": {
+        "浜辺地区": "Beach Area"
+    },
+    "23": {
+        "clarity_nt_char_10": "clarity_nt_char_10"
+    },
+    "24": {
+        "トゥーン": "Toon"
+    },
+    "25": {
+        "clarity_nt_char_11": "clarity_nt_char_11"
+    },
+    "26": {
+        "自分の家": "My House"
+    },
+    "27": {
+        "clarity_nt_char_12": "clarity_nt_char_12"
+    },
+    "28": {
+        "農村地区": "Rural Area"
+    },
+    "29": {
+        "clarity_nt_char_13": "clarity_nt_char_13"
+    },
+    "30": {
+        "古代都市": "Ancient City"
+    },
+    "31": {
+        "clarity_nt_char_14": "clarity_nt_char_14"
+    },
+    "32": {
+        "ガケっぷち村跡": "Ruined Village"
+    },
+    "33": {
+        "山間の関所": "Mountain Pass"
+    },
+    "34": {
+        "木かげの集落": "Treeshade Village"
+    },
+    "35": {
+        "clarity_nt_char_15": "clarity_nt_char_15"
+    },
+    "36": {
+        "オアシスの隊商宿": "Oasis Caravan"
+    },
+    "37": {
+        "clarity_nt_char_16": "clarity_nt_char_16"
+    },
+    "38": {
+        "商人たちのテント": "Merchants' Tents"
+    },
+    "39": {
+        "clarity_nt_char_17": "clarity_nt_char_17"
+    },
+    "40": {
+        "モガレ修道院": "Mogare Monastery"
+    },
+    "41": {
+        "clarity_nt_char_18": "clarity_nt_char_18"
+    },
+    "42": {
+        "キラキラ大風車塔": "Glitter Windmill Tower"
+    },
+    "43": {
+        "clarity_nt_char_19": "clarity_nt_char_19"
+    },
+    "44": {
+        "モガレキャンプ": "Mogale Camp"
+    },
+    "45": {
+        "橋上の宿": "Bridge Inn"
+    },
+    "46": {
+        "clarity_nt_char_20": "clarity_nt_char_20"
+    },
+    "47": {
+        "獅子門の集落": "Lion Gate Village"
+    },
+    "48": {
+        "clarity_nt_char_21": "clarity_nt_char_21"
+    },
+    "49": {
+        "過去の": "Past "
+    },
+    "50": {
+        "西": "W."
+    },
+    "51": {
+        "南": "S."
+    },
+    "52": {
+        "北": "N."
+    },
+    "53": {
+        "東": "E."
+    },
+    "54": {
+        "・": "・"
+    },
+    "55": {
+        "<%sW_REP_MAX_2ND_F>黄葉商店": "<%sW_REP_MAX_2ND_F>Leaf Shop"
+    },
+    "56": {
+        "<%sW_REP_MAX_2ND_F>湖上の休息所": "<%sW_REP_MAX_2ND_F>Lake Retreat"
+    },
+    "57": {
+        "<%sW_REP_MAX_2ND_F>滝を臨む集落": "<%sW_REP_MAX_2ND_F>Waterfall Village"
+    },
+    "58": {
+        "勇者姫": "Hero Rm."
+    },
+    "59": {
+        "<%sW_REP_MAX_2ND_F>ピラミッド": "<%sW_REP_MAX_2ND_F>Pyramid"
+    },
+    "60": {
+        "clarity_nt_char_22": "clarity_nt_char_22"
+    },
+    "61": {
+        "不思議の魔塔": "Mysterious Tower"
+    },
+    "62": {
+        "clarity_nt_char_23": "clarity_nt_char_23"
+    },
+    "63": {
+        "<%sW_REP_MAX_2ND_R>滝を臨む集落": "<%sW_REP_MAX_2ND_R>Waterfall Village"
+    },
+    "64": {
+        "<%sW_REP_MAX_2ND_R>湖上の休息所": "<%sW_REP_MAX_2ND_R>Lake Retreat"
+    },
+    "65": {
+        "<%sW_REP_MAX_2ND_R>黄葉商店": "<%sW_REP_MAX_2ND_R>Leaf Shop"
+    },
+    "66": {
+        "チーム集会所": "Team House"
+    },
+    "67": {
+        "clarity_nt_char_24": "clarity_nt_char_24"
+    },
+    "68": {
+        "釣り老師": "Fish Master"
+    },
+    "69": {
+        "clarity_nt_char_25": "clarity_nt_char_25"
+    },
+    "70": {
+        "モンスター格闘場": "Monster Arena"
+    },
+    "71": {
+        "clarity_nt_char_26": "clarity_nt_char_26"
+    },
+    "72": {
+        "カジノ": "Casino"
+    },
+    "73": {
+        "駅前": "Stop"
+    },
+    "74": {
+        "clarity_nt_char_27": "clarity_nt_char_27"
+    },
+    "75": {
+        "さいほうギルド": "Sewing Guild"
+    },
+    "76": {
+        "防具鍛冶ギルド": "Armorsmith Guild"
+    },
+    "77": {
+        "木工ギルド": "Woodwork Guild"
+    },
+    "78": {
+        "ランプ錬金ギルド": "Lamp Alchemy Guild"
+    },
+    "79": {
+        "clarity_nt_char_28": "clarity_nt_char_28"
+    },
+    "80": {
+        "道具鍛冶ギルド": "Toolsmith Guild"
+    },
+    "81": {
+        "ツボ錬金ギルド": "Pot Alchemy Guild"
+    },
+    "82": {
+        "武器鍛冶ギルド": "Weaponsmith Guild"
+    },
+    "83": {
+        "調理ギルド": "Cooking Guild"
+    },
+    "84": {
+        "スキルマスター": "Skill Master"
+    },
+    "85": {
+        "デフェル荒野": "Defel Wilderness"
+    },
+    "86": {
+        "clarity_nt_char_29": "clarity_nt_char_29"
+    },
+    "87": {
+        "業炎の聖塔": "Karmafire Tower"
+    },
+    "88": {
+        "マティルの村": "Village of Matil"
+    },
+    "89": {
+        "clarity_nt_char_30": "clarity_nt_char_30"
+    },
+    "90": {
+        "入口": "Entry"
+    },
+    "91": {
+        "clarity_nt_char_31": "clarity_nt_char_31"
+    },
+    "92": {
+        "廃屋": "House"
+    },
+    "93": {
+        "clarity_nt_char_32": "clarity_nt_char_32"
+    },
+    "94": {
+        "アスフェルド学園": "Asfeld Academy"
+    },
+    "95": {
+        "clarity_nt_char_33": "clarity_nt_char_33"
+    },
+    "96": {
+        "アスフェルド学園・駅前": "Asfeld Academy Station"
+    },
+    "97": {
+        "路地裏": "Alley"
+    },
+    "98": {
+        "アクセ屋前": "Accessory Shop"
+    },
+    "99": {
+        "ヴェリナード": "Verinard"
+    },
+    "100": {
+        "clarity_nt_char_34": "clarity_nt_char_34"
+    },
+    "101": {
+        "飛び先不明": "Unknown Area"
+    },
+    "102": {
+        "占いの館": "Divine Hall"
+    },
+    "103": {
+        "clarity_nt_char_35": "clarity_nt_char_35"
+    },
+    "104": {
+        "エジャルナ": "Ejarna"
+    },
+    "105": {
+        "冥闇の聖塔前": "Holy Dark Tower"
+    },
+    "106": {
+        "clarity_nt_char_36": "clarity_nt_char_36"
+    },
+    "107": {
+        "Ｑ４８５前": "Q485 Front"
+    },
+    "108": {
+        "城前": "Castle"
+    },
+    "109": {
+        "clarity_nt_char_37": "clarity_nt_char_37"
+    },
+    "110": {
+        "カルデア山道前": "Chaldea Mountain Road"
+    },
+    "111": {
+        "ウルベア地下遺跡前": "Urbea Underground Ruins"
+    },
+    "112": {
+        "イナミノ街道前": "Inamino Highway"
+    },
+    "113": {
+        "風泣き岬前": "Wind Cry Cape"
+    },
+    "114": {
+        "銀の丘前": "Silver H."
+    },
+    "115": {
+        "clarity_nt_char_38": "clarity_nt_char_38"
+    },
+    "116": {
+        "別荘跡": "Ruins"
+    },
+    "117": {
+        "山頂側": "Mtn. Top"
+    },
+    "118": {
+        "武闘場前": "Battlefield"
+    },
+    "119": {
+        "clarity_nt_char_39": "clarity_nt_char_39"
+    },
+    "120": {
+        "雲上湖前": "Sky Lake"
+    },
+    "121": {
+        "clarity_nt_char_40": "clarity_nt_char_40"
+    },
+    "122": {
+        "王島桟橋前": "K. Island Pier"
+    },
+    "123": {
+        "猫島桟橋前": "Cat Isle Pier"
+    },
+    "124": {
+        "鉱山前": "Mine"
+    },
+    "125": {
+        "神殿前": "Temple"
+    },
+    "126": {
+        "カミハルムイ城前": "Kamiharmui Castle Front"
+    },
+    "127": {
+        "clarity_nt_char_41": "clarity_nt_char_41"
+    },
+    "128": {
+        "<%sW_REP_MIN_2ND_R>グランゼドーラ": "<%sW_REP_MAX_2ND_R>Gran Zedora"
+    },
+    "129": {
+        "clarity_nt_char_42": "clarity_nt_char_42"
+    },
+    "130": {
+        "<%sW_REP_MIN_2ND_F>グランゼドーラ": "<%sW_REP_MAX_2ND_F>Gran Zedora"
+    },
+    "131": {
+        "clarity_nt_char_43": "clarity_nt_char_43"
+    },
+    "132": {
+        "ロンダの氷穴前": "Rhonda Ice Cave"
+    },
+    "133": {
+        "地底湖の洞くつ前": "Underground Lake Cave"
+    },
+    "134": {
+        "clarity_nt_char_44": "clarity_nt_char_44"
+    },
+    "135": {
+        "慰霊の浜前": "Memorial Beach"
+    },
+    "136": {
+        "モコモコパーク": "Mokomoko Park"
+    },
+    "137": {
+        "メガルーラストーン": "Mega Zoomstone"
+    },
+    "138": {
+        "採掘ギルド": "Mining Guild"
+    },
+    "139": {
+        "地下": "Und."
+    },
+    "140": {
+        "clarity_nt_char_45": "clarity_nt_char_45"
+    },
+    "141": {
+        "地上の教会跡": "Church Ruins"
+    },
+    "142": {
+        "clarity_nt_char_46": "clarity_nt_char_46"
+    },
+    "143": {
+        "ムストの町": "Town of Must"
+    },
+    "144": {
+        "地下坑道": "Und. Tunnel"
+    },
+    "145": {
+        "clarity_nt_char_47": "clarity_nt_char_47"
+    },
+    "146": {
+        "グレゴールの洞くつ前": "Gregor Cave"
+    },
+    "147": {
+        "clarity_nt_char_48": "clarity_nt_char_48"
+    },
+    "148": {
+        "遺跡前": "Ruins"
+    },
+    "149": {
+        "街道前": "Highway"
+    },
+    "150": {
+        "山道前": "Mtn. Rd."
+    },
+    "151": {
+        "雪原前": "Snowfield"
+    },
+    "152": {
+        "湿原前": "Marsh"
+    },
+    "153": {
+        "採掘場前": "Quarry"
+    },
+    "154": {
+        "clarity_nt_char_49": "clarity_nt_char_49"
+    },
+    "155": {
+        "久遠の森前": "Eternity Forest"
+    },
+    "156": {
+        "世界樹の丘前": "World Tree Hill"
+    },
+    "157": {
+        "clarity_nt_char_50": "clarity_nt_char_50"
+    },
+    "158": {
+        "捨てられた城前": "Abandoned Castle"
+    },
+    "159": {
+        "ゲルト海峡前": "Gert Strait"
+    },
+    "160": {
+        "clarity_nt_char_51": "clarity_nt_char_51"
+    },
+    "161": {
+        "ベコン渓谷前": "Becon Valley"
+    },
+    "162": {
+        "clarity_nt_char_52": "clarity_nt_char_52"
+    },
+    "163": {
+        "大風車塔前": "Windmill Tower"
+    },
+    "164": {
+        "巨猫の巣前": "Big Cat's Nest"
+    },
+    "165": {
+        "暗黒大樹前": "Dark Tree"
+    },
+    "166": {
+        "高台の廃屋": "Abandoned House"
+    },
+    "167": {
+        "中央": "Center"
+    },
+    "168": {
+        "clarity_nt_char_53": "clarity_nt_char_53"
+    },
+    "169": {
+        "南・入口": " S."
+    },
+    "170": {
+        "clarity_nt_char_54": "clarity_nt_char_54"
+    },
+    "171": {
+        "北・入口": "N. Entry"
+    },
+    "172": {
+        "clarity_nt_char_55": "clarity_nt_char_55"
+    },
+    "173": {
+        "広場前": "Square"
+    },
+    "174": {
+        "水車郷前": "Waterw. Town"
+    },
+    "175": {
+        "clarity_nt_char_56": "clarity_nt_char_56"
+    },
+    "176": {
+        "岩山前": "Mtn."
+    },
+    "177": {
+        "通用口前": "Entrance"
+    },
+    "178": {
+        "clarity_nt_char_57": "clarity_nt_char_57"
+    },
+    "179": {
+        "<%sW_REP_MIN_2ND_F>夜宴館": "<%sW_REP_MAX_2ND_F>Banquet"
+    },
+    "180": {
+        "clarity_nt_char_58": "clarity_nt_char_58"
+    },
+    "181": {
+        "<%sW_REP_MIN_2ND_R>夜宴館": "<%sW_REP_MAX_2ND_R>Banquet"
+    },
+    "182": {
+        "clarity_nt_char_59": "clarity_nt_char_59"
+    },
+    "183": {
+        "教会跡": "Chc. Ruin"
+    },
+    "184": {
+        "研究所前": "Laboratory"
+    },
+    "185": {
+        "clarity_nt_char_60": "clarity_nt_char_60"
+    },
+    "186": {
+        "小屋前": "Hut"
+    },
+    "187": {
+        "族長の家前": "Patriarch House"
+    },
+    "188": {
+        "密林前": "Jungle"
+    },
+    "189": {
+        "<%sW_REP_MAX_2ND_R>格闘場": "<%sW_REP_MAX_2ND_R>Arena"
+    },
+    "190": {
+        "clarity_nt_char_61": "clarity_nt_char_61"
+    },
+    "191": {
+        "<%sW_REP_MAX_2ND_F>格闘場": "<%sW_REP_MAX_2ND_F>Arena"
+    },
+    "192": {
+        "clarity_nt_char_62": "clarity_nt_char_62"
+    },
+    "193": {
+        "山地前": "Mtns."
+    },
+    "194": {
+        "高台の教会": "High Church"
+    },
+    "195": {
+        "<%sW_REP_MIN_2ND_F>セレドの町": "<%sW_REP_MAX_2ND_F>Town of Celed"
+    },
+    "196": {
+        "clarity_nt_char_63": "clarity_nt_char_63"
+    },
+    "197": {
+        "北東門": "N. Gate"
+    },
+    "198": {
+        "中央広場": "Center Plaza"
+    },
+    "199": {
+        "clarity_nt_char_64": "clarity_nt_char_64"
+    },
+    "200": {
+        "南門": "S Gate"
+    },
+    "201": {
+        "clarity_nt_char_65": "clarity_nt_char_65"
+    },
+    "202": {
+        "軍区画": "Military"
+    },
+    "203": {
+        "公園前": "Park"
+    },
+    "204": {
+        "やぐら前": "Scaffold"
+    },
+    "205": {
+        "clarity_nt_char_66": "clarity_nt_char_66"
+    },
+    "206": {
+        "教会": "Church"
+    },
+    "207": {
+        "clarity_nt_char_67": "clarity_nt_char_67"
+    },
+    "208": {
+        "城門": "Gate"
+    },
+    "209": {
+        "clarity_nt_char_68": "clarity_nt_char_68"
+    },
+    "210": {
+        "王国の見張り塔前": "Kingdom Lookout Tower"
+    },
+    "211": {
+        "clarity_nt_char_69": "clarity_nt_char_69"
+    },
+    "212": {
+        "市場": "Market"
+    },
+    "213": {
+        "clarity_nt_char_70": "clarity_nt_char_70"
+    },
+    "214": {
+        "玉座": "Throne"
+    },
+    "215": {
+        "clarity_nt_char_71": "clarity_nt_char_71"
+    },
+    "216": {
+        "雪虫の洞くつ前": "Snow Bug Cave"
+    },
+    "217": {
+        "太古の氷穴前": "Old Ice Cave"
+    },
+    "218": {
+        "clarity_nt_char_72": "clarity_nt_char_72"
+    },
+    "219": {
+        "鬼岩城前": "Oniwa Castle"
+    },
+    "220": {
+        "clarity_nt_char_73": "clarity_nt_char_73"
+    },
+    "221": {
+        "船着き場前": "Docks"
+    },
+    "222": {
+        "舞台前": "Stage"
+    },
+    "223": {
+        "北西の家": "N.E. House"
+    },
+    "224": {
+        "clarity_nt_char_74": "clarity_nt_char_74"
+    },
+    "225": {
+        "水門前": "Wtr. Gate"
+    },
+    "226": {
+        "森の井戸前": "Forest Well"
+    },
+    "227": {
+        "石室前": "S. Hut"
+    },
+    "228": {
+        "大鉱脈前": "Large Vein"
+    },
+    "229": {
+        "clarity_nt_char_75": "clarity_nt_char_75"
+    },
+    "230": {
+        "溶岩窟前": "Lava Cave"
+    },
+    "231": {
+        "clarity_nt_char_76": "clarity_nt_char_76"
+    },
+    "232": {
+        "南地区": "S. Area"
+    },
+    "233": {
+        "中央地区": "Center Zone"
+    },
+    "234": {
+        "clarity_nt_char_77": "clarity_nt_char_77"
+    },
+    "235": {
+        "動力室": "Power Rm."
+    },
+    "236": {
+        "町入口": "Town Gate"
+    },
+    "237": {
+        "宇宙船・立入禁止区画１階": "Spacecraft Exclusion Zone 1F"
+    },
+    "238": {
+        "clarity_nt_char_78": "clarity_nt_char_78"
+    },
+    "239": {
+        "小型艇発着場前": "Boat Landing Site"
+    },
+    "240": {
+        "自然遺産保護区・南端": "Natural Heritage Reserve South"
+    },
+    "241": {
+        "clarity_nt_char_79": "clarity_nt_char_79"
+    },
+    "242": {
+        "最深部": "Deeps"
+    },
+    "243": {
+        "御前広場前": "Gozen Square"
+    },
+    "244": {
+        "<%sW_REP_MAX_4TH_C>キィンベル": "Kimbel"
+    },
+    "245": {
+        "clarity_nt_char_80": "clarity_nt_char_80"
+    },
+    "246": {
+        "酒場前": "Tavern"
+    },
+    "247": {
+        "湖前": "Lake"
+    },
+    "248": {
+        "clarity_nt_char_81": "clarity_nt_char_81"
+    },
+    "249": {
+        "ネクロディア領・関所前": "Necrodia Area Checkpoint"
+    },
+    "250": {
+        "ジャリムバハ砂漠関所": "Jyarimbaha Desert Barrier"
+    },
+    "251": {
+        "clarity_nt_char_82": "clarity_nt_char_82"
+    },
+    "252": {
+        "バルディア山岳地帯関所": "Valdia Mountainous Area Barrier"
+    },
+    "253": {
+        "ベルヴァインの森関所": "Belvain Forest Barrier"
+    },
+    "254": {
+        "clarity_nt_char_83": "clarity_nt_char_83"
+    },
+    "255": {
+        "採石場前": "Quarry"
+    },
+    "256": {
+        "clarity_nt_char_84": "clarity_nt_char_84"
+    },
+    "257": {
+        "月明かりの谷前": "Moonlight Valley"
+    },
+    "258": {
+        "岩穴の廃屋": "Abandoned House"
+    },
+    "259": {
+        "下水道前": "Sewer Front"
+    },
+    "260": {
+        "clarity_nt_char_85": "clarity_nt_char_85"
+    },
+    "261": {
+        "裏通り": "Alleyway"
+    },
+    "262": {
+        "ディンガ交易所": "Dinga Trade Post"
+    },
+    "263": {
+        "城への抜け道": "Castle Loophole"
+    },
+    "264": {
+        "clarity_nt_char_86": "clarity_nt_char_86"
+    },
+    "265": {
+        "王墓前": "Roy. Tomb"
+    },
+    "266": {
+        "王都跡": "City Ruin"
+    },
+    "267": {
+        "集落跡": "Town Ruin"
+    },
+    "268": {
+        "棺桶乗り場": "Coffin Platform"
+    },
+    "269": {
+        "井戸前": "Well"
+    },
+    "270": {
+        "商業区画": "Comm. Area"
+    },
+    "271": {
+        "clarity_nt_char_87": "clarity_nt_char_87"
+    },
+    "272": {
+        "アトリエ": "Atelier"
+    },
+    "273": {
+        "clarity_nt_char_88": "clarity_nt_char_88"
+    },
+    "274": {
+        "西翼": "W Wing"
+    },
+    "275": {
+        "clarity_nt_char_89": "clarity_nt_char_89"
+    },
+    "276": {
+        "３階": "3F"
+    },
+    "277": {
+        "clarity_nt_char_90": "clarity_nt_char_90"
+    },
+    "278": {
+        "駐屯所": "Garrison"
+    },
+    "279": {
+        "顔壁前": "Face Wall"
+    },
+    "280": {
+        "東翼": "E Wing"
+    },
+    "281": {
+        "clarity_nt_char_91": "clarity_nt_char_91"
+    },
+    "282": {
+        "？？？？": "????"
+    },
+    "283": {
+        "clarity_nt_char_92": "clarity_nt_char_92"
+    },
+    "284": {
+        "温泉峡前": "Spring Gorge"
+    },
+    "285": {
+        "clarity_nt_char_93": "clarity_nt_char_93"
+    },
+    "286": {
+        "<%sW_REP_MIN_2ND_F>コニウェア": "<%sW_REP_MAX_2ND_F>Coniware"
+    },
+    "287": {
+        "clarity_nt_char_94": "clarity_nt_char_94"
+    },
+    "288": {
+        "玉座の間前": "Throne Room"
+    },
+    "289": {
+        "魔界": "Makai"
+    },
+    "290": {
+        "clarity_nt_char_95": "clarity_nt_char_95"
+    },
+    "291": {
+        "盾島": "Shd I."
+    },
+    "292": {
+        "clarity_nt_char_96": "clarity_nt_char_96"
+    },
+    "293": {
+        "<%sW_REP_MIN_2ND_F>ロヴォス高地": "<%sW_REP_MAX_2ND_F>Rovos Highlands"
+    },
+    "294": {
+        "最上階": "Top Floor"
+    }
 }
