@@ -24123,7 +24123,7 @@
         "clarity_nt_char_2721": "clarity_nt_char_2721"
     },
     "8042": {
-        "参加条件": ""
+        "参加条件": "Conditions"
     },
     "8043": {
         "clarity_nt_char_2722": "clarity_nt_char_2722"
@@ -24444,10 +24444,10 @@
         "clarity_nt_char_2754": "clarity_nt_char_2754"
     },
     "8149": {
-        "参加条件　なし": ""
+        "参加条件　なし": "Conditions None"
     },
     "8150": {
-        "参加条件　あり": ""
+        "参加条件　あり": "Has Conditions"
     },
     "8151": {
         "写真はありません": ""
