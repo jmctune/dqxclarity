@@ -1830,19 +1830,19 @@
         "clarity_nt_char_206": "clarity_nt_char_206"
     },
     "611": {
-        "<speed=0>チーム機能をオンにすると　画面右上に|チームの発言が　表示されるようになります。|チーム機能を　『オン』に設定しますか？|<yesno><close>": ""
+        "<speed=0>チーム機能をオンにすると　画面右上に|チームの発言が　表示されるようになります。|チーム機能を　『オン』に設定しますか？|<yesno><close>": "<speed=0>|If you turn on Team Chat, you will see team|messages appear at the top right corner of the|screen. Turn on Team Chat?|<yesno><close>"
     },
     "612": {
         "clarity_nt_char_207": "clarity_nt_char_207"
     },
     "613": {
-        "<speed=0>チーム機能をオフにすると　画面右上の|チームの発言が　表示されなくなります。|チーム機能を　『オフ』に設定しますか？|<yesno><close>": ""
+        "<speed=0>チーム機能をオフにすると　画面右上の|チームの発言が　表示されなくなります。|チーム機能を　『オフ』に設定しますか？|<yesno><close>": "<speed=0>|If you turn off Team Chat, you won't see team|messages appear at the top right corner of the|screen. Turn off Team Chat?|<yesno><close>"
     },
     "614": {
         "clarity_nt_char_208": "clarity_nt_char_208"
     },
     "615": {
-        "<speed=0>チーム機能を　『オン』に設定しました。": ""
+        "<speed=0>チーム機能を　『オン』に設定しました。": "<speed=0>Team Chat has been turned on."
     },
     "616": {
         "clarity_nt_char_209": "clarity_nt_char_209"
