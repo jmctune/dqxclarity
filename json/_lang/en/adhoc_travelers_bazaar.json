@@ -264,7 +264,7 @@
         "「おや？　<%sL_STORAGE>は|　空っぽのようですね。|<bw_break>": ""
     },
     "89": {
-        "「ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you very much!|Please come again!|<turn_end>"
+        "「ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you very much! |Please come again!|<turn_end>"
     },
     "90": {
         "「いらっしゃいませ。|　こちらは　旅人バザーです。|　今日は　どうしますか？|<break>": "Hello!|Welcome to the Traveler's Bazaar!|What would you like to do today?|<break>"
@@ -1914,7 +1914,7 @@
         "「……あっ！　その商品は　タッチの差で|　他の人に　売れてしまったようです。|　こういうこともあるのです。申し訳ありません。|<bw_break>": ""
     },
     "639": {
-        "「ありがとうございました。|　また　お越しくださいませっ！|<turn_end>": "Thank you very much!|Please come again!|<turn_end>"
+        "「ありがとうございました。|　また　お越しくださいませっ！|<turn_end>": "Thank you very much! |Please come again!|<turn_end>"
     },
     "640": {
         "「あれ？　はじめて　装備をするようですね。|　でしたら　ひとつ大事な注意があるのです！|<br>|「装備品は　最初に装備した人が|　その使用者に　決まるのです。|　あなた専用の装備と　認められる感じですね。|<br>|「なので　一度　使用者が決まった装備品は|　他の人に　渡すことができなくなります。|　それでも　ここで装備していきますか？|<yesno><break>": ""
