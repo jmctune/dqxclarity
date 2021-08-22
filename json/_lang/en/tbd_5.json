@@ -681,7 +681,7 @@
         "clarity_nt_char_75": "clarity_nt_char_75"
     },
     "228": {
-        "<%sL_OWNER>の畑に <%sL_ITEM>を 使った！": "Used <%sL_ITEM> on <%sL_OWNER>'s garden!"
+        "<%sL_OWNER>の畑に <%sL_ITEM>を 使った！": "Used <%sL_ITEM> on <%sL_OWNER>'s field!"
     },
     "229": {
         "<%sL_OWNER>の畑に <%sL_ITEM>を まいた！": "<%sL_ITEM> planted in <%sL_OWNER>'s garden!"
