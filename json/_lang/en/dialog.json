@@ -9219,7 +9219,7 @@
         "<speed=0>魔の波動が高まっていないため　使用できない！": ""
     },
     "3074": {
-        "<speed=0>|何ゲーム遊びますか？|２ゲーム目からは　ゲームを始める前に|ほかの階級のプレイヤーと　カードを交換します。|<select_se_off>|１ゲーム|２ゲーム|３ゲーム|４ゲーム|<select_end><close>": "<speed=0>|How many games do you want to play? From the|second game, you exchange cards with other|players of the same rank before starting.|<select_se_off>|1 game|2 games|3 games|4 games|<select_end><close>"
+        "<speed=0>|何ゲーム遊びますか？|２ゲーム目からは　ゲームを始める前に|ほかの階級のプレイヤーと　カードを交換します。|<select_se_off>|１ゲーム|２ゲーム|３ゲーム|４ゲーム|<select_end><close>": "<speed=0>|How many games do you want to play? From the|second game, you exchange cards with other|players of the same rank before starting.|<select_se_off>|1 Game|2 Games|3 Games|4 Games|<select_end><close>"
     },
     "3075": {
         "スタンダード": "Standard"
