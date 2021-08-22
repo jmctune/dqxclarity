@@ -22923,7 +22923,7 @@
         "<speed=0>ゼルメアの聖紋を　<%nM_NUM>個使って|装備レベル<%nM_LV>の防具が　手に入る|地下<%nM_FLOOR>階に　行きますか？<yesno><close>": "<speed=0>Would you like to go to B<%dM_FLOOR>F of Zelmea|where you can receive equipment of level <%dM_LV>?|This will cost <%nM_NUM> Zelmea Crests.<yesno><close>"
     },
     "7642": {
-        "<speed=0>ほかの冒険者と　パーティを組んでいる時は|参加する人の数だけ　ゼルメアの聖紋が必要です。|<br>|ゼルメアの聖紋を　<%nM_NUM>個使って|装備レベル<%nM_LV>の防具が　手に入る|地下<%nM_FLOOR>階に　行きますか？<yesno><close>": "<speed=0>While partied with other players, you will|need as many Zelmea Crests as there are|participants.|<br>|Would you like to go to B<%dM_FLOOR>F of Zelmea|where you can receive equipment of level <%dM_LV>?|This will cost <%nM_NUM> Zelmea Crests.<yesno><close>"
+        "<speed=0>ほかの冒険者と　パーティを組んでいる時は|参加する人の数だけ　ゼルメアの聖紋が必要です。|<br>|ゼルメアの聖紋を　<%nM_NUM>個使って|装備レベル<%nM_LV>の防具が　手に入る|地下<%nM_FLOOR>階に　行きますか？<yesno><close>": "<speed=0>While partied with other players, you will|need as many Zelmea Crests as there are|participants.|<br>|Would you like to go to B<%dM_FLOOR>F of Zelmea|where you can receive equipment of level <%dM_LV>?|This will cost <%dM_NUM> Zelmea Crests.<yesno><close>"
     },
     "7643": {
         "いれかえ": "Change"
