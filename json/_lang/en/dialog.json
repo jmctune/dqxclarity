@@ -3798,7 +3798,7 @@
         "clarity_nt_char_420": "clarity_nt_char_420"
     },
     "1267": {
-        "<speed=0><%sL_PC>（<%sC_MURA>住宅村）さんの家が|チーム集会所に設定されています。|チーム集会所に移動しますか？|<yesno><close>": ""
+        "<speed=0><%sL_PC>（<%sC_MURA>住宅村）さんの家が|チーム集会所に設定されています。|チーム集会所に移動しますか？|<yesno><close>": "<speed=0><%sL_PC>'s (<%sC_MURA> Residence) is set as|the Team Home.|Would you like to go there now?|<yesno><close>"
     },
     "1268": {
         "clarity_nt_char_421": "clarity_nt_char_421"
