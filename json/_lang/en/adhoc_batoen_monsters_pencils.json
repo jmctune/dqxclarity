@@ -765,7 +765,7 @@
         "clarity_nt_char_255": "clarity_nt_char_255"
     },
     "256": {
-        "{color=skyblue}マヒャド{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kacrack{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x6"
+        "{color=skyblue}マヒャド{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kacrack{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "257": {
         "ラブリーフェイス　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　魅了する": "Minacious Allure　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Charm"
