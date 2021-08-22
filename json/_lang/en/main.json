@@ -29805,7 +29805,7 @@
         "clarity_nt_char_3345": "clarity_nt_char_3345"
     },
     "9936": {
-        "<speed=0>コンテンツの　近くの場所まで　移動しますか？|<yesno><close>": ""
+        "<speed=0>コンテンツの　近くの場所まで　移動しますか？|<yesno><close>": "<speed=0>Do you want to move to this content's|location?|<yesno><close>"
     },
     "9937": {
         "clarity_nt_char_3346": "clarity_nt_char_3346"
