@@ -2922,7 +2922,7 @@
         "clarity_nt_char_346": "clarity_nt_char_346"
     },
     "975": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 逃げだした。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e Ran away."
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 逃げだした。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e ran away."
     },
     "976": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ぶんれつ！": ""
