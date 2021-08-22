@@ -1107,7 +1107,7 @@
         "clarity_nt_char_369": "clarity_nt_char_369"
     },
     "370": {
-        "ブレードガード　このターン打撃ダメージを受けない": "Greatsword Guard　Nullify Phys. Damage This Turn"
+        "ブレードガード　このターン打撃ダメージを受けない": "Greatsword Guard　Null Phys. Damage This Turn"
     },
     "371": {
         "clarity_nt_char_371": "clarity_nt_char_371"
@@ -1125,7 +1125,7 @@
         "clarity_nt_char_375": "clarity_nt_char_375"
     },
     "376": {
-        "盾ガード　　　このターン打撃ダメージを受けない": "Block　Nullify Phys. Damage This Turn"
+        "盾ガード　　　このターン打撃ダメージを受けない": "Block　Null Phys. Damage This Turn"
     },
     "377": {
         "{color=skyblue}ディバインスペル{color=default}　<%sM_Target_1>を{color=skyblue}呪文{color=default}に弱くする（－２０）": "{color=skyblue}Divine Intervention{color=default}　<%sM_Target_1> {color=skyblue}Spell{color=default} Damage ↓ (-20)"
@@ -1275,7 +1275,7 @@
         "clarity_nt_char_425": "clarity_nt_char_425"
     },
     "426": {
-        "殻にとじこもる　　このターン打撃ダメージを受けない": "Shell Retreat　Nullify Phys. Damage This Turn"
+        "殻にとじこもる　　このターン打撃ダメージを受けない": "Shell Retreat　Null Phys. Damage This Turn"
     },
     "427": {
         "{color=skyblue}ヒャダルコ{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Crackle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
