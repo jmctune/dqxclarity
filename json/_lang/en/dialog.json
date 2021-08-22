@@ -1824,7 +1824,7 @@
         "<speed=0>小目的が　設定されていません！|小目的を設定してから　検索してください。": ""
     },
     "609": {
-        "<speed=0>|チーム機能切替で　チーム機能をオフにすると|画面右上の　チームの発言が表示されなくなるなど|一時的に　チーム機能を　お休みにできます。|<br>|チーム機能を　オフにしているときは|他のメンバーには　『お休み中』と表示されます。": ""
+        "<speed=0>|チーム機能切替で　チーム機能をオフにすると|画面右上の　チームの発言が表示されなくなるなど|一時的に　チーム機能を　お休みにできます。|<br>|チーム機能を　オフにしているときは|他のメンバーには　『お休み中』と表示されます。": "<speed=0>|If you turn off Team Chat, you won't see|team messages appear at the top right corner|of the screen.|<br>|While Team Chat is turned off, other Team|members will see your status as \"Resting\"."
     },
     "610": {
         "clarity_nt_char_206": "clarity_nt_char_206"
