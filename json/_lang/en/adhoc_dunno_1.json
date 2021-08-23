@@ -384,7 +384,7 @@
         "アンルシアと一緒に　迷宮に挑み|謎の魂を　助けてあげよう。": "Challenge the Maze with Anlucia|and help the mysterious soul."
     },
     "129": {
-        "もう一度　迷宮に挑戦して|迷宮レベルを　上げてみよう。": "Challenge the Maze again and raise your|Maze Level."
+        "もう一度　迷宮に挑戦して|迷宮レベルを　上げてみよう。": "Challenge the Maze again|and raise your Maze Level."
     },
     "130": {
         "さらに迷宮を突破して　謎の魂の|記憶の　てがかりを探そう。": ""
@@ -408,10 +408,10 @@
         "<color_yellow>ゆめみの箱を　入手しました！|<br>|迷宮内に落ちている　ゆめみの箱は|画面左上に表示されている　心の輝きと引き換えに|闇を払い　手に入れることができますが……|<br>|迷宮内で全滅してしまうと　外の世界へ|持ち帰って　中身を取り出すことはできず|失われてしまいますので　ご注意ください。": ""
     },
     "137": {
-        "<color_yellow>うつしよの箱を　入手しました！|<br>|心層の迷宮では　ボスを撃破することで|クリア報酬として　うつしよの箱を|手に入れることができます。|<br>|さらに　迷宮レベルが高いほど|より高い効果を持つ　輝石のベルトが|手に入りやすくなる可能性も！": ""
+        "<color_yellow>うつしよの箱を　入手しました！|<br>|心層の迷宮では　ボスを撃破することで|クリア報酬として　うつしよの箱を|手に入れることができます。|<br>|さらに　迷宮レベルが高いほど|より高い効果を持つ　輝石のベルトが|手に入りやすくなる可能性も！": "<color_yellow>Received a World Box!|<br>|In the Mind Maze, you can get a World|Box as a reward for defeating the boss.|<br>|In addition, the higher your Maze Level is,|the easier it is to find Augite Belts with|stronger effects!"
     },
     "138": {
-        "迷宮レベルが上がると|迷宮の主が　少し手強くなるぞ。": ""
+        "迷宮レベルが上がると|迷宮の主が　少し手強くなるぞ。": "As Maze Level increases, the Maze|Lord will grow slightly stronger."
     },
     "139": {
         "謎の魂の　記憶を取り戻すカギを|見つけられそうな　予感がする。": ""
