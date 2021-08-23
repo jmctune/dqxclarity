@@ -3,7 +3,7 @@
         "仲間と一緒に　この先に行くためには|一緒に行きたい仲間の準備が|完了している必要があります。|<select>|仲間の準備完了を待つ|この先に行くのをやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": "In order to proceed, you'll have to be ready|with your party.|<select>|Wait for Party|Stop Waiting|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "2": {
-        "地下１階　薄明の空園": "B1F Twilight Garden"
+        "地下１階　薄明の空園": "B1F Twilight Sky Garden"
     },
     "3": {
         "地下２階　薄明の砂漠": "B2F Twilight Desert"
@@ -39,19 +39,19 @@
         "地下12階　眠れる聖林": "B12F Sleeping Forest"
     },
     "14": {
-        "地下13階　終焉の間": ""
+        "地下13階　終焉の間": "B13F Hall of Demise"
     },
     "15": {
-        "地下14階　薄明の空園": ""
+        "地下14階　薄明の空園": "B14F Twilight Sky Garden"
     },
     "16": {
-        "地下15階　薄明の砂漠": ""
+        "地下15階　薄明の砂漠": "B15F Twilight Desert"
     },
     "17": {
-        "地下16階　薄明の聖林": ""
+        "地下16階　薄明の聖林": "B16F Twilight Forest"
     },
     "18": {
-        "地下17階　陽光の空園": ""
+        "地下17階　陽光の空園": "B17F Sunny Sky Garden"
     },
     "19": {
         "地下18階　陽光の砂漠": ""
