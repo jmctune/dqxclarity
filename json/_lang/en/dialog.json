@@ -2004,7 +2004,7 @@
         "<speed=0>さそいを受けられない人がいます。|一緒に行かない人は　ここで|仲間からはずれますが　よろしいですか？<yesno 2><close>": ""
     },
     "669": {
-        "<speed=0>誘った仲間が　そろいました。<break>": ""
+        "<speed=0>誘った仲間が　そろいました。<break>": "<speed=0>Invited friends are gathered.<break>"
     },
     "670": {
         "clarity_nt_char_227": "clarity_nt_char_227"
