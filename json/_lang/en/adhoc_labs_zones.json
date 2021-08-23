@@ -54,31 +54,31 @@
         "地下17階　陽光の空園": "B17F Sunny Sky Garden"
     },
     "19": {
-        "地下18階　陽光の砂漠": ""
+        "地下18階　陽光の砂漠": "B18F Sunlight Desert"
     },
     "20": {
-        "地下19階　陽光の聖林": ""
+        "地下19階　陽光の聖林": "B19F Sunlight Forest"
     },
     "21": {
-        "地下20階　落陽の空園": ""
+        "地下20階　落陽の空園": "B20F Sunset Sky Garden"
     },
     "22": {
-        "地下21階　落陽の砂漠": ""
+        "地下21階　落陽の砂漠": "B21F Sunset Desert"
     },
     "23": {
-        "地下22階　落陽の聖林": ""
+        "地下22階　落陽の聖林": "B22F Sunset Forest"
     },
     "24": {
-        "地下23階　眠れる空園": ""
+        "地下23階　眠れる空園": "B23F Sleeping Sky Garden"
     },
     "25": {
-        "地下24階　眠れる砂漠": ""
+        "地下24階　眠れる砂漠": "B24F Sleeping Desert"
     },
     "26": {
-        "地下25階　眠れる聖林": ""
+        "地下25階　眠れる聖林": "B25F Sleeping Forest"
     },
     "27": {
-        "<%sC_SENTAKU_TEXT>で　よろしいですか？": ""
+        "<%sC_SENTAKU_TEXT>で　よろしいですか？": "<%sC_SENTAKU_TEXT> is okay?"
     },
     "28": {
         "仲間が　そろいました。|パーティ同盟相手の　仲間たちを待ちます。<wait=1000><close>": "The party has gathered.|Please wait for the other parties.<wait=1000><close>"
