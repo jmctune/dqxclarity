@@ -303,7 +303,7 @@
         "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
     },
     "102": {
-        "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
+        "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off 2>|Item Storage|Gold Bank|<select_end><break>"
     },
     "103": {
         "<select_se_off>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|Change Name|<select_end><break>"
@@ -1962,7 +1962,7 @@
         "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
     },
     "655": {
-        "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
+        "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off 2>|Item Storage|Gold Bank|<select_end><break>"
     },
     "656": {
         "<select_se_off>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|Change Name|<select_end><break>"
