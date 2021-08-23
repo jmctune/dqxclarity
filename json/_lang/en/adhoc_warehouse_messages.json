@@ -300,7 +300,7 @@
         "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": ""
     },
     "101": {
-        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
+        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
     },
     "102": {
         "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
@@ -765,7 +765,7 @@
         "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": ""
     },
     "256": {
-        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
+        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
     },
     "257": {
         "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
@@ -1158,7 +1158,7 @@
         "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": ""
     },
     "387": {
-        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
+        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
     },
     "388": {
         "<select_se_off 3>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
@@ -1551,7 +1551,7 @@
         "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": ""
     },
     "518": {
-        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
+        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
     },
     "519": {
         "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
@@ -1959,7 +1959,7 @@
         "未使用|<turn_end>": ""
     },
     "654": {
-        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
+        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
     },
     "655": {
         "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
