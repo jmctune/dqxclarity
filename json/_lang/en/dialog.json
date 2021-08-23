@@ -600,7 +600,7 @@
         "<speed=0>『<%sM_Quest2>』をキャンセルして|クエスト『<%sM_Quest1>』が|リプレイできるように　なりました！": "<speed=0>You can now cancel the quest \"<%sM_Quest2>\"|and replay the quest \"<%sM_Quest1>\"!"
     },
     "201": {
-        "<speed=0>クエスト『<%sM_Quest1>』を|キャンセルしました。": "<speed=0>The quest \"<%sM_Quest1>\" was cancelled."
+        "<speed=0>クエスト『<%sM_Quest1>』を|キャンセルしました。": "<speed=0>The quest \"<%sM_Quest1>\"|was cancelled."
     },
     "202": {
         "<speed=0>クエスト『<%sM_Quest1>』の|リプレイを　取りやめました。": ""
