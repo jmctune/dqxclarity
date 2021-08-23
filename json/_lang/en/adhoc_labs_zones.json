@@ -3,13 +3,13 @@
         "仲間と一緒に　この先に行くためには|一緒に行きたい仲間の準備が|完了している必要があります。|<select>|仲間の準備完了を待つ|この先に行くのをやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": "In order to proceed, you'll have to be ready|with your party.|<select>|Wait for Party|Stop Waiting|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "2": {
-        "地下１階　薄明の空園": ""
+        "地下１階　薄明の空園": "B1F Twilight Garden"
     },
     "3": {
-        "地下２階　薄明の砂漠": ""
+        "地下２階　薄明の砂漠": "B2F Twilight Desert"
     },
     "4": {
-        "地下３階　薄明の聖林": ""
+        "地下３階　薄明の聖林": "B3F Twilight Forest"
     },
     "5": {
         "地下４階　陽光の空園": ""

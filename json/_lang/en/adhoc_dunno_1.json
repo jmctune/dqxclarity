@@ -171,10 +171,10 @@
         "地下１階　薄明の空園": "B1F Twilight Garden"
     },
     "58": {
-        "地下２階　薄明の砂漠": ""
+        "地下２階　薄明の砂漠": "B2F Twilight Desert"
     },
     "59": {
-        "地下３階　薄明の聖林": ""
+        "地下３階　薄明の聖林": "B3F Twilight Forest"
     },
     "60": {
         "地下４階　陽光の空園": ""
@@ -234,10 +234,10 @@
         "地下１階　薄明の空園": "B1F Twilight Garden"
     },
     "79": {
-        "地下２階　薄明の砂漠": ""
+        "地下２階　薄明の砂漠": "B2F Twilight Desert"
     },
     "80": {
-        "地下３階　薄明の聖林": ""
+        "地下３階　薄明の聖林": "B3F Twilight Forest"
     },
     "81": {
         "地下４階　陽光の空園": ""
@@ -294,7 +294,7 @@
         "このクエストの行き先には|まだ　行ったことがないので|行き先を表示することが　できません。 ": ""
     },
     "99": {
-        "アナザーモードの　<%sC_Kaisou>では|特別なクリア報酬が手に入り　クリア後には|アナザーモードのクリア状態がリセットされます。|<br>|リセット後に　ふたたび　アナザーモードの|地下１階から　地下13階までをクリアすれば|何度でもクリア報酬を手に入れることが可能です。|<br>|<%sC_Kaisou>に　行ってよろしいですか？<yesno><close>": ""
+        "アナザーモードの　<%sC_Kaisou>では|特別なクリア報酬が手に入り　クリア後には|アナザーモードのクリア状態がリセットされます。|<br>|リセット後に　ふたたび　アナザーモードの|地下１階から　地下13階までをクリアすれば|何度でもクリア報酬を手に入れることが可能です。|<br>|<%sC_Kaisou>に　行ってよろしいですか？<yesno><close>": "In <%sC_Kaisou>'s Another Mode, you'll get|a special clear reward. After completely|clearing, Another Mode will reset itself.|<br>|You can receive this reward as many times|as you like after resetting and clearing|B1F to B13F again.|<br>|Do you want to go to <%sC_Kaisou>?<yesno><close>"
     },
     "100": {
         "<%sC_Kaisou>に行きます。|すでに　クリア報酬を手に入れているため|クリア報酬は手に入りませんが　よろしいですか？<yesno><close>": ""
