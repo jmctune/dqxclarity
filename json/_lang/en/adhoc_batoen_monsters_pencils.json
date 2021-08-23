@@ -1113,7 +1113,7 @@
         "clarity_nt_char_371": "clarity_nt_char_371"
     },
     "372": {
-        "ジゴスパーク　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "Lightning Storm　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} Damage to <%sM_Target_2>"
+        "ジゴスパーク　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "Lightning Storm　{color=orange}<%dM_Damage_1>{color=default} to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} to <%sM_Target_2>"
     },
     "373": {
         "clarity_nt_char_373": "clarity_nt_char_373"
