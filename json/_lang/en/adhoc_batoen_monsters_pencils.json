@@ -480,7 +480,7 @@
         "ライガークラッシュ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ５のダメージ": "Wild Animaul　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x5"
     },
     "161": {
-        "タマげたニャー　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "Crazy Meow　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+        "タマげたニャー　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "Meow Bomb　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "162": {
         "clarity_nt_char_162": "clarity_nt_char_162"
@@ -1383,7 +1383,7 @@
         "{color=skyblue}スカラ{color=default}　　　　　守備力アップ（＋１０）": "{color=skyblue}Buff{color=default}　Defense Up (+10)"
     },
     "462": {
-        "タマげたニャー　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Crazy Meow　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+        "タマげたニャー　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Meow Bomb　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "463": {
         "{color=skyblue}ギラグレイド{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kasizzle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -1533,7 +1533,7 @@
         "clarity_nt_char_511": "clarity_nt_char_511"
     },
     "512": {
-        "タマげたニャー！": "Crazy Meow!"
+        "タマげたニャー！": "Meow Bomb!"
     },
     "513": {
         "clarity_nt_char_513": "clarity_nt_char_513"
@@ -2481,7 +2481,7 @@
         "clarity_nt_char_827": "clarity_nt_char_827"
     },
     "828": {
-        "武器ガード！": "Parried!"
+        "武器ガード！": "Parrying!"
     },
     "829": {
         "clarity_nt_char_829": "clarity_nt_char_829"
