@@ -6,7 +6,7 @@
         "<se_nots System 7>|<pc>たちは　すごろくで|<%nM_coin>枚の　カジノコインを手に入れた！": "<se_nots System 7>|<pc> and co. got <%dM_coin> Casino Coins|from Sugoroku!"
     },
     "3": {
-        "<pc>たちは　すごろくで|<%sCAS_HAHEN>を　<%nCAS_NUM>こ手に入れた！": "<pc> and co. got <%nCAS_NUM> <%sCAS_HAHEN>|from Sugoroku!"
+        "<pc>たちは　すごろくで|<%sCAS_HAHEN>を　<%nCAS_NUM>こ手に入れた！": "<pc> and co. got <%dCAS_NUM> <%sCAS_HAHEN>|from Sugoroku!"
     },
     "4": {
         "すごろくを中止しますか？|すごろくを中止しても　入手したカジノコインは|そのまま　手に入れることができます。|<yesno 2><close>": "Stop playing Sugoroku? You'll still keep your|earned Casino Coins even if you quit.|<yesno 2><close>"
@@ -18,7 +18,7 @@
         "<%sCAS_gambler>は|ちかくの教会で　いきかえった！": "<%sCAS_gambler> revived at a nearby|church!"
     },
     "7": {
-        "<%sCAS_monster>が　あらわれた！": "A <%sCAS_monster> draws near!"
+        "<%sCAS_monster>が　あらわれた！": "<%sCAS_monster> draws near!"
     },
     "8": {
         "<%sCAS_monster>を　やっつけた！": "<%sCAS_monster> was defeated!"
@@ -54,7 +54,7 @@
         "<%sCAS_gambler>は|レベル<%nCAS_now_level>に　あがった！": "<%sCAS_gambler> is now Level <%dCAS_now_level>!"
     },
     "19": {
-        "<se_nots System 7>|<pc>たちは　すごろくで|<%sCAS_item>を　<%nCAS_NUM>こ　手に入れた！": "<se_nots System 7>|<pc> and co. received|<%nCAS_NUM> <%sCAS_item> from Sugoroku!"
+        "<se_nots System 7>|<pc>たちは　すごろくで|<%sCAS_item>を　<%nCAS_NUM>こ　手に入れた！": "<se_nots System 7>|<pc> and co. received|<%dCAS_NUM> <%sCAS_item> from Sugoroku!"
     },
     "20": {
         "<%sCAS_gambler>は　すごろくを中止しました。|パーティから　抜けました。": "<%sCAS_gambler> stopped playing Sugoroku|and left the party."
@@ -153,10 +153,10 @@
         "さいだいＨＰが　<%nCAS_value>になった！|さいだいＭＰが　<%nCAS_value2>になった！|こうげき力が　<%nCAS_value3>になった！": "Max HP is now <%dCAS_value>!|Max MP is now <%dCAS_value2>!|Attack is now <%dCAS_value3>!"
     },
     "52": {
-        "<se_nots System 7>|<pc>は　すごろくで|<%sCAS_item>を　<%nCAS_NUM>こ　手に入れた！": "<se_nots System 7>|<pc> received <%nCAS_NUM> <%sCAS_item>|from Sugoroku!"
+        "<se_nots System 7>|<pc>は　すごろくで|<%sCAS_item>を　<%nCAS_NUM>こ　手に入れた！": "<se_nots System 7>|<pc> received <%dCAS_NUM> <%sCAS_item>|from Sugoroku!"
     },
     "53": {
-        "<se_nots System 7>|<pc>は　すごろくで|<%nM_coin>枚の　カジノコインを手に入れた！": "<se_nots System 7>|<pc> received <%nM_coin> Casino Coins|from Sugoroku!"
+        "<se_nots System 7>|<pc>は　すごろくで|<%nM_coin>枚の　カジノコインを手に入れた！": "<se_nots System 7>|<pc> received <%dM_coin> Casino Coins|from Sugoroku!"
     },
     "54": {
         "<%sCAS_gambler>は　ちからつきた。": "<%sCAS_gambler> is exhausted."
@@ -219,7 +219,7 @@
         "出会いの酒場マスで　仲間を増やして|『悪夢に囚われし街』マップを|５回　クリアしました！|<br>|その報酬として|<pc>は　好きな景品を|ひとつ　もらえるようになりました！|<me 71>": "Used the tavern to recruit companions and|cleared the \"Trapped Nightmare Town\" map|5 times!|<br>|Now you can choose your prize!"
     },
     "74": {
-        "<se_nots System 7>|<pc>は　すごろくで|合計<%nM_coin>枚の|カジノコインを手に入れた！": "<se_nots System 7>|<pc> received a total of <%nM_coin>|Casino Coins from Sugoroku!"
+        "<se_nots System 7>|<pc>は　すごろくで|合計<%nM_coin>枚の|カジノコインを手に入れた！": "<se_nots System 7>|<pc> received a total of <%dM_coin>|Casino Coins from Sugoroku!"
     },
     "75": {
         "<%sCAS_job>に　転職します。|よろしいですか？|<yesno><close>": "Do you want to change to <%sCAS_job>?|<yesno><close>"
