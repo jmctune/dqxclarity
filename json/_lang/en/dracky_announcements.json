@@ -4236,10 +4236,10 @@
         "clarity_nt_char_475": "clarity_nt_char_475"
     },
     "1413": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから 大富豪に 誘われました!": "Daifugo invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから 大富豪に 誘われました!": "Tycoon invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "1414": {
-        "大富豪の誘いが 時間切れになりました": "Daifugo invitation timed out."
+        "大富豪の誘いが 時間切れになりました": "Tycoon invitation timed out."
     },
     "1415": {
         "clarity_nt_char_476": "clarity_nt_char_476"
@@ -4251,7 +4251,7 @@
         "clarity_nt_char_477": "clarity_nt_char_477"
     },
     "1418": {
-        "大富豪に 参加しますか？": "Go and play Daifugo?"
+        "大富豪に 参加しますか？": "Go and play Tycoon?"
     },
     "1419": {
         "clarity_nt_char_478": "clarity_nt_char_478"
@@ -4281,7 +4281,7 @@
         "clarity_nt_char_481": "clarity_nt_char_481"
     },
     "1428": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが 大富豪から抜けました": "\\s<%sC_PC>\\m<%sC_ID>\\e left the Daifugo game."
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが 大富豪から抜けました": "\\s<%sC_PC>\\m<%sC_ID>\\e left the Tycoon game."
     },
     "1429": {
         "clarity_nt_char_482": "clarity_nt_char_482"
