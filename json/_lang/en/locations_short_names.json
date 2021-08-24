@@ -3651,7 +3651,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>地上への出口": "<%sW_MAP_NAME><%sW_DELIMITER>Exit to Above"
     },
     "1218": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下５階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下５階": "<%sW_MAP_NAME><%sW_DELIMITER>B5F"
     },
     "1219": {
         "<%sW_MAP_NAME><%sW_DELIMITER>地下６階": "<%sW_MAP_NAME><%sW_DELIMITER>B6F"
