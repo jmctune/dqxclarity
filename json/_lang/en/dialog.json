@@ -9078,7 +9078,7 @@
         "<speed=0><%sM_item><%sM_plusnum>は|ドレスアップされていますが|本当に　捨ててもいいですか？<yesno2><close>": "<speed=0><%sM_item><%sM_plusnum> has a glamour. Is it okay to|throw it away?<yesno2><close>"
     },
     "3027": {
-        "<speed=0><%sM_item><%sM_plusnum>は|カラーリングされていますが|本当に　捨ててもいいですか？<yesno2><close>": ""
+        "<speed=0><%sM_item><%sM_plusnum>は|カラーリングされていますが|本当に　捨ててもいいですか？<yesno2><close>": "<speed=0><%sM_item><%sM_plusnum> is dyed.|Are you sure you want to throw it away?<yesno2><close>"
     },
     "3028": {
         "<speed=0>|選択した職業に　現在の　ふりわけを|上書きして反映しました！|<color_yellow>※職業専用の宝珠は　反映されません。": ""
