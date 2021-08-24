@@ -9123,7 +9123,7 @@
         "このルールで　大富豪を遊びます。|４人着席すると　はじまります。|<%nM_NUM_GAME>ゲーム遊びますが　よろしいですか？|<yesno><close>": ""
     },
     "3042": {
-        "大富豪への参加を　キャンセルします。|よろしいですか？|<yesno2><close>": "Daifugo participation will be cancelled.|Are you sure?|<yesno2><close>"
+        "大富豪への参加を　キャンセルします。|よろしいですか？|<yesno2><close>": "Tycoon participation will be cancelled.|Are you sure?|<yesno2><close>"
     },
     "3043": {
         "「トランプケース」を持っていなかった。|娯楽島ラッカランにいる　大富豪協会員プゴルに|「トランプケース」を　もらいに行こう！|<end>": ""
