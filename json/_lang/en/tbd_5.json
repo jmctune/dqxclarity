@@ -3696,7 +3696,7 @@
         "<%sL_name>は<%sL_card>を<%dL_num>枚出した": ""
     },
     "1233": {
-        "<%sL_name>は<%sL_card>を<%dL_num>枚とジョーカーを<%dL_num2>枚出した": ""
+        "<%sL_name>は<%sL_card>を<%dL_num>枚とジョーカーを<%dL_num2>枚出した": "<%sL_name> played <%dL_num> <%sL_card> and <%dL_num2> joker(s)."
     },
     "1234": {
         "<%sL_name>はジョーカーを2枚出した": "<%sL_name> played two jokers."
@@ -3894,7 +3894,7 @@
         "clarity_nt_char_431": "clarity_nt_char_431"
     },
     "1299": {
-        "ジョーカーが出されて　あつまったスライムがすべて消えた": ""
+        "ジョーカーが出されて　あつまったスライムがすべて消えた": "The Joker was played and all Slimes disappeared."
     },
     "1300": {
         "段位戦ポイントを　<%dL_rank_point>P 失った": "Lost <%dL_rank_point> Dan Battle Rank Points"
