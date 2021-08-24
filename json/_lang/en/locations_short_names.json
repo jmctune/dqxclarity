@@ -3657,10 +3657,10 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>地下６階": "<%sW_MAP_NAME><%sW_DELIMITER>B6F"
     },
     "1220": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下７階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下７階": "<%sW_MAP_NAME><%sW_DELIMITER>B7F"
     },
     "1221": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下８階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下８階": "<%sW_MAP_NAME><%sW_DELIMITER>B8F"
     },
     "1222": {
         "メルサンディ穀倉帯への道": "Melsandy Granary Belt Way"
