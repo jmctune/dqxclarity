@@ -4236,7 +4236,7 @@
         "clarity_nt_char_475": "clarity_nt_char_475"
     },
     "1413": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから 大富豪に 誘われました!": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから 大富豪に 誘われました!": "Daifugo invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "1414": {
         "大富豪の誘いが 時間切れになりました": "Daifugo invitation timed out."
@@ -4251,7 +4251,7 @@
         "clarity_nt_char_477": "clarity_nt_char_477"
     },
     "1418": {
-        "大富豪に 参加しますか？": ""
+        "大富豪に 参加しますか？": "Go and play Daifugo?"
     },
     "1419": {
         "clarity_nt_char_478": "clarity_nt_char_478"
