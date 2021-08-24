@@ -129,7 +129,7 @@
         "clarity_nt_char_14": "clarity_nt_char_14"
     },
     "44": {
-        "<speed=0>『通知する』に　変更しました。|<%sM_pc>さんが　ログインしたときに|ナビメッセージで通知します。": "<speed=0>Set to \"Notify\". You will receive a notification|whenever <%sM_pc> logs in."
+        "<speed=0>『通知する』に　変更しました。|<%sM_pc>さんが　ログインしたときに|ナビメッセージで通知します。": "<speed=0>Set to \"Notify\". You will be notified|whenever <%sM_pc> logs in."
     },
     "45": {
         "<speed=0><%sM_pc>さんが　ログインしたときに|ログインを　『通知しない』から|『通知する』に　変更しますか？|<yesno 1><close>": "<speed=0>Do you want to change from \"Do Not Notify\"|to \"Notify\" whenever <%sM_pc> logs in?|<yesno 1><close>"
