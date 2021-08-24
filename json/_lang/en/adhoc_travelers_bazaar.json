@@ -378,7 +378,7 @@
         "「おやめになるのですね。|　では　他の物を出品いたしますか？|<break>": ""
     },
     "127": {
-        "「<pc>さまは　あと<%nL_SYUPPIN>品|　出品できます。|　どちらを　出品なさいますか？|<break>": "<pc> you can sell <%nL_SYUPPIN> more items.|What would you like to sell?|<break>"
+        "「<pc>さまは　あと<%nL_SYUPPIN>品|　出品できます。|　どちらを　出品なさいますか？|<break>": "You can sell <%dL_SYUPPIN> more items.|What would you like to sell?|<break>"
     },
     "128": {
         "「こちらは　装備していれば|　戦いのときに　どうぐとして使っても|　効果がございます。|<bw_break>": ""
@@ -1521,7 +1521,7 @@
         "現在のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。": ""
     },
     "508": {
-        "「<pc>さまは　あと<%nL_SYUPPIN>品|　出品できます。|　どちらを　出品なさいますか？|<break>": ""
+        "「<pc>さまは　あと<%nL_SYUPPIN>品|　出品できます。|　どちらを　出品なさいますか？|<break>": "You can sell <%dL_SYUPPIN> more items.|What would you like to sell?|<break>"
     },
     "509": {
         "<select_se_off>|旅人バザーについて|装備品について|<select_end><break>": "<select_se_off>|About Traveler's Bazaar|About Equipment|<select_end><break>"
