@@ -6822,7 +6822,7 @@
         "前回と　異なるプラットフォームで|ログインされたため　契約情報が|更新されました。<br>|「思い出アルバム」の　使用最大枚数が|変化していますので　ご注意ください。": ""
     },
     "2275": {
-        "<speed=0><%sM_item>を　捨てますか？|この手紙は　『郵便局のおもいで私書箱』で|いつでも　見ることができます。<yesno2><close>": "<speed=0>Throw away <%sM_item>? This letter can be viewed at any|time at the Post Office.<yesno2><close>"
+        "<speed=0><%sM_item>を　捨てますか？|この手紙は　『郵便局のおもいで私書箱』で|いつでも　見ることができます。<yesno2><close>": "<speed=0>Throw away <%sM_item>? This|letter can be viewed at any|time at the Post Office.<yesno2><close>"
     },
     "2276": {
         "L1/R1ボタンを|押したときの|動きを設定します": "Set movement|when pressing|L1/R1 button."
@@ -6846,7 +6846,7 @@
         "<speed=0>ここでは　<%sB_MY_JACK_NAME>の心は|使えない！": ""
     },
     "2283": {
-        "<speed=0><%sM_item>を　捨てますか？|この手紙は　おもいで私書箱から見られません。|ご注意ください。<yesno2><close>": "<speed=0>Throw away <%sM_item>? This special letter can't be viewed|again in the Post Office, so please be sure.<yesno2><close>"
+        "<speed=0><%sM_item>を　捨てますか？|この手紙は　おもいで私書箱から見られません。|ご注意ください。<yesno2><close>": "<speed=0>Throw away <%sM_item>? This special|letter can't be viewedagain in the Post|Office, so please be sure.<yesno2><close>"
     },
     "2284": {
         "clarity_nt_char_773": "clarity_nt_char_773"
