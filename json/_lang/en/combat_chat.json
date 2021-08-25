@@ -24303,7 +24303,7 @@
         "clarity_nt_char_2707": "clarity_nt_char_2707"
     },
     "8102": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの前に 光のカベが あらわれた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e Barrier of light has appeared ahead!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの前に 光のカベが あらわれた！": "A barrier of light appeared in front of \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e!"
     },
     "8103": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは おいかぜを まとった！": ""
