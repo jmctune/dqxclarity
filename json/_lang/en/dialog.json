@@ -6846,7 +6846,7 @@
         "<speed=0>ここでは　<%sB_MY_JACK_NAME>の心は|使えない！": ""
     },
     "2283": {
-        "<speed=0><%sM_item>を　捨てますか？|この手紙は　おもいで私書箱から見られません。|ご注意ください。<yesno2><close>": "<speed=0>Throw away <%sM_item>? This special|letter can't be viewedagain in the Post|Office, so please be sure.<yesno2><close>"
+        "<speed=0><%sM_item>を　捨てますか？|この手紙は　おもいで私書箱から見られません。|ご注意ください。<yesno2><close>": "<speed=0>Throw away <%sM_item>? You|cannot view this special letter again at the|Post Office. Is this okay?<yesno2><close>"
     },
     "2284": {
         "clarity_nt_char_773": "clarity_nt_char_773"
