@@ -276,7 +276,7 @@
         "<left>ここより先　危険！|<left>この橋　渡るべからず。": ""
     },
     "93": {
-        "<center>↑グレン領西|<left>←この先　危険地帯！|<center>妖剣士の塚↓": ""
+        "<center>↑グレン領西|<left>←この先　危険地帯！|<center>妖剣士の塚↓": "<center>↑Glen West|<left>←Dangerous Area!|<center>Youkai Mound↓"
     },
     "94": {
         "<left>死者の眠りを　さまたげた者は|<left>その報いを　受けるだろう。": ""
@@ -315,7 +315,7 @@
         "<left>柵の下に見える地を　目指すなら|<left>死者たちが眠る洞くつを　通り抜けてゆくべし。": ""
     },
     "106": {
-        "<center>↑妖剣士の塚|<right>この先　危険地帯！→|<center>グレン領西↓": ""
+        "<center>↑妖剣士の塚|<right>この先　危険地帯！→|<center>グレン領西↓": "<center>↑Youkai Mound|<right>Dangerous Area!→|<center>Glen West↓"
     },
     "107": {
         "<left>この奥　妖剣士の眠る塚。|<left>死者の眠りを　さまたげるべからず。": ""
