@@ -141,13 +141,13 @@
         "<center>↑獅子門|<left>←グレン城|<center>グレン領西　ゲルト海峡↓": "<center>↑Lion Gate|<left>←Glen Castle|<center>Glen West　Gert Strait↓"
     },
     "48": {
-        "<center>↑グレン領西|<left>←ゲルト海峡|<right>グレン城　獅子門→": ""
+        "<center>↑グレン領西|<left>←ゲルト海峡|<right>グレン城　獅子門→": "<center>↑Glen West|<left>←Gert Strait|<right>Glen Castle　Lion Gate→"
     },
     "49": {
         "<center>↑グレン城": ""
     },
     "50": {
-        "<left>←ゲルト海峡|<center>グレン城　グレン領西　獅子門↓": ""
+        "<left>←ゲルト海峡|<center>グレン城　グレン領西　獅子門↓": "<left>←Gert Strait|<center>Glen Castle　Glen West　Lion Gate"
     },
     "51": {
         "<center>↑ゲルト海峡": ""
@@ -156,7 +156,7 @@
         "<center>↑ベコン渓谷": ""
     },
     "53": {
-        "<center>↑グレン領西": ""
+        "<center>↑グレン領西": "<center>↑Glen West"
     },
     "54": {
         "<left>←入り江の集落|<center>ガートラント領↓": ""
