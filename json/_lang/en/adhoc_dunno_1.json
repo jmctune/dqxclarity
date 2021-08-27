@@ -168,40 +168,40 @@
         "未使用": ""
     },
     "57": {
-        "地下１階　薄明の空園": ""
+        "地下１階　薄明の空園": "B1F Twilit Sky Garden"
     },
     "58": {
-        "地下２階　薄明の砂漠": ""
+        "地下２階　薄明の砂漠": "B2F Twilit Desert"
     },
     "59": {
-        "地下３階　薄明の聖林": ""
+        "地下３階　薄明の聖林": "B3F Twilit Forest"
     },
     "60": {
-        "地下４階　陽光の空園": ""
+        "地下４階　陽光の空園": "B4F Sunny Sky Garden"
     },
     "61": {
-        "地下５階　陽光の砂漠": ""
+        "地下５階　陽光の砂漠": "B5F Sunlight Desert"
     },
     "62": {
-        "地下６階　陽光の聖林": ""
+        "地下６階　陽光の聖林": "B6F Sunlight Forest"
     },
     "63": {
-        "地下７階　落日の空園": ""
+        "地下７階　落日の空園": "B7F Sunset Garden"
     },
     "64": {
-        "地下８階　落日の砂漠": ""
+        "地下８階　落日の砂漠": "B8F Sunset Desert"
     },
     "65": {
-        "地下９階　落日の聖林": ""
+        "地下９階　落日の聖林": "B9F Sunset Forest"
     },
     "66": {
-        "地下10階　闇夜の空園": ""
+        "地下10階　闇夜の空園": "B10F Night Sky Garden"
     },
     "67": {
-        "地下11階　闇夜の砂漠": ""
+        "地下11階　闇夜の砂漠": "B11F Night Desert"
     },
     "68": {
-        "地下12階　闇夜の聖林": ""
+        "地下12階　闇夜の聖林": "B12F Night Forest"
     },
     "69": {
         "未使用": ""
@@ -210,13 +210,13 @@
         "未使用": ""
     },
     "71": {
-        "地下13階　深淵の間": ""
+        "地下13階　深淵の間": "B13F Hall of Abyss"
     },
     "72": {
         "未使用": ""
     },
     "73": {
-        "<%sC_Kaisou>に　行きます。|よろしいですか？<yesno><close>": ""
+        "<%sC_Kaisou>に　行きます。|よろしいですか？<yesno><close>": "Go to <%sC_Kaisou>?<yesno><close>"
     },
     "74": {
         "闇の中に　<%sC_ITEM_NAME>がある。|勇気の輝きを　<%nC_KAGAYAKI_NUM>使って　手に入れますか？|<yesno><close>": ""
@@ -225,49 +225,49 @@
         "王家の迷宮の　アナザーモードに|チャレンジできるようになりました！": ""
     },
     "76": {
-        "行き先選択": ""
+        "行き先選択": "Destination"
     },
     "77": {
-        "アナザーモード": ""
+        "アナザーモード": "Another Mode"
     },
     "78": {
-        "地下１階　薄明の空園": ""
+        "地下１階　薄明の空園": "B1F Twilit Sky Garden"
     },
     "79": {
-        "地下２階　薄明の砂漠": ""
+        "地下２階　薄明の砂漠": "B2F Twilit Desert"
     },
     "80": {
-        "地下３階　薄明の聖林": ""
+        "地下３階　薄明の聖林": "B3F Twilit Forest"
     },
     "81": {
-        "地下４階　陽光の空園": ""
+        "地下４階　陽光の空園": "B4F Sunny Sky Garden"
     },
     "82": {
-        "地下５階　陽光の砂漠": ""
+        "地下５階　陽光の砂漠": "B5F Sunlight Desert"
     },
     "83": {
-        "地下６階　陽光の聖林": ""
+        "地下６階　陽光の聖林": "B6F Sunlight Forest"
     },
     "84": {
-        "地下７階　落日の空園": ""
+        "地下７階　落日の空園": "B7F Sunset Garden"
     },
     "85": {
-        "地下８階　落日の砂漠": ""
+        "地下８階　落日の砂漠": "B8F Sunset Desert"
     },
     "86": {
-        "地下９階　落日の聖林": ""
+        "地下９階　落日の聖林": "B9F Sunset Forest"
     },
     "87": {
-        "地下10階　闇夜の空園": ""
+        "地下10階　闇夜の空園": "B10F Night Sky Garden"
     },
     "88": {
-        "地下11階　闇夜の砂漠": ""
+        "地下11階　闇夜の砂漠": "B11F Night Desert"
     },
     "89": {
-        "地下12階　闇夜の聖林": ""
+        "地下12階　闇夜の聖林": "B12F Night Forest"
     },
     "90": {
-        "地下13階　輪廻の間": ""
+        "地下13階　輪廻の間": "B13F Hall of Rebirth"
     },
     "91": {
         "アナザーモードの|<%sC_Kaisou>に行きます。|よろしいですか？<yesno><close>": ""
@@ -294,7 +294,7 @@
         "このクエストの行き先には|まだ　行ったことがないので|行き先を表示することが　できません。 ": ""
     },
     "99": {
-        "アナザーモードの　<%sC_Kaisou>では|特別なクリア報酬が手に入り　クリア後には|アナザーモードのクリア状態がリセットされます。|<br>|リセット後に　ふたたび　アナザーモードの|地下１階から　地下13階までをクリアすれば|何度でもクリア報酬を手に入れることが可能です。|<br>|<%sC_Kaisou>に　行ってよろしいですか？<yesno><close>": ""
+        "アナザーモードの　<%sC_Kaisou>では|特別なクリア報酬が手に入り　クリア後には|アナザーモードのクリア状態がリセットされます。|<br>|リセット後に　ふたたび　アナザーモードの|地下１階から　地下13階までをクリアすれば|何度でもクリア報酬を手に入れることが可能です。|<br>|<%sC_Kaisou>に　行ってよろしいですか？<yesno><close>": "In <%sC_Kaisou>'s Another Mode, you'll get|a special clear reward. After completely|clearing, Another Mode will reset itself.|<br>|You can receive this reward as many times|as you like after resetting and clearing|B1F to B13F again.|<br>|Do you want to go to <%sC_Kaisou>?<yesno><close>"
     },
     "100": {
         "<%sC_Kaisou>に行きます。|すでに　クリア報酬を手に入れているため|クリア報酬は手に入りませんが　よろしいですか？<yesno><close>": ""
@@ -333,10 +333,10 @@
         "<pipipi_shigh>「う～む　不正解だ。|　ワガハイも　残念だぞ。<break>-- ▼クイズスライム（ライムウェル）": ""
     },
     "112": {
-        "仲間が　そろいました。|パーティ同盟相手の　仲間たちを待ちます。<wait=1000><close>": ""
+        "仲間が　そろいました。|パーティ同盟相手の　仲間たちを待ちます。<wait=1000><close>": "The party has gathered.|Please wait for the other parties.<wait=1000><close>"
     },
     "113": {
-        "仲間と一緒に　この先に行くためには|一緒に行きたい仲間の準備が|完了している必要があります。|<select>|仲間の準備完了を待つ|この先に行くのをやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": ""
+        "仲間と一緒に　この先に行くためには|一緒に行きたい仲間の準備が|完了している必要があります。|<select>|仲間の準備完了を待つ|この先に行くのをやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": "In order to proceed, you'll have to be ready|with your party.|<select>|Wait for Party|Stop Waiting|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "114": {
         "おはなしを　進めるために|<%sEV_GUIDESTAGE>の　近くの場所まで|ルーラで　移動しますか？<yesno><close>": "Do you want to use Zoom to warp near|your next story destination at|<%sEV_GUIDESTAGE>?<yesno><close>"
@@ -372,25 +372,25 @@
         "パーティ同盟相手の　仲間たちを待ちます。<wait=1000><close>": ""
     },
     "125": {
-        "悔恨の園": ""
+        "悔恨の園": "Regret Yard"
     },
     "126": {
-        "哀惜の砂漠": ""
+        "哀惜の砂漠": "Sorrow Desert"
     },
     "127": {
-        "断罪の森": ""
+        "断罪の森": "Judge. Wood"
     },
     "128": {
-        "アンルシアと一緒に　迷宮に挑み|謎の魂を　助けてあげよう。": ""
+        "アンルシアと一緒に　迷宮に挑み|謎の魂を　助けてあげよう。": "Challenge the Maze with Anlucia|and help the mysterious soul."
     },
     "129": {
-        "もう一度　迷宮に挑戦して|迷宮レベルを　上げてみよう。": ""
+        "もう一度　迷宮に挑戦して|迷宮レベルを　上げてみよう。": "Challenge the Maze again|and raise your Maze Level."
     },
     "130": {
         "さらに迷宮を突破して　謎の魂の|記憶の　てがかりを探そう。": ""
     },
     "131": {
-        "迷宮レベルが上がると|迷宮の主が　さらに手強くなるぞ。": ""
+        "迷宮レベルが上がると|迷宮の主が　さらに手強くなるぞ。": "As Maze Level increases, the Maze|Lord will grow stronger."
     },
     "132": {
         "迷宮の奥から感じる　気配が|すこし　強まったような気がする。": ""
@@ -408,10 +408,10 @@
         "<color_yellow>ゆめみの箱を　入手しました！|<br>|迷宮内に落ちている　ゆめみの箱は|画面左上に表示されている　心の輝きと引き換えに|闇を払い　手に入れることができますが……|<br>|迷宮内で全滅してしまうと　外の世界へ|持ち帰って　中身を取り出すことはできず|失われてしまいますので　ご注意ください。": ""
     },
     "137": {
-        "<color_yellow>うつしよの箱を　入手しました！|<br>|心層の迷宮では　ボスを撃破することで|クリア報酬として　うつしよの箱を|手に入れることができます。|<br>|さらに　迷宮レベルが高いほど|より高い効果を持つ　輝石のベルトが|手に入りやすくなる可能性も！": ""
+        "<color_yellow>うつしよの箱を　入手しました！|<br>|心層の迷宮では　ボスを撃破することで|クリア報酬として　うつしよの箱を|手に入れることができます。|<br>|さらに　迷宮レベルが高いほど|より高い効果を持つ　輝石のベルトが|手に入りやすくなる可能性も！": "<color_yellow>Received a World Box!|<br>|In the Mind Maze, you can get a World|Box as a reward for defeating the boss.|<br>|In addition, the higher your Maze Level is,|the easier it is to find Augite Belts with|stronger effects!"
     },
     "138": {
-        "迷宮レベルが上がると|迷宮の主が　少し手強くなるぞ。": ""
+        "迷宮レベルが上がると|迷宮の主が　少し手強くなるぞ。": "As Maze Level increases, the Maze|Lord will grow slightly stronger."
     },
     "139": {
         "謎の魂の　記憶を取り戻すカギを|見つけられそうな　予感がする。": ""
@@ -522,10 +522,10 @@
         "３": ""
     },
     "175": {
-        "極箱確定": ""
+        "極箱確定": "Certain"
     },
     "176": {
-        "極箱低確率": ""
+        "極箱低確率": "Low Chance"
     },
     "177": {
         "おはなしを　進めるために|<%sEV_GUIDESTAGE>の　近くの場所まで|エテーネルキューブで　移動しますか？<yesno><close>": ""

@@ -1680,7 +1680,7 @@
         "clarity_nt_char_186": "clarity_nt_char_186"
     },
     "561": {
-        "チームからはずす": ""
+        "チームからはずす": "Remove from Team"
     },
     "562": {
         "clarity_nt_char_187": "clarity_nt_char_187"
@@ -3309,7 +3309,7 @@
         "扇": "FAN"
     },
     "1104": {
-        "必要な素材": "Needed Mats."
+        "必要な素材": "Needed"
     },
     "1105": {
         "必要な数": "# Needed"
@@ -6687,7 +6687,7 @@
         "clarity_nt_char_769": "clarity_nt_char_769"
     },
     "2230": {
-        "いもうと": "L Sister"
+        "いもうと": "Y Sister"
     },
     "2231": {
         "clarity_nt_char_770": "clarity_nt_char_770"
@@ -7566,7 +7566,7 @@
         "clarity_nt_char_872": "clarity_nt_char_872"
     },
     "2523": {
-        "あなたの兄弟のキャラの　体型を選んでください": ""
+        "あなたの兄弟のキャラの　体型を選んでください": "Please choose your sibling's body shape."
     },
     "2524": {
         "clarity_nt_char_873": "clarity_nt_char_873"
@@ -7611,7 +7611,7 @@
         "clarity_nt_char_878": "clarity_nt_char_878"
     },
     "2538": {
-        "いろいろやってね": "Use Your Skills"
+        "いろいろやってね": "Mix It Up"
     },
     "2539": {
         "clarity_nt_char_879": "clarity_nt_char_879"
@@ -8592,16 +8592,16 @@
         "透過率": ""
     },
     "2865": {
-        "もらった手紙": "Received Letters"
+        "もらった手紙": "Received Mail"
     },
     "2866": {
         "clarity_nt_char_990": "clarity_nt_char_990"
     },
     "2867": {
-        "書いた手紙": "Written Letters"
+        "書いた手紙": "Written Mail"
     },
     "2868": {
-        "送った手紙": "Sent Letters"
+        "送った手紙": "Sent Mail"
     },
     "2869": {
         "荷物": "Items"
@@ -8613,7 +8613,7 @@
         "送る物": "Sending"
     },
     "2872": {
-        "<%sM_pc>の手紙": "<%sM_pc>'s Letter"
+        "<%sM_pc>の手紙": "<%sM_pc> Mail"
     },
     "2873": {
         "<%sM_teammei>": ""
@@ -8658,7 +8658,7 @@
         "（非表示）": "(Hidden)"
     },
     "2887": {
-        "お休み中": ""
+        "お休み中": "Resting"
     },
     "2888": {
         "clarity_nt_char_995": "clarity_nt_char_995"
@@ -8847,7 +8847,7 @@
         "clarity_nt_char_1020": "clarity_nt_char_1020"
     },
     "2950": {
-        "常にログアウト表示": "Always Show Logout"
+        "常にログアウト表示": "Appear Offline"
     },
     "2951": {
         "ログイン表示しない": "Don't Show Login"
@@ -9441,7 +9441,7 @@
         "錬金効果数は？": "Alch. Effects?"
     },
     "3148": {
-        "※あと<%2dM_num_2keta>人さそえます": ""
+        "※あと<%2dM_num_2keta>人さそえます": "※<%2dM_num_2keta> Invites Left"
     },
     "3149": {
         "モーモンバザーについて": ""
@@ -10041,7 +10041,7 @@
         "clarity_nt_char_1156": "clarity_nt_char_1156"
     },
     "3348": {
-        "ＭＰつかわないで": "Conserve MP"
+        "ＭＰつかわないで": "Don't Use MP"
     },
     "3349": {
         "clarity_nt_char_1157": "clarity_nt_char_1157"
@@ -10125,7 +10125,7 @@
         "clarity_nt_char_1166": "clarity_nt_char_1166"
     },
     "3376": {
-        "ポストで": ""
+        "ポストで": "Mailbox"
     },
     "3377": {
         "clarity_nt_char_1167": "clarity_nt_char_1167"
@@ -11955,7 +11955,7 @@
         "釣り上げたさかなの種類": "Fish Types Caught"
     },
     "3986": {
-        "釣れる場所": ""
+        "釣れる場所": "Where To Fish"
     },
     "3987": {
         "釣り上げた<%sM_world>のさかなの種類": "Types of Fish Caught At <%sM_world>"
@@ -11982,7 +11982,7 @@
         "さおを引く": "Reel Rod"
     },
     "3995": {
-        "釣れる場所を見る": ""
+        "釣れる場所を見る": "See Where To Fish"
     },
     "3996": {
         "clarity_nt_char_1365": "clarity_nt_char_1365"
@@ -12399,7 +12399,7 @@
         "ＨＰリンクをはずす": "Remove HP Link"
     },
     "4134": {
-        "ＭＰリンクをはずす": "Remove MP link"
+        "ＭＰリンクをはずす": "Remove MP Link"
     },
     "4135": {
         "[------]": ""
@@ -13047,7 +13047,7 @@
         "clarity_nt_char_1483": "clarity_nt_char_1483"
     },
     "4350": {
-        "スペシャルふくびき券": "Special Lottery Ticket"
+        "スペシャルふくびき券": "SP Lottery Ticket"
     },
     "4351": {
         "clarity_nt_char_1484": "clarity_nt_char_1484"
@@ -13521,13 +13521,13 @@
         "clarity_nt_char_1537": "clarity_nt_char_1537"
     },
     "4508": {
-        "初期の武器を表示": ""
+        "初期の武器を表示": "Show Original Gear"
     },
     "4509": {
         "clarity_nt_char_1538": "clarity_nt_char_1538"
     },
     "4510": {
-        "装備中武器を表示": ""
+        "装備中武器を表示": "Show Equipped Gear"
     },
     "4511": {
         "clarity_nt_char_1539": "clarity_nt_char_1539"
@@ -13989,7 +13989,7 @@
         "clarity_nt_char_1592": "clarity_nt_char_1592"
     },
     "4664": {
-        "（目的地が記憶されていません）": "(Destination not remembered)"
+        "（目的地が記憶されていません）": "(Destination not registered)"
     },
     "4665": {
         "グレン城下町": "Glen Castle Town"
@@ -14961,7 +14961,7 @@
         "手に入れる輝石": ""
     },
     "4988": {
-        "次の目標まで：": ""
+        "次の目標まで：": "Next Goal:"
     },
     "4989": {
         "特訓スキルポイント": ""
@@ -15726,7 +15726,7 @@
         "モンスターの生息地": ""
     },
     "5243": {
-        "討伐モンスター": ""
+        "討伐モンスター": "Defeated Monsters"
     },
     "5244": {
         "かかる時間": "Required Time"
@@ -15912,7 +15912,7 @@
         "宝珠の強化": ""
     },
     "5305": {
-        "宝珠をはずす": ""
+        "宝珠をはずす": "Remove Jewel"
     },
     "5306": {
         "clarity_nt_char_1801": "clarity_nt_char_1801"
@@ -16266,7 +16266,7 @@
         "clarity_nt_char_1846": "clarity_nt_char_1846"
     },
     "5423": {
-        "階層": ""
+        "階層": "Level"
     },
     "5424": {
         "clarity_nt_char_1847": "clarity_nt_char_1847"
@@ -16944,7 +16944,7 @@
         "clarity_nt_char_1926": "clarity_nt_char_1926"
     },
     "5649": {
-        "輝石効果の封印": ""
+        "輝石効果の封印": "Seal Effects"
     },
     "5650": {
         "お知らせ広場": ""
@@ -17103,7 +17103,7 @@
         "clarity_nt_char_1945": "clarity_nt_char_1945"
     },
     "5702": {
-        "あぶない水着": ""
+        "あぶない水着": "Scandalous Swmsuit"
     },
     "5703": {
         "clarity_nt_char_1946": "clarity_nt_char_1946"
@@ -17706,7 +17706,7 @@
         "clarity_nt_char_2012": "clarity_nt_char_2012"
     },
     "5903": {
-        "マイコーデを着る": ""
+        "マイコーデを着る": "Wear Glamour"
     },
     "5904": {
         "clarity_nt_char_2013": "clarity_nt_char_2013"
@@ -17796,7 +17796,7 @@
         "中目的": ""
     },
     "5933": {
-        "飾り石をはずす": ""
+        "飾り石をはずす": "Remove Stone"
     },
     "5934": {
         "みためそうびへ": ""
@@ -17982,7 +17982,7 @@
         "clarity_nt_char_2043": "clarity_nt_char_2043"
     },
     "5995": {
-        "経験値お預かり設定": "Saved XP Settings"
+        "経験値お預かり設定": "Saved EXP Settings"
     },
     "5996": {
         "封剣の門・四獄": "Sword Gate 4th Prison"
@@ -18609,7 +18609,7 @@
         "<%nM_mon>月の記録": "<%nM_mon> Moon Record"
     },
     "6204": {
-        "ゴロー": ""
+        "ゴロー": "Goro"
     },
     "6205": {
         "パウダー": ""
@@ -19050,7 +19050,7 @@
         "clarity_nt_char_2164": "clarity_nt_char_2164"
     },
     "6351": {
-        "お花の妖精効果で２倍！": ""
+        "お花の妖精効果で２倍！": "Fairy Flower Effect 2x!"
     },
     "6352": {
         "<%sM_soubi>を　もっていません。": "You do not have <%sM_soubi>."
@@ -19077,10 +19077,10 @@
         "clarity_nt_char_2166": "clarity_nt_char_2166"
     },
     "6360": {
-        "強化素材：": "Upgrade mats:"
+        "強化素材：": "Materials:"
     },
     "6361": {
-        "<%sM_item><%sM_plusnum>の強化後の錬金効果": "<%sM_item><%sM_plusnum> Effect after Enhancement"
+        "<%sM_item><%sM_plusnum>の強化後の錬金効果": "<%sM_item><%sM_plusnum> Effect After Enhancement"
     },
     "6362": {
         "clarity_nt_char_2167": "clarity_nt_char_2167"
@@ -19104,7 +19104,7 @@
         "必要 / 所持": "Need / Have"
     },
     "6369": {
-        "錬金効果の強化段階": ""
+        "錬金効果の強化段階": "Boost Alchemy Effects"
     },
     "6370": {
         "<%dM_sakashu3>": ""
@@ -19200,7 +19200,7 @@
         "clarity_nt_char_2181": "clarity_nt_char_2181"
     },
     "6401": {
-        "(これ以上強化できません)": "(I can't reinforce it any further)"
+        "(これ以上強化できません)": "(Cannot be further enhanced)"
     },
     "6402": {
         "素材/未鑑定アイテム": "Mats/Unidentified"
@@ -19305,7 +19305,7 @@
         "clarity_nt_char_2194": "clarity_nt_char_2194"
     },
     "6436": {
-        "レースエントリー": ""
+        "レースエントリー": "Race Entry"
     },
     "6437": {
         "clarity_nt_char_2195": "clarity_nt_char_2195"
@@ -20583,16 +20583,16 @@
         "clarity_nt_char_2335": "clarity_nt_char_2335"
     },
     "6862": {
-        "学園の体操着": ""
+        "学園の体操着": "School Gym Clothes"
     },
     "6863": {
         "clarity_nt_char_2336": "clarity_nt_char_2336"
     },
     "6864": {
-        "学園の浴衣": ""
+        "学園の浴衣": "School Yukata"
     },
     "6865": {
-        "学園の水着": ""
+        "学園の水着": "School Swimsuit"
     },
     "6866": {
         "プレゼントをあげる": ""
@@ -22206,7 +22206,7 @@
         "clarity_nt_char_2511": "clarity_nt_char_2511"
     },
     "7403": {
-        "必要数": ""
+        "必要数": "Souls"
     },
     "7404": {
         "カード切り替え": ""
@@ -22923,7 +22923,7 @@
         "<speed=0>ゼルメアの聖紋を　<%nM_NUM>個使って|装備レベル<%nM_LV>の防具が　手に入る|地下<%nM_FLOOR>階に　行きますか？<yesno><close>": "<speed=0>Would you like to go to B<%dM_FLOOR>F of Zelmea|where you can receive equipment of level <%dM_LV>?|This will cost <%nM_NUM> Zelmea Crests.<yesno><close>"
     },
     "7642": {
-        "<speed=0>ほかの冒険者と　パーティを組んでいる時は|参加する人の数だけ　ゼルメアの聖紋が必要です。|<br>|ゼルメアの聖紋を　<%nM_NUM>個使って|装備レベル<%nM_LV>の防具が　手に入る|地下<%nM_FLOOR>階に　行きますか？<yesno><close>": "<speed=0>While partied with other players, you will|need as many Zelmea Crests as there are|participants.|<br>|Would you like to go to B<%dM_FLOOR>F of Zelmea|where you can receive equipment of level <%dM_LV>?|This will cost <%nM_NUM> Zelmea Crests.<yesno><close>"
+        "<speed=0>ほかの冒険者と　パーティを組んでいる時は|参加する人の数だけ　ゼルメアの聖紋が必要です。|<br>|ゼルメアの聖紋を　<%nM_NUM>個使って|装備レベル<%nM_LV>の防具が　手に入る|地下<%nM_FLOOR>階に　行きますか？<yesno><close>": "<speed=0>While partied with other players, you will|need as many Zelmea Crests as there are|participants.|<br>|Would you like to go to B<%dM_FLOOR>F of Zelmea|where you can receive equipment of level <%dM_LV>?|This will cost <%dM_NUM> Zelmea Crests.<yesno><close>"
     },
     "7643": {
         "いれかえ": "Change"
@@ -24123,7 +24123,7 @@
         "clarity_nt_char_2721": "clarity_nt_char_2721"
     },
     "8042": {
-        "参加条件": ""
+        "参加条件": "Conditions"
     },
     "8043": {
         "clarity_nt_char_2722": "clarity_nt_char_2722"
@@ -24444,10 +24444,10 @@
         "clarity_nt_char_2754": "clarity_nt_char_2754"
     },
     "8149": {
-        "参加条件　なし": ""
+        "参加条件　なし": "Conditions None"
     },
     "8150": {
-        "参加条件　あり": ""
+        "参加条件　あり": "Has Conditions"
     },
     "8151": {
         "写真はありません": ""
@@ -24807,7 +24807,7 @@
         "どの世界？": "Which world?"
     },
     "8270": {
-        "お預かり経験値": "Saved XP"
+        "お預かり経験値": "Saved EXP"
     },
     "8271": {
         "衣装券ケースは　からっぽのようだ。": "The costume ticket case seems to be empty."
@@ -25884,7 +25884,7 @@
         "clarity_nt_char_2920": "clarity_nt_char_2920"
     },
     "8629": {
-        "マイタウン名": ""
+        "マイタウン名": "My Town Name"
     },
     "8630": {
         "clarity_nt_char_2921": "clarity_nt_char_2921"
@@ -25944,7 +25944,7 @@
         "clarity_nt_char_2926": "clarity_nt_char_2926"
     },
     "8649": {
-        "マイタウン名で検索": ""
+        "マイタウン名で検索": "Search By Name"
     },
     "8650": {
         "マイタウンＩＤで検索": "Search My Town ID"
@@ -26082,7 +26082,7 @@
         "clarity_nt_char_2942": "clarity_nt_char_2942"
     },
     "8695": {
-        "ロイヤルジュエル": ""
+        "ロイヤルジュエル": "Royal Jewel"
     },
     "8696": {
         "clarity_nt_char_2943": "clarity_nt_char_2943"
@@ -26712,7 +26712,7 @@
         "丘にそびえる町": ""
     },
     "8905": {
-        "シーサイドラグーン": ""
+        "シーサイドラグーン": "Seaside Lagoon"
     },
     "8906": {
         "<%.2fM>": ""
@@ -26901,7 +26901,7 @@
         "第<%sM_floor>の災壇": ""
     },
     "8968": {
-        "災壇選択": ""
+        "災壇選択": "Platforms"
     },
     "8969": {
         "clarity_nt_char_3033": "clarity_nt_char_3033"
@@ -26928,7 +26928,7 @@
         "clarity_nt_char_3036": "clarity_nt_char_3036"
     },
     "8977": {
-        "手紙を整理する": "Organize Letters"
+        "手紙を整理する": "Organize Mail"
     },
     "8978": {
         "郵便局": "P. Office"
@@ -28197,7 +28197,7 @@
         "グレー": ""
     },
     "9400": {
-        "ホワイト": ""
+        "ホワイト": "White"
     },
     "9401": {
         "clarity_nt_char_3167": "clarity_nt_char_3167"
@@ -28467,7 +28467,7 @@
         "clarity_nt_char_3194": "clarity_nt_char_3194"
     },
     "9490": {
-        "ギラムソウル": ""
+        "ギラムソウル": "Gilam Souls"
     },
     "9491": {
         "clarity_nt_char_3195": "clarity_nt_char_3195"
@@ -28641,13 +28641,13 @@
         "対戦相手を探す": "Find Opponent"
     },
     "9548": {
-        "トランプケース": "Daifugo Card Case"
+        "トランプケース": "Tycoon Card Case"
     },
     "9549": {
         "使うトランプ：<%sM_00>": "Usable Cards: <%sM_00>"
     },
     "9550": {
-        "大富豪決定戦": "Daifugo Last Match"
+        "大富豪決定戦": "Tycoon Last Match"
     },
     "9551": {
         "clarity_nt_char_3217": "clarity_nt_char_3217"
@@ -28713,7 +28713,7 @@
         "トランプポイントを交換する": "Exchange Card Points"
     },
     "9572": {
-        "大富豪協会員": "Daifugo Club Memb."
+        "大富豪協会員": "Tycoon Club Member"
     },
     "9573": {
         "clarity_nt_char_3224": "clarity_nt_char_3224"
@@ -28725,7 +28725,7 @@
         "clarity_nt_char_3225": "clarity_nt_char_3225"
     },
     "9576": {
-        "大富豪について": "About Daifugo"
+        "大富豪について": "About Tycoon"
     },
     "9577": {
         "トランプポイントについて": "About Card Points"
@@ -28803,10 +28803,10 @@
         "竜王のキバ": "Dragonlord Claw"
     },
     "9602": {
-        "カードは　うれしそうに": ""
+        "カードは　うれしそうに": "The card was happily"
     },
     "9603": {
-        "手札に　かけこんでいった。": ""
+        "手札に　かけこんでいった。": "placed into the hand."
     },
     "9604": {
         "なかまにするか考えているようだ。": "Seems they're thinking about a party."
@@ -28815,7 +28815,7 @@
         "clarity_nt_char_3238": "clarity_nt_char_3238"
     },
     "9606": {
-        "カードは　さびしそうに": ""
+        "カードは　さびしそうに": "The card was lonesomely"
     },
     "9607": {
         "去っていった。": ""
@@ -28845,7 +28845,7 @@
         "カード交換": ""
     },
     "9616": {
-        "他のプレイヤーの行動を待っています。": ""
+        "他のプレイヤーの行動を待っています。": "Waiting for other players' actions."
     },
     "9617": {
         "clarity_nt_char_3241": "clarity_nt_char_3241"
@@ -28863,7 +28863,7 @@
         "clarity_nt_char_3242": "clarity_nt_char_3242"
     },
     "9622": {
-        "<%nM_00>ゲーム目の勝ち点:大富豪<%dM_01>P/富豪<%dM_02>P/貧民<%dM_03>P/大貧民<%dM_04>P": ""
+        "<%nM_00>ゲーム目の勝ち点:大富豪<%dM_01>P/富豪<%dM_02>P/貧民<%dM_03>P/大貧民<%dM_04>P": "Game <%dM_00> Points: Mega Rich <%dM_01> P/Rich <%dM_02> P/ Poor <%dM_03> P/Super Poor <%dM_04> P"
     },
     "9623": {
         "clarity_nt_char_3243": "clarity_nt_char_3243"
@@ -28983,7 +28983,7 @@
         "まだ　情報を取得していない": "Currently unknown."
     },
     "9662": {
-        "ギラムマジック": ""
+        "ギラムマジック": "Gilam Magic"
     },
     "9663": {
         "<%sM_job>": ""
@@ -29124,7 +29124,7 @@
         "clarity_nt_char_3270": "clarity_nt_char_3270"
     },
     "9709": {
-        "ジョーカーにおどろいて": ""
+        "ジョーカーにおどろいて": "Surprised by Joker"
     },
     "9710": {
         "スライムは逃げていった": ""
@@ -29145,7 +29145,7 @@
         "clarity_nt_char_3272": "clarity_nt_char_3272"
     },
     "9716": {
-        "中断する": ""
+        "中断する": "Stop"
     },
     "9717": {
         "clarity_nt_char_3273": "clarity_nt_char_3273"
@@ -29166,7 +29166,7 @@
         "レベル０に": "To Lv 0"
     },
     "9723": {
-        "ギラムマジックの効果": ""
+        "ギラムマジックの効果": "Gilam Magic Effect"
     },
     "9724": {
         "clarity_nt_char_3275": "clarity_nt_char_3275"
@@ -29187,19 +29187,19 @@
         "ゲーム回数　<%nM_00>回": "# of Games <%nM_00>"
     },
     "9730": {
-        "報酬受け取り：娯楽島ラッカラン　大富豪協会員プゴルまで": "Claim Reward: See Daifugo Club Memb. Pugol in Luckland"
+        "報酬受け取り：娯楽島ラッカラン　大富豪協会員プゴルまで": "Claim Reward: See Tycoon Club Member Pugol in Luckland"
     },
     "9731": {
         "50音順(宝珠名)": "A-Z (Jewel Name)"
     },
     "9732": {
-        "効果あり": ""
+        "効果あり": "None"
     },
     "9733": {
         "clarity_nt_char_3278": "clarity_nt_char_3278"
     },
     "9734": {
-        "効果なし": ""
+        "効果なし": "None"
     },
     "9735": {
         "clarity_nt_char_3279": "clarity_nt_char_3279"
@@ -29232,7 +29232,7 @@
         "clarity_nt_char_3283": "clarity_nt_char_3283"
     },
     "9745": {
-        "主な報酬": ""
+        "主な報酬": "Rewards"
     },
     "9746": {
         "clarity_nt_char_3284": "clarity_nt_char_3284"
@@ -29244,7 +29244,7 @@
         "clarity_nt_char_3285": "clarity_nt_char_3285"
     },
     "9749": {
-        "開催中": ""
+        "開催中": "Active"
     },
     "9750": {
         "いつでも": "Anytime"
@@ -29253,7 +29253,7 @@
         "clarity_nt_char_3286": "clarity_nt_char_3286"
     },
     "9752": {
-        "期間外": ""
+        "期間外": "Ended"
     },
     "9753": {
         "絞り込む": "Filter"
@@ -29346,7 +29346,7 @@
         "clarity_nt_char_3296": "clarity_nt_char_3296"
     },
     "9783": {
-        "コンテンツの場所へ移動する": ""
+        "コンテンツの場所へ移動する": "Go to Content Location"
     },
     "9784": {
         "<%sM_00>とは": "About <%sM_00>"
@@ -29484,7 +29484,7 @@
         "レベルを変える": ""
     },
     "9829": {
-        "迷宮レベル": ""
+        "迷宮レベル": "Maze Level"
     },
     "9830": {
         "クリア回数": "Clears"
@@ -29652,7 +29652,7 @@
         "clarity_nt_char_3332": "clarity_nt_char_3332"
     },
     "9885": {
-        "納品数": ""
+        "納品数": "Delivered"
     },
     "9886": {
         "<%dM_nouhin>匹": "<%dM_nouhin>"
@@ -29700,7 +29700,7 @@
         "挑戦の魔人について": ""
     },
     "9901": {
-        "迷宮レベルについて": ""
+        "迷宮レベルについて": "About Maze Level"
     },
     "9902": {
         "心層の迷宮について": ""
@@ -29805,7 +29805,7 @@
         "clarity_nt_char_3345": "clarity_nt_char_3345"
     },
     "9936": {
-        "<speed=0>コンテンツの　近くの場所まで　移動しますか？|<yesno><close>": ""
+        "<speed=0>コンテンツの　近くの場所まで　移動しますか？|<yesno><close>": "<speed=0>Do you want to move to this content's|location?|<yesno><close>"
     },
     "9937": {
         "clarity_nt_char_3346": "clarity_nt_char_3346"
@@ -29952,7 +29952,7 @@
         "clarity_nt_char_3359": "clarity_nt_char_3359"
     },
     "9985": {
-        "開催していません": ""
+        "開催していません": "Currently Inactive"
     },
     "9986": {
         "clarity_nt_char_3360": "clarity_nt_char_3360"
@@ -29973,7 +29973,7 @@
         "極箱たまに": ""
     },
     "9992": {
-        "極箱確定 ": ""
+        "極箱確定 ": "Certain "
     },
     "9993": {
         "対戦する": ""
@@ -29997,7 +29997,7 @@
         "clarity_nt_char_3365": "clarity_nt_char_3365"
     },
     "10000": {
-        "大富豪の背景": "Daifugo Background"
+        "大富豪の背景": "Tycoon Background"
     },
     "10001": {
         "clarity_nt_char_3366": "clarity_nt_char_3366"
@@ -30060,7 +30060,7 @@
         "デフォルト": ""
     },
     "10021": {
-        "使う背景に設定": "Set backround"
+        "使う背景に設定": "Set Background"
     },
     "10022": {
         "１０倍": "10x"
@@ -30081,7 +30081,7 @@
         "ランク達成報酬": ""
     },
     "10028": {
-        "決定戦ルールで遊ぶ": ""
+        "決定戦ルールで遊ぶ": "Fixed Rules Play"
     },
     "10029": {
         "決定戦ランキング報酬": "Playoff Rank Rewards"
@@ -30093,7 +30093,7 @@
         "決定戦ランキングを見る": ""
     },
     "10032": {
-        "大富豪決定戦について": "About Daifugo Tournament"
+        "大富豪決定戦について": "About Tycoon Tournament"
     },
     "10033": {
         "clarity_nt_char_3377": "clarity_nt_char_3377"
@@ -30213,7 +30213,7 @@
         "clarity_nt_char_3388": "clarity_nt_char_3388"
     },
     "10072": {
-        "決定戦ルール": ""
+        "決定戦ルール": "Fixed Battle Rule"
     },
     "10073": {
         "clarity_nt_char_3389": "clarity_nt_char_3389"
@@ -31053,7 +31053,7 @@
         "clarity_nt_char_3492": "clarity_nt_char_3492"
     },
     "10352": {
-        "図鑑を見る": "Photo Album"
+        "図鑑を見る": "Tarot Album"
     },
     "10353": {
         "バージョン４から": ""

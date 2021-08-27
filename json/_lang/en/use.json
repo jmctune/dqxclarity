@@ -501,7 +501,7 @@
         "せいおうのたいけん": "Dryspell Blade"
     },
     "168": {
-        "ほしぼしのたいけん": "Starry Claymore"
+        "ほしぼしのたいけん": "Stars Claymore"
     },
     "169": {
         "かりんとうれぷりか": "Blaze Sword Replica"
@@ -819,7 +819,7 @@
         "clarity_nt_char_84": "clarity_nt_char_84"
     },
     "274": {
-        "ほしぼしのたくと": "Star Baton"
+        "ほしぼしのたくと": "Stars Baton"
     },
     "275": {
         "clarity_nt_char_85": "clarity_nt_char_85"
@@ -1662,7 +1662,7 @@
         "clarity_nt_char_169": "clarity_nt_char_169"
     },
     "555": {
-        "くろひょうのつめ": "Panther claws"
+        "くろひょうのつめ": "Panther Claws"
     },
     "556": {
         "clarity_nt_char_170": "clarity_nt_char_170"
@@ -1770,7 +1770,7 @@
         "えんしぇんとくろー": "Olde-Worlde Clawse"
     },
     "591": {
-        "ぽんぽんくろー": "Pompom Claws"
+        "ぽんぽんくろー": "Pom Pom Claws"
     },
     "592": {
         "あんのうんくろー": "Unknown Claws"
@@ -3132,7 +3132,7 @@
         "ちからのゆびわ": "Strength Ring"
     },
     "1045": {
-        "きんのゆびわ": ""
+        "きんのゆびわ": "Gold Ring"
     },
     "1046": {
         "clarity_nt_char_338": "clarity_nt_char_338"
@@ -3153,7 +3153,7 @@
         "げんかいとうしのゆびわ": ""
     },
     "1052": {
-        "ひらめきのゆびわ": "Mirror Ring"
+        "ひらめきのゆびわ": "Sorcerer's Stone"
     },
     "1053": {
         "clarity_nt_char_340": "clarity_nt_char_340"
@@ -3267,7 +3267,7 @@
         "にひるなさんぐらす": ""
     },
     "1090": {
-        "ふしぎのあかし": ""
+        "ふしぎのあかし": "Mystery Proof"
     },
     "1091": {
         "きゃぷてんのがんたい": ""
@@ -3342,10 +3342,10 @@
         "まおうのねっくれす": ""
     },
     "1115": {
-        "うらないしのあかし": "F.Teller Emblem"
+        "うらないしのあかし": "Proof of FOR"
     },
     "1116": {
-        "おどりこのあかし": ""
+        "おどりこのあかし": "Proof of DNC"
     },
     "1117": {
         "clarity_nt_char_357": "clarity_nt_char_357"
@@ -3462,13 +3462,13 @@
         "きずなのえんぶれむ": ""
     },
     "1155": {
-        "ばんのうのあかし": ""
+        "ばんのうのあかし": "Proof of All"
     },
     "1156": {
         "clarity_nt_char_371": "clarity_nt_char_371"
     },
     "1157": {
-        "べっこうめがね": ""
+        "べっこうめがね": "Tortoiseshell Specs"
     },
     "1158": {
         "すらいむぴあす": ""
@@ -3645,61 +3645,61 @@
         "clarity_nt_char_386": "clarity_nt_char_386"
     },
     "1216": {
-        "せんしのあかし": ""
+        "せんしのあかし": "Proof of WAR"
     },
     "1217": {
-        "まほうつかいのあかし": ""
+        "まほうつかいのあかし": "Proof of MGE"
     },
     "1218": {
         "clarity_nt_char_387": "clarity_nt_char_387"
     },
     "1219": {
-        "そうりょのあかし": "Priest Emblem"
+        "そうりょのあかし": "Proof of PRI"
     },
     "1220": {
         "clarity_nt_char_388": "clarity_nt_char_388"
     },
     "1221": {
-        "ぶとうかのあかし": ""
+        "ぶとうかのあかし": "Proof of MRT"
     },
     "1222": {
         "clarity_nt_char_389": "clarity_nt_char_389"
     },
     "1223": {
-        "とうぞくのあかし": ""
+        "とうぞくのあかし": "Proof of THF"
     },
     "1224": {
         "clarity_nt_char_390": "clarity_nt_char_390"
     },
     "1225": {
-        "たびげいにんのあかし": ""
+        "たびげいにんのあかし": "Proof of MIN"
     },
     "1226": {
         "clarity_nt_char_391": "clarity_nt_char_391"
     },
     "1227": {
-        "ばとるますたーのあかし": "Battlemaster Emblem"
+        "ばとるますたーのあかし": "Proof of BTL"
     },
     "1228": {
-        "ぱらでぃんのあかし": ""
+        "ぱらでぃんのあかし": "Proof of PLD"
     },
     "1229": {
-        "まほうせんしのあかし": ""
+        "まほうせんしのあかし": "Proof of ARM"
     },
     "1230": {
         "clarity_nt_char_392": "clarity_nt_char_392"
     },
     "1231": {
-        "れんじゃーのあかし": "Ranger Emblem"
+        "れんじゃーのあかし": "Proof of RNG"
     },
     "1232": {
-        "けんじゃのあかし": ""
+        "けんじゃのあかし": "Proof of SGE"
     },
     "1233": {
         "clarity_nt_char_393": "clarity_nt_char_393"
     },
     "1234": {
-        "すーぱーすたーのあかし": ""
+        "すーぱーすたーのあかし": "Proof of STA"
     },
     "1235": {
         "えてーねのまもり": ""
@@ -3744,13 +3744,13 @@
         "clarity_nt_char_399": "clarity_nt_char_399"
     },
     "1249": {
-        "まものつかいのあかし": "Monster Master Emblem"
+        "まものつかいのあかし": "Proof of MON"
     },
     "1250": {
         "clarity_nt_char_400": "clarity_nt_char_400"
     },
     "1251": {
-        "どうぐつかいのあかし": "Item Master Emblem"
+        "どうぐつかいのあかし": "Proof of ITM"
     },
     "1252": {
         "clarity_nt_char_401": "clarity_nt_char_401"
@@ -3807,7 +3807,7 @@
         "りんごのぴあす": ""
     },
     "1270": {
-        "るーきーのあかし": ""
+        "るーきーのあかし": "Rookie Proof"
     },
     "1271": {
         "clarity_nt_char_406": "clarity_nt_char_406"
@@ -3822,7 +3822,7 @@
         "かたはねぴあす": ""
     },
     "1275": {
-        "ひまわりぴあす": ""
+        "ひまわりぴあす": "Sunflower Earrings"
     },
     "1276": {
         "なみだのしーる": ""
@@ -3876,7 +3876,7 @@
         "ぎんのむねあて": "Silver Cuirass"
     },
     "1293": {
-        "がいかのよろいうえ": "Victory Song Chest"
+        "がいかのよろいうえ": "Victory Song Armor T."
     },
     "1294": {
         "やいばのよろいうえ": "Spiked Armor Top"
@@ -3900,7 +3900,7 @@
         "こぶどうぎうえ": ""
     },
     "1301": {
-        "けんぽうぎうえ": ""
+        "けんぽうぎうえ": "Tussler's Top"
     },
     "1302": {
         "ぶとうぎ": "Strongsam"
@@ -3912,10 +3912,10 @@
         "てつのむねあて": "Iron Cuirass"
     },
     "1305": {
-        "きゅうどうしゃのどうぎうえ": ""
+        "きゅうどうしゃのどうぎうえ": "Seeker's Dogi Top"
     },
     "1306": {
-        "げんぶのどうぎうえ": "Black Turtle Dogi"
+        "げんぶのどうぎうえ": "Black Turtle Dogi Top"
     },
     "1307": {
         "けんせいのどうぎうえ": ""
@@ -3927,7 +3927,7 @@
         "こうりゅうのどうぎ": ""
     },
     "1310": {
-        "あさのふく": ""
+        "あさのふく": "Linen Top"
     },
     "1311": {
         "またどーるすーつうえ": "Matador Suit Top"
@@ -3951,7 +3951,7 @@
         "clarity_nt_char_417": "clarity_nt_char_417"
     },
     "1318": {
-        "せんせいじゅつしのろーぶうえ": ""
+        "せんせいじゅつしのろーぶうえ": "Astrologer Robe Top"
     },
     "1319": {
         "clarity_nt_char_418": "clarity_nt_char_418"
@@ -3963,7 +3963,7 @@
         "こだいまじゅつのほういうえ": ""
     },
     "1322": {
-        "だいまどうろーぶうえ": "Great Mage Upper Robe"
+        "だいまどうろーぶうえ": "Great Mage Robe Top"
     },
     "1323": {
         "clarity_nt_char_419": "clarity_nt_char_419"
@@ -4011,7 +4011,7 @@
         "ごしっくこーとうえ": ""
     },
     "1338": {
-        "ぜんざげいにんのふく": ""
+        "ぜんざげいにんのふく": "Show Opener's Vest"
     },
     "1339": {
         "clarity_nt_char_424": "clarity_nt_char_424"
@@ -4071,7 +4071,7 @@
         "clarity_nt_char_431": "clarity_nt_char_431"
     },
     "1358": {
-        "へうぃーあーまーうえ": ""
+        "へうぃーあーまーうえ": "Heavy Armor Top"
     },
     "1359": {
         "clarity_nt_char_432": "clarity_nt_char_432"
@@ -4119,16 +4119,16 @@
         "むほうもののべすと": ""
     },
     "1374": {
-        "てんきゅうきしのよろいうえ": "Sky Knight Chest"
+        "てんきゅうきしのよろいうえ": "Sky Knight Armor Top"
     },
     "1375": {
-        "くろがねのよろいうえ": "Black Iron Cuirass"
+        "くろがねのよろいうえ": "Darksteel Cuirass"
     },
     "1376": {
         "clarity_nt_char_438": "clarity_nt_char_438"
     },
     "1377": {
-        "ばとますあーまーうえ": "Battlemaster Top"
+        "ばとますあーまーうえ": "Battlemaster Armor T."
     },
     "1378": {
         "clarity_nt_char_439": "clarity_nt_char_439"
@@ -4161,7 +4161,7 @@
         "きしんのよろい": "Knight God Armor"
     },
     "1388": {
-        "やみきしのよろいうえ": ""
+        "やみきしのよろいうえ": "Dark Knight Armor Top"
     },
     "1389": {
         "clarity_nt_char_443": "clarity_nt_char_443"
@@ -4170,7 +4170,7 @@
         "うぇすたんぶらうす": "Western Blouse"
     },
     "1391": {
-        "みかわしのふくうえ": "Evasive Cloak Top"
+        "みかわしのふくうえ": "Evasion Cloak Top"
     },
     "1392": {
         "まほうせんしだんせいふく": "Armamentalist Uniform"
@@ -4275,34 +4275,34 @@
         "clarity_nt_char_453": "clarity_nt_char_453"
     },
     "1426": {
-        "たいふーんれざーうえ": ""
+        "たいふーんれざーうえ": "Typhoon Leather Shirt"
     },
     "1427": {
         "clarity_nt_char_454": "clarity_nt_char_454"
     },
     "1428": {
-        "ちぇいさーれざーうえ": ""
+        "ちぇいさーれざーうえ": "Chaser Leather Shirt"
     },
     "1429": {
         "clarity_nt_char_455": "clarity_nt_char_455"
     },
     "1430": {
-        "やまねことっぷ": ""
+        "やまねことっぷ": "Wildcat Top"
     },
     "1431": {
-        "とこなつはっぴうえ": ""
+        "とこなつはっぴうえ": "Summer Top"
     },
     "1432": {
         "うぁんがーどこーと": "Vanguard Coat"
     },
     "1433": {
-        "せいれいおうのくろーくうえ": ""
+        "せいれいおうのくろーくうえ": "Faerie King Cloak Top"
     },
     "1434": {
         "ふうこのどうぎ": "Wind Tiger Suit"
     },
     "1435": {
-        "まぎしべすと": ""
+        "まぎしべすと": "Technomancer Vest"
     },
     "1436": {
         "clarity_nt_char_456": "clarity_nt_char_456"
@@ -4335,7 +4335,7 @@
         "いんてりろーぶうえ": ""
     },
     "1446": {
-        "うたよみのころもうえ": ""
+        "うたよみのころもうえ": "Poet's Attire Top"
     },
     "1447": {
         "clarity_nt_char_459": "clarity_nt_char_459"
@@ -4353,7 +4353,7 @@
         "しんりのろーぶうえ": "Faithful Robe Top"
     },
     "1452": {
-        "だいけんじゃのほうい": ""
+        "だいけんじゃのほうい": "Supreme Sage Vestment"
     },
     "1453": {
         "clarity_nt_char_461": "clarity_nt_char_461"
@@ -4380,7 +4380,7 @@
         "こだいおうぞくのべすと": "Ancient Royal Vest"
     },
     "1461": {
-        "うぃっちこーと": ""
+        "うぃっちこーと": "Witch's Coat"
     },
     "1462": {
         "しんたくのろーぶうえ": "Oracle Robe Top"
@@ -4392,16 +4392,16 @@
         "きょしょうのころも": "Rich Merchant Top"
     },
     "1465": {
-        "ぴくしーちゅにっく": ""
+        "ぴくしーちゅにっく": "Pixie Tunic"
     },
     "1466": {
-        "どうけしのふくうえ": ""
+        "どうけしのふくうえ": "Buffoon's Shirt"
     },
     "1467": {
         "おんがくたいのせいふくうえ": ""
     },
     "1468": {
-        "ぽにてえくすて": ""
+        "ぽにてえくすて": "Ponytail Extension"
     },
     "1469": {
         "とらいばるとっぷ": "Tribal Top"
@@ -4413,7 +4413,7 @@
         "えーじぇんとのふくうえ": ""
     },
     "1472": {
-        "あどみらるこーと": ""
+        "あどみらるこーと": "Admiral's Coat"
     },
     "1473": {
         "clarity_nt_char_466": "clarity_nt_char_466"
@@ -4422,13 +4422,13 @@
         "くろーばーてぃーしゃつ": ""
     },
     "1475": {
-        "ゆうよくじんのころも": ""
+        "ゆうよくじんのころも": "Winged One's Robe"
     },
     "1476": {
         "clarity_nt_char_467": "clarity_nt_char_467"
     },
     "1477": {
-        "せぴあんふりるうえ": ""
+        "せぴあんふりるうえ": "Sepian Shirt"
     },
     "1478": {
         "せいてんのこーと": ""
@@ -4449,25 +4449,25 @@
         "かんだたまんと": ""
     },
     "1484": {
-        "すとりーとべすと": ""
+        "すとりーとべすと": "Street Vest"
     },
     "1485": {
         "clarity_nt_char_470": "clarity_nt_char_470"
     },
     "1486": {
-        "こくちょうのちゅちゅうえ": ""
+        "こくちょうのちゅちゅうえ": "Blackbird Tutu Top"
     },
     "1487": {
         "clarity_nt_char_471": "clarity_nt_char_471"
     },
     "1488": {
-        "のえるこーと": ""
+        "のえるこーと": "Noel Coat"
     },
     "1489": {
         "clarity_nt_char_472": "clarity_nt_char_472"
     },
     "1490": {
-        "のえるどれす": ""
+        "のえるどれす": "Noel Dress"
     },
     "1491": {
         "clarity_nt_char_473": "clarity_nt_char_473"
@@ -4476,10 +4476,10 @@
         "まものつかいのふく": "Monster Master Suit"
     },
     "1493": {
-        "きゅうめいしゃのこーとうえ": "Researcher's Coat"
+        "きゅうめいしゃのこーとうえ": "Researcher's Coat Top"
     },
     "1494": {
-        "まじぇすたすーつうえ": ""
+        "まじぇすたすーつうえ": "Majesta Shirt"
     },
     "1495": {
         "clarity_nt_char_474": "clarity_nt_char_474"
@@ -4521,7 +4521,7 @@
         "てじなしのふく": "Conjurer's Garb"
     },
     "1508": {
-        "すてーじじゃんぱー": ""
+        "すてーじじゃんぱー": "Stage Jumper"
     },
     "1509": {
         "もだんばにーすーつ": ""
@@ -4563,10 +4563,10 @@
         "うぇっとすーつ": ""
     },
     "1522": {
-        "うぇでぃのふく": ""
+        "うぇでぃのふく": "Weddie Shirt"
     },
     "1523": {
-        "うぇでぃのぱれお": ""
+        "うぇでぃのぱれお": "Weddie Pareo"
     },
     "1524": {
         "clarity_nt_char_481": "clarity_nt_char_481"
@@ -4596,7 +4596,7 @@
         "clarity_nt_char_483": "clarity_nt_char_483"
     },
     "1533": {
-        "すてーじちゅちゅうえ": ""
+        "すてーじちゅちゅうえ": "Stage Tutu Top"
     },
     "1534": {
         "clarity_nt_char_484": "clarity_nt_char_484"
@@ -4623,7 +4623,7 @@
         "clarity_nt_char_487": "clarity_nt_char_487"
     },
     "1542": {
-        "となかいすーつ": ""
+        "となかいすーつ": "Reindeer Suit"
     },
     "1543": {
         "すたーだむすーつ": "Stardom Suit"
@@ -4638,7 +4638,7 @@
         "clarity_nt_char_489": "clarity_nt_char_489"
     },
     "1547": {
-        "かいぞくてぃーしゃつ": ""
+        "かいぞくてぃーしゃつ": "Pirate T-Shirt"
     },
     "1548": {
         "clarity_nt_char_490": "clarity_nt_char_490"
@@ -4662,16 +4662,16 @@
         "clarity_nt_char_493": "clarity_nt_char_493"
     },
     "1555": {
-        "さんたのふくうえ": ""
+        "さんたのふくうえ": "Santa Suit"
     },
     "1556": {
         "clarity_nt_char_494": "clarity_nt_char_494"
     },
     "1557": {
-        "さんたがーるとっぷ": ""
+        "さんたがーるとっぷ": "Santa Girl Top"
     },
     "1558": {
-        "すらたわーぼでぃ": ""
+        "すらたわーぼでぃ": "Slime Stack Body"
     },
     "1559": {
         "clarity_nt_char_495": "clarity_nt_char_495"
@@ -4713,7 +4713,7 @@
         "clarity_nt_char_500": "clarity_nt_char_500"
     },
     "1572": {
-        "さくらのゆかた": ""
+        "さくらのゆかた": "Cherry Blossom Yukata"
     },
     "1573": {
         "もみじのゆかた": "Maple Yukata"
@@ -4764,7 +4764,7 @@
         "clarity_nt_char_506": "clarity_nt_char_506"
     },
     "1589": {
-        "すいーとなふくうえ": ""
+        "すいーとなふくうえ": "Sweet Top"
     },
     "1590": {
         "てんしのたきしーど": ""
@@ -4830,16 +4830,16 @@
         "あらくれぼでぃ": "Thug's Harness"
     },
     "1611": {
-        "しんぷるてぃーしゃつ": ""
+        "しんぷるてぃーしゃつ": "Simple T-Shirt"
     },
     "1612": {
         "clarity_nt_char_513": "clarity_nt_char_513"
     },
     "1613": {
-        "がうがうすーつ": ""
+        "がうがうすーつ": "Woof Woof Suit"
     },
     "1614": {
-        "ふぁんきーたいつうえ": ""
+        "ふぁんきーたいつうえ": "Funky Vest"
     },
     "1615": {
         "clarity_nt_char_514": "clarity_nt_char_514"
@@ -4851,19 +4851,19 @@
         "clarity_nt_char_515": "clarity_nt_char_515"
     },
     "1618": {
-        "はなびしもようのあおざい": ""
+        "はなびしもようのあおざい": "Floral Pattern Ao Dai"
     },
     "1619": {
         "clarity_nt_char_516": "clarity_nt_char_516"
     },
     "1620": {
-        "ろりーたどれすうえ": ""
+        "ろりーたどれすうえ": "Lolita Dress Top"
     },
     "1621": {
         "さかいのころもうえ": "Sand Sea Garb Top"
     },
     "1622": {
-        "うるたのこーとうえ": ""
+        "うるたのこーとうえ": "Ulta Coat Top"
     },
     "1623": {
         "とらんぷぼれろ": ""
@@ -4896,10 +4896,10 @@
         "clarity_nt_char_520": "clarity_nt_char_520"
     },
     "1633": {
-        "はいきんぐぱーかー": ""
+        "はいきんぐぱーかー": "Hiking Parka"
     },
     "1634": {
-        "こまんだーこーとうえ": ""
+        "こまんだーこーとうえ": "Commander Coat Top"
     },
     "1635": {
         "clarity_nt_char_521": "clarity_nt_char_521"
@@ -5019,7 +5019,7 @@
         "てつのはちがね": "Iron Band"
     },
     "1674": {
-        "きゅうどうしゃのはちまき": ""
+        "きゅうどうしゃのはちまき": "Seeker's Headband"
     },
     "1675": {
         "clarity_nt_char_535": "clarity_nt_char_535"
@@ -5037,7 +5037,7 @@
         "clarity_nt_char_536": "clarity_nt_char_536"
     },
     "1680": {
-        "あさのぼうし": ""
+        "あさのぼうし": "Linen Hat"
     },
     "1681": {
         "clarity_nt_char_537": "clarity_nt_char_537"
@@ -5070,7 +5070,7 @@
         "clarity_nt_char_541": "clarity_nt_char_541"
     },
     "1691": {
-        "せんせいじゅつしのたーばん": ""
+        "せんせいじゅつしのたーばん": "Astrologer Turban"
     },
     "1692": {
         "まほうさーくれっと": "Magic Circlet"
@@ -5124,7 +5124,7 @@
         "ごしっくみとら": ""
     },
     "1709": {
-        "ぜんざげいにんのばんだな": ""
+        "ぜんざげいにんのばんだな": "Show Opener's Bandana"
     },
     "1710": {
         "clarity_nt_char_546": "clarity_nt_char_546"
@@ -5178,7 +5178,7 @@
         "clarity_nt_char_551": "clarity_nt_char_551"
     },
     "1727": {
-        "へうぃーへるむ": ""
+        "へうぃーへるむ": "Heavy Helmet"
     },
     "1728": {
         "ちいさなえいゆうはちがね": ""
@@ -5208,7 +5208,7 @@
         "clarity_nt_char_554": "clarity_nt_char_554"
     },
     "1737": {
-        "やみきしのへるむ": ""
+        "やみきしのへるむ": "Dark Knight Helm"
     },
     "1738": {
         "clarity_nt_char_555": "clarity_nt_char_555"
@@ -5235,7 +5235,7 @@
         "clarity_nt_char_558": "clarity_nt_char_558"
     },
     "1746": {
-        "くろがねのはちがね": "Black Iron Band"
+        "くろがねのはちがね": "Darksteel Band"
     },
     "1747": {
         "ばとますへっど": "Battlemaster Headband"
@@ -5277,7 +5277,7 @@
         "clarity_nt_char_562": "clarity_nt_char_562"
     },
     "1760": {
-        "みかわしのぼうし": "Evasive Cap"
+        "みかわしのぼうし": "Evasion Cap"
     },
     "1761": {
         "clarity_nt_char_563": "clarity_nt_char_563"
@@ -5295,7 +5295,7 @@
         "ふぁんとむかちーふ": ""
     },
     "1766": {
-        "やまねこへあばんど": ""
+        "やまねこへあばんど": "Wildcat Hairband"
     },
     "1767": {
         "ろいやるはっと": ""
@@ -5325,7 +5325,7 @@
         "れんじゃーしゃぷか": "Ranger Shapka"
     },
     "1776": {
-        "とこなつへあばんど": ""
+        "とこなつへあばんど": "Summer Headband"
     },
     "1777": {
         "うぁんがーどはっと": "Vanguard Hat"
@@ -5385,22 +5385,22 @@
         "clarity_nt_char_573": "clarity_nt_char_573"
     },
     "1796": {
-        "たいふーんごーぐる": ""
+        "たいふーんごーぐる": "Typhoon Goggles"
     },
     "1797": {
-        "ちぇいさーばんど": ""
+        "ちぇいさーばんど": "Chaser Headband"
     },
     "1798": {
         "clarity_nt_char_574": "clarity_nt_char_574"
     },
     "1799": {
-        "まぎしめっと": ""
+        "まぎしめっと": "Technomancer Helm"
     },
     "1800": {
         "clarity_nt_char_575": "clarity_nt_char_575"
     },
     "1801": {
-        "うるたのばんだな": ""
+        "うるたのばんだな": "Ulta Bandana"
     },
     "1802": {
         "clarity_nt_char_576": "clarity_nt_char_576"
@@ -5421,7 +5421,7 @@
         "きゅうめいしゃのふーど": "Researcher's Hood"
     },
     "1808": {
-        "まじぇすたはっと": ""
+        "まじぇすたはっと": "Majesta Hat"
     },
     "1809": {
         "clarity_nt_char_578": "clarity_nt_char_578"
@@ -5457,7 +5457,7 @@
         "いんてりはっと": ""
     },
     "1820": {
-        "うたよみのへあばんど": ""
+        "うたよみのへあばんど": "Poet's Hairband"
     },
     "1821": {
         "clarity_nt_char_583": "clarity_nt_char_583"
@@ -5475,7 +5475,7 @@
         "しんりのぼうし": "Faithful Hat"
     },
     "1826": {
-        "だいけんじゃのみとら": ""
+        "だいけんじゃのみとら": "Supreme Sage Mitre"
     },
     "1827": {
         "clarity_nt_char_585": "clarity_nt_char_585"
@@ -5505,7 +5505,7 @@
         "clarity_nt_char_588": "clarity_nt_char_588"
     },
     "1836": {
-        "うぃっちはっと": ""
+        "うぃっちはっと": "Witch's Hat"
     },
     "1837": {
         "しんたくのぼうし": "Oracle Hat"
@@ -5520,13 +5520,13 @@
         "clarity_nt_char_590": "clarity_nt_char_590"
     },
     "1841": {
-        "ぴくしーきゃっぷ": ""
+        "ぴくしーきゃっぷ": "Pixie Cap"
     },
     "1842": {
         "clarity_nt_char_591": "clarity_nt_char_591"
     },
     "1843": {
-        "どうけしのぼうし": ""
+        "どうけしのぼうし": "Buffoon's Hat"
     },
     "1844": {
         "clarity_nt_char_592": "clarity_nt_char_592"
@@ -5541,7 +5541,7 @@
         "まものつかいずきん": "Monster Master Hood"
     },
     "1848": {
-        "ふぁんきーへっど": ""
+        "ふぁんきーへっど": "Funky Hair Ornament"
     },
     "1849": {
         "clarity_nt_char_594": "clarity_nt_char_594"
@@ -5553,13 +5553,13 @@
         "ころしあむきゃっぷ": ""
     },
     "1852": {
-        "ゆうよくじんのはねかざり": ""
+        "ゆうよくじんのはねかざり": "Winged One's Plumes"
     },
     "1853": {
         "clarity_nt_char_595": "clarity_nt_char_595"
     },
     "1854": {
-        "せぴあんはっと": ""
+        "せぴあんはっと": "Sepian Hat"
     },
     "1855": {
         "きらーましんへるむ": ""
@@ -5586,49 +5586,49 @@
         "clarity_nt_char_598": "clarity_nt_char_598"
     },
     "1863": {
-        "ぷちすらきゃっぷ": ""
+        "ぷちすらきゃっぷ": "Small Slime Cap"
     },
     "1864": {
         "clarity_nt_char_599": "clarity_nt_char_599"
     },
     "1865": {
-        "よげんのさーくれっと": ""
+        "よげんのさーくれっと": "Circlet of Prophecy"
     },
     "1866": {
         "clarity_nt_char_600": "clarity_nt_char_600"
     },
     "1867": {
-        "すとりーとばんだな": ""
+        "すとりーとばんだな": "Street Bandana"
     },
     "1868": {
-        "こくちょうのさーくれっと": ""
+        "こくちょうのさーくれっと": "Blackbird Circlet"
     },
     "1869": {
         "clarity_nt_char_601": "clarity_nt_char_601"
     },
     "1870": {
-        "おふぃさーきゃっぷ": ""
+        "おふぃさーきゃっぷ": "Officer Cap"
     },
     "1871": {
-        "しょこらなぼうし": ""
+        "しょこらなぼうし": "Chocolate Hat"
     },
     "1872": {
         "clarity_nt_char_602": "clarity_nt_char_602"
     },
     "1873": {
-        "はなよめのてぃあら": ""
+        "はなよめのてぃあら": "Bride's Tiara"
     },
     "1874": {
-        "はなむこのさーくれっと": ""
+        "はなむこのさーくれっと": "Groom's Circlet"
     },
     "1875": {
-        "しんぷるきゃっぷ": ""
+        "しんぷるきゃっぷ": "Simple Cap"
     },
     "1876": {
         "clarity_nt_char_603": "clarity_nt_char_603"
     },
     "1877": {
-        "すたーりーはっと": ""
+        "すたーりーはっと": "Starry Hat"
     },
     "1878": {
         "clarity_nt_char_604": "clarity_nt_char_604"
@@ -5655,7 +5655,7 @@
         "clarity_nt_char_605": "clarity_nt_char_605"
     },
     "1886": {
-        "すてーじばんど": ""
+        "すてーじばんど": "Stage Headband"
     },
     "1887": {
         "もだんばにーへっど": ""
@@ -5670,7 +5670,7 @@
         "えるふのえぼし": ""
     },
     "1891": {
-        "すたーりーきゃっぷ": ""
+        "すたーりーきゃっぷ": "Starry Cap"
     },
     "1892": {
         "どわーふさぎょうぼうし": ""
@@ -5697,13 +5697,13 @@
         "ぷくりぽずきん": ""
     },
     "1900": {
-        "とんぶれそんぶれろ": ""
+        "とんぶれそんぶれろ": "Ham Shamwitch Hat"
     },
     "1901": {
-        "うぇでぃのたーばん": ""
+        "うぇでぃのたーばん": "Weddie Turban"
     },
     "1902": {
-        "せいびしのぼうし": ""
+        "せいびしのぼうし": "Technician's Hat"
     },
     "1903": {
         "clarity_nt_char_608": "clarity_nt_char_608"
@@ -5712,7 +5712,7 @@
         "ごしっくはっと": ""
     },
     "1905": {
-        "すてーじりぼん": ""
+        "すてーじりぼん": "Stage Ribbon"
     },
     "1906": {
         "どるわーむけんきゅういんぼう": ""
@@ -5727,7 +5727,7 @@
         "clarity_nt_char_610": "clarity_nt_char_610"
     },
     "1910": {
-        "ごきげんなぼうし": ""
+        "ごきげんなぼうし": "Cheerful Hat"
     },
     "1911": {
         "clarity_nt_char_611": "clarity_nt_char_611"
@@ -5745,7 +5745,7 @@
         "clarity_nt_char_613": "clarity_nt_char_613"
     },
     "1916": {
-        "となかいずきん": ""
+        "となかいずきん": "Reindeer Hood"
     },
     "1917": {
         "すたーだむはっと": "Stardom Hat"
@@ -5766,13 +5766,13 @@
         "ほわいとべれー": ""
     },
     "1923": {
-        "さんたきゃっぷ": ""
+        "さんたきゃっぷ": "Santa Hat"
     },
     "1924": {
-        "すらいむぼうし": ""
+        "すらいむぼうし": "Slime Hat"
     },
     "1925": {
-        "すらいむべすぼうし": ""
+        "すらいむべすぼうし": "She-Slime Hat"
     },
     "1926": {
         "めたすらぼうし": ""
@@ -5796,7 +5796,7 @@
         "びっぐなはっと": ""
     },
     "1933": {
-        "ちぇっかーはっと": ""
+        "ちぇっかーはっと": "Checkered Hat"
     },
     "1934": {
         "clarity_nt_char_618": "clarity_nt_char_618"
@@ -5814,7 +5814,7 @@
         "はねぼうし": "Feathered Cap"
     },
     "1939": {
-        "すらたわーへっど": ""
+        "すらたわーへっど": "Slime Stack Head"
     },
     "1940": {
         "clarity_nt_char_620": "clarity_nt_char_620"
@@ -5841,13 +5841,13 @@
         "clarity_nt_char_623": "clarity_nt_char_623"
     },
     "1948": {
-        "きつねのおめん": ""
+        "きつねのおめん": "Fox Mask"
     },
     "1949": {
         "たほどらきーぼうし": ""
     },
     "1950": {
-        "すらいむのかんむり": ""
+        "すらいむのかんむり": "Slime Crown"
     },
     "1951": {
         "ほいみんきゃっぷ": ""
@@ -5865,7 +5865,7 @@
         "clarity_nt_char_625": "clarity_nt_char_625"
     },
     "1956": {
-        "でゅえるきゃっぷ": ""
+        "でゅえるきゃっぷ": "Duel Cap"
     },
     "1957": {
         "clarity_nt_char_626": "clarity_nt_char_626"
@@ -5877,7 +5877,7 @@
         "clarity_nt_char_627": "clarity_nt_char_627"
     },
     "1960": {
-        "あるけみすとんぼうし": ""
+        "あるけみすとんぼうし": "Alchemy Piggy Hat"
     },
     "1961": {
         "clarity_nt_char_628": "clarity_nt_char_628"
@@ -5895,13 +5895,13 @@
         "まんどらごらべれー": ""
     },
     "1966": {
-        "もーぐりのぼうし": ""
+        "もーぐりのぼうし": "Moogle Hat"
     },
     "1967": {
         "clarity_nt_char_630": "clarity_nt_char_630"
     },
     "1968": {
-        "さぼてんだーますく": ""
+        "さぼてんだーますく": "Cactuar Mask"
     },
     "1969": {
         "あくまのそうかく": ""
@@ -5916,7 +5916,7 @@
         "clarity_nt_char_632": "clarity_nt_char_632"
     },
     "1973": {
-        "すいーときゃっぷ": ""
+        "すいーときゃっぷ": "Sweet Cap"
     },
     "1974": {
         "clarity_nt_char_633": "clarity_nt_char_633"
@@ -5925,22 +5925,22 @@
         "てんしのわ": ""
     },
     "1976": {
-        "だいおうきっずぼうし": ""
+        "だいおうきっずぼうし": "Squid Kid Hat"
     },
     "1977": {
         "clarity_nt_char_634": "clarity_nt_char_634"
     },
     "1978": {
-        "すらいむぼうししろ": ""
+        "すらいむぼうししろ": "White Slime Hat"
     },
     "1979": {
-        "すらいむぼうしくろ": ""
+        "すらいむぼうしくろ": "Black Slime Hat"
     },
     "1980": {
         "ぶいじゃんぷべれーかい": ""
     },
     "1981": {
-        "あどみらるはっと": ""
+        "あどみらるはっと": "Admiral's Hat"
     },
     "1982": {
         "clarity_nt_char_635": "clarity_nt_char_635"
@@ -5949,7 +5949,7 @@
         "うさぎのおめん": "Bunny Mask"
     },
     "1984": {
-        "すらいむのおめん": ""
+        "すらいむのおめん": "Slime Mask"
     },
     "1985": {
         "clarity_nt_char_636": "clarity_nt_char_636"
@@ -5976,25 +5976,25 @@
         "あらくれますく": "Thug's Mug"
     },
     "1993": {
-        "がうがうきゃっぷ": ""
+        "がうがうきゃっぷ": "Woof Woof Cap"
     },
     "1994": {
         "clarity_nt_char_639": "clarity_nt_char_639"
     },
     "1995": {
-        "ふくろいりぷーちゃんぼう": ""
+        "ふくろいりぷーちゃんぼう": "Pooh-chan Bag Hat"
     },
     "1996": {
         "clarity_nt_char_640": "clarity_nt_char_640"
     },
     "1997": {
-        "ふくろいりくーちゃんぼう": ""
+        "ふくろいりくーちゃんぼう": "Kuu-chan Bag Hat"
     },
     "1998": {
         "clarity_nt_char_641": "clarity_nt_char_641"
     },
     "1999": {
-        "ふくろいりりぽちゃんぼう": ""
+        "ふくろいりりぽちゃんぼう": "Lipo-chan Bag Hat"
     },
     "2000": {
         "clarity_nt_char_642": "clarity_nt_char_642"
@@ -6003,7 +6003,7 @@
         "おにごっこぼう": "Tag Cap"
     },
     "2002": {
-        "はなびしもようののんらー": ""
+        "はなびしもようののんらー": "Floral Pattern Non La"
     },
     "2003": {
         "clarity_nt_char_643": "clarity_nt_char_643"
@@ -6021,7 +6021,7 @@
         "とらんぷはっと": ""
     },
     "2008": {
-        "あとらすのおめん": ""
+        "あとらすのおめん": "Atlas Mask"
     },
     "2009": {
         "clarity_nt_char_644": "clarity_nt_char_644"
@@ -6030,7 +6030,7 @@
         "れーすのみにはっと": ""
     },
     "2011": {
-        "ろりーたきゃっぷ": ""
+        "ろりーたきゃっぷ": "Lolita Cap"
     },
     "2012": {
         "clarity_nt_char_645": "clarity_nt_char_645"
@@ -6042,7 +6042,7 @@
         "おどりこのてぃあら": "Dancer Tiara"
     },
     "2015": {
-        "はいきんぐべれー": ""
+        "はいきんぐべれー": "Hiking Beret"
     },
     "2016": {
         "clarity_nt_char_646": "clarity_nt_char_646"
@@ -6051,7 +6051,7 @@
         "ぱてぃしえのぼうし": ""
     },
     "2018": {
-        "こまんだーきゃっぷ": ""
+        "こまんだーきゃっぷ": "Commander Cap"
     },
     "2019": {
         "おどりこのがくかん": "Dancer Diadem"
@@ -6078,7 +6078,7 @@
         "clarity_nt_char_648": "clarity_nt_char_648"
     },
     "2027": {
-        "ぎんがのかんむり": ""
+        "ぎんがのかんむり": "Galaxy Hat"
     },
     "2028": {
         "clarity_nt_char_649": "clarity_nt_char_649"
@@ -6102,7 +6102,7 @@
         "はがねのよろいした": "Steel Armor Bottom"
     },
     "2035": {
-        "せんしのれがーす": "Warrior Leggings"
+        "せんしのれがーす": "Warrior Shin Guards"
     },
     "2036": {
         "clarity_nt_char_652": "clarity_nt_char_652"
@@ -6117,7 +6117,7 @@
         "ぎんのこしだれ": "Silver Faulds"
     },
     "2040": {
-        "がいかのよろいした": "Victory Song Leggings"
+        "がいかのよろいした": "Victory Song Armor B."
     },
     "2041": {
         "やいばのよろいした": "Spiked Armor Bottom"
@@ -6141,7 +6141,7 @@
         "こぶどうぎした": ""
     },
     "2048": {
-        "けんぽうぎした": ""
+        "けんぽうぎした": "Tussler's Trousers"
     },
     "2049": {
         "ちいさなえいゆうのずぼん": ""
@@ -6153,10 +6153,10 @@
         "てつのこしだれ": "Iron Faulds"
     },
     "2052": {
-        "きゅうどうしゃのどうぎした": ""
+        "きゅうどうしゃのどうぎした": "Seeker's Dogi Bottom"
     },
     "2053": {
-        "げんぶのどうぎした": "Black Turtle Pants"
+        "げんぶのどうぎした": "Black Turtle Dogi Btm"
     },
     "2054": {
         "けんせいのどうぎした": ""
@@ -6165,10 +6165,10 @@
         "clarity_nt_char_657": "clarity_nt_char_657"
     },
     "2056": {
-        "てんきゅうきしのよろいした": "Sky Knight Leggings"
+        "てんきゅうきしのよろいした": "Sky Knight Armor Btm"
     },
     "2057": {
-        "あさのたんぱん": ""
+        "あさのたんぱん": "Linen Shorts"
     },
     "2058": {
         "またどーるすーつした": "Matador Suit Bottom"
@@ -6195,7 +6195,7 @@
         "clarity_nt_char_660": "clarity_nt_char_660"
     },
     "2066": {
-        "せんせいじゅつしのろーぶした": ""
+        "せんせいじゅつしのろーぶした": "Astrologer Robe Btm"
     },
     "2067": {
         "clarity_nt_char_661": "clarity_nt_char_661"
@@ -6207,7 +6207,7 @@
         "こだいまじゅつのほういした": ""
     },
     "2070": {
-        "だいまどうろーぶした": "Great Mage Lower Robe"
+        "だいまどうろーぶした": "Great Mage Robe Btm"
     },
     "2071": {
         "clarity_nt_char_662": "clarity_nt_char_662"
@@ -6222,13 +6222,13 @@
         "いやしのずぼん": "Healing Pants"
     },
     "2075": {
-        "くすしのろーぶした": "Apothecary Robe Lower"
+        "くすしのろーぶした": "Apothecary Robe Btm"
     },
     "2076": {
         "ほーりーろーぶした": ""
     },
     "2077": {
-        "やみきしのよろいした": ""
+        "やみきしのよろいした": "Dark Knight Armor Btm"
     },
     "2078": {
         "clarity_nt_char_664": "clarity_nt_char_664"
@@ -6255,19 +6255,19 @@
         "ごしっくこーとした": ""
     },
     "2086": {
-        "ぜんざげいにんのずぼん": ""
+        "ぜんざげいにんのずぼん": "Show Opener's Pants"
     },
     "2087": {
         "わかてげいにんのずぼん": "Young Talent Pants"
     },
     "2088": {
-        "まじないしろーぶした": "Fizzle-Retardant Bottom"
+        "まじないしろーぶした": "Fizzle-Retardant Btm"
     },
     "2089": {
         "clarity_nt_char_667": "clarity_nt_char_667"
     },
     "2090": {
-        "かたりべのふくした": "Storyteller's Skirt"
+        "かたりべのふくした": "Storyteller's Bottom"
     },
     "2091": {
         "たびげいにんのいしょうした": "Minstrel Pants"
@@ -6306,13 +6306,13 @@
         "clarity_nt_char_671": "clarity_nt_char_671"
     },
     "2103": {
-        "へうぃーあーまーした": ""
+        "へうぃーあーまーした": "Heavy Armor Bottom"
     },
     "2104": {
         "clarity_nt_char_672": "clarity_nt_char_672"
     },
     "2105": {
-        "やまねこぱんつ": ""
+        "やまねこぱんつ": "Wildcat Pants"
     },
     "2106": {
         "ぱらでぃんたいつ": ""
@@ -6321,10 +6321,10 @@
         "clarity_nt_char_673": "clarity_nt_char_673"
     },
     "2108": {
-        "とこなつはっぴした": ""
+        "とこなつはっぴした": "Summer Skirt"
     },
     "2109": {
-        "せいれいおうのくろーくした": ""
+        "せいれいおうのくろーくした": "Faerie King Cloak Btm"
     },
     "2110": {
         "せいきしのよろいした": ""
@@ -6351,19 +6351,19 @@
         "むほうもののずぼん": ""
     },
     "2118": {
-        "まぎしずぼん": ""
+        "まぎしずぼん": "Technomancer Pants"
     },
     "2119": {
         "clarity_nt_char_677": "clarity_nt_char_677"
     },
     "2120": {
-        "くろがねのよろいした": "Black Iron Faulds"
+        "くろがねのよろいした": "Darksteel Faulds"
     },
     "2121": {
         "clarity_nt_char_678": "clarity_nt_char_678"
     },
     "2122": {
-        "ばとますあーまーした": "Battlemaster Faulds"
+        "ばとますあーまーした": "Battlemaster Armor B."
     },
     "2123": {
         "clarity_nt_char_679": "clarity_nt_char_679"
@@ -6399,13 +6399,13 @@
         "とーてむけーぷした": "Totem Leggings"
     },
     "2134": {
-        "きゅうめいしゃのこーとした": "Researcher's Bottom"
+        "きゅうめいしゃのこーとした": "Researcher's Coat Btm"
     },
     "2135": {
         "うぇすたんすぱっつ": "Western Spats"
     },
     "2136": {
-        "みかわしのふくした": "Evasive Cloak Bottom"
+        "みかわしのふくした": "Evasion Cloak Bottom"
     },
     "2137": {
         "そうへいのころもした": ""
@@ -6414,7 +6414,7 @@
         "clarity_nt_char_684": "clarity_nt_char_684"
     },
     "2139": {
-        "まじぇすたすーつした": ""
+        "まじぇすたすーつした": "Majesta Pants"
     },
     "2140": {
         "clarity_nt_char_685": "clarity_nt_char_685"
@@ -6507,7 +6507,7 @@
         "clarity_nt_char_695": "clarity_nt_char_695"
     },
     "2170": {
-        "ぱっしょんぱれお": ""
+        "ぱっしょんぱれお": "Passion Pareo"
     },
     "2171": {
         "clarity_nt_char_696": "clarity_nt_char_696"
@@ -6522,13 +6522,13 @@
         "clarity_nt_char_697": "clarity_nt_char_697"
     },
     "2175": {
-        "たいふーんれざーした": ""
+        "たいふーんれざーした": "Typhoon Leather Pants"
     },
     "2176": {
         "clarity_nt_char_698": "clarity_nt_char_698"
     },
     "2177": {
-        "ちぇいさーれざーした": ""
+        "ちぇいさーれざーした": "Chaser Leather Pants"
     },
     "2178": {
         "clarity_nt_char_699": "clarity_nt_char_699"
@@ -6552,13 +6552,13 @@
         "clarity_nt_char_702": "clarity_nt_char_702"
     },
     "2185": {
-        "じぇすたーすーつした": ""
+        "じぇすたーすーつした": "Jester Suit Bottom"
     },
     "2186": {
         "clarity_nt_char_703": "clarity_nt_char_703"
     },
     "2187": {
-        "うぃきっどすーつした": ""
+        "うぃきっどすーつした": "Wicked Suit Bottom"
     },
     "2188": {
         "clarity_nt_char_704": "clarity_nt_char_704"
@@ -6573,7 +6573,7 @@
         "clarity_nt_char_705": "clarity_nt_char_705"
     },
     "2192": {
-        "ろーらひめのどれすした": ""
+        "ろーらひめのどれすした": "Gwaelin's Dress Lower"
     },
     "2193": {
         "ぶしんのどうぎした": ""
@@ -6597,7 +6597,7 @@
         "いんてりろーぶした": ""
     },
     "2200": {
-        "うたよみのころもした": ""
+        "うたよみのころもした": "Poet's Attire Bottom"
     },
     "2201": {
         "clarity_nt_char_708": "clarity_nt_char_708"
@@ -6648,7 +6648,7 @@
         "clarity_nt_char_714": "clarity_nt_char_714"
     },
     "2217": {
-        "どうけしのふくした": ""
+        "どうけしのふくした": "Buffoon's Pants"
     },
     "2218": {
         "とらいばるぼとむ": "Tribal Bottom"
@@ -6657,25 +6657,25 @@
         "clarity_nt_char_715": "clarity_nt_char_715"
     },
     "2220": {
-        "うるたのこーとした": ""
+        "うるたのこーとした": "Ulta Coat Bottom"
     },
     "2221": {
         "ふれあすかーと": ""
     },
     "2222": {
-        "せぴあんふりるした": ""
+        "せぴあんふりるした": "Sepian Pants"
     },
     "2223": {
         "てあみのずぼん": ""
     },
     "2224": {
-        "すとりーとぱんつ": ""
+        "すとりーとぱんつ": "Street Pants"
     },
     "2225": {
         "clarity_nt_char_716": "clarity_nt_char_716"
     },
     "2226": {
-        "こくちょうのちゅちゅした": ""
+        "こくちょうのちゅちゅした": "Blackbird Tutu Bottom"
     },
     "2227": {
         "clarity_nt_char_717": "clarity_nt_char_717"
@@ -6732,13 +6732,13 @@
         "clarity_nt_char_724": "clarity_nt_char_724"
     },
     "2245": {
-        "ぷちでびるすーつした": ""
+        "ぷちでびるすーつした": "Petit Devil Pants"
     },
     "2246": {
         "clarity_nt_char_725": "clarity_nt_char_725"
     },
     "2247": {
-        "こあくまどれすした": ""
+        "こあくまどれすした": "Lil' Devil Skirt"
     },
     "2248": {
         "よざくらすーつした": ""
@@ -6786,7 +6786,7 @@
         "clarity_nt_char_728": "clarity_nt_char_728"
     },
     "2263": {
-        "すてーじぱんつ": ""
+        "すてーじぱんつ": "Stage Shorts"
     },
     "2264": {
         "もだんばにーたいつ": ""
@@ -6798,7 +6798,7 @@
         "えてーねのこしぬの": ""
     },
     "2267": {
-        "うぇでぃのずぼん": ""
+        "うぇでぃのずぼん": "Weddie Trousers"
     },
     "2268": {
         "clarity_nt_char_729": "clarity_nt_char_729"
@@ -6831,7 +6831,7 @@
         "clarity_nt_char_733": "clarity_nt_char_733"
     },
     "2278": {
-        "まーめいどぱれお": ""
+        "まーめいどぱれお": "Mermaid Pareo"
     },
     "2279": {
         "clarity_nt_char_734": "clarity_nt_char_734"
@@ -6846,7 +6846,7 @@
         "clarity_nt_char_735": "clarity_nt_char_735"
     },
     "2283": {
-        "すてーじちゅちゅした": ""
+        "すてーじちゅちゅした": "Stage Tutu Bottom"
     },
     "2284": {
         "clarity_nt_char_736": "clarity_nt_char_736"
@@ -6855,16 +6855,16 @@
         "もだんばにーふれあ": ""
     },
     "2286": {
-        "さんたのふくした": ""
+        "さんたのふくした": "Santa Slacks"
     },
     "2287": {
         "clarity_nt_char_737": "clarity_nt_char_737"
     },
     "2288": {
-        "さんたすかーと": ""
+        "さんたすかーと": "Santa Skirt"
     },
     "2289": {
-        "すらたわーぱんつ": ""
+        "すらたわーぱんつ": "Slime Stack Pants"
     },
     "2290": {
         "clarity_nt_char_738": "clarity_nt_char_738"
@@ -6882,7 +6882,7 @@
         "clarity_nt_char_739": "clarity_nt_char_739"
     },
     "2295": {
-        "すいーとなふくした": ""
+        "すいーとなふくした": "Sweet Skirt"
     },
     "2296": {
         "まほうのよろいした２": "Magic Armor Bottom 2"
@@ -6915,10 +6915,10 @@
         "clarity_nt_char_742": "clarity_nt_char_742"
     },
     "2306": {
-        "がうがうぱんつ": ""
+        "がうがうぱんつ": "Woof Woof Pants"
     },
     "2307": {
-        "ふぁんきーたいつした": ""
+        "ふぁんきーたいつした": "Funky Tights"
     },
     "2308": {
         "clarity_nt_char_743": "clarity_nt_char_743"
@@ -6933,7 +6933,7 @@
         "たいとすかーと": ""
     },
     "2312": {
-        "ろりーたどれすした": ""
+        "ろりーたどれすした": "Lolita Dress Bottom"
     },
     "2313": {
         "えとわーるこーとした": "Etoile Coat Bottom"
@@ -6951,19 +6951,19 @@
         "とらんぷずぼん": ""
     },
     "2318": {
-        "しんぷるずぼん": ""
+        "しんぷるずぼん": "Simple Trousers"
     },
     "2319": {
         "おどりこのすかーと": "Dancer Skirt"
     },
     "2320": {
-        "はいきんぐぱんつ": ""
+        "はいきんぐぱんつ": "Hiking Pants"
     },
     "2321": {
         "clarity_nt_char_747": "clarity_nt_char_747"
     },
     "2322": {
-        "こまんだーこーとした": ""
+        "こまんだーこーとした": "Commander Coat Bottom"
     },
     "2323": {
         "clarity_nt_char_748": "clarity_nt_char_748"
@@ -7077,10 +7077,10 @@
         "clarity_nt_char_761": "clarity_nt_char_761"
     },
     "2360": {
-        "わかむしゃのよろいした": ""
+        "わかむしゃのよろいした": "Young Warrior Faulds"
     },
     "2361": {
-        "おまつりのはんだこ": ""
+        "おまつりのはんだこ": "Festival Half-Dako"
     },
     "2362": {
         "しゃくねつさーふぱんつ": ""
@@ -7098,7 +7098,7 @@
         "clarity_nt_char_763": "clarity_nt_char_763"
     },
     "2367": {
-        "すたじあむぱんつ": ""
+        "すたじあむぱんつ": "Stadium Shorts"
     },
     "2368": {
         "clarity_nt_char_764": "clarity_nt_char_764"
@@ -7122,7 +7122,7 @@
         "みいらおとこのふくした": ""
     },
     "2375": {
-        "でぃばいんめいるした": ""
+        "でぃばいんめいるした": "Divine Mail Bottom"
     },
     "2376": {
         "clarity_nt_char_767": "clarity_nt_char_767"
@@ -7137,7 +7137,7 @@
         "clarity_nt_char_768": "clarity_nt_char_768"
     },
     "2380": {
-        "めいどどれすした": ""
+        "めいどどれすした": "Maid Dress Bottom"
     },
     "2381": {
         "clarity_nt_char_769": "clarity_nt_char_769"
@@ -7155,7 +7155,7 @@
         "はーとのへいたいのふくした": ""
     },
     "2386": {
-        "めろでぃあすーつした": ""
+        "めろでぃあすーつした": "Melody Suit Bottom"
     },
     "2387": {
         "clarity_nt_char_771": "clarity_nt_char_771"
@@ -7173,7 +7173,7 @@
         "clarity_nt_char_773": "clarity_nt_char_773"
     },
     "2392": {
-        "あらびあんあーむ": ""
+        "あらびあんあーむ": "Arabian Armguards"
     },
     "2393": {
         "clarity_nt_char_774": "clarity_nt_char_774"
@@ -7191,7 +7191,7 @@
         "clarity_nt_char_776": "clarity_nt_char_776"
     },
     "2398": {
-        "せいびしのてぶくろ": ""
+        "せいびしのてぶくろ": "Technician's Gloves"
     },
     "2399": {
         "めれあーでりすと": ""
@@ -7200,7 +7200,7 @@
         "clarity_nt_char_777": "clarity_nt_char_777"
     },
     "2401": {
-        "ゆめのおうこくぐろーぶ": ""
+        "ゆめのおうこくぐろーぶ": "Dream Kingdom Gloves"
     },
     "2402": {
         "えーじぇんとぐらぶ": ""
@@ -7275,7 +7275,7 @@
         "clarity_nt_char_785": "clarity_nt_char_785"
     },
     "2426": {
-        "けんぽうのわんたい": ""
+        "けんぽうのわんたい": "Tussler's Armbands"
     },
     "2427": {
         "くりむぞんぐろーぶ": ""
@@ -7284,7 +7284,7 @@
         "てつのうであて": "Iron Gloves"
     },
     "2429": {
-        "きゅうどうしゃのてぶくろ": ""
+        "きゅうどうしゃのてぶくろ": "Seeker's Gloves"
     },
     "2430": {
         "clarity_nt_char_786": "clarity_nt_char_786"
@@ -7305,7 +7305,7 @@
         "こうりゅうのうでわ": ""
     },
     "2436": {
-        "あさのてぶくろ": ""
+        "あさのてぶくろ": "Linen Gloves"
     },
     "2437": {
         "またどーるぐろーぶ": "Matador Gloves"
@@ -7371,7 +7371,7 @@
         "clarity_nt_char_796": "clarity_nt_char_796"
     },
     "2458": {
-        "やみきしのぐろーぶ": ""
+        "やみきしのぐろーぶ": "Dark Knight Gloves"
     },
     "2459": {
         "せいじゃのてぶくろ": ""
@@ -7386,7 +7386,7 @@
         "しんかんのてぶくろ": "Minister Mitts"
     },
     "2463": {
-        "うるたのぐろーぶ": ""
+        "うるたのぐろーぶ": "Ulta Gloves"
     },
     "2464": {
         "clarity_nt_char_798": "clarity_nt_char_798"
@@ -7398,7 +7398,7 @@
         "clarity_nt_char_799": "clarity_nt_char_799"
     },
     "2467": {
-        "ぜんざげいにんのうでわ": ""
+        "ぜんざげいにんのうでわ": "Show Opener's Bracers"
     },
     "2468": {
         "わかてげいにんのてぶくろ": "Young Talent Gloves"
@@ -7455,7 +7455,7 @@
         "せいどうのこて": "Bronze Gauntlets"
     },
     "2486": {
-        "へうぃーぐろーぶ": ""
+        "へうぃーぐろーぶ": "Heavy Gloves"
     },
     "2487": {
         "clarity_nt_char_807": "clarity_nt_char_807"
@@ -7464,13 +7464,13 @@
         "うぁいぱーぐろーぶ": "Viper Gloves"
     },
     "2489": {
-        "やまねこぐろーぶ": ""
+        "やまねこぐろーぶ": "Wildcat Gloves"
     },
     "2490": {
         "clarity_nt_char_808": "clarity_nt_char_808"
     },
     "2491": {
-        "とこなつばんぐる": ""
+        "とこなつばんぐる": "Summer Bangles"
     },
     "2492": {
         "clarity_nt_char_809": "clarity_nt_char_809"
@@ -7485,7 +7485,7 @@
         "しだんちょうのこて": ""
     },
     "2496": {
-        "せいれいおうのぐろーぶ": ""
+        "せいれいおうのぐろーぶ": "Faerie King Gloves"
     },
     "2497": {
         "しんぺいのがんとれっと": ""
@@ -7503,7 +7503,7 @@
         "ふうこのうでわ": "Wind Tiger Bangles"
     },
     "2502": {
-        "くろがねのこて": "Black Iron Gauntlets"
+        "くろがねのこて": "Darksteel Gauntlets"
     },
     "2503": {
         "ばとますのぐろーぶ": "Battlemaster Gloves"
@@ -7521,7 +7521,7 @@
         "ばとるがんとれっと": ""
     },
     "2508": {
-        "まぎしぐろーぶ": ""
+        "まぎしぐろーぶ": "Technomancer Gloves"
     },
     "2509": {
         "ぐれーとぐらぶ": ""
@@ -7596,7 +7596,7 @@
         "clarity_nt_char_819": "clarity_nt_char_819"
     },
     "2533": {
-        "まじぇすたぐろーぶ": ""
+        "まじぇすたぐろーぶ": "Majesta Gloves"
     },
     "2534": {
         "くろっしゅぐろーぶ": "Bell Gloves"
@@ -7650,10 +7650,10 @@
         "clarity_nt_char_824": "clarity_nt_char_824"
     },
     "2551": {
-        "たいふーんぐろーぶ": ""
+        "たいふーんぐろーぶ": "Typhoon Gloves"
     },
     "2552": {
-        "ちぇいさーあーむ": ""
+        "ちぇいさーあーむ": "Chaser Bracers"
     },
     "2553": {
         "clarity_nt_char_825": "clarity_nt_char_825"
@@ -7686,7 +7686,7 @@
         "くのいちのてっこう": ""
     },
     "2563": {
-        "まーめいどぶれす": ""
+        "まーめいどぶれす": "Mermaid Bracelets"
     },
     "2564": {
         "clarity_nt_char_829": "clarity_nt_char_829"
@@ -7713,7 +7713,7 @@
         "せいぎょくのうでわ": ""
     },
     "2572": {
-        "だいけんじゃのぐろーぶ": ""
+        "だいけんじゃのぐろーぶ": "Supreme Sage Gloves"
     },
     "2573": {
         "るびーのうでわ": ""
@@ -7737,7 +7737,7 @@
         "clarity_nt_char_834": "clarity_nt_char_834"
     },
     "2580": {
-        "うたよみのぶれす": ""
+        "うたよみのぶれす": "Poet's Bracelets"
     },
     "2581": {
         "clarity_nt_char_835": "clarity_nt_char_835"
@@ -7761,7 +7761,7 @@
         "clarity_nt_char_837": "clarity_nt_char_837"
     },
     "2588": {
-        "うぃっちぶれす": ""
+        "うぃっちぶれす": "Witch's Bracelets"
     },
     "2589": {
         "しんたくのぶれす": "Oracle Bracelets"
@@ -7770,13 +7770,13 @@
         "clarity_nt_char_838": "clarity_nt_char_838"
     },
     "2591": {
-        "どうけしのぐろーぶ": ""
+        "どうけしのぐろーぶ": "Buffoon's Gloves"
     },
     "2592": {
         "えとわーるぐろーぶ": "Etoile Gloves"
     },
     "2593": {
-        "ゆうよくじんのうでわ": ""
+        "ゆうよくじんのうでわ": "Winged One's Bracelet"
     },
     "2594": {
         "clarity_nt_char_839": "clarity_nt_char_839"
@@ -7788,19 +7788,19 @@
         "せいてんのぐろーぶ": ""
     },
     "2597": {
-        "すとりーとりすと": ""
+        "すとりーとりすと": "Street Bangles"
     },
     "2598": {
         "clarity_nt_char_840": "clarity_nt_char_840"
     },
     "2599": {
-        "こくちょうのすりーぶ": ""
+        "こくちょうのすりーぶ": "Blackbird Sleeves"
     },
     "2600": {
         "clarity_nt_char_841": "clarity_nt_char_841"
     },
     "2601": {
-        "ゆきぐにのみとん": ""
+        "ゆきぐにのみとん": "Snow Country Mitts"
     },
     "2602": {
         "clarity_nt_char_842": "clarity_nt_char_842"
@@ -7812,10 +7812,10 @@
         "おうえんだんのてぶくろ": ""
     },
     "2605": {
-        "うさぐるみぐろーぶ": ""
+        "うさぐるみぐろーぶ": "Rabbit Gloves"
     },
     "2606": {
-        "うぃきっどぶれす": ""
+        "うぃきっどぶれす": "Wicked Braclets"
     },
     "2607": {
         "clarity_nt_char_843": "clarity_nt_char_843"
@@ -7830,7 +7830,7 @@
         "めいたんていのぐろーぶ": ""
     },
     "2611": {
-        "ろーらひめのてぶくろ": ""
+        "ろーらひめのてぶくろ": "Gwaelin's Gloves"
     },
     "2612": {
         "clarity_nt_char_845": "clarity_nt_char_845"
@@ -7848,10 +7848,10 @@
         "clarity_nt_char_847": "clarity_nt_char_847"
     },
     "2617": {
-        "ぷちでびるぐろーぶ": ""
+        "ぷちでびるぐろーぶ": "Petit Devil Gloves"
     },
     "2618": {
-        "こあくまぐろーぶ": ""
+        "こあくまぐろーぶ": "Lil' Devil Gloves"
     },
     "2619": {
         "clarity_nt_char_848": "clarity_nt_char_848"
@@ -7878,7 +7878,7 @@
         "てじなしのぐろーぶ": "Conjurer's Gloves"
     },
     "2627": {
-        "すてーじりすと": ""
+        "すてーじりすと": "Stage Bracers"
     },
     "2628": {
         "もだんばにーぶれす": ""
@@ -7902,13 +7902,13 @@
         "clarity_nt_char_851": "clarity_nt_char_851"
     },
     "2635": {
-        "うぇでぃばんぐる": ""
+        "うぇでぃばんぐる": "Weddie Bangles"
     },
     "2636": {
         "clarity_nt_char_852": "clarity_nt_char_852"
     },
     "2637": {
-        "うぇでぃのりすと": ""
+        "うぇでぃのりすと": "Weddie Bracers"
     },
     "2638": {
         "clarity_nt_char_853": "clarity_nt_char_853"
@@ -7929,10 +7929,10 @@
         "ごしっくあーむ": ""
     },
     "2644": {
-        "すてーじあーむ": ""
+        "すてーじあーむ": "Stage Wraps"
     },
     "2645": {
-        "となかいぐろーぶ": ""
+        "となかいぐろーぶ": "Reindeer Gloves"
     },
     "2646": {
         "clarity_nt_char_855": "clarity_nt_char_855"
@@ -7944,13 +7944,13 @@
         "clarity_nt_char_856": "clarity_nt_char_856"
     },
     "2649": {
-        "さんたのてぶくろ": ""
+        "さんたのてぶくろ": "Santa Mitts"
     },
     "2650": {
         "clarity_nt_char_857": "clarity_nt_char_857"
     },
     "2651": {
-        "さんたぐろーぶ": ""
+        "さんたぐろーぶ": "Santa Gloves"
     },
     "2652": {
         "しれんのばんぐる": ""
@@ -7974,13 +7974,13 @@
         "clarity_nt_char_860": "clarity_nt_char_860"
     },
     "2659": {
-        "がうがうぐろーぶ": ""
+        "がうがうぐろーぶ": "Woof Woof Gloves"
     },
     "2660": {
         "clarity_nt_char_861": "clarity_nt_char_861"
     },
     "2661": {
-        "ふぁんきーりすと": ""
+        "ふぁんきーりすと": "Funky Wristband"
     },
     "2662": {
         "clarity_nt_char_862": "clarity_nt_char_862"
@@ -7995,7 +7995,7 @@
         "とらんぷぶれす": ""
     },
     "2666": {
-        "ろりーたりすと": ""
+        "ろりーたりすと": "Lolita Wristbands"
     },
     "2667": {
         "てあみのてぶくろ": ""
@@ -8007,7 +8007,7 @@
         "らだとーむぐろーぶ": ""
     },
     "2670": {
-        "こまんだーぐろーぶ": ""
+        "こまんだーぐろーぶ": "Commander Gloves"
     },
     "2671": {
         "まいてのりすと": "Performer Bangles"
@@ -8031,7 +8031,7 @@
         "ろとのこて": ""
     },
     "2678": {
-        "ぴくしーりすと": ""
+        "ぴくしーりすと": "Pixie Wristbands"
     },
     "2679": {
         "いぶにんぐぐろーぶ": ""
@@ -8082,7 +8082,7 @@
         "clarity_nt_char_873": "clarity_nt_char_873"
     },
     "2695": {
-        "しょこらなぶれす": ""
+        "しょこらなぶれす": "Cholocate Bracers"
     },
     "2696": {
         "clarity_nt_char_874": "clarity_nt_char_874"
@@ -8094,28 +8094,28 @@
         "clarity_nt_char_875": "clarity_nt_char_875"
     },
     "2699": {
-        "はなよめのてぶくろ": ""
+        "はなよめのてぶくろ": "Bride's Gloves"
     },
     "2700": {
-        "はなむこのてぶくろ": ""
+        "はなむこのてぶくろ": "Groom's Gloves"
     },
     "2701": {
-        "すたーりーりすと": ""
+        "すたーりーりすと": "Starry Bangles"
     },
     "2702": {
         "clarity_nt_char_876": "clarity_nt_char_876"
     },
     "2703": {
-        "ふゅーちゃーぐらぶ": ""
+        "ふゅーちゃーぐらぶ": "Future Gloves"
     },
     "2704": {
-        "すらいだーくぐらぶ": ""
+        "すらいだーくぐらぶ": "Nemeslime Gloves"
     },
     "2705": {
         "しっぷうのわんたい": ""
     },
     "2706": {
-        "わかむしゃのこて": ""
+        "わかむしゃのこて": "Young War. Gloves"
     },
     "2707": {
         "clarity_nt_char_877": "clarity_nt_char_877"
@@ -8127,13 +8127,13 @@
         "clarity_nt_char_878": "clarity_nt_char_878"
     },
     "2710": {
-        "すたじあむりすと": ""
+        "すたじあむりすと": "Stadium Bangles"
     },
     "2711": {
         "clarity_nt_char_879": "clarity_nt_char_879"
     },
     "2712": {
-        "ごるふぐろーぶ": ""
+        "ごるふぐろーぶ": "Golf Gloves"
     },
     "2713": {
         "べびたんぐろーぶ": ""
@@ -8145,16 +8145,16 @@
         "みいらおとこのてぶくろ": ""
     },
     "2716": {
-        "ぶらっでぃぐろーぶ": ""
+        "ぶらっでぃぐろーぶ": "Bloody Gloves"
     },
     "2717": {
-        "でぃばいんぐろーぶ": ""
+        "でぃばいんぐろーぶ": "Divine Gloves"
     },
     "2718": {
-        "ありあはんぐろーぶ": ""
+        "ありあはんぐろーぶ": "Aliahan Gloves"
     },
     "2719": {
-        "もだんろーずのてぶくろ": ""
+        "もだんろーずのてぶくろ": "Modern Rose Gloves"
     },
     "2720": {
         "ぴかれすくぐろーぶ": ""
@@ -8163,13 +8163,13 @@
         "ぎゃるいぶれす": ""
     },
     "2722": {
-        "めろでぃあぐろーぶ": ""
+        "めろでぃあぐろーぶ": "Melody Gloves"
     },
     "2723": {
         "ようせいのじょおうのぶれす": ""
     },
     "2724": {
-        "ぼうえいぐんのぐろーぶ": ""
+        "ぼうえいぐんのぐろーぶ": "Defense Force Gloves"
     },
     "2725": {
         "みけねこのぐろーぶ": ""
@@ -8181,7 +8181,7 @@
         "clarity_nt_char_881": "clarity_nt_char_881"
     },
     "2728": {
-        "せいびしのふくした": ""
+        "せいびしのふくした": "Technician's Pants"
     },
     "2729": {
         "めれあーでどれすした": ""
@@ -8193,7 +8193,7 @@
         "るびーのどれすした": ""
     },
     "2732": {
-        "あらびあんうぇあした": ""
+        "あらびあんうぇあした": "Arabian Pants"
     },
     "2733": {
         "clarity_nt_char_883": "clarity_nt_char_883"
@@ -8202,7 +8202,7 @@
         "しゅめりあすかーと": ""
     },
     "2735": {
-        "れんじゃこーとした２": ""
+        "れんじゃこーとした２": "Ranger Coat Bottom 2"
     },
     "2736": {
         "clarity_nt_char_884": "clarity_nt_char_884"
@@ -8223,7 +8223,7 @@
         "clarity_nt_char_885": "clarity_nt_char_885"
     },
     "2742": {
-        "うさぐるみのくつ": ""
+        "うさぐるみのくつ": "Rabbit Shoes"
     },
     "2743": {
         "clarity_nt_char_886": "clarity_nt_char_886"
@@ -8241,7 +8241,7 @@
         "くのいちのたび": ""
     },
     "2748": {
-        "まーめいどさんだる": ""
+        "まーめいどさんだる": "Mermaid Sandals"
     },
     "2749": {
         "かみるのぶーつ": ""
@@ -8319,7 +8319,7 @@
         "clarity_nt_char_897": "clarity_nt_char_897"
     },
     "2774": {
-        "けんぽうのきゃくたい": ""
+        "けんぽうのきゃくたい": "Tussler's Boots"
     },
     "2775": {
         "clarity_nt_char_898": "clarity_nt_char_898"
@@ -8331,7 +8331,7 @@
         "てつのすねあて": "Iron Shin Guards"
     },
     "2778": {
-        "きゅうどうしゃのぶーつ": ""
+        "きゅうどうしゃのぶーつ": "Seeker's Boots"
     },
     "2779": {
         "げんぶのくつ": "Black Turtle Shoes"
@@ -8349,7 +8349,7 @@
         "clarity_nt_char_900": "clarity_nt_char_900"
     },
     "2784": {
-        "あさのくつ": ""
+        "あさのくつ": "Linen Boots"
     },
     "2785": {
         "またどーるしゅーず": "Matador Shoes"
@@ -8370,7 +8370,7 @@
         "まどうしのくつ": "Wizard's Shoes"
     },
     "2791": {
-        "せんせいじゅつしのぶーつ": ""
+        "せんせいじゅつしのぶーつ": "Astrologer Boots"
     },
     "2792": {
         "clarity_nt_char_902": "clarity_nt_char_902"
@@ -8436,7 +8436,7 @@
         "ごしっくぶーつ": ""
     },
     "2813": {
-        "ぜんざげいにんのながぐつ": ""
+        "ぜんざげいにんのながぐつ": "Show Opener's Boots"
     },
     "2814": {
         "clarity_nt_char_910": "clarity_nt_char_910"
@@ -8460,7 +8460,7 @@
         "clarity_nt_char_913": "clarity_nt_char_913"
     },
     "2821": {
-        "たびげいにんのぶーつ": "Minstrel Pants"
+        "たびげいにんのぶーつ": "Minstrel Boots"
     },
     "2822": {
         "clarity_nt_char_914": "clarity_nt_char_914"
@@ -8493,7 +8493,7 @@
         "clarity_nt_char_916": "clarity_nt_char_916"
     },
     "2832": {
-        "へうぃーぐりーぶ": ""
+        "へうぃーぐりーぶ": "Heavy Greaves"
     },
     "2833": {
         "clarity_nt_char_917": "clarity_nt_char_917"
@@ -8550,7 +8550,7 @@
         "clarity_nt_char_923": "clarity_nt_char_923"
     },
     "2851": {
-        "くろがねのぶーつ": "Black Iron Boots"
+        "くろがねのぶーつ": "Darksteel Boots"
     },
     "2852": {
         "clarity_nt_char_924": "clarity_nt_char_924"
@@ -8586,7 +8586,7 @@
         "clarity_nt_char_928": "clarity_nt_char_928"
     },
     "2863": {
-        "やみきしのぐりーぶ": ""
+        "やみきしのぐりーぶ": "Dark Knight Greaves"
     },
     "2864": {
         "ごうまのぐりーぶ": "Demonfel Greaves"
@@ -8601,7 +8601,7 @@
         "clarity_nt_char_930": "clarity_nt_char_930"
     },
     "2868": {
-        "みかわしのくつ": "Evasive Boots"
+        "みかわしのくつ": "Evasion Boots"
     },
     "2869": {
         "まほうせんしだんぶーつ": "Armamentalist Boots"
@@ -8706,7 +8706,7 @@
         "clarity_nt_char_942": "clarity_nt_char_942"
     },
     "2903": {
-        "やまねこしゅーず": ""
+        "やまねこしゅーず": "Wildcat Shoes"
     },
     "2904": {
         "clarity_nt_char_943": "clarity_nt_char_943"
@@ -8718,19 +8718,19 @@
         "clarity_nt_char_944": "clarity_nt_char_944"
     },
     "2907": {
-        "たいふーんぶーつ": ""
+        "たいふーんぶーつ": "Typhoon Boots"
     },
     "2908": {
         "clarity_nt_char_945": "clarity_nt_char_945"
     },
     "2909": {
-        "ちぇいさーぶーつ": ""
+        "ちぇいさーぶーつ": "Chaser Boots"
     },
     "2910": {
         "clarity_nt_char_946": "clarity_nt_char_946"
     },
     "2911": {
-        "とこなつしゅーず": ""
+        "とこなつしゅーず": "Summer Shoes"
     },
     "2912": {
         "clarity_nt_char_947": "clarity_nt_char_947"
@@ -8739,7 +8739,7 @@
         "うぁんがーどぶーつ": "Vanguard Boots"
     },
     "2914": {
-        "せいれいおうのきゃくたい": ""
+        "せいれいおうのきゃくたい": "Faerie King Shoes"
     },
     "2915": {
         "clarity_nt_char_948": "clarity_nt_char_948"
@@ -8751,7 +8751,7 @@
         "clarity_nt_char_949": "clarity_nt_char_949"
     },
     "2918": {
-        "まぎしぶーつ": ""
+        "まぎしぶーつ": "Technomancer Boots"
     },
     "2919": {
         "clarity_nt_char_950": "clarity_nt_char_950"
@@ -8799,7 +8799,7 @@
         "clarity_nt_char_956": "clarity_nt_char_956"
     },
     "2934": {
-        "うたよみのきゃくたい": ""
+        "うたよみのきゃくたい": "Poet's Boots"
     },
     "2935": {
         "clarity_nt_char_957": "clarity_nt_char_957"
@@ -8820,7 +8820,7 @@
         "clarity_nt_char_959": "clarity_nt_char_959"
     },
     "2941": {
-        "だいけんじゃのくつ": ""
+        "だいけんじゃのくつ": "Supreme Sage Shoes"
     },
     "2942": {
         "せいけんじゃのくつ": "Holy Sage Shoes"
@@ -8844,7 +8844,7 @@
         "clarity_nt_char_961": "clarity_nt_char_961"
     },
     "2949": {
-        "うぃっちしゅーず": ""
+        "うぃっちしゅーず": "Witch's Shoes"
     },
     "2950": {
         "clarity_nt_char_962": "clarity_nt_char_962"
@@ -8859,34 +8859,34 @@
         "clarity_nt_char_963": "clarity_nt_char_963"
     },
     "2954": {
-        "ぴくしーしゅーず": ""
+        "ぴくしーしゅーず": "Pixie Shoes"
     },
     "2955": {
         "clarity_nt_char_964": "clarity_nt_char_964"
     },
     "2956": {
-        "どうけしのくつ": ""
+        "どうけしのくつ": "Buffoon's Shoes"
     },
     "2957": {
         "おんがくたいのくつ": ""
     },
     "2958": {
-        "すとりーとしゅーず": ""
+        "すとりーとしゅーず": "Street Shoes"
     },
     "2959": {
-        "こくちょうのみゅーる": ""
+        "こくちょうのみゅーる": "Blackbird Shoes"
     },
     "2960": {
         "clarity_nt_char_965": "clarity_nt_char_965"
     },
     "2961": {
-        "しょこらなしゅーず": ""
+        "しょこらなしゅーず": "Chocolate Shoes"
     },
     "2962": {
         "ちょこっとしゅーず": ""
     },
     "2963": {
-        "ゆきぐにのしゅーず": ""
+        "ゆきぐにのしゅーず": "Snow Country Shoes"
     },
     "2964": {
         "ふぉーまるみゅーる": ""
@@ -8922,13 +8922,13 @@
         "ようせいのさんだる": ""
     },
     "2975": {
-        "はなよめのひーる": ""
+        "はなよめのひーる": "Bride's Heels"
     },
     "2976": {
         "clarity_nt_char_968": "clarity_nt_char_968"
     },
     "2977": {
-        "はなむこのぶーつ": ""
+        "はなむこのぶーつ": "Groom's Boots"
     },
     "2978": {
         "clarity_nt_char_969": "clarity_nt_char_969"
@@ -8937,7 +8937,7 @@
         "まものつかいのくつ": "Monster Master Shoes"
     },
     "2980": {
-        "まじぇすたぶーつ": ""
+        "まじぇすたぶーつ": "Majesta Boots"
     },
     "2981": {
         "clarity_nt_char_970": "clarity_nt_char_970"
@@ -8985,7 +8985,7 @@
         "clarity_nt_char_975": "clarity_nt_char_975"
     },
     "2996": {
-        "すてーじしゅーず": ""
+        "すてーじしゅーず": "Stage Shoes"
     },
     "2997": {
         "clarity_nt_char_976": "clarity_nt_char_976"
@@ -8997,7 +8997,7 @@
         "ますかれいどぶーつ": ""
     },
     "3000": {
-        "せいびしのくつ": ""
+        "せいびしのくつ": "Technician's Shoes"
     },
     "3001": {
         "えてーねのくつ": ""
@@ -9027,22 +9027,22 @@
         "clarity_nt_char_980": "clarity_nt_char_980"
     },
     "3010": {
-        "しんぷるしゅーず": ""
+        "しんぷるしゅーず": "Simple Shoes"
     },
     "3011": {
         "clarity_nt_char_981": "clarity_nt_char_981"
     },
     "3012": {
-        "うぇでぃのさんだる": ""
+        "うぇでぃのさんだる": "Weddie Sandals"
     },
     "3013": {
-        "すたーりーぶーつ": ""
+        "すたーりーぶーつ": "Starry Boots"
     },
     "3014": {
         "clarity_nt_char_982": "clarity_nt_char_982"
     },
     "3015": {
-        "うぇでぃのくつ": ""
+        "うぇでぃのくつ": "Weddie Shoes"
     },
     "3016": {
         "どわーふさぎょうくつ": ""
@@ -9069,7 +9069,7 @@
         "ごしっくにーそ": ""
     },
     "3024": {
-        "すてーじぶーつ": ""
+        "すてーじぶーつ": "Stage Boots"
     },
     "3025": {
         "めれあーでぱんぷす": ""
@@ -9081,7 +9081,7 @@
         "clarity_nt_char_985": "clarity_nt_char_985"
     },
     "3028": {
-        "となかいしゅーず": ""
+        "となかいしゅーず": "Reindeer Boots"
     },
     "3029": {
         "clarity_nt_char_986": "clarity_nt_char_986"
@@ -9096,13 +9096,13 @@
         "clarity_nt_char_987": "clarity_nt_char_987"
     },
     "3033": {
-        "さんたのくつ": ""
+        "さんたのくつ": "Santa Boots"
     },
     "3034": {
         "clarity_nt_char_988": "clarity_nt_char_988"
     },
     "3035": {
-        "さんたがーるぶーつ": ""
+        "さんたがーるぶーつ": "Santa Girl Boots"
     },
     "3036": {
         "うしかいのくつ": ""
@@ -9132,13 +9132,13 @@
         "clarity_nt_char_990": "clarity_nt_char_990"
     },
     "3045": {
-        "すいーとひーる": ""
+        "すいーとひーる": "Sweet Heels"
     },
     "3046": {
         "てんしのぶーつ": ""
     },
     "3047": {
-        "あどみらるぶーつ": ""
+        "あどみらるぶーつ": "Admiral's Boots"
     },
     "3048": {
         "clarity_nt_char_991": "clarity_nt_char_991"
@@ -9186,10 +9186,10 @@
         "ひっとうけんきゅういんのぶーつ": ""
     },
     "3063": {
-        "がうがうぶーつ": ""
+        "がうがうぶーつ": "Woof Woof Boots"
     },
     "3064": {
-        "ふぁんきーぶーつ": ""
+        "ふぁんきーぶーつ": "Funky Boots"
     },
     "3065": {
         "clarity_nt_char_997": "clarity_nt_char_997"
@@ -9201,13 +9201,13 @@
         "clarity_nt_char_998": "clarity_nt_char_998"
     },
     "3068": {
-        "ゆうよくじんのさんだる": ""
+        "ゆうよくじんのさんだる": "Winged One's Sandals"
     },
     "3069": {
-        "せぴあんぶーつ": ""
+        "せぴあんぶーつ": "Sepian Boots"
     },
     "3070": {
-        "ろりーたしゅーず": ""
+        "ろりーたしゅーず": "Lolita Shoes"
     },
     "3071": {
         "clarity_nt_char_999": "clarity_nt_char_999"
@@ -9249,13 +9249,13 @@
         "おどりこのさんだる": "Dancer Sandals"
     },
     "3084": {
-        "はいきんぐぶーつ": ""
+        "はいきんぐぶーつ": "Hiking Boots"
     },
     "3085": {
         "clarity_nt_char_1004": "clarity_nt_char_1004"
     },
     "3086": {
-        "こまんだーしゅーず": ""
+        "こまんだーしゅーず": "Commander Shoes"
     },
     "3087": {
         "おどりこのくつ": "Dancer Shoes"
@@ -9276,7 +9276,7 @@
         "ごろーさんすりっぱ": ""
     },
     "3093": {
-        "ぎんがのあさぐつ": ""
+        "ぎんがのあさぐつ": "Galaxy Clogs"
     },
     "3094": {
         "clarity_nt_char_1007": "clarity_nt_char_1007"
@@ -9333,7 +9333,7 @@
         "らうるのぶーつ": ""
     },
     "3112": {
-        "のえるぶーつ": ""
+        "のえるぶーつ": "Noel Boots"
     },
     "3113": {
         "clarity_nt_char_1012": "clarity_nt_char_1012"
@@ -10404,7 +10404,7 @@
         "clarity_nt_char_1138": "clarity_nt_char_1138"
     },
     "3469": {
-        "しぐさしょさぼてんだー": ""
+        "しぐさしょさぼてんだー": "Gesture Book-Cactuar"
     },
     "3470": {
         "しんしゅんふくびきけん": ""
@@ -10872,7 +10872,7 @@
         "うぇでぃのびんせん": "Weddie Paper"
     },
     "3625": {
-        "えるふのびんせん": "Elven Paper"
+        "えるふのびんせん": "Elf Paper"
     },
     "3626": {
         "clarity_nt_char_1183": "clarity_nt_char_1183"
@@ -11397,7 +11397,7 @@
         "clarity_nt_char_1243": "clarity_nt_char_1243"
     },
     "3800": {
-        "まものくろあいぱっちけん": "Mons. Black Eyepatch Tk"
+        "まものくろあいぱっちけん": "Black Eyepatch Ticket"
     },
     "3801": {
         "clarity_nt_char_1244": "clarity_nt_char_1244"
@@ -11619,13 +11619,13 @@
         "clarity_nt_char_1269": "clarity_nt_char_1269"
     },
     "3874": {
-        "まものしりょくすたーはっとけん": "Mons. Green Star Hat Tk"
+        "まものしりょくすたーはっとけん": "Green Star Hat Ticket"
     },
     "3875": {
-        "まものあかむらさきどれすはっとけん": "Mons. Prp Dress Hat Tkt"
+        "まものあかむらさきどれすはっとけん": "Purple Dress Hat Ticket"
     },
     "3876": {
-        "まものぶろんずへるむけん": "Mons. Bronze Helmet Tkt"
+        "まものぶろんずへるむけん": "Bronze Helmet Ticket"
     },
     "3877": {
         "clarity_nt_char_1270": "clarity_nt_char_1270"
@@ -11637,7 +11637,7 @@
         "clarity_nt_char_1271": "clarity_nt_char_1271"
     },
     "3880": {
-        "まものばいきんぐめっとけん": "Mons. Viking Helmet Tkt"
+        "まものばいきんぐめっとけん": "Viking Helmet Ticket"
     },
     "3881": {
         "まものぶるーめっとけん": "Monster Blue Helmet Tkt"
@@ -11784,7 +11784,7 @@
         "ぷらこんすーつこん": "Navy Blue Suit"
     },
     "3929": {
-        "まものくりすますはっとけん": "Mons. Christmas Hat Tkt"
+        "まものくりすますはっとけん": "Christmas Hat Ticket"
     },
     "3930": {
         "ぷらこんすーつしろ": "White Suit"
@@ -12135,10 +12135,10 @@
         "clarity_nt_char_1315": "clarity_nt_char_1315"
     },
     "4046": {
-        "さぼてんだーこいん": ""
+        "さぼてんだーこいん": "Cactuar Coin"
     },
     "4047": {
-        "きょうさぼてんだーこいん": ""
+        "きょうさぼてんだーこいん": "Apex Cactuar Coin"
     },
     "4048": {
         "clarity_nt_char_1316": "clarity_nt_char_1316"
@@ -12519,7 +12519,7 @@
         "しぐさしょぽっぷこーん": ""
     },
     "4174": {
-        "ぷらこんようくろぶちめがねかく": "Black Rimmed Glasses"
+        "ぷらこんようくろぶちめがねかく": "Black Square Glasses"
     },
     "4175": {
         "ふわふわじょにーるのはこ": "Fluffy Joneal Box"
@@ -13302,7 +13302,7 @@
         "はなちゃんおしゃればな": "Flower-chan Style Flwr"
     },
     "4435": {
-        "まものごーぐるけん": "Monster Goggles Tkt"
+        "まものごーぐるけん": "Goggles Ticket"
     },
     "4436": {
         "びっぐなこうすい": ""
@@ -13482,22 +13482,22 @@
         "びくとりーちっぷち": "Earth Victory Chip"
     },
     "4495": {
-        "まものきつねのかみおめんけん": "Mons. Paper Fox Mask Tk"
+        "まものきつねのかみおめんけん": "Paper Fox Mask Ticket"
     },
     "4496": {
         "clarity_nt_char_1466": "clarity_nt_char_1466"
     },
     "4497": {
-        "まものこんじきめだるくんしょうけん": "Mons. Gold Medallion Tk"
+        "まものこんじきめだるくんしょうけん": "Gold Medallion Ticket"
     },
     "4498": {
-        "まものがーとらんとくんしょうけん": "Mons. Gartlant Medal Tk"
+        "まものがーとらんとくんしょうけん": "Gartlant Medal Ticket"
     },
     "4499": {
         "clarity_nt_char_1467": "clarity_nt_char_1467"
     },
     "4500": {
-        "まものしーるどくんしょうけん": "Monster Shield Medal Tk"
+        "まものしーるどくんしょうけん": "Shield Medal Ticket"
     },
     "4501": {
         "clarity_nt_char_1468": "clarity_nt_char_1468"
@@ -13854,7 +13854,7 @@
         "clarity_nt_char_1509": "clarity_nt_char_1509"
     },
     "4619": {
-        "すいーとここあ": ""
+        "すいーとここあ": "Sweet Cocoa"
     },
     "4620": {
         "みすてりーここあ": ""
@@ -14976,7 +14976,7 @@
         "おはなみだんごがさのつつみ": "Cherry Blossom Umb. Box"
     },
     "4993": {
-        "すらいだーくこいん": ""
+        "すらいだーくこいん": "Nemeslime Coin"
     },
     "4994": {
         "ふくびきうぇあいしょうけん": ""
@@ -14985,7 +14985,7 @@
         "すらいだーくかーど": "Nemeslime Card"
     },
     "4996": {
-        "すらいだーくきょうかーど": ""
+        "すらいだーくきょうかーど": "Apex Nemeslime Card"
     },
     "4997": {
         "clarity_nt_char_1634": "clarity_nt_char_1634"
@@ -15450,7 +15450,7 @@
         "どりーむばにら": ""
     },
     "5151": {
-        "あらびあんうぇあうえ": ""
+        "あらびあんうぇあうえ": "Arabian Vest"
     },
     "5152": {
         "clarity_nt_char_1683": "clarity_nt_char_1683"
@@ -15468,7 +15468,7 @@
         "すたーこーと２": "Superstar Coat 2"
     },
     "5157": {
-        "れんじゃこーとうえ２": ""
+        "れんじゃこーとうえ２": "Ranger Coat Top 2"
     },
     "5158": {
         "clarity_nt_char_1684": "clarity_nt_char_1684"
@@ -15519,13 +15519,13 @@
         "clarity_nt_char_1689": "clarity_nt_char_1689"
     },
     "5174": {
-        "ついんあんてなＡ": ""
+        "ついんあんてなＡ": "Twin Antenna A"
     },
     "5175": {
         "clarity_nt_char_1690": "clarity_nt_char_1690"
     },
     "5176": {
-        "せいびしのふくうえ": ""
+        "せいびしのふくうえ": "Technician's Shirt"
     },
     "5177": {
         "めれあーでどれすうえ": ""
@@ -15558,13 +15558,13 @@
         "めれあーですかーと": ""
     },
     "5187": {
-        "れおぱーどうぇあした": ""
+        "れおぱーどうぇあした": "Leopard Pants"
     },
     "5188": {
         "clarity_nt_char_1694": "clarity_nt_char_1694"
     },
     "5189": {
-        "あじさいひめゆかたした": ""
+        "あじさいひめゆかたした": "Hydrangea Skirt"
     },
     "5190": {
         "こぶたぱーかーうえ": ""
@@ -15576,7 +15576,7 @@
         "clarity_nt_char_1695": "clarity_nt_char_1695"
     },
     "5193": {
-        "わかむしゃのよろいうえ": ""
+        "わかむしゃのよろいうえ": "Young Warrior Cuirass"
     },
     "5194": {
         "せらふぃてぃーしゃつ": ""
@@ -15609,13 +15609,13 @@
         "clarity_nt_char_1699": "clarity_nt_char_1699"
     },
     "5204": {
-        "ぷりむりりーのふく": ""
+        "ぷりむりりーのふく": "Primlily's Clothes"
     },
     "5205": {
         "はなびのゆかた": ""
     },
     "5206": {
-        "おまつりのはっぴ": ""
+        "おまつりのはっぴ": "Festival Happi"
     },
     "5207": {
         "clarity_nt_char_1700": "clarity_nt_char_1700"
@@ -15636,13 +15636,13 @@
         "おとぎのもりぼれろ": "Fairy Forest Bolero"
     },
     "5213": {
-        "すたじあむしゃつ": ""
+        "すたじあむしゃつ": "Stadium Shirt"
     },
     "5214": {
         "clarity_nt_char_1703": "clarity_nt_char_1703"
     },
     "5215": {
-        "ごるふめんずうぇあ": ""
+        "ごるふめんずうぇあ": "Golf Men's Wear"
     },
     "5216": {
         "がくえんだんしのえぷろん": ""
@@ -15669,13 +15669,13 @@
         "clarity_nt_char_1707": "clarity_nt_char_1707"
     },
     "5224": {
-        "ごるふれでぃうぇあ": ""
+        "ごるふれでぃうぇあ": "Golf Women's Wear"
     },
     "5225": {
-        "でぃばいんくらうん": ""
+        "でぃばいんくらうん": "Divine Crown"
     },
     "5226": {
-        "おばけのろーぶ": ""
+        "おばけのろーぶ": "Ghost Robe"
     },
     "5227": {
         "べびたんたいつ": ""
@@ -15690,7 +15690,7 @@
         "clarity_nt_char_1708": "clarity_nt_char_1708"
     },
     "5231": {
-        "どらきゅらすーつ": ""
+        "どらきゅらすーつ": "Dracula Suit"
     },
     "5232": {
         "clarity_nt_char_1709": "clarity_nt_char_1709"
@@ -15702,19 +15702,19 @@
         "しゅがーすーつ": ""
     },
     "5235": {
-        "ぶらっでぃすーつ": ""
+        "ぶらっでぃすーつ": "Bloody Suit"
     },
     "5236": {
         "clarity_nt_char_1710": "clarity_nt_char_1710"
     },
     "5237": {
-        "でぃばいんめいるうえ": ""
+        "でぃばいんめいるうえ": "Divine Mail Top"
     },
     "5238": {
         "clarity_nt_char_1711": "clarity_nt_char_1711"
     },
     "5239": {
-        "ありあはんまんと": ""
+        "ありあはんまんと": "Aliahan Cape"
     },
     "5240": {
         "clarity_nt_char_1712": "clarity_nt_char_1712"
@@ -15738,7 +15738,7 @@
         "clarity_nt_char_1715": "clarity_nt_char_1715"
     },
     "5247": {
-        "めいどどれすうえ": ""
+        "めいどどれすうえ": "Maid Dress Top"
     },
     "5248": {
         "clarity_nt_char_1716": "clarity_nt_char_1716"
@@ -15897,13 +15897,13 @@
         "clarity_nt_char_1735": "clarity_nt_char_1735"
     },
     "5300": {
-        "あじさいじんべいした": ""
+        "あじさいじんべいした": "Hydrangea Pants"
     },
     "5301": {
         "clarity_nt_char_1736": "clarity_nt_char_1736"
     },
     "5302": {
-        "ゆめのおうこくどれすした": ""
+        "ゆめのおうこくどれすした": "Drm Kingdom Dress Btm"
     },
     "5303": {
         "clarity_nt_char_1737": "clarity_nt_char_1737"
@@ -16140,7 +16140,7 @@
         "ぎゅっとらぴす": ""
     },
     "5381": {
-        "ぎゅっとおばけ": ""
+        "ぎゅっとおばけ": "Ghost Armband"
     },
     "5382": {
         "とらんすいちみぽーち": ""
@@ -16182,7 +16182,7 @@
         "ようせいのじょおううぃんぐ": ""
     },
     "5395": {
-        "ぼうえいぐんのぽーち": ""
+        "ぼうえいぐんのぽーち": "Defense Force Pouch"
     },
     "5396": {
         "clarity_nt_char_1771": "clarity_nt_char_1771"
@@ -16197,7 +16197,7 @@
         "だーくねすうぃんぐ": ""
     },
     "5400": {
-        "ぶらっでぃうぃんぐ": ""
+        "ぶらっでぃうぃんぐ": "Bloody Wings"
     },
     "5401": {
         "しるばーうぃんぐ": ""
@@ -16392,7 +16392,7 @@
         "りぞーとびきに": ""
     },
     "5465": {
-        "あわあわみずぎ": ""
+        "あわあわみずぎ": "Bubbly Swimsuit"
     },
     "5466": {
         "ふりるのびきに": ""
@@ -16404,10 +16404,10 @@
         "clarity_nt_char_1794": "clarity_nt_char_1794"
     },
     "5469": {
-        "ぎんがのしょうぞく": ""
+        "ぎんがのしょうぞく": "Galaxy Robe"
     },
     "5470": {
-        "ぎんがのころも": ""
+        "ぎんがのころも": "Galaxy Dress"
     },
     "5471": {
         "ぱぴよんどれすうえ": ""
@@ -16500,7 +16500,7 @@
         "すちーむすーつうえ": ""
     },
     "5501": {
-        "しょこらなどれす": ""
+        "しょこらなどれす": "Chocolate Dress"
     },
     "5502": {
         "clarity_nt_char_1805": "clarity_nt_char_1805"
@@ -16512,7 +16512,7 @@
         "clarity_nt_char_1806": "clarity_nt_char_1806"
     },
     "5505": {
-        "ゆきぐにのぽんちょ": ""
+        "ゆきぐにのぽんちょ": "Snow Country Poncho"
     },
     "5506": {
         "ふぉーまるどれす": ""
@@ -16569,25 +16569,25 @@
         "clarity_nt_char_1814": "clarity_nt_char_1814"
     },
     "5524": {
-        "はなよめのどれす": ""
+        "はなよめのどれす": "Bride's Dress"
     },
     "5525": {
         "clarity_nt_char_1815": "clarity_nt_char_1815"
     },
     "5526": {
-        "はなむこのたきしーど": ""
+        "はなむこのたきしーど": "Groom's Tuxedo"
     },
     "5527": {
         "clarity_nt_char_1816": "clarity_nt_char_1816"
     },
     "5528": {
-        "しんぷるぱーかー": ""
+        "しんぷるぱーかー": "Simple Hoodie"
     },
     "5529": {
         "clarity_nt_char_1817": "clarity_nt_char_1817"
     },
     "5530": {
-        "すたーりーわんぴ": ""
+        "すたーりーわんぴ": "Starry Dress"
     },
     "5531": {
         "clarity_nt_char_1818": "clarity_nt_char_1818"
@@ -16632,7 +16632,7 @@
         "clarity_nt_char_1823": "clarity_nt_char_1823"
     },
     "5545": {
-        "うさぐるみのふく": ""
+        "うさぐるみのふく": "Rabbit Suit"
     },
     "5546": {
         "clarity_nt_char_1824": "clarity_nt_char_1824"
@@ -16656,7 +16656,7 @@
         "clarity_nt_char_1826": "clarity_nt_char_1826"
     },
     "5553": {
-        "ぱっしょんとっぷ": ""
+        "ぱっしょんとっぷ": "Passion Top"
     },
     "5554": {
         "clarity_nt_char_1827": "clarity_nt_char_1827"
@@ -16674,7 +16674,7 @@
         "ぶれいぶめいる": ""
     },
     "5559": {
-        "まーめいどとっぷ": ""
+        "まーめいどとっぷ": "Mermaid Top"
     },
     "5560": {
         "clarity_nt_char_1829": "clarity_nt_char_1829"
@@ -16692,13 +16692,13 @@
         "ふりるのびきにもも": ""
     },
     "5565": {
-        "じぇすたーすーつうえ": ""
+        "じぇすたーすーつうえ": "Jester Suit Top"
     },
     "5566": {
         "clarity_nt_char_1831": "clarity_nt_char_1831"
     },
     "5567": {
-        "うぃきっどすーつうえ": ""
+        "うぃきっどすーつうえ": "Wicked Suit Top"
     },
     "5568": {
         "clarity_nt_char_1832": "clarity_nt_char_1832"
@@ -16713,7 +16713,7 @@
         "clarity_nt_char_1833": "clarity_nt_char_1833"
     },
     "5572": {
-        "ろーらひめのどれすうえ": ""
+        "ろーらひめのどれすうえ": "Gwaelin's Dress Upper"
     },
     "5573": {
         "よげんしゃがくえんがくせいふく": ""
@@ -16779,13 +16779,13 @@
         "clarity_nt_char_1840": "clarity_nt_char_1840"
     },
     "5594": {
-        "ぷちでびるすーつうえ": ""
+        "ぷちでびるすーつうえ": "Petit Devil Shirt"
     },
     "5595": {
         "clarity_nt_char_1841": "clarity_nt_char_1841"
     },
     "5596": {
-        "こあくまどれすうえ": ""
+        "こあくまどれすうえ": "Lil' Devil Top"
     },
     "5597": {
         "がっしょうたいのすもっく": ""
@@ -16806,7 +16806,7 @@
         "とびつるもんのふりそで": ""
     },
     "5603": {
-        "ふゅーちゃーすーつ": ""
+        "ふゅーちゃーすーつ": "Future Suit"
     },
     "5604": {
         "がくえんのゆかた": ""
@@ -16830,7 +16830,7 @@
         "まいゆてぃーしゃつ": ""
     },
     "5611": {
-        "すらいだーくすーつ": ""
+        "すらいだーくすーつ": "Nemeslime Suit"
     },
     "5612": {
         "がくえんだんしのふゆふく": ""
@@ -16842,7 +16842,7 @@
         "ひよこぱーかーうえ": ""
     },
     "5615": {
-        "ぎんがのかみかざり": ""
+        "ぎんがのかみかざり": "Galaxy Hair Ornament"
     },
     "5616": {
         "ぱぴよんくらうん": ""
@@ -16869,7 +16869,7 @@
         "clarity_nt_char_1847": "clarity_nt_char_1847"
     },
     "5624": {
-        "ういんぐへるむ": ""
+        "ういんぐへるむ": "Winged Helm"
     },
     "5625": {
         "ぱんぷきんはっと": ""
@@ -16878,7 +16878,7 @@
         "clarity_nt_char_1848": "clarity_nt_char_1848"
     },
     "5627": {
-        "こあくまのつの": ""
+        "こあくまのつの": "Lil' Devil Horns"
     },
     "5628": {
         "りぃんのぼうし": ""
@@ -16890,13 +16890,13 @@
         "clarity_nt_char_1849": "clarity_nt_char_1849"
     },
     "5631": {
-        "のえるはっと": ""
+        "のえるはっと": "Noel Hat"
     },
     "5632": {
         "clarity_nt_char_1850": "clarity_nt_char_1850"
     },
     "5633": {
-        "かれんなかんざし": ""
+        "かれんなかんざし": "Pretty Hairpin"
     },
     "5634": {
         "clarity_nt_char_1851": "clarity_nt_char_1851"
@@ -16923,16 +16923,16 @@
         "clarity_nt_char_1854": "clarity_nt_char_1854"
     },
     "5642": {
-        "しんいのめっと": ""
+        "しんいのめっと": "Shini's Helmet"
     },
     "5643": {
-        "ゆきぐにのふーど": ""
+        "ゆきぐにのふーど": "Snow Country Hood"
     },
     "5644": {
         "clarity_nt_char_1855": "clarity_nt_char_1855"
     },
     "5645": {
-        "ごーじゃすてぃあら": ""
+        "ごーじゃすてぃあら": "Gorgeous Tiara"
     },
     "5646": {
         "きゅーとなうさみみ": ""
@@ -16950,7 +16950,7 @@
         "clarity_nt_char_1856": "clarity_nt_char_1856"
     },
     "5651": {
-        "りあくたー": ""
+        "りあくたー": "Reactor"
     },
     "5652": {
         "ようせいのかかん": ""
@@ -16965,7 +16965,7 @@
         "clarity_nt_char_1858": "clarity_nt_char_1858"
     },
     "5656": {
-        "うさぐるみのぼうし": ""
+        "うさぐるみのぼうし": "Rabbit Hat"
     },
     "5657": {
         "まじょのとんがりぼうし": ""
@@ -16977,19 +16977,19 @@
         "clarity_nt_char_1859": "clarity_nt_char_1859"
     },
     "5660": {
-        "まーめいどてぃあら": ""
+        "まーめいどてぃあら": "Mermaid Tiara"
     },
     "5661": {
         "うらないしのずきん": "For. Teller Hood"
     },
     "5662": {
-        "ぱっしょんりぼん": ""
+        "ぱっしょんりぼん": "Passion Ribbon"
     },
     "5663": {
         "clarity_nt_char_1860": "clarity_nt_char_1860"
     },
     "5664": {
-        "あきーらへるむ": ""
+        "あきーらへるむ": "Akira Helm"
     },
     "5665": {
         "さかいのたーばん": "Sand Sea Turban"
@@ -16998,10 +16998,10 @@
         "clarity_nt_char_1861": "clarity_nt_char_1861"
     },
     "5667": {
-        "じぇすたーきゃっぷ": ""
+        "じぇすたーきゃっぷ": "Jester Cap"
     },
     "5668": {
-        "うぃきっどへるむ": ""
+        "うぃきっどへるむ": "Wicked Helm"
     },
     "5669": {
         "clarity_nt_char_1862": "clarity_nt_char_1862"
@@ -17016,7 +17016,7 @@
         "めいたんていのしかうちぼう": ""
     },
     "5673": {
-        "ろーらひめのてぃあら": ""
+        "ろーらひめのてぃあら": "Gwaelin's Tiara"
     },
     "5674": {
         "clarity_nt_char_1864": "clarity_nt_char_1864"
@@ -17037,10 +17037,10 @@
         "clarity_nt_char_1866": "clarity_nt_char_1866"
     },
     "5680": {
-        "ちぇっくいやーまふ": ""
+        "ちぇっくいやーまふ": "Check Earmuffs"
     },
     "5681": {
-        "しんぷるいやーまふ": ""
+        "しんぷるいやーまふ": "Simple Earmuffs"
     },
     "5682": {
         "くろねこのふーど": ""
@@ -17055,13 +17055,13 @@
         "clarity_nt_char_1868": "clarity_nt_char_1868"
     },
     "5686": {
-        "ぷちでびるはっと": ""
+        "ぷちでびるはっと": "Petit Devil Hat"
     },
     "5687": {
         "clarity_nt_char_1869": "clarity_nt_char_1869"
     },
     "5688": {
-        "こあくまはっと": ""
+        "こあくまはっと": "Lil' Devil Hat"
     },
     "5689": {
         "がっしょうたいのべれー": ""
@@ -17073,7 +17073,7 @@
         "clarity_nt_char_1870": "clarity_nt_char_1870"
     },
     "5692": {
-        "ふゅーちゃーはっと": ""
+        "ふゅーちゃーはっと": "Future Hat"
     },
     "5693": {
         "よざくらのぼうし": ""
@@ -17085,16 +17085,16 @@
         "おうかのぼうし": ""
     },
     "5696": {
-        "すらいだーくめっと": ""
+        "すらいだーくめっと": "Nemeslime Helmet"
     },
     "5697": {
         "しっぷうのばんだな": ""
     },
     "5698": {
-        "わかむしゃのかぶと": ""
+        "わかむしゃのかぶと": "Young Warrior Helmet"
     },
     "5699": {
-        "りりーこさーじゅ": ""
+        "りりーこさーじゅ": "Lily Corsage"
     },
     "5700": {
         "clarity_nt_char_1872": "clarity_nt_char_1872"
@@ -17103,10 +17103,10 @@
         "てんぐのおめん": ""
     },
     "5702": {
-        "おまつりのはちまき": ""
+        "おまつりのはちまき": "Festival Headband"
     },
     "5703": {
-        "すらいむないとぼうし": ""
+        "すらいむないとぼうし": "Slime Knight Hat"
     },
     "5704": {
         "clarity_nt_char_1873": "clarity_nt_char_1873"
@@ -17118,10 +17118,10 @@
         "clarity_nt_char_1874": "clarity_nt_char_1874"
     },
     "5707": {
-        "すたじあむきゃっぷ": ""
+        "すたじあむきゃっぷ": "Stadium Cap"
     },
     "5708": {
-        "ごるふばいざー": ""
+        "ごるふばいざー": "Golf Visor"
     },
     "5709": {
         "せいれんのすずかざり": ""
@@ -17130,7 +17130,7 @@
         "clarity_nt_char_1875": "clarity_nt_char_1875"
     },
     "5711": {
-        "ぷでぃんへっど": ""
+        "ぷでぃんへっど": "Pudin Head"
     },
     "5712": {
         "まげんのそうかく": ""
@@ -17139,13 +17139,13 @@
         "clarity_nt_char_1876": "clarity_nt_char_1876"
     },
     "5714": {
-        "ついんあんてなＢ": ""
+        "ついんあんてなＢ": "Twin Antenna B"
     },
     "5715": {
         "clarity_nt_char_1877": "clarity_nt_char_1877"
     },
     "5716": {
-        "おばけのかぶりもの": ""
+        "おばけのかぶりもの": "Ghost Head Mask"
     },
     "5717": {
         "べびたんきゃっぷ": ""
@@ -17160,13 +17160,13 @@
         "clarity_nt_char_1879": "clarity_nt_char_1879"
     },
     "5721": {
-        "ついんあんてなＣ": ""
+        "ついんあんてなＣ": "Twin Antenna C"
     },
     "5722": {
         "clarity_nt_char_1880": "clarity_nt_char_1880"
     },
     "5723": {
-        "どらきゅらぱーつ": ""
+        "どらきゅらぱーつ": "Dracula Parts"
     },
     "5724": {
         "clarity_nt_char_1881": "clarity_nt_char_1881"
@@ -17178,31 +17178,31 @@
         "しゅがーはっと": ""
     },
     "5727": {
-        "ぶらっでぃへっど": ""
+        "ぶらっでぃへっど": "Bloody Horns"
     },
     "5728": {
         "clarity_nt_char_1882": "clarity_nt_char_1882"
     },
     "5729": {
-        "でぃばいんへるむ": ""
+        "でぃばいんへるむ": "Divine Helm"
     },
     "5730": {
         "clarity_nt_char_1883": "clarity_nt_char_1883"
     },
     "5731": {
-        "ありあはんかんむり": ""
+        "ありあはんかんむり": "Aliahan Circlet"
     },
     "5732": {
         "きぃんべるのぼうし": ""
     },
     "5733": {
-        "めいどきゃっぷ": ""
+        "めいどきゃっぷ": "Maid Cap"
     },
     "5734": {
         "てんちらいめいしのかんむり": "Druid Cap"
     },
     "5735": {
-        "もだんろーずびじゅ": ""
+        "もだんろーずびじゅ": "Modern Rose Bijou"
     },
     "5736": {
         "ろーずこさーじゅ": ""
@@ -17217,13 +17217,13 @@
         "はーとのへいたいぼうし": ""
     },
     "5740": {
-        "めろでぃあはっと": ""
+        "めろでぃあはっと": "Melody Hat"
     },
     "5741": {
         "clarity_nt_char_1885": "clarity_nt_char_1885"
     },
     "5742": {
-        "めろでぃあへっど": ""
+        "めろでぃあへっど": "Melody Hair Ornaments"
     },
     "5743": {
         "clarity_nt_char_1886": "clarity_nt_char_1886"
@@ -17232,7 +17232,7 @@
         "ようせいのじょおうのかみかざり": ""
     },
     "5745": {
-        "ぼうえいぐんのいんかむ": ""
+        "ぼうえいぐんのいんかむ": "Def. Force Intercom"
     },
     "5746": {
         "まほうつかいのぼうし２": "Mage Hat 2"
@@ -17244,13 +17244,13 @@
         "clarity_nt_char_1887": "clarity_nt_char_1887"
     },
     "5749": {
-        "ほっといやーまふ": ""
+        "ほっといやーまふ": "Soft Earmuffs"
     },
     "5750": {
         "clarity_nt_char_1888": "clarity_nt_char_1888"
     },
     "5751": {
-        "ついんあんてなＤ": ""
+        "ついんあんてなＤ": "Twin Antenna D"
     },
     "5752": {
         "clarity_nt_char_1889": "clarity_nt_char_1889"
@@ -17259,22 +17259,22 @@
         "るびーのかみかざり": ""
     },
     "5754": {
-        "あらびあんたーばん": ""
+        "あらびあんたーばん": "Arabian Turban"
     },
     "5755": {
         "りんかさーくれっと": ""
     },
     "5756": {
-        "やんちゃへあー": ""
+        "やんちゃへあー": "Naughty Hair"
     },
     "5757": {
-        "せいきまつへあー": ""
+        "せいきまつへあー": "End of Century Hat"
     },
     "5758": {
         "clarity_nt_char_1890": "clarity_nt_char_1890"
     },
     "5759": {
-        "すいーとうぃっぐ": ""
+        "すいーとうぃっぐ": "Sweet Wig"
     },
     "5760": {
         "clarity_nt_char_1891": "clarity_nt_char_1891"
@@ -17304,10 +17304,10 @@
         "きゃろるひめぶーつ": ""
     },
     "5769": {
-        "じぇすたーしゅーず": ""
+        "じぇすたーしゅーず": "Jester Shoes"
     },
     "5770": {
-        "うぃきっどぶーつ": ""
+        "うぃきっどぶーつ": "Wicked Boots"
     },
     "5771": {
         "clarity_nt_char_1895": "clarity_nt_char_1895"
@@ -17319,7 +17319,7 @@
         "めいたんていのしゅーず": ""
     },
     "5774": {
-        "ろーらひめのくつ": ""
+        "ろーらひめのくつ": "Gwaelin's Shoes"
     },
     "5775": {
         "clarity_nt_char_1896": "clarity_nt_char_1896"
@@ -17352,13 +17352,13 @@
         "しろねこのくつ": ""
     },
     "5785": {
-        "ぷちでびるぶーつ": ""
+        "ぷちでびるぶーつ": "Petit Devil Boots"
     },
     "5786": {
         "clarity_nt_char_1899": "clarity_nt_char_1899"
     },
     "5787": {
-        "こあくまぶーつ": ""
+        "こあくまぶーつ": "Lil' Devil Boots"
     },
     "5788": {
         "がっしょうたいのしゅーず": ""
@@ -17373,7 +17373,7 @@
         "clarity_nt_char_1901": "clarity_nt_char_1901"
     },
     "5792": {
-        "ふゅーちゃーぶーつ": ""
+        "ふゅーちゃーぶーつ": "Future Boots"
     },
     "5793": {
         "よざくらのぶーつ": ""
@@ -17388,28 +17388,28 @@
         "clarity_nt_char_1903": "clarity_nt_char_1903"
     },
     "5797": {
-        "すらいだーくぶーつ": ""
+        "すらいだーくぶーつ": "Nemeslime Boots"
     },
     "5798": {
         "しっぷうのさんだる": ""
     },
     "5799": {
-        "わかむしゃのすねあて": ""
+        "わかむしゃのすねあて": "Young Warrior Boots"
     },
     "5800": {
         "clarity_nt_char_1904": "clarity_nt_char_1904"
     },
     "5801": {
-        "ぷりむりりーのくつ": ""
+        "ぷりむりりーのくつ": "Primlily's Shoes"
     },
     "5802": {
-        "おまつりのたび": ""
+        "おまつりのたび": "Festival Socks"
     },
     "5803": {
-        "すたじあむしゅーず": ""
+        "すたじあむしゅーず": "Stadium Shoes"
     },
     "5804": {
-        "ごるふしゅーず": ""
+        "ごるふしゅーず": "Golf Shoes"
     },
     "5805": {
         "おとぎのもりしゅーず": "Fairy Forest Shoes"
@@ -17424,7 +17424,7 @@
         "clarity_nt_char_1906": "clarity_nt_char_1906"
     },
     "5809": {
-        "おばけのくつ": ""
+        "おばけのくつ": "Ghost Shoes"
     },
     "5810": {
         "clarity_nt_char_1907": "clarity_nt_char_1907"
@@ -17436,13 +17436,13 @@
         "みいらおとこのくつ": ""
     },
     "5813": {
-        "ぶらっでぃぐりーぶ": ""
+        "ぶらっでぃぐりーぶ": "Bloody Greaves"
     },
     "5814": {
-        "でぃばいんぐりーぶ": ""
+        "でぃばいんぐりーぶ": "Divine Greaves"
     },
     "5815": {
-        "ありあはんぶーつ": ""
+        "ありあはんぶーつ": "Aliahan Boots"
     },
     "5816": {
         "clarity_nt_char_1908": "clarity_nt_char_1908"
@@ -17463,7 +17463,7 @@
         "てんちらいめいしのくつ": "Druid Shoes"
     },
     "5822": {
-        "もだんろーずひーる": ""
+        "もだんろーずひーる": "Modern Rose Heels"
     },
     "5823": {
         "ろーずひーる": ""
@@ -17487,13 +17487,13 @@
         "はーとのへいたいのくつ": ""
     },
     "5830": {
-        "めろでぃあしゅーず": ""
+        "めろでぃあしゅーず": "Melody Shoes"
     },
     "5831": {
         "ようせいのじょおうぱんぷす": ""
     },
     "5832": {
-        "ぼうえいぐんのぶーつ": ""
+        "ぼうえいぐんのぶーつ": "Defense Force Boots"
     },
     "5833": {
         "clarity_nt_char_1914": "clarity_nt_char_1914"
@@ -17502,7 +17502,7 @@
         "そうりょのぶーつ２": "Priest Boots 2"
     },
     "5835": {
-        "めいどしゅーず": ""
+        "めいどしゅーず": "Maid Shoes"
     },
     "5836": {
         "みけねこのくつ": ""
@@ -17529,7 +17529,7 @@
         "clarity_nt_char_1917": "clarity_nt_char_1917"
     },
     "5844": {
-        "うるたのぶーつ": ""
+        "うるたのぶーつ": "Ulta Boots"
     },
     "5845": {
         "るびーのさんだる": ""
@@ -17538,7 +17538,7 @@
         "clarity_nt_char_1918": "clarity_nt_char_1918"
     },
     "5847": {
-        "あらびあんしゅーず": ""
+        "あらびあんしゅーず": "Arabian Shoes"
     },
     "5848": {
         "しゅめりあひーる": ""
@@ -17565,16 +17565,16 @@
         "ほいみんとみゅーる": ""
     },
     "5856": {
-        "れおぱーどぶーつ": ""
+        "れおぱーどぶーつ": "Leopard Boots"
     },
     "5857": {
         "clarity_nt_char_1922": "clarity_nt_char_1922"
     },
     "5858": {
-        "あじさいひめぞうり": ""
+        "あじさいひめぞうり": "Hydrangea Sandals"
     },
     "5859": {
-        "ゆめのおうこくぶーつ": ""
+        "ゆめのおうこくぶーつ": "Dream Kingdom Boots"
     },
     "5860": {
         "clarity_nt_char_1923": "clarity_nt_char_1923"
@@ -17733,7 +17733,7 @@
         "えーじぇんとますく": ""
     },
     "5912": {
-        "うるたのぴあす": ""
+        "うるたのぴあす": "Ulta Earrings"
     },
     "5913": {
         "くらいしすますく": ""
@@ -17829,7 +17829,7 @@
         "りゅうのうろこ": ""
     },
     "5944": {
-        "おうじょのあい": ""
+        "おうじょのあい": "Princess' Pledge"
     },
     "5945": {
         "ひょうあんのつきかざり": ""
@@ -17838,16 +17838,16 @@
         "えんこうのまがたま": ""
     },
     "5947": {
-        "てんちらいめいしのあかし": "Druid Emblem"
+        "てんちらいめいしのあかし": "Proof of DRU"
     },
     "5948": {
         "clarity_nt_char_1947": "clarity_nt_char_1947"
     },
     "5949": {
-        "あそびにんのあかし": "Gadabout Emblem"
+        "あそびにんのあかし": "Proof of GAD"
     },
     "5950": {
-        "ですますたーのあかし": "Death Master Emblem"
+        "ですますたーのあかし": "Proof of DTH"
     },
     "5951": {
         "clarity_nt_char_1948": "clarity_nt_char_1948"
@@ -17871,7 +17871,7 @@
         "clarity_nt_char_1950": "clarity_nt_char_1950"
     },
     "5958": {
-        "いくさげしょうしーる": ""
+        "いくさげしょうしーる": "War Paint Sticker"
     },
     "5959": {
         "clarity_nt_char_1951": "clarity_nt_char_1951"
@@ -18216,16 +18216,16 @@
         "clarity_nt_char_1987": "clarity_nt_char_1987"
     },
     "6073": {
-        "ぼうえいぐんのせいふくした": ""
+        "ぼうえいぐんのせいふくした": "Def. Force Uniform B."
     },
     "6074": {
-        "あくてぃぶうぃっぐ": ""
+        "あくてぃぶうぃっぐ": "Active Wig"
     },
     "6075": {
         "まこうしのそうかく": ""
     },
     "6076": {
-        "れんじゃしゃぷか２": ""
+        "れんじゃしゃぷか２": "Ranger Shapka 2"
     },
     "6077": {
         "まものつかいずきん２": "Monster Master Hood 2"
@@ -18246,40 +18246,40 @@
         "clarity_nt_char_1990": "clarity_nt_char_1990"
     },
     "6083": {
-        "しんぐるあんてなＡ": ""
+        "しんぐるあんてなＡ": "Single Antenna A"
     },
     "6084": {
-        "しんぐるあんてなＢ": ""
+        "しんぐるあんてなＢ": "Single Antenna B"
     },
     "6085": {
-        "みつあみえくすて": ""
+        "みつあみえくすて": "Braid Extension"
     },
     "6086": {
         "clarity_nt_char_1991": "clarity_nt_char_1991"
     },
     "6087": {
-        "れおぱーどはっと": ""
+        "れおぱーどはっと": "Leopard Hat"
     },
     "6088": {
         "clarity_nt_char_1992": "clarity_nt_char_1992"
     },
     "6089": {
-        "あじさいこさーじゅ": ""
+        "あじさいこさーじゅ": "Hydrangea Corsage"
     },
     "6090": {
-        "ゆめのおうこくぼうし": ""
+        "ゆめのおうこくぼうし": "Dream Kingdom Hat"
     },
     "6091": {
         "clarity_nt_char_1993": "clarity_nt_char_1993"
     },
     "6092": {
-        "ふたつむすびえくすて": ""
+        "ふたつむすびえくすて": "Two-Knot Extension"
     },
     "6093": {
         "clarity_nt_char_1994": "clarity_nt_char_1994"
     },
     "6094": {
-        "みにぽにてえくすて": ""
+        "みにぽにてえくすて": "Sm Ponytail Extension"
     },
     "6095": {
         "ほいみんとうぇあした": ""
@@ -18366,13 +18366,13 @@
         "はーとのへいたいのふくうえ": ""
     },
     "6123": {
-        "めろでぃあすーつうえ": ""
+        "めろでぃあすーつうえ": "Melody Suit Top"
     },
     "6124": {
         "clarity_nt_char_2005": "clarity_nt_char_2005"
     },
     "6125": {
-        "めろでぃあとっぷす": ""
+        "めろでぃあとっぷす": "Melody Top"
     },
     "6126": {
         "ようせいのじょおうどれすうえ": ""
@@ -18381,7 +18381,7 @@
         "clarity_nt_char_2006": "clarity_nt_char_2006"
     },
     "6128": {
-        "ぼうえいぐんのせいふくうえ": ""
+        "ぼうえいぐんのせいふくうえ": "Def. Force Uniform T."
     },
     "6129": {
         "そうりょのほうい２": "Priest Robe 2"
@@ -18414,7 +18414,7 @@
         "clarity_nt_char_2010": "clarity_nt_char_2010"
     },
     "6139": {
-        "もだんろーずどれす": ""
+        "もだんろーずどれす": "Modern Rose Dress"
     },
     "6140": {
         "まりもんようのふりそで": ""
@@ -18450,22 +18450,22 @@
         "clarity_nt_char_2013": "clarity_nt_char_2013"
     },
     "6151": {
-        "れおぱーどうぇあうえ": ""
+        "れおぱーどうぇあうえ": "Leopard Shirt"
     },
     "6152": {
         "clarity_nt_char_2014": "clarity_nt_char_2014"
     },
     "6153": {
-        "あじさいひめゆかたうえ": ""
+        "あじさいひめゆかたうえ": "Hydrangea Yukata"
     },
     "6154": {
-        "あじさいじんべいうえ": ""
+        "あじさいじんべいうえ": "Hydrangea Jinbei"
     },
     "6155": {
         "clarity_nt_char_2015": "clarity_nt_char_2015"
     },
     "6156": {
-        "ゆめのおうこくどれすうえ": ""
+        "ゆめのおうこくどれすうえ": "Drm Kingdom Dress Top"
     },
     "6157": {
         "clarity_nt_char_2016": "clarity_nt_char_2016"
@@ -19302,7 +19302,7 @@
         "えるふのぱーてぃづくえ": ""
     },
     "6435": {
-        "うぇでぃのぱーてぃづくえ": ""
+        "うぇでぃのぱーてぃづくえ": "Weddie Party Table"
     },
     "6436": {
         "clarity_nt_char_2118": "clarity_nt_char_2118"
@@ -19332,7 +19332,7 @@
         "clarity_nt_char_2121": "clarity_nt_char_2121"
     },
     "6445": {
-        "さんたのらんぷ": ""
+        "さんたのらんぷ": "Santa Lamp"
     },
     "6446": {
         "ぎふとぼっくす": ""
@@ -21015,10 +21015,10 @@
         "clarity_nt_char_2300": "clarity_nt_char_2300"
     },
     "7006": {
-        "うぇでぃのにんぎょうおとこ": ""
+        "うぇでぃのにんぎょうおとこ": "Weddie Doll (M)"
     },
     "7007": {
-        "うぇでぃのにんぎょうおんな": ""
+        "うぇでぃのにんぎょうおんな": "Weddie Doll (F)"
     },
     "7008": {
         "えるふのにんぎょうおとこ": ""
@@ -22476,22 +22476,22 @@
         "clarity_nt_char_2462": "clarity_nt_char_2462"
     },
     "7493": {
-        "ぷくりぽのどうぞう": ""
+        "ぷくりぽのどうぞう": "Pukulipo Bronze Statue"
     },
     "7494": {
-        "うぇでぃのどうぞう": ""
+        "うぇでぃのどうぞう": "Weddie Bronze Statue"
     },
     "7495": {
-        "えるふのどうぞう": ""
+        "えるふのどうぞう": "Elf Bronze Statue"
     },
     "7496": {
         "clarity_nt_char_2463": "clarity_nt_char_2463"
     },
     "7497": {
-        "どわーふのどうぞう": ""
+        "どわーふのどうぞう": "Dwarf Bronze Statue"
     },
     "7498": {
-        "おーがのどうぞう": ""
+        "おーがのどうぞう": "Ogre Bronze Statue"
     },
     "7499": {
         "clarity_nt_char_2464": "clarity_nt_char_2464"
@@ -23160,7 +23160,7 @@
         "clarity_nt_char_2542": "clarity_nt_char_2542"
     },
     "7721": {
-        "さいほうしょくにんのかんばん": ""
+        "さいほうしょくにんのかんばん": "Sewer's Sign"
     },
     "7722": {
         "clarity_nt_char_2543": "clarity_nt_char_2543"
@@ -23484,7 +23484,7 @@
         "clarity_nt_char_2576": "clarity_nt_char_2576"
     },
     "7829": {
-        "とんぶれろのぞう": ""
+        "とんぶれろのぞう": "Ham Shamwitch Statue"
     },
     "7830": {
         "clarity_nt_char_2577": "clarity_nt_char_2577"
@@ -23550,7 +23550,7 @@
         "clarity_nt_char_2584": "clarity_nt_char_2584"
     },
     "7851": {
-        "とんぶれろのぞうにわ": ""
+        "とんぶれろのぞうにわ": "Ham Shamwitch Statue(G)"
     },
     "7852": {
         "clarity_nt_char_2585": "clarity_nt_char_2585"
@@ -24096,7 +24096,7 @@
         "きせかえどーるにんげんおんなぷらす": ""
     },
     "8033": {
-        "とんぶれろちょきんばこ": ""
+        "とんぶれろちょきんばこ": "Ham Shamwitch Piggy Bnk"
     },
     "8034": {
         "ぶたさんのちょきんばこ": ""
@@ -24432,7 +24432,7 @@
         "まんどらごらのぞう": ""
     },
     "8145": {
-        "もーぐりのぞう": ""
+        "もーぐりのぞう": "Moogle Garden Statue"
     },
     "8146": {
         "ちょこぼのぞう": ""
@@ -25578,7 +25578,7 @@
         "clarity_nt_char_2807": "clarity_nt_char_2807"
     },
     "8527": {
-        "ちょうりしょくにんのかんばん": ""
+        "ちょうりしょくにんのかんばん": "Cook's Sign"
     },
     "8528": {
         "clarity_nt_char_2808": "clarity_nt_char_2808"
@@ -26949,7 +26949,7 @@
         "clarity_nt_char_2961": "clarity_nt_char_2961"
     },
     "8984": {
-        "おまつりのてんじょうらんぷ": ""
+        "おまつりのてんじょうらんぷ": "Festival Ceiling Lamp"
     },
     "8985": {
         "あずきがーべら": "Red Bean Gerbera"
@@ -27270,7 +27270,7 @@
         "さすらいのこーとのほん": "Errant Outfit Recipe"
     },
     "9091": {
-        "すてーじいしょうたいぜん": ""
+        "すてーじいしょうたいぜん": "Complete Stage Outfit"
     },
     "9092": {
         "clarity_nt_char_2997": "clarity_nt_char_2997"
@@ -28857,7 +28857,7 @@
         "clarity_nt_char_3168": "clarity_nt_char_3168"
     },
     "9620": {
-        "せいれいおうのじょじし": ""
+        "せいれいおうのじょじし": "Faerie King's Poetry"
     },
     "9621": {
         "きしんのちかい": "Knight God Oath"
@@ -29244,7 +29244,7 @@
         "clarity_nt_char_3207": "clarity_nt_char_3207"
     },
     "9749": {
-        "どうぐかじさぎょうぎうえ": ""
+        "どうぐかじさぎょうぎうえ": "Toolsmith's Work Vest"
     },
     "9750": {
         "clarity_nt_char_3208": "clarity_nt_char_3208"
@@ -29304,7 +29304,7 @@
         "clarity_nt_char_3212": "clarity_nt_char_3212"
     },
     "9769": {
-        "どうぐかじたーばん": ""
+        "どうぐかじたーばん": "Toolsmith's Turban"
     },
     "9770": {
         "もっこうしょくにんずきん": ""
@@ -29313,7 +29313,7 @@
         "clarity_nt_char_3213": "clarity_nt_char_3213"
     },
     "9772": {
-        "さいほうしょくにんぼう": ""
+        "さいほうしょくにんぼう": "Sewer's Hat"
     },
     "9773": {
         "らんぷれんきんしょくにんぼう": ""
@@ -29328,7 +29328,7 @@
         "clarity_nt_char_3215": "clarity_nt_char_3215"
     },
     "9777": {
-        "ちょうりしょくにんこっくぼう": ""
+        "ちょうりしょくにんこっくぼう": "Cook's Chef Hat"
     },
     "9778": {
         "clarity_nt_char_3216": "clarity_nt_char_3216"
@@ -29376,7 +29376,7 @@
         "clarity_nt_char_3221": "clarity_nt_char_3221"
     },
     "9793": {
-        "どうぐかじさぎょうぎした": ""
+        "どうぐかじさぎょうぎした": "Toolsmith's Apron"
     },
     "9794": {
         "clarity_nt_char_3222": "clarity_nt_char_3222"
@@ -29436,13 +29436,13 @@
         "ぼうぐかじぐろーぶ": ""
     },
     "9813": {
-        "どうぐかじぐろーぶ": ""
+        "どうぐかじぐろーぶ": "Toolsmith's Gloves"
     },
     "9814": {
         "もっこうしょくにんうであて": ""
     },
     "9815": {
-        "さいほうしょくにんうであて": ""
+        "さいほうしょくにんうであて": "Sewer's Armlets"
     },
     "9816": {
         "らんぷれんきんのうでわ": ""
@@ -29508,7 +29508,7 @@
         "clarity_nt_char_3235": "clarity_nt_char_3235"
     },
     "9837": {
-        "どうぐかじさんだる": ""
+        "どうぐかじさんだる": "Toolsmith's Sandals"
     },
     "9838": {
         "もっこうしょくにんのたび": ""
@@ -29529,7 +29529,7 @@
         "つぼれんきんぶーつ": ""
     },
     "9844": {
-        "ちょうりしょくにんぶーつ": ""
+        "ちょうりしょくにんぶーつ": "Cook's Boots"
     },
     "9845": {
         "clarity_nt_char_3238": "clarity_nt_char_3238"
@@ -29688,7 +29688,7 @@
         "clarity_nt_char_3252": "clarity_nt_char_3252"
     },
     "9897": {
-        "とれんどはっと": ""
+        "とれんどはっと": "Trend Hat"
     },
     "9898": {
         "きんのふぇざーちっぷ": "Gold Feather Chip"
@@ -30666,7 +30666,7 @@
         "clarity_nt_char_3361": "clarity_nt_char_3361"
     },
     "10223": {
-        "みかわしのふくのれしぴ": "Evasive Outfit Recipe"
+        "みかわしのふくのれしぴ": "Evasion Outfit Recipe"
     },
     "10224": {
         "てじなしのふくのつくりかた": "Making Conjurer Clothes"
@@ -30705,7 +30705,7 @@
         "clarity_nt_char_3366": "clarity_nt_char_3366"
     },
     "10236": {
-        "けんぽうぎのつくりかた": ""
+        "けんぽうぎのつくりかた": "Make A Tussler's Outfit"
     },
     "10237": {
         "かたりべのふくのれしぴ": "Storyteller's Recipe"
@@ -30759,7 +30759,7 @@
         "clarity_nt_char_3371": "clarity_nt_char_3371"
     },
     "10254": {
-        "たいふーんれざーのほん": ""
+        "たいふーんれざーのほん": "Typhoon Leather Book"
     },
     "10255": {
         "こぶどうのどうぎのつくりかた": ""
@@ -30768,7 +30768,7 @@
         "clarity_nt_char_3372": "clarity_nt_char_3372"
     },
     "10257": {
-        "きゅうどうしゃのどうぎのつくりかた": ""
+        "きゅうどうしゃのどうぎのつくりかた": "Seeker's Outfit Recipe"
     },
     "10258": {
         "おうきゅうまじゅつのふくかたろぐ": ""
@@ -30789,7 +30789,7 @@
         "clarity_nt_char_3375": "clarity_nt_char_3375"
     },
     "10264": {
-        "せんせいじゅつしのろーぶのほん": ""
+        "せんせいじゅつしのろーぶのほん": "Astrologer Outfit Book"
     },
     "10265": {
         "ぐんしんのこうぐんきろく": ""
@@ -30798,7 +30798,7 @@
         "clarity_nt_char_3376": "clarity_nt_char_3376"
     },
     "10267": {
-        "ちぇいさーれざーさくせいじゅつ": ""
+        "ちぇいさーれざーさくせいじゅつ": "Chaser Leather Making"
     },
     "10268": {
         "けんせいのどうぎさくせいほう": ""
@@ -30837,7 +30837,7 @@
         "こんごうふえのぶそうじゅつ": "Unbreakable Varja"
     },
     "10280": {
-        "はじめてのどうぐかじ": "Beginner Craftsman"
+        "はじめてのどうぐかじ": "Beginner Toolsmithing"
     },
     "10281": {
         "clarity_nt_char_3380": "clarity_nt_char_3380"
@@ -31323,7 +31323,7 @@
         "もりびとのぼうぐずかん": "Woodland Armor Book"
     },
     "10442": {
-        "へヴぃーなよろいのものがたり": ""
+        "へヴぃーなよろいのものがたり": "Story of Heavy Armor"
     },
     "10443": {
         "clarity_nt_char_3437": "clarity_nt_char_3437"
@@ -31341,7 +31341,7 @@
         "clarity_nt_char_3439": "clarity_nt_char_3439"
     },
     "10448": {
-        "くろがねのよろいのほん": "Black Iron Armor Recipe"
+        "くろがねのよろいのほん": "Darksteel Armor Recipe"
     },
     "10449": {
         "はんまーづくりにゅうもん": "Intro Hammer Making"
@@ -31938,13 +31938,13 @@
         "clarity_nt_char_3511": "clarity_nt_char_3511"
     },
     "10647": {
-        "だいけんじゃのほういのしょ": ""
+        "だいけんじゃのほういのしょ": "Supreme Sage's Book"
     },
     "10648": {
         "あいどるすーつのれしぴ": ""
     },
     "10649": {
-        "うたよみのころもさくせいほう": ""
+        "うたよみのころもさくせいほう": "How To Write A Poem"
     },
     "10650": {
         "clarity_nt_char_3512": "clarity_nt_char_3512"
@@ -32061,7 +32061,7 @@
         "clarity_nt_char_3524": "clarity_nt_char_3524"
     },
     "10688": {
-        "さいぐ　ほしぼしのたくとえまき": "Star Baton Scroll"
+        "さいぐ　ほしぼしのたくとえまき": "Stars Baton Scroll"
     },
     "10689": {
         "さいぐ　ささだんごえまき": "Bamboo Dumplings Recipe"
@@ -32349,7 +32349,7 @@
         "れぎおんぐんじがく": "Legion Army Studies"
     },
     "10784": {
-        "だいかいけつのかいけつばいぶる": "Great Mystery Solution"
+        "だいかいけつのかいけつばいぶる": "Great Wonder Solution"
     },
     "10785": {
         "かるわざしのぶらりじゅんぎょうのたび": "Acrobat's Travels"
@@ -34767,13 +34767,13 @@
         "なすびぬいぐるみしょう": ""
     },
     "11590": {
-        "とんぶれろぬいぐるみ": ""
+        "とんぶれろぬいぐるみ": "Ham Shamwitch Plushie"
     },
     "11591": {
         "clarity_nt_char_3830": "clarity_nt_char_3830"
     },
     "11592": {
-        "とんぶれろぬいぐるみしょう": ""
+        "とんぶれろぬいぐるみしょう": "Ham Shamwitch Sm. Plush"
     },
     "11593": {
         "かんだただんのらんたん": ""
@@ -38064,7 +38064,7 @@
         "clarity_nt_char_4200": "clarity_nt_char_4200"
     },
     "12689": {
-        "ごーじゃすけーきせっと": ""
+        "ごーじゃすけーきせっと": "Gorgeous Cake Set"
     },
     "12690": {
         "おいしいおべんとうせっと": ""
@@ -39252,7 +39252,7 @@
         "clarity_nt_char_4334": "clarity_nt_char_4334"
     },
     "13085": {
-        "きこうはくしのこーとした": "Engineer's Bottoms"
+        "きこうはくしのこーとした": "Engineer's Coat Btm"
     },
     "13086": {
         "clarity_nt_char_4335": "clarity_nt_char_4335"
@@ -39264,7 +39264,7 @@
         "きこうはくしのくつ": "Engineer's Shoes"
     },
     "13089": {
-        "きこうはくしのこーとうえ": "Engineer's Shirt"
+        "きこうはくしのこーとうえ": "Engineer's Coat Top"
     },
     "13090": {
         "clarity_nt_char_4336": "clarity_nt_char_4336"
@@ -39369,25 +39369,25 @@
         "れぎおんめいるうえ": "Legion Mail Top"
     },
     "13124": {
-        "だいかいけつのはちまき": "Great Mystery Band"
+        "だいかいけつのはちまき": "Great Wonder Band"
     },
     "13125": {
-        "だいかいけつのしょうぞくした": "Great Mystery Pants"
+        "だいかいけつのしょうぞくした": "Great Wonder Pants"
     },
     "13126": {
         "clarity_nt_char_4347": "clarity_nt_char_4347"
     },
     "13127": {
-        "だいかいけつのぐろーぶ": "Great Mystery Gloves"
+        "だいかいけつのぐろーぶ": "Great Wonder Gloves"
     },
     "13128": {
-        "だいかいけつのぶーつ": "Great Mystery Boots"
+        "だいかいけつのぶーつ": "Great Wonder Boots"
     },
     "13129": {
         "clarity_nt_char_4348": "clarity_nt_char_4348"
     },
     "13130": {
-        "だいかいけつのしょうぞくうえ": "Great Mystery Shirt"
+        "だいかいけつのしょうぞくうえ": "Great Wonder Shirt"
     },
     "13131": {
         "clarity_nt_char_4349": "clarity_nt_char_4349"
@@ -39648,13 +39648,13 @@
         "うぃーらのばんだな": "Vila's Bandana"
     },
     "13217": {
-        "うぃーらのころもうえ": "Vila's Shirt"
+        "うぃーらのころもうえ": "Vila's Garment Top"
     },
     "13218": {
         "clarity_nt_char_4379": "clarity_nt_char_4379"
     },
     "13219": {
-        "うぃーらのころもした": "Vila's Leggings"
+        "うぃーらのころもした": "Vila's Garment Bottom"
     },
     "13220": {
         "clarity_nt_char_4380": "clarity_nt_char_4380"
@@ -40881,7 +40881,7 @@
         "clarity_nt_char_4511": "clarity_nt_char_4511"
     },
     "13628": {
-        "ぴくにっくうるた": ""
+        "ぴくにっくうるた": "Ulta Picnic"
     },
     "13629": {
         "clarity_nt_char_4512": "clarity_nt_char_4512"
@@ -42213,7 +42213,7 @@
         "とことこももりおんおう": ""
     },
     "14072": {
-        "あとらすのぬいぐるみ": ""
+        "あとらすのぬいぐるみ": "Atlas Plushie"
     },
     "14073": {
         "clarity_nt_char_4660": "clarity_nt_char_4660"
@@ -42378,7 +42378,7 @@
         "clarity_nt_char_4678": "clarity_nt_char_4678"
     },
     "14127": {
-        "あすばるぱらそる": ""
+        "あすばるぱらそる": "Asbal's Umbrella"
     },
     "14128": {
         "clarity_nt_char_4679": "clarity_nt_char_4679"
@@ -42609,7 +42609,7 @@
         "clarity_nt_char_4704": "clarity_nt_char_4704"
     },
     "14204": {
-        "おはなのぱーるぴあす": ""
+        "おはなのぱーるぴあす": "Flower Pearl Earrings"
     },
     "14205": {
         "clarity_nt_char_4705": "clarity_nt_char_4705"
@@ -42675,13 +42675,13 @@
         "clarity_nt_char_4712": "clarity_nt_char_4712"
     },
     "14226": {
-        "れおぱーどびきに": ""
+        "れおぱーどびきに": "Leopard Bikini"
     },
     "14227": {
         "clarity_nt_char_4713": "clarity_nt_char_4713"
     },
     "14228": {
-        "れおぱーどみずぎ": ""
+        "れおぱーどみずぎ": "Leopard Swimsuit"
     },
     "14229": {
         "clarity_nt_char_4714": "clarity_nt_char_4714"
@@ -42693,7 +42693,7 @@
         "clarity_nt_char_4715": "clarity_nt_char_4715"
     },
     "14232": {
-        "せいれーんへっど": ""
+        "せいれーんへっど": "Siren's Hair Ornament"
     },
     "14233": {
         "clarity_nt_char_4716": "clarity_nt_char_4716"
@@ -42714,22 +42714,22 @@
         "おおさそりのうきわ": ""
     },
     "14239": {
-        "せいれーんぱれおうえ": ""
+        "せいれーんぱれおうえ": "Siren's Pareo Top"
     },
     "14240": {
         "clarity_nt_char_4719": "clarity_nt_char_4719"
     },
     "14241": {
-        "せいれーんぱれおした": ""
+        "せいれーんぱれおした": "Siren's Pareo Bottom"
     },
     "14242": {
         "clarity_nt_char_4720": "clarity_nt_char_4720"
     },
     "14243": {
-        "せいれーんぐろーぶ": ""
+        "せいれーんぐろーぶ": "Siren's Gloves"
     },
     "14244": {
-        "せいれーんさんだる": ""
+        "せいれーんさんだる": "Siren's Sandals"
     },
     "14245": {
         "がくえんだんしのなつふくかい": ""
@@ -42756,7 +42756,7 @@
         "clarity_nt_char_4724": "clarity_nt_char_4724"
     },
     "14253": {
-        "すらいむいやーまふ": ""
+        "すらいむいやーまふ": "Slime Earmuffs"
     },
     "14254": {
         "ぼたんのもんつきはかま": ""
@@ -42852,7 +42852,7 @@
         "clarity_nt_char_4733": "clarity_nt_char_4733"
     },
     "14285": {
-        "すらいだーくのたいけん": ""
+        "すらいだーくのたいけん": "Nemeslime Grtsword"
     },
     "14286": {
         "げるにっくしょうぐんのつえ": ""
@@ -42945,19 +42945,19 @@
         "こおりのまおういやりんぐのはこ": "Ice Demon Earrings Box"
     },
     "14316": {
-        "すぼばうぇあ": ""
+        "すぼばうぇあ": "Snowball Btl Wear"
     },
     "14317": {
         "clarity_nt_char_4742": "clarity_nt_char_4742"
     },
     "14318": {
-        "すぼばごーぐる": ""
+        "すぼばごーぐる": "Snowball Btl Goggles"
     },
     "14319": {
-        "すぼばぐろーぶ": ""
+        "すぼばぐろーぶ": "Snowball Btl Gloves"
     },
     "14320": {
-        "すぼばぶーつ": ""
+        "すぼばぶーつ": "Snowball Btl Boots"
     },
     "14321": {
         "clarity_nt_char_4743": "clarity_nt_char_4743"
@@ -42984,25 +42984,25 @@
         "あさしんぶーつ": ""
     },
     "14329": {
-        "もこもこにっと": ""
+        "もこもこにっと": "Fluffy Hat"
     },
     "14330": {
-        "もこもこせーたー": ""
+        "もこもこせーたー": "Fluffy Sweater"
     },
     "14331": {
         "clarity_nt_char_4745": "clarity_nt_char_4745"
     },
     "14332": {
-        "もこもこすかーと": ""
+        "もこもこすかーと": "Fluffy Skirt"
     },
     "14333": {
         "clarity_nt_char_4746": "clarity_nt_char_4746"
     },
     "14334": {
-        "もこもこぶーつ": ""
+        "もこもこぶーつ": "Fluffy Boots"
     },
     "14335": {
-        "もこもこずぼん": ""
+        "もこもこずぼん": "Fluffy Pants"
     },
     "14336": {
         "しぐさしょおべんとう": ""
@@ -43392,34 +43392,34 @@
         "しぐさしょきのまなざし": ""
     },
     "14465": {
-        "ほっとへっどほん": ""
+        "ほっとへっどほん": "Soft Headphones"
     },
     "14466": {
         "clarity_nt_char_4793": "clarity_nt_char_4793"
     },
     "14467": {
-        "あすばるのつの": ""
+        "あすばるのつの": "Asbal's Horns"
     },
     "14468": {
-        "あすばるのまんと": ""
+        "あすばるのまんと": "Asbal's Cape"
     },
     "14469": {
         "clarity_nt_char_4794": "clarity_nt_char_4794"
     },
     "14470": {
-        "あすばるのぶーつ": ""
+        "あすばるのぶーつ": "Asbal's Boots"
     },
     "14471": {
         "clarity_nt_char_4795": "clarity_nt_char_4795"
     },
     "14472": {
-        "あすばるのべすと": ""
+        "あすばるのべすと": "Asbal's Vest"
     },
     "14473": {
         "clarity_nt_char_4796": "clarity_nt_char_4796"
     },
     "14474": {
-        "あすばるのずぼん": ""
+        "あすばるのずぼん": "Asbal's Pants"
     },
     "14475": {
         "clarity_nt_char_4797": "clarity_nt_char_4797"
@@ -43452,7 +43452,7 @@
         "clarity_nt_char_4800": "clarity_nt_char_4800"
     },
     "14485": {
-        "りゅうのつの": ""
+        "りゅうのつの": "Dragon Horns"
     },
     "14486": {
         "clarity_nt_char_4801": "clarity_nt_char_4801"
@@ -43638,7 +43638,7 @@
         "いのる": "Pray"
     },
     "14547": {
-        "バトル": ""
+        "バトル": "Battle"
     },
     "14548": {
         "武器かかげ": ""
@@ -46344,7 +46344,7 @@
         "clarity_nt_char_5097": "clarity_nt_char_5097"
     },
     "15449": {
-        "みかわしの服セット": "Evasive Outfit"
+        "みかわしの服セット": "Evasion Outfit"
     },
     "15450": {
         "ワイルドジャケットセット": "Wild Outfit"
@@ -46413,7 +46413,7 @@
         "かたりべの服セット": "Storyteller's Outfit"
     },
     "15472": {
-        "けんぽうぎセット": ""
+        "けんぽうぎセット": "Tussler's Outfit"
     },
     "15473": {
         "clarity_nt_char_5107": "clarity_nt_char_5107"
@@ -46425,7 +46425,7 @@
         "バトマスアーマーセット": "Battlemaster Outfit"
     },
     "15476": {
-        "パラディンチェインセット": ""
+        "パラディンチェインセット": "Paladin Mail Set"
     },
     "15477": {
         "clarity_nt_char_5108": "clarity_nt_char_5108"
@@ -46437,7 +46437,7 @@
         "clarity_nt_char_5109": "clarity_nt_char_5109"
     },
     "15480": {
-        "ぶとうぎセット": ""
+        "ぶとうぎセット": "Martial Artist Outfit"
     },
     "15481": {
         "まどうしのころもセット": "Wizard's Outfit"
@@ -46485,7 +46485,7 @@
         "clarity_nt_char_5112": "clarity_nt_char_5112"
     },
     "15496": {
-        "くろがねのよろいセット": "Black Iron Armor Set"
+        "くろがねのよろいセット": "Darksteel Armor Set"
     },
     "15497": {
         "げんぶの道着セット": "Black Turtle Outfit"
@@ -46518,7 +46518,7 @@
         "clarity_nt_char_5115": "clarity_nt_char_5115"
     },
     "15507": {
-        "司祭のほういセット": "Priest's Outfit"
+        "司祭のほういセット": "Pastor's Outfit"
     },
     "15508": {
         "水のはごろもセット": "Flowing Outfit"
@@ -46554,7 +46554,7 @@
         "clarity_nt_char_5119": "clarity_nt_char_5119"
     },
     "15519": {
-        "王宮魔術師ローブセット": "Royal Magician Outfit"
+        "王宮魔術師ローブセット": "Royal Mage Outfit"
     },
     "15520": {
         "求道者の道着セット": "Seeker's Outfit"
@@ -46602,13 +46602,13 @@
         "clarity_nt_char_5124": "clarity_nt_char_5124"
     },
     "15535": {
-        "ゴシックコートセット": ""
+        "ゴシックコートセット": "Gothic Coat Set"
     },
     "15536": {
         "clarity_nt_char_5125": "clarity_nt_char_5125"
     },
     "15537": {
-        "ゴシックビスチェセット": ""
+        "ゴシックビスチェセット": "Gothic Bustier Set"
     },
     "15538": {
         "さとりのころもセット": "Clarity Outfit"
@@ -46695,7 +46695,7 @@
         "聖者のほういセット": "Saint's Outfit"
     },
     "15566": {
-        "大賢者のほういセット": "Great Sage's Outfit"
+        "大賢者のほういセット": "Supreme Sage Outfit"
     },
     "15567": {
         "clarity_nt_char_5135": "clarity_nt_char_5135"
@@ -46767,10 +46767,10 @@
         "clarity_nt_char_5144": "clarity_nt_char_5144"
     },
     "15590": {
-        "獄獣のケープセット": "Hell Beast Outfit"
+        "獄獣のケープセット": "Hellbeast Outfit"
     },
     "15591": {
-        "精霊王のクロークセット": ""
+        "精霊王のクロークセット": "Faerie King Outfit"
     },
     "15592": {
         "騎神のよろいセット": "Knight God Armor Set"
@@ -46818,7 +46818,7 @@
         "clarity_nt_char_5149": "clarity_nt_char_5149"
     },
     "15607": {
-        "フォーチュンローブセット": ""
+        "フォーチュンローブセット": "Fortune Outfit"
     },
     "15608": {
         "clarity_nt_char_5150": "clarity_nt_char_5150"
@@ -46854,7 +46854,7 @@
         "スターダムスーツセット": "Stardom Outfit"
     },
     "15619": {
-        "武神の道着セット": ""
+        "武神の道着セット": "War God Outfit"
     },
     "15620": {
         "clarity_nt_char_5154": "clarity_nt_char_5154"
@@ -46875,13 +46875,13 @@
         "エトワールコートセット": "Etoile Outfit"
     },
     "15626": {
-        "クルーガースーツセット": "Kluger Suit Set"
+        "クルーガースーツセット": "Kluger Outfit"
     },
     "15627": {
         "シュバリエメイルセット": "Chevalier Mail Set"
     },
     "15628": {
-        "カテドラルローブセット": "Cathedral Robe Set"
+        "カテドラルローブセット": "Cathedral Outfit"
     },
     "15629": {
         "族長のケープセット": "Chieftain Outfit"
@@ -46917,7 +46917,7 @@
         "clarity_nt_char_5158": "clarity_nt_char_5158"
     },
     "15640": {
-        "大怪傑の装束セット": "Great Mystery Outfit"
+        "大怪傑の装束セット": "Great Wonder Outfit"
     },
     "15641": {
         "タンブラーシャツセット": "Tumbler Outfit"
@@ -46932,19 +46932,19 @@
         "clarity_nt_char_5159": "clarity_nt_char_5159"
     },
     "15645": {
-        "アビスセーラーセット": ""
+        "アビスセーラーセット": "Abyss Outfit"
     },
     "15646": {
         "clarity_nt_char_5160": "clarity_nt_char_5160"
     },
     "15647": {
-        "ガナドールスーツセット": "Victor Suit Set"
+        "ガナドールスーツセット": "Victor Outfit"
     },
     "15648": {
         "神技のベストセット": "Divine Skill Outfit"
     },
     "15649": {
-        "ヴィーラのころもセット": "Vila's Garment Set"
+        "ヴィーラのころもセット": "Vila's Outfit"
     },
     "15650": {
         "おしゃれさ +5": "Style +5"
@@ -47415,7 +47415,7 @@
         "clarity_nt_char_5207": "clarity_nt_char_5207"
     },
     "15806": {
-        "会心と暴走ダメージ +100(試合無効)": "Critical & Haywire Damage +100 (No PvP)"
+        "会心と暴走ダメージ +100(試合無効)": "Critical/Haywire Dmg +100(No PvP)"
     },
     "15807": {
         "clarity_nt_char_5208": "clarity_nt_char_5208"
@@ -47604,7 +47604,7 @@
         "復活時ヘヴィチャージ +25%": "Heavy Charge On Revive +25%"
     },
     "15869": {
-        "敵を倒すと 3%でためる(試合無効)": "Tension On Enemy Defeat 3% (No PvP)"
+        "敵を倒すと 3%でためる(試合無効)": "Tension On Enemy Defeat 3%(No PvP)"
     },
     "15870": {
         "clarity_nt_char_5228": "clarity_nt_char_5228"
@@ -48699,7 +48699,7 @@
         "clarity_nt_char_5339": "clarity_nt_char_5339"
     },
     "16234": {
-        "あすばるのぬいぐるみ": ""
+        "あすばるのぬいぐるみ": "Asbal Plushie"
     },
     "16235": {
         "clarity_nt_char_5340": "clarity_nt_char_5340"
@@ -49548,7 +49548,7 @@
         "うぁれりあとらんぷ": ""
     },
     "16517": {
-        "あすばるとらんぷ": ""
+        "あすばるとらんぷ": "Asbal Game Card"
     },
     "16518": {
         "clarity_nt_char_5427": "clarity_nt_char_5427"
@@ -49986,10 +49986,10 @@
         "clarity_nt_char_5476": "clarity_nt_char_5476"
     },
     "16663": {
-        "みらーあーまーうえ": "Mirror Armor"
+        "みらーあーまーうえ": "Mirror Armor Top"
     },
     "16664": {
-        "みらーあーまーした": "Mirror Leggings"
+        "みらーあーまーした": "Mirror Armor Bottom"
     },
     "16665": {
         "みらーがんとれっと": "Mirror Gauntlets"
@@ -50001,16 +50001,16 @@
         "ひかりさーくれっと": "Light Circlet"
     },
     "16668": {
-        "ひかりのろーぶ": "Light Robe"
+        "ひかりのろーぶ": "Shimmering Dress"
     },
     "16669": {
-        "ひかりのぐろーぶ": "Light Gloves"
+        "ひかりのぐろーぶ": "Shimmering Gloves"
     },
     "16670": {
         "clarity_nt_char_5477": "clarity_nt_char_5477"
     },
     "16671": {
-        "ひかりのぶーつ": "Light Boots"
+        "ひかりのぶーつ": "Shimmering Boots"
     },
     "16672": {
         "かいそのぼうし": "Founder's Hat"
@@ -50076,25 +50076,25 @@
         "clarity_nt_char_5483": "clarity_nt_char_5483"
     },
     "16693": {
-        "ひかりのローブセット": "Light Outfit"
+        "ひかりのローブセット": "Shimmering Outfit"
     },
     "16694": {
         "clarity_nt_char_5484": "clarity_nt_char_5484"
     },
     "16695": {
-        "開祖の道着セット": "Founder's Uniform Set"
+        "開祖の道着セット": "Founder's Outfit"
     },
     "16696": {
         "clarity_nt_char_5485": "clarity_nt_char_5485"
     },
     "16697": {
-        "ドラゴンベストセット": ""
+        "ドラゴンベストセット": "Dragon Outfit"
     },
     "16698": {
         "clarity_nt_char_5486": "clarity_nt_char_5486"
     },
     "16699": {
-        "かぜのマントセット": "Wind Cloak Set"
+        "かぜのマントセット": "Wind Outfit"
     },
     "16700": {
         "さいだいＨＰ +13": "Max HP +13"
@@ -50346,13 +50346,13 @@
         "clarity_nt_char_5515": "clarity_nt_char_5515"
     },
     "16783": {
-        "しにがみのずきん": ""
+        "しにがみのずきん": "Reaper's Hood"
     },
     "16784": {
         "clarity_nt_char_5516": "clarity_nt_char_5516"
     },
     "16785": {
-        "しにがみのかま": ""
+        "しにがみのかま": "Reaper's Sickle"
     },
     "16786": {
         "だいごかいつりこんきん": ""
@@ -50937,28 +50937,28 @@
         "えんむすびぜんざい": ""
     },
     "16980": {
-        "まけんしのあかし": ""
+        "まけんしのあかし": "Proof of DMN"
     },
     "16981": {
         "clarity_nt_char_5582": "clarity_nt_char_5582"
     },
     "16982": {
-        "まけんしのよろい": ""
+        "まけんしのよろい": "Demon Swordsman Armor"
     },
     "16983": {
         "clarity_nt_char_5583": "clarity_nt_char_5583"
     },
     "16984": {
-        "まけんしのずぼん": ""
+        "まけんしのずぼん": "Demon Swordsman Pants"
     },
     "16985": {
         "clarity_nt_char_5584": "clarity_nt_char_5584"
     },
     "16986": {
-        "まけんしのぐろーぶ": ""
+        "まけんしのぐろーぶ": "Demon Swrdsman Gloves"
     },
     "16987": {
-        "まけんしのぶーつ": ""
+        "まけんしのぶーつ": "Demon Swordsman Boots"
     },
     "16988": {
         "clarity_nt_char_5585": "clarity_nt_char_5585"
@@ -51006,16 +51006,16 @@
         "だいはちかいなじーんのぞう": ""
     },
     "17003": {
-        "あわーどきゃっぷ": ""
+        "あわーどきゃっぷ": "Award Cap"
     },
     "17004": {
         "clarity_nt_char_5590": "clarity_nt_char_5590"
     },
     "17005": {
-        "あわーどじゃけっと": ""
+        "あわーどじゃけっと": "Award Jacket"
     },
     "17006": {
-        "あわーどすにーかー": ""
+        "あわーどすにーかー": "Award Sneakers"
     },
     "17007": {
         "ぶいけいうぃっぐ": ""
@@ -51381,7 +51381,7 @@
         "clarity_nt_char_5632": "clarity_nt_char_5632"
     },
     "17128": {
-        "まけんしのけん": ""
+        "まけんしのけん": "Demon Swdman Sw"
     },
     "17129": {
         "だいまおうのかま": ""
@@ -51648,7 +51648,7 @@
         "まこうしゃくのぐりーぶ": "Marquis Greaves"
     },
     "17217": {
-        "ようえんまじょのかみかざり": "Fire Witch Hair Pin"
+        "ようえんまじょのかみかざり": "Fire Witch Hairpin"
     },
     "17218": {
         "ようえんまじょのどれすうえ": "Fire Witch Dress Top"
@@ -51729,7 +51729,7 @@
         "clarity_nt_char_5670": "clarity_nt_char_5670"
     },
     "17244": {
-        "妖炎魔女のドレスセット": "Fire Witch Dress Set"
+        "妖炎魔女のドレスセット": "Fire Witch Outfit"
     },
     "17245": {
         "ファフニルメイルセット": "Fafnir Mail Set"

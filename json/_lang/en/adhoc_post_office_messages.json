@@ -231,7 +231,7 @@
         "申し訳ありませんが|<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|<%sL_ADDRESS_5>と　<%sL_ADDRESS_6>と|<%sL_ADDRESS_7>と　<%sL_ADDRESS_8>と|<%sL_ADDRESS_9>に　お送りできませんでした。|<bw_break>": ""
     },
     "78": {
-        "<%sL_ADDRESS>さんの郵便ポストに|いれられませんでした。|<bw_break>": ""
+        "<%sL_ADDRESS>さんの郵便ポストに|いれられませんでした。|<bw_break>": "Couldn't put it in <%sL_ADDRESS>'s|mailbox.|<bw_break>"
     },
     "79": {
         "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|<%sL_ADDRESS_5>と　<%sL_ADDRESS_6>と|<%sL_ADDRESS_7>に　送れませんでした。|<bw_break>": ""

@@ -285,7 +285,7 @@
         "メタル迷宮招待券 ×3": ""
     },
     "96": {
-        "しぐさ書・ガード": "Gesture Book-Guard"
+        "しぐさ書・ガード": "Emote Book \"Guard\""
     },
     "97": {
         "利用券を購入し その期間が|900日以上経過すると 受け取りできます。": ""
@@ -450,7 +450,7 @@
         "超元気玉 ×3|メタル迷宮ペア招待券 ×3": "Bonus Orb L x3|Metal Maze Pair Ticket x3"
     },
     "151": {
-        "元気玉 ×10|せかいじゅの葉 ×30|大地の竜玉|ソーサリーリング": "Bonus Orb x10|Yggdrasil Leaf x30|Great Dragon Orb|Sorcery Ring"
+        "元気玉 ×10|せかいじゅの葉 ×30|大地の竜玉|ソーサリーリング": "Bonus Orb x10|Yggdrasil Leaf x30|Earthwyrm's Eye|Sorcerer's Ring"
     },
     "152": {
         "利用券を購入し その期間が|1620日以上経過すると 受け取りできます。": ""
@@ -477,7 +477,7 @@
         "超元気玉 ×3|メタル迷宮ペア招待券 ×3": "Bonus Orb L x3|Metal Maze Pair Ticket x3"
     },
     "160": {
-        "元気玉 ×10|せかいじゅの葉 ×30|大地の竜玉|ソーサリーリング": "Bonus Orb x10|Yggdrasil Leaf x30|Great Dragon Orb|Sorcery Ring"
+        "元気玉 ×10|せかいじゅの葉 ×30|大地の竜玉|ソーサリーリング": "Bonus Orb x10|Yggdrasil Leaf x30|Earthwyrm's Eye|Sorcerer's Ring"
     },
     "161": {
         "第2回 幸せのおすそわけで|アマリリスの笑顔を　交換後|「目覚めし冒険者の広場」から|受け取ることができます。": ""
@@ -510,7 +510,7 @@
         "メタル迷宮ペア招待券 ×3|超元気玉 ×3": "Metal Maze Pair Ticket x3|Bonus Orb L x3"
     },
     "171": {
-        "プレゼントチケット ×3|ソーサリーリング|大地の竜玉": "Gift Ticket x3|Sorcery Ring|Dragon Orb"
+        "プレゼントチケット ×3|ソーサリーリング|大地の竜玉": "Gift Ticket x3|Sorcerer's Ring|Earthwyrm's Eye"
     },
     "172": {
         "タダ土地チケット|丸い家|大きな丸い家": ""
@@ -585,7 +585,7 @@
         "超元気玉 ×3|メタル迷宮ペア招待券 ×3": "Bonus Orb L x3|Metal Maze Pair Ticket x3"
     },
     "196": {
-        "元気玉 ×10|ソーサリーリング|大地の竜玉": "Bonus Orb x10|Sorcery Ring|Great Dragon Orb"
+        "元気玉 ×10|ソーサリーリング|大地の竜玉": "Bonus Orb x10|Sorcerer's Ring|Earthwyrm's Eye"
     },
     "197": {
         "タダ土地チケット|丸い家|大きな丸い家": ""
@@ -639,7 +639,7 @@
         "超元気玉 ×3|メタル迷宮ペア招待券 ×3": "Bonus Orb L x3|Metal Maze Pair Ticket x3"
     },
     "214": {
-        "元気玉 ×10|ソーサリーリング|大地の竜玉": "Bonus Orb x10|Sorcery Ring|Great Dragon Orb"
+        "元気玉 ×10|ソーサリーリング|大地の竜玉": "Bonus Orb x10|Sorcerer's Ring|Earthwyrm's Eye"
     },
     "215": {
         "タダ土地チケット|丸い家|大きな丸い家": ""
@@ -780,7 +780,7 @@
         "元気玉 ×10|せかいじゅの葉 ×10|まほうのせいすい ×99|カジノプレイチケット ×10": "Bonus Orb x10|Yggdrasil Leaf x10|Magic Water x99|Casino Play Ticket x10"
     },
     "261": {
-        "大地の竜玉|ソーサリーリング|銀のロザリオ|ルーキーの証": "Great Dragon Orb|Sorcery Ring|Silver Rosary|Rookie Proof"
+        "大地の竜玉|ソーサリーリング|銀のロザリオ|ルーキーの証": "Earthwyrm's Eye|Sorcerer's Ring|Silver Rosary|Rookie Proof"
     },
     "262": {
         "タダ土地チケット|丸い家|白木のベッド|白木のチェスト": ""
@@ -825,7 +825,7 @@
         "元気玉 ×10|まほうのせいすい ×99|せかいじゅの葉 ×10|カジノプレイチケット ×10": "Bonus Orb x10|Magic Water x99|Yggdrasil Leaf x10|Casino Play Ticket x10"
     },
     "276": {
-        "大地の竜玉|ソーサリーリング|銀のロザリオ|ルーキーの証": "Great Dragon Orb|Sorcery Ring|Silver Rosary|Rookie Proof"
+        "大地の竜玉|ソーサリーリング|銀のロザリオ|ルーキーの証": "Earthwyrm's Eye|Sorcerer's Ring|Silver Rosary|Rookie Proof"
     },
     "277": {
         "タダ土地チケット|四角い家|白木のベッド|白木のチェスト": "Free Land Ticket|Square House|Wood Bed|Wood Chest"

@@ -66,13 +66,13 @@
         "clarity_nt_char_10": "clarity_nt_char_10"
     },
     "23": {
-        "<%sB_TARGET>は いなくなった！": "The <%sB_TARGET> ran away!"
+        "<%sB_TARGET>は いなくなった！": "The <%sB_TARGET> is gone!"
     },
     "24": {
-        "<%sB_TARGET>たちは いなくなった！": "The <%sB_TARGET>s ran away!"
+        "<%sB_TARGET>たちは いなくなった！": "The <%sB_TARGET>s are gone!"
     },
     "25": {
-        "まもののむれは いなくなった！": "The enemies ran away!"
+        "まもののむれは いなくなった！": "The enemies are gone!"
     },
     "26": {
         "<%sB_ACTOR>たちは ぜんめつした。": "The party was wiped out..."
@@ -114,7 +114,7 @@
         "clarity_nt_char_16": "clarity_nt_char_16"
     },
     "39": {
-        "<%sB_ACTOR>は 不意をつかれた！": "The <%sB_ACTOR> caught you off guard!"
+        "<%sB_ACTOR>は 不意をつかれた！": "<%sB_ACTOR> was caught off guard!"
     },
     "40": {
         "<%sB_TARGET>たちが あらわれた！": "Some <%sB_TARGET>s draw near!"
@@ -279,7 +279,7 @@
         "clarity_nt_char_33": "clarity_nt_char_33"
     },
     "94": {
-        "相手が いなくなった": "The enemy is gone."
+        "相手が いなくなった": "The target is gone."
     },
     "95": {
         "clarity_nt_char_34": "clarity_nt_char_34"
@@ -1434,7 +1434,7 @@
         "テンションが|さがらなかった！": "Tension did|not decrease!"
     },
     "479": {
-        "<%sB_TARGET>が|いなくなった": "<%sB_TARGET>|runs away."
+        "<%sB_TARGET>が|いなくなった": "<%sB_TARGET>|is gone."
     },
     "480": {
         "clarity_nt_char_165": "clarity_nt_char_165"
@@ -1551,7 +1551,7 @@
         "clarity_nt_char_179": "clarity_nt_char_179"
     },
     "518": {
-        "<%sB_TARGET>は　いなくなった！": "The enemy runs away!"
+        "<%sB_TARGET>は　いなくなった！": "<%sB_TARGET> is gone!"
     },
     "519": {
         "<%sB_TARGET>たちは　いなくなった！": "The enemies run away!"

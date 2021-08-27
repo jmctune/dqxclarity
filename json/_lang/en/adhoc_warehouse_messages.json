@@ -60,7 +60,7 @@
         "「申し訳ありませんが|　そのアイテムは　お預かりできません。|　何を　お預けになりますか？|<end>": ""
     },
     "21": {
-        "「預かり所へ　ようこそ。|　どちらも無料で　ご利用いただけますが|　本日は　どちらをご利用ですか？|<break>": ""
+        "「預かり所へ　ようこそ。|　どちらも無料で　ご利用いただけますが|　本日は　どちらをご利用ですか？|<break>": "Welcome to the Depository. Both are free to|use. Which would you like to use today?|<break>"
     },
     "22": {
         "「<convenience>で　持ち物や倉庫を決めてから|　反対側の画面に　移動させたいアイテムを選ぶと|　預けたり　取りだしたりすることができます。|<end>": ""
@@ -219,10 +219,10 @@
         "<select_se_off 2>|あずける|とりだす|<select_end><break>": "<select_se_off 2>|Deposit|Retrieve|<select_end><break>"
     },
     "74": {
-        "「それでは　新しい倉庫名を入力してください。|<break>": ""
+        "「それでは　新しい倉庫名を入力してください。|<break>": "Then, enter the new warehouse name you'd like.|<break>"
     },
     "75": {
-        "「新しい倉庫名を入力してください。|<break>": ""
+        "「新しい倉庫名を入力してください。|<break>": "Please enter a new warehouse name.|<break>"
     },
     "76": {
         "「倉庫の名前を　変更いたしました。|　他にも　名前を変えたい倉庫は|　ありますか？|<break>": ""
@@ -300,10 +300,10 @@
         "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": ""
     },
     "101": {
-        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
+        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
     },
     "102": {
-        "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
+        "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off 2>|Item Storage|Gold Bank|<select_end><break>"
     },
     "103": {
         "<select_se_off>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|Change Name|<select_end><break>"
@@ -459,7 +459,7 @@
         "「申し訳ありませんが|　そのアイテムは　お預かりできません。|　何を　お預けになりますか？|<end>": ""
     },
     "154": {
-        "「預かり所へ　ようこそ。|　どちらも無料で　ご利用いただけますが|　本日は　どちらをご利用ですか？|<break>": ""
+        "「預かり所へ　ようこそ。|　どちらも無料で　ご利用いただけますが|　本日は　どちらをご利用ですか？|<break>": "Welcome to the Depository. Both are free to|use. Which would you like to use today?|<break>"
     },
     "155": {
         "「預けるときは　預けたい持ち物の種類と|　預け先となる倉庫を　選んでください。|<br>|「取り出すときは　複数の倉庫をお持ちなら|　取り出したい倉庫を　選んでください。|<br>|「その後　移動させたいアイテムを選ぶと|　預けたり　取り出すことができます。|<end>": ""
@@ -618,16 +618,16 @@
         "<select_se_off 2>|最初の倉庫|５キャラ倉庫|<select_end><break>": ""
     },
     "207": {
-        "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|Deposit or retrieve to use the item storage.|What would you like to do?|<select_se_off>|Deposit|Retrieve|<select_end><break>"
+        "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|You can deposit or retrieve your stored items.|What would you like to do?|<select_se_off>|Deposit|Retrieve|<select_end><break>"
     },
     "208": {
-        "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off 2>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|Deposit or retrieve to use the item storage.|What would you like to do?|<select_se_off 2>|Deposit|Retrieve|<select_end><break>"
+        "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off 2>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|You can deposit or retrieve your stored items.|What would you like to do?|<select_se_off 2>|Deposit|Retrieve|<select_end><break>"
     },
     "209": {
-        "「それでは　新しい倉庫名を入力してください。|<break>": ""
+        "「それでは　新しい倉庫名を入力してください。|<break>": "Then, enter the new warehouse name you'd like.|<break>"
     },
     "210": {
-        "「新しい倉庫名を入力してください。|<break>": ""
+        "「新しい倉庫名を入力してください。|<break>": "Please enter a new warehouse name.|<break>"
     },
     "211": {
         "「倉庫の名前を　変更いたしました。|　他にも　名前を変えたい倉庫は|　ありますか？|<break>": ""
@@ -765,10 +765,10 @@
         "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": ""
     },
     "256": {
-        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
+        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
     },
     "257": {
-        "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
+        "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off 2>|Item Storage|Gold Bank|<select_end><break>"
     },
     "258": {
         "<select_se_off>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|Change Name|<select_end><break>"
@@ -852,7 +852,7 @@
         "「申し訳ありませんが|　そのアイテムは　おあずかりできません。|<br>|「なにを　おあずかりしますか？|<break>": ""
     },
     "285": {
-        "「預かり所へ　ようこそ。|　どちらも無料で　ご利用いただけますが|　本日は　どちらをご利用ですか？|<break>": ""
+        "「預かり所へ　ようこそ。|　どちらも無料で　ご利用いただけますが|　本日は　どちらをご利用ですか？|<break>": "Welcome to the Depository. Both are free to|use. Which would you like to use today?|<break>"
     },
     "286": {
         "「<convenience>で　持ち物や倉庫を決めてから|　反対側の画面に　移動させたいアイテムを選ぶと|　預けたり　取りだしたりすることができます。|<bw_break>": ""
@@ -1158,7 +1158,7 @@
         "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": ""
     },
     "387": {
-        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
+        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
     },
     "388": {
         "<select_se_off 3>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
@@ -1404,16 +1404,16 @@
         "<select_se_off 2>|最初の倉庫|５キャラ倉庫|<select_end><break>": ""
     },
     "469": {
-        "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|Deposit or retrieve to use the item storage.|What would you like to do?|<select_se_off>|Deposit|Retrieve|<select_end><break>"
+        "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|You can deposit or retrieve your stored items.|What would you like to do?|<select_se_off>|Deposit|Retrieve|<select_end><break>"
     },
     "470": {
-        "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off 2>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|Deposit or retrieve to use the item storage.|What would you like to do?|<select_se_off 2>|Deposit|Retrieve|<select_end><break>"
+        "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off 2>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|You can deposit or retrieve your stored items.|What would you like to do?|<select_se_off 2>|Deposit|Retrieve|<select_end><break>"
     },
     "471": {
-        "「それでは　新しい倉庫名を入力してください。|<break>": ""
+        "「それでは　新しい倉庫名を入力してください。|<break>": "Then, enter the new warehouse name you'd like.|<break>"
     },
     "472": {
-        "「新しい倉庫名を入力してください。|<break>": ""
+        "「新しい倉庫名を入力してください。|<break>": "Please enter a new warehouse name.|<break>"
     },
     "473": {
         "「倉庫の名前を　変更いたしました。|　他にも　名前を変えたい倉庫は|　ありますか？|<break>": ""
@@ -1551,10 +1551,10 @@
         "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": ""
     },
     "518": {
-        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
+        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
     },
     "519": {
-        "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
+        "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off 2>|Item Storage|Gold Bank|<select_end><break>"
     },
     "520": {
         "<select_se_off>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|Change Name|<select_end><break>"
@@ -1959,10 +1959,10 @@
         "未使用|<turn_end>": ""
     },
     "654": {
-        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
+        "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
     },
     "655": {
-        "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": ""
+        "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off 2>|Item Storage|Gold Bank|<select_end><break>"
     },
     "656": {
         "<select_se_off>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|Change Name|<select_end><break>"

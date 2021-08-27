@@ -156,7 +156,7 @@
         "パワフルスロー": "Power Throw"
     },
     "53": {
-        "装備時命中+20%": "Acc. +20%"
+        "装備時命中+20%": "Hit Rate +20%"
     },
     "54": {
         "シャインスコール": "Starburst Throw"
@@ -1035,13 +1035,13 @@
         "全職業でかいふく魔力+10": "Natural Mag. Mending +10"
     },
     "346": {
-        "におうだち（専）": "Forbearance"
+        "におうだち（専）": "Forbearance (EX)"
     },
     "347": {
         "clarity_nt_char_114": "clarity_nt_char_114"
     },
     "348": {
-        "ヘヴィチャージ（専）": "Heavy Charge"
+        "ヘヴィチャージ（専）": "Heavy Charge (EX)"
     },
     "349": {
         "clarity_nt_char_115": "clarity_nt_char_115"
@@ -1062,7 +1062,7 @@
         "clarity_nt_char_117": "clarity_nt_char_117"
     },
     "355": {
-        "におうだちの心得（専）": "Forbearance Mastery"
+        "におうだちの心得（専）": "Forbearance Mastery (EX)"
     },
     "356": {
         "さいだいＨＰ+60（専）": "Max HP +60 (EX)"
@@ -1071,7 +1071,7 @@
         "clarity_nt_char_118": "clarity_nt_char_118"
     },
     "358": {
-        "グランドネビュラ（専）": "Solar Flair"
+        "グランドネビュラ（専）": "Solar Flair (EX)"
     },
     "359": {
         "ガード時しびれさせる（専）": "Numbing Guard"
@@ -1221,7 +1221,7 @@
         "clarity_nt_char_134": "clarity_nt_char_134"
     },
     "408": {
-        "魔力かくせい（専）": "Channel Anger"
+        "魔力かくせい（専）": "Channel Anger (EX)"
     },
     "409": {
         "常時呪文暴走率+2%（専）": "Haywire Rate +2% (EX)"
@@ -1299,7 +1299,7 @@
         "clarity_nt_char_143": "clarity_nt_char_143"
     },
     "434": {
-        "いやしの雨（専）": "Right as Rain"
+        "いやしの雨（専）": "Right as Rain (EX)"
     },
     "435": {
         "clarity_nt_char_144": "clarity_nt_char_144"
@@ -1317,7 +1317,7 @@
         "全職業でさいだいＭＰ+20": "Natural MP +20"
     },
     "440": {
-        "零の洗礼（専）": "Null Baptism"
+        "零の洗礼（専）": "Null Baptism (EX)"
     },
     "441": {
         "かいふく魔力+30（専）": "Mag. Mending +30 (EX)"
@@ -3543,7 +3543,7 @@
         "さいだいＭＰが　２０　増えた！": "Max MP increased by 20!"
     },
     "1182": {
-        "零の洗礼（専）の特技を　おぼえた！": "I've learned Null Baptism!"
+        "零の洗礼（専）の特技を　おぼえた！": "You learned Null Baptism!"
     },
     "1183": {
         "賢者時　かいふく魔力が　３０　増えた！": "Magical Mending increased by 30 as a Sage!"

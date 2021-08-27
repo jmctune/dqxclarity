@@ -354,7 +354,7 @@
         "{color=skyblue}マヒャド{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kacrack{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "119": {
-        "ぼうぎょ　　このターン　受けるダメージ－３０": "Defend　Damage taken -30 this turn."
+        "ぼうぎょ　　このターン　受けるダメージ－３０": "Defend　Damage Taken -30 This Turn"
     },
     "120": {
         "clarity_nt_char_120": "clarity_nt_char_120"
@@ -366,7 +366,7 @@
         "こうげき　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "123": {
-        "ドラゴン斬り　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　ドラゴン系に{color=orange}６０{color=default}": "Dragon Slash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}60{color=default} to Dragon-types"
+        "ドラゴン斬り　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　ドラゴン系に{color=orange}６０{color=default}": "Dragon Slash　{color=orange}<%dM_Damage_1>{color=default} to <%sM_Target_1>　{color=orange}60{color=default} to Dragon-types"
     },
     "124": {
         "clarity_nt_char_124": "clarity_nt_char_124"
@@ -480,7 +480,7 @@
         "ライガークラッシュ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ５のダメージ": "Wild Animaul　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x5"
     },
     "161": {
-        "タマげたニャー　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "Crazy Meow　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+        "タマげたニャー　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "Meow Bomb　{color=orange}<%dM_Damage_1>{color=default} to <%sM_Target_1> {color=default}　{color=orange}<%dM_Damage_2> to <%sM_Target_2>{color=default}"
     },
     "162": {
         "clarity_nt_char_162": "clarity_nt_char_162"
@@ -546,7 +546,7 @@
         "clarity_nt_char_182": "clarity_nt_char_182"
     },
     "183": {
-        "ちからため　　次のターン　右をふる": "Power Up　Next Turn Roll Right Side"
+        "ちからため　　次のターン　右をふる": "Muster Strength　Next Turn Roll Right Side"
     },
     "184": {
         "かいしんのいちげき　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Critical Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -765,7 +765,7 @@
         "clarity_nt_char_255": "clarity_nt_char_255"
     },
     "256": {
-        "{color=skyblue}マヒャド{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kacrack{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x6"
+        "{color=skyblue}マヒャド{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kacrack{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "257": {
         "ラブリーフェイス　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　魅了する": "Minacious Allure　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Charm"
@@ -1107,13 +1107,13 @@
         "clarity_nt_char_369": "clarity_nt_char_369"
     },
     "370": {
-        "ブレードガード　このターン打撃ダメージを受けない": "Greatsword Guard　Nullify Phys. Damage This Turn"
+        "ブレードガード　このターン打撃ダメージを受けない": "Greatsword Guard　Null Phys. Damage This Turn"
     },
     "371": {
         "clarity_nt_char_371": "clarity_nt_char_371"
     },
     "372": {
-        "ジゴスパーク　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "Lightning Storm　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} Damage to <%sM_Target_2>"
+        "ジゴスパーク　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "Lightning Storm　{color=orange}<%dM_Damage_1>{color=default} to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} to <%sM_Target_2>"
     },
     "373": {
         "clarity_nt_char_373": "clarity_nt_char_373"
@@ -1125,7 +1125,7 @@
         "clarity_nt_char_375": "clarity_nt_char_375"
     },
     "376": {
-        "盾ガード　　　このターン打撃ダメージを受けない": "Block　Nullify Phys. Damage This Turn"
+        "盾ガード　　　このターン打撃ダメージを受けない": "Block　Null Phys. Damage This Turn"
     },
     "377": {
         "{color=skyblue}ディバインスペル{color=default}　<%sM_Target_1>を{color=skyblue}呪文{color=default}に弱くする（－２０）": "{color=skyblue}Divine Intervention{color=default}　<%sM_Target_1> {color=skyblue}Spell{color=default} Damage ↓ (-20)"
@@ -1275,7 +1275,7 @@
         "clarity_nt_char_425": "clarity_nt_char_425"
     },
     "426": {
-        "殻にとじこもる　　このターン打撃ダメージを受けない": "Shell Retreat　Nullify Phys. Damage This Turn"
+        "殻にとじこもる　　このターン打撃ダメージを受けない": "Shell Retreat　Null Phys. Damage This Turn"
     },
     "427": {
         "{color=skyblue}ヒャダルコ{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Crackle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -1383,7 +1383,7 @@
         "{color=skyblue}スカラ{color=default}　　　　　守備力アップ（＋１０）": "{color=skyblue}Buff{color=default}　Defense Up (+10)"
     },
     "462": {
-        "タマげたニャー　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Crazy Meow　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+        "タマげたニャー　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Meow Bomb　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "463": {
         "{color=skyblue}ギラグレイド{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kasizzle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -1419,7 +1419,7 @@
         "こうげき！": "Attack!"
     },
     "474": {
-        "まわりこまれた！": "Wrapped around!"
+        "まわりこまれた！": "Spun around!"
     },
     "475": {
         "clarity_nt_char_475": "clarity_nt_char_475"
@@ -1533,7 +1533,7 @@
         "clarity_nt_char_511": "clarity_nt_char_511"
     },
     "512": {
-        "タマげたニャー！": "Crazy Meow!"
+        "タマげたニャー！": "Meow Bomb!"
     },
     "513": {
         "clarity_nt_char_513": "clarity_nt_char_513"
@@ -1596,7 +1596,7 @@
         "ひのいき！": "Fire Breath!"
     },
     "533": {
-        "超ちからため！": "Super Strength!"
+        "超ちからため！": "Super Strength|Build!"
     },
     "534": {
         "次のターン右をふる！": "Next turn roll|right side!"
@@ -2481,7 +2481,7 @@
         "clarity_nt_char_827": "clarity_nt_char_827"
     },
     "828": {
-        "武器ガード！": "Parried!"
+        "武器ガード！": "Parrying!"
     },
     "829": {
         "clarity_nt_char_829": "clarity_nt_char_829"
@@ -2874,7 +2874,7 @@
         "呪文攻撃を受けない": "Attack spells are|nulled!"
     },
     "959": {
-        "呪文攻撃を反射する": "Spells will be reflected!"
+        "呪文攻撃を反射する": "Reflecting spells!"
     },
     "960": {
         "毎ターンＨＰが２０回復": "Recover 20 HP per turn!"
@@ -3567,7 +3567,7 @@
         "clarity_nt_char_1189": "clarity_nt_char_1189"
     },
     "1190": {
-        "ターン終了まで|呪文攻撃で与える|ダメージ＋５０": "Spell damage +30|until the end of|turn."
+        "ターン終了まで|呪文攻撃で与える|ダメージ＋５０": "Spell damage +50|until the end of|turn."
     },
     "1191": {
         "clarity_nt_char_1191": "clarity_nt_char_1191"

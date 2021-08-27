@@ -117,13 +117,13 @@
         "clarity_nt_char_10": "clarity_nt_char_10"
     },
     "40": {
-        "黒猫": ""
+        "黒猫": "B. Cat"
     },
     "41": {
         "clarity_nt_char_11": "clarity_nt_char_11"
     },
     "42": {
-        "白猫": ""
+        "白猫": "W. Cat"
     },
     "43": {
         "clarity_nt_char_12": "clarity_nt_char_12"
@@ -135,7 +135,7 @@
         "ハチワレ猫": "Blk & White Cat"
     },
     "46": {
-        "三毛猫": ""
+        "三毛猫": "Calico"
     },
     "47": {
         "ブチ猫": "Buchi Cat"
@@ -201,7 +201,7 @@
         "clarity_nt_char_16": "clarity_nt_char_16"
     },
     "68": {
-        "白猫オッド": ""
+        "白猫オッド": "Odd White Cat"
     },
     "69": {
         "こげ茶猫": ""
@@ -216,22 +216,22 @@
         "clarity_nt_char_18": "clarity_nt_char_18"
     },
     "73": {
-        "黒猫オッド": ""
+        "黒猫オッド": "Odd Black Cat"
     },
     "74": {
         "赤茶猫": "Maroon"
     },
     "75": {
-        "灰三毛猫": ""
+        "灰三毛猫": "Ash Calico"
     },
     "76": {
         "clarity_nt_char_19": "clarity_nt_char_19"
     },
     "77": {
-        "三毛猫・双": ""
+        "三毛猫・双": "Pair Calico"
     },
     "78": {
-        "茶三毛猫": ""
+        "茶三毛猫": "Tea Calico"
     },
     "79": {
         "clarity_nt_char_20": "clarity_nt_char_20"
@@ -258,10 +258,10 @@
         "clarity_nt_char_23": "clarity_nt_char_23"
     },
     "87": {
-        "白猫カギしっぽ": ""
+        "白猫カギしっぽ": "White Key Tail Cat"
     },
     "88": {
-        "黒猫カギしっぽ": ""
+        "黒猫カギしっぽ": "Black Key Tail Cat"
     },
     "89": {
         "たれ茶トラ猫": ""
@@ -288,13 +288,13 @@
         "clarity_nt_char_26": "clarity_nt_char_26"
     },
     "97": {
-        "たれ黒猫": ""
+        "たれ黒猫": "Lazy Blk Cat"
     },
     "98": {
         "clarity_nt_char_27": "clarity_nt_char_27"
     },
     "99": {
-        "たれ黒猫オッド": ""
+        "たれ黒猫オッド": "Odd Lazy Black Cat"
     },
     "100": {
         "たれキナリ猫": ""
@@ -399,7 +399,7 @@
         "大トラ猫オッド": ""
     },
     "134": {
-        "大黒猫": ""
+        "大黒猫": "Big B Cat"
     },
     "135": {
         "大トラ猫": ""
@@ -408,7 +408,7 @@
         "clarity_nt_char_39": "clarity_nt_char_39"
     },
     "137": {
-        "大白猫": ""
+        "大白猫": "Big W Cat"
     },
     "138": {
         "サバ太猫": ""
@@ -1395,7 +1395,7 @@
         "clarity_nt_char_145": "clarity_nt_char_145"
     },
     "466": {
-        "魔勇者": ""
+        "魔勇者": "Evil Hero"
     },
     "467": {
         "正月に見かけると　縁起がいいと|いわれる　おめでたい錬金人形。|わずかに　柑橘系の香りがする。": ""
