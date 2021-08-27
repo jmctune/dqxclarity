@@ -25026,7 +25026,7 @@
         "clarity_nt_char_2770": "clarity_nt_char_2770"
     },
     "8343": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージで ＭＰが回復するようになった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージで ＭＰが回復するようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e will now restore MP from damage!"
     },
     "8344": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 魔人の効果が きえた！": ""
@@ -25194,7 +25194,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 与えるダメージが 少なくなった！": ""
     },
     "8399": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージで ＨＰが回復するようになった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージで ＨＰが回復するようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e will now restore HP from damage!"
     },
     "8400": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 会心攻撃で うけるダメージが少なくなった。": ""
@@ -27903,7 +27903,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 天地のかまえが とけた！": ""
     },
     "9302": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージでＭＰ回復効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージでＭＰ回復効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's MP recover on damage effect faded!"
     },
     "9303": {
         "clarity_nt_char_3100": "clarity_nt_char_3100"
@@ -28035,7 +28035,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージダウンの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's damage down effect expired!"
     },
     "9346": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージでＨＰ回復効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージでＨＰ回復効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's HP recover on damage effect faded!"
     },
     "9347": {
         "clarity_nt_char_3114": "clarity_nt_char_3114"
