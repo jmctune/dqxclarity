@@ -603,7 +603,7 @@
         "<speed=0>クエスト『<%sM_Quest1>』を|キャンセルしました。": "<speed=0>The quest \"<%sM_Quest1>\"|was cancelled."
     },
     "202": {
-        "<speed=0>クエスト『<%sM_Quest1>』の|リプレイを　取りやめました。": ""
+        "<speed=0>クエスト『<%sM_Quest1>』の|リプレイを　取りやめました。": "<speed=0>Quest \"<%sM_Quest1>\"|replay was cancelled."
     },
     "203": {
         "<speed=0>年齢は　ナイショにしますか？<yesno><close>": "<speed=0>Would you like to keep your age a secret?<yesno><close>"
@@ -843,7 +843,7 @@
         "<speed=0><%sM_item>が　できました！|手紙は　『書いた手紙』に入ります。": "<speed=0><%sM_item> is ready!|You can view it under \"Written Letters\"."
     },
     "282": {
-        "<speed=0>書くのを　やめました。": ""
+        "<speed=0>書くのを　やめました。": "<speed=0>Writing was cancelled."
     },
     "283": {
         "clarity_nt_char_100": "clarity_nt_char_100"
@@ -1368,7 +1368,7 @@
         "10秒後に終了します。何かボタンを押すと中止されます。": "Logging off in 10 seconds. Press any button to cancel."
     },
     "457": {
-        "冒険を中断するのを やめました。": ""
+        "冒険を中断するのを やめました。": "Log out was cancelled."
     },
     "458": {
         "clarity_nt_char_158": "clarity_nt_char_158"
@@ -3816,7 +3816,7 @@
         "<speed=0>つけるルアーを　選んでください。": "<speed=0>Select a lure to attach."
     },
     "1273": {
-        "<speed=0>釣りざおとルアーの装備を　やめました。": ""
+        "<speed=0>釣りざおとルアーの装備を　やめました。": "<speed=0>Equipping a rod and lure was cancelled."
     },
     "1274": {
         "clarity_nt_char_423": "clarity_nt_char_423"
