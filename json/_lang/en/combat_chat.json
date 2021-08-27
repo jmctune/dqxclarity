@@ -28659,7 +28659,7 @@
         "clarity_nt_char_3175": "clarity_nt_char_3175"
     },
     "9554": {
-        "呪文の威力がさがった！": ""
+        "呪文の威力がさがった！": "Spell power|decreased!"
     },
     "9555": {
         "呪文での回復量がさがった！": "Spell recovery power|decreased!"
@@ -31002,7 +31002,7 @@
         "clarity_nt_char_3438": "clarity_nt_char_3438"
     },
     "10335": {
-        "呪文の威力が|もとにもどった！": ""
+        "呪文の威力が|もとにもどった！": "Spell power|returned to normal!"
     },
     "10336": {
         "呪文での回復量が|もとにもどった！": "Spell recovery power|returned to normal!"
@@ -31062,7 +31062,7 @@
         "clarity_nt_char_3445": "clarity_nt_char_3445"
     },
     "10355": {
-        "呪文の威力があがった！": ""
+        "呪文の威力があがった！": "Spell power|increased!"
     },
     "10356": {
         "呪文での回復量がふえた！": "Spell recovery power|increased!"
@@ -32898,7 +32898,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文耐性アップの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell resistance up effect extended!"
     },
     "10967": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の威力アップの 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の威力アップの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell power up effect extended!"
     },
     "10968": {
         "clarity_nt_char_3650": "clarity_nt_char_3650"
@@ -33240,7 +33240,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文耐性ダウンの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell resistance down effect extended!"
     },
     "11081": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の威力ダウンの 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の威力ダウンの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell power down effect extended!"
     },
     "11082": {
         "clarity_nt_char_3687": "clarity_nt_char_3687"
@@ -33429,7 +33429,7 @@
         "clarity_nt_char_3706": "clarity_nt_char_3706"
     },
     "11144": {
-        "呪文の威力アップ|効果時間延長！": ""
+        "呪文の威力アップ|効果時間延長！": "Spell power up|effect extended!"
     },
     "11145": {
         "clarity_nt_char_3707": "clarity_nt_char_3707"
@@ -33729,7 +33729,7 @@
         "clarity_nt_char_3740": "clarity_nt_char_3740"
     },
     "11244": {
-        "呪文の威力ダウン|効果時間延長！": ""
+        "呪文の威力ダウン|効果時間延長！": "Spell power down|effect extended!"
     },
     "11245": {
         "clarity_nt_char_3741": "clarity_nt_char_3741"
@@ -33843,7 +33843,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文耐性を かなり さげた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell resistance decreased by a lot!"
     },
     "11282": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の威力を かなり さげた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's attack spell power decreased by a lot!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の威力を かなり さげた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell power decreased by a lot!"
     },
     "11283": {
         "clarity_nt_char_3754": "clarity_nt_char_3754"
@@ -33888,7 +33888,7 @@
         "clarity_nt_char_3757": "clarity_nt_char_3757"
     },
     "11297": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の威力を 少し さげた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の威力を 少し さげた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell power decreased by a little!"
     },
     "11298": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の回復力を 少し さげた！": ""
@@ -33939,7 +33939,7 @@
         "呪文耐性をさげた！": "Spell resistance|decreased!"
     },
     "11314": {
-        "呪文の威力をさげた！": ""
+        "呪文の威力をさげた！": "Spell power|decreased!"
     },
     "11315": {
         "clarity_nt_char_3764": "clarity_nt_char_3764"
