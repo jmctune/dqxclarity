@@ -26280,7 +26280,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文耐性が 少し さがった！": ""
     },
     "8761": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の威力が 少し さがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の威力が 少し さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell power decreased slightly!"
     },
     "8762": {
         "clarity_nt_char_2921": "clarity_nt_char_2921"
@@ -26544,7 +26544,7 @@
         "clarity_nt_char_2947": "clarity_nt_char_2947"
     },
     "8849": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の威力が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の威力が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell power returned to normal!"
     },
     "8850": {
         "clarity_nt_char_2948": "clarity_nt_char_2948"
@@ -26688,7 +26688,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文耐性が 少し あがった！": ""
     },
     "8897": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の威力が 少し あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の威力が 少し あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell power increased slightly!"
     },
     "8898": {
         "clarity_nt_char_2963": "clarity_nt_char_2963"
