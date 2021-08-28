@@ -756,13 +756,13 @@
         "<%sCAS_slime>！|シェルミサイル！": "<%sCAS_slime>!|Shell Missile!"
     },
     "253": {
-        "<%sCAS_slime>！|マホターン！": ""
+        "<%sCAS_slime>！|マホターン！": "<%sCAS_slime>!|Bound!"
     },
     "254": {
-        "<%sCAS_slime>！|加速バリア！": ""
+        "<%sCAS_slime>！|加速バリア！": "<%sCAS_slime>!|Accel Barrier!"
     },
     "255": {
-        "吸収バリアで|スタミナが回復した！": ""
+        "吸収バリアで|スタミナが回復した！": "Restored Stamina|with Accel Barrier!"
     },
     "256": {
         "無敵アクセルで|無効化した！": ""
