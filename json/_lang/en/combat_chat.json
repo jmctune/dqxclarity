@@ -33000,7 +33000,7 @@
         "clarity_nt_char_3660": "clarity_nt_char_3660"
     },
     "11001": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さいだいＨＰ減少の 呪いにかかった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さいだいＨＰ減少の 呪いにかかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was cursed and max HP decreased!"
     },
     "11002": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さらに ＨＰが減っていく 呪いにかかった！": ""
