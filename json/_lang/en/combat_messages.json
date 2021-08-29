@@ -1743,7 +1743,7 @@
         "<%sB_ACTOR>は|<%dB_VALUE> Pの経験値を　かくとく！": "<%sB_ACTOR> received <%dB_VALUE> EXP!"
     },
     "582": {
-        "<%sB_ACTOR>は|<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの|経験値を　かくとく！": "<%sB_ACTOR> received <%dB_VALUE> +<%dB_VALUE2> (Strong Enemy Bonus) EXP!"
+        "<%sB_ACTOR>は|<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの|経験値を　かくとく！": "<%sB_ACTOR> received <%dB_VALUE> +<%dB_VALUE2>|(Strong Enemy Bonus) EXP!"
     },
     "583": {
         "自己ベストを　更新した！": "You set a new personal best!"
