@@ -3375,7 +3375,7 @@
         "野獣の巣 出口": ""
     },
     "1126": {
-        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>海神の神殿跡<%sW_AUTODUNG_CF>": ""
+        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>海神の神殿跡<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%dW_AUTODUNG_LV><%sW_DELIMITER>Sea Temple Ruins<%sW_AUTODUNG_CF>"
     },
     "1127": {
         "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>星降る展望台<%sW_AUTODUNG_CF>": ""
