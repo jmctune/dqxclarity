@@ -3465,7 +3465,7 @@
         "森の井戸の地下洞 出口": "Underground Forest Well Exit"
     },
     "1156": {
-        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>種族神像の間<%sW_AUTODUNG_CF>": ""
+        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>種族神像の間<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%dW_AUTODUNG_LV><%sW_DELIMITER>Tribal God Hall<%sW_AUTODUNG_CF>"
     },
     "1157": {
         "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>地下<%nW_AUTODUNG_FLOOR>階<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER> B<%dW_AUTODUNG_FLOOR>F <%sW_AUTODUNG_CF>"
@@ -3864,7 +3864,7 @@
         "王者の座 出口": ""
     },
     "1289": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>種族神像の間": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>種族神像の間": "<%sW_MAP_NAME><%sW_DELIMITER>Tribal God Hall"
     },
     "1290": {
         "<%sW_MAP_NAME><%sW_DELIMITER>守護鬼の間への道": ""
