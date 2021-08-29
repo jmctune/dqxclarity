@@ -3474,7 +3474,7 @@
         "clarity_nt_char_367": "clarity_nt_char_367"
     },
     "1159": {
-        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>隠し階<%sW_AUTODUNG_CF>": ""
+        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>隠し階<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%dW_AUTODUNG_LV><%sW_DELIMITER>Passage<%sW_AUTODUNG_CF>"
     },
     "1160": {
         "clarity_nt_char_368": "clarity_nt_char_368"
