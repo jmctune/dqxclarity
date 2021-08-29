@@ -2832,7 +2832,7 @@
         "clarity_nt_char_319": "clarity_nt_char_319"
     },
     "945": {
-        "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Seems pretty strong…|Number of kills: <%dM_kill_num> <%sM_saw>"
+        "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Seems pretty strong...|Number of kills: <%dM_kill_num> <%sM_saw>"
     },
     "946": {
         "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Probably best not to mess with it...|Number of kills: <%dM_kill_num> <%sM_saw>"
