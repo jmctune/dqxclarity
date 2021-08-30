@@ -6285,7 +6285,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_DELIMITER><%dW_AUTODUNG_FLOOR>F<%sW_AUTODUNG_CF>"
     },
     "2096": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>預かり所・よろず屋": "<%sW_MAP_NAME><%sW_DELIMITER>Depository/General Store"
+        "<%sW_MAP_NAME><%sW_DELIMITER>預かり所・よろず屋": "<%sW_MAP_NAME><%sW_DELIMITER>Depository/Item Shop"
     },
     "2097": {
         "clarity_nt_char_657": "clarity_nt_char_657"
