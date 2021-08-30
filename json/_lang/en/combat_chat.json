@@ -4176,7 +4176,7 @@
         "clarity_nt_char_490": "clarity_nt_char_490"
     },
     "1393": {
-        "<%sB_ACTOR>は すべての まりょくを ときはなった！": ""
+        "<%sB_ACTOR>は すべての まりょくを ときはなった！": "<%sB_ACTOR> unleashed all of their magic!"
     },
     "1394": {
         "なんと <%sB_TARGET>は 生き返った！": "Suddenly, <%sB_TARGET> was revived!"
@@ -4455,7 +4455,7 @@
         "<%sB_EXTRA>たちが あらわれた！": "<%sB_EXTRA> summoned!"
     },
     "1486": {
-        "<%sB_ACTOR>は すべての魔力を 解き放った！": ""
+        "<%sB_ACTOR>は すべての魔力を 解き放った！": "<%sB_ACTOR> unleashed all of their magic!"
     },
     "1487": {
         "しかし 何も おこらなかった。": "But nothing happened."
@@ -21381,7 +21381,7 @@
         "clarity_nt_char_2378": "clarity_nt_char_2378"
     },
     "7128": {
-        "すべての攻撃の|ダメージを減らす": ""
+        "すべての攻撃の|ダメージを減らす": "Reduced damage of|all attacks."
     },
     "7129": {
         "clarity_nt_char_2379": "clarity_nt_char_2379"
