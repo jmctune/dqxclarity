@@ -36,10 +36,10 @@
         "「チケットと　カジノコインを交換しました。|　あなたに　幸運の女神が　ほほえみますように|　お祈りしておりますわ。|<end>": ""
     },
     "13": {
-        "「まあ！　<pc>さんは|　カジノコインチケットを　お持ちのようですね。|<bw_break>": ""
+        "「まあ！　<pc>さんは|　カジノコインチケットを　お持ちのようですね。|<bw_break>": "Hey! It looks like you have a Casino Coin|Ticket.|<bw_break>"
     },
     "14": {
-        "「……あら。<pc>さんは|　<%nL_BUY_MAX_COIN>枚以上の　カジノコインを|　お持ちのようですね。|<br>|「おそれいりますが　すでに　|　<%nL_BUY_MAX_COIN>枚以上お持ちの方には　それ以上|　カジノコインを　お売りすることが　できません。|<br>|「景品と交換するか　カジノのゲームを|　プレイするかして　コインが足りなくなったら|　また　おこしくださいませ。": ""
+        "「……あら。<pc>さんは|　<%nL_BUY_MAX_COIN>枚以上の　カジノコインを|　お持ちのようですね。|<br>|「おそれいりますが　すでに　|　<%nL_BUY_MAX_COIN>枚以上お持ちの方には　それ以上|　カジノコインを　お売りすることが　できません。|<br>|「景品と交換するか　カジノのゲームを|　プレイするかして　コインが足りなくなったら|　また　おこしくださいませ。": "...Oh. It seems you are already carrying <%dL_BUY_MAX_COIN>|or more Casino Coins.|<br>|I apologize, but you cannot buy any Casino|Coins if you are carrying over <%dL_BUY_MAX_COIN> Coins.|<br>|If you run low on coins for any reason,|please come back and see me."
     },
     "15": {
         "「……あら。<pc>さんは　すでに限界まで|　コインを　お持ちのようです。": ""
