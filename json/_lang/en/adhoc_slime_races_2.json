@@ -228,7 +228,7 @@
         "<speed=0>|<se_nots System 7>|なんと！|<%sM_ACTIVE_SLIME>が　<%sM_TOKUGI>を　覚えた！|<wait=2000><end>": ""
     },
     "77": {
-        "<speed=0>|<%sM_TOKUGI>を　忘れてよろしいですか？|<yesno2><break>": ""
+        "<speed=0>|<%sM_TOKUGI>を　忘れてよろしいですか？|<yesno2><break>": "<speed=0>|Is it okay to forget <%sM_TOKUGI>?|<yesno2><break>"
     },
     "78": {
         "<speed=0>|しかし　<%sM_ACTIVE_SLIME>は　|これ以上　とくぎを　覚えられないようだ！|<br>|どの　とくぎを　忘れますか？|<break>": "<speed=0>|But <%sM_ACTIVE_SLIME> can't learn|anymore skills!|<br>|Which skill will do you want them to forget?|<break>"
@@ -249,7 +249,7 @@
         "「あら？|　まだ　前回のレース結果が出ていないわね。|　結果が出るまで　もう少し待ってね。|<end>": ""
     },
     "84": {
-        "<speed=0>|<%sM_ACTIVE_SLIME>は　<%sM_TOKUGI>を　忘れた。|<end>": ""
+        "<speed=0>|<%sM_ACTIVE_SLIME>は　<%sM_TOKUGI>を　忘れた。|<end>": "<speed=0>|<%sM_ACTIVE_SLIME> forgot <%sM_TOKUGI>.|<end>"
     },
     "85": {
         "<speed=0>|<se_nots System 7>|なんと！|<%sM_ACTIVE_SLIME>は　<%sM_TOKUGI>を　忘れて|<%sM_TOKUGI_NEW>を　覚えた！|<wait=2000><end>": ""
