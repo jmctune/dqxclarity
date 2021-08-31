@@ -1,6 +1,6 @@
 {
     "1": {
-        "「ギャンブラーの桃源郷　カジノへようこそ！ |　ここは　カジノコイン　売り場です。|<br>|「カジノコインは　合計が　<%nL_BUY_MAX_COIN>枚になるまで|　ご購入いただけます。カジノコインチケットは|　チケットに応じた枚数にて　交換いたします。|<bw_break>": ""
+        "「ギャンブラーの桃源郷　カジノへようこそ！ |　ここは　カジノコイン　売り場です。|<br>|「カジノコインは　合計が　<%nL_BUY_MAX_COIN>枚になるまで|　ご購入いただけます。カジノコインチケットは|　チケットに応じた枚数にて　交換いたします。|<bw_break>": "Welcome to the Casino, a gambler's paradise!|This is the Casino Coin Counter.|<br>|You can purchase Casino Coins up to a|maximum of <%dL_BUY_MAX_COIN> held Coins. You can exchange|Casino Coin Tickets here, too."
     },
     "2": {
         "「あら？　おやめになるのですね。|　また　いつでも　おこしくださいませ。|<turn_end>": ""
@@ -48,7 +48,7 @@
         "「……おそれいりますが　チケットと交換すると|　お手持ちの　カジノコインが|　あふれてしまうようですね。|<br>|「景品と交換するか　プレイするかして|　カジノコインが　減ってから|　また　おこしくださいませ。|<turn_end>": ""
     },
     "17": {
-        "「どちらを　ご利用になりますか？|<select_se_off>|コインを購入する|チケットを交換する|<select_end><break>": ""
+        "「どちらを　ご利用になりますか？|<select_se_off>|コインを購入する|チケットを交換する|<select_end><break>": "Which can I help you with?|<select_se_off>|Purchase Coins|Exchange Tickets|<select_end><break>"
     },
     "18": {
         "「ご利用ありがとうございました。|　また　いつでも　おこしください。|<end>": ""
