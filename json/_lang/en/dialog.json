@@ -75,7 +75,7 @@
         "<speed=0><%sM_pc>を　仲間に　さそいました。|相手の　返事を待ちましょう。": "<speed=0>Party invite sent to <%sM_pc>.|Please wait for their response."
     },
     "26": {
-        "<speed=0><%sM_pc>を　仲間に　さそいますか？|<yesno><close>": "<speed=0>Do you want to invite <%sM_pc> to join you?|<yesno><close>"
+        "<speed=0><%sM_pc>を　仲間に　さそいますか？|<yesno><close>": "<speed=0>Invite <%sM_pc> to your party?|<yesno><close>"
     },
     "27": {
         "<speed=0><%sM_pc>に　仲間に誘われました。|<%sM_pc>の仲間に　入りますか？<yesno><close>": "<speed=0>I've been invited to join <%sM_pc>.|<Do you want to join <%sM_pc>'s group? <yesno><close>"
