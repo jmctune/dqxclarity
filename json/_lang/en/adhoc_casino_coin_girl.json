@@ -51,7 +51,7 @@
         "「どちらを　ご利用になりますか？|<select_se_off>|コインを購入する|チケットを交換する|<select_end><break>": "Which can I help you with?|<select_se_off>|Purchase Coins|Exchange Tickets|<select_end><break>"
     },
     "18": {
-        "「ご利用ありがとうございました。|　また　いつでも　おこしください。|<end>": ""
+        "「ご利用ありがとうございました。|　また　いつでも　おこしください。|<end>": "Thank you for using our service. Please come|back anytime.|<end>"
     },
     "19": {
         "「……あら？<pc>さんは　交換できる|　チケットを　お持ちではないようです。|　交換できるチケットを　ご用意ください。|<bw_break>": "....Hm? It seems you don't have any tickets|that you can exchange at the moment. Please|come back to me when you have some.|<bw_break>"
