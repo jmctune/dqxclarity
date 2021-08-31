@@ -231,7 +231,7 @@
         "<speed=0>|<%sM_TOKUGI>を　忘れてよろしいですか？|<yesno2><break>": ""
     },
     "78": {
-        "<speed=0>|しかし　<%sM_ACTIVE_SLIME>は　|これ以上　とくぎを　覚えられないようだ！|<br>|どの　とくぎを　忘れますか？|<break>": ""
+        "<speed=0>|しかし　<%sM_ACTIVE_SLIME>は　|これ以上　とくぎを　覚えられないようだ！|<br>|どの　とくぎを　忘れますか？|<break>": "<speed=0>|But <%sM_ACTIVE_SLIME> can't learn|anymore skills!|<br>|Which skill will do you want them to forget?|<break>"
     },
     "79": {
         "「スライムレース場へ　ようこそ！|　ここでは　スライムの育成ができるわ。|　どんな　用かしら？|<break>": ""
