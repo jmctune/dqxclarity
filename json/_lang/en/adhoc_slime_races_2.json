@@ -213,13 +213,13 @@
         "「おめでとう！　マスターⅠで　１着を取ったので|　<%sM_ACTIVE_SLIME>ちゃんに　好きなとくぎを|　覚えさせることが　できるわ！|<end>": ""
     },
     "72": {
-        "「好きなとくぎを　覚えさせることができるけど|　新しい　とくぎを覚えなくても　いいの？|<yesno2><break>": ""
+        "「好きなとくぎを　覚えさせることができるけど|　新しい　とくぎを覚えなくても　いいの？|<yesno2><break>": "Keep the skills you currently have without|learning any new ones?|<yesno2><break>"
     },
     "73": {
         "「わかったわ。<bw_break>": ""
     },
     "74": {
-        "「覚えさせたい　とくぎを　選んであげて。|<break>": ""
+        "「覚えさせたい　とくぎを　選んであげて。|<break>": "Choose the skills you want to learn.|<break>"
     },
     "75": {
         "<se_nots System 35>|「あれ？　<%sM_ACTIVE_SLIME>ちゃんが|　何かを　ひらめいたみたいだわ！|<end>": ""
