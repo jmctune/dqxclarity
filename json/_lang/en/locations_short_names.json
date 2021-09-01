@@ -3387,7 +3387,7 @@
         "clarity_nt_char_358": "clarity_nt_char_358"
     },
     "1130": {
-        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>禁断の魔蔵庫<%sW_AUTODUNG_CF>": ""
+        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>禁断の魔蔵庫<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%dW_AUTODUNG_LV><%sW_DELIMITER>Forbidden Storage<%sW_AUTODUNG_CF>"
     },
     "1131": {
         "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>永久封鎖機巧<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%dW_AUTODUNG_LV><%sW_DELIMITER>Sealed Chamber<%sW_AUTODUNG_CF>"
@@ -3999,7 +3999,7 @@
         "clarity_nt_char_420": "clarity_nt_char_420"
     },
     "1334": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>禁断の魔蔵庫": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>禁断の魔蔵庫": "<%sW_MAP_NAME><%sW_DELIMITER>Forbidden Storage"
     },
     "1335": {
         "<%sW_MAP_NAME><%sW_DELIMITER>永久封鎖機巧": "<%sW_MAP_NAME><%sW_DELIMITER>Sealed Chamber"
