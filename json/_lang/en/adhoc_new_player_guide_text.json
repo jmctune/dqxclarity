@@ -69,7 +69,7 @@
         "レベル30以上": ""
     },
     "24": {
-        "クエスト『ドキドキ湯けむり事件！？』クリア": ""
+        "クエスト『ドキドキ湯けむり事件！？』クリア": "Quest \"Pounding Hot Spring Incident\" Clear"
     },
     "25": {
         "紫のキーエンブレムを持っている": ""
@@ -81,7 +81,7 @@
         "clarity_nt_char_27": "clarity_nt_char_27"
     },
     "28": {
-        "クエスト『家族のもとへ』クリア": ""
+        "クエスト『家族のもとへ』クリア": "Quest \"Go To Your Family\" Clear"
     },
     "29": {
         "メインストーリー『紡がれし勇気の絆のおはなし』クリア": ""
@@ -99,7 +99,7 @@
         "clarity_nt_char_33": "clarity_nt_char_33"
     },
     "34": {
-        "クエスト『集結！　叡智の冠』クリア": ""
+        "クエスト『集結！　叡智の冠』クリア": "Quest \"Gathering! Wisdom Crown\" Clear"
     },
     "35": {
         "不思議の魔塔へ行ける": ""
@@ -189,7 +189,7 @@
         "clarity_nt_char_63": "clarity_nt_char_63"
     },
     "64": {
-        "クエスト『生き返る村』クリア": ""
+        "クエスト『生き返る村』クリア": "Quest \"Village Revived\" Clear"
     },
     "65": {
         "clarity_nt_char_65": "clarity_nt_char_65"
@@ -198,7 +198,7 @@
         "邪神の宮殿": ""
     },
     "67": {
-        "クエスト『飛竜の巣へ』クリア": ""
+        "クエスト『飛竜の巣へ』クリア": "Quest \"To Dragon Nest\" Clear"
     },
     "68": {
         "clarity_nt_char_68": "clarity_nt_char_68"
@@ -222,13 +222,13 @@
         "clarity_nt_char_74": "clarity_nt_char_74"
     },
     "75": {
-        "クエスト『忘れられた誓い』クリア": ""
+        "クエスト『忘れられた誓い』クリア": "Quest \"A Forgotten Vow\" Clear"
     },
     "76": {
         "clarity_nt_char_76": "clarity_nt_char_76"
     },
     "77": {
-        "クエスト『ディエゴからの試練』クリア": ""
+        "クエスト『ディエゴからの試練』クリア": "Quest \"Trials From Diego\" Clear"
     },
     "78": {
         "clarity_nt_char_78": "clarity_nt_char_78"
@@ -258,7 +258,7 @@
         "clarity_nt_char_86": "clarity_nt_char_86"
     },
     "87": {
-        "コロシアム": "Colosseum"
+        "コロシアム": "Coliseum"
     },
     "88": {
         "極致への道標": ""
@@ -267,7 +267,7 @@
         "clarity_nt_char_89": "clarity_nt_char_89"
     },
     "90": {
-        "クエスト『はるかなる釣り道「その者　釣り老師」』クリア": ""
+        "クエスト『はるかなる釣り道「その者　釣り老師」』クリア": "Quest \"Faraway Fishing Path 'The Master of Fishing'\" Clear"
     },
     "91": {
         "輝晶獣と輝晶効果": ""
@@ -297,7 +297,7 @@
         "『まもの使い』または『どうぐ使い』に転職できる": ""
     },
     "100": {
-        "クエスト『ベジセルクの咆哮』クリア": ""
+        "クエスト『ベジセルクの咆哮』クリア": "Quest \"Vegiselk's Roar\" Clear"
     },
     "101": {
         "隠れスライムフェスティバル": ""
@@ -309,7 +309,7 @@
         "clarity_nt_char_103": "clarity_nt_char_103"
     },
     "104": {
-        "『英雄はすべてを救う』『明日へのコーダ』『魔物たちの挽歌』クリア": ""
+        "『英雄はすべてを救う』『明日へのコーダ』『魔物たちの挽歌』クリア": "\"A Hero Saves All\", \"Coda's Tomorrow\", \"Monster's Elegy\" Clear"
     },
     "105": {
         "clarity_nt_char_105": "clarity_nt_char_105"
@@ -384,7 +384,7 @@
         "フィールドにいるモンスターを討伐するクエストです。|１週間に１回　<%sW_REP_MAX_2ND_F>三門の関所や<%sW_REP_MAX_2ND_R>グランゼドーラ王国にいる|討伐隊員から依頼を受けることができます。|経験値を稼ぎたい冒険者さんにオススメのクエストです。": ""
     },
     "129": {
-        "クエスト『あの人に追いつきたくて』クリア": ""
+        "クエスト『あの人に追いつきたくて』クリア": "Quest \"I Want to Catch Up with Him\" Clear"
     },
     "130": {
         "clarity_nt_char_130": "clarity_nt_char_130"
@@ -1011,7 +1011,7 @@
         "強戦士の書": ""
     },
     "338": {
-        "まもの博士の研究レポート": ""
+        "まもの博士の研究レポート": "Monster Doctor Study Report"
     },
     "339": {
         "clarity_nt_char_339": "clarity_nt_char_339"
@@ -1023,7 +1023,7 @@
         "clarity_nt_char_341": "clarity_nt_char_341"
     },
     "342": {
-        "神話篇": ""
+        "神話篇": "Mythology"
     },
     "343": {
         "夢現篇": ""
@@ -1098,7 +1098,7 @@
         "エステラの部屋": ""
     },
     "367": {
-        "メレアーデのお部屋": ""
+        "メレアーデのお部屋": "Mereade's Room"
     },
     "368": {
         "ガニャポン": ""

@@ -1464,7 +1464,7 @@
         "clarity_nt_char_163": "clarity_nt_char_163"
     },
     "489": {
-        "コロシアムポイントランキング": "Colosseum Point Rank"
+        "コロシアムポイントランキング": "Coliseum Point Rank"
     },
     "490": {
         "clarity_nt_char_164": "clarity_nt_char_164"
@@ -1560,7 +1560,7 @@
         "clarity_nt_char_175": "clarity_nt_char_175"
     },
     "521": {
-        "コロシアムポイント": "Colosseum Points"
+        "コロシアムポイント": "Coliseum Points"
     },
     "522": {
         "位": "Lvl"
@@ -8298,7 +8298,7 @@
         "どの職業？": "Which class?"
     },
     "2767": {
-        "バトル時とくぎ": "Edit Abilities"
+        "バトル時とくぎ": "Edit Skills"
     },
     "2768": {
         "バトル時じゅもん": "Edit Spells"
@@ -9729,7 +9729,7 @@
         "思い出アルバム　<%03dM_01> - <%03dM_02>": "Photo Album <%03dM_01> - <%03dM_02>"
     },
     "3244": {
-        "コロシアム": "Colosseum"
+        "コロシアム": "Coliseum"
     },
     "3245": {
         "仲間モンスター": ""
@@ -10749,7 +10749,7 @@
         "clarity_nt_char_1231": "clarity_nt_char_1231"
     },
     "3584": {
-        "目標数": ""
+        "目標数": "Totals"
     },
     "3585": {
         "クリア！": "Clear!"
@@ -10809,7 +10809,7 @@
         "clarity_nt_char_1238": "clarity_nt_char_1238"
     },
     "3604": {
-        "残り<%2dM_mm>分": "<%2dM_mm>min. Left"
+        "残り<%2dM_mm>分": "<%2dM_mm> m. Left"
     },
     "3605": {
         "clarity_nt_char_1239": "clarity_nt_char_1239"
@@ -11361,7 +11361,7 @@
         "カウンター": "Counter"
     },
     "3788": {
-        "タンス": ""
+        "タンス": "Wardrobe"
     },
     "3789": {
         "チェスト": ""
@@ -11547,7 +11547,7 @@
         "clarity_nt_char_1317": "clarity_nt_char_1317"
     },
     "3850": {
-        "コロシアムバトルの 準備をしています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Preparing for Colosseum Battle..."
+        "コロシアムバトルの 準備をしています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Preparing for Coliseum Battle..."
     },
     "3851": {
         "コロシアム経験値": ""
@@ -12531,7 +12531,7 @@
         "リプレイほうしゅう": "Replay Reward"
     },
     "4178": {
-        "コロシアム参加": "Colosseum Battle"
+        "コロシアム参加": "Coliseum Battle"
     },
     "4179": {
         "すぐに復活する": ""
@@ -13545,7 +13545,7 @@
         "いれかえる": ""
     },
     "4516": {
-        "（なかまモンスターを選択）": ""
+        "（なかまモンスターを選択）": "(Choose Fellow Monster)"
     },
     "4517": {
         "［レベルアップ！］": "Level up!"
@@ -13809,7 +13809,7 @@
         "clarity_nt_char_1573": "clarity_nt_char_1573"
     },
     "4604": {
-        "期間：": ""
+        "期間：": "Period:"
     },
     "4605": {
         "<%2dM_cal_MM>月<%2dM_cal_DD>日 ～ <%2dM_cal_MM2>月<%2dM_cal_DD2>日": "<%2dM_cal_MM>/<%2dM_cal_DD> - <%2dM_cal_MM2>/<%2dM_cal_DD2>"
@@ -14553,7 +14553,7 @@
         "わたすもの": "Items"
     },
     "4852": {
-        "[なつき度上限]": "[Max. Happiness]"
+        "[なつき度上限]": "[Maximum]"
     },
     "4853": {
         "clarity_nt_char_1647": "clarity_nt_char_1647"
@@ -14880,7 +14880,7 @@
         "clarity_nt_char_1685": "clarity_nt_char_1685"
     },
     "4961": {
-        "景品交換所について": ""
+        "景品交換所について": "About Prize Exchange"
     },
     "4962": {
         "試験官について": ""
@@ -15042,7 +15042,7 @@
         "報酬を受け取る": ""
     },
     "5015": {
-        "次の特訓目標まで：": ""
+        "次の特訓目標まで：": "Next Stamp Goal:"
     },
     "5016": {
         "さくせん：": "Misc.:"
@@ -15087,7 +15087,7 @@
         "clarity_nt_char_1704": "clarity_nt_char_1704"
     },
     "5030": {
-        "バトルロード": ""
+        "バトルロード": "Battle Road"
     },
     "5031": {
         "clarity_nt_char_1705": "clarity_nt_char_1705"
@@ -15687,7 +15687,7 @@
         "料理の効果": "Food Effect"
     },
     "5230": {
-        "残り効果時間": "Effect Time Left"
+        "残り効果時間": "Effect Duration"
     },
     "5231": {
         "clarity_nt_char_1778": "clarity_nt_char_1778"
@@ -15834,7 +15834,7 @@
         "clarity_nt_char_1796": "clarity_nt_char_1796"
     },
     "5279": {
-        "ミネアのカード": ""
+        "ミネアのカード": "Minea's Card"
     },
     "5280": {
         "合成ポイント": ""
@@ -16569,7 +16569,7 @@
         "カメラの方向に": "Face Camera"
     },
     "5524": {
-        "表示を切り替える": ""
+        "表示を切り替える": "Switch Display"
     },
     "5525": {
         "clarity_nt_char_1884": "clarity_nt_char_1884"
@@ -18876,7 +18876,7 @@
         "プレゼント": ""
     },
     "6293": {
-        "手に入るもの": ""
+        "手に入るもの": "Obtainable"
     },
     "6294": {
         "clarity_nt_char_2142": "clarity_nt_char_2142"
@@ -19374,13 +19374,13 @@
         "clarity_nt_char_2202": "clarity_nt_char_2202"
     },
     "6459": {
-        "<%sM_monster>種の特徴": "<%sM_monster> Features"
+        "<%sM_monster>種の特徴": "<%sM_monster> Feature"
     },
     "6460": {
         "<%sM_00>型": "<%sM_00>Typ"
     },
     "6461": {
-        "チャンピオンシップ": ""
+        "チャンピオンシップ": "Championship"
     },
     "6462": {
         "モンスタータロット図鑑": "Monster Tarot List"
@@ -19716,7 +19716,7 @@
         "自己ベスト": ""
     },
     "6573": {
-        "どれをわすれる？": ""
+        "どれをわすれる？": "Forget which?"
     },
     "6574": {
         "clarity_nt_char_2240": "clarity_nt_char_2240"
@@ -19794,7 +19794,7 @@
         "clarity_nt_char_2249": "clarity_nt_char_2249"
     },
     "6599": {
-        "すばやイチゴ": ""
+        "すばやイチゴ": "Agile Strawberry"
     },
     "6600": {
         "clarity_nt_char_2250": "clarity_nt_char_2250"
@@ -19803,7 +19803,7 @@
         "エムピーナッツ": "MP Nuts"
     },
     "6602": {
-        "ぶっとび草": ""
+        "ぶっとび草": "Surprise Grass"
     },
     "6603": {
         "もらえるスライム": ""
@@ -19992,7 +19992,7 @@
         "clarity_nt_char_2271": "clarity_nt_char_2271"
     },
     "6665": {
-        "あげるエサ：": "Bait To Give:"
+        "あげるエサ：": "Give Bait:"
     },
     "6666": {
         "clarity_nt_char_2272": "clarity_nt_char_2272"
@@ -20025,13 +20025,13 @@
         "セットしていません": "Not Set"
     },
     "6676": {
-        "さくせんを決めてください": ""
+        "さくせんを決めてください": "Please choose skills."
     },
     "6677": {
         "clarity_nt_char_2277": "clarity_nt_char_2277"
     },
     "6678": {
-        "で使うとくぎ": "Trigger used at"
+        "で使うとくぎ": "Skill Used"
     },
     "6679": {
         "clarity_nt_char_2278": "clarity_nt_char_2278"
@@ -22800,7 +22800,7 @@
         "clarity_nt_char_2575": "clarity_nt_char_2575"
     },
     "7601": {
-        "参加賞：": ""
+        "参加賞：": "Prize:"
     },
     "7602": {
         "clarity_nt_char_2576": "clarity_nt_char_2576"
@@ -23844,7 +23844,7 @@
         "clarity_nt_char_2687": "clarity_nt_char_2687"
     },
     "7949": {
-        "メレアーデのお部屋": ""
+        "メレアーデのお部屋": "Mereade's Room"
     },
     "7950": {
         "お部屋のネコのお世話": ""
@@ -24684,19 +24684,19 @@
         "clarity_nt_char_2783": "clarity_nt_char_2783"
     },
     "8229": {
-        "フロアを探索して 下の階へ進む|くだりの扉を 見つけましょう。|残った海神のうろこは 下の階に|持っていくことが できます。": ""
+        "フロアを探索して 下の階へ進む|くだりの扉を 見つけましょう。|残った海神のうろこは 下の階に|持っていくことが できます。": "Explore the rooms to find the|door to the next floor.|You can take your Dark|Sea Orbs with you."
     },
     "8230": {
         "clarity_nt_char_2784": "clarity_nt_char_2784"
     },
     "8231": {
-        "光る宝箱には できのよい装備品が|封印されています。|強敵モンスターが 守っているため|準備をととのえて 挑みましょう。": ""
+        "光る宝箱には できのよい装備品が|封印されています。|強敵モンスターが 守っているため|準備をととのえて 挑みましょう。": "Strong equipment lies in|glowing chests. Powerful|enemies guard them, so|prepare yourself."
     },
     "8232": {
         "clarity_nt_char_2785": "clarity_nt_char_2785"
     },
     "8233": {
-        "特訓しない": ""
+        "特訓しない": "Unavailable"
     },
     "8234": {
         "[<%dM_rank>位]": "[<%dM_rank>Pl.]"
@@ -24813,7 +24813,7 @@
         "衣装券ケースは　からっぽのようだ。": "The costume ticket case seems to be empty."
     },
     "8272": {
-        "地下15階からの探索では|紅海神のうろこが 出現します。|亀裂のある壁に 使うことで|壁向こうの部屋へ 移動できます。": ""
+        "地下15階からの探索では|紅海神のうろこが 出現します。|亀裂のある壁に 使うことで|壁向こうの部屋へ 移動できます。": "From B15F, Red Sea God|Scales will appear.|Use on the cracked walls|to move between rooms."
     },
     "8273": {
         "衣装券ケース": "Costume Ticket Box"
@@ -25209,10 +25209,10 @@
         "clarity_nt_char_2844": "clarity_nt_char_2844"
     },
     "8404": {
-        "とくぎ確認": "Special Skill"
+        "とくぎ確認": "Known Skills"
     },
     "8405": {
-        "とくぎ選択": "Choice of tech"
+        "とくぎ選択": "Choose Skill"
     },
     "8406": {
         "達成度": ""
@@ -25251,13 +25251,13 @@
         "Lv <%dM_lv>": "Lv <%dM_lv>"
     },
     "8418": {
-        "再エントリーする": ""
+        "再エントリーする": "Re-entries"
     },
     "8419": {
         "clarity_nt_char_2845": "clarity_nt_char_2845"
     },
     "8420": {
-        "大会予選": ""
+        "大会予選": "Qualifier"
     },
     "8421": {
         "clarity_nt_char_2846": "clarity_nt_char_2846"
@@ -25281,7 +25281,7 @@
         "clarity_nt_char_2849": "clarity_nt_char_2849"
     },
     "8428": {
-        "スキップ": ""
+        "スキップ": "Skip"
     },
     "8429": {
         "clarity_nt_char_2850": "clarity_nt_char_2850"
@@ -25473,13 +25473,13 @@
         "職業ランク一覧": ""
     },
     "8492": {
-        "レース参加費": ""
+        "レース参加費": "Race Prize"
     },
     "8493": {
         "clarity_nt_char_2874": "clarity_nt_char_2874"
     },
     "8494": {
-        "予選獲得ポイント": ""
+        "予選獲得ポイント": "Qualifying Points"
     },
     "8495": {
         "clarity_nt_char_2875": "clarity_nt_char_2875"
@@ -25650,16 +25650,16 @@
         "条件「<%sM_CLEARJOUKEN>」を達成！": ""
     },
     "8551": {
-        "試合数": ""
+        "試合数": "Games"
     },
     "8552": {
-        "試合": ""
+        "試合": " "
     },
     "8553": {
         "clarity_nt_char_2889": "clarity_nt_char_2889"
     },
     "8554": {
-        "回可能": ""
+        "回可能": "Times"
     },
     "8555": {
         "他のメンバーがそろうのを 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Waiting for other members..."
@@ -26292,7 +26292,7 @@
         "clarity_nt_char_2965": "clarity_nt_char_2965"
     },
     "8765": {
-        "<%sM_bui>の防具　に限定されています": "Limited to <%sM_bui> armor"
+        "<%sM_bui>の防具　に限定されています": "Limited to <%sM_bui> Armor"
     },
     "8766": {
         "clarity_nt_char_2966": "clarity_nt_char_2966"
@@ -27015,7 +27015,7 @@
         "clarity_nt_char_3043": "clarity_nt_char_3043"
     },
     "9006": {
-        "ミネア": ""
+        "ミネア": "Minea"
     },
     "9007": {
         "時": "h."
@@ -27624,7 +27624,7 @@
         "clarity_nt_char_3107": "clarity_nt_char_3107"
     },
     "9209": {
-        "常に効果": ""
+        "常に効果": "Passive"
     },
     "9210": {
         "clarity_nt_char_3108": "clarity_nt_char_3108"
@@ -28050,7 +28050,7 @@
         "clarity_nt_char_3152": "clarity_nt_char_3152"
     },
     "9351": {
-        "地下10階からの探索で 出現する|ふしぎな燭台は 起動することで|くだりの扉の場所が わかります。|状況をみて 活用しましょう。": ""
+        "地下10階からの探索で 出現する|ふしぎな燭台は 起動することで|くだりの扉の場所が わかります。|状況をみて 活用しましょう。": "Starting in B10F, Mystery|Candlesticks will begin|to appear. Make sure to|use them if you see them."
     },
     "9352": {
         "clarity_nt_char_3153": "clarity_nt_char_3153"
@@ -28206,13 +28206,13 @@
         "げんまの見た目設定": ""
     },
     "9403": {
-        "ジョーカー２枚": "Joker 2"
+        "ジョーカー２枚": "2 Jokers"
     },
     "9404": {
-        "８斬り": "8 cuts"
+        "８斬り": "Cut 8"
     },
     "9405": {
-        "反則あがり": ""
+        "反則あがり": "Foul Play"
     },
     "9406": {
         "革命": "Revolt"
@@ -28227,13 +28227,13 @@
         "clarity_nt_char_3169": "clarity_nt_char_3169"
     },
     "9410": {
-        "スライム革命": ""
+        "スライム革命": "Slime Revolt"
     },
     "9411": {
         "clarity_nt_char_3170": "clarity_nt_char_3170"
     },
     "9412": {
-        "階段": ""
+        "階段": "Stairs"
     },
     "9413": {
         "clarity_nt_char_3171": "clarity_nt_char_3171"
@@ -28245,31 +28245,31 @@
         "数しば": ""
     },
     "9416": {
-        "都落ち": ""
+        "都落ち": "Fleeing"
     },
     "9417": {
-        "Ｑボンバー": "Q-Bomber"
+        "Ｑボンバー": "Q Bomber"
     },
     "9418": {
-        "11バック": "11 back"
+        "11バック": "Back 11"
     },
     "9419": {
-        "10ステ": "10-step"
+        "10ステ": "Step 10"
     },
     "9420": {
         "clarity_nt_char_3172": "clarity_nt_char_3172"
     },
     "9421": {
-        "７パサー": "7-passer"
+        "７パサー": "Pass 7"
     },
     "9422": {
         "clarity_nt_char_3173": "clarity_nt_char_3173"
     },
     "9423": {
-        "９リバース": "9 Reverse"
+        "９リバース": "Reverse 9"
     },
     "9424": {
-        "スペ３返し": ""
+        "スペ３返し": "Return 3 Spades"
     },
     "9425": {
         "追加ルール": "More Rules"
@@ -28311,7 +28311,7 @@
         "clarity_nt_char_3176": "clarity_nt_char_3176"
     },
     "9438": {
-        "５スキップ": "5 skips"
+        "５スキップ": "Skip 5"
     },
     "9439": {
         "強化結果": "Upgr. result"
@@ -29565,7 +29565,7 @@
         "clarity_nt_char_3322": "clarity_nt_char_3322"
     },
     "9856": {
-        "地下20階からの探索では|ふしぎな三面鏡が 出現します。|部屋に何があるかを 調べられて|中身を変えてしまうことも。": ""
+        "地下20階からの探索では|ふしぎな三面鏡が 出現します。|部屋に何があるかを 調べられて|中身を変えてしまうことも。": "From B20F, a Mystery|Mirror may appear. Use it|to see a room's contents|and change them."
     },
     "9857": {
         "clarity_nt_char_3323": "clarity_nt_char_3323"
@@ -30384,31 +30384,31 @@
         "探索を止め　地上に戻ります。|獲得した　冥海の光玉は|消えてしまいます。|使用した聖紋も　戻りません。": "Stop exploring and go back|above ground. You'll lose any|Dark Sea Orbs and any|Zelmea crests you used."
     },
     "10129": {
-        "下の階に　進みます。": ""
+        "下の階に　進みます。": "Goes down one floor."
     },
     "10130": {
         "clarity_nt_char_3408": "clarity_nt_char_3408"
     },
     "10131": {
-        "海神のうろこが　１つ|手に入ります。": "Received 1 Sea God's Scale."
+        "海神のうろこが　１つ|手に入ります。": "Receive 1 Sea God's Scale."
     },
     "10132": {
         "clarity_nt_char_3409": "clarity_nt_char_3409"
     },
     "10133": {
-        "海神のうろこが　３つ|手に入ります。": "Received 3 Sea God's Scales."
+        "海神のうろこが　３つ|手に入ります。": "Receive 3 Sea God's Scales."
     },
     "10134": {
         "clarity_nt_char_3410": "clarity_nt_char_3410"
     },
     "10135": {
-        "海神のうろこが　２つ|手に入ります。": "Received 2 Sea God's Scales."
+        "海神のうろこが　２つ|手に入ります。": "Receive 2 Sea God's Scales."
     },
     "10136": {
         "clarity_nt_char_3411": "clarity_nt_char_3411"
     },
     "10137": {
-        "紅海神のうろこが　１つ|手に入ります。|扉のない壁に　亀裂を生み|先の部屋に　進めます。": "You can get a Red Sea God's|Scale. Try to find a red crack|in the wall somewhere!"
+        "紅海神のうろこが　１つ|手に入ります。|扉のない壁に　亀裂を生み|先の部屋に　進めます。": "Receive a Red Sea God's|Scale. Try to find a red|crack in the wall somewhere!"
     },
     "10138": {
         "clarity_nt_char_3412": "clarity_nt_char_3412"
@@ -30438,43 +30438,43 @@
         "clarity_nt_char_3416": "clarity_nt_char_3416"
     },
     "10147": {
-        "モンスターが　出現します。|倒すと　宝箱を|開けることが　できます。": ""
+        "モンスターが　出現します。|倒すと　宝箱を|開けることが　できます。": "A monster will appear. It|will leave behind a chest|when defeated."
     },
     "10148": {
         "clarity_nt_char_3417": "clarity_nt_char_3417"
     },
     "10149": {
-        "モンスターが　出現します。": ""
+        "モンスターが　出現します。": "A monster will appear."
     },
     "10150": {
-        "ゲノミーが　出現します。": ""
+        "ゲノミーが　出現します。": "A Genomy will appear."
     },
     "10151": {
         "clarity_nt_char_3418": "clarity_nt_char_3418"
     },
     "10152": {
-        "強力なモンスターが|出現します。|倒すと　光る宝箱を|開けることが　できます。": ""
+        "強力なモンスターが|出現します。|倒すと　光る宝箱を|開けることが　できます。": "A strong monster will|appear. It will leave behind|a chest when defeated."
     },
     "10153": {
-        "ふしぎな燭台・青が|設置されています。|起動すると　ひとつ下の階で|不思議なことが　起こります。": ""
+        "ふしぎな燭台・青が|設置されています。|起動すると　ひとつ下の階で|不思議なことが　起こります。": "The Blue Candlestick will|send you down one floor|with strange things|bound to happen."
     },
     "10154": {
         "clarity_nt_char_3419": "clarity_nt_char_3419"
     },
     "10155": {
-        "ふしぎな燭台・赤が|設置されています。|起動すると　ひとつ下の階で|不思議なことが　起こります。": ""
+        "ふしぎな燭台・赤が|設置されています。|起動すると　ひとつ下の階で|不思議なことが　起こります。": "The Red Candlestick will|send you down one floor|with strange things|bound to happen."
     },
     "10156": {
         "clarity_nt_char_3420": "clarity_nt_char_3420"
     },
     "10157": {
-        "ふしぎな燭台・白が|設置されています。|起動すると　ひとつ下の階で|不思議なことが　起こります。": ""
+        "ふしぎな燭台・白が|設置されています。|起動すると　ひとつ下の階で|不思議なことが　起こります。": "The White Candlestick will|send you down one floor|with strange things|bound to happen."
     },
     "10158": {
         "clarity_nt_char_3421": "clarity_nt_char_3421"
     },
     "10159": {
-        "ふしぎな燭台・黄が|設置されています。|起動すると　ひとつ下の階で|不思議なことが　起こります。": ""
+        "ふしぎな燭台・黄が|設置されています。|起動すると　ひとつ下の階で|不思議なことが　起こります。": "The Yellow Candlestick will|send you down one floor|with strange things|bound to happen."
     },
     "10160": {
         "clarity_nt_char_3422": "clarity_nt_char_3422"
@@ -30483,16 +30483,16 @@
         "ふしぎな水鏡が　使えます。|未探索の部屋を　指定して|その部屋に　何があるか|調べることが　できます。": ""
     },
     "10162": {
-        "ふしぎな三面鏡が　使えます。|未探索の部屋に　何があるか|調べて　内容をよりよいものに|変化させることも　あります。": ""
+        "ふしぎな三面鏡が　使えます。|未探索の部屋に　何があるか|調べて　内容をよりよいものに|変化させることも　あります。": "The Mystery Mirror lets you|see the contents of an|unexplored room and change|to something better."
     },
     "10163": {
         "clarity_nt_char_3423": "clarity_nt_char_3423"
     },
     "10164": {
-        "はざまの扉に　入ると|強力な敵が　いるフロア|はざまの回廊に　進みます。|元のフロアには　戻れません。": ""
+        "はざまの扉に　入ると|強力な敵が　いるフロア|はざまの回廊に　進みます。|元のフロアには　戻れません。": "The Threshold Door leads to|a floor with powerful|enemies. You cannot return|to the original floor."
     },
     "10165": {
-        "このフロアを　移動する|怪しい姿の冒険者です。|話しかけると　いいことが　|あるかもしれません。": ""
+        "このフロアを　移動する|怪しい姿の冒険者です。|話しかけると　いいことが　|あるかもしれません。": "A mysterious adventurer who|moves between rooms. He|might have something good|if you talk to him."
     },
     "10166": {
         "clarity_nt_char_3424": "clarity_nt_char_3424"
@@ -30552,7 +30552,7 @@
         "装備スキル": ""
     },
     "10185": {
-        "装備を見る": ""
+        "装備を見る": "View Equips"
     },
     "10186": {
         "ボスコイン無料券": "Free Boss Coin Ticket"
@@ -30861,7 +30861,7 @@
         "受け取りにきた": ""
     },
     "10288": {
-        "選択したレベルの防具": ""
+        "選択したレベルの防具": "Choose Gear Level"
     },
     "10289": {
         "clarity_nt_char_3470": "clarity_nt_char_3470"
@@ -31215,7 +31215,7 @@
         "clarity_nt_char_3510": "clarity_nt_char_3510"
     },
     "10406": {
-        "ポイントランク詳細": ""
+        "ポイントランク詳細": "Point Rank Details"
     },
     "10407": {
         "花火２": "Fworks 2"

@@ -75,7 +75,7 @@
         "<speed=0><%sM_pc>を　仲間に　さそいました。|相手の　返事を待ちましょう。": "<speed=0>Party invite sent to <%sM_pc>.|Please wait for their response."
     },
     "26": {
-        "<speed=0><%sM_pc>を　仲間に　さそいますか？|<yesno><close>": "<speed=0>Do you want to invite <%sM_pc> to join you?|<yesno><close>"
+        "<speed=0><%sM_pc>を　仲間に　さそいますか？|<yesno><close>": "<speed=0>Invite <%sM_pc> to your party?|<yesno><close>"
     },
     "27": {
         "<speed=0><%sM_pc>に　仲間に誘われました。|<%sM_pc>の仲間に　入りますか？<yesno><close>": "<speed=0>I've been invited to join <%sM_pc>.|<Do you want to join <%sM_pc>'s group? <yesno><close>"
@@ -2832,7 +2832,7 @@
         "clarity_nt_char_319": "clarity_nt_char_319"
     },
     "945": {
-        "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Seems pretty strong…|Number of kills: <%dM_kill_num> <%sM_saw>"
+        "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Seems pretty strong...|Number of kills: <%dM_kill_num> <%sM_saw>"
     },
     "946": {
         "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Probably best not to mess with it...|Number of kills: <%dM_kill_num> <%sM_saw>"
@@ -3051,7 +3051,7 @@
         "どこに　行きますか？<break>": "Where do you want to go?<break>"
     },
     "1018": {
-        "どのサーバーに　戻りますか？<break>": "Which server should I return to?<break>"
+        "どのサーバーに　戻りますか？<break>": "Return to which server?<break>"
     },
     "1019": {
         "<speed=0>他のメンバーが　勧誘中のため　入隊希望を|断れませんでした。": ""
@@ -3285,7 +3285,7 @@
         "clarity_nt_char_366": "clarity_nt_char_366"
     },
     "1096": {
-        "コロシアムに　行けないメンバーがいるため|エントリーが　キャンセルされました。": "Entry was cancelled due to some members|not being able to enter the Colosseum."
+        "コロシアムに　行けないメンバーがいるため|エントリーが　キャンセルされました。": "Entry was cancelled due to some members|not being able to enter the Coliseum."
     },
     "1097": {
         "コロシアムバトルの準備に　失敗しました。|お手数ですが　しばらく時間をあけてから|もう一度　やり直してください。": ""
@@ -3789,7 +3789,7 @@
         "<speed=0>しかし　装備の仕方がわからなかった！": ""
     },
     "1264": {
-        "<speed=0>これ以上　コロシアムでは　使えない！": "<speed=0>No more can be used in the Colosseum!"
+        "<speed=0>これ以上　コロシアムでは　使えない！": "<speed=0>No more can be used in the Coliseum!"
     },
     "1265": {
         "<speed=0><%sM_enemy>は　みやぶることができない！": ""
@@ -4860,7 +4860,7 @@
         "clarity_nt_char_548": "clarity_nt_char_548"
     },
     "1621": {
-        "<speed=0>このまま　魔法の迷宮を続ける場合は|近くにいる　ツヅケルに　話しかけよう。<close>": ""
+        "<speed=0>このまま　魔法の迷宮を続ける場合は|近くにいる　ツヅケルに　話しかけよう。<close>": "<speed=0>If you want to continue in the Magic|Maze, talk to Tsuzukeru.<close>"
     },
     "1622": {
         "<speed=0>パーティ同盟の　さそいを受けましたが|条件を　満たしていませんでした。<br>|条件を満たすには　真のグランゼドーラ王国で|受けられる　クエスト『悪夢の終焉』を|受ける必要があります。": ""
@@ -6954,7 +6954,7 @@
         "<speed=0>ここで　表示設定は　変更できません。": ""
     },
     "2319": {
-        "<pc>は　<%sM_item><%sM_plusnum>が|封印された　冥海の光玉を手に入れた！<se_nots System 7>": "<pc> received <%sM_item><%sM_plusnum> from a sealed Dark Sea Orb!"
+        "<pc>は　<%sM_item><%sM_plusnum>が|封印された　冥海の光玉を手に入れた！<se_nots System 7>": "<pc> received <%sM_item><%sM_plusnum>|from a sealed Dark Sea Orb!"
     },
     "2320": {
         "<color_yellow>『冥海の光玉』の　説明です！|<br>|いにしえのゼルメアで　手に入る|冥海の光玉には　さまざまな装備品が|封印されています。|<br>|いにしえのゼルメアの　出口に到達することで|封印を解いて　中に入っている装備品を|取り出すことができます。|<br>|途中で　戦いに敗れたり|探索を中断すると　冥海の光玉は|失われてしまいます。|<br>|探索中に手に入れた　冥海の光玉は|メインコマンドを開き　『冥海の光玉を見る』から|確認することができます。": "<color_yellow>This will explain \"Dark Sea Orbs!\"|<br>|Dark Sea Orbs contain various pieces of|equipment, in which you find inside Zelmea.|<br>|If you manage to reach the Zelmea's exit, you|can break the seal on the orbs and receive|the equipment contained within.|<br>|However, if you fall in battle or leave early, you will|lose all of your orbs, so be careful.|<br>|You can check the orbs you've already obtained|with the \"View Dark Sea Orbs\" command."
@@ -9003,7 +9003,7 @@
         "clarity_nt_char_1013": "clarity_nt_char_1013"
     },
     "3002": {
-        "<speed=0>この誘いを受けるには|モコモコハウスにいる　ロスターに|話しかけてください。": ""
+        "<speed=0>この誘いを受けるには|モコモコハウスにいる　ロスターに|話しかけてください。": "<speed=0>To receive this invitation, talk to|Roster in the Mokomoko House."
     },
     "3003": {
         "<speed=0>元の装備品か　ドレスアップに使った装備品に|異なる性別の装備品を　使っているので|装備できません！": ""
@@ -9354,7 +9354,7 @@
         "<speed=0><pc>は　底なしの穴を　のぞいた。|あと　<%dEV_PENALTY>分　経たないと　入れないようだ。": ""
     },
     "3119": {
-        "叡智の冠": ""
+        "叡智の冠": "Wisdom Crown"
     },
     "3120": {
         "clarity_nt_char_1052": "clarity_nt_char_1052"

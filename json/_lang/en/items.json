@@ -10281,7 +10281,7 @@
         "キングヒドラコイン": "King Hydra Coin"
     },
     "3428": {
-        "ゴルスラメダル": "Golsla Medal"
+        "ゴルスラメダル": "Gem Slime Medal"
     },
     "3429": {
         "メタキンメダル": "Metal King Medal"
@@ -10458,10 +10458,10 @@
         "しぐさ書・怒る": ""
     },
     "3487": {
-        "しぐさ書・おびえる": ""
+        "しぐさ書・おびえる": "Emote Book \"Scared\""
     },
     "3488": {
-        "しぐさ書・ショック": ""
+        "しぐさ書・ショック": "Emote Book \"Shock\""
     },
     "3489": {
         "しぐさ書・とまどう": ""
@@ -20202,46 +20202,46 @@
         "clarity_nt_char_2020": "clarity_nt_char_2020"
     },
     "6735": {
-        "ポーンのピース・白": ""
+        "ポーンのピース・白": "White Pawn Piece"
     },
     "6736": {
-        "ルークのピース・白": ""
+        "ルークのピース・白": "White Rook Piece"
     },
     "6737": {
-        "ビショップのピース・白": ""
+        "ビショップのピース・白": "White Bishop Piece"
     },
     "6738": {
-        "ナイトのピース・白": ""
+        "ナイトのピース・白": "White Knight Piece"
     },
     "6739": {
-        "クイーンのピース・白": "White Queen Chess Piece"
+        "クイーンのピース・白": "White Queen Piece"
     },
     "6740": {
         "clarity_nt_char_2021": "clarity_nt_char_2021"
     },
     "6741": {
-        "キングのピース・白": "White King's Piece"
+        "キングのピース・白": "White King Piece"
     },
     "6742": {
-        "ポーンのピース・黒": ""
+        "ポーンのピース・黒": "Black Pawn Piece"
     },
     "6743": {
-        "ルークのピース・黒": ""
+        "ルークのピース・黒": "Black Rook Piece"
     },
     "6744": {
-        "ビショップのピース・黒": ""
+        "ビショップのピース・黒": "Black Bishop Piece"
     },
     "6745": {
-        "ナイトのピース・黒": ""
+        "ナイトのピース・黒": "Black Knight Piece"
     },
     "6746": {
-        "クイーンのピース・黒": "Black Queen Chess Piece"
+        "クイーンのピース・黒": "Black Queen Piece"
     },
     "6747": {
         "clarity_nt_char_2022": "clarity_nt_char_2022"
     },
     "6748": {
-        "キングのピース・黒": "Black King's Piece"
+        "キングのピース・黒": "Black King Piece"
     },
     "6749": {
         "うごく箱舟号": ""
@@ -22563,7 +22563,7 @@
         "clarity_nt_char_2280": "clarity_nt_char_2280"
     },
     "7522": {
-        "家具屋の看板": "Furniture Sign"
+        "家具屋の看板": "Furniture Shp Sign"
     },
     "7523": {
         "clarity_nt_char_2281": "clarity_nt_char_2281"
@@ -24066,7 +24066,7 @@
         "clarity_nt_char_2446": "clarity_nt_char_2446"
     },
     "8023": {
-        "チョコボの像・庭": ""
+        "チョコボの像・庭": "Chocobo Garden Statue"
     },
     "8024": {
         "clarity_nt_char_2447": "clarity_nt_char_2447"
@@ -24090,7 +24090,7 @@
         "clarity_nt_char_2449": "clarity_nt_char_2449"
     },
     "8031": {
-        "ポイックリンの像": ""
+        "ポイックリンの像": "Poiclin Statue"
     },
     "8032": {
         "clarity_nt_char_2450": "clarity_nt_char_2450"
@@ -24576,7 +24576,7 @@
         "clarity_nt_char_2502": "clarity_nt_char_2502"
     },
     "8193": {
-        "セピアのルシェンダ人形": ""
+        "セピアのルシェンダ人形": "Sepia Lushenda Doll"
     },
     "8194": {
         "アイリのぬいぐるみ": "Airi Plushie"
@@ -24855,7 +24855,7 @@
         "clarity_nt_char_2534": "clarity_nt_char_2534"
     },
     "8286": {
-        "トーマの像": "Thomas Statue"
+        "トーマの像": "Toma Statue"
     },
     "8287": {
         "スイカのイス": "Melon Chair"
@@ -25239,7 +25239,7 @@
         "調理職人の看板": "Cook Sign"
     },
     "8414": {
-        "料理屋の看板": "Restaurant Sign"
+        "料理屋の看板": "Eatery Sign"
     },
     "8415": {
         "clarity_nt_char_2572": "clarity_nt_char_2572"
@@ -26433,7 +26433,7 @@
         "第３回アルウェの像": ""
     },
     "8812": {
-        "第３回ルシェンダの像": ""
+        "第３回ルシェンダの像": "3rd Lushenda Statue"
     },
     "8813": {
         "clarity_nt_char_2690": "clarity_nt_char_2690"
@@ -26463,7 +26463,7 @@
         "第２回フォステイルの像": "2nd Fostail Statue"
     },
     "8822": {
-        "第２回トーマの像": "2nd Thomas Statue"
+        "第２回トーマの像": "2nd Toma Statue"
     },
     "8823": {
         "clarity_nt_char_2693": "clarity_nt_char_2693"
@@ -26565,13 +26565,13 @@
         "セピアの魔勇者人形": ""
     },
     "8856": {
-        "トーマぬいぐるみ": "Thomas Plushie"
+        "トーマぬいぐるみ": "Toma Plushie"
     },
     "8857": {
         "clarity_nt_char_2703": "clarity_nt_char_2703"
     },
     "8858": {
-        "セピアのトーマ人形": "Sepia Thomas Doll"
+        "セピアのトーマ人形": "Sepia Toma Doll"
     },
     "8859": {
         "アンルシアぬいぐるみ": "Anlucia Plushie"
@@ -32595,7 +32595,7 @@
         "金のチキ坊カプセル": "Golden Chicken Capsule"
     },
     "10866": {
-        "コッケちゃんカプセル": "Black Chicken Capsule"
+        "コッケちゃんカプセル": "Kokke-chan Capsule"
     },
     "10867": {
         "clarity_nt_char_3324": "clarity_nt_char_3324"
@@ -33048,7 +33048,7 @@
         "clarity_nt_char_3369": "clarity_nt_char_3369"
     },
     "11017": {
-        "シロブタくんカプセル": "White Boy Piglet Caps."
+        "シロブタくんカプセル": "White Piggy Capsule"
     },
     "11018": {
         "clarity_nt_char_3370": "clarity_nt_char_3370"
@@ -33063,7 +33063,7 @@
         "clarity_nt_char_3371": "clarity_nt_char_3371"
     },
     "11022": {
-        "クロブタくんカプセル": "Black Boy Piglet Caps."
+        "クロブタくんカプセル": "Black Piggy Capsule"
     },
     "11023": {
         "clarity_nt_char_3372": "clarity_nt_char_3372"
@@ -33078,7 +33078,7 @@
         "clarity_nt_char_3373": "clarity_nt_char_3373"
     },
     "11027": {
-        "ブチブタくんカプセル": "Buchi Piglet Boy Caps."
+        "ブチブタくんカプセル": "Spotted Piggy Capsule"
     },
     "11028": {
         "clarity_nt_char_3374": "clarity_nt_char_3374"
@@ -34617,7 +34617,7 @@
         "プラコンぐるみ・黒": ""
     },
     "11540": {
-        "タッツィぬいぐるみ": ""
+        "タッツィぬいぐるみ": "Tazzi Plushie"
     },
     "11541": {
         "ディエゴぬいぐるみ": ""
@@ -35076,7 +35076,7 @@
         "clarity_nt_char_3588": "clarity_nt_char_3588"
     },
     "11693": {
-        "ミネアのオルゴール": ""
+        "ミネアのオルゴール": "Minea Music Box"
     },
     "11694": {
         "グレイツェルぬいぐるみ": "Gretzel Plushie"
@@ -35247,7 +35247,7 @@
         "ボトルシップの置物": ""
     },
     "11750": {
-        "よろい兵士の置物": ""
+        "よろい兵士の置物": "Armor Soldier Ornament"
     },
     "11751": {
         "clarity_nt_char_3605": "clarity_nt_char_3605"
@@ -35541,7 +35541,7 @@
         "壁かけ妖精図書館の絵３": ""
     },
     "11848": {
-        "ゴウレの監視台": ""
+        "ゴウレの監視台": "Gourey's Observatory"
     },
     "11849": {
         "炎の領界の木": ""
@@ -37086,7 +37086,7 @@
         "clarity_nt_char_3800": "clarity_nt_char_3800"
     },
     "12363": {
-        "ゴルスラ会長の像・庭": "Chairman Golsla Statue"
+        "ゴルスラ会長の像・庭": "Chairman Gemsly Statue"
     },
     "12364": {
         "clarity_nt_char_3801": "clarity_nt_char_3801"
@@ -38148,7 +38148,7 @@
         "天の川のプラネタリウム": ""
     },
     "12717": {
-        "ポイックリンぬいぐるみ": ""
+        "ポイックリンぬいぐるみ": "Poiclin Plushie"
     },
     "12718": {
         "おうち用芝生のラグ": ""
@@ -41940,7 +41940,7 @@
         "clarity_nt_char_4295": "clarity_nt_char_4295"
     },
     "13981": {
-        "ゴルスラ会長の帽子": "Chairman Golsla Hat"
+        "ゴルスラ会長の帽子": "Chairman Gemsly Hat"
     },
     "13982": {
         "疾き盗賊の服上": "Erik's Outfit Top"
@@ -47163,7 +47163,7 @@
         "聖堂を守る者が|着ていたという|ころもの上部分": "Worn by the|guardians of|the sanctuary."
     },
     "15722": {
-        "魔法戦士団|お墨付きの|コートの上部分": "Endorsed by the|Order of Magic|Warriors."
+        "魔法戦士団|お墨付きの|コートの上部分": "Endorsed by the|Order of|Armamentalists."
     },
     "15723": {
         "信念を持って戦う|貴人のための|漆黒のマント": "For noblemen|who fight with|conviction."
@@ -48300,7 +48300,7 @@
         "聖堂を守る者が|つけていたという|サークレット": "Worn by the|guardians of|the sanctuary."
     },
     "16101": {
-        "魔法戦士団|お墨付きの|華麗なぼうし": "Endorsed by the|Order of Magic|Warriors."
+        "魔法戦士団|お墨付きの|華麗なぼうし": "Endorsed by the|Order of|Armamentalists."
     },
     "16102": {
         "clarity_nt_char_5005": "clarity_nt_char_5005"
@@ -50532,7 +50532,7 @@
         "聖堂を守る者が|つけていたという|清きグローブ": "Worn by the|guardians of|the sanctuary."
     },
     "16845": {
-        "魔法戦士団|お墨付きの|イケてるグローブ": "Endorsed by the|Order of Magic|Warriors."
+        "魔法戦士団|お墨付きの|イケてるグローブ": "Endorsed by the|Order of|Armamentalists."
     },
     "16846": {
         "clarity_nt_char_5251": "clarity_nt_char_5251"
@@ -51618,7 +51618,7 @@
         "clarity_nt_char_5377": "clarity_nt_char_5377"
     },
     "17207": {
-        "魔法戦士団|お墨付きの|かっこいいブーツ": "Endorsed by the|Order of Magic|Warriors."
+        "魔法戦士団|お墨付きの|かっこいいブーツ": "Endorsed by the|Order of|Armamentalists."
     },
     "17208": {
         "clarity_nt_char_5378": "clarity_nt_char_5378"
@@ -52986,19 +52986,19 @@
         "clarity_nt_char_5542": "clarity_nt_char_5542"
     },
     "17663": {
-        "コイン販売所で|コインが１００枚|もらえる券": "Exchange for|100 tokens at|token counter."
+        "コイン販売所で|コインが１００枚|もらえる券": "Exchange for|100 coins at|coin counter."
     },
     "17664": {
         "clarity_nt_char_5543": "clarity_nt_char_5543"
     },
     "17665": {
-        "コイン販売所で|コインが５００枚|もらえる券": "Exchange for|500 tokens at|token counter."
+        "コイン販売所で|コインが５００枚|もらえる券": "Exchange for|500 coins at|coin counter."
     },
     "17666": {
         "clarity_nt_char_5544": "clarity_nt_char_5544"
     },
     "17667": {
-        "コイン販売所で|コイン１０００枚|もらえる券": "Exchange for|1000 tokens at|token counter."
+        "コイン販売所で|コイン１０００枚|もらえる券": "Exchange for|1000 coins at|coin counter."
     },
     "17668": {
         "clarity_nt_char_5545": "clarity_nt_char_5545"
@@ -54246,7 +54246,7 @@
         "clarity_nt_char_5686": "clarity_nt_char_5686"
     },
     "18083": {
-        "トーマに|投票するクッキー|ＨＰが回復する": "Cookies for|voting Thomas|that restore HP."
+        "トーマに|投票するクッキー|ＨＰが回復する": "Cookies for|voting Toma|that restore HP."
     },
     "18084": {
         "食べることで|テンションが|上がるマカロン": "Increases the|tension for a|single ally."
@@ -54513,7 +54513,7 @@
         "clarity_nt_char_5721": "clarity_nt_char_5721"
     },
     "18172": {
-        "トーマに|あげるマシュマロ|ＨＰが回復する": "Marshmallow you|give to Thomas|restores his HP."
+        "トーマに|あげるマシュマロ|ＨＰが回復する": "Marshmallow you|give to Toma|restores his HP."
     },
     "18173": {
         "ラグアスに|あげるマシュマロ|ＨＰが回復する": "Marshmallow you|give to Raguas|restores his HP."
@@ -68490,7 +68490,7 @@
         "clarity_nt_char_7251": "clarity_nt_char_7251"
     },
     "22831": {
-        "素材屋に渡された|エメラルド色の|イカしたぼうし": "Emeral hat from|the material|dealer."
+        "素材屋に渡された|エメラルド色の|イカしたぼうし": "Emerald-colored|hat from the|material dealer."
     },
     "22832": {
         "clarity_nt_char_7252": "clarity_nt_char_7252"
@@ -77826,7 +77826,7 @@
         "不思議の国の畑": ""
     },
     "25943": {
-        "海賊船の畑": ""
+        "海賊船の畑": "PirateShp Field"
     },
     "25944": {
         "音楽隊の畑": "Band Field"
@@ -83175,7 +83175,7 @@
         "夜宴館の目玉つき扉": ""
     },
     "27726": {
-        "セレド町長の家の扉": ""
+        "セレド町長の家の扉": "Celed Mayor's Door"
     },
     "27727": {
         "セレド宿屋の扉": ""
@@ -83448,7 +83448,7 @@
         "トラシュカ印章": "Trashka Stamp"
     },
     "27817": {
-        "スライムレース印章": ""
+        "スライムレース印章": "Slime Race Stamp"
     },
     "27818": {
         "ハッピーくじ印章": "Happy Lottery Stamps"

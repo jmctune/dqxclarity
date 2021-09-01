@@ -402,7 +402,7 @@
         "clarity_nt_char_134": "clarity_nt_char_134"
     },
     "135": {
-        "ようすをみている": "Watching"
+        "ようすをみている": "Observe Battle"
     },
     "136": {
         "clarity_nt_char_136": "clarity_nt_char_136"
@@ -480,7 +480,7 @@
         "ライガークラッシュ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ５のダメージ": "Wild Animaul　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x5"
     },
     "161": {
-        "タマげたニャー　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "Meow Bomb　{color=orange}<%dM_Damage_1>{color=default} to <%sM_Target_1> {color=default}　{color=orange}<%dM_Damage_2> to <%sM_Target_2>{color=default}"
+        "タマげたニャー　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "Meow Bomb　{color=orange}<%dM_Damage_1>{color=default} to <%sM_Target_1> {color=orange}<%dM_Damage_2>{color=default} to <%sM_Target_2>"
     },
     "162": {
         "clarity_nt_char_162": "clarity_nt_char_162"
@@ -2844,7 +2844,7 @@
         "clarity_nt_char_948": "clarity_nt_char_948"
     },
     "949": {
-        "打撃攻撃のダメージ上昇": "Physical damage taken ↑"
+        "打撃攻撃のダメージ上昇": "Physical damage dealt ↑"
     },
     "950": {
         "呪文攻撃のダメージ上昇": "Spell damage dealt up!"

@@ -10290,7 +10290,7 @@
         "clarity_nt_char_1123": "clarity_nt_char_1123"
     },
     "3431": {
-        "しぐさしょおびえる": ""
+        "しぐさしょおびえる": "Emote Book \"Scared\""
     },
     "3432": {
         "しぐさしょしょっく": ""
@@ -11529,7 +11529,7 @@
         "clarity_nt_char_1259": "clarity_nt_char_1259"
     },
     "3844": {
-        "おめかしからーけん": "Dress-up Ticket"
+        "おめかしからーけん": "Recolor Ticket"
     },
     "3845": {
         "れんだーひるずしょうたいけん": "Lender Hills Invitation"
@@ -13296,7 +13296,7 @@
         "ぷちもぐーらかーど": "Frail Mole Card"
     },
     "4433": {
-        "おめかしれあからーけん": "Rare Dress-up Ticket"
+        "おめかしれあからーけん": "Rare Recolor Ticket"
     },
     "4434": {
         "はなちゃんおしゃればな": "Flower-chan Style Flwr"
@@ -43650,7 +43650,7 @@
         "clarity_nt_char_4811": "clarity_nt_char_4811"
     },
     "14551": {
-        "<pc>は|おめかしカラー券を　つかった。<br>|しかし　何も　おこらなかった。|モンスター酒場に　持っていこう！": "<pc> Used Dress-up Ticket. <br>|But nothing happened.|Let's take it to the monster tavern!"
+        "<pc>は|おめかしカラー券を　つかった。<br>|しかし　何も　おこらなかった。|モンスター酒場に　持っていこう！": "<pc> used the Recolor Ticket. <br>|But nothing happened.|Let's take it to the monster tavern!"
     },
     "14552": {
         "clarity_nt_char_4812": "clarity_nt_char_4812"
@@ -44760,7 +44760,7 @@
         "clarity_nt_char_4923": "clarity_nt_char_4923"
     },
     "14921": {
-        "<pc>は|ガナン帝国の勲章の破片を　つかった。|<br>|しかし　何も　おこらなかった。|ヴェリナード城下町の　アクセサリー復元屋に|持っていこう！": "<pc> used the Ganan Empire Medal Shard.|<br>|But nothing happened. Take it to the accessory|shop in Verinard to restore it!"
+        "<pc>は|ガナン帝国の勲章の破片を　つかった。|<br>|しかし　何も　おこらなかった。|ヴェリナード城下町の　アクセサリー復元屋に|持っていこう！": "<pc> used the Ganan Empire Medal Shard.|<br>|But nothing happened. Take it to the accessory|restore shop in Verinard to restore it!"
     },
     "14922": {
         "<pc>は|竜のうろこの破片を　つかった。|<br>|しかし　何も　おこらなかった。|ヴェリナード城下町の　アクセサリー復元屋に|持っていこう！": ""

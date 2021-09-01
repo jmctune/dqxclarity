@@ -105,7 +105,7 @@
         "作りかけぬいぐるみ": "Premade Stuffed Toy"
     },
     "36": {
-        "チョコ神ぬいぐるみ": "Choco-God Plush"
+        "チョコ神ぬいぐるみ": "Choco-God Plushie"
     },
     "37": {
         "地竜のツノ": "Erth Drgn Horn"
@@ -189,7 +189,7 @@
         "clarity_nt_char_14": "clarity_nt_char_14"
     },
     "64": {
-        "神官のカギ束": "Priests Key Bundle"
+        "神官のカギ束": "Priest's Keys"
     },
     "65": {
         "clarity_nt_char_15": "clarity_nt_char_15"
@@ -294,19 +294,19 @@
         "トラマナ石": "Tramana Stone"
     },
     "99": {
-        "赤い月光の花": "Red Moonlight Flwr"
+        "赤い月光の花": "Red Moonlit Flower"
     },
     "100": {
         "clarity_nt_char_26": "clarity_nt_char_26"
     },
     "101": {
-        "白い月光の花": "Wht Moonlight Flwr"
+        "白い月光の花": "Wht Moonlit Flower"
     },
     "102": {
         "clarity_nt_char_27": "clarity_nt_char_27"
     },
     "103": {
-        "青い月光の花": "Blue Moonlight Flw"
+        "青い月光の花": "Blue Moonlit Flwr"
     },
     "104": {
         "clarity_nt_char_28": "clarity_nt_char_28"
@@ -615,7 +615,7 @@
         "ポムポムオイル": "Pom Pom Oil"
     },
     "206": {
-        "シオンの花": "Flowers of Zion"
+        "シオンの花": "Shion's Flowers"
     },
     "207": {
         "女神の黄玉石": "Goddess Ylw. Stone"
@@ -804,7 +804,7 @@
         "罪深きバラ": "Sinful Rose"
     },
     "269": {
-        "チャノキの葉": "Chanki Leaf"
+        "チャノキの葉": "Tea Plant Leaf"
     },
     "270": {
         "clarity_nt_char_75": "clarity_nt_char_75"
@@ -825,7 +825,7 @@
         "不気味なペンダント": "Spooky Pendant"
     },
     "276": {
-        "ザイルのカギ": "Key to Zail"
+        "ザイルのカギ": "Dwight's Key"
     },
     "277": {
         "clarity_nt_char_77": "clarity_nt_char_77"
@@ -1203,7 +1203,7 @@
         "パンのかご": "Breadbasket"
     },
     "402": {
-        "くれないジャム": "Crimson Jam"
+        "くれないジャム": "Deep Red Jam"
     },
     "403": {
         "しらゆきバター": "White Snow Butter"
@@ -1212,7 +1212,7 @@
         "ピヨピヨ豆": "Chickpea"
     },
     "405": {
-        "コッケちゃん": "Kokechan"
+        "コッケちゃん": "Kokke-chan"
     },
     "406": {
         "clarity_nt_char_115": "clarity_nt_char_115"
@@ -1386,7 +1386,7 @@
         "虹色の輝石": "Rainbow Augite"
     },
     "463": {
-        "リリオルへの贈り物": "Ririol's Gift"
+        "リリオルへの贈り物": "Lyriol's Gift"
     },
     "464": {
         "兄からの手紙": "Brother's Letter"
@@ -1650,7 +1650,7 @@
         "clarity_nt_char_163": "clarity_nt_char_163"
     },
     "551": {
-        "モモヨのかばん": "Momoyo's Bag"
+        "モモヨのかばん": "Flameman's Bag"
     },
     "552": {
         "竜炎石セット": "DrgnFlme Stone Set"
@@ -2139,7 +2139,7 @@
         "奇岩の呪符": ""
     },
     "714": {
-        "サルファバル鉱": ""
+        "サルファバル鉱": "Sulphubal Ore"
     },
     "715": {
         "サルファバリン": ""
@@ -2835,7 +2835,7 @@
         "協団の救援物資": ""
     },
     "946": {
-        "タイタス号の積荷": ""
+        "タイタス号の積荷": "Titus Cargo"
     },
     "947": {
         "clarity_nt_char_288": "clarity_nt_char_288"
@@ -3435,7 +3435,7 @@
         "バレンタインココア": ""
     },
     "1146": {
-        "ミローレのチョコ": ""
+        "ミローレのチョコ": "Milore's Chocolate"
     },
     "1147": {
         "clarity_nt_char_347": "clarity_nt_char_347"
@@ -3507,7 +3507,7 @@
         "clarity_nt_char_354": "clarity_nt_char_354"
     },
     "1170": {
-        "ボイスレコーダー": ""
+        "ボイスレコーダー": "Voice Recorder"
     },
     "1171": {
         "clarity_nt_char_355": "clarity_nt_char_355"
@@ -4416,7 +4416,7 @@
         "魔法のように|キラリと輝く|つややかな液体": ""
     },
     "1473": {
-        "今のところ|特に使い道のない|金属の鉱石": ""
+        "今のところ|特に使い道のない|金属の鉱石": "Metal ore that|has no specific|use right now."
     },
     "1474": {
         "clarity_nt_char_457": "clarity_nt_char_457"
@@ -11367,7 +11367,7 @@
         "<pc>は　ハッスルしっぷを|手に取って　ながめてみた。|<br>|見た目は　ふつうのしっぷと|あまり　変わらない。|<br>|……じっくり　見ていたら|強烈な　ハッカのにおいが|手に　しみついてしまった。": ""
     },
     "3790": {
-        "<pc>は　音楽祭のパンフレットを|手に取って　ながめてみた。|<br><center>|海洋都市リンジャハル復興音楽祭|リンジャハル大劇場で　開催予定！|<br><center>|ゲストには　あの大人気の|エテーネ王国の花の歌姫が！？|当日は　リンジャハル大劇場へゴー！！": "<pc> picked up the Music Festival|Pamphlet and took a closer look.|<br><center>|Ocean City Linjahar Reconstruction|Music Festival!|Will be held at Linjahar Grand Theater!|<br><center>|The special guest will be a flower diva|from the... \nKingdom of Ethene?!|You don't want to miss this special day!"
+        "<pc>は　音楽祭のパンフレットを|手に取って　ながめてみた。|<br><center>|海洋都市リンジャハル復興音楽祭|リンジャハル大劇場で　開催予定！|<br><center>|ゲストには　あの大人気の|エテーネ王国の花の歌姫が！？|当日は　リンジャハル大劇場へゴー！！": "<pc> picked up the Music Festival|Pamphlet and took a closer look.|<br><center>|Ocean City Linjahar Reconstruction|Music Festival!|Will be held at Linjahar Grand Theater!|<br><center>|The special guest will be a flower diva|from the... Kingdom of Ethene?!|You don't want to miss this special day!"
     },
     "3791": {
         "<pc>は　レグルのペンダントを|手に取って　ながめてみた。|<br>|ペンダントのトップに　奇妙な形をした|ベリル石が　飾られている。": ""
@@ -12222,7 +12222,7 @@
         "<pc>は　落陽の天然水を|手に取って　ながめてみた。|<br>|とても　澄んだ　きれいな水だ。|これなら　想望華の芽も　よく育ちそうだ。": ""
     },
     "4075": {
-        "剣魔の証": ""
+        "剣魔の証": "SwdDmn Proof"
     },
     "4076": {
         "clarity_nt_char_1334": "clarity_nt_char_1334"
@@ -12234,7 +12234,7 @@
         "clarity_nt_char_1335": "clarity_nt_char_1335"
     },
     "4079": {
-        "しもべの証": ""
+        "しもべの証": "Servant Proof"
     },
     "4080": {
         "アスバルの部屋のカギ": ""
@@ -12591,7 +12591,7 @@
         "カラミントの花": ""
     },
     "4198": {
-        "カワイ子ちゃん": ""
+        "カワイ子ちゃん": "Kawaiko"
     },
     "4199": {
         "バルディアメタル": ""
@@ -12660,7 +12660,7 @@
         "clarity_nt_char_1384": "clarity_nt_char_1384"
     },
     "4221": {
-        "夜空のお守り": ""
+        "夜空のお守り": "Night Sky Amulet"
     },
     "4222": {
         "clarity_nt_char_1385": "clarity_nt_char_1385"

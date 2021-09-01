@@ -4176,7 +4176,7 @@
         "clarity_nt_char_490": "clarity_nt_char_490"
     },
     "1393": {
-        "<%sB_ACTOR>は すべての まりょくを ときはなった！": ""
+        "<%sB_ACTOR>は すべての まりょくを ときはなった！": "<%sB_ACTOR> unleashed all of their magic!"
     },
     "1394": {
         "なんと <%sB_TARGET>は 生き返った！": "Suddenly, <%sB_TARGET> was revived!"
@@ -4455,7 +4455,7 @@
         "<%sB_EXTRA>たちが あらわれた！": "<%sB_EXTRA> summoned!"
     },
     "1486": {
-        "<%sB_ACTOR>は すべての魔力を 解き放った！": ""
+        "<%sB_ACTOR>は すべての魔力を 解き放った！": "<%sB_ACTOR> unleashed all of their magic!"
     },
     "1487": {
         "しかし 何も おこらなかった。": "But nothing happened."
@@ -10638,7 +10638,7 @@
         "なげきのさけび": ""
     },
     "3547": {
-        "ベリンダバスター": ""
+        "ベリンダバスター": "Belinda Buster"
     },
     "3548": {
         "clarity_nt_char_1200": "clarity_nt_char_1200"
@@ -12309,7 +12309,7 @@
         "ピクシーブレス": "Pixie Bracelet"
     },
     "4104": {
-        "ムーンライトクロス": ""
+        "ムーンライトクロス": "Moonlight Cross"
     },
     "4105": {
         "雪だるまになっちゃえ": ""
@@ -12318,7 +12318,7 @@
         "clarity_nt_char_1372": "clarity_nt_char_1372"
     },
     "4107": {
-        "アイスショック": ""
+        "アイスショック": "Ice Shock"
     },
     "4108": {
         "Ｓグレネーどり召喚": ""
@@ -15036,7 +15036,7 @@
         "太陽のほほえみ": ""
     },
     "5013": {
-        "カラミティショック": ""
+        "カラミティショック": "Calamity Shock"
     },
     "5014": {
         "背徳の迅雷": ""
@@ -15099,7 +15099,7 @@
         "clarity_nt_char_1675": "clarity_nt_char_1675"
     },
     "5034": {
-        "ショックウェーブ": ""
+        "ショックウェーブ": "Shockwave"
     },
     "5035": {
         "clarity_nt_char_1676": "clarity_nt_char_1676"
@@ -16623,7 +16623,7 @@
         "clarity_nt_char_1848": "clarity_nt_char_1848"
     },
     "5542": {
-        "ブラッドウェーブ": ""
+        "ブラッドウェーブ": "Blood Wave"
     },
     "5543": {
         "clarity_nt_char_1849": "clarity_nt_char_1849"
@@ -16947,7 +16947,7 @@
         "clarity_nt_char_1883": "clarity_nt_char_1883"
     },
     "5650": {
-        "マインドショック": ""
+        "マインドショック": "Mind Shock"
     },
     "5651": {
         "clarity_nt_char_1884": "clarity_nt_char_1884"
@@ -17877,7 +17877,7 @@
         "clarity_nt_char_1988": "clarity_nt_char_1988"
     },
     "5960": {
-        "ホーンライトニング": ""
+        "ホーンライトニング": "Horn Lightning"
     },
     "5961": {
         "ハイドロスプラッシュ": ""
@@ -21381,7 +21381,7 @@
         "clarity_nt_char_2378": "clarity_nt_char_2378"
     },
     "7128": {
-        "すべての攻撃の|ダメージを減らす": ""
+        "すべての攻撃の|ダメージを減らす": "Reduced damage of|all attacks."
     },
     "7129": {
         "clarity_nt_char_2379": "clarity_nt_char_2379"
@@ -22872,7 +22872,7 @@
         "clarity_nt_char_2543": "clarity_nt_char_2543"
     },
     "7625": {
-        "すべての攻撃を|防ぐ盾を発動する": ""
+        "すべての攻撃を|防ぐ盾を発動する": "Activate shield to|protect all attacks."
     },
     "7626": {
         "clarity_nt_char_2544": "clarity_nt_char_2544"
@@ -30222,7 +30222,7 @@
         "全属性の耐性が|少しさがった！": "All resistances|decreased slightly!"
     },
     "10075": {
-        "ＭＰが回復！": ""
+        "ＭＰが回復！": "MP Recovery!"
     },
     "10076": {
         "clarity_nt_char_3349": "clarity_nt_char_3349"
@@ -30429,7 +30429,7 @@
         "clarity_nt_char_3373": "clarity_nt_char_3373"
     },
     "10144": {
-        "ＨＰが回復！": ""
+        "ＨＰが回復！": "HP Recovery!"
     },
     "10145": {
         "clarity_nt_char_3374": "clarity_nt_char_3374"
@@ -31101,7 +31101,7 @@
         "clarity_nt_char_3450": "clarity_nt_char_3450"
     },
     "10368": {
-        "呪文をはねかえした！": ""
+        "呪文をはねかえした！": "Spell reflected!"
     },
     "10369": {
         "clarity_nt_char_3451": "clarity_nt_char_3451"
@@ -32685,7 +32685,7 @@
         "clarity_nt_char_3628": "clarity_nt_char_3628"
     },
     "10896": {
-        "盾ガード時|ＨＰが回復がとけた！": ""
+        "盾ガード時|ＨＰが回復がとけた！": "Recover HP on|shield guard!"
     },
     "10897": {
         "clarity_nt_char_3629": "clarity_nt_char_3629"
@@ -33000,7 +33000,7 @@
         "clarity_nt_char_3660": "clarity_nt_char_3660"
     },
     "11001": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さいだいＨＰ減少の 呪いにかかった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さいだいＨＰ減少の 呪いにかかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was cursed and max HP decreased!"
     },
     "11002": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さらに ＨＰが減っていく 呪いにかかった！": ""
@@ -33804,7 +33804,7 @@
         "さらに錯乱させた！": ""
     },
     "11269": {
-        "全員のエナジーが回復！|移動速度があがった！": ""
+        "全員のエナジーが回復！|移動速度があがった！": "All's energy recovered!|Movement speed up!"
     },
     "11270": {
         "clarity_nt_char_3749": "clarity_nt_char_3749"
@@ -35253,7 +35253,7 @@
         "clarity_nt_char_3912": "clarity_nt_char_3912"
     },
     "11752": {
-        "パラライズシャワー": "Powerful Thunder Shower"
+        "パラライズシャワー": "Paralyze Shower"
     },
     "11753": {
         "おうえん歌": ""
