@@ -2766,13 +2766,13 @@
         "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>うるわしの浜辺地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Beautiful Beach"
     },
     "923": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>二の島 上層": "<%sW_MAP_NAME><%sW_DELIMITER>Two Isle Upper"
+        "<%sW_MAP_NAME><%sW_DELIMITER>二の島 上層": "<%sW_MAP_NAME><%sW_DELIMITER>2nd Isle Upper"
     },
     "924": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>三の島 中層": "<%sW_MAP_NAME><%sW_DELIMITER>Three Isle Mid."
+        "<%sW_MAP_NAME><%sW_DELIMITER>三の島 中層": "<%sW_MAP_NAME><%sW_DELIMITER>3rd Isle Middle"
     },
     "925": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>二の島 下層": "<%sW_MAP_NAME><%sW_DELIMITER>Two Isle Lower"
+        "<%sW_MAP_NAME><%sW_DELIMITER>二の島 下層": "<%sW_MAP_NAME><%sW_DELIMITER>2nd Isle Lower"
     },
     "926": {
         "<%sW_MAP_NAME><%sW_DELIMITER>四の島": ""
@@ -2787,7 +2787,7 @@
         "clarity_nt_char_295": "clarity_nt_char_295"
     },
     "930": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>三の島への道": "<%sW_MAP_NAME><%sW_DELIMITER>Three Isle Road"
+        "<%sW_MAP_NAME><%sW_DELIMITER>三の島への道": "<%sW_MAP_NAME><%sW_DELIMITER>Road to 3rd Isle"
     },
     "931": {
         "採掘現場地区": "Dig Site"
