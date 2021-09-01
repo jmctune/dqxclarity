@@ -1230,94 +1230,94 @@
         "clarity_nt_char_134": "clarity_nt_char_134"
     },
     "411": {
-        "鉄壁のマヒガード": "Iron Wall Paralyze Guard"
+        "鉄壁のマヒガード": "Ironclad Paralyze Guard"
     },
     "412": {
         "clarity_nt_char_135": "clarity_nt_char_135"
     },
     "413": {
-        "鉄壁の眠りガード": "Iron Wall Sleep Guard"
+        "鉄壁の眠りガード": "Ironclad Sleep Guard"
     },
     "414": {
         "clarity_nt_char_136": "clarity_nt_char_136"
     },
     "415": {
-        "鉄壁の混乱ガード": "Iron Wall Confuse Guard"
+        "鉄壁の混乱ガード": "Ironclad Confuse Guard"
     },
     "416": {
         "clarity_nt_char_137": "clarity_nt_char_137"
     },
     "417": {
-        "鉄壁の即死ガード": "Iron Wall Death Guard"
+        "鉄壁の即死ガード": "Ironclad Death Guard"
     },
     "418": {
         "clarity_nt_char_138": "clarity_nt_char_138"
     },
     "419": {
-        "鉄壁のどくガード": "Iron Wall's Poison Guard"
+        "鉄壁のどくガード": "Ironclad Poison Guard"
     },
     "420": {
         "clarity_nt_char_139": "clarity_nt_char_139"
     },
     "421": {
-        "鉄壁の封印ガード": "Iron Wall Seal Guard"
+        "鉄壁の封印ガード": "Ironclad Seal Guard"
     },
     "422": {
         "clarity_nt_char_140": "clarity_nt_char_140"
     },
     "423": {
-        "鉄壁の幻惑ガード": "Iron Wall Blind Guard"
+        "鉄壁の幻惑ガード": "Ironclad Blind Guard"
     },
     "424": {
         "clarity_nt_char_141": "clarity_nt_char_141"
     },
     "425": {
-        "鉄壁の転びガード": "Iron Wall Fall Guard"
+        "鉄壁の転びガード": "Ironclad Fall Guard"
     },
     "426": {
         "clarity_nt_char_142": "clarity_nt_char_142"
     },
     "427": {
-        "鉄壁のおびえガード": "Iron Wall's Fear Guard"
+        "鉄壁のおびえガード": "Ironclad Fear Guard"
     },
     "428": {
-        "鉄壁のしばりガード": "Iron Wall's Restraint Guard"
+        "鉄壁のしばりガード": "Ironclad Restraint Guard"
     },
     "429": {
-        "鉄壁の踊りガード": "Iron Wall Dance Guard"
+        "鉄壁の踊りガード": "Ironclad Dance Guard"
     },
     "430": {
         "clarity_nt_char_143": "clarity_nt_char_143"
     },
     "431": {
-        "鉄壁の笑いガード": "Iron Wall Laugh Guard"
+        "鉄壁の笑いガード": "Ironclad Laugh Guard"
     },
     "432": {
         "clarity_nt_char_144": "clarity_nt_char_144"
     },
     "433": {
-        "鉄壁の魅了ガード": "Iron Wall Charm Guard"
+        "鉄壁の魅了ガード": "Ironclad Charm Guard"
     },
     "434": {
         "clarity_nt_char_145": "clarity_nt_char_145"
     },
     "435": {
-        "鉄壁の呪いガード": "Iron Wall Curse Guard"
+        "鉄壁の呪いガード": "Ironclad Curse Guard"
     },
     "436": {
         "clarity_nt_char_146": "clarity_nt_char_146"
     },
     "437": {
-        "鉄壁のＭＰ吸収ガード": "Iron Wall's MP Absorb Guard"
+        "鉄壁のＭＰ吸収ガード": "Ironclad MP Absorb Guard"
     },
     "438": {
         "clarity_nt_char_147": "clarity_nt_char_147"
     },
     "439": {
-        "鉄壁のみとれガード": "Iron Wall Dazzle Guard"
+        "鉄壁のみとれガード": "Ironclad Dazzle Guard"
     },
     "440": {
-        "鉄壁のはどうガード": "Iron Wall's Wave Guard"
+        "鉄壁のはどうガード": "Ironclad Wave Guard"
     },
     "441": {
         "会心練磨": "Training"
@@ -1374,7 +1374,7 @@
         "clarity_nt_char_156": "clarity_nt_char_156"
     },
     "459": {
-        "鉄壁の攻撃呪文耐性": "Iron Wall Spell Resistance"
+        "鉄壁の攻撃呪文耐性": "Ironclad Spell Resistance"
     },
     "460": {
         "しんくう竜巻の極意": "Secret of Vacuum Tornado"
@@ -1566,13 +1566,13 @@
         "共鳴のテンションアップ": "Resonance Tension Up"
     },
     "523": {
-        "鉄壁の会心完全ガード": "Iron Wall Critical Hit Guard"
+        "鉄壁の会心完全ガード": "Ironclad Critical Hit Guard"
     },
     "524": {
         "clarity_nt_char_177": "clarity_nt_char_177"
     },
     "525": {
-        "鉄壁のふっとびガード": "Iron Wall's Knockback Guard"
+        "鉄壁のふっとびガード": "Ironclad Knockback Guard"
     },
     "526": {
         "clarity_nt_char_178": "clarity_nt_char_178"
@@ -1794,7 +1794,7 @@
         "clarity_nt_char_201": "clarity_nt_char_201"
     },
     "599": {
-        "鉄壁の各弱体系耐性": "Iron Wall Weak Resistance"
+        "鉄壁の各弱体系耐性": "Ironclad Weak Resistance"
     },
     "600": {
         "サンライトアローの極意": "Secret of Sunlight Arrow"
@@ -2838,7 +2838,7 @@
         "たたかいのビート範囲+0.3m": "Thrash Guitar Range +0.3m"
     },
     "947": {
-        "鉄壁のブレス耐性": "Iron Wall Breath Resist"
+        "鉄壁のブレス耐性": "Ironclad Breath Resist"
     },
     "948": {
         "clarity_nt_char_330": "clarity_nt_char_330"

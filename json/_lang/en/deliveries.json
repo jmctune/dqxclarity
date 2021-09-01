@@ -573,7 +573,7 @@
         "ドラゴンシールドの納品": "Dragon Shield Delivery"
     },
     "192": {
-        "くろがねのよろい上の納品": "Black Iron Cuirass Delivery"
+        "くろがねのよろい上の納品": "Darksteel Cuirass Delivery"
     },
     "193": {
         "clarity_nt_char_67": "clarity_nt_char_67"
@@ -612,7 +612,7 @@
         "clarity_nt_char_72": "clarity_nt_char_72"
     },
     "205": {
-        "ヘヴィーアーマー上の納品": "Heavy Armor Upper Delivery"
+        "ヘヴィーアーマー上の納品": "Heavy Armor Top Delivery"
     },
     "206": {
         "clarity_nt_char_73": "clarity_nt_char_73"
@@ -627,19 +627,19 @@
         "ヘヴィーグローブの納品": "Heavy Gloves Delivery"
     },
     "210": {
-        "くろがねのはちがねの納品": "Black Iron Band Delivery"
+        "くろがねのはちがねの納品": "Darksteel Band Delivery"
     },
     "211": {
         "clarity_nt_char_74": "clarity_nt_char_74"
     },
     "212": {
-        "くろがねのこての納品": "Black Iron Gauntlets Delivery"
+        "くろがねのこての納品": "Darksteel Gauntlets Delivery"
     },
     "213": {
         "clarity_nt_char_75": "clarity_nt_char_75"
     },
     "214": {
-        "くろがねのよろい下の納品": "Black Iron Faulds Delivery"
+        "くろがねのよろい下の納品": "Darksteel Faulds Delivery"
     },
     "215": {
         "clarity_nt_char_76": "clarity_nt_char_76"
@@ -789,28 +789,28 @@
         "clarity_nt_char_94": "clarity_nt_char_94"
     },
     "264": {
-        "麻のぼうしの納品": ""
+        "麻のぼうしの納品": "Linen Hat Delivery"
     },
     "265": {
         "clarity_nt_char_95": "clarity_nt_char_95"
     },
     "266": {
-        "麻の服の納品": ""
+        "麻の服の納品": "Linen Top Delivery"
     },
     "267": {
         "clarity_nt_char_96": "clarity_nt_char_96"
     },
     "268": {
-        "麻の短パンの納品": ""
+        "麻の短パンの納品": "Linen Shorts Delivery"
     },
     "269": {
         "clarity_nt_char_97": "clarity_nt_char_97"
     },
     "270": {
-        "麻のてぶくろの納品": ""
+        "麻のてぶくろの納品": "Linen Gloves Delivery"
     },
     "271": {
-        "麻のくつの納品": ""
+        "麻のくつの納品": "Linen Boots Delivery"
     },
     "272": {
         "ぬすっとずきんの納品": "Robber's Hood Delivery"
@@ -891,31 +891,31 @@
         "clarity_nt_char_106": "clarity_nt_char_106"
     },
     "298": {
-        "カンフーズボンの納品": ""
+        "カンフーズボンの納品": "Kung Fu Trousers Delivery"
     },
     "299": {
         "clarity_nt_char_107": "clarity_nt_char_107"
     },
     "300": {
-        "カンフーリストの納品": ""
+        "カンフーリストの納品": "Kung Fu Bangles Delivery"
     },
     "301": {
         "clarity_nt_char_108": "clarity_nt_char_108"
     },
     "302": {
-        "カンフーシューズの納品": ""
+        "カンフーシューズの納品": "Kung Fu Shoes Delivery"
     },
     "303": {
-        "けんぽうぎ下の納品": ""
+        "けんぽうぎ下の納品": "Tussler's Trousers Delivery"
     },
     "304": {
-        "けんぽうの腕帯の納品": ""
+        "けんぽうの腕帯の納品": "Tussler's Armbands Delivery"
     },
     "305": {
         "clarity_nt_char_109": "clarity_nt_char_109"
     },
     "306": {
-        "けんぽうの脚帯の納品": ""
+        "けんぽうの脚帯の納品": "Tussler's Boots Delivery"
     },
     "307": {
         "clarity_nt_char_110": "clarity_nt_char_110"
@@ -972,7 +972,7 @@
         "clarity_nt_char_117": "clarity_nt_char_117"
     },
     "325": {
-        "司祭のほういの納品": "Priest's Vestments Delivery"
+        "司祭のほういの納品": "Pastor's Vestment Delivery"
     },
     "326": {
         "ホーリーローブ上の納品": "Holy Robe Top Delivery"
@@ -1008,7 +1008,7 @@
         "clarity_nt_char_121": "clarity_nt_char_121"
     },
     "337": {
-        "司祭のてぶくろの納品": "Priest's Gloves Delivery"
+        "司祭のてぶくろの納品": "Pastor's Gloves Delivery"
     },
     "338": {
         "clarity_nt_char_122": "clarity_nt_char_122"
@@ -1446,7 +1446,7 @@
         "clarity_nt_char_170": "clarity_nt_char_170"
     },
     "483": {
-        "こうげき魔力アップ": ""
+        "こうげき魔力アップ": "Magical Might Up"
     },
     "484": {
         "かいふく魔力アップ": "Magical Mending Increased"
@@ -1458,25 +1458,25 @@
         "呪文発動速度アップ": "Spell Cast Speed Up"
     },
     "487": {
-        "攻撃時 眠り効果": ""
+        "攻撃時 眠り効果": "Sleep Attack Effect"
     },
     "488": {
         "clarity_nt_char_171": "clarity_nt_char_171"
     },
     "489": {
-        "攻撃時 ヘナトス効果": ""
+        "攻撃時 ヘナトス効果": "Blunt Attack Effect"
     },
     "490": {
         "clarity_nt_char_172": "clarity_nt_char_172"
     },
     "491": {
-        "攻撃時 ルカニ効果": ""
+        "攻撃時 ルカニ効果": "Sap Attack Effect"
     },
     "492": {
         "おびえガードアップ": "Fear Guard Up"
     },
     "493": {
-        "転びガードアップ": ""
+        "転びガードアップ": "Fall Guard Up"
     },
     "494": {
         "clarity_nt_char_173": "clarity_nt_char_173"
@@ -1491,73 +1491,73 @@
         "clarity_nt_char_174": "clarity_nt_char_174"
     },
     "498": {
-        "こうげき魔力 中アップ": ""
+        "こうげき魔力 中アップ": "Magical Might Up M"
     },
     "499": {
         "かいふく魔力 中アップ": "Magical Mending Increased"
     },
     "500": {
-        "さいだいＭＰ 中アップ": ""
+        "さいだいＭＰ 中アップ": "Max MP Up M"
     },
     "501": {
-        "呪文発動速度 中アップ": ""
+        "呪文発動速度 中アップ": "Spell Cast Speed Up M"
     },
     "502": {
-        "攻撃時 ヘナトス 中アップ": ""
+        "攻撃時 ヘナトス 中アップ": "Blunt Attack Up M"
     },
     "503": {
-        "攻撃時 ルカニ 中アップ": ""
+        "攻撃時 ルカニ 中アップ": "Sap Attack Up M"
     },
     "504": {
         "clarity_nt_char_175": "clarity_nt_char_175"
     },
     "505": {
-        "呪文ぼうそう率 中アップ": ""
+        "呪文ぼうそう率 中アップ": "Haywire Rate Up M"
     },
     "506": {
         "clarity_nt_char_176": "clarity_nt_char_176"
     },
     "507": {
-        "混乱ガード 中アップ": ""
+        "混乱ガード 中アップ": "Confuse Guard Up M"
     },
     "508": {
         "clarity_nt_char_177": "clarity_nt_char_177"
     },
     "509": {
-        "封印ガード 中アップ": ""
+        "封印ガード 中アップ": "Seal Guard Up M"
     },
     "510": {
         "clarity_nt_char_178": "clarity_nt_char_178"
     },
     "511": {
-        "幻惑ガード 中アップ": ""
+        "幻惑ガード 中アップ": "Blind Guard Up M"
     },
     "512": {
         "clarity_nt_char_179": "clarity_nt_char_179"
     },
     "513": {
-        "呪いガード 中アップ": ""
+        "呪いガード 中アップ": "Curse Guard Up M"
     },
     "514": {
         "clarity_nt_char_180": "clarity_nt_char_180"
     },
     "515": {
-        "転びガード 中アップ": ""
+        "転びガード 中アップ": "Fall Guard Up M"
     },
     "516": {
         "clarity_nt_char_181": "clarity_nt_char_181"
     },
     "517": {
-        "しばりガード 中アップ": ""
+        "しばりガード 中アップ": "Restraint Guard Up M"
     },
     "518": {
-        "おしゃれさ 大アップ": ""
+        "おしゃれさ 大アップ": "Style Up L"
     },
     "519": {
         "clarity_nt_char_182": "clarity_nt_char_182"
     },
     "520": {
-        "こうげき力アップ": ""
+        "こうげき力アップ": "Attack Up"
     },
     "521": {
         "clarity_nt_char_183": "clarity_nt_char_183"
@@ -1566,10 +1566,10 @@
         "しゅび力アップ": "Defense Up"
     },
     "523": {
-        "さいだいＨＰアップ": ""
+        "さいだいＨＰアップ": "Max HP Up"
     },
     "524": {
-        "盾ガード率アップ": ""
+        "盾ガード率アップ": "Block Rate Up"
     },
     "525": {
         "clarity_nt_char_184": "clarity_nt_char_184"
@@ -1587,7 +1587,7 @@
         "clarity_nt_char_185": "clarity_nt_char_185"
     },
     "530": {
-        "おもさアップ": ""
+        "おもさアップ": "Weight Up"
     },
     "531": {
         "clarity_nt_char_186": "clarity_nt_char_186"
@@ -1599,73 +1599,73 @@
         "clarity_nt_char_187": "clarity_nt_char_187"
     },
     "534": {
-        "ブレス耐性アップ": ""
+        "ブレス耐性アップ": "Breath Resist Up"
     },
     "535": {
         "clarity_nt_char_188": "clarity_nt_char_188"
     },
     "536": {
-        "ＭＰ吸収ガードアップ": ""
+        "ＭＰ吸収ガードアップ": "MP Absorb Guard Up"
     },
     "537": {
         "clarity_nt_char_189": "clarity_nt_char_189"
     },
     "538": {
-        "こうげき力 中アップ": ""
+        "こうげき力 中アップ": "Attack Up M"
     },
     "539": {
         "clarity_nt_char_190": "clarity_nt_char_190"
     },
     "540": {
-        "しゅび力 中アップ": ""
+        "しゅび力 中アップ": "Defense Up M"
     },
     "541": {
-        "さいだいＨＰ 中アップ": ""
+        "さいだいＨＰ 中アップ": "Max HP Up M"
     },
     "542": {
-        "盾ガード率 中アップ": ""
+        "盾ガード率 中アップ": "Block Rate Up M"
     },
     "543": {
         "clarity_nt_char_191": "clarity_nt_char_191"
     },
     "544": {
-        "きようさ 中アップ": ""
+        "きようさ 中アップ": "Deftness Up M"
     },
     "545": {
-        "すばやさ 中アップ": ""
+        "すばやさ 中アップ": "Agility Up M"
     },
     "546": {
-        "おもさ 中アップ": ""
+        "おもさ 中アップ": "Weight Up M"
     },
     "547": {
         "clarity_nt_char_192": "clarity_nt_char_192"
     },
     "548": {
-        "身かわし率 中アップ": ""
+        "身かわし率 中アップ": "Dodge Rate Up M"
     },
     "549": {
         "clarity_nt_char_193": "clarity_nt_char_193"
     },
     "550": {
-        "ＭＰ吸収ガード 中アップ": ""
+        "ＭＰ吸収ガード 中アップ": "MP Absorb Guard Up M"
     },
     "551": {
         "clarity_nt_char_194": "clarity_nt_char_194"
     },
     "552": {
-        "ブレス耐性 中アップ": ""
+        "ブレス耐性 中アップ": "Breath Resist Up M"
     },
     "553": {
         "clarity_nt_char_195": "clarity_nt_char_195"
     },
     "554": {
-        "かいしん率 中アップ": ""
+        "かいしん率 中アップ": "Critical Rate Up M"
     },
     "555": {
         "clarity_nt_char_196": "clarity_nt_char_196"
     },
     "556": {
-        "ＭＰ吸収ガード 大アップ": ""
+        "ＭＰ吸収ガード 大アップ": "MP Absorb Guard Up L"
     },
     "557": {
         "clarity_nt_char_197": "clarity_nt_char_197"
@@ -1698,7 +1698,7 @@
         "やいばのグリーブの納品": "Spiked Greaves Delivery"
     },
     "567": {
-        "くろがねのブーツの納品": "Black Iron Boots Delivery"
+        "くろがねのブーツの納品": "Darksteel Boots Delivery"
     },
     "568": {
         "木の葉のよろい上の納品": "Foliage Armor Top Delivery"
@@ -1728,7 +1728,7 @@
         "clarity_nt_char_204": "clarity_nt_char_204"
     },
     "577": {
-        "水の脚帯の納品": "Flowing Boot Delivery"
+        "水の脚帯の納品": "FlowingBoots Delivery"
     },
     "578": {
         "ゴードンハンマーの納品": "Mega Moai Hammer Delivery"
@@ -1749,7 +1749,7 @@
         "clarity_nt_char_206": "clarity_nt_char_206"
     },
     "584": {
-        "神官のぼうしの納品": ""
+        "神官のぼうしの納品": "Minister Mitre Delivery"
     },
     "585": {
         "ペンタグラムの納品": "Pentarang Delivery"
@@ -1800,7 +1800,7 @@
         "新兵支給むねあての納品": "Recruit Breastplate Delivery"
     },
     "601": {
-        "王宮魔術師のくつの納品": "Royal Magician Shoes Delivery"
+        "王宮魔術師のくつの納品": "Royal Mage Shoes Delivery"
     },
     "602": {
         "マタドールスーツ上の納品": "Matador Suit Top Delivery"
@@ -1809,7 +1809,7 @@
         "clarity_nt_char_213": "clarity_nt_char_213"
     },
     "604": {
-        "まじないしローブ下の納品": "Fizzle-Retardant Bottom Delivery"
+        "まじないしローブ下の納品": "Fizzle-Retardant Btm Delivery"
     },
     "605": {
         "clarity_nt_char_214": "clarity_nt_char_214"
@@ -1842,13 +1842,13 @@
         "カメのおうぎの納品": "Tortoiseshell Fan Delivery"
     },
     "615": {
-        "おしゃれさ 中アップ": ""
+        "おしゃれさ 中アップ": "Style Up M"
     },
     "616": {
         "clarity_nt_char_217": "clarity_nt_char_217"
     },
     "617": {
-        "踊らされガード 中アップ": ""
+        "踊らされガード 中アップ": "Dance Guard Up M"
     },
     "618": {
         "clarity_nt_char_218": "clarity_nt_char_218"
@@ -1875,13 +1875,13 @@
         "こがらしのダガーの納品": "Pruning Knife Delivery"
     },
     "626": {
-        "ゴシックニーソの納品": ""
+        "ゴシックニーソの納品": "Gothic Knee-Boots Delivery"
     },
     "627": {
         "clarity_nt_char_221": "clarity_nt_char_221"
     },
     "628": {
-        "王宮魔術師ローブ上の納品": "Royal Magician Robe Delivery"
+        "王宮魔術師ローブ上の納品": "Royal Mage Robe Top Delivery"
     },
     "629": {
         "clarity_nt_char_222": "clarity_nt_char_222"

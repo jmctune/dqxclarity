@@ -105,7 +105,7 @@
         "作りかけぬいぐるみ": "Premade Stuffed Toy"
     },
     "36": {
-        "チョコ神ぬいぐるみ": "Choco-God Plush"
+        "チョコ神ぬいぐるみ": "Choco-God Plushie"
     },
     "37": {
         "地竜のツノ": "Erth Drgn Horn"
@@ -189,7 +189,7 @@
         "clarity_nt_char_14": "clarity_nt_char_14"
     },
     "64": {
-        "神官のカギ束": "Priests Key Bundle"
+        "神官のカギ束": "Priest's Keys"
     },
     "65": {
         "clarity_nt_char_15": "clarity_nt_char_15"
@@ -294,19 +294,19 @@
         "トラマナ石": "Tramana Stone"
     },
     "99": {
-        "赤い月光の花": "Red Moonlight Flwr"
+        "赤い月光の花": "Red Moonlit Flower"
     },
     "100": {
         "clarity_nt_char_26": "clarity_nt_char_26"
     },
     "101": {
-        "白い月光の花": "Wht Moonlight Flwr"
+        "白い月光の花": "Wht Moonlit Flower"
     },
     "102": {
         "clarity_nt_char_27": "clarity_nt_char_27"
     },
     "103": {
-        "青い月光の花": "Blue Moonlight Flw"
+        "青い月光の花": "Blue Moonlit Flwr"
     },
     "104": {
         "clarity_nt_char_28": "clarity_nt_char_28"
@@ -444,7 +444,7 @@
         "clarity_nt_char_43": "clarity_nt_char_43"
     },
     "149": {
-        "太古の砂金": "Ancnt Gold Dust"
+        "太古の砂金": "Acnt. Gold Dust"
     },
     "150": {
         "さざなみの貴石": "Rippling Stones"
@@ -510,7 +510,7 @@
         "なぞの小箱": "Mysterious Box"
     },
     "171": {
-        "巨大剣のサビ": "Rusty Giant Sword"
+        "巨大剣のサビ": "Giant Sword Rust"
     },
     "172": {
         "clarity_nt_char_48": "clarity_nt_char_48"
@@ -612,10 +612,10 @@
         "clarity_nt_char_57": "clarity_nt_char_57"
     },
     "205": {
-        "ポムポムオイル": "Pom-Pom Oil"
+        "ポムポムオイル": "Pom Pom Oil"
     },
     "206": {
-        "シオンの花": "Flowers of Zion"
+        "シオンの花": "Shion's Flowers"
     },
     "207": {
         "女神の黄玉石": "Goddess Ylw. Stone"
@@ -804,7 +804,7 @@
         "罪深きバラ": "Sinful Rose"
     },
     "269": {
-        "チャノキの葉": "Chanki Leaf"
+        "チャノキの葉": "Tea Plant Leaf"
     },
     "270": {
         "clarity_nt_char_75": "clarity_nt_char_75"
@@ -825,7 +825,7 @@
         "不気味なペンダント": "Spooky Pendant"
     },
     "276": {
-        "ザイルのカギ": "Key to Zail"
+        "ザイルのカギ": "Dwight's Key"
     },
     "277": {
         "clarity_nt_char_77": "clarity_nt_char_77"
@@ -1203,7 +1203,7 @@
         "パンのかご": "Breadbasket"
     },
     "402": {
-        "くれないジャム": "Crimson Jam"
+        "くれないジャム": "Deep Red Jam"
     },
     "403": {
         "しらゆきバター": "White Snow Butter"
@@ -1212,7 +1212,7 @@
         "ピヨピヨ豆": "Chickpea"
     },
     "405": {
-        "コッケちゃん": "Kokechan"
+        "コッケちゃん": "Kokke-chan"
     },
     "406": {
         "clarity_nt_char_115": "clarity_nt_char_115"
@@ -1386,10 +1386,10 @@
         "虹色の輝石": "Rainbow Augite"
     },
     "463": {
-        "リリオルへの贈り物": "Ririol's Gift"
+        "リリオルへの贈り物": "Lyriol's Gift"
     },
     "464": {
-        "兄からの手紙": "O.Brother's Letter"
+        "兄からの手紙": "Brother's Letter"
     },
     "465": {
         "clarity_nt_char_137": "clarity_nt_char_137"
@@ -1572,7 +1572,7 @@
         "ミローレ衣装券": "Milore Costume Ticket"
     },
     "525": {
-        "スイート衣装券": "Suite Costume Ticket"
+        "スイート衣装券": "Sweet Outfit Ticket"
     },
     "526": {
         "漆黒のノート": "Jet-Black Journal"
@@ -1650,7 +1650,7 @@
         "clarity_nt_char_163": "clarity_nt_char_163"
     },
     "551": {
-        "モモヨのかばん": "Momoyo's Bag"
+        "モモヨのかばん": "Flameman's Bag"
     },
     "552": {
         "竜炎石セット": "DrgnFlme Stone Set"
@@ -1749,7 +1749,7 @@
         "空とぶくつ": "Skysoar Shoes"
     },
     "584": {
-        "ショコラな衣装券": "Chocolate Costume Ticket"
+        "ショコラな衣装券": "Chocolate Outfit Ticket"
     },
     "585": {
         "clarity_nt_char_171": "clarity_nt_char_171"
@@ -1803,7 +1803,7 @@
         "サラツヤオイル": "Glossy Oil"
     },
     "602": {
-        "応援団衣装券": "Cheer Costume Tkt"
+        "応援団衣装券": "Cheer Team Wear Tk"
     },
     "603": {
         "clarity_nt_char_177": "clarity_nt_char_177"
@@ -2013,7 +2013,7 @@
         "clarity_nt_char_203": "clarity_nt_char_203"
     },
     "672": {
-        "ウサぐるみ衣装券": "Usagurumi Costume Ticket"
+        "ウサぐるみ衣装券": "Rabbit Costume Ticket"
     },
     "673": {
         "clarity_nt_char_204": "clarity_nt_char_204"
@@ -2106,7 +2106,7 @@
         "clarity_nt_char_214": "clarity_nt_char_214"
     },
     "703": {
-        "小悪魔衣装券": "Lil'Devil Cost Tkt"
+        "小悪魔衣装券": "Lil'Devil Cost. Tk"
     },
     "704": {
         "clarity_nt_char_215": "clarity_nt_char_215"
@@ -2124,7 +2124,7 @@
         "特濃ラード": "Thick Lard"
     },
     "709": {
-        "夜桜浪漫衣装券": "Nght Rom. Clothes Cpn"
+        "夜桜浪漫衣装券": "Cherry Eve Outfit Tkt"
     },
     "710": {
         "花咲浪漫衣装券": ""
@@ -2139,7 +2139,7 @@
         "奇岩の呪符": ""
     },
     "714": {
-        "サルファバル鉱": ""
+        "サルファバル鉱": "Sulphubal Ore"
     },
     "715": {
         "サルファバリン": ""
@@ -2160,7 +2160,7 @@
         "clarity_nt_char_218": "clarity_nt_char_218"
     },
     "721": {
-        "桜花のブーケ": ""
+        "桜花のブーケ": "C. Blossom Bouquet"
     },
     "722": {
         "clarity_nt_char_219": "clarity_nt_char_219"
@@ -2184,19 +2184,19 @@
         "第十二の月の像": "Twelfth Moon Statue"
     },
     "729": {
-        "妖精の苗木・赤": ""
+        "妖精の苗木・赤": "Red Fairy Sapling"
     },
     "730": {
-        "妖精の苗木・青": ""
+        "妖精の苗木・青": "Blue Fairy Sapling"
     },
     "731": {
-        "妖精の苗木・黄": ""
+        "妖精の苗木・黄": "Yellow Fairy Sapling"
     },
     "732": {
-        "妖精の苗木・紫": ""
+        "妖精の苗木・紫": "Purple Fairy Sapling"
     },
     "733": {
-        "妖精の苗木・緑": ""
+        "妖精の苗木・緑": "Green Fairy Sapling"
     },
     "734": {
         "ひんやりズキーニャ": ""
@@ -2313,10 +2313,10 @@
         "怪獣の海図": ""
     },
     "772": {
-        "三毛猫スーツのヒゲ": ""
+        "三毛猫スーツのヒゲ": "Calico Cat Mustache"
     },
     "773": {
-        "三毛猫スーツ衣装券": ""
+        "三毛猫スーツ衣装券": "Calico Cat Suit Ticket"
     },
     "774": {
         "赤い花束": ""
@@ -2382,10 +2382,10 @@
         "全反転の天雷盤": ""
     },
     "795": {
-        "ホイミントチョコの包み": ""
+        "ホイミントチョコの包み": "Heal Mint Chocolate"
     },
     "796": {
-        "ホイミント衣装券": ""
+        "ホイミント衣装券": "Heal Mint Outfit Ticket"
     },
     "797": {
         "clarity_nt_char_240": "clarity_nt_char_240"
@@ -2772,7 +2772,7 @@
         "バトエンランチャー": "Batoen Launcher"
     },
     "925": {
-        "ハートの兵隊服衣装券": ""
+        "ハートの兵隊服衣装券": "Heart Soldier Suit Tkt"
     },
     "926": {
         "clarity_nt_char_282": "clarity_nt_char_282"
@@ -2781,7 +2781,7 @@
         "ジングルスター": ""
     },
     "928": {
-        "サンタのふくろ": ""
+        "サンタのふくろ": "Santa's Sack"
     },
     "929": {
         "ヒヤヒヤ草": ""
@@ -2835,7 +2835,7 @@
         "協団の救援物資": ""
     },
     "946": {
-        "タイタス号の積荷": ""
+        "タイタス号の積荷": "Titus Cargo"
     },
     "947": {
         "clarity_nt_char_288": "clarity_nt_char_288"
@@ -2991,7 +2991,7 @@
         "clarity_nt_char_305": "clarity_nt_char_305"
     },
     "998": {
-        "カミルの手紙": ""
+        "カミルの手紙": "Kamil's Letter"
     },
     "999": {
         "clarity_nt_char_306": "clarity_nt_char_306"
@@ -3075,16 +3075,16 @@
         "ガラスケースのカギ": ""
     },
     "1026": {
-        "古びた羊皮紙１": ""
+        "古びた羊皮紙１": "Old Parchment 1"
     },
     "1027": {
-        "古びた羊皮紙２": ""
+        "古びた羊皮紙２": "Old Parchment 2"
     },
     "1028": {
-        "古びた羊皮紙３": ""
+        "古びた羊皮紙３": "Old Parchment 3"
     },
     "1029": {
-        "最後の羊皮紙": ""
+        "最後の羊皮紙": "Last Parchment"
     },
     "1030": {
         "clarity_nt_char_313": "clarity_nt_char_313"
@@ -3231,7 +3231,7 @@
         "ムーンレーダー": ""
     },
     "1078": {
-        "ウサぐるみ衣装券Ⅱ": ""
+        "ウサぐるみ衣装券Ⅱ": "Rabbit Costume Ticket Ⅱ"
     },
     "1079": {
         "ギザ縁ウルベアめんこ": ""
@@ -3285,7 +3285,7 @@
         "clarity_nt_char_332": "clarity_nt_char_332"
     },
     "1096": {
-        "じょうぶなヒゲ": ""
+        "じょうぶなヒゲ": "Solid Mustache"
     },
     "1097": {
         "高熱マグマ液": ""
@@ -3318,7 +3318,7 @@
         "clarity_nt_char_336": "clarity_nt_char_336"
     },
     "1107": {
-        "筆頭研究員の服": ""
+        "筆頭研究員の服": "Top Researcher Suit"
     },
     "1108": {
         "ツォンデム主任の写真": ""
@@ -3435,7 +3435,7 @@
         "バレンタインココア": ""
     },
     "1146": {
-        "ミローレのチョコ": ""
+        "ミローレのチョコ": "Milore's Chocolate"
     },
     "1147": {
         "clarity_nt_char_347": "clarity_nt_char_347"
@@ -3483,7 +3483,7 @@
         "clarity_nt_char_352": "clarity_nt_char_352"
     },
     "1162": {
-        "マジカルかぼちゃ": ""
+        "マジカルかぼちゃ": "Magical Pumpkin"
     },
     "1163": {
         "clarity_nt_char_353": "clarity_nt_char_353"
@@ -3507,7 +3507,7 @@
         "clarity_nt_char_354": "clarity_nt_char_354"
     },
     "1170": {
-        "ボイスレコーダー": ""
+        "ボイスレコーダー": "Voice Recorder"
     },
     "1171": {
         "clarity_nt_char_355": "clarity_nt_char_355"
@@ -3603,7 +3603,7 @@
         "テンスの花": ""
     },
     "1202": {
-        "レインボーリキッド": ""
+        "レインボーリキッド": "Rainbow Liquid"
     },
     "1203": {
         "壱の式修了の陽符": ""
@@ -4329,31 +4329,31 @@
         "お見舞い用料理の|材料となる|山盛りの果実": ""
     },
     "1444": {
-        "かつて桜だった|ふゆうじゅが|咲かせていた花": ""
+        "かつて桜だった|ふゆうじゅが|咲かせていた花": "Flowers that|used to be on|a cherry tree."
     },
     "1445": {
         "clarity_nt_char_445": "clarity_nt_char_445"
     },
     "1446": {
-        "ばくだん岩の|中から出てきた|紅くかがやく石": ""
+        "ばくだん岩の|中から出てきた|紅くかがやく石": "Shiny red stone|that came from|a Rockbomb."
     },
     "1447": {
         "clarity_nt_char_446": "clarity_nt_char_446"
     },
     "1448": {
-        "海の中に|生えているという|不思議なヤシの葉": ""
+        "海の中に|生えているという|不思議なヤシの葉": "Strange palm|leaves from the|sea."
     },
     "1449": {
         "clarity_nt_char_447": "clarity_nt_char_447"
     },
     "1450": {
-        "しのどれいが|亡霊王のために|集めていた砂金": ""
+        "しのどれいが|亡霊王のために|集めていた砂金": "Gold that Dead|Resident's were|collecting."
     },
     "1451": {
         "clarity_nt_char_448": "clarity_nt_char_448"
     },
     "1452": {
-        "海の彼方から|流れ着くという|漂流する青い石": ""
+        "海の彼方から|流れ着くという|漂流する青い石": "A blue stone|that drifted|from the sea."
     },
     "1453": {
         "clarity_nt_char_449": "clarity_nt_char_449"
@@ -4416,7 +4416,7 @@
         "魔法のように|キラリと輝く|つややかな液体": ""
     },
     "1473": {
-        "今のところ|特に使い道のない|金属の鉱石": ""
+        "今のところ|特に使い道のない|金属の鉱石": "Metal ore that|has no specific|use right now."
     },
     "1474": {
         "clarity_nt_char_457": "clarity_nt_char_457"
@@ -4437,7 +4437,7 @@
         "clarity_nt_char_459": "clarity_nt_char_459"
     },
     "1480": {
-        "剣岩にある|巨大剣から採れた|年代物のサビ": ""
+        "剣岩にある|巨大剣から採れた|年代物のサビ": "Rust from a|giant sword|in a rock."
     },
     "1481": {
         "太陽のチカラを|宿すという|あたたかい粉": ""
@@ -4560,7 +4560,7 @@
         "女神の加護が|込められている|紫色に輝く石": ""
     },
     "1521": {
-        "大いなる災厄と|戦う者であると|示してくれる証": ""
+        "大いなる災厄と|戦う者であると|示してくれる証": "A token showing|you will fight|against evil."
     },
     "1522": {
         "とあるオーガ王の|慈愛の心が|宿るという石": ""
@@ -5082,7 +5082,7 @@
         "レンダーシアへの|乗船パスと|交換できる券": "A voucher for a|boarding pass|to Lendersia."
     },
     "1695": {
-        "レンダーシアへ|向かう船に乗れる|貴重なパス": ""
+        "レンダーシアへ|向かう船に乗れる|貴重なパス": "A valuable pass|to board a ship|to Lendersia."
     },
     "1696": {
         "clarity_nt_char_538": "clarity_nt_char_538"
@@ -11367,7 +11367,7 @@
         "<pc>は　ハッスルしっぷを|手に取って　ながめてみた。|<br>|見た目は　ふつうのしっぷと|あまり　変わらない。|<br>|……じっくり　見ていたら|強烈な　ハッカのにおいが|手に　しみついてしまった。": ""
     },
     "3790": {
-        "<pc>は　音楽祭のパンフレットを|手に取って　ながめてみた。|<br><center>|海洋都市リンジャハル復興音楽祭|リンジャハル大劇場で　開催予定！|<br><center>|ゲストには　あの大人気の|エテーネ王国の花の歌姫が！？|当日は　リンジャハル大劇場へゴー！！": "<pc> picked up the Music Festival|Pamphlet and took a closer look.|<br><center>|Ocean City Linjahar Reconstruction|Music Festival!|Will be held at Linjahar Grand Theater!|<br><center>|The special guest will be a flower diva|from the... \nKingdom of Ethene?!|You don't want to miss this special day!"
+        "<pc>は　音楽祭のパンフレットを|手に取って　ながめてみた。|<br><center>|海洋都市リンジャハル復興音楽祭|リンジャハル大劇場で　開催予定！|<br><center>|ゲストには　あの大人気の|エテーネ王国の花の歌姫が！？|当日は　リンジャハル大劇場へゴー！！": "<pc> picked up the Music Festival|Pamphlet and took a closer look.|<br><center>|Ocean City Linjahar Reconstruction|Music Festival!|Will be held at Linjahar Grand Theater!|<br><center>|The special guest will be a flower diva|from the... Kingdom of Ethene?!|You don't want to miss this special day!"
     },
     "3791": {
         "<pc>は　レグルのペンダントを|手に取って　ながめてみた。|<br>|ペンダントのトップに　奇妙な形をした|ベリル石が　飾られている。": ""
@@ -11763,7 +11763,7 @@
         "clarity_nt_char_1289": "clarity_nt_char_1289"
     },
     "3922": {
-        "スボバメダル": ""
+        "スボバメダル": "Snowball Btl Medal"
     },
     "3923": {
         "clarity_nt_char_1290": "clarity_nt_char_1290"
@@ -11892,7 +11892,7 @@
         "歪曲性超空間論・下": ""
     },
     "3965": {
-        "グロリアス衣装券": ""
+        "グロリアス衣装券": "Glorious Outfit Ticket"
     },
     "3966": {
         "clarity_nt_char_1299": "clarity_nt_char_1299"
@@ -11913,7 +11913,7 @@
         "clarity_nt_char_1301": "clarity_nt_char_1301"
     },
     "3972": {
-        "カンフー衣装券": ""
+        "カンフー衣装券": "Kung Fu Outfit Ticket"
     },
     "3973": {
         "暗鉄鉱を探すため|アバノク祭司長が|貸してくれた杖": ""
@@ -12222,7 +12222,7 @@
         "<pc>は　落陽の天然水を|手に取って　ながめてみた。|<br>|とても　澄んだ　きれいな水だ。|これなら　想望華の芽も　よく育ちそうだ。": ""
     },
     "4075": {
-        "剣魔の証": ""
+        "剣魔の証": "SwdDmn Proof"
     },
     "4076": {
         "clarity_nt_char_1334": "clarity_nt_char_1334"
@@ -12234,7 +12234,7 @@
         "clarity_nt_char_1335": "clarity_nt_char_1335"
     },
     "4079": {
-        "しもべの証": ""
+        "しもべの証": "Servant Proof"
     },
     "4080": {
         "アスバルの部屋のカギ": ""
@@ -12543,10 +12543,10 @@
         "ヴァレリアへの親書": ""
     },
     "4182": {
-        "トランプケース": "Daifugo Card Case"
+        "トランプケース": "Tycoon Card Case"
     },
     "4183": {
-        "大富豪で|遊ぶための|カードケース": "Card case|for playing|Daifugo."
+        "大富豪で|遊ぶための|カードケース": "Card case|for playing|Tycoon."
     },
     "4184": {
         "<pc>は　魔仙卿が書いた|ヴァレリアへの親書を|手に取ってみた。|<br>|上質な封筒に　魔仙卿を示す|封蝋が　ほどこされている。|なんとも　おごそかな雰囲気だ。": ""
@@ -12591,7 +12591,7 @@
         "カラミントの花": ""
     },
     "4198": {
-        "カワイ子ちゃん": ""
+        "カワイ子ちゃん": "Kawaiko"
     },
     "4199": {
         "バルディアメタル": ""
@@ -12660,7 +12660,7 @@
         "clarity_nt_char_1384": "clarity_nt_char_1384"
     },
     "4221": {
-        "夜空のお守り": ""
+        "夜空のお守り": "Night Sky Amulet"
     },
     "4222": {
         "clarity_nt_char_1385": "clarity_nt_char_1385"
@@ -13017,7 +13017,7 @@
         "ぼろぼろの日記": ""
     },
     "4340": {
-        "ウサぐるみ衣装券Ⅲ": ""
+        "ウサぐるみ衣装券Ⅲ": "Rabbit Costume Ticket Ⅲ"
     },
     "4341": {
         "石碑の写真": ""
@@ -13326,7 +13326,7 @@
         "<pc>は　袋にはいっている|プクレの茶葉の　香りを　かいでみた。|<br>|まるで　お花畑にいるような香りに|<pc>は　おもわず　うっとりとした……。": ""
     },
     "4443": {
-        "マジカルスーツ衣装券": ""
+        "マジカルスーツ衣装券": "Magical Outfit Ticket"
     },
     "4444": {
         "clarity_nt_char_1468": "clarity_nt_char_1468"
@@ -13572,7 +13572,7 @@
         "clarity_nt_char_1493": "clarity_nt_char_1493"
     },
     "4525": {
-        "大魔王城１階のカギ": ""
+        "大魔王城１階のカギ": "My Castle 1F Key"
     },
     "4526": {
         "不死の包帯": ""
@@ -13821,7 +13821,7 @@
         "clarity_nt_char_1524": "clarity_nt_char_1524"
     },
     "4608": {
-        "<pc>は　大魔王城１階のカギを|手に取って　ながめてみた。|<br>|大魔王城に　ふさわしい　立派なカギだ。|<pc>は　誇らしい気持ちになった。": ""
+        "<pc>は　大魔王城１階のカギを|手に取って　ながめてみた。|<br>|大魔王城に　ふさわしい　立派なカギだ。|<pc>は　誇らしい気持ちになった。": "<pc> picked up the Castle 1F Key and|looked at it.|<br>|It's a key suitable for the Great Demon Lord's|Castle. <pc> felt proud holding it."
     },
     "4609": {
         "clarity_nt_char_1525": "clarity_nt_char_1525"

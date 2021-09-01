@@ -459,13 +459,13 @@
         "「<%sL_RULA_POINT>には|　いくつかの　行き先がありますわ。|　どの場所を覚えさせますか？<break>": ""
     },
     "154": {
-        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|やめる|<select_end><break>": ""
+        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|Cancel|<select_end><break>"
     },
     "155": {
-        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": ""
+        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|Cancel|<select_end><break>"
     },
     "156": {
-        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": ""
+        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|Cancel|<select_end><break>"
     },
     "157": {
         "「……オレ　神父の修行した。|　だから　神父できる。|　オマエ　用事　言え。|<ask><bw_break>": ""
@@ -477,7 +477,7 @@
         "「他に　用事あるか？|<break>": ""
     },
     "160": {
-        "「……種族　変える？|　よく　わからない。でも　やってみる。|<br>|「オマエ　もうひとつの姿。|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えるか？|<yesno><break>": ""
+        "「……種族　変える？|　よく　わからない。でも　やってみる。|<br>|「オマエ　もうひとつの姿。|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えるか？|<yesno><break>": "...change your race?|I'm not really sure, but... I'll try.|<br>|There exists another version of you.|Do you want to change from <%sL_RACE_NOW>|to <%sL_RACE_AFTER>, my child?|<yesno><break>"
     },
     "161": {
         "「……なら　旅の無事　神に祈れ。|<br>|「オマエが　チカラ尽きた時の復活場所。|　<%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>の教会から|　オレの前に変更して　いいか？|<yesno><break>": ""
@@ -552,13 +552,13 @@
         "「……オマエ　死んでない。|<bw_break>": ""
     },
     "185": {
-        "「……<%sL_DOKU_PCNAME>　死んでない。|<bw_break>": ""
+        "「……<%sL_DOKU_PCNAME>　死んでない。|<bw_break>": "....<%sL_DOKU_PCNAME> is not dead.|<bw_break>"
     },
     "186": {
         "「む？　オマエ　呪われてない。|<bw_break>": ""
     },
     "187": {
-        "「む？　<%sL_DOKU_PCNAME>|　呪われてない。|<bw_break>": ""
+        "「む？　<%sL_DOKU_PCNAME>|　呪われてない。|<bw_break>": "Hm? <%sL_DOKU_PCNAME> is not cursed.|<bw_break>"
     },
     "188": {
         "「む？　オマエの仲間。|　誰も　呪われてない。|<bw_break>": ""
@@ -567,7 +567,7 @@
         "「おお　神！|　<pc>の呪い　消せ！<bw_break>": ""
     },
     "190": {
-        "「おお　神！|　<%sL_DOKU_PCNAME>の呪い　消せ！<bw_break>": ""
+        "「おお　神！|　<%sL_DOKU_PCNAME>の呪い　消せ！<bw_break>": "Oh, lord!|Please heal <%sL_DOKU_PCNAME> of their curse!<bw_break>"
     },
     "191": {
         "「……なら　これまでの　おこない。|　神に　告白しろ。|<bw_break>": ""

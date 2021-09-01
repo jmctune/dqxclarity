@@ -1,0 +1,875 @@
+{
+    "1": {
+        "スライム": "Slime"
+    },
+    "2": {
+        "clarity_nt_char_2": "clarity_nt_char_2"
+    },
+    "3": {
+        "スライムナイト": "Slime Knight"
+    },
+    "4": {
+        "バブルスライム": "Bubble Slime"
+    },
+    "5": {
+        "スライムつむり": "Shell Slime"
+    },
+    "6": {
+        "ホイミスライム": "Healslime"
+    },
+    "7": {
+        "スライムべス": "She-Slime"
+    },
+    "8": {
+        "clarity_nt_char_8": "clarity_nt_char_8"
+    },
+    "9": {
+        "メタルライダー": "Metal Slime Knight"
+    },
+    "10": {
+        "はぐレモン": "Liquid Lemon"
+    },
+    "11": {
+        "マリンスライム": "Seaslime"
+    },
+    "12": {
+        "しびれくらげ": "Man o' war"
+    },
+    "13": {
+        "clarity_nt_char_13": "clarity_nt_char_13"
+    },
+    "14": {
+        "レモンスライム": "Lemon Slime"
+    },
+    "15": {
+        "マッシュスライム": "Slimeshroom"
+    },
+    "16": {
+        "clarity_nt_char_16": "clarity_nt_char_16"
+    },
+    "17": {
+        "つららスライム": "Slimecicle"
+    },
+    "18": {
+        "ベホイミスライム": "Medislime"
+    },
+    "19": {
+        "clarity_nt_char_19": "clarity_nt_char_19"
+    },
+    "20": {
+        "ぬかどこスライム": "Pickled Slime"
+    },
+    "21": {
+        "clarity_nt_char_21": "clarity_nt_char_21"
+    },
+    "22": {
+        "ベホイムスライム": "Sootheslime"
+    },
+    "23": {
+        "clarity_nt_char_23": "clarity_nt_char_23"
+    },
+    "24": {
+        "メタルスライム": "Metal Slime"
+    },
+    "25": {
+        "ハートナイト": "Snooty Slime Kngt."
+    },
+    "26": {
+        "clarity_nt_char_26": "clarity_nt_char_26"
+    },
+    "27": {
+        "はぐれメタル": "Liquid Metal Slime"
+    },
+    "28": {
+        "clarity_nt_char_28": "clarity_nt_char_28"
+    },
+    "29": {
+        "つむりんママ": "Mama Snail Slime"
+    },
+    "30": {
+        "clarity_nt_char_30": "clarity_nt_char_30"
+    },
+    "31": {
+        "メタルホイミン": "Metal Healie"
+    },
+    "32": {
+        "ひたむきスピード": "Speedy "
+    },
+    "33": {
+        "clarity_nt_char_33": "clarity_nt_char_33"
+    },
+    "34": {
+        "そつなきバランス": "Balanced "
+    },
+    "35": {
+        "clarity_nt_char_35": "clarity_nt_char_35"
+    },
+    "36": {
+        "はちゃめちゃイタズラ": "Mischievous "
+    },
+    "37": {
+        "clarity_nt_char_37": "clarity_nt_char_37"
+    },
+    "38": {
+        "のんびりマイペース": "Relaxed "
+    },
+    "39": {
+        "ふわっとリカバー": "Recovery "
+    },
+    "40": {
+        "clarity_nt_char_40": "clarity_nt_char_40"
+    },
+    "41": {
+        "すばやイチゴ": "Agile Strawberry"
+    },
+    "42": {
+        "clarity_nt_char_42": "clarity_nt_char_42"
+    },
+    "43": {
+        "ぶっとび草": "Surprise Grass"
+    },
+    "44": {
+        "スタミ菜": "Stam-Greens"
+    },
+    "45": {
+        "clarity_nt_char_45": "clarity_nt_char_45"
+    },
+    "46": {
+        "エムピーナッツ": "MP Nuts"
+    },
+    "47": {
+        "スライムの移動速度がアップ！|いち早く　ゴールできます。": "Increases movement speed. Good|for reaching the goal quicker."
+    },
+    "48": {
+        "clarity_nt_char_48": "clarity_nt_char_48"
+    },
+    "49": {
+        "スライムのジャンプ率がアップ！|ジャンプ中は妨害を受けません。": "Increases jump rate. Slime will|jump more often and over traps."
+    },
+    "50": {
+        "スライムのスタミナがアップ！|スタミナが切れづらくなります。": "Increases stamina. Stamina will|decrease more slowly."
+    },
+    "51": {
+        "clarity_nt_char_51": "clarity_nt_char_51"
+    },
+    "52": {
+        "スライムの最大ＭＰがアップ！|とくぎを使える回数が増えます。": "Increases Max MP. More skills|can be used with more MP."
+    },
+    "53": {
+        "clarity_nt_char_53": "clarity_nt_char_53"
+    },
+    "54": {
+        "無敵アクセル": "Unrivaled Accel"
+    },
+    "55": {
+        "clarity_nt_char_55": "clarity_nt_char_55"
+    },
+    "56": {
+        "ダウン": "Down"
+    },
+    "57": {
+        "ラリホー": "Snooze"
+    },
+    "58": {
+        "clarity_nt_char_58": "clarity_nt_char_58"
+    },
+    "59": {
+        "ピオラ": "Accel"
+    },
+    "60": {
+        "ボミオス": "Deceleratle"
+    },
+    "61": {
+        "clarity_nt_char_61": "clarity_nt_char_61"
+    },
+    "62": {
+        "ジャンプ封じ": "Seal Jump"
+    },
+    "63": {
+        "clarity_nt_char_63": "clarity_nt_char_63"
+    },
+    "64": {
+        "吸収バリア": "Absorb Barrier"
+    },
+    "65": {
+        "スタミナ切れ": "Out of Stamina!"
+    },
+    "66": {
+        "clarity_nt_char_66": "clarity_nt_char_66"
+    },
+    "67": {
+        "まもりの貝がら": "Protective Shell"
+    },
+    "68": {
+        "ジャンプ": "Jump"
+    },
+    "69": {
+        "clarity_nt_char_69": "clarity_nt_char_69"
+    },
+    "70": {
+        "スーパージャンプ": "Super Jump"
+    },
+    "71": {
+        "clarity_nt_char_71": "clarity_nt_char_71"
+    },
+    "72": {
+        "ぼうぎょ": "Defend"
+    },
+    "73": {
+        "clarity_nt_char_73": "clarity_nt_char_73"
+    },
+    "74": {
+        "マホカンタ": "Bounce"
+    },
+    "75": {
+        "キラキラガード": "Sparkle Guard"
+    },
+    "76": {
+        "ハッスルレイン": "Hustle Rain"
+    },
+    "77": {
+        "ふわふわボディ": "Fluffy Body"
+    },
+    "78": {
+        "移動": "Move"
+    },
+    "79": {
+        "clarity_nt_char_79": "clarity_nt_char_79"
+    },
+    "80": {
+        "ジャンプ！": "Jump!"
+    },
+    "81": {
+        "スーパージャンプ！！": "Super Jump!!"
+    },
+    "82": {
+        "clarity_nt_char_82": "clarity_nt_char_82"
+    },
+    "83": {
+        "ひと休み": "Resting"
+    },
+    "84": {
+        "clarity_nt_char_84": "clarity_nt_char_84"
+    },
+    "85": {
+        "ダッシュ": "Dash"
+    },
+    "86": {
+        "clarity_nt_char_86": "clarity_nt_char_86"
+    },
+    "87": {
+        "ホイミ": "Heal"
+    },
+    "88": {
+        "スタミナ吸収": "Absorb Stamina"
+    },
+    "89": {
+        "clarity_nt_char_89": "clarity_nt_char_89"
+    },
+    "90": {
+        "急速回復": "Fast Recover"
+    },
+    "91": {
+        "clarity_nt_char_91": "clarity_nt_char_91"
+    },
+    "92": {
+        "ボミエ": "Decel"
+    },
+    "93": {
+        "バナナセット": "Banana Trap"
+    },
+    "94": {
+        "clarity_nt_char_94": "clarity_nt_char_94"
+    },
+    "95": {
+        "メラ": "Frizz"
+    },
+    "96": {
+        "clarity_nt_char_96": "clarity_nt_char_96"
+    },
+    "97": {
+        "イオラ": "Boom"
+    },
+    "98": {
+        "どくどくだま": "Pounding Ball"
+    },
+    "99": {
+        "clarity_nt_char_99": "clarity_nt_char_99"
+    },
+    "100": {
+        "ヒャド": "Crack"
+    },
+    "101": {
+        "バナナダウン": "Banana Down"
+    },
+    "102": {
+        "clarity_nt_char_102": "clarity_nt_char_102"
+    },
+    "103": {
+        "寝る": "Sleep"
+    },
+    "104": {
+        "clarity_nt_char_104": "clarity_nt_char_104"
+    },
+    "105": {
+        "身をかわした！": "Dodged!"
+    },
+    "106": {
+        "スタミナが回復した！": "Stamina recovered!"
+    },
+    "107": {
+        "clarity_nt_char_107": "clarity_nt_char_107"
+    },
+    "108": {
+        "ガード！": "Guard!"
+    },
+    "109": {
+        "clarity_nt_char_109": "clarity_nt_char_109"
+    },
+    "110": {
+        "スタミナを|吸収できなかった": "Stamina couldn't|be absorbed."
+    },
+    "111": {
+        "clarity_nt_char_111": "clarity_nt_char_111"
+    },
+    "112": {
+        "呪文をはねかえした！": "Spell reflected!"
+    },
+    "113": {
+        "clarity_nt_char_113": "clarity_nt_char_113"
+    },
+    "114": {
+        "呪文をはねかえされた！": "Spell was reflected!"
+    },
+    "115": {
+        "げんきトール": "Energy Toll"
+    },
+    "116": {
+        "clarity_nt_char_116": "clarity_nt_char_116"
+    },
+    "117": {
+        "ミラクルスピン": "Miracle Spin"
+    },
+    "118": {
+        "ハッスルレインで回復": "Hustle Rain Recovery"
+    },
+    "119": {
+        "clarity_nt_char_119": "clarity_nt_char_119"
+    },
+    "120": {
+        "キラキラガードで|無効化した！": "Nullifed with|Sparkle Guard!"
+    },
+    "121": {
+        "ミラクルスピンで|スタミナが回復した！": "Recovered stamina|from Miracle Spin!"
+    },
+    "122": {
+        "（なし）": "(None)"
+    },
+    "123": {
+        "clarity_nt_char_123": "clarity_nt_char_123"
+    },
+    "124": {
+        "とくぎを使わない": "Don't use a|skill."
+    },
+    "125": {
+        "clarity_nt_char_125": "clarity_nt_char_125"
+    },
+    "126": {
+        "ハイスピードで|走り抜ける": "Run at high|speed."
+    },
+    "127": {
+        "一定時間|加速する": "Accelerate for|a time."
+    },
+    "128": {
+        "一定時間|無敵状態で|かけぬける": "Become invincible|for a|duration."
+    },
+    "129": {
+        "clarity_nt_char_129": "clarity_nt_char_129"
+    },
+    "130": {
+        "スタミナが|１０回復する": "Recovers 10|Stamina."
+    },
+    "131": {
+        "clarity_nt_char_131": "clarity_nt_char_131"
+    },
+    "132": {
+        "先頭の|スタミナを奪う": "Steal the|leader's Stamina."
+    },
+    "133": {
+        "スタミナ切れの時|急速に回復する|常に効果がある": "Rapidly gain|Stamina when|it runs out."
+    },
+    "134": {
+        "clarity_nt_char_134": "clarity_nt_char_134"
+    },
+    "135": {
+        "先頭を|減速させる呪文": "Spell that|slows the|leader."
+    },
+    "136": {
+        "他の全スライムに|踏むと転ぶ|バナナをしかける": "A banana that|trips all the|other slimes."
+    },
+    "137": {
+        "他の全スライムを|減速させる呪文": "Spell that slows|other slimes."
+    },
+    "138": {
+        "clarity_nt_char_138": "clarity_nt_char_138"
+    },
+    "139": {
+        "一定時間|妨害を受けると|スタミナ回復する": "Recovers stamina|for a time|when hit."
+    },
+    "140": {
+        "先頭を|転ばせる呪文": "Trips the|leading|slime."
+    },
+    "141": {
+        "clarity_nt_char_141": "clarity_nt_char_141"
+    },
+    "142": {
+        "他の全スライムを|転ばせる呪文": "A spell to trip|all other|slimes."
+    },
+    "143": {
+        "先頭を転ばせる|成功すると|スタミナも減らす": "Hits the lead|slime and lowers|their Stamina."
+    },
+    "144": {
+        "clarity_nt_char_144": "clarity_nt_char_144"
+    },
+    "145": {
+        "先頭を癒すが|眠らせる呪文": "Lead slime|heals and|falls asleep."
+    },
+    "146": {
+        "受ける妨害を|まれに無効化する|常に効果がある": "Rarely negates|any hits|you receive."
+    },
+    "147": {
+        "一定時間|妨害を|ガードする": "Guards hits|for a while."
+    },
+    "148": {
+        "clarity_nt_char_148": "clarity_nt_char_148"
+    },
+    "149": {
+        "一定時間|妨害呪文を|はねかえす": "Repel sabotaging|spells for|a while."
+    },
+    "150": {
+        "clarity_nt_char_150": "clarity_nt_char_150"
+    },
+    "151": {
+        "他の全スライムの|スタミナを奪う": "Steal stamina|from other|slimes."
+    },
+    "152": {
+        "clarity_nt_char_152": "clarity_nt_char_152"
+    },
+    "153": {
+        "妨害を|１回ガードする|発動まで消えない": "Guards a hit one|time. Lasts|until hit."
+    },
+    "154": {
+        "clarity_nt_char_154": "clarity_nt_char_154"
+    },
+    "155": {
+        "スタミナ回復する|雨を周りに降らし|走り抜ける": "Rain falls and|recovers|Stamina."
+    },
+    "156": {
+        "先頭を転ばせる|成功すると|自分は回復する": "Dash at the|start and recover|Stamina."
+    },
+    "157": {
+        "バナナを踏んでも|転ばない|常に効果がある": "You won't trip|over bananas|anymore."
+    },
+    "158": {
+        "がんばれ！|<%sCAS_slime>！": "Do your best!|<%sCAS_slime>!"
+    },
+    "159": {
+        "clarity_nt_char_159": "clarity_nt_char_159"
+    },
+    "160": {
+        "<%sCAS_slime>！|ダッシュ！": "<%sCAS_slime>!|Dash!"
+    },
+    "161": {
+        "clarity_nt_char_161": "clarity_nt_char_161"
+    },
+    "162": {
+        "<%sCAS_slime>！|ピオラ！": "<%sCAS_slime>!|Accel!"
+    },
+    "163": {
+        "<%sCAS_slime>！|無敵アクセル！": "<%sCAS_slime>!|Unrivaled Accel!"
+    },
+    "164": {
+        "clarity_nt_char_164": "clarity_nt_char_164"
+    },
+    "165": {
+        "<%sCAS_slime>！|ホイミ！": "<%sCAS_slime>!|Heal!"
+    },
+    "166": {
+        "<%sCAS_slime>！|スタミナ吸収！": "<%sCAS_slime>!|Stamina Absorb!"
+    },
+    "167": {
+        "clarity_nt_char_167": "clarity_nt_char_167"
+    },
+    "168": {
+        "<%sCAS_slime>！|急速回復！": "<%sCAS_slime>!|Fast Recover!"
+    },
+    "169": {
+        "clarity_nt_char_169": "clarity_nt_char_169"
+    },
+    "170": {
+        "<%sCAS_slime>！|ボミエ！": "<%sCAS_slime>!|Decel!"
+    },
+    "171": {
+        "<%sCAS_slime>！|バナナセット！": "<%sCAS_slime>!|Banana Trap!"
+    },
+    "172": {
+        "clarity_nt_char_172": "clarity_nt_char_172"
+    },
+    "173": {
+        "<%sCAS_slime>！|ボミオス！": "<%sCAS_slime>!|Deceleratle!"
+    },
+    "174": {
+        "clarity_nt_char_174": "clarity_nt_char_174"
+    },
+    "175": {
+        "<%sCAS_slime>！|吸収バリア！": "<%sCAS_slime>!|Absorb Barrier!"
+    },
+    "176": {
+        "<%sCAS_slime>！|メラ！": "<%sCAS_slime>!|Frizz!"
+    },
+    "177": {
+        "clarity_nt_char_177": "clarity_nt_char_177"
+    },
+    "178": {
+        "<%sCAS_slime>！|イオラ！": "<%sCAS_slime>!|Boom!"
+    },
+    "179": {
+        "<%sCAS_slime>！|どくどくだま！": "<%sCAS_slime>!|Pounding Ball!"
+    },
+    "180": {
+        "clarity_nt_char_180": "clarity_nt_char_180"
+    },
+    "181": {
+        "<%sCAS_slime>！|ラリホー！": "<%sCAS_slime>!|Snooze!"
+    },
+    "182": {
+        "clarity_nt_char_182": "clarity_nt_char_182"
+    },
+    "183": {
+        "<%sCAS_slime>！|ヒャド！": "<%sCAS_slime>!|Crack!"
+    },
+    "184": {
+        "<%sCAS_slime>！|まもりの貝がら！": "<%sCAS_slime>!|Protective Shell!"
+    },
+    "185": {
+        "<%sCAS_slime>！|ぼうぎょ！": "<%sCAS_slime>!|Defend!"
+    },
+    "186": {
+        "clarity_nt_char_186": "clarity_nt_char_186"
+    },
+    "187": {
+        "<%sCAS_slime>！|マホカンタ！": "<%sCAS_slime>!|Bounce!"
+    },
+    "188": {
+        "<%sCAS_slime>！|げんきトール！": "<%sCAS_slime>!|Energy Toll!"
+    },
+    "189": {
+        "clarity_nt_char_189": "clarity_nt_char_189"
+    },
+    "190": {
+        "<%sCAS_slime>！|キラキラガード！": "<%sCAS_slime>!|Sparkle Guard!"
+    },
+    "191": {
+        "<%sCAS_slime>！|ハッスルレイン！": "<%sCAS_slime>!|Hustle Rain!"
+    },
+    "192": {
+        "<%sCAS_slime>！|ミラクルスピン！": "<%sCAS_slime>!|Miracle Spin!"
+    },
+    "193": {
+        "<%sCAS_slime>！|ふわふわボディ！": "<%sCAS_slime>!|Fluffy Body!"
+    },
+    "194": {
+        "ビギナーⅢ": "Beginner Ⅲ"
+    },
+    "195": {
+        "ビギナーⅡ": "Beginner Ⅱ"
+    },
+    "196": {
+        "ビギナーⅠ": "Beginner Ⅰ"
+    },
+    "197": {
+        "マスターⅡ": "Master Ⅱ"
+    },
+    "198": {
+        "マスターⅠ": "Master Ⅰ"
+    },
+    "199": {
+        "チャンピオンシップ": "Championship"
+    },
+    "200": {
+        "練習レース": "Practice Race"
+    },
+    "201": {
+        "大会予選": "Qualifier"
+    },
+    "202": {
+        "clarity_nt_char_202": "clarity_nt_char_202"
+    },
+    "203": {
+        "第１回アストルティアカップ": "1st Astoltia Cup"
+    },
+    "204": {
+        "第２回アストルティアカップ": "2nd Astoltia Cup"
+    },
+    "205": {
+        "第３回アストルティアカップ": "3rd Astoltia Cup"
+    },
+    "206": {
+        "第４回アストルティアカップ": "4th Astoltia Cup"
+    },
+    "207": {
+        "第５回アストルティアカップ": "5th Astoltia Cup"
+    },
+    "208": {
+        "第６回アストルティアカップ": "6th Astoltia Cup"
+    },
+    "209": {
+        "第７回アストルティアカップ": "7th Astoltia Cup"
+    },
+    "210": {
+        "第８回アストルティアカップ": "8th Astoltia Cup"
+    },
+    "211": {
+        "第９回アストルティアカップ": "9th Astoltia Cup"
+    },
+    "212": {
+        "第１０回アストルティアカップ": "10th Astoltia Cup"
+    },
+    "213": {
+        "clarity_nt_char_213": "clarity_nt_char_213"
+    },
+    "214": {
+        "第１１回アストルティアカップ": "11th Astoltia Cup"
+    },
+    "215": {
+        "clarity_nt_char_215": "clarity_nt_char_215"
+    },
+    "216": {
+        "第１２回アストルティアカップ": "12th Astoltia Cup"
+    },
+    "217": {
+        "clarity_nt_char_217": "clarity_nt_char_217"
+    },
+    "218": {
+        "第１３回アストルティアカップ": "13th Astoltia Cup"
+    },
+    "219": {
+        "clarity_nt_char_219": "clarity_nt_char_219"
+    },
+    "220": {
+        "第１４回アストルティアカップ": "14th Astoltia Cup"
+    },
+    "221": {
+        "clarity_nt_char_221": "clarity_nt_char_221"
+    },
+    "222": {
+        "第１５回アストルティアカップ": "15th Astoltia Cup"
+    },
+    "223": {
+        "clarity_nt_char_223": "clarity_nt_char_223"
+    },
+    "224": {
+        "第１回チャンピオンシップ決勝戦": "1st Championship Finals"
+    },
+    "225": {
+        "マホターン": "Bound"
+    },
+    "226": {
+        "加速バリア": "Accel Barrier"
+    },
+    "227": {
+        "加速バリア成功時": "Accel Barrier Success"
+    },
+    "228": {
+        "clarity_nt_char_228": "clarity_nt_char_228"
+    },
+    "229": {
+        "スタミナを|回復できなかった！": "Could not|recover Stamina!"
+    },
+    "230": {
+        "ピオメラ": "Accelafrizz"
+    },
+    "231": {
+        "clarity_nt_char_231": "clarity_nt_char_231"
+    },
+    "232": {
+        "開幕ダッシュ": "Open Dash"
+    },
+    "233": {
+        "clarity_nt_char_233": "clarity_nt_char_233"
+    },
+    "234": {
+        "バブル崩壊": "Bubble Collapse"
+    },
+    "235": {
+        "シェルミサイル": "Shell Missle"
+    },
+    "236": {
+        "加速バリアで|加速した！": "Accelerated with|Accel Barrier!"
+    },
+    "237": {
+        "clarity_nt_char_237": "clarity_nt_char_237"
+    },
+    "238": {
+        "先頭を転ばせて|自分は|加速する呪文": "Hits the leader|and gives|acceleration."
+    },
+    "239": {
+        "clarity_nt_char_239": "clarity_nt_char_239"
+    },
+    "240": {
+        "レース開始時に|走り抜ける|常に効果がある": "Always begin a|race with a|dash."
+    },
+    "241": {
+        "他の全スライムを|転ばせて|減速もさせる": "Knock down other|slimes and|slow them down."
+    },
+    "242": {
+        "clarity_nt_char_242": "clarity_nt_char_242"
+    },
+    "243": {
+        "先頭を転ばせて|一定時間自分は|ガードする": "Hit the lead|slime and guard|for a time."
+    },
+    "244": {
+        "妨害呪文を|１回はねかえす|発動まで消えない": "Repels one|sabotage spell.|Lasts until hit."
+    },
+    "245": {
+        "clarity_nt_char_245": "clarity_nt_char_245"
+    },
+    "246": {
+        "一定時間|妨害を受けると|加速する": "Sometimes|accelerate when|hit."
+    },
+    "247": {
+        "<%sCAS_slime>！|ピオメラ！": "<%sCAS_slime>!|Accelafrizz!"
+    },
+    "248": {
+        "clarity_nt_char_248": "clarity_nt_char_248"
+    },
+    "249": {
+        "<%sCAS_slime>！|開幕ダッシュ！": "<%sCAS_slime>!|Open Dash!"
+    },
+    "250": {
+        "clarity_nt_char_250": "clarity_nt_char_250"
+    },
+    "251": {
+        "<%sCAS_slime>！|バブル崩壊！": "<%sCAS_slime>!|Bubble Collapse!"
+    },
+    "252": {
+        "<%sCAS_slime>！|シェルミサイル！": "<%sCAS_slime>!|Shell Missile!"
+    },
+    "253": {
+        "<%sCAS_slime>！|マホターン！": "<%sCAS_slime>!|Bound!"
+    },
+    "254": {
+        "<%sCAS_slime>！|加速バリア！": "<%sCAS_slime>!|Accel Barrier!"
+    },
+    "255": {
+        "吸収バリアで|スタミナが回復した！": "Restored Stamina|with Accel Barrier!"
+    },
+    "256": {
+        "無敵アクセルで|無効化した！": "Nulled with|Unrivaled Accel!"
+    },
+    "257": {
+        "clarity_nt_char_257": "clarity_nt_char_257"
+    },
+    "258": {
+        "～100万P": "~1 M. P"
+    },
+    "259": {
+        "clarity_nt_char_259": "clarity_nt_char_259"
+    },
+    "260": {
+        "100万P～1000万P": "1 M. P ~ 10 M. P"
+    },
+    "261": {
+        "clarity_nt_char_261": "clarity_nt_char_261"
+    },
+    "262": {
+        "1000万P～1億P": "10M. P ~ 100M. P"
+    },
+    "263": {
+        "clarity_nt_char_263": "clarity_nt_char_263"
+    },
+    "264": {
+        "1億P～": "100M. P~"
+    },
+    "265": {
+        "clarity_nt_char_265": "clarity_nt_char_265"
+    },
+    "266": {
+        "スライムタワー": "Slime Stack"
+    },
+    "267": {
+        "メタルブラザーズ": "Metal Medley"
+    },
+    "268": {
+        "clarity_nt_char_268": "clarity_nt_char_268"
+    },
+    "269": {
+        "桃色三姉妹": "Slime Sisters"
+    },
+    "270": {
+        "ゴールデントーテム": "Gem Jamboree"
+    },
+    "271": {
+        "ジャンプの構え": "Jump Ready"
+    },
+    "272": {
+        "ジャンプのたつじん": "Jumping "
+    },
+    "273": {
+        "つむぼうぎょ": "Pinch Defend"
+    },
+    "274": {
+        "clarity_nt_char_274": "clarity_nt_char_274"
+    },
+    "275": {
+        "スラシャワー": "Slime Shower"
+    },
+    "276": {
+        "clarity_nt_char_276": "clarity_nt_char_276"
+    },
+    "277": {
+        "イオマータ": "Kablam"
+    },
+    "278": {
+        "ジャンプの構えで|無効化した！": "Nulled with|Jump Ready!"
+    },
+    "279": {
+        "他の全スライムを|転ばせる": "Other slimes|fall down."
+    },
+    "280": {
+        "妨害を１回ガード|その後ジャンプ|発動まで消えない": "Guard a hit once|and then do|a jump."
+    },
+    "281": {
+        "他の全スライムを|２回攻撃し|転ばせる呪文": "Attack other|slimes 2 times|and trip them."
+    },
+    "282": {
+        "一定時間|妨害をガードする|足が遅くならない": "Guards against|hits and slow|downs."
+    },
+    "283": {
+        "clarity_nt_char_283": "clarity_nt_char_283"
+    },
+    "284": {
+        "<%sCAS_slime>！|スラシャワー！": "<%sCAS_slime>!|Slime Shower!"
+    },
+    "285": {
+        "clarity_nt_char_285": "clarity_nt_char_285"
+    },
+    "286": {
+        "<%sCAS_slime>！|ジャンプの構え！": "<%sCAS_slime>!|Jump Ready!"
+    },
+    "287": {
+        "<%sCAS_slime>！|イオマータ！": "<%sCAS_slime>!|Kablam!"
+    },
+    "288": {
+        "<%sCAS_slime>！|つむぼうぎょ！": "<%sCAS_slime>!|Pinch Defense!"
+    },
+    "289": {
+        "clarity_nt_char_289": "clarity_nt_char_289"
+    },
+    "290": {
+        "イオマータ連撃": "Kablam Barrage"
+    },
+    "291": {
+        "構えジャンプ！": "Jump Ready!"
+    }
+}

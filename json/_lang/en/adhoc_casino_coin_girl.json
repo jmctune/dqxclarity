@@ -1,6 +1,6 @@
 {
     "1": {
-        "「ギャンブラーの桃源郷　カジノへようこそ！ |　ここは　カジノコイン　売り場です。|<br>|「カジノコインは　合計が　<%nL_BUY_MAX_COIN>枚になるまで|　ご購入いただけます。カジノコインチケットは|　チケットに応じた枚数にて　交換いたします。|<bw_break>": ""
+        "「ギャンブラーの桃源郷　カジノへようこそ！ |　ここは　カジノコイン　売り場です。|<br>|「カジノコインは　合計が　<%nL_BUY_MAX_COIN>枚になるまで|　ご購入いただけます。カジノコインチケットは|　チケットに応じた枚数にて　交換いたします。|<bw_break>": "Welcome to the Casino, a gambler's paradise!|This is the Casino Coin Counter.|<br>|You can purchase Casino Coins up to a|maximum of <%dL_BUY_MAX_COIN> held Coins. You can exchange|Casino Coin Tickets here, too."
     },
     "2": {
         "「あら？　おやめになるのですね。|　また　いつでも　おこしくださいませ。|<turn_end>": ""
@@ -36,10 +36,10 @@
         "「チケットと　カジノコインを交換しました。|　あなたに　幸運の女神が　ほほえみますように|　お祈りしておりますわ。|<end>": ""
     },
     "13": {
-        "「まあ！　<pc>さんは|　カジノコインチケットを　お持ちのようですね。|<bw_break>": ""
+        "「まあ！　<pc>さんは|　カジノコインチケットを　お持ちのようですね。|<bw_break>": "Hey! It looks like you have a Casino Coin|Ticket.|<bw_break>"
     },
     "14": {
-        "「……あら。<pc>さんは|　<%nL_BUY_MAX_COIN>枚以上の　カジノコインを|　お持ちのようですね。|<br>|「おそれいりますが　すでに　|　<%nL_BUY_MAX_COIN>枚以上お持ちの方には　それ以上|　カジノコインを　お売りすることが　できません。|<br>|「景品と交換するか　カジノのゲームを|　プレイするかして　コインが足りなくなったら|　また　おこしくださいませ。": ""
+        "「……あら。<pc>さんは|　<%nL_BUY_MAX_COIN>枚以上の　カジノコインを|　お持ちのようですね。|<br>|「おそれいりますが　すでに　|　<%nL_BUY_MAX_COIN>枚以上お持ちの方には　それ以上|　カジノコインを　お売りすることが　できません。|<br>|「景品と交換するか　カジノのゲームを|　プレイするかして　コインが足りなくなったら|　また　おこしくださいませ。": "...Oh. It seems you are already carrying <%dL_BUY_MAX_COIN>|or more Casino Coins.|<br>|I apologize, but you cannot buy any Casino|Coins if you are carrying over <%dL_BUY_MAX_COIN> Coins.|<br>|If you run low on coins for any reason,|please come back and see me."
     },
     "15": {
         "「……あら。<pc>さんは　すでに限界まで|　コインを　お持ちのようです。": ""
@@ -48,13 +48,13 @@
         "「……おそれいりますが　チケットと交換すると|　お手持ちの　カジノコインが|　あふれてしまうようですね。|<br>|「景品と交換するか　プレイするかして|　カジノコインが　減ってから|　また　おこしくださいませ。|<turn_end>": ""
     },
     "17": {
-        "「どちらを　ご利用になりますか？|<select_se_off>|コインを購入する|チケットを交換する|<select_end><break>": ""
+        "「どちらを　ご利用になりますか？|<select_se_off>|コインを購入する|チケットを交換する|<select_end><break>": "Which can I help you with?|<select_se_off>|Purchase Coins|Exchange Tickets|<select_end><break>"
     },
     "18": {
-        "「ご利用ありがとうございました。|　また　いつでも　おこしください。|<end>": ""
+        "「ご利用ありがとうございました。|　また　いつでも　おこしください。|<end>": "Thank you for using our service. Please come|back anytime.|<end>"
     },
     "19": {
-        "「……あら？<pc>さんは　交換できる|　チケットを　お持ちではないようです。|　交換できるチケットを　ご用意ください。|<bw_break>": ""
+        "「……あら？<pc>さんは　交換できる|　チケットを　お持ちではないようです。|　交換できるチケットを　ご用意ください。|<bw_break>": "....Hm? It seems you don't have any tickets|that you can exchange at the moment. Please|come back to me when you have some.|<bw_break>"
     },
     "20": {
         "「……申し訳ありません。|　カジノレイドイベントが　終了した為|　お求めのコインが　購入できなくなりました。|<br>|「引き続き　当カジノの　ご利用を|　お待ちしておりますわ。|<bw_break>": ""

@@ -36,10 +36,10 @@
         "ゴーレムのきぐるみ": "Golem Costume"
     },
     "13": {
-        "女子のスクール制服": ""
+        "女子のスクール制服": "Girl School Uniform"
     },
     "14": {
-        "男子のスクール制服": "Boy School Outfit"
+        "男子のスクール制服": "Boy School Uniform"
     },
     "15": {
         "ふ化ふ化な衣装": ""
@@ -96,10 +96,10 @@
         "リベリオのきぐるみ": ""
     },
     "33": {
-        "ジャックの衣装": ""
+        "ジャックの衣装": "Jack-O-Lant. Costume"
     },
     "34": {
-        "オバケの衣装": ""
+        "オバケの衣装": "Ghost Costume"
     },
     "35": {
         "clarity_nt_char_8": "clarity_nt_char_8"
@@ -183,19 +183,19 @@
         "サマーウルフのきぐるみ": ""
     },
     "62": {
-        "パンプキンの衣装": ""
+        "パンプキンの衣装": "Pumpkin Costume"
     },
     "63": {
         "clarity_nt_char_19": "clarity_nt_char_19"
     },
     "64": {
-        "ドラキュラの衣装": ""
+        "ドラキュラの衣装": "Dracula Costume"
     },
     "65": {
         "clarity_nt_char_20": "clarity_nt_char_20"
     },
     "66": {
-        "エテーネの服": "Ethenian Clothes"
+        "エテーネの服": "Ethenian Top"
     },
     "67": {
         "clarity_nt_char_21": "clarity_nt_char_21"
@@ -207,7 +207,7 @@
         "clarity_nt_char_22": "clarity_nt_char_22"
     },
     "70": {
-        "チョコっとスーツ": ""
+        "チョコっとスーツ": "Choco Suit"
     },
     "71": {
         "clarity_nt_char_23": "clarity_nt_char_23"
@@ -216,7 +216,7 @@
         "チアガールの服": ""
     },
     "73": {
-        "応援団の服": ""
+        "応援団の服": "Cheer Team Suit"
     },
     "74": {
         "欠番": "Miss#"
@@ -291,7 +291,7 @@
         "clarity_nt_char_32": "clarity_nt_char_32"
     },
     "98": {
-        "丸小紋セット": ""
+        "丸小紋セット": "Circle Pattern Set"
     },
     "99": {
         "clarity_nt_char_33": "clarity_nt_char_33"
@@ -444,13 +444,13 @@
         "プリンスタキシード": ""
     },
     "149": {
-        "フォーマルドレス": ""
+        "フォーマルドレス": "Formal Dress"
     },
     "150": {
         "clarity_nt_char_50": "clarity_nt_char_50"
     },
     "151": {
-        "フォーマルスーツ": ""
+        "フォーマルスーツ": "Formal Suit"
     },
     "152": {
         "clarity_nt_char_51": "clarity_nt_char_51"
@@ -474,7 +474,7 @@
         "グリーンタキシード": ""
     },
     "159": {
-        "女性金魚のゆかた": ""
+        "女性金魚のゆかた": "Women's Goldfish Yukata"
     },
     "160": {
         "clarity_nt_char_54": "clarity_nt_char_54"
@@ -495,7 +495,7 @@
         "女性白波柄のゆかた": ""
     },
     "166": {
-        "男性金魚のゆかた": ""
+        "男性金魚のゆかた": "Men's Goldfish Yukata"
     },
     "167": {
         "clarity_nt_char_56": "clarity_nt_char_56"
@@ -516,16 +516,16 @@
         "男性白波柄のゆかた": ""
     },
     "173": {
-        "ウサぐるみ・白": ""
+        "ウサぐるみ・白": "White Rabbit"
     },
     "174": {
-        "ウサぐるみ・ピンク": ""
+        "ウサぐるみ・ピンク": "Pink Rabbit"
     },
     "175": {
-        "ウサぐるみ・青": ""
+        "ウサぐるみ・青": "Blue Rabbit"
     },
     "176": {
-        "ウサぐるみ・茶": ""
+        "ウサぐるみ・茶": "Tea Rabbit"
     },
     "177": {
         "プラコンおしゃれ水着白": "Stylish Swimsuit White"
@@ -570,10 +570,10 @@
         "clarity_nt_char_59": "clarity_nt_char_59"
     },
     "191": {
-        "シュガーナイトの服": ""
+        "シュガーナイトの服": "Sugar Knight's Clothes"
     },
     "192": {
-        "カプサイナイトの服": ""
+        "カプサイナイトの服": "Capsai Knight's Clothes"
     },
     "193": {
         "プラコン男オバケ服": "Male Ghost Costume"
@@ -609,7 +609,7 @@
         "アスフェルド学園学生服": ""
     },
     "204": {
-        "プチデビルジャケット": ""
+        "プチデビルジャケット": "Petit Devil Jacket"
     },
     "205": {
         "clarity_nt_char_60": "clarity_nt_char_60"
@@ -636,10 +636,10 @@
         "花狩人のころも・紫": ""
     },
     "213": {
-        "夜桜スーツ": ""
+        "夜桜スーツ": "Cherry Eve Suit"
     },
     "214": {
-        "桜花のはかま": ""
+        "桜花のはかま": "Ch. Blossom Dress"
     },
     "215": {
         "clarity_nt_char_62": "clarity_nt_char_62"
@@ -654,7 +654,7 @@
         "clarity_nt_char_63": "clarity_nt_char_63"
     },
     "219": {
-        "ウサギ魔物の装束": ""
+        "ウサギ魔物の装束": "Rabbit Monster Costume"
     },
     "220": {
         "clarity_nt_char_64": "clarity_nt_char_64"
@@ -678,7 +678,7 @@
         "炎帝のいくさ装束セット": ""
     },
     "227": {
-        "若武者の甲冑セット": ""
+        "若武者の甲冑セット": "Young Warrior Armor Set"
     },
     "228": {
         "猫貴族のマントセット": ""
@@ -711,10 +711,10 @@
         "DQ1勇者たいまつあり": ""
     },
     "238": {
-        "シュガースーツ": "Sorbet Suit"
+        "シュガースーツ": "Sugar Suit"
     },
     "239": {
-        "カプサイスーツ": "Red Pepper Suit"
+        "カプサイスーツ": "Capsai Suit"
     },
     "240": {
         "プラコン女性用赤アロハ": "Red Women's Aloha"
@@ -777,10 +777,10 @@
         "プラコン男性忍の服・青": "Blue Male Ninja Suit"
     },
     "260": {
-        "オス三毛猫スーツⅠ": ""
+        "オス三毛猫スーツⅠ": "Calico Cat Suit (M) Ⅰ"
     },
     "261": {
-        "メス三毛猫スーツⅠ": ""
+        "メス三毛猫スーツⅠ": "Calico Cat Suit (F) Ⅰ"
     },
     "262": {
         "アスフェルド学園夏服": ""
@@ -789,7 +789,7 @@
         "clarity_nt_char_69": "clarity_nt_char_69"
     },
     "264": {
-        "スクール水着": ""
+        "スクール水着": "School Swimsuit"
     },
     "265": {
         "clarity_nt_char_70": "clarity_nt_char_70"
@@ -867,13 +867,13 @@
         "サポートスタッフ用装備": ""
     },
     "290": {
-        "ホイミントパンタロン": ""
+        "ホイミントパンタロン": "Heal Mint Pantaloons"
     },
     "291": {
         "clarity_nt_char_71": "clarity_nt_char_71"
     },
     "292": {
-        "ホイミントワンピース": ""
+        "ホイミントワンピース": "Heal Mint One Piece"
     },
     "293": {
         "clarity_nt_char_72": "clarity_nt_char_72"
@@ -891,7 +891,7 @@
         "clarity_nt_char_73": "clarity_nt_char_73"
     },
     "298": {
-        "アスフェルド学園冬服": ""
+        "アスフェルド学園冬服": "Asfeld Academy Winter Wear"
     },
     "299": {
         "clarity_nt_char_74": "clarity_nt_char_74"
@@ -933,13 +933,13 @@
         "プラコン男性用束帯・緑": "Grn Men's Ceremony Gown"
     },
     "312": {
-        "ジャックの衣装２": ""
+        "ジャックの衣装２": "Jack-O-Lant. Costume 2"
     },
     "313": {
         "clarity_nt_char_76": "clarity_nt_char_76"
     },
     "314": {
-        "オバケの衣装２": ""
+        "オバケの衣装２": "Ghost Costume 2"
     },
     "315": {
         "ミイラ男の衣装２": "Mummy Boy Costume 2"
@@ -972,13 +972,13 @@
         "clarity_nt_char_80": "clarity_nt_char_80"
     },
     "325": {
-        "ジャックの衣装３": ""
+        "ジャックの衣装３": "Jack-O-Lant. Costume 3"
     },
     "326": {
         "clarity_nt_char_81": "clarity_nt_char_81"
     },
     "327": {
-        "オバケの衣装３": ""
+        "オバケの衣装３": "Ghost Costume 3"
     },
     "328": {
         "ミイラ男の衣装３": "Mummy Boy Costume 3"
@@ -1023,34 +1023,34 @@
         "clarity_nt_char_85": "clarity_nt_char_85"
     },
     "342": {
-        "防衛軍の制服・灰色": ""
+        "防衛軍の制服・灰色": "Defense Force Uniform Gray"
     },
     "343": {
-        "防衛軍の制服・緑": ""
+        "防衛軍の制服・緑": "Def. Force Uniform Green"
     },
     "344": {
         "clarity_nt_char_86": "clarity_nt_char_86"
     },
     "345": {
-        "防衛軍の制服・紺": ""
+        "防衛軍の制服・紺": "Def. Force Uniform Blue"
     },
     "346": {
         "clarity_nt_char_87": "clarity_nt_char_87"
     },
     "347": {
-        "防衛軍の制服・赤": ""
+        "防衛軍の制服・赤": "Def. Force Uniform Red"
     },
     "348": {
         "clarity_nt_char_88": "clarity_nt_char_88"
     },
     "349": {
-        "防衛軍の制服・紫": ""
+        "防衛軍の制服・紫": "Def. Force Uniform Prpl."
     },
     "350": {
         "clarity_nt_char_89": "clarity_nt_char_89"
     },
     "351": {
-        "防衛軍の制服・金": ""
+        "防衛軍の制服・金": "Def. Force Uniform Gold"
     },
     "352": {
         "clarity_nt_char_90": "clarity_nt_char_90"
@@ -1083,7 +1083,7 @@
         "GMキャラコスチューム": ""
     },
     "362": {
-        "ウサぐるみ・黄": ""
+        "ウサぐるみ・黄": "Yellow Rabbit"
     },
     "363": {
         "PC兄弟の装備一式": ""
@@ -1164,7 +1164,7 @@
         "clarity_nt_char_99": "clarity_nt_char_99"
     },
     "389": {
-        "トナカイスーツ": ""
+        "トナカイスーツ": "Reindeer Suit"
     },
     "390": {
         "エンジェル衣装": ""
@@ -1221,7 +1221,7 @@
         "プラコンおしゃれ水着青": "Stylish Swimsuit Blue"
     },
     "408": {
-        "ダッフルセーラーセット": ""
+        "ダッフルセーラーセット": "Duffel Outfit"
     },
     "409": {
         "ゾーマ　勇者": ""
@@ -1665,13 +1665,13 @@
         "clarity_nt_char_162": "clarity_nt_char_162"
     },
     "556": {
-        "防衛軍の制服・Ｙ": ""
+        "防衛軍の制服・Ｙ": "Defense Force Uniform Y"
     },
     "557": {
         "clarity_nt_char_163": "clarity_nt_char_163"
     },
     "558": {
-        "防衛軍の制服・Ｚ": ""
+        "防衛軍の制服・Ｚ": "Defense Force Uniform Z"
     },
     "559": {
         "clarity_nt_char_164": "clarity_nt_char_164"
@@ -1689,7 +1689,7 @@
         "カンフーガール衣装": ""
     },
     "564": {
-        "グロリアススーツ": ""
+        "グロリアススーツ": "Glorious Suit"
     },
     "565": {
         "clarity_nt_char_166": "clarity_nt_char_166"
@@ -1743,7 +1743,7 @@
         "clarity_nt_char_170": "clarity_nt_char_170"
     },
     "582": {
-        "ウサぐるみ・黒": ""
+        "ウサぐるみ・黒": "Black Rabbit"
     },
     "583": {
         "女子専用|スマートモダンな|全身衣装セット": ""
@@ -1773,7 +1773,7 @@
         "男子専用|カンフーボーイの|全身衣装セット": ""
     },
     "592": {
-        "ライダーススーツ": ""
+        "ライダーススーツ": "Riders Suit"
     },
     "593": {
         "clarity_nt_char_174": "clarity_nt_char_174"
@@ -1785,7 +1785,7 @@
         "女子専用|カンフーガールの|全身衣装セット": ""
     },
     "596": {
-        "マジカルガールスーツ": ""
+        "マジカルガールスーツ": "Magical Girl Suit"
     },
     "597": {
         "clarity_nt_char_175": "clarity_nt_char_175"
@@ -1809,10 +1809,10 @@
         "祭りによく合う|派手で豪華な|ドレスセット": ""
     },
     "604": {
-        "オス三毛猫スーツⅡ": ""
+        "オス三毛猫スーツⅡ": "Calico Cat Suit (M) Ⅱ"
     },
     "605": {
-        "メス三毛猫スーツⅡ": ""
+        "メス三毛猫スーツⅡ": "Calico Cat Suit (F) Ⅱ"
     },
     "606": {
         "フェアリー衣装Ⅱ": ""

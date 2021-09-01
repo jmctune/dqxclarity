@@ -1509,7 +1509,7 @@
         "<%sCAS_target>のＭＰを　<%nCAS_value>うばった！": "<%sCAS_target> stole <%dCAS_value> MP!"
     },
     "504": {
-        "<%sCAS_gambler>に　かかっている|とくしゅ効果が　かきけされた！": ""
+        "<%sCAS_gambler>に　かかっている|とくしゅ効果が　かきけされた！": "<%sCAS_gambler>'s positive effects have|been removed!"
     },
     "505": {
         "<%sCAS_monster>の　動きを封じた！|さらに　与えるダメージが　アップした！": "<%sCAS_monster> is stuck in place!|Furthermore, it will take increased damage!"

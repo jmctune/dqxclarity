@@ -129,7 +129,7 @@
         "clarity_nt_char_14": "clarity_nt_char_14"
     },
     "44": {
-        "<speed=0>『通知する』に　変更しました。|<%sM_pc>さんが　ログインしたときに|ナビメッセージで通知します。": "<speed=0>Set to \"Notify\". You will receive a notification|whenever <%sM_pc> logs in."
+        "<speed=0>『通知する』に　変更しました。|<%sM_pc>さんが　ログインしたときに|ナビメッセージで通知します。": "<speed=0>Set to \"Notify\". You will be notified|whenever <%sM_pc> logs in."
     },
     "45": {
         "<speed=0><%sM_pc>さんが　ログインしたときに|ログインを　『通知しない』から|『通知する』に　変更しますか？|<yesno 1><close>": "<speed=0>Do you want to change from \"Do Not Notify\"|to \"Notify\" whenever <%sM_pc> logs in?|<yesno 1><close>"
@@ -681,7 +681,7 @@
         "clarity_nt_char_75": "clarity_nt_char_75"
     },
     "228": {
-        "<%sL_OWNER>の畑に <%sL_ITEM>を 使った！": "Used <%sL_ITEM> on <%sL_OWNER>'s garden!"
+        "<%sL_OWNER>の畑に <%sL_ITEM>を 使った！": "Used <%sL_ITEM> on <%sL_OWNER>'s field!"
     },
     "229": {
         "<%sL_OWNER>の畑に <%sL_ITEM>を まいた！": "<%sL_ITEM> planted in <%sL_OWNER>'s garden!"
@@ -3696,7 +3696,7 @@
         "<%sL_name>は<%sL_card>を<%dL_num>枚出した": ""
     },
     "1233": {
-        "<%sL_name>は<%sL_card>を<%dL_num>枚とジョーカーを<%dL_num2>枚出した": ""
+        "<%sL_name>は<%sL_card>を<%dL_num>枚とジョーカーを<%dL_num2>枚出した": "<%sL_name> played <%dL_num> <%sL_card> and <%dL_num2> joker(s)."
     },
     "1234": {
         "<%sL_name>はジョーカーを2枚出した": "<%sL_name> played two jokers."
@@ -3831,7 +3831,7 @@
         "大貧民": ""
     },
     "1278": {
-        "大富豪": "Daifugo"
+        "大富豪": "Tycoon"
     },
     "1279": {
         "貧民": ""
@@ -3894,7 +3894,7 @@
         "clarity_nt_char_431": "clarity_nt_char_431"
     },
     "1299": {
-        "ジョーカーが出されて　あつまったスライムがすべて消えた": ""
+        "ジョーカーが出されて　あつまったスライムがすべて消えた": "The Joker was played and all Slimes disappeared."
     },
     "1300": {
         "段位戦ポイントを　<%dL_rank_point>P 失った": "Lost <%dL_rank_point> Dan Battle Rank Points"

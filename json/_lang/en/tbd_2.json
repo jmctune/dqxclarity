@@ -924,7 +924,7 @@
         "たまに　2回攻撃できる(試合無効)": "Rarely Attack Twice (No PvP)"
     },
     "309": {
-        "たまに　ＨＰ1で生き残る(試合無効)": ""
+        "たまに　ＨＰ1で生き残る(試合無効)": "Rarely Survive With 1 HP (No PvP)"
     },
     "310": {
         "clarity_nt_char_100": "clarity_nt_char_100"
@@ -942,7 +942,7 @@
         "clarity_nt_char_101": "clarity_nt_char_101"
     },
     "315": {
-        "たまに 同じ呪文が2回唱えられる(試合無効)": ""
+        "たまに 同じ呪文が2回唱えられる(試合無効)": "Rarely Cast Spell Twice (No PvP)"
     },
     "316": {
         "clarity_nt_char_102": "clarity_nt_char_102"
@@ -1461,7 +1461,7 @@
         "トラシュカで　魚を取ると移動速度アップ": "Move speed up from fish during Trashka"
     },
     "488": {
-        "会心と暴走ダメージ +<%sB_renkin1>(試合無効)": "Critical/Haywire Damage +<%sB_renkin1> (No PvP)"
+        "会心と暴走ダメージ +<%sB_renkin1>(試合無効)": "Critical/Haywire Dmg +<%sB_renkin1>(No PvP)"
     },
     "489": {
         "clarity_nt_char_159": "clarity_nt_char_159"
@@ -1650,7 +1650,7 @@
         "clarity_nt_char_180": "clarity_nt_char_180"
     },
     "551": {
-        "星々の加護 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
+        "星々の加護 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Star Blessing +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "552": {
         "誠意率 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
@@ -1665,7 +1665,7 @@
         "clarity_nt_char_182": "clarity_nt_char_182"
     },
     "556": {
-        "銀河の加護 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": ""
+        "銀河の加護 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Galaxy Blessing +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "557": {
         "呪文発動速度 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Spell Cast Speed +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
@@ -2403,19 +2403,19 @@
         "開戦時 7%天使の守り(試合無効)": "Battle Start Goddess' Grace 7% (No PvP)"
     },
     "802": {
-        "会心と暴走ダメージ +1(試合無効)": "Critical/Haywire Damage +1 (No PvP)"
+        "会心と暴走ダメージ +1(試合無効)": "Critical/Haywire Dmg +1 (No PvP)"
     },
     "803": {
         "clarity_nt_char_275": "clarity_nt_char_275"
     },
     "804": {
-        "会心と暴走ダメージ +3(試合無効)": "Critical/Haywire Damage +3 (No PvP)"
+        "会心と暴走ダメージ +3(試合無効)": "Critical/Haywire Dmg +3 (No PvP)"
     },
     "805": {
         "clarity_nt_char_276": "clarity_nt_char_276"
     },
     "806": {
-        "会心と暴走ダメージ +5(試合無効)": "Critical/Haywire Damage +5 (No PvP)"
+        "会心と暴走ダメージ +5(試合無効)": "Critical/Haywire Dmg +5 (No PvP)"
     },
     "807": {
         "clarity_nt_char_277": "clarity_nt_char_277"
@@ -5517,7 +5517,7 @@
         "盾ガード率 +？%": "Block Rate +?%"
     },
     "1840": {
-        "かいしん率 +？%": "Critical Rate+?%"
+        "かいしん率 +？%": "Critical Rate +?%"
     },
     "1841": {
         "呪文発動速度 +？%": "Spell Cast Speed +?%"
@@ -5727,7 +5727,7 @@
         "clarity_nt_char_634": "clarity_nt_char_634"
     },
     "1910": {
-        "敵を倒すと ？%でためる(試合無効)": "Tension On Enemy Defeat ?% (No PvP)"
+        "敵を倒すと ？%でためる(試合無効)": "Tension On Enemy Defeat ?%(No PvP)"
     },
     "1911": {
         "clarity_nt_char_635": "clarity_nt_char_635"
@@ -6684,7 +6684,7 @@
         "ＨＰとおもさ +？": "HP & Weight +?"
     },
     "2229": {
-        "かいしん率と呪文ぼうそう率 + ？%": "Critical and Haywire Rate+?%"
+        "かいしん率と呪文ぼうそう率 + ？%": "Critical/Haywire Rate +?%"
     },
     "2230": {
         "clarity_nt_char_735": "clarity_nt_char_735"

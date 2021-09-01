@@ -390,7 +390,7 @@
         "clarity_nt_char_48": "clarity_nt_char_48"
     },
     "131": {
-        "ゲノミー": "Genomy"
+        "ゲノミー": "Genome"
     },
     "132": {
         "clarity_nt_char_49": "clarity_nt_char_49"
@@ -1470,7 +1470,7 @@
         "スペースデビル": "Space Devil"
     },
     "491": {
-        "デザートガルバ": "Desert Garba"
+        "デザートガルバ": "Desert Sootbonce"
     },
     "492": {
         "ゴルバ": "Smogbonet"
@@ -1491,7 +1491,7 @@
         "clarity_nt_char_164": "clarity_nt_char_164"
     },
     "498": {
-        "デザートゴルバ": "Desert Gorba"
+        "デザートゴルバ": "Desert Smogbonet"
     },
     "499": {
         "じんめんじゅ・強": "Evil Treeface"
@@ -2286,16 +2286,16 @@
         "てっこうまじん": "Bad Karmour"
     },
     "763": {
-        "魔人スピンドル": "Majin Spindle"
+        "魔人スピンドル": "Demon Spindle"
     },
     "764": {
-        "魔人兵士": "Majin Guard"
+        "魔人兵士": "Demon Guard"
     },
     "765": {
         "clarity_nt_char_247": "clarity_nt_char_247"
     },
     "766": {
-        "悪夢の追っ手": "Pursuing Party"
+        "悪夢の追っ手": "Nightmare Posse"
     },
     "767": {
         "clarity_nt_char_248": "clarity_nt_char_248"
@@ -2454,7 +2454,7 @@
         "clarity_nt_char_264": "clarity_nt_char_264"
     },
     "819": {
-        "死の悪夢": "Death Dream"
+        "死の悪夢": "Death Ngtmre"
     },
     "820": {
         "clarity_nt_char_265": "clarity_nt_char_265"
@@ -3726,7 +3726,7 @@
         "clarity_nt_char_405": "clarity_nt_char_405"
     },
     "1243": {
-        "みずたまドラゴン": "Polka-dot Dragon"
+        "みずたまドラゴン": "Polka Dot Dragon"
     },
     "1244": {
         "clarity_nt_char_406": "clarity_nt_char_406"
@@ -3849,7 +3849,7 @@
         "ドラゴンガイア": "Gaia Dragon"
     },
     "1284": {
-        "キッズ": "Notakid"
+        "キッズ": "Kids"
     },
     "1285": {
         "ヤングガイア": "Young Gaia"
@@ -3948,7 +3948,7 @@
         "鬼門のヌエ": "Demon Lion Nue"
     },
     "1317": {
-        "ツクモモン": "Black Sanguini"
+        "ツクモモン": "Shady Sanguini"
     },
     "1318": {
         "ヒッポカンバー": "Hippocamper"
@@ -4011,10 +4011,10 @@
         "密林の守人": "Forest Guardian"
     },
     "1338": {
-        "妖剣士オーレン": "Oren Wraithblade"
+        "妖剣士オーレン": "Swordmaster Oren"
     },
     "1339": {
-        "妖剣士オーレン強": "Apex Oren Wraithblade"
+        "妖剣士オーレン強": "Apex Swordmaster Oren"
     },
     "1340": {
         "clarity_nt_char_431": "clarity_nt_char_431"
@@ -4134,7 +4134,7 @@
         "clarity_nt_char_443": "clarity_nt_char_443"
     },
     "1379": {
-        "豪魔将ベリンダ": "Demon Lord Brinda"
+        "豪魔将ベリンダ": "Demon Lord Belinda"
     },
     "1380": {
         "豪魔将ブレンダ": "Demon Lord Brenda"
@@ -4263,7 +4263,7 @@
         "デモンズゲイト": "Demon's Gate"
     },
     "1422": {
-        "キャット・リベリオ": "Cat - Riberio"
+        "キャット・リベリオ": "Cat Riberio"
     },
     "1423": {
         "キャットリベリオ強": "Apex Cat Riberio"
@@ -4635,7 +4635,7 @@
         "マイラー三銃士": "The Three Simpateers"
     },
     "1546": {
-        "狂戦士レギオン": "Berserker Ogre"
+        "狂戦士レギオン": "Berserker Legion"
     },
     "1547": {
         "ユナティ": "Unaty"
@@ -4686,13 +4686,13 @@
         "clarity_nt_char_494": "clarity_nt_char_494"
     },
     "1563": {
-        "魔物商人チャーマン": "Demon Merchant Charman"
+        "魔物商人チャーマン": "Monster Merchant Charman"
     },
     "1564": {
-        "魔物商人トレダ": "Demon Merchant Tred"
+        "魔物商人トレダ": "Monster Merchant Tred"
     },
     "1565": {
-        "魔物商人デイラー": "Demon Merchant Dailer"
+        "魔物商人デイラー": "Monster Merchant Dailer"
     },
     "1566": {
         "clarity_nt_char_495": "clarity_nt_char_495"
@@ -5076,7 +5076,7 @@
         "緑風の宝石": "Green Wind Gem"
     },
     "1693": {
-        "黒鉄の宝石": "Black Iron Gem"
+        "黒鉄の宝石": "Darksteel Gem"
     },
     "1694": {
         "紅炎の宝石": "Red Flame Gem"
@@ -5358,7 +5358,7 @@
         "カンダタこぶん": "Merry Man"
     },
     "1787": {
-        "シュバルツシュルト": "Black knight"
+        "シュバルツシュルト": "Black Knight"
     },
     "1788": {
         "獄嵐の鎧鬼": "Hellstorm Demon"
@@ -6198,16 +6198,16 @@
         "プチＳキラーマシン": "Frail Trauminator"
     },
     "2067": {
-        "悪夢の右手": "Dream Hand R"
+        "悪夢の右手": "Nightmare RHand"
     },
     "2068": {
-        "悪夢の右手強": "Apex Dream Hand R"
+        "悪夢の右手強": "A. Nightmare RHand"
     },
     "2069": {
         "clarity_nt_char_648": "clarity_nt_char_648"
     },
     "2070": {
-        "悪夢の左手強": "S. Nightmare LHand"
+        "悪夢の左手強": "A. Nightmare LHand"
     },
     "2071": {
         "clarity_nt_char_649": "clarity_nt_char_649"
@@ -6237,7 +6237,7 @@
         "絶望の巨像": "Despair Statue"
     },
     "2080": {
-        "トーマ王子": "Prince Thomas"
+        "トーマ王子": "Prince Toma"
     },
     "2081": {
         "幻妖の黒公子": "Blk Phantom Prince"
@@ -6822,7 +6822,7 @@
         "秘宝の霊魂": "Treasure Soul"
     },
     "2275": {
-        "秘宝の神官": "Treasure Clown"
+        "秘宝の神官": "Treasure Whacko"
     },
     "2276": {
         "秘宝の邪精霊": "Treasure Flame"
@@ -6993,7 +6993,7 @@
         "キングリザード・強": "Evil Liege Lizard"
     },
     "2332": {
-        "フェンダ": "Fender"
+        "フェンダ": "Fenda"
     },
     "2333": {
         "clarity_nt_char_721": "clarity_nt_char_721"
@@ -7965,7 +7965,7 @@
         "clarity_nt_char_829": "clarity_nt_char_829"
     },
     "2656": {
-        "突撃隊長デスタン": "Assault Captain Destan"
+        "突撃隊長デスタン": "Charge Captain Destan"
     },
     "2657": {
         "clarity_nt_char_830": "clarity_nt_char_830"
@@ -8082,7 +8082,7 @@
         "clarity_nt_char_844": "clarity_nt_char_844"
     },
     "2695": {
-        "撃滅隊長ジェリゴ": "Defeat Captain Jerigo"
+        "撃滅隊長ジェリゴ": "Destruct Captain Jerigo"
     },
     "2696": {
         "clarity_nt_char_845": "clarity_nt_char_845"
@@ -8226,7 +8226,7 @@
         "clarity_nt_char_859": "clarity_nt_char_859"
     },
     "2743": {
-        "時増しの巨竜": "Giant Time dragon"
+        "時増しの巨竜": "Giant Time Dragon"
     },
     "2744": {
         "clarity_nt_char_860": "clarity_nt_char_860"

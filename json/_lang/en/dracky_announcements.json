@@ -426,7 +426,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eから \\s<%sC_PC2>\\m<%sC_ID2>\\e経由で 招待されました！": "\\s<%sC_PC2>\\m<%sC_ID2>\\ was invited via \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "143": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから なかま検索で 招待されました！": "Invited to a party from \\s<%sC_PC>\\m<%sC_ID>\\e via party search!"
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから なかま検索で 招待されました！": "Party invite from \\s<%sC_PC>\\m<%sC_ID>\\e via party search!"
     },
     "144": {
         "clarity_nt_char_45": "clarity_nt_char_45"
@@ -828,7 +828,7 @@
         "まもなく バトルが開始します！": "The battle will begin shortly!"
     },
     "277": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから コロシアムに さそわれました！": "Invite to the Colosseum from \\s<%sC_PC>\\m<%sC_ID>\\e!"
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから コロシアムに さそわれました！": "Invite to the Coliseum from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "278": {
         "clarity_nt_char_92": "clarity_nt_char_92"
@@ -837,10 +837,10 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eから対戦相手に指定されました！": "Chosen as an opponent by \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "280": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eに コロシアムのさそいを 断られました": "Colosseum invite to \\s<%sC_PC>\\m<%sC_ID>\\e was cancelled."
+        "\\s<%sC_PC>\\m<%sC_ID>\\eに コロシアムのさそいを 断られました": "Coliseum invite to \\s<%sC_PC>\\m<%sC_ID>\\e was cancelled."
     },
     "281": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eからの コロシアムのさそいを 断りました": "Colosseum invite from \\s<%sC_PC>\\m<%sC_ID>\\e was cancelled."
+        "\\s<%sC_PC>\\m<%sC_ID>\\eからの コロシアムのさそいを 断りました": "Coliseum invite from \\s<%sC_PC>\\m<%sC_ID>\\e was cancelled."
     },
     "282": {
         "clarity_nt_char_93": "clarity_nt_char_93"
@@ -855,13 +855,13 @@
         "対戦の申し込みが 断られました": "Match application was declined."
     },
     "286": {
-        "コロシアムのさそいが 取り消されました": "Colosseum invite was cancelled."
+        "コロシアムのさそいが 取り消されました": "Coliseum invite was cancelled."
     },
     "287": {
         "対戦相手指定が取り消されました": "Opponent designation was cancelled."
     },
     "288": {
-        "コロシアムのさそいが 時間切れになりました": "Colosseum invitation timed out."
+        "コロシアムのさそいが 時間切れになりました": "Coliseum invitation timed out."
     },
     "289": {
         "対戦のさそいが　時間切れになりました": "Match invitation timed out."
@@ -870,10 +870,10 @@
         "clarity_nt_char_95": "clarity_nt_char_95"
     },
     "291": {
-        "コロシアムに 行けませんでした": "Couldn't go to the Colosseum."
+        "コロシアムに 行けませんでした": "Couldn't go to the Coliseum."
     },
     "292": {
-        "コロシアムの参加エントリーが 解除されました": "Colosseum entry has been cancelled."
+        "コロシアムの参加エントリーが 解除されました": "Coliseum entry has been cancelled."
     },
     "293": {
         "clarity_nt_char_96": "clarity_nt_char_96"
@@ -1755,7 +1755,7 @@
         "書かれた場所へ お越しください": ""
     },
     "586": {
-        "アストルティアラリーのエントリーを やめました": ""
+        "アストルティアラリーのエントリーを やめました": "Astoltia Rally entry was cancelled."
     },
     "587": {
         "アストルティアラリー 開始します！": ""
@@ -2643,7 +2643,7 @@
         "clarity_nt_char_291": "clarity_nt_char_291"
     },
     "882": {
-        "エントリーをやめました": ""
+        "エントリーをやめました": "Entry was cancelled."
     },
     "883": {
         "あと<%dC_N1>分で スタートします": ""
@@ -3351,31 +3351,31 @@
         "バトルトリニティに 参加しますか？": ""
     },
     "1118": {
-        "一の災壇に 行きますか？": ""
+        "一の災壇に 行きますか？": "Go to the First Platform?"
     },
     "1119": {
         "clarity_nt_char_376": "clarity_nt_char_376"
     },
     "1120": {
-        "二の災壇に 行きますか？": ""
+        "二の災壇に 行きますか？": "Go to the Second Platform?"
     },
     "1121": {
         "clarity_nt_char_377": "clarity_nt_char_377"
     },
     "1122": {
-        "三の災壇に 行きますか？": ""
+        "三の災壇に 行きますか？": "Go to the Third Platform?"
     },
     "1123": {
         "clarity_nt_char_378": "clarity_nt_char_378"
     },
     "1124": {
-        "四の災壇に 行きますか？": ""
+        "四の災壇に 行きますか？": "Go to the Fourth Platform?"
     },
     "1125": {
         "clarity_nt_char_379": "clarity_nt_char_379"
     },
     "1126": {
-        "五の災壇に 行きますか？": ""
+        "五の災壇に 行きますか？": "Go to the Fifth Platform?"
     },
     "1127": {
         "clarity_nt_char_380": "clarity_nt_char_380"
@@ -3930,7 +3930,7 @@
         "clarity_nt_char_445": "clarity_nt_char_445"
     },
     "1311": {
-        "そろそろ限界かな？ 逃げ道を作ってやろう！": ""
+        "そろそろ限界かな？ 逃げ道を作ってやろう！": "Times about up? Let's make an escape route!"
     },
     "1312": {
         "ほぉ～ら解放したぞ 逃げるなら今だぞ！ ヒヒヒッ": "I think it's a good idea to run away! Hehehe..."
@@ -3942,19 +3942,19 @@
         "よかろう……。俺様の本気を　見せてやるイェイ！": ""
     },
     "1315": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから スボバに 誘われました!": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから スボバに 誘われました!": "Snowball Battle invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "1316": {
-        "スボバへの誘いが 時間切れになりました": ""
+        "スボバへの誘いが 時間切れになりました": "Snowball Battle invitation timed out."
     },
     "1317": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが スボバへの誘いを 取り消した": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが スボバへの誘いを 取り消した": "\\s<%sC_PC>\\m<%sC_ID>\\e's Snowball Battle invite was cancelled."
     },
     "1318": {
         "clarity_nt_char_447": "clarity_nt_char_447"
     },
     "1319": {
-        "スボバに 参加しますか？": ""
+        "スボバに 参加しますか？": "Want to join the Snowball Battle?"
     },
     "1320": {
         "clarity_nt_char_448": "clarity_nt_char_448"
@@ -3972,13 +3972,13 @@
         "clarity_nt_char_450": "clarity_nt_char_450"
     },
     "1325": {
-        "ほらほら さらに追加だ コイツを倒せるかな？": ""
+        "ほらほら さらに追加だ コイツを倒せるかな？": "Look, here comes more! Can you beat this guy?"
     },
     "1326": {
         "clarity_nt_char_451": "clarity_nt_char_451"
     },
     "1327": {
-        "さらに追加だ！ 休むヒマはないぞ！": ""
+        "さらに追加だ！ 休むヒマはないぞ！": "No time for rest! Here comes some more!"
     },
     "1328": {
         "意外とやるな だがコイツは ひと味違うぞ？": ""
@@ -3987,10 +3987,10 @@
         "追加だ！ ここから先は簡単にはいかないぞ！": ""
     },
     "1330": {
-        "疲れてきたんじゃない？ でも追加しま～す！": ""
+        "疲れてきたんじゃない？ でも追加しま～す！": "Tired, are we? Well, here come some mooore!"
     },
     "1331": {
-        "やるね…… ここから先はそうはいかないぞ！": ""
+        "やるね…… ここから先はそうはいかないぞ！": "Not bad... but things are going to get harder!"
     },
     "1332": {
         "実力は認めよう！ だけどコイツで終わりだ！": ""
@@ -4149,7 +4149,7 @@
         "あと<%dC_N1>分で修練の心得の期限が切れます": ""
     },
     "1384": {
-        "ロスターからのお題を 初めて達成しました！": "Achieved first time roster objective!"
+        "ロスターからのお題を 初めて達成しました！": "Achieved first time Roster objective!"
     },
     "1385": {
         "次の開催は 冒険者の広場の つよさ予報をチェック！": "See the Adventurer's Forecast for the next event!"
@@ -4236,10 +4236,10 @@
         "clarity_nt_char_475": "clarity_nt_char_475"
     },
     "1413": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから 大富豪に 誘われました!": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから 大富豪に 誘われました!": "Tycoon invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "1414": {
-        "大富豪の誘いが 時間切れになりました": "Daifugo invitation timed out."
+        "大富豪の誘いが 時間切れになりました": "Tycoon invitation timed out."
     },
     "1415": {
         "clarity_nt_char_476": "clarity_nt_char_476"
@@ -4251,7 +4251,7 @@
         "clarity_nt_char_477": "clarity_nt_char_477"
     },
     "1418": {
-        "大富豪に 参加しますか？": ""
+        "大富豪に 参加しますか？": "Go and play Tycoon?"
     },
     "1419": {
         "clarity_nt_char_478": "clarity_nt_char_478"
@@ -4281,7 +4281,7 @@
         "clarity_nt_char_481": "clarity_nt_char_481"
     },
     "1428": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが 大富豪から抜けました": "\\s<%sC_PC>\\m<%sC_ID>\\e left the Daifugo game."
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが 大富豪から抜けました": "\\s<%sC_PC>\\m<%sC_ID>\\e left the Tycoon game."
     },
     "1429": {
         "clarity_nt_char_482": "clarity_nt_char_482"

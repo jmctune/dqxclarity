@@ -573,7 +573,7 @@
         "「<%sM_pc>か。それじゃ　紹介料として|　<%nL_Spt_gold>ゴールド　もらうけど|　<%sM_pc>を　仲間にしていいか？|<yesno><break>": ""
     },
     "192": {
-        "「<%sM_pc>さんは　フレンドなのね？|　だったら　無料で紹介できるので|　仲間にしたい時間を　選んでくれる？|<select_se_off>|１２時間|２４時間|４８時間|７２時間|１６８時間|<select_end>|<break>": ""
+        "「<%sM_pc>さんは　フレンドなのね？|　だったら　無料で紹介できるので|　仲間にしたい時間を　選んでくれる？|<select_se_off>|１２時間|２４時間|４８時間|７２時間|１６８時間|<select_end>|<break>": "<%sM_pc>'s your friend?|In that case, the hiring cost will be free.|How long do you want to hire them for?|<select_se_off>|12 Hours|24 Hours|48 Hours|72 Hours|168 Hours|<select_end>|<break>"
     },
     "193": {
         "「<%sM_pc>は　こんな感じだな。|<break>": ""

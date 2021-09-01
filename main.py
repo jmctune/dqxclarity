@@ -45,7 +45,8 @@ def blast_off(update_weblate=False, dump_game_data=False,
     while True:
         try:
             Process(target=scan_for_ad_hoc_game_files()).start()
-            Process(target=scan_for_names(b'\x01....\x68\xCC.\x01')).start()
+            Process(target=scan_for_names(b'\x5C\xBA......\x68\xCC')).start()
+            Process(target=scan_for_names(b'\x2C\xCC......\x68\xCC')).start()
         except pymem.exception.WinAPIError:
             sys.exit(click.secho('Can\'''t find DQX process. Exiting.', fg='red'))
 

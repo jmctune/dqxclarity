@@ -126,7 +126,7 @@
         "勇者姫": "Hero Rm."
     },
     "43": {
-        "スラリン": "Slalin"
+        "スラリン": "Gootrude"
     },
     "44": {
         "clarity_nt_char_12": "clarity_nt_char_12"
@@ -150,13 +150,13 @@
         "clarity_nt_char_15": "clarity_nt_char_15"
     },
     "51": {
-        "ピエール": ""
+        "ピエール": "Goodian"
     },
     "52": {
         "clarity_nt_char_16": "clarity_nt_char_16"
     },
     "53": {
-        "メッキー": ""
+        "メッキー": "Kim"
     },
     "54": {
         "clarity_nt_char_17": "clarity_nt_char_17"
@@ -174,13 +174,13 @@
         "clarity_nt_char_19": "clarity_nt_char_19"
     },
     "59": {
-        "ベビタン": ""
+        "ベビタン": "Imp"
     },
     "60": {
         "clarity_nt_char_20": "clarity_nt_char_20"
     },
     "61": {
-        "ドランゴ": ""
+        "ドランゴ": "Lizzie"
     },
     "62": {
         "clarity_nt_char_21": "clarity_nt_char_21"
@@ -192,10 +192,10 @@
         "clarity_nt_char_22": "clarity_nt_char_22"
     },
     "65": {
-        "キッズ": "Notakid"
+        "キッズ": "Kids"
     },
     "66": {
-        "どらきち": ""
+        "どらきち": "Vlad"
     },
     "67": {
         "clarity_nt_char_23": "clarity_nt_char_23"
@@ -255,7 +255,7 @@
         "clarity_nt_char_30": "clarity_nt_char_30"
     },
     "86": {
-        "ガルシア": ""
+        "ガルシア": "Garcia"
     },
     "87": {
         "clarity_nt_char_31": "clarity_nt_char_31"
@@ -306,7 +306,7 @@
         "clarity_nt_char_37": "clarity_nt_char_37"
     },
     "103": {
-        "クラウン": ""
+        "クラウン": "Clown"
     },
     "104": {
         "clarity_nt_char_38": "clarity_nt_char_38"
@@ -1611,7 +1611,7 @@
         "ためる": "Psyche Up"
     },
     "538": {
-        "超ちからため": ""
+        "超ちからため": "Super Strength"
     },
     "539": {
         "clarity_nt_char_178": "clarity_nt_char_178"
@@ -2175,7 +2175,7 @@
         "かげしばり": ""
     },
     "726": {
-        "ダークレイン": ""
+        "ダークレイン": "Dark Rain"
     },
     "727": {
         "clarity_nt_char_241": "clarity_nt_char_241"
@@ -2385,7 +2385,7 @@
         "clarity_nt_char_266": "clarity_nt_char_266"
     },
     "796": {
-        "マジカルブレイク": ""
+        "マジカルブレイク": "Magical Break"
     },
     "797": {
         "clarity_nt_char_267": "clarity_nt_char_267"
@@ -2397,7 +2397,7 @@
         "clarity_nt_char_268": "clarity_nt_char_268"
     },
     "800": {
-        "マジカルヒール": ""
+        "マジカルヒール": "Magical Heels"
     },
     "801": {
         "マホトラ斬り": ""
@@ -3102,7 +3102,7 @@
         "clarity_nt_char_344": "clarity_nt_char_344"
     },
     "1035": {
-        "さいだいＨＰ+100": ""
+        "さいだいＨＰ+100": "Max HP +100"
     },
     "1036": {
         "clarity_nt_char_345": "clarity_nt_char_345"
@@ -3639,7 +3639,7 @@
         "瀕死時身かわし率アップ": ""
     },
     "1214": {
-        "ダメージでＨＰ回復": ""
+        "ダメージでＨＰ回復": "Heal Damage As HP"
     },
     "1215": {
         "みのまもり+10": "Resilience +10"
@@ -3708,7 +3708,7 @@
         "装備時こうげき力+25": "Attack +25"
     },
     "1237": {
-        "装備時命中+20%": "Acc. +20%"
+        "装備時命中+20%": "Hit Rate +20%"
     },
     "1238": {
         "装備時射程距離+3m": "Range +3m"
@@ -3729,7 +3729,7 @@
         "clarity_nt_char_404": "clarity_nt_char_404"
     },
     "1244": {
-        "装備時ＭＰ吸収率+5%": "MP abs rate+2%"
+        "装備時ＭＰ吸収率+5%": "MP Absorb Rate +5%"
     },
     "1245": {
         "装備時こうげき魔力+60": "Mag. Might +60"
@@ -4998,7 +4998,7 @@
         "ためるの特技を　おぼえた！": ""
     },
     "1667": {
-        "超ちからための特技を　おぼえた！": ""
+        "超ちからための特技を　おぼえた！": "You learned Super Strength!"
     },
     "1668": {
         "clarity_nt_char_546": "clarity_nt_char_546"
@@ -5298,7 +5298,7 @@
         "さいだいＭＰが　２０　増えた！": "Max MP increased by 20!"
     },
     "1767": {
-        "零の洗礼の特技を　おぼえた！": "I've learned Null Baptism!"
+        "零の洗礼の特技を　おぼえた！": "You learned Null Baptism!"
     },
     "1768": {
         "clarity_nt_char_579": "clarity_nt_char_579"
@@ -7806,7 +7806,7 @@
         "マジでステキに|みりょくアップ": "Greatly increases|an ally's Charm."
     },
     "2603": {
-        "スティック攻撃時|吸収できる|ＭＰが増える": "Increases MP|absorbed when|using a Wand. "
+        "スティック攻撃時|吸収できる|ＭＰが増える": "Increases MP|absorbed when|using a Wand."
     },
     "2604": {
         "常時|かいふく魔力が|６０増える": "Increases|Magical Mending|by 60."
@@ -7890,7 +7890,7 @@
         "clarity_nt_char_864": "clarity_nt_char_864"
     },
     "2631": {
-        "敵１体をなぐり|よい効果を|吹きとばす": ""
+        "敵１体をなぐり|よい効果を|吹きとばす": "An attack that|removes an|enemy's buffs."
     },
     "2632": {
         "ツメ装備時|敵の攻撃を|かわしやすくなる": ""
@@ -7902,7 +7902,7 @@
         "ツメ装備時の|こうげき力が|３０増える": "Attack +30|when Claws|equipped."
     },
     "2635": {
-        "獣神のごとく|敵１体を|５連続で斬り刻む": ""
+        "獣神のごとく|敵１体を|５連続で斬り刻む": "A relentless|onslaught of|five attacks."
     },
     "2636": {
         "clarity_nt_char_866": "clarity_nt_char_866"
@@ -8160,7 +8160,7 @@
         "clarity_nt_char_893": "clarity_nt_char_893"
     },
     "2721": {
-        "両手杖での攻撃時|吸収できる|ＭＰが増える": "More MP absorbed|when using a|h. Staff."
+        "両手杖での攻撃時|吸収できる|ＭＰが増える": "More MP absorbed|when using a|Staff."
     },
     "2722": {
         "１０％の確率で|ＭＰを消費しない": ""
@@ -8568,7 +8568,7 @@
         "ダメージが|３０増える": ""
     },
     "2857": {
-        "ツメを研ぎすまし|攻撃力を一定時間|かなり増やす": ""
+        "ツメを研ぎすまし|攻撃力を一定時間|かなり増やす": "Increase attack|by a lot for a|duration."
     },
     "2858": {
         "clarity_nt_char_937": "clarity_nt_char_937"
@@ -10461,7 +10461,7 @@
         "イオの極意": ""
     },
     "3488": {
-        "マジカルキャップ": ""
+        "マジカルキャップ": "Magical Cap"
     },
     "3489": {
         "clarity_nt_char_1150": "clarity_nt_char_1150"
@@ -11169,7 +11169,7 @@
         "clarity_nt_char_1234": "clarity_nt_char_1234"
     },
     "3724": {
-        "天使の矢+40%": ""
+        "天使の矢+40%": "Hallow Arrow+40%"
     },
     "3725": {
         "clarity_nt_char_1235": "clarity_nt_char_1235"

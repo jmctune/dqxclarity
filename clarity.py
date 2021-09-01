@@ -305,7 +305,7 @@ def scan_for_ad_hoc_game_files():
                         if result != b'\x00':
                             start_addr = start_addr - 1
                             break
-
+                    
                     pymem.memory.write_bytes(HANDLE, start_addr, hex_to_write, len(hex_to_write))
 
 def scan_for_names(byte_pattern):
@@ -314,21 +314,19 @@ def scan_for_names(byte_pattern):
     that are related to a specific pattern to translate names.
     '''
     instantiate('DQXGame.exe')
-
+    
     index_pattern_list = []
     address_scan(HANDLE, byte_pattern, True, index_pattern_list = index_pattern_list)
-
+    
     for address in __flatten(index_pattern_list):
-        determine_bytes = read_bytes(address - 3, 2)
-
-        if determine_bytes == b'\x5C\xBA':
+        if byte_pattern.startswith(b'\x5C\xBA') and read_bytes(address - 1, 2).startswith(b'\x5C\xBA'):
             data = __read_json_file('monsters', 'en')
-            name_addr = address + 9
-            end_addr = address + 9
-        elif determine_bytes == b'\x2C\xCC':
+            name_addr = address + 11
+            end_addr = address + 11
+        elif byte_pattern.startswith(b'\x2C\xCC') and read_bytes(address, 2).startswith(b'\x2C\xCC'):
             data = __read_json_file('npc_names', 'en')
-            name_addr = address + 9
-            end_addr = address + 9
+            name_addr = address + 12
+            end_addr = address + 12
         else:
             continue
 

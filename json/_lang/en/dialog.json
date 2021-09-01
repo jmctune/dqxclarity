@@ -75,7 +75,7 @@
         "<speed=0><%sM_pc>を　仲間に　さそいました。|相手の　返事を待ちましょう。": "<speed=0>Party invite sent to <%sM_pc>.|Please wait for their response."
     },
     "26": {
-        "<speed=0><%sM_pc>を　仲間に　さそいますか？|<yesno><close>": "<speed=0>Do you want to invite <%sM_pc> to join you?|<yesno><close>"
+        "<speed=0><%sM_pc>を　仲間に　さそいますか？|<yesno><close>": "<speed=0>Invite <%sM_pc> to your party?|<yesno><close>"
     },
     "27": {
         "<speed=0><%sM_pc>に　仲間に誘われました。|<%sM_pc>の仲間に　入りますか？<yesno><close>": "<speed=0>I've been invited to join <%sM_pc>.|<Do you want to join <%sM_pc>'s group? <yesno><close>"
@@ -600,10 +600,10 @@
         "<speed=0>『<%sM_Quest2>』をキャンセルして|クエスト『<%sM_Quest1>』が|リプレイできるように　なりました！": "<speed=0>You can now cancel the quest \"<%sM_Quest2>\"|and replay the quest \"<%sM_Quest1>\"!"
     },
     "201": {
-        "<speed=0>クエスト『<%sM_Quest1>』を|キャンセルしました。": "<speed=0>The quest \"<%sM_Quest1>\" was cancelled."
+        "<speed=0>クエスト『<%sM_Quest1>』を|キャンセルしました。": "<speed=0>The quest \"<%sM_Quest1>\"|was cancelled."
     },
     "202": {
-        "<speed=0>クエスト『<%sM_Quest1>』の|リプレイを　取りやめました。": ""
+        "<speed=0>クエスト『<%sM_Quest1>』の|リプレイを　取りやめました。": "<speed=0>Quest \"<%sM_Quest1>\"|replay was cancelled."
     },
     "203": {
         "<speed=0>年齢は　ナイショにしますか？<yesno><close>": "<speed=0>Would you like to keep your age a secret?<yesno><close>"
@@ -843,7 +843,7 @@
         "<speed=0><%sM_item>が　できました！|手紙は　『書いた手紙』に入ります。": "<speed=0><%sM_item> is ready!|You can view it under \"Written Letters\"."
     },
     "282": {
-        "<speed=0>書くのを　やめました。": ""
+        "<speed=0>書くのを　やめました。": "<speed=0>Writing was cancelled."
     },
     "283": {
         "clarity_nt_char_100": "clarity_nt_char_100"
@@ -1023,7 +1023,7 @@
         "他の人から見える|フリーコメントを|設定します": "Set a free|comment for|others to see."
     },
     "342": {
-        "あなたの兄弟のキャラを作ります": ""
+        "あなたの兄弟のキャラを作ります": "Create your sibling's character."
     },
     "343": {
         "兄弟キャラの姿は　これで　よろしいですか？": ""
@@ -1368,7 +1368,7 @@
         "10秒後に終了します。何かボタンを押すと中止されます。": "Logging off in 10 seconds. Press any button to cancel."
     },
     "457": {
-        "冒険を中断するのを やめました。": ""
+        "冒険を中断するのを やめました。": "Log out was cancelled."
     },
     "458": {
         "clarity_nt_char_158": "clarity_nt_char_158"
@@ -1824,31 +1824,31 @@
         "<speed=0>小目的が　設定されていません！|小目的を設定してから　検索してください。": ""
     },
     "609": {
-        "<speed=0>|チーム機能切替で　チーム機能をオフにすると|画面右上の　チームの発言が表示されなくなるなど|一時的に　チーム機能を　お休みにできます。|<br>|チーム機能を　オフにしているときは|他のメンバーには　『お休み中』と表示されます。": ""
+        "<speed=0>|チーム機能切替で　チーム機能をオフにすると|画面右上の　チームの発言が表示されなくなるなど|一時的に　チーム機能を　お休みにできます。|<br>|チーム機能を　オフにしているときは|他のメンバーには　『お休み中』と表示されます。": "<speed=0>|If you turn off Team Chat, you won't see|team messages appear at the top right corner|of the screen.|<br>|While Team Chat is turned off, other Team|members will see your status as \"Resting\"."
     },
     "610": {
         "clarity_nt_char_206": "clarity_nt_char_206"
     },
     "611": {
-        "<speed=0>チーム機能をオンにすると　画面右上に|チームの発言が　表示されるようになります。|チーム機能を　『オン』に設定しますか？|<yesno><close>": ""
+        "<speed=0>チーム機能をオンにすると　画面右上に|チームの発言が　表示されるようになります。|チーム機能を　『オン』に設定しますか？|<yesno><close>": "<speed=0>|If you turn on Team Chat, you will see team|messages appear at the top right corner of the|screen. Turn on Team Chat?|<yesno><close>"
     },
     "612": {
         "clarity_nt_char_207": "clarity_nt_char_207"
     },
     "613": {
-        "<speed=0>チーム機能をオフにすると　画面右上の|チームの発言が　表示されなくなります。|チーム機能を　『オフ』に設定しますか？|<yesno><close>": ""
+        "<speed=0>チーム機能をオフにすると　画面右上の|チームの発言が　表示されなくなります。|チーム機能を　『オフ』に設定しますか？|<yesno><close>": "<speed=0>|If you turn off Team Chat, you won't see team|messages appear at the top right corner of the|screen. Turn off Team Chat?|<yesno><close>"
     },
     "614": {
         "clarity_nt_char_208": "clarity_nt_char_208"
     },
     "615": {
-        "<speed=0>チーム機能を　『オン』に設定しました。": ""
+        "<speed=0>チーム機能を　『オン』に設定しました。": "<speed=0>Team Chat has been turned on."
     },
     "616": {
         "clarity_nt_char_209": "clarity_nt_char_209"
     },
     "617": {
-        "<speed=0>チーム機能を　『オフ』に設定しました。": ""
+        "<speed=0>チーム機能を　『オフ』に設定しました。": "<speed=0>Team Chat has been turned off."
     },
     "618": {
         "clarity_nt_char_210": "clarity_nt_char_210"
@@ -1965,7 +1965,7 @@
         "なかまにさそうとは": ""
     },
     "656": {
-        "ログイン状況が|知り合いに常に|『ログアウト中』": "Logout status|is always shown|to everyone."
+        "ログイン状況が|知り合いに常に|『ログアウト中』": "Your status will|be set to|appear offline."
     },
     "657": {
         "clarity_nt_char_222": "clarity_nt_char_222"
@@ -1977,7 +1977,7 @@
         "clarity_nt_char_223": "clarity_nt_char_223"
     },
     "660": {
-        "ログイン状況が|知り合いに常に|（非表示）と表示": "Login status|is displayed|as hidden."
+        "ログイン状況が|知り合いに常に|（非表示）と表示": "Login status|is displayed|as \"Hidden\"."
     },
     "661": {
         "clarity_nt_char_224": "clarity_nt_char_224"
@@ -2004,7 +2004,7 @@
         "<speed=0>さそいを受けられない人がいます。|一緒に行かない人は　ここで|仲間からはずれますが　よろしいですか？<yesno 2><close>": ""
     },
     "669": {
-        "<speed=0>誘った仲間が　そろいました。<break>": ""
+        "<speed=0>誘った仲間が　そろいました。<break>": "<speed=0>Invited friends are gathered.<break>"
     },
     "670": {
         "clarity_nt_char_227": "clarity_nt_char_227"
@@ -2832,7 +2832,7 @@
         "clarity_nt_char_319": "clarity_nt_char_319"
     },
     "945": {
-        "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Seems pretty strong…|Number of kills: <%dM_kill_num> <%sM_saw>"
+        "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Seems pretty strong...|Number of kills: <%dM_kill_num> <%sM_saw>"
     },
     "946": {
         "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>": "<speed=0>It's a <%sM_pc> (<%sM_type>).|Probably best not to mess with it...|Number of kills: <%dM_kill_num> <%sM_saw>"
@@ -3048,10 +3048,10 @@
         "どのホールに　行きますか？|今いるホールは『%sM_hole』です。<break>": ""
     },
     "1017": {
-        "どこに　行きますか？<break>": ""
+        "どこに　行きますか？<break>": "Where do you want to go?<break>"
     },
     "1018": {
-        "どのサーバーに　戻りますか？<break>": "Which server should I return to?<break>"
+        "どのサーバーに　戻りますか？<break>": "Return to which server?<break>"
     },
     "1019": {
         "<speed=0>他のメンバーが　勧誘中のため　入隊希望を|断れませんでした。": ""
@@ -3207,7 +3207,7 @@
         "<speed=0>権限を失った為　処理に失敗しました。": ""
     },
     "1070": {
-        "<speed=0>どの　チームのさそいを　取り消しますか？<break>": ""
+        "<speed=0>どの　チームのさそいを　取り消しますか？<break>": "<speed=0>Which invitation do you want to cancel?<break>"
     },
     "1071": {
         "clarity_nt_char_360": "clarity_nt_char_360"
@@ -3285,7 +3285,7 @@
         "clarity_nt_char_366": "clarity_nt_char_366"
     },
     "1096": {
-        "コロシアムに　行けないメンバーがいるため|エントリーが　キャンセルされました。": "Entry was cancelled due to some members|not being able to enter the Colosseum."
+        "コロシアムに　行けないメンバーがいるため|エントリーが　キャンセルされました。": "Entry was cancelled due to some members|not being able to enter the Coliseum."
     },
     "1097": {
         "コロシアムバトルの準備に　失敗しました。|お手数ですが　しばらく時間をあけてから|もう一度　やり直してください。": ""
@@ -3789,7 +3789,7 @@
         "<speed=0>しかし　装備の仕方がわからなかった！": ""
     },
     "1264": {
-        "<speed=0>これ以上　コロシアムでは　使えない！": "<speed=0>No more can be used in the Colosseum!"
+        "<speed=0>これ以上　コロシアムでは　使えない！": "<speed=0>No more can be used in the Coliseum!"
     },
     "1265": {
         "<speed=0><%sM_enemy>は　みやぶることができない！": ""
@@ -3798,7 +3798,7 @@
         "clarity_nt_char_420": "clarity_nt_char_420"
     },
     "1267": {
-        "<speed=0><%sL_PC>（<%sC_MURA>住宅村）さんの家が|チーム集会所に設定されています。|チーム集会所に移動しますか？|<yesno><close>": ""
+        "<speed=0><%sL_PC>（<%sC_MURA>住宅村）さんの家が|チーム集会所に設定されています。|チーム集会所に移動しますか？|<yesno><close>": "<speed=0><%sL_PC>'s (<%sC_MURA> Residence) is set as|the Team Home.|Would you like to go there now?|<yesno><close>"
     },
     "1268": {
         "clarity_nt_char_421": "clarity_nt_char_421"
@@ -3816,7 +3816,7 @@
         "<speed=0>つけるルアーを　選んでください。": "<speed=0>Select a lure to attach."
     },
     "1273": {
-        "<speed=0>釣りざおとルアーの装備を　やめました。": ""
+        "<speed=0>釣りざおとルアーの装備を　やめました。": "<speed=0>Equipping a rod and lure was cancelled."
     },
     "1274": {
         "clarity_nt_char_423": "clarity_nt_char_423"
@@ -4221,7 +4221,7 @@
         "clarity_nt_char_471": "clarity_nt_char_471"
     },
     "1408": {
-        "<speed=0><%sM_PTMember>が　そろいました。<break>": ""
+        "<speed=0><%sM_PTMember>が　そろいました。<break>": "<speed=0><%sM_PTMember> has gathered.<break>"
     },
     "1409": {
         "<speed=0>さそいを受けられない人がいます。|一緒に行かない人は　ここで|仲間から外れますが　よろしいですか？<yesno><close>": ""
@@ -4704,7 +4704,7 @@
         "clarity_nt_char_531": "clarity_nt_char_531"
     },
     "1569": {
-        "めざめの秘石で|輝石のベルトを|強化します": ""
+        "めざめの秘石で|輝石のベルトを|強化します": "Use Secret Stones|to power up|the Augite Belt."
     },
     "1570": {
         "<speed=0>緊急依頼書クエストが|期限切れで　取り消されたため|操作を　完了できませんでした。": ""
@@ -4860,7 +4860,7 @@
         "clarity_nt_char_548": "clarity_nt_char_548"
     },
     "1621": {
-        "<speed=0>このまま　魔法の迷宮を続ける場合は|近くにいる　ツヅケルに　話しかけよう。<close>": ""
+        "<speed=0>このまま　魔法の迷宮を続ける場合は|近くにいる　ツヅケルに　話しかけよう。<close>": "<speed=0>If you want to continue in the Magic|Maze, talk to Tsuzukeru.<close>"
     },
     "1622": {
         "<speed=0>パーティ同盟の　さそいを受けましたが|条件を　満たしていませんでした。<br>|条件を満たすには　真のグランゼドーラ王国で|受けられる　クエスト『悪夢の終焉』を|受ける必要があります。": ""
@@ -6822,7 +6822,7 @@
         "前回と　異なるプラットフォームで|ログインされたため　契約情報が|更新されました。<br>|「思い出アルバム」の　使用最大枚数が|変化していますので　ご注意ください。": ""
     },
     "2275": {
-        "<speed=0><%sM_item>を　捨てますか？|この手紙は　『郵便局のおもいで私書箱』で|いつでも　見ることができます。<yesno2><close>": "<speed=0>Throw away <%sM_item>? This letter can be viewed at any|time at the Post Office.<yesno2><close>"
+        "<speed=0><%sM_item>を　捨てますか？|この手紙は　『郵便局のおもいで私書箱』で|いつでも　見ることができます。<yesno2><close>": "<speed=0>Throw away <%sM_item>? This|letter can be viewed at any|time at the Post Office.<yesno2><close>"
     },
     "2276": {
         "L1/R1ボタンを|押したときの|動きを設定します": "Set movement|when pressing|L1/R1 button."
@@ -6846,7 +6846,7 @@
         "<speed=0>ここでは　<%sB_MY_JACK_NAME>の心は|使えない！": ""
     },
     "2283": {
-        "<speed=0><%sM_item>を　捨てますか？|この手紙は　おもいで私書箱から見られません。|ご注意ください。<yesno2><close>": "<speed=0>Throw away <%sM_item>? This special letter can't be viewed|again in the Post Office, so please be sure.<yesno2><close>"
+        "<speed=0><%sM_item>を　捨てますか？|この手紙は　おもいで私書箱から見られません。|ご注意ください。<yesno2><close>": "<speed=0>Throw away <%sM_item>? You|cannot view this special letter again at the|Post Office. Is this okay?<yesno2><close>"
     },
     "2284": {
         "clarity_nt_char_773": "clarity_nt_char_773"
@@ -6954,7 +6954,7 @@
         "<speed=0>ここで　表示設定は　変更できません。": ""
     },
     "2319": {
-        "<pc>は　<%sM_item><%sM_plusnum>が|封印された　冥海の光玉を手に入れた！<se_nots System 7>": "<pc> received <%sM_item><%sM_plusnum> from a sealed Dark Sea Orb!"
+        "<pc>は　<%sM_item><%sM_plusnum>が|封印された　冥海の光玉を手に入れた！<se_nots System 7>": "<pc> received <%sM_item><%sM_plusnum>|from a sealed Dark Sea Orb!"
     },
     "2320": {
         "<color_yellow>『冥海の光玉』の　説明です！|<br>|いにしえのゼルメアで　手に入る|冥海の光玉には　さまざまな装備品が|封印されています。|<br>|いにしえのゼルメアの　出口に到達することで|封印を解いて　中に入っている装備品を|取り出すことができます。|<br>|途中で　戦いに敗れたり|探索を中断すると　冥海の光玉は|失われてしまいます。|<br>|探索中に手に入れた　冥海の光玉は|メインコマンドを開き　『冥海の光玉を見る』から|確認することができます。": "<color_yellow>This will explain \"Dark Sea Orbs!\"|<br>|Dark Sea Orbs contain various pieces of|equipment, in which you find inside Zelmea.|<br>|If you manage to reach the Zelmea's exit, you|can break the seal on the orbs and receive|the equipment contained within.|<br>|However, if you fall in battle or leave early, you will|lose all of your orbs, so be careful.|<br>|You can check the orbs you've already obtained|with the \"View Dark Sea Orbs\" command."
@@ -9003,7 +9003,7 @@
         "clarity_nt_char_1013": "clarity_nt_char_1013"
     },
     "3002": {
-        "<speed=0>この誘いを受けるには|モコモコハウスにいる　ロスターに|話しかけてください。": ""
+        "<speed=0>この誘いを受けるには|モコモコハウスにいる　ロスターに|話しかけてください。": "<speed=0>To receive this invitation, talk to|Roster in the Mokomoko House."
     },
     "3003": {
         "<speed=0>元の装備品か　ドレスアップに使った装備品に|異なる性別の装備品を　使っているので|装備できません！": ""
@@ -9078,7 +9078,7 @@
         "<speed=0><%sM_item><%sM_plusnum>は|ドレスアップされていますが|本当に　捨ててもいいですか？<yesno2><close>": "<speed=0><%sM_item><%sM_plusnum> has a glamour. Is it okay to|throw it away?<yesno2><close>"
     },
     "3027": {
-        "<speed=0><%sM_item><%sM_plusnum>は|カラーリングされていますが|本当に　捨ててもいいですか？<yesno2><close>": ""
+        "<speed=0><%sM_item><%sM_plusnum>は|カラーリングされていますが|本当に　捨ててもいいですか？<yesno2><close>": "<speed=0><%sM_item><%sM_plusnum> is dyed.|Are you sure you want to throw it away?<yesno2><close>"
     },
     "3028": {
         "<speed=0>|選択した職業に　現在の　ふりわけを|上書きして反映しました！|<color_yellow>※職業専用の宝珠は　反映されません。": ""
@@ -9123,7 +9123,7 @@
         "このルールで　大富豪を遊びます。|４人着席すると　はじまります。|<%nM_NUM_GAME>ゲーム遊びますが　よろしいですか？|<yesno><close>": ""
     },
     "3042": {
-        "大富豪への参加を　キャンセルします。|よろしいですか？|<yesno2><close>": "Daifugo participation will be cancelled.|Are you sure?|<yesno2><close>"
+        "大富豪への参加を　キャンセルします。|よろしいですか？|<yesno2><close>": "Tycoon participation will be cancelled.|Are you sure?|<yesno2><close>"
     },
     "3043": {
         "「トランプケース」を持っていなかった。|娯楽島ラッカランにいる　大富豪協会員プゴルに|「トランプケース」を　もらいに行こう！|<end>": ""
@@ -9219,7 +9219,7 @@
         "<speed=0>魔の波動が高まっていないため　使用できない！": ""
     },
     "3074": {
-        "<speed=0>|何ゲーム遊びますか？|２ゲーム目からは　ゲームを始める前に|ほかの階級のプレイヤーと　カードを交換します。|<select_se_off>|１ゲーム|２ゲーム|３ゲーム|４ゲーム|<select_end><close>": "<speed=0>|How many games do you want to play? From the|second game, you exchange cards with other|players of the same rank before starting.|<select_se_off>|1 game|2 games|3 games|4 games|<select_end><close>"
+        "<speed=0>|何ゲーム遊びますか？|２ゲーム目からは　ゲームを始める前に|ほかの階級のプレイヤーと　カードを交換します。|<select_se_off>|１ゲーム|２ゲーム|３ゲーム|４ゲーム|<select_end><close>": "<speed=0>|How many games do you want to play? From the|second game, you exchange cards with other|players of the same rank before starting.|<select_se_off>|1 Game|2 Games|3 Games|4 Games|<select_end><close>"
     },
     "3075": {
         "スタンダード": "Standard"
@@ -9354,7 +9354,7 @@
         "<speed=0><pc>は　底なしの穴を　のぞいた。|あと　<%dEV_PENALTY>分　経たないと　入れないようだ。": ""
     },
     "3119": {
-        "叡智の冠": ""
+        "叡智の冠": "Wisdom Crown"
     },
     "3120": {
         "clarity_nt_char_1052": "clarity_nt_char_1052"
@@ -9609,7 +9609,7 @@
         "<speed=0>このさそいを受けるには|「グランゼドーラのおはなし」を|クリアしている必要が　あります。": ""
     },
     "3204": {
-        "モンスタータロット|図鑑を見ることが|できます": "Monster Tarot|You can view the|illustrated book."
+        "モンスタータロット|図鑑を見ることが|できます": "|You can view the|album of the|Monster Tarots."
     },
     "3205": {
         "現在『配信中』設定になっています。|『配信OK』以外のサーバーでは|『配信中』に設定することが　できません。|<br>|この先は『配信OK』サーバーでは　ありません。|入る場合は　配信を停止してください。|<br>|『配信中』設定を解除し　サーバーを移動しても|よろしいですか？|<yesno2>|<close>": ""

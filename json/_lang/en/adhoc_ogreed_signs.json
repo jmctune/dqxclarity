@@ -129,25 +129,25 @@
         "<center>↑獅子門": ""
     },
     "44": {
-        "<left>←グレン城　グレン領西　ゲルト海峡|<right>獅子門→": ""
+        "<left>←グレン城　グレン領西　ゲルト海峡|<right>獅子門→": "<left>←Glen Castle　Glen West　Gert Strait|<right>Lion Gate→"
     },
     "45": {
-        "<left>←グレン城　グレン領西　ゲルト海峡|<right>獅子門→": ""
+        "<left>←グレン城　グレン領西　ゲルト海峡|<right>獅子門→": "<left>←Glen Castle　Glen West　Gert Strait|<right>Lion Gate→"
     },
     "46": {
-        "<left>←グレン城　グレン領西　ゲルト海峡|<right>獅子門→": ""
+        "<left>←グレン城　グレン領西　ゲルト海峡|<right>獅子門→": "<left>←Glen Castle　Glen West　Gert Strait|<right>Lion Gate→"
     },
     "47": {
-        "<center>↑獅子門|<left>←グレン城|<center>グレン領西　ゲルト海峡↓": ""
+        "<center>↑獅子門|<left>←グレン城|<center>グレン領西　ゲルト海峡↓": "<center>↑Lion Gate|<left>←Glen Castle|<center>Glen West　Gert Strait↓"
     },
     "48": {
-        "<center>↑グレン領西|<left>←ゲルト海峡|<right>グレン城　獅子門→": ""
+        "<center>↑グレン領西|<left>←ゲルト海峡|<right>グレン城　獅子門→": "<center>↑Glen West|<left>←Gert Strait|<right>Glen Castle　Lion Gate→"
     },
     "49": {
         "<center>↑グレン城": ""
     },
     "50": {
-        "<left>←ゲルト海峡|<center>グレン城　グレン領西　獅子門↓": ""
+        "<left>←ゲルト海峡|<center>グレン城　グレン領西　獅子門↓": "<left>←Gert Strait|<center>Glen Castle　Glen West　Lion Gate"
     },
     "51": {
         "<center>↑ゲルト海峡": ""
@@ -156,7 +156,7 @@
         "<center>↑ベコン渓谷": ""
     },
     "53": {
-        "<center>↑グレン領西": ""
+        "<center>↑グレン領西": "<center>↑Glen West"
     },
     "54": {
         "<left>←入り江の集落|<center>ガートラント領↓": ""
@@ -276,7 +276,7 @@
         "<left>ここより先　危険！|<left>この橋　渡るべからず。": ""
     },
     "93": {
-        "<center>↑グレン領西|<left>←この先　危険地帯！|<center>妖剣士の塚↓": ""
+        "<center>↑グレン領西|<left>←この先　危険地帯！|<center>妖剣士の塚↓": "<center>↑Glen West|<left>←Dangerous Area!|<center>Youkai Mound↓"
     },
     "94": {
         "<left>死者の眠りを　さまたげた者は|<left>その報いを　受けるだろう。": ""
@@ -315,13 +315,13 @@
         "<left>柵の下に見える地を　目指すなら|<left>死者たちが眠る洞くつを　通り抜けてゆくべし。": ""
     },
     "106": {
-        "<center>↑妖剣士の塚|<right>この先　危険地帯！→|<center>グレン領西↓": ""
+        "<center>↑妖剣士の塚|<right>この先　危険地帯！→|<center>グレン領西↓": "<center>↑Youkai Mound|<right>Dangerous Area!→|<center>Glen West↓"
     },
     "107": {
         "<left>この奥　妖剣士の眠る塚。|<left>死者の眠りを　さまたげるべからず。": ""
     },
     "108": {
-        "<left>この先　危険地帯！|<left>凶暴な魔物たちとの戦いを　避けたいなら|<left>グレン領西から　ベコン渓谷に入ること。": ""
+        "<left>この先　危険地帯！|<left>凶暴な魔物たちとの戦いを　避けたいなら|<left>グレン領西から　ベコン渓谷に入ること。": "<left>Dangerous Area!|<left>|<left>To avoid dangerous monsters,|<left>enter Becon Valley from Glen West."
     },
     "109": {
         "<left>←グレン領東|<right>竜の墓場→": ""
@@ -765,7 +765,7 @@
         "<left>オーグリード大陸の　古い地図のようだ。": ""
     },
     "256": {
-        "<left>グレン領西の奥　崩れた教会の跡地で|<left>この世のものとは思えない　歌を聞いた……。|<left>と　掲示板のすみに　走り書きされている。": ""
+        "<left>グレン領西の奥　崩れた教会の跡地で|<left>この世のものとは思えない　歌を聞いた……。|<left>と　掲示板のすみに　走り書きされている。": "<left>At this collapsed church in Glen West,|<left>you hear an otherworldly song...|<left>it's scribbled in the corner of this board."
     },
     "257": {
         "<center>燃える鉄を打ち　剣となせ！|<center>武器鍛冶ギルドは　漢の生き様！|<right>武器鍛冶ギルド本部": ""

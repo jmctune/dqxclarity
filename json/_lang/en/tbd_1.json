@@ -87,7 +87,7 @@
         "ナース": ""
     },
     "30": {
-        "メイド": ""
+        "メイド": "Maid"
     },
     "31": {
         "執事": ""
@@ -198,7 +198,7 @@
         "clarity_nt_char_21": "clarity_nt_char_21"
     },
     "67": {
-        "いもうと": "L Sister"
+        "いもうと": "Y Sister"
     },
     "68": {
         "clarity_nt_char_22": "clarity_nt_char_22"
@@ -312,13 +312,13 @@
         "大統領": ""
     },
     "105": {
-        "妖精": ""
+        "妖精": "Fairy"
     },
     "106": {
         "clarity_nt_char_38": "clarity_nt_char_38"
     },
     "107": {
-        "天使": ""
+        "天使": "Angel"
     },
     "108": {
         "clarity_nt_char_39": "clarity_nt_char_39"
@@ -330,7 +330,7 @@
         "clarity_nt_char_40": "clarity_nt_char_40"
     },
     "111": {
-        "堕天使": ""
+        "堕天使": "Fal Angel"
     },
     "112": {
         "魔王": "LRD"
@@ -354,13 +354,13 @@
         "ヘヴィゲーマー": ""
     },
     "119": {
-        "ライダー": ""
+        "ライダー": "Rider"
     },
     "120": {
         "clarity_nt_char_43": "clarity_nt_char_43"
     },
     "121": {
-        "ギャル": ""
+        "ギャル": "Stellar"
     },
     "122": {
         "チャラ男": ""
@@ -561,7 +561,7 @@
         "clarity_nt_char_67": "clarity_nt_char_67"
     },
     "188": {
-        "団長": ""
+        "団長": "Leader"
     },
     "189": {
         "clarity_nt_char_68": "clarity_nt_char_68"
@@ -642,7 +642,7 @@
         "の姉妹": ""
     },
     "215": {
-        "ポイックリン": ""
+        "ポイックリン": "Poiclin"
     },
     "216": {
         "clarity_nt_char_78": "clarity_nt_char_78"
@@ -720,7 +720,7 @@
         "clarity_nt_char_86": "clarity_nt_char_86"
     },
     "241": {
-        "ハッパ": ""
+        "ハッパ": "Happa"
     },
     "242": {
         "博士": ""
@@ -732,7 +732,7 @@
         "の博士": ""
     },
     "245": {
-        "ルベカ": ""
+        "ルベカ": "Rubecca"
     },
     "246": {
         "探偵": ""
@@ -795,7 +795,7 @@
         "clarity_nt_char_95": "clarity_nt_char_95"
     },
     "266": {
-        "パクレ": ""
+        "パクレ": "Pakul"
     },
     "267": {
         "警部": ""
@@ -846,7 +846,7 @@
         "グロスナー": ""
     },
     "283": {
-        "スピンドル": ""
+        "スピンドル": "Spindle"
     },
     "284": {
         "狩りトモ": ""
@@ -951,7 +951,7 @@
         "の冥王": ""
     },
     "318": {
-        "ミシュア": ""
+        "ミシュア": "Mishua"
     },
     "319": {
         "clarity_nt_char_115": "clarity_nt_char_115"
@@ -975,7 +975,7 @@
         "リゼロッタ": "Lieselotte"
     },
     "326": {
-        "フィーロ": ""
+        "フィーロ": "Firo"
     },
     "327": {
         "clarity_nt_char_118": "clarity_nt_char_118"
@@ -1014,7 +1014,7 @@
         "ルシェンダ": "Lushenda"
     },
     "339": {
-        "トーマ": "Thomas"
+        "トーマ": "Toma"
     },
     "340": {
         "シンイ": "Shini"
@@ -1056,7 +1056,7 @@
         "clarity_nt_char_126": "clarity_nt_char_126"
     },
     "353": {
-        "アイリ": ""
+        "アイリ": "Airi"
     },
     "354": {
         "グレイツェル": "Gretzel"
@@ -1074,7 +1074,7 @@
         "の相棒": ""
     },
     "359": {
-        "魔女": ""
+        "魔女": "Witch"
     },
     "360": {
         "clarity_nt_char_129": "clarity_nt_char_129"
@@ -1098,7 +1098,7 @@
         "の双子": ""
     },
     "367": {
-        "カレヴァン": ""
+        "カレヴァン": "Kalevan"
     },
     "368": {
         "ムーニス": "Moonis"
@@ -1119,7 +1119,7 @@
         "clarity_nt_char_134": "clarity_nt_char_134"
     },
     "374": {
-        "テグラム": ""
+        "テグラム": "Tegram"
     },
     "375": {
         "clarity_nt_char_135": "clarity_nt_char_135"
@@ -1134,7 +1134,7 @@
         "clarity_nt_char_136": "clarity_nt_char_136"
     },
     "379": {
-        "魔勇者": "DemonHero"
+        "魔勇者": "Evil Hero"
     },
     "380": {
         "の魔勇者": ""
@@ -1182,7 +1182,7 @@
         "clarity_nt_char_142": "clarity_nt_char_142"
     },
     "395": {
-        "アリオス": ""
+        "アリオス": "Arios"
     },
     "396": {
         "clarity_nt_char_143": "clarity_nt_char_143"
@@ -1215,16 +1215,16 @@
         "の賢王": ""
     },
     "406": {
-        "サテラ": ""
+        "サテラ": "Satella"
     },
     "407": {
-        "マレン": ""
+        "マレン": "Maren"
     },
     "408": {
-        "メルエ": ""
+        "メルエ": "Merue"
     },
     "409": {
-        "ロディア": ""
+        "ロディア": "Rhodia"
     },
     "410": {
         "clarity_nt_char_147": "clarity_nt_char_147"
@@ -1368,7 +1368,7 @@
         "超一流": ""
     },
     "457": {
-        "名探偵": ""
+        "名探偵": "Sleuth"
     },
     "458": {
         "の名探偵": ""
@@ -1515,7 +1515,7 @@
         "clarity_nt_char_180": "clarity_nt_char_180"
     },
     "506": {
-        "チョコっと": ""
+        "チョコっと": "Choco"
     },
     "507": {
         "ホネホネリーダー": ""
@@ -1635,7 +1635,7 @@
         "clarity_nt_char_193": "clarity_nt_char_193"
     },
     "546": {
-        "キャプテン": ""
+        "キャプテン": "Captain"
     },
     "547": {
         "いたずら": "mischief"
@@ -1719,7 +1719,7 @@
         "clarity_nt_char_206": "clarity_nt_char_206"
     },
     "574": {
-        "三毛猫": ""
+        "三毛猫": "Calico"
     },
     "575": {
         "だニャン": ""
@@ -2040,7 +2040,7 @@
         "★": ""
     },
     "681": {
-        "ベジセルク": ""
+        "ベジセルク": "Vegiselk"
     },
     "682": {
         "詩人": ""
@@ -2079,7 +2079,7 @@
         "clarity_nt_char_250": "clarity_nt_char_250"
     },
     "694": {
-        "冒険ゼミ": ""
+        "冒険ゼミ": "Adv. Seminar"
     },
     "695": {
         "clarity_nt_char_251": "clarity_nt_char_251"
@@ -2136,7 +2136,7 @@
         "ニコちゃん": "Nikochan"
     },
     "713": {
-        "疾風": ""
+        "疾風": "Gale"
     },
     "714": {
         "clarity_nt_char_259": "clarity_nt_char_259"
@@ -2184,7 +2184,7 @@
         "リリム": ""
     },
     "729": {
-        "バレクス": ""
+        "バレクス": "Barex"
     },
     "730": {
         "clarity_nt_char_265": "clarity_nt_char_265"
@@ -2205,7 +2205,7 @@
         "clarity_nt_char_267": "clarity_nt_char_267"
     },
     "736": {
-        "ポーリア": ""
+        "ポーリア": "Paulia"
     },
     "737": {
         "clarity_nt_char_268": "clarity_nt_char_268"
@@ -2241,7 +2241,7 @@
         "メレアーデ": "Mereade"
     },
     "748": {
-        "クオード": ""
+        "クオード": "Quard"
     },
     "749": {
         "clarity_nt_char_273": "clarity_nt_char_273"
@@ -2250,7 +2250,7 @@
         "５０００年": "5000 Years"
     },
     "751": {
-        "海賊": ""
+        "海賊": "Pirate"
     },
     "752": {
         "clarity_nt_char_274": "clarity_nt_char_274"
@@ -2316,7 +2316,7 @@
         "clarity_nt_char_281": "clarity_nt_char_281"
     },
     "773": {
-        "星辰武王": ""
+        "星辰武王": "Star War Kng"
     },
     "774": {
         "clarity_nt_char_282": "clarity_nt_char_282"
@@ -2337,7 +2337,7 @@
         "アルヴァン": "Alvan"
     },
     "780": {
-        "カミル": ""
+        "カミル": "Kamil"
     },
     "781": {
         "ギルガラン": "Gilgaran"
@@ -2439,7 +2439,7 @@
         "clarity_nt_char_296": "clarity_nt_char_296"
     },
     "814": {
-        "エージェント": ""
+        "エージェント": "Agent"
     },
     "815": {
         "clarity_nt_char_297": "clarity_nt_char_297"
@@ -2478,7 +2478,7 @@
         "clarity_nt_char_301": "clarity_nt_char_301"
     },
     "827": {
-        "ジェニャ": ""
+        "ジェニャ": "Jenya"
     },
     "828": {
         "clarity_nt_char_302": "clarity_nt_char_302"
@@ -2577,7 +2577,7 @@
         "clarity_nt_char_313": "clarity_nt_char_313"
     },
     "860": {
-        "フェリナ": ""
+        "フェリナ": "Felina"
     },
     "861": {
         "clarity_nt_char_314": "clarity_nt_char_314"
@@ -3420,7 +3420,7 @@
         "clarity_nt_char_415": "clarity_nt_char_415"
     },
     "1141": {
-        "アビス": ""
+        "アビス": "Abyss"
     },
     "1142": {
         "魔族の": ""
@@ -3591,7 +3591,7 @@
         "clarity_nt_char_433": "clarity_nt_char_433"
     },
     "1198": {
-        "大富豪": "Daifugo"
+        "大富豪": "Tycoon"
     },
     "1199": {
         "キュルル": "Qululu"
