@@ -8946,7 +8946,7 @@
         "clarity_nt_char_1032": "clarity_nt_char_1032"
     },
     "2983": {
-        "[種別順]": "[Type]"
+        "[種別順]": "[By Type]"
     },
     "2984": {
         "[作った事無い順]": "[Order Crafted]"
@@ -14562,7 +14562,7 @@
         "[レベル上限]": ""
     },
     "4855": {
-        "モンスター順": "Monster"
+        "モンスター順": "By Monster"
     },
     "4856": {
         "clarity_nt_char_1648": "clarity_nt_char_1648"
@@ -19629,7 +19629,7 @@
         "モンスター順に": "By Monster"
     },
     "6544": {
-        "[モンスター順]": "[Monster]"
+        "[モンスター順]": "[By Monster]"
     },
     "6545": {
         "clarity_nt_char_2233": "clarity_nt_char_2233"
@@ -20709,7 +20709,7 @@
         "clarity_nt_char_2346": "clarity_nt_char_2346"
     },
     "6904": {
-        "装備デッキ": ""
+        "装備デッキ": "Equipped"
     },
     "6905": {
         "タロットデッキ<%sM_deck>": "Tarot Deck <%sM_deck>"
