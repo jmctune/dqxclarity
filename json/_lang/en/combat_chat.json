@@ -26934,7 +26934,7 @@
         "clarity_ms_space_1": "clarity_ms_space_1"
     },
     "8979": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージ完全ガード！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージ完全ガード！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's complete damage guard!"
     },
     "8980": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 弓聖の守り星効果が 悪い効果を はらいのけた！": ""
@@ -27915,7 +27915,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 逆鱗のころもが きえた！": ""
     },
     "9306": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージ完全ガードが きえた。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージ完全ガードが きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's complete damage guard faded."
     },
     "9307": {
         "clarity_nt_char_3101": "clarity_nt_char_3101"
