@@ -150,10 +150,10 @@
         "「あらら　残念。３着だったわ。|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": "Hmm, sorry. You placed third. Here is <%dM_GOT_POINT>|Casino Coins.|<bw_break>"
     },
     "51": {
-        "「<%sM_GRADE>で　１着を取ったので|　<%sM_GRADE_UP>に　参加できるようになったわよ！|　ぜひ　出場してみてね！|<end>": ""
+        "「<%sM_GRADE>で　１着を取ったので|　<%sM_GRADE_UP>に　参加できるようになったわよ！|　ぜひ　出場してみてね！|<end>": "You can now participate in <%sM_GRADE_UP>|since you placed first in <%sM_GRADE>!|Please give it a try!|<end>"
     },
     "52": {
-        "<speed=0>|<%sM_ACTIVE_SLIME>は|<%sM_GRADE_UP>に　参加できるようになった！|<me 71><end>": ""
+        "<speed=0>|<%sM_ACTIVE_SLIME>は|<%sM_GRADE_UP>に　参加できるようになった！|<me 71><end>": "<speed=0>|<%sM_ACTIVE_SLIME> can now participate in|<%sM_GRADE_UP>!|<me 71><end>"
     },
     "53": {
         "「おめでとう！|　マスターⅡで　１着を取ったので|　マスターⅠが　解放されたわ！|<br>|「なんと　マスターⅠで　１着を取ると|　そのスライムが習得可能な　全とくぎの中から|　好きなとくぎを　覚えさせることができるわ。|<br>|「それと　<%sM_ACTIVE_SLIME>ちゃんは|　マスターⅠ以外の　育成レースには|　参加できなくなるから　気を付けてね。|<end>": ""
