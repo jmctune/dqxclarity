@@ -123,10 +123,10 @@
         "「<%sM_ACTIVE_SLIME>ちゃんは　こちらのレースに|　出場できるわよ。|　参加させたいレースを　選んでね。|<break>": "<%sM_ACTIVE_SLIME> can participate in|these races. Please choose the race you'd|like to participate in.|<break>"
     },
     "42": {
-        "「参加させたいレースを　選んでね。|　マスターで　１着を取ると|　特訓レースが　解放されるわよ！|<break>": ""
+        "「参加させたいレースを　選んでね。|　マスターで　１着を取ると|　特訓レースが　解放されるわよ！|<break>": "Choose the race you'd like to participate in.|If you place first in the Master race, a|special race will become available!"
     },
     "43": {
-        "「参加させたいレースを　選んでね。|　マスターⅠで　１着を取ると|　好きなとくぎを　覚えさせることができるわよ！|<break>": ""
+        "「参加させたいレースを　選んでね。|　マスターⅠで　１着を取ると|　好きなとくぎを　覚えさせることができるわよ！|<break>": "Choose the race you'd like to participate in.|If you place first in the Master Ⅰ race, a|special race will become available!|<break>"
     },
     "44": {
         "「<%sM_ACTIVE_SLIME>ちゃんの育成を|　やめるのね。|<bw_break>": ""
