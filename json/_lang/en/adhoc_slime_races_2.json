@@ -1,6 +1,6 @@
 {
     "1": {
-        "<speed=0>|……なんと！|<%sM_ACTIVE_SLIME>は　<%sM_SLIME_COLOR>に　変化した！|<wait=850><me 60><end>": ""
+        "<speed=0>|……なんと！|<%sM_ACTIVE_SLIME>は　<%sM_SLIME_COLOR>に　変化した！|<wait=850><me 60><end>": "<speed=0>|...Look!|<%sM_ACTIVE_SLIME> has changed to <%sM_SLIME_COLOR>!|<wait=850><me 60><end>"
     },
     "2": {
         "「すごい！|　<%sM_ACTIVE_SLIME>ちゃんの　姿が|　変わったわ！|<br>|「きっと　この子なりに　あなたの|　<%sM_ACTIVE_SLIME>ちゃんへの　気持ちに|　こたえようとしたのね！|<br>|「うらやましい……。|<bw_break>": ""
