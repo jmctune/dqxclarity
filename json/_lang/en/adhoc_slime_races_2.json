@@ -246,13 +246,13 @@
         "「あら？　タータが　何か言いたそうにしてるわ。|　先に　となりで　用を済ませてから|　また来てちょうだいね。|<end>": "Huh? I think Tarta over there has something|she wants to say to you. Come back to me|after finishing your business with her.|<end>"
     },
     "83": {
-        "「あら？|　まだ　前回のレース結果が出ていないわね。|　結果が出るまで　もう少し待ってね。|<end>": ""
+        "「あら？|　まだ　前回のレース結果が出ていないわね。|　結果が出るまで　もう少し待ってね。|<end>": "Huh? The previous race's results aren't ready|yet. Wait a little while until they're ready.|<end>"
     },
     "84": {
         "<speed=0>|<%sM_ACTIVE_SLIME>は　<%sM_TOKUGI>を　忘れた。|<end>": "<speed=0>|<%sM_ACTIVE_SLIME> forgot <%sM_TOKUGI>.|<end>"
     },
     "85": {
-        "<speed=0>|<se_nots System 7>|なんと！|<%sM_ACTIVE_SLIME>は　<%sM_TOKUGI>を　忘れて|<%sM_TOKUGI_NEW>を　覚えた！|<wait=2000><end>": ""
+        "<speed=0>|<se_nots System 7>|なんと！|<%sM_ACTIVE_SLIME>は　<%sM_TOKUGI>を　忘れて|<%sM_TOKUGI_NEW>を　覚えた！|<wait=2000><end>": "<speed=0>|<se_nots System 7>|Oh my! <%sM_ACTIVE_SLIME> forgot|<%sM_TOKUGI> and learned|<%sM_TOKUGI_NEW>!|<wait=2000><end>"
     },
     "86": {
         "「<%sM_TOKUGI_NEW>を覚えるかわりに|　<%sM_TOKUGI>を　忘れてもいい？|<yesno2><break>": ""
