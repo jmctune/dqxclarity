@@ -105,10 +105,10 @@
         "<se_nots System 35>|「……あら？　大変よ！|　<%sM_ACTIVE_SLIME>ちゃんの様子が　おかしいわ……！|<bw_break>": "<se_nots System 35>|...huh? Uh oh! There's something wrong with|<%sM_ACTIVE_SLIME>...!"
     },
     "36": {
-        "「申し訳ございません。ただ今|　開催されているレースは　休止しております。|　また　しばらくしてから　お越しください！|<end>": ""
+        "「申し訳ございません。ただ今|　開催されているレースは　休止しております。|　また　しばらくしてから　お越しください！|<end>": "I'm sorry, but the races are currently|suspended. Please come back in a little|while!|<end>"
     },
     "37": {
-        "「あら？　まだ　<%sM_ACTIVE_SLIME>ちゃんの|　エサやりが　途中だったわね。|<bw_break>": ""
+        "「あら？　まだ　<%sM_ACTIVE_SLIME>ちゃんの|　エサやりが　途中だったわね。|<bw_break>": "Huh? You're still in the middle of feeding|<%sM_ACTIVE_SLIME>, aren't you?|<bw_break>"
     },
     "38": {
         "「あら？　前回のレース結果を|　まだ　伝えてなかったわね。|　ええと　<%sM_ACTIVE_SLIME>ちゃんの結果は……|<bw_break>": ""
