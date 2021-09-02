@@ -198,10 +198,10 @@
         "「<%sM_ACTIVE_SLIME>ちゃんと|　お別れして　いいかしら？|<yesno><break>": "Will you really part with <%sM_ACTIVE_SLIME>?|<yesno><break>"
     },
     "67": {
-        "「<%sM_ACTIVE_SLIME>ちゃんと　本当にお別れするの？|　お別れすると　もう二度と|　この子で　走れなくなってしまうわよ。|<break>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんと　本当にお別れするの？|　お別れすると　もう二度と|　この子で　走れなくなってしまうわよ。|<break>": "Are you absolutely sure you want to part with|<%sM_ACTIVE_SLIME>? If you say goodbye, you won't|be able to race with them ever again.|<break>"
     },
     "68": {
-        "「そこは　空き部屋よ。|　スライムがいる部屋を選んでね。|<bw_break>": ""
+        "「そこは　空き部屋よ。|　スライムがいる部屋を選んでね。|<bw_break>": "That room is vacant. Please choose a room|with a slime.|<bw_break>"
     },
     "69": {
         "「どの子の　様子を見る？|<break>": ""
