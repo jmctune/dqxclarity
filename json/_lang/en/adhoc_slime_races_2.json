@@ -273,7 +273,7 @@
         "「あら？　<%sM_ACTIVE_SLIME>ちゃんには　まだ|　そのレースへの参加は　早いわね。|　まずは　<%sM_GRADE_NOW>で１着を目指すといいわ。|<bw_break>": "Huh? <%sM_ACTIVE_SLIME> isn't ready for|that race yet. Try to place in first in|<%sM_GRADE_NOW> beforehand.|<bw_break>"
     },
     "92": {
-        "「あら　<%sM_ACTIVE_SLIME>ちゃんは|　<%sM_TOKUGI>を　覚えているわね。|<br>|「常に効果がある　とくぎは|　ひとつしか　覚えることが　できないの。|<br>|「<%sM_TOKUGI_NEW>を　覚えるには　今　覚えている|　常に効果がある　とくぎを忘れる必要があるわ。|　忘れる　とくぎを　選んであげて。|<break>": ""
+        "「あら　<%sM_ACTIVE_SLIME>ちゃんは|　<%sM_TOKUGI>を　覚えているわね。|<br>|「常に効果がある　とくぎは|　ひとつしか　覚えることが　できないの。|<br>|「<%sM_TOKUGI_NEW>を　覚えるには　今　覚えている|　常に効果がある　とくぎを忘れる必要があるわ。|　忘れる　とくぎを　選んであげて。|<break>": "Hey, <%sM_ACTIVE_SLIME> has|<%sM_TOKUGI> learned.|<br>|It can only know one passive skill at a time.|<br>|If you want it to learn <%sM_TOKUGI_NEW>,|it'll have to forget the passive skill that|it already knows. Choose the skill to forget.|<break>"
     },
     "93": {
         "「<%sM_TOKUGI_NEW>を　覚えるには　今　覚えている|　常に効果がある　とくぎを忘れる必要があるわ。|　忘れる　とくぎを　選んであげて。|<break>": ""
