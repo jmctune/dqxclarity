@@ -3,10 +3,10 @@
         "<speed=0>|……なんと！|<%sM_ACTIVE_SLIME>は　<%sM_SLIME_COLOR>に　変化した！|<wait=850><me 60><end>": "<speed=0>|...Look!|<%sM_ACTIVE_SLIME> has changed to <%sM_SLIME_COLOR>!|<wait=850><me 60><end>"
     },
     "2": {
-        "「すごい！|　<%sM_ACTIVE_SLIME>ちゃんの　姿が|　変わったわ！|<br>|「きっと　この子なりに　あなたの|　<%sM_ACTIVE_SLIME>ちゃんへの　気持ちに|　こたえようとしたのね！|<br>|「うらやましい……。|<bw_break>": ""
+        "「すごい！|　<%sM_ACTIVE_SLIME>ちゃんの　姿が|　変わったわ！|<br>|「きっと　この子なりに　あなたの|　<%sM_ACTIVE_SLIME>ちゃんへの　気持ちに|　こたえようとしたのね！|<br>|「うらやましい……。|<bw_break>": "Amazing!|<%sM_ACTIVE_SLIME>'s appearance changed!|<br>|I'm sure it was your slime responding to your|feelings towards it!|<br>|I'm a little jealous...|<bw_break>"
     },
     "3": {
-        "<speed=0>|<%sM_ACTIVE_SLIME>は　<pc>に　なだめられ|姿を　変えることはなかった……。|<end>": ""
+        "<speed=0>|<%sM_ACTIVE_SLIME>は　<pc>に　なだめられ|姿を　変えることはなかった……。|<end>": "<speed=0>|<%sM_ACTIVE_SLIME> was soothed by <pc>,|but its appearance didn't change...|<end>"
     },
     "4": {
         "なにやら　<%sM_ACTIVE_SLIME>は|姿を　変えようとしているようだ。|<%sM_ACTIVE_SLIME>を　なだめて　変化を止めますか？|<yesno2><break>": ""
