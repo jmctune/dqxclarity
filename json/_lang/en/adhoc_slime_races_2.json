@@ -87,13 +87,13 @@
         "<speed=0>|<%sM_ACTIVE_SLIME>が　仲間になった！|<me 61><end>": "<speed=0>|<%sM_ACTIVE_SLIME> became your friend!|<me 61><end>"
     },
     "30": {
-        "「<%sM_ACTIVE_SLIME>ちゃんの|　パートナーになった　記念に|　好きなエサを　３つ　食べさせてあげて。|<br>|「スライムは　エサを食べると　成長するの。|　エサの種類で　成長する能力が決まるから|　自分のスタイルに合わせて　選ぶといいわ。|<bw_break>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんの|　パートナーになった　記念に|　好きなエサを　３つ　食べさせてあげて。|<br>|「スライムは　エサを食べると　成長するの。|　エサの種類で　成長する能力が決まるから|　自分のスタイルに合わせて　選ぶといいわ。|<bw_break>": "In commemoration of becoming partners with|<%sM_ACTIVE_SLIME>, I'll let them eat food 3 times.|<br>|Your slime will grow when it is fed. The|type of food determines which stats will grow.|Choose whichever feed suits your style best.|<bw_break>"
     },
     "31": {
-        "<speed=0>|申し訳ありませんが|その名前は　入力できません。|<end>": ""
+        "<speed=0>|申し訳ありませんが|その名前は　入力できません。|<end>": "<speed=0>|Sorry, but you cannot use that name.|<end>"
     },
     "32": {
-        "「ちゃんと　名前を考えてあげて！|<bw_break>": ""
+        "「ちゃんと　名前を考えてあげて！|<bw_break>": "Come up with a name that's good!|<bw_break>"
     },
     "33": {
         "「スライムは　レベルが上がると|　追加で　エサを食べさせることができるわ。|<br>|「『育成レースに出走する』で　走らせると|　最大１０まで　レベルが上がるわよ。|　どんどん　育ててあげてね！|<bw_break>": ""
