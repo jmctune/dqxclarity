@@ -66,7 +66,7 @@
         "<speed=0>|<%sM_ACTIVE_SLIME>は　レベル<%nM_SLIME_LV>に　上がった！|<me_57><end>": "<speed=0>|<%sM_ACTIVE_SLIME>'s level has risen to <%dM_SLIME_LV>!|<me_57><end>"
     },
     "23": {
-        "「今回のレースで　<%sM_ACTIVE_SLIME>ちゃんは|　レベルが　上がったから|　追加で　<%nM_FEED_LEFT>つ　エサを与えられるわ。|<bw_break>": ""
+        "「今回のレースで　<%sM_ACTIVE_SLIME>ちゃんは|　レベルが　上がったから|　追加で　<%nM_FEED_LEFT>つ　エサを与えられるわ。|<bw_break>": "Because <%sM_ACTIVE_SLIME>'s level has|risen from this race, it will be given an|additional <%dM_FEED_LEFT> feed.|<bw_break>"
     },
     "24": {
         "「すごい！　<%sM_ACTIVE_SLIME>ちゃんは|　あなたの育成のおかげで|　一人前のスライムに　成長したわ。|<br>|「一人前になると　これ以上　育成しても|　レベルは上がらないから　気を付けてね。|<br>|「今回のレースで　レベルが上がった分|　<%sM_ACTIVE_SLIME>ちゃんには|　最後に　<%nM_FEED_LEFT>つ　エサを与えられるわ。|<bw_break>": ""
