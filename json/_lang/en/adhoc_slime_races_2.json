@@ -141,7 +141,7 @@
         "「すごいわ！　１着　おめでとう！|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": "Amazing! Congratulations on first place!|I'll give you <%dM_GOT_POINT> Casino Coins.|<bw_break>"
     },
     "48": {
-        "「……４着でした。|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": ""
+        "「……４着でした。|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": "...you placed fourth. Here's <%dM_GOT_POINT> Casino Coins."
     },
     "49": {
         "「うーん！　惜しかったわね。２着よ！|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": ""
