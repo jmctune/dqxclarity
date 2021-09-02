@@ -222,10 +222,10 @@
         "「覚えさせたい　とくぎを　選んであげて。|<break>": "Choose the skills you want to learn.|<break>"
     },
     "75": {
-        "<se_nots System 35>|「あれ？　<%sM_ACTIVE_SLIME>ちゃんが|　何かを　ひらめいたみたいだわ！|<end>": ""
+        "<se_nots System 35>|「あれ？　<%sM_ACTIVE_SLIME>ちゃんが|　何かを　ひらめいたみたいだわ！|<end>": "<se_nots System 35>|Huh? <%sM_ACTIVE_SLIME> seems to have|figured something out!|<end>"
     },
     "76": {
-        "<speed=0>|<se_nots System 7>|なんと！|<%sM_ACTIVE_SLIME>が　<%sM_TOKUGI>を　覚えた！|<wait=2000><end>": ""
+        "<speed=0>|<se_nots System 7>|なんと！|<%sM_ACTIVE_SLIME>が　<%sM_TOKUGI>を　覚えた！|<wait=2000><end>": "<speed=0>|<se_nots System 7>|Oh my! <%sM_ACTIVE_SLIME> learned|<%sM_TOKUGI>!|<wait=2000><end>"
     },
     "77": {
         "<speed=0>|<%sM_TOKUGI>を　忘れてよろしいですか？|<yesno2><break>": "<speed=0>|Is it okay to forget <%sM_TOKUGI>?|<yesno2><break>"
@@ -234,7 +234,7 @@
         "<speed=0>|しかし　<%sM_ACTIVE_SLIME>は　|これ以上　とくぎを　覚えられないようだ！|<br>|どの　とくぎを　忘れますか？|<break>": "<speed=0>|But <%sM_ACTIVE_SLIME> can't learn|anymore skills!|<br>|Which skill will do you want them to forget?|<break>"
     },
     "79": {
-        "「スライムレース場へ　ようこそ！|　ここでは　スライムの育成ができるわ。|　どんな　用かしら？|<break>": ""
+        "「スライムレース場へ　ようこそ！|　ここでは　スライムの育成ができるわ。|　どんな　用かしら？|<break>": "Welcome to the Slime Races! You can train|your slimes here. What do you need?|<break>"
     },
     "80": {
         "「他に　用はある？|<break>": ""
