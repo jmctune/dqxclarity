@@ -81,10 +81,10 @@
         "「スカウトするのは　|　この子で　いいかしら？|<yesno><break>": "Is this the slime you'd like to scout?|<yesno><break>"
     },
     "28": {
-        "「<%sM_ACTIVE_SLIME>ちゃん　ステキな名前じゃない！|　きっと　気に入ると思うわ。|<end>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃん　ステキな名前じゃない！|　きっと　気に入ると思うわ。|<end>": "I think <%sM_ACTIVE_SLIME> is a great|name!|I'm sure you'll like it.|<end>"
     },
     "29": {
-        "<speed=0>|<%sM_ACTIVE_SLIME>が　仲間になった！|<me 61><end>": ""
+        "<speed=0>|<%sM_ACTIVE_SLIME>が　仲間になった！|<me 61><end>": "<speed=0>|<%sM_ACTIVE_SLIME> became your friend!|<me 61><end>"
     },
     "30": {
         "「<%sM_ACTIVE_SLIME>ちゃんの|　パートナーになった　記念に|　好きなエサを　３つ　食べさせてあげて。|<br>|「スライムは　エサを食べると　成長するの。|　エサの種類で　成長する能力が決まるから|　自分のスタイルに合わせて　選ぶといいわ。|<bw_break>": ""
