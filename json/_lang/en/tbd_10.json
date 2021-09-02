@@ -84,7 +84,7 @@
         "clarity_nt_char_11": "clarity_nt_char_11"
     },
     "29": {
-        "<%sM_pc>は しぐさ「<%sM_item2>」を おぼえた！": "<%sM_pc> learned the gesture|\"<%sM_item2>\"!"
+        "<%sM_pc>は しぐさ「<%sM_item2>」を おぼえた！": "<%sM_pc> learned the \"<%sM_item2>\"|emote!"
     },
     "30": {
         "<speed=0><%sM_pc>は|<%sM_item>を使った。<br>|しかし　何も　おこらなかった。|家の改築で　使ってみよう！": "<speed=0><%sM_pc> used the <%sM_item>.<br>|But nothing happened.|Try using it in your house!"
@@ -144,7 +144,7 @@
         "<%sL_PC>が <%sL_ITEM>を使って|手に入れた。": "<%sL_PC> used a <%sL_ITEM> to|obtain this."
     },
     "49": {
-        "<%sM_pc>は <%sM_action>「<%sM_item2>」を おぼえた！": ""
+        "<%sM_pc>は <%sM_action>「<%sM_item2>」を おぼえた！": "<%sM_pc> learned the \"<%sM_item2>\"|<%sM_action>!"
     },
     "50": {
         "clarity_nt_char_18": "clarity_nt_char_18"
@@ -153,7 +153,7 @@
         "しかし　<%sM_action>「<%sM_item2>」は|すでにおぼえていた。": ""
     },
     "52": {
-        "<%sM_pc>は|<%sM_action>「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|<%sM_item>は|光に包まれ　消え去った！": ""
+        "<%sM_pc>は|<%sM_action>「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|<%sM_item>は|光に包まれ　消え去った！": "<%sM_pc> learned the \"<%sM_item2>\"|<%sM_action>!<se_nots System 7>|<br>|<%sM_item> disappeared in|a flash of light!"
     },
     "53": {
         "立ちかた": "Stance"
