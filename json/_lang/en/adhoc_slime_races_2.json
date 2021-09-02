@@ -141,13 +141,13 @@
         "「すごいわ！　１着　おめでとう！|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": "Amazing! Congratulations on first place!|I'll give you <%dM_GOT_POINT> Casino Coins.|<bw_break>"
     },
     "48": {
-        "「……４着でした。|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": "...you placed fourth. Here's <%dM_GOT_POINT> Casino Coins."
+        "「……４着でした。|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": "...you placed fourth. Here's <%dM_GOT_POINT> Casino Coins.|<bw_break>"
     },
     "49": {
-        "「うーん！　惜しかったわね。２着よ！|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": ""
+        "「うーん！　惜しかったわね。２着よ！|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": "Good! You placed in second! I'll give you|<%dM_GOT_POINT> Casino Coins.|<bw_break>"
     },
     "50": {
-        "「あらら　残念。３着だったわ。|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": ""
+        "「あらら　残念。３着だったわ。|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": "Hmm, sorry. You placed third. Here is <%dM_GOT_POINT>|Casino Coins.|<bw_break>"
     },
     "51": {
         "「<%sM_GRADE>で　１着を取ったので|　<%sM_GRADE_UP>に　参加できるようになったわよ！|　ぜひ　出場してみてね！|<end>": ""
