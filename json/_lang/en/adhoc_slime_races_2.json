@@ -54,7 +54,7 @@
         "「スライムレース場へ　ようこそ！|<br>|「私は　スライムレース育成係のブレダ。|　こう見えて　一流のスライムブリーダーよ。|　ここで　スライムの管理をしているわ。|<br>|「スライムレースは　スライムを|　自分好みに育てながら　|　勝利を目指す　レースよ！|<br>|「仲間モンスターは　準備しなくても平気よ。|　私のお友達のスライムを　紹介してあげるわ。|　まずは『スカウトする』を選んでね。|<br>|「……っと。それじゃあ　さっそく……|<bw_break>": "Welcome to the Slime Races!|<br>|My name is Breda, and I'm a slime trainer. A|top-notch one at that, despite my looks. I|manage slimes here.|<br>|Slime Races let you train a slime of your|choosing to race and win!|<br>|You don't need a fellow monster in advance.|I can introduce you to a number of friendly|slimes. Choose \"Scouting\" and we can start.|<br>|...ahem. Well then...|<bw_break>"
     },
     "19": {
-        "<se_nots System 35>|「えー！　……わかったわ。|　オーナーには　いつでもなれるから|　興味がわいたら　また来てね。|<break>": ""
+        "<se_nots System 35>|「えー！　……わかったわ。|　オーナーには　いつでもなれるから|　興味がわいたら　また来てね。|<break>": "<se_nots System 35>|Huh?! ...I understand.|You can be a slime owner anytime, so please|come back if you're interested.|<break>"
     },
     "20": {
         "「そうこなくっちゃ！|　オーナーになると　最大３匹のスライムを|　同時に管理することができるわ。|<br>|「さっそく　あなたがこれから育てる|　最初のスライムを|　スカウトしましょう！|<br>|「私には　スライムのお友達が|　たっくさんいるの。|　あなたが希望する子を　紹介するわ。|<break>": ""
