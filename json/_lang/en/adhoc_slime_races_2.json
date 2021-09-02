@@ -135,10 +135,10 @@
         "「<%sM_ACTIVE_SLIME>ちゃんで|　<%sM_GRADE>に　出場するのでいいかしら？|<yesno><break>": "Is it okay for <%sM_ACTIVE_SLIME> to|participate in <%sM_GRADE>?|<yesno><break>"
     },
     "46": {
-        "「わかったわ！|　<%sM_ACTIVE_SLIME>ちゃんが　１着を取れるよう|　上手に　さくせんを　立ててあげてね！|<end>": ""
+        "「わかったわ！|　<%sM_ACTIVE_SLIME>ちゃんが　１着を取れるよう|　上手に　さくせんを　立ててあげてね！|<end>": "Okay! Choose <%sM_ACTIVE_SLIME>'s|tactics well so you can place first!|<end>"
     },
     "47": {
-        "「すごいわ！　１着　おめでとう！|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": ""
+        "「すごいわ！　１着　おめでとう！|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": "Amazing! Congratulations on first place!|I'll give you <%dM_GOT_POINT> Casino Coins.|<bw_break>"
     },
     "48": {
         "「……４着でした。|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": ""
