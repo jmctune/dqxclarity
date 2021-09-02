@@ -159,7 +159,7 @@
         "「おめでとう！|　マスターⅡで　１着を取ったので|　マスターⅠが　解放されたわ！|<br>|「なんと　マスターⅠで　１着を取ると|　そのスライムが習得可能な　全とくぎの中から|　好きなとくぎを　覚えさせることができるわ。|<br>|「それと　<%sM_ACTIVE_SLIME>ちゃんは|　マスターⅠ以外の　育成レースには|　参加できなくなるから　気を付けてね。|<end>": "Congratulations! Master Ⅰ is now available|since you placed first in Master Ⅰ!|<br>|If you place first in Master Ⅰ, you'll be|able to freely choose your slime's skills|from any of the skills its able to learn.|<br>|However, <%sM_ACTIVE_SLIME> can only participate|in Master Ⅰ races from now on, so please|make sure to remember that.|<end>"
     },
     "54": {
-        "「新しい子を管理する　部屋を|　選んであげて。|<break>": ""
+        "「新しい子を管理する　部屋を|　選んであげて。|<break>": "Please choose a room to manage your new slime.|<break>"
     },
     "55": {
         "「そこはもう　別の子が使ってるわ。|　新しい子をスカウトするなら　|　他の部屋を選ぶか　今いる子と別れてね。|<bw_break>": ""
