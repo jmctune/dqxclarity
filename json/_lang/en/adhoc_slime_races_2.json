@@ -210,13 +210,13 @@
         "「つよさと　とくぎについて　確認できるわよ。|　なでてあげると　よろこぶわ。|<break>": "You can check its stats and skills. It will be|happy if you stroke it.|<break>"
     },
     "71": {
-        "「おめでとう！　マスターⅠで　１着を取ったので|　<%sM_ACTIVE_SLIME>ちゃんに　好きなとくぎを|　覚えさせることが　できるわ！|<end>": ""
+        "「おめでとう！　マスターⅠで　１着を取ったので|　<%sM_ACTIVE_SLIME>ちゃんに　好きなとくぎを|　覚えさせることが　できるわ！|<end>": "Congratulations! Since you came in first place|in Master Ⅰ, you can freely choose|<%sM_ACTIVE_SLIME>'s skills!|<end>"
     },
     "72": {
         "「好きなとくぎを　覚えさせることができるけど|　新しい　とくぎを覚えなくても　いいの？|<yesno2><break>": "Keep the skills you currently have without|learning any new ones?|<yesno2><break>"
     },
     "73": {
-        "「わかったわ。<bw_break>": ""
+        "「わかったわ。<bw_break>": "Understood.<bw_break>"
     },
     "74": {
         "「覚えさせたい　とくぎを　選んであげて。|<break>": "Choose the skills you want to learn.|<break>"
