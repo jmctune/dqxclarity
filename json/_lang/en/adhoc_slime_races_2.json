@@ -39,7 +39,7 @@
         "「どのエサをあげるか　選んであげて。|　今回は　<%nM_FEED_LEFT>つ　選ぶことができるわ。|<break>": "Choose which feed you'd like to give your|slime. You can choose <%dM_FEED_LEFT> this time.|<break>"
     },
     "14": {
-        "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>の|ジャンプ率が　<%sM_RANK>ランクに　上がった！|<%sM_ACTIVE_SLIME>は　ジャンプがより得意になった！|<wait=1500><end>": ""
+        "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>の|ジャンプ率が　<%sM_RANK>ランクに　上がった！|<%sM_ACTIVE_SLIME>は　ジャンプがより得意になった！|<wait=1500><end>": "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>'s Jump Rate|raised to Rank <%sM_RANK>!|Now <%sM_ACTIVE_SLIME> is more|proficient at jumping!|<wait=1500><end>"
     },
     "15": {
         "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>の|最大ＭＰが　<%sM_RANK>ランクに　上がった！|<br>|<se_nots System 7>|<%sM_ACTIVE_SLIME>は|とくぎを　たくさん使えるようになった！|<wait=1500><end>": ""
