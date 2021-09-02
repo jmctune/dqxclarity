@@ -276,7 +276,7 @@
         "「あら　<%sM_ACTIVE_SLIME>ちゃんは|　<%sM_TOKUGI>を　覚えているわね。|<br>|「常に効果がある　とくぎは|　ひとつしか　覚えることが　できないの。|<br>|「<%sM_TOKUGI_NEW>を　覚えるには　今　覚えている|　常に効果がある　とくぎを忘れる必要があるわ。|　忘れる　とくぎを　選んであげて。|<break>": "Hey, <%sM_ACTIVE_SLIME> has|<%sM_TOKUGI> learned.|<br>|It can only know one passive skill at a time.|<br>|If you want it to learn <%sM_TOKUGI_NEW>,|it'll have to forget the passive skill that|it already knows. Choose the skill to forget.|<break>"
     },
     "93": {
-        "「<%sM_TOKUGI_NEW>を　覚えるには　今　覚えている|　常に効果がある　とくぎを忘れる必要があるわ。|　忘れる　とくぎを　選んであげて。|<break>": ""
+        "「<%sM_TOKUGI_NEW>を　覚えるには　今　覚えている|　常に効果がある　とくぎを忘れる必要があるわ。|　忘れる　とくぎを　選んであげて。|<break>": "In order to learn <%sM_TOKUGI_NEW>, it will|have to forget the passive skill it already|knows. Please choose the skill to forget.|<break>"
     },
     "94": {
         "「スライムレース場へ　ようこそ！|　ここでは　スライムの育成ができるわ。|<br>|「あら？　新しいお知らせを|　まだ　伝えてなかったわね。|　ええと……|<br>|「新しいスライムが　加わったみたい。|　スライムタワーちゃんって　言うんだけど|　ジャンプが　得意な子みたいね。|<br>|「ちょっと　グラグラしてるんだけど|　きっと　素敵なチカラを秘めてると思うの。|　気になるなら　スカウトしてあげてね！|<br>|「それと……|<br>|「スライムナイトちゃんの|　つよさが　変わったみたいなの。|　確かめてみてね。|<br>|「……っと。|　新しいお知らせは　こんな感じね。|　それじゃあ……|<bw_break>": ""
