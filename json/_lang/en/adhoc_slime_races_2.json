@@ -237,10 +237,10 @@
         "「スライムレース場へ　ようこそ！|　ここでは　スライムの育成ができるわ。|　どんな　用かしら？|<break>": "Welcome to the Slime Races! You can train|your slimes here. What do you need?|<break>"
     },
     "80": {
-        "「他に　用はある？|<break>": ""
+        "「他に　用はある？|<break>": "Is there anything else?|<break>"
     },
     "81": {
-        "「あら？　スライムがいないわ。|　『スカウトする』で|　スライムを　紹介するわよ。|<bw_break>": ""
+        "「あら？　スライムがいないわ。|　『スカウトする』で|　スライムを　紹介するわよ。|<bw_break>": "Huh? You don't have a slime. Please choose|\"Scouting\" and I can introduce you to one.|<bw_break>"
     },
     "82": {
         "「あら？　タータが　何か言いたそうにしてるわ。|　先に　となりで　用を済ませてから|　また来てちょうだいね。|<end>": ""
