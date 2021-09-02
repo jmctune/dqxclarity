@@ -51,7 +51,7 @@
         "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>の|スタミナが　<%sM_RANK>ランクに　上がった！|<%sM_ACTIVE_SLIME>は　一段と疲れにくくなった！|<wait=1500><end>": "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>'s Stamina raised|to Rank <%sM_RANK>!|Now <%sM_ACTIVE_SLIME> will get tired|less often!|<wait=1500><end>"
     },
     "18": {
-        "「スライムレース場へ　ようこそ！|<br>|「私は　スライムレース育成係のブレダ。|　こう見えて　一流のスライムブリーダーよ。|　ここで　スライムの管理をしているわ。|<br>|「スライムレースは　スライムを|　自分好みに育てながら　|　勝利を目指す　レースよ！|<br>|「仲間モンスターは　準備しなくても平気よ。|　私のお友達のスライムを　紹介してあげるわ。|　まずは『スカウトする』を選んでね。|<br>|「……っと。それじゃあ　さっそく……|<bw_break>": ""
+        "「スライムレース場へ　ようこそ！|<br>|「私は　スライムレース育成係のブレダ。|　こう見えて　一流のスライムブリーダーよ。|　ここで　スライムの管理をしているわ。|<br>|「スライムレースは　スライムを|　自分好みに育てながら　|　勝利を目指す　レースよ！|<br>|「仲間モンスターは　準備しなくても平気よ。|　私のお友達のスライムを　紹介してあげるわ。|　まずは『スカウトする』を選んでね。|<br>|「……っと。それじゃあ　さっそく……|<bw_break>": "Welcome to the Slime Races!|<br>|My name is Breda, and I'm a slime trainer. A|top-notch one at that, despite my looks. I|manage slimes here.|<br>|Slime Races let you train a slime of your|choosing to race and win!|<br>|You don't need a fellow monster in advance.|I can introduce you to a number of friendly|slimes. Choose \"Scouting\" and we can start.|<br>|...ahem. Well then...|<bw_break>"
     },
     "19": {
         "<se_nots System 35>|「えー！　……わかったわ。|　オーナーには　いつでもなれるから|　興味がわいたら　また来てね。|<break>": ""
