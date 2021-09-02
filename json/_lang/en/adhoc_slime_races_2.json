@@ -42,13 +42,13 @@
         "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>の|ジャンプ率が　<%sM_RANK>ランクに　上がった！|<%sM_ACTIVE_SLIME>は　ジャンプがより得意になった！|<wait=1500><end>": "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>'s Jump Rate|raised to Rank <%sM_RANK>!|Now <%sM_ACTIVE_SLIME> is more|proficient at jumping!|<wait=1500><end>"
     },
     "15": {
-        "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>の|最大ＭＰが　<%sM_RANK>ランクに　上がった！|<br>|<se_nots System 7>|<%sM_ACTIVE_SLIME>は|とくぎを　たくさん使えるようになった！|<wait=1500><end>": ""
+        "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>の|最大ＭＰが　<%sM_RANK>ランクに　上がった！|<br>|<se_nots System 7>|<%sM_ACTIVE_SLIME>は|とくぎを　たくさん使えるようになった！|<wait=1500><end>": "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>'s Max MP|raised to Rank <%sM_RANK>!|<br>|<se_nots System 7>|Now <%sM_ACTIVE_SLIME> can use|more skills!|<wait=1500><end>"
     },
     "16": {
-        "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>の|スピードが　<%sM_RANK>ランクに　上がった！|<%sM_ACTIVE_SLIME>は　もっと速く走れるようになった！|<wait=1500><end>": ""
+        "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>の|スピードが　<%sM_RANK>ランクに　上がった！|<%sM_ACTIVE_SLIME>は　もっと速く走れるようになった！|<wait=1500><end>": "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>'s Speed raised|to Rank <%sM_RANK>!|Now <%sM_ACTIVE_SLIME> will run faster!|<wait=1500><end>"
     },
     "17": {
-        "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>の|スタミナが　<%sM_RANK>ランクに　上がった！|<%sM_ACTIVE_SLIME>は　一段と疲れにくくなった！|<wait=1500><end>": ""
+        "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>の|スタミナが　<%sM_RANK>ランクに　上がった！|<%sM_ACTIVE_SLIME>は　一段と疲れにくくなった！|<wait=1500><end>": "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>'s Stamina raised|to Rank <%sM_RANK>!|Now <%sM_ACTIVE_SLIME> will get tired|less often!|<wait=1500><end>"
     },
     "18": {
         "「スライムレース場へ　ようこそ！|<br>|「私は　スライムレース育成係のブレダ。|　こう見えて　一流のスライムブリーダーよ。|　ここで　スライムの管理をしているわ。|<br>|「スライムレースは　スライムを|　自分好みに育てながら　|　勝利を目指す　レースよ！|<br>|「仲間モンスターは　準備しなくても平気よ。|　私のお友達のスライムを　紹介してあげるわ。|　まずは『スカウトする』を選んでね。|<br>|「……っと。それじゃあ　さっそく……|<bw_break>": ""
