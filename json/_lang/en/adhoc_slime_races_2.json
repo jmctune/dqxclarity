@@ -114,13 +114,13 @@
         "「あら？　前回のレース結果を|　まだ　伝えてなかったわね。|　ええと　<%sM_ACTIVE_SLIME>ちゃんの結果は……|<bw_break>": "Huh? I haven't told you the results of the|previous race, have I? Well...|<%sM_ACTIVE_SLIME>'s results were....|<bw_break>"
     },
     "39": {
-        "「あら？　まだ　<%sM_ACTIVE_SLIME>ちゃんの|　とくぎの習得が　途中だったわね。|<bw_break>": ""
+        "「あら？　まだ　<%sM_ACTIVE_SLIME>ちゃんの|　とくぎの習得が　途中だったわね。|<bw_break>": "Huh? <%sM_ACTIVE_SLIME> is still in the|middle of learning new skills, aren't they?|<bw_break>"
     },
     "40": {
-        "「あら？　まだ　<%sM_ACTIVE_SLIME>ちゃんの|　とくぎの習得が　途中だったわね。|<bw_break>": ""
+        "「あら？　まだ　<%sM_ACTIVE_SLIME>ちゃんの|　とくぎの習得が　途中だったわね。|<bw_break>": "Huh? <%sM_ACTIVE_SLIME> is still in the|middle of learning new skills, aren't they?|<bw_break>"
     },
     "41": {
-        "「<%sM_ACTIVE_SLIME>ちゃんは　こちらのレースに|　出場できるわよ。|　参加させたいレースを　選んでね。|<break>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんは　こちらのレースに|　出場できるわよ。|　参加させたいレースを　選んでね。|<break>": "<%sM_ACTIVE_SLIME> can participate in|these races. Please choose the race you'd|like to participate in.|<break>"
     },
     "42": {
         "「参加させたいレースを　選んでね。|　マスターで　１着を取ると|　特訓レースが　解放されるわよ！|<break>": ""
