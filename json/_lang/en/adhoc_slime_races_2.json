@@ -96,13 +96,13 @@
         "「ちゃんと　名前を考えてあげて！|<bw_break>": "Come up with a name that's good!|<bw_break>"
     },
     "33": {
-        "「スライムは　レベルが上がると|　追加で　エサを食べさせることができるわ。|<br>|「『育成レースに出走する』で　走らせると|　最大１０まで　レベルが上がるわよ。|　どんどん　育ててあげてね！|<bw_break>": ""
+        "「スライムは　レベルが上がると|　追加で　エサを食べさせることができるわ。|<br>|「『育成レースに出走する』で　走らせると|　最大１０まで　レベルが上がるわよ。|　どんどん　育ててあげてね！|<bw_break>": "When your slime's level increases, you can|give it more feed to increases its stats.|<br>|If you choose \"Enter Training Race\", you can|raise its level to a maximum of 10. Keep on|training them!<bw_break>"
     },
     "34": {
-        "「あら？　まだ　<%sM_ACTIVE_SLIME>ちゃんの|　エサやりが　途中だったわね。|<bw_break>": ""
+        "「あら？　まだ　<%sM_ACTIVE_SLIME>ちゃんの|　エサやりが　途中だったわね。|<bw_break>": "Huh? You're still in the middle of feeding|<%sM_ACTIVE_SLIME>, aren't you?|<bw_break>"
     },
     "35": {
-        "<se_nots System 35>|「……あら？　大変よ！|　<%sM_ACTIVE_SLIME>ちゃんの様子が　おかしいわ……！|<bw_break>": ""
+        "<se_nots System 35>|「……あら？　大変よ！|　<%sM_ACTIVE_SLIME>ちゃんの様子が　おかしいわ……！|<bw_break>": "<se_nots System 35>|...huh? Uh oh! There's something wrong with|<%sM_ACTIVE_SLIME>...!"
     },
     "36": {
         "「申し訳ございません。ただ今|　開催されているレースは　休止しております。|　また　しばらくしてから　お越しください！|<end>": ""
