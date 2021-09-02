@@ -129,7 +129,7 @@
         "「参加させたいレースを　選んでね。|　マスターⅠで　１着を取ると|　好きなとくぎを　覚えさせることができるわよ！|<break>": "Choose the race you'd like to participate in.|If you place first in the Master Ⅰ race, a|special race will become available!|<break>"
     },
     "44": {
-        "「<%sM_ACTIVE_SLIME>ちゃんの育成を|　やめるのね。|<bw_break>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんの育成を|　やめるのね。|<bw_break>": "You want to stop training <%sM_ACTIVE_SLIME>?|<bw_break>"
     },
     "45": {
         "「<%sM_ACTIVE_SLIME>ちゃんで|　<%sM_GRADE>に　出場するのでいいかしら？|<yesno><break>": ""
