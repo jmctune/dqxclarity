@@ -24,7 +24,7 @@
         "「<%sM_ACTIVE_SLIME>ちゃんが|　エサをほしそうな目で　待っているわ。|<bw_break>": "<%sM_ACTIVE_SLIME> has a look on its|face that it wants to be fed.|<bw_break>"
     },
     "9": {
-        "「選んでいるエサを　食べさせていいかしら？|　表示している　つよさに　成長するわ。|<yesno><close>": ""
+        "「選んでいるエサを　食べさせていいかしら？|　表示している　つよさに　成長するわ。|<yesno><close>": "Do you want to feed the chosen bait to your|slime? The displayed stat will raise|accordingly.|<yesno><close>"
     },
     "10": {
         "<speed=0>|<%sM_ACTIVE_SLIME>は|よろこんで　エサを食べた！|<wait=1500><end>": ""
