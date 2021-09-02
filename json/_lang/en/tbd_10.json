@@ -276,7 +276,7 @@
         "clarity_nt_char_28": "clarity_nt_char_28"
     },
     "93": {
-        "<%sM_pc>は|表情「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|<%sM_item>は|光に包まれ　消え去った！|<br>|『キャラクターの設定』の|『顔アイコン表情設定』から|おぼえた表情を　設定してみよう！": ""
+        "<%sM_pc>は|表情「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|<%sM_item>は|光に包まれ　消え去った！|<br>|『キャラクターの設定』の|『顔アイコン表情設定』から|おぼえた表情を　設定してみよう！": "<%sM_pc> learned the \"<%sM_item2>\"|facial expression!<se_nots System 7>|<br>|<%sM_item> disappeared in|a flash of light!|<br>|You can change your facial expression using|the \"Facial Expression\" command in the|\"Character\" settings!"
     },
     "94": {
         "clarity_nt_char_29": "clarity_nt_char_29"
