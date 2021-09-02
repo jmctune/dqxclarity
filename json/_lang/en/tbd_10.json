@@ -192,7 +192,7 @@
         "<%sL_PC>が <%sL_NPC>から|もらった。": "<%sL_PC> received from <%sL_NPC>."
     },
     "65": {
-        "<%sM_pc>は|<%sM_action>「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|きせかえドールのポーズを|「<%sM_item2>」に　変えられるようになった！|<br>|<%sM_item>は|光に包まれ　消え去った！": ""
+        "<%sM_pc>は|<%sM_action>「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|きせかえドールのポーズを|「<%sM_item2>」に　変えられるようになった！|<br>|<%sM_item>は|光に包まれ　消え去った！": "<%sM_pc> learned the \"<%sM_item2>\"|<%sM_action>! <se_nots System 7>|<br>|You can now change your dress-up doll's|pose to \"<%sM_item2>\"!|<br>|<%sM_item> disappeared in|a flash of light!"
     },
     "66": {
         "<speed=0>すでに　元気タイム中です！|<%sM_item>を使うと　時間と効果が|上書きされますが　本当に使いますか？<yesno 2><close>": "<speed=0>You're already in Bonus Time!|If you use <%sM_item>, your remaining time|will be overwritten. Is this okay?<yesno 2><close>"
