@@ -9,13 +9,13 @@
         "<speed=0>|<%sM_ACTIVE_SLIME>は　<pc>に　なだめられ|姿を　変えることはなかった……。|<end>": "<speed=0>|<%sM_ACTIVE_SLIME> was soothed by <pc>,|but its appearance didn't change...|<end>"
     },
     "4": {
-        "なにやら　<%sM_ACTIVE_SLIME>は|姿を　変えようとしているようだ。|<%sM_ACTIVE_SLIME>を　なだめて　変化を止めますか？|<yesno2><break>": ""
+        "なにやら　<%sM_ACTIVE_SLIME>は|姿を　変えようとしているようだ。|<%sM_ACTIVE_SLIME>を　なだめて　変化を止めますか？|<yesno2><break>": "It seems that <%sM_ACTIVE_SLIME> is|trying to change its appearance. Do you|want to soothe them and stop the change?|<yesno2><break>"
     },
     "5": {
-        "<speed=0>|予期せぬエラーが　発生しました。|時間をおいて　再度　お試しください。|<end>": ""
+        "<speed=0>|予期せぬエラーが　発生しました。|時間をおいて　再度　お試しください。|<end>": "<speed=0>|An unexpected error has occurred. Please|try again later.|<end>"
     },
     "6": {
-        "「スライムの育成は　いつでも　できるわよ。|　また　来てちょうだいね。|<end>": ""
+        "「スライムの育成は　いつでも　できるわよ。|　また　来てちょうだいね。|<end>": "You can train your slime at any time. Please|come back again soon.|<end>"
     },
     "7": {
         "「ちょうど今　アストルティアカップが開催中よ。|　となりのレース受付で　エントリーできるから|　よかったら　参加してみて！|<end>": ""
