@@ -57,7 +57,7 @@
         "<se_nots System 35>|「えー！　……わかったわ。|　オーナーには　いつでもなれるから|　興味がわいたら　また来てね。|<break>": "<se_nots System 35>|Huh?! ...I understand.|You can be a slime owner anytime, so please|come back if you're interested.|<break>"
     },
     "20": {
-        "「そうこなくっちゃ！|　オーナーになると　最大３匹のスライムを|　同時に管理することができるわ。|<br>|「さっそく　あなたがこれから育てる|　最初のスライムを|　スカウトしましょう！|<br>|「私には　スライムのお友達が|　たっくさんいるの。|　あなたが希望する子を　紹介するわ。|<break>": ""
+        "「そうこなくっちゃ！|　オーナーになると　最大３匹のスライムを|　同時に管理することができるわ。|<br>|「さっそく　あなたがこれから育てる|　最初のスライムを|　スカウトしましょう！|<br>|「私には　スライムのお友達が|　たっくさんいるの。|　あなたが希望する子を　紹介するわ。|<break>": "That's what I'm talking about! As a slime|owner, you can manage up to 3 slimes.|<br>|Let's scout the first slime you'll train|right now!|<br>|I'm acquainted with many slimes. I can|introduce you to one of your liking.|<break>"
     },
     "21": {
         "「<%sM_ACTIVE_SLIME>ちゃんは　今回のレースを|　走り切って　レベルが上がったみたいよ！|<end>": ""
