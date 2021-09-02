@@ -255,10 +255,10 @@
         "<speed=0>|<se_nots System 7>|なんと！|<%sM_ACTIVE_SLIME>は　<%sM_TOKUGI>を　忘れて|<%sM_TOKUGI_NEW>を　覚えた！|<wait=2000><end>": "<speed=0>|<se_nots System 7>|Oh my! <%sM_ACTIVE_SLIME> forgot|<%sM_TOKUGI> and learned|<%sM_TOKUGI_NEW>!|<wait=2000><end>"
     },
     "86": {
-        "「<%sM_TOKUGI_NEW>を覚えるかわりに|　<%sM_TOKUGI>を　忘れてもいい？|<yesno2><break>": ""
+        "「<%sM_TOKUGI_NEW>を覚えるかわりに|　<%sM_TOKUGI>を　忘れてもいい？|<yesno2><break>": "Do you want to forget <%sM_TOKUGI>|instead of learning <%sM_TOKUGI_NEW>?|<yesno2><break>"
     },
     "87": {
-        "「<%sM_ACTIVE_SLIME>ちゃんは|　これ以上　とくぎを　覚えられないわ。|　忘れる　とくぎを　選んであげて。|<break>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんは|　これ以上　とくぎを　覚えられないわ。|　忘れる　とくぎを　選んであげて。|<break>": "<%sM_ACTIVE_SLIME> can't learn any more|skills. Choose a skill of theirs to forget.|<break>"
     },
     "88": {
         "「あれ……。　今は　スカウトしないのね。|　スライムレースに　参加するには　|　ここで　スカウトする必要があるわよ。|<end>": ""
