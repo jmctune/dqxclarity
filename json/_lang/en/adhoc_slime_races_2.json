@@ -189,13 +189,13 @@
         "「そう……。　わかったわ。|　<%sM_ACTIVE_SLIME>ちゃんは|　私が　引き取っておくわね。": "I see... Okay. In that case, I'll take|<%sM_ACTIVE_SLIME> off your hands."
     },
     "64": {
-        "「どの子を　育成する？|<break>": ""
+        "「どの子を　育成する？|<break>": "Which slime do you want to train?|<break>"
     },
     "65": {
-        "「どの子と　お別れするの？|<break>": ""
+        "「どの子と　お別れするの？|<break>": "Which slime do you want to part with?|<break>"
     },
     "66": {
-        "「<%sM_ACTIVE_SLIME>ちゃんと|　お別れして　いいかしら？|<yesno><break>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんと|　お別れして　いいかしら？|<yesno><break>": "Will you really part with <%sM_ACTIVE_SLIME>?|<yesno><break>"
     },
     "67": {
         "「<%sM_ACTIVE_SLIME>ちゃんと　本当にお別れするの？|　お別れすると　もう二度と|　この子で　走れなくなってしまうわよ。|<break>": ""
