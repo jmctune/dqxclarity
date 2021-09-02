@@ -132,7 +132,7 @@
         "「<%sM_ACTIVE_SLIME>ちゃんの育成を|　やめるのね。|<bw_break>": "You want to stop training <%sM_ACTIVE_SLIME>?|<bw_break>"
     },
     "45": {
-        "「<%sM_ACTIVE_SLIME>ちゃんで|　<%sM_GRADE>に　出場するのでいいかしら？|<yesno><break>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんで|　<%sM_GRADE>に　出場するのでいいかしら？|<yesno><break>": "Is it okay for <%sM_ACTIVE_SLIME> to|participate in <%sM_GRADE>?|<yesno><break>"
     },
     "46": {
         "「わかったわ！|　<%sM_ACTIVE_SLIME>ちゃんが　１着を取れるよう|　上手に　さくせんを　立ててあげてね！|<end>": ""
