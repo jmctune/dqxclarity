@@ -204,10 +204,10 @@
         "「そこは　空き部屋よ。|　スライムがいる部屋を選んでね。|<bw_break>": "That room is vacant. Please choose a room|with a slime.|<bw_break>"
     },
     "69": {
-        "「どの子の　様子を見る？|<break>": ""
+        "「どの子の　様子を見る？|<break>": "Which slime do you want to look at?|<break>"
     },
     "70": {
-        "「つよさと　とくぎについて　確認できるわよ。|　なでてあげると　よろこぶわ。|<break>": ""
+        "「つよさと　とくぎについて　確認できるわよ。|　なでてあげると　よろこぶわ。|<break>": "You can check its stats and skills. It will be|happy if you stroke it.|<break>"
     },
     "71": {
         "「おめでとう！　マスターⅠで　１着を取ったので|　<%sM_ACTIVE_SLIME>ちゃんに　好きなとくぎを|　覚えさせることが　できるわ！|<end>": ""
