@@ -60,10 +60,10 @@
         "「そうこなくっちゃ！|　オーナーになると　最大３匹のスライムを|　同時に管理することができるわ。|<br>|「さっそく　あなたがこれから育てる|　最初のスライムを|　スカウトしましょう！|<br>|「私には　スライムのお友達が|　たっくさんいるの。|　あなたが希望する子を　紹介するわ。|<break>": "That's what I'm talking about! As a slime|owner, you can manage up to 3 slimes.|<br>|Let's scout the first slime you'll train|right now!|<br>|I'm acquainted with many slimes. I can|introduce you to one of your liking.|<break>"
     },
     "21": {
-        "「<%sM_ACTIVE_SLIME>ちゃんは　今回のレースを|　走り切って　レベルが上がったみたいよ！|<end>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんは　今回のレースを|　走り切って　レベルが上がったみたいよ！|<end>": "It seems <%sM_ACTIVE_SLIME>'s level|has risen from completing the race!|<end>"
     },
     "22": {
-        "<speed=0>|<%sM_ACTIVE_SLIME>は　レベル<%nM_SLIME_LV>に　上がった！|<me_57><end>": ""
+        "<speed=0>|<%sM_ACTIVE_SLIME>は　レベル<%nM_SLIME_LV>に　上がった！|<me_57><end>": "<speed=0>|<%sM_ACTIVE_SLIME>'s level has risen to <%dM_SLIME_LV>!|<me_57><end>"
     },
     "23": {
         "「今回のレースで　<%sM_ACTIVE_SLIME>ちゃんは|　レベルが　上がったから|　追加で　<%nM_FEED_LEFT>つ　エサを与えられるわ。|<bw_break>": ""
