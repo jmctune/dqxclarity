@@ -18,10 +18,10 @@
         "「スライムの育成は　いつでも　できるわよ。|　また　来てちょうだいね。|<end>": "You can train your slime at any time. Please|come back again soon.|<end>"
     },
     "7": {
-        "「ちょうど今　アストルティアカップが開催中よ。|　となりのレース受付で　エントリーできるから|　よかったら　参加してみて！|<end>": ""
+        "「ちょうど今　アストルティアカップが開催中よ。|　となりのレース受付で　エントリーできるから|　よかったら　参加してみて！|<end>": "The Astoltia Cup is currently underway. If|you'd like to participate, please speak to|the receptionist next to me!|<end>"
     },
     "8": {
-        "「<%sM_ACTIVE_SLIME>ちゃんが|　エサをほしそうな目で　待っているわ。|<bw_break>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんが|　エサをほしそうな目で　待っているわ。|<bw_break>": "<%sM_ACTIVE_SLIME> has a look on its|face that it wants to be fed.|<bw_break>"
     },
     "9": {
         "「選んでいるエサを　食べさせていいかしら？|　表示している　つよさに　成長するわ。|<yesno><close>": ""
