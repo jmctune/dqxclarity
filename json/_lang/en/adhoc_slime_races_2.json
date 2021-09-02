@@ -264,7 +264,7 @@
         "「あれ……。　今は　スカウトしないのね。|　スライムレースに　参加するには　|　ここで　スカウトする必要があるわよ。|<end>": "Hey... you're going to scout now, aren't you?|You can't participate in a Slime Race unless|you scout here first.|<end>"
     },
     "89": {
-        "「<%sM_ACTIVE_SLIME>ちゃんは　まだまだ成長するから|　特訓する必要が　ないわね。レベル１０になると|　特訓の成果が　発揮されるようになるわ。|<bw_break>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんは　まだまだ成長するから|　特訓する必要が　ないわね。レベル１０になると|　特訓の成果が　発揮されるようになるわ。|<bw_break>": "<%sM_ACTIVE_SLIME> is still growing, so there's no|need for any special training. Your training|will pay off once it reaches level 10.|<bw_break>"
     },
     "90": {
         "「<%sM_ACTIVE_SLIME>ちゃんは　マスターⅠを|　解放したから　マスターⅠ以外の育成レースに|　参加することは　できないわ。|<bw_break>": ""
