@@ -312,7 +312,7 @@
         "clarity_nt_char_31": "clarity_nt_char_31"
     },
     "105": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>封印の間": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>封印の間": "<%sW_MAP_NAME><%sW_DELIMITER>Sealed Room"
     },
     "106": {
         "<%sW_MAP_NAME><%sW_DELIMITER>謎の半球体地帯": ""
@@ -3438,7 +3438,7 @@
         "clarity_nt_char_364": "clarity_nt_char_364"
     },
     "1147": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>封印の間 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Seal Room Entrance"
+        "<%sW_MAP_NAME><%sW_DELIMITER>封印の間 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Sealed Room Entry"
     },
     "1148": {
         "clarity_nt_char_365": "clarity_nt_char_365"
@@ -10461,7 +10461,7 @@
         "clarity_nt_char_1112": "clarity_nt_char_1112"
     },
     "3488": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>魔剣封印の間": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>魔剣封印の間": "<%sW_MAP_NAME><%sW_DELIMITER>Magic Sealed Room"
     },
     "3489": {
         "<%sW_MAP_NAME><%sW_DELIMITER>集落跡": "<%sW_MAP_NAME><%sW_DELIMITER>Town Ruin"
