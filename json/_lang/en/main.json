@@ -31143,7 +31143,7 @@
         "clarity_nt_char_3501": "clarity_nt_char_3501"
     },
     "10382": {
-        "とくぎ使用率を見る": ""
+        "とくぎ使用率を見る": "View Skill Usage"
     },
     "10383": {
         "効果と入手方法": "Effect/How to Get"
@@ -31209,7 +31209,7 @@
         "ポイントランクきりかえ": ""
     },
     "10404": {
-        "とくぎ使用率": ""
+        "とくぎ使用率": "Skill Usage"
     },
     "10405": {
         "clarity_nt_char_3510": "clarity_nt_char_3510"
@@ -31257,7 +31257,7 @@
         "clarity_nt_char_3514": "clarity_nt_char_3514"
     },
     "10420": {
-        "最終更新時間 <tm%dM_TIME>月<td%dM_TIME>日<th%2dM_TIME>:<ti%02dM_TIME>": ""
+        "最終更新時間 <tm%dM_TIME>月<td%dM_TIME>日<th%2dM_TIME>:<ti%02dM_TIME>": "Last Update <tm%dM_TIME>/<td%dM_TIME> <th%2dM_TIME>:<ti%02dM_TIME>"
     },
     "10421": {
         "の町": ""
