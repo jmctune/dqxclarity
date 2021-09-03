@@ -31251,7 +31251,7 @@
         "レプリカ家具の種類": "Replica Furniture Types"
     },
     "10418": {
-        "<ty%dM_TIME>年<tm%dM_TIME>月<td%dM_TIME>日～<ty%dM_TIME2>年<tm%dM_TIME2>月<td%dM_TIME2>日": ""
+        "<ty%dM_TIME>年<tm%dM_TIME>月<td%dM_TIME>日～<ty%dM_TIME2>年<tm%dM_TIME2>月<td%dM_TIME2>日": "<tm%dM_TIME>/<td%dM_TIME>/<ty%dM_TIME> - <tm%dM_TIME2>/<td%dM_TIME2>/<ty%dM_TIME2>"
     },
     "10419": {
         "clarity_nt_char_3514": "clarity_nt_char_3514"
