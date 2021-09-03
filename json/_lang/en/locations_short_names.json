@@ -9666,7 +9666,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>温室内部": ""
     },
     "3223": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>大魔神格納庫": "Great God Hanger"
+        "<%sW_MAP_NAME><%sW_DELIMITER>大魔神格納庫": "<%sW_MAP_NAME><%sW_DELIMITER>Great God Hanger"
     },
     "3224": {
         "<%sW_MAP_NAME><%sW_DELIMITER>特別監視室": ""
