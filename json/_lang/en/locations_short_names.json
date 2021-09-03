@@ -3381,7 +3381,7 @@
         "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>星降る展望台<%sW_AUTODUNG_CF>": ""
     },
     "1128": {
-        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>闘士の鐘楼<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%dW_AUTODUNG_LV><%sW_DELIMITER>Warrior's Bell<%sW_AUTODUNG_CF>"
+        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>闘士の鐘楼<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%dW_AUTODUNG_LV><%sW_DELIMITER>Fighter's Bell<%sW_AUTODUNG_CF>"
     },
     "1129": {
         "clarity_nt_char_358": "clarity_nt_char_358"
@@ -3993,7 +3993,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>星降る展望台": ""
     },
     "1332": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>闘士の鐘楼": "<%sW_MAP_NAME><%sW_DELIMITER>Warrior's Bell"
+        "<%sW_MAP_NAME><%sW_DELIMITER>闘士の鐘楼": "<%sW_MAP_NAME><%sW_DELIMITER>Fighter's Bell"
     },
     "1333": {
         "clarity_nt_char_420": "clarity_nt_char_420"
