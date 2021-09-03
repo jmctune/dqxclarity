@@ -4437,7 +4437,7 @@
         "<%sB_ACTOR>は みんなを 鼓舞した！": ""
     },
     "1480": {
-        "<%sB_TARGET>の 秘めたちからを 解放した！": ""
+        "<%sB_TARGET>の 秘めたちからを 解放した！": "<%sB_TARGET>'s secrets were unleashed!"
     },
     "1481": {
         "パ ル プ ン テ ！！": ""
@@ -5034,7 +5034,7 @@
         "clarity_nt_char_588": "clarity_nt_char_588"
     },
     "1679": {
-        "<%sB_TARGET>の秘めたちからを 解放した！": ""
+        "<%sB_TARGET>の秘めたちからを 解放した！": "<%sB_TARGET>'s secrets were unleashed!"
     },
     "1680": {
         "clarity_nt_char_589": "clarity_nt_char_589"
