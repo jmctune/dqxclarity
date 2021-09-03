@@ -6387,7 +6387,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eから <%dB_VALUE>ポイントゲット！": ""
     },
     "2130": {
-        "テンオツ貴人は <%sB_TARGET>の秘めたちからを 解放した！": ""
+        "テンオツ貴人は <%sB_TARGET>の秘めたちからを 解放した！": "Nobleman Tenotsu unleased the secrets of <%sB_TARGET>!"
     },
     "2131": {
         "clarity_nt_char_739": "clarity_nt_char_739"
@@ -30297,7 +30297,7 @@
         "clarity_nt_char_3356": "clarity_nt_char_3356"
     },
     "10100": {
-        "秘めたちからを|解放した！": ""
+        "秘めたちからを|解放した！": "Secrets were|unleashed!"
     },
     "10101": {
         "勇者の猛り！": ""
