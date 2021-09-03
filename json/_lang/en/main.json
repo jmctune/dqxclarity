@@ -31257,7 +31257,7 @@
         "clarity_nt_char_3514": "clarity_nt_char_3514"
     },
     "10420": {
-        "最終更新時間 <tm%dM_TIME>月<td%dM_TIME>日<th%2dM_TIME>:<ti%02dM_TIME>": "Last Update <tm%dM_TIME>/<td%dM_TIME> <th%2dM_TIME>:<ti%02dM_TIME>"
+        "最終更新時間 <tm%dM_TIME>月<td%dM_TIME>日<th%2dM_TIME>:<ti%02dM_TIME>": "Last Updated <tm%dM_TIME>/<td%dM_TIME> <th%2dM_TIME>:<ti%02dM_TIME>"
     },
     "10421": {
         "の町": ""
