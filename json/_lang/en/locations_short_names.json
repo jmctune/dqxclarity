@@ -8508,7 +8508,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>研究棟-地下２階": "<%sW_MAP_NAME><%sW_DELIMITER>Research B2F"
     },
     "2837": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>研究棟-地下１階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>研究棟-地下１階": "<%sW_MAP_NAME><%sW_DELIMITER>Research B1F"
     },
     "2838": {
         "<%sW_MAP_NAME><%sW_DELIMITER>研究棟-２階": ""
@@ -8679,7 +8679,7 @@
         "<%sW_REP_MIN_4TH_P>エテーネ王国": "Old Ethene Kingdom"
     },
     "2894": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下<%nW_AUTODUNG_FLOOR>階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下<%nW_AUTODUNG_FLOOR>階": "<%sW_MAP_NAME><%sW_DELIMITER>B<%dW_AUTODUNG_FLOOR>F"
     },
     "2895": {
         "clarity_nt_char_918": "clarity_nt_char_918"
