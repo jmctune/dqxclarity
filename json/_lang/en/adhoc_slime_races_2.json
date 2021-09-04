@@ -33,7 +33,7 @@
         "<speed=0>|<%sM_ACTIVE_SLIME>は　成長したようだ！|<end>": "<speed=0>|<%sM_ACTIVE_SLIME> seems to have grown!|<end>"
     },
     "12": {
-        "「……あらあら。　困ったわね。|　そのエサはもう　食べあきちゃったみたい。|　他のエサを　選んであげないと。|<bw_break>": "...oh dear. There's a problem.|It looks as that food has already been eaten.|Please choose a different one.|<bw_break>"
+        "「……あらあら。　困ったわね。|　そのエサはもう　食べあきちゃったみたい。|　他のエサを　選んであげないと。|<bw_break>": "...oh dear. There's a problem.|That stat is already maxed out. Please|choose a different one.|<bw_break>"
     },
     "13": {
         "「どのエサをあげるか　選んであげて。|　今回は　<%nM_FEED_LEFT>つ　選ぶことができるわ。|<break>": "Choose which feed you'd like to give your|slime. You can choose <%dM_FEED_LEFT> this time.|<break>"
