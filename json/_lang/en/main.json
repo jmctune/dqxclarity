@@ -31098,7 +31098,7 @@
         "clarity_nt_char_3497": "clarity_nt_char_3497"
     },
     "10367": {
-        "更新日時:<%dM_cal_YYYY>年<%2dM_cal_MM>月<%2dM_cal_DD>日 <%2dM_hh>時<%02dM_mm>分": ""
+        "更新日時:<%dM_cal_YYYY>年<%2dM_cal_MM>月<%2dM_cal_DD>日 <%2dM_hh>時<%02dM_mm>分": "Renewed: <%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY> <%2dM_hh>:<%02dM_mm>"
     },
     "10368": {
         "clarity_nt_char_3498": "clarity_nt_char_3498"
