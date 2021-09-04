@@ -1422,7 +1422,7 @@
         "指アクセサリー": "Ring Accessory"
     },
     "475": {
-        "ルーラストーン": "Zoomstone"
+        "ルーラストーン": "Zoomstones"
     },
     "476": {
         "クエストアイテム": "Quest Items"
@@ -1977,7 +1977,7 @@
         "clarity_nt_char_219": "clarity_nt_char_219"
     },
     "660": {
-        "～": ""
+        "～": "~"
     },
     "661": {
         "<%dM_gold> Ｇ": ""
@@ -2652,7 +2652,7 @@
         "送られた日": "Date Sent"
     },
     "885": {
-        "月": ""
+        "月": "Mn."
     },
     "886": {
         "年": "Yr."
@@ -3129,7 +3129,7 @@
         "clarity_nt_char_351": "clarity_nt_char_351"
     },
     "1044": {
-        "<%sM_RenkinType>": ""
+        "<%sM_RenkinType>": "<%sM_RenkinType>"
     },
     "1045": {
         "clarity_nt_char_352": "clarity_nt_char_352"
@@ -6705,7 +6705,7 @@
         "clarity_nt_char_772": "clarity_nt_char_772"
     },
     "2236": {
-        "元気チャージ(上限440時間)": "Energize Time (440h. Max)"
+        "元気チャージ(上限440時間)": "Energy Charge (440h. Max)"
     },
     "2237": {
         "？？": ""
@@ -8535,7 +8535,7 @@
         "よくある質問を　５件を表示しています。|さらに見たい場合は「カテゴリでさがす」から|調べたいカテゴリをお選びください。": ""
     },
     "2846": {
-        "しぐさ書": "Gesture Book"
+        "しぐさ書": "Emote Book"
     },
     "2847": {
         "clarity_nt_char_986": "clarity_nt_char_986"
@@ -8946,7 +8946,7 @@
         "clarity_nt_char_1032": "clarity_nt_char_1032"
     },
     "2983": {
-        "[種別順]": "[Type]"
+        "[種別順]": "[By Type]"
     },
     "2984": {
         "[作った事無い順]": "[Order Crafted]"
@@ -8958,7 +8958,7 @@
         "clarity_nt_char_1033": "clarity_nt_char_1033"
     },
     "2987": {
-        "<%sM_SortType>": ""
+        "<%sM_SortType>": "<%sM_SortType>"
     },
     "2988": {
         "clarity_nt_char_1034": "clarity_nt_char_1034"
@@ -11505,7 +11505,7 @@
         "clarity_nt_char_1311": "clarity_nt_char_1311"
     },
     "3836": {
-        "<%sM_type>": ""
+        "<%sM_type>": "<%sM_type>"
     },
     "3837": {
         "clarity_nt_char_1312": "clarity_nt_char_1312"
@@ -13680,7 +13680,7 @@
         "(タイトルを入力)": "(Enter a Title)"
     },
     "4561": {
-        "しぐさ書・ポーズ書": "Gesture Pose Book"
+        "しぐさ書・ポーズ書": "Emote/Pose Book"
     },
     "4562": {
         "<%d_rank>位～<%d_rank2>位": "<%d_rank>Pl. - <%d_rank2>Pl."
@@ -13782,10 +13782,10 @@
         "clarity_nt_char_1570": "clarity_nt_char_1570"
     },
     "4595": {
-        "コンシェルジュ": ""
+        "コンシェルジュ": "Concierge"
     },
     "4596": {
-        "コンシェルジュをさがす": ""
+        "コンシェルジュをさがす": "Concierge Search"
     },
     "4597": {
         "種族": "Race"
@@ -14034,7 +14034,7 @@
         "clarity_nt_char_1597": "clarity_nt_char_1597"
     },
     "4679": {
-        "コンシェルジュについて": ""
+        "コンシェルジュについて": "About Concierge"
     },
     "4680": {
         "冒険ガイド": "Walkthrough"
@@ -14112,7 +14112,7 @@
         "clarity_nt_char_1606": "clarity_nt_char_1606"
     },
     "4705": {
-        "しぐさ：": "Gesture:"
+        "しぐさ：": "Emote:"
     },
     "4706": {
         "clarity_nt_char_1607": "clarity_nt_char_1607"
@@ -14289,7 +14289,7 @@
         "clarity_nt_char_1624": "clarity_nt_char_1624"
     },
     "4764": {
-        "もらうもの": "Received Items"
+        "もらうもの": "Item Exchange"
     },
     "4765": {
         "入手済み宝箱リスト": "Treasure List"
@@ -14562,7 +14562,7 @@
         "[レベル上限]": ""
     },
     "4855": {
-        "モンスター順": ""
+        "モンスター順": "By Monster"
     },
     "4856": {
         "clarity_nt_char_1648": "clarity_nt_char_1648"
@@ -14721,7 +14721,7 @@
         "残り所持数": "Items Left"
     },
     "4908": {
-        "もらうもの：": "Received Items:"
+        "もらうもの：": "Item Exchange:"
     },
     "4909": {
         "clarity_nt_char_1666": "clarity_nt_char_1666"
@@ -15456,7 +15456,7 @@
         "clarity_nt_char_1749": "clarity_nt_char_1749"
     },
     "5153": {
-        "コンシェルジュの日常": ""
+        "コンシェルジュの日常": "Daily Concierge"
     },
     "5154": {
         "clarity_nt_char_1750": "clarity_nt_char_1750"
@@ -16110,7 +16110,7 @@
         "clarity_nt_char_1830": "clarity_nt_char_1830"
     },
     "5371": {
-        "達人のオーブ効果はありません": "No Master Orb Effects"
+        "達人のオーブ効果はありません": "No Master Orb effects."
     },
     "5372": {
         "clarity_nt_char_1831": "clarity_nt_char_1831"
@@ -17010,7 +17010,7 @@
         "右の台": "R. Stand"
     },
     "5671": {
-        "ぬいぐるみ飾り台": ""
+        "ぬいぐるみ飾り台": "Plushie Display Stand"
     },
     "5672": {
         "clarity_nt_char_1934": "clarity_nt_char_1934"
@@ -18564,22 +18564,22 @@
         "<%sM_skill>": "<%sM_skill>"
     },
     "6189": {
-        "<%sM_npcname06>": ""
+        "<%sM_npcname06>": "<%sM_npcname06>"
     },
     "6190": {
-        "<%sM_npcname05>": ""
+        "<%sM_npcname05>": "<%sM_npcname05>"
     },
     "6191": {
-        "<%sM_npcname04>": ""
+        "<%sM_npcname04>": "<%sM_npcname04>"
     },
     "6192": {
-        "<%sM_npcname03>": ""
+        "<%sM_npcname03>": "<%sM_npcname03>"
     },
     "6193": {
-        "<%sM_npcname02>": ""
+        "<%sM_npcname02>": "<%sM_npcname02>"
     },
     "6194": {
-        "<%sM_npcname01>": ""
+        "<%sM_npcname01>": "<%sM_npcname01>"
     },
     "6195": {
         "スペーディオ": ""
@@ -18624,7 +18624,7 @@
         "clarity_nt_char_2108": "clarity_nt_char_2108"
     },
     "6209": {
-        "従者キルル": ""
+        "従者キルル": "Servant Kilulu"
     },
     "6210": {
         "おっちょこちょい": ""
@@ -19041,7 +19041,7 @@
         "clarity_nt_char_2163": "clarity_nt_char_2163"
     },
     "6348": {
-        "しぐさ内容": "Gesture Content"
+        "しぐさ内容": "Emote Content"
     },
     "6349": {
         "チャット内容": ""
@@ -19218,7 +19218,7 @@
         "ああああああああああ いい": ""
     },
     "6407": {
-        "月の像": ""
+        "月の像": "MoonStat."
     },
     "6408": {
         "<%sM_Arcana>のカード": "<%sM_Arcana> Card"
@@ -19314,7 +19314,7 @@
         "スライムレース受付": "Slime Race Desk"
     },
     "6439": {
-        "つよさについて": "About strength"
+        "つよさについて": "About Stats"
     },
     "6440": {
         "さくせんについて": "About Strategy"
@@ -19359,7 +19359,7 @@
         "成長パラメータ": ""
     },
     "6454": {
-        "<%sM_00>のエサ": "Bait for <%sM_00>"
+        "<%sM_00>のエサ": "Feed for <%sM_00>"
     },
     "6455": {
         "最高グレード": ""
@@ -19377,7 +19377,7 @@
         "<%sM_monster>種の特徴": "<%sM_monster> Feature"
     },
     "6460": {
-        "<%sM_00>型": "<%sM_00>Typ"
+        "<%sM_00>型": "<%sM_00>"
     },
     "6461": {
         "チャンピオンシップ": "Championship"
@@ -19626,10 +19626,10 @@
         "clarity_nt_char_2232": "clarity_nt_char_2232"
     },
     "6543": {
-        "モンスター順に": ""
+        "モンスター順に": "By Monster"
     },
     "6544": {
-        "[モンスター順]": ""
+        "[モンスター順]": "[By Monster]"
     },
     "6545": {
         "clarity_nt_char_2233": "clarity_nt_char_2233"
@@ -19776,7 +19776,7 @@
         "clarity_nt_char_2247": "clarity_nt_char_2247"
     },
     "6593": {
-        "獲得勝利ポイント": "Victory Points Earned"
+        "獲得勝利ポイント": "Victory Pts. Earned"
     },
     "6594": {
         "clarity_nt_char_2248": "clarity_nt_char_2248"
@@ -19965,13 +19965,13 @@
         "clarity_nt_char_2269": "clarity_nt_char_2269"
     },
     "6656": {
-        "[ランク順]": ""
+        "[ランク順]": "[By Rank]"
     },
     "6657": {
         "clarity_nt_char_2270": "clarity_nt_char_2270"
     },
     "6658": {
-        "ランク順に": ""
+        "ランク順に": "By Rank"
     },
     "6659": {
         "<%sM_Monster>": ""
@@ -19992,7 +19992,7 @@
         "clarity_nt_char_2271": "clarity_nt_char_2271"
     },
     "6665": {
-        "あげるエサ：": "Give Bait:"
+        "あげるエサ：": "Give Food:"
     },
     "6666": {
         "clarity_nt_char_2272": "clarity_nt_char_2272"
@@ -20061,7 +20061,7 @@
         "枚所持": "Have"
     },
     "6688": {
-        "(最大ランク！)": "(Maximum rank!)"
+        "(最大ランク！)": "(Max Rank!)"
     },
     "6689": {
         "clarity_nt_char_2282": "clarity_nt_char_2282"
@@ -20238,7 +20238,7 @@
         "<%2dM_bunsi>/<%3dM_bunbo>": ""
     },
     "6747": {
-        "<%'dM_00>": ""
+        "<%'dM_00>": "<%'dM_00>"
     },
     "6748": {
         "<%'nM_00>": ""
@@ -20709,7 +20709,7 @@
         "clarity_nt_char_2346": "clarity_nt_char_2346"
     },
     "6904": {
-        "装備デッキ": ""
+        "装備デッキ": "Equipped"
     },
     "6905": {
         "タロットデッキ<%sM_deck>": "Tarot Deck <%sM_deck>"
@@ -21174,7 +21174,7 @@
         "<%sM_npc>と話せる話題": "Topics 2 talk with<%sM_npc>"
     },
     "7059": {
-        "アイゼルの部屋": ""
+        "アイゼルの部屋": "Eisel's Room"
     },
     "7060": {
         "クラウンの部屋": ""
@@ -21999,7 +21999,7 @@
         "発言タイミング": "Speech Timing"
     },
     "7334": {
-        "途中": "Going"
+        "途中": "During"
     },
     "7335": {
         "clarity_nt_char_2485": "clarity_nt_char_2485"
@@ -22773,10 +22773,10 @@
         "clarity_nt_char_2572": "clarity_nt_char_2572"
     },
     "7592": {
-        "キュルルと行く世界": "Journey with Qululu"
+        "キュルルと行く世界": "Journey with Kyururu"
     },
     "7593": {
-        "ダーク鋼": ""
+        "ダーク鋼": "Darksteel"
     },
     "7594": {
         "clarity_nt_char_2573": "clarity_nt_char_2573"
@@ -23145,7 +23145,7 @@
         "(<%dM_pager_1>/<%dM_pager_2>)": ""
     },
     "7716": {
-        "元気チャージ": "Energize Time"
+        "元気チャージ": "Energy Charge"
     },
     "7717": {
         "clarity_nt_char_2612": "clarity_nt_char_2612"
@@ -23931,7 +23931,7 @@
         "clarity_nt_char_2697": "clarity_nt_char_2697"
     },
     "7978": {
-        "<%sM_cat_type>": ""
+        "<%sM_cat_type>": "<%sM_cat_type>"
     },
     "7979": {
         "clarity_nt_char_2698": "clarity_nt_char_2698"
@@ -25239,7 +25239,7 @@
         "Ⅰ": "Ⅰ"
     },
     "8414": {
-        "エサの残り": "Monster Bait"
+        "エサの残り": "Monster Feed"
     },
     "8415": {
         "<%sM_element>のちから": "Power of <%sM_element>"
@@ -25323,7 +25323,7 @@
         "clarity_nt_char_2854": "clarity_nt_char_2854"
     },
     "8442": {
-        "最新走スライム": "Latest Slime Ran"
+        "最新走スライム": "Last Slime Used"
     },
     "8443": {
         "とくぎを見る": "See Skills"
@@ -25407,7 +25407,7 @@
         "clarity_nt_char_2864": "clarity_nt_char_2864"
     },
     "8470": {
-        "トライロックとは": ""
+        "トライロックとは": "What is Trilock"
     },
     "8471": {
         "clarity_nt_char_2865": "clarity_nt_char_2865"
@@ -25473,7 +25473,7 @@
         "職業ランク一覧": ""
     },
     "8492": {
-        "レース参加費": "Race Prize"
+        "レース参加費": "Race Fee"
     },
     "8493": {
         "clarity_nt_char_2874": "clarity_nt_char_2874"
@@ -25542,7 +25542,7 @@
         "相手のとくぎを見る": "See Opponent Skill"
     },
     "8515": {
-        "第<%nM_00>回　アストルティアカップ": "Astoltia Cup <%nM_00>"
+        "第<%nM_00>回　アストルティアカップ": "Astoltia Cup <%dM_00>"
     },
     "8516": {
         "再エントリー権": ""
@@ -26418,7 +26418,7 @@
         "フレンドの": "Friends"
     },
     "8807": {
-        "しぐさポーズドール書": "Pose Doll Gesture Book"
+        "しぐさポーズドール書": "Pose/Doll/Emote Book"
     },
     "8808": {
         "clarity_nt_char_2982": "clarity_nt_char_2982"
@@ -28095,7 +28095,7 @@
         "色戻し": ""
     },
     "9366": {
-        "ツヤ戻し": "Rest. Gloss"
+        "ツヤ戻し": "Reset Gloss"
     },
     "9367": {
         "clarity_nt_char_3156": "clarity_nt_char_3156"
@@ -28137,7 +28137,7 @@
         "色ツヤ": ""
     },
     "9380": {
-        "色ツヤ戻し": "Rest. Color"
+        "色ツヤ戻し": "Reset Color"
     },
     "9381": {
         "装備レベル--の防具": ""
@@ -29610,7 +29610,7 @@
         "ふしぎな三面鏡": ""
     },
     "9871": {
-        "ふしぎな水鏡": ""
+        "ふしぎな水鏡": "Weird Water Mirror"
     },
     "9872": {
         "clarity_nt_char_3329": "clarity_nt_char_3329"
@@ -31080,7 +31080,7 @@
         "マイコーデ編集メニュー": "Edit Glamour Menu"
     },
     "10361": {
-        "スライムの利用傾向": ""
+        "スライムの利用傾向": "Slime Usage"
     },
     "10362": {
         "マイコーデを編集する": "Edit Glamour"
@@ -31098,7 +31098,7 @@
         "clarity_nt_char_3497": "clarity_nt_char_3497"
     },
     "10367": {
-        "更新日時:<%dM_cal_YYYY>年<%2dM_cal_MM>月<%2dM_cal_DD>日 <%2dM_hh>時<%02dM_mm>分": ""
+        "更新日時:<%dM_cal_YYYY>年<%2dM_cal_MM>月<%2dM_cal_DD>日 <%2dM_hh>時<%02dM_mm>分": "Renewed: <%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY> <%2dM_hh>:<%02dM_mm>"
     },
     "10368": {
         "clarity_nt_char_3498": "clarity_nt_char_3498"
@@ -31134,16 +31134,16 @@
         "スライム種": "Slime"
     },
     "10379": {
-        "使用率": ""
+        "使用率": "Use Rate"
     },
     "10380": {
-        "スライム使用率ランキング": ""
+        "スライム使用率ランキング": "Slime Usage Ranking"
     },
     "10381": {
         "clarity_nt_char_3501": "clarity_nt_char_3501"
     },
     "10382": {
-        "とくぎ使用率を見る": ""
+        "とくぎ使用率を見る": "View Skill Usage"
     },
     "10383": {
         "効果と入手方法": "Effect/How to Get"
@@ -31167,22 +31167,22 @@
         "clarity_nt_char_3503": "clarity_nt_char_3503"
     },
     "10390": {
-        "10,000,000 P 未満": ""
+        "10,000,000 P 未満": ">= 10,000,000 P"
     },
     "10391": {
-        "1,000,000 P 未満": ""
+        "1,000,000 P 未満": "<= 1,000,000 P"
     },
     "10392": {
         "clarity_nt_char_3504": "clarity_nt_char_3504"
     },
     "10393": {
-        "100,000,000 P 未満": ""
+        "100,000,000 P 未満": "<= 100,000,000 P"
     },
     "10394": {
         "clarity_nt_char_3505": "clarity_nt_char_3505"
     },
     "10395": {
-        "100,000,000 P 以上": ""
+        "100,000,000 P 以上": "100,000,000+ P"
     },
     "10396": {
         "clarity_nt_char_3506": "clarity_nt_char_3506"
@@ -31194,22 +31194,22 @@
         "clarity_nt_char_3507": "clarity_nt_char_3507"
     },
     "10399": {
-        "<%'dM_00> P 未満": ""
+        "<%'dM_00> P 未満": "<= <%'dM_00> P"
     },
     "10400": {
         "clarity_nt_char_3508": "clarity_nt_char_3508"
     },
     "10401": {
-        "<%'dM_00> P 以上": ""
+        "<%'dM_00> P 以上": "<%'dM_00>+ P"
     },
     "10402": {
         "clarity_nt_char_3509": "clarity_nt_char_3509"
     },
     "10403": {
-        "ポイントランクきりかえ": ""
+        "ポイントランクきりかえ": "Change Point Rank"
     },
     "10404": {
-        "とくぎ使用率": ""
+        "とくぎ使用率": "Skill Usage"
     },
     "10405": {
         "clarity_nt_char_3510": "clarity_nt_char_3510"
@@ -31242,7 +31242,7 @@
         "clarity_nt_char_3513": "clarity_nt_char_3513"
     },
     "10415": {
-        "ポイントランクについて": ""
+        "ポイントランクについて": "About Point Rank"
     },
     "10416": {
         "レプリカ庭具の種類": "Replica Garden Types"
@@ -31251,13 +31251,13 @@
         "レプリカ家具の種類": "Replica Furniture Types"
     },
     "10418": {
-        "<ty%dM_TIME>年<tm%dM_TIME>月<td%dM_TIME>日～<ty%dM_TIME2>年<tm%dM_TIME2>月<td%dM_TIME2>日": ""
+        "<ty%dM_TIME>年<tm%dM_TIME>月<td%dM_TIME>日～<ty%dM_TIME2>年<tm%dM_TIME2>月<td%dM_TIME2>日": "<tm%dM_TIME>/<td%dM_TIME>/<ty%dM_TIME> - <tm%dM_TIME2>/<td%dM_TIME2>/<ty%dM_TIME2>"
     },
     "10419": {
         "clarity_nt_char_3514": "clarity_nt_char_3514"
     },
     "10420": {
-        "最終更新時間 <tm%dM_TIME>月<td%dM_TIME>日<th%2dM_TIME>:<ti%02dM_TIME>": ""
+        "最終更新時間 <tm%dM_TIME>月<td%dM_TIME>日<th%2dM_TIME>:<ti%02dM_TIME>": "Last Updated <tm%dM_TIME>/<td%dM_TIME> <th%2dM_TIME>:<ti%02dM_TIME>"
     },
     "10421": {
         "の町": ""

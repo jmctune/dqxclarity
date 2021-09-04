@@ -15,7 +15,7 @@
         "ワラタロー": "Warataro"
     },
     "6": {
-        "茶柴犬": "Br. Shiba"
+        "茶柴犬": "Tea Shiba"
     },
     "7": {
         "茶柴クール": "Cool Tea Shiba"
@@ -33,7 +33,7 @@
         "黒柴クール": "Cool Blk. Shiba"
     },
     "12": {
-        "黒柴モダン": "Hip Blk. Shiba"
+        "黒柴モダン": "Hip Black Shiba"
     },
     "13": {
         "黒柴ピュア": "Pure Blk. Shiba"
@@ -42,13 +42,13 @@
         "白柴犬": "Wh. Shiba"
     },
     "15": {
-        "白柴クール": ""
+        "白柴クール": "Cool Wht. Shiba"
     },
     "16": {
-        "白柴モダン": ""
+        "白柴モダン": "Hip White Shiba"
     },
     "17": {
-        "白柴ピュア": ""
+        "白柴ピュア": "Pure Wht. Shiba"
     },
     "18": {
         "０８号": "Number 08"
@@ -78,7 +78,7 @@
         "金のワラタロー": "Golden Warataro"
     },
     "27": {
-        "トトゴン": ""
+        "トトゴン": "Totogon"
     },
     "28": {
         "clarity_nt_char_6": "clarity_nt_char_6"
@@ -90,7 +90,7 @@
         "clarity_nt_char_7": "clarity_nt_char_7"
     },
     "31": {
-        "金のチキ坊": ""
+        "金のチキ坊": "Golden Chickibo"
     },
     "32": {
         "プスゴン": "Pusgon"
@@ -99,19 +99,19 @@
         "clarity_nt_char_8": "clarity_nt_char_8"
     },
     "34": {
-        "サバ猫": ""
+        "サバ猫": "Gray Cat"
     },
     "35": {
-        "キジ猫": ""
+        "キジ猫": "Brown Cat"
     },
     "36": {
-        "茶トラ猫": ""
+        "茶トラ猫": "Tea TigerCat"
     },
     "37": {
         "clarity_nt_char_9": "clarity_nt_char_9"
     },
     "38": {
-        "白トラ猫": ""
+        "白トラ猫": "W. Tiger Cat"
     },
     "39": {
         "clarity_nt_char_10": "clarity_nt_char_10"
@@ -129,7 +129,7 @@
         "clarity_nt_char_12": "clarity_nt_char_12"
     },
     "44": {
-        "ブルーキャット": ""
+        "ブルーキャット": "Blue Cat"
     },
     "45": {
         "ハチワレ猫": "Blk & White Cat"
@@ -138,16 +138,16 @@
         "三毛猫": "Calico"
     },
     "47": {
-        "ブチ猫": "Buchi Cat"
+        "ブチ猫": "Spot Cat"
     },
     "48": {
-        "オカメインコ": ""
+        "オカメインコ": "Cockatiel"
     },
     "49": {
         "clarity_nt_char_13": "clarity_nt_char_13"
     },
     "50": {
-        "白オカメインコ": ""
+        "白オカメインコ": "White Cockatiel"
     },
     "51": {
         "セキセイインコ": "Green Budgie"
@@ -165,37 +165,37 @@
         "アキクサインコ": "Pink-Belly Parrot"
     },
     "56": {
-        "シロハラインコ": ""
+        "シロハラインコ": "White-Belly Parrot"
     },
     "57": {
-        "ブルーボタン": "blue button"
+        "ブルーボタン": "Blue Button"
     },
     "58": {
         "clarity_nt_char_14": "clarity_nt_char_14"
     },
     "59": {
-        "猛火グレンゴン": ""
+        "猛火グレンゴン": "Ragin' Fire Glengon"
     },
     "60": {
-        "大海ジュレゴン": ""
+        "大海ジュレゴン": "Great Sea Juletgon"
     },
     "61": {
-        "鋼鉄ガタラゴン": ""
+        "鋼鉄ガタラゴン": "Steel Gataragon"
     },
     "62": {
-        "花精オルフゴン": ""
+        "花精オルフゴン": "Flower Orpheagon"
     },
     "63": {
         "天空アズラゴン": "Zenithia Azlangon"
     },
     "64": {
-        "銀トラ猫": ""
+        "銀トラ猫": "S. Tiger Cat"
     },
     "65": {
         "clarity_nt_char_15": "clarity_nt_char_15"
     },
     "66": {
-        "キナリ猫": ""
+        "キナリ猫": "Kinari Cat"
     },
     "67": {
         "clarity_nt_char_16": "clarity_nt_char_16"
@@ -204,13 +204,13 @@
         "白猫オッド": "Odd White Cat"
     },
     "69": {
-        "こげ茶猫": ""
+        "こげ茶猫": "Dk Brown Cat"
     },
     "70": {
         "clarity_nt_char_17": "clarity_nt_char_17"
     },
     "71": {
-        "茶猫": ""
+        "茶猫": "TeaCat"
     },
     "72": {
         "clarity_nt_char_18": "clarity_nt_char_18"
@@ -219,7 +219,7 @@
         "黒猫オッド": "Odd Black Cat"
     },
     "74": {
-        "赤茶猫": "Maroon"
+        "赤茶猫": "MaroonCat"
     },
     "75": {
         "灰三毛猫": "Ash Calico"
@@ -237,22 +237,22 @@
         "clarity_nt_char_20": "clarity_nt_char_20"
     },
     "80": {
-        "灰ハチワレ猫": "Grey & White Cat"
+        "灰ハチワレ猫": "Gray & White Cat"
     },
     "81": {
         "clarity_nt_char_21": "clarity_nt_char_21"
     },
     "82": {
-        "ブチ猫・双": "Buchi Cat Pair"
+        "ブチ猫・双": "Pair Spot Cat"
     },
     "83": {
-        "灰ブチ猫": "Ash BuchiCat"
+        "灰ブチ猫": "Ash Spot Cat"
     },
     "84": {
         "clarity_nt_char_22": "clarity_nt_char_22"
     },
     "85": {
-        "茶ブチ猫": "Tea BuchiCat"
+        "茶ブチ猫": "Tea Spot Cat"
     },
     "86": {
         "clarity_nt_char_23": "clarity_nt_char_23"
@@ -264,25 +264,25 @@
         "黒猫カギしっぽ": "Black Key Tail Cat"
     },
     "89": {
-        "たれ茶トラ猫": ""
+        "たれ茶トラ猫": "Lazy Tea Tiger Cat"
     },
     "90": {
         "clarity_nt_char_24": "clarity_nt_char_24"
     },
     "91": {
-        "たれサバ猫": ""
+        "たれサバ猫": "Lazy Gray Cat"
     },
     "92": {
-        "たれキジ猫": ""
+        "たれキジ猫": "Lazy Brown Cat"
     },
     "93": {
-        "たれ白トラ猫": ""
+        "たれ白トラ猫": "Lazy Wht Tiger Cat"
     },
     "94": {
         "clarity_nt_char_25": "clarity_nt_char_25"
     },
     "95": {
-        "たれ灰猫": ""
+        "たれ灰猫": "Lazy Ash Cat"
     },
     "96": {
         "clarity_nt_char_26": "clarity_nt_char_26"
@@ -297,112 +297,112 @@
         "たれ黒猫オッド": "Odd Lazy Black Cat"
     },
     "100": {
-        "たれキナリ猫": ""
+        "たれキナリ猫": "Lazy Kinari Cat"
     },
     "101": {
         "clarity_nt_char_28": "clarity_nt_char_28"
     },
     "102": {
-        "たれこげ茶猫": ""
+        "たれこげ茶猫": "Lazy Drk Brown Cat"
     },
     "103": {
         "clarity_nt_char_29": "clarity_nt_char_29"
     },
     "104": {
-        "たれ赤茶猫": "Sauce Maroon"
+        "たれ赤茶猫": "Lazy Maroon Cat"
     },
     "105": {
-        "白もふ猫": ""
+        "白もふ猫": "Fluffy W Cat"
     },
     "106": {
         "clarity_nt_char_30": "clarity_nt_char_30"
     },
     "107": {
-        "キナリもふ猫": ""
+        "キナリもふ猫": "Fluffy Kinari Cat"
     },
     "108": {
         "clarity_nt_char_31": "clarity_nt_char_31"
     },
     "109": {
-        "黒もふ猫": ""
+        "黒もふ猫": "Fluffy B Cat"
     },
     "110": {
         "clarity_nt_char_32": "clarity_nt_char_32"
     },
     "111": {
-        "こげ茶もふ猫": ""
+        "こげ茶もふ猫": "Fluffy Dk Brwn Cat"
     },
     "112": {
         "clarity_nt_char_33": "clarity_nt_char_33"
     },
     "113": {
-        "白もふ猫オッド": ""
+        "白もふ猫オッド": "Odd Fluffy White Cat"
     },
     "114": {
-        "もふ猫": ""
+        "もふ猫": "Fluff Cat"
     },
     "115": {
-        "灰もふ猫": ""
+        "灰もふ猫": "AshFluff Cat"
     },
     "116": {
         "clarity_nt_char_34": "clarity_nt_char_34"
     },
     "117": {
-        "キツネ猫": ""
+        "キツネ猫": "Fox Cat"
     },
     "118": {
         "clarity_nt_char_35": "clarity_nt_char_35"
     },
     "119": {
-        "こげ茶キツネ猫": ""
+        "こげ茶キツネ猫": "Dark Brown Fox Cat"
     },
     "120": {
-        "茶キツネ猫": ""
+        "茶キツネ猫": "Tea Fox Cat"
     },
     "121": {
-        "灰キツネ猫": ""
+        "灰キツネ猫": "Ash Fox Cat"
     },
     "122": {
-        "キナリキツネ猫": ""
+        "キナリキツネ猫": "Kinari Fox Cat"
     },
     "123": {
-        "マスク猫": ""
+        "マスク猫": "Mask Cat"
     },
     "124": {
         "clarity_nt_char_36": "clarity_nt_char_36"
     },
     "125": {
-        "マスク猫オッド": ""
+        "マスク猫オッド": "Odd Mask Cat"
     },
     "126": {
-        "灰マスク猫": ""
+        "灰マスク猫": "Ash Mask Cat"
     },
     "127": {
-        "茶マスク猫": ""
+        "茶マスク猫": "Tea Mask Cat"
     },
     "128": {
-        "銀マスク猫": ""
+        "銀マスク猫": "Silver Mask Cat"
     },
     "129": {
-        "大キジ猫": ""
+        "大キジ猫": "Big Brwn Cat"
     },
     "130": {
         "clarity_nt_char_37": "clarity_nt_char_37"
     },
     "131": {
-        "大サバ猫": ""
+        "大サバ猫": "Big Gray Cat"
     },
     "132": {
         "clarity_nt_char_38": "clarity_nt_char_38"
     },
     "133": {
-        "大トラ猫オッド": ""
+        "大トラ猫オッド": "Big Odd Tiger Cat"
     },
     "134": {
         "大黒猫": "Big B Cat"
     },
     "135": {
-        "大トラ猫": ""
+        "大トラ猫": "Big TigerCat"
     },
     "136": {
         "clarity_nt_char_39": "clarity_nt_char_39"
@@ -411,34 +411,34 @@
         "大白猫": "Big W Cat"
     },
     "138": {
-        "サバ太猫": ""
+        "サバ太猫": "Fat Gray Cat"
     },
     "139": {
         "clarity_nt_char_40": "clarity_nt_char_40"
     },
     "140": {
-        "キジ太猫": ""
+        "キジ太猫": "Fat Brwn Cat"
     },
     "141": {
         "clarity_nt_char_41": "clarity_nt_char_41"
     },
     "142": {
-        "茶トラ太猫": ""
+        "茶トラ太猫": "Fat Tea Tgr Cat"
     },
     "143": {
-        "白トラ太猫": ""
+        "白トラ太猫": "Fat W Tiger Cat"
     },
     "144": {
-        "銀トラ太猫": ""
+        "銀トラ太猫": "Fat Slv Tgr Cat"
     },
     "145": {
-        "白太猫": ""
+        "白太猫": "White Cat"
     },
     "146": {
-        "キナリ太猫": ""
+        "キナリ太猫": "Fat Kinari Cat"
     },
     "147": {
-        "黒太猫": ""
+        "黒太猫": "B Fat Cat"
     },
     "148": {
         "ハチワレ太猫": "Fat Blk & Wht Cat"
@@ -447,10 +447,10 @@
         "clarity_nt_char_42": "clarity_nt_char_42"
     },
     "150": {
-        "灰三毛太猫": ""
+        "灰三毛太猫": "FatAsh Cal. Cat"
     },
     "151": {
-        "三毛太猫": ""
+        "三毛太猫": "Fat Cal. Cat"
     },
     "152": {
         "clarity_nt_char_43": "clarity_nt_char_43"
@@ -468,31 +468,31 @@
         "茶ブチ太猫": "FatTea Spot Cat"
     },
     "157": {
-        "たれ茶トラ太猫": ""
+        "たれ茶トラ太猫": "Lzy Fat Tea Tiger Cat"
     },
     "158": {
-        "たれサバ太猫": ""
+        "たれサバ太猫": "Lazy Fat Gray Cat"
     },
     "159": {
         "clarity_nt_char_45": "clarity_nt_char_45"
     },
     "160": {
-        "たれ黒太猫": ""
+        "たれ黒太猫": "Lzy Fat Blk Cat"
     },
     "161": {
-        "たれキジ太猫": ""
+        "たれキジ太猫": "Lazy Fat Brown Cat"
     },
     "162": {
         "clarity_nt_char_46": "clarity_nt_char_46"
     },
     "163": {
-        "たれキナリ太猫": ""
+        "たれキナリ太猫": "Lazy Fat Kinari Cat"
     },
     "164": {
-        "たれ灰太猫": ""
+        "たれ灰太猫": "Lzy Fat Ash Cat"
     },
     "165": {
-        "シロブタ": ""
+        "シロブタ": "White Pig"
     },
     "166": {
         "clarity_nt_char_47": "clarity_nt_char_47"
@@ -504,10 +504,10 @@
         "clarity_nt_char_48": "clarity_nt_char_48"
     },
     "169": {
-        "シロブタちゃん": ""
+        "シロブタちゃん": "White Girl Piggy"
     },
     "170": {
-        "クロブタ": ""
+        "クロブタ": "Black Pig"
     },
     "171": {
         "clarity_nt_char_49": "clarity_nt_char_49"
@@ -519,10 +519,10 @@
         "clarity_nt_char_50": "clarity_nt_char_50"
     },
     "174": {
-        "クロブタちゃん": ""
+        "クロブタちゃん": "Black Girl Piggy"
     },
     "175": {
-        "ブチブタ": ""
+        "ブチブタ": "Spotted Pig"
     },
     "176": {
         "clarity_nt_char_51": "clarity_nt_char_51"
@@ -534,22 +534,22 @@
         "clarity_nt_char_52": "clarity_nt_char_52"
     },
     "179": {
-        "ブチブタちゃん": ""
+        "ブチブタちゃん": "Spotted Girl Piggy"
     },
     "180": {
-        "ウリボー": ""
+        "ウリボー": "Wild Boar"
     },
     "181": {
         "clarity_nt_char_53": "clarity_nt_char_53"
     },
     "182": {
-        "ウリボーくん": ""
+        "ウリボーくん": "Wild Boy Boar"
     },
     "183": {
         "clarity_nt_char_54": "clarity_nt_char_54"
     },
     "184": {
-        "ウリボーちゃん": ""
+        "ウリボーちゃん": "Wild Girl Boar"
     },
     "185": {
         "エテーネの村の　カメさまを|模した　錬金人形。のんきな|見ためで　必死についてくる。": "An alchemical doll of the|Galapagod from Ethene Village.|It's frantic and carefree."
@@ -1218,13 +1218,13 @@
         "clarity_nt_char_130": "clarity_nt_char_130"
     },
     "407": {
-        "グレイウルフ": ""
+        "グレイウルフ": "Gray Wolf"
     },
     "408": {
         "clarity_nt_char_131": "clarity_nt_char_131"
     },
     "409": {
-        "ダイアウルフ": ""
+        "ダイアウルフ": "Dire Wolf"
     },
     "410": {
         "clarity_nt_char_132": "clarity_nt_char_132"
@@ -1239,13 +1239,13 @@
         "clarity_nt_char_133": "clarity_nt_char_133"
     },
     "414": {
-        "サビ猫": ""
+        "サビ猫": "Rusty Cat"
     },
     "415": {
         "シュジャク": "Green Peafowl"
     },
     "416": {
-        "スノーソン": ""
+        "スノーソン": "Snowson"
     },
     "417": {
         "火のスピリット": "Fire Spirit"
@@ -1356,7 +1356,7 @@
         "clarity_nt_char_142": "clarity_nt_char_142"
     },
     "453": {
-        "チキ坊": ""
+        "チキ坊": "Chickibo"
     },
     "454": {
         "バズズ": "Pazuzu"

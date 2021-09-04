@@ -6777,25 +6777,25 @@
         "clarity_nt_char_746": "clarity_nt_char_746"
     },
     "2260": {
-        "鎌装備時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "鎌装備時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Sickle Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "2261": {
-        "鎌装備時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "鎌装備時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Sickle Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "2262": {
-        "鎌装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "鎌装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Sickle Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "2263": {
-        "鎌装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "鎌装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Sickle Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "2264": {
-        "鎌装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "鎌装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Sickle Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "2265": {
-        "鎌装備時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "鎌装備時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Sickle Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "2266": {
-        "鎌装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "鎌装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Sickle Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "2267": {
         "鎌装備時　炎の攻撃ダメージ +？%": "With Sickle Fire Attack Damage +?%"
@@ -6843,61 +6843,61 @@
         "clarity_nt_char_749": "clarity_nt_char_749"
     },
     "2282": {
-        "必殺チャージ時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でバイシオン": ""
+        "必殺チャージ時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でバイシオン": "Oomph On Special Charge <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "2283": {
         "行動時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で暴走アップ": "Haywire Up On Action <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "2284": {
-        "必殺チャージ時 バイキルト": ""
+        "必殺チャージ時 バイキルト": "Oomph On Special Charge"
     },
     "2285": {
-        "必殺チャージ時 魔力かくせい": ""
+        "必殺チャージ時 魔力かくせい": "Channel Anger On Special Charge"
     },
     "2286": {
         "clarity_nt_char_750": "clarity_nt_char_750"
     },
     "2287": {
-        "必殺チャージ時 聖なる祈り": ""
+        "必殺チャージ時 聖なる祈り": "Care Prayer On Special Charge"
     },
     "2288": {
-        "必殺チャージ時 早詠みの杖": ""
+        "必殺チャージ時 早詠みの杖": "Faster Caster On Special Charge"
     },
     "2289": {
-        "必殺チャージ時 スカラ2段階": ""
+        "必殺チャージ時 スカラ2段階": "Buff 2 Stages On Special Charge"
     },
     "2290": {
         "clarity_nt_char_751": "clarity_nt_char_751"
     },
     "2291": {
-        "必殺チャージ時 魔結界2段階": ""
+        "必殺チャージ時 魔結界2段階": "Mage Ward 2 Stages On Special Charge"
     },
     "2292": {
         "clarity_nt_char_752": "clarity_nt_char_752"
     },
     "2293": {
-        "必殺チャージ時 心頭滅却": ""
+        "必殺チャージ時 心頭滅却": "Clear Mind On Special Charge"
     },
     "2294": {
         "clarity_nt_char_753": "clarity_nt_char_753"
     },
     "2295": {
-        "必殺チャージ時 ピオラ2段階": ""
+        "必殺チャージ時 ピオラ2段階": "Accel 2 Stages On Special Charge"
     },
     "2296": {
         "clarity_nt_char_754": "clarity_nt_char_754"
     },
     "2297": {
-        "必殺チャージ時ホップスティック": ""
+        "必殺チャージ時ホップスティック": "Hop Stick On Special Charge"
     },
     "2298": {
-        "必殺チャージ時 弓聖の守り星": ""
+        "必殺チャージ時 弓聖の守り星": "Guardian's Star On Special Charge"
     },
     "2299": {
         "clarity_nt_char_755": "clarity_nt_char_755"
     },
     "2300": {
-        "必殺チャージ時<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で聖騎士の堅陣": ""
+        "必殺チャージ時<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で聖騎士の堅陣": "Paladin's Bulwark On Special Charge <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "2301": {
         "テンション時魔物にダメージ+<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Damage To Enemies During Tension +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"

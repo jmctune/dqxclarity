@@ -87,7 +87,7 @@
         "clarity_nt_char_10": "clarity_nt_char_10"
     },
     "30": {
-        "<%sB_TARGET>を|じっと見つめた": "<%sB_TARGET> stared|quietly."
+        "<%sB_TARGET>を|じっと見つめた": "Stared at|<%sB_TARGET>."
     },
     "31": {
         "うけをねらって|ボケた！": "Performs a|pratfall!"
@@ -4437,7 +4437,7 @@
         "<%sB_ACTOR>は みんなを 鼓舞した！": ""
     },
     "1480": {
-        "<%sB_TARGET>の 秘めたちからを 解放した！": ""
+        "<%sB_TARGET>の 秘めたちからを 解放した！": "<%sB_TARGET>'s secrets were unleashed!"
     },
     "1481": {
         "パ ル プ ン テ ！！": ""
@@ -5034,7 +5034,7 @@
         "clarity_nt_char_588": "clarity_nt_char_588"
     },
     "1679": {
-        "<%sB_TARGET>の秘めたちからを 解放した！": ""
+        "<%sB_TARGET>の秘めたちからを 解放した！": "<%sB_TARGET>'s secrets were unleashed!"
     },
     "1680": {
         "clarity_nt_char_589": "clarity_nt_char_589"
@@ -6387,7 +6387,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eから <%dB_VALUE>ポイントゲット！": ""
     },
     "2130": {
-        "テンオツ貴人は <%sB_TARGET>の秘めたちからを 解放した！": ""
+        "テンオツ貴人は <%sB_TARGET>の秘めたちからを 解放した！": "Nobleman Tenotsu unleased the secrets of <%sB_TARGET>!"
     },
     "2131": {
         "clarity_nt_char_739": "clarity_nt_char_739"
@@ -11055,7 +11055,7 @@
         "うんメェ～モチ": ""
     },
     "3686": {
-        "追憶の呪縛": ""
+        "追憶の呪縛": "Memory Curse"
     },
     "3687": {
         "神速メラガイアー": "3 Powerful Fire Balls"
@@ -14616,7 +14616,7 @@
         "clarity_nt_char_1623": "clarity_nt_char_1623"
     },
     "4873": {
-        "チキ坊チェンジ": ""
+        "チキ坊チェンジ": "Chickibo Change"
     },
     "4874": {
         "おうえんサークル": ""
@@ -15807,7 +15807,7 @@
         "clarity_nt_char_1760": "clarity_nt_char_1760"
     },
     "5270": {
-        "高性能爆弾": ""
+        "高性能爆弾": "High Power Bomb"
     },
     "5271": {
         "ばくは！": ""
@@ -19200,7 +19200,7 @@
         "魔導兵召喚": ""
     },
     "6401": {
-        "レイジバルス召喚": ""
+        "レイジバルス召喚": "Rigibalus Summon"
     },
     "6402": {
         "clarity_nt_char_2134": "clarity_nt_char_2134"
@@ -25860,7 +25860,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さらに魔力を解放した！！": ""
     },
     "8621": {
-        "決戦用砲台の 砲撃チャンス！": ""
+        "決戦用砲台の 砲撃チャンス！": "Chance to fire the Battle Cannon!"
     },
     "8622": {
         "clarity_nt_char_2874": "clarity_nt_char_2874"
@@ -26934,7 +26934,7 @@
         "clarity_ms_space_1": "clarity_ms_space_1"
     },
     "8979": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージ完全ガード！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージ完全ガード！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's complete damage guard!"
     },
     "8980": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 弓聖の守り星効果が 悪い効果を はらいのけた！": ""
@@ -27915,7 +27915,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 逆鱗のころもが きえた！": ""
     },
     "9306": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージ完全ガードが きえた。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージ完全ガードが きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's complete damage guard faded."
     },
     "9307": {
         "clarity_nt_char_3101": "clarity_nt_char_3101"
@@ -29562,7 +29562,7 @@
         "ピラミッドに|かえられた！": ""
     },
     "9855": {
-        "ダメージ完全ガードが|はられた！": ""
+        "ダメージ完全ガードが|はられた！": "Gained Complete|Damage Guard!"
     },
     "9856": {
         "clarity_nt_char_3277": "clarity_nt_char_3277"
@@ -29649,7 +29649,7 @@
         "clarity_nt_char_3287": "clarity_nt_char_3287"
     },
     "9884": {
-        "聖騎士の堅陣！": ""
+        "聖騎士の堅陣！": "Paladin's Bulwark!"
     },
     "9885": {
         "服にからめとられた！": ""
@@ -30297,7 +30297,7 @@
         "clarity_nt_char_3356": "clarity_nt_char_3356"
     },
     "10100": {
-        "秘めたちからを|解放した！": ""
+        "秘めたちからを|解放した！": "Secrets were|unleashed!"
     },
     "10101": {
         "勇者の猛り！": ""
@@ -31218,7 +31218,7 @@
         "ふしぎなチカラが|死のふちから守った！": ""
     },
     "10407": {
-        "ダメージ完全ガード！": ""
+        "ダメージ完全ガード！": "Complete Damage|Guard!"
     },
     "10408": {
         "clarity_nt_char_3464": "clarity_nt_char_3464"
@@ -31233,7 +31233,7 @@
         "女神の祝福が|死のふちから守った！": ""
     },
     "10412": {
-        "聖騎士の堅陣に|守られた！": ""
+        "聖騎士の堅陣に|守られた！": "Protected by|Paladin's Bulwark!"
     },
     "10413": {
         "会心ガード！": "Critical Guard!"
@@ -31725,7 +31725,7 @@
         "clarity_nt_char_3515": "clarity_nt_char_3515"
     },
     "10576": {
-        "最大ＨＰがもとにもどった": "Max HP is back to normal."
+        "最大ＨＰがもとにもどった": "Max HP is back|to normal."
     },
     "10577": {
         "clarity_nt_char_3516": "clarity_nt_char_3516"
@@ -32091,7 +32091,7 @@
         "逆鱗のころもの効果が|きえた！": ""
     },
     "10698": {
-        "ダメージ完全ガードが|きえた": ""
+        "ダメージ完全ガードが|きえた": "Complete Damage|Guard faded."
     },
     "10699": {
         "clarity_nt_char_3557": "clarity_nt_char_3557"
@@ -32166,7 +32166,7 @@
         "女神の祝福がきえた": ""
     },
     "10723": {
-        "聖騎士の堅陣が|とけた": ""
+        "聖騎士の堅陣が|とけた": "Paladin's Bulwark|faded."
     },
     "10724": {
         "復元再生の|ＨＰ回復がおわった": ""
@@ -32601,7 +32601,7 @@
         "clarity_nt_char_3618": "clarity_nt_char_3618"
     },
     "10868": {
-        "ダメージ完全ガードが|解除された": ""
+        "ダメージ完全ガードが|解除された": "Complete Damage|Guard removed."
     },
     "10869": {
         "clarity_nt_char_3619": "clarity_nt_char_3619"

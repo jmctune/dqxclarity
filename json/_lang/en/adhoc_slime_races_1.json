@@ -93,28 +93,28 @@
         "メタルホイミン": "Metal Healie"
     },
     "32": {
-        "ひたむきスピード": "Speedy "
+        "ひたむきスピード": "Speedy Type"
     },
     "33": {
         "clarity_nt_char_33": "clarity_nt_char_33"
     },
     "34": {
-        "そつなきバランス": "Balanced "
+        "そつなきバランス": "Balanced Type"
     },
     "35": {
         "clarity_nt_char_35": "clarity_nt_char_35"
     },
     "36": {
-        "はちゃめちゃイタズラ": "Mischievous "
+        "はちゃめちゃイタズラ": "Mischievous Type"
     },
     "37": {
         "clarity_nt_char_37": "clarity_nt_char_37"
     },
     "38": {
-        "のんびりマイペース": "Relaxed "
+        "のんびりマイペース": "Relaxed Type"
     },
     "39": {
-        "ふわっとリカバー": "Recovery "
+        "ふわっとリカバー": "Recovery Type"
     },
     "40": {
         "clarity_nt_char_40": "clarity_nt_char_40"
@@ -291,7 +291,7 @@
         "イオラ": "Boom"
     },
     "98": {
-        "どくどくだま": "Pounding Ball"
+        "どくどくだま": "Poison Ball"
     },
     "99": {
         "clarity_nt_char_99": "clarity_nt_char_99"
@@ -534,7 +534,7 @@
         "<%sCAS_slime>！|イオラ！": "<%sCAS_slime>!|Boom!"
     },
     "179": {
-        "<%sCAS_slime>！|どくどくだま！": "<%sCAS_slime>!|Pounding Ball!"
+        "<%sCAS_slime>！|どくどくだま！": "<%sCAS_slime>!|Poison Ball!"
     },
     "180": {
         "clarity_nt_char_180": "clarity_nt_char_180"
@@ -813,7 +813,7 @@
         "ジャンプの構え": "Jump Ready"
     },
     "272": {
-        "ジャンプのたつじん": "Jumping "
+        "ジャンプのたつじん": "Jumping Type"
     },
     "273": {
         "つむぼうぎょ": "Pinch Defend"

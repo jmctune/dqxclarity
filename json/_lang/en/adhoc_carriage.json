@@ -1,6 +1,6 @@
 {
     "1": {
-        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": ""
+        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": "You can't select this location because you don't meet any of the conditions.|<end>"
     },
     "2": {
         "「お乗りに　なりませんか。|　ではまた　別の機会に　ご利用くださいませ。": ""

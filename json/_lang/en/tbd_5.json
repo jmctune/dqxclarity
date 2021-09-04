@@ -123,7 +123,7 @@
         "clarity_nt_char_13": "clarity_nt_char_13"
     },
     "42": {
-        "ログアウト中": "Logged Out"
+        "ログアウト中": "Offline"
     },
     "43": {
         "clarity_nt_char_14": "clarity_nt_char_14"
@@ -1932,7 +1932,7 @@
         "clarity_nt_char_209": "clarity_nt_char_209"
     },
     "645": {
-        "変換屋で <%sM_item><%sM_plusnum>を|<%sM_item2><%sM_plusnum2>に 変換した！": ""
+        "変換屋で <%sM_item><%sM_plusnum>を|<%sM_item2><%sM_plusnum2>に 変換した！": "You converted <%sM_item><%sM_plusnum> to|<%sM_item2><%sM_plusnum2> in the converter!"
     },
     "646": {
         "clarity_nt_char_210": "clarity_nt_char_210"

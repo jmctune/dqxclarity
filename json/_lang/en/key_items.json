@@ -354,7 +354,7 @@
         "ニブルヘイムのカギ": "Key to Nibleheim"
     },
     "119": {
-        "三闘士のオノ": "Three War Axes"
+        "三闘士のオノ": "Triad Axe"
     },
     "120": {
         "clarity_nt_char_34": "clarity_nt_char_34"
@@ -870,7 +870,7 @@
         "王者の脚甲": "Champion Boots"
     },
     "291": {
-        "三闘士のハンマー": "Triadic Hammer"
+        "三闘士のハンマー": "Triad Hammer"
     },
     "292": {
         "clarity_nt_char_82": "clarity_nt_char_82"
@@ -1182,7 +1182,7 @@
         "勇気の紋章": "Courage Crest"
     },
     "395": {
-        "慈愛の紋章": "Charity Crest"
+        "慈愛の紋章": "Kindness Crest"
     },
     "396": {
         "英知の紋章": "Wisdom Crest"
@@ -1701,7 +1701,7 @@
         "グレイトフルロッド": "Grateful Rod"
     },
     "568": {
-        "ナシームの魔眼": "Naseem's Magic Eye"
+        "ナシームの魔眼": "Nassim's Evil Eye"
     },
     "569": {
         "夢占い師の水晶玉": "Dreamer's Crystal Ball"
@@ -1725,7 +1725,7 @@
         "clarity_nt_char_168": "clarity_nt_char_168"
     },
     "576": {
-        "夢現のタネ": "Seeds of Dreams"
+        "夢現のタネ": "Dream Seed"
     },
     "577": {
         "夢見のしずく": "Dreamy Drops"
@@ -1959,7 +1959,7 @@
         "clarity_nt_char_196": "clarity_nt_char_196"
     },
     "654": {
-        "炎の解錠の円盤": "Flame Unlock Disc"
+        "炎の解錠の円盤": "Flame Unlocking Disc"
     },
     "655": {
         "星杯": "StrCup"
@@ -2004,10 +2004,10 @@
         "clarity_nt_char_202": "clarity_nt_char_202"
     },
     "669": {
-        "氷の解錠の円盤": "Ice Unlock Disk"
+        "氷の解錠の円盤": "Ice Unlocking Disk"
     },
     "670": {
-        "奉炎のトーチ": ""
+        "奉炎のトーチ": "Offer Flame Torch"
     },
     "671": {
         "clarity_nt_char_203": "clarity_nt_char_203"
@@ -2061,7 +2061,7 @@
         "clarity_nt_char_209": "clarity_nt_char_209"
     },
     "688": {
-        "はじめてのルーペ": "Beginning Loupe"
+        "はじめてのルーペ": "Beginner's Loupe"
     },
     "689": {
         "clarity_nt_char_210": "clarity_nt_char_210"
@@ -2145,7 +2145,7 @@
         "サルファバリン": ""
     },
     "716": {
-        "闇の解錠の円盤": ""
+        "闇の解錠の円盤": "Dark Unlocking Disk"
     },
     "717": {
         "スラマオイルＳ": ""
@@ -2205,7 +2205,7 @@
         "ツルクサジェル": ""
     },
     "736": {
-        "希望の紋章": ""
+        "希望の紋章": "Hope Crest"
     },
     "737": {
         "海底デイジーの花束": ""
@@ -2490,7 +2490,7 @@
         "神威のおおづち": ""
     },
     "831": {
-        "万象流転の書": ""
+        "万象流転の書": "Eternal Change Bk."
     },
     "832": {
         "clarity_nt_char_253": "clarity_nt_char_253"
@@ -2538,7 +2538,7 @@
         "シール台帳": "Sticker Book"
     },
     "847": {
-        "スラシャボンシール": ""
+        "スラシャボンシール": "Liq. Soap Slime Sticker"
     },
     "848": {
         "断罪の剣": ""
@@ -2637,7 +2637,7 @@
         "clarity_nt_char_264": "clarity_nt_char_264"
     },
     "880": {
-        "異形獣のツノ": "Odd Beast Horn"
+        "異形獣のツノ": "Odd Beast's Horn"
     },
     "881": {
         "clarity_nt_char_265": "clarity_nt_char_265"
@@ -2658,7 +2658,7 @@
         "ネジガラミの根の束": ""
     },
     "887": {
-        "星華のライト": ""
+        "星華のライト": "Starflower Light"
     },
     "888": {
         "clarity_nt_char_268": "clarity_nt_char_268"
@@ -2670,16 +2670,16 @@
         "clarity_nt_char_269": "clarity_nt_char_269"
     },
     "891": {
-        "ヨンゲ所長のカギ": ""
+        "ヨンゲ所長のカギ": "Director Yong's Key"
     },
     "892": {
         "clarity_nt_char_270": "clarity_nt_char_270"
     },
     "893": {
-        "ヨンゲ所長の指針書": ""
+        "ヨンゲ所長の指針書": "Director Yong's Guidebook"
     },
     "894": {
-        "ヨンゲのメモ": ""
+        "ヨンゲのメモ": "Director Yong Memo"
     },
     "895": {
         "clarity_nt_char_271": "clarity_nt_char_271"
@@ -3012,16 +3012,16 @@
         "神薬湯": ""
     },
     "1005": {
-        "セレディーネの手紙": ""
+        "セレディーネの手紙": "Seredine's Letter"
     },
     "1006": {
-        "ビントンの陳情書": ""
+        "ビントンの陳情書": "Vinton's Petition"
     },
     "1007": {
         "clarity_nt_char_309": "clarity_nt_char_309"
     },
     "1008": {
-        "リセセの陳情書": ""
+        "リセセの陳情書": "Risese's Petition"
     },
     "1009": {
         "ガズバランのしるし": "Gazbalan Badge"
@@ -3117,7 +3117,7 @@
         "超プロテ粉": ""
     },
     "1040": {
-        "思い出のペンダント": ""
+        "思い出のペンダント": "Memory Pendant"
     },
     "1041": {
         "植物のツル": ""
@@ -3252,7 +3252,7 @@
         "clarity_nt_char_328": "clarity_nt_char_328"
     },
     "1085": {
-        "太陽の弾": ""
+        "太陽の弾": "Sun Sphere"
     },
     "1086": {
         "clarity_nt_char_329": "clarity_nt_char_329"
@@ -3306,7 +3306,7 @@
         "clarity_nt_char_335": "clarity_nt_char_335"
     },
     "1103": {
-        "ふんわりパンケーキ": ""
+        "ふんわりパンケーキ": "Fluffy Pancakes"
     },
     "1104": {
         "まほうの玉": ""
@@ -3321,7 +3321,7 @@
         "筆頭研究員の服": "Top Researcher Suit"
     },
     "1108": {
-        "ツォンデム主任の写真": ""
+        "ツォンデム主任の写真": "Chief Tsondem Photo"
     },
     "1109": {
         "clarity_nt_char_337": "clarity_nt_char_337"
@@ -3366,7 +3366,7 @@
         "カッチリクレイ": ""
     },
     "1123": {
-        "超高性能スコップ": ""
+        "超高性能スコップ": "Ultra High Power Shovel"
     },
     "1124": {
         "clarity_nt_char_340": "clarity_nt_char_340"
@@ -3384,7 +3384,7 @@
         "パルミオのカギ": "Palmio's Key"
     },
     "1129": {
-        "ホーローの記憶の結晶": ""
+        "ホーローの記憶の結晶": "Hollow Memory Crystal"
     },
     "1130": {
         "clarity_nt_char_341": "clarity_nt_char_341"
@@ -3531,7 +3531,7 @@
         "clarity_nt_char_357": "clarity_nt_char_357"
     },
     "1178": {
-        "時見の源泉": ""
+        "時見の源泉": "Timeseer Source"
     },
     "1179": {
         "ユマテルの教べん": ""
@@ -3543,7 +3543,7 @@
         "ユマテルのカギ": ""
     },
     "1182": {
-        "戦禍のタネ": ""
+        "戦禍のタネ": "Evil War Seed"
     },
     "1183": {
         "プレゼントリスト": ""
@@ -3573,7 +3573,7 @@
         "clarity_nt_char_362": "clarity_nt_char_362"
     },
     "1192": {
-        "石化の本": ""
+        "石化の本": "Petrify Book"
     },
     "1193": {
         "clarity_nt_char_363": "clarity_nt_char_363"
@@ -3633,7 +3633,7 @@
         "リターンリング": ""
     },
     "1212": {
-        "ガエリブの竪琴": ""
+        "ガエリブの竪琴": "Gaelib's Harp"
     },
     "1213": {
         "カムシカ": ""
@@ -3654,16 +3654,16 @@
         "clarity_nt_char_372": "clarity_nt_char_372"
     },
     "1219": {
-        "ドミネウスの回顧録": ""
+        "ドミネウスの回顧録": "Domineus' Memoirs"
     },
     "1220": {
-        "ベルマの指針書": ""
+        "ベルマの指針書": "Belma's Guidebook"
     },
     "1221": {
         "水底の指輪": ""
     },
     "1222": {
-        "時見のカギ": ""
+        "時見のカギ": "Timeseer's Key"
     },
     "1223": {
         "記憶の緑結晶": "Gr. Memory Crystal"
@@ -3729,10 +3729,10 @@
         "clarity_nt_char_382": "clarity_nt_char_382"
     },
     "1244": {
-        "レグルのペンダント": ""
+        "レグルのペンダント": "Regul's Pendant"
     },
     "1245": {
-        "レグルの記憶の結晶": ""
+        "レグルの記憶の結晶": "Regul's Memory Crystal"
     },
     "1246": {
         "黄の短冊": ""
@@ -3765,7 +3765,7 @@
         "clarity_nt_char_387": "clarity_nt_char_387"
     },
     "1256": {
-        "ローベルの報告書": ""
+        "ローベルの報告書": "Robel's Report"
     },
     "1257": {
         "clarity_nt_char_388": "clarity_nt_char_388"
@@ -3846,7 +3846,7 @@
         "パーティーの招待状": ""
     },
     "1283": {
-        "バルディジニアの花": ""
+        "バルディジニアの花": "Valdia Zinnia Flower"
     },
     "1284": {
         "謎の果たし状": ""
@@ -5061,7 +5061,7 @@
         "clarity_nt_char_535": "clarity_nt_char_535"
     },
     "1688": {
-        "カジノの|ＶＩＰルームに|入るための証": ""
+        "カジノの|ＶＩＰルームに|入るための証": "Allows access|to the VIP|Room."
     },
     "1689": {
         "白い光が宿る|ツメの形をした|水晶のかたまり": ""
@@ -11529,7 +11529,7 @@
         "clarity_nt_char_1260": "clarity_nt_char_1260"
     },
     "3844": {
-        "はぐれモグラの舌": ""
+        "はぐれモグラの舌": "Missing Mole Tongue"
     },
     "3845": {
         "clarity_nt_char_1261": "clarity_nt_char_1261"
@@ -11811,7 +11811,7 @@
         "<pc>は　パシティの試作品を|ながめてみた。|<br>|少し　とけかかっている。|急いで　バザールにいる|ジルガモットに　届けよう。": ""
     },
     "3938": {
-        "祭司長の魔杖": ""
+        "祭司長の魔杖": "Priest Leader Wand"
     },
     "3939": {
         "clarity_nt_char_1294": "clarity_nt_char_1294"
@@ -12540,7 +12540,7 @@
         "<pc>は　紫の短冊弐を|手に取り　願いを読んでみた。|<br>|紫の短冊弐は|たくさんの肉球の跡で　埋め尽くされている。": ""
     },
     "4181": {
-        "ヴァレリアへの親書": ""
+        "ヴァレリアへの親書": "Letter to Valeria"
     },
     "4182": {
         "トランプケース": "Tycoon Card Case"
@@ -12594,7 +12594,7 @@
         "カワイ子ちゃん": "Kawaiko"
     },
     "4199": {
-        "バルディアメタル": ""
+        "バルディアメタル": "Valdia Metal"
     },
     "4200": {
         "clarity_nt_char_1376": "clarity_nt_char_1376"
@@ -12747,7 +12747,7 @@
         "クラムパイ": ""
     },
     "4250": {
-        "王家のペンダント": ""
+        "王家のペンダント": "Royal Family Pendant"
     },
     "4251": {
         "clarity_nt_char_1397": "clarity_nt_char_1397"
@@ -13455,7 +13455,7 @@
         "<pc>は　魔痛の毒の原液を|じっくり　ながめてみた。|<br>|よく見ると　ビンの底に|軍医ロアの名前が　記されている。": ""
     },
     "4486": {
-        "世界樹の花": ""
+        "世界樹の花": "Yggdrasil Flwr"
     },
     "4487": {
         "欠番": "Miss#"
@@ -13869,7 +13869,7 @@
         "clarity_nt_char_1529": "clarity_nt_char_1529"
     },
     "4624": {
-        "モモリオンの日記帳": ""
+        "モモリオンの日記帳": "Sanguini King's Diary"
     },
     "4625": {
         "虹色のタネ": ""
@@ -13896,7 +13896,7 @@
         "clarity_nt_char_1532": "clarity_nt_char_1532"
     },
     "4633": {
-        "モモリオンのカギ": ""
+        "モモリオンのカギ": "Sanguini King's Key"
     },
     "4634": {
         "clarity_nt_char_1533": "clarity_nt_char_1533"
