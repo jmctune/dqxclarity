@@ -4845,7 +4845,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-倉庫": "<%sW_MAP_NAME><%sW_DELIMITER>W. Tower Storage"
     },
     "1616": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>秘密の地下通廊": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>秘密の地下通廊": "<%sW_MAP_NAME><%sW_DELIMITER>Secret Corridor"
     },
     "1617": {
         "clarity_nt_char_508": "clarity_nt_char_508"
@@ -5250,7 +5250,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>開かずの間・前室": "Unseen Room Chamber"
     },
     "1751": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下倉庫": "Basement Storage"
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下倉庫": "<%sW_MAP_NAME><%sW_DELIMITER>Storage"
     },
     "1752": {
         "<%sW_MAP_NAME><%sW_DELIMITER>開かずの間": "Unseen Room"
@@ -5622,7 +5622,7 @@
         "王家の迷宮": "Royal Maze"
     },
     "1875": {
-        "王家の迷宮 地下<%nW_AUTODUNG_LV>階": ""
+        "王家の迷宮 地下<%nW_AUTODUNG_LV>階": "Royal Maze B<%dW_AUTODUNG_LV>F"
     },
     "1876": {
         "clarity_nt_char_587": "clarity_nt_char_587"
@@ -6162,7 +6162,7 @@
         "clarity_nt_char_642": "clarity_nt_char_642"
     },
     "2055": {
-        "スイの塔地下階 入口": ""
+        "スイの塔地下階 入口": "Sui Tower Basement Entry"
     },
     "2056": {
         "clarity_nt_char_643": "clarity_nt_char_643"
