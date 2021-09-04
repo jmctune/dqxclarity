@@ -9894,7 +9894,7 @@
         "clarity_nt_char_1055": "clarity_nt_char_1055"
     },
     "3299": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下通路": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下通路": "<%sW_MAP_NAME><%sW_DELIMITER>Passage"
     },
     "3300": {
         "<%sW_MAP_NAME><%sW_DELIMITER>小島": "<%sW_MAP_NAME><%sW_DELIMITER>Islet"
@@ -10554,13 +10554,13 @@
         "ゼクレス城・魔導広場 出口": ""
     },
     "3519": {
-        "ゼクレス城・地下 出口": ""
+        "ゼクレス城・地下 出口": "Zechres Castle - Under Exit"
     },
     "3520": {
         "ゼクレス城・魔導広場 入口": ""
     },
     "3521": {
-        "ゼクレス城・地下 入口": ""
+        "ゼクレス城・地下 入口": "Zechres Castle - Under Entry"
     },
     "3522": {
         "ゼクレス城・宝物庫 出口": ""
@@ -10917,7 +10917,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>第一の房": "<%sW_MAP_NAME><%sW_DELIMITER>First Trial"
     },
     "3640": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下への階段": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下への階段": "<%sW_MAP_NAME><%sW_DELIMITER>Basement Stairs"
     },
     "3641": {
         "貴賓室 入口": ""
@@ -11046,7 +11046,7 @@
         "血潮の浜辺への出口": "Exit to Bloody Beach"
     },
     "3683": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下牢への階段": "<%sW_MAP_NAME><%sW_DELIMITER>Stairs to Dungeon"
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下牢への階段": "<%sW_MAP_NAME><%sW_DELIMITER>Dungeon Stairs"
     },
     "3684": {
         "clarity_nt_char_1176": "clarity_nt_char_1176"
@@ -11667,19 +11667,19 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>神儀の間": ""
     },
     "3890": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下道": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下道": "<%sW_MAP_NAME><%sW_DELIMITER>Tunnel"
     },
     "3891": {
         "clarity_nt_char_1250": "clarity_nt_char_1250"
     },
     "3892": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>魔界・地下５階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>魔界・地下５階": "<%sW_MAP_NAME><%sW_DELIMITER>Makai - B5F"
     },
     "3893": {
         "clarity_nt_char_1251": "clarity_nt_char_1251"
     },
     "3894": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>魔界・地下４階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>魔界・地下４階": "<%sW_MAP_NAME><%sW_DELIMITER>Makai - B4F"
     },
     "3895": {
         "clarity_nt_char_1252": "clarity_nt_char_1252"
