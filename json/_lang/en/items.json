@@ -3345,7 +3345,7 @@
         "ギュッとアンルシア": "Anlucia Armband"
     },
     "1116": {
-        "ギュッとはぐりん": "Hagurin Armband"
+        "ギュッとはぐりん": "Metabble Armband"
     },
     "1117": {
         "clarity_nt_char_354": "clarity_nt_char_354"
@@ -3492,7 +3492,7 @@
         "clarity_nt_char_370": "clarity_nt_char_370"
     },
     "1165": {
-        "幻界闘士のゆびわ": "Phantom Warrior Ring"
+        "幻界闘士のゆびわ": "Phantom Fighter Ring"
     },
     "1166": {
         "clarity_nt_char_371": "clarity_nt_char_371"
@@ -4932,7 +4932,7 @@
         "clarity_nt_char_515": "clarity_nt_char_515"
     },
     "1645": {
-        "プクリポの服": "Puklipo Clothes"
+        "プクリポの服": "Pukulipo Clothes"
     },
     "1646": {
         "clarity_nt_char_516": "clarity_nt_char_516"
@@ -9987,25 +9987,25 @@
         "clarity_nt_char_1031": "clarity_nt_char_1031"
     },
     "3330": {
-        "キュルル花火・赤": "Red Qululu Fireworks"
+        "キュルル花火・赤": "Red Kyururu Fireworks"
     },
     "3331": {
         "clarity_nt_char_1032": "clarity_nt_char_1032"
     },
     "3332": {
-        "キュルル花火・虹": "Rnbw Qululu Fireworks"
+        "キュルル花火・虹": "Rnbw Kyururu Fireworks"
     },
     "3333": {
         "clarity_nt_char_1033": "clarity_nt_char_1033"
     },
     "3334": {
-        "キュルル花火・緑": "Green Qululu Fireworks"
+        "キュルル花火・緑": "Green Kyururu Fireworks"
     },
     "3335": {
         "clarity_nt_char_1034": "clarity_nt_char_1034"
     },
     "3336": {
-        "キュルル花火・黄": "Yellow Qululu Fireworks"
+        "キュルル花火・黄": "Ylw. Kyururu Fireworks"
     },
     "3337": {
         "clarity_nt_char_1035": "clarity_nt_char_1035"
@@ -10932,7 +10932,7 @@
         "clarity_nt_char_1117": "clarity_nt_char_1117"
     },
     "3645": {
-        "闘士の便せん": "Warrior Paper"
+        "闘士の便せん": "Fighter Paper"
     },
     "3646": {
         "clarity_nt_char_1118": "clarity_nt_char_1118"
@@ -11547,7 +11547,7 @@
         "ドール書・ナイスポーズ": "Doll Book \"Nice Pose\""
     },
     "3850": {
-        "ドール書・いのる": "Doll Book-Pray"
+        "ドール書・いのる": "Doll Book \"Pray\""
     },
     "3851": {
         "clarity_nt_char_1185": "clarity_nt_char_1185"
@@ -11610,13 +11610,13 @@
         "ドール書・バトルポーズ": "Doll Book \"Battle Pose\""
     },
     "3871": {
-        "ドール書・武器かかげ": "Doll Book-Raise Weapon"
+        "ドール書・武器かかげ": "Doll Book \"Raise Weapon\""
     },
     "3872": {
         "clarity_nt_char_1191": "clarity_nt_char_1191"
     },
     "3873": {
-        "ドール書・ボケ": "Doll Book-Silly"
+        "ドール書・ボケ": "Doll Book \"Silly\""
     },
     "3874": {
         "<%sM_npc>の緊急依頼書": "<%sM_npc>'s Urgent Request"
@@ -15270,7 +15270,7 @@
         "しぐさ書・リバーダンス": ""
     },
     "5091": {
-        "しぐさ書・アコーディオ": ""
+        "しぐさ書・アコーディオ": "Emote Book \"Accordion\""
     },
     "5092": {
         "しぐさ書・お祝い": ""
@@ -15981,7 +15981,7 @@
         "スカルウィング": "Skull Wings"
     },
     "5328": {
-        "ダークネスウィング": ""
+        "ダークネスウィング": "Darkness Wing"
     },
     "5329": {
         "ブラッディウィング": "Bloody Wings"
@@ -17586,28 +17586,28 @@
         "clarity_nt_char_1754": "clarity_nt_char_1754"
     },
     "5863": {
-        "アガレスの紋章": "Agares Coat of Arms"
+        "アガレスの紋章": "Agares Crest"
     },
     "5864": {
-        "ブエルの紋章": ""
+        "ブエルの紋章": "Buer Crest"
     },
     "5865": {
         "clarity_nt_char_1755": "clarity_nt_char_1755"
     },
     "5866": {
-        "アモンの紋章": "Amon Coat of Arms"
+        "アモンの紋章": "Amon Crest"
     },
     "5867": {
         "clarity_nt_char_1756": "clarity_nt_char_1756"
     },
     "5868": {
-        "グレモリーの紋章": "Gremory's Coat of Arms"
+        "グレモリーの紋章": "Gremory Crest"
     },
     "5869": {
         "clarity_nt_char_1757": "clarity_nt_char_1757"
     },
     "5870": {
-        "はじまりの紋章": "Beginning Emblem"
+        "はじまりの紋章": "Origin Crest"
     },
     "5871": {
         "竜のうろこ": "Dragon Scale"
@@ -17691,7 +17691,7 @@
         "赤のジョーカー": "Red Joker"
     },
     "5898": {
-        "フーたんのブローチ": ""
+        "フーたんのブローチ": "Futan's Brooch"
     },
     "5899": {
         "キーたんのブローチ": "Keytan's Brooch"
@@ -19686,7 +19686,7 @@
         "clarity_nt_char_1969": "clarity_nt_char_1969"
     },
     "6563": {
-        "ごうかなイス・緑": ""
+        "ごうかなイス・緑": "Green Fancy Chair"
     },
     "6564": {
         "clarity_nt_char_1970": "clarity_nt_char_1970"
@@ -19695,13 +19695,13 @@
         "ごうかな長イス・緑": ""
     },
     "6566": {
-        "ごうかテーブル小・緑": ""
+        "ごうかテーブル小・緑": "Small Green Fancy Table"
     },
     "6567": {
         "clarity_nt_char_1971": "clarity_nt_char_1971"
     },
     "6568": {
-        "ごうかテーブル大・緑": ""
+        "ごうかテーブル大・緑": "Large Green Fancy Table"
     },
     "6569": {
         "clarity_nt_char_1972": "clarity_nt_char_1972"
@@ -19725,7 +19725,7 @@
         "clarity_nt_char_1974": "clarity_nt_char_1974"
     },
     "6576": {
-        "ごうかなグリル・緑": ""
+        "ごうかなグリル・緑": "Green Fancy Grill"
     },
     "6577": {
         "ごうかなベッド・緑": ""
@@ -19974,7 +19974,7 @@
         "clarity_nt_char_2001": "clarity_nt_char_2001"
     },
     "6659": {
-        "ごうかなイス・赤": ""
+        "ごうかなイス・赤": "Red Fancy Chair"
     },
     "6660": {
         "clarity_nt_char_2002": "clarity_nt_char_2002"
@@ -20016,7 +20016,7 @@
         "clarity_nt_char_2005": "clarity_nt_char_2005"
     },
     "6673": {
-        "ごうかなグリル・赤": ""
+        "ごうかなグリル・赤": "Red Fancy Grill"
     },
     "6674": {
         "ごうかなベッド・赤": ""
@@ -20586,7 +20586,7 @@
         "メタッピーの像": "Mecha-Mynah Statue"
     },
     "6863": {
-        "おばけキャンドルの像": ""
+        "おばけキャンドルの像": "Wax Murderer Statue"
     },
     "6864": {
         "clarity_nt_char_2065": "clarity_nt_char_2065"
@@ -20619,7 +20619,7 @@
         "clarity_nt_char_2068": "clarity_nt_char_2068"
     },
     "6874": {
-        "うごくせきぞうの像": ""
+        "うごくせきぞうの像": "Living Statue Statue"
     },
     "6875": {
         "キラーマシンの像": "Killing Machine Statue"
@@ -21078,7 +21078,7 @@
         "すごろくダイス": "Sugoroku Dice"
     },
     "7027": {
-        "すごろく魔法戦士": "Sugoroku Magic Warrior"
+        "すごろく魔法戦士": "Sugoroku Armamentalist"
     },
     "7028": {
         "clarity_nt_char_2117": "clarity_nt_char_2117"
@@ -22266,7 +22266,7 @@
         "デッキテーブル": ""
     },
     "7423": {
-        "石の灯籠": ""
+        "石の灯籠": "Stn. Lantern"
     },
     "7424": {
         "clarity_nt_char_2245": "clarity_nt_char_2245"
@@ -22293,7 +22293,7 @@
         "clarity_nt_char_2248": "clarity_nt_char_2248"
     },
     "7432": {
-        "ガートラント風たいまつ": "Gartland-styled Torch"
+        "ガートラント風たいまつ": "Gartlant-Style Torch"
     },
     "7433": {
         "アグラニ風たいまつ": "Agrani-Styled Torch"
@@ -23265,7 +23265,7 @@
         "メタッピーの像・庭": "Mecha-Mynah Statue(G)"
     },
     "7756": {
-        "おばけキャンドル像・庭": ""
+        "おばけキャンドル像・庭": "Wax Murderer Gdn Statue"
     },
     "7757": {
         "ミミックの像・庭": "Mimic Garden Statue"
@@ -23295,7 +23295,7 @@
         "clarity_nt_char_2355": "clarity_nt_char_2355"
     },
     "7766": {
-        "うごくせきぞうの像・庭": ""
+        "うごくせきぞうの像・庭": "Living Statue Statue(G)"
     },
     "7767": {
         "キラーマシンの像・庭": "Killing Mch. Statue (G)"
@@ -24306,7 +24306,7 @@
         "スライムベス観覧車": "She-Slime Ferris Wheel"
     },
     "8103": {
-        "スノーモン観覧車": "Snowmon Ferris Wheel"
+        "スノーモン観覧車": "Snow Sanguini Ferris Whl"
     },
     "8104": {
         "clarity_nt_char_2474": "clarity_nt_char_2474"
@@ -24489,16 +24489,16 @@
         "clarity_nt_char_2492": "clarity_nt_char_2492"
     },
     "8164": {
-        "ポワンの像": ""
+        "ポワンの像": "Powan Statue"
     },
     "8165": {
-        "ヴェリナードの紋章旗": ""
+        "ヴェリナードの紋章旗": "Verinard Flag"
     },
     "8166": {
         "clarity_nt_char_2493": "clarity_nt_char_2493"
     },
     "8167": {
-        "ガートラントの紋章旗": "Gartland Flag"
+        "ガートラントの紋章旗": "Gartlant Flag"
     },
     "8168": {
         "clarity_nt_char_2494": "clarity_nt_char_2494"
@@ -24510,13 +24510,13 @@
         "clarity_nt_char_2495": "clarity_nt_char_2495"
     },
     "8171": {
-        "メギストリスの紋章旗": ""
+        "メギストリスの紋章旗": "Megistris Flag"
     },
     "8172": {
         "clarity_nt_char_2496": "clarity_nt_char_2496"
     },
     "8173": {
-        "ドルワームの紋章旗": ""
+        "ドルワームの紋章旗": "Dolworm Flag"
     },
     "8174": {
         "セラフィぬいぐるみ": "Seraphy Plushie"
@@ -26361,7 +26361,7 @@
         "プリズニャンぐるみ": "Jailcat Plushie"
     },
     "8788": {
-        "スノーモンかまくら": "Snowy Sanguini Cake"
+        "スノーモンかまくら": "Snow Sanguini Cake"
     },
     "8789": {
         "クリスマスお菓子ツリー": "Christmas Candy Tree"
@@ -26526,7 +26526,7 @@
         "clarity_nt_char_2698": "clarity_nt_char_2698"
     },
     "8843": {
-        "フライングバニー": ""
+        "フライングバニー": "Flying Bunny"
     },
     "8844": {
         "clarity_nt_char_2699": "clarity_nt_char_2699"
@@ -26556,7 +26556,7 @@
         "ニードルうさこ人形": "Needle Rabbit Doll"
     },
     "8853": {
-        "魔勇者ぬいぐるみ": ""
+        "魔勇者ぬいぐるみ": "Demon Hero Plushie"
     },
     "8854": {
         "clarity_nt_char_2702": "clarity_nt_char_2702"
@@ -31152,7 +31152,7 @@
         "つみきでハッピー！": ""
     },
     "10385": {
-        "ごうかなイスと机の本": "Book on Chair & Desks"
+        "ごうかなイスと机の本": "Fancy Chair & Desk Book"
     },
     "10386": {
         "clarity_nt_char_3184": "clarity_nt_char_3184"
@@ -32199,7 +32199,7 @@
         "マポレーナプリズム": "Genie Sanguini Prism"
     },
     "10734": {
-        "スノーモンプリズム": "Snowy Sanguini Prism"
+        "スノーモンプリズム": "Snow Sanguini Prism"
     },
     "10735": {
         "魔法じゅうたんプリズム": "Magic Carpet Prism"
@@ -32529,7 +32529,7 @@
         "clarity_nt_char_3320": "clarity_nt_char_3320"
     },
     "10844": {
-        "カメさまカプセル": "Turtle Capsule"
+        "カメさまカプセル": "Galapagod Capsule"
     },
     "10845": {
         "clarity_nt_char_3321": "clarity_nt_char_3321"
@@ -32556,7 +32556,7 @@
         "茶柴クールカプセル": "Cool Tea Shiba Capsule"
     },
     "10853": {
-        "茶柴モダンカプセル": "Modern Tea Shiba Caps."
+        "茶柴モダンカプセル": "Hip Tea Shiba Capsule"
     },
     "10854": {
         "茶柴ピュアカプセル": "Pure Tea Shiba Capsule"
@@ -32568,7 +32568,7 @@
         "黒柴クールカプセル": "Cool Black Shiba Caps."
     },
     "10857": {
-        "黒柴モダンカプセル": "Modern Black Shiba Cap."
+        "黒柴モダンカプセル": "Hip Black Shiba Capsule"
     },
     "10858": {
         "黒柴ピュアカプセル": "Pure Black Shiba Caps."
@@ -32580,7 +32580,7 @@
         "白柴クールカプセル": "Cool White Shiba Caps."
     },
     "10861": {
-        "白柴モダンカプセル": "Modern White Shiba Cap."
+        "白柴モダンカプセル": "Hip White Shiba Capsule"
     },
     "10862": {
         "白柴ピュアカプセル": "Pure White Shiba Caps."
@@ -32589,10 +32589,10 @@
         "金のワラタローカプセル": "Golden Warataro Capsule"
     },
     "10864": {
-        "チキ坊カプセル": "Chicken Capsule"
+        "チキ坊カプセル": "Chickibo Capsule"
     },
     "10865": {
-        "金のチキ坊カプセル": "Golden Chicken Capsule"
+        "金のチキ坊カプセル": "Golden Chickibo Capsule"
     },
     "10866": {
         "コッケちゃんカプセル": "Kokke-chan Capsule"
@@ -32664,10 +32664,10 @@
         "clarity_nt_char_3329": "clarity_nt_char_3329"
     },
     "10889": {
-        "サバ猫カプセル": "Gray Tabby Capsule"
+        "サバ猫カプセル": "Gray Cat Capsule"
     },
     "10890": {
-        "キジ猫カプセル": "Brown Tabby Capsule"
+        "キジ猫カプセル": "Brown Cat Capsule"
     },
     "10891": {
         "茶トラ猫カプセル": "Tea Tiger Cat Capsule"
@@ -32703,7 +32703,7 @@
         "三毛猫カプセル": "Calico Cat Capsule"
     },
     "10902": {
-        "ブチ猫カプセル": "Buchi Cat Capsule"
+        "ブチ猫カプセル": "Spot Cat Capsule"
     },
     "10903": {
         "スノーボーイカプセル": "Snowboy Capsule"
@@ -32769,7 +32769,7 @@
         "黒猫オッドカプセル": "Odd Black Cat Capsule"
     },
     "10924": {
-        "赤茶猫カプセル": "Red-brown Cat Capsule"
+        "赤茶猫カプセル": "Maroon Cat Capsule"
     },
     "10925": {
         "灰三毛猫カプセル": "Ash Calico Cat Capsule"
@@ -32778,7 +32778,7 @@
         "clarity_nt_char_3341": "clarity_nt_char_3341"
     },
     "10927": {
-        "三毛猫・双カプセル": "Calico Cat Pair Capsule"
+        "三毛猫・双カプセル": "Pair Calico Cat Capsule"
     },
     "10928": {
         "茶三毛猫カプセル": "Tea Calico Cat Capsule"
@@ -32787,22 +32787,22 @@
         "clarity_nt_char_3342": "clarity_nt_char_3342"
     },
     "10930": {
-        "灰ハチワレ猫カプセル": "Grey & White Cat Caps."
+        "灰ハチワレ猫カプセル": "Gray & White Cat Caps."
     },
     "10931": {
         "clarity_nt_char_3343": "clarity_nt_char_3343"
     },
     "10932": {
-        "ブチ猫・双カプセル": "Buchi Cat Pair Capsule"
+        "ブチ猫・双カプセル": "Pair Spot Cat Capsule"
     },
     "10933": {
-        "灰ブチ猫カプセル": "Ash Buchi Cat Capsule"
+        "灰ブチ猫カプセル": "Ash Spot Cat Capsule"
     },
     "10934": {
         "clarity_nt_char_3344": "clarity_nt_char_3344"
     },
     "10935": {
-        "茶ブチ猫カプセル": "Tea Buchi Cat Capsule"
+        "茶ブチ猫カプセル": "Tea Spot Cat Capsule"
     },
     "10936": {
         "clarity_nt_char_3345": "clarity_nt_char_3345"
@@ -32820,10 +32820,10 @@
         "clarity_nt_char_3346": "clarity_nt_char_3346"
     },
     "10941": {
-        "たれサバ猫カプセル": "Lazy Gray Tabby Capsule"
+        "たれサバ猫カプセル": "Lazy Gray Cat Capsule"
     },
     "10942": {
-        "たれキジ猫カプセル": "Lazy Brown Tabby Caps."
+        "たれキジ猫カプセル": "Lazy Brown Cat Capsule"
     },
     "10943": {
         "たれ白トラ猫カプセル": "Lazy Wht Tiger Cat Cap."
@@ -32859,7 +32859,7 @@
         "clarity_nt_char_3351": "clarity_nt_char_3351"
     },
     "10954": {
-        "たれ赤茶猫カプセル": "Red-brown Cat Capsule"
+        "たれ赤茶猫カプセル": "Lazy Maroon Cat Capsule"
     },
     "10955": {
         "白もふ猫カプセル": "Fluffy White Cat Caps."
@@ -32934,13 +32934,13 @@
         "銀マスク猫カプセル": "Silver Mask Cat Capsule"
     },
     "10979": {
-        "大キジ猫カプセル": "Big Brown Tabby Capsule"
+        "大キジ猫カプセル": "Big Brown Cat Capsule"
     },
     "10980": {
         "clarity_nt_char_3359": "clarity_nt_char_3359"
     },
     "10981": {
-        "大サバ猫カプセル": "Big Gray Tabby Capsule"
+        "大サバ猫カプセル": "Big Gray Cat Capsule"
     },
     "10982": {
         "clarity_nt_char_3360": "clarity_nt_char_3360"
@@ -32961,13 +32961,13 @@
         "大白猫カプセル": "Big White Cat Capsule"
     },
     "10988": {
-        "サバ太猫カプセル": "Fat Gray Tabby Capsule"
+        "サバ太猫カプセル": "Fat Gray Cat Capsule"
     },
     "10989": {
         "clarity_nt_char_3362": "clarity_nt_char_3362"
     },
     "10990": {
-        "キジ太猫カプセル": "Fat Brown Tabby Capsule"
+        "キジ太猫カプセル": "Fat Brown Cat Capsule"
     },
     "10991": {
         "clarity_nt_char_3363": "clarity_nt_char_3363"
@@ -33006,31 +33006,31 @@
         "clarity_nt_char_3365": "clarity_nt_char_3365"
     },
     "11003": {
-        "ブチ太猫カプセル": "Fat Buchi Cat Capsule"
+        "ブチ太猫カプセル": "Fat Spot Cat Capsule"
     },
     "11004": {
         "clarity_nt_char_3366": "clarity_nt_char_3366"
     },
     "11005": {
-        "灰ブチ太猫カプセル": "Fat Ash Buchi Cat Caps."
+        "灰ブチ太猫カプセル": "Fat Ash Spot Cat Caps."
     },
     "11006": {
-        "茶ブチ太猫カプセル": "Fat Tea Buchi Cat Caps."
+        "茶ブチ太猫カプセル": "Fat Tea Spot Cat Caps."
     },
     "11007": {
         "たれ茶トラ太猫カプセル": "Lzy Fat Tea TgrCat Cap."
     },
     "11008": {
-        "たれサバ太猫カプセル": "Lazy Fat Gray Tabby Cap."
+        "たれサバ太猫カプセル": "Lazy Fat Gray Cat Caps."
     },
     "11009": {
         "clarity_nt_char_3367": "clarity_nt_char_3367"
     },
     "11010": {
-        "たれ黒太猫カプセル": "Fat Lazy Black Cat Cap."
+        "たれ黒太猫カプセル": "Lazy Fat Black Cat Cap."
     },
     "11011": {
-        "たれキジ太猫カプセル": "Lzy Fat Brwn Tabby Cap."
+        "たれキジ太猫カプセル": "Lazy Fat Brown Cat Cap."
     },
     "11012": {
         "clarity_nt_char_3368": "clarity_nt_char_3368"
@@ -33054,7 +33054,7 @@
         "clarity_nt_char_3370": "clarity_nt_char_3370"
     },
     "11019": {
-        "シロブタちゃんカプセル": "White Girl Piglet Caps."
+        "シロブタちゃんカプセル": "White Girl Piggy Caps."
     },
     "11020": {
         "クロブタカプセル": "Black Pig Capsule"
@@ -33069,10 +33069,10 @@
         "clarity_nt_char_3372": "clarity_nt_char_3372"
     },
     "11024": {
-        "クロブタちゃんカプセル": "Black Girl Piglet Caps."
+        "クロブタちゃんカプセル": "Black Girl Piggy Caps."
     },
     "11025": {
-        "ブチブタカプセル": "Buchi Pig Capsule"
+        "ブチブタカプセル": "Spotted Pig Capsule"
     },
     "11026": {
         "clarity_nt_char_3373": "clarity_nt_char_3373"
@@ -33084,7 +33084,7 @@
         "clarity_nt_char_3374": "clarity_nt_char_3374"
     },
     "11029": {
-        "ブチブタちゃんカプセル": "Buchi Piglet Girl Caps."
+        "ブチブタちゃんカプセル": "Spotted Girl Piggy Cap."
     },
     "11030": {
         "ウリボーカプセル": "Wild Boar Capsule"
@@ -33093,13 +33093,13 @@
         "clarity_nt_char_3375": "clarity_nt_char_3375"
     },
     "11032": {
-        "ウリボーくんカプセル": "Wild Boar Boy Capsule"
+        "ウリボーくんカプセル": "Wild Boy Boar Capsule"
     },
     "11033": {
         "clarity_nt_char_3376": "clarity_nt_char_3376"
     },
     "11034": {
-        "ウリボーちゃんカプセル": "Wild Boar Girl Capsule"
+        "ウリボーちゃんカプセル": "Wild Girl Boar Capsule"
     },
     "11035": {
         "ケキちゃんカプセル": "Keki-chan Capsule"
@@ -34134,7 +34134,7 @@
         "clarity_nt_char_3487": "clarity_nt_char_3487"
     },
     "11379": {
-        "すごろくバトルマスター": "Sugoroku BTL"
+        "すごろくバトルマスター": "Sugoroku Battle Master"
     },
     "11380": {
         "すごろく盗賊": ""
@@ -34287,10 +34287,10 @@
         "ＶＩＰカジノオルゴール": ""
     },
     "11430": {
-        "キンスラぬいぐるみ": ""
+        "キンスラぬいぐるみ": "King Slime Plushie"
     },
     "11431": {
-        "キンスラぬいぐるみ小": ""
+        "キンスラぬいぐるみ小": "Sm. King Slime Plushie"
     },
     "11432": {
         "clarity_nt_char_3506": "clarity_nt_char_3506"
@@ -35661,7 +35661,7 @@
         "エジャルナファンランプ": ""
     },
     "11888": {
-        "ナドラガ教団のたいまつ": ""
+        "ナドラガ教団のたいまつ": "Nadraga Cult Torch"
     },
     "11889": {
         "壁かけステンドグラス丸": "Stained Glass Circle"
@@ -35982,7 +35982,7 @@
         "ぽーちゃんの像": ""
     },
     "11995": {
-        "ティーセット": ""
+        "ティーセット": "Tea Set"
     },
     "11996": {
         "clarity_nt_char_3684": "clarity_nt_char_3684"
@@ -36345,7 +36345,7 @@
         "お正月ザンクローネ・酉": ""
     },
     "12116": {
-        "トコトコチキ坊": ""
+        "トコトコチキ坊": "Trotting Chickibo"
     },
     "12117": {
         "ルナナのぬいぐるみ": "Lunana Plushie"
@@ -36471,7 +36471,7 @@
         "フランジュの像": "Frange Statue"
     },
     "12158": {
-        "アイゼルの像": ""
+        "アイゼルの像": "Eisel Statue"
     },
     "12159": {
         "clarity_nt_char_3737": "clarity_nt_char_3737"
@@ -36612,7 +36612,7 @@
         "大きなタルのベッド": "Large Barrel Bed"
     },
     "12205": {
-        "キンスラ王冠ランプ": ""
+        "キンスラ王冠ランプ": "King Slime Crown Lamp"
     },
     "12206": {
         "冒険の書のベッド": ""
@@ -36690,7 +36690,7 @@
         "clarity_nt_char_3756": "clarity_nt_char_3756"
     },
     "12231": {
-        "アイゼルぬいぐるみ": ""
+        "アイゼルぬいぐるみ": "Eisel Plushie"
     },
     "12232": {
         "ガチャガチャポスト": ""
@@ -36801,7 +36801,7 @@
         "デビルワインの花束": ""
     },
     "12268": {
-        "ダークプラムの花束": ""
+        "ダークプラムの花束": "Dark Plum Bouquet"
     },
     "12269": {
         "ラベンダーの花束": ""
@@ -36858,7 +36858,7 @@
         "ブラウンの花束": ""
     },
     "12287": {
-        "ダークグレーの花束": ""
+        "ダークグレーの花束": "Dark Gray Bouquet"
     },
     "12288": {
         "オニキスの花束": "Onyx Bouquet"
@@ -37497,7 +37497,7 @@
         "clarity_nt_char_3839": "clarity_nt_char_3839"
     },
     "12500": {
-        "ティーセットつきの机": ""
+        "ティーセットつきの机": "Desk with Tea Set"
     },
     "12501": {
         "clarity_nt_char_3840": "clarity_nt_char_3840"
@@ -37557,7 +37557,7 @@
         "幽霊城のアーチ": ""
     },
     "12520": {
-        "トコトコチキ坊・庭": ""
+        "トコトコチキ坊・庭": "Trotting Chickibo (G)"
     },
     "12521": {
         "ヒューザのポスト": "Huzer Mailbox"
@@ -37599,7 +37599,7 @@
         "第１回カジノ祭・銅": ""
     },
     "12534": {
-        "キュルルぬいぐるみ": "Qululu Plushie"
+        "キュルルぬいぐるみ": "Kyururu Plushie"
     },
     "12535": {
         "メレアーデぬいぐるみ": "Mereade Plushie"
@@ -37617,7 +37617,7 @@
         "ダークキングぬいぐるみ": "Dark King Slime Plushie"
     },
     "12540": {
-        "エテーネルキュルル": "Ethenel Qululu"
+        "エテーネルキュルル": "Ethenel Kyururu"
     },
     "12541": {
         "デビルニャン貯金箱": "Devil Cat Piggy Bank"
@@ -37719,7 +37719,7 @@
         "メレアーデキッチン": "Mereade Kitchen"
     },
     "12574": {
-        "シャンテキッチン": ""
+        "シャンテキッチン": "Shante Kitchen"
     },
     "12575": {
         "clarity_nt_char_3864": "clarity_nt_char_3864"
@@ -37815,7 +37815,7 @@
         "clarity_nt_char_3868": "clarity_nt_char_3868"
     },
     "12606": {
-        "チキ坊の畑": ""
+        "チキ坊の畑": "Chickibo Field"
     },
     "12607": {
         "トコトコワラタロー・庭": ""
@@ -38022,7 +38022,7 @@
         "ふわふわブーケ飾り": ""
     },
     "12675": {
-        "キューピッドの噴水": ""
+        "キューピッドの噴水": "Cupid Fountain"
     },
     "12676": {
         "砂の三段灯ろう": "Three-Tiered Lantern"
@@ -39435,25 +39435,25 @@
         "clarity_nt_char_4040": "clarity_nt_char_4040"
     },
     "13146": {
-        "ヴィスタリア姫のベッド": ""
+        "ヴィスタリア姫のベッド": "Princess Vistaria Bed"
     },
     "13147": {
-        "ヴィスタリア姫のラグ": ""
+        "ヴィスタリア姫のラグ": "Princess Vistaria Rug"
     },
     "13148": {
         "clarity_nt_char_4041": "clarity_nt_char_4041"
     },
     "13149": {
-        "ヴィスタリア姫の机": ""
+        "ヴィスタリア姫の机": "Princess Vistaria Desk"
     },
     "13150": {
-        "ヴィスタリア姫のイス": ""
+        "ヴィスタリア姫のイス": "Princess Vistaria Chair"
     },
     "13151": {
         "clarity_nt_char_4042": "clarity_nt_char_4042"
     },
     "13152": {
-        "ヴィスタリア姫の鏡台": ""
+        "ヴィスタリア姫の鏡台": "Princess Vistaria Stand"
     },
     "13153": {
         "clarity_nt_char_4043": "clarity_nt_char_4043"
@@ -39774,22 +39774,22 @@
         "ケミカルポップなケーキ": "Chemical Pop Cake"
     },
     "13259": {
-        "ナウマンコックの像": ""
+        "ナウマンコックの像": "Naumanncook Statue"
     },
     "13260": {
-        "たたきモグラの像": ""
+        "たたきモグラの像": "Mashing Mole Statue"
     },
     "13261": {
         "clarity_nt_char_4071": "clarity_nt_char_4071"
     },
     "13262": {
-        "おそうじ童子の像": ""
+        "おそうじ童子の像": "Sweepy Samurai Statue"
     },
     "13263": {
         "clarity_nt_char_4072": "clarity_nt_char_4072"
     },
     "13264": {
-        "カメラこぞうの像": ""
+        "カメラこぞうの像": "Clicksy Statue"
     },
     "13265": {
         "clarity_nt_char_4073": "clarity_nt_char_4073"
@@ -39798,7 +39798,7 @@
         "ホタルビーの像": "Firefly Statue"
     },
     "13267": {
-        "おすもっこりの像": ""
+        "おすもっこりの像": "Sumo Wrapper Statue"
     },
     "13268": {
         "clarity_nt_char_4074": "clarity_nt_char_4074"
@@ -39840,37 +39840,37 @@
         "竜族人形男のライト": "Dragon Boy Light"
     },
     "13281": {
-        "スラシャボンの像": ""
+        "スラシャボンの像": "Liq. Soap Slime Statue"
     },
     "13282": {
         "clarity_nt_char_4078": "clarity_nt_char_4078"
     },
     "13283": {
-        "サウルステントウの像": ""
+        "サウルステントウの像": "Ladyceratops Statue"
     },
     "13284": {
         "clarity_nt_char_4079": "clarity_nt_char_4079"
     },
     "13285": {
-        "きなこづちの像": ""
+        "きなこづちの像": "Honeyhood Statue"
     },
     "13286": {
-        "カレーサタンの像": ""
+        "カレーサタンの像": "Curry Imp Statue"
     },
     "13287": {
         "clarity_nt_char_4080": "clarity_nt_char_4080"
     },
     "13288": {
-        "ヒッチハイクデビルの像": "Hitchhike Devil Picture"
+        "ヒッチハイクデビルの像": "Hitchhike Devil Statue"
     },
     "13289": {
-        "ちゃばしらこぞうの像": ""
+        "ちゃばしらこぞうの像": "Tea Candle Statue"
     },
     "13290": {
         "clarity_nt_char_4081": "clarity_nt_char_4081"
     },
     "13291": {
-        "はにわにんぎょうの像": ""
+        "はにわにんぎょうの像": "Clay Mannequin Statue"
     },
     "13292": {
         "clarity_nt_char_4082": "clarity_nt_char_4082"
@@ -39882,7 +39882,7 @@
         "clarity_nt_char_4083": "clarity_nt_char_4083"
     },
     "13295": {
-        "はくばのおうじの像": ""
+        "はくばのおうじの像": "Prince Harming Statue"
     },
     "13296": {
         "レインコートの像": "Raincoat Statue"
@@ -39891,7 +39891,7 @@
         "clarity_nt_char_4084": "clarity_nt_char_4084"
     },
     "13298": {
-        "ガラクタ映写機": ""
+        "ガラクタ映写機": "Junk Film Projector"
     },
     "13299": {
         "小鳥の柵・白": ""
@@ -40122,22 +40122,22 @@
         "ルティチャビ像クリーム": ""
     },
     "13375": {
-        "ナウマンコックの像・庭": ""
+        "ナウマンコックの像・庭": "Naumanncook Gdn Statue"
     },
     "13376": {
-        "たたきモグラの像・庭": ""
+        "たたきモグラの像・庭": "Mashing Mole Gdn Statue"
     },
     "13377": {
         "clarity_nt_char_4111": "clarity_nt_char_4111"
     },
     "13378": {
-        "おそうじ童子の像・庭": ""
+        "おそうじ童子の像・庭": "Sweepy Samurai G Statue"
     },
     "13379": {
         "clarity_nt_char_4112": "clarity_nt_char_4112"
     },
     "13380": {
-        "カメラこぞうの像・庭": ""
+        "カメラこぞうの像・庭": "Clicksy Garden Statue"
     },
     "13381": {
         "clarity_nt_char_4113": "clarity_nt_char_4113"
@@ -40146,43 +40146,43 @@
         "ホタルビーの像・庭": "Firefly Garden Statue"
     },
     "13383": {
-        "おすもっこりの像・庭": ""
+        "おすもっこりの像・庭": "Sumo Wrapper Gdn Statue"
     },
     "13384": {
         "clarity_nt_char_4114": "clarity_nt_char_4114"
     },
     "13385": {
-        "スラシャボンの像・庭": ""
+        "スラシャボンの像・庭": "L. Soap Slime Statue(G)"
     },
     "13386": {
         "clarity_nt_char_4115": "clarity_nt_char_4115"
     },
     "13387": {
-        "サウルステントウ像・庭": ""
+        "サウルステントウ像・庭": "Ladyceratops Gdn Statue"
     },
     "13388": {
-        "きなこづちの像・庭": ""
+        "きなこづちの像・庭": "Honeyhood Garden Statue"
     },
     "13389": {
-        "カレーサタンの像・庭": ""
+        "カレーサタンの像・庭": "Curry Imp Garden Statue"
     },
     "13390": {
         "clarity_nt_char_4116": "clarity_nt_char_4116"
     },
     "13391": {
-        "ヒッチハイクデビル像庭": "Hitchhike Devil Garden Statue"
+        "ヒッチハイクデビル像庭": "Hitchhike Devil G Statue"
     },
     "13392": {
-        "ちゃばしらこぞう像・庭": ""
+        "ちゃばしらこぞう像・庭": "Tea Candle Grdn Statue"
     },
     "13393": {
-        "はにわにんぎょう像・庭": ""
+        "はにわにんぎょう像・庭": "Clay Mannequin G Statue"
     },
     "13394": {
         "プリンセスニャン像・庭": "Princess Cat Statue (G)"
     },
     "13395": {
-        "はくばのおうじの像・庭": ""
+        "はくばのおうじの像・庭": "Prince Harming G Statue"
     },
     "13396": {
         "レインコートの像・庭": "Raincoat Garden Statue"
@@ -40284,7 +40284,7 @@
         "clarity_nt_char_4128": "clarity_nt_char_4128"
     },
     "13429": {
-        "ピクニックプクラス": "Puklas Picnic"
+        "ピクニックプクラス": "Pukulas Picnic"
     },
     "13430": {
         "フラッシュタイルラグ庭": ""
@@ -40629,13 +40629,13 @@
         "コロシアムトロフィー翔": ""
     },
     "13544": {
-        "キュルルのポスト": "Qululu Mailbox"
+        "キュルルのポスト": "Kyururu Mailbox"
     },
     "13545": {
         "clarity_nt_char_4168": "clarity_nt_char_4168"
     },
     "13546": {
-        "キュルルの畑": "Qululu Field"
+        "キュルルの畑": "Kyururu Field"
     },
     "13547": {
         "clarity_nt_char_4169": "clarity_nt_char_4169"
@@ -41034,7 +41034,7 @@
         "帝国技術庁の大テーブル": ""
     },
     "13679": {
-        "コールドスリープポッド": "Cryogenic Sleeping Pod"
+        "コールドスリープポッド": "Cryogenic Sleep Pod"
     },
     "13680": {
         "レーザー扉付きついたて": ""
@@ -41421,7 +41421,7 @@
         "clarity_nt_char_4244": "clarity_nt_char_4244"
     },
     "13808": {
-        "イルーシャのぬいぐるみ": ""
+        "イルーシャのぬいぐるみ": "Ilusha Plushie"
     },
     "13809": {
         "コロシアムトロフィー耀": ""
@@ -41535,10 +41535,10 @@
         "ケーキショーケース": "Cake Display Case"
     },
     "13846": {
-        "モモリオン王ぬいぐるみ": ""
+        "モモリオン王ぬいぐるみ": "Sanguini King Plushie"
     },
     "13847": {
-        "トコトコモモリオン王": ""
+        "トコトコモモリオン王": "Trotting Sanguini King"
     },
     "13848": {
         "clarity_nt_char_4255": "clarity_nt_char_4255"
@@ -41580,70 +41580,70 @@
         "clarity_nt_char_4259": "clarity_nt_char_4259"
     },
     "13861": {
-        "アクロバットの像": ""
+        "アクロバットの像": "Acro Bat Statue"
     },
     "13862": {
         "clarity_nt_char_4260": "clarity_nt_char_4260"
     },
     "13863": {
-        "いねかりぞくの像": ""
+        "いねかりぞくの像": "Harvester Statue"
     },
     "13864": {
         "clarity_nt_char_4261": "clarity_nt_char_4261"
     },
     "13865": {
-        "クリームつむりの像": ""
+        "クリームつむりの像": "Cream Slime Statue"
     },
     "13866": {
-        "スイカさまの像": ""
+        "スイカさまの像": "Mr. Watermelon Statue"
     },
     "13867": {
-        "ハラッヘリンの像": ""
+        "ハラッヘリンの像": "Meat Imp Statue"
     },
     "13868": {
         "clarity_nt_char_4262": "clarity_nt_char_4262"
     },
     "13869": {
-        "まんぷく丸の像": ""
+        "まんぷく丸の像": "Rice Ball Baby Statue"
     },
     "13870": {
-        "ペンシルボーイの像": ""
+        "ペンシルボーイの像": "Prancing Pencil Statue"
     },
     "13871": {
-        "おにびの像": ""
+        "おにびの像": "Onibi Statue"
     },
     "13872": {
-        "アクロバットの像・庭": ""
+        "アクロバットの像・庭": "Acro Bat Garden Statue"
     },
     "13873": {
         "clarity_nt_char_4263": "clarity_nt_char_4263"
     },
     "13874": {
-        "いねかりぞくの像・庭": ""
+        "いねかりぞくの像・庭": "Harvester Garden Statue"
     },
     "13875": {
         "clarity_nt_char_4264": "clarity_nt_char_4264"
     },
     "13876": {
-        "クリームつむりの像・庭": ""
+        "クリームつむりの像・庭": "Cream Slime Grdn Statue"
     },
     "13877": {
-        "スイカさまの像・庭": ""
+        "スイカさまの像・庭": "Mr. Watermelon G Statue"
     },
     "13878": {
-        "ハラッヘリンの像・庭": ""
+        "ハラッヘリンの像・庭": "Meat Imp Garden Statue"
     },
     "13879": {
         "clarity_nt_char_4265": "clarity_nt_char_4265"
     },
     "13880": {
-        "まんぷく丸の像・庭": ""
+        "まんぷく丸の像・庭": "Rice Ball Baby G Statue"
     },
     "13881": {
-        "ペンシルボーイの像・庭": ""
+        "ペンシルボーイの像・庭": "Prancing Pencil StatueG"
     },
     "13882": {
-        "おにびの像・庭": ""
+        "おにびの像・庭": "Onibi Garden Statue"
     },
     "13883": {
         "イースターアーチ": "Easter Arch"
@@ -41667,7 +41667,7 @@
         "カミルパラソル": "Kamil Umbrella"
     },
     "13890": {
-        "マローネパラソル": ""
+        "マローネパラソル": "Marone Umbrella"
     },
     "13891": {
         "clarity_nt_char_4268": "clarity_nt_char_4268"
@@ -41682,16 +41682,16 @@
         "メレアーデパラソル": "Mereade Umbrella"
     },
     "13895": {
-        "イルーシャパラソル": ""
+        "イルーシャパラソル": "Ilusha Umbrella"
     },
     "13896": {
-        "ヴァレリアパラソル": ""
+        "ヴァレリアパラソル": "Valeria Umbrella"
     },
     "13897": {
         "パラディンパラソル": "Paladin Parasol"
     },
     "13898": {
-        "ユシュカパラソル": ""
+        "ユシュカパラソル": "Yushka Umbrella"
     },
     "13899": {
         "clarity_nt_char_4270": "clarity_nt_char_4270"
@@ -41721,7 +41721,7 @@
         "clarity_nt_char_4274": "clarity_nt_char_4274"
     },
     "13908": {
-        "パドレパラソル": ""
+        "パドレパラソル": "Padre Umbrella"
     },
     "13909": {
         "ラウルパラソル": "Raul Umbrella"
@@ -41748,7 +41748,7 @@
         "ピクニッククロニコ": "Chroniko Picnic"
     },
     "13917": {
-        "ピクニックモモンタル": "Momontal Picnic"
+        "ピクニックモモンタル": "Sanguintal Picnic"
     },
     "13918": {
         "clarity_nt_char_4278": "clarity_nt_char_4278"
@@ -42717,7 +42717,7 @@
         "clarity_nt_char_4380": "clarity_nt_char_4380"
     },
     "14240": {
-        "ふわふわフラフ": "Fluffy Grey Small Fry"
+        "ふわふわフラフ": "Fluffy Gray Small Fry"
     },
     "14241": {
         "オトシゴスティック": "Seahorse Stick"
@@ -52680,25 +52680,25 @@
         "clarity_nt_char_5507": "clarity_nt_char_5507"
     },
     "17561": {
-        "キュルル型の|赤い打ち上げ花火|使ったらなくなる": "Qululu shaped|red fireworks."
+        "キュルル型の|赤い打ち上げ花火|使ったらなくなる": "Kyururu shaped|red fireworks."
     },
     "17562": {
         "clarity_nt_char_5508": "clarity_nt_char_5508"
     },
     "17563": {
-        "キュルル型の|虹の打ち上げ花火|使ったらなくなる": "Qululu shaped|rainbow|fireworks."
+        "キュルル型の|虹の打ち上げ花火|使ったらなくなる": "Kyururu shaped|rainbow|fireworks."
     },
     "17564": {
         "clarity_nt_char_5509": "clarity_nt_char_5509"
     },
     "17565": {
-        "キュルル型の|緑の打ち上げ花火|使ったらなくなる": "Qululu shaped|green|fireworks."
+        "キュルル型の|緑の打ち上げ花火|使ったらなくなる": "Kyururu shaped|green|fireworks."
     },
     "17566": {
         "clarity_nt_char_5510": "clarity_nt_char_5510"
     },
     "17567": {
-        "キュルル型の|黄の打ち上げ花火|使ったらなくなる": "Qululu shaped|yellow|fireworks."
+        "キュルル型の|黄の打ち上げ花火|使ったらなくなる": "Kyururu shaped|yellow|fireworks."
     },
     "17568": {
         "clarity_nt_char_5511": "clarity_nt_char_5511"
@@ -68907,7 +68907,7 @@
         "鋭くとがった|やいば型のルアー": "Spear-shaped|pointy lure."
     },
     "22970": {
-        "釣り老師か|おさかな交換員へ|持っていこう！": "Take it to the|old fisher or|fish exchange!"
+        "釣り老師か|おさかな交換員へ|持っていこう！": "Take it to the|fish master or|fish exchange!"
     },
     "22971": {
         "clarity_nt_char_7297": "clarity_nt_char_7297"
@@ -77121,7 +77121,7 @@
         "clarity_nt_char_8238": "clarity_nt_char_8238"
     },
     "25708": {
-        "あなたの肩に|ふわふわ浮かぶ|銀翼竜のヒナ": "Fluffy floating|grey Small Fry|on the shoulder."
+        "あなたの肩に|ふわふわ浮かぶ|銀翼竜のヒナ": "Fluffy floating|gray Small Fry|on the shoulder."
     },
     "25709": {
         "タツノオトシゴと|そっくりな|可愛いスティック": "Cute wand that|looks just like|a seahorse."
@@ -77238,7 +77238,7 @@
         "チューリップの|形をまねた|可愛い水色の傘": ""
     },
     "25747": {
-        "ふわふわ浮かぶ|フラフ人形が|入っている箱": "Box contains a|fluffy floating|grey Small Fry."
+        "ふわふわ浮かぶ|フラフ人形が|入っている箱": "Box contains a|fluffy floating|gray Small Fry."
     },
     "25748": {
         "魔犬レオパルドコイン": "Evil Sir Leopold Coin"
@@ -77721,7 +77721,7 @@
         "clarity_nt_char_8304": "clarity_nt_char_8304"
     },
     "25908": {
-        "ヴァレリアトランプ": ""
+        "ヴァレリアトランプ": "Valeria Game Card"
     },
     "25909": {
         "アスバルトランプ": "Asbal Game Card"
@@ -77730,7 +77730,7 @@
         "clarity_nt_char_8305": "clarity_nt_char_8305"
     },
     "25911": {
-        "イルーシャトランプ": ""
+        "イルーシャトランプ": "Ilusha Game Card"
     },
     "25912": {
         "カンフー使いに|よく似合う|独特な形のぼうし": ""
@@ -78762,7 +78762,7 @@
         "clarity_nt_char_8417": "clarity_nt_char_8417"
     },
     "26255": {
-        "トライロック": ""
+        "トライロック": "Trilock"
     },
     "26256": {
         "clarity_nt_char_8418": "clarity_nt_char_8418"
@@ -78804,7 +78804,7 @@
         "コロシアムトロフィー煌": ""
     },
     "26269": {
-        "お月サマーの像": ""
+        "お月サマーの像": "Summer Moon Statue"
     },
     "26270": {
         "干し柿のれん": ""
@@ -80520,13 +80520,13 @@
         "clarity_nt_char_8610": "clarity_nt_char_8610"
     },
     "26841": {
-        "ユシュカのぬいぐるみ": ""
+        "ユシュカのぬいぐるみ": "Yushka Plushie"
     },
     "26842": {
         "clarity_nt_char_8611": "clarity_nt_char_8611"
     },
     "26843": {
-        "ヴァレリアのぬいぐるみ": ""
+        "ヴァレリアのぬいぐるみ": "Valeria Plushie"
     },
     "26844": {
         "アスバルのぬいぐるみ": "Asbal Plushie"
@@ -80595,7 +80595,7 @@
         "魔剣士専用|経験値２５０００|入手できる本": "Read to receive|25,000 EXP.|For DMN only."
     },
     "26866": {
-        "第９回ヴァレリアの像": ""
+        "第９回ヴァレリアの像": "9th Valeria Statue"
     },
     "26867": {
         "clarity_nt_char_8619": "clarity_nt_char_8619"
@@ -80607,7 +80607,7 @@
         "clarity_nt_char_8620": "clarity_nt_char_8620"
     },
     "26870": {
-        "第９回イルーシャの像": ""
+        "第９回イルーシャの像": "9th Ilusha Statue"
     },
     "26871": {
         "clarity_nt_char_8621": "clarity_nt_char_8621"
@@ -80649,7 +80649,7 @@
         "clarity_nt_char_8625": "clarity_nt_char_8625"
     },
     "26884": {
-        "第８回パドレの像": ""
+        "第８回パドレの像": "8th Padre Statue"
     },
     "26885": {
         "clarity_nt_char_8626": "clarity_nt_char_8626"
@@ -80664,7 +80664,7 @@
         "第８回ファラスの像": ""
     },
     "26889": {
-        "第８回ナジーンの像": ""
+        "第８回ナジーンの像": "8th Nazine Statue"
     },
     "26890": {
         "大矛をたずさえる|氷の魔王|ヴァレリアの像": ""
@@ -81078,7 +81078,7 @@
         "風を切って走る|ライダー愛用の|イケてるブーツ": ""
     },
     "27027": {
-        "ナジーントランプ": ""
+        "ナジーントランプ": "Nazine Game Card"
     },
     "27028": {
         "clarity_nt_char_8670": "clarity_nt_char_8670"
@@ -81090,7 +81090,7 @@
         "clarity_nt_char_8671": "clarity_nt_char_8671"
     },
     "27031": {
-        "エルガドーラトランプ": ""
+        "エルガドーラトランプ": "Elgadra Game Card"
     },
     "27032": {
         "clarity_nt_char_8672": "clarity_nt_char_8672"
@@ -81297,7 +81297,7 @@
         "美女の家具と|交換できる|チケット": "Exchange for|beautiful|furniture."
     },
     "27100": {
-        "魔勇者カプセル": "Demon Hero Capsule"
+        "魔勇者カプセル": "Evil Hero Capsule"
     },
     "27101": {
         "正月ボーイカプセル": "New Year Boy Capsule"
@@ -82080,22 +82080,22 @@
         "clarity_nt_char_8775": "clarity_nt_char_8775"
     },
     "27361": {
-        "ハルファスの大紋章": "Great Halphas Crest"
+        "ハルファスの大紋章": "Halphas Large Crest"
     },
     "27362": {
-        "アガレスの大紋章": ""
+        "アガレスの大紋章": "Agares Large Crest"
     },
     "27363": {
         "clarity_nt_char_8776": "clarity_nt_char_8776"
     },
     "27364": {
-        "ブエルの大紋章": "Buer's Coat of Arms"
+        "ブエルの大紋章": "Buer Large Crest"
     },
     "27365": {
-        "アモンの大紋章": ""
+        "アモンの大紋章": "Amon Large Crest"
     },
     "27366": {
-        "グレモリーの大紋章": "Gremory's Great Crest"
+        "グレモリーの大紋章": "Gremory Large Crest"
     },
     "27367": {
         "攻撃力と|最大ＨＰが上がる|魔神の大紋章": ""
@@ -82584,7 +82584,7 @@
         "霞がかったように|おぼろげな水晶|職人のための素材": "Dim round|crystal filled|with a haze."
     },
     "27529": {
-        "万魔の大紋章の破片": "Great Manma Crest Shard"
+        "万魔の大紋章の破片": "Manma Large Crest Shard"
     },
     "27530": {
         "ホタルのゆかた": "Firefly Yukata"
@@ -82974,7 +82974,7 @@
         "幻界王の首かざりの破片": "Phantom King's Necklace Shard"
     },
     "27659": {
-        "モモリオンの王冠": ""
+        "モモリオンの王冠": "Sanguini King's Crown"
     },
     "27660": {
         "clarity_nt_char_8865": "clarity_nt_char_8865"
@@ -83496,7 +83496,7 @@
         "clarity_nt_char_8920": "clarity_nt_char_8920"
     },
     "27833": {
-        "幻想蝶のウィング": "Phantom Butterfly Wing"
+        "幻想蝶のウィング": "Fantasy Butterfly Wing"
     },
     "27834": {
         "clarity_nt_char_8921": "clarity_nt_char_8921"
@@ -83511,7 +83511,7 @@
         "clarity_nt_char_8922": "clarity_nt_char_8922"
     },
     "27838": {
-        "幻想蝶のウィングの箱": "Phtm Butterfly Wing Box"
+        "幻想蝶のウィングの箱": "Fantasy Btrfly Wing Box"
     },
     "27839": {
         "clarity_nt_char_8923": "clarity_nt_char_8923"
@@ -84129,7 +84129,7 @@
         "clarity_nt_char_8985": "clarity_nt_char_8985"
     },
     "28044": {
-        "マデサゴーラトランプ": ""
+        "マデサゴーラトランプ": "Madesagora Game Card"
     },
     "28045": {
         "clarity_nt_char_8986": "clarity_nt_char_8986"
@@ -84192,13 +84192,13 @@
         "clarity_nt_char_8991": "clarity_nt_char_8991"
     },
     "28065": {
-        "第９回ヴァレリアの像庭": ""
+        "第９回ヴァレリアの像庭": "9th Valeria Gdn Statue"
     },
     "28066": {
         "第９回パラディンの像庭": ""
     },
     "28067": {
-        "第９回イルーシャの像庭": ""
+        "第９回イルーシャの像庭": "9th Ilusha Grdn Statue"
     },
     "28068": {
         "第９回カミルの像庭": "9th Kamil Garden Statue"
@@ -84237,7 +84237,7 @@
         "第８回ラウルの像庭": "8th Raul Garden Statue"
     },
     "28080": {
-        "第８回パドレの像庭": ""
+        "第８回パドレの像庭": "8th Padre Garden Statue"
     },
     "28081": {
         "第８回ナラジアの像庭": ""
@@ -84258,7 +84258,7 @@
         "clarity_nt_char_8998": "clarity_nt_char_8998"
     },
     "28087": {
-        "第８回ナジーンの像庭": ""
+        "第８回ナジーンの像庭": "8th Nazine Grdn Statue"
     },
     "28088": {
         "clarity_nt_char_8999": "clarity_nt_char_8999"
@@ -84414,28 +84414,28 @@
         "clarity_nt_char_9015": "clarity_nt_char_9015"
     },
     "28139": {
-        "マデサゴーラの背景": ""
+        "マデサゴーラの背景": "Madesagora Background"
     },
     "28140": {
         "大富豪用の背景|つかってケースに|入れよう": ""
     },
     "28141": {
-        "イルーシャの服上": ""
+        "イルーシャの服上": "Ilusha's Dress Top"
     },
     "28142": {
         "clarity_nt_char_9016": "clarity_nt_char_9016"
     },
     "28143": {
-        "イルーシャの服下": ""
+        "イルーシャの服下": "Ilusha's Dress Bottom"
     },
     "28144": {
         "clarity_nt_char_9017": "clarity_nt_char_9017"
     },
     "28145": {
-        "イルーシャのうでわ": ""
+        "イルーシャのうでわ": "Ilusha's Bracelets"
     },
     "28146": {
-        "イルーシャのくつ": ""
+        "イルーシャのくつ": "Ilusha's Shoes"
     },
     "28147": {
         "clarity_nt_char_9018": "clarity_nt_char_9018"
@@ -84468,13 +84468,13 @@
         "clarity_nt_char_9022": "clarity_nt_char_9022"
     },
     "28157": {
-        "第６回スライムレース金": ""
+        "第６回スライムレース金": "6th Slime Race Gold"
     },
     "28158": {
-        "第６回スライムレース銀": ""
+        "第６回スライムレース銀": "6th Slime Race Silver"
     },
     "28159": {
-        "第６回スライムレース": ""
+        "第６回スライムレース": "6th Slime Race"
     },
     "28160": {
         "clarity_nt_char_9023": "clarity_nt_char_9023"

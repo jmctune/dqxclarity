@@ -90,7 +90,7 @@
         "亡都の地下堂 入口": ""
     },
     "31": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>紋章前": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>紋章前": "<%sW_MAP_NAME><%sW_DELIMITER>Crest"
     },
     "32": {
         "clarity_nt_char_3": "clarity_nt_char_3"
@@ -312,7 +312,7 @@
         "clarity_nt_char_31": "clarity_nt_char_31"
     },
     "105": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>封印の間": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>封印の間": "<%sW_MAP_NAME><%sW_DELIMITER>Sealed Room"
     },
     "106": {
         "<%sW_MAP_NAME><%sW_DELIMITER>謎の半球体地帯": ""
@@ -636,13 +636,13 @@
         "clarity_nt_char_67": "clarity_nt_char_67"
     },
     "213": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>三の島 下層": "<%sW_MAP_NAME><%sW_DELIMITER>Three Isle Und."
+        "<%sW_MAP_NAME><%sW_DELIMITER>三の島 下層": "<%sW_MAP_NAME><%sW_DELIMITER>3rd Isle Lower"
     },
     "214": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>三の島 上層": "<%sW_MAP_NAME><%sW_DELIMITER>Three Isle Upr."
+        "<%sW_MAP_NAME><%sW_DELIMITER>三の島 上層": "<%sW_MAP_NAME><%sW_DELIMITER>3rd Isle Upper"
     },
     "215": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>一の島への道": "<%sW_MAP_NAME><%sW_DELIMITER>1st Isle Road"
+        "<%sW_MAP_NAME><%sW_DELIMITER>一の島への道": "<%sW_MAP_NAME><%sW_DELIMITER>Road to 1st Isle"
     },
     "216": {
         "<%sW_MAP_NAME><%sW_DELIMITER>二の島への道": "<%sW_MAP_NAME><%sW_DELIMITER>Road to Two Tower"
@@ -2601,7 +2601,7 @@
         "モリナラ地下洞・深淵 出口": ""
     },
     "868": {
-        "キュララナ海岸への出口": "Exit to Curalana Coast"
+        "キュララナ海岸への出口": "Exit to Kyurarana Coast"
     },
     "869": {
         "グレン城 入口": "Glen Castle Entry"
@@ -2766,13 +2766,13 @@
         "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>うるわしの浜辺地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Beautiful Beach"
     },
     "923": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>二の島 上層": "<%sW_MAP_NAME><%sW_DELIMITER>Two Isle Upper"
+        "<%sW_MAP_NAME><%sW_DELIMITER>二の島 上層": "<%sW_MAP_NAME><%sW_DELIMITER>2nd Isle Upper"
     },
     "924": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>三の島 中層": "<%sW_MAP_NAME><%sW_DELIMITER>Three Isle Mid."
+        "<%sW_MAP_NAME><%sW_DELIMITER>三の島 中層": "<%sW_MAP_NAME><%sW_DELIMITER>3rd Isle Middle"
     },
     "925": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>二の島 下層": "<%sW_MAP_NAME><%sW_DELIMITER>Two Isle Lower"
+        "<%sW_MAP_NAME><%sW_DELIMITER>二の島 下層": "<%sW_MAP_NAME><%sW_DELIMITER>2nd Isle Lower"
     },
     "926": {
         "<%sW_MAP_NAME><%sW_DELIMITER>四の島": ""
@@ -2787,7 +2787,7 @@
         "clarity_nt_char_295": "clarity_nt_char_295"
     },
     "930": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>三の島への道": "<%sW_MAP_NAME><%sW_DELIMITER>Three Isle Road"
+        "<%sW_MAP_NAME><%sW_DELIMITER>三の島への道": "<%sW_MAP_NAME><%sW_DELIMITER>Road to 3rd Isle"
     },
     "931": {
         "採掘現場地区": "Dig Site"
@@ -3381,13 +3381,13 @@
         "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>星降る展望台<%sW_AUTODUNG_CF>": ""
     },
     "1128": {
-        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>闘士の鐘楼<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%dW_AUTODUNG_LV><%sW_DELIMITER>Warrior's Bell<%sW_AUTODUNG_CF>"
+        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>闘士の鐘楼<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%dW_AUTODUNG_LV><%sW_DELIMITER>Fighter's Bell<%sW_AUTODUNG_CF>"
     },
     "1129": {
         "clarity_nt_char_358": "clarity_nt_char_358"
     },
     "1130": {
-        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>禁断の魔蔵庫<%sW_AUTODUNG_CF>": ""
+        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>禁断の魔蔵庫<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%dW_AUTODUNG_LV><%sW_DELIMITER>Forbidden Storage<%sW_AUTODUNG_CF>"
     },
     "1131": {
         "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>永久封鎖機巧<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%dW_AUTODUNG_LV><%sW_DELIMITER>Sealed Chamber<%sW_AUTODUNG_CF>"
@@ -3438,7 +3438,7 @@
         "clarity_nt_char_364": "clarity_nt_char_364"
     },
     "1147": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>封印の間 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Seal Room Entrance"
+        "<%sW_MAP_NAME><%sW_DELIMITER>封印の間 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Sealed Room Entry"
     },
     "1148": {
         "clarity_nt_char_365": "clarity_nt_char_365"
@@ -3663,7 +3663,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>地下８階": "<%sW_MAP_NAME><%sW_DELIMITER>B8F"
     },
     "1222": {
-        "メルサンディ穀倉帯への道": "Melsandy Granary Belt Way"
+        "メルサンディ穀倉帯への道": "Road to Melsandy Granary Belt"
     },
     "1223": {
         "clarity_nt_char_386": "clarity_nt_char_386"
@@ -3993,13 +3993,13 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>星降る展望台": ""
     },
     "1332": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>闘士の鐘楼": "<%sW_MAP_NAME><%sW_DELIMITER>Warrior's Bell"
+        "<%sW_MAP_NAME><%sW_DELIMITER>闘士の鐘楼": "<%sW_MAP_NAME><%sW_DELIMITER>Fighter's Bell"
     },
     "1333": {
         "clarity_nt_char_420": "clarity_nt_char_420"
     },
     "1334": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>禁断の魔蔵庫": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>禁断の魔蔵庫": "<%sW_MAP_NAME><%sW_DELIMITER>Forbidden Storage"
     },
     "1335": {
         "<%sW_MAP_NAME><%sW_DELIMITER>永久封鎖機巧": "<%sW_MAP_NAME><%sW_DELIMITER>Sealed Chamber"
@@ -4383,7 +4383,7 @@
         "clarity_nt_char_452": "clarity_nt_char_452"
     },
     "1462": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下９階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下９階": "<%sW_MAP_NAME><%sW_DELIMITER>B9F"
     },
     "1463": {
         "<%sW_MAP_NAME><%sW_DELIMITER>滅びの街": ""
@@ -4449,7 +4449,7 @@
         "clarity_nt_char_461": "clarity_nt_char_461"
     },
     "1484": {
-        "ナシームの洞くつ 入口": ""
+        "ナシームの洞くつ 入口": "Nassim's Cave Entry"
     },
     "1485": {
         "日除けのほら穴 出口": "Awning Cave Exit"
@@ -4473,7 +4473,7 @@
         "clarity_nt_char_464": "clarity_nt_char_464"
     },
     "1492": {
-        "ナシームの洞くつ 出口": ""
+        "ナシームの洞くつ 出口": "Nassim's Cave Exit"
     },
     "1493": {
         "アラハギーロ地方への道": "Road to Arahagiro Region"
@@ -4845,7 +4845,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-倉庫": "<%sW_MAP_NAME><%sW_DELIMITER>W. Tower Storage"
     },
     "1616": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>秘密の地下通廊": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>秘密の地下通廊": "<%sW_MAP_NAME><%sW_DELIMITER>Secret Corridor"
     },
     "1617": {
         "clarity_nt_char_508": "clarity_nt_char_508"
@@ -5250,7 +5250,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>開かずの間・前室": "Unseen Room Chamber"
     },
     "1751": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下倉庫": "Basement Storage"
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下倉庫": "<%sW_MAP_NAME><%sW_DELIMITER>Storage"
     },
     "1752": {
         "<%sW_MAP_NAME><%sW_DELIMITER>開かずの間": "Unseen Room"
@@ -5622,7 +5622,7 @@
         "王家の迷宮": "Royal Maze"
     },
     "1875": {
-        "王家の迷宮 地下<%nW_AUTODUNG_LV>階": ""
+        "王家の迷宮 地下<%nW_AUTODUNG_LV>階": "Royal Maze B<%dW_AUTODUNG_LV>F"
     },
     "1876": {
         "clarity_nt_char_587": "clarity_nt_char_587"
@@ -5781,7 +5781,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>長屋": "<%sW_MAP_NAME><%sW_DELIMITER>House"
     },
     "1928": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>まとめ屋": "<%sW_MAP_NAME><%sW_DELIMITER>Summ. Shop"
+        "<%sW_MAP_NAME><%sW_DELIMITER>まとめ屋": "<%sW_MAP_NAME><%sW_DELIMITER>Summary Shop"
     },
     "1929": {
         "孤島の修道院 出口": "Island Monastery Exit"
@@ -6054,7 +6054,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>幻影の間": ""
     },
     "2019": {
-        "グランマーズの館 出口": ""
+        "グランマーズの館 出口": "Gran Mars House Exit"
     },
     "2020": {
         "光の神殿への扉": ""
@@ -6162,7 +6162,7 @@
         "clarity_nt_char_642": "clarity_nt_char_642"
     },
     "2055": {
-        "スイの塔地下階 入口": ""
+        "スイの塔地下階 入口": "Sui Tower Basement Entry"
     },
     "2056": {
         "clarity_nt_char_643": "clarity_nt_char_643"
@@ -6198,10 +6198,10 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>達人": "<%sW_MAP_NAME><%sW_DELIMITER>Master"
     },
     "2067": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下水脈": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下水脈": "<%sW_MAP_NAME><%sW_DELIMITER>Water Vein"
     },
     "2068": {
-        "地下水脈 出口": ""
+        "地下水脈 出口": "Water Vein Exit"
     },
     "2069": {
         "<%sW_MAP_NAME><%sW_DELIMITER>ナッチョスのテント": "<%sW_MAP_NAME><%sW_DELIMITER>Natchos' Tent"
@@ -6246,7 +6246,7 @@
         "clarity_nt_char_651": "clarity_nt_char_651"
     },
     "2083": {
-        "ナドラガ教団大神殿 入口": ""
+        "ナドラガ教団大神殿 入口": "Nadraga Great Cult Temple Entry"
     },
     "2084": {
         "clarity_nt_char_652": "clarity_nt_char_652"
@@ -6375,7 +6375,7 @@
         "clarity_nt_char_667": "clarity_nt_char_667"
     },
     "2126": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>変換屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>変換屋": "<%sW_MAP_NAME><%sW_DELIMITER>Converter"
     },
     "2127": {
         "clarity_nt_char_668": "clarity_nt_char_668"
@@ -6429,7 +6429,7 @@
         "clarity_nt_char_674": "clarity_nt_char_674"
     },
     "2144": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>札強化屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>札強化屋": "Card Enhance"
     },
     "2145": {
         "<%sW_MAP_NAME><%sW_DELIMITER>ギダの家": "<%sW_MAP_NAME><%sW_DELIMITER>Gida's House"
@@ -6441,7 +6441,7 @@
         "clarity_nt_char_675": "clarity_nt_char_675"
     },
     "2148": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>釜デコ屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>釜デコ屋": "<%sW_MAP_NAME><%sW_DELIMITER>Pot Decor"
     },
     "2149": {
         "<%sW_MAP_NAME><%sW_DELIMITER>悲しみの湖": ""
@@ -6483,7 +6483,7 @@
         "clarity_nt_char_680": "clarity_nt_char_680"
     },
     "2162": {
-        "恵みの木 入口": ""
+        "恵みの木 入口": "Grace Tree Entry"
     },
     "2163": {
         "氷晶の聖塔 入口": ""
@@ -7632,7 +7632,7 @@
         "clarity_nt_char_798": "clarity_nt_char_798"
     },
     "2545": {
-        "ムストの町・地下 入口": ""
+        "ムストの町・地下 入口": "Must Village - Basement Entry"
     },
     "2546": {
         "神獣の森 入口": ""
@@ -7662,7 +7662,7 @@
         "clarity_nt_char_801": "clarity_nt_char_801"
     },
     "2555": {
-        "錬金屋": ""
+        "錬金屋": "Alchemy"
     },
     "2556": {
         "スキルノート": ""
@@ -8001,7 +8001,7 @@
         "clarity_nt_char_839": "clarity_nt_char_839"
     },
     "2668": {
-        "大神殿・地下 出口": ""
+        "大神殿・地下 出口": "Great Temple Under Exit"
     },
     "2669": {
         "幽遠の牢獄 入口": ""
@@ -8172,7 +8172,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>第二倉庫": ""
     },
     "2725": {
-        "キュララナ海岸": "Curalana Coast"
+        "キュララナ海岸": "Kyurarana Coast"
     },
     "2726": {
         "資料室 出口": ""
@@ -8187,7 +8187,7 @@
         "clarity_nt_char_861": "clarity_nt_char_861"
     },
     "2730": {
-        "大神殿・地下 入口": ""
+        "大神殿・地下 入口": "Great Temple Under Entry"
     },
     "2731": {
         "<%sW_MAP_NAME><%sW_DELIMITER>メレアーデの部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Mereade's Room"
@@ -8211,7 +8211,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>ゼフの店": "<%sW_MAP_NAME><%sW_DELIMITER>Zef's Shop"
     },
     "2738": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>ヨンゲ所長の家": "<%sW_MAP_NAME><%sW_DELIMITER>Warden Yonge's House"
+        "<%sW_MAP_NAME><%sW_DELIMITER>ヨンゲ所長の家": "<%sW_MAP_NAME><%sW_DELIMITER>Director Yong's House"
     },
     "2739": {
         "clarity_nt_char_863": "clarity_nt_char_863"
@@ -8301,7 +8301,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>牢屋": ""
     },
     "2768": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>軍団長室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>軍団長室": "<%sW_MAP_NAME><%sW_DELIMITER>CDR's Office"
     },
     "2769": {
         "<%sW_MAP_NAME><%sW_DELIMITER>練兵場": ""
@@ -8337,13 +8337,13 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>ユマテル通り": "<%sW_MAP_NAME><%sW_DELIMITER>Umatel Street"
     },
     "2780": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>レトリウス通り": "<%sW_MAP_NAME><%sW_DELIMITER>Retrius Avenue"
+        "<%sW_MAP_NAME><%sW_DELIMITER>レトリウス通り": "<%sW_MAP_NAME><%sW_DELIMITER>Retrius Street"
     },
     "2781": {
         "clarity_nt_char_879": "clarity_nt_char_879"
     },
     "2782": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>キュレクス通り": "<%sW_MAP_NAME><%sW_DELIMITER>Curex Street"
+        "<%sW_MAP_NAME><%sW_DELIMITER>キュレクス通り": "<%sW_MAP_NAME><%sW_DELIMITER>Kyurex Street"
     },
     "2783": {
         "clarity_nt_char_880": "clarity_nt_char_880"
@@ -8472,13 +8472,13 @@
         "clarity_nt_char_894": "clarity_nt_char_894"
     },
     "2825": {
-        "時見の祭壇 出口": ""
+        "時見の祭壇 出口": "Altar of Time Exit"
     },
     "2826": {
         "clarity_nt_char_895": "clarity_nt_char_895"
     },
     "2827": {
-        "時見の祭壇 入口": ""
+        "時見の祭壇 入口": "Altar of Time Entry"
     },
     "2828": {
         "clarity_nt_char_896": "clarity_nt_char_896"
@@ -8499,16 +8499,16 @@
         "灯台のアジト 出口": ""
     },
     "2834": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>生産棟-地下１階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>生産棟-地下１階": "<%sW_MAP_NAME><%sW_DELIMITER>Mfg. Bldg B1F"
     },
     "2835": {
         "<%sW_MAP_NAME><%sW_DELIMITER>生産棟-１階": ""
     },
     "2836": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>研究棟-地下２階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>研究棟-地下２階": "<%sW_MAP_NAME><%sW_DELIMITER>Research B2F"
     },
     "2837": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>研究棟-地下１階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>研究棟-地下１階": "<%sW_MAP_NAME><%sW_DELIMITER>Research B1F"
     },
     "2838": {
         "<%sW_MAP_NAME><%sW_DELIMITER>研究棟-２階": ""
@@ -8556,7 +8556,7 @@
         "デス・ジャンクション 入口": ""
     },
     "2853": {
-        "時見の神殿 出口": ""
+        "時見の神殿 出口": "Temple of Time Exit"
     },
     "2854": {
         "clarity_nt_char_903": "clarity_nt_char_903"
@@ -8571,7 +8571,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>明の食堂": ""
     },
     "2858": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>錬金強化屋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>錬金強化屋": "Alchemy Enhance"
     },
     "2859": {
         "clarity_nt_char_904": "clarity_nt_char_904"
@@ -8679,7 +8679,7 @@
         "<%sW_REP_MIN_4TH_P>エテーネ王国": "Old Ethene Kingdom"
     },
     "2894": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下<%nW_AUTODUNG_FLOOR>階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下<%nW_AUTODUNG_FLOOR>階": "<%sW_MAP_NAME><%sW_DELIMITER>B<%dW_AUTODUNG_FLOOR>F"
     },
     "2895": {
         "clarity_nt_char_918": "clarity_nt_char_918"
@@ -8964,7 +8964,7 @@
         "リンクスの工場": "Lynx's Factory"
     },
     "2989": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下": "<%sW_MAP_NAME><%sW_DELIMITER>Under"
     },
     "2990": {
         "古ガリアル洞 入口": ""
@@ -9189,7 +9189,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>市場": ""
     },
     "3064": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>プクラスの研究室": "<%sW_MAP_NAME><%sW_DELIMITER>Puklas Laboratory"
+        "<%sW_MAP_NAME><%sW_DELIMITER>プクラスの研究室": "<%sW_MAP_NAME><%sW_DELIMITER>Pukulas' Laboratory"
     },
     "3065": {
         "<%sW_MAP_NAME><%sW_DELIMITER>冷眠室": ""
@@ -9204,7 +9204,7 @@
         "灼熱の溶岩窟 入口": ""
     },
     "3069": {
-        "古グルグ地下道 入口": ""
+        "古グルグ地下道 入口": "Old Gulug Underpass Entry"
     },
     "3070": {
         "clarity_nt_char_979": "clarity_nt_char_979"
@@ -9231,13 +9231,13 @@
         "clarity_nt_char_981": "clarity_nt_char_981"
     },
     "3078": {
-        "ウルベア地下帝国 入口": ""
+        "ウルベア地下帝国 入口": "Urbea Underground City Entry"
     },
     "3079": {
         "選王の儀礼場 出口": ""
     },
     "3080": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>はざまの回廊": "<%sW_MAP_NAME><%sW_DELIMITER>Corridor of Space"
+        "<%sW_MAP_NAME><%sW_DELIMITER>はざまの回廊": "<%sW_MAP_NAME><%sW_DELIMITER>Threshold Passage"
     },
     "3081": {
         "古悪鬼の棲みか 出口": ""
@@ -9402,19 +9402,19 @@
         "カルデア空洞 入口": ""
     },
     "3135": {
-        "モグラの洞くつ 出口": ""
+        "モグラの洞くつ 出口": "Mole Cave Exit"
     },
     "3136": {
         "clarity_nt_char_1000": "clarity_nt_char_1000"
     },
     "3137": {
-        "モグラの洞くつ 入口": ""
+        "モグラの洞くつ 入口": "Mole Cave Entry"
     },
     "3138": {
         "clarity_nt_char_1001": "clarity_nt_char_1001"
     },
     "3139": {
-        "はざまの回廊": ""
+        "はざまの回廊": "Threshold Passage"
     },
     "3140": {
         "clarity_nt_char_1002": "clarity_nt_char_1002"
@@ -9666,7 +9666,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>温室内部": ""
     },
     "3223": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>大魔神格納庫": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>大魔神格納庫": "<%sW_MAP_NAME><%sW_DELIMITER>Great God Hanger"
     },
     "3224": {
         "<%sW_MAP_NAME><%sW_DELIMITER>特別監視室": ""
@@ -9771,7 +9771,7 @@
         "clarity_nt_char_1037": "clarity_nt_char_1037"
     },
     "3258": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第５刻地下１階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第５刻地下１階": "<%sW_MAP_NAME><%sW_DELIMITER>5th Time B1F"
     },
     "3259": {
         "clarity_nt_char_1038": "clarity_nt_char_1038"
@@ -9894,7 +9894,7 @@
         "clarity_nt_char_1055": "clarity_nt_char_1055"
     },
     "3299": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下通路": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下通路": "<%sW_MAP_NAME><%sW_DELIMITER>Passage"
     },
     "3300": {
         "<%sW_MAP_NAME><%sW_DELIMITER>小島": "<%sW_MAP_NAME><%sW_DELIMITER>Islet"
@@ -9936,7 +9936,7 @@
         "ジャリムバハ砂漠 入口": ""
     },
     "3313": {
-        "バルディア山岳地帯 入口": ""
+        "バルディア山岳地帯 入口": "Valdia Mountain Area Entry"
     },
     "3314": {
         "clarity_nt_char_1059": "clarity_nt_char_1059"
@@ -9990,7 +9990,7 @@
         "ティプローネ高地 入口": ""
     },
     "3331": {
-        "時見の泉 入口": ""
+        "時見の泉 入口": "Time Spring Entry"
     },
     "3332": {
         "大エテーネ島": "Great Ethene Isle"
@@ -10197,7 +10197,7 @@
         "ステーション機関室": "Station Engine Room"
     },
     "3400": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>ナジーンの部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Najin's Room"
+        "<%sW_MAP_NAME><%sW_DELIMITER>ナジーンの部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Nazine's Room"
     },
     "3401": {
         "clarity_nt_char_1089": "clarity_nt_char_1089"
@@ -10305,7 +10305,7 @@
         "clarity_nt_char_1094": "clarity_nt_char_1094"
     },
     "3436": {
-        "バルディア山岳地帯への道": ""
+        "バルディア山岳地帯への道": "Road to Valdia Mountain Area"
     },
     "3437": {
         "clarity_nt_char_1095": "clarity_nt_char_1095"
@@ -10377,7 +10377,7 @@
         "clarity_nt_char_1102": "clarity_nt_char_1102"
     },
     "3460": {
-        "ガレーの工房": ""
+        "ガレーの工房": "Galley's Workshop"
     },
     "3461": {
         "clarity_nt_char_1103": "clarity_nt_char_1103"
@@ -10422,13 +10422,13 @@
         "clarity_nt_char_1109": "clarity_nt_char_1109"
     },
     "3475": {
-        "時見の泉 出口": ""
+        "時見の泉 出口": "Time Spring Exit"
     },
     "3476": {
         "暗闇のボロ屋 出口": ""
     },
     "3477": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>レグルの書庫": "<%sW_MAP_NAME><%sW_DELIMITER>Leglu's Archives"
+        "<%sW_MAP_NAME><%sW_DELIMITER>レグルの書庫": "<%sW_MAP_NAME><%sW_DELIMITER>Regul's Archives"
     },
     "3478": {
         "<%sW_MAP_NAME><%sW_DELIMITER>居住地区": ""
@@ -10461,7 +10461,7 @@
         "clarity_nt_char_1112": "clarity_nt_char_1112"
     },
     "3488": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>魔剣封印の間": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>魔剣封印の間": "<%sW_MAP_NAME><%sW_DELIMITER>Magic Sealed Room"
     },
     "3489": {
         "<%sW_MAP_NAME><%sW_DELIMITER>集落跡": "<%sW_MAP_NAME><%sW_DELIMITER>Town Ruin"
@@ -10554,13 +10554,13 @@
         "ゼクレス城・魔導広場 出口": ""
     },
     "3519": {
-        "ゼクレス城・地下 出口": ""
+        "ゼクレス城・地下 出口": "Zechres Castle - Under Exit"
     },
     "3520": {
         "ゼクレス城・魔導広場 入口": ""
     },
     "3521": {
-        "ゼクレス城・地下 入口": ""
+        "ゼクレス城・地下 入口": "Zechres Castle - Under Entry"
     },
     "3522": {
         "ゼクレス城・宝物庫 出口": ""
@@ -10737,7 +10737,7 @@
         "大甲虫の古巣 入口": ""
     },
     "3580": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>ガレーの工房": "<%sW_MAP_NAME><%sW_DELIMITER>Galley Workshop"
+        "<%sW_MAP_NAME><%sW_DELIMITER>ガレーの工房": "<%sW_MAP_NAME><%sW_DELIMITER>Galley's Workshop"
     },
     "3581": {
         "<%sW_MAP_NAME><%sW_DELIMITER>酒場２階": ""
@@ -10800,7 +10800,7 @@
         "審判の展望台 出口": ""
     },
     "3601": {
-        "ジャディンの園への道": ""
+        "ジャディンの園への道": "Road to Jyadain Garden"
     },
     "3602": {
         "clarity_nt_char_1149": "clarity_nt_char_1149"
@@ -10875,7 +10875,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>宮殿の間": ""
     },
     "3626": {
-        "オウマの研究室 出口": ""
+        "オウマの研究室 出口": "Ouma's Laboratory Exit"
     },
     "3627": {
         "clarity_nt_char_1158": "clarity_nt_char_1158"
@@ -10917,7 +10917,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>第一の房": "<%sW_MAP_NAME><%sW_DELIMITER>First Trial"
     },
     "3640": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下への階段": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下への階段": "<%sW_MAP_NAME><%sW_DELIMITER>Basement Stairs"
     },
     "3641": {
         "貴賓室 入口": ""
@@ -11016,7 +11016,7 @@
         "真・魔幻宮殿 出口": ""
     },
     "3673": {
-        "イルーシャの部屋": "Irusha's Room"
+        "イルーシャの部屋": "Ilusha's Room"
     },
     "3674": {
         "clarity_nt_char_1175": "clarity_nt_char_1175"
@@ -11046,7 +11046,7 @@
         "血潮の浜辺への出口": "Exit to Bloody Beach"
     },
     "3683": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下牢への階段": "<%sW_MAP_NAME><%sW_DELIMITER>Stairs to Dungeon"
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下牢への階段": "<%sW_MAP_NAME><%sW_DELIMITER>Dungeon Stairs"
     },
     "3684": {
         "clarity_nt_char_1176": "clarity_nt_char_1176"
@@ -11115,7 +11115,7 @@
         "clarity_nt_char_1186": "clarity_nt_char_1186"
     },
     "3706": {
-        "ジャゴヌバ神殿への道": ""
+        "ジャゴヌバ神殿への道": "Road to Jagonuba Temple"
     },
     "3707": {
         "clarity_nt_char_1187": "clarity_nt_char_1187"
@@ -11595,7 +11595,7 @@
         "clarity_nt_char_1241": "clarity_nt_char_1241"
     },
     "3866": {
-        "ルクスガルン大空洞への亀裂": ""
+        "ルクスガルン大空洞への亀裂": "Crevice to Luxgarn Large Cave"
     },
     "3867": {
         "星の塔 入口": "Star Twr. Entry"
@@ -11667,73 +11667,73 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>神儀の間": ""
     },
     "3890": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下道": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下道": "<%sW_MAP_NAME><%sW_DELIMITER>Tunnel"
     },
     "3891": {
         "clarity_nt_char_1250": "clarity_nt_char_1250"
     },
     "3892": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>魔界・地下５階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>魔界・地下５階": "<%sW_MAP_NAME><%sW_DELIMITER>Makai - B5F"
     },
     "3893": {
         "clarity_nt_char_1251": "clarity_nt_char_1251"
     },
     "3894": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>魔界・地下４階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>魔界・地下４階": "<%sW_MAP_NAME><%sW_DELIMITER>Makai - B4F"
     },
     "3895": {
         "clarity_nt_char_1252": "clarity_nt_char_1252"
     },
     "3896": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>魔界・地下３階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>魔界・地下３階": "<%sW_MAP_NAME><%sW_DELIMITER>Makai - B3F"
     },
     "3897": {
         "clarity_nt_char_1253": "clarity_nt_char_1253"
     },
     "3898": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>魔界・地下２階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>魔界・地下２階": "<%sW_MAP_NAME><%sW_DELIMITER>Makai - B2F"
     },
     "3899": {
         "clarity_nt_char_1254": "clarity_nt_char_1254"
     },
     "3900": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>魔界・地下１階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>魔界・地下１階": "<%sW_MAP_NAME><%sW_DELIMITER>Makai - B1F"
     },
     "3901": {
         "clarity_nt_char_1255": "clarity_nt_char_1255"
     },
     "3902": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>盾島・地下４階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>盾島・地下４階": "<%sW_MAP_NAME><%sW_DELIMITER>Shield Isle B4F"
     },
     "3903": {
         "clarity_nt_char_1256": "clarity_nt_char_1256"
     },
     "3904": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>盾島・地下３階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>盾島・地下３階": "<%sW_MAP_NAME><%sW_DELIMITER>Shield Isle B3F"
     },
     "3905": {
         "clarity_nt_char_1257": "clarity_nt_char_1257"
     },
     "3906": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>盾島・地下２階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>盾島・地下２階": "<%sW_MAP_NAME><%sW_DELIMITER>Shield Isle B2F"
     },
     "3907": {
         "clarity_nt_char_1258": "clarity_nt_char_1258"
     },
     "3908": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>盾島・地下１階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>盾島・地下１階": "<%sW_MAP_NAME><%sW_DELIMITER>Shield Isle B1F"
     },
     "3909": {
         "clarity_nt_char_1259": "clarity_nt_char_1259"
     },
     "3910": {
-        "ルクスガルン大空洞 出口": ""
+        "ルクスガルン大空洞 出口": "Luxgarn Large Cave Exit"
     },
     "3911": {
         "clarity_nt_char_1260": "clarity_nt_char_1260"
     },
     "3912": {
-        "ルクスガルン大空洞 入口": ""
+        "ルクスガルン大空洞 入口": "Luxgarn Large Cave Entry"
     },
     "3913": {
         "clarity_nt_char_1261": "clarity_nt_char_1261"
@@ -11802,13 +11802,13 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>湖畔の休憩所": "<%sW_MAP_NAME><%sW_DELIMITER>Lakeside Rest Area"
     },
     "3935": {
-        "ルクスガルン大空洞-盾島": ""
+        "ルクスガルン大空洞-盾島": "Luxgarn Large Cave - Shield Isle"
     },
     "3936": {
         "clarity_nt_char_1269": "clarity_nt_char_1269"
     },
     "3937": {
-        "ルクスガルン大空洞-魔界": ""
+        "ルクスガルン大空洞-魔界": "Luxgarn Large Cave - Demon World"
     },
     "3938": {
         "clarity_nt_char_1270": "clarity_nt_char_1270"

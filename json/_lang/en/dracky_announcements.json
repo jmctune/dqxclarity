@@ -1467,7 +1467,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eから 幻想画バトルに さそわれました！": ""
     },
     "490": {
-        "幻想画バトルへのさそいが 時間切れになりました": "Amazing Art Battle invitation timed out."
+        "幻想画バトルへのさそいが 時間切れになりました": "Fantasy Art Battle invitation timed out."
     },
     "491": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eが 幻想画バトルへのさそいを　取り消した": ""
@@ -3006,7 +3006,7 @@
         "clarity_nt_char_335": "clarity_nt_char_335"
     },
     "1003": {
-        "参加費１０万ポイントを 回収いたしました": ""
+        "参加費１０万ポイントを 回収いたしました": "100,000 P were taken as a fee."
     },
     "1004": {
         "clarity_nt_char_336": "clarity_nt_char_336"
@@ -3609,7 +3609,7 @@
         "clarity_nt_char_404": "clarity_nt_char_404"
     },
     "1204": {
-        "フレンドリストが　いっぱいです！|これ以上　フレンド登録できません。": ""
+        "フレンドリストが　いっぱいです！|これ以上　フレンド登録できません。": "Friends list is full! You can't add anymore|friends."
     },
     "1205": {
         "clarity_nt_char_405": "clarity_nt_char_405"
@@ -4257,7 +4257,7 @@
         "clarity_nt_char_478": "clarity_nt_char_478"
     },
     "1420": {
-        "イルーシャの絵が追加されました！": "Irusha added a new painting!"
+        "イルーシャの絵が追加されました！": "Ilusha added a new painting!"
     },
     "1421": {
         "clarity_nt_char_479": "clarity_nt_char_479"

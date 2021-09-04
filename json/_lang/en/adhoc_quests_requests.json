@@ -1341,10 +1341,10 @@
         "ママリリ": "Mamalily"
     },
     "448": {
-        "宿屋マギー": "Innkpr. Maggie"
+        "宿屋マギー": "Innkeep Maggie"
     },
     "449": {
-        "宿屋ヒナギク": "Innkeeper Hinagiku"
+        "宿屋ヒナギク": "Innkeep Hinagiku"
     },
     "450": {
         "美容師パパーナ": ""
@@ -1395,16 +1395,16 @@
         "けだるいエリー": ""
     },
     "466": {
-        "マダム・ベル": ""
+        "マダム・ベル": "Madame Belle"
     },
     "467": {
-        "マダム・ダニエ": ""
+        "マダム・ダニエ": "Madame Dania"
     },
     "468": {
-        "マダム・ベロア": ""
+        "マダム・ベロア": "Madame Velor"
     },
     "469": {
-        "マダム・サリー": ""
+        "マダム・サリー": "Madame Sally"
     },
     "470": {
         "ドロテア夫人": ""
@@ -2268,10 +2268,10 @@
         "駅員シードル": "Attendant Shidoru"
     },
     "757": {
-        "駅員コダマ": "Attndnt. Kodama"
+        "駅員コダマ": "Attendant Kodma"
     },
     "758": {
-        "駅員ハヤテ": "Attndnt. Hayate"
+        "駅員ハヤテ": "Attendant Hayat"
     },
     "759": {
         "駅員ロニー": "Attendant Ronny"
@@ -2706,7 +2706,7 @@
         "サーリー": ""
     },
     "903": {
-        "イーシャ": ""
+        "イーシャ": "Esha"
     },
     "904": {
         "カリナ": ""
@@ -2730,13 +2730,13 @@
         "美容師イチジク": ""
     },
     "911": {
-        "宿屋アププ": "Innkeeper Apupu"
+        "宿屋アププ": "Innkeep Apupu"
     },
     "912": {
-        "宿屋ホオズキ": "Innkeeper Hozuki"
+        "宿屋ホオズキ": "Innkeep Hozuki"
     },
     "913": {
-        "宿屋キセラ": "Innkpr. Kisera"
+        "宿屋キセラ": "Innkeep Kisera"
     },
     "914": {
         "学徒サンザシ": ""
@@ -2844,7 +2844,7 @@
         "リチュ": ""
     },
     "949": {
-        "マリン": ""
+        "マリン": "Marine"
     },
     "950": {
         "スージー": ""
@@ -2997,7 +2997,7 @@
         "討伐隊員マフー": ""
     },
     "1000": {
-        "料理人ボーラ": ""
+        "料理人ボーラ": "Chef Bora"
     },
     "1001": {
         "料理人ピーラ": ""
@@ -3168,7 +3168,7 @@
         "駅員コウロ": "Attendant Kouro"
     },
     "1057": {
-        "駅員アボット": "Attndnt. Abbott"
+        "駅員アボット": "Attendant Abbot"
     },
     "1058": {
         "駅員ビーン": "Attendant Bean"
@@ -3177,19 +3177,19 @@
         "駅員ベント": "Attendant Bento"
     },
     "1060": {
-        "駅員ピケット": "Attndnt. Picket"
+        "駅員ピケット": "Attendant Piket"
     },
     "1061": {
         "駅員ポート": "Attendant Boto"
     },
     "1062": {
-        "駅員ペインズ": "Attndnt. Peinzu"
+        "駅員ペインズ": "Attendant Penzu"
     },
     "1063": {
         "駅員バルフ": "Attendant Balf"
     },
     "1064": {
-        "駅員ボウマン": "Attndnt. Bowman"
+        "駅員ボウマン": "Attendant Bowma"
     },
     "1065": {
         "駅員コチョ": "Attendant Kocho"
@@ -4491,7 +4491,7 @@
         "神代の春の歌": ""
     },
     "1498": {
-        "三闘士の導き": ""
+        "三闘士の導き": "3 Fighter Guidance"
     },
     "1499": {
         "王者の継承": "Champ Successor"
@@ -4998,7 +4998,7 @@
         "青の港町から": "The Blue Port Town"
     },
     "1667": {
-        "猛き闘士の結晶": "Fierce Warrior Jewel"
+        "猛き闘士の結晶": "Fierce Fighter Jewel"
     },
     "1668": {
         "幸福のモコモコ": "Fluff of Happiness"
@@ -5556,7 +5556,7 @@
         "神代の春の歌": ""
     },
     "1853": {
-        "三闘士の導き": ""
+        "三闘士の導き": "3 Fighter Guidance"
     },
     "1854": {
         "王者の継承": "Champ Successor"
@@ -5733,7 +5733,7 @@
         "青の港町から": "The Blue Port Town"
     },
     "1912": {
-        "猛き闘士の結晶": "Fierce Warrior Jewel"
+        "猛き闘士の結晶": "Fierce Fighter Jewel"
     },
     "1913": {
         "幸福のモコモコ": "Fluff of Happiness"
@@ -6825,7 +6825,7 @@
         "恋するチカ": ""
     },
     "2276": {
-        "チッチ": ""
+        "チッチ": "Chitchi"
     },
     "2277": {
         "ミルル": ""

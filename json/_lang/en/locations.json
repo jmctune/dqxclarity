@@ -783,7 +783,7 @@
         "clarity_nt_char_93": "clarity_nt_char_93"
     },
     "262": {
-        "キュララナ海岸": "Curalana Coast"
+        "キュララナ海岸": "Kyurarana Coast"
     },
     "263": {
         "神々の間": "Hall of Gods"
@@ -1539,13 +1539,13 @@
         "<%sW_REP_MAX_2ND_R>メルン水車郷": "<%sW_REP_MAX_2ND_R>Melun Waterwheel"
     },
     "514": {
-        "謎の地下水路": "Undergrd Waterway"
+        "謎の地下水路": "Undergrd. Waterway"
     },
     "515": {
         "clarity_nt_char_184": "clarity_nt_char_184"
     },
     "516": {
-        "謎の地底湖": "Undergrd Lake"
+        "謎の地底湖": "Undergrd. Lake"
     },
     "517": {
         "<%sW_REP_MAX_2ND_F>ワルド水源": "<%sW_REP_MAX_2ND_F>Wald Outfall"
@@ -1725,10 +1725,10 @@
         "<%sW_REP_MAX_2ND_F>悪鬼のねぐら": "<%sW_REP_MAX_2ND_F>Devil's Roost"
     },
     "576": {
-        "<%sW_REP_MIN_2ND_F>ナシームの洞くつ": "<%sW_REP_MAX_2ND_F>Nassim Cave"
+        "<%sW_REP_MIN_2ND_F>ナシームの洞くつ": "<%sW_REP_MAX_2ND_F>Nassim's Cave"
     },
     "577": {
-        "<%sW_REP_MAX_2ND_R>ナシームの洞くつ": "<%sW_REP_MAX_2ND_R>Nassim Cave"
+        "<%sW_REP_MAX_2ND_R>ナシームの洞くつ": "<%sW_REP_MAX_2ND_R>Nassim's Cave"
     },
     "578": {
         "<%sW_REP_MAX_2ND_R>ピラミッド": "<%sW_REP_MAX_2ND_R>Pyramid"
@@ -2067,7 +2067,7 @@
         "clarity_nt_char_241": "clarity_nt_char_241"
     },
     "690": {
-        "キュララナビーチ": "Curalana Beach"
+        "キュララナビーチ": "Kyurarana Beach"
     },
     "691": {
         "clarity_nt_char_242": "clarity_nt_char_242"
@@ -2100,13 +2100,13 @@
         "clarity_nt_char_245": "clarity_nt_char_245"
     },
     "701": {
-        "封印の間": "Center Seal"
+        "封印の間": "Sealed Room"
     },
     "702": {
         "clarity_nt_char_246": "clarity_nt_char_246"
     },
     "703": {
-        "闘士の間": "Warrior Hall"
+        "闘士の間": "Fighter Hall"
     },
     "704": {
         "clarity_nt_char_247": "clarity_nt_char_247"
@@ -2883,7 +2883,7 @@
         "clarity_nt_char_333": "clarity_nt_char_333"
     },
     "962": {
-        "竜王の城": "Dgnlrd Cstl."
+        "竜王の城": "Drglrd Cstl."
     },
     "963": {
         "clarity_nt_char_334": "clarity_nt_char_334"
@@ -3558,7 +3558,7 @@
         "clarity_nt_char_406": "clarity_nt_char_406"
     },
     "1187": {
-        "ガミルゴの盾島": "Gamilgo Shield Island"
+        "ガミルゴの盾島": "Gamilgo's Shield Isle"
     },
     "1188": {
         "隠しオフィス": "Hidden Office"
@@ -3582,7 +3582,7 @@
         "工匠神の間": "Craft-God Room"
     },
     "1195": {
-        "モグラの洞くつ": "Mogura Cave"
+        "モグラの洞くつ": "Mole Cave"
     },
     "1196": {
         "カルデア空洞": "Chaldea Cavity"
@@ -3633,7 +3633,7 @@
         "clarity_nt_char_413": "clarity_nt_char_413"
     },
     "1212": {
-        "時見の泉": "Life Spring"
+        "時見の泉": "Time Spring"
     },
     "1213": {
         "clarity_nt_char_414": "clarity_nt_char_414"
@@ -4200,7 +4200,7 @@
         "守護者の間": "Guardian Hall"
     },
     "1401": {
-        "イルーシャの部屋": "Irusha's Room"
+        "イルーシャの部屋": "Ilusha's Room"
     },
     "1402": {
         "clarity_nt_char_474": "clarity_nt_char_474"
@@ -4221,7 +4221,7 @@
         "clarity_nt_char_476": "clarity_nt_char_476"
     },
     "1408": {
-        "邪神のほこら（プクリポ）": "Evil God's Lair (Puklipo)"
+        "邪神のほこら（プクリポ）": "Evil God's Lair (Pukulipo)"
     },
     "1409": {
         "clarity_nt_char_477": "clarity_nt_char_477"
@@ -4371,7 +4371,7 @@
         "clarity_nt_char_494": "clarity_nt_char_494"
     },
     "1458": {
-        "ルクスガルン大空洞": "Luxgarn Hollow"
+        "ルクスガルン大空洞": "Luxgarn Large Cave"
     },
     "1459": {
         "聖護の結界・蒼": "Guardian Ward Blue"
@@ -4527,13 +4527,13 @@
         "待ち合わせの場": "Meeting Place"
     },
     "1510": {
-        "魔ルクスガルン大空洞": "Demon Luxgarn Hollow"
+        "魔ルクスガルン大空洞": "Demon Luxgarn Large Cave"
     },
     "1511": {
         "clarity_nt_char_510": "clarity_nt_char_510"
     },
     "1512": {
-        "盾ルクスガルン大空洞": "Shield Luxgarn Cavity"
+        "盾ルクスガルン大空洞": "Shield Luxgarn Large Cave"
     },
     "1513": {
         "clarity_nt_char_511": "clarity_nt_char_511"

@@ -1,231 +1,231 @@
 {
     "1": {
-        "<speed=0>|……なんと！|<%sM_ACTIVE_SLIME>は　<%sM_SLIME_COLOR>に　変化した！|<wait=850><me 60><end>": ""
+        "<speed=0>|……なんと！|<%sM_ACTIVE_SLIME>は　<%sM_SLIME_COLOR>に　変化した！|<wait=850><me 60><end>": "<speed=0>|...Look!|<%sM_ACTIVE_SLIME> has changed to <%sM_SLIME_COLOR>!|<wait=850><me 60><end>"
     },
     "2": {
-        "「すごい！|　<%sM_ACTIVE_SLIME>ちゃんの　姿が|　変わったわ！|<br>|「きっと　この子なりに　あなたの|　<%sM_ACTIVE_SLIME>ちゃんへの　気持ちに|　こたえようとしたのね！|<br>|「うらやましい……。|<bw_break>": ""
+        "「すごい！|　<%sM_ACTIVE_SLIME>ちゃんの　姿が|　変わったわ！|<br>|「きっと　この子なりに　あなたの|　<%sM_ACTIVE_SLIME>ちゃんへの　気持ちに|　こたえようとしたのね！|<br>|「うらやましい……。|<bw_break>": "Amazing!|<%sM_ACTIVE_SLIME>'s appearance changed!|<br>|I'm sure it was your slime responding to your|feelings towards it!|<br>|I'm a little jealous...|<bw_break>"
     },
     "3": {
-        "<speed=0>|<%sM_ACTIVE_SLIME>は　<pc>に　なだめられ|姿を　変えることはなかった……。|<end>": ""
+        "<speed=0>|<%sM_ACTIVE_SLIME>は　<pc>に　なだめられ|姿を　変えることはなかった……。|<end>": "<speed=0>|<%sM_ACTIVE_SLIME> was soothed by <pc>,|but its appearance didn't change...|<end>"
     },
     "4": {
-        "なにやら　<%sM_ACTIVE_SLIME>は|姿を　変えようとしているようだ。|<%sM_ACTIVE_SLIME>を　なだめて　変化を止めますか？|<yesno2><break>": ""
+        "なにやら　<%sM_ACTIVE_SLIME>は|姿を　変えようとしているようだ。|<%sM_ACTIVE_SLIME>を　なだめて　変化を止めますか？|<yesno2><break>": "It seems that <%sM_ACTIVE_SLIME> is|trying to change its appearance. Do you|want to soothe them and stop the change?|<yesno2><break>"
     },
     "5": {
-        "<speed=0>|予期せぬエラーが　発生しました。|時間をおいて　再度　お試しください。|<end>": ""
+        "<speed=0>|予期せぬエラーが　発生しました。|時間をおいて　再度　お試しください。|<end>": "<speed=0>|An unexpected error has occurred. Please|try again later.|<end>"
     },
     "6": {
-        "「スライムの育成は　いつでも　できるわよ。|　また　来てちょうだいね。|<end>": ""
+        "「スライムの育成は　いつでも　できるわよ。|　また　来てちょうだいね。|<end>": "You can train your slime at any time. Please|come back again soon.|<end>"
     },
     "7": {
-        "「ちょうど今　アストルティアカップが開催中よ。|　となりのレース受付で　エントリーできるから|　よかったら　参加してみて！|<end>": ""
+        "「ちょうど今　アストルティアカップが開催中よ。|　となりのレース受付で　エントリーできるから|　よかったら　参加してみて！|<end>": "The Astoltia Cup is currently underway. If|you'd like to participate, please speak to|the receptionist next to me!|<end>"
     },
     "8": {
-        "「<%sM_ACTIVE_SLIME>ちゃんが|　エサをほしそうな目で　待っているわ。|<bw_break>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんが|　エサをほしそうな目で　待っているわ。|<bw_break>": "<%sM_ACTIVE_SLIME> has a look on its|face that it wants to be fed.|<bw_break>"
     },
     "9": {
-        "「選んでいるエサを　食べさせていいかしら？|　表示している　つよさに　成長するわ。|<yesno><close>": ""
+        "「選んでいるエサを　食べさせていいかしら？|　表示している　つよさに　成長するわ。|<yesno><close>": "Do you want to feed the chosen food to your|slime? The displayed stat will raise|accordingly.|<yesno><close>"
     },
     "10": {
-        "<speed=0>|<%sM_ACTIVE_SLIME>は|よろこんで　エサを食べた！|<wait=1500><end>": ""
+        "<speed=0>|<%sM_ACTIVE_SLIME>は|よろこんで　エサを食べた！|<wait=1500><end>": "<speed=0>|<%sM_ACTIVE_SLIME> happily ate its food!|<wait=1500><end>"
     },
     "11": {
-        "<speed=0>|<%sM_ACTIVE_SLIME>は　成長したようだ！|<end>": ""
+        "<speed=0>|<%sM_ACTIVE_SLIME>は　成長したようだ！|<end>": "<speed=0>|<%sM_ACTIVE_SLIME> seems to have grown!|<end>"
     },
     "12": {
-        "「……あらあら。　困ったわね。|　そのエサはもう　食べあきちゃったみたい。|　他のエサを　選んであげないと。|<bw_break>": ""
+        "「……あらあら。　困ったわね。|　そのエサはもう　食べあきちゃったみたい。|　他のエサを　選んであげないと。|<bw_break>": "...oh dear. There's a problem.|That stat is already maxed out. Please|choose a different one.|<bw_break>"
     },
     "13": {
-        "「どのエサをあげるか　選んであげて。|　今回は　<%nM_FEED_LEFT>つ　選ぶことができるわ。|<break>": ""
+        "「どのエサをあげるか　選んであげて。|　今回は　<%nM_FEED_LEFT>つ　選ぶことができるわ。|<break>": "Choose which feed you'd like to give your|slime. You can choose <%dM_FEED_LEFT> this time.|<break>"
     },
     "14": {
-        "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>の|ジャンプ率が　<%sM_RANK>ランクに　上がった！|<%sM_ACTIVE_SLIME>は　ジャンプがより得意になった！|<wait=1500><end>": ""
+        "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>の|ジャンプ率が　<%sM_RANK>ランクに　上がった！|<%sM_ACTIVE_SLIME>は　ジャンプがより得意になった！|<wait=1500><end>": "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>'s Jump Rate|raised to Rank <%sM_RANK>!|Now <%sM_ACTIVE_SLIME> is more|proficient at jumping!|<wait=1500><end>"
     },
     "15": {
-        "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>の|最大ＭＰが　<%sM_RANK>ランクに　上がった！|<br>|<se_nots System 7>|<%sM_ACTIVE_SLIME>は|とくぎを　たくさん使えるようになった！|<wait=1500><end>": ""
+        "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>の|最大ＭＰが　<%sM_RANK>ランクに　上がった！|<br>|<se_nots System 7>|<%sM_ACTIVE_SLIME>は|とくぎを　たくさん使えるようになった！|<wait=1500><end>": "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>'s Max MP|raised to Rank <%sM_RANK>!|<br>|<se_nots System 7>|Now <%sM_ACTIVE_SLIME> can use|more skills!|<wait=1500><end>"
     },
     "16": {
-        "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>の|スピードが　<%sM_RANK>ランクに　上がった！|<%sM_ACTIVE_SLIME>は　もっと速く走れるようになった！|<wait=1500><end>": ""
+        "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>の|スピードが　<%sM_RANK>ランクに　上がった！|<%sM_ACTIVE_SLIME>は　もっと速く走れるようになった！|<wait=1500><end>": "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>'s Speed raised|to Rank <%sM_RANK>!|Now <%sM_ACTIVE_SLIME> will run faster!|<wait=1500><end>"
     },
     "17": {
-        "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>の|スタミナが　<%sM_RANK>ランクに　上がった！|<%sM_ACTIVE_SLIME>は　一段と疲れにくくなった！|<wait=1500><end>": ""
+        "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>の|スタミナが　<%sM_RANK>ランクに　上がった！|<%sM_ACTIVE_SLIME>は　一段と疲れにくくなった！|<wait=1500><end>": "<speed=0>|<se_nots System 7>|<%sM_ACTIVE_SLIME>'s Stamina raised|to Rank <%sM_RANK>!|Now <%sM_ACTIVE_SLIME> will get tired|less often!|<wait=1500><end>"
     },
     "18": {
-        "「スライムレース場へ　ようこそ！|<br>|「私は　スライムレース育成係のブレダ。|　こう見えて　一流のスライムブリーダーよ。|　ここで　スライムの管理をしているわ。|<br>|「スライムレースは　スライムを|　自分好みに育てながら　|　勝利を目指す　レースよ！|<br>|「仲間モンスターは　準備しなくても平気よ。|　私のお友達のスライムを　紹介してあげるわ。|　まずは『スカウトする』を選んでね。|<br>|「……っと。それじゃあ　さっそく……|<bw_break>": ""
+        "「スライムレース場へ　ようこそ！|<br>|「私は　スライムレース育成係のブレダ。|　こう見えて　一流のスライムブリーダーよ。|　ここで　スライムの管理をしているわ。|<br>|「スライムレースは　スライムを|　自分好みに育てながら　|　勝利を目指す　レースよ！|<br>|「仲間モンスターは　準備しなくても平気よ。|　私のお友達のスライムを　紹介してあげるわ。|　まずは『スカウトする』を選んでね。|<br>|「……っと。それじゃあ　さっそく……|<bw_break>": "Welcome to the Slime Races!|<br>|My name is Breda, and I'm a slime trainer. A|top-notch one at that, despite my looks. I|manage slimes here.|<br>|Slime Races let you train a slime of your|choosing to race and win!|<br>|You don't need a fellow monster in advance.|I can introduce you to a number of friendly|slimes. Choose \"Scouting\" and we can start.|<br>|...ahem. Well then...|<bw_break>"
     },
     "19": {
-        "<se_nots System 35>|「えー！　……わかったわ。|　オーナーには　いつでもなれるから|　興味がわいたら　また来てね。|<break>": ""
+        "<se_nots System 35>|「えー！　……わかったわ。|　オーナーには　いつでもなれるから|　興味がわいたら　また来てね。|<break>": "<se_nots System 35>|Huh?! ...I understand.|You can be a slime owner anytime, so please|come back if you're interested.|<break>"
     },
     "20": {
-        "「そうこなくっちゃ！|　オーナーになると　最大３匹のスライムを|　同時に管理することができるわ。|<br>|「さっそく　あなたがこれから育てる|　最初のスライムを|　スカウトしましょう！|<br>|「私には　スライムのお友達が|　たっくさんいるの。|　あなたが希望する子を　紹介するわ。|<break>": ""
+        "「そうこなくっちゃ！|　オーナーになると　最大３匹のスライムを|　同時に管理することができるわ。|<br>|「さっそく　あなたがこれから育てる|　最初のスライムを|　スカウトしましょう！|<br>|「私には　スライムのお友達が|　たっくさんいるの。|　あなたが希望する子を　紹介するわ。|<break>": "That's what I'm talking about! As a slime|owner, you can manage up to 3 slimes.|<br>|Let's scout the first slime you'll train|right now!|<br>|I'm acquainted with many slimes. I can|introduce you to one of your liking.|<break>"
     },
     "21": {
-        "「<%sM_ACTIVE_SLIME>ちゃんは　今回のレースを|　走り切って　レベルが上がったみたいよ！|<end>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんは　今回のレースを|　走り切って　レベルが上がったみたいよ！|<end>": "It seems <%sM_ACTIVE_SLIME>'s level|has risen from completing the race!|<end>"
     },
     "22": {
-        "<speed=0>|<%sM_ACTIVE_SLIME>は　レベル<%nM_SLIME_LV>に　上がった！|<me_57><end>": ""
+        "<speed=0>|<%sM_ACTIVE_SLIME>は　レベル<%nM_SLIME_LV>に　上がった！|<me_57><end>": "<speed=0>|<%sM_ACTIVE_SLIME>'s level has risen to <%dM_SLIME_LV>!|<me_57><end>"
     },
     "23": {
-        "「今回のレースで　<%sM_ACTIVE_SLIME>ちゃんは|　レベルが　上がったから|　追加で　<%nM_FEED_LEFT>つ　エサを与えられるわ。|<bw_break>": ""
+        "「今回のレースで　<%sM_ACTIVE_SLIME>ちゃんは|　レベルが　上がったから|　追加で　<%nM_FEED_LEFT>つ　エサを与えられるわ。|<bw_break>": "Because <%sM_ACTIVE_SLIME>'s level has|risen from this race, it will be given an|additional <%dM_FEED_LEFT> feed.|<bw_break>"
     },
     "24": {
-        "「すごい！　<%sM_ACTIVE_SLIME>ちゃんは|　あなたの育成のおかげで|　一人前のスライムに　成長したわ。|<br>|「一人前になると　これ以上　育成しても|　レベルは上がらないから　気を付けてね。|<br>|「今回のレースで　レベルが上がった分|　<%sM_ACTIVE_SLIME>ちゃんには|　最後に　<%nM_FEED_LEFT>つ　エサを与えられるわ。|<bw_break>": ""
+        "「すごい！　<%sM_ACTIVE_SLIME>ちゃんは|　あなたの育成のおかげで|　一人前のスライムに　成長したわ。|<br>|「一人前になると　これ以上　育成しても|　レベルは上がらないから　気を付けてね。|<br>|「今回のレースで　レベルが上がった分|　<%sM_ACTIVE_SLIME>ちゃんには|　最後に　<%nM_FEED_LEFT>つ　エサを与えられるわ。|<bw_break>": "Amazing! <%sM_ACTIVE_SLIME> has grown|into a fully fledged slime thanks to your|training.|<br>|A fully fledged slime can't gain any more|levels, so please be aware of that.|<br>|Because <%sM_ACTIVE_SLIME>'s level has|risen from this race, it will be given an|additional <%dM_FEED_LEFT> feed.|<bw_break>"
     },
     "25": {
-        "「どんなスライムを　スカウトしたいのかしら？|　種族とカラーを　教えてね。|<break>": ""
+        "「どんなスライムを　スカウトしたいのかしら？|　種族とカラーを　教えてね。|<break>": "Which slime do you want to scout? Please|choose its species and color.|<break>"
     },
     "26": {
-        "「どんな子をスカウトするか　決めていないけど|　決定内容をキャンセルしても　いいかしら？|<yesno2><break>": ""
+        "「どんな子をスカウトするか　決めていないけど|　決定内容をキャンセルしても　いいかしら？|<yesno2><break>": "Are you sure you want to cancel scouting a|slime?|<yesno2><break>"
     },
     "27": {
-        "「スカウトするのは　|　この子で　いいかしら？|<yesno><break>": ""
+        "「スカウトするのは　|　この子で　いいかしら？|<yesno><break>": "Is this the slime you'd like to scout?|<yesno><break>"
     },
     "28": {
-        "「<%sM_ACTIVE_SLIME>ちゃん　ステキな名前じゃない！|　きっと　気に入ると思うわ。|<end>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃん　ステキな名前じゃない！|　きっと　気に入ると思うわ。|<end>": "I think <%sM_ACTIVE_SLIME> is a great|name!|I'm sure you'll like it.|<end>"
     },
     "29": {
-        "<speed=0>|<%sM_ACTIVE_SLIME>が　仲間になった！|<me 61><end>": ""
+        "<speed=0>|<%sM_ACTIVE_SLIME>が　仲間になった！|<me 61><end>": "<speed=0>|<%sM_ACTIVE_SLIME> became your friend!|<me 61><end>"
     },
     "30": {
-        "「<%sM_ACTIVE_SLIME>ちゃんの|　パートナーになった　記念に|　好きなエサを　３つ　食べさせてあげて。|<br>|「スライムは　エサを食べると　成長するの。|　エサの種類で　成長する能力が決まるから|　自分のスタイルに合わせて　選ぶといいわ。|<bw_break>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんの|　パートナーになった　記念に|　好きなエサを　３つ　食べさせてあげて。|<br>|「スライムは　エサを食べると　成長するの。|　エサの種類で　成長する能力が決まるから|　自分のスタイルに合わせて　選ぶといいわ。|<bw_break>": "In commemoration of becoming partners with|<%sM_ACTIVE_SLIME>, I'll let them eat food 3 times.|<br>|Your slime will grow when it is fed. The|type of food determines which stats will grow.|Choose whichever feed suits your style best.|<bw_break>"
     },
     "31": {
-        "<speed=0>|申し訳ありませんが|その名前は　入力できません。|<end>": ""
+        "<speed=0>|申し訳ありませんが|その名前は　入力できません。|<end>": "<speed=0>|Sorry, but you cannot use that name.|<end>"
     },
     "32": {
-        "「ちゃんと　名前を考えてあげて！|<bw_break>": ""
+        "「ちゃんと　名前を考えてあげて！|<bw_break>": "Come up with a name that's good!|<bw_break>"
     },
     "33": {
-        "「スライムは　レベルが上がると|　追加で　エサを食べさせることができるわ。|<br>|「『育成レースに出走する』で　走らせると|　最大１０まで　レベルが上がるわよ。|　どんどん　育ててあげてね！|<bw_break>": ""
+        "「スライムは　レベルが上がると|　追加で　エサを食べさせることができるわ。|<br>|「『育成レースに出走する』で　走らせると|　最大１０まで　レベルが上がるわよ。|　どんどん　育ててあげてね！|<bw_break>": "When your slime's level increases, you can|give it more feed to increases its stats.|<br>|If you choose \"Enter Training Race\", you can|raise its level to a maximum of 10. Keep on|training them!<bw_break>"
     },
     "34": {
-        "「あら？　まだ　<%sM_ACTIVE_SLIME>ちゃんの|　エサやりが　途中だったわね。|<bw_break>": ""
+        "「あら？　まだ　<%sM_ACTIVE_SLIME>ちゃんの|　エサやりが　途中だったわね。|<bw_break>": "Huh? You're still in the middle of feeding|<%sM_ACTIVE_SLIME>, aren't you?|<bw_break>"
     },
     "35": {
-        "<se_nots System 35>|「……あら？　大変よ！|　<%sM_ACTIVE_SLIME>ちゃんの様子が　おかしいわ……！|<bw_break>": ""
+        "<se_nots System 35>|「……あら？　大変よ！|　<%sM_ACTIVE_SLIME>ちゃんの様子が　おかしいわ……！|<bw_break>": "<se_nots System 35>|...huh? Uh oh! There's something wrong with|<%sM_ACTIVE_SLIME>...!"
     },
     "36": {
-        "「申し訳ございません。ただ今|　開催されているレースは　休止しております。|　また　しばらくしてから　お越しください！|<end>": ""
+        "「申し訳ございません。ただ今|　開催されているレースは　休止しております。|　また　しばらくしてから　お越しください！|<end>": "I'm sorry, but the races are currently|suspended. Please come back in a little|while!|<end>"
     },
     "37": {
-        "「あら？　まだ　<%sM_ACTIVE_SLIME>ちゃんの|　エサやりが　途中だったわね。|<bw_break>": ""
+        "「あら？　まだ　<%sM_ACTIVE_SLIME>ちゃんの|　エサやりが　途中だったわね。|<bw_break>": "Huh? You're still in the middle of feeding|<%sM_ACTIVE_SLIME>, aren't you?|<bw_break>"
     },
     "38": {
-        "「あら？　前回のレース結果を|　まだ　伝えてなかったわね。|　ええと　<%sM_ACTIVE_SLIME>ちゃんの結果は……|<bw_break>": ""
+        "「あら？　前回のレース結果を|　まだ　伝えてなかったわね。|　ええと　<%sM_ACTIVE_SLIME>ちゃんの結果は……|<bw_break>": "Huh? I haven't told you the results of the|previous race, have I? Well...|<%sM_ACTIVE_SLIME>'s results were....|<bw_break>"
     },
     "39": {
-        "「あら？　まだ　<%sM_ACTIVE_SLIME>ちゃんの|　とくぎの習得が　途中だったわね。|<bw_break>": ""
+        "「あら？　まだ　<%sM_ACTIVE_SLIME>ちゃんの|　とくぎの習得が　途中だったわね。|<bw_break>": "Huh? <%sM_ACTIVE_SLIME> is still in the|middle of learning new skills, aren't they?|<bw_break>"
     },
     "40": {
-        "「あら？　まだ　<%sM_ACTIVE_SLIME>ちゃんの|　とくぎの習得が　途中だったわね。|<bw_break>": ""
+        "「あら？　まだ　<%sM_ACTIVE_SLIME>ちゃんの|　とくぎの習得が　途中だったわね。|<bw_break>": "Huh? <%sM_ACTIVE_SLIME> is still in the|middle of learning new skills, aren't they?|<bw_break>"
     },
     "41": {
-        "「<%sM_ACTIVE_SLIME>ちゃんは　こちらのレースに|　出場できるわよ。|　参加させたいレースを　選んでね。|<break>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんは　こちらのレースに|　出場できるわよ。|　参加させたいレースを　選んでね。|<break>": "<%sM_ACTIVE_SLIME> can participate in|these races. Please choose the race you'd|like to participate in.|<break>"
     },
     "42": {
-        "「参加させたいレースを　選んでね。|　マスターで　１着を取ると|　特訓レースが　解放されるわよ！|<break>": ""
+        "「参加させたいレースを　選んでね。|　マスターで　１着を取ると|　特訓レースが　解放されるわよ！|<break>": "Choose the race you'd like to participate in.|If you place first in the Master race, a|special race will become available!"
     },
     "43": {
-        "「参加させたいレースを　選んでね。|　マスターⅠで　１着を取ると|　好きなとくぎを　覚えさせることができるわよ！|<break>": ""
+        "「参加させたいレースを　選んでね。|　マスターⅠで　１着を取ると|　好きなとくぎを　覚えさせることができるわよ！|<break>": "Choose the race you'd like to participate in.|If you place first in the Master Ⅰ race, a|special race will become available!|<break>"
     },
     "44": {
-        "「<%sM_ACTIVE_SLIME>ちゃんの育成を|　やめるのね。|<bw_break>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんの育成を|　やめるのね。|<bw_break>": "You want to stop training <%sM_ACTIVE_SLIME>?|<bw_break>"
     },
     "45": {
-        "「<%sM_ACTIVE_SLIME>ちゃんで|　<%sM_GRADE>に　出場するのでいいかしら？|<yesno><break>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんで|　<%sM_GRADE>に　出場するのでいいかしら？|<yesno><break>": "Is it okay for <%sM_ACTIVE_SLIME> to|participate in <%sM_GRADE>?|<yesno><break>"
     },
     "46": {
-        "「わかったわ！|　<%sM_ACTIVE_SLIME>ちゃんが　１着を取れるよう|　上手に　さくせんを　立ててあげてね！|<end>": ""
+        "「わかったわ！|　<%sM_ACTIVE_SLIME>ちゃんが　１着を取れるよう|　上手に　さくせんを　立ててあげてね！|<end>": "Okay! Choose <%sM_ACTIVE_SLIME>'s|tactics well so you can place first!|<end>"
     },
     "47": {
-        "「すごいわ！　１着　おめでとう！|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": ""
+        "「すごいわ！　１着　おめでとう！|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": "Amazing! Congratulations on first place!|I'll give you <%dM_GOT_POINT> Casino Coins.|<bw_break>"
     },
     "48": {
-        "「……４着でした。|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": ""
+        "「……４着でした。|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": "...you placed fourth. Here's <%dM_GOT_POINT> Casino Coins.|<bw_break>"
     },
     "49": {
-        "「うーん！　惜しかったわね。２着よ！|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": ""
+        "「うーん！　惜しかったわね。２着よ！|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": "Good! You placed in second! I'll give you|<%dM_GOT_POINT> Casino Coins.|<bw_break>"
     },
     "50": {
-        "「あらら　残念。３着だったわ。|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": ""
+        "「あらら　残念。３着だったわ。|　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。|<bw_break>": "Hmm, sorry. You placed third. Here is <%dM_GOT_POINT>|Casino Coins.|<bw_break>"
     },
     "51": {
-        "「<%sM_GRADE>で　１着を取ったので|　<%sM_GRADE_UP>に　参加できるようになったわよ！|　ぜひ　出場してみてね！|<end>": ""
+        "「<%sM_GRADE>で　１着を取ったので|　<%sM_GRADE_UP>に　参加できるようになったわよ！|　ぜひ　出場してみてね！|<end>": "You can now participate in <%sM_GRADE_UP>|since you placed first in <%sM_GRADE>!|Please give it a try!|<end>"
     },
     "52": {
-        "<speed=0>|<%sM_ACTIVE_SLIME>は|<%sM_GRADE_UP>に　参加できるようになった！|<me 71><end>": ""
+        "<speed=0>|<%sM_ACTIVE_SLIME>は|<%sM_GRADE_UP>に　参加できるようになった！|<me 71><end>": "<speed=0>|<%sM_ACTIVE_SLIME> can now participate in|<%sM_GRADE_UP>!|<me 71><end>"
     },
     "53": {
-        "「おめでとう！|　マスターⅡで　１着を取ったので|　マスターⅠが　解放されたわ！|<br>|「なんと　マスターⅠで　１着を取ると|　そのスライムが習得可能な　全とくぎの中から|　好きなとくぎを　覚えさせることができるわ。|<br>|「それと　<%sM_ACTIVE_SLIME>ちゃんは|　マスターⅠ以外の　育成レースには|　参加できなくなるから　気を付けてね。|<end>": ""
+        "「おめでとう！|　マスターⅡで　１着を取ったので|　マスターⅠが　解放されたわ！|<br>|「なんと　マスターⅠで　１着を取ると|　そのスライムが習得可能な　全とくぎの中から|　好きなとくぎを　覚えさせることができるわ。|<br>|「それと　<%sM_ACTIVE_SLIME>ちゃんは|　マスターⅠ以外の　育成レースには|　参加できなくなるから　気を付けてね。|<end>": "Congratulations! Master Ⅰ is now available|since you placed first in Master Ⅰ!|<br>|If you place first in Master Ⅰ, you'll be|able to freely choose your slime's skills|from any of the skills it's able to learn.|<br>|However, <%sM_ACTIVE_SLIME> can only participate|in Master Ⅰ races from now on, so please|make sure to remember that.|<end>"
     },
     "54": {
-        "「新しい子を管理する　部屋を|　選んであげて。|<break>": ""
+        "「新しい子を管理する　部屋を|　選んであげて。|<break>": "Please choose a room to manage your new slime.|<break>"
     },
     "55": {
-        "「そこはもう　別の子が使ってるわ。|　新しい子をスカウトするなら　|　他の部屋を選ぶか　今いる子と別れてね。|<bw_break>": ""
+        "「そこはもう　別の子が使ってるわ。|　新しい子をスカウトするなら　|　他の部屋を選ぶか　今いる子と別れてね。|<bw_break>": "That room is already occupied. Please choose|a different room, or part with one of your|current slimes.|<bw_break>"
     },
     "56": {
-        "「スライムレースは　スライムを|　自分好みに育てながら　|　勝利を目指す　レースよ！|<br>|「ここでは　初級の　ビギナーⅢからはじまり|　最高難度の　マスターⅠまで|　５階級のレースを　用意してあるわ。|<br>|「１着を取ると　次の級のレースに|　参加できるようになるわよ。|<br>|「私は育成の担当だけど　となりのレース受付では|　育てたスライムで　仲間とレースをしたり|　期間限定のイベントで　大金を稼げたりするわ。|<bw_break>": ""
+        "「スライムレースは　スライムを|　自分好みに育てながら　|　勝利を目指す　レースよ！|<br>|「ここでは　初級の　ビギナーⅢからはじまり|　最高難度の　マスターⅠまで|　５階級のレースを　用意してあるわ。|<br>|「１着を取ると　次の級のレースに|　参加できるようになるわよ。|<br>|「私は育成の担当だけど　となりのレース受付では|　育てたスライムで　仲間とレースをしたり|　期間限定のイベントで　大金を稼げたりするわ。|<bw_break>": "Slime Races are races where you can train a|slime to your liking to win!|<br>|We've prepared 5 different levels of races,|from Beginner Ⅲ to Master Ⅰ.|<br>|If you place first in a race, you'll be able|to take part in the next rank race.|<br>|I'm in charge of slime training, but the|person next to me can arrange friend races|or a limited time event that gives good money.|<bw_break>"
     },
     "57": {
-        "「スライムのつよさは　４つの能力|　スピード　ジャンプ率　スタミナ　最大ＭＰに|　分類され　レースの勝敗を　大きく左右するわ。|<br>|「スピードが上がると　より速く走るようになって|　ジャンプ率が上がると　とくぎをかわしながら|　大きく移動する　ジャンプの頻度が上がるの。|<br>|「スタミナが上がると　移動や行動をしたときに|　疲れにくくなり　最大ＭＰが上がると|　とくぎを　使用できる回数が　増えるの。|<br>|「それぞれの能力は　スライムの|　レベルを上げ　エサをあげることで|　上昇させることが　できるわ。|<br>|「ただし　能力の高さは　ランク付けされていて|　エサをあげても　ランクが上がらなければ|　レース中の行動に　影響はないわ。|<br>|「また　レベル１０になると|　それ以上　能力は成長しなくなるから|　気を付けてね。|<bw_break>": ""
+        "「スライムのつよさは　４つの能力|　スピード　ジャンプ率　スタミナ　最大ＭＰに|　分類され　レースの勝敗を　大きく左右するわ。|<br>|「スピードが上がると　より速く走るようになって|　ジャンプ率が上がると　とくぎをかわしながら|　大きく移動する　ジャンプの頻度が上がるの。|<br>|「スタミナが上がると　移動や行動をしたときに|　疲れにくくなり　最大ＭＰが上がると|　とくぎを　使用できる回数が　増えるの。|<br>|「それぞれの能力は　スライムの|　レベルを上げ　エサをあげることで|　上昇させることが　できるわ。|<br>|「ただし　能力の高さは　ランク付けされていて|　エサをあげても　ランクが上がらなければ|　レース中の行動に　影響はないわ。|<br>|「また　レベル１０になると|　それ以上　能力は成長しなくなるから|　気を付けてね。|<bw_break>": "A slime's stats are divided into four|categories: Speed, Jump Rate, Stamina, and|Max MP.|<br>|Speed increases how fast a slime runs, while|Jump Rate causes your slime to jump more|often and dodge traps.|<br>|Stamina causes your slime to get tired less|often, and Max MP will allow your slime to|use more skills during a race.|<br>|Each stat can be raised by leveling up and|feeding your slime special feed.|<br>|However, a stat won't improve unless it|advances to a higher rank.|<br>|Also, keep in mind that stats can no longer|be increased when a slime's level reaches|10.|<bw_break>"
     },
     "58": {
-        "「スライムレースでは　レースが始まる前に|　どこで　どのとくぎを使うか|　さくせんを　立てることができるわ。|<br>|「先頭のスライムは　一定距離を走るごとに|　１つずつ　とくぎを　使っていくの。|<br>|「後ろのスライムは　先頭のスライムに合わせて|　同時に　とくぎを使うわよ。|<br>|「常に効果がある　とくぎは|　覚えているだけで　効果があるわ。|　ひとつしか　覚えられないけど　強力よ。|<br>|「また　育成レースでは　さくせんを立てるときに|　競走相手のさくせんを　チェックできるから|　うまく　活用するといいわ。|<bw_break>": ""
+        "「スライムレースでは　レースが始まる前に|　どこで　どのとくぎを使うか|　さくせんを　立てることができるわ。|<br>|「先頭のスライムは　一定距離を走るごとに|　１つずつ　とくぎを　使っていくの。|<br>|「後ろのスライムは　先頭のスライムに合わせて|　同時に　とくぎを使うわよ。|<br>|「常に効果がある　とくぎは|　覚えているだけで　効果があるわ。|　ひとつしか　覚えられないけど　強力よ。|<br>|「また　育成レースでは　さくせんを立てるときに|　競走相手のさくせんを　チェックできるから|　うまく　活用するといいわ。|<bw_break>": "In a Slime Race, you can choose when you'd|like to use your skills.|<br>|The leading slime will use a skill each|time it passes one of the four points.|<br>|The slimes behind the one in first place will|use their skills at the same time as the|leading slime.|<br>|A slime can only know one passive skill,|but they are always active and can be very|powerful.|<br>|During Training Races, you can view the|skills your opponents will use, so be sure|to make good use of it.|<bw_break>"
     },
     "59": {
-        "「マスターⅠで　１着を取ると|　そのスライムが習得可能な　全とくぎの中から|　好きなとくぎを　覚えさせることができるのよ。|<br>|「ただし　マスターⅠを　解放したスライムは|　下の階級への　参加を　お断りしてるの。|　勝負にならないから　しょうがないわよね。|<bw_break>": ""
+        "「マスターⅠで　１着を取ると|　そのスライムが習得可能な　全とくぎの中から|　好きなとくぎを　覚えさせることができるのよ。|<br>|「ただし　マスターⅠを　解放したスライムは|　下の階級への　参加を　お断りしてるの。|　勝負にならないから　しょうがないわよね。|<bw_break>": "If you place first in Master Ⅰ, you'll be|able to freely choose your slime's skills|from any of the skills it's able to learn.|<br>|However, your slime will only participate|in Master Ⅰ races from then on, so please|make sure to remember that.|<bw_break>"
     },
     "60": {
-        "「予備|<bw_break>": ""
+        "「予備|<bw_break>": "Reserve|<bw_break>"
     },
     "61": {
-        "「何について　説明する？|<break>": ""
+        "「何について　説明する？|<break>": "What do you need help with?|<break>"
     },
     "62": {
-        "「他にも何か　説明が必要かしら？|<break>": ""
+        "「他にも何か　説明が必要かしら？|<break>": "Anything else that I can explain?|<break>"
     },
     "63": {
-        "「そう……。　わかったわ。|　<%sM_ACTIVE_SLIME>ちゃんは|　私が　引き取っておくわね。": ""
+        "「そう……。　わかったわ。|　<%sM_ACTIVE_SLIME>ちゃんは|　私が　引き取っておくわね。": "I see... Okay. In that case, I'll take|<%sM_ACTIVE_SLIME> off your hands."
     },
     "64": {
-        "「どの子を　育成する？|<break>": ""
+        "「どの子を　育成する？|<break>": "Which slime do you want to train?|<break>"
     },
     "65": {
-        "「どの子と　お別れするの？|<break>": ""
+        "「どの子と　お別れするの？|<break>": "Which slime do you want to part with?|<break>"
     },
     "66": {
-        "「<%sM_ACTIVE_SLIME>ちゃんと|　お別れして　いいかしら？|<yesno><break>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんと|　お別れして　いいかしら？|<yesno><break>": "Will you really part with <%sM_ACTIVE_SLIME>?|<yesno><break>"
     },
     "67": {
-        "「<%sM_ACTIVE_SLIME>ちゃんと　本当にお別れするの？|　お別れすると　もう二度と|　この子で　走れなくなってしまうわよ。|<break>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんと　本当にお別れするの？|　お別れすると　もう二度と|　この子で　走れなくなってしまうわよ。|<break>": "Are you absolutely sure you want to part with|<%sM_ACTIVE_SLIME>? If you say goodbye, you won't|be able to race with them ever again.|<break>"
     },
     "68": {
-        "「そこは　空き部屋よ。|　スライムがいる部屋を選んでね。|<bw_break>": ""
+        "「そこは　空き部屋よ。|　スライムがいる部屋を選んでね。|<bw_break>": "That room is vacant. Please choose a room|with a slime.|<bw_break>"
     },
     "69": {
-        "「どの子の　様子を見る？|<break>": ""
+        "「どの子の　様子を見る？|<break>": "Which slime do you want to look at?|<break>"
     },
     "70": {
-        "「つよさと　とくぎについて　確認できるわよ。|　なでてあげると　よろこぶわ。|<break>": ""
+        "「つよさと　とくぎについて　確認できるわよ。|　なでてあげると　よろこぶわ。|<break>": "You can check its stats and skills. It will be|happy if you stroke it.|<break>"
     },
     "71": {
-        "「おめでとう！　マスターⅠで　１着を取ったので|　<%sM_ACTIVE_SLIME>ちゃんに　好きなとくぎを|　覚えさせることが　できるわ！|<end>": ""
+        "「おめでとう！　マスターⅠで　１着を取ったので|　<%sM_ACTIVE_SLIME>ちゃんに　好きなとくぎを|　覚えさせることが　できるわ！|<end>": "Congratulations! Since you came in first place|in Master Ⅰ, you can freely choose|<%sM_ACTIVE_SLIME>'s skills!|<end>"
     },
     "72": {
         "「好きなとくぎを　覚えさせることができるけど|　新しい　とくぎを覚えなくても　いいの？|<yesno2><break>": "Keep the skills you currently have without|learning any new ones?|<yesno2><break>"
     },
     "73": {
-        "「わかったわ。<bw_break>": ""
+        "「わかったわ。<bw_break>": "Understood.<bw_break>"
     },
     "74": {
         "「覚えさせたい　とくぎを　選んであげて。|<break>": "Choose the skills you want to learn.|<break>"
     },
     "75": {
-        "<se_nots System 35>|「あれ？　<%sM_ACTIVE_SLIME>ちゃんが|　何かを　ひらめいたみたいだわ！|<end>": ""
+        "<se_nots System 35>|「あれ？　<%sM_ACTIVE_SLIME>ちゃんが|　何かを　ひらめいたみたいだわ！|<end>": "<se_nots System 35>|Huh? <%sM_ACTIVE_SLIME> seems to have|figured something out!|<end>"
     },
     "76": {
-        "<speed=0>|<se_nots System 7>|なんと！|<%sM_ACTIVE_SLIME>が　<%sM_TOKUGI>を　覚えた！|<wait=2000><end>": ""
+        "<speed=0>|<se_nots System 7>|なんと！|<%sM_ACTIVE_SLIME>が　<%sM_TOKUGI>を　覚えた！|<wait=2000><end>": "<speed=0>|<se_nots System 7>|Oh my! <%sM_ACTIVE_SLIME> learned|<%sM_TOKUGI>!|<wait=2000><end>"
     },
     "77": {
         "<speed=0>|<%sM_TOKUGI>を　忘れてよろしいですか？|<yesno2><break>": "<speed=0>|Is it okay to forget <%sM_TOKUGI>?|<yesno2><break>"
@@ -234,51 +234,51 @@
         "<speed=0>|しかし　<%sM_ACTIVE_SLIME>は　|これ以上　とくぎを　覚えられないようだ！|<br>|どの　とくぎを　忘れますか？|<break>": "<speed=0>|But <%sM_ACTIVE_SLIME> can't learn|anymore skills!|<br>|Which skill will do you want them to forget?|<break>"
     },
     "79": {
-        "「スライムレース場へ　ようこそ！|　ここでは　スライムの育成ができるわ。|　どんな　用かしら？|<break>": ""
+        "「スライムレース場へ　ようこそ！|　ここでは　スライムの育成ができるわ。|　どんな　用かしら？|<break>": "Welcome to the Slime Races! You can train|your slimes here. What do you need?|<break>"
     },
     "80": {
-        "「他に　用はある？|<break>": ""
+        "「他に　用はある？|<break>": "Is there anything else?|<break>"
     },
     "81": {
-        "「あら？　スライムがいないわ。|　『スカウトする』で|　スライムを　紹介するわよ。|<bw_break>": ""
+        "「あら？　スライムがいないわ。|　『スカウトする』で|　スライムを　紹介するわよ。|<bw_break>": "Huh? You don't have a slime. Please choose|\"Scouting\" and I can introduce you to one.|<bw_break>"
     },
     "82": {
-        "「あら？　タータが　何か言いたそうにしてるわ。|　先に　となりで　用を済ませてから|　また来てちょうだいね。|<end>": ""
+        "「あら？　タータが　何か言いたそうにしてるわ。|　先に　となりで　用を済ませてから|　また来てちょうだいね。|<end>": "Huh? I think Tarta over there has something|she wants to say to you. Come back to me|after finishing your business with her.|<end>"
     },
     "83": {
-        "「あら？|　まだ　前回のレース結果が出ていないわね。|　結果が出るまで　もう少し待ってね。|<end>": ""
+        "「あら？|　まだ　前回のレース結果が出ていないわね。|　結果が出るまで　もう少し待ってね。|<end>": "Huh? The previous race's results aren't ready|yet. Wait a little while until they're ready.|<end>"
     },
     "84": {
         "<speed=0>|<%sM_ACTIVE_SLIME>は　<%sM_TOKUGI>を　忘れた。|<end>": "<speed=0>|<%sM_ACTIVE_SLIME> forgot <%sM_TOKUGI>.|<end>"
     },
     "85": {
-        "<speed=0>|<se_nots System 7>|なんと！|<%sM_ACTIVE_SLIME>は　<%sM_TOKUGI>を　忘れて|<%sM_TOKUGI_NEW>を　覚えた！|<wait=2000><end>": ""
+        "<speed=0>|<se_nots System 7>|なんと！|<%sM_ACTIVE_SLIME>は　<%sM_TOKUGI>を　忘れて|<%sM_TOKUGI_NEW>を　覚えた！|<wait=2000><end>": "<speed=0>|<se_nots System 7>|Oh my! <%sM_ACTIVE_SLIME> forgot|<%sM_TOKUGI> and learned|<%sM_TOKUGI_NEW>!|<wait=2000><end>"
     },
     "86": {
-        "「<%sM_TOKUGI_NEW>を覚えるかわりに|　<%sM_TOKUGI>を　忘れてもいい？|<yesno2><break>": ""
+        "「<%sM_TOKUGI_NEW>を覚えるかわりに|　<%sM_TOKUGI>を　忘れてもいい？|<yesno2><break>": "Do you want to forget <%sM_TOKUGI>|instead of learning <%sM_TOKUGI_NEW>?|<yesno2><break>"
     },
     "87": {
-        "「<%sM_ACTIVE_SLIME>ちゃんは|　これ以上　とくぎを　覚えられないわ。|　忘れる　とくぎを　選んであげて。|<break>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんは|　これ以上　とくぎを　覚えられないわ。|　忘れる　とくぎを　選んであげて。|<break>": "<%sM_ACTIVE_SLIME> can't learn any more|skills. Choose a skill of theirs to forget.|<break>"
     },
     "88": {
-        "「あれ……。　今は　スカウトしないのね。|　スライムレースに　参加するには　|　ここで　スカウトする必要があるわよ。|<end>": ""
+        "「あれ……。　今は　スカウトしないのね。|　スライムレースに　参加するには　|　ここで　スカウトする必要があるわよ。|<end>": "Hey... you're going to scout now, aren't you?|You can't participate in a Slime Race unless|you scout here first.|<end>"
     },
     "89": {
-        "「<%sM_ACTIVE_SLIME>ちゃんは　まだまだ成長するから|　特訓する必要が　ないわね。レベル１０になると|　特訓の成果が　発揮されるようになるわ。|<bw_break>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんは　まだまだ成長するから|　特訓する必要が　ないわね。レベル１０になると|　特訓の成果が　発揮されるようになるわ。|<bw_break>": "<%sM_ACTIVE_SLIME> is still growing, so there's no|need for any special training. Your training|will pay off once it reaches level 10.|<bw_break>"
     },
     "90": {
-        "「<%sM_ACTIVE_SLIME>ちゃんは　マスターⅠを|　解放したから　マスターⅠ以外の育成レースに|　参加することは　できないわ。|<bw_break>": ""
+        "「<%sM_ACTIVE_SLIME>ちゃんは　マスターⅠを|　解放したから　マスターⅠ以外の育成レースに|　参加することは　できないわ。|<bw_break>": "<%sM_ACTIVE_SLIME> has unlocked Master Ⅰ,|so it can't participate in any training race|other than Master Ⅰ.|<bw_break>"
     },
     "91": {
-        "「あら？　<%sM_ACTIVE_SLIME>ちゃんには　まだ|　そのレースへの参加は　早いわね。|　まずは　<%sM_GRADE_NOW>で１着を目指すといいわ。|<bw_break>": ""
+        "「あら？　<%sM_ACTIVE_SLIME>ちゃんには　まだ|　そのレースへの参加は　早いわね。|　まずは　<%sM_GRADE_NOW>で１着を目指すといいわ。|<bw_break>": "Huh? <%sM_ACTIVE_SLIME> isn't ready for|that race yet. Try to place in first in|<%sM_GRADE_NOW> beforehand.|<bw_break>"
     },
     "92": {
-        "「あら　<%sM_ACTIVE_SLIME>ちゃんは|　<%sM_TOKUGI>を　覚えているわね。|<br>|「常に効果がある　とくぎは|　ひとつしか　覚えることが　できないの。|<br>|「<%sM_TOKUGI_NEW>を　覚えるには　今　覚えている|　常に効果がある　とくぎを忘れる必要があるわ。|　忘れる　とくぎを　選んであげて。|<break>": ""
+        "「あら　<%sM_ACTIVE_SLIME>ちゃんは|　<%sM_TOKUGI>を　覚えているわね。|<br>|「常に効果がある　とくぎは|　ひとつしか　覚えることが　できないの。|<br>|「<%sM_TOKUGI_NEW>を　覚えるには　今　覚えている|　常に効果がある　とくぎを忘れる必要があるわ。|　忘れる　とくぎを　選んであげて。|<break>": "Hey, <%sM_ACTIVE_SLIME> has|<%sM_TOKUGI> learned.|<br>|It can only know one passive skill at a time.|<br>|If you want it to learn <%sM_TOKUGI_NEW>,|it'll have to forget the passive skill that|it already knows. Choose the skill to forget.|<break>"
     },
     "93": {
-        "「<%sM_TOKUGI_NEW>を　覚えるには　今　覚えている|　常に効果がある　とくぎを忘れる必要があるわ。|　忘れる　とくぎを　選んであげて。|<break>": ""
+        "「<%sM_TOKUGI_NEW>を　覚えるには　今　覚えている|　常に効果がある　とくぎを忘れる必要があるわ。|　忘れる　とくぎを　選んであげて。|<break>": "In order to learn <%sM_TOKUGI_NEW>, it will|have to forget the passive skill it already|knows. Please choose the skill to forget.|<break>"
     },
     "94": {
-        "「スライムレース場へ　ようこそ！|　ここでは　スライムの育成ができるわ。|<br>|「あら？　新しいお知らせを|　まだ　伝えてなかったわね。|　ええと……|<br>|「新しいスライムが　加わったみたい。|　スライムタワーちゃんって　言うんだけど|　ジャンプが　得意な子みたいね。|<br>|「ちょっと　グラグラしてるんだけど|　きっと　素敵なチカラを秘めてると思うの。|　気になるなら　スカウトしてあげてね！|<br>|「それと……|<br>|「スライムナイトちゃんの|　つよさが　変わったみたいなの。|　確かめてみてね。|<br>|「……っと。|　新しいお知らせは　こんな感じね。|　それじゃあ……|<bw_break>": ""
+        "「スライムレース場へ　ようこそ！|　ここでは　スライムの育成ができるわ。|<br>|「あら？　新しいお知らせを|　まだ　伝えてなかったわね。|　ええと……|<br>|「新しいスライムが　加わったみたい。|　スライムタワーちゃんって　言うんだけど|　ジャンプが　得意な子みたいね。|<br>|「ちょっと　グラグラしてるんだけど|　きっと　素敵なチカラを秘めてると思うの。|　気になるなら　スカウトしてあげてね！|<br>|「それと……|<br>|「スライムナイトちゃんの|　つよさが　変わったみたいなの。|　確かめてみてね。|<br>|「……っと。|　新しいお知らせは　こんな感じね。|　それじゃあ……|<bw_break>": "Welcome to the Slime Racetrack! You can train|slimes here.|<br>|Oh? I haven't told you about the news yet.|There's a new type of slime available: the|Slime Stack. They're good at jumping.|<br>|It's a little wobbly, but I think it has|some great powers. Scout one if you're|interested!|<br>|Also, the Slime Knight's stats seem to have|changed. Be sure to check it out.|<br.|That's all for the new announcements.|Now then...|<bw_break>"
     }
 }

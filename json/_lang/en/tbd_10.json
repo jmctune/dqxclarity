@@ -69,7 +69,7 @@
         "clarity_nt_char_9": "clarity_nt_char_9"
     },
     "24": {
-        "<speed=0><%sM_pc>は|<%sM_item>を　読んだ。": ""
+        "<speed=0><%sM_pc>は|<%sM_item>を　読んだ。": "<speed=0><%sM_pc> read the|<%sM_item>."
     },
     "25": {
         "しかし　しぐさ「<%sM_item2>」は|すでにおぼえていた。": ""
@@ -78,13 +78,13 @@
         "clarity_nt_char_10": "clarity_nt_char_10"
     },
     "27": {
-        "<%sM_pc>は|しぐさ「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|<%sM_item>は|光に包まれ　消え去った！": ""
+        "<%sM_pc>は|しぐさ「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|<%sM_item>は|光に包まれ　消え去った！": "<%sM_pc> learned the \"<%sM_item2>\"|emote!<se_nots System 7>|<br>|<%sM_item> disappeared in|a flash of light!"
     },
     "28": {
         "clarity_nt_char_11": "clarity_nt_char_11"
     },
     "29": {
-        "<%sM_pc>は しぐさ「<%sM_item2>」を おぼえた！": "<%sM_pc> learned the gesture|\"<%sM_item2>\"!"
+        "<%sM_pc>は しぐさ「<%sM_item2>」を おぼえた！": "<%sM_pc> learned the \"<%sM_item2>\"|emote!"
     },
     "30": {
         "<speed=0><%sM_pc>は|<%sM_item>を使った。<br>|しかし　何も　おこらなかった。|家の改築で　使ってみよう！": "<speed=0><%sM_pc> used the <%sM_item>.<br>|But nothing happened.|Try using it in your house!"
@@ -144,7 +144,7 @@
         "<%sL_PC>が <%sL_ITEM>を使って|手に入れた。": "<%sL_PC> used a <%sL_ITEM> to|obtain this."
     },
     "49": {
-        "<%sM_pc>は <%sM_action>「<%sM_item2>」を おぼえた！": ""
+        "<%sM_pc>は <%sM_action>「<%sM_item2>」を おぼえた！": "<%sM_pc> learned the \"<%sM_item2>\"|<%sM_action>!"
     },
     "50": {
         "clarity_nt_char_18": "clarity_nt_char_18"
@@ -153,7 +153,7 @@
         "しかし　<%sM_action>「<%sM_item2>」は|すでにおぼえていた。": ""
     },
     "52": {
-        "<%sM_pc>は|<%sM_action>「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|<%sM_item>は|光に包まれ　消え去った！": ""
+        "<%sM_pc>は|<%sM_action>「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|<%sM_item>は|光に包まれ　消え去った！": "<%sM_pc> learned the \"<%sM_item2>\"|<%sM_action>!<se_nots System 7>|<br>|<%sM_item> disappeared in|a flash of light!"
     },
     "53": {
         "立ちかた": "Stance"
@@ -162,7 +162,7 @@
         "clarity_nt_char_19": "clarity_nt_char_19"
     },
     "55": {
-        "しぐさ": "Gesture"
+        "しぐさ": "Emote"
     },
     "56": {
         "<%sL_KOUKA> の|効果が付いた。": "Effect of <%sL_KOUKA>|was added."
@@ -192,7 +192,7 @@
         "<%sL_PC>が <%sL_NPC>から|もらった。": "<%sL_PC> received from <%sL_NPC>."
     },
     "65": {
-        "<%sM_pc>は|<%sM_action>「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|きせかえドールのポーズを|「<%sM_item2>」に　変えられるようになった！|<br>|<%sM_item>は|光に包まれ　消え去った！": ""
+        "<%sM_pc>は|<%sM_action>「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|きせかえドールのポーズを|「<%sM_item2>」に　変えられるようになった！|<br>|<%sM_item>は|光に包まれ　消え去った！": "<%sM_pc> learned the \"<%sM_item2>\"|<%sM_action>! <se_nots System 7>|<br>|You can now change your dress-up doll's|pose to \"<%sM_item2>\"!|<br>|<%sM_item> disappeared in|a flash of light!"
     },
     "66": {
         "<speed=0>すでに　元気タイム中です！|<%sM_item>を使うと　時間と効果が|上書きされますが　本当に使いますか？<yesno 2><close>": "<speed=0>You're already in Bonus Time!|If you use <%sM_item>, your remaining time|will be overwritten. Is this okay?<yesno 2><close>"
@@ -270,13 +270,13 @@
         "しかし　表情「<%sM_item2>」は|すでにおぼえていた。": ""
     },
     "91": {
-        "<%sM_pc>は 表情「<%sM_item2>」を おぼえた！": ""
+        "<%sM_pc>は 表情「<%sM_item2>」を おぼえた！": "<%sM_pc> learned the \"<%sM_item2>\"|facial expression!"
     },
     "92": {
         "clarity_nt_char_28": "clarity_nt_char_28"
     },
     "93": {
-        "<%sM_pc>は|表情「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|<%sM_item>は|光に包まれ　消え去った！|<br>|『キャラクターの設定』の|『顔アイコン表情設定』から|おぼえた表情を　設定してみよう！": ""
+        "<%sM_pc>は|表情「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|<%sM_item>は|光に包まれ　消え去った！|<br>|『キャラクターの設定』の|『顔アイコン表情設定』から|おぼえた表情を　設定してみよう！": "<%sM_pc> learned the \"<%sM_item2>\"|facial expression!<se_nots System 7>|<br>|<%sM_item> disappeared in|a flash of light!|<br>|You can change your facial expression using|the \"Facial Expression\" command in the|\"Character\" settings!"
     },
     "94": {
         "clarity_nt_char_29": "clarity_nt_char_29"

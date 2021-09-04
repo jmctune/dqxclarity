@@ -132,7 +132,7 @@
         "<%sB_ACTOR>は レベル<%dB_VALUE>から <%dB_VALUE2>に あがった！": "<%sB_ACTOR>'s level increased from <%dB_VALUE> to <%dB_VALUE2>!"
     },
     "45": {
-        "<%dB_VALUE>ゴールドを 手に入れた！": "You received <%dB_VALUE> Gold!"
+        "<%dB_VALUE>ゴールドを 手に入れた！": "Received <%dB_VALUE> Gold!"
     },
     "46": {
         "<%dB_VALUE>Ｐの経験値 <%dB_VALUE2>Ｇ かくとく！": "<%dB_VALUE> EXP and <%dB_VALUE2> Gold received!"
@@ -318,7 +318,7 @@
         "clarity_nt_char_37": "clarity_nt_char_37"
     },
     "107": {
-        "特訓スタンプを <%dB_VALUE> 個 かくとく！": "You received <%dB_VALUE> special training stamps!"
+        "特訓スタンプを <%dB_VALUE> 個 かくとく！": "Received <%dB_VALUE> special training stamps!"
     },
     "108": {
         "今の戦いは 特訓には ならなかった。": "This battle is not special training."
@@ -426,7 +426,7 @@
         "clarity_nt_char_48": "clarity_nt_char_48"
     },
     "143": {
-        "ちいさなメダルを <%dB_VALUE>枚 かくとく！": "You received <%dB_VALUE> Mini Medals!"
+        "ちいさなメダルを <%dB_VALUE>枚 かくとく！": "Received <%dB_VALUE> Mini Medals!"
     },
     "144": {
         "<%sB_ITEM>を　旅のコンシェルジュに送った！": "<%sB_ITEM> was sent to the concierge!"

@@ -54,7 +54,7 @@
         "家事手伝い": ""
     },
     "19": {
-        "アーティスト": ""
+        "アーティスト": "Artist"
     },
     "20": {
         "clarity_nt_char_5": "clarity_nt_char_5"
@@ -150,7 +150,7 @@
         "clarity_nt_char_14": "clarity_nt_char_14"
     },
     "51": {
-        "部長": ""
+        "部長": "Leader"
     },
     "52": {
         "clarity_nt_char_15": "clarity_nt_char_15"
@@ -1230,13 +1230,13 @@
         "clarity_nt_char_147": "clarity_nt_char_147"
     },
     "411": {
-        "グランマーズ": ""
+        "グランマーズ": "Gran Mars"
     },
     "412": {
         "clarity_nt_char_148": "clarity_nt_char_148"
     },
     "413": {
-        "クロニコ": ""
+        "クロニコ": "Chronico"
     },
     "414": {
         "clarity_nt_char_149": "clarity_nt_char_149"
@@ -1410,7 +1410,7 @@
         "の考古学者": ""
     },
     "471": {
-        "ロジクル": ""
+        "ロジクル": "Lojikul"
     },
     "472": {
         "clarity_nt_char_168": "clarity_nt_char_168"
@@ -1740,7 +1740,7 @@
         "だゴン": ""
     },
     "581": {
-        "ダーク": ""
+        "ダーク": "Dark"
     },
     "582": {
         "反逆者": ""
@@ -2127,7 +2127,7 @@
         "clarity_nt_char_257": "clarity_nt_char_257"
     },
     "710": {
-        "ナドラガ": ""
+        "ナドラガ": "Nadraga"
     },
     "711": {
         "clarity_nt_char_258": "clarity_nt_char_258"
@@ -2181,7 +2181,7 @@
         "ラセド": ""
     },
     "728": {
-        "リリム": ""
+        "リリム": "Lilim"
     },
     "729": {
         "バレクス": "Barex"
@@ -2217,7 +2217,7 @@
         "clarity_nt_char_269": "clarity_nt_char_269"
     },
     "740": {
-        "ベサワキ": ""
+        "ベサワキ": "Besawaki"
     },
     "741": {
         "clarity_nt_char_270": "clarity_nt_char_270"
@@ -2343,7 +2343,7 @@
         "ギルガラン": "Gilgaran"
     },
     "782": {
-        "グリエ": ""
+        "グリエ": "Grei"
     },
     "783": {
         "オルセコ": ""
@@ -2430,7 +2430,7 @@
         "clarity_nt_char_295": "clarity_nt_char_295"
     },
     "811": {
-        "大魔神": ""
+        "大魔神": "Great God"
     },
     "812": {
         "幸福": ""
@@ -2499,7 +2499,7 @@
         "clarity_nt_char_304": "clarity_nt_char_304"
     },
     "834": {
-        "プクラス": ""
+        "プクラス": "Pukulas"
     },
     "835": {
         "clarity_nt_char_305": "clarity_nt_char_305"
@@ -3564,7 +3564,7 @@
         "clarity_nt_char_430": "clarity_nt_char_430"
     },
     "1189": {
-        "星拳士": ""
+        "星拳士": "Starfghtr"
     },
     "1190": {
         "超心覚": ""
@@ -3594,7 +3594,7 @@
         "大富豪": "Tycoon"
     },
     "1199": {
-        "キュルル": "Qululu"
+        "キュルル": "Kyururu"
     },
     "1200": {
         "clarity_nt_char_434": "clarity_nt_char_434"
@@ -3699,7 +3699,7 @@
         "の女神": ""
     },
     "1234": {
-        "イルーシャ": ""
+        "イルーシャ": "Ilusha"
     },
     "1235": {
         "ナラジア": ""
@@ -3819,7 +3819,7 @@
         "願いの": ""
     },
     "1274": {
-        "ナジーン": ""
+        "ナジーン": "Nazine"
     },
     "1275": {
         "clarity_nt_char_461": "clarity_nt_char_461"
@@ -3831,6 +3831,6 @@
         "clarity_nt_char_462": "clarity_nt_char_462"
     },
     "1278": {
-        "主": ""
+        "主": "Lrd"
     }
 }

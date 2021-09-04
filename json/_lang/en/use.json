@@ -3015,7 +3015,7 @@
         "ぎゅっとあんるしあ": ""
     },
     "1006": {
-        "ぎゅっとはぐりん": ""
+        "ぎゅっとはぐりん": "Metabble Armband"
     },
     "1007": {
         "clarity_nt_char_326": "clarity_nt_char_326"
@@ -11412,10 +11412,10 @@
         "どーるしゅぞくへんこうちけっと": "Doll Race Change Ticket"
     },
     "3805": {
-        "どーるしょないすぽーず": "Doll Book-Nice Pose"
+        "どーるしょないすぽーず": "Doll Book \"Nice Pose\""
     },
     "3806": {
-        "どーるしょいのる": "Doll Book-Pray"
+        "どーるしょいのる": "Doll Book \"Pray\""
     },
     "3807": {
         "clarity_nt_char_1246": "clarity_nt_char_1246"
@@ -11487,13 +11487,13 @@
         "どーるしょばとるぽーず": "Doll Book -Battle Pose"
     },
     "3830": {
-        "どーるしょぶきかかげ": "Doll Book-Raise Weapon"
+        "どーるしょぶきかかげ": "Doll Book \"Raise Weapon\""
     },
     "3831": {
         "clarity_nt_char_1255": "clarity_nt_char_1255"
     },
     "3832": {
-        "どーるしょぼけ": "Doll Book-Silly"
+        "どーるしょぼけ": "Doll Book \"Silly\""
     },
     "3833": {
         "のきんきゅういらいしょ": ""
@@ -11823,7 +11823,7 @@
         "あいのちょこれーと": ""
     },
     "3942": {
-        "くまのぬいぐるみ": ""
+        "くまのぬいぐるみ": "Teddy Bear"
     },
     "3943": {
         "clarity_nt_char_1286": "clarity_nt_char_1286"
@@ -20919,7 +20919,7 @@
         "あくまのきしのぞう": ""
     },
     "6974": {
-        "うごくせきぞうのぞう": ""
+        "うごくせきぞうのぞう": "Living Statue Statue"
     },
     "6975": {
         "clarity_nt_char_2289": "clarity_nt_char_2289"
@@ -33030,7 +33030,7 @@
         "ちゃしばくーるかぷせる": "Cool Tea Shiba Capsule"
     },
     "11011": {
-        "ちゃしばもだんかぷせる": "Modern Tea Shiba Caps."
+        "ちゃしばもだんかぷせる": "Hip Tea Shiba Capsule"
     },
     "11012": {
         "ちゃしばぴゅあかぷせる": "Pure Tea Shiba Capsule"
@@ -33045,7 +33045,7 @@
         "くろしばくーるかぷせる": "Cool Black Shiba Caps."
     },
     "11016": {
-        "くろしばもだんかぷせる": "Modern Black Shiba Cap."
+        "くろしばもだんかぷせる": "Hip Black Shiba Capsule"
     },
     "11017": {
         "くろしばぴゅあかぷせる": "Pure Black Shiba Caps."
@@ -33060,7 +33060,7 @@
         "しろしばくーるかぷせる": "Cool White Shiba Caps."
     },
     "11021": {
-        "しろしばもだんかぷせる": "Modern White Shiba Cap."
+        "しろしばもだんかぷせる": "Hip White Shiba Capsule"
     },
     "11022": {
         "しろしばぴゅあかぷせる": "Pure White Shiba Caps."
@@ -33636,19 +33636,19 @@
         "くろぶたちゃんかぷせる": "Black Girl Piglet Caps."
     },
     "11213": {
-        "ぶちぶたかぷせる": "Buchi Pig Capsule"
+        "ぶちぶたかぷせる": "Spot Pig Capsule"
     },
     "11214": {
         "clarity_nt_char_3704": "clarity_nt_char_3704"
     },
     "11215": {
-        "ぶちぶたくんかぷせる": "Buchi Piglet Boy Caps."
+        "ぶちぶたくんかぷせる": "Spot Piglet Boy Capsule"
     },
     "11216": {
         "clarity_nt_char_3705": "clarity_nt_char_3705"
     },
     "11217": {
-        "ぶちぶたちゃんかぷせる": "Buchi Piglet Girl Caps."
+        "ぶちぶたちゃんかぷせる": "Spot Piglet Girl Caps."
     },
     "11218": {
         "うりぼーかぷせる": "Wild Boar Capsule"
@@ -50142,7 +50142,7 @@
         "clarity_nt_char_5493": "clarity_nt_char_5493"
     },
     "16715": {
-        "会心率と呪文暴走率 +1.5%": "Critical & Haywire Rate +1.5%"
+        "会心率と呪文暴走率 +1.5%": "Critical/Haywire Rate +1.5%"
     },
     "16716": {
         "光の攻撃ダメージ +5%": "Light Attack Damage +5%"
@@ -51777,7 +51777,7 @@
         "clarity_nt_char_5676": "clarity_nt_char_5676"
     },
     "17260": {
-        "会心率と呪文暴走率 +1.0%": "Critical & Haywire Rate +1%"
+        "会心率と呪文暴走率 +1.0%": "Critical/Haywire Rate +1%"
     },
     "17261": {
         "3.0%でターン消費なし(試合無効)": "Don't Use Turn 3% (No PvP)"
