@@ -8964,7 +8964,7 @@
         "リンクスの工場": "Lynx's Factory"
     },
     "2989": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下": "<%sW_MAP_NAME><%sW_DELIMITER>Under"
     },
     "2990": {
         "古ガリアル洞 入口": ""
@@ -9204,7 +9204,7 @@
         "灼熱の溶岩窟 入口": ""
     },
     "3069": {
-        "古グルグ地下道 入口": ""
+        "古グルグ地下道 入口": "Old Gulug Underpass Entry"
     },
     "3070": {
         "clarity_nt_char_979": "clarity_nt_char_979"
@@ -9231,7 +9231,7 @@
         "clarity_nt_char_981": "clarity_nt_char_981"
     },
     "3078": {
-        "ウルベア地下帝国 入口": ""
+        "ウルベア地下帝国 入口": "Urbea Underground City Entry"
     },
     "3079": {
         "選王の儀礼場 出口": ""
@@ -9771,7 +9771,7 @@
         "clarity_nt_char_1037": "clarity_nt_char_1037"
     },
     "3258": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第５刻地下１階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第５刻地下１階": "<%sW_MAP_NAME><%sW_DELIMITER>5th Time B1F"
     },
     "3259": {
         "clarity_nt_char_1038": "clarity_nt_char_1038"
