@@ -6198,10 +6198,10 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>達人": "<%sW_MAP_NAME><%sW_DELIMITER>Master"
     },
     "2067": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下水脈": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下水脈": "<%sW_MAP_NAME><%sW_DELIMITER>Water Vein"
     },
     "2068": {
-        "地下水脈 出口": ""
+        "地下水脈 出口": "Water Vein Exit"
     },
     "2069": {
         "<%sW_MAP_NAME><%sW_DELIMITER>ナッチョスのテント": "<%sW_MAP_NAME><%sW_DELIMITER>Natchos' Tent"
@@ -7632,7 +7632,7 @@
         "clarity_nt_char_798": "clarity_nt_char_798"
     },
     "2545": {
-        "ムストの町・地下 入口": ""
+        "ムストの町・地下 入口": "Must Village - Basement Entry"
     },
     "2546": {
         "神獣の森 入口": ""
