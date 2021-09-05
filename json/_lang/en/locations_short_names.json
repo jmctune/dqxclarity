@@ -6141,7 +6141,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>書庫": "<%sW_MAP_NAME><%sW_DELIMITER>Study"
     },
     "2048": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>長老の家": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>長老の家": "<%sW_MAP_NAME><%sW_DELIMITER>Elder Family"
     },
     "2049": {
         "煙霧の谷への出口": "Exit to Haze Valley"
@@ -10032,7 +10032,7 @@
         "clarity_nt_char_1066": "clarity_nt_char_1066"
     },
     "3345": {
-        "ファラザード城 入口": ""
+        "ファラザード城 入口": "Farazard Castle Entrance"
     },
     "3346": {
         "clarity_nt_char_1067": "clarity_nt_char_1067"
@@ -10050,7 +10050,7 @@
         "砂の都ファラザードへの出口": "Exit to Sand City Farazard"
     },
     "3351": {
-        "砂の都ファラザードへの道": ""
+        "砂の都ファラザードへの道": "Road to Sand City Farazard"
     },
     "3352": {
         "clarity_nt_char_1069": "clarity_nt_char_1069"
@@ -10527,7 +10527,7 @@
         "clarity_nt_char_1121": "clarity_nt_char_1121"
     },
     "3510": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>オジャロス大公の領地": "<%sW_MAP_NAME><%sW_DELIMITER>Grand Duke Ojaros Territory"
+        "<%sW_MAP_NAME><%sW_DELIMITER>オジャロス大公の領地": "<%sW_MAP_NAME><%sW_DELIMITER>Grand Duke Ojalos Territory"
     },
     "3511": {
         "<%sW_MAP_NAME><%sW_DELIMITER>ベラストル家-大広間": "<%sW_MAP_NAME><%sW_DELIMITER>Belastre House - Great Hall"
@@ -10689,7 +10689,7 @@
         "clarity_nt_char_1140": "clarity_nt_char_1140"
     },
     "3564": {
-        "ポイポイ商会倉庫 出口": ""
+        "ポイポイ商会倉庫 出口": "Poi Poi Firm Warehouse Exit"
     },
     "3565": {
         "ゼクレス城": "Zechres Castle"
@@ -10881,7 +10881,7 @@
         "clarity_nt_char_1158": "clarity_nt_char_1158"
     },
     "3628": {
-        "デモンマウンテンへの道": ""
+        "デモンマウンテンへの道": "Road to Demon Mountain"
     },
     "3629": {
         "レビンの洞くつ 出口": ""
@@ -10890,7 +10890,7 @@
         "clarity_nt_char_1159": "clarity_nt_char_1159"
     },
     "3631": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>オジャロスの部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Ojaros's Room"
+        "<%sW_MAP_NAME><%sW_DELIMITER>オジャロスの部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Ojalos's Room"
     },
     "3632": {
         "<%sW_MAP_NAME><%sW_DELIMITER>アスバルの部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Asbal's Room"
@@ -10899,7 +10899,7 @@
         "clarity_nt_char_1160": "clarity_nt_char_1160"
     },
     "3634": {
-        "ゼクレス城 出口": ""
+        "ゼクレス城 出口": "Zechres Castle Exit"
     },
     "3635": {
         "clarity_nt_char_1161": "clarity_nt_char_1161"
@@ -11403,7 +11403,7 @@
         "clarity_nt_char_1219": "clarity_nt_char_1219"
     },
     "3802": {
-        "衣装係": ""
+        "衣装係": "Cos.Clerk"
     },
     "3803": {
         "砂塵の遺跡 出口": ""
@@ -11940,7 +11940,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>？？？階": ""
     },
     "3981": {
-        "記憶の魔結晶": ""
+        "記憶の魔結晶": "Magic Mem. Crystal"
     },
     "3982": {
         "clarity_nt_char_1287": "clarity_nt_char_1287"
