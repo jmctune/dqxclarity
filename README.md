@@ -2,7 +2,7 @@
 <img src="http://weblate.ethene.wiki/widgets/dragon-quest-x/en/svg-badge.svg" alt="Translation status" />
 </a>
 
-[Discord](https://discord.gg/bVpNqVjEG5) : Don't ask for help anywhere but in #translation-discussion
+[Discord](https://discord.gg/M8cBZPUN7p)
 
 Translates the command menu and other misc. text into English for the popular game "Dragon Quest X".
 
