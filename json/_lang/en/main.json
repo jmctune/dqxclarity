@@ -4812,7 +4812,7 @@
         "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|フレンドに　さそえませんでした。|時間を置いて　もう一度お試しください。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) could not be added as a friend.|Please wait a while and try again."
     },
     "1605": {
-        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は|フレンドリストが　いっぱいのようです。|フレンドに　さそえませんでした。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>)'s friends list seems to be full.|They cannot be added as a friend."
+        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は|フレンドリストが　いっぱいのようです。|フレンドに　さそえませんでした。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>)'s friends list|seems to be full. They cannot be added as a|friend."
     },
     "1606": {
         "ブラックリスト": "Blacklist"
