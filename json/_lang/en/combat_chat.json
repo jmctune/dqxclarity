@@ -27609,19 +27609,19 @@
         "clarity_nt_char_3064": "clarity_nt_char_3064"
     },
     "9204": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 力のカードの効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 力のカードの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Power Card effect faded!"
     },
     "9205": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 星のカードの効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 星のカードの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Star Card effect faded!"
     },
     "9206": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 皇帝のカードの効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 皇帝のカードの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Emperor Card effect faded!"
     },
     "9207": {
         "clarity_nt_char_3065": "clarity_nt_char_3065"
     },
     "9208": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 悪魔のカードの効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 悪魔のカードの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Devil Card effect faded!"
     },
     "9209": {
         "clarity_nt_char_3066": "clarity_nt_char_3066"
