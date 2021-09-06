@@ -123,7 +123,7 @@
         "<pc>は|<%dL_EXP> Pの職人経験値を　かくとく！|<bw_break>": "<pc>|gained <%dL_EXP> Craftsman EXP!|<bw_break>"
     },
     "42": {
-        "<pc>の職人レベルが　<%dL_RANK>にあがった！": ""
+        "<pc>の職人レベルが　<%dL_RANK>にあがった！": "<pc> reached Craftsman Level <%dL_RANK>!"
     },
     "43": {
         "clarity_nt_char_15": "clarity_nt_char_15"
@@ -156,7 +156,7 @@
         "とくぎをつかう": ""
     },
     "53": {
-        "地金を水に入れて|アイテムを|完成させます": ""
+        "地金を水に入れて|アイテムを|完成させます": "Put the bullion|in water and|finish the item."
     },
     "54": {
         "レベルアップで|覚えた特技を使う": "Use skills you've|learned from|leveling up."
