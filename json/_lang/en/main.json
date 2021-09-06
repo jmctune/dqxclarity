@@ -4812,7 +4812,7 @@
         "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|フレンドに　さそえませんでした。|時間を置いて　もう一度お試しください。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) could not be added as a friend.|Please wait a while and try again."
     },
     "1605": {
-        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は|フレンドリストが　いっぱいのようです。|フレンドに　さそえませんでした。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>)'s friends list seems to be full.|They cannot be added as a friend."
+        "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は|フレンドリストが　いっぱいのようです。|フレンドに　さそえませんでした。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>)'s friends list|seems to be full. They cannot be added as a|friend."
     },
     "1606": {
         "ブラックリスト": "Blacklist"
@@ -8280,7 +8280,7 @@
         "現在の有効期間": "Valid Period"
     },
     "2761": {
-        "内容": ""
+        "内容": "Detail"
     },
     "2762": {
         "clarity_nt_char_959": "clarity_nt_char_959"
@@ -12036,7 +12036,7 @@
         "セット効果": "Set Effects"
     },
     "4013": {
-        "装備できる仲間モンスター": "Monsters that can equip"
+        "装備できる仲間モンスター": "Monsters Usable By"
     },
     "4014": {
         "clarity_nt_char_1369": "clarity_nt_char_1369"
@@ -12441,7 +12441,7 @@
         "clarity_nt_char_1417": "clarity_nt_char_1417"
     },
     "4148": {
-        "全てのモンスターが装備できる": "All monsters can equip"
+        "全てのモンスターが装備できる": "All monsters can equip this."
     },
     "4149": {
         "clarity_nt_char_1418": "clarity_nt_char_1418"
@@ -12912,7 +12912,7 @@
         "clarity_nt_char_1467": "clarity_nt_char_1467"
     },
     "4305": {
-        "自分で釣った|<%sL_ITEM>を１匹": ""
+        "自分で釣った|<%sL_ITEM>を１匹": "1 <%sL_ITEM> you|caught yourself."
     },
     "4306": {
         "clarity_nt_char_1468": "clarity_nt_char_1468"
@@ -14394,10 +14394,10 @@
         "clarity_nt_char_1634": "clarity_nt_char_1634"
     },
     "4799": {
-        "ふくびきをする": "Play Lucky Draw"
+        "ふくびきをする": "Play Lottery"
     },
     "4800": {
-        "元気チャージ交換": "Charge Time Exch."
+        "元気チャージ交換": "Spend Charge Hours"
     },
     "4801": {
         "clarity_nt_char_1635": "clarity_nt_char_1635"
@@ -18414,7 +18414,7 @@
         "clarity_nt_char_2090": "clarity_nt_char_2090"
     },
     "6139": {
-        "クラスメイト選択": ""
+        "クラスメイト選択": "Select Classmate"
     },
     "6140": {
         "clarity_nt_char_2091": "clarity_nt_char_2091"
@@ -25533,7 +25533,7 @@
         "勢力ランキング": ""
     },
     "8512": {
-        "第<%nM_00>回対抗戦": ""
+        "第<%nM_00>回対抗戦": "Competition #<%nM_00>"
     },
     "8513": {
         "なでる": "Stroke"
@@ -25608,7 +25608,7 @@
         "clarity_nt_char_2882": "clarity_nt_char_2882"
     },
     "8537": {
-        "第<%nM_00>回対抗戦　前半": ""
+        "第<%nM_00>回対抗戦　前半": "Competition #<%nM_00> - 1st Half"
     },
     "8538": {
         "clarity_nt_char_2883": "clarity_nt_char_2883"
@@ -25620,7 +25620,7 @@
         "clarity_nt_char_2884": "clarity_nt_char_2884"
     },
     "8541": {
-        "第<%nM_00>回対抗戦　後半": ""
+        "第<%nM_00>回対抗戦　後半": "Competition #<%nM_00> - 2nd Half"
     },
     "8542": {
         "clarity_nt_char_2885": "clarity_nt_char_2885"

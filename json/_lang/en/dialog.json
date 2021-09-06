@@ -393,10 +393,10 @@
         "clarity_nt_char_42": "clarity_nt_char_42"
     },
     "132": {
-        "<%sM_item><%sM_plusnum>を 手に入れた！": "You received <%sM_item> <%sM_plusnum>!"
+        "<%sM_item><%sM_plusnum>を 手に入れた！": "Received <%sM_item> <%sM_plusnum>!"
     },
     "133": {
-        "<%dM_gold>ゴールドを 手に入れた！": "You received <%dM_gold> Gold!"
+        "<%dM_gold>ゴールドを 手に入れた！": "Received <%dM_gold> Gold!"
     },
     "134": {
         "clarity_nt_char_43": "clarity_nt_char_43"
@@ -1047,7 +1047,7 @@
         "<%dM_gold>ゴールド　失った……。": "Lost <%dM_gold> gold..."
     },
     "350": {
-        "<%sM_item>を 手に入れた！": "You received <%sM_item>!"
+        "<%sM_item>を 手に入れた！": "Received <%sM_item>!"
     },
     "351": {
         "clarity_nt_char_120": "clarity_nt_char_120"
@@ -8208,7 +8208,7 @@
         "試合の得点": ""
     },
     "2737": {
-        "クエストクリアで|解放されます": "Released by clearing|the quest."
+        "クエストクリアで|解放されます": "Released by|clearing the|quest."
     },
     "2738": {
         "はぐれモンスターを倒した": ""
