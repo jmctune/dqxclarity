@@ -24771,13 +24771,13 @@
         "clarity_nt_char_2749": "clarity_nt_char_2749"
     },
     "8258": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 太陽のカードの効果が かかった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 太陽のカードの効果が かかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained a Sun Card effect!"
     },
     "8259": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死神のカードの効果が かかった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死神のカードの効果が かかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained a Reaper Card effect!"
     },
     "8260": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 審判のカードの効果が かかった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 審判のカードの効果が かかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained a Judgement Card effect!"
     },
     "8261": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 攻撃無効と威力アップのチカラを うけとった！": ""
