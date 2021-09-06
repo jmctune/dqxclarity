@@ -531,7 +531,7 @@
         "clarity_nt_char_67": "clarity_nt_char_67"
     },
     "178": {
-        "<%sL_KIND_GROUP>の途中で キャンセルはできません！": ""
+        "<%sL_KIND_GROUP>の途中で キャンセルはできません！": "You're in the middle of <%sL_KIND_GROUP>!"
     },
     "179": {
         "道具鍛冶": "Toolsmith"
