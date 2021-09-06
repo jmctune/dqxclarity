@@ -105,7 +105,7 @@
         "clarity_nt_char_13": "clarity_nt_char_13"
     },
     "36": {
-        "左右２マスをぬう": "Sew 2 squares|horizontally."
+        "左右２マスをぬう": "Sew 2 squares|horizontal"
     },
     "37": {
         "clarity_nt_char_14": "clarity_nt_char_14"
@@ -117,13 +117,13 @@
         "clarity_nt_char_15": "clarity_nt_char_15"
     },
     "40": {
-        "上下２マスをぬう": "Sew 2 square|vertically"
+        "上下２マスをぬう": "Sew 2 square|vertically."
     },
     "41": {
         "clarity_nt_char_16": "clarity_nt_char_16"
     },
     "42": {
-        "タテ３マスをぬう": "Sew 3 square|vertically"
+        "タテ３マスをぬう": "Sew 3 square|vertically."
     },
     "43": {
         "clarity_nt_char_17": "clarity_nt_char_17"
@@ -135,25 +135,25 @@
         "ナナメ２マスを|左上へぬう": "Sew 2 squares|diagonally|top left."
     },
     "46": {
-        "半分のチカラで|１マスをぬう": "Sew 1 square|at half power"
+        "半分のチカラで|１マスをぬう": "Sew 1 square|at half power."
     },
     "47": {
         "clarity_nt_char_18": "clarity_nt_char_18"
     },
     "48": {
-        "２倍のチカラで|１マスをぬう": "Sew 1 square|at double power"
+        "２倍のチカラで|１マスをぬう": "Sew 1 square|at double power."
     },
     "49": {
         "clarity_nt_char_19": "clarity_nt_char_19"
     },
     "50": {
-        "３倍のチカラで|１マスをぬう": "Sew 1 square|at 3x power"
+        "３倍のチカラで|１マスをぬう": "Sew 1 square|at triple|power."
     },
     "51": {
         "clarity_nt_char_20": "clarity_nt_char_20"
     },
     "52": {
-        "通常より|高い会心率で|１マスをぬう": "Sew 1 square|chance for a|perfect sew"
+        "通常より|高い会心率で|１マスをぬう": "Sew 1 square with|a high critical|chance."
     },
     "53": {
         "clarity_nt_char_21": "clarity_nt_char_21"
