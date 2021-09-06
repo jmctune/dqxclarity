@@ -219,7 +219,7 @@
         "<%sL_SYOKUNIN_KIND>で <%sB_item>に|<%sL_RENKIN_TEXT>を付けた！": "<%sL_SYOKUNIN_KIND> added <%sL_RENKIN_TEXT>|to <%sB_item>!"
     },
     "74": {
-        "<%sL_SYOKUNIN_KIND>で <%sM_item><%sL_QUALITY>を作った！": "<%sL_SYOKUNIN_KIND> created a <%sM_item> <%sL_QUALITY>!"
+        "<%sL_SYOKUNIN_KIND>で <%sM_item><%sL_QUALITY>を作った！": "Created <%sM_item> <%sL_QUALITY> with <%sL_SYOKUNIN_KIND> !"
     },
     "75": {
         "旅人バザーに出品していた <%sM_item><%sM_plusnum>を 取りやめた。": "Cancelled putting the <%sM_item><%sM_plusnum> up for sale."
