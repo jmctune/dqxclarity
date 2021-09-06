@@ -24759,13 +24759,13 @@
         "clarity_nt_char_2748": "clarity_nt_char_2748"
     },
     "8254": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 皇帝のカードの効果が かかった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 皇帝のカードの効果が かかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained an Emperor Card effect!"
     },
     "8255": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 悪魔のカードの効果が かかった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 悪魔のカードの効果が かかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained a Devil Card effect!"
     },
     "8256": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 月のカードの効果が かかった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 月のカードの効果が かかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained a Moon Card effect!"
     },
     "8257": {
         "clarity_nt_char_2749": "clarity_nt_char_2749"
