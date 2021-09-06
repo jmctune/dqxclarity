@@ -29262,7 +29262,7 @@
         "clarity_nt_char_3244": "clarity_nt_char_3244"
     },
     "9755": {
-        "審判のカードの効果が|かかった！": "Gained Judge|Card effect!"
+        "審判のカードの効果が|かかった！": "Gained Judgement|Card effect!"
     },
     "9756": {
         "clarity_nt_char_3245": "clarity_nt_char_3245"
@@ -31203,7 +31203,7 @@
         "clarity_nt_char_3463": "clarity_nt_char_3463"
     },
     "10402": {
-        "審判のカードの効果が|死のふちから守った！": ""
+        "審判のカードの効果が|死のふちから守った！": "Judgement Card|prevented death!"
     },
     "10403": {
         "<%sB_BASE_TARGET>と|ＨＰリンク！": ""
@@ -31797,25 +31797,25 @@
         "コマンド間隔が|もとに戻った！": "Command interval|is back to normal!"
     },
     "10600": {
-        "力のカードの効果が|きえた！": ""
+        "力のカードの効果が|きえた！": "Power Card|effect faded!"
     },
     "10601": {
         "clarity_nt_char_3526": "clarity_nt_char_3526"
     },
     "10602": {
-        "星のカードの効果が|きえた！": ""
+        "星のカードの効果が|きえた！": "Star Card|effect faded!"
     },
     "10603": {
         "clarity_nt_char_3527": "clarity_nt_char_3527"
     },
     "10604": {
-        "皇帝のカードの効果が|きえた！": ""
+        "皇帝のカードの効果が|きえた！": "Emperor Card|effect faded!"
     },
     "10605": {
-        "悪魔のカードの効果が|きえた！": ""
+        "悪魔のカードの効果が|きえた！": "Devil Card|effect faded!"
     },
     "10606": {
-        "月のカードの効果が|きえた！": ""
+        "月のカードの効果が|きえた！": "Moon Card|effect faded!"
     },
     "10607": {
         "clarity_nt_char_3528": "clarity_nt_char_3528"
