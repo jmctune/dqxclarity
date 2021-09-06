@@ -24747,13 +24747,13 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔が とても 短くなった！": ""
     },
     "8250": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 力のカードの効果が かかった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 力のカードの効果が かかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's gained a Power Card effect!"
     },
     "8251": {
         "clarity_nt_char_2747": "clarity_nt_char_2747"
     },
     "8252": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 星のカードの効果が かかった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 星のカードの効果が かかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained a Star Card effect!"
     },
     "8253": {
         "clarity_nt_char_2748": "clarity_nt_char_2748"
