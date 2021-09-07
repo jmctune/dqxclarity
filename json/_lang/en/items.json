@@ -10218,7 +10218,7 @@
         "レンタル衣装無料券": "Free Outfit Rental Tkt"
     },
     "3407": {
-        "しぐさ書・手をつなぐ": "Emote Book \"Hold Hands\""
+        "しぐさ書・手をつなぐ": "Emote \"Hold Hands\""
     },
     "3408": {
         "clarity_nt_char_1061": "clarity_nt_char_1061"
@@ -10230,10 +10230,10 @@
         "しぐさ書・もじもじ": ""
     },
     "3411": {
-        "しぐさ書・決め右前": "Emote Bk \"Pose R Front\""
+        "しぐさ書・決め右前": "Emote \"Pose R. Front\""
     },
     "3412": {
-        "しぐさ書・決め左前": "Emote Bk \"Pose L Front\""
+        "しぐさ書・決め左前": "Emote \"Pose L. Front\""
     },
     "3413": {
         "バラモスコイン": "Baramos Coin"
@@ -10458,10 +10458,10 @@
         "しぐさ書・怒る": ""
     },
     "3487": {
-        "しぐさ書・おびえる": "Emote Book \"Scared\""
+        "しぐさ書・おびえる": "Emote \"Scared\""
     },
     "3488": {
-        "しぐさ書・ショック": "Emote Book \"Shock\""
+        "しぐさ書・ショック": "Emote \"Shock\""
     },
     "3489": {
         "しぐさ書・とまどう": ""
@@ -10539,19 +10539,19 @@
         "リベリオ衣装券": ""
     },
     "3514": {
-        "しぐさ書・コイントス": "Emote Book \"Coin Toss\""
+        "しぐさ書・コイントス": "Emote \"Coin Toss\""
     },
     "3515": {
         "clarity_nt_char_1088": "clarity_nt_char_1088"
     },
     "3516": {
-        "しぐさ書・カード引く": "Emote Book \"Draw Card\""
+        "しぐさ書・カード引く": "Emote \"Draw Card\""
     },
     "3517": {
         "clarity_nt_char_1089": "clarity_nt_char_1089"
     },
     "3518": {
-        "しぐさ書・サボテンダー": "Emote Book \"Cactuar\""
+        "しぐさ書・サボテンダー": "Emote \"Cactuar\""
     },
     "3519": {
         "新春ふくびき券": "New Year Lottery Tkt"
@@ -11343,7 +11343,7 @@
         "clarity_nt_char_1164": "clarity_nt_char_1164"
     },
     "3782": {
-        "しぐさ書・飛び出すＶ": "Emote Book \"V Pops Out!\""
+        "しぐさ書・飛び出すＶ": "Emote \"V Pops Out!\""
     },
     "3783": {
         "clarity_nt_char_1165": "clarity_nt_char_1165"
@@ -11622,7 +11622,7 @@
         "<%sM_npc>の緊急依頼書": "<%sM_npc>'s Urgent Request"
     },
     "3875": {
-        "しぐさ書・ガード": "Emote Book \"Guard\""
+        "しぐさ書・ガード": "Emote \"Guard\""
     },
     "3876": {
         "clarity_nt_char_1192": "clarity_nt_char_1192"
@@ -11832,7 +11832,7 @@
         "clarity_nt_char_1214": "clarity_nt_char_1214"
     },
     "3945": {
-        "しぐさ書・土下座": "Emote Book \"Worship\""
+        "しぐさ書・土下座": "Emote \"Worship\""
     },
     "3946": {
         "clarity_nt_char_1215": "clarity_nt_char_1215"
@@ -12459,7 +12459,7 @@
         "ポーズ書・釣り仙人": "Pose Book \"Fish Hermit\""
     },
     "4154": {
-        "しぐさ書・波止場ポーズ": "Emote Book \"Wharf Pose\""
+        "しぐさ書・波止場ポーズ": "Emote \"Wharf Pose\""
     },
     "4155": {
         "しぐさ書・綿毛": ""
@@ -12888,7 +12888,7 @@
         "福の花びら": "Luck Petal"
     },
     "4297": {
-        "しぐさ書・リュート": "Emote Book \"Lute\""
+        "しぐさ書・リュート": "Emote \"Lute\""
     },
     "4298": {
         "しぐさ書・花束": "Gesture B. Bouquet"
@@ -13119,7 +13119,7 @@
         "clarity_nt_char_1324": "clarity_nt_char_1324"
     },
     "4374": {
-        "しぐさ書・線香花火": "Emote Book \"Sparkler\""
+        "しぐさ書・線香花火": "Emote \"Sparkler\""
     },
     "4375": {
         "しぐさ書・盆踊り": ""
@@ -13365,7 +13365,7 @@
         "clarity_nt_char_1352": "clarity_nt_char_1352"
     },
     "4456": {
-        "しぐさ書・ハイタッチ": "Emote Book \"High Five\""
+        "しぐさ書・ハイタッチ": "Emote \"High Five\""
     },
     "4457": {
         "clarity_nt_char_1353": "clarity_nt_char_1353"
@@ -15036,7 +15036,7 @@
         "clarity_nt_char_1492": "clarity_nt_char_1492"
     },
     "5013": {
-        "しぐさ書・かき氷": "Emote Book \"Shaved Ice\""
+        "しぐさ書・かき氷": "Emote \"Shaved Ice\""
     },
     "5014": {
         "clarity_nt_char_1493": "clarity_nt_char_1493"
@@ -15264,13 +15264,13 @@
         "clarity_nt_char_1523": "clarity_nt_char_1523"
     },
     "5089": {
-        "しぐさ書・フルート": "Emote Book \"Flute\""
+        "しぐさ書・フルート": "Emote \"Flute\""
     },
     "5090": {
         "しぐさ書・リバーダンス": ""
     },
     "5091": {
-        "しぐさ書・アコーディオ": "Emote Book \"Accordion\""
+        "しぐさ書・アコーディオ": "Emote \"Accordion\""
     },
     "5092": {
         "しぐさ書・お祝い": ""
@@ -15288,7 +15288,7 @@
         "clarity_nt_char_1525": "clarity_nt_char_1525"
     },
     "5097": {
-        "しぐさ書・Ｖロン": "Emote Book \"Vron\""
+        "しぐさ書・Ｖロン": "Emote \"Vron\""
     },
     "5098": {
         "clarity_nt_char_1526": "clarity_nt_char_1526"
@@ -18159,7 +18159,7 @@
         "clarity_nt_char_1801": "clarity_nt_char_1801"
     },
     "6054": {
-        "しぐさ書・かわいがる": "Emote Book \"Pet Monster\""
+        "しぐさ書・かわいがる": "Emote \"Pet Monster\""
     },
     "6055": {
         "clarity_nt_char_1802": "clarity_nt_char_1802"
@@ -42759,7 +42759,7 @@
         "ジュエルサイズ": "Jewel Scythe"
     },
     "14254": {
-        "しぐさ書・拳をかかげる": "Emote Book \"Raise Fist\""
+        "しぐさ書・拳をかかげる": "Emote \"Raise Fist\""
     },
     "14255": {
         "しぐさ書・花を背負う": ""
@@ -77853,7 +77853,7 @@
         "庭にひとつだけ|置ける栽培用の畑|毛糸大好き猫付き": ""
     },
     "25952": {
-        "しぐさ書・ヨーヨー風船": "Emote Book \"Balloon Yoyo\""
+        "しぐさ書・ヨーヨー風船": "Emote \"Balloon Yoyo\""
     },
     "25953": {
         "しぐさ書・バラの魔法": ""
