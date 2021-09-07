@@ -3378,7 +3378,7 @@
         "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>海神の神殿跡<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%dW_AUTODUNG_LV><%sW_DELIMITER>Sea Temple Ruins<%sW_AUTODUNG_CF>"
     },
     "1127": {
-        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>星降る展望台<%sW_AUTODUNG_CF>": ""
+        "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>星降る展望台<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%dW_AUTODUNG_LV><%sW_DELIMITER>Observation Deck<%sW_AUTODUNG_CF>"
     },
     "1128": {
         "<%sW_MAP_NAME><%sW_LV><%nW_AUTODUNG_LV><%sW_DELIMITER>闘士の鐘楼<%sW_AUTODUNG_CF>": "<%sW_MAP_NAME><%sW_LV><%dW_AUTODUNG_LV><%sW_DELIMITER>Fighter's Bell<%sW_AUTODUNG_CF>"
@@ -3990,7 +3990,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>海神の神殿跡": "<%sW_MAP_NAME><%sW_DELIMITER>Sea Temple Ruins"
     },
     "1331": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>星降る展望台": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>星降る展望台": "<%sW_MAP_NAME><%sW_DELIMITER>Observation Deck"
     },
     "1332": {
         "<%sW_MAP_NAME><%sW_DELIMITER>闘士の鐘楼": "<%sW_MAP_NAME><%sW_DELIMITER>Fighter's Bell"
