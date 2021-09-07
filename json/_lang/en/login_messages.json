@@ -126,7 +126,7 @@
         "冒険の書を削除できる　残り回数を|取得できませんでした。<br>|障害情報を　ご確認の上|少し時間を置いてから　もう一度|お試しください。<end>": "Couldn't retrieve number of Adventure Book|deletions remaining.<br>|Please wait a while and try again."
     },
     "43": {
-        "データを消す　冒険の書を　選んでください。<break>": "Please select an adventure book to erase.<break>"
+        "データを消す　冒険の書を　選んでください。<break>": "Please select an Adventure Book to erase.<break>"
     },
     "44": {
         "冒険の書<%nNO>を消しています……。<break>": "Adventure Book <%dNO> was deleted...<break>"
