@@ -52779,7 +52779,7 @@
         "コインＬｖ５０|のボスが登場する|魔法の迷宮で使用": "Use to fight a|Lv 50 Boss in|the Magic Maze."
     },
     "17594": {
-        "<%sM_pc>家に|一瞬で移動する|あと<%nM_num>回使える": "Use to warp to|<%sM_pc>'s home.|<%nM_num> more uses."
+        "<%sM_pc>家に|一瞬で移動する|あと<%nM_num>回使える": "Use to warp to|<%sM_pc>'s home.|<%dM_num> more uses."
     },
     "17595": {
         "clarity_nt_char_5518": "clarity_nt_char_5518"
