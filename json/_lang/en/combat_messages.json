@@ -30,13 +30,13 @@
         "<%sB_ACTOR>は 戦うのをやめた。": "<%sB_ACTOR> has stopped fighting."
     },
     "11": {
-        "<%sB_TARGET>を やっつけた！": "The <%sB_TARGET> was defeated!"
+        "<%sB_TARGET>を やっつけた！": "<%sB_TARGET> was defeated!"
     },
     "12": {
         "clarity_nt_char_5": "clarity_nt_char_5"
     },
     "13": {
-        "<%sB_TARGET>たちを やっつけた！": "The <%sB_TARGET>s were defeated!"
+        "<%sB_TARGET>たちを やっつけた！": "<%sB_TARGET>s were defeated!"
     },
     "14": {
         "clarity_nt_char_6": "clarity_nt_char_6"
@@ -1521,13 +1521,13 @@
         "チャージタイムが|発生しなかった！": "Charge time did|not happen!"
     },
     "508": {
-        "<%sB_TARGET>を　やっつけた！": "The enemy is defeated!"
+        "<%sB_TARGET>を　やっつけた！": "<%sB_TARGET> was defeated!"
     },
     "509": {
         "clarity_nt_char_175": "clarity_nt_char_175"
     },
     "510": {
-        "<%sB_TARGET>たちを　やっつけた！": "The enemies are defeated!"
+        "<%sB_TARGET>たちを　やっつけた！": "<%sB_TARGET>s were defeated!"
     },
     "511": {
         "clarity_nt_char_176": "clarity_nt_char_176"
