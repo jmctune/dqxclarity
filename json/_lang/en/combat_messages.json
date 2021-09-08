@@ -60,7 +60,7 @@
         "clarity_nt_char_9": "clarity_nt_char_9"
     },
     "21": {
-        "<%sB_TARGET>は 宝箱を 落としていった！": "The <%sB_TARGET> dropped a treasure chest!"
+        "<%sB_TARGET>は 宝箱を 落としていった！": "<%sB_TARGET> dropped a treasure chest!"
     },
     "22": {
         "clarity_nt_char_10": "clarity_nt_char_10"
@@ -96,7 +96,7 @@
         "死んでいるため レベルが あがらなかった。": "You couldn't level up because you are dead."
     },
     "33": {
-        "<%sB_TARGET>たちは 宝箱を 落としていった！": "The <%sB_TARGET>s dropped a treasure chest!"
+        "<%sB_TARGET>たちは 宝箱を 落としていった！": "<%sB_TARGET>s dropped a treasure chest!"
     },
     "34": {
         "clarity_nt_char_14": "clarity_nt_char_14"
@@ -1545,7 +1545,7 @@
         "clarity_nt_char_178": "clarity_nt_char_178"
     },
     "516": {
-        "<%sB_TARGET>は|宝箱を　落としていった！": "The enemy dropped a treasure chest!"
+        "<%sB_TARGET>は|宝箱を　落としていった！": "<%sB_TARGET> dropped a treasure chest!"
     },
     "517": {
         "clarity_nt_char_179": "clarity_nt_char_179"
@@ -1569,7 +1569,7 @@
         "死んでいるため　レベルが　あがらなかった。": "You couldn't level up because you are dead."
     },
     "524": {
-        "<%sB_TARGET>たちは|宝箱を　落としていった！": "The enemy dropped a treasure chest!"
+        "<%sB_TARGET>たちは|宝箱を　落としていった！": "<%sB_TARGET>s dropped a treasure chest!"
     },
     "525": {
         "clarity_nt_char_181": "clarity_nt_char_181"
