@@ -3480,7 +3480,7 @@
         "闇の魔力が 爆発した！": ""
     },
     "1161": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの プレゼントボックスが 開封される！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e’s gift box is opened!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの プレゼントボックスが 開封される！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e’s present box is opened!"
     },
     "1162": {
         "clarity_nt_char_409": "clarity_nt_char_409"
