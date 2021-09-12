@@ -384,7 +384,7 @@
         "ザンクローネが　仲間に加わった！|<br>|ザンクローネは　２ターンに１度|仲間全員の　テンションを|１段階　アップしてくれます！": "Zankrone joined your party!|<br>|Every 2 turns, Zankrone will increase the|entire party's tension by 1 stage!"
     },
     "129": {
-        "セラフィが　仲間に加わった！|<br>|セラフィは　毎ターン|ベホマラーを　となえて|仲間全員を　回復してくれます！": "Seraphy joined the party!|<br>|Every turn, Seraphy will cast Multiheal to|heal the entire party!"
+        "セラフィが　仲間に加わった！|<br>|セラフィは　毎ターン|ベホマラーを　となえて|仲間全員を　回復してくれます！": "Seraphi joined the party!|<br>|Every turn, Seraphi will cast Multiheal to|heal the entire party!"
     },
     "130": {
         "clarity_nt_char_130": "clarity_nt_char_130"
@@ -1380,7 +1380,7 @@
         "ザンクローネの　<%sCAS_action>！": "Zankrone's <%sCAS_action>!"
     },
     "461": {
-        "セラフィは|<%sCAS_action>を　となえた！": "Seraphy casts <%sCAS_action>!"
+        "セラフィは|<%sCAS_action>を　となえた！": "Seraphi casts <%sCAS_action>!"
     },
     "462": {
         "<%sCAS_monster>は　動きを封じられている！": "<%sCAS_monster> can't move!"
