@@ -2322,7 +2322,7 @@
         "マイユのうちわ": "Maille Fan"
     },
     "775": {
-        "セラフィのうちわ": "Seraphy Fan"
+        "セラフィのうちわ": "Seraphi Fan"
     },
     "776": {
         "clarity_nt_char_246": "clarity_nt_char_246"
@@ -3324,7 +3324,7 @@
         "clarity_nt_char_351": "clarity_nt_char_351"
     },
     "1109": {
-        "ギュッとセラフィ": "Seraphy Armband"
+        "ギュッとセラフィ": "Seraphi Armband"
     },
     "1110": {
         "clarity_nt_char_352": "clarity_nt_char_352"
@@ -9966,7 +9966,7 @@
         "clarity_nt_char_1028": "clarity_nt_char_1028"
     },
     "3323": {
-        "お月見だんご": "Moon Viewing Bell"
+        "お月見だんご": "Moon View Dumpling"
     },
     "3324": {
         "clarity_nt_char_1029": "clarity_nt_char_1029"
@@ -13662,7 +13662,7 @@
         "ギュッとザンクの箱": "Zankrone Armband Box"
     },
     "4555": {
-        "ギュッとセラフィの箱": "Seraphy Armband Box"
+        "ギュッとセラフィの箱": "Seraphi Armband Box"
     },
     "4556": {
         "clarity_nt_char_1373": "clarity_nt_char_1373"
@@ -15453,7 +15453,7 @@
         "clarity_nt_char_1540": "clarity_nt_char_1540"
     },
     "5152": {
-        "セラフィＴシャツ": "Seraphy T-Shirt"
+        "セラフィＴシャツ": "Seraphi T-Shirt"
     },
     "5153": {
         "clarity_nt_char_1541": "clarity_nt_char_1541"
@@ -16635,7 +16635,7 @@
         "clarity_nt_char_1657": "clarity_nt_char_1657"
     },
     "5546": {
-        "セラフィゴーグル": "Seraphy Goggles"
+        "セラフィゴーグル": "Seraphi Goggles"
     },
     "5547": {
         "clarity_nt_char_1658": "clarity_nt_char_1658"
@@ -18270,7 +18270,7 @@
         "clarity_nt_char_1813": "clarity_nt_char_1813"
     },
     "6091": {
-        "大きなお城の家": "Large Castle House"
+        "大きなお城の家": "Castle House"
     },
     "6092": {
         "クローバーの家": "Clover House"
@@ -18300,13 +18300,13 @@
         "ピラミッドの家": "Pyramid House"
     },
     "6101": {
-        "大きな和風のお城の家": "Large Japanese-style House"
+        "大きな和風のお城の家": "Big Japan Castle House"
     },
     "6102": {
         "clarity_nt_char_1817": "clarity_nt_char_1817"
     },
     "6103": {
-        "和風のお城の家": ""
+        "和風のお城の家": "Japan Castle House"
     },
     "6104": {
         "メタルブラザーズの家": "Metal Medley House"
@@ -20250,34 +20250,34 @@
         "clarity_nt_char_2023": "clarity_nt_char_2023"
     },
     "6751": {
-        "おもちゃのテント": ""
+        "おもちゃのテント": "Toy Tent"
     },
     "6752": {
         "clarity_nt_char_2024": "clarity_nt_char_2024"
     },
     "6753": {
-        "おもちゃのサーカス": ""
+        "おもちゃのサーカス": "Toy Circus"
     },
     "6754": {
-        "おもちゃの木": ""
+        "おもちゃの木": "Toy Trees"
     },
     "6755": {
         "clarity_nt_char_2025": "clarity_nt_char_2025"
     },
     "6756": {
-        "おもちゃの草原": ""
+        "おもちゃの草原": "Toy Grass Field"
     },
     "6757": {
-        "おもちゃのトンネル": ""
+        "おもちゃのトンネル": "Toy Tunnel"
     },
     "6758": {
-        "おもちゃの池": ""
+        "おもちゃの池": "Toy Pond"
     },
     "6759": {
         "clarity_nt_char_2026": "clarity_nt_char_2026"
     },
     "6760": {
-        "おもちゃの岩": ""
+        "おもちゃの岩": "Toy Rocks"
     },
     "6761": {
         "clarity_nt_char_2027": "clarity_nt_char_2027"
@@ -20289,34 +20289,34 @@
         "clarity_nt_char_2028": "clarity_nt_char_2028"
     },
     "6764": {
-        "おもちゃのテント・雪": ""
+        "おもちゃのテント・雪": "Toy Tent (Snow)"
     },
     "6765": {
         "clarity_nt_char_2029": "clarity_nt_char_2029"
     },
     "6766": {
-        "おもちゃのサーカス・雪": ""
+        "おもちゃのサーカス・雪": "Toy Circus (Snow)"
     },
     "6767": {
-        "おもちゃの木・雪": ""
+        "おもちゃの木・雪": "Toy Trees (Snow)"
     },
     "6768": {
         "clarity_nt_char_2030": "clarity_nt_char_2030"
     },
     "6769": {
-        "おもちゃの草原・雪": ""
+        "おもちゃの草原・雪": "Toy Grass Field (Snow)"
     },
     "6770": {
-        "おもちゃのトンネル・雪": ""
+        "おもちゃのトンネル・雪": "Toy Tunnel (Snow)"
     },
     "6771": {
-        "おもちゃの池・雪": ""
+        "おもちゃの池・雪": "Toy Pond (Snow)"
     },
     "6772": {
         "clarity_nt_char_2031": "clarity_nt_char_2031"
     },
     "6773": {
-        "おもちゃの岩・雪": ""
+        "おもちゃの岩・雪": "Toy Rocks (Snow)"
     },
     "6774": {
         "clarity_nt_char_2032": "clarity_nt_char_2032"
@@ -20412,7 +20412,7 @@
         "clarity_nt_char_2044": "clarity_nt_char_2044"
     },
     "6805": {
-        "サーカスハウスの柱": "Circus Pillar"
+        "サーカスハウスの柱": "Circus House Pillar"
     },
     "6806": {
         "ジャングル風の柱": "Jungle-Style Pillars"
@@ -20421,7 +20421,7 @@
         "clarity_nt_char_2045": "clarity_nt_char_2045"
     },
     "6808": {
-        "サーカスハウスの壁": "Circus Wallpaper"
+        "サーカスハウスの壁": "Circus House Wall"
     },
     "6809": {
         "積み石の壁": ""
@@ -20658,7 +20658,7 @@
         "clarity_nt_char_2072": "clarity_nt_char_2072"
     },
     "6887": {
-        "お正月の門松": ""
+        "お正月の門松": "NewYear Pine Decor"
     },
     "6888": {
         "clarity_nt_char_2073": "clarity_nt_char_2073"
@@ -21423,70 +21423,70 @@
         "clarity_nt_char_2154": "clarity_nt_char_2154"
     },
     "7142": {
-        "お姫様イス・桃": ""
+        "お姫様イス・桃": "Peach Princess Chair"
     },
     "7143": {
-        "お姫様ベンチ・桃": ""
+        "お姫様ベンチ・桃": "Peach Princess Bench"
     },
     "7144": {
         "clarity_nt_char_2155": "clarity_nt_char_2155"
     },
     "7145": {
-        "お姫様テーブル小・桃": ""
+        "お姫様テーブル小・桃": "Peach Princess Sm Table"
     },
     "7146": {
         "clarity_nt_char_2156": "clarity_nt_char_2156"
     },
     "7147": {
-        "お姫様テーブル大・桃": ""
+        "お姫様テーブル大・桃": "Peach Princess Lg Table"
     },
     "7148": {
         "clarity_nt_char_2157": "clarity_nt_char_2157"
     },
     "7149": {
-        "お姫様タンス・桃": ""
+        "お姫様タンス・桃": "Peach Princess Wardrobe"
     },
     "7150": {
         "clarity_nt_char_2158": "clarity_nt_char_2158"
     },
     "7151": {
-        "お姫様本棚・桃": ""
+        "お姫様本棚・桃": "Pch Princess Bookshf"
     },
     "7152": {
-        "お姫様食器棚・桃": ""
+        "お姫様食器棚・桃": "Peach Princess Cupboard"
     },
     "7153": {
         "clarity_nt_char_2159": "clarity_nt_char_2159"
     },
     "7154": {
-        "お姫様キッチン・桃": ""
+        "お姫様キッチン・桃": "Peach Princess Kitchen"
     },
     "7155": {
-        "お姫様オーブン・桃": ""
+        "お姫様オーブン・桃": "Peach Princess Oven"
     },
     "7156": {
-        "お姫様ベッド・桃": ""
+        "お姫様ベッド・桃": "Peach Princess Bed"
     },
     "7157": {
         "clarity_nt_char_2160": "clarity_nt_char_2160"
     },
     "7158": {
-        "お姫様バスタブ・桃": ""
+        "お姫様バスタブ・桃": "Peach Princess Bathtub"
     },
     "7159": {
-        "お姫様間仕切り・桃": ""
+        "お姫様間仕切り・桃": "Pch Princess Partition"
     },
     "7160": {
-        "お姫様チェスト・桃": ""
+        "お姫様チェスト・桃": "Peach Princess Chest"
     },
     "7161": {
-        "お姫様カウンタ大・桃": ""
+        "お姫様カウンタ大・桃": "Pch Princess L. Counter"
     },
     "7162": {
         "clarity_nt_char_2161": "clarity_nt_char_2161"
     },
     "7163": {
-        "お姫様カウンタ小・桃": ""
+        "お姫様カウンタ小・桃": "Pch Princess S. Counter"
     },
     "7164": {
         "clarity_nt_char_2162": "clarity_nt_char_2162"
@@ -21786,7 +21786,7 @@
         "ドワーフプランター": ""
     },
     "7263": {
-        "おもいで映写機": ""
+        "おもいで映写機": "Memory Projector"
     },
     "7264": {
         "ハートのイス・黄": ""
@@ -22008,40 +22008,40 @@
         "clarity_nt_char_2220": "clarity_nt_char_2220"
     },
     "7337": {
-        "おもちゃの岩山": ""
+        "おもちゃの岩山": "Toy Rocky Mountain"
     },
     "7338": {
-        "おもちゃの草花": ""
+        "おもちゃの草花": "Toy Plants"
     },
     "7339": {
-        "おもちゃの丸い家": ""
+        "おもちゃの丸い家": "Toy Round House"
     },
     "7340": {
         "clarity_nt_char_2221": "clarity_nt_char_2221"
     },
     "7341": {
-        "おもちゃの四角い家": ""
+        "おもちゃの四角い家": "Toy Square House"
     },
     "7342": {
-        "おもちゃの空・晴れ": ""
+        "おもちゃの空・晴れ": "Toy Clear Sky"
     },
     "7343": {
-        "おもちゃの岩山・雪": ""
+        "おもちゃの岩山・雪": "Toy Rocky Mntn. (Snow)"
     },
     "7344": {
-        "おもちゃの草花・雪": ""
+        "おもちゃの草花・雪": "Toy Plants (Snow)"
     },
     "7345": {
-        "おもちゃの丸い家・雪": ""
+        "おもちゃの丸い家・雪": "Toy Round House (Snow)"
     },
     "7346": {
         "clarity_nt_char_2222": "clarity_nt_char_2222"
     },
     "7347": {
-        "おもちゃの四角い家・雪": ""
+        "おもちゃの四角い家・雪": "Toy Square House (Snow)"
     },
     "7348": {
-        "おもちゃの空・くもり": ""
+        "おもちゃの空・くもり": "Toy Cloudy Sky"
     },
     "7349": {
         "clarity_nt_char_2223": "clarity_nt_char_2223"
@@ -22314,88 +22314,88 @@
         "ヴェリナード風たいまつ": ""
     },
     "7439": {
-        "お姫様パーティ机・桃": ""
+        "お姫様パーティ机・桃": "Pch Princess Party Desk"
     },
     "7440": {
         "clarity_nt_char_2251": "clarity_nt_char_2251"
     },
     "7441": {
-        "お姫様のイス・橙": ""
+        "お姫様のイス・橙": "Orange Princess Chair"
     },
     "7442": {
         "clarity_nt_char_2252": "clarity_nt_char_2252"
     },
     "7443": {
-        "お姫様のベンチ・橙": ""
+        "お姫様のベンチ・橙": "Orange Princess Bench"
     },
     "7444": {
-        "お姫様のテーブル小・橙": ""
+        "お姫様のテーブル小・橙": "Orange Princess S Table"
     },
     "7445": {
-        "お姫様のテーブル大・橙": ""
+        "お姫様のテーブル大・橙": "Orange Princess L Table"
     },
     "7446": {
-        "お姫様のタンス・橙": ""
+        "お姫様のタンス・橙": "Orng Princess Wardrobe"
     },
     "7447": {
-        "お姫様の本棚・橙": ""
+        "お姫様の本棚・橙": "Orng Princess Bookshf"
     },
     "7448": {
         "clarity_nt_char_2253": "clarity_nt_char_2253"
     },
     "7449": {
-        "お姫様の食器棚・橙": ""
+        "お姫様の食器棚・橙": "Orng Princess Cupboard"
     },
     "7450": {
-        "お姫様のキッチン・橙": ""
+        "お姫様のキッチン・橙": "Orange Princess Kitchen"
     },
     "7451": {
         "clarity_nt_char_2254": "clarity_nt_char_2254"
     },
     "7452": {
-        "お姫様のオーブン・橙": ""
+        "お姫様のオーブン・橙": "Orange Princess Oven"
     },
     "7453": {
         "clarity_nt_char_2255": "clarity_nt_char_2255"
     },
     "7454": {
-        "お姫様のベッド・橙": ""
+        "お姫様のベッド・橙": "Orange Princess Bed"
     },
     "7455": {
-        "お姫様のバスタブ・橙": ""
+        "お姫様のバスタブ・橙": "Orange Princess Bathtub"
     },
     "7456": {
         "clarity_nt_char_2256": "clarity_nt_char_2256"
     },
     "7457": {
-        "お姫様の間仕切り・橙": ""
+        "お姫様の間仕切り・橙": "Orng Princess Partition"
     },
     "7458": {
         "clarity_nt_char_2257": "clarity_nt_char_2257"
     },
     "7459": {
-        "お姫様のチェスト・橙": ""
+        "お姫様のチェスト・橙": "Orange Princess Chest"
     },
     "7460": {
         "clarity_nt_char_2258": "clarity_nt_char_2258"
     },
     "7461": {
-        "お姫様のカウンタ大・橙": ""
+        "お姫様のカウンタ大・橙": "Orng Princess L Counter"
     },
     "7462": {
-        "お姫様のカウンタ小・橙": ""
+        "お姫様のカウンタ小・橙": "Orng Princess S Counter"
     },
     "7463": {
-        "お姫様のパーティ机・橙": ""
+        "お姫様のパーティ机・橙": "Orng Princess Party Dsk"
     },
     "7464": {
-        "おもちゃのお天気・雨": ""
+        "おもちゃのお天気・雨": "Toy Rainy Weather"
     },
     "7465": {
         "clarity_nt_char_2259": "clarity_nt_char_2259"
     },
     "7466": {
-        "おもちゃのお天気・雪": ""
+        "おもちゃのお天気・雪": "Toy Snowy Weather"
     },
     "7467": {
         "clarity_nt_char_2260": "clarity_nt_char_2260"
@@ -22596,13 +22596,13 @@
         "ホワイトチョコヌーバ像": ""
     },
     "7533": {
-        "スライム柄コタツ": ""
+        "スライム柄コタツ": "Slime Kotatsu"
     },
     "7534": {
         "clarity_nt_char_2285": "clarity_nt_char_2285"
     },
     "7535": {
-        "スライムベス柄コタツ": ""
+        "スライムベス柄コタツ": "She-Slime Kotatsu"
     },
     "7536": {
         "clarity_nt_char_2286": "clarity_nt_char_2286"
@@ -23157,7 +23157,7 @@
         "clarity_nt_char_2342": "clarity_nt_char_2342"
     },
     "7720": {
-        "おむつっこりの像": ""
+        "おむつっこりの像": "Nappy Wrapper Statue"
     },
     "7721": {
         "clarity_nt_char_2343": "clarity_nt_char_2343"
@@ -23220,7 +23220,7 @@
         "clarity_nt_char_2348": "clarity_nt_char_2348"
     },
     "7741": {
-        "おむつっこりの像・庭": ""
+        "おむつっこりの像・庭": "Nappy Wrapper Statue(G)"
     },
     "7742": {
         "clarity_nt_char_2349": "clarity_nt_char_2349"
@@ -23265,7 +23265,7 @@
         "メタッピーの像・庭": "Mecha-Mynah Statue(G)"
     },
     "7756": {
-        "おばけキャンドル像・庭": "Wax Murderer Gdn Statue"
+        "おばけキャンドル像・庭": "Wax Murderer Statue (G)"
     },
     "7757": {
         "ミミックの像・庭": "Mimic Garden Statue"
@@ -23949,16 +23949,16 @@
         "clarity_nt_char_2433": "clarity_nt_char_2433"
     },
     "7984": {
-        "お正月のコタツ": ""
+        "お正月のコタツ": "New Year Kotatsu"
     },
     "7985": {
-        "お正月の鏡餅": ""
+        "お正月の鏡餅": "New Year Mochi"
     },
     "7986": {
         "clarity_nt_char_2434": "clarity_nt_char_2434"
     },
     "7987": {
-        "おもちのせ七輪": ""
+        "おもちのせ七輪": "Rice Cakes on Grill"
     },
     "7988": {
         "獅子舞チェスト": ""
@@ -24111,7 +24111,7 @@
         "リゼロッタの像": "Lieselotte Statue"
     },
     "8038": {
-        "セラフィの像": "Seraphy Statue"
+        "セラフィの像": "Seraphi Statue"
     },
     "8039": {
         "clarity_nt_char_2453": "clarity_nt_char_2453"
@@ -24465,25 +24465,25 @@
         "鳥かごのポスト・桃": ""
     },
     "8156": {
-        "わたぼう気球おもちゃ": "Warubou Baloon"
+        "わたぼう気球おもちゃ": "Watabou Toy Balloon"
     },
     "8157": {
         "clarity_nt_char_2489": "clarity_nt_char_2489"
     },
     "8158": {
-        "ワルぼう気球おもちゃ": ""
+        "ワルぼう気球おもちゃ": "Warubou Toy Balloon"
     },
     "8159": {
         "clarity_nt_char_2490": "clarity_nt_char_2490"
     },
     "8160": {
-        "わたぼうお花おもちゃ": "Warubou Flower"
+        "わたぼうお花おもちゃ": "Watabou Toy Flower"
     },
     "8161": {
         "clarity_nt_char_2491": "clarity_nt_char_2491"
     },
     "8162": {
-        "ワルぼうお花おもちゃ": ""
+        "ワルぼうお花おもちゃ": "Warubou Toy Flower"
     },
     "8163": {
         "clarity_nt_char_2492": "clarity_nt_char_2492"
@@ -24519,22 +24519,22 @@
         "ドルワームの紋章旗": "Dolworm Flag"
     },
     "8174": {
-        "セラフィぬいぐるみ": "Seraphy Plushie"
+        "セラフィぬいぐるみ": "Seraphi Plushie"
     },
     "8175": {
-        "セピアのセラフィ人形": "Sepia Seraphy Doll"
+        "セピアのセラフィ人形": "Sepia Seraphi Doll"
     },
     "8176": {
         "clarity_nt_char_2497": "clarity_nt_char_2497"
     },
     "8177": {
-        "わたぼうのお庭ランプ": "Warubou Garden Lamp"
+        "わたぼうのお庭ランプ": "Watabou Garden Lamp"
     },
     "8178": {
         "clarity_nt_char_2498": "clarity_nt_char_2498"
     },
     "8179": {
-        "ワルぼうのお庭ランプ": ""
+        "ワルぼうのお庭ランプ": "Warubou Garden Lamp"
     },
     "8180": {
         "clarity_nt_char_2499": "clarity_nt_char_2499"
@@ -25836,7 +25836,7 @@
         "clarity_nt_char_2628": "clarity_nt_char_2628"
     },
     "8613": {
-        "扉付き白木の大きい壁": ""
+        "扉付き白木の大きい壁": "Wht Wood Wall with Door"
     },
     "8614": {
         "clarity_nt_char_2629": "clarity_nt_char_2629"
@@ -26037,7 +26037,7 @@
         "clarity_nt_char_2650": "clarity_nt_char_2650"
     },
     "8680": {
-        "お城の木の柱": ""
+        "お城の木の柱": "Castle Wood Pillar"
     },
     "8681": {
         "clarity_nt_char_2651": "clarity_nt_char_2651"
@@ -26052,13 +26052,13 @@
         "clarity_nt_char_2652": "clarity_nt_char_2652"
     },
     "8685": {
-        "Mサイズお城4 柱": ""
+        "Mサイズお城4 柱": "M Size Castle4 Pillar"
     },
     "8686": {
-        "Mサイズお城5 柱": ""
+        "Mサイズお城5 柱": "M Size Castle5 Pillar"
     },
     "8687": {
-        "お城の木の壁": ""
+        "お城の木の壁": "Castle Wood Wall"
     },
     "8688": {
         "clarity_nt_char_2653": "clarity_nt_char_2653"
@@ -26073,10 +26073,10 @@
         "clarity_nt_char_2654": "clarity_nt_char_2654"
     },
     "8692": {
-        "Mサイズお城4 壁": ""
+        "Mサイズお城4 壁": "M. Size Castle 4 Wall"
     },
     "8693": {
-        "Mサイズお城5 壁": ""
+        "Mサイズお城5 壁": "M. Size Castle 5 Wall"
     },
     "8694": {
         "ザオラグ": "Zing"
@@ -26175,7 +26175,7 @@
         "花柄の大きい壁": ""
     },
     "8726": {
-        "お城の大きい壁": ""
+        "お城の大きい壁": "Castle Wall"
     },
     "8727": {
         "白木の大きい壁": ""
@@ -26220,19 +26220,19 @@
         "セピアザンクローネ人形": "Sepia Zankrone Doll"
     },
     "8741": {
-        "扉付き板張りの大きい壁": ""
+        "扉付き板張りの大きい壁": "Wood Wall with Door"
     },
     "8742": {
-        "扉付きレンガの大きい壁": ""
+        "扉付きレンガの大きい壁": "Brick Wall with Door"
     },
     "8743": {
-        "扉付き花柄の大きい壁": ""
+        "扉付き花柄の大きい壁": "Flower Wall with Door"
     },
     "8744": {
         "clarity_nt_char_2666": "clarity_nt_char_2666"
     },
     "8745": {
-        "扉付きお城の大きい壁": ""
+        "扉付きお城の大きい壁": "Castle Wall with Door"
     },
     "8746": {
         "clarity_nt_char_2667": "clarity_nt_char_2667"
@@ -26409,7 +26409,7 @@
         "clarity_nt_char_2686": "clarity_nt_char_2686"
     },
     "8804": {
-        "第３回セラフィの像": "3rd Seraphy Statue"
+        "第３回セラフィの像": "3rd Seraphi Statue"
     },
     "8805": {
         "第３回マイユの像": "3rd Maille Statue"
@@ -31128,7 +31128,7 @@
         "clarity_nt_char_3180": "clarity_nt_char_3180"
     },
     "10377": {
-        "おもちゃセット大図鑑": ""
+        "おもちゃセット大図鑑": "Toy Encyclopedia Set"
     },
     "10378": {
         "clarity_nt_char_3181": "clarity_nt_char_3181"
@@ -31251,13 +31251,13 @@
         "師団長の七つの教訓": "Commander's Lessons"
     },
     "10418": {
-        "おもちゃセット大図鑑２": ""
+        "おもちゃセット大図鑑２": "Toy Encyclopedia Set 2"
     },
     "10419": {
         "月球儀にあこがれて": ""
     },
     "10420": {
-        "スライムコタツの作り方": ""
+        "スライムコタツの作り方": "Making a Slime Kotatsu"
     },
     "10421": {
         "原始獣のコート作成法": "Primal Beast Book"
@@ -31350,7 +31350,7 @@
         "clarity_nt_char_3203": "clarity_nt_char_3203"
     },
     "10451": {
-        "おもちゃセット大図鑑３": ""
+        "おもちゃセット大図鑑３": "Toy Encyclopedia Set 3"
     },
     "10452": {
         "じごくの弓の黙示録": "Oh-No Bow Apocalypse"
@@ -31368,13 +31368,13 @@
         "clarity_nt_char_3204": "clarity_nt_char_3204"
     },
     "10457": {
-        "お姫様のイスと机の本": ""
+        "お姫様のイスと机の本": "Princess Chair&Desk Bk"
     },
     "10458": {
         "clarity_nt_char_3205": "clarity_nt_char_3205"
     },
     "10459": {
-        "お姫様のインテリアの本": ""
+        "お姫様のインテリアの本": "Princess Interior Book"
     },
     "10460": {
         "お花とネコの物語": ""
@@ -34494,7 +34494,7 @@
         "clarity_nt_char_3526": "clarity_nt_char_3526"
     },
     "11499": {
-        "庭用お月見ランプ": ""
+        "庭用お月見ランプ": "Moon Viewing Lamp (G)"
     },
     "11500": {
         "clarity_nt_char_3527": "clarity_nt_char_3527"
@@ -34539,13 +34539,13 @@
         "セピアの竜族の人形・女": ""
     },
     "11514": {
-        "お月見の障子": ""
+        "お月見の障子": "Moon Viewing Door"
     },
     "11515": {
         "clarity_nt_char_3529": "clarity_nt_char_3529"
     },
     "11516": {
-        "お月見のぼんぼり": ""
+        "お月見のぼんぼり": "Moon Viewing Lantern"
     },
     "11517": {
         "clarity_nt_char_3530": "clarity_nt_char_3530"
@@ -34974,7 +34974,7 @@
         "お正月ザンクローネ": "New Year Zankrone"
     },
     "11659": {
-        "あったかセラフィ": "Warm Seraphy"
+        "あったかセラフィ": "Warm Seraphi"
     },
     "11660": {
         "clarity_nt_char_3575": "clarity_nt_char_3575"
@@ -35139,7 +35139,7 @@
         "clarity_nt_char_3592": "clarity_nt_char_3592"
     },
     "11714": {
-        "お月様と雲のベッド": ""
+        "お月様と雲のベッド": "Moon and Cloud Bed"
     },
     "11715": {
         "魔塔の赤宝石付き壁": "Dmn Twr Red Jewel Wall"
@@ -36189,10 +36189,10 @@
         "スノー柄の便利な壁": ""
     },
     "12064": {
-        "クリスマス柄の便利な壁": "Convenient Christmas Wall Pattern"
+        "クリスマス柄の便利な壁": "Handy Christmas Wall"
     },
     "12065": {
-        "お正月の便利な壁": ""
+        "お正月の便利な壁": "Handy New Year Wall"
     },
     "12066": {
         "clarity_nt_char_3706": "clarity_nt_char_3706"
@@ -36204,7 +36204,7 @@
         "clarity_nt_char_3707": "clarity_nt_char_3707"
     },
     "12069": {
-        "プリズニャンコタツ": ""
+        "プリズニャンコタツ": "Jailcat Kotatsu"
     },
     "12070": {
         "ウィンタースライダー": ""
@@ -36342,7 +36342,7 @@
         "clarity_nt_char_3723": "clarity_nt_char_3723"
     },
     "12115": {
-        "お正月ザンクローネ・酉": ""
+        "お正月ザンクローネ・酉": "White New Year Zankrone"
     },
     "12116": {
         "トコトコチキ坊": "Trotting Chickibo"
@@ -37053,7 +37053,7 @@
         "clarity_nt_char_3797": "clarity_nt_char_3797"
     },
     "12352": {
-        "セラフィのポスト": "Seraphy Mailbox"
+        "セラフィのポスト": "Seraphi Mailbox"
     },
     "12353": {
         "clarity_nt_char_3798": "clarity_nt_char_3798"
@@ -37074,7 +37074,7 @@
         "ドット風エステラ像": "Pixel Estella Statue"
     },
     "12359": {
-        "ドット風セラフィ像": "Pixel Seraphy Statue"
+        "ドット風セラフィ像": "Pixel Seraphi Statue"
     },
     "12360": {
         "ドット風ザンクローネ像": "Pixel Zankrone Statue"
@@ -37113,7 +37113,7 @@
         "clarity_nt_char_3803": "clarity_nt_char_3803"
     },
     "12372": {
-        "お城のサンドアート": ""
+        "お城のサンドアート": "Sand Castle Art"
     },
     "12373": {
         "ジャングルの岩壁": ""
@@ -37578,7 +37578,7 @@
         "clarity_nt_char_3849": "clarity_nt_char_3849"
     },
     "12527": {
-        "おばけ暖炉の壁": ""
+        "おばけ暖炉の壁": "Ghost Fireplace Wall"
     },
     "12528": {
         "レンドアのベッド": ""
@@ -40236,7 +40236,7 @@
         "ピクニックワグミカ": "Wagumika Picnic"
     },
     "13413": {
-        "ピクニックセラフィ": "Seraphy Picnic"
+        "ピクニックセラフィ": "Seraphi Picnic"
     },
     "13414": {
         "ピクニックマローネ": "Marone Picnic"
@@ -40401,7 +40401,7 @@
         "蝶飾りの扉": "Butterfly Door"
     },
     "13468": {
-        "扉付き牢屋のついたて": ""
+        "扉付き牢屋のついたて": "Jail Screen with Door"
     },
     "13469": {
         "clarity_nt_char_4140": "clarity_nt_char_4140"
@@ -40518,13 +40518,13 @@
         "clarity_nt_char_4153": "clarity_nt_char_4153"
     },
     "13507": {
-        "お正月の屏風": ""
+        "お正月の屏風": "New Year Screen"
     },
     "13508": {
         "clarity_nt_char_4154": "clarity_nt_char_4154"
     },
     "13509": {
-        "壁かけお正月飾り": ""
+        "壁かけお正月飾り": "New Year Wall Decor"
     },
     "13510": {
         "clarity_nt_char_4155": "clarity_nt_char_4155"
@@ -41037,7 +41037,7 @@
         "コールドスリープポッド": "Cryogenic Sleep Pod"
     },
     "13680": {
-        "レーザー扉付きついたて": ""
+        "レーザー扉付きついたて": "Laser Screen with Door"
     },
     "13681": {
         "パルミオ研究所分析機": ""
@@ -41673,7 +41673,7 @@
         "clarity_nt_char_4268": "clarity_nt_char_4268"
     },
     "13892": {
-        "セラフィパラソル": "Seraphy Umbrella"
+        "セラフィパラソル": "Seraphi Umbrella"
     },
     "13893": {
         "clarity_nt_char_4269": "clarity_nt_char_4269"
@@ -44958,7 +44958,7 @@
         "clarity_nt_char_4636": "clarity_nt_char_4636"
     },
     "14987": {
-        "セラフィへの愛が|全面に描かれた|ファン必携うちわ": "Must-have fan|with Seraphy|painted on it."
+        "セラフィへの愛が|全面に描かれた|ファン必携うちわ": "Must-have fan|with Seraphi|painted on it."
     },
     "14988": {
         "アンルシア愛が|全面に描かれた|ファン必携うちわ": "Must-have fan|with Anlucia|painted on it."
@@ -54375,7 +54375,7 @@
         "clarity_nt_char_5704": "clarity_nt_char_5704"
     },
     "18126": {
-        "セラフィが|求めるクリーム|ＨＰが回復する": "Cream you give|to Seraphy|restores her HP."
+        "セラフィが|求めるクリーム|ＨＰが回復する": "Cream you give|to Seraphi|restores her HP."
     },
     "18127": {
         "マイユが|求めるクリーム|ＨＰが回復する": "Cream you give|to Maille|restores her HP."
@@ -54939,7 +54939,7 @@
         "ザンクローネの|ギュッとちゃんが|入っている箱": "Box containing|a Zankrone|Armband."
     },
     "18314": {
-        "セラフィの|ギュッとちゃんが|入っている箱": "Box containing|a Seraphy|Armband."
+        "セラフィの|ギュッとちゃんが|入っている箱": "Box containing|a Seraphi|Armband."
     },
     "18315": {
         "リゼロッタの|ギュッとちゃんが|入っている箱": "Box containing|a Lieselotte|Armband."
@@ -55017,7 +55017,7 @@
         "clarity_nt_char_5775": "clarity_nt_char_5775"
     },
     "18340": {
-        "セラフィが|求めるココア|ＨＰが回復する": "Cocoa you give|to Seraphy|restores her HP."
+        "セラフィが|求めるココア|ＨＰが回復する": "Cocoa you give|to Seraphi|restores her HP."
     },
     "18341": {
         "clarity_nt_char_5776": "clarity_nt_char_5776"
@@ -60138,28 +60138,28 @@
         "クッキーサンドを|モチーフにした|大きなカウンター": ""
     },
     "20047": {
-        "テント風の家に|よく似合う|布張りの柱": ""
+        "テント風の家に|よく似合う|布張りの柱": "Looks great in|a tent style|house."
     },
     "20048": {
-        "テント風の家に|よく似合う|毛皮張りの柱": ""
+        "テント風の家に|よく似合う|毛皮張りの柱": "Looks great in|a tent style|house."
     },
     "20049": {
         "clarity_nt_char_6351": "clarity_nt_char_6351"
     },
     "20050": {
-        "テント風の家に|よく似合う|ふしぎな形の柱": ""
+        "テント風の家に|よく似合う|ふしぎな形の柱": "Looks great in|a tent style|house."
     },
     "20051": {
-        "テント風の家に|よく似合う|布張りの壁": ""
+        "テント風の家に|よく似合う|布張りの壁": "Looks great in|a tent style|house."
     },
     "20052": {
-        "テント風の家に|よく似合う|毛皮張りの壁": ""
+        "テント風の家に|よく似合う|毛皮張りの壁": "Looks great in|a tent style|house."
     },
     "20053": {
         "clarity_nt_char_6352": "clarity_nt_char_6352"
     },
     "20054": {
-        "テント風の家に|よく似合う|ふしぎな形の壁": ""
+        "テント風の家に|よく似合う|ふしぎな形の壁": "Looks great in|a tent style|house."
     },
     "20055": {
         "四角い家に|よく似合う|木の柱": ""
@@ -61014,40 +61014,40 @@
         "clarity_nt_char_6441": "clarity_nt_char_6441"
     },
     "20339": {
-        "テント風の家と|同じデザインの|ミニチュア模型": ""
+        "テント風の家と|同じデザインの|ミニチュア模型": "Miniature model|of a tent style|house."
     },
     "20340": {
-        "サーカスハウスと|同じデザインの|ミニチュア模型": ""
+        "サーカスハウスと|同じデザインの|ミニチュア模型": "Miniature model|of the circus|house."
     },
     "20341": {
         "clarity_nt_char_6442": "clarity_nt_char_6442"
     },
     "20342": {
-        "ミニチュア模型用|緑の木": ""
+        "ミニチュア模型用|緑の木": "Miniature model|of green trees."
     },
     "20343": {
         "clarity_nt_char_6443": "clarity_nt_char_6443"
     },
     "20344": {
-        "ミニチュア模型用|草原模様のラグ": ""
+        "ミニチュア模型用|草原模様のラグ": "Grass field|patterned rug."
     },
     "20345": {
         "clarity_nt_char_6444": "clarity_nt_char_6444"
     },
     "20346": {
-        "ミニチュア模型用|小さなトンネル": ""
+        "ミニチュア模型用|小さなトンネル": "Miniature model|of a tunnel."
     },
     "20347": {
         "clarity_nt_char_6445": "clarity_nt_char_6445"
     },
     "20348": {
-        "ミニチュア模型用|池の模様のラグ": ""
+        "ミニチュア模型用|池の模様のラグ": "Pond patterned|rug."
     },
     "20349": {
         "clarity_nt_char_6446": "clarity_nt_char_6446"
     },
     "20350": {
-        "ミニチュア模型用|岩山の模型": ""
+        "ミニチュア模型用|岩山の模型": "Miniature model|of rocks."
     },
     "20351": {
         "clarity_nt_char_6447": "clarity_nt_char_6447"
@@ -61056,28 +61056,28 @@
         "実際の列車と同じ|デザインで雪が|積もった列車模型": "Snow-covered|model of the|real train."
     },
     "20353": {
-        "雪の積もった|テント風の家の|ミニチュア模型": ""
+        "雪の積もった|テント風の家の|ミニチュア模型": "Snow-covered|model of a tent|style house."
     },
     "20354": {
         "clarity_nt_char_6448": "clarity_nt_char_6448"
     },
     "20355": {
-        "雪の積もった|サーカスハウスの|ミニチュア模型": ""
+        "雪の積もった|サーカスハウスの|ミニチュア模型": "Snow-covered|model of the|circus house."
     },
     "20356": {
-        "雪が積もった|ミニチュア模型用|緑の木": ""
+        "雪が積もった|ミニチュア模型用|緑の木": "Snow-covered|model of green|trees."
     },
     "20357": {
-        "雪が積もった|ミニチュア模型用|草原模様のラグ": ""
+        "雪が積もった|ミニチュア模型用|草原模様のラグ": "Snowy grass|field patterned|rug."
     },
     "20358": {
-        "雪が積もった|ミニチュア模型用|小さなトンネル": ""
+        "雪が積もった|ミニチュア模型用|小さなトンネル": "Snow-covered|model of a|tunnel."
     },
     "20359": {
-        "雪が積もった|ミニチュア模型用|池の模様のラグ": ""
+        "雪が積もった|ミニチュア模型用|池の模様のラグ": "Snowy pond|patterned rug."
     },
     "20360": {
-        "雪が積もった|ミニチュア模型用|岩山の模型": ""
+        "雪が積もった|ミニチュア模型用|岩山の模型": "Snow-covered|model of rocks."
     },
     "20361": {
         "チョコレートを|モチーフにした|かわいいベッド": ""
@@ -61155,16 +61155,16 @@
         "クッキーサンドを|モチーフにした|小さなカウンター": ""
     },
     "20386": {
-        "テント風の家に|よく似合う|サーカスの柱": ""
+        "テント風の家に|よく似合う|サーカスの柱": "Looks great in|a tent style|house."
     },
     "20387": {
         "clarity_nt_char_6456": "clarity_nt_char_6456"
     },
     "20388": {
-        "テント風の家に|よく似合う|ジャングルの柱": ""
+        "テント風の家に|よく似合う|ジャングルの柱": "Looks great in|a tent style|house."
     },
     "20389": {
-        "テント風の家に|よく似合う|サーカスの壁": ""
+        "テント風の家に|よく似合う|サーカスの壁": "Looks great in|a tent style|house."
     },
     "20390": {
         "clarity_nt_char_6457": "clarity_nt_char_6457"
@@ -61179,7 +61179,7 @@
         "四角い家に|よく似合う|土の柱": ""
     },
     "20394": {
-        "テント風の家に|よく似合う|ジャングルの壁": ""
+        "テント風の家に|よく似合う|ジャングルの壁": "Looks great in|a tent style|house."
     },
     "20395": {
         "丸い家に|よく似合う|ほのぐらい柱": ""
@@ -61320,7 +61320,7 @@
         "clarity_nt_char_6472": "clarity_nt_char_6472"
     },
     "20441": {
-        "ロウで固められ|像となった|おばけキャンドル": ""
+        "ロウで固められ|像となった|おばけキャンドル": "Hardened Wax|Murderer made|into a statue."
     },
     "20442": {
         "clarity_nt_char_6473": "clarity_nt_char_6473"
@@ -61683,19 +61683,19 @@
         "clarity_nt_char_6515": "clarity_nt_char_6515"
     },
     "20562": {
-        "さわると８種類に|アレンジできる|ダマスク柄の壁": ""
+        "さわると８種類に|アレンジできる|ダマスク柄の壁": "Wall that can|be arranged 8|different ways."
     },
     "20563": {
         "clarity_nt_char_6516": "clarity_nt_char_6516"
     },
     "20564": {
-        "さわると８種類に|アレンジできる|リーフ柄の壁": ""
+        "さわると８種類に|アレンジできる|リーフ柄の壁": "Wall that can|be arranged 8|different ways."
     },
     "20565": {
-        "さわると８種類に|アレンジできる|ガーリーな壁": ""
+        "さわると８種類に|アレンジできる|ガーリーな壁": "Wall that can|be arranged 8|different ways."
     },
     "20566": {
-        "さわると８種類に|アレンジできる|スターライトな壁": ""
+        "さわると８種類に|アレンジできる|スターライトな壁": "Wall that can|be arranged 8|different ways."
     },
     "20567": {
         "スライム型の|美しい影を落とす|香炉風ランプ": ""
@@ -61860,19 +61860,19 @@
         "学園の優しい先輩|クラウンの|小さなぬいぐるみ": ""
     },
     "20621": {
-        "さわると７種類に|アレンジできる|白ねこの壁": ""
+        "さわると７種類に|アレンジできる|白ねこの壁": "Wall that can|be arranged 7|different ways."
     },
     "20622": {
         "clarity_nt_char_6535": "clarity_nt_char_6535"
     },
     "20623": {
-        "さわると７種類に|アレンジできる|黒ねこの壁": ""
+        "さわると７種類に|アレンジできる|黒ねこの壁": "Wall that can|be arranged 7|different ways."
     },
     "20624": {
         "clarity_nt_char_6536": "clarity_nt_char_6536"
     },
     "20625": {
-        "さわると７種類に|アレンジできる|三毛ねこの壁": ""
+        "さわると７種類に|アレンジできる|三毛ねこの壁": "Wall that can|be arranged 7|different ways."
     },
     "20626": {
         "フウキ委員の|マスコット|キーたんの人形": ""
@@ -62202,19 +62202,19 @@
         "ゴシック調の|小さなカウンター": ""
     },
     "20735": {
-        "ピンクが映える|お姫様チックな|かわいいイス": "A cute, pink|and princess-like|chair."
+        "ピンクが映える|お姫様チックな|かわいいイス": "Cute, pink|princess-like|chair."
     },
     "20736": {
         "clarity_nt_char_6575": "clarity_nt_char_6575"
     },
     "20737": {
-        "ピンクが映える|お姫様チックな|かわいい長イス": "A cute, pink|and princess-like|long chair."
+        "ピンクが映える|お姫様チックな|かわいい長イス": "Cute, pink|princess-like|bench."
     },
     "20738": {
-        "ピンクが映える|お姫様チックな|小さなテーブル": "A cute, pink|and princess-like|small table."
+        "ピンクが映える|お姫様チックな|小さなテーブル": "Cute, pink|princess-like|small table."
     },
     "20739": {
-        "ピンクが映える|お姫様チックな|大きなテーブル": "A cute, pink|and princess-like|large table."
+        "ピンクが映える|お姫様チックな|大きなテーブル": "Cute, pink|princess-like|large table."
     },
     "20740": {
         "ピンクが映える|姫系タンス|アイテム収納可能": "A cute, pink|dresser that can|store items."
@@ -62223,37 +62223,37 @@
         "clarity_nt_char_6576": "clarity_nt_char_6576"
     },
     "20742": {
-        "ピンクが映える|お姫様チックな|かわいい本棚": "A cute, pink|and princess-like|bookshelf."
+        "ピンクが映える|お姫様チックな|かわいい本棚": "Cute, pink|princess-like|bookshelf."
     },
     "20743": {
         "clarity_nt_char_6577": "clarity_nt_char_6577"
     },
     "20744": {
-        "ピンクが映える|お姫様チックな|かわいい食器棚": "A cute, pink|and princess-like|cupboard."
+        "ピンクが映える|お姫様チックな|かわいい食器棚": "Cute, pink|princess-like|cupboard."
     },
     "20745": {
-        "ピンクが映える|お姫様チックな|かわいいキッチン": "A cute, pink|and princess-like|kitchen."
+        "ピンクが映える|お姫様チックな|かわいいキッチン": "Cute, pink|princess-like|kitchen."
     },
     "20746": {
         "clarity_nt_char_6578": "clarity_nt_char_6578"
     },
     "20747": {
-        "ピンクが映える|お姫様チックな|かわいいオーブン": "A cute, pink|and princess-like|oven."
+        "ピンクが映える|お姫様チックな|かわいいオーブン": "Cute, pink|princess-like|oven."
     },
     "20748": {
         "clarity_nt_char_6579": "clarity_nt_char_6579"
     },
     "20749": {
-        "ピンクが映える|お姫様チックな|かわいいベッド": "A cute, pink|and princess-like|bed."
+        "ピンクが映える|お姫様チックな|かわいいベッド": "Cute, pink|princess-like|bed."
     },
     "20750": {
-        "ピンクが映える|お姫様チックな|かわいいバスタブ": "A cute, pink|and princess-like|bathtub."
+        "ピンクが映える|お姫様チックな|かわいいバスタブ": "Cute, pink|princess-like|bathtub."
     },
     "20751": {
         "clarity_nt_char_6580": "clarity_nt_char_6580"
     },
     "20752": {
-        "ピンクが映える|お姫様チックな|かわいい間仕切り": "A cute, pink|and princess-like|partition."
+        "ピンクが映える|お姫様チックな|かわいい間仕切り": "Cute, pink|princess-like|partition."
     },
     "20753": {
         "clarity_nt_char_6581": "clarity_nt_char_6581"
@@ -62262,13 +62262,13 @@
         "ピンクが映える|姫系チェスト|アイテム収納可能": "A cute, pink|chest that can|store items."
     },
     "20755": {
-        "ピンクが映える|お姫様チックな|大きなカウンター": "A cute, pink|and princess-like|large counter."
+        "ピンクが映える|お姫様チックな|大きなカウンター": "Cute, pink|princess-like|large counter."
     },
     "20756": {
         "clarity_nt_char_6582": "clarity_nt_char_6582"
     },
     "20757": {
-        "ピンクが映える|お姫様チックな|小さなカウンター": "A cute, pink|and princess-like|small counter."
+        "ピンクが映える|お姫様チックな|小さなカウンター": "Cute, pink|princess-like|small counter."
     },
     "20758": {
         "clarity_nt_char_6583": "clarity_nt_char_6583"
@@ -62592,7 +62592,7 @@
         "かわいらしい|ドワーフ風の|プランター": ""
     },
     "20865": {
-        "ありし日の|旅の思い出を|映しだす機械": ""
+        "ありし日の|旅の思い出を|映しだす機械": "Projects|memories of|past travels."
     },
     "20866": {
         "黄色のハートを|モチーフにした|イス": ""
@@ -62811,43 +62811,43 @@
         "clarity_nt_char_6647": "clarity_nt_char_6647"
     },
     "20938": {
-        "ミニチュア模型用|ならべて遊べる|岩山": ""
+        "ミニチュア模型用|ならべて遊べる|岩山": "Miniature model|of a rocky|mountain."
     },
     "20939": {
-        "ミニチュア模型用|ならべて遊べる|草花": ""
+        "ミニチュア模型用|ならべて遊べる|草花": "Miniature model|of plants."
     },
     "20940": {
-        "ミニチュア模型用|ならべて遊べる|丸い家": ""
+        "ミニチュア模型用|ならべて遊べる|丸い家": "Miniature model|of a round|house."
     },
     "20941": {
         "clarity_nt_char_6648": "clarity_nt_char_6648"
     },
     "20942": {
-        "ミニチュア模型用|ならべて遊べる|四角い家": ""
+        "ミニチュア模型用|ならべて遊べる|四角い家": "Miniature model|of a square|house."
     },
     "20943": {
-        "ミニチュア模型用|ならべて遊べる|晴れの書き割り": ""
+        "ミニチュア模型用|ならべて遊べる|晴れの書き割り": "Clear sky|miniature model|backdrop."
     },
     "20944": {
         "clarity_nt_char_6649": "clarity_nt_char_6649"
     },
     "20945": {
-        "ミニチュア模型用|ならべて遊べる|雪の岩山": ""
+        "ミニチュア模型用|ならべて遊べる|雪の岩山": "Snow-covered|model of a|rocky mountain."
     },
     "20946": {
-        "ミニチュア模型用|ならべて遊べる|雪の草花": ""
+        "ミニチュア模型用|ならべて遊べる|雪の草花": "Snow-covered|model of|plants."
     },
     "20947": {
-        "ミニチュア模型用|ならべて遊べる|雪の丸い家": ""
+        "ミニチュア模型用|ならべて遊べる|雪の丸い家": "Snow-covered|model of a|round house."
     },
     "20948": {
         "clarity_nt_char_6650": "clarity_nt_char_6650"
     },
     "20949": {
-        "ミニチュア模型用|ならべて遊べる|雪の四角い家": ""
+        "ミニチュア模型用|ならべて遊べる|雪の四角い家": "Snow-covered|model of a|square house."
     },
     "20950": {
-        "ミニチュア模型用|ならべて遊べる|くもりの書き割り": ""
+        "ミニチュア模型用|ならべて遊べる|くもりの書き割り": "Cloudy sky|miniature model|backdrop."
     },
     "20951": {
         "自分の家の庭で|手紙と荷物が|受け取れるポスト": "You can receive|letters/packages|from your yard."
@@ -63132,73 +63132,73 @@
         "clarity_nt_char_6682": "clarity_nt_char_6682"
     },
     "21045": {
-        "ピンクが映える|お姫様チックな|パーティ机": "A cute, pink|and princess-like|party desk."
+        "ピンクが映える|お姫様チックな|パーティ机": "Cute, pink|princess-like|party desk."
     },
     "21046": {
-        "オレンジが際立つ|お姫様チックな|イス": ""
+        "オレンジが際立つ|お姫様チックな|イス": "Orange|princess-like|chair."
     },
     "21047": {
-        "オレンジが際立つ|お姫様チックな|長イス": ""
+        "オレンジが際立つ|お姫様チックな|長イス": "Orange|princess-like|bench."
     },
     "21048": {
         "clarity_nt_char_6683": "clarity_nt_char_6683"
     },
     "21049": {
-        "オレンジが際立つ|お姫様チックな|小さなテーブル": ""
+        "オレンジが際立つ|お姫様チックな|小さなテーブル": "Orange|princess-like|small table."
     },
     "21050": {
         "clarity_nt_char_6684": "clarity_nt_char_6684"
     },
     "21051": {
-        "オレンジが際立つ|お姫様チックな|大きなテーブル": ""
+        "オレンジが際立つ|お姫様チックな|大きなテーブル": "Orange|princess-like|large table."
     },
     "21052": {
         "clarity_nt_char_6685": "clarity_nt_char_6685"
     },
     "21053": {
-        "お姫様チックな|タンス|アイテム収納可能": ""
+        "お姫様チックな|タンス|アイテム収納可能": "Princess-like|wardrobe to|store items."
     },
     "21054": {
         "clarity_nt_char_6686": "clarity_nt_char_6686"
     },
     "21055": {
-        "オレンジが際立つ|お姫様チックな|本棚": ""
+        "オレンジが際立つ|お姫様チックな|本棚": "Orange|princess-like|bookshelf."
     },
     "21056": {
-        "オレンジが際立つ|お姫様チックな|食器棚": ""
+        "オレンジが際立つ|お姫様チックな|食器棚": "Orange|princess-like|cupboard."
     },
     "21057": {
         "clarity_nt_char_6687": "clarity_nt_char_6687"
     },
     "21058": {
-        "オレンジが際立つ|お姫様チックな|キッチン": ""
+        "オレンジが際立つ|お姫様チックな|キッチン": "Orange|princess-like|kitchen."
     },
     "21059": {
-        "オレンジが際立つ|お姫様チックな|オーブン": ""
+        "オレンジが際立つ|お姫様チックな|オーブン": "Orange|princess-like|oven."
     },
     "21060": {
-        "オレンジが際立つ|お姫様チックな|ベッド": ""
+        "オレンジが際立つ|お姫様チックな|ベッド": "Orange|princess-like|bed."
     },
     "21061": {
         "clarity_nt_char_6688": "clarity_nt_char_6688"
     },
     "21062": {
-        "オレンジが際立つ|お姫様チックな|バスタブ": ""
+        "オレンジが際立つ|お姫様チックな|バスタブ": "Orange|princess-like|bathtub."
     },
     "21063": {
-        "オレンジが際立つ|お姫様チックな|間仕切り": ""
+        "オレンジが際立つ|お姫様チックな|間仕切り": "Orange|princess-like|partition."
     },
     "21064": {
-        "お姫様チックな|チェスト|アイテム収納可能": ""
+        "お姫様チックな|チェスト|アイテム収納可能": "Princess-like|chest to store|items."
     },
     "21065": {
-        "オレンジが際立つ|お姫様チックな|大きなカウンター": ""
+        "オレンジが際立つ|お姫様チックな|大きなカウンター": "Orange|princess-like|large counter."
     },
     "21066": {
-        "オレンジが際立つ|お姫様チックな|小さなカウンター": ""
+        "オレンジが際立つ|お姫様チックな|小さなカウンター": "Orange|princess-like|small counter."
     },
     "21067": {
-        "オレンジが際立つ|お姫様チックな|パーティ机": ""
+        "オレンジが際立つ|お姫様チックな|パーティ机": "Orange|princess-like|party desk."
     },
     "21068": {
         "clarity_nt_char_6689": "clarity_nt_char_6689"
@@ -63996,7 +63996,7 @@
         "ねらったエモノは|にがさぬ構えの|アローインプの像": ""
     },
     "21333": {
-        "思わず|抱きしめたくなる|おむつっこりの像": ""
+        "思わず|抱きしめたくなる|おむつっこりの像": "Nappy Wrapper|statue you just|want to hug."
     },
     "21334": {
         "大きな木づちが|トレードマーク|おおきづちの像": "Hammerhood with|his trademark|wooden hammer."
@@ -64266,7 +64266,7 @@
         "青い気球に乗った|プクリポ三姉妹の|室内用人形": ""
     },
     "21423": {
-        "和室の雰囲気を|演出できる|和風の畳": ""
+        "和室の雰囲気を|演出できる|和風の畳": "Gives the room|a Japaenese|atmosphere."
     },
     "21424": {
         "clarity_nt_char_6807": "clarity_nt_char_6807"
@@ -64287,7 +64287,7 @@
         "clarity_nt_char_6809": "clarity_nt_char_6809"
     },
     "21430": {
-        "あたたかな光が|ゆったり落ち着く|和風の行灯": ""
+        "あたたかな光が|ゆったり落ち着く|和風の行灯": "Japanese style|lantern with|soothing light."
     },
     "21431": {
         "clarity_nt_char_6810": "clarity_nt_char_6810"
@@ -64350,10 +64350,10 @@
         "clarity_nt_char_6815": "clarity_nt_char_6815"
     },
     "21451": {
-        "テント風の家に|よく似合う|レンガの柱": ""
+        "テント風の家に|よく似合う|レンガの柱": "Looks great in|a tent style|house."
     },
     "21452": {
-        "テント風の家に|よく似合う|レンガの壁": ""
+        "テント風の家に|よく似合う|レンガの壁": "Looks great in|a tent style|house."
     },
     "21453": {
         "床に置いて使う|ゴシック調の|黒いシャンデリア": ""
@@ -64623,13 +64623,13 @@
         "clarity_nt_char_6847": "clarity_nt_char_6847"
     },
     "21542": {
-        "豪華なおせちが|並べられた|コタツテーブル": ""
+        "豪華なおせちが|並べられた|コタツテーブル": "Kotatsu table|with food for|the New Year."
     },
     "21543": {
         "新年を祝う|金屏風つき|鏡餅セット": ""
     },
     "21544": {
-        "七輪で焼いた|おいしそうな|つきたておもち": ""
+        "七輪で焼いた|おいしそうな|つきたておもち": "Freshly made|rice cakes on a|charcoal grill."
     },
     "21545": {
         "無病息災を願う|縁起物のチェスト|アイテム収納可能": ""
@@ -64773,7 +64773,7 @@
         "ツンとした唇が|キュートな|リゼロッタの像": ""
     },
     "21592": {
-        "思わずハイタッチ|したくなる|セラフィの像": "A Seraphy statue|you just want|to high five!"
+        "思わずハイタッチ|したくなる|セラフィの像": "A Seraphi statue|you just want|to high five!"
     },
     "21593": {
         "剣をふりあげる|姿がかっこいい|地獄の帝王像・茶": ""
@@ -66588,7 +66588,7 @@
         "夕焼け小焼けな|ふわふわ雲の|ふわふわなライト": ""
     },
     "22197": {
-        "高級な木材で|がっしり造られた|王家御用達の柱": ""
+        "高級な木材で|がっしり造られた|王家御用達の柱": "Royal pillar|made of high|quality wood."
     },
     "22198": {
         "貴族が暮らす|豪邸にふさわしい|金ぶち細工の柱": ""
@@ -66600,7 +66600,7 @@
         "clarity_nt_char_7051": "clarity_nt_char_7051"
     },
     "22201": {
-        "高級な木材で|がっしり造られた|王家御用達の壁": ""
+        "高級な木材で|がっしり造られた|王家御用達の壁": "Royal wall made|of high quality|wood."
     },
     "22202": {
         "貴族が暮らす|豪邸にふさわしい|金ぶち細工の壁": ""
@@ -66672,7 +66672,7 @@
         "clarity_nt_char_7059": "clarity_nt_char_7059"
     },
     "22225": {
-        "王家にふさわしい|見事な装飾の|お城の大きい壁": ""
+        "王家にふさわしい|見事な装飾の|お城の大きい壁": "Wall befitting|a royal family."
     },
     "22226": {
         "色もデザインも|とてもシンプルな|白木の大きい壁": ""
@@ -66759,7 +66759,7 @@
         "clarity_nt_char_7071": "clarity_nt_char_7071"
     },
     "22254": {
-        "王家にふさわしい|見事な装飾の|扉付きのお城の壁": ""
+        "王家にふさわしい|見事な装飾の|扉付きのお城の壁": "Wall with a|door befitting|a royal family."
     },
     "22255": {
         "clarity_nt_char_7072": "clarity_nt_char_7072"
@@ -69312,7 +69312,7 @@
         "clarity_nt_char_7343": "clarity_nt_char_7343"
     },
     "23105": {
-        "砂漠の冒険を|思いださせる|セラフィの絵画": "Seraphy's|paintings remind|of his adventures"
+        "砂漠の冒険を|思いださせる|セラフィの絵画": "Seraphi's|paintings remind|of his adventures"
     },
     "23106": {
         "決意を胸に|剣を抱く|アンルシアの絵画": ""
@@ -69441,10 +69441,10 @@
         "clarity_nt_char_7357": "clarity_nt_char_7357"
     },
     "23148": {
-        "家でいつでも|月見を楽しめる|情緒あふれる障子": ""
+        "家でいつでも|月見を楽しめる|情緒あふれる障子": "Door to enjoy|moon viewing|at home."
     },
     "23149": {
-        "ウサギの柄が|一面に描かれた|かわいい照明": ""
+        "ウサギの柄が|一面に描かれた|かわいい照明": "Cute lighting|with a rabbit|pattern on it."
     },
     "23150": {
         "家の中の音楽を|武器商人トルネコ|にするオルゴール": ""
@@ -69777,7 +69777,7 @@
         "カボチャおばけの|おかしな|ウォールランプ": ""
     },
     "23260": {
-        "ミニチュアの|雪景色を楽しめる|スノードーム": ""
+        "ミニチュアの|雪景色を楽しめる|スノードーム": "Snow globe of a|miniature snow|scene."
     },
     "23261": {
         "clarity_nt_char_7394": "clarity_nt_char_7394"
@@ -69900,7 +69900,7 @@
         "ザンクローネと|新年を祝える|楽しいぬいぐるみ": ""
     },
     "23301": {
-        "ちょっと寒そうな|厚着セラフィの|可憐なぬいぐるみ": "Plushie of|Seraphy in|thick clothes."
+        "ちょっと寒そうな|厚着セラフィの|可憐なぬいぐるみ": "Plushie of|Seraphi in|thick clothes."
     },
     "23302": {
         "家の中の音楽を|神に祈りをに|変えるオルゴール": ""
@@ -70074,7 +70074,7 @@
         "clarity_nt_char_7431": "clarity_nt_char_7431"
     },
     "23359": {
-        "ふわふわ雲の中で|お月様と眠る|熟睡ベッド": ""
+        "ふわふわ雲の中で|お月様と眠る|熟睡ベッド": "Sleep in fluffy|clouds with the|moon."
     },
     "23360": {
         "不思議の魔塔で|よく見かける|赤い宝石付きの壁": ""
@@ -70611,13 +70611,13 @@
         "clarity_nt_char_7493": "clarity_nt_char_7493"
     },
     "23538": {
-        "目がピカピカ光る|おもちゃみたいな|Ｑ４８４の像": "Statue of Q484|that looks like a|toy"
+        "目がピカピカ光る|おもちゃみたいな|Ｑ４８４の像": "Statue of Q484|that looks like|a toy."
     },
     "23539": {
         "clarity_nt_char_7494": "clarity_nt_char_7494"
     },
     "23540": {
-        "さわると８種類に|アレンジできる|ハロウィンな壁": ""
+        "さわると８種類に|アレンジできる|ハロウィンな壁": "Wall that can|be arranged 8|different ways."
     },
     "23541": {
         "clarity_nt_char_7495": "clarity_nt_char_7495"
@@ -70629,7 +70629,7 @@
         "不思議な魅力で|部屋を照らす|クラゲ型のランプ": ""
     },
     "23544": {
-        "さわると８種類に|アレンジできる|ヤシの葉の壁": ""
+        "さわると８種類に|アレンジできる|ヤシの葉の壁": "Wall that can|be arranged 8|different ways."
     },
     "23545": {
         "お庭に甘い香りが|漂ってきそうな|虹色ツリーライト": ""
@@ -71088,13 +71088,13 @@
         "にぎやかな飾りが|星明かりで踊る|クリスマスツリー": ""
     },
     "23697": {
-        "さわると８種類に|アレンジできる|スノー柄の壁": ""
+        "さわると８種類に|アレンジできる|スノー柄の壁": "Wall that can|be arranged 8|different ways."
     },
     "23698": {
-        "さわると８種類に|アレンジできる|クリスマス柄の壁": ""
+        "さわると８種類に|アレンジできる|クリスマス柄の壁": "Wall that can|be arranged 8|different ways."
     },
     "23699": {
-        "さわると８種類に|アレンジできる|お正月の壁": ""
+        "さわると８種類に|アレンジできる|お正月の壁": "Wall that can|be arranged 8|different ways."
     },
     "23700": {
         "clarity_nt_char_7545": "clarity_nt_char_7545"
@@ -71109,10 +71109,10 @@
         "氷の領界の|名所に雪が積もる|室内に置ける模型": ""
     },
     "23704": {
-        "さわると８種類に|アレンジできる|貝殻モチーフの壁": ""
+        "さわると８種類に|アレンジできる|貝殻モチーフの壁": "Wall that can|be arranged 8|different ways."
     },
     "23705": {
-        "さわると７種類に|アレンジできる|灰ねこの壁": ""
+        "さわると７種類に|アレンジできる|灰ねこの壁": "Wall that can|be arranged 7|different ways."
     },
     "23706": {
         "clarity_nt_char_7547": "clarity_nt_char_7547"
@@ -72354,7 +72354,7 @@
         "clarity_nt_char_7701": "clarity_nt_char_7701"
     },
     "24119": {
-        "さわると７種類に|アレンジできる|神秘的な黒猫の壁": ""
+        "さわると７種類に|アレンジできる|神秘的な黒猫の壁": "Wall that can|be arranged 7|different ways."
     },
     "24120": {
         "ハロウィンに最適|ゴースト飛び出す|壁かけの窓": ""
@@ -76332,7 +76332,7 @@
         "ペンシルボーイの|庭用の像": ""
     },
     "25445": {
-        "おにびの|庭用の像": ""
+        "おにびの|庭用の像": "Will-O' garden|statue."
     },
     "25446": {
         "イースターの|仲間がいっぱいの|楽しいアーチ": "A fun arch|featuring friends|of Easter."
@@ -80958,7 +80958,7 @@
         "ぴょんぴょんと|跳ねたくなる|ウサ足ブーツ": ""
     },
     "26987": {
-        "お正月の絵馬": "New Year's Ema"
+        "お正月の絵馬": "New Year Ema"
     },
     "26988": {
         "clarity_nt_char_8656": "clarity_nt_char_8656"
@@ -83181,7 +83181,7 @@
         "セレド宿屋の扉": ""
     },
     "27728": {
-        "サーカステントの扉": ""
+        "サーカステントの扉": "Circus Tent Door"
     },
     "27729": {
         "オルフェア民家の扉": ""
@@ -83886,7 +83886,7 @@
         "clarity_nt_char_8956": "clarity_nt_char_8956"
     },
     "27963": {
-        "さわると８種類に|アレンジできる|南国リゾートの壁": ""
+        "さわると８種類に|アレンジできる|南国リゾートの壁": "Wall that can|be arranged 8|different ways."
     },
     "27964": {
         "トポルの村で|よく使われる|素朴なロウソク": ""

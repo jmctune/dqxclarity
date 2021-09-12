@@ -132,7 +132,7 @@
         "clarity_nt_char_12": "clarity_nt_char_12"
     },
     "45": {
-        "ロロット": ""
+        "ロロット": "Lolott"
     },
     "46": {
         "clarity_nt_char_13": "clarity_nt_char_13"
@@ -168,7 +168,7 @@
         "clarity_nt_char_18": "clarity_nt_char_18"
     },
     "57": {
-        "リザーブ": ""
+        "リザーブ": "Drake"
     },
     "58": {
         "clarity_nt_char_19": "clarity_nt_char_19"
@@ -201,22 +201,22 @@
         "clarity_nt_char_23": "clarity_nt_char_23"
     },
     "68": {
-        "もぐた": ""
+        "もぐた": "Digby"
     },
     "69": {
-        "ボロンゴ": ""
+        "ボロンゴ": "Saber"
     },
     "70": {
         "clarity_nt_char_24": "clarity_nt_char_24"
     },
     "71": {
-        "タッピイ": ""
+        "タッピイ": "Mechabubo"
     },
     "72": {
         "clarity_nt_char_25": "clarity_nt_char_25"
     },
     "73": {
-        "バンブー": ""
+        "バンブー": "Bamboo"
     },
     "74": {
         "clarity_nt_char_26": "clarity_nt_char_26"
@@ -228,7 +228,7 @@
         "clarity_nt_char_27": "clarity_nt_char_27"
     },
     "77": {
-        "ハリー": ""
+        "ハリー": "Harry"
     },
     "78": {
         "ゴレムス": "Brickman"
@@ -237,19 +237,19 @@
         "clarity_nt_char_28": "clarity_nt_char_28"
     },
     "80": {
-        "サイモン": ""
+        "サイモン": "Simon"
     },
     "81": {
         "clarity_nt_char_29": "clarity_nt_char_29"
     },
     "82": {
-        "ゴーダ": ""
+        "ゴーダ": "Gouda"
     },
     "83": {
-        "ロビン": ""
+        "ロビン": "Serial"
     },
     "84": {
-        "マジット": ""
+        "マジット": "Shammy"
     },
     "85": {
         "clarity_nt_char_30": "clarity_nt_char_30"
@@ -261,31 +261,31 @@
         "clarity_nt_char_31": "clarity_nt_char_31"
     },
     "88": {
-        "バインド": ""
+        "バインド": "Baind"
     },
     "89": {
         "clarity_nt_char_32": "clarity_nt_char_32"
     },
     "90": {
-        "パペック": ""
+        "パペック": "Poppet"
     },
     "91": {
         "clarity_nt_char_33": "clarity_nt_char_33"
     },
     "92": {
-        "タシスン": ""
+        "タシスン": "Torval"
     },
     "93": {
         "clarity_nt_char_34": "clarity_nt_char_34"
     },
     "94": {
-        "ミステル": ""
+        "ミステル": "Mistel"
     },
     "95": {
         "clarity_nt_char_35": "clarity_nt_char_35"
     },
     "96": {
-        "チェスト": ""
+        "チェスト": "Chester"
     },
     "97": {
         "clarity_nt_char_36": "clarity_nt_char_36"
@@ -327,7 +327,7 @@
         "ねこまどうの杖": "Meowgician Cane"
     },
     "110": {
-        "リザードソード": ""
+        "リザードソード": "Mandrake Sword"
     },
     "111": {
         "サタンフォーク": "Imp Fork"
@@ -336,7 +336,7 @@
         "レックスのオノ": "Hacksaurus Axe"
     },
     "113": {
-        "かしのきづち": ""
+        "かしのきづち": "Brownie Mallet"
     },
     "114": {
         "clarity_nt_char_39": "clarity_nt_char_39"
@@ -357,7 +357,7 @@
         "ブロードソード": "Broadsword"
     },
     "120": {
-        "フォンデュのくし": ""
+        "フォンデュのくし": "Fromage Fork"
     },
     "121": {
         "clarity_nt_char_42": "clarity_nt_char_42"
@@ -369,7 +369,7 @@
         "clarity_nt_char_43": "clarity_nt_char_43"
     },
     "124": {
-        "デビルブレード": "Devil Blade"
+        "デビルブレード": "Harmour Blade"
     },
     "125": {
         "アンルシアの剣": "Anlucia's Sword"
@@ -402,7 +402,7 @@
         "スライムナイトの盾": "Slime Knight Shield"
     },
     "135": {
-        "リザードシールド": ""
+        "リザードシールド": "Mandrake Shield"
     },
     "136": {
         "clarity_nt_char_46": "clarity_nt_char_46"
@@ -414,7 +414,7 @@
         "clarity_nt_char_47": "clarity_nt_char_47"
     },
     "139": {
-        "デビルシールド": "Devil Shield"
+        "デビルシールド": "Harmour Shield"
     },
     "140": {
         "ウェスリーハンマー": "Wesley's Hammer"
@@ -906,7 +906,7 @@
         "行動時10%ピオラ": "Accel On Action 10%"
     },
     "303": {
-        "スライムハート": ""
+        "スライムハート": "Slimeheart"
     },
     "304": {
         "行動時10%バイシオン": "Oomph On Action 10%"
@@ -1065,7 +1065,7 @@
         "ドルモーア": "Kazam"
     },
     "356": {
-        "やすらぎソウル": ""
+        "やすらぎソウル": "Peaceful Soul"
     },
     "357": {
         "呪文と特技の回復強化": "Spell/Skill Recovery Boost"
@@ -1074,10 +1074,10 @@
         "clarity_nt_char_123": "clarity_nt_char_123"
     },
     "359": {
-        "ポワポワダンス": ""
+        "ポワポワダンス": "Gentle Dance"
     },
     "360": {
-        "ぽかぽかニャー": ""
+        "ぽかぽかニャー": "Warm Meow"
     },
     "361": {
         "常時ちから+10": "Strength +10"
@@ -1086,10 +1086,10 @@
         "clarity_nt_char_124": "clarity_nt_char_124"
     },
     "363": {
-        "ツメとぐニャー": ""
+        "ツメとぐニャー": "Sharpen Claws"
     },
     "364": {
-        "タマげたニャー": ""
+        "タマげたニャー": "Meow Bomb"
     },
     "365": {
         "常時ちから+25": "Strength +25"
@@ -1098,7 +1098,7 @@
         "clarity_nt_char_125": "clarity_nt_char_125"
     },
     "367": {
-        "タマげたニャー+200": ""
+        "タマげたニャー+200": "Meow Bomb +200"
     },
     "368": {
         "ヒャド": "Crack"
@@ -1329,7 +1329,7 @@
         "スラ・ギガブレイク": "Googagash"
     },
     "444": {
-        "かえんのいき": ""
+        "かえんのいき": "Flame Breath"
     },
     "445": {
         "clarity_nt_char_148": "clarity_nt_char_148"
@@ -1491,13 +1491,13 @@
         "シールドカウンター": "Offensive Defense"
     },
     "498": {
-        "竜のウロコ": ""
+        "竜のウロコ": "Dragon Scales"
     },
     "499": {
         "常時さいだいＭＰ+60": "Maximum MP +60"
     },
     "500": {
-        "裂空斬": ""
+        "裂空斬": "Rift Cut"
     },
     "501": {
         "真・らいめい斬り": "Thunder Crash"
@@ -1587,22 +1587,22 @@
         "clarity_nt_char_175": "clarity_nt_char_175"
     },
     "530": {
-        "もぐらタタキ": ""
+        "もぐらタタキ": "Mole Assault"
     },
     "531": {
         "clarity_nt_char_176": "clarity_nt_char_176"
     },
     "532": {
-        "鉱石さがし": ""
+        "鉱石さがし": "Ore Search"
     },
     "533": {
-        "いたずラッシュ": ""
+        "いたずラッシュ": "Naughty Rush"
     },
     "534": {
-        "もぐらタタキ+50": ""
+        "もぐらタタキ+50": "Mole Assault +50"
     },
     "535": {
-        "いたずラッシュ+25": ""
+        "いたずラッシュ+25": "Naughty Rush +25"
     },
     "536": {
         "clarity_nt_char_177": "clarity_nt_char_177"
@@ -1623,7 +1623,7 @@
         "ゾンビ系威力+5%": "Zombie Power +5%"
     },
     "542": {
-        "連撃なぎはらい": ""
+        "連撃なぎはらい": "Barrage Attack"
     },
     "543": {
         "水流のかまえ": "Be Like Water"
@@ -1641,7 +1641,7 @@
         "ヒップアタック": "Hip Attack"
     },
     "548": {
-        "プチっとかくせい": ""
+        "プチっとかくせい": "Channel Tantrum"
     },
     "549": {
         "clarity_nt_char_180": "clarity_nt_char_180"
@@ -1650,7 +1650,7 @@
         "イオナズン": "Kaboom"
     },
     "551": {
-        "おとなのじゅもん": ""
+        "おとなのじゅもん": "Grown-up Spell"
     },
     "552": {
         "clarity_nt_char_181": "clarity_nt_char_181"
@@ -1659,7 +1659,7 @@
         "イオ系効果+30%": "Bang Spells +30%"
     },
     "554": {
-        "おとなのじゅもん+300": ""
+        "おとなのじゅもん+300": "Grown-up Spell +300"
     },
     "555": {
         "clarity_nt_char_182": "clarity_nt_char_182"
@@ -1749,13 +1749,13 @@
         "clarity_nt_char_194": "clarity_nt_char_194"
     },
     "584": {
-        "回転たたき": ""
+        "回転たたき": "Spinning Slap"
     },
     "585": {
         "常時きようさ+60": "Deftness +60"
     },
     "586": {
-        "パワースタンプ": ""
+        "パワースタンプ": "Power Stamp"
     },
     "587": {
         "常時きようさ+100": "Deftness +100"
@@ -1767,25 +1767,25 @@
         "会心完全ガード": "All Critical Guard"
     },
     "590": {
-        "ウルトラスタンプ": ""
+        "ウルトラスタンプ": "Ultra Stamp"
     },
     "591": {
         "clarity_nt_char_196": "clarity_nt_char_196"
     },
     "592": {
-        "回転たたき+100": ""
+        "回転たたき+100": "Spinning Slap +100"
     },
     "593": {
-        "会心時+200": ""
+        "会心時+200": "Critical +200"
     },
     "594": {
-        "ウルトラスタンプ+300": ""
+        "ウルトラスタンプ+300": "Ultra Stamp +300"
     },
     "595": {
         "clarity_nt_char_197": "clarity_nt_char_197"
     },
     "596": {
-        "物質系威力+5%": ""
+        "物質系威力+5%": "Material Power +5%"
     },
     "597": {
         "clarity_nt_char_198": "clarity_nt_char_198"
@@ -1803,7 +1803,7 @@
         "常時きようさ+80": "Deftness +80"
     },
     "602": {
-        "ウルトラパワー": ""
+        "ウルトラパワー": "Ultra Power"
     },
     "603": {
         "常時みのまもり+45": "Resilience +45"
@@ -1812,25 +1812,25 @@
         "clarity_nt_char_199": "clarity_nt_char_199"
     },
     "605": {
-        "グレートスタンプ": ""
+        "グレートスタンプ": "Great Stamp"
     },
     "606": {
         "clarity_nt_char_200": "clarity_nt_char_200"
     },
     "607": {
-        "やすらぎバット": ""
+        "やすらぎバット": "Peaceful Bat"
     },
     "608": {
-        "りゅうせいよび": ""
+        "りゅうせいよび": "Meteor Rain"
     },
     "609": {
-        "まりょくのうた": ""
+        "まりょくのうた": "Song of Magic"
     },
     "610": {
-        "ぱたぱたバット": ""
+        "ぱたぱたバット": "Flapping Bat"
     },
     "611": {
-        "りゅうせいよび+50": ""
+        "りゅうせいよび+50": "Meteor Rain +50"
     },
     "612": {
         "clarity_nt_char_201": "clarity_nt_char_201"
@@ -1842,7 +1842,7 @@
         "clarity_nt_char_202": "clarity_nt_char_202"
     },
     "615": {
-        "闇耐性+5%": ""
+        "闇耐性+5%": "Dark R. +5%"
     },
     "616": {
         "clarity_nt_char_203": "clarity_nt_char_203"
@@ -1857,7 +1857,7 @@
         "clarity_nt_char_204": "clarity_nt_char_204"
     },
     "620": {
-        "やすらぎバード": ""
+        "やすらぎバード": "Peaceful Bird"
     },
     "621": {
         "ドルマドン": "Kazammle"
@@ -1875,22 +1875,22 @@
         "clarity_nt_char_206": "clarity_nt_char_206"
     },
     "626": {
-        "会心時+50": ""
+        "会心時+50": "Critical +50"
     },
     "627": {
         "clarity_nt_char_207": "clarity_nt_char_207"
     },
     "628": {
-        "地獄の咆哮": ""
+        "地獄の咆哮": "Hellish Roar"
     },
     "629": {
-        "いなずま+200": ""
+        "いなずま+200": "Lightning +200"
     },
     "630": {
         "clarity_nt_char_208": "clarity_nt_char_208"
     },
     "631": {
-        "しっぷう攻撃": ""
+        "しっぷう攻撃": "Gale Blast"
     },
     "632": {
         "clarity_nt_char_209": "clarity_nt_char_209"
@@ -1905,19 +1905,19 @@
         "clarity_nt_char_210": "clarity_nt_char_210"
     },
     "636": {
-        "ひっかきのあらし": ""
+        "ひっかきのあらし": "Scratch Storm"
     },
     "637": {
         "clarity_nt_char_211": "clarity_nt_char_211"
     },
     "638": {
-        "しっぷう攻撃+100": ""
+        "しっぷう攻撃+100": "Gale Blast +100"
     },
     "639": {
         "clarity_nt_char_212": "clarity_nt_char_212"
     },
     "640": {
-        "ひっかきのあらし+30": ""
+        "ひっかきのあらし+30": "Scratch Storm +30"
     },
     "641": {
         "牙神昇誕": "Fang of God"
