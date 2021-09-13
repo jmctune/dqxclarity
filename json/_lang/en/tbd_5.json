@@ -2907,13 +2907,13 @@
         "clarity_nt_char_323": "clarity_nt_char_323"
     },
     "970": {
-        "お月見だんご <%dM_POINT> 個と <%sM_item> <%dM_GET_NUM>個を 交換した！": ""
+        "お月見だんご <%dM_POINT> 個と <%sM_item> <%dM_GET_NUM>個を 交換した！": "Exchanged <%dM_POINT> Moon View Dumplings for <%dM_GET_NUM> <%sM_item>s!"
     },
     "971": {
         "clarity_nt_char_324": "clarity_nt_char_324"
     },
     "972": {
-        "お月見だんご <%dM_POINT> 個と <%sM_item>を 交換した！": ""
+        "お月見だんご <%dM_POINT> 個と <%sM_item>を 交換した！": "Exchanged <%dM_POINT> Moon View Dumplings for <%sM_item>!"
     },
     "973": {
         "<pc>は <%sL_CLASS>ランクの報酬を受け取った！": "<pc> received a Rank <%sL_CLASS> reward!"
