@@ -1905,7 +1905,7 @@
         "くじケースが だいじなものに　追加された！": "Lottery Case added to your Key Items!"
     },
     "636": {
-        "錬金釜で <%sM_item><%sM_plusnum>の <%sM_slot>を|<%sM_change_color>にカラーリングした。": ""
+        "錬金釜で <%sM_item><%sM_plusnum>の <%sM_slot>を|<%sM_change_color>にカラーリングした。": "Colored the <%sM_item><%sM_plusnum> <%sM_slot>|to <%sM_change_color> in the Alchemy Pot."
     },
     "637": {
         "clarity_nt_char_637": "clarity_nt_char_637"
@@ -3324,13 +3324,13 @@
         "clarity_nt_char_1108": "clarity_nt_char_1108"
     },
     "1109": {
-        "錬金釜で <%sM_item><%sM_plusnum>の <%sM_slot>のツヤを|<%sM_change_metal>に変えた。": ""
+        "錬金釜で <%sM_item><%sM_plusnum>の <%sM_slot>のツヤを|<%sM_change_metal>に変えた。": "Changed the <%sM_item><%sM_plusnum> <%sM_slot>|gloss to <%sM_change_metal> in the Alchemy Pot."
     },
     "1110": {
         "clarity_nt_char_1110": "clarity_nt_char_1110"
     },
     "1111": {
-        "錬金釜で <%sM_item><%sM_plusnum>の <%sM_slot>を|<%sM_change_color>に カラーリングして|ツヤを <%sM_change_metal>に 変えた。": ""
+        "錬金釜で <%sM_item><%sM_plusnum>の <%sM_slot>を|<%sM_change_color>に カラーリングして|ツヤを <%sM_change_metal>に 変えた。": "Changed the <%sM_item><%sM_plusnum> <%sM_slot>|color to <%sM_change_color> and the gloss|to <%sM_change_metal> in the Alchemy Pot."
     },
     "1112": {
         "美容院で しろめの色を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": ""

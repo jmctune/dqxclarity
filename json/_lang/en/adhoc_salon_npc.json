@@ -3,7 +3,7 @@
         "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　こちらの　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Is this the one we're looking for?|<yesno> <break>"
     },
     "2": {
-        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno> <break>"
+        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno><break>"
     },
     "3": {
         "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　こちらの　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Is this the one we're looking for?|<yesno> <break>"
@@ -114,7 +114,7 @@
         "「まあ！　とっても似合っているわ。|　そのヘアカラーにして　正解ね♪　|<bw_break>": "Oh my God! It looks really good on you.|Your new hair color looks fabulous. ♪|<bw_break>"
     },
     "39": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? You already have <%sL_NAME> hair color.|Try choosing a different hair color.|<end>"
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "40": {
         "「まあ！　とっても似合っているわ。|　そのヘアカラーにして　正解ね♪　|<bw_break>": "Oh my God! It looks really good on you.|Your new hair color looks fabulous. ♪|<bw_break>"
@@ -315,34 +315,34 @@
         "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": "Okay!|I'll take that ticket. ♪|<bw_break>"
     },
     "106": {
-        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": "I'm sorry to hear that.|Felicia's Beauty Salon is always waiting for you.|Please come again. ♪|<end>"
+        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": "I'm sorry to hear that.|Felicia's Beauty Salon is always waiting for|you. Please come again. ♪|<end>"
     },
     "107": {
-        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": "I'm sorry to hear that.|Felicia's Beauty Salon is always waiting for you.|Please come again. ♪|<end>"
+        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": "I'm sorry to hear that.|Felicia's Beauty Salon is always waiting for|you. Please come again. ♪|<end>"
     },
     "108": {
-        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": "I'm sorry to hear that.|Felicia's Beauty Salon is always waiting for you.|Please come again. ♪|<end>"
+        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": "I'm sorry to hear that.|Felicia's Beauty Salon is always waiting for|you. Please come again. ♪|<end>"
     },
     "109": {
-        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": "I'm sorry to hear that.|Felicia's Beauty Salon is always waiting for you.|Please come again. ♪|<end>"
+        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": "I'm sorry to hear that.|Felicia's Beauty Salon is always waiting for|you. Please come again. ♪|<end>"
     },
     "110": {
-        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": "I'm sorry to hear that.|Felicia's Beauty Salon is always waiting for you.|Please come again. ♪|<end>"
+        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": "I'm sorry to hear that.|Felicia's Beauty Salon is always waiting for|you. Please come again. ♪|<end>"
     },
     "111": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you, then.|Please bring it again sometime.|<bw_break>"
     },
     "112": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it again sometime.|<bw_break>"
     },
     "113": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it again sometime.|<bw_break>"
     },
     "114": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it again sometime.|<bw_break>"
     },
     "115": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it again sometime.|<bw_break>"
     },
     "116": {
         "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "Oh my god! dear customer ♪|We will inform you that we have started|a new service at Salon Felicia Group!|<br>|From now on you can change your hairstyle|at any beauty salon. ♪|If you're sad, let's change your hairstyle. ♪|<bw_break>"
@@ -570,7 +570,7 @@
         "「あら？　その髪型だと|　ヘアカラーは　変えられないわ。|<end>": "Oh? You can't change|your hair color with that hairstyle.|<end>"
     },
     "191": {
-        "「えっと？　これじゃあ|　もとの姿と　おんなじみたいです～。|　もう一度　どんな姿か　選んでください～！|<end>": "What? It looks like it's the same as your original form~.|Please choose what form you want to take again|<end>"
+        "「えっと？　これじゃあ|　もとの姿と　おんなじみたいです～。|　もう一度　どんな姿か　選んでください～！|<end>": "What? It looks just like your original form.|Please choose another form to take!|<end>"
     },
     "192": {
         "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%dL_GOLD> gold.|Is this okay?|<yesno><break>"
@@ -585,10 +585,10 @@
         "「あら？　<%sM_item>を　持っているのね。|　髪のツヤを　変えるなら　ツヤめきリンスを|　別で　いただくことになるけど……|<br>|「それを使えば　お会計のゴールドが|　１回　無料になるわよ♪|　さっそく　使っちゃうかしら？|<yesno 2><break>": "Oh? I see you have <%sM_item>. If you want|to change the gloss of your hair, you'll have|to pay extra for the Glossy Rinse....|<br>|But if you use it, it will be for free once. ♪|Will you use it right away?|<yesno 2><break>"
     },
     "196": {
-        "「わーい！　美容院ですねー！|　どんな風になるのが　よいでしょうか～！|<end>": ""
+        "「わーい！　美容院ですねー！|　どんな風になるのが　よいでしょうか～！|<end>": "Yay! It's a beauty salon! I wonder what style you would like!"
     },
     "197": {
-        "「わかりました～。|　では　こちらの姿にて|　お仕えします～。|<end>": ""
+        "「わかりました～。|　では　こちらの姿にて|　お仕えします～。|<end>": "All right. I'll see you here.|I'm at your service.|<end>"
     },
     "198": {
         "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": "Yeah. That's a good look.|The color of your eyes is very attractive. ♪|<bw_break>"
@@ -618,16 +618,16 @@
         "「準備中。|<end>": "In preparation.|<end>"
     },
     "207": {
-        "「じゃあ　<%sM_OWNER><%sM_SAMA>がいない間に|　美容院に行って　変えてくるので|　少し　待っててくださいね！　|<end>": ""
+        "「じゃあ　<%sM_OWNER><%sM_SAMA>がいない間に|　美容院に行って　変えてくるので|　少し　待っててくださいね！　|<end>": "Well then, please wait a moment because|I will go to the beauty salon and change it|while <%sM_OWNER><%sM_SAMA> is not here!|<end>"
     },
     "208": {
-        "「わかりました～！|　『美容院に行かせる』から　いつでも|　変更できますので　お申し付けくださいね！|<end>": ""
+        "「わかりました～！|　『美容院に行かせる』から　いつでも|　変更できますので　お申し付けくださいね！|<end>": "I understand!|I'll let you go to the beauty salon so you|can change it at any time, so please tell me!|<end>"
     },
     "209": {
-        "「すみません～！　<%sM_OWNER><%sM_SAMA>。|　その髪型だと　ヘアカラーは|　変えられないのです～！|<end>": ""
+        "「すみません～！　<%sM_OWNER><%sM_SAMA>。|　その髪型だと　ヘアカラーは|　変えられないのです～！|<end>": "Excuse me! <%sM_OWNER><%sM_SAMA>.I can't|change your hair color with that hairstyle!|<end>"
     },
     "210": {
-        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno> <break>"
+        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno><break>"
     },
     "211": {
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
@@ -636,16 +636,16 @@
         "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": "All right.|You can use that ticket anytime you want.|So keep it safe. ♪|<bw_break>"
     },
     "213": {
-        "「それじゃあ　もう一度|　どのような姿がいいか|　イメージして選んでください～。|<end>": ""
+        "「それじゃあ　もう一度|　どのような姿がいいか|　イメージして選んでください～。|<end>": "I'm sure you'll be able to figure out|what you want it to look like.|<end>"
     },
     "214": {
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So which hair color are we going to use?<end>"
     },
     "215": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it again sometime.|<bw_break>"
     },
     "216": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "217": {
         "「えっと　おやめになりますか？|<yesno><break>": ""
@@ -699,10 +699,10 @@
         "「あら？　<%sM_item>を　持っているのね。|　髪のツヤを　変えるなら　ツヤめきリンスを|　別で　いただくことになるけど……|<br>|「それを使えば　お会計のゴールドが|　１回　無料になるわよ♪|　さっそく　使っちゃうかしら？|<yesno 2><break>": "Oh? I see you have <%sM_item>. If you want|to change the gloss of your hair, you'll have|to pay extra for the Glossy Rinse....|<br>|But if you use it, it will be for free once. ♪|Will you use it right away?|<yesno 2><break>"
     },
     "234": {
-        "「わーい！　美容院ですねー！|　どんな風になるのが　よいでしょうか～！|<end>": ""
+        "「わーい！　美容院ですねー！|　どんな風になるのが　よいでしょうか～！|<end>": "Yay! It's a beauty salon! I wonder what style you would like!"
     },
     "235": {
-        "「わかりました～。|　では　こちらの姿にて|　お仕えします～。|<end>": ""
+        "「わかりました～。|　では　こちらの姿にて|　お仕えします～。|<end>": "All right. I'll see you here.|I'm at your service.|<end>"
     },
     "236": {
         "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": "Yeah. That's a good look.|The color of your eyes is very attractive. ♪|<bw_break>"
@@ -735,13 +735,13 @@
         "「では　<%sM_OWNER><%sM_SAMA>がいない間に|　美容院に行って　変えてくるので|　少し　待っていてくださいね～！　|<end>": ""
     },
     "246": {
-        "「わかりました～！|　『美容院に行かせる』から　いつでも|　変更できますので　お申し付けくださいね！|<end>": ""
+        "「わかりました～！|　『美容院に行かせる』から　いつでも|　変更できますので　お申し付けくださいね！|<end>": "I understand!|I'll let you go to the beauty salon so you|can change it at any time, so please tell me!|<end>"
     },
     "247": {
-        "「すみません～！　<%sM_OWNER><%sM_SAMA>。|　その髪型だと　ヘアカラーは|　変えられないのです～！|<end>": ""
+        "「すみません～！　<%sM_OWNER><%sM_SAMA>。|　その髪型だと　ヘアカラーは|　変えられないのです～！|<end>": "Excuse me! <%sM_OWNER><%sM_SAMA>.I can't|change your hair color with that hairstyle!|<end>"
     },
     "248": {
-        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno> <break>"
+        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno><break>"
     },
     "249": {
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
@@ -750,16 +750,16 @@
         "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": "All right.|You can use that ticket anytime you want.|So keep it safe. ♪|<bw_break>"
     },
     "251": {
-        "「それじゃあ　もう一度|　どのような姿がいいか|　イメージして選んでください～。|<end>": ""
+        "「それじゃあ　もう一度|　どのような姿がいいか|　イメージして選んでください～。|<end>": "I'm sure you'll be able to figure out|what you want it to look like.|<end>"
     },
     "252": {
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So which hair color are we going to use?<end>"
     },
     "253": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it again sometime.|<bw_break>"
     },
     "254": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "255": {
         "「えっと　おやめになりますか？|<yesno><break>": ""
@@ -855,7 +855,7 @@
         "「おろー！　<%sM_OWNER><%sM_SAMA>！|　その髪型だと　ヘアカラーは|　変えられないぞー。|<end>": ""
     },
     "286": {
-        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno> <break>"
+        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno><break>"
     },
     "287": {
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
@@ -870,10 +870,10 @@
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So which hair color are we going to use?<end>"
     },
     "291": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it again sometime.|<bw_break>"
     },
     "292": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "293": {
         "「およー？　やめちゃうのー？|<yesno><break>": ""
@@ -969,7 +969,7 @@
         "「すみません　<%sM_OWNER><%sM_SAMA>。|　その髪型だと　ヘアカラーは変えられません。|<end>": ""
     },
     "324": {
-        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno> <break>"
+        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno><break>"
     },
     "325": {
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
@@ -984,10 +984,10 @@
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So which hair color are we going to use?<end>"
     },
     "329": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it again sometime.|<bw_break>"
     },
     "330": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "331": {
         "「おやめになりますか？|<yesno><break>": ""
@@ -1083,7 +1083,7 @@
         "「おい。|　その髪型だと　ヘアカラーは|　変えられねえぜ。|<end>": ""
     },
     "362": {
-        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno> <break>"
+        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno><break>"
     },
     "363": {
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
@@ -1098,10 +1098,10 @@
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So which hair color are we going to use?<end>"
     },
     "367": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you, then.|Please bring it again sometime.|<bw_break>"
     },
     "368": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "369": {
         "「ん？　やめるのか？|<yesno><break>": ""
@@ -1197,7 +1197,7 @@
         "「あら？　その髪型だと|　ヘアカラーは　変えられないわよ。|<end>": ""
     },
     "400": {
-        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno> <break>"
+        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno><break>"
     },
     "401": {
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
@@ -1212,10 +1212,10 @@
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So which hair color are we going to use?<end>"
     },
     "405": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you, then.|Please bring it again sometime.|<bw_break>"
     },
     "406": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "407": {
         "「あら？　やめるのかしら？|<yesno><break>": ""
@@ -1311,7 +1311,7 @@
         "「あれー！　<%sM_OWNER><%sM_SAMA>！|　その髪型だと　ヘアカラーは|　変えられないよー。|<end>": ""
     },
     "438": {
-        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno> <break>"
+        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno><break>"
     },
     "439": {
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
@@ -1326,10 +1326,10 @@
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So which hair color are we going to use?<end>"
     },
     "443": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you, then.|Please bring it again sometime.|<bw_break>"
     },
     "444": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "445": {
         "「あれー？　やめちゃうのー？|<yesno><break>": ""
@@ -1425,7 +1425,7 @@
         "「おや？　その髪型だと|　ヘアカラーは　変えられないよ。|<end>": ""
     },
     "476": {
-        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno> <break>"
+        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno><break>"
     },
     "477": {
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
@@ -1440,10 +1440,10 @@
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So which hair color are we going to use?<end>"
     },
     "481": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you, then.|Please bring it again sometime.|<bw_break>"
     },
     "482": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "483": {
         "「おや？　やめるのかい？|<yesno><break>": ""
@@ -2418,7 +2418,7 @@
         "<color_yellow>|ツヤめきリンスは|ＤＱＸショップなどで　入手できます。|<br>|プレイヤー専用サイト|目覚めし冒険者の広場ドラゴンクエストＸショップ|https://sqex.to/dqxshop|<end>": ""
     },
     "807": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "808": {
         "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>.|This time it's a free service. ♪|Is this the right color for you?|<yesno><break>"
@@ -2430,7 +2430,7 @@
         "「オッケー　まかせてっ！|　あなたのヘアカラーを|　ステキに　イメチェンしてあげる♪|<end>": "Okay, leave it to me!|I'll give your hair color a nice makeover. ♪|<end>"
     },
     "811": {
-        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno> <break>"
+        "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno><break>"
     },
     "812": {
         "「あら？　<%sM_item>を　持っているのね。|　髪のツヤを　変えるなら　ツヤめきリンスを|　別で　いただくことになるけど……|<br>|「それを使えば　お会計のゴールドが|　１回　無料になるわよ♪|　さっそく　使っちゃうかしら？|<yesno 2><break>": "Oh? I see you have <%sM_item>. If you want|to change the gloss of your hair, you'll have|to pay extra for the Glossy Rinse....|<br>|But if you use it, it will be for free once. ♪|Will you use it right away?|<yesno 2><break>"
@@ -2499,7 +2499,7 @@
         "<pipipi_off><speed=0>|『見た目を変える』から　いつでも姿を|変更できます。|<end>": ""
     },
     "834": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it again sometime.|<bw_break>"
     },
     "835": {
         "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": "Oh my god! dear customer ♪|I'd like to announce that we've started a|new service at Salon Felicia Group!|<bw_break>"

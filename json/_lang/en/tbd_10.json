@@ -1,458 +1,458 @@
 {
-  "1": {
-    "<%sL_PC>が <%sL_PLACE>の|<%sL_COLOR>宝箱から手に入れた。": "<%sL_PC> obtained from a <%sL_COLOR> Treasure|Chest in <%sL_PLACE>."
-  },
-  "2": {
-    "clarity_nt_char_2": "clarity_nt_char_2"
-  },
-  "3": {
-    "<%sL_PC>が <%sL_SYOKUNIN>で作った。": "<%sL_PC> made it with <%sL_SYOKUNIN>."
-  },
-  "4": {
-    "<%sL_PC>が <%sL_SYOKUNIN>で|<%sL_KOUKA>の効果を付けた。": "<%sL_PC> used <%sL_SYOKUNIN> to add|the effect of <%sL_KOUKA>."
-  },
-  "5": {
-    "<%sL_PC>が <%sL_PLACE>の|お店で買った。": "<%sL_PC> bought it at a shop in|<%sL_PLACE>."
-  },
-  "6": {
-    "clarity_nt_char_6": "clarity_nt_char_6"
-  },
-  "7": {
-    "<%sL_PC>が <%sL_PLACE>での|クエストで手に入れた。": "<%sL_PC> got it as a quest reward in|<%sL_PLACE>."
-  },
-  "8": {
-    "<%sL_PC>が <%sL_PLACE>の|<%sL_MONSTER>を倒して 手に入れた。": "<%sL_PC> got it in <%sL_PLACE>|by defeating a <%sL_MONSTER>."
-  },
-  "9": {
-    "<%sL_PC>が ちいさなメダルと交換して|手に入れた。": ""
-  },
-  "10": {
-    "<speed=0><%sM_pc>は|<%sM_item>を使った。<br>|しかし　何も　おこらなかった。|職人の　素材として　使ってみよう！": "<speed=0><%sM_pc>|used the <%sM_item>.<br>|But nothing happened.|Try using it as a crafting material!"
-  },
-  "11": {
-    "clarity_nt_char_11": "clarity_nt_char_11"
-  },
-  "12": {
-    "<speed=0><%sM_pc>は|<%sM_item>を　道具として|使ってみた。<br>|しかし　今は　何もおこらなかった……。": ""
-  },
-  "13": {
-    "<speed=0><%sM_pc>は|<%sM_item>を使った。<br>|しかし　何も　おこらなかった！": "<speed=0><%sM_pc> used <%sM_item>.<br>|But nothing happened!"
-  },
-  "14": {
-    "clarity_nt_char_14": "clarity_nt_char_14"
-  },
-  "15": {
-    "<%sL_PC>が <%sL_PLACE>の|タンスから手に入れた。": "<%sL_PC> received from a|wardrobe in <%sL_PLACE>."
-  },
-  "16": {
-    "clarity_nt_char_16": "clarity_nt_char_16"
-  },
-  "17": {
-    "錬金で作れる": ""
-  },
-  "18": {
-    "clarity_nt_char_18": "clarity_nt_char_18"
-  },
-  "19": {
-    "<speed=0><%sM_pc>は|<%sM_item>使った。<br>|しかし　何も　おこらなかった。|釜錬金の　素材として　使ってみよう！": "<speed=0><%sM_pc> used the <%sM_item>.<br>|But nothing happened.|Try using it as a material in the alchemy pot!"
-  },
-  "20": {
-    "clarity_nt_char_20": "clarity_nt_char_20"
-  },
-  "21": {
-    "<%sL_PC>が 釜錬金で作った。": ""
-  },
-  "22": {
-    "clarity_nt_char_22": "clarity_nt_char_22"
-  },
-  "23": {
-    "<speed=0><%sM_pc>は|<%sM_item>を　読んだ。": "<speed=0><%sM_pc> read the|<%sM_item>."
-  },
-  "24": {
-    "しかし　しぐさ「<%sM_item2>」は|すでにおぼえていた。": "But the \"<%sM_item2>\" Emote is already|learned!"
-  },
-  "25": {
-    "clarity_nt_char_25": "clarity_nt_char_25"
-  },
-  "26": {
-    "<%sM_pc>は|しぐさ「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|<%sM_item>は|光に包まれ　消え去った！": "<%sM_pc> learned the \"<%sM_item2>\"|emote!<se_nots System 7>|<br>|<%sM_item> disappeared in|a flash of light!"
-  },
-  "27": {
-    "clarity_nt_char_27": "clarity_nt_char_27"
-  },
-  "28": {
-    "<%sM_pc>は しぐさ「<%sM_item2>」を おぼえた！": "<%sM_pc> learned the \"<%sM_item2>\"|emote!"
-  },
-  "29": {
-    "<speed=0><%sM_pc>は|<%sM_item>を使った。<br>|しかし　何も　おこらなかった。|家の改築で　使ってみよう！": "<speed=0><%sM_pc> used the <%sM_item>.<br>|But nothing happened.|Try using it in your house!"
-  },
-  "30": {
-    "clarity_nt_char_30": "clarity_nt_char_30"
-  },
-  "31": {
-    "アクセサリー合成屋で 合成して|<%sL_KOUKA>の効果を付けた。": "Effect of <%sL_KOUKA>|was added by synthesizing another accessory."
-  },
-  "32": {
-    "<speed=0><%sM_pc>は|<%sM_item>使った。<br>|しかし　何も　おこらなかった。|栽培に　使ってみよう！": "<speed=0><%sM_pc>|used the <%sM_item>.<br>|But nothing happened.|Try using it for cultivating!"
-  },
-  "33": {
-    "<speed=0><%sM_pc>は|<%sM_item>を使った。<br>|しかし　何も　おこらなかった。|染色の　素材として　使ってみよう！": "<speed=0><%sM_pc>|used the <%sM_item>. <br>|But nothing happened.|Try using it to dye something!"
-  },
-  "34": {
-    "clarity_nt_char_34": "clarity_nt_char_34"
-  },
-  "35": {
-    "<speed=0><%sM_pc>は|<%sM_item>を　ながめた。<br>|<%sM_item>は　穏やかに光っている。|魔法の迷宮の　種族神の像に　捧げてみよう。|あと　<%dM_time>時間　有効のようだ。": ""
-  },
-  "36": {
-    "<speed=0><%sM_pc>は|<%sM_item>を　ながめた。<br>|<%sM_item>は　穏やかに光っている。|魔法の迷宮の　種族神の像に　捧げてみよう。|あと　<%dM_time>分　有効のようだ。": ""
-  },
-  "37": {
-    "clarity_nt_char_37": "clarity_nt_char_37"
-  },
-  "38": {
-    "<speed=0><%sM_pc>は|<%sM_item>を　ながめた。<br>|<%sM_item>は有効期限が　過ぎたため|魔法の迷宮の　種族神の像に　捧げても|効果がなさそうだ。": ""
-  },
-  "39": {
-    "clarity_nt_char_39": "clarity_nt_char_39"
-  },
-  "40": {
-    "<%sL_PC>が カジノコインと交換して|手に入れた。": "<%sL_PC> exchanged for Casino Coins."
-  },
-  "41": {
-    "clarity_nt_char_41": "clarity_nt_char_41"
-  },
-  "42": {
-    "<speed=0><%sM_pc>は|<%sM_item>を　ながめた。<br>|<%sM_item>は　穏やかに光っている。|魔法の迷宮の　種族神の像に　捧げてみよう。|あと　１分未満　有効のようだ。": ""
-  },
-  "43": {
-    "<%sL_PC>が アイテム復元屋で|復元して 手に入れた。": "<%sL_PC> restored this item at the|Restore Shop."
-  },
-  "44": {
-    "clarity_nt_char_44": "clarity_nt_char_44"
-  },
-  "45": {
-    "<%sL_PC>が おさかなコインと交換して|手に入れた。": "<%sL_PC> exchanged for Fish Coins."
-  },
-  "46": {
-    "<%sL_PC>が <%sL_PLACE>で|釣り上げた。": "<%sL_PC> reeled in at <%sL_PLACE>."
-  },
-  "47": {
-    "<%sL_PC>が <%sL_ITEM>を使って|手に入れた。": "<%sL_PC> used a <%sL_ITEM> to|obtain this."
-  },
-  "48": {
-    "<%sM_pc>は <%sM_action>「<%sM_item2>」を おぼえた！": "<%sM_pc> learned the \"<%sM_item2>\"|<%sM_action>!"
-  },
-  "49": {
-    "clarity_nt_char_49": "clarity_nt_char_49"
-  },
-  "50": {
-    "しかし　<%sM_action>「<%sM_item2>」は|すでにおぼえていた。": "But the \"<%sM_item2>\" <%sM_action> is already|learned!"
-  },
-  "51": {
-    "<%sM_pc>は|<%sM_action>「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|<%sM_item>は|光に包まれ　消え去った！": "<%sM_pc> learned the \"<%sM_item2>\"|<%sM_action>!<se_nots System 7>|<br>|<%sM_item> disappeared in|a flash of light!"
-  },
-  "52": {
-    "立ちかた": "Pose"
-  },
-  "53": {
-    "clarity_nt_char_53": "clarity_nt_char_53"
-  },
-  "54": {
-    "しぐさ": "Emote"
-  },
-  "55": {
-    "<%sL_KOUKA> の|効果が付いた。": "Effect of <%sL_KOUKA>|was added."
-  },
-  "56": {
-    "人形ポーズ": "Doll Pose"
-  },
-  "57": {
-    "<%sL_PC>が まとめ屋から もらった。": "Received from a Summary Shop."
-  },
-  "58": {
-    "clarity_nt_char_58": "clarity_nt_char_58"
-  },
-  "59": {
-    "手に入れた事のある|『職業の証』に　変身できる|すぐれものの証": "Badge that can transform|into any \"Class Proof\"|you've obtained before."
-  },
-  "60": {
-    "手に入れた事のある|『かさ』に　変身できる|ふしぎな傘": "Mysterious umbrella that|transforms into any|\"Umbrella\" you had before."
-  },
-  "61": {
-    "<%sL_PC>が アイテム交換屋で|交換して 手に入れた。": ""
-  },
-  "62": {
-    "clarity_nt_char_62": "clarity_nt_char_62"
-  },
-  "63": {
-    "<%sL_PC>が <%sL_NPC>から|もらった。": "<%sL_PC> received from <%sL_NPC>."
-  },
-  "64": {
-    "<%sM_pc>は|<%sM_action>「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|きせかえドールのポーズを|「<%sM_item2>」に　変えられるようになった！|<br>|<%sM_item>は|光に包まれ　消え去った！": "<%sM_pc> learned the \"<%sM_item2>\"|<%sM_action>! <se_nots System 7>|<br>|You can now change your dress-up doll's|pose to \"<%sM_item2>\"!|<br>|<%sM_item> disappeared in|a flash of light!"
-  },
-  "65": {
-    "<speed=0>すでに　元気タイム中です！|<%sM_item>を使うと　時間と効果が|上書きされますが　本当に使いますか？<yesno 2><close>": "<speed=0>You're already in Bonus Time!|If you use <%sM_item>, your remaining time|will be overwritten. Is this okay?<yesno 2><close>"
-  },
-  "66": {
-    "<%sL_PC>が 景品交換所で|交換して 手に入れた。": ""
-  },
-  "67": {
-    "clarity_nt_char_67": "clarity_nt_char_67"
-  },
-  "68": {
-    "<%sL_PC>が プライベートコンシェルジュから|もらった。": ""
-  },
-  "69": {
-    "<%sL_PC>が すごろくの景品で|手に入れた。": "<%sL_PC> obtained from playing Sugoroku."
-  },
-  "70": {
-    "<%sL_PC>が コロシアムの景品で|手に入れた。": ""
-  },
-  "71": {
-    "clarity_nt_char_71": "clarity_nt_char_71"
-  },
-  "72": {
-    "アクセサリー合成屋で 合成して 第一伝承に|<%sL_KOUKA>の効果を付けた。": ""
-  },
-  "73": {
-    "札強化屋で|<%sL_KOUKA>の効果を付けた。": "Added the effect of <%sL_KOUKA>."
-  },
-  "74": {
-    "<%sL_PC>が すてきなめぐりあいをして|手に入れた。": ""
-  },
-  "75": {
-    "<%sL_PC>が付けた <%sL_SYOKUNIN>効果を|<%sL_KOUKA>に　強化した。": ""
-  },
-  "76": {
-    "<%sL_PC>が 花束交換屋で|交換して 手に入れた。": ""
-  },
-  "77": {
-    "clarity_nt_char_77": "clarity_nt_char_77"
-  },
-  "78": {
-    "<%sL_PC>が 防衛戦で 手に入れた。": "<%sL_PC> received from Defense Force."
-  },
-  "79": {
-    "<%sL_PC>が <%sL_PLACE>で釣り上げた|金の宝箱から　手に入れた。": "<%sL_PC> reeled in at <%sL_PLACE>|and obtained from a gold treasure chest."
-  },
-  "80": {
-    "<%sL_PC>が <%sL_PLACE>で|手に入れた。": "<%sL_PC> obtained from <%sL_PLACE>."
-  },
-  "81": {
-    "<%sL_KOUKA>に　強化した。": "Strengthened <%sL_KOUKA> effect."
-  },
-  "82": {
-    "clarity_nt_char_82": "clarity_nt_char_82"
-  },
-  "83": {
-    "<%sL_PC>が カジノレイド祭りで|ゴルスラ会長から 手に入れた。": ""
-  },
-  "84": {
-    "<%sL_PC>が　|<%sL_OTHER_PC>の　釣り堀で 釣り上げた。": "<%sL_PC> caught in|<%sL_OTHER_PC>'s fish pond."
-  },
-  "85": {
-    "clarity_nt_char_85": "clarity_nt_char_85"
-  },
-  "86": {
-    "<%sL_PC>が バトルトリニティで手に入れた。": ""
-  },
-  "87": {
-    "表情": "Face"
-  },
-  "88": {
-    "clarity_nt_char_88": "clarity_nt_char_88"
-  },
-  "89": {
-    "しかし　表情「<%sM_item2>」は|すでにおぼえていた。": "But the \"<%sM_item2>\" Face Expression is|already learned!"
-  },
-  "90": {
-    "<%sM_pc>は 表情「<%sM_item2>」を おぼえた！": "<%sM_pc> learned the \"<%sM_item2>\"|facial expression!"
-  },
-  "91": {
-    "clarity_nt_char_91": "clarity_nt_char_91"
-  },
-  "92": {
-    "<%sM_pc>は|表情「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|<%sM_item>は|光に包まれ　消え去った！|<br>|『キャラクターの設定』の|『顔アイコン表情設定』から|おぼえた表情を　設定してみよう！": "<%sM_pc> learned the \"<%sM_item2>\"|facial expression!<se_nots System 7>|<br>|<%sM_item> disappeared in|a flash of light!|<br>|You can change your facial expression using|the \"Facial Expression\" command in the|\"Character\" settings!"
-  },
-  "93": {
-    "clarity_nt_char_93": "clarity_nt_char_93"
-  },
-  "94": {
-    "<%sL_PC>が 輝晶術士で|<%sL_KOUKA>の効果を付けた。": ""
-  },
-  "95": {
-    "<speed=0><%sM_pc>は|<%sM_item>を　ながめた。<br>|<%sM_item>は|効果が　切れてしまっているようだ……。": ""
-  },
-  "96": {
-    "clarity_nt_char_96": "clarity_nt_char_96"
-  },
-  "97": {
-    "<speed=0><%sM_pc>は|<%sM_item>を　ながめた。<br>|<%sM_item>は|使えなくなってしまったようだ……。": ""
-  },
-  "98": {
-    "clarity_nt_char_98": "clarity_nt_char_98"
-  },
-  "99": {
-    "<%sL_PC>が ベルト倉庫から|取り出した。": "<%sL_PC> took it out of the belt warehouse."
-  },
-  "100": {
-    "clarity_nt_char_100": "clarity_nt_char_100"
-  },
-  "101": {
-    "<%sL_PC>が ふくびきの景品で|手に入れた。": ""
-  },
-  "102": {
-    "<speed=0><pc>は|<%sM_item>を　開封して|トランプケースに入れた。<se_nots System 7>": ""
-  },
-  "103": {
-    "clarity_nt_char_103": "clarity_nt_char_103"
-  },
-  "104": {
-    "しかし　<%sM_item>は|すでに　トランプケースに　入っていた。": ""
-  },
-  "105": {
-    "<speed=0><pc>は|<%sM_item>を　使った。": "<speed=0><pc> used the <%sM_item>."
-  },
-  "106": {
-    "第<%nL_TITLE_NUM>回　<%sL_TITLE>の|<%nL_RANKING_NUM>位を得た。": ""
-  },
-  "107": {
-    "第<%nL_TITLE_NUM>回　<%sL_TITLE>で|<%nL_RANKING_NUM>位の　釣果を得た。": ""
-  },
-  "108": {
-    "第<%nL_TITLE_NUM>回　<%sL_TITLE>で|最小<%nL_RANKING_NUM>位の　釣果を得た。": ""
-  },
-  "109": {
-    "バトルグランプリ": "Battle Grand Prix"
-  },
-  "110": {
-    "clarity_nt_char_110": "clarity_nt_char_110"
-  },
-  "111": {
-    "フィッシングコンテスト": ""
-  },
-  "112": {
-    "バトルトリニティ": "Battle Trinity"
-  },
-  "113": {
-    "clarity_nt_char_113": "clarity_nt_char_113"
-  },
-  "114": {
-    "大富豪決定戦": "Tycoon Playoffs"
-  },
-  "115": {
-    "clarity_nt_char_115": "clarity_nt_char_115"
-  },
-  "116": {
-    "<speed=0><pc>は|<%sM_item>を|写真機に取り付けた。": ""
-  },
-  "117": {
-    "しかし　<%sM_item>は|すでに　写真機に　取り付けられていた。": ""
-  },
-  "118": {
-    "トロフィー屋で　再入手した　第<%nL_TITLE_NUM>回|<%sL_TITLE>　最小<%nL_RANKING_NUM>位の　証。": ""
-  },
-  "119": {
-    "clarity_nt_char_119": "clarity_nt_char_119"
-  },
-  "120": {
-    "トロフィー屋で　再入手した　第<%nL_TITLE_NUM>回|<%sL_TITLE>　<%nL_RANKING_NUM>位の　証。": ""
-  },
-  "121": {
-    "clarity_nt_char_121": "clarity_nt_char_121"
-  },
-  "122": {
-    "<speed=0>『撮影設定』の　『フレーム設定』で|<%sM_frame>を　使えるようになった！<se_nots System 7>": "<speed=0>You can now use the \"<%sM_frame>\" Frame|with \"Frames\" in the photo settings!<se_nots System 7>"
-  },
-  "123": {
-    "clarity_nt_char_123": "clarity_nt_char_123"
-  },
-  "124": {
-    "<speed=0>|<pc>は|<%sM_item>を|スタンプリストに入れた。": "<speed=0>|<pc> put <%sM_item> into their stamp list."
-  },
-  "125": {
-    "clarity_nt_char_125": "clarity_nt_char_125"
-  },
-  "126": {
-    "しかし　<%sM_item>は|すでに　スタンプリストに　入っていた。": "However, <%sM_item> was already in their stamp|list."
-  },
-  "127": {
-    "<speed=0>|<%sM_pack>　<%sM_packid>のスタンプを|使えるようになった！ <se_nots System 7>": ""
-  },
-  "128": {
-    "<speed=0>|<%sM_stamp>は　すでに使えるようだ。": ""
-  },
-  "129": {
-    "<speed=0>|<%sM_stamp>が　使えるようになった！": ""
-  },
-  "130": {
-    "第<%nL_TITLE_NUM>回　<%sL_TITLE>で|<%nL_RANKING_NUM>位の　成績を修めた。": ""
-  },
-  "131": {
-    "clarity_nt_char_131": "clarity_nt_char_131"
-  },
-  "132": {
-    "トロフィー屋で　再入手した　第<%nL_TITLE_NUM>回|<%sL_TITLE>で　<%nL_RANKING_NUM>位となった。": ""
-  },
-  "133": {
-    "clarity_nt_char_133": "clarity_nt_char_133"
-  },
-  "134": {
-    "第<%nL_TITLE_NUM>回　<%sL_TITLE>で|<%nL_RANKING_NUM>位の座を　獲得した。": ""
-  },
-  "135": {
-    "clarity_nt_char_135": "clarity_nt_char_135"
-  },
-  "136": {
-    "カジノ祭りのポーカー": "Casino Fest Poker"
-  },
-  "137": {
-    "clarity_nt_char_137": "clarity_nt_char_137"
-  },
-  "138": {
-    "カジノ祭りのスロット": "Casino Fest Slots"
-  },
-  "139": {
-    "clarity_nt_char_139": "clarity_nt_char_139"
-  },
-  "140": {
-    "カジノ祭りのルーレット": "Casino Fest Roulette"
-  },
-  "141": {
-    "カジノ祭りのビンゴ": "Casino Fest Bingo"
-  },
-  "142": {
-    "スライムレース": "Slime Races"
-  },
-  "143": {
-    "<%sL_PC>が 継続特典係から|手に入れた。": ""
-  },
-  "144": {
-    "clarity_nt_char_144": "clarity_nt_char_144"
-  },
-  "145": {
-    "アクセサリー合成屋で 合成して 第二伝承に|<%sL_KOUKA>の効果を付けた。": ""
-  },
-  "146": {
-    "第<%nL_TITLE_NUM>回　<%sL_TITLE>のマイデッキで|<%nL_RANKING_NUM>位の座を　獲得した。": ""
-  },
-  "147": {
-    "clarity_nt_char_147": "clarity_nt_char_147"
-  },
-  "148": {
-    "トロフィー屋で再入手。　第<%nL_TITLE_NUM>回<%sL_TITLE>|タクティカルピックで　<%nL_RANKING_NUM>位となった。": ""
-  },
-  "149": {
-    "第<%nL_TITLE_NUM>回　<%sL_TITLE>のタクティカルピックで|<%nL_RANKING_NUM>位の座を　獲得した。": ""
-  },
-  "150": {
-    "clarity_nt_char_150": "clarity_nt_char_150"
-  },
-  "151": {
-    "トロフィー屋で再入手。　第<%nL_TITLE_NUM>回<%sL_TITLE>|マイデッキで　<%nL_RANKING_NUM>位となった。": ""
-  },
-  "152": {
-    "バトエン大会": ""
-  }
+    "1": {
+        "<%sL_PC>が <%sL_PLACE>の|<%sL_COLOR>宝箱から手に入れた。": "<%sL_PC> obtained from a <%sL_COLOR> Treasure|Chest in <%sL_PLACE>."
+    },
+    "2": {
+        "clarity_nt_char_2": "clarity_nt_char_2"
+    },
+    "3": {
+        "<%sL_PC>が <%sL_SYOKUNIN>で作った。": "<%sL_PC> made it with <%sL_SYOKUNIN>."
+    },
+    "4": {
+        "<%sL_PC>が <%sL_SYOKUNIN>で|<%sL_KOUKA>の効果を付けた。": "<%sL_PC> used <%sL_SYOKUNIN> to add|the effect of <%sL_KOUKA>."
+    },
+    "5": {
+        "<%sL_PC>が <%sL_PLACE>の|お店で買った。": "<%sL_PC> bought it at a shop in|<%sL_PLACE>."
+    },
+    "6": {
+        "clarity_nt_char_6": "clarity_nt_char_6"
+    },
+    "7": {
+        "<%sL_PC>が <%sL_PLACE>での|クエストで手に入れた。": "<%sL_PC> got it as a quest reward in|<%sL_PLACE>."
+    },
+    "8": {
+        "<%sL_PC>が <%sL_PLACE>の|<%sL_MONSTER>を倒して 手に入れた。": "<%sL_PC> got it in <%sL_PLACE>|by defeating a <%sL_MONSTER>."
+    },
+    "9": {
+        "<%sL_PC>が ちいさなメダルと交換して|手に入れた。": "<%sL_PC> got it from the Mini Medal|Exchange."
+    },
+    "10": {
+        "<speed=0><%sM_pc>は|<%sM_item>を使った。<br>|しかし　何も　おこらなかった。|職人の　素材として　使ってみよう！": "<speed=0><%sM_pc>|used the <%sM_item>.<br>|But nothing happened.|Try using it as a crafting material!"
+    },
+    "11": {
+        "clarity_nt_char_11": "clarity_nt_char_11"
+    },
+    "12": {
+        "<speed=0><%sM_pc>は|<%sM_item>を　道具として|使ってみた。<br>|しかし　今は　何もおこらなかった……。": ""
+    },
+    "13": {
+        "<speed=0><%sM_pc>は|<%sM_item>を使った。<br>|しかし　何も　おこらなかった！": "<speed=0><%sM_pc> used <%sM_item>.<br>|But nothing happened!"
+    },
+    "14": {
+        "clarity_nt_char_14": "clarity_nt_char_14"
+    },
+    "15": {
+        "<%sL_PC>が <%sL_PLACE>の|タンスから手に入れた。": "<%sL_PC> received from a|wardrobe in <%sL_PLACE>."
+    },
+    "16": {
+        "clarity_nt_char_16": "clarity_nt_char_16"
+    },
+    "17": {
+        "錬金で作れる": ""
+    },
+    "18": {
+        "clarity_nt_char_18": "clarity_nt_char_18"
+    },
+    "19": {
+        "<speed=0><%sM_pc>は|<%sM_item>使った。<br>|しかし　何も　おこらなかった。|釜錬金の　素材として　使ってみよう！": "<speed=0><%sM_pc> used the <%sM_item>.<br>|But nothing happened.|Try using it as a material in the alchemy pot!"
+    },
+    "20": {
+        "clarity_nt_char_20": "clarity_nt_char_20"
+    },
+    "21": {
+        "<%sL_PC>が 釜錬金で作った。": ""
+    },
+    "22": {
+        "clarity_nt_char_22": "clarity_nt_char_22"
+    },
+    "23": {
+        "<speed=0><%sM_pc>は|<%sM_item>を　読んだ。": "<speed=0><%sM_pc> read the|<%sM_item>."
+    },
+    "24": {
+        "しかし　しぐさ「<%sM_item2>」は|すでにおぼえていた。": "But the \"<%sM_item2>\" Emote is already|learned!"
+    },
+    "25": {
+        "clarity_nt_char_25": "clarity_nt_char_25"
+    },
+    "26": {
+        "<%sM_pc>は|しぐさ「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|<%sM_item>は|光に包まれ　消え去った！": "<%sM_pc> learned the \"<%sM_item2>\"|emote!<se_nots System 7>|<br>|<%sM_item> disappeared in|a flash of light!"
+    },
+    "27": {
+        "clarity_nt_char_27": "clarity_nt_char_27"
+    },
+    "28": {
+        "<%sM_pc>は しぐさ「<%sM_item2>」を おぼえた！": "<%sM_pc> learned the \"<%sM_item2>\"|emote!"
+    },
+    "29": {
+        "<speed=0><%sM_pc>は|<%sM_item>を使った。<br>|しかし　何も　おこらなかった。|家の改築で　使ってみよう！": "<speed=0><%sM_pc> used the <%sM_item>.<br>|But nothing happened.|Try using it in your house!"
+    },
+    "30": {
+        "clarity_nt_char_30": "clarity_nt_char_30"
+    },
+    "31": {
+        "アクセサリー合成屋で 合成して|<%sL_KOUKA>の効果を付けた。": "Effect of <%sL_KOUKA>|was added by synthesizing another accessory."
+    },
+    "32": {
+        "<speed=0><%sM_pc>は|<%sM_item>使った。<br>|しかし　何も　おこらなかった。|栽培に　使ってみよう！": "<speed=0><%sM_pc>|used the <%sM_item>.<br>|But nothing happened.|Try using it for cultivating!"
+    },
+    "33": {
+        "<speed=0><%sM_pc>は|<%sM_item>を使った。<br>|しかし　何も　おこらなかった。|染色の　素材として　使ってみよう！": "<speed=0><%sM_pc>|used the <%sM_item>. <br>|But nothing happened.|Try using it to dye something!"
+    },
+    "34": {
+        "clarity_nt_char_34": "clarity_nt_char_34"
+    },
+    "35": {
+        "<speed=0><%sM_pc>は|<%sM_item>を　ながめた。<br>|<%sM_item>は　穏やかに光っている。|魔法の迷宮の　種族神の像に　捧げてみよう。|あと　<%dM_time>時間　有効のようだ。": ""
+    },
+    "36": {
+        "<speed=0><%sM_pc>は|<%sM_item>を　ながめた。<br>|<%sM_item>は　穏やかに光っている。|魔法の迷宮の　種族神の像に　捧げてみよう。|あと　<%dM_time>分　有効のようだ。": ""
+    },
+    "37": {
+        "clarity_nt_char_37": "clarity_nt_char_37"
+    },
+    "38": {
+        "<speed=0><%sM_pc>は|<%sM_item>を　ながめた。<br>|<%sM_item>は有効期限が　過ぎたため|魔法の迷宮の　種族神の像に　捧げても|効果がなさそうだ。": ""
+    },
+    "39": {
+        "clarity_nt_char_39": "clarity_nt_char_39"
+    },
+    "40": {
+        "<%sL_PC>が カジノコインと交換して|手に入れた。": "<%sL_PC> exchanged for Casino Coins."
+    },
+    "41": {
+        "clarity_nt_char_41": "clarity_nt_char_41"
+    },
+    "42": {
+        "<speed=0><%sM_pc>は|<%sM_item>を　ながめた。<br>|<%sM_item>は　穏やかに光っている。|魔法の迷宮の　種族神の像に　捧げてみよう。|あと　１分未満　有効のようだ。": ""
+    },
+    "43": {
+        "<%sL_PC>が アイテム復元屋で|復元して 手に入れた。": "<%sL_PC> restored this item at the|Restore Shop."
+    },
+    "44": {
+        "clarity_nt_char_44": "clarity_nt_char_44"
+    },
+    "45": {
+        "<%sL_PC>が おさかなコインと交換して|手に入れた。": "<%sL_PC> exchanged for Fish Coins."
+    },
+    "46": {
+        "<%sL_PC>が <%sL_PLACE>で|釣り上げた。": "<%sL_PC> reeled in at <%sL_PLACE>."
+    },
+    "47": {
+        "<%sL_PC>が <%sL_ITEM>を使って|手に入れた。": "<%sL_PC> used a <%sL_ITEM> to|obtain this."
+    },
+    "48": {
+        "<%sM_pc>は <%sM_action>「<%sM_item2>」を おぼえた！": "<%sM_pc> learned the \"<%sM_item2>\"|<%sM_action>!"
+    },
+    "49": {
+        "clarity_nt_char_49": "clarity_nt_char_49"
+    },
+    "50": {
+        "しかし　<%sM_action>「<%sM_item2>」は|すでにおぼえていた。": "But the \"<%sM_item2>\" <%sM_action> is already|learned!"
+    },
+    "51": {
+        "<%sM_pc>は|<%sM_action>「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|<%sM_item>は|光に包まれ　消え去った！": "<%sM_pc> learned the \"<%sM_item2>\"|<%sM_action>!<se_nots System 7>|<br>|<%sM_item> disappeared in|a flash of light!"
+    },
+    "52": {
+        "立ちかた": "Pose"
+    },
+    "53": {
+        "clarity_nt_char_53": "clarity_nt_char_53"
+    },
+    "54": {
+        "しぐさ": "Emote"
+    },
+    "55": {
+        "<%sL_KOUKA> の|効果が付いた。": "Effect of <%sL_KOUKA>|was added."
+    },
+    "56": {
+        "人形ポーズ": "Doll Pose"
+    },
+    "57": {
+        "<%sL_PC>が まとめ屋から もらった。": "Received from a Summary Shop."
+    },
+    "58": {
+        "clarity_nt_char_58": "clarity_nt_char_58"
+    },
+    "59": {
+        "手に入れた事のある|『職業の証』に　変身できる|すぐれものの証": "Badge that can transform|into any \"Class Proof\"|you've obtained before."
+    },
+    "60": {
+        "手に入れた事のある|『かさ』に　変身できる|ふしぎな傘": "Mysterious umbrella that|transforms into any|\"Umbrella\" you had before."
+    },
+    "61": {
+        "<%sL_PC>が アイテム交換屋で|交換して 手に入れた。": "<%sL_PC> got it from an Item Exchange|Shop."
+    },
+    "62": {
+        "clarity_nt_char_62": "clarity_nt_char_62"
+    },
+    "63": {
+        "<%sL_PC>が <%sL_NPC>から|もらった。": "<%sL_PC> received from <%sL_NPC>."
+    },
+    "64": {
+        "<%sM_pc>は|<%sM_action>「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|きせかえドールのポーズを|「<%sM_item2>」に　変えられるようになった！|<br>|<%sM_item>は|光に包まれ　消え去った！": "<%sM_pc> learned the \"<%sM_item2>\"|<%sM_action>! <se_nots System 7>|<br>|You can now change your dress-up doll's|pose to \"<%sM_item2>\"!|<br>|<%sM_item> disappeared in|a flash of light!"
+    },
+    "65": {
+        "<speed=0>すでに　元気タイム中です！|<%sM_item>を使うと　時間と効果が|上書きされますが　本当に使いますか？<yesno 2><close>": "<speed=0>You're already in Bonus Time!|If you use <%sM_item>, your remaining time|will be overwritten. Is this okay?<yesno 2><close>"
+    },
+    "66": {
+        "<%sL_PC>が 景品交換所で|交換して 手に入れた。": ""
+    },
+    "67": {
+        "clarity_nt_char_67": "clarity_nt_char_67"
+    },
+    "68": {
+        "<%sL_PC>が プライベートコンシェルジュから|もらった。": ""
+    },
+    "69": {
+        "<%sL_PC>が すごろくの景品で|手に入れた。": "<%sL_PC> obtained from playing Sugoroku."
+    },
+    "70": {
+        "<%sL_PC>が コロシアムの景品で|手に入れた。": ""
+    },
+    "71": {
+        "clarity_nt_char_71": "clarity_nt_char_71"
+    },
+    "72": {
+        "アクセサリー合成屋で 合成して 第一伝承に|<%sL_KOUKA>の効果を付けた。": ""
+    },
+    "73": {
+        "札強化屋で|<%sL_KOUKA>の効果を付けた。": "Added the effect of <%sL_KOUKA>."
+    },
+    "74": {
+        "<%sL_PC>が すてきなめぐりあいをして|手に入れた。": ""
+    },
+    "75": {
+        "<%sL_PC>が付けた <%sL_SYOKUNIN>効果を|<%sL_KOUKA>に　強化した。": ""
+    },
+    "76": {
+        "<%sL_PC>が 花束交換屋で|交換して 手に入れた。": ""
+    },
+    "77": {
+        "clarity_nt_char_77": "clarity_nt_char_77"
+    },
+    "78": {
+        "<%sL_PC>が 防衛戦で 手に入れた。": "<%sL_PC> received from Defense Force."
+    },
+    "79": {
+        "<%sL_PC>が <%sL_PLACE>で釣り上げた|金の宝箱から　手に入れた。": "<%sL_PC> reeled in at <%sL_PLACE>|and obtained from a gold treasure chest."
+    },
+    "80": {
+        "<%sL_PC>が <%sL_PLACE>で|手に入れた。": "<%sL_PC> obtained from <%sL_PLACE>."
+    },
+    "81": {
+        "<%sL_KOUKA>に　強化した。": "Strengthened <%sL_KOUKA> effect."
+    },
+    "82": {
+        "clarity_nt_char_82": "clarity_nt_char_82"
+    },
+    "83": {
+        "<%sL_PC>が カジノレイド祭りで|ゴルスラ会長から 手に入れた。": ""
+    },
+    "84": {
+        "<%sL_PC>が　|<%sL_OTHER_PC>の　釣り堀で 釣り上げた。": "<%sL_PC> caught in|<%sL_OTHER_PC>'s fish pond."
+    },
+    "85": {
+        "clarity_nt_char_85": "clarity_nt_char_85"
+    },
+    "86": {
+        "<%sL_PC>が バトルトリニティで手に入れた。": ""
+    },
+    "87": {
+        "表情": "Face"
+    },
+    "88": {
+        "clarity_nt_char_88": "clarity_nt_char_88"
+    },
+    "89": {
+        "しかし　表情「<%sM_item2>」は|すでにおぼえていた。": "But the \"<%sM_item2>\" Face Expression is|already learned!"
+    },
+    "90": {
+        "<%sM_pc>は 表情「<%sM_item2>」を おぼえた！": "<%sM_pc> learned the \"<%sM_item2>\"|facial expression!"
+    },
+    "91": {
+        "clarity_nt_char_91": "clarity_nt_char_91"
+    },
+    "92": {
+        "<%sM_pc>は|表情「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|<%sM_item>は|光に包まれ　消え去った！|<br>|『キャラクターの設定』の|『顔アイコン表情設定』から|おぼえた表情を　設定してみよう！": "<%sM_pc> learned the \"<%sM_item2>\"|facial expression!<se_nots System 7>|<br>|<%sM_item> disappeared in|a flash of light!|<br>|You can change your facial expression using|the \"Facial Expression\" command in the|\"Character\" settings!"
+    },
+    "93": {
+        "clarity_nt_char_93": "clarity_nt_char_93"
+    },
+    "94": {
+        "<%sL_PC>が 輝晶術士で|<%sL_KOUKA>の効果を付けた。": ""
+    },
+    "95": {
+        "<speed=0><%sM_pc>は|<%sM_item>を　ながめた。<br>|<%sM_item>は|効果が　切れてしまっているようだ……。": ""
+    },
+    "96": {
+        "clarity_nt_char_96": "clarity_nt_char_96"
+    },
+    "97": {
+        "<speed=0><%sM_pc>は|<%sM_item>を　ながめた。<br>|<%sM_item>は|使えなくなってしまったようだ……。": ""
+    },
+    "98": {
+        "clarity_nt_char_98": "clarity_nt_char_98"
+    },
+    "99": {
+        "<%sL_PC>が ベルト倉庫から|取り出した。": "<%sL_PC> took it out of the belt warehouse."
+    },
+    "100": {
+        "clarity_nt_char_100": "clarity_nt_char_100"
+    },
+    "101": {
+        "<%sL_PC>が ふくびきの景品で|手に入れた。": ""
+    },
+    "102": {
+        "<speed=0><pc>は|<%sM_item>を　開封して|トランプケースに入れた。<se_nots System 7>": ""
+    },
+    "103": {
+        "clarity_nt_char_103": "clarity_nt_char_103"
+    },
+    "104": {
+        "しかし　<%sM_item>は|すでに　トランプケースに　入っていた。": ""
+    },
+    "105": {
+        "<speed=0><pc>は|<%sM_item>を　使った。": "<speed=0><pc> used the <%sM_item>."
+    },
+    "106": {
+        "第<%nL_TITLE_NUM>回　<%sL_TITLE>の|<%nL_RANKING_NUM>位を得た。": ""
+    },
+    "107": {
+        "第<%nL_TITLE_NUM>回　<%sL_TITLE>で|<%nL_RANKING_NUM>位の　釣果を得た。": ""
+    },
+    "108": {
+        "第<%nL_TITLE_NUM>回　<%sL_TITLE>で|最小<%nL_RANKING_NUM>位の　釣果を得た。": ""
+    },
+    "109": {
+        "バトルグランプリ": "Battle Grand Prix"
+    },
+    "110": {
+        "clarity_nt_char_110": "clarity_nt_char_110"
+    },
+    "111": {
+        "フィッシングコンテスト": ""
+    },
+    "112": {
+        "バトルトリニティ": "Battle Trinity"
+    },
+    "113": {
+        "clarity_nt_char_113": "clarity_nt_char_113"
+    },
+    "114": {
+        "大富豪決定戦": "Tycoon Playoffs"
+    },
+    "115": {
+        "clarity_nt_char_115": "clarity_nt_char_115"
+    },
+    "116": {
+        "<speed=0><pc>は|<%sM_item>を|写真機に取り付けた。": ""
+    },
+    "117": {
+        "しかし　<%sM_item>は|すでに　写真機に　取り付けられていた。": ""
+    },
+    "118": {
+        "トロフィー屋で　再入手した　第<%nL_TITLE_NUM>回|<%sL_TITLE>　最小<%nL_RANKING_NUM>位の　証。": ""
+    },
+    "119": {
+        "clarity_nt_char_119": "clarity_nt_char_119"
+    },
+    "120": {
+        "トロフィー屋で　再入手した　第<%nL_TITLE_NUM>回|<%sL_TITLE>　<%nL_RANKING_NUM>位の　証。": ""
+    },
+    "121": {
+        "clarity_nt_char_121": "clarity_nt_char_121"
+    },
+    "122": {
+        "<speed=0>『撮影設定』の　『フレーム設定』で|<%sM_frame>を　使えるようになった！<se_nots System 7>": "<speed=0>You can now use the \"<%sM_frame>\" Frame|with \"Frames\" in the photo settings!<se_nots System 7>"
+    },
+    "123": {
+        "clarity_nt_char_123": "clarity_nt_char_123"
+    },
+    "124": {
+        "<speed=0>|<pc>は|<%sM_item>を|スタンプリストに入れた。": "<speed=0>|<pc> put <%sM_item> into their stamp list."
+    },
+    "125": {
+        "clarity_nt_char_125": "clarity_nt_char_125"
+    },
+    "126": {
+        "しかし　<%sM_item>は|すでに　スタンプリストに　入っていた。": "However, <%sM_item> was already in their stamp|list."
+    },
+    "127": {
+        "<speed=0>|<%sM_pack>　<%sM_packid>のスタンプを|使えるようになった！ <se_nots System 7>": "<speed=0>|You can now use the|<%sM_pack> <%sM_packid> Stamp!<se_nots System 7>"
+    },
+    "128": {
+        "<speed=0>|<%sM_stamp>は　すでに使えるようだ。": ""
+    },
+    "129": {
+        "<speed=0>|<%sM_stamp>が　使えるようになった！": "<speed=0>|You can now use <%sM_stamp>!"
+    },
+    "130": {
+        "第<%nL_TITLE_NUM>回　<%sL_TITLE>で|<%nL_RANKING_NUM>位の　成績を修めた。": ""
+    },
+    "131": {
+        "clarity_nt_char_131": "clarity_nt_char_131"
+    },
+    "132": {
+        "トロフィー屋で　再入手した　第<%nL_TITLE_NUM>回|<%sL_TITLE>で　<%nL_RANKING_NUM>位となった。": ""
+    },
+    "133": {
+        "clarity_nt_char_133": "clarity_nt_char_133"
+    },
+    "134": {
+        "第<%nL_TITLE_NUM>回　<%sL_TITLE>で|<%nL_RANKING_NUM>位の座を　獲得した。": ""
+    },
+    "135": {
+        "clarity_nt_char_135": "clarity_nt_char_135"
+    },
+    "136": {
+        "カジノ祭りのポーカー": "Casino Fest Poker"
+    },
+    "137": {
+        "clarity_nt_char_137": "clarity_nt_char_137"
+    },
+    "138": {
+        "カジノ祭りのスロット": "Casino Fest Slots"
+    },
+    "139": {
+        "clarity_nt_char_139": "clarity_nt_char_139"
+    },
+    "140": {
+        "カジノ祭りのルーレット": "Casino Fest Roulette"
+    },
+    "141": {
+        "カジノ祭りのビンゴ": "Casino Fest Bingo"
+    },
+    "142": {
+        "スライムレース": "Slime Races"
+    },
+    "143": {
+        "<%sL_PC>が 継続特典係から|手に入れた。": ""
+    },
+    "144": {
+        "clarity_nt_char_144": "clarity_nt_char_144"
+    },
+    "145": {
+        "アクセサリー合成屋で 合成して 第二伝承に|<%sL_KOUKA>の効果を付けた。": ""
+    },
+    "146": {
+        "第<%nL_TITLE_NUM>回　<%sL_TITLE>のマイデッキで|<%nL_RANKING_NUM>位の座を　獲得した。": ""
+    },
+    "147": {
+        "clarity_nt_char_147": "clarity_nt_char_147"
+    },
+    "148": {
+        "トロフィー屋で再入手。　第<%nL_TITLE_NUM>回<%sL_TITLE>|タクティカルピックで　<%nL_RANKING_NUM>位となった。": ""
+    },
+    "149": {
+        "第<%nL_TITLE_NUM>回　<%sL_TITLE>のタクティカルピックで|<%nL_RANKING_NUM>位の座を　獲得した。": ""
+    },
+    "150": {
+        "clarity_nt_char_150": "clarity_nt_char_150"
+    },
+    "151": {
+        "トロフィー屋で再入手。　第<%nL_TITLE_NUM>回<%sL_TITLE>|マイデッキで　<%nL_RANKING_NUM>位となった。": ""
+    },
+    "152": {
+        "バトエン大会": ""
+    }
 }

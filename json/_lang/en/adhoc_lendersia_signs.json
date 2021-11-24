@@ -3,34 +3,34 @@
         "<pc>は　立て札を読んだ。|しかし　こちらは　裏側だった！": "You tried to read the sign.|But you're standing on the wrong side!"
     },
     "2": {
-        "<left>←エテーネの村": ""
+        "<left>←エテーネの村": "← Ethene Village"
     },
     "3": {
-        "<right>恵みの森→": ""
+        "<right>恵みの森→": "→ Forest of Blessing"
     },
     "4": {
         "<left>エテ……時……の術…こ……|<left>文字はかすれていて読めない": ""
     },
     "5": {
-        "<left>←清き水の洞くつ": ""
+        "<left>←清き水の洞くつ": "← Clear Water Cave"
     },
     "6": {
-        "<left>←サザミレ草原": ""
+        "<left>←サザミレ草原": "← Sazamire Prairie"
     },
     "7": {
-        "<right>ナルビアの町→": ""
+        "<right>ナルビアの町→": "→ Nalbia Town"
     },
     "8": {
-        "<center>↑ポルネア山": ""
+        "<center>↑ポルネア山": "↑ Polnea Mountain"
     },
     "9": {
-        "<center>↑金のほこら": ""
+        "<center>↑金のほこら": "↑ Gold Shrine"
     },
     "10": {
-        "<left>←洞くつの先　ポルネア山　山頂": ""
+        "<left>←洞くつの先　ポルネア山　山頂": "← Cave Front, Polnea Mountain Summit"
     },
     "11": {
-        "<left>←ポルネア山　ふもと": ""
+        "<left>←ポルネア山　ふもと": "← Foot of Polnea Mountain"
     },
     "12": {
         "<pc>は　掲示板を読んだ。|しかし　こちらは　裏側だった！": "You tried to read the bulletin board.|But you're standing on the wrong side!"
@@ -39,16 +39,16 @@
         "<left>駆け込み乗車は　たいへん危険です。|<left>くれぐれも　おやめください。": "<left>It's very dangerous to rush on the train|<left>before the door closes.|<left>Please don't do this."
     },
     "14": {
-        "<right>いしずえの森→|<center>エテーネの村↓": ""
+        "<right>いしずえの森→|<center>エテーネの村↓": "→ Cornerstone Forest|↓ Ethene Village"
     },
     "15": {
-        "<left>この先　未踏の地。|<left>エテーネの民は　決して入るべからず。": ""
+        "<left>この先　未踏の地。|<left>エテーネの民は　決して入るべからず。": "<left>Unknown Land ahead.|<left>The people of Ethene must never enter."
     },
     "16": {
-        "<center>↑エテーネの村": ""
+        "<center>↑エテーネの村": "↑ Ethene Village"
     },
     "17": {
-        "<left>村の外に行く時は　準備を万全にすること！": ""
+        "<left>村の外に行く時は　準備を万全にすること！": "If you're going outside the village, make sure|you're prepared!"
     },
     "18": {
         "<left>預かり所の　看板だ。": "<left>It's a depository sign."
@@ -72,10 +72,10 @@
         "<left>駅の　看板だ。": "<left>It's a station sign."
     },
     "25": {
-        "<left>ギルド総本山の　看板だ。": ""
+        "<left>ギルド総本山の　看板だ。": "<left>It's a guild headquarters sign."
     },
     "26": {
-        "<left>ハウジングエリアの　看板だ。": ""
+        "<left>ハウジングエリアの　看板だ。": "<left>It's a housing area sign."
     },
     "27": {
         "<left>家具屋の　看板だ。": "<left>It's a furniture shop sign."
@@ -84,7 +84,7 @@
         "<left>鍛冶設備の　看板だ。": "<left>It's a blacksmith sign."
     },
     "29": {
-        "<left>錬金術師の家の　看板だ。": ""
+        "<left>錬金術師の家の　看板だ。": "<left>It's an alchemist house sign."
     },
     "30": {
         "<left>建築屋の　看板だ。": "<left>It's a building shop sign."
@@ -102,7 +102,7 @@
         "<left>料理屋の　看板だ。": "<left>It's an eatery sign."
     },
     "35": {
-        "<left>裁縫設備の　看板だ。": ""
+        "<left>裁縫設備の　看板だ。": "<left>It's a sewing facility sign."
     },
     "36": {
         "<left>酒場の　看板だ。": "<left>It's a tavern sign."
@@ -156,10 +156,10 @@
         "<left>駅の　看板だ。": "<left>It's a station sign."
     },
     "53": {
-        "<left>ギルド総本山の　看板だ。": ""
+        "<left>ギルド総本山の　看板だ。": "<left>It's a guild headquarters sign."
     },
     "54": {
-        "<left>ハウジングエリアの　看板だ。": ""
+        "<left>ハウジングエリアの　看板だ。": "<left>It's a housing area sign."
     },
     "55": {
         "<left>家具屋の　看板だ。": "<left>It's a furniture shop sign."
@@ -168,7 +168,7 @@
         "<left>鍛冶設備の　看板だ。": "<left>It's a blacksmith sign."
     },
     "57": {
-        "<left>錬金術師の家の　看板だ。": ""
+        "<left>錬金術師の家の　看板だ。": "<left>It's an alchemist house sign."
     },
     "58": {
         "<left>建築屋の　看板だ。": "<left>It's a building shop sign."
@@ -225,13 +225,13 @@
         "<left>資格ある者にのみ　ほこらの扉は開かれる。|<left>ポルネア山の　ほこらは　試練への入り口。|<left>心して　挑むがよい。": ""
     },
     "76": {
-        "<left><left>村の外に行く時は　準備を万全にすること！": ""
+        "<left><left>村の外に行く時は　準備を万全にすること！": "If you're going outside the village, make sure|you're prepared!"
     },
     "77": {
-        "<left>この先　強い魔物が現れます！|<left>どうしても進む場合は　準備を万全に。": ""
+        "<left>この先　強い魔物が現れます！|<left>どうしても進む場合は　準備を万全に。": "<left>There are stronger monsters ahead!|<left>Make sure you are prepared."
     },
     "78": {
-        "<left>この先　未踏の地。|<left>エテーネの民は　決して入るべからず。": ""
+        "<left>この先　未踏の地。|<left>エテーネの民は　決して入るべからず。": "<left>Unknown Land ahead.|<left>The people of Ethene must never enter."
     },
     "79": {
         "こちらは　裏側だ。|<end>": "This is the back side.|<end>"
@@ -252,7 +252,7 @@
         "カメさまのご加護に感謝し　日々を送ろう。|巫女さまを　皆で支えよう。": ""
     },
     "85": {
-        "大金庫の扉は　かたく　閉ざされている。": ""
+        "大金庫の扉は　かたく　閉ざされている。": "The large vault door is locked tight!"
     },
     "86": {
         "いい素材を見つけたのに　かばんが　いっぱい！|そんな　切ない思いをする前に|ぜひ　預かり所を　ご利用ください。": ""
@@ -264,31 +264,31 @@
         "仲間を連れての戦闘は　「さくせん」次第。|もし　なかなか勝てない魔物が　いるなら|「さくせん」を変えて　挑んでみよう！": ""
     },
     "89": {
-        "大金庫の扉は　かたく　閉ざされている。": ""
+        "大金庫の扉は　かたく　閉ざされている。": "The large vault door is locked tight!"
     },
     "90": {
-        "<left>鍛冶屋の　看板だ。": ""
+        "<left>鍛冶屋の　看板だ。": "<left>It's a blacksmith sign."
     },
     "91": {
-        "<left>鍛冶屋の　看板だ。": ""
+        "<left>鍛冶屋の　看板だ。": "<left>It's a blacksmith sign."
     },
     "92": {
-        "<center>↑ココラタの浜辺": ""
+        "<center>↑ココラタの浜辺": "↑ Cocolata Beach"
     },
     "93": {
-        "<center>↑モンセロ温泉峡　封鎖中": ""
+        "<center>↑モンセロ温泉峡　封鎖中": "↑ Moncello Spring Gorge Blockade"
     },
     "94": {
-        "<right>ムルードの岩山→": ""
+        "<right>ムルードの岩山→": "→ Muldo Mountain"
     },
     "95": {
-        "<center>左へ向かい　坂を上りきって|<center>道なりにずっと行くと　ジャイラ密林": ""
+        "<center>左へ向かい　坂を上りきって|<center>道なりにずっと行くと　ジャイラ密林": "  Turn left, head up the hill and follow the|    road all the way to reach Jyra Jungle."
     },
     "96": {
-        "<center>爆走竜ドランゴ　安らかに眠る": ""
+        "<center>爆走竜ドランゴ　安らかに眠る": "Roaring dragon Lizzie is sleeping peacefully."
     },
     "97": {
-        "<center>第３回　モンスター格闘大会チャンピオン|<center>ピエールの墓": ""
+        "<center>第３回　モンスター格闘大会チャンピオン|<center>ピエールの墓": "    3rd Monster Arena Tournament champion|               Goodian's grave."
     },
     "98": {
         "<center>まもの使い　グスコフの相棒|<center>シーザー　ここに眠る": ""
@@ -297,7 +297,7 @@
         "<center>まもの使い　ドロテオの相棒|<center>サーラ　ここに眠る": ""
     },
     "100": {
-        "返事がない……。|ただの　壊れたカカシのようだ。": ""
+        "返事がない……。|ただの　壊れたカカシのようだ。": "There's no reply.|It's just a broken scarecrow."
     },
     "101": {
         "扉は　ボロボロに壊れており　開きそうにない。": ""
@@ -351,7 +351,7 @@
         "<center>『空の民　竜族』|<center>はるか　かなたより|<center>世界を見守る　聖なる者たち。|<br>|<center>彼らは　地上で　争いが起こると飛来し|<center>その大いなるチカラで|<center>またたく間に　平安をもたらしたという。": ""
     },
     "118": {
-        "返事がない……。|ただの　壊れたカカシのようだ。": ""
+        "返事がない……。|ただの　壊れたカカシのようだ。": "There's no reply.|It's just a broken scarecrow."
     },
     "119": {
         "扉は　ボロボロに壊れており　開きそうにない。": ""
@@ -405,313 +405,313 @@
         "<center>『空の民　竜族』|<center>はるか　かなたより|<center>世界を見守る　聖なる者たち。|<br>|<center>彼らは　地上で　争いが起こると飛来し|<center>その大いなるチカラで|<center>またたく間に　平安をもたらしたという。": ""
     },
     "136": {
-        "<pc>は|岩に　刻まれている文字を　読んだ。": ""
+        "<pc>は|岩に　刻まれている文字を　読んだ。": "You read the words carved into the rock."
     },
     "137": {
-        "<pc>は|岩に　刻まれている文字を　読んだ。": ""
+        "<pc>は|岩に　刻まれている文字を　読んだ。": "You read the words carved into the rock."
     },
     "138": {
-        "<left>←三門の関所|<right>ココラタの浜辺→": ""
+        "<left>←三門の関所|<right>ココラタの浜辺→": "← 3 Way Gate|→ Cocolata Beach"
     },
     "139": {
-        "<left>←三門の関所|<right>ココラタの浜辺→": ""
+        "<left>←三門の関所|<right>ココラタの浜辺→": "← 3 Way Gate|→ Cocolata Beach"
     },
     "140": {
-        "<center>↑三門の関所": ""
+        "<center>↑三門の関所": "↑ 3 Way Gate"
     },
     "141": {
-        "<center>↑三門の関所|<center>↓ココラタの浜辺": ""
+        "<center>↑三門の関所|<center>↓ココラタの浜辺": "↑ 3 Way Gate|↓ Cocolata Beach"
     },
     "142": {
-        "<center>↑海岸エリア|<left>←ココラタの浜辺|<right>三門の関所→": ""
+        "<center>↑海岸エリア|<left>←ココラタの浜辺|<right>三門の関所→": "↑ Coastal Area|← Cocolata Beach|→ 3 Way Gate"
     },
     "143": {
-        "<center>↑三門の関所": ""
+        "<center>↑三門の関所": "↑ 3 Way Gate"
     },
     "144": {
-        "<center>↑三門の関所": ""
+        "<center>↑三門の関所": "↑ 3 Way Gate"
     },
     "145": {
-        "<center>↑この先　遺跡地帯|<right>レビュール街道北→": ""
+        "<center>↑この先　遺跡地帯|<right>レビュール街道北→": "↑ Ruins area ahead|→ Reviewle Highway North"
     },
     "146": {
-        "<left>←グランゼドーラ領": ""
+        "<left>←グランゼドーラ領": "← Gran Zedora Territory"
     },
     "147": {
-        "<left>グランゼドーラ領へは　こちらから行けます。": ""
+        "<left>グランゼドーラ領へは　こちらから行けます。": "<left>You can reach Gran Zedora Territory from here."
     },
     "148": {
-        "<center>↑道なり　グランゼドーラ王国|<right>ロヴォス高地→": ""
+        "<center>↑道なり　グランゼドーラ王国|<right>ロヴォス高地→": "↑ Road to Gran Zedora Kingdom|→ Rovos Highlands"
     },
     "149": {
-        "<center>↑海岸エリア|<left>←ココラタの浜辺|<right>三門の関所→": ""
+        "<center>↑海岸エリア|<left>←ココラタの浜辺|<right>三門の関所→": "↑ Coastal Area|← Cocolata Beach|→ 3 Way Gate"
     },
     "150": {
-        "<center>↑モンセロ温泉峡": ""
+        "<center>↑モンセロ温泉峡": "↑ Moncello Spring Gorge"
     },
     "151": {
-        "<center>↑道なり　レビュール街道北": ""
+        "<center>↑道なり　レビュール街道北": "↑ Road to Reviewle Highway North"
     },
     "152": {
-        "<center>↑道なり　レビュール街道北": ""
+        "<center>↑道なり　レビュール街道北": "↑ Road to Reviewle Highway North"
     },
     "153": {
-        "<center>↑この先　断崖注意|<right>グランゼドーラ領→": ""
+        "<center>↑この先　断崖注意|<right>グランゼドーラ領→": "↑ Beware of cliffs ahead|→ Gran Zedora Territory"
     },
     "154": {
-        "<center>↑グランゼドーラ領|<left>←レビュール街道北": ""
+        "<center>↑グランゼドーラ領|<left>←レビュール街道北": "↑ Gran Zedora Territory|← Reviewle Highway North"
     },
     "155": {
-        "<center>↑レビュール街道北|<left>←ドラクロン山地": ""
+        "<center>↑レビュール街道北|<left>←ドラクロン山地": "↑ Reviewle Highway North|← Draklon Mountains"
     },
     "156": {
-        "<center>↑樹天の連橋　この上": ""
+        "<center>↑樹天の連橋　この上": "↑ Heavenly Bridge"
     },
     "157": {
-        "<center>↑ドラクロン山地|<left>封鎖中につき　近づくことを禁ずる。|<right>グランゼドーラ王国": ""
+        "<center>↑ドラクロン山地|<left>封鎖中につき　近づくことを禁ずる。|<right>グランゼドーラ王国": "↑ Draklon Mountains|This area is under lockdown. Do not approach.|－ Gran Zedora Kingdom"
     },
     "158": {
-        "<center>↑道なり　ゼドラ洞|<right>レビュール街道北→": ""
+        "<center>↑道なり　ゼドラ洞|<right>レビュール街道北→": "↑ Road to Zedora Cave|→ Reviewle Highway North"
     },
     "159": {
-        "<center>↑コニウェア平原": ""
+        "<center>↑コニウェア平原": "↑ Coniware Plain"
     },
     "160": {
-        "<center>↑コニウェア平原": ""
+        "<center>↑コニウェア平原": "↑ Coniware Plain"
     },
     "161": {
-        "<center>↑山奥の温泉": ""
+        "<center>↑山奥の温泉": "↑ Mountain Hot Spring"
     },
     "162": {
-        "<center>↑山奥の温泉": ""
+        "<center>↑山奥の温泉": "↑ Mountain Hot Spring"
     },
     "163": {
-        "<center>↑メルサンディ穀倉帯　三門の関所": ""
+        "<center>↑メルサンディ穀倉帯　三門の関所": "↑ Melsandy Granary Belt, 3 Way Gate"
     },
     "164": {
-        "<center>↑三門の関所|<right>デフェル荒野→": ""
+        "<center>↑三門の関所|<right>デフェル荒野→": "↑ 3 Way Gate|→ Defel Wilderness"
     },
     "165": {
-        "<center>↑メルサンディ穀倉帯　三門の関所": ""
+        "<center>↑メルサンディ穀倉帯　三門の関所": "↑ Melsandy Granary Belt, 3 Way Gate"
     },
     "166": {
-        "<left>←メルサンディ穀倉帯　デフェル荒野": ""
+        "<left>←メルサンディ穀倉帯　デフェル荒野": "← Melsandy Granary Belt, Defel Wilderness"
     },
     "167": {
-        "<right>メルサンディ穀倉帯→": ""
+        "<right>メルサンディ穀倉帯→": "→ Melsandy Granary Belt"
     },
     "168": {
-        "<left>←三門の関所|<right>この先　危険地帯！→|<center>↓湖上の休息所": ""
+        "<left>←三門の関所|<right>この先　危険地帯！→|<center>↓湖上の休息所": "← 3 Way Gate|→ Dangerous Area!|↓ Lake Retreat"
     },
     "169": {
-        "<center>↑この先　デフェル荒野": ""
+        "<center>↑この先　デフェル荒野": "↑ Defel Wilderness ahead"
     },
     "170": {
-        "<center>↑メルサンディ穀倉帯|<left>←デフェル荒野": ""
+        "<center>↑メルサンディ穀倉帯|<left>←デフェル荒野": "↑ Melsandy Granary Belt|← Defel Wilderness"
     },
     "171": {
-        "<center>↑デフェル荒野": ""
+        "<center>↑デフェル荒野": "↑ Defel Wilderness"
     },
     "172": {
-        "<left>←道なり　メルサンディ村": ""
+        "<left>←道なり　メルサンディ村": "← Road to Melsandy Village"
     },
     "173": {
-        "<left>←メルサンディ村|<right>ワルド水源→|<center>↓ローヌ樹林帯": ""
+        "<left>←メルサンディ村|<right>ワルド水源→|<center>↓ローヌ樹林帯": "← Melsandy Village|→ Wald Outfall|↓ Rhone Forest Belt"
     },
     "174": {
-        "<left>←こもれびの広場|<right>メルン水車郷→": ""
+        "<left>←こもれびの広場|<right>メルン水車郷→": "← Sunbeam Square|→ Melun Waterwheel"
     },
     "175": {
-        "<center>↑メルサンディ村|<left>←メルン水車郷": ""
+        "<center>↑メルサンディ村|<left>←メルン水車郷": "↑ Melsandy Village|← Melun Waterwheel"
     },
     "176": {
-        "<center>↑ローヌ樹林帯": ""
+        "<center>↑ローヌ樹林帯": "↑ Rhone Forest Belt"
     },
     "177": {
-        "<center>↑この先　ローヌ樹林帯": ""
+        "<center>↑この先　ローヌ樹林帯": "↑ Rhone Forest Belt ahead"
     },
     "178": {
         "<center>命が惜しくば　魔女の森に入ってはならない。|<center>どうしても　行くのなら……|<center>道を失いし時　ともしびをたどれ。": ""
     },
     "179": {
-        "<center>↑夜宴館": ""
+        "<center>↑夜宴館": "↑ Banquet"
     },
     "180": {
-        "<center>↑リンジャハル海岸": ""
+        "<center>↑リンジャハル海岸": "↑ Linjahar Coast"
     },
     "181": {
-        "<center>↑メルサンディ穀倉帯": ""
+        "<center>↑メルサンディ穀倉帯": "↑ Melsandy Granary Belt"
     },
     "182": {
-        "<center>黄葉商店へ　ようこそ！|<center>旅の備えに　ぜひ　お立ち寄りください。|<center>右手奥の小道からは　希望の丘へ登れます。": ""
+        "<center>黄葉商店へ　ようこそ！|<center>旅の備えに　ぜひ　お立ち寄りください。|<center>右手奥の小道からは　希望の丘へ登れます。": "          Welcome to the Leaf Shop!| Please stop by to prepare for your journey.| Take the far right path to climb Hope Hill."
     },
     "183": {
-        "<left>←セレドット山道": ""
+        "<left>←セレドット山道": "← Celedot Mountain Pass"
     },
     "184": {
-        "<center>↑道なり　黄葉商店": ""
+        "<center>↑道なり　黄葉商店": "↑ Road to Leaf Shop"
     },
     "185": {
-        "<center>↑ローヌ樹林帯|<center>↓セレドの町": ""
+        "<center>↑ローヌ樹林帯|<center>↓セレドの町": "↑ Rhone Forest Belt|↓ Town of Celed"
     },
     "186": {
-        "<center>↑ローヌ樹林帯|<right>リンジャハル海岸→|<center>↓セレドの町": ""
+        "<center>↑ローヌ樹林帯|<right>リンジャハル海岸→|<center>↓セレドの町": "↑ Rhone Forest Belt|→ Linjahar Coast|↓ Town of Celed"
     },
     "187": {
-        "<center>↑リンジャハル海岸|<right>セレドの町→|<left>←リャナ荒涼地帯": ""
+        "<center>↑リンジャハル海岸|<right>セレドの町→|<left>←リャナ荒涼地帯": "↑ Linjahar Coast|→ Town of Celed|← Lyana Desolate Area"
     },
     "188": {
-        "<right>ベリルのほら穴→": ""
+        "<right>ベリルのほら穴→": "→ Beryl Den"
     },
     "189": {
-        "<center>↑リンジャハル海岸|<left>←セレドの町|<center>↓リャナ荒涼地帯": ""
+        "<center>↑リンジャハル海岸|<left>←セレドの町|<center>↓リャナ荒涼地帯": "↑ Linjahar Coast|← Town of Celed|↓ Lyana Desolate Area"
     },
     "190": {
-        "<center>↑リンジャハル海岸|<right>リャナ荒涼地帯→|<center>↓セレドの町": ""
+        "<center>↑リンジャハル海岸|<right>リャナ荒涼地帯→|<center>↓セレドの町": "↑ Linjahar Coast|→ Lyana Desolate Area|↓ Town of Celed"
     },
     "191": {
-        "<left>←リャナ荒涼地帯|<right>セレドの町→": ""
+        "<left>←リャナ荒涼地帯|<right>セレドの町→": "← Lyana Desolate Area|→ Town of Celed"
     },
     "192": {
-        "<center>↑セレドの町|<center>↓ローヌ樹林帯": ""
+        "<center>↑セレドの町|<center>↓ローヌ樹林帯": "↑ Town of Celed|↓ Rhone Forest Belt"
     },
     "193": {
-        "<center>↑セレドの町|<left>←リンジャハル海岸|<center>↓ローヌ樹林帯": ""
+        "<center>↑セレドの町|<left>←リンジャハル海岸|<center>↓ローヌ樹林帯": "↑ Town of Celed|← Linjahar Coast|↓ Rhone Forest Belt"
     },
     "194": {
-        "<right>リャナ荒涼地帯→|<left>←セレドの町|<center>↓リンジャハル海岸": ""
+        "<right>リャナ荒涼地帯→|<left>←セレドの町|<center>↓リンジャハル海岸": "→ Lyana Desolate Area|← Town of Celed|↓ Linjahar Coast"
     },
     "195": {
-        "<center>↑セレドット山道|<right>魔女の森→|<center>↓遺跡　リンジャの塔": ""
+        "<center>↑セレドット山道|<right>魔女の森→|<center>↓遺跡　リンジャの塔": "↑ Celedot Mountain Pass|→ Witch Forest|↓ Ruins, Linja Tower"
     },
     "196": {
-        "<center>↑この先　セレドット山道": ""
+        "<center>↑この先　セレドット山道": "↑ Celedot Mountain Pass ahead"
     },
     "197": {
-        "<center>↑魔女の森": ""
+        "<center>↑魔女の森": "↑ Witch Forest"
     },
     "198": {
-        "<center>↑セレドット山道　段差に注意": ""
+        "<center>↑セレドット山道　段差に注意": "↑ Celedot Mountain Pass|Watch Your Step"
     },
     "199": {
-        "<left>この先　危険地帯！|<left>どうしても進む場合は　準備を万全に。": ""
+        "<left>この先　危険地帯！|<left>どうしても進む場合は　準備を万全に。": "<left>Dangerous area ahead!|<left>Make sure you are prepared."
     },
     "200": {
-        "<center>↑遺跡　リンジャの塔|<left>←魔女の森|<center>↓セレドット山道": ""
+        "<center>↑遺跡　リンジャの塔|<left>←魔女の森|<center>↓セレドット山道": "↑ Ruins, Linja Tower|← Witch Forest|↓ Celedot Mountain Pass"
     },
     "201": {
-        "<center>↑セレドット山道|<right>灯台→|<center>↓アラハギーロ地方": ""
+        "<center>↑セレドット山道|<right>灯台→|<center>↓アラハギーロ地方": "↑ Celedot Mountain Pass|→ Lighthouse|↓ Arahagiro Region"
     },
     "202": {
-        "<center>↑セレドット山道": ""
+        "<center>↑セレドット山道": "↑ Celedot Mountain Pass"
     },
     "203": {
-        "<center>↑滝を臨む集落|<left>←アラハギーロ地方": ""
+        "<center>↑滝を臨む集落|<left>←アラハギーロ地方": "↑ Waterfall Village|← Arahagiro Region"
     },
     "204": {
-        "<center>↑セレドット山道|<right>海辺の洞くつ→|<center>↓アラハギーロ地方": ""
+        "<center>↑セレドット山道|<right>海辺の洞くつ→|<center>↓アラハギーロ地方": "↑ Celedot Mountain Pass|→ Seaside Cave|↓ Arahagiro Region"
     },
     "205": {
-        "<center>↑セレドット山道|<center>↓アラハギーロ地方": ""
+        "<center>↑セレドット山道|<center>↓アラハギーロ地方": "↑ Celedot Mountain Pass|↓ Arahagiro Region"
     },
     "206": {
-        "<center>↑アラハギーロ地方|<left>←灯台|<center>↓セレドット山道": ""
+        "<center>↑アラハギーロ地方|<left>←灯台|<center>↓セレドット山道": "↑ Arahagiro Region|← Lighthouse|↓ Celedot Mountain Pass"
     },
     "207": {
-        "<center>↑滝を臨む集落": ""
+        "<center>↑滝を臨む集落": "↑ Waterfall Village"
     },
     "208": {
-        "<center>↑海岸地帯|<right>アラハギーロ地方→|<center>↓滝を臨む集落": ""
+        "<center>↑海岸地帯|<right>アラハギーロ地方→|<center>↓滝を臨む集落": "↑ Coastal Area|→ Arahagiro Region|↓ Waterfall Village"
     },
     "209": {
-        "<center>↑アラハギーロ地方|<left>←海辺の洞くつ|<center>↓セレドット山道": ""
+        "<center>↑アラハギーロ地方|<left>←海辺の洞くつ|<center>↓セレドット山道": "↑ Arahagiro Region|← Seaside Cave|↓ Celedot Mountain Pass"
     },
     "210": {
-        "<center>↑アラハギーロ地方|<center>↓セレドット山道": ""
+        "<center>↑アラハギーロ地方|<center>↓セレドット山道": "↑ Arahagiro Region|↓ Celedot Mountain Pass"
     },
     "211": {
-        "<center>↑アラハギーロ王国|<center>↓リャナ荒涼地帯": ""
+        "<center>↑アラハギーロ王国|<center>↓リャナ荒涼地帯": "↑ Kingdom of Arahagiro|↓ Lyana Desolate Area"
     },
     "212": {
-        "<center>↑アラハギーロ王国|<center>↓デフェル荒野": ""
+        "<center>↑アラハギーロ王国|<center>↓デフェル荒野": "↑ Kingdom of Arahagiro|↓ Defel Wilderness"
     },
     "213": {
-        "<left>←アラハギーロ王国|<right>デフェル荒野→|<center>↓リャナ荒涼地帯": ""
+        "<left>←アラハギーロ王国|<right>デフェル荒野→|<center>↓リャナ荒涼地帯": "← Kingdom of Arahagiro|→ Defel Wilderness|↓ Lyana Desolate Area"
     },
     "214": {
-        "<left>←デフェル荒野|<right>ムルードの岩山→|<center>↓アラハギーロ王国": ""
+        "<left>←デフェル荒野|<right>ムルードの岩山→|<center>↓アラハギーロ王国": "← Defel Wilderness|→ Muldo Mountain|↓ Kingdom of Arahagiro"
     },
     "215": {
-        "<center>↑アラハギーロ王国|<left>←ムルードの岩山|<right>デフェル荒野→": ""
+        "<center>↑アラハギーロ王国|<left>←ムルードの岩山|<right>デフェル荒野→": "↑ Kingdom of Arahagiro|← Muldo Mountain|→ Defel Wilderness"
     },
     "216": {
-        "<center>↑流砂の砂漠|<left>←デフェル荒野": ""
+        "<center>↑流砂の砂漠|<left>←デフェル荒野": "↑ Quicksand Desert|← Defel Wilderness"
     },
     "217": {
-        "<center>↑ムルードの岩山|<right>アラハギーロ王国→": ""
+        "<center>↑ムルードの岩山|<right>アラハギーロ王国→": "↑ Muldo Mountain|→ Kingdom of Arahagiro"
     },
     "218": {
-        "<center>↑リャナ荒涼地帯|<center>↓アラハギーロ王国": ""
+        "<center>↑リャナ荒涼地帯|<center>↓アラハギーロ王国": "↑ Lyana Desolate Area|↓ Kingdom of Arahagiro"
     },
     "219": {
-        "<center>↑デフェル荒野|<center>↓アラハギーロ王国": ""
+        "<center>↑デフェル荒野|<center>↓アラハギーロ王国": "↑ Defel Wilderness|↓ Kingdom of Arahagiro"
     },
     "220": {
-        "<center>↑アラハギーロ地方": ""
+        "<center>↑アラハギーロ地方": "↑ Arahagiro Region"
     },
     "221": {
-        "<center>↑アラハギーロ地方|<center>↓ワルド水源": ""
+        "<center>↑アラハギーロ地方|<center>↓ワルド水源": "↑ Arahagiro Region|↓ Wald Outfall"
     },
     "222": {
-        "<center>↑ピラミッド|<left>←ジャイラ密林|<left>←ワルド水源": ""
+        "<center>↑ピラミッド|<left>←ジャイラ密林|<left>←ワルド水源": "↑ Pyramid|← Jyra Jungle|← Wald Outfall"
     },
     "223": {
-        "<center>↑不思議の魔塔|<left>←ジャイラ密林|<left>←ワルド水源": ""
+        "<center>↑不思議の魔塔|<left>←ジャイラ密林|<left>←ワルド水源": "↑ Mysterious Tower|← Jyra Jungle|← Wald Outfall"
     },
     "224": {
-        "<left>←ワルド水源|<right>ジャイラ密林→|<center>↓アラハギーロ地方": ""
+        "<left>←ワルド水源|<right>ジャイラ密林→|<center>↓アラハギーロ地方": "← Wald Outfall|→ Jyra Jungle|↓ Arahagiro Region"
     },
     "225": {
-        "<center>↑ジャイラ密林": ""
+        "<center>↑ジャイラ密林": "↑ Jyra Jungle"
     },
     "226": {
-        "<center>この先　不思議の魔塔|<center>神聖な場所につき　近づくべからず|<center>アラハギーロ王より": ""
+        "<center>この先　不思議の魔塔|<center>神聖な場所につき　近づくべからず|<center>アラハギーロ王より": "            Mysterious Tower ahead|  This is a sacred place so do not approach.|             From Arahagiro King"
     },
     "227": {
-        "<left>←ジャイラ密林|<left>←ワルド水源|<center>↓アラハギーロ地方": ""
+        "<left>←ジャイラ密林|<left>←ワルド水源|<center>↓アラハギーロ地方": "← Jyra Jungle|← Wald Outfall|↓ Arahagiro Region"
     },
     "228": {
-        "<center>↑ワルド水源|<center>↓アラハギーロ地方": ""
+        "<center>↑ワルド水源|<center>↓アラハギーロ地方": "↑ Wald Outfall|↓ Arahagiro Region"
     },
     "229": {
-        "<center>↑デフェル荒野": ""
+        "<center>↑デフェル荒野": "↑ Defel Wilderness"
     },
     "230": {
-        "<center>↑アラハギーロ地方": ""
+        "<center>↑アラハギーロ地方": "↑ Arahagiro Region"
     },
     "231": {
-        "<center>流れ落ちる砂に向かいて|<center>先に進む意思を示したものに|<center>道を示さん": ""
+        "<center>流れ落ちる砂に向かいて|<center>先に進む意思を示したものに|<center>道を示さん": "         I will face the flowing sand|      and show the way to those who have|           shown the will to go on"
     },
     "232": {
-        "<left>←ガケ下　王家の墓|<right>海風の洞くつ→": ""
+        "<left>←ガケ下　王家の墓|<right>海風の洞くつ→": "← Royal Tomb below|→ Seabreeze Cave"
     },
     "233": {
-        "<center>↑コニウェア平原": ""
+        "<center>↑コニウェア平原": "↑ Coniware Plain"
     },
     "234": {
-        "<center>↑コニウェア平原": ""
+        "<center>↑コニウェア平原": "↑ Coniware Plain"
     },
     "235": {
-        "<right>コニウェア平原→": ""
+        "<right>コニウェア平原→": "→ Coniware Plain"
     },
     "236": {
-        "<center>↑山奥の温泉": ""
+        "<center>↑山奥の温泉": "↑ Mountain Hot Spring"
     },
     "237": {
-        "<center>↑山奥の温泉": ""
+        "<center>↑山奥の温泉": "↑ Mountain Hot Spring"
     },
     "238": {
-        "<center>↑山奥の温泉　管理人小屋": ""
+        "<center>↑山奥の温泉　管理人小屋": "↑ Mountain Hot Spring, Caretaker's Hut"
     },
     "239": {
         "<pc>は|石碑に　刻まれている文字を　読んだ。|<br>|白き道は　白き光にて　開かれる。|その光は　白き扉の中に眠るだろう。|<br>|灰色の道は　灰色の光にて　開かれる。|その光は　灰色の扉の中に眠るだろう。|<br>|黒き道は　黒き光にて　開かれる。|その光は　黒き扉の中に眠るだろう。|三道の開かれし時　創生の渦へ至らん。": ""
@@ -720,46 +720,46 @@
         "<pc>は|石碑に　刻まれている文字を　読んだ。|<br>|白き道は　白き光にて　開かれる。|その光は　白き扉の中に眠るだろう。|<br>|灰色の道は　灰色の光にて　開かれる。|その光は　灰色の扉の中に眠るだろう。|<br>|黒き道は　黒き光にて　開かれる。|その光は　黒き扉の中に眠るだろう。|三道の開かれし時　創生の渦へ至らん。": ""
     },
     "241": {
-        "<center>↑リンジャの塔|<center>↓セレドット山道": ""
+        "<center>↑リンジャの塔|<center>↓セレドット山道": "↑ Linja Tower|↓ Celedot Mountain Pass"
     },
     "242": {
-        "<center>↑セレドット山道|<center>↓リンジャの塔": ""
+        "<center>↑セレドット山道|<center>↓リンジャの塔": "↑ Celedot Mountain Pass|↓ Linja Tower"
     },
     "243": {
-        "<left>レンダーシアの　地図のようだ。": ""
+        "<left>レンダーシアの　地図のようだ。": "<left>It looks like a map of Lendersia."
     },
     "244": {
-        "<center>『勇者姫に捧ぐ歌』上演決定！|<center>乞うご期待！！": ""
+        "<center>『勇者姫に捧ぐ歌』上演決定！|<center>乞うご期待！！": "\"Song for a Brave Princess\" will be performed!|Don't miss it!!"
     },
     "245": {
-        "<left>『勇者姫に捧ぐ歌』の上演は|<left>都合により　中止とさせていただきます。|<left>次回上演内容は　未定です。": ""
+        "<left>『勇者姫に捧ぐ歌』の上演は|<left>都合により　中止とさせていただきます。|<left>次回上演内容は　未定です。": "<left>The performance of \"Song for a Brave Princess\"|<left>has been cancelled. The next performance is|<left>yet to be determined."
     },
     "246": {
-        "<left>『我が親愛なる勇者姫よ』は　閉演いたしました。|<left>ご好評いただき　ありがとうございました。": ""
+        "<left>『我が親愛なる勇者姫よ』は　閉演いたしました。|<left>ご好評いただき　ありがとうございました。": "<left>\"My dear heroic princess\" performance is now|<left>closed. Thank you for your support."
     },
     "247": {
-        "<left>出し物の案内が　貼られているが|<left>文字が乱暴に　ぬりつぶされている。": ""
+        "<left>出し物の案内が　貼られているが|<left>文字が乱暴に　ぬりつぶされている。": "<left>There's an announcement for the performance on|<left>the wall. But the words have been overwritten."
     },
     "248": {
         "<left>今月は　犯罪防止強化月間です。|<left>アンルシア姫さまに　負けず|<left>兵士のみなさんも　がんばりましょう！": ""
     },
     "249": {
-        "<left>現在　レンドア島行き客船|<left>グランドタイタス号は　運航しておりません。|<left>お客様には　ご迷惑をおかけいたします。": ""
+        "<left>現在　レンドア島行き客船|<left>グランドタイタス号は　運航しておりません。|<left>お客様には　ご迷惑をおかけいたします。": "The Grand Titus passenger ship to Lendor|Island is not in service. We apologize for any|inconvenience to our customers."
     },
     "250": {
         "<left>この先　港からのグランゼドーラ城への入城は|<left>現在　禁止とさせていただいております。|<left>あらかじめ　ご了承ください。": ""
     },
     "251": {
-        "<center>↑道なり　グランゼドーラ王国|<right>この先　見張り塔→": ""
+        "<center>↑道なり　グランゼドーラ王国|<right>この先　見張り塔→": "↑ Road to Gran Zedora Kingdom|→ Watchtower ahead"
     },
     "252": {
-        "<center>↑ロヴォス高地|<left>←この先　見張り塔": ""
+        "<center>↑ロヴォス高地|<left>←この先　見張り塔": "↑ Rovos Highlands|← Watchtower ahead"
     },
     "253": {
-        "<left>石碑には　何か　文字が刻まれている。|<left>しかし　表面がコケに覆われているため|<left>読むことはできなかった。": ""
+        "<left>石碑には　何か　文字が刻まれている。|<left>しかし　表面がコケに覆われているため|<left>読むことはできなかった。": "<left>The stone monument has words carved on it.|<left>But the surface was covered with moss so you|<left>couldn't read it."
     },
     "254": {
-        "<left>石碑には　何か　文字が刻まれている。|<left>しかし　表面がコケに覆われているため|<left>読むことはできなかった。": ""
+        "<left>石碑には　何か　文字が刻まれている。|<left>しかし　表面がコケに覆われているため|<left>読むことはできなかった。": "<left>The stone monument has words carved on it.|<left>But the surface was covered with moss so you|<left>couldn't read it."
     },
     "255": {
         "<left><pc>は　石碑の文字を読んだ。|<br>|<center>メルサンディの守護精　この石に宿らん。|<center>我らの祈りが　尽きぬ限り|<center>メルサンディ村は　彼とともにある。": ""
@@ -774,85 +774,85 @@
         "<left>夜宴館を描いた　絵画のようだ。|<left>絵の中に　入ってみたくなるような|<left>不思議な魅力を感じる。": ""
     },
     "259": {
-        "<left>ズタボロになった　カカシが|<left>さびしげに　たたずんでいる……。": ""
+        "<left>ズタボロになった　カカシが|<left>さびしげに　たたずんでいる……。": "<left>It's a tattered scarecrow standing there|<left>looking lonely......"
     },
     "260": {
-        "<left>キレイに手入れされた　カカシが|<left>畑の野菜を　見守っている。": ""
+        "<left>キレイに手入れされた　カカシが|<left>畑の野菜を　見守っている。": "<left>It's a well-kept scarecrow watching over the|<left>vegetables in the field."
     },
     "261": {
-        "<left>ズタボロになった　カカシが|<left>さびしげに　たたずんでいる……。": ""
+        "<left>ズタボロになった　カカシが|<left>さびしげに　たたずんでいる……。": "<left>It's a tattered scarecrow standing there|<left>looking lonely......"
     },
     "262": {
-        "<left>キレイに手入れされた　カカシが|<left>畑の野菜を　見守っている。": ""
+        "<left>キレイに手入れされた　カカシが|<left>畑の野菜を　見守っている。": "<left>It's a well-kept scarecrow watching over the|<left>vegetables in the field."
     },
     "263": {
-        "<center>↑ドラクロン山地": ""
+        "<center>↑ドラクロン山地": "↑ Draklon Mountains"
     },
     "264": {
-        "<center>ガケ下　危険地帯！|<center>みだりに　飛び降りないように！": ""
+        "<center>ガケ下　危険地帯！|<center>みだりに　飛び降りないように！": "            Dangerous area below!|        Don't jump without permission!"
     },
     "265": {
-        "<left>水車小屋の壁に　掃除道具が|<left>立てかけられている。": ""
+        "<left>水車小屋の壁に　掃除道具が|<left>立てかけられている。": "<left>Cleaning tools are propped up on the wall of|<left>the water mill."
     },
     "266": {
-        "<center>第２回　モンスター格闘大会チャンピオン|<center>メッキーの墓": ""
+        "<center>第２回　モンスター格闘大会チャンピオン|<center>メッキーの墓": "    2nd Monster Arena Tournament champion|                 Kim's grave."
     },
     "267": {
-        "<center>怪力巨人ギーガ　安らかに眠る": ""
+        "<center>怪力巨人ギーガ　安らかに眠る": "Mighty Giant Giga is sleeping peacefully."
     },
     "268": {
-        "墓石には　文字が刻まれているが|大部分が欠けており　読むことができない。": ""
+        "墓石には　文字が刻まれているが|大部分が欠けており　読むことができない。": "The tombstone has words engraved on it but|most of them were missing and you couldn't|read it."
     },
     "269": {
-        "墓石には　文字が刻まれているが|大部分が欠けており　読むことができない。": ""
+        "墓石には　文字が刻まれているが|大部分が欠けており　読むことができない。": "The tombstone has words engraved on it but|most of them were missing and you couldn't|read it."
     },
     "270": {
-        "墓石には　文字が刻まれているが|大部分が欠けており　読むことができない。": ""
+        "墓石には　文字が刻まれているが|大部分が欠けており　読むことができない。": "The tombstone has words engraved on it but|most of them were missing and you couldn't|read it."
     },
     "271": {
-        "<pc>は　墓石に刻まれた文字を　読んだ。": ""
+        "<pc>は　墓石に刻まれた文字を　読んだ。": "You read the words engraved on the tombstone."
     },
     "272": {
         "この大地と海が|精霊の恵みで　満たされんことを。|リンジャハルの民に　光あれ。": ""
     },
     "273": {
-        "闇は　常に我らの内にあることを|忘るるなかれ。": ""
+        "闇は　常に我らの内にあることを|忘るるなかれ。": "Do not forget that there is always darkness|within us."
     },
     "274": {
-        "ここは　リンジャの塔。|海洋都市リンジャハルの民の|信仰の象徴なり。": ""
+        "ここは　リンジャの塔。|海洋都市リンジャハルの民の|信仰の象徴なり。": "This is Linja Tower.|It is a symbol of the faith for the people of|the ocean city of Linjahar."
     },
     "275": {
-        "<center>勇気をもって歩みだし|<center>流れ落ちる砂の先に進むものに|<center>道を示さん": ""
+        "<center>勇気をもって歩みだし|<center>流れ落ちる砂の先に進むものに|<center>道を示さん": "            Walk with courage and|         show the way to those who go|           beyond the flowing sand."
     },
     "276": {
-        "<left>劇場内　改装中につき|<left>ご迷惑をおかけしております。": ""
+        "<left>劇場内　改装中につき|<left>ご迷惑をおかけしております。": "<left>The theater is being renovated.|<left>We apologize for any inconvenience."
     },
     "277": {
-        "<left>次回　ワールド演芸グランプリの開催は|<left>未定となっております。": ""
+        "<left>次回　ワールド演芸グランプリの開催は|<left>未定となっております。": "<left>The next World Performance Grand Prix has not|<left>been decided yet."
     },
     "278": {
-        "<left>現在　レンドア島行き客船|<left>グランドタイタス号は　定時運行中。|<left>快適な海の旅を　お楽しみください。": ""
+        "<left>現在　レンドア島行き客船|<left>グランドタイタス号は　定時運行中。|<left>快適な海の旅を　お楽しみください。": "The Grand Titus passenger ship to Lendor|Island is now in service. Please enjoy a|pleasant trip out to sea."
     },
     "279": {
-        "<left>この詰所に立つ　当番の兵士の予定が|<left>書かれているようだ。": ""
+        "<left>この詰所に立つ　当番の兵士の予定が|<left>書かれているようだ。": "It seems to contain the schedule of the|soldiers on duty at this station."
     },
     "280": {
-        "<left>現在　レンドア島行き客船|<left>グランドタイタス号は　定時運行中。|<left>快適な海の旅を　お楽しみください。": ""
+        "<left>現在　レンドア島行き客船|<left>グランドタイタス号は　定時運行中。|<left>快適な海の旅を　お楽しみください。": "The Grand Titus passenger ship to Lendor|Island is now in service. Please enjoy a|pleasant trip out to sea."
     },
     "281": {
         "<left>グランドタイタス号へ　ご乗船の方は|<left>この先の港にて　担当係員ウーゴに|<left>お申し付けください。": ""
     },
     "282": {
-        "<right>海風の洞くつ→": ""
+        "<right>海風の洞くつ→": "→ Seabreeze Cave"
     },
     "283": {
-        "<center>↑セレドット山道|<left>←ソーラリア峡谷": ""
+        "<center>↑セレドット山道|<left>←ソーラリア峡谷": "↑ Celedot Mountain Pass|← Solaria Canyon"
     },
     "284": {
-        "<center>↑滝を臨む集落|<right>ソーラリア峡谷→": ""
+        "<center>↑滝を臨む集落|<right>ソーラリア峡谷→": "↑ Waterfall Village|→ Solaria Canyon"
     },
     "285": {
-        "<pc>は　石碑に刻まれた文字を　読んだ。": ""
+        "<pc>は　石碑に刻まれた文字を　読んだ。": "You read the words carved on the stone|monument."
     },
     "286": {
         "<center>←モンセロ奥の湯→|<left>成分　リホイミウム・キングイオン・オラクルの塩|<left>効能　じわじわと回復 ": ""
@@ -861,43 +861,43 @@
         "<center>モンセロ奥の湯|<left>成分　リホイミウム・キングイオン・オラクルの塩|<left>効能　じわじわと回復": ""
     },
     "288": {
-        "<center>↑トンネルを上った先　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。|<right>温泉管理人　ルジナ": ""
+        "<center>↑トンネルを上った先　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。|<right>温泉管理人　ルジナ": "↑ If you're visiting the Mountain Hot Spring,|use the gondola at the end of the tunnel.|－ Hot Spring Manager Rugina"
     },
     "289": {
-        "<center>↑やぐらの上　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。|<right>温泉管理人　ルジナ": ""
+        "<center>↑やぐらの上　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。|<right>温泉管理人　ルジナ": "↑ If you're visiting the Mountain Hot Spring,|use the gondola at the end of the tunnel.|－ Hot Spring Manager Rugina"
     },
     "290": {
-        "<left>←左手のトンネルの先　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。|<right>温泉管理人　ルジナ": ""
+        "<left>←左手のトンネルの先　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。|<right>温泉管理人　ルジナ": "← If you're visiting the Mountain Hot Spring,|use the gondola at the end of the tunnel.|－ Hot Spring Manager Rugina"
     },
     "291": {
         "<pc>は　石碑の表面に触れてみた。|すると　石碑の文字が　強く輝き|<se_nots Joutyu_SE 42>光の渦が　現われた！ ": ""
     },
     "292": {
-        "<center>↑ロヴォス高地|<right>飛竜の峰→": ""
+        "<center>↑ロヴォス高地|<right>飛竜の峰→": "↑ Rovos Highlands|→ Dragon Peak"
     },
     "293": {
-        "<center>↑飛竜の峰|<left>←ロヴォス高地": ""
+        "<center>↑飛竜の峰|<left>←ロヴォス高地": "↑ Dragon Peak|← Rovos Highlands"
     },
     "294": {
-        "<left>←飛竜の峰|<center>緑の根っこさ渡って　先へ進んでくだせえ。": ""
+        "<left>←飛竜の峰|<center>緑の根っこさ渡って　先へ進んでくだせえ。": "← Dragon Peak|      Please cross over the green roots."
     },
     "295": {
-        "<center>↑飛竜の峰|<center>ツタをつたって　上に登ってくだせえ。": ""
+        "<center>↑飛竜の峰|<center>ツタをつたって　上に登ってくだせえ。": "↑ Dragon Peak|       Please climb up through the ivy."
     },
     "296": {
-        "<center>↑飛竜の峰|<center>危険！　飛竜の峰が近いですぞお。": ""
+        "<center>↑飛竜の峰|<center>危険！　飛竜の峰が近いですぞお。": "↑ Dragon Peak|       Danger! Dragon Peak is close by."
     },
     "297": {
-        "<center>↑この先　急斜面！|<center>落ちると戻れねえので　注意してくだせえよお。": ""
+        "<center>↑この先　急斜面！|<center>落ちると戻れねえので　注意してくだせえよお。": "↑ Steep slope ahead!|If you fall, you can't return, so be careful."
     },
     "298": {
-        "<left>←飛竜の峰|<center>↑竜守りの小屋": ""
+        "<left>←飛竜の峰|<center>↑竜守りの小屋": "← Dragon Peak|↑ Dragon Guard's Hut"
     },
     "299": {
-        "<center>↑飛竜の峰へのまわり道": ""
+        "<center>↑飛竜の峰へのまわり道": "↑ Detour to Dragon Peak"
     },
     "300": {
-        "<right>飛竜の峰→|<center>緑の根っこさ渡って　先へ進んでくだせえ。": ""
+        "<right>飛竜の峰→|<center>緑の根っこさ渡って　先へ進んでくだせえ。": "→ Dragon Peak|      Please cross over the green roots."
     },
     "301": {
         "郵便ポストがある。|ポストの中は　手紙で　いっぱいで|今にも　あふれそうだ。": ""
@@ -906,16 +906,16 @@
         "郵便ポストがある。|ポストの中は　手紙で　いっぱいで|今にも　あふれそうだ。": ""
     },
     "303": {
-        "<center>↑この先　飛び降りると　洞くつへ進む道|<right>ラゼアの風穴　岩扉→": ""
+        "<center>↑この先　飛び降りると　洞くつへ進む道|<right>ラゼアの風穴　岩扉→": "↑ Jump to reach the cave ahead|→ Lazea Wind Cave rock door"
     },
     "304": {
         "<center>この先　落石により通行不可|<center>↓真後ろの　ルートから|<center>樹天の連橋へ登り　橋を渡って下さい。": ""
     },
     "305": {
-        "返事がない……。|ただの　カカシのようだ。": ""
+        "返事がない……。|ただの　カカシのようだ。": "There's no reply.|It's just a scarecrow."
     },
     "306": {
-        "返事がない……。|ただの　カカシのようだ。": ""
+        "返事がない……。|ただの　カカシのようだ。": "There's no reply.|It's just a scarecrow."
     },
     "307": {
         "<left>来たれ！　学び舎　アスフェルド学園！|<left>個性あふれる　たくさんの学友たちと|<left>かけがえのない　学園生活を。": ""
@@ -1020,13 +1020,13 @@
         "空きビンのラベルには　クマとリスが|仲むつまじく　たわむれている絵が描かれている。": ""
     },
     "341": {
-        "<center>↑トンネルを上った先　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。": ""
+        "<center>↑トンネルを上った先　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。": "↑ If you're visiting the Mountain Hot Spring,|use the gondola at the end of the tunnel."
     },
     "342": {
-        "<center>↑やぐらの上　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。": ""
+        "<center>↑やぐらの上　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。": "↑ If you're visiting the Mountain Hot Spring,|use the gondola at the end of the tunnel."
     },
     "343": {
-        "<left>←左手のトンネルの先　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。": ""
+        "<left>←左手のトンネルの先　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。": "← If you're visiting the Mountain Hot Spring,|use the gondola at the end of the tunnel."
     },
     "344": {
         "じんわりと熱を持った　石がある。": ""
@@ -1035,24 +1035,24 @@
         "岩肌の一部が　赤くなっている。": ""
     },
     "346": {
-        "<right>飛竜の峰→|<center>緑の根っこを渡って　先へ進んでください。": ""
+        "<right>飛竜の峰→|<center>緑の根っこを渡って　先へ進んでください。": "→ Dragon Peak|      Please cross over the green roots."
     },
     "347": {
-        "<left>←飛竜の峰|<center>緑の根っこを渡って　先へ進んでください。": ""
+        "<left>←飛竜の峰|<center>緑の根っこを渡って　先へ進んでください。": "← Dragon Peak|      Please cross over the green roots."
     },
     "348": {
-        "<center>↑飛竜の峰|<center>ツタをつたって　上に登ってください。": ""
+        "<center>↑飛竜の峰|<center>ツタをつたって　上に登ってください。": "↑ Dragon Peak|       Please climb up through the ivy."
     },
     "349": {
-        "<center>↑飛竜の峰|<center>危険！　飛竜の峰　近し。": ""
+        "<center>↑飛竜の峰|<center>危険！　飛竜の峰　近し。": "↑ Dragon Peak|       Danger! Dragon Peak is close by."
     },
     "350": {
-        "<center>↑この先　急斜面！|<center>落ちると戻れないので　注意してください。": ""
+        "<center>↑この先　急斜面！|<center>落ちると戻れないので　注意してください。": "↑ Steep slope ahead!|If you fall, you can't return, so be careful."
     },
     "351": {
-        "クールなアトラクションに　使うための|大小様々な浮き輪が|いくつも　積み上げられている。": ""
+        "クールなアトラクションに　使うための|大小様々な浮き輪が|いくつも　積み上げられている。": "There are several stacks of various large and|small floaties to use for cool attractions."
     },
     "352": {
-        "クールなアトラクションに　使うための|大小様々な浮き輪が|いくつも　積み上げられている。": ""
+        "クールなアトラクションに　使うための|大小様々な浮き輪が|いくつも　積み上げられている。": "There are several stacks of various large and|small floaties to use for cool attractions."
     }
 }

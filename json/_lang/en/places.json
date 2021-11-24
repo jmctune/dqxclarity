@@ -627,7 +627,7 @@
         "clarity_nt_char_209": "clarity_nt_char_209"
     },
     "210": {
-        "王国の見張り塔前": "Kingdom Lookout Tower"
+        "王国の見張り塔前": "Kingdom Watchtower"
     },
     "211": {
         "clarity_nt_char_211": "clarity_nt_char_211"
@@ -897,7 +897,7 @@
         "紺碧の試練場前": "Azure Trials"
     },
     "300": {
-        "深翠の試練場前": ""
+        "深翠の試練場前": "Deep Green Trials"
     },
     "301": {
         "黄金の試練場前": ""
@@ -912,7 +912,7 @@
         "泉": ""
     },
     "305": {
-        "外郭": ""
+        "外郭": "Outer"
     },
     "306": {
         "clarity_nt_char_306": "clarity_nt_char_306"
@@ -942,13 +942,13 @@
         "水望橋": "Bridge"
     },
     "315": {
-        "中央区画": ""
+        "中央区画": "Center Area"
     },
     "316": {
         "clarity_nt_char_316": "clarity_nt_char_316"
     },
     "317": {
-        "神都の門": ""
+        "神都の門": "Diety Gate"
     },
     "318": {
         "clarity_nt_char_318": "clarity_nt_char_318"
@@ -966,13 +966,13 @@
         "clarity_nt_char_322": "clarity_nt_char_322"
     },
     "323": {
-        "アジト跡": ""
+        "アジト跡": "Hideout"
     },
     "324": {
         "clarity_nt_char_324": "clarity_nt_char_324"
     },
     "325": {
-        "聖天区画": ""
+        "聖天区画": "Holy Ground"
     },
     "326": {
         "clarity_nt_char_326": "clarity_nt_char_326"

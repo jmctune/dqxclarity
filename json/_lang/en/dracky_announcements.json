@@ -981,7 +981,7 @@
         "釣りチャレンジ スタート！": ""
     },
     "328": {
-        "郵便箱がいっぱいです 郵便を受けとってください！": ""
+        "郵便箱がいっぱいです 郵便を受けとってください！": "Your mailbox is full! Please check your mail!"
     },
     "329": {
         "clarity_nt_char_329": "clarity_nt_char_329"
@@ -1242,7 +1242,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eの操作を 待っています": ""
     },
     "415": {
-        "残り時間が 30秒を切りました！": ""
+        "残り時間が 30秒を切りました！": "You have 30 seconds left!"
     },
     "416": {
         "clarity_nt_char_416": "clarity_nt_char_416"
@@ -1251,7 +1251,7 @@
         "参加者が変更されたため 元の場所に戻ります": ""
     },
     "418": {
-        "錬金釜での錬金が 完了しました！": ""
+        "錬金釜での錬金が 完了しました！": "The alchemy pot's alchemy is finished!"
     },
     "419": {
         "clarity_nt_char_419": "clarity_nt_char_419"
@@ -1263,7 +1263,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eから バトルロードに さそわれました！": ""
     },
     "422": {
-        "制限時間内に 脱出してください！": ""
+        "制限時間内に 脱出してください！": "Escape within the time limit!"
     },
     "423": {
         "clarity_nt_char_423": "clarity_nt_char_423"
@@ -2880,7 +2880,7 @@
         "clarity_nt_char_960": "clarity_nt_char_960"
     },
     "961": {
-        "自陣に援軍玉が現れました！": ""
+        "自陣に援軍玉が現れました！": "Reinforcement orbs on your side!"
     },
     "962": {
         "<%sC_STR>は 対象のクエストを クリアしていません": ""
@@ -2955,13 +2955,13 @@
         "clarity_nt_char_985": "clarity_nt_char_985"
     },
     "986": {
-        "試合開始まで あと<%dC_N1>秒です": ""
+        "試合開始まで あと<%dC_N1>秒です": "<%dC_N1> sec. until match begins."
     },
     "987": {
         "clarity_nt_char_987": "clarity_nt_char_987"
     },
     "988": {
-        "まもなく 試合が始まります！": ""
+        "まもなく 試合が始まります！": "The match will begin shortly!"
     },
     "989": {
         "clarity_nt_char_989": "clarity_nt_char_989"

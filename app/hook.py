@@ -1,17 +1,14 @@
-'''
-
-'''
-from loguru import logger
-from json import dumps
 import struct
 import os
+from loguru import logger
 from pymem.process import inject_dll, module_from_name
 from signatures import (
     dialog_trigger,
     cutscene_trigger,
     cutscene_adhoc_files,
     pyrun_simplestring,
-    py_initialize_ex
+    py_initialize_ex,
+    py_finalizer
 )
 from memory import (
     dqx_mem,
@@ -37,22 +34,25 @@ def pack_to_int(address: int) -> bytes:
     return struct.pack('<i', address)
 
 def unpack_to_int(address: int):
+    '''
+    Unpacks the address from little endian and returns the appropriate bytes.
+    '''
     value = read_bytes(address, 4)
     unpacked_address = struct.unpack('<i', value)
-    
+
     return unpacked_address
 
 def calc_rel_addr(origin_address: int, destination_address: int) -> bytes:
     '''
     Calculates the difference between addresses to return the relative offset.
     '''
-    
+
     # jmp forward
     if origin_address < destination_address:
         return bytes(pack_to_int(abs(origin_address - destination_address + 5)))
-    
+
     # jmp backwards
-    elif origin_address > destination_address:
+    else:
         offset = -abs(origin_address - destination_address)
         unsigned_offset = offset + 2**32
         return unsigned_offset.to_bytes(4, 'little')
@@ -72,15 +72,15 @@ def get_hook_bytecode(hook_address: int):
 def write_pre_hook_registers() -> dict:
     '''
     Captures memory registers prior to your hook code being executed.
-    
+
     This writes the instructions to capture the registers. The actual
     values are being written to a different allocated address.
-    
+
     If you're going to detour, you will want to jump to this address first.
     '''
     mov_insts = allocate_memory(50)   # allocate memory for memory instructions
     reg_values = allocate_memory(50)  # allocate memory for register values
-    
+
     write_bytes(mov_insts, b'\xA3' + pack_to_int(reg_values) + b'\x90')       # mov [reg_values], eax then nop
     write_bytes(mov_insts + 6, b'\x89\x1D' + pack_to_int(reg_values + 4))     # mov [reg_values+6], ebx
     write_bytes(mov_insts + 12, b'\x89\x0D' + pack_to_int(reg_values + 8))    # mov [reg_values+12], ecx
@@ -89,7 +89,7 @@ def write_pre_hook_registers() -> dict:
     write_bytes(mov_insts + 30, b'\x89\x3D' + pack_to_int(reg_values + 20))   # mov [reg_values+30], edi
     write_bytes(mov_insts + 36, b'\x89\x2D' + pack_to_int(reg_values + 24))   # mov [reg_values+36], ebp
     write_bytes(mov_insts + 42, b'\x89\x25' + pack_to_int(reg_values + 28))   # mov [reg_values+42], esp
-    
+
     addresses_dict = dict()
     addresses_dict['begin_mov_insts'] = mov_insts         # address where register backups occur
     addresses_dict['begin_hook_insts'] = mov_insts + 48   # address where to start hook instructions
@@ -102,14 +102,14 @@ def write_pre_hook_registers() -> dict:
     addresses_dict['reg_edi'] = reg_values + 20           # address that's in edi pre-hook
     addresses_dict['reg_ebp'] = reg_values + 24           # address that's in ebp pre-hook
     addresses_dict['reg_esp'] = reg_values + 28           # address that's in esp pre-hook
-    
-    
+
+
     return addresses_dict
 
 def write_post_hook_registers(pre_register_value_addr: int, hook_instr_end: int) -> dict:
     '''
     Reverts the current registers back to their previous values before the hook.
-    
+
     Args:
         * pre_register_value_addr: Address where the pre-hook stored the original registers
         * hook_instr_end: End of custom hook code to write post hook mov's
@@ -122,10 +122,10 @@ def write_post_hook_registers(pre_register_value_addr: int, hook_instr_end: int)
     write_bytes(hook_instr_end + 30, b'\x8B\x3D' + pack_to_int(pre_register_value_addr + 20))   # mov edi, [pre_register_value_addr+30]
     write_bytes(hook_instr_end + 36, b'\x8B\x2D' + pack_to_int(pre_register_value_addr + 24))   # mov ebp, [pre_register_value_addr+36]
     write_bytes(hook_instr_end + 42, b'\x8B\x25' + pack_to_int(pre_register_value_addr + 28))   # mov esp, [pre_register_value_addr+42]
-    
+
     addresses_dict = dict()
     addresses_dict['end_mov_insts'] = hook_instr_end + 48  # address where register restore ends
-    
+
     return addresses_dict
 
 def convert_dict(hook_name: str, detour_address: int, original_bytes: bytes, hook_bytes: bytes) -> dict:
@@ -137,7 +137,7 @@ def convert_dict(hook_name: str, detour_address: int, original_bytes: bytes, hoo
     dictionary['detour_address'] = detour_address
     dictionary['original_bytes'] = original_bytes
     dictionary['hook_bytes'] = hook_bytes
-    
+
     return dictionary
 
 def inject_python_dll():
@@ -153,10 +153,15 @@ def inject_python_dll():
         inject_dll(PYM_PROCESS.process_handle, bytes(python_dll, 'ascii'))
         if module_from_name(PYM_PROCESS.process_handle, 'python39.dll'):
             logger.debug('Python dll injected!')
+            py_initialize_addr = pattern_scan(py_initialize_ex, module='python39.dll')
+            write_bytes(py_initialize_addr, b'\x6A\x00')  # push 0 to initsigs
+            return
         else:
             logger.error('Python dll failed to inject.')
+            return False
     except:
         logger.error('Python dll failed to inject.')
+        return False
 
 def inject_py_shellcode(shellcode: str):
     '''
@@ -195,15 +200,17 @@ def translate_detour(debug: bool):
 
     pyrun_simplestring_addr = pattern_scan(pyrun_simplestring, module='python39.dll')
     py_initialize_ex_addr = pattern_scan(py_initialize_ex, module='python39.dll')
-    shellcode_addr = allocate_memory(50)
+    py_finalizer_addr = pattern_scan(py_finalizer, module='python39.dll')
+    shellcode_addr = allocate_memory(len(shellcode))
 
     # write our shellcode
-    write_string(shellcode_addr, str(shellcode))
+    write_string(shellcode_addr, shellcode)
 
     bytecode = (
         b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'], py_initialize_ex_addr) + # call py_initialize_ex_addr
         b'\x68' + bytes(pack_to_int(shellcode_addr)) + # push shellcode_addr
-        b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'] + 10, pyrun_simplestring_addr)  # push py_run_simple_string_addr
+        b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'] + 10, pyrun_simplestring_addr)# + # push py_run_simple_string_addr
+        #b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'] + 15, py_finalizer_addr)
     )
 
     # # write our hook code
@@ -236,8 +243,6 @@ def translate_detour(debug: bool):
 
     logger.debug(f"Begin dialog hook:           {hex(pre_hook['begin_mov_insts'])}")
     logger.debug(f"Shellcode address:           {hex(shellcode_addr)}")
-    logger.debug(f"Py_InitializeEx address:     {hex(py_initialize_ex_addr)}")
-    logger.debug(f"PyRun_SimpleString address:  {hex(pyrun_simplestring_addr)}")
     logger.debug(f"Detour address:              {hex(detour_address)}")
 
 
@@ -312,8 +317,6 @@ def cutscene_detour(debug: bool):
 
     logger.debug(f"Begin cutscene hook:         {hex(pre_hook['begin_mov_insts'])}")
     logger.debug(f"Shellcode address:           {hex(shellcode_addr)}")
-    logger.debug(f"Py_InitializeEx address:     {hex(py_initialize_ex_addr)}")
-    logger.debug(f"PyRun_SimpleString address:  {hex(pyrun_simplestring_addr)}")
     logger.debug(f"Detour address:              {hex(detour_address)}")
 
 
@@ -335,10 +338,10 @@ def cutscene_file_dump_detour():
 
     pre_hook = write_pre_hook_registers()
 
-    esi = pre_hook['reg_ecx']
+    edi = pre_hook['reg_edi']
 
     shellcode = cutscene_file_dump_shellcode(
-        esi,
+        edi,
         api_service,
         api_key,
         api_pro,
@@ -387,8 +390,6 @@ def cutscene_file_dump_detour():
 
     logger.debug(f"Begin cutscene adhoc hook:   {hex(pre_hook['begin_mov_insts'])}")
     logger.debug(f"Shellcode address:           {hex(shellcode_addr)}")
-    logger.debug(f"Py_InitializeEx address:     {hex(py_initialize_ex_addr)}")
-    logger.debug(f"PyRun_SimpleString address:  {hex(pyrun_simplestring_addr)}")
     logger.debug(f"Detour address:              {hex(detour_address)}")
 
 

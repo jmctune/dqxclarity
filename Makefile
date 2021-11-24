@@ -7,6 +7,7 @@ build:
 	xcopy app .\build\dqxclarity /s /e /h /i
 	-rd /s/q .\build\dqxclarity\json
 	xcopy .\json\_lang\en .\build\dqxclarity\json\_lang\en /s /e /h /i
+	xcopy .\venv .\build\dqxclarity\venv /s /e /h /i
 	-rmdir /s /q .\build\dqxclarity\__pycache__
 	-rmdir /s /q .\build\dqxclarity\api_translate\__pycache__
 	-rmdir /s /q .\build\dqxclarity\hook_mgmt\__pycache__
@@ -24,6 +25,7 @@ release:
 	make clean
 	make build
 	-del /F ".\build\dqxclarity\user_settings.ini"
+	-rmdir /s /q .\build\dqxclarity\venv
 	"C:\Program Files\7-Zip\7z.exe" a -tzip dqxclarity.zip .\build\dqxclarity
 
 lint:

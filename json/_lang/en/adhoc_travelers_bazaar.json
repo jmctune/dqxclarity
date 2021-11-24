@@ -1,6 +1,6 @@
 {
     "1": {
-        "「他にも　用はあるかね？|<break>": "Anything else I can do?<break>"
+        "「他にも　用はあるかね？|<break>": "Anything else I can do?|<break>"
     },
     "2": {
         "「まだ何か　買ってくかね？|<bw_break>": "Do you wanna buy something else?<bw_break>"
@@ -1863,7 +1863,7 @@
         "「では　<%sL_URITAI_ITEM><%sL_PLUSNUM>を|　いくらで　出品しますか？|<break>": ""
     },
     "622": {
-        "「ごめんなさい。その金額では|　受け付けられないのです……。|　正しい出品金額を　入力してください。|<break>": ""
+        "「ごめんなさい。その金額では|　受け付けられないのです……。|　正しい出品金額を　入力してください。|<break>": "I'm sorry, but I can't accept that listing|amount... Please enter a correct listing|amount.|<break>"
     },
     "623": {
         "「<%'nL_URITAI_PRICE>ゴールドですねっ！|　売れましたら　<%'nL_TORIBUN>ゴールド|　郵便で　お送りしますが　よろしいですか？|<yesno><break>": ""
@@ -2094,16 +2094,16 @@
         "「キーワードを入力してくれよ。|　空白　や　英字　など　使用できない|　モノもあるから注意してくれ。|<break>": ""
     },
     "699": {
-        "「キーワードを入力してください。|　空白　や　英字　など　使用できない|　モノもあるから注意してください。|<break>": ""
+        "「キーワードを入力してください。|　空白　や　英字　など　使用できない|　モノもあるから注意してください。|<break>": "Please enter a keyword. Please note that|blank spaces and English characters cannot|be used.|<break>"
     },
     "700": {
-        "「キーワードを入力してください。|　空白　や　英字　など　使用できない|　モノもあるから注意してください。|<break>": ""
+        "「キーワードを入力してください。|　空白　や　英字　など　使用できない|　モノもあるから注意してください。|<break>": "Please enter a keyword. Please note that|blank spaces and English characters cannot|be used.|<break>"
     },
     "701": {
-        "「キーワードを入力してください。|　空白　や　英字　など　使用できない|　モノもあるから注意してください。|<break>": ""
+        "「キーワードを入力してください。|　空白　や　英字　など　使用できない|　モノもあるから注意してください。|<break>": "Please enter a keyword. Please note that|blank spaces and English characters cannot|be used.|<break>"
     },
     "702": {
-        "「キーワードを入力してください。|　空白　や　英字　など　使用できない|　モノもあるから注意してください。|<break>": ""
+        "「キーワードを入力してください。|　空白　や　英字　など　使用できない|　モノもあるから注意してください。|<break>": "Please enter a keyword. Please note that|blank spaces and English characters cannot|be used.|<break>"
     },
     "703": {
         "「検索結果は こちらです。|<break>": ""

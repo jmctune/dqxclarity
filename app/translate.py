@@ -53,8 +53,12 @@ def sanitized_dialog_translate(translation_service, is_pro, dialog_text, api_key
         for item in output:
             if item == '':
                 continue
-            if item == '<br>':
+            if item == '<br>':  # we'll manage our own line breaks later
                 final_string += ' '
+                continue
+            alignment = ['<center>', '<right>']  # center and right aligned text doesn't work well in this game with ascii
+            if item in alignment:
+                final_string += ''
                 continue
             if re.findall('<(.*?)>', item, re.DOTALL) or item == '\n':
                 final_string += item
@@ -66,6 +70,7 @@ def sanitized_dialog_translate(translation_service, is_pro, dialog_text, api_key
                     sanitized = re.sub('\u3000', ' ', sanitized)  # replace full width spaces with ascii spaces
                     sanitized = re.sub('「', '', sanitized)  # these create a single double quote, which look weird in english
                     sanitized = re.sub('…', '', sanitized)  # elipsis doesn't look natural
+                    sanitized = re.sub('', '', sanitized)  # romaji player names use this. remove as it messes up the translation
                     translation = translate(translation_service, is_pro, sanitized, api_key, region_code)
                     translation = translation.strip()
                     translation = re.sub('   ', ' ', translation)  # translation sometimes comes back with a strange number of spaces

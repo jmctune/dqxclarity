@@ -993,13 +993,13 @@
         "clarity_nt_char_331": "clarity_nt_char_331"
     },
     "332": {
-        "戦いで 魔物にねらわれやすくなる": ""
+        "戦いで 魔物にねらわれやすくなる": "Monsters will target you more often"
     },
     "333": {
         "clarity_nt_char_333": "clarity_nt_char_333"
     },
     "334": {
-        "戦いで 魔物にねらわれにくくなる": ""
+        "戦いで 魔物にねらわれにくくなる": "Monsters will target you less often"
     },
     "335": {
         "clarity_nt_char_335": "clarity_nt_char_335"
@@ -1191,7 +1191,7 @@
         "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でキラキラポーン": "Battle Start Snap Crackle Poof <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "398": {
-        "ふっとびガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "ふっとびガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Knockback Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "399": {
         "clarity_nt_char_399": "clarity_nt_char_399"
@@ -2304,7 +2304,7 @@
         "clarity_nt_char_768": "clarity_nt_char_768"
     },
     "769": {
-        "呪文の回復量 +<%sB_renkin1>(試合無効)": "Spell Recovery +%sB_renkin1> (No PvP)"
+        "呪文の回復量 +<%sB_renkin1>(試合無効)": "Spell Recovery +<%sB_renkin1> (No PvP)"
     },
     "770": {
         "炎の攻撃ダメージ +0.5%": "Fire Attack Damage +0.5%"

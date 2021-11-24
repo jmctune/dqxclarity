@@ -32,55 +32,67 @@ chdir(working_dir)
 
 try:
     import logging
-    logging.basicConfig(
-        filename='out.log',
-        encoding='utf-8',
-        level=logging.INFO,
-        format='%(asctime)s %(levelname)-8s %(message)s',
-        datefmt='%Y-%m-%d %H:%M:%S')
     from hook import unpack_to_int
     from clarity import write_adhoc_entry
     from memory import (
         read_bytes,
         write_bytes,
         read_string,
-        scan_to_foot,
         scan_backwards)
     from errors import AddressOutOfRange
     from translate import sanitized_dialog_translate, sqlite_read, sqlite_write_dynamic
     from signatures import index_pattern, foot_pattern
 
+    def setup_logger(name, log_file, level=logging.INFO):
+        formatter = logging.Formatter('%(asctime)s %(message)s')
+        handler = logging.FileHandler(log_file, encoding='utf-8')
+        handler.setFormatter(formatter)
+
+        logger = logging.getLogger(name)
+        if (logger.hasHandlers()):
+            logger.handlers.clear()
+
+        logger.setLevel(level)
+        logger.addHandler(handler)
+
+        return logger
+
+    logger = setup_logger('out', 'out.log')
     if debug:
-        logging.getLogger().setLevel(logging.DEBUG)
+        logger.setLevel(logging.DEBUG)
+    game_text_logger = setup_logger('gametext', 'game_text.log')
 
     # get address values where text can be identified
     ja_address = unpack_to_int({esi_address})[0]
-    logging.debug('cutscene address found :: checking if translation is needed')
+    logger.debug('cutscene address found :: checking if translation is needed')
     ja_text = read_string(ja_address)
-    logging.debug(ja_text)
+    logger.debug(ja_text)
     result = sqlite_read(ja_text, 'en')
+    
+    if api_logging:
+        game_text_logger.info(ja_text)
 
     if result is not None:
-        logging.debug('found database entry. no translation needed')
+        logger.debug('found database entry. no translation needed')
         write_bytes(ja_address, result.encode() + b'\x00')
     else:
-        logging.debug('translation needed. sending to {api_service}')
+        logger.debug('translation needed. sending to {api_service}')
         translated_text = sanitized_dialog_translate('{api_service}', '{api_pro}', ja_text, '{api_key}', '{api_region}')
-        logging.debug(translated_text)
+        logger.debug(translated_text)
         sqlite_write_dynamic(ja_text, '', translated_text, 'en')
-        logging.debug('database record inserted.')
+        logger.debug('database record inserted.')
         write_bytes(ja_address, translated_text.encode() + b'\x00')
 except AddressOutOfRange:
-    logging.debug('Primary UI file found. Doing nothing.')
+    pass
 except:
     with open('out.log', 'a+') as f:
         f.write(format_exc())
     """
 
-    return shellcode
+    return str(shellcode)
 
 def cutscene_file_dump_shellcode(
-    ecx_address: str,
+    edi_address: str,
     api_service: str,
     api_key: str,
     api_pro: str,
@@ -89,7 +101,7 @@ def cutscene_file_dump_shellcode(
     '''
     Returns shellcode for the cutscene file dump function hook.
 
-    ecx_address: Where adhoc text for cutscene can be found.
+    edi_address: Where adhoc text for cutscene can be found.
     '''
     local_paths = dumps(sys.path).replace('\\', '\\\\')
     working_dir = dumps(os.getcwd()).replace('\\', '\\\\')
@@ -107,34 +119,47 @@ chdir(working_dir)
 
 try:
     import logging
-    logging.basicConfig(
-        filename='out.log',
-        encoding='utf-8',
-        level=logging.INFO,
-        format='%(asctime)s %(levelname)-8s %(message)s',
-        datefmt='%Y-%m-%d %H:%M:%S')
     from hook import unpack_to_int
     from clarity import write_adhoc_entry
     from memory import (
         read_bytes,
         write_bytes,
         read_string,
-        scan_to_foot,
         scan_backwards)
     from errors import AddressOutOfRange
     from signatures import index_pattern, foot_pattern
 
-    # get address values where text can be identified
-    ja_address = unpack_to_int({ecx_address})[0]
+    def setup_logger(name, log_file, level=logging.INFO):
+        formatter = logging.Formatter('%(asctime)s %(message)s')
+        handler = logging.FileHandler(log_file, encoding='utf-8')
+        handler.setFormatter(formatter)
 
-    logging.debug('adhoc cutscene file found :: checking if we have this file')
+        logger = logging.getLogger(name)
+        if (logger.hasHandlers()):
+            logger.handlers.clear()
+
+        logger.setLevel(level)
+        logger.addHandler(handler)
+
+        return logger
+
+    logger = setup_logger('out', 'out.log')
+    if debug:
+        logger.setLevel(logging.DEBUG)
+
+    # get address values where text can be identified
+    ja_address = unpack_to_int({edi_address})[0]
+
+    logger.debug('adhoc cutscene file found :: checking if we have this file')
     adhoc_address = scan_backwards(ja_address, index_pattern)
     adhoc_bytes = read_bytes(adhoc_address, 64)
-    success = write_adhoc_entry(adhoc_address, str(adhoc_bytes.hex()))
-    if success:
-        logging.debug('Wrote adhoc file.')
-    else:
-        logging.debug('Found new cutscene adhoc file. Will write to new_adhoc_dumps if it does not already exist.')
+    adhoc_write = write_adhoc_entry(adhoc_address, str(adhoc_bytes.hex()))
+    if adhoc_write['success']:
+        logger.debug('Wrote adhoc file.')
+    elif adhoc_write['file'] is not None:
+        logger.debug('New cutscene adhoc file. Will write to new_adhoc_dumps if it does not already exist.')
+    elif adhoc_write['file'] is None:
+        logger.debug('This file already exists in new_adhoc_dumps. Needs merge into github.')
 except:
     with open('out.log', 'a+') as f:
         f.write(format_exc())

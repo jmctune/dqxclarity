@@ -1,5 +1,9 @@
+[MASTER]
+ignore=pymem
+
 [FORMAT]
 good-names=en,ja,e,bar
 
 [MESSAGES CONTROL]
 disable=E1102
+

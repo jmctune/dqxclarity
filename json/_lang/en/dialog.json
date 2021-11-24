@@ -2637,7 +2637,7 @@
         "clarity_nt_char_879": "clarity_nt_char_879"
     },
     "880": {
-        "<speed=0>|<%sM_image>を|目覚めし冒険者の広場　思い出アルバムに|保存しました。https://hiroba.dqx.jp": "<speed=0>|<%sM_image> was saved in the Memories|Album on the Adventurer's Awakening Square.|(https://hiroba.dqx.jp)"
+        "<speed=0>|<%sM_image>を|目覚めし冒険者の広場　思い出アルバムに|保存しました。https://hiroba.dqx.jp": "<speed=0>|<%sM_image> was saved in|the Photo Album on the Adventurer's Awakening|Square. (https://hiroba.dqx.jp)"
     },
     "881": {
         "<speed=0>|思い出アルバムへの保存に　失敗しました。|しばらく待ってから　もう一度　お試しください。": "<speed=0>|Failed to save to the Photo Album.|Please wait a while and try again."
@@ -6852,7 +6852,7 @@
         "clarity_nt_char_2284": "clarity_nt_char_2284"
     },
     "2285": {
-        "<speed=0>|運営からのお知らせが　ありません。": ""
+        "<speed=0>|運営からのお知らせが　ありません。": "<speed=0>|There are no notifications from management."
     },
     "2286": {
         "現代に戻る": "To the Present"
@@ -7899,7 +7899,7 @@
         "<speed=0>このマッチングに参加するには|パーティリーダーと　同じサーバーに|行く必要が　あります。": ""
     },
     "2634": {
-        "ジュエル鑑定した　アイテムは|たからばこから　入手できます。": ""
+        "ジュエル鑑定した　アイテムは|たからばこから　入手できます。": "Items appraised from the jewels|can be received from the chest."
     },
     "2635": {
         "clarity_nt_char_2635": "clarity_nt_char_2635"
@@ -8859,7 +8859,7 @@
         "clarity_nt_char_2953": "clarity_nt_char_2953"
     },
     "2954": {
-        "<speed=0>|<%sM_item>は　すでに配置されているか|庭具倉庫の中にあるので|これ以上　置けません。": ""
+        "<speed=0>|<%sM_item>は　すでに配置されているか|庭具倉庫の中にあるので|これ以上　置けません。": "<speed=0>|<%sM_item> cannot be placed due to|being already placed or in the garden|storage."
     },
     "2955": {
         "<speed=0>このさそいを受けるには|港町レンドア南　船着場の東側近くに|行く必要が　あります。": ""
@@ -9879,13 +9879,13 @@
         "フェザーチップ": "Feather Chip"
     },
     "3294": {
-        "位置を変更する|どうぐの２つ目を|選んでください": ""
+        "位置を変更する|どうぐの２つ目を|選んでください": "Select the item|you'd like to|swap it with."
     },
     "3295": {
         "clarity_nt_char_3295": "clarity_nt_char_3295"
     },
     "3296": {
-        "位置を変更する|どうぐの１つ目を|選んでください": ""
+        "位置を変更する|どうぐの１つ目を|選んでください": "Select the item|you'd like to|move."
     },
     "3297": {
         "clarity_nt_char_3297": "clarity_nt_char_3297"

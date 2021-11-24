@@ -2,12 +2,13 @@
 Python program used to translate various game UI elements for the game "Dragon Quest X".
 '''
 
-from multiprocessing import Process, freeze_support
+from multiprocessing import Process
 import sys
+import time
 import click
 from loguru import logger
 from pymem.exception import WinAPIError
-from clarity import (scan_for_player_names, translate, get_latest_from_weblate,
+from clarity import (translate, get_latest_from_weblate,
     dump_all_game_files, scan_for_player_names,
     migrate_translated_json_data, scan_for_npc_names,
     check_for_updates)
@@ -42,6 +43,7 @@ from hook_mgmt.hide_hooks import load_unload_hooks
 def blast_off(update_weblate=False, dump_game_data=False, migrate_game_data=False,
             disable_update_check=False, communication_window=False, player_names=False,
             npc_names=False, debug=False):
+    logger.warning('Getting started. DO NOT TOUCH THE GAME OR REMOVE YOUR MEMORY CARD.')
     if dump_game_data:
         dump_all_game_files()
         sys.exit('Finished!')
@@ -77,7 +79,9 @@ def blast_off(update_weblate=False, dump_game_data=False, migrate_game_data=Fals
             Process(name='Hook manager', target=load_unload_hooks, args=(hooks, debug)).start()
     except WinAPIError:
         sys.exit(click.secho('Can\'t find DQX process. Exiting.', fg='red'))
+    
+    time.sleep(5)  # Give the above processes time to kick off before letting the user know to continue
+    logger.info('Done! Keep this window open (minimize it) and have fun on your adventure!')
 
 if __name__ == '__main__':
-    freeze_support()    # Needed for multiprocessing support with PyInstaller
     blast_off()

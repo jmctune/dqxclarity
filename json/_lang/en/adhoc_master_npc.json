@@ -108,9 +108,9 @@
         "「今　所持している　未鑑定の物を|　まとめて鑑定するが　よいか？|<yesno><break>": "Would you like to me to appraise all of your|unappraised items at once?|<yesno><break>"
     },
     "37": {
-        "「これは…！　<%sM_JEWEL_NAME>！|　おぬしに　新たな能力が　開花されたな。|　宝珠は　宝珠ポイント<%nM_HOUJU_P>Ｐに　変換しておくぞ。": "This is...! <%sM_JEWEL_NAME>!!|You've developed a new ability. The jewels|have also be converted into <%dM_HOUJU_P> Jewel Points."
+        "「これは…！　<%sM_JEWEL_NAME>！|　おぬしに　新たな能力が　開花されたな。|　宝珠は　宝珠ポイント<%nM_HOUJU_P>Ｐに　変換しておくぞ。": "This is...! <%sM_JEWEL_NAME>!!|You've developed a new ability. The jewel|has also been converted into <%dM_HOUJU_P> Jewel Point."
     },
     "38": {
-        "「<%sM_JEWEL_NAME>　じゃな。|　おぬしは　すでに　開花している能力じゃ。|　宝珠は　宝珠ポイント<%nM_HOUJU_P>Ｐに　変換しておくぞ。": "<%sM_JEWEL_NAME>, I see.|You already know this ability. The jewels|have also be converted into <%dM_HOUJU_P> Jewel Points."
+        "「<%sM_JEWEL_NAME>　じゃな。|　おぬしは　すでに　開花している能力じゃ。|　宝珠は　宝珠ポイント<%nM_HOUJU_P>Ｐに　変換しておくぞ。": "<%sM_JEWEL_NAME>, I see.|You already know this ability. The jewel|has also been converted into <%dM_HOUJU_P> Jewel Point."
     }
 }

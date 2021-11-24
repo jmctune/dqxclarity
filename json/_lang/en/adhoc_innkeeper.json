@@ -75,7 +75,7 @@
         "「おはようございます。|　よく　お休みでしたね。|<br>|「おっと　そうだ。ウチに泊まる　お客さんから|　<pc>さんの話を　たまに聞きますよ。|　色々　活躍されてるそうですね。|<end>": ""
     },
     "26": {
-        "<pc>の名声レベルが　<%dL_MEISEI_LEVEL>に　あがった！|<me_57><end>": ""
+        "<pc>の名声レベルが　<%dL_MEISEI_LEVEL>に　あがった！|<me_57><end>": "<pc>'s Fame Level has risen to <%dL_MEISEI_LEVEL>!|<me_57><end>"
     },
     "27": {
         "職人としての評判が　上がって|<pc>は　<%dL_MEISEI1>の名声値を得た！ |<end>": ""
@@ -87,7 +87,7 @@
         "「おや　お目覚めかい。|　よく休めたようだね。|<br>|「そういや　ウチに泊まる　お客さんから|　<pc>さんの話を　たまに聞くよ。|　色々　活躍してるみたいだね。|<end>": ""
     },
     "30": {
-        "<pc>の名声レベルが　<%dL_MEISEI_LEVEL>に　あがった！|<me_57><end>": ""
+        "<pc>の名声レベルが　<%dL_MEISEI_LEVEL>に　あがった！|<me_57><end>": "<pc>'s Fame Level has risen to <%dL_MEISEI_LEVEL>!|<me_57><end>"
     },
     "31": {
         "職人としての評判が　上がって|<pc>は　<%dL_MEISEI1>の名声値を得た！ |<end>": ""
@@ -99,7 +99,7 @@
         "「よく　お休みでしたね。|<br>|「そういえば　ウチに泊まる　お客さんから|　<pc>さんの話を　たまに聞きますよ。|　色々　活躍されてるそうですね。|<end>": ""
     },
     "34": {
-        "<pc>の名声レベルが　<%dL_MEISEI_LEVEL>に　あがった！|<me_57><end>": ""
+        "<pc>の名声レベルが　<%dL_MEISEI_LEVEL>に　あがった！|<me_57><end>": "<pc>'s Fame Level has risen to <%dL_MEISEI_LEVEL>!|<me_57><end>"
     },
     "35": {
         "職人としての評判が　上がって|<pc>は　<%dL_MEISEI1>の名声値を得た！ |<end>": ""
@@ -111,7 +111,7 @@
         "「おはよ。|　ゆっくり休めた？|<br>|「あ　そうだ。ウチに泊まる　お客さんから|　<pc>さんの話　たまに聞くよ。|　あちこちで　活躍してるんだってね。|<end>": ""
     },
     "38": {
-        "<pc>の名声レベルが　<%dL_MEISEI_LEVEL>に　あがった！|<me_57><end>": ""
+        "<pc>の名声レベルが　<%dL_MEISEI_LEVEL>に　あがった！|<me_57><end>": "<pc>'s Fame Level has risen to <%dL_MEISEI_LEVEL>!|<me_57><end>"
     },
     "39": {
         "職人としての評判が　上がって|<pc>は　<%dL_MEISEI1>の名声値を得た！ |<end>": ""
@@ -216,7 +216,7 @@
         "「じゃあ　いってらっしゃい。|　がんばってね。<turn_end>": ""
     },
     "73": {
-        "<pc>の名声レベルが　<%dL_MEISEI_LEVEL>に　あがった！|<me_57><end>": ""
+        "<pc>の名声レベルが　<%dL_MEISEI_LEVEL>に　あがった！|<me_57><end>": "<pc>'s Fame Level has risen to <%dL_MEISEI_LEVEL>!|<me_57><end>"
     },
     "74": {
         "職人としての評判が　上がって|<pc>は　<%dL_MEISEI1>の名声値を得た！ |<end>": ""
@@ -351,7 +351,7 @@
         "「じゃあ　気をつけて|　がんばってこいよ。<turn_end>": ""
     },
     "118": {
-        "<pc>の名声レベルが　<%dL_MEISEI_LEVEL>に　あがった！|<me_57><end>": ""
+        "<pc>の名声レベルが　<%dL_MEISEI_LEVEL>に　あがった！|<me_57><end>": "<pc>'s Fame Level has risen to <%dL_MEISEI_LEVEL>!|<me_57><end>"
     },
     "119": {
         "<pc>の　名声レベルが|<%dL_MEISEI_LEVEL1>から　<%dL_MEISEI_LEVEL>にあがった！|<me_57><end>": ""
@@ -420,7 +420,7 @@
         "立て札への書き込みが　みんなの役に立って|<pc>は　<%dL_MEISEI2>の名声値を得た！|<end>": ""
     },
     "141": {
-        "<pc>の名声レベルが　<%dL_MEISEI_LEVEL>に　あがった！|<me_57><end>": ""
+        "<pc>の名声レベルが　<%dL_MEISEI_LEVEL>に　あがった！|<me_57><end>": "<pc>'s Fame Level has risen to <%dL_MEISEI_LEVEL>!|<me_57><end>"
     },
     "142": {
         "<pc>の　名声レベルが|<%dL_MEISEI_LEVEL1>から　<%dL_MEISEI_LEVEL>にあがった！|<me_57><end>": ""

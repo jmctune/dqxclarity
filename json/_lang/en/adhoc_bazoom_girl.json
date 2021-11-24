@@ -207,7 +207,7 @@
         "「その場所なら　回数無制限で飛べます。|　飛び先は　<%sL_TOBISAKI>|　でいいですか？<yesno><break>": "You can fly as many times as you like to that|place. So the place you'd like to go is|<%sL_TOBISAKI>?<yesno><break>"
     },
     "70": {
-        "「その場所なら　回数無制限で飛べます。|　飛び先は　<%sL_MAP_NAME>　の|　<%sL_TOBISAKI>　でいいですか？<yesno><break>": "You can fly as many times as you like to that|place. So the place you'd like to go is|<%sL_MAP_NAME>'s <%sL_TOBISAKI>?<yesno><break>"
+        "「その場所なら　回数無制限で飛べます。|　飛び先は　<%sL_MAP_NAME>　の|　<%sL_TOBISAKI>　でいいですか？<yesno><break>": "You can fly as many times as you like to that|place. So the place you'd like to go is|<%sL_TOBISAKI>?<yesno><break>"
     },
     "71": {
         "clarity_nt_char_71": "clarity_nt_char_71"

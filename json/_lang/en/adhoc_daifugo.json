@@ -72,7 +72,7 @@
         "clarity_nt_char_24": "clarity_nt_char_24"
     },
     "25": {
-        "数しば": ""
+        "数しば": "Often"
     },
     "26": {
         "しばり": "Restraint"
@@ -126,34 +126,34 @@
         "clarity_nt_char_42": "clarity_nt_char_42"
     },
     "43": {
-        "大富豪のプレイヤーが|大富豪になれないと|負けになる": ""
+        "大富豪のプレイヤーが|大富豪になれないと|負けになる": "If a Tycoon player|doesn't become a|Tycoon, they lose."
     },
     "44": {
         "clarity_nt_char_44": "clarity_nt_char_44"
     },
     "45": {
-        "反則の対象となるカードで|あがると　負けになる": ""
+        "反則の対象となるカードで|あがると　負けになる": "If you play a card that's|a foul, you lose."
     },
     "46": {
-        "同じスートなら　連続した|数字で　３枚以上同時に|カードを出せる": ""
+        "同じスートなら　連続した|数字で　３枚以上同時に|カードを出せる": "You can play 3+ cards|with consecutive numbers|in the same suit."
     },
     "47": {
         "clarity_nt_char_47": "clarity_nt_char_47"
     },
     "48": {
-        "場札に対して　連続した|数字を出すと　以降も|連続した数字でしばられる": ""
+        "場札に対して　連続した|数字を出すと　以降も|連続した数字でしばられる": "If you play down consecutive|numbers, you will be stuck|with consecutive numbers."
     },
     "49": {
-        "場札と同じスートで|カードを出すと　以降も|同じスートでしばられる": ""
+        "場札と同じスートで|カードを出すと　以降も|同じスートでしばられる": "If you play a card as the|same suit on the board, it|will be bound by that suit."
     },
     "50": {
-        "時々　捨て札の中から|カードが１枚　起き上がり|手札の１枚と　交換できる": ""
+        "時々　捨て札の中から|カードが１枚　起き上がり|手札の１枚と　交換できる": "Sometimes trade a card|in your hand with a|discarded card."
     },
     "51": {
         "clarity_nt_char_51": "clarity_nt_char_51"
     },
     "52": {
-        "ジョーカーを２枚に増やす": ""
+        "ジョーカーを２枚に増やす": "Increase Joker cards to 2."
     },
     "53": {
         "clarity_nt_char_53": "clarity_nt_char_53"

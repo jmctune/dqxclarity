@@ -387,7 +387,7 @@
         "みんなで楽しく|<%sB_ACTION>！": "Everybody have fun|with <%sB_ACTION>!"
     },
     "130": {
-        "逃げだそうとしている！": ""
+        "逃げだそうとしている！": "Trying to run away!"
     },
     "131": {
         "<%sB_ACTION>をした！": "Used <%sB_ACTION>!"
@@ -3837,7 +3837,7 @@
         "かいしんの|<%sB_ACTION>！": "Critical|<%sB_ACTION>!"
     },
     "1280": {
-        "逃げだせなかった・・・": ""
+        "逃げだせなかった・・・": "Couldn't run away..."
     },
     "1281": {
         "話が盛り上がった！": ""
@@ -4110,7 +4110,7 @@
         "clarity_nt_char_1370": "clarity_nt_char_1370"
     },
     "1371": {
-        "逃げだすには|まだ 早いろぉおおん！！": ""
+        "逃げだすには|まだ 早いろぉおおん！！": "It's too early to run|awaaaay!!!"
     },
     "1372": {
         "いくぞ！": ""
@@ -4179,7 +4179,7 @@
         "<%sB_ACTOR>は すべての まりょくを ときはなった！": "<%sB_ACTOR> unleashed all of their magic!"
     },
     "1394": {
-        "なんと <%sB_TARGET>は 生き返った！": "Suddenly, <%sB_TARGET> was revived!"
+        "なんと <%sB_TARGET>は 生き返った！": "<%sB_TARGET> returns to life!"
     },
     "1395": {
         "clarity_nt_char_1395": "clarity_nt_char_1395"
@@ -4365,7 +4365,7 @@
         "clarity_nt_char_1455": "clarity_nt_char_1455"
     },
     "1456": {
-        "なんと <%sB_EXTRA>は 生き返った！": "Suddenly, <%sB_EXTRA> was revived!"
+        "なんと <%sB_EXTRA>は 生き返った！": "<%sB_EXTRA> returns to life!"
     },
     "1457": {
         "魔創兵たちが あらわれた！": "Demon Warriors showed up!"
@@ -4755,7 +4755,7 @@
         "clarity_nt_char_1585": "clarity_nt_char_1585"
     },
     "1586": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 逃げだせなかった・・・": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 逃げだせなかった・・・": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e couldn't run away..."
     },
     "1587": {
         "clarity_nt_char_1587": "clarity_nt_char_1587"
@@ -6456,7 +6456,7 @@
         "clarity_nt_char_2152": "clarity_nt_char_2152"
     },
     "2153": {
-        "なんと <%sB_EXTRA>たちは 生き返った！": "Suddenly, all were revived!"
+        "なんと <%sB_EXTRA>たちは 生き返った！": "<%sB_EXTRA> and co. return to life!"
     },
     "2154": {
         "しかし 禍の陣は あらわれなかった。": ""
@@ -11532,7 +11532,7 @@
         "鬼覚醒": ""
     },
     "3845": {
-        "はやわざ": "Rapid Slash"
+        "はやわざ": "Quick Work"
     },
     "3846": {
         "clarity_nt_char_3846": "clarity_nt_char_3846"
@@ -20505,7 +20505,7 @@
         "敵１体を|たまに混乱させる|ムチさばき": "A strike that|sometimes causes|confusion."
     },
     "6836": {
-        "怪人系の敵に|威力を発揮する|はげしいムチ攻撃": "An strike that's|effective versus|Humanoid-types."
+        "怪人系の敵に|威力を発揮する|はげしいムチ攻撃": "A strike that's|effective versus|Humanoid-types."
     },
     "6837": {
         "まぶしい光で|目をくらませる|光属性の攻撃": "A light attack|that can dazzle|enemies."
@@ -24705,7 +24705,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eから もらえる 経験値とゴールドが ふえた！": ""
     },
     "8236": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eが 魅了された！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eが 魅了された！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was charmed!"
     },
     "8237": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ビリビリバリアを はった！": ""
@@ -27657,7 +27657,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの マホキテが きえた。": ""
     },
     "9220": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 魅了が とけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 魅了が とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's charm faded!"
     },
     "9221": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ビリビリバリアが とけた！": ""
@@ -30915,7 +30915,7 @@
         "呪闇の魔柱に|かえられてしまった！": ""
     },
     "10306": {
-        "闇指揮者デリゲンに|魅了された！": ""
+        "闇指揮者デリゲンに|魅了された！": "Dark Conductor Derigen|was charmed!"
     },
     "10307": {
         "clarity_nt_char_10307": "clarity_nt_char_10307"
@@ -31836,7 +31836,7 @@
         "clarity_nt_char_10612": "clarity_nt_char_10612"
     },
     "10613": {
-        "魅了がとけた": ""
+        "魅了がとけた": "Charm faded."
     },
     "10614": {
         "clarity_nt_char_10614": "clarity_nt_char_10614"
@@ -32361,7 +32361,7 @@
         "鉄壁の守りがとけた": ""
     },
     "10788": {
-        "ダメージアップの|効果がきえた": "Damage taken up|effect faded."
+        "ダメージアップの|効果がきえた": "Damage dealt up|effect faded."
     },
     "10789": {
         "ゆめみの箱の出現数が|もとにもどった": ""
@@ -33804,7 +33804,7 @@
         "clarity_nt_char_11268": "clarity_nt_char_11268"
     },
     "11269": {
-        "さらに魅了された！": ""
+        "さらに魅了された！": "Further Charmed!"
     },
     "11270": {
         "スーパーハイテンションに|なった！": "Gained Super High|Tension!"

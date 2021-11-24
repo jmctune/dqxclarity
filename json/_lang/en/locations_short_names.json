@@ -21,28 +21,28 @@
         "ザグビナ遺構 入口": "Zagbina Remains Entry"
     },
     "8": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>１階": "<%sW_MAP_NAME> 1F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>１階": "<%sW_MAP_NAME><%sW_DELIMITER>1F"
     },
     "9": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２階": "<%sW_MAP_NAME> 2F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>２階": "<%sW_MAP_NAME><%sW_DELIMITER>2F"
     },
     "10": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>３階": "<%sW_MAP_NAME> 3F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>３階": "<%sW_MAP_NAME><%sW_DELIMITER>3F"
     },
     "11": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>４階": "<%sW_MAP_NAME> 4F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>４階": "<%sW_MAP_NAME><%sW_DELIMITER>4F"
     },
     "12": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>５階": "<%sW_MAP_NAME> 5F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>５階": "<%sW_MAP_NAME><%sW_DELIMITER>5F"
     },
     "13": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>６階": "<%sW_MAP_NAME> 6F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>６階": "<%sW_MAP_NAME><%sW_DELIMITER>6F"
     },
     "14": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>７階": "<%sW_MAP_NAME> 7F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>７階": "<%sW_MAP_NAME><%sW_DELIMITER>7F"
     },
     "15": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下１階": "<%sW_MAP_NAME> B1F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下１階": "<%sW_MAP_NAME><%sW_DELIMITER>B1F"
     },
     "16": {
         "<%sW_MAP_NAME><%sW_DELIMITER>地下２階": "<%sW_MAP_NAME> B2F"
@@ -3750,7 +3750,7 @@
         "clarity_nt_char_1250": "clarity_nt_char_1250"
     },
     "1251": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>希望の丘": "<%sW_MAP_NAME><%sW_DELIMITER>Hope's Hill"
+        "<%sW_MAP_NAME><%sW_DELIMITER>希望の丘": "<%sW_MAP_NAME><%sW_DELIMITER>Hope Hill"
     },
     "1252": {
         "<%sW_MAP_NAME><%sW_DELIMITER>神話の遺跡 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Mystical Ruins Entry"
@@ -6477,7 +6477,7 @@
         "clarity_nt_char_2159": "clarity_nt_char_2159"
     },
     "2160": {
-        "竜鱗のまゆ 出口": "D. Scale Brow Exit"
+        "竜鱗のまゆ 出口": "Dragon's Cocoon Exit"
     },
     "2161": {
         "clarity_nt_char_2161": "clarity_nt_char_2161"
@@ -6783,7 +6783,7 @@
         "ローヌ樹林帯-黄葉商店 前": "Rhone Forest Belt - Leaf Shop"
     },
     "2262": {
-        "ローヌ樹林帯-希望の丘": "Rhone Forest Belt - Hope's Hill"
+        "ローヌ樹林帯-希望の丘": "Rhone Forest Belt - Hope Hill"
     },
     "2263": {
         "デフェル荒野-不思議の魔塔 入口": "Defel Wilderness - Mysterious Tower Entry"
@@ -10527,7 +10527,7 @@
         "clarity_nt_char_3509": "clarity_nt_char_3509"
     },
     "3510": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>オジャロス大公の領地": "<%sW_MAP_NAME><%sW_DELIMITER>Grand Duke Ojalos Territory"
+        "<%sW_MAP_NAME><%sW_DELIMITER>オジャロス大公の領地": "<%sW_MAP_NAME><%sW_DELIMITER>Grand Duke Ojalos' Domain"
     },
     "3511": {
         "<%sW_MAP_NAME><%sW_DELIMITER>ベラストル家-大広間": "<%sW_MAP_NAME><%sW_DELIMITER>Belastre House - Great Hall"
@@ -12009,13 +12009,13 @@
         "clarity_nt_char_4003": "clarity_nt_char_4003"
     },
     "4004": {
-        "聖天区画への出口": ""
+        "聖天区画への出口": "Exit to Holy Ground"
     },
     "4005": {
         "clarity_nt_char_4005": "clarity_nt_char_4005"
     },
     "4006": {
-        "聖天区画への扉": ""
+        "聖天区画への扉": "Door to Holy Ground"
     },
     "4007": {
         "<%sW_MAP_NAME><%sW_DELIMITER>？？？階": "<%sW_MAP_NAME><%sW_DELIMITER>???F"
@@ -12027,10 +12027,10 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>試みの門": "<%sW_MAP_NAME><%sW_DELIMITER>Trial Gate"
     },
     "4010": {
-        "浄罪の泉 出口": ""
+        "浄罪の泉 出口": "Purify Fntn. Exit"
     },
     "4011": {
-        "聖天舎 出口": ""
+        "聖天舎 出口": "Monastery Exit"
     },
     "4012": {
         "clarity_nt_char_4012": "clarity_nt_char_4012"
@@ -12039,7 +12039,7 @@
         "天の聖壇 出口": ""
     },
     "4014": {
-        "聖天舎 入口": ""
+        "聖天舎 入口": "Monastery Entry"
     },
     "4015": {
         "clarity_nt_char_4015": "clarity_nt_char_4015"
@@ -12048,10 +12048,10 @@
         "天の聖壇 入口": ""
     },
     "4017": {
-        "浄罪の泉 入口": ""
+        "浄罪の泉 入口": "Purify Fntn. Entry"
     },
     "4018": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>聖天舎内控": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>聖天舎内控": "<%sW_MAP_NAME><%sW_DELIMITER>Monastery Room"
     },
     "4019": {
         "clarity_nt_char_4019": "clarity_nt_char_4019"
@@ -12081,7 +12081,7 @@
         "clarity_nt_char_4027": "clarity_nt_char_4027"
     },
     "4028": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>中層・内部": "<%sW_MAP_NAME> Middle - Interior"
+        "<%sW_MAP_NAME><%sW_DELIMITER>中層・内部": "<%sW_MAP_NAME><%sW_DELIMITER>Middle - Inside"
     },
     "4029": {
         "clarity_nt_char_4029": "clarity_nt_char_4029"
@@ -12150,7 +12150,7 @@
         "亡国の礼拝堂 入口": "Exiled Chapel Entry"
     },
     "4051": {
-        "神都フォーリオン": "God Capital Fourion"
+        "神都フォーリオン": "Celestial City Fourion"
     },
     "4052": {
         "clarity_nt_char_4052": "clarity_nt_char_4052"
@@ -12216,7 +12216,7 @@
         "clarity_nt_char_4072": "clarity_nt_char_4072"
     },
     "4073": {
-        "深翠の試練場": ""
+        "深翠の試練場": "Deep Green Trials"
     },
     "4074": {
         "clarity_nt_char_4074": "clarity_nt_char_4074"
@@ -12354,7 +12354,7 @@
         "儀礼場への洞くつ 入口": "Cave to Ceremonial Hall Entry"
     },
     "4119": {
-        "生誕の花園 出口": ""
+        "生誕の花園 出口": "Garden of Birth Exit"
     },
     "4120": {
         "clarity_nt_char_4120": "clarity_nt_char_4120"
@@ -12366,7 +12366,7 @@
         "clarity_nt_char_4122": "clarity_nt_char_4122"
     },
     "4123": {
-        "生誕の花園 入口": ""
+        "生誕の花園 入口": "Garden of Birth Entry"
     },
     "4124": {
         "clarity_nt_char_4124": "clarity_nt_char_4124"
@@ -12378,13 +12378,13 @@
         "clarity_nt_char_4126": "clarity_nt_char_4126"
     },
     "4127": {
-        "祈願の神殿 出口": ""
+        "祈願の神殿 出口": "Prayer Temple Exit"
     },
     "4128": {
         "clarity_nt_char_4128": "clarity_nt_char_4128"
     },
     "4129": {
-        "祈願の神殿 入口": ""
+        "祈願の神殿 入口": "Prayer Temple Entry"
     },
     "4130": {
         "clarity_nt_char_4130": "clarity_nt_char_4130"

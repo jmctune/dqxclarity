@@ -9,8 +9,6 @@ from memory import (
     pattern_scan
 )
 from signatures import (
-    login_screen_active,
-    login_screen_offsets,
     loading_screen_active,
     loading_screen_offsets,
     cutscene_pattern
@@ -31,7 +29,6 @@ def load_unload_hooks(hook_list: list, debug: bool):
         logger.add(sys.stderr, level="INFO")
 
     base_address = get_base_address()
-    login_screen_addr = get_ptr_address(base_address + login_screen_active, login_screen_offsets)
     loading_screen_addr = get_ptr_address(base_address + loading_screen_active, loading_screen_offsets)
     cutscene_addr = pattern_scan(cutscene_pattern, module='DQXGame.exe') - 212
 
@@ -59,24 +56,23 @@ def load_unload_hooks(hook_list: list, debug: bool):
 
     while True:
         try:
-            login_screen_byte = read_bytes(login_screen_addr, 1)
-            loading_byte = read_bytes(loading_screen_addr, 1)
+            loading_byte = read_bytes(loading_screen_addr, 2)
             cutscene_bytes = read_bytes(cutscene_addr, 4)
         except:
             raise Exception('Unable to interact with DQX. Please relaunch both DQX and this program to try again.')
 
-        # on login screen. make sure hooks aren't enabled. when the game logs in, it immediately
-        # does an integrity check of what's in memory.
-        if login_screen_byte == b'\x00':
-            if state == 'hook':
-                for hook in hook_list:
-                    write_bytes(hook['detour_address'], hook['original_bytes'])
-                state = 'orig'
-                cutscene_state = 'orig'
-                logger.debug('All hooks unloaded for login screen.')
-        else:
+        try:
+            # not in a loading screen
+            good_loading_values = [
+                b'\xB8\x0B',  # 3000
+                b'\xD0\x07'   # 2000
+            ]
+            # in a loading screen
+            bad_loading_values = [
+                b'\xF4\x01'  # 500
+            ]
             # integrity checks are done on all loading screens, so make sure hooks are unloaded
-            if loading_byte == b'\x00':
+            if loading_byte not in good_loading_values:
                 if state == 'hook':
                     for hook in hook_list:
                         write_bytes(hook['detour_address'], hook['original_bytes'])
@@ -84,7 +80,7 @@ def load_unload_hooks(hook_list: list, debug: bool):
                     cutscene_state = 'orig'
                     logger.debug('Hooks unloaded for loading screen.')
             # put the hooks back as we aren't loading anymore
-            elif loading_byte == b'\x01' and state == 'orig':
+            elif loading_byte in good_loading_values and state == 'orig':
                 for hook in hook_list:
                     write_bytes(hook['detour_address'], hook['hook_bytes'])
                 state = 'hook'
@@ -93,8 +89,8 @@ def load_unload_hooks(hook_list: list, debug: bool):
                 logger.debug('Hooks loaded.')
 
             # cutscene management
-            if loading_byte == b'\x00' and cutscene_bytes != b'\x00\x00\x00\x00' and cutscene_state == 'orig':  # cutscene is active
-                logger.debug('Cutscene detected. Unloading hooks for loading screen.')
+            if loading_byte not in good_loading_values and cutscene_bytes != b'\x00\x00\x00\x00' and cutscene_state == 'orig':  # cutscene is active
+                logger.debug('Cutscene detected.')
                 for hook in hook_list:
                     write_bytes(hook['detour_address'], hook['original_bytes'])
                 state = 'orig'
@@ -108,12 +104,25 @@ def load_unload_hooks(hook_list: list, debug: bool):
                         cutscene_state = 'hook'
                         hook_cutscene(cutscene_state)
                         logger.debug('Cutscene hooks loaded.')
-                    elif cutscene_status != b'\x00\x00\x00\x00' and loading_byte == b'\x00':
+                    elif cutscene_status != b'\x00\x00\x00\x00' and loading_byte not in good_loading_values:
                         continue
                     else:
                         logger.debug('Cutscene skip was detected.')
+                        time.sleep(3)
                         break
-            elif loading_byte == b'\x01' and cutscene_bytes == b'\x00\x00\x00\x00' and cutscene_state == 'hook':  # cutscene is inactive
+                while True:
+                    loading_byte = read_bytes(loading_screen_addr, 2)
+                    cutscene_status = read_bytes(cutscene_addr, 4)
+                    if loading_byte in bad_loading_values or cutscene_status == b'\x00\x00\x00\x00':
+                        for hook in hook_list:
+                            write_bytes(hook['detour_address'], hook['original_bytes'])
+                        state = 'orig'
+                        cutscene_state = 'orig'
+                        logger.debug('Cutscene is finished. Unloaded hooks.')
+                        break
+                    else:
+                        time.sleep(0.01)
+            elif loading_byte in good_loading_values and cutscene_bytes == b'\x00\x00\x00\x00' and cutscene_state == 'hook':  # cutscene is inactive
                 state = 'hook'
                 cutscene_state = 'orig'
                 for hook in hook_list:
@@ -121,4 +130,8 @@ def load_unload_hooks(hook_list: list, debug: bool):
                 hook_cutscene(cutscene_state)  # don't leave cutscene loaded to not interfere with regular dialog
                 logger.debug('Hooks loaded.')
 
-        time.sleep(0.01)
+            time.sleep(0.01)
+        except:
+            for hook in hook_list:
+                write_bytes(hook['detour_address'], hook['original_bytes'])
+            sys.exit()

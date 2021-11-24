@@ -69,7 +69,7 @@
         "<select_se_off>|クラブホームに戻る|優勝トロフィーを見にいく|遊び方をおさらいする|説明を聞く|やめる|<select_end>|<break>": ""
     },
     "24": {
-        "「他に　用はあるかのう？|<break>": ""
+        "「他に　用はあるかのう？|<break>": "Anything else I can do?|<break>"
     },
     "25": {
         "clarity_nt_char_25": "clarity_nt_char_25"

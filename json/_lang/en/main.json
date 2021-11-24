@@ -5913,7 +5913,7 @@
         "%": ""
     },
     "1972": {
-        "<speed=0>|<%sM_image>を|目覚めし冒険者の広場　思い出アルバムに|保存しました。https://hiroba.dqx.jp": "<speed=0>|<%sM_image> was saved in the Memories|Album on the Adventurer's Awakening Square.|(https://hiroba.dqx.jp)"
+        "<speed=0>|<%sM_image>を|目覚めし冒険者の広場　思い出アルバムに|保存しました。https://hiroba.dqx.jp": "<speed=0>|<%sM_image> was saved in|the Photo Album on the Adventurer's Awakening|Square. (https://hiroba.dqx.jp)"
     },
     "1973": {
         "<speed=0>|思い出アルバムへの保存に　失敗しました。|エラーコード：<%sERRID>": "<speed=0>|Failed to save to Photo Album.|Error Code: <%sERRID>"
@@ -7710,7 +7710,7 @@
         "clarity_nt_char_2570": "clarity_nt_char_2570"
     },
     "2571": {
-        "（連打:45度）": "(2x: 45°)"
+        "（連打:45度）": "   (2 Tap: 45°)"
     },
     "2572": {
         "clarity_nt_char_2572": "clarity_nt_char_2572"
@@ -8010,7 +8010,7 @@
         "<%3dM_CW_now>/<%dM_CW_max>人": "<%3dM_CW_now>/<%dM_CW_max>"
     },
     "2671": {
-        "このレシピは　おぼえていない": ""
+        "このレシピは　おぼえていない": "You don't know this recipe."
     },
     "2672": {
         "clarity_nt_char_2672": "clarity_nt_char_2672"
@@ -11040,7 +11040,7 @@
         "clarity_nt_char_3680": "clarity_nt_char_3680"
     },
     "3681": {
-        "(通常装備)": "(Normal equip)"
+        "(通常装備)": "(Normal Equip)"
     },
     "3682": {
         "clarity_nt_char_3682": "clarity_nt_char_3682"
@@ -13581,7 +13581,7 @@
         "（見た目装備情報）": "(View Glamour)"
     },
     "4528": {
-        "スキルポイント：": ""
+        "スキルポイント：": "Skill Points:"
     },
     "4529": {
         "clarity_nt_char_4529": "clarity_nt_char_4529"
@@ -15702,7 +15702,7 @@
         "香りの効果": ""
     },
     "5235": {
-        "分未満": ""
+        "分未満": " m."
     },
     "5236": {
         "おしゃレシピ": "Fashion"
@@ -16218,7 +16218,7 @@
         "clarity_nt_char_5406": "clarity_nt_char_5406"
     },
     "5407": {
-        "達人のオーブについて": "About Master Orbs"
+        "達人のオーブについて": "About Master Orb"
     },
     "5408": {
         "clarity_nt_char_5408": "clarity_nt_char_5408"
@@ -17526,7 +17526,7 @@
         "自分をとうろく": "Self-Introduce"
     },
     "5843": {
-        "おすすめのチーム": "Recommended Team\n"
+        "おすすめのチーム": "Recommended Team"
     },
     "5844": {
         "clarity_nt_char_5844": "clarity_nt_char_5844"
@@ -19857,7 +19857,7 @@
         "序章モード": "Intro Mode"
     },
     "6620": {
-        "<%2dM_mm>分未満": "<%2dM_mm>m or less"
+        "<%2dM_mm>分未満": "< <%2dM_mm> m."
     },
     "6621": {
         "clarity_nt_char_6621": "clarity_nt_char_6621"
@@ -19881,7 +19881,7 @@
         "clarity_nt_char_6627": "clarity_nt_char_6627"
     },
     "6628": {
-        "<%3dM_mm>分未満": ""
+        "<%3dM_mm>分未満": "< <%3dM_mm> m."
     },
     "6629": {
         "clarity_nt_char_6629": "clarity_nt_char_6629"
@@ -24726,7 +24726,7 @@
         "６人目の<%sM_PTMember>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Looking for sixth <%sM_PTMember>... <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "8243": {
-        "５人目の<%sM_PTMember>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Looking for fifth <%sM_PTMember>... <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
+        "５人目の<%sM_PTMember>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Looking for fifth member... <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "8244": {
         "ふたつ目の<%sM_TargetParty>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Looking for second <%sM_TargetParty>...<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
@@ -24969,7 +24969,7 @@
         "clarity_nt_char_8323": "clarity_nt_char_8323"
     },
     "8324": {
-        "ジュエルを納める": ""
+        "ジュエルを納める": "Deposit Jewels"
     },
     "8325": {
         "clarity_nt_char_8325": "clarity_nt_char_8325"
@@ -25413,7 +25413,7 @@
         "clarity_nt_char_8471": "clarity_nt_char_8471"
     },
     "8472": {
-        "トライロックとは": "What is Trilock"
+        "トライロックとは": "About Trirocks"
     },
     "8473": {
         "clarity_nt_char_8473": "clarity_nt_char_8473"
@@ -25491,7 +25491,7 @@
         "clarity_nt_char_8497": "clarity_nt_char_8497"
     },
     "8498": {
-        "ジュエル鑑定した　アイテムは|たからばこから　入手できます。": ""
+        "ジュエル鑑定した　アイテムは|たからばこから　入手できます。": "Items appraised from the jewels|can be received from the chest."
     },
     "8499": {
         "clarity_nt_char_8499": "clarity_nt_char_8499"
@@ -27678,7 +27678,7 @@
         "難易度：<%sM_iraisyo_min>～<%sM_iraisyo_max>": "Diff.:<%sM_iraisyo_min>～<%sM_iraisyo_max>"
     },
     "9227": {
-        "<%sM_pc>を装備する": "Equip <%sM_pc>."
+        "<%sM_pc>を装備する": "Equip <%sM_pc>"
     },
     "9228": {
         "<%sM_job>になる": "Become a <%sM_job>"
@@ -27990,13 +27990,13 @@
         "装備レベル<%dM_LV>": "Equipment Lv. <%dM_LV>"
     },
     "9331": {
-        "輝晶 Lv<%dM_lv> ": ""
+        "輝晶 Lv<%dM_lv> ": "Shine Lv <%dM_lv> "
     },
     "9332": {
         "clarity_nt_char_9332": "clarity_nt_char_9332"
     },
     "9333": {
-        "輝晶効果": ""
+        "輝晶効果": "Shine"
     },
     "9334": {
         "clarity_nt_char_9334": "clarity_nt_char_9334"
@@ -28245,7 +28245,7 @@
         "しばり": "Restraint"
     },
     "9416": {
-        "数しば": ""
+        "数しば": "Often"
     },
     "9417": {
         "都落ち": "Fleeing"
@@ -28323,7 +28323,7 @@
         "clarity_nt_char_9441": "clarity_nt_char_9441"
     },
     "9442": {
-        "輝晶核": "C.Nucleus"
+        "輝晶核": "C. Nuclei"
     },
     "9443": {
         "期限順に": ""
@@ -28374,7 +28374,7 @@
         "きにしない": "Don't Care"
     },
     "9459": {
-        "強化する輝晶効果": "Crystal effect to raise"
+        "強化する輝晶効果": "Shine Effect to Boost"
     },
     "9460": {
         "clarity_nt_char_9460": "clarity_nt_char_9460"
@@ -31017,7 +31017,7 @@
         "clarity_nt_char_10339": "clarity_nt_char_10339"
     },
     "10340": {
-        "1分未満": "<=1 minute"
+        "1分未満": "< 1 m."
     },
     "10341": {
         "clarity_nt_char_10341": "clarity_nt_char_10341"
@@ -32373,7 +32373,7 @@
         "clarity_nt_char_10791": "clarity_nt_char_10791"
     },
     "10792": {
-        "かいふく魔力+<%dB_VAL>": ""
+        "かいふく魔力+<%dB_VAL>": "Mag. Mending +<%dB_VAL>"
     },
     "10793": {
         "clarity_nt_char_10793": "clarity_nt_char_10793"
@@ -32436,7 +32436,7 @@
         "釣れる場所にもどる": ""
     },
     "10813": {
-        "パラメータ変化にもどる": ""
+        "パラメータ変化にもどる": "Return to Stats View"
     },
     "10814": {
         "伝承効果": "Bonus"
@@ -32595,6 +32595,6 @@
         "clarity_nt_char_10865": "clarity_nt_char_10865"
     },
     "10866": {
-        "天星郷の世界": "Heavenly Realm"
+        "天星郷の世界": "Celestial World"
     }
 }

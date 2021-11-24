@@ -30,7 +30,7 @@
         "<%sL_MONSTERNAME>の　すごしかたを|『お庭でのんびり』に変更しました！|<end>": "<%sL_MONSTERNAME> will spend its time|relaxing here!|<end>"
     },
     "11": {
-        "<%sL_MONSTERNAME>は　近所をおさんぽ中です。|モンスターのおうちに　戻しますか？|<yesno><break>": ""
+        "<%sL_MONSTERNAME>は　近所をおさんぽ中です。|モンスターのおうちに　戻しますか？|<yesno><break>": "<%sL_MONSTERNAME> is currently wandering|around. Would you like it to return to this|monster house?|<yesno><break>"
     },
     "12": {
         "<%sL_MONSTERNAME>のすごしかたを|『おさんぽさせる』に変更しました！|<end>": ""

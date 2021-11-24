@@ -4,18 +4,17 @@ Functions used by main.py to perform various actions that manipulate memory.
 '''
 
 from pathlib import Path
-import hashlib
+import csv
 import json
 import os
 import re
 import shutil
 import sys
 import zipfile
+import random
 from alive_progress import alive_bar
 import pykakasi
 from loguru import logger
-import pandas as pd
-import random
 import requests
 from errors import messageBoxFatalError
 from memory import (
@@ -23,12 +22,14 @@ from memory import (
     read_string,
     write_bytes,
     pattern_scan,
-    jump_to_next_address,
     get_start_of_game_text,
-    scan_to_foot
+    find_first_match
 )
 from signatures import (
-    index_pattern
+    index_pattern,
+    foot_pattern,
+    npc_monster_byte_pattern,
+    player_name_byte_pattern
 )
 
 HEX_DICT = 'hex_dict.csv'
@@ -38,7 +39,6 @@ def generate_hex(file):
     '''Parses a nested json file to convert strings to hex.'''
     en_hex_to_write = ''
     data = __read_json_file(file, 'en')
-
     for item in data:
         key, value = list(data[item].items())[0]
         if re.search('^clarity_nt_char', key):
@@ -46,42 +46,35 @@ def generate_hex(file):
         elif re.search('^clarity_ms_space', key):
             en = '00e38080'
         else:
-            ja = '00' + key.encode('utf-8').hex()
+            ja = key.encode('utf-8').hex() + '00'
             ja_raw = key
             ja_len = len(ja)
-
             if value:
-                en = '00' + value.encode('utf-8').hex()
+                en = value.encode('utf-8').hex() + '00'
                 en_raw = value
                 en_len = len(en)
             else:
                 en = ja
                 en_len = ja_len
-
             if en_len > ja_len:
-                print('\n')
-                print('String too long. Please fix and try again.')
-                print(f'File: {file}.json')
-                print(f'JA string: {ja_raw} (byte length: {ja_len})')
-                print(f'EN string: {en_raw} (byte length: {en_len})')
-                print('\n')
-                print('Press ENTER to exit the program.')
-                print('(and ignore this loading bar - it is doing nothing.)')
-                sys.exit(input())
+                logger.error('\n')
+                logger.error('String too long. Please fix and try again.')
+                logger.error(f'File: {file}.json')
+                logger.error(f'JA string: {ja_raw} (byte length: {ja_len})')
+                logger.error(f'EN string: {en_raw} (byte length: {en_len})')
 
             ja = ja.replace('7c', '0a')
             ja = ja.replace('5c74', '09')
             en = en.replace('7c', '0a')
             en = en.replace('5c74', '09')
-
             if ja_len != en_len:
                 while True:
                     en += '00'
                     new_len = len(en)
                     if (ja_len - new_len) == 0:
                         break
-
         en_hex_to_write += en
+
 
     return en_hex_to_write
 
@@ -99,7 +92,7 @@ def get_latest_from_weblate():
             zip_file.write(github_request.content)
     except requests.exceptions.RequestException as e:
         messageBoxFatalError('Failed to update!',
-                            'Failed to get latest files from weblate.\nMessage: {e}')
+                            f'Failed to get latest files from weblate.\nMessage: {e}')
     __delete_folder('json/_lang/en/dqxclarity-weblate')
     __delete_folder('json/_lang/en/en')
 
@@ -139,67 +132,66 @@ def get_latest_from_weblate():
 def translate():
     '''Executes the translation process.'''
     index_list = pattern_scan(pattern=index_pattern, return_multiple=True)
-    data_frame = pd.read_csv(HEX_DICT, usecols = ['file', 'hex_string'])
+    list_length = len(index_list)
 
-    with alive_bar(len(index_list),
-        title='Translating..',
-        spinner='pulse',
-        bar='bubbles',
-        length=20) as increment_progress_bar:
+    with alive_bar(list_length, title='Translating..', theme='musical', length=20) as bar:
         for index_address in index_list:
-            increment_progress_bar()
+            bar()
             hex_result = split_hex_into_spaces(str(read_bytes(index_address, 64).hex()))
-            csv_result = __flatten(data_frame[data_frame.hex_string == hex_result].values.tolist())
-            if csv_result != []:
-                file = __parse_filename_from_csv_result(csv_result)
+            csv_result = query_csv(hex_result)
+            if csv_result:
+                file = csv_result['file']
                 hex_to_write = bytes.fromhex(generate_hex(file))
-                text_address = get_start_of_game_text(index_address) - 1  # json starts with 00, so go back 1 address before we write
-                try:
-                    # this just tests that we can decode what we should be writing
-                    game_hex = read_bytes(text_address, len(hex_to_write)).hex()
-                    bytes.fromhex(game_hex).decode('utf-8')
-                except:
-                    continue  # remants of files get left behind sometimes. don't write to these addresses if we can't read them
+                text_address = get_start_of_game_text(index_address)
+                if text_address:
+                    try:
+                        # this just tests that we can decode what we should be writing
+                        game_hex = read_bytes(text_address, len(hex_to_write)).hex()
+                        decoded_bytes = bytes.fromhex(game_hex).decode('utf-8')
+                    except:
+                        continue
 
-                write_bytes(text_address, hex_to_write)
+                    write_bytes(text_address, hex_to_write)
 
-    logger.info('Done. Minimize this window and enjoy!')
-
-def write_adhoc_entry(start_addr: int, hex_str: str):
+def write_adhoc_entry(start_addr: int, hex_str: str) -> dict:
     '''
     Checks the stored json files for a matching adhoc file. If found,
     converts the json into bytes and writes bytes at the appropriate
     address.
     '''
-    data_frame = pd.read_csv(HEX_DICT, usecols = ['file', 'hex_string'])
+    results = dict()
     hex_result = split_hex_into_spaces(hex_str)
-    csv_result = __flatten(data_frame[data_frame.hex_string == hex_result].values.tolist())
-    if csv_result != []:
-        file = __parse_filename_from_csv_result(csv_result)
+    csv_result = query_csv(hex_result)
+    if csv_result:
+        file = csv_result['file']
         if 'adhoc' in file:
             hex_to_write = bytes.fromhex(generate_hex(file))
-            index_address = jump_to_next_address(start_addr, index_pattern)
+            index_address = find_first_match(start_addr, index_pattern)
             if index_address:
-                text_address = get_start_of_game_text(index_address) - 1  # json files start with 00
-                write_bytes(text_address, hex_to_write)
-                return True
+                text_address = get_start_of_game_text(index_address)
+                if text_address:
+                    write_bytes(text_address, hex_to_write)
+                    results['success'] = True
+                    results['file'] = file
+                    return results
     else:
+        results['success'] = False
         filename = str(random.randint(1, 1000000000))
         Path('new_adhoc_dumps/en').mkdir(parents=True, exist_ok=True)
         Path('new_adhoc_dumps/ja').mkdir(parents=True, exist_ok=True)
-        
+
         new_csv = Path('new_adhoc_dumps/new_hex_dict.csv')
         if new_csv.is_file():
-            data_frame = pd.read_csv('new_adhoc_dumps/new_hex_dict.csv', usecols = ['file', 'hex_string'])
-            csv_result = __flatten(data_frame[data_frame.hex_string == hex_result].values.tolist())
-            if csv_result != []:  # if we have an entry, don't make another one
-                return False
+            csv_result = query_csv(hex_result)
+            if csv_result:  # if we have an entry, don't make another one
+                results['file'] = None
+                return results
         else:
             __write_file('new_adhoc_dumps', 'new_hex_dict.csv', 'a', 'file,hex_string\n')
 
         # get number of bytes to read from start
-        begin_address = get_start_of_game_text(start_addr)
-        end_address = scan_to_foot(begin_address)
+        begin_address = get_start_of_game_text(start_addr)  # make sure we start on the first byte of the first letter
+        end_address = find_first_match(begin_address, foot_pattern)
         bytes_to_read = end_address - begin_address
 
         # dump game file
@@ -209,32 +201,31 @@ def write_adhoc_entry(start_addr: int, hex_str: str):
         __write_file('new_adhoc_dumps', 'new_hex_dict.csv', 'a', f'{filename},{hex_result}\n')
         __write_file('new_adhoc_dumps/ja', f'{filename}.json', 'w', ja_data)
         __write_file('new_adhoc_dumps/en', f'{filename}.json', 'w', en_data)
-        
-        return False
+        results['file'] = filename
+        return results
 
 def scan_for_npc_names():
     '''
     Continuously scans the DQXGame process for known addresses
     that are related to a specific pattern to translate names.
     '''
-    npc_data = __read_json_file('npc_names', 'en')
-    monster_data = __read_json_file('monsters', 'en')
+    npc_data = __read_json_file('json/_lang/en/npc_names.json', 'en')
+    monster_data = __read_json_file('json/_lang/en/monsters.json', 'en')
 
     logger.info('Starting NPC/monster name scanning.')
-    
+
     while True:
-        byte_pattern = rb'[\xF8\xF4][\x86\x74]......\x30\x75..[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
-        index_list = pattern_scan(pattern=byte_pattern, return_multiple=True)
+        index_list = pattern_scan(pattern=npc_monster_byte_pattern, return_multiple=True)
 
         if index_list == []:
             continue
 
         for address in index_list:
-            if read_bytes(address, 2) == b'\xF4\x74':  # monsters
+            if read_bytes(address, 2) == b'\x8C\x75':  # monsters
                 data = monster_data
                 name_addr = address + 12  # jump to name
                 end_addr = address + 12
-            elif read_bytes(address, 2) == b'\xF8\x86':  # npcs
+            elif read_bytes(address, 2) == b'\x90\x87':  # npcs
                 data = npc_data
                 name_addr = address + 12  # jump to name
                 end_addr = address + 12
@@ -269,11 +260,10 @@ def scan_for_player_names():
     '''
     kks = pykakasi.kakasi()
 
-    byte_pattern = rb'\x00\x00\x00\x00\x00\x78..\x01.......\x01[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
     logger.info('Starting player name scanning.')
 
     while True:
-        player_list = pattern_scan(pattern=byte_pattern, return_multiple=True)
+        player_list = pattern_scan(pattern=player_name_byte_pattern, return_multiple=True)
         if player_list == []:
             continue
 
@@ -291,7 +281,7 @@ def dump_game_file(start_addr: int, num_bytes_to_read: int):
     '''
     Dumps a game file given its start and end address. Formats into a json
     friendly file to be used by clarity for both ja and en.
-    
+
     start_addr: Where to start our read operation to dump (should start at TEXT)
     num_bytes_to_read: How many bytes should we should dump from the start_addr
     '''
@@ -325,13 +315,13 @@ def dump_game_file(start_addr: int, num_bytes_to_read: int):
         sort_keys=False,
         ensure_ascii=False
     )
-    
+
     dic = dict()
     dic['ja'] = json_data_ja
     dic['en'] = json_data_en
-    
+
     return dic
-    
+
 def dump_all_game_files():
     '''
     Searches for all INDX entries in memory and dumps
@@ -351,9 +341,8 @@ def dump_all_game_files():
     for folder in directories:
         Path(folder).mkdir(parents=True, exist_ok=True)
 
-    data_frame = pd.read_csv(HEX_DICT, usecols = ['file', 'hex_string'])
     game_file_addresses = pattern_scan(pattern=index_pattern, return_multiple=True)
-    
+
     hex_blacklist = [
         # license file
         '49 4E 44 58 10 00 00 00 10 00 00 00 00 00 00 00 73 4C 01 00 00 00 00 00 89 50 01 00 D8 BB 00 00 46 4F 4F 54 10 00 00 00 00 00 00 00 00 00 00 00 54 45 58 54 10 00 00 00 00 BC 00 00 00 00 00 00'
@@ -361,20 +350,20 @@ def dump_all_game_files():
 
     with alive_bar(len(game_file_addresses),
                                 title='Dumping..',
-                                spinner='pulse',
-                                bar='bubbles',
+                                theme='smooth',
                                 length=20) as bar:
         for address in game_file_addresses:
             bar()
             hex_result = split_hex_into_spaces(str(read_bytes(address, 64).hex()))
             if hex_result in hex_blacklist:
                 continue
-
-            start_addr = get_start_of_game_text(address)
+            start_addr = get_start_of_game_text(address)  # make sure we start on the first byte of the first letter
             if start_addr is not None:
-                end_addr = scan_to_foot(start_addr) - 1
+                end_addr = find_first_match(start_addr, foot_pattern)
                 if end_addr is not None:
                     bytes_to_read = end_addr - start_addr
+                    if bytes_to_read < 0:
+                        continue
                     game_data = read_bytes(start_addr, bytes_to_read).rstrip(b'\x00').hex()
                     if len(game_data) % 2 != 0:
                         game_data = game_data + '0'
@@ -410,12 +399,11 @@ def dump_all_game_files():
                     )
 
                     # Determine whether to write to consider file or not
-                    csv_result = __flatten(
-                        data_frame[data_frame.hex_string == hex_result].values.tolist())
-                    if csv_result != []:
+                    csv_result = query_csv(hex_result)
+                    if csv_result:
                         file = os.path.splitext(
                             os.path.basename(
-                                csv_result[0]))[0].strip() + '.json'
+                                csv_result['file']))[0].strip() + '.json'
                         json_path_ja = 'game_file_dumps/known/ja'
                         json_path_en = 'game_file_dumps/known/en'
                     else:
@@ -476,9 +464,12 @@ def migrate_translated_json_data():
         os.system(f'../hyde_json_merge\json-conv.exe -s ../hyde_json_merge/src/{filename} -d ../hyde_json_merge/dst/{filename} -o ../hyde_json_merge/out/{filename}')  # pylint: disable=anomalous-backslash-in-string,line-too-long
 
 def check_for_updates():
+    '''
+    Checks github for updates.
+    '''
     url = 'https://raw.githubusercontent.com/jmctune/dqxclarity/main/sha'
 
-    exe_sha = __get_sha('dqxclarity.exe')
+    exe_sha = False
     if exe_sha is False:
         return
 
@@ -487,16 +478,26 @@ def check_for_updates():
     except requests.exceptions.RequestException as e:
         logger.warning(f'Failed to check latest version. Running anyways.\nMessage: {e}')
         return
-    
+
     if github_request.text != exe_sha:
-        logger.info(f'An update is available at https://github.com/jmctune/dqxclarity/releases', fg='green')
+        logger.info('An update is available at https://github.com/jmctune/dqxclarity/releases', fg='green')
     else:
-        logger.info(f'Up to date!')
-        
+        logger.info('Up to date!')
+  
     return
 
-def __read_json_file(base_filename, region_code):
-    with open(f'json/_lang/{region_code}/{base_filename}.json', 'r', encoding='utf-8') as json_data:
+def query_csv(hex_pattern) -> dict:
+    with open('hex_dict.csv') as file:
+        reader = csv.DictReader(file)
+        return_dict = dict()
+        for row in reader:
+            if row['hex_string'] == hex_pattern:
+                return_dict['file'] = row['file']
+                return_dict['hex_string'] = row['hex_string']
+                return return_dict
+
+def __read_json_file(file, region_code):
+    with open(file, 'r', encoding='utf-8') as json_data:
         return json.loads(json_data.read())
 
 def __write_file(path, filename, attr, data):
@@ -538,11 +539,3 @@ def __delete_folder(folder):
 def __parse_filename_from_csv_result(csv_result):
     '''Parse the filename from the supplied csv result.'''
     return os.path.splitext(os.path.basename(csv_result[0]))[0].strip()
-
-def __get_sha(file):
-    try:
-        with open(file,"rb") as f:
-            bytes = f.read()
-            return hashlib.sha256(bytes).hexdigest()
-    except:
-        return False

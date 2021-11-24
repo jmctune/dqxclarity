@@ -24,79 +24,79 @@
         "「万魔の塔では　俺が渡すどうぐしか|　使うことはできないぞ。|<br>|「どうぐかばん　も専用のものに|　なるからな。気をつけろ。　|　おいおい？　そんな　かおをするなよ。|<br>|「災壇に　俺がどうぐを　|　落してやるぞ。|<br>|「このどうぐは　ふれることで　手に入る。|　あとは　どうぐかばん　から|　必要なときに　使いな。|<bw_break>": "In the Banma Tower, you can only use items|that I give to ya.|<br>|You can't use your own item bag, either.|Hey, what's with that face?|<br>|I'll place items around the platform for ya.|<br>|If you want to use them, pick them up and|they'll be placed into the item bag I gave|you.|<bw_break>"
     },
     "9": {
-        "「魔物を倒すと　ポイントを稼げるから|　そのポイントの合計を　スコアとして|　記録してやるぜ。|<br>|「ちなみに　ハイスコアを更新したら　|　ハイスコアの合計として|　計上してやるが……|<br>|「ハイスコアの合計は　日曜日の朝６時で|　リセットされちまうから　注意しろよな。|<bw_break>": ""
+        "「魔物を倒すと　ポイントを稼げるから|　そのポイントの合計を　スコアとして|　記録してやるぜ。|<br>|「ちなみに　ハイスコアを更新したら　|　ハイスコアの合計として|　計上してやるが……|<br>|「ハイスコアの合計は　日曜日の朝６時で|　リセットされちまうから　注意しろよな。|<bw_break>": "You can get points by defeating monsters.|I'll record the total of those points as your|score.|<br>|By the way, if your high score updates, I'll|post it as your total high score....|<br>|High score totals are reset at 6 a.m. (JST) on|Sundays, so please remember that!|<bw_break>"
     },
     "10": {
-        "「ヒヒヒッ！|　何について　聞きたい？|<select_se_off>|スコアについて|ボーナスについて|報酬について|オーラの魔物について|アイテムについて|ギラムソウルについて|ギラムマジックについて|<select_end><break>": ""
+        "「ヒヒヒッ！|　何について　聞きたい？|<select_se_off>|スコアについて|ボーナスについて|報酬について|オーラの魔物について|アイテムについて|ギラムソウルについて|ギラムマジックについて|<select_end><break>": "Heheheee! What do you wanna ask?|<select_se_off>|About Score|About Bonuses|About Rewards|About Aura Monsters|About Items|About Gilam Souls|About Gilam Magic|<select_end><break>"
     },
     "11": {
-        "「他に　何か　聞きたいことは　あるかぁ？|<select_se_off>|スコアについて|ボーナスについて|報酬について|オーラの魔物について|アイテムについて|ギラムソウルについて|ギラムマジックについて|<select_end><break>": ""
+        "「他に　何か　聞きたいことは　あるかぁ？|<select_se_off>|スコアについて|ボーナスについて|報酬について|オーラの魔物について|アイテムについて|ギラムソウルについて|ギラムマジックについて|<select_end><break>": "Aaaanything else you want to ask?|<select_se_off>|About Score|About Bonuses|About Rewards|About Aura Monsters|About Items|About Gilam Souls|About Gilam Magic|<select_end><break>"
     },
     "12": {
-        "「ここから　災壇まで　移動できるぞ|　どの災壇へ　移動するんだ？|<break>": ""
+        "「ここから　災壇まで　移動できるぞ|　どの災壇へ　移動するんだ？|<break>": "Which platform do ya wanna go to?|<break>"
     },
     "13": {
-        "「<%sM_banma>に　挑戦するか？|<yesno><break>": ""
+        "「<%sM_banma>に　挑戦するか？|<yesno><break>": "You wanna challenge <%sM_banma>?|<yesno><break>"
     },
     "14": {
-        "「……残念だ。|　また　いつでも　来いよな～。|<bw_break>": ""
+        "「……残念だ。|　また　いつでも　来いよな～。|<bw_break>": ".....too bad. Come back anytime!|<bw_break>"
     },
     "15": {
-        "「さあ　どこまで行けるかな？|　万魔に挑みし者よ。|　がんばってなー！　ヒヒヒッ！|<end>": ""
+        "「さあ　どこまで行けるかな？|　万魔に挑みし者よ。|　がんばってなー！　ヒヒヒッ！|<end>": "Well now, how far can you get, <if_woman>Ms.<else>Mr.<endif> Banma|Challenger? Good luck! Heheheee!|<end>"
     },
     "16": {
-        "「万魔の塔に　挑戦するのか？|<select_se_off>|災壇に挑戦する|報酬を見る|ギラムマジック|アイテム交換|説明を聞く|ルールをみる|<select_end><break>": ""
+        "「万魔の塔に　挑戦するのか？|<select_se_off>|災壇に挑戦する|報酬を見る|ギラムマジック|アイテム交換|説明を聞く|ルールをみる|<select_end><break>": "So, you wanna challenge Banma Tower?|<select_se_off>|Challenge Platform|View Rewards|Gilam Magic|Item Exchange|Explanation|See Rules|<select_end><break>"
     },
     "17": {
-        "「他に　用はあるか？|<select_se_off>|災壇に挑戦する|報酬を見る|ギラムマジック|アイテム交換|説明を聞く|ルールをみる|<select_end><break>": ""
+        "「他に　用はあるか？|<select_se_off>|災壇に挑戦する|報酬を見る|ギラムマジック|アイテム交換|説明を聞く|ルールをみる|<select_end><break>": "What else do ya want?|<select_se_off>|Challenge Platform|View Rewards|Gilam Magic|Item Exchange|Explanation|See Rules|<select_end><break>"
     },
     "18": {
         "「なになに？　|　そんなもんは　いらねーって！？|<br>|「まあ　いいけどよ。『ルールをみる』から|　いつでも　見られるようにしとくから|　気が変わったら　確認してみな。|<bw_break>": ""
     },
     "19": {
-        "「そうかそうか　歓迎するぜ～。|　それじゃ　さっそく|　ルール説明を始めるぞ。ヒヒヒッ！|<bw_break>": ""
+        "「そうかそうか　歓迎するぜ～。|　それじゃ　さっそく|　ルール説明を始めるぞ。ヒヒヒッ！|<bw_break>": "Well, well, welcome aboard! Without further|ado, I'll start explaining the rules!|Heheheee!|<bw_break>"
     },
     "20": {
-        "「お前は　パーティを組んでるから|　パーティメンバーと一緒に|　参加してもらうぞ。|<br>|「パーティリーダーに|　俺へ　声をかけるように言って|　参加表明を　してもらえ。|<br>|「そうすれば　お前に|　パーティリーダーの方から|　万魔の塔の誘いが　届くはずだ。|<end>": ""
+        "「お前は　パーティを組んでるから|　パーティメンバーと一緒に|　参加してもらうぞ。|<br>|「パーティリーダーに|　俺へ　声をかけるように言って|　参加表明を　してもらえ。|<br>|「そうすれば　お前に|　パーティリーダーの方から|　万魔の塔の誘いが　届くはずだ。|<end>": "Looks like you're in a party, so you'll go|along with them.|<br>|Tell your party leader to speak with me first|to send out an invitation.|<br>|Once they do, you can accept the invite into|the Banma Tower. Got it?|<end>"
     },
     "21": {
-        "「<%dM_point>ポイントに|　到達したようだな！|　<%sM_item>を<%dM_num2>こ　やろう！|<end>": ""
+        "「<%dM_point>ポイントに|　到達したようだな！|　<%sM_item>を<%dM_num2>こ　やろう！|<end>": "Looks like ya reached <%dM_point> points!|Here's <%dM_num2> <%sM_item> for ya!|<end>"
     },
     "22": {
-        "「<%dM_point>ポイントに|　到達したようだな！|　<%sM_item>を　やろう！|<end>": ""
+        "「<%dM_point>ポイントに|　到達したようだな！|　<%sM_item>を　やろう！|<end>": "Looks like ya reached <%dM_point> points!|Here's <%sM_item> for ya!|<end>"
     },
     "23": {
-        "<pc>は　<%sM_item>を|<%dM_num2>こ　手に入れた。|<se_nots System 7>": ""
+        "<pc>は　<%sM_item>を|<%dM_num2>こ　手に入れた。|<se_nots System 7>": "<pc> received <%dM_num2> <%sM_item>.|<se_nots System 7>"
     },
     "24": {
-        "<pc>は　<%sM_item>を手に入れた。|<se_nots System 7>": ""
+        "<pc>は　<%sM_item>を手に入れた。|<se_nots System 7>": "<pc> received <%sM_item>.|<se_nots System 7>"
     },
     "25": {
-        "「あん？　<%sM_banma>から　|　逃げ帰ってきたのか……。　|<br>|「まあ　いいだろう。|　お前が　稼いだスコアは|　保証してやるよ。|<end>": ""
+        "「あん？　<%sM_banma>から　|　逃げ帰ってきたのか……。　|<br>|「まあ　いいだろう。|　お前が　稼いだスコアは|　保証してやるよ。|<end>": "Huh? You ran away from|<%sM_banma>......?|<br>|Well, whatever. I'll still note down the|score ya earned.|<end>"
     },
     "26": {
-        "「ほう　<%sM_banma>を|　制覇したのか！　|<br>|「なかなか　やるじゃねーか！|　それなりに　ウデは立つようだなぁ！|<bw_break>": ""
+        "「ほう　<%sM_banma>を|　制覇したのか！　|<br>|「なかなか　やるじゃねーか！|　それなりに　ウデは立つようだなぁ！|<bw_break>": "Oooh, so you beat the <%sM_banma>,|huh?!|<br>|You're pretty good, huh? Looks like ya have|some skills after all!|<bw_break>"
     },
     "27": {
-        "「魔界の海に漂う　魔瘴のチカラが溜まったな。|　また多くの魔物たちが　作りだされたぞ！|　さあ　スコアもリセットだ。|<br>|「それと　俺様のマジックやギラムソウルも|　リセットするからなぁ～　注意しろ。|　ヒヒヒッ！|<bw_break>": ""
+        "「魔界の海に漂う　魔瘴のチカラが溜まったな。|　また多くの魔物たちが　作りだされたぞ！|　さあ　スコアもリセットだ。|<br>|「それと　俺様のマジックやギラムソウルも|　リセットするからなぁ～　注意しろ。|　ヒヒヒッ！|<bw_break>": "More demon miasma floating in the Demon|World's sea has accumulated! That means more|monsters showed up!|<br>|That means your score's reset. As well as my|amazing magic and any Gilam Souls you had.|Heheheee!|<bw_break>"
     },
     "28": {
-        "「報酬は　全て|　受け取りきっているが|　<%sM_banma>に　挑戦するか？|<yesno><break>": ""
+        "「報酬は　全て|　受け取りきっているが|　<%sM_banma>に　挑戦するか？|<yesno><break>": "You've already gotten all of the rewards. You|still wanna challenge <%sM_banma> anyways?|<yesno><break>"
     },
     "29": {
-        "「なんと　<%sM_banma>を|　完全制覇したのか！　|　めっちゃ　つぇぇぇじゃんか！　|<br>|「いつか　お前は|　やってくれるんじゃないかと|　思ってたんだぜ～　俺は。|<br>|「まさか　全ての災いを打ち倒すとはな。|　俺様も興奮が　おさまらねぇよ！|　ヒヒヒッ！|<bw_break>": ""
+        "「なんと　<%sM_banma>を|　完全制覇したのか！　|　めっちゃ　つぇぇぇじゃんか！　|<br>|「いつか　お前は|　やってくれるんじゃないかと|　思ってたんだぜ～　俺は。|<br>|「まさか　全ての災いを打ち倒すとはな。|　俺様も興奮が　おさまらねぇよ！|　ヒヒヒッ！|<bw_break>": "No way, you completely beat <%sM_banma>?!|That's soooo awesome!|<br>|I was hoping that one day you'd be able to|do for me.|<br>|Never thought you'd be able to beat 'em all!|I'm just oozing with excitement right now!!|Heheheee!|<bw_break>"
     },
     "30": {
-        "「おい　ちょっと待て。|　まだ　受け取れる報酬が　あるぞ！|<bw_break>": ""
+        "「おい　ちょっと待て。|　まだ　受け取れる報酬が　あるぞ！|<bw_break>": "Hey, wait a sec. I still have stuff to give|you!|<bw_break>"
     },
     "31": {
-        "「おやぁ？|　受け取っていない|　報酬が　あるじゃねーか。|<bw_break>": ""
+        "「おやぁ？|　受け取っていない|　報酬が　あるじゃねーか。|<bw_break>": "Hmm? There's still rewards that ya haven't|received yet.|<bw_break>"
     },
     "32": {
-        "「ヒヒヒッ！　よく来たな|　ここが　万魔の塔だ！|　なかなか　イカした　ところだろ～。|<br>|「今はだいぶ　ボロくなっちまったが|　かつては　ある　偉大な魔王が打ち立てた|　娯楽の殿堂として　栄えていた。|<br>|「万魔の塔はな　魔界の海に溶け込む|　濃い魔瘴から　かりそめの|　魔物を作り出し……|<br>|「奴隷や罪人を　放り込んでは|　それらと戦わせ　勝ち抜いた者には　|　自由と褒美を　与えるという場所だった。|<br>|「戦いが始まると　災いのごとく|　チョ～～～　大量の魔物が|　押し寄せてくるんだ。|<br>|「圧倒的な　数の暴力と|　それに抗う挑戦者の　生へのあがきが|　楽しめる　最高のショーだった。　|<br>|「偉大な魔王と　その取り巻きたちは|　このショーを見物しながら　|　毎夜　宴を楽しんだ……。|<br>|「そして　いつしか　このショーは|　『災いの宴』と　名づけられたんだ。|<br>|「まぁ　今は　ウデの立つ魔族を戦わせ……|　破滅する姿を　俺が　楽しんでいるだけだがな。|　ヒヒヒッ！|<br>|「お前も　降りかかる災いを打ち破り|　勝利を手にできたのなら|　俺から　イカした褒美をくれてやんよ～。|<br>|「……さて　最高の宴の舞台は|　この塔の中で　フワフワ浮いている|　災壇と呼ばれる　戦場だ！|<br>|「災壇に登れば　戦いが始まるが　|　その前に　万魔の塔のルールを|　聞きたいか？|<br>|「ちなみに　ルールの説明を|　受けてなくても　万魔の塔には|　すぐに　挑戦できるぞ。|<br>|「ま　お前自身の生死に関わることだ。|　聞いといた方が　いいと思うけどな～。|　で　ルールの説明を受けるのか？|<yesno><break>": ""
+        "「ヒヒヒッ！　よく来たな|　ここが　万魔の塔だ！|　なかなか　イカした　ところだろ～。|<br>|「今はだいぶ　ボロくなっちまったが|　かつては　ある　偉大な魔王が打ち立てた|　娯楽の殿堂として　栄えていた。|<br>|「万魔の塔はな　魔界の海に溶け込む|　濃い魔瘴から　かりそめの|　魔物を作り出し……|<br>|「奴隷や罪人を　放り込んでは|　それらと戦わせ　勝ち抜いた者には　|　自由と褒美を　与えるという場所だった。|<br>|「戦いが始まると　災いのごとく|　チョ～～～　大量の魔物が|　押し寄せてくるんだ。|<br>|「圧倒的な　数の暴力と|　それに抗う挑戦者の　生へのあがきが|　楽しめる　最高のショーだった。　|<br>|「偉大な魔王と　その取り巻きたちは|　このショーを見物しながら　|　毎夜　宴を楽しんだ……。|<br>|「そして　いつしか　このショーは|　『災いの宴』と　名づけられたんだ。|<br>|「まぁ　今は　ウデの立つ魔族を戦わせ……|　破滅する姿を　俺が　楽しんでいるだけだがな。|　ヒヒヒッ！|<br>|「お前も　降りかかる災いを打ち破り|　勝利を手にできたのなら|　俺から　イカした褒美をくれてやんよ～。|<br>|「……さて　最高の宴の舞台は|　この塔の中で　フワフワ浮いている|　災壇と呼ばれる　戦場だ！|<br>|「災壇に登れば　戦いが始まるが　|　その前に　万魔の塔のルールを|　聞きたいか？|<br>|「ちなみに　ルールの説明を|　受けてなくても　万魔の塔には|　すぐに　挑戦できるぞ。|<br>|「ま　お前自身の生死に関わることだ。|　聞いといた方が　いいと思うけどな～。|　で　ルールの説明を受けるのか？|<yesno><break>": "Hehehee! You've come to the right place. This|is the Banma Tower! It's pretty cool,|don'tcha think?|<br>|It's in shambles now, but... it used to be a|flourishing temple of entertainment, founded|by a great demon lord.|<br>|The Banma Tower creates monsters from the|demon miasma that blends into the sea of|the Demon World.|<br>|It was once a place where slaves and|criminals were thrown into, and those|who won, won their freedom.|<br>|The great demon lord and his entourage enjoyed|a nightly feast while watching these \"shows\"|of entertainment...|<br>|At some point, this \"show\" became known as|the \"Feast of Calamity\".|<br>|I'm just enjoying myself watching these|skilled monsters fight and destroy each|other. Heheheee!|<br>|If you can defeat the waves of calamity that|come at you and win, I'll give ya something|cool!|<br>|...and the stage for this amazing feast is|a floating battlefield called the Calamity|Platform!|<br>|Once you're on the platform, the battle will|begin. But before that, do you wanna hear|the rules for the Banma Tower?|<br>|If you don't wanna listen to the rules, you|can still go to the Banma Tower right away|if that floats your boat.|<br>|We're talking life and death here. I think|it's a good idea if you listen to the|rules. Well? What do ya say?<yesno><break>"
     },
     "33": {
-        "「なんと　<%sM_banma>を|　完全制覇したのか！　|　めっちゃ　つぇぇぇじゃんか！　|<br>|「いつか　お前は|　やってくれるんじゃないかと|　思ってたんだぜ～　俺は。|<br>|「まさか　全ての災いを打ち倒すとはな。|　俺様も興奮が　おさまらねぇよ！|　ヒヒヒッ！|<bw_break>": ""
+        "「なんと　<%sM_banma>を|　完全制覇したのか！　|　めっちゃ　つぇぇぇじゃんか！　|<br>|「いつか　お前は|　やってくれるんじゃないかと|　思ってたんだぜ～　俺は。|<br>|「まさか　全ての災いを打ち倒すとはな。|　俺様も興奮が　おさまらねぇよ！|　ヒヒヒッ！|<bw_break>": "No way, you completely beat <%sM_banma>?!|That's soooo awesome!|<br>|I was hoping that one day you'd be able to|do for me.|<br>|Never thought you'd be able to beat 'em all!|I'm just oozing with excitement right now!!|Heheheee!|<bw_break>"
     },
     "34": {
         "「よーし！　報酬は以上だ。|<br>|「今後も　お前には　期待しているぜ。|　それじゃ　また　来てくれよなぁ！|<end>": ""

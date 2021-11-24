@@ -144,7 +144,7 @@
         "（現在のコースでは使えません）": ""
     },
     "49": {
-        "冒険の書を　選んでください。<break>": "Choose an Adventure Log.<break>"
+        "冒険の書を　選んでください。<break>": "<speed=0>Choose an Adventure Log.<break>"
     },
     "50": {
         "バージョンアップを中断しています……。<break>": ""
@@ -315,7 +315,7 @@
         "利用券の有効期間を　確認しています……。<break>": ""
     },
     "106": {
-        "サーバー情報を　確認しています……。<break>": "Checking server information...<break>"
+        "サーバー情報を　確認しています……。<break>": "<speed=0>Checking server information...<break>"
     },
     "107": {
         "レジストレーションコードの登録をしないと|オンラインモードを　遊ぶことができません。|いったん登録をやめて　タイトルに戻りますか？<yesno><break>": ""
@@ -459,7 +459,7 @@
         "本人確認のため　アカウント作成時に設定した|ひみつの質問と　その答えを　入れてください。<break>": ""
     },
     "154": {
-        "ログアウトします。|よろしいですか？<yesno><break>": "Are you sure you want to log out?<yesno><break>"
+        "ログアウトします。|よろしいですか？<yesno><break>": "<speed=0>Are you sure you want to log out?<yesno><break>"
     },
     "155": {
         "ご使用のアカウントには 追加パッケージ|<%sVERAPPEND>の|レジストレーションコードが 登録されていません。|　|このままプレイする場合は|一部のコンテンツを お楽しみいただけませんので|ご注意ください。|　|　|＜ボタンを押すと ゲームを続けます＞": ""
@@ -645,10 +645,10 @@
         "住宅村で中断していましたが|住宅村専用サーバーには　入れませんでした。|住宅村入口のある町に　移動します。<end>": ""
     },
     "216": {
-        "前回　ゲームを中断した場所が|サーバー変更が　できない場所だったため|前回と同じサーバーから　ゲームを再開します。<end>": "Your character was not logged out|properly, so the game will be restarted on|the same server as before.<end>"
+        "前回　ゲームを中断した場所が|サーバー変更が　できない場所だったため|前回と同じサーバーから　ゲームを再開します。<end>": "<speed=0>Your character was not logged out|properly, so the game will be restarted on|the same server as before.<end>"
     },
     "217": {
-        "前回　住宅村で中断したので|住宅村専用サーバーから再開します。<end>": "Since you logged off in a housing area,|you'll reconnect on the housing server.<end>"
+        "前回　住宅村で中断したので|住宅村専用サーバーから再開します。<end>": "<speed=0>Since you logged off in a housing area,|you'll reconnect on the housing server.<end>"
     },
     "218": {
         "新規登録": ""
@@ -981,7 +981,7 @@
         "オンラインモードの　冒険の書<%nNO>でプレイ中の|『<%sPCNAME>』と『<%sPCNAME2>』のデータを|この<%sConsole>の　冒険の書<%nNO>に　保存しました。<br>|オフラインモードの　冒険の書<%nNO>の名前や容姿が|『<%sPCNAME2>』のものに　書き替わりました。|（ゲームの進行状況は　そのまま残っています）<end>": ""
     },
     "328": {
-        "キャラデータ『<%sPCNAME>』を|冒険の書<%nNO>に　反映させました！<me_60><end>": "Character data for \"<%sPCNAME>\" has been entered in Adventure Log <%nNO>!<me_60><end>"
+        "キャラデータ『<%sPCNAME>』を|冒険の書<%nNO>に　反映させました！<me_60><end>": "Character data for \"<%sPCNAME>\" has been|entered in Adventure Log <%nNO>!<me_60><end>"
     },
     "329": {
         "オンラインの冒険の書<%nNO>が　消されています。|この<%sConsole>の　オフラインの冒険の書<%nNO>は|オンラインに反映されていない状態になりました。<end>": ""

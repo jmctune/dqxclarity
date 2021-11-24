@@ -99,7 +99,7 @@
         "<center>－そよ風の浜－|<left>おだやかな風と　静かな波に運ばれ|<left>深き海の青が　たどり着く浜なり。": "               －Breezy Beach－|Carried by gentle breezes and quiet waves,|this beach is where the deep blue sea reaches."
     },
     "34": {
-        "<left>この先　未調査地域。|<left>危険なため　立ち入りを禁じます。|<right>ヴェリナード王立調査団": "<left>Unsurveyed Site ahead.|<left>This area is dangerous so entry is prohibited.|― Verinard Royal Survey Team"
+        "<left>この先　未調査地域。|<left>危険なため　立ち入りを禁じます。|<right>ヴェリナード王立調査団": "<left>Unsurveyed Site ahead.|<left>This area is dangerous so entry is prohibited.|<left>― Verinard Royal Survey Team"
     },
     "35": {
         "<left>段差を　むやみに飛び降りると|<left>戻るのに　苦労することもある。|<left>足もとには　気をつけるべし。": "<left>If you jump down a step unnecessarily, you may|<left>have trouble getting back up.|<left>Watch your step."
@@ -129,163 +129,163 @@
         "<center>↑ヴェリナード領西行き　桟橋": "↑ Pier to Verinard West"
     },
     "44": {
-        "<left>この先　ヴェリナード領北への道は|<left>危険な魔物が巣食う　苦難の道。|<left>ヴェリナード城を　経由するべし。": ""
+        "<left>この先　ヴェリナード領北への道は|<left>危険な魔物が巣食う　苦難の道。|<left>ヴェリナード城を　経由するべし。": "<left>The road to Verinard North ahead is a|<left>difficult one with dangerous monsters.|<left>You should go through Verinard Castle."
     },
     "45": {
-        "<center>↑道なり　ヴェリナード城行き　桟橋|<center>道なり　キュララナ海岸行き　桟橋↓": ""
+        "<center>↑道なり　ヴェリナード城行き　桟橋|<center>道なり　キュララナ海岸行き　桟橋↓": "↑ Road to the pier to Verinard Castle|↓ Road to the pier to Kyurarana Coast"
     },
     "46": {
-        "<center>↑道なり　ヴェリナード城行き　桟橋|<center>道なり　キュララナ海岸行き　桟橋↓": ""
+        "<center>↑道なり　ヴェリナード城行き　桟橋|<center>道なり　キュララナ海岸行き　桟橋↓": "↑ Road to the pier to Verinard Castle|↓ Road to the pier to Kyurarana Coast"
     },
     "47": {
-        "<center>↑ヴェリナード領北": ""
+        "<center>↑ヴェリナード領北": "↑ Verinard North"
     },
     "48": {
-        "<left>ここより先　未調査地域のため|<left>用件のない者の　立ち入りを禁じます。|<right>ヴェリナード王立調査団": ""
+        "<left>ここより先　未調査地域のため|<left>用件のない者の　立ち入りを禁じます。|<right>ヴェリナード王立調査団": "<left>This is an unsurveyed area and no one is|<left>allowed to enter without permission.|<left>― Verinard Royal Survey Team"
     },
     "49": {
-        "<left>←ラーディス王島行き　桟橋|<left>←猫島行き　桟橋|<right>ジュレットの町→": ""
+        "<left>←ラーディス王島行き　桟橋|<left>←猫島行き　桟橋|<right>ジュレットの町→": "← Pier to King Ladis Island|← Pier to Cat Island|→ Julet Town"
     },
     "50": {
-        "<center>↑ラーディス王島行き　桟橋|<left>←猫島行き　桟橋": ""
+        "<center>↑ラーディス王島行き　桟橋|<left>←猫島行き　桟橋": "↑ Pier to King Ladis Island|← Pier to Cat Island"
     },
     "51": {
-        "<center>↑ヴァース大山林": ""
+        "<center>↑ヴァース大山林": "↑ Verse Mountain Forest"
     },
     "52": {
-        "<left>橋を渡り　西へ向かうと　ヴァース大山林。": ""
+        "<left>橋を渡り　西へ向かうと　ヴァース大山林。": "Cross the bridge and head west to Verse|Mountain Forest."
     },
     "53": {
-        "<center>↑ヴァース大山林": ""
+        "<center>↑ヴァース大山林": "↑ Verse Mountain Forest"
     },
     "54": {
-        "<left>この先　危険！|<left>凶悪な魔物が　多くいます。": ""
+        "<left>この先　危険！|<left>凶悪な魔物が　多くいます。": "<left>Danger ahead!|<left>There are many vicious monsters."
     },
     "55": {
-        "<left>←ケラコーナ原生林行き　桟橋|<right>密林の野営地→": ""
+        "<left>←ケラコーナ原生林行き　桟橋|<right>密林の野営地→": "← Pier to Keracona Wild Forest|→ Jungle Camp"
     },
     "56": {
-        "<left>ここより先　閉鎖中。": ""
+        "<left>ここより先　閉鎖中。": "<left>Closed beyond this point."
     },
     "57": {
-        "<left>密林の野営地へ向かうなら|<left>この先　南の橋を渡るべし。": ""
+        "<left>密林の野営地へ向かうなら|<left>この先　南の橋を渡るべし。": "<left>If you're heading for the Jungle Camp, cross|<left>the bridge to the south."
     },
     "58": {
-        "<left>←密林の野営地": ""
+        "<left>←密林の野営地": "← Jungle Camp"
     },
     "59": {
-        "<left>南東へ向かうと　密林の野営地。": ""
+        "<left>南東へ向かうと　密林の野営地。": "<left>Head southeast for the Jungle Camp."
     },
     "60": {
-        "<left>←地底湖の洞くつ|<right>レーンの村→|<center>レーナム緑野↓": ""
+        "<left>←地底湖の洞くつ|<right>レーンの村→|<center>レーナム緑野↓": "← Underground Lake Cave|→ Lane Village|↓ Lenam Fields"
     },
     "61": {
-        "<center>↑レーンの村|<center>レーナム緑野↓": ""
+        "<center>↑レーンの村|<center>レーナム緑野↓": "↑ Lane Village|↓ Lenam Fields"
     },
     "62": {
-        "<center>↑レーンの村": ""
+        "<center>↑レーンの村": "↑ Lane Village"
     },
     "63": {
-        "<left>この先　地底湖の洞くつ": ""
+        "<left>この先　地底湖の洞くつ": "<left>Underground Lake Cave ahead"
     },
     "64": {
-        "<left>道しるべの滝": ""
+        "<left>道しるべの滝": "<left>Signpost Waterfall"
     },
     "65": {
-        "<left>慰霊の浜へ　お参りの方は|<left>このガケを降りた先|<left>柵の向こうへ　お進みください。": ""
+        "<left>慰霊の浜へ　お参りの方は|<left>このガケを降りた先|<left>柵の向こうへ　お進みください。": "<left>If you wish to visit Memorial Beach, please|<left>proceed down the cliff to the other side of|<left>the fence."
     },
     "66": {
-        "<center>↑慰霊の浜|<right>レーナム緑野→": ""
+        "<center>↑慰霊の浜|<right>レーナム緑野→": "↑ Memorial Beach|→ Lenam Fields"
     },
     "67": {
-        "<left>この先の浜辺は　危険です。|<left>不用意に降りては　いけません。": ""
+        "<left>この先の浜辺は　危険です。|<left>不用意に降りては　いけません。": "<left>The beach ahead is dangerous.|<left>Do not go down there unprepared."
     },
     "68": {
-        "<center>↑レーナム緑野|<left>←レーンの村|<right>地底湖の洞くつ→": ""
+        "<center>↑レーナム緑野|<left>←レーンの村|<right>地底湖の洞くつ→": "↑ Lenam Fields|← Lane Village|→ Underground Lake Cave"
     },
     "69": {
-        "<center>↑レーナム緑野|<center>レーンの村↓": ""
+        "<center>↑レーナム緑野|<center>レーンの村↓": "↑ Lenam Fields|↓ Lane Village"
     },
     "70": {
-        "<center>↑慰霊の浜　レーナム緑野": ""
+        "<center>↑慰霊の浜　レーナム緑野": "↑ Memorial Beach, Lenam Fields"
     },
     "71": {
-        "<center>↑レーナム緑野行き　桟橋": ""
+        "<center>↑レーナム緑野行き　桟橋": "↑ Pier to Lenam Fields"
     },
     "72": {
-        "<left>この先の遺跡は　研究中のため|<left>現在　封鎖されています。|<right>ヴェリナード王立調査団": ""
+        "<left>この先の遺跡は　研究中のため|<left>現在　封鎖されています。|<right>ヴェリナード王立調査団": "<left>The ruins ahead are currently sealed due to|<left>ongoing research.|<left>― Verinard Royal Survey Team"
     },
     "73": {
-        "<center>↑ミューズ海岸|<left>←レーナム緑野行き　桟橋": ""
+        "<center>↑ミューズ海岸|<left>←レーナム緑野行き　桟橋": "↑ Muse Coast|← Pier to Lenam Fields"
     },
     "74": {
-        "<center>↑ミューズ海岸": ""
+        "<center>↑ミューズ海岸": "↑ Muse Coast"
     },
     "75": {
-        "<center>↑ジュレットの町": ""
+        "<center>↑ジュレットの町": "↑ Julet Town"
     },
     "76": {
-        "<center>－注意！－|<left>この先　魔物警戒地域。|<right>ヴェリナード王立衛士団": ""
+        "<center>－注意！－|<left>この先　魔物警戒地域。|<right>ヴェリナード王立衛士団": "                －Attention!－|Monster precaution area ahead.|― Verinard Royal Guards"
     },
     "77": {
-        "<center>↑キュララナ海岸": ""
+        "<center>↑キュララナ海岸": "↑ Kyurarana Coast"
     },
     "78": {
         "<center>↑ヴェリナード城行き　桟橋": "↑ Pier to Verinard Castle"
     },
     "79": {
-        "<center>↑道なり　ヴェリナード城行き　桟橋": ""
+        "<center>↑道なり　ヴェリナード城行き　桟橋": "↑ Road to the pier to Verinard Castle"
     },
     "80": {
-        "<left>←調査中の遺跡|<right>ヴァース大山林→|<center>ヴェリナード城行き　桟橋↓": ""
+        "<left>←調査中の遺跡|<right>ヴァース大山林→|<center>ヴェリナード城行き　桟橋↓": "← Ruins under investigation|→ Verse Mountain Forest|↓ Pier to Verinard Castle"
     },
     "81": {
-        "<center>↑危険！　魔物多し|<right>静寂のほこら→": ""
+        "<center>↑危険！　魔物多し|<right>静寂のほこら→": "↑ Danger! Full of monsters|→ Hollow of Silence"
     },
     "82": {
-        "<center>↑道なり　ヴァース大山林": ""
+        "<center>↑道なり　ヴァース大山林": "↑ Road to Verse Mountain Forest"
     },
     "83": {
-        "<left>この先　調査途中の遺跡あり。|<left>無用の立ち入りを禁じるであります！|<right>ヴェリナード王立調査団": ""
+        "<left>この先　調査途中の遺跡あり。|<left>無用の立ち入りを禁じるであります！|<right>ヴェリナード王立調査団": "<left>Ruins currently being surveyed ahead.|<left>Do not enter without permission!|<left>― Verinard Royal Survey Team"
     },
     "84": {
-        "<left>この先　清廉の大滝。|<left>海の神の大いなる恵みを|<left>体現するものなり。": ""
+        "<left>この先　清廉の大滝。|<left>海の神の大いなる恵みを|<left>体現するものなり。": "<left>Great Waterfall of Integrity ahead.|<left>It is the embodiment of the great blessings of|the sea god."
     },
     "85": {
-        "<center>↑お帰りは　こちらニャ|<right>ニャめんなよ　強いのが　わんさかいるニャ→|<center>猫魔族のパラダイスなのニャ↓": ""
+        "<center>↑お帰りは　こちらニャ|<right>ニャめんなよ　強いのが　わんさかいるニャ→|<center>猫魔族のパラダイスなのニャ↓": "↑ Hiss way to go back|→ Many strong meownsters|↓ Cat Demon's Pawadise"
     },
     "86": {
         "<left>猫魔族以外の　立ち入り禁止ニャ。|<left>しっぽを巻いて　帰るのニャ。": ""
     },
     "87": {
-        "<center>↑猫魔族のパラダイスなのニャ|<left>←ニャめんなよ　強いのが　わんさかいるニャ|<center>お帰りは　こちらニャ↓": ""
+        "<center>↑猫魔族のパラダイスなのニャ|<left>←ニャめんなよ　強いのが　わんさかいるニャ|<center>お帰りは　こちらニャ↓": "↑ Cat Demon's Pawadise|← Many strong meownsters|↓ Hiss way to go back"
     },
     "88": {
-        "<center>↑マンマーさまの　お部屋があるのニャ": ""
+        "<center>↑マンマーさまの　お部屋があるのニャ": "↑ Room fur Miss Momma"
     },
     "89": {
-        "<left>はじめて　巡礼に　いらした方は|<left>右手側にいる　案内人の話を|<left>お聞きになることを　おすすめします。": ""
+        "<left>はじめて　巡礼に　いらした方は|<left>右手側にいる　案内人の話を|<left>お聞きになることを　おすすめします。": "<left>If this is your first pilgrimage, we recommend|<left>that you talk to the guide on your right."
     },
     "90": {
         "<left>五声の祈りを　捧げし者に|<left>シェルナーの持つ　知恵と勇気が|<left>与えられますように。": ""
     },
     "91": {
-        "<center>↑道なり　ヴェリナード領北|<center>この先　ブーナー熱帯雨林↓": ""
+        "<center>↑道なり　ヴェリナード領北|<center>この先　ブーナー熱帯雨林↓": "↑ Road to Verinard North|↓ Booner Rainforest ahead"
     },
     "92": {
-        "<left>←道なり　ブーナー熱帯雨林|<center>この先　ヴェリナード領北↓": ""
+        "<left>←道なり　ブーナー熱帯雨林|<center>この先　ヴェリナード領北↓": "← Road to Booner Rainforest|↓ Verinard North ahead"
     },
     "93": {
-        "<center>－危険！－|<left>この先　重点警備強化地帯！|<right>ヴェリナード王立衛士団": ""
+        "<center>－危険！－|<left>この先　重点警備強化地帯！|<right>ヴェリナード王立衛士団": "                 －Danger!－|Priority increased security zone ahead!|― Verinard Royal Guards"
     },
     "94": {
-        "<center>↑この先　ブーナー熱帯雨林|<center>道なり　ヴェリナード領北↓": ""
+        "<center>↑この先　ブーナー熱帯雨林|<center>道なり　ヴェリナード領北↓": "↑ Booner Rainforest ahead|↓ Road to Verinard North"
     },
     "95": {
-        "<center>↑この先　ヴェリナード領北|<right>道なり　ブーナー熱帯雨林→": ""
+        "<center>↑この先　ヴェリナード領北|<right>道なり　ブーナー熱帯雨林→": "↑ Verinard North ahead|→ Road to Booner Rainforest"
     },
     "96": {
-        "<left>←フエラゴの滝|<right>ドルロイの滝→": ""
+        "<left>←フエラゴの滝|<right>ドルロイの滝→": "← Fuerago Waterfall|→ Dolroy Falls"
     },
     "97": {
         "<pc>は　掲示板を読んだ。|しかし　こちらは　裏側だった！": "You tried to read the bulletin board.|But you're standing on the wrong side!"
@@ -450,22 +450,22 @@
         "<left>郵便局の　看板だ。": "<left>It's a post office sign."
     },
     "151": {
-        "<pc>は　石碑の文字を読んだ。|<br>|ここは　詩歌の眠る地なり。|立ち入る資格ありしは　王位を継ぐべき|王家の者のみ。": ""
+        "<pc>は　石碑の文字を読んだ。|<br>|ここは　詩歌の眠る地なり。|立ち入る資格ありしは　王位を継ぐべき|王家の者のみ。": "You read the words on the stone monument.|<br>|This is the place where poetry lies.|Only those of the royal family who are to|succeed to the throne may enter."
     },
     "152": {
-        "<pc>は　石碑の文字を読んだ。|<br>|我ら　ウェディ。歌によりて　栄え|歌によりて　生きることが　定めなり。": ""
+        "<pc>は　石碑の文字を読んだ。|<br>|我ら　ウェディ。歌によりて　栄え|歌によりて　生きることが　定めなり。": "You read the words on the stone monument.|<br>|We are Weddie. It is our duty to live and|flourish by the song."
     },
     "153": {
-        "<pc>は　石碑の文字を読んだ。|<br>|我らを治める　王家の者よ。|歌を覚え　歌を唄い　歌を信じよ。|さすれば　恵みが与えられん。": ""
+        "<pc>は　石碑の文字を読んだ。|<br>|我らを治める　王家の者よ。|歌を覚え　歌を唄い　歌を信じよ。|さすれば　恵みが与えられん。": "You read the words on the stone monument.|<br>|The royal one that rules us all. Learn the|song, sing the song, believe the song. Then|grace will be given to you."
     },
     "154": {
-        "<pc>は　石碑の文字を読んだ。|<br>|詩歌を求め　詩歌を唄う者には|超えるべき試練が　立ちふさがるだろう。": ""
+        "<pc>は　石碑の文字を読んだ。|<br>|詩歌を求め　詩歌を唄う者には|超えるべき試練が　立ちふさがるだろう。": "You read the words on the stone monument.|<br>|Those who seek poetry, those who sing poetry,|will be faced with challenges to overcome."
     },
     "155": {
-        "<pc>は　石碑の文字を読んだ。|<br>|しかし　石碑の文字は　ボロボロで|読むことが　できなかった！": ""
+        "<pc>は　石碑の文字を読んだ。|<br>|しかし　石碑の文字は　ボロボロで|読むことが　できなかった！": "You read the words on the stone monument.|<br>|But the writing on the monument was so worn|out you couldn't read it!"
     },
     "156": {
-        "<pc>は　石碑の文字を読んだ。|<br>|しかし　石碑の文字は　ボロボロで|読むことが　できなかった！": ""
+        "<pc>は　石碑の文字を読んだ。|<br>|しかし　石碑の文字は　ボロボロで|読むことが　できなかった！": "You read the words on the stone monument.|<br>|But the writing on the monument was so worn|out you couldn't read it!"
     },
     "157": {
         "<pc>は　石碑の文字を読んだ。|<br>|歌は　ひとつの姿にあらず。|時とともに移りゆき　流れを変えるものなり。": ""
@@ -486,7 +486,7 @@
         "<left>本日の議題！|<left>恵みの歌の波及効果の検証と|<left>女王さまの歌唱スケジュールについて。": ""
     },
     "163": {
-        "<left>←ミューズ海岸|<right>レーナム緑野行き　桟橋→": ""
+        "<left>←ミューズ海岸|<right>レーナム緑野行き　桟橋→": "← Muse Coast|→ Pier to Lenam Fields"
     },
     "164": {
         "<center>布と触れ合おう。それが　さいほうギルド。|<center>ボクたちは　きっと解り合えるよ。|<right>さいほうギルド本部": ""
@@ -534,10 +534,10 @@
         "<left>売店の　看板だ。": "<left>It's a shop sign."
     },
     "179": {
-        "<left>アクセサリー屋の　看板だ。": ""
+        "<left>アクセサリー屋の　看板だ。": "<left>It's an accessory shop sign."
     },
     "180": {
-        "<left>アクセサリー屋の　看板だ。": ""
+        "<left>アクセサリー屋の　看板だ。": "<left>It's an accessory shop sign."
     },
     "181": {
         "<left>道なりに行くと　祈りの宿。|<left>途中に　コルット地方への道あり。": "<left>Follow the road to the Prayer Inn.|<left>There is a road to the Colt Region on the way."
@@ -546,60 +546,60 @@
         "<left>道なりに進むと　ジュレー島行き　桟橋。|<left>左前方のガケを下りると　危険地帯！|<left>落ちないように　気をつけよう。": ""
     },
     "183": {
-        "<center>－やすらぎの庭園－|<center>紫雲のサンゴの光にて|<center>渇いた心　うるおしたまえ": ""
+        "<center>－やすらぎの庭園－|<center>紫雲のサンゴの光にて|<center>渇いた心　うるおしたまえ": "          －Garden of Tranquility－|   Let the coral light of the purple clouds|          quench your thirsty heart."
     },
     "184": {
-        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": ""
+        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": "<left>You read the words carved on the coffin.|<br>|<left>But most of the letters were missing, and you|<left>couldn't read them properly!"
     },
     "185": {
-        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<center>聡明なる　アブカート|<center>ここに　眠る": ""
+        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<center>聡明なる　アブカート|<center>ここに　眠る": "You read the words carved on the coffin.|<br>|                  Here lies|                 wise Abcart"
     },
     "186": {
-        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": ""
+        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": "<left>You read the words carved on the coffin.|<br>|<left>But most of the letters were missing, and you|<left>couldn't read them properly!"
     },
     "187": {
-        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": ""
+        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": "<left>You read the words carved on the coffin.|<br>|<left>But most of the letters were missing, and you|<left>couldn't read them properly!"
     },
     "188": {
-        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<center>勇敢なる　イーリィン|<center>ここに　眠る": ""
+        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<center>勇敢なる　イーリィン|<center>ここに　眠る": "You read the words carved on the coffin.|<br>|                  Here lies|                 brave Elyne"
     },
     "189": {
-        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": ""
+        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": "<left>You read the words carved on the coffin.|<br>|<left>But most of the letters were missing, and you|<left>couldn't read them properly!"
     },
     "190": {
-        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": ""
+        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": "<left>You read the words carved on the coffin.|<br>|<left>But most of the letters were missing, and you|<left>couldn't read them properly!"
     },
     "191": {
-        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": ""
+        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": "<left>You read the words carved on the coffin.|<br>|<left>But most of the letters were missing, and you|<left>couldn't read them properly!"
     },
     "192": {
-        "<center>－やすらぎの庭園－|<center>紫雲のサンゴの光にて|<center>渇いた心　うるおしたまえ": ""
+        "<center>－やすらぎの庭園－|<center>紫雲のサンゴの光にて|<center>渇いた心　うるおしたまえ": "          －Garden of Tranquility－|   Let the coral light of the purple clouds|          quench your thirsty heart."
     },
     "193": {
-        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": ""
+        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": "<left>You read the words carved on the coffin.|<br>|<left>But most of the letters were missing, and you|<left>couldn't read them properly!"
     },
     "194": {
-        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<center>聡明なる　アブカート|<center>ここに　眠る": ""
+        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<center>聡明なる　アブカート|<center>ここに　眠る": "You read the words carved on the coffin.|<br>|                  Here lies|                 wise Abcart"
     },
     "195": {
-        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": ""
+        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": "<left>You read the words carved on the coffin.|<br>|<left>But most of the letters were missing, and you|<left>couldn't read them properly!"
     },
     "196": {
-        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": ""
+        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": "<left>You read the words carved on the coffin.|<br>|<left>But most of the letters were missing, and you|<left>couldn't read them properly!"
     },
     "197": {
-        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<center>勇敢なる　イーリィン|<center>ここに　眠る": ""
+        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<center>勇敢なる　イーリィン|<center>ここに　眠る": "You read the words carved on the coffin.|<br>|                  Here lies|                 brave Elyne"
     },
     "198": {
-        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": ""
+        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": "<left>You read the words carved on the coffin.|<br>|<left>But most of the letters were missing, and you|<left>couldn't read them properly!"
     },
     "199": {
-        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": ""
+        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": "<left>You read the words carved on the coffin.|<br>|<left>But most of the letters were missing, and you|<left>couldn't read them properly!"
     },
     "200": {
-        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": ""
+        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": "<left>You read the words carved on the coffin.|<br>|<left>But most of the letters were missing, and you|<left>couldn't read them properly!"
     },
     "201": {
-        "<left>石碑に　古めかしい文字が刻まれている。|<left><pc>は　石碑の文字を読んだ。": ""
+        "<left>石碑に　古めかしい文字が刻まれている。|<left><pc>は　石碑の文字を読んだ。": "<left>A stone monument is inscribed with worn text.|<left>You read the words on the stone monument."
     }
 }

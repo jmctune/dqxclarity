@@ -360,7 +360,7 @@
         "<center>↑ザマ烽火台": "↑ Zama Beacon"
     },
     "121": {
-        "<left>この先　落石のため封鎖中。": "<left>Area ahead closed due to falling rocks."
+        "<left>この先　落石のため封鎖中。": "Area ahead blocked due to falling rocks."
     },
     "122": {
         "<left>ザマ峠　八合目。|<left>目の前に見えるのが　ザマ烽火台です。": "<left>Zama Pass, 8th station.|<left>Straight ahead is Zama Beacon."
@@ -414,7 +414,7 @@
         "<left>←この先　危険地帯|<center>グレン城↓": "← Dangerous Area|↓ Glen Castle"
     },
     "139": {
-        "<left>この先　落石のため封鎖中。": "<left>Area ahead closed due to falling rocks."
+        "<left>この先　落石のため封鎖中。": "Area ahead blocked due to falling rocks."
     },
     "140": {
         "<right>グレゴールの洞くつ→|<center>グレン城↓": "→ Gregor Cavern|↓ Glen Castle"

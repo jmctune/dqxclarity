@@ -13,10 +13,8 @@ def translate_shellcode(
     debug: bool) -> str:
     '''
     Returns shellcode for the translate function hook.
-
     eax_address: Where text can be modified to be fed to the screen
     ebx_address: NPC name
-
     '''
     local_paths = dumps(sys.path).replace('\\', '\\\\')
     working_dir = dumps(os.getcwd()).replace('\\', '\\\\')
@@ -31,71 +29,91 @@ local_paths = {local_paths}
 working_dir = {working_dir}
 debug = {debug}
 api_logging = {api_logging}
+
 sys.path = local_paths
 chdir(working_dir)
 
 try:
     from datetime import datetime
     import logging
-    logging.basicConfig(
-        filename='out.log',
-        encoding='utf-8',
-        level=logging.INFO,
-        format='%(asctime)s %(levelname)-8s %(message)s',
-        datefmt='%Y-%m-%d %H:%M:%S')
     from hook import unpack_to_int
     from clarity import write_adhoc_entry
     from memory import (
         read_bytes,
         write_bytes,
         read_string,
-        scan_to_foot,
+        find_first_match,
         scan_backwards)
+
     from errors import AddressOutOfRange
     from translate import sanitized_dialog_translate, sqlite_read, sqlite_write_dynamic
     from signatures import index_pattern, foot_pattern
 
+    def setup_logger(name, log_file, level=logging.INFO):
+        formatter = logging.Formatter('%(asctime)s %(message)s')
+        handler = logging.FileHandler(log_file, encoding='utf-8')
+        handler.setFormatter(formatter)
+
+        logger = logging.getLogger(name)
+        if (logger.hasHandlers()):
+            logger.handlers.clear()
+
+        logger.setLevel(level)
+        logger.addHandler(handler)
+
+        return logger
+
+    logger = setup_logger('out', 'out.log')
     if debug:
-        logging.getLogger().setLevel(logging.DEBUG)
+        logger.setLevel(logging.DEBUG)
+    game_text_logger = setup_logger('gametext', 'game_text.log')
 
     # get address values where text can be identified
     npc_address = unpack_to_int({ebx_address})[0]
     ja_address = unpack_to_int({eax_address})[0]
 
-    if scan_to_foot(ja_address) != False:
-        logging.debug('adhoc address found :: checking if we have this file')
+    ja_text = read_string(ja_address)
+
+    if api_logging:
+        game_text_logger.info(ja_text)
+
+    if find_first_match(ja_address, foot_pattern) != False:
+        logger.debug('Adhoc address found at >> ' + str(hex(ja_address)) + ' << :: Checking if we have this file')
         adhoc_address = scan_backwards(ja_address, index_pattern)
-        adhoc_bytes = read_bytes(adhoc_address, 64)
-        success = write_adhoc_entry(adhoc_address, str(adhoc_bytes.hex()))
-        if success:
-            logging.debug('Wrote adhoc file.')
+        if adhoc_address:
+            logger.debug('Found INDX section.')
+            adhoc_bytes = read_bytes(adhoc_address, 64)
+            if adhoc_bytes:
+                logger.debug('Adhoc bytes read.')
+                adhoc_write = write_adhoc_entry(adhoc_address, str(adhoc_bytes.hex()))
+                if adhoc_write['success']:
+                    logger.debug('Wrote adhoc file.')
+                elif adhoc_write['file'] is not None:
+                    logger.debug('New adhoc file. Will write to new_adhoc_dumps if it does not already exist.')
+                elif adhoc_write['file'] is None:
+                    logger.debug('This file already exists in new_adhoc_dumps. Needs merge into github.')
         else:
-            logging.debug('New adhoc file. Will write to new_adhoc_dumps if it does not already exist.')
+            logger.debug('Did not find INDX section. Shit. You should probably report this.')
     else:
-        logging.debug('dynamic address found :: checking if translation is needed')
+        logger.debug('Dynamic address found at >> ' + str(hex(ja_address)) + ' << :: Checking if translation is needed')
         try:
             npc_name = read_string(npc_address)
         except:
             npc_name = ''
-        ja_text = read_string(ja_address)
-        logging.debug(ja_text)
+
+        logger.debug(ja_text)
         result = sqlite_read(ja_text, 'en')
 
         if result is not None:
-            logging.debug('found database entry. no translation needed')
+            logger.debug('found database entry. no translation needed')
             write_bytes(ja_address, result.encode() + b'\x00')
         else:
-            logging.debug('translation needed. sending to {api_service}')
+            logger.debug('translation needed. sending to {api_service}')
             translated_text = sanitized_dialog_translate('{api_service}', '{api_pro}', ja_text, '{api_key}', '{api_region}')
-            logging.debug(translated_text)
+            logger.debug(translated_text)
             sqlite_write_dynamic(ja_text, npc_name, translated_text, 'en')
-            logging.debug('database record inserted.')
+            logger.debug('database record inserted.')
             write_bytes(ja_address, translated_text.encode() + b'\x00')
-
-        if api_logging:
-            date_format = datetime.now().strftime("[%Y-%m-%d %I:%M:%S %p]")
-            with open('game_text.log', 'a+', encoding='utf-8') as f:
-                f.write(date_format + '\n' + ja_text + '\n')
 except AddressOutOfRange:
     pass
 except:
@@ -103,4 +121,4 @@ except:
         f.write(format_exc())
     """
 
-    return shellcode
+    return str(shellcode)

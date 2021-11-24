@@ -27,7 +27,7 @@
         "<%sL_ITEM><%sL_PLUSNUM>は　装備できませんが|<%nL_GOUKEI>ゴールドで|購入しますか？|<yesno 2><break>": ""
     },
     "10": {
-        "メッセージを　入力してください。|<break>": ""
+        "メッセージを　入力してください。|<break>": "Please enter a message.|<break>"
     },
     "11": {
         "<%sL_FURNITURE>を置く場所を|決めてください。|あと<%nL_AVAILABLE_NUM>個の庭具を　置くことができます。": ""
@@ -66,7 +66,7 @@
         "ロックできるメッセージは　２０件までです。|これ以上　ロックできません。|<bw_break>": ""
     },
     "23": {
-        "<%nL_LIST_NUM>件のメッセージがあります。|<break>": ""
+        "<%nL_LIST_NUM>件のメッセージがあります。|<break>": "The chime has <%dL_LIST_NUM> message(s).|<break>"
     },
     "24": {
         "使用してないダミーのテキストです": ""
@@ -378,7 +378,7 @@
         "<%sL_ITEM><%sL_PLUSNUM>は　装備できませんが|<%nL_GOUKEI>ゴールドで|購入しますか？|<yesno 2><break>": ""
     },
     "127": {
-        "メッセージを　入力してください。|<break>": ""
+        "メッセージを　入力してください。|<break>": "Please enter a message.|<break>"
     },
     "128": {
         "<%sL_FURNITURE>を置く場所を|決めてください。|あと<%nL_AVAILABLE_NUM>個の家具を　置くことができます。": ""
@@ -417,7 +417,7 @@
         "ロックできるメッセージは　２０件までです。|これ以上　ロックできません。|<bw_break>": ""
     },
     "140": {
-        "<%nL_LIST_NUM>件のメッセージがあります。|<break>": ""
+        "<%nL_LIST_NUM>件のメッセージがあります。|<break>": "The chime has <%dL_LIST_NUM> message(s).|<break>"
     },
     "141": {
         "使用してないダミーのテキストです": ""
@@ -978,7 +978,7 @@
         "未使用ダミー": ""
     },
     "327": {
-        "<%sL_FURNITURE>がある。|<break>": ""
+        "<%sL_FURNITURE>がある。|<break>": "It's a <%sL_FURNITURE>.|<break>"
     },
     "328": {
         "<%sL_FURNITURE>がある。|<break>": "It's a <%sL_FURNITURE>.|<break>"
@@ -1044,10 +1044,10 @@
         "土地が　ロックされているため|実行することが　できませんでした。": ""
     },
     "349": {
-        "<%sL_SEED>を植えた　畑がある。|<break>": ""
+        "<%sL_SEED>を植えた　畑がある。|<break>": "It's a field where <%sL_SEED> is sown.|<break>"
     },
     "350": {
-        "<%sL_SEED>を植えた　畑がある。|<break>": ""
+        "<%sL_SEED>を植えた　畑がある。|<break>": "It's a field where <%sL_SEED> is sown.|<break>"
     },
     "351": {
         "ドルボードが　あるため|かたづけられません。": ""
@@ -1092,58 +1092,58 @@
         "このキャラが見ている　イベントシーンは|すでに　スキップ可能になっています。": ""
     },
     "365": {
-        "<%sL_FURNITURE>がある。|ここで　釣りが　できそうだ。|<break>": ""
+        "<%sL_FURNITURE>がある。|ここで　釣りが　できそうだ。|<break>": "It's a <%sL_FURNITURE>. Seems like|you can fish here.|<break>"
     },
     "366": {
-        "<%sL_FURNITURE>がある。|釣りざおと　ルアーがあれば|ここで　釣りが　できそうだ。|<break>": ""
+        "<%sL_FURNITURE>がある。|釣りざおと　ルアーがあれば|ここで　釣りが　できそうだ。|<break>": "It's a <%sL_FURNITURE>. If you have|a fishing rod and a lure, it seems like you|can fish here.|<break>"
     },
     "367": {
-        "<%sL_FURNITURE>がある。|利用するには　クエスト『その者　釣り老師』を|クリアしてください。|<break>": ""
+        "<%sL_FURNITURE>がある。|利用するには　クエスト『その者　釣り老師』を|クリアしてください。|<break>": "It's a <%sL_FURNITURE>. To use it, please|clear the quest \"The Master of Fishing\"|first.|<break>"
     },
     "368": {
-        "使用してないダミーのテキストです": ""
+        "使用してないダミーのテキストです": "UNUSED DUMMY TEXT"
     },
     "369": {
-        "<%sL_FURNITURE>がある。|ここで　釣りが　できそうだ。|<break>": ""
+        "<%sL_FURNITURE>がある。|ここで　釣りが　できそうだ。|<break>": "It's a <%sL_FURNITURE>. Seems like|you can fish here.|<break>"
     },
     "370": {
-        "<%sL_FURNITURE>がある。|釣りざおと　ルアーがあれば|ここで　釣りが　できそうだ。|<break>": ""
+        "<%sL_FURNITURE>がある。|釣りざおと　ルアーがあれば|ここで　釣りが　できそうだ。|<break>": "It's a <%sL_FURNITURE>. If you have|a fishing rod and a lure, it seems like you|can fish here.|<break>"
     },
     "371": {
-        "<%sL_FURNITURE>がある。|利用するには　クエスト『その者　釣り老師』を|クリアしてください。|<bw_break>": ""
+        "<%sL_FURNITURE>がある。|利用するには　クエスト『その者　釣り老師』を|クリアしてください。|<bw_break>": "It's a <%sL_FURNITURE>. To use it, please|clear the quest \"The Master of Fishing\"|first.|<bw_break>"
     },
     "372": {
-        "使用してないダミーのテキストです": ""
+        "使用してないダミーのテキストです": "UNUSED DUMMY TEXT"
     },
     "373": {
-        "<%sL_FURNITURE>は|これ以上　置けません。|<end>": ""
+        "<%sL_FURNITURE>は|これ以上　置けません。|<end>": "<%sL_FURNITURE> cannot be placed|any longer.|<end>"
     },
     "374": {
-        "<%sL_FURNITURE>は|これ以上　置けません。|<end>": ""
+        "<%sL_FURNITURE>は|これ以上　置けません。|<end>": "<%sL_FURNITURE> cannot be placed|any longer.|<end>"
     },
     "375": {
-        "釣り堀に　さかなが　入っているため|かたづけられません。|<br>|釣り堀に最初からいる　さかな以外の|全てのさかなを　釣る　もしくは　逃せば|かたづけることができます。|<end>": ""
+        "釣り堀に　さかなが　入っているため|かたづけられません。|<br>|釣り堀に最初からいる　さかな以外の|全てのさかなを　釣る　もしくは　逃せば|かたづけることができます。|<end>": "You can't clean up the fishing pond because|it still has fish in it.|<br>|Either catch all the fish, or let them escape|during a fish battle.|<end>"
     },
     "376": {
-        "釣り堀に　さかなが　入っているため|かたづけられません。|<br>|釣り堀に最初からいる　さかな以外の|全てのさかなを　釣る　もしくは　逃せば|かたづけることができます。|<end>": ""
+        "釣り堀に　さかなが　入っているため|かたづけられません。|<br>|釣り堀に最初からいる　さかな以外の|全てのさかなを　釣る　もしくは　逃せば|かたづけることができます。|<end>": "You can't clean up the fishing pond because|it still has fish in it.|<br>|Either catch all the fish, or let them escape|during a fish battle.|<end>"
     },
     "377": {
-        "おくりものがあるため　かたづけられません。|おくりものを取れば　モンスターのおうちを|かたづけることができます。": ""
+        "おくりものがあるため　かたづけられません。|おくりものを取れば　モンスターのおうちを|かたづけることができます。": "You can't clean this up because you have a|gift waiting. Once you accept it, you can|clean up the monster house."
     },
     "378": {
-        "おくりものがあるため　かたづけられません。|おくりものを取れば　モンスターのおうちを|かたづけることができます。": ""
+        "おくりものがあるため　かたづけられません。|おくりものを取れば　モンスターのおうちを|かたづけることができます。": "You can't clean this up because you have a|gift waiting. Once you accept it, you can|clean up the monster house."
     },
     "379": {
-        "配置中の　庭具をかたづけます。|どこに　もどしますか？|<select_se_off>|つかうものにもどす|庭具倉庫にもどす|<select_end><break>": ""
+        "配置中の　庭具をかたづけます。|どこに　もどしますか？|<select_se_off>|つかうものにもどす|庭具倉庫にもどす|<select_end><break>": "Where would you like to store your placed|garden equipment you're cleaning up?|<select_se_off>|Item Bag|Garden Storage|<select_end><break>"
     },
     "380": {
-        "配置中の　庭具をかたづけます。|どこに　もどしますか？|<select_se_off>|つかうものにもどす|庭具倉庫にもどす|<select_end><break>": ""
+        "配置中の　庭具をかたづけます。|どこに　もどしますか？|<select_se_off>|つかうものにもどす|庭具倉庫にもどす|<select_end><break>": "Where would you like to store your placed|garden equipment you're cleaning up?|<select_se_off>|Item Bag|Garden Storage|<select_end><break>"
     },
     "381": {
-        "ここに　庭具は　配置できません。": ""
+        "ここに　庭具は　配置できません。": "Garden furniture cannot be placed here."
     },
     "382": {
-        "ここに　庭具は　配置できません。": ""
+        "ここに　庭具は　配置できません。": "Garden furniture cannot be placed here."
     },
     "383": {
         "<%sL_FURNITURE>は|庭具倉庫と　庭の敷地を合わせて　１個しか|置けないため　これ以上　配置できません。": ""

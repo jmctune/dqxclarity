@@ -1,6 +1,6 @@
 {
     "1": {
-        "「<pc>さんが　お持ちのスキルブックは|　<%nc_book>冊のようですね。|　そのスキルブックを　お渡しいただけますか？|<yesno><break>": "The Skill Book that you have looks like a|<%nc_book>. Can you give that|Skill Book to me?|<yesno><break>"
+        "「<pc>さんが　お持ちのスキルブックは|　<%nc_book>冊のようですね。|　そのスキルブックを　お渡しいただけますか？|<yesno><break>": "Looks like you have <%dc_book> Skill Books.|Can you give them to me?|<yesno><break>"
     },
     "2": {
         "「おや……。<pc>さんは　スキルブックを|　お持ちでないようですね。|<br>|「スキルブックは　世界各地に散らばっています。　|　お持ちいただけたら　引き換えに|　<color_yellow>マスタースキルポイント<color_white>を　授けましょう。": "Hmm... you don't seem to have any Skill Books.|<br>|Skill Books are scattered all around the|world. If you bring them to me, I will|exchange them for <color_yellow>Master Skill Points<color_white>."

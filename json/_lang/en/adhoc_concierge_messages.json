@@ -2427,7 +2427,7 @@
         "「お待たせいたしました！|　<%sM_OWNER>さまを　サービス会員に|　登録いたしました！|<br>|「サービスご利用の際は　各地の宿屋で|　この服を着て　立っている|　旅のコンシェルジュに　お声かけください。|<br>|「なお　最初のサポートゴールド給付は|　およそ　７日後になります。|<br>|「サポートゴールドは　<%sM_OWNER>さまの|　名声レベルが高いほど　金額が増えますので|　どんどん　名声を高めていってくださいね。|<br>|「ご登録　ありがとうございました。|　あなたの　充実した冒険ライフの|　お手伝いと　なれますように。": ""
     },
     "810": {
-        "「他に　なんか用はあるか？|<break>": ""
+        "「他に　なんか用はあるか？|<break>": "Anything else I can do?|<break>"
     },
     "811": {
         "「コンシェルジュ機能ね。|　はいはい　なんでも聞いてやるよ。|<break>": ""
@@ -4434,10 +4434,10 @@
         "「かしこまりました。|　『クリア時に受け取る』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　その場で受け取れるようになります。": "Understood. I've changed the setting to|\"Receive On Clear\".|<br>|From now on, when you complete the Story or|Quests, you will immediately gain the EXP|reward."
     },
     "1479": {
-        "「現在は　経験値をこちらでお預かりする設定に|　なっています。|　どちらの設定に　変更いたしますか？|<br>|<select_se_off>|クリア時に受け取る|コンシェルジュに預ける|<select_end>|<break>": ""
+        "「現在は　経験値をこちらでお預かりする設定に|　なっています。|　どちらの設定に　変更いたしますか？|<br>|<select_se_off>|クリア時に受け取る|コンシェルジュに預ける|<select_end>|<break>": "The current setting is to store EXP here with|us. Which would you like to change it to?|<br>|<select_se_off>|Receive On Clear|Deposit to Concierge|<select_end>|<break>"
     },
     "1480": {
-        "「かしこまりました。|　『コンシェルジュに預ける』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　こちらでお預かりいたしますので|　受け取りたいときに　いらしてくださいね。": ""
+        "「かしこまりました。|　『コンシェルジュに預ける』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　こちらでお預かりいたしますので|　受け取りたいときに　いらしてくださいね。": "Understood. I've changed the setting to|\"Deposit to Concierge\".|<br>|From now on, EXP from Story or Quests will|come here, so please come see us when you|would like to receive it."
     },
     "1481": {
         "clarity_nt_char_1481": "clarity_nt_char_1481"
@@ -4449,13 +4449,13 @@
         "「現在　ストーリーや　クエストの経験値を|　『クリア時に受け取る』設定になっています。|　どちらの設定に　変更いたしますか？|<select_se_off>|預ける|クリア時に受け取る|<select_end>|<break>": "Story and Quest EXP is currently set to|\"Receive On Clear\". Which setting would you|like to change to?|<select_se_off>|Deposit|Receive On Clear|<select_end>|<break>"
     },
     "1484": {
-        "「かしこまりました。|　『クリア時に受け取る』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　その場で受け取れるようになります。": ""
+        "「かしこまりました。|　『クリア時に受け取る』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　その場で受け取れるようになります。": "Understood. I've changed the setting to|\"Receive On Clear\".|<br>|From now on, when you complete the Story or|Quests, you will immediately gain the EXP|reward."
     },
     "1485": {
-        "「現在は　経験値をこちらでお預かりする設定に|　なっています。|　どちらの設定に　変更いたしますか？|<br>|<select_se_off>|クリア時に受け取る|コンシェルジュに預ける|<select_end>|<break>": ""
+        "「現在は　経験値をこちらでお預かりする設定に|　なっています。|　どちらの設定に　変更いたしますか？|<br>|<select_se_off>|クリア時に受け取る|コンシェルジュに預ける|<select_end>|<break>": "The current setting is to store EXP here with|us. Which would you like to change it to?|<br>|<select_se_off>|Receive On Clear|Deposit to Concierge|<select_end>|<break>"
     },
     "1486": {
-        "「かしこまりました。|　『コンシェルジュに預ける』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　こちらでお預かりいたしますので|　受け取りたいときに　いらしてくださいね。": ""
+        "「かしこまりました。|　『コンシェルジュに預ける』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　こちらでお預かりいたしますので|　受け取りたいときに　いらしてくださいね。": "Understood. I've changed the setting to|\"Deposit to Concierge\".|<br>|From now on, EXP from Story or Quests will|come here, so please come see us when you|would like to receive it."
     },
     "1487": {
         "clarity_nt_char_1487": "clarity_nt_char_1487"
@@ -4467,13 +4467,13 @@
         "「現在　ストーリーや　クエストの経験値を|　『クリア時に受け取る』設定になっています。|　どちらの設定に　変更いたしますか？|<select_se_off>|預ける|クリア時に受け取る|<select_end>|<break>": ""
     },
     "1490": {
-        "「かしこまりました。|　『クリア時に受け取る』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　その場で受け取れるようになります。": ""
+        "「かしこまりました。|　『クリア時に受け取る』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　その場で受け取れるようになります。": "Understood. I've changed the setting to|\"Receive On Clear\".|<br>|From now on, when you complete the Story or|Quests, you will immediately gain the EXP|reward."
     },
     "1491": {
-        "「現在は　経験値をこちらでお預かりする設定に|　なっています。|　どちらの設定に　変更いたしますか？|<br>|<select_se_off>|クリア時に受け取る|コンシェルジュに預ける|<select_end>|<break>": ""
+        "「現在は　経験値をこちらでお預かりする設定に|　なっています。|　どちらの設定に　変更いたしますか？|<br>|<select_se_off>|クリア時に受け取る|コンシェルジュに預ける|<select_end>|<break>": "The current setting is to store EXP here with|us. Which would you like to change it to?|<br>|<select_se_off>|Receive On Clear|Deposit to Concierge|<select_end>|<break>"
     },
     "1492": {
-        "「かしこまりました。|　『コンシェルジュに預ける』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　こちらでお預かりいたしますので|　受け取りたいときに　いらしてくださいね。": ""
+        "「かしこまりました。|　『コンシェルジュに預ける』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　こちらでお預かりいたしますので|　受け取りたいときに　いらしてくださいね。": "Understood. I've changed the setting to|\"Deposit to Concierge\".|<br>|From now on, EXP from Story or Quests will|come here, so please come see us when you|would like to receive it."
     },
     "1493": {
         "clarity_nt_char_1493": "clarity_nt_char_1493"
@@ -4485,13 +4485,13 @@
         "「現在　ストーリーや　クエストの経験値を|　『クリア時に受け取る』設定になっています。|　どちらの設定に　変更いたしますか？|<select_se_off>|預ける|クリア時に受け取る|<select_end>|<break>": ""
     },
     "1496": {
-        "「かしこまりました。|　『クリア時に受け取る』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　その場で受け取れるようになります。": ""
+        "「かしこまりました。|　『クリア時に受け取る』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　その場で受け取れるようになります。": "Understood. I've changed the setting to|\"Receive On Clear\".|<br>|From now on, when you complete the Story or|Quests, you will immediately gain the EXP|reward."
     },
     "1497": {
-        "「現在は　経験値をこちらでお預かりする設定に|　なっています。|　どちらの設定に　変更いたしますか？|<br>|<select_se_off>|クリア時に受け取る|コンシェルジュに預ける|<select_end>|<break>": ""
+        "「現在は　経験値をこちらでお預かりする設定に|　なっています。|　どちらの設定に　変更いたしますか？|<br>|<select_se_off>|クリア時に受け取る|コンシェルジュに預ける|<select_end>|<break>": "The current setting is to store EXP here with|us. Which would you like to change it to?|<br>|<select_se_off>|Receive On Clear|Deposit to Concierge|<select_end>|<break>"
     },
     "1498": {
-        "「かしこまりました。|　『コンシェルジュに預ける』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　こちらでお預かりいたしますので|　受け取りたいときに　いらしてくださいね。": ""
+        "「かしこまりました。|　『コンシェルジュに預ける』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　こちらでお預かりいたしますので|　受け取りたいときに　いらしてくださいね。": "Understood. I've changed the setting to|\"Deposit to Concierge\".|<br>|From now on, EXP from Story or Quests will|come here, so please come see us when you|would like to receive it."
     },
     "1499": {
         "clarity_nt_char_1499": "clarity_nt_char_1499"
@@ -4503,13 +4503,13 @@
         "「現在　ストーリーや　クエストの経験値を|　『クリア時に受け取る』設定になっています。|　どちらの設定に　変更いたしますか？|<select_se_off>|預ける|クリア時に受け取る|<select_end>|<break>": ""
     },
     "1502": {
-        "「かしこまりました。|　『クリア時に受け取る』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　その場で受け取れるようになります。": ""
+        "「かしこまりました。|　『クリア時に受け取る』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　その場で受け取れるようになります。": "Understood. I've changed the setting to|\"Receive On Clear\".|<br>|From now on, when you complete the Story or|Quests, you will immediately gain the EXP|reward."
     },
     "1503": {
-        "「現在は　経験値をこちらでお預かりする設定に|　なっています。|　どちらの設定に　変更いたしますか？|<br>|<select_se_off>|クリア時に受け取る|コンシェルジュに預ける|<select_end>|<break>": ""
+        "「現在は　経験値をこちらでお預かりする設定に|　なっています。|　どちらの設定に　変更いたしますか？|<br>|<select_se_off>|クリア時に受け取る|コンシェルジュに預ける|<select_end>|<break>": "The current setting is to store EXP here with|us. Which would you like to change it to?|<br>|<select_se_off>|Receive On Clear|Deposit to Concierge|<select_end>|<break>"
     },
     "1504": {
-        "「かしこまりました。|　『コンシェルジュに預ける』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　こちらでお預かりいたしますので|　受け取りたいときに　いらしてくださいね。": ""
+        "「かしこまりました。|　『コンシェルジュに預ける』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　こちらでお預かりいたしますので|　受け取りたいときに　いらしてくださいね。": "Understood. I've changed the setting to|\"Deposit to Concierge\".|<br>|From now on, EXP from Story or Quests will|come here, so please come see us when you|would like to receive it."
     },
     "1505": {
         "clarity_nt_char_1505": "clarity_nt_char_1505"
@@ -4521,13 +4521,13 @@
         "「現在　ストーリーや　クエストの経験値を|　『クリア時に受け取る』設定になっています。|　どちらの設定に　変更いたしますか？|<select_se_off>|預ける|クリア時に受け取る|<select_end>|<break>": ""
     },
     "1508": {
-        "「かしこまりました。|　『クリア時に受け取る』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　その場で受け取れるようになります。": ""
+        "「かしこまりました。|　『クリア時に受け取る』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　その場で受け取れるようになります。": "Understood. I've changed the setting to|\"Receive On Clear\".|<br>|From now on, when you complete the Story or|Quests, you will immediately gain the EXP|reward."
     },
     "1509": {
-        "「現在は　経験値をこちらでお預かりする設定に|　なっています。|　どちらの設定に　変更いたしますか？|<br>|<select_se_off>|クリア時に受け取る|コンシェルジュに預ける|<select_end>|<break>": ""
+        "「現在は　経験値をこちらでお預かりする設定に|　なっています。|　どちらの設定に　変更いたしますか？|<br>|<select_se_off>|クリア時に受け取る|コンシェルジュに預ける|<select_end>|<break>": "The current setting is to store EXP here with|us. Which would you like to change it to?|<br>|<select_se_off>|Receive On Clear|Deposit to Concierge|<select_end>|<break>"
     },
     "1510": {
-        "「かしこまりました。|　『コンシェルジュに預ける』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　こちらでお預かりいたしますので|　受け取りたいときに　いらしてくださいね。": ""
+        "「かしこまりました。|　『コンシェルジュに預ける』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　こちらでお預かりいたしますので|　受け取りたいときに　いらしてくださいね。": "Understood. I've changed the setting to|\"Deposit to Concierge\".|<br>|From now on, EXP from Story or Quests will|come here, so please come see us when you|would like to receive it."
     },
     "1511": {
         "clarity_nt_char_1511": "clarity_nt_char_1511"
@@ -4539,13 +4539,13 @@
         "「現在　ストーリーや　クエストの経験値を|　『クリア時に受け取る』設定になっています。|　どちらの設定に　変更いたしますか？|<select_se_off>|預ける|クリア時に受け取る|<select_end>|<break>": ""
     },
     "1514": {
-        "「かしこまりました。|　『クリア時に受け取る』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　その場で受け取れるようになります。": ""
+        "「かしこまりました。|　『クリア時に受け取る』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　その場で受け取れるようになります。": "Understood. I've changed the setting to|\"Receive On Clear\".|<br>|From now on, when you complete the Story or|Quests, you will immediately gain the EXP|reward."
     },
     "1515": {
-        "「現在は　経験値をこちらでお預かりする設定に|　なっています。|　どちらの設定に　変更いたしますか？|<br>|<select_se_off>|クリア時に受け取る|コンシェルジュに預ける|<select_end>|<break>": ""
+        "「現在は　経験値をこちらでお預かりする設定に|　なっています。|　どちらの設定に　変更いたしますか？|<br>|<select_se_off>|クリア時に受け取る|コンシェルジュに預ける|<select_end>|<break>": "The current setting is to store EXP here with|us. Which would you like to change it to?|<br>|<select_se_off>|Receive On Clear|Deposit to Concierge|<select_end>|<break>"
     },
     "1516": {
-        "「かしこまりました。|　『コンシェルジュに預ける』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　こちらでお預かりいたしますので|　受け取りたいときに　いらしてくださいね。": ""
+        "「かしこまりました。|　『コンシェルジュに預ける』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　こちらでお預かりいたしますので|　受け取りたいときに　いらしてくださいね。": "Understood. I've changed the setting to|\"Deposit to Concierge\".|<br>|From now on, EXP from Story or Quests will|come here, so please come see us when you|would like to receive it."
     },
     "1517": {
         "clarity_nt_char_1517": "clarity_nt_char_1517"
@@ -4557,13 +4557,13 @@
         "「現在　ストーリーや　クエストの経験値を|　『クリア時に受け取る』設定になっています。|　どちらの設定に　変更いたしますか？|<select_se_off>|預ける|クリア時に受け取る|<select_end>|<break>": ""
     },
     "1520": {
-        "「かしこまりました。|　『クリア時に受け取る』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　その場で受け取れるようになります。": ""
+        "「かしこまりました。|　『クリア時に受け取る』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　その場で受け取れるようになります。": "Understood. I've changed the setting to|\"Receive On Clear\".|<br>|From now on, when you complete the Story or|Quests, you will immediately gain the EXP|reward."
     },
     "1521": {
-        "「現在は　経験値をこちらでお預かりする設定に|　なっています。|　どちらの設定に　変更いたしますか？|<br>|<select_se_off>|クリア時に受け取る|コンシェルジュに預ける|<select_end>|<break>": ""
+        "「現在は　経験値をこちらでお預かりする設定に|　なっています。|　どちらの設定に　変更いたしますか？|<br>|<select_se_off>|クリア時に受け取る|コンシェルジュに預ける|<select_end>|<break>": "The current setting is to store EXP here with|us. Which would you like to change it to?|<br>|<select_se_off>|Receive On Clear|Deposit to Concierge|<select_end>|<break>"
     },
     "1522": {
-        "「かしこまりました。|　『コンシェルジュに預ける』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　こちらでお預かりいたしますので|　受け取りたいときに　いらしてくださいね。": ""
+        "「かしこまりました。|　『コンシェルジュに預ける』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　こちらでお預かりいたしますので|　受け取りたいときに　いらしてくださいね。": "Understood. I've changed the setting to|\"Deposit to Concierge\".|<br>|From now on, EXP from Story or Quests will|come here, so please come see us when you|would like to receive it."
     },
     "1523": {
         "clarity_nt_char_1523": "clarity_nt_char_1523"
