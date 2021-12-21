@@ -175,26 +175,32 @@ def inject_py_shellcode(shellcode: str):
     '''
     return PYM_PROCESS.inject_python_shellcode(shellcode)
 
-def generic_detour(hook_name: str, pre_hook: dict, shellcode: str, signature: bytes, num_bytes_to_steal: int) -> dict:
+def generic_detour(hook_name: str, pre_hook: dict, signature: bytes, num_bytes_to_steal: int, shellcode='', custom_bytecode=b'', initial_write=False) -> dict:
     '''
     Generic hook that should cover most hook needs.
     Returns a dict of hook_name, detour_address, shellcode_addr, original_bytes and hook_bytes.
     '''
     detour_address = pattern_scan(signature, module='DQXGame.exe')
 
-    pyrun_simplestring_addr = pattern_scan(pyrun_simplestring, module='python39.dll')
-    py_initialize_ex_addr = pattern_scan(py_initialize_ex, module='python39.dll')
-    shellcode_addr = allocate_memory(len(shellcode))
+    if shellcode:
+        pyrun_simplestring_addr = pattern_scan(pyrun_simplestring, module='python39.dll')
+        py_initialize_ex_addr = pattern_scan(py_initialize_ex, module='python39.dll')
+        shellcode_addr = allocate_memory(len(shellcode))
 
-    # write our shellcode
-    write_string(shellcode_addr, shellcode)
+        # write our shellcode
+        write_string(shellcode_addr, shellcode)
 
-    bytecode = (b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'], py_initialize_ex_addr))  # call py_initialize_ex_addr
-    bytecode += (b'\x68' + bytes(pack_to_int(shellcode_addr))) # push shellcode_addr
-    bytecode += (b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'] + len(bytecode), pyrun_simplestring_addr)) # push py_run_simple_string_addr
+        bytecode = (b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'], py_initialize_ex_addr))  # call py_initialize_ex_addr
+        bytecode += (b'\x68' + bytes(pack_to_int(shellcode_addr))) # push shellcode_addr
+        bytecode += (b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'] + len(bytecode), pyrun_simplestring_addr)) # push py_run_simple_string_addr
 
-    # # write our hook code
-    write_bytes(pre_hook['begin_hook_insts'], bytecode)
+        # write our hook code
+        write_bytes(pre_hook['begin_hook_insts'], bytecode)
+    
+    elif custom_bytecode:
+        bytecode = custom_bytecode
+        shellcode_addr = 0
+        write_bytes(pre_hook['begin_hook_insts'], bytecode)
 
     # revert our registers to before the hooking took place
     post_hook = write_post_hook_registers(pre_hook['begin_reg_values'], pre_hook['begin_hook_insts'] + len(bytecode))
@@ -206,7 +212,11 @@ def generic_detour(hook_name: str, pre_hook: dict, shellcode: str, signature: by
     write_bytes(post_hook['end_mov_insts'], stolen_bytecode)
 
     # jmp back to original function
-    bytecode = (b'\xE9' + calc_rel_addr(post_hook['end_mov_insts'] + num_bytes_to_steal, detour_address))
+    if num_bytes_to_steal > 5:
+        count = num_bytes_to_steal - 5
+    else:
+        count = 0
+    bytecode = (b'\xE9' + calc_rel_addr(post_hook['end_mov_insts'] + num_bytes_to_steal, detour_address + count))
     write_bytes(post_hook['end_mov_insts'] + num_bytes_to_steal, bytecode)
 
     # finally, write our mid function hook
@@ -216,7 +226,8 @@ def generic_detour(hook_name: str, pre_hook: dict, shellcode: str, signature: by
         for i in range(count):
             hook_bytecode += b'\x90'
 
-    #write_bytes(detour_address, hook_bytecode)
+    if initial_write:
+        write_bytes(detour_address, hook_bytecode)
 
     logger.debug(f"{hook_name} address:      {hex(pre_hook['begin_mov_insts'])}")
     logger.debug(f"Shellcode address:        {hex(shellcode_addr)}")
@@ -249,9 +260,9 @@ def translate_detour(debug: bool):
     detour = generic_detour(
         inspect.currentframe().f_code.co_name,
         pre_hook,
-        shellcode,
         dialog_trigger,
-        bytes_to_steal
+        bytes_to_steal,
+        shellcode=shellcode
     )
 
     return detour
@@ -279,9 +290,9 @@ def cutscene_detour(debug: bool):
     detour = generic_detour(
         inspect.currentframe().f_code.co_name,
         pre_hook,
-        shellcode,
         cutscene_trigger,
-        bytes_to_steal
+        bytes_to_steal,
+        shellcode=shellcode
     )
 
     return detour
@@ -302,9 +313,9 @@ def cutscene_file_dump_detour():
     detour = generic_detour(
         inspect.currentframe().f_code.co_name,
         pre_hook,
-        shellcode,
         cutscene_adhoc_files,
-        bytes_to_steal
+        bytes_to_steal,
+        shellcode=shellcode
     )
 
     return detour
@@ -334,9 +345,9 @@ def quest_text_detour(debug: bool):
     detour = generic_detour(
         inspect.currentframe().f_code.co_name,
         pre_hook,
-        shellcode,
         quest_text_trigger,
-        bytes_to_steal
+        bytes_to_steal,
+        shellcode=shellcode
     )
 
     return detour
@@ -348,50 +359,109 @@ def loading_detour(debug: bool):
     '''
     inject_python_dll()
 
+    #bytes_to_steal = 17
+    bytes_to_steal = 5
+
+    pre_hook = write_pre_hook_registers()
+
+    # first, write the loading detour from the generic_detour function. this will give us the
+    # loading hook data we need to write our asm. what we do here doesn't matter, we just need
+    # the stolen bytes and location of the hook.
+    loading_detour = generic_detour(
+        inspect.currentframe().f_code.co_name,
+        pre_hook,
+        loading_pattern,
+        bytes_to_steal,
+        custom_bytecode=b'\x00'
+    )
+
     # add any new hooks to this list
     hooks = []
     hooks.append(translate_detour(debug))
     hooks.append(cutscene_detour(debug))
     hooks.append(cutscene_file_dump_detour())
-    hooks.append(quest_text_detour(debug))
-
-    bytes_to_steal = 8
-
-    pre_hook = write_pre_hook_registers()
-    eax = pre_hook['reg_eax']
+    #hooks.append(quest_text_detour(debug))
+    hooks.append(loading_detour)
 
     # this address will serve to tell an external script whether or not hooks are active,
-    # as well as where the value of eax is when it gets updated.
-    state_address = allocate_memory(10)
+    # as well as where the value of edi is when it gets updated, which provides whether or not
+    # active loading is going on.
+    state_address = allocate_memory(1)
 
-    shellcode = loading_shellcode(
-        eax,
-        state_address,
-        hooks
+    # allocate memory to perform these unhook instructions
+    unhook_address = allocate_memory(1)
+
+    # mov edi to our state address
+    packed_addr = struct.pack('<i', state_address + 1)
+    bytecode = b'\x89\x3D' + packed_addr  # mov [state_address], edi    
+
+    # construct our asm to detach the hooks
+    for hook in hooks:
+        orig_address = hook['detour_address']
+        orig_bytes = hook['original_bytes']
+        for byte in orig_bytes:
+            packed_address = struct.pack('<i', orig_address)
+            bytecode += b'\xC6\x05'                # mov byte ptr
+            bytecode += packed_address             # address to move byte to
+            bytecode += byte.to_bytes(1, 'little') # byte to move
+            orig_address += 1
+
+    # update our state byte to 00 because we're unhooked
+    bytecode += b'\xC6\x05'                      # mov byte ptr
+    bytecode += struct.pack('<i', state_address) # state_address
+    bytecode += b'\x00'                          # 00 to tell us our hooks are inactive
+
+    # jmp back to where we hooked
+    if bytes_to_steal > 5:
+        count = bytes_to_steal - 5
+    else:
+        count = 0
+    bytecode += (b'\xE9' + calc_rel_addr(unhook_address + len(bytecode), loading_detour['detour_address'] - bytes_to_steal - 14))
+
+    # we'll put the stolen bytes at the bottom. if we're in combat, we don't want to unhook as this
+    # will cause the game to crash. instead, we'll compare the bytes that tell us we're in combat.
+    # if edi+5 != 00 00 00 00, we're in combat. execute the bytes like normal and stay hooked.
+    pre_bytecode = b'\x81\x7F\x04\x00\x00\x00\x00\x90'  # cmp [edi+5], 00000000
+    pre_bytecode += b'\x0F\x85' + calc_rel_addr(unhook_address + len(pre_bytecode), unhook_address + len(bytecode) + 13)  # jg [hook_bytes addr]
+    bytecode = pre_bytecode + bytecode  # prepend our cmp bytes to the beginning
+    bytecode += loading_detour['original_bytes']  # append original bytes
+
+    if bytes_to_steal > 5:
+        count = bytes_to_steal - 5
+    else:
+        count = 0
+    bytecode += (b'\xE9' + calc_rel_addr(unhook_address + len(bytecode), loading_detour['detour_address'] + count))
+
+    # write our unhook bytes
+    write_bytes(unhook_address, bytecode)
+
+    # activate our state byte because the loading hook is active
+    hook_bytecode = (b'\xE9' + calc_rel_addr(loading_detour['detour_address'], unhook_address))
+    if bytes_to_steal > 5:
+        count = bytes_to_steal - 5
+        for i in range(count):
+            hook_bytecode += b'\x90'
+
+    write_bytes(loading_detour['detour_address'], hook_bytecode)
+    write_bytes(state_address, b'\x01')
+
+    loading_hook = convert_dict(
+        loading_detour['hook_name'],
+        loading_detour['detour_address'],
+        0,
+        loading_detour['original_bytes'],
+        hook_bytecode
     )
 
-    detour = generic_detour(
-        inspect.currentframe().f_code.co_name,
-        pre_hook,
-        shellcode,
-        loading_pattern,
-        bytes_to_steal
-    )
+    # remove the old loading detour and replace with the modified one
+    for i in range(len(hooks)):
+        if hooks[i]['hook_name'] == 'loading_detour':
+            del hooks[i]
+            break
+    hooks.append(loading_hook)
 
-    # we need this hook to be part of our hook list as this should also 
-    # be unloaded on loading
-    hooks.append(detour)
-
-    # re-create our shellcode with the added loading hook and re-write over 
-    # the existing shellcode address
-    shellcode = loading_shellcode(
-        eax,
-        state_address,
-        hooks
-    )
-
-    write_string(detour['shellcode_address'], shellcode)
     logger.debug(f'State address: {hex(state_address)}')
+    logger.debug(f'Unhook address: {hex(unhook_address)}')
     load_unload_hooks(hooks, state_address, debug)
 
 PYM_PROCESS = dqx_mem()

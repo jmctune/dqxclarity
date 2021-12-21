@@ -267,16 +267,16 @@
         "呪文発動速度 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Spell Cast Speed +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "90": {
-        "ＭＰ吸収率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": ""
+        "ＭＰ吸収率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "MP Absorption +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "91": {
         "clarity_nt_char_91": "clarity_nt_char_91"
     },
     "92": {
-        "ブレス系ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": "Breath Damage Reduction <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "ブレス系ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": "Breath Damage Down <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "93": {
-        "攻撃呪文ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": "Spell Damage Reduction <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "攻撃呪文ダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": "Spell Damage Down <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "94": {
         "眠りガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Sleep Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -291,7 +291,7 @@
         "clarity_nt_char_97": "clarity_nt_char_97"
     },
     "98": {
-        "混乱ガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Confusion Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "混乱ガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Confuse Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "99": {
         "clarity_nt_char_99": "clarity_nt_char_99"
@@ -327,13 +327,13 @@
         "clarity_nt_char_109": "clarity_nt_char_109"
     },
     "110": {
-        "休みガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "休みガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Stun Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "111": {
         "clarity_nt_char_111": "clarity_nt_char_111"
     },
     "112": {
-        "見とれるガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "見とれるガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Surprise Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "113": {
         "clarity_nt_char_113": "clarity_nt_char_113"
@@ -477,7 +477,7 @@
         "しばりガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Restraint Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "160": {
-        "笑いガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "笑いガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Laugh Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "161": {
         "clarity_nt_char_161": "clarity_nt_char_161"
@@ -525,7 +525,7 @@
         "clarity_nt_char_175": "clarity_nt_char_175"
     },
     "176": {
-        "ＭＰ吸収率 +<%sB_renkin1>.<%sB_renkin2>%<%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_percent><%sB_kokka>": ""
+        "ＭＰ吸収率 +<%sB_renkin1>.<%sB_renkin2>%<%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_percent><%sB_kokka>": "MP Absorption +<%sB_renkin1>.<%sB_renkin2>%<%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_percent><%sB_kokka>"
     },
     "177": {
         "戦闘勝利時に ＭＰが1～3回復": "Recover 1-3 MP After Battle"
@@ -639,7 +639,7 @@
         "clarity_nt_char_213": "clarity_nt_char_213"
     },
     "214": {
-        "<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%の確率で受けたダメージ10%反射": ""
+        "<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%の確率で受けたダメージ10%反射": "Chance to Reflect 10% of Damage <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "215": {
         "攻撃ダメージの <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>% ＨＰが回復": "<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>% Damage Recovered as HP"
@@ -1419,7 +1419,7 @@
         "ヤリ装備時　呪文発動速度 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Spear Spell Cast Speed +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "474": {
-        "両手杖装備時　呪文ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "両手杖装備時　呪文ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Staff Spell Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "475": {
         "clarity_nt_char_475": "clarity_nt_char_475"
@@ -1572,7 +1572,7 @@
         "clarity_nt_char_524": "clarity_nt_char_524"
     },
     "525": {
-        "きまぐれが起こる確率が上がる(試合無効)": "Increased Whimsical action chance (No PvP)"
+        "きまぐれが起こる確率が上がる(試合無効)": "Whimsical Action Chance Up (No PvP)"
     },
     "526": {
         "clarity_nt_char_526": "clarity_nt_char_526"
@@ -1632,19 +1632,19 @@
         "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でスカラ": "Battle Start Buff <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "545": {
-        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でマホキテ": "Battle Start Absorb Magic<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でマホキテ": "Btl. Start Absorb Magic <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "546": {
         "clarity_nt_char_546": "clarity_nt_char_546"
     },
     "547": {
-        "星天率 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "星天率 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Star Rate +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "548": {
         "clarity_nt_char_548": "clarity_nt_char_548"
     },
     "549": {
-        "晴天率 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "晴天率 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Sun Rate +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "550": {
         "clarity_nt_char_550": "clarity_nt_char_550"
@@ -2103,7 +2103,7 @@
         "開戦時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でピオラ": "Battle Start Accel <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "702": {
-        "開戦時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でマホキテ": "Battle Start Absorb Magic<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "開戦時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でマホキテ": "Btl. Start Absorb Magic <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "703": {
         "clarity_nt_char_703": "clarity_nt_char_703"
@@ -2244,7 +2244,7 @@
         "clarity_nt_char_748": "clarity_nt_char_748"
     },
     "749": {
-        "絆の発動率 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "絆の発動率 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Bond Rate +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "750": {
         "clarity_nt_char_750": "clarity_nt_char_750"
@@ -6102,7 +6102,7 @@
         "clarity_nt_char_2034": "clarity_nt_char_2034"
     },
     "2035": {
-        "攻撃時 ？%でミスする": ""
+        "攻撃時 ？%でミスする": "Miss Attack ?%"
     },
     "2036": {
         "攻撃時 ？%で急所突き": "Weak Point Attack ?%"
@@ -6924,13 +6924,13 @@
         "行動時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でバイシオンとスカラ": "Oomph & Buff On Action <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "2309": {
-        "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でヘナトスとルカニ": ""
+        "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でヘナトスとルカニ": "Blunt & Sap On Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "2310": {
         "clarity_nt_char_2310": "clarity_nt_char_2310"
     },
     "2311": {
-        "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でボミエと呪文威力低下": ""
+        "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でボミエと呪文威力低下": "Decel & Spell Power Down On Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "2312": {
         "clarity_nt_char_2312": "clarity_nt_char_2312"
@@ -7674,7 +7674,7 @@
         "clarity_nt_char_2558": "clarity_nt_char_2558"
     },
     "2559": {
-        "低下系ガード率＋99％(-99%)": ""
+        "低下系ガード率＋99％(-99%)": "Debuff Guard Rate +99% (-99%)"
     },
     "2560": {
         "特技のダメージ +<%sB_renkin1>": ""
@@ -7689,7 +7689,7 @@
         "clarity_nt_char_2563": "clarity_nt_char_2563"
     },
     "2564": {
-        "行動時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でためる": ""
+        "行動時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でためる": "Tension On Action <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "2565": {
         "呪文のダメージ +<%sB_renkin1>": ""
@@ -7701,25 +7701,25 @@
         "特技の回復量 +<%sB_renkin1>": ""
     },
     "2568": {
-        "かえん斬りの威力 +<%sB_renkin1>%": ""
+        "かえん斬りの威力 +<%sB_renkin1>%": "Flame Slash Power +<%sB_renkin1>%"
     },
     "2569": {
         "clarity_nt_char_2569": "clarity_nt_char_2569"
     },
     "2570": {
-        "はやぶさ斬りの威力 +<%sB_renkin1>%": ""
+        "はやぶさ斬りの威力 +<%sB_renkin1>%": "Falcon Slash +<%sB_renkin1>%"
     },
     "2571": {
-        "超はやぶさ斬りの威力 +<%sB_renkin1>%": ""
+        "超はやぶさ斬りの威力 +<%sB_renkin1>%": "Gyrfalcon Slash Power +<%sB_renkin1>%"
     },
     "2572": {
         "clarity_nt_char_2572": "clarity_nt_char_2572"
     },
     "2573": {
-        "不死鳥天舞Ⅲの威力 +<%sB_renkin1>%": ""
+        "不死鳥天舞Ⅲの威力 +<%sB_renkin1>%": "Phoenix Dance Ⅲ Power +<%sB_renkin1>%"
     },
     "2574": {
-        "アルテマソードⅡの威力 +<%sB_renkin1>%": ""
+        "アルテマソードⅡの威力 +<%sB_renkin1>%": "Ultimate Blade Ⅱ Power +<%sB_renkin1>%"
     },
     "2575": {
         "ぶんまわしの威力 +<%sB_renkin1>%": "Helichopter Power +<%sB_renkin1>%"
@@ -7731,43 +7731,43 @@
         "ブレードガード効果時間 +<%sB_renkin1>秒": ""
     },
     "2578": {
-        "フリーズブレードの威力 +<%sB_renkin1>%": ""
+        "フリーズブレードの威力 +<%sB_renkin1>%": "Frost Fangs Power +<%sB_renkin1>%"
     },
     "2579": {
-        "ビッグバンの威力 +<%sB_renkin1>%": ""
+        "ビッグバンの威力 +<%sB_renkin1>%": "Big Banga Power +<%sB_renkin1>%"
     },
     "2580": {
         "clarity_nt_char_2580": "clarity_nt_char_2580"
     },
     "2581": {
-        "プラズマブレードⅢの威力 +<%sB_renkin1>%": ""
+        "プラズマブレードⅢの威力 +<%sB_renkin1>%": "Plasma Blade Ⅲ Power +<%sB_renkin1>%"
     },
     "2582": {
         "clarity_nt_char_2582": "clarity_nt_char_2582"
     },
     "2583": {
-        "大旋風斬りⅡの威力 +<%sB_renkin1>%": ""
+        "大旋風斬りⅡの威力 +<%sB_renkin1>%": "Swirlwind Ⅱ Power +<%sB_renkin1>%"
     },
     "2584": {
-        "ダークマターの威力 +<%sB_renkin1>%": ""
+        "ダークマターの威力 +<%sB_renkin1>%": "Dark Matter Power +<%sB_renkin1>%"
     },
     "2585": {
-        "とうこん討ちの威力 +<%sB_renkin1>%": ""
+        "とうこん討ちの威力 +<%sB_renkin1>%": "Clap Trap Power +<%sB_renkin1>%"
     },
     "2586": {
-        "回復のララバイ発動速度 +<%sB_renkin1>%": ""
+        "回復のララバイ発動速度 +<%sB_renkin1>%": "Healing Lullaby Cast Speed +<%sB_renkin1>%"
     },
     "2587": {
-        "よみがえり節の発動速度 +<%sB_renkin1>%": ""
+        "よみがえり節の発動速度 +<%sB_renkin1>%": "Revival Clause Cast Speed +<%sB_renkin1>%"
     },
     "2588": {
-        "あんこくのきりの成功率 +<%sB_renkin1>%": ""
+        "あんこくのきりの成功率 +<%sB_renkin1>%": "Dark Fog Success +<%sB_renkin1>%"
     },
     "2589": {
         "ウォークライの効果時間 +<%sB_renkin1>秒": ""
     },
     "2590": {
-        "つるぎの舞の威力 +<%sB_renkin1>%": ""
+        "つるぎの舞の威力 +<%sB_renkin1>%": "Swords Dance Power +<%sB_renkin1>%"
     },
     "2591": {
         "clarity_nt_char_2591": "clarity_nt_char_2591"
@@ -7776,10 +7776,10 @@
         "ミラクルブーストの効果 +<%sB_renkin1>秒": ""
     },
     "2593": {
-        "フォースブレイク成功率 +<%sB_renkin1>%": ""
+        "フォースブレイク成功率 +<%sB_renkin1>%": "Fource Break Success +<%sB_renkin1>%"
     },
     "2594": {
-        "キラージャグリング威力 +<%sB_renkin1>%": ""
+        "キラージャグリング威力 +<%sB_renkin1>%": "Have A Ball Power +<%sB_renkin1>%"
     },
     "2595": {
         "ためる参で追加テンション": ""
@@ -7788,22 +7788,22 @@
         "clarity_nt_char_2596": "clarity_nt_char_2596"
     },
     "2597": {
-        "天下無双の威力 +<%sB_renkin1>%": ""
+        "天下無双の威力 +<%sB_renkin1>%": "A Cut Above Power +<%sB_renkin1>%"
     },
     "2598": {
-        "ひゃくれつなめの成功率 +<%sB_renkin1>%": ""
+        "ひゃくれつなめの成功率 +<%sB_renkin1>%": "Tongue Bashing Success +<%sB_renkin1>%"
     },
     "2599": {
-        "古今無双Ⅱの威力 +<%sB_renkin1>%": ""
+        "古今無双Ⅱの威力 +<%sB_renkin1>%": "Kokon Musou Ⅱ Power +<%sB_renkin1>%"
     },
     "2600": {
         "clarity_nt_char_2600": "clarity_nt_char_2600"
     },
     "2601": {
-        "真・やいばくだきの威力 +<%sB_renkin1>%": ""
+        "真・やいばくだきの威力 +<%sB_renkin1>%": "True Attack Attacker Power +<%sB_renkin1>%"
     },
     "2602": {
-        "プラズマリムーバー速度 +<%sB_renkin1>%": ""
+        "プラズマリムーバー速度 +<%sB_renkin1>%": "Plasma Remover Speed +<%sB_renkin1>%"
     },
     "2603": {
         "早詠みの杖の効果時間 +<%sB_renkin1>秒": ""
@@ -7818,52 +7818,52 @@
         "clarity_nt_char_2606": "clarity_nt_char_2606"
     },
     "2607": {
-        "メラゾーマの詠唱速度 +<%sB_renkin1>%": ""
+        "メラゾーマの詠唱速度 +<%sB_renkin1>%": "Kafrizz Cast Speed +<%sB_renkin1>%"
     },
     "2608": {
         "clarity_nt_char_2608": "clarity_nt_char_2608"
     },
     "2609": {
-        "メラガイアーの詠唱速度 +<%sB_renkin1>%": ""
+        "メラガイアーの詠唱速度 +<%sB_renkin1>%": "Kafrizzle Cast Speed +<%sB_renkin1>%"
     },
     "2610": {
-        "マヒャドの詠唱速度 +<%sB_renkin1>%": ""
+        "マヒャドの詠唱速度 +<%sB_renkin1>%": "Kacrack Cast Speed +<%sB_renkin1>%"
     },
     "2611": {
-        "マヒャデドスの詠唱速度 +<%sB_renkin1>%": ""
+        "マヒャデドスの詠唱速度 +<%sB_renkin1>%": "Kacrackle Cast Speed +<%sB_renkin1>%"
     },
     "2612": {
-        "魔力かくせいの発動速度 +<%sB_renkin1>%": ""
+        "魔力かくせいの発動速度 +<%sB_renkin1>%": "Channel Anger Speed +<%sB_renkin1>%"
     },
     "2613": {
-        "イオナズンの詠唱速度 +<%sB_renkin1>%": ""
+        "イオナズンの詠唱速度 +<%sB_renkin1>%": "Kaboom Cast Speed +<%sB_renkin1>%"
     },
     "2614": {
         "clarity_nt_char_2614": "clarity_nt_char_2614"
     },
     "2615": {
-        "イオグランデの詠唱速度 +<%sB_renkin1>%": ""
+        "イオグランデの詠唱速度 +<%sB_renkin1>%": "Kaboomle Cast Speed +<%sB_renkin1>%"
     },
     "2616": {
-        "ドルモーアの詠唱速度 +<%sB_renkin1>%": ""
+        "ドルモーアの詠唱速度 +<%sB_renkin1>%": "Kazam Cast Speed +<%sB_renkin1>%"
     },
     "2617": {
         "clarity_nt_char_2617": "clarity_nt_char_2617"
     },
     "2618": {
-        "ドルマドンの詠唱速度 +<%sB_renkin1>%": ""
+        "ドルマドンの詠唱速度 +<%sB_renkin1>%": "Kazammle Cast Speed +<%sB_renkin1>%"
     },
     "2619": {
         "clarity_nt_char_2619": "clarity_nt_char_2619"
     },
     "2620": {
-        "バギクロスの詠唱速度 +<%sB_renkin1>%": ""
+        "バギクロスの詠唱速度 +<%sB_renkin1>%": "Kaswoosh Cast Speed +<%sB_renkin1>%"
     },
     "2621": {
         "clarity_nt_char_2621": "clarity_nt_char_2621"
     },
     "2622": {
-        "バギムーチョの詠唱速度 +<%sB_renkin1>%": ""
+        "バギムーチョの詠唱速度 +<%sB_renkin1>%": "Kaswooshle Cast Speed +<%sB_renkin1>%"
     },
     "2623": {
         "開戦時○%でキラキラポーン": ""
@@ -7890,22 +7890,22 @@
         "clarity_nt_char_2630": "clarity_nt_char_2630"
     },
     "2631": {
-        "いやしの雨の発動速度 +<%sB_renkin1>%": ""
+        "いやしの雨の発動速度 +<%sB_renkin1>%": "Healing Rain Speed +<%sB_renkin1>%"
     },
     "2632": {
         "clarity_nt_char_2632": "clarity_nt_char_2632"
     },
     "2633": {
-        "ベホマラーの回復量 +<%sB_renkin1>%": ""
+        "ベホマラーの回復量 +<%sB_renkin1>%": "Multiheal Recovery +<%sB_renkin1>%"
     },
     "2634": {
-        "ベホイムの回復量 +<%sB_renkin1>%": ""
+        "ベホイムの回復量 +<%sB_renkin1>%": "Moreheal Recovery +<%sB_renkin1>%"
     },
     "2635": {
         "clarity_nt_char_2635": "clarity_nt_char_2635"
     },
     "2636": {
-        "ベホイミの回復量 +<%sB_renkin1>%": ""
+        "ベホイミの回復量 +<%sB_renkin1>%": "Midheal Recovery +<%sB_renkin1>%"
     },
     "2637": {
         "clarity_nt_char_2637": "clarity_nt_char_2637"
@@ -7920,16 +7920,16 @@
         "clarity_nt_char_2640": "clarity_nt_char_2640"
     },
     "2641": {
-        "ちからの盾Ⅱ回復量 +<%sB_renkin1>%": ""
+        "ちからの盾Ⅱ回復量 +<%sB_renkin1>%": "Power Shield Ⅱ Recovery +<%sB_renkin1>%"
     },
     "2642": {
-        "天使の守りの発動速度 +<%sB_renkin1>%": ""
+        "天使の守りの発動速度 +<%sB_renkin1>%": "Goddess' Grace Speed +<%sB_renkin1>%"
     },
     "2643": {
         "clarity_nt_char_2643": "clarity_nt_char_2643"
     },
     "2644": {
-        "聖女の守りの発動速度 +<%sB_renkin1>%": ""
+        "聖女の守りの発動速度 +<%sB_renkin1>%": "Alma Mater Speed +<%sB_renkin1>%"
     },
     "2645": {
         "clarity_nt_char_2645": "clarity_nt_char_2645"
@@ -7941,31 +7941,31 @@
         "clarity_nt_char_2647": "clarity_nt_char_2647"
     },
     "2648": {
-        "やいばくだきの威力 +<%sB_renkin1>%": ""
+        "やいばくだきの威力 +<%sB_renkin1>%": "Attack Attacker Power +<%sB_renkin1>%"
     },
     "2649": {
-        "まねまねⅢの反射ダメージ +<%sB_renkin1>%": ""
+        "まねまねⅢの反射ダメージ +<%sB_renkin1>%": "Follow Suit Ⅲ Reflect Damage +<%sB_renkin1>%"
     },
     "2650": {
         "clarity_nt_char_2650": "clarity_nt_char_2650"
     },
     "2651": {
-        "ビーストファングⅡの威力 +<%sB_renkin1>%": ""
+        "ビーストファングⅡの威力 +<%sB_renkin1>%": "Beast Fang Ⅱ Power +<%sB_renkin1>%"
     },
     "2652": {
         "clarity_nt_char_2652": "clarity_nt_char_2652"
     },
     "2653": {
-        "打成一片Ⅱの威力 +<%sB_renkin1>%": ""
+        "打成一片Ⅱの威力 +<%sB_renkin1>%": "Become One Ⅱ Power +<%sB_renkin1>%"
     },
     "2654": {
         "clarity_nt_char_2654": "clarity_nt_char_2654"
     },
     "2655": {
-        "不死鳥天舞Ⅰの威力 +<%sB_renkin1>%": ""
+        "不死鳥天舞Ⅰの威力 +<%sB_renkin1>%": "Phoenix Dance Ⅰ Power +<%sB_renkin1>%"
     },
     "2656": {
-        "不死鳥天舞Ⅱの威力 +<%sB_renkin1>%": ""
+        "不死鳥天舞Ⅱの威力 +<%sB_renkin1>%": "Phoenix Dance Ⅱ Power +<%sB_renkin1>%"
     },
     "2657": {
         "見とれるガード +？%": "Surprise Guard +?%"
@@ -7977,85 +7977,85 @@
         "clarity_nt_char_2659": "clarity_nt_char_2659"
     },
     "2660": {
-        "もろば斬りの威力 +<%sB_renkin1>%": ""
+        "もろば斬りの威力 +<%sB_renkin1>%": "Double-Edged Power +<%sB_renkin1>%"
     },
     "2661": {
         "clarity_nt_char_2661": "clarity_nt_char_2661"
     },
     "2662": {
-        "メラ系とギラ系呪文威力 +<%sB_renkin1>%": ""
+        "メラ系とギラ系呪文威力 +<%sB_renkin1>%": "Frizz/Sizz-type Spell Power +<%sB_renkin1>%"
     },
     "2663": {
-        "ミラクルソードの回復量 +<%sB_renkin1>%": ""
+        "ミラクルソードの回復量 +<%sB_renkin1>%": "Miracle Slash Recovery +<%sB_renkin1>%"
     },
     "2664": {
-        "いなずまの威力 +<%sB_renkin1>%": ""
+        "いなずまの威力 +<%sB_renkin1>%": "Lightning Power +<%sB_renkin1>%"
     },
     "2665": {
-        "ギガスラッシュの威力 +<%sB_renkin1>%": ""
+        "ギガスラッシュの威力 +<%sB_renkin1>%": "Gigaslash Power +<%sB_renkin1>%"
     },
     "2666": {
         "clarity_nt_char_2666": "clarity_nt_char_2666"
     },
     "2667": {
-        "ギガブレイクの威力 +<%sB_renkin1>%": ""
+        "ギガブレイクの威力 +<%sB_renkin1>%": "Gigagash Power +<%sB_renkin1>%"
     },
     "2668": {
-        "渾身斬りの威力 +<%sB_renkin1>%": ""
+        "渾身斬りの威力 +<%sB_renkin1>%": "Cutting Edge Power +<%sB_renkin1>%"
     },
     "2669": {
-        "無心こうげきの威力 +<%sB_renkin1>%": ""
+        "無心こうげきの威力 +<%sB_renkin1>%": "Blind Man's Biff Power +<%sB_renkin1>%"
     },
     "2670": {
-        "めいどうふうまの威力 +<%sB_renkin1>%": ""
+        "めいどうふうまの威力 +<%sB_renkin1>%": "King Fissure Power +<%sB_renkin1>%"
     },
     "2671": {
         "clarity_nt_char_2671": "clarity_nt_char_2671"
     },
     "2672": {
-        "灼熱とうこん討ちの威力 +<%sB_renkin1>%": ""
+        "灼熱とうこん討ちの威力 +<%sB_renkin1>%": "Scorched Earth Power +<%sB_renkin1>%"
     },
     "2673": {
-        "ヒャド系呪文威力 +<%sB_renkin1>%": ""
+        "ヒャド系呪文威力 +<%sB_renkin1>%": "Crack-type Spell Power +<%sB_renkin1>%"
     },
     "2674": {
         "clarity_nt_char_2674": "clarity_nt_char_2674"
     },
     "2675": {
-        "イオ系呪文威力 +<%sB_renkin1>%": ""
+        "イオ系呪文威力 +<%sB_renkin1>%": "Bang-type Spell Power +<%sB_renkin1>%"
     },
     "2676": {
-        "バギ系呪文威力 +<%sB_renkin1>%": ""
+        "バギ系呪文威力 +<%sB_renkin1>%": "Woosh-type Power +<%sB_renkin1>%"
     },
     "2677": {
-        "ドルマ系呪文威力 +<%sB_renkin1>%": ""
+        "ドルマ系呪文威力 +<%sB_renkin1>%": "Zam-type Spell Power +<%sB_renkin1>%"
     },
     "2678": {
         "clarity_nt_char_2678": "clarity_nt_char_2678"
     },
     "2679": {
-        "オオカミアタックの威力 +<%sB_renkin1>%": ""
+        "オオカミアタックの威力 +<%sB_renkin1>%": "Wolf Whistle Power +<%sB_renkin1>%"
     },
     "2680": {
-        "フォースブレイクの威力 +<%sB_renkin1>%": ""
+        "フォースブレイクの威力 +<%sB_renkin1>%": "Fource Break Power +<%sB_renkin1>%"
     },
     "2681": {
-        "全身全霊斬りの威力 +<%sB_renkin1>%": ""
+        "全身全霊斬りの威力 +<%sB_renkin1>%": "Unbridled Blade Power +<%sB_renkin1>%"
     },
     "2682": {
-        "水神のたつまきの威力 +<%sB_renkin1>%": ""
+        "水神のたつまきの威力 +<%sB_renkin1>%": "Whirlwind Power +<%sB_renkin1>%"
     },
     "2683": {
         "clarity_nt_char_2683": "clarity_nt_char_2683"
     },
     "2684": {
-        "フェンリルアタックの威力 +<%sB_renkin1>%": ""
+        "フェンリルアタックの威力 +<%sB_renkin1>%": "Fenrir Whistle Power +<%sB_renkin1>%"
     },
     "2685": {
         "clarity_nt_char_2685": "clarity_nt_char_2685"
     },
     "2686": {
-        "サプライズラッシュの威力 +<%sB_renkin1>%": ""
+        "サプライズラッシュの威力 +<%sB_renkin1>%": "Surprise Rush Power +<%sB_renkin1>%"
     },
     "2687": {
         "clarity_nt_char_2687": "clarity_nt_char_2687"
@@ -8109,37 +8109,37 @@
         "防魔の型４": "Demonic Mold 4"
     },
     "2704": {
-        "マグマの威力 +<%sB_renkin1>%": ""
+        "マグマの威力 +<%sB_renkin1>%": "Magma Power +<%sB_renkin1>%"
     },
     "2705": {
         "clarity_nt_char_2705": "clarity_nt_char_2705"
     },
     "2706": {
-        "グランドネビュラの威力 +<%sB_renkin1>%": ""
+        "グランドネビュラの威力 +<%sB_renkin1>%": "Solar Flair Power +<%sB_renkin1>%"
     },
     "2707": {
-        "暗黒連撃の威力 +<%sB_renkin1>%": ""
+        "暗黒連撃の威力 +<%sB_renkin1>%": "Dark Barrage Power +<%sB_renkin1>%"
     },
     "2708": {
-        "ケルベロスロンドⅢの威力 +<%sB_renkin1>%": ""
+        "ケルベロスロンドⅢの威力 +<%sB_renkin1>%": "Cerberus Rondo Ⅲ Power +<%sB_renkin1>%"
     },
     "2709": {
         "clarity_nt_char_2709": "clarity_nt_char_2709"
     },
     "2710": {
-        "煉獄魔斬Ⅲの威力 +<%sB_renkin1>%": ""
+        "煉獄魔斬Ⅲの威力 +<%sB_renkin1>%": "Demon Edge Ⅲ Power +<%sB_renkin1>%"
     },
     "2711": {
         "clarity_nt_char_2711": "clarity_nt_char_2711"
     },
     "2712": {
-        "れんごく火炎Ⅲの威力 +<%sB_renkin1>%": ""
+        "れんごく火炎Ⅲの威力 +<%sB_renkin1>%": "Hellfire Ⅲ Power +<%sB_renkin1>%"
     },
     "2713": {
         "clarity_nt_char_2713": "clarity_nt_char_2713"
     },
     "2714": {
-        "しんくう竜巻Ⅱの威力 +<%sB_renkin1>%": ""
+        "しんくう竜巻Ⅱの威力 +<%sB_renkin1>%": "Vacuum Tornado Ⅱ Power +<%sB_renkin1>%"
     },
     "2715": {
         "clarity_nt_char_2715": "clarity_nt_char_2715"
@@ -8148,7 +8148,7 @@
         "呪文と特技の効果範囲 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>ｍ": ""
     },
     "2717": {
-        "呪文の回復量 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "呪文の回復量 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Spell Recovery +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "2718": {
         "ガード時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で聖女の守り": "Alma Mater On Block <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -8328,64 +8328,64 @@
         "ためる参を習得": ""
     },
     "2777": {
-        "ベギラマの威力 +<%sB_renkin1>%": ""
+        "ベギラマの威力 +<%sB_renkin1>%": "Sizzle Power +<%sB_renkin1>%"
     },
     "2778": {
-        "バギマの威力 +<%sB_renkin1>%": ""
+        "バギマの威力 +<%sB_renkin1>%": "Swoosh Power +<%sB_renkin1>%"
     },
     "2779": {
         "clarity_nt_char_2779": "clarity_nt_char_2779"
     },
     "2780": {
-        "ベギラゴンの威力 +<%sB_renkin1>%": ""
+        "ベギラゴンの威力 +<%sB_renkin1>%": "Kasizz Power +<%sB_renkin1>%"
     },
     "2781": {
         "clarity_nt_char_2781": "clarity_nt_char_2781"
     },
     "2782": {
-        "ギラグレイドⅢの威力 +<%sB_renkin1>%": ""
+        "ギラグレイドⅢの威力 +<%sB_renkin1>%": "Kasizzle Ⅲ Power +<%sB_renkin1>%"
     },
     "2783": {
         "clarity_nt_char_2783": "clarity_nt_char_2783"
     },
     "2784": {
-        "マヒャデドスの威力 +<%sB_renkin1>%": ""
+        "マヒャデドスの威力 +<%sB_renkin1>%": "Kacrackle Power +<%sB_renkin1>%"
     },
     "2785": {
-        "バギクロスの威力 +<%sB_renkin1>%": ""
+        "バギクロスの威力 +<%sB_renkin1>%": "Kaswoosh Power +<%sB_renkin1>%"
     },
     "2786": {
         "clarity_nt_char_2786": "clarity_nt_char_2786"
     },
     "2787": {
-        "バギムーチョの威力 +<%sB_renkin1>%": ""
+        "バギムーチョの威力 +<%sB_renkin1>%": "Kaswooshle Power +<%sB_renkin1>%"
     },
     "2788": {
-        "メラガイアーの威力 +<%sB_renkin1>%": ""
+        "メラガイアーの威力 +<%sB_renkin1>%": "Kafrizzle Power +<%sB_renkin1>%"
     },
     "2789": {
-        "イオグランデの威力 +<%sB_renkin1>%": ""
+        "イオグランデの威力 +<%sB_renkin1>%": "Kaboomle Power +<%sB_renkin1>%"
     },
     "2790": {
-        "イオマータⅡの威力 +<%sB_renkin1>%": ""
+        "イオマータⅡの威力 +<%sB_renkin1>%": "Kablam Ⅱ Power +<%sB_renkin1>%"
     },
     "2791": {
-        "マダンテの威力 +<%sB_renkin1>%": ""
+        "マダンテの威力 +<%sB_renkin1>%": "Magic Burst Power +<%sB_renkin1>%"
     },
     "2792": {
-        "ドルマドンの威力 +<%sB_renkin1>%": ""
+        "ドルマドンの威力 +<%sB_renkin1>%": "Kazammle Power +<%sB_renkin1>%"
     },
     "2793": {
         "clarity_nt_char_2793": "clarity_nt_char_2793"
     },
     "2794": {
-        "メラゾーマの威力 +<%sB_renkin1>%": ""
+        "メラゾーマの威力 +<%sB_renkin1>%": "Kafrizz Power +<%sB_renkin1>%"
     },
     "2795": {
         "clarity_nt_char_2795": "clarity_nt_char_2795"
     },
     "2796": {
-        "イオナズンの威力 +<%sB_renkin1>%": ""
+        "イオナズンの威力 +<%sB_renkin1>%": "Kaboom Power +<%sB_renkin1>%"
     },
     "2797": {
         "clarity_nt_char_2797": "clarity_nt_char_2797"

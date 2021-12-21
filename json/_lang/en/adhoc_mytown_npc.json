@@ -45,7 +45,7 @@
         "「ウェルカム設定してる　マイタウンの家に|　ランダムで訪問します！　遊びにいきたい|　マイタウンの家のテーマを　選んでください！|<break>": "You'll be randomly selected to visit any|MyTown house you've set up as a welcome!|Choose the theme of the My Town house you'd|<br>|like to visit!<break>"
     },
     "16": {
-        "「<%sL_MYTOWN_CATE>に設定してる|　マイタウンの家へ　ランダムで訪問します！|　移動しますか？|<yesno><break>": "I'll randomly visit the Mytown house you've|set in <%sL_MYTOWN_CATE>! Do you|want to move?|<br><yesno><break>"
+        "「<%sL_MYTOWN_CATE>に設定してる|　マイタウンの家へ　ランダムで訪問します！|　移動しますか？|<yesno><break>": "I'll randomly visit the My Town house you've|set in <%sL_MYTOWN_CATE>! Do you|want to move?|<yesno><break>"
     },
     "17": {
         "clarity_nt_char_17": "clarity_nt_char_17"
@@ -264,13 +264,13 @@
         "「探したい　マイタウンＩＤを|　入力してくれ。|<break>": "Just enter the Mytown ID you're looking|for...<break>"
     },
     "89": {
-        "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示しているぞ。|<break>": "Show My Town in <%sL_MYTOWN_ID>-<|%sL_MYTOWN_ID2>...<break>"
+        "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示しているぞ。|<break>": " <%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2> My Town is being displayed.<break>"
     },
     "90": {
         "「じゃあ　移動を開始する。|<br>|「ケイデント……　ニンウタイマ！|<break>": "Okay, let's move... Cadet... Ninwutimer!<break>"
     },
     "91": {
-        "「探したい　マイタウン名を|　入力してくれ。|<break>": "Just type in the name of the Mytown you're|looking for...<break>"
+        "「探したい　マイタウン名を|　入力してくれ。|<break>": "Please type in the My Town name that you are|looking for.|<break>"
     },
     "92": {
         "「<%sL_MYTOWN_NAME>という名前で|　登録しているマイタウンは　これだけあるが|　どのマイタウンへ　移動したいんだ？|<break>": "This is the only MyTown I have registered|under the name <%sL_MYTOWN_NAME>,|but which MyTown do you want to move to?|<br><break>"
@@ -420,13 +420,13 @@
         "「探したい　マイタウンＩＤを|　入力してちょうだい。|<break>": "I want to find it. Just enter your Mytown|ID...<break>"
     },
     "141": {
-        "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示してるわ。|<break>": "View MyTown for <%sL_MYTOWN_ID>-<|%sL_MYTOWN_ID2>...<break>"
+        "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示してるわ。|<break>": "<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2> My Town is being displayed.|<break>"
     },
     "142": {
         "「じゃあ　移動するわよ。|<br>|「ケイデント……　ニンウタイマ！|<break>": "Okay, let's move... Cadet... Ninwutimer!<break>"
     },
     "143": {
-        "「探したい　マイタウン名を|　入力してちょうだい。|<break>": "Just type in the name of the Mytown you're|looking for and we'll...<break>"
+        "「探したい　マイタウン名を|　入力してちょうだい。|<break>": "Please enter the name of the My Town you want|to search for.|<break>"
     },
     "144": {
         "「<%sL_MYTOWN_NAME>という名前で|　登録しているマイタウンは　これだけあるわ。|　どのマイタウンへ　移動したいのかしら？|<break>": "This is the only MyTown I have registered|under the name|<%sL_MYTOWN_NAME>... Which MyTown|<br>|would you like to move to?<break>"

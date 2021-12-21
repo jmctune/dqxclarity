@@ -3,13 +3,13 @@
         "<%sM_CTxt_Caster>から　チカラがあふれだした！": "Power overflowed from <%sM_CTxt_Caster>!"
     },
     "2": {
-        "全員に　<%sM_CTxt_Action>の効果": "Effect of <%sM_CTxt_Action> to All"
+        "全員に　<%sM_CTxt_Action>の効果": "Effect of <%sM_CTxt_Action> to All!"
     },
     "3": {
         "clarity_nt_char_3": "clarity_nt_char_3"
     },
     "4": {
-        "敵全員に　<%sM_CTxt_Action>の効果": "Effect of <%sM_CTxt_Action> to All Foes"
+        "敵全員に　<%sM_CTxt_Action>の効果": "Effect of <%sM_CTxt_Action> to All Foes!"
     },
     "5": {
         "じげんばくだん岩が　あらわれた！": "A Timebomb Rock draws near!"
@@ -18,18 +18,18 @@
         "clarity_nt_char_6": "clarity_nt_char_6"
     },
     "7": {
-        "源世碑石が　あらわれた！": "An Origin Monument draws near!"
+        "源世碑石が　あらわれた！": "An Origin Stone appeared!"
     },
     "8": {
         "clarity_nt_char_8": "clarity_nt_char_8"
     },
     "9": {
-        "全員で　撃破にむかおう！": "Let's all go defeat it!"
+        "全員で　撃破にむかおう！": "Defeat it as soon as possible!"
     },
     "10": {
         "clarity_nt_char_10": "clarity_nt_char_10"
     },
     "11": {
-        "碑石を破壊し　チカラを解き放とう！": "Destroy the monument to unleash its power!"
+        "碑石を破壊し　チカラを解き放とう！": "Destroy the stone to unleash its power!"
     }
 }

@@ -76,15 +76,7 @@ def load_unload_hooks(hook_list: list, state_address: int, debug: bool):
 
         try:
             # don't do anything on login screen. initializing python scripts will cause infinite login load
-            if login_screen_byte == b'\x00':
-                for hook in hook_list:
-                    write_bytes(hook['detour_address'], hook['original_bytes'])
-                time.sleep(0.10)
-            elif login_screen_byte != b'\x00' and state_byte == b'\x01':
-                for hook in hook_list:
-                    write_bytes(hook['detour_address'], hook['hook_bytes'])
-                time.sleep(0.10)
-            elif state_byte == b'\x00':  # hooks are inactive, which means loading was triggered
+            if state_byte == b'\x00':  # hooks are inactive, which means loading was triggered
                 logger.debug('Hooks unloaded.')
                 time.sleep(1)
                 packed_loading = read_bytes(state_address + 1, 4)
@@ -108,7 +100,7 @@ def load_unload_hooks(hook_list: list, state_address: int, debug: bool):
                             write_bytes(state_address, b'\x01')  # write over state byte. hooks are active again
                             break
                     else:
-                        time.sleep(0.10)
+                        time.sleep(0.25)
             else:
                 time.sleep(0.05)
         except:

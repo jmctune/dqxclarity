@@ -48,8 +48,11 @@ quest_text_trigger = rb'\xBF\xFC\x01\x00\x00\x89\x7C\x24\xFC'
 # function that's called right before any loading done in the game.
 # WHEN WILL THIS CHANGE?
 # Hopefully never. This is a core game function.
-# 55 8B EC F3 0F 10 45 ?? F3 0F 59 05 ?? ?? ?? ?? 56 8B 75 08 57 8B F9 F3 0F 11 45
-loading_pattern = rb'\x55\x8B\xEC\xF3\x0F\x10\x45.\xF3\x0F\x59\x05....\x56\x8B\x75\x08\x57\x8B\xF9\xF3\x0F\x11\x45'
+# base_address + 01EED4F4, 0x34, 0x158, 0x24, 0x5C, 0x7BC
+# Covers:
+# - login screen
+# - loading between zones
+loading_pattern = rb'\x85\xC0..\x8B\x80\x90\x00\x00\x00\x5F\x5E\x5D\xC2\x10\x00\x5F'
 
 # pattern for npc/monsters to rename.
 # WHEN WILL THIS CHANGE?
@@ -57,7 +60,7 @@ loading_pattern = rb'\x55\x8B\xEC\xF3\x0F\x10\x45.\xF3\x0F\x59\x05....\x56\x8B\x
 # Every byte marked below will change. The rest stay the same.
 # monster: 8C 75 ?? ?? ?? ?? ?? ?? C8 75 ?? ?? E?
 # npc:     90 87 ?? ?? ?? ?? ?? ?? C8 75 ?? ?? E?
-npc_monster_byte_pattern = rb'[\x14\xBC][\x6F\x80]......\xB4\x71..[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
+npc_monster_byte_pattern = rb'[\x9C\x34][\x82\x94]......\x04\x9B..[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
 #                                ^ monster ^
 #                                    ^   npc   ^
 
@@ -65,7 +68,7 @@ npc_monster_byte_pattern = rb'[\x14\xBC][\x6F\x80]......\xB4\x71..[\xE3\xE4\xE5\
 # WHEN WILL THIS CHANGE?
 # Every time the game patches.
 # 00 00 00 00 00 48 ?? ?? 01 ?? ?? ?? ?? ?? ?? ?? 01 E?
-player_name_byte_pattern = rb'\x00\x00\x00\x00\x00\x48..\x01.......\x01[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
+player_name_byte_pattern = rb'\x00\x00\x00\x00\x00\x58..\x01.......\x01[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
 #                                                   ^  only this byte changes
 
 ########################################

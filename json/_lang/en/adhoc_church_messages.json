@@ -12,7 +12,7 @@
         "「では　今後の旅の無事を　神に祈りなさい。|<br>|「そして　そなたが　チカラ尽きた時の|　復活場所を　<%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>の教会から|　この教会に変更しても　よろしいかな？|<yesno><break>": "Then pray to the gods for the safety of your|journey... And when your strength is|exhausted, may we change your resurrection|<br>|site from the church at <%sL_HUKKATU_POINT><%|dL_TYOUME_NO1><%sL_TYOUME1> to this church?<yesno><break>"
     },
     "5": {
-        "「どの　ルーラストーンに|　この場所を　記憶させるかね？|<break>": "Which rouleus stone will remember this place?<break>"
+        "「どの　ルーラストーンに|　この場所を　記憶させるかね？|<break>": "Register this location in which|Zoomstone?|<break>"
     },
     "6": {
         "「そのルーラストーンの記憶場所を|　<%sM_rurastone1><%sM_dot1><%sM_sub1>から|　<%sM_rurastone><%sM_dot><%sM_sub>に　変更するかね？|<yesno><break>": "Would you change the memory location of that|rurastone from|<%sM_rurastone1><%sM_dot1><%sM_sub1> to|<br>|<%sM_rurastone><%sM_dot><%sM_sub>?<yesno><break>"
@@ -123,7 +123,7 @@
         "「では　これからの　旅の無事を|　神の前に　お祈りなさい。|<br>|「そして　あなたが　チカラ尽きた時の|　復活場所を　<%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>の教会から|　この教会に変更しても　よろしいですか？|<yesno><break>": "Now, I pray before God for the safety of your|journey... And when you've run out of energy,|may I change your resurrection site from the|<br>|church at <%sL_HUKKATU_POINT><%dL_TYOUME_NO1>|<%sL_TYOUME1> to this church?<yesno><break>"
     },
     "42": {
-        "「どの　ルーラストーンに|　この場所を　記憶させますか？|<break>": "Which of the roulastones do you want to store|this place in?<break>"
+        "「どの　ルーラストーンに|　この場所を　記憶させますか？|<break>": "Register this location in which|Zoomstone?|<break>"
     },
     "43": {
         "「そのルーラストーンの記憶場所を|　<%sM_rurastone1><%sM_dot1><%sM_sub1>から|　<%sM_rurastone><%sM_dot><%sM_sub>に　変更しますか？|<yesno><break>": "Do you want to change the memory location of|that rurastone from|<%sM_rurastone1><%sM_dot1><%sM_sub1> to|<br>|<%sM_rurastone><%sM_dot><%sM_sub>?<yesno><break>"
@@ -795,7 +795,7 @@
         "「では　これからの　旅の無事を|　神の前に　お祈りなさい。|<br>|「そして　あなたが　チカラ尽きた時の|　復活場所を　<%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>の教会から|　この地に変更しても　よろしいですか？|<yesno><break>": "Now, I pray before God for the safety of your|journey... And may I change your resurrection|place from the church of <%sL_HUKKATU_POINT><|<br>|%dL_TYOUME_NO1><%sL_TYOUME1> to this place|when you are exhausted?<yesno><break>"
     },
     "266": {
-        "「どの　ルーラストーンに|　この場所を　記憶させますか？|<break>": "Which of the roulastones do you want to store|this place in?<break>"
+        "「どの　ルーラストーンに|　この場所を　記憶させますか？|<break>": "Register this location in which|Zoomstone?|<break>"
     },
     "267": {
         "「そのルーラストーンの記憶場所を|　<%sM_rurastone1><%sM_dot1><%sM_sub1>から|　<%sM_rurastone><%sM_dot><%sM_sub>に　変更しますか？|<yesno><break>": "Do you want to change the memory location of|that rurastone from|<%sM_rurastone1><%sM_dot1><%sM_sub1> to|<br>|<%sM_rurastone><%sM_dot><%sM_sub>?<yesno><break>"

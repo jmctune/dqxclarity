@@ -33,16 +33,18 @@ try:
 
     state_address = {state_address}
     eax_address = unpack_to_int({eax_address})[0]
+    eax_address = eax_address + 4
 
     # detach all hooks
-    for hook in {hook_list}:
-        write_bytes(hook['detour_address'], hook['original_bytes'])
+    if read_bytes(eax_address, 4) == b'\x00\x00\x00\x00': # we are in combat. no need to unhook
+        for hook in {hook_list}:
+            write_bytes(hook['detour_address'], hook['original_bytes'])
 
-    # mark state byte as inactive
-    state_byte = b'\x00'
-    write_bytes(state_address, state_byte)
+        # mark state byte as inactive
+        state_byte = b'\x00'
+        
+        write_bytes(state_address, state_byte)
 
-    if read_bytes(state_address + 1, 4) == b'\x00\x00\x00\x00':
         bytecode = (pack_to_int(eax_address))
         write_bytes(state_address + 1, bytecode)
 

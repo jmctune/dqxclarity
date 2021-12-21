@@ -27,7 +27,7 @@
         "配置中の　庭具をかたづけます。|どこに　かたづけますか？|<select_se_off>|つかうもの|庭具倉庫のまま|<select_end><break>": "I'm putting the garden tools in place. Where|should we put it?|<select_se_off>|thing used to |Garden tools remain in storage|<select_end><break>"
     },
     "10": {
-        "<pc>は|庭具倉庫を　開いた。|<end>": "<pc> ...is a garden tools warehouse...<end>"
+        "<pc>は|庭具倉庫を　開いた。|<end>": "<pc> opened the Garden Storage.<end>"
     },
     "11": {
         "庭具倉庫は　現在利用できません。": ""

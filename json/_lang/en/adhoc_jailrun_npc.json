@@ -1,0 +1,164 @@
+{
+    "1": {
+        "<speed=0>|予期せぬエラーが　発生しました。|時間をおいて　再度　お試しください。|<end>": "<speed=0>I'm afraid an unexpected error has occurred.|Please give it some time and try again.<end>"
+    },
+    "2": {
+        "「真夜中プリズランは　<%nM_game_end_m>月<%nM_game_end_d>日まで|　開催してるから　また　来てちょうだいね。|<end>": "The Midnight Prison Run runs until|<%nM_game_end_m>Monday <%nM_game_end_d>, so|come back...<end>"
+    },
+    "3": {
+        "「プリズランポイントの交換期間は|　<%nM_trade_end_m>月<%nM_trade_end_d>日までよ。|　注意してちょうだいね。|<end>": "The Prizelan point redemption period is|<%nM_trade_end_m> month <%nM_trade_end_d>|day... Please note that...<end>"
+    },
+    "4": {
+        "「あなたは　パーティを組んでるから|　パーティメンバーと一緒に　参加してもらうわ。|<br>|「パーティリーダーの方に|　わたしに　声をかけてもらって|　参加表明を　してもらってちょうだい。|<br>|「そうすれば　あなたに|　パーティリーダーの方から|　真夜中プリズランの誘いが　届くわよ。|<end>": "You're in a party, so if you'd like to join|with your party members... Just have the|party leader contact me and let me know|<br>|you're coming. And then you'll receive an|invitation to the Midnight Prizefighter from|the party leader.<end>"
+    },
+    "5": {
+        "「残念だけど　真夜中プリズランの開催期間は|　終わってしまったの。|　機会があったら　また遊んでちょうだいね。|<bw_break>": "I'm sorry, but the Midnight Prizefighter is|no longer in session. If you get a chance,|please come back and play...<bw_break>"
+    },
+    "6": {
+        "<speed=0>|現在　入場制限のため　あと<%nB_penalty>分|真夜中プリズランに参加することは　できません。|<end>": "<speed=0>Due to admission restrictions, you will not|be able to participate in the Midnight Prize-|Run for another <%nB_penalty>...<end>"
+    },
+    "7": {
+        "「真夜中プリズランは　８人の冒険者たちが|　追跡チーム３人と　逃走チーム５人に|　分かれて　追いかけっこする遊びよ。|<br>|「制限時間内に　逃走チームの５人全員を|　捕まえると　追跡チームの勝ち。逃走チームは|　時間まで　ひとりでも逃げのびたら　勝ちよ。|<bw_break>": "In Midnight Prison Run, eight adventurers are|divided into three pursuit teams and five|escape teams. The chase team must catch all|<br>|five members of the escape team within the|time limit... The escape team has until the|end of the hour...<bw_break>"
+    },
+    "8": {
+        "「参加者は　皆　あなたと同じ冒険者。|　『自動で探す』と『パーティを選ぶ』で|　一緒に遊ぶ相手を　探してちょうだいね。|<br>|「『自動で探す』は　自分の|　パーティメンバーと　他の冒険者たちと|　一緒に遊べるわ。　|<br>|「『パーティを選ぶ』は　一緒に遊ぶ|　パーティを　指定できるわよ。こっちは|　知り合い同士だけで　遊ぶ場合にオススメね。|<br>|「どちらで遊ぶ場合にも　チーム分けは|　こっちで　決めさせてもらうわよ。|<bw_break>": "All the participants are just like you... Use|Auto-find and Pick a Party to find people to|play with... Auto-find lets you find your own|<br>|party members and other adventurers to play|with. Choose a Party lets you choose a party|to play with. This one's for when you're just|<br>|playing with people you know. Whichever way|you choose to play, we'll assign you a team.<bw_break>"
+    },
+    "9": {
+        "「追跡チームは　逃走チームに近づいて　|　<convenience>で　ハンドを飛ばして|　相手を　捕まえてちょうだい。|<br>|「ハンドの数は　３個。使い切ると|　しばらくの間　捕まえられなくなるわよ。|　自動で回復するまで　待ってちょうだいね。|<br>|「キャッチハンドを取ると　ハンドの上限数を|　３個　増やすことができるわ。|　ハンドの数も回復する　おまけ付きよ。|<br>|「ただし　ハンドの上限数は　最大１０個まで。|　それ以上取っても　回復するだけよ。|<br>|「キャッチハンドは　逃走チームが触れると|　消えてしまうわ。どちらのチームでも|　見つけたら　すぐに　取るべきね。|<br>|「キャッチハンドが出現したら　地図に|　表示されるから　確認するといいわ。|<bw_break>": "The pursuit team is closing in on the getaway team|<convenience>And you're going to fly your hands out there|and you're going to catch him. How many hands|do you have? If you run out, you won't be|<br>|able to catch anyone for a while. You'll have|to wait until it recovers automatically. If|you take the Catching Hand, you can increase|<br>|your hand count by three. It also restores|your hand count. The maximum number of hands|you can have is 10. If you take more than|<br>|that, you will recover. The catcher's hand|disappears when the fleeing team touches it.|Whichever team finds it, it must be taken|<br>|immediately. When the Catching Hand appears,|it will appear on the map, and you will|see...<bw_break>"
+    },
+    "10": {
+        "「何について　説明する？|<select_se_off>|遊び方について|マッチングについて|ハンドについて|プリズンロックについて|お助けボックスについて|ワープウィングについて|プリズランポイントについて|ウヅキについて|<select_end><break>": "What do you want to talk about?|<select_se_off>|How to play|About Matching|About Hand|About Prison Rock|About the Helpful Box|About Warp Wing|About Prizelan Points|About Uzukis|<select_end><break>"
+    },
+    "11": {
+        "「どんな　用かしら？|<break>": "What do you need?<break>"
+    },
+    "12": {
+        "「他に　用はある？|<break>": ""
+    },
+    "13": {
+        "「真夜中プリズランで　遊ぶのね？|　その前に　プリズランの手引きを|　受けてもらうけど　いいかしら？|<yesno><break>": "We're going to play Prison Run at midnight,|aren't we? But first, I'm gonna need you to|take the Prizefighter's Guide, if that's|<br>|okay.<yesno><break>"
+    },
+    "14": {
+        "「他にも何か　説明が必要かしら？|<select_se_off>|遊び方について|マッチングについて|ハンドについて|プリズンロックについて|お助けボックスについて|ワープウィングについて|プリズランポイントについて|ウヅキについて|<select_end><break>": "Is there anything else I need to explain?|<select_se_off>|How to play|About Matching|About Hand|About Prison Rock|About the Helpful Box|About Warp Wing|About Prizelan Points|About Uzukis|<select_end><break>"
+    },
+    "15": {
+        "「あら……ごめんなさい。真夜中プリズランの|　開催期間は　たった今　終わってしまったの。|　また機会があったら　遊んでちょうだいね。|<end>": "Oh, my... Sorry... The Midnight Prizefighter|has just ended. If you get a chance, please|play again...<end>"
+    },
+    "16": {
+        "「プリズランの手引きを　受けるのね？|<yesno><break>": "You're going to be guided by the Prizelan,|aren't you?<yesno><break>"
+    },
+    "17": {
+        "「そう……残念だわ。|　プリズランの手引きを　受けたくなったら|　いつでも　言ってちょうだいね。": "So... Remaining... If you ever want to take|the Prisoner's Guide, just let me know and|I'll..."
+    },
+    "18": {
+        "「そうこなくっちゃ！|　それじゃ　さっそく始めるわね。": "That's what I'm talking about! Okay, let's|get started..."
+    },
+    "19": {
+        "「一緒に遊ぶ仲間を　どうやって決めるのかしら？|<select_se_off>|自動で探す|パーティを選ぶ|<select_end><close>": "How do they decide who to play with?|<select_se_off>|Automatic search|Select a party|<select_end><close>"
+    },
+    "20": {
+        "「４人で　パーティを組んでいれば　一緒に遊ぶ|　もうひとつのパーティが　選べるわよ。|<br>|「でも　プリズランポイントは　入手できないわ。|　それでも　いいかしら？|<yesno><break>": "If you have a party of four, you can choose|another party to play with... But you won't|get any Prisoner Points. Is that okay with|<br>|you?<yesno><break>"
+    },
+    "21": {
+        "「逃走チームは　仲間が捕まってしまったら|　プリズンロックに　５回　アタックして|　助けだしてちょうだい。|<br>|「アタックの方法は　カンタン。|　プリズンロックに近づいて|　<convenience>を　押すだけよ。|<br>|「アタックする以外にも　プリズンキーに|　触れることで　プリズンロックの|　ロックを　１つ　破壊することができるわ。|<br>|「ただし　５つめのロックは　プリズンキーでは|　破壊できないから　最後は　プリズンロックに|　直接　アタックしてちょうだいね。|<br>|「プリズンキーは　追跡チームが触れると|　消えてしまうわ。どちらのチームでも|　見つけたら　すぐに　取るべきね。|<br>|「プリズンキーが出現したら　地図に|　表示されるから　確認するといいわ。|<bw_break>": "If your getaway team gets caught, you'll have|to tackle Prison Rock five times to get him|out. You can do this by... Approach Prison|<br>|Rock.<convenience>Press... In addition to attacking the Prison|Key, you can also break one of the locks on|the Prison Lock by touching it. The fifth|<br>|lock, however, cannot be destroyed by the|Prison Key, so the last thing you need to do|is attack Prison Lock directly. The Prison|<br>|Key disappears when it's touched by the|pursuing team. So, whichever team finds it,|take it immediately. When the Prison Key|<br>|appears, it'll show up on the map so you can|see...<bw_break>"
+    },
+    "22": {
+        "「お助けボックスは　追跡チーム専用と|　逃走チーム専用のものを　用意しているわ。|<br>|「相手のチーム専用の　お助けボックスは|　取ることが　できないから|　注意してちょうだいね。|<br>|「どちらの　お助けボックスにも|　相手チームのいる場所が　地図でわかっちゃう|　特別などうぐ　千里眼が　入っているわ。|<br>|「<autorun>長押しで使うと　自分のチーム|　全員に　効果がかかるわよ。上手く使えば|　チームの状況を　ぐっと　有利にできるわ。|<br>|「でも　千里眼は　強力な分だけ|　効果の時間が　短いの。|　使ったら　すぐに　地図を見るべきね。|<bw_break>": "We have two help boxes, one for the chase|team and one for the escape team. You can't|take the helper box that belongs to the other|<br>|team, so be careful... Each helper box|contains a special item, a clairvoyant, that|will tell you where the other team is on the|<br>|map.<autorun>If you hold it down, it'll affect everyone on|your team. If you use it right, it can give|your team a huge advantage... But as powerful|<br>|as clairvoyance is... it doesn't last long.|As soon as you use it, you'll see the map...<bw_break>"
+    },
+    "23": {
+        "「ワープウィングは　触れると　一瞬で|　別の場所に　ワープできちゃうアイテムよ。|<br>|「ワープ先は　地図で確認することができるわ。|　どちらのチームでも　使えるから|　追うにも　逃げるにも　役立つわよ。|<br>|「うまく使って　風のように|　町中を　駆けてちょうだい！　|<bw_break>": "The Warp Wing is a device that allows you to|warp to another location in the blink of an|eye... You can see where you're warping to on|<br>|the map... It can be used by either team, so|it's useful for both pursuit and escape. Use|it to your advantage and run like the wind|<br>|through the city!<bw_break>"
+    },
+    "24": {
+        "「真夜中プリズランで　遊ぶと|　勝ち負けに　かかわらず|　プリズランポイントが　入手できるわ。|<br>|「特に　活躍した人には　ご褒美として|　勝ち負けとは別に　追加でポイントを|　あげるわよ。|<br>|「『パーティを選ぶ』で　遊んだ場合は|　プリズランポイントは　入手できないから|　注意してちょうだいね。|<br>|「入手した　プリズランポイントは|　ステキな景品と　交換することができるわよ。|<br>|「ただし　交換できる期間は　限られてるわ。|　プリズランポイントの　交換期間は|　<%nM_trade_end_m>月<%nM_trade_end_d>日までよ。　|<br>|「期間が　過ぎてしまうと|　プリズランポイントは　なくなるから|　忘れずに　交換してちょうだいね。|<bw_break>": "If you play the Midnight Prizefighter,|whether you win or lose, you'll earn|Prizefighter points. And if you do well,|<br>|you'll be rewarded with extra points... If|you choose to play as a party, you will not|receive any Prisoner Points. Once you've|<br>|earned your Prisoner Points, you can exchange|them for cool prizes. However, the exchange|period is limited... You can redeem your|<br>|Prisoner Points on <%nM_trade_end_m>days of|the month... Once that period is over, your|Prisoner Points will be gone, so don't forget|<br>|to exchange them...<bw_break>"
+    },
+    "25": {
+        "「わたしは　こう見えて　伝統文化の研究者なの。|　最近　はやりの　仮装メイク術も|　新しい文化として　とても　興味深いわ。|<br>|「真夜中プリズランに　仮装メイク術を|　取り入れたのも　研究者としての血が|　騒いだからよ。|<br>|「もともと　衣装を作ったり　着たりするのは|　好きだったから　わたしも|　はじめは　いろいろな　格好をしたわ。|<br>|「でも　最近はもう　ずっと　この格好ね。|　なんたって　見つけた獲物を|　捕まえるのに　適しているんだもの。|<br>|「ランニャーの次は　あの　おばけメイク術師を|　捕まえて　子分にするつもりよ！|<br>|「あとは　いつも　秘宝だとか騒いでる|　あの　ほうたいグルグルの姉の格好を|　どうにかしたいものね……。|<br>|「それにしても　あなたたちに　わたしの|　衣装を着て　遊んでもらえるなんて　ああ……|　想像しただけで　ウズウズしちゃう……！|<bw_break>": "I'm a student of traditional culture... I'm|also very interested in the recent trend of|masquerade makeup as a new culture. I'm a|<br>|researcher, which is why I decided to include|masquerade makeup in the Midnight Prizelan.|I've always loved making and wearing|<br>|costumes, so I started out with a lot of|different outfits. But lately, I've been|wearing this... After all, it's good for|<br>|catching what you find... After Rango, I'm|going to capture that ghost make-up artist|and make him my henchman! And I'll have to do|<br>|something about that gargoyle-wearing sister|of mine who's always babbling about|treasure... But I can't believe you're going|<br>|to play with me in my costume. I'm getting an|itch just thinking about it.<bw_break>"
+    },
+    "26": {
+        " 「そう……残念だわ。|　気が変わったら　また　来てちょうだいね。": "So... Stay... If you change your mind, you|can come back..."
+    },
+    "27": {
+        "「今回のプリズランで　遊んだ戦績よ。|<break>": "I've been playing in the Prison Run...<break>"
+    },
+    "28": {
+        "<speed=0>|予期せぬエラーが　発生しました。|時間をおいて　再度　お試しください。|<end>": "<speed=0>I'm afraid an unexpected error has occurred.|Please give it some time and try again.<end>"
+    },
+    "29": {
+        "「どんな　用かしら？|<break>": "What do you need?<break>"
+    },
+    "30": {
+        "「他に　用はある？|<break>": ""
+    },
+    "31": {
+        "「真夜中プリズランは　<%nM_game_end_m>月<%nM_game_end_d>日まで|　開催してるから　また　来てちょうだいね。|<end>": "The Midnight Prison Run runs until|<%nM_game_end_m>Monday <%nM_game_end_d>, so|come back...<end>"
+    },
+    "32": {
+        "「プリズランポイントの交換期間は|　<%nM_trade_end_m>月<%nM_trade_end_d>日までよ。|　注意してちょうだいね。|<end>": "The Prizelan point redemption period is|<%nM_trade_end_m> month <%nM_trade_end_d>|day... Please note that...<end>"
+    },
+    "33": {
+        "「残念だけど　真夜中プリズランの開催期間は|　終わってしまったの。|　機会があったら　また遊んでちょうだいね。|<bw_break>": "I'm sorry, but the Midnight Prizefighter is|no longer in session. If you get a chance,|please come back and play...<bw_break>"
+    },
+    "34": {
+        "「真夜中プリズランで　遊ぶのね？|　その前に　プリズランの手引きを|　受けてもらうけど　いいかしら？|<yesno><break>": "We're going to play Prison Run at midnight,|aren't we? But first, I'm gonna need you to|take the Prizefighter's Guide, if that's|<br>|okay.<yesno><break>"
+    },
+    "35": {
+        "「そうこなくっちゃ！|　それじゃ　さっそく始めるわね。": "That's what I'm talking about! Okay, let's|get started..."
+    },
+    "36": {
+        "「そう……残念だわ。|　プリズランの手引きを　受けたくなったら|　いつでも　言ってちょうだいね。": "So... Remaining... If you ever want to take|the Prisoner's Guide, just let me know and|I'll..."
+    },
+    "37": {
+        "「あなたは　パーティを組んでるから|　パーティメンバーと一緒に　参加してもらうわ。|<br>|「パーティリーダーの方に|　わたしに　声をかけてもらって|　参加表明を　してもらってちょうだい。|<br>|「そうすれば　あなたに|　パーティリーダーの方から|　真夜中プリズランの誘いが　届くわよ。|<end>": "You're in a party, so if you'd like to join|with your party members... Just have the|party leader contact me and let me know|<br>|you're coming. And then you'll receive an|invitation to the Midnight Prizefighter from|the party leader.<end>"
+    },
+    "38": {
+        "<speed=0>|現在　入場制限のため　あと<%nB_penalty>分|真夜中プリズランに参加することは　できません。|<end>": "<speed=0>Due to admission restrictions, you will not|be able to participate in the Midnight Prize-|Run for another <%nB_penalty>...<end>"
+    },
+    "39": {
+        "「何について　説明する？|<select_se_off>|遊び方について|マッチングについて|ハンドについて|プリズンロックについて|お助けボックスについて|ワープウィングについて|報酬について|ウヅキについて|<select_end><break>": "What do you want to talk about?|<select_se_off>|How to play|About Matching|About Hand|About Prison Rock|About the Helpful Box|About Warp Wing|About Compensation|About Uzukis|<select_end><break>"
+    },
+    "40": {
+        "「他にも何か　説明が必要かしら？|<select_se_off>|遊び方について|マッチングについて|ハンドについて|プリズンロックについて|お助けボックスについて|ワープウィングについて|報酬について|ウヅキについて|<select_end><break>": "Is there anything else I need to explain?|<select_se_off>|How to play|About Matching|About Hand|About Prison Rock|About the Helpful Box|About Warp Wing|About Compensation|About Uzukis|<select_end><break>"
+    },
+    "41": {
+        "「真夜中プリズランは　８人の冒険者たちが|　追跡チーム３人と　逃走チーム５人に|　分かれて　追いかけっこする遊びよ。|<br>|「制限時間内に　逃走チームの５人全員を|　捕まえると　追跡チームの勝ち。逃走チームは|　時間まで　ひとりでも逃げのびたら　勝ちよ。|<bw_break>": "In Midnight Prison Run, eight adventurers are|divided into three pursuit teams and five|escape teams. The chase team must catch all|<br>|five members of the escape team within the|time limit... The escape team has until the|end of the hour...<bw_break>"
+    },
+    "42": {
+        "「参加者は　皆　あなたと同じ冒険者。|　『自動で探す』と『パーティを選ぶ』で|　一緒に遊ぶ相手を　探してちょうだいね。|<br>|「『自動で探す』は　自分の|　パーティメンバーと　他の冒険者たちと|　一緒に遊べるわ。　|<br>|「『パーティを選ぶ』は　一緒に遊ぶ|　パーティを　指定できるわよ。こっちは|　知り合い同士だけで　遊ぶ場合にオススメね。|<br>|「どちらで遊ぶ場合にも　チーム分けは|　こっちで　決めさせてもらうわよ。|<bw_break>": "All the participants are just like you... Use|Auto-find and Pick a Party to find people to|play with... Auto-find lets you find your own|<br>|party members and other adventurers to play|with. Choose a Party lets you choose a party|to play with. This one's for when you're just|<br>|playing with people you know. Whichever way|you choose to play, we'll assign you a team.<bw_break>"
+    },
+    "43": {
+        "「追跡チームは　逃走チームに近づいて　|　<convenience>で　ハンドを飛ばして|　相手を　捕まえてちょうだい。|<br>|「ハンドの数は　３個。使い切ると|　しばらくの間　捕まえられなくなるわよ。|　自動で回復するまで　待ってちょうだいね。|<br>|「キャッチハンドを取ると　ハンドの上限数を|　３個　増やすことができるわ。|　ハンドの数も回復する　おまけ付きよ。|<br>|「ただし　ハンドの上限数は　最大１０個まで。|　それ以上取っても　回復するだけよ。|<br>|「キャッチハンドは　逃走チームが触れると|　消えてしまうわ。どちらのチームでも|　見つけたら　すぐに　取るべきね。|<br>|「キャッチハンドが出現したら　地図に|　表示されるから　確認するといいわ。|<bw_break>": "The pursuit team is closing in on the getaway team|<convenience>And you're going to fly your hands out there|and you're going to catch him. How many hands|do you have? If you run out, you won't be|<br>|able to catch anyone for a while. You'll have|to wait until it recovers automatically. If|you take the Catching Hand, you can increase|<br>|your hand count by three. It also restores|your hand count. The maximum number of hands|you can have is 10. If you take more than|<br>|that, you will recover. The catcher's hand|disappears when the fleeing team touches it.|Whichever team finds it, it must be taken|<br>|immediately. When the Catching Hand appears,|it will appear on the map, and you will|see...<bw_break>"
+    },
+    "44": {
+        "「逃走チームは　仲間が捕まってしまったら|　プリズンロックに　何度か　アタックして|　助けだしてちょうだい。|<br>|「アタックの方法は　カンタン。|　プリズンロックに近づいて|　<convenience>を　押すだけよ。|<br>|「アタックする以外にも　プリズンキーに|　触れることで　プリズンロックの|　ロックを　１つ　破壊することができるわ。|<br>|「ただし　最後のロックは　プリズンキーでは|　破壊できないから　最後は　プリズンロックに|　直接　アタックしてちょうだいね。|<br>|「プリズンキーは　追跡チームが触れると|　消えてしまうわ。どちらのチームでも|　見つけたら　すぐに　取るべきね。|<br>|「プリズンキーが出現したら　地図に|　表示されるから　確認するといいわ。|<bw_break>": "If you're on a getaway team and one of your|teammates gets caught, you'll have to make a|few passes at Prison Rock to get him out. You|<br>|can do this by... Approach Prison Rock.<convenience>Press... In addition to attacking, you can|destroy one of the locks on the Prison Lock|by touching the Prison Key. The last lock,|<br>|however, cannot be destroyed by the Prison|Key, so the last lock must be destroyed by|directly attacking the Prison Lock. The|<br>|Prison Key disappears when it's touched by|the pursuing team. So, whichever team finds|it, take it immediately. When the Prison Key|<br>|appears, it'll show up on the map so you can|see...<bw_break>"
+    },
+    "45": {
+        "「お助けボックスは　追跡チーム専用と|　逃走チーム専用のものを　用意しているわ。|<br>|「相手のチーム専用の　お助けボックスは|　取ることが　できないから|　注意してちょうだいね。|<br>|「追跡チームには　サーチランプが入っていて|　使うと　逃走者の身体を　大きくして|　居場所を　特定しやすくなるわよ。|<br>|「逃走チームには　千里眼が入っていて|　一定時間だけ　地図に　追跡者の場所が|　表示されるわ。|<br>|「どちらも　上手く使うことが　できれば|　チームの状況を　ぐっと　有利にできるから|　手に入れたら　<autorun>長押しで　使うのよ！|<bw_break>": "We have two help boxes, one for the chase|team and one for the escape team. Be careful,|you can't take the helper box that belongs to|<br>|the other team. The chase team will have a|searchlight, which, when used, will enlarge|the fugitive's body, making it easier to|<br>|locate him. The getaway team has a|clairvoyant that will display the location of|the pursuer on a map for a period of time.|<br>|Both of which, if used properly, can give|your team a huge advantage.<autorun>Press and hold. Use it!<bw_break>"
+    },
+    "46": {
+        "「ワープウィングは　触れると　一瞬で|　別の場所に　ワープできちゃうアイテムよ。|<br>|「ワープ先は　地図で確認することができるわ。|　どちらのチームでも　使えるから|　追うにも　逃げるにも　役立つわよ。|<br>|「うまく使って　風のように|　村中を　駆けてちょうだい！　|<bw_break>": "The Warp Wing is a device that allows you to|warp to another location in the blink of an|eye... You can see where you're warping to on|<br>|the map... It can be used by either team, so|it's useful for both chasing and escaping...|Use it to your advantage and run like the|<br>|wind through the village!<bw_break>"
+    },
+    "47": {
+        "「真夜中プリズランで　遊ぶと|　勝ち負けに　かかわらず|　プリズランポイントが　入手できるわ。|<br>|「入手した　プリズランポイントは|　ステキな景品と　交換することができるわよ。|<br>|「さらに　結果発表で　表彰された人には|　その回数に応じて　特別な戦績報酬を|　あげちゃうわよ！|<br>|「ただし　『パーティを選ぶ』で　遊んだ結果は|　プリズランポイントや　戦績報酬に|　反映されないから　注意してちょうだいね。|<br>|「それと　プリズランポイントの交換期間と|　戦績報酬の受け取り期間は　どちらも|　<%nM_trade_end_m>月<%nM_trade_end_d>日までよ。　|<br>|「期間が　過ぎてしまうと|　プリズランポイントも　戦績もなくなるから|　忘れずに　交換してちょうだいね。|<bw_break>": "When you play the Midnight Prizelan, whether|you win or lose, you earn Prizelan points.|And you can redeem those Prisoner's Points|<br>|for great prizes. And if you're awarded a|prize at the results announcement, you'll|receive a special reward based on how many|<br>|times you've won! Please note, however, that|the results of \"Choose Your Party\" will not|be reflected in your Prisoner Points or|<br>|rewards... And remember, you can only redeem|your Prisoner Points and receive your battle|rewards on <%nM_trade_end_m>days of the|<br>|month. If you miss this period, you'll lose|your Prisoner Points and your battle record,|so don't forget to exchange them...<bw_break>"
+    },
+    "48": {
+        "「わたしは　こう見えて　伝統文化の研究者なの。|　最近　はやりの　仮装メイク術も|　新しい文化として　とても　興味深いわ。|<br>|「真夜中プリズランに　仮装メイク術を|　取り入れたのも　研究者としての血が|　騒いだからよ。|<br>|「もともと　衣装を作ったり　着たりするのは|　好きだったから　わたしも|　はじめは　いろいろな　格好をしたわ。|<br>|「でも　最近はもう　ずっと　この格好ね。|　なんたって　見つけた獲物を|　捕まえるのに　適しているんだもの。|<br>|「ランニャーの次は　あの　おばけメイク術師を|　捕まえて　子分にするつもりよ！|<br>|「あとは　いつも　秘宝だとか騒いでる|　あの　ほうたいグルグルの姉の格好を|　どうにかしたいものね……。|<br>|「それにしても　あなたたちに　わたしの|　衣装を着て　遊んでもらえるなんて　ああ……|　想像しただけで　ウズウズしちゃう……！|<bw_break>": "I'm a student of traditional culture... I'm|also very interested in the recent popularity|of masquerade makeup as a new culture. I'm a|<br>|researcher, which is why I decided to include|masquerade makeup in the Midnight Prizelan.|I've always loved making and wearing|<br>|costumes, so I started out with a lot of|different outfits. But lately, I've been|wearing this... After all, it's good for|<br>|catching what you find... After Rango, I'm|going to capture that ghost make-up artist|and make him my henchman! And I'll have to do|<br>|something about that gargoyle-wearing sister|of mine who's always babbling about|treasure... But I can't believe you're going|<br>|to play with me in my costume. I'm getting an|itch just thinking about it.<bw_break>"
+    },
+    "49": {
+        "「プリズランの手引きを　受けるのね？|<yesno><break>": "You're going to be guided by the Prizelan,|aren't you?<yesno><break>"
+    },
+    "50": {
+        "「今回のプリズランで　遊んだ戦績よ。|<break>": "I've been playing in the Prison Run...<break>"
+    },
+    "51": {
+        "「あら……ごめんなさい。真夜中プリズランの|　開催期間は　たった今　終わってしまったの。|　また機会があったら　遊んでちょうだいね。|<end>": "Oh, my... Sorry... The Midnight Prizefighter|has just ended. If you get a chance, please|play again...<end>"
+    },
+    "52": {
+        "「一緒に遊ぶ仲間を　どうやって決めるのかしら？|<select_se_off>|自動で探す|パーティを選ぶ|<select_end><close>": "How do they decide who to play with?|<select_se_off>|Automatic search|Select a party|<select_end><close>"
+    },
+    "53": {
+        "「４人で　パーティを組んでいれば　一緒に遊ぶ|　もうひとつのパーティが　選べるわよ。|<br>|「でも　プリズランポイントは　入手できないわ。|　それでも　いいかしら？|<yesno><break>": "If you have a party of four, you can choose|another party to play with... But you won't|get any Prisoner Points. Is that okay with|<br>|you?<yesno><break>"
+    },
+    "54": {
+        " 「そう……残念だわ。|　気が変わったら　また　来てちょうだいね。": "So... Stay... If you change your mind, you|can come back..."
+    }
+}

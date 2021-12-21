@@ -1569,7 +1569,7 @@
         "<%sM_colpt>ｐｔ": "<%sM_colpt> pt"
     },
     "524": {
-        "<%dM_syouritu>％": ""
+        "<%dM_syouritu>％": "<%dM_syouritu>%"
     },
     "525": {
         "最 高<%dM_rensyoumax> 連 勝": ""
@@ -2664,13 +2664,13 @@
         "clarity_nt_char_888": "clarity_nt_char_888"
     },
     "889": {
-        "<%sM_PercentGenzai>％": ""
+        "<%sM_PercentGenzai>％": "<%sM_PercentGenzai>%"
     },
     "890": {
         "clarity_nt_char_890": "clarity_nt_char_890"
     },
     "891": {
-        "<%sM_PercentHenkati>％": ""
+        "<%sM_PercentHenkati>％": "<%sM_PercentHenkati>%"
     },
     "892": {
         "所持数<%nM_syozisuu>こ": "Stock: <%dM_syozisuu>"
@@ -2748,7 +2748,7 @@
         "clarity_nt_char_916": "clarity_nt_char_916"
     },
     "917": {
-        "<%dM_percent>％": ""
+        "<%dM_percent>％": "<%dM_percent>%"
     },
     "918": {
         "clarity_nt_char_918": "clarity_nt_char_918"
@@ -3576,7 +3576,7 @@
         "<%sM_messageSettei>": ""
     },
     "1193": {
-        "あと<%nM_Num>品": "<%nM_Num> Left"
+        "あと<%nM_Num>品": "<%dM_Num> Left"
     },
     "1194": {
         "clarity_nt_char_1194": "clarity_nt_char_1194"
@@ -5889,7 +5889,7 @@
         "<%sM_henkati><%sM_kara>": ""
     },
     "1964": {
-        "<%sM_PercentHenkati>％<%sM_kara>": ""
+        "<%sM_PercentHenkati>％<%sM_kara>": "<%sM_PercentHenkati>%<%sM_kara>"
     },
     "1965": {
         "ひとつ前の返信をみる": ""
@@ -8058,7 +8058,7 @@
         "商品リスト": "Item List"
     },
     "2687": {
-        "契約時間": "Time Left"
+        "契約時間": "Time Left "
     },
     "2688": {
         "clarity_nt_char_2688": "clarity_nt_char_2688"
@@ -8415,7 +8415,7 @@
         "clarity_nt_char_2805": "clarity_nt_char_2805"
     },
     "2806": {
-        "残<%3dM_CW_hh>時<%2dM_CW_mm>分": "<%3dM_CW_hh>:<%2dM_CW_mm> Left"
+        "残<%3dM_CW_hh>時<%2dM_CW_mm>分": "<%3dM_CW_hh>:<%02dM_CW_mm> Left"
     },
     "2807": {
         "バトルコマンド設定": "Battle Commands"
@@ -12498,7 +12498,7 @@
         "clarity_nt_char_4166": "clarity_nt_char_4166"
     },
     "4167": {
-        "あと<%nM_nnn>個": "<%nM_nnn> Left"
+        "あと<%nM_nnn>個": "<%dM_nnn> Left"
     },
     "4168": {
         "clarity_nt_char_4168": "clarity_nt_char_4168"
@@ -14697,7 +14697,7 @@
         "スペシャル": "Special"
     },
     "4900": {
-        "<%sM_percent>％": ""
+        "<%sM_percent>％": "<%sM_percent>%"
     },
     "4901": {
         "clarity_nt_char_4901": "clarity_nt_char_4901"
@@ -15372,7 +15372,7 @@
         "ふるまい方を変える": ""
     },
     "5125": {
-        "秘石効果": ""
+        "秘石効果": "Secret"
     },
     "5126": {
         "clarity_nt_char_5126": "clarity_nt_char_5126"
@@ -15633,7 +15633,7 @@
         "clarity_nt_char_5211": "clarity_nt_char_5211"
     },
     "5212": {
-        "<%2dM_cal_MM>月": ""
+        "<%2dM_cal_MM>月": "<%2dM_cal_MM>"
     },
     "5213": {
         "clarity_nt_char_5213": "clarity_nt_char_5213"
@@ -17991,16 +17991,16 @@
         "経験値お預かり設定": "Saved EXP Settings"
     },
     "5998": {
-        "封剣の門・四獄": "Sword Gate 4th Prison"
+        "封剣の門・四獄": "Sword Gate Prison IV"
     },
     "5999": {
-        "封剣の門・三獄": "Sword Gate 3rd Prison"
+        "封剣の門・三獄": "Sword Gate Prison III"
     },
     "6000": {
-        "封剣の門・二獄": "Sword Gate 2nd Prison"
+        "封剣の門・二獄": "Sword Gate Prison II"
     },
     "6001": {
-        "封剣の門・一獄": "Sword Gate 1st Prison"
+        "封剣の門・一獄": "Sword Gate Prison I"
     },
     "6002": {
         "条件付きバトルに挑戦する": ""
@@ -18984,7 +18984,7 @@
         "いない": ""
     },
     "6329": {
-        "後<%'nM_test6>個": "<%'nM_test6> Left"
+        "後<%'nM_test6>個": "<%'dM_test6> Left"
     },
     "6330": {
         "clarity_nt_char_6330": "clarity_nt_char_6330"
@@ -20136,7 +20136,7 @@
         "必要なジュエル": "Needed Jewels"
     },
     "6713": {
-        "手に入るピュアジュエル": ""
+        "手に入るピュアジュエル": "Obtained Pure Jewels"
     },
     "6714": {
         "つくる装備": "To be made"
@@ -20172,7 +20172,7 @@
         "clarity_nt_char_6724": "clarity_nt_char_6724"
     },
     "6725": {
-        "ピュアジュエルについて": ""
+        "ピュアジュエルについて": "About Pure Jewels"
     },
     "6726": {
         "ランクと難易度について": ""
@@ -20202,7 +20202,7 @@
         "わたす装備": ""
     },
     "6735": {
-        "ピュアジュエル": ""
+        "ピュアジュエル": "Pure Jewel"
     },
     "6736": {
         "記憶の回廊": "Memory Passage"
@@ -20433,13 +20433,13 @@
         "学園コーデ": ""
     },
     "6812": {
-        "<%nM_percent>％": ""
+        "<%nM_percent>％": "<%dM_percent>%"
     },
     "6813": {
         "clarity_nt_char_6813": "clarity_nt_char_6813"
     },
     "6814": {
-        "<%nM_percent>": ""
+        "<%nM_percent>": "<%dM_percent>"
     },
     "6815": {
         "カラーの変更": "Color Change"
@@ -20643,7 +20643,7 @@
         "clarity_nt_char_6881": "clarity_nt_char_6881"
     },
     "6882": {
-        "<%sM_status>　<%+.1fM_dcpt1><%sM_percent>": ""
+        "<%sM_status>　<%+.1fM_dcpt1><%sM_percent>": "<%sM_status>　<%+.1fM_dcpt1><%sM_percent>"
     },
     "6883": {
         "clarity_nt_char_6883": "clarity_nt_char_6883"
@@ -24087,13 +24087,13 @@
         "clarity_nt_char_8029": "clarity_nt_char_8029"
     },
     "8030": {
-        "<%nM_percent>%": ""
+        "<%nM_percent>%": "<%dM_percent>%"
     },
     "8031": {
         "clarity_nt_char_8031": "clarity_nt_char_8031"
     },
     "8032": {
-        "<%dM_percent>%": ""
+        "<%dM_percent>%": "<%dM_percent>%"
     },
     "8033": {
         "clarity_nt_char_8033": "clarity_nt_char_8033"
@@ -24105,7 +24105,7 @@
         "clarity_nt_char_8035": "clarity_nt_char_8035"
     },
     "8036": {
-        "<%sM_kouka> <%dM_percent>%": ""
+        "<%sM_kouka> <%dM_percent>%": "<%sM_kouka> <%dM_percent>%"
     },
     "8037": {
         "clarity_nt_char_8037": "clarity_nt_char_8037"
@@ -24546,13 +24546,13 @@
         "clarity_nt_char_8182": "clarity_nt_char_8182"
     },
     "8183": {
-        "<%sM_pc>のプレイヤーイベント（詳細）": "Player events for <%sM_pc> (details)"
+        "<%sM_pc>のプレイヤーイベント（詳細）": "<%sM_pc>'s Player Event (Details)"
     },
     "8184": {
         "clarity_nt_char_8184": "clarity_nt_char_8184"
     },
     "8185": {
-        "<%sM_pc>のプレイヤーイベント（概要）": "Player Events for <%sM_pc> (Summary)"
+        "<%sM_pc>のプレイヤーイベント（概要）": "<%sM_pc>'s Player Event (Summary)"
     },
     "8186": {
         "clarity_nt_char_8186": "clarity_nt_char_8186"
@@ -26865,7 +26865,7 @@
         "ガニャポンについて": "About Ganyapon"
     },
     "8956": {
-        "おまじない効果": ""
+        "おまじない効果": "Charm Effect"
     },
     "8957": {
         "<%sParam1>|<%sParam2>|<%sParam3>|<%sParam4>": ""
@@ -27654,13 +27654,13 @@
         "<%dM_play>回": "<%dM_play>"
     },
     "9219": {
-        "<%dM_bairitsu_01>％": ""
+        "<%dM_bairitsu_01>％": "<%dM_bairitsu_01>%"
     },
     "9220": {
         "clarity_nt_char_9220": "clarity_nt_char_9220"
     },
     "9221": {
-        "<%dM_bairitsu_02>％": ""
+        "<%dM_bairitsu_02>％": "<%dM_bairitsu_02>%"
     },
     "9222": {
         "clarity_nt_char_9222": "clarity_nt_char_9222"
@@ -28350,7 +28350,7 @@
         "カード確認": ""
     },
     "9451": {
-        "どの数字を消す？（のこり<%nM_00>こ）": "Erase which number? (<%nM_00> Left)"
+        "どの数字を消す？（のこり<%nM_00>こ）": "Erase which number? (<%dM_00> Left)"
     },
     "9452": {
         "clarity_nt_char_9452": "clarity_nt_char_9452"
@@ -28422,13 +28422,13 @@
         "地図を見る": "View Map"
     },
     "9475": {
-        "どのカードを交換する？（のこり<%nM_00>枚）": "Exchange which card? (<%nM_00> left)"
+        "どのカードを交換する？（のこり<%nM_00>枚）": "Exchange which card? (<%dM_00> left)"
     },
     "9476": {
-        "どのカードを渡す？（のこり<%nM_00>枚）": "Give which card? (<%nM_00> left)"
+        "どのカードを渡す？（のこり<%nM_00>枚）": "Give which card? (<%dM_00> left)"
     },
     "9477": {
-        "どのカードを捨てる？（のこり<%nM_00>枚）": "Toss which card? (<%nM_00> left)"
+        "どのカードを捨てる？（のこり<%nM_00>枚）": "Toss which card? (<%dM_00> left)"
     },
     "9478": {
         "clarity_nt_char_9478": "clarity_nt_char_9478"
@@ -28557,7 +28557,7 @@
         "Lv<%3dM_nn>": ""
     },
     "9520": {
-        "残<%3dM_hh>時<%2dM_mm>分": "<%3dM_hh>h<%2dM_mm>m left"
+        "残<%3dM_hh>時<%2dM_mm>分": "<%3dM_hh>h <%2dM_mm>m Left"
     },
     "9521": {
         "選んだ職業に反映する": "Choose Target Job"
@@ -28950,7 +28950,7 @@
         "羊皮紙": "Parchment"
     },
     "9651": {
-        "雪": ""
+        "雪": "Snw"
     },
     "9652": {
         "写真フレーム": "Photo Frame"
@@ -30741,7 +30741,7 @@
         "ビンゴのルールについて": ""
     },
     "10248": {
-        "残り<%2dM_mm>球": "<%2dM_mm>Ball Left"
+        "残り<%2dM_mm>球": "<%2dM_mm> ● Left"
     },
     "10249": {
         "clarity_nt_char_10249": "clarity_nt_char_10249"
@@ -31248,7 +31248,7 @@
         "効果と入手方法": "Effect/How to Get"
     },
     "10417": {
-        "タロットパック各色": "Tarot Pack Colors"
+        "タロットパック各色": "Colorful Tarot Pack"
     },
     "10418": {
         "このモンスターはパックから入手できない": "Cannot be received from a pack."
@@ -31425,7 +31425,7 @@
         "clarity_nt_char_10475": "clarity_nt_char_10475"
     },
     "10476": {
-        "付与される効果": ""
+        "付与される効果": "Given Effect"
     },
     "10477": {
         "1": "1"
@@ -31542,25 +31542,25 @@
         "レベル上限": ""
     },
     "10515": {
-        "成長に必要な素材": ""
+        "成長に必要な素材": "Materials Needed"
     },
     "10516": {
         "clarity_nt_char_10516": "clarity_nt_char_10516"
     },
     "10517": {
-        "見た目の変化": ""
+        "見た目の変化": "Changes"
     },
     "10518": {
         "clarity_nt_char_10518": "clarity_nt_char_10518"
     },
     "10519": {
-        "Lv<%dM_lv>に成長中": ""
+        "Lv<%dM_lv>に成長中": "Growing to Lv <%dM_lv>"
     },
     "10520": {
         "clarity_nt_char_10520": "clarity_nt_char_10520"
     },
     "10521": {
-        "完了予定　<%dM_cal_YYYY>年<%2dM_cal_MM>月<%2dM_cal_DD>日 <%2dM_hh>時<%02dM_mm>分": ""
+        "完了予定　<%dM_cal_YYYY>年<%2dM_cal_MM>月<%2dM_cal_DD>日 <%2dM_hh>時<%02dM_mm>分": "Finishes <%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY> <%2dM_hh>:<%02dM_mm>"
     },
     "10522": {
         "clarity_nt_char_10522": "clarity_nt_char_10522"
@@ -31569,7 +31569,7 @@
         "庭の見た目": ""
     },
     "10524": {
-        "地面": ""
+        "地面": "Type"
     },
     "10525": {
         "clarity_nt_char_10525": "clarity_nt_char_10525"
@@ -31593,46 +31593,46 @@
         "clarity_nt_char_10531": "clarity_nt_char_10531"
     },
     "10532": {
-        "ふしぎの木": ""
+        "ふしぎの木": "Mystery Tree"
     },
     "10533": {
-        "いのちの木": ""
+        "いのちの木": "Life Tree"
     },
     "10534": {
-        "きようさの木": ""
+        "きようさの木": "Deftness Tree"
     },
     "10535": {
         "clarity_nt_char_10535": "clarity_nt_char_10535"
     },
     "10536": {
-        "まもりの木": ""
+        "まもりの木": "Defense Tree"
     },
     "10537": {
-        "まりょくの木": ""
+        "まりょくの木": "Magic Tree"
     },
     "10538": {
         "clarity_nt_char_10538": "clarity_nt_char_10538"
     },
     "10539": {
-        "おもさの木": ""
+        "おもさの木": "Weight Tree"
     },
     "10540": {
-        "しんこうの木": ""
+        "しんこうの木": "Faith Tree"
     },
     "10541": {
         "clarity_nt_char_10541": "clarity_nt_char_10541"
     },
     "10542": {
-        "すばやさの木": ""
+        "すばやさの木": "Agility Tree"
     },
     "10543": {
         "clarity_nt_char_10543": "clarity_nt_char_10543"
     },
     "10544": {
-        "ちからの木": ""
+        "ちからの木": "Strength Tree"
     },
     "10545": {
-        "うつくしの木": ""
+        "うつくしの木": "Beauty Tree"
     },
     "10546": {
         "clarity_nt_char_10546": "clarity_nt_char_10546"
@@ -31725,19 +31725,19 @@
         "clarity_nt_char_10575": "clarity_nt_char_10575"
     },
     "10576": {
-        "設定しない": ""
+        "設定しない": "Don't Set"
     },
     "10577": {
-        "桜": ""
+        "桜": "Spg"
     },
     "10578": {
-        "新緑": ""
+        "新緑": "Summer"
     },
     "10579": {
         "clarity_nt_char_10579": "clarity_nt_char_10579"
     },
     "10580": {
-        "紅葉": ""
+        "紅葉": "Autumn"
     },
     "10581": {
         "clarity_nt_char_10581": "clarity_nt_char_10581"
@@ -31794,10 +31794,10 @@
         "clarity_nt_char_10598": "clarity_nt_char_10598"
     },
     "10599": {
-        "女神の木の効果": "Goddess Tree Effects"
+        "女神の木の効果": "Goddess Tree"
     },
     "10600": {
-        "女神の木の効果はありません": "The goddess tree has no effects."
+        "女神の木の効果はありません": "The Goddess Tree has no effects."
     },
     "10601": {
         "天星郷": "Heaven"
@@ -31968,25 +31968,25 @@
         "チャージ<%3dM_sec>秒": ""
     },
     "10657": {
-        "探査メニュー": ""
+        "探査メニュー": "Explore Menu"
     },
     "10658": {
         "clarity_nt_char_10658": "clarity_nt_char_10658"
     },
     "10659": {
-        "脱出する": ""
+        "脱出する": "Leave"
     },
     "10660": {
         "clarity_nt_char_10660": "clarity_nt_char_10660"
     },
     "10661": {
-        "源世の恵みを見る": ""
+        "源世の恵みを見る": "Origin Blessings"
     },
     "10662": {
         "clarity_nt_char_10662": "clarity_nt_char_10662"
     },
     "10663": {
-        "収集品を見る": ""
+        "収集品を見る": "View Stock"
     },
     "10664": {
         "clarity_nt_char_10664": "clarity_nt_char_10664"
@@ -32151,46 +32151,46 @@
         "登録を消す": ""
     },
     "10718": {
-        "無料期間中": ""
+        "無料期間中": "Free Period"
     },
     "10719": {
         "レア装備ランク<%dM_rank>": "Rare Equip. Rank <%dM_rank>"
     },
     "10720": {
-        "この装備には変換できません": ""
+        "この装備には変換できません": "Cannot be converted to this."
     },
     "10721": {
         "進化や変換はできません": "Cannot evolve/transform."
     },
     "10722": {
-        "おもさ＋<%nB_VAL>": ""
+        "おもさ＋<%nB_VAL>": "Weight +<%dB_VAL>"
     },
     "10723": {
-        "ちから＋<%nB_VAL>": ""
+        "ちから＋<%nB_VAL>": "Strength +<%dB_VAL>"
     },
     "10724": {
-        "すばやさ＋<%nB_VAL>": ""
+        "すばやさ＋<%nB_VAL>": "Agility +<%dB_VAL>"
     },
     "10725": {
         "clarity_nt_char_10725": "clarity_nt_char_10725"
     },
     "10726": {
-        "みりょく＋<%nB_VAL>": ""
+        "みりょく＋<%nB_VAL>": "Charm +<%dB_VAL>"
     },
     "10727": {
         "clarity_nt_char_10727": "clarity_nt_char_10727"
     },
     "10728": {
-        "みのまもり＋<%nB_VAL>": ""
+        "みのまもり＋<%nB_VAL>": "Resilience +<%dB_VAL>"
     },
     "10729": {
-        "さいだいＭＰ＋<%nB_VAL>": ""
+        "さいだいＭＰ＋<%nB_VAL>": "Max MP +<%dB_VAL>"
     },
     "10730": {
         "clarity_nt_char_10730": "clarity_nt_char_10730"
     },
     "10731": {
-        "さいだいＨＰ＋<%nB_VAL>": ""
+        "さいだいＨＰ＋<%nB_VAL>": "Max HP +<%dB_VAL>"
     },
     "10732": {
         "clarity_nt_char_10732": "clarity_nt_char_10732"
@@ -32298,303 +32298,300 @@
         "探査回数 あと<%dM_num>回": "<%dM_num> Explorations Left"
     },
     "10767": {
-        "<%nM_cal_YYYY>年<%2nM_cal_MM>月<%2nM_cal_DD>日<%nM_hh>時<%nM_mm>分でリセット": "Resets on <%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY> <%dM_hh>:<%dM_mm>"
+        "<%nM_cal_YYYY>年<%2nM_cal_MM>月<%2nM_cal_DD>日<%nM_hh>時<%nM_mm>分でリセット": "Resets on <%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY> <%dM_hh>:<%02dM_mm>"
     },
     "10768": {
         "clarity_nt_char_10768": "clarity_nt_char_10768"
     },
     "10769": {
-        "源世庫パニガルムへ行く": ""
+        "源世庫パニガルムへ行く": "Go to Origin Vault Panigalm"
     },
     "10770": {
-        "ぜんぶうけとる": ""
-    },
-    "10771": {
         "（第ニ伝承をつけよう）": ""
     },
-    "10772": {
+    "10771": {
         "第二伝承をつけられる": ""
     },
-    "10773": {
-        "clarity_nt_char_10773": "clarity_nt_char_10773"
+    "10772": {
+        "clarity_nt_char_10772": "clarity_nt_char_10772"
     },
-    "10774": {
+    "10773": {
         "第二伝承": ""
     },
-    "10775": {
-        "clarity_nt_char_10775": "clarity_nt_char_10775"
+    "10774": {
+        "clarity_nt_char_10774": "clarity_nt_char_10774"
     },
-    "10776": {
+    "10775": {
         "オススメ職業": "Recommended"
     },
-    "10777": {
-        "clarity_nt_char_10777": "clarity_nt_char_10777"
+    "10776": {
+        "clarity_nt_char_10776": "clarity_nt_char_10776"
     },
-    "10778": {
+    "10777": {
         "じゅもん追加設定": "Spell Display"
     },
-    "10779": {
-        "clarity_nt_char_10779": "clarity_nt_char_10779"
+    "10778": {
+        "clarity_nt_char_10778": "clarity_nt_char_10778"
     },
-    "10780": {
+    "10779": {
         "じゅもん追加設定：": "Spell Display:"
     },
-    "10781": {
+    "10780": {
         "とくぎに呪文を追加": "Show Skills/Spells"
     },
+    "10781": {
+        "収集したパニガログ": "Collected Panigalog"
+    },
     "10782": {
-        "収集したパニガログ": ""
+        "パニガログを解凍します": "Decrypt Panigalog"
     },
     "10783": {
-        "パニガログを解凍します": ""
-    },
-    "10784": {
         "正式版メニューへ移動": ""
     },
+    "10784": {
+        "clarity_nt_char_10784": "clarity_nt_char_10784"
+    },
     "10785": {
-        "clarity_nt_char_10785": "clarity_nt_char_10785"
+        "源世の恵み": "Origin Blessing"
     },
     "10786": {
-        "源世の恵み": ""
+        "探査を続ける": "Continue Exploring"
     },
     "10787": {
-        "探査を続ける": ""
+        "clarity_nt_char_10787": "clarity_nt_char_10787"
     },
     "10788": {
-        "clarity_nt_char_10788": "clarity_nt_char_10788"
+        "収集品": "Stock"
     },
     "10789": {
-        "収集品": ""
-    },
-    "10790": {
         "スキル詳細を見る": "View Skill Details"
     },
-    "10791": {
-        "clarity_nt_char_10791": "clarity_nt_char_10791"
+    "10790": {
+        "clarity_nt_char_10790": "clarity_nt_char_10790"
     },
-    "10792": {
+    "10791": {
         "かいふく魔力+<%dB_VAL>": "Mag. Mending +<%dB_VAL>"
     },
+    "10792": {
+        "clarity_nt_char_10792": "clarity_nt_char_10792"
+    },
     "10793": {
-        "clarity_nt_char_10793": "clarity_nt_char_10793"
+        "きようさ+<%dB_VAL>": "Deftness +<%dB_VAL>"
     },
     "10794": {
-        "きようさ+<%dB_VAL>": ""
+        "clarity_nt_char_10794": "clarity_nt_char_10794"
     },
     "10795": {
-        "clarity_nt_char_10795": "clarity_nt_char_10795"
+        "こうげき魔力+<%dB_VAL>": "Mag. Might +<%dB_VAL>"
     },
     "10796": {
-        "こうげき魔力+<%dB_VAL>": ""
+        "clarity_nt_char_10796": "clarity_nt_char_10796"
     },
     "10797": {
-        "clarity_nt_char_10797": "clarity_nt_char_10797"
+        "さいだいＨＰ+<%dB_VAL>": "Max HP +<%dB_VAL>"
     },
     "10798": {
-        "さいだいＨＰ+<%dB_VAL>": ""
+        "clarity_nt_char_10798": "clarity_nt_char_10798"
     },
     "10799": {
-        "clarity_nt_char_10799": "clarity_nt_char_10799"
+        "さいだいＭＰ+<%dB_VAL>": "Max MP +<%dB_VAL>"
     },
     "10800": {
-        "さいだいＭＰ+<%dB_VAL>": ""
+        "clarity_nt_char_10800": "clarity_nt_char_10800"
     },
     "10801": {
-        "clarity_nt_char_10801": "clarity_nt_char_10801"
+        "みのまもり+<%dB_VAL>": "Resilience +<%dB_VAL>"
     },
     "10802": {
-        "みのまもり+<%dB_VAL>": ""
+        "みりょく+<%dB_VAL>": "Charm +<%dB_VAL>"
     },
     "10803": {
-        "みりょく+<%dB_VAL>": ""
+        "clarity_nt_char_10803": "clarity_nt_char_10803"
     },
     "10804": {
-        "clarity_nt_char_10804": "clarity_nt_char_10804"
+        "おもさ+<%dB_VAL>": "Weight +<%dB_VAL>"
     },
     "10805": {
-        "おもさ+<%dB_VAL>": ""
+        "すばやさ+<%dB_VAL>": "Agility +<%dB_VAL>"
     },
     "10806": {
-        "すばやさ+<%dB_VAL>": ""
+        "clarity_nt_char_10806": "clarity_nt_char_10806"
     },
     "10807": {
-        "clarity_nt_char_10807": "clarity_nt_char_10807"
+        "ちから+<%dB_VAL>": "Strength +<%dB_VAL>"
     },
     "10808": {
-        "ちから+<%dB_VAL>": ""
+        "くわしくみるにもどる": "Return to Details"
     },
     "10809": {
-        "くわしくみるにもどる": ""
+        "clarity_nt_char_10809": "clarity_nt_char_10809"
     },
     "10810": {
-        "clarity_nt_char_10810": "clarity_nt_char_10810"
-    },
-    "10811": {
         "効果と入手場所にもどる": ""
     },
-    "10812": {
+    "10811": {
         "釣れる場所にもどる": ""
     },
-    "10813": {
+    "10812": {
         "パラメータ変化にもどる": "Return to Stats View"
     },
-    "10814": {
+    "10813": {
         "伝承効果": "Bonus"
     },
-    "10815": {
-        "clarity_nt_char_10815": "clarity_nt_char_10815"
+    "10814": {
+        "clarity_nt_char_10814": "clarity_nt_char_10814"
     },
-    "10816": {
+    "10815": {
         "伝承アクセサリーを見る": "See Inheritance"
     },
-    "10817": {
+    "10816": {
         "合成後": "After"
     },
-    "10818": {
+    "10817": {
         "合成前": "Before"
     },
-    "10819": {
+    "10818": {
         "[Lv<%dM_lv>/レベル上限値]": ""
     },
-    "10820": {
+    "10819": {
         "高い": ""
     },
-    "10821": {
-        "clarity_nt_char_10821": "clarity_nt_char_10821"
+    "10820": {
+        "clarity_nt_char_10820": "clarity_nt_char_10820"
     },
-    "10822": {
+    "10821": {
         "やや高い": ""
     },
-    "10823": {
-        "clarity_nt_char_10823": "clarity_nt_char_10823"
+    "10822": {
+        "clarity_nt_char_10822": "clarity_nt_char_10822"
     },
-    "10824": {
+    "10823": {
         "やや低い": ""
     },
-    "10825": {
-        "clarity_nt_char_10825": "clarity_nt_char_10825"
+    "10824": {
+        "clarity_nt_char_10824": "clarity_nt_char_10824"
     },
-    "10826": {
+    "10825": {
         "低い": ""
     },
-    "10827": {
-        "clarity_nt_char_10827": "clarity_nt_char_10827"
+    "10826": {
+        "clarity_nt_char_10826": "clarity_nt_char_10826"
     },
-    "10828": {
+    "10827": {
         "現在付いている伝承効果": ""
     },
-    "10829": {
+    "10828": {
         "進化": "Evo."
     },
-    "10830": {
-        "clarity_nt_char_10830": "clarity_nt_char_10830"
+    "10829": {
+        "clarity_nt_char_10829": "clarity_nt_char_10829"
     },
-    "10831": {
+    "10830": {
         "進化前の装備": "Before Evolve"
     },
-    "10832": {
-        "clarity_nt_char_10832": "clarity_nt_char_10832"
+    "10831": {
+        "clarity_nt_char_10831": "clarity_nt_char_10831"
     },
-    "10833": {
+    "10832": {
         "どれに？": "Which?"
     },
+    "10833": {
+        "clarity_nt_char_10833": "clarity_nt_char_10833"
+    },
     "10834": {
-        "clarity_nt_char_10834": "clarity_nt_char_10834"
+        "完了予定 <%2dM_cal_MM>月<%2dM_cal_DD>日 <%2dM_hh>:<%02dM_mm>": "Finishes <%2dM_cal_MM>/<%2dM_cal_DD> <%2dM_hh>:<%02dM_mm>"
     },
     "10835": {
-        "完了予定 <%2dM_cal_MM>月<%2dM_cal_DD>日 <%2dM_hh>:<%02dM_mm>": ""
+        "clarity_nt_char_10835": "clarity_nt_char_10835"
     },
     "10836": {
-        "clarity_nt_char_10836": "clarity_nt_char_10836"
-    },
-    "10837": {
         "商品カテゴリ": ""
     },
-    "10838": {
-        "clarity_nt_char_10838": "clarity_nt_char_10838"
+    "10837": {
+        "clarity_nt_char_10837": "clarity_nt_char_10837"
     },
-    "10839": {
+    "10838": {
         "こちらで　よろしいですか？|<yesno><close>": ""
     },
-    "10840": {
-        "clarity_nt_char_10840": "clarity_nt_char_10840"
+    "10839": {
+        "clarity_nt_char_10839": "clarity_nt_char_10839"
     },
-    "10841": {
+    "10840": {
         "源世の恵みを　１つ得ることができます。|どれを　選びますか？|<break>": ""
     },
-    "10842": {
-        "clarity_nt_char_10842": "clarity_nt_char_10842"
+    "10841": {
+        "clarity_nt_char_10841": "clarity_nt_char_10841"
     },
-    "10843": {
+    "10842": {
         "<%.1fM_dcpt2><%sM_percent2>": ""
     },
-    "10844": {
+    "10843": {
         "錬金効果枠": "Effect Slots"
     },
-    "10845": {
-        "源世の聖標": ""
+    "10844": {
+        "源世の聖標": "Sacred Mark"
     },
-    "10846": {
+    "10845": {
         "本店の掲載順に": ""
     },
+    "10846": {
+        "成長完了予定": "Finishes Growing"
+    },
     "10847": {
-        "成長完了予定": ""
+        "clarity_nt_char_10847": "clarity_nt_char_10847"
     },
     "10848": {
-        "clarity_nt_char_10848": "clarity_nt_char_10848"
+        "<%2dM_cal_MM>月<%2dM_cal_DD>日 <%2dM_hh>:<%02dM_mm>": "<%2dM_cal_MM>/<%2dM_cal_DD> <%2dM_hh>:<%02dM_mm>"
     },
     "10849": {
-        "<%2dM_cal_MM>月<%2dM_cal_DD>日 <%2dM_hh>:<%02dM_mm>": ""
-    },
-    "10850": {
         "商品説明をみる": ""
     },
-    "10851": {
+    "10850": {
         "だれを優先？": ""
     },
-    "10852": {
-        "clarity_nt_char_10852": "clarity_nt_char_10852"
+    "10851": {
+        "clarity_nt_char_10851": "clarity_nt_char_10851"
     },
-    "10853": {
+    "10852": {
         "自分と限られた人": ""
     },
-    "10854": {
-        "clarity_nt_char_10854": "clarity_nt_char_10854"
+    "10853": {
+        "clarity_nt_char_10853": "clarity_nt_char_10853"
     },
-    "10855": {
+    "10854": {
         "6th 天星の英雄たち": ""
     },
-    "10856": {
+    "10855": {
         "４周年の極致": "4th Year Test"
     },
-    "10857": {
-        "clarity_nt_char_10857": "clarity_nt_char_10857"
+    "10856": {
+        "clarity_nt_char_10856": "clarity_nt_char_10856"
     },
-    "10858": {
+    "10857": {
         "９周年の極致": "9th Year Test"
     },
-    "10859": {
-        "clarity_nt_char_10859": "clarity_nt_char_10859"
+    "10858": {
+        "clarity_nt_char_10858": "clarity_nt_char_10858"
     },
-    "10860": {
+    "10859": {
         "８周年の極致": "8th Year Test"
     },
-    "10861": {
-        "clarity_nt_char_10861": "clarity_nt_char_10861"
+    "10860": {
+        "clarity_nt_char_10860": "clarity_nt_char_10860"
     },
-    "10862": {
+    "10861": {
         "７周年の極致": "7th Year Test"
     },
-    "10863": {
-        "clarity_nt_char_10863": "clarity_nt_char_10863"
+    "10862": {
+        "clarity_nt_char_10862": "clarity_nt_char_10862"
     },
-    "10864": {
+    "10863": {
         "５周年の極致": "5th Year Test"
     },
-    "10865": {
-        "clarity_nt_char_10865": "clarity_nt_char_10865"
+    "10864": {
+        "clarity_nt_char_10864": "clarity_nt_char_10864"
     },
-    "10866": {
+    "10865": {
         "天星郷の世界": "Celestial World"
     }
 }

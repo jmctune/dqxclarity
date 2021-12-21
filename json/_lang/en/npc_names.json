@@ -11628,7 +11628,7 @@
         "ミネアの水晶玉": "Minea's Crystal Ball"
     },
     "3877": {
-        "記録係オットー": "Reporter Otto"
+        "記録係オットー": "Archivist Otto"
     },
     "3878": {
         "討伐隊員エリオス": "Subj. Member Elios"
@@ -14487,7 +14487,7 @@
         "じんめんツリー": "Tis' The Treeson"
     },
     "4830": {
-        "メリーサーラ": "Merry Sala"
+        "メリーサーラ": "Merrygina"
     },
     "4831": {
         "clarity_nt_char_4831": "clarity_nt_char_4831"
@@ -17088,7 +17088,7 @@
         "出張大使ペラリ": "Team Ambassador Pera"
     },
     "5697": {
-        "出張購買員ガダン": "Team Buying Agent Gadan"
+        "出張購買員ガダン": "Team Vendor Agent Gadan"
     },
     "5698": {
         "clarity_nt_char_5698": "clarity_nt_char_5698"
@@ -17097,7 +17097,7 @@
         "出張大使ギリー": "Team Ambassador Gill"
     },
     "5700": {
-        "出張購買員イリー": "Team Buying Agent Illy"
+        "出張購買員イリー": "Team Vendor Agent Illy"
     },
     "5701": {
         "clarity_nt_char_5701": "clarity_nt_char_5701"
@@ -17109,7 +17109,7 @@
         "clarity_nt_char_5703": "clarity_nt_char_5703"
     },
     "5704": {
-        "出張購買員ポレロ": "Team Buying Agent Polero"
+        "出張購買員ポレロ": "Team Vendor Agent Polero"
     },
     "5705": {
         "clarity_nt_char_5705": "clarity_nt_char_5705"
@@ -17118,7 +17118,7 @@
         "出張大使スズネ": "Team Ambassador Suzun"
     },
     "5707": {
-        "出張購買員サシモ": "Team Buying Agent Sashim"
+        "出張購買員サシモ": "Team Vendor Agent Sashim"
     },
     "5708": {
         "clarity_nt_char_5708": "clarity_nt_char_5708"
@@ -17130,7 +17130,7 @@
         "clarity_nt_char_5710": "clarity_nt_char_5710"
     },
     "5711": {
-        "出張購買員パタタ": "Team Buying Agent Patata"
+        "出張購買員パタタ": "Team Vendor Agent Patata"
     },
     "5712": {
         "clarity_nt_char_5712": "clarity_nt_char_5712"
@@ -17187,7 +17187,7 @@
         "達人ロクロ": "Master Rokuro"
     },
     "5730": {
-        "達人トーン": "Master Toon"
+        "達人トーン": "Master Tone"
     },
     "5731": {
         "達人ロチャ": "Master Rocha"
@@ -18156,7 +18156,7 @@
         "ジングルヒドラ": "Jingle Hydra"
     },
     "6053": {
-        "クリスモスブロス": "Christmas Bros."
+        "クリスモスブロス": "Soul of Christmas"
     },
     "6054": {
         "clarity_nt_char_6054": "clarity_nt_char_6054"
@@ -24258,7 +24258,7 @@
         "clarity_nt_char_8086": "clarity_nt_char_8086"
     },
     "8087": {
-        "レイメイ": "Raymay"
+        "レイメイ": "Reimei"
     },
     "8088": {
         "clarity_nt_char_8088": "clarity_nt_char_8088"
@@ -26664,7 +26664,7 @@
         "clarity_nt_char_8888": "clarity_nt_char_8888"
     },
     "8889": {
-        "大地の怒竜バウギア": "Angry Earthwyrm"
+        "大地の怒竜バウギア": "Earthwyrm Baugia"
     },
     "8890": {
         "首領プライド": "Chief Pride"
@@ -31776,7 +31776,7 @@
         "clarity_nt_char_10592": "clarity_nt_char_10592"
     },
     "10593": {
-        "暴走したコウリン": "Haywire Kourin"
+        "暴走したコウリン": "Berserk Kourin"
     },
     "10594": {
         "clarity_nt_char_10594": "clarity_nt_char_10594"
@@ -31953,49 +31953,49 @@
         "clarity_nt_char_10651": "clarity_nt_char_10651"
     },
     "10652": {
-        "アルビデ死体・左手袋なし": ""
+        "アルビデ死体・左手袋なし": "Albide Dead Body - L Arm Missing"
     },
     "10653": {
         "clarity_nt_char_10653": "clarity_nt_char_10653"
     },
     "10654": {
-        "天使長ミトラー": ""
+        "天使長ミトラー": "Archangel Mitra"
     },
     "10655": {
-        "スパエル": ""
+        "スパエル": "Spael"
     },
     "10656": {
         "clarity_nt_char_10656": "clarity_nt_char_10656"
     },
     "10657": {
-        "ゾーフィア": ""
+        "ゾーフィア": "Zofia"
     },
     "10658": {
-        "ピュトス": ""
+        "ピュトス": "Putos"
     },
     "10659": {
         "clarity_nt_char_10659": "clarity_nt_char_10659"
     },
     "10660": {
-        "アシュレイ": ""
+        "アシュレイ": "Ashley"
     },
     "10661": {
-        "レオーネ": ""
+        "レオーネ": "Leone"
     },
     "10662": {
         "clarity_nt_char_10662": "clarity_nt_char_10662"
     },
     "10663": {
-        "アラクレス": ""
+        "アラクレス": "Alachres"
     },
     "10664": {
-        "脈動する鉱石": ""
+        "脈動する鉱石": "Pulsating Ore"
     },
     "10665": {
         "clarity_nt_char_10665": "clarity_nt_char_10665"
     },
     "10666": {
-        "魂のボトル": ""
+        "魂のボトル": "Bottle of Soul"
     },
     "10667": {
         "天奏士ピパップ": "Poet Messenger Pipap"
@@ -32046,10 +32046,10 @@
         "メイジェン": "Magen"
     },
     "10683": {
-        "壊れたハイハイジャンプさん": ""
+        "壊れたハイハイジャンプさん": "Broken Mr. High High Jump"
     },
     "10684": {
-        "鉱物生命体の弾丸": ""
+        "鉱物生命体の弾丸": "Life Mineral Bullet"
     },
     "10685": {
         "clarity_nt_char_10685": "clarity_nt_char_10685"
@@ -32103,19 +32103,19 @@
         "改造屋ミニタン": "Remodel Shop Minitan"
     },
     "10702": {
-        "記録係マータ": ""
+        "記録係マータ": "Archivist Marta"
     },
     "10703": {
         "clarity_nt_char_10703": "clarity_nt_char_10703"
     },
     "10704": {
-        "天使兵士": ""
+        "天使兵士": "Angel Guard"
     },
     "10705": {
         "clarity_nt_char_10705": "clarity_nt_char_10705"
     },
     "10706": {
-        "指揮官天使兵士": ""
+        "指揮官天使兵士": "Angel Commander"
     },
     "10707": {
         "移動係ププラン": "Travel Clerk Pupulan"
@@ -32199,28 +32199,28 @@
         "シャルシル": "Charsil"
     },
     "10734": {
-        "リユーカ": ""
+        "リユーカ": "Ryuka"
     },
     "10735": {
         "clarity_nt_char_10735": "clarity_nt_char_10735"
     },
     "10736": {
-        "サリャント": ""
+        "サリャント": "Sariant"
     },
     "10737": {
-        "ラスバス": ""
+        "ラスバス": "Rasbas"
     },
     "10738": {
         "clarity_nt_char_10738": "clarity_nt_char_10738"
     },
     "10739": {
-        "セティカフ": ""
+        "セティカフ": "Setikaf"
     },
     "10740": {
-        "ララシシュ": ""
+        "ララシシュ": "Larashish"
     },
     "10741": {
-        "宿屋セリャン": ""
+        "宿屋セリャン": "Innkeep Serian"
     },
     "10742": {
         "clarity_nt_char_10742": "clarity_nt_char_10742"
@@ -32232,100 +32232,100 @@
         "clarity_nt_char_10744": "clarity_nt_char_10744"
     },
     "10745": {
-        "道具屋シェルス": ""
+        "道具屋シェルス": "Item Shop Shels"
     },
     "10746": {
         "取引商サットム": "Trade Satmu"
     },
     "10747": {
-        "ゾンティック": ""
+        "ゾンティック": "Zontick"
     },
     "10748": {
         "clarity_nt_char_10748": "clarity_nt_char_10748"
     },
     "10749": {
-        "ファンザン": ""
+        "ファンザン": "Fanzan"
     },
     "10750": {
-        "マンフリッツ": ""
+        "マンフリッツ": "Manfritz"
     },
     "10751": {
         "clarity_nt_char_10751": "clarity_nt_char_10751"
     },
     "10752": {
-        "レルガン": ""
+        "レルガン": "Relgan"
     },
     "10753": {
         "clarity_nt_char_10753": "clarity_nt_char_10753"
     },
     "10754": {
-        "ネリメル": ""
+        "ネリメル": "Nerimel"
     },
     "10755": {
         "clarity_nt_char_10755": "clarity_nt_char_10755"
     },
     "10756": {
-        "門番シャッデ": ""
+        "門番シャッデ": "Gatekeeper Shadde"
     },
     "10757": {
         "clarity_nt_char_10757": "clarity_nt_char_10757"
     },
     "10758": {
-        "門番フロイダ": ""
+        "門番フロイダ": "Gatekeeper Froida"
     },
     "10759": {
         "clarity_nt_char_10759": "clarity_nt_char_10759"
     },
     "10760": {
-        "グスター": ""
+        "グスター": "Guster"
     },
     "10761": {
         "clarity_nt_char_10761": "clarity_nt_char_10761"
     },
     "10762": {
-        "ラジョンナ": ""
+        "ラジョンナ": "Lajonna"
     },
     "10763": {
-        "ユールグ": ""
+        "ユールグ": "Yulug"
     },
     "10764": {
         "clarity_nt_char_10764": "clarity_nt_char_10764"
     },
     "10765": {
-        "セラッテ": ""
+        "セラッテ": "Seratte"
     },
     "10766": {
         "clarity_nt_char_10766": "clarity_nt_char_10766"
     },
     "10767": {
-        "シッシャ": ""
+        "シッシャ": "Shisha"
     },
     "10768": {
         "clarity_nt_char_10768": "clarity_nt_char_10768"
     },
     "10769": {
-        "ファラフォル": ""
+        "ファラフォル": "Farafol"
     },
     "10770": {
         "clarity_nt_char_10770": "clarity_nt_char_10770"
     },
     "10771": {
-        "リルレル": ""
+        "リルレル": "Lilrel"
     },
     "10772": {
         "clarity_nt_char_10772": "clarity_nt_char_10772"
     },
     "10773": {
-        "シスィーテ": ""
+        "シスィーテ": "Sisite"
     },
     "10774": {
-        "ファルケ": ""
+        "ファルケ": "Falke"
     },
     "10775": {
         "clarity_nt_char_10775": "clarity_nt_char_10775"
     },
     "10776": {
-        "ゼスタス": ""
+        "ゼスタス": "Zestas"
     },
     "10777": {
         "clarity_nt_char_10777": "clarity_nt_char_10777"
@@ -32904,16 +32904,16 @@
         "手下の海賊・Ｃ": "Pirate Crewman C"
     },
     "10969": {
-        "プリぞう": ""
+        "プリぞう": "Pre-image"
     },
     "10970": {
         "clarity_nt_char_10970": "clarity_nt_char_10970"
     },
     "10971": {
-        "ズーたろう": ""
+        "ズーたろう": "Zutarou"
     },
     "10972": {
-        "ニャンすけ": ""
+        "ニャンすけ": "Meowsky"
     },
     "10973": {
         "食材屋リオンネ": "Grocery Rionne"

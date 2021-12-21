@@ -3603,13 +3603,13 @@
         "レインボーリキッド": "Rainbow Liquid"
     },
     "1202": {
-        "壱の式修了の陽符": ""
+        "壱の式修了の陽符": "Yang Trial Completion"
     },
     "1203": {
         "clarity_nt_char_1203": "clarity_nt_char_1203"
     },
     "1204": {
-        "壱の式修了の陰符": ""
+        "壱の式修了の陰符": "Yin Trial Completion"
     },
     "1205": {
         "clarity_nt_char_1205": "clarity_nt_char_1205"
@@ -7557,10 +7557,10 @@
         "さまざまな色素が|混じり合った|カラフルな液体": ""
     },
     "2520": {
-        "げんまを強くする|陽衆の壱の修行を|修了した証": ""
+        "げんまを強くする|陽衆の壱の修行を|修了した証": "Yang Trial I|proof that|boosts spirits."
     },
     "2521": {
-        "げんまを強くする|陰衆の壱の修行を|修了した証": ""
+        "げんまを強くする|陰衆の壱の修行を|修了した証": "Yin Trial I|proof that|boosts spirits."
     },
     "2522": {
         "ジョゼ少年の|武器作りに必要な|錬金の材料": ""
@@ -11250,13 +11250,13 @@
         "clarity_nt_char_3750": "clarity_nt_char_3750"
     },
     "3751": {
-        "<pc>は　壱の式修了の陽符を|じっくり　ながめてみた。|<br>|陽衆の頭領　アサヒに認められた証として|なんだか　誇らしげな気持ちになった。": ""
+        "<pc>は　壱の式修了の陽符を|じっくり　ながめてみた。|<br>|陽衆の頭領　アサヒに認められた証として|なんだか　誇らしげな気持ちになった。": "<pc> took a closer look at the|Yang Trial Completion.|<br>|You feel a sense of pride from getting|approval from Asahi, the leader of the|Yang Clan."
     },
     "3752": {
         "clarity_nt_char_3752": "clarity_nt_char_3752"
     },
     "3753": {
-        "<pc>は　壱の式修了の陰符を|じっくり　ながめてみた。|<br>|陰衆の頭領　ヨイに認められた証として|なんだか　誇らしげな気持ちになった。": ""
+        "<pc>は　壱の式修了の陰符を|じっくり　ながめてみた。|<br>|陰衆の頭領　ヨイに認められた証として|なんだか　誇らしげな気持ちになった。": "<pc> took a closer look at the|Yin Trial Completion.|<br>|You feel a sense of pride from getting|approval from Yoi, the leader of the|Yin Clan."
     },
     "3754": {
         "<pc>は　まぼろしのトゲを|手に取ってみた。|<br>|重厚な見た目とは　裏腹に|とても軽い！": ""
@@ -13914,7 +13914,7 @@
         "まがまがしい|雰囲気のある|あやしげな人形": ""
     },
     "4639": {
-        "げんまを強くする|陰衆の弐の修行を|修了した証": ""
+        "げんまを強くする|陰衆の弐の修行を|修了した証": "Yin Trial II|proof that|boosts spirits."
     },
     "4640": {
         "<pc>は|モモリオンのカギを　ギュッと握りしめてみた。|<br>|カギについた　羽根の飾りで|手のツボが　刺激されて　痛い！|……でも　なんだか　気持ちいい！！": ""
@@ -14523,10 +14523,10 @@
         "clarity_nt_char_4841": "clarity_nt_char_4841"
     },
     "4842": {
-        "耐火性きんちゃく袋": ""
+        "耐火性きんちゃく袋": "Fireproof Pouch"
     },
     "4843": {
-        "燃えにくい|素材で　できた|きんちゃく袋": ""
+        "燃えにくい|素材で　できた|きんちゃく袋": "Pouch made of|non-flammable|material."
     },
     "4844": {
         "clarity_nt_char_4844": "clarity_nt_char_4844"

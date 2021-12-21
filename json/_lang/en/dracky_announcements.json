@@ -1599,40 +1599,40 @@
         "毛皮に包まれた氷は　今にも　すべて解けそうです！！": ""
     },
     "534": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・一獄の戦いに誘われました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・一獄の戦いに誘われました": "Sword Gate Prison I invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "535": {
         "clarity_nt_char_535": "clarity_nt_char_535"
     },
     "536": {
-        "封剣の門・一獄の誘いが取り消されました": ""
+        "封剣の門・一獄の誘いが取り消されました": "Sword Gate Prison I invite was cancelled."
     },
     "537": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・二獄の戦いに誘われました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・二獄の戦いに誘われました": "Sword Gate Prison II invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "538": {
         "clarity_nt_char_538": "clarity_nt_char_538"
     },
     "539": {
-        "封剣の門・二獄の誘いが取り消されました": ""
+        "封剣の門・二獄の誘いが取り消されました": "Sword Gate Prison II invitation cancelled."
     },
     "540": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・三獄の戦いに誘われました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・三獄の戦いに誘われました": "Sword Gate Prison III invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "541": {
         "clarity_nt_char_541": "clarity_nt_char_541"
     },
     "542": {
-        "封剣の門・三獄の誘いが取り消されました": ""
+        "封剣の門・三獄の誘いが取り消されました": "Sword Gate Prison III invitation cancelled."
     },
     "543": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・四獄の戦いに誘われました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・四獄の戦いに誘われました": "Sword Gate Prison IV invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "544": {
         "clarity_nt_char_544": "clarity_nt_char_544"
     },
     "545": {
-        "封剣の門・四獄の誘いが取り消されました": ""
+        "封剣の門・四獄の誘いが取り消されました": "Sword Gate Prison IV invitation cancelled."
     },
     "546": {
         "掘り出したお宝があと<%dC_N1>分で消えてしまいます": ""
@@ -4452,25 +4452,25 @@
         "clarity_nt_char_1484": "clarity_nt_char_1484"
     },
     "1485": {
-        "封剣の門・一獄の誘いが 断られました": "Sword Gate 1st Prison invitation declined."
+        "封剣の門・一獄の誘いが 断られました": "Sword Gate Prison I invitation declined."
     },
     "1486": {
         "clarity_nt_char_1486": "clarity_nt_char_1486"
     },
     "1487": {
-        "封剣の門・二獄の誘いが 断られました": "Sword Gate 2nd Prison invitation declined."
+        "封剣の門・二獄の誘いが 断られました": "Sword Gate Prison II invitation declined."
     },
     "1488": {
         "clarity_nt_char_1488": "clarity_nt_char_1488"
     },
     "1489": {
-        "封剣の門・三獄の誘いが 断られました": "Sword Gate 3rd Prison invitation declined."
+        "封剣の門・三獄の誘いが 断られました": "Sword Gate Prison III invitation declined."
     },
     "1490": {
         "clarity_nt_char_1490": "clarity_nt_char_1490"
     },
     "1491": {
-        "封剣の門・四獄の誘いが 断られました": "Sword Gate 4th Prison invitation declined."
+        "封剣の門・四獄の誘いが 断られました": "Sword Gate Prison IV invitation declined."
     },
     "1492": {
         "clarity_nt_char_1492": "clarity_nt_char_1492"
@@ -4710,31 +4710,31 @@
         "進行エラーがあったため 開始位置に戻ります": ""
     },
     "1571": {
-        "源世庫パニガルムの４人バトルに誘われました!": ""
+        "源世庫パニガルムの４人バトルに誘われました!": "Invited to a 4 player Panigalm battle!"
     },
     "1572": {
         "clarity_nt_char_1572": "clarity_nt_char_1572"
     },
     "1573": {
-        "源世庫パニガルムの８人バトルに誘われました!": ""
+        "源世庫パニガルムの８人バトルに誘われました!": "Invited to an 8 player Panigalm battle!"
     },
     "1574": {
         "clarity_nt_char_1574": "clarity_nt_char_1574"
     },
     "1575": {
-        "源世庫パニガルムの１２人バトルに誘われました!": ""
+        "源世庫パニガルムの１２人バトルに誘われました!": "Invited to a 12 player Panigalm battle!"
     },
     "1576": {
-        "源世庫パニガルムの最終バトルに誘われました!": ""
+        "源世庫パニガルムの最終バトルに誘われました!": "Invited to the final battle in Panigalm!"
     },
     "1577": {
         "clarity_nt_char_1577": "clarity_nt_char_1577"
     },
     "1578": {
-        "源世庫パニガルムのバトルの誘いが 時間切れになりました": ""
+        "源世庫パニガルムのバトルの誘いが 時間切れになりました": "Invitation to Panigalm timed out."
     },
     "1579": {
-        "源世庫パニガルムの誘いが 取り消されました": ""
+        "源世庫パニガルムの誘いが 取り消されました": "Panigalm invitation was cancelled."
     },
     "1580": {
         "本日　アストルティア放送局の放送日です！": ""
@@ -4755,22 +4755,22 @@
         "clarity_nt_char_1585": "clarity_nt_char_1585"
     },
     "1586": {
-        "４人バトルに 参加しますか？": ""
+        "４人バトルに 参加しますか？": "Go to the 4 player battle?"
     },
     "1587": {
         "clarity_nt_char_1587": "clarity_nt_char_1587"
     },
     "1588": {
-        "８人バトルに 参加しますか？": ""
+        "８人バトルに 参加しますか？": "Go to the 8 player battle?"
     },
     "1589": {
         "clarity_nt_char_1589": "clarity_nt_char_1589"
     },
     "1590": {
-        "１２人バトルに 参加しますか？": ""
+        "１２人バトルに 参加しますか？": "Go to the 12 player battle?"
     },
     "1591": {
-        "最終バトルに 参加しますか？": ""
+        "最終バトルに 参加しますか？": "Go to the final battle?"
     },
     "1592": {
         "clarity_nt_char_1592": "clarity_nt_char_1592"
@@ -4800,7 +4800,7 @@
         "clarity_nt_char_1600": "clarity_nt_char_1600"
     },
     "1601": {
-        "女神の木が成長しました。様子を見にいきましょう！": ""
+        "女神の木が成長しました。様子を見にいきましょう！": "The Goddess Tree has grown. Go check it out!"
     },
     "1602": {
         "clarity_nt_char_1602": "clarity_nt_char_1602"
@@ -4830,7 +4830,7 @@
         "clarity_nt_char_1610": "clarity_nt_char_1610"
     },
     "1611": {
-        "源世庫パニガルムの調査準備が完了しました！": ""
+        "源世庫パニガルムの調査準備が完了しました！": "Preparations are complete to explore Panigalm!"
     },
     "1612": {
         "実績 １０階を突破した を達成したわ！": "\"Clear 10F\" achievement earned!"

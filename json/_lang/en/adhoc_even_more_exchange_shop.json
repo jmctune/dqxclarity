@@ -1,0 +1,2114 @@
+{
+    "1": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<end>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<end>"
+    },
+    "2": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<end>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<end>"
+    },
+    "3": {
+        "「申し訳ありません。|　そのアイテムは　準備中なので|　まだ　お渡しする事ができません。|<end>": "I'm sorry... That item is still being|prepared, so I can't give it to you yet...<end>"
+    },
+    "4": {
+        "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<end>": "I can't seem to get it. My kitty's full.<end>"
+    },
+    "5": {
+        "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    },
+    "6": {
+        "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
+    },
+    "7": {
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+    },
+    "8": {
+        "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<end>": "I'm afraid there's too many envelopes for me|to pick up.<end>"
+    },
+    "9": {
+        "<select_se_off>|交換する|所持ポイント確認|説明を聞く|<select_end>|<close>": "<select_se_off>|Exchange|Check your points|Listen to the explanation|<select_end>|<close>"
+    },
+    "10": {
+        "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    },
+    "11": {
+        "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    },
+    "12": {
+        "「どのアイテムを　交換しますか？|<break>": "Which item would you like to trade?<break>"
+    },
+    "13": {
+        "「お持ちのアイテムを|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "Are you sure you want to trade your item for|<%sL_GOODS_ITEM>?<yesno><break>"
+    },
+    "14": {
+        "<pipipi_on>|「他に　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
+    },
+    "15": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "16": {
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「お持ちのアイテムを|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "This is the kind of thing you can only give|once! May I trade your item for|<%sL_GOODS_ITEM>?<yesno><break>"
+    },
+    "17": {
+        "「お持ちのアイテムを|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換してよろしいですか？|<yesno><break>": "Would you like to trade your item for|<%sL_GOODS_ITEM> <%nL_GET_NUM>?<yesno><break>"
+    },
+    "18": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "19": {
+        "「<%sL_GOODS_ITEM>を　交換するには|　必要なアイテムが　足りないようですね。|<end>": "I'm afraid I don't have what it takes to|replace <%sL_GOODS_ITEM>...<end>"
+    },
+    "20": {
+        "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
+    },
+    "21": {
+        "「ご利用　ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you for visiting... We look forward to|seeing you again...<turn_end>"
+    },
+    "22": {
+        "「当店では　お客さまがお持ちのフェザーチップを|　素敵なアイテムと　交換することができます。|　なお　手数料は　いただいておりません。|<br>|「フェザーチップは　討伐の報告の際に|　報酬として　手に入れることができます。|<bw_break>": "We're happy to exchange your feather chips|for some great items... We do charge a fee|for this service... Feather Chips can be|<br>|obtained as a reward when you report a|kill...<bw_break>"
+    },
+    "23": {
+        "「申し訳ありません。交換アイテムの準備のため|　交換を終了させて頂きます。|　またお越しください。|<end>": "We're sorry... We've had to close the|exchange to make room for new items... Please|come again...<end>"
+    },
+    "24": {
+        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an item exchange... How may I help|you today?<break>"
+    },
+    "25": {
+        "「他に　ご用件はありますか？|<break>": "Is there anything else I can do for you?<break>"
+    },
+    "26": {
+        "「アイテム交換するNPCです。|　よろしくです。|<bw_break>": "NP to exchange items... Good...<bw_break>"
+    },
+    "27": {
+        "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<end>": "That item has already been exchanged, so I|can't give it to you anymore...<end>"
+    },
+    "28": {
+        "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
+    },
+    "29": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<end>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<end>"
+    },
+    "30": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<end>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<end>"
+    },
+    "31": {
+        "「申し訳ありません。|　そのアイテムは　準備中なので|　まだ　お渡しする事ができません。|<end>": "I'm sorry... That item is still being|prepared, so I can't give it to you yet...<end>"
+    },
+    "32": {
+        "「おまとめぶくろが　いっぱいで|　受け取れないようですね。|<end>": "My bag is full. I can't seem to get it...<end>"
+    },
+    "33": {
+        "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    },
+    "34": {
+        "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 1><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 1><break>"
+    },
+    "35": {
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+    },
+    "36": {
+        "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<end>": "I'm afraid there's too many envelopes for me|to pick up.<end>"
+    },
+    "37": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+    },
+    "38": {
+        "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    },
+    "39": {
+        "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    },
+    "40": {
+        "「お持ちのアイテムを|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "Are you sure you want to trade your item for|<%sL_GOODS_ITEM>?<yesno><break>"
+    },
+    "41": {
+        "<pipipi_off>|<pc>は　<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "42": {
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「お持ちのアイテムを|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "This is the kind of thing you can only give|once! May I trade your item for|<%sL_GOODS_ITEM>?<yesno><break>"
+    },
+    "43": {
+        "「お持ちのアイテムを|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換してよろしいですか？|<yesno><break>": "Would you like to trade your item for|<%sL_GOODS_ITEM> <%nL_GET_NUM>?<yesno><break>"
+    },
+    "44": {
+        "<pipipi_off>|<pc>は　<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "45": {
+        "「<%sL_GOODS_ITEM>を　交換するには|　必要な錬金石が　足りないようですね。|<end>": "It looks like you don't have enough alchemy|stones to trade <%sL_GOODS_ITEM>...<end>"
+    },
+    "46": {
+        "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
+    },
+    "47": {
+        "「ご利用　ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you for visiting... We look forward to|seeing you again...<turn_end>"
+    },
+    "48": {
+        "「当店では　お客さまがお持ちの錬金石を|　別の色の錬金石と　交換することができます。|　なお　手数料は　いただいておりません。|<bw_break>": "We can exchange your alchemy stone for a|different color alchemy stone... We do not|charge a fee...<bw_break>"
+    },
+    "49": {
+        "「申し訳ありません。交換アイテムの準備のため|　交換を終了させて頂きます。|　またお越しください。|<end>": "We're sorry... We've had to close the|exchange to make room for new items... Please|come again...<end>"
+    },
+    "50": {
+        "「こちらは　錬金石交換屋です。|　本日は　どういたしますか？|<break>": "This is the alchemy stone exchange... How may|I help you today?<break>"
+    },
+    "51": {
+        "「他に　ご用件はありますか？|<break>": "Is there anything else I can do for you?<break>"
+    },
+    "52": {
+        "「アイテム交換するNPCです。|　よろしくです。錬金石|<bw_break>": "NP to exchange items... Good... Alchemy stone<bw_break>"
+    },
+    "53": {
+        "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<end>": "That item has already been exchanged, so I|can't give it to you anymore...<end>"
+    },
+    "54": {
+        "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
+    },
+    "55": {
+        "「どのアイテムを　交換しますか？|<break>": "Which item would you like to trade?<break>"
+    },
+    "56": {
+        "<pipipi_on>|「他に　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
+    },
+    "57": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できませんよ。|<end>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<end>"
+    },
+    "58": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できませんよ。|<end>": "It looks like <%sL_GOODS_ITEM> is already|installed, so we can give it to you...<end>"
+    },
+    "59": {
+        "「申し訳ありません。|　そのアイテムは　準備中なので|　まだ　お渡しする事ができません。|<end>": "I'm sorry... That item is still being|prepared, so I can't give it to you yet...<end>"
+    },
+    "60": {
+        "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<end>": "I can't seem to get it. My kitty's full.<end>"
+    },
+    "61": {
+        "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    },
+    "62": {
+        "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 1><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 1><break>"
+    },
+    "63": {
+        "「ご用命　ありがとうございました。|　またのお越しを　お待ちしております。|<turn_end>": "Thank you for your interest... We look|forward to seeing you again...<turn_end>"
+    },
+    "64": {
+        "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<end>": "I'm afraid there's too many envelopes for me|to pick up.<end>"
+    },
+    "65": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<close>": ""
+    },
+    "66": {
+        "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    },
+    "67": {
+        "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    },
+    "68": {
+        "「どのアイテムを　交換しますか？|<break>": "Which item would you like to trade?<break>"
+    },
+    "69": {
+        "「お持ちの素材を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "Are you sure you want to trade your material|for <%sL_GOODS_ITEM>?<yesno><break>"
+    },
+    "70": {
+        "<pipipi_on>|「他に　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
+    },
+    "71": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "72": {
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「お持ちのアイテムを|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "This is the kind of thing you can only give|once! May I trade your item for|<%sL_GOODS_ITEM>?<yesno><break>"
+    },
+    "73": {
+        "「お持ちの素材を|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換してよろしいですか？|<yesno><break>": "Would you like to exchange your material for|<%sL_GOODS_ITEM> <%nL_GET_NUM> pieces?<yesno><break>"
+    },
+    "74": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "75": {
+        "「<%sL_GOODS_ITEM>を　交換するには|　必要な素材が　足りないようですね。|<end>": "I'm afraid we don't have enough material to|replace the <%sL_GOODS_ITEM>...<end>"
+    },
+    "76": {
+        "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
+    },
+    "77": {
+        "「ご用命　ありがとうございました。|　また　いつでも　お越しください。|<turn_end>": "Thank you for your business... Please come|back anytime...<turn_end>"
+    },
+    "78": {
+        "「こちらでは　お客さまがお持ちの素材を|　素敵なアイテムと　交換しておりますよ。|　無論　手数料などは　いただいておりません。|<bw_break>": "Here, we exchange your materials for|beautiful items... We do, of course, take a|commission...<bw_break>"
+    },
+    "79": {
+        "「申し訳ありません。交換アイテムの準備のため|　交換を終了させていただきます。|　また　お越しください。|<end>": "We apologize... Due to the preparation of the|exchange item, we have closed the exchange...|Please come again...<end>"
+    },
+    "80": {
+        "「こちらは　補給大臣Ｐです。|　本日は　いかなる　ご用でしょうか？|<break>": "This is the Minister of Supply... What can I|do for you today, sir?<break>"
+    },
+    "81": {
+        "「他に　ご用件はありますか？|<break>": "Is there anything else I can do for you?<break>"
+    },
+    "82": {
+        "「アイテム交換するNPCです。|　よろしくです。錬金石|<bw_break>": "NP to exchange items... Good... Alchemy stone<bw_break>"
+    },
+    "83": {
+        "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できませんよ。|<end>": "That item has already been exchanged, so I|can't give it to you anymore...<end>"
+    },
+    "84": {
+        "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
+    },
+    "85": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようですが|　本当に　交換しますか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you sure you want to trade?<yesno2><break>"
+    },
+    "86": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようですが|　本当に　交換しますか？|<yesno2><break>": "I see you've already installed|<%sL_GOODS_ITEM>, are you sure you want to|replace it?<yesno2><break>"
+    },
+    "87": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようですが|　本当に　交換しますか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you sure you want to trade?<yesno2><break>"
+    },
+    "88": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようですが|　本当に　交換しますか？|<yesno2><break>": "I see you've already installed|<%sL_GOODS_ITEM>, are you sure you want to|replace it?<yesno2><break>"
+    },
+    "89": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようですが|　本当に　交換しますか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you sure you want to trade?<yesno2><break>"
+    },
+    "90": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようですが|　本当に　交換しますか？|<yesno2><break>": "I see you've already installed|<%sL_GOODS_ITEM>, are you sure you want to|replace it?<yesno2><break>"
+    },
+    "91": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　すでに　覚えているようだが|　本当に　交換するのか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you really going to replace|it?<yesno2><break>"
+    },
+    "92": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようだぞ。|<bw_break>": "I already remember the <%sL_GOODS_ITEM>|gesture...<bw_break>"
+    },
+    "93": {
+        "「むっ　<%sL_GOODS_ITEM>は|　すでに取り付けているようだが|　本当に　交換するのか？|<yesno2><break>": "Hm, looks like <%sL_GOODS_ITEM> is already|installed, but are you sure you want to|replace it?<yesno2><break>"
+    },
+    "94": {
+        "「むむっ　<%sL_GOODS_ITEM>は|　すでに取り付けているようだぞ。|　そなたには　無用であろう。|<bw_break>": "Mmm. <%sL_GOODS_ITEM> is already installed.|You don't need to...<bw_break>"
+    },
+    "95": {
+        "「ふむ……　残念じゃが|　その報酬は　期限切れじゃ……。|　またの機会に参加してくれ！|<bw_break>": "Hmm... I'm afraid your reward has expired...|You'll have to join us another time!<bw_break>"
+    },
+    "96": {
+        "「ふむ？　そなた　どうぐかばんが|　いっぱいで　受け取れぬようだぞ。|<bw_break>": "Hmm? Your bag is full. You can't take it...<bw_break>"
+    },
+    "97": {
+        "「それは　今の職業だと　装備できぬようだ。|　それでも　かまわんか？|<yesno><break>": "You can't equip that in your current|profession... And you don't mind?<yesno><break>"
+    },
+    "98": {
+        "「<%sL_GOODS_ITEM>は|　そなたの性別では　装備できぬようだが|　それでも　かまわんか？|<yesno 2><break>": "It appears that <%sL_GOODS_ITEM> cannot be|equipped for your gender, is that okay with|you?<yesno 2><break>"
+    },
+    "99": {
+        "「そなたが　ここで手に入れた　覇者の心は|　今　この場所でしか　有効ではないものだ。|　時が来れば　失われてしまうぞ。|<br>|「わしは　修練を求め　旅を続けている。|　そなたとは　また　どこかで会うかもしれんな。|<turn_end>": "The champion's heart you have won here is|only good for this place. In time, it will be|lost. I will continue my quest to learn. And|<br>|perhaps we will meet again somewhere in the|future.<turn_end>"
+    },
+    "100": {
+        "「ふむ？　そなた　そうびぶくろが|　いっぱいで　受け取れぬようだぞ。|<bw_break>": "Hmm? There's too many of those bags for you|to take...<bw_break>"
+    },
+    "101": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+    },
+    "102": {
+        "「では　受け取るがよい。|<end>": "Okay, I'll take that...<end>"
+    },
+    "103": {
+        "「では　受け取るがよい。|<end>": "Okay, I'll take that...<end>"
+    },
+    "104": {
+        "「さて　何を望む？|<break>": "Well, what do you want?<break>"
+    },
+    "105": {
+        "「覇者の心　<%nL_KOUKAN_NUM>個と引き換えに|　<%sL_GOODS_ITEM>を望むのだな？|<yesno 2><break>": "You want <%sL_GOODS_ITEM> in exchange for|<%nL_KOUKAN_NUM> hearts of champions?<yesno 2><break>"
+    },
+    "106": {
+        "<pipipi_on>|「ほかに　望むものはあるか？|<break>": "<pipipi_on>Is there anything else you want?<break>"
+    },
+    "107": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "108": {
+        "「覇者の心　<%nL_KOUKAN_NUM>個と引き換えに|　<%sL_GOODS_ITEM>を望むのだな？|<yesno 2><break>": "You want <%sL_GOODS_ITEM> in exchange for|<%nL_KOUKAN_NUM> hearts of champions?<yesno 2><break>"
+    },
+    "109": {
+        "「覇者の心　<%nL_KOUKAN_NUM>個と引き換えに|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を望むのだな？|<yesno 2><break>": "You want <%sL_GOODS_ITEM> <%nL_GET_NUM>|pieces in exchange for <%nL_KOUKAN_NUM>|pieces of the Champion's Heart?<yesno 2><break>"
+    },
+    "110": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "111": {
+        "「<%sL_GOODS_ITEM>を　交換するには|　覇者の心が　足りんようだな。|<bw_break>": "You don't have the heart of a champion to|trade <%sL_GOODS_ITEM> for...<bw_break>"
+    },
+    "112": {
+        "「ふうむ……　風が告げている……。|　新たな試練が　わしを待つ……とな。|　どうやら　この地を去る時が来たようだ。|<bw_break>": "Hmm... The wind is telling me... New trials|await me. ..... It seems the time has come|for me to leave this land...<bw_break>"
+    },
+    "113": {
+        "「そなたが　ここで手に入れた　覇者の心は|　今　この場所でしか　有効ではないものだ。|　時が来れば　失われてしまうぞ。|<br>|「わしは　修練を求め　旅を続けている。|　そなたとは　また　どこかで会うかもしれんな。|<turn_end>": "The champion's heart you have won here is|only good for this place. In time, it will be|lost. I will continue my quest to learn. And|<br>|perhaps we will meet again somewhere in the|future.<turn_end>"
+    },
+    "114": {
+        "「そなたが　この地の修練に挑めば|　修練を極め　覇者たる道を歩んだ証|　覇者の心が　手に入る。|<br>|「覇者の心と　引き換えで|　この修練の地で　かつて得られていたが|　今では手に入らなくなった報酬を　ゆずろう。|<bw_break>": "If you challenge the disciplines of this|place, you will receive the heart of a|champion, a sign that you have mastered your|<br>|craft and walked the path of supremacy. In|exchange for the heart of a champion, you|will receive a reward that was once yours,|<br>|but is no longer available to you.<bw_break>"
+    },
+    "115": {
+        "「ふうむ……　風が告げている……。|　新たな試練が　わしを待つ……とな。|　どうやら　この地を去る時が来たようだ。|<end>": "Hmm... The wind is telling me... New trials|await me. ..... It seems the time has come|for me to leave this land...<end>"
+    },
+    "116": {
+        "「わしは　旅の覇者モンジ。|　おのれを試す　修練の地を見つけては|　挑んでまわっておる。|<br>|「よければ　これまでに　わしが|　この地で手に入れた報酬を　ゆずろう。|　あまり物品に興味が　ないものでな。|<br>|「ただし　そなたが|　この地の修練を極め　覇者の心を持つ|　同志であれば……の話だ。|<break>": "I am a champion of the road. I find new|places to train and test myself. If you'll|allow me to show you the rewards I've earned|<br>|so far in this land. I have little interest|in goods. However, if you are a comrade who|has mastered the arts of this land and has|<br>|the heart of a champion, then ......<break>"
+    },
+    "117": {
+        "「ふむ。ほかに　用はあるか？|<break>": ""
+    },
+    "118": {
+        "「未使用|<bw_break>": "unused|<bw_break>"
+    },
+    "119": {
+        "「その報酬は　一度きりしか|　渡すことはできん。|　他のものを　選ぶがよい。|<bw_break>": "I will only give you that reward once... I'll|choose something else.<bw_break>"
+    },
+    "120": {
+        "「ふうむ……　風が告げている……。|　新たな試練が　わしを待つ……とな。|　どうやら　この地を去る時が来たようだ。|<bw_break>": "Hmm... The wind is telling me... New trials|await me. ..... It seems the time has come|for me to leave this land...<bw_break>"
+    },
+    "121": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　すでに　覚えているようだが|　本当に　交換するのか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you really going to replace|it?<yesno2><break>"
+    },
+    "122": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようだぞ。|<bw_break>": "I already remember the <%sL_GOODS_ITEM>|gesture...<bw_break>"
+    },
+    "123": {
+        "「むっ　<%sL_GOODS_ITEM>は|　すでに取り付けているようだが|　本当に　交換するのか？|<yesno2><break>": "Hm, looks like <%sL_GOODS_ITEM> is already|installed, but are you sure you want to|replace it?<yesno2><break>"
+    },
+    "124": {
+        "「むむっ　<%sL_GOODS_ITEM>は|　すでに取り付けているようだぞ。|　そなたには　無用であろう。|<bw_break>": "Mmm. <%sL_GOODS_ITEM> is already installed.|You don't need to...<bw_break>"
+    },
+    "125": {
+        "「……どうやら　その景品は　期間が過ぎて|　交換できなくなったようだ。|　また　来るがよい……。|<end>": "... Apparently, that prize has expired and|can no longer be exchanged... You can come|back...<end>"
+    },
+    "126": {
+        "「……貴様の　どうぐかばんには　|　それ以上　入らないようだ。|<end>": "... I'm not going any further into your|toolbox...<end>"
+    },
+    "127": {
+        "「それは　今の職業だと　装備できぬようだ。|　それでも　かまわんか？|<yesno><break>": "You can't equip that in your current|profession... And you don't mind?<yesno><break>"
+    },
+    "128": {
+        "「<%sL_GOODS_ITEM>は|　そなたの性別では　装備できぬようだが|　それでも　かまわんか？|<yesno 2><break>": "It appears that <%sL_GOODS_ITEM> cannot be|equipped for your gender, is that okay with|you?<yesno 2><break>"
+    },
+    "129": {
+        "「ならば　私の前から　立ち去るがよい。|　コフーーー……。|<turn_end>": "Then get out of my face... Kofoo...<turn_end>"
+    },
+    "130": {
+        "「……貴様の　そうびぶくろには|　それ以上　入らないようだ。|<end>": "... I'm not going any further in your sash...<end>"
+    },
+    "131": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+    },
+    "132": {
+        "「受け取るがよい。コフーーー……。|<end>": "I'll take that... Kofoooo...<end>"
+    },
+    "133": {
+        "「受け取るがよい。コフーーー……。|<end>": "I'll take that... Kofoooo...<end>"
+    },
+    "134": {
+        "「どのアイテムを　求めるのだ……？|<break>": "Which item do you seek...?<break>"
+    },
+    "135": {
+        "「貴様のジュエルポイントを|　<%sL_GOODS_ITEM>と|　交換するが……　よいか？|<yesno><break>": "I will trade your jewel points for|<%sL_GOODS_ITEM>... Is that okay?<yesno><break>"
+    },
+    "136": {
+        "「……他にも　何か用か？|<break>": ""
+    },
+    "137": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "138": {
+        "「貴様のジュエルポイントを|　<%sL_GOODS_ITEM>と|　交換するが……　よいか？|<yesno><break>": "I will trade your jewel points for|<%sL_GOODS_ITEM>... Is that okay?<yesno><break>"
+    },
+    "139": {
+        "「貴様のジュエルポイントを|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換するが……　よいか？|<yesno><break>": "I'll trade you <%sL_GOODS_ITEM> <%nL_GET_NUM>|of your jewel points... Would you like that?<yesno><break>"
+    },
+    "140": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "141": {
+        "「<%sL_GOODS_ITEM>を　交換するには|　必要なアイテムが　足りないようだ……。|<end>": "Looks like I don't have enough items to|replace <%sL_GOODS_ITEM>...<end>"
+    },
+    "142": {
+        "「……今は　準備中だ。|　しばし　待つがよい……コフーーー……。|<bw_break>": "... And now... You can wait a while...|Kofoo...<bw_break>"
+    },
+    "143": {
+        "「……私の前から　立ち去るがよい。|　コフーーー……。|<turn_end>": "... You walk away from me... Kofoo...<turn_end>"
+    },
+    "144": {
+        "「対抗戦に参加すると　試合内容に応じて|　ジュエルポイントが　入手できるんだ。|　（ガタラ）|<br>|「たまった　ジュエルポイントは|　素敵な景品と　交換することが　できるぞ。|<br>|「ジュエルポイントは　次の対抗戦には|　持ち超せないから　注意してくれよな！|<break>": "If you participate in a match, you can earn|Jewel Points depending on the match... （The|Jewel Points you accumulate can be exchanged|<br>|for great prizes... Jewel Points can't be|carried over to the next round, so be|careful!<break>"
+    },
+    "145": {
+        "「……どうやら　期限切れで|　交換できなくなったようだ。|　また　来るがよい……。|<end>": "... Apparently, it's expired and can no|longer be exchanged... You can come back...<end>"
+    },
+    "146": {
+        "「ジュエルポイントと　景品を交換できるが|　貴様は　どの景品を求めるのだ……？|<break>": "You can exchange your Jewel Points for|prizes, but which prizes do you want...?<break>"
+    },
+    "147": {
+        "「……他にも　何か用か？|<break>": ""
+    },
+    "148": {
+        "「未使用|<bw_break>": "unused|<bw_break>"
+    },
+    "149": {
+        "「そのアイテムは　すでに交換済みだ。|　もう　渡すことはできぬ……コフーーー……。|<end>": "The item has already been exchanged... I|can't give it to you anymore... Kofoo...<end>"
+    },
+    "150": {
+        "「……今は　準備中だ。|　また　交換が可能になるのは|　次回の対抗戦が　開始されてからだ……。|<bw_break>": "... For now... The exchange won't be|available again until the next round of|competition...<bw_break>"
+    },
+    "151": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　すでに　覚えているようだが|　本当に　交換するのか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you really going to replace|it?<yesno2><break>"
+    },
+    "152": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようだぞ。|<bw_break>": "I already remember the <%sL_GOODS_ITEM>|gesture...<bw_break>"
+    },
+    "153": {
+        "「むっ　<%sL_GOODS_ITEM>は|　すでに取り付けているようだが|　本当に　交換するのか？|<yesno2><break>": "Hm, looks like <%sL_GOODS_ITEM> is already|installed, but are you sure you want to|replace it?<yesno2><break>"
+    },
+    "154": {
+        "「むむっ　<%sL_GOODS_ITEM>は|　すでに取り付けているようだぞ。|　そなたには　無用であろう。|<bw_break>": "Mmm. <%sL_GOODS_ITEM> is already installed.|You don't need to...<bw_break>"
+    },
+    "155": {
+        "「むむむむむ！　なんか　その景品は|　交換期限が　過ぎちゃったみたいですネ！|　残念だけど　また　来るですヨ！|<end>": "Mmm-mmm! It looks like that prize has|expired! I'm sorry, but I'll be back!<end>"
+    },
+    "156": {
+        "「むむむむむ！　どうぐかばん　いっぱいで|　受け取れないですネ！|<end>": "Mmm-mmm! I can't get it in my bag!<end>"
+    },
+    "157": {
+        "「それは　今の職業だと　装備できぬようだ。|　それでも　かまわんか？|<yesno><break>": "You can't equip that in your current|profession... And you don't mind?<yesno><break>"
+    },
+    "158": {
+        "「<%sL_GOODS_ITEM>は|　そなたの性別では　装備できぬようだが|　それでも　かまわんか？|<yesno 2><break>": "It appears that <%sL_GOODS_ITEM> cannot be|equipped for your gender, is that okay with|you?<yesno 2><break>"
+    },
+    "159": {
+        "「そうですか。また来るですヨ！|<turn_end>": "Well... I'll be back!<turn_end>"
+    },
+    "160": {
+        "「むむむむむ！　そうびぶくろ　いっぱいで|　受け取れないですネ！|<end>": "Mmm-mmm! My sobriety bag is full. I can't get|it!<end>"
+    },
+    "161": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+    },
+    "162": {
+        "「では　受け取るですネ！|<end>": "Then I'll take it!<end>"
+    },
+    "163": {
+        "「では　受け取るですネ！|<end>": "Then I'll take it!<end>"
+    },
+    "164": {
+        "「どのアイテム　交換するですか！？|<break>": "Which item would you like to trade?<break>"
+    },
+    "165": {
+        "「ジュエルポイントを|　<%sL_GOODS_ITEM>と|　交換するの　よろしですか！？|<yesno><break>": "Can I trade my jewel points for|<%sL_GOODS_ITEM>?<yesno><break>"
+    },
+    "166": {
+        "<pipipi_on>|「他に　交換するもの　あるですか！？|<break>": "<pipipi_on>Do you have anything else you'd like to|trade?<break>"
+    },
+    "167": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "168": {
+        "「ジュエルポイントを|　<%sL_GOODS_ITEM>と|　交換するの　よろしですか！？|<yesno><break>": "Can I trade my jewel points for|<%sL_GOODS_ITEM>?<yesno><break>"
+    },
+    "169": {
+        "「ジュエルポイントを|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換するの　よろしですか！？|<yesno><break>": "Can I trade my Jewel Points for|<%sL_GOODS_ITEM> <%nL_GET_NUM> pieces?<yesno><break>"
+    },
+    "170": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "171": {
+        "「むむむむむ！|　<%sL_GOODS_ITEM>を　交換するには|　必要なアイテム　足りないですネ！|<end>": "Mmm-mmm! We need more items to replace the|<%sL_GOODS_ITEM>!<end>"
+    },
+    "172": {
+        "「むむむむむ！　今　準備中ですヨ！|　しばらく　待つですネ！　オッス！|<bw_break>": "Mmm-mmm! It's being prepared now! We'll be|waiting a while! Oh!<bw_break>"
+    },
+    "173": {
+        "「オッス！　また来るですヨ！|<turn_end>": "Hey! I'll be back!<turn_end>"
+    },
+    "174": {
+        "「対抗戦に参加すると　試合内容に応じて|　ジュエルポイントが　入手できるんだ。|　（アズラン）|<br>|「たまった　ジュエルポイントは|　素敵な景品と　交換することが　できるぞ。|<br>|「ジュエルポイントは　次の対抗戦には|　持ち超せないから　注意してくれよな！|<break>": "If you participate in a match-up, you can|earn Jewel Points depending on the match.|（The Jewel Points you accumulate can be|<br>|exchanged for great prizes... Jewel Points|can't be carried over to the next round, so|be careful!<break>"
+    },
+    "175": {
+        "「むむむむむ！　なんか　期限切れで|　交換できなくなったですネ！|　残念だけど　また　来るですヨ！|<end>": "Mmm-mmm! Something expired and we can't trade|anymore! I'm sorry, but I'll be back!<end>"
+    },
+    "176": {
+        "「ジュエルポイントと　景品を交換できるですヨ！|　どの景品と　交換するですネ！？|<break>": "You can exchange your Jewel Points for|prizes! Which prize would you like to trade?<break>"
+    },
+    "177": {
+        "「他に　ご用件あるですか！？|<break>": ""
+    },
+    "178": {
+        "「未使用|<bw_break>": "unused|<bw_break>"
+    },
+    "179": {
+        "「そのアイテム　もう交換済みですネ！|　だから　渡せないですヨ！|<end>": "You've already traded that item! So I can't|give it to you!<end>"
+    },
+    "180": {
+        "「むむむむむ！　今　準備中ですヨ！|　また　交換が　始まるのは|　次回の対抗戦からですね！|<bw_break>": "Mmm-mmm! We're working on it! The exchange|will begin again at the next round of|competition!<bw_break>"
+    },
+    "181": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　すでに　覚えているようだが|　本当に　交換するのか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you really going to replace|it?<yesno2><break>"
+    },
+    "182": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようだぞ。|<bw_break>": "I already remember the <%sL_GOODS_ITEM>|gesture...<bw_break>"
+    },
+    "183": {
+        "「むっ　<%sL_GOODS_ITEM>は|　すでに取り付けているようだが|　本当に　交換するのか？|<yesno2><break>": "Hm, looks like <%sL_GOODS_ITEM> is already|installed, but are you sure you want to|replace it?<yesno2><break>"
+    },
+    "184": {
+        "「むむっ　<%sL_GOODS_ITEM>は|　すでに取り付けているようだぞ。|　そなたには　無用であろう。|<bw_break>": "Mmm. <%sL_GOODS_ITEM> is already installed.|You don't need to...<bw_break>"
+    },
+    "185": {
+        "「む……すまない。|　その景品は　交換期間が　過ぎたようだ。|　残念だが　また　来てくれ！|<end>": "M... I... That prize has expired... I'm|sorry, but you'll have to come back!<end>"
+    },
+    "186": {
+        "「おや？　どうぐかばんが　いっぱいで|　受け取れないようだぞ。|<end>": "What? My kitty litter's full. I can't get|it...<end>"
+    },
+    "187": {
+        "「それは　今の職業だと　装備できぬようだ。|　それでも　かまわんか？|<yesno><break>": "You can't equip that in your current|profession... And you don't mind?<yesno><break>"
+    },
+    "188": {
+        "「<%sL_GOODS_ITEM>は|　そなたの性別では　装備できぬようだが|　それでも　かまわんか？|<yesno 2><break>": "It appears that <%sL_GOODS_ITEM> cannot be|equipped for your gender, is that okay with|you?<yesno 2><break>"
+    },
+    "189": {
+        "「ワッハッハ！　また　来いよな！|<turn_end>": "Ha-ha-ha! Come again!<turn_end>"
+    },
+    "190": {
+        "「おや？　そうびぶくろが　いっぱいで|　受け取れないようだぞ。|<end>": "Hmm? There's too many envelopes. I can't take|it...<end>"
+    },
+    "191": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+    },
+    "192": {
+        "「では　受け取りたまえ！|<end>": "Then take it!<end>"
+    },
+    "193": {
+        "「では　受け取りたまえ！|<end>": "Then take it!<end>"
+    },
+    "194": {
+        "「どのアイテムを　交換するんだ？|<break>": "What items are you trading?<break>"
+    },
+    "195": {
+        "「持っているジュエルポイントを|　<%sL_GOODS_ITEM>と|　交換するが　大丈夫か？|<yesno><break>": "I'll trade you my jewel points for|<%sL_GOODS_ITEM>, is that okay?<yesno><break>"
+    },
+    "196": {
+        "<pipipi_on>|「他に　交換したいものは　あるか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
+    },
+    "197": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "198": {
+        "「持っているジュエルポイントを|　<%sL_GOODS_ITEM>と|　交換するが　大丈夫か？|<yesno><break>": "I'll trade you my jewel points for|<%sL_GOODS_ITEM>, is that okay?<yesno><break>"
+    },
+    "199": {
+        "「持っているジュエルポイントを|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換するが　大丈夫か？|<yesno><break>": "I'll trade you <%sL_GOODS_ITEM> <%nL_GET_NUM>|of my jewel points, is that okay?<yesno><break>"
+    },
+    "200": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "201": {
+        "「む？　<%sL_GOODS_ITEM>を　交換するには|　必要なアイテムが　足りないようだな……。|<end>": "No? Looks like we don't have enough items to|trade for <%sL_GOODS_ITEM>...<end>"
+    },
+    "202": {
+        "「む……すまないが　今は　準備中だ。|　しばし　待ちたまえ。|<bw_break>": "I'm... I'm sorry, but right now, I'm... I|just need to...<bw_break>"
+    },
+    "203": {
+        "「ワッハッハ！　また　来いよな！|<turn_end>": "Ha-ha-ha! Come again!<turn_end>"
+    },
+    "204": {
+        "「対抗戦に参加すると　試合内容に応じて|　ジュエルポイントが　入手できるんだ。|　（グレン）|<br>|「たまった　ジュエルポイントは|　素敵な景品と　交換することが　できるぞ。|<br>|「ジュエルポイントは　次の対抗戦には|　持ち超せないから　注意してくれよな！|<break>": "If you participate in a matchup, you can earn|Jewel Points depending on the match. （The|Jewel Points you accumulate can be exchanged|<br>|for great prizes... Jewel Points can't be|carried over to the next round, so be|careful!<break>"
+    },
+    "205": {
+        "「む……すまない。|　期限切れで　交換できなくなったようだ。|　残念だが　また　来てくれ！|<end>": "M... I... It's expired. I can't exchange it|anymore... I'm sorry, but you'll have to come|back!<end>"
+    },
+    "206": {
+        "「ジュエルポイントと　景品を交換できるぞ。|　どの景品と　交換するんだ？|<break>": "You can trade your Jewel Points for prizes...|What prizes are you trading?<break>"
+    },
+    "207": {
+        "「他に　用はあるかな？|<break>": ""
+    },
+    "208": {
+        "「未使用|<bw_break>": "unused|<bw_break>"
+    },
+    "209": {
+        "「そのアイテムは　すでに交換してるから|　もう　渡せないぞ。|<end>": "I've already traded for the item, so I can't|give it to you...<end>"
+    },
+    "210": {
+        "「む……すまないが　今は　準備中だ。|　また　交換できるようになるのは|　次回の対抗戦が　始まってからだぞ！|<bw_break>": "I'm... I'm sorry, but for now... I won't be|able to trade again until the next round of|the tournament!<bw_break>"
+    },
+    "211": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　すでに　覚えているようだが|　本当に　交換するのか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you really going to replace|it?<yesno2><break>"
+    },
+    "212": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようだぞ。|<bw_break>": "I already remember the <%sL_GOODS_ITEM>|gesture...<bw_break>"
+    },
+    "213": {
+        "「むっ　<%sL_GOODS_ITEM>は|　すでに取り付けているようだが|　本当に　交換するのか？|<yesno2><break>": "Hm, looks like <%sL_GOODS_ITEM> is already|installed, but are you sure you want to|replace it?<yesno2><break>"
+    },
+    "214": {
+        "「むむっ　<%sL_GOODS_ITEM>は|　すでに取り付けているようだぞ。|　そなたには　無用であろう。|<bw_break>": "Mmm. <%sL_GOODS_ITEM> is already installed.|You don't need to...<bw_break>"
+    },
+    "215": {
+        "「あらら？　その景品は|　交換期間が　過ぎちゃったみたいだね！|　残念だけど　また来てね！|<end>": "What? It looks like the giveaway period has|expired! I'm sorry, but you'll have to come|back!<end>"
+    },
+    "216": {
+        "「あれれ～？　どうぐかばんが　いっぱいで|　受け取れないみたいだよ～？|<end>": "Huh? It looks like my kit is full and I can't|get it!<end>"
+    },
+    "217": {
+        "「それは　今の職業だと　装備できぬようだ。|　それでも　かまわんか？|<yesno><break>": "You can't equip that in your current|profession... And you don't mind?<yesno><break>"
+    },
+    "218": {
+        "「<%sL_GOODS_ITEM>は|　そなたの性別では　装備できぬようだが|　それでも　かまわんか？|<yesno 2><break>": "It appears that <%sL_GOODS_ITEM> cannot be|equipped for your gender, is that okay with|you?<yesno 2><break>"
+    },
+    "219": {
+        "「そっか！　それじゃ　またね！|<turn_end>": "I see! I'll see you later!<turn_end>"
+    },
+    "220": {
+        "「あれれ～？　そうびぶくろが　いっぱいで|　受け取れないみたいだよ～？|<end>": "Huh~? It looks like I can't receive the|envelope because it's full~?<end>"
+    },
+    "221": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+    },
+    "222": {
+        "「それじゃ　受け取ってね！|<end>": "Take it then!<end>"
+    },
+    "223": {
+        "「それじゃ　受け取ってね！|<end>": "Take it then!<end>"
+    },
+    "224": {
+        "「どのアイテムが　ほしいの～？|<break>": "Which item do you want?<break>"
+    },
+    "225": {
+        "「持ってるジュエルポイントを|　<%sL_GOODS_ITEM>と|　交換しても　大丈夫かな～？|<yesno><break>": "Would it be okay if I traded my jewel points|for <%sL_GOODS_ITEM>?<yesno><break>"
+    },
+    "226": {
+        "<pipipi_on>|「他に　交換したいもの　あるかな～？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
+    },
+    "227": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "228": {
+        "「持ってるジュエルポイントを|　<%sL_GOODS_ITEM>と|　交換しても　大丈夫かな～？|<yesno 2><break>": "Would it be okay if I traded my jewel points|for <%sL_GOODS_ITEM>?<yesno 2><break>"
+    },
+    "229": {
+        "「持っているジュエルポイントを|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換しても　大丈夫かな～？|<yesno><break>": "Is it okay if I trade my Jewel Points for|<%sL_GOODS_ITEM> <%nL_GET_NUM> pieces~?<yesno><break>"
+    },
+    "230": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "231": {
+        "「あれれ～？|　<%sL_GOODS_ITEM>を　交換するには|　必要なアイテムが　足りないみたいだよ～。|<end>": "Huh? It looks like I don't have enough items|to trade for <%sL_GOODS_ITEM>...<end>"
+    },
+    "232": {
+        "「今は　準備中なんだよね～。|　ちょっと　待っててほしいな～！|<bw_break>": "I'm just getting ready to... You're gonna|have to wait a minute!<bw_break>"
+    },
+    "233": {
+        "「えへへ～　また来てね！|<turn_end>": "Ehehe~ Come again!<turn_end>"
+    },
+    "234": {
+        "「対抗戦に参加すると　試合内容に応じて|　ジュエルポイントが　入手できるんだ。|　（オルフェア）|<br>|「たまった　ジュエルポイントは|　素敵な景品と　交換することが　できるぞ。|<br>|「ジュエルポイントは　次の対抗戦には|　持ち超せないから　注意してくれよな！|<break>": "If you participate in a match-up, you can|earn Jewel Points depending on the match.|（You can exchange your accumulated Jewel|<br>|Points for great prizes... Jewel Points can't|be carried over to the next round, so be|careful!<break>"
+    },
+    "235": {
+        "「あらら？　期限切れで|　交換できなくなっちゃったみたい！|　残念だけど　また来てね！|<end>": "What? Looks like it expired and I can't trade|anymore! I'm sorry, but you'll have to come|back!<end>"
+    },
+    "236": {
+        "「ジュエルポイントと　景品を交換できるよ～。|　どの景品と　交換する～？|<break>": "You can exchange your Jewel Points for|prizes... Which prize do you want to|exchange?<break>"
+    },
+    "237": {
+        "「他に　ボクができること　あるかな～？|<break>": "Is there anything else I can do for you?<break>"
+    },
+    "238": {
+        "「未使用|<bw_break>": "unused|<bw_break>"
+    },
+    "239": {
+        "「そのアイテムは　もう交換してるから|　渡せないんだよね～。|<end>": "I can't give you that item because it's|already been traded...<end>"
+    },
+    "240": {
+        "「今は　準備中なんだよね～。|　また　交換できるようになるのは|　次回の対抗戦が　始まってからだよ～！|<bw_break>": "We're just getting things ready... You won't|be able to exchange them again until the next|round of rivalry begins~!<bw_break>"
+    },
+    "241": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　すでに　覚えているようだが|　本当に　交換するのか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you really going to replace|it?<yesno2><break>"
+    },
+    "242": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようだぞ。|<bw_break>": "I already remember the <%sL_GOODS_ITEM>|gesture...<bw_break>"
+    },
+    "243": {
+        "「むっ　<%sL_GOODS_ITEM>は|　すでに取り付けているようだが|　本当に　交換するのか？|<yesno2><break>": "Hm, looks like <%sL_GOODS_ITEM> is already|installed, but are you sure you want to|replace it?<yesno2><break>"
+    },
+    "244": {
+        "「むむっ　<%sL_GOODS_ITEM>は|　すでに取り付けているようだぞ。|　そなたには　無用であろう。|<bw_break>": "Mmm. <%sL_GOODS_ITEM> is already installed.|You don't need to...<bw_break>"
+    },
+    "245": {
+        "「あら　ごめんなさい～。|　その景品は　交換期間が　過ぎちゃったわ～。|　残念だけど　また　来てね～！|<end>": "Oh, I'm sorry... That prize is overdue... I'm|sorry, but you'll have to come back!<end>"
+    },
+    "246": {
+        "「あら？　どうぐかばんが　いっぱいで|　受け取れないようね～。|<end>": "What? My kitty litter's full. I can't get|it...<end>"
+    },
+    "247": {
+        "「それは　今の職業だと　装備できぬようだ。|　それでも　かまわんか？|<yesno><break>": "You can't equip that in your current|profession... And you don't mind?<yesno><break>"
+    },
+    "248": {
+        "「<%sL_GOODS_ITEM>は|　そなたの性別では　装備できぬようだが|　それでも　かまわんか？|<yesno 2><break>": "It appears that <%sL_GOODS_ITEM> cannot be|equipped for your gender, is that okay with|you?<yesno 2><break>"
+    },
+    "249": {
+        "「あらそう～。また来てね～！|<turn_end>": "Oh my... You'll have to come back!<turn_end>"
+    },
+    "250": {
+        "「あら？　そうびぶくろが　いっぱいで|　受け取れないようね～。|<end>": "What? There's too many envelopes. I can't|take it...<end>"
+    },
+    "251": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+    },
+    "252": {
+        "「それじゃ　受け取ってね！|<end>": "Take it then!<end>"
+    },
+    "253": {
+        "「それじゃ　受け取ってね！|<end>": "Take it then!<end>"
+    },
+    "254": {
+        "「どのアイテムが　ほしいの～？|<break>": "Which item do you want?<break>"
+    },
+    "255": {
+        "「持ってるジュエルポイントを|　<%sL_GOODS_ITEM>と|　交換しても　いいかしら？|<yesno><break>": "Would it be okay if I traded some of my jewel|points for <%sL_GOODS_ITEM>?<yesno><break>"
+    },
+    "256": {
+        "<pipipi_on>|「他に　ほしいもの　あるかしら？|<break>": "<pipipi_on>Is there anything else you'd like?<break>"
+    },
+    "257": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "258": {
+        "「持ってるジュエルポイントを|　<%sL_GOODS_ITEM>と|　交換しても　いいかしら？|<yesno><break>": "Would it be okay if I traded some of my jewel|points for <%sL_GOODS_ITEM>?<yesno><break>"
+    },
+    "259": {
+        "「持ってるジュエルポイントを|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換しても　いいかしら？|<yesno><break>": "Can I trade my jewel points for|<%sL_GOODS_ITEM> <%nL_GET_NUM> jewels?<yesno><break>"
+    },
+    "260": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "261": {
+        "「あら？|　<%sL_GOODS_ITEM>を　交換するには|　必要なアイテムが　足りないみたいよ。|<end>": "What? It looks like we don't have enough|items to trade <%sL_GOODS_ITEM> for...<end>"
+    },
+    "262": {
+        "「あら　ごめんなさい。今は　準備中なの。|　時間が経ったら　また来てね～。|<bw_break>": "Oh, sorry... I'm just getting ready to...|I'll come back in a little while and...<bw_break>"
+    },
+    "263": {
+        "「それじゃ　また来てね～！|<turn_end>": "Well then, come again~!<turn_end>"
+    },
+    "264": {
+        "「対抗戦に参加すると　試合内容に応じて|　ジュエルポイントが　入手できるんだ。|　（ジュレット）|<br>|「たまった　ジュエルポイントは|　素敵な景品と　交換することが　できるぞ。|<br>|「ジュエルポイントは　次の対抗戦には|　持ち超せないから　注意してくれよな！|<break>": "You can earn Jewel Points for each match you|participate in. （The jewel points you|accumulate can be exchanged for great|<br>|prizes... Jewel Points can't be carried over|to the next round, so be careful!<break>"
+    },
+    "265": {
+        "「あら　ごめんなさい～。|　期限切れで　交換できなくなっちゃったみたい。|　残念だけど　また　来てね～！|<end>": "Oh, I'm sorry... It's expired. I can't|exchange it anymore... I'm sorry, but you'll|have to come back!<end>"
+    },
+    "266": {
+        "「ジュエルポイントと　景品を交換できるわよ。|　どの景品が　ほしいのかしら？|<break>": "You can exchange your Jewel Points for|prizes... Which prize do you want?<break>"
+    },
+    "267": {
+        "「他に　ご用はあるかしら？|<break>": "Is there anything else I can do for you?<break>"
+    },
+    "268": {
+        "「未使用|<bw_break>": "unused|<bw_break>"
+    },
+    "269": {
+        "「そのアイテムは　もう交換済みだから|　もう　渡せないわよ～。|<end>": "I can't give you that item anymore because|it's already been traded...<end>"
+    },
+    "270": {
+        "「あら　ごめんなさい。今は　準備中なの。|　また　交換できるようになるのは|　次回の対抗戦が　始まってからよ。|<bw_break>": "Oh, sorry... I'm just getting ready to... We|won't be able to trade again until the next|round of competition...<bw_break>"
+    },
+    "271": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようですが|　本当に　交換しますか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you sure you want to trade?<yesno2><break>"
+    },
+    "272": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<bw_break>"
+    },
+    "273": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようですが|　本当に　交換しますか？|<yesno2><break>": "I see you've already installed|<%sL_GOODS_ITEM>, are you sure you want to|replace it?<yesno2><break>"
+    },
+    "274": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<bw_break>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<bw_break>"
+    },
+    "275": {
+        "「申し訳ありません。|　そのアイテムは　準備中なので|　まだ　お渡しする事ができません。|<bw_break>": "I'm sorry... That item is still being|prepared, so I can't give it to you yet...<bw_break>"
+    },
+    "276": {
+        "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    },
+    "277": {
+        "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    },
+    "278": {
+        "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
+    },
+    "279": {
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+    },
+    "280": {
+        "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    },
+    "281": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+    },
+    "282": {
+        "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    },
+    "283": {
+        "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    },
+    "284": {
+        "「どのアイテムを　交換しますか？|<break>": "Which item would you like to trade?<break>"
+    },
+    "285": {
+        "「<%sL_GOODS_ITEM>を|　栄光のかけら　<%nL_KOUKAN_NUM>個と|　交換してよろしいですか？|<yesno><break>": "May I exchange <%sL_GOODS_ITEM> for|<%nL_KOUKAN_NUM> pieces of glory?<yesno><break>"
+    },
+    "286": {
+        "<pipipi_on>|「他に　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
+    },
+    "287": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "288": {
+        "「<%sL_GOODS_ITEM>を|　栄光のかけら　<%nL_KOUKAN_NUM>個と|　交換してよろしいですか？|<yesno><break>": "May I exchange <%sL_GOODS_ITEM> for|<%nL_KOUKAN_NUM> pieces of glory?<yesno><break>"
+    },
+    "289": {
+        "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を|　栄光のかけら　<%nL_KOUKAN_NUM>個と|　交換してよろしいですか？|<yesno><break>": "Would you be willing to trade|<%sL_GOODS_ITEM> <%nL_GET_NUM> for|<%nL_KOUKAN_NUM> pieces of glory?<yesno><break>"
+    },
+    "290": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "291": {
+        "「<%sL_GOODS_ITEM>を　交換するには|　栄光のかけらが　足りないようですね。|<bw_break>": "Looks like I don't have enough pieces of|glory to replace <%sL_GOODS_ITEM>...<bw_break>"
+    },
+    "292": {
+        "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
+    },
+    "293": {
+        "「ご利用　ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you for visiting... We look forward to|seeing you again...<turn_end>"
+    },
+    "294": {
+        "「こちらでは　コロシアムのバトルで手に入れた|　栄光のかけらと引き換えに|　景品をお渡しする　交換屋です。|<br>|「栄光のかけらは　次回大型アップデートで|　リセットされますので　ご注意ください。|<bw_break>": "Here, we'll be giving away prizes in exchange|for the pieces of glory you get in Colosseum|battles. Please note that the pieces of glory|<br>|will be reset in the next major update, so...<bw_break>"
+    },
+    "295": {
+        "「申し訳ありません。交換アイテムの準備のため|　交換を　終了させていただきます。|　また　お越しください。|<end>": "We're sorry... We've had to close the|exchange to make room for new items... Please|come again...<end>"
+    },
+    "296": {
+        "「こちらは　栄光のかけら交換屋です。|　本日は　どういたしますか？|<break>": "This is the Piece of Glory Exchange... What|can I do for you today?<break>"
+    },
+    "297": {
+        "「他に　ご用件はありますか？|<break>": "Is there anything else I can do for you?<break>"
+    },
+    "298": {
+        "「アイテム交換するNPCです。|　よろしくです。|<bw_break>": "NP to exchange items... Good...<bw_break>"
+    },
+    "299": {
+        "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<bw_break>": "That item has already been exchanged, so I|can't give it to you anymore...<bw_break>"
+    },
+    "300": {
+        "「申し訳ありません。ただ今　準備中です。|　またのご来店を　お待ちしております。|<bw_break>": "I'm sorry... We're just getting ready... We|look forward to serving you again...<bw_break>"
+    },
+    "301": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようですが|　本当に　交換しますか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you sure you want to trade?<yesno2><break>"
+    },
+    "302": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<bw_break>"
+    },
+    "303": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようですが|　本当に　交換しますか？|<yesno2><break>": "I see you've already installed|<%sL_GOODS_ITEM>, are you sure you want to|replace it?<yesno2><break>"
+    },
+    "304": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<bw_break>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<bw_break>"
+    },
+    "305": {
+        "「ごめんねー　<pc>ちゃん。|　その景品は　交換期間が　過ぎちゃったみたい。|　残念だけど　また　来てネー。|<bw_break>": "I'm sorry<pc> ... That prize has expired... I'm sorry, but|I'll be back...<bw_break>"
+    },
+    "306": {
+        "「あれ……<pc>ちゃん？|　どうぐかばんが　いっぱいで|　受け取れないよー。|<end>": "Oh<pc> Hello? I can't get it. My bag is full. I|can't...<end>"
+    },
+    "307": {
+        "「今の職業だと装備できないけど|　いいのかな～？|<yesno><break>": "I can't equip it with my current profession.|Is that okay~?<yesno><break>"
+    },
+    "308": {
+        "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
+    },
+    "309": {
+        "「あらそう～。また来てね～！|<turn_end>": "Oh my... You'll have to come back!<turn_end>"
+    },
+    "310": {
+        "「あれ……<pc>ちゃん？|　そうびぶくろが　いっぱいで|　受け取れないよー。|<end>": "Oh<pc> Hello? I can't take your bag. It's full.<end>"
+    },
+    "311": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+    },
+    "312": {
+        "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    },
+    "313": {
+        "「それじゃあ　受け取ってネー！|<end>": "Well, take it, then!<end>"
+    },
+    "314": {
+        "「どのアイテムが　ほしいのカナ？|<break>": "Which item do you want?<break>"
+    },
+    "315": {
+        "「持ってるジュエルポイントを|　<%sL_GOODS_ITEM>と|　交換しても　いいかしら？|<yesno><break>": "Would it be okay if I traded some of my jewel|points for <%sL_GOODS_ITEM>?<yesno><break>"
+    },
+    "316": {
+        "<pipipi_on>|「他に　交換したいもの　ある？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
+    },
+    "317": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "318": {
+        "「キミが　持ってるピュアジュエルを|　<%sL_GOODS_ITEM>と|　交換しても　いいカナ？|<yesno><break>": "Would you be willing to trade your Pure|Jewels for <%sL_GOODS_ITEM>?<yesno><break>"
+    },
+    "319": {
+        "「持ってるジュエルポイントを|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換しても　いいかしら？|<yesno><break>": "Can I trade my jewel points for|<%sL_GOODS_ITEM> <%nL_GET_NUM> jewels?<yesno><break>"
+    },
+    "320": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "321": {
+        "「あれ……<pc>ちゃん？|　<%sL_GOODS_ITEM>を　交換するには|　必要なピュアジュエルが　足りないじゃん。|<end>": "Oh<pc> Chan? I don't have enough Pure Jewels to|trade for <%sL_GOODS_ITEM>...<end>"
+    },
+    "322": {
+        "「今は　準備中なんだよね。|　時間が経ったら　また来てネー。|<end>": "We're just getting ready to... I'll come back|in a little while...<end>"
+    },
+    "323": {
+        "「それじゃ　また来てね～！|<turn_end>": "Well then, come again~!<turn_end>"
+    },
+    "324": {
+        "「合コンで勝利すると|　ジュエルポイントが　入手できるんだ。|<br>|「たまった　ジュエルポイントは|　素敵な景品と　交換することが　できるのよ。|<br>|「１回しか　交換できないアイテムも|　来月になると　また交換できるようになるから|　また来てみてね。|<break>": "When you win at a party, you can earn Jewel|Points. The jewel points you accumulate can|be exchanged for great prizes... Some items|<br>|can only be exchanged once, but next month|they'll be available again, so come back...<break>"
+    },
+    "325": {
+        "「あれ……期間が過ぎて　交換できるものが|　すべて　なくなっちゃったみたい。|　残念だけど　また　来てネー。|<end>": "Well... It's over, and everything we could|trade is gone... I'm sorry, but I'll be|back...<end>"
+    },
+    "326": {
+        "「ジュエルポイントと　景品を交換できるわよ。|　どの景品が　ほしいのかしら？|<break>": "You can exchange your Jewel Points for|prizes... Which prize do you want?<break>"
+    },
+    "327": {
+        "「他に　ご用はあるかしら？|<break>": "Is there anything else I can do for you?<break>"
+    },
+    "328": {
+        "「未使用|<bw_break>": "unused|<bw_break>"
+    },
+    "329": {
+        "「ごめんねー　<pc>ちゃん。|　そのアイテムは　もう交換済みだから|　もう　渡せないんだー。|<bw_break>": "I'm sorry<pc> I can't... I can't give you that item anymore|because it's already been exchanged.<bw_break>"
+    },
+    "330": {
+        "「あら　ごめんなさい。今は　準備中なの。|　また　交換できるようになるのは|　来月からよ。|<bw_break>": "Oh, sorry... I'm just getting ready to... I|won't be able to trade again until next|month...<bw_break>"
+    },
+    "331": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようですが|　本当に　交換しますか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you sure you want to trade?<yesno2><break>"
+    },
+    "332": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<bw_break>"
+    },
+    "333": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようですが|　本当に　交換しますか？|<yesno2><break>": "I see you've already installed|<%sL_GOODS_ITEM>, are you sure you want to|replace it?<yesno2><break>"
+    },
+    "334": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<bw_break>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<bw_break>"
+    },
+    "335": {
+        "「ごめんな　<pc>ちゃん。|　その景品は　交換期間が　過ぎちまったぜ。|　残念だけど　また　来てくれよな。|<bw_break>": "Sorry<pc> The prize... That prize has expired... I'm|sorry, but you'll have to come back...<bw_break>"
+    },
+    "336": {
+        "「あれ……<pc>ちゃん？|　どうぐかばんが　いっぱいで|　受け取れないぜ。|<end>": "Oh<pc> Hello? There's a whole bag full of stuff. I|can't...<end>"
+    },
+    "337": {
+        "「今の職業では装備できないけど|　いいかな？|<yesno><break>": "I can't equip it in my current profession. Is|that okay?<yesno><break>"
+    },
+    "338": {
+        "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
+    },
+    "339": {
+        "「そっか！　それじゃ　またね！|<turn_end>": "I see! I'll see you later!<turn_end>"
+    },
+    "340": {
+        "「あれ……<pc>ちゃん？|　そうびぶくろが　いっぱいで|　受け取れないぜ。|<end>": "Oh<pc> Baby? There's so much in the bag. I can't...<end>"
+    },
+    "341": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+    },
+    "342": {
+        "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    },
+    "343": {
+        "「それじゃ　受け取ってくれよな！|<end>": "Well, then, take it, will you?<end>"
+    },
+    "344": {
+        "「どのアイテムが　ほしいんだ？|<break>": "Which item do you want?<break>"
+    },
+    "345": {
+        "「持ってるジュエルポイントを|　<%sL_GOODS_ITEM>と|　交換しても　大丈夫かな～？|<yesno><break>": "Would it be okay if I traded my jewel points|for <%sL_GOODS_ITEM>?<yesno><break>"
+    },
+    "346": {
+        "<pipipi_on>|「他に　交換したいもの　あるか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
+    },
+    "347": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "348": {
+        "「オマエが　持ってるピュアジュエルを|　<%sL_GOODS_ITEM>と|　交換しても　いいんだな？|<yesno 2><break>": "You're willing to trade your Pure Jewels for|<%sL_GOODS_ITEM>?<yesno 2><break>"
+    },
+    "349": {
+        "「持っているジュエルポイントを|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換しても　大丈夫かな～？|<yesno><break>": "Is it okay if I trade my Jewel Points for|<%sL_GOODS_ITEM> <%nL_GET_NUM> pieces~?<yesno><break>"
+    },
+    "350": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "351": {
+        "「あれ……<pc>ちゃん？|　<%sL_GOODS_ITEM>を　交換するには|　必要なピュアジュエルが　足りないじゃん。|<end>": "Oh<pc> Chan? I don't have enough Pure Jewels to|trade for <%sL_GOODS_ITEM>...<end>"
+    },
+    "352": {
+        "「今は　準備中なんだよね。|　時間が経ったら　また来てくれよな。|<end>": "We're just getting ready to... I'll come back|when I have more time.<end>"
+    },
+    "353": {
+        "「えへへ～　また来てね！|<turn_end>": "Ehehe~ Come again!<turn_end>"
+    },
+    "354": {
+        "「合コンで勝利すると|　ジュエルポイントが　入手できるんだ。|<br>|「たまった　ジュエルポイントは|　素敵な景品と　交換することが　できるんだ。|<br>|「１回しか　交換できないアイテムも|　来月になると　また交換できるようになるから|　また来てみてね。|<break>": "When you win at a party, you can earn Jewel|Points. The jewel points you accumulate can|be exchanged for great prizes... Items that|<br>|can only be exchanged once will become|available again next month, so come back...<break>"
+    },
+    "355": {
+        "「あれ……期間が過ぎて　交換できるものが|　すべて　なくなっちまったみたいだな。|　残念だけど　また　来てくれよな。|<end>": "Well... It looks like everything we could|trade is gone. I'm sorry, but you'll have to|come back...<end>"
+    },
+    "356": {
+        "「ジュエルポイントと　景品を交換できるよ～。|　どの景品と　交換する～？|<break>": "You can exchange your Jewel Points for|prizes... Which prize do you want to|exchange?<break>"
+    },
+    "357": {
+        "「他に　ボクができること　あるかな～？|<break>": "Is there anything else I can do for you?<break>"
+    },
+    "358": {
+        "「未使用|<bw_break>": "unused|<bw_break>"
+    },
+    "359": {
+        "「ごめんな　<pc>ちゃん。|　そのアイテムは　もう交換してるから|　渡せないぜ。|<bw_break>": "Sorry<pc> I... I can't give you that item. It's already|been exchanged.<bw_break>"
+    },
+    "360": {
+        "「今は　準備中なんだよね～。|　また　交換できるようになるのは|　来月からだよ～！|<bw_break>": "We're in the process of preparing... I won't|be able to trade again until next month~!<bw_break>"
+    },
+    "361": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようですが|　本当に　交換しますか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you sure you want to trade?<yesno2><break>"
+    },
+    "362": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<bw_break>"
+    },
+    "363": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようですが|　本当に　交換しますか？|<yesno2><break>": "I see you've already installed|<%sL_GOODS_ITEM>, are you sure you want to|replace it?<yesno2><break>"
+    },
+    "364": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<bw_break>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<bw_break>"
+    },
+    "365": {
+        "「申し訳ありません。|　そちらの景品は　交換期間が|　過ぎてしまったようです。|<bw_break>": "I'm sorry... The exchange period for your|prize has expired...<bw_break>"
+    },
+    "366": {
+        "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<end>": "I can't seem to get it. My kitty's full.<end>"
+    },
+    "367": {
+        "「今の職業だと装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession.|Is that all right with you?<yesno><break>"
+    },
+    "368": {
+        "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できないけど　いいかい？|<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your|gender, okay?<yesno 2><break>"
+    },
+    "369": {
+        "「ありがとうございました。|　バトルロードコインの　交換は|　隣にいる姉に　声をかけて　くださいね。|<turn_end>": "Thank you... If you'd like to exchange your|Battle Lord coin, just ask my sister next|door...<turn_end>"
+    },
+    "370": {
+        "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<end>": "I'm afraid there's too many envelopes for me|to pick up.<end>"
+    },
+    "371": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+    },
+    "372": {
+        "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    },
+    "373": {
+        "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    },
+    "374": {
+        "「どのアイテムを　交換しますか？|　今回のビクトリーチップとの　交換期間は|　『<%sL_END_TIME>』までです。|<break>": "Which item would you like to trade? The|exchange period for this Victory Chip is|until <%sL_END_TIME>...<break>"
+    },
+    "375": {
+        "「<%sL_GOODS_ITEM>を|　お持ちのチップと　交換してよろしいですか？|<yesno><break>": "May I exchange <%sL_GOODS_ITEM> for your|chip?<yesno><break>"
+    },
+    "376": {
+        "<pipipi_on>|「他にも　交換したいものは　ありますか？|　今回のビクトリーチップとの　交換期間は|　『<%sL_END_TIME>』までです。|<break>": "<pipipi_on>Is there anything else you'd like to trade?|You have until <%sL_END_TIME> to exchange|your Victory Chip...<break>"
+    },
+    "377": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "378": {
+        "「<%sL_GOODS_ITEM>を|　お持ちのチップと　交換してよろしいですか？|<yesno><break>": "May I exchange <%sL_GOODS_ITEM> for your|chip?<yesno><break>"
+    },
+    "379": {
+        "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を|　お持ちのチップと　交換してよろしいですか？|<yesno><break>": "Would you like to trade <%sL_GOODS_ITEM>|<%nL_GET_NUM> for one of your chips?<yesno><break>"
+    },
+    "380": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "381": {
+        "「<%sL_GOODS_ITEM>を　交換するには|　必要なチップが　足りないようですね。|<end>": "It looks like you're missing the chip you|need to replace <%sL_GOODS_ITEM>...<end>"
+    },
+    "382": {
+        "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<end>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<end>"
+    },
+    "383": {
+        "「ありがとうございました。|　どんどん　バトルに　勝って|　また　お立ち寄りくださいね。|<turn_end>": "Thank you... Keep winning the battles... and|stop by again...<turn_end>"
+    },
+    "384": {
+        "「当店では　お客さまのビクトリーチップを|　素敵なアイテムと　交換することができます。|　なお　手数料は　いただいておりません。|<br>|「また　今回獲得した　ビクトリーチップは|　次回開催時には　無くなってしまいますので|　忘れずに　交換してくださいね。|<bw_break>": "At our store, you can exchange your Victory|Chips for great items... We do charge a fee|for this service... Also, the Victory Chips|<br>|you get this time will be gone next time, so|don't forget to exchange them...<bw_break>"
+    },
+    "385": {
+        "「交換アイテムの　準備のため|　すべての　交換を終了させて頂きます。|　またお越しください。|<end>": "We've had to close all exchanges to make room|for new items. Please come back...<end>"
+    },
+    "386": {
+        "「こちらは　バトルロード協力バトル専用の|　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an item exchange for the Battle Road|Cooperative Battle... What can I do for you|today?<break>"
+    },
+    "387": {
+        "「他に　ご用件はありますか？|<break>": "Is there anything else I can do for you?<break>"
+    },
+    "388": {
+        "「アイテム交換するNPCです。|　よろしくです。|<bw_break>": "NP to exchange items... Good...<bw_break>"
+    },
+    "389": {
+        "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<end>": "That item has already been exchanged, so I|can't give it to you anymore...<end>"
+    },
+    "390": {
+        "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
+    },
+    "391": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "392": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "393": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "394": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "395": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "396": {
+        "<pipipi_off>交換出来ませんでした。|最大所持数に　制限のある|アイテムのようです。|<end>": "<pipipi_off>I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "397": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "398": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "399": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "400": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "401": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "402": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "403": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "404": {
+        "「真夜中プリズラン受付NPC|<bw_break>": "Midnight Prizelan Reception NPC|<bw_break>"
+    },
+    "405": {
+        "clarity_nt_char_405": "clarity_nt_char_405"
+    },
+    "406": {
+        "「アイテムを　交換するのですね。|　何が　ほしいのですか？|<break>": "I'm trying to trade an item... What do you|want?<break>"
+    },
+    "407": {
+        "「他に　何かありますか？|<break>": ""
+    },
+    "408": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+    },
+    "409": {
+        "「プリズランポイント　<%nL_KOUKAN_NUM>Ｐで|　<%sL_GOODS_ITEM>　と交換できるわよ。|　交換していいかしら？|<yesno><break>": "Prizelan points <%nL_KOUKAN_NUM>P can be|exchanged for <%sL_GOODS_ITEM>... Can I trade|them?<yesno><break>"
+    },
+    "410": {
+        "「どのアイテムを　交換する？|<break>": "Which item would you like to trade?<break>"
+    },
+    "411": {
+        "<pipipi_on>|「ほかにも　何か　交換する？|<break>": "<pipipi_on>Is there anything else you want to trade?<break>"
+    },
+    "412": {
+        "「プリズランポイント　<%nL_KOUKAN_NUM>Ｐで|　<%sL_GOODS_ITEM>　と交換できるわよ。|　交換していいかしら？|<yesno><break>": "Prizelan points <%nL_KOUKAN_NUM>P can be|exchanged for <%sL_GOODS_ITEM>... Can I trade|them?<yesno><break>"
+    },
+    "413": {
+        "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>個ね。|　プリズランポイント　<%nL_KOUKAN_NUM>Ｐ　もらうけど|　交換していいかしら？|<yesno><break>": "<%sL_GOODS_ITEM> <%nL_GET_NUM... Prizelan|points <%nL_KOUKAN_NUM>P I'll take them, but|can I trade them?<yesno><break>"
+    },
+    "414": {
+        "「わかったわ。|　それじゃ　これを　受け取ってちょうだい。|<end>": "I don't... Okay, well, take this...<end>"
+    },
+    "415": {
+        "「わかったわ。|　それじゃ　これを　受け取ってちょうだい。|<end>": "I don't... Okay, well, take this...<end>"
+    },
+    "416": {
+        "「わかったわ。|　それじゃ　これを　受け取ってちょうだい。|<end>": "I don't... Okay, well, take this...<end>"
+    },
+    "417": {
+        "「わかったわ。|　それじゃ　これを　受け取ってちょうだい。|<end>": "I don't... Okay, well, take this...<end>"
+    },
+    "418": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "419": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "420": {
+        "「あら？　どうぐかばんが　いっぱいで|　受け取れないみたいよ。|<bw_break>": "What? I can't seem to get it. My kitty|litter's full.<bw_break>"
+    },
+    "421": {
+        "「あら？　そうびぶくろが　いっぱいで|　受け取れないみたいよ。|<bw_break>": "What? There's too many envelopes. I can't|seem to get one.<bw_break>"
+    },
+    "422": {
+        "「<%sL_GOODS_ITEM>を　交換するには|　必要な　プリズランポイントが　足りないわよ。|<bw_break>": "I need more prizelan points to redeem|<%sL_GOODS_ITEM>...<bw_break>"
+    },
+    "423": {
+        "「<%sL_GOODS_ITEM>は|　アンタの性別では|　装備できないけど　いいのかい？|<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your|gender, is that okay with you?<yesno 2><break>"
+    },
+    "424": {
+        "「今の職業だと　装備できないけど|　交換していいかしら？|<yesno><break>": "I can't equip it in my current profession.|Can I trade it?<yesno><break>"
+    },
+    "425": {
+        "「そのアイテムは　もう交換済みよ。|　残念だけど　これ以上は　渡せないわ。|<bw_break>": "That item is no longer available. I'm sorry,|but I can't give you any more...<bw_break>"
+    },
+    "426": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようだぜ。|<bw_break>": "I already remember the <%sL_GOODS_ITEM>|gesture...<bw_break>"
+    },
+    "427": {
+        "「あら？|　<%sL_GOODS_ITEM>は|　もう　取り付けてるわよ。|<bw_break>": "What? I already installed the|<%sL_GOODS_ITEM>...<bw_break>"
+    },
+    "428": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようだが|　本当に　交換するのかい？|<yesno2><break>": "I see you've already memorized the|<%sL_GOODS_ITEM> gesture, but are you sure|you want to trade?<yesno2><break>"
+    },
+    "429": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようだが|　本当に　交換するのかい？|<yesno2><break>": "I see you've already installed|<%sL_GOODS_ITEM>, are you sure you want to|replace it?<yesno2><break>"
+    },
+    "430": {
+        "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
+    },
+    "431": {
+        "「あら……ごめんなさい。|　交換期間は　終わってしまったの。|　また機会があったら　よろしく頼むわね。|<bw_break>": "Oh, my... Sorry... The exchange period is|over. If you get a chance, I'd appreciate it.<bw_break>"
+    },
+    "432": {
+        "「あら……。残念だけど|　もう　アイテムを　渡すことはできないわ。|<bw_break>": "Oh... I'm afraid I can't give you the item|anymore.<bw_break>"
+    },
+    "433": {
+        "「ごめんなさいね。|　交換期間は　たった今　終わってしまったの。|　また機会があったら　よろしく頼むわね。|<end>": "I'm sorry... The exchange period just|ended... If there's another chance, please|let me know...<end>"
+    },
+    "434": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "435": {
+        "「真夜中プリズラン受付NPC|<bw_break>": "Midnight Prizelan Reception NPC|<bw_break>"
+    },
+    "436": {
+        "clarity_nt_char_436": "clarity_nt_char_436"
+    },
+    "437": {
+        "「アイテムを　交換するのですね。|　何が　ほしいのですか？|<break>": "I'm trying to trade an item... What do you|want?<break>"
+    },
+    "438": {
+        "「他に　何かありますか？|<break>": ""
+    },
+    "439": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+    },
+    "440": {
+        "「ギラムソウル　<%nL_KOUKAN_NUM>こで|　<%sL_GOODS_ITEM>　と交換できるぞ。|　交換していいのかぁ？|<yesno><break>": "Gillam Soul <%nL_KOUKAN_NUM> in exchange for|<%sL_GOODS_ITEM>... Can I trade for it?<yesno><break>"
+    },
+    "441": {
+        "「どのアイテムを　交換するんだ～？|<break>": "What item are we trading?<break>"
+    },
+    "442": {
+        "<pipipi_on>|「ほかにも　何か　交換するか～？|<break>": "<pipipi_on>Do you want me to trade you something else?<break>"
+    },
+    "443": {
+        "「ギラムソウル　<%nL_KOUKAN_NUM>こで|　<%sL_GOODS_ITEM>　と交換できるぞ。|　交換していいのかぁ？|<yesno><break>": "Gillam Soul <%nL_KOUKAN_NUM> in exchange for|<%sL_GOODS_ITEM>... Can I trade for it?<yesno><break>"
+    },
+    "444": {
+        "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>こだぜ。|　ギラムソウル　<%nL_KOUKAN_NUM>こ　もらうが|　交換していいのかぁ？|<yesno><break>": "<%sL_GOODS_ITEM> <%nL_GET_NUM>... GILLAM SOUL|<%nL_KOUKAN_NUM>I'll take this, but can I|trade it?<yesno><break>"
+    },
+    "445": {
+        "「わかったぜ。|　それじゃ　これを　やるよぉ。|<end>": "I don't... Okay, I'll do this...<end>"
+    },
+    "446": {
+        "「わかったぜ。|　それじゃ　これを　やるよぉ。|<end>": "I don't... Okay, I'll do this...<end>"
+    },
+    "447": {
+        "「わかったわ。|　それじゃ　これを　受け取ってちょうだい。|<end>": "I don't... Okay, well, take this...<end>"
+    },
+    "448": {
+        "「わかったわ。|　それじゃ　これを　受け取ってちょうだい。|<end>": "I don't... Okay, well, take this...<end>"
+    },
+    "449": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "450": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "451": {
+        "「あん？　どうぐかばんが　いっぱいで|　受け取れない　みたいだな。|<bw_break>": "No? I can't seem to get it because my bag is|full.<bw_break>"
+    },
+    "452": {
+        "「あん？　そうびぶくろが　いっぱいで|　受け取れない　みたいだな。|<bw_break>": "What? It looks like your bag is full and you|can't accept it.<bw_break>"
+    },
+    "453": {
+        "「<%sL_GOODS_ITEM>を　交換するには|　必要な　ギラムソウルが　足りねーぞ。|<bw_break>": "I need more Gillum Souls to trade for|<%sL_GOODS_ITEM>...<bw_break>"
+    },
+    "454": {
+        "「<%sL_GOODS_ITEM>は|　アンタの性別では|　装備できないけど　いいのかい？|<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your|gender, is that okay with you?<yesno 2><break>"
+    },
+    "455": {
+        "「今の職業だと　装備できないけど|　交換していいかしら？|<yesno><break>": "I can't equip it in my current profession.|Can I trade it?<yesno><break>"
+    },
+    "456": {
+        "「そのアイテムは　もう交換済みだぜ。|　残念だが　これ以上は　渡せんなぁ～。|<bw_break>": "The item has already been exchanged... I'm|afraid I can't give you any more...<bw_break>"
+    },
+    "457": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようだぜ。|<bw_break>": "I already remember the <%sL_GOODS_ITEM>|gesture...<bw_break>"
+    },
+    "458": {
+        "「おっと！|　<%sL_GOODS_ITEM>は|　もう　取り付けてるようだぜ。|<bw_break>": "Whoa! I already installed <%sL_GOODS_ITEM>...<bw_break>"
+    },
+    "459": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようだが|　本当に　交換するのかい？|<yesno2><break>": "I see you've already memorized the|<%sL_GOODS_ITEM> gesture, but are you sure|you want to trade?<yesno2><break>"
+    },
+    "460": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようだが|　本当に　交換するのかい？|<yesno2><break>": "I see you've already installed|<%sL_GOODS_ITEM>, are you sure you want to|replace it?<yesno2><break>"
+    },
+    "461": {
+        "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
+    },
+    "462": {
+        "「ああ……すまねえなぁ。|　交換期間は　終わっちまったんだ。|　また機会があったら　よろしく頼むぜ。|<bw_break>": "Oh... I'm sorry... The exchange period is|over... I'll see you around...<bw_break>"
+    },
+    "463": {
+        "「ああ……。残念だけど|　もう　アイテムを　渡すことはできねーぜ。|<bw_break>": "Oh... I'm afraid I can't give you the item|anymore...<bw_break>"
+    },
+    "464": {
+        "「すまねえなぁ。|　交換期間は　たった今　終わっちまったぜ。|　また機会があったら　よろしく頼むぜ。|<end>": "I'm sorry... The exchange period just|ended... I'll see you around...<end>"
+    },
+    "465": {
+        "<pipipi_off>交換出来ませんでした。|最大所持数に　制限のある|アイテムのようです。|<end>": "<pipipi_off>I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "466": {
+        "「ぷるぷる。ぼく　わるいスライムじゃないよ。|<br>|「ぼく　交換屋スラリン！　竜王のキバを|　ステキな品物に　交換しているよ。|<br>|「キバは　竜王を倒せば　手に入るんだけど|　竜王のいる城は　虹のしずくっていう|　アイテムがないと　行けないみたいなんだ。|<br>|「その　虹のしずくは　魔法の迷宮に|　期間限定で　現れる|　ある人が　持っているんだって！|<br>|「竜王のキバを　手に入れたら|　ぼくの所に　持ってきてね。それじゃあ……|<bw_break>": "I'm not a bad slime. I'm not a bad slime...|I'm Slughorn the Exchanger! I want to trade|in the Dragon King's Kiva for something|<br>|beautiful... I can get it by defeating the|Dragon King, but I need an item called the|Rainbow Drops to get to his castle. That|<br>|rainbow drop belongs to a person who appears|in the Magic Labyrinth for a limited time. If|you get the Dragon King's Staff, bring it to|<br>|me... And then...<bw_break>"
+    },
+    "467": {
+        "「竜王の城にいる　竜王を倒すと|　キバが　手に入るから|　ぼくの所へ　持ってきてほしいんだ！|<br>|「竜王の城へ行くことのできる　虹のしずくは|　期間限定で　魔法の迷宮に　現れる|　ある人が　持っているんだって！|<br>|「竜王の城へは　５月３１日（日）までしか|　行くことができないから|　それまでに　竜王のキバを手に入れてきてね。|<br>|「ぼくは　６月７日（日）までいるから|　それまでに　持ってきてくれたら|　ステキな品物に　交換するよ！|<br>|「えへへ。たくさんの　キバを持ち帰って|　お友達の　ホイミンや　メタリンを|　ビックリさせちゃうんだ！|<bw_break>": "If you defeat the Dragon King in the Dragon|King's Castle, you'll get a Kiba, so I need|you to bring it to me. The Rainbow Drop that|<br>|can take you to the Dragon King's Castle is|in the possession of someone who appears in|the Magic Labyrinth for a limited time only!|<br>|We can only go to the Dragon King's Castle|until Sunday, May 31st, so we have to get the|Dragon King's Leaf before then... I'll be|<br>|there until Sunday, June 7th, so if you bring|it to me by then, I'll exchange it for|something really cool! ... I'll bring back|<br>|lots of Kivas to surprise my friends, Hoi Min|and Metaline.<bw_break>"
+    },
+    "468": {
+        "「ぷるぷる！　ぼく　交換屋スラリン。|　竜王のキバをくれたら|　ステキな品物に　交換するよ！|<break>": "Puru-puru! I'm the barterer... If you give me|the Dragon King's Leaf, I'll trade it for|something really cool!<break>"
+    },
+    "469": {
+        "「ほかに　何か用はある？|<break>": ""
+    },
+    "470": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+    },
+    "471": {
+        "「この　<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と　交換する？|<yesno 2><break>": "Replace this <%sL_BAG_ITEM> with|<%sL_GOODS_ITEM>?<yesno 2><break>"
+    },
+    "472": {
+        "「どの品物に　交換する？|<break>": "Which item would you like to trade?<break>"
+    },
+    "473": {
+        "<pipipi_on>|「ほかにも　何か交換する？|<break>": "<pipipi_on>Do you want to trade anything else?<break>"
+    },
+    "474": {
+        "「<%sL_BAG_ITEM>　<%nL_KOUKAN_NUM>個を|　<%sL_GOODS_ITEM>と　交換する？|<yesno 3><break>": "Exchange <%sL_BAG_ITEM> <%nL_KOUKAN_NUM>|pieces for <%sL_GOODS_ITEM> pieces?<yesno 3><break>"
+    },
+    "475": {
+        "「<%sL_BAG_ITEM>　<%nL_KOUKAN_NUM>個を|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と　交換する？|<yesno 3><break>": "Exchange <%sL_BAG_ITEM> <%nL_KOUKAN_NUM>|pieces for <%sL_GOODS_ITEM> <%nL_GET_NUM>|pieces?<yesno 3><break>"
+    },
+    "476": {
+        "「はい！　どうぞ。|<end>": "Yes! ...<end>"
+    },
+    "477": {
+        "「はい！　どうぞ。|<end>": "Yes! ...<end>"
+    },
+    "478": {
+        "「ぷるぷる。どうも　ありがとう！|　竜王のキバを　手に入れたら|　また　ぼくの所へ　持ってきてね！|<turn_end>": "Pfft... Thank you very much! When you get the|Dragon King's Staff, bring it back to me!<turn_end>"
+    },
+    "479": {
+        "「ぷるぷる……|　ぼく　まだしばらく　ここにいるから|　竜王のキバを　手に入れたら　持ってきてね！|<turn_end>": "I'll be here for a while. I'll still be here|for a while... so when you get the Dragon|King's Leaf... bring it to me!<turn_end>"
+    },
+    "480": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "481": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "482": {
+        "「ピキー！　どうぐかばんが　いっぱいで|　受け取れないみたいだよ。|<bw_break>": "Pikey! I can't seem to get it, my bag is|full.<bw_break>"
+    },
+    "483": {
+        "「ピキー！　そうびぶくろが　いっぱいで|　受け取れないみたいだよ。|<bw_break>": "Pikey! I can't seem to get it out of my bag.<bw_break>"
+    },
+    "484": {
+        "「<%sL_GOODS_ITEM>を　交換するには|　竜王のキバが　足りないみたい。|<bw_break>": "<%sL_GOODS_ITEM>... but I don't have enough|of the Dragon King's Leaf...<bw_break>"
+    },
+    "485": {
+        "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できないけど　いいかい？|<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your|gender, okay?<yesno 2><break>"
+    },
+    "486": {
+        "「それは　今の職業だと　装備できないけど|　ほんとうに　いいの？|<yesno><break>": "You can't equip that in your current|profession. Are you sure about that?<yesno><break>"
+    },
+    "487": {
+        "「ピキー！　もう　その品物は|　交換しているみたいだよ。|　ほかの　品物をえらんでね。|<bw_break>": "Pikey! I think they've already replaced the|item. I can get you something else...<bw_break>"
+    },
+    "488": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<bw_break>"
+    },
+    "489": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<bw_break>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<bw_break>"
+    },
+    "490": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようですが|　本当に　交換しますか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you sure you want to trade?<yesno2><break>"
+    },
+    "491": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようですが|　本当に　交換しますか？|<yesno2><break>": "I see you've already installed|<%sL_GOODS_ITEM>, are you sure you want to|replace it?<yesno2><break>"
+    },
+    "492": {
+        "「ぷるぷる　ごめんね。|　今は　お店の準備中だから|　もう少し　待っていてね！|<bw_break>": "Plump, plump, plump... We're setting up shop|now, so you'll have to wait a little longer!<bw_break>"
+    },
+    "493": {
+        "「ぷるぷる　ごめんね。|　今は　お店の準備中だから|　もう少し　待っていてね！|<bw_break>": "Plump, plump, plump... We're setting up shop|now, so you'll have to wait a little longer!<bw_break>"
+    },
+    "494": {
+        "「ピキー！　その品物は|　準備中だから　まだ受け取れないよ！|<bw_break>": "Pikey! That item is in the process of being|prepared. You can't pick it up yet!<bw_break>"
+    },
+    "495": {
+        "「ぷるぷる　ごめんね。|　ぼく　もう帰らなきゃ。|　またどこかで　会えたらうれしいな！|<end>": "Plump, plump, plump... I'm going home... I|hope we can meet again somewhere!<end>"
+    },
+    "496": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "497": {
+        "「ぼくはポピー。ＤＱＸショップで|　お店の　お手伝いしてます。|<br>|「ＤＱＸショップの　アートな交換券を|　お持ちでしたら　ステキなアイテムと|　交換できますよ！|<bw_break>": "I'm... I help out in the DQX Shop. If you|have a DQX Shop Artistic Exchange Ticket, you|can trade it in for some pretty cool stuff!<bw_break>"
+    },
+    "498": {
+        "「いま　ＤＱＸショップでは|　アストルティアの　有名人の|　人気投票を　行っています。|<br>|「好きなイチオシ有名人の　投票券を買うと|　アートな交換券が　手に入ります。　|　この交換券を　集めると……|<br>|「アストルティアの有名人が　描かれた　|　素敵な絵と　交換できるんですよね！|　なお　手数料は　いただいておりません。|<br>|「ＤＱＸショップの　人気投票は|　９月２日（水）に　終了します。|　それまで　交換券は手に入りますよ。|<br>|「ぼくは　９月１５日（火）まで|　ここにいますので　それまで|　素敵な絵と　交換できます。|<br>|プレイヤー専用サイト　目覚めし冒険者の広場|ドラゴンクエストＸショップ（ＤＱＸショップ）|https://sqex.to/dqxshop|<bw_break>": "Right now, the DQX Shop is holding a|popularity contest for the most popular|celebrity in Astrutia. If you buy a ticket|<br>|for your favorite celebrity, you'll get a|ticket to exchange for art. When you collect|these tickets... And when you collect them,|<br>|you can trade them in for a beautiful|painting of an Astruthian celebrity! We do|charge a fee for this... The DQX Shop's|<br>|popularity contest ends on Wednesday,|September 2nd... You'll have to wait until|then to get your exchange tickets. I'll be|<br>|here until Tuesday, September 15th, so until|then, if you'd like to trade for a nice|painting... Player Site: Awakening|<br>|Adventurer's Square Dragon Quest X Shop (DQX|Shop) https://sqex.to/dqxshop<bw_break>"
+    },
+    "499": {
+        "「こちらでは　アートな交換券と|　アストルティアの有名人の絵を交換できます。|　本日は　どういたしますか？|<break>": "Here you can redeem an artistic coupon for a|painting of an Astraltian celebrity... What|can I do for you today?<break>"
+    },
+    "500": {
+        "「他に　ご用件はあります？|<break>": "Is there anything else I can do for you?<break>"
+    },
+    "501": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<close>": ""
+    },
+    "502": {
+        "「アートな交換券を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "May I exchange my artistic exchange ticket|for <%sL_GOODS_ITEM>?<yesno><break>"
+    },
+    "503": {
+        "「どの絵と　交換しますか？|<break>": "Which painting would you like to trade?<break>"
+    },
+    "504": {
+        "<pipipi_on>|「他に　交換したい絵は　ありますか？|<break>": "<pipipi_on>Are there any other paintings you'd like to|trade?<break>"
+    },
+    "505": {
+        "「アートな交換券　を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "May I exchange my Artistic Exchange Ticket|for <%sL_GOODS_ITEM>?<yesno><break>"
+    },
+    "506": {
+        "「アートな交換券　を|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換してよろしいですか？|<yesno><break>": "May I trade you <%sL_GOODS_ITEM>|<%nL_GET_NUM> art vouchers?<yesno><break>"
+    },
+    "507": {
+        "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    },
+    "508": {
+        "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    },
+    "509": {
+        "「ご利用　ありがとうございました。|　アートな交換券が　集まったら|　また　お越しください。|<br>|プレイヤー専用サイト　目覚めし冒険者の広場|ドラゴンクエストＸショップ（ＤＱＸショップ）|https://sqex.to/dqxshop|<turn_end>": "Thank you for visiting... We'll be back when|we've collected all the Artistic Exchange|Tickets... Player's Site: The Awakening|<br>|Adventurer's Square Dragon Quest X Shop (DQX|Shop) https://sqex.to/dqxshop<turn_end>"
+    },
+    "510": {
+        "「ありがとうございました。|　アートな交換券が　集まったら|　また　お越しください。|<br>|プレイヤー専用サイト　目覚めし冒険者の広場|ドラゴンクエストＸショップ（ＤＱＸショップ）|https://sqex.to/dqxshop|<turn_end>": "Thank you... We'll be back when we've|collected all the art... Awakening|Adventurer's Square Dragon Quest X Shop (DQX|<br>|Shop) https://sqex.to/dqxshop<turn_end>"
+    },
+    "511": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "512": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "513": {
+        "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    },
+    "514": {
+        "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    },
+    "515": {
+        "「<%sL_GOODS_ITEM>を　交換するには|　アートな交換券が　足りないようですね。|　ＤＱＸショップで　手に入りますよ。|<br>|プレイヤー専用サイト　目覚めし冒険者の広場|ドラゴンクエストＸショップ（ＤＱＸショップ）|https://sqex.to/dqxshop|<bw_break>": "It looks like I don't have enough Artistic|Exchange Tickets to trade for|<%sL_GOODS_ITEM>. Can I get them from the DQX|<br>|Shop? Awakened Adventurer's Square Dragon|Quest X Shop (DQX Shop)|https://sqex.to/dqxshop<bw_break>"
+    },
+    "516": {
+        "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
+    },
+    "517": {
+        "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    },
+    "518": {
+        "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<end>": "That item has already been exchanged, so I|can't give it to you anymore...<end>"
+    },
+    "519": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<end>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<end>"
+    },
+    "520": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<end>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<end>"
+    },
+    "521": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようですが|　本当に　交換しますか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you sure you want to trade?<yesno2><break>"
+    },
+    "522": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようですが|　本当に　交換しますか？|<yesno2><break>": "I see you've already installed|<%sL_GOODS_ITEM>, are you sure you want to|replace it?<yesno2><break>"
+    },
+    "523": {
+        "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
+    },
+    "524": {
+        "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
+    },
+    "525": {
+        "「申し訳ありません。|　その絵は　準備中なので|　まだ　お渡しする事ができません。|<end>": "I'm sorry... That painting is in preparation,|so I can't give it to you yet...<end>"
+    },
+    "526": {
+        "「申し訳ありません。人気投票も終わったので|　交換を　終了させて頂きました。|　また人気投票のときに　ご案内しますね。|<br>|プレイヤー専用サイト　目覚めし冒険者の広場|ドラゴンクエストＸショップ（ＤＱＸショップ）|https://sqex.to/dqxshop|<end>": "I'm sorry... Now that the popularity contest|is over, we've decided to end the exchange...|We'll let you know when the poll is up...|<br>|Player Site: Awakening Adventurer's Square|Dragon Quest X Shop (DQX Shop)|https://sqex.to/dqxshop<end>"
+    },
+    "527": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "528": {
+        "「アイテム交換するNPCです。|　よろしくです。レグナード|<bw_break>": "NP to exchange items... Good... Regnard.<bw_break>"
+    },
+    "529": {
+        "「アイテム交換するNPCです。|　よろしくです。ダークキング|<bw_break>": "NP to exchange items... Good... Dark King.<bw_break>"
+    },
+    "530": {
+        "「アイテム交換するNPCです。|　よろしくです。イカ|<bw_break>": "NP to exchange items... Please... Squid.<bw_break>"
+    },
+    "531": {
+        "「オマエが　竜牙石の破片を |　イッパイ集めてこれたら|　オレが　破片を竜牙石に　変えてやろウ。|<br>|「それと　オレは　こう見えて手先が器用でな。 |　姫を　お守りするかたわら　特殊な素材を使った|　装備品なんかも　作っているンだ。|<br>|「もし　レグナードとの戦いで　めずらしい素材を |　手に入れたなら　オレに見せてみな。|　いいモンと　交換してやらんでもないゾ。|<bw_break>": "If you can collect enough pieces of|tuskstone, I can turn them into tuskstone.|And I'm pretty handy with my hands... While|<br>|protecting the princess, I also make|equipment out of special materials... If you|come across any rare materials during the|<br>|battle with Regnard... show them to me... I'd|be happy to trade it for something...<bw_break>"
+    },
+    "532": {
+        "「竜牙石の破片　１０個で|　竜牙石と　交換できます。|<br>|「また　戦闘勝利時に　入手した　物質があれば|　こちらで　交換できますので　ご利用ください。|<bw_break>": "You can trade in 10 Dragon Fang Stone|fragments for one Dragon Fang Stone... Also,|if you have any materials from battle|<br>|victories, you can exchange them here for...<bw_break>"
+    },
+    "533": {
+        "「竜牙石の破片が　１０個　集まったら |　ボクが　竜牙石と交換します。|<br>|「それと　戦いで手に入れたものがあれば|　イイモノと交換してあげるから　ヨロシクね。|<bw_break>": "I'll trade you 10 pieces of tusk for 10|pieces of tusk... And anything else you get|from the fight, I'll trade you for something|<br>|better.<bw_break>"
+    },
+    "534": {
+        "「用件を　言ってみな。|<break>": "Tell me what you want...<break>"
+    },
+    "535": {
+        "「こちらで　アイテムの交換ができます。|　どうしますか？|<break>": "You can exchange items here... What do you|want to do?<break>"
+    },
+    "536": {
+        "「アイテムを　交換するんだね。|　何が　ほしいの？|<break>": "I'll trade you an item... What do you want?<break>"
+    },
+    "537": {
+        "「他に　用件は　あるか？|<break>": ""
+    },
+    "538": {
+        "「他に　用件はありますか？|<break>": "Is there anything else I can do for you?<break>"
+    },
+    "539": {
+        "「他に　何かありますか？|<break>": ""
+    },
+    "540": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+    },
+    "541": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+    },
+    "542": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+    },
+    "543": {
+        "「<%sL_GOODS_ITEM>か。|　オマエの素材と交換するが　イイんだな？|<yesno><break>": "<%sL_GOODS_ITE... I'll trade you your|material for it. Is that okay with you?<yesno><break>"
+    },
+    "544": {
+        "「<%sL_GOODS_ITEM>を|　所持アイテムと　交換します。|　よろしいですか？|<yesno><break>": "I'd like to trade <%sL_GOODS_ITEM> for an|item in my possession. May I?<yesno><break>"
+    },
+    "545": {
+        "「<%sL_GOODS_ITEM>だね。|　<pc>さんの　持っているアイテムと|　交換するよ。いい？|<yesno><break>": "<%sL_GOODS_ITEM...<pc> I'd like to trade for an item in your|possession. Ready?<yesno><break>"
+    },
+    "546": {
+        "「どいつが　ほしいンだ？|<break>": "Which one do you want?<break>"
+    },
+    "547": {
+        "「どのアイテムを　交換しますか？|<break>": "Which item would you like to trade?<break>"
+    },
+    "548": {
+        "「どのアイテムを　交換するの？|<break>": "What items are you trading?<break>"
+    },
+    "549": {
+        "<pipipi_on>|「他に　交換したいものは　あるか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
+    },
+    "550": {
+        "<pipipi_on>|「他に　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
+    },
+    "551": {
+        "<pipipi_on>|「他に　交換したいものは　ある？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
+    },
+    "552": {
+        "「<%sL_GOODS_ITEM>か。|　オマエの素材と交換するが　イイんだな？|<yesno><break>": "<%sL_GOODS_ITE... I'll trade you your|material for it. Is that okay with you?<yesno><break>"
+    },
+    "553": {
+        "「<%sL_GOODS_ITEM>を|　所持アイテムと　交換します。|　よろしいですか？|<yesno><break>": "I'd like to trade <%sL_GOODS_ITEM> for an|item in my possession. May I?<yesno><break>"
+    },
+    "554": {
+        "「<%sL_GOODS_ITEM>だね。|　<pc>さんの　持っているアイテムと|　交換するよ。いい？|<yesno><break>": "<%sL_GOODS_ITEM...<pc> I'd like to trade for an item in your|possession. Ready?<yesno><break>"
+    },
+    "555": {
+        "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>個か。|　オマエの素材と交換するが　イイんだな？|<yesno><break>": "<%sL_GOODS_ITEM> <%nL_GET_NUM... I'll trade|you your material for it. Is that okay with|you?<yesno><break>"
+    },
+    "556": {
+        "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を|　所持アイテムと　交換します。|　よろしいですか？|<yesno><break>": "I'd like to trade <%sL_GOODS_ITEM>|<%nL_GET_NUM> for the items in my|possession... Are you sure?<yesno><break>"
+    },
+    "557": {
+        "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>個だね。|　<pc>さんの　持っているアイテムと|　交換するよ。いい？|<yesno><break>": "<%sL_GOODS_ITEM> <%nL_GET_NUM>...<pc> I'd like to trade for an item in your|possession. Ready?<yesno><break>"
+    },
+    "558": {
+        "「<%sL_GOODS_ITEM>だ。受け取れ。|<end>": "<%sL_GOODS_ITE...受...<end>"
+    },
+    "559": {
+        "「ピピピ……　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Pippi... Please pick up your|<%sL_GOODS_ITEM>...<end>"
+    },
+    "560": {
+        "「はい　<%sL_GOODS_ITEM>だよ。|　受け取ってね。|<end>": "Yes <%sL_GOODS_ITEM... RECEIVED...<end>"
+    },
+    "561": {
+        "「<%sL_GOODS_ITEM>だ。受け取れ。|<end>": "<%sL_GOODS_ITE...受...<end>"
+    },
+    "562": {
+        "「ピピピ……　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Pippi... Please pick up your|<%sL_GOODS_ITEM>...<end>"
+    },
+    "563": {
+        "「はい　<%sL_GOODS_ITEM>だよ。|　受け取ってね。|<end>": "Yes <%sL_GOODS_ITEM... RECEIVED...<end>"
+    },
+    "564": {
+        "「竜牙石の破片を手に入れたら　また来い。|　オマエが　竜討士の契約に従う限り|　オレも　チカラを貸してやろウ。|<turn_end>": "If I can get my hands on a piece of tusks...|As long as you abide by the contract of the|Dragon Slayer... I'll lend you my help...<turn_end>"
+    },
+    "565": {
+        "「竜牙石の破片は　竜牙石と交換できますので|　入手後　再度アクセスをお願いします。|　トレード・シーケンスを　終了します。|<turn_end>": "The Dragonstone shards can be exchanged for|Dragonstone, so please access them again...|Trade sequence terminated...<turn_end>"
+    },
+    "566": {
+        "「竜牙石の破片が　集まったら|　ボクが　竜牙石と交換するから　ヨロシクね。|<turn_end>": "When I get all the pieces, I'll trade them|for you.<turn_end>"
+    },
+    "567": {
+        "「竜牙石の破片を手に入れたら　また来い。|　オマエが　竜討士の契約に従う限り|　オレも　チカラを貸してやろウ。|<turn_end>": "If I can get my hands on a piece of tusks...|As long as you abide by the contract of the|Dragon Slayer... I'll lend you my help...<turn_end>"
+    },
+    "568": {
+        "「竜牙石の破片は　竜牙石と交換できますので|　入手後　再度アクセスをお願いします。|　トレード・シーケンスを　終了します。|<turn_end>": "The Dragonstone shards can be exchanged for|Dragonstone, so please access them again...|Trade sequence terminated...<turn_end>"
+    },
+    "569": {
+        "「竜牙石の破片が　集まったら|　ボクが　竜牙石と交換するから　ヨロシクね。|<turn_end>": "When I get all the pieces, I'll trade them|for you.<turn_end>"
+    },
+    "570": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "571": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "572": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "573": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "574": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "575": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "576": {
+        "「どうぐかばんが　イッパイだな。|　受け取れるように　整理して来い。|<bw_break>": "I've got the trinket bag... I've got it all|in order.<bw_break>"
+    },
+    "577": {
+        "「ピピピ……　どうぐかばんが　イッパイです。|　整理後　再度アクセスをお願いします。|<bw_break>": "Pippi... The glove compartment is in the...|Please access the site again...<bw_break>"
+    },
+    "578": {
+        "「……あれ？　持ち物が　いっぱいだよ。|　どうぐかばんを整理して　また来てね。|<bw_break>": "... What? I have so much stuff... I'll go|through my bag and...<bw_break>"
+    },
+    "579": {
+        "「そうびぶくろが　イッパイだな。|　受け取れるように　整理して来い。|<bw_break>": "I've got my fist bag... I'll organize it for|you.<bw_break>"
+    },
+    "580": {
+        "「ピピピ……　そうびぶくろが　イッパイです。|　整理後　再度アクセスをお願いします。|<bw_break>": "Pippi... The bag is gone. Please access the|site again...<bw_break>"
+    },
+    "581": {
+        "「……あれ？　持ち物が　いっぱいだよ。|　そうびぶくろを整理して　また来てね。|<bw_break>": "... What? I've got a lot of stuff... I'm|going to clean out my sobriety bag.<bw_break>"
+    },
+    "582": {
+        "「必要な素材が　足りてないゾ。|　これでは　<%sL_GOODS_ITEM>を渡せんな。|<bw_break>": "We don't have all the materials we need...|This will give you <%sL_GOODS_ITEM>...<bw_break>"
+    },
+    "583": {
+        "「ピピピ……　<%sL_GOODS_ITEM>の交換に|　必要なアイテムが　不足しています。|<bw_break>": "Pippi... You are missing an item needed to|replace <%sL_GOODS_ITEM>...<bw_break>"
+    },
+    "584": {
+        "「……あれ？|　<%sL_GOODS_ITEM>を　交換するには|　必要なアイテムが　足りないよ。|<bw_break>": "... Huh? You need more items to trade|<%sL_GOODS_ITEM> for...<bw_break>"
+    },
+    "585": {
+        "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できないけど　いいかい？|<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your|gender, okay?<yesno 2><break>"
+    },
+    "586": {
+        "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できないけど　いいかい？|<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your|gender, okay?<yesno 2><break>"
+    },
+    "587": {
+        "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できないけど　いいかい？|<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your|gender, okay?<yesno 2><break>"
+    },
+    "588": {
+        "「今のオマエの職業では　装備できないようだガ|　イイのか？|<yesno><break>": "I don't think you can equip it with your|current profession, is that okay?<yesno><break>"
+    },
+    "589": {
+        "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    },
+    "590": {
+        "「今の職業では　装備できないけど　いい？|<yesno><break>": "You can't equip it in your current|profession, okay?<yesno><break>"
+    },
+    "591": {
+        "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<bw_break>": "That item has already been exchanged, so I|can't give it to you anymore...<bw_break>"
+    },
+    "592": {
+        "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<bw_break>": "That item has already been exchanged, so I|can't give it to you anymore...<bw_break>"
+    },
+    "593": {
+        "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<bw_break>": "That item has already been exchanged, so I|can't give it to you anymore...<bw_break>"
+    },
+    "594": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<bw_break>"
+    },
+    "595": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<bw_break>"
+    },
+    "596": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<bw_break>"
+    },
+    "597": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<bw_break>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<bw_break>"
+    },
+    "598": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<bw_break>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<bw_break>"
+    },
+    "599": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<bw_break>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<bw_break>"
+    },
+    "600": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようですが|　本当に　交換しますか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you sure you want to trade?<yesno2><break>"
+    },
+    "601": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようですが|　本当に　交換しますか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you sure you want to trade?<yesno2><break>"
+    },
+    "602": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようですが|　本当に　交換しますか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you sure you want to trade?<yesno2><break>"
+    },
+    "603": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようですが|　本当に　交換しますか？|<yesno2><break>": "I see you've already installed|<%sL_GOODS_ITEM>, are you sure you want to|replace it?<yesno2><break>"
+    },
+    "604": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようですが|　本当に　交換しますか？|<yesno2><break>": "I see you've already installed|<%sL_GOODS_ITEM>, are you sure you want to|replace it?<yesno2><break>"
+    },
+    "605": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようですが|　本当に　交換しますか？|<yesno2><break>": "I see you've already installed|<%sL_GOODS_ITEM>, are you sure you want to|replace it?<yesno2><break>"
+    },
+    "606": {
+        "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
+    },
+    "607": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようですが|　本当に　交換しますか？|<yesno2><break>": "I see you've already installed|<%sL_GOODS_ITEM>, are you sure you want to|replace it?<yesno2><break>"
+    },
+    "608": {
+        "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
+    },
+    "609": {
+        "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
+    },
+    "610": {
+        "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
+    },
+    "611": {
+        "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
+    },
+    "612": {
+        "「申し訳ありません。|　そのアイテムは　準備中なので|　まだ　お渡しする事ができません。|<bw_break>": "I'm sorry... That item is still being|prepared, so I can't give it to you yet...<bw_break>"
+    },
+    "613": {
+        "「申し訳ありません。|　そのアイテムは　準備中なので|　まだ　お渡しする事ができません。|<bw_break>": "I'm sorry... That item is still being|prepared, so I can't give it to you yet...<bw_break>"
+    },
+    "614": {
+        "「申し訳ありません。|　そのアイテムは　準備中なので|　まだ　お渡しする事ができません。|<bw_break>": "I'm sorry... That item is still being|prepared, so I can't give it to you yet...<bw_break>"
+    },
+    "615": {
+        "「申し訳ありません。交換アイテムの準備のため|　交換を終了させて頂きます。|　またお越しください。|<end>": "We're sorry... We've had to close the|exchange to make room for new items... Please|come again...<end>"
+    },
+    "616": {
+        "「申し訳ありません。交換アイテムの準備のため|　交換を終了させて頂きます。|　またお越しください。|<end>": "We're sorry... We've had to close the|exchange to make room for new items... Please|come again...<end>"
+    },
+    "617": {
+        "「申し訳ありません。交換アイテムの準備のため|　交換を終了させて頂きます。|　またお越しください。|<end>": "We're sorry... We've had to close the|exchange to make room for new items... Please|come again...<end>"
+    },
+    "618": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "619": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "620": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "621": {
+        "「アイテム交換するNPCです。|　よろしくです。ユリ|<bw_break>": "NP to exchange items... OK... Uri.<bw_break>"
+    },
+    "622": {
+        "「戦いで手に入れたものがあれば |　私が　イイモノと　交換してあげますから|　教えてくださいね。|<bw_break>": "If you got something from the fight, let me|know and I'll trade you for something|better...<bw_break>"
+    },
+    "623": {
+        "「アイテムを　交換するのですね。|　何が　ほしいのですか？|<break>": "I'm trying to trade an item... What do you|want?<break>"
+    },
+    "624": {
+        "「他に　何かありますか？|<break>": ""
+    },
+    "625": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+    },
+    "626": {
+        "「<%sL_GOODS_ITEM>ですね。|　<pc>の　持っているアイテムと|　交換します。よいですね？|<yesno><break>": "<%sL_GOODS_ITEM>...<pc> I'll trade you the item that you have for the|item that... Isn't it?<yesno><break>"
+    },
+    "627": {
+        "「どのアイテムを　お渡ししましょう？|<break>": "Which item would you like me to give you?<break>"
+    },
+    "628": {
+        "<pipipi_on>|「他に　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
+    },
+    "629": {
+        "「<%sL_GOODS_ITEM>ですね。|　<pc>の　持っているアイテムと|　交換します。よいですね？|<yesno><break>": "<%sL_GOODS_ITEM>...<pc> I'll trade you the item that you have for the|item that... Isn't it?<yesno><break>"
+    },
+    "630": {
+        "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>個ですね。|　<pc>の　持っているアイテムと|　交換します。よいですね？|<yesno><break>": "<%sL_GOODS_ITEM> <%nL_GET_NUM>個...<pc> I'll trade you the item that you have for the|item that... Isn't it?<yesno><break>"
+    },
+    "631": {
+        "「ふふっ　<%sL_GOODS_ITEM>です。|　受け取ってください。|<end>": "Phew <%sL_GOODS_ITEM... Please accept...<end>"
+    },
+    "632": {
+        "「ふふっ　<%sL_GOODS_ITEM>です。|　受け取ってください。|<end>": "Phew <%sL_GOODS_ITEM... Please accept...<end>"
+    },
+    "633": {
+        "「戦いで手に入れたものがあれば |　私が　イイモノと　交換してあげますから|　いつでも　声をかけてくださいね。|<turn_end>": "If you've got something from the fight, I'll|trade it for something better, and you can|always reach out to me...<turn_end>"
+    },
+    "634": {
+        "「戦いで手に入れたものがあれば |　私が　イイモノと　交換してあげますから|　いつでも　声をかけてくださいね。|<turn_end>": "If you've got something from the fight, I'll|trade it for something better, and you can|always reach out to me...<turn_end>"
+    },
+    "635": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "636": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "637": {
+        "「……持ち物が　いっぱいですね。|　どうぐかばんを　整理して来てください。|<bw_break>": "I've got... I've got a lot of stuff... I'm|gonna need you to go and clean out your|kit...<bw_break>"
+    },
+    "638": {
+        "「……持ち物が　いっぱいですね。|　そうびぶくろを　整理して来てください。|<bw_break>": "I've got... I've got a lot of stuff... I'm|going to need you to pack your sobriety bag.<bw_break>"
+    },
+    "639": {
+        "「……おや？　|　<%sL_GOODS_ITEM>を　交換するには|　必要なアイテムが　足りませんね。|<bw_break>": "... Hmm? I need more items to trade for|<%sL_GOODS_ITEM>...<bw_break>"
+    },
+    "640": {
+        "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できないけど　いいかい？|<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your|gender, okay?<yesno 2><break>"
+    },
+    "641": {
+        "「今の職業では　装備できませんが|　よいですね？|<yesno><break>": "I can't equip it in my current profession, is|that okay?<yesno><break>"
+    },
+    "642": {
+        "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<bw_break>": "That item has already been exchanged, so I|can't give it to you anymore...<bw_break>"
+    },
+    "643": {
+        "「<%sL_GOODS_ITEM>の　内容は|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "Since you already seem to remember the|contents of <%sL_GOODS_ITEM>, I can give|you...<bw_break>"
+    },
+    "644": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<bw_break>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<bw_break>"
+    },
+    "645": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようですが|　本当に　交換しますか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you sure you want to trade?<yesno2><break>"
+    },
+    "646": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようですが|　本当に　交換しますか？|<yesno2><break>": "I see you've already installed|<%sL_GOODS_ITEM>, are you sure you want to|replace it?<yesno2><break>"
+    },
+    "647": {
+        "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
+    },
+    "648": {
+        "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
+    },
+    "649": {
+        "「申し訳ありません。|　そのアイテムは　準備中なので|　まだ　お渡しする事ができません。|<bw_break>": "I'm sorry... That item is still being|prepared, so I can't give it to you yet...<bw_break>"
+    },
+    "650": {
+        "「申し訳ありません。交換アイテムの準備のため|　交換を終了させて頂きます。|　またお越しください。|<end>": "We're sorry... We've had to close the|exchange to make room for new items... Please|come again...<end>"
+    },
+    "651": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "652": {
+        "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しても　よろしいですか？|<yesno2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno2><break>"
+    },
+    "653": {
+        "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しても　よろしいですか？|<yesno2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno2><break>"
+    },
+    "654": {
+        "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しても　よろしいですか？|<yesno2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno2><break>"
+    },
+    "655": {
+        "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しても　よろしいですか？|<yesno2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno2><break>"
+    },
+    "656": {
+        "「そのアイテムは　すでに|　レプリカに　なっているようだが|　本当に　交換して　大丈夫か？|<yesno2><break>": "The item appears to already be a replica, but|are you sure it's safe to trade?<yesno2><break>"
+    },
+    "657": {
+        "「そのアイテムは　すでに|　レプリカに　なっているみたいだけど|　本当に　交換しても　いいかしら？|<yesno2><break>": "It looks like the item is already a replica,|but are you sure you don't want to trade it?<yesno2><break>"
+    },
+    "658": {
+        "「そのアイテムは　すでに|　レプリカに　なっているようだが……|　本当に　交換するのか？|<yesno2><break>": "The item appears to have already been|replicated, but... Are you sure you want to|trade?<yesno2><break>"
+    },
+    "659": {
+        "「そのアイテムは　すでに|　レプリカに　なっているみたいですが|　本当に　交換しても　よろしですか？|<yesno2><break>": "It seems that the item has already been|replicated, but would you really be willing|to trade it?<yesno2><break>"
+    },
+    "660": {
+        "「そのアイテムは　すでに|　レプリカに　なっているみたいだけど|　本当に　交換しても　大丈夫かな～？|<yesno2><break>": "It looks like the item's already a replica,|but is it really okay to trade it?<yesno2><break>"
+    },
+    "661": {
+        "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しても　よろしいですか？|<yesno2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno2><break>"
+    },
+    "662": {
+        "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しても　よろしいですか？|<yesno2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno2><break>"
+    },
+    "663": {
+        "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しても　よろしいですか？|<yesno2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno2><break>"
+    },
+    "664": {
+        "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しても　よろしいですか？|<yesno2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno2><break>"
+    },
+    "665": {
+        "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しても　よろしいですか？|<yesno2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno2><break>"
+    },
+    "666": {
+        "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しても　よろしいですか？|<yesno2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno2><break>"
+    },
+    "667": {
+        "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しても　よろしいですか？|<yesno2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno2><break>"
+    },
+    "668": {
+        "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しても　よろしいですか？|<yesno2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno2><break>"
+    },
+    "669": {
+        "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しても　よろしいですか？|<yesno2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno2><break>"
+    },
+    "670": {
+        "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しても　よろしいですか？|<yesno2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno2><break>"
+    },
+    "671": {
+        "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しても　よろしいですか？|<yesno2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno2><break>"
+    },
+    "672": {
+        "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しても　よろしいですか？|<yesno2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno2><break>"
+    },
+    "673": {
+        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an item exchange... How may I help|you today?<break>"
+    },
+    "674": {
+        "「当店では　お客さまがお持ちの|　フェザーチップを　素敵なアイテムと|　交換することができます。|<br>|「交換に必要な　フェザーチップは|　この塔にいる魔物を　討伐したとき|　落とす宝箱から　入手できるようです。|<br>|「交換の手数料は　いただいておりませんので|　たくさん集められましたら|　ぜひ当店に　お立ち寄りください。|<bw_breal>": "You can exchange your Feather Chips for|wonderful items at our shop. The Feather|Chips you need to exchange can be found in|<br>|the treasure chests that are dropped when you|defeat the demons in this tower... We don't|charge a fee for the exchange, so if you've|<br>|collected a lot, please stop by our shop...<bw_breal>"
+    },
+    "675": {
+        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an item exchange... How may I help|you today?<break>"
+    },
+    "676": {
+        "「他に　ご用件はありますか？|<break>": "Is there anything else I can do for you?<break>"
+    },
+    "677": {
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+    },
+    "678": {
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「お持ちのアイテムを|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "This is the kind of thing you can only give|once! May I trade your item for|<%sL_GOODS_ITEM>?<yesno><break>"
+    },
+    "679": {
+        "「どのアイテムを　交換しますか？|<break>": "Which item would you like to trade?<break>"
+    },
+    "680": {
+        "<pipipi_on>|「他にも　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
+    },
+    "681": {
+        "「お持ちのアイテムを|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "Are you sure you want to trade your item for|<%sL_GOODS_ITEM>?<yesno><break>"
+    },
+    "682": {
+        "「お持ちのアイテムを|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換してよろしいですか？|<yesno><break>": "Would you like to trade your item for|<%sL_GOODS_ITEM> <%nL_GET_NUM>?<yesno><break>"
+    },
+    "683": {
+        "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    },
+    "684": {
+        "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    },
+    "685": {
+        "「ご利用　ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you for visiting... We look forward to|seeing you again...<turn_end>"
+    },
+    "686": {
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+    },
+    "687": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+    },
+    "688": {
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+    },
+    "689": {
+        "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<end>": "I can't seem to get it. My kitty's full.<end>"
+    },
+    "690": {
+        "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<end>": "I'm afraid there's too many envelopes for me|to pick up.<end>"
+    },
+    "691": {
+        "「<%sL_GOODS_ITEM>を　交換するには|　必要なアイテムが　足りないようですね。|<end>": "I'm afraid I don't have what it takes to|replace <%sL_GOODS_ITEM>...<end>"
+    },
+    "692": {
+        "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
+    },
+    "693": {
+        "「今の職業では　装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    },
+    "694": {
+        "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<end>": "That item has already been exchanged, so I|can't give it to you anymore...<end>"
+    },
+    "695": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<end>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<end>"
+    },
+    "696": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<end>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<end>"
+    },
+    "697": {
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようですが|　本当に　交換しますか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture, but are you sure you want to trade?<yesno2><break>"
+    },
+    "698": {
+        "「<%sL_GOODS_ITEM>は|　すでに取り付けているようですが|　本当に　交換しますか？|<yesno2><break>": "I see you've already installed|<%sL_GOODS_ITEM>, are you sure you want to|replace it?<yesno2><break>"
+    },
+    "699": {
+        "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
+    },
+    "700": {
+        "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
+    },
+    "701": {
+        "「申し訳ありません。|　そのアイテムは　準備中なので|　まだ　お渡しする事ができません。|<end>": "I'm sorry... That item is still being|prepared, so I can't give it to you yet...<end>"
+    },
+    "702": {
+        "「申し訳ありません。交換アイテムの準備のため|　交換を終了させて頂きます。|　またお越しください。|<end>": "We're sorry... We've had to close the|exchange to make room for new items... Please|come again...<end>"
+    },
+    "703": {
+        "交換出来ませんでした。|最大所持数に　制限のある　|アイテムのようです。|<end>": "I can't trade... There's a limit to the|number of items you can have.<end>"
+    },
+    "704": {
+        "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しても　よろしいですか？|<yesno2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno2><break>"
+    }
+}

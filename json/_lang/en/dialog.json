@@ -1668,7 +1668,7 @@
         "clarity_nt_char_556": "clarity_nt_char_556"
     },
     "557": {
-        "<speed=0>条件に合う人が　見つかりませんでした。": ""
+        "<speed=0>条件に合う人が　見つかりませんでした。": "<speed=0>Found no players who matched given criteria."
     },
     "558": {
         "clarity_nt_char_558": "clarity_nt_char_558"
@@ -2625,7 +2625,7 @@
         "clarity_nt_char_875": "clarity_nt_char_875"
     },
     "876": {
-        "<center><color_yellow>※酒場登録に　失敗しました。<color_white>|おつかれさまでした。|このあとは　どこに戻りますか？<break>": "<center><color_yellow>*Failed to register at the tavern.<color_white>|Thank you for playing!|Where would you like to go now?<break>"
+        "<center><color_yellow>※酒場登録に　失敗しました。<color_white>|おつかれさまでした。|このあとは　どこに戻りますか？<break>": "<color_yellow>*Failed to register at the tavern.<color_white>|Thank you for playing!|Where would you like to go now?<break>"
     },
     "877": {
         "この絵葉書の　写真を|思い出アルバムに　コピーしますか？|<yesno><close>": "Copy the photo on this postcard to|your Photo Album?|<yesno><close>"
@@ -4245,13 +4245,13 @@
         "clarity_nt_char_1415": "clarity_nt_char_1415"
     },
     "1416": {
-        "<center>おつかれさまでした。|<color_yellow>『フレンドのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": "<center>Thank you for playing!|Registered at the tavern as <color_yellow>\"Friends Only\"<color_white>.|Where would you like to go now?<break>"
+        "<center>おつかれさまでした。|<color_yellow>『フレンドのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": "Thank you for playing!|Registered at the tavern as <color_yellow>\"Friends Only\"<color_white>.|Where would you like to go now?<break>"
     },
     "1417": {
-        "<center>おつかれさまでした。|<color_yellow>『フレンドとチームのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": "<center>Thank you for playing!|Registered as <color_yellow>\"Friends/Team Only\"<color_white>.|Where would you like to go now?<break>"
+        "<center>おつかれさまでした。|<color_yellow>『フレンドとチームのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": "Thank you for playing!|Registered as <color_yellow>\"Friends/Team Only\"<color_white>.|Where would you like to go now?<break>"
     },
     "1418": {
-        "<center>おつかれさまでした。|<color_yellow>『チームのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": "<center>Thank you for playing!|Registered at the tavern as <color_yellow>\"Team Only\"<color_white>.|Where would you like to go now?<break>"
+        "<center>おつかれさまでした。|<color_yellow>『チームのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": "Thank you for playing!|Registered at the tavern as <color_yellow>\"Team Only\"<color_white>.|Where would you like to go now?<break>"
     },
     "1419": {
         "clarity_nt_char_1419": "clarity_nt_char_1419"
@@ -5487,7 +5487,7 @@
         "<speed=0>|あなたが　仲間にしたい職業と|<%sM_pc>が　なりたい職業が一致しないので|<%sM_pc>を　なかまに　さそえませんでした。": ""
     },
     "1830": {
-        "<speed=0>この同盟バトルに参加するための|条件を　サポート仲間が満たしていません。|もう一度　条件を確認してください。　": ""
+        "<speed=0>この同盟バトルに参加するための|条件を　サポート仲間が満たしていません。|もう一度　条件を確認してください。　": "<speed=0>Your support party members do not meet the|requirements for this alliance battle.|Please check them again."
     },
     "1831": {
         "clarity_nt_char_1831": "clarity_nt_char_1831"
@@ -5592,7 +5592,7 @@
         "clarity_nt_char_1864": "clarity_nt_char_1864"
     },
     "1865": {
-        "<speed=0>この同盟バトルに参加するためには|仲間モンスターを　待機状態にする|必要があります。": ""
+        "<speed=0>この同盟バトルに参加するためには|仲間モンスターを　待機状態にする|必要があります。": "<speed=0>In order to participate in this alliance|battle, you must first put your fellow|monster on standby."
     },
     "1866": {
         "<speed=0>「マイコーデ<%nM_00>」に|コーデ名称を　設定してください。": ""
@@ -5634,7 +5634,7 @@
         "<speed=0>|この場所では　マイコーデに登録できません！": ""
     },
     "1879": {
-        "<speed=0>この同盟バトルに参加する場合|下にある「条件付きバトルに挑む」を|選択してください": ""
+        "<speed=0>この同盟バトルに参加する場合|下にある「条件付きバトルに挑む」を|選択してください": "<speed=0>To participate in this alliance battle, please|select \"Challenge Conditional Battle\"."
     },
     "1880": {
         "clarity_nt_char_1880": "clarity_nt_char_1880"
@@ -9855,19 +9855,19 @@
         "clarity_nt_char_3285": "clarity_nt_char_3285"
     },
     "3286": {
-        "<speed=0>|収集品に残っている　アイテムは|すべて　消えてしまいますが|源世庫パニガルムを　出てよろしいですか？|<yesno2><close>": ""
+        "<speed=0>|収集品に残っている　アイテムは|すべて　消えてしまいますが|源世庫パニガルムを　出てよろしいですか？|<yesno2><close>": "<speed=0>|If you leave Origin Vault Panigalm, all items|in your collection will disappear. Are you|sure?|<yesno2><close>"
     },
     "3287": {
         "clarity_nt_char_3287": "clarity_nt_char_3287"
     },
     "3288": {
-        "<speed=0>|探査を終了し　源世庫パニガルムから|出てよろしいですか？|<yesno2><close>": ""
+        "<speed=0>|探査を終了し　源世庫パニガルムから|出てよろしいですか？|<yesno2><close>": "<speed=0>|Finish exploring and leave the Origin Vault|Panigalm?|<yesno2><close>"
     },
     "3289": {
         "clarity_nt_char_3289": "clarity_nt_char_3289"
     },
     "3290": {
-        "<speed=0>|源世庫パニガルムから　脱出します。|収集品の中の　アイテムは　すべて消失しますが|よろしいですか？|<yesno2><close>": ""
+        "<speed=0>|源世庫パニガルムから　脱出します。|収集品の中の　アイテムは　すべて消失しますが|よろしいですか？|<yesno2><close>": "<speed=0>|If you escape from Origin Vault Panigalm, all|of the items in your collection will|disappear. Are you sure?|<yesno2><close>"
     },
     "3291": {
         "<speed=0>|それを　捨てるなんて　とんでもない！|捨てたいときは　不思議の魔塔にいる|札強化屋ラベローに　渡しましょう。": ""
@@ -9897,10 +9897,10 @@
         "clarity_nt_char_3299": "clarity_nt_char_3299"
     },
     "3300": {
-        "<speed=0>|源世の恵みが　ありません！": ""
+        "<speed=0>|源世の恵みが　ありません！": "<speed=0>|You have no Origin Blessings!"
     },
     "3301": {
-        "<speed=0>|収集品が　何もない！": ""
+        "<speed=0>|収集品が　何もない！": "<speed=0>|You don't have anything!"
     },
     "3302": {
         "clarity_nt_char_3302": "clarity_nt_char_3302"
@@ -9945,7 +9945,7 @@
         "モニターの画質の変更は　メニューを閉じたあとの|映像の再読み込み後に　反映されます。|ご注意ください。": ""
     },
     "3316": {
-        "<speed=0>|源世庫パニガルムの　探査に向かいます。|よろしいですか？|<yesno><close>": ""
+        "<speed=0>|源世庫パニガルムの　探査に向かいます。|よろしいですか？|<yesno><close>": "<speed=0>|Go and explore the Origin Vault Panigalm?|<yesno><close>"
     },
     "3317": {
         "『アストルティア放送局の設定』の　説明です。|<br>|アストルティア放送局は　アストルティアの外で|放送される　ドラゴンクエストＸにまつわる番組を|アストルティアの中から　視聴できる機能です。|<br>|おもに　ニコニコ生放送で　放送される|超ドラゴンクエストＸＴＶや　ドラゴンクエストの|情報番組などを　放送していく予定です。|<br>|『視聴する』は　放送を視聴するかの|選択ができます。|視聴しないにすると　映像は流れません。|<br>|また　視聴しないに設定した場合は|その他の項目の設定は　行えませんので|ご注意ください。|<br>|視聴するにしているのに　放送時間になっても|放送局が　視聴できない場合は　ゲームプレイの|必要環境を満たしているか　ご確認ください。|<br>|プレイ環境によっては　番組放送中のモニターが|近くにあると　動作が重くなり|ゲームが遊べなくなる　可能性があります。|<br>|もし　番組放送中に　遊べなくなってしまったら|ログイン時のメニューにある　『視聴する』を|『しない』に設定して　再度　お試しください。|<br>|なお　「いまどんな？設定」で|配信中に　設定されている場合も|番組を視聴できませんので　ご注意ください。|<br>|『コメント表示』は　番組上に流れる|コメントの　表示／非表示を　選べます。|非表示だと　すべてのコメントが表示されません。|<br>|表示を選んだ場合　ニコニコ動画の|基準に沿った　コメントが表示されます。|表示したくない場合は　非表示を選んでください。|<br>|『コメント送信』では　番組用のチャットモード|「まわりと放送局に」を使うか　設定できます。|<br>|「まわりと放送局に」で　送られたチャットは|ニコニコ動画上にも　表示されます。|不快なコメントを送らないよう　注意しましょう。|<br>|『モニターの画質』は　映像の画質を選べます。|あなたの通信環境や　お好みに合わせて|選択してください。|<br>|なお　変更は　メニューを閉じたあとの|映像の再読み込み後に　反映されます。|ご注意ください。|<br>|『モニターの音量』は　視聴する映像の|音量を設定できます。|<br>|この設定では　放送される映像の音量しか|変化しません。|<br>|アストルティア放送局の放送予定については|冒険者の広場を　ご覧ください。|<br><color_yellow>|プレイヤー専用サイト|ドラゴンクエストＸ　目覚めし冒険者の広場|https://hiroba.dqx.jp|<br><color_white>|マナーを守って　楽しく　放送を見ましょう！|": ""
@@ -9954,7 +9954,7 @@
         "clarity_nt_char_3318": "clarity_nt_char_3318"
     },
     "3319": {
-        "パーティメンバーが　そろいしだい|自動で　戦闘エリアに進みます。": ""
+        "パーティメンバーが　そろいしだい|自動で　戦闘エリアに進みます。": "As soon as all party members are ready, you'll|proceed to the battle area."
     },
     "3320": {
         "clarity_nt_char_3320": "clarity_nt_char_3320"

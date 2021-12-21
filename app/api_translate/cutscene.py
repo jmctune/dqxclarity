@@ -75,7 +75,7 @@ try:
         logger.debug('cutscene text found :: checking if translation is needed')
         result = sqlite_read(ja_text, '{api_region}', 'dialog')
 
-        if api_logging:
+        if {api_logging}:
             game_text_logger.info(ja_text)
 
         if result is not None:
@@ -147,8 +147,6 @@ try:
         return logger
 
     logger = setup_logger('out', 'out.log')
-    if debug:
-        logger.setLevel(logging.DEBUG)
 
     # get address values where text can be identified
     ja_address = unpack_to_int({edi_address})[0]

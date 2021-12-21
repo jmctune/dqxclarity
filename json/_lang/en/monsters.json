@@ -1449,7 +1449,7 @@
         "闇芸人ルルルリーチ": "Relulu"
     },
     "484": {
-        "メリーサーラ": "Merry Sala"
+        "メリーサーラ": "Merrygina"
     },
     "485": {
         "clarity_nt_char_485": "clarity_nt_char_485"
@@ -3822,7 +3822,7 @@
         "暴将黒竜丸": "Tyrant Equinox"
     },
     "1275": {
-        "大地の怒竜バウギア": "Angry Earthwyrm"
+        "大地の怒竜バウギア": "Earthwyrm Baugia"
     },
     "1276": {
         "竜将ドラゴンガイア": "General Gaia Dragon"
@@ -4773,7 +4773,7 @@
         "バラモス強": "Apex Baramos"
     },
     "1592": {
-        "クリスモスブロス": "Christmas Bros."
+        "クリスモスブロス": "Soul of Christmas"
     },
     "1593": {
         "clarity_nt_char_1593": "clarity_nt_char_1593"
@@ -6588,7 +6588,7 @@
         "デュラン強": "Apex Dhuran"
     },
     "2197": {
-        "ワイルドフォビズム": "Wild Phobism"
+        "ワイルドフォビズム": "Wild Fauvism"
     },
     "2198": {
         "エビルキュビズム": "Evil Cubism"
@@ -6903,49 +6903,49 @@
         "clarity_nt_char_2301": "clarity_nt_char_2301"
     },
     "2302": {
-        "エラフィダイノス": ""
+        "デバフクリスタル": "Debuff Crystal"
     },
     "2303": {
         "clarity_nt_char_2303": "clarity_nt_char_2303"
     },
     "2304": {
-        "ルディアンリッター": ""
+        "こうげきクリスタル": "Attack Crystal"
     },
     "2305": {
-        "キサゴール": ""
+        "ヘドロ床": ""
     },
     "2306": {
-        "グリーンログ": "Green Log"
+        "clarity_nt_char_2306": "clarity_nt_char_2306"
     },
     "2307": {
-        "clarity_nt_char_2307": "clarity_nt_char_2307"
+        "カースドシャワー用": ""
     },
     "2308": {
-        "魔天暴ハーゲン": ""
-    },
-    "2309": {
         "混沌の魔瘴魂": "Miasma Chaos Soul"
     },
+    "2309": {
+        "clarity_nt_char_2309": "clarity_nt_char_2309"
+    },
     "2310": {
-        "clarity_nt_char_2310": "clarity_nt_char_2310"
+        "グリーンログ": "Green Log"
     },
     "2311": {
-        "魔天賊ボティ": ""
+        "clarity_nt_char_2311": "clarity_nt_char_2311"
     },
     "2312": {
-        "clarity_nt_char_2312": "clarity_nt_char_2312"
+        "イエローログ": "Yellow Log"
     },
     "2313": {
-        "レインボーログ": "Rainbow Log"
+        "clarity_nt_char_2313": "clarity_nt_char_2313"
     },
     "2314": {
-        "ドーナツ近": "Donut Near"
+        "パープルログ": "Purple Log"
     },
     "2315": {
-        "ドーナツ中": "Donut Middle"
+        "clarity_nt_char_2315": "clarity_nt_char_2315"
     },
     "2316": {
-        "ドーナツ遠": "Donut Far"
+        "レッドログ": "Red Log"
     },
     "2317": {
         "オバケのピッピ": "Ghost Pippi"
@@ -7017,700 +7017,700 @@
         "clarity_nt_char_2339": "clarity_nt_char_2339"
     },
     "2340": {
-        "ハナちゃん": "Flower-chan"
+        "ジャッジメントブラック": "Judgement Black"
     },
     "2341": {
-        "魔想念レギルラッゾ": "Demonic Thought Legirrazzo"
+        "円陣殺・蒼": "Blue Kill Area"
     },
     "2342": {
-        "魔想念ローガスト": "Demonic Thought Logast"
+        "円陣殺・緑": "Green Kill Area"
     },
     "2343": {
-        "clarity_nt_char_2343": "clarity_nt_char_2343"
+        "ハナちゃん": "Flower-chan"
     },
     "2344": {
-        "魔想念スコルパイド": "Demonic Thought Scorpide"
+        "レインボーログ": "Rainbow Log"
     },
     "2345": {
-        "魔想念ジェルザーク": "Demonic Thought Gelzark"
+        "ドーナツ近": "Donut Near"
     },
     "2346": {
-        "氷の従者": "Ice Servant"
+        "魔天鬼グーラ": ""
     },
     "2347": {
         "clarity_nt_char_2347": "clarity_nt_char_2347"
     },
     "2348": {
-        "こごえる魂": "Freezing Spirit"
-    },
-    "2349": {
         "封印の守護者": "Seal Guardian"
     },
-    "2350": {
-        "clarity_nt_char_2350": "clarity_nt_char_2350"
+    "2349": {
+        "clarity_nt_char_2349": "clarity_nt_char_2349"
     },
-    "2351": {
+    "2350": {
         "霊廟の猛将": "Tomb General"
     },
-    "2352": {
+    "2351": {
         "霊廟の冥妃": "Tomb Queen"
     },
-    "2353": {
+    "2352": {
         "霊廟の守護神": "Tomb Guardian"
     },
+    "2353": {
+        "clarity_nt_char_2353": "clarity_nt_char_2353"
+    },
     "2354": {
-        "clarity_nt_char_2354": "clarity_nt_char_2354"
+        "暗黒の魔造兵強": "Apex Dark Golem"
     },
     "2355": {
-        "魔犬レオパルド": "Evil Sir Leopold"
+        "サファイアボム": "Sapphire Bomb"
     },
     "2356": {
-        "暴君ラビット": "Tyrant Rabbit"
+        "こごえる魂": "Freezing Spirit"
     },
     "2357": {
-        "clarity_nt_char_2357": "clarity_nt_char_2357"
+        "時間延長": "Time Extend"
     },
     "2358": {
-        "ジャッジメントブラック": "Judgement Black"
+        "clarity_nt_char_2358": "clarity_nt_char_2358"
     },
     "2359": {
-        "円陣殺・蒼": "Blue Kill Area"
-    },
-    "2360": {
         "チャージタイム回復": "Charge Time Recovery"
     },
+    "2360": {
+        "デモンズゲイトＢ": "Demon's Gate B"
+    },
     "2361": {
-        "ナット": "Nut"
+        "clarity_nt_char_2361": "clarity_nt_char_2361"
     },
     "2362": {
-        "スブラキ": "Souvlaki"
+        "時増しの合成獣": "Time Synthetic Beast"
     },
     "2363": {
-        "clarity_nt_char_2363": "clarity_nt_char_2363"
+        "廻風陣": "Cyclone"
     },
     "2364": {
-        "移動対象": "Moving Thing"
+        "ふるぼけたタライ": "Underpants Dance"
     },
     "2365": {
         "clarity_nt_char_2365": "clarity_nt_char_2365"
     },
     "2366": {
-        "バナナの皮": "Banana Peel"
+        "奈落の宝石": "Abyssal Jewel"
     },
     "2367": {
-        "メランコロック": "Melanco Rock"
+        "異界の尖兵": "Otherworld Soul"
     },
     "2368": {
-        "異界の守護者": "Spirit World Guard"
+        "財宝の地縛霊": "Land Treasure Soul"
     },
     "2369": {
         "clarity_nt_char_2369": "clarity_nt_char_2369"
     },
     "2370": {
-        "異界の尖兵": "Otherworld Soul"
+        "スラッピ": "Slabbit"
     },
     "2371": {
-        "びっくりボックス": "Trap Box"
+        "clarity_nt_char_2371": "clarity_nt_char_2371"
     },
     "2372": {
-        "clarity_nt_char_2372": "clarity_nt_char_2372"
+        "ブルービックバン": "Blue Big Bang"
     },
     "2373": {
-        "サファイアボム": "Sapphire Bomb"
+        "clarity_nt_char_2373": "clarity_nt_char_2373"
     },
     "2374": {
-        "歌好きキッズ": "Song Loving Kids"
+        "魔想念デルメゼ": "Demon Thought Delmeze"
     },
     "2375": {
-        "clarity_nt_char_2375": "clarity_nt_char_2375"
+        "カルバドン": "Batsuregon"
     },
     "2376": {
-        "魔瘴魂": "Evil Soul"
-    },
-    "2377": {
         "言声の化身": "Voice Incarnate"
     },
+    "2377": {
+        "スブラキ": "Souvlaki"
+    },
     "2378": {
-        "エフェクト用ダミー": "Dummy Effect"
+        "clarity_nt_char_2378": "clarity_nt_char_2378"
     },
     "2379": {
         "守護者ミトロン": "Guardian Mithron"
     },
     "2380": {
-        "超爆裂石": ""
+        "テルドミール": ""
     },
     "2381": {
         "clarity_nt_char_2381": "clarity_nt_char_2381"
     },
     "2382": {
-        "呪炎の柱": ""
+        "アサシン・ニヒル": "Nihilassin"
     },
     "2383": {
         "clarity_nt_char_2383": "clarity_nt_char_2383"
     },
     "2384": {
-        "ムシカキ": "Musikaki"
+        "グリードイーター": "Greed Eater"
     },
     "2385": {
         "clarity_nt_char_2385": "clarity_nt_char_2385"
     },
     "2386": {
-        "天候変化開始": "Weather Change Go"
+        "ボンジリ": "Bonjiri"
     },
     "2387": {
         "clarity_nt_char_2387": "clarity_nt_char_2387"
     },
     "2388": {
-        "天候変化終了": "Weather Change End"
+        "移動対象": "Moving Thing"
     },
     "2389": {
         "clarity_nt_char_2389": "clarity_nt_char_2389"
     },
     "2390": {
-        "偉大な大砲": "Great Cannon"
+        "おでん": "Oden"
     },
     "2391": {
-        "ひえたお弁当": "Rice Balls"
+        "あやしい本": "Sus Book"
     },
     "2392": {
-        "clarity_nt_char_2392": "clarity_nt_char_2392"
+        "レトロな扇風機": "Retro Electric Fan"
     },
     "2393": {
-        "みたらし団子": "Mitarashi dango"
+        "天候変化終了": "Weather Change End"
     },
     "2394": {
         "clarity_nt_char_2394": "clarity_nt_char_2394"
     },
     "2395": {
-        "うきわ": "Float"
+        "魔想念ローガスト": "Demonic Thought Logast"
     },
     "2396": {
-        "スマイリー・キラー": "Smiley Killer"
+        "clarity_nt_char_2396": "clarity_nt_char_2396"
     },
     "2397": {
-        "魔想念デルメゼ": "Demon Thought Delmeze"
+        "破壊神の使徒": "Ruin God Apostle"
     },
     "2398": {
-        "アサシン・ニヒル": "Nihilassin"
+        "clarity_nt_char_2398": "clarity_nt_char_2398"
     },
     "2399": {
-        "clarity_nt_char_2399": "clarity_nt_char_2399"
+        "ムシカキ": "Musikaki"
     },
     "2400": {
-        "竜の先兵": ""
+        "clarity_nt_char_2400": "clarity_nt_char_2400"
     },
     "2401": {
-        "clarity_nt_char_2401": "clarity_nt_char_2401"
+        "ネジ": "Screw"
     },
     "2402": {
-        "あまからぼう": "Rumble Bee"
+        "clarity_nt_char_2402": "clarity_nt_char_2402"
     },
     "2403": {
-        "clarity_nt_char_2403": "clarity_nt_char_2403"
+        "エフェクト用ダミー": "Dummy Effect"
     },
     "2404": {
-        "海竜ヴォドニーグ": "Sea Dragon Vodnig"
+        "竜の先兵": "Maroarder"
     },
     "2405": {
         "clarity_nt_char_2405": "clarity_nt_char_2405"
     },
     "2406": {
-        "水邪ジェルヴァ": "Evil Water Jelba"
+        "魔結晶": "Crystevil"
     },
     "2407": {
-        "旅芸人ピュージュＧ": "Minstrel Pyuju G"
+        "旅芸人ピュージュＦ": "Minstrel Pyuju F"
     },
     "2408": {
-        "旅芸人ピュージュＨ": "Minstrel Pyuju H"
+        "旅芸人ピュージュＧ": "Minstrel Pyuju G"
     },
     "2409": {
-        "旅芸人ピュージュＩ": "Minstrel Pyuju I"
+        "旅芸人ピュージュＨ": "Minstrel Pyuju H"
     },
     "2410": {
-        "旅芸人ピュージュＪ": "Minstrel Pyuju J"
+        "旅芸人ピュージュＩ": "Minstrel Pyuju I"
     },
     "2411": {
-        "デモンズゲイトＡ": "Demon's Gate A"
+        "みのしまったタイ": "Minoshita Thailand"
     },
     "2412": {
         "clarity_nt_char_2412": "clarity_nt_char_2412"
     },
     "2413": {
-        "メッキのトロフィー": "Plated Trophy"
+        "こわれたスロット": "Broken Slot Machine"
     },
     "2414": {
-        "ホットなこたつ": "Hot Kotatsu"
+        "clarity_nt_char_2414": "clarity_nt_char_2414"
     },
     "2415": {
-        "まだあたらしい傘": "Mint Condition Umbrella"
+        "メッキのトロフィー": "Plated Trophy"
     },
     "2416": {
-        "clarity_nt_char_2416": "clarity_nt_char_2416"
+        "ホットなこたつ": "Hot Kotatsu"
     },
     "2417": {
-        "しんせんなイカ": "Squid Trophy"
+        "まだあたらしい傘": "Mint Condition Umbrella"
     },
     "2418": {
-        "いきのいいサザエ": "Very Fresh Turban Shell"
+        "clarity_nt_char_2418": "clarity_nt_char_2418"
     },
     "2419": {
-        "clarity_nt_char_2419": "clarity_nt_char_2419"
+        "にわとり": "Chicken"
     },
     "2420": {
-        "金のにわとり": "Golden Chicken"
+        "clarity_nt_char_2420": "clarity_nt_char_2420"
     },
     "2421": {
-        "clarity_nt_char_2421": "clarity_nt_char_2421"
+        "バナナの皮": "Banana Peel"
     },
     "2422": {
-        "すいしょう玉": "Crystal Ball"
+        "サバイバルボックス": "Survival Box"
     },
     "2423": {
-        "clarity_nt_char_2423": "clarity_nt_char_2423"
+        "ナット": "Nut"
     },
     "2424": {
-        "黄金のあらくれ像": "Gold Thug Statue"
+        "闇の根源の呪縛": "Dark Source Curse"
     },
     "2425": {
-        "clarity_nt_char_2425": "clarity_nt_char_2425"
+        "古代の電池": "Ancient battery"
     },
     "2426": {
-        "レトロな扇風機": "Retro Electric Fan"
+        "ウルトラ大砲": "Ultra Cannon"
     },
     "2427": {
-        "グリードイーター": "Greed Eater"
+        "clarity_nt_char_2427": "clarity_nt_char_2427"
     },
     "2428": {
-        "clarity_nt_char_2428": "clarity_nt_char_2428"
-    },
-    "2429": {
         "時増しの鬼王": "Demon Time King"
     },
+    "2429": {
+        "clarity_nt_char_2429": "clarity_nt_char_2429"
+    },
     "2430": {
-        "clarity_nt_char_2430": "clarity_nt_char_2430"
+        "時増しの甲竜": "Time Wyrtle"
     },
     "2431": {
-        "時増しの合成獣": "Time Synthetic Beast"
+        "clarity_nt_char_2431": "clarity_nt_char_2431"
     },
     "2432": {
-        "時増しの獣鬼": "Time Beast"
+        "儀礼の評定者": "Ritual Reviewer"
     },
     "2433": {
         "clarity_nt_char_2433": "clarity_nt_char_2433"
     },
     "2434": {
-        "儀礼の評定者": "Ritual Reviewer"
+        "グリゴリきょじん": "Watcher Giant"
     },
     "2435": {
         "clarity_nt_char_2435": "clarity_nt_char_2435"
     },
     "2436": {
-        "黄金のみたらし団子": "Golden Mitarashi Dumplings"
+        "ニコちゃん": "Niko-chan"
     },
     "2437": {
-        "グリゴリきょじん": "Watcher Giant"
+        "異界の守護者": "Spirit World Guard"
     },
     "2438": {
         "clarity_nt_char_2438": "clarity_nt_char_2438"
     },
     "2439": {
-        "惰眠の宝石": "Sleeping Jewel"
+        "シナイジッチ": "Shinai Zichy"
     },
     "2440": {
-        "マグマ": "Magma"
+        "clarity_nt_char_2440": "clarity_nt_char_2440"
     },
     "2441": {
-        "デバフ魔方陣": "Debuff Magic Area"
+        "黄金の魔箱": "Gold Demon Box"
     },
     "2442": {
-        "clarity_nt_char_2442": "clarity_nt_char_2442"
+        "黄金の傀儡": "Gold Puppet"
     },
     "2443": {
-        "とり捕まえる範囲カゴ": "Catching Cage"
+        "ナイトメアゾーン針": "Nightmare Zone Needle"
     },
     "2444": {
-        "clarity_nt_char_2444": "clarity_nt_char_2444"
+        "おっかけパンサー": "Chasing Panther"
     },
     "2445": {
-        "ゲノムデビル": "Genome Devil"
+        "clarity_nt_char_2445": "clarity_nt_char_2445"
     },
     "2446": {
-        "clarity_nt_char_2446": "clarity_nt_char_2446"
+        "サポートパイル": "Support Pile"
     },
     "2447": {
-        "魔弾の大岩": "Bullet Big Rock"
+        "魔想念ガルドドン": "Demonic Thought Gardodon"
     },
     "2448": {
-        "魔弾の岩塊": "Bullet Sm. Rock"
+        "clarity_nt_char_2448": "clarity_nt_char_2448"
     },
     "2449": {
-        "スライムアンノウン": "Slime Unknown"
-    },
-    "2450": {
-        "ニコちゃん": "Niko-chan"
-    },
-    "2451": {
-        "ジルドラーナの剣": "Jildrana's Sword"
-    },
-    "2452": {
-        "clarity_nt_char_2452": "clarity_nt_char_2452"
-    },
-    "2453": {
         "ラダ・ガート": "Lada Gart"
     },
-    "2454": {
-        "clarity_nt_char_2454": "clarity_nt_char_2454"
+    "2450": {
+        "clarity_nt_char_2450": "clarity_nt_char_2450"
     },
-    "2455": {
+    "2451": {
         "呼声の化身": "Call Incarnate"
     },
-    "2456": {
+    "2452": {
         "大砲・南": "South Cannon"
     },
+    "2453": {
+        "clarity_nt_char_2453": "clarity_nt_char_2453"
+    },
+    "2454": {
+        "黄の守護石": "Yellow Stone"
+    },
+    "2455": {
+        "ブルーハワイかき氷": "Blue Hawaii Shaved Ice"
+    },
+    "2456": {
+        "南国パイン": "Pineapple"
+    },
     "2457": {
-        "clarity_nt_char_2457": "clarity_nt_char_2457"
+        "あまからぼう": "Rumble Bee"
     },
     "2458": {
-        "チャンプ": "Champ"
+        "clarity_nt_char_2458": "clarity_nt_char_2458"
     },
     "2459": {
-        "clarity_nt_char_2459": "clarity_nt_char_2459"
+        "海竜ヴォドニーグ": "Sea Dragon Vodnig"
     },
     "2460": {
-        "ゴレムス": "Brickman"
+        "clarity_nt_char_2460": "clarity_nt_char_2460"
     },
     "2461": {
-        "clarity_nt_char_2461": "clarity_nt_char_2461"
+        "水邪ジェルヴァ": "Evil Water Jelba"
     },
     "2462": {
-        "絶品おつまみ": "Superb Snack"
+        "水邪カトヴァ": "Evil Water Katva"
     },
     "2463": {
         "clarity_nt_char_2463": "clarity_nt_char_2463"
     },
     "2464": {
-        "黄金のかき氷": "Golden Shaved Ice"
+        "ライムウェル": "Limewell"
     },
     "2465": {
         "clarity_nt_char_2465": "clarity_nt_char_2465"
     },
     "2466": {
-        "水邪カトヴァ": "Evil Water Katva"
+        "ユノ": "Juno"
     },
     "2467": {
         "clarity_nt_char_2467": "clarity_nt_char_2467"
     },
     "2468": {
-        "ライムウェル": "Limewell"
+        "地下へつづく階段": "Stairs to the Underworld"
     },
     "2469": {
         "clarity_nt_char_2469": "clarity_nt_char_2469"
     },
     "2470": {
-        "ユノ": "Juno"
+        "マスク・ド・ブギー": "Mask de Boogie"
     },
     "2471": {
-        "clarity_nt_char_2471": "clarity_nt_char_2471"
+        "メロンかき氷": "Melon Shaved Ice"
     },
     "2472": {
-        "エゼル": "Ezell"
+        "clarity_nt_char_2472": "clarity_nt_char_2472"
     },
     "2473": {
-        "はぐメタルーキー": "Rookie Liq. Metal Slime"
+        "時増しの獣鬼": "Time Beast"
     },
     "2474": {
         "clarity_nt_char_2474": "clarity_nt_char_2474"
     },
     "2475": {
-        "はずれメタル": "Fool's Slold"
+        "スマイリー・キラー": "Smiley Killer"
     },
     "2476": {
-        "clarity_nt_char_2476": "clarity_nt_char_2476"
-    },
-    "2477": {
-        "アサヒ": "Asahi"
-    },
-    "2478": {
-        "古代の電池": "Ancient battery"
-    },
-    "2479": {
-        "南国パイン": "Pineapple"
-    },
-    "2480": {
         "魔力薬": "Magic Med"
     },
-    "2481": {
-        "時増しの門番": "Time Gatekeeper"
+    "2477": {
+        "魔女オリビア": "Witch Olivia"
     },
-    "2482": {
-        "clarity_nt_char_2482": "clarity_nt_char_2482"
+    "2478": {
+        "clarity_nt_char_2478": "clarity_nt_char_2478"
     },
-    "2483": {
-        "時増しの悪魔": "Time Devil"
-    },
-    "2484": {
-        "clarity_nt_char_2484": "clarity_nt_char_2484"
-    },
-    "2485": {
-        "トレジャーデモン": "Treasure Demon"
-    },
-    "2486": {
-        "clarity_nt_char_2486": "clarity_nt_char_2486"
-    },
-    "2487": {
+    "2479": {
         "恵みのはぐれ者": "Straggler of Grace"
     },
+    "2480": {
+        "天候変化開始": "Weather Change Go"
+    },
+    "2481": {
+        "clarity_nt_char_2481": "clarity_nt_char_2481"
+    },
+    "2482": {
+        "魔撃の試練石": "Magic Test Stone"
+    },
+    "2483": {
+        "clarity_nt_char_2483": "clarity_nt_char_2483"
+    },
+    "2484": {
+        "防衛結界・北": "Barrier North"
+    },
+    "2485": {
+        "clarity_nt_char_2485": "clarity_nt_char_2485"
+    },
+    "2486": {
+        "おっかけドラゴ": "Chasing Drago"
+    },
+    "2487": {
+        "無念の怨霊": "Fowleye"
+    },
     "2488": {
-        "万魔の戦鬼": "Banma War Ghost"
+        "プチ暗黒の魔造兵": "Frail Dark Golem"
     },
     "2489": {
-        "願いの少年": "Wishing Boy"
+        "clarity_nt_char_2489": "clarity_nt_char_2489"
     },
     "2490": {
-        "時増しの王": "Time King"
+        "汚染源ヘドロヌーバ": ""
     },
     "2491": {
-        "時元の使徒": "Time Apostle"
+        "ホーリーキング": "Holy King"
     },
     "2492": {
-        "ナイトメアゾーン針": "Nightmare Zone Needle"
+        "ハングリーハンター": "Hungry Hunter"
     },
     "2493": {
-        "防衛結界・南": "Barrier South"
+        "暴走したコウリン": ""
     },
     "2494": {
         "clarity_nt_char_2494": "clarity_nt_char_2494"
     },
     "2495": {
-        "無念の怨霊": "Fowleye"
+        "祭壇の狩人": "Altar Hunter"
     },
     "2496": {
-        "忘却の怨霊": "Hammibal"
+        "祭壇の守人": "Altar Guardian"
     },
     "2497": {
-        "汚染源ヘドロヌーバ": ""
+        "厄魔ポヴァディウス": ""
     },
     "2498": {
-        "ホーリーキング": "Holy King"
+        "悪神ラダ・ガート": "Evil God Lada Gart"
     },
     "2499": {
-        "ハングリーハンター": "Hungry Hunter"
+        "clarity_nt_char_2499": "clarity_nt_char_2499"
     },
     "2500": {
-        "暴走したコウリン": ""
+        "あらなわ明神": ""
     },
     "2501": {
         "clarity_nt_char_2501": "clarity_nt_char_2501"
     },
     "2502": {
-        "祭壇の狩人": "Altar Hunter"
+        "黒ごまキッズ": ""
     },
     "2503": {
-        "祭壇の守人": "Altar Guardian"
+        "clarity_nt_char_2503": "clarity_nt_char_2503"
     },
     "2504": {
-        "厄魔ポヴァディウス": ""
+        "ゴルゴンゾーラ": "Gorgonzola"
     },
     "2505": {
-        "悪神ラダ・ガート": "Evil God Lada Gart"
+        "オベルジーヌ": "Ubergine"
     },
     "2506": {
         "clarity_nt_char_2506": "clarity_nt_char_2506"
     },
     "2507": {
-        "あらなわ明神": ""
-    },
-    "2508": {
-        "clarity_nt_char_2508": "clarity_nt_char_2508"
-    },
-    "2509": {
-        "黒ごまキッズ": ""
-    },
-    "2510": {
-        "clarity_nt_char_2510": "clarity_nt_char_2510"
-    },
-    "2511": {
-        "ゴルゴンゾーラ": "Gorgonzola"
-    },
-    "2512": {
-        "オベルジーヌ": "Ubergine"
-    },
-    "2513": {
-        "clarity_nt_char_2513": "clarity_nt_char_2513"
-    },
-    "2514": {
         "ドミニオンズガード": "Dominions Guard"
     },
-    "2515": {
+    "2508": {
         "じげんりゅう": "Dimensional Dragon"
+    },
+    "2509": {
+        "clarity_nt_char_2509": "clarity_nt_char_2509"
+    },
+    "2510": {
+        "芳墨の堕天将フィア": ""
+    },
+    "2511": {
+        "堕天使エルギオス": "Fallen Angel Corvus"
+    },
+    "2512": {
+        "clarity_nt_char_2512": "clarity_nt_char_2512"
+    },
+    "2513": {
+        "誘殺参謀リランザ": ""
+    },
+    "2514": {
+        "clarity_nt_char_2514": "clarity_nt_char_2514"
+    },
+    "2515": {
+        "ろうごくドーター": "Prison Daughter"
     },
     "2516": {
         "clarity_nt_char_2516": "clarity_nt_char_2516"
     },
     "2517": {
-        "芳墨の堕天将フィア": ""
+        "コアクモーン": ""
     },
     "2518": {
-        "堕天使エルギオス": "Fallen Angel Corvus"
+        "clarity_nt_char_2518": "clarity_nt_char_2518"
     },
     "2519": {
-        "clarity_nt_char_2519": "clarity_nt_char_2519"
+        "ヒットデビル": ""
     },
     "2520": {
-        "誘殺参謀リランザ": ""
+        "clarity_nt_char_2520": "clarity_nt_char_2520"
     },
     "2521": {
-        "clarity_nt_char_2521": "clarity_nt_char_2521"
+        "闇の魔鐘": "Dark Bell"
     },
     "2522": {
-        "ろうごくドーター": "Prison Daughter"
+        "clarity_nt_char_2522": "clarity_nt_char_2522"
     },
     "2523": {
-        "clarity_nt_char_2523": "clarity_nt_char_2523"
+        "闇黒の魔鐘": "Dark Magic Bell"
     },
     "2524": {
-        "コアクモーン": ""
+        "大闇黒の魔鐘": "Black Magic Bell"
     },
     "2525": {
         "clarity_nt_char_2525": "clarity_nt_char_2525"
     },
     "2526": {
-        "ヒットデビル": ""
+        "魔人の左手強": "Apex L. Demon Hand"
     },
     "2527": {
         "clarity_nt_char_2527": "clarity_nt_char_2527"
     },
     "2528": {
-        "闇の魔鐘": "Dark Bell"
+        "言声のやまびこ": "Echo of Words"
     },
     "2529": {
-        "clarity_nt_char_2529": "clarity_nt_char_2529"
+        "うきわ": "Float"
     },
     "2530": {
-        "闇黒の魔鐘": "Dark Magic Bell"
+        "エゼル": "Ezell"
     },
     "2531": {
-        "大闇黒の魔鐘": "Black Magic Bell"
+        "はぐメタルーキー": "Rookie Liq. Metal Slime"
     },
     "2532": {
         "clarity_nt_char_2532": "clarity_nt_char_2532"
     },
     "2533": {
-        "廻風陣": "Cyclone"
+        "はずれメタル": "Fool's Slold"
     },
     "2534": {
-        "神殺しの槍": "God Kill Spear"
+        "clarity_nt_char_2534": "clarity_nt_char_2534"
     },
     "2535": {
-        "ウヅキ": "Uzuki"
+        "アサヒ": "Asahi"
     },
     "2536": {
-        "ランニャー": "Rania"
+        "ウヅキ": "Uzuki"
     },
     "2537": {
-        "パイセン": "Paisen"
+        "ランニャー": "Rania"
     },
     "2538": {
-        "clarity_nt_char_2538": "clarity_nt_char_2538"
+        "パイセン": "Paisen"
     },
     "2539": {
-        "リースアクバー": "Wreath Blackmar"
+        "clarity_nt_char_2539": "clarity_nt_char_2539"
     },
     "2540": {
-        "ホーリージャミラス": "Divine Jamirus"
+        "リースアクバー": "Wreath Blackmar"
     },
     "2541": {
-        "ジングルグラコス": "Jingle Gracos"
+        "ホーリージャミラス": "Divine Jamirus"
     },
     "2542": {
-        "clarity_nt_char_2542": "clarity_nt_char_2542"
+        "ジングルグラコス": "Jingle Gracos"
     },
     "2543": {
-        "ホワイトパンプキン": "White Pumpkin"
+        "clarity_nt_char_2543": "clarity_nt_char_2543"
     },
     "2544": {
-        "ヨイ": "Yoi"
+        "ホワイトパンプキン": "White Pumpkin"
     },
     "2545": {
-        "clarity_nt_char_2545": "clarity_nt_char_2545"
+        "ヨイ": "Yoi"
     },
     "2546": {
-        "デズリン": "Dezlin"
+        "clarity_nt_char_2546": "clarity_nt_char_2546"
     },
     "2547": {
-        "clarity_nt_char_2547": "clarity_nt_char_2547"
+        "デズリン": "Dezlin"
     },
     "2548": {
-        "アーモンキッド": "Amonkid"
+        "clarity_nt_char_2548": "clarity_nt_char_2548"
     },
     "2549": {
-        "甘味兵長": "Sweetman"
+        "アーモンキッド": "Amonkid"
     },
     "2550": {
-        "clarity_nt_char_2550": "clarity_nt_char_2550"
+        "甘味兵長": "Sweetman"
     },
     "2551": {
-        "ネリム": "Nelim"
+        "clarity_nt_char_2551": "clarity_nt_char_2551"
     },
     "2552": {
-        "ディゼル": "Diezel"
+        "アンドレアル": "Rashaverak"
     },
     "2553": {
         "clarity_nt_char_2553": "clarity_nt_char_2553"
     },
     "2554": {
-        "チャポッティ": "Chapotti"
+        "ネリム": "Nelim"
     },
     "2555": {
-        "clarity_nt_char_2555": "clarity_nt_char_2555"
+        "罪業の怨霊": "Excalipurr"
     },
     "2556": {
-        "マドロック船長": ""
+        "源世鳥アルマナ": "Origin Bird Almana"
     },
     "2557": {
-        "アンドレアル": "Rashaverak"
+        "ディゼル": "Diezel"
     },
     "2558": {
         "clarity_nt_char_2558": "clarity_nt_char_2558"
     },
     "2559": {
-        "フレンジー": "Frenzy"
+        "チャポッティ": "Chapotti"
     },
     "2560": {
-        "源世鳥アルマナ": ""
+        "clarity_nt_char_2560": "clarity_nt_char_2560"
     },
     "2561": {
-        "タコロック": "Octorock"
+        "魔天翔キルファ": ""
     },
     "2562": {
-        "キング・ツリー": "King Tree"
+        "魔天翔メルファ": ""
     },
     "2563": {
-        "魔天殻レメゲノン": ""
+        "魔天翔ラルファ": ""
     },
     "2564": {
-        "clarity_nt_char_2564": "clarity_nt_char_2564"
+        "ハルバルド船長": "Halbard Ship Captain"
     },
     "2565": {
-        "魔天鳥シャクス": ""
+        "怨讐のゲーダム": ""
     },
     "2566": {
-        "魔天士ダンタール": ""
+        "海邪のしもべ": ""
     },
     "2567": {
         "clarity_nt_char_2567": "clarity_nt_char_2567"
     },
     "2568": {
-        "ハルバルド船長": "Halbard Ship Captain"
+        "マドロック船長": ""
     },
     "2569": {
-        "怨讐のゲーダム": ""
+        "フレンジー": "Frenzy"
     },
     "2570": {
-        "海邪のしもべ": ""
+        "タコロック": "Octorock"
     },
     "2571": {
-        "clarity_nt_char_2571": "clarity_nt_char_2571"
+        "キング・ツリー": "King Tree"
     },
     "2572": {
         "ドットマン": "Pixel Man"
@@ -7722,2622 +7722,2625 @@
         "clarity_nt_char_2574": "clarity_nt_char_2574"
     },
     "2575": {
-        "嵐禍の陣": "Strom Clan"
+        "ラストテンツク": "Sluggerslaught"
     },
     "2576": {
-        "clarity_nt_char_2576": "clarity_nt_char_2576"
+        "ジャンガラ": ""
     },
     "2577": {
-        "サンゴの牢獄": "Coral Prison"
+        "ホワイトジャッジ": "White Judge"
     },
     "2578": {
         "clarity_nt_char_2578": "clarity_nt_char_2578"
     },
     "2579": {
-        "ラストテンツク": "Sluggerslaught"
-    },
-    "2580": {
-        "ジャンガラ": ""
-    },
-    "2581": {
-        "ホワイトジャッジ": "White Judge"
-    },
-    "2582": {
-        "clarity_nt_char_2582": "clarity_nt_char_2582"
-    },
-    "2583": {
         "おにびドングリ": "Leafy Lampling"
     },
-    "2584": {
+    "2580": {
         "マージマタンゴ": "Mushroom Mage"
     },
-    "2585": {
+    "2581": {
         "岩のり童子": ""
     },
-    "2586": {
+    "2582": {
         "死のさそり": "Death Scorpion"
     },
-    "2587": {
+    "2583": {
         "ヘブンバルーン": "Heaven Balloon"
     },
-    "2588": {
+    "2584": {
         "原罪のやどりぎ": ""
     },
-    "2589": {
+    "2585": {
         "オルフェウス": "Orpheus"
     },
-    "2590": {
-        "clarity_nt_char_2590": "clarity_nt_char_2590"
+    "2586": {
+        "clarity_nt_char_2586": "clarity_nt_char_2586"
     },
-    "2591": {
+    "2587": {
         "ブラッドレディ": "Vampire Succubat"
     },
-    "2592": {
+    "2588": {
         "ジェイドマスク": "Jade Moai"
     },
-    "2593": {
+    "2589": {
         "サーバルスカイ": ""
     },
-    "2594": {
+    "2590": {
         "メイジももんじゃ": "Crack-Billed Platypunk"
+    },
+    "2591": {
+        "clarity_nt_char_2591": "clarity_nt_char_2591"
+    },
+    "2592": {
+        "ハーベストドラゴ": "Harvest Dragon"
+    },
+    "2593": {
+        "clarity_nt_char_2593": "clarity_nt_char_2593"
+    },
+    "2594": {
+        "グリングリン": "Gringlin"
     },
     "2595": {
         "clarity_nt_char_2595": "clarity_nt_char_2595"
     },
     "2596": {
-        "ハーベストドラゴ": "Harvest Dragon"
-    },
-    "2597": {
-        "clarity_nt_char_2597": "clarity_nt_char_2597"
-    },
-    "2598": {
-        "グリングリン": "Gringlin"
-    },
-    "2599": {
-        "clarity_nt_char_2599": "clarity_nt_char_2599"
-    },
-    "2600": {
         "疾風テング": "Gale Tengu"
     },
-    "2601": {
+    "2597": {
         "グレンデル": "Thwarthog"
     },
-    "2602": {
+    "2598": {
         "ガニメデス": ""
     },
-    "2603": {
+    "2599": {
         "むくろカサゴ": ""
     },
-    "2604": {
-        "clarity_nt_char_2604": "clarity_nt_char_2604"
+    "2600": {
+        "clarity_nt_char_2600": "clarity_nt_char_2600"
     },
-    "2605": {
+    "2601": {
         "ヘルガーディアン": "Hell's Gatekeeper"
     },
-    "2606": {
-        "clarity_nt_char_2606": "clarity_nt_char_2606"
+    "2602": {
+        "clarity_nt_char_2602": "clarity_nt_char_2602"
     },
-    "2607": {
+    "2603": {
         "蒼炎の使徒": "Apostandle"
     },
-    "2608": {
+    "2604": {
         "モスボーイ": "Mossy Ghoul"
     },
-    "2609": {
+    "2605": {
         "サンバ・デ・ビーク": "Samba de Beak"
     },
-    "2610": {
+    "2606": {
+        "よろいのきしⅢ": "Knight Errant Ⅲ"
+    },
+    "2607": {
         "あかつきの神兵": "Daybreak Soldier"
     },
+    "2608": {
+        "キースドラゴン": "Blue Dragon"
+    },
+    "2609": {
+        "魔犬レオパルド": "Evil Sir Leopold"
+    },
+    "2610": {
+        "冥王の鎌設置技": "Hades Sickle Skill"
+    },
     "2611": {
-        "金箱": "Golbox"
+        "キャタピラー・強": "Evil Killerpillar"
     },
     "2612": {
         "clarity_nt_char_2612": "clarity_nt_char_2612"
     },
     "2613": {
-        "キースドラゴン": "Blue Dragon"
-    },
-    "2614": {
-        "アビサルシャーク": "Abyssal Shark"
-    },
-    "2615": {
-        "clarity_nt_char_2615": "clarity_nt_char_2615"
-    },
-    "2616": {
-        "キャタピラー・強": "Evil Killerpillar"
-    },
-    "2617": {
-        "clarity_nt_char_2617": "clarity_nt_char_2617"
-    },
-    "2618": {
-        "ジェルソルジャー": "Gel Soldier"
-    },
-    "2619": {
-        "clarity_nt_char_2619": "clarity_nt_char_2619"
-    },
-    "2620": {
         "デスマドモアゼル": "Golden Girl"
     },
+    "2614": {
+        "clarity_nt_char_2614": "clarity_nt_char_2614"
+    },
+    "2615": {
+        "金箱": "Golbox"
+    },
+    "2616": {
+        "clarity_nt_char_2616": "clarity_nt_char_2616"
+    },
+    "2617": {
+        "やみ亡者": "Dark Shadow"
+    },
+    "2618": {
+        "clarity_nt_char_2618": "clarity_nt_char_2618"
+    },
+    "2619": {
+        "チャンプ": "Champ"
+    },
+    "2620": {
+        "clarity_nt_char_2620": "clarity_nt_char_2620"
+    },
     "2621": {
-        "clarity_nt_char_2621": "clarity_nt_char_2621"
-    },
-    "2622": {
-        "ネジ": "Screw"
-    },
-    "2623": {
-        "clarity_nt_char_2623": "clarity_nt_char_2623"
-    },
-    "2624": {
-        "願いの霊獣": "Wish Beast"
-    },
-    "2625": {
-        "ユーガ": "Stoneman"
-    },
-    "2626": {
         "ジャンボドラキー": "Jumbo Dracky"
     },
+    "2622": {
+        "clarity_nt_char_2622": "clarity_nt_char_2622"
+    },
+    "2623": {
+        "ピンキーマッシュ": "Pink Mushroom"
+    },
+    "2624": {
+        "clarity_nt_char_2624": "clarity_nt_char_2624"
+    },
+    "2625": {
+        "プラチナミミック": "Platinum Mimic"
+    },
+    "2626": {
+        "clarity_nt_char_2626": "clarity_nt_char_2626"
+    },
     "2627": {
-        "clarity_nt_char_2627": "clarity_nt_char_2627"
+        "百怨邪ジャモー": "Many Grudges Jamo"
     },
     "2628": {
-        "ピンキーマッシュ": "Pink Mushroom"
+        "ホワイトパンサー": "Silver Sabrecat"
     },
     "2629": {
         "clarity_nt_char_2629": "clarity_nt_char_2629"
     },
     "2630": {
-        "プラチナミミック": "Platinum Mimic"
+        "邪神ピュージュ": "Evil God Pyuju"
     },
     "2631": {
-        "clarity_nt_char_2631": "clarity_nt_char_2631"
+        "ギガントモンキー": "Gigant Monkey"
     },
     "2632": {
-        "百怨邪ジャモー": "Many Grudges Jamo"
+        "clarity_nt_char_2632": "clarity_nt_char_2632"
     },
     "2633": {
-        "ホワイトパンサー": "Silver Sabrecat"
+        "時増しの巨人": "Time Titan"
     },
     "2634": {
         "clarity_nt_char_2634": "clarity_nt_char_2634"
     },
     "2635": {
-        "邪神ピュージュ": "Evil God Pyuju"
+        "ゴレムス": "Brickman"
     },
     "2636": {
-        "ギガントモンキー": "Gigant Monkey"
+        "clarity_nt_char_2636": "clarity_nt_char_2636"
     },
     "2637": {
-        "clarity_nt_char_2637": "clarity_nt_char_2637"
-    },
-    "2638": {
-        "ゴルドン": "Goldman"
-    },
-    "2639": {
-        "clarity_nt_char_2639": "clarity_nt_char_2639"
-    },
-    "2640": {
         "カラミティドラゴン": "Calamity Dragon"
     },
-    "2641": {
+    "2638": {
         "スライムナイト・強": "Evil Slime Knight"
     },
-    "2642": {
+    "2639": {
         "バザックス・強": "Evil Tyrannoceratops"
     },
-    "2643": {
+    "2640": {
         "デビルアーマー・強": "Evil Harmour"
     },
-    "2644": {
+    "2641": {
         "サイレス・強": "Evil Gryphon"
     },
+    "2642": {
+        "clarity_nt_char_2642": "clarity_nt_char_2642"
+    },
+    "2643": {
+        "ダークトロル": "Terror Troll"
+    },
+    "2644": {
+        "clarity_nt_char_2644": "clarity_nt_char_2644"
+    },
     "2645": {
-        "clarity_nt_char_2645": "clarity_nt_char_2645"
+        "Ｓグレネーどり": "S Grenadory"
     },
     "2646": {
-        "ダークトロル": "Terror Troll"
+        "デスクローゼット": "Mimicloset"
     },
     "2647": {
         "clarity_nt_char_2647": "clarity_nt_char_2647"
     },
     "2648": {
-        "奈落の宝石": "Abyssal Jewel"
+        "嵐禍の陣": "Strom Clan"
     },
     "2649": {
-        "デスクローゼット": "Mimicloset"
+        "clarity_nt_char_2649": "clarity_nt_char_2649"
     },
     "2650": {
-        "clarity_nt_char_2650": "clarity_nt_char_2650"
+        "ブラックホール": "Black Hole"
     },
     "2651": {
-        "万魔の獣王": "Banma BeastKing"
+        "サンゴの牢獄": "Coral Prison"
     },
     "2652": {
-        "キングスライム・強": "Evil King Slime"
+        "clarity_nt_char_2652": "clarity_nt_char_2652"
     },
     "2653": {
-        "ようがんトーチ": "Lava Candle"
+        "ジェルソルジャー": "Gel Soldier"
     },
     "2654": {
-        "反逆者ゴッツェ": "Traitor Gotze"
+        "clarity_nt_char_2654": "clarity_nt_char_2654"
     },
     "2655": {
-        "獄炎の陣": "Hellfire Set"
+        "キングスライム・強": "Evil King Slime"
     },
     "2656": {
-        "clarity_nt_char_2656": "clarity_nt_char_2656"
+        "魔弾の大岩": "Bullet Big Rock"
     },
     "2657": {
-        "獄闇の陣": "Helldark Set"
+        "ようがんトーチ": "Lava Candle"
     },
     "2658": {
-        "clarity_nt_char_2658": "clarity_nt_char_2658"
+        "反逆者ゴッツェ": "Traitor Gotze"
     },
     "2659": {
-        "獄水の陣": "Helwater Set"
+        "アトラスネオ": "Atlas Neo"
     },
     "2660": {
         "clarity_nt_char_2660": "clarity_nt_char_2660"
     },
     "2661": {
-        "獄嵐の陣": "Helstorm Set"
-    },
-    "2662": {
-        "clarity_nt_char_2662": "clarity_nt_char_2662"
-    },
-    "2663": {
-        "アトラスネオ": "Atlas Neo"
-    },
-    "2664": {
-        "clarity_nt_char_2664": "clarity_nt_char_2664"
-    },
-    "2665": {
         "バズズエリート": "Elite Pazuzu"
     },
-    "2666": {
+    "2662": {
         "邪神ヴァニタトス": "Evil God Vanitatos"
+    },
+    "2663": {
+        "clarity_nt_char_2663": "clarity_nt_char_2663"
+    },
+    "2664": {
+        "月守りの火焔": "Moon Guard Flame"
+    },
+    "2665": {
+        "clarity_nt_char_2665": "clarity_nt_char_2665"
+    },
+    "2666": {
+        "獄炎の陣": "Hellfire Set"
     },
     "2667": {
         "clarity_nt_char_2667": "clarity_nt_char_2667"
     },
     "2668": {
-        "財宝のつまった箱": "Full Treasure Box"
+        "ぎんの女神像": "Svr Goddess Statue"
     },
     "2669": {
         "clarity_nt_char_2669": "clarity_nt_char_2669"
     },
     "2670": {
-        "月守りの牛鬼": "Moonguard Ushi"
+        "ネリもののふ": "Samurai Neri"
     },
     "2671": {
         "clarity_nt_char_2671": "clarity_nt_char_2671"
     },
     "2672": {
-        "冥闇の門番": "Dark Gatekeeper"
+        "獄闇の陣": "Helldark Set"
     },
     "2673": {
-        "サウザンルビー": "Southern Ruby"
+        "clarity_nt_char_2673": "clarity_nt_char_2673"
     },
     "2674": {
-        "ネリもののふ": "Samurai Neri"
+        "マタンゴ": "Toadstool"
     },
     "2675": {
         "clarity_nt_char_2675": "clarity_nt_char_2675"
     },
     "2676": {
-        "マタンゴ": "Toadstool"
+        "獄水の陣": "Helwater Set"
     },
     "2677": {
         "clarity_nt_char_2677": "clarity_nt_char_2677"
     },
     "2678": {
-        "やみの獣士": "Dark Moosifer"
+        "願いの霊獣": "Wish Beast"
     },
     "2679": {
-        "闇の根源の呪縛": "Dark Source Curse"
+        "獄嵐の陣": "Helstorm Set"
     },
     "2680": {
-        "冥闇の聖柱": "Dark Pillar"
+        "clarity_nt_char_2680": "clarity_nt_char_2680"
     },
     "2681": {
-        "だいまじんＡ": "Stone Guardian A"
+        "冥闇の門番": "Dark Gatekeeper"
     },
     "2682": {
-        "clarity_nt_char_2682": "clarity_nt_char_2682"
+        "月守りの牛鬼": "Moonguard Ushi"
     },
     "2683": {
-        "だいまじんＢ": "Stone Guardian B"
+        "clarity_nt_char_2683": "clarity_nt_char_2683"
     },
     "2684": {
-        "clarity_nt_char_2684": "clarity_nt_char_2684"
+        "だいまじんＡ": "Stone Guardian A"
     },
     "2685": {
-        "だいまじんＣ": "Stone Guardian C"
+        "clarity_nt_char_2685": "clarity_nt_char_2685"
     },
     "2686": {
-        "clarity_nt_char_2686": "clarity_nt_char_2686"
+        "だいまじんＢ": "Stone Guardian B"
     },
     "2687": {
-        "だいまじんＤ": "Stone Guardian D"
+        "clarity_nt_char_2687": "clarity_nt_char_2687"
     },
     "2688": {
-        "clarity_nt_char_2688": "clarity_nt_char_2688"
+        "だいまじんＣ": "Stone Guardian C"
     },
     "2689": {
-        "だいまじんＥ": "Stone Guardian E"
+        "clarity_nt_char_2689": "clarity_nt_char_2689"
     },
     "2690": {
-        "clarity_nt_char_2690": "clarity_nt_char_2690"
+        "だいまじんＤ": "Stone Guardian D"
     },
     "2691": {
-        "だいまじんＦ": "Stone Guardian F"
+        "clarity_nt_char_2691": "clarity_nt_char_2691"
     },
     "2692": {
-        "clarity_nt_char_2692": "clarity_nt_char_2692"
+        "だいまじんＥ": "Stone Guardian E"
     },
     "2693": {
-        "海賊トニー": "Pirate Tony"
+        "clarity_nt_char_2693": "clarity_nt_char_2693"
     },
     "2694": {
-        "海賊ベニー": "Pirate Benny"
+        "だいまじんＦ": "Stone Guardian F"
     },
     "2695": {
-        "魔力球": "Powerball"
+        "clarity_nt_char_2695": "clarity_nt_char_2695"
     },
     "2696": {
-        "封印の守護者・右": "Seal Guardian - Right"
+        "海賊トニー": "Pirate Tony"
     },
     "2697": {
-        "clarity_nt_char_2697": "clarity_nt_char_2697"
+        "海賊ベニー": "Pirate Benny"
     },
     "2698": {
-        "高性能爆弾": "High Power Bomb"
+        "魔力球": "Powerball"
     },
     "2699": {
-        "幻影獣": "Pheast"
+        "高性能爆弾": "High Power Bomb"
     },
     "2700": {
-        "カラポッポ": ""
+        "幻影獣": "Pheast"
     },
     "2701": {
-        "魔天賊オロバ": ""
+        "カラポッポ": ""
     },
     "2702": {
-        "clarity_nt_char_2702": "clarity_nt_char_2702"
+        "魔天暴ハーゲン": ""
     },
     "2703": {
-        "魔天鳳レアルフス": ""
+        "ハルバルド海賊団": "Halbard Pirate Crew"
     },
     "2704": {
         "clarity_nt_char_2704": "clarity_nt_char_2704"
     },
     "2705": {
-        "魔天翔キルファ": ""
+        "魔天賊ボティ": ""
     },
     "2706": {
-        "ハルバルド海賊団": "Halbard Pirate Crew"
+        "clarity_nt_char_2706": "clarity_nt_char_2706"
     },
     "2707": {
-        "clarity_nt_char_2707": "clarity_nt_char_2707"
+        "魔天賊オロバ": ""
     },
     "2708": {
-        "魔天翔メルファ": ""
+        "clarity_nt_char_2708": "clarity_nt_char_2708"
     },
     "2709": {
-        "魔天翔ラルファ": ""
+        "魔天鳳レアルフス": ""
     },
     "2710": {
-        "魔天竜ブーネイ": ""
+        "clarity_nt_char_2710": "clarity_nt_char_2710"
     },
     "2711": {
-        "魔天壁ゼッパー": ""
+        "魔天竜ブーネイ": ""
     },
     "2712": {
-        "魔天海フォルネー": ""
+        "魔天殻レメゲノン": ""
     },
     "2713": {
         "clarity_nt_char_2713": "clarity_nt_char_2713"
     },
     "2714": {
-        "魔天鬼グーラ": ""
+        "魔天鳥シャクス": ""
     },
     "2715": {
-        "clarity_nt_char_2715": "clarity_nt_char_2715"
+        "魔天士ダンタール": ""
     },
     "2716": {
-        "魔天鬼シャーラ": ""
+        "clarity_nt_char_2716": "clarity_nt_char_2716"
     },
     "2717": {
-        "狂乱の破壊神": "Mad Rend God"
+        "魔天壁ゼッパー": ""
     },
     "2718": {
-        "clarity_nt_char_2718": "clarity_nt_char_2718"
+        "魔天海フォルネー": ""
     },
     "2719": {
-        "パンプキッズ・強": "Evil Pumpkid"
+        "clarity_nt_char_2719": "clarity_nt_char_2719"
     },
     "2720": {
-        "clarity_nt_char_2720": "clarity_nt_char_2720"
+        "パンプキッズ・強": "Evil Pumpkid"
     },
     "2721": {
-        "ライオネック": "Hyperanemon"
+        "clarity_nt_char_2721": "clarity_nt_char_2721"
     },
     "2722": {
-        "clarity_nt_char_2722": "clarity_nt_char_2722"
+        "ライオネック": "Hyperanemon"
     },
     "2723": {
-        "ヨミの狩人": "Hunter Yomi"
+        "clarity_nt_char_2723": "clarity_nt_char_2723"
     },
     "2724": {
-        "封印の守護者・左": "Seal Guardian - Left"
+        "精霊の番人": "Spirit Keeper"
     },
     "2725": {
-        "clarity_nt_char_2725": "clarity_nt_char_2725"
+        "願いの少年": "Wishing Boy"
     },
     "2726": {
-        "ベリアルオリジン": "Belial Origins"
+        "封印の守護者・右": "Seal Guardian - Right"
     },
     "2727": {
         "clarity_nt_char_2727": "clarity_nt_char_2727"
     },
     "2728": {
-        "やみの甲竜": "Dark Wyrtle"
+        "偉大な大砲": "Great Cannon"
     },
     "2729": {
-        "火炎鳥": "Blazebird"
+        "黄金のあらくれ像": "Gold Thug Statue"
     },
     "2730": {
-        "ドラゴロック": "Dragorock"
+        "clarity_nt_char_2730": "clarity_nt_char_2730"
     },
     "2731": {
-        "clarity_nt_char_2731": "clarity_nt_char_2731"
+        "ベリアルオリジン": "Belial Origins"
     },
     "2732": {
-        "滅びの剣アンルシア": "Anlucia, Sword of Ruin"
+        "clarity_nt_char_2732": "clarity_nt_char_2732"
     },
     "2733": {
-        "ダークネスマリン": "Darkness Marine"
+        "やみよの鬼神": "Dark Berserker"
     },
     "2734": {
         "clarity_nt_char_2734": "clarity_nt_char_2734"
     },
     "2735": {
-        "絶望のダークネス": "Darkness of Despair"
+        "はんじゅくスライム": "Soft Boiled Slime"
     },
     "2736": {
-        "clarity_nt_char_2736": "clarity_nt_char_2736"
+        "テスト型ローガスト": "Test Model Logast"
     },
     "2737": {
-        "神殿の守護獣": "Temple Guard Beast"
+        "SPアイテム": "Skill Pt Items"
     },
     "2738": {
         "clarity_nt_char_2738": "clarity_nt_char_2738"
     },
     "2739": {
-        "闇魔の息吹": "Dark Breath"
+        "歌好きキッズ": "Song Loving Kids"
     },
     "2740": {
-        "強化の陣": "Reinforcers"
+        "clarity_nt_char_2740": "clarity_nt_char_2740"
     },
     "2741": {
-        "clarity_nt_char_2741": "clarity_nt_char_2741"
+        "滅びの剣アンルシア": "Anlucia, Sword of Ruin"
     },
     "2742": {
-        "よろいのきしⅢ": "Knight Errant Ⅲ"
+        "ダークネスマリン": "Darkness Marine"
     },
     "2743": {
-        "冥王の鎌設置技": "Hades Sickle Skill"
+        "clarity_nt_char_2743": "clarity_nt_char_2743"
     },
     "2744": {
-        "時増しの大入道": "Giga Time Monster"
+        "メランコロック": "Melanco Rock"
     },
     "2745": {
-        "羅刹王バラシュナ": "Evil Beast Barashna"
+        "絶望のダークネス": "Darkness of Despair"
     },
     "2746": {
         "clarity_nt_char_2746": "clarity_nt_char_2746"
     },
     "2747": {
-        "村人ジョルジュ": "Villager Georges"
+        "忘却の怨霊": "Hammibal"
     },
     "2748": {
-        "憎悪のダークネス": "Dark Hatred"
+        "やみの獣士": "Dark Moosifer"
     },
     "2749": {
-        "clarity_nt_char_2749": "clarity_nt_char_2749"
+        "強化の陣": "Reinforcers"
     },
     "2750": {
-        "亡霊レブロ": "Ghost Lebro"
+        "clarity_nt_char_2750": "clarity_nt_char_2750"
     },
     "2751": {
-        "イエローログ": "Yellow Log"
+        "よろいのきしⅠ": "Knight Errant Ⅰ"
     },
     "2752": {
-        "clarity_nt_char_2752": "clarity_nt_char_2752"
+        "よろいのきしⅡ": "Knight Errant Ⅱ"
     },
     "2753": {
-        "パープルログ": "Purple Log"
+        "万魔の獣王": "Banma BeastKing"
     },
     "2754": {
-        "clarity_nt_char_2754": "clarity_nt_char_2754"
+        "アビサルシャーク": "Abyssal Shark"
     },
     "2755": {
-        "栄光の玉座": "Throne of Glory"
+        "clarity_nt_char_2755": "clarity_nt_char_2755"
     },
     "2756": {
-        "マデサゴーラ": "Madesagora"
+        "羅刹王バラシュナ": "Evil Beast Barashna"
     },
     "2757": {
         "clarity_nt_char_2757": "clarity_nt_char_2757"
     },
     "2758": {
-        "レッドログ": "Red Log"
+        "惰眠の宝石": "Sleeping Jewel"
     },
     "2759": {
-        "ドラゴンライダー": "Dragon Rider"
+        "メレアーデ": "Mereade"
     },
     "2760": {
-        "clarity_nt_char_2760": "clarity_nt_char_2760"
+        "憎悪のダークネス": "Dark Hatred"
     },
     "2761": {
-        "土の祠の守護者": "Earth Shrine Guardian"
+        "clarity_nt_char_2761": "clarity_nt_char_2761"
     },
     "2762": {
-        "カルバドン": ""
+        "亡霊レブロ": "Ghost Lebro"
     },
     "2763": {
-        "ウォータスライダーク": "Waterslidark"
+        "エラフィダイノス": "Zere Dragon"
     },
     "2764": {
         "clarity_nt_char_2764": "clarity_nt_char_2764"
     },
     "2765": {
-        "タロット": "Tarot"
+        "ルディアンリッター": ""
     },
     "2766": {
-        "clarity_nt_char_2766": "clarity_nt_char_2766"
+        "サウザンルビー": "Southern Ruby"
     },
     "2767": {
-        "リリアーチ": "Arch Bodkin"
+        "マデサゴーラ": "Madesagora"
     },
     "2768": {
-        "破壊神シドー": "Malroth"
+        "clarity_nt_char_2768": "clarity_nt_char_2768"
     },
     "2769": {
-        "clarity_nt_char_2769": "clarity_nt_char_2769"
+        "キサゴール": "Exagol"
     },
     "2770": {
-        "巨大魔瘴魂": "Soul Sphere"
+        "ドラゴンライダー": "Dragon Rider"
     },
     "2771": {
-        "水の祠の守護者": "Water Shrine Guardian"
+        "clarity_nt_char_2771": "clarity_nt_char_2771"
     },
     "2772": {
-        "凶拳暴鬼ダルカス": "Darkfist"
+        "土の祠の守護者": "Earth Shrine Guardian"
     },
     "2773": {
-        "clarity_nt_char_2773": "clarity_nt_char_2773"
+        "ドーナツ中": "Donut Middle"
     },
     "2774": {
-        "邪毒のウィーヌム": "Wienum"
+        "ドーナツ遠": "Donut Far"
     },
     "2775": {
-        "clarity_nt_char_2775": "clarity_nt_char_2775"
+        "氷の従者": "Ice Servant"
     },
     "2776": {
-        "町娘エマ": "TownGal Emma"
+        "clarity_nt_char_2776": "clarity_nt_char_2776"
     },
     "2777": {
-        "clarity_nt_char_2777": "clarity_nt_char_2777"
+        "ウォータスライダーク": "Waterslidark"
     },
     "2778": {
-        "時増しの魔鳥": "Demon Time Bird"
+        "clarity_nt_char_2778": "clarity_nt_char_2778"
     },
     "2779": {
-        "clarity_nt_char_2779": "clarity_nt_char_2779"
+        "タロット": "Tarot"
     },
     "2780": {
-        "復活薬": "ReviveMed"
+        "clarity_nt_char_2780": "clarity_nt_char_2780"
     },
     "2781": {
-        "虚空の残影": "Void Remnants"
+        "リリアーチ": "Arch Bodkin"
     },
     "2782": {
-        "魔弾の岩": "Bullet Rock"
+        "破壊神シドー": "Malroth"
     },
     "2783": {
         "clarity_nt_char_2783": "clarity_nt_char_2783"
     },
     "2784": {
-        "じげんばくだん岩": "Timebomb Rock"
+        "巨大魔瘴魂": "Soul Sphere"
     },
     "2785": {
-        "clarity_nt_char_2785": "clarity_nt_char_2785"
+        "水の祠の守護者": "Water Shrine Guardian"
     },
     "2786": {
-        "メカジラフ": "Mecha Giraffe"
+        "魔天鬼シャーラ": ""
     },
     "2787": {
-        "暗黒の魔人強": "Apex Ruin"
+        "凶拳暴鬼ダルカス": "Darkfist"
     },
     "2788": {
         "clarity_nt_char_2788": "clarity_nt_char_2788"
     },
     "2789": {
-        "海賊キッド": "Pirate Kid"
+        "邪毒のウィーヌム": "Wienum"
     },
     "2790": {
-        "魔眼": "Eyasor"
+        "clarity_nt_char_2790": "clarity_nt_char_2790"
     },
     "2791": {
-        "clarity_nt_char_2791": "clarity_nt_char_2791"
+        "回復薬": "Rest. Med"
     },
     "2792": {
-        "かげわらし": "Slickspittle"
+        "時増しの大入道": "Giga Time Monster"
     },
     "2793": {
-        "万魔の巨竜": "Banma Gigagon"
+        "メカジラフ": "Mecha Giraffe"
     },
     "2794": {
-        "邪神ヤファギル戒": "Yaphagil II"
+        "暗黒の魔人強": "Apex Ruin"
     },
     "2795": {
         "clarity_nt_char_2795": "clarity_nt_char_2795"
     },
     "2796": {
-        "邪神ヤファギル断": "Yaphagil"
+        "村人ジョルジュ": "Villager Georges"
     },
     "2797": {
-        "clarity_nt_char_2797": "clarity_nt_char_2797"
+        "魔眼": "Eyasor"
     },
     "2798": {
-        "邪神ヤファギル封": "Sealed Yaphagil"
+        "clarity_nt_char_2798": "clarity_nt_char_2798"
     },
     "2799": {
-        "clarity_nt_char_2799": "clarity_nt_char_2799"
+        "冥闇の聖柱": "Dark Pillar"
     },
     "2800": {
-        "大魔王ユシュカ": "Gr. Demon King Yushka"
+        "万魔の機竜": "Banma Mechagon"
     },
     "2801": {
-        "絶望の魔剣士": "Despair Swordsman"
+        "奏演王ベイオウルフ": "Performance King Beowulf"
     },
     "2802": {
-        "clarity_nt_char_2802": "clarity_nt_char_2802"
+        "邪神ヤファギル戒": "Yaphagil II"
     },
     "2803": {
-        "ザハルピオン": "Zaharpion"
+        "clarity_nt_char_2803": "clarity_nt_char_2803"
     },
     "2804": {
-        "clarity_nt_char_2804": "clarity_nt_char_2804"
+        "邪神ヤファギル断": "Yaphagil"
     },
     "2805": {
-        "彩虹の死剣将グロズ": "Rainbow General Glozz"
+        "clarity_nt_char_2805": "clarity_nt_char_2805"
     },
     "2806": {
-        "花の祠の守護者": "Petal Shrine Guardian"
+        "邪神ヤファギル封": "Sealed Yaphagil"
     },
     "2807": {
-        "風の祠の守護者": "Wind Shrine Guardian"
+        "clarity_nt_char_2807": "clarity_nt_char_2807"
     },
     "2808": {
-        "呪闇の魔柱": "Demonic Pillar"
+        "大魔王ユシュカ": "Gr. Demon King Yushka"
     },
     "2809": {
-        "SPアイテム": "Skill Pt Items"
+        "絶望の魔剣士": "Despair Swordsman"
     },
     "2810": {
         "clarity_nt_char_2810": "clarity_nt_char_2810"
     },
     "2811": {
-        "魔道の亡霊": "Sorcery Spectre"
+        "ザハルピオン": "Zaharpion"
     },
     "2812": {
-        "プログラム用ダミー": "Program Dummy"
+        "clarity_nt_char_2812": "clarity_nt_char_2812"
     },
     "2813": {
-        "がいこつⅡ": "Skeleton Ⅱ"
+        "彩虹の死剣将グロズ": "Rainbow General Glozz"
     },
     "2814": {
-        "がいこつⅢ": "Skeleton Ⅲ"
+        "花の祠の守護者": "Petal Shrine Guardian"
     },
     "2815": {
-        "がいこつ・凶": "Skeleton X"
+        "風の祠の守護者": "Wind Shrine Guardian"
     },
     "2816": {
-        "clarity_nt_char_2816": "clarity_nt_char_2816"
+        "防衛結界・南": "Barrier South"
     },
     "2817": {
-        "ゴーストⅢ": "Ghost Ⅲ"
+        "clarity_nt_char_2817": "clarity_nt_char_2817"
     },
     "2818": {
-        "ゴースト・凶": "Evil Ghost"
+        "魔弾の岩": "Bullet Rock"
     },
     "2819": {
         "clarity_nt_char_2819": "clarity_nt_char_2819"
     },
     "2820": {
-        "よろいのきしⅡ": "Knight Errant Ⅱ"
+        "魔瘴沼": "Gassy Bog"
     },
     "2821": {
-        "よろいのきし・凶": "Knight Destructant"
+        "邪蒼鎧デルメゼ": "Blue Armor Delmeze"
     },
     "2822": {
-        "clarity_nt_char_2822": "clarity_nt_char_2822"
+        "？？？？？？": "??????"
     },
     "2823": {
-        "魔元帥の剣": "Marshal's Sword"
+        "clarity_nt_char_2823": "clarity_nt_char_2823"
     },
     "2824": {
-        "サバイバルボックス": "Survival Box"
+        "プログラム用ダミー": "Program Dummy"
     },
     "2825": {
-        "時増しの炎馬": "Time Flame Horse"
+        "がいこつⅡ": "Skeleton Ⅱ"
     },
     "2826": {
-        "clarity_nt_char_2826": "clarity_nt_char_2826"
+        "がいこつⅢ": "Skeleton Ⅲ"
     },
     "2827": {
-        "回復の柱": "Heal Pillar"
+        "がいこつ・凶": "Skeleton X"
     },
     "2828": {
         "clarity_nt_char_2828": "clarity_nt_char_2828"
     },
     "2829": {
-        "サンダーボルト": "Thunderbolt"
+        "ゴーストⅢ": "Ghost Ⅲ"
     },
     "2830": {
-        "テンションの柱": "Tension Pillar"
+        "ゴースト・凶": "Evil Ghost"
     },
     "2831": {
-        "星の陣": "Stars"
+        "clarity_nt_char_2831": "clarity_nt_char_2831"
     },
     "2832": {
-        "愚者の陣": "Fools"
+        "よろいのきし・凶": "Knight Destructant"
     },
     "2833": {
         "clarity_nt_char_2833": "clarity_nt_char_2833"
     },
     "2834": {
-        "ネロドスシャドウ": "Nerodos' Shadow"
+        "魔元帥の剣": "Marshal's Sword"
     },
     "2835": {
-        "clarity_nt_char_2835": "clarity_nt_char_2835"
+        "歯車": "Cog"
     },
     "2836": {
-        "守護の結晶": "Guardian Stone"
+        "clarity_nt_char_2836": "clarity_nt_char_2836"
     },
     "2837": {
-        "岩石落とし": "Rock Drop"
+        "万魔の戦鬼": "Banma War Ghost"
     },
     "2838": {
-        "マスク・ド・ブギー": "Mask de Boogie"
+        "回復の柱": "Heal Pillar"
     },
     "2839": {
-        "黄の守護石": "Yellow Stone"
+        "clarity_nt_char_2839": "clarity_nt_char_2839"
     },
     "2840": {
-        "シャドウⅡ": "Shadow Ⅱ"
+        "サンダーボルト": "Thunderbolt"
     },
     "2841": {
-        "プレゼントボックス": "Present Box"
+        "テンションの柱": "Tension Pillar"
     },
     "2842": {
-        "ダーククリスタル": "Dark Crystal"
+        "星の陣": "Stars"
     },
     "2843": {
-        "clarity_nt_char_2843": "clarity_nt_char_2843"
+        "愚者の陣": "Fools"
     },
     "2844": {
-        "防衛結界": "Barrier"
+        "clarity_nt_char_2844": "clarity_nt_char_2844"
     },
     "2845": {
-        "clarity_nt_char_2845": "clarity_nt_char_2845"
+        "ネロドスシャドウ": "Nerodos' Shadow"
     },
     "2846": {
-        "強化砲弾": "Super Shell"
+        "clarity_nt_char_2846": "clarity_nt_char_2846"
     },
     "2847": {
-        "clarity_nt_char_2847": "clarity_nt_char_2847"
+        "守護の結晶": "Guardian Stone"
     },
     "2848": {
-        "大砲・北": "North Cannon"
+        "岩石落とし": "Rock Drop"
     },
     "2849": {
-        "clarity_nt_char_2849": "clarity_nt_char_2849"
+        "マグマ": "Magma"
     },
     "2850": {
-        "攻城隊長ガンザン": "Siege Captain Ganzan"
+        "シャドウⅡ": "Shadow Ⅱ"
     },
     "2851": {
-        "clarity_nt_char_2851": "clarity_nt_char_2851"
+        "決戦用砲台Ａ": "Battle Cannon A"
     },
     "2852": {
-        "しびれ砲弾": "Numbing Shells"
+        "clarity_nt_char_2852": "clarity_nt_char_2852"
     },
     "2853": {
-        "オトリ召喚の札": "Bait Summon Tag"
+        "ドラゴロック": "Dragorock"
     },
     "2854": {
-        "ダークガイル": "Dark Guile"
+        "clarity_nt_char_2854": "clarity_nt_char_2854"
     },
     "2855": {
-        "clarity_nt_char_2855": "clarity_nt_char_2855"
+        "ゲノムデビル": "Genome Devil"
     },
     "2856": {
-        "護衛隊長グアルダ": "Escort Captain Guarda"
+        "clarity_nt_char_2856": "clarity_nt_char_2856"
     },
     "2857": {
-        "clarity_nt_char_2857": "clarity_nt_char_2857"
+        "プレゼントボックス": "Present Box"
     },
     "2858": {
-        "特攻隊長メガース": "Kamikaze Captain Megas"
+        "ガテリアの亡者": "Gateria's Ghost"
     },
     "2859": {
-        "clarity_nt_char_2859": "clarity_nt_char_2859"
+        "ダーククリスタル": "Dark Crystal"
     },
     "2860": {
-        "バイオキラー": "Biokiller"
+        "clarity_nt_char_2860": "clarity_nt_char_2860"
     },
     "2861": {
-        "clarity_nt_char_2861": "clarity_nt_char_2861"
+        "防衛結界": "Barrier"
     },
     "2862": {
-        "からくりランサー": "Bamboolancer"
+        "clarity_nt_char_2862": "clarity_nt_char_2862"
     },
     "2863": {
-        "clarity_nt_char_2863": "clarity_nt_char_2863"
+        "強化砲弾": "Super Shell"
     },
     "2864": {
-        "ピノカノン": "Pinocanon"
+        "clarity_nt_char_2864": "clarity_nt_char_2864"
     },
     "2865": {
-        "強襲隊長シシオウ": "Assault Captain Shishiou"
+        "大砲・北": "North Cannon"
     },
     "2866": {
         "clarity_nt_char_2866": "clarity_nt_char_2866"
     },
     "2867": {
-        "邪蒼鎧デルメゼ": "Blue Armor Delmeze"
+        "攻城隊長ガンザン": "Siege Captain Ganzan"
     },
     "2868": {
-        "グリンパーム": "Green Palm"
+        "clarity_nt_char_2868": "clarity_nt_char_2868"
     },
     "2869": {
-        "clarity_nt_char_2869": "clarity_nt_char_2869"
+        "しびれ砲弾": "Numbing Shells"
     },
     "2870": {
-        "きりこみプレート": "Aquatic Armour"
+        "オトリ召喚の札": "Bait Summon Tag"
     },
     "2871": {
-        "clarity_nt_char_2871": "clarity_nt_char_2871"
+        "ダークガイル": "Dark Guile"
     },
     "2872": {
-        "回復ドリンク": "Recovery Drink"
+        "clarity_nt_char_2872": "clarity_nt_char_2872"
     },
     "2873": {
-        "clarity_nt_char_2873": "clarity_nt_char_2873"
+        "護衛隊長グアルダ": "Escort Captain Guarda"
     },
     "2874": {
-        "復活ドリンク": "Resurrection Drink"
+        "clarity_nt_char_2874": "clarity_nt_char_2874"
     },
     "2875": {
-        "clarity_nt_char_2875": "clarity_nt_char_2875"
+        "特攻隊長メガース": "Kamikaze Captain Megas"
     },
     "2876": {
-        "猛攻の書": "Oomph Book"
+        "clarity_nt_char_2876": "clarity_nt_char_2876"
     },
     "2877": {
-        "clarity_nt_char_2877": "clarity_nt_char_2877"
+        "バイオキラー": "Biokiller"
     },
     "2878": {
-        "神速の書": "Accel Book"
+        "clarity_nt_char_2878": "clarity_nt_char_2878"
     },
     "2879": {
-        "clarity_nt_char_2879": "clarity_nt_char_2879"
+        "からくりランサー": "Bamboolancer"
     },
     "2880": {
-        "剛健の書": "Buff Book"
+        "clarity_nt_char_2880": "clarity_nt_char_2880"
     },
     "2881": {
-        "clarity_nt_char_2881": "clarity_nt_char_2881"
+        "ピノカノン": "Pinocanon"
     },
     "2882": {
-        "加重の書": "Thunk Book"
+        "強襲隊長シシオウ": "Assault Captain Shishiou"
     },
     "2883": {
         "clarity_nt_char_2883": "clarity_nt_char_2883"
     },
     "2884": {
-        "リトライストーン": "Retry Stone"
+        "闇の親衛隊Ｃ": "Dark Bodyguard C"
     },
     "2885": {
         "clarity_nt_char_2885": "clarity_nt_char_2885"
     },
     "2886": {
-        "キノコ爆弾": "Mushroom Bomb"
+        "グリンパーム": "Green Palm"
     },
     "2887": {
-        "テルドミール": ""
+        "clarity_nt_char_2887": "clarity_nt_char_2887"
     },
     "2888": {
-        "clarity_nt_char_2888": "clarity_nt_char_2888"
+        "きりこみプレート": "Aquatic Armour"
     },
     "2889": {
-        "手下の海賊Ｂ": "Pirate Crewman B"
+        "clarity_nt_char_2889": "clarity_nt_char_2889"
     },
     "2890": {
-        "clarity_nt_char_2890": "clarity_nt_char_2890"
+        "回復ドリンク": "Recovery Drink"
     },
     "2891": {
-        "封印の伝道者": "Seal Preacher"
+        "clarity_nt_char_2891": "clarity_nt_char_2891"
     },
     "2892": {
-        "clarity_nt_char_2892": "clarity_nt_char_2892"
+        "復活ドリンク": "Resurrection Drink"
     },
     "2893": {
-        "ムドー": "Murdaw"
+        "clarity_nt_char_2893": "clarity_nt_char_2893"
     },
     "2894": {
-        "手下の海賊Ａ": "Pirate Crewman A"
+        "猛攻の書": "Oomph Book"
     },
     "2895": {
         "clarity_nt_char_2895": "clarity_nt_char_2895"
     },
     "2896": {
-        "封印の先兵": "Sealed Vanguard"
+        "神速の書": "Accel Book"
     },
     "2897": {
-        "不死王の陣": "Immortal Army"
+        "clarity_nt_char_2897": "clarity_nt_char_2897"
     },
     "2898": {
-        "突撃隊長デスタン": "Charge Captain Destan"
+        "剛健の書": "Buff Book"
     },
     "2899": {
         "clarity_nt_char_2899": "clarity_nt_char_2899"
     },
     "2900": {
-        "けさぎりクローク": "Spirit Swordsman"
+        "加重の書": "Thunk Book"
     },
     "2901": {
         "clarity_nt_char_2901": "clarity_nt_char_2901"
     },
     "2902": {
-        "スカルキー": "Skull Key"
+        "リトライストーン": "Retry Stone"
     },
     "2903": {
-        "手下の海賊Ｃ": "Pirate Crewman C"
+        "clarity_nt_char_2903": "clarity_nt_char_2903"
     },
     "2904": {
-        "clarity_nt_char_2904": "clarity_nt_char_2904"
+        "キノコ爆弾": "Mushroom Bomb"
     },
     "2905": {
-        "大砲・結界前": "B4 Cannon/Barrier"
+        "召雷陣": "Bolt Call"
     },
     "2906": {
-        "clarity_nt_char_2906": "clarity_nt_char_2906"
+        "ひえたお弁当": "Rice Balls"
     },
     "2907": {
-        "大砲・中央広場": "Cannon/Central Square"
+        "clarity_nt_char_2907": "clarity_nt_char_2907"
     },
     "2908": {
-        "大砲・南口": "Cannon/S. Exit"
+        "みたらし団子": "Mitarashi dango"
     },
     "2909": {
-        "デッドボーン": "Dead Bone"
+        "clarity_nt_char_2909": "clarity_nt_char_2909"
     },
     "2910": {
-        "clarity_nt_char_2910": "clarity_nt_char_2910"
+        "ムドー": "Murdaw"
     },
     "2911": {
-        "パルプンテ": "Hocus Pocus"
+        "不死王の陣": "Immortal Army"
     },
     "2912": {
-        "ビネガロンガ": "Vinegaronga"
+        "闇魔の息吹": "Dark Breath"
     },
     "2913": {
-        "clarity_nt_char_2913": "clarity_nt_char_2913"
+        "突撃隊長デスタン": "Charge Captain Destan"
     },
     "2914": {
-        "侵攻隊長シザルグ": "Invasion Captain Sizarg"
+        "clarity_nt_char_2914": "clarity_nt_char_2914"
     },
     "2915": {
-        "clarity_nt_char_2915": "clarity_nt_char_2915"
+        "けさぎりクローク": "Spirit Swordsman"
     },
     "2916": {
-        "ほうだんアント": "Dull Deetle"
+        "clarity_nt_char_2916": "clarity_nt_char_2916"
     },
     "2917": {
-        "ヤケばち": "Translustick"
+        "スカルキー": "Skull Key"
     },
     "2918": {
-        "clarity_nt_char_2918": "clarity_nt_char_2918"
+        "大砲・結界前": "B4 Cannon/Barrier"
     },
     "2919": {
-        "ツック法師": "Tugger"
+        "clarity_nt_char_2919": "clarity_nt_char_2919"
     },
     "2920": {
-        "大砲・中央": "Central Cannon"
+        "大砲・中央広場": "Cannon/Central Square"
     },
     "2921": {
-        "ばけガニ": "Rabid Crabid"
+        "大砲・南口": "Cannon/S. Exit"
     },
     "2922": {
-        "clarity_nt_char_2922": "clarity_nt_char_2922"
+        "デッドボーン": "Dead Bone"
     },
     "2923": {
-        "アクアメーバ": "Aqua Amoeba"
+        "clarity_nt_char_2923": "clarity_nt_char_2923"
     },
     "2924": {
-        "clarity_nt_char_2924": "clarity_nt_char_2924"
+        "パルプンテ": "Hocus Pocus"
     },
     "2925": {
-        "とっしんアマモ": "Anguillalalala"
+        "ビネガロンガ": "Vinegaronga"
     },
     "2926": {
-        "掃討隊長バナゴル": "Mopping Captain Bangol"
+        "clarity_nt_char_2926": "clarity_nt_char_2926"
     },
     "2927": {
-        "clarity_nt_char_2927": "clarity_nt_char_2927"
+        "侵攻隊長シザルグ": "Invasion Captain Sizarg"
     },
     "2928": {
-        "ふこうもり": ""
+        "clarity_nt_char_2928": "clarity_nt_char_2928"
     },
     "2929": {
-        "月守りの虚像": "Moon Guard Statue"
+        "ほうだんアント": "Dull Deetle"
     },
     "2930": {
-        "clarity_nt_char_2930": "clarity_nt_char_2930"
+        "ヤケばち": "Translustick"
     },
     "2931": {
-        "神殿の巡回兵": "Temple Patrol"
+        "clarity_nt_char_2931": "clarity_nt_char_2931"
     },
     "2932": {
-        "clarity_nt_char_2932": "clarity_nt_char_2932"
+        "ツック法師": "Tugger"
     },
     "2933": {
-        "こけむしルドン": "Derelect Dragoon"
+        "大砲・中央": "Central Cannon"
     },
     "2934": {
-        "キルリザード": "Mandrake Marine"
+        "ばけガニ": "Rabid Crabid"
     },
     "2935": {
         "clarity_nt_char_2935": "clarity_nt_char_2935"
     },
     "2936": {
-        "魔幻の剣士": "Magic Swordsman"
+        "アクアメーバ": "Aqua Amoeba"
     },
     "2937": {
-        "神獣馬": "God Horse"
+        "clarity_nt_char_2937": "clarity_nt_char_2937"
     },
     "2938": {
-        "シグナリズム": "Slyfel Tower"
+        "とっしんアマモ": "Anguillalalala"
     },
     "2939": {
-        "clarity_nt_char_2939": "clarity_nt_char_2939"
+        "掃討隊長バナゴル": "Mopping Captain Bangol"
     },
     "2940": {
-        "ぷちドス": "Stickybreath"
+        "clarity_nt_char_2940": "clarity_nt_char_2940"
     },
     "2941": {
-        "clarity_nt_char_2941": "clarity_nt_char_2941"
+        "絶品おつまみ": "Superb Snack"
     },
     "2942": {
-        "のっかりゼラチン": "Boingin' Knight"
+        "clarity_nt_char_2942": "clarity_nt_char_2942"
     },
     "2943": {
-        "clarity_nt_char_2943": "clarity_nt_char_2943"
+        "かげわらし": "Slickspittle"
     },
     "2944": {
-        "撃滅隊長ジェリゴ": "Destruct Captain Jerigo"
+        "こけむしルドン": "Derelect Dragoon"
     },
     "2945": {
-        "clarity_nt_char_2945": "clarity_nt_char_2945"
+        "キルリザード": "Mandrake Marine"
     },
     "2946": {
-        "スーラ": "Slime"
+        "clarity_nt_char_2946": "clarity_nt_char_2946"
     },
     "2947": {
-        "ミラクルスライム": "Miracle Slime"
+        "シグナリズム": "Slyfel Tower"
     },
     "2948": {
         "clarity_nt_char_2948": "clarity_nt_char_2948"
     },
     "2949": {
-        "ビームレイン": "Beam Rain"
+        "ぷちドス": "Stickybreath"
     },
     "2950": {
         "clarity_nt_char_2950": "clarity_nt_char_2950"
     },
     "2951": {
-        "ダークネスボム": "Darkness Bomb"
+        "のっかりゼラチン": "Boingin' Knight"
     },
     "2952": {
-        "地脈湧点": "2x Ride Dmg"
+        "clarity_nt_char_2952": "clarity_nt_char_2952"
     },
     "2953": {
-        "clarity_nt_char_2953": "clarity_nt_char_2953"
+        "撃滅隊長ジェリゴ": "Destruct Captain Jerigo"
     },
     "2954": {
-        "ドクトリン": "Doctrine"
+        "clarity_nt_char_2954": "clarity_nt_char_2954"
     },
     "2955": {
-        "スノーフォール": "Snowfall"
+        "スーラ": "Slime"
     },
     "2956": {
-        "早詠みの陣": "Quick Cast Ring"
+        "ミラクルスライム": "Miracle Slime"
     },
     "2957": {
-        "ネバネバ爆弾": "Sticky bomb"
+        "clarity_nt_char_2957": "clarity_nt_char_2957"
     },
     "2958": {
-        "clarity_nt_char_2958": "clarity_nt_char_2958"
+        "手下の海賊Ａ": "Pirate Crewman A"
     },
     "2959": {
-        "魔蝕陣": "Eclipse"
+        "clarity_nt_char_2959": "clarity_nt_char_2959"
     },
     "2960": {
-        "宝石魔術・月光": "Moonlight Jewel Magic"
+        "時増しの門番": "Time Gatekeeper"
     },
     "2961": {
-        "魔創兵長": "Troop Gen."
+        "clarity_nt_char_2961": "clarity_nt_char_2961"
     },
     "2962": {
-        "clarity_nt_char_2962": "clarity_nt_char_2962"
+        "ビームレイン": "Beam Rain"
     },
     "2963": {
-        "魔創兵Ｂ": "Evil Troop B"
+        "clarity_nt_char_2963": "clarity_nt_char_2963"
     },
     "2964": {
-        "clarity_nt_char_2964": "clarity_nt_char_2964"
+        "ダークネスボム": "Darkness Bomb"
     },
     "2965": {
-        "Ｇレプリカ": "G Replica"
+        "地脈湧点": "2x Ride Dmg"
     },
     "2966": {
-        "邪神ダビヤガ": "Evil God Dabiyaga"
+        "clarity_nt_char_2966": "clarity_nt_char_2966"
     },
     "2967": {
-        "clarity_nt_char_2967": "clarity_nt_char_2967"
+        "ドクトリン": "Doctrine"
     },
     "2968": {
-        "死の道化師": "Death Clown"
+        "スノーフォール": "Snowfall"
     },
     "2969": {
-        "漆黒の匪賊ギャレス": "Black Bandit, Gareth"
+        "早詠みの陣": "Quick Cast Ring"
     },
     "2970": {
-        "魔伯爵シディア": "Demon Count Cydia"
+        "ネバネバ爆弾": "Sticky bomb"
     },
     "2971": {
-        "おでん": "Oden"
+        "clarity_nt_char_2971": "clarity_nt_char_2971"
     },
     "2972": {
-        "大きなスイカ": "Giga Watermelon"
+        "魔蝕陣": "Eclipse"
     },
     "2973": {
-        "clarity_nt_char_2973": "clarity_nt_char_2973"
+        "宝石魔術・月光": "Moonlight Jewel Magic"
     },
     "2974": {
-        "闇の親衛隊Ａ": "Dark Bodyguard A"
+        "魔創兵Ａ": "Evil Troop A"
     },
     "2975": {
         "clarity_nt_char_2975": "clarity_nt_char_2975"
     },
     "2976": {
-        "魔幻の騎士": "Shining Knight"
+        "魔創兵長": "Troop Gen."
     },
     "2977": {
-        "スフィンクス": "Sphinx"
+        "clarity_nt_char_2977": "clarity_nt_char_2977"
     },
     "2978": {
-        "clarity_nt_char_2978": "clarity_nt_char_2978"
+        "邪神ダビヤガ": "Evil God Dabiyaga"
     },
     "2979": {
-        "時増しの女王": "Time Queen"
+        "clarity_nt_char_2979": "clarity_nt_char_2979"
     },
     "2980": {
-        "clarity_nt_char_2980": "clarity_nt_char_2980"
+        "時増しの悪魔": "Time Devil"
     },
     "2981": {
-        "罪業の怨霊": "Excalipurr"
+        "clarity_nt_char_2981": "clarity_nt_char_2981"
     },
     "2982": {
-        "闇の親衛隊Ｃ": "Dark Bodyguard C"
+        "時増しの魔鳥": "Demon Time Bird"
     },
     "2983": {
         "clarity_nt_char_2983": "clarity_nt_char_2983"
     },
     "2984": {
-        "闇の親衛隊Ｂ": "Dark Bodyguard B"
+        "復活薬": "ReviveMed"
     },
     "2985": {
-        "clarity_nt_char_2985": "clarity_nt_char_2985"
+        "万魔の巨竜": "Banma Gigagon"
     },
     "2986": {
-        "こわれたスロット": "Broken Slot Machine"
+        "時増しの炎馬": "Time Flame Horse"
     },
     "2987": {
         "clarity_nt_char_2987": "clarity_nt_char_2987"
     },
     "2988": {
-        "ふるぼけたタライ": "Underpants Dance"
+        "猛る槌矛のガイオウ": "Gaiou, Hammer and Pike"
     },
     "2989": {
-        "clarity_nt_char_2989": "clarity_nt_char_2989"
+        "いきのいいサザエ": "Very Fresh Turban Shell"
     },
     "2990": {
-        "ファーラット・強": "Evil Feralball"
+        "clarity_nt_char_2990": "clarity_nt_char_2990"
     },
     "2991": {
-        "clarity_nt_char_2991": "clarity_nt_char_2991"
+        "金のにわとり": "Golden Chicken"
     },
     "2992": {
-        "青の守護石": "Blue Stone"
+        "clarity_nt_char_2992": "clarity_nt_char_2992"
     },
     "2993": {
-        "さんぞくウルフ・強": "Apex Ruff Ruffian"
+        "死の道化師": "Death Clown"
     },
     "2994": {
-        "どくろあらい・強": "Evil Haardvark"
+        "ある当主の仮面": "Master Mask"
     },
     "2995": {
-        "clarity_nt_char_2995": "clarity_nt_char_2995"
+        "時増しの王": "Time King"
     },
     "2996": {
-        "大砲の弾": "Cannonball"
+        "闇の親衛隊Ａ": "Dark Bodyguard A"
     },
     "2997": {
         "clarity_nt_char_2997": "clarity_nt_char_2997"
     },
     "2998": {
-        "スピードアップ床": "Speed Up Floor"
+        "どこかのバスタブ": "Bathtub"
     },
     "2999": {
         "clarity_nt_char_2999": "clarity_nt_char_2999"
     },
     "3000": {
-        "歯車ゾーン": "Cog Zone"
+        "しんせんなイカ": "Squid Trophy"
     },
     "3001": {
-        "お宝ゾーン": "Treasure Zone"
+        "トレジャーデモン": "Treasure Demon"
     },
     "3002": {
-        "スコアアップ": "Score Up"
+        "clarity_nt_char_3002": "clarity_nt_char_3002"
     },
     "3003": {
-        "clarity_nt_char_3003": "clarity_nt_char_3003"
+        "ファーラット・強": "Evil Feralball"
     },
     "3004": {
-        "トライロック２": "Trirock 2"
+        "clarity_nt_char_3004": "clarity_nt_char_3004"
     },
     "3005": {
-        "フギンムニン": "Fuginmunin"
+        "プチグレネーどり": "Frail Grenadory"
     },
     "3006": {
         "clarity_nt_char_3006": "clarity_nt_char_3006"
     },
     "3007": {
-        "魔瘴魂ゼノドラゴン": "Miasma Soul Xenodragon"
+        "青の守護石": "Blue Stone"
     },
     "3008": {
-        "ゴールドマンメッキス": "Fool's Gold"
+        "さんぞくウルフ・強": "Apex Ruff Ruffian"
     },
     "3009": {
-        "clarity_nt_char_3009": "clarity_nt_char_3009"
+        "どくろあらい・強": "Evil Haardvark"
     },
     "3010": {
-        "神獣竜": "Godragon"
+        "clarity_nt_char_3010": "clarity_nt_char_3010"
     },
     "3011": {
-        "やみ凶鳥": "Dark Gargoyl"
+        "時増しの女王": "Time Queen"
     },
     "3012": {
         "clarity_nt_char_3012": "clarity_nt_char_3012"
     },
     "3013": {
-        "ホースデビル・強": "Evil Gamigin"
+        "大砲の弾": "Cannonball"
     },
     "3014": {
         "clarity_nt_char_3014": "clarity_nt_char_3014"
     },
     "3015": {
-        "やみよの鬼神": "Dark Berserker"
+        "マグマプレート": "Magma Plate"
     },
     "3016": {
-        "clarity_nt_char_3016": "clarity_nt_char_3016"
+        "黄金のみたらし団子": "Golden Mitarashi Dumplings"
     },
     "3017": {
-        "やみよの邪鬼": "Dark Headhunter"
+        "ネジゾーン": "Screw Zone"
     },
     "3018": {
-        "clarity_nt_char_3018": "clarity_nt_char_3018"
+        "サメバーン": "Sharkburn"
     },
     "3019": {
-        "サティ": "Sati"
+        "歯車ゾーン": "Cog Zone"
     },
     "3020": {
-        "やみよの暴霊": "Dark Entourage"
+        "剣魔の亡霊": "Ghost Swordsman"
     },
     "3021": {
-        "clarity_nt_char_3021": "clarity_nt_char_3021"
+        "魔幻の剣士": "Magic Swordsman"
     },
     "3022": {
-        "高価なゴブレット": "Expensive Goblet"
+        "プリズンロック": "Prison Lock"
     },
     "3023": {
-        "clarity_nt_char_3023": "clarity_nt_char_3023"
+        "赤ジュエル": "Red Jewel"
     },
     "3024": {
-        "怪魔鳥バトロウス": "Monstrous Bird Batros"
+        "大砲": "Cannon"
     },
     "3025": {
         "clarity_nt_char_3025": "clarity_nt_char_3025"
     },
     "3026": {
-        "歯車": "Cog"
+        "フギンムニン": "Fuginmunin"
     },
     "3027": {
         "clarity_nt_char_3027": "clarity_nt_char_3027"
     },
     "3028": {
-        "時間延長": "Time Extend"
+        "超爆裂石": ""
     },
     "3029": {
         "clarity_nt_char_3029": "clarity_nt_char_3029"
     },
     "3030": {
-        "セン": "Plug"
+        "呪炎の柱": ""
     },
     "3031": {
         "clarity_nt_char_3031": "clarity_nt_char_3031"
     },
     "3032": {
-        "じゃんぼりぃ": "Janbori"
+        "神殿の守護獣": "Temple Guard Beast"
     },
     "3033": {
         "clarity_nt_char_3033": "clarity_nt_char_3033"
     },
     "3034": {
-        "猛る槌矛のガイオウ": "Gaiou, Hammer and Pike"
+        "手下の海賊Ｂ": "Pirate Crewman B"
     },
     "3035": {
-        "オン": "On"
+        "clarity_nt_char_3035": "clarity_nt_char_3035"
     },
     "3036": {
-        "clarity_nt_char_3036": "clarity_nt_char_3036"
+        "手下の海賊Ｃ": "Pirate Crewman C"
     },
     "3037": {
-        "遺跡の守護者": "Ruin Guardian"
+        "clarity_nt_char_3037": "clarity_nt_char_3037"
     },
     "3038": {
-        "clarity_nt_char_3038": "clarity_nt_char_3038"
+        "魔瘴魂ゼノドラゴン": "Miasma Soul Xenodragon"
     },
     "3039": {
-        "アメジストクラブ": "Amethyst Crab"
+        "封印の伝道者": "Seal Preacher"
     },
     "3040": {
         "clarity_nt_char_3040": "clarity_nt_char_3040"
     },
     "3041": {
-        "あくま神官・強": "Evil Wrecktor"
+        "魔幻の騎士": "Shining Knight"
     },
     "3042": {
-        "アームライオン・強": "Evil Hellion"
+        "月守りの虚像": "Moon Guard Statue"
     },
     "3043": {
-        "リザードマン・強": "Evil Mandrake Major"
+        "clarity_nt_char_3043": "clarity_nt_char_3043"
     },
     "3044": {
-        "clarity_nt_char_3044": "clarity_nt_char_3044"
+        "ふこうもり": ""
     },
     "3045": {
-        "怒りの魔人": "Wrath Fiend"
+        "冥王の影": "Shadow Lord"
     },
     "3046": {
-        "ブルーバリア": "Blue Barrier"
+        "clarity_nt_char_3046": "clarity_nt_char_3046"
     },
     "3047": {
-        "clarity_nt_char_3047": "clarity_nt_char_3047"
+        "神殿の巡回兵": "Temple Patrol"
     },
     "3048": {
-        "イエローバリア": "Yellow Barrier"
+        "clarity_nt_char_3048": "clarity_nt_char_3048"
     },
     "3049": {
-        "時増しの石像": "Stone Time Statue"
+        "封印の先兵": "Sealed Vanguard"
     },
     "3050": {
-        "clarity_nt_char_3050": "clarity_nt_char_3050"
+        "ホースデビル・強": "Evil Gamigin"
     },
     "3051": {
-        "ぎんの女神像": "Svr Goddess Statue"
+        "clarity_nt_char_3051": "clarity_nt_char_3051"
     },
     "3052": {
-        "clarity_nt_char_3052": "clarity_nt_char_3052"
+        "ゴールドマンメッキス": "Fool's Gold"
     },
     "3053": {
-        "黄金のかんむり": "Golden Crown"
+        "clarity_nt_char_3053": "clarity_nt_char_3053"
     },
     "3054": {
-        "ある当主の仮面": "Master Mask"
+        "やみ凶鳥": "Dark Gargoyl"
     },
     "3055": {
-        "しられざる神殿の絵": "Picture of Unknown Temple"
+        "clarity_nt_char_3055": "clarity_nt_char_3055"
     },
     "3056": {
-        "死神の陣": "Reaper Gang"
+        "高機動スピンネイル": "High Mobility Spin Nail"
     },
     "3057": {
-        "clarity_nt_char_3057": "clarity_nt_char_3057"
+        "サティ": "Sati"
     },
     "3058": {
-        "雷撃着弾": "Bolt Impact"
+        "やみよの邪鬼": "Dark Headhunter"
     },
     "3059": {
         "clarity_nt_char_3059": "clarity_nt_char_3059"
     },
     "3060": {
-        "凍れる時獄の秘法": "Frozen Time Secret"
+        "黄金のかんむり": "Golden Crown"
     },
     "3061": {
-        "clarity_nt_char_3061": "clarity_nt_char_3061"
+        "お宝ゾーン": "Treasure Zone"
     },
     "3062": {
-        "どこかのバスタブ": "Bathtub"
+        "セン": "Plug"
     },
     "3063": {
         "clarity_nt_char_3063": "clarity_nt_char_3063"
     },
     "3064": {
-        "みのしまったタイ": "Minoshita Thailand"
+        "凶神官ゴウフウ": "Evil Priest Gohu"
     },
     "3065": {
-        "clarity_nt_char_3065": "clarity_nt_char_3065"
+        "オン": "On"
     },
     "3066": {
-        "うさみみソルジャー": "Robber Rabbit"
+        "clarity_nt_char_3066": "clarity_nt_char_3066"
     },
     "3067": {
-        "ミーネ": "Mine"
+        "遺跡の守護者": "Ruin Guardian"
     },
     "3068": {
-        "トンブレロ・強": "Evil Ham Shamwitch"
+        "clarity_nt_char_3068": "clarity_nt_char_3068"
     },
     "3069": {
-        "ライムくん": "Mr. Lime"
+        "アメジストクラブ": "Amethyst Crab"
     },
     "3070": {
-        "時増しの巨竜": "Giant Time Dragon"
+        "clarity_nt_char_3070": "clarity_nt_char_3070"
     },
     "3071": {
-        "clarity_nt_char_3071": "clarity_nt_char_3071"
+        "スコアアップ": "Score Up"
     },
     "3072": {
-        "にわとり": "Chicken"
+        "clarity_nt_char_3072": "clarity_nt_char_3072"
     },
     "3073": {
-        "clarity_nt_char_3073": "clarity_nt_char_3073"
+        "あくま神官・強": "Evil Wrecktor"
     },
     "3074": {
-        "ベレス・強": "Evil Beleth"
+        "アームライオン・強": "Evil Hellion"
     },
     "3075": {
-        "ダッシュラン・強": "Evil Drag Racer"
+        "リザードマン・強": "Evil Mandrake Major"
     },
     "3076": {
         "clarity_nt_char_3076": "clarity_nt_char_3076"
     },
     "3077": {
-        "じごくのおくり火": "Lava Lampling"
+        "ユーガ": "Stoneman"
     },
     "3078": {
-        "clarity_nt_char_3078": "clarity_nt_char_3078"
+        "ブルーバリア": "Blue Barrier"
     },
     "3079": {
-        "ボンジリ": "Bonjiri"
+        "clarity_nt_char_3079": "clarity_nt_char_3079"
     },
     "3080": {
-        "clarity_nt_char_3080": "clarity_nt_char_3080"
+        "イエローバリア": "Yellow Barrier"
     },
     "3081": {
-        "あやしい本": "Sus Book"
+        "財宝のつまった箱": "Full Treasure Box"
     },
     "3082": {
-        "疾風のサザンクロス": "Gale of the Southern Cross"
+        "clarity_nt_char_3082": "clarity_nt_char_3082"
     },
     "3083": {
-        "フェアリーバット": "Fruity Succubat"
+        "栄光の玉座": "Throne of Glory"
     },
     "3084": {
-        "clarity_nt_char_3084": "clarity_nt_char_3084"
+        "高価なゴブレット": "Expensive Goblet"
     },
     "3085": {
-        "大砲": "Cannon"
+        "clarity_nt_char_3085": "clarity_nt_char_3085"
     },
     "3086": {
-        "clarity_nt_char_3086": "clarity_nt_char_3086"
+        "死神の陣": "Reaper Gang"
     },
     "3087": {
-        "高機動スピンネイル": "High Mobility Spin Nail"
+        "clarity_nt_char_3087": "clarity_nt_char_3087"
     },
     "3088": {
-        "剛拳王ナーグル": "Sturdy King Nurgle"
+        "雷撃着弾": "Bolt Impact"
     },
     "3089": {
-        "神獣剣": "God Sword"
+        "clarity_nt_char_3089": "clarity_nt_char_3089"
     },
     "3090": {
-        "始源の甲竜": "Origin Dragon"
+        "凍れる時獄の秘法": "Frozen Time Secret"
     },
     "3091": {
-        "永劫の魔神": "Eternal Demon"
+        "clarity_nt_char_3091": "clarity_nt_char_3091"
     },
     "3092": {
-        "極夜の剣帝": "Polar Emperor"
+        "ギガミート": "Giga Meat"
     },
     "3093": {
-        "蒼撃の戦神": "Blue War God"
+        "つかれきったサメ": "Lazy Larry"
     },
     "3094": {
-        "紅炎の闘将": "Red Flame Gen."
+        "clarity_nt_char_3094": "clarity_nt_char_3094"
     },
     "3095": {
-        "呪帯の紋掌": "Handcrest Curse"
+        "うさみみソルジャー": "Robber Rabbit"
     },
     "3096": {
-        "混沌の水魔": "Chaos Mer Demon"
+        "闇の親衛隊Ｂ": "Dark Bodyguard B"
     },
     "3097": {
-        "夜天に飛来せしもの": "Cold Night Flyer"
+        "clarity_nt_char_3097": "clarity_nt_char_3097"
     },
     "3098": {
-        "妄念の幽鬼": "Delusion Ghost"
+        "トンブレロ・強": "Evil Ham Shamwitch"
     },
     "3099": {
-        "煉獄の岩塊": "Purgatory Rock"
+        "旅の博士": "Travel Dr."
     },
     "3100": {
-        "具現する海魔": "Embodied Sea Demon"
+        "clarity_nt_char_3100": "clarity_nt_char_3100"
     },
     "3101": {
-        "clarity_nt_char_3101": "clarity_nt_char_3101"
+        "ベレス・強": "Evil Beleth"
     },
     "3102": {
-        "海魔の系統": "Sea Demon Clan"
+        "ダッシュラン・強": "Evil Drag Racer"
     },
     "3103": {
-        "氷獄の罪人": "Ice Hell Sinner"
+        "clarity_nt_char_3103": "clarity_nt_char_3103"
     },
     "3104": {
-        "深淵の魔導将": "Abyss General"
+        "じごくのおくり火": "Lava Lampling"
     },
     "3105": {
         "clarity_nt_char_3105": "clarity_nt_char_3105"
     },
     "3106": {
-        "まどろみの手": "Slumbering Hand"
+        "デモンズゲイトＡ": "Demon's Gate A"
     },
     "3107": {
         "clarity_nt_char_3107": "clarity_nt_char_3107"
     },
     "3108": {
-        "深海にうごめくもの": "Deep Sea Lurker"
+        "こぶたの線香": "Incense Stick"
     },
     "3109": {
-        "ドラゴンキッズ・強": "Evil Small Fry"
+        "clarity_nt_char_3109": "clarity_nt_char_3109"
     },
     "3110": {
-        "もどりのつばさ": "Wing of Return"
+        "じゃんぼりぃ": "Janbori"
     },
     "3111": {
-        "奈落にひそむもの": "Abyss Lurker"
+        "clarity_nt_char_3111": "clarity_nt_char_3111"
     },
     "3112": {
-        "clarity_nt_char_3112": "clarity_nt_char_3112"
+        "時増しの石像": "Stone Time Statue"
     },
     "3113": {
-        "赤ジュエル": "Red Jewel"
+        "clarity_nt_char_3113": "clarity_nt_char_3113"
     },
     "3114": {
-        "スケアフレイル": "Dark Dullahan"
+        "やみの甲竜": "Dark Wyrtle"
     },
     "3115": {
-        "冥海の悪魔": "Dark Sea Demon"
+        "フェアリーバット": "Fruity Succubat"
     },
     "3116": {
-        "激憤の魔瘴竜": "Rage Miasma Dragon"
+        "clarity_nt_char_3116": "clarity_nt_char_3116"
     },
     "3117": {
-        "clarity_nt_char_3117": "clarity_nt_char_3117"
+        "虚空の残影": "Void Remnants"
     },
     "3118": {
-        "アイテム１": "Item 1"
+        "神獣馬": "God Horse"
     },
     "3119": {
-        "神獣鎧": "God Armor"
+        "冥海の悪魔": "Dark Sea Demon"
     },
     "3120": {
-        "アイテム３": "Item 3"
+        "憤怒のイフリート": "Efreet of Rage"
     },
     "3121": {
-        "トライロック３": "Trirock 3"
+        "clarity_nt_char_3121": "clarity_nt_char_3121"
     },
     "3122": {
-        "月守りの獄獣": "Moon Guard Beast"
+        "始源の甲竜": "Origin Dragon"
     },
     "3123": {
-        "clarity_nt_char_3123": "clarity_nt_char_3123"
+        "永劫の魔神": "Eternal Demon"
     },
     "3124": {
-        "はぐれジュエル": "Liquid Jewel Slime"
+        "極夜の剣帝": "Polar Emperor"
     },
     "3125": {
-        "紫ジュエル": "Purple Jewel"
+        "蒼撃の戦神": "Blue War God"
     },
     "3126": {
-        "がいこつⅠ": "Skeleton Ⅰ"
+        "呪帯の紋掌": "Handcrest Curse"
     },
     "3127": {
-        "グレネーどり": "Grenadory"
+        "深淵の海王竜": "Abyss Seadragon"
     },
     "3128": {
         "clarity_nt_char_3128": "clarity_nt_char_3128"
     },
     "3129": {
-        "灰塵の豪雷将バルケ": "Thunder General of Ash"
+        "混沌の水魔": "Chaos Mer Demon"
     },
     "3130": {
-        "ブルーハワイかき氷": "Blue Hawaii Shaved Ice"
+        "夜天に飛来せしもの": "Cold Night Flyer"
     },
     "3131": {
-        "ヘルビースト・強": "Evil Sculptrice"
+        "妄念の幽鬼": "Delusion Ghost"
     },
     "3132": {
-        "clarity_nt_char_3132": "clarity_nt_char_3132"
+        "煉獄の岩塊": "Purgatory Rock"
     },
     "3133": {
-        "たてまじん・強": "Evil Peekabogre"
+        "具現する海魔": "Embodied Sea Demon"
     },
     "3134": {
-        "アイテムジュエル": "Item Jewel"
+        "clarity_nt_char_3134": "clarity_nt_char_3134"
     },
     "3135": {
-        "clarity_nt_char_3135": "clarity_nt_char_3135"
+        "海魔の系統": "Sea Demon Clan"
     },
     "3136": {
-        "Ｓグレネーどり": "S Grenadory"
+        "氷獄の罪人": "Ice Hell Sinner"
     },
     "3137": {
-        "英雄王の領域": "Hero King Realm"
+        "深淵の魔導将": "Abyss General"
     },
     "3138": {
         "clarity_nt_char_3138": "clarity_nt_char_3138"
     },
     "3139": {
-        "ギガミート": "Giga Meat"
+        "ドラゴンキッズ・強": "Evil Small Fry"
     },
     "3140": {
-        "エンタシスマン・強": "Apex Prancing Pillar"
+        "もどりのつばさ": "Wing of Return"
     },
     "3141": {
-        "歌声の化身": "Song Incarnate"
+        "とこしえの巨兵": "Eternal Gigantes"
     },
     "3142": {
-        "月の陣": "Moon Clan"
+        "水ジュエル": "Water Jewel"
     },
     "3143": {
-        "マギロッド": "Magirod"
+        "スケアフレイル": "Dark Dullahan"
     },
     "3144": {
-        "ゴーストⅡ": "Ghost Ⅱ"
+        "怨嗟のジン": "Grudge Djinn"
     },
     "3145": {
-        "オトリストーン": "Baitstone"
+        "トライロック６": "Trirock 6"
     },
     "3146": {
-        "ダメージ床": "Damaged Floor"
+        "激憤の魔瘴竜": "Rage Miasma Dragon"
     },
     "3147": {
-        "魔創兵Ａ": "Evil Troop A"
+        "clarity_nt_char_3147": "clarity_nt_char_3147"
     },
     "3148": {
-        "clarity_nt_char_3148": "clarity_nt_char_3148"
+        "神獣竜": "Godragon"
     },
     "3149": {
-        "旅の博士": "Travel Dr."
+        "アイテム１": "Item 1"
     },
     "3150": {
-        "clarity_nt_char_3150": "clarity_nt_char_3150"
+        "トライロック１": "Trirock 1"
     },
     "3151": {
-        "ギガントヒルズ・強": "Evil Drakularge"
+        "神獣剣": "God Sword"
     },
     "3152": {
-        "ドロヌーバ・強": "Evil Mudraker"
+        "アイテムジュエル": "Item Jewel"
     },
     "3153": {
-        "月守りの火焔": "Moon Guard Flame"
+        "clarity_nt_char_3153": "clarity_nt_char_3153"
     },
     "3154": {
-        "clarity_nt_char_3154": "clarity_nt_char_3154"
+        "はぐれジュエル": "Liquid Jewel Slime"
     },
     "3155": {
-        "ゴーストⅠ": "Ghost Ⅰ"
+        "紫ジュエル": "Purple Jewel"
     },
     "3156": {
-        "よろいのきしⅠ": "Knight Errant Ⅰ"
+        "神獣鎧": "God Armor"
     },
     "3157": {
-        "深淵の海王竜": "Abyss Seadragon"
+        "灰塵の豪雷将バルケ": "Thunder General of Ash"
     },
     "3158": {
-        "clarity_nt_char_3158": "clarity_nt_char_3158"
+        "イチゴかき氷": "Sberry Shaved Ice"
     },
     "3159": {
-        "ゾンビブラザーズＡ": "Zombie Brother A"
+        "clarity_nt_char_3159": "clarity_nt_char_3159"
     },
     "3160": {
-        "ゾンビブラザーズＢ": "Zombie Brother B"
+        "ヘルビースト・強": "Evil Sculptrice"
     },
     "3161": {
-        "ホークマン・強": "Evil Hawk Man"
+        "clarity_nt_char_3161": "clarity_nt_char_3161"
     },
     "3162": {
-        "凶神官ゴウフウ": "Evil Priest Gohu"
+        "たてまじん・強": "Evil Peekabogre"
     },
     "3163": {
-        "つかれきったサメ": "Lazy Larry"
+        "アイテム２": "Item 2"
     },
     "3164": {
-        "clarity_nt_char_3164": "clarity_nt_char_3164"
+        "月守りの獄獣": "Moon Guard Beast"
     },
     "3165": {
-        "ネジゾーン": "Screw Zone"
+        "clarity_nt_char_3165": "clarity_nt_char_3165"
     },
     "3166": {
-        "魔力ドリンク": "Magical Drink"
+        "英雄王の領域": "Hero King Realm"
     },
     "3167": {
         "clarity_nt_char_3167": "clarity_nt_char_3167"
     },
     "3168": {
-        "クリムゾンレプリカ": "Crimson Replica"
+        "しられざる神殿の絵": "Picture of Unknown Temple"
     },
     "3169": {
-        "魔結晶": "Crystevil"
+        "エンタシスマン・強": "Apex Prancing Pillar"
     },
     "3170": {
-        "旅芸人ピュージュＦ": "Minstrel Pyuju F"
+        "怒りの魔人": "Wrath Fiend"
     },
     "3171": {
-        "ノエルデュラン": "Christmas Dhuran"
+        "歌声の化身": "Song Incarnate"
     },
     "3172": {
-        "時増しの巨人": "Time Titan"
+        "月の陣": "Moon Clan"
     },
     "3173": {
-        "clarity_nt_char_3173": "clarity_nt_char_3173"
+        "マギロッド": "Magirod"
     },
     "3174": {
-        "ワープ": "Warp"
+        "ゴーストⅡ": "Ghost Ⅱ"
     },
     "3175": {
-        "金縛りの札": "Gold Bound Bill"
+        "オトリストーン": "Baitstone"
     },
     "3176": {
-        "デモンズゲイトＢ": "Demon's Gate B"
+        "ダメージ床": "Damaged Floor"
     },
     "3177": {
-        "clarity_nt_char_3177": "clarity_nt_char_3177"
+        "時空の怒り": "Spacetime Anger"
     },
     "3178": {
-        "トライロック６": "Trirock 6"
+        "ギガントヒルズ・強": "Evil Drakularge"
     },
     "3179": {
-        "地下へつづく階段": "Stairs to the Underworld"
+        "ドロヌーバ・強": "Evil Mudraker"
     },
     "3180": {
-        "clarity_nt_char_3180": "clarity_nt_char_3180"
+        "グレネーどり": "Grenadory"
     },
     "3181": {
-        "スピンネイル": "Spin Nail"
+        "clarity_nt_char_3181": "clarity_nt_char_3181"
     },
     "3182": {
-        "clarity_nt_char_3182": "clarity_nt_char_3182"
+        "ゴーストⅠ": "Ghost Ⅰ"
     },
     "3183": {
-        "メロンかき氷": "Melon Shaved Ice"
+        "紅炎の闘将": "Red Flame Gen."
     },
     "3184": {
-        "clarity_nt_char_3184": "clarity_nt_char_3184"
+        "魔創兵Ｂ": "Evil Troop B"
     },
     "3185": {
-        "シャドウⅢ": "Shadow Ⅲ"
+        "clarity_nt_char_3185": "clarity_nt_char_3185"
     },
     "3186": {
-        "大砲着弾": "Cannon Hit"
+        "Ｇレプリカ": "G Replica"
     },
     "3187": {
-        "clarity_nt_char_3187": "clarity_nt_char_3187"
+        "ゾンビブラザーズＡ": "Zombie Brother A"
     },
     "3188": {
-        "レモンくん": "Lemon"
+        "ゾンビブラザーズＢ": "Zombie Brother B"
     },
     "3189": {
-        "ベスちゃん": "Beth-chan"
+        "ミーネ": "Mine"
     },
     "3190": {
-        "時増しの甲竜": "Time Wyrtle"
+        "ホークマン・強": "Evil Hawk Man"
     },
     "3191": {
-        "clarity_nt_char_3191": "clarity_nt_char_3191"
+        "ゴルドン": "Goldman"
     },
     "3192": {
-        "こぶたの線香": "Incense Stick"
+        "clarity_nt_char_3192": "clarity_nt_char_3192"
     },
     "3193": {
-        "clarity_nt_char_3193": "clarity_nt_char_3193"
+        "剛拳王ナーグル": "Sturdy King Nurgle"
     },
     "3194": {
-        "雷の床": "Ltn.Floor"
+        "邪眼の魔女レシア": "Evil Eye Witch Reshia"
     },
     "3195": {
-        "モリーサタン": "Morrimp"
+        "clarity_nt_char_3195": "clarity_nt_char_3195"
     },
     "3196": {
-        "clarity_nt_char_3196": "clarity_nt_char_3196"
+        "スフィンクス": "Sphinx"
     },
     "3197": {
-        "トライロック５": "Trirock 5"
+        "clarity_nt_char_3197": "clarity_nt_char_3197"
     },
     "3198": {
-        "魔境の獄卒": "Hell Guard"
+        "魔力ドリンク": "Magical Drink"
     },
     "3199": {
-        "プリズンロック": "Prison Lock"
+        "clarity_nt_char_3199": "clarity_nt_char_3199"
     },
     "3200": {
-        "アイテム": "Item"
+        "漆黒の匪賊ギャレス": "Black Bandit, Gareth"
     },
     "3201": {
-        "clarity_nt_char_3201": "clarity_nt_char_3201"
+        "魔伯爵シディア": "Demon Count Cydia"
     },
     "3202": {
-        "プリズンキー": "Prison Key"
+        "ワープ": "Warp"
     },
     "3203": {
-        "clarity_nt_char_3203": "clarity_nt_char_3203"
+        "金縛りの札": "Gold Bound Bill"
     },
     "3204": {
-        "上限アップ": "Upgrade"
+        "クリムゾンレプリカ": "Crimson Replica"
     },
     "3205": {
-        "ミラクルボックス": "Miracle Box"
+        "旅芸人ピュージュＪ": "Minstrel Pyuju J"
     },
     "3206": {
-        "clarity_nt_char_3206": "clarity_nt_char_3206"
+        "トライロック４": "Trirock 4"
     },
     "3207": {
-        "床マン": "Floor Man"
+        "すいしょう玉": "Crystal Ball"
     },
     "3208": {
-        "巨大リルグレイド": "Giga Lil' Grade"
+        "clarity_nt_char_3208": "clarity_nt_char_3208"
     },
     "3209": {
-        "clarity_nt_char_3209": "clarity_nt_char_3209"
+        "時増しの巨竜": "Giant Time Dragon"
     },
     "3210": {
-        "イチゴかき氷": "Sberry Shaved Ice"
+        "clarity_nt_char_3210": "clarity_nt_char_3210"
     },
     "3211": {
-        "clarity_nt_char_3211": "clarity_nt_char_3211"
+        "床マン": "Floor Man"
     },
     "3212": {
-        "白ジュエル": "White Jewel"
+        "シャドウⅢ": "Shadow Ⅲ"
     },
     "3213": {
-        "魔女オリビア": "Witch Olivia"
+        "大砲着弾": "Cannon Hit"
     },
     "3214": {
         "clarity_nt_char_3214": "clarity_nt_char_3214"
     },
     "3215": {
-        "猛爆隊長ダイノス": "Bomb Captain Dinos"
+        "疾風のサザンクロス": "Gale of the Southern Cross"
     },
     "3216": {
-        "clarity_nt_char_3216": "clarity_nt_char_3216"
+        "ライムくん": "Mr. Lime"
     },
     "3217": {
-        "トライロック７": "Trirock 7"
+        "レモンくん": "Lemon"
     },
     "3218": {
-        "黄ジュエル": "Yellow Jewel"
+        "ベスちゃん": "Beth-chan"
     },
     "3219": {
-        "万魔の機竜": "Banma Mechagon"
+        "大きなスイカ": "Giga Watermelon"
     },
     "3220": {
-        "水ジュエル": "Water Jewel"
+        "clarity_nt_char_3220": "clarity_nt_char_3220"
     },
     "3221": {
-        "プチ暗黒の魔人": "Frail Ruin"
+        "がいこつⅠ": "Skeleton Ⅰ"
     },
     "3222": {
-        "ちびゴラ": "Dinkagon"
+        "雷の床": "Ltn.Floor"
     },
     "3223": {
-        "clarity_nt_char_3223": "clarity_nt_char_3223"
+        "モリーサタン": "Morrimp"
     },
     "3224": {
-        "未確認飛行物体": "UFO"
+        "clarity_nt_char_3224": "clarity_nt_char_3224"
     },
     "3225": {
-        "とこしえの巨兵": "Eternal Gigantes"
+        "トライロック３": "Trirock 3"
     },
     "3226": {
-        "怨嗟のジン": "Grudge Djinn"
+        "まどろみの手": "Slumbering Hand"
     },
     "3227": {
-        "トライロック１": "Trirock 1"
+        "clarity_nt_char_3227": "clarity_nt_char_3227"
     },
     "3228": {
-        "アイテム２": "Item 2"
+        "深海にうごめくもの": "Deep Sea Lurker"
     },
     "3229": {
-        "回復薬": "Rest. Med"
+        "魔境の獄卒": "Hell Guard"
     },
     "3230": {
-        "やみの妖眼": "Dark Lunatick"
+        "ミラクルボックス": "Miracle Box"
     },
     "3231": {
-        "やみ亡者": "Dark Shadow"
+        "clarity_nt_char_3231": "clarity_nt_char_3231"
     },
     "3232": {
-        "clarity_nt_char_3232": "clarity_nt_char_3232"
+        "アイテム": "Item"
     },
     "3233": {
-        "冥王の影": "Shadow Lord"
+        "clarity_nt_char_3233": "clarity_nt_char_3233"
     },
     "3234": {
-        "clarity_nt_char_3234": "clarity_nt_char_3234"
+        "巨大リルグレイド": "Giga Lil' Grade"
     },
     "3235": {
-        "邪眼の魔女レシア": "Evil Eye Witch Reshia"
+        "clarity_nt_char_3235": "clarity_nt_char_3235"
     },
     "3236": {
-        "clarity_nt_char_3236": "clarity_nt_char_3236"
+        "スピードアップ床": "Speed Up Floor"
     },
     "3237": {
-        "憤怒のイフリート": "Efreet of Rage"
+        "clarity_nt_char_3237": "clarity_nt_char_3237"
     },
     "3238": {
-        "clarity_nt_char_3238": "clarity_nt_char_3238"
+        "プリズンキー": "Prison Key"
     },
     "3239": {
-        "トライロック４": "Trirock 4"
+        "clarity_nt_char_3239": "clarity_nt_char_3239"
     },
     "3240": {
-        "暗殺者": "Assassin"
+        "町娘エマ": "TownGal Emma"
     },
     "3241": {
-        "奏演王ベイオウルフ": "Performance King Beowulf"
+        "clarity_nt_char_3241": "clarity_nt_char_3241"
     },
     "3242": {
-        "心の闇": "Dark Mind"
+        "海賊キッド": "Pirate Kid"
     },
     "3243": {
-        "セピアン": "Sepian"
+        "やみの妖眼": "Dark Lunatick"
     },
     "3244": {
-        "clarity_nt_char_3244": "clarity_nt_char_3244"
+        "猛爆隊長ダイノス": "Bomb Captain Dinos"
     },
     "3245": {
-        "ゲソッズ": "Gesoze"
+        "clarity_nt_char_3245": "clarity_nt_char_3245"
     },
     "3246": {
-        "clarity_nt_char_3246": "clarity_nt_char_3246"
+        "トライロック５": "Trirock 5"
     },
     "3247": {
-        "イケイオス": "Inkaos"
+        "上限アップ": "Upgrade"
     },
     "3248": {
-        "ヘルサーディン": "Hellsardine"
+        "白ジュエル": "White Jewel"
     },
     "3249": {
-        "カマンベイベー": "Camembaby"
+        "トライロック７": "Trirock 7"
     },
     "3250": {
-        "マスカルポンポン": "Mascarponpon"
+        "プチ暗黒の魔人": "Frail Ruin"
     },
     "3251": {
-        "clarity_nt_char_3251": "clarity_nt_char_3251"
+        "ちびゴラ": "Dinkagon"
     },
     "3252": {
-        "ゴルゴンゾンビ": "Gorgon Zombie"
+        "clarity_nt_char_3252": "clarity_nt_char_3252"
     },
     "3253": {
-        "カイザー先生": "Master Kaiser"
+        "黄金のかき氷": "Golden Shaved Ice"
     },
     "3254": {
         "clarity_nt_char_3254": "clarity_nt_char_3254"
     },
     "3255": {
-        "ビスト先生": "Master Bist"
+        "黄ジュエル": "Yellow Jewel"
     },
     "3256": {
-        "クリスティーヌ先生": "Master Christine"
+        "未確認飛行物体": "UFO"
     },
     "3257": {
-        "マジンガ先生": "Master Machine"
+        "やみよの暴霊": "Dark Entourage"
     },
     "3258": {
         "clarity_nt_char_3258": "clarity_nt_char_3258"
     },
     "3259": {
-        "ステューデントＢ": "Student B"
+        "スピンネイル": "Spin Nail"
     },
     "3260": {
         "clarity_nt_char_3260": "clarity_nt_char_3260"
     },
     "3261": {
-        "ステューデントＳ": "Student S"
+        "怪魔鳥バトロウス": "Monstrous Bird Batros"
     },
     "3262": {
         "clarity_nt_char_3262": "clarity_nt_char_3262"
     },
     "3263": {
-        "ステューデントＲ": "Student R"
+        "奈落にひそむもの": "Abyss Lurker"
     },
     "3264": {
         "clarity_nt_char_3264": "clarity_nt_char_3264"
     },
     "3265": {
-        "ステューデントＧ": "Student G"
+        "トライロック２": "Trirock 2"
     },
     "3266": {
-        "clarity_nt_char_3266": "clarity_nt_char_3266"
+        "アイテム３": "Item 3"
     },
     "3267": {
-        "シャドウ": "Shadow"
+        "ノエルデュラン": "Christmas Dhuran"
     },
     "3268": {
-        "clarity_nt_char_3268": "clarity_nt_char_3268"
+        "暗殺者": "Assassin"
     },
     "3269": {
-        "学びの水晶": "Learn Crystal"
+        "心の闇": "Dark Mind"
     },
     "3270": {
-        "フレア先生": "Master Flare"
+        "セピアン": "Sepian"
     },
     "3271": {
-        "グルービー先生": "Master Groovy"
+        "clarity_nt_char_3271": "clarity_nt_char_3271"
     },
     "3272": {
-        "グルーヴダンサーズ": "Groove Dancers"
+        "ゲソッズ": "Gesoze"
     },
     "3273": {
-        "シナイジッチ": "Shinai Zichy"
+        "clarity_nt_char_3273": "clarity_nt_char_3273"
     },
     "3274": {
-        "clarity_nt_char_3274": "clarity_nt_char_3274"
+        "イケイオス": "Inkaos"
     },
     "3275": {
-        "オデット": "Odette"
+        "ヘルサーディン": "Hellsardine"
     },
     "3276": {
-        "clarity_nt_char_3276": "clarity_nt_char_3276"
+        "カマンベイベー": "Camembaby"
     },
     "3277": {
-        "ロルカ": "Lorca"
+        "マスカルポンポン": "Mascarponpon"
     },
     "3278": {
-        "ホグラム": "Hologram"
+        "clarity_nt_char_3278": "clarity_nt_char_3278"
     },
     "3279": {
-        "clarity_nt_char_3279": "clarity_nt_char_3279"
+        "ゴルゴンゾンビ": "Gorgon Zombie"
     },
     "3280": {
-        "キルベル": "Kirbel"
+        "カイザー先生": "Master Kaiser"
     },
     "3281": {
         "clarity_nt_char_3281": "clarity_nt_char_3281"
     },
     "3282": {
-        "魔族リソル": "Demon Resol"
+        "ビスト先生": "Master Bist"
     },
     "3283": {
-        "狂想鬼メルジオル": "Mad Ghost Merjol"
+        "クリスティーヌ先生": "Master Christine"
     },
     "3284": {
-        "clarity_nt_char_3284": "clarity_nt_char_3284"
+        "マジンガ先生": "Master Machine"
     },
     "3285": {
-        "ムータ先生": "Master Muta"
+        "clarity_nt_char_3285": "clarity_nt_char_3285"
     },
     "3286": {
-        "ギオーダ": "Gioda"
+        "ステューデントＢ": "Student B"
     },
     "3287": {
         "clarity_nt_char_3287": "clarity_nt_char_3287"
     },
     "3288": {
-        "ガガンマ": "Gagamma"
+        "ステューデントＳ": "Student S"
     },
     "3289": {
         "clarity_nt_char_3289": "clarity_nt_char_3289"
     },
     "3290": {
-        "ヤッガイ": "Yuggai"
+        "ステューデントＲ": "Student R"
     },
     "3291": {
         "clarity_nt_char_3291": "clarity_nt_char_3291"
     },
     "3292": {
-        "ディラック先生": "Master Dilak"
+        "ステューデントＧ": "Student G"
     },
     "3293": {
-        "ニコラオス先生": "Master Nicolas"
+        "clarity_nt_char_3293": "clarity_nt_char_3293"
     },
     "3294": {
-        "シュメリア": "Sumeria"
+        "シャドウ": "Shadow"
     },
     "3295": {
-        "精霊の番人": "Spirit Keeper"
+        "clarity_nt_char_3295": "clarity_nt_char_3295"
     },
     "3296": {
-        "破壊神の使徒": "Ruin God Apostle"
+        "学びの水晶": "Learn Crystal"
     },
     "3297": {
-        "clarity_nt_char_3297": "clarity_nt_char_3297"
+        "フレア先生": "Master Flare"
     },
     "3298": {
-        "ブラックホール": "Black Hole"
+        "グルービー先生": "Master Groovy"
     },
     "3299": {
-        "決戦用砲台Ａ": "Battle Cannon A"
+        "グルーヴダンサーズ": "Groove Dancers"
     },
     "3300": {
-        "clarity_nt_char_3300": "clarity_nt_char_3300"
+        "オデット": "Odette"
     },
     "3301": {
-        "プチグレネーどり": "Frail Grenadory"
+        "clarity_nt_char_3301": "clarity_nt_char_3301"
     },
     "3302": {
-        "clarity_nt_char_3302": "clarity_nt_char_3302"
+        "ロルカ": "Lorca"
     },
     "3303": {
-        "決戦用砲台Ｂ": "Battle Cannon B"
+        "ホグラム": "Hologram"
     },
     "3304": {
         "clarity_nt_char_3304": "clarity_nt_char_3304"
     },
     "3305": {
-        "紅魔法陣": "Red Array"
+        "キルベル": "Kirbel"
     },
     "3306": {
         "clarity_nt_char_3306": "clarity_nt_char_3306"
     },
     "3307": {
-        "紅ドーナッツ": "Red Donut"
+        "魔族リソル": "Demon Resol"
     },
     "3308": {
-        "clarity_nt_char_3308": "clarity_nt_char_3308"
+        "狂想鬼メルジオル": "Mad Ghost Merjol"
     },
     "3309": {
-        "プチＳグレネーどり": "Frail S Grenadory"
+        "clarity_nt_char_3309": "clarity_nt_char_3309"
     },
     "3310": {
-        "時空断絶": "Spacetime"
+        "ムータ先生": "Master Muta"
     },
     "3311": {
-        "clarity_nt_char_3311": "clarity_nt_char_3311"
+        "ギオーダ": "Gioda"
     },
     "3312": {
-        "カデスの牢獄": "Cades Prison"
+        "clarity_nt_char_3312": "clarity_nt_char_3312"
     },
     "3313": {
-        "clarity_nt_char_3313": "clarity_nt_char_3313"
+        "ガガンマ": "Gagamma"
     },
     "3314": {
-        "金獅子": "Gold Lion"
+        "clarity_nt_char_3314": "clarity_nt_char_3314"
     },
     "3315": {
-        "ゴールドデーモン": "Gold Daemon"
+        "ヤッガイ": "Yuggai"
     },
     "3316": {
         "clarity_nt_char_3316": "clarity_nt_char_3316"
     },
     "3317": {
-        "光翼・右": "R. Lightwing"
+        "ディラック先生": "Master Dilak"
     },
     "3318": {
-        "clarity_nt_char_3318": "clarity_nt_char_3318"
+        "ニコラオス先生": "Master Nicolas"
     },
     "3319": {
-        "光翼・左": "L. Lightwing"
+        "シュメリア": "Sumeria"
     },
     "3320": {
-        "clarity_nt_char_3320": "clarity_nt_char_3320"
+        "狂乱の破壊神": "Mad Rend God"
     },
     "3321": {
-        "メレアーデ": "Mereade"
+        "clarity_nt_char_3321": "clarity_nt_char_3321"
     },
     "3322": {
-        "キュルル": "Kyururu"
+        "ヨミの狩人": "Hunter Yomi"
     },
     "3323": {
-        "clarity_nt_char_3323": "clarity_nt_char_3323"
+        "封印の守護者・左": "Seal Guardian - Left"
     },
     "3324": {
-        "斬撃の試練石": "Slash Test Stone"
+        "clarity_nt_char_3324": "clarity_nt_char_3324"
     },
     "3325": {
-        "clarity_nt_char_3325": "clarity_nt_char_3325"
+        "魔想念レギルラッゾ": "Demonic Thought Legirrazzo"
     },
     "3326": {
-        "光の柱": "Lightbeam"
+        "決戦用砲台Ｂ": "Battle Cannon B"
     },
     "3327": {
-        "財宝の地縛霊": "Land Treasure Soul"
+        "clarity_nt_char_3327": "clarity_nt_char_3327"
     },
     "3328": {
-        "clarity_nt_char_3328": "clarity_nt_char_3328"
+        "紅魔法陣": "Red Array"
     },
     "3329": {
-        "黄金の魔箱": "Gold Demon Box"
+        "clarity_nt_char_3329": "clarity_nt_char_3329"
     },
     "3330": {
-        "黄金の傀儡": "Gold Puppet"
+        "紅ドーナッツ": "Red Donut"
     },
     "3331": {
-        "黄金の重塔": "Gold Tower"
+        "clarity_nt_char_3331": "clarity_nt_char_3331"
     },
     "3332": {
-        "翠魔方陣": "Jade M. Area"
+        "プチＳグレネーどり": "Frail S Grenadory"
     },
     "3333": {
-        "clarity_nt_char_3333": "clarity_nt_char_3333"
+        "時空断絶": "Spacetime"
     },
     "3334": {
-        "魔撃の試練石": "Magic Test Stone"
+        "clarity_nt_char_3334": "clarity_nt_char_3334"
     },
     "3335": {
-        "clarity_nt_char_3335": "clarity_nt_char_3335"
+        "カデスの牢獄": "Cades Prison"
     },
     "3336": {
-        "はんじゅくスライム": "Soft Boiled Slime"
+        "clarity_nt_char_3336": "clarity_nt_char_3336"
     },
     "3337": {
-        "テスト型ローガスト": "Test Model Logast"
+        "金獅子": "Gold Lion"
     },
     "3338": {
-        "陽の試練壱・陽炎": "Yang Trial I -Yang Flame"
+        "ゴールドデーモン": "Gold Daemon"
     },
     "3339": {
         "clarity_nt_char_3339": "clarity_nt_char_3339"
     },
     "3340": {
-        "アトラス600": "Atlas 600"
+        "光翼・右": "R. Lightwing"
     },
     "3341": {
-        "アトラス900": "Atlas 900"
+        "clarity_nt_char_3341": "clarity_nt_char_3341"
     },
     "3342": {
-        "キュロドーナッツ": "Kyuro Donut"
+        "光翼・左": "L. Lightwing"
     },
     "3343": {
         "clarity_nt_char_3343": "clarity_nt_char_3343"
     },
     "3344": {
-        "マグマ２": "Magma 2"
+        "時元の使徒": "Time Apostle"
     },
     "3345": {
-        "clarity_nt_char_3345": "clarity_nt_char_3345"
+        "キュルル": "Kyururu"
     },
     "3346": {
-        "マグマ３": "Magma 3"
+        "clarity_nt_char_3346": "clarity_nt_char_3346"
     },
     "3347": {
-        "clarity_nt_char_3347": "clarity_nt_char_3347"
+        "斬撃の試練石": "Slash Test Stone"
     },
     "3348": {
-        "スライダーマン": "Slider Man"
+        "clarity_nt_char_3348": "clarity_nt_char_3348"
     },
     "3349": {
-        "マグマプレート": "Magma Plate"
+        "光の柱": "Lightbeam"
     },
     "3350": {
-        "霊脈魔法陣": "Ring of Spirit"
+        "黄金の重塔": "Gold Tower"
     },
     "3351": {
-        "スラッピ": "Slabbit"
+        "デバフ魔方陣": "Debuff Magic Area"
     },
     "3352": {
         "clarity_nt_char_3352": "clarity_nt_char_3352"
     },
     "3353": {
-        "スノーボールン": "Snow Boulder"
+        "翠魔方陣": "Jade M. Area"
     },
     "3354": {
-        "欲望のひとだま": "Soul of Desire"
+        "clarity_nt_char_3354": "clarity_nt_char_3354"
     },
     "3355": {
-        "十字の邪光": "Cross' Curse"
+        "陽の試練壱・陽炎": "Yang Trial I - Yang Haze"
     },
     "3356": {
-        "シングルメタル": "Single Metal"
+        "clarity_nt_char_3356": "clarity_nt_char_3356"
     },
     "3357": {
-        "防衛結界・北": "Barrier North"
+        "アトラス600": "Atlas 600"
     },
     "3358": {
-        "clarity_nt_char_3358": "clarity_nt_char_3358"
+        "アトラス900": "Atlas 900"
     },
     "3359": {
-        "パトランプ": "Patrol Lamp"
+        "キュロドーナッツ": "Kyuro Donut"
     },
     "3360": {
-        "呪闇わらし": "Speldrkrngscrew"
+        "clarity_nt_char_3360": "clarity_nt_char_3360"
     },
     "3361": {
-        "ガテリアの亡者": "Gateria's Ghost"
+        "マグマ２": "Magma 2"
     },
     "3362": {
-        "サメバーン": "Sharkburn"
+        "clarity_nt_char_3362": "clarity_nt_char_3362"
     },
     "3363": {
-        "ゼクレス精鋭槍兵": "Zechres Elite Spearman"
+        "マグマ３": "Magma 3"
     },
     "3364": {
         "clarity_nt_char_3364": "clarity_nt_char_3364"
     },
     "3365": {
-        "バルディスタ弓兵": "Valdista Archer"
+        "スライダーマン": "Slider Man"
     },
     "3366": {
-        "clarity_nt_char_3366": "clarity_nt_char_3366"
+        "霊脈魔法陣": "Ring of Spirit"
     },
     "3367": {
-        "バルディスタ槍兵": "Valdista Spearman"
+        "とり捕まえる範囲カゴ": "Catching Cage"
     },
     "3368": {
         "clarity_nt_char_3368": "clarity_nt_char_3368"
     },
     "3369": {
-        "レグアン小隊長": "Platoon Leader Leguan"
+        "スノーボールン": "Snow Boulder"
     },
     "3370": {
-        "バルディスタ歩兵": "Valdista Foot Soldier"
+        "欲望のひとだま": "Soul of Desire"
     },
     "3371": {
-        "clarity_nt_char_3371": "clarity_nt_char_3371"
+        "火炎鳥": "Blazebird"
     },
     "3372": {
-        "ティーガ師団長": "Division Leader Tiga"
+        "十字の邪光": "Cross' Curse"
     },
     "3373": {
-        "メルカバ兵長": "Captain Merkaba"
+        "びっくりボックス": "Trap Box"
     },
     "3374": {
         "clarity_nt_char_3374": "clarity_nt_char_3374"
     },
     "3375": {
-        "バルディスタ突撃兵": "Valdista Assault Soldier"
+        "シングルメタル": "Single Metal"
     },
     "3376": {
-        "バルディスタ竜騎兵": "Valdista Dragon Cavalry"
+        "パトランプ": "Patrol Lamp"
     },
     "3377": {
-        "ゲパルド大隊長": "Squad Leader Gepard"
+        "呪闇わらし": "Speldrkrngscrew"
     },
     "3378": {
-        "ゾブリスの幻影": "Phantom Zobris"
+        "呪闇の魔柱": "Demonic Pillar"
     },
     "3379": {
-        "ゼクレス機神兵": "Zechres Mech Soldier"
+        "ゼクレス精鋭槍兵": "Zechres Elite Spearman"
     },
     "3380": {
-        "ゼクレス鋼鉄兵": "Zechres Steel Soldier"
+        "clarity_nt_char_3380": "clarity_nt_char_3380"
     },
     "3381": {
-        "ゼクレス精霊兵": "Zechres Ghost Soldier"
+        "バルディスタ弓兵": "Valdista Archer"
     },
     "3382": {
-        "じゃあくなかげ": "Leopold"
+        "clarity_nt_char_3382": "clarity_nt_char_3382"
     },
     "3383": {
-        "魔界のしもべ": "Demonworld Servant"
+        "バルディスタ槍兵": "Valdista Spearman"
     },
     "3384": {
         "clarity_nt_char_3384": "clarity_nt_char_3384"
     },
     "3385": {
-        "羽根旋風": "Wind Blade"
+        "レグアン小隊長": "Platoon Leader Leguan"
     },
     "3386": {
-        "clarity_nt_char_3386": "clarity_nt_char_3386"
+        "バルディスタ歩兵": "Valdista Foot Soldier"
     },
     "3387": {
-        "こんとんのかげ": "Madog Leopold"
+        "clarity_nt_char_3387": "clarity_nt_char_3387"
     },
     "3388": {
-        "ブルービックバン": "Blue Big Bang"
+        "ティーガ師団長": "Division Leader Tiga"
     },
     "3389": {
-        "clarity_nt_char_3389": "clarity_nt_char_3389"
+        "メルカバ兵長": "Captain Merkaba"
     },
     "3390": {
-        "おっかけパンサー": "Chasing Panther"
+        "clarity_nt_char_3390": "clarity_nt_char_3390"
     },
     "3391": {
-        "clarity_nt_char_3391": "clarity_nt_char_3391"
+        "バルディスタ突撃兵": "Valdista Assault Soldier"
     },
     "3392": {
-        "おっかけドラゴ": "Chasing Drago"
+        "バルディスタ竜騎兵": "Valdista Dragon Cavalry"
     },
     "3393": {
-        "剣魔の亡霊": "Ghost Swordsman"
+        "ゲパルド大隊長": "Squad Leader Gepard"
     },
     "3394": {
-        "回復よび": ""
+        "ゾブリスの幻影": "Phantom Zobris"
     },
     "3395": {
-        "clarity_nt_char_3395": "clarity_nt_char_3395"
+        "ゼクレス機神兵": "Zechres Mech Soldier"
     },
     "3396": {
-        "源世碑石": ""
+        "ゼクレス鋼鉄兵": "Zechres Steel Soldier"
     },
     "3397": {
-        "clarity_nt_char_3397": "clarity_nt_char_3397"
+        "ゼクレス精霊兵": "Zechres Ghost Soldier"
     },
     "3398": {
-        "大地の結晶": "Earth Crystal"
+        "魔瘴魂": "Evil Soul"
     },
     "3399": {
-        "守護ガニラス": "Guardian Crabus"
+        "じゃあくなかげ": "Leopold"
     },
     "3400": {
-        "clarity_nt_char_3400": "clarity_nt_char_3400"
+        "魔界のしもべ": "Demonworld Servant"
     },
     "3401": {
-        "風護の竜巻": "Tornado Guard"
+        "clarity_nt_char_3401": "clarity_nt_char_3401"
     },
     "3402": {
-        "禁忌の落とし子": "Forbidden Child"
+        "羽根旋風": "Wind Blade"
     },
     "3403": {
-        "ピュージュ": "Pyuju"
+        "clarity_nt_char_3403": "clarity_nt_char_3403"
     },
     "3404": {
-        "賢者マリーン": "Sage Malynn"
+        "こんとんのかげ": "Madog Leopold"
     },
     "3405": {
-        "clarity_nt_char_3405": "clarity_nt_char_3405"
+        "魔弾の岩塊": "Bullet Sm. Rock"
     },
     "3406": {
-        "使い魔": "Famililar"
+        "魔道の亡霊": "Sorcery Spectre"
     },
     "3407": {
-        "爪牙の陣": "Sap Circle"
+        "じげんばくだん岩": "Timebomb Rock"
     },
     "3408": {
         "clarity_nt_char_3408": "clarity_nt_char_3408"
     },
     "3409": {
-        "魔想念ガルドドン": "Demonic Thought Gardodon"
+        "回復よび": ""
     },
     "3410": {
         "clarity_nt_char_3410": "clarity_nt_char_3410"
     },
     "3411": {
-        "サポートパイル": "Support Pile"
+        "源世碑石": "Origin Stone"
     },
     "3412": {
-        "怨讐の魔瘴魂": "Grudge Miasma Soul"
+        "clarity_nt_char_3412": "clarity_nt_char_3412"
     },
     "3413": {
-        "clarity_nt_char_3413": "clarity_nt_char_3413"
+        "大地の結晶": "Earth Crystal"
     },
     "3414": {
-        "暴悪の魔瘴魂": "Fierce Miasma Soul"
+        "守護ガニラス": "Guardian Crabus"
     },
     "3415": {
         "clarity_nt_char_3415": "clarity_nt_char_3415"
     },
     "3416": {
-        "プチ魔人の左手": "Frail Left Demon Hand"
+        "風護の竜巻": "Tornado Guard"
     },
     "3417": {
-        "プチ暗黒の魔造兵": "Frail Dark Golem"
+        "禁忌の落とし子": "Forbidden Child"
     },
     "3418": {
-        "clarity_nt_char_3418": "clarity_nt_char_3418"
+        "ピュージュ": "Pyuju"
     },
     "3419": {
-        "魔人の左手強": "Apex L. Demon Hand"
+        "賢者マリーン": "Sage Malynn"
     },
     "3420": {
         "clarity_nt_char_3420": "clarity_nt_char_3420"
     },
     "3421": {
-        "暗黒の魔造兵強": "Apex Dark Golem"
+        "使い魔": "Famililar"
     },
     "3422": {
-        "円陣殺・緑": "Green Kill Area"
+        "爪牙の陣": "Sap Circle"
     },
     "3423": {
-        "魔瘴沼": "Gassy Bog"
+        "clarity_nt_char_3423": "clarity_nt_char_3423"
     },
     "3424": {
-        "言声のやまびこ": "Echo of Words"
+        "魔想念スコルパイド": "Demonic Thought Scorpide"
     },
     "3425": {
-        "ウルトラ大砲": "Ultra Cannon"
+        "魔想念ジェルザーク": "Demonic Thought Gelzark"
     },
     "3426": {
-        "clarity_nt_char_3426": "clarity_nt_char_3426"
+        "怨讐の魔瘴魂": "Grudge Miasma Soul"
     },
     "3427": {
-        "召雷陣": "Bolt Call"
+        "clarity_nt_char_3427": "clarity_nt_char_3427"
     },
     "3428": {
-        "？？？？？？": "??????"
+        "暴悪の魔瘴魂": "Fierce Miasma Soul"
     },
     "3429": {
         "clarity_nt_char_3429": "clarity_nt_char_3429"
     },
     "3430": {
-        "びっくりどっきり箱": "Surprise Prank Box"
+        "プチ魔人の左手": "Frail Left Demon Hand"
     },
     "3431": {
-        "大魔瘴": "Gigademon"
+        "暴君ラビット": "Tyrant Rabbit"
     },
     "3432": {
-        "リナーシェ": "Linashe"
+        "clarity_nt_char_3432": "clarity_nt_char_3432"
     },
     "3433": {
-        "グリゴリふれんず": "Watcher Friends"
+        "スライムアンノウン": "Slime Unknown"
     },
     "3434": {
-        "clarity_nt_char_3434": "clarity_nt_char_3434"
+        "ジルドラーナの剣": "Jildrana's Sword"
     },
     "3435": {
-        "きまぐれ爆弾": "Fickle Bomb"
+        "clarity_nt_char_3435": "clarity_nt_char_3435"
     },
     "3436": {
-        "clarity_nt_char_3436": "clarity_nt_char_3436"
+        "神殺しの槍": "God Kill Spear"
     },
     "3437": {
-        "爆裂石": ""
+        "びっくりどっきり箱": "Surprise Prank Box"
     },
     "3438": {
-        "ブラドドラゴン": "Blood Dragon"
+        "大魔瘴": "Gigademon"
     },
     "3439": {
-        "黒い炎の柱": ""
+        "リナーシェ": "Linashe"
     },
     "3440": {
-        "ホーリークリスタル": "Holy Crystal"
+        "グリゴリふれんず": "Watcher Friends"
     },
     "3441": {
-        "かいふくクリスタル": "Recovery Crystal"
+        "clarity_nt_char_3441": "clarity_nt_char_3441"
     },
     "3442": {
-        "デバフクリスタル": "Debuff Crystal"
+        "きまぐれ爆弾": "Fickle Bomb"
     },
     "3443": {
         "clarity_nt_char_3443": "clarity_nt_char_3443"
     },
     "3444": {
-        "こうげきクリスタル": "Attack Crystal"
+        "爆裂石": ""
     },
     "3445": {
-        "ヘドロ床": ""
+        "ブラドドラゴン": "Blood Dragon"
     },
     "3446": {
-        "clarity_nt_char_3446": "clarity_nt_char_3446"
+        "黒い炎の柱": ""
     },
     "3447": {
-        "カースドシャワー用": ""
+        "ホーリークリスタル": "Holy Crystal"
+    },
+    "3448": {
+        "かいふくクリスタル": "Recovery Crystal"
     }
 }

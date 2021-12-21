@@ -399,7 +399,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>音叉の間": "<%sW_MAP_NAME> Tuning Fork Room"
     },
     "134": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>倉庫": "<%sW_MAP_NAME> Warehouse"
+        "<%sW_MAP_NAME><%sW_DELIMITER>倉庫": "Warehouse"
     },
     "135": {
         "<%sW_MAP_NAME><%sW_DELIMITER>兵士詰所": "<%sW_MAP_NAME> Soldier's Guardroom"
@@ -5343,7 +5343,7 @@
         "clarity_nt_char_1781": "clarity_nt_char_1781"
     },
     "1782": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>隠し通路": "<%sW_MAP_NAME> Secret Passage"
+        "<%sW_MAP_NAME><%sW_DELIMITER>隠し通路": "Secret Passage"
     },
     "1783": {
         "<%sW_MAP_NAME><%sW_DELIMITER>南のやぐら": "<%sW_MAP_NAME><%sW_DELIMITER>South Scaffold"
@@ -6936,7 +6936,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>発芽の層": "<%sW_MAP_NAME> Germination Layer"
     },
     "2313": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>苗木の層": "<%sW_MAP_NAME> Seedling Layer"
+        "<%sW_MAP_NAME><%sW_DELIMITER>苗木の層": "<%sW_MAP_NAME> Sapling Layer"
     },
     "2314": {
         "<%sW_MAP_NAME><%sW_DELIMITER>若木の層": "<%sW_MAP_NAME> Sapling Layer"
@@ -6975,19 +6975,19 @@
         "clarity_nt_char_2325": "clarity_nt_char_2325"
     },
     "2326": {
-        "封剣の門・二獄 入口": "Sword Gate 2nd Prison Entry"
+        "封剣の門・二獄 入口": "Sword Gate Prison II Entry"
     },
     "2327": {
         "clarity_nt_char_2327": "clarity_nt_char_2327"
     },
     "2328": {
-        "封剣の門・三獄 入口": "Sword Gate 3rd Prison Entry"
+        "封剣の門・三獄 入口": "Sword Gate Prison III Entry"
     },
     "2329": {
         "clarity_nt_char_2329": "clarity_nt_char_2329"
     },
     "2330": {
-        "封剣の門・一獄 入口": "Sword Gate 1st Prison Entry"
+        "封剣の門・一獄 入口": "Sword Gate Prison I Entry"
     },
     "2331": {
         "clarity_nt_char_2331": "clarity_nt_char_2331"
@@ -7335,10 +7335,10 @@
         "静寂の泉 出口": "Quiet Spring Exit"
     },
     "2446": {
-        "浄月の間 入口": "Fullmoon Hall Entry"
+        "浄月の間 入口": "Moonlit Hall Entry"
     },
     "2447": {
-        "浄月の間 出口": "Fullmoon Hall Exit"
+        "浄月の間 出口": "Moonlit Hall Exit"
     },
     "2448": {
         "<%sW_MAP_NAME><%sW_DELIMITER>昇降の風穴": "<%sW_MAP_NAME><%sW_DELIMITER>Wind Tunnel"
@@ -7497,7 +7497,7 @@
         "clarity_nt_char_2499": "clarity_nt_char_2499"
     },
     "2500": {
-        "封剣の門・四獄 入口": "Sword Gate 4th Prison Entry"
+        "封剣の門・四獄 入口": "Sword Gate Prison IV Entry"
     },
     "2501": {
         "clarity_nt_char_2501": "clarity_nt_char_2501"
@@ -11958,16 +11958,16 @@
         "clarity_nt_char_3986": "clarity_nt_char_3986"
     },
     "3987": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>天使長室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>天使長室": "<%sW_MAP_NAME><%sW_DELIMITER>Archangel R."
     },
     "3988": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>天務室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>天務室": "<%sW_MAP_NAME><%sW_DELIMITER>Office"
     },
     "3989": {
         "clarity_nt_char_3989": "clarity_nt_char_3989"
     },
     "3990": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>戦務室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>戦務室": "<%sW_MAP_NAME><%sW_DELIMITER>Barracks"
     },
     "3991": {
         "clarity_nt_char_3991": "clarity_nt_char_3991"
@@ -12228,7 +12228,7 @@
         "clarity_nt_char_4076": "clarity_nt_char_4076"
     },
     "4077": {
-        "黄金の試練場": ""
+        "黄金の試練場": "Golden Trials"
     },
     "4078": {
         "clarity_nt_char_4078": "clarity_nt_char_4078"
@@ -12492,7 +12492,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>カンティスの家・２階": ""
     },
     "4165": {
-        "源世植物研究所 入口": ""
+        "源世植物研究所 入口": "World Botany Research Entry"
     },
     "4166": {
         "clarity_nt_char_4166": "clarity_nt_char_4166"
@@ -12525,7 +12525,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>ヘルヴェルの家・２階": "<%sW_MAP_NAME><%sW_DELIMITER>Helvel's Room 2F"
     },
     "4176": {
-        "源世植物研究所 出口": ""
+        "源世植物研究所 出口": "World Botany Research Exit"
     },
     "4177": {
         "clarity_nt_char_4177": "clarity_nt_char_4177"

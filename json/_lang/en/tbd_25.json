@@ -21,7 +21,7 @@
         "clarity_nt_char_7": "clarity_nt_char_7"
     },
     "8": {
-        "<%nL_HOUSE>　<%nL_TYOUME>丁目　<%nL_BANTI>番地": "<%nL_HOUSE> Block<%nL_TYOUME> House<%nL_BANTI>"
+        "<%nL_HOUSE>　<%nL_TYOUME>丁目　<%nL_BANTI>番地": "<%dL_HOUSE> Block<%dL_TYOUME> House<%dL_BANTI>"
     },
     "9": {
         "clarity_nt_char_9": "clarity_nt_char_9"

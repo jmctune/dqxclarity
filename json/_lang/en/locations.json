@@ -2724,7 +2724,7 @@
         "赤柱の間・一獄": "Red Pillar Prison 1"
     },
     "909": {
-        "封剣の門・一獄": "Sword Gate 1st Prison"
+        "封剣の門・一獄": "Sword Gate Prison I"
     },
     "910": {
         "<%sW_REP_MAX_2ND_R>玉座の間": "<%sW_REP_MAX_2ND_R>Throne Room"
@@ -2757,10 +2757,10 @@
         "四重の封空": "Quadruple Seal"
     },
     "920": {
-        "封剣の門・二獄": "Sword Gate 2nd Prison"
+        "封剣の門・二獄": "Sword Gate Prison II"
     },
     "921": {
-        "封剣の門・三獄": "Sword Gate 3rd Prison"
+        "封剣の門・三獄": "Sword Gate Prison III"
     },
     "922": {
         "赤柱の間・二獄": "Red Pillar Prison 2"
@@ -2895,7 +2895,7 @@
         "clarity_nt_char_965": "clarity_nt_char_965"
     },
     "966": {
-        "封剣の門・四獄": "Sword Gate 4th Prison"
+        "封剣の門・四獄": "Sword Gate Prison IV"
     },
     "967": {
         "赤柱の間・四獄": "Red Pillar Prison 4"
@@ -3204,7 +3204,7 @@
         "バトエンコロシアム": "Batoen Coliseum"
     },
     "1069": {
-        "陽衆の隠れ家": "Yangshuo's Hideout"
+        "陽衆の隠れ家": "Yang Clan Hideout"
     },
     "1070": {
         "clarity_nt_char_1070": "clarity_nt_char_1070"
@@ -4671,13 +4671,13 @@
         "clarity_nt_char_1557": "clarity_nt_char_1557"
     },
     "1558": {
-        "源世庫パニガルム": ""
+        "源世庫パニガルム": "Origin Vault Panigalm"
     },
     "1559": {
         "clarity_nt_char_1559": "clarity_nt_char_1559"
     },
     "1560": {
-        "源世植物研究所": ""
+        "源世植物研究所": "World Botany Research"
     },
     "1561": {
         "戦士の儀礼場": "Warrior's Ceremony"
@@ -4686,7 +4686,7 @@
         "clarity_nt_char_1562": "clarity_nt_char_1562"
     },
     "1563": {
-        "源世庫パニガルム控室": ""
+        "源世庫パニガルム控室": "Origin Vault Panigalm Standby"
     },
     "1564": {
         "clarity_nt_char_1564": "clarity_nt_char_1564"

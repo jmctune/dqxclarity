@@ -225,11 +225,11 @@ def scan_for_npc_names():
             continue
 
         for address in index_list:
-            if read_bytes(address, 2) == b'\x14\x6F':  # monsters
+            if read_bytes(address, 2) == b'\x9C\x82':  # monsters
                 data = monster_data
                 name_addr = address + 12  # jump to name
                 end_addr = address + 12
-            elif read_bytes(address, 2) == b'\xBC\x80':  # npcs
+            elif read_bytes(address, 2) == b'\x34\x94':  # npcs
                 data = npc_data
                 name_addr = address + 12  # jump to name
                 end_addr = address + 12
